@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Resilient Systems with Chaos Engineering in DevOps](https://dev.to/virajlakshitha/designing-resilient-systems-with-chaos-engineering-in-devops-h04)
-- [The System of Front-end UI Components](https://dev.to/ourai/the-system-of-front-end-ui-components-5hej)
-- [Understanding Microservices Architecture in Full-Stack Applications](https://dev.to/adityabhuyan/understanding-microservices-architecture-in-full-stack-applications-4n05)
-- [Tongcheng Travel Chose JuiceFS over CephFS to Manage Hundreds of Millions of Files](https://dev.to/daswu/tongcheng-travel-chose-juicefs-over-cephfs-to-manage-hundreds-of-millions-of-files-4a3m)
-- [Java Comparator vs Comparable Guide with Example](https://dev.to/imkrunalkanojiya/java-comparator-vs-comparable-guide-with-example-1j3h)
+- [Top JavaScript Interview Questions for 2 Years of Experience](https://dev.to/greatfrontend/top-javascript-interview-questions-for-2-years-of-experience-20m9)
+- [Building Your WordPress Website: Custom Code or Page Builder?](https://dev.to/jorgearay/building-your-wordpress-website-custom-code-or-page-builder-3jip)
+- [How to Solve the Major Issue Caused by DolphinScheduler&#39;s Self-Fault Tolerance Leading to Continuous Server Crashes](https://dev.to/chen_debra_3060b21d12b1b0/how-to-solve-the-major-issue-caused-by-dolphinschedulers-self-fault-tolerance-leading-to-4p6c)
+- [3 Essential Tools Help Independent Developers Thrive in 2025](https://dev.to/tomastomas/3-essential-tools-help-independent-developers-thrive-in-2025-3lpb)
+- [Python&#39;s Unstoppable Rise, Dominating The Modern Backend Environment](https://dev.to/ivansing/pythons-unstoppable-rise-dominating-the-modern-backend-environment-4m20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
