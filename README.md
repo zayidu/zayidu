@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The best web crawler tools in 2025](https://dev.to/98ip/the-best-web-crawler-tools-in-2025-331m)
-- [خا](https://dev.to/hamidreza_karbalivand_476/kh-2539)
-- [The Hidden Challenges of Cross-Border E-Commerce and How to Overcome Them](https://dev.to/hana_lee/the-hidden-challenges-of-cross-border-e-commerce-and-how-to-overcome-them-45el)
-- [CSS Gradient Generator 🚀 🌟](https://dev.to/hanzla-baig/css-gradient-generator-3occ)
-- [What if Finding Quality Programming Books &amp; Courses Was Actually Simple? Meet Codelier!](https://dev.to/vivgui/what-if-finding-quality-programming-books-courses-was-actually-simple-meet-codelier-4d64)
+- [Designing Resilient Systems with Chaos Engineering in DevOps](https://dev.to/virajlakshitha/designing-resilient-systems-with-chaos-engineering-in-devops-h04)
+- [The System of Front-end UI Components](https://dev.to/ourai/the-system-of-front-end-ui-components-5hej)
+- [Understanding Microservices Architecture in Full-Stack Applications](https://dev.to/adityabhuyan/understanding-microservices-architecture-in-full-stack-applications-4n05)
+- [Tongcheng Travel Chose JuiceFS over CephFS to Manage Hundreds of Millions of Files](https://dev.to/daswu/tongcheng-travel-chose-juicefs-over-cephfs-to-manage-hundreds-of-millions-of-files-4a3m)
+- [Java Comparator vs Comparable Guide with Example](https://dev.to/imkrunalkanojiya/java-comparator-vs-comparable-guide-with-example-1j3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
