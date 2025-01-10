@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Z-turn Board V2: Initial Setup Guide &lpar;Part 1&rpar;](https://dev.to/spencer741/getting-started-with-z-turn-board-v2-initial-setup-guide-part-1-448m)
-- [Amazon SES Setup for Tracking Bounces and Complaints](https://dev.to/smit-vaghasiya/amazon-ses-setup-for-tracking-bounces-and-complaints-50c5)
-- [How to solve this](https://dev.to/quentinmarcus/how-to-solve-this-gop)
-- [How to Handle reCAPTCHA in Web Scraping](https://dev.to/jvicmaina/how-to-handle-recaptcha-in-web-scraping-3aj0)
-- [The Essentials of Web Scraping Libraries and Their Importance](https://dev.to/jvicmaina/the-essentials-of-web-scraping-libraries-and-their-importance-3dip)
+- [The Dangers of Fake IPs and How to Protect Your Privacy](https://dev.to/swiftproxy_residential/the-dangers-of-fake-ips-and-how-to-protect-your-privacy-4fo2)
+- [Local AI Avatars answer history questions in Unity app](https://dev.to/chrisdoublev/local-ai-avatars-answer-history-questions-in-unity-app-fk0)
+- [DevOps Technology in 2025: Trends, Innovations, and Future Directions](https://dev.to/s3cloudhub/devops-technology-in-2025-trends-innovations-and-future-directions-16fc)
+- [Top DevSecOps Tools for 2025](https://dev.to/yiran_jing_d932aa8bc72a83/top-devsecops-tools-for-2025-4pal)
+- [interactive designs. Open to freelance work and collaborations. Let’s build something amazing together!](https://dev.to/hamza_isaibrahim/interactive-designs-open-to-freelance-work-and-collaborations-lets-build-something-amazing-49aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
