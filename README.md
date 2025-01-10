@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Project on Firebase Hosting](https://dev.to/roton2/how-to-host-a-project-on-firebase-hosting-37dg)
-- [Kadane&#39;s Algorithm: Leetcode 53 Maximum subarray](https://dev.to/devn913/kadanes-algorithm-leetcode-53-maximum-subarray-17c8)
-- [How To Design Front-end UI Components](https://dev.to/ourai/how-to-design-front-end-ui-components-343o)
-- [How to Host a Project on Vercel Using a GitHub Repository](https://dev.to/roton2/how-to-host-a-project-on-vercel-using-a-github-repository-4aj3)
-- [DBChat: Getting a Toy REPL Going in Golang &lpar;Part 2&rpar;](https://dev.to/shrsv/dbchat-getting-a-toy-repl-going-in-golang-part-2-38md)
+- [Self-Taught is Still Possible In 2025](https://dev.to/nmiller15/self-taught-is-still-possible-in-2025-546d)
+- [Explore, Scan, Secure: Nmap for Network Ninjas](https://dev.to/karanjain2527/explore-scan-secure-nmap-for-network-ninjas-4p0m)
+- [How to improve MSAA performance of MTKView](https://dev.to/keaukraine/how-to-improve-msaa-performance-of-mtkview-25da)
+- [Mockando Constantes em Testes com Jest: Um Exemplo Prático](https://dev.to/vitorrios1001/mockando-constantes-em-testes-com-jest-um-exemplo-pratico-1g2c)
+- [Using K-Nearest Neighbors &lpar;KNN&rpar; in Business Settings](https://dev.to/flnzba/using-k-nearest-neighbors-knn-in-business-settings-f9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
