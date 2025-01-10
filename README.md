@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top JavaScript Interview Questions for 2 Years of Experience](https://dev.to/greatfrontend/top-javascript-interview-questions-for-2-years-of-experience-20m9)
-- [Building Your WordPress Website: Custom Code or Page Builder?](https://dev.to/jorgearay/building-your-wordpress-website-custom-code-or-page-builder-3jip)
-- [How to Solve the Major Issue Caused by DolphinScheduler&#39;s Self-Fault Tolerance Leading to Continuous Server Crashes](https://dev.to/chen_debra_3060b21d12b1b0/how-to-solve-the-major-issue-caused-by-dolphinschedulers-self-fault-tolerance-leading-to-4p6c)
-- [3 Essential Tools Help Independent Developers Thrive in 2025](https://dev.to/tomastomas/3-essential-tools-help-independent-developers-thrive-in-2025-3lpb)
-- [Python&#39;s Unstoppable Rise, Dominating The Modern Backend Environment](https://dev.to/ivansing/pythons-unstoppable-rise-dominating-the-modern-backend-environment-4m20)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
+- [The Future of Architecture is Being Built by Robots](https://dev.to/material360/the-future-of-architecture-is-being-built-by-robots-4neb)
+- [TanStack Router: The Future of React Routing in 2025](https://dev.to/rigalpatel001/tanstack-router-the-future-of-react-routing-in-2025-421p)
+- [Unleashing the Power of Next: How You Can Benefit from It](https://dev.to/dhrumitdk/unleashing-the-power-of-next-how-you-can-benefit-from-it-3mk9)
+- [Introduction to Codigger System Keeping](https://dev.to/codigger/introduction-to-codigger-system-keeping-2abd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
