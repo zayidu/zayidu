@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resources and Cost Optimization Strategy in AWS](https://dev.to/danmuso/resources-and-cost-optimization-strategy-in-aws-iob)
-- [Niftyzk Tutorials 5 - CosmWasm](https://dev.to/strawberry666/niftyzk-tutorials-5-cosmwasm-1g6n)
-- [The Future of Frontend Development: What WebAssembly Means for React Developers](https://dev.to/ayusharpcoder/the-future-of-frontend-development-what-webassembly-means-for-react-developers-38gm)
-- [Niftyzk tutorial 4 - Ceremony](https://dev.to/strawberry666/niftyzk-tutorial-4-ceremony-2enj)
-- [New Approaches to AI Testing: Revolutionizing Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/new-approaches-to-ai-testing-revolutionizing-quality-assurance-4kho)
+- [Why Quick Sort is Faster Than Heap Sort](https://dev.to/jaiminbariya/why-quick-sort-is-faster-than-heap-sort-4aca)
+- [Insert into linked list random position](https://dev.to/myora/insert-into-linked-list-random-position-2029)
+- [How to create perfect CSS circle sectors](https://dev.to/andreigheorghiu/how-to-create-perfect-css-circle-sectors-2h43)
+- [Build Your Perfect Roadmap with Roadmap Creator - A Simple and Intuitive Tool](https://dev.to/bugblitz98/build-your-perfect-roadmap-with-roadmap-creator-a-simple-and-intuitive-tool-50pi)
+- [Week 12 of #100DaysOfCode: Resilience, Growth, and New Skills](https://dev.to/toptech5419/week-12-of-100daysofcode-resilience-growth-and-new-skills-1f7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
