@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DBChat Part 3 - Configure , Connect &amp; Dump Databases](https://dev.to/shrsv/dbchat-part-3-configure-connect-dump-databases-4ogh)
-- [How I Achieved 60% Faster Queries with Indexing](https://dev.to/digitalminds/how-i-achieved-60-faster-queries-with-indexing-514e)
-- [Dynamic Head-Out Image Box Using React + Tailwind CSS](https://dev.to/hayyaun/creating-a-dynamic-head-out-image-box-using-react-tailwind-css-3mkp)
-- [Provision EKS Cluster with Terraform, Terragrunt &amp; GitHub Actions](https://dev.to/aws-builders/provision-eks-cluster-with-terraform-terragrunt-github-actions-1c64)
-- [Adding Node.js server to Tauri App as a sidecar](https://dev.to/zaid_sunasra/adding-nodejs-server-to-tauri-app-as-a-sidecar-509j)
+- [Top 12 Best Practices for REST APIs using C# .NET](https://dev.to/adrianbailador/top-12-best-practices-for-rest-apis-using-c-net-4kpp)
+- [Documentation is marketing](https://dev.to/loccolito/documentation-is-marketing-2d76)
+- [Emergent Software Principles I&#39;ve Learned](https://dev.to/haydenrear/emergent-software-principles-ive-learned-2pef)
+- [Identifying and Resolving Blocking Sessions in Oracle Database](https://dev.to/arvind_toorpu/identifying-and-resolving-blocking-sessions-in-oracle-database-3odl)
+- [SkyGreen: Your Flight&#39;s Carbon Footprint Calculator](https://dev.to/binarygarage/skygreen-your-flights-carbon-footprint-calculator-5fnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
