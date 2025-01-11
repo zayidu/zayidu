@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey in Open-Source Library Development](https://dev.to/empiree/my-journey-in-open-source-library-development-10ij)
-- [JOOQ Is Not a Replacement for Hibernate. They Solve Different Problems](https://dev.to/kirekov/jooq-is-not-a-replacement-for-hibernate-they-solve-different-problems-1ml3)
-- [The Rise of Payable AI: Shaping the Future of Artificial Intelligence](https://dev.to/margaretjohn/the-rise-of-payable-ai-shaping-the-future-of-artificial-intelligence-1bd1)
-- [🌟 **160 Days of GeeksforGeeks Coding Challenge** 🌟 🚀 **Journey So Far: Day 57 and Counting!** 🚀🎉](https://dev.to/abhisek_panda/160-days-of-geeksforgeeks-coding-challenge-journey-so-far-day-57-and-counting-1gj)
-- [The Dangers of AI Coding Tools: Navigating the Risks](https://dev.to/hexa-home/the-dangers-of-ai-coding-tools-navigating-the-risks-1jfe)
+- [2025’s Must-Know Tech Stacks](https://dev.to/abubakersiddique761/2025s-must-know-tech-stacks-4b74)
+- [Easily Evaluate and Choose the Best Foundation Model with Amazon Bedrock&#39;s Model Evaluation Feature](https://dev.to/_sarahguo/easily-evaluate-and-choose-the-best-foundation-model-with-amazon-bedrocks-model-evaluation-feature-a61)
+- [Untitled 1sjdhwjdh](https://dev.to/066_rushabhpatel_c524cb0/untitled-1sjdhwjdh-2b5)
+- [กว่าจะมาเป็น Software Developer ในบริษัทข้ามชาติ ที่เจ้าของเป็นคนฝรั่งเศส!](https://dev.to/gamertense/kwaacchamaaepn-software-developer-ainbrisathkhaamchaati-thiiecchaakhngepnkhnfrangess-4mkn)
+- [Creating a Basic Calculator Using HTML, CSS and JavaScript](https://dev.to/bigyan_karki/creating-a-basic-calculator-using-html-css-and-javascript-33j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
