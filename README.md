@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining CI/CD: A Complete Guide to Installing Jenkins on AWS EC2](https://dev.to/khalifalmahmud0/streamlining-cicd-a-complete-guide-to-installing-jenkins-on-aws-ec2-1edl)
-- [How to Load More data using ajax pagination on scroll in laravel 11 Example](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-load-more-data-using-ajax-pagination-on-scroll-in-laravel-11-example-2e50)
-- [TDD: No, Not Test-Driven Development; Let’s Talk Technical Design Documents](https://dev.to/hasan_py/tdd-no-not-test-driven-development-lets-talk-technical-design-documents-594m)
-- [As a beginner I need to go deeper, coding with a team might help learn quicker](https://dev.to/bhuti_db4b189b6679e2d0793/as-a-beginner-i-need-to-go-deeper-coding-with-a-team-might-help-learn-quicker-13l1)
-- [How to Image Upload with CKeditor in Laravel 11 Tutorial](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-image-upload-with-ckeditor-in-laravel-11-tutorial-2lo3)
+- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-167d)
+- [Zsh vs Bash: Key Differences, Features, and Which to Choose](https://dev.to/codeparrot/zsh-vs-bash-key-differences-features-and-which-to-choose-55j4)
+- [Python Sucks at For Loops – And That’s Exactly Why We Love It](https://dev.to/pranta/python-sucks-at-for-loops-and-thats-exactly-why-we-love-it-3o1)
+- [Harnessing Functional Programming with JavaScript](https://dev.to/shafayeat/harnessing-functional-programming-with-javascript-3i7b)
+- [Want to Level Up Your Leadership Game? 🚀](https://dev.to/sayyad_arsalan_97175d7177/want-to-level-up-your-leadership-game-2klb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
