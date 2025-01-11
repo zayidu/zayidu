@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025’s Must-Know Tech Stacks](https://dev.to/abubakersiddique761/2025s-must-know-tech-stacks-4b74)
-- [Easily Evaluate and Choose the Best Foundation Model with Amazon Bedrock&#39;s Model Evaluation Feature](https://dev.to/_sarahguo/easily-evaluate-and-choose-the-best-foundation-model-with-amazon-bedrocks-model-evaluation-feature-a61)
-- [Untitled 1sjdhwjdh](https://dev.to/066_rushabhpatel_c524cb0/untitled-1sjdhwjdh-2b5)
-- [กว่าจะมาเป็น Software Developer ในบริษัทข้ามชาติ ที่เจ้าของเป็นคนฝรั่งเศส!](https://dev.to/gamertense/kwaacchamaaepn-software-developer-ainbrisathkhaamchaati-thiiecchaakhngepnkhnfrangess-4mkn)
-- [Creating a Basic Calculator Using HTML, CSS and JavaScript](https://dev.to/bigyan_karki/creating-a-basic-calculator-using-html-css-and-javascript-33j8)
+- [.NET 9 vs .NET 8: Key Differences and New Features for Developers](https://dev.to/leandroveiga/net-9-vs-net-8-key-differences-and-new-features-for-developers-4bg3)
+- [Introducing KoiCom: A Library for Building Front-End Interfaces](https://dev.to/valkoivo/introducing-koicom-a-library-for-building-front-end-interfaces-5cfb)
+- [Best Practices for Managing Route Names and Paths with go_router in Flutter](https://dev.to/7twilight/best-practices-for-managing-route-names-and-paths-with-gorouter-in-flutter-4pd8)
+- [Troubleshooting AWS NAT Instance Connectivity Issues: A Comprehensive Guide](https://dev.to/chatgptnexus/2025011122-41-44-article-5932)
+- [VS Code Shortcuts You Shouldn&#39;t Live Without 🚀 &lpar;Because, Let’s Face It, You Don’t Have a Life Anyway&rpar;](https://dev.to/sudo_091/vs-code-shortcuts-you-shouldnt-live-without-because-lets-face-it-you-dont-have-a-life-4cmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
