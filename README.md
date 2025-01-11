@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 12 Best Practices for REST APIs using C# .NET](https://dev.to/adrianbailador/top-12-best-practices-for-rest-apis-using-c-net-4kpp)
-- [Documentation is marketing](https://dev.to/loccolito/documentation-is-marketing-2d76)
-- [Emergent Software Principles I&#39;ve Learned](https://dev.to/haydenrear/emergent-software-principles-ive-learned-2pef)
-- [Identifying and Resolving Blocking Sessions in Oracle Database](https://dev.to/arvind_toorpu/identifying-and-resolving-blocking-sessions-in-oracle-database-3odl)
-- [SkyGreen: Your Flight&#39;s Carbon Footprint Calculator](https://dev.to/binarygarage/skygreen-your-flights-carbon-footprint-calculator-5fnd)
+- [Testing with different text](https://dev.to/mariem_sghaier/testing-with-different-text-2edn)
+- [Discovering the new LINQ methods in C# 9](https://dev.to/alpacaappsdev/discovering-the-new-linq-methods-in-c-9-326l)
+- [Aurelia 2: A Fresh Take on JavaScript Frameworks](https://dev.to/hdzcalmir/aurelia-2-a-fresh-take-on-javascript-frameworks-3h20)
+- [New beginnings:](https://dev.to/rinwaoluwa/new-beginnings-254c)
+- [Por que e como rodar bancos de dados em diferentes nuvens?](https://dev.to/bulletdev/por-que-e-como-rodar-bancos-de-dados-em-diferentes-nuvens-e3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
