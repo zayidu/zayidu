@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret to Making Landing Pages Convert: A Step-by-Step Guide](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-secret-to-making-landing-pages-convert-a-step-by-step-guide-ejp)
-- [Privacy-Preserving Web Searches: Safeguarding User Data in the Age of AI and the Data Economy](https://dev.to/amio13/privacy-preserving-web-searches-safeguarding-user-data-in-the-age-of-ai-and-the-data-economy-1508)
-- [TEsting](https://dev.to/ajay_luhach7/react-input-component-5aoa)
-- [Mem Reduct Download: A Comprehensive Guide to Optimizing Your PC Memory](https://dev.to/finallen25/mem-reduct-download-a-comprehensive-guide-to-optimizing-your-pc-memory-3i7n)
-- [UploadThing: A Modern File Upload Solution for Next.js Applications](https://dev.to/codeparrot/uploadthing-a-modern-file-upload-solution-for-nextjs-applications-1gpb)
+- [Top 20 Unique Database Project Ideas For Students](https://dev.to/tarunfulera/top-20-unique-database-project-ideas-for-students-lej)
+- [Circle of Strategy: The Ultimate Puzzle Game for Logic Enthusiasts](https://dev.to/tjsyte/circle-of-strategy-the-ultimate-puzzle-game-for-logic-enthusiasts-2b40)
+- [Affordable Object Storage Solutions for Developers in 2025](https://dev.to/adityabhuyan/affordable-object-storage-solutions-for-developers-in-2025-2o17)
+- [Dependency injection validation error in ASP.NET Core projects](https://dev.to/alechka/dependency-injection-validation-error-in-aspnet-core-projects-3d7j)
+- [Why are we so rubbish at accessibility?](https://dev.to/carmemias/why-are-we-so-rubbish-at-accessibility-596g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
