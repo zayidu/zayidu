@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s What’s New in .NET 9!](https://dev.to/blkgrlcto/heres-whats-new-in-net-9-5dfp)
 - [Massively Scalable Processing &amp; Massively Parallel Processing](https://dev.to/asankab/massively-scalable-processing-massively-parallel-processing-5h5h)
 - [🚀 Introducing DataForge: A Laravel-Based Framework to Transform Backend Development](https://dev.to/astratechnodataforge/introducing-dataforge-a-laravel-based-framework-to-transform-backend-development-1600)
 - [Top Blogging Platforms That Support Posting Articles via API](https://dev.to/chatgptnexus/2025011111-20-31-article-2m44)
 - [🤖🧠Making Tech Blog 2️⃣&lpar;MUI &lpar;Material UI&rpar;&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-2mui-material-ui-14g3)
-- [Innovative Strategies for Website Development for Startups in 2025](https://dev.to/jetthoughts/innovative-strategies-for-website-development-for-startups-in-2025-2hm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
