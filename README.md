@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing with different text](https://dev.to/mariem_sghaier/testing-with-different-text-2edn)
-- [Discovering the new LINQ methods in C# 9](https://dev.to/alpacaappsdev/discovering-the-new-linq-methods-in-c-9-326l)
-- [Aurelia 2: A Fresh Take on JavaScript Frameworks](https://dev.to/hdzcalmir/aurelia-2-a-fresh-take-on-javascript-frameworks-3h20)
-- [New beginnings:](https://dev.to/rinwaoluwa/new-beginnings-254c)
-- [Por que e como rodar bancos de dados em diferentes nuvens?](https://dev.to/bulletdev/por-que-e-como-rodar-bancos-de-dados-em-diferentes-nuvens-e3m)
+- [Rust: Demystifying Middleware in Actix Web](https://dev.to/crusty-rustacean/rust-demystifying-middleware-in-actix-web-1bbm)
+- [Why Your Career Deserves More Than Just a Job?](https://dev.to/nicolasmrtns/why-your-career-deserves-more-than-just-a-job-48f8)
+- [Understanding Insertion Sort in Kotlin : A Beginner&#39;s Guide](https://dev.to/wolfof420street/understanding-insertion-sort-in-kotlin-a-beginners-guide-5087)
+- [The Secret Weapon Against API Abuse: The Power of Rate Limiting](https://dev.to/suneeh/the-secret-weapon-against-api-abuse-the-power-of-rate-limiting-3kpa)
+- [Free Services to Expose Localhost to HTTPS A Comparison](https://dev.to/tahsin000/free-services-to-expose-localhost-to-https-a-comparison-5c19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
