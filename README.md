@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/brunociccarino/-57cf)
-- [When Was the Last Time You Programmed Just for Fun?](https://dev.to/brunociccarino/when-was-the-last-time-you-programmed-just-for-fun-4hcm)
-- [Improving Your Productivity With Git Worktrees](https://dev.to/implosion/improving-your-productivity-with-git-worktrees-1k54)
-- [Building &quot;🔥Roast Me🤪&quot; with GitHub Copilot - A 1-Day Build Challenge](https://dev.to/jacksonkasi/building-roast-me-with-github-copilot-a-1-day-build-challenge-21gd)
-- [Understanding HTTP and HTTPS: A Comprehensive Overview](https://dev.to/ayako_yk/understanding-http-and-https-a-comprehensive-overview-50bk)
+- [DBChat Part 3 - Configure , Connect &amp; Dump Databases](https://dev.to/shrsv/dbchat-part-3-configure-connect-dump-databases-4ogh)
+- [How I Achieved 60% Faster Queries with Indexing](https://dev.to/digitalminds/how-i-achieved-60-faster-queries-with-indexing-514e)
+- [Dynamic Head-Out Image Box Using React + Tailwind CSS](https://dev.to/hayyaun/creating-a-dynamic-head-out-image-box-using-react-tailwind-css-3mkp)
+- [Provision EKS Cluster with Terraform, Terragrunt &amp; GitHub Actions](https://dev.to/aws-builders/provision-eks-cluster-with-terraform-terragrunt-github-actions-1c64)
+- [Adding Node.js server to Tauri App as a sidecar](https://dev.to/zaid_sunasra/adding-nodejs-server-to-tauri-app-as-a-sidecar-509j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
