@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Unique Database Project Ideas For Students](https://dev.to/tarunfulera/top-20-unique-database-project-ideas-for-students-lej)
-- [Circle of Strategy: The Ultimate Puzzle Game for Logic Enthusiasts](https://dev.to/tjsyte/circle-of-strategy-the-ultimate-puzzle-game-for-logic-enthusiasts-2b40)
-- [Affordable Object Storage Solutions for Developers in 2025](https://dev.to/adityabhuyan/affordable-object-storage-solutions-for-developers-in-2025-2o17)
-- [Dependency injection validation error in ASP.NET Core projects](https://dev.to/alechka/dependency-injection-validation-error-in-aspnet-core-projects-3d7j)
-- [Why are we so rubbish at accessibility?](https://dev.to/carmemias/why-are-we-so-rubbish-at-accessibility-596g)
+- [Day 2: Creating NBA Game Day Notification System using Event-Driven Architecture](https://dev.to/rahmantheman/day-2-creating-nba-game-day-notification-system-using-event-driven-architecture-14kh)
+- [Developer Engagement Optimization: Harnessing AI for Better Collaboration and Growth](https://dev.to/rakeshdoc-e/developer-engagement-optimization-harnessing-ai-for-better-collaboration-and-growth-len)
+- [The Super Integrated Circuit Chip: Revolutionizing Semiconductor Technology](https://dev.to/rimaakter1/the-super-integrated-circuit-chip-revolutionizing-semiconductor-technology-1h2k)
+- [How To Design Social Media Graphics: Step-By-Step Guide](https://dev.to/tarunfulera/how-to-design-social-media-graphics-step-by-step-guide-34p6)
+- [How to Create and Publish an Android Library for Beginners](https://dev.to/khushpanchal123/how-to-create-and-publish-an-android-library-for-beginners-1570)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
