@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 9 vs .NET 8: Key Differences and New Features for Developers](https://dev.to/leandroveiga/net-9-vs-net-8-key-differences-and-new-features-for-developers-4bg3)
-- [Introducing KoiCom: A Library for Building Front-End Interfaces](https://dev.to/valkoivo/introducing-koicom-a-library-for-building-front-end-interfaces-5cfb)
-- [Best Practices for Managing Route Names and Paths with go_router in Flutter](https://dev.to/7twilight/best-practices-for-managing-route-names-and-paths-with-gorouter-in-flutter-4pd8)
-- [Troubleshooting AWS NAT Instance Connectivity Issues: A Comprehensive Guide](https://dev.to/chatgptnexus/2025011122-41-44-article-5932)
-- [VS Code Shortcuts You Shouldn&#39;t Live Without 🚀 &lpar;Because, Let’s Face It, You Don’t Have a Life Anyway&rpar;](https://dev.to/sudo_091/vs-code-shortcuts-you-shouldnt-live-without-because-lets-face-it-you-dont-have-a-life-4cmn)
+- [Streamlining CI/CD: A Complete Guide to Installing Jenkins on AWS EC2](https://dev.to/khalifalmahmud0/streamlining-cicd-a-complete-guide-to-installing-jenkins-on-aws-ec2-1edl)
+- [How to Load More data using ajax pagination on scroll in laravel 11 Example](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-load-more-data-using-ajax-pagination-on-scroll-in-laravel-11-example-2e50)
+- [TDD: No, Not Test-Driven Development; Let’s Talk Technical Design Documents](https://dev.to/hasan_py/tdd-no-not-test-driven-development-lets-talk-technical-design-documents-594m)
+- [As a beginner I need to go deeper, coding with a team might help learn quicker](https://dev.to/bhuti_db4b189b6679e2d0793/as-a-beginner-i-need-to-go-deeper-coding-with-a-team-might-help-learn-quicker-13l1)
+- [How to Image Upload with CKeditor in Laravel 11 Tutorial](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-image-upload-with-ckeditor-in-laravel-11-tutorial-2lo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
