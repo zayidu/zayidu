@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Niftyzk tutorial 2, The Commit-reveal scheme](https://dev.to/strawberry666/niftyzk-tutorial-2-the-commit-reveal-scheme-25ll)
-- [Programming Memes 🚀](https://dev.to/hanzla-baig/programming-memes-bla)
-- [Beyond Code: Why Problem-Solving Skills Are Essential for Programmers](https://dev.to/3nginuity/beyond-code-why-problem-solving-skills-are-essential-for-programmers-14n)
-- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/itanand_/compiling-2025-my-roadmap-for-the-year-ahead-1cjp)
-- [CDK construct for a SaaS that performs data analysis on S3 using DuckDB](https://dev.to/kazuho/cdk-construct-for-a-saas-that-performs-data-analysis-on-s3-using-duckdb-ebd)
+- [Resources and Cost Optimization Strategy in AWS](https://dev.to/danmuso/resources-and-cost-optimization-strategy-in-aws-iob)
+- [Niftyzk Tutorials 5 - CosmWasm](https://dev.to/strawberry666/niftyzk-tutorials-5-cosmwasm-1g6n)
+- [The Future of Frontend Development: What WebAssembly Means for React Developers](https://dev.to/ayusharpcoder/the-future-of-frontend-development-what-webassembly-means-for-react-developers-38gm)
+- [Niftyzk tutorial 4 - Ceremony](https://dev.to/strawberry666/niftyzk-tutorial-4-ceremony-2enj)
+- [New Approaches to AI Testing: Revolutionizing Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/new-approaches-to-ai-testing-revolutionizing-quality-assurance-4kho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
