@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 Recap; 2025 Goals](https://dev.to/haleyelder/2024-recap-2025-goals-2bnd)
-- [&quot;Revolutionizing Diagnosis: XAI and Deep Learning in Brain Cancer Detection&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-diagnosis-xai-and-deep-learning-in-brain-cancer-detection-2cph)
-- [Bootcamp vs. Self-Taught: Which path is the best?](https://dev.to/codex_whisperer/bootcamp-vs-self-taught-which-path-is-the-best-5acp)
-- [Daily JavaScript Challenge #JS-70: Find Missing Letter in Alphabet Sequence](https://dev.to/dpc/daily-javascript-challenge-js-70-find-missing-letter-in-alphabet-sequence-1a43)
-- [Benefits and Challenges of Using Encryption in a React Native App](https://dev.to/aneeqakhan/benefits-and-challenges-of-using-encryption-in-a-react-native-app-1ego)
+- [Entity Framework Core Code First](https://dev.to/chami/entity-framework-core-database-first-378e)
+- [Secrets of a Flight Attendant&#39;s Life:Top Ways to Spend Money in the Game - Devlog #11](https://dev.to/khaisimon_devgame/secrets-of-a-flight-attendants-lifetop-ways-to-spend-money-in-the-game-devlog-11-4edl)
+- [Configuring a Virtual IP &lpar;VIP&rpar; ensures seamless failover and high availability for MariaDB Galera Cluster on Ubuntu 24.04 LTS](https://dev.to/chittrmahto/configuring-a-virtual-ip-vip-ensures-seamless-failover-and-high-availability-for-mariadb-galera-8h2)
+- [Intro to Data Analysis using PySpark](https://dev.to/nehamaity/intro-to-data-analysis-using-pyspark-3hg5)
+- [How Changing Teams Can Accelerate Professional Growth at Amazon](https://dev.to/mastermentee/how-changing-teams-can-accelerate-professional-growth-at-amazon-1on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
