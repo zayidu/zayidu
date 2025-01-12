@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: Revolutionizing Automation and Decision-Making](https://dev.to/mazharhuda/ai-agents-revolutionizing-automation-and-decision-making-eif)
-- [How to Get Started with Bash Scripting for Automation](https://dev.to/aditya8raj/how-to-get-started-with-bash-scripting-for-automation-5d0k)
-- [Mấy dòng suy nghĩ về RR1](https://dev.to/huyng3/may-dong-suy-nghi-ve-rr1-20i5)
-- [I made a chrome extension that fixes YouTube recommendations](https://dev.to/bobbydxl/i-made-a-chrome-extension-that-fixes-youtube-recommendations-2kka)
-- [Understanding Elastic IPs: Use Cases, Best Practices, and Limitations](https://dev.to/megha_shivhare_5038dc1047/understanding-elastic-ips-use-cases-best-practices-and-limitations-16e1)
+- [Brevo smtp emails to other gmail accounts silently failing , verified domain to the rescue](https://dev.to/tigawanna/brevo-smtp-emails-to-other-gmail-accounts-silently-failing-verified-domain-to-the-rescue-1d78)
+- [Implementing Kubernetes Security with Kyverno: A Journey Through Resource Management](https://dev.to/devopsbysetchuko/implementing-kubernetes-security-with-kyverno-a-journey-through-resource-management-16ea)
+- [Comprehensive Guide to Installing AWS CLI, Configuring It, and Downloading S3 Buckets Locally](https://dev.to/himanshusinghtomar/comprehensive-guide-to-installing-aws-cli-configuring-it-and-downloading-s3-buckets-locally-h)
+- [When and Why You Need Sharding: A Complete Guide to Scaling Databases Efficiently](https://dev.to/lvalen/when-and-why-you-need-sharding-a-complete-guide-to-scaling-databases-efficiently-3h8g)
+- [How to Build Text-to-Speech with React and Transformers.js](https://dev.to/emojiiii/how-to-build-text-to-speech-with-react-and-transformersjs-206h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
