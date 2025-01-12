@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Pull-to-Refresh in React Native: A Guide to Smooth Data Reloading 🚀](https://dev.to/amitkumar13/mastering-pull-to-refresh-in-react-native-a-guide-to-smooth-data-reloading-3apo)
-- [JavaScript is best programing language](https://dev.to/rudraprasad-pradhan/javascript-is-best-programing-language-255g)
-- [Latest Trends in AI in 2025](https://dev.to/rodiwa/latest-trends-in-ai-in-2025-284j)
-- [Want to build React Community in my city.](https://dev.to/shubham_gupta_5f11bdf672a/want-to-build-react-community-in-my-city-3ll2)
-- [From Code to Connection: The Human Side of Engineering](https://dev.to/arpitstack/from-code-to-connection-the-human-side-of-engineering-2a59)
+- [Using server sent events in ASP.NET](https://dev.to/ayus_13/using-server-sent-events-in-aspnet-58e)
+- [Converting documents for LLM processing — A modern approach](https://dev.to/s_emanuilov/converting-documents-for-llm-processing-a-modern-approach-3apg)
+- [Converting documents for LLM processing — A modern approach](https://dev.to/s_emanuilov/converting-documents-for-llm-processing-a-modern-approach-2a0a)
+- [Mastering Java: A Beginner&#39;s Guide to Building Robust Applications](https://dev.to/kelvincode1234/mastering-java-a-beginners-guide-to-building-robust-applications-34d1)
+- [Analyzing LinkedIn Company Posts with Graphs and Agents](https://dev.to/neuml/analyzing-linkedin-company-posts-with-graphs-and-agents-3m77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
