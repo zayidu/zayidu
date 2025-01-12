@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Learning Next.js: Building Real Projects](https://dev.to/khanalsamir/my-journey-learning-nextjs-building-real-projects-7c8)
-- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-1ige)
-- [60 Days Habit Tracker - Productivity Tool](https://dev.to/dhanush9952/60-days-habit-tracker-productivity-tool-1o3c)
-- [Understanding JavaScript Data Types](https://dev.to/ridoy_hasan/understanding-javascript-data-types-2208)
-- [Enforcing Strong Passwords in Laravel](https://dev.to/yasserelgammal/enforcing-strong-passwords-in-laravel-ibk)
+- [Enhance Your React Native App with Debouncing for API Optimization](https://dev.to/amitkumar13/enhance-your-react-native-app-with-debouncing-for-api-optimization-5ban)
+- [Pod Topology Spread Constraints](https://dev.to/jacktt/pod-topology-spread-constraints-2pd7)
+- [Boosting Productivity: The Rise of Apps for Individuals and Managers](https://dev.to/wileybock9/boosting-productivity-the-rise-of-apps-for-individuals-and-managers-2hm)
+- [Tired of entering Github GPG key each time?](https://dev.to/mhardik003/tired-of-entering-github-gpg-key-each-time-5hm1)
+- [The Future of AI Translation: What&#39;s Next?](https://dev.to/girff/the-future-of-ai-translation-whats-next-14j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
