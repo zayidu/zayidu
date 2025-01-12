@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode Blind 75](https://dev.to/jaiminbariya/leetcode-blind-75-49mp)
+- [Como criar uma imagem Mysql no Docker e conectar ao Dbeaver 😉](https://dev.to/a_audrey/como-criar-uma-imagem-mysql-no-docker-e-conectar-ao-dbeaver-496h)
+- [Signs Your Company Is Recovering From ZIRP](https://dev.to/jetthoughts/signs-your-company-is-recovering-from-zirp-2408)
+- [🚀Boost Your React Performance with useMemo and useCallback🚀](https://dev.to/matin676/boost-your-react-performance-with-usememo-and-usecallback-25ge)
 - [how to write a Rabbit Message](https://dev.to/said_olano/how-to-write-a-rabbit-message-35db)
-- [New Project: a repository of style references for MidJourney](https://dev.to/leooo_dev/new-project-a-repository-of-style-references-for-midjourney-45ho)
-- [Static sites FTW](https://dev.to/w4ffl35/static-sites-ftw-3cg2)
-- [Install PyTorch and JupyterLab on Ubuntu](https://dev.to/hyperkai/install-pytorch-and-jupyterlab-on-ubuntu-294i)
-- [Entity Framework Core Code First](https://dev.to/chami/entity-framework-core-database-first-378e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
