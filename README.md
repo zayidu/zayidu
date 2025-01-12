@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Model Lets You Edit Photos With Just a Click - New Mask Generation Tech Simplifies Image Editing](https://dev.to/mikeyoung44/ai-model-lets-you-edit-photos-with-just-a-click-new-mask-generation-tech-simplifies-image-editing-2oek)
-- [Understanding Large Language Models: Key Capabilities, Limitations, and Future Challenges](https://dev.to/mikeyoung44/understanding-large-language-models-key-capabilities-limitations-and-future-challenges-4em5)
-- [THE 2025 MASTERPLAN](https://dev.to/shaman_shetty/the-2025-masterplan-363g)
-- [Beyond MVC: Redefining Backend Development with DataForge](https://dev.to/astratechnodataforge/beyond-mvc-redefining-backend-development-with-dataforge-2fl9)
-- [How I Created &amp; Published A Chrome Extension With AI?](https://dev.to/vijaythapa/how-i-created-published-a-chrome-extension-with-ai-46op)
+- [AI Agents: Revolutionizing Automation and Decision-Making](https://dev.to/mazharhuda/ai-agents-revolutionizing-automation-and-decision-making-eif)
+- [How to Get Started with Bash Scripting for Automation](https://dev.to/aditya8raj/how-to-get-started-with-bash-scripting-for-automation-5d0k)
+- [Mấy dòng suy nghĩ về RR1](https://dev.to/huyng3/may-dong-suy-nghi-ve-rr1-20i5)
+- [I made a chrome extension that fixes YouTube recommendations](https://dev.to/bobbydxl/i-made-a-chrome-extension-that-fixes-youtube-recommendations-2kka)
+- [Understanding Elastic IPs: Use Cases, Best Practices, and Limitations](https://dev.to/megha_shivhare_5038dc1047/understanding-elastic-ips-use-cases-best-practices-and-limitations-16e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
