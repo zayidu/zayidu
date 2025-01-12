@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just use this Next.js Eslint Configuration](https://dev.to/jordanahaines/just-use-this-nextjs-eslint-configuration-540)
-- [Unveiling the Depths of Deep Learning](https://dev.to/penscola/unveiling-the-depths-of-deep-learning-38mf)
-- [Diesel vs SQLx in Raw and ORM Modes](https://dev.to/shubham_lodhi/diesel-vs-sqlx-in-raw-and-orm-modes-4bgd)
-- [Monitor Your Static App memory usage EC2 Instances with Prometheus and Grafana](https://dev.to/aws-builders/monitor-your-static-app-memory-usage-ec2-instances-with-prometheus-and-grafana-21ln)
-- [Chat With Your DB via DBChat &amp; Gemini &lpar;Part 4&rpar;](https://dev.to/shrsv/chat-with-your-db-via-dbchat-gemini-part-4-5e65)
+- [Shadow DOM Perfected: Experience the Power of Monster 3.100!](https://dev.to/schukai/shadow-dom-perfected-experience-the-power-of-monster-3100-18ii)
+- [The Outsourcing Trap: Why Your Product Deserves Better](https://dev.to/jetthoughts/the-outsourcing-trap-why-your-product-deserves-better-46i8)
+- [Building a Stronger Security Posture with AWS Security Hub](https://dev.to/aws-builders/building-a-stronger-security-posture-with-aws-security-hub-2foi)
+- [5 Software Development Challenges That Can Be Solved With AI](https://dev.to/opman129/5-software-development-challenges-that-can-be-solved-with-ai-112f)
+- [RabbitMQ: conceitos fundamentais](https://dev.to/lukesilva/rabbitmq-conceitos-fundamentais-9kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
