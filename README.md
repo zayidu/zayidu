@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master AWS Transit Gateway Management with Terraform: A Step-by-Step Guide](https://dev.to/damdev95/master-aws-transit-gateway-management-with-terraform-a-step-by-step-guide-3g9b)
-- [Pear Review: Transforming Code Reviews into Empathetic Learning Experiences with GitHub Copilot&quot;](https://dev.to/scarowar/pear-review-transforming-code-reviews-into-empathetic-learning-experiences-with-github-copilot-4ofa)
-- [Retro’ing and Debugging 2024](https://dev.to/abdullah-k18/retroing-and-debugging-2024-5c7d)
-- [Unlocking the Secret Gem Inside a Centered Div.](https://dev.to/passionoverpain/unlocking-the-secret-gem-inside-a-centered-div-4d9j)
-- [Modernizing HyperGraph&#39;s CLI: A Journey Towards Better Architecture](https://dev.to/d1d4c/modernizing-hypergraphs-cli-a-journey-towards-better-architecture-3mg3)
+- [Just use this Next.js Eslint Configuration](https://dev.to/jordanahaines/just-use-this-nextjs-eslint-configuration-540)
+- [Unveiling the Depths of Deep Learning](https://dev.to/penscola/unveiling-the-depths-of-deep-learning-38mf)
+- [Diesel vs SQLx in Raw and ORM Modes](https://dev.to/shubham_lodhi/diesel-vs-sqlx-in-raw-and-orm-modes-4bgd)
+- [Monitor Your Static App memory usage EC2 Instances with Prometheus and Grafana](https://dev.to/aws-builders/monitor-your-static-app-memory-usage-ec2-instances-with-prometheus-and-grafana-21ln)
+- [Chat With Your DB via DBChat &amp; Gemini &lpar;Part 4&rpar;](https://dev.to/shrsv/chat-with-your-db-via-dbchat-gemini-part-4-5e65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
