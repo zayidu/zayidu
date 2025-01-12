@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using server sent events in ASP.NET](https://dev.to/ayus_13/using-server-sent-events-in-aspnet-58e)
-- [Converting documents for LLM processing — A modern approach](https://dev.to/s_emanuilov/converting-documents-for-llm-processing-a-modern-approach-3apg)
-- [Converting documents for LLM processing — A modern approach](https://dev.to/s_emanuilov/converting-documents-for-llm-processing-a-modern-approach-2a0a)
-- [Mastering Java: A Beginner&#39;s Guide to Building Robust Applications](https://dev.to/kelvincode1234/mastering-java-a-beginners-guide-to-building-robust-applications-34d1)
-- [Analyzing LinkedIn Company Posts with Graphs and Agents](https://dev.to/neuml/analyzing-linkedin-company-posts-with-graphs-and-agents-3m77)
+- [🌟 How to Fix Node.js Path Issues in VS Code &lpar;Step-by-Step Guide&rpar;](https://dev.to/siddharth_nandava/how-to-fix-nodejs-path-issues-in-vs-code-step-by-step-guide-1jc3)
+- [Building Modern React Apps in 2025 - A Guide to Cutting-Edge Tools and Tech Stacks](https://dev.to/andrewbaisden/building-modern-react-apps-in-2025-a-guide-to-cutting-edge-tools-and-tech-stacks-k8g)
+- [How to write unit tests and E2E tests for NestJS applications](https://dev.to/woai3c/how-to-write-unit-tests-and-e2e-tests-for-nestjs-applications-3l3g)
+- [Building a Real-Time Weather Data Collection System with Python and AWS](https://dev.to/princemaxi/building-a-real-time-weather-data-collection-system-with-python-and-aws-fel)
+- [Improving documentation with AI using Rig &amp; Rust](https://dev.to/josh_mo_91f294fcef0333006/improving-documentation-with-ai-using-rig-rust-1ami)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
