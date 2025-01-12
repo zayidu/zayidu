@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Spring AI ? Example of a chat API with multiple LLMs](https://dev.to/rajeshsgr/what-is-spring-ai-example-of-a-chat-api-with-multiple-llms-lmi)
-- [Hello, World! 4](https://dev.to/rodiwa/hello-world-4-1pmj)
-- [Introducing Our Data Structure &amp; Algorithm Visualization Tool: Revolutionizing Code Understanding](https://dev.to/zhu_le_e92ce1e44bd25f0053/introducing-our-data-structure-algorithm-visualization-tool-revolutionizing-code-understanding-28c9)
-- [书籍翻译工具（OpenAI批处理）](https://dev.to/dragon72463399/shu-ji-fan-yi-gong-ju-openaipi-chu-li--12fl)
-- [Hello, World!](https://dev.to/rodiwa/hello-world-3hc6)
+- [AI Model Lets You Edit Photos With Just a Click - New Mask Generation Tech Simplifies Image Editing](https://dev.to/mikeyoung44/ai-model-lets-you-edit-photos-with-just-a-click-new-mask-generation-tech-simplifies-image-editing-2oek)
+- [Understanding Large Language Models: Key Capabilities, Limitations, and Future Challenges](https://dev.to/mikeyoung44/understanding-large-language-models-key-capabilities-limitations-and-future-challenges-4em5)
+- [THE 2025 MASTERPLAN](https://dev.to/shaman_shetty/the-2025-masterplan-363g)
+- [Beyond MVC: Redefining Backend Development with DataForge](https://dev.to/astratechnodataforge/beyond-mvc-redefining-backend-development-with-dataforge-2fl9)
+- [How I Created &amp; Published A Chrome Extension With AI?](https://dev.to/vijaythapa/how-i-created-published-a-chrome-extension-with-ai-46op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
