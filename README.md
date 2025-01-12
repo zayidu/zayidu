@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Import JSON Data in Astro &lpar;with Typescript&rpar;](https://dev.to/flnzba/import-json-data-in-astro-with-typescript-4nbg)
-- [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
-- [Become a 100x Developer in 2025 with These 10 AI Tools – Here’s How!](https://dev.to/solitrix02/become-a-100x-developer-in-2025-with-these-10-ai-tools-heres-how-2if7)
-- [Lessons Learned as a Full-Stack Developer: Building APIs for Easy Front-End Integration](https://dev.to/anadudev/lessons-learned-as-a-full-stack-developer-building-apis-for-easy-front-end-integration-1dgo)
-- [Celebrating 50 articles on Syntackle](https://dev.to/murtuzaalisurti/celebrating-50-articles-on-syntackle-4lim)
+- [Mastering Pull-to-Refresh in React Native: A Guide to Smooth Data Reloading 🚀](https://dev.to/amitkumar13/mastering-pull-to-refresh-in-react-native-a-guide-to-smooth-data-reloading-3apo)
+- [JavaScript is best programing language](https://dev.to/rudraprasad-pradhan/javascript-is-best-programing-language-255g)
+- [Latest Trends in AI in 2025](https://dev.to/rodiwa/latest-trends-in-ai-in-2025-284j)
+- [Want to build React Community in my city.](https://dev.to/shubham_gupta_5f11bdf672a/want-to-build-react-community-in-my-city-3ll2)
+- [From Code to Connection: The Human Side of Engineering](https://dev.to/arpitstack/from-code-to-connection-the-human-side-of-engineering-2a59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
