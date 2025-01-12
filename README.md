@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your React Native App with Debouncing for API Optimization](https://dev.to/amitkumar13/enhance-your-react-native-app-with-debouncing-for-api-optimization-5ban)
-- [Pod Topology Spread Constraints](https://dev.to/jacktt/pod-topology-spread-constraints-2pd7)
-- [Boosting Productivity: The Rise of Apps for Individuals and Managers](https://dev.to/wileybock9/boosting-productivity-the-rise-of-apps-for-individuals-and-managers-2hm)
-- [Tired of entering Github GPG key each time?](https://dev.to/mhardik003/tired-of-entering-github-gpg-key-each-time-5hm1)
-- [The Future of AI Translation: What&#39;s Next?](https://dev.to/girff/the-future-of-ai-translation-whats-next-14j6)
+- [Matanuska ADR 009 - Type Awareness in The Compiler and Runtime](https://dev.to/jfhbrook/matanuska-adr-009-type-awareness-in-the-compiler-and-runtime-442f)
+- [VaultGuard](https://dev.to/skyyteq/vaultguard-139f)
+- [Dev Diaries: Symbolite](https://dev.to/dd8888/dev-diaries-symbolite-4407)
+- [Astro &amp; Strapi Website Tutorial: Part 2 - Intro to Strapi](https://dev.to/javascriptar/astro-strapi-website-tutorial-part-2-intro-to-strapi-2b8p)
+- [The Power of Containers: Why Docker is Essential in Cloud, AI, Software Engineering and DevOps](https://dev.to/omerberatsezer/the-power-of-containers-why-docker-is-essential-in-cloud-ai-software-engineering-and-devops-p11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
