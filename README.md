@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hated gRPC until this tool started Simplifying it!](https://dev.to/aryanmehrotra/i-hated-grpc-until-this-tool-started-simplifying-it-27o2)
-- [I gem-packed this with how I&#39;m leveraging LLMs in my workflow!](https://dev.to/oba2311/i-gem-packed-this-with-how-im-leveraging-llms-in-my-workflow-2f47)
-- [Ai documentation](https://dev.to/aviel_shnaider_57f1c67aab/ai-documentation-29da)
-- [I Surveyed the Top 10 Backend Frameworks Here&#39;s What I Found](https://dev.to/rogueloop/i-surveyed-the-top-10-backend-frameworks-heres-what-i-found-3mcj)
-- [Simple way to build a Counter Functionality with ReactJS](https://dev.to/wunmi/simple-way-to-build-a-counter-functionality-with-reactjs-lo8)
+- [Building My First NPM Package: A CLI for Scaffolding Express Servers](https://dev.to/ttibbs/building-my-first-npm-package-a-cli-for-scaffolding-express-servers-1akh)
+- [[Boost]](https://dev.to/leandronsp/-22mo)
+- [Polyglot: Lua &lpar;Part 0&rpar;](https://dev.to/nicholassynovic/polyglot-lua-part-0-3ppg)
+- [Send your analytics data wherever you want with Hardal](https://dev.to/hardal/send-your-analytics-data-wherever-you-want-with-hardal-5dmj)
+- [What Does an IT Infrastructure Manager Do?](https://dev.to/virteva/what-does-an-it-infrastructure-manager-do-52pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
