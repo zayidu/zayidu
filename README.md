@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 How to Fix Node.js Path Issues in VS Code &lpar;Step-by-Step Guide&rpar;](https://dev.to/siddharth_nandava/how-to-fix-nodejs-path-issues-in-vs-code-step-by-step-guide-1jc3)
-- [Building Modern React Apps in 2025 - A Guide to Cutting-Edge Tools and Tech Stacks](https://dev.to/andrewbaisden/building-modern-react-apps-in-2025-a-guide-to-cutting-edge-tools-and-tech-stacks-k8g)
-- [How to write unit tests and E2E tests for NestJS applications](https://dev.to/woai3c/how-to-write-unit-tests-and-e2e-tests-for-nestjs-applications-3l3g)
-- [Building a Real-Time Weather Data Collection System with Python and AWS](https://dev.to/princemaxi/building-a-real-time-weather-data-collection-system-with-python-and-aws-fel)
-- [Improving documentation with AI using Rig &amp; Rust](https://dev.to/josh_mo_91f294fcef0333006/improving-documentation-with-ai-using-rig-rust-1ami)
+- [Support for App-Token based multiple verification approaches, including API calls to the authorization server, direct database validation, and local JWT decoding.](https://dev.to/andrewkangg/support-for-app-token-based-multiple-verification-approaches-including-api-calls-to-the-11bb)
+- [Beginer guide of React](https://dev.to/sachin841/beginer-guide-of-react-4dpg)
+- [ArtMorph - LordGeeOne](https://dev.to/lord_gee_one/artmorph-lordgeeone-177m)
+- [Spring Oauth2 - App-Token based Hybrid Token Verification Methods](https://dev.to/andrewkangg/spring-oauth2-app-token-based-hybrid-token-verification-methods-58i8)
+- [How I suffered my first burnout as software developer](https://dev.to/ksaaskil/how-i-suffered-my-first-burnout-as-software-developer-2mb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
