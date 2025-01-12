@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Matanuska ADR 009 - Type Awareness in The Compiler and Runtime](https://dev.to/jfhbrook/matanuska-adr-009-type-awareness-in-the-compiler-and-runtime-442f)
-- [VaultGuard](https://dev.to/skyyteq/vaultguard-139f)
-- [Dev Diaries: Symbolite](https://dev.to/dd8888/dev-diaries-symbolite-4407)
-- [Astro &amp; Strapi Website Tutorial: Part 2 - Intro to Strapi](https://dev.to/javascriptar/astro-strapi-website-tutorial-part-2-intro-to-strapi-2b8p)
-- [The Power of Containers: Why Docker is Essential in Cloud, AI, Software Engineering and DevOps](https://dev.to/omerberatsezer/the-power-of-containers-why-docker-is-essential-in-cloud-ai-software-engineering-and-devops-p11)
+- [Import JSON Data in Astro &lpar;with Typescript&rpar;](https://dev.to/flnzba/import-json-data-in-astro-with-typescript-4nbg)
+- [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
+- [Become a 100x Developer in 2025 with These 10 AI Tools – Here’s How!](https://dev.to/solitrix02/become-a-100x-developer-in-2025-with-these-10-ai-tools-heres-how-2if7)
+- [Lessons Learned as a Full-Stack Developer: Building APIs for Easy Front-End Integration](https://dev.to/anadudev/lessons-learned-as-a-full-stack-developer-building-apis-for-easy-front-end-integration-1dgo)
+- [Celebrating 50 articles on Syntackle](https://dev.to/murtuzaalisurti/celebrating-50-articles-on-syntackle-4lim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
