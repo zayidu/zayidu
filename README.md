@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow DOM Perfected: Experience the Power of Monster 3.100!](https://dev.to/schukai/shadow-dom-perfected-experience-the-power-of-monster-3100-18ii)
-- [The Outsourcing Trap: Why Your Product Deserves Better](https://dev.to/jetthoughts/the-outsourcing-trap-why-your-product-deserves-better-46i8)
-- [Building a Stronger Security Posture with AWS Security Hub](https://dev.to/aws-builders/building-a-stronger-security-posture-with-aws-security-hub-2foi)
-- [5 Software Development Challenges That Can Be Solved With AI](https://dev.to/opman129/5-software-development-challenges-that-can-be-solved-with-ai-112f)
-- [RabbitMQ: conceitos fundamentais](https://dev.to/lukesilva/rabbitmq-conceitos-fundamentais-9kp)
+- [I Hated gRPC until this tool started Simplifying it!](https://dev.to/aryanmehrotra/i-hated-grpc-until-this-tool-started-simplifying-it-27o2)
+- [I gem-packed this with how I&#39;m leveraging LLMs in my workflow!](https://dev.to/oba2311/i-gem-packed-this-with-how-im-leveraging-llms-in-my-workflow-2f47)
+- [Ai documentation](https://dev.to/aviel_shnaider_57f1c67aab/ai-documentation-29da)
+- [I Surveyed the Top 10 Backend Frameworks Here&#39;s What I Found](https://dev.to/rogueloop/i-surveyed-the-top-10-backend-frameworks-heres-what-i-found-3mcj)
+- [Simple way to build a Counter Functionality with ReactJS](https://dev.to/wunmi/simple-way-to-build-a-counter-functionality-with-reactjs-lo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
