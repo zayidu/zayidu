@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust: Demystifying Middleware in Actix Web](https://dev.to/crusty-rustacean/rust-demystifying-middleware-in-actix-web-1bbm)
-- [Why Your Career Deserves More Than Just a Job?](https://dev.to/nicolasmrtns/why-your-career-deserves-more-than-just-a-job-48f8)
-- [Understanding Insertion Sort in Kotlin : A Beginner&#39;s Guide](https://dev.to/wolfof420street/understanding-insertion-sort-in-kotlin-a-beginners-guide-5087)
-- [The Secret Weapon Against API Abuse: The Power of Rate Limiting](https://dev.to/suneeh/the-secret-weapon-against-api-abuse-the-power-of-rate-limiting-3kpa)
-- [Free Services to Expose Localhost to HTTPS A Comparison](https://dev.to/tahsin000/free-services-to-expose-localhost-to-https-a-comparison-5c19)
+- [2024 Recap; 2025 Goals](https://dev.to/haleyelder/2024-recap-2025-goals-2bnd)
+- [&quot;Revolutionizing Diagnosis: XAI and Deep Learning in Brain Cancer Detection&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-diagnosis-xai-and-deep-learning-in-brain-cancer-detection-2cph)
+- [Bootcamp vs. Self-Taught: Which path is the best?](https://dev.to/codex_whisperer/bootcamp-vs-self-taught-which-path-is-the-best-5acp)
+- [Daily JavaScript Challenge #JS-70: Find Missing Letter in Alphabet Sequence](https://dev.to/dpc/daily-javascript-challenge-js-70-find-missing-letter-in-alphabet-sequence-1a43)
+- [Benefits and Challenges of Using Encryption in a React Native App](https://dev.to/aneeqakhan/benefits-and-challenges-of-using-encryption-in-a-react-native-app-1ego)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
