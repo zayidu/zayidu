@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Blind 75](https://dev.to/jaiminbariya/leetcode-blind-75-49mp)
-- [Como criar uma imagem Mysql no Docker e conectar ao Dbeaver 😉](https://dev.to/a_audrey/como-criar-uma-imagem-mysql-no-docker-e-conectar-ao-dbeaver-496h)
-- [Signs Your Company Is Recovering From ZIRP](https://dev.to/jetthoughts/signs-your-company-is-recovering-from-zirp-2408)
-- [🚀Boost Your React Performance with useMemo and useCallback🚀](https://dev.to/matin676/boost-your-react-performance-with-usememo-and-usecallback-25ge)
-- [how to write a Rabbit Message](https://dev.to/said_olano/how-to-write-a-rabbit-message-35db)
+- [TS1064: The return type of an async function or method must be the global Promise](https://dev.to/rivkaavraham/ts1064-the-return-type-of-an-async-function-or-method-must-be-the-global-promise-1pjf)
+- [TS1069: Unexpected token. A type parameter name was expected without curly braces](https://dev.to/ahmad_tibibi/ts1069-unexpected-token-a-type-parameter-name-was-expected-without-curly-braces-280d)
+- [TS1059: A promise must have a &#39;then&#39; method](https://dev.to/turingvangisms/ts1059-a-promise-must-have-a-then-method-4l5b)
+- [TS1061: Enum member must have initializer](https://dev.to/lior_amsalem_3879371237f6/ts1061-enum-member-must-have-initializer-3bfh)
+- [Breaking Portfolio Paralysis: Why You Should Ship Your Side Projects](https://dev.to/zipqt/breaking-portfolio-paralysis-why-most-developers-never-ship-their-best-ideas-4bb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
