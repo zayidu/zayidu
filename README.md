@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Support for App-Token based multiple verification approaches, including API calls to the authorization server, direct database validation, and local JWT decoding.](https://dev.to/andrewkangg/support-for-app-token-based-multiple-verification-approaches-including-api-calls-to-the-11bb)
-- [Beginer guide of React](https://dev.to/sachin841/beginer-guide-of-react-4dpg)
-- [ArtMorph - LordGeeOne](https://dev.to/lord_gee_one/artmorph-lordgeeone-177m)
-- [Spring Oauth2 - App-Token based Hybrid Token Verification Methods](https://dev.to/andrewkangg/spring-oauth2-app-token-based-hybrid-token-verification-methods-58i8)
-- [How I suffered my first burnout as software developer](https://dev.to/ksaaskil/how-i-suffered-my-first-burnout-as-software-developer-2mb7)
+- [Master AWS Transit Gateway Management with Terraform: A Step-by-Step Guide](https://dev.to/damdev95/master-aws-transit-gateway-management-with-terraform-a-step-by-step-guide-3g9b)
+- [Pear Review: Transforming Code Reviews into Empathetic Learning Experiences with GitHub Copilot&quot;](https://dev.to/scarowar/pear-review-transforming-code-reviews-into-empathetic-learning-experiences-with-github-copilot-4ofa)
+- [Retro’ing and Debugging 2024](https://dev.to/abdullah-k18/retroing-and-debugging-2024-5c7d)
+- [Unlocking the Secret Gem Inside a Centered Div.](https://dev.to/passionoverpain/unlocking-the-secret-gem-inside-a-centered-div-4d9j)
+- [Modernizing HyperGraph&#39;s CLI: A Journey Towards Better Architecture](https://dev.to/d1d4c/modernizing-hypergraphs-cli-a-journey-towards-better-architecture-3mg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
