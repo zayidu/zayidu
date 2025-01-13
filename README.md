@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The art of creating an effective application security Program: Strategies, Methods, and Tooling for Optimal results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tooling-for-28ag)
-- [Making an Effective Application Security Program: Strategies, methods and tools for the best results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-results-2pca)
-- [NET9: Swagger no compatible [Alternativas]](https://dev.to/romnyd/net9-swagger-no-compatible-alternativas-1mil)
-- [Developing a Simple RESTful API with Gin, ginvalidator, and validatorgo](https://dev.to/gbubemi_attah_8220489db16/developing-a-simple-restful-api-with-gin-ginvalidator-and-validatorgo-1b80)
-- [Making an Effective Application Security Programm: Strategies, techniques and tools for optimal results](https://dev.to/lynxfelony1/making-an-effective-application-security-programm-strategies-techniques-and-tools-for-optimal-4224)
+- [SkillBytes - Gamified learning process using AI](https://dev.to/schemetastic/skillbytes-gamified-learning-process-using-ai-3ed5)
+- [How to help coding agents help you](https://dev.to/inferable/how-to-help-coding-agents-help-you-4cdc)
+- [I am a beginner in Python programming and I want to develop my skills.](https://dev.to/hamza_elmanzar/i-am-a-beginner-in-python-programming-and-i-want-to-develop-my-skills-1ap8)
+- [DreamSmart StarV Air2 smart glasses with Google Gemini will be released in Q1 2025 in collaboration with Up Network](https://dev.to/future_arvr/dreamsmart-starv-air2-smart-glasses-with-google-gemini-will-be-released-in-q1-2025-in-collaboration-1ki6)
+- [Need Help with CSS and JavaScript for Video Production Website in Chicago](https://dev.to/aleks_abedini_089aba01e8a/need-help-with-css-and-javascript-for-video-production-website-in-chicago-264k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
