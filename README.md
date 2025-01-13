@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Publish a Power Platform Custom Connector](https://dev.to/wyattdave/how-to-publish-a-power-platform-custom-connector-2ihi)
-- [Format dates and times easily in your application using Day.js](https://dev.to/sarahokolo/format-dates-and-times-easily-in-your-application-using-dayjs-fja)
-- [Seven quickest ways to center your div using CSS](https://dev.to/web_dev-usman/seven-quickest-ways-to-center-your-div-using-css-42jb)
-- [Twitter Overhaul in Progress: Your Input = New Features!](https://dev.to/oceanbearstudios/twitter-overhaul-in-progress-your-input-new-features-33mf)
-- [Dog RER &amp; MER Calculator](https://dev.to/learninggs/dog-rer-mer-calculator-54ea)
+- [LeetCode Challenge: 383. Ransom Note - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-383-ransom-note-javascript-solution-j6)
+- [[Boost]](https://dev.to/rym_michaut/-3602)
+- [Back to MonDEV 2025](https://dev.to/giuliano1993/back-to-mondev-2025-4h6p)
+- [Simple Might Not Be What You Think It Is](https://dev.to/bitmaybewise/simple-might-not-be-what-you-think-it-is-3853)
+- [How to Quickly Fix the &quot;Error Establishing a Database Connection&quot;](https://dev.to/dbvismarketing/how-to-quickly-fix-the-error-establishing-a-database-connection-4bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
