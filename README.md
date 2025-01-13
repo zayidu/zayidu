@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-5c99)
-- [Static variables in Java](https://dev.to/devmercy/static-variables-in-java-1kah)
-- [Uno Platform is the revolution 🛸](https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli)
-- [Embracing the Spirit of Lohri: Innovate and Elevate with AI in Software Testing 🌾✨](https://dev.to/vaibhavkuls/embracing-the-spirit-of-lohri-innovate-and-elevate-with-ai-in-software-testing-3gcl)
-- [[vscode] Change workspace project color and name 🌈](https://dev.to/lennardv2/vscode-change-workspace-project-color-and-name-53o6)
+- [Modify Angular Material 19 Theme with SCSS &amp; CSS](https://dev.to/ngmaterialdev/modify-angular-material-19-theme-with-scss-css-50gj)
+- [Angular form field types](https://dev.to/ayyash/angular-form-field-types-24fl)
+- [Building High-Performance React Native Apps[Tips for Developers]](https://dev.to/brilworks/building-high-performance-react-native-appstips-for-developers-3afh)
+- [Why top AI architects are DITCHING relationalDBs for knowledge graphs](https://dev.to/falkordb/why-top-ai-architects-are-ditching-relationaldbs-for-knowledge-graphs-51l1)
+- [Empowering Businesses with Needle: A Generative AI Framework for Seamless Integration](https://dev.to/chetanmistry/empowering-businesses-with-needle-a-generative-ai-framework-for-seamless-integration-56jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
