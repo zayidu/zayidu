@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Workers: Revolutionizing Modern Web Apps](https://dev.to/mukhilpadmanabhan/service-workers-revolutionizing-modern-web-apps-24pk)
-- [Hello future](https://dev.to/ben/hello-future-3pg3)
-- [Okay, Seriously, Mockingbird + Git is a Game Changer &lpar;and I Made a Video About It!&rpar; 🚀](https://dev.to/ozkeisar/okay-seriously-mockingbird-git-is-a-game-changer-and-i-made-a-video-about-it-3o6m)
-- [The Essential Connection Between Physical and Cybersecurity](https://dev.to/buzzgk/the-essential-connection-between-physical-and-cybersecurity-ehf)
-- [Microsoft Project in 2025](https://dev.to/skillboosttrainer/microsoft-project-in-2025-26i7)
+- [The Ultimate Cheat Sheet: CLI Man Pages, tldr, and cheat.sh](https://dev.to/randazraik/the-ultimate-cheat-sheet-cli-man-pages-tldr-and-cheatsh-19bc)
+- [React 19: New API use&lpar;promise&rpar;](https://dev.to/garciadiazjaime/react-19-new-api-usepromise-2067)
+- [Create spot instances on GCP &amp; AWS](https://dev.to/jdxlabs/create-spot-instances-on-gcp-aws-57b8)
+- [Mastering CSS Flexbox: A Guide with Handy Tips](https://dev.to/joaosc17/mastering-css-flexbox-a-guide-with-handy-tips-3k4o)
+- [Introducing Codin: A CLI for Automated ML Model Testing in CI/CD](https://dev.to/raza_83e3aba4d000a3220be1/introducing-codin-a-cli-for-automated-ml-model-testing-in-cicd-34c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
