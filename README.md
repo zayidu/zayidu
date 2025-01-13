@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Print Tailwind-Styled React Components Without Rendering Visually](https://dev.to/shahriaras/print-tailwind-styled-react-components-without-rendering-visually-4ibl)
-- [Getting Started with Python: Installing Python and Writing Your First Program &lpar;Day 2 of 100 Days of Python&rpar;](https://dev.to/allaboutpython/getting-started-with-python-installing-python-and-writing-your-first-program-day-2-of-100-days-of-4d49)
-- [Why Your Startup Needs a Single Source of Truth &lpar;And How to Create It&rpar;](https://dev.to/jetthoughts/why-your-startup-needs-a-single-source-of-truth-and-how-to-create-it-2f7i)
-- [Абстракции vs. привязка к технологии](https://dev.to/dmkjfs/abstraktsii-vs-priviazka-k-tiekhnologhii-5794)
-- [Pros and Cons of 3 Ways to Instantiate Objects: Telescope Pattern, JavaBeans, and Builder Pattern](https://dev.to/mspilari/pros-and-cons-of-3-ways-to-instantiate-objects-telescope-pattern-javabeans-and-builder-pattern-2j9g)
+- [Firebase Alternatives to Consider in 2025](https://dev.to/riteshkokam/firebase-alternatives-to-consider-in-2025-456g)
+- [ISP - O Princípio da Segregação de Interface](https://dev.to/thrsouza/isp-o-principio-da-segregacao-de-interface-32c7)
+- [Effortlessly Host Static JSON Files with JSONsilo.com](https://dev.to/jaironlanda/effortlessly-host-static-json-files-with-jsonsilocom-3jm)
+- [Platforms for learning Linux](https://dev.to/david_stephen_f411b721ed2/platforms-for-learning-linux-108k)
+- [2024 Dev Rewind: Breaking Comfort Zones and Embracing the Unexpected](https://dev.to/laikokwui/2024-dev-rewind-4dd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
