@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek v3, Microsoft Phi 4, OpenAI o3, new tools and more](https://dev.to/thisweekinaiengineering/deepseek-v3-microsoft-phi-4-openai-o3-new-tools-and-more-274f)
-- [CREATING A ROCK, PAPER, &amp; SCISSORS GAME IN PYTHON](https://dev.to/seyilufadejucyberservices/creating-a-rock-paper-scissors-game-in-python-28op)
-- [How I automated Certificate expiration alerts with AWS](https://dev.to/aws-builders/how-i-automated-certificate-expiration-alerts-with-aws-1g10)
-- [Face Recognition with Python and FaceNet](https://dev.to/edgaras/face-recognition-with-facenet-ha8)
-- [Nextjs + Openlayers integration](https://dev.to/mrepoch/nextjs-openlayers-integration-5017)
+- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
+- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
+- [What is Blockchain?](https://dev.to/jamesbright/what-is-blockchain-2bfh)
+- [7 Powerful JavaScript Automation Techniques to Boost Developer Productivity](https://dev.to/aaravjoshi/7-powerful-javascript-automation-techniques-to-boost-developer-productivity-469p)
+- [The Journey of Managing My First Open Source](https://dev.to/technoph1le/the-journey-of-managing-my-first-open-source-1a7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
