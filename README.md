@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nested Function Scope in JavaScript: A Beginner&#39;s Guide](https://dev.to/thedevricha/nested-function-scope-in-javascript-a-beginners-guide-22gk)
-- [I had no idea what I was getting into](https://dev.to/moth668/i-had-no-idea-what-i-was-getting-into-4hm4)
-- [Usando data files para redes sociais no Computaria](https://dev.to/jeffque/usando-data-files-para-redes-sociais-no-computaria-3931)
-- [Implementing a basic Azure Virtual Network with Bicep](https://dev.to/willvelida/implementing-a-basic-azure-virtual-network-with-bicep-31fj)
-- [The Secret Garden of Goal Achievement &lpar;GoalBloom&rpar;](https://dev.to/dyarawilliams/the-secret-garden-of-goal-achievement-goalbloom-4n79)
+- [I’m joining Pomerium!](https://dev.to/nickytonline/im-joining-pomerium-225j)
+- [I&#39;m Answering the Blog Questions Challenge — Dev.to Edition](https://dev.to/canro91/im-answering-the-blog-questions-challenge-devto-edition-2f3g)
+- [From Product Manager to Independent Developer: A Six-Month Transformation Guide](https://dev.to/tomastomas/from-product-manager-to-independent-developer-a-six-month-transformation-guide-1d81)
+- [Understanding Agentic AI: A Step Beyond Traditional Chatbots](https://dev.to/hitesh_umaletiya/understanding-agentic-ai-a-step-beyond-traditional-chatbots-3mh4)
+- [How to Implement Authentication in React Using JWT &lpar;JSON Web Tokens&rpar;](https://dev.to/ayusharpcoder/how-to-implement-authentication-in-react-using-jwt-json-web-tokens-16pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
