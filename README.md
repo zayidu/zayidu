@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 383. Ransom Note - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-383-ransom-note-javascript-solution-j6)
-- [[Boost]](https://dev.to/rym_michaut/-3602)
-- [Back to MonDEV 2025](https://dev.to/giuliano1993/back-to-mondev-2025-4h6p)
-- [Simple Might Not Be What You Think It Is](https://dev.to/bitmaybewise/simple-might-not-be-what-you-think-it-is-3853)
-- [How to Quickly Fix the &quot;Error Establishing a Database Connection&quot;](https://dev.to/dbvismarketing/how-to-quickly-fix-the-error-establishing-a-database-connection-4bd)
+- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-5c99)
+- [Static variables in Java](https://dev.to/devmercy/static-variables-in-java-1kah)
+- [Uno Platform is the revolution 🛸](https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli)
+- [Embracing the Spirit of Lohri: Innovate and Elevate with AI in Software Testing 🌾✨](https://dev.to/vaibhavkuls/embracing-the-spirit-of-lohri-innovate-and-elevate-with-ai-in-software-testing-3gcl)
+- [[vscode] Change workspace project color and name 🌈](https://dev.to/lennardv2/vscode-change-workspace-project-color-and-name-53o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
