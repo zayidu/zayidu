@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Alternatives to Consider in 2025](https://dev.to/riteshkokam/firebase-alternatives-to-consider-in-2025-456g)
-- [ISP - O Princípio da Segregação de Interface](https://dev.to/thrsouza/isp-o-principio-da-segregacao-de-interface-32c7)
-- [Effortlessly Host Static JSON Files with JSONsilo.com](https://dev.to/jaironlanda/effortlessly-host-static-json-files-with-jsonsilocom-3jm)
-- [Platforms for learning Linux](https://dev.to/david_stephen_f411b721ed2/platforms-for-learning-linux-108k)
-- [2024 Dev Rewind: Breaking Comfort Zones and Embracing the Unexpected](https://dev.to/laikokwui/2024-dev-rewind-4dd6)
+- [NET9: Swagger no compatible](https://dev.to/romnyd/net9-swagger-no-compatible-1c6e)
+- [Enlightening article about diffusion models in machine learning! 🧠](https://dev.to/luigi_laezza_22b5ba44fdcd/enlightening-article-about-diffusion-models-in-machine-learning-4g6h)
+- [Docker Hands-on: Learn Dockerfile, Container, Port Forwarding with Sample Flask Project](https://dev.to/omerberatsezer/docker-hands-on-learn-dockerfile-container-port-forwarding-with-sample-flask-project-478d)
+- [Becoming an AWS &lpar;Serverless&rpar; Hero](https://dev.to/aws-heroes/becoming-an-aws-serverless-hero-2b8g)
+- [Building HabitualHub with GitHub Copilot to Streamline Personal Growth and Productivity: A Journey of New Beginnings](https://dev.to/prasanthj/building-habitualhub-with-github-copilot-to-streamline-personal-growth-and-productivity-a-journey-ko1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
