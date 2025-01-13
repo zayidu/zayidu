@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Storing Sensitive Data in Local Storage: Do This Instead!](https://dev.to/elvissautet/stop-storing-sensitive-data-in-local-storage-do-this-instead-mf9)
-- [Not fitting clothes proper on upper body in lens studio...while making virtual try-on clothes](https://dev.to/mohan_mamidala_f2b2753a4d/not-fitting-clothes-proper-on-upper-body-in-lens-studiowhile-making-virtual-try-on-clothes-595e)
-- [Explore Nested Functions in JavaScript and how their scope works](https://dev.to/thedevricha/explore-nested-functions-in-javascript-and-how-their-scope-works-4i6a)
-- [Starting an entrepreneur journey alongside my current position. Let’s see how little do I know and how much do I get to learn 😱 At the very least I’ll get to code a lot, I missed that 🤗 Odd hours here I go!](https://dev.to/valeriavg/starting-an-entrepreneur-journey-alongside-my-current-position-lets-see-how-little-do-i-know-and-4gim)
-- [Material UI: React Component Library](https://dev.to/evanloria4/material-ui-react-component-library-5355)
+- [How to Publish a Power Platform Custom Connector](https://dev.to/wyattdave/how-to-publish-a-power-platform-custom-connector-2ihi)
+- [Format dates and times easily in your application using Day.js](https://dev.to/sarahokolo/format-dates-and-times-easily-in-your-application-using-dayjs-fja)
+- [Seven quickest ways to center your div using CSS](https://dev.to/web_dev-usman/seven-quickest-ways-to-center-your-div-using-css-42jb)
+- [Twitter Overhaul in Progress: Your Input = New Features!](https://dev.to/oceanbearstudios/twitter-overhaul-in-progress-your-input-new-features-33mf)
+- [Dog RER &amp; MER Calculator](https://dev.to/learninggs/dog-rer-mer-calculator-54ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
