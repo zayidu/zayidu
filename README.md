@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SkillBytes - Gamified learning process using AI](https://dev.to/schemetastic/skillbytes-gamified-learning-process-using-ai-3ed5)
-- [How to help coding agents help you](https://dev.to/inferable/how-to-help-coding-agents-help-you-4cdc)
-- [I am a beginner in Python programming and I want to develop my skills.](https://dev.to/hamza_elmanzar/i-am-a-beginner-in-python-programming-and-i-want-to-develop-my-skills-1ap8)
-- [DreamSmart StarV Air2 smart glasses with Google Gemini will be released in Q1 2025 in collaboration with Up Network](https://dev.to/future_arvr/dreamsmart-starv-air2-smart-glasses-with-google-gemini-will-be-released-in-q1-2025-in-collaboration-1ki6)
-- [Need Help with CSS and JavaScript for Video Production Website in Chicago](https://dev.to/aleks_abedini_089aba01e8a/need-help-with-css-and-javascript-for-video-production-website-in-chicago-264k)
+- [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
+- [are you cool? do you like building with ai? well come build something :P](https://dev.to/abdibrokhim/are-you-cool-do-you-like-building-with-ai-well-come-build-something-p-23ol)
+- [The Power of AWS API Gateway and AWS AppSync: Transforming API Development, Functionality, and Use Cases](https://dev.to/aws-builders/unlocking-the-power-of-aws-api-gateway-and-aws-appsync-transforming-api-development-5fo7)
+- [Building a BLE Real-Time macOS Menu Bar App](https://dev.to/bleuiot/building-a-ble-real-time-macos-menu-bar-app-29lm)
+- [Unlocking the Power of AWS API Gateway and AWS AppSync: Transforming API Development, Functionality, and Use Cases](https://dev.to/weder96/-49fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
