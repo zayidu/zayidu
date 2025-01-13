@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Techniques to Prevent Unauthorized Access to Enterprise Systems](https://dev.to/adityabhuyan/modern-techniques-to-prevent-unauthorized-access-to-enterprise-systems-cle)
-- [Understanding the Essential Elements of a Well-Designed CISC Architecture for Modern Computing](https://dev.to/adityabhuyan/understanding-the-essential-elements-of-a-well-designed-cisc-architecture-for-modern-computing-5a7e)
-- [Hiding WooCommerce Cart when empty by Enqueueing JavaScript](https://dev.to/skateallday/hiding-woocommerce-cart-when-empty-by-enqueueing-javascript-1n5k)
-- [Overcoming REST API Challenges with NeoApps.AI](https://dev.to/neopric_licences_86355902/overcoming-rest-api-challenges-with-neoappsai-4f4a)
-- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
+- [Nested Function Scope in JavaScript: A Beginner&#39;s Guide](https://dev.to/thedevricha/nested-function-scope-in-javascript-a-beginners-guide-22gk)
+- [I had no idea what I was getting into](https://dev.to/moth668/i-had-no-idea-what-i-was-getting-into-4hm4)
+- [Usando data files para redes sociais no Computaria](https://dev.to/jeffque/usando-data-files-para-redes-sociais-no-computaria-3931)
+- [Implementing a basic Azure Virtual Network with Bicep](https://dev.to/willvelida/implementing-a-basic-azure-virtual-network-with-bicep-31fj)
+- [The Secret Garden of Goal Achievement &lpar;GoalBloom&rpar;](https://dev.to/dyarawilliams/the-secret-garden-of-goal-achievement-goalbloom-4n79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
