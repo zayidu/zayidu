@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NET9: Swagger no compatible](https://dev.to/romnyd/net9-swagger-no-compatible-1c6e)
-- [Enlightening article about diffusion models in machine learning! 🧠](https://dev.to/luigi_laezza_22b5ba44fdcd/enlightening-article-about-diffusion-models-in-machine-learning-4g6h)
-- [Docker Hands-on: Learn Dockerfile, Container, Port Forwarding with Sample Flask Project](https://dev.to/omerberatsezer/docker-hands-on-learn-dockerfile-container-port-forwarding-with-sample-flask-project-478d)
-- [Becoming an AWS &lpar;Serverless&rpar; Hero](https://dev.to/aws-heroes/becoming-an-aws-serverless-hero-2b8g)
-- [Building HabitualHub with GitHub Copilot to Streamline Personal Growth and Productivity: A Journey of New Beginnings](https://dev.to/prasanthj/building-habitualhub-with-github-copilot-to-streamline-personal-growth-and-productivity-a-journey-ko1)
+- [Must-Know Python Open Source Projects for 2025](https://dev.to/abubakersiddique761/must-know-python-open-source-projects-for-2025-4g9p)
+- [ServBay v1.7.2 - New Node.js Configuration Interface and UX Improvements](https://dev.to/servbay/servbay-v172-new-nodejs-configuration-interface-and-ux-improvements-510p)
+- [Fine-Tuning Large Language Models &lpar;LLMs&rpar; with .NET Core, Python, and Azure](https://dev.to/paulotorrestech/fine-tuning-large-language-models-llms-with-net-core-python-and-azure-21e4)
+- [Through the Black Mirror: How Our Ignorance of AI Coding Shapes Reality](https://dev.to/triple7/through-the-black-mirror-how-our-ignorance-of-ai-coding-shapes-reality-42p0)
+- [Escaping AI Hell](https://dev.to/bridget_amana/escaping-ai-hell-2fbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
