@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Techniques to Prevent Unauthorized Access to Enterprise Systems](https://dev.to/adityabhuyan/modern-techniques-to-prevent-unauthorized-access-to-enterprise-systems-cle)
+- [Understanding the Essential Elements of a Well-Designed CISC Architecture for Modern Computing](https://dev.to/adityabhuyan/understanding-the-essential-elements-of-a-well-designed-cisc-architecture-for-modern-computing-5a7e)
+- [Hiding WooCommerce Cart when empty by Enqueueing JavaScript](https://dev.to/skateallday/hiding-woocommerce-cart-when-empty-by-enqueueing-javascript-1n5k)
+- [Overcoming REST API Challenges with NeoApps.AI](https://dev.to/neopric_licences_86355902/overcoming-rest-api-challenges-with-neoappsai-4f4a)
 - [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
-- [Docker vs Kubernetes](https://dev.to/code42cate/docker-vs-kubernetes-2f5o)
-- [And... We&#39;re Off!](https://dev.to/timothy_97/and-were-off-2gh7)
-- [2025 Tech Predictions: What Developers Should Expect](https://dev.to/mrp/2025-tech-predictions-what-developers-should-expect-34ji)
-- [Iniciando nuevamente...](https://dev.to/romnyd/iniciando-nuevamente-3lh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
