@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
-- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
-- [What is Blockchain?](https://dev.to/jamesbright/what-is-blockchain-2bfh)
-- [7 Powerful JavaScript Automation Techniques to Boost Developer Productivity](https://dev.to/aaravjoshi/7-powerful-javascript-automation-techniques-to-boost-developer-productivity-469p)
-- [The Journey of Managing My First Open Source](https://dev.to/technoph1le/the-journey-of-managing-my-first-open-source-1a7l)
+- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
+- [Docker vs Kubernetes](https://dev.to/code42cate/docker-vs-kubernetes-2f5o)
+- [And... We&#39;re Off!](https://dev.to/timothy_97/and-were-off-2gh7)
+- [2025 Tech Predictions: What Developers Should Expect](https://dev.to/mrp/2025-tech-predictions-what-developers-should-expect-34ji)
+- [Iniciando nuevamente...](https://dev.to/romnyd/iniciando-nuevamente-3lh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
