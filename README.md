@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Cheat Sheet: CLI Man Pages, tldr, and cheat.sh](https://dev.to/randazraik/the-ultimate-cheat-sheet-cli-man-pages-tldr-and-cheatsh-19bc)
-- [React 19: New API use&lpar;promise&rpar;](https://dev.to/garciadiazjaime/react-19-new-api-usepromise-2067)
-- [Create spot instances on GCP &amp; AWS](https://dev.to/jdxlabs/create-spot-instances-on-gcp-aws-57b8)
-- [Mastering CSS Flexbox: A Guide with Handy Tips](https://dev.to/joaosc17/mastering-css-flexbox-a-guide-with-handy-tips-3k4o)
-- [Introducing Codin: A CLI for Automated ML Model Testing in CI/CD](https://dev.to/raza_83e3aba4d000a3220be1/introducing-codin-a-cli-for-automated-ml-model-testing-in-cicd-34c2)
+- [Tools Dependency Injection](https://dev.to/ag2blogger/tools-dependency-injection-3o9o)
+- [Organizing Information Properly in Technical Writing](https://dev.to/olodocoder/complete-guide-to-organizing-information-properly-in-technical-writing-181o)
+- [Your first Java app with Docker deployment in 5 min](https://dev.to/alexander_uspenskiy_the_great/your-first-java-app-with-docker-deployment-in-5-min-3ofe)
+- [Encapsulation in Python](https://dev.to/vincenttommi/encapsulation-in-python-388a)
+- [Custom Angular and Karma Test Extension for VS Code](https://dev.to/ravitejavattem/custom-angular-and-karma-test-extension-for-vs-code-3b3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
