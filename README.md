@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
-- [are you cool? do you like building with ai? well come build something :P](https://dev.to/abdibrokhim/are-you-cool-do-you-like-building-with-ai-well-come-build-something-p-23ol)
-- [The Power of AWS API Gateway and AWS AppSync: Transforming API Development, Functionality, and Use Cases](https://dev.to/aws-builders/unlocking-the-power-of-aws-api-gateway-and-aws-appsync-transforming-api-development-5fo7)
-- [Building a BLE Real-Time macOS Menu Bar App](https://dev.to/bleuiot/building-a-ble-real-time-macos-menu-bar-app-29lm)
-- [Unlocking the Power of AWS API Gateway and AWS AppSync: Transforming API Development, Functionality, and Use Cases](https://dev.to/weder96/-49fk)
+- [All-APIs.com: The Ultimate Free REST API Platform for Developers](https://dev.to/raya_ali_4d4f239e66f846cc/all-apiscom-the-ultimate-free-rest-api-platform-for-developers-mig)
+- [3 essential elements for Web publishing](https://dev.to/jldec/3-essential-elements-for-web-publishing-30n1)
+- [Binary Made Easy — Understand the Basics](https://dev.to/theselftaughtdev/binary-made-easy-understand-the-basics-10hl)
+- [Rutas relativas y absolutas en programación](https://dev.to/devjohanadrian/rutas-relativas-y-absolutas-en-programacion-15nh)
+- [Understanding Node Problem Detector in Kubernetes: Beyond Default Node Conditions](https://dev.to/nurudeen_kamilu/understanding-node-problem-detector-in-kubernetes-beyond-default-node-conditions-1d1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
