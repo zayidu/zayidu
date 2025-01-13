@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Allow Remote Desktop Connections on Windows 7](https://dev.to/davidjonson/how-to-allow-remote-desktop-connections-on-windows-7-4hjn)
-- [Building Streak Calendar: My Journey into Open-Source with the Help of AI](https://dev.to/ilyaizen/building-streak-calendar-my-journey-into-open-source-with-the-help-of-ai-1hbl)
-- [RabbitMQ Architecture and Its Role in Modern Systems](https://dev.to/abhay_yt_52a8e72b213be229/rabbitmq-architecture-and-its-role-in-modern-systems-2cbd)
-- [Daily Reset - LordGeeOne](https://dev.to/lord_gee_one/daily-reset-lordgeeone-24jn)
-- [Top JavaScript Interview Questions for 5+ Years of Experience](https://dev.to/greatfrontend/top-javascript-interview-questions-for-5-years-of-experience-44n)
+- [Print Tailwind-Styled React Components Without Rendering Visually](https://dev.to/shahriaras/print-tailwind-styled-react-components-without-rendering-visually-4ibl)
+- [Getting Started with Python: Installing Python and Writing Your First Program &lpar;Day 2 of 100 Days of Python&rpar;](https://dev.to/allaboutpython/getting-started-with-python-installing-python-and-writing-your-first-program-day-2-of-100-days-of-4d49)
+- [Why Your Startup Needs a Single Source of Truth &lpar;And How to Create It&rpar;](https://dev.to/jetthoughts/why-your-startup-needs-a-single-source-of-truth-and-how-to-create-it-2f7i)
+- [Абстракции vs. привязка к технологии](https://dev.to/dmkjfs/abstraktsii-vs-priviazka-k-tiekhnologhii-5794)
+- [Pros and Cons of 3 Ways to Instantiate Objects: Telescope Pattern, JavaBeans, and Builder Pattern](https://dev.to/mspilari/pros-and-cons-of-3-ways-to-instantiate-objects-telescope-pattern-javabeans-and-builder-pattern-2j9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
