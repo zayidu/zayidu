@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Must-Know Python Open Source Projects for 2025](https://dev.to/abubakersiddique761/must-know-python-open-source-projects-for-2025-4g9p)
-- [ServBay v1.7.2 - New Node.js Configuration Interface and UX Improvements](https://dev.to/servbay/servbay-v172-new-nodejs-configuration-interface-and-ux-improvements-510p)
-- [Fine-Tuning Large Language Models &lpar;LLMs&rpar; with .NET Core, Python, and Azure](https://dev.to/paulotorrestech/fine-tuning-large-language-models-llms-with-net-core-python-and-azure-21e4)
-- [Through the Black Mirror: How Our Ignorance of AI Coding Shapes Reality](https://dev.to/triple7/through-the-black-mirror-how-our-ignorance-of-ai-coding-shapes-reality-42p0)
-- [Escaping AI Hell](https://dev.to/bridget_amana/escaping-ai-hell-2fbn)
+- [Service Workers: Revolutionizing Modern Web Apps](https://dev.to/mukhilpadmanabhan/service-workers-revolutionizing-modern-web-apps-24pk)
+- [Hello future](https://dev.to/ben/hello-future-3pg3)
+- [Okay, Seriously, Mockingbird + Git is a Game Changer &lpar;and I Made a Video About It!&rpar; 🚀](https://dev.to/ozkeisar/okay-seriously-mockingbird-git-is-a-game-changer-and-i-made-a-video-about-it-3o6m)
+- [The Essential Connection Between Physical and Cybersecurity](https://dev.to/buzzgk/the-essential-connection-between-physical-and-cybersecurity-ehf)
+- [Microsoft Project in 2025](https://dev.to/skillboosttrainer/microsoft-project-in-2025-26i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
