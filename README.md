@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do We Use Calendars? A Short Essay About Time](https://dev.to/zirkelc/why-do-we-use-calendars-a-short-essay-about-time-4g0g)
-- [Navigating Tomorrow: Embracing the Top 5 HR Trends for 2024](https://dev.to/vdaubry/navigating-tomorrow-embracing-the-top-5-hr-trends-for-2024-4eh8)
-- [Why We Need Purpose-Built Platform Engineering Tools for AI/ML](https://dev.to/kitops/why-we-need-purpose-built-platform-engineering-tools-for-aiml-4g70)
-- [EcoStarter: Empowering Fresh Starts for a Sustainable Future](https://dev.to/th85534/ecostarter-empowering-fresh-starts-for-a-sustainable-future-4hhe)
-- [Why Duplicating Environments for Microservices Backfires](https://dev.to/signadot/why-duplicating-environments-for-microservices-backfires-9k5)
+- [The Rise of Autonomous AI Agents in Business Operations](https://dev.to/routeclouds/the-rise-of-autonomous-ai-agents-in-business-operations-14gg)
+- [🚀 Must-Check Top 30+ Github Repositories](https://dev.to/gittech/must-check-top-30-github-repositories-e0a)
+- [Role of Artificial Intelligence in DevOps](https://dev.to/574n13y/role-of-artificial-intelligence-in-devops-4c0k)
+- [OpenSearchCon Europe 2025 - Amsterdam!](https://dev.to/krisfreedain/opensearchcon-europe-2025-amsterdam-45d3)
+- [The Best AI Models for Video Generation in 2025](https://dev.to/andrewbaisden/the-best-ai-models-for-video-generation-in-2025-2h0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
