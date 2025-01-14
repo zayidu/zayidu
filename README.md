@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New ways to engage with the stdlib community!](https://dev.to/stdlib/new-ways-to-engage-with-the-stdlib-community-3in4)
-- [Day 1079 : Price I&#39;ll Pay](https://dev.to/dwane/day-1079-price-ill-pay-3bmc)
-- [[PowerShell] Batch Adding Related Permissions Based on Text Content](https://dev.to/excalibra/powershell-batch-adding-related-permissions-based-on-text-content-5dbk)
-- [A Beginner Story](https://dev.to/nancy_kataria/a-beginner-story-351j)
-- [The Importance of a Design System: Lessons from Steam UI](https://dev.to/fariasmateuss/the-problem-of-not-having-a-design-system-in-place-4m14)
+- [Why AWS Decision Guides Matter for Cloud Computing Beginners](https://dev.to/franciscojeg78/why-aws-decision-guides-matter-for-cloud-computing-beginners-12j7)
+- [The Software Engineer&#39;s Apprentice](https://dev.to/matthewdavidjensen/the-software-engineers-apprentice-4n74)
+- [Navigating AWS EKS with Terraform: Implementing Cluster Auoscaler in your EKS Cluster](https://dev.to/aws-builders/navigating-aws-eks-with-terraform-implementing-cluster-auoscaler-in-your-eks-cluster-p54)
+- [Por onde começar os estudos da AWS - Parte 1](https://dev.to/any97cris/por-onde-comecar-os-estudos-da-aws-parte-1-6o4)
+- [AI Is Transforming Software Testing: A New Era of Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-is-transforming-software-testing-a-new-era-of-quality-assurance-odd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
