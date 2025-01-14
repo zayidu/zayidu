@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Software Engineering Books Developers Should Read in 2025](https://dev.to/somadevtoo/10-software-engineering-books-developers-should-read-in-2025-2kfk)
-- [Magic of Axios Interceptors: A Deep Dive](https://dev.to/elvissautet/magic-of-axios-interceptors-a-deep-dive-4741)
-- [Integrating Maven with Jenkins: A Step-by-Step Guide](https://dev.to/khalifalmahmud0/integrating-maven-with-jenkins-a-step-by-step-guide-5c4n)
-- [Building a Custom CLI Tool for Kubernetes: A Beginner&#39;s Guide](https://dev.to/stellaacharoiro/building-a-custom-cli-tool-for-kubernetes-a-beginners-guide-33mp)
-- [First Steps: Learning the Foundations of AI Development](https://dev.to/kimwachsman1979/first-steps-learning-the-foundations-of-ai-development-26kn)
+- [Top 40 Interesting Entrepreneurship Project Ideas For Students](https://dev.to/tarunfulera/top-40-interesting-entrepreneurship-project-ideas-for-students-mda)
+- [Your API Doesn’t Always Need to Be a Product](https://dev.to/zenika/your-api-doesnt-always-need-to-be-a-product-20p3)
+- [Enhancing JavaScript Code: Using Objects Instead of Switch Statements](https://dev.to/nassbin/enhancing-javascript-code-using-objects-instead-of-switch-statements-118f)
+- [AI Plugins for WooCommerce: A Simple Guide](https://dev.to/sidra_tulmuntaha/ai-plugins-for-woocommerce-a-simple-guide-n26)
+- [[Boost]](https://dev.to/rym_michaut/-1plj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
