@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AWS Decision Guides Matter for Cloud Computing Beginners](https://dev.to/franciscojeg78/why-aws-decision-guides-matter-for-cloud-computing-beginners-12j7)
-- [The Software Engineer&#39;s Apprentice](https://dev.to/matthewdavidjensen/the-software-engineers-apprentice-4n74)
-- [Navigating AWS EKS with Terraform: Implementing Cluster Auoscaler in your EKS Cluster](https://dev.to/aws-builders/navigating-aws-eks-with-terraform-implementing-cluster-auoscaler-in-your-eks-cluster-p54)
-- [Por onde começar os estudos da AWS - Parte 1](https://dev.to/any97cris/por-onde-comecar-os-estudos-da-aws-parte-1-6o4)
-- [AI Is Transforming Software Testing: A New Era of Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-is-transforming-software-testing-a-new-era-of-quality-assurance-odd)
+- [Firebase and Nextjs](https://dev.to/ahmad_tibibi/firebase-and-nextjs-dkb)
+- [NextJs Website](https://dev.to/turingvangisms/nextjs-website-49kg)
+- [Empowering Your Team with Phi-4 in Microsoft Word within Your Intranet](https://dev.to/gptlocalhost/empowering-your-team-with-phi-4-in-microsoft-word-within-your-intranet-29l)
+- [UX Writing Challenge: Day 8](https://dev.to/jds64/ux-writing-challenge-day-8-5fcd)
+- [Flat list horizontal all Items perfectly visible in iOS not in android ContentContainerStyle](https://dev.to/vaibhav_shukla_newsletter/flat-list-horizontal-all-items-perfectly-visible-in-ios-not-in-android-contentcontainerstyle-d40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
