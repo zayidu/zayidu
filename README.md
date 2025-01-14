@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO AI: Your Secret Weapon for Boosting SEO Performance!](https://dev.to/juddiy/seo-ai-your-secret-weapon-for-boosting-seo-performance-h4h)
-- [Nextjs and ReactJS](https://dev.to/shelleyp95/nextjs-and-reactjs-3g48)
-- [NextJS And Contentful](https://dev.to/rivkaavraham/nextjs-and-contentful-1o7i)
-- [Figma to NextJS](https://dev.to/rivkaavraham/figma-to-nextjs-18kb)
-- [Contentful with Next Js](https://dev.to/meggieton/contentful-with-next-js-3fdo)
+- [🤖 DevOps-GPT: Automating SRE Resolutions with AI-Powered Agents and Insights 🤖](https://dev.to/lakhera2015/devops-gpt-automating-sre-resolutions-with-ai-powered-agents-and-insights-4621)
+- [What is typescript?](https://dev.to/mosininamdar/what-is-typescript-1n3b)
+- [Configuring Public IP addresses in Azure](https://dev.to/willvelida/configuring-public-ip-addresses-in-azure-13bi)
+- [Streaming Responses in AI: How AI Outputs Are Generated in Real-Time](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)
+- [Java-kafka producing a message](https://dev.to/said_olano/java-kafka-producing-a-message-35pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
