@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [White Label Chat Platform for 2025](https://dev.to/aprogrammer22/white-label-chat-platform-for-2025-3mb7)
-- [Mentorship: A Two-Way Street of Growth](https://dev.to/m_midas/mentorship-a-two-way-street-of-growth-5al6)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-528)
-- [Here are 7 Regex tools that can save your life from hell 🔥](https://dev.to/gilles_vauvarin_861cefba1/here-are-7-regex-tools-that-can-save-your-life-from-hell-32pe)
-- [HashiCorp Vault Setup Guide for NEAR Protocol Accounts](https://dev.to/rodit-org/hashicorp-vault-setup-guide-for-near-protocol-accounts-3ade)
+- [Why Do We Use Calendars? A Short Essay About Time](https://dev.to/zirkelc/why-do-we-use-calendars-a-short-essay-about-time-4g0g)
+- [Navigating Tomorrow: Embracing the Top 5 HR Trends for 2024](https://dev.to/vdaubry/navigating-tomorrow-embracing-the-top-5-hr-trends-for-2024-4eh8)
+- [Why We Need Purpose-Built Platform Engineering Tools for AI/ML](https://dev.to/kitops/why-we-need-purpose-built-platform-engineering-tools-for-aiml-4g70)
+- [EcoStarter: Empowering Fresh Starts for a Sustainable Future](https://dev.to/th85534/ecostarter-empowering-fresh-starts-for-a-sustainable-future-4hhe)
+- [Why Duplicating Environments for Microservices Backfires](https://dev.to/signadot/why-duplicating-environments-for-microservices-backfires-9k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
