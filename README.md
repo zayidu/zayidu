@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The World’s 1st Free and Open-Source Palm Recognition SDK from Faceplugin](https://dev.to/faceplugin/the-worlds-1st-free-and-open-source-palm-recognition-sdk-from-faceplugin-5d8h)
-- [Clean up S3 Batch Operations, Tags and Lifecycle policies, they said. It will be cheaper, they said.](https://dev.to/aws-builders/clean-up-s3-batch-operations-tags-and-lifecycle-policies-they-said-it-will-be-cheaper-they-3gli)
-- [Secrets Management in Kubernetes: Best Practices for Security](https://dev.to/rubixkube/secrets-management-in-kubernetes-best-practices-for-security-1df0)
-- [Advanced Docker Concepts and Features](https://dev.to/vaibhav_ca0da2b8bef9b07c2/advanced-dockerconcepts-and-features-i1f)
-- [Invoking Private API Gateway Endpoints From Step Functions](https://dev.to/aws-builders/invoking-private-api-gateway-endpoints-from-step-functions-cg1)
+- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
+- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
+- [Train LLM From Scratch](https://dev.to/fareedkhan557/train-llm-from-scratch-2jje)
+- [Why NestJS Is The New Gold Standard For Node Backend Development](https://dev.to/rayenmabrouk/why-nestjs-is-the-new-gold-standard-for-node-backend-development-lm)
+- [Top 20 Advanced JavaScript Interview Questions and Answers for Seasoned Engineers](https://dev.to/greatfrontend/top-20-advanced-javascript-interview-questions-and-answers-for-seasoned-engineers-3214)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
