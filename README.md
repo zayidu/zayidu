@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CRM Development: Unlocking Growth with Custom Solutions](https://dev.to/spencermarx/crm-development-unlocking-growth-with-custom-solutions-fle)
-- [Getting ready for Tailwind v4.0](https://dev.to/logrocket/getting-ready-for-tailwind-v40-53gh)
-- [My Favorite Tech Stack for Startup Success in 2025](https://dev.to/this-is-learning/my-favorite-tech-stack-for-startup-success-in-2025-1e14)
-- [Самые необычные технологические новинки, представленные на CES 2025](https://dev.to/arcanegamingcom/samyie-nieobychnyie-tiekhnologhichieskiie-novinki-priedstavliennyie-na-ces-2025-4j13)
-- [AI in Your Hands: Nvidia’s $3,000 Supercomputer Changes Everything](https://dev.to/empiree/ai-in-your-hands-nvidias-3000-supercomputer-changes-everything-35he)
+- [White Label Chat Platform for 2025](https://dev.to/aprogrammer22/white-label-chat-platform-for-2025-3mb7)
+- [Mentorship: A Two-Way Street of Growth](https://dev.to/m_midas/mentorship-a-two-way-street-of-growth-5al6)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-528)
+- [Here are 7 Regex tools that can save your life from hell 🔥](https://dev.to/gilles_vauvarin_861cefba1/here-are-7-regex-tools-that-can-save-your-life-from-hell-32pe)
+- [HashiCorp Vault Setup Guide for NEAR Protocol Accounts](https://dev.to/rodit-org/hashicorp-vault-setup-guide-for-near-protocol-accounts-3ade)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
