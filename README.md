@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase and Nextjs](https://dev.to/ahmad_tibibi/firebase-and-nextjs-dkb)
-- [NextJs Website](https://dev.to/turingvangisms/nextjs-website-49kg)
-- [Empowering Your Team with Phi-4 in Microsoft Word within Your Intranet](https://dev.to/gptlocalhost/empowering-your-team-with-phi-4-in-microsoft-word-within-your-intranet-29l)
-- [UX Writing Challenge: Day 8](https://dev.to/jds64/ux-writing-challenge-day-8-5fcd)
-- [Flat list horizontal all Items perfectly visible in iOS not in android ContentContainerStyle](https://dev.to/vaibhav_shukla_newsletter/flat-list-horizontal-all-items-perfectly-visible-in-ios-not-in-android-contentcontainerstyle-d40)
+- [SEO AI: Your Secret Weapon for Boosting SEO Performance!](https://dev.to/juddiy/seo-ai-your-secret-weapon-for-boosting-seo-performance-h4h)
+- [Nextjs and ReactJS](https://dev.to/shelleyp95/nextjs-and-reactjs-3g48)
+- [NextJS And Contentful](https://dev.to/rivkaavraham/nextjs-and-contentful-1o7i)
+- [Figma to NextJS](https://dev.to/rivkaavraham/figma-to-nextjs-18kb)
+- [Contentful with Next Js](https://dev.to/meggieton/contentful-with-next-js-3fdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
