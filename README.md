@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Autonomous AI Agents in Business Operations](https://dev.to/routeclouds/the-rise-of-autonomous-ai-agents-in-business-operations-14gg)
-- [🚀 Must-Check Top 30+ Github Repositories](https://dev.to/gittech/must-check-top-30-github-repositories-e0a)
-- [Role of Artificial Intelligence in DevOps](https://dev.to/574n13y/role-of-artificial-intelligence-in-devops-4c0k)
-- [OpenSearchCon Europe 2025 - Amsterdam!](https://dev.to/krisfreedain/opensearchcon-europe-2025-amsterdam-45d3)
-- [The Best AI Models for Video Generation in 2025](https://dev.to/andrewbaisden/the-best-ai-models-for-video-generation-in-2025-2h0m)
+- [🛡️ Security Measures: Safeguarding Your Codebase 🔒](https://dev.to/aws-builders/security-measures-safeguarding-your-codebase-4fij)
+- [I have released Eurlexa!!! EU Legislation at Your Fingertips!](https://dev.to/kvetoslavnovak/i-have-released-eurlexa-eu-legislation-at-your-fingertips-4n2n)
+- [Reusable Code in React](https://dev.to/padmajothi_athimoolam_23d/reusable-code-in-react-f7)
+- [The Hidden Cost of RTO: Who Gets Left Behind?](https://dev.to/samanthajeet/the-hidden-cost-of-rto-who-gets-left-behind-iol)
+- [Como mascarar dados sensíveis na pipeline utilizando Cypress](https://dev.to/anacvera/como-mascarar-dados-sensiveis-na-pipeline-utilizando-cypress-bfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
