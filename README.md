@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Security Measures: Safeguarding Your Codebase 🔒](https://dev.to/aws-builders/security-measures-safeguarding-your-codebase-4fij)
-- [I have released Eurlexa!!! EU Legislation at Your Fingertips!](https://dev.to/kvetoslavnovak/i-have-released-eurlexa-eu-legislation-at-your-fingertips-4n2n)
-- [Reusable Code in React](https://dev.to/padmajothi_athimoolam_23d/reusable-code-in-react-f7)
-- [The Hidden Cost of RTO: Who Gets Left Behind?](https://dev.to/samanthajeet/the-hidden-cost-of-rto-who-gets-left-behind-iol)
-- [Como mascarar dados sensíveis na pipeline utilizando Cypress](https://dev.to/anacvera/como-mascarar-dados-sensiveis-na-pipeline-utilizando-cypress-bfn)
+- [A Gentle Introduction to WebAssembly in Rust &lpar;2025 Edition&rpar;](https://dev.to/marktolmacs/a-gentle-introduction-to-webassembly-in-rust-2025-edition-1iac)
+- [Can a Website Be Hacked in Under 10 Minutes? Understanding Web Security](https://dev.to/adaf/can-a-website-be-hacked-in-under-10-minutes-understanding-web-security-574p)
+- [Understanding Node.js Cluster: The Core Concepts](https://dev.to/leapcell/understanding-nodejs-cluster-the-core-concepts-1c9e)
+- [AI and the Monkey’s Paw: Why SaaS Will Endure](https://dev.to/patrick_chan_0922a197d89d/ai-and-the-monkeys-paw-why-saas-will-endure-516p)
+- [Dark Mode, Light Mode, or No Mode? The Psychology Behind Web Design Choices](https://dev.to/adaf/dark-mode-light-mode-or-no-mode-the-psychology-behind-web-design-choices-2039)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
