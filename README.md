@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Secrets of React Context: Power, Pitfalls, and Performance](https://dev.to/vigneshiyergithub/unlocking-the-secrets-of-react-context-power-pitfalls-and-performance-2962)
-- [When I was a junior dev I&#39;d look at some problems and think &quot;This is hard because I&#39;m not very good at this and need to get better&quot; and now I look at a lot of those same problems and think, &quot;This is hard because this is badly-designed garbage.&quot;](https://dev.to/webbureaucrat/when-i-was-a-junior-dev-id-look-at-some-problems-and-think-this-is-hard-because-im-not-very-good-3d72)
-- [Mastering Essential Software Architecture, Part 6 IS FINALLY OUT !!!!](https://dev.to/lorebrada00/mastering-essential-software-architecture-part-6-is-finally-out--3jec)
-- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 6](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-6-57b)
-- [OpenAI o1/o3 - Be Careful What you Wish For...](https://dev.to/maximsaplin/openai-o1o3-be-careful-what-you-wish-for-58mc)
+- [Building a Semantic Search Engine with OpenAI, Go, and PostgreSQL &lpar;pgvector&rpar;](https://dev.to/dpuig/building-a-semantic-search-engine-with-openai-go-and-postgresql-pgvector-1el6)
+- [Is the SIP protocol making a comeback?](https://dev.to/naderjaber/is-the-sip-protocol-making-a-comeback-3l0b)
+- [Using LRU Cache in Node.js and TypeScript](https://dev.to/shayy/using-lru-cache-in-nodejs-and-typescript-7d9)
+- [Who Needs Roles Anymore? Introducing OpenFGA, the Future of SaaS](https://dev.to/blkgrlcto/who-needs-roles-anymore-introducing-openfga-the-future-of-saas-19j6)
+- [AI For Regulatory Compliance in Payments](https://dev.to/rapyd/ai-for-regulatory-compliance-in-payments-3iho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
