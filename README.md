@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
-- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
-- [Train LLM From Scratch](https://dev.to/fareedkhan557/train-llm-from-scratch-2jje)
-- [Why NestJS Is The New Gold Standard For Node Backend Development](https://dev.to/rayenmabrouk/why-nestjs-is-the-new-gold-standard-for-node-backend-development-lm)
-- [Top 20 Advanced JavaScript Interview Questions and Answers for Seasoned Engineers](https://dev.to/greatfrontend/top-20-advanced-javascript-interview-questions-and-answers-for-seasoned-engineers-3214)
+- [Code Challenge: Map](https://dev.to/missbreton/code-challenge-map-27fd)
+- [Scala Full-Stack templates](https://dev.to/hackus/scala-full-stack-templates-16ea)
+- [Dynamic Routes in Astro &lpar;+load parameters from JSON&rpar;](https://dev.to/flnzba/dynamic-routes-in-astro-load-parameters-from-json-g6p)
+- [7 Critical Pitfalls New Developers Must Avoid in Their First Weeks](https://dev.to/_ndeyefatoudiop/7-critical-pitfalls-new-developers-must-avoid-in-their-first-weeks-2l21)
+- [The Myth of the 10x Software Developer](https://dev.to/andre_orlowski_b2d1a3d47e/the-myth-of-the-10x-software-developer-2cg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
