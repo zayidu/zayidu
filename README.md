@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 40 Interesting Entrepreneurship Project Ideas For Students](https://dev.to/tarunfulera/top-40-interesting-entrepreneurship-project-ideas-for-students-mda)
-- [Your API Doesn’t Always Need to Be a Product](https://dev.to/zenika/your-api-doesnt-always-need-to-be-a-product-20p3)
-- [Enhancing JavaScript Code: Using Objects Instead of Switch Statements](https://dev.to/nassbin/enhancing-javascript-code-using-objects-instead-of-switch-statements-118f)
-- [AI Plugins for WooCommerce: A Simple Guide](https://dev.to/sidra_tulmuntaha/ai-plugins-for-woocommerce-a-simple-guide-n26)
-- [[Boost]](https://dev.to/rym_michaut/-1plj)
+- [My Journey as a First-Year Software Engineering Student](https://dev.to/gitbuddhi/my-journey-as-a-first-year-software-engineering-student-1l55)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1j15)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1dha)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-54i9)
+- [How to check if the microcontroller is started?](https://dev.to/carolineee/how-to-check-if-the-microcontroller-is-started-41h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
