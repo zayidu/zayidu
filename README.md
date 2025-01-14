@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Animation Library You Can Use for your Web Apps](https://dev.to/jenueldev/animation-library-you-can-use-for-your-web-apps-35lb)
-- [What is Generative AI and Why Does Your Business Need It?](https://dev.to/robertadler/what-is-generative-ai-and-why-does-your-business-need-it-41na)
-- [Streamlining CI/CD with AWS CodePipeline and GitHub Actions: A DevOps Perspective](https://dev.to/mabubakarriaz/streamlining-cicd-with-aws-codepipeline-and-github-actions-a-devops-perspective-j18)
-- [DEV RETRO 2024 !](https://dev.to/pragadeeshnehru/dev-retro-2024--3ceb)
-- [Top 10 Best Software For Data Analysis You Need to Know](https://dev.to/tarunfulera/top-10-best-software-for-data-analysis-you-need-to-know-24m)
+- [The World’s 1st Free and Open-Source Palm Recognition SDK from Faceplugin](https://dev.to/faceplugin/the-worlds-1st-free-and-open-source-palm-recognition-sdk-from-faceplugin-5d8h)
+- [Clean up S3 Batch Operations, Tags and Lifecycle policies, they said. It will be cheaper, they said.](https://dev.to/aws-builders/clean-up-s3-batch-operations-tags-and-lifecycle-policies-they-said-it-will-be-cheaper-they-3gli)
+- [Secrets Management in Kubernetes: Best Practices for Security](https://dev.to/rubixkube/secrets-management-in-kubernetes-best-practices-for-security-1df0)
+- [Advanced Docker Concepts and Features](https://dev.to/vaibhav_ca0da2b8bef9b07c2/advanced-dockerconcepts-and-features-i1f)
+- [Invoking Private API Gateway Endpoints From Step Functions](https://dev.to/aws-builders/invoking-private-api-gateway-endpoints-from-step-functions-cg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
