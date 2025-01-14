@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with the Open Source AI Hackathon](https://dev.to/abdibrokhim/getting-started-with-the-open-source-ai-hackathon-989)
-- [Announcing Powerful Devs Conference + Hack Together 2025](https://dev.to/azure/announcing-powerful-devs-conference-hack-together-2025-2anb)
-- [HTML Basics](https://dev.to/kavya_655bd7b08c9f0e93601/html-basics-2cig)
-- [What is HTML?](https://dev.to/kavya_655bd7b08c9f0e93601/what-is-html-5a5f)
-- [A Gentle Introduction to WebAssembly in Rust &lpar;2025 Edition&rpar;](https://dev.to/marktolmacs/a-gentle-introduction-to-webassembly-in-rust-2025-edition-1iac)
+- [Unlocking the Secrets of React Context: Power, Pitfalls, and Performance](https://dev.to/vigneshiyergithub/unlocking-the-secrets-of-react-context-power-pitfalls-and-performance-2962)
+- [When I was a junior dev I&#39;d look at some problems and think &quot;This is hard because I&#39;m not very good at this and need to get better&quot; and now I look at a lot of those same problems and think, &quot;This is hard because this is badly-designed garbage.&quot;](https://dev.to/webbureaucrat/when-i-was-a-junior-dev-id-look-at-some-problems-and-think-this-is-hard-because-im-not-very-good-3d72)
+- [Mastering Essential Software Architecture, Part 6 IS FINALLY OUT !!!!](https://dev.to/lorebrada00/mastering-essential-software-architecture-part-6-is-finally-out--3jec)
+- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 6](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-6-57b)
+- [OpenAI o1/o3 - Be Careful What you Wish For...](https://dev.to/maximsaplin/openai-o1o3-be-careful-what-you-wish-for-58mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
