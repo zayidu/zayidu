@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Challenge: Map](https://dev.to/missbreton/code-challenge-map-27fd)
-- [Scala Full-Stack templates](https://dev.to/hackus/scala-full-stack-templates-16ea)
-- [Dynamic Routes in Astro &lpar;+load parameters from JSON&rpar;](https://dev.to/flnzba/dynamic-routes-in-astro-load-parameters-from-json-g6p)
-- [7 Critical Pitfalls New Developers Must Avoid in Their First Weeks](https://dev.to/_ndeyefatoudiop/7-critical-pitfalls-new-developers-must-avoid-in-their-first-weeks-2l21)
-- [The Myth of the 10x Software Developer](https://dev.to/andre_orlowski_b2d1a3d47e/the-myth-of-the-10x-software-developer-2cg2)
+- [Let&#39;s create Data Table. Part 7: Dark theme and refactoring](https://dev.to/morewings/lets-create-data-table-part-7-dark-theme-and-refactoring-3ni9)
+- [Compiling 2025: Building a Year of Growth and Innovation](https://dev.to/prasanthj/compiling-2025-building-a-year-of-growth-and-innovation-3d3k)
+- [Understanding OAuth 1.0a Signature Generation: Postman vs. Node.js Library and Custom Implementation](https://dev.to/chatgptnexus/2025011422-50-58-article-2olf)
+- [React Korean Input Bug: First Character Not Displaying Properly](https://dev.to/gnoeykeat/react-korean-input-bug-first-character-not-displaying-properly-5epd)
+- [Query Data with DynamoDB](https://dev.to/misolainthecloud/query-data-with-dynamodb-59nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
