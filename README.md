@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 DevOps-GPT: Automating SRE Resolutions with AI-Powered Agents and Insights 🤖](https://dev.to/lakhera2015/devops-gpt-automating-sre-resolutions-with-ai-powered-agents-and-insights-4621)
-- [What is typescript?](https://dev.to/mosininamdar/what-is-typescript-1n3b)
-- [Configuring Public IP addresses in Azure](https://dev.to/willvelida/configuring-public-ip-addresses-in-azure-13bi)
-- [Streaming Responses in AI: How AI Outputs Are Generated in Real-Time](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)
-- [Java-kafka producing a message](https://dev.to/said_olano/java-kafka-producing-a-message-35pm)
+- [Why I won&#39;t use querySelector again.](https://dev.to/codingnninja/why-i-wont-use-queryselector-again-3mod)
+- [Stable Memory In Internet Computer](https://dev.to/harshedabdulla/stable-memory-in-internet-computer-37pj)
+- [Meilleurs proxy anonymes pour le torrent et la confidentialité](https://dev.to/discord-tools/meilleurs-proxy-anonymes-pour-le-torrent-et-la-confidentialite-4j01)
+- [SCP Automation for AWS Organization](https://dev.to/aws-builders/scp-automation-for-aws-organization-569j)
+- [Why build a Microservice?](https://dev.to/said_olano/why-build-a-microservice-4h48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
