@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Know Software Testing Interview Questions](https://dev.to/mansi_patil_ba50a09f10264/10-must-know-software-testing-interview-questions-3fci)
-- [5 Reasons Why Homework Should Be Banned?](https://dev.to/tarunfulera/5-reasons-why-homework-should-be-banned-1ke0)
-- [Debugging Authorization: How Cerbos Makes Troubleshooting Access Issues a Breeze](https://dev.to/techondiapers/debugging-authorization-how-cerbos-makes-troubleshooting-access-issues-a-breeze-1955)
-- [Top 5 Backend Programming Languages to Learn in 2024](https://dev.to/ram_fb361bc2f8f94e06772e2/top-5-backend-programming-languages-to-learn-in-2024-4hp1)
-- [AI: A Game-Changing Tool for People with Dyslexia](https://dev.to/gc-victor/ai-a-game-changing-tool-for-people-with-dyslexia-1mfo)
+- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
+- [How to upload Markdown files to Devto from GitHub v1](https://dev.to/alexantartico/how-to-upload-markdown-files-to-devto-from-github-v1-2ok6)
+- [How to Choose the Right Shopify Theme for Your Business Needs](https://dev.to/angelinajasper/how-to-choose-the-right-shopify-theme-for-your-business-needs-72g)
+- [💡 Smarter UX, AI-Powered Design &amp; HTML in 2025](https://dev.to/adam/smarter-ux-ai-powered-design-html-in-2025-1je2)
+- [Matanuska ADR 010 - Architecture, Revisited](https://dev.to/jfhbrook/matanuska-adr-010-architecture-revisited-2bc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
