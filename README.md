@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Not to Work in an Office Job](https://dev.to/robycigar/why-i-chose-not-to-work-in-an-office-job-7hk)
-- [Nextcloud on Raspberry Pi - Fedora + Podman Quadlets](https://dev.to/metal3d/nextcloud-on-raspberry-pi-fedora-podman-quadlets-1k49)
-- [Dynamically Extracting Endpoint Names and Attributes from a Custom C# MVC API](https://dev.to/seanmdrew/dynamically-extracting-endpoint-names-and-attributes-from-a-custom-c-mvc-api-1ml9)
-- [Step 1 - GET-&gt; SET-&gt; AWS!](https://dev.to/sumaniac28/step-1-get-set-aws-1p32)
-- [Bye 2024, Hello 2025! A year in review](https://dev.to/strapi/bye-2024-hello-2025-a-year-in-review-59a)
+- [Designing for developers means designing for LLMs too](https://dev.to/encore/designing-for-developers-means-designing-for-llms-too-ep8)
+- [Using SVGs on Canvas with Compose Multiplatform](https://dev.to/eevajonnapanula/using-svgs-on-canvas-with-compose-multiplatform-272p)
+- [Daily.dev&#39;s unethical software design](https://dev.to/kurealnum/dailydevs-unethical-software-design-15ib)
+- [Lessons from A Philosophy of Software Design](https://dev.to/thawkin3/lessons-from-a-philosophy-of-software-design-4cn7)
+- [Easy development environments with Nix and Nix flakes!](https://dev.to/arnu515/easy-development-environments-with-nix-and-nix-flakes-21mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
