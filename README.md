@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The WordPress Block Editor / Gutenberg](https://dev.to/hookedupinc/the-wordpress-block-editor-gutenberg-2i1l)
-- [Top 10 Reasons to Learn AWS in 2025](https://dev.to/skillboosttrainer/top-10-reasons-to-learn-aws-in-2025-2hk)
-- [How to Get the Most out of Cursor](https://dev.to/max_sonderby_455aa8771596/how-to-get-the-most-out-of-cursor-3fn9)
-- [How to Create a Good Pull Request Template](https://dev.to/oluwafemi_josephine_3f323/how-to-create-a-good-pull-request-template-1874)
-- [Open Source for Everyone: How to Contribute Without Writing Code](https://dev.to/oluwafemi_josephine_3f323/open-source-for-everyone-how-to-contribute-without-writing-code-4h30)
+- [Title: Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/krushna_sananse_1f1cf1845/title-understanding-javascript-promises-a-beginners-guide-2bl6)
+- [A Practical Guide to Deferred Props in Inertia 2](https://dev.to/akramghaleb/a-practical-guide-to-deferred-props-in-inertia-2-da5)
+- [GraphQL Transforming API Development](https://dev.to/ivansing/graphql-transforming-api-development-3mhi)
+- [🚀 Join Arkimedes and Help Us Change the World! 🌍💡](https://dev.to/lucas_mndez_c5e73e769df6/join-arkimedes-and-help-us-change-the-world-51i)
+- [Easy Discount Calculation: Tax, Fees &amp; Discount Percentage Explained](https://dev.to/learninggs/discount-calculator-117l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
