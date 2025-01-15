@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First AI Application Using LlamaIndex!](https://dev.to/pavanbelagatti/build-your-first-ai-application-using-llamaindex-1f9)
-- [Psychotherapy Technology Advancements](https://dev.to/scitech-insights/psychotherapy-technology-advancements-445d)
-- [🚀 Top 50 Websites a Backend Developer Must Know 🖥️🔧](https://dev.to/itanand_/top-50-websites-a-backend-developer-must-know-2f77)
-- [Week 2: Diving Deeper into Dynamic Memory, Structures, and Beyond in C Programming](https://dev.to/adhyanjain2512/week-2-diving-deeper-into-dynamic-memory-structures-and-beyond-in-c-programming-105b)
-- [Unlocking the Power of GitHub Copilot: Your AI Pair Programmer](https://dev.to/deepakpant93/unlocking-the-power-of-github-copilot-your-ai-pair-programmer-1dm8)
+- [Enhance Your Security with Proxy Hostname](https://dev.to/swiftproxy_residential/enhance-your-security-with-proxy-hostname-1300)
+- [How to Incorporate Style Guides into Your Technical Writing Process](https://dev.to/olodocoder/how-to-incorporate-style-guides-into-your-technical-writing-process-11gb)
+- [What Is a Proxy and Why It Matters](https://dev.to/swiftproxy_residential/what-is-a-proxy-and-why-it-matters-5edm)
+- [Binary classification with Machine Learning: Neural Networks for classifying Chihuahuas and Muffins](https://dev.to/atlantis/binary-classification-with-machine-learning-neural-networks-for-classifying-chihuahuas-and-muffins-4b72)
+- [Response Handling Best Practices](https://dev.to/msnmongare/response-handling-best-practices-4gih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
