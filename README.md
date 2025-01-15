@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
-- [How to upload Markdown files to Devto from GitHub v1](https://dev.to/alexantartico/how-to-upload-markdown-files-to-devto-from-github-v1-2ok6)
-- [How to Choose the Right Shopify Theme for Your Business Needs](https://dev.to/angelinajasper/how-to-choose-the-right-shopify-theme-for-your-business-needs-72g)
-- [💡 Smarter UX, AI-Powered Design &amp; HTML in 2025](https://dev.to/adam/smarter-ux-ai-powered-design-html-in-2025-1je2)
-- [Matanuska ADR 010 - Architecture, Revisited](https://dev.to/jfhbrook/matanuska-adr-010-architecture-revisited-2bc6)
+- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
+- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
+- [Dev Diaries: ShareIt](https://dev.to/dd8888/dev-diaries-shareit-3gi7)
+- [6 Top Professional AI Resume Builders Offering the Best Resume Writing Services in 2025](https://dev.to/nitinfab/6-top-professional-ai-resume-builders-offering-the-best-resume-writing-services-in-2025-4ok8)
+- [🚀 Your Daily Crypto Job Digest For 15 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-january-epi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
