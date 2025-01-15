@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
-- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
-- [Dev Diaries: ShareIt](https://dev.to/dd8888/dev-diaries-shareit-3gi7)
-- [6 Top Professional AI Resume Builders Offering the Best Resume Writing Services in 2025](https://dev.to/nitinfab/6-top-professional-ai-resume-builders-offering-the-best-resume-writing-services-in-2025-4ok8)
-- [🚀 Your Daily Crypto Job Digest For 15 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-january-epi)
+- [Why I Chose Not to Work in an Office Job](https://dev.to/robycigar/why-i-chose-not-to-work-in-an-office-job-7hk)
+- [Nextcloud on Raspberry Pi - Fedora + Podman Quadlets](https://dev.to/metal3d/nextcloud-on-raspberry-pi-fedora-podman-quadlets-1k49)
+- [Dynamically Extracting Endpoint Names and Attributes from a Custom C# MVC API](https://dev.to/seanmdrew/dynamically-extracting-endpoint-names-and-attributes-from-a-custom-c-mvc-api-1ml9)
+- [Step 1 - GET-&gt; SET-&gt; AWS!](https://dev.to/sumaniac28/step-1-get-set-aws-1p32)
+- [Bye 2024, Hello 2025! A year in review](https://dev.to/strapi/bye-2024-hello-2025-a-year-in-review-59a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
