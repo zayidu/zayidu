@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution By Sound](https://dev.to/bizzi_cole87_26ec228487d6/evolution-by-sound-453f)
-- [Building a String Calculator with Test-Driven Development &lpar;TDD&rpar;: A Step-by-Step Guide](https://dev.to/vishaaxl/building-a-string-calculator-with-test-driven-development-tdd-a-step-by-step-guide-4d59)
-- [How AI is Transforming the Healthcare Industry](https://dev.to/ram_fb361bc2f8f94e06772e2/how-ai-is-transforming-the-healthcare-industry-2gh6)
-- [Metamorphosis Tracker](https://dev.to/codedragon35/metamorphosis-tracker-3m5f)
-- [Pushed Authorization Requests in .NET 9: Why and How to Use Them](https://dev.to/oktadev/pushed-authorization-requests-in-net-9-why-and-how-to-use-them-53ba)
+- [10 Must-Know Software Testing Interview Questions](https://dev.to/mansi_patil_ba50a09f10264/10-must-know-software-testing-interview-questions-3fci)
+- [5 Reasons Why Homework Should Be Banned?](https://dev.to/tarunfulera/5-reasons-why-homework-should-be-banned-1ke0)
+- [Debugging Authorization: How Cerbos Makes Troubleshooting Access Issues a Breeze](https://dev.to/techondiapers/debugging-authorization-how-cerbos-makes-troubleshooting-access-issues-a-breeze-1955)
+- [Top 5 Backend Programming Languages to Learn in 2024](https://dev.to/ram_fb361bc2f8f94e06772e2/top-5-backend-programming-languages-to-learn-in-2024-4hp1)
+- [AI: A Game-Changing Tool for People with Dyslexia](https://dev.to/gc-victor/ai-a-game-changing-tool-for-people-with-dyslexia-1mfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
