@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving Auto-Scroll issues for overflow container in a Nuxt app](https://dev.to/mayashavin/resolving-auto-scroll-issues-for-overflow-container-in-a-nuxt-app-ikn)
-- [How to Resolve the &#39;Permission Denied&#39; Error in PHP File Handling](https://dev.to/saint_vandora/how-to-resolve-the-permission-denied-error-in-php-file-handling-1ppk)
-- [Vijana Wawekeze Katika Uhandisi wa Programu: Njia za Kufanikisha Kipato Kupitia Teknolojia](https://dev.to/abdulrazack23/vijana-wawekeze-katika-uhandisi-wa-programu-njia-za-kufanikisha-kipato-kupitia-teknolojia-2lk)
-- [Windows 上 VSCode 的 C/C++ 延伸模組處理編碼的問題](https://dev.to/codemee/windows-shang-vscode-de-cc-yan-shen-mo-zu-chu-li-bian-ma-de-wen-ti-2ajj)
-- [The Ultimate Guide to Heuristic Evaluation in UX Design](https://dev.to/lollypopdesign/the-ultimate-guide-to-heuristic-evaluation-in-ux-design-9nc)
+- [Evolution By Sound](https://dev.to/bizzi_cole87_26ec228487d6/evolution-by-sound-453f)
+- [Building a String Calculator with Test-Driven Development &lpar;TDD&rpar;: A Step-by-Step Guide](https://dev.to/vishaaxl/building-a-string-calculator-with-test-driven-development-tdd-a-step-by-step-guide-4d59)
+- [How AI is Transforming the Healthcare Industry](https://dev.to/ram_fb361bc2f8f94e06772e2/how-ai-is-transforming-the-healthcare-industry-2gh6)
+- [Metamorphosis Tracker](https://dev.to/codedragon35/metamorphosis-tracker-3m5f)
+- [Pushed Authorization Requests in .NET 9: Why and How to Use Them](https://dev.to/oktadev/pushed-authorization-requests-in-net-9-why-and-how-to-use-them-53ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
