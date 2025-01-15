@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between &lt;b&gt; and &lt;strong&gt; Tags in HTML](https://dev.to/wisdomudo/difference-between-and-tags-in-html-1fp6)
-- [Data structures](https://dev.to/__8d1b4f7/data-structures-4gkl)
-- [Hello everyone!!! :&rpar; ...and, what am I doing wrong?](https://dev.to/techniqueen/hello-everyone-and-what-am-i-doing-wrong-4and)
-- [The Way I Use Apple Notes is... Different](https://dev.to/litd/the-way-i-use-apple-notes-is-different-4jf)
-- [Boost Your Productivity with Momentum Builder: A Web App to Overcome Procrastination and Track Progress](https://dev.to/terieyenike/boost-your-productivity-with-momentum-builder-a-web-app-to-overcome-procrastination-and-track-eco)
+- [What technologies do you recommend for developing an affiliate network marketing platform?](https://dev.to/samhernandezc24/what-technologies-do-you-recommend-for-developing-an-affiliate-network-marketing-platform-4c4o)
+- [Why You Hate Test Coverage](https://dev.to/liammyles/why-you-hate-test-coverage-2cg9)
+- [Building Secure and Scalable Fintech Applications: A Technical Architecture Deep Dive](https://dev.to/ojosolomon/building-secure-and-scalable-fintech-applications-a-technical-architecture-deep-dive-35in)
+- [Phase 4 Project](https://dev.to/victordelcarpio/phase-4-project-59hi)
+- [Poemio](https://dev.to/jamcha123/poemio-380k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
