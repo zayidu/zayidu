@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Semantic Search Engine with OpenAI, Go, and PostgreSQL &lpar;pgvector&rpar;](https://dev.to/dpuig/building-a-semantic-search-engine-with-openai-go-and-postgresql-pgvector-1el6)
-- [Is the SIP protocol making a comeback?](https://dev.to/naderjaber/is-the-sip-protocol-making-a-comeback-3l0b)
-- [Using LRU Cache in Node.js and TypeScript](https://dev.to/shayy/using-lru-cache-in-nodejs-and-typescript-7d9)
-- [Who Needs Roles Anymore? Introducing OpenFGA, the Future of SaaS](https://dev.to/blkgrlcto/who-needs-roles-anymore-introducing-openfga-the-future-of-saas-19j6)
-- [AI For Regulatory Compliance in Payments](https://dev.to/rapyd/ai-for-regulatory-compliance-in-payments-3iho)
+- [How I set up my Frontend Mentor projects with Tailwind CSS](https://dev.to/theosaurusrex/how-i-set-up-my-frontend-mentor-projects-with-tailwind-css-m1i)
+- [&quot;Unlocking Music&#39;s Evolution: Insights from Network Science Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-musics-evolution-insights-from-network-science-analysis-1emg)
+- [21+ AI Website Builders to Create Your Next Website](https://dev.to/euanjudd/21-ai-website-builders-to-create-your-next-website-55pf)
+- [Comparing VPN Performance: State-of-the-Art Solutions in Stable vs. Unreliable Networks](https://dev.to/daniel_idoko/comparing-vpn-performance-state-of-the-art-solutions-in-stable-vs-unreliable-networks-1kll)
+- [Daily JavaScript Challenge #JS-73: Validate Palindrome Permutation](https://dev.to/dpc/daily-javascript-challenge-js-73-validate-palindrome-permutation-2p0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
