@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/thedevricha/javascript-closures-a-beginners-guide-lo6)
-- [DolphinScheduler Project Management Page Loads Slowly? Here&#39;s How to Optimize It](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-project-management-page-loads-slowly-heres-how-to-optimize-it-288p)
-- [Building Robust Applications with Real-Time Email Verification API: A Developer&#39;s Guide](https://dev.to/ychecker/building-robust-applications-with-real-time-email-verification-api-a-developers-guide-5g41)
-- [Exploring the CNCF Landscape: A Comprehensive Overview of Cloud Native Technologies](https://dev.to/mageshwaransekar/exploring-the-cncf-landscape-a-comprehensive-overview-of-cloud-native-technologies-2e6g)
-- [MVVM directory structure for larger project](https://dev.to/pheak_pheasa/mvvm-directory-structure-for-larger-project-2hdb)
+- [Welcome Thread - v310](https://dev.to/devteam/welcome-thread-v310-348i)
+- [Blockchain](https://dev.to/ranjithjupaka/blockchain-309n)
+- [HTML Elements](https://dev.to/kavya_655bd7b08c9f0e93601/html-elements-6lj)
+- [AngularFire Starter Template](https://dev.to/mbejda/angularfire-starter-template-4cgp)
+- [Understanding the Intersection of Software Development and Web Development: Key Insights for Aspiring Developers](https://dev.to/jetthoughts/understanding-the-intersection-of-software-development-and-web-development-key-insights-for-3ked)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
