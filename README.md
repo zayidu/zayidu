@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for developers means designing for LLMs too](https://dev.to/encore/designing-for-developers-means-designing-for-llms-too-ep8)
-- [Using SVGs on Canvas with Compose Multiplatform](https://dev.to/eevajonnapanula/using-svgs-on-canvas-with-compose-multiplatform-272p)
-- [Daily.dev&#39;s unethical software design](https://dev.to/kurealnum/dailydevs-unethical-software-design-15ib)
-- [Lessons from A Philosophy of Software Design](https://dev.to/thawkin3/lessons-from-a-philosophy-of-software-design-4cn7)
-- [Easy development environments with Nix and Nix flakes!](https://dev.to/arnu515/easy-development-environments-with-nix-and-nix-flakes-21mb)
+- [&quot;Boosting Multilingual LLMs: Tackling Noise for Better Performance&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multilingual-llms-tackling-noise-for-better-performance-4c0a)
+- [🕒 What’s your most productive time of the day?](https://dev.to/m_midas/whats-your-most-productive-time-of-the-day-5eaf)
+- [My First Post and Introduction](https://dev.to/uskdev/my-first-post-and-introduction-3k2o)
+- [Streaming input and output using WebSockets](https://dev.to/ag2ai/streaming-input-and-output-using-websockets-3p4o)
+- [37 Tip dành cho sự nghiệp của Frontend Develop &lpar;P2&rpar;](https://dev.to/nddev_18/37-tip-danh-cho-su-nghiep-cua-frontend-develop-p2-ki3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
