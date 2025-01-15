@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Arrays with Reference Variables](https://dev.to/devmercy/creating-arrays-with-reference-variables-d9j)
-- [Three Common Pitfalls in Modern Android Development](https://dev.to/marcotcdev/three-common-pitfalls-in-modern-android-development-1ec7)
-- [ruby -run, again](https://dev.to/delonnewman/ruby-run-again-2njc)
-- [Teaching Large Language Models &lpar;LLMs&rpar; to do Math Correctly](https://dev.to/shayy/teaching-large-language-models-llms-to-do-math-correctly-3dcg)
-- [Building bun-tastic: A Fast, High-Performance Static Site Server &lpar;OSS&rpar;](https://dev.to/pmbanugo/building-bun-tastic-a-fast-high-performance-static-site-server-oss-41ln)
+- [Introducing PersianNameGenerator: A Python Package for Generating Random Persian Names](https://dev.to/md86mi86/introducing-persiannamegenerator-a-python-package-for-generating-random-persian-names-4b7p)
+- [The Basics of Data Science Unveiled](https://dev.to/cubanpants50/the-basics-of-data-science-unveiled-5acm)
+- [The Importance of Writing Meaningful Code and Documentation](https://dev.to/robinncode/the-importance-of-writing-meaningful-code-and-documentation-454a)
+- [Setup Shopify GraphQL Admin API Client in Hydrogen](https://dev.to/dvnrsn/setup-shopify-graphql-admin-api-client-in-hydrogen-22oj)
+- [HTML vs HTML5—the tale of two titans of web development.](https://dev.to/brendahkiragu/html-vs-html5-the-tale-of-two-titans-of-web-development-54en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
