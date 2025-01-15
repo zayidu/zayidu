@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
-- [check it out](https://dev.to/shivam223/check-it-out-2nah)
-- [🌐 Building Golang RESTful API with Gin, MongoDB 🌱](https://dev.to/truongpx396/building-golang-restful-api-with-gin-mongodb-482c)
-- [Why Is Everyone Unhappy With JavaScript? | State of Javascript 2024 Survey](https://dev.to/mikehtmlallthethings/why-is-everyone-unhappy-with-javascript-state-of-javascript-2024-survey-20g6)
-- [The Roadmap to Becoming a Frontend Developer in 2025.](https://dev.to/majeedatwahab/the-roadmap-to-becoming-a-frontend-developer-in-2025-1kh9)
+- [Creating Arrays with Reference Variables](https://dev.to/devmercy/creating-arrays-with-reference-variables-d9j)
+- [Three Common Pitfalls in Modern Android Development](https://dev.to/marcotcdev/three-common-pitfalls-in-modern-android-development-1ec7)
+- [ruby -run, again](https://dev.to/delonnewman/ruby-run-again-2njc)
+- [Teaching Large Language Models &lpar;LLMs&rpar; to do Math Correctly](https://dev.to/shayy/teaching-large-language-models-llms-to-do-math-correctly-3dcg)
+- [Building bun-tastic: A Fast, High-Performance Static Site Server &lpar;OSS&rpar;](https://dev.to/pmbanugo/building-bun-tastic-a-fast-high-performance-static-site-server-oss-41ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
