@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Security with Proxy Hostname](https://dev.to/swiftproxy_residential/enhance-your-security-with-proxy-hostname-1300)
-- [How to Incorporate Style Guides into Your Technical Writing Process](https://dev.to/olodocoder/how-to-incorporate-style-guides-into-your-technical-writing-process-11gb)
-- [What Is a Proxy and Why It Matters](https://dev.to/swiftproxy_residential/what-is-a-proxy-and-why-it-matters-5edm)
-- [Binary classification with Machine Learning: Neural Networks for classifying Chihuahuas and Muffins](https://dev.to/atlantis/binary-classification-with-machine-learning-neural-networks-for-classifying-chihuahuas-and-muffins-4b72)
-- [Response Handling Best Practices](https://dev.to/msnmongare/response-handling-best-practices-4gih)
+- [Resolving Auto-Scroll issues for overflow container in a Nuxt app](https://dev.to/mayashavin/resolving-auto-scroll-issues-for-overflow-container-in-a-nuxt-app-ikn)
+- [How to Resolve the &#39;Permission Denied&#39; Error in PHP File Handling](https://dev.to/saint_vandora/how-to-resolve-the-permission-denied-error-in-php-file-handling-1ppk)
+- [Vijana Wawekeze Katika Uhandisi wa Programu: Njia za Kufanikisha Kipato Kupitia Teknolojia](https://dev.to/abdulrazack23/vijana-wawekeze-katika-uhandisi-wa-programu-njia-za-kufanikisha-kipato-kupitia-teknolojia-2lk)
+- [Windows 上 VSCode 的 C/C++ 延伸模組處理編碼的問題](https://dev.to/codemee/windows-shang-vscode-de-cc-yan-shen-mo-zu-chu-li-bian-ma-de-wen-ti-2ajj)
+- [The Ultimate Guide to Heuristic Evaluation in UX Design](https://dev.to/lollypopdesign/the-ultimate-guide-to-heuristic-evaluation-in-ux-design-9nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
