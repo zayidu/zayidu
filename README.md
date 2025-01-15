@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Email Marketing Service Providers in Noida to Grow Your Business](https://dev.to/digitalakadotcom/top-6-email-marketing-service-providers-in-noida-to-grow-your-business-4m1g)
-- [AI Workflows vs AI Agents — What’s the Difference?](https://dev.to/anandrmedia/ai-workflows-vs-ai-agents-whats-the-difference-5fk6)
-- [Edge Computing: Revolutionizing IoT Applications](https://dev.to/raquelmathew/edge-computing-revolutionizing-iot-applications-n91)
-- [SQL Server – Query Performance – Database Maintenance can Help](https://dev.to/madhu_patel_ddb6ab8288e84/sql-server-query-performance-database-maintenance-can-help-1a12)
-- [A Beginner’s Guide to Building GraphQL APIs with Apollo Server](https://dev.to/ayusharpcoder/a-beginners-guide-to-building-graphql-apis-with-apollo-server-3pdk)
+- [Build Your First AI Application Using LlamaIndex!](https://dev.to/pavanbelagatti/build-your-first-ai-application-using-llamaindex-1f9)
+- [Psychotherapy Technology Advancements](https://dev.to/scitech-insights/psychotherapy-technology-advancements-445d)
+- [🚀 Top 50 Websites a Backend Developer Must Know 🖥️🔧](https://dev.to/itanand_/top-50-websites-a-backend-developer-must-know-2f77)
+- [Week 2: Diving Deeper into Dynamic Memory, Structures, and Beyond in C Programming](https://dev.to/adhyanjain2512/week-2-diving-deeper-into-dynamic-memory-structures-and-beyond-in-c-programming-105b)
+- [Unlocking the Power of GitHub Copilot: Your AI Pair Programmer](https://dev.to/deepakpant93/unlocking-the-power-of-github-copilot-your-ai-pair-programmer-1dm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
