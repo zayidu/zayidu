@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/krushna_sananse_1f1cf1845/title-understanding-javascript-promises-a-beginners-guide-2bl6)
-- [A Practical Guide to Deferred Props in Inertia 2](https://dev.to/akramghaleb/a-practical-guide-to-deferred-props-in-inertia-2-da5)
-- [GraphQL Transforming API Development](https://dev.to/ivansing/graphql-transforming-api-development-3mhi)
-- [🚀 Join Arkimedes and Help Us Change the World! 🌍💡](https://dev.to/lucas_mndez_c5e73e769df6/join-arkimedes-and-help-us-change-the-world-51i)
-- [Easy Discount Calculation: Tax, Fees &amp; Discount Percentage Explained](https://dev.to/learninggs/discount-calculator-117l)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
+- [check it out](https://dev.to/shivam223/check-it-out-2nah)
+- [🌐 Building Golang RESTful API with Gin, MongoDB 🌱](https://dev.to/truongpx396/building-golang-restful-api-with-gin-mongodb-482c)
+- [Why Is Everyone Unhappy With JavaScript? | State of Javascript 2024 Survey](https://dev.to/mikehtmlallthethings/why-is-everyone-unhappy-with-javascript-state-of-javascript-2024-survey-20g6)
+- [The Roadmap to Becoming a Frontend Developer in 2025.](https://dev.to/majeedatwahab/the-roadmap-to-becoming-a-frontend-developer-in-2025-1kh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
