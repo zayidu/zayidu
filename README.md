@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 84: Não dependa do agendador de threads](https://dev.to/javaefetivo/item-84-nao-dependa-do-agendador-de-threads-hcg)
-- [A Beginner’s Guide to DevOps: Where to Start and What to Learn](https://dev.to/sahilcingh/a-beginners-guide-to-devops-where-to-start-and-what-to-learn-4ipf)
-- [Early to Rise: Daily Productivity Habits](https://dev.to/mohamednizzad/early-to-rise-daily-productivity-habits-9g8)
-- [How to Dockerize NestJS](https://dev.to/code42cate/how-to-dockerize-nestjs-327j)
-- [Setup NextJs | EsLint + Prettier - Fast way 🚀](https://dev.to/bpinela/setup-nextjs-eslint-prettier-fast-way-3cpd)
+- [Cloud Native Engineer goes Free](https://dev.to/cloudnative_eng/cloud-native-engineer-goes-free-kcb)
+- [In 2025, I resolve to eliminate escalations and finger pointing](https://dev.to/causely/in-2025-i-resolve-to-eliminate-escalations-and-finger-pointing-j2g)
+- [The ADHD Advantage: Why Hiring Neurodivergent Developers is a Game-Changer](https://dev.to/marie_berezhna/the-adhd-advantage-why-hiring-neurodivergent-developers-is-a-game-changer-5anf)
+- [19 Important AWS CLI commands with Examples and Outputs for different AWS services](https://dev.to/omerberatsezer/important-aws-cli-commands-with-examples-and-outputs-for-different-aws-services-15jf)
+- [Experimenting with v0](https://dev.to/metability/experimenting-with-v0-49cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
