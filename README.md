@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DIP - O Princípio da Inversão de Dependência](https://dev.to/thrsouza/dip-o-principio-da-inversao-de-dependencia-3a7e)
-- [Transfuse - A Stellar Multichain Asset Bridge](https://dev.to/hunterionize/transfuse-a-stellar-multichain-asset-bridge-2m6h)
-- [AI Software Development: Best Practices for Building Smarter Applications](https://dev.to/joinwithken/ai-software-development-best-practices-for-building-smarter-applications-jg8)
-- [[Boost]](https://dev.to/sfundomhlungu/-4jjh)
-- [🚀 Unlock the Power of Real-Time Analytics with Big Data Engineering! 🛠️](https://dev.to/anshul_kichara/unlock-the-power-of-real-time-analytics-with-big-data-engineering-d1h)
+- [Compiling 2025: Building a Roadmap for Career Growth in Blockchain Development](https://dev.to/block_experts_766a3a21915637/compiling-2025-building-a-roadmap-for-career-growth-in-blockchain-development-4dab)
+- [Quick Start: Elasticsearch + OpenTelemetry Collector](https://dev.to/ev_vasilev/quick-start-elasticsearch-opentelemetry-collector-d65)
+- [Game Day Event Notification using AWS Serverless Services](https://dev.to/ameh_mathias/game-day-event-notification-using-aws-serverless-services-ha7)
+- [Building an Order Summary Card with HTML and CSS: A Beginner’s Guide 🚀](https://dev.to/drishti1920/building-an-order-summary-card-with-html-and-css-a-beginners-guide-4lci)
+- [How Downtime Impacts SEO &lpar;and How to Build a Website Uptime Monitor with Google Sheets&rpar;](https://dev.to/elvisans/how-downtime-impacts-seo-and-how-to-build-a-website-uptime-monitor-with-google-sheets-58g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
