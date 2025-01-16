@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling 2025: Building a Roadmap for Career Growth in Blockchain Development](https://dev.to/block_experts_766a3a21915637/compiling-2025-building-a-roadmap-for-career-growth-in-blockchain-development-4dab)
-- [Quick Start: Elasticsearch + OpenTelemetry Collector](https://dev.to/ev_vasilev/quick-start-elasticsearch-opentelemetry-collector-d65)
-- [Game Day Event Notification using AWS Serverless Services](https://dev.to/ameh_mathias/game-day-event-notification-using-aws-serverless-services-ha7)
-- [Building an Order Summary Card with HTML and CSS: A Beginner’s Guide 🚀](https://dev.to/drishti1920/building-an-order-summary-card-with-html-and-css-a-beginners-guide-4lci)
-- [How Downtime Impacts SEO &lpar;and How to Build a Website Uptime Monitor with Google Sheets&rpar;](https://dev.to/elvisans/how-downtime-impacts-seo-and-how-to-build-a-website-uptime-monitor-with-google-sheets-58g3)
+- [Microservices: Common Misconceptions and Practical Realities](https://dev.to/fedorb/microservices-common-misconceptions-and-practical-realities-kja)
+- [Sherlock Holmes: The Mystery of the Erratic Logstash](https://dev.to/programmerraja/sherlock-holmes-and-the-mystery-of-the-erratic-logstash-51jg)
+- [Understanding *args and **kwargs in Python](https://dev.to/samita_khanduri_/understanding-args-and-kwargs-in-python-3bkb)
+- [How to use Ably LiveSync’s MongoDB Connector for realtime and offline data sync](https://dev.to/ably/how-to-use-ably-livesyncs-mongodb-connector-for-realtime-and-offline-data-sync-4d5o)
+- [Top Artificial Intelligence &lpar;AI&rpar; Certifications and Courses for 2025](https://dev.to/skillboosttrainer/top-artificial-intelligence-ai-certifications-and-courses-for-2025-4bpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
