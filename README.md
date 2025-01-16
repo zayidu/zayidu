@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚫 Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-1nmd)
-- [🚫Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-2bd4)
-- [Exploring Iceberg Catalogs: A Practical Guide to Data Organization](https://dev.to/supratipb/exploring-iceberg-catalogs-a-practical-guide-to-data-organization-58ia)
-- [Learn how to sync your portfolio site&#39;s project list with your GitHub repositories. Check this out! 👇](https://dev.to/shricodev/learn-how-to-sync-your-portfolio-sites-project-list-with-your-github-repositories-check-this-out-3d97)
-- [PostgreSQL vs MongoDB: Which One Fits Your Project?](https://dev.to/harmanpreetdev/postgresql-vs-mongodb-which-one-fits-your-project-4a7o)
+- [Valuable Lessons from My Software Localization Journey](https://dev.to/annakarlsson/valuable-lessons-from-my-software-localization-journey-111a)
+- [The 2024 Web Almanac, State of CSS and State of JavaScript Results, the 2024 Advent Calendar roundup | Front End News #112](https://dev.to/adriansandu/the-2024-web-almanac-state-of-css-and-state-of-javascript-results-the-2024-advent-calendar-2ccb)
+- [React Fast Marquee](https://dev.to/marekgacek45/react-fast-marquee-1nn7)
+- [Cloud Service Pricing Models](https://dev.to/574n13y/cloud-service-pricing-models-2f7)
+- [How to create an AI Avatar in Go using Simli](https://dev.to/oyedeletemitope/how-to-create-an-ai-avatar-in-go-using-simli-63n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
