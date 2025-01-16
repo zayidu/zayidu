@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadOnePage - Spend more time reading and learning, and less time in social media](https://dev.to/schemetastic/readonepage-spend-more-time-reading-and-learning-and-less-time-in-social-media-14fj)
 - [What technologies do you recommend for developing an affiliate network marketing platform?](https://dev.to/samhernandezc24/what-technologies-do-you-recommend-for-developing-an-affiliate-network-marketing-platform-4c4o)
 - [Why You Hate Test Coverage](https://dev.to/liammyles/why-you-hate-test-coverage-2cg9)
 - [Building Secure and Scalable Fintech Applications: A Technical Architecture Deep Dive](https://dev.to/ojosolomon/building-secure-and-scalable-fintech-applications-a-technical-architecture-deep-dive-35in)
 - [Phase 4 Project](https://dev.to/victordelcarpio/phase-4-project-59hi)
-- [Poemio](https://dev.to/jamcha123/poemio-380k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
