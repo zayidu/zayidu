@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025’s Best Practices for Managing CSS in Large-Scale Projects](https://dev.to/digitalminds/2025s-best-practices-for-managing-css-in-large-scale-projects-2cee)
-- [A deep dive into Angular’s FormArray container](https://dev.to/logrocket/a-deep-dive-into-angulars-formarray-container-23m3)
-- [OAuth2 Resource Owner Password Credentials Grant Type: Use Cases and Security Risks](https://dev.to/igventurelli/oauth2-resource-owner-password-credentials-grant-type-use-cases-and-security-risks-3hh1)
-- [How to Copy/Duplicate a File Duplicate in Vim &lpar;netrw+vinegar&rpar;](https://dev.to/pkutaj/how-to-copyduplicate-a-file-duplicate-in-vim-netrwvinegar-561c)
-- [Understanding Digital Assets: A Beginner&#39;s Guide for Novices](https://dev.to/skycap9/understanding-digital-assets-a-beginners-guide-for-novices-1knn)
+- [🚫 Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-1nmd)
+- [🚫Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-2bd4)
+- [Exploring Iceberg Catalogs: A Practical Guide to Data Organization](https://dev.to/supratipb/exploring-iceberg-catalogs-a-practical-guide-to-data-organization-58ia)
+- [Learn how to sync your portfolio site&#39;s project list with your GitHub repositories. Check this out! 👇](https://dev.to/shricodev/learn-how-to-sync-your-portfolio-sites-project-list-with-your-github-repositories-check-this-out-3d97)
+- [PostgreSQL vs MongoDB: Which One Fits Your Project?](https://dev.to/harmanpreetdev/postgresql-vs-mongodb-which-one-fits-your-project-4a7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
