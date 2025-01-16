@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ineffective Life Goals Advisor](https://dev.to/aniruddhaadak/ineffective-life-goals-advisor-30f3)
-- [Introduction to Elasticsearch Database and Key Terminologies](https://dev.to/web_dev-usman/introduction-to-elasticsearch-database-and-key-terminologies-36oe)
-- [Get More Done with LangChain’s AI Email Assistant &lpar;EAIA&rpar;](https://dev.to/visdom_04_88f1c6e8a47fe74/get-more-done-with-langchains-ai-email-assistant-eaia-1cii)
-- [Another demo my front end work](https://dev.to/safiullin/another-demo-my-front-end-work-3ebp)
-- [Introduction to TypeScript for JavaScript Developers](https://dev.to/dhrumitdk/introduction-to-typescript-for-javascript-developers-39l)
+- [中文音频翻译成英文语音的最佳选择：TransMonkey](https://dev.to/fagac_gvwc_0ebeec7ffe710a/zhong-wen-yin-pin-fan-yi-cheng-ying-wen-yu-yin-de-zui-jia-xuan-ze-transmonkey-464j)
+- [®️Reddit Scraper Pro 👑](https://dev.to/aniruddhadak/rreddit-scraper-pro-kc0)
+- [Educating Machines.](https://dev.to/williammuko/educating-machines-3ck8)
+- [Rails Self-Join Tables - Parent-Child Magic](https://dev.to/sulmanweb/rails-self-join-tables-parent-child-magic-5abg)
+- [Minimize XOR](https://dev.to/prashantrmishra/minimize-xor-39jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
