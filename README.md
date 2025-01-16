@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet AgentCare - Your Personalized AI Health Advisor, Anytime, Anywhere](https://dev.to/prasanthj/revolutionizing-healthcare-intelligent-health-assistant-agent-35om)
-- [💥2030 Apocalypse: AI Boom vs Energy Crisis💥 Head over to my page here @dav or over at my blog @dansasser #AI #ArtificialIntelligence #creativewriting #blogging](https://dev.to/dansasser/2030-apocalypse-ai-boom-vs-energy-crisis-head-over-to-my-page-here-dav-or-over-at-my-blog-51n5)
-- [Unlocking the Power of AWS Databases: A Complete Guide for Developers](https://dev.to/nikhil_nareddula_/unlocking-the-power-of-aws-databases-a-complete-guide-for-developers-h44)
-- [PyTorch Day 03: Tensor Operations](https://dev.to/ahammadmejbah/pytorch-day-03-tensor-operations-2efc)
-- [Local storage Note](https://dev.to/fscss-ttr/local-storage-note-1af2)
+- [2025’s Best Practices for Managing CSS in Large-Scale Projects](https://dev.to/digitalminds/2025s-best-practices-for-managing-css-in-large-scale-projects-2cee)
+- [A deep dive into Angular’s FormArray container](https://dev.to/logrocket/a-deep-dive-into-angulars-formarray-container-23m3)
+- [OAuth2 Resource Owner Password Credentials Grant Type: Use Cases and Security Risks](https://dev.to/igventurelli/oauth2-resource-owner-password-credentials-grant-type-use-cases-and-security-risks-3hh1)
+- [How to Copy/Duplicate a File Duplicate in Vim &lpar;netrw+vinegar&rpar;](https://dev.to/pkutaj/how-to-copyduplicate-a-file-duplicate-in-vim-netrwvinegar-561c)
+- [Understanding Digital Assets: A Beginner&#39;s Guide for Novices](https://dev.to/skycap9/understanding-digital-assets-a-beginners-guide-for-novices-1knn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
