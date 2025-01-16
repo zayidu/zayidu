@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Valuable Lessons from My Software Localization Journey](https://dev.to/annakarlsson/valuable-lessons-from-my-software-localization-journey-111a)
-- [The 2024 Web Almanac, State of CSS and State of JavaScript Results, the 2024 Advent Calendar roundup | Front End News #112](https://dev.to/adriansandu/the-2024-web-almanac-state-of-css-and-state-of-javascript-results-the-2024-advent-calendar-2ccb)
-- [React Fast Marquee](https://dev.to/marekgacek45/react-fast-marquee-1nn7)
-- [Cloud Service Pricing Models](https://dev.to/574n13y/cloud-service-pricing-models-2f7)
-- [How to create an AI Avatar in Go using Simli](https://dev.to/oyedeletemitope/how-to-create-an-ai-avatar-in-go-using-simli-63n)
+- [How to master JavaScript debugging for web apps](https://dev.to/logrocket/how-to-master-javascript-debugging-for-web-apps-58je)
+- [The Future of Customer-Centric Digital Banks: Bold Innovations for a Transformative Banking Experience](https://dev.to/ravikant2509/the-future-of-customer-centric-digital-banks-bold-innovations-for-a-transformative-banking-3hdf)
+- [Validation, Authentication and Authorization](https://dev.to/otumianempire/validation-authentication-and-authorization-5cag)
+- [Postgres vs. MySQL](https://dev.to/outerbase/postgres-vs-mysql-14cp)
+- [Why Your First Game Shouldn&#39;t Be an MMORPG](https://dev.to/dwightm/why-your-first-game-shouldnt-be-an-mmorpg-4d8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
