@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/brunociccarino/-47nb)
-- [How to Enhance the API Response with a Wrapper Class with Additional Information with .NET Minimal API](https://dev.to/this-is-learning/how-to-enhance-the-api-response-with-a-wrapper-class-with-additional-information-with-net-minimal-45ea)
-- [AWSsence: Exploring Event Monitoring](https://dev.to/badgerduke/awssence-exploring-event-monitoring-4gck)
-- [Routing in Next.js – How to Use App Router in Your Next Apps](https://dev.to/epicx/routing-in-nextjs-how-to-use-app-router-in-your-next-apps-2lj4)
-- [My Modern &lpar;but Retro&rpar; Web Dev Setup with Vim on Windows](https://dev.to/brunociccarino/my-modern-but-retro-web-dev-setup-with-vim-on-windows-4g8n)
+- [Item 84: Não dependa do agendador de threads](https://dev.to/javaefetivo/item-84-nao-dependa-do-agendador-de-threads-hcg)
+- [A Beginner’s Guide to DevOps: Where to Start and What to Learn](https://dev.to/sahilcingh/a-beginners-guide-to-devops-where-to-start-and-what-to-learn-4ipf)
+- [Early to Rise: Daily Productivity Habits](https://dev.to/mohamednizzad/early-to-rise-daily-productivity-habits-9g8)
+- [How to Dockerize NestJS](https://dev.to/code42cate/how-to-dockerize-nestjs-327j)
+- [Setup NextJs | EsLint + Prettier - Fast way 🚀](https://dev.to/bpinela/setup-nextjs-eslint-prettier-fast-way-3cpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
