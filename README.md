@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to master JavaScript debugging for web apps](https://dev.to/logrocket/how-to-master-javascript-debugging-for-web-apps-58je)
-- [The Future of Customer-Centric Digital Banks: Bold Innovations for a Transformative Banking Experience](https://dev.to/ravikant2509/the-future-of-customer-centric-digital-banks-bold-innovations-for-a-transformative-banking-3hdf)
-- [Validation, Authentication and Authorization](https://dev.to/otumianempire/validation-authentication-and-authorization-5cag)
-- [Postgres vs. MySQL](https://dev.to/outerbase/postgres-vs-mysql-14cp)
-- [Why Your First Game Shouldn&#39;t Be an MMORPG](https://dev.to/dwightm/why-your-first-game-shouldnt-be-an-mmorpg-4d8k)
+- [Introducing Rails Stats: view LoC of Rails Products](https://dev.to/railsdesigner/introducing-rails-stats-3fdo)
+- [Implementing Cookie-Based JWT Authentication in a tRPC Backend](https://dev.to/itsrakesh/implementing-cookie-based-jwt-authentication-in-a-trpc-backend-478m)
+- [What does NULL mean in an OUTER JOIN? &lpar;&quot;unknown&quot; vs. &quot;not exists&quot;&rpar;](https://dev.to/yugabyte/what-does-null-mean-in-an-outer-join-unknown-vs-not-exists-4kng)
+- [Mastering NTDS.DIT: Protecting Active Directory&#39;s Core Database](https://dev.to/ostapzabolotnyy/mastering-ntdsdit-protecting-active-directorys-core-database-3jl9)
+- [Introducing Sprout 1.0 🌱💜: A New Era for Go Templates](https://dev.to/42atomys/introducing-sprout-10-a-new-era-for-go-templates-4o7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
