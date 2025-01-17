@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Hilarious Coach](https://dev.to/auramuch/most-hilarious-coach-2b7l)
-- [Sql basic command](https://dev.to/sachin841/sql-basic-command-42jj)
-- [Top 10 Free Proxies for Web Scraping: 2025](https://dev.to/datacollectionscraper/top-10-free-proxies-for-web-scraping-2025-7og)
-- [The Role of Augmented Reality in Manufacturing: Applications and Advantages](https://dev.to/ram_fb361bc2f8f94e06772e2/the-role-of-augmented-reality-in-manufacturing-applications-and-advantages-3m5e)
-- [CSS3 Animations: The Total Guide with Examples](https://dev.to/dohncastillo48/css3-animations-the-total-guide-with-examples-2ji2)
+- [Common Mistakes to Avoid While Relaunching Your Website](https://dev.to/topdevelopersco/common-mistakes-to-avoid-while-relaunching-your-website-399h)
+- [Retro’ing and Debugging 2024: A Journey of Growth and Reflection](https://dev.to/avani_patel/retroing-and-debugging-2024-a-journey-of-growth-and-reflection-5d8e)
+- [A case study of creating configurable values](https://dev.to/samuelko123/a-case-study-of-creating-configurable-values-1oa3)
+- [FintechZoom.com: Your Source for Advanced Tech Insights](https://dev.to/techyboo009/fintechzoomcom-your-source-for-advanced-tech-insights-2d55)
+- [Kubernetes CKAD Exam: Multiple Choice &lpar;MCQ&rpar;](https://dev.to/caius_sterling_dd52f06e19/kubernetes-ckad-exam-multiple-choice-mcq-4knp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
