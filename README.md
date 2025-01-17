@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Process Synchronization and Scheduling in Operating Systems](https://dev.to/arjun98k/process-synchronization-and-scheduling-in-operating-systems-1hcp)
-- [Rails Designer v1.11: Rails Icons now a default](https://dev.to/railsdesigner/rails-designer-v111-rails-icons-now-a-default-3h21)
-- [Lift and Shift vs Replatforming](https://dev.to/enna/lift-and-shift-vs-replatforming-5d07)
-- [What the H*ck is Terraform: An Introduction](https://dev.to/brandondamue/what-the-hck-is-terraform-an-introduction-2058)
-- [Hello World for Fire TV with Kotlin &amp; Jetpack Compose](https://dev.to/amazonappdev/hello-world-for-fire-tv-with-kotlin-jetpack-compose-4b7i)
+- [DJANGO MODEL](https://dev.to/george_ngiye_b8648fa370bb/django-model-2kki)
+- [Streamline Your Background Tasks with the Task Repetitor Library](https://dev.to/fermantttnnn/streamline-your-background-tasks-with-the-task-repetitor-library-2fie)
+- [Do you want to change Storageclass to your PVs?](https://dev.to/tvelmachos/do-you-want-to-change-storageclass-to-your-pvs-5hb2)
+- [10 Must-Know Tailwind CSS Classes for Effortless Web Design](https://dev.to/rijultp/10-must-know-tailwind-css-classes-for-effortless-web-design-4cbg)
+- [Explained: Generative AI’s environmental impact](https://dev.to/future_ai/explained-generative-ais-environmental-impact-16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
