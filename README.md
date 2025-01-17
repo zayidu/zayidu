@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock Intelligent Prompt Routing: Optimización de Costos y Rendimiento en la Práctica](https://dev.to/codecr/amazon-bedrock-intelligent-prompt-routing-optimizacion-de-costos-y-rendimiento-en-la-practica-5ggp)
-- [Understanding Machine Learning Basics for Newcomers](https://dev.to/fielddecade54/understanding-machine-learning-basics-for-newcomers-2oka)
-- [Unleashing AI Agent Potential with Tavily Search in KaibanJS](https://dev.to/kaibanjs/unleashing-ai-agent-potential-with-tavily-search-in-kaibanjs-2j41)
-- [Umbraco: Adding custom query strings for GetCropUrl&lpar;&rpar;](https://dev.to/richard_ockerby_62d513a3f/umbraco-adding-custom-query-strings-for-getcropurl-459f)
-- [Building an AWS Gamified Learning Platform with Amazon Q and Gemini: An AI-Powered Journey &lpar;Public Repo&rpar;](https://dev.to/sam_ben_786ddbe69e5992835/building-an-aws-gamified-learning-platform-with-amazon-q-and-gemini-an-ai-powered-journey-public-379h)
+- [ElastiCache Serverless: L2 CDK Construct Released in open-constructs](https://dev.to/aws-builders/elasticache-serverless-l2-cdk-construct-released-in-open-constructs-fpe)
+- [Special Edition - This Month in Azure Static Web Apps | November and December 2024](https://dev.to/azure/special-edition-this-month-in-azure-static-web-apps-november-and-december-2024-2h41)
+- [The Allure of the Internet Computer Protocol &lpar;ICP&rpar;: A Deep Dive](https://dev.to/uratmangun/1st-wave-icp-the-allure-of-the-internet-computer-protocol-icp-a-deep-dive-5bjm)
+- [Proxy IP efficiently helps crawl millions of data](https://dev.to/98ip/proxy-ip-efficiently-helps-crawl-millions-of-data-5ea4)
+- [Prompt Engineering Techniques to Improve LLMs Performance](https://dev.to/adipamartulandi/prompt-engineering-techniques-to-improve-llms-performance-3d4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
