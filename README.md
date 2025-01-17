@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your Development Environment for a Nuxt 3 Storefront with Medusa 2](https://dev.to/olivierbelaud/setting-up-your-development-environment-for-a-nuxt-3-storefront-with-medusa-2-phf)
-- [Understanding Sorting Algorithms &lpar;with Examples in Java&rpar;](https://dev.to/chinonsoike/sorting-algorithms-with-examples-in-java-3ib1)
-- [22 Unique Developer Resources You Should Explore](https://dev.to/kafeel_ahmad/22-unique-developer-resources-you-should-explore-464d)
-- [10x DevKit: Build Beautiful Websites in Record Time](https://dev.to/yektadev/10x-devkit-build-beautiful-websites-in-record-time-4ip7)
-- [ERP: what is it?](https://dev.to/kasyanenko/erp-what-is-it-3dce)
+- [Process Synchronization and Scheduling in Operating Systems](https://dev.to/arjun98k/process-synchronization-and-scheduling-in-operating-systems-1hcp)
+- [Rails Designer v1.11: Rails Icons now a default](https://dev.to/railsdesigner/rails-designer-v111-rails-icons-now-a-default-3h21)
+- [Lift and Shift vs Replatforming](https://dev.to/enna/lift-and-shift-vs-replatforming-5d07)
+- [What the H*ck is Terraform: An Introduction](https://dev.to/brandondamue/what-the-hck-is-terraform-an-introduction-2058)
+- [Hello World for Fire TV with Kotlin &amp; Jetpack Compose](https://dev.to/amazonappdev/hello-world-for-fire-tv-with-kotlin-jetpack-compose-4b7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
