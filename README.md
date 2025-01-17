@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Kafka Topic Creation and Deletion, Using GitHub Actions and JavaScript](https://dev.to/pmbanugo/how-to-automate-kafka-topic-creation-and-deletion-using-github-actions-and-javascript-p9n)
-- [Moving flask app to production.](https://dev.to/eddiegulay/moving-flask-app-to-production-41b6)
-- [Deploying Flask App in Digital Ocean Droplet](https://dev.to/eddiegulay/deploying-flask-app-in-digital-ocean-droplet-cep)
-- [string.indexOf&lpar;&rpar; under the hood](https://dev.to/aziz999/stringindexof-under-the-hood-2699)
-- [Cloudflare is almost perfect](https://dev.to/nuro/cloudflare-is-almost-perfect-1445)
+- [Building an AWS Gamified Learning Platform with Amazon Q and Gemini: An AI-Powered Journey &lpar;Public Repo&rpar;](https://dev.to/sam_ben_786ddbe69e5992835/building-an-aws-gamified-learning-platform-with-amazon-q-and-gemini-an-ai-powered-journey-public-379h)
+- [The Impact of AI on Software Testing: Revolutionizing Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/the-impact-of-ai-on-software-testing-revolutionizing-quality-assurance-34lo)
+- [&quot;Unlocking EHR Efficiency: The Power of PDSQI-9 in Healthcare Workflows&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ehr-efficiency-the-power-of-pdsqi-9-in-healthcare-workflows-5dch)
+- [Kubernetes 103: Objects](https://dev.to/danielcristho/kubernetes-103-objects-19d4)
+- [CSS3 Animations: The Complete Guide](https://dev.to/bkthemes/css3-animations-the-complete-guide-660)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
