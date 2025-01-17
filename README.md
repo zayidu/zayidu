@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #217: View Transitions, RSC, Next.js, Compiler, EAS Hosting, Shopify, Skia, OTP, Gesture Handler, Radon...](https://dev.to/sebastienlorber/this-week-in-react-217-view-transitions-rsc-nextjs-compiler-eas-hosting-shopify-skia-otp-2hpf)
-- [The Future of Front-End Development](https://dev.to/aneeqakhan/the-future-of-front-end-development-3gea)
-- [How to use an API: a tutorial for beginners!🔥](https://dev.to/fallon_jimmy/how-to-use-an-api-a-tutorial-for-beginners-1m5a)
-- [My JavaScript Journey: From Callbacks to Kafka – Embracing the Chaos of Event-Driven Systems](https://dev.to/elvissautet/my-javascript-journey-from-callbacks-to-kafka-embracing-the-chaos-of-event-driven-systems-2ci3)
-- [Dynamic throttle](https://dev.to/janwiesner/dynamic-throttle-2mhb)
+- [Validation style final tweaks](https://dev.to/ayyash/validation-style-final-tweaks-2243)
+- [🎾 Say NO to GPTennis in Academia! 🎓](https://dev.to/dms/say-no-to-gptennis-in-academia-4dn8)
+- [Exploring the Chunk Free List Mechanism in GBase 8s Database](https://dev.to/congcong/exploring-the-chunk-free-list-mechanism-in-gbase-8s-database-2f5g)
+- [Scalable and Responsive EC2 Management Application](https://dev.to/yusufgbagci/scalable-and-responsive-ec2-management-application-2obf)
+- [GDPR Compliance: A Must-Have for Every Business in the Digital Age](https://dev.to/anupriya/gdpr-compliance-a-must-have-for-every-business-in-the-digital-age-eo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
