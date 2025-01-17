@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing an Open-Source MySQL Memory Calculator](https://dev.to/drupaladmin/introducing-an-open-source-mysql-memory-calculator-1ca5)
-- [My Code Chronicles #1: Optimizing Images in Next.js with a Custom Component](https://dev.to/nathlowe/my-code-chronicles-1-optimizing-images-in-nextjs-with-a-custom-component-3973)
-- [Splitting Wasp TS Config?](https://dev.to/medardm/splitting-wasp-ts-config-2iei)
-- [SETTING UP REACT ON YOUR LOCAL MACHINE](https://dev.to/phanhie/setting-up-react-on-your-local-machine-8o5)
-- [[open source] A smart text editor running local models completely in browser](https://dev.to/yyjhao/open-source-a-smart-text-editor-running-local-models-completely-in-browser-210e)
+- [Arrays In Java](https://dev.to/devmercy/arrays-in-java-3f3l)
+- [Implementing blue-green deployment with Azure App Service deployment slots](https://dev.to/devsonclouds/implementing-blue-green-deployment-with-azure-app-service-deployment-slots-2658)
+- [Locking Mechanisms in Relational Database Management Systems &lpar;RDBMS&rpar;](https://dev.to/erjun_chen_9674afdc95380d/locking-mechanisms-in-relational-database-management-systems-rdbms-2i7b)
+- [The Four Layers of Internet Computer Protocol](https://dev.to/therustfanatic/the-four-layers-of-internet-computer-protocol-5dp)
+- [Integrating GitLab with Slack for Better Collaboration](https://dev.to/mohsen_leveling/integrating-gitlab-with-slack-for-better-collaboration-35f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
