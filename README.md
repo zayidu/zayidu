@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating Random User Agents in Rust: Introducing `rand_agents` Library](https://dev.to/trixsec/generating-random-user-agents-in-rust-introducing-randagents-library-4c82)
-- [Getting Started With Kubernetes: A beginner&#39;s guide](https://dev.to/onlyfave/getting-started-with-kubernetes-a-beginners-guide-jhc)
-- [Interface in Vanilla JavaScript](https://dev.to/user_r100/interface-in-vanilla-javascript-30o9)
-- [CSS3 Animations: The Total Guide with Examples](https://dev.to/paintrain6/css3-animations-the-total-guide-with-examples-54np)
-- [Citty, an elegant CLI builder by Unjs](https://dev.to/ramunarasinga-11/citty-an-elegant-cli-builder-by-unjs-h61)
+- [Vue.js or Nuxt.js?](https://dev.to/freshtech/vuejs-or-nuxtjs-5fec)
+- [Self-belief, Pragmatism, Speed, Technical ability: characteristics of good software engineers](https://dev.to/urbanisierung/self-belief-pragmatism-speed-technical-ability-characteristics-of-good-software-engineers-18c1)
+- [ProgressPals: Your last productivity app](https://dev.to/thebuildguy/progresspals-your-last-productivity-app-4dm0)
+- [Cloud Infrastructure Management: Navigating the Future of IT Operations](https://dev.to/radhika_singh_545ca79f831/cloud-infrastructure-management-navigating-the-future-of-it-operations-33fe)
+- [The Programming Language Showdown: Why Passion for Solutions Matters More Than Language Debates](https://dev.to/dminatto/the-programming-language-showdown-why-passion-for-solutions-matters-more-than-language-debates-3ba5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
