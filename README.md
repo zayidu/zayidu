@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100% CSS: Fetch and Exfiltrate 512 bits of Server-Generated Data Embedded in an Animated SVG](https://dev.to/janeori/100-css-fetch-and-exfiltrate-512-bits-of-server-generated-data-embedded-in-an-animated-svg-5aad)
-- [Top AI Instruments for .NET Developers in 2025](https://dev.to/antonmartyniuk/top-ai-instruments-for-net-developers-in-2025-5fb5)
-- [Security news weekly round-up - 17th January 2025](https://dev.to/ziizium/security-news-weekly-round-up-17th-january-2025-30lc)
-- [PHP Closures and Generators can hold circular references](https://dev.to/gromnan/php-closures-and-generators-can-hold-circular-references-45ge)
-- [Top 10 GitHub Repositories every Web Developer should know in 2025](https://dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm)
+- [AWS CAF Explained: The Framework Behind Successful Cloud Adoptions](https://dev.to/franciscojeg78/have-you-ever-heard-of-the-aws-cloud-adoption-framework-caf-1d9n)
+- [SLIDESHOW Auto Slider](https://dev.to/fscss-ttr/slideshow-auto-slider-4lgd)
+- [UX Writing Challenge: Day 12](https://dev.to/jds64/ux-writing-challenge-day-12-2ab)
+- [Begin with What&#39;s Within Reach: The First Step to Boost Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/begin-with-whats-within-reach-the-first-step-to-boost-productivity-bite-size-article-3lak)
+- [C++ 5th code &lpar;Max of 2 Numbers&rpar;](https://dev.to/md-salah/c-5th-code-max-of-2-numbers-1k9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
