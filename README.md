@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS3 Animations: The Complete Guide with Examples](https://dev.to/chardnoise3/css3-animations-the-complete-guide-with-examples-587f)
-- [The Rise of AI Sales Agents: Revolutionizing the Sales Landscape](https://dev.to/blogsx/the-rise-of-ai-sales-agents-revolutionizing-the-sales-landscape-i3m)
-- [Data Visualization Best Practices for Non-Technical Users](https://dev.to/raquelmathew/data-visualization-best-practices-for-non-technical-users-1dh1)
-- [👩‍💻 When VS Code Becomes Your Side Chick: Shortcuts You’ll Actually Use! 🔥](https://dev.to/sudo_091/when-vs-code-becomes-your-side-chick-shortcuts-youll-actually-use-4m4d)
-- [The Universal Developer: Exploring What It Means to Be a Multi-Faceted Programmer](https://dev.to/mrsupercraft/the-universal-developer-exploring-what-it-means-to-be-a-multi-faceted-programmer-3i4f)
+- [Generating Random User Agents in Rust: Introducing `rand_agents` Library](https://dev.to/trixsec/generating-random-user-agents-in-rust-introducing-randagents-library-4c82)
+- [Getting Started With Kubernetes: A beginner&#39;s guide](https://dev.to/onlyfave/getting-started-with-kubernetes-a-beginners-guide-jhc)
+- [Interface in Vanilla JavaScript](https://dev.to/user_r100/interface-in-vanilla-javascript-30o9)
+- [CSS3 Animations: The Total Guide with Examples](https://dev.to/paintrain6/css3-animations-the-total-guide-with-examples-54np)
+- [Citty, an elegant CLI builder by Unjs](https://dev.to/ramunarasinga-11/citty-an-elegant-cli-builder-by-unjs-h61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
