@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with AddrPort in net/netip: Complete Guide 2/7](https://dev.to/rezmoss/working-with-addrport-in-netnetip-complete-guide-1dah)
-- [Async Tasks in Cloudflare Workers – Part 2: Decomposing tasks into multiple Workers](https://dev.to/fiberplane/async-tasks-in-cloudflare-workers-part-2-decomposing-tasks-into-multiple-workers-1cpi)
-- [Creating My 2025 Roadmap: A Year of Development, Obstacles, and Aspirations](https://dev.to/marie_berezhna/creating-my-2025-roadmap-a-year-of-development-obstacles-and-aspirations-bf)
-- [Network Security Groups &lpar;NSGs&rpar; and Firewalls](https://dev.to/574n13y/network-security-groups-nsgs-and-firewalls-g3k)
-- [Tauri（5）—— Tray Icon Implementation and Event Handling](https://dev.to/rain9/tauri5-tray-icon-implementation-and-event-handling-5d1e)
+- [Our Amazing APP for most Powerful Vision Model CogVLM 2 now works amazing on Windows](https://dev.to/furkangozukara/our-amazing-app-for-most-powerful-vision-model-cogvlm-2-now-works-amazing-on-windows-3bn2)
+- [I want to share and gain knowledge in the IT field, where? Comparison of the main places for blogs, articles, videos about IT](https://dev.to/__1cffd5aa1a/i-want-to-share-and-gain-knowledge-in-the-it-field-where-comparison-of-the-main-places-for-blogs-6bj)
+- [How Cerbos minimizes latency in Authorization workflows](https://dev.to/agusioma/how-cerbos-minimizes-latency-in-authorization-workflows-pfl)
+- [Habit tracker app in a day](https://dev.to/maria_a34cb82ff663dc352d9/habit-tracker-app-in-a-day-208i)
+- [Recognizing Design Patterns in System Design - Facade pattern and AWS API Gateway](https://dev.to/deniseignatova/recognizing-design-patterns-in-system-design-facade-pattern-and-aws-api-gateway-516d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
