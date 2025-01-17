@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Bedrock Intelligent Prompt Routing: Optimización de Costos y Rendimiento en la Práctica](https://dev.to/codecr/amazon-bedrock-intelligent-prompt-routing-optimizacion-de-costos-y-rendimiento-en-la-practica-5ggp)
+- [Understanding Machine Learning Basics for Newcomers](https://dev.to/fielddecade54/understanding-machine-learning-basics-for-newcomers-2oka)
+- [Unleashing AI Agent Potential with Tavily Search in KaibanJS](https://dev.to/kaibanjs/unleashing-ai-agent-potential-with-tavily-search-in-kaibanjs-2j41)
+- [Umbraco: Adding custom query strings for GetCropUrl&lpar;&rpar;](https://dev.to/richard_ockerby_62d513a3f/umbraco-adding-custom-query-strings-for-getcropurl-459f)
 - [Building an AWS Gamified Learning Platform with Amazon Q and Gemini: An AI-Powered Journey &lpar;Public Repo&rpar;](https://dev.to/sam_ben_786ddbe69e5992835/building-an-aws-gamified-learning-platform-with-amazon-q-and-gemini-an-ai-powered-journey-public-379h)
-- [The Impact of AI on Software Testing: Revolutionizing Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/the-impact-of-ai-on-software-testing-revolutionizing-quality-assurance-34lo)
-- [&quot;Unlocking EHR Efficiency: The Power of PDSQI-9 in Healthcare Workflows&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ehr-efficiency-the-power-of-pdsqi-9-in-healthcare-workflows-5dch)
-- [Kubernetes 103: Objects](https://dev.to/danielcristho/kubernetes-103-objects-19d4)
-- [CSS3 Animations: The Complete Guide](https://dev.to/bkthemes/css3-animations-the-complete-guide-660)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
