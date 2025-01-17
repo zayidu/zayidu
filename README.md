@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays In Java](https://dev.to/devmercy/arrays-in-java-3f3l)
-- [Implementing blue-green deployment with Azure App Service deployment slots](https://dev.to/devsonclouds/implementing-blue-green-deployment-with-azure-app-service-deployment-slots-2658)
-- [Locking Mechanisms in Relational Database Management Systems &lpar;RDBMS&rpar;](https://dev.to/erjun_chen_9674afdc95380d/locking-mechanisms-in-relational-database-management-systems-rdbms-2i7b)
-- [The Four Layers of Internet Computer Protocol](https://dev.to/therustfanatic/the-four-layers-of-internet-computer-protocol-5dp)
-- [Integrating GitLab with Slack for Better Collaboration](https://dev.to/mohsen_leveling/integrating-gitlab-with-slack-for-better-collaboration-35f4)
+- [100% CSS: Fetch and Exfiltrate 512 bits of Server-Generated Data Embedded in an Animated SVG](https://dev.to/janeori/100-css-fetch-and-exfiltrate-512-bits-of-server-generated-data-embedded-in-an-animated-svg-5aad)
+- [Top AI Instruments for .NET Developers in 2025](https://dev.to/antonmartyniuk/top-ai-instruments-for-net-developers-in-2025-5fb5)
+- [Security news weekly round-up - 17th January 2025](https://dev.to/ziizium/security-news-weekly-round-up-17th-january-2025-30lc)
+- [PHP Closures and Generators can hold circular references](https://dev.to/gromnan/php-closures-and-generators-can-hold-circular-references-45ge)
+- [Top 10 GitHub Repositories every Web Developer should know in 2025](https://dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
