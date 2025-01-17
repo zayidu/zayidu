@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ElastiCache Serverless: L2 CDK Construct Released in open-constructs](https://dev.to/aws-builders/elasticache-serverless-l2-cdk-construct-released-in-open-constructs-fpe)
-- [Special Edition - This Month in Azure Static Web Apps | November and December 2024](https://dev.to/azure/special-edition-this-month-in-azure-static-web-apps-november-and-december-2024-2h41)
-- [The Allure of the Internet Computer Protocol &lpar;ICP&rpar;: A Deep Dive](https://dev.to/uratmangun/1st-wave-icp-the-allure-of-the-internet-computer-protocol-icp-a-deep-dive-5bjm)
-- [Proxy IP efficiently helps crawl millions of data](https://dev.to/98ip/proxy-ip-efficiently-helps-crawl-millions-of-data-5ea4)
-- [Prompt Engineering Techniques to Improve LLMs Performance](https://dev.to/adipamartulandi/prompt-engineering-techniques-to-improve-llms-performance-3d4f)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2eei)
+- [NVIDIA Introduces NIM Microservices to Enhance AI Application Safety and Accuracy](https://dev.to/aihrudu/nvidia-introduces-nim-microservices-to-enhance-ai-application-safety-and-accuracy-591a)
+- [Helyi felhatalmazás: Hogyan energizálja a tokenizált napenergia a közösségeket a SunMoney Solar iparági vezetői által](https://dev.to/sunmoney_solar_e3196a3bdd/helyi-felhatalmazas-hogyan-energizalja-a-tokenizalt-napenergia-a-kozossegeket-a-sunmoney-solar-2333)
+- [dedicatoria.html](https://dev.to/alberto_bernal_d993e39226/dedicatoriahtml-g8e)
+- [Animation with New Logo Unlocked!!!!](https://dev.to/prince_beec5ccde00b7c6c73/animation-with-new-logo-unlocked-23l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
