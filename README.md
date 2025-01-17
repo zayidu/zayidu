@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2eei)
-- [NVIDIA Introduces NIM Microservices to Enhance AI Application Safety and Accuracy](https://dev.to/aihrudu/nvidia-introduces-nim-microservices-to-enhance-ai-application-safety-and-accuracy-591a)
-- [Helyi felhatalmazás: Hogyan energizálja a tokenizált napenergia a közösségeket a SunMoney Solar iparági vezetői által](https://dev.to/sunmoney_solar_e3196a3bdd/helyi-felhatalmazas-hogyan-energizalja-a-tokenizalt-napenergia-a-kozossegeket-a-sunmoney-solar-2333)
-- [dedicatoria.html](https://dev.to/alberto_bernal_d993e39226/dedicatoriahtml-g8e)
-- [Animation with New Logo Unlocked!!!!](https://dev.to/prince_beec5ccde00b7c6c73/animation-with-new-logo-unlocked-23l9)
+- [CSS3 Animations: The Complete Guide with Examples](https://dev.to/chardnoise3/css3-animations-the-complete-guide-with-examples-587f)
+- [The Rise of AI Sales Agents: Revolutionizing the Sales Landscape](https://dev.to/blogsx/the-rise-of-ai-sales-agents-revolutionizing-the-sales-landscape-i3m)
+- [Data Visualization Best Practices for Non-Technical Users](https://dev.to/raquelmathew/data-visualization-best-practices-for-non-technical-users-1dh1)
+- [👩‍💻 When VS Code Becomes Your Side Chick: Shortcuts You’ll Actually Use! 🔥](https://dev.to/sudo_091/when-vs-code-becomes-your-side-chick-shortcuts-youll-actually-use-4m4d)
+- [The Universal Developer: Exploring What It Means to Be a Multi-Faceted Programmer](https://dev.to/mrsupercraft/the-universal-developer-exploring-what-it-means-to-be-a-multi-faceted-programmer-3i4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
