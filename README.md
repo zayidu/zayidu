@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DJANGO MODEL](https://dev.to/george_ngiye_b8648fa370bb/django-model-2kki)
-- [Streamline Your Background Tasks with the Task Repetitor Library](https://dev.to/fermantttnnn/streamline-your-background-tasks-with-the-task-repetitor-library-2fie)
-- [Do you want to change Storageclass to your PVs?](https://dev.to/tvelmachos/do-you-want-to-change-storageclass-to-your-pvs-5hb2)
-- [10 Must-Know Tailwind CSS Classes for Effortless Web Design](https://dev.to/rijultp/10-must-know-tailwind-css-classes-for-effortless-web-design-4cbg)
-- [Explained: Generative AI’s environmental impact](https://dev.to/future_ai/explained-generative-ais-environmental-impact-16)
+- [Introducing an Open-Source MySQL Memory Calculator](https://dev.to/drupaladmin/introducing-an-open-source-mysql-memory-calculator-1ca5)
+- [My Code Chronicles #1: Optimizing Images in Next.js with a Custom Component](https://dev.to/nathlowe/my-code-chronicles-1-optimizing-images-in-nextjs-with-a-custom-component-3973)
+- [Splitting Wasp TS Config?](https://dev.to/medardm/splitting-wasp-ts-config-2iei)
+- [SETTING UP REACT ON YOUR LOCAL MACHINE](https://dev.to/phanhie/setting-up-react-on-your-local-machine-8o5)
+- [[open source] A smart text editor running local models completely in browser](https://dev.to/yyjhao/open-source-a-smart-text-editor-running-local-models-completely-in-browser-210e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
