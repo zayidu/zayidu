@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Validation style final tweaks](https://dev.to/ayyash/validation-style-final-tweaks-2243)
-- [🎾 Say NO to GPTennis in Academia! 🎓](https://dev.to/dms/say-no-to-gptennis-in-academia-4dn8)
-- [Exploring the Chunk Free List Mechanism in GBase 8s Database](https://dev.to/congcong/exploring-the-chunk-free-list-mechanism-in-gbase-8s-database-2f5g)
-- [Scalable and Responsive EC2 Management Application](https://dev.to/yusufgbagci/scalable-and-responsive-ec2-management-application-2obf)
-- [GDPR Compliance: A Must-Have for Every Business in the Digital Age](https://dev.to/anupriya/gdpr-compliance-a-must-have-for-every-business-in-the-digital-age-eo4)
+- [Most Hilarious Coach](https://dev.to/auramuch/most-hilarious-coach-2b7l)
+- [Sql basic command](https://dev.to/sachin841/sql-basic-command-42jj)
+- [Top 10 Free Proxies for Web Scraping: 2025](https://dev.to/datacollectionscraper/top-10-free-proxies-for-web-scraping-2025-7og)
+- [The Role of Augmented Reality in Manufacturing: Applications and Advantages](https://dev.to/ram_fb361bc2f8f94e06772e2/the-role-of-augmented-reality-in-manufacturing-applications-and-advantages-3m5e)
+- [CSS3 Animations: The Total Guide with Examples](https://dev.to/dohncastillo48/css3-animations-the-total-guide-with-examples-2ji2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
