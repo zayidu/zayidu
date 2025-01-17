@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Multi-Account Management: Step-by-Step Guide to Setting Up AWS Organizations with SSO](https://dev.to/aws-builders/mastering-multi-account-management-step-by-step-guide-to-setting-up-aws-organizations-with-sso-4690)
-- [Python](https://dev.to/julienpalleau/python-1bpi)
-- [Leetcode — 3146. Permutation Difference between Two Strings](https://dev.to/bendlmp/leetcode-3146-permutation-difference-between-two-strings-3b28)
-- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
-- [Introducing Kafbat UI: Simplify Kafka Management with a Modern UI](https://dev.to/germanosin/introducing-kafbat-ui-simplify-kafka-management-with-a-modern-ui-2840)
+- [Working with AddrPort in net/netip: Complete Guide 2/7](https://dev.to/rezmoss/working-with-addrport-in-netnetip-complete-guide-1dah)
+- [Async Tasks in Cloudflare Workers – Part 2: Decomposing tasks into multiple Workers](https://dev.to/fiberplane/async-tasks-in-cloudflare-workers-part-2-decomposing-tasks-into-multiple-workers-1cpi)
+- [Creating My 2025 Roadmap: A Year of Development, Obstacles, and Aspirations](https://dev.to/marie_berezhna/creating-my-2025-roadmap-a-year-of-development-obstacles-and-aspirations-bf)
+- [Network Security Groups &lpar;NSGs&rpar; and Firewalls](https://dev.to/574n13y/network-security-groups-nsgs-and-firewalls-g3k)
+- [Tauri（5）—— Tray Icon Implementation and Event Handling](https://dev.to/rain9/tauri5-tray-icon-implementation-and-event-handling-5d1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
