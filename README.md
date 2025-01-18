@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in Tech: My Newsletter for Developers Who Want to Stay in the Loop Without the Overwhelm](https://dev.to/digitalminds/this-week-in-tech-my-newsletter-for-developers-who-want-to-stay-in-the-loop-without-the-overwhelm-11km)
-- [Tutorial: Use OSS Bucket SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/tutorial-use-oss-bucket-api-with-net-autodesk-platform-services-aps-3kjb)
-- [Single Page Multi-difficulty Quiz application](https://dev.to/atombrown/single-page-multi-difficulty-quiz-application-4c5k)
-- [Open Source Projects into Money-Making Business: A Simple Guide](https://dev.to/abubakersiddique761/open-source-projects-into-money-making-business-a-simple-guide-m53)
-- [First post](https://dev.to/tridev/first-post-3jn)
+- [SFTP Client using .NET](https://dev.to/amjadmh73/sftp-client-using-net-3an2)
+- [Buddy](https://dev.to/hritikraj8804/buddy-2n12)
+- [Buddy](https://dev.to/hritikraj8804/buddy-3ab6)
+- [Node.js Backend Engineer Roadmap in 2025!](https://dev.to/alirezanqp/nodejs-backend-engineer-roadmap-in-2025-15n4)
+- [Comente o porquê, não o quê](https://dev.to/agstrc/comente-o-porque-nao-o-que-51j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
