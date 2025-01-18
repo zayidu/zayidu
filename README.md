@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CAF Explained: The Framework Behind Successful Cloud Adoptions](https://dev.to/franciscojeg78/have-you-ever-heard-of-the-aws-cloud-adoption-framework-caf-1d9n)
-- [SLIDESHOW Auto Slider](https://dev.to/fscss-ttr/slideshow-auto-slider-4lgd)
-- [UX Writing Challenge: Day 12](https://dev.to/jds64/ux-writing-challenge-day-12-2ab)
-- [Begin with What&#39;s Within Reach: The First Step to Boost Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/begin-with-whats-within-reach-the-first-step-to-boost-productivity-bite-size-article-3lak)
-- [C++ 5th code &lpar;Max of 2 Numbers&rpar;](https://dev.to/md-salah/c-5th-code-max-of-2-numbers-1k9m)
+- [Python for Data Science: A Beginner&#39;s Introduction](https://dev.to/mei_zhu/python-for-data-science-a-beginners-introduction-39hg)
+- [How to Assign and Manage Resource Monitors in Snowflake](https://dev.to/rodolfom-data/how-to-assign-and-manage-resource-monitors-in-snowflake-58io)
+- [Exploring Python After Learning JavaScript](https://dev.to/mei_zhu/exploring-python-after-learning-javascript-48i5)
+- [Daily Quantum Learning #1 - What&#39;s a Qubit?](https://dev.to/quantumashx/daily-quantum-learning-1-whats-a-qubit-2eg6)
+- [Sending Tweets with Images Using iOS Shortcuts and OAuth 1.0a Authentication](https://dev.to/chatgptnexus/2025011809-11-15-article-ph0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
