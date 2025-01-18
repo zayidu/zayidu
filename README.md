@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting update in Angular Material 19.1](https://dev.to/ngmaterialdev/interesting-update-in-angular-material-191-2ag3)
-- [How to Build a Social Network in 1 Day: Part 3 — Authentication](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-3-authentication-514b)
-- [Top Use Cases for Free Exchange APIs in 2025](https://dev.to/bradi/top-use-cases-for-free-exchange-apis-in-2025-3hk8)
-- [Rust](https://dev.to/mynameisbond/rust-236i)
-- [How to push your code into github.](https://dev.to/arunkrish11/how-to-push-your-code-into-github-552m)
+- [Revolutionary Remote DevOps: A C-Level Blueprint for Digital Transformation Excellence](https://dev.to/aws-builders/revolutionary-remote-devops-a-c-level-blueprint-for-digital-transformation-excellence-59n1)
+- [2 Gits, 1 User: Navigating the World of Multiple Git Accounts](https://dev.to/alxizr/2-gits-1-user-navigating-the-world-of-multiple-git-accounts-23f1)
+- [🌐 Golang RESTful API with Gin, Gorm, PostgreSQL 🐘](https://dev.to/truongpx396/golang-restful-api-with-gin-gorm-postgresql-3bi)
+- [this is what I built for GitHub Copilot 1-Day Build Challenge](https://dev.to/bupalchow/this-is-what-i-built-for-github-copilot-1-day-build-challenge-2l8g)
+- [🚀 Transform Journey: 90% AI-Generated Code 🤖 | Built in Just 4 Hours with Codespaces + Copilot! 🎉](https://dev.to/bupalchow/transform-journey-90-ai-generated-code-built-in-just-4-hours-with-codespaces-copilot-2i85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
