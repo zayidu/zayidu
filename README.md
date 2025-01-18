@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Assertions in Selenium Python: A Complete Guide](https://dev.to/keploy/assertions-in-selenium-python-a-complete-guide-5fbp)
-- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-39p0)
-- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates In the ever-evolving digital landscape, having an appealing and functional website is paramount for businesses, bloggers, and developers. ThemeForest, a marketplace under the Envato](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-in-the-ever-evolving-57df)
-- [test](https://dev.to/sardorml/test-59pe)
-- [Maximizing Query Performance in Snowflake: Tips and Tricks](https://dev.to/rodolfom-data/maximizing-query-performance-in-snowflake-tips-and-tricks-mh)
+- [Interesting update in Angular Material 19.1](https://dev.to/ngmaterialdev/interesting-update-in-angular-material-191-2ag3)
+- [How to Build a Social Network in 1 Day: Part 3 — Authentication](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-3-authentication-514b)
+- [Top Use Cases for Free Exchange APIs in 2025](https://dev.to/bradi/top-use-cases-for-free-exchange-apis-in-2025-3hk8)
+- [Rust](https://dev.to/mynameisbond/rust-236i)
+- [How to push your code into github.](https://dev.to/arunkrish11/how-to-push-your-code-into-github-552m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
