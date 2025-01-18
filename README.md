@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Everyone Needs to Learn About Effective Artistic Approaches](https://dev.to/beautyegg98/what-everyone-needs-to-learn-about-effective-artistic-approaches-145a)
-- [System Design: encurtador de URL parte 1](https://dev.to/jessilyneh/system-design-encurtador-de-url-parte-1-2p29)
-- [Setting Up PostgreSQL in Docker: A Step-by-Step Guide](https://dev.to/nhannguyendevjs/setting-up-postgresql-in-docker-a-step-by-step-guide-3gc4)
-- [Professional Smooth Scroll with Locomotive-Scroll, Astro, and React](https://dev.to/slydragonn/professional-smooth-scroll-with-locomotive-scroll-astro-and-react-4h5h)
-- [GPU-Accelerated Indexed DB Replacement Using WebGPU in JavaScript](https://dev.to/dgriebel2014/gpu-accelerated-indexed-db-replacement-using-webgpu-in-javascript-3kla)
+- [Deep Learning &lpar;1737176160&rpar;](https://dev.to/sakhiknowledge/deep-learning-1737176160-5bl9)
+- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-52a5)
+- [Your Random is Static 🎲: Random Numbers in Go](https://dev.to/leapcell/your-random-is-static-random-numbers-in-go-124l)
+- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-13nm)
+- [Learning in public &lpar;for the first time&rpar;](https://dev.to/yaizacanopoli/learning-in-public-for-the-first-time-1lcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
