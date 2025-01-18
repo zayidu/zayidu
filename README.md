@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SST - a parte da infra que pode ser legal](https://dev.to/playma256/sst-a-parte-da-infra-que-pode-ser-legal-1i6a)
-- [Javascript great again! - The Voice of Void](https://dev.to/pengeszikra/javascript-great-again-the-voice-of-void-5fp6)
-- [Learn Golang in 2025: The Complete Beginner&#39;s Guide to Go Programming &lpar;With Roadmap&rpar;](https://dev.to/amandev1504/zero-to-go-pro-the-ultimate-beginners-guide-to-mastering-golang-in-2025-6jm)
-- [Vacancy page](https://dev.to/thomas_costigan_001/vacancy-page-296l)
-- [Generative AI](https://dev.to/sakhiknowledge/generative-ai-52cn)
+- [FG.CsvParser: A Powerful .NET Library for Working with CSV Files](https://dev.to/fermantttnnn/fgcsvparser-a-powerful-net-library-for-working-with-csv-files-15n7)
+- [Making binary search slower](https://dev.to/acoh3n/making-binary-search-slower-5h97)
+- [The start of DevOps field](https://dev.to/williambarroscosta/the-start-of-devops-field-3p4p)
+- [Leading Docker Adoption: A Senior Manager’s Perspective](https://dev.to/swap11/leading-docker-adoption-a-senior-managers-perspective-48hm)
+- [My First Encounter With ESLint](https://dev.to/georgimy/my-first-encounter-with-eslint-5g97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
