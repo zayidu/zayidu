@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FG.CsvParser: A Powerful .NET Library for Working with CSV Files](https://dev.to/fermantttnnn/fgcsvparser-a-powerful-net-library-for-working-with-csv-files-15n7)
-- [Making binary search slower](https://dev.to/acoh3n/making-binary-search-slower-5h97)
-- [The start of DevOps field](https://dev.to/williambarroscosta/the-start-of-devops-field-3p4p)
-- [Leading Docker Adoption: A Senior Manager’s Perspective](https://dev.to/swap11/leading-docker-adoption-a-senior-managers-perspective-48hm)
-- [My First Encounter With ESLint](https://dev.to/georgimy/my-first-encounter-with-eslint-5g97)
+- [The Evolution from Microservice to Multi-Agent AI Systems](https://dev.to/sreeni5018/the-evolution-from-microservice-to-multi-agent-ai-systems-76o)
+- [Six News Aggregators for Tech Enthusiasts](https://dev.to/gokayburuc/six-news-aggregators-for-tech-enthusiasts-55ip)
+- [Sensitive Data Checker using agent.ai](https://dev.to/abdullah-k18/sensitive-data-checker-using-agentai-4ng0)
+- [Top 7 UI Component Libraries for 2025 — Copy, Paste, and Create!](https://dev.to/joodi/top-7-ui-component-libraries-for-2025-copy-paste-and-create-1i84)
+- [Create an AI Agent with PydanticAI in Minutes](https://dev.to/business24ai/create-an-ai-agent-with-pydanticai-in-minutes-3k07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
