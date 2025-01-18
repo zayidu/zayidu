@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What make Rust blazing fast?](https://dev.to/sadanand_dodawadakar_10b2/what-make-rust-blazing-fast-5anj)
-- [Trampolim para funções além do primitivo recursivo? Implementação para a função de Ackermann Peter](https://dev.to/jeffque/trampolim-para-funcoes-alem-do-primitivo-recursivo-implementacao-para-a-funcao-de-ackermann-peter-3c8n)
-- [Guard expressions in JavaScript](https://dev.to/anreutt/guard-expressions-in-javascript-161e)
-- [The Differences in Truthiness and Falsiness in JavaScript vs PHP](https://dev.to/kengitahi/the-differences-in-truthiness-and-falsiness-in-javascript-vs-php-4fdb)
-- [Diagramming React code](https://dev.to/conw_y/diagramming-react-code-48m7)
+- [#100DAYSOFCODE: Day 16](https://dev.to/isaiahhtml/100daysofcode-day-16-21jc)
+- [A Complete Roadmap for Software Engineers to Learn AI/ML in 2025](https://dev.to/abdullahyasir/a-complete-roadmap-for-software-engineers-to-learn-aiml-in-2025-536c)
+- [গোরুটিন &lpar;Goroutine&rpar; কী?](https://dev.to/nozibul_islam_113b1d5334f/goruttin-goroutine-kii-4mp5)
+- [Go Programming Language-এর ২৫টি কিওয়ার্ডের সহজ বাংলা ব্যাখ্যা](https://dev.to/nozibul_islam_113b1d5334f/go-programming-language-er-25tti-kioyaardder-shj-baanlaa-byaakhyaa-5cbp)
+- [Forge Viewer Python Library Notebook](https://dev.to/chuongmep/forge-viewer-python-library-notebook-g7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
