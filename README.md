@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Sales Agent: From Voice to Pitch.](https://dev.to/devesh0099/building-an-ai-sales-agent-from-voice-to-pitch-3p6c)
-- [5 Essential AI Tools Every Developer Should Know](https://dev.to/neurolov_ai_/5-essential-ai-tools-every-developer-should-know-42e7)
-- [Ditch the &#39;if else&#39;: Mastering Design Patterns for Cleaner, Scalable Code](https://dev.to/ahmedmohamedhussein/ditch-the-if-else-mastering-design-patterns-for-cleaner-scalable-code-1ihg)
-- [How Codevo Academy Helps Working Professionals Upskill for a Brighter Future](https://dev.to/sailesh_sahu_7d7151b6d251/how-codevo-academy-helps-working-professionals-upskill-for-a-brighter-future-b2h)
-- [Odoo User Permission and Groups](https://dev.to/maisie_brooke_73b14a05485/odoo-user-permission-and-groups-3ghi)
+- [PASSWORD GENERATOR SCRIPT WITH PYTHON](https://dev.to/seyilufadejucyberservices/password-generator-script-in-python-22fg)
+- [Understanding Angular Signals: A Comprehensive Guide](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-angular-signals-a-comprehensive-guide-4omo)
+- [Understanding Worker Threads in Node.js: A Deep Dive](https://dev.to/abdullahyasir/understanding-worker-threads-in-nodejs-a-deep-dive-236n)
+- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-1l49)
+- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-1c92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
