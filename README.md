@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SFTP Client using .NET](https://dev.to/amjadmh73/sftp-client-using-net-3an2)
-- [Buddy](https://dev.to/hritikraj8804/buddy-2n12)
-- [Buddy](https://dev.to/hritikraj8804/buddy-3ab6)
-- [Node.js Backend Engineer Roadmap in 2025!](https://dev.to/alirezanqp/nodejs-backend-engineer-roadmap-in-2025-15n4)
-- [Comente o porquê, não o quê](https://dev.to/agstrc/comente-o-porque-nao-o-que-51j)
+- [Master Network Security: Protect Your Digital World from Hidden Threats! 👾](https://dev.to/tavernetech/master-network-security-protect-your-digital-world-from-hidden-threats-2dfd)
+- [Mistral Codestral v25.01, NEW AI Model better than OpenAI o3, Adobe&#39;s latest AI Tool, and more](https://dev.to/thisweekinaiengineering/mistral-codestral-v2501-new-ai-model-better-than-openai-o3-adobes-latest-ai-tool-and-more-1fb3)
+- [5 AI-Powered Developer Tools Changing the Way We Work in 2025](https://dev.to/burcs/5-ai-powered-developer-tools-changing-the-way-we-work-in-2025-17ff)
+- [It&#39;s not a copilot it&#39;s a genie I never dreamt of!](https://dev.to/priyanka_shah/its-not-a-copilot-its-a-genie-i-never-dreamt-of-bjk)
+- [Understanding the Influence of Machine Learning in Modern Society](https://dev.to/courtspoon07/understanding-the-influence-of-machine-learning-in-modern-society-1cjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
