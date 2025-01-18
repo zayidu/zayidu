@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is an MVP?](https://dev.to/sinaptia_dev/what-is-an-mvp-2d2n)
-- [Fixing the &quot;vueDemi2.effectScope is not a function&quot; Error in Nuxt 3 + Pinia &lpar;SSR, Vercel Deploy&rpar;](https://dev.to/jeanjavi/fixing-the-vuedemi2effectscope-is-not-a-function-error-in-nuxt-3-pinia-ssr-vercel-deploy-2jih)
-- [Python for Data Science: A Beginner&#39;s Introduction](https://dev.to/mei_zhu/python-for-data-science-a-beginners-introduction-39hg)
-- [How to Assign and Manage Resource Monitors in Snowflake](https://dev.to/rodolfom-data/how-to-assign-and-manage-resource-monitors-in-snowflake-58io)
-- [Exploring Python After Learning JavaScript](https://dev.to/mei_zhu/exploring-python-after-learning-javascript-48i5)
+- [What Everyone Needs to Learn About Effective Artistic Approaches](https://dev.to/beautyegg98/what-everyone-needs-to-learn-about-effective-artistic-approaches-145a)
+- [System Design: encurtador de URL parte 1](https://dev.to/jessilyneh/system-design-encurtador-de-url-parte-1-2p29)
+- [Setting Up PostgreSQL in Docker: A Step-by-Step Guide](https://dev.to/nhannguyendevjs/setting-up-postgresql-in-docker-a-step-by-step-guide-3gc4)
+- [Professional Smooth Scroll with Locomotive-Scroll, Astro, and React](https://dev.to/slydragonn/professional-smooth-scroll-with-locomotive-scroll-astro-and-react-4h5h)
+- [GPU-Accelerated Indexed DB Replacement Using WebGPU in JavaScript](https://dev.to/dgriebel2014/gpu-accelerated-indexed-db-replacement-using-webgpu-in-javascript-3kla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
