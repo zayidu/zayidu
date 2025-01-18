@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning &lpar;1737176160&rpar;](https://dev.to/sakhiknowledge/deep-learning-1737176160-5bl9)
-- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-52a5)
-- [Your Random is Static 🎲: Random Numbers in Go](https://dev.to/leapcell/your-random-is-static-random-numbers-in-go-124l)
-- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-13nm)
-- [Learning in public &lpar;for the first time&rpar;](https://dev.to/yaizacanopoli/learning-in-public-for-the-first-time-1lcc)
+- [Assertions in Selenium Python: A Complete Guide](https://dev.to/keploy/assertions-in-selenium-python-a-complete-guide-5fbp)
+- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-39p0)
+- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates In the ever-evolving digital landscape, having an appealing and functional website is paramount for businesses, bloggers, and developers. ThemeForest, a marketplace under the Envato](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-in-the-ever-evolving-57df)
+- [test](https://dev.to/sardorml/test-59pe)
+- [Maximizing Query Performance in Snowflake: Tips and Tricks](https://dev.to/rodolfom-data/maximizing-query-performance-in-snowflake-tips-and-tricks-mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
