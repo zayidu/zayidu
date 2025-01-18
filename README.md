@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grow-BitByBit](https://dev.to/humera/grow-bitbybit-524i)
-- [Dynamic Job Portal with PDF Export Functionality for Seamless Recruitment](https://dev.to/bhupeshchandrajoshi/dynamic-job-portal-with-pdf-export-functionality-for-seamless-recruitment-3661)
-- [Data Structures in Python - Trees](https://dev.to/letsupdateskills/data-structures-in-python-trees-2amh)
-- [Future.js from Anti-chaos](https://dev.to/ourai/futurejs-from-anti-chaos-47c3)
-- [Miyari’s Stealth Launch on Solana: The Smartest Play in DeFi AI](https://dev.to/miyariframework/miyaris-stealth-launch-on-solana-the-smartest-play-in-defi-x-ai-2nib)
+- [Crafting Efficient JavaScript: A Guide for Advanced Engineers](https://dev.to/ojosolomon/crafting-efficient-javascript-a-guide-for-advanced-engineers-5bjn)
+- [🧪 GOLANG INTEGRATION TEST WITH GIN, GORM, TESTIFY, MYSQL](https://dev.to/truongpx396/golang-integration-test-with-gin-gorm-testify-mysql-37h5)
+- [Artificial Intelligence](https://dev.to/sakhiknowledge/artificial-intelligence-3gn)
+- [A fresh start after a heartbreak](https://dev.to/sagi0312/a-fresh-start-after-a-heartbreak-b0n)
+- [Mastering FluentValidation in .NET Core](https://dev.to/hamza_zeryouh/mastering-fluentvalidation-in-net-core-4lpn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
