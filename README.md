@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover `react-fox-toast`: A Powerful Yet Lightweight React/Next.js Toast Library with Interactive Features](https://dev.to/dhaneesh/discover-react-fox-toast-a-powerful-yet-lightweight-reactnextjs-toast-library-with-interactive-1b56)
-- [CRA AND Vite Tool In React](https://dev.to/zahakhussain/cra-and-vite-tool-7p7)
-- [Google Cloud Run with CI/CD via Terraform Cloud and GitHub Actions](https://dev.to/mkdev/google-cloud-run-with-cicd-via-terraform-cloud-and-github-actions-27fg)
-- [C#](https://dev.to/muhammad_qadafi_06978842b/c-3g3g)
-- [Project - Supervised Learning with Python - Lets use Logistic Regression for Predicting the chances of having a Heart Attack](https://dev.to/vishnu_ajit/project-supervised-learning-with-python-lets-use-logistic-regression-for-predicting-the-chances-4gf)
+- [A Practical Introduction to the Event Driven Architecture](https://dev.to/jimjunior/a-practical-introduction-to-the-event-driven-architecture-dol)
+- [Vision2Reality](https://dev.to/abdullah-k18/vision2reality-5ag8)
+- [Breaking scary features down into tiny models and simple logic](https://dev.to/mickeythebrave/breaking-scary-features-down-into-tiny-models-and-simple-logic-23m7)
+- [97/365 | ¥10M Job Challenge - Software Engineers in the AI Era](https://dev.to/kameken100/96365-y10m-job-challenge-software-engineers-in-the-ai-era-3nda)
+- [AI-Powered DNS for TXT Queries!](https://dev.to/auenkr/ai-powered-dns-for-txt-queries-1236)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
