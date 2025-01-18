@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Introduction to the Event Driven Architecture](https://dev.to/jimjunior/a-practical-introduction-to-the-event-driven-architecture-dol)
-- [Vision2Reality](https://dev.to/abdullah-k18/vision2reality-5ag8)
-- [Breaking scary features down into tiny models and simple logic](https://dev.to/mickeythebrave/breaking-scary-features-down-into-tiny-models-and-simple-logic-23m7)
-- [97/365 | ¥10M Job Challenge - Software Engineers in the AI Era](https://dev.to/kameken100/96365-y10m-job-challenge-software-engineers-in-the-ai-era-3nda)
-- [AI-Powered DNS for TXT Queries!](https://dev.to/auenkr/ai-powered-dns-for-txt-queries-1236)
+- [This Week in Tech: My Newsletter for Developers Who Want to Stay in the Loop Without the Overwhelm](https://dev.to/digitalminds/this-week-in-tech-my-newsletter-for-developers-who-want-to-stay-in-the-loop-without-the-overwhelm-11km)
+- [Tutorial: Use OSS Bucket SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/tutorial-use-oss-bucket-api-with-net-autodesk-platform-services-aps-3kjb)
+- [Single Page Multi-difficulty Quiz application](https://dev.to/atombrown/single-page-multi-difficulty-quiz-application-4c5k)
+- [Open Source Projects into Money-Making Business: A Simple Guide](https://dev.to/abubakersiddique761/open-source-projects-into-money-making-business-a-simple-guide-m53)
+- [First post](https://dev.to/tridev/first-post-3jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
