@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution from Microservice to Multi-Agent AI Systems](https://dev.to/sreeni5018/the-evolution-from-microservice-to-multi-agent-ai-systems-76o)
-- [Six News Aggregators for Tech Enthusiasts](https://dev.to/gokayburuc/six-news-aggregators-for-tech-enthusiasts-55ip)
-- [Sensitive Data Checker using agent.ai](https://dev.to/abdullah-k18/sensitive-data-checker-using-agentai-4ng0)
-- [Top 7 UI Component Libraries for 2025 — Copy, Paste, and Create!](https://dev.to/joodi/top-7-ui-component-libraries-for-2025-copy-paste-and-create-1i84)
-- [Create an AI Agent with PydanticAI in Minutes](https://dev.to/business24ai/create-an-ai-agent-with-pydanticai-in-minutes-3k07)
+- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21bk)
+- [Internacionalización en Aplicaciones React con i18next](https://dev.to/devjohanadrian/internacionalizacion-en-aplicaciones-react-con-i18next-286k)
+- [Predictions for the New Year!](https://dev.to/vitamindel/predictions-for-the-new-year-572g)
+- [The future of Azure](https://dev.to/amircloudlab/the-future-of-azure-1b6i)
+- [React Custom Hook: useDarkSwitch](https://dev.to/niero/react-custom-hook-usedarkswitch-180g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
