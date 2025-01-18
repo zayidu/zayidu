@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PASSWORD GENERATOR SCRIPT WITH PYTHON](https://dev.to/seyilufadejucyberservices/password-generator-script-in-python-22fg)
-- [Understanding Angular Signals: A Comprehensive Guide](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-angular-signals-a-comprehensive-guide-4omo)
-- [Understanding Worker Threads in Node.js: A Deep Dive](https://dev.to/abdullahyasir/understanding-worker-threads-in-nodejs-a-deep-dive-236n)
-- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-1l49)
-- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-1c92)
+- [What make Rust blazing fast?](https://dev.to/sadanand_dodawadakar_10b2/what-make-rust-blazing-fast-5anj)
+- [Trampolim para funções além do primitivo recursivo? Implementação para a função de Ackermann Peter](https://dev.to/jeffque/trampolim-para-funcoes-alem-do-primitivo-recursivo-implementacao-para-a-funcao-de-ackermann-peter-3c8n)
+- [Guard expressions in JavaScript](https://dev.to/anreutt/guard-expressions-in-javascript-161e)
+- [The Differences in Truthiness and Falsiness in JavaScript vs PHP](https://dev.to/kengitahi/the-differences-in-truthiness-and-falsiness-in-javascript-vs-php-4fdb)
+- [Diagramming React code](https://dev.to/conw_y/diagramming-react-code-48m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
