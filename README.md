@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What is an MVP?](https://dev.to/sinaptia_dev/what-is-an-mvp-2d2n)
+- [Fixing the &quot;vueDemi2.effectScope is not a function&quot; Error in Nuxt 3 + Pinia &lpar;SSR, Vercel Deploy&rpar;](https://dev.to/jeanjavi/fixing-the-vuedemi2effectscope-is-not-a-function-error-in-nuxt-3-pinia-ssr-vercel-deploy-2jih)
 - [Python for Data Science: A Beginner&#39;s Introduction](https://dev.to/mei_zhu/python-for-data-science-a-beginners-introduction-39hg)
 - [How to Assign and Manage Resource Monitors in Snowflake](https://dev.to/rodolfom-data/how-to-assign-and-manage-resource-monitors-in-snowflake-58io)
 - [Exploring Python After Learning JavaScript](https://dev.to/mei_zhu/exploring-python-after-learning-javascript-48i5)
-- [Daily Quantum Learning #1 - What&#39;s a Qubit?](https://dev.to/quantumashx/daily-quantum-learning-1-whats-a-qubit-2eg6)
-- [Sending Tweets with Images Using iOS Shortcuts and OAuth 1.0a Authentication](https://dev.to/chatgptnexus/2025011809-11-15-article-ph0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
