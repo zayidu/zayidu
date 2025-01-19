@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an AI Developer in 2025 &lpar;Full Guide + Resources&rpar;](https://dev.to/empiree/how-to-become-an-ai-developer-in-2025-full-guide-resources-a0p)
-- [API rate limit exceeded Github: How to fix?](https://dev.to/mehmetakar/api-rate-limit-exceeded-github-how-to-fix-4h6n)
-- [Using nested annotations for key-value pairs in a custom annotation](https://dev.to/alaugks/using-nested-annotations-for-key-value-pairs-in-a-custom-annotation-2fla)
-- [Legacy Box: Relive, Reflect, Reignite.](https://dev.to/niraj_patel_f248efc2e5550/legacy-box-relive-reflect-reignite-534c)
-- [98/365 | ¥10M Job Challenge](https://dev.to/kameken100/98365-y10m-job-challenge-1idd)
+- [HearItServer: Your Offline TTS Server for Local Speech Synthesis](https://dev.to/fotiecodes/hearitserver-your-offline-tts-server-for-local-speech-synthesis-228c)
+- [Haskell Is Less Scary Than It Looks](https://dev.to/brunociccarino/haskell-is-less-scary-than-it-looks-4500)
+- [C++8th code&lpar;cmath--&gt;power exponent&rpar;](https://dev.to/md-salah/c8th-codecmath-power-exponent-2hnb)
+- [Laravel Attributes](https://dev.to/sydney_abuya_87/laravel-attributes-oei)
+- [air Programming Redefined: My Journey with Copilot](https://dev.to/mehakb7/air-programming-redefined-my-journey-with-copilot-1dh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
