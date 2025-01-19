@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us at Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/join-us-at-hack-the-future-ai-open-source-hackathon-2m57)
-- [Hi, I am new here. I hope to be a technical writer and make friends too.](https://dev.to/jfunmi/hi-i-am-new-here-i-hope-to-be-a-technical-writer-and-make-friends-too-33pm)
-- [Basics of Animal Tracking Databases](https://dev.to/mcb77/basics-of-animal-tracking-databases-2b4e)
-- [Secure Your AWS Account Properly](https://dev.to/prathamesh_gawade_16/secure-your-aws-account-properly-8me)
-- [As a software engineer, you might be looking for unique and engaging Project Graduation ideas](https://dev.to/ayoub_bouagna_95173db72b6/as-a-software-engineer-you-might-be-looking-for-unique-and-engaging-project-graduation-ideas-5bmm)
+- [Top 40+ Github Repositories Curated For Programmers](https://dev.to/gittech/top-40-github-repositories-curated-for-programmers-2fb8)
+- [Azure Virtual Networks &lpar;vNet&rpar;: Overview 2025](https://dev.to/diya_roy_1043d6ba08405d25/azure-virtual-networks-vnet-overview-2025-39ik)
+- [HTTP Caching 101: Everything You Need to Know](https://dev.to/leapcell/http-caching-101-everything-you-need-to-know-27ef)
+- [Starting a VSCode Extension UI For DBChat &lpar;Part 7&rpar;](https://dev.to/shrsv/starting-a-vscode-extension-ui-for-dbchat-part-7-458k)
+- [O que eu entendo sobre Clean Code?](https://dev.to/paulinhoprado/o-que-eu-entendo-sobre-clean-code-245g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
