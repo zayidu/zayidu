@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving Missing `_sqlite3` Module in Python on Ubuntu](https://dev.to/hastycodea/resolving-missing-sqlite3-module-in-python-on-ubuntu-47id)
-- [Hello Dev &lpar;World&rpar;! 😄🌍](https://dev.to/crypto_dnvarchar_447169d/hello-dev-world-51on)
-- [Step-by-Step Guide to Building a Robust CI/CD Pipeline for Java Projects on AWS Linux with Git, Jenkins, Maven, &amp; Tomcat](https://dev.to/khalifalmahmud0/step-by-step-guide-to-building-a-robust-cicd-pipeline-for-java-projects-on-aws-linux-with-git-4842)
-- [Why Every Developer Needs a Portfolio Website!](https://dev.to/zeek04/why-every-developer-needs-a-portfolio-website-14j)
-- [Building LLM Agents with LangGraph: A Comprehensive Guide](https://dev.to/chatgptnexus/2025011912-38-22-article-3b0h)
+- [Always Be Open &lpar;In Your Career&rpar;](https://dev.to/drjoanneskiles/always-be-open-in-your-career-3fjc)
+- [10 Hilarious Coding Memes That Only Developers Will Get](https://dev.to/nassiry/10-hilarious-coding-memes-that-only-developers-will-get-35mg)
+- [Transforming Text to Markdown: AI vs Traditional Methods](https://dev.to/chatgptnexus/2025011913-55-19-article-d6h)
+- [How to Handle Large File Uploads &lpar;Without Losing Your Mind&rpar;](https://dev.to/leapcell/how-to-handle-large-file-uploads-without-losing-your-mind-3dck)
+- [How to make a dependent types in Typescript](https://dev.to/pety/how-to-change-property-type-based-on-other-property-in-typescript-66n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
