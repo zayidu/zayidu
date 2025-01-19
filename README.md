@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [😎 Build Wealth, Start a Hustle, and Communicate Like a Pro](https://dev.to/0x5a_live/build-wealth-start-a-hustle-and-communicate-like-a-pro-89o)
-- [Is Your Age Really Holding You Back from Founding a Tech Startup? Think Again.](https://dev.to/0x2e_tech/is-your-age-really-holding-you-back-from-founding-a-tech-startup-think-again-2bfb)
-- [# Revolutionizing Web Performance: JBConcept.ro&#39;s Journey to Sub-Second Loading](https://dev.to/jbconcept_c4ad1ea567bc3c6/-revolutionizing-web-performance-jbconceptros-journey-to-sub-second-loading-3280)
-- [Unlocking the Power of AI Agents: Applications and Customization](https://dev.to/chatgptnexus/2025011922-33-25-article-4ffa)
-- [Introducing TUISIC: TUI Music Streaming App.](https://dev.to/sumitpatel/introducing-tuisic-tui-music-streaming-app-22ho)
+- [Go Framework Comparison for Web Development](https://dev.to/leapcell/go-framework-comparison-for-web-development-b55)
+- [&quot;Key Syntax Differences in Object-Oriented Programming: Python vs. Java”](https://dev.to/mahiamomo/key-syntax-differences-in-object-oriented-programming-python-vs-java-2l04)
+- [The Impatient AI Programming - FAV0 Weekly #027](https://dev.to/justin3go/the-impatient-ai-programming-fav0-weekly-027-51kg)
+- [浮躁的AI编程 - FAV0周刊#027](https://dev.to/justin3go/fu-zao-de-aibian-cheng-fav0zhou-kan-027-3djo)
+- [Quarkus notes &lpar;2&rpar;](https://dev.to/saladlam/quarkus-notes-2-5ek1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
