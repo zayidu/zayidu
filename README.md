@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A React 19 Cheat Sheet](https://dev.to/joodi/a-react-19-cheat-sheet-n06)
-- [🚀 Top 25+ Must-Read Web Development Articles Every Programmer Should Read](https://dev.to/dev-resources/top-25-must-read-web-development-articles-every-programmer-should-read-52mm)
-- [Terraform Session 3: Let&#39;s Learn about Terraform State, Variables and Functions](https://dev.to/krisfernando6/terraform-session-3-lets-learn-about-terraform-state-variables-and-functions-4900)
-- [Achieve Your Goals: an app for Taking Action towards your Dreams](https://dev.to/petros_arvanitis_d9043d21/achieve-your-goals-an-app-for-taking-action-towards-your-dreams-2b9k)
-- [Understanding the Impact and Potential of Quantum Computing](https://dev.to/callhawk8/understanding-the-impact-and-potential-of-quantum-computing-3p16)
+- [Join us at Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/join-us-at-hack-the-future-ai-open-source-hackathon-2m57)
+- [Hi, I am new here. I hope to be a technical writer and make friends too.](https://dev.to/jfunmi/hi-i-am-new-here-i-hope-to-be-a-technical-writer-and-make-friends-too-33pm)
+- [Basics of Animal Tracking Databases](https://dev.to/mcb77/basics-of-animal-tracking-databases-2b4e)
+- [Secure Your AWS Account Properly](https://dev.to/prathamesh_gawade_16/secure-your-aws-account-properly-8me)
+- [As a software engineer, you might be looking for unique and engaging Project Graduation ideas](https://dev.to/ayoub_bouagna_95173db72b6/as-a-software-engineer-you-might-be-looking-for-unique-and-engaging-project-graduation-ideas-5bmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
