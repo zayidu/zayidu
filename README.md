@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21bk)
-- [Internacionalización en Aplicaciones React con i18next](https://dev.to/devjohanadrian/internacionalizacion-en-aplicaciones-react-con-i18next-286k)
-- [Predictions for the New Year!](https://dev.to/vitamindel/predictions-for-the-new-year-572g)
-- [The future of Azure](https://dev.to/amircloudlab/the-future-of-azure-1b6i)
-- [React Custom Hook: useDarkSwitch](https://dev.to/niero/react-custom-hook-usedarkswitch-180g)
+- [My Code Chronicles #2: Creating a Dynamic Product Card Component in Next.js using Framer Motion](https://dev.to/nathlowe/my-code-chronicles-2-creating-a-dynamic-product-card-component-in-nextjs-using-framer-motion-3agh)
+- [Using Transformer Lab in Microsoft Word locally](https://dev.to/gptlocalhost/using-transformer-lab-in-microsoft-word-locally-c14)
+- [Quarkus notes &lpar;1&rpar;](https://dev.to/saladlam/quarkus-notes-1-o63)
+- [Recursion in JavaScript Types, Structure, and Practical Examples](https://dev.to/sudhanshudevelopers/mastering-recursion-in-javascript-types-structure-and-practical-examples-5gk5)
+- [&quot;Revolutionizing Autonomous Driving: The Power of Language Models Unleashed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-autonomous-driving-the-power-of-language-models-unleashed-9gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
