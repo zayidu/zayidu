@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Now Dream 💭](https://dev.to/akshitzatakia/ai-can-now-dream-2nfa)
-- [SkillSphere: A platform with 10 apps for well-being and productivity.](https://dev.to/aniruddhaadak/skillsphere-a-platform-with-10-apps-for-well-being-and-productivity-1k1p)
-- [Blockchain Based License Protection To Prevent Software Piracy](https://dev.to/vignesh_k_5002/blockchain-based-license-protection-to-prevent-software-piracy-34i6)
-- [Caching and Cache Misses: A Beginner&#39;s Guide to Building Faster Systems 🚀](https://dev.to/abhivyaktii/caching-and-cache-misses-a-beginners-guide-to-building-faster-systems-15k4)
-- [Steps to Configure AWS Environments for Secure Handling of Sensitive Health Data](https://dev.to/marufhossain/steps-to-configure-aws-environments-for-secure-handling-of-sensitive-health-data-5031)
+- [Top 10 Programming Languages for Beginners in 2025](https://dev.to/tarunfulera1/top-10-programming-languages-for-beginners-in-2025-3ain)
+- [🌱TinyHabits with Obsidian Sync and Rewards!🌿🚀🏆](https://dev.to/ximet/tinyhabits-with-obsidian-sync-and-rewards-h24)
+- [Freeware: Java Utility Package &lpar;Version 2025.01.19&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20250119-released-2331)
+- [Faster Git Clone Using Depth](https://dev.to/mohansandesh/faster-git-clone-using-depth-4lpc)
+- [Object.freeze&lpar;&rpar; Goes Hard 🥶❄️](https://dev.to/mattlewandowski93/objectfreeze-goes-hard-5cn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
