@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HearItServer: Your Offline TTS Server for Local Speech Synthesis](https://dev.to/fotiecodes/hearitserver-your-offline-tts-server-for-local-speech-synthesis-228c)
-- [Haskell Is Less Scary Than It Looks](https://dev.to/brunociccarino/haskell-is-less-scary-than-it-looks-4500)
-- [C++8th code&lpar;cmath--&gt;power exponent&rpar;](https://dev.to/md-salah/c8th-codecmath-power-exponent-2hnb)
-- [Laravel Attributes](https://dev.to/sydney_abuya_87/laravel-attributes-oei)
-- [air Programming Redefined: My Journey with Copilot](https://dev.to/mehakb7/air-programming-redefined-my-journey-with-copilot-1dh7)
+- [Why Join a Tech Community? ✋5 Powerful Reasons for Beginners](https://dev.to/joyobaidu/why-join-a-tech-community-5-powerful-reasons-for-beginners-4652)
+- [Introducing Momentum: Your Ultimate Habit Tracker App](https://dev.to/swhavy/introducing-momentum-your-ultimate-habit-tracker-app-1716)
+- [A Complete Guide to Fetching Data in Next.js with Axios and React-TanStack-Query](https://dev.to/dannypreye/a-complete-guide-to-fetching-data-in-nextjs-with-axios-and-react-tanstack-query-3chl)
+- [Introducing Momentum: Your Ultimate Habit Tracker App](https://dev.to/swhavy/introducing-momentum-your-ultimate-habit-tracker-app-3knb)
+- [Introduction to React](https://dev.to/bkthemes/introduction-to-react-1cof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
