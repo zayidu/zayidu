@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advocating the Adoption of a Custom Base-32 Encoding System for Enhanced Data Representation and Error Prevention](https://dev.to/megan_pyro/advocating-the-adoption-of-a-custom-base-32-encoding-system-for-enhanced-data-representation-and-5e60)
-- [Exploring Promises in JavaScript](https://dev.to/ryoichihomma/exploring-promises-in-javascript-2k8n)
-- [Data Sources | Terraform](https://dev.to/ibrahimsi/data-sources-terraform-2nn0)
-- [Github Challenge: Arise - Mindful Morning Planner](https://dev.to/juniourrau/github-challenge-arise-mindful-morning-planner-2fl7)
-- [How to self-host Strapi on Railway](https://dev.to/markmunyaka/how-to-self-host-strapi-on-railway-glj)
+- [Distribution Calculator In Svelte - Hosted on Amazon S3](https://dev.to/agbagbarao/distribution-calculator-in-svelte-hosted-on-amazon-s3-3p65)
+- [Podium speech](https://dev.to/gautam_mer_48ae875f5683c8/podium-speech-al1)
+- [MY DATA ANALYTICS JORNAL](https://dev.to/awasume_marylin_8/my-data-analytics-jornal-1gl9)
+- [MY DATA ANALYTICS JORNAL](https://dev.to/awasume_marylin_8/my-data-analytics-jornal-5aaa)
+- [Synthetic Media: A Deep Dive into AI-Generated Content](https://dev.to/scitech-insights/synthetic-media-a-deep-dive-into-ai-generated-content-pgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
