@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Distribution Calculator In Svelte - Hosted on Amazon S3](https://dev.to/agbagbarao/distribution-calculator-in-svelte-hosted-on-amazon-s3-3p65)
-- [Podium speech](https://dev.to/gautam_mer_48ae875f5683c8/podium-speech-al1)
-- [MY DATA ANALYTICS JORNAL](https://dev.to/awasume_marylin_8/my-data-analytics-jornal-1gl9)
-- [MY DATA ANALYTICS JORNAL](https://dev.to/awasume_marylin_8/my-data-analytics-jornal-5aaa)
-- [Synthetic Media: A Deep Dive into AI-Generated Content](https://dev.to/scitech-insights/synthetic-media-a-deep-dive-into-ai-generated-content-pgb)
+- [Blockchain Based License Protection To Prevent Software Piracy](https://dev.to/vignesh_k_5002/blockchain-based-license-protection-to-prevent-software-piracy-34i6)
+- [Caching and Cache Misses: A Beginner&#39;s Guide to Building Faster Systems 🚀](https://dev.to/abhivyaktii/caching-and-cache-misses-a-beginners-guide-to-building-faster-systems-15k4)
+- [Steps to Configure AWS Environments for Secure Handling of Sensitive Health Data](https://dev.to/marufhossain/steps-to-configure-aws-environments-for-secure-handling-of-sensitive-health-data-5031)
+- [Leetcode 901. Online Stock Span](https://dev.to/devn913/leetcode-901-online-stock-span-p4m)
+- [Quickly Check NPM Package Popularity with Ease](https://dev.to/ajmal_hasan/quickly-check-npm-package-popularity-with-ease-13j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
