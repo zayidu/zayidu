@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Join a Tech Community? ✋5 Powerful Reasons for Beginners](https://dev.to/joyobaidu/why-join-a-tech-community-5-powerful-reasons-for-beginners-4652)
-- [Introducing Momentum: Your Ultimate Habit Tracker App](https://dev.to/swhavy/introducing-momentum-your-ultimate-habit-tracker-app-1716)
-- [A Complete Guide to Fetching Data in Next.js with Axios and React-TanStack-Query](https://dev.to/dannypreye/a-complete-guide-to-fetching-data-in-nextjs-with-axios-and-react-tanstack-query-3chl)
-- [Introducing Momentum: Your Ultimate Habit Tracker App](https://dev.to/swhavy/introducing-momentum-your-ultimate-habit-tracker-app-3knb)
-- [Introduction to React](https://dev.to/bkthemes/introduction-to-react-1cof)
+- [O dev.to é realmente incrível. O alcance que eu tenho aqui é muito maior que em outras redes sociais, fora o fato de ser focado em dev. Pra quem quiser criar um blog, esse é o lugar... Só precisa ter um editor de post melhor hehehe](https://dev.to/angelobelchior/o-devto-e-realmente-incrivel-o-alcance-que-eu-tenho-aqui-e-muito-maior-que-em-outras-redes-30ea)
+- [Kontroler: &quot;DogFood&quot; Testing](https://dev.to/greedykomdodragon/kontroler-dogfood-testing-2m5a)
+- [Hero Sprint - Never Start From Zero](https://dev.to/anupulu/hero-spring-never-start-from-zero-17hn)
+- [Daily Quantum Learning #2 - Determinism, Probabilism, and Superposition](https://dev.to/quantumashx/daily-quantum-learning-2-determinism-probabilism-and-superposition-jkg)
+- [Why Clean Architecture Struggles in Golang and What Works Better](https://dev.to/gregalc99/why-clean-architecture-struggles-in-golang-and-what-works-better-2n9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
