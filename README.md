@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Programming Languages for Beginners in 2025](https://dev.to/tarunfulera1/top-10-programming-languages-for-beginners-in-2025-3ain)
-- [🌱TinyHabits with Obsidian Sync and Rewards!🌿🚀🏆](https://dev.to/ximet/tinyhabits-with-obsidian-sync-and-rewards-h24)
-- [Freeware: Java Utility Package &lpar;Version 2025.01.19&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20250119-released-2331)
-- [Faster Git Clone Using Depth](https://dev.to/mohansandesh/faster-git-clone-using-depth-4lpc)
-- [Object.freeze&lpar;&rpar; Goes Hard 🥶❄️](https://dev.to/mattlewandowski93/objectfreeze-goes-hard-5cn1)
+- [No framework - front end frameworks are unnecessary](https://dev.to/sti_selini/no-framework-front-end-frameworks-are-unnecessary-3p2k)
+- [Essential Linux Commands for DevOps Engineers](https://dev.to/megha_shivhare_5038dc1047/essential-linux-commands-for-devops-engineers-5ai8)
+- [Matanuska ADR 011 - Let and Assign Semantics](https://dev.to/jfhbrook/matanuska-adr-011-let-and-assign-semantics-3pi5)
+- [Building a Weather reports Dashboard with python, S3 and Openweather API](https://dev.to/sherif_san/building-a-weather-reports-dashboard-with-python-s3-and-openweather-api-4k62)
+- [JSON Manipulation](https://dev.to/veer66/json-manipulation-1183)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
