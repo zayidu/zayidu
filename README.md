@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No framework - front end frameworks are unnecessary](https://dev.to/sti_selini/no-framework-front-end-frameworks-are-unnecessary-3p2k)
-- [Essential Linux Commands for DevOps Engineers](https://dev.to/megha_shivhare_5038dc1047/essential-linux-commands-for-devops-engineers-5ai8)
-- [Matanuska ADR 011 - Let and Assign Semantics](https://dev.to/jfhbrook/matanuska-adr-011-let-and-assign-semantics-3pi5)
-- [Building a Weather reports Dashboard with python, S3 and Openweather API](https://dev.to/sherif_san/building-a-weather-reports-dashboard-with-python-s3-and-openweather-api-4k62)
-- [JSON Manipulation](https://dev.to/veer66/json-manipulation-1183)
+- [The Life Cycle of an S3 Object, A Simple Tale of Data’s Journey](https://dev.to/aws-builders/the-life-cycle-of-an-s3-object-a-simple-tale-of-datas-journey-2cne)
+- [Anyone Can Become Certified in Cybersecurity](https://dev.to/devh0us3/anyone-can-become-certified-in-cybersecurity-2nb0)
+- [Building a Cloud-Based NBA Data Lake with AWS 🏀](https://dev.to/pat6339/building-a-cloud-based-nba-data-lake-with-aws-2c2o)
+- [CropShield: Rainfall Reporting for Smart Approvals](https://dev.to/njayaba75/cropshield-rainfall-reporting-for-smart-approvals-1nbh)
+- [GoalGenius: Your AI-Powered Life Coach for New Beginnings](https://dev.to/ismailco96/goalgenius-your-ai-powered-life-coach-for-new-beginnings-9p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
