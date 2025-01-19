@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Local LLMs to Add Topic and Concluding Sentences in Microsoft Word](https://dev.to/gptlocalhost/using-local-llms-to-add-topic-and-concluding-sentences-in-microsoft-word-4fml)
-- [Pros and Cons about Github Foundations cert](https://dev.to/halftamayo/pros-and-cons-about-github-foundations-cert-1ji8)
-- [Nested IIF Functions in Microsoft Access](https://dev.to/richardrost/nested-iif-functions-in-microsoft-access-1360)
-- [A Guide to Awareness Meditation and its Advantages](https://dev.to/endscarf1/a-guide-to-awareness-meditation-and-its-advantages-1881)
-- [&quot;Tell, Don&#39;t Ask&quot; Principle Explained in 100 Seconds](https://dev.to/dzungnt98/tell-dont-ask-principle-explained-in-100-seconds-540h)
+- [AI is Everywhere Around Us](https://dev.to/jaygpt/ai-is-everywhere-around-us-50kj)
+- [I’m no developer but I’m looking to learn. I love what you guys do and would love to be accepted in your communities.](https://dev.to/tyler_coleman_d50bf50c16e/im-no-developer-but-im-looking-to-learn-i-love-what-you-guys-do-and-would-love-to-be-accepted-in-462e)
+- [How to Dockerize SvelteKit](https://dev.to/code42cate/how-to-dockerize-sveltekit-3oho)
+- [Understanding the Fundamentals of Quantum Computing](https://dev.to/cicadavise7/understanding-the-fundamentals-of-quantum-computing-46do)
+- [Brave vs DuckDuckGo: Which Browser Offers Better Privacy?](https://dev.to/angel_rojas_6904bae237a0d/brave-vs-duckduckgo-which-browser-offers-better-privacy-20ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
