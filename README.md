@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [StyleSpark: Analyzing and Matching Code to Iconic Programming Styles using GitHub Actions](https://dev.to/mrmemory/stylespark-analyzing-and-matching-code-to-iconic-programming-styles-using-github-actions-14mh)
+- [Supervisor Guide for PHP Developers](https://dev.to/edgaras/supervisor-guide-for-laravel-developers-configuration-and-use-cases-20i4)
+- [Essential Git Cheatsheet: Master Git Commands for Efficient Version Control](https://dev.to/adityabhuyan/essential-git-cheatsheet-master-git-commands-for-efficient-version-control-4cc2)
+- [XAMPP Alternative in Mac for Mysql](https://dev.to/shield8994/xampp-alternative-in-mac-for-mysql-55l1)
 - [Life in Dots: A Visual Journey of Time and Transformation](https://dev.to/josectoscano/life-in-dots-a-visual-journey-of-time-and-transformation-118c)
-- [NextStep: Habit Tracker Built with GitHub Copilot](https://dev.to/mirfanhassan/nextstep-habit-tracker-built-with-github-copilot-313)
-- [New Beginnings Personal Growth Productivity Tool](https://dev.to/cvipuls/new-beginnings-personal-growth-productivity-tool-344e)
-- [Use Selenium and proxy IP to easily crawl dynamic page information](https://dev.to/98ip/use-selenium-and-proxy-ip-to-easily-crawl-dynamic-page-information-1mk5)
-- [How to Make HTTP Requests in Node.js with Node-Fetch API?](https://dev.to/scraper0024/how-to-make-http-requests-in-nodejs-with-node-fetch-api-i19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
