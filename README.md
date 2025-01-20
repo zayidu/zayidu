@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [terraProof: The Secret Weapon Every DevOps Engineer Needs](https://dev.to/aws-builders/terraproof-the-secret-weapon-every-devops-engineer-needs-fa1)
-- [Experiment with Chainlit AI interface with RAG on Upsun](https://dev.to/gmoigneu/experiment-with-chainlit-ai-interface-with-rag-on-upsun-4cdj)
-- [Stateless loading in React](https://dev.to/ijal/stateless-loading-in-react-29dj)
-- [Deepseek R1](https://dev.to/avanichols_dev/deepseek-r1-4i9h)
-- [Cara Aman Mengakses Data pada Object](https://dev.to/hadihammurabi/cara-aman-mengakses-data-pada-object-1bkb)
+- [Effective Strategies for Anonymous Website Visitor Identification and Tracking](https://dev.to/kapusto/identifying-and-understanding-anonymous-website-visitors-a-comprehensive-guide-3mm2)
+- [Automatically commit by AI in Visual Studio](https://dev.to/mirajhad/automatically-commit-by-ai-in-visual-studio-3hjg)
+- [Just updated the list of real open-source Angular projects I found](https://dev.to/ovidiu141/just-updated-the-list-of-real-open-source-angular-projects-i-found-313)
+- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-1o5d)
+- [Learn and Earn crypto tokens, here is how?](https://dev.to/block_experts_766a3a21915637/learn-and-earn-crypto-tokens-here-is-how-o85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
