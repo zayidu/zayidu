@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay ahead in web development: latest news, tools, and insights #68](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-68-2hpd)
-- [Configuring Virtual Network Peering in Azure](https://dev.to/willvelida/configuring-virtual-network-peering-in-azure-46jf)
-- [Microsoft Certifications: Unlock Your Path to Tech Success](https://dev.to/educ4te/microsoft-certifications-unlock-your-path-to-tech-success-kd9)
-- [Polybase in Azure Data Factory](https://dev.to/kondaveeti_mosesbrolly_2/polybase-in-azure-data-factory-1eke)
-- [Locating the canvas route in the Grida codebase.](https://dev.to/ramunarasinga-11/locating-the-canvas-route-in-the-grida-codebase-1p2l)
+- [Python Basics: Data Types &amp; Control Flow](https://dev.to/godofgeeks/python-basics-data-types-control-flow-8ff)
+- [Let&#39;s Talk About Power Platform Previews](https://dev.to/wyattdave/lets-talk-about-power-platform-previews-58ne)
+- [#133 — Row-to-Column Conversion for Fixed Columns](https://dev.to/judith677/133-row-to-column-conversion-for-fixed-columns-be1)
+- [𝐅𝐢𝐧𝐞 𝐯𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 &amp; 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 - 𝐖𝐡𝐚𝐭&#39;𝐬 𝐭𝐡𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 ❔](https://dev.to/thisisfinedev/--1638)
+- [GraphQL vs REST API: Key Differences and Best Use Cases | Mbloging](https://dev.to/muhayminbinmehmood/graphql-vs-rest-api-key-differences-and-best-use-cases-mbloging-3nmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
