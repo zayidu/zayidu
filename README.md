@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to 50+ Kubernetes Resources](https://dev.to/theyasirr/comprehensive-guide-to-50-kubernetes-resources-34k)
-- [Декоратори](https://dev.to/gr555/diekoratori-1jlc)
-- [Comprehensive Guide to Security Automation in Software Development](https://dev.to/mikesays/comprehensive-guide-to-security-automation-in-software-development-106f)
-- [Postmortem of my First Game Engine Project](https://dev.to/romanstanuch/postmortem-of-my-first-game-engine-project-36eh)
-- [Mindset of a Senior Engineer](https://dev.to/landb/mindset-of-a-senior-engineer-3n6i)
+- [Introduction to data analysis with Python: Part 2 - Lists, Tuples and Dictionaries](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-2-lists-tuples-and-dictionaries-40ee)
+- [A Journey of a Million Small Steps](https://dev.to/devcecelia/a-journey-of-a-million-small-steps-1kd6)
+- [Knowledge Networks Resilience](https://dev.to/d1d4c/knowledge-networks-resilience-2dgf)
+- [Problemas reais x Problemas imaginários](https://dev.to/hugaomarques/problemas-reais-x-problemas-imaginarios-26g7)
+- [JavaScript Project Ideas to Elevate Your Coding Skills](https://dev.to/durgesh_chaudhari_04/javascript-project-ideas-to-elevate-your-coding-skills-44a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
