@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Sign-On &lpar;SSO&rpar; Made Easy](https://dev.to/leapcell/single-sign-on-sso-made-easy-4h41)
-- [How to Create a Privacy Policy for Your Website with GDPR Compliance](https://dev.to/webdevamin/how-to-create-a-privacy-policy-for-your-website-with-gdpr-compliance-3j6c)
-- [Let&#39;s get messy](https://dev.to/bcornils/everything-thats-old-is-new-again-1jpf)
-- [Die Ruby-Seite von Puppet - Teil 3 - Benutzerdefinierte Typen und Provider](https://dev.to/betadots/die-ruby-seite-von-puppet-teil-3-benutzerdefinierte-typen-und-provider-jbp)
-- [Why Coding Bootcamps Are Failing Developers](https://dev.to/holasoymalva/why-coding-bootcamps-are-failing-developers-dgn)
+- [IL &lpar;Intermediate Language&rpar;](https://dev.to/madina1575/il-intermediate-language-bjh)
+- [Design Patterns Serie — Structural Chapter: Proxy Pattern](https://dev.to/bryam_vega_487231d2d7c62e/design-patterns-serie-structural-chapter-proxy-pattern-ji0)
+- [Automate Your Job Search: Scraping 400+ LinkedIn Jobs with Python](https://dev.to/franciscomoretti/automate-your-job-search-scraping-400-linkedin-jobs-with-python-47c0)
+- [Game over… Copilot is now free](https://dev.to/fabianfrankwerner/game-over-copilot-is-now-free-2nak)
+- [CLR &lpar; Common Language Runtime&rpar;](https://dev.to/madina1575/clr-common-language-runtime-4b9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
