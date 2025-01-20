@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 Microsoft is Offering FREE Certification Courses!📢](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-free-certification-courses-56ag)
-- [Vector search using Alibaba Cloud infererence API and semantic text](https://dev.to/a_lucas/vector-search-using-alibaba-cloud-infererence-api-and-semantic-text-26og)
-- [AWS CDK Validation in Python](https://dev.to/krzyslow/aws-cdk-validation-in-python-4d5i)
-- [Understanding Docker: part 48 – Docker Compose Lifecycle hooks](https://dev.to/aurelievache/understanding-docker-part-48-docker-compose-lifecycle-hooks-64n)
-- [&quot;Transforming Education: Unveiling the Impact of Social Determinants and AI Ontology&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/transforming-education-unveiling-the-impact-of-social-determinants-and-ai-ontology-jfg)
+- [⚡ 🚀 Top 10 Trending GitHub Repositories, January 2025 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-january-2025-1f24)
+- [How to Integrate GitHub Copilot with VS Code](https://dev.to/aneeqakhan/how-to-integrate-github-copilot-with-vs-code-i0h)
+- [Automatic deletion of unused AWS ECR container images for multi-account AWS ECS services](https://dev.to/chgerkens/automatic-deletion-of-unused-aws-ecr-container-images-for-multi-account-aws-ecs-services-4h14)
+- [Zero-Shot to Few-Shot: A Developer&#39;s Guide to Root Prompting Techniques](https://dev.to/nagasuresh_dondapati_d5df/zero-shot-to-few-shot-a-developers-guide-to-root-prompting-techniques-2og4)
+- [The Evolution of Telecom: Connecting the World in the Digital Age](https://dev.to/blogsx/the-evolution-of-telecom-connecting-the-world-in-the-digital-age-5h20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
