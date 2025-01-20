@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master TypeScript with These Essential Concepts](https://dev.to/princekukreja/master-typescript-with-these-essential-concepts-41g1)
-- [Shift Left Meets Kafka: Testing Event-Driven Microservices](https://dev.to/signadot/shift-left-meets-kafka-testing-event-driven-microservices-20f1)
-- [Using Android to stream to Twitch. Part 1. Securing a Socket](https://dev.to/theplebdev/using-android-to-stream-to-twitch-part-1-securing-a-socket-2pjc)
-- [What you know about Compiler &amp; Interpreter](https://dev.to/spartacus/what-you-know-about-compiler-interpreter-17d5)
-- [Mastering Rust&#39;s Smart Pointers: Enhancing Memory Management and Performance](https://dev.to/aaravjoshi/mastering-rusts-smart-pointers-enhancing-memory-management-and-performance-kml)
+- [terraProof: The Secret Weapon Every DevOps Engineer Needs](https://dev.to/aws-builders/terraproof-the-secret-weapon-every-devops-engineer-needs-fa1)
+- [Experiment with Chainlit AI interface with RAG on Upsun](https://dev.to/gmoigneu/experiment-with-chainlit-ai-interface-with-rag-on-upsun-4cdj)
+- [Stateless loading in React](https://dev.to/ijal/stateless-loading-in-react-29dj)
+- [Deepseek R1](https://dev.to/avanichols_dev/deepseek-r1-4i9h)
+- [Cara Aman Mengakses Data pada Object](https://dev.to/hadihammurabi/cara-aman-mengakses-data-pada-object-1bkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
