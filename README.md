@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ 🚀 Top 10 Trending GitHub Repositories, January 2025 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-january-2025-1f24)
-- [How to Integrate GitHub Copilot with VS Code](https://dev.to/aneeqakhan/how-to-integrate-github-copilot-with-vs-code-i0h)
-- [Automatic deletion of unused AWS ECR container images for multi-account AWS ECS services](https://dev.to/chgerkens/automatic-deletion-of-unused-aws-ecr-container-images-for-multi-account-aws-ecs-services-4h14)
-- [Zero-Shot to Few-Shot: A Developer&#39;s Guide to Root Prompting Techniques](https://dev.to/nagasuresh_dondapati_d5df/zero-shot-to-few-shot-a-developers-guide-to-root-prompting-techniques-2og4)
-- [The Evolution of Telecom: Connecting the World in the Digital Age](https://dev.to/blogsx/the-evolution-of-telecom-connecting-the-world-in-the-digital-age-5h20)
+- [Native interop with Kotlin/Java in Flutter](https://dev.to/orestesgaolin/native-interop-with-kotlinjava-in-flutter-3oag)
+- [DevOps Course Roadmap for Fresher’s and Experienced Candidates](https://dev.to/techconcephub/devops-course-roadmap-for-freshers-and-experienced-candidates-3l7o)
+- [Revisitando o Artigo sobre REST: Lições e Reflexões](https://dev.to/asouza/revisitando-o-artigo-sobre-rest-licoes-e-reflexoes-4ghd)
+- [Nexis - a web-app for increased productivity](https://dev.to/keerthisri/nexis-a-web-app-for-increased-productivity-4fci)
+- [Why I don&#39;t seal my classes, and why you shouldn&#39;t either](https://dev.to/mahime/why-i-dont-seal-my-classes-and-why-you-shouldnt-either-24n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
