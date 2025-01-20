@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hemath923604/-6f9)
-- [[Boost]](https://dev.to/akshaybond30160/-3h9i)
-- [The Only 20 VS Code Extensions Web Developers Will Need in 2025](https://dev.to/web_dev-usman/the-only-20-vs-code-extensions-web-developers-will-need-in-2025-5a02)
-- [StyleSpark: Analyzing and Matching Code to Iconic Programming Styles using GitHub Actions](https://dev.to/mrmemory/stylespark-analyzing-and-matching-code-to-iconic-programming-styles-using-github-actions-14mh)
-- [Supervisor Guide for PHP Developers](https://dev.to/edgaras/supervisor-guide-for-laravel-developers-configuration-and-use-cases-20i4)
+- [Stay ahead in web development: latest news, tools, and insights #68](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-68-2hpd)
+- [Configuring Virtual Network Peering in Azure](https://dev.to/willvelida/configuring-virtual-network-peering-in-azure-46jf)
+- [Microsoft Certifications: Unlock Your Path to Tech Success](https://dev.to/educ4te/microsoft-certifications-unlock-your-path-to-tech-success-kd9)
+- [Polybase in Azure Data Factory](https://dev.to/kondaveeti_mosesbrolly_2/polybase-in-azure-data-factory-1eke)
+- [Locating the canvas route in the Grida codebase.](https://dev.to/ramunarasinga-11/locating-the-canvas-route-in-the-grida-codebase-1p2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
