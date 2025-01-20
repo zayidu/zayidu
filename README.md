@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native list components: FlashList, FlatList, and more](https://dev.to/logrocket/react-native-list-components-flashlist-flatlist-and-more-1l4e)
-- [Streamline Your Workflow: Automating Tasks with .NET 9’s New Tools and APIs](https://dev.to/leandroveiga/streamline-your-workflow-automating-tasks-with-net-9s-new-tools-and-apis-5520)
-- [How to Set Up a Node.js Web Server on Raspberry Pi](https://dev.to/garciadiazjaime/how-to-set-up-a-nodejs-web-server-on-raspberry-pi-3d46)
-- [my projet react website](https://dev.to/armandomateus41/my-projet-react-website-3j53)
-- [What is a database schema?](https://dev.to/burcs/what-is-a-database-schema-j3p)
+- [Single Sign-On &lpar;SSO&rpar; Made Easy](https://dev.to/leapcell/single-sign-on-sso-made-easy-4h41)
+- [How to Create a Privacy Policy for Your Website with GDPR Compliance](https://dev.to/webdevamin/how-to-create-a-privacy-policy-for-your-website-with-gdpr-compliance-3j6c)
+- [Let&#39;s get messy](https://dev.to/bcornils/everything-thats-old-is-new-again-1jpf)
+- [Die Ruby-Seite von Puppet - Teil 3 - Benutzerdefinierte Typen und Provider](https://dev.to/betadots/die-ruby-seite-von-puppet-teil-3-benutzerdefinierte-typen-und-provider-jbp)
+- [Why Coding Bootcamps Are Failing Developers](https://dev.to/holasoymalva/why-coding-bootcamps-are-failing-developers-dgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
