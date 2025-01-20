@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Basics: Data Types &amp; Control Flow](https://dev.to/godofgeeks/python-basics-data-types-control-flow-8ff)
-- [Let&#39;s Talk About Power Platform Previews](https://dev.to/wyattdave/lets-talk-about-power-platform-previews-58ne)
-- [#133 — Row-to-Column Conversion for Fixed Columns](https://dev.to/judith677/133-row-to-column-conversion-for-fixed-columns-be1)
-- [𝐅𝐢𝐧𝐞 𝐯𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 &amp; 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 - 𝐖𝐡𝐚𝐭&#39;𝐬 𝐭𝐡𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 ❔](https://dev.to/thisisfinedev/--1638)
-- [GraphQL vs REST API: Key Differences and Best Use Cases | Mbloging](https://dev.to/muhayminbinmehmood/graphql-vs-rest-api-key-differences-and-best-use-cases-mbloging-3nmm)
+- [📢 Microsoft is Offering FREE Certification Courses!📢](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-free-certification-courses-56ag)
+- [Vector search using Alibaba Cloud infererence API and semantic text](https://dev.to/a_lucas/vector-search-using-alibaba-cloud-infererence-api-and-semantic-text-26og)
+- [AWS CDK Validation in Python](https://dev.to/krzyslow/aws-cdk-validation-in-python-4d5i)
+- [Understanding Docker: part 48 – Docker Compose Lifecycle hooks](https://dev.to/aurelievache/understanding-docker-part-48-docker-compose-lifecycle-hooks-64n)
+- [&quot;Transforming Education: Unveiling the Impact of Social Determinants and AI Ontology&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/transforming-education-unveiling-the-impact-of-social-determinants-and-ai-ontology-jfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
