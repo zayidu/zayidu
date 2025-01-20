@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transactions in Microservices: Part 1 - SAGA Patterns overview.](https://dev.to/federico_bevione/transactions-in-microservices-part-1-saga-patterns-with-choreography-and-orchestration-4an9)
-- [I built an AI Indie hacker that can research and make MVPs in minutes 🚀 🔥](https://dev.to/composiodev/i-built-an-ai-indie-hacker-that-can-research-and-make-mvps-in-minutes-1j8j)
-- [Reliving the Spirit of InnOlympics 2025](https://dev.to/kakacomputer-media/reliving-the-spirit-of-innolympics-2025-5d0o)
-- [Daily JavaScript Challenge #JS-78: Find the Most Frequent Element](https://dev.to/dpc/daily-javascript-challenge-js-78-find-the-most-frequent-element-4lma)
-- [Top 10 Data and AI Trends to Watch in 2025](https://dev.to/hardiksankhla/top-10-data-and-ai-trends-to-watch-in-2025-4ih1)
+- [Master TypeScript with These Essential Concepts](https://dev.to/princekukreja/master-typescript-with-these-essential-concepts-41g1)
+- [Shift Left Meets Kafka: Testing Event-Driven Microservices](https://dev.to/signadot/shift-left-meets-kafka-testing-event-driven-microservices-20f1)
+- [Using Android to stream to Twitch. Part 1. Securing a Socket](https://dev.to/theplebdev/using-android-to-stream-to-twitch-part-1-securing-a-socket-2pjc)
+- [What you know about Compiler &amp; Interpreter](https://dev.to/spartacus/what-you-know-about-compiler-interpreter-17d5)
+- [Mastering Rust&#39;s Smart Pointers: Enhancing Memory Management and Performance](https://dev.to/aaravjoshi/mastering-rusts-smart-pointers-enhancing-memory-management-and-performance-kml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
