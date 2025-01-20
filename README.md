@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Track Your GitHub Unfollowers with Ease! 👀🚫](https://dev.to/joodi/track-your-github-unfollowers-with-ease-51je)
-- [How I passed AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/khoahd7621/how-i-passed-aws-certified-ai-practitioner-aif-c01-22d1)
-- [Software Testing Tricks: Unlocking Efficiency and Effectiveness in Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-tricks-unlocking-efficiency-and-effectiveness-in-quality-assurance-4lc3)
-- [Reactjs for Beginners](https://dev.to/amrigo/reactjs-for-beginners-1g7n)
-- [Creative Transitions Visualizer](https://dev.to/glenzzy/creative-transitions-visualizer-1cb3)
+- [Use Selenium and proxy IP to easily crawl dynamic page information](https://dev.to/98ip/use-selenium-and-proxy-ip-to-easily-crawl-dynamic-page-information-1mk5)
+- [How to Make HTTP Requests in Node.js with Node-Fetch API?](https://dev.to/scraper0024/how-to-make-http-requests-in-nodejs-with-node-fetch-api-i19)
+- [A Comprehensive Introduction to Understanding the Core Elements of Solar Technology](https://dev.to/dogcloth5/a-comprehensive-introduction-to-understanding-the-core-elements-of-solar-technology-1j5)
+- [Encrypting EBS Volumes of Amazon EC2 Instances Using Python](https://dev.to/aws-builders/encrypting-ebs-volumes-of-amazon-ec2-instances-using-python-3mjh)
+- [How to Break Through the Developer Plateau &lpar;If You&#39;re Stuck, Watch This&rpar;](https://dev.to/kakacomputer-media/how-to-break-through-the-developer-plateau-if-youre-stuck-watch-this-3058)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
