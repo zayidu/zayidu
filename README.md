@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clases anónimas en Java](https://dev.to/asjordi/clases-anonimas-en-java-44cp)
-- [Understanding Generics in Java: A Shopping Cart Example with Custom Classes](https://dev.to/mspilari/understanding-generics-in-java-a-shopping-cart-example-with-custom-classes-392p)
-- [Seeder vs Factory: Populating Test Data in Laravel](https://dev.to/varzoeaa/seeder-vs-factory-populating-test-data-in-laravel-2308)
-- [VMware Blast vs. PCoIP vs. RDP Performance: A Detailed Comparison](https://dev.to/davidjonson/vmware-blast-vs-pcoip-vs-rdp-performance-a-detailed-comparison-2d50)
-- [Keyword:Abstract-Extends,Interface-Implements](https://dev.to/neelakandan_ravi_2000/keywordabstract-extendsinterface-implements-1ioh)
+- [Transactions in Microservices: Part 1 - SAGA Patterns overview.](https://dev.to/federico_bevione/transactions-in-microservices-part-1-saga-patterns-with-choreography-and-orchestration-4an9)
+- [I built an AI Indie hacker that can research and make MVPs in minutes 🚀 🔥](https://dev.to/composiodev/i-built-an-ai-indie-hacker-that-can-research-and-make-mvps-in-minutes-1j8j)
+- [Reliving the Spirit of InnOlympics 2025](https://dev.to/kakacomputer-media/reliving-the-spirit-of-innolympics-2025-5d0o)
+- [Daily JavaScript Challenge #JS-78: Find the Most Frequent Element](https://dev.to/dpc/daily-javascript-challenge-js-78-find-the-most-frequent-element-4lma)
+- [Top 10 Data and AI Trends to Watch in 2025](https://dev.to/hardiksankhla/top-10-data-and-ai-trends-to-watch-in-2025-4ih1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
