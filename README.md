@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Zoneless in Angular: A New Era of Change Detection](https://dev.to/houdass/embracing-zoneless-in-angular-a-new-era-of-change-detection-53hj)
-- [The 2025 Comprehensive Guide to Apache Iceberg](https://dev.to/alexmercedcoder/the-2025-comprehensive-guide-to-apache-iceberg-2g22)
-- [Full screen ad with js displaying after some seconds](https://dev.to/fscss-ttr/full-screen-ad-with-js-displaying-after-some-seconds-4gnb)
-- [Commercial Website with Next.js 15, TypeScript and Tailwind CSS 🚀](https://dev.to/seyma/commercial-website-with-nextjs-15-typescript-and-tailwind-css-3p88)
-- [Introducing Hashtagify: Easy Hashtag Creation for VS Code](https://dev.to/geeksta/introducing-hashtagify-easy-hashtag-creation-for-vs-code-8ho)
+- [Comprehensive Guide to 50+ Kubernetes Resources](https://dev.to/theyasirr/comprehensive-guide-to-50-kubernetes-resources-34k)
+- [Декоратори](https://dev.to/gr555/diekoratori-1jlc)
+- [Comprehensive Guide to Security Automation in Software Development](https://dev.to/mikesays/comprehensive-guide-to-security-automation-in-software-development-106f)
+- [Postmortem of my First Game Engine Project](https://dev.to/romanstanuch/postmortem-of-my-first-game-engine-project-36eh)
+- [Mindset of a Senior Engineer](https://dev.to/landb/mindset-of-a-senior-engineer-3n6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
