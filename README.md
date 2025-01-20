@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
-- [Diverse AI tools used for the C# developer](https://dev.to/karenpayneoregon/diverse-ai-tools-used-for-the-c-developer-4981)
-- [Live Resume: Take your resume online on github pages](https://dev.to/hithesh_reddivari_b646cd8/live-resume-take-your-resume-online-on-github-pages-4o5h)
-- [LifeTrackr 2025: A New Beginnings minimal visual focused app with GitHub Copilot](https://dev.to/hidde38967103/lifetrackr-2025-a-new-beginnings-minimal-visual-focused-app-with-github-copilot-1kl4)
-- [Configure EKS Cluster Security - Pod Security, Network Policies, Pod Identity](https://dev.to/aws-builders/configure-eks-cluster-security-pod-security-network-policies-pod-identity-506d)
+- [Track Your GitHub Unfollowers with Ease! 👀🚫](https://dev.to/joodi/track-your-github-unfollowers-with-ease-51je)
+- [How I passed AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/khoahd7621/how-i-passed-aws-certified-ai-practitioner-aif-c01-22d1)
+- [Software Testing Tricks: Unlocking Efficiency and Effectiveness in Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-tricks-unlocking-efficiency-and-effectiveness-in-quality-assurance-4lc3)
+- [Reactjs for Beginners](https://dev.to/amrigo/reactjs-for-beginners-1g7n)
+- [Creative Transitions Visualizer](https://dev.to/glenzzy/creative-transitions-visualizer-1cb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
