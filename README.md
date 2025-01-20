@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Native interop with Kotlin/Java in Flutter](https://dev.to/orestesgaolin/native-interop-with-kotlinjava-in-flutter-3oag)
-- [DevOps Course Roadmap for Fresher’s and Experienced Candidates](https://dev.to/techconcephub/devops-course-roadmap-for-freshers-and-experienced-candidates-3l7o)
-- [Revisitando o Artigo sobre REST: Lições e Reflexões](https://dev.to/asouza/revisitando-o-artigo-sobre-rest-licoes-e-reflexoes-4ghd)
-- [Nexis - a web-app for increased productivity](https://dev.to/keerthisri/nexis-a-web-app-for-increased-productivity-4fci)
-- [Why I don&#39;t seal my classes, and why you shouldn&#39;t either](https://dev.to/mahime/why-i-dont-seal-my-classes-and-why-you-shouldnt-either-24n8)
+- [A Frontend Developer’s Guide to the Essentials](https://dev.to/golsaesk/a-frontend-developers-guide-to-the-essentials-11j7)
+- [[Boost]](https://dev.to/leamsigc/-49bm)
+- [After Effects: The Modulo Operator &lpar;%&rpar;](https://dev.to/kocreative/after-effects-using-the-modulo-operator-in-motion-graphics-expressions-to-make-digital-and-45lj)
+- [Integración de Salesforce, Node.js y React: Una Guía Paso a Paso](https://dev.to/javiernicolasadan/integracion-de-salesforce-nodejs-y-react-una-guia-paso-a-paso-nl7)
+- [Web3 and the Future of the Internet](https://dev.to/knewton25/web3-and-the-future-of-the-internet-50an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
