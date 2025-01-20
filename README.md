@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IL &lpar;Intermediate Language&rpar;](https://dev.to/madina1575/il-intermediate-language-bjh)
-- [Design Patterns Serie — Structural Chapter: Proxy Pattern](https://dev.to/bryam_vega_487231d2d7c62e/design-patterns-serie-structural-chapter-proxy-pattern-ji0)
-- [Automate Your Job Search: Scraping 400+ LinkedIn Jobs with Python](https://dev.to/franciscomoretti/automate-your-job-search-scraping-400-linkedin-jobs-with-python-47c0)
-- [Game over… Copilot is now free](https://dev.to/fabianfrankwerner/game-over-copilot-is-now-free-2nak)
-- [CLR &lpar; Common Language Runtime&rpar;](https://dev.to/madina1575/clr-common-language-runtime-4b9c)
+- [Embracing Zoneless in Angular: A New Era of Change Detection](https://dev.to/houdass/embracing-zoneless-in-angular-a-new-era-of-change-detection-53hj)
+- [The 2025 Comprehensive Guide to Apache Iceberg](https://dev.to/alexmercedcoder/the-2025-comprehensive-guide-to-apache-iceberg-2g22)
+- [Full screen ad with js displaying after some seconds](https://dev.to/fscss-ttr/full-screen-ad-with-js-displaying-after-some-seconds-4gnb)
+- [Commercial Website with Next.js 15, TypeScript and Tailwind CSS 🚀](https://dev.to/seyma/commercial-website-with-nextjs-15-typescript-and-tailwind-css-3p88)
+- [Introducing Hashtagify: Easy Hashtag Creation for VS Code](https://dev.to/geeksta/introducing-hashtagify-easy-hashtag-creation-for-vs-code-8ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
