@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Frontend Developer’s Guide to the Essentials](https://dev.to/golsaesk/a-frontend-developers-guide-to-the-essentials-11j7)
-- [[Boost]](https://dev.to/leamsigc/-49bm)
-- [After Effects: The Modulo Operator &lpar;%&rpar;](https://dev.to/kocreative/after-effects-using-the-modulo-operator-in-motion-graphics-expressions-to-make-digital-and-45lj)
-- [Integración de Salesforce, Node.js y React: Una Guía Paso a Paso](https://dev.to/javiernicolasadan/integracion-de-salesforce-nodejs-y-react-una-guia-paso-a-paso-nl7)
-- [Web3 and the Future of the Internet](https://dev.to/knewton25/web3-and-the-future-of-the-internet-50an)
+- [12 Simple Lessons for Developers and Founders](https://dev.to/0x2e_tech/12-simple-lessons-for-developers-and-founders-5egc)
+- [One small step for a Dev, one giant leap for 2025](https://dev.to/shaq_attack/one-small-step-for-a-dev-one-giant-leap-for-2025-1hl5)
+- [Golang Vs. Python Performance: Which Programming Language Is Better?](https://dev.to/elinav/golang-vs-python-performance-which-programming-language-is-better-1lf3)
+- [What is Network Access Control&lpar;NAC&rpar;?](https://dev.to/clouddefenseai/what-is-network-access-controlnac-1hgf)
+- [Effortless File Transfers &lpar;SFTP&rpar; with AWS Transfer Family and S3: A Step-by-Step Guide](https://dev.to/stackgenie/effortless-file-transfers-sftp-with-aws-transfer-family-and-s3-a-step-by-step-guide-1lfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
