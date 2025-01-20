@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Simple Lessons for Developers and Founders](https://dev.to/0x2e_tech/12-simple-lessons-for-developers-and-founders-5egc)
-- [One small step for a Dev, one giant leap for 2025](https://dev.to/shaq_attack/one-small-step-for-a-dev-one-giant-leap-for-2025-1hl5)
-- [Golang Vs. Python Performance: Which Programming Language Is Better?](https://dev.to/elinav/golang-vs-python-performance-which-programming-language-is-better-1lf3)
-- [What is Network Access Control&lpar;NAC&rpar;?](https://dev.to/clouddefenseai/what-is-network-access-controlnac-1hgf)
-- [Effortless File Transfers &lpar;SFTP&rpar; with AWS Transfer Family and S3: A Step-by-Step Guide](https://dev.to/stackgenie/effortless-file-transfers-sftp-with-aws-transfer-family-and-s3-a-step-by-step-guide-1lfc)
+- [Clases anónimas en Java](https://dev.to/asjordi/clases-anonimas-en-java-44cp)
+- [Understanding Generics in Java: A Shopping Cart Example with Custom Classes](https://dev.to/mspilari/understanding-generics-in-java-a-shopping-cart-example-with-custom-classes-392p)
+- [Seeder vs Factory: Populating Test Data in Laravel](https://dev.to/varzoeaa/seeder-vs-factory-populating-test-data-in-laravel-2308)
+- [VMware Blast vs. PCoIP vs. RDP Performance: A Detailed Comparison](https://dev.to/davidjonson/vmware-blast-vs-pcoip-vs-rdp-performance-a-detailed-comparison-2d50)
+- [Keyword:Abstract-Extends,Interface-Implements](https://dev.to/neelakandan_ravi_2000/keywordabstract-extendsinterface-implements-1ioh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
