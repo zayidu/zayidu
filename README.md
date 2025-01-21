@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [800+ Free Template Websites Every Developer Should Know](https://dev.to/justin3go/800-free-template-websites-every-developer-should-know-de7)
-- [Migrating CloudFormation to TF](https://dev.to/aws-builders/migrating-cloudformation-to-tf-bo9)
-- [Organizing Playwright Tests Effectively](https://dev.to/debs_obrien/organizing-playwright-tests-effectively-2hi0)
-- [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
-- [Takeaways from the DeepSeek-R1 model](https://dev.to/aws/takeaways-from-the-deepseek-r1-model-2dli)
+- [How to Troubleshoot a Failed Re-creation of Google Cloud Certificate Manager Resources with Terraform](https://dev.to/nomi3/how-to-troubleshoot-a-failed-re-creation-of-google-cloud-certificate-manager-resources-with-fok)
+- [Surprising side effect of running EKS Auto Mode](https://dev.to/vijaykodam/surprising-side-effect-of-running-eks-auto-mode-3oj8)
+- [useMemo in ReactJs](https://dev.to/sajakshrestha8/usememo-in-reactjs-449)
+- [7 MIND-BLOWING Hugging Face AI Projects That Will CHANGE Your Life 🚀](https://dev.to/awaisz99/7-mind-blowing-hugging-face-ai-projects-that-will-change-your-life-nm5)
+- [Why I Love: git reset --hard](https://dev.to/namanvashistha/why-i-love-git-reset-hard-49np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
