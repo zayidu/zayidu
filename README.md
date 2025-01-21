@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Gateway as Websocket](https://dev.to/amitkayal/api-gateway-as-websocket-5eee)
-- [Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025](https://dev.to/jetthoughts/why-choosing-the-right-mvp-software-development-company-is-crucial-for-startup-success-in-2025-52k0)
-- [Developer Machine Restrictions: Balancing Security and Productivity 🚧](https://dev.to/gameon_gameover_8f18dbb85/developer-machine-restrictions-balancing-security-and-productivity-460n)
-- [Business Analytics vs. Data Analytics – Difference Explained](https://dev.to/techeminds/business-analytics-vs-data-analytics-difference-explained-che)
-- [9 Essential Facts About the SharePoint Online Recycle Bin](https://dev.to/jaloplo/9-essential-facts-about-the-sharepoint-online-recycle-bin-1b3a)
+- [No Spikes](https://dev.to/markblandford/no-spikes-547m)
+- [Does Procrastination Kill Our Career?](https://dev.to/vuelancer/does-procrastination-kill-our-career-5con)
+- [Jio and Polygon Labs: Are They Threatening the Future of Blockchain in India?](https://dev.to/deploytokens/jio-and-polygon-labs-are-they-threatening-the-future-of-blockchain-in-india-4b5p)
+- [Tech innovator](https://dev.to/lukaylm/tech-innovator-n4f)
+- [Run PySpark Local Python Windows Notebook](https://dev.to/chuongmep/run-pyspark-local-python-windows-notebook-ngg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
