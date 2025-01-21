@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lo mejor de la comunidad son las personas](https://dev.to/barbara_gaspar/lo-mejor-de-la-comunidad-son-las-personas-2101)
-- [Human Factors in Software Production Part 1](https://dev.to/ourai/human-factors-in-software-production-part-1-59kf)
-- [Server Actions in React with Next.js: A Beginner&#39;s Guide](https://dev.to/ivmarcos/server-actions-in-react-with-nextjs-a-beginners-guide-4j12)
-- [C++12 code&lpar;nested if --&gt;Max number &rpar;](https://dev.to/md-salah/c12-codenested-if-max-number--4d73)
-- [UI Design Trends In 2025](https://dev.to/souptikdn/ui-design-trends-in-2025-252g)
+- [How Programming Will Look In the Future?](https://dev.to/emil14/how-programming-will-look-in-the-future-5bj4)
+- [SEO for Next.js Developers: A Complete Beginner&#39;s Guide](https://dev.to/dannypreye/seo-for-nextjs-developers-a-complete-beginners-guide-5cmm)
+- [Agent AI as you personal gym trainer](https://dev.to/binarygarage/agent-ai-as-you-personal-gym-trainer-23n9)
+- [Azure Bicep parameters](https://dev.to/omiossec/azure-bicep-parameters-mc6)
+- [Reviving An Outdated Project](https://dev.to/udayr/reviving-an-outdated-project-3eij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
