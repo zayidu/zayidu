@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working remotely effectively](https://dev.to/sinaptia_dev/working-remotely-effectively-a9f)
-- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-3ba2)
-- [Shift-Left Testing: Transforming Software Quality Through Early and Continuous Testing](https://dev.to/arun_pal_3ce740a137cf15ad/shift-left-testing-transforming-software-quality-through-early-and-continuous-testing-3mnm)
-- [Understanding Vite’s File Structure: Why index.html Belongs at the Root](https://dev.to/codedir/understanding-vites-file-structure-why-indexhtml-belongs-at-the-root-5a0h)
-- [The Role of AI in Automating Software Deployment: Revolutionizing DevOps and Efficiency](https://dev.to/adityabhuyan/the-role-of-ai-in-automating-software-deployment-revolutionizing-devops-and-efficiency-5d9j)
+- [SPO600: First Lab](https://dev.to/amullagaliev/spo600-first-lab-3396)
+- [Sql basic command 2](https://dev.to/sachin841/sql-basic-command-2-5e3)
+- [Desbravando Go: Capítulo 2 – Estrutura dos Programas](https://dev.to/caio_rodriguesbackend/desbravando-go-capitulo-2-estrutura-dos-programas-530)
+- [Promise.all&lpar;&rpar;](https://dev.to/pullreview/promiseall-41mh)
+- [Hello Dev.to!](https://dev.to/clasnake/hello-devto-50if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
