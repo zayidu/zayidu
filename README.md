@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Entra Connect Sync: Bridging On-Premises and Cloud Identity Systems](https://dev.to/kapusto/microsoft-entra-connect-sync-bridging-on-premises-and-cloud-identity-systems-23o1)
-- [JavaScript Array Methods, Under the Hood &lpar;Part 1/2&rpar;](https://dev.to/egroene/javascript-array-methods-under-the-hood-part-12-257g)
-- [Clean Coder not only codes - it manages whole project by it own](https://dev.to/grigorij_dudnik/clean-coder-not-only-codes-it-manages-whole-project-by-it-own-g9j)
-- [“It Happened: My Immersive Journey at DevFest 2024 — A Blend of Innovation and Inspiration”](https://dev.to/saumya_pratapsingh_b79df/it-happened-my-immersive-journey-at-devfest-2024-a-blend-of-innovation-and-inspiration-1heg)
-- [Creating a HIPAA Risk Assessment Checklist: A Comprehensive Guide to Protecting Patient Data](https://dev.to/kapusto/creating-a-hipaa-risk-assessment-checklist-a-comprehensive-guide-to-protecting-patient-data-3eja)
+- [Automating Python Code Linting with GitHub Actions](https://dev.to/namanvashistha/automating-python-code-linting-with-github-actions-1p6f)
+- [Basic SQL Operations &lpar;CRUD&rpar;](https://dev.to/arjun98k/basic-sql-operations-crud-ofg)
+- [Playwright Mobile Testing: A Comprehensive Guide](https://dev.to/mikesays/playwright-mobile-testing-a-comprehensive-guide-2enm)
+- [Capitalizing Words in PostgreSQL: Handling Hyphenated Words and More](https://dev.to/subrata71/capitalizing-words-in-postgresql-handling-hyphenated-words-and-more-1l63)
+- [Striking the Right Balance: The Perils of Over-Engineering and Under-Designing](https://dev.to/mariliatirachi62/striking-the-right-balance-the-perils-of-over-engineering-and-under-designing-27h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
