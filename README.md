@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Scenes: Key takeaways from our Smart India Hackathon 2024 experience.](https://dev.to/macroandmicro/behind-the-scenes-key-takeaways-from-our-smart-india-hackathon-2024-experience-5glc)
-- [Mastering JWT &lpar;JSON Web Tokens&rpar;: A Deep Dive](https://dev.to/leapcell/mastering-jwt-json-web-tokens-a-deep-dive-3o36)
-- [My Journey into Full-Stack Development: A Beginner&#39;s Perspective](https://dev.to/benjaminmweribaya/my-journey-into-full-stack-development-a-beginners-perspective-48oh)
-- [AceHack 4.0: March 2025’s Most Anticipated Tech Event](https://dev.to/acehack/acehack-40-march-2025s-most-anticipated-tech-event-1ml)
-- [Merge Sort Algorithm](https://dev.to/ifandika/merge-sort-algorithm-n4i)
+- [JavaScript Basics: Your First Step Into Web Development](https://dev.to/majeedatwahab/javascript-basics-your-first-step-into-web-development-5l2)
+- [Design Patterns #1: Strategy – A Different Perspective.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98)
+- [What Is Privileged Access Management &lpar;PAM&rpar;?](https://dev.to/clouddefenseai/what-is-privileged-access-management-pam-5ccd)
+- [2024 Annual Summary](https://dev.to/ryan_zhi/2024-annual-summary-2881)
+- [Choose Dedicated Team Model to Build Next Gen Product](https://dev.to/shahidmansuri1/choose-dedicated-team-model-to-build-next-gen-product-49id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
