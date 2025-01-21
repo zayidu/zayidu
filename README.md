@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven Testing: Revolutionizing the Future of Software Quality Assurance](https://dev.to/anil_csimplifyit_905c/ai-driven-testing-revolutionizing-the-future-of-software-quality-assurance-18p7)
-- [Getting Started With Terraform! Deploying an AWS EC2 Instance](https://dev.to/johnogbonna/getting-started-with-terraform-deploying-an-aws-ec2-instance-51hg)
-- [🚀 Dica de Ouro para 2025: Seu Currículo é Seu Cartão de Visita!](https://dev.to/robsonamendonca/dica-de-ouro-para-2025-seu-curriculo-e-seu-cartao-de-visita-p78)
-- [Nest.Js best practice](https://dev.to/bsachref/nestjs-best-practice-85)
-- [&quot;Revolutionizing Education: How AI-Powered Agents Enhance Learning Efficiency&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-education-how-ai-powered-agents-enhance-learning-efficiency-1nme)
+- [NPM:Node Package Manager](https://dev.to/srushti_kulkarni_ff24f6a2/npmnode-package-manager-5726)
+- [Orientação a Objetos em C? Implementando uma interface do zero.](https://dev.to/andreyarthur/orientacao-a-objetos-em-c-implementando-uma-interface-do-zero-4o9m)
+- [Object-Oriented Programming in C? Implementing an Interface from Scratch](https://dev.to/andreyarthur/object-oriented-programming-in-c-implementing-an-interface-from-scratch-3715)
+- [No connection could be made because the target machine actively refused it.](https://dev.to/awan/no-connection-could-be-made-because-the-target-machine-actively-refused-it-glm)
+- [Building a Dynamic Carousel Component with Shadcn UI, ViteJS, TailwindCSS, and ReactJS &lpar;with TypeScript&rpar;](https://dev.to/remy349/building-a-dynamic-carousel-component-with-shadcn-ui-vitejs-tailwindcss-and-reactjs-with-4b80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
