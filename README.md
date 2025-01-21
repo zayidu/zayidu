@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-55kb)
-- [How to Use cURL With Proxy](https://dev.to/crawlbase/how-to-use-curl-with-proxy-21ie)
-- [The DRY Principle in Programming: Why It’s Not Always the Best Approach](https://dev.to/anjan_shrestha_0cc0f59226/the-dry-principle-in-programming-why-its-not-always-the-best-approach-53il)
-- [Scale Docker without K8s or Swarm](https://dev.to/iamsujit/scale-docker-without-k8s-or-swarm-19an)
-- [Using React with Astro: A Quick Tutorial](https://dev.to/mapineda/using-react-with-astro-a-quick-tutorial-1oh4)
+- [Microsoft Entra Connect Sync: Bridging On-Premises and Cloud Identity Systems](https://dev.to/kapusto/microsoft-entra-connect-sync-bridging-on-premises-and-cloud-identity-systems-23o1)
+- [JavaScript Array Methods, Under the Hood &lpar;Part 1/2&rpar;](https://dev.to/egroene/javascript-array-methods-under-the-hood-part-12-257g)
+- [Clean Coder not only codes - it manages whole project by it own](https://dev.to/grigorij_dudnik/clean-coder-not-only-codes-it-manages-whole-project-by-it-own-g9j)
+- [“It Happened: My Immersive Journey at DevFest 2024 — A Blend of Innovation and Inspiration”](https://dev.to/saumya_pratapsingh_b79df/it-happened-my-immersive-journey-at-devfest-2024-a-blend-of-innovation-and-inspiration-1heg)
+- [Creating a HIPAA Risk Assessment Checklist: A Comprehensive Guide to Protecting Patient Data](https://dev.to/kapusto/creating-a-hipaa-risk-assessment-checklist-a-comprehensive-guide-to-protecting-patient-data-3eja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
