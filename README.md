@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a multi-node K3s setup with HA capable egress](https://dev.to/trekkiecoder/setup-a-multi-node-k3s-setup-with-ha-capable-egress-1h4m)
-- [AI-Powered Smart Contracts: The Future Of Automated Decision-Making](https://dev.to/rahul_chandel_aff38e56755/ai-powered-smart-contracts-the-future-of-automated-decision-making-5an2)
-- [Rusty Backends](https://dev.to/ipt/rusty-backends-3551)
-- [Day 5: Python Lists Demystified: Tips, Tricks, and Best Practices](https://dev.to/praneeth_647b9830399cd2b7/day-5-python-lists-demystified-tips-tricks-and-best-practices-4mn3)
-- [How to handle content state for a writing project](https://dev.to/ramijames/how-to-handle-content-state-for-a-writing-project-2h6d)
+- [API Gateway as Websocket](https://dev.to/amitkayal/api-gateway-as-websocket-5eee)
+- [Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025](https://dev.to/jetthoughts/why-choosing-the-right-mvp-software-development-company-is-crucial-for-startup-success-in-2025-52k0)
+- [Developer Machine Restrictions: Balancing Security and Productivity 🚧](https://dev.to/gameon_gameover_8f18dbb85/developer-machine-restrictions-balancing-security-and-productivity-460n)
+- [Business Analytics vs. Data Analytics – Difference Explained](https://dev.to/techeminds/business-analytics-vs-data-analytics-difference-explained-che)
+- [9 Essential Facts About the SharePoint Online Recycle Bin](https://dev.to/jaloplo/9-essential-facts-about-the-sharepoint-online-recycle-bin-1b3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
