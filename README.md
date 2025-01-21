@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High Availability Mathematics for Mission-Critical Systems](https://dev.to/anwaar/high-availability-mathematics-and-mission-critical-systems-51j9)
-- [Introducing Brute-XMLRPC: A Multi-Threaded WordPress Brute Force Tool 🛠️](https://dev.to/trixsec/introducing-brute-xmlrpc-a-multi-threaded-wordpress-brute-force-tool-hf7)
-- [New Infostealer: FAKE CAPTCHA and Human Verification &lpar;Novel Lumma Malware&rpar;; Detection, Prevention, and Incident Response.](https://dev.to/asi_security/new-infostealer-fake-captcha-and-human-verification-novel-lumma-malware-detection-prevention-13a1)
-- [Engineering with AI: Enhancing the Software Development Landscape](https://dev.to/justdigitallyemma/engineering-with-ai-enhancing-the-software-development-landscape-1bhm)
-- [How to set up a .NET Project: A Step-by-Step Guide](https://dev.to/nghiemledo/how-to-set-up-a-net-project-a-step-by-step-guide-41dn)
+- [How to Fix Weak TLS/SSL Configuration in Laravel](https://dev.to/pentest_testing_corp/how-to-fix-weak-tlsssl-configuration-in-laravel-p9n)
+- [How to Configure SSH for GitHub Authentication on Windows](https://dev.to/jajera/how-to-configure-ssh-for-github-authentication-on-windows-34k9)
+- [Fail to push code existing repo code in the GitHub main branch](https://dev.to/jhutanda/fail-to-push-code-existing-repo-code-in-the-github-main-branch-313m)
+- [Enabling SSH in Ubuntu Server](https://dev.to/jajera/enabling-ssh-in-ubuntu-server-4n62)
+- [Configure SSH Login from Windows to Windows](https://dev.to/jajera/configure-ssh-login-from-windows-to-windows-1eio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
