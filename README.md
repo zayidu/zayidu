@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM:Node Package Manager](https://dev.to/srushti_kulkarni_ff24f6a2/npmnode-package-manager-5726)
-- [Orientação a Objetos em C? Implementando uma interface do zero.](https://dev.to/andreyarthur/orientacao-a-objetos-em-c-implementando-uma-interface-do-zero-4o9m)
-- [Object-Oriented Programming in C? Implementing an Interface from Scratch](https://dev.to/andreyarthur/object-oriented-programming-in-c-implementing-an-interface-from-scratch-3715)
-- [No connection could be made because the target machine actively refused it.](https://dev.to/awan/no-connection-could-be-made-because-the-target-machine-actively-refused-it-glm)
-- [Building a Dynamic Carousel Component with Shadcn UI, ViteJS, TailwindCSS, and ReactJS &lpar;with TypeScript&rpar;](https://dev.to/remy349/building-a-dynamic-carousel-component-with-shadcn-ui-vitejs-tailwindcss-and-reactjs-with-4b80)
+- [Working remotely effectively](https://dev.to/sinaptia_dev/working-remotely-effectively-a9f)
+- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-3ba2)
+- [Shift-Left Testing: Transforming Software Quality Through Early and Continuous Testing](https://dev.to/arun_pal_3ce740a137cf15ad/shift-left-testing-transforming-software-quality-through-early-and-continuous-testing-3mnm)
+- [Understanding Vite’s File Structure: Why index.html Belongs at the Root](https://dev.to/codedir/understanding-vites-file-structure-why-indexhtml-belongs-at-the-root-5a0h)
+- [The Role of AI in Automating Software Deployment: Revolutionizing DevOps and Efficiency](https://dev.to/adityabhuyan/the-role-of-ai-in-automating-software-deployment-revolutionizing-devops-and-efficiency-5d9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
