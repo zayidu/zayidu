@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Next.js Application: The Basic Defenders &lpar;Security Headers&rpar;](https://dev.to/simplr_sh/securing-your-nextjs-application-the-basic-defenders-security-headers-o31)
-- [Troubleshooting Docker Desktop: Tips and Alternatives for Developers](https://dev.to/autumn_tonita1/troubleshooting-docker-desktop-tips-and-alternatives-for-developers-an6)
-- [Aboat Ehsan Yousefian - Web Developer](https://dev.to/ehsanyousefian/aboat-ehsan-yousefian-web-developer-5coc)
-- [Nextjs Dockerfile](https://dev.to/mehmetakar/nextjs-dockerfile-d5p)
-- [AWS&#39;s Game-Changing Innovations for Database Scaling: Aurora Serverless v2, Aurora Limitless Database, and RDS Data API](https://dev.to/aws-builders/awss-game-changing-innovations-for-database-scaling-aurora-serverless-v2-aurora-limitless-4olc)
+- [Sociable Unit Test simplified](https://dev.to/wbauweraerts/sociable-unit-test-simplified-20bp)
+- [Top 7 Headless UI Libraries for React Developers](https://dev.to/joodi/top-6-headless-ui-libraries-for-react-developers-3mfi)
+- [C++ 11th code&lpar;cmath--&gt;abs&rpar;](https://dev.to/md-salah/c-11th-codecmath-abs-3j34)
+- [Let’s Build a Color Code Converter With React Together!](https://dev.to/aulneia_voen_d34e417adb55/lets-build-a-color-code-converter-with-react-together-4nb6)
+- [Cloud-Based Pharma CRM: A Technical Comparison](https://dev.to/pharmacrm/cloud-based-pharma-crm-a-technical-comparison-5gee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
