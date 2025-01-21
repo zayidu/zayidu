@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SPO600: First Lab](https://dev.to/amullagaliev/spo600-first-lab-3396)
-- [Sql basic command 2](https://dev.to/sachin841/sql-basic-command-2-5e3)
-- [Desbravando Go: Capítulo 2 – Estrutura dos Programas](https://dev.to/caio_rodriguesbackend/desbravando-go-capitulo-2-estrutura-dos-programas-530)
-- [Promise.all&lpar;&rpar;](https://dev.to/pullreview/promiseall-41mh)
-- [Hello Dev.to!](https://dev.to/clasnake/hello-devto-50if)
+- [High Availability Mathematics for Mission-Critical Systems](https://dev.to/anwaar/high-availability-mathematics-and-mission-critical-systems-51j9)
+- [Introducing Brute-XMLRPC: A Multi-Threaded WordPress Brute Force Tool 🛠️](https://dev.to/trixsec/introducing-brute-xmlrpc-a-multi-threaded-wordpress-brute-force-tool-hf7)
+- [New Infostealer: FAKE CAPTCHA and Human Verification &lpar;Novel Lumma Malware&rpar;; Detection, Prevention, and Incident Response.](https://dev.to/asi_security/new-infostealer-fake-captcha-and-human-verification-novel-lumma-malware-detection-prevention-13a1)
+- [Engineering with AI: Enhancing the Software Development Landscape](https://dev.to/justdigitallyemma/engineering-with-ai-enhancing-the-software-development-landscape-1bhm)
+- [How to set up a .NET Project: A Step-by-Step Guide](https://dev.to/nghiemledo/how-to-set-up-a-net-project-a-step-by-step-guide-41dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
