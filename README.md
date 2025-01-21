@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Basics: Your First Step Into Web Development](https://dev.to/majeedatwahab/javascript-basics-your-first-step-into-web-development-5l2)
-- [Design Patterns #1: Strategy – A Different Perspective.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98)
-- [What Is Privileged Access Management &lpar;PAM&rpar;?](https://dev.to/clouddefenseai/what-is-privileged-access-management-pam-5ccd)
-- [2024 Annual Summary](https://dev.to/ryan_zhi/2024-annual-summary-2881)
-- [Choose Dedicated Team Model to Build Next Gen Product](https://dev.to/shahidmansuri1/choose-dedicated-team-model-to-build-next-gen-product-49id)
+- [800+ Free Template Websites Every Developer Should Know](https://dev.to/justin3go/800-free-template-websites-every-developer-should-know-de7)
+- [Migrating CloudFormation to TF](https://dev.to/aws-builders/migrating-cloudformation-to-tf-bo9)
+- [Organizing Playwright Tests Effectively](https://dev.to/debs_obrien/organizing-playwright-tests-effectively-2hi0)
+- [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
+- [Takeaways from the DeepSeek-R1 model](https://dev.to/aws/takeaways-from-the-deepseek-r1-model-2dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
