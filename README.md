@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Troubleshoot a Failed Re-creation of Google Cloud Certificate Manager Resources with Terraform](https://dev.to/nomi3/how-to-troubleshoot-a-failed-re-creation-of-google-cloud-certificate-manager-resources-with-fok)
-- [Surprising side effect of running EKS Auto Mode](https://dev.to/vijaykodam/surprising-side-effect-of-running-eks-auto-mode-3oj8)
-- [useMemo in ReactJs](https://dev.to/sajakshrestha8/usememo-in-reactjs-449)
-- [7 MIND-BLOWING Hugging Face AI Projects That Will CHANGE Your Life 🚀](https://dev.to/awaisz99/7-mind-blowing-hugging-face-ai-projects-that-will-change-your-life-nm5)
-- [Why I Love: git reset --hard](https://dev.to/namanvashistha/why-i-love-git-reset-hard-49np)
+- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-55kb)
+- [How to Use cURL With Proxy](https://dev.to/crawlbase/how-to-use-curl-with-proxy-21ie)
+- [The DRY Principle in Programming: Why It’s Not Always the Best Approach](https://dev.to/anjan_shrestha_0cc0f59226/the-dry-principle-in-programming-why-its-not-always-the-best-approach-53il)
+- [Scale Docker without K8s or Swarm](https://dev.to/iamsujit/scale-docker-without-k8s-or-swarm-19an)
+- [Using React with Astro: A Quick Tutorial](https://dev.to/mapineda/using-react-with-astro-a-quick-tutorial-1oh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
