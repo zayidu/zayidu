@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to data analysis with Python: Part 2 - Lists, Tuples and Dictionaries](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-2-lists-tuples-and-dictionaries-40ee)
-- [A Journey of a Million Small Steps](https://dev.to/devcecelia/a-journey-of-a-million-small-steps-1kd6)
-- [Knowledge Networks Resilience](https://dev.to/d1d4c/knowledge-networks-resilience-2dgf)
-- [Problemas reais x Problemas imaginários](https://dev.to/hugaomarques/problemas-reais-x-problemas-imaginarios-26g7)
-- [JavaScript Project Ideas to Elevate Your Coding Skills](https://dev.to/durgesh_chaudhari_04/javascript-project-ideas-to-elevate-your-coding-skills-44a5)
+- [AI-Driven Testing: Revolutionizing the Future of Software Quality Assurance](https://dev.to/anil_csimplifyit_905c/ai-driven-testing-revolutionizing-the-future-of-software-quality-assurance-18p7)
+- [Getting Started With Terraform! Deploying an AWS EC2 Instance](https://dev.to/johnogbonna/getting-started-with-terraform-deploying-an-aws-ec2-instance-51hg)
+- [🚀 Dica de Ouro para 2025: Seu Currículo é Seu Cartão de Visita!](https://dev.to/robsonamendonca/dica-de-ouro-para-2025-seu-curriculo-e-seu-cartao-de-visita-p78)
+- [Nest.Js best practice](https://dev.to/bsachref/nestjs-best-practice-85)
+- [&quot;Revolutionizing Education: How AI-Powered Agents Enhance Learning Efficiency&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-education-how-ai-powered-agents-enhance-learning-efficiency-1nme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
