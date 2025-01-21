@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Weak TLS/SSL Configuration in Laravel](https://dev.to/pentest_testing_corp/how-to-fix-weak-tlsssl-configuration-in-laravel-p9n)
-- [How to Configure SSH for GitHub Authentication on Windows](https://dev.to/jajera/how-to-configure-ssh-for-github-authentication-on-windows-34k9)
-- [Fail to push code existing repo code in the GitHub main branch](https://dev.to/jhutanda/fail-to-push-code-existing-repo-code-in-the-github-main-branch-313m)
-- [Enabling SSH in Ubuntu Server](https://dev.to/jajera/enabling-ssh-in-ubuntu-server-4n62)
-- [Configure SSH Login from Windows to Windows](https://dev.to/jajera/configure-ssh-login-from-windows-to-windows-1eio)
+- [Setup a multi-node K3s setup with HA capable egress](https://dev.to/trekkiecoder/setup-a-multi-node-k3s-setup-with-ha-capable-egress-1h4m)
+- [AI-Powered Smart Contracts: The Future Of Automated Decision-Making](https://dev.to/rahul_chandel_aff38e56755/ai-powered-smart-contracts-the-future-of-automated-decision-making-5an2)
+- [Rusty Backends](https://dev.to/ipt/rusty-backends-3551)
+- [Day 5: Python Lists Demystified: Tips, Tricks, and Best Practices](https://dev.to/praneeth_647b9830399cd2b7/day-5-python-lists-demystified-tips-tricks-and-best-practices-4mn3)
+- [How to handle content state for a writing project](https://dev.to/ramijames/how-to-handle-content-state-for-a-writing-project-2h6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
