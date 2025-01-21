@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Spikes](https://dev.to/markblandford/no-spikes-547m)
-- [Does Procrastination Kill Our Career?](https://dev.to/vuelancer/does-procrastination-kill-our-career-5con)
-- [Jio and Polygon Labs: Are They Threatening the Future of Blockchain in India?](https://dev.to/deploytokens/jio-and-polygon-labs-are-they-threatening-the-future-of-blockchain-in-india-4b5p)
-- [Tech innovator](https://dev.to/lukaylm/tech-innovator-n4f)
-- [Run PySpark Local Python Windows Notebook](https://dev.to/chuongmep/run-pyspark-local-python-windows-notebook-ngg)
+- [What is Virtual DOM in React.js](https://dev.to/kristiyanvelkov/what-is-virtual-dom-in-reactjs-58md)
+- [#134 — Convert Row-Based Table to Crosstab](https://dev.to/judith677/134-convert-row-based-table-to-crosstab-19j9)
+- [Daily HR News and Insights](https://dev.to/vdaubry/daily-hr-news-and-insights-2np8)
+- [🎉 VertiTab 2.15.0 Update](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-2150-update-1f63)
+- [Enhancing the Quality of Service &lpar;QoS&rpar; of AI Service APIs: Start with the API Gateway](https://dev.to/api7/enhancing-the-quality-of-service-qos-of-ai-service-apis-start-with-the-api-gateway-1h8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
