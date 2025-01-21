@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Python Code Linting with GitHub Actions](https://dev.to/namanvashistha/automating-python-code-linting-with-github-actions-1p6f)
-- [Basic SQL Operations &lpar;CRUD&rpar;](https://dev.to/arjun98k/basic-sql-operations-crud-ofg)
-- [Playwright Mobile Testing: A Comprehensive Guide](https://dev.to/mikesays/playwright-mobile-testing-a-comprehensive-guide-2enm)
-- [Capitalizing Words in PostgreSQL: Handling Hyphenated Words and More](https://dev.to/subrata71/capitalizing-words-in-postgresql-handling-hyphenated-words-and-more-1l63)
-- [Striking the Right Balance: The Perils of Over-Engineering and Under-Designing](https://dev.to/mariliatirachi62/striking-the-right-balance-the-perils-of-over-engineering-and-under-designing-27h4)
+- [Securing Your Next.js Application: The Basic Defenders &lpar;Security Headers&rpar;](https://dev.to/simplr_sh/securing-your-nextjs-application-the-basic-defenders-security-headers-o31)
+- [Troubleshooting Docker Desktop: Tips and Alternatives for Developers](https://dev.to/autumn_tonita1/troubleshooting-docker-desktop-tips-and-alternatives-for-developers-an6)
+- [Aboat Ehsan Yousefian - Web Developer](https://dev.to/ehsanyousefian/aboat-ehsan-yousefian-web-developer-5coc)
+- [Nextjs Dockerfile](https://dev.to/mehmetakar/nextjs-dockerfile-d5p)
+- [AWS&#39;s Game-Changing Innovations for Database Scaling: Aurora Serverless v2, Aurora Limitless Database, and RDS Data API](https://dev.to/aws-builders/awss-game-changing-innovations-for-database-scaling-aurora-serverless-v2-aurora-limitless-4olc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
