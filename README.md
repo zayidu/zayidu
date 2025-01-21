@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sociable Unit Test simplified](https://dev.to/wbauweraerts/sociable-unit-test-simplified-20bp)
-- [Top 7 Headless UI Libraries for React Developers](https://dev.to/joodi/top-6-headless-ui-libraries-for-react-developers-3mfi)
-- [C++ 11th code&lpar;cmath--&gt;abs&rpar;](https://dev.to/md-salah/c-11th-codecmath-abs-3j34)
-- [Let’s Build a Color Code Converter With React Together!](https://dev.to/aulneia_voen_d34e417adb55/lets-build-a-color-code-converter-with-react-together-4nb6)
-- [Cloud-Based Pharma CRM: A Technical Comparison](https://dev.to/pharmacrm/cloud-based-pharma-crm-a-technical-comparison-5gee)
+- [Lo mejor de la comunidad son las personas](https://dev.to/barbara_gaspar/lo-mejor-de-la-comunidad-son-las-personas-2101)
+- [Human Factors in Software Production Part 1](https://dev.to/ourai/human-factors-in-software-production-part-1-59kf)
+- [Server Actions in React with Next.js: A Beginner&#39;s Guide](https://dev.to/ivmarcos/server-actions-in-react-with-nextjs-a-beginners-guide-4j12)
+- [C++12 code&lpar;nested if --&gt;Max number &rpar;](https://dev.to/md-salah/c12-codenested-if-max-number--4d73)
+- [UI Design Trends In 2025](https://dev.to/souptikdn/ui-design-trends-in-2025-252g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
