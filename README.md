@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 des meilleurs écrans pour le télétravail en 2025](https://dev.to/xavier/top-5-des-meilleurs-ecrans-pour-le-teletravail-en-2025-3001)
-- [Uncaught &lpar;in promise&rpar; TypeError: Converting circular structure to JSON](https://dev.to/brillant_loroque_e6284f87/uncaught-in-promise-typeerror-converting-circular-structure-to-json-43m6)
-- [.NET Core Cross-Platform Development](https://dev.to/abtosoftware/net-core-cross-platform-development-j17)
-- [How JavaScript is Executed? 🤔](https://dev.to/alisamir/how-javascript-is-executed-3f3d)
-- [This new EventBridge capability simplifies your cross-account deployments](https://dev.to/vijaykodam/this-new-eventbridge-capability-simplifies-your-cross-account-deployments-3fbj)
+- [[Angular, NgRx] Tối Ưu Hiệu Năng: Phân Tách và Quản Lý State Hiệu Quả Trong Ứng Dụng](https://dev.to/quocld/angular-ngrx-toi-uu-hieu-nang-phan-tach-va-quan-ly-state-hieu-qua-trong-ung-dung-3je0)
+- [My 2025 Roadmap to Growth, Grit, and Greatness](https://dev.to/aniruddhadak/my-2025-roadmap-to-growth-grit-and-greatness-350h)
+- [#135 — Convert Crosstab to Row-Based Table](https://dev.to/judith677/135-convert-crosstab-to-row-based-table-2lki)
+- [How to Make API Documentation Easily: Guide &amp; 6 Tips for Beginners 🔥](https://dev.to/fallon_jimmy/how-to-make-api-documentation-easily-guide-6-tips-for-beginners-3agi)
+- [Using DolphinScheduler API to Achieve Efficient Batch Workflow Import and Script Deployment](https://dev.to/chen_debra_3060b21d12b1b0/using-dolphinscheduler-api-to-achieve-efficient-batch-workflow-import-and-script-deployment-3m4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
