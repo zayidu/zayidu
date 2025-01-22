@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native 0.77 Just Landed: Styling Superpowers &amp; More!](https://dev.to/mitchiemt11/react-native-077-just-landed-styling-superpowers-more-3350)
-- [Explore Free APIs for Your Projects](https://dev.to/divyeshvekariya/explore-free-apis-for-your-projects-424p)
-- [Docs-as-code in action: Documenting a Python library.](https://dev.to/emiloju/docs-as-code-in-action-documenting-a-python-library-4pbe)
-- [Master Redis: 100 Questions to Ace Your Senior-Level Interview](https://dev.to/abhay_yt_52a8e72b213be229/master-redis-100-questions-to-ace-your-senior-level-interview-2iod)
-- [AI CERTs™ Certification Path: What You’ll Learn and How It Benefits Your Career](https://dev.to/skillboosttrainer/ai-certs-certification-path-what-youll-learn-and-how-it-benefits-your-career-2n39)
+- [9 Reasons Why Children Should Not Have Homework](https://dev.to/tarunfulera/9-reasons-why-children-should-not-have-homework-5671)
+- [Best headless CMS for Next.js - Typescript support comparison](https://dev.to/flotiq/best-headless-cms-for-nextjs-typescript-support-comparison-3j14)
+- [Enhancing DX by Using Staging Services in Development](https://dev.to/woovi/enhancing-dx-by-using-staging-services-in-development-3f0d)
+- [The Ultimate Guide to Single Page Application &lpar;SPA&rpar; Development](https://dev.to/ram_fb361bc2f8f94e06772e2/the-ultimate-guide-to-single-page-application-spa-development-4ecg)
+- [Jira Mastery: 100 Advanced Interview Questions for Experienced Developers](https://dev.to/abhay_yt_52a8e72b213be229/jira-mastery-100-advanced-interview-questions-for-experienced-developers-1b54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
