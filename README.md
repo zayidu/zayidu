@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Efficiency with Express.js: Essential Tips for Developers](https://dev.to/nghiemledo/maximizing-efficiency-with-expressjs-essential-tips-for-developers-mk5)
-- [How Microservices Enhances Application Development](https://dev.to/brilworks/how-microservices-enhances-application-development-3ogd)
-- [Alert on counter discontinue in Grafana](https://dev.to/gaurang101197/alert-on-counter-discontinue-in-grafana-5fap)
-- [The Future of React: What&#39;s Coming in 2025?](https://dev.to/dhrumitdk/the-future-of-react-whats-coming-in-2025-30lb)
-- [Notate - Open Source 🚀 Multi-Model Rag Desktop Application: From Local to Cloud with Transformers, Llama &amp; More](https://dev.to/hairetsu_445a1b320866639d/notate-open-source-multi-model-rag-desktop-application-from-local-to-cloud-with-transformers-325m)
+- [Investing in Communities](https://dev.to/kingyobs/investing-in-communities-13n6)
+- [what is the purpose of java script?](https://dev.to/hema_latha/what-is-the-purpose-of-java-script-2flh)
+- [How I came up with Habit Card](https://dev.to/jithinjude/how-i-came-up-with-habit-card-5dgb)
+- [[Boost]](https://dev.to/arsalanmee/-2cln)
+- [How To Add Animated Gradient Text in Elementor?](https://dev.to/jemeeroy/animated-gradient-text-in-elementor-l9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
