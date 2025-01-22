@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays: Map](https://dev.to/oculus42/javascript-arrays-map-8nn)
-- [Mastering Delegation in Power Apps Canvas Apps: Overcoming Challenges and Misunderstood Warnings](https://dev.to/suhaassmh/mastering-delegation-in-power-apps-canvas-apps-overcoming-challenges-and-misunderstood-warnings-o03)
-- [Top 30 most asked Java OOP&#39;s Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-java-oops-questions-in-interviews-1g6g)
-- [Pandas histogram: creating histogram in Python with examples](https://dev.to/mfdupuis/pandas-histogram-creating-histogram-in-python-with-examples-1o4l)
-- [How I plan on scaling my Laravel &lpar;PHP&rpar; application](https://dev.to/vincentbean/how-i-plan-on-scaling-my-laravel-php-application-1n0n)
+- [Install pgvector on Windows](https://dev.to/mehmetakar/install-pgvector-on-windows-6gl)
+- [50+ Remote Job Websites You Need to Know About 🌍💼](https://dev.to/elliot_brenya/50-remote-job-websites-you-need-to-know-about-g34)
+- [Why Are Many Brands Migrating from Magento Enterprise &lpar;Adobe Commerce&rpar; to Shopify?](https://dev.to/deploi-dev/why-are-many-brands-migrating-from-magento-enterprise-adobe-commerce-to-shopify-3j6l)
+- [Unruggable AI Agents with ZKML](https://dev.to/filosofiacodigoen/unruggable-ai-agents-with-zkml-4hf7)
+- [Rainmaker - Sales Pre-call Planner](https://dev.to/ali_birouti_8c9a31c6dd444/rainmaker-sales-pre-call-planner-3oni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
