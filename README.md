@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Container queries in css](https://dev.to/jsha/container-queries-in-css-1221)
+- [Upgrading Ruby on Rails applications](https://dev.to/sinaptia_dev/upgrading-ruby-on-rails-applications-46nm)
+- [Security Testing: Safeguarding the Digital Frontier](https://dev.to/arun_pal_3ce740a137cf15ad/security-testing-safeguarding-the-digital-frontier-87c)
 - [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
-- [11 Useful React.js Hacks Every Developer Should Know](https://dev.to/sovannaro/11-useful-reactjs-hacks-every-developer-should-know-58po)
-- [The Daily UI 100 Day Design Challenge: Day 2 – Elevate Your UI Design Skills](https://dev.to/jds64/the-daily-ui-100-day-design-challenge-day-2-elevate-your-ui-design-skills-3cc5)
-- [Next.js SEO Comprehensive Checklist](https://dev.to/simplr_sh/nextjs-seo-comprehensive-checklist-f8j)
-- [Journaling is one of the best things you can do to take control of your thoughts](https://dev.to/jahid2121/journaling-is-one-of-the-best-things-you-can-do-to-take-control-of-your-thoughts-5fjg)
+- [This New JavaScript Operator is an Absolute Game Changer](https://dev.to/sovannaro/this-new-javascript-operator-is-an-absolute-game-changer-2fp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
