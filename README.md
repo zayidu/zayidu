@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gems I use for Rails SaaS apps](https://dev.to/railsdesigner/gems-i-use-for-rails-saas-apps-23hh)
-- [🎖️ War in the Wires : The Silent Battlefield of Cyber Warfare](https://dev.to/kkrypt0nn/war-in-the-wires-the-silent-battlefield-of-cyber-warfare-2984)
-- [My Favorite VSCode Extensions for Modern Development](https://dev.to/heydantz/my-favorite-vscode-extensions-for-modern-development-4hfd)
-- [Kapper, a Fresh Look at ORMs for Kotlin and the JVM](https://dev.to/driessamyn/kapper-a-fresh-look-at-orms-for-kotlin-and-the-jvm-1ln5)
-- [6 Must Know JavaScript Array Methods](https://dev.to/aziz999/6-must-know-javascript-array-methods-1bac)
+- [ServMon walktrough - hack the box ctf](https://dev.to/felix_tymchak_969/servmon-walktrough-hack-the-box-ctf-51ce)
+- [Maryrose Whittaker reviews the hottest topics related to VoIP and Business PBX at the start of 2025](https://dev.to/officeonc3/maryrose-whittaker-reviews-the-hottest-topics-related-to-voip-and-business-pbx-at-the-start-of-2025-5e33)
+- [Using Machine Learning to Detect Fraud](https://dev.to/rapyd/using-machine-learning-to-detect-fraud-4m91)
+- [I want to create images about the Ninja Turtles](https://dev.to/dhia_eddine_ae834bc6ba09c/i-want-to-create-images-about-the-ninja-turtles-2688)
+- [Build your own AI search engine similar to Perplexity](https://dev.to/shayy/how-to-build-a-perplexity-clone-ai-search-engine-with-ai-agents-28g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
