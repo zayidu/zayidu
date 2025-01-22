@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Read and Earn crypto tokens, Built in 1 Day with GitHub Copilot!](https://dev.to/block_experts_766a3a21915637/read-and-earn-crypto-tokens-built-in-1-day-with-github-copilot-4ha9)
-- [Building a Modern Web App: FastAPI + React TypeScript Template](https://dev.to/yagnesh97/building-a-modern-web-app-fastapi-react-typescript-template-5d88)
-- [Big O notation](https://dev.to/freshta_1_45571040cd88708/big-o-notation-2pop)
-- [Sharing data between ViewModels in Compose](https://dev.to/mardsoul/sharing-data-between-viewmodels-in-compose-15dd)
-- [Gurubase - AI-Powered Q&amp;A Assistants for Any Topic](https://dev.to/fatihbaltaci/gurubase-ai-powered-qa-assistants-for-any-topic-4g1l)
+- [Accessibility Testing: Building Inclusive Digital Experiences for All](https://dev.to/anil_csimplifyit_905c/accessibility-testing-building-inclusive-digital-experiences-for-all-2mng)
+- [Understanding Template Files in Next.js 15: The Complete Guide](https://dev.to/joodi/understanding-template-files-in-nextjs-15-the-complete-guide-4cin)
+- [ELIZA Reborn: A Journey Through Time and Code](https://dev.to/martingreenz/eliza-reborn-a-journey-through-time-and-code-1pjk)
+- [You Aren’t Gonna Need It Principle &lpar;YAGNI&rpar; Explained in 100 Seconds](https://dev.to/dzungnt98/you-arent-gonna-need-it-principle-yagni-explained-in-100-seconds-c4l)
+- [Webzite conversion &amp; traffic Improver](https://dev.to/ayabongaqwabi/webzite-conversion-traffic-improver-716)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
