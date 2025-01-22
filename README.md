@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [371 SUM OF TWO INTEGERS - leetcode - Python](https://dev.to/jaiminbariya/371-sum-of-two-integers-leetcode-python-11ff)
-- [Migrating Databases From MS SQL Server to Snowflake](https://dev.to/montemi_chelle_6c95a354f0/migrating-databases-from-ms-sql-server-to-snowflake-2c95)
-- [Use Authentication SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/use-authentication-sdk-net-autodesk-platform-services-aps-55eg)
-- [Understanding Python Selenium Waits for Efficient Automation](https://dev.to/sunmathi/understanding-python-selenium-waits-for-efficient-automation-4n01)
-- [Week 3: Exploring Preprocessing, File Handling, and Mastering Practice in C Programming](https://dev.to/adhyanjain2512/week-3-exploring-preprocessing-file-handling-and-mastering-practice-in-c-programming-5803)
+- [Top 5 des meilleurs écrans pour le télétravail en 2025](https://dev.to/xavier/top-5-des-meilleurs-ecrans-pour-le-teletravail-en-2025-3001)
+- [Uncaught &lpar;in promise&rpar; TypeError: Converting circular structure to JSON](https://dev.to/brillant_loroque_e6284f87/uncaught-in-promise-typeerror-converting-circular-structure-to-json-43m6)
+- [.NET Core Cross-Platform Development](https://dev.to/abtosoftware/net-core-cross-platform-development-j17)
+- [How JavaScript is Executed? 🤔](https://dev.to/alisamir/how-javascript-is-executed-3f3d)
+- [This new EventBridge capability simplifies your cross-account deployments](https://dev.to/vijaykodam/this-new-eventbridge-capability-simplifies-your-cross-account-deployments-3fbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
