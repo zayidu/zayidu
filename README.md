@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI Humanizers in Bridging the Gap Between Machines and Emotional Intelligence](https://dev.to/andreyana_michael/the-role-of-ai-humanizers-in-bridging-the-gap-between-machines-and-emotional-intelligence-15il)
-- [Postgresql Vector Database: Pgvector Tutorial](https://dev.to/mehmetakar/postgresql-vector-database-pgvector-tutorial-2dmd)
-- [Building Smarter Web Applications: Integrating AI into Web Development](https://dev.to/zeenox-stack/building-smarter-web-applications-integrating-ai-into-web-development-41f)
-- [Build AI Agent Connected to Unlimited APIs with Vercel&#39;s AI SDK &amp; Pica&#39;s OneTool](https://dev.to/moekatib/build-ai-agent-connected-to-unlimited-apis-with-vercels-ai-sdk-picas-onetool-1mpi)
-- [AWS APPSYNC](https://dev.to/bhavishnu/appsync-in-aws-43b5)
+- [JavaScript Arrays: Map](https://dev.to/oculus42/javascript-arrays-map-8nn)
+- [Mastering Delegation in Power Apps Canvas Apps: Overcoming Challenges and Misunderstood Warnings](https://dev.to/suhaassmh/mastering-delegation-in-power-apps-canvas-apps-overcoming-challenges-and-misunderstood-warnings-o03)
+- [Top 30 most asked Java OOP&#39;s Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-java-oops-questions-in-interviews-1g6g)
+- [Pandas histogram: creating histogram in Python with examples](https://dev.to/mfdupuis/pandas-histogram-creating-histogram-in-python-with-examples-1o4l)
+- [How I plan on scaling my Laravel &lpar;PHP&rpar; application](https://dev.to/vincentbean/how-i-plan-on-scaling-my-laravel-php-application-1n0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
