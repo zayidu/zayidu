@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your First Web App in the Cloud with AWS](https://dev.to/siddharthrane07/setting-up-your-first-web-app-in-the-cloud-with-aws-2jfj)
-- [# Creating Your First Solana Program: A Beginner’s Perspective](https://dev.to/adewumi_israel_360c3d0332/-creating-your-first-solana-program-a-beginners-perspective-40lk)
-- [First release, hot off the presses!](https://dev.to/voxpupuli/first-release-hot-off-the-presses-4fg4)
-- [Importance of Salesforce Data Cleaning for AI Implementation](https://dev.to/doriansabitov/importance-of-salesforce-data-cleaning-for-ai-implementation-1pe8)
-- [JSON-Server for Next.js 15: Everything You Need to Know](https://dev.to/joodi/json-server-for-nextjs-15-everything-you-need-to-know-4m6m)
+- [Gems I use for Rails SaaS apps](https://dev.to/railsdesigner/gems-i-use-for-rails-saas-apps-23hh)
+- [🎖️ War in the Wires : The Silent Battlefield of Cyber Warfare](https://dev.to/kkrypt0nn/war-in-the-wires-the-silent-battlefield-of-cyber-warfare-2984)
+- [My Favorite VSCode Extensions for Modern Development](https://dev.to/heydantz/my-favorite-vscode-extensions-for-modern-development-4hfd)
+- [Kapper, a Fresh Look at ORMs for Kotlin and the JVM](https://dev.to/driessamyn/kapper-a-fresh-look-at-orms-for-kotlin-and-the-jvm-1ln5)
+- [6 Must Know JavaScript Array Methods](https://dev.to/aziz999/6-must-know-javascript-array-methods-1bac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
