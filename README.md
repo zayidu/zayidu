@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Code Efficiency: How Treefix Revolutionizes Software Development&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-code-efficiency-how-treefix-revolutionizes-software-development-4hb3)
-- [What to Expect at Your First Hackathon in 2025: A Beginner’s Guide to Success](https://dev.to/vaunt/what-to-expect-at-your-first-hackathon-in-2025-a-beginners-guide-to-success-59jc)
-- [From Junior to Senior Developer: 4 Essential System Design Patterns 📈](https://dev.to/adrianartiles/from-junior-to-senior-developer-4-essential-system-design-patterns-5g60)
-- [Prime Number Generation Algorithm in Ruby](https://dev.to/daviducolo/prime-number-generation-algorithm-in-ruby-2d4e)
-- [A few month old, but still very up 2 date!](https://dev.to/per-starke-642/a-few-month-old-but-still-very-up-2-date-40jk)
+- [The Role of AI Humanizers in Bridging the Gap Between Machines and Emotional Intelligence](https://dev.to/andreyana_michael/the-role-of-ai-humanizers-in-bridging-the-gap-between-machines-and-emotional-intelligence-15il)
+- [Postgresql Vector Database: Pgvector Tutorial](https://dev.to/mehmetakar/postgresql-vector-database-pgvector-tutorial-2dmd)
+- [Building Smarter Web Applications: Integrating AI into Web Development](https://dev.to/zeenox-stack/building-smarter-web-applications-integrating-ai-into-web-development-41f)
+- [Build AI Agent Connected to Unlimited APIs with Vercel&#39;s AI SDK &amp; Pica&#39;s OneTool](https://dev.to/moekatib/build-ai-agent-connected-to-unlimited-apis-with-vercels-ai-sdk-picas-onetool-1mpi)
+- [AWS APPSYNC](https://dev.to/bhavishnu/appsync-in-aws-43b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
