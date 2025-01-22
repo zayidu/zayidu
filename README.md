@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Supabase Comments](https://dev.to/mskian/php-supabase-comments-4p52)
-- [How to Convert Iterables to Objects Using Object.fromEntries&lpar;&rpar; in JavaScript](https://dev.to/sourav_22cdd152890952704c/how-to-convert-iterables-to-objects-using-objectfromentries-in-javascript-5ba2)
-- [Bitcoin Price Predictions for 2025: Insights and Expert Views](https://dev.to/coinw/bitcoin-price-predictions-for-2025-insights-and-expert-views-21fg)
-- [adaptive-classifier: Cut your LLM costs with smart query routing &lpar;32.4% cost savings demonstrated&rpar;](https://dev.to/codelion86/adaptive-classifier-cut-your-llm-costs-with-smart-query-routing-324-cost-savings-demonstrated-1a51)
-- [Why WebAssembly is faster than JavaScript](https://dev.to/djhemath/why-webassembly-is-faster-than-javascript-2gja)
+- [Maximizing Efficiency with Express.js: Essential Tips for Developers](https://dev.to/nghiemledo/maximizing-efficiency-with-expressjs-essential-tips-for-developers-mk5)
+- [How Microservices Enhances Application Development](https://dev.to/brilworks/how-microservices-enhances-application-development-3ogd)
+- [Alert on counter discontinue in Grafana](https://dev.to/gaurang101197/alert-on-counter-discontinue-in-grafana-5fap)
+- [The Future of React: What&#39;s Coming in 2025?](https://dev.to/dhrumitdk/the-future-of-react-whats-coming-in-2025-30lb)
+- [Notate - Open Source 🚀 Multi-Model Rag Desktop Application: From Local to Cloud with Transformers, Llama &amp; More](https://dev.to/hairetsu_445a1b320866639d/notate-open-source-multi-model-rag-desktop-application-from-local-to-cloud-with-transformers-325m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
