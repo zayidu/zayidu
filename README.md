@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Angular, NgRx] Tối Ưu Hiệu Năng: Phân Tách và Quản Lý State Hiệu Quả Trong Ứng Dụng](https://dev.to/quocld/angular-ngrx-toi-uu-hieu-nang-phan-tach-va-quan-ly-state-hieu-qua-trong-ung-dung-3je0)
-- [My 2025 Roadmap to Growth, Grit, and Greatness](https://dev.to/aniruddhadak/my-2025-roadmap-to-growth-grit-and-greatness-350h)
-- [#135 — Convert Crosstab to Row-Based Table](https://dev.to/judith677/135-convert-crosstab-to-row-based-table-2lki)
-- [How to Make API Documentation Easily: Guide &amp; 6 Tips for Beginners 🔥](https://dev.to/fallon_jimmy/how-to-make-api-documentation-easily-guide-6-tips-for-beginners-3agi)
-- [Using DolphinScheduler API to Achieve Efficient Batch Workflow Import and Script Deployment](https://dev.to/chen_debra_3060b21d12b1b0/using-dolphinscheduler-api-to-achieve-efficient-batch-workflow-import-and-script-deployment-3m4e)
+- [How to Turn Off Glance: A Complete Guide to Managing Your Android Lock Screen Experience](https://dev.to/adambrooks1231/how-to-turn-off-glance-a-complete-guide-to-managing-your-android-lock-screen-experience-51ih)
+- [We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-5f8k)
+- [Need free PR maintainer? Feel free to reach out](https://dev.to/perisicnikola37/need-free-pr-maintainer-feel-free-to-reach-out-aak)
+- [PR in Fintech: Lessons for Developers](https://dev.to/andylarkin677/pr-in-fintech-lessons-for-developers-3na9)
+- [Programming Is Easy… Until It’s Not: The Truth About the programming Mindset](https://dev.to/web_dev-usman/programming-is-easy-until-its-not-the-truth-about-the-programming-mindset-3d5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
