@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install pgvector on Windows](https://dev.to/mehmetakar/install-pgvector-on-windows-6gl)
-- [50+ Remote Job Websites You Need to Know About 🌍💼](https://dev.to/elliot_brenya/50-remote-job-websites-you-need-to-know-about-g34)
-- [Why Are Many Brands Migrating from Magento Enterprise &lpar;Adobe Commerce&rpar; to Shopify?](https://dev.to/deploi-dev/why-are-many-brands-migrating-from-magento-enterprise-adobe-commerce-to-shopify-3j6l)
-- [Unruggable AI Agents with ZKML](https://dev.to/filosofiacodigoen/unruggable-ai-agents-with-zkml-4hf7)
-- [Rainmaker - Sales Pre-call Planner](https://dev.to/ali_birouti_8c9a31c6dd444/rainmaker-sales-pre-call-planner-3oni)
+- [Setting Up Your First Web App in the Cloud with AWS](https://dev.to/siddharthrane07/setting-up-your-first-web-app-in-the-cloud-with-aws-2jfj)
+- [# Creating Your First Solana Program: A Beginner’s Perspective](https://dev.to/adewumi_israel_360c3d0332/-creating-your-first-solana-program-a-beginners-perspective-40lk)
+- [First release, hot off the presses!](https://dev.to/voxpupuli/first-release-hot-off-the-presses-4fg4)
+- [Importance of Salesforce Data Cleaning for AI Implementation](https://dev.to/doriansabitov/importance-of-salesforce-data-cleaning-for-ai-implementation-1pe8)
+- [JSON-Server for Next.js 15: Everything You Need to Know](https://dev.to/joodi/json-server-for-nextjs-15-everything-you-need-to-know-4m6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
