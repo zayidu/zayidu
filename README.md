@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Testing: Building Inclusive Digital Experiences for All](https://dev.to/anil_csimplifyit_905c/accessibility-testing-building-inclusive-digital-experiences-for-all-2mng)
-- [Understanding Template Files in Next.js 15: The Complete Guide](https://dev.to/joodi/understanding-template-files-in-nextjs-15-the-complete-guide-4cin)
-- [ELIZA Reborn: A Journey Through Time and Code](https://dev.to/martingreenz/eliza-reborn-a-journey-through-time-and-code-1pjk)
-- [You Aren’t Gonna Need It Principle &lpar;YAGNI&rpar; Explained in 100 Seconds](https://dev.to/dzungnt98/you-arent-gonna-need-it-principle-yagni-explained-in-100-seconds-c4l)
-- [Webzite conversion &amp; traffic Improver](https://dev.to/ayabongaqwabi/webzite-conversion-traffic-improver-716)
+- [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
+- [11 Useful React.js Hacks Every Developer Should Know](https://dev.to/sovannaro/11-useful-reactjs-hacks-every-developer-should-know-58po)
+- [The Daily UI 100 Day Design Challenge: Day 2 – Elevate Your UI Design Skills](https://dev.to/jds64/the-daily-ui-100-day-design-challenge-day-2-elevate-your-ui-design-skills-3cc5)
+- [Next.js SEO Comprehensive Checklist](https://dev.to/simplr_sh/nextjs-seo-comprehensive-checklist-f8j)
+- [Journaling is one of the best things you can do to take control of your thoughts](https://dev.to/jahid2121/journaling-is-one-of-the-best-things-you-can-do-to-take-control-of-your-thoughts-5fjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
