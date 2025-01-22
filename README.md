@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServMon walktrough - hack the box ctf](https://dev.to/felix_tymchak_969/servmon-walktrough-hack-the-box-ctf-51ce)
-- [Maryrose Whittaker reviews the hottest topics related to VoIP and Business PBX at the start of 2025](https://dev.to/officeonc3/maryrose-whittaker-reviews-the-hottest-topics-related-to-voip-and-business-pbx-at-the-start-of-2025-5e33)
-- [Using Machine Learning to Detect Fraud](https://dev.to/rapyd/using-machine-learning-to-detect-fraud-4m91)
-- [I want to create images about the Ninja Turtles](https://dev.to/dhia_eddine_ae834bc6ba09c/i-want-to-create-images-about-the-ninja-turtles-2688)
-- [Build your own AI search engine similar to Perplexity](https://dev.to/shayy/how-to-build-a-perplexity-clone-ai-search-engine-with-ai-agents-28g1)
+- [Azure API management](https://dev.to/higor_amorim_15d165de93d4/azure-api-management-j9b)
+- [Easily Sync Your Subtitles with React, RHF and shadcn/ui](https://dev.to/joanroucoux/easily-sync-your-subtitles-with-react-rhf-and-shadcnui-3gfe)
+- [Understanding Key Concepts in Cloud Computing](https://dev.to/onyemachi_doris/understanding-key-concepts-in-cloud-computing-2mic)
+- [[Boost]](https://dev.to/yazid_ibrahim_01/-43gh)
+- [Achieving low latency with pub/sub](https://dev.to/ably/achieving-low-latency-with-pubsub-33gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
