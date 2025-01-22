@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Investing in Communities](https://dev.to/kingyobs/investing-in-communities-13n6)
-- [what is the purpose of java script?](https://dev.to/hema_latha/what-is-the-purpose-of-java-script-2flh)
-- [How I came up with Habit Card](https://dev.to/jithinjude/how-i-came-up-with-habit-card-5dgb)
-- [[Boost]](https://dev.to/arsalanmee/-2cln)
-- [How To Add Animated Gradient Text in Elementor?](https://dev.to/jemeeroy/animated-gradient-text-in-elementor-l9j)
+- [371 SUM OF TWO INTEGERS - leetcode - Python](https://dev.to/jaiminbariya/371-sum-of-two-integers-leetcode-python-11ff)
+- [Migrating Databases From MS SQL Server to Snowflake](https://dev.to/montemi_chelle_6c95a354f0/migrating-databases-from-ms-sql-server-to-snowflake-2c95)
+- [Use Authentication SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/use-authentication-sdk-net-autodesk-platform-services-aps-55eg)
+- [Understanding Python Selenium Waits for Efficient Automation](https://dev.to/sunmathi/understanding-python-selenium-waits-for-efficient-automation-4n01)
+- [Week 3: Exploring Preprocessing, File Handling, and Mastering Practice in C Programming](https://dev.to/adhyanjain2512/week-3-exploring-preprocessing-file-handling-and-mastering-practice-in-c-programming-5803)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
