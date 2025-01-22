@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Reasons Why Children Should Not Have Homework](https://dev.to/tarunfulera/9-reasons-why-children-should-not-have-homework-5671)
-- [Best headless CMS for Next.js - Typescript support comparison](https://dev.to/flotiq/best-headless-cms-for-nextjs-typescript-support-comparison-3j14)
-- [Enhancing DX by Using Staging Services in Development](https://dev.to/woovi/enhancing-dx-by-using-staging-services-in-development-3f0d)
-- [The Ultimate Guide to Single Page Application &lpar;SPA&rpar; Development](https://dev.to/ram_fb361bc2f8f94e06772e2/the-ultimate-guide-to-single-page-application-spa-development-4ecg)
-- [Jira Mastery: 100 Advanced Interview Questions for Experienced Developers](https://dev.to/abhay_yt_52a8e72b213be229/jira-mastery-100-advanced-interview-questions-for-experienced-developers-1b54)
+- [5 Must-Know Open-Source Tools for DevOps and MLOps Developers](https://dev.to/astrodevil/5-must-know-open-source-tools-for-devops-and-mlops-developers-29bp)
+- [Understanding DSA Techniques: A Beginner&#39;s Guide to Problem Solving](https://dev.to/solitrix02/understanding-dsa-techniques-a-beginners-guide-to-problem-solving-55mf)
+- [Puck 0.18: New drag-and-drop engine](https://dev.to/puckeditor/puck-018-new-drag-and-drop-engine-3h2o)
+- [LandingPost AI : Auto Generate SEO Rich Blogs, LinkedIn Posts &amp; Tweets From URL](https://dev.to/phalgun_soni/landingpost-ai-auto-generate-seo-rich-blogs-linkedin-posts-tweets-from-url-da)
+- [🚀 Your Daily Crypto Job Digest For 22 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-january-37kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
