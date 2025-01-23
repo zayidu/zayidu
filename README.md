@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Vectors: Practice Questions to Sharpen Your Skills](https://dev.to/bazengdev/mastering-vectors-practice-questions-to-sharpen-your-skills-45pk)
-- [Amazon Rekognition](https://dev.to/naveen_kumar_07c64deeca54/amazon-rekognition-3e4m)
-- [AMAZON APPFLOW](https://dev.to/kamali_s/amazon-appflow-20d4)
-- [AWS SYSTEMS MANAGER](https://dev.to/hema_22/aws-systems-manager-59g5)
-- [AWS CloudTrail](https://dev.to/mohamed_rafil/aws-cloudtrail-4e37)
+- [Dreams &amp; Cheers](https://dev.to/alptekin/dreams-cheers-daj)
+- [Managing Developer Burnout with Better Productivity Tools 💻](https://dev.to/hamzakhan/managing-developer-burnout-with-better-productivity-tools-2gn7)
+- [A Beginner’s Guide to AIOps: The Future of Automated DevOps](https://dev.to/anshul_kichara/a-beginners-guide-to-aiops-the-future-of-automated-devops-35ne)
+- [New in Dev](https://dev.to/hasanmahmud/new-in-dev-44hc)
+- [Testing Banking Apps: Ensuring Security, Functionality, and User Experience](https://dev.to/misterankit/testing-banking-apps-ensuring-security-functionality-and-user-experience-10o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
