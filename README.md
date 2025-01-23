@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
-- [Mastering React: The Complete Web Development Guide](https://dev.to/ideradevtools/mastering-react-the-complete-web-development-guide-378f)
-- [DreamDev Technologies PVT LTD](https://dev.to/dreamdev_947589cd09000835/dreamdev-technologies-pvt-ltd-25l5)
-- [Definition on global scope and local scope](https://dev.to/arikeade123/definition-on-global-scope-and-local-scope-4hbo)
-- [Understanding Kubernetes: A Beginner’s Guide](https://dev.to/hexaseo5/understanding-kubernetes-a-beginners-guide-5g2)
+- [How to Integrate Multiple Payment Gateways in NestJS &lpar;With Stripe Example&rpar;](https://dev.to/henriqueweiand/how-to-integrate-multiple-payment-gateways-in-nestjs-with-stripe-example-54pi)
+- [How Can Payable AI Models Transform Businesses in the AI Era?](https://dev.to/joinwithken/how-can-payable-ai-models-transform-businesses-in-the-ai-era-324l)
+- [JSON Unescape: Understanding and Using It Effectively](https://dev.to/keploy/json-unescape-understanding-and-using-it-effectively-4j6d)
+- [10x0 = 0](https://dev.to/linkbenjamin/10x0-0-3igh)
+- [The Evolution of Electric Vehicles: A Look at Tesla’s Impact on the Automotive Industry](https://dev.to/pushpak_chaudhari_b4083aa/the-evolution-of-electric-vehicles-a-look-at-teslas-impact-on-the-automotive-industry-3m39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
