@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure API management](https://dev.to/higor_amorim_15d165de93d4/azure-api-management-j9b)
-- [Easily Sync Your Subtitles with React, RHF and shadcn/ui](https://dev.to/joanroucoux/easily-sync-your-subtitles-with-react-rhf-and-shadcnui-3gfe)
-- [Understanding Key Concepts in Cloud Computing](https://dev.to/onyemachi_doris/understanding-key-concepts-in-cloud-computing-2mic)
-- [[Boost]](https://dev.to/yazid_ibrahim_01/-43gh)
-- [Achieving low latency with pub/sub](https://dev.to/ably/achieving-low-latency-with-pubsub-33gd)
+- [Acc Control](https://dev.to/mahir_xalilov_cd64c8cd8b1/acc-control-4pid)
+- [I Chose Ubuntu for 2025. What&#39;s Changed so far? 👀](https://dev.to/julianatsoc/i-choose-ubuntu-for-2025-whats-changed-so-far-2kn9)
+- [Local Llama Setup: A Python Developer&#39;s Guide](https://dev.to/mozes721/local-llama-setup-a-python-developers-guide-56fb)
+- [Top 5 Customer Success Tools For SaaS Products in 2025](https://dev.to/shayy/top-5-customer-success-tools-for-saas-products-in-2025-en3)
+- [#TIL: Display table and inline are incompatible with container queries](https://dev.to/nonsalant/til-display-table-and-inline-are-incompatible-with-container-queries-48l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
