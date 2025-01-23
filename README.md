@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dreams &amp; Cheers](https://dev.to/alptekin/dreams-cheers-daj)
-- [Managing Developer Burnout with Better Productivity Tools 💻](https://dev.to/hamzakhan/managing-developer-burnout-with-better-productivity-tools-2gn7)
-- [A Beginner’s Guide to AIOps: The Future of Automated DevOps](https://dev.to/anshul_kichara/a-beginners-guide-to-aiops-the-future-of-automated-devops-35ne)
-- [New in Dev](https://dev.to/hasanmahmud/new-in-dev-44hc)
-- [Testing Banking Apps: Ensuring Security, Functionality, and User Experience](https://dev.to/misterankit/testing-banking-apps-ensuring-security-functionality-and-user-experience-10o3)
+- [Heroku to Dokku: A Rails Dev&#39;s Migration Tale](https://dev.to/sulmanweb/heroku-to-dokku-a-rails-devs-migration-tale-2k5n)
+- [Unveiling Mantle: The Next-Gen Layer-2 Scaling Solution](https://dev.to/syedghufranhassan/unveiling-mantle-the-next-gen-layer-2-scaling-solution-9g2)
+- [Secrets Management Best Practices for Team Collaboration](https://dev.to/meomeo_peo/secrets-management-best-practices-for-team-collaboration-4ml)
+- [The Road Less Travelled: A Journey from Abu Dhabi to Nepal](https://dev.to/thestudentstories/the-road-less-travelled-a-journey-from-abu-dhabi-to-nepal-191n)
+- [🚀 Mastering SEO in React JS: Unlock Your Website’s Full Potential](https://dev.to/dct_technologyprivatelimited/mastering-seo-in-react-js-unlock-your-websites-full-potential-1kje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
