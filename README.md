@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is the Python crawler running so slowly? How to optimize it?](https://dev.to/98ip/why-is-the-python-crawler-running-so-slowly-how-to-optimize-it-2e27)
-- [Handling Decimal Calculations in PHP 8.4 with the New BCMath Object API](https://dev.to/takeshiyu/handling-decimal-calculations-in-php-84-with-the-new-bcmath-object-api-442j)
-- [Refactoring 022 - Extract Common Ancestor](https://dev.to/mcsee/refactoring-022-extract-common-ancestor-jml)
-- [Event-Driven Design: Choosing Between SNS, SQS, and EventBridge](https://dev.to/aws-builders/event-driven-design-choosing-between-sns-sqs-and-eventbridge-i82)
-- [Bring Your Integration &lpar;BYI&rpar;: Building Connected Ecosystems for Better User Experiences](https://dev.to/omacys/bring-your-integration-byi-building-connected-ecosystems-for-better-user-experiences-5hgj)
+- [Subtracting Vectors](https://dev.to/bazengdev/subtracting-vectors-13jk)
+- [Taking over a project, the SINAPTIA way](https://dev.to/sinaptia_dev/taking-over-a-project-the-sinaptia-way-1fjp)
+- [Fingertip.com - AI website builder with all the tools you need](https://dev.to/mblode/fingertipcom-ai-website-builder-with-all-the-tools-you-need-4l0)
+- [Basic Commands: PowerShell and Bash](https://dev.to/annavi11arrea1/basic-commands-powershell-and-bash-1ojf)
+- [What&#39;s Test Doubles?](https://dev.to/mahata/whats-test-doubles-2c59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
