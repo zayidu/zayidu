@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Dummies &lpar;Part 2&rpar;](https://dev.to/vigneshpb/docker-for-dummies-part-2-3aa9)
-- [Resolving npm Execution Policy Error in PowerShell: A Step-by-Step Guide for Developers](https://dev.to/jackfd120/resolving-npm-execution-policy-error-in-powershell-a-step-by-step-guide-for-developers-32ip)
-- [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar; Attacks: How They Work and How to Prevent Them](https://dev.to/igventurelli/understanding-cross-site-request-forgery-csrf-attacks-how-they-work-and-how-to-prevent-them-4ej7)
-- [Building an AI agent for your frontend project](https://dev.to/logrocket/building-an-ai-agent-for-your-frontend-project-5c21)
-- [Securing Access with Microsoft Entra Roles: A Guide to Effective Role Management](https://dev.to/kapusto/securing-access-with-microsoft-entra-roles-a-guide-to-effective-role-management-48eh)
+- [TIL Weekly 1](https://dev.to/uskdev/til-weekly-1-4akg)
+- [We just launched KitOps 1.0 and it&#39;s live in a slew of production environments around the world - see what&#39;s coming next for this wildly popular project!](https://dev.to/brad-micklea/we-just-launched-kitops-10-and-its-live-in-a-slew-of-production-environments-around-the-world--4ed8)
+- [From 14TB to 700GB: Optimizing Database Storage for Real-Time Monitoring](https://dev.to/timescale/from-14tb-to-700gb-optimizing-database-storage-for-real-time-monitoring-2l0p)
+- [Blue-Green and Canary Deployments: A Deep Dive into Modern Deployment Strategies](https://dev.to/klaus82/blue-green-and-canary-deployments-a-deep-dive-into-modern-deployment-strategies-48ci)
+- [What’s Next for the KitOps Project](https://dev.to/kitops/whats-next-for-the-kitops-project-279d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
