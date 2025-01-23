@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Cloud Shock: How to Set Up AWS Budgets for Predictable Expenses](https://dev.to/lindiwe09/avoiding-cloud-shock-how-to-set-up-aws-budgets-for-predictable-expenses-495h)
-- [AceHack 4.0: Where Ideas Meet Collaboration](https://dev.to/acehack/acehack-40-where-ideas-meet-collaboration-22p5)
-- [How to integrate AWS lamda serverless with Node.js Nest.js](https://dev.to/shaikhalamin/how-to-integrate-aws-lamda-serverless-with-nodejs-nestjs-5060)
-- [Best Practices for Securing Git LFS on GitHub, GitLab, Bitbucket, and Azure DevOps](https://dev.to/gitprotect/best-practices-for-securing-git-lfs-on-github-gitlab-bitbucket-and-azure-devops-hom)
-- [Terraform Backend Configuration: Local and Remote Options](https://dev.to/env0/terraform-backend-configuration-local-and-remote-options-1e0e)
+- [Docker for Dummies &lpar;Part 2&rpar;](https://dev.to/vigneshpb/docker-for-dummies-part-2-3aa9)
+- [Resolving npm Execution Policy Error in PowerShell: A Step-by-Step Guide for Developers](https://dev.to/jackfd120/resolving-npm-execution-policy-error-in-powershell-a-step-by-step-guide-for-developers-32ip)
+- [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar; Attacks: How They Work and How to Prevent Them](https://dev.to/igventurelli/understanding-cross-site-request-forgery-csrf-attacks-how-they-work-and-how-to-prevent-them-4ej7)
+- [Building an AI agent for your frontend project](https://dev.to/logrocket/building-an-ai-agent-for-your-frontend-project-5c21)
+- [Securing Access with Microsoft Entra Roles: A Guide to Effective Role Management](https://dev.to/kapusto/securing-access-with-microsoft-entra-roles-a-guide-to-effective-role-management-48eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
