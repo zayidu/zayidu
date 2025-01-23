@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Security Tips for Users and Web3 Developers](https://dev.to/cryptosandy/essential-security-tips-for-users-and-web3-developers-1j2d)
-- [How to Build an Online Bidding Web App: Key Benefits, Features, and Costs](https://dev.to/ram_fb361bc2f8f94e06772e2/how-to-build-an-online-bidding-web-app-key-benefits-features-and-costs-4291)
-- [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-cll)
-- [No Keyboard Trap](https://dev.to/sarah_borgesvazcambra_8/no-keyboard-trap-4ha8)
-- [TIL you can apply git fixup automatically with git absorb](https://dev.to/benji011/til-you-can-apply-git-fixup-automatically-with-git-absorb-44hk)
+- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
+- [Mastering React: The Complete Web Development Guide](https://dev.to/ideradevtools/mastering-react-the-complete-web-development-guide-378f)
+- [DreamDev Technologies PVT LTD](https://dev.to/dreamdev_947589cd09000835/dreamdev-technologies-pvt-ltd-25l5)
+- [Definition on global scope and local scope](https://dev.to/arikeade123/definition-on-global-scope-and-local-scope-4hbo)
+- [Understanding Kubernetes: A Beginner’s Guide](https://dev.to/hexaseo5/understanding-kubernetes-a-beginners-guide-5g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
