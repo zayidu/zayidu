@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/metal3d/-52mi)
-- [Simple backup service with rclone, restic and systemd on WebDAV &lpar;or another storage&rpar;](https://dev.to/metal3d/simple-backup-service-with-rclone-restic-and-systemd-on-webdav-or-another-storage-3dlb)
-- [Angular](https://dev.to/mohammad_makeen/angular-4i0o)
-- [I am following several tags, but nothing is showing in my feed](https://dev.to/andypk/i-am-following-several-tags-but-nothing-is-showing-in-my-feed-29f5)
-- [Introducing GitHub Kudos](https://dev.to/manuelarte/introducing-github-kudos-k83)
+- [6 Free Icon Libraries for Rails Apps](https://dev.to/railsdesigner/free-icon-libraries-for-rails-apps-26i0)
+- [Tailwind CSS 4.0 Is Here: What You Need to Know](https://dev.to/shayy/tailwind-css-40-is-here-what-you-need-to-know-484h)
+- [Retro’ing and Debugging 2024: A Year of Growth, Challenges, and Breakthroughs by Jovick-Coder](https://dev.to/jovickcoder/retroing-and-debugging-2024-a-year-of-growth-challenges-and-breakthroughs-by-jovick-coder-36l9)
+- [How To Add Swap Space on Ubuntu 22.04](https://dev.to/davidisnotnull/how-to-add-swap-space-on-ubuntu-2204-238f)
+- [Seeking Support for Something Useful](https://dev.to/darkterminal/seeking-support-for-something-useful-4ile)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
