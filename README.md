@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Managers: Navigating Complexity and Challenges](https://dev.to/sandeep_sharma_2c6860616f/engineering-managers-navigating-complexity-and-challenges-277m)
-- [🌐 Server Components vs. Client Components in Next.js: Differences, Pros, and Cons](https://dev.to/oskarinmix/server-components-vs-client-components-in-nextjs-differences-pros-and-cons-389f)
-- [Mocking com Playwright](https://dev.to/davi_limas/guia-completo-como-criar-mocking-com-playwright-3heo)
-- [How to create a Youtube video summariser agent using EnvoyJS](https://dev.to/anandrmedia/how-to-create-a-youtube-video-summariser-agent-using-envoyjs-1d10)
-- [Sidecar Pod](https://dev.to/hamza_shaukat_00279f7fa91/sidecar-pod-5e8j)
+- [Newly LAUNCHED 30+ Github Repositories for Developers.](https://dev.to/gittech/newly-launched-30-github-repositories-for-developers-3o99)
+- [Is the Software Developer Job Market Dying? 2025 and Beyond](https://dev.to/bhuwan71/is-the-software-developer-job-market-dying-2025-and-beyond-1jbp)
+- [After More than 5 Years of Maintaining WordPress Websites, Here’s What I’ve Learned](https://dev.to/andgoedu/after-more-than-5-years-of-maintaining-wordpress-websites-heres-what-ive-learned-3in5)
+- [Complete Guide to AWS Route 53: DNS Management Made Easy! 🌐](https://dev.to/techwithhari/complete-guide-to-aws-route-53-dns-management-made-easy-4el1)
+- [How to Run an AppImage Silently in the Background: A Step-by-Step Guide](https://dev.to/thekbbohara/how-to-run-an-appimage-silently-in-the-background-a-step-by-step-guide-3c0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
