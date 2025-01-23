@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Started Writing Unit Tests for Vue Components](https://dev.to/byteminds/how-i-started-writing-unit-tests-for-vue-components-1771)
-- [How to Make a Resume: A Complete Guide with ATS Friendly Templates!](https://dev.to/avinash201199/how-to-make-a-resume-a-complete-guide-with-ats-friendly-templates-21f1)
-- [Multiple fields sorting with a time saving function for server side developer &lpar;api pagination&rpar;](https://dev.to/nurulislamrimon/multiple-fields-sorting-with-a-time-saving-function-for-server-side-developer-api-pagination-dm6)
-- [Digital-First Strategies: Everything You Should Know](https://dev.to/ram_fb361bc2f8f94e06772e2/digital-first-strategies-everything-you-should-know-g7a)
-- [Top 10 Java Architect Certifications to Boost Your Career in 2025](https://dev.to/markwayne/top-10-java-architect-certifications-to-boost-your-career-in-2025-297n)
+- [Essential Security Tips for Users and Web3 Developers](https://dev.to/cryptosandy/essential-security-tips-for-users-and-web3-developers-1j2d)
+- [How to Build an Online Bidding Web App: Key Benefits, Features, and Costs](https://dev.to/ram_fb361bc2f8f94e06772e2/how-to-build-an-online-bidding-web-app-key-benefits-features-and-costs-4291)
+- [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-cll)
+- [No Keyboard Trap](https://dev.to/sarah_borgesvazcambra_8/no-keyboard-trap-4ha8)
+- [TIL you can apply git fixup automatically with git absorb](https://dev.to/benji011/til-you-can-apply-git-fixup-automatically-with-git-absorb-44hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
