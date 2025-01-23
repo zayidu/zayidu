@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly LAUNCHED 30+ Github Repositories for Developers.](https://dev.to/gittech/newly-launched-30-github-repositories-for-developers-3o99)
-- [Is the Software Developer Job Market Dying? 2025 and Beyond](https://dev.to/bhuwan71/is-the-software-developer-job-market-dying-2025-and-beyond-1jbp)
-- [After More than 5 Years of Maintaining WordPress Websites, Here’s What I’ve Learned](https://dev.to/andgoedu/after-more-than-5-years-of-maintaining-wordpress-websites-heres-what-ive-learned-3in5)
-- [Complete Guide to AWS Route 53: DNS Management Made Easy! 🌐](https://dev.to/techwithhari/complete-guide-to-aws-route-53-dns-management-made-easy-4el1)
-- [How to Run an AppImage Silently in the Background: A Step-by-Step Guide](https://dev.to/thekbbohara/how-to-run-an-appimage-silently-in-the-background-a-step-by-step-guide-3c0k)
+- [20 Days of HTML&lpar;Learn 20 amazing things about HTML&rpar; Part 1](https://dev.to/km-js/20-days-of-htmllearn-20-amazing-things-about-html-part-1-3ji9)
+- [Why Nobody’s Visiting Your Website](https://dev.to/resource_bunk_1077cab07da/why-nobodys-visiting-your-website-4nc3)
+- [My logo](https://dev.to/mouhammad_ndour/my-logo-1ill)
+- [Understanding LLM Concepts: Orchestrators, Evaluators, Validators, and Guardrails](https://dev.to/rodiwa/understanding-llm-concepts-orchestrators-evaluators-validators-and-guardrails-5b6n)
+- [Data and Analytics Modernization: Transforming Insights for the Digital Era](https://dev.to/jessica_williams_8192bc1f/data-and-analytics-modernization-transforming-insights-for-the-digital-era-4h3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
