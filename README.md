@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Acc Control](https://dev.to/mahir_xalilov_cd64c8cd8b1/acc-control-4pid)
-- [I Chose Ubuntu for 2025. What&#39;s Changed so far? 👀](https://dev.to/julianatsoc/i-choose-ubuntu-for-2025-whats-changed-so-far-2kn9)
-- [Local Llama Setup: A Python Developer&#39;s Guide](https://dev.to/mozes721/local-llama-setup-a-python-developers-guide-56fb)
-- [Top 5 Customer Success Tools For SaaS Products in 2025](https://dev.to/shayy/top-5-customer-success-tools-for-saas-products-in-2025-en3)
-- [#TIL: Display table and inline are incompatible with container queries](https://dev.to/nonsalant/til-display-table-and-inline-are-incompatible-with-container-queries-48l7)
+- [Why is the Python crawler running so slowly? How to optimize it?](https://dev.to/98ip/why-is-the-python-crawler-running-so-slowly-how-to-optimize-it-2e27)
+- [Handling Decimal Calculations in PHP 8.4 with the New BCMath Object API](https://dev.to/takeshiyu/handling-decimal-calculations-in-php-84-with-the-new-bcmath-object-api-442j)
+- [Refactoring 022 - Extract Common Ancestor](https://dev.to/mcsee/refactoring-022-extract-common-ancestor-jml)
+- [Event-Driven Design: Choosing Between SNS, SQS, and EventBridge](https://dev.to/aws-builders/event-driven-design-choosing-between-sns-sqs-and-eventbridge-i82)
+- [Bring Your Integration &lpar;BYI&rpar;: Building Connected Ecosystems for Better User Experiences](https://dev.to/omacys/bring-your-integration-byi-building-connected-ecosystems-for-better-user-experiences-5hgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
