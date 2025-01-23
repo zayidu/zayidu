@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL Weekly 1](https://dev.to/uskdev/til-weekly-1-4akg)
-- [We just launched KitOps 1.0 and it&#39;s live in a slew of production environments around the world - see what&#39;s coming next for this wildly popular project!](https://dev.to/brad-micklea/we-just-launched-kitops-10-and-its-live-in-a-slew-of-production-environments-around-the-world--4ed8)
-- [From 14TB to 700GB: Optimizing Database Storage for Real-Time Monitoring](https://dev.to/timescale/from-14tb-to-700gb-optimizing-database-storage-for-real-time-monitoring-2l0p)
-- [Blue-Green and Canary Deployments: A Deep Dive into Modern Deployment Strategies](https://dev.to/klaus82/blue-green-and-canary-deployments-a-deep-dive-into-modern-deployment-strategies-48ci)
-- [What’s Next for the KitOps Project](https://dev.to/kitops/whats-next-for-the-kitops-project-279d)
+- [Engineering Managers: Navigating Complexity and Challenges](https://dev.to/sandeep_sharma_2c6860616f/engineering-managers-navigating-complexity-and-challenges-277m)
+- [🌐 Server Components vs. Client Components in Next.js: Differences, Pros, and Cons](https://dev.to/oskarinmix/server-components-vs-client-components-in-nextjs-differences-pros-and-cons-389f)
+- [Mocking com Playwright](https://dev.to/davi_limas/guia-completo-como-criar-mocking-com-playwright-3heo)
+- [How to create a Youtube video summariser agent using EnvoyJS](https://dev.to/anandrmedia/how-to-create-a-youtube-video-summariser-agent-using-envoyjs-1d10)
+- [Sidecar Pod](https://dev.to/hamza_shaukat_00279f7fa91/sidecar-pod-5e8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
