@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Free Icon Libraries for Rails Apps](https://dev.to/railsdesigner/free-icon-libraries-for-rails-apps-26i0)
-- [Tailwind CSS 4.0 Is Here: What You Need to Know](https://dev.to/shayy/tailwind-css-40-is-here-what-you-need-to-know-484h)
-- [Retro’ing and Debugging 2024: A Year of Growth, Challenges, and Breakthroughs by Jovick-Coder](https://dev.to/jovickcoder/retroing-and-debugging-2024-a-year-of-growth-challenges-and-breakthroughs-by-jovick-coder-36l9)
-- [How To Add Swap Space on Ubuntu 22.04](https://dev.to/davidisnotnull/how-to-add-swap-space-on-ubuntu-2204-238f)
-- [Seeking Support for Something Useful](https://dev.to/darkterminal/seeking-support-for-something-useful-4ile)
+- [May Jolt AI be the future of production-ready AI developer tools?](https://dev.to/fmerian/may-jolt-ai-be-the-future-of-production-ready-ai-developer-tools-1k80)
+- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://dev.to/yev_yev_yev/introducing-jolt-ai-codegen-and-chat-for-100k-to-multi-million-line-codebases-1764)
+- [[Boost]](https://dev.to/mezmo/-453p)
+- [Setting up a VPC Infrastructure For Jenkins, Artifactory, Sonarqube on AWS using Terraform](https://dev.to/nonso_echendu_001/setting-up-a-vpc-infrastructure-for-jenkins-artifactory-sonarqube-on-aws-using-terraform-27ia)
+- [Building an NBA Sport Data Lake Analytic using AWS Services](https://dev.to/ameh_mathias/building-an-nba-sport-data-lake-analytic-using-aws-services-46a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
