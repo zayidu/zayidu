@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Subtracting Vectors](https://dev.to/bazengdev/subtracting-vectors-13jk)
-- [Taking over a project, the SINAPTIA way](https://dev.to/sinaptia_dev/taking-over-a-project-the-sinaptia-way-1fjp)
-- [Fingertip.com - AI website builder with all the tools you need](https://dev.to/mblode/fingertipcom-ai-website-builder-with-all-the-tools-you-need-4l0)
-- [Basic Commands: PowerShell and Bash](https://dev.to/annavi11arrea1/basic-commands-powershell-and-bash-1ojf)
-- [What&#39;s Test Doubles?](https://dev.to/mahata/whats-test-doubles-2c59)
+- [Mastering Vectors: Practice Questions to Sharpen Your Skills](https://dev.to/bazengdev/mastering-vectors-practice-questions-to-sharpen-your-skills-45pk)
+- [Amazon Rekognition](https://dev.to/naveen_kumar_07c64deeca54/amazon-rekognition-3e4m)
+- [AMAZON APPFLOW](https://dev.to/kamali_s/amazon-appflow-20d4)
+- [AWS SYSTEMS MANAGER](https://dev.to/hema_22/aws-systems-manager-59g5)
+- [AWS CloudTrail](https://dev.to/mohamed_rafil/aws-cloudtrail-4e37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
