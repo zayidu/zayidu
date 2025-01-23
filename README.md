@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Days of HTML&lpar;Learn 20 amazing things about HTML&rpar; Part 1](https://dev.to/km-js/20-days-of-htmllearn-20-amazing-things-about-html-part-1-3ji9)
-- [Why Nobody’s Visiting Your Website](https://dev.to/resource_bunk_1077cab07da/why-nobodys-visiting-your-website-4nc3)
-- [My logo](https://dev.to/mouhammad_ndour/my-logo-1ill)
-- [Understanding LLM Concepts: Orchestrators, Evaluators, Validators, and Guardrails](https://dev.to/rodiwa/understanding-llm-concepts-orchestrators-evaluators-validators-and-guardrails-5b6n)
-- [Data and Analytics Modernization: Transforming Insights for the Digital Era](https://dev.to/jessica_williams_8192bc1f/data-and-analytics-modernization-transforming-insights-for-the-digital-era-4h3o)
+- [JavaScript](https://dev.to/iamadeveloper/javascript-4ffe)
+- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
+- [Modern Web Development: Essential Tools and Best Practices for Building Scalable Applications](https://dev.to/oleeeedev/modern-web-development-essential-tools-and-best-practices-for-building-scalable-applications-2a7j)
+- [A Comprehensive Guide to Building High-Quality Backlinks in 2025](https://dev.to/grape-marketing/a-comprehensive-guide-to-building-high-quality-backlinks-in-2025-4io4)
+- [Growing in a Job you Love: Simple Yet Powerful Strategies That Work](https://dev.to/paschalogu/growing-in-a-job-you-love-simple-yet-powerful-strategies-that-work-2mci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
