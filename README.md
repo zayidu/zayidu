@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Express 5.0.0: New Features and Updates](https://dev.to/leapcell/express-500-new-features-and-updates-48an)
-- [Reactive State Management Without Libraries](https://dev.to/adamgolan/reactive-state-management-without-libraries-51pj)
-- [Unifi: Change Inform URL](https://dev.to/sertxudev/unifi-change-inform-url-43hj)
-- [Deploying a Static website using AWS &lpar;S3+cloudfront&rpar;-React App](https://dev.to/harinivas_m_00360dd83f42/deploying-a-static-website-using-aws-s3cloudfront-react-app-404i)
-- [✨ How to Be More Confident as a Junior Dev—Even When You’re Overwhelmed](https://dev.to/_ndeyefatoudiop/how-to-be-more-confident-as-a-junior-dev-even-when-youre-overwhelmed-235e)
+- [How I Started Writing Unit Tests for Vue Components](https://dev.to/byteminds/how-i-started-writing-unit-tests-for-vue-components-1771)
+- [How to Make a Resume: A Complete Guide with ATS Friendly Templates!](https://dev.to/avinash201199/how-to-make-a-resume-a-complete-guide-with-ats-friendly-templates-21f1)
+- [Multiple fields sorting with a time saving function for server side developer &lpar;api pagination&rpar;](https://dev.to/nurulislamrimon/multiple-fields-sorting-with-a-time-saving-function-for-server-side-developer-api-pagination-dm6)
+- [Digital-First Strategies: Everything You Should Know](https://dev.to/ram_fb361bc2f8f94e06772e2/digital-first-strategies-everything-you-should-know-g7a)
+- [Top 10 Java Architect Certifications to Boost Your Career in 2025](https://dev.to/markwayne/top-10-java-architect-certifications-to-boost-your-career-in-2025-297n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
