@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odp)
-- [Using Selenium To Automated Your Video Testing – Here’s How](https://dev.to/misterankit/using-selenium-to-automated-your-video-testing-heres-how-n2m)
-- [Let&#39;s play game ,meditate and Increase concertation](https://dev.to/bhupeshchandrajoshi/lets-play-game-meditate-and-increase-concertation-23e6)
-- [System Monitoring &amp; Performance | Linux](https://dev.to/ibrahimsi/system-monitoring-performance-linux-3mp4)
-- [The Impact of Generative AI in BFSI: Enhancing Efficiency and Innovation](https://dev.to/globalnodes/the-impact-of-generative-ai-in-bfsi-enhancing-efficiency-and-innovation-4928)
+- [Creating 3-Tier Architecture Using AWS](https://dev.to/sibi_s_/creating-3-tier-architecture-using-aws-2c1d)
+- [Real-World Applications of Distributed GPUs](https://dev.to/neurolov_ai_/real-world-applications-of-distributed-gpus-3bp5)
+- [email form tailwind flat](https://dev.to/yojeero/email-form-tailwind-flat-23e4)
+- [Exploring China&#39;s Country Codes: A Handy Guide for Travelers and Developers](https://dev.to/team-acepeak/exploring-chinas-country-codes-a-handy-guide-for-travelers-and-developers-4g28)
+- [How to Update File in Docker Container If You Can’t Use Vim or Nano?](https://dev.to/mammadyahyayev/how-to-update-file-in-docker-container-if-you-cant-use-vim-or-nano-2i0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
