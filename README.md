@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“Low-Code Platforms: For Mickey Mouse Coders… or Are They?”](https://dev.to/hotfixhero/low-code-platforms-for-mickey-mouse-coders-or-are-they-42k5)
-- [Chef HAL-9000: Cooking Up Masterpieces, One Recipe at a Time!](https://dev.to/sutter_cane/chef-hal-9000-cooking-up-masterpieces-one-recipe-at-a-time-2ghc)
-- [AI for Developers: Using RNNs](https://dev.to/valyouw/ai-for-developers-using-rnns-1kdp)
-- [# Fixing the Dreaded `querySrv ENOTFOUND` Error in MongoDB Atlas](https://dev.to/jvicmaina/-fixing-the-dreaded-querysrv-enotfound-error-in-mongodb-atlas-4bg5)
-- [Embracing Rust - The Journey Begins](https://dev.to/mbayoun95/embracing-rust-the-journey-begins-47on)
+- [🛥️ Docker Architecture: The Engine Behind the Magic](https://dev.to/juniourrau/docker-architecture-the-engine-behind-the-magic-4d2a)
+- [Unit Testing in .NET: Getting Started with xUnit and NUnit](https://dev.to/ana_rena_51038dafebd2290/unit-testing-in-net-getting-started-with-xunit-and-nunit-48ck)
+- [Security news weekly round-up - 24th January 2025](https://dev.to/ziizium/security-news-weekly-round-up-24th-january-2025-828)
+- [ElasticTransform in PyTorch](https://dev.to/hyperkai/elastictransform-in-pytorch-50ng)
+- [Go Beyond the Basics: Connecting Compute to Object Storage with the Official S3 Clients](https://dev.to/fastly/go-beyond-the-basics-connecting-compute-to-object-storage-with-the-official-s3-clients-4l9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
