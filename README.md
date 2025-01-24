@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task](https://dev.to/vimala_jeyakumar_de64a9b2/task-2oia)
-- [Integrating sg-image-viewer component in Angular, Vue and React Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-image-viewer-component-in-angular-vue-and-react-application-23o)
-- [Uploading objects into S3 bucket using EC2&lpar;PuTTY&rpar; + IAM + S3](https://dev.to/mohamed_rafil/uploading-objects-into-s3-bucket-using-ec2putty-iam-s3-4d4d)
-- [[Boost]](https://dev.to/brunociccarino/-4mm)
-- [Tell me, what is your favorite theme? Of all the themes, which one do you like the most?](https://dev.to/brunociccarino/tell-me-what-is-your-favorite-theme-of-all-the-themes-which-one-do-you-like-the-most-4lo9)
+- [Telecom Industry Jobs: Exploring Careers in the Connectivity Sector with Professionals like David Bernard Ezell](https://dev.to/davidezell/telecom-industry-jobs-exploring-careers-in-the-connectivity-sector-with-professionals-like-david-28l1)
+- [Is PHP, at its age of 30 in 2025, past its prime?](https://dev.to/crawomg/is-php-at-its-age-of-30-in-2025-past-its-prime-2lb)
+- [From Idea to Reality: Readdy&#39;s story](https://dev.to/explorer1/from-idea-to-reality-readdys-story-2943)
+- [Cómo configurar un Path en API Gateway con AWS SAM sin Lambda Proxy Integration](https://dev.to/fredydlemus/como-configurar-un-path-en-api-gateway-con-aws-sam-sin-lambda-proxy-integration-4am2)
+- [MySQL Partitioning Guide: Improve Query Performance with Range, List, and Hash Partitioning](https://dev.to/engrsabber11/mysql-partitioning-guide-improve-query-performance-with-range-list-and-hash-partitioning-5p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
