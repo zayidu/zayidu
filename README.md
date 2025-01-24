@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 23 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-january-3524)
-- [Host a static website on AWS: A detailed step-by-step guide](https://dev.to/hermann_essoh/host-a-static-website-on-aws-a-detailed-step-by-step-guide-1cho)
-- [Weekly JavaScript Roundup: Friday Links 16, January 24, 2025](https://dev.to/jsdevspace/weekly-javascript-roundup-friday-links-16-january-24-2025-4pfj)
-- [Is that possible send a fetch/axios request via server side network in React?](https://dev.to/elinliu/is-that-possible-send-a-fetchaxios-request-via-server-side-network-in-react-1ahp)
-- [這是我發現123理論的畫面](https://dev.to/aisia/zhe-shi-wo-fa-xian-123li-lun-de-hua-mian-5331)
+- [Task](https://dev.to/vimala_jeyakumar_de64a9b2/task-2oia)
+- [Integrating sg-image-viewer component in Angular, Vue and React Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-image-viewer-component-in-angular-vue-and-react-application-23o)
+- [Uploading objects into S3 bucket using EC2&lpar;PuTTY&rpar; + IAM + S3](https://dev.to/mohamed_rafil/uploading-objects-into-s3-bucket-using-ec2putty-iam-s3-4d4d)
+- [[Boost]](https://dev.to/brunociccarino/-4mm)
+- [Tell me, what is your favorite theme? Of all the themes, which one do you like the most?](https://dev.to/brunociccarino/tell-me-what-is-your-favorite-theme-of-all-the-themes-which-one-do-you-like-the-most-4lo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
