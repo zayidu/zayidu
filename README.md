@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI vs Django/Flask](https://dev.to/hiteshchawla/fastapi-vs-django-core-difference-103a)
-- [Introducing Squidly: Simplify Your GitHub Workflow Management](https://dev.to/fralps/introducing-squidly-simplify-your-github-workflow-management-b5h)
-- [Building a Simple and Efficient Language Translator for Your Projects](https://dev.to/muhammadaqib86/building-a-simple-and-efficient-language-translator-for-your-projects-47jj)
-- [Angular Topics](https://dev.to/anjali_gurjar_dff81513867/angular-topics-1p51)
-- [Writing the Perfect Mobile-First Gallery](https://dev.to/artur_supertramp/writing-the-perfect-mobile-first-gallery-1aj0)
+- [X Profile Roaster 🌶️🔥❤️‍🔥](https://dev.to/divya4879/x-profile-roaster-1ca0)
+- [🚀 Your Daily Crypto Job Digest For 24 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-january-3fcf)
+- [Phase 5 Blog - Polymorphic relationships](https://dev.to/jajaninnin/phase-5-blog-polymorphic-relationships-3c8n)
+- [What is GDevelop: An Open-Source Game Engine](https://dev.to/codeparrot/what-is-gdevelop-an-open-source-game-engine-15k3)
+- [RUNNING LINUX COMMANDS AND UPLOADING THE OUTPUT TO S3 DIRECTLY THROUGH EC2 INSTANCE](https://dev.to/dhanya_ravi/running-linux-commands-and-uploading-the-output-to-s3-directly-through-ec2-instance-1pkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
