@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating 3-Tier Architecture Using AWS](https://dev.to/sibi_s_/creating-3-tier-architecture-using-aws-2c1d)
-- [Real-World Applications of Distributed GPUs](https://dev.to/neurolov_ai_/real-world-applications-of-distributed-gpus-3bp5)
-- [email form tailwind flat](https://dev.to/yojeero/email-form-tailwind-flat-23e4)
-- [Exploring China&#39;s Country Codes: A Handy Guide for Travelers and Developers](https://dev.to/team-acepeak/exploring-chinas-country-codes-a-handy-guide-for-travelers-and-developers-4g28)
-- [How to Update File in Docker Container If You Can’t Use Vim or Nano?](https://dev.to/mammadyahyayev/how-to-update-file-in-docker-container-if-you-cant-use-vim-or-nano-2i0g)
+- [Java](https://dev.to/abin_tt/java-408d)
+- [Notes on Data Engineering Zoomcamp 2025 - Launch Stream](https://dev.to/pizofreude/notes-on-data-engineering-zoomcamp-2025-launch-stream-4mpm)
+- [Date in JS&lpar;Fully Covered&rpar;](https://dev.to/sarthak_kashmira_50d8ddac/date-in-jsfully-covered-489)
+- [My Journey to Becoming a Full-Stack Developer](https://dev.to/dahami_fabbio/my-journey-to-becoming-a-full-stack-developer-p8f)
+- [Mastering Adobe Firefly AI: A Complete](https://dev.to/azkar_mediahicon_c4c29eba/mastering-adobe-firefly-ai-a-complete-35p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
