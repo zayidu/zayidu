@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay 1.8.0 Released: Support for Apache](https://dev.to/servbay/servbay-180-released-support-for-apache-52bb)
-- [Python Virtual Environments: Why You Need Them and How to Use Them](https://dev.to/lovestaco/python-virtual-environments-why-you-need-them-and-how-to-use-them-1o1e)
-- [Top 20 most asked Linux Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-linux-questions-in-interviews-aag)
-- [Trevor Forbes: Strategies for Hiring Veterans in Small Businesses](https://dev.to/trevor_forbes/trevor-forbes-strategies-for-hiring-veterans-in-small-businesses-4a7b)
-- [Sizing with ems and rems](https://dev.to/notumar/sizing-with-ems-and-rems-d5h)
+- [How to Use DeepSeek R1 for Free in Visual Studio Code with Cline or Roo Code](https://dev.to/dwtoledo/how-to-use-deepseek-r1-for-free-in-visual-studio-code-with-cline-or-roo-code-3an9)
+- [Como Usar o DeepSeek R1 de Graça no Visual Studio Code com Cline ou Roo Code](https://dev.to/dwtoledo/como-usar-o-deepseek-r1-de-graca-no-visual-studio-code-com-cline-ou-roo-code-3pi9)
+- [How to Handle Twilio Verify 30005 and 30006 errors](https://dev.to/djohnson/how-to-handle-twilio-verify-30005-and-30006-errors-48fe)
+- [Deepseek-r1 module of Ollama](https://dev.to/bobheadmaker/deepseek-r1-module-of-ollama-5lc)
+- [C++16th Code &lpar;Variables in C++&rpar;](https://dev.to/md-salah/c16th-code-variables-in-c-347n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
