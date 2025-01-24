@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛥️ Docker Architecture: The Engine Behind the Magic](https://dev.to/juniourrau/docker-architecture-the-engine-behind-the-magic-4d2a)
-- [Unit Testing in .NET: Getting Started with xUnit and NUnit](https://dev.to/ana_rena_51038dafebd2290/unit-testing-in-net-getting-started-with-xunit-and-nunit-48ck)
-- [Security news weekly round-up - 24th January 2025](https://dev.to/ziizium/security-news-weekly-round-up-24th-january-2025-828)
-- [ElasticTransform in PyTorch](https://dev.to/hyperkai/elastictransform-in-pytorch-50ng)
-- [Go Beyond the Basics: Connecting Compute to Object Storage with the Official S3 Clients](https://dev.to/fastly/go-beyond-the-basics-connecting-compute-to-object-storage-with-the-official-s3-clients-4l9p)
+- [Slashing S3 Costs: How Databend Reduced List API Expenses by 70%](https://dev.to/ksanaka/slashing-s3-costs-how-databend-reduced-list-api-expenses-by-70-1l6e)
+- [FSCSS animation example](https://dev.to/fscss-ttr/fscss-animation-example-j2j)
+- [Indexing for NOT EQUAL &lpar;&lt;&gt;,!=&rpar; in YugabyteDB, PostgreSQL, Oracle Database, SQL Server, and MongoDB](https://dev.to/aws-heroes/indexing-for-not-equal-in-yugabytedb-postgresql-oracle-database-and-mongodb-25mo)
+- [Wordpress Developers](https://dev.to/friendsmohamed/wordpress-developers-3j2e)
+- [TanStack Query 101 with Next.js](https://dev.to/thekbbohara/tanstack-query-101-with-nextjs-ale)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
