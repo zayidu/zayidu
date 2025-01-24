@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Security Best Practices in Docker Containers](https://dev.to/574n13y/implementing-security-best-practices-in-docker-containers-32oe)
-- [Mastering Java Virtual Threads: Boost Application Scalability and Performance](https://dev.to/aaravjoshi/mastering-java-virtual-threads-boost-application-scalability-and-performance-189g)
-- [Next.js 15 App Router SEO Comprehensive Checklist](https://dev.to/simplr_sh/nextjs-15-app-router-seo-comprehensive-checklist-3d3f)
-- [Problem with redirection and nested routes](https://dev.to/javivi/problem-with-redirection-and-nested-routes-31m1)
-- [Understanding and Exploring GPUs: Architecture, Stages to Render a Game, and Rendering Pipeline Stages.](https://dev.to/vinishkumar_/understanding-and-exploring-gpus-architecture-stages-to-render-a-game-and-rendering-pipeline-4i2a)
+- [SocialBuddy: create simple, impactful content for any platform](https://dev.to/sachinchaurasiya/socialbuddy-create-simple-impactful-content-for-any-platform-k0j)
+- [Top 10 most asked Git Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-10-most-asked-git-questions-in-interviews-1po6)
+- [103/365 | ¥10M Job Challenge - overloaded?](https://dev.to/kameken100/103365-y10m-job-challenge-overloaded-1139)
+- [Real-time chat with NestJS and Socket.io](https://dev.to/henriqueweiand/real-time-chat-with-nestjs-and-socketio-3e6e)
+- [[Boost]](https://dev.to/wparad/-44dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
