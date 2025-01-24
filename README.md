@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Video on Demand Solution in AWS](https://dev.to/gurudev_prasadteketi/end-to-end-video-on-demand-solution-in-aws-4fal)
-- [Free Books Python, Linux and Programming](https://dev.to/sc0v0ne/free-books-python-linux-and-programming-5akc)
-- [Whether you&#39;re a beginner or a seasoned pro, showcasing machine learning &lpar;ML&rpar; projects on your resume will not only demonstrate your skills but also set you apart from the crowd. Each project listed below is rated on a difficulty scale of 1 to 10........](https://dev.to/lokesh_singh/whether-youre-a-beginner-or-a-seasoned-pro-showcasing-machine-learning-ml-projects-on-your-l1p)
-- [Top 20 Machine Learning Projects to Boost Your Resume 🚀](https://dev.to/lokesh_singh/top-20-machine-learning-projects-to-boost-your-resume-18k6)
-- [Day 1087 : Much More](https://dev.to/dwane/day-1087-much-more-34j0)
+- [🚀 Your Daily Crypto Job Digest For 23 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-january-3524)
+- [Host a static website on AWS: A detailed step-by-step guide](https://dev.to/hermann_essoh/host-a-static-website-on-aws-a-detailed-step-by-step-guide-1cho)
+- [Weekly JavaScript Roundup: Friday Links 16, January 24, 2025](https://dev.to/jsdevspace/weekly-javascript-roundup-friday-links-16-january-24-2025-4pfj)
+- [Is that possible send a fetch/axios request via server side network in React?](https://dev.to/elinliu/is-that-possible-send-a-fetchaxios-request-via-server-side-network-in-react-1ahp)
+- [這是我發現123理論的畫面](https://dev.to/aisia/zhe-shi-wo-fa-xian-123li-lun-de-hua-mian-5331)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
