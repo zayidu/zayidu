@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SocialBuddy: create simple, impactful content for any platform](https://dev.to/sachinchaurasiya/socialbuddy-create-simple-impactful-content-for-any-platform-k0j)
-- [Top 10 most asked Git Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-10-most-asked-git-questions-in-interviews-1po6)
-- [103/365 | ¥10M Job Challenge - overloaded?](https://dev.to/kameken100/103365-y10m-job-challenge-overloaded-1139)
-- [Real-time chat with NestJS and Socket.io](https://dev.to/henriqueweiand/real-time-chat-with-nestjs-and-socketio-3e6e)
-- [[Boost]](https://dev.to/wparad/-44dn)
+- [ServBay 1.8.0 Released: Support for Apache](https://dev.to/servbay/servbay-180-released-support-for-apache-52bb)
+- [Python Virtual Environments: Why You Need Them and How to Use Them](https://dev.to/lovestaco/python-virtual-environments-why-you-need-them-and-how-to-use-them-1o1e)
+- [Top 20 most asked Linux Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-linux-questions-in-interviews-aag)
+- [Trevor Forbes: Strategies for Hiring Veterans in Small Businesses](https://dev.to/trevor_forbes/trevor-forbes-strategies-for-hiring-veterans-in-small-businesses-4a7b)
+- [Sizing with ems and rems](https://dev.to/notumar/sizing-with-ems-and-rems-d5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
