@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: MoveDuplicates – My Solution to Duplicate Image Clutter 💡](https://dev.to/mrzaizai2k/til-moveduplicates-my-solution-to-duplicate-image-clutter-55ph)
-- [Understanding NetSuite SuiteTalk: Simplifying API Integrations](https://dev.to/emphorasoft_70e7d6ed63b31/understanding-netsuite-suitetalk-simplifying-api-integrations-2bca)
-- [I built a video calling app in just 10 mins!](https://dev.to/riyachudasama23/i-built-a-video-calling-app-in-just-10-mins-24le)
-- [Numeral systems explained &lpar;binary, octal, hexadecimal...&rpar;](https://dev.to/mahime/numeral-systems-explained-binary-octal-hexadecimal-1g5i)
-- [Creating a Print Preview Web Component](https://dev.to/madsstoumann/creating-a-print-preview-web-component-1ma5)
+- [FastAPI vs Django/Flask](https://dev.to/hiteshchawla/fastapi-vs-django-core-difference-103a)
+- [Introducing Squidly: Simplify Your GitHub Workflow Management](https://dev.to/fralps/introducing-squidly-simplify-your-github-workflow-management-b5h)
+- [Building a Simple and Efficient Language Translator for Your Projects](https://dev.to/muhammadaqib86/building-a-simple-and-efficient-language-translator-for-your-projects-47jj)
+- [Angular Topics](https://dev.to/anjali_gurjar_dff81513867/angular-topics-1p51)
+- [Writing the Perfect Mobile-First Gallery](https://dev.to/artur_supertramp/writing-the-perfect-mobile-first-gallery-1aj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
