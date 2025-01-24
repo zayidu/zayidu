@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Mastering 2025: A Developer’s Guide](https://dev.to/aniruddhaadak/mastering-2025-a-developers-guide-187i)
-- [Mastering Prefix &lpar;CIDR&rpar; Operations in net/netip 3/7](https://dev.to/rezmoss/mastering-prefix-cidr-operations-in-netnetip-37-3l5p)
-- [This Week In React #218 : React-Scan, Unpic, React Native 0.77, Reanimated, Expo, EAS, Shadowlist, Document Picker...](https://dev.to/sebastienlorber/this-week-in-react-218-react-scan-unpic-react-native-077-reanimated-expo-eas-shadowlist-5gbm)
-- [🗞 Rapyd Developer Newsletter: January 2025 💻 Code Smarter, Innovate Faster](https://dev.to/rapyd/rapyd-developer-newsletter-january-2025-code-smarter-innovate-faster-49c8)
-- [Edge Flags](https://dev.to/mehmetakar/edge-flags-26n7)
+- [Know your tools](https://dev.to/oramirezperera/know-your-tools-44oj)
+- [Architecture diagram](https://dev.to/girija_2e3a52e67a669424c6/architecture-diagram-4267)
+- [The dual nature of a CrewAI Task. Have you overlooked it too?](https://dev.to/pavelkoryagin/the-dual-nature-of-a-crewai-task-have-you-overlooked-it-too-3o69)
+- [Nodejs Event loop](https://dev.to/zod_the_god/nodejs-event-loop-5ab6)
+- [Elderly Action Recognition: No One Should Age Alone, AI’s Promise for the Next Generation of Elders](https://dev.to/voxel51/elderly-action-recognition-no-one-should-age-alone-ais-promise-for-the-next-generation-of-elders-384h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
