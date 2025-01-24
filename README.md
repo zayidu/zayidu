@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Know your tools](https://dev.to/oramirezperera/know-your-tools-44oj)
-- [Architecture diagram](https://dev.to/girija_2e3a52e67a669424c6/architecture-diagram-4267)
-- [The dual nature of a CrewAI Task. Have you overlooked it too?](https://dev.to/pavelkoryagin/the-dual-nature-of-a-crewai-task-have-you-overlooked-it-too-3o69)
-- [Nodejs Event loop](https://dev.to/zod_the_god/nodejs-event-loop-5ab6)
-- [Elderly Action Recognition: No One Should Age Alone, AI’s Promise for the Next Generation of Elders](https://dev.to/voxel51/elderly-action-recognition-no-one-should-age-alone-ais-promise-for-the-next-generation-of-elders-384h)
+- [Implementing Security Best Practices in Docker Containers](https://dev.to/574n13y/implementing-security-best-practices-in-docker-containers-32oe)
+- [Mastering Java Virtual Threads: Boost Application Scalability and Performance](https://dev.to/aaravjoshi/mastering-java-virtual-threads-boost-application-scalability-and-performance-189g)
+- [Next.js 15 App Router SEO Comprehensive Checklist](https://dev.to/simplr_sh/nextjs-15-app-router-seo-comprehensive-checklist-3d3f)
+- [Problem with redirection and nested routes](https://dev.to/javivi/problem-with-redirection-and-nested-routes-31m1)
+- [Understanding and Exploring GPUs: Architecture, Stages to Render a Game, and Rendering Pipeline Stages.](https://dev.to/vinishkumar_/understanding-and-exploring-gpus-architecture-stages-to-render-a-game-and-rendering-pipeline-4i2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
