@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Telecom Industry Jobs: Exploring Careers in the Connectivity Sector with Professionals like David Bernard Ezell](https://dev.to/davidezell/telecom-industry-jobs-exploring-careers-in-the-connectivity-sector-with-professionals-like-david-28l1)
-- [Is PHP, at its age of 30 in 2025, past its prime?](https://dev.to/crawomg/is-php-at-its-age-of-30-in-2025-past-its-prime-2lb)
-- [From Idea to Reality: Readdy&#39;s story](https://dev.to/explorer1/from-idea-to-reality-readdys-story-2943)
-- [Cómo configurar un Path en API Gateway con AWS SAM sin Lambda Proxy Integration](https://dev.to/fredydlemus/como-configurar-un-path-en-api-gateway-con-aws-sam-sin-lambda-proxy-integration-4am2)
-- [MySQL Partitioning Guide: Improve Query Performance with Range, List, and Hash Partitioning](https://dev.to/engrsabber11/mysql-partitioning-guide-improve-query-performance-with-range-list-and-hash-partitioning-5p9)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odp)
+- [Using Selenium To Automated Your Video Testing – Here’s How](https://dev.to/misterankit/using-selenium-to-automated-your-video-testing-heres-how-n2m)
+- [Let&#39;s play game ,meditate and Increase concertation](https://dev.to/bhupeshchandrajoshi/lets-play-game-meditate-and-increase-concertation-23e6)
+- [System Monitoring &amp; Performance | Linux](https://dev.to/ibrahimsi/system-monitoring-performance-linux-3mp4)
+- [The Impact of Generative AI in BFSI: Enhancing Efficiency and Innovation](https://dev.to/globalnodes/the-impact-of-generative-ai-in-bfsi-enhancing-efficiency-and-innovation-4928)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
