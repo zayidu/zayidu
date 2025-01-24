@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the STRIDE Function in Cybersecurity](https://dev.to/prabin750/understanding-the-stride-function-in-cybersecurity-1abe)
-- [&quot;Unlocking Stellar Secrets: Tidal Forces and 3D Reconstruction Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-stellar-secrets-tidal-forces-and-3d-reconstruction-innovations-204l)
-- [Should I Consider Writing a Book? 🤔](https://dev.to/trixsec/should-i-consider-writing-a-book-81i)
-- [Deploy a Laravel app on Hostinger &lpar;Using git&rpar;](https://dev.to/vimuth7/deploy-a-laravel-app-on-hostinger-using-git-1ice)
-- [🔍 Component &amp; Integration Testing: Methods, Benefits, and Challenges](https://dev.to/keploy/component-integration-testing-methods-benefits-and-challenges-5al8)
+- [R-Lock vs Lock in Python](https://dev.to/hiteshchawla/r-lock-vs-lock-in-python-3po9)
+- [🗽 Top 5 DevOps AI Tools for 2025](https://dev.to/cicube/top-5-devops-ai-tools-for-2025-146l)
+- [PRAGMA AUTONOMOUS_TRANSACTION in ORACLE PLSQL - Use case](https://dev.to/mrcaption49/pragma-autonomoustransaction-in-oracle-plsql-use-case-2ehd)
+- [Libraries You Should Know if You Build with React Native](https://dev.to/aneeqakhan/libraries-you-should-know-if-you-build-with-react-native-3c6d)
+- [Understanding Server-Side Rendering Like a Pro](https://dev.to/imerik/understanding-server-side-rendering-like-a-pro-2oni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
