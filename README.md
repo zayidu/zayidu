@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [X Profile Roaster 🌶️🔥❤️‍🔥](https://dev.to/divya4879/x-profile-roaster-1ca0)
-- [🚀 Your Daily Crypto Job Digest For 24 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-january-3fcf)
-- [Phase 5 Blog - Polymorphic relationships](https://dev.to/jajaninnin/phase-5-blog-polymorphic-relationships-3c8n)
-- [What is GDevelop: An Open-Source Game Engine](https://dev.to/codeparrot/what-is-gdevelop-an-open-source-game-engine-15k3)
-- [RUNNING LINUX COMMANDS AND UPLOADING THE OUTPUT TO S3 DIRECTLY THROUGH EC2 INSTANCE](https://dev.to/dhanya_ravi/running-linux-commands-and-uploading-the-output-to-s3-directly-through-ec2-instance-1pkl)
+- [🚀 Mastering 2025: A Developer’s Guide](https://dev.to/aniruddhaadak/mastering-2025-a-developers-guide-187i)
+- [Mastering Prefix &lpar;CIDR&rpar; Operations in net/netip 3/7](https://dev.to/rezmoss/mastering-prefix-cidr-operations-in-netnetip-37-3l5p)
+- [This Week In React #218 : React-Scan, Unpic, React Native 0.77, Reanimated, Expo, EAS, Shadowlist, Document Picker...](https://dev.to/sebastienlorber/this-week-in-react-218-react-scan-unpic-react-native-077-reanimated-expo-eas-shadowlist-5gbm)
+- [🗞 Rapyd Developer Newsletter: January 2025 💻 Code Smarter, Innovate Faster](https://dev.to/rapyd/rapyd-developer-newsletter-january-2025-code-smarter-innovate-faster-49c8)
+- [Edge Flags](https://dev.to/mehmetakar/edge-flags-26n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
