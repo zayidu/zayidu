@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How ContentCraft Repurposes Your Blog Posts with AI](https://dev.to/ifihan/how-contentcraft-repurposes-your-blog-posts-with-ai-573g)
-- [Learnings from upgrading an existing Umbraco project to TailwindCSS 4](https://dev.to/skttl/learnings-from-upgrading-an-existing-umbraco-project-to-tailwindcss-4-20pc)
-- [Understanding libuv in Node.js](https://dev.to/piyushxmishra/understanding-libuv-in-nodejs-4haj)
-- [[Boost]](https://dev.to/leo_scott_357f10236fabe00/-4523)
-- [Your transition to a headless CMS made easy!](https://dev.to/kickstartds/your-transition-to-a-headless-cms-made-easy-45f)
+- [Bootstrapping ArgoCD with Helm and Helmfile](https://dev.to/woovi/bootstrapping-argocd-with-helm-and-helmfile-2fhe)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-5chj)
+- [What are blockchain solutions and how do they work?](https://dev.to/eminencetechnology/what-are-blockchain-solutions-and-how-do-they-work-1am)
+- [Custom eLearning Development and AI: Transforming Digital Learning Experiences](https://dev.to/manishgiri1/custom-elearning-development-and-ai-transforming-digital-learning-experiences-10m6)
+- [Create 3-Tier Architecture using AWS](https://dev.to/nirosha_jaganathan_cd0f19/create-3-tier-architecture-using-aws-2gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
