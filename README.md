@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping ArgoCD with Helm and Helmfile](https://dev.to/woovi/bootstrapping-argocd-with-helm-and-helmfile-2fhe)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-5chj)
-- [What are blockchain solutions and how do they work?](https://dev.to/eminencetechnology/what-are-blockchain-solutions-and-how-do-they-work-1am)
-- [Custom eLearning Development and AI: Transforming Digital Learning Experiences](https://dev.to/manishgiri1/custom-elearning-development-and-ai-transforming-digital-learning-experiences-10m6)
-- [Create 3-Tier Architecture using AWS](https://dev.to/nirosha_jaganathan_cd0f19/create-3-tier-architecture-using-aws-2gn)
+- [TIL: MoveDuplicates – My Solution to Duplicate Image Clutter 💡](https://dev.to/mrzaizai2k/til-moveduplicates-my-solution-to-duplicate-image-clutter-55ph)
+- [Understanding NetSuite SuiteTalk: Simplifying API Integrations](https://dev.to/emphorasoft_70e7d6ed63b31/understanding-netsuite-suitetalk-simplifying-api-integrations-2bca)
+- [I built a video calling app in just 10 mins!](https://dev.to/riyachudasama23/i-built-a-video-calling-app-in-just-10-mins-24le)
+- [Numeral systems explained &lpar;binary, octal, hexadecimal...&rpar;](https://dev.to/mahime/numeral-systems-explained-binary-octal-hexadecimal-1g5i)
+- [Creating a Print Preview Web Component](https://dev.to/madsstoumann/creating-a-print-preview-web-component-1ma5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
