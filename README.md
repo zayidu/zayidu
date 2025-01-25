@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Complexity Cheat Sheet 🚀](https://dev.to/jaiminbariya/python-complexity-cheat-sheet-3plf)
-- [Comprehensive Comparison: CISSP vs. CCSP in 2025](https://dev.to/p2p_certs_5787663da138fad/comprehensive-comparison-cissp-vs-ccsp-in-2025-85h)
-- [Understanding AJAX, XMLHttpRequest, and Fetch API in JavaScript](https://dev.to/krushna_sananse/understanding-ajax-xmlhttprequest-and-fetch-api-in-javascript-ijf)
-- [CheckMate - quick and easy-to-use fact-checking assistant that combats misinformation](https://dev.to/filipehb/checkmate-quick-and-easy-to-use-fact-checking-assistant-that-combats-misinformation-3n41)
-- [Managing Production Configurations in ASP.NET Core WebAPI Using Environment Variables](https://dev.to/imzihad21/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf)
+- [13 Awesome React Animation Libraries To Elevate Your Design Projects 🚀](https://dev.to/sovannaro/13-awesome-react-animation-libraries-to-elevate-your-design-projects-549g)
+- [How can I solve render-blocking issues on my website, specifically related to the Duffle Bag page?](https://dev.to/apronlady12/how-can-i-solve-render-blocking-issues-on-my-website-specifically-related-to-the-duffle-bag-page-4eea)
+- [7 Hottest UI Component Libraries of 2025](https://dev.to/sovannaro/7-hottest-ui-component-libraries-of-2025-2ce)
+- [2. Set&lt;E&gt; &lpar;para trabalhar com elementos únicos&rpar;](https://dev.to/javaparainiciantes/2-set-para-trabalhar-com-elementos-unicos-2dpb)
+- [&quot;Understanding Blockchain: The Foundation of Decentralized Systems&quot;](https://dev.to/sania_ashraf_c97464909c1d/understanding-blockchain-the-foundation-of-decentralized-systems-38o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
