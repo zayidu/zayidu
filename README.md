@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Java Applications on AWS ECS and ECR with a Jenkins CI/CD Pipeline](https://dev.to/bhaktraj/deploying-java-applications-on-aws-ecs-and-ecr-with-a-jenkins-cicd-pipeline-1ji5)
-- [🚀Top React Animation Libraries: Framer Motion, GSAP, React Spring, and More](https://dev.to/ciphernutz/top-react-animation-libraries-framer-motion-gsap-react-spring-and-more-4854)
-- [Stack xotirasi](https://dev.to/madina1575/stack-xotirasi-3fke)
-- [Building a Simple Laravel App with Reverb: A Step-by-Step Guide](https://dev.to/vimuth7/building-a-simple-laravel-app-with-reverb-a-step-by-step-guide-19g5)
-- [There is no difference between technical debt and washing up](https://dev.to/guiommary/there-is-no-difference-between-technical-debt-and-washing-up-2l0c)
+- [🔐 Implementing Feature Flags in React via Permix](https://dev.to/letstri/implementing-feature-flags-in-react-via-permix-1dc)
+- [Exploring the Future: A Global Guide to the Best AI Technology Books](https://dev.to/julioherreravelutini/exploring-the-future-a-global-guide-to-the-best-ai-technology-books-4pkc)
+- [Introduction to Helm and Why It Matters](https://dev.to/manjunath_kotabal_3d1e736/introduction-to-helm-and-why-it-matters-1hgk)
+- [Amazon S3 + Cloudflare Cloud Connector magic](https://dev.to/petekip/amazon-s3-cloudflare-cloud-connector-magic-392f)
+- [Top 10 React Carousels to Use in 2025: User-Friendly and Efficient](https://dev.to/swhabitation/top-10-react-carousels-to-use-in-2025-user-friendly-and-efficient-2a6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
