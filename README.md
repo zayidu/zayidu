@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you stuck in Software testing role check out A Step-by-Step Guide to Transitioning from Software Testing to DevOps](https://dev.to/techconcephub/are-you-stuck-in-software-testing-role-check-out-a-step-by-step-guide-to-transitioning-from-49ba)
-- [Understanding Angular Life Cycle Hooks](https://dev.to/himanshusinghtomar/understanding-angular-life-cycle-hooks-oi4)
-- [Task-23/01/2025](https://dev.to/neelakandan_ravi_2000/task-23012025-5eck)
-- [Task-22/01/2025](https://dev.to/neelakandan_ravi_2000/task-22012025-1hni)
-- [การใช้สูตร PARENTGROUPVAL ใน Salesforce เพื่อสร้าง Report](https://dev.to/tulip_pattra/kaaraichsuutr-parentgroupval-ain-salesforce-ephuuesraang-report-13ih)
+- [Mantle Network: The Modular Layer-2 Gem](https://dev.to/babalasisi/mantle-network-the-modular-layer-2-gem-5147)
+- [The &lt;sarcasm&gt; 🙄 component - now Brits can finally be understood on the web!](https://dev.to/grahamthedev/the-component-now-brits-can-finally-be-understood-on-the-web-33m1)
+- [Riverpod Flutter: A Beginner&#39;s Guide](https://dev.to/codeparrot/riverpod-flutter-a-beginners-guide-372j)
+- [[Boost]](https://dev.to/saint_vandora/-30p2)
+- [Authentication &amp; Authorization in FastAPI with Keycloak](https://dev.to/saint_vandora/authentication-authorization-in-fastapi-with-keycloak-5h4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
