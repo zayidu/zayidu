@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Website Layouts: A Friendly Guide](https://dev.to/lovestaco/designing-website-layouts-a-friendly-guide-29he)
-- [Understanding Internet Protocols: The Backbone of Communication](https://dev.to/hossamgouda/understanding-internet-protocols-the-backbone-of-communication-1bkc)
-- [C++19th Code &lpar; postfix &amp; Prefix&rpar; --&gt; &lpar;X++&rpar; &amp; &lpar;++X&rpar;](https://dev.to/md-salah/c19th-code-postfix-prefix-x-x-5ecl)
-- [Type Hero](https://dev.to/ikuzwe_shema_elie/type-hero-23bg)
-- [Mastering Field Validation and User Existence Checks in Node.js: A Developer’s Survival Guide](https://dev.to/yugjadvani/mastering-field-validation-and-user-existence-checks-in-nodejs-a-developers-survival-guide-25db)
+- [Everything You Need to Know About Types in TypeScript](https://dev.to/brunociccarino/everything-you-need-to-know-about-types-in-typescript-1leh)
+- [Mantle Network: The Next Evolution in Ethereum Scalability](https://dev.to/amity808/mantle-network-the-next-evolution-in-ethereum-scalability-3f37)
+- [Impossible to access &quot;/home/channelTv&quot; page, after insert token](https://dev.to/sissoko20/impossible-to-access-homechanneltv-page-after-insert-token-n12)
+- [Why You Should Rethink Your Python Toolbox in 2025](https://dev.to/harsh317/why-you-should-rethink-your-python-toolbox-in-2025-41o8)
+- [Unlocking the Potential of Mantle Network](https://dev.to/izi_/unlocking-the-potential-of-mantle-network-3pc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
