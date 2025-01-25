@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Awesome React Animation Libraries To Elevate Your Design Projects 🚀](https://dev.to/sovannaro/13-awesome-react-animation-libraries-to-elevate-your-design-projects-549g)
-- [How can I solve render-blocking issues on my website, specifically related to the Duffle Bag page?](https://dev.to/apronlady12/how-can-i-solve-render-blocking-issues-on-my-website-specifically-related-to-the-duffle-bag-page-4eea)
-- [7 Hottest UI Component Libraries of 2025](https://dev.to/sovannaro/7-hottest-ui-component-libraries-of-2025-2ce)
-- [2. Set&lt;E&gt; &lpar;para trabalhar com elementos únicos&rpar;](https://dev.to/javaparainiciantes/2-set-para-trabalhar-com-elementos-unicos-2dpb)
-- [&quot;Understanding Blockchain: The Foundation of Decentralized Systems&quot;](https://dev.to/sania_ashraf_c97464909c1d/understanding-blockchain-the-foundation-of-decentralized-systems-38o1)
+- [JavaScript Performance Optimization Tips for 2025.](https://dev.to/balrajola/javascript-performance-optimization-tips-for-2025-4h38)
+- [Password Hashing and Data Integrity in Real-World Implementation](https://dev.to/nozibul_islam_113b1d5334f/password-hashing-and-data-integrity-in-real-world-implementation-50g6)
+- [AI&#39;s Creative Mistakes May Speed Up Drug Discovery, Study Shows](https://dev.to/mikeyoung44/ais-creative-mistakes-may-speed-up-drug-discovery-study-shows-4aam)
+- [Amazon Detective 🤯](https://dev.to/anush_nu/amazon-detective-3bn1)
+- [Breakthrough: AI System Combines Language Models and Reinforcement Learning for Better Problem-Solving](https://dev.to/mikeyoung44/breakthrough-ai-system-combines-language-models-and-reinforcement-learning-for-better-4ill)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
