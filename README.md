@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java methods and classes examples 2](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-2-4d5a)
-- [Java methods and classes examples 1](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-1-26db)
-- [Creating a scalable Monorepo for Vue - Libs vs Apps](https://dev.to/nagell/creating-a-scalable-monorepo-for-vue-libs-vs-apps-489l)
-- [Understanding Subnetting in Simple Terms](https://dev.to/jamiu_cloud/understanding-subnetting-in-simple-terms-5hb8)
-- [Java methods and classes examples](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-23mi)
+- [Django Models Simplified: A Quick 4-Minute Guide for Beginners](https://dev.to/ebereplenty/django-models-simplified-a-quick-4-minute-guide-for-beginners-3a88)
+- [Supervised vs. Unsupervised Learning](https://dev.to/prezaei/understanding-supervised-vs-unsupervised-learning-g2g)
+- [104/365 | ¥10M Job Challenge - Learning and Work Productivity](https://dev.to/kameken100/104365-y10m-job-challenge-learning-and-work-productivity-3bk8)
+- [Agentic AI Roadmap](https://dev.to/samagra07/agentic-ai-roadmap-3jp3)
+- [How to Recover from Expired vCenter 7 &lpar;ESXI&rpar; Certificates: A Step-by-Step Guide 2025](https://dev.to/adzhydra/how-to-recover-from-expired-vcenter-7-esxi-certificates-a-step-by-step-guide-2025-7cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
