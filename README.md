@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Slashing S3 Costs: How Databend Reduced List API Expenses by 70%](https://dev.to/ksanaka/slashing-s3-costs-how-databend-reduced-list-api-expenses-by-70-1l6e)
-- [FSCSS animation example](https://dev.to/fscss-ttr/fscss-animation-example-j2j)
-- [Indexing for NOT EQUAL &lpar;&lt;&gt;,!=&rpar; in YugabyteDB, PostgreSQL, Oracle Database, SQL Server, and MongoDB](https://dev.to/aws-heroes/indexing-for-not-equal-in-yugabytedb-postgresql-oracle-database-and-mongodb-25mo)
-- [Wordpress Developers](https://dev.to/friendsmohamed/wordpress-developers-3j2e)
-- [TanStack Query 101 with Next.js](https://dev.to/thekbbohara/tanstack-query-101-with-nextjs-ale)
+- [Understanding Research Papers &lpar;e.g arxiv&rpar;](https://dev.to/vekambar/understanding-research-papers-eg-arxiv-2hij)
+- [My next contribution will take a few weeks longer. I am down to 25045 proof steps right now.](https://dev.to/xamidi/my-next-contribution-will-take-a-few-weeks-longer-i-am-down-to-25045-proof-steps-right-now-2lmg)
+- [Chaos Engineering Testing: Building Resilient Systems Through Controlled Chaos](https://dev.to/anil_csimplifyit_905c/chaos-engineering-testing-building-resilient-systems-through-controlled-chaos-540p)
+- [&quot;Unraveling Tidal Forces: Insights into Red Giant Binary Evolution&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unraveling-tidal-forces-insights-into-red-giant-binary-evolution-13a0)
+- [Untitled](https://dev.to/atsada_samsee_a760ab89907/untitled-54p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
