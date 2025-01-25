@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Implementing Feature Flags in React via Permix](https://dev.to/letstri/implementing-feature-flags-in-react-via-permix-1dc)
-- [Exploring the Future: A Global Guide to the Best AI Technology Books](https://dev.to/julioherreravelutini/exploring-the-future-a-global-guide-to-the-best-ai-technology-books-4pkc)
-- [Introduction to Helm and Why It Matters](https://dev.to/manjunath_kotabal_3d1e736/introduction-to-helm-and-why-it-matters-1hgk)
-- [Amazon S3 + Cloudflare Cloud Connector magic](https://dev.to/petekip/amazon-s3-cloudflare-cloud-connector-magic-392f)
-- [Top 10 React Carousels to Use in 2025: User-Friendly and Efficient](https://dev.to/swhabitation/top-10-react-carousels-to-use-in-2025-user-friendly-and-efficient-2a6f)
+- [Are you stuck in Software testing role check out A Step-by-Step Guide to Transitioning from Software Testing to DevOps](https://dev.to/techconcephub/are-you-stuck-in-software-testing-role-check-out-a-step-by-step-guide-to-transitioning-from-49ba)
+- [Understanding Angular Life Cycle Hooks](https://dev.to/himanshusinghtomar/understanding-angular-life-cycle-hooks-oi4)
+- [Task-23/01/2025](https://dev.to/neelakandan_ravi_2000/task-23012025-5eck)
+- [Task-22/01/2025](https://dev.to/neelakandan_ravi_2000/task-22012025-1hni)
+- [การใช้สูตร PARENTGROUPVAL ใน Salesforce เพื่อสร้าง Report](https://dev.to/tulip_pattra/kaaraichsuutr-parentgroupval-ain-salesforce-ephuuesraang-report-13ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
