@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - 189. Rotate Array](https://dev.to/rakeshreddy512/leetcode-189-rotate-array-4hig)
-- [Will AI Replace Frontend Developers?](https://dev.to/samratsahasammy/will-ai-replace-frontend-developers-50pb)
-- [AI wrote this blog, surprising intro to Convex Backend](https://dev.to/eagledev_/ai-wrote-this-blog-surprising-intro-to-convex-backend-2na3)
-- [Example FSCSS animation](https://dev.to/lmcss/example-fscss-animation-3n5b)
-- [How I Spent My Winter Learning Blockchain](https://dev.to/arkad23/how-i-spent-my-winter-learning-blockchain-3ei5)
+- [Deploying Java Applications on AWS ECS and ECR with a Jenkins CI/CD Pipeline](https://dev.to/bhaktraj/deploying-java-applications-on-aws-ecs-and-ecr-with-a-jenkins-cicd-pipeline-1ji5)
+- [🚀Top React Animation Libraries: Framer Motion, GSAP, React Spring, and More](https://dev.to/ciphernutz/top-react-animation-libraries-framer-motion-gsap-react-spring-and-more-4854)
+- [Stack xotirasi](https://dev.to/madina1575/stack-xotirasi-3fke)
+- [Building a Simple Laravel App with Reverb: A Step-by-Step Guide](https://dev.to/vimuth7/building-a-simple-laravel-app-with-reverb-a-step-by-step-guide-19g5)
+- [There is no difference between technical debt and washing up](https://dev.to/guiommary/there-is-no-difference-between-technical-debt-and-washing-up-2l0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
