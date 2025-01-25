@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Responde como un experto: Gestión de incidentes y seguridad con AWS](https://dev.to/briansuarezsantiago/responde-como-un-experto-gestion-de-incidentes-y-seguridad-con-aws-43jc)
-- [2948. Make Lexicographically Smallest Array by Swapping Elements](https://dev.to/mdarifulhaque/2948-make-lexicographically-smallest-array-by-swapping-elements-2n9)
-- [Instalación y uso de TanStack Query &lpar;antes React Query&rpar;](https://dev.to/unpandadev/instalacion-y-uso-de-tanstack-query-antes-react-query-1g0i)
-- [Data Engineering Zoomcamp 2025 Cohort: Introduction - Self-Study Notes](https://dev.to/pizofreude/data-engineering-zoomcamp-2025-cohort-introduction-self-study-notes-44a4)
-- [Debugging Containers Without Shell Access: Quick Tips](https://dev.to/marknefedov/debugging-containers-without-shell-access-quick-tips-41p1)
+- [Java methods and classes examples 2](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-2-4d5a)
+- [Java methods and classes examples 1](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-1-26db)
+- [Creating a scalable Monorepo for Vue - Libs vs Apps](https://dev.to/nagell/creating-a-scalable-monorepo-for-vue-libs-vs-apps-489l)
+- [Understanding Subnetting in Simple Terms](https://dev.to/jamiu_cloud/understanding-subnetting-in-simple-terms-5hb8)
+- [Java methods and classes examples](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-23mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
