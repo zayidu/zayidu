@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tauri &lpar;1&rpar; — A desktop application development solution more suitable for web developers ✅](https://dev.to/rain9/tauri-1-a-desktop-application-development-solution-more-suitable-for-web-developers-38c2)
-- [Tauri &lpar;8&rpar; - Implementing global shortcut key function](https://dev.to/rain9/tauri-8-implementing-global-shortcut-key-function-2336)
-- [AceHack 4.0: Innovation Meets Entertainment](https://dev.to/acehack/acehack-40-innovation-meets-entertainment-k58)
-- [ApiControllerAttribute en .NET Core](https://dev.to/brventurau/apicontrollerattribute-en-net-core-2kb8)
-- [Stop Killing your Largest Contentful Paint score with images!](https://dev.to/codingcatdev/stop-killing-your-largest-contentful-paint-score-with-images-513b)
+- [Why DeepSeek Might Be the AI Tool to Replace ChatGPT Premium!](https://dev.to/joodi/why-deepseek-might-be-the-ai-tool-to-replace-chatgpt-premium-4mp5)
+- [Types of Renewable Energy: A Comprehensive Guide](https://dev.to/scitech-insights/types-of-renewable-energy-a-comprehensive-guide-3kdh)
+- [Configure self-hosted runner for GitHub Actions](https://dev.to/busycaesar/configure-self-hosted-runner-for-github-actions-j1b)
+- [Pocketpair Launches Publishing Division to Support Indie Developers](https://dev.to/devcoder77/pocketpair-launches-publishing-division-to-support-indie-developers-4e2n)
+- [January 24, 2025: A Data Breach Recap and a Call for Enhanced Security](https://dev.to/seosiri/january-24-2025-a-data-breach-recap-and-a-call-for-enhanced-security-1hhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
