@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Need HTMX in Your Life &lpar;and How to Get Started&rpar;](https://dev.to/digitalminds/why-you-need-htmx-in-your-life-and-how-to-get-started-294n)
+- [Is Multitasking a Skill—or Just a Fancy Word for Doing Nothing Well?](https://dev.to/nat_sun/is-multitasking-a-skill-or-just-a-fancy-word-for-doing-nothing-well-mp0)
 - [Mantle Network: The Modular Layer-2 Gem](https://dev.to/babalasisi/mantle-network-the-modular-layer-2-gem-5147)
 - [The &lt;sarcasm&gt; 🙄 component - now Brits can finally be understood on the web!](https://dev.to/grahamthedev/the-component-now-brits-can-finally-be-understood-on-the-web-33m1)
 - [Riverpod Flutter: A Beginner&#39;s Guide](https://dev.to/codeparrot/riverpod-flutter-a-beginners-guide-372j)
-- [[Boost]](https://dev.to/saint_vandora/-30p2)
-- [Authentication &amp; Authorization in FastAPI with Keycloak](https://dev.to/saint_vandora/authentication-authorization-in-fastapi-with-keycloak-5h4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
