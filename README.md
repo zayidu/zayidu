@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Research Papers &lpar;e.g arxiv&rpar;](https://dev.to/vekambar/understanding-research-papers-eg-arxiv-2hij)
-- [My next contribution will take a few weeks longer. I am down to 25045 proof steps right now.](https://dev.to/xamidi/my-next-contribution-will-take-a-few-weeks-longer-i-am-down-to-25045-proof-steps-right-now-2lmg)
-- [Chaos Engineering Testing: Building Resilient Systems Through Controlled Chaos](https://dev.to/anil_csimplifyit_905c/chaos-engineering-testing-building-resilient-systems-through-controlled-chaos-540p)
-- [&quot;Unraveling Tidal Forces: Insights into Red Giant Binary Evolution&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unraveling-tidal-forces-insights-into-red-giant-binary-evolution-13a0)
-- [Untitled](https://dev.to/atsada_samsee_a760ab89907/untitled-54p1)
+- [🌟 🌐 FastAPIs Github Repository Podcast 🔥](https://dev.to/hanzla-baig/fastapis-github-repository-podcast-3ija)
+- [My Workstation Situation](https://dev.to/timothy_97/my-workstation-situation-2oml)
+- [🤖🧠Making Tech Blog 4 &lpar;Vercel&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-4-vercel-ppj)
+- [HOW TO DO INPUT IN .NET C# PROGRAMMING LANGUAGE ??](https://dev.to/dilmurod_yaqubbayev_073a5/how-to-do-input-in-net-c-programming-language--4jij)
+- [Top 5 Data Visualization Libraries You Should Know in 2025](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
