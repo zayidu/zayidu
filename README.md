@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Types in TypeScript](https://dev.to/brunociccarino/everything-you-need-to-know-about-types-in-typescript-1leh)
-- [Mantle Network: The Next Evolution in Ethereum Scalability](https://dev.to/amity808/mantle-network-the-next-evolution-in-ethereum-scalability-3f37)
-- [Impossible to access &quot;/home/channelTv&quot; page, after insert token](https://dev.to/sissoko20/impossible-to-access-homechanneltv-page-after-insert-token-n12)
-- [Why You Should Rethink Your Python Toolbox in 2025](https://dev.to/harsh317/why-you-should-rethink-your-python-toolbox-in-2025-41o8)
-- [Unlocking the Potential of Mantle Network](https://dev.to/izi_/unlocking-the-potential-of-mantle-network-3pc3)
+- [Exploring the New Architecture of React Native: A Step Towards Modernization 🔥](https://dev.to/ersuman/exploring-the-new-architecture-of-react-native-a-step-towards-modernization-5174)
+- [Mindmap Generator: How to Draw SVG-Based Graphs with AI-Generated Text and Images Using the Agent Approach](https://dev.to/sosuisen/mindmap-generator-how-to-draw-svg-based-graphs-with-ai-generated-text-and-images-using-the-agent-2po2)
+- [🔥Announcing Auto-I8LN: Simplify Flutter Internationalization &amp; Localization](https://dev.to/michealgabriel/announcing-auto-i8ln-simplify-flutter-internationalization-localization-3hm3)
+- [How do you get around an LLM&#39;s knowledge cutoff?](https://dev.to/jhonkaman/how-do-you-get-around-an-llms-knowledge-cutoff-44be)
+- [Authentication Without Complexity: Rails&#39; Built-in Solution](https://dev.to/shettigarc/authentication-without-complexity-rails-built-in-solution-3c3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
