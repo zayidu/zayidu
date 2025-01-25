@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Compliance over](https://dev.to/sosmation/seeking-compliance-over-2ki9)
-- [Convert a GeoTIFF for Use with Cesium&#39;s Imagery Provider using GISBox](https://dev.to/gisbox/convert-a-geotiff-for-use-with-cesiums-imagery-provider-using-gisbox-1nl8)
-- [GISBox generates models with one click and easily completes format conversion](https://dev.to/gisbox/gisbox-generates-models-with-one-click-and-easily-completes-format-conversion-4li8)
-- [Frontend Performance Optimization: A Comprehensive Guide 🚀](https://dev.to/alisamir/frontend-performance-optimization-a-comprehensive-guide-2bfk)
-- [Ensuring Security and Compliance with On Premises Identity Verification—FacePlugin’s Advanced Solutions](https://dev.to/faceplugin/ensuring-security-and-compliance-with-on-premises-identity-verification-faceplugins-advanced-1jpf)
+- [Comprehensive Comparison: CISSP vs. CCSP in 2025](https://dev.to/p2p_certs_5787663da138fad/comprehensive-comparison-cissp-vs-ccsp-in-2025-85h)
+- [Understanding AJAX, XMLHttpRequest, and Fetch API in JavaScript](https://dev.to/krushna_sananse/understanding-ajax-xmlhttprequest-and-fetch-api-in-javascript-ijf)
+- [CheckMate - quick and easy-to-use fact-checking assistant that combats misinformation](https://dev.to/filipehb/checkmate-quick-and-easy-to-use-fact-checking-assistant-that-combats-misinformation-3n41)
+- [Managing Production Configurations in ASP.NET Core WebAPI Using Environment Variables](https://dev.to/imzihad21/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf)
+- [Understanding the Benefits of Vertical Scaling Over Horizontal Scaling for Server Resources](https://dev.to/adityabhuyan/understanding-the-benefits-of-vertical-scaling-over-horizontal-scaling-for-server-resources-5f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
