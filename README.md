@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating JavaScript: Async / Await](https://dev.to/liam-brophy/navigating-javascript-async-await-356b)
-- [Type, or Interface, That Is the Question](https://dev.to/leapcell/type-or-interface-that-is-the-question-50c7)
-- [How to change a word across multiple files in a directory using find and sed](https://dev.to/itwerx/how-to-change-a-word-across-multiple-files-in-a-directory-using-find-and-sed-1cod)
-- [Closer to God via Agent.ai](https://dev.to/victoronoja/closer-to-god-via-agentai-2pmk)
-- [A Clear Guide to AuthN, AuthZ, OIDC, OAuth and Their Role in Securing Applications](https://dev.to/mastermentee/a-clear-guide-to-authn-authz-oidc-oauth-and-their-role-in-securing-applications-29o1)
+- [Designing Website Layouts: A Friendly Guide](https://dev.to/lovestaco/designing-website-layouts-a-friendly-guide-29he)
+- [Understanding Internet Protocols: The Backbone of Communication](https://dev.to/hossamgouda/understanding-internet-protocols-the-backbone-of-communication-1bkc)
+- [C++19th Code &lpar; postfix &amp; Prefix&rpar; --&gt; &lpar;X++&rpar; &amp; &lpar;++X&rpar;](https://dev.to/md-salah/c19th-code-postfix-prefix-x-x-5ecl)
+- [Type Hero](https://dev.to/ikuzwe_shema_elie/type-hero-23bg)
+- [Mastering Field Validation and User Existence Checks in Node.js: A Developer’s Survival Guide](https://dev.to/yugjadvani/mastering-field-validation-and-user-existence-checks-in-nodejs-a-developers-survival-guide-25db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
