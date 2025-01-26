@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How Web Workers Saved My JavaScript App from Performance Hell 🚀](https://dev.to/digitalminds/how-web-workers-saved-my-javascript-app-from-performance-hell-1kkg)
 - [Big News: Web Accidents is LIVE! 🎉](https://dev.to/vigneshiyergithub/big-news-web-accidents-is-live-2639)
 - [General Overview Of Computer Architecture](https://dev.to/zzhihao/general-overview-of-computer-architecture-59ip)
+- [Unlocking the Power of Data with Inferium](https://dev.to/faisal_the1st/unlocking-the-power-of-data-with-inferium-2m0k)
 - [Introduction to Linked Lists in PHP: A Beginner&#39;s Guide](https://dev.to/abdulwahidkahar/introduction-to-linked-lists-in-php-a-beginners-guide-5fe6)
-- [Get started with Vector Search in Azure Cosmos DB](https://dev.to/abhirockzz/get-started-with-vector-search-in-azure-cosmos-db-15dk)
-- [Rust and Go: The Future of High-Performance Computing](https://dev.to/adamgolan/rust-and-go-the-future-of-high-performance-computing-2gpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
