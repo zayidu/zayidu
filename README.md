@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the World&#39;s First User-Friendly DNS Manager: The is-cod.in DNS Panel Story](https://dev.to/araan/building-the-worlds-first-user-friendly-dns-manager-the-is-codin-dns-panel-story-5c0o)
-- [MealMate - Your all-in-one meal planner, nutrition guide, and grocery assistant](https://dev.to/jasmin/mealmate-your-all-in-one-meal-planner-nutrition-guide-and-grocery-assistant-1i7f)
-- [Using Deepseek r1 in Visual Studio Code for free.](https://dev.to/lunaticprogrammer/using-deepseek-r1-in-visual-studio-code-for-free-2279)
-- [Make Raindrop Even Better](https://dev.to/deshalpadmakar/make-raindrop-even-better-3a0k)
-- [JavaScript Functions Higher-Order, Anonymous, Invoked &amp; More!](https://dev.to/sudhanshudevelopers/javascript-functions-higher-order-anonymous-invoked-more-5127)
+- [Como Gerenciar Processos no Windows Usando PowerShell](https://dev.to/higoranjos/como-gerenciar-processos-no-windows-usando-powershell-imb)
+- [5 Awesome Redis Alternatives you need to know in 2025](https://dev.to/code42cate/5-awesome-redis-alternatives-you-need-to-know-in-2025-2k0m)
+- [Understanding OpenGL Rendering Pipeline Stages](https://dev.to/vinishkumar_/understanding-opengl-rendering-pipeline-stages-5ajo)
+- [16 Front-End Code Snippets Worth Checking Out](https://dev.to/kelen/16-front-end-code-snippets-worth-checking-out-4jld)
+- [How We Designed In-Flight Business in Cabin Crew Life Simulator - Devlog #13](https://dev.to/khaisimon_devgame/how-we-designed-in-flight-business-in-cabin-crew-life-simulator-devlog-13-4mf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
