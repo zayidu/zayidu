@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there Any Unique Project Ideas left?](https://dev.to/lakshita_kumawat/is-there-any-unique-project-ideas-left-1jl3)
-- [Understanding the Practical Benefits of FreeBSD&#39;s Architecture-Independent Build System](https://dev.to/adityabhuyan/understanding-the-practical-benefits-of-freebsds-architecture-independent-build-system-301g)
-- [The Beauty of Clean Code: Why Simplicity Matters](https://dev.to/abhishekjaiswal_4896/the-beauty-of-clean-code-why-simplicity-matters-3o6)
-- [DevOps vs Systems Engineering: Understanding the Evolving Role in AI, Big Data, and IoT](https://dev.to/adityabhuyan/devops-vs-systems-engineering-understanding-the-evolving-role-in-ai-big-data-and-iot-1p7e)
-- [Automated Guide to VPC Lattice Setup and North-South Traffic Testing in Amazon EKS](https://dev.to/kashifrafi/automated-guide-to-vpc-lattice-setup-and-north-south-traffic-testing-in-amazon-eks-ak5)
+- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-1n35)
+- [7 React Lessons I Wish I Knew Earlier &lpar;with TypeScript Examples&rpar;](https://dev.to/sovannaro/7-react-lessons-i-wish-i-knew-earlier-with-typescript-examples-8ho)
+- [How AI Is Transforming Code Learning—for Better and for Worse](https://dev.to/sarthology/how-ai-is-transforming-code-learning-for-better-and-for-worse-2nhc)
+- [AI Pet Finder](https://dev.to/wenheli/ai-pet-finder-167a)
+- [&quot;Why Does Realistic Gravity Feel Floaty in My Game?&quot; – A Developer&#39;s Dilemma](https://dev.to/benoabarcas/why-does-realistic-gravity-feel-floaty-in-my-game-a-developers-dilemma-55ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
