@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a CRUD App with Golang, Gin, and PostgreSQL](https://dev.to/mazyaryousefinia/how-to-build-a-crud-app-with-golang-gin-and-postgresql-4h4l)
-- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-416a)
-- [From Express to Laravel: My Journey of Rewriting a 5-Year-Old REST API &lpar;and Surviving the Chaos&rpar;](https://dev.to/darkterminal/from-express-to-laravel-my-journey-of-rewriting-a-5-year-old-rest-api-and-surviving-the-chaos-3da7)
-- [How I made toggle transition to &lt;details&gt; element](https://dev.to/msulais/how-i-made-toggle-transition-to-element-3dd5)
-- [How to Run Performance Monitor as Administrator on Windows 11? 3+ Best Ways!](https://dev.to/winsides/how-to-run-performance-monitor-as-administrator-on-windows-11-3-best-ways-eia)
+- [Is there Any Unique Project Ideas left?](https://dev.to/lakshita_kumawat/is-there-any-unique-project-ideas-left-1jl3)
+- [Understanding the Practical Benefits of FreeBSD&#39;s Architecture-Independent Build System](https://dev.to/adityabhuyan/understanding-the-practical-benefits-of-freebsds-architecture-independent-build-system-301g)
+- [The Beauty of Clean Code: Why Simplicity Matters](https://dev.to/abhishekjaiswal_4896/the-beauty-of-clean-code-why-simplicity-matters-3o6)
+- [DevOps vs Systems Engineering: Understanding the Evolving Role in AI, Big Data, and IoT](https://dev.to/adityabhuyan/devops-vs-systems-engineering-understanding-the-evolving-role-in-ai-big-data-and-iot-1p7e)
+- [Automated Guide to VPC Lattice Setup and North-South Traffic Testing in Amazon EKS](https://dev.to/kashifrafi/automated-guide-to-vpc-lattice-setup-and-north-south-traffic-testing-in-amazon-eks-ak5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
