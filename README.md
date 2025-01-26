@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: New Hooks Every Developer Should Know](https://dev.to/swagath_tp_/react-19-new-hooks-every-developer-should-know-40dl)
-- [Getting Started with Encore.go](https://dev.to/eminetto/getting-started-with-encorego-3pk2)
-- [How can I create a killer business presentation that&#39;s more of a show than a speech?](https://dev.to/0x5a_live/how-can-i-create-a-killer-business-presentation-thats-more-of-a-show-than-a-speech-11eb)
-- [Git Bash Gradle Ctrl+C Fix: A Practical Guide](https://dev.to/0x2e_tech/git-bash-gradle-ctrlc-fix-a-practical-guide-4e1j)
-- [Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-4hp3)
+- [Study Notes: DE Zoomcamp 1.2.1 - Introduction to Docker](https://dev.to/pizofreude/study-notes-de-zoomcamp-121-introduction-to-docker-bj4)
+- [Introducing SponsoShield | An AI powered agent to indetify sponsors on youtube](https://dev.to/hikolakita/introducing-sponsoshield-an-ai-powered-agent-to-indetify-sponsors-on-youtube-e1l)
+- [Short Story Video Generator: Streamlining Social Media Content Creation with Agent.ai](https://dev.to/jacksonkasi/short-story-video-generator-streamlining-social-media-content-creation-with-agentai-1le9)
+- [GenAI: Building RAG Systems with LangChain](https://dev.to/ajmal_hasan/genai-building-rag-systems-with-langchain-4dbp)
+- [NPM Install Hanging? Fix TailwindCSS Reify Issues Now!](https://dev.to/0x2e_tech/npm-install-hanging-fix-tailwindcss-reify-issues-now-6nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
