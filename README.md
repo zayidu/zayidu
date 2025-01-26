@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-1n35)
-- [7 React Lessons I Wish I Knew Earlier &lpar;with TypeScript Examples&rpar;](https://dev.to/sovannaro/7-react-lessons-i-wish-i-knew-earlier-with-typescript-examples-8ho)
-- [How AI Is Transforming Code Learning—for Better and for Worse](https://dev.to/sarthology/how-ai-is-transforming-code-learning-for-better-and-for-worse-2nhc)
-- [AI Pet Finder](https://dev.to/wenheli/ai-pet-finder-167a)
-- [&quot;Why Does Realistic Gravity Feel Floaty in My Game?&quot; – A Developer&#39;s Dilemma](https://dev.to/benoabarcas/why-does-realistic-gravity-feel-floaty-in-my-game-a-developers-dilemma-55ni)
+- [Python Logging: loguru vs logging](https://dev.to/leapcell/python-logging-loguru-vs-logging-1f55)
+- [When You Open a Website What Exactly happens Internally](https://dev.to/ashutoshsarangi/when-you-open-a-website-what-exactly-happens-internally-jff)
+- [Python Caching mutable values](https://dev.to/ninadmhatre/python-caching-mutable-values-213f)
+- [Fun Post Generator](https://dev.to/thefauxpastrouper/fun-post-generator-247f)
+- [Testing for Sustainability in AI/ML: Building Eco-Friendly Intelligent Systems](https://dev.to/arun_pal_3ce740a137cf15ad/testing-for-sustainability-in-aiml-building-eco-friendly-intelligent-systems-2he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
