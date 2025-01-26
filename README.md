@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Tech Podcasts for Software Engineers to Level Up in 2025](https://dev.to/jaiminbariya/top-10-tech-podcasts-for-software-engineers-to-level-up-in-2025-518j)
-- [Task and Parallel](https://dev.to/sborhade/task-and-parallel-dlf)
-- [The Short Life of a Llama &lpar;a poem&rpar;](https://dev.to/auroratide/the-short-life-of-a-llama-a-poem-25gp)
-- [I&#39;ve updated the example for a better read experience.](https://dev.to/louis7/ive-updated-the-example-for-a-better-read-experience-calling-apis-between-services-is-one-of-4lhb)
-- [OTA hot update in react native, easy to control with CMS](https://dev.to/khnh_nguyen_49f492436eef/ota-hot-update-in-react-native-easy-to-control-with-cms-51ha)
+- [How to Build a CRUD App with Golang, Gin, and PostgreSQL](https://dev.to/mazyaryousefinia/how-to-build-a-crud-app-with-golang-gin-and-postgresql-4h4l)
+- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-416a)
+- [From Express to Laravel: My Journey of Rewriting a 5-Year-Old REST API &lpar;and Surviving the Chaos&rpar;](https://dev.to/darkterminal/from-express-to-laravel-my-journey-of-rewriting-a-5-year-old-rest-api-and-surviving-the-chaos-3da7)
+- [How I made toggle transition to &lt;details&gt; element](https://dev.to/msulais/how-i-made-toggle-transition-to-element-3dd5)
+- [How to Run Performance Monitor as Administrator on Windows 11? 3+ Best Ways!](https://dev.to/winsides/how-to-run-performance-monitor-as-administrator-on-windows-11-3-best-ways-eia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
