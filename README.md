@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Gerenciar Processos no Windows Usando PowerShell](https://dev.to/higoranjos/como-gerenciar-processos-no-windows-usando-powershell-imb)
-- [5 Awesome Redis Alternatives you need to know in 2025](https://dev.to/code42cate/5-awesome-redis-alternatives-you-need-to-know-in-2025-2k0m)
-- [Understanding OpenGL Rendering Pipeline Stages](https://dev.to/vinishkumar_/understanding-opengl-rendering-pipeline-stages-5ajo)
-- [16 Front-End Code Snippets Worth Checking Out](https://dev.to/kelen/16-front-end-code-snippets-worth-checking-out-4jld)
-- [How We Designed In-Flight Business in Cabin Crew Life Simulator - Devlog #13](https://dev.to/khaisimon_devgame/how-we-designed-in-flight-business-in-cabin-crew-life-simulator-devlog-13-4mf2)
+- [Referring styles of other vue file](https://dev.to/hadakadenkyu/referring-styles-of-other-vue-file-34ec)
+- [Top 5 Upvoty Alternatives in 2025](https://dev.to/shayy/top-5-upvoty-alternatives-in-2025-3h45)
+- [Email Sender Service](https://dev.to/yadab_sutradhar/email-sender-service-gg1)
+- [Host React with Blazor Server](https://dev.to/ruxozheng/host-react-with-blazor-server-6ff)
+- [Simplify Your React Development with useHooks](https://dev.to/dzungnt98/simplify-your-react-development-with-usehooks-2d0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
