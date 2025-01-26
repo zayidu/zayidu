@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 putty,Mobaxterm+ IAM + S3](https://dev.to/sanjay02112004/ec2-puttymobaxterm-iam-s3-1310)
-- [10 Simple &amp; Easy Steps to Create a Website](https://dev.to/tarunfulera1/10-simple-easy-steps-to-create-a-website-5cgo)
-- [Sports API System with Amazon ECS and API Gateway](https://dev.to/ayindejamiu/sports-api-system-with-amazon-ecs-and-api-gateway-1da1)
-- [The Internet Computer Protocol &lpar;ICP&rpar;: A Technical Deep Dive into the World Computer](https://dev.to/amity808/the-internet-computer-protocol-icp-a-technical-deep-dive-into-the-world-computer-1jl)
-- [Finding a Simple but Meaningful Idea](https://dev.to/ramaadi/finding-a-simple-but-meaningful-idea-34l4)
+- [10 Must Read Data Structures and Algorithms Books for Developers](https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1)
+- [InfluenceIQ: The Ultimate AI Tool for Smarter Influencer Marketing](https://dev.to/ronit_chawla_88d33416a2cd/influenceiq-the-ultimate-ai-tool-for-smarter-influencer-marketing-2i0e)
+- [Redis Demystified: A Simple Introduction for System Design 🧩](https://dev.to/priya01/redis-demystified-a-simple-introduction-for-system-design-56mb)
+- [ng-conf 2024: Angular control flow](https://dev.to/mehdi1/ng-conf-2024-angular-control-flow-4p4k)
+- [Deploying Django and Wagtail on Cloud Servers: A Step-by-Step Guide](https://dev.to/matusunuwawa/deploying-django-and-wagtail-on-cloud-servers-a-step-by-step-guide-67j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
