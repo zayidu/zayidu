@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Launcher: Improve your linked-in today](https://dev.to/bizzi_cole87_26ec228487d6/career-launcher-improve-your-linked-in-today-4k45)
+- [DeepSeek R1 vs GPT: The AI Showdown That’s Changing Everything](https://dev.to/arpitstack/deepseek-r1-vs-gpt-the-ai-showdown-thats-changing-everything-35k9)
+- [25+ AI Tech Resources for Developers - Jan 27, 2025](https://dev.to/dev-resources/25-ai-tech-resources-for-developers-jan-27-2025-29fn)
 - [2025 React vs. Vue Tech Stack Comparison for Your Startup](https://dev.to/abubakersiddique761/2025-react-vs-vue-tech-stack-comparison-for-your-startup-556n)
 - [A Brief History of Frontend Engineering](https://dev.to/leapcell/a-brief-history-of-frontend-engineering-b27)
-- [What Makes You Think You&#39;re Too Fat to Make Money?](https://dev.to/0x5a_live/what-makes-you-think-youre-too-fat-to-make-money-m1g)
-- [How might selfless acts build a profitable business?](https://dev.to/0x5a_live/how-might-selfless-acts-build-a-profitable-business-2gk6)
-- [Python REST API for Real-time Stock Data: A Trader&#39;s Guide](https://dev.to/0x2e_tech/python-rest-api-for-real-time-stock-data-a-traders-guide-52bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
