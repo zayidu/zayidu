@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to easily add 3D Models to your React apps.](https://dev.to/oia20/how-to-easily-add-3d-models-to-your-react-apps-474)
-- [Starting with Self-Hosting](https://dev.to/noriller/starting-with-self-hosting-fhm)
-- [Career Launcher: Improve your linked-in today](https://dev.to/bizzi_cole87_26ec228487d6/career-launcher-improve-your-linked-in-today-4k45)
-- [Internet Service Judge!](https://dev.to/slimjunior/internet-service-judge-1l97)
-- [DeepSeek R1 vs GPT: The AI Showdown That’s Changing Everything](https://dev.to/arpitstack/deepseek-r1-vs-gpt-the-ai-showdown-thats-changing-everything-35k9)
+- [AWS Secrets Manager: Mantén tus secretos seguros y fuera del código](https://dev.to/briansuarezsantiago/aws-secrets-manager-manten-tus-secretos-seguros-y-fuera-del-codigo-591h)
+- [Creating and Managing Custom systemd Services on Ubuntu](https://dev.to/edgaras/creating-and-managing-custom-systemd-services-on-ubuntu-dkh)
+- [Unraveling the &quot;===&quot; of javascript](https://dev.to/mmvergara/unraveling-the-of-javascript-2h36)
+- [AspireMatch: AI That Connects You to Funding, Faster](https://dev.to/mrmemory/aspirematch-ai-that-connects-you-to-funding-faster-5hnc)
+- [The AI Game-Changer: Running DeepSeek-R1 Locally on a MacBook Pro M3](https://dev.to/cloudgeek7/the-ai-game-changer-running-deepseek-r1-locally-on-a-macbook-pro-m3-4973)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
