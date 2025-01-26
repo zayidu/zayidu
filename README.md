@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Secrets Manager: Mantén tus secretos seguros y fuera del código](https://dev.to/briansuarezsantiago/aws-secrets-manager-manten-tus-secretos-seguros-y-fuera-del-codigo-591h)
-- [Creating and Managing Custom systemd Services on Ubuntu](https://dev.to/edgaras/creating-and-managing-custom-systemd-services-on-ubuntu-dkh)
-- [Unraveling the &quot;===&quot; of javascript](https://dev.to/mmvergara/unraveling-the-of-javascript-2h36)
-- [AspireMatch: AI That Connects You to Funding, Faster](https://dev.to/mrmemory/aspirematch-ai-that-connects-you-to-funding-faster-5hnc)
-- [The AI Game-Changer: Running DeepSeek-R1 Locally on a MacBook Pro M3](https://dev.to/cloudgeek7/the-ai-game-changer-running-deepseek-r1-locally-on-a-macbook-pro-m3-4973)
+- [How to Use GraphQL in Django with Elasticsearch](https://dev.to/djangotricks/how-to-use-graphql-in-django-with-elasticsearch-4a9p)
+- [Why Communication Isn’t Just a Skill—It’s a Product Manager’s Superpower 🚀💬](https://dev.to/mrflamez_/why-communication-isnt-just-a-skill-its-a-product-managers-superpower-3cmj)
+- [React Currency Converter App](https://dev.to/imrancodes/react-currency-converter-app-5e9a)
+- [Laravel Migrations: A Beginner-Friendly Guide 🚀](https://dev.to/asekhamejoel/laravel-migrations-a-beginner-friendly-guide-54hj)
+- [What is awscurl? Why is it useful?](https://dev.to/aws-builders/what-is-awscurl-why-is-it-useful-3fbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
