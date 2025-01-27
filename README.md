@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-505k)
+- [Stay ahead in web development: latest news, tools, and insights #69](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-69-1128)
+- [How Much Does it Cost to Develop an App like Myntra](https://dev.to/yudizsolutions/how-much-does-it-cost-to-develop-an-app-like-myntra-2lpn)
 - [When Your Series A Success Becomes a Code Review Crisis](https://dev.to/camshotter/when-your-series-a-success-becomes-a-code-review-crisis-40ad)
-- [Summarizing &quot;What Every Computer Scientist Should Know About Floating Point Arithmetic&quot;](https://dev.to/absterdabster/summarizing-what-every-computer-scientist-should-know-about-floating-point-arithmetic-h0b)
-- [SocialSelling Radar : Be Prepared for Every Lead](https://dev.to/moadhdev/socialselling-radar-be-prepared-for-every-lead-1062)
-- [🚀 API Analysis Github Repository 🔥 🌐](https://dev.to/hanzla-baig/api-analysis-github-repository-1e0i)
-- [Internet Gateway en AWS Desde Cero](https://dev.to/camila_vinza/internet-gateway-en-aws-desde-cero-51b2)
+- [DeepSeek vs ChatGPT: The Next-Generation AI Showdown](https://dev.to/ragoli86/deepseek-vs-chatgpt-the-next-generation-ai-showdown-3og6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
