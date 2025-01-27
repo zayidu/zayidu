@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use GraphQL in Django with Elasticsearch](https://dev.to/djangotricks/how-to-use-graphql-in-django-with-elasticsearch-4a9p)
-- [Why Communication Isn’t Just a Skill—It’s a Product Manager’s Superpower 🚀💬](https://dev.to/mrflamez_/why-communication-isnt-just-a-skill-its-a-product-managers-superpower-3cmj)
-- [React Currency Converter App](https://dev.to/imrancodes/react-currency-converter-app-5e9a)
-- [Laravel Migrations: A Beginner-Friendly Guide 🚀](https://dev.to/asekhamejoel/laravel-migrations-a-beginner-friendly-guide-54hj)
-- [What is awscurl? Why is it useful?](https://dev.to/aws-builders/what-is-awscurl-why-is-it-useful-3fbd)
+- [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
+- [Deep Research in Few Minutes with Agent.ai](https://dev.to/ifihan/deep-research-in-few-minutes-with-agentai-163f)
+- [Starting My Programming Journey: Learning Python and Building the Future!](https://dev.to/najm_dine454/starting-my-programming-journey-learning-python-and-building-the-future-j05)
+- [CSS](https://dev.to/katherineh/css-5pl)
+- [Learning Cloud, One Step at a Time: My Resume Challenge Story](https://dev.to/divyanshi_nath_c92a6ad79b/learning-cloud-one-step-at-a-time-my-resume-challenge-story-4b3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
