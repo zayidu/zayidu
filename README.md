@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate - The Super Connector](https://dev.to/wyattdave/power-automate-the-super-connector-3gbe)
-- [RAG Integration: DeepSeek’s New BFF in the AI World](https://dev.to/aws-builders/rag-integration-deepseeks-new-bff-in-the-ai-world-4934)
-- [Neurolov’s Partnerships in AI and Web3](https://dev.to/neurolov_ai_/neurolovs-partnerships-in-ai-and-web3-3anm)
-- [2025: A Great Start for Linkspreed and Web4](https://dev.to/web4/2025-a-great-start-for-linkspreed-and-web4-576h)
-- [Top Chrome extensions for web design in 2025](https://dev.to/paul_freeman/top-chrome-extensions-for-web-design-in-2025-1gah)
+- [Agent: Content summariser](https://dev.to/saloni0512/agent-content-summariser-38f9)
+- [ResearchByte: Techy+bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techybite-sized-videos-in-minutes-3a1l)
+- [ResearchByte: Techy + bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techy-bite-sized-videos-in-minutes-2ef7)
+- [AI Meme Generator: Where Humor Meets Virality](https://dev.to/ifihan/ai-meme-generator-where-humor-meets-virality-1k00)
+- [FraudWatch: Helping You Avoid Financial Fraud and Making a Positive Social Impact through AI](https://dev.to/chijioke_osadebe_c6d2e7f7/fraudwatch-helping-you-avoid-financial-fraud-and-making-a-positive-social-impact-through-ai-255a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
