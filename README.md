@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Attending Tech Conferences With a Toddler: A DevRel Mom’s Story](https://dev.to/vonagedev/attending-tech-conferences-with-a-toddler-a-devrel-moms-story-41np)
+- [DeepSeek-R1: The Open-Source AI That&#39;s Making Waves &lpar;on a Budget!&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-r1-the-open-source-ai-thats-making-waves-on-a-budget-13ik)
 - [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
-- [Creating An AI Agent For Kubernetes Performance Optimization](https://dev.to/thenjdevopsguy/creating-an-ai-agent-for-kubernetes-performance-optimization-2nl9)
-- [Tools with ChatContext Dependency Injection](https://dev.to/ag2ai/tools-with-chatcontext-dependency-injection-187m)
-- [Comparing Amazon DynamoDB with Other NoSQL Databases: MongoDB and Cassandra](https://dev.to/imsushant12/comparing-amazon-dynamodb-with-other-nosql-databases-mongodb-and-cassandra-1h16)
-- [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
+- [How to Build a Social Network in 1 Day: Part 6 - Adding a Feed](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-6-adding-a-feed-1k33)
+- [Power Pages: custom Content Snippets with a HACK part 1](https://dev.to/andrewelans/power-pages-custom-content-snippets-with-a-hack-part-1-2hf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
