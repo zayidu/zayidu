@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s http.ServeMux Is All You Need](https://dev.to/leapcell/gos-httpservemux-is-all-you-need-1mam)
-- [Building Custom Insurance Policy Management Application 60% Faster](https://dev.to/openkoda/building-custom-insurance-policy-management-application-60-faster-667)
-- [Convert Dates to Persian Time in React](https://dev.to/joodi/convert-dates-to-persian-time-in-react-1a6e)
-- [Hack the Future: AI &amp; Open Source Hackathon - Wrapped Up!!](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-wrapped-up-30ak)
-- [Why do people choose to invest in crypto?](https://dev.to/cryptosandy/why-do-people-choose-to-invest-in-crypto-3ki3)
+- [EC2 Placement Groups: Fine-Tuning Your Cloud Infrastructure for Specific Workload Needs](https://dev.to/lindiwe09/ec2-placement-groups-fine-tuning-your-cloud-infrastructure-for-specific-workload-needs-3bm2)
+- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
+- [Meme Monday](https://dev.to/ben/meme-monday-419k)
+- [Here&#39;s What We Achieved! All the insights from recent… &quot;Hack the Future: AI &amp; Open Source Hackathon&quot;.](https://dev.to/abdibrokhim/heres-what-we-achieved-all-the-insights-from-recent-hack-the-future-ai-open-source-15p4)
+- [Stop wasting time on ontology setup](https://dev.to/falkordb/stop-wasting-time-on-ontology-setup-2m1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
