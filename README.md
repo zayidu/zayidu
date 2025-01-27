@@ -167,10 +167,10 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 
 <!-- BLOG-POST-LIST:START -->
 - [Streaming CSV Downloads in Rails: A Practical Guide](https://dev.to/daviducolo/streaming-csv-downloads-in-rails-a-practical-guide-41hi)
+- [How To Do Form Validation in Vue with Tanstack Form](https://dev.to/aaronksaunders/how-to-do-form-validation-in-vue-with-tanstack-form-39m5)
 - [AI could end my job — Just not the way I expected](https://dev.to/manuartero/ai-could-end-my-job-just-not-the-way-i-expected-5g3m)
-- [How to Become a Self-Taught Web Developer in 2025](https://dev.to/tarunfulera1/how-to-become-a-self-taught-web-developer-in-2025-2j37)
-- [7 Best Event Chat Platforms for 2025](https://dev.to/aprogrammer22/7-best-event-chat-platforms-for-2025-2nb)
-- [Attending Tech Conferences With a Toddler: A DevRel Mom’s Story](https://dev.to/vonagedev/attending-tech-conferences-with-a-toddler-a-devrel-moms-story-41np)
+- [Firewall Basics: How to Secure Your Linux Server with Firewalld](https://dev.to/shweta_thikekar/firewall-basics-how-to-secure-your-linux-server-with-firewalld-4j0j)
+- [DeepSeek-R1: The Chinese AI Disruptor Rewriting the Rules of Artificial Intelligence](https://dev.to/mehrabjeager/deepseek-r1-the-chinese-ai-disruptor-rewriting-the-rules-of-artificial-intelligence-37ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
