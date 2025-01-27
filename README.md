@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Power Automate - The Super Connector](https://dev.to/wyattdave/power-automate-the-super-connector-3gbe)
+- [RAG Integration: DeepSeek’s New BFF in the AI World](https://dev.to/aws-builders/rag-integration-deepseeks-new-bff-in-the-ai-world-4934)
+- [Neurolov’s Partnerships in AI and Web3](https://dev.to/neurolov_ai_/neurolovs-partnerships-in-ai-and-web3-3anm)
+- [2025: A Great Start for Linkspreed and Web4](https://dev.to/web4/2025-a-great-start-for-linkspreed-and-web4-576h)
 - [Top Chrome extensions for web design in 2025](https://dev.to/paul_freeman/top-chrome-extensions-for-web-design-in-2025-1gah)
-- [Sidekick Bot - Generate Editable Designs With The Help of AI &lpar;ON HOLD&rpar;](https://dev.to/schemetastic/sidekick-bot-generate-editable-designs-with-the-help-of-ai-on-hold-3fpl)
-- [Top Mass Email Services for Reliable Bulk Email Delivery](https://dev.to/sam_devid_65bbbe34ab06c1a/top-mass-email-services-for-reliable-bulk-email-delivery-2kf0)
-- [6 Exciting Updates from the Chrome 133 Beta for Web Developers](https://dev.to/web_dev-usman/6-exciting-updates-from-the-chrome-133-beta-for-web-developers-453d)
-- [freedomFund: Your Personal Financial Literacy Partner](https://dev.to/ritesh_hiremath_eb6abb681/freedomfund-your-personal-financial-literacy-partner-1omj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
