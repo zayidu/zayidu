@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between arrays as Lists in Java?](https://dev.to/devmercy/the-difference-between-arrays-as-lists-in-java-55j8)
-- [How to Use Deepseek API and Enable Streaming Output for Debugging](https://dev.to/auden/how-to-use-deepseek-api-and-enable-streaming-output-for-debugging-1ah9)
-- [JavaScript NaN Quirks: Features, Not Flaws.](https://dev.to/mmvergara/javascript-nan-quirks-features-not-flaws-1f90)
-- [Cloud-Based Software Development: An In-Depth Guide](https://dev.to/ram_fb361bc2f8f94e06772e2/cloud-based-software-development-an-in-depth-guide-2kle)
-- [How to Create a Unified Contact List by merging multiple VCF files?](https://dev.to/loganwalker/how-to-create-a-unified-contact-list-by-merging-multiple-vcf-files-5323)
+- [Hosting a Vue.js App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-vuejs-app-without-a-server-using-pinggy-4obh)
+- [DeepSeek-V3: Laziness vs Eagerness](https://dev.to/maximsaplin/deepseek-v3-laziness-vs-eagerness-52bi)
+- [Streaming an AI Project starting 2025](https://dev.to/sebastianccc/streaming-an-ai-project-starting-2025-nej)
+- [TypeScript CLI: Automate Build and Deploy Scripts](https://dev.to/zirkelc/typescript-cli-automate-build-and-deploy-scripts-2300)
+- [🎉 **Hack the Future: AI &amp; Open Source Hackathon — A Wrap-Up for the Ages!** 🎉](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-a-wrap-up-for-the-ages-1d0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
