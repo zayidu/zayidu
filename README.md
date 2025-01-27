@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-505k)
-- [Stay ahead in web development: latest news, tools, and insights #69](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-69-1128)
-- [How Much Does it Cost to Develop an App like Myntra](https://dev.to/yudizsolutions/how-much-does-it-cost-to-develop-an-app-like-myntra-2lpn)
-- [When Your Series A Success Becomes a Code Review Crisis](https://dev.to/camshotter/when-your-series-a-success-becomes-a-code-review-crisis-40ad)
-- [DeepSeek vs ChatGPT: The Next-Generation AI Showdown](https://dev.to/ragoli86/deepseek-vs-chatgpt-the-next-generation-ai-showdown-3og6)
+- [Top Chrome extensions for web design in 2025](https://dev.to/paul_freeman/top-chrome-extensions-for-web-design-in-2025-1gah)
+- [Sidekick Bot - Generate Editable Designs With The Help of AI &lpar;ON HOLD&rpar;](https://dev.to/schemetastic/sidekick-bot-generate-editable-designs-with-the-help-of-ai-on-hold-3fpl)
+- [Top Mass Email Services for Reliable Bulk Email Delivery](https://dev.to/sam_devid_65bbbe34ab06c1a/top-mass-email-services-for-reliable-bulk-email-delivery-2kf0)
+- [6 Exciting Updates from the Chrome 133 Beta for Web Developers](https://dev.to/web_dev-usman/6-exciting-updates-from-the-chrome-133-beta-for-web-developers-453d)
+- [freedomFund: Your Personal Financial Literacy Partner](https://dev.to/ritesh_hiremath_eb6abb681/freedomfund-your-personal-financial-literacy-partner-1omj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
