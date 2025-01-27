@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a Vue.js App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-vuejs-app-without-a-server-using-pinggy-4obh)
-- [DeepSeek-V3: Laziness vs Eagerness](https://dev.to/maximsaplin/deepseek-v3-laziness-vs-eagerness-52bi)
-- [Streaming an AI Project starting 2025](https://dev.to/sebastianccc/streaming-an-ai-project-starting-2025-nej)
-- [TypeScript CLI: Automate Build and Deploy Scripts](https://dev.to/zirkelc/typescript-cli-automate-build-and-deploy-scripts-2300)
-- [🎉 **Hack the Future: AI &amp; Open Source Hackathon — A Wrap-Up for the Ages!** 🎉](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-a-wrap-up-for-the-ages-1d0d)
+- [Go&#39;s http.ServeMux Is All You Need](https://dev.to/leapcell/gos-httpservemux-is-all-you-need-1mam)
+- [Building Custom Insurance Policy Management Application 60% Faster](https://dev.to/openkoda/building-custom-insurance-policy-management-application-60-faster-667)
+- [Convert Dates to Persian Time in React](https://dev.to/joodi/convert-dates-to-persian-time-in-react-1a6e)
+- [Hack the Future: AI &amp; Open Source Hackathon - Wrapped Up!!](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-wrapped-up-30ak)
+- [Why do people choose to invest in crypto?](https://dev.to/cryptosandy/why-do-people-choose-to-invest-in-crypto-3ki3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
