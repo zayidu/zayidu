@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 Placement Groups: Fine-Tuning Your Cloud Infrastructure for Specific Workload Needs](https://dev.to/lindiwe09/ec2-placement-groups-fine-tuning-your-cloud-infrastructure-for-specific-workload-needs-3bm2)
-- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
-- [Meme Monday](https://dev.to/ben/meme-monday-419k)
-- [Here&#39;s What We Achieved! All the insights from recent… &quot;Hack the Future: AI &amp; Open Source Hackathon&quot;.](https://dev.to/abdibrokhim/heres-what-we-achieved-all-the-insights-from-recent-hack-the-future-ai-open-source-15p4)
-- [Stop wasting time on ontology setup](https://dev.to/falkordb/stop-wasting-time-on-ontology-setup-2m1h)
+- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
+- [Creating An AI Agent For Kubernetes Performance Optimization](https://dev.to/thenjdevopsguy/creating-an-ai-agent-for-kubernetes-performance-optimization-2nl9)
+- [Tools with ChatContext Dependency Injection](https://dev.to/ag2ai/tools-with-chatcontext-dependency-injection-187m)
+- [Comparing Amazon DynamoDB with Other NoSQL Databases: MongoDB and Cassandra](https://dev.to/imsushant12/comparing-amazon-dynamodb-with-other-nosql-databases-mongodb-and-cassandra-1h16)
+- [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
