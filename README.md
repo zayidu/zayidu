@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [SocialSelling Radar : Be Prepared for Every Lead](https://dev.to/moadhdev/socialselling-radar-be-prepared-for-every-lead-1062)
 - [🚀 API Analysis Github Repository 🔥 🌐](https://dev.to/hanzla-baig/api-analysis-github-repository-1e0i)
 - [Internet Gateway en AWS Desde Cero](https://dev.to/camila_vinza/internet-gateway-en-aws-desde-cero-51b2)
 - [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
-- [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
-- [Deep Research in Few Minutes with Agent.ai](https://dev.to/ifihan/deep-research-in-few-minutes-with-agentai-163f)
+- [New Angular 19 feature - Untagged template literals in expressions](https://dev.to/railsstudent/new-angular-19-feature-untagged-template-literals-in-expressions-2n7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
