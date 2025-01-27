@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Overcomplicating CSS: Master Layouts, Variables, and Modern Best Practices](https://dev.to/mikehtmlallthethings/stop-overcomplicating-css-master-layouts-variables-and-modern-best-practices-11cb)
 - [DeepSeek releases new image model family](https://dev.to/ben/deepseek-releases-new-image-model-family-2en0)
 - [Docker Swarm vs Kubernetes](https://dev.to/code42cate/docker-swarm-vs-kubernetes-41m9)
-- [Top 4 Toasts: The Unsung Heroes of User Notifications](https://dev.to/lovestaco/top-4-toasts-the-unsung-heroes-of-user-notifications-5nh)
-- [Deepseek Market Impact — Monday Jan 27](https://dev.to/ben/deepseek-market-impact-2g2n)
-- [Fullstack Developer&#39;s Complete Setup in VSCode + Transparent Background with Image](https://dev.to/brunociccarino/fullstack-developers-complete-setup-in-vscode-transparent-background-with-image-258e)
+- [Announcing Our New Golang Blog!](https://dev.to/alongwaytogo/announcing-our-new-golang-blog-4hd)
+- [Models and Simulations](https://dev.to/lawaniej/models-and-simulations-5aj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
