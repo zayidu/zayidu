@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Collaborative Data Science: The Container Way](https://dev.to/spicecoder/real-time-collaborative-data-science-the-container-way-1en4)
-- [Here&#39;s an extended look at Gemini in Android XR on the Samsung mixed reality headset](https://dev.to/future_arvr/heres-an-extended-look-at-gemini-in-android-xr-on-the-samsung-mixed-reality-headset-b06)
-- [Vector Storage, Indexing, and Search With MariaDB](https://dev.to/alejandro_du/vector-storage-indexing-and-search-with-mariadb-19bl)
-- [DeepSeek R1 vs Kimi K1.5: A Comprehensive Comparison](https://dev.to/simplr_sh/deepseek-r1-vs-kimi-k15-a-comprehensive-comparison-kn7)
-- [Collaborative Science: Terraform to Manage Containers Without Local Docker Desktop](https://dev.to/spicecoder/-collaborative-science-terraform-to-manage-containers-without-local-docker-desktop-2m5k)
+- [Interesting AI prototyping series.](https://dev.to/ben/interesting-ai-prototyping-series-o56)
+- [Have normal people heard about Deepseek?](https://dev.to/ben/have-normal-people-heard-about-deepseek-23g7)
+- [Everyone Teaches Coding, But No One Talks About These 5 Skills Developers Actually Need.](https://dev.to/balrajola/everyone-teaches-coding-but-no-one-talks-about-these-5-skills-developers-actually-need-jf3)
+- [Accelerating ML Development with DevPods and ModelKits](https://dev.to/kitops/accelerating-ml-development-with-devpods-and-modelkits-3di6)
+- [New Year Compiling Challenge](https://dev.to/jarvisscript/new-year-compiling-challenge-p9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
