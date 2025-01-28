@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 9 IT Staff Augmentation Companies to Consider in 2025](https://dev.to/dhruvil_joshi14/top-9-it-staff-augmentation-companies-to-consider-in-2025-55bn)
-- [Optimize Vite Build Time: A Comprehensive Guide](https://dev.to/perisicnikola37/optimize-vite-build-time-a-comprehensive-guide-4c99)
-- [&quot;ngrok&quot; from scratch](https://dev.to/woovi/ngrok-from-scratch-be3)
-- [ML and EDA App Deployment](https://dev.to/ndumbe0/ml-and-eda-app-deployment-5ddi)
-- [From Browsing to Buying: How to Build a Custom eCommerce Platform That Converts](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-browsing-to-buying-how-to-build-a-custom-ecommerce-platform-that-converts-2a76)
+- [It&#39;s VOTING TIME! 🥳. Here are a few things to keep in mind for this phase.](https://dev.to/abdibrokhim/its-voting-time-here-are-a-few-things-to-keep-in-mind-for-this-phase-2hj0)
+- [Build a Scalable Data Pipeline with JavaScript? Yes, You Can](https://dev.to/digitalminds/build-a-scalable-data-pipeline-with-javascript-yes-you-can-101j)
+- [DeepSeek R1: A Comprehensive Overview](https://dev.to/simplr_sh/deepseek-r1-a-comprehensive-overview-3j0c)
+- [🚀 Your Daily Crypto Job Digest For 28 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-january-lg9)
+- [Containerizing a Node.js Application with Docker](https://dev.to/manthanank/containerizing-a-nodejs-application-with-docker-33dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
