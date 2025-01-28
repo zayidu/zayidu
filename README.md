@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥Awesome Git Chrome Extensions😎](https://dev.to/dev_kiran/awesome-git-chrome-extensions-3gla)
+- [Integrating APIs with frontend framework jQuery](https://dev.to/kelvincode1234/integrating-apis-with-frontend-framework-jquery-ccb)
 - [3 JavaScript Features That Make Your Life Easier As a Frontend Developer.](https://dev.to/majeedatwahab/3-javascript-features-that-make-your-life-easier-as-a-frontend-developer-o5d)
+- [Comprehensive Guide to Developing Photo Editing Software](https://dev.to/ram_fb361bc2f8f94e06772e2/comprehensive-guide-to-developing-photo-editing-software-5fa4)
 - [Apt install specific version](https://dev.to/mehmetakar/apt-install-specific-version-4agf)
-- [We should understand `==` more, than not using it at all.](https://dev.to/mmvergara/we-should-understand-more-than-not-using-it-at-all-55n)
-- [ChatOps: A Complete Guide to Understanding and Integrating it with DevOps](https://dev.to/ram_fb361bc2f8f94e06772e2/chatops-a-complete-guide-to-understanding-and-integrating-it-with-devops-4gde)
-- [Zap: Unlock the Full Potential of Logging in Go](https://dev.to/leapcell/zap-unlock-the-full-potential-of-logging-in-go-3g3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
