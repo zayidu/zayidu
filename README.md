@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on 2024 in DevOps: Key Lessons, Challenges, and Looking Ahead to 2025](https://dev.to/therealadammusk/reflecting-on-2024-in-devops-key-lessons-challenges-and-looking-ahead-to-2025-3jom)
-- [Why DevOps is a Game Changer for Modern Software Development](https://dev.to/therealadammusk/why-devops-is-a-game-changer-for-modern-software-development-1ab)
-- [REACT HOOKS: USESTATE &lpar;01&rpar;](https://dev.to/enumah44/react-hooks-usestate-01-52j0)
-- [Desenredando la nube: Conceptos clave que todo principiante debería conocer](https://dev.to/briansuarezsantiago/desenredando-la-nube-conceptos-clave-que-todo-principiante-deberia-conocer-3jee)
-- [Testing Dev.to API](https://dev.to/h3rmel/testing-devto-api-4p66)
+- [Principles of Web Accessibility](https://dev.to/alvaromontoro/principles-of-web-accessibility-1n78)
+- [Compiling 2025: My personal Roadmap for 2025.](https://dev.to/devmercy/compiling-2025-my-personal-roadmap-for-2025-382c)
+- [Deploying the DeepSeek R1 Model on AWS EC2 for Scalable AI Solutions](https://dev.to/karthik_balasubramanian/deploying-the-deepseek-r1-model-on-aws-ec2-for-scalable-ai-solutions-4eif)
+- [🌟Extending the BlockNote Editor: A Custom Formatting Bar with AI-Powered Features 🤖](https://dev.to/mrsupercraft/extending-the-blocknote-editor-a-custom-formatting-bar-with-ai-powered-features-fh5)
+- [I am a professional child.](https://dev.to/evanmarie/i-am-a-professional-child-38h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
