@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué es ROSA y cómo simplifica Kubernetes en AWS?](https://dev.to/briansuarezsantiago/que-es-rosa-y-como-simplifica-kubernetes-en-aws-4bc5)
+- [Top 5 Canny Alternatives in 2025](https://dev.to/shayy/canny-alternative-1846)
+- [Untitled](https://dev.to/blodrayn46533/untitled-7h7)
+- [Building a Mortgage Calculator: An Educational Project](https://dev.to/deedend/building-a-mortgage-calculator-an-educational-project-4b2h)
 - [This is going to be a major discussion.](https://dev.to/ben/this-is-going-to-be-a-major-discussion-265l)
-- [Sharing this to DEV &lpar;and to you, showing off a new experimental subforem for talking tech from another perspective&rpar;](https://dev.to/ben/sharing-this-to-dev-and-to-you-showing-off-a-new-experimental-subforem-for-talking-tech-from-892)
-- [DeepSeek vs. ChatGPT and Gemini: Privacy Standards Compared](https://dev.to/dansasser/deepseek-vs-chatgpt-and-gemini-privacy-standards-compared-m4d)
-- [Stop Overcomplicating CSS: Master Layouts, Variables, and Modern Best Practices](https://dev.to/mikehtmlallthethings/stop-overcomplicating-css-master-layouts-variables-and-modern-best-practices-11cb)
-- [🚀 ¿Aún usas Docker Desktop? 🐳](https://dev.to/fuenrob/aun-usas-docker-desktop-1m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
