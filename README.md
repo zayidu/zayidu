@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-2j1)
-- [JavaScript Array Methods: Sort, Map, Filter, and Reduce](https://dev.to/jamesbright/javascript-array-methods-sort-map-filter-and-reduce-1l09)
-- [Why the LiveAPI team works hard to earn CTO respect](https://dev.to/shrsv/why-the-liveapi-team-works-hard-to-earn-cto-respect-50of)
-- [My React Journey: From Side Projects to Real-World Challenges](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-from-side-projects-to-real-world-challenges-4cf4)
-- [[Boost]](https://dev.to/ben/-269)
+- [Could DeepSeek Be the Democratization of AI?](https://dev.to/brunociccarino/could-deepseek-be-the-democratization-of-ai-23ln)
+- [🤯 8 APIs to Make your Next Project 10x better ⚡️](https://dev.to/akshaycodes/8-apis-to-make-your-next-project-10x-better-3a9o)
+- [10 Hard-Earned Lessons &lpar;Plus One Bonus!&rpar; From Launching My First Startup](https://dev.to/digitaldrreamer/10-hard-earned-lessons-plus-one-bonus-from-launching-my-first-startup-71a)
+- [[Boost]](https://dev.to/akshaybond30160/-16ok)
+- [Check this out](https://dev.to/akshaycodes/check-this-out-1adh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
