@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-2j1)
+- [JavaScript Array Methods: Sort, Map, Filter, and Reduce](https://dev.to/jamesbright/javascript-array-methods-sort-map-filter-and-reduce-1l09)
+- [Why the LiveAPI team works hard to earn CTO respect](https://dev.to/shrsv/why-the-liveapi-team-works-hard-to-earn-cto-respect-50of)
+- [My React Journey: From Side Projects to Real-World Challenges](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-from-side-projects-to-real-world-challenges-4cf4)
 - [[Boost]](https://dev.to/ben/-269)
-- [Understanding Dependency Injection in NestJS with a Book Service Example](https://dev.to/abhivyaktii/understanding-dependency-injection-in-nestjs-with-a-book-service-example-49kg)
-- [TailwindCSS Tip : How to prevent Layout Shifts With Aspect Ratio](https://dev.to/meschacirung/tailwindcss-tip-how-to-prevent-layout-shifts-with-aspect-ratio-35a1)
-- [TailwindCSS Tip : How to prevent Layout Shifts With Aspect Ratio](https://dev.to/meschacirung/tailwindcss-tip-how-to-prevent-layout-shifts-with-aspect-ratio-j71)
-- [Blue-Green Deployment in a Local Environment with Docker](https://dev.to/agusrdz/blue-green-deployment-in-a-local-environment-with-docker-43j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
