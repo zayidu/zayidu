@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Could DeepSeek Be the Democratization of AI?](https://dev.to/brunociccarino/could-deepseek-be-the-democratization-of-ai-23ln)
-- [🤯 8 APIs to Make your Next Project 10x better ⚡️](https://dev.to/akshaycodes/8-apis-to-make-your-next-project-10x-better-3a9o)
-- [10 Hard-Earned Lessons &lpar;Plus One Bonus!&rpar; From Launching My First Startup](https://dev.to/digitaldrreamer/10-hard-earned-lessons-plus-one-bonus-from-launching-my-first-startup-71a)
-- [[Boost]](https://dev.to/akshaybond30160/-16ok)
-- [Check this out](https://dev.to/akshaycodes/check-this-out-1adh)
+- [Reflecting on 2024 in DevOps: Key Lessons, Challenges, and Looking Ahead to 2025](https://dev.to/therealadammusk/reflecting-on-2024-in-devops-key-lessons-challenges-and-looking-ahead-to-2025-3jom)
+- [Why DevOps is a Game Changer for Modern Software Development](https://dev.to/therealadammusk/why-devops-is-a-game-changer-for-modern-software-development-1ab)
+- [REACT HOOKS: USESTATE &lpar;01&rpar;](https://dev.to/enumah44/react-hooks-usestate-01-52j0)
+- [Desenredando la nube: Conceptos clave que todo principiante debería conocer](https://dev.to/briansuarezsantiago/desenredando-la-nube-conceptos-clave-que-todo-principiante-deberia-conocer-3jee)
+- [Testing Dev.to API](https://dev.to/h3rmel/testing-devto-api-4p66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
