@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Push Sips: The Best Facts Car Cups for On-the-Go Coffee Lovers](https://dev.to/milesneeze7/push-sips-the-best-facts-car-cups-for-on-the-go-coffee-lovers-561l)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-gk6)
-- [Front End Debugging Part 3: Networking](https://dev.to/codenameone/front-end-debugging-part-3-networking-4bii)
-- [Some Cool Apis](https://dev.to/djones/some-cool-apis-1na8)
-- [🔓 How I Hacked a Chrome Extension to Get a 7,978-Year Free Trial &lpar;Yes, You Read That Right!&rpar; 🕶️💻](https://dev.to/jacksonkasi/how-i-hacked-a-chrome-extension-to-get-a-7978-year-free-trial-yes-you-read-that-right-156h)
+- [[Boost]](https://dev.to/ben/-269)
+- [Understanding Dependency Injection in NestJS with a Book Service Example](https://dev.to/abhivyaktii/understanding-dependency-injection-in-nestjs-with-a-book-service-example-49kg)
+- [TailwindCSS Tip : How to prevent Layout Shifts With Aspect Ratio](https://dev.to/meschacirung/tailwindcss-tip-how-to-prevent-layout-shifts-with-aspect-ratio-35a1)
+- [TailwindCSS Tip : How to prevent Layout Shifts With Aspect Ratio](https://dev.to/meschacirung/tailwindcss-tip-how-to-prevent-layout-shifts-with-aspect-ratio-j71)
+- [Blue-Green Deployment in a Local Environment with Docker](https://dev.to/agusrdz/blue-green-deployment-in-a-local-environment-with-docker-43j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
