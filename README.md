@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Running DeepSeek Janus-Pro-1B in the Browser: A Comprehensive Guide](https://dev.to/emojiiii/running-deepseek-janus-pro-1b-in-the-browser-a-step-by-step-guide-kj2)
 - [¿Qué es ROSA y cómo simplifica Kubernetes en AWS?](https://dev.to/briansuarezsantiago/que-es-rosa-y-como-simplifica-kubernetes-en-aws-4bc5)
 - [Top 5 Canny Alternatives in 2025](https://dev.to/shayy/canny-alternative-1846)
 - [Untitled](https://dev.to/blodrayn46533/untitled-7h7)
 - [Building a Mortgage Calculator: An Educational Project](https://dev.to/deedend/building-a-mortgage-calculator-an-educational-project-4b2h)
-- [This is going to be a major discussion.](https://dev.to/ben/this-is-going-to-be-a-major-discussion-265l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
