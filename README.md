@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Awesome Git Chrome Extensions😎](https://dev.to/dev_kiran/awesome-git-chrome-extensions-3gla)
-- [Integrating APIs with frontend framework jQuery](https://dev.to/kelvincode1234/integrating-apis-with-frontend-framework-jquery-ccb)
-- [3 JavaScript Features That Make Your Life Easier As a Frontend Developer.](https://dev.to/majeedatwahab/3-javascript-features-that-make-your-life-easier-as-a-frontend-developer-o5d)
-- [Comprehensive Guide to Developing Photo Editing Software](https://dev.to/ram_fb361bc2f8f94e06772e2/comprehensive-guide-to-developing-photo-editing-software-5fa4)
-- [Apt install specific version](https://dev.to/mehmetakar/apt-install-specific-version-4agf)
+- [Top 9 IT Staff Augmentation Companies to Consider in 2025](https://dev.to/dhruvil_joshi14/top-9-it-staff-augmentation-companies-to-consider-in-2025-55bn)
+- [Optimize Vite Build Time: A Comprehensive Guide](https://dev.to/perisicnikola37/optimize-vite-build-time-a-comprehensive-guide-4c99)
+- [&quot;ngrok&quot; from scratch](https://dev.to/woovi/ngrok-from-scratch-be3)
+- [ML and EDA App Deployment](https://dev.to/ndumbe0/ml-and-eda-app-deployment-5ddi)
+- [From Browsing to Buying: How to Build a Custom eCommerce Platform That Converts](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-browsing-to-buying-how-to-build-a-custom-ecommerce-platform-that-converts-2a76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
