@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Principles of Web Accessibility](https://dev.to/alvaromontoro/principles-of-web-accessibility-1n78)
-- [Compiling 2025: My personal Roadmap for 2025.](https://dev.to/devmercy/compiling-2025-my-personal-roadmap-for-2025-382c)
-- [Deploying the DeepSeek R1 Model on AWS EC2 for Scalable AI Solutions](https://dev.to/karthik_balasubramanian/deploying-the-deepseek-r1-model-on-aws-ec2-for-scalable-ai-solutions-4eif)
-- [🌟Extending the BlockNote Editor: A Custom Formatting Bar with AI-Powered Features 🤖](https://dev.to/mrsupercraft/extending-the-blocknote-editor-a-custom-formatting-bar-with-ai-powered-features-fh5)
-- [I am a professional child.](https://dev.to/evanmarie/i-am-a-professional-child-38h)
+- [How to dockerize and deploy a Hono App](https://dev.to/code42cate/how-to-dockerize-and-deploy-a-hono-app-4mi9)
+- [Handling Layout Form Submission Inside a React Router Cookie Banner 🍪](https://dev.to/rgolawski/handling-layout-form-submission-inside-a-react-router-cookie-banner-55oj)
+- [Breaking into Tech](https://dev.to/emzydev/breaking-into-tech-4g9g)
+- [Running multiple MySQL versions on macOS: A Step-by-Step Guide](https://dev.to/musa11971/running-multiple-mysql-versions-on-macos-a-step-by-step-guide-4i24)
+- [Breaking into Tech, Essential Qualities to get you started](https://dev.to/emzydev/breaking-into-tech-essential-qualities-to-get-you-started-3pm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
