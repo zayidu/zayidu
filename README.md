@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek and the Power of Mixture of Experts &lpar;MoE&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-and-the-power-of-mixture-of-experts-moe-ham)
+- [From Zero to Team Development: Building Your Own Cloud Container Playground](https://dev.to/spicecoder/from-zero-to-team-development-building-your-own-cloud-container-playground-2hl5)
+- [Go Slices and Subslices: Understanding Shared Memory and Avoiding `append&lpar;&rpar;` Pitfalls](https://dev.to/noblet/go-slices-and-subslices-understanding-shared-memory-and-avoiding-append-pitfalls-mij)
+- [Automated reasoning and generative AI: Harness creativity with formal verifications](https://dev.to/aws/automated-reasoning-and-generative-ai-harness-creativity-with-formal-verifications-o6)
 - [Interesting AI prototyping series.](https://dev.to/ben/interesting-ai-prototyping-series-o56)
-- [Have normal people heard about Deepseek?](https://dev.to/ben/have-normal-people-heard-about-deepseek-23g7)
-- [Everyone Teaches Coding, But No One Talks About These 5 Skills Developers Actually Need.](https://dev.to/balrajola/everyone-teaches-coding-but-no-one-talks-about-these-5-skills-developers-actually-need-jf3)
-- [Accelerating ML Development with DevPods and ModelKits](https://dev.to/kitops/accelerating-ml-development-with-devpods-and-modelkits-3di6)
-- [New Year Compiling Challenge](https://dev.to/jarvisscript/new-year-compiling-challenge-p9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
