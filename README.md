@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek and the Power of Mixture of Experts &lpar;MoE&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-and-the-power-of-mixture-of-experts-moe-ham)
-- [From Zero to Team Development: Building Your Own Cloud Container Playground](https://dev.to/spicecoder/from-zero-to-team-development-building-your-own-cloud-container-playground-2hl5)
-- [Go Slices and Subslices: Understanding Shared Memory and Avoiding `append&lpar;&rpar;` Pitfalls](https://dev.to/noblet/go-slices-and-subslices-understanding-shared-memory-and-avoiding-append-pitfalls-mij)
-- [Automated reasoning and generative AI: Harness creativity with formal verifications](https://dev.to/aws/automated-reasoning-and-generative-ai-harness-creativity-with-formal-verifications-o6)
-- [Interesting AI prototyping series.](https://dev.to/ben/interesting-ai-prototyping-series-o56)
+- [Push Sips: The Best Facts Car Cups for On-the-Go Coffee Lovers](https://dev.to/milesneeze7/push-sips-the-best-facts-car-cups-for-on-the-go-coffee-lovers-561l)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-gk6)
+- [Front End Debugging Part 3: Networking](https://dev.to/codenameone/front-end-debugging-part-3-networking-4bii)
+- [Some Cool Apis](https://dev.to/djones/some-cool-apis-1na8)
+- [🔓 How I Hacked a Chrome Extension to Get a 7,978-Year Free Trial &lpar;Yes, You Read That Right!&rpar; 🕶️💻](https://dev.to/jacksonkasi/how-i-hacked-a-chrome-extension-to-get-a-7978-year-free-trial-yes-you-read-that-right-156h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
