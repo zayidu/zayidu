@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: Exciting Updates You Need To Know](https://dev.to/austinwdigital/react-19-exciting-updates-you-need-to-know-45ee)
-- [Beginner guide to NGINX: Hosting Your First Website On NGINX.](https://dev.to/og_dmerlin_d79f81b3a358b6/beginner-guide-to-nginx-hosting-your-first-website-on-nginx-299m)
-- [Testing for AI in Consciousness: Exploring the Boundaries of Machine Awareness](https://dev.to/anil_csimplifyit_905c/testing-for-ai-in-consciousness-exploring-the-boundaries-of-machine-awareness-35b1)
-- [Space Game](https://dev.to/alivegamer/space-game-481d)
-- [&quot;Unlocking Emotion and Identity: Innovations in AI Speech and VR User Recognition&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-emotion-and-identity-innovations-in-ai-speech-and-vr-user-recognition-17f8)
+- [Understanding Kafka Keys: A Comprehensive Guide](https://dev.to/gyandeeps/understanding-kafka-keys-a-comprehensive-guide-2410)
+- [Automating 44 E2E Tests with AI-Powered Browser Control for Under $1](https://dev.to/pppp606/automating-44-e2e-tests-with-ai-powered-browser-control-for-under-1-3fbj)
+- [Help Validate a Vue.js Code Smell Catalog!](https://dev.to/joo_paulofreitasqueiro/help-validate-a-vuejs-code-smell-catalog-op8)
+- [Why Mobile-First Design is Crucial for Today’s Web](https://dev.to/orizon_7c665050ca98bfa866/why-mobile-first-design-is-crucial-for-todays-web-46ij)
+- [Making your own PR to the SurrealDB source code](https://dev.to/surrealdb/making-your-own-pr-to-the-surrealdb-source-code-3c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
