@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Integrate TailwindCSS In React To Quickly Styling Our App?](https://dev.to/mroman7/how-to-integrate-tailwindcss-in-react-to-quickly-styling-our-app-30he)
-- [Janus Pro: DeepSeek’s Game-Changing Multimodal AI Model](https://dev.to/simplr_sh/janus-pro-deepseeks-game-changing-multimodal-ai-model-4g4k)
-- [User Feedback Forced Us to Rethink Everything — Here’s What Changed](https://dev.to/juliemoore/user-feedback-forced-us-to-rethink-everything-heres-what-changed-aa)
-- [Finding The Right Co-Founder: A Guide For Startups](https://dev.to/jetthoughts/finding-the-right-co-founder-a-guide-for-startups-fei)
-- [JavaScript: The Present and Future of Software Development](https://dev.to/martingreenz/javascript-the-present-and-future-of-software-development-313h)
+- [Welcome Thread - v312](https://dev.to/devteam/welcome-thread-v312-3gmp)
+- [Cheating Lambda scalability](https://dev.to/aws-builders/cheating-lambda-scalability-1hgi)
+- [Using ARM-based GitHub Actions Runners for Workflows](https://dev.to/pradumnasaraf/using-arm-based-github-actions-runners-for-workflows-l6o)
+- [Detecting Browsers in JavaScript](https://dev.to/saiful7778/detecting-browsers-in-javascript-253m)
+- [8 Essential Tips for Effective Mobile Application Maintenance](https://dev.to/brilworks/8-essential-tips-for-effective-mobile-application-maintenance-13i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
