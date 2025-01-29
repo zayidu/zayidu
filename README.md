@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize efficiency: CrewAI Task isolation problem](https://dev.to/pavelkoryagin/maximize-efficiency-crewai-task-isolation-problem-16in)
-- [🎥 Building Multi-Node Django Systems for Time Series Data [Free Course]](https://dev.to/timescale/building-multi-node-django-systems-for-time-series-data-free-course-378b)
-- [🚀 The most important insights about PR in 2025](https://dev.to/cryptosandy/the-most-important-insights-about-pr-in-2025-26a4)
-- [DEVBLOG #1](https://dev.to/mince/devblog-1-1e56)
-- [Graph is fun, check this blog to find out how](https://dev.to/vidhithakur/graph-is-fun-check-this-blog-to-find-out-how-335a)
+- [Matanuska ADR 014 - OpenTelemetry](https://dev.to/jfhbrook/matanuska-adr-014-opentelemetry-3ahj)
+- [The AI Singularity: Are We Ready for Superintelligence?](https://dev.to/vikrant_bhalodia/the-ai-singularity-are-we-ready-for-superintelligence-ip1)
+- [Chatbot with Semantic Kernel - Part 5: Text-to-speech 📣](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-5-text-to-speech-4i4k)
+- [페이지별로 컴포넌트, 유틸, 훅, 타입 모아서 관리하기 &lpar;feat. Next.js 페이지 라우팅&rpar;](https://dev.to/solleedata/peijibyeolro-keomponeonteu-yutil-hug-taib-moaseo-gwanrihagi-feat-nextjs-peiji-rauting-2hcn)
+- [spring-013: spring-boot-application-bean-lifecycle-comprehensive-execution-order-with-related-methods](https://dev.to/hunor85/spring-013-20n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
