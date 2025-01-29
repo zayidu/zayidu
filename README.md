@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Free AI Chatbot: A Step-by-Step Guide Using DeepSeek and FastAPI](https://dev.to/shelwyn_corte/build-your-own-free-ai-chatbot-a-step-by-step-guide-using-deepseek-and-fastapi-283b)
-- [Geoespacial no Laravel: Otimizações para Mapas Interativos e Grandes Volumes de Dados](https://dev.to/tipomrsk/geoespacial-no-laravel-otimizacoes-para-mapas-interativos-e-grandes-volumes-de-dados-2j3n)
-- [Exploring Colors in CSS](https://dev.to/thedevspace/exploring-colors-in-css-32co)
-- [2025 Game Plan: Learning, Building, and Thriving🚀](https://dev.to/angshu/compiling-2025-a-roadmap-for-growth-3ib5)
-- [Docker, Uma Semana ou Algumas Horas](https://dev.to/tipomrsk/docker-uma-semana-ou-algumas-horas-51a8)
+- [Concurrency, Goroutines, and Channels in Go: A Study](https://dev.to/uskdev/concurrency-goroutines-and-channels-in-go-a-study-4245)
+- [Building Cross-Platform CI/CD Actions with Docker](https://dev.to/mathio/building-cross-platform-cicd-actions-with-docker-3c9o)
+- [🚀🛠Boost Your Regex Game with Regex Vault: A Library for Developers](https://dev.to/fonteeboa/boost-your-regex-game-with-regex-vault-a-library-for-developers-1k40)
+- [How to Master Responsive Web Design with CSS](https://dev.to/tarunfulera1/how-to-master-responsive-web-design-with-css-1jbc)
+- [Web3’s Reality Check: A Developer’s Perspective on Blockchain and Physical Asset Integration](https://dev.to/kaankaya/web3s-reality-check-a-developers-perspective-on-blockchain-and-physical-asset-integration-4370)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
