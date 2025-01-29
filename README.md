@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kafka Keys: A Comprehensive Guide](https://dev.to/gyandeeps/understanding-kafka-keys-a-comprehensive-guide-2410)
-- [Automating 44 E2E Tests with AI-Powered Browser Control for Under $1](https://dev.to/pppp606/automating-44-e2e-tests-with-ai-powered-browser-control-for-under-1-3fbj)
-- [Help Validate a Vue.js Code Smell Catalog!](https://dev.to/joo_paulofreitasqueiro/help-validate-a-vuejs-code-smell-catalog-op8)
-- [Why Mobile-First Design is Crucial for Today’s Web](https://dev.to/orizon_7c665050ca98bfa866/why-mobile-first-design-is-crucial-for-todays-web-46ij)
-- [Making your own PR to the SurrealDB source code](https://dev.to/surrealdb/making-your-own-pr-to-the-surrealdb-source-code-3c3)
+- [Frontend Fundamentals 2/20](https://dev.to/c6z3h/frontend-fundamentals-220-15e7)
+- [The Ultimate Guide to Debugging Your Code](https://dev.to/kakacomputer-media/the-ultimate-guide-to-debugging-your-code-p8d)
+- [Why JAVA](https://dev.to/ramya_kamalasekaran/why-java-59jp)
+- [Stop Feeling Like A Fraud &lpar;Imposter Syndrome Explained&rpar;](https://dev.to/kakacomputer-media/stop-feeling-like-a-fraud-imposter-syndrome-explained-59pi)
+- [You&#39;re thinking about passkeys wrong](https://dev.to/yawaramin/youre-thinking-about-passkeys-wrong-171o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
