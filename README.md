@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to dockerize and deploy a Hono App](https://dev.to/code42cate/how-to-dockerize-and-deploy-a-hono-app-4mi9)
-- [Handling Layout Form Submission Inside a React Router Cookie Banner 🍪](https://dev.to/rgolawski/handling-layout-form-submission-inside-a-react-router-cookie-banner-55oj)
-- [Breaking into Tech](https://dev.to/emzydev/breaking-into-tech-4g9g)
-- [Running multiple MySQL versions on macOS: A Step-by-Step Guide](https://dev.to/musa11971/running-multiple-mysql-versions-on-macos-a-step-by-step-guide-4i24)
-- [Breaking into Tech, Essential Qualities to get you started](https://dev.to/emzydev/breaking-into-tech-essential-qualities-to-get-you-started-3pm3)
+- [React 19: Exciting Updates You Need To Know](https://dev.to/austinwdigital/react-19-exciting-updates-you-need-to-know-45ee)
+- [Beginner guide to NGINX: Hosting Your First Website On NGINX.](https://dev.to/og_dmerlin_d79f81b3a358b6/beginner-guide-to-nginx-hosting-your-first-website-on-nginx-299m)
+- [Testing for AI in Consciousness: Exploring the Boundaries of Machine Awareness](https://dev.to/anil_csimplifyit_905c/testing-for-ai-in-consciousness-exploring-the-boundaries-of-machine-awareness-35b1)
+- [Space Game](https://dev.to/alivegamer/space-game-481d)
+- [&quot;Unlocking Emotion and Identity: Innovations in AI Speech and VR User Recognition&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-emotion-and-identity-innovations-in-ai-speech-and-vr-user-recognition-17f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
