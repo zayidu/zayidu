@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Matanuska ADR 014 - OpenTelemetry](https://dev.to/jfhbrook/matanuska-adr-014-opentelemetry-3ahj)
-- [The AI Singularity: Are We Ready for Superintelligence?](https://dev.to/vikrant_bhalodia/the-ai-singularity-are-we-ready-for-superintelligence-ip1)
-- [Chatbot with Semantic Kernel - Part 5: Text-to-speech 📣](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-5-text-to-speech-4i4k)
-- [페이지별로 컴포넌트, 유틸, 훅, 타입 모아서 관리하기 &lpar;feat. Next.js 페이지 라우팅&rpar;](https://dev.to/solleedata/peijibyeolro-keomponeonteu-yutil-hug-taib-moaseo-gwanrihagi-feat-nextjs-peiji-rauting-2hcn)
-- [spring-013: spring-boot-application-bean-lifecycle-comprehensive-execution-order-with-related-methods](https://dev.to/hunor85/spring-013-20n1)
+- [🦄 6 CSS Snippets, Audible’s UX Insights &amp; 350ms LCP](https://dev.to/adam/6-css-snippets-audibles-ux-insights-350ms-lcp-2d0g)
+- [A Neural Network Architecture That Thinks, Adapts &amp; Creates](https://dev.to/okerew/a-neural-network-architecture-that-thinks-adapts-creates-5mp)
+- [Hash in SQL: A Key Concept for Data Engineers](https://dev.to/aragorn_talks/hash-in-sql-a-key-concept-for-data-engineers-4cda)
+- [Power Pages SPA: login redirect Part 2](https://dev.to/andrewelans/power-pages-spa-login-redirect-part-2-o79)
+- [🚀 Your Daily Crypto Job Digest For 29 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-29-january-2bgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
