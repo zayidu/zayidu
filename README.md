@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v312](https://dev.to/devteam/welcome-thread-v312-3gmp)
-- [Cheating Lambda scalability](https://dev.to/aws-builders/cheating-lambda-scalability-1hgi)
-- [Using ARM-based GitHub Actions Runners for Workflows](https://dev.to/pradumnasaraf/using-arm-based-github-actions-runners-for-workflows-l6o)
-- [Detecting Browsers in JavaScript](https://dev.to/saiful7778/detecting-browsers-in-javascript-253m)
-- [8 Essential Tips for Effective Mobile Application Maintenance](https://dev.to/brilworks/8-essential-tips-for-effective-mobile-application-maintenance-13i1)
+- [How to Set Up Two-Factor Authentication on WordPress Without Plugin](https://dev.to/web_dev-usman/how-to-set-up-two-factor-authentication-on-wordpress-without-plugin-523m)
+- [🚀 10 JavaScript Array Methods Every Developer Should Master!](https://dev.to/dct_technologyprivatelimited/10-javascript-array-methods-every-developer-should-master-2h25)
+- [🔒 Why HTTPS and SSL Certificates Are Non-Negotiable for Your Website’s Security](https://dev.to/dct_technologyprivatelimited/why-https-and-ssl-certificates-are-non-negotiable-for-your-websites-security-4aja)
+- [Code, Nature &amp; Personal Bits](https://dev.to/async_dime/code-nature-personal-bits-124e)
+- [E-commerce Success: A Guide to Winning Customer Loyalty](https://dev.to/raftlabs/e-commerce-success-a-guide-to-winning-customer-loyalty-3ij6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
