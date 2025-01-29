@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Two-Factor Authentication on WordPress Without Plugin](https://dev.to/web_dev-usman/how-to-set-up-two-factor-authentication-on-wordpress-without-plugin-523m)
-- [🚀 10 JavaScript Array Methods Every Developer Should Master!](https://dev.to/dct_technologyprivatelimited/10-javascript-array-methods-every-developer-should-master-2h25)
-- [🔒 Why HTTPS and SSL Certificates Are Non-Negotiable for Your Website’s Security](https://dev.to/dct_technologyprivatelimited/why-https-and-ssl-certificates-are-non-negotiable-for-your-websites-security-4aja)
-- [Code, Nature &amp; Personal Bits](https://dev.to/async_dime/code-nature-personal-bits-124e)
-- [E-commerce Success: A Guide to Winning Customer Loyalty](https://dev.to/raftlabs/e-commerce-success-a-guide-to-winning-customer-loyalty-3ij6)
+- [Inflation is an important DEVIL](https://dev.to/yashvi_bhuva/inflation-is-an-important-devil-1di1)
+- [Authentication vs Authorization: Key Practices for Building Secure APIs](https://dev.to/getambassador2024/authentication-vs-authorization-key-practices-for-building-secure-apis-1nf)
+- [🚀 The Ultimate List of 27 Frontend Libraries for Creative Developers](https://dev.to/hadil/the-ultimate-list-of-27-frontend-libraries-for-creative-developers-15go)
+- [AI Data Agents - Why Your Business Needs Them in 2025](https://dev.to/flowtrail-admin/ai-data-agents-why-your-business-needs-them-in-2025-3hh9)
+- [How to Design a Ceramic Planter Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-ceramic-planter-using-3d-cad-software-13ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
