@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is React.js and Why is it So Popular? ⚛️🚀](https://dev.to/abhay_yt_52a8e72b213be229/what-is-reactjs-and-why-is-it-so-popular-39c)
-- [Don&#39;t use TypeScript types like this. Use Map Pattern instead](https://dev.to/perisicnikola37/dont-use-typescript-types-like-this-use-map-pattern-instead-ki3)
-- [Edge Computing: Revolutionizing the Digital Landscape](https://dev.to/scitechinsights/edge-computing-revolutionizing-the-digital-landscape-20g6)
-- [Why Kubernetes Horizontal Pod Autoscaling Matters Now 🚀](https://dev.to/debashis_sikdar_46690290e/why-kubernetes-horizontal-pod-autoscaling-matters-now-3adk)
-- [Dockerfile Best Practices](https://dev.to/godofgeeks/dockerfile-best-practices-24eb)
+- [Exploring CPU-Bound and I/O-Bound Tasks: Inside the libuv Library in Node.js](https://dev.to/leapcell/exploring-cpu-bound-and-io-bound-tasks-inside-the-libuv-library-in-nodejs-5581)
+- [Getting Started with DeepSeek LLM using Ollama locally](https://dev.to/ajeetraina/getting-started-with-deepseek-llm-using-ollama-locally-3n1h)
+- [DeepSeek AI vs ChatGPT: The Most Epic AI Battle of 2025!](https://dev.to/sujal_dua/deepseek-ai-vs-chatgpt-the-most-epic-ai-battle-of-2025-4240)
+- [Top AI Coding Assistants for Developers 🚀👨🏻‍💻](https://dev.to/lokesh_singh/top-ai-coding-assistants-for-developers-5516)
+- [AI and Sci-Fi](https://dev.to/liam-harding/ai-and-sci-fi-53ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
