@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency, Goroutines, and Channels in Go: A Study](https://dev.to/uskdev/concurrency-goroutines-and-channels-in-go-a-study-4245)
-- [Building Cross-Platform CI/CD Actions with Docker](https://dev.to/mathio/building-cross-platform-cicd-actions-with-docker-3c9o)
-- [🚀🛠Boost Your Regex Game with Regex Vault: A Library for Developers](https://dev.to/fonteeboa/boost-your-regex-game-with-regex-vault-a-library-for-developers-1k40)
-- [How to Master Responsive Web Design with CSS](https://dev.to/tarunfulera1/how-to-master-responsive-web-design-with-css-1jbc)
-- [Web3’s Reality Check: A Developer’s Perspective on Blockchain and Physical Asset Integration](https://dev.to/kaankaya/web3s-reality-check-a-developers-perspective-on-blockchain-and-physical-asset-integration-4370)
+- [SEO 101: Navigating Robots.txt, Sitemaps, and Google Search Console](https://dev.to/rijultp/seo-101-navigating-robotstxt-sitemaps-and-google-search-console-4a0b)
+- [Python Performance Tips You Must Know](https://dev.to/leapcell/python-performance-tips-you-must-know-24n5)
+- [The case against ORMs](https://dev.to/cies/the-case-against-orms-5bh4)
+- [One of our best articles so far!](https://dev.to/uliyahoo/one-of-our-best-articles-so-far-1mih)
+- [While Loop](https://dev.to/sathish_balaji_2003/while-loop-2fe4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
