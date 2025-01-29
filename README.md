@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeMash 2025: A Community Conversation About NHI And Secrets Security](https://dev.to/gitguardian/codemash-2025-a-community-conversation-about-nhi-and-secrets-security-3650)
-- [How to install a Window Manager on Linux](https://dev.to/hxsggsz/how-to-install-a-window-manager-on-linux-4g9k)
-- [Configuring NGINX](https://dev.to/lahteeph/configuring-nginx-4n56)
-- [Journey of Enhanced &amp; Mindful Architecture - Part 3](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-3-4gfk)
-- [Connecting GitHub with AWS: What I Learned in This Legendary Experience](https://dev.to/siddharthrane07/connecting-github-with-aws-what-i-learned-in-this-legendary-experience-47aj)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/iflames_1/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-dmd)
+- [Corporate Jargon Translation with Amazon Bedrock](https://dev.to/aws-builders/corporate-jargon-translation-with-amazon-bedrock-48ch)
+- [HTML and CSS crash course completed](https://dev.to/nosfuratoo1/html-and-css-crash-course-completed-4095)
+- [Re:Buff Twitch extension is now live](https://dev.to/pixelsurfer/rebuff-twitch-extension-is-now-live-20i0)
+- [Project Translate : Architecture](https://dev.to/__dbrown__/project-translate-architecture-2icg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
