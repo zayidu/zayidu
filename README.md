@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/stack_dev/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4929)
-- [Solidity Crash Course - Part 02: Smart Contracts](https://dev.to/ayaz/solidity-crash-course-part-02-2f2l)
-- [SQL query optimization techniques](https://dev.to/sborhade/sql-query-optimization-techniques-47fd)
-- [TEST](https://dev.to/rudrabhardwaj/test-3i3k)
-- [HNG DevOps Stage 0 - Setting Up Nginx](https://dev.to/deltroncodes/hng-devops-stage-0-setting-up-nginx-5a5g)
+- [Build Your Own Free AI Chatbot: A Step-by-Step Guide Using DeepSeek and FastAPI](https://dev.to/shelwyn_corte/build-your-own-free-ai-chatbot-a-step-by-step-guide-using-deepseek-and-fastapi-283b)
+- [Geoespacial no Laravel: Otimizações para Mapas Interativos e Grandes Volumes de Dados](https://dev.to/tipomrsk/geoespacial-no-laravel-otimizacoes-para-mapas-interativos-e-grandes-volumes-de-dados-2j3n)
+- [Exploring Colors in CSS](https://dev.to/thedevspace/exploring-colors-in-css-32co)
+- [2025 Game Plan: Learning, Building, and Thriving🚀](https://dev.to/angshu/compiling-2025-a-roadmap-for-growth-3ib5)
+- [Docker, Uma Semana ou Algumas Horas](https://dev.to/tipomrsk/docker-uma-semana-ou-algumas-horas-51a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
