@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the IT department testing and training.](https://dev.to/blessing_azeta_9a7b650577/provide-storage-for-the-it-department-testing-and-training-2fha)
-- [Hypermedia as the Engine of Application State &lpar;HATEOAS&rpar;](https://dev.to/lovestaco/hypermedia-as-the-engine-of-application-state-hateoas-245f)
-- [Celebrating The Top Search-Tech Voices for 2025 🏆](https://dev.to/zevireinitz/celebrating-the-top-search-tech-voices-for-2025-1gj4)
-- [Stop Wasting Time on Outdated TypeScript Starters – Meet TypeZero 🚀](https://dev.to/mislam/stop-wasting-time-on-outdated-typescript-starters-meet-typezero-4eig)
-- [SSE &lpar;service side events&rpar; example to update a table](https://dev.to/verax5/sse-service-side-events-example-to-update-a-table-46m1)
+- [🚀 Introducing ByteAether.Ulid: A High-Performance .NET Library for ULIDs](https://dev.to/gigaherz/introducing-byteaetherulid-a-high-performance-net-library-for-ulids-3n0j)
+- [Hosting a Page with Nginx: A Newbie’s Journey](https://dev.to/mart_young_ce778e4c31eb33/hosting-a-page-with-nginx-a-newbies-journey-39i6)
+- [Class methods have access to other class methods and class variables but don’t have access to instance methods or instance variables](https://dev.to/ali-alkhawaja/class-methods-have-access-to-other-class-methods-and-class-variables-but-dont-have-access-to-50i9)
+- [Cobertura de teste em C existe e vou te ensinar a usar](https://dev.to/andorei/cobertura-de-teste-em-c-existe-e-vou-te-ensinar-a-usar-1knl)
+- [How to access DeepSeek r1?](https://dev.to/punkpeye/how-to-access-deepseek-r1-44na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
