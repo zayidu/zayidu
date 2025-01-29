@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Fundamentals 2/20](https://dev.to/c6z3h/frontend-fundamentals-220-15e7)
-- [The Ultimate Guide to Debugging Your Code](https://dev.to/kakacomputer-media/the-ultimate-guide-to-debugging-your-code-p8d)
-- [Why JAVA](https://dev.to/ramya_kamalasekaran/why-java-59jp)
-- [Stop Feeling Like A Fraud &lpar;Imposter Syndrome Explained&rpar;](https://dev.to/kakacomputer-media/stop-feeling-like-a-fraud-imposter-syndrome-explained-59pi)
-- [You&#39;re thinking about passkeys wrong](https://dev.to/yawaramin/youre-thinking-about-passkeys-wrong-171o)
+- [How To Integrate TailwindCSS In React To Quickly Styling Our App?](https://dev.to/mroman7/how-to-integrate-tailwindcss-in-react-to-quickly-styling-our-app-30he)
+- [Janus Pro: DeepSeek’s Game-Changing Multimodal AI Model](https://dev.to/simplr_sh/janus-pro-deepseeks-game-changing-multimodal-ai-model-4g4k)
+- [User Feedback Forced Us to Rethink Everything — Here’s What Changed](https://dev.to/juliemoore/user-feedback-forced-us-to-rethink-everything-heres-what-changed-aa)
+- [Finding The Right Co-Founder: A Guide For Startups](https://dev.to/jetthoughts/finding-the-right-co-founder-a-guide-for-startups-fei)
+- [JavaScript: The Present and Future of Software Development](https://dev.to/martingreenz/javascript-the-present-and-future-of-software-development-313h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
