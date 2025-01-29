@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mikehtmlallthethings/-h2d)
-- [Using DeepSeek R1 on an AMD GPU](https://dev.to/aswinrajeevofficial/using-deepseek-r1-on-an-amd-gpu-nf8)
-- [Running Deepseek R1 locally](https://dev.to/vijaykodam/running-deepseek-r1-locally-ai7)
-- [DeepSeek&#39;s $5.6M Innovation: Democratizing AI Through Cost-Efficient LLMs](https://dev.to/imaginex/deepseeks-56m-innovation-democratizing-ai-through-cost-efficient-llms-377b)
-- [🤖 Automating Dubai-Centric SEO with AI: A Developer’s Guide to DeepSeek-R1](https://dev.to/sadiqsaleem/automating-dubai-centric-seo-with-ai-a-developers-guide-to-deepseek-r1-4ko)
+- [CodeMash 2025: A Community Conversation About NHI And Secrets Security](https://dev.to/gitguardian/codemash-2025-a-community-conversation-about-nhi-and-secrets-security-3650)
+- [How to install a Window Manager on Linux](https://dev.to/hxsggsz/how-to-install-a-window-manager-on-linux-4g9k)
+- [Configuring NGINX](https://dev.to/lahteeph/configuring-nginx-4n56)
+- [Journey of Enhanced &amp; Mindful Architecture - Part 3](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-3-4gfk)
+- [Connecting GitHub with AWS: What I Learned in This Legendary Experience](https://dev.to/siddharthrane07/connecting-github-with-aws-what-i-learned-in-this-legendary-experience-47aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
