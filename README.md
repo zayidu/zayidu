@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Simple Productivity Tips Every Developer Should Try](https://dev.to/kimwachsman1979/5-simple-productivity-tips-every-developer-should-try-1mcl)
-- [[Boost]](https://dev.to/mislam/-5196)
-- [Best Practices for Cloud Disaster Recovery: Ensuring Business Continuity and Data Protection](https://dev.to/adityabhuyan/best-practices-for-cloud-disaster-recovery-ensuring-business-continuity-and-data-protection-28gh)
-- [ChatGPT vs. DeepSeek: A Simple Comparison for Developers 🤖 vs. 🔍](https://dev.to/sourav_22cdd152890952704c/chatgpt-vs-deepseek-a-simple-comparison-1j3o)
-- [Run DeepSeek R1 Locally with Ollama and Python](https://dev.to/mattsu014/run-deepseek-r1-locally-with-ollama-and-python-44b6)
+- [Rails CI/CD with Dokku &amp; GitHub Actions](https://dev.to/sulmanweb/rails-cicd-with-dokku-github-actions-l2g)
+- [🚀 Master Props in React: The Beginner’s Guide You Need! 🚀](https://dev.to/dct_technologyprivatelimited/master-props-in-react-the-beginners-guide-you-need-1md2)
+- [Getting Started with Stellar Development: A Step-by-Step Guide for Beginners](https://dev.to/dhruv_patel_966c637ac866f/getting-started-with-stellar-development-a-step-by-step-guide-for-beginners-5bjn)
+- [What Is DeepSeek? Why Is DeepSeek Suddenly Everywhere? Why Is It Shaking Up the AI World?](https://dev.to/swayam_248/what-is-deepseek-why-is-deepseek-suddenly-everywhere-why-is-it-shaking-up-the-ai-world-250f)
+- [Explore Essential tools of Laravel - Composer and Artisan with Useful commands](https://dev.to/thedevricha/explore-essential-tools-of-laravel-composer-and-artisan-with-useful-commands-13in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
