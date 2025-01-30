@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for URLs: A Comprehensive Guide](https://dev.to/simplr_sh/best-practices-for-urls-a-comprehensive-guide-2f90)
+- [Day 1: Building a Tic-Tac-Toe Game with a Valentine’s Twist Using React](https://dev.to/damilola_oyeyipo_1348716f/building-a-tic-tac-toe-game-with-a-valentines-twist-using-react-292f)
+- [DevOps - NGINX Configuration](https://dev.to/mukumbuta/devops-nginx-configuration-b4n)
 - [Inserção de dados em massa em bancos relacionais](https://dev.to/viniciuslisboa07/insercao-de-dados-em-massa-em-bancos-relacionais-3ien)
 - [Configure Your Cloud Infrastructure using Terraform and AWS CLI: A Step-by-Step Tutorial](https://dev.to/ikelechia/configure-your-cloud-infrastructure-using-terraform-and-aws-cli-a-step-by-step-tutorial-9ag)
-- [Setting up a basic Nginx webpage on AWS EC2 Instance](https://dev.to/aybims/setting-up-a-basic-nginx-webpage-on-aws-ec2-instance-4lj2)
-- [Setting Up NGINX on Ubuntu Server: My DevOps Stage Zero Task Experience](https://dev.to/lucy_76er/setting-up-nginx-on-ubuntu-server-my-devops-stage-zero-task-experience-59ob)
-- [Web Essentials](https://dev.to/____marcell/web-essentials-5cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
