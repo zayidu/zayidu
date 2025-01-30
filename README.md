@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth vs SAML vs OpenID: A Beginner-Friendly Guide](https://dev.to/lovestaco/oauth-vs-saml-vs-openid-a-beginner-friendly-guide-3l7o)
-- [A comprehensive guide to JavaScript generators](https://dev.to/logrocket/a-comprehensive-guide-to-javascript-generators-i95)
-- [Logs para que te quero? Sobre a importância do mapeamento das ações do usuário em um sistema](https://dev.to/dminatto/logs-para-que-te-quero-sobre-a-importancia-do-mapeamento-das-acoes-do-usuario-em-um-sistema-4l3o)
-- [My portfolio as a showcase](https://dev.to/veysel_nantu/my-portfolio-as-a-showcase-3jcn)
-- [Implementing feedback loops](https://dev.to/574n13y/implementing-feedback-loops-4l0o)
+- [💻 IDE Integration: Supercharging Productivity ✔](https://dev.to/sarvar_04/ide-integration-supercharging-productivity-pap)
+- [How to Create, Run, &amp; Manage Laravel Migrations](https://dev.to/buttercms/how-to-create-run-manage-laravel-migrations-3o6d)
+- [text-Editor VSCODE Without Mouse](https://dev.to/ngouend_gerard_90/text-editor-vscode-without-mouse-2k3o)
+- [React: Unveiling the Story Behind Its Name and Iconic Logo!](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
+- [if else and nested if in java:](https://dev.to/kaviyak/if-else-and-nested-if-in-java-28m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
