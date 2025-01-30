@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/ugochukwu_nebolisa_99efd3/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3beh)
-- [Redirect a Top-Level Domain Hosted on AWS to an External URL](https://dev.to/sammy_cloud/redirect-a-top-level-domain-hosted-on-aws-to-an-external-url-4mp3)
-- [Practical Guide : My Building of AI Warehouse Manager](https://dev.to/exploredataaiml/practical-guide-my-building-of-ai-warehouse-manager-10ok)
-- [Setting Up NGINX Web Server on AWS EC2: My HNG DevOps Stage 0 Experience](https://dev.to/richard_atodo/setting-up-nginx-web-server-on-aws-ec2-my-hng-devops-stage-0-experience-1mme)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/miraclejustice/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-1cdl)
+- [Inserção de dados em massa em bancos relacionais](https://dev.to/viniciuslisboa07/insercao-de-dados-em-massa-em-bancos-relacionais-3ien)
+- [Configure Your Cloud Infrastructure using Terraform and AWS CLI: A Step-by-Step Tutorial](https://dev.to/ikelechia/configure-your-cloud-infrastructure-using-terraform-and-aws-cli-a-step-by-step-tutorial-9ag)
+- [Setting up a basic Nginx webpage on AWS EC2 Instance](https://dev.to/aybims/setting-up-a-basic-nginx-webpage-on-aws-ec2-instance-4lj2)
+- [Setting Up NGINX on Ubuntu Server: My DevOps Stage Zero Task Experience](https://dev.to/lucy_76er/setting-up-nginx-on-ubuntu-server-my-devops-stage-zero-task-experience-59ob)
+- [Web Essentials](https://dev.to/____marcell/web-essentials-5cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
