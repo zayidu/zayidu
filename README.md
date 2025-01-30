@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Security Checklist: Essential Steps to Secure Your Cluster](https://dev.to/krupa_bhimani_1119cab2abc/kubernetes-security-checklist-233n)
-- [you know about this tools?](https://dev.to/khushindpatel/-5he)
-- [Browser Agent Starter Guide](https://dev.to/emilanker/browser-agent-starter-guide-434h)
-- [Mastering Hybrid Video Meetings for Seamless Collaboration](https://dev.to/krideo/mastering-hybrid-video-meetings-for-seamless-collaboration-2041)
-- [React vs Svelte: A Performance Benchmarking](https://dev.to/im_sonujangra/react-vs-svelte-a-performance-benchmarking-33n4)
+- [A Deep Dive into TypeScript&#39;s infer Keyword](https://dev.to/leapcell/a-deep-dive-into-typescripts-infer-keyword-1o4b)
+- [Cloud Networking Showdown: AWS VPC vs. Azure VNET vs. Google Cloud VPC](https://dev.to/shreya111111/cloud-networking-showdown-aws-vpc-vs-azure-vnet-vs-google-cloud-vpc-5e61)
+- [AI Agents in Manufacturing: A New Era of Excellence](https://dev.to/brucewayne12/ai-agents-in-manufacturing-a-new-era-of-excellence-43d9)
+- [WELCOME!](https://dev.to/jayani-n/welcome-nng)
+- [Setting Up NGINX on a Google Cloud Ubuntu Server: A DevOps Stage 0 Experience](https://dev.to/salakonba/setting-up-nginx-on-a-google-cloud-ubuntu-server-a-devops-stage-0-experience-4fbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
