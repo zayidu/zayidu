@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Quantum Potential: Innovations in Secure Multi-Party Computation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-innovations-in-secure-multi-party-computation-2g4h)
-- [Setting Up and Configuring NGINX on an Ubuntu Server.](https://dev.to/thelady_moh/setting-up-and-configuring-nginx-on-an-ubuntu-server-2hoi)
-- [Deploying Nginx on Azure Ubuntu VM: My Experience](https://dev.to/praisephs/deploying-nginx-on-azure-ubuntu-vm-my-experience-3102)
-- [How AI and data are transforming recruitment 2025](https://dev.to/deborah_madu_03984faf7ae5/how-ai-and-data-are-transforming-recruitment-2025-4ko1)
-- [Pretty much all the most popular DEV posts this week are DeepSeek-related](https://dev.to/ben/pretty-much-all-the-most-popular-dev-posts-this-week-are-deepseek-related-3cbh)
+- [Mastering Gray Release for High Availability](https://dev.to/ngendo/mastering-gray-release-for-high-availability-11pp)
+- [Built-in AI: The Future of Web-Powered Intelligence](https://dev.to/itxshakil/built-in-ai-the-future-of-web-powered-intelligence-39nd)
+- [13 top open-source tools to Supercharge web development in 2025🎉 🚀](https://dev.to/composiodev/13-top-open-source-tools-to-supercharge-web-development-in-2025-1d81)
+- [Web Application Architecture: Front-end, Middleware and Back-end](https://dev.to/techelopment/web-application-architecture-front-end-middleware-and-back-end-2ld7)
+- [Understanding Ports and Their Services: A Comprehensive Guide](https://dev.to/omar_alnajjar/understanding-ports-and-their-services-a-comprehensive-guide-38kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
