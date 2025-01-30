@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into TypeScript&#39;s infer Keyword](https://dev.to/leapcell/a-deep-dive-into-typescripts-infer-keyword-1o4b)
-- [Cloud Networking Showdown: AWS VPC vs. Azure VNET vs. Google Cloud VPC](https://dev.to/shreya111111/cloud-networking-showdown-aws-vpc-vs-azure-vnet-vs-google-cloud-vpc-5e61)
-- [AI Agents in Manufacturing: A New Era of Excellence](https://dev.to/brucewayne12/ai-agents-in-manufacturing-a-new-era-of-excellence-43d9)
-- [WELCOME!](https://dev.to/jayani-n/welcome-nng)
-- [Setting Up NGINX on a Google Cloud Ubuntu Server: A DevOps Stage 0 Experience](https://dev.to/salakonba/setting-up-nginx-on-a-google-cloud-ubuntu-server-a-devops-stage-0-experience-4fbc)
+- [Using Firebase for ASP.NET authentication](https://dev.to/logrocket/using-firebase-for-aspnet-authentication-e27)
+- [The Dead Letter Channel Enterprise Integration Pattern &lpar;EIP&rpar;: A Deep Dive](https://dev.to/igventurelli/the-dead-letter-channel-enterprise-integration-pattern-eip-a-deep-dive-2f2p)
+- [UAT: A Quick Overview](https://dev.to/shipyard/uat-a-quick-overview-1go7)
+- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
+- [Learning DevOps 30/01](https://dev.to/ashray_sam/learning-devops-2901-1hk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
