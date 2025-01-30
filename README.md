@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for URLs: A Comprehensive Guide](https://dev.to/simplr_sh/best-practices-for-urls-a-comprehensive-guide-2f90)
-- [Day 1: Building a Tic-Tac-Toe Game with a Valentine’s Twist Using React](https://dev.to/damilola_oyeyipo_1348716f/building-a-tic-tac-toe-game-with-a-valentines-twist-using-react-292f)
-- [DevOps - NGINX Configuration](https://dev.to/mukumbuta/devops-nginx-configuration-b4n)
-- [Inserção de dados em massa em bancos relacionais](https://dev.to/viniciuslisboa07/insercao-de-dados-em-massa-em-bancos-relacionais-3ien)
-- [Configure Your Cloud Infrastructure using Terraform and AWS CLI: A Step-by-Step Tutorial](https://dev.to/ikelechia/configure-your-cloud-infrastructure-using-terraform-and-aws-cli-a-step-by-step-tutorial-9ag)
+- [Understanding the Java Execution Process: From Code to Execution](https://dev.to/nishanthan-k/understanding-the-java-execution-process-from-code-to-execution-1n89)
+- [Discover 7 Amazing Tools for Image Optimization and Compression](https://dev.to/mroman7/discover-7-amazing-tools-for-image-optimization-and-compression-406i)
+- [From the Dark Web to Ethical Hacking: The Journey of Monsif Hmouri in Cybersecurity](https://dev.to/monsifhmouri/from-the-dark-web-to-ethical-hacking-the-journey-of-monsif-hmouri-in-cybersecurity-5d8i)
+- [OSD700: Sprint 2](https://dev.to/amullagaliev/osd700-sprint-2-ek5)
+- [Managing Environment Variables in Node.js with dotenv](https://dev.to/saiful7778/managing-environment-variables-in-nodejs-with-dotenv-159e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
