@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting up with Kubernetes](https://dev.to/pareekplatform/starting-up-with-kubernetes-1jae)
-- [Recursively Mapping Objects in JavaScript](https://dev.to/askyt/recursively-mapping-objects-in-javascript-5gne)
-- [maven-005: deep-dive-into-site-lifecycle](https://dev.to/hunor85/maven-005-deep-dive-into-site-lifecycle-3dm3)
-- [Setting Up an NGINX Web Server on Azure: My DevOps Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-my-devops-stage-0-experience-295f)
-- [maven-004: deep-dive-into-default-build-lifecycle](https://dev.to/hunor85/maven-004-deep-dive-into-default-build-lifecycle-2i6j)
+- [Unlocking the Power of React Component Libraries: Elevate Your Development Process](https://dev.to/sencha_reext/unlocking-the-power-of-react-component-libraries-elevate-your-development-process-2bjg)
+- [Authorization in Golang](https://dev.to/ortizdavid/authorization-in-golang-52oj)
+- [spring-014: mvn spring-boot:run-lifecycle-phases](https://dev.to/hunor85/spring-014-mvn-spring-bootrun-lifecycle-phases-18g9)
+- [Smart CO2-Based Fan Control Using BleuIO and Renesas RA4M2](https://dev.to/bleuiot/smart-co2-based-fan-control-using-bleuio-and-renesas-ra4m2-dkm)
+- [Build a Browser Use Agent with DeepSeek: A Step-by-Step Guide](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
