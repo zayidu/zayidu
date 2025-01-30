@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiple component variants with Tailwind](https://dev.to/railsdesigner/multiple-component-variants-with-tailwind-243c)
-- [Entenda GIT e GITHUB](https://dev.to/bughunterbr/entenda-git-e-github-1ikc)
-- [Custom Multipart Request in Dart for Video Uploads](https://dev.to/saurabh_saha_bf5fd7abb989/custom-multipart-request-in-dart-for-video-uploads-38c7)
-- [Muy buena opinión y apoyo para adentrarse en el mundo DEV, totalmente de acuerdo en potenciar nuestros conocimientos y carreras por medio de la creación de conexiones con compañeros en el campo.](https://dev.to/juan_pabloalvarezbaraja/muy-buena-opinion-y-apoyo-para-adentrarse-en-el-mundo-dev-totalmente-de-acuerdo-en-potenciar-5713)
-- [Front-end Shovel 💩 Diary #2: The Easily Overlooked &quot;domain&quot;](https://dev.to/ourai/front-end-shovel-diary-2-the-easily-overlooked-domain-1epk)
+- [The Rise of No-Code and Low-Code in Frontend Development: Opportunity or Threat?](https://dev.to/dainemawer/the-rise-of-no-code-and-low-code-in-frontend-development-opportunity-or-threat-ofa)
+- [Falsehoods Programmers Believe About Finance](https://dev.to/mdesenfants/falsehoods-programmers-believe-about-finance-53hm)
+- [Mastering Step-by-Step Reasoning in Prompts](https://dev.to/borba/mastering-step-by-step-reasoning-in-prompts-3mkb)
+- [The Magic of Theming](https://dev.to/nblackburn/the-magic-of-theming-4np9)
+- [Eisenhower Matrix: How to stop being a Firefighter and become a Strategist](https://dev.to/matheuslemke/eisenhower-matrix-how-to-stop-being-a-firefighter-and-become-a-strategist-bhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
