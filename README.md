@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HNG Stage 0: NGINX Web Server Task](https://dev.to/calebsgram/hng-stage-0-nginx-web-server-task-5f0j)
-- [Deploy DeepSeek R1 to AWS EC2](https://dev.to/fpmortal/deploy-deepseek-r1-to-aws-ec2-n78)
-- [Qwen 2.5 Max vs. DeepSeek V3 &lpar;R1&rpar; Benchmark](https://dev.to/mehmetakar/qwen-25-max-vs-deepseek-v3-r1-benchmark-49be)
-- [Criando uma API de Live Streaming com NestJS](https://dev.to/andersonzero0/criando-uma-api-de-live-streaming-com-nestjs-18n0)
-- [Data Acronym Overload: ETL vs ELT, Data Lakes vs Warehouses, Parquet vs CSV, and More](https://dev.to/burcs/data-acronym-overload-etl-vs-elt-data-lakes-vs-warehouses-parquet-vs-csv-and-more-5c4c)
+- [Multiple component variants with Tailwind](https://dev.to/railsdesigner/multiple-component-variants-with-tailwind-243c)
+- [Entenda GIT e GITHUB](https://dev.to/bughunterbr/entenda-git-e-github-1ikc)
+- [Custom Multipart Request in Dart for Video Uploads](https://dev.to/saurabh_saha_bf5fd7abb989/custom-multipart-request-in-dart-for-video-uploads-38c7)
+- [Muy buena opinión y apoyo para adentrarse en el mundo DEV, totalmente de acuerdo en potenciar nuestros conocimientos y carreras por medio de la creación de conexiones con compañeros en el campo.](https://dev.to/juan_pabloalvarezbaraja/muy-buena-opinion-y-apoyo-para-adentrarse-en-el-mundo-dev-totalmente-de-acuerdo-en-potenciar-5713)
+- [Front-end Shovel 💩 Diary #2: The Easily Overlooked &quot;domain&quot;](https://dev.to/ourai/front-end-shovel-diary-2-the-easily-overlooked-domain-1epk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
