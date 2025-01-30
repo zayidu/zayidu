@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Gray Release for High Availability](https://dev.to/ngendo/mastering-gray-release-for-high-availability-11pp)
-- [Built-in AI: The Future of Web-Powered Intelligence](https://dev.to/itxshakil/built-in-ai-the-future-of-web-powered-intelligence-39nd)
-- [13 top open-source tools to Supercharge web development in 2025🎉 🚀](https://dev.to/composiodev/13-top-open-source-tools-to-supercharge-web-development-in-2025-1d81)
-- [Web Application Architecture: Front-end, Middleware and Back-end](https://dev.to/techelopment/web-application-architecture-front-end-middleware-and-back-end-2ld7)
-- [Understanding Ports and Their Services: A Comprehensive Guide](https://dev.to/omar_alnajjar/understanding-ports-and-their-services-a-comprehensive-guide-38kb)
+- [OAuth vs SAML vs OpenID: A Beginner-Friendly Guide](https://dev.to/lovestaco/oauth-vs-saml-vs-openid-a-beginner-friendly-guide-3l7o)
+- [A comprehensive guide to JavaScript generators](https://dev.to/logrocket/a-comprehensive-guide-to-javascript-generators-i95)
+- [Logs para que te quero? Sobre a importância do mapeamento das ações do usuário em um sistema](https://dev.to/dminatto/logs-para-que-te-quero-sobre-a-importancia-do-mapeamento-das-acoes-do-usuario-em-um-sistema-4l3o)
+- [My portfolio as a showcase](https://dev.to/veysel_nantu/my-portfolio-as-a-showcase-3jcn)
+- [Implementing feedback loops](https://dev.to/574n13y/implementing-feedback-loops-4l0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
