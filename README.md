@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/iflames_1/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-dmd)
-- [Corporate Jargon Translation with Amazon Bedrock](https://dev.to/aws-builders/corporate-jargon-translation-with-amazon-bedrock-48ch)
-- [HTML and CSS crash course completed](https://dev.to/nosfuratoo1/html-and-css-crash-course-completed-4095)
-- [Re:Buff Twitch extension is now live](https://dev.to/pixelsurfer/rebuff-twitch-extension-is-now-live-20i0)
-- [Project Translate : Architecture](https://dev.to/__dbrown__/project-translate-architecture-2icg)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/ugochukwu_nebolisa_99efd3/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3beh)
+- [Redirect a Top-Level Domain Hosted on AWS to an External URL](https://dev.to/sammy_cloud/redirect-a-top-level-domain-hosted-on-aws-to-an-external-url-4mp3)
+- [Practical Guide : My Building of AI Warehouse Manager](https://dev.to/exploredataaiml/practical-guide-my-building-of-ai-warehouse-manager-10ok)
+- [Setting Up NGINX Web Server on AWS EC2: My HNG DevOps Stage 0 Experience](https://dev.to/richard_atodo/setting-up-nginx-web-server-on-aws-ec2-my-hng-devops-stage-0-experience-1mme)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/miraclejustice/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-1cdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
