@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Java Execution Process: From Code to Execution](https://dev.to/nishanthan-k/understanding-the-java-execution-process-from-code-to-execution-1n89)
-- [Discover 7 Amazing Tools for Image Optimization and Compression](https://dev.to/mroman7/discover-7-amazing-tools-for-image-optimization-and-compression-406i)
-- [From the Dark Web to Ethical Hacking: The Journey of Monsif Hmouri in Cybersecurity](https://dev.to/monsifhmouri/from-the-dark-web-to-ethical-hacking-the-journey-of-monsif-hmouri-in-cybersecurity-5d8i)
-- [OSD700: Sprint 2](https://dev.to/amullagaliev/osd700-sprint-2-ek5)
-- [Managing Environment Variables in Node.js with dotenv](https://dev.to/saiful7778/managing-environment-variables-in-nodejs-with-dotenv-159e)
+- [5 Simple Productivity Tips Every Developer Should Try](https://dev.to/kimwachsman1979/5-simple-productivity-tips-every-developer-should-try-1mcl)
+- [[Boost]](https://dev.to/mislam/-5196)
+- [Best Practices for Cloud Disaster Recovery: Ensuring Business Continuity and Data Protection](https://dev.to/adityabhuyan/best-practices-for-cloud-disaster-recovery-ensuring-business-continuity-and-data-protection-28gh)
+- [ChatGPT vs. DeepSeek: A Simple Comparison for Developers 🤖 vs. 🔍](https://dev.to/sourav_22cdd152890952704c/chatgpt-vs-deepseek-a-simple-comparison-1j3o)
+- [Run DeepSeek R1 Locally with Ollama and Python](https://dev.to/mattsu014/run-deepseek-r1-locally-with-ollama-and-python-44b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
