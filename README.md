@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails CI/CD with Dokku &amp; GitHub Actions](https://dev.to/sulmanweb/rails-cicd-with-dokku-github-actions-l2g)
-- [🚀 Master Props in React: The Beginner’s Guide You Need! 🚀](https://dev.to/dct_technologyprivatelimited/master-props-in-react-the-beginners-guide-you-need-1md2)
-- [Getting Started with Stellar Development: A Step-by-Step Guide for Beginners](https://dev.to/dhruv_patel_966c637ac866f/getting-started-with-stellar-development-a-step-by-step-guide-for-beginners-5bjn)
-- [What Is DeepSeek? Why Is DeepSeek Suddenly Everywhere? Why Is It Shaking Up the AI World?](https://dev.to/swayam_248/what-is-deepseek-why-is-deepseek-suddenly-everywhere-why-is-it-shaking-up-the-ai-world-250f)
-- [Explore Essential tools of Laravel - Composer and Artisan with Useful commands](https://dev.to/thedevricha/explore-essential-tools-of-laravel-composer-and-artisan-with-useful-commands-13in)
+- [Gasless Transactions Simplified: OktoPaymaster in Action](https://dev.to/abi_6fc654db6b9c841fb4c4f/gasless-transactions-simplified-oktopaymaster-in-action-144c)
+- [My Experience Setting Up NGINX on an Ubuntu Server in AWS - HNG DevOps](https://dev.to/c_6b7a8e65d067ddc62/my-experience-setting-up-nginx-on-an-ubuntu-server-in-aws-hng-devops-g22)
+- [TypeScript vs JavaScript: A short To the point comparison](https://dev.to/web_dev-usman/typescript-vs-javascript-a-short-to-the-point-comparison-4m82)
+- [The Role of Pre-Built AI Models in Reducing App Development Costs](https://dev.to/tristate_aus/the-role-of-pre-built-ai-models-in-reducing-app-development-costs-3foc)
+- [Deploying an NGINX Web Server on AWS: A Practical Project Guide](https://dev.to/goodluck_ekeoma_2c98866d0/deploying-an-nginx-web-server-on-aws-a-practical-project-guide-5cj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
