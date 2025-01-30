@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent DNS Rebinding in Laravel: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-dns-rebinding-in-laravel-a-comprehensive-guide-4gmi)
-- [Microservices 101: Communication between services](https://dev.to/bulatgab/microservices-101-communication-between-services-4ea)
-- [“Indian Root Bridge” - Integration Approach to Connect Systems](https://dev.to/bhagvank/indian-root-bridge-integration-approach-to-connect-systems-77j)
-- [Embedding JSFiddle in dev.to Articles](https://dev.to/manoj_004d/embedding-jsfiddle-in-devto-articles-1in5)
-- [🚀 Implement Passwordless Auth with MojoAuth in 10 Minutes &lpar;Yes, Really!&rpar;](https://dev.to/mojoauth/implement-passwordless-auth-with-mojoauth-in-10-minutes-yes-really-55lb)
+- [On inheritance and subtyping](https://dev.to/nfrankel/on-inheritance-and-subtyping-c4m)
+- [Validating configuration files with Raku and Sparrow Task::Check DSL](https://dev.to/melezhik/validating-config-files-with-raku-and-sparrow-taskcheck-dsl-1ekp)
+- [Integrating Kube-Prometheus with Your Operator Using Jsonnet Bundler &lpar;jb&rpar;](https://dev.to/ahmedzidan/integrating-kube-prometheus-with-your-operator-using-jsonnet-bundler-jb-5dop)
+- [Ensuring Quality in Software Development: QA Strategies](https://dev.to/alona_instandart/ensuring-quality-in-software-development-qa-strategies-2chl)
+- [Fixing CircleCI Nightmares: Solving Missing JavaScript Runtime &amp; Chrome GPG Key Errors in Rails CI/CD 🚀🚀](https://dev.to/rolandlluka/fixing-circleci-nightmares-solving-missing-javascript-runtime-chrome-gpg-key-errors-in-rails-2a3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
