@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of React Component Libraries: Elevate Your Development Process](https://dev.to/sencha_reext/unlocking-the-power-of-react-component-libraries-elevate-your-development-process-2bjg)
-- [Authorization in Golang](https://dev.to/ortizdavid/authorization-in-golang-52oj)
-- [spring-014: mvn spring-boot:run-lifecycle-phases](https://dev.to/hunor85/spring-014-mvn-spring-bootrun-lifecycle-phases-18g9)
-- [Smart CO2-Based Fan Control Using BleuIO and Renesas RA4M2](https://dev.to/bleuiot/smart-co2-based-fan-control-using-bleuio-and-renesas-ra4m2-dkm)
-- [Build a Browser Use Agent with DeepSeek: A Step-by-Step Guide](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59)
+- [🚀 5 Open-Source Tools to Track PostgreSQL Performance Like a Pro!](https://dev.to/dct_technologyprivatelimited/5-open-source-tools-to-track-postgresql-performance-like-a-pro-5805)
+- [Deploying the DeepSeek Model on a Local PC](https://dev.to/chatgptnexus/2025013021-13-13-article-29lm)
+- [Laravel parameterized middleware a deep dive](https://dev.to/xwero/laravel-parameterized-middleware-a-deep-dive-3in4)
+- [j-DataGrid — Total.js part 1](https://dev.to/palo/j-datagrid-totaljs-part-1-1mkj)
+- [🤯 Alibaba Just Dropped Qwen 2.5 — And It’s Shaking Up the AI World](https://dev.to/codedetech/alibaba-just-dropped-qwen-25-and-its-shaking-up-the-ai-world-1eg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
