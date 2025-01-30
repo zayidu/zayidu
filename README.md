@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gasless Transactions Simplified: OktoPaymaster in Action](https://dev.to/abi_6fc654db6b9c841fb4c4f/gasless-transactions-simplified-oktopaymaster-in-action-144c)
-- [My Experience Setting Up NGINX on an Ubuntu Server in AWS - HNG DevOps](https://dev.to/c_6b7a8e65d067ddc62/my-experience-setting-up-nginx-on-an-ubuntu-server-in-aws-hng-devops-g22)
-- [TypeScript vs JavaScript: A short To the point comparison](https://dev.to/web_dev-usman/typescript-vs-javascript-a-short-to-the-point-comparison-4m82)
-- [The Role of Pre-Built AI Models in Reducing App Development Costs](https://dev.to/tristate_aus/the-role-of-pre-built-ai-models-in-reducing-app-development-costs-3foc)
-- [Deploying an NGINX Web Server on AWS: A Practical Project Guide](https://dev.to/goodluck_ekeoma_2c98866d0/deploying-an-nginx-web-server-on-aws-a-practical-project-guide-5cj2)
+- [Prevent DNS Rebinding in Laravel: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-dns-rebinding-in-laravel-a-comprehensive-guide-4gmi)
+- [Microservices 101: Communication between services](https://dev.to/bulatgab/microservices-101-communication-between-services-4ea)
+- [“Indian Root Bridge” - Integration Approach to Connect Systems](https://dev.to/bhagvank/indian-root-bridge-integration-approach-to-connect-systems-77j)
+- [Embedding JSFiddle in dev.to Articles](https://dev.to/manoj_004d/embedding-jsfiddle-in-devto-articles-1in5)
+- [🚀 Implement Passwordless Auth with MojoAuth in 10 Minutes &lpar;Yes, Really!&rpar;](https://dev.to/mojoauth/implement-passwordless-auth-with-mojoauth-in-10-minutes-yes-really-55lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
