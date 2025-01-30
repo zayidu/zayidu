@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On inheritance and subtyping](https://dev.to/nfrankel/on-inheritance-and-subtyping-c4m)
-- [Validating configuration files with Raku and Sparrow Task::Check DSL](https://dev.to/melezhik/validating-config-files-with-raku-and-sparrow-taskcheck-dsl-1ekp)
-- [Integrating Kube-Prometheus with Your Operator Using Jsonnet Bundler &lpar;jb&rpar;](https://dev.to/ahmedzidan/integrating-kube-prometheus-with-your-operator-using-jsonnet-bundler-jb-5dop)
-- [Ensuring Quality in Software Development: QA Strategies](https://dev.to/alona_instandart/ensuring-quality-in-software-development-qa-strategies-2chl)
-- [Fixing CircleCI Nightmares: Solving Missing JavaScript Runtime &amp; Chrome GPG Key Errors in Rails CI/CD 🚀🚀](https://dev.to/rolandlluka/fixing-circleci-nightmares-solving-missing-javascript-runtime-chrome-gpg-key-errors-in-rails-2a3g)
+- [Starting up with Kubernetes](https://dev.to/pareekplatform/starting-up-with-kubernetes-1jae)
+- [Recursively Mapping Objects in JavaScript](https://dev.to/askyt/recursively-mapping-objects-in-javascript-5gne)
+- [maven-005: deep-dive-into-site-lifecycle](https://dev.to/hunor85/maven-005-deep-dive-into-site-lifecycle-3dm3)
+- [Setting Up an NGINX Web Server on Azure: My DevOps Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-my-devops-stage-0-experience-295f)
+- [maven-004: deep-dive-into-default-build-lifecycle](https://dev.to/hunor85/maven-004-deep-dive-into-default-build-lifecycle-2i6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
