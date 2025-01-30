@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of No-Code and Low-Code in Frontend Development: Opportunity or Threat?](https://dev.to/dainemawer/the-rise-of-no-code-and-low-code-in-frontend-development-opportunity-or-threat-ofa)
-- [Falsehoods Programmers Believe About Finance](https://dev.to/mdesenfants/falsehoods-programmers-believe-about-finance-53hm)
-- [Mastering Step-by-Step Reasoning in Prompts](https://dev.to/borba/mastering-step-by-step-reasoning-in-prompts-3mkb)
-- [The Magic of Theming](https://dev.to/nblackburn/the-magic-of-theming-4np9)
-- [Eisenhower Matrix: How to stop being a Firefighter and become a Strategist](https://dev.to/matheuslemke/eisenhower-matrix-how-to-stop-being-a-firefighter-and-become-a-strategist-bhk)
+- [Here Are Some Productivity Tools That I Use Every Day](https://dev.to/devlawrence/here-are-some-productivity-tools-that-i-use-every-day-3p3b)
+- [Transcode video with open web services](https://dev.to/video/transcode-video-with-open-web-services-4p3e)
+- [The Pitfalls of SQL Database Design – How to Avoid Costly Mistakes](https://dev.to/farlamo/the-pitfalls-of-sql-database-design-how-to-avoid-costly-mistakes-44l7)
+- [A Discussion Group in Your Browser](https://dev.to/coolpandaca/a-discussion-group-in-your-browser-3ej0)
+- [Why I switched back to Microsoft CDN Classic from Azure Front Door Standard](https://dev.to/sasquatch8946/why-i-switched-back-to-microsoft-cdn-classic-from-azure-front-door-standard-55bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
