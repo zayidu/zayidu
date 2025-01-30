@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 5 Open-Source Tools to Track PostgreSQL Performance Like a Pro!](https://dev.to/dct_technologyprivatelimited/5-open-source-tools-to-track-postgresql-performance-like-a-pro-5805)
-- [Deploying the DeepSeek Model on a Local PC](https://dev.to/chatgptnexus/2025013021-13-13-article-29lm)
-- [Laravel parameterized middleware a deep dive](https://dev.to/xwero/laravel-parameterized-middleware-a-deep-dive-3in4)
-- [j-DataGrid — Total.js part 1](https://dev.to/palo/j-datagrid-totaljs-part-1-1mkj)
-- [🤯 Alibaba Just Dropped Qwen 2.5 — And It’s Shaking Up the AI World](https://dev.to/codedetech/alibaba-just-dropped-qwen-25-and-its-shaking-up-the-ai-world-1eg1)
+- [Kubernetes Security Checklist: Essential Steps to Secure Your Cluster](https://dev.to/krupa_bhimani_1119cab2abc/kubernetes-security-checklist-233n)
+- [you know about this tools?](https://dev.to/khushindpatel/-5he)
+- [Browser Agent Starter Guide](https://dev.to/emilanker/browser-agent-starter-guide-434h)
+- [Mastering Hybrid Video Meetings for Seamless Collaboration](https://dev.to/krideo/mastering-hybrid-video-meetings-for-seamless-collaboration-2041)
+- [React vs Svelte: A Performance Benchmarking](https://dev.to/im_sonujangra/react-vs-svelte-a-performance-benchmarking-33n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
