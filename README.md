@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Configured NGINX to Serve My Custom HTML Page: A First-Timer&#39;s Guide](https://dev.to/starrinthecloud/how-i-configured-nginx-to-serve-my-custom-html-page-a-first-timers-guide-2aje)
-- [Lost at Sea: Navigating the Storms and Sanctuaries of My 2024 Journey](https://dev.to/cbid2/lost-at-sea-navigating-the-storms-and-sanctuaries-of-my-2024-journey-137j)
-- [Debugging Memory Leaks With Instruments in XCode](https://dev.to/raphacmartin/debugging-memory-leaks-with-instruments-in-xcode-56hk)
-- [How Does a Hash Help Secure Blockchain Technology?](https://dev.to/shazaib_rafiq_496442e8642/how-does-a-hash-help-secure-blockchain-technology-22oi)
-- [Unity Asset - UI Animation](https://dev.to/tkkoi/unity-asset-ui-animation-1di5)
+- [[Boost]](https://dev.to/ben/-36dm)
+- [IP Address Set Operations with net/netip 4/7](https://dev.to/rezmoss/ip-address-set-operations-with-netnetip-47-38b2)
+- [Avoiding global functions in JavaScript](https://dev.to/56_kode/avoiding-global-functions-in-javascript-1hlm)
+- [Built public API for HNG stage0 task](https://dev.to/mayowakalejaiye/built-public-api-for-hng-stage0-task-3aa8)
+- [Architectures of Generative AI: A Deep Dive](https://dev.to/sharsha315/architectures-of-generative-ai-a-deep-dive-6nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
