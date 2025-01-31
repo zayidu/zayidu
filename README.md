@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Unlock the True Potential of Google&#39;s Gemini AI? This Guide Will Show You How!](https://dev.to/sayed_ali_alkamel/want-to-unlock-the-true-potential-of-googles-gemini-ai-this-guide-will-show-you-how-nmo)
-- [Laravel and Vue.js: A Powerful Combination for Modern Web Applications](https://dev.to/robin-ivi/laravel-and-vuejs-a-powerful-combination-for-modern-web-applications-5ajo)
-- [Querido desarrollador de Android](https://dev.to/baltasarq/querido-desarrollador-de-android-5g7c)
-- [List Operation Functions](https://dev.to/mujahida_joynab_64c7407d8/list-operation-functions-1ifo)
-- [Containerd vs. Docker](https://dev.to/spacelift/containerd-vs-docker-5cg5)
+- [The Dynamics of Open Source Contributions: A Conversation From Both Ends of the Spectrum](https://dev.to/devmercy/the-dynamics-of-open-source-contributions-a-conversation-from-both-ends-of-the-spectrum-3nbb)
+- [Usando Deepseek no Visual Studio Code de graça 💸](https://dev.to/razielrodrigues/usando-deepseek-no-visual-studio-code-de-graca-2764)
+- [Top 10 Python Libraries That Will Save You Hours of Work.](https://dev.to/balrajola/top-10-python-libraries-that-will-save-you-hours-of-work-1nm6)
+- [DeepSeek R1: A New Contender in the World of Large Language Models](https://dev.to/thedevguru/deepseek-r1-a-new-contender-in-the-world-of-large-language-models-1l8)
+- [2025&#39;s Serverless Tech Stacks your Projects](https://dev.to/abubakersiddique761/2025s-serverless-tech-stacks-your-projects-16k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
