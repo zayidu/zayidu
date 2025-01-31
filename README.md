@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerging Tech Trends of 2025: What’s Shaping the Future?](https://dev.to/aneeqakhan/emerging-tech-trends-of-2025-whats-shaping-the-future-1kke)
-- [Simple Yet Powerful: Building an In-Memory Async Event Bus in Python](https://dev.to/kuba_szw/simple-yet-powerful-building-an-in-memory-async-event-bus-in-python-3e8j)
-- [List of Top Local-First API Clients](https://dev.to/requestly/list-of-top-local-first-api-clients-229e)
-- [👏 I Created a React Component That Recognizes Finger Snaps! &lpar;feat. TensorFlow.js&rpar;](https://dev.to/hm_3da474f199e3c1d45337cf/i-created-a-react-component-that-recognizes-finger-snaps-feat-tensorflowjs-4lin)
-- [Top 5 Open-Source API Clients in 2025](https://dev.to/requestly/top-5-open-source-api-clients-in-2025-1i2k)
+- [Want to Unlock the True Potential of Google&#39;s Gemini AI? This Guide Will Show You How!](https://dev.to/sayed_ali_alkamel/want-to-unlock-the-true-potential-of-googles-gemini-ai-this-guide-will-show-you-how-nmo)
+- [Laravel and Vue.js: A Powerful Combination for Modern Web Applications](https://dev.to/robin-ivi/laravel-and-vuejs-a-powerful-combination-for-modern-web-applications-5ajo)
+- [Querido desarrollador de Android](https://dev.to/baltasarq/querido-desarrollador-de-android-5g7c)
+- [List Operation Functions](https://dev.to/mujahida_joynab_64c7407d8/list-operation-functions-1ifo)
+- [Containerd vs. Docker](https://dev.to/spacelift/containerd-vs-docker-5cg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
