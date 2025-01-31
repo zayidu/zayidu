@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Data Mocking Explained: Advanced API Development Techniques](https://dev.to/getambassador2024/dynamic-data-mocking-explained-advanced-api-development-techniques-1457)
+- [Design Insights: Katie Dill Reviews Startup Websites](https://dev.to/jetthoughts/design-insights-katie-dill-reviews-startup-websites-492p)
+- [Deep Dive into Building AI Agents with LLMs](https://dev.to/subeshb1/deep-dive-into-building-ai-agents-with-llms-3d0p)
+- [🚀 Transform Your Chatbot Game with Multi-Agent Magic! 🤖](https://dev.to/techifysolutions/transform-your-chatbot-game-with-multi-agent-magic-1g60)
 - [In this article, ScrumStudy&#39;s Scrum Fundamentals Certification &lpar;SFC&rpar; | Study Guide - Part II: Principles, I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy&#39;s Scrum Fundamentals Certification.](https://dev.to/jasminemlewis/in-this-article-scrumstudys-scrum-fundamentals-certification-sfc-study-guide-part-ii-34d9)
-- [In this article titled SCRUMstudy&#39;s Scrum Fundamentals Certification &lpar;SFC&rpar; | Notes - Part I: Introduction, I provide a synopsis of the exam and overview of Scrum, including definition and benefits.](https://dev.to/jasminemlewis/in-this-article-titled-scrumstudys-scrum-fundamentals-certification-sfc-notes-part-i-53j3)
-- [The DeepSeek Disruption: Rein of Open Source LLMs 👑](https://dev.to/sarthology/the-deepseek-disruption-rein-of-open-source-llms-1dn7)
-- [Can AI Predict and Mitigate Cloud Outages Using Historical Failure Data?](https://dev.to/sarthakkarora/can-ai-predict-and-mitigate-cloud-outages-using-historical-failure-data-1b3a)
-- [Master JSON Handling in JavaScript! 🖥️🚀](https://dev.to/dct_technologyprivatelimited/master-json-handling-in-javascript-3571)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
