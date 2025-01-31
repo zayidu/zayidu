@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase: Open Source Backend-as-a-Service Made Simple](https://dev.to/austinwdigital/supabase-open-source-backend-as-a-service-made-simple-3fec)
-- [Top 10 Must-Have UI Libraries to Elevate Your Next.js Projects](https://dev.to/hyvip/top-10-must-have-ui-libraries-to-elevate-your-nextjs-projects-4362)
-- [Advancing My Front-End Developer Career and How HNG Will Help Me Achieve My Goals](https://dev.to/ogunwa_chinasa_c9f74b2dcd/overcoming-database-relationship-as-backend-dev-1o1c)
-- [Why I want to be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/emmanuel_xs/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-1f74)
-- [Introducing Arto: A Flexible, Variant-Driven Class Management Library for Accessible UIs](https://dev.to/hamidelgendy/introducing-arto-a-flexible-variant-driven-class-management-library-for-accessible-uis-2g0h)
+- [Is Bigger Really Better? Rethinking AI with SLMs – Why Smaller Models Are Leading the Next Wave of Innovation](https://dev.to/devopsking/is-bigger-really-better-rethinking-ai-with-slms-why-smaller-models-are-leading-the-next-wave-of-2m3n)
+- [From PartyRock to Bedrock: AI-Powered Automation at Work](https://dev.to/aws-builders/from-partyrock-to-bedrock-ai-powered-automation-at-work-28c2)
+- [Which JavaScript Bundler Is Right for You? A Deep Dive into Webpack, Vite, and More](https://dev.to/mohamedlaminef/which-javascript-bundler-is-right-for-you-a-deep-dive-into-webpack-vite-and-more-50bc)
+- [Profiling asynchronous Python](https://dev.to/smirnoffmg/profiling-asynchronous-python-1nii)
+- [New implementation on watsonx.ai: automate RAG pipeline development &amp; deployment with a SDK](https://dev.to/aairom/new-implementation-on-watsonxai-automate-rag-pipeline-development-deployment-with-a-sdk-oee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
