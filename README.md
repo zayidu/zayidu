@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Vercel Blob Storage with Python](https://dev.to/suryasekhar/how-to-use-vercel-blob-storage-with-python-3ko)
-- [6502 Math - Lab 2](https://dev.to/jurozaw/6502-math-lab-2-4adm)
-- [My first co-post!!](https://dev.to/robbenzo24/my-first-co-post-397l)
-- [PHP security](https://dev.to/ekopriyanto/php-security-40hj)
-- [[Boost]](https://dev.to/brunociccarino/-2nk5)
+- [Practical use of the event.stopPropagation React MUI Data Grid: Allowing Arrow Key Navigation for Input Fields](https://dev.to/rajeshroyal/practical-use-of-the-eventstoppropagation-react-mui-data-grid-allowing-arrow-key-navigation-for-571a)
+- [Minimal VSCode: How I Crafted a Clean, Keyboard-Driven Coding Setup](https://dev.to/tipomrsk/minimal-vscode-how-i-crafted-a-clean-keyboard-driven-coding-setup-401d)
+- [Set up Docker For NestJs](https://dev.to/tak089/set-up-docker-for-nestjs-3gib)
+- [How Does a Compiler Work?](https://dev.to/sovannaro/how-does-a-compiler-work-o87)
+- [เรียนภาษาใหม่ก็สนุกดี นะ เหมือน bash+powershell](https://dev.to/dvgamerr/eriiynphaasaaaihmksnukdii-na-ehmuuen-bashpowershell-5b2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
