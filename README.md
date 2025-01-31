@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Bigger Really Better? Rethinking AI with SLMs – Why Smaller Models Are Leading the Next Wave of Innovation](https://dev.to/devopsking/is-bigger-really-better-rethinking-ai-with-slms-why-smaller-models-are-leading-the-next-wave-of-2m3n)
-- [From PartyRock to Bedrock: AI-Powered Automation at Work](https://dev.to/aws-builders/from-partyrock-to-bedrock-ai-powered-automation-at-work-28c2)
-- [Which JavaScript Bundler Is Right for You? A Deep Dive into Webpack, Vite, and More](https://dev.to/mohamedlaminef/which-javascript-bundler-is-right-for-you-a-deep-dive-into-webpack-vite-and-more-50bc)
-- [Profiling asynchronous Python](https://dev.to/smirnoffmg/profiling-asynchronous-python-1nii)
-- [New implementation on watsonx.ai: automate RAG pipeline development &amp; deployment with a SDK](https://dev.to/aairom/new-implementation-on-watsonxai-automate-rag-pipeline-development-deployment-with-a-sdk-oee)
+- [A.I. Chat with your TypeScript Class &lpar;Every TypeScript Classes can be Super A.I. Chatbot&rpar;](https://dev.to/samchon/ai-chat-with-your-typescript-class-every-typescript-classes-can-be-super-ai-chatbot-51f)
+- [How I Configured NGINX on a Fresh Ubuntu Server: My Experience](https://dev.to/onlyfave/how-i-configured-nginx-on-a-fresh-ubuntu-server-my-experience-434b)
+- [Holographic Complex Function Visualization](https://dev.to/michael_morton_69ead6ddf7/holographic-complex-function-visualization-559c)
+- [Next.js Component Naming Conventions: Best Practices for File and Component Names](https://dev.to/vikasparmar/nextjs-component-naming-conventions-best-practices-for-file-and-component-names-39o2)
+- [The Story of Java: A Journey from an Oak Tree to Global Dominance....&lpar;Part 1&rpar;](https://dev.to/sona_08/the-story-of-java-a-journey-from-an-oak-tree-to-global-dominance-1gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
