@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Best Rails Open Source Projects for Developers in 2025](https://dev.to/jetthoughts/exploring-the-best-rails-open-source-projects-for-developers-in-2025-5a0d)
-- [Picture in Picture in React Native &lpar;Android&rpar;](https://dev.to/devpenzil/picture-in-picture-in-react-native-android-f6f)
-- [The most unambitious way to bulid a startup](https://dev.to/ironbrands/the-most-unambitious-way-to-bulid-a-startup-2gj7)
-- [5 Terraform Best Practices I Wish I Knew When I Started](https://dev.to/bobbyiliev/5-terraform-best-practices-i-wish-i-knew-when-i-started-2dc)
-- [Five steps to become a software developer in 2025.](https://dev.to/leonard_simolo_87db766b43/five-steps-to-become-a-software-developer-in-2025-39a1)
+- [How I Configured NGINX to Serve My Custom HTML Page: A First-Timer&#39;s Guide](https://dev.to/starrinthecloud/how-i-configured-nginx-to-serve-my-custom-html-page-a-first-timers-guide-2aje)
+- [Lost at Sea: Navigating the Storms and Sanctuaries of My 2024 Journey](https://dev.to/cbid2/lost-at-sea-navigating-the-storms-and-sanctuaries-of-my-2024-journey-137j)
+- [Debugging Memory Leaks With Instruments in XCode](https://dev.to/raphacmartin/debugging-memory-leaks-with-instruments-in-xcode-56hk)
+- [How Does a Hash Help Secure Blockchain Technology?](https://dev.to/shazaib_rafiq_496442e8642/how-does-a-hash-help-secure-blockchain-technology-22oi)
+- [Unity Asset - UI Animation](https://dev.to/tkkoi/unity-asset-ui-animation-1di5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
