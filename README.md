@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Découvrez Qwen-2.5-Max : Une Révolution dans le Domaine des Modèles Linguistiques](https://dev.to/taak61/decouvrez-qwen-25-max-une-revolution-dans-le-domaine-des-modeles-linguistiques-1641)
-- [Stop Hard-Coding API Keys: Why You Need Environment Variables Right Now](https://dev.to/jrud25/stop-hard-coding-api-keys-why-you-need-environment-variables-right-now-584n)
-- [Zod Validation in [React + Typescript]](https://dev.to/silentvoice143/zod-validation-in-react-typescript-28k6)
-- [El verdadero impacto de DeepSeek en la IA y el Open Source](https://dev.to/raulprtech/el-verdadero-impacto-de-deepseek-en-la-ia-y-el-open-source-481d)
-- [Rethinking LangChain in the Agentic AI World](https://dev.to/gentoro/rethinking-langchain-in-the-agentic-ai-world-3j1f)
+- [Quick tip: Comparing OpenAI and Ollama using LangChain&#39;s SQLDatabaseToolkit](https://dev.to/singlestore/quick-tip-comparing-openai-and-ollama-using-langchains-sqldatabasetoolkit-46hm)
+- [HTTP METHOD AND STATUS CODE](https://dev.to/_sumayah/http-method-and-status-code-m1b)
+- [Diving Deeper into React!](https://dev.to/imrancodes/diving-deeper-into-react-2dlg)
+- [Stubborn junior developper &lpar;french version&rpar;](https://dev.to/str9_18/stubborn-junior-developper-french-version-26d7)
+- [Security news weekly round-up - 31st January 2025](https://dev.to/ziizium/security-news-weekly-round-up-31st-january-2025-8jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
