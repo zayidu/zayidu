@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ek)
-- [Limitations of React v19 `use` API in Full Stack Frameworks](https://dev.to/nancy_kataria/limitations-of-react-v19-use-api-in-full-stack-frameworks-5fop)
-- [[Boost]](https://dev.to/galpo_dainformtica_d96/-2ei9)
-- [Absolute paths for assets in iOS &amp; Android Cordova apps](https://dev.to/tylerlwsmith/absolute-paths-for-assets-in-ios-android-cordova-apps-mn8)
-- [Windows notepad is WOW!](https://dev.to/theonlyaswin/windows-notepad-is-wow-1kid)
+- [In this article, ScrumStudy&#39;s Scrum Fundamentals Certification &lpar;SFC&rpar; | Study Guide - Part II: Principles, I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy&#39;s Scrum Fundamentals Certification.](https://dev.to/jasminemlewis/in-this-article-scrumstudys-scrum-fundamentals-certification-sfc-study-guide-part-ii-34d9)
+- [In this article titled SCRUMstudy&#39;s Scrum Fundamentals Certification &lpar;SFC&rpar; | Notes - Part I: Introduction, I provide a synopsis of the exam and overview of Scrum, including definition and benefits.](https://dev.to/jasminemlewis/in-this-article-titled-scrumstudys-scrum-fundamentals-certification-sfc-notes-part-i-53j3)
+- [The DeepSeek Disruption: Rein of Open Source LLMs 👑](https://dev.to/sarthology/the-deepseek-disruption-rein-of-open-source-llms-1dn7)
+- [Can AI Predict and Mitigate Cloud Outages Using Historical Failure Data?](https://dev.to/sarthakkarora/can-ai-predict-and-mitigate-cloud-outages-using-historical-failure-data-1b3a)
+- [Master JSON Handling in JavaScript! 🖥️🚀](https://dev.to/dct_technologyprivatelimited/master-json-handling-in-javascript-3571)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
