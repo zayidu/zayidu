@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data science](https://dev.to/asquare952/data-science-3p9)
-- [New Remote Job Just Dropped - Teledriving](https://dev.to/patchnotes_/new-remote-job-just-dropped-teledriving-8m6)
-- [Safeguarding Your Data When Using DeepSeek R1 In RAG Pipelines - Part 1](https://dev.to/authzed/safeguarding-your-data-when-using-deepseek-r1-in-rag-pipelines-part-1-31d2)
-- [CORS Nightmares: The One Missing Protocol That Broke Everything 😅](https://dev.to/thatnoobdev/cors-nightmares-the-one-missing-protocol-that-broke-everything-kdj)
-- [Maven Project - Call python executable](https://dev.to/said_olano/maven-project-call-python-executable-3a5b)
+- [Découvrez Qwen-2.5-Max : Une Révolution dans le Domaine des Modèles Linguistiques](https://dev.to/taak61/decouvrez-qwen-25-max-une-revolution-dans-le-domaine-des-modeles-linguistiques-1641)
+- [Stop Hard-Coding API Keys: Why You Need Environment Variables Right Now](https://dev.to/jrud25/stop-hard-coding-api-keys-why-you-need-environment-variables-right-now-584n)
+- [Zod Validation in [React + Typescript]](https://dev.to/silentvoice143/zod-validation-in-react-typescript-28k6)
+- [El verdadero impacto de DeepSeek en la IA y el Open Source](https://dev.to/raulprtech/el-verdadero-impacto-de-deepseek-en-la-ia-y-el-open-source-481d)
+- [Rethinking LangChain in the Agentic AI World](https://dev.to/gentoro/rethinking-langchain-in-the-agentic-ai-world-3j1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
