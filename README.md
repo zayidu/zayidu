@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here Are Some Productivity Tools That I Use Every Day](https://dev.to/devlawrence/here-are-some-productivity-tools-that-i-use-every-day-3p3b)
-- [Transcode video with open web services](https://dev.to/video/transcode-video-with-open-web-services-4p3e)
-- [The Pitfalls of SQL Database Design – How to Avoid Costly Mistakes](https://dev.to/farlamo/the-pitfalls-of-sql-database-design-how-to-avoid-costly-mistakes-44l7)
-- [A Discussion Group in Your Browser](https://dev.to/coolpandaca/a-discussion-group-in-your-browser-3ej0)
-- [Why I switched back to Microsoft CDN Classic from Azure Front Door Standard](https://dev.to/sasquatch8946/why-i-switched-back-to-microsoft-cdn-classic-from-azure-front-door-standard-55bd)
+- [Becoming A Software Developer](https://dev.to/maryanne_a076b4d7baacc530/becoming-a-software-developer-45mk)
+- [&quot;Puppeteer and Tabs: Why Your Automation Doesn’t Follow Your Clicks&quot;](https://dev.to/jvicmaina/puppeteer-and-tabs-why-your-automation-doesnt-follow-your-clicks-29pl)
+- [Tic tac toe!](https://dev.to/ibrahim_aln/tic-tac-toe-4b37)
+- [&quot;Revolutionizing Medical AI: The Power of Dialogue Tuning in Diagnostics&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-medical-ai-the-power-of-dialogue-tuning-in-diagnostics-12ok)
+- [Understanding Functions: From Basics to Better Coding Practices](https://dev.to/ayako_yk/understanding-functions-from-basics-to-better-coding-practices-1i36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
