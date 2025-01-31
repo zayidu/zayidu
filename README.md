@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick tip: Comparing OpenAI and Ollama using LangChain&#39;s SQLDatabaseToolkit](https://dev.to/singlestore/quick-tip-comparing-openai-and-ollama-using-langchains-sqldatabasetoolkit-46hm)
-- [HTTP METHOD AND STATUS CODE](https://dev.to/_sumayah/http-method-and-status-code-m1b)
-- [Diving Deeper into React!](https://dev.to/imrancodes/diving-deeper-into-react-2dlg)
-- [Stubborn junior developper &lpar;french version&rpar;](https://dev.to/str9_18/stubborn-junior-developper-french-version-26d7)
-- [Security news weekly round-up - 31st January 2025](https://dev.to/ziizium/security-news-weekly-round-up-31st-january-2025-8jf)
+- [Automated Workload Evaluation with Python and CloudWatch](https://dev.to/gabrielflorencio/automated-workload-evaluation-with-python-and-cloudwatch-20g7)
+- [Agentic AI Agents Go Mainstream in 2025 with Coherent Persistence](https://dev.to/100stacks/agentic-ai-agents-go-mainstream-in-2025-with-coherent-persistence-g88)
+- [Deploying First Nginx Web Page](https://dev.to/muad/deploying-first-nginx-web-page-3a1m)
+- [Managing Application State with Custom Events in React: A Simple Yet Powerful Approach](https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd)
+- [Setting Up NGINX on Ubuntu: DevOps Stage 0](https://dev.to/emmanuelomoiya/setting-up-nginx-on-ubuntu-devops-stage-0-210i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
