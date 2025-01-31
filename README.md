@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-36dm)
-- [IP Address Set Operations with net/netip 4/7](https://dev.to/rezmoss/ip-address-set-operations-with-netnetip-47-38b2)
-- [Avoiding global functions in JavaScript](https://dev.to/56_kode/avoiding-global-functions-in-javascript-1hlm)
-- [Built public API for HNG stage0 task](https://dev.to/mayowakalejaiye/built-public-api-for-hng-stage0-task-3aa8)
-- [Architectures of Generative AI: A Deep Dive](https://dev.to/sharsha315/architectures-of-generative-ai-a-deep-dive-6nf)
+- [Supabase: Open Source Backend-as-a-Service Made Simple](https://dev.to/austinwdigital/supabase-open-source-backend-as-a-service-made-simple-3fec)
+- [Top 10 Must-Have UI Libraries to Elevate Your Next.js Projects](https://dev.to/hyvip/top-10-must-have-ui-libraries-to-elevate-your-nextjs-projects-4362)
+- [Advancing My Front-End Developer Career and How HNG Will Help Me Achieve My Goals](https://dev.to/ogunwa_chinasa_c9f74b2dcd/overcoming-database-relationship-as-backend-dev-1o1c)
+- [Why I want to be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/emmanuel_xs/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-1f74)
+- [Introducing Arto: A Flexible, Variant-Driven Class Management Library for Accessible UIs](https://dev.to/hamidelgendy/introducing-arto-a-flexible-variant-driven-class-management-library-for-accessible-uis-2g0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
