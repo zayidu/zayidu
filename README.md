@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The State of Digital Payments in Gambia: A Look at Wave, Waychit, Gamswitch, and Modem Pay](https://dev.to/drantaz/the-state-of-digital-payments-in-gambia-a-look-at-wave-waychit-gamswitch-and-modem-pay-4k20)
-- [Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023](https://dev.to/aws-builders/installing-nvidia-datacenter-gpu-manager-on-amazon-linux-2023-16hk)
-- [Amazon Bedrock Guardrail - How to Mask Sensitive Information&lpar;PII&rpar;](https://dev.to/vijaypabothu/amazon-bedrock-guardrail-how-to-mask-sensitive-informationpii-3ok5)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals.](https://dev.to/theofortune/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-14pb)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/theofortune/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-114e)
+- [anyone else find making flowcharts really satisfying?](https://dev.to/wraith/anyone-else-find-making-flowcharts-really-satisfying-5gmi)
+- [I Sold My Side Project 🥳 – Here’s How the Handoff Went](https://dev.to/geiger01/i-sold-my-side-project-heres-how-the-handoff-went-2b18)
+- [&quot;Raindrops&quot; more complex versionofthe&#39;FizzBuzz&#39; challenge Opened a Whole New Idea and Concept.](https://dev.to/mihsa_instrudy/raindrops-more-complex-versionofthefizzbuzz-challenge-opened-a-whole-new-idea-and-concept-1h2b)
+- [Code Smarter, Not Harder: How Contextual Rules Supercharge AI Coding Assistants](https://dev.to/govindvyas/code-smarter-not-harder-how-contextual-rules-supercharge-ai-coding-assistants-2dj6)
+- [Про бессмысленность грейдов](https://dev.to/dmkjfs/pro-biessmysliennost-ghrieidov-1p32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
