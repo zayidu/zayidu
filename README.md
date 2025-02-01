@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tijuana vs. Cruz Azul: An Intense Battle in Liga MX](https://dev.to/samratd978/tijuana-vs-cruz-azul-an-intense-battle-in-liga-mx-f3c)
-- [Revolutionizing Discord for Traders: The All-in-One Finance Bot](https://dev.to/nvstly/revolutionizing-discord-for-traders-the-all-in-one-finance-bot-361n)
-- [Automate Adding Publix Coupons](https://dev.to/npranto/automate-adding-publix-coupons-3me1)
-- [Generando preguntas para el examen AZ-900 con OpenAI](https://dev.to/garcodas/generando-preguntas-para-el-examen-az-900-con-openai-2ecj)
-- [JavaScript Essentials: Handling Null, Undefined, and Safely Accessing Data with ?? and ?.](https://dev.to/rakibrahman/javascript-essentials-handling-null-undefined-and-safely-accessing-data-with-and--5c6b)
+- [An earth shattering innovation that changes everything in the vision AI sector!](https://dev.to/g0d/an-earth-shattering-innovation-that-changes-everything-in-the-vision-ai-sector-77m)
+- [VORTEX AI - The best vision AI there is...](https://dev.to/g0d/vortex-ai-the-best-vision-ai-there-is-5432)
+- [Migrating Kubernetes volume contents to another](https://dev.to/aws-builders/migrating-kubernetes-volume-contents-to-another-1e04)
+- [Python](https://dev.to/ankita_terkar_b29d03cc620/python-5f04)
+- [A Guide on Building a Concurrent Key-Value store using Golang](https://dev.to/siddheshk02/a-guide-on-building-a-concurrent-key-value-store-using-golang-3na8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
