@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [anyone else find making flowcharts really satisfying?](https://dev.to/wraith/anyone-else-find-making-flowcharts-really-satisfying-5gmi)
-- [I Sold My Side Project 🥳 – Here’s How the Handoff Went](https://dev.to/geiger01/i-sold-my-side-project-heres-how-the-handoff-went-2b18)
-- [&quot;Raindrops&quot; more complex versionofthe&#39;FizzBuzz&#39; challenge Opened a Whole New Idea and Concept.](https://dev.to/mihsa_instrudy/raindrops-more-complex-versionofthefizzbuzz-challenge-opened-a-whole-new-idea-and-concept-1h2b)
-- [Code Smarter, Not Harder: How Contextual Rules Supercharge AI Coding Assistants](https://dev.to/govindvyas/code-smarter-not-harder-how-contextual-rules-supercharge-ai-coding-assistants-2dj6)
-- [Про бессмысленность грейдов](https://dev.to/dmkjfs/pro-biessmysliennost-ghrieidov-1p32)
+- [Angular Security Best Practices Guide](https://dev.to/kristiyanvelkov/angular-security-best-practices-guide-in3)
+- [The Importance of a Strong Professional Summary: How to Write a Compelling Summary that Grabs Attention](https://dev.to/resumewriting_services/the-importance-of-a-strong-professional-summary-how-to-write-a-compelling-summary-that-grabs-2m27)
+- [[Mini Project] Serverless URL Shortener Using AWS Lambda, Api Gateway and DynamoDB](https://dev.to/aws-builders/mini-project-serverless-url-shortener-using-aws-lambda-api-gateway-and-dynamodb-233o)
+- [[Boost]](https://dev.to/proxyos/-g4k)
+- [Mastering Python Virtual Environments: A Beginner’s Guide to venv &amp; pip](https://dev.to/ebereplenty/mastering-python-virtual-environments-a-beginners-guide-to-venv-pip-3aa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
