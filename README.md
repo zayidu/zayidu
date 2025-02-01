@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub Actions Strategy Matrix: Deploy Smarter, Not Harder ⚙️](https://dev.to/tejastn10/mastering-github-actions-strategy-matrix-deploy-smarter-not-harder-28po)
-- [Next-Gen Identity Verification—The Role of Biometric Authentication Solutions in Secure Digital Transformation](https://dev.to/faceplugin/next-gen-identity-verification-the-role-of-biometric-authentication-solutions-in-secure-digital-5dl)
-- [GitHub em 1 Clique: De Público para Privado em Segundos!🔒](https://dev.to/alexandrejusten/github-em-1-clique-de-publico-para-privado-em-segundos-knl)
-- [Understanding JavaScript Primitive Types](https://dev.to/simplr_sh/understanding-javascript-primitive-types-20j)
-- [The Future of Coding: What If We Had One Universal Programming Language?](https://dev.to/ansh_raj_4c94bc64c2c2e13d/the-future-of-coding-what-if-we-had-one-universal-programming-language-m4f)
+- [Some one help me pls](https://dev.to/fernando_garciag_2546b7f/some-one-help-me-pls-2ml6)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 2](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-2-41la)
+- [o3-BlockGame](https://dev.to/ueo_2e7cbabceb8c08393f0cd/o3-blockgame-4e11)
+- [LTL and CTL Applications for Smart Contracts Security](https://dev.to/0xgeorgii/ltl-and-ctl-applications-for-smart-contracts-security-32im)
+- [First Day Routine](https://dev.to/timothy_97/first-day-routine-22a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
