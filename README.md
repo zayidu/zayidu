@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Chart.js: Building Interactive Charts with Ease](https://dev.to/maulikpaghdal/react-chartjs-building-interactive-charts-with-ease-4ggm)
-- [🚀 Fincept Terminal – A Bold New Look with Textual! 🎨](https://dev.to/jaimin_patel_18d43f77f1b5/fincept-terminal-a-bold-new-look-with-textual-2f8j)
-- [How businesses can reduce development costs and time by implementing ReactJS in their tech stack](https://dev.to/marufhossain/how-businesses-can-reduce-development-costs-and-time-by-implementing-reactjs-in-their-tech-stack-e9h)
-- [Solved: Your app is not installable on Android API less than 30](https://dev.to/nour_abdou/solved-your-app-is-not-installable-on-android-api-less-than-30-18f7)
-- [Understanding Topographic Surveys: A Key Element in Land Development](https://dev.to/360landsurveyingltd/understanding-topographic-surveys-a-key-element-in-land-development-90o)
+- [Handle and make safe and secure authentications for users for your ui sites](https://dev.to/testgithubrobert/handle-and-make-safe-and-secure-authentications-for-users-for-your-ui-sites-3617)
+- [Make Rock, Paper, Scissor game with Ink &quot;Game Engine&quot;](https://dev.to/limitcracker/make-rock-paper-scissor-game-with-ink-game-engine-2kje)
+- [Building a Real-time Todo App: Django + AJAX + Bootstrap Magic](https://dev.to/idevdesign/building-a-real-time-todo-app-django-ajax-bootstrap-magic-51fc)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shaydi/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-2kl0)
+- [CDNs vs Caching: The Key to Blazing Fast Web Performance &lpar;and Why You Need Both&rpar;](https://dev.to/lovestaco/cdns-vs-caching-the-key-to-blazing-fast-web-performance-and-why-you-need-both-k58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
