@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Pipeline Design](https://dev.to/vishalpawar1010/devops-pipeline-design-af3)
-- [Bun is up to 20x slower than NodeJS in logic operations](https://dev.to/samchon/bun-is-up-to-20x-slower-than-nodejs-in-logic-operations-305d)
-- [The Power of JavaScript in Web Development](https://dev.to/chetandevx/the-power-of-javascript-in-web-development-1ml5)
-- [My Portfolio](https://dev.to/mfm347/my-portfolio-4k5c)
-- [Cli-Tool for Automating basic Folders Configuration for React based Project.](https://dev.to/basitjawad/cli-tool-for-automating-basic-folders-configuration-for-react-based-project-3jph)
+- [The Silent Killer of Software Teams: Context Switching and How to Stop It](https://dev.to/digitalminds/the-silent-killer-of-software-teams-context-switching-and-how-to-stop-it-20oi)
+- [Best Coding AI Tools in 2025: Supercharge Your Development Workflow](https://dev.to/keploy/best-coding-ai-tools-in-2025-supercharge-your-development-workflow-57l8)
+- [The Mission System in the Game: Building Realism in Flight Attendant Life](https://dev.to/khaisimon_devgame/the-mission-system-in-the-game-building-realism-in-flight-attendant-life-45a3)
+- [64 architecture for a neural network Architecture that thinks, adapts &amp; creates](https://dev.to/okerew/64-architecture-for-a-neural-network-architecture-that-thinks-adapts-creates-3mme)
+- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-8c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
