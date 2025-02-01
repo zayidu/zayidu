@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Workload Evaluation with Python and CloudWatch](https://dev.to/gabrielflorencio/automated-workload-evaluation-with-python-and-cloudwatch-20g7)
-- [Agentic AI Agents Go Mainstream in 2025 with Coherent Persistence](https://dev.to/100stacks/agentic-ai-agents-go-mainstream-in-2025-with-coherent-persistence-g88)
-- [Deploying First Nginx Web Page](https://dev.to/muad/deploying-first-nginx-web-page-3a1m)
-- [Managing Application State with Custom Events in React: A Simple Yet Powerful Approach](https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd)
-- [Setting Up NGINX on Ubuntu: DevOps Stage 0](https://dev.to/emmanuelomoiya/setting-up-nginx-on-ubuntu-devops-stage-0-210i)
+- [Daily JavaScript Challenge #JS-89: Convert Decimal Number to Roman Numerals](https://dev.to/dpc/daily-javascript-challenge-js-89-convert-decimal-number-to-roman-numerals-422p)
+- [Definição de Cognitive-Driven Development &lpar;CDD&rpar;](https://dev.to/uiratan/definicao-de-cognitive-driven-development-cdd-5542)
+- [Basics of HTML and CSS](https://dev.to/milkywoah464/basics-of-html-and-css-40ih)
+- [Paints-UNDO Installers Published - Undo Images Like Drawing From Scratch - 1-Click Install for Windows, RunPod](https://dev.to/furkangozukara/paints-undo-installers-published-undo-images-like-drawing-from-scratch-1-click-install-for-32m7)
+- [How to Generate PDF from Images and Views in React Native: A Complete Guide for Mobile Developers](https://dev.to/benjamineruvieru/how-to-generate-pdf-from-images-and-views-in-react-native-a-complete-guide-for-mobile-developers-4k1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
