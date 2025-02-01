@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily JavaScript Challenge #JS-89: Convert Decimal Number to Roman Numerals](https://dev.to/dpc/daily-javascript-challenge-js-89-convert-decimal-number-to-roman-numerals-422p)
-- [Definição de Cognitive-Driven Development &lpar;CDD&rpar;](https://dev.to/uiratan/definicao-de-cognitive-driven-development-cdd-5542)
-- [Basics of HTML and CSS](https://dev.to/milkywoah464/basics-of-html-and-css-40ih)
-- [Paints-UNDO Installers Published - Undo Images Like Drawing From Scratch - 1-Click Install for Windows, RunPod](https://dev.to/furkangozukara/paints-undo-installers-published-undo-images-like-drawing-from-scratch-1-click-install-for-32m7)
-- [How to Generate PDF from Images and Views in React Native: A Complete Guide for Mobile Developers](https://dev.to/benjamineruvieru/how-to-generate-pdf-from-images-and-views-in-react-native-a-complete-guide-for-mobile-developers-4k1o)
+- [Mastering GitHub Actions Strategy Matrix: Deploy Smarter, Not Harder ⚙️](https://dev.to/tejastn10/mastering-github-actions-strategy-matrix-deploy-smarter-not-harder-28po)
+- [Next-Gen Identity Verification—The Role of Biometric Authentication Solutions in Secure Digital Transformation](https://dev.to/faceplugin/next-gen-identity-verification-the-role-of-biometric-authentication-solutions-in-secure-digital-5dl)
+- [GitHub em 1 Clique: De Público para Privado em Segundos!🔒](https://dev.to/alexandrejusten/github-em-1-clique-de-publico-para-privado-em-segundos-knl)
+- [Understanding JavaScript Primitive Types](https://dev.to/simplr_sh/understanding-javascript-primitive-types-20j)
+- [The Future of Coding: What If We Had One Universal Programming Language?](https://dev.to/ansh_raj_4c94bc64c2c2e13d/the-future-of-coding-what-if-we-had-one-universal-programming-language-m4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
