@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Killer of Software Teams: Context Switching and How to Stop It](https://dev.to/digitalminds/the-silent-killer-of-software-teams-context-switching-and-how-to-stop-it-20oi)
-- [Best Coding AI Tools in 2025: Supercharge Your Development Workflow](https://dev.to/keploy/best-coding-ai-tools-in-2025-supercharge-your-development-workflow-57l8)
-- [The Mission System in the Game: Building Realism in Flight Attendant Life](https://dev.to/khaisimon_devgame/the-mission-system-in-the-game-building-realism-in-flight-attendant-life-45a3)
-- [64 architecture for a neural network Architecture that thinks, adapts &amp; creates](https://dev.to/okerew/64-architecture-for-a-neural-network-architecture-that-thinks-adapts-creates-3mme)
-- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-8c6)
+- [Master AI for Data Optimization: A 10-Week Roadmap for Developers](https://dev.to/jaydeep_kr_sahu/master-ai-for-data-optimization-a-10-week-roadmap-for-developers-30m1)
+- [Elevando seu Inglês com Ferramentas Tecnológicas](https://dev.to/ruanvictordev/elevando-seu-ingles-com-ferramentas-tecnologicas-5ad4)
+- [Why I Reduced Prices: Lifetime Access to UiForest Templates at an Unbeatable Rate!](https://dev.to/akanji/why-i-reduced-prices-lifetime-access-to-uiforest-templates-at-an-unbeatable-rate-1blm)
+- [Solidity Crash Course - Part 06: Mapping, Ether, Memory and Storage](https://dev.to/ayaz/solidity-crash-course-part-06-mapping-ether-memory-and-storage-ho8)
+- [Understanding the Difference: Compressed vs. Uncompressed Docker Image Sizes](https://dev.to/atharvaunde/understanding-the-difference-compressed-vs-uncompressed-docker-image-sizes-1fn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
