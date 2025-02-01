@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/janak0ff/-5eg7)
-- [Top 10 Developer-First Payment Processors in West Africa](https://dev.to/drantaz/top-10-developer-first-payment-processors-in-west-africa-1828)
-- [Hiden Storage Local dan Local-Lvm](https://dev.to/seno21/hiden-storage-local-dan-local-lvm-273a)
-- [Crash Course on Developing AI Applications with LangChain](https://dev.to/alexmercedcoder/crash-course-on-developing-ai-applications-with-langchain-2d55)
-- [[Boost]](https://dev.to/proxyos/-37i6)
+- [The State of Digital Payments in Gambia: A Look at Wave, Waychit, Gamswitch, and Modem Pay](https://dev.to/drantaz/the-state-of-digital-payments-in-gambia-a-look-at-wave-waychit-gamswitch-and-modem-pay-4k20)
+- [Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023](https://dev.to/aws-builders/installing-nvidia-datacenter-gpu-manager-on-amazon-linux-2023-16hk)
+- [Amazon Bedrock Guardrail - How to Mask Sensitive Information&lpar;PII&rpar;](https://dev.to/vijaypabothu/amazon-bedrock-guardrail-how-to-mask-sensitive-informationpii-3ok5)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals.](https://dev.to/theofortune/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-14pb)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/theofortune/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-114e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
