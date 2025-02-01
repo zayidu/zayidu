@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 HTTP Status Codes: A Comprehensive Guide to API Responses](https://dev.to/juniourrau/http-status-codes-a-comprehensive-guide-to-api-responses-13pm)
-- [First Steps with Git](https://dev.to/adrianogil/first-steps-with-git-5bfh)
-- [Configuring Nginx On Amazon EC2](https://dev.to/success_john_7a76d623a3b2/configuring-nginx-on-amazon-ec2-3dp0)
-- [🎯 ML Done Right: Versioning Datasets and Models with DVC &amp; MLflow](https://dev.to/aws-builders/ml-done-right-versioning-datasets-and-models-with-dvc-mlflow-4p3f)
-- [Taming the Beast: How Async Makes Your High-Load JavaScript Feel Like a Walk in the Park](https://dev.to/alessandrorodrigo/taming-the-beast-how-async-makes-your-high-load-javascript-feel-like-a-walk-in-the-park-59jo)
+- [Outsmarting the Clock: A Detective&#39;s Guide to Avoiding TLE in Programming](https://dev.to/sayed_ali_alkamel/outsmarting-the-clock-a-detectives-guide-to-avoiding-tle-in-programming-4845)
+- [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
+- [Unraveling Image Classification: Understanding Classification Model Behavior in Different Approaches](https://dev.to/nikhil_reddy_/unraveling-image-classification-understanding-classification-model-behavior-in-different-approaches-lj0)
+- [Namespaces in Kubernetes Explained: 🔍 Understanding Isolation and Sharing](https://dev.to/favxlaw/namespaces-in-kubernetes-explained-understanding-isolation-and-sharing-5ki)
+- [ElasticTransform in PyTorch](https://dev.to/hyperkai/elastictransform-in-pytorch-1g6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
