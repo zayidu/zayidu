@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why --legacy-peer-deps is Better than --force in npm](https://dev.to/just_ritik/why-legacy-peer-deps-is-better-than-force-in-npm-p44)
-- [Maximizing Business Growth with Local SEO Services: A Step-by-Step Guide](https://dev.to/hasasndsz/maximizing-business-growth-with-local-seo-services-a-step-by-step-guide-31d2)
-- [How To Use DeepSeek With .NET 9 | Hands-On With DeepSeek R1, Semantic Kernel &amp; C#](https://dev.to/codestreet/how-to-use-deepseek-with-net-9-hands-on-with-deepseek-r1-semantic-kernel-c-16ol)
-- [Difference between promise and observable](https://dev.to/khalid7487/difference-between-promise-and-observable-59o0)
-- [Builder Pattern-Pattern](https://dev.to/sukmarizki04/builder-pattern-pattern-e72)
+- [SETTING UP NGINX SERVER ON UBUNTU](https://dev.to/joeydanielsdev/setting-up-nginx-server-on-ubuntu-2e7f)
+- [OpenAI Launches o3-mini, its Cheapest But Most Dangerous AI Model to Date](https://dev.to/gajanan0707/openai-launches-o3-mini-its-cheapest-but-most-dangerous-ai-model-to-date-1422)
+- [Here are your 20 tweets based on the budget speech, focusing on key initiatives:](https://dev.to/susheel_kumar/here-are-your-20-tweets-based-on-the-budget-speech-focusing-on-key-initiatives-5chb)
+- [Disabled video game characters](https://dev.to/catrin__s/disabled-video-game-characters-2l5n)
+- [Budget 2025-26: A Closer Look at Tax Reforms, Trade Facilitation, and Support for MSMEs](https://dev.to/susheel_kumar/budget-2025-26-a-closer-look-at-tax-reforms-trade-facilitation-and-support-for-msmes-1562)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
