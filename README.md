@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SETTING UP NGINX SERVER ON UBUNTU](https://dev.to/joeydanielsdev/setting-up-nginx-server-on-ubuntu-2e7f)
-- [OpenAI Launches o3-mini, its Cheapest But Most Dangerous AI Model to Date](https://dev.to/gajanan0707/openai-launches-o3-mini-its-cheapest-but-most-dangerous-ai-model-to-date-1422)
-- [Here are your 20 tweets based on the budget speech, focusing on key initiatives:](https://dev.to/susheel_kumar/here-are-your-20-tweets-based-on-the-budget-speech-focusing-on-key-initiatives-5chb)
-- [Disabled video game characters](https://dev.to/catrin__s/disabled-video-game-characters-2l5n)
-- [Budget 2025-26: A Closer Look at Tax Reforms, Trade Facilitation, and Support for MSMEs](https://dev.to/susheel_kumar/budget-2025-26-a-closer-look-at-tax-reforms-trade-facilitation-and-support-for-msmes-1562)
+- [[Boost]](https://dev.to/mistarc/-16j0)
+- [DeepSeek - A copy of OpenAI?](https://dev.to/shameel/deepseek-a-copy-of-openai-4aeg)
+- [[Boost]](https://dev.to/youngjuning/-3bnf)
+- [HTML Datalist tegi](https://dev.to/diyordev/html-datalist-tegi-1kh4)
+- [End-to-End Testing: Ensuring Seamless Functionality Across the Entire Application](https://dev.to/anil_csimplifyit_905c/end-to-end-testing-ensuring-seamless-functionality-across-the-entire-application-1fco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
