@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀10x your Productivity with AI: The Future of Work for Product Managers, Marketers, QA Engineers, Software Engineers &amp; Creators](https://dev.to/proxyos/10x-your-productivity-with-ai-the-future-of-work-for-product-managers-marketers-qa-engineers-5e8o)
-- [How I Made Exam Prep More Fun &amp; Efficient with ChatGPT – Here’s How You Can Do It Too](https://dev.to/per-starke-642/how-i-made-exam-prep-more-fun-efficient-with-chatgpt-heres-how-you-can-do-it-too-36hb)
-- [. How to Fetch Large Data Efficiently in SQL?](https://dev.to/anjali_gurjar_dff81513867/-how-to-fetch-large-data-efficiently-in-sql-4m9o)
-- [IndexOf&lpar;&rpar;;](https://dev.to/_e7530225be583f1/indexof-147i)
-- [My Journey Learning HTML ID and Classes, Multimedia,SVG, Iframe and various Entities and tags 🚀&lpar;Day-5&rpar;](https://dev.to/angshu/my-journey-learning-html-id-and-classes-multimediasvg-iframe-and-various-entities-and-tags-37dd)
+- [Tijuana vs. Cruz Azul: An Intense Battle in Liga MX](https://dev.to/samratd978/tijuana-vs-cruz-azul-an-intense-battle-in-liga-mx-f3c)
+- [Revolutionizing Discord for Traders: The All-in-One Finance Bot](https://dev.to/nvstly/revolutionizing-discord-for-traders-the-all-in-one-finance-bot-361n)
+- [Automate Adding Publix Coupons](https://dev.to/npranto/automate-adding-publix-coupons-3me1)
+- [Generando preguntas para el examen AZ-900 con OpenAI](https://dev.to/garcodas/generando-preguntas-para-el-examen-az-900-con-openai-2ecj)
+- [JavaScript Essentials: Handling Null, Undefined, and Safely Accessing Data with ?? and ?.](https://dev.to/rakibrahman/javascript-essentials-handling-null-undefined-and-safely-accessing-data-with-and--5c6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
