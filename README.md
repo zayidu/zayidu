@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An earth shattering innovation that changes everything in the vision AI sector!](https://dev.to/g0d/an-earth-shattering-innovation-that-changes-everything-in-the-vision-ai-sector-77m)
-- [VORTEX AI - The best vision AI there is...](https://dev.to/g0d/vortex-ai-the-best-vision-ai-there-is-5432)
-- [Migrating Kubernetes volume contents to another](https://dev.to/aws-builders/migrating-kubernetes-volume-contents-to-another-1e04)
-- [Python](https://dev.to/ankita_terkar_b29d03cc620/python-5f04)
-- [A Guide on Building a Concurrent Key-Value store using Golang](https://dev.to/siddheshk02/a-guide-on-building-a-concurrent-key-value-store-using-golang-3na8)
+- [Why --legacy-peer-deps is Better than --force in npm](https://dev.to/just_ritik/why-legacy-peer-deps-is-better-than-force-in-npm-p44)
+- [Maximizing Business Growth with Local SEO Services: A Step-by-Step Guide](https://dev.to/hasasndsz/maximizing-business-growth-with-local-seo-services-a-step-by-step-guide-31d2)
+- [How To Use DeepSeek With .NET 9 | Hands-On With DeepSeek R1, Semantic Kernel &amp; C#](https://dev.to/codestreet/how-to-use-deepseek-with-net-9-hands-on-with-deepseek-r1-semantic-kernel-c-16ol)
+- [Difference between promise and observable](https://dev.to/khalid7487/difference-between-promise-and-observable-59o0)
+- [Builder Pattern-Pattern](https://dev.to/sukmarizki04/builder-pattern-pattern-e72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
