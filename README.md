@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025_02_01_13-09-07-article](https://dev.to/chatgptnexus/2025020113-09-07-article-4onl)
-- [Quantum Computing and LLMs: Match Made in Heaven?](https://dev.to/aaronsteers/quantum-computing-and-llms-match-made-in-heaven-35fp)
-- [Cloud DevOps vs Linux vs Security: The Ultimate Guide for Professionals Over 30 in India](https://dev.to/pravinjadhav/cloud-devops-vs-linux-vs-security-the-ultimate-guide-for-professionals-over-30-in-india-26k3)
-- [3 Map&lt;K, V&gt; &lpar;para pares chave-valor&rpar;](https://dev.to/javaparainiciantes/3-mapk-v-para-pares-chave-valor-4fhe)
-- [I’m Debra Hayes—Let’s Dive Into Data Science Together](https://dev.to/debrahayes1971/im-debra-hayes-lets-dive-into-data-science-together-om)
+- [🚀10x your Productivity with AI: The Future of Work for Product Managers, Marketers, QA Engineers, Software Engineers &amp; Creators](https://dev.to/proxyos/10x-your-productivity-with-ai-the-future-of-work-for-product-managers-marketers-qa-engineers-5e8o)
+- [How I Made Exam Prep More Fun &amp; Efficient with ChatGPT – Here’s How You Can Do It Too](https://dev.to/per-starke-642/how-i-made-exam-prep-more-fun-efficient-with-chatgpt-heres-how-you-can-do-it-too-36hb)
+- [. How to Fetch Large Data Efficiently in SQL?](https://dev.to/anjali_gurjar_dff81513867/-how-to-fetch-large-data-efficiently-in-sql-4m9o)
+- [IndexOf&lpar;&rpar;;](https://dev.to/_e7530225be583f1/indexof-147i)
+- [My Journey Learning HTML ID and Classes, Multimedia,SVG, Iframe and various Entities and tags 🚀&lpar;Day-5&rpar;](https://dev.to/angshu/my-journey-learning-html-id-and-classes-multimediasvg-iframe-and-various-entities-and-tags-37dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
