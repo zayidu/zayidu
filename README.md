@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mistarc/-16j0)
-- [DeepSeek - A copy of OpenAI?](https://dev.to/shameel/deepseek-a-copy-of-openai-4aeg)
-- [[Boost]](https://dev.to/youngjuning/-3bnf)
-- [HTML Datalist tegi](https://dev.to/diyordev/html-datalist-tegi-1kh4)
-- [End-to-End Testing: Ensuring Seamless Functionality Across the Entire Application](https://dev.to/anil_csimplifyit_905c/end-to-end-testing-ensuring-seamless-functionality-across-the-entire-application-1fco)
+- [3D Infinite Carousel/Coverflow Slider in Pure CSS with reflection!](https://dev.to/prahalad/3d-infinite-carouselcoverflow-slider-in-pure-css-with-reflection-4i9b)
+- [Unlocking the Power of Transfer Learning with Neurolov AI](https://dev.to/neurolov_ai_/unlocking-the-power-of-transfer-learning-with-neurolov-ai-1f20)
+- [Qanday qilib SEO ni yaxshilash mumkin?](https://dev.to/diyordev/qanday-qilib-seo-ni-yaxshilash-mumkin-45dc)
+- [tes php](https://dev.to/ekopriyanto/tes-php-1hn3)
+- [Desenvolvendo um Projeto do zero: Introdução e Contextualização do Projeto — Parte 1](https://dev.to/andrelcnunes/desenvolvendo-um-projeto-do-zero-introducao-e-contextualizacao-do-projeto-parte-1-2c08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
