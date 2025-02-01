@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Security Best Practices Guide](https://dev.to/kristiyanvelkov/angular-security-best-practices-guide-in3)
-- [The Importance of a Strong Professional Summary: How to Write a Compelling Summary that Grabs Attention](https://dev.to/resumewriting_services/the-importance-of-a-strong-professional-summary-how-to-write-a-compelling-summary-that-grabs-2m27)
-- [[Mini Project] Serverless URL Shortener Using AWS Lambda, Api Gateway and DynamoDB](https://dev.to/aws-builders/mini-project-serverless-url-shortener-using-aws-lambda-api-gateway-and-dynamodb-233o)
-- [[Boost]](https://dev.to/proxyos/-g4k)
-- [Mastering Python Virtual Environments: A Beginner’s Guide to venv &amp; pip](https://dev.to/ebereplenty/mastering-python-virtual-environments-a-beginners-guide-to-venv-pip-3aa8)
+- [React Chart.js: Building Interactive Charts with Ease](https://dev.to/maulikpaghdal/react-chartjs-building-interactive-charts-with-ease-4ggm)
+- [🚀 Fincept Terminal – A Bold New Look with Textual! 🎨](https://dev.to/jaimin_patel_18d43f77f1b5/fincept-terminal-a-bold-new-look-with-textual-2f8j)
+- [How businesses can reduce development costs and time by implementing ReactJS in their tech stack](https://dev.to/marufhossain/how-businesses-can-reduce-development-costs-and-time-by-implementing-reactjs-in-their-tech-stack-e9h)
+- [Solved: Your app is not installable on Android API less than 30](https://dev.to/nour_abdou/solved-your-app-is-not-installable-on-android-api-less-than-30-18f7)
+- [Understanding Topographic Surveys: A Key Element in Land Development](https://dev.to/360landsurveyingltd/understanding-topographic-surveys-a-key-element-in-land-development-90o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
