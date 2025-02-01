@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master AI for Data Optimization: A 10-Week Roadmap for Developers](https://dev.to/jaydeep_kr_sahu/master-ai-for-data-optimization-a-10-week-roadmap-for-developers-30m1)
-- [Elevando seu Inglês com Ferramentas Tecnológicas](https://dev.to/ruanvictordev/elevando-seu-ingles-com-ferramentas-tecnologicas-5ad4)
-- [Why I Reduced Prices: Lifetime Access to UiForest Templates at an Unbeatable Rate!](https://dev.to/akanji/why-i-reduced-prices-lifetime-access-to-uiforest-templates-at-an-unbeatable-rate-1blm)
-- [Solidity Crash Course - Part 06: Mapping, Ether, Memory and Storage](https://dev.to/ayaz/solidity-crash-course-part-06-mapping-ether-memory-and-storage-ho8)
-- [Understanding the Difference: Compressed vs. Uncompressed Docker Image Sizes](https://dev.to/atharvaunde/understanding-the-difference-compressed-vs-uncompressed-docker-image-sizes-1fn0)
+- [[Boost]](https://dev.to/janak0ff/-5eg7)
+- [Top 10 Developer-First Payment Processors in West Africa](https://dev.to/drantaz/top-10-developer-first-payment-processors-in-west-africa-1828)
+- [Hiden Storage Local dan Local-Lvm](https://dev.to/seno21/hiden-storage-local-dan-local-lvm-273a)
+- [Crash Course on Developing AI Applications with LangChain](https://dev.to/alexmercedcoder/crash-course-on-developing-ai-applications-with-langchain-2d55)
+- [[Boost]](https://dev.to/proxyos/-37i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
