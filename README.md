@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Infinite Carousel/Coverflow Slider in Pure CSS with reflection!](https://dev.to/prahalad/3d-infinite-carouselcoverflow-slider-in-pure-css-with-reflection-4i9b)
-- [Unlocking the Power of Transfer Learning with Neurolov AI](https://dev.to/neurolov_ai_/unlocking-the-power-of-transfer-learning-with-neurolov-ai-1f20)
-- [Qanday qilib SEO ni yaxshilash mumkin?](https://dev.to/diyordev/qanday-qilib-seo-ni-yaxshilash-mumkin-45dc)
-- [tes php](https://dev.to/ekopriyanto/tes-php-1hn3)
-- [Desenvolvendo um Projeto do zero: Introdução e Contextualização do Projeto — Parte 1](https://dev.to/andrelcnunes/desenvolvendo-um-projeto-do-zero-introducao-e-contextualizacao-do-projeto-parte-1-2c08)
+- [DevOps Pipeline Design](https://dev.to/vishalpawar1010/devops-pipeline-design-af3)
+- [Bun is up to 20x slower than NodeJS in logic operations](https://dev.to/samchon/bun-is-up-to-20x-slower-than-nodejs-in-logic-operations-305d)
+- [The Power of JavaScript in Web Development](https://dev.to/chetandevx/the-power-of-javascript-in-web-development-1ml5)
+- [My Portfolio](https://dev.to/mfm347/my-portfolio-4k5c)
+- [Cli-Tool for Automating basic Folders Configuration for React based Project.](https://dev.to/basitjawad/cli-tool-for-automating-basic-folders-configuration-for-react-based-project-3jph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
