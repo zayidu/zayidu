@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some one help me pls](https://dev.to/fernando_garciag_2546b7f/some-one-help-me-pls-2ml6)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 2](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-2-41la)
-- [o3-BlockGame](https://dev.to/ueo_2e7cbabceb8c08393f0cd/o3-blockgame-4e11)
-- [LTL and CTL Applications for Smart Contracts Security](https://dev.to/0xgeorgii/ltl-and-ctl-applications-for-smart-contracts-security-32im)
-- [First Day Routine](https://dev.to/timothy_97/first-day-routine-22a9)
+- [2025_02_01_13-09-07-article](https://dev.to/chatgptnexus/2025020113-09-07-article-4onl)
+- [Quantum Computing and LLMs: Match Made in Heaven?](https://dev.to/aaronsteers/quantum-computing-and-llms-match-made-in-heaven-35fp)
+- [Cloud DevOps vs Linux vs Security: The Ultimate Guide for Professionals Over 30 in India](https://dev.to/pravinjadhav/cloud-devops-vs-linux-vs-security-the-ultimate-guide-for-professionals-over-30-in-india-26k3)
+- [3 Map&lt;K, V&gt; &lpar;para pares chave-valor&rpar;](https://dev.to/javaparainiciantes/3-mapk-v-para-pares-chave-valor-4fhe)
+- [I’m Debra Hayes—Let’s Dive Into Data Science Together](https://dev.to/debrahayes1971/im-debra-hayes-lets-dive-into-data-science-together-om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
