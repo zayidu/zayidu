@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tortoise and Hare](https://dev.to/mujahida_joynab_64c7407d8/tortoise-and-hare-47ph)
-- [Get Started With Streamlit](https://dev.to/anoop_johny_66339a11eb173/get-started-with-streamlit-1jjn)
-- [Introduction to Greenfinger - A High Performance Distributed Web Crawler Framework](https://dev.to/paganini2008/introduction-to-greenfinger-a-high-performance-distributed-web-crawler-framework-5h2f)
-- [¿Cuál es la dificultad de adoptar FinOps?](https://dev.to/barbara_gaspar/cual-es-la-dificultad-de-adoptar-finops-2ibd)
-- [The Power of Jeda.ai: Turning Data into Actionable AI Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-jedaai-turning-data-into-actionable-ai-insights-148n)
+- [Apache Kafka Project: Real-Time Twitter Streaming with Python](https://dev.to/pravesh_sudha_3c2b0c2b5e0/apache-kafka-project-real-time-twitter-streaming-with-python-d1f)
+- [How AI&#39;s Quiet Evolution Could Slowly Erode Human Agency and Control](https://dev.to/mikeyoung44/how-ais-quiet-evolution-could-slowly-erode-human-agency-and-control-25j3)
+- [AI Safety Showdown: DeepSeek-R1 vs o3-mini - New Study Reveals Which Model is More Secure](https://dev.to/mikeyoung44/ai-safety-showdown-deepseek-r1-vs-o3-mini-new-study-reveals-which-model-is-more-secure-23d7)
+- [New Attack Method Bypasses AI Safety Controls with 80% Success Rate](https://dev.to/mikeyoung44/new-attack-method-bypasses-ai-safety-controls-with-80-success-rate-357)
+- [AI Solves 5 Long-Standing Math Puzzles by Writing Their Own Solution Code](https://dev.to/mikeyoung44/ai-solves-5-long-standing-math-puzzles-by-writing-their-own-solution-code-37ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
