@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 JavaScript Tips for Beginners🚀](https://dev.to/mahmud-r-farhan/10-javascript-tips-for-beginners-51mk)
-- [From Engineering to Corporate :2024 Rewind](https://dev.to/rieesteves/from-engineering-to-corporate-2024-rewind-55dh)
-- [The Future of AI](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-3n2)
-- [Finetune: A One-Month Coding Challenge to Sharpen Your Skills! 🚀](https://dev.to/vulcanwm/finetune-a-one-month-coding-challenge-to-sharpen-your-skills-400l)
-- [The Importance of Reverse Proxies: Enhancing Security, Scalability, and Deployment Flexibility](https://dev.to/qbqetell/the-importance-of-reverse-proxies-enhancing-security-scalability-and-deployment-flexibility-3e5n)
+- [What is AGI](https://dev.to/rishabh_raj_2b61a1c41b371/what-is-agi-29ek)
+- [Unlocking the Potential of Artificial General Intelligence &lpar;AGI&rpar;: Benefits, Risks, and Mitigation Strategies](https://dev.to/rishabh_raj_2b61a1c41b371/unlocking-the-potential-of-artificial-general-intelligence-agi-benefits-risks-and-mitigation-1jne)
+- [How Network Communication Actually Works](https://dev.to/m13ha/how-network-communication-actually-works-en5)
+- [The Future of AI: A New Era of Innovation](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-a-new-era-of-innovation-40ld)
+- [How To Generate Structured Output &lpar;JSON, YAML&rpar; in Gemini AI](https://dev.to/shrsv/how-to-generate-structured-output-json-yaml-in-gemini-ai-2ok0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
