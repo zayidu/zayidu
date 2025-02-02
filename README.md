@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to measure Time Complexity and Space Complexity?](https://dev.to/jptlearn/how-to-measure-time-complexity-and-space-complexity-203p)
-- [What is Array.reduce in JavaScript?](https://dev.to/logannford/what-is-arrayreduce-in-javascript-3nbl)
-- [Hola mundo](https://dev.to/ggguille/hola-mundo-na4)
-- [Ransomware: A Wake-Up Call for the Digital Age](https://dev.to/victoruzoagba/ransomware-a-wake-up-call-for-the-digital-age-2687)
-- [Optimisation SQL Server : Vues, Procédures Stockées et Index](https://dev.to/mohamed_ash_data/optimisation-sql-server-vues-procedures-stockees-et-index-22mi)
+- [10 JavaScript Tips for Beginners🚀](https://dev.to/mahmud-r-farhan/10-javascript-tips-for-beginners-51mk)
+- [From Engineering to Corporate :2024 Rewind](https://dev.to/rieesteves/from-engineering-to-corporate-2024-rewind-55dh)
+- [The Future of AI](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-3n2)
+- [Finetune: A One-Month Coding Challenge to Sharpen Your Skills! 🚀](https://dev.to/vulcanwm/finetune-a-one-month-coding-challenge-to-sharpen-your-skills-400l)
+- [The Importance of Reverse Proxies: Enhancing Security, Scalability, and Deployment Flexibility](https://dev.to/qbqetell/the-importance-of-reverse-proxies-enhancing-security-scalability-and-deployment-flexibility-3e5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
