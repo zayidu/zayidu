@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the &quot;WHAT IF&quot; Series: A Deep Dive into the Future of Tech, Cybersecurity, AI, and Hacking](https://dev.to/trixsec/introducing-the-what-if-series-a-deep-dive-into-the-future-of-tech-cybersecurity-ai-and-1h77)
-- [A Production Ready EKS Deployment with IaC &amp; GitOps - Part 3 - Deploying VPC](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-iac-gitops-part-3-deploying-vpc-42nd)
-- [switch and while loop:](https://dev.to/kaviyak/switch-and-while-loop-3g6f)
-- [Matanuska ADR 015 - String Concatenation Operator](https://dev.to/jfhbrook/matanuska-adr-015-string-concatenation-operator-4flm)
-- [Concept behind building a Draggable Modal](https://dev.to/rezahussain/concept-behind-building-a-draggable-modal-48na)
+- [🚀Power-Packed 2025!](https://dev.to/keerthi_polani/power-packed-2025-34i8)
+- [Year of the Kiwi](https://dev.to/stinklewinks/year-of-the-kiwi-8l5)
+- [50 Shades of React: Questions to Prepare for the Interview Battle](https://dev.to/ingeniouswebster/50-shades-of-react-questions-to-prepare-for-the-interview-battle-323)
+- [Building an Income Tax Calculator in React](https://dev.to/pulkitgovrani/building-an-income-tax-calculator-in-react-7m4)
+- [Angular Routing](https://dev.to/anjali_gurjar_dff81513867/angular-routing-3o44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
