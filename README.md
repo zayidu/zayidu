@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Interesting &lpar;mostly&rpar; Tech Reads in January 2025](https://dev.to/pkutaj/the-most-interesting-mostly-tech-reads-in-january-2025-4186)
-- [EF Core HasData](https://dev.to/karenpayneoregon/ef-core-hasdata-i75)
-- [Code Smell 288 - Unthrown Exceptions](https://dev.to/mcsee/code-smell-288-unthrown-exceptions-2c92)
-- [How to Build a Camping Website with HTML, CSS, and JavaScript](https://dev.to/pawnacamps/how-to-build-a-camping-website-with-html-css-and-javascript-3ei9)
-- [How to Conditionally Skip Tests in Cypress the Right Way](https://dev.to/martin_chudomel/how-to-conditionally-skip-tests-in-cypress-the-right-way-470j)
+- [Easy way to configure your kubeconfig and to debug your your EKS Cluster](https://dev.to/aws-builders/easy-way-to-configure-your-kubeconfig-and-to-debug-your-your-eks-cluster-3k5p)
+- [Tsonnet #2 - Cram tests to the rescue](https://dev.to/bitmaybewise/tsonnet-2-cram-tests-to-the-rescue-1jpd)
+- [Modern Invoice Generation with XSLT and React: A Seamless Integration Guide](https://dev.to/serifcolakel/modern-invoice-generation-with-xslt-and-react-a-seamless-integration-guide-25n8)
+- [Building a Scalable Web Application on AWS Using Core Services [Perfect for Beginners]](https://dev.to/aws-builders/building-a-scalable-web-application-on-aws-using-core-services-perfect-for-beginners-22h8)
+- [Azure Availability Zone vs. Availability Set: Making the Right Choice](https://dev.to/preshious/azure-availability-zone-vs-availability-set-making-the-right-choice-4jpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
