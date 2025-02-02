@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 3 No-Code Platforms to Create Chatbots!](https://dev.to/aiza_rashid_1826ae90a8102/i-tested-3-no-code-platforms-to-create-chatbots-216n)
-- [AI Agents in 2025: Revolutionizing Industries](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agents-in-2025-revolutionizing-industries-117j)
-- [Daily JavaScript Challenge #JS-90: Generate Collatz Sequence](https://dev.to/dpc/daily-javascript-challenge-js-90-generate-collatz-sequence-872)
-- [How to Choose the Best .NET Library for Your Task](https://dev.to/meletuananh/how-to-choose-the-best-net-library-for-your-task-467n)
-- [Leaving Facebook](https://dev.to/gajanan0707/leaving-facebook-427e)
+- [Digital garden - Revisitando meu processo de escrita](https://dev.to/figur8/digital-garden-revisitando-meu-processo-de-escrita-2nc6)
+- [SSH Password Not Authenticating? Here’s How to Fix It](https://dev.to/bigjohncodes/ssh-password-not-authenticating-heres-how-to-fix-it-4l61)
+- [GRPO Pitfalls Record](https://dev.to/zhangyiqun018/grpo-pitfalls-record-1130)
+- [Window용 외부 키보드 Mac에서 사용하기 &lpar;Using a Windows Keyboard on Mac&rpar;](https://dev.to/minwook/windowyong-oebu-kibodeu-maceseo-sayonghagi-4315)
+- [A Production Ready EKS Deployment with IaC &amp; GitOps - Part 5 - Deploying EKS Cluster](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-iac-gitops-part-5-deploying-eks-cluster-29bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
