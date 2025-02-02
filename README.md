@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/timothy_2008/-2h88)
-- [What Two Years of Job Searching Taught Me](https://dev.to/brianseo/what-two-years-of-job-searching-taught-me-54l)
-- [Solidity Crash Course 🚀](https://dev.to/ayaz/-solidity-crash-course-series-4o4n)
-- [# Solidity Crash Course Series 🚀](https://dev.to/ayaz/-solidity-crash-course-series-3ohi)
-- [The Evolution of Parallel Computing and Its Importance for Modern Applications](https://dev.to/adityabhuyan/the-evolution-of-parallel-computing-and-its-importance-for-modern-applications-430a)
+- [Introducing the &quot;WHAT IF&quot; Series: A Deep Dive into the Future of Tech, Cybersecurity, AI, and Hacking](https://dev.to/trixsec/introducing-the-what-if-series-a-deep-dive-into-the-future-of-tech-cybersecurity-ai-and-1h77)
+- [A Production Ready EKS Deployment with IaC &amp; GitOps - Part 3 - Deploying VPC](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-iac-gitops-part-3-deploying-vpc-42nd)
+- [switch and while loop:](https://dev.to/kaviyak/switch-and-while-loop-3g6f)
+- [Matanuska ADR 015 - String Concatenation Operator](https://dev.to/jfhbrook/matanuska-adr-015-string-concatenation-operator-4flm)
+- [Concept behind building a Draggable Modal](https://dev.to/rezahussain/concept-behind-building-a-draggable-modal-48na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
