@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [gulc: a C Library Built from Scratch](https://dev.to/landiluigi746/gulc-a-c-library-built-from-scratch-2ej6)
-- [Problem in Character Input in C Programming](https://dev.to/mhasanjoy/problem-in-character-input-in-c-programming-2fpf)
-- [How to Launch on Product Hunt](https://dev.to/dariubs/how-to-launch-on-product-hunt-246o)
-- [Level Up Your Web Dev: Advanced HTML and CSS Techniques](https://dev.to/basharat-mir/level-up-your-web-dev-advanced-html-and-css-techniques-5f5c)
-- [Goroutines vs Threads](https://dev.to/shrinidhi_prabhakar/goroutines-vs-threads-ean)
+- [How to measure Time Complexity and Space Complexity?](https://dev.to/jptlearn/how-to-measure-time-complexity-and-space-complexity-203p)
+- [What is Array.reduce in JavaScript?](https://dev.to/logannford/what-is-arrayreduce-in-javascript-3nbl)
+- [Hola mundo](https://dev.to/ggguille/hola-mundo-na4)
+- [Ransomware: A Wake-Up Call for the Digital Age](https://dev.to/victoruzoagba/ransomware-a-wake-up-call-for-the-digital-age-2687)
+- [Optimisation SQL Server : Vues, Procédures Stockées et Index](https://dev.to/mohamed_ash_data/optimisation-sql-server-vues-procedures-stockees-et-index-22mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
