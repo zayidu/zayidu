@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Project: Real-Time Twitter Streaming with Python](https://dev.to/pravesh_sudha_3c2b0c2b5e0/apache-kafka-project-real-time-twitter-streaming-with-python-d1f)
-- [How AI&#39;s Quiet Evolution Could Slowly Erode Human Agency and Control](https://dev.to/mikeyoung44/how-ais-quiet-evolution-could-slowly-erode-human-agency-and-control-25j3)
-- [AI Safety Showdown: DeepSeek-R1 vs o3-mini - New Study Reveals Which Model is More Secure](https://dev.to/mikeyoung44/ai-safety-showdown-deepseek-r1-vs-o3-mini-new-study-reveals-which-model-is-more-secure-23d7)
-- [New Attack Method Bypasses AI Safety Controls with 80% Success Rate](https://dev.to/mikeyoung44/new-attack-method-bypasses-ai-safety-controls-with-80-success-rate-357)
-- [AI Solves 5 Long-Standing Math Puzzles by Writing Their Own Solution Code](https://dev.to/mikeyoung44/ai-solves-5-long-standing-math-puzzles-by-writing-their-own-solution-code-37ci)
+- [&quot;Unlocking 3D Vision: Innovations in Object Reconstruction and Generative Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-3d-vision-innovations-in-object-reconstruction-and-generative-models-nak)
+- [Command Injection in Laravel: How to Detect &amp; Prevent It](https://dev.to/pentest_testing_corp/command-injection-in-laravel-how-to-detect-prevent-it-3nnm)
+- [Exploring the Different Types of Manual Testing](https://dev.to/satheesh_madhavarapu_302a/exploring-the-different-types-of-manual-testing-1m8n)
+- [Django + Redis: Simplifying Data Caching with a Real-World Example 💡](https://dev.to/priya01/django-redis-simplifying-data-caching-with-a-real-world-example-4nnn)
+- [A Production Ready EKS Deployment with GitOps - Part 2 - Configuring Terraform Backend &amp; Validate Prerequisites](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-gitops-part-2-configuring-terraform-backend-validate-29i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
