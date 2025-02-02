@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring &amp; Alerting for AWS EKS Using Grafana, Prometheus &amp; Alertmanager with SNS Integration](https://dev.to/muhammad_ahmad_khan/monitoring-alerting-for-aws-eks-using-grafana-prometheus-alertmanager-with-sns-integration-5593)
-- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-38h)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/samuel_hope_e6afc0b507c47/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-49k)
-- [ColorJitter in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-1-j4n)
-- [The importance of using Jackson&#39;s annotations @JsonBackReference and @JsonManagedReference](https://dev.to/mauricioarcanjo/the-importance-of-using-jacksons-annotations-jsonbackreference-and-jsonmanagedreference-25ea)
+- [The Most Interesting &lpar;mostly&rpar; Tech Reads in January 2025](https://dev.to/pkutaj/the-most-interesting-mostly-tech-reads-in-january-2025-4186)
+- [EF Core HasData](https://dev.to/karenpayneoregon/ef-core-hasdata-i75)
+- [Code Smell 288 - Unthrown Exceptions](https://dev.to/mcsee/code-smell-288-unthrown-exceptions-2c92)
+- [How to Build a Camping Website with HTML, CSS, and JavaScript](https://dev.to/pawnacamps/how-to-build-a-camping-website-with-html-css-and-javascript-3ei9)
+- [How to Conditionally Skip Tests in Cypress the Right Way](https://dev.to/martin_chudomel/how-to-conditionally-skip-tests-in-cypress-the-right-way-470j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
