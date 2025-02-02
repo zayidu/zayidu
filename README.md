@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AGI](https://dev.to/rishabh_raj_2b61a1c41b371/what-is-agi-29ek)
-- [Unlocking the Potential of Artificial General Intelligence &lpar;AGI&rpar;: Benefits, Risks, and Mitigation Strategies](https://dev.to/rishabh_raj_2b61a1c41b371/unlocking-the-potential-of-artificial-general-intelligence-agi-benefits-risks-and-mitigation-1jne)
-- [How Network Communication Actually Works](https://dev.to/m13ha/how-network-communication-actually-works-en5)
-- [The Future of AI: A New Era of Innovation](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-a-new-era-of-innovation-40ld)
-- [How To Generate Structured Output &lpar;JSON, YAML&rpar; in Gemini AI](https://dev.to/shrsv/how-to-generate-structured-output-json-yaml-in-gemini-ai-2ok0)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/faith_kolapo_9728146d8e89/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-31oj)
+- [Have You Ever Noticed Preflight Requests?](https://dev.to/leapcell/have-you-ever-noticed-preflight-requests-a7o)
+- [Compiling 2025: learn, build, grow...](https://dev.to/saloni0512/compiling-2025-learn-build-grow-p1b)
+- [Open Source Customizable Timer: KEGOMODORO! ⏳](https://dev.to/kegan/open-source-customizable-timer-kegomodoro-3k9o)
+- [week 3 of my Data Analytics Journey](https://dev.to/awasume_marylin_8/week-3-of-my-data-analytics-journey-19k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
