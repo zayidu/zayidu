@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital garden - Revisitando meu processo de escrita](https://dev.to/figur8/digital-garden-revisitando-meu-processo-de-escrita-2nc6)
-- [SSH Password Not Authenticating? Here’s How to Fix It](https://dev.to/bigjohncodes/ssh-password-not-authenticating-heres-how-to-fix-it-4l61)
-- [GRPO Pitfalls Record](https://dev.to/zhangyiqun018/grpo-pitfalls-record-1130)
-- [Window용 외부 키보드 Mac에서 사용하기 &lpar;Using a Windows Keyboard on Mac&rpar;](https://dev.to/minwook/windowyong-oebu-kibodeu-maceseo-sayonghagi-4315)
-- [A Production Ready EKS Deployment with IaC &amp; GitOps - Part 5 - Deploying EKS Cluster](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-iac-gitops-part-5-deploying-eks-cluster-29bn)
+- [gulc: a C Library Built from Scratch](https://dev.to/landiluigi746/gulc-a-c-library-built-from-scratch-2ej6)
+- [Problem in Character Input in C Programming](https://dev.to/mhasanjoy/problem-in-character-input-in-c-programming-2fpf)
+- [How to Launch on Product Hunt](https://dev.to/dariubs/how-to-launch-on-product-hunt-246o)
+- [Level Up Your Web Dev: Advanced HTML and CSS Techniques](https://dev.to/basharat-mir/level-up-your-web-dev-advanced-html-and-css-techniques-5f5c)
+- [Goroutines vs Threads](https://dev.to/shrinidhi_prabhakar/goroutines-vs-threads-ean)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
