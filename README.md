@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Custom Configuration Files in NestJS](https://dev.to/tamim_ikbal/how-to-setup-custom-configuration-files-intonestjs-288a)
-- [AI Revolution: OpenAI o3-mini, DeepSeek R1, and Meta Llama 3.3 Shaping the Future of Tomorrow’s Intelligence](https://dev.to/madds/ai-revolution-openai-o3-mini-deepseek-r1-and-meta-llama-33-shaping-the-future-of-tomorrows-20cn)
-- [The Role of Data Engineering Services in AI and Machine Learning](https://dev.to/reckonsys/the-role-of-data-engineering-services-in-ai-and-machine-learning-4aoi)
-- [Tokens and Embeddings: The Building Blocks of GenAI](https://dev.to/sharsha315/tokens-and-embeddings-the-building-blocks-of-genai-1pgk)
-- [How I Stay Updated in the Fast-Paced World of Data Science](https://dev.to/debrahayes1971/how-i-stay-updated-in-the-fast-paced-world-of-data-science-3l1o)
+- [Tortoise and Hare](https://dev.to/mujahida_joynab_64c7407d8/tortoise-and-hare-47ph)
+- [Get Started With Streamlit](https://dev.to/anoop_johny_66339a11eb173/get-started-with-streamlit-1jjn)
+- [Introduction to Greenfinger - A High Performance Distributed Web Crawler Framework](https://dev.to/paganini2008/introduction-to-greenfinger-a-high-performance-distributed-web-crawler-framework-5h2f)
+- [¿Cuál es la dificultad de adoptar FinOps?](https://dev.to/barbara_gaspar/cual-es-la-dificultad-de-adoptar-finops-2ibd)
+- [The Power of Jeda.ai: Turning Data into Actionable AI Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-jedaai-turning-data-into-actionable-ai-insights-148n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
