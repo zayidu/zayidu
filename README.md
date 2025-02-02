@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RSS: A Great Standard That Can’t Keep Up](https://dev.to/justlig/rss-a-great-standard-that-cant-keep-up-4ibp)
-- [Instalando o Docker no Windows 10 Home ou Professional com WSL 2](https://dev.to/papitofernando/instalando-o-docker-no-windows-10-home-ou-professional-com-wsl-2-26m3)
-- [Monitoring the Yezin Dam: A Journey Through Time with Computer Vision](https://dev.to/nikhil_reddy_/monitoring-the-yezin-dam-a-journey-through-time-with-computer-vision-2lmg)
-- [Prompt Engineering Template for Writers: Create Prompts Easily and Intuitively](https://dev.to/angel_rojas_6904bae237a0d/prompt-engineering-template-for-writers-create-prompts-easily-and-intuitively-43l8)
-- [Outsmarting the Clock: A Detective&#39;s Guide to Avoiding TLE in Programming](https://dev.to/sayed_ali_alkamel/outsmarting-the-clock-a-detectives-guide-to-avoiding-tle-in-programming-4845)
+- [Building a Real-Time User Analytics Dashboard with Chart.js: Track Active &amp; Inactive Users Dynamically](https://dev.to/mayankchawdhari/building-a-real-time-user-analytics-dashboard-with-chartjs-track-active-inactive-users-11j7)
+- [Javascript &quot;multithreading&quot;](https://dev.to/hackus/javascript-multithreading-31g9)
+- [Stella: Open Source AI Beta Testing Agents with Personality](https://dev.to/seifbenayed/stella-open-source-ai-beta-testing-agents-with-personality-4l19)
+- [&quot;Master Your Development Environment: The Power of Dotfiles and Automation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/master-your-development-environment-the-power-of-dotfiles-and-automation-27oj)
+- [Beyond arrays and linked lists: Exploring powerful data structures for efficient problem solving](https://dev.to/axelncho/beyond-arrays-and-linked-lists-exploring-powerful-data-structures-for-efficient-problem-solving-m24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
