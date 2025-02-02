@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking 3D Vision: Innovations in Object Reconstruction and Generative Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-3d-vision-innovations-in-object-reconstruction-and-generative-models-nak)
-- [Command Injection in Laravel: How to Detect &amp; Prevent It](https://dev.to/pentest_testing_corp/command-injection-in-laravel-how-to-detect-prevent-it-3nnm)
-- [Exploring the Different Types of Manual Testing](https://dev.to/satheesh_madhavarapu_302a/exploring-the-different-types-of-manual-testing-1m8n)
-- [Django + Redis: Simplifying Data Caching with a Real-World Example 💡](https://dev.to/priya01/django-redis-simplifying-data-caching-with-a-real-world-example-4nnn)
-- [A Production Ready EKS Deployment with GitOps - Part 2 - Configuring Terraform Backend &amp; Validate Prerequisites](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-gitops-part-2-configuring-terraform-backend-validate-29i8)
+- [AI DevOps Agent for Better CI](https://dev.to/cicubeteam/ai-devops-agent-for-better-ci-27ka)
+- [🚀 Kickstart Your Angular Projects with the Ultimate Starter Kit! 🚀](https://dev.to/wlucha/kickstart-your-angular-projects-with-the-ultimate-starter-kit-1cg7)
+- [Frontend Elegante y Eficiente con Patrones de Diseño](https://dev.to/iamadeveloper/frontend-elegante-y-eficiente-con-patrones-de-diseno-379e)
+- [[Boost]](https://dev.to/proxyos/-49k4)
+- [Using a Custom Type as a Dictionary Key in C#](https://dev.to/moh_moh701/using-a-custom-type-as-a-dictionary-key-in-c-5emi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
