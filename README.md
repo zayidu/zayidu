@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://dev.to/jetthoughts/why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities-4mb3)
-- [Understanding Why Arrays Cannot Be Compared to `nil` but Slices Can in Go](https://dev.to/minuda_saswitha/understanding-why-arrays-cannot-be-compared-to-nil-but-slices-can-in-go-kjl)
-- [Why India’s AI Future Depends on You](https://dev.to/codedetech/why-indias-ai-future-depends-on-you-5gic)
-- [Scaling Data Analytics: Building a Starter Kit with Neon, Airflow, and Streamlit](https://dev.to/olgabraginskaya/scaling-data-analytics-building-a-starter-kit-with-neon-airflow-and-streamlit-3f9i)
-- [How to Build a GraphQL API from Scratch in Node.js](https://dev.to/im_lakhlan/how-to-build-a-graphql-api-from-scratch-in-nodejs-hlo)
+- [[Boost]](https://dev.to/timothy_2008/-2h88)
+- [What Two Years of Job Searching Taught Me](https://dev.to/brianseo/what-two-years-of-job-searching-taught-me-54l)
+- [Solidity Crash Course 🚀](https://dev.to/ayaz/-solidity-crash-course-series-4o4n)
+- [# Solidity Crash Course Series 🚀](https://dev.to/ayaz/-solidity-crash-course-series-3ohi)
+- [The Evolution of Parallel Computing and Its Importance for Modern Applications](https://dev.to/adityabhuyan/the-evolution-of-parallel-computing-and-its-importance-for-modern-applications-430a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
