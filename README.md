@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/faith_kolapo_9728146d8e89/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-31oj)
-- [Have You Ever Noticed Preflight Requests?](https://dev.to/leapcell/have-you-ever-noticed-preflight-requests-a7o)
-- [Compiling 2025: learn, build, grow...](https://dev.to/saloni0512/compiling-2025-learn-build-grow-p1b)
-- [Open Source Customizable Timer: KEGOMODORO! ⏳](https://dev.to/kegan/open-source-customizable-timer-kegomodoro-3k9o)
-- [week 3 of my Data Analytics Journey](https://dev.to/awasume_marylin_8/week-3-of-my-data-analytics-journey-19k3)
+- [Monitoring &amp; Alerting for AWS EKS Using Grafana, Prometheus &amp; Alertmanager with SNS Integration](https://dev.to/muhammad_ahmad_khan/monitoring-alerting-for-aws-eks-using-grafana-prometheus-alertmanager-with-sns-integration-5593)
+- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-38h)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/samuel_hope_e6afc0b507c47/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-49k)
+- [ColorJitter in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-1-j4n)
+- [The importance of using Jackson&#39;s annotations @JsonBackReference and @JsonManagedReference](https://dev.to/mauricioarcanjo/the-importance-of-using-jacksons-annotations-jsonbackreference-and-jsonmanagedreference-25ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
