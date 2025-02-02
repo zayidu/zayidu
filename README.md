@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time User Analytics Dashboard with Chart.js: Track Active &amp; Inactive Users Dynamically](https://dev.to/mayankchawdhari/building-a-real-time-user-analytics-dashboard-with-chartjs-track-active-inactive-users-11j7)
-- [Javascript &quot;multithreading&quot;](https://dev.to/hackus/javascript-multithreading-31g9)
-- [Stella: Open Source AI Beta Testing Agents with Personality](https://dev.to/seifbenayed/stella-open-source-ai-beta-testing-agents-with-personality-4l19)
-- [&quot;Master Your Development Environment: The Power of Dotfiles and Automation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/master-your-development-environment-the-power-of-dotfiles-and-automation-27oj)
-- [Beyond arrays and linked lists: Exploring powerful data structures for efficient problem solving](https://dev.to/axelncho/beyond-arrays-and-linked-lists-exploring-powerful-data-structures-for-efficient-problem-solving-m24)
+- [The Best Way to Chunk Text Data for Generating Embeddings with OpenAI Models](https://dev.to/simplr_sh/the-best-way-to-chunk-text-data-for-generating-embeddings-with-openai-models-56c9)
+- [Redes: pt. 1 - Conexão e rede](https://dev.to/mmsfarias/redes-pt-1-conexao-e-rede-1dcf)
+- [How To Set Up and Configure Gmail SMTP Server for Email Sending](https://dev.to/indrayyana/how-to-set-up-gmail-smtp-server-ka2)
+- [Database Migrations in Laravel](https://dev.to/adebayo_olukunle_06daa4ec/database-migrations-in-laravel-4nib)
+- [Semantic Similarity for Personal Knowledge Management](https://dev.to/pruthvikumarbk/semantic-similarity-for-personal-knowledge-management-3j9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
