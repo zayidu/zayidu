@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Modern Direct Message Component in React | Daily UI Challenge Day 13](https://dev.to/jds64/how-to-build-a-modern-direct-message-component-in-react-daily-ui-challenge-day-13-40h9)
-- [The Best Way to Chunk Text Data for Generating Embeddings with OpenAI Models](https://dev.to/simplr_sh/the-best-way-to-chunk-text-data-for-generating-embeddings-with-openai-models-56c9)
-- [Redes: pt. 1 - Conexão e rede](https://dev.to/mmsfarias/redes-pt-1-conexao-e-rede-1dcf)
-- [How To Set Up and Configure Gmail SMTP Server for Email Sending](https://dev.to/indrayyana/how-to-set-up-gmail-smtp-server-ka2)
-- [Database Migrations in Laravel](https://dev.to/adebayo_olukunle_06daa4ec/database-migrations-in-laravel-4nib)
+- [How Generative AI Development Services Improve Efficiency in Software Development](https://dev.to/reckonsys/how-generative-ai-development-services-improve-efficiency-in-software-development-4pdp)
+- [Debugging Tips I Wish I Knew Earlier](https://dev.to/johnhooper1965/debugging-tips-i-wish-i-knew-earlier-2aib)
+- [Top Resources That Helped Me Learn JavaScript and React](https://dev.to/johnhooper1965/top-resources-that-helped-me-learn-javascript-and-react-5fcj)
+- [How I Used Natural Language Processing to Automate Customer Support](https://dev.to/debrahayes1971/how-i-used-natural-language-processing-to-automate-customer-support-2c1f)
+- [From Data to Insights: My Step-by-Step Data Analysis Workflow](https://dev.to/debrahayes1971/from-data-to-insights-my-step-by-step-data-analysis-workflow-3mo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
