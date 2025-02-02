@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Power-Packed 2025!](https://dev.to/keerthi_polani/power-packed-2025-34i8)
-- [Year of the Kiwi](https://dev.to/stinklewinks/year-of-the-kiwi-8l5)
-- [50 Shades of React: Questions to Prepare for the Interview Battle](https://dev.to/ingeniouswebster/50-shades-of-react-questions-to-prepare-for-the-interview-battle-323)
-- [Building an Income Tax Calculator in React](https://dev.to/pulkitgovrani/building-an-income-tax-calculator-in-react-7m4)
-- [Angular Routing](https://dev.to/anjali_gurjar_dff81513867/angular-routing-3o44)
+- [I Tested 3 No-Code Platforms to Create Chatbots!](https://dev.to/aiza_rashid_1826ae90a8102/i-tested-3-no-code-platforms-to-create-chatbots-216n)
+- [AI Agents in 2025: Revolutionizing Industries](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agents-in-2025-revolutionizing-industries-117j)
+- [Daily JavaScript Challenge #JS-90: Generate Collatz Sequence](https://dev.to/dpc/daily-javascript-challenge-js-90-generate-collatz-sequence-872)
+- [How to Choose the Best .NET Library for Your Task](https://dev.to/meletuananh/how-to-choose-the-best-net-library-for-your-task-467n)
+- [Leaving Facebook](https://dev.to/gajanan0707/leaving-facebook-427e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
