@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Generative AI Development Services Improve Efficiency in Software Development](https://dev.to/reckonsys/how-generative-ai-development-services-improve-efficiency-in-software-development-4pdp)
-- [Debugging Tips I Wish I Knew Earlier](https://dev.to/johnhooper1965/debugging-tips-i-wish-i-knew-earlier-2aib)
-- [Top Resources That Helped Me Learn JavaScript and React](https://dev.to/johnhooper1965/top-resources-that-helped-me-learn-javascript-and-react-5fcj)
-- [How I Used Natural Language Processing to Automate Customer Support](https://dev.to/debrahayes1971/how-i-used-natural-language-processing-to-automate-customer-support-2c1f)
-- [From Data to Insights: My Step-by-Step Data Analysis Workflow](https://dev.to/debrahayes1971/from-data-to-insights-my-step-by-step-data-analysis-workflow-3mo8)
+- [How to Set Up Custom Configuration Files in NestJS](https://dev.to/tamim_ikbal/how-to-setup-custom-configuration-files-intonestjs-288a)
+- [AI Revolution: OpenAI o3-mini, DeepSeek R1, and Meta Llama 3.3 Shaping the Future of Tomorrow’s Intelligence](https://dev.to/madds/ai-revolution-openai-o3-mini-deepseek-r1-and-meta-llama-33-shaping-the-future-of-tomorrows-20cn)
+- [The Role of Data Engineering Services in AI and Machine Learning](https://dev.to/reckonsys/the-role-of-data-engineering-services-in-ai-and-machine-learning-4aoi)
+- [Tokens and Embeddings: The Building Blocks of GenAI](https://dev.to/sharsha315/tokens-and-embeddings-the-building-blocks-of-genai-1pgk)
+- [How I Stay Updated in the Fast-Paced World of Data Science](https://dev.to/debrahayes1971/how-i-stay-updated-in-the-fast-paced-world-of-data-science-3l1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
