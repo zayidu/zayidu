@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Design Pattern in Java](https://dev.to/mspilari/strategy-design-pattern-in-java-a-practical-guide-4l7j)
-- [&quot;AI and ML Integration: A Guide for Developers to Enhance Modern Applications&quot;](https://dev.to/game_apk_/ai-and-ml-integration-a-guide-for-developers-to-enhance-modern-applications-15ka)
-- [🚀 How to Run DeepSeek Locally: A Simple Guide to Your Personal AI](https://dev.to/hadil/how-to-run-deepseek-locally-a-simple-guide-to-your-personal-ai-5613)
-- [Web3 Needs More Than Just Developers: A Reflection on Awareness and Collaboration](https://dev.to/trancendgeeks/web3-needs-more-than-just-developers-a-reflection-on-awareness-and-collaboration-5h39)
-- [A Docker Not So Quick Start 🐋 - Baby Steps](https://dev.to/lucioew28/a-docker-not-so-quick-start-baby-steps-4o72)
+- [AceHack 4.0: A Platform for Students and Professionals to Shine](https://dev.to/acehack/acehack-40-a-platform-for-students-and-professionals-to-shine-3enl)
+- [Staying Secure &amp; Connected While Traveling](https://dev.to/krideo/staying-secure-connected-while-traveling-1db)
+- [Provide the default value in the Resource API](https://dev.to/railsstudent/provide-the-default-value-in-the-resource-api-4574)
+- [Efficient Querying: How to Optimize Performance and Reduce Expenses on TiDB Cloud Serverless](https://dev.to/sunxiaoguang/efficient-querying-how-to-optimize-performance-and-reduce-expenses-on-tidb-cloud-serverless-4a94)
+- [How to Generate PDFs in 2025](https://dev.to/michal_szymanowski/how-to-generate-pdfs-in-2025-26gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
