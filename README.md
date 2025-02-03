@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Automation in the Modern Era: How Genqe.ai is Shaping the Future of Software Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-in-the-modern-era-how-genqeai-is-shaping-the-future-of-software-testing-5g6g)
-- [Setting Up an NGINX Web Server on Azure: My DevOps HNG Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-on-azure-my-devops-hng-stage-0-experience-1i0k)
-- [Navigating the Cloud: Key Terms and Concepts Every Developer Should Know](https://dev.to/kelechiedeh/navigating-the-cloud-key-terms-and-concepts-every-developer-should-know-1pcp)
-- [The Ultimate Guide to Learning Web3: Blockchain, Smart Contracts, NFTs &amp; DeFi Explained](https://dev.to/adityabhuyan/the-ultimate-guide-to-learning-web3-blockchain-smart-contracts-nfts-defi-explained-5377)
-- [52u.today](https://dev.to/abdulmunaf_ali_9129f636b8/52utoday-4gje)
+- [AI for Students – Smarter Studying!](https://dev.to/vivek123eq2/ai-for-students-smarter-studying-1hh5)
+- [Basic Explanation of Minecraft &lpar;Java Edition&rpar;](https://dev.to/peytonstrahan/basic-explanation-of-minecraft-java-edition-4jh2)
+- [quieressermisanvalentin](https://dev.to/jhordan_rodriguez_19f5abd/quieressermisanvalentin-3n48)
+- [Compiling 2025 : - &rpar;](https://dev.to/matrixneo20/compiling-2025--2c8p)
+- [[Boost]](https://dev.to/cozeniths/-3alc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
