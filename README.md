@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SPO600: Lab 1 - Challenges](https://dev.to/amullagaliev/spo-lab-1-challenges-5bfa)
-- [Criação de Hooks Personalizados no React: Reutilização de Lógica de Forma Inteligente](https://dev.to/judsonkerller/criacao-de-hooks-personalizados-no-react-reutilizacao-de-logica-de-forma-inteligente-3cap)
-- [Deepseek AI paper](https://dev.to/ai-ops/deepseek-ai-paper-4b16)
-- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐚𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭?](https://dev.to/ai-ops/-1jop)
-- [Automating Conversations: Building a Smart Call Agent Using Twilio and ElevenLabs](https://dev.to/programmerraja/automating-conversations-building-a-smart-call-agent-using-twilio-and-elevenlabs-3331)
+- [Javascript Prototypal Inheritance once and for all](https://dev.to/mmvergara/prototypal-inheritance-4c6k)
+- [While loop:](https://dev.to/kaviyak/while-loop-p2e)
+- [From Nurse to Software Engineer: My Journey](https://dev.to/rossrosales/from-nurse-to-software-engineer-my-journey-152e)
+- [What is Full-Stack Development? 🌍💻](https://dev.to/erasmuskotoka/what-is-full-stack-development-46c0)
+- [Building Games with JavaScript and PostreSQL](https://dev.to/bealecs/building-games-with-javascript-and-postresql-5bb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
