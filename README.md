@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Web Development: From HTML to Modern Full-Stack Frameworks](https://dev.to/byte-sized-news/the-evolution-of-web-development-from-html-to-modern-full-stack-frameworks-344)
-- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝗱𝘂𝗰𝗶𝗻𝗴 𝗟𝗖𝗣 𝗧𝗶𝗺𝗲 𝗶𝗻 𝗡𝗲𝘅𝘁.𝗷𝘀.](https://dev.to/haitham_medhat_faff3c8959/--2lbc)
-- [[Boost]](https://dev.to/proxyos/-8h6)
-- [HTML &amp; CSS Best Practices: Writing Clean, Maintainable, and Responsive Code](https://dev.to/erasmuskotoka/html-css-best-practices-writing-clean-maintainable-and-responsive-code-1d5o)
-- [I built a portfolio in minutes with Bolt and Manifest](https://dev.to/sebconejo/i-built-a-portfolio-in-minutes-with-bolt-and-manifest-4lcn)
+- [C++: The Invisible Engine of the Technological World](https://dev.to/marcosplusplus/c-the-invisible-engine-of-the-technological-world-492j)
+- [Learning Next.js? Want to up your career with Headless CMS? Start here.](https://dev.to/joelvarty/learning-nextjs-want-to-up-your-career-with-headless-cms-start-here-4jld)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/malkayne/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3jl3)
+- [C++: O Motor Invisível do Mundo Tecnológico](https://dev.to/marcosplusplus/c-o-motor-invisivel-do-mundo-tecnologico-1f93)
+- [Django on a Budget: The Best Affordable Hosting Options for Your App](https://dev.to/brian_oginga/django-on-a-budget-the-best-affordable-hosting-options-for-your-app-309o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
