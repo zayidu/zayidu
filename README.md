@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Your First API with Python, Flask and Azure](https://dev.to/otumba/how-to-create-your-first-api-with-python-flask-and-azure-1bef)
-- [Single Responsibility Principle in React Development](https://dev.to/creowistech/single-responsibility-principle-in-react-development-431a)
-- [AI for Students – Smarter Studying!](https://dev.to/vivek123eq2/ai-for-students-smarter-studying-1hh5)
-- [Basic Explanation of Minecraft &lpar;Java Edition&rpar;](https://dev.to/peytonstrahan/basic-explanation-of-minecraft-java-edition-4jh2)
-- [quieressermisanvalentin](https://dev.to/jhordan_rodriguez_19f5abd/quieressermisanvalentin-3n48)
+- [Building Robust CI/CD Pipelines from Scratch](https://dev.to/angelawilson1953/building-robust-cicd-pipelines-from-scratch-3elm)
+- [A Guide to Using Windsurf.ai](https://dev.to/codeparrot/a-guide-to-using-windsurfai-57p8)
+- [Optimizing Algorithms for Real-World Applications: Practical Tips for Developers](https://dev.to/alanclaycomb1991/optimizing-algorithms-for-real-world-applications-practical-tips-for-developers-4278)
+- [An Evaluation of Developers’ Perceptions of the Security Quality of AI-Generated Code Against Industry Standards](https://dev.to/sithara_wanigasooriya_748/an-evaluation-of-developers-perceptions-of-the-security-quality-of-ai-generated-code-against-2no3)
+- [Build Secure Shopify Apps with App Bridge](https://dev.to/sulmanweb/build-secure-shopify-apps-with-app-bridge-55go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
