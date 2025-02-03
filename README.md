@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Swift Hacks You Wish You Knew Sooner](https://dev.to/balrajola/7-swift-hacks-you-wish-you-knew-sooner-25ho)
-- [Почему React Context для меня — это не инструмент управления состоянием &lpar;и почему он не заменит Redux&rpar;](https://dev.to/sundaycoding/pochiemu-react-context-dlia-mienia-eto-nie-instrumient-upravlieniia-sostoianiiem-i-pochiemu-on-nie-zamienit-4aln)
-- [Advanced CI/CD Pipelines on AWS](https://dev.to/prakash_rao/advanced-cicd-pipelines-on-aws-30ch)
-- [AI in Front-End Development: Revolutionizing Web Design](https://dev.to/albertsmith/ai-in-front-end-development-revolutionizing-web-design-43co)
-- [Did anyone try to call server reflection using GRPC through NodeJS? I am able to list down the methods but not able to call it?](https://dev.to/jay_shah_d891a092698b62e8/did-anyone-try-to-call-server-reflection-using-grpc-through-nodejs-i-am-able-to-1l5d)
+- [Strategy Design Pattern in Java](https://dev.to/mspilari/strategy-design-pattern-in-java-a-practical-guide-4l7j)
+- [&quot;AI and ML Integration: A Guide for Developers to Enhance Modern Applications&quot;](https://dev.to/game_apk_/ai-and-ml-integration-a-guide-for-developers-to-enhance-modern-applications-15ka)
+- [🚀 How to Run DeepSeek Locally: A Simple Guide to Your Personal AI](https://dev.to/hadil/how-to-run-deepseek-locally-a-simple-guide-to-your-personal-ai-5613)
+- [Web3 Needs More Than Just Developers: A Reflection on Awareness and Collaboration](https://dev.to/trancendgeeks/web3-needs-more-than-just-developers-a-reflection-on-awareness-and-collaboration-5h39)
+- [A Docker Not So Quick Start 🐋 - Baby Steps](https://dev.to/lucioew28/a-docker-not-so-quick-start-baby-steps-4o72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
