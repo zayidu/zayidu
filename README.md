@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Super Villain Power App](https://dev.to/wyattdave/the-super-villain-power-app-405h)
-- [Python Day-32 Object oriented programming&lpar;oops&rpar;, CSV, Matplotlib](https://dev.to/guru_prasanna_01/python-day-32-object-oriented-programmingoops-csv-matplotlib-f4c)
-- [How to Run DiskPart as Administrator on Windows 11? 4 Easy Ways!](https://dev.to/winsides/how-to-run-diskpart-as-administrator-on-windows-11-4-easy-ways-35g7)
-- [Home Assistant: Overview about Smart Light and Smart Power Protocols](https://dev.to/admantium/home-assistant-overview-about-smart-light-and-smart-power-protocols-2fjh)
-- [Integrate Azure Cosmos DB Docker Container in CI/CD pipeline with GitHub Actions](https://dev.to/abhirockzz/integrate-azure-cosmos-db-docker-container-in-cicd-pipeline-with-github-actions-jlk)
+- [&quot;Unlocking Precision Medicine: Overcoming Barriers to Polygenic Risk Scores&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-medicine-overcoming-barriers-to-polygenic-risk-scores-5k)
+- [Portfolio Site Documentation](https://dev.to/ed_sels/portfolio-site-documentation-4i98)
+- [HTML and CSS Interview questions and Answers](https://dev.to/renukapatil/html-and-css-interview-questions-and-answers-6e7)
+- [Understanding the ?? &lpar;Nullish Coalescing&rpar; Operator vs. || &lpar;Logical OR&rpar; in JavaScript](https://dev.to/rutuja_web_dev/understanding-the-nullish-coalescing-operator-vs-logical-or-in-javascript-5263)
+- [Javascript Interview Questions and answers](https://dev.to/renukapatil/javascript-interview-questions-and-answers-375j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
