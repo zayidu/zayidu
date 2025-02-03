@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AceHack 4.0: A Platform for Students and Professionals to Shine](https://dev.to/acehack/acehack-40-a-platform-for-students-and-professionals-to-shine-3enl)
-- [Staying Secure &amp; Connected While Traveling](https://dev.to/krideo/staying-secure-connected-while-traveling-1db)
-- [Provide the default value in the Resource API](https://dev.to/railsstudent/provide-the-default-value-in-the-resource-api-4574)
-- [Efficient Querying: How to Optimize Performance and Reduce Expenses on TiDB Cloud Serverless](https://dev.to/sunxiaoguang/efficient-querying-how-to-optimize-performance-and-reduce-expenses-on-tidb-cloud-serverless-4a94)
-- [How to Generate PDFs in 2025](https://dev.to/michal_szymanowski/how-to-generate-pdfs-in-2025-26gi)
+- [Understanding Strong Password Regex in C#: From Basic to Advanced](https://dev.to/ravivis13370227/understanding-strong-password-regex-in-c-from-basic-to-advanced-25cf)
+- [The Ultimate Guide to Data Structures and Algorithms | Mbloging](https://dev.to/muhayminbinmehmood/the-ultimate-guide-to-data-structures-and-algorithms-mbloging-4bf3)
+- [JShell: Un REPL para Java](https://dev.to/asjordi/jshell-un-repl-para-java-3ik1)
+- [Blackjack in Python](https://dev.to/diodemusic/blackjack-in-python-ben)
+- [🔐 Why is Verification &lpar;KYC&rpar; Important on Crypto Exchanges? 🚀](https://dev.to/cryptosandy/why-is-verification-kyc-important-on-crypto-exchanges-4ip4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
