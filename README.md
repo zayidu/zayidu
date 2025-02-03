@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Solutions: 12 No-Nonsense Guides for Every Coder](https://dev.to/0x2e_tech/quick-solutions-12-no-nonsense-guides-for-every-coder-2mgf)
-- [Rlinguo — Why Did We Build It?](https://dev.to/colinfay/rlinguo-why-did-we-build-it-5eh1)
-- [Implementing React Islands in static web applications](https://dev.to/logrocket/implementing-react-islands-in-static-web-applications-402c)
-- [🚀 50+ Github Repositories for Your Next Project.](https://dev.to/gittech/50-github-repositories-for-your-next-project-21fi)
-- [The Perceptron! [visually see an AI learn in real time! 👀]](https://dev.to/grahamthedev/the-perceptron-visually-see-an-ai-learn-2fd9)
+- [Mastering Dockerfile: Key Instructions Explained in Simple Terms](https://dev.to/arunranu/mastering-dockerfile-key-instructions-explained-in-simple-terms-2na8)
+- [#icp](https://dev.to/therustfanatic/icp-44b3)
+- [🦊 Блокчейн и смарт-контракты: как лисички научились честно менять орешки 💰](https://dev.to/easycat/blokchiein-i-smart-kontrakty-kak-lisichki-nauchilis-chiestno-mieniat-orieshki-2bgp)
+- [My dream way of testing](https://dev.to/lioneldraghi/my-dream-way-of-testing-8m9)
+- [Build Your First Todo App on ICP: A Friendly Guide](https://dev.to/therustfanatic/build-your-first-todo-app-on-icp-a-friendly-guide-56po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
