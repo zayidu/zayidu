@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Art of Search: Tips](https://dev.to/ismah/mastering-the-art-of-search-tips-4p26)
-- [Big Issues in Vue 3: What Developers Need to Know](https://dev.to/mostafa_samir_fe0bbfde587/big-issues-in-vue-3-what-developers-need-to-know-4ekj)
-- [Progress - lowCal_update 9](https://dev.to/itsizakb/progress-lowcalupdate-9-20n7)
-- [113/365 | ¥10M Job Challenge - work out](https://dev.to/kameken100/113365-y10m-job-challenge-work-out-2e33)
-- [📉 Why Bitcoin, Ethereum, and $XRP Prices Are Crashing?](https://dev.to/sergi_web3/why-bitcoin-ethereum-and-xrp-prices-are-crashing-4ecm)
+- [The Evolution of Web Development: From HTML to Modern Full-Stack Frameworks](https://dev.to/byte-sized-news/the-evolution-of-web-development-from-html-to-modern-full-stack-frameworks-344)
+- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝗱𝘂𝗰𝗶𝗻𝗴 𝗟𝗖𝗣 𝗧𝗶𝗺𝗲 𝗶𝗻 𝗡𝗲𝘅𝘁.𝗷𝘀.](https://dev.to/haitham_medhat_faff3c8959/--2lbc)
+- [[Boost]](https://dev.to/proxyos/-8h6)
+- [HTML &amp; CSS Best Practices: Writing Clean, Maintainable, and Responsive Code](https://dev.to/erasmuskotoka/html-css-best-practices-writing-clean-maintainable-and-responsive-code-1d5o)
+- [I built a portfolio in minutes with Bolt and Manifest](https://dev.to/sebconejo/i-built-a-portfolio-in-minutes-with-bolt-and-manifest-4lcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
