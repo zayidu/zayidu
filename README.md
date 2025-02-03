@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Strong Password Regex in C#: From Basic to Advanced](https://dev.to/ravivis13370227/understanding-strong-password-regex-in-c-from-basic-to-advanced-25cf)
-- [The Ultimate Guide to Data Structures and Algorithms | Mbloging](https://dev.to/muhayminbinmehmood/the-ultimate-guide-to-data-structures-and-algorithms-mbloging-4bf3)
-- [JShell: Un REPL para Java](https://dev.to/asjordi/jshell-un-repl-para-java-3ik1)
-- [Blackjack in Python](https://dev.to/diodemusic/blackjack-in-python-ben)
-- [🔐 Why is Verification &lpar;KYC&rpar; Important on Crypto Exchanges? 🚀](https://dev.to/cryptosandy/why-is-verification-kyc-important-on-crypto-exchanges-4ip4)
+- [The Ultimate Showdown: Figma, Adobe XD, and Sketch for UI Design](https://dev.to/jetthoughts/the-ultimate-showdown-figma-adobe-xd-and-sketch-for-ui-design-50k7)
+- [Webpack: six things to know before you get started](https://dev.to/maryalice/webpack-six-things-to-know-before-you-get-started-247j)
+- [My first full on game 🎮](https://dev.to/mince/my-first-full-on-game-aba)
+- [Python Data Types &amp; Data Structures](https://dev.to/mike-vincent/python-data-types-data-structures-47k6)
+- [Introduction to DevOps and its Benefits](https://dev.to/riteshkokam/introduction-to-devops-and-its-benefits-5fec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
