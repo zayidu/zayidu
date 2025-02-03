@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Prototypal Inheritance once and for all](https://dev.to/mmvergara/prototypal-inheritance-4c6k)
-- [While loop:](https://dev.to/kaviyak/while-loop-p2e)
-- [From Nurse to Software Engineer: My Journey](https://dev.to/rossrosales/from-nurse-to-software-engineer-my-journey-152e)
-- [What is Full-Stack Development? 🌍💻](https://dev.to/erasmuskotoka/what-is-full-stack-development-46c0)
-- [Building Games with JavaScript and PostreSQL](https://dev.to/bealecs/building-games-with-javascript-and-postresql-5bb6)
+- [Test Automation in the Modern Era: How Genqe.ai is Shaping the Future of Software Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-in-the-modern-era-how-genqeai-is-shaping-the-future-of-software-testing-5g6g)
+- [Setting Up an NGINX Web Server on Azure: My DevOps HNG Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-on-azure-my-devops-hng-stage-0-experience-1i0k)
+- [Navigating the Cloud: Key Terms and Concepts Every Developer Should Know](https://dev.to/kelechiedeh/navigating-the-cloud-key-terms-and-concepts-every-developer-should-know-1pcp)
+- [The Ultimate Guide to Learning Web3: Blockchain, Smart Contracts, NFTs &amp; DeFi Explained](https://dev.to/adityabhuyan/the-ultimate-guide-to-learning-web3-blockchain-smart-contracts-nfts-defi-explained-5377)
+- [52u.today](https://dev.to/abdulmunaf_ali_9129f636b8/52utoday-4gje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
