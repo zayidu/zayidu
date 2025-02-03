@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Precision Medicine: Overcoming Barriers to Polygenic Risk Scores&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-medicine-overcoming-barriers-to-polygenic-risk-scores-5k)
-- [Portfolio Site Documentation](https://dev.to/ed_sels/portfolio-site-documentation-4i98)
-- [HTML and CSS Interview questions and Answers](https://dev.to/renukapatil/html-and-css-interview-questions-and-answers-6e7)
-- [Understanding the ?? &lpar;Nullish Coalescing&rpar; Operator vs. || &lpar;Logical OR&rpar; in JavaScript](https://dev.to/rutuja_web_dev/understanding-the-nullish-coalescing-operator-vs-logical-or-in-javascript-5263)
-- [Javascript Interview Questions and answers](https://dev.to/renukapatil/javascript-interview-questions-and-answers-375j)
+- [AI Training Breakthrough: Reinforcement Learning Beats Traditional Methods for Model Performance](https://dev.to/mikeyoung44/ai-training-breakthrough-reinforcement-learning-beats-traditional-methods-for-model-performance-5879)
+- [Breakthrough: New Algorithm Makes Robot Teams 40% Faster and More Resilient to Communication Loss](https://dev.to/mikeyoung44/breakthrough-new-algorithm-makes-robot-teams-40-faster-and-more-resilient-to-communication-loss-340k)
+- [New AI Method Cuts Search Time by 70% While Maintaining Accuracy, Study Shows](https://dev.to/mikeyoung44/new-ai-method-cuts-search-time-by-70-while-maintaining-accuracy-study-shows-56hn)
+- [Explorando la IA Generativa con South Park: Un Proyecto en Familia](https://dev.to/aws-espanol/explorando-la-ia-generativa-con-south-park-un-proyecto-en-familia-137p)
+- [AI-Powered Radio Tech Boosts Wireless Performance by 20% Using Language Model Breakthrough](https://dev.to/mikeyoung44/ai-powered-radio-tech-boosts-wireless-performance-by-20-using-language-model-breakthrough-10m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
