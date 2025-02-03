@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Dockerfile: Key Instructions Explained in Simple Terms](https://dev.to/arunranu/mastering-dockerfile-key-instructions-explained-in-simple-terms-2na8)
-- [#icp](https://dev.to/therustfanatic/icp-44b3)
-- [🦊 Блокчейн и смарт-контракты: как лисички научились честно менять орешки 💰](https://dev.to/easycat/blokchiein-i-smart-kontrakty-kak-lisichki-nauchilis-chiestno-mieniat-orieshki-2bgp)
-- [My dream way of testing](https://dev.to/lioneldraghi/my-dream-way-of-testing-8m9)
-- [Build Your First Todo App on ICP: A Friendly Guide](https://dev.to/therustfanatic/build-your-first-todo-app-on-icp-a-friendly-guide-56po)
+- [Mastering the Art of Search: Tips](https://dev.to/ismah/mastering-the-art-of-search-tips-4p26)
+- [Big Issues in Vue 3: What Developers Need to Know](https://dev.to/mostafa_samir_fe0bbfde587/big-issues-in-vue-3-what-developers-need-to-know-4ekj)
+- [Progress - lowCal_update 9](https://dev.to/itsizakb/progress-lowcalupdate-9-20n7)
+- [113/365 | ¥10M Job Challenge - work out](https://dev.to/kameken100/113365-y10m-job-challenge-work-out-2e33)
+- [📉 Why Bitcoin, Ethereum, and $XRP Prices Are Crashing?](https://dev.to/sergi_web3/why-bitcoin-ethereum-and-xrp-prices-are-crashing-4ecm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
