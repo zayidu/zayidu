@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Robust CI/CD Pipelines from Scratch](https://dev.to/angelawilson1953/building-robust-cicd-pipelines-from-scratch-3elm)
-- [A Guide to Using Windsurf.ai](https://dev.to/codeparrot/a-guide-to-using-windsurfai-57p8)
-- [Optimizing Algorithms for Real-World Applications: Practical Tips for Developers](https://dev.to/alanclaycomb1991/optimizing-algorithms-for-real-world-applications-practical-tips-for-developers-4278)
-- [An Evaluation of Developers’ Perceptions of the Security Quality of AI-Generated Code Against Industry Standards](https://dev.to/sithara_wanigasooriya_748/an-evaluation-of-developers-perceptions-of-the-security-quality-of-ai-generated-code-against-2no3)
-- [Build Secure Shopify Apps with App Bridge](https://dev.to/sulmanweb/build-secure-shopify-apps-with-app-bridge-55go)
+- [The Super Villain Power App](https://dev.to/wyattdave/the-super-villain-power-app-405h)
+- [Python Day-32 Object oriented programming&lpar;oops&rpar;, CSV, Matplotlib](https://dev.to/guru_prasanna_01/python-day-32-object-oriented-programmingoops-csv-matplotlib-f4c)
+- [How to Run DiskPart as Administrator on Windows 11? 4 Easy Ways!](https://dev.to/winsides/how-to-run-diskpart-as-administrator-on-windows-11-4-easy-ways-35g7)
+- [Home Assistant: Overview about Smart Light and Smart Power Protocols](https://dev.to/admantium/home-assistant-overview-about-smart-light-and-smart-power-protocols-2fjh)
+- [Integrate Azure Cosmos DB Docker Container in CI/CD pipeline with GitHub Actions](https://dev.to/abhirockzz/integrate-azure-cosmos-db-docker-container-in-cicd-pipeline-with-github-actions-jlk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
