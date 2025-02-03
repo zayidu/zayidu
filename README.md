@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Training Breakthrough: Reinforcement Learning Beats Traditional Methods for Model Performance](https://dev.to/mikeyoung44/ai-training-breakthrough-reinforcement-learning-beats-traditional-methods-for-model-performance-5879)
-- [Breakthrough: New Algorithm Makes Robot Teams 40% Faster and More Resilient to Communication Loss](https://dev.to/mikeyoung44/breakthrough-new-algorithm-makes-robot-teams-40-faster-and-more-resilient-to-communication-loss-340k)
-- [New AI Method Cuts Search Time by 70% While Maintaining Accuracy, Study Shows](https://dev.to/mikeyoung44/new-ai-method-cuts-search-time-by-70-while-maintaining-accuracy-study-shows-56hn)
-- [Explorando la IA Generativa con South Park: Un Proyecto en Familia](https://dev.to/aws-espanol/explorando-la-ia-generativa-con-south-park-un-proyecto-en-familia-137p)
-- [AI-Powered Radio Tech Boosts Wireless Performance by 20% Using Language Model Breakthrough](https://dev.to/mikeyoung44/ai-powered-radio-tech-boosts-wireless-performance-by-20-using-language-model-breakthrough-10m4)
+- [7 Swift Hacks You Wish You Knew Sooner](https://dev.to/balrajola/7-swift-hacks-you-wish-you-knew-sooner-25ho)
+- [Почему React Context для меня — это не инструмент управления состоянием &lpar;и почему он не заменит Redux&rpar;](https://dev.to/sundaycoding/pochiemu-react-context-dlia-mienia-eto-nie-instrumient-upravlieniia-sostoianiiem-i-pochiemu-on-nie-zamienit-4aln)
+- [Advanced CI/CD Pipelines on AWS](https://dev.to/prakash_rao/advanced-cicd-pipelines-on-aws-30ch)
+- [AI in Front-End Development: Revolutionizing Web Design](https://dev.to/albertsmith/ai-in-front-end-development-revolutionizing-web-design-43co)
+- [Did anyone try to call server reflection using GRPC through NodeJS? I am able to list down the methods but not able to call it?](https://dev.to/jay_shah_d891a092698b62e8/did-anyone-try-to-call-server-reflection-using-grpc-through-nodejs-i-am-able-to-1l5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
