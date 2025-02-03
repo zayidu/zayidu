@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Showdown: Figma, Adobe XD, and Sketch for UI Design](https://dev.to/jetthoughts/the-ultimate-showdown-figma-adobe-xd-and-sketch-for-ui-design-50k7)
-- [Webpack: six things to know before you get started](https://dev.to/maryalice/webpack-six-things-to-know-before-you-get-started-247j)
-- [My first full on game 🎮](https://dev.to/mince/my-first-full-on-game-aba)
-- [Python Data Types &amp; Data Structures](https://dev.to/mike-vincent/python-data-types-data-structures-47k6)
-- [Introduction to DevOps and its Benefits](https://dev.to/riteshkokam/introduction-to-devops-and-its-benefits-5fec)
+- [Building a Simple Rock, Paper, Scissors Game in Go](https://dev.to/m_muhd8/building-a-simple-rock-paper-scissors-game-in-go-gn3)
+- [Onlook: A React visual editor](https://dev.to/logrocket/onlook-a-react-visual-editor-1n23)
+- [Mastering Eloquent ORM: A Beginner&#39;s Guide to Laravel&#39;s Magic 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
+- [Open Source Large Language Models in 2025](https://dev.to/devmercy/open-source-large-language-models-in-2025-2j5m)
+- [Tailwind CSS v4: Quick Guide 🚀](https://dev.to/utkarshthedev/tailwind-css-v40-quick-guide-2bh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
