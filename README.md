@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025&#39;s Tech Stack for Front End](https://dev.to/abubakersiddique761/2025s-tech-stack-for-front-end-1hdi)
-- [How We Outsmarted a Date Bug—Without a Mobile Developer!](https://dev.to/jacksonkasi/how-we-outsmarted-a-date-bug-without-a-mobile-developer-3h11)
-- [WebForms.py Update to WebFormsJS 1.6](https://dev.to/elanatframework/webformspy-update-to-webformsjs-16-1hi4)
-- [The Role of AI in Modern Healthcare Apps: Enhancing Diagnosis and Treatment](https://dev.to/marufhossain/the-role-of-ai-in-modern-healthcare-apps-enhancing-diagnosis-and-treatment-2p0o)
-- [Good](https://dev.to/carlos_marrugo_ebb753a889/good-1b9h)
+- [Ainda dá pra falar do DeepSeek?](https://dev.to/if_else/ainda-da-pra-falar-do-deepseek-2cjc)
+- [Data Pipeline Monitoring: Ensuring Reliable and Scalable Data Operations](https://dev.to/kapusto/data-pipeline-monitoring-ensuring-reliable-and-scalable-data-operations-990)
+- [How to Create a Floating Button in React Native: A Step-by-Step Guide](https://dev.to/aneeqakhan/how-to-create-a-floating-button-in-react-native-a-step-by-step-guide-30f5)
+- [Custom Resource Definitions &lpar;CRD&rpar;](https://dev.to/574n13y/custom-resource-definitions-crd-1f78)
+- [Achieving Reliable Data Operations Through Modern Data Observability](https://dev.to/kapusto/achieving-reliable-data-operations-through-modern-data-observability-2opl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
