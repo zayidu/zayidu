@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ainda dá pra falar do DeepSeek?](https://dev.to/if_else/ainda-da-pra-falar-do-deepseek-2cjc)
-- [Data Pipeline Monitoring: Ensuring Reliable and Scalable Data Operations](https://dev.to/kapusto/data-pipeline-monitoring-ensuring-reliable-and-scalable-data-operations-990)
-- [How to Create a Floating Button in React Native: A Step-by-Step Guide](https://dev.to/aneeqakhan/how-to-create-a-floating-button-in-react-native-a-step-by-step-guide-30f5)
-- [Custom Resource Definitions &lpar;CRD&rpar;](https://dev.to/574n13y/custom-resource-definitions-crd-1f78)
-- [Achieving Reliable Data Operations Through Modern Data Observability](https://dev.to/kapusto/achieving-reliable-data-operations-through-modern-data-observability-2opl)
+- [Quick Solutions: 12 No-Nonsense Guides for Every Coder](https://dev.to/0x2e_tech/quick-solutions-12-no-nonsense-guides-for-every-coder-2mgf)
+- [Rlinguo — Why Did We Build It?](https://dev.to/colinfay/rlinguo-why-did-we-build-it-5eh1)
+- [Implementing React Islands in static web applications](https://dev.to/logrocket/implementing-react-islands-in-static-web-applications-402c)
+- [🚀 50+ Github Repositories for Your Next Project.](https://dev.to/gittech/50-github-repositories-for-your-next-project-21fi)
+- [The Perceptron! [visually see an AI learn in real time! 👀]](https://dev.to/grahamthedev/the-perceptron-visually-see-an-ai-learn-2fd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
