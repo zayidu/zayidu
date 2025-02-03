@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Rock, Paper, Scissors Game in Go](https://dev.to/m_muhd8/building-a-simple-rock-paper-scissors-game-in-go-gn3)
-- [Onlook: A React visual editor](https://dev.to/logrocket/onlook-a-react-visual-editor-1n23)
-- [Mastering Eloquent ORM: A Beginner&#39;s Guide to Laravel&#39;s Magic 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
-- [Open Source Large Language Models in 2025](https://dev.to/devmercy/open-source-large-language-models-in-2025-2j5m)
-- [Tailwind CSS v4: Quick Guide 🚀](https://dev.to/utkarshthedev/tailwind-css-v40-quick-guide-2bh5)
+- [2025&#39;s Tech Stack for Front End](https://dev.to/abubakersiddique761/2025s-tech-stack-for-front-end-1hdi)
+- [How We Outsmarted a Date Bug—Without a Mobile Developer!](https://dev.to/jacksonkasi/how-we-outsmarted-a-date-bug-without-a-mobile-developer-3h11)
+- [WebForms.py Update to WebFormsJS 1.6](https://dev.to/elanatframework/webformspy-update-to-webformsjs-16-1hi4)
+- [The Role of AI in Modern Healthcare Apps: Enhancing Diagnosis and Treatment](https://dev.to/marufhossain/the-role-of-ai-in-modern-healthcare-apps-enhancing-diagnosis-and-treatment-2p0o)
+- [Good](https://dev.to/carlos_marrugo_ebb753a889/good-1b9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
