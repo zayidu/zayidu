@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Your First API with Python, Flask and Azure](https://dev.to/otumba/how-to-create-your-first-api-with-python-flask-and-azure-1bef)
+- [Single Responsibility Principle in React Development](https://dev.to/creowistech/single-responsibility-principle-in-react-development-431a)
 - [AI for Students – Smarter Studying!](https://dev.to/vivek123eq2/ai-for-students-smarter-studying-1hh5)
 - [Basic Explanation of Minecraft &lpar;Java Edition&rpar;](https://dev.to/peytonstrahan/basic-explanation-of-minecraft-java-edition-4jh2)
 - [quieressermisanvalentin](https://dev.to/jhordan_rodriguez_19f5abd/quieressermisanvalentin-3n48)
-- [Compiling 2025 : - &rpar;](https://dev.to/matrixneo20/compiling-2025--2c8p)
-- [[Boost]](https://dev.to/cozeniths/-3alc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
