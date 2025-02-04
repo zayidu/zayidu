@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Master Flutter CI/CD: Automate App Deployment with GitHub Actions](https://dev.to/ssoad/master-flutter-cicd-automate-app-deployment-with-github-actions-4fle)
-- [How to configure Lombok, Delombok with Xtext?](https://dev.to/sash_hey_daddffd9da2778a6/how-to-configure-lombok-delombok-with-xtext-188e)
-- [Salla Developers Community](https://dev.to/salladev/salla-developers-community-2ijc)
-- [Buffer Overflow in Laravel: Causes, Prevention &amp; Fixes](https://dev.to/pentest_testing_corp/buffer-overflow-in-laravel-causes-prevention-fixes-30e0)
-- [Prompt Engineering? You&#39;re doing it wrong.](https://dev.to/dror_wayne_fine/prompt-engineering-youre-doing-it-wrong-177b)
+- [Микрофронтенды: мой опыт и взгляд на архитектуру будущего фронтенда](https://dev.to/sundaycoding/mikrofrontiendy-moi-opyt-i-vzghliad-na-arkhitiekturu-budushchiegho-frontienda-384f)
+- [Putting Angular Fire Firestore library to use - II](https://dev.to/ayyash/putting-angular-fire-firestore-library-to-use-ii-34im)
+- [Timers](https://dev.to/jyotich15/timers-43lp)
+- [Docker Commands Cheat Sheet](https://dev.to/muhammadsufiyanbaig/docker-commands-cheat-sheet-5cjp)
+- [DeFi Fatigue: Are we stuck in a loop? The current and devastating state of DeFi &lpar;2025&rpar;](https://dev.to/maxo1st/defi-fatigue-are-we-stuck-in-a-loop-the-current-and-devastating-state-of-defi-2025-7dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
