@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando o GitHub Copilot: Seu Novo Assistente de Código Inteligente!](https://dev.to/regina_celiacordeiromou/explorando-o-github-copilot-seu-novo-assistente-de-codigo-inteligente-3k9n)
-- [Migrating WordPress website to headless CMS: a step-by-step guide](https://dev.to/flotiq/migrating-wordpress-website-to-headless-cms-a-step-by-step-guide-ec1)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/jayzwillz/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-303d)
-- [Gérer les événements sur un bouton en JavaScript](https://dev.to/mdytrl/gerer-les-evenements-sur-un-bouton-en-javascript-31gp)
-- [Using Android to stream to Twitch. Part 3. Manual video encoding](https://dev.to/theplebdev/using-android-to-stream-to-twitch-part-3-manual-video-encoding-mj4)
+- [Untapped Potential of Blockchain: A World beyond Cryptocurreny](https://dev.to/dfordp/untapped-potential-of-blockchain-a-world-beyond-cryptocurreny-3nm0)
+- [How to implement view transitions in multi-page apps](https://dev.to/logrocket/how-to-implement-view-transitions-in-multi-page-apps-2gek)
+- [The Importance of API Security in Modern Software Integration](https://dev.to/igventurelli/the-importance-of-api-security-in-modern-software-integration-44cj)
+- [VLT: The Future of JavaScript Package Management? A Deep Dive into the Next-Gen npm Alternative](https://dev.to/koushikmaratha/vlt-the-future-of-javascript-package-management-a-deep-dive-into-the-next-gen-npm-alternative-hof)
+- [Looking for Java 7u331 for macOS – Legacy Project Requirement](https://dev.to/adpo/looking-for-java-7u331-for-macos-legacy-project-requirement-25m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
