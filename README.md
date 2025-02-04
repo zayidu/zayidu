@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Actor Model Overview](https://dev.to/actor-swe/actor-model-overview-5fd3)
-- [🚀 Build Dashboard Using Google Sheets API 🚀](https://dev.to/saurabh_saha_bf5fd7abb989/build-dashboard-using-google-sheets-api-2fad)
-- [Unity Profiling using Superluminal](https://dev.to/attiliohimeki/unity-profiling-using-superluminal-2oc8)
-- [Benefits of Hybrid Learning Models](https://dev.to/growkon21/benefits-of-hybrid-learning-models-4gle)
-- [Create an Auto-Incrementing Version Column With PostgreSQL Triggers](https://dev.to/nickcosmo/create-an-auto-incrementing-version-column-with-postgresql-triggers-1605)
+- [No, Wall Street, DeepSeek is not &quot;far superior&quot;](https://dev.to/alexjitbit/no-wall-street-deepseek-is-not-far-superior-51c7)
+- [How to Run DeepSeek R1 Locally on Your PC](https://dev.to/chemenggcalc/how-to-run-deepseek-r1-locally-on-your-pc-162i)
+- [Going Global with Serverless: Multi-Region Architectures on AWS](https://dev.to/aws-builders/going-global-with-serverless-multi-region-architectures-on-aws-2k8n)
+- [Building Robust Serverless Workflows with AWS Step Functions: Long-Running Order Fulfillment with Retries and Human Approvals](https://dev.to/sudoconsultants/building-robust-serverless-workflows-with-aws-step-functions-long-running-order-fulfillment-with-8ff)
+- [Study Notes 2.2.7: Managing Schedules and Backfills with BigQuery in Kestra](https://dev.to/pizofreude/study-notes-227-managing-schedules-and-backfills-with-bigquery-in-kestra-1hl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
