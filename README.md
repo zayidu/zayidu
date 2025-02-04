@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Pointer&lpar;java&rpar;;](https://dev.to/vasanthvnr_31/two-pointerjava-2b6c)
-- [[Boost]](https://dev.to/gkampitakis/-4c5)
-- [Batch Processing Large Datasets in Node.js Without Running Out of Memory](https://dev.to/rabindratamang/batch-processing-large-datasets-in-nodejs-without-running-out-of-memory-9a1)
-- [Remove local branches that are no longer in the origin](https://dev.to/dsteixeira/remove-local-branches-that-are-no-longer-in-the-origin-cdd)
-- [Análise Estática de Código com AST](https://dev.to/scovl/analise-estatica-de-codigo-com-ast-4co0)
+- [Radio](https://dev.to/preetha_vaishnavi_2b82358/radio-2gp7)
+- [Loader](https://dev.to/preetha_vaishnavi_2b82358/loader-3fmg)
+- [Button](https://dev.to/preetha_vaishnavi_2b82358/button-4h5p)
+- [🎙️ The future of Test Data Provisioning: Why automation is essential](https://dev.to/gigantics/the-future-of-test-data-provisioning-why-automation-is-essential-4fja)
+- [Radio Button](https://dev.to/preetha_vaishnavi_2b82358/radio-button-1enp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
