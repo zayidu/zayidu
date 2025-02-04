@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL Weekly #2](https://dev.to/uskdev/til-weekly-2-6pb)
-- [Unlocking the Power of NoSQL: Understanding HBase](https://dev.to/surajvatsya/unlocking-the-power-of-nosql-understanding-hbase-1n8j)
-- [Overcoming Real-world Challenges While Deploying an AWS Translation Project:](https://dev.to/philipessel/overcoming-real-world-challenges-while-deploying-an-aws-translation-project-4b4i)
-- [Integrating Elastic APM with Kubernetes Clusters for Comprehensive Monitoring](https://dev.to/devaaai/integrating-elastic-apm-with-kubernetes-clusters-for-comprehensive-monitoring-2ea6)
-- [JavaScript Jobs for Beginners: Where to Start?](https://dev.to/chetandevx/javascript-jobs-for-beginners-where-to-start-17k)
+- [Criando um Validador Customizado no Spring usando `Validator`](https://dev.to/uiratan/criando-um-validador-customizado-no-spring-usando-validator-46kd)
+- [Cloud-Native Monitoring Tools](https://dev.to/574n13y/cloud-native-monitoring-tools-58kg)
+- [Building a Domain Analysis Tool: Memoirs of a Frontend Engineer](https://dev.to/jinlo/building-a-domain-analysis-tool-memoirs-of-a-frontend-engineer-20j1)
+- [HTML whitespace control](https://dev.to/stolzenhain/html-whitespace-control-36b5)
+- [From Passion to Profession: My Front-End Development Journey with HNG](https://dev.to/abahlucky01/from-passion-to-profession-my-front-end-development-journey-with-hng-54go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
