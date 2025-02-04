@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Day - 33 Exception Handling](https://dev.to/guru_prasanna_01/python-day-33-exception-handling-3ejj)
-- [Building Your Own AI Model with Open-Source Tools: A Step-by-Step Technical Guide](https://dev.to/hamzakhan/building-your-own-ai-model-with-open-source-tools-a-step-by-step-technical-guide-2c67)
-- [Django’s security policies](https://dev.to/vinay_reddysankalamaddi_/djangos-security-policies-11ol)
-- [Need help - Build Failure: java.util.zip.ZipException: zip END header not found in React Native Project](https://dev.to/yash_chavan_1ec5343ffebe2/need-help-build-failure-javautilzipzipexception-zip-end-header-not-found-in-react-native-2e67)
-- [AI Agent Development: Opportunities in the Metaverse and Beyond](https://dev.to/daniel_vinithm_d8d1674fd/ai-agent-development-opportunities-in-the-metaverse-and-beyond-3ajj)
+- [From C# to Kotlin: A Deep Dive into Blackbird’s Expanded Language Support](https://dev.to/getambassador2024/from-c-to-kotlin-a-deep-dive-into-blackbirds-expanded-language-support-8j6)
+- [Different Ways to fetch data in Reactjs](https://dev.to/sheraz4194/different-ways-to-fetch-data-in-reactjs-4221)
+- [Free vs. Premium WordPress Plugins: Which One Should You Choose?](https://dev.to/web_cart/free-vs-premium-wordpress-plugins-which-one-should-you-choose-3km2)
+- [Stop Fighting RTL Layouts: Use CSS Logical Properties for Better Design](https://dev.to/web_dev-usman/stop-fighting-rtl-layouts-use-css-logical-properties-for-better-design-5g3m)
+- [How to Write a Resume for Agricultural Engineers That Stands Out](https://dev.to/melissabutler/how-to-write-a-resume-for-agricultural-engineers-that-stands-out-cf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
