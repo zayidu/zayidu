@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No, Wall Street, DeepSeek is not &quot;far superior&quot;](https://dev.to/alexjitbit/no-wall-street-deepseek-is-not-far-superior-51c7)
-- [How to Run DeepSeek R1 Locally on Your PC](https://dev.to/chemenggcalc/how-to-run-deepseek-r1-locally-on-your-pc-162i)
-- [Going Global with Serverless: Multi-Region Architectures on AWS](https://dev.to/aws-builders/going-global-with-serverless-multi-region-architectures-on-aws-2k8n)
-- [Building Robust Serverless Workflows with AWS Step Functions: Long-Running Order Fulfillment with Retries and Human Approvals](https://dev.to/sudoconsultants/building-robust-serverless-workflows-with-aws-step-functions-long-running-order-fulfillment-with-8ff)
-- [Study Notes 2.2.7: Managing Schedules and Backfills with BigQuery in Kestra](https://dev.to/pizofreude/study-notes-227-managing-schedules-and-backfills-with-bigquery-in-kestra-1hl9)
+- [NodeJS WebForms Class Update to WebFormsJS 1.6](https://dev.to/elanatframework/nodejs-webforms-class-update-to-webformsjs-16-2h9k)
+- [GitHub Webhook CI/CD: Step-by-step guide](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g)
+- [ECS Fargate Persistent Storage: EFS Access Points vs. Lambda Workarounds](https://dev.to/aws-builders/ecs-fargate-persistent-storage-efs-access-points-vs-lambda-workarounds-2g1e)
+- [High speed data loading in Postgres](https://dev.to/mcadariu/high-speed-data-loading-in-postgres-3635)
+- [AWS Certified Machine Learning Engineer - Associate &lpar;MLA-C01&rpar;受験体験記](https://dev.to/aws-builders/aws-certified-machine-learning-engineer-associate-mla-c01shou-yan-ti-yan-ji-3157)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
