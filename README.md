@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlined MTG: Easy Deck Archetypes for New Players](https://dev.to/shirtsong7/streamlined-mtg-easy-deck-archetypes-for-new-players-45di)
-- [Hearsay: &quot;Talkative Web Components&quot;](https://dev.to/paxfeline/hearsay-talkative-web-components-400o)
-- [Envoy Gateway 1.3.0 – Overview of the New “Rate Limiting with Cost” Feature](https://dev.to/reoring/envoy-gateway-130-overview-of-the-new-rate-limiting-with-cost-feature-252j)
-- [MTG Deck Archetypes 101: A Guide for New Players](https://dev.to/magicthegame523/mtg-deck-archetypes-101-a-guide-for-new-players-lc3)
-- [[Boost]](https://dev.to/balasubramani_manoj/-4h82)
+- [Start 2025 with this! 🚀🤓](https://dev.to/wahabshah23/start-2025-with-this-3hcg)
+- [Lua scripting in mpv video player](https://dev.to/sledov/lua-scripting-in-mpv-video-player-4fdh)
+- [Understanding Azure Resource Groups and How to Create One](https://dev.to/kelechiedeh/understanding-azure-resource-groups-and-how-to-create-one-4fae)
+- [React Props Explained Simply: Passing Data Between Components](https://dev.to/marveeeen/react-props-explained-simply-passing-data-between-components-1ai0)
+- [My Journey Learning CSS - Types-Inline, Internal, External 🚀 &lpar;Day-7&rpar;](https://dev.to/angshu/my-journey-learning-css-types-inline-internal-external-day-7-8n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
