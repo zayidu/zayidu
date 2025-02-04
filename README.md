@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Микрофронтенды: мой опыт и взгляд на архитектуру будущего фронтенда](https://dev.to/sundaycoding/mikrofrontiendy-moi-opyt-i-vzghliad-na-arkhitiekturu-budushchiegho-frontienda-384f)
-- [Putting Angular Fire Firestore library to use - II](https://dev.to/ayyash/putting-angular-fire-firestore-library-to-use-ii-34im)
-- [Timers](https://dev.to/jyotich15/timers-43lp)
-- [Docker Commands Cheat Sheet](https://dev.to/muhammadsufiyanbaig/docker-commands-cheat-sheet-5cjp)
-- [DeFi Fatigue: Are we stuck in a loop? The current and devastating state of DeFi &lpar;2025&rpar;](https://dev.to/maxo1st/defi-fatigue-are-we-stuck-in-a-loop-the-current-and-devastating-state-of-defi-2025-7dm)
+- [Understanding Stock Trends: Insights from 10 Years of Data](https://dev.to/beretests/understanding-stock-trends-insights-from-10-years-of-data-51hj)
+- [WSL2 tips and fixes](https://dev.to/zaphoddont/wsl2-tips-and-fixes-3hk9)
+- [C# da Metod](https://dev.to/sanjar777/c-da-metod-1g77)
+- [Event Loop](https://dev.to/jyotich15/event-loop-49he)
+- [Flutter App, Simple animation with Hooks 🪝](https://dev.to/saad4software/flutter-app-simple-animation-with-hooks-85m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
