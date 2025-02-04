@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vagrant Descomplicado: Um Guia Prático](https://dev.to/lorenzouriel/vagrant-descomplicado-um-guia-pratico-41bi)
-- [Software Engineering in the Modern Era: How Genqe.ai is Revolutionizing Development Practices](https://dev.to/anil_csimplifyit_905c/software-engineering-in-the-modern-era-how-genqeai-is-revolutionizing-development-practices-5h38)
-- [[Boost]](https://dev.to/faizan_mahermaher_e9250e/-268g)
-- [Entendendo o Algoritmo Breadth-first search &lpar;BFS&rpar;](https://dev.to/lucas_oliveira_b978d8c21c/entendendo-o-algoritmo-breadth-first-search-bfs-43h8)
-- [Attack Surface Mapping: A Comprehensive Guide](https://dev.to/orhan_yildirim_5d88bf1e81/attack-surface-mapping-a-comprehensive-guide-2d5i)
+- [Streamlined MTG: Easy Deck Archetypes for New Players](https://dev.to/shirtsong7/streamlined-mtg-easy-deck-archetypes-for-new-players-45di)
+- [Hearsay: &quot;Talkative Web Components&quot;](https://dev.to/paxfeline/hearsay-talkative-web-components-400o)
+- [Envoy Gateway 1.3.0 – Overview of the New “Rate Limiting with Cost” Feature](https://dev.to/reoring/envoy-gateway-130-overview-of-the-new-rate-limiting-with-cost-feature-252j)
+- [MTG Deck Archetypes 101: A Guide for New Players](https://dev.to/magicthegame523/mtg-deck-archetypes-101-a-guide-for-new-players-lc3)
+- [[Boost]](https://dev.to/balasubramani_manoj/-4h82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
