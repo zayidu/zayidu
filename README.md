@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Stock Trends: Insights from 10 Years of Data](https://dev.to/beretests/understanding-stock-trends-insights-from-10-years-of-data-51hj)
-- [WSL2 tips and fixes](https://dev.to/zaphoddont/wsl2-tips-and-fixes-3hk9)
-- [C# da Metod](https://dev.to/sanjar777/c-da-metod-1g77)
-- [Event Loop](https://dev.to/jyotich15/event-loop-49he)
-- [Flutter App, Simple animation with Hooks 🪝](https://dev.to/saad4software/flutter-app-simple-animation-with-hooks-85m)
+- [🚀 Your Daily Crypto Job Digest For 04 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-february-4opi)
+- [[Boost]](https://dev.to/felix_castillo_88bc37a634/-a05)
+- [[Boost]](https://dev.to/norman_luke_2ee1689c93ffd/-aah)
+- [[Boost]](https://dev.to/calebmakafui/-1h5c)
+- [Understanding Azure Storage: A Comprehensive Guide](https://dev.to/pravinjadhav/understanding-azure-storage-a-comprehensive-guide-alb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
