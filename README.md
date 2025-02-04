@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From C# to Kotlin: A Deep Dive into Blackbird’s Expanded Language Support](https://dev.to/getambassador2024/from-c-to-kotlin-a-deep-dive-into-blackbirds-expanded-language-support-8j6)
-- [Different Ways to fetch data in Reactjs](https://dev.to/sheraz4194/different-ways-to-fetch-data-in-reactjs-4221)
-- [Free vs. Premium WordPress Plugins: Which One Should You Choose?](https://dev.to/web_cart/free-vs-premium-wordpress-plugins-which-one-should-you-choose-3km2)
-- [Stop Fighting RTL Layouts: Use CSS Logical Properties for Better Design](https://dev.to/web_dev-usman/stop-fighting-rtl-layouts-use-css-logical-properties-for-better-design-5g3m)
-- [How to Write a Resume for Agricultural Engineers That Stands Out](https://dev.to/melissabutler/how-to-write-a-resume-for-agricultural-engineers-that-stands-out-cf0)
+- [Status Pages vs Service Dashboards: Key Differences Explained](https://dev.to/statuspal/status-pages-vs-service-dashboards-key-differences-explained-20j2)
+- [Hello Dev Community! I’m Asadullah Kissana 👋](https://dev.to/asad_kissana_sqa_eng/hello-dev-community-im-asadullah-kissana-3gfh)
+- [Front-End Development Trends in 2025.](https://dev.to/devmercy/front-end-development-trends-in-2025-2oea)
+- [Coders Digest II: Rare and Interesting Resource Collection](https://dev.to/makalin/coders-digest-ii-rare-and-interesting-resource-collection-19a2)
+- [🌟 Vue 3 UI Libraries: 6 Most Popular Picks for 2025 🚀](https://dev.to/ansonch/vue-3-ui-libraries-6-most-popular-picks-for-2025-2m7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
