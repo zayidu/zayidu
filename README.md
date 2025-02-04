@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Status Pages vs Service Dashboards: Key Differences Explained](https://dev.to/statuspal/status-pages-vs-service-dashboards-key-differences-explained-20j2)
-- [Hello Dev Community! I’m Asadullah Kissana 👋](https://dev.to/asad_kissana_sqa_eng/hello-dev-community-im-asadullah-kissana-3gfh)
-- [Front-End Development Trends in 2025.](https://dev.to/devmercy/front-end-development-trends-in-2025-2oea)
-- [Coders Digest II: Rare and Interesting Resource Collection](https://dev.to/makalin/coders-digest-ii-rare-and-interesting-resource-collection-19a2)
-- [🌟 Vue 3 UI Libraries: 6 Most Popular Picks for 2025 🚀](https://dev.to/ansonch/vue-3-ui-libraries-6-most-popular-picks-for-2025-2m7l)
+- [🚀 Master Flutter CI/CD: Automate App Deployment with GitHub Actions](https://dev.to/ssoad/master-flutter-cicd-automate-app-deployment-with-github-actions-4fle)
+- [How to configure Lombok, Delombok with Xtext?](https://dev.to/sash_hey_daddffd9da2778a6/how-to-configure-lombok-delombok-with-xtext-188e)
+- [Salla Developers Community](https://dev.to/salladev/salla-developers-community-2ijc)
+- [Buffer Overflow in Laravel: Causes, Prevention &amp; Fixes](https://dev.to/pentest_testing_corp/buffer-overflow-in-laravel-causes-prevention-fixes-30e0)
+- [Prompt Engineering? You&#39;re doing it wrong.](https://dev.to/dror_wayne_fine/prompt-engineering-youre-doing-it-wrong-177b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
