@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4+ Best Ways- Open Computer Management as Administrator on Windows 11!](https://dev.to/winsides/4-best-ways-open-computer-management-as-administrator-on-windows-11-27pn)
-- [I retired and taught myself how to code](https://dev.to/kilou/i-retired-and-taught-myself-how-to-code-3pjj)
-- [Understanding Total Taxable Income](https://dev.to/susheel_kumar/understanding-total-taxable-income-4cd4)
-- [DeepSeek, Efficiency, and Big Tech’s Response](https://dev.to/pinei/deepseek-efficiency-and-big-techs-response-3ga9)
-- [Key Points on Section 87A of the Income Tax Act](https://dev.to/susheel_kumar/key-points-on-section-87a-of-the-income-tax-act-4ami)
+- [Python Day - 33 Exception Handling](https://dev.to/guru_prasanna_01/python-day-33-exception-handling-3ejj)
+- [Building Your Own AI Model with Open-Source Tools: A Step-by-Step Technical Guide](https://dev.to/hamzakhan/building-your-own-ai-model-with-open-source-tools-a-step-by-step-technical-guide-2c67)
+- [Django’s security policies](https://dev.to/vinay_reddysankalamaddi_/djangos-security-policies-11ol)
+- [Need help - Build Failure: java.util.zip.ZipException: zip END header not found in React Native Project](https://dev.to/yash_chavan_1ec5343ffebe2/need-help-build-failure-javautilzipzipexception-zip-end-header-not-found-in-react-native-2e67)
+- [AI Agent Development: Opportunities in the Metaverse and Beyond](https://dev.to/daniel_vinithm_d8d1674fd/ai-agent-development-opportunities-in-the-metaverse-and-beyond-3ajj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
