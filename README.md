@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 04 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-february-4opi)
-- [[Boost]](https://dev.to/felix_castillo_88bc37a634/-a05)
-- [[Boost]](https://dev.to/norman_luke_2ee1689c93ffd/-aah)
-- [[Boost]](https://dev.to/calebmakafui/-1h5c)
-- [Understanding Azure Storage: A Comprehensive Guide](https://dev.to/pravinjadhav/understanding-azure-storage-a-comprehensive-guide-alb)
+- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
+- [Flutter vs. React Native: The Ultimate Developer’s Guide for 2025](https://dev.to/fabbuilder/flutter-vs-react-native-the-ultimate-developers-guide-for-2025-228m)
+- [Now Anyone Can Code: How AI Agents Can Build Your Whole App](https://dev.to/jetthoughts/now-anyone-can-code-how-ai-agents-can-build-your-whole-app-3146)
+- [Mastering AWS DevOps: A Complete Guide for Beginners](https://dev.to/shaik_muskansultana_f054/mastering-aws-devops-a-complete-guide-for-beginners-5eh9)
+- [Single Responsibility Principle: O Primeiro Princípio do SOLID](https://dev.to/soncastro/single-responsibility-principle-o-primeiro-principio-do-solid-2mg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
