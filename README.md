@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untapped Potential of Blockchain: A World beyond Cryptocurreny](https://dev.to/dfordp/untapped-potential-of-blockchain-a-world-beyond-cryptocurreny-3nm0)
-- [How to implement view transitions in multi-page apps](https://dev.to/logrocket/how-to-implement-view-transitions-in-multi-page-apps-2gek)
-- [The Importance of API Security in Modern Software Integration](https://dev.to/igventurelli/the-importance-of-api-security-in-modern-software-integration-44cj)
-- [VLT: The Future of JavaScript Package Management? A Deep Dive into the Next-Gen npm Alternative](https://dev.to/koushikmaratha/vlt-the-future-of-javascript-package-management-a-deep-dive-into-the-next-gen-npm-alternative-hof)
-- [Looking for Java 7u331 for macOS – Legacy Project Requirement](https://dev.to/adpo/looking-for-java-7u331-for-macos-legacy-project-requirement-25m6)
+- [TIL Weekly #2](https://dev.to/uskdev/til-weekly-2-6pb)
+- [Unlocking the Power of NoSQL: Understanding HBase](https://dev.to/surajvatsya/unlocking-the-power-of-nosql-understanding-hbase-1n8j)
+- [Overcoming Real-world Challenges While Deploying an AWS Translation Project:](https://dev.to/philipessel/overcoming-real-world-challenges-while-deploying-an-aws-translation-project-4b4i)
+- [Integrating Elastic APM with Kubernetes Clusters for Comprehensive Monitoring](https://dev.to/devaaai/integrating-elastic-apm-with-kubernetes-clusters-for-comprehensive-monitoring-2ea6)
+- [JavaScript Jobs for Beginners: Where to Start?](https://dev.to/chetandevx/javascript-jobs-for-beginners-where-to-start-17k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
