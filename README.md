@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Validador Customizado no Spring usando `Validator`](https://dev.to/uiratan/criando-um-validador-customizado-no-spring-usando-validator-46kd)
-- [Cloud-Native Monitoring Tools](https://dev.to/574n13y/cloud-native-monitoring-tools-58kg)
-- [Building a Domain Analysis Tool: Memoirs of a Frontend Engineer](https://dev.to/jinlo/building-a-domain-analysis-tool-memoirs-of-a-frontend-engineer-20j1)
-- [HTML whitespace control](https://dev.to/stolzenhain/html-whitespace-control-36b5)
-- [From Passion to Profession: My Front-End Development Journey with HNG](https://dev.to/abahlucky01/from-passion-to-profession-my-front-end-development-journey-with-hng-54go)
+- [Two Pointer&lpar;java&rpar;;](https://dev.to/vasanthvnr_31/two-pointerjava-2b6c)
+- [[Boost]](https://dev.to/gkampitakis/-4c5)
+- [Batch Processing Large Datasets in Node.js Without Running Out of Memory](https://dev.to/rabindratamang/batch-processing-large-datasets-in-nodejs-without-running-out-of-memory-9a1)
+- [Remove local branches that are no longer in the origin](https://dev.to/dsteixeira/remove-local-branches-that-are-no-longer-in-the-origin-cdd)
+- [Análise Estática de Código com AST](https://dev.to/scovl/analise-estatica-de-codigo-com-ast-4co0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
