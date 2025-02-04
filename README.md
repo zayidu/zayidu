@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS WebForms Class Update to WebFormsJS 1.6](https://dev.to/elanatframework/nodejs-webforms-class-update-to-webformsjs-16-2h9k)
-- [GitHub Webhook CI/CD: Step-by-step guide](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g)
-- [ECS Fargate Persistent Storage: EFS Access Points vs. Lambda Workarounds](https://dev.to/aws-builders/ecs-fargate-persistent-storage-efs-access-points-vs-lambda-workarounds-2g1e)
-- [High speed data loading in Postgres](https://dev.to/mcadariu/high-speed-data-loading-in-postgres-3635)
-- [AWS Certified Machine Learning Engineer - Associate &lpar;MLA-C01&rpar;受験体験記](https://dev.to/aws-builders/aws-certified-machine-learning-engineer-associate-mla-c01shou-yan-ti-yan-ji-3157)
+- [Web-Scrapper-Python](https://dev.to/mayankchawdhari/web-scrapper-python-i4)
+- [𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗶𝗽: 𝗠𝗼𝗻𝗶𝘁𝗼𝗿 𝗮𝗻𝗱 𝗠𝗲𝗮𝘀𝘂𝗿𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 &lpar;Part 3&rpar;](https://dev.to/haythammostafa/-part-3-4j5n)
+- [This is neat](https://dev.to/rjonesy/this-is-neat-1o1j)
+- [Developer diary #25. Communication](https://dev.to/kiolk/developer-diary-25-communication-m1c)
+- [𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗶𝗽: 𝗠𝗼𝗻𝗶𝘁𝗼𝗿 𝗮𝗻𝗱 𝗠𝗲𝗮𝘀𝘂𝗿𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 &lpar;Part 2&rpar;](https://dev.to/haythammostafa/-part-2-2ghn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
