@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Image Generation: The Power of COCONut-PanCap and CaPO Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-coconut-pancap-and-capo-models-4dcj)
-- [How to bundle Sqflite_common_ffi Database file in Windows .exe executable: Flutter Offline Desktop App](https://dev.to/taiwo_divine_8f40cd7c508d/how-to-bundle-sqflitecommonffi-database-file-in-windows-exe-executable-flutter-offline-desktop-3kgl)
-- [Understanding AWS Lambda&lpar;Serverless Functions&rpar;](https://dev.to/gajanan0707/understanding-aws-lambdaserverless-functions-35ge)
-- [Split Words By Separator](https://dev.to/samson_jebaraj/split-words-by-separator-1chl)
-- [Why hosting your own analytics solution has never been so essential? 🤔](https://dev.to/gilles_vauvarin_861cefba1/why-hosting-your-own-analytics-solution-has-never-been-so-essential-1b20)
+- [Fun Hex Navigation](https://dev.to/preetha_vaishnavi_2b82358/fun-hex-navigation-1c7c)
+- [What&#39;s next with the Serverless Framework in 2025?](https://dev.to/aws-heroes/whats-next-with-the-serverless-framework-in-2025-121d)
+- [Lerian no DEV: um novo hub de conteúdo técnico](https://dev.to/lerian/lerian-no-dev-um-novo-hub-de-conteudo-tecnico-19le)
+- [DevOps 101: Part 4](https://dev.to/himanshu_bhatt/devops-101-part-4-3b2e)
+- [115/365 | ¥10M Job Challenge - Will AI Replace Engineers?](https://dev.to/kameken100/115365-y10m-job-challenge-will-ai-replace-engineers-5c2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
