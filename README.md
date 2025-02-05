@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Amazon Location Service Updates - 2025.01](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202501-7ff)
-- [Revolutionizing Lock Screen Experience: How Glance on Motorola is Transforming Real-time Information Access](https://dev.to/adambrooks1231/revolutionizing-lock-screen-experience-how-glance-on-motorola-is-transforming-real-time-19bp)
-- [Remix Tutorial: Building A Simple Contact App With Strapi as Backend](https://dev.to/strapi/remix-tutorial-building-a-simple-contact-app-with-strapi-as-backend-407p)
-- [Matanuska ADR 016 - ECMA-55 Compliance](https://dev.to/jfhbrook/matanuska-adr-016-ecma-55-compliance-250i)
-- [Scraping Google Search Results with Python](https://dev.to/crawlbase/scraping-google-search-results-with-python-4p6)
+- [🚀 Your Daily Crypto Job Digest For 05 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-05-february-45o2)
+- [[Boost]](https://dev.to/c2theg/-2157)
+- [Understanding IAM on AWS](https://dev.to/stack_dev/understanding-iam-on-aws-2g5d)
+- [Best Python IDE: Choosing the Perfect Tool for Your Development Journey](https://dev.to/keploy/best-python-ide-choosing-the-perfect-tool-for-your-development-journey-1a04)
+- [10 Basic Ruby/ RoR Prompts to Test in Your Favorite LLM](https://dev.to/daviducolo/10-basic-ruby-ror-prompts-to-test-in-your-favorite-llm-488p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
