@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Path of Typing Ninja - THOUFIQ](https://dev.to/thoufiqizhar7/the-path-of-typing-ninja-thoufiq-2ghk)
-- [🚀 Create Complete MERN Web App &lpar;OPT verification, JWT Token and more&rpar; 🔥 🌐](https://dev.to/hanzla-baig/create-complete-mern-web-app-opt-verification-jwt-token-and-more-48)
-- [NodeJS Express Setup with Typescript, ESLint, Prettier](https://dev.to/vishal_jagamani/nodejs-express-with-typescript-eslint-prettier-5a58)
-- [State Management in Software Development](https://dev.to/farhatsharifh/state-management-in-software-development-4cli)
-- [Artículo para ver sincronización con API externa](https://dev.to/leonardo_gonzlez_e98d324/articulo-para-ver-sincronizacion-con-api-externa-2ipp)
+- [9 Developer Fixes You Need Right Now &lpar;Seriously&rpar;](https://dev.to/0x2e_tech/9-developer-fixes-you-need-right-now-seriously-2mo)
+- [[Video] 🚀 Real-Time Updates in Payload CMS with Web Sockets!](https://dev.to/aaronksaunders/video-real-time-updates-in-payload-cms-with-web-sockets-34ha)
+- [Trending 50+ Github Repositories for Projects.](https://dev.to/gittech/trending-50-github-repositories-for-projects-mj5)
+- [Redis Connections Bottleneck? Here Are Some Redis Alternatives to Consider](https://dev.to/shrsv/redis-connections-bottleneck-here-are-some-redis-alternatives-to-consider-2dom)
+- [25+ Programming Resources for Every Developers.](https://dev.to/dev-resources/25-programming-resources-for-every-developers-2750)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
