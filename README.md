@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI: The Ultimate Guide to Building High-Performance APIs with Python](https://dev.to/atifwattoo/fastapi-the-ultimate-guide-to-building-high-performance-apis-with-python-9hg)
-- [RAG on Azure OpenAI](https://dev.to/enriqueaguila/r-1d03)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/prince_gee_95d1f956189cb8/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4075)
-- [Komli AI](https://dev.to/tanner_curr_eff6cd362ff39/komli-ai-jd8)
-- [Intro to coding](https://dev.to/darrell_manuel_69dafd0c10/intro-to-coding-59i7)
+- [Zodiac – Seu Mapa Astral em Instantes ✨🔮](https://dev.to/w1redl4in/zodiac-seu-mapa-astral-em-instantes-1d9m)
+- [Next.js Portfolio Site Documentation](https://dev.to/ed_sels/nextjs-portfolio-site-documentation-193b)
+- [Introduction to Algorithms and Pseudocode](https://dev.to/mohbohlahji/introduction-to-algorithms-and-pseudocode-lnj)
+- [Rapyd Protect: Machine Learning That Works For You](https://dev.to/rapyd/rapyd-protect-machine-learning-that-works-for-you-22nb)
+- [Bringing a DeepSeek R1 LangGraph Agent Into The Real World Using CopilotKit](https://dev.to/nathan_tarbert/bringing-a-deepseek-r1-langgraph-agent-into-the-real-world-using-copilotkit-3oia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
