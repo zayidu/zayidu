@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zodiac – Seu Mapa Astral em Instantes ✨🔮](https://dev.to/w1redl4in/zodiac-seu-mapa-astral-em-instantes-1d9m)
-- [Next.js Portfolio Site Documentation](https://dev.to/ed_sels/nextjs-portfolio-site-documentation-193b)
-- [Introduction to Algorithms and Pseudocode](https://dev.to/mohbohlahji/introduction-to-algorithms-and-pseudocode-lnj)
-- [Rapyd Protect: Machine Learning That Works For You](https://dev.to/rapyd/rapyd-protect-machine-learning-that-works-for-you-22nb)
-- [Bringing a DeepSeek R1 LangGraph Agent Into The Real World Using CopilotKit](https://dev.to/nathan_tarbert/bringing-a-deepseek-r1-langgraph-agent-into-the-real-world-using-copilotkit-3oia)
+- [How to Dynamically Recognize Mobile Mode Using Pinia in Nuxt.js](https://dev.to/anisrasoul/how-to-dynamically-recognize-mobile-mode-using-pinia-in-nuxtjs-2jfp)
+- [Measuring Productivity?](https://dev.to/oculus42/measuring-productivity-31a2)
+- [An AI Chatbot with NextJS, Groq and Llama](https://dev.to/mintycyber/an-ai-chatbot-with-nextjs-groq-and-llama-2gc5)
+- [Building SpyClub: A Modern Telegram Mini App with Web3 Features 🚀](https://dev.to/tomtomdu73/building-spyclub-a-modern-telegram-mini-app-with-web3-features-2jlg)
+- [Running sklearn models in Zig](https://dev.to/vinybrasil/running-sklearn-models-in-zig-15h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
