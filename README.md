@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Angular Security Best Practices: Are You Protecting Your App the Right Way?](https://dev.to/dct_technologyprivatelimited/angular-security-best-practices-are-you-protecting-your-app-the-right-way-3877)
-- [Exploring Data Integration and the Evolution of Apache SeaTunnel Architecture](https://dev.to/seatunnel/exploring-data-integration-and-the-evolution-of-apache-seatunnel-architecture-3649)
-- [How to Add Multi-Language Support to Your Matrimony Clone Script](https://dev.to/manavkapoor/how-to-add-multi-language-support-to-your-matrimony-clone-script-5b2k)
-- [How to Add Multi-Language Support to Your Matrimony Clone Script](https://dev.to/manavkapoor/how-to-add-multi-language-support-to-your-matrimony-clone-script-1j9m)
-- [Understanding AWS Serverless: What, Why, and How to Get Started](https://dev.to/vish10/understanding-aws-serverless-what-why-and-how-to-get-started-k3e)
+- [What’s the Most Important Feature for Decentralized AI Platforms?](https://dev.to/neurolov_ai_/whats-the-most-important-feature-for-decentralized-ai-platforms-7e)
+- [Are There “Queries over Trillion-Row Tables in Seconds”? Is “N-Times Faster ThanORACLE”anExaggeration?](https://dev.to/esproc_spl/are-there-queries-over-trillion-row-tables-in-seconds-is-n-times-faster-than-oracle-an-577f)
+- [How to Design an Architecture Building Using 3D CAD Software](https://dev.to/julia970/how-to-design-an-architecture-building-using-3d-cad-software-2k8h)
+- [Increase Agility and Scalability with Headless CMS Solutions](https://dev.to/nakiboddin_saiyad_5de3e06/increase-agility-and-scalability-with-headless-cms-solutions-3en5)
+- [delete GitHub user and rename another GitHub username to it](https://dev.to/shaunthegeek/delete-github-user-and-rename-another-github-username-to-it-22ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
