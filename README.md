@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
-- [Account Email and Password Change using .NET Core Identity](https://dev.to/marian_s/account-email-and-password-change-using-net-core-identity-1kco)
-- [🚀Beginner&#39;s Guide to Deploying Projects on a VPS Server](https://dev.to/mahmud-r-farhan/beginners-guide-to-deploying-projects-on-a-vps-server-26a7)
-- [If a Language Learning Forum Were Like a Coding Forum:](https://dev.to/canro91/if-a-language-learning-forum-were-like-a-coding-forum-3cgp)
-- [Working with FtpWebRequest in C# using WhisperFTPApp](https://dev.to/themysteriousstranger90/working-with-ftpwebrequest-in-c-using-whisperftpapp-e8f)
+- [🔐 Angular Security Best Practices: Are You Protecting Your App the Right Way?](https://dev.to/dct_technologyprivatelimited/angular-security-best-practices-are-you-protecting-your-app-the-right-way-3877)
+- [Exploring Data Integration and the Evolution of Apache SeaTunnel Architecture](https://dev.to/seatunnel/exploring-data-integration-and-the-evolution-of-apache-seatunnel-architecture-3649)
+- [How to Add Multi-Language Support to Your Matrimony Clone Script](https://dev.to/manavkapoor/how-to-add-multi-language-support-to-your-matrimony-clone-script-5b2k)
+- [How to Add Multi-Language Support to Your Matrimony Clone Script](https://dev.to/manavkapoor/how-to-add-multi-language-support-to-your-matrimony-clone-script-1j9m)
+- [Understanding AWS Serverless: What, Why, and How to Get Started](https://dev.to/vish10/understanding-aws-serverless-what-why-and-how-to-get-started-k3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
