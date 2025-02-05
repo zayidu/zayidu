@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of AI on Cryptocurrency: The Most Innovative Products 🚀](https://dev.to/cryptosandy/the-impact-of-ai-on-cryptocurrency-the-most-innovative-products-121b)
-- [React Query: как я упростил управление серверным состоянием в React](https://dev.to/sundaycoding/react-query-kak-ia-uprostil-upravlieniie-sierviernym-sostoianiiem-v-react-4m9o)
-- [IaC Deep Dive: CloudFormation vs Terraform](https://dev.to/prakash_rao/iac-deep-dive-cloudformation-vs-terraform-3bli)
-- [Master Rust FFI: Building Robust Cross-Language Systems | A Complete Guide](https://dev.to/aaravjoshi/master-rust-ffi-building-robust-cross-language-systems-a-complete-guide-4dpo)
-- [A deep dive into Dynamo&#39;s architecture and scale](https://dev.to/bro3886/a-deep-dive-into-dynamos-architecture-and-scale-51ma)
+- [How AI is Being Used to Predict Diseases from Genomic Data](https://dev.to/biopractify_team_69ab4279/how-ai-is-being-used-to-predict-diseases-from-genomic-data-3998)
+- [9 Cutting-Edge Developer Tools to Speed Up Your Coding 🚀](https://dev.to/cryptosandy/9-cutting-edge-developer-tools-to-speed-up-your-coding-12ko)
+- [Maximize Your CRM Efficiency with Flowtrail AI Report Agent](https://dev.to/flowtrail-admin/maximize-your-crm-efficiency-with-flowtrail-ai-report-agent-390p)
+- [Cleaning Up Stale Branches to Speed Up CI/CD and Reduce GitHub API Load](https://dev.to/abusithik/cleaning-up-stale-branches-to-speed-up-cicd-and-reduce-github-api-load-1de5)
+- [Insomnia vs Bruno vs Requestly: Which One Is Best for You?](https://dev.to/requestly/insomnia-vs-bruno-vs-requestly-which-one-is-best-for-you-11ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
