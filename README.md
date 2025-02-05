@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 05 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-05-february-45o2)
-- [[Boost]](https://dev.to/c2theg/-2157)
-- [Understanding IAM on AWS](https://dev.to/stack_dev/understanding-iam-on-aws-2g5d)
-- [Best Python IDE: Choosing the Perfect Tool for Your Development Journey](https://dev.to/keploy/best-python-ide-choosing-the-perfect-tool-for-your-development-journey-1a04)
-- [10 Basic Ruby/ RoR Prompts to Test in Your Favorite LLM](https://dev.to/daviducolo/10-basic-ruby-ror-prompts-to-test-in-your-favorite-llm-488p)
+- [Top 20 Free AI Tools list In 2025](https://dev.to/upcomingsai/top-20-free-ai-tools-list-in-2025-14ho)
+- [Welcome to DevOps Stage 0](https://dev.to/udoka_onwuagba_acbc00f473/nginx-server-configuration-procedure-4km0)
+- [Setting up Bee-Stack on MacOS Intel](https://dev.to/aairom/setting-up-bee-stack-on-macos-intel-1ch8)
+- [🎮 Master Minimalism with Squid Game + Why Sublime Text in 2025](https://dev.to/adam/master-minimalism-with-squid-game-why-sublime-text-in-2025-1m98)
+- [How Businesses Can Leverage ChatGPT for Growth](https://dev.to/daniel_vinithm_d8d1674fd/how-businesses-can-leverage-chatgpt-for-growth-2dp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
