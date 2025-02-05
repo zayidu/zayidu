@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web-Scrapper-Python](https://dev.to/mayankchawdhari/web-scrapper-python-i4)
-- [𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗶𝗽: 𝗠𝗼𝗻𝗶𝘁𝗼𝗿 𝗮𝗻𝗱 𝗠𝗲𝗮𝘀𝘂𝗿𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 &lpar;Part 3&rpar;](https://dev.to/haythammostafa/-part-3-4j5n)
-- [This is neat](https://dev.to/rjonesy/this-is-neat-1o1j)
-- [Developer diary #25. Communication](https://dev.to/kiolk/developer-diary-25-communication-m1c)
-- [𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗶𝗽: 𝗠𝗼𝗻𝗶𝘁𝗼𝗿 𝗮𝗻𝗱 𝗠𝗲𝗮𝘀𝘂𝗿𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 &lpar;Part 2&rpar;](https://dev.to/haythammostafa/-part-2-2ghn)
+- [Hands-On Amazon Q Developer Latest Features - /dev, /review, /doc, /test, /transform](https://dev.to/aws-builders/hands-on-amazon-q-developer-latest-features-dev-review-doc-test-transform-1m9l)
+- [Tecnología y Seguridad: El Rol de los Sistemas Biométricos y la IA en la Video vigilancia](https://dev.to/j0rgear/tecnologia-y-seguridad-el-rol-de-los-sistemas-biometricos-y-la-ia-en-la-video-vigilancia-bk8)
+- [Sample Super Store Analysis Using Python &amp; Pandas](https://dev.to/gerryleonugroho/sample-super-store-analysis-using-python-pandas-g1c)
+- [Azure: Launching and Connecting to a Windows 11 Virtual Machine](https://dev.to/johnogbonna/azure-launching-and-connecting-to-a-windows-11-virtual-machine-5ac3)
+- [Stream multiple responses in the Resource API](https://dev.to/railsstudent/stream-multiple-responses-in-the-resource-api-1eld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
