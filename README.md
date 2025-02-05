@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the Most Important Feature for Decentralized AI Platforms?](https://dev.to/neurolov_ai_/whats-the-most-important-feature-for-decentralized-ai-platforms-7e)
-- [Are There “Queries over Trillion-Row Tables in Seconds”? Is “N-Times Faster ThanORACLE”anExaggeration?](https://dev.to/esproc_spl/are-there-queries-over-trillion-row-tables-in-seconds-is-n-times-faster-than-oracle-an-577f)
-- [How to Design an Architecture Building Using 3D CAD Software](https://dev.to/julia970/how-to-design-an-architecture-building-using-3d-cad-software-2k8h)
-- [Increase Agility and Scalability with Headless CMS Solutions](https://dev.to/nakiboddin_saiyad_5de3e06/increase-agility-and-scalability-with-headless-cms-solutions-3en5)
-- [delete GitHub user and rename another GitHub username to it](https://dev.to/shaunthegeek/delete-github-user-and-rename-another-github-username-to-it-22ol)
+- [&quot;Boosting AI Resilience: Defending Against Overthink Attacks on LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-ai-resilience-defending-against-overthink-attacks-on-llms-3fgc)
+- [Gen AI Learnings : Hallucinations and your options](https://dev.to/kumartalkstech/gen-ai-learning-hallucinations-and-your-options-5gfg)
+- [The Value of Web Scraping in Data Acquisition](https://dev.to/swiftproxy_residential/the-value-of-web-scraping-in-data-acquisition-27ii)
+- [Resolve &#39;IBM437&#39; is not a supported encoding name EPPlus](https://dev.to/chuongmep/resolve-ibm437-is-not-a-supported-encoding-name-epplus-36bi)
+- [Hello Dev.to, I’m Here to Build &amp; Learn!](https://dev.to/mantle_bearer/hello-devto-im-here-to-build-learn-3gg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
