@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to 🤖 Qwen: Your Friendly AI Assistant from Alibaba Cloud🔥 🌐](https://dev.to/hanzla-baig/the-ultimate-guide-to-qwen-your-friendly-ai-assistant-from-alibaba-cloud-8n5)
-- [Understanding Objects in JavaScript](https://dev.to/ayako_yk/understanding-objects-in-javascript-10h9)
-- [Revolutionize Your Website with CSS3: The Ultimate Guide for Developers](https://dev.to/bkthemes/revolutionize-your-website-with-css3-the-ultimate-guide-for-developers-4ijf)
-- [Starting my Back-end Journey &lpar;1/?&rpar;](https://dev.to/larissa_dantier/starting-my-back-end-journey-1-367n)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/towbie/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-52k2)
+- [[Algorithm] 151. Reverse Words in a String](https://dev.to/jihyunj/algorithm-151-reverse-words-in-a-string-5com)
+- [كيف اكتشفت اكثر من ٤٥٠ ثغرة](https://dev.to/ali_essam_40774f25f0f4182/kyf-ktshft-kthr-mn-450-thgr-24gm)
+- [Python’s Popularity in AI and Data Science](https://dev.to/alfred_ferrari_4359c13919/pythons-popularity-in-ai-and-data-science-o3i)
+- [Beyond the Program: The Three Layers of Computer Abstraction and the Underlying Logic of Performance Optimization](https://dev.to/zzhihao/beyond-the-program-the-three-layers-of-computer-abstraction-and-the-underlying-logic-of-2ge4)
+- [Page Transactions and Page Object Model](https://dev.to/douglasdcm/page-transactions-and-page-object-model-2pdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
