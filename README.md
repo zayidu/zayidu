@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git and GitHub: A Comprehensive Guide - Cheatsheet](https://dev.to/myogeshchavan97/mastering-git-and-github-a-comprehensive-guide-cheatsheet-1gm1)
-- [Schema Changes Are a Blind Spot](https://dev.to/metis/schema-changes-are-a-blind-spot-jji)
-- [Closure in JavaScript](https://dev.to/jyotich15/closure-in-javascript-1ako)
-- [Remove the incorrect submodule addition](https://dev.to/msnmongare/remove-the-incorrect-submodule-addition-1djn)
-- [AI and Twitch: A New Era for Streamers and Advertisers](https://dev.to/entyx/ai-and-twitch-a-new-era-for-streamers-and-advertisers-3cjh)
+- [The Impact of AI on Cryptocurrency: The Most Innovative Products 🚀](https://dev.to/cryptosandy/the-impact-of-ai-on-cryptocurrency-the-most-innovative-products-121b)
+- [React Query: как я упростил управление серверным состоянием в React](https://dev.to/sundaycoding/react-query-kak-ia-uprostil-upravlieniie-sierviernym-sostoianiiem-v-react-4m9o)
+- [IaC Deep Dive: CloudFormation vs Terraform](https://dev.to/prakash_rao/iac-deep-dive-cloudformation-vs-terraform-3bli)
+- [Master Rust FFI: Building Robust Cross-Language Systems | A Complete Guide](https://dev.to/aaravjoshi/master-rust-ffi-building-robust-cross-language-systems-a-complete-guide-4dpo)
+- [A deep dive into Dynamo&#39;s architecture and scale](https://dev.to/bro3886/a-deep-dive-into-dynamos-architecture-and-scale-51ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
