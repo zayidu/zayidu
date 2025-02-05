@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun Hex Navigation](https://dev.to/preetha_vaishnavi_2b82358/fun-hex-navigation-1c7c)
-- [What&#39;s next with the Serverless Framework in 2025?](https://dev.to/aws-heroes/whats-next-with-the-serverless-framework-in-2025-121d)
-- [Lerian no DEV: um novo hub de conteúdo técnico](https://dev.to/lerian/lerian-no-dev-um-novo-hub-de-conteudo-tecnico-19le)
-- [DevOps 101: Part 4](https://dev.to/himanshu_bhatt/devops-101-part-4-3b2e)
-- [115/365 | ¥10M Job Challenge - Will AI Replace Engineers?](https://dev.to/kameken100/115365-y10m-job-challenge-will-ai-replace-engineers-5c2b)
+- [The Path of Typing Ninja - THOUFIQ](https://dev.to/thoufiqizhar7/the-path-of-typing-ninja-thoufiq-2ghk)
+- [🚀 Create Complete MERN Web App &lpar;OPT verification, JWT Token and more&rpar; 🔥 🌐](https://dev.to/hanzla-baig/create-complete-mern-web-app-opt-verification-jwt-token-and-more-48)
+- [NodeJS Express Setup with Typescript, ESLint, Prettier](https://dev.to/vishal_jagamani/nodejs-express-with-typescript-eslint-prettier-5a58)
+- [State Management in Software Development](https://dev.to/farhatsharifh/state-management-in-software-development-4cli)
+- [Artículo para ver sincronización con API externa](https://dev.to/leonardo_gonzlez_e98d324/articulo-para-ver-sincronizacion-con-api-externa-2ipp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
