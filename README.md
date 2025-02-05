@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Highest Paying Cybersecurity Certifications in 2025](https://dev.to/rohan_jee_085655230/highest-paying-cybersecurity-certifications-in-2025-448f)
-- [Kodda: A Code Snippet Manager for Developers 🚀](https://dev.to/k_preslav/kodda-a-code-snippet-manager-for-developers-4ij5)
-- [Explain to me how to nix and Haskell properly.](https://dev.to/estebanmarin/explain-to-me-how-to-nix-and-haskell-properly-52l1)
-- [[Boost]](https://dev.to/james_orlando_1bc1ff27ecb/-25k0)
-- [Why Cloudways is My Go-To Platform for Effortless Cloud Hosting.](https://dev.to/james_orlando_1bc1ff27ecb/why-cloudways-is-my-go-to-platform-for-effortless-cloud-hosting-2jna)
+- [FastAPI: The Ultimate Guide to Building High-Performance APIs with Python](https://dev.to/atifwattoo/fastapi-the-ultimate-guide-to-building-high-performance-apis-with-python-9hg)
+- [RAG on Azure OpenAI](https://dev.to/enriqueaguila/r-1d03)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/prince_gee_95d1f956189cb8/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4075)
+- [Komli AI](https://dev.to/tanner_curr_eff6cd362ff39/komli-ai-jd8)
+- [Intro to coding](https://dev.to/darrell_manuel_69dafd0c10/intro-to-coding-59i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
