@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Free AI Tools list In 2025](https://dev.to/upcomingsai/top-20-free-ai-tools-list-in-2025-14ho)
-- [Welcome to DevOps Stage 0](https://dev.to/udoka_onwuagba_acbc00f473/nginx-server-configuration-procedure-4km0)
-- [Setting up Bee-Stack on MacOS Intel](https://dev.to/aairom/setting-up-bee-stack-on-macos-intel-1ch8)
-- [🎮 Master Minimalism with Squid Game + Why Sublime Text in 2025](https://dev.to/adam/master-minimalism-with-squid-game-why-sublime-text-in-2025-1m98)
-- [How Businesses Can Leverage ChatGPT for Growth](https://dev.to/daniel_vinithm_d8d1674fd/how-businesses-can-leverage-chatgpt-for-growth-2dp9)
+- [DevOps Unlocked: The Ultimate Guide to Mastering Productivity with the PATH-C Framework](https://dev.to/devops4mecode/devops-unlocked-the-ultimate-guide-to-mastering-productivity-with-the-path-c-framework-n25)
+- [Understanding VAST and How to Integrate It with Your Streaming Service](https://dev.to/rabindratamang/understanding-vast-and-how-to-integrate-it-with-your-streaming-service-4906)
+- [Trending Programming](https://dev.to/joacod/trending-programming-3ndc)
+- [Learning DevOps 05/02](https://dev.to/ashray_sam/learning-devops-0502-3dcd)
+- [Run LLMs locally with Ollama on macOS for Developers](https://dev.to/danielbayerlein/run-llms-locally-with-ollama-on-macos-for-developers-5emb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
