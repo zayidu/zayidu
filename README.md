@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Developer Fixes You Need Right Now &lpar;Seriously&rpar;](https://dev.to/0x2e_tech/9-developer-fixes-you-need-right-now-seriously-2mo)
-- [[Video] 🚀 Real-Time Updates in Payload CMS with Web Sockets!](https://dev.to/aaronksaunders/video-real-time-updates-in-payload-cms-with-web-sockets-34ha)
-- [Trending 50+ Github Repositories for Projects.](https://dev.to/gittech/trending-50-github-repositories-for-projects-mj5)
-- [Redis Connections Bottleneck? Here Are Some Redis Alternatives to Consider](https://dev.to/shrsv/redis-connections-bottleneck-here-are-some-redis-alternatives-to-consider-2dom)
-- [25+ Programming Resources for Every Developers.](https://dev.to/dev-resources/25-programming-resources-for-every-developers-2750)
+- [Highest Paying Cybersecurity Certifications in 2025](https://dev.to/rohan_jee_085655230/highest-paying-cybersecurity-certifications-in-2025-448f)
+- [Kodda: A Code Snippet Manager for Developers 🚀](https://dev.to/k_preslav/kodda-a-code-snippet-manager-for-developers-4ij5)
+- [Explain to me how to nix and Haskell properly.](https://dev.to/estebanmarin/explain-to-me-how-to-nix-and-haskell-properly-52l1)
+- [[Boost]](https://dev.to/james_orlando_1bc1ff27ecb/-25k0)
+- [Why Cloudways is My Go-To Platform for Effortless Cloud Hosting.](https://dev.to/james_orlando_1bc1ff27ecb/why-cloudways-is-my-go-to-platform-for-effortless-cloud-hosting-2jna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
