@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Promise.all&lpar;&rpar;, Promise.any&lpar;&rpar;, and More: Handling Multiple Promises in JavaScript](https://dev.to/rakibrahman/promiseall-promiseany-and-more-handling-multiple-promises-in-javascript-32m5)
-- [Laravel 11 Vue.js 3 CRUD Application with Composition API](https://dev.to/robin-ivi/laravel-11-vuejs-3-crud-application-with-composition-api-26jj)
-- [COLOR GAME](https://dev.to/kvngdav3d/color-game-22k6)
-- [How to Set Up Multiple GitHub Accounts with SSH Keys on macOS or Windows](https://dev.to/perumal_s_6c3edb35a8b2242/how-to-set-up-multiple-github-accounts-with-ssh-keys-on-macos-or-windows-1ca3)
-- [Robot Radio Button](https://dev.to/preetha_vaishnavi_2b82358/robot-radio-button-5die)
+- [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
+- [Account Email and Password Change using .NET Core Identity](https://dev.to/marian_s/account-email-and-password-change-using-net-core-identity-1kco)
+- [🚀Beginner&#39;s Guide to Deploying Projects on a VPS Server](https://dev.to/mahmud-r-farhan/beginners-guide-to-deploying-projects-on-a-vps-server-26a7)
+- [If a Language Learning Forum Were Like a Coding Forum:](https://dev.to/canro91/if-a-language-learning-forum-were-like-a-coding-forum-3cgp)
+- [Working with FtpWebRequest in C# using WhisperFTPApp](https://dev.to/themysteriousstranger90/working-with-ftpwebrequest-in-c-using-whisperftpapp-e8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
