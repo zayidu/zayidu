@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Algorithm] 151. Reverse Words in a String](https://dev.to/jihyunj/algorithm-151-reverse-words-in-a-string-5com)
-- [كيف اكتشفت اكثر من ٤٥٠ ثغرة](https://dev.to/ali_essam_40774f25f0f4182/kyf-ktshft-kthr-mn-450-thgr-24gm)
-- [Python’s Popularity in AI and Data Science](https://dev.to/alfred_ferrari_4359c13919/pythons-popularity-in-ai-and-data-science-o3i)
-- [Beyond the Program: The Three Layers of Computer Abstraction and the Underlying Logic of Performance Optimization](https://dev.to/zzhihao/beyond-the-program-the-three-layers-of-computer-abstraction-and-the-underlying-logic-of-2ge4)
-- [Page Transactions and Page Object Model](https://dev.to/douglasdcm/page-transactions-and-page-object-model-2pdj)
+- [Promise.all&lpar;&rpar;, Promise.any&lpar;&rpar;, and More: Handling Multiple Promises in JavaScript](https://dev.to/rakibrahman/promiseall-promiseany-and-more-handling-multiple-promises-in-javascript-32m5)
+- [Laravel 11 Vue.js 3 CRUD Application with Composition API](https://dev.to/robin-ivi/laravel-11-vuejs-3-crud-application-with-composition-api-26jj)
+- [COLOR GAME](https://dev.to/kvngdav3d/color-game-22k6)
+- [How to Set Up Multiple GitHub Accounts with SSH Keys on macOS or Windows](https://dev.to/perumal_s_6c3edb35a8b2242/how-to-set-up-multiple-github-accounts-with-ssh-keys-on-macos-or-windows-1ca3)
+- [Robot Radio Button](https://dev.to/preetha_vaishnavi_2b82358/robot-radio-button-5die)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
