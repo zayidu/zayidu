@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Being Used to Predict Diseases from Genomic Data](https://dev.to/biopractify_team_69ab4279/how-ai-is-being-used-to-predict-diseases-from-genomic-data-3998)
-- [9 Cutting-Edge Developer Tools to Speed Up Your Coding 🚀](https://dev.to/cryptosandy/9-cutting-edge-developer-tools-to-speed-up-your-coding-12ko)
-- [Maximize Your CRM Efficiency with Flowtrail AI Report Agent](https://dev.to/flowtrail-admin/maximize-your-crm-efficiency-with-flowtrail-ai-report-agent-390p)
-- [Cleaning Up Stale Branches to Speed Up CI/CD and Reduce GitHub API Load](https://dev.to/abusithik/cleaning-up-stale-branches-to-speed-up-cicd-and-reduce-github-api-load-1de5)
-- [Insomnia vs Bruno vs Requestly: Which One Is Best for You?](https://dev.to/requestly/insomnia-vs-bruno-vs-requestly-which-one-is-best-for-you-11ac)
+- [Monthly Amazon Location Service Updates - 2025.01](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202501-7ff)
+- [Revolutionizing Lock Screen Experience: How Glance on Motorola is Transforming Real-time Information Access](https://dev.to/adambrooks1231/revolutionizing-lock-screen-experience-how-glance-on-motorola-is-transforming-real-time-19bp)
+- [Remix Tutorial: Building A Simple Contact App With Strapi as Backend](https://dev.to/strapi/remix-tutorial-building-a-simple-contact-app-with-strapi-as-backend-407p)
+- [Matanuska ADR 016 - ECMA-55 Compliance](https://dev.to/jfhbrook/matanuska-adr-016-ecma-55-compliance-250i)
+- [Scraping Google Search Results with Python](https://dev.to/crawlbase/scraping-google-search-results-with-python-4p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
