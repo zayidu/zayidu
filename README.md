@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Unlocked: The Ultimate Guide to Mastering Productivity with the PATH-C Framework](https://dev.to/devops4mecode/devops-unlocked-the-ultimate-guide-to-mastering-productivity-with-the-path-c-framework-n25)
-- [Understanding VAST and How to Integrate It with Your Streaming Service](https://dev.to/rabindratamang/understanding-vast-and-how-to-integrate-it-with-your-streaming-service-4906)
-- [Trending Programming](https://dev.to/joacod/trending-programming-3ndc)
-- [Learning DevOps 05/02](https://dev.to/ashray_sam/learning-devops-0502-3dcd)
-- [Run LLMs locally with Ollama on macOS for Developers](https://dev.to/danielbayerlein/run-llms-locally-with-ollama-on-macos-for-developers-5emb)
+- [&quot;Unlocking Image Generation: The Power of COCONut-PanCap and CaPO Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-coconut-pancap-and-capo-models-4dcj)
+- [How to bundle Sqflite_common_ffi Database file in Windows .exe executable: Flutter Offline Desktop App](https://dev.to/taiwo_divine_8f40cd7c508d/how-to-bundle-sqflitecommonffi-database-file-in-windows-exe-executable-flutter-offline-desktop-3kgl)
+- [Understanding AWS Lambda&lpar;Serverless Functions&rpar;](https://dev.to/gajanan0707/understanding-aws-lambdaserverless-functions-35ge)
+- [Split Words By Separator](https://dev.to/samson_jebaraj/split-words-by-separator-1chl)
+- [Why hosting your own analytics solution has never been so essential? 🤔](https://dev.to/gilles_vauvarin_861cefba1/why-hosting-your-own-analytics-solution-has-never-been-so-essential-1b20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
