@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Notion-like editor with Rails](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-25mk)
-- [Next.js 15: Unleashing the Future of Web Development](https://dev.to/ahr_dev/nextjs-15-unleashing-the-future-of-web-development-18ke)
-- [Open-Source Deep Research](https://dev.to/mehmetakar/open-source-deep-research-4685)
-- [🚀 Weekly Project 1 - Project Idea: AI-Powered Interview Question Generator](https://dev.to/weeklybuilder/weekly-project-1-project-idea-ai-powered-interview-question-generator-12hp)
-- [Kombai AI: A Complete Guide &amp; Tutorial for Beginners](https://dev.to/codeparrot/kombai-ai-a-complete-guide-tutorial-for-beginners-3im1)
+- [AN INFORMAL PATH](https://dev.to/israa_ali_9e888b51e9bb073/an-informal-path-1om5)
+- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 3: Transactions](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-3n49)
+- [ToolSphere: The Ultimate Nexus of Advanced Web-Based Utilities](https://dev.to/abeleric/toolsphere-the-ultimate-nexus-of-advanced-web-based-utilities-3akf)
+- [🚀 Unlock Stunning UI with UiForest!](https://dev.to/akanji/unlock-stunning-ui-with-uiforest-4m3o)
+- [Optimizing Performance with Infinite Scrolling in React](https://dev.to/satyaveer_jaligama/optimizing-performance-with-infinite-scrolling-in-react-p9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
