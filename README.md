@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of System Integration: From SOAP to REST to Event-Driven Architectures](https://dev.to/igventurelli/the-evolution-of-system-integration-from-soap-to-rest-to-event-driven-architectures-4h8n)
-- [I built an AI Agent that creates README file for your code](https://dev.to/potpie/i-built-an-ai-agent-that-creates-readme-file-for-your-code-57l2)
-- [How to deploy a serverless application using Terragrunt](https://dev.to/aws-builders/how-to-deploy-a-serverless-application-using-terragrunt-1ap9)
-- [From AngularJS to React: Lessons Learned on Our Journey](https://dev.to/dylan_miyake_92960ae77b1c/from-angularjs-to-react-lessons-learned-on-our-journey-5e86)
-- [The Pros and Cons of Renting vs. Buying a Printer](https://dev.to/marvelolivia/the-pros-and-cons-of-renting-vs-buying-a-printer-ec5)
+- [Format Specifiers Explained: Precision, Efficiency, and Best Practices in Golang Programming](https://dev.to/the_ladybella/format-specifiers-explained-precision-efficiency-and-best-practices-in-golang-programming-3jeb)
+- [sync.Mutex in Go: A Study](https://dev.to/uskdev/syncmutex-in-go-a-study-47he)
+- [Delete post](https://dev.to/joshua_leon_65b677a50c098/delete-post-50f2)
+- [The Future of Software Development: Trends to Watch in 2025](https://dev.to/scot_cbrown/the-future-of-software-development-trends-to-watch-in-2025-5e43)
+- [Building a Responsive Website with Bootstrap: A Step-by-Step Guide](https://dev.to/ideradevtools/building-a-responsive-website-with-bootstrap-a-step-by-step-guide-3cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
