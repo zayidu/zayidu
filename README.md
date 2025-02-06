@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Development made simple with DevPod](https://dev.to/loft/remote-development-made-simple-with-devpod-2dan)
-- [Alibaba Cloud’s Qwen2.5-Max Secures Top Rankings in Chatbot Arena](https://dev.to/lara33779/alibaba-clouds-qwen25-max-secures-top-rankings-in-chatbot-arena-4hah)
-- [Top React Component Libraries for Faster UI Development](https://dev.to/drishti1920/top-react-component-libraries-for-faster-ui-development-3n04)
-- [Align the existing data to the corresponding position and fill in any missing data with 0：From SQL to SPL](https://dev.to/esproc_spl/align-the-existing-data-to-the-corresponding-position-and-fill-in-any-missing-data-with-0from-sql-fmn)
-- [From 0 to 400+ Customers: SaaS Growth Hacks from a Serial Founder](https://dev.to/wasp/from-0-to-400-customers-saas-growth-hacks-from-a-serial-founder-167f)
+- [Undress AI: The Future of Image Recognition and Ethical Considerations](https://dev.to/thenexttech/undress-ai-the-future-of-image-recognition-and-ethical-considerations-aki)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/rajissctrl/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3j20)
+- [Hacking My Way Into Cybersecurity — The Beginning of My Journey!](https://dev.to/shajitha/hacking-my-way-into-cybersecurity-the-beginning-of-my-journey-1i1e)
+- [Mastering DevOps Version Control with Git: A Comprehensive Guide](https://dev.to/itz_amaze/mastering-devops-version-control-with-git-a-comprehensive-guide-46ba)
+- [How To Add Free Video and Audio Call APIs in the iOS and Android app?](https://dev.to/primocys1/how-to-add-free-video-and-audio-call-apis-in-the-ios-and-android-app-2clc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
