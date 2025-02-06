@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DolphinScheduler Community January Report Is Here!](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-community-january-report-is-here-403m)
-- [The Ultimate Guide to Fixing QuickBooks H303 Error](https://dev.to/alexander_reed_a50e31cccb/the-ultimate-guide-to-fixing-quickbooks-h303-error-339k)
-- [Can We Reverse Aging with Biotechnology?](https://dev.to/biopractify_team_69ab4279/can-we-reverse-aging-with-biotechnology-4ipd)
-- [Build an AI Application for Document Classification: A Step-by-Step Guide](https://dev.to/orkes/build-an-ai-application-for-document-classification-a-step-by-step-guide-3fcg)
-- [Linux basics - Working with files and directories](https://dev.to/seriquynh/linux-basics-working-with-files-and-directories-371n)
+- [Docker Exercises: Part 1](https://dev.to/docker/docker-exercises-part-1-26mc)
+- [Mastering Next.js Intercepting Routes: Unlocking Seamless UI Transitions](https://dev.to/abdur_rakibrony_349a3f89/mastering-nextjs-intercepting-routes-unlocking-seamless-ui-transitions-1922)
+- [Threads vs. Corrotinas: Qual é a Diferença e Por Que Isso Importa?](https://dev.to/comunidadedevspace/threads-vs-corrotinas-qual-e-a-diferenca-e-por-que-isso-importa-1idd)
+- [Threads vs. Coroutines: What&#39;s the Difference and Why Does It Matter?](https://dev.to/comunidadedevspace/threads-vs-coroutines-whats-the-difference-and-why-does-it-matter-18gm)
+- [How Database Indexes Improve SQL Query Performance](https://dev.to/dbvismarketing/how-database-indexes-improve-sql-query-performance-3lcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
