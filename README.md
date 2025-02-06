@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AWS Cognito: A Complete Guide to User Authentication and Management](https://dev.to/ismail_lafhiel/understanding-aws-cognito-a-complete-guide-to-user-authentication-and-management-5b9d)
-- [Importance of Regular Security Audits for Compliance and Cyber Resilience](https://dev.to/reinfoseccybersecurity_92/importance-of-regular-security-audits-for-compliance-and-cyber-resilience-2g82)
-- [Introduction to TypeScript: Build Your First Simple Web Application](https://dev.to/mariecolvinn/introduction-to-typescript-build-your-first-simple-web-application-1j5j)
-- [10 Useful Prompts to Enhance Your Learning 🚀](https://dev.to/eric6166/10-useful-prompts-to-enhance-your-learning-1996)
-- [Vite is suddenly not working due to CORS error? 🧐 &lpar;DDEV&rpar;](https://dev.to/mandrasch/vite-is-suddenly-not-working-anymore-due-to-cors-error-ddev-3673)
+- [A Deep Dive into Browser DevTools: Essential Features You Should Know](https://dev.to/vibhuvibes/a-deep-dive-into-browser-devtools-essential-features-you-should-know-1a40)
+- [How Artificial Intelligence is Redefining Space Exploration](https://dev.to/scitechinsights/how-artificial-intelligence-is-redefining-space-exploration-3fc1)
+- [📌 Top 10 React.js Hooks You Must Know &lpar;With Examples&rpar; 🚀](https://dev.to/abhay_yt_52a8e72b213be229/top-10-reactjs-hooks-you-must-know-with-examples-160a)
+- [Introducing Gridstore: Qdrant&#39;s Custom Key-Value Store](https://dev.to/qdrant/introducing-gridstore-qdrants-custom-key-value-store-2li9)
+- [Untitled](https://dev.to/savej_idrishi_d3dae2d10c7/untitled-5cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
