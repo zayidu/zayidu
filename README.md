@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Undress AI: The Future of Image Recognition and Ethical Considerations](https://dev.to/thenexttech/undress-ai-the-future-of-image-recognition-and-ethical-considerations-aki)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/rajissctrl/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3j20)
-- [Hacking My Way Into Cybersecurity — The Beginning of My Journey!](https://dev.to/shajitha/hacking-my-way-into-cybersecurity-the-beginning-of-my-journey-1i1e)
-- [Mastering DevOps Version Control with Git: A Comprehensive Guide](https://dev.to/itz_amaze/mastering-devops-version-control-with-git-a-comprehensive-guide-46ba)
-- [How To Add Free Video and Audio Call APIs in the iOS and Android app?](https://dev.to/primocys1/how-to-add-free-video-and-audio-call-apis-in-the-ios-and-android-app-2clc)
+- [Understanding AWS Cognito: A Complete Guide to User Authentication and Management](https://dev.to/ismail_lafhiel/understanding-aws-cognito-a-complete-guide-to-user-authentication-and-management-5b9d)
+- [Importance of Regular Security Audits for Compliance and Cyber Resilience](https://dev.to/reinfoseccybersecurity_92/importance-of-regular-security-audits-for-compliance-and-cyber-resilience-2g82)
+- [Introduction to TypeScript: Build Your First Simple Web Application](https://dev.to/mariecolvinn/introduction-to-typescript-build-your-first-simple-web-application-1j5j)
+- [10 Useful Prompts to Enhance Your Learning 🚀](https://dev.to/eric6166/10-useful-prompts-to-enhance-your-learning-1996)
+- [Vite is suddenly not working due to CORS error? 🧐 &lpar;DDEV&rpar;](https://dev.to/mandrasch/vite-is-suddenly-not-working-anymore-due-to-cors-error-ddev-3673)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
