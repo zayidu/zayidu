@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Your First Website? Here Are 8 Key Tips to Make It a Success](https://dev.to/per-starke-642/getting-your-first-website-here-are-8-key-tips-to-make-it-a-success-57ag)
-- [Smalltalk meets Forth: Episode I](https://dev.to/jolisper/smalltalk-meets-forth-episode-i-532p)
-- [Visualizing Docker Scout Metrics with Prometheus and Grafana](https://dev.to/docker/visualizing-docker-scout-metrics-with-prometheus-and-grafana-1o4h)
-- [[Boost]](https://dev.to/naimacodes/-50n)
-- [🚀 13 Must-Read Books for Senior Developers &amp; Software Engineers in 2025](https://dev.to/naimacodes/13-must-read-books-for-senior-developers-software-engineers-in-2025-4op8)
+- [Best AI Name Generators in 2025 – Find the Perfect Name Easily!](https://dev.to/amritpal_singh_f0b1400212/best-ai-name-generators-in-2025-find-the-perfect-name-easily-449c)
+- [Getting Started with React: My First Steps](https://dev.to/johnquintana1957/getting-started-with-react-my-first-steps-458c)
+- [Building My Journey as a Junior Software Engineer](https://dev.to/johnquintana1957/building-my-journey-as-a-junior-software-engineer-4bm4)
+- [The Importance of Accessibility in Open-Source Projects](https://dev.to/reginahowarter1998/the-importance-of-accessibility-in-open-source-projects-7ig)
+- [Coding = Experimenting](https://dev.to/michael_n_dev_23/coding-experimenting-2adp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
