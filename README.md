@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Multi-Agent AI to JavaScript with KaibanJS](https://dev.to/kaibanjs/bringing-multi-agent-ai-to-javascript-with-kaibanjs-4fo2)
-- [Simple QML models](https://dev.to/iomatix/simple-qml-models-539p)
-- [&#39;selenium.common.exceptions.SessionNotCreatedException&#39; Error using SeleniumBase](https://dev.to/zcodez777/seleniumcommonexceptionssessionnotcreatedexception-error-using-seleniumbase-9g9)
-- [Let&#39;s break down `useEffect` in React.](https://dev.to/pravinjadhav/lets-break-down-useeffect-in-react-a2h)
-- [[Boost]](https://dev.to/otumianempire/-6bd)
+- [Setting Up A 3-Node Kubernetes Cluster](https://dev.to/xalexander/setting-up-a-3-node-kubernetes-cluster-71o)
+- [Setting Up and Configuring NGINX on an Ubuntu Server](https://dev.to/eunini/setting-up-and-configuring-nginx-on-an-ubuntu-server-1alf)
+- [How I Designed a Red Dead Redemption 2 Inspired Map in Mapbox Studio](https://dev.to/leemartin/how-i-designed-a-red-dead-redemption-2-inspired-map-in-mapbox-studio-4gkh)
+- [Inteligencia artificial para la vida](https://dev.to/alexrestrej/inteligencia-artificial-para-la-vida-4785)
+- [The Misadventures of Deploying to Mina Protocol: My Odyssey](https://dev.to/uratmangun/the-misadventures-of-deploying-to-mina-protocol-my-odyssey-3g11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
