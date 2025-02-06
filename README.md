@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Exercises: Part 1](https://dev.to/docker/docker-exercises-part-1-26mc)
-- [Mastering Next.js Intercepting Routes: Unlocking Seamless UI Transitions](https://dev.to/abdur_rakibrony_349a3f89/mastering-nextjs-intercepting-routes-unlocking-seamless-ui-transitions-1922)
-- [Threads vs. Corrotinas: Qual é a Diferença e Por Que Isso Importa?](https://dev.to/comunidadedevspace/threads-vs-corrotinas-qual-e-a-diferenca-e-por-que-isso-importa-1idd)
-- [Threads vs. Coroutines: What&#39;s the Difference and Why Does It Matter?](https://dev.to/comunidadedevspace/threads-vs-coroutines-whats-the-difference-and-why-does-it-matter-18gm)
-- [How Database Indexes Improve SQL Query Performance](https://dev.to/dbvismarketing/how-database-indexes-improve-sql-query-performance-3lcb)
+- [Remote Development made simple with DevPod](https://dev.to/loft/remote-development-made-simple-with-devpod-2dan)
+- [Alibaba Cloud’s Qwen2.5-Max Secures Top Rankings in Chatbot Arena](https://dev.to/lara33779/alibaba-clouds-qwen25-max-secures-top-rankings-in-chatbot-arena-4hah)
+- [Top React Component Libraries for Faster UI Development](https://dev.to/drishti1920/top-react-component-libraries-for-faster-ui-development-3n04)
+- [Align the existing data to the corresponding position and fill in any missing data with 0：From SQL to SPL](https://dev.to/esproc_spl/align-the-existing-data-to-the-corresponding-position-and-fill-in-any-missing-data-with-0from-sql-fmn)
+- [From 0 to 400+ Customers: SaaS Growth Hacks from a Serial Founder](https://dev.to/wasp/from-0-to-400-customers-saas-growth-hacks-from-a-serial-founder-167f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
