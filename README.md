@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Format Specifiers Explained: Precision, Efficiency, and Best Practices in Golang Programming](https://dev.to/the_ladybella/format-specifiers-explained-precision-efficiency-and-best-practices-in-golang-programming-3jeb)
-- [sync.Mutex in Go: A Study](https://dev.to/uskdev/syncmutex-in-go-a-study-47he)
-- [Delete post](https://dev.to/joshua_leon_65b677a50c098/delete-post-50f2)
-- [The Future of Software Development: Trends to Watch in 2025](https://dev.to/scot_cbrown/the-future-of-software-development-trends-to-watch-in-2025-5e43)
-- [Building a Responsive Website with Bootstrap: A Step-by-Step Guide](https://dev.to/ideradevtools/building-a-responsive-website-with-bootstrap-a-step-by-step-guide-3cbk)
+- [AWS roadmap for beginners](https://dev.to/navya_80b0833279414f0acda/aws-roadmap-for-beginners-13jo)
+- [Event Emitters: The Superpower of Asynchronous User Registration](https://dev.to/fredabod/event-emitters-the-superpower-of-asynchronous-user-registration-513i)
+- [Falling Gracefully: The Art of Software Resilience](https://dev.to/itxshakil/falling-gracefully-the-art-of-software-resilience-1odg)
+- [Implementing and Administering Cisco Solutions &lpar;CCNA&rpar; v2.1: The Ultimate Guide for 2025](https://dev.to/rohan_jee_085655230/implementing-and-administering-cisco-solutions-ccna-v21-the-ultimate-guide-for-2025-og2)
+- [Creating a Virtual Machine in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-virtual-machine-in-azure-portal-2o94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
