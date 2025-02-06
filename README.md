@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Browser DevTools: Essential Features You Should Know](https://dev.to/vibhuvibes/a-deep-dive-into-browser-devtools-essential-features-you-should-know-1a40)
-- [How Artificial Intelligence is Redefining Space Exploration](https://dev.to/scitechinsights/how-artificial-intelligence-is-redefining-space-exploration-3fc1)
-- [📌 Top 10 React.js Hooks You Must Know &lpar;With Examples&rpar; 🚀](https://dev.to/abhay_yt_52a8e72b213be229/top-10-reactjs-hooks-you-must-know-with-examples-160a)
-- [Introducing Gridstore: Qdrant&#39;s Custom Key-Value Store](https://dev.to/qdrant/introducing-gridstore-qdrants-custom-key-value-store-2li9)
-- [Untitled](https://dev.to/savej_idrishi_d3dae2d10c7/untitled-5cbk)
+- [Building Your Very Own Deep Research Agent](https://dev.to/subeshb1/building-your-very-own-deep-research-agent-4k77)
+- [How I created a newsletter I actually enjoy writing](https://dev.to/whitep4nth3r/how-i-created-a-newsletter-i-actually-enjoy-writing-539)
+- [Why Developers Earning in Crypto Should Use Crypto Cards](https://dev.to/andylarkin677/why-developers-earning-in-crypto-should-use-crypto-cards-2b6f)
+- [My Android Development Journey: Mastering XML &amp; Embracing Jetpack Compose](https://dev.to/himagaur2708/my-android-development-journey-mastering-xml-embracing-jetpack-compose-2n27)
+- [🚀 Your Daily Crypto Job Digest For 06 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-06-february-3hd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
