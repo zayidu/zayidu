@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Name Generators in 2025 – Find the Perfect Name Easily!](https://dev.to/amritpal_singh_f0b1400212/best-ai-name-generators-in-2025-find-the-perfect-name-easily-449c)
-- [Getting Started with React: My First Steps](https://dev.to/johnquintana1957/getting-started-with-react-my-first-steps-458c)
-- [Building My Journey as a Junior Software Engineer](https://dev.to/johnquintana1957/building-my-journey-as-a-junior-software-engineer-4bm4)
-- [The Importance of Accessibility in Open-Source Projects](https://dev.to/reginahowarter1998/the-importance-of-accessibility-in-open-source-projects-7ig)
-- [Coding = Experimenting](https://dev.to/michael_n_dev_23/coding-experimenting-2adp)
+- [Implementing RESTful APIs with Python: A Step-by-Step Guide](https://dev.to/janicehoover1989/implementing-restful-apis-with-python-a-step-by-step-guide-3mj0)
+- [How to Create a Purchase Receipt with React - Day 15](https://dev.to/jds64/how-to-create-a-purchase-receipt-with-react-day-15-2i77)
+- [.NET Learning Notes: 配置系统（Configuration）](https://dev.to/alexleeeeeeeeee/net-learning-notes-pei-zhi-xi-tong-configuration-4aen)
+- [My Favorite React Hooks and Why](https://dev.to/johnquintana1957/my-favorite-react-hooks-and-why-iha)
+- [The Power of JavaScript ES6+ Features](https://dev.to/johnquintana1957/the-power-of-javascript-es6-features-1pa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
