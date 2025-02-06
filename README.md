@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📖 Leitura Atual – Capítulo 1: Introdução à Ciência de Dados](https://dev.to/leticiaoliv/leitura-atual-capitulo-1-introducao-a-ciencia-de-dados-168d)
-- [🎙️We have updated the site and here is what I want to say...](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-i80)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/kawthar_abolade/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-33dj)
-- [Highly Effective 7 Habits for Developers](https://dev.to/trimech_sarah/highly-effective-7-habits-for-developers-2cpe)
-- [Engineering vs. crafting](https://dev.to/mbjelac/engineering-vs-crafting-393n)
+- [Bringing Multi-Agent AI to JavaScript with KaibanJS](https://dev.to/kaibanjs/bringing-multi-agent-ai-to-javascript-with-kaibanjs-4fo2)
+- [Simple QML models](https://dev.to/iomatix/simple-qml-models-539p)
+- [&#39;selenium.common.exceptions.SessionNotCreatedException&#39; Error using SeleniumBase](https://dev.to/zcodez777/seleniumcommonexceptionssessionnotcreatedexception-error-using-seleniumbase-9g9)
+- [Let&#39;s break down `useEffect` in React.](https://dev.to/pravinjadhav/lets-break-down-useeffect-in-react-a2h)
+- [[Boost]](https://dev.to/otumianempire/-6bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
