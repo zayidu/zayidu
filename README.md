@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS roadmap for beginners](https://dev.to/navya_80b0833279414f0acda/aws-roadmap-for-beginners-13jo)
-- [Event Emitters: The Superpower of Asynchronous User Registration](https://dev.to/fredabod/event-emitters-the-superpower-of-asynchronous-user-registration-513i)
-- [Falling Gracefully: The Art of Software Resilience](https://dev.to/itxshakil/falling-gracefully-the-art-of-software-resilience-1odg)
-- [Implementing and Administering Cisco Solutions &lpar;CCNA&rpar; v2.1: The Ultimate Guide for 2025](https://dev.to/rohan_jee_085655230/implementing-and-administering-cisco-solutions-ccna-v21-the-ultimate-guide-for-2025-og2)
-- [Creating a Virtual Machine in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-virtual-machine-in-azure-portal-2o94)
+- [I created a mobile food delivery application in no time, thanks to Websparks AI. Here&#39;s how.](https://dev.to/maruf_hossainpranto_8fba/i-created-a-mobile-food-delivery-application-in-no-time-thanks-to-websparks-ai-heres-how-3epf)
+- [Creating a Resource Group in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-resource-group-in-azure-portal-2l3j)
+- [Do I really need N number of Intersection Observers in my app?](https://dev.to/msc24x/do-i-really-need-n-number-of-intersection-observers-in-my-app-1lnm)
+- [Pros and Cons of Next.js](https://dev.to/matthewlafalce/pros-and-cons-of-nextjs-3nh9)
+- [🔒Network Security and Threats: Protecting the Digital World](https://dev.to/arjun98k/network-security-and-threats-protecting-the-digital-world-3729)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
