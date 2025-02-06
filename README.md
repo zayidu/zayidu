@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [**The Role of AI &amp; Data Analytics in Ayurvedic Pharma CRM**](https://dev.to/pharmacrm/the-role-of-ai-data-analytics-in-ayurvedic-pharma-crm-4dgb)
-- [AI Showdown: DeepSeek vs. ChatGPT – Which Powers Your Trades Smarter?](https://dev.to/encodedots/ai-showdown-deepseek-vs-chatgpt-which-powers-your-trades-smarter-2c6i)
-- [[Boost]](https://dev.to/kolipatelkishan786/-1ba7)
-- [Tips for Successful Software Engineering Practices](https://dev.to/joenathandevid/tips-for-successful-software-engineering-practices-4836)
-- [🚀 API Maker : Release Notes for v1.11.0](https://dev.to/apimaker/api-maker-release-notes-for-v1110-5hbp)
+- [The Evolution of System Integration: From SOAP to REST to Event-Driven Architectures](https://dev.to/igventurelli/the-evolution-of-system-integration-from-soap-to-rest-to-event-driven-architectures-4h8n)
+- [I built an AI Agent that creates README file for your code](https://dev.to/potpie/i-built-an-ai-agent-that-creates-readme-file-for-your-code-57l2)
+- [How to deploy a serverless application using Terragrunt](https://dev.to/aws-builders/how-to-deploy-a-serverless-application-using-terragrunt-1ap9)
+- [From AngularJS to React: Lessons Learned on Our Journey](https://dev.to/dylan_miyake_92960ae77b1c/from-angularjs-to-react-lessons-learned-on-our-journey-5e86)
+- [The Pros and Cons of Renting vs. Buying a Printer](https://dev.to/marvelolivia/the-pros-and-cons-of-renting-vs-buying-a-printer-ec5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
