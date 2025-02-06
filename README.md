@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a mobile food delivery application in no time, thanks to Websparks AI. Here&#39;s how.](https://dev.to/maruf_hossainpranto_8fba/i-created-a-mobile-food-delivery-application-in-no-time-thanks-to-websparks-ai-heres-how-3epf)
-- [Creating a Resource Group in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-resource-group-in-azure-portal-2l3j)
-- [Do I really need N number of Intersection Observers in my app?](https://dev.to/msc24x/do-i-really-need-n-number-of-intersection-observers-in-my-app-1lnm)
-- [Pros and Cons of Next.js](https://dev.to/matthewlafalce/pros-and-cons-of-nextjs-3nh9)
-- [🔒Network Security and Threats: Protecting the Digital World](https://dev.to/arjun98k/network-security-and-threats-protecting-the-digital-world-3729)
+- [Build a Notion-like editor with Rails](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-25mk)
+- [Next.js 15: Unleashing the Future of Web Development](https://dev.to/ahr_dev/nextjs-15-unleashing-the-future-of-web-development-18ke)
+- [Open-Source Deep Research](https://dev.to/mehmetakar/open-source-deep-research-4685)
+- [🚀 Weekly Project 1 - Project Idea: AI-Powered Interview Question Generator](https://dev.to/weeklybuilder/weekly-project-1-project-idea-ai-powered-interview-question-generator-12hp)
+- [Kombai AI: A Complete Guide &amp; Tutorial for Beginners](https://dev.to/codeparrot/kombai-ai-a-complete-guide-tutorial-for-beginners-3im1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
