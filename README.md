@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing RESTful APIs with Python: A Step-by-Step Guide](https://dev.to/janicehoover1989/implementing-restful-apis-with-python-a-step-by-step-guide-3mj0)
-- [How to Create a Purchase Receipt with React - Day 15](https://dev.to/jds64/how-to-create-a-purchase-receipt-with-react-day-15-2i77)
-- [.NET Learning Notes: 配置系统（Configuration）](https://dev.to/alexleeeeeeeeee/net-learning-notes-pei-zhi-xi-tong-configuration-4aen)
-- [My Favorite React Hooks and Why](https://dev.to/johnquintana1957/my-favorite-react-hooks-and-why-iha)
-- [The Power of JavaScript ES6+ Features](https://dev.to/johnquintana1957/the-power-of-javascript-es6-features-1pa8)
+- [I’m Understanding JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/im-understanding-javascript-closures-a-beginners-guide-47hd)
+- [Understanding the Lock-In Period under Section 44AD and 44ADA](https://dev.to/susheel_kumar/understanding-the-lock-in-period-under-section-44ad-and-44ada-206d)
+- [How to Fix an Error within Minutes with Sentry and GitAuto](https://dev.to/gitautoai/how-to-fix-an-error-within-minutes-with-sentry-and-gitauto-433g)
+- [How to add an Automated Unit Test with a Coding Agent](https://dev.to/gitautoai/how-to-add-an-automated-unit-test-with-a-coding-agent-34cn)
+- [Rust? Never Heard of It. Anyway, Here’s My PR.](https://dev.to/uday-rana/rust-never-heard-of-it-anyway-heres-my-pr-egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
