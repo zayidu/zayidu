@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m Understanding JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/im-understanding-javascript-closures-a-beginners-guide-47hd)
-- [Understanding the Lock-In Period under Section 44AD and 44ADA](https://dev.to/susheel_kumar/understanding-the-lock-in-period-under-section-44ad-and-44ada-206d)
-- [How to Fix an Error within Minutes with Sentry and GitAuto](https://dev.to/gitautoai/how-to-fix-an-error-within-minutes-with-sentry-and-gitauto-433g)
-- [How to add an Automated Unit Test with a Coding Agent](https://dev.to/gitautoai/how-to-add-an-automated-unit-test-with-a-coding-agent-34cn)
-- [Rust? Never Heard of It. Anyway, Here’s My PR.](https://dev.to/uday-rana/rust-never-heard-of-it-anyway-heres-my-pr-egi)
+- [The Unexpected Struggle of Implementing Custom CAPTCHA on Linux](https://dev.to/vatana7/the-unexpected-struggle-of-implementing-custom-captcha-on-linux-1kh6)
+- [Problemas del Cap. 2 de Eloquent JavaScript](https://dev.to/math_doggo/problemas-del-cap-2-de-eloquent-javascript-4m7e)
+- [[Boost]](https://dev.to/xyz_oblivion/-3joe)
+- [Speed Up DB Queries Like a Pro](https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95)
+- [The Hidden Risks of Relying Solely on Testing: Why Chaos Engineering is Essential](https://dev.to/smritisatyan/the-hidden-risks-of-relying-solely-on-testing-why-chaos-engineering-is-essential-57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
