@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AN INFORMAL PATH](https://dev.to/israa_ali_9e888b51e9bb073/an-informal-path-1om5)
-- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 3: Transactions](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-3n49)
-- [ToolSphere: The Ultimate Nexus of Advanced Web-Based Utilities](https://dev.to/abeleric/toolsphere-the-ultimate-nexus-of-advanced-web-based-utilities-3akf)
-- [🚀 Unlock Stunning UI with UiForest!](https://dev.to/akanji/unlock-stunning-ui-with-uiforest-4m3o)
-- [Optimizing Performance with Infinite Scrolling in React](https://dev.to/satyaveer_jaligama/optimizing-performance-with-infinite-scrolling-in-react-p9h)
+- [📖 Leitura Atual – Capítulo 1: Introdução à Ciência de Dados](https://dev.to/leticiaoliv/leitura-atual-capitulo-1-introducao-a-ciencia-de-dados-168d)
+- [🎙️We have updated the site and here is what I want to say...](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-i80)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/kawthar_abolade/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-33dj)
+- [Highly Effective 7 Habits for Developers](https://dev.to/trimech_sarah/highly-effective-7-habits-for-developers-2cpe)
+- [Engineering vs. crafting](https://dev.to/mbjelac/engineering-vs-crafting-393n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
