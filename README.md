@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aplikasi Apple Invites: Menjadi Bintang di Undangan Dunia!](https://dev.to/bakaboun/aplikasi-apple-invites-menjadi-bintang-di-undangan-dunia-5g8f)
-- [Master Shopify Embedded Apps with Rails 8](https://dev.to/sulmanweb/master-shopify-embedded-apps-with-rails-8-f5g)
-- [Understanding Superglobal Variable in PHP: A Comprehensive Guide](https://dev.to/manan_raj_6289f257cd05087/understanding-superglobal-variable-in-php-a-comprehensive-guide-302f)
-- [[Boost]](https://dev.to/monies_waran/-b2g)
-- [Impact of Charles H. Sloan on Digital Finance](https://dev.to/drcharleshsloan/impact-of-charles-h-sloan-on-digital-finance-5776)
+- [DolphinScheduler Community January Report Is Here!](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-community-january-report-is-here-403m)
+- [The Ultimate Guide to Fixing QuickBooks H303 Error](https://dev.to/alexander_reed_a50e31cccb/the-ultimate-guide-to-fixing-quickbooks-h303-error-339k)
+- [Can We Reverse Aging with Biotechnology?](https://dev.to/biopractify_team_69ab4279/can-we-reverse-aging-with-biotechnology-4ipd)
+- [Build an AI Application for Document Classification: A Step-by-Step Guide](https://dev.to/orkes/build-an-ai-application-for-document-classification-a-step-by-step-guide-3fcg)
+- [Linux basics - Working with files and directories](https://dev.to/seriquynh/linux-basics-working-with-files-and-directories-371n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
