@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grateful for 2024, Inspired for 2025](https://dev.to/anuradhakumari/grateful-for-2024-inspired-for-2025-11o)
-- [Using the VAS6154A OBD Scanner Remotely with FlexiHub](https://dev.to/diana75082290/using-the-vas6154a-obd-scanner-remotely-with-flexihub-2204)
-- [The AI-Enhanced Developer: Maximizing Efficiency with Coding Agents](https://dev.to/danielsogl/the-ai-enhanced-developer-maximizing-efficiency-with-coding-agents-2lmf)
-- [Wireless Networks and Mobile Communication 📡📲](https://dev.to/arjun98k/wireless-networks-and-mobile-communication-390)
-- [Artificial intelligence in website optimization: benefits and risks](https://dev.to/daniellacatus/artificial-intelligence-in-website-optimization-benefits-and-risks-4ebp)
+- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
+- [Top 10 Most Used Embedding Models for Audio Data](https://dev.to/zilliz/top-10-most-used-embedding-models-for-audio-data-8l4)
+- [The Rise of AI Interview Tools: How Technology is Changing the Job Interview Game](https://dev.to/lockedinai1/the-rise-of-ai-interview-tools-how-technology-is-changing-the-job-interview-game-37dn)
+- [Adventure: Building with NATS Jetstream KV Store -Part 3](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-3-4gl)
+- [[Boost]](https://dev.to/ycmjason/-4321)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
