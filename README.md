@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [some workaround when using kvm virtualization](https://dev.to/dace/some-workaround-when-using-kvm-virtualization-63p)
-- [Adventure: NATS Jetstream KV Store - Part 1](https://dev.to/rphumulock/adventure-nats-jetstream-kv-store-part-1-108h)
-- [Cloud Security Best Practice: A Blueprint for Securing Your Cloud Enviroment](https://dev.to/leonardkachi/cloud-security-best-practice-a-blueprint-for-securing-your-cloud-enviroment-18m8)
-- [How to Fix &quot;No Go Packages Exist&quot; Error in Go](https://dev.to/apondiart/how-to-fix-no-go-packages-exist-error-in-go-7lo)
-- [Weekly JavaScript Roundup: Friday Links 17, February 07, 2025](https://dev.to/jsdevspace/weekly-javascript-roundup-friday-links-17-february-07-2025-168l)
+- [Unveiling: How Web Crawlers Bypass Access Restrictions Using Proxy IPs](https://dev.to/98ip/unveiling-how-web-crawlers-bypass-access-restrictions-using-proxy-ips-15il)
+- [Quem é Pablo Storymaker e como ele ajuda marcas a se destacarem?](https://dev.to/pablostorymaker/quem-e-pablo-storymaker-e-como-ele-ajuda-marcas-a-se-destacarem-70o)
+- [What is Zero Trust?](https://dev.to/pomerium/what-is-zero-trust-4ob9)
+- [The VSCode one looks awesome, I’m going to try it!](https://dev.to/ljpeg/the-vscode-one-looks-awesome-im-going-to-try-it-1k81)
+- [Help- Best way to implement dynamic permissions in a Node.js &amp; React job application platform?](https://dev.to/javiwasabi/help-best-way-to-implement-dynamic-permissions-in-a-nodejs-react-job-application-platform-3ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
