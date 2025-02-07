@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a SpeedtestTracker with Raspberry PI and AWS Lambda](https://dev.to/duncanlew/how-i-built-a-speedtesttracker-with-raspberry-pi-and-aws-lambda-5d6n)
-- [Infrastructure as Code: Creating an AWS EC2 Instance with Terraform](https://dev.to/prajwal_kp/infrastructure-as-code-creating-an-aws-ec2-instance-with-terraform-3074)
-- [How to Deploy Azure Pipeline Agent on EKS with Auto Scaling!](https://dev.to/alex_galperin_0cecc4a9bc2/how-to-deploy-azure-pipeline-agent-on-eks-with-auto-scaling-5fjo)
-- [Security news weekly round-up - 7th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-february-2025-2hpb)
-- [10 Essential JavaScript Concepts Every New Developer Should Master](https://dev.to/raji_moshood_ee3a4c2638f6/10-essential-javascript-concepts-every-new-developer-should-master-23j5)
+- [AI Talent Acquisition Software](https://dev.to/albertocubeddu/ai-talent-acquisition-software-15lj)
+- [My Exploratory Testing Journey on Cars.ng](https://dev.to/owolabi_farouqmaku_7bc5a/my-exploratory-testing-journey-on-carsng-5ded)
+- [The Language of the Digital Soul: Creating Sensory Experiences with Code and Smart Data](https://dev.to/justina_ockoner_7661/the-language-of-the-digital-soul-creating-sensory-experiences-with-code-and-smart-data-342p)
+- [Day 1098 : Runnin&#39;](https://dev.to/dwane/day-1098-runnin-26ic)
+- [Empowering Open Source: The Role of Funding Workshops](https://dev.to/lisa_strato/empowering-open-source-the-role-of-funding-workshops-o6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
