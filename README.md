@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Practical DeepSeek R1 Prompts for Coding](https://dev.to/apilover/10-practical-deepseek-r1-prompts-for-coding-16c3)
-- [Smart Contract Security](https://dev.to/fobabs/smart-contract-security-3584)
-- [Self-Updating Widgets &lpar;No Manual Changes!&rpar;](https://dev.to/shruti_jain_98b67e0d65330/self-updating-widgets-no-manual-changes-400i)
-- [Hello Dev Community! I’m Faizan Habib 👋](https://dev.to/faizanhabib/hello-dev-community-im-faizan-habib-3k02)
-- [Accountable Privacy in Web3 &lpar;2/4&rpar;](https://dev.to/supremesingh/accountable-privacy-in-web3-24-2lf)
+- [Building a Real-Time Peer-to-Peer File Sharing Web App with WebSockets and Pako Compression](https://dev.to/abhilaksharora/building-a-real-time-peer-to-peer-file-sharing-web-app-with-websockets-and-pako-compression-3791)
+- [Unlocking the Future A Complete Guide to Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/max_services/unlocking-the-future-a-complete-guide-to-progressive-web-apps-pwas-1319)
+- [How to Build an AI Meeting Assistant with Momen: Streamline Your Meeting Management](https://dev.to/momen_hq/how-to-build-an-ai-meeting-assistant-with-momen-streamline-your-meeting-management-1agm)
+- [Is DeepSeek the Chinese AI Revolution the World Has Been Waiting For?](https://dev.to/julioherreravelutini/is-deepseek-the-chinese-ai-revolution-the-world-has-been-waiting-for-48n1)
+- [Code Smell 289 - Shy Visitor](https://dev.to/mcsee/code-smell-289-shy-visitor-5eh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
