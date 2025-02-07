@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervised Learning Simplified](https://dev.to/thenomadevel/supervised-learning-simplified-1m1d)
-- [TECHNICAL DEBT EMERGENCY: Can You Get the Suits to PAY UP?](https://dev.to/karell_stemarie_ce42bf9c/technical-debt-emergency-can-you-get-the-suits-to-pay-up-4d67)
-- [Top 5 Highest Paying Cisco Certifications in 2025](https://dev.to/rohan_jee_085655230/top-5-highest-paying-cisco-certifications-in-2025-3oad)
-- [Following Line based on Centroid Detection](https://dev.to/jeffliulab/following-line-based-on-centroid-detection-1430)
-- [Zen &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/zen-bite-size-article-49ol)
+- [Rust Key Concepts &lpar;I&rpar;: Ownership System](https://dev.to/jolisper/rust-key-concepts-i-ownership-system-1mnm)
+- [Im a beginner developer i studied php mysql any project ideas i can build on](https://dev.to/lawrence_mayo01/im-a-beginner-developer-i-studied-php-mysql-any-project-ideas-i-can-build-on-1dh6)
+- [Marketing Insight Report](https://dev.to/faith_muluu/marketing-insight-report-3fi2)
+- [A Step-by-Step Guide to Creating SEO-Friendly Websites with Next.js](https://dev.to/raji_moshood_ee3a4c2638f6/a-step-by-step-guide-to-creating-seo-friendly-websites-with-nextjs-3p88)
+- [Thoughts on job hunting, titles, and having a non-traditional background](https://dev.to/stephanieparra/thoughts-on-job-hunting-titles-and-having-a-non-traditional-background-oao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
