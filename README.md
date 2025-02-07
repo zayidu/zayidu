@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless AI for Indies: Building a Scalable Image Analysis Pipeline. Alone.](https://dev.to/aws-builders/serverless-ai-for-indies-building-a-scalable-image-analysis-pipeline-alone-5fao)
-- [5 Critical Vulnerabilities in Cloud Deployments and How to Fix Them](https://dev.to/anshul_kichara/5-critical-vulnerabilities-in-cloud-deployments-and-how-to-fix-them-55b3)
-- [DeepSeek R1: Architecture, Training, Local Deployment, and Hardware Requirements](https://dev.to/askyt/deepseek-r1-architecture-training-local-deployment-and-hardware-requirements-3mf8)
-- [My Journey in Web Development](https://dev.to/hmpmanish/my-journey-in-web-development-39g4)
-- [Create Smarter &amp; Better Git Commits with AI](https://dev.to/rasulkireev/create-smarter-better-git-commits-with-ai-50lm)
+- [Building Devunus: Why I Chose Cloudflare Workers + Remix for My Dev Tools Suite](https://dev.to/hsmall/building-devunus-why-i-chose-cloudflare-workers-remix-for-my-dev-tools-suite-27dg)
+- [Top 8 API Management Trends in 2025](https://dev.to/api7/top-8-api-management-trends-in-2025-2ajm)
+- [Rust Code Generation: A Complete Guide to Automated Development Tools and Macros](https://dev.to/aaravjoshi/rust-code-generation-a-complete-guide-to-automated-development-tools-and-macros-1gmd)
+- [Performance Optimization for Java &amp; MySQL: A Comprehensive Guide](https://dev.to/ryan_zhi/performance-optimization-for-java-mysql-a-comprehensive-guide-5b5)
+- [Top 10 Python Memory Optimization Tricks for ML Models That Actually Work](https://dev.to/aaravjoshi/top-10-python-memory-optimization-tricks-for-ml-models-that-actually-work-4403)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
