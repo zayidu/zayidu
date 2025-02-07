@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Devunus: Why I Chose Cloudflare Workers + Remix for My Dev Tools Suite](https://dev.to/hsmall/building-devunus-why-i-chose-cloudflare-workers-remix-for-my-dev-tools-suite-27dg)
-- [Top 8 API Management Trends in 2025](https://dev.to/api7/top-8-api-management-trends-in-2025-2ajm)
-- [Rust Code Generation: A Complete Guide to Automated Development Tools and Macros](https://dev.to/aaravjoshi/rust-code-generation-a-complete-guide-to-automated-development-tools-and-macros-1gmd)
-- [Performance Optimization for Java &amp; MySQL: A Comprehensive Guide](https://dev.to/ryan_zhi/performance-optimization-for-java-mysql-a-comprehensive-guide-5b5)
-- [Top 10 Python Memory Optimization Tricks for ML Models That Actually Work](https://dev.to/aaravjoshi/top-10-python-memory-optimization-tricks-for-ml-models-that-actually-work-4403)
+- [Securing AWS Environments with Advanced IAM &amp; Zero Trust](https://dev.to/prakash_rao/securing-aws-environments-with-advanced-iam-zero-trust-a-hands-on-approach-59ab)
+- [Enhancing Conversational AI: NeurochainAI Compatible with Voiceflow [no-code edition]](https://dev.to/xabri/enhancing-conversational-ai-neurochainai-compatible-with-voiceflow-no-code-edition-484c)
+- [How to Call the DeepSeek-R1 API Using Python? An In-Depth Step-by-Step Guide](https://dev.to/auden/how-to-call-the-deepseek-r1-api-using-python-an-in-depth-step-by-step-guide-311o)
+- [A React Journey - Giving up jQuery ?](https://dev.to/yasemindeki/a-react-journey-giving-up-jquery--3366)
+- [Recursion Made Easy !](https://dev.to/vijayr00/recursion-made-easy--3675)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
