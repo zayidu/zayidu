@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Must-Know Websites Every Marketer Should Bookmark](https://dev.to/aigurux/30-must-know-websites-every-marketer-should-bookmark-3831)
-- [🔐 Best Practices for Storing Access Tokens in the Browser 🔐](https://dev.to/illia_wolkow_61d1e8e752c0/best-practices-for-storing-access-tokens-in-the-browser-31ei)
-- [How CTOs Shape Business Strategy &lpar;and Why it Matters&rpar;](https://dev.to/kakacomputer-media/how-ctos-shape-business-strategy-and-why-it-matters-1748)
-- [How to Build a High-Performing IT Team &lpar;feat. Google Expert&rpar;](https://dev.to/kakacomputer-media/how-to-build-a-high-performing-it-team-feat-google-expert-25hj)
-- [Mastering Technical Teams: Unleash Your Strategies to Motivate and Lead](https://dev.to/kakacomputer-media/mastering-technical-teams-unleash-your-strategies-to-motivate-and-lead-3do7)
+- [&quot;Unlocking Omni-Modal Understanding: The Rise of Ola and WorldSense&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-omni-modal-understanding-the-rise-of-ola-and-worldsense-4f8e)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4bdk)
+- [Bring Your Website to Life with GSAP Animations 🚀](https://dev.to/lumineth/bring-your-website-to-life-with-gsap-animations-2ko8)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shigophobia/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-39e0)
+- [DeepSeek R1 vs o3-mini para Desenvolvedores: Qual é o melhor?](https://dev.to/dwtoledo/deepseek-r1-vs-o3-mini-para-desenvolvedores-qual-e-o-melhor-58h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
