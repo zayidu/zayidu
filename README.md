@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
-- [Top 10 Most Used Embedding Models for Audio Data](https://dev.to/zilliz/top-10-most-used-embedding-models-for-audio-data-8l4)
-- [The Rise of AI Interview Tools: How Technology is Changing the Job Interview Game](https://dev.to/lockedinai1/the-rise-of-ai-interview-tools-how-technology-is-changing-the-job-interview-game-37dn)
-- [Adventure: Building with NATS Jetstream KV Store -Part 3](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-3-4gl)
-- [[Boost]](https://dev.to/ycmjason/-4321)
+- [Supervised Learning Simplified](https://dev.to/thenomadevel/supervised-learning-simplified-1m1d)
+- [TECHNICAL DEBT EMERGENCY: Can You Get the Suits to PAY UP?](https://dev.to/karell_stemarie_ce42bf9c/technical-debt-emergency-can-you-get-the-suits-to-pay-up-4d67)
+- [Top 5 Highest Paying Cisco Certifications in 2025](https://dev.to/rohan_jee_085655230/top-5-highest-paying-cisco-certifications-in-2025-3oad)
+- [Following Line based on Centroid Detection](https://dev.to/jeffliulab/following-line-based-on-centroid-detection-1430)
+- [Zen &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/zen-bite-size-article-49ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
