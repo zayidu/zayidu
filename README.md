@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Regression Testing: How Genqe.ai is Transforming QA Efficiency](https://dev.to/radha_4c842d8e4362a7cdd9c/automated-regression-testing-how-genqeai-is-transforming-qa-efficiency-3l76)
-- [#140 — Generate Continuous Arrays](https://dev.to/judith677/140-generate-continuous-arrays-4amd)
-- [Best Web Scraping Browser | Utilizing Browserless AI to Intelligently Extract Data](https://dev.to/scraper0024/best-web-scraping-browser-utilizing-browserless-ai-to-intelligently-extract-data-28ik)
-- [Install-DeepSeek_Ollama-on-AWS-EC2](https://dev.to/enriqueaguila/install-deepseekollama-on-aws-ec2-223j)
-- [O que é a Ativei Digital?](https://dev.to/pablostorymaker/o-que-e-a-ativei-digital-21o0)
+- [I developed an AI-Excel tool website](https://dev.to/alcor_zsm/i-developed-an-ai-excel-tool-website-146h)
+- [a simple solution to escape maze](https://dev.to/jeffliulab/a-simple-solution-to-escape-maze-onc)
+- [Implementation of Singleton Design Pattern in React](https://dev.to/nashirjamali/implementation-of-singleton-design-pattern-in-react-5dma)
+- [Portfolio - About Me](https://dev.to/onlinedevelopers/portfolio-about-me-1lhk)
+- [Python Day- 35 Abstraction , Encapsulation](https://dev.to/guru_prasanna_01/python-day-35-abstraction-encapsulation-18n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
