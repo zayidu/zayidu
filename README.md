@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [currency converter widget for Multi-Currency Support](https://dev.to/value_work_fa2adff3bf1099/currency-converter-widget-for-multi-currency-support-1kcf)
-- [14 coding platforms to build your programming logic](https://dev.to/macroandmicro/14-coding-platforms-to-build-your-programming-logic-1odd)
-- [HNG AND MY FRONT-END DEVELOPMENT DREAMS](https://dev.to/dariusdaniel/hng-and-my-front-end-development-dreams-1ld2)
-- [Introduction to Swift Testing: Apple&#39;s New Testing Framework](https://dev.to/raphacmartin/introduction-to-swift-testing-apples-new-testing-framework-51p4)
-- [Instalação e Configuração do DeepSeek com Open WebUI](https://dev.to/kbdemiranda/instalacao-e-configuracao-do-deepseek-com-open-webui-5284)
+- [30 Must-Know Websites Every Marketer Should Bookmark](https://dev.to/aigurux/30-must-know-websites-every-marketer-should-bookmark-3831)
+- [🔐 Best Practices for Storing Access Tokens in the Browser 🔐](https://dev.to/illia_wolkow_61d1e8e752c0/best-practices-for-storing-access-tokens-in-the-browser-31ei)
+- [How CTOs Shape Business Strategy &lpar;and Why it Matters&rpar;](https://dev.to/kakacomputer-media/how-ctos-shape-business-strategy-and-why-it-matters-1748)
+- [How to Build a High-Performing IT Team &lpar;feat. Google Expert&rpar;](https://dev.to/kakacomputer-media/how-to-build-a-high-performing-it-team-feat-google-expert-25hj)
+- [Mastering Technical Teams: Unleash Your Strategies to Motivate and Lead](https://dev.to/kakacomputer-media/mastering-technical-teams-unleash-your-strategies-to-motivate-and-lead-3do7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
