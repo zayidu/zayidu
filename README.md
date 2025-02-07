@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Key Concepts &lpar;I&rpar;: Ownership System](https://dev.to/jolisper/rust-key-concepts-i-ownership-system-1mnm)
-- [Im a beginner developer i studied php mysql any project ideas i can build on](https://dev.to/lawrence_mayo01/im-a-beginner-developer-i-studied-php-mysql-any-project-ideas-i-can-build-on-1dh6)
-- [Marketing Insight Report](https://dev.to/faith_muluu/marketing-insight-report-3fi2)
-- [A Step-by-Step Guide to Creating SEO-Friendly Websites with Next.js](https://dev.to/raji_moshood_ee3a4c2638f6/a-step-by-step-guide-to-creating-seo-friendly-websites-with-nextjs-3p88)
-- [Thoughts on job hunting, titles, and having a non-traditional background](https://dev.to/stephanieparra/thoughts-on-job-hunting-titles-and-having-a-non-traditional-background-oao)
+- [How I Built a SpeedtestTracker with Raspberry PI and AWS Lambda](https://dev.to/duncanlew/how-i-built-a-speedtesttracker-with-raspberry-pi-and-aws-lambda-5d6n)
+- [Infrastructure as Code: Creating an AWS EC2 Instance with Terraform](https://dev.to/prajwal_kp/infrastructure-as-code-creating-an-aws-ec2-instance-with-terraform-3074)
+- [How to Deploy Azure Pipeline Agent on EKS with Auto Scaling!](https://dev.to/alex_galperin_0cecc4a9bc2/how-to-deploy-azure-pipeline-agent-on-eks-with-auto-scaling-5fjo)
+- [Security news weekly round-up - 7th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-february-2025-2hpb)
+- [10 Essential JavaScript Concepts Every New Developer Should Master](https://dev.to/raji_moshood_ee3a4c2638f6/10-essential-javascript-concepts-every-new-developer-should-master-23j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
