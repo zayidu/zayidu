@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just &#39;cause something throws an error, doesn&#39;t mean you need to catch it.](https://dev.to/thescottyjam/just-cause-something-throws-an-error-doesnt-mean-you-need-to-catch-it-495o)
-- [GoLang for Web Development: Speed and Simplicity Combined 🚀](https://dev.to/dct_technologyprivatelimited/golang-for-web-development-speed-and-simplicity-combined-a3)
-- [A Tale of Two Databases](https://dev.to/datamonk_/a-tale-of-two-databases-hf3)
-- [How to Ensure Data Security with WhatsApp Business API](https://dev.to/krsaurabht/how-to-ensure-data-security-with-whatsapp-business-api-2bmk)
-- [Git Merge vs Git Rebase: Cómo tener un historial ordenado y claro](https://dev.to/maadcode/git-merge-vs-git-rebase-como-tener-un-historial-ordenado-y-claro-2kic)
+- [REST vs GraphQL](https://dev.to/godofgeeks/rest-vs-graphql-k3k)
+- [Advanced API Spec Management with AI: Shaping the Future of API Editing](https://dev.to/getambassador2024/advanced-api-spec-management-with-ai-shaping-the-future-of-api-editing-5641)
+- [🚀 10 Angular Hacks Every Developer Should Know](https://dev.to/abhay_yt_52a8e72b213be229/-10-angular-hacks-every-developer-should-know-5638)
+- [The Best 3 ReactJS Free GeoGuessr Alternatives for 2025](https://dev.to/marek_020e8a8dbae0260a69d/the-best-3-reactjs-free-geoguessr-alternatives-for-2025-56c1)
+- [TIL: Synchronous import in ES-Modules using module.createRequire &lpar;Node&rpar;](https://dev.to/htho/til-synchronous-import-in-es-modules-using-modulecreaterequire-node-7l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
