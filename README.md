@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One simple trick to increase Stimulus.js legacy browser compatibility](https://dev.to/mtimofiiv/one-simple-trick-to-increase-stimulusjs-legacy-browser-compatibility-2oih)
-- [Rails Designer v1.13: Updated to Tailwind CSS v4](https://dev.to/railsdesigner/rails-designer-v113-updated-to-tailwind-css-v4-5a96)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ean)
-- [Workaround Complex code when you miss some concepts](https://dev.to/mihsa_instrudy/workaround-complex-code-when-you-miss-some-concepts-444m)
-- [Boost Your Dev Workflow with This All-in-One Toolbox](https://dev.to/ivan555/boost-your-dev-workflow-with-this-all-in-one-toolbox-5hj5)
+- [Just &#39;cause something throws an error, doesn&#39;t mean you need to catch it.](https://dev.to/thescottyjam/just-cause-something-throws-an-error-doesnt-mean-you-need-to-catch-it-495o)
+- [GoLang for Web Development: Speed and Simplicity Combined 🚀](https://dev.to/dct_technologyprivatelimited/golang-for-web-development-speed-and-simplicity-combined-a3)
+- [A Tale of Two Databases](https://dev.to/datamonk_/a-tale-of-two-databases-hf3)
+- [How to Ensure Data Security with WhatsApp Business API](https://dev.to/krsaurabht/how-to-ensure-data-security-with-whatsapp-business-api-2bmk)
+- [Git Merge vs Git Rebase: Cómo tener un historial ordenado y claro](https://dev.to/maadcode/git-merge-vs-git-rebase-como-tener-un-historial-ordenado-y-claro-2kic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
