@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Lombok | Java Library | Simplify Your Code | Spring Boot | Java Spring](https://dev.to/debeshpg90/project-lombok-java-library-simplify-your-code-spring-boot-java-spring-523l)
-- [Simplifying Event Grid Publishing: A Lightweight Wrapper for Cleaner Code and Easier Testing](https://dev.to/marktinderholt/simplifying-event-grid-publishing-a-lightweight-wrapper-for-cleaner-code-and-easier-testing-3mgj)
-- [Book Review: Analytical Skills for AI and Data Science](https://dev.to/ireneburresi/book-review-analytical-skills-for-ai-and-data-science-12ei)
-- [#Scope_Hoisting_in_JavaScript 🚀](https://dev.to/rating_rai_/scopehoistinginjavascript-ip6)
-- [Mocking TelemetryClient in Application Insights: A Simple Workaround](https://dev.to/marktinderholt/mocking-telemetryclient-in-application-insights-a-simple-workaround-2mec)
+- [Grateful for 2024, Inspired for 2025](https://dev.to/anuradhakumari/grateful-for-2024-inspired-for-2025-11o)
+- [Using the VAS6154A OBD Scanner Remotely with FlexiHub](https://dev.to/diana75082290/using-the-vas6154a-obd-scanner-remotely-with-flexihub-2204)
+- [The AI-Enhanced Developer: Maximizing Efficiency with Coding Agents](https://dev.to/danielsogl/the-ai-enhanced-developer-maximizing-efficiency-with-coding-agents-2lmf)
+- [Wireless Networks and Mobile Communication 📡📲](https://dev.to/arjun98k/wireless-networks-and-mobile-communication-390)
+- [Artificial intelligence in website optimization: benefits and risks](https://dev.to/daniellacatus/artificial-intelligence-in-website-optimization-benefits-and-risks-4ebp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
