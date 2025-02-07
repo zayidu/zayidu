@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs GraphQL](https://dev.to/godofgeeks/rest-vs-graphql-k3k)
-- [Advanced API Spec Management with AI: Shaping the Future of API Editing](https://dev.to/getambassador2024/advanced-api-spec-management-with-ai-shaping-the-future-of-api-editing-5641)
-- [🚀 10 Angular Hacks Every Developer Should Know](https://dev.to/abhay_yt_52a8e72b213be229/-10-angular-hacks-every-developer-should-know-5638)
-- [The Best 3 ReactJS Free GeoGuessr Alternatives for 2025](https://dev.to/marek_020e8a8dbae0260a69d/the-best-3-reactjs-free-geoguessr-alternatives-for-2025-56c1)
-- [TIL: Synchronous import in ES-Modules using module.createRequire &lpar;Node&rpar;](https://dev.to/htho/til-synchronous-import-in-es-modules-using-modulecreaterequire-node-7l6)
+- [Serverless AI for Indies: Building a Scalable Image Analysis Pipeline. Alone.](https://dev.to/aws-builders/serverless-ai-for-indies-building-a-scalable-image-analysis-pipeline-alone-5fao)
+- [5 Critical Vulnerabilities in Cloud Deployments and How to Fix Them](https://dev.to/anshul_kichara/5-critical-vulnerabilities-in-cloud-deployments-and-how-to-fix-them-55b3)
+- [DeepSeek R1: Architecture, Training, Local Deployment, and Hardware Requirements](https://dev.to/askyt/deepseek-r1-architecture-training-local-deployment-and-hardware-requirements-3mf8)
+- [My Journey in Web Development](https://dev.to/hmpmanish/my-journey-in-web-development-39g4)
+- [Create Smarter &amp; Better Git Commits with AI](https://dev.to/rasulkireev/create-smarter-better-git-commits-with-ai-50lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
