@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Peer-to-Peer File Sharing Web App with WebSockets and Pako Compression](https://dev.to/abhilaksharora/building-a-real-time-peer-to-peer-file-sharing-web-app-with-websockets-and-pako-compression-3791)
-- [Unlocking the Future A Complete Guide to Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/max_services/unlocking-the-future-a-complete-guide-to-progressive-web-apps-pwas-1319)
-- [How to Build an AI Meeting Assistant with Momen: Streamline Your Meeting Management](https://dev.to/momen_hq/how-to-build-an-ai-meeting-assistant-with-momen-streamline-your-meeting-management-1agm)
-- [Is DeepSeek the Chinese AI Revolution the World Has Been Waiting For?](https://dev.to/julioherreravelutini/is-deepseek-the-chinese-ai-revolution-the-world-has-been-waiting-for-48n1)
-- [Code Smell 289 - Shy Visitor](https://dev.to/mcsee/code-smell-289-shy-visitor-5eh0)
+- [AWS Machine Learning Certified? Let’s Do This!](https://dev.to/jorgecontreras/aws-machine-learning-certified-lets-do-this-4g1c)
+- [Frontend Fundamentals 9/20](https://dev.to/c6z3h/frontend-fundamentals-920-50no)
+- [Contract Testing: A Simple Solution to Event Schema Chaos in Event-Driven Architectures](https://dev.to/francisco_barril_a4564138/contract-testing-a-simple-solution-to-event-schema-chaos-in-event-driven-architectures-28l5)
+- [We need your help!](https://dev.to/skylerdev/we-need-your-help-3b90)
+- [Node.js vs Deno: Should You Still Hire a Node.js Developer in 2025?](https://dev.to/harshikachauhan/nodejs-vs-deno-should-you-still-hire-a-nodejs-developer-in-2025-46ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
