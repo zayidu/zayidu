@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Omni-Modal Understanding: The Rise of Ola and WorldSense&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-omni-modal-understanding-the-rise-of-ola-and-worldsense-4f8e)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4bdk)
-- [Bring Your Website to Life with GSAP Animations 🚀](https://dev.to/lumineth/bring-your-website-to-life-with-gsap-animations-2ko8)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shigophobia/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-39e0)
-- [DeepSeek R1 vs o3-mini para Desenvolvedores: Qual é o melhor?](https://dev.to/dwtoledo/deepseek-r1-vs-o3-mini-para-desenvolvedores-qual-e-o-melhor-58h8)
+- [Project Lombok | Java Library | Simplify Your Code | Spring Boot | Java Spring](https://dev.to/debeshpg90/project-lombok-java-library-simplify-your-code-spring-boot-java-spring-523l)
+- [Simplifying Event Grid Publishing: A Lightweight Wrapper for Cleaner Code and Easier Testing](https://dev.to/marktinderholt/simplifying-event-grid-publishing-a-lightweight-wrapper-for-cleaner-code-and-easier-testing-3mgj)
+- [Book Review: Analytical Skills for AI and Data Science](https://dev.to/ireneburresi/book-review-analytical-skills-for-ai-and-data-science-12ei)
+- [#Scope_Hoisting_in_JavaScript 🚀](https://dev.to/rating_rai_/scopehoistinginjavascript-ip6)
+- [Mocking TelemetryClient in Application Insights: A Simple Workaround](https://dev.to/marktinderholt/mocking-telemetryclient-in-application-insights-a-simple-workaround-2mec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
