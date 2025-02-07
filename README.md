@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing AWS Environments with Advanced IAM &amp; Zero Trust](https://dev.to/prakash_rao/securing-aws-environments-with-advanced-iam-zero-trust-a-hands-on-approach-59ab)
-- [Enhancing Conversational AI: NeurochainAI Compatible with Voiceflow [no-code edition]](https://dev.to/xabri/enhancing-conversational-ai-neurochainai-compatible-with-voiceflow-no-code-edition-484c)
-- [How to Call the DeepSeek-R1 API Using Python? An In-Depth Step-by-Step Guide](https://dev.to/auden/how-to-call-the-deepseek-r1-api-using-python-an-in-depth-step-by-step-guide-311o)
-- [A React Journey - Giving up jQuery ?](https://dev.to/yasemindeki/a-react-journey-giving-up-jquery--3366)
-- [Recursion Made Easy !](https://dev.to/vijayr00/recursion-made-easy--3675)
+- [10 Practical DeepSeek R1 Prompts for Coding](https://dev.to/apilover/10-practical-deepseek-r1-prompts-for-coding-16c3)
+- [Smart Contract Security](https://dev.to/fobabs/smart-contract-security-3584)
+- [Self-Updating Widgets &lpar;No Manual Changes!&rpar;](https://dev.to/shruti_jain_98b67e0d65330/self-updating-widgets-no-manual-changes-400i)
+- [Hello Dev Community! I’m Faizan Habib 👋](https://dev.to/faizanhabib/hello-dev-community-im-faizan-habib-3k02)
+- [Accountable Privacy in Web3 &lpar;2/4&rpar;](https://dev.to/supremesingh/accountable-privacy-in-web3-24-2lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
