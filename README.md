@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up A 3-Node Kubernetes Cluster](https://dev.to/xalexander/setting-up-a-3-node-kubernetes-cluster-71o)
-- [Setting Up and Configuring NGINX on an Ubuntu Server](https://dev.to/eunini/setting-up-and-configuring-nginx-on-an-ubuntu-server-1alf)
-- [How I Designed a Red Dead Redemption 2 Inspired Map in Mapbox Studio](https://dev.to/leemartin/how-i-designed-a-red-dead-redemption-2-inspired-map-in-mapbox-studio-4gkh)
-- [Inteligencia artificial para la vida](https://dev.to/alexrestrej/inteligencia-artificial-para-la-vida-4785)
-- [The Misadventures of Deploying to Mina Protocol: My Odyssey](https://dev.to/uratmangun/the-misadventures-of-deploying-to-mina-protocol-my-odyssey-3g11)
+- [some workaround when using kvm virtualization](https://dev.to/dace/some-workaround-when-using-kvm-virtualization-63p)
+- [Adventure: NATS Jetstream KV Store - Part 1](https://dev.to/rphumulock/adventure-nats-jetstream-kv-store-part-1-108h)
+- [Cloud Security Best Practice: A Blueprint for Securing Your Cloud Enviroment](https://dev.to/leonardkachi/cloud-security-best-practice-a-blueprint-for-securing-your-cloud-enviroment-18m8)
+- [How to Fix &quot;No Go Packages Exist&quot; Error in Go](https://dev.to/apondiart/how-to-fix-no-go-packages-exist-error-in-go-7lo)
+- [Weekly JavaScript Roundup: Friday Links 17, February 07, 2025](https://dev.to/jsdevspace/weekly-javascript-roundup-friday-links-17-february-07-2025-168l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
