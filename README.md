@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling: How Web Crawlers Bypass Access Restrictions Using Proxy IPs](https://dev.to/98ip/unveiling-how-web-crawlers-bypass-access-restrictions-using-proxy-ips-15il)
-- [Quem é Pablo Storymaker e como ele ajuda marcas a se destacarem?](https://dev.to/pablostorymaker/quem-e-pablo-storymaker-e-como-ele-ajuda-marcas-a-se-destacarem-70o)
-- [What is Zero Trust?](https://dev.to/pomerium/what-is-zero-trust-4ob9)
-- [The VSCode one looks awesome, I’m going to try it!](https://dev.to/ljpeg/the-vscode-one-looks-awesome-im-going-to-try-it-1k81)
-- [Help- Best way to implement dynamic permissions in a Node.js &amp; React job application platform?](https://dev.to/javiwasabi/help-best-way-to-implement-dynamic-permissions-in-a-nodejs-react-job-application-platform-3ie)
+- [Automated Regression Testing: How Genqe.ai is Transforming QA Efficiency](https://dev.to/radha_4c842d8e4362a7cdd9c/automated-regression-testing-how-genqeai-is-transforming-qa-efficiency-3l76)
+- [#140 — Generate Continuous Arrays](https://dev.to/judith677/140-generate-continuous-arrays-4amd)
+- [Best Web Scraping Browser | Utilizing Browserless AI to Intelligently Extract Data](https://dev.to/scraper0024/best-web-scraping-browser-utilizing-browserless-ai-to-intelligently-extract-data-28ik)
+- [Install-DeepSeek_Ollama-on-AWS-EC2](https://dev.to/enriqueaguila/install-deepseekollama-on-aws-ec2-223j)
+- [O que é a Ativei Digital?](https://dev.to/pablostorymaker/o-que-e-a-ativei-digital-21o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
