@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Value in Open Source Contributions: The Receiver Benefits Model](https://dev.to/lisa_strato/unlocking-the-value-in-open-source-contributions-the-receiver-benefits-model-16jk)
-- [Open Source Developer Financial Independence: A New Horizon](https://dev.to/lisa_strato/open-source-developer-financial-independence-a-new-horizon-57bi)
-- [GBASE 数据库 | Distributed Memory Monitoring in GBase 8c Database: A Practical Guide](https://dev.to/generaldata/distributed-memory-monitoring-in-gbase-8c-database-a-practical-guide-2f58)
-- [Data Analysis Showdown: Comparing SQL, Python, and esProc SPL](https://dev.to/esproc_spl/data-analysis-showdown-comparing-sql-python-and-esproc-spl-mhe)
-- [Ensuring the Future of Open Source: The Importance of Funding](https://dev.to/lisa_strato/ensuring-the-future-of-open-source-the-importance-of-funding-4pc5)
+- [PPSSPP or psp? Uncovering bugs from the past](https://dev.to/pvsdev/ppsspp-or-psp-uncovering-bugs-from-the-past-2919)
+- [The Top 6 Chrome Extensions Every Developer Must Have in 2025](https://dev.to/karaniph/the-top-6-chrome-extensions-every-developer-must-have-in-2025-6nm)
+- [AWS S3 Location Constraint Error? Here’s What You’re Doing Wrong](https://dev.to/marviecodes/aws-s3-location-constraint-error-heres-what-youre-doing-wrong-4egp)
+- [Top 20+ API Testing FAQ for Freshers! &lpar;2025&rpar; 🔥](https://dev.to/fallon_jimmy/top-20-api-testing-faq-for-freshers-2025-4fe5)
+- [5 Side Projects You Can Build to Showcase Your Skills in Next.js](https://dev.to/raji_moshood_ee3a4c2638f6/5-side-projects-you-can-build-to-showcase-your-skills-in-nextjs-3819)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
