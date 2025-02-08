@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Helm vs Kustomize: A Comprehensive Guide with Examples](https://dev.to/nirmalnaveen/helm-vs-kustomize-a-comprehensive-guide-with-real-world-examples-1hn8)
-- [Building Scalable Data Pipelines with Python – A Complete Guide](https://dev.to/batrudin_haji/building-scalable-data-pipelines-with-python-a-complete-guide-40a7)
-- [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)
-- [My Journey in iOS Development: Lessons, Challenges, and Advice for Beginners](https://dev.to/divyansh_bhardwaj_1c4b5eb/my-journey-in-ios-development-lessons-challenges-and-advice-for-beginners-5941)
-- [#first_post](https://dev.to/codetirtho97/firstpost-2kco)
+- [&quot;Unlocking the Future: The Power of Omni-Modal Language Models Like Ola&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-the-power-of-omni-modal-language-models-like-ola-126b)
+- [AI Technology Support: Momo and Topo&#39;s Interaction](https://dev.to/topopet/ai-technology-support-momo-and-topos-interaction-3eh)
+- [How to Use LangChain for AI Workflow Automation](https://dev.to/koolkamalkishor/how-to-use-langchain-for-ai-workflow-automation-1i94)
+- [The Future of Open-Source LLMs vs. Proprietary AI Models](https://dev.to/koolkamalkishor/the-future-of-open-source-llms-vs-proprietary-ai-models-4j68)
+- [Actualmente coloco pauta en meta de FB que esta integrado con woztell &lpar;canal de mensajeria&rpar; atraves de Wssp business, necesito una empresa que me apoye con lo que tengo con un API que me brindeel ID de anuncio, de conjunto de anuncios, de la campaña, etc.](https://dev.to/clau/actualmente-coloco-pauta-en-meta-de-fb-que-esta-integrado-con-woztell-canal-de-mensajeria-atraves-3pn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
