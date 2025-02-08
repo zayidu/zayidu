@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Questions on Hoisting in JavaScript Answered](https://dev.to/codeguage/9-questions-on-hoisting-in-javascript-answered-6io)
-- [What is THIS ?](https://dev.to/rm_sh/what-is-this--1298)
-- [Escalando api de mil usuários para um milhão](https://dev.to/bendevoficial/escalando-api-de-mil-usuarios-para-um-milhao-3nh4)
-- [The Software Evolution in the Era of Large Language Models: Dinosaur-like Software vs. Monkey Troop-like Software](https://dev.to/chen_debra_3060b21d12b1b0/the-software-evolution-in-the-era-of-large-language-models-dinosaur-like-software-vs-monkey-33d4)
-- [The Demand for MERN Stack Developers: How to Stand Out in the Job Market](https://dev.to/raji_moshood_ee3a4c2638f6/the-demand-for-mern-stack-developers-how-to-stand-out-in-the-job-market-4k0j)
+- [File Upload in Laravel and Vue.js](https://dev.to/robin-ivi/-13i3)
+- [How to protect yourself against cyber threats](https://dev.to/daniellacatus/how-to-protect-yourself-against-cyber-threats-3m7m)
+- [What should I learn after Javascript?](https://dev.to/aqsa_zafar_3f878997dae27e/what-should-i-learn-after-javascript-2lop)
+- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-4349)
+- [What should I prioritize on error checking?](https://dev.to/amiswa/what-should-i-prioritize-on-error-checking-4kdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
