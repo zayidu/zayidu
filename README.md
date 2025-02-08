@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Serverless Hugging Face LLM with AWS Lambda](https://dev.to/gbenga_ifeoluwasaola_397/deploying-a-serverless-hugging-face-llm-with-aws-lambda-1732)
-- [Updating User Settings Without a Save Button](https://dev.to/jessalejo/updating-user-settings-without-a-save-button-3llj)
-- [Moving to a New Town? Let Me Make It Easier for You.](https://dev.to/eloho/moving-to-a-new-town-let-me-make-it-easier-for-you-gdi)
-- [Daily Quantum Learning #7 - Quantum Error Correction Basics](https://dev.to/quantumashx/daily-quantum-learning-7-quantum-error-correction-basics-2gc3)
-- [My journey into Next: why i chose it and my first impression](https://dev.to/geoffrey_kirumba_b06e414a/my-journey-into-next-why-i-chose-it-and-my-first-impression-2gjd)
+- [Comprehensive Guide: Implementing Error Handling in Golang Microservices with Best Practices](https://dev.to/aaravjoshi/comprehensive-guide-implementing-error-handling-in-golang-microservices-with-best-practices-44m8)
+- [Svelte 5 on Bun 1.2: Getting started](https://dev.to/nabbisen/svelte-5-on-bun-12-getting-started-3ae8)
+- [7 Advanced JavaScript Form Validation Techniques for Better User Experience](https://dev.to/aaravjoshi/7-advanced-javascript-form-validation-techniques-for-better-user-experience-31hb)
+- [Prácticas de la nube recomendadas](https://dev.to/briansuarezsantiago/practicas-de-la-nube-recomendadas-kna)
+- [Kubernetes Services vs. Ingress: What You Need to Know.](https://dev.to/favxlaw/kubernetes-services-vs-ingress-what-you-need-to-know-20p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
