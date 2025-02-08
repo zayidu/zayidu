@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Supply Chain Optimization: A Developer’s Perspective](https://dev.to/devopsmirc/how-ai-is-transforming-supply-chain-optimization-a-developers-perspective-2k9o)
-- [Bloom Filters Made Easy: Python Code &amp; Explanation 🐍](https://dev.to/leapcell/bloom-filters-made-easy-python-code-explanation-4ce9)
-- [From Comfort to Chaos: Why I Left My Stable Job for an AI Startup](https://dev.to/k-gopher/from-comfort-to-chaos-why-i-left-my-stable-job-for-an-ai-startup-1klm)
-- [SQL - Tuple Comparison](https://dev.to/manudevelopia/sql-tuple-comparison-2lgh)
-- [2D Drawing Component](https://dev.to/wangfei/2d-drawing-component-2gkm)
+- [My Journey with SafeLine: A Practical Tool for Web Security](https://dev.to/carrie_luo1/my-journey-with-safeline-a-practical-tool-for-web-security-5e9a)
+- [Hiring shouldn’t be complicated](https://dev.to/yazeed95/hiring-shouldnt-be-complicated-2e7i)
+- [Single Page Applications &lpar;SPAs&rpar; vs. Multi Page Applications &lpar;MPAs&rpar; in React: A Beginner-Friendly Guide](https://dev.to/az_99f04027276612bd1dfd0f/single-page-applications-spas-vs-multi-page-applications-mpas-in-react-a-beginner-friendly-1k0c)
+- [Learning Rate](https://dev.to/asadullahmasood/learning-rate-4non)
+- [Introduction to Mathematics and Statistics for Data Science and machine learning](https://dev.to/asadullahmasood/introduction-to-mathematics-and-statistics-for-data-science-and-machine-learning-1g0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
