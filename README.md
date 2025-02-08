@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending 30 Articles to Read by Every Python Developers.](https://dev.to/dev-resources/trending-30-articles-to-read-by-every-python-developers-1fn1)
-- [Object reference not set to an instance of an object.](https://dev.to/emmanuel_fiadufe_6b7d3037/object-reference-not-set-to-an-instance-of-an-object-4b4h)
-- [Java Game Coding: A Beginner&#39;s Guide to Creating Engaging Games](https://dev.to/devme/java-game-coding-a-beginners-guide-to-creating-engaging-games-52kh)
-- [Building Mobile Apps Tiresome? Learn how PWAs can get it done with minimal effort!](https://dev.to/rijultp/building-mobile-apps-tiresome-learn-how-pwas-can-get-it-done-with-minimal-effort-5f7k)
-- [Serverless MapReduce for Excel: Scale Your Marketing Data with AWS](https://dev.to/ohanhaliuk/serverless-mapreduce-for-excel-scale-your-marketing-data-with-aws-2460)
+- [Empowering Financial Education Through Open Source](https://dev.to/lisa_strato/empowering-financial-education-through-open-source-4pac)
+- [Year 1: Foundations](https://dev.to/breschgn/year-1-foundations-55ea)
+- [Spotify Clone - HTML &amp; CSS Guide](https://dev.to/_bhupeshk_/spotify-clone-html-css-guide-1e9)
+- [Building a Number Classification API with AWS Lambda &amp; API Gateway](https://dev.to/hormogbolahan20/building-a-number-classification-api-with-aws-lambda-api-gateway-459n)
+- [🚀 Level Up Your VS Code Workflow with GitHub Copilot 1.97!](https://dev.to/madzimai/level-up-your-vs-code-workflow-with-github-copilot-197-240c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
