@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How Kotlin is Powering Modern Web Development Projects](https://dev.to/dct_technologyprivatelimited/how-kotlin-is-powering-modern-web-development-projects-1732)
-- [🔍 Understanding Superglobal Variables in PHP: A Developer’s Secret Weapon!](https://dev.to/dct_technologyprivatelimited/understanding-superglobal-variables-in-php-a-developers-secret-weapon-1cbi)
-- [My First Year at an Aussie Company &lpar;from Singapore and previously China&rpar;](https://dev.to/jennieji/my-first-year-at-an-aussie-company-from-singapore-and-previously-china-1e0f)
-- [Adventure: Building with NATS Jetstream KV Store -Part 8](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-8-286j)
-- [Animation loader with latest ui/ux effects using the html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/animation-loader-with-latest-uiux-effects-using-the-html-css-and-javascript-5fm7)
+- [From Fear to Love: Dating with an STI](https://dev.to/dating484/from-fear-to-love-dating-with-an-sti-103p)
+- [Optimizing Docker Containers for Better Performance and Lower Costs](https://dev.to/rabindratamang/optimizing-docker-containers-for-better-performance-and-lower-costs-25kk)
+- [AI Tools—The Key to Unlocking Efficiency and Innovation](https://dev.to/theaiguy786/ai-tools-the-key-to-unlocking-efficiency-and-innovation-1mac)
+- [Why is it important to use a pipeline for preprocessing?](https://dev.to/pierre_a6db1f48f91217f26b/why-is-it-important-to-use-a-pipeline-for-preprocessing-14o1)
+- [doReturn&lpar;&rpar; method in Mockito example](https://dev.to/realnamehidden1_61/doreturn-method-in-mockito-example-1a96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
