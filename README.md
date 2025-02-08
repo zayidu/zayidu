@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxy IP and Python: an efficient combination to break through network restrictions](https://dev.to/98ip/proxy-ip-and-python-an-efficient-combination-to-break-through-network-restrictions-26jb)
-- [Common Mistakes Developers Make When Using React and How to Avoid Them](https://dev.to/raji_moshood_ee3a4c2638f6/common-mistakes-developers-make-when-using-react-and-how-to-avoid-them-jke)
-- [The Non-tech in Tech](https://dev.to/timothy_97/the-non-tech-in-tech-3dmn)
-- [Annapurna Base Camp Trek: A Journey to the Heart of the Himalayas](https://dev.to/sangita_giri_3ed2bea80d5e/annapurna-base-camp-trek-a-journey-to-the-heart-of-the-himalayas-12gb)
-- [Building a Micro Frontend Architecture with Vue 3, Vite and Module Federation](https://dev.to/lmlonghuynh/building-a-micro-frontend-architecture-with-vue-3-vite-and-module-federation-1bb1)
+- [9 Questions on Hoisting in JavaScript Answered](https://dev.to/codeguage/9-questions-on-hoisting-in-javascript-answered-6io)
+- [What is THIS ?](https://dev.to/rm_sh/what-is-this--1298)
+- [Escalando api de mil usuários para um milhão](https://dev.to/bendevoficial/escalando-api-de-mil-usuarios-para-um-milhao-3nh4)
+- [The Software Evolution in the Era of Large Language Models: Dinosaur-like Software vs. Monkey Troop-like Software](https://dev.to/chen_debra_3060b21d12b1b0/the-software-evolution-in-the-era-of-large-language-models-dinosaur-like-software-vs-monkey-33d4)
+- [The Demand for MERN Stack Developers: How to Stand Out in the Job Market](https://dev.to/raji_moshood_ee3a4c2638f6/the-demand-for-mern-stack-developers-how-to-stand-out-in-the-job-market-4k0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
