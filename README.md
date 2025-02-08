@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PPSSPP or psp? Uncovering bugs from the past](https://dev.to/pvsdev/ppsspp-or-psp-uncovering-bugs-from-the-past-2919)
-- [The Top 6 Chrome Extensions Every Developer Must Have in 2025](https://dev.to/karaniph/the-top-6-chrome-extensions-every-developer-must-have-in-2025-6nm)
-- [AWS S3 Location Constraint Error? Here’s What You’re Doing Wrong](https://dev.to/marviecodes/aws-s3-location-constraint-error-heres-what-youre-doing-wrong-4egp)
-- [Top 20+ API Testing FAQ for Freshers! &lpar;2025&rpar; 🔥](https://dev.to/fallon_jimmy/top-20-api-testing-faq-for-freshers-2025-4fe5)
-- [5 Side Projects You Can Build to Showcase Your Skills in Next.js](https://dev.to/raji_moshood_ee3a4c2638f6/5-side-projects-you-can-build-to-showcase-your-skills-in-nextjs-3819)
+- [How AI is Transforming Supply Chain Optimization: A Developer’s Perspective](https://dev.to/devopsmirc/how-ai-is-transforming-supply-chain-optimization-a-developers-perspective-2k9o)
+- [Bloom Filters Made Easy: Python Code &amp; Explanation 🐍](https://dev.to/leapcell/bloom-filters-made-easy-python-code-explanation-4ce9)
+- [From Comfort to Chaos: Why I Left My Stable Job for an AI Startup](https://dev.to/k-gopher/from-comfort-to-chaos-why-i-left-my-stable-job-for-an-ai-startup-1klm)
+- [SQL - Tuple Comparison](https://dev.to/manudevelopia/sql-tuple-comparison-2lgh)
+- [2D Drawing Component](https://dev.to/wangfei/2d-drawing-component-2gkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
