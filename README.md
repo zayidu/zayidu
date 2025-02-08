@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Talent Acquisition Software](https://dev.to/albertocubeddu/ai-talent-acquisition-software-15lj)
-- [My Exploratory Testing Journey on Cars.ng](https://dev.to/owolabi_farouqmaku_7bc5a/my-exploratory-testing-journey-on-carsng-5ded)
-- [The Language of the Digital Soul: Creating Sensory Experiences with Code and Smart Data](https://dev.to/justina_ockoner_7661/the-language-of-the-digital-soul-creating-sensory-experiences-with-code-and-smart-data-342p)
-- [Day 1098 : Runnin&#39;](https://dev.to/dwane/day-1098-runnin-26ic)
-- [Empowering Open Source: The Role of Funding Workshops](https://dev.to/lisa_strato/empowering-open-source-the-role-of-funding-workshops-o6f)
+- [A Practical Guide to Installing a Hugo Theme](https://dev.to/dmotts/a-practical-guide-to-installing-a-hugo-theme-53be)
+- [Funds stolen increased by ~21.07% to a staggering $2.2 billion. Here are some key steps to prevent that.](https://dev.to/blockexperts/funds-stolen-increased-by-2107-to-a-staggering-22-billion-here-are-some-key-steps-to-prevent-7o7)
+- [Understanding REST APIs vs GraphQL: Which Should You Use?](https://dev.to/raji_moshood_ee3a4c2638f6/understanding-rest-apis-vs-graphql-which-should-you-use-3a3b)
+- [🧠🤖Gemini API for free &lpar;by Super Mario and ChatGPT&rpar;](https://dev.to/webdeveloperhyper/gemini-api-for-free-by-super-mario-and-chatgpt-54cf)
+- [Choosing Between On-Page Expansion, Modals, and New Screens in Mobile App Design](https://dev.to/diorla/choosing-between-on-page-expansion-modals-and-new-screens-in-mobile-app-design-4lc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
