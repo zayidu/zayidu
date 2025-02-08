@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I accidentally wrote a simple Markdown editor](https://dev.to/aloisseckar/how-i-accidentally-wrote-a-simple-markdown-editor-29op)
-- [You Can’t Afford to Miss These 5 AI Tools! &lpar;Jan Edition&rpar;](https://dev.to/thenomadevel/you-cant-afford-to-miss-these-5-ai-tools-jan-edition-20gn)
-- [Deploying Secure Go Apps on GCP: A Journey from Local to Cloud](https://dev.to/muhammetberdi_jepbarov/deploying-secure-go-apps-on-gcp-a-journey-from-local-to-cloud-2pik)
-- [How to build an EASIEST Smart Traffic App using OpenCV with RaspberryPi and Arduino | IoT Application](https://dev.to/muhammetberdi_jepbarov/how-to-build-an-easiest-smart-traffic-app-using-opencv-with-raspberrypi-and-arduino-iot-pla)
-- [Tsonnet #5 - Pretty-printing JSON](https://dev.to/bitmaybewise/tsonnet-5-pretty-printing-json-15hn)
+- [Helm vs Kustomize: A Comprehensive Guide with Examples](https://dev.to/nirmalnaveen/helm-vs-kustomize-a-comprehensive-guide-with-real-world-examples-1hn8)
+- [Building Scalable Data Pipelines with Python – A Complete Guide](https://dev.to/batrudin_haji/building-scalable-data-pipelines-with-python-a-complete-guide-40a7)
+- [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)
+- [My Journey in iOS Development: Lessons, Challenges, and Advice for Beginners](https://dev.to/divyansh_bhardwaj_1c4b5eb/my-journey-in-ios-development-lessons-challenges-and-advice-for-beginners-5941)
+- [#first_post](https://dev.to/codetirtho97/firstpost-2kco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
