@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Installing a Hugo Theme](https://dev.to/dmotts/a-practical-guide-to-installing-a-hugo-theme-53be)
-- [Funds stolen increased by ~21.07% to a staggering $2.2 billion. Here are some key steps to prevent that.](https://dev.to/blockexperts/funds-stolen-increased-by-2107-to-a-staggering-22-billion-here-are-some-key-steps-to-prevent-7o7)
-- [Understanding REST APIs vs GraphQL: Which Should You Use?](https://dev.to/raji_moshood_ee3a4c2638f6/understanding-rest-apis-vs-graphql-which-should-you-use-3a3b)
-- [🧠🤖Gemini API for free &lpar;by Super Mario and ChatGPT&rpar;](https://dev.to/webdeveloperhyper/gemini-api-for-free-by-super-mario-and-chatgpt-54cf)
-- [Choosing Between On-Page Expansion, Modals, and New Screens in Mobile App Design](https://dev.to/diorla/choosing-between-on-page-expansion-modals-and-new-screens-in-mobile-app-design-4lc0)
+- [Proxy IP and Python: an efficient combination to break through network restrictions](https://dev.to/98ip/proxy-ip-and-python-an-efficient-combination-to-break-through-network-restrictions-26jb)
+- [Common Mistakes Developers Make When Using React and How to Avoid Them](https://dev.to/raji_moshood_ee3a4c2638f6/common-mistakes-developers-make-when-using-react-and-how-to-avoid-them-jke)
+- [The Non-tech in Tech](https://dev.to/timothy_97/the-non-tech-in-tech-3dmn)
+- [Annapurna Base Camp Trek: A Journey to the Heart of the Himalayas](https://dev.to/sangita_giri_3ed2bea80d5e/annapurna-base-camp-trek-a-journey-to-the-heart-of-the-himalayas-12gb)
+- [Building a Micro Frontend Architecture with Vue 3, Vite and Module Federation](https://dev.to/lmlonghuynh/building-a-micro-frontend-architecture-with-vue-3-vite-and-module-federation-1bb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
