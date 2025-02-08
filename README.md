@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Data Preprocessing](https://dev.to/asadullahmasood/a-comprehensive-guide-to-data-preprocessing-3f2j)
-- [Boosting Algorithms](https://dev.to/asadullahmasood/boosting-algorithms-1857)
-- [Best AI Code Editors to Enhance Your Programming Efficiency](https://dev.to/robin-ivi/best-ai-code-editors-to-enhance-your-programming-efficiency-410k)
-- [Random Forest Algorithm for Machine Learning](https://dev.to/asadullahmasood/random-forest-algorithm-for-machine-learning-38od)
-- [Algorithms and Models in Machine Learning](https://dev.to/asadullahmasood/algorithms-and-models-in-machine-learning-2ce0)
+- [Shutdown EC2 servers when unused](https://dev.to/mhamadelitawi/shutdown-ec2-servers-when-unused-koa)
+- [The Ultimate Guide to Responsive Typography Without Media Queries](https://dev.to/digitalminds/the-ultimate-guide-to-responsive-typography-without-media-queries-1jlm)
+- [From Local to Cloud: Deploying a Django Employment Management App with AWS RDS](https://dev.to/pravesh_sudha_3c2b0c2b5e0/from-local-to-cloud-deploying-a-django-employment-management-app-with-aws-rds-m80)
+- [Unlocking SEO Success, Referring Subnets vs. Referring Domains: The Backlink Diversity](https://dev.to/seosiri/unlocking-seo-success-referring-subnets-vs-referring-domains-the-backlink-diversity-3h3j)
+- [How I Conquered the CISSP Exam](https://dev.to/aadeenair/how-i-conquered-the-cissp-exam-1mp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
