@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking the Future: The Power of Omni-Modal Language Models Like Ola&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-the-power-of-omni-modal-language-models-like-ola-126b)
-- [AI Technology Support: Momo and Topo&#39;s Interaction](https://dev.to/topopet/ai-technology-support-momo-and-topos-interaction-3eh)
-- [How to Use LangChain for AI Workflow Automation](https://dev.to/koolkamalkishor/how-to-use-langchain-for-ai-workflow-automation-1i94)
-- [The Future of Open-Source LLMs vs. Proprietary AI Models](https://dev.to/koolkamalkishor/the-future-of-open-source-llms-vs-proprietary-ai-models-4j68)
-- [Actualmente coloco pauta en meta de FB que esta integrado con woztell &lpar;canal de mensajeria&rpar; atraves de Wssp business, necesito una empresa que me apoye con lo que tengo con un API que me brindeel ID de anuncio, de conjunto de anuncios, de la campaña, etc.](https://dev.to/clau/actualmente-coloco-pauta-en-meta-de-fb-que-esta-integrado-con-woztell-canal-de-mensajeria-atraves-3pn4)
+- [JavaScript Interview Questions and Answers for the Job Market in Bangladesh](https://dev.to/engrsakib/javascript-interview-questions-and-answers-for-the-job-market-in-bangladesh-a05)
+- [Building Scalable Data Pipelines with Python – A Complete Guide.](https://dev.to/amin12905/building-scalable-data-pipelines-with-python-a-complete-guide-ch5)
+- [18+ Questions to Challenge and Expand Your Webpack Knowledge](https://dev.to/break_it_down/18-questions-to-challenge-and-expand-your-webpack-knowledge-20lf)
+- [Revolutionizing Development: The Ultimate Guide to Backend Tools in 2025](https://dev.to/jetthoughts/revolutionizing-development-the-ultimate-guide-to-backend-tools-in-2025-37fg)
+- [Pointers, a weird beast for beginners and beyond](https://dev.to/thestandardguy_220cf14772/pointers-a-weird-beast-for-beginners-and-beyond-1ab6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
