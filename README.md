@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Fear to Love: Dating with an STI](https://dev.to/dating484/from-fear-to-love-dating-with-an-sti-103p)
-- [Optimizing Docker Containers for Better Performance and Lower Costs](https://dev.to/rabindratamang/optimizing-docker-containers-for-better-performance-and-lower-costs-25kk)
-- [AI Tools—The Key to Unlocking Efficiency and Innovation](https://dev.to/theaiguy786/ai-tools-the-key-to-unlocking-efficiency-and-innovation-1mac)
-- [Why is it important to use a pipeline for preprocessing?](https://dev.to/pierre_a6db1f48f91217f26b/why-is-it-important-to-use-a-pipeline-for-preprocessing-14o1)
-- [doReturn&lpar;&rpar; method in Mockito example](https://dev.to/realnamehidden1_61/doreturn-method-in-mockito-example-1a96)
+- [Unlock Professional-Grade Photo Editing: How Imgkits Simplifies Stunning Visuals](https://dev.to/fagac_gvwc_0ebeec7ffe710a/unlock-professional-grade-photo-editing-how-imgkits-simplifies-stunning-visuals-3fgc)
+- [In 2025: The Future of Automation Testing: Adapting to AI Model Validation](https://dev.to/tak089/the-future-of-automation-testing-adapting-to-ai-model-validation-48k6)
+- [Reduce AI Training Costs with Neurolov AI’s Browser-Based GPU Platform](https://dev.to/neurolov_ai_/reduce-ai-training-costs-with-neurolov-ais-browser-based-gpu-platform-2oco)
+- [New NPM Package in Dev Town!!!](https://dev.to/codetirtho97/new-npm-package-in-dev-town-3go4)
+- [Google Drive tips and tricks to help you work more efficiently](https://dev.to/devops_den/google-drive-tips-and-tricks-to-help-you-work-more-efficiently-1hg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
