@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Financial Education Through Open Source](https://dev.to/lisa_strato/empowering-financial-education-through-open-source-4pac)
-- [Year 1: Foundations](https://dev.to/breschgn/year-1-foundations-55ea)
-- [Spotify Clone - HTML &amp; CSS Guide](https://dev.to/_bhupeshk_/spotify-clone-html-css-guide-1e9)
-- [Building a Number Classification API with AWS Lambda &amp; API Gateway](https://dev.to/hormogbolahan20/building-a-number-classification-api-with-aws-lambda-api-gateway-459n)
-- [🚀 Level Up Your VS Code Workflow with GitHub Copilot 1.97!](https://dev.to/madzimai/level-up-your-vs-code-workflow-with-github-copilot-197-240c)
+- [[Boost]](https://dev.to/thestandardguy_220cf14772/-414m)
+- [Untitled](https://dev.to/liam_allard_62404aab94a8c/untitled-1egg)
+- [Navigating the Financial Landscape: Open Source Project Financial Tools](https://dev.to/lisa_strato/navigating-the-financial-landscape-open-source-project-financial-tools-nb5)
+- [About High Aspiration](https://dev.to/shrsv/about-high-aspiration-2i1f)
+- [VS Code Extensions to make our development easier](https://dev.to/chukwu3meka/vs-code-extensions-to-make-our-development-easier-1017)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
