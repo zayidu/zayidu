@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shutdown EC2 servers when unused](https://dev.to/mhamadelitawi/shutdown-ec2-servers-when-unused-koa)
-- [The Ultimate Guide to Responsive Typography Without Media Queries](https://dev.to/digitalminds/the-ultimate-guide-to-responsive-typography-without-media-queries-1jlm)
-- [From Local to Cloud: Deploying a Django Employment Management App with AWS RDS](https://dev.to/pravesh_sudha_3c2b0c2b5e0/from-local-to-cloud-deploying-a-django-employment-management-app-with-aws-rds-m80)
-- [Unlocking SEO Success, Referring Subnets vs. Referring Domains: The Backlink Diversity](https://dev.to/seosiri/unlocking-seo-success-referring-subnets-vs-referring-domains-the-backlink-diversity-3h3j)
-- [How I Conquered the CISSP Exam](https://dev.to/aadeenair/how-i-conquered-the-cissp-exam-1mp7)
+- [How I accidentally wrote a simple Markdown editor](https://dev.to/aloisseckar/how-i-accidentally-wrote-a-simple-markdown-editor-29op)
+- [You Can’t Afford to Miss These 5 AI Tools! &lpar;Jan Edition&rpar;](https://dev.to/thenomadevel/you-cant-afford-to-miss-these-5-ai-tools-jan-edition-20gn)
+- [Deploying Secure Go Apps on GCP: A Journey from Local to Cloud](https://dev.to/muhammetberdi_jepbarov/deploying-secure-go-apps-on-gcp-a-journey-from-local-to-cloud-2pik)
+- [How to build an EASIEST Smart Traffic App using OpenCV with RaspberryPi and Arduino | IoT Application](https://dev.to/muhammetberdi_jepbarov/how-to-build-an-easiest-smart-traffic-app-using-opencv-with-raspberrypi-and-arduino-iot-pla)
+- [Tsonnet #5 - Pretty-printing JSON](https://dev.to/bitmaybewise/tsonnet-5-pretty-printing-json-15hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
