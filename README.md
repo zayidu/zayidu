@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/thestandardguy_220cf14772/-414m)
-- [Untitled](https://dev.to/liam_allard_62404aab94a8c/untitled-1egg)
-- [Navigating the Financial Landscape: Open Source Project Financial Tools](https://dev.to/lisa_strato/navigating-the-financial-landscape-open-source-project-financial-tools-nb5)
-- [About High Aspiration](https://dev.to/shrsv/about-high-aspiration-2i1f)
-- [VS Code Extensions to make our development easier](https://dev.to/chukwu3meka/vs-code-extensions-to-make-our-development-easier-1017)
+- [Deploying a Serverless Hugging Face LLM with AWS Lambda](https://dev.to/gbenga_ifeoluwasaola_397/deploying-a-serverless-hugging-face-llm-with-aws-lambda-1732)
+- [Updating User Settings Without a Save Button](https://dev.to/jessalejo/updating-user-settings-without-a-save-button-3llj)
+- [Moving to a New Town? Let Me Make It Easier for You.](https://dev.to/eloho/moving-to-a-new-town-let-me-make-it-easier-for-you-gdi)
+- [Daily Quantum Learning #7 - Quantum Error Correction Basics](https://dev.to/quantumashx/daily-quantum-learning-7-quantum-error-correction-basics-2gc3)
+- [My journey into Next: why i chose it and my first impression](https://dev.to/geoffrey_kirumba_b06e414a/my-journey-into-next-why-i-chose-it-and-my-first-impression-2gjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
