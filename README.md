@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [File Upload in Laravel and Vue.js](https://dev.to/robin-ivi/-13i3)
-- [How to protect yourself against cyber threats](https://dev.to/daniellacatus/how-to-protect-yourself-against-cyber-threats-3m7m)
-- [What should I learn after Javascript?](https://dev.to/aqsa_zafar_3f878997dae27e/what-should-i-learn-after-javascript-2lop)
-- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-4349)
-- [What should I prioritize on error checking?](https://dev.to/amiswa/what-should-i-prioritize-on-error-checking-4kdd)
+- [🚀 How Kotlin is Powering Modern Web Development Projects](https://dev.to/dct_technologyprivatelimited/how-kotlin-is-powering-modern-web-development-projects-1732)
+- [🔍 Understanding Superglobal Variables in PHP: A Developer’s Secret Weapon!](https://dev.to/dct_technologyprivatelimited/understanding-superglobal-variables-in-php-a-developers-secret-weapon-1cbi)
+- [My First Year at an Aussie Company &lpar;from Singapore and previously China&rpar;](https://dev.to/jennieji/my-first-year-at-an-aussie-company-from-singapore-and-previously-china-1e0f)
+- [Adventure: Building with NATS Jetstream KV Store -Part 8](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-8-286j)
+- [Animation loader with latest ui/ux effects using the html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/animation-loader-with-latest-uiux-effects-using-the-html-css-and-javascript-5fm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
