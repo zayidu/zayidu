@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Negative Versioning: The Only Honest Way to Version Software](https://dev.to/emmg17/negative-versioning-the-only-honest-way-to-version-software-40le)
-- [Collections, Demystified](https://dev.to/rodschmod/collections-demystified-391)
-- [Management or IC: What&#39;s Your Next Move?](https://dev.to/gabriel_perez_337aabb5cfd/management-or-ic-whats-your-next-move-104e)
-- [Java’s Enterprise Empire: Celebrating 30 Years of Code and Impact](https://dev.to/martingreenz/javas-enterprise-empire-celebrating-30-years-of-code-and-impact-24cp)
-- [Dopamine Detox Transformed My Life : &lpar;ChatGpt Helped me&rpar;](https://dev.to/dahami_fabbio/dopamine-detox-transformed-my-life-chatgpt-helped-me-40o3)
+- [Deploy Next.js Supabase App to Cloud Run using Artifact Registry and Secrets Manager](https://dev.to/jamescroissant/deploy-nextjs-supabase-app-to-cloud-run-using-artifact-registry-and-secrets-manager-cm9)
+- [Bringing AI to the Browser: How TensorFlow.js is Revolutionizing Web Development](https://dev.to/skyz03/bringing-ai-to-the-browser-how-tensorflowjs-is-revolutionizing-web-development-3559)
+- [WHAT IF #5: Every Social Media Algorithm Was Removed?](https://dev.to/trixsec/what-if-5-every-social-media-algorithm-was-removed-363i)
+- [NgContainer](https://dev.to/anjali_gurjar_dff81513867/ngcontainer-20pg)
+- [Markdown notes assistant with extract/inline &quot;refactoring&quot;](https://dev.to/gimalay/markdown-notes-assistant-with-extractinline-refactoring-1947)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
