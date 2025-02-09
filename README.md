@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GMR earnings calculator](https://dev.to/jover_nuevaespana_6d510f0/gmr-earnings-calculator-h0f)
-- [✨It&#39;s 2025, But Jest🔧 is Still Rocking the Testing World 🚀](https://dev.to/jagroop2001/its-2025-but-jest-is-still-rocking-the-testing-world-48g2)
-- [Can GitHub Copilot Follow a Structured Development Workflow? A Real-World Experiment](https://dev.to/vigneshiyergithub/can-github-copilot-follow-a-structured-development-workflow-a-real-world-experiment-3el7)
-- [A tale about four gangsters](https://dev.to/lichtkind/a-tale-about-four-gangsters-29g6)
-- [How AI is Becoming a Game-Changer in the Fight Against Climate Change](https://dev.to/morlevi23/how-ai-is-becoming-a-game-changer-in-the-fight-against-climate-change-36gm)
+- [Recon v2: Um curto update sobre como estou mudando meu processo de recon](https://dev.to/bolhasec/recon-v2-um-curto-update-sobre-como-estou-mudando-meu-processo-de-recon-cmc)
+- [Graph Laplacian: From Basic Concepts to Modern Applications](https://dev.to/_hm/graph-laplacian-from-basic-concepts-to-modern-applications-1171)
+- [Python’s Rise in the AI Era: The Language Powering the Future](https://dev.to/kritrim_dhi/pythons-rise-in-the-ai-era-the-language-powering-the-future-oop)
+- [Building Production-Ready Rate Limiters in Go: A Complete Implementation Guide](https://dev.to/aaravjoshi/building-production-ready-rate-limiters-in-go-a-complete-implementation-guide-17f4)
+- [My Ultralearning Journey in the Stock Market 💰✨](https://dev.to/premkumarv/my-ultralearning-journey-in-the-stock-market-1fep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
