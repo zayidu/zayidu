@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Roadblocks: An exploratory testing journey on cars.ng](https://dev.to/saladan/navigating-the-roadblocks-an-exploratory-testing-journey-on-carsng-1nh8)
-- [Web Research for Developers](https://dev.to/sunilfgh/web-research-for-developers-5nn)
-- [Transactions in Microservices: Part 3 - SAGA Pattern with Orchestration and Temporal.io.](https://dev.to/federico_bevione/transactions-in-microservices-part-3-saga-pattern-with-orchestration-and-temporalio-3e17)
-- [The Ultimate Guide to Tuples in Rust: From Basics to Mastery](https://dev.to/mbayoun95/the-ultimate-guide-to-tuples-in-rust-from-basics-to-mastery-41ho)
-- [Beyond Clean Architecture: A Pragmatic Software Model for Real-World Scalability](https://dev.to/adrihfly/beyond-clean-architecture-a-pragmatic-software-model-for-real-world-scalability-4g96)
+- [My Building Of Trading Order Management System Using AI Agents](https://dev.to/exploredataaiml/my-building-of-trading-order-management-system-using-ai-agents-2cb6)
+- [[Boost]](https://dev.to/npolyak/-3j5d)
+- [Async events with AppSync Events API](https://dev.to/aws-builders/async-events-with-appsync-events-api-3ljp)
+- [✨ Co - A frontend development AI which create and write the content of the referenced files.](https://dev.to/shunnnet/co-a-development-ai-which-create-and-write-the-content-of-the-referenced-files-4a0i)
+- [Looking for something simpler than LangChain?](https://dev.to/vincelwt/looking-for-something-simpler-than-langchain-4oj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
