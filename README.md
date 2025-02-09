@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recon v2: Um curto update sobre como estou mudando meu processo de recon](https://dev.to/bolhasec/recon-v2-um-curto-update-sobre-como-estou-mudando-meu-processo-de-recon-cmc)
-- [Graph Laplacian: From Basic Concepts to Modern Applications](https://dev.to/_hm/graph-laplacian-from-basic-concepts-to-modern-applications-1171)
-- [Python’s Rise in the AI Era: The Language Powering the Future](https://dev.to/kritrim_dhi/pythons-rise-in-the-ai-era-the-language-powering-the-future-oop)
-- [Building Production-Ready Rate Limiters in Go: A Complete Implementation Guide](https://dev.to/aaravjoshi/building-production-ready-rate-limiters-in-go-a-complete-implementation-guide-17f4)
-- [My Ultralearning Journey in the Stock Market 💰✨](https://dev.to/premkumarv/my-ultralearning-journey-in-the-stock-market-1fep)
+- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
+- [Understanding the Java Main method.](https://dev.to/codestorm12/understanding-the-java-main-method-4ilp)
+- [Why We Built DevAssure with Tauri](https://dev.to/devassure/why-we-built-devassure-with-tauri-on)
+- [Raphael AI: The Best Free AI Image Generator You Need to Try!](https://dev.to/mahmud-r-farhan/raphael-ai-the-best-free-ai-image-generator-you-need-to-try-341f)
+- [Optimizing Data Lake Storage Architectures for High-Volume, High-Velocity Data](https://dev.to/flnzba/optimizing-data-lake-storage-architectures-for-high-volume-high-velocity-data-39bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
