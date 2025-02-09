@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Next.js Supabase App to Cloud Run using Artifact Registry and Secrets Manager](https://dev.to/jamescroissant/deploy-nextjs-supabase-app-to-cloud-run-using-artifact-registry-and-secrets-manager-cm9)
-- [Bringing AI to the Browser: How TensorFlow.js is Revolutionizing Web Development](https://dev.to/skyz03/bringing-ai-to-the-browser-how-tensorflowjs-is-revolutionizing-web-development-3559)
-- [WHAT IF #5: Every Social Media Algorithm Was Removed?](https://dev.to/trixsec/what-if-5-every-social-media-algorithm-was-removed-363i)
-- [NgContainer](https://dev.to/anjali_gurjar_dff81513867/ngcontainer-20pg)
-- [Markdown notes assistant with extract/inline &quot;refactoring&quot;](https://dev.to/gimalay/markdown-notes-assistant-with-extractinline-refactoring-1947)
+- [View &amp; Download Excel File in React from a URL](https://dev.to/sarwarasik/view-download-excel-file-in-react-from-a-url-3lei)
+- [[Boost]](https://dev.to/djones/-2d4f)
+- [AI Breakthrough: Self-Learning Math Provers Generate and Solve Their Own Theorems](https://dev.to/mikeyoung44/ai-breakthrough-self-learning-math-provers-generate-and-solve-their-own-theorems-fkn)
+- [New AI System Makes Precise Face Edits While Preserving Identity](https://dev.to/mikeyoung44/new-ai-system-makes-precise-face-edits-while-preserving-identity-1142)
+- [Study: Medium-Sized AI Models Match Larger Ones for Multi-Language Translation When Properly Prompted](https://dev.to/mikeyoung44/study-medium-sized-ai-models-match-larger-ones-for-multi-language-translation-when-properly-1ef4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
