@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web design](https://dev.to/manmeet_singh_a6bba5a9320/web-design-38cd)
-- [Common UX Issues and Bugs: A Case Study on Car.ng](https://dev.to/ajayi_mercy_7406b28ff6871/common-ux-issues-and-bugs-a-case-study-on-carng-530k)
-- [This is moving forward in the spec and chrome is adding CSS functions behind a flag in canary!!](https://dev.to/link2twenty/this-is-moving-forward-in-the-spec-and-chrome-is-adding-css-functions-behind-a-flag-in-canary-15gi)
-- [Implementando Observabilidade em Aplicações Go com OpenTelemetry, Prometheus, Loki, Tempo e Grafana](https://dev.to/booscaaa/implementando-observabilidade-em-aplicacoes-go-com-opentelemetry-prometheus-loki-tempo-e-grafana-1hei)
-- [Deploy a NestJS Application with Dokku](https://dev.to/orphe_h00/deploy-a-nestjs-application-with-dokku-227c)
+- [Is this really cross-platform?](https://dev.to/nmiller15/is-this-really-cross-platform-6nj)
+- [[Boost]](https://dev.to/damilola1ade/-3520)
+- [Arctic Nord Theme for Filament PHP](https://dev.to/andreiabohner/arctic-nord-theme-for-filament-php-36fo)
+- [Implementing a Generic Foldable Type Class in Scala with List and Tuple Instances](https://dev.to/depa_reddy_5e0e3025aa6eed/implementing-a-generic-foldable-type-class-in-scala-with-list-and-tuple-instances-31bo)
+- [Serverless vs. Traditional Backend: Which One Saves More Money and Effort?](https://dev.to/raji_moshood_ee3a4c2638f6/serverless-vs-traditional-backend-which-one-saves-more-money-and-effort-31j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
