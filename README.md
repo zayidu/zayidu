@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide: Implementing Error Handling in Golang Microservices with Best Practices](https://dev.to/aaravjoshi/comprehensive-guide-implementing-error-handling-in-golang-microservices-with-best-practices-44m8)
-- [Svelte 5 on Bun 1.2: Getting started](https://dev.to/nabbisen/svelte-5-on-bun-12-getting-started-3ae8)
-- [7 Advanced JavaScript Form Validation Techniques for Better User Experience](https://dev.to/aaravjoshi/7-advanced-javascript-form-validation-techniques-for-better-user-experience-31hb)
-- [Prácticas de la nube recomendadas](https://dev.to/briansuarezsantiago/practicas-de-la-nube-recomendadas-kna)
-- [Kubernetes Services vs. Ingress: What You Need to Know.](https://dev.to/favxlaw/kubernetes-services-vs-ingress-what-you-need-to-know-20p6)
+- [Web Dev Day 6: JavaScript Guide](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)
+- [Famiq - Getting start](https://dev.to/kimhong_muong/famiq-getting-start-jdo)
+- [Building a Real-Time NBA Game Day Notification System with AWS and Terraform](https://dev.to/princemaxi/building-a-real-time-nba-game-day-notification-system-with-aws-and-terraform-kli)
+- [&quot;Revolutionizing Systems Engineering: The Role of AI in Requirements Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-in-requirements-analysis-29ja)
+- [Aurora DSQL is different than Aurora, but Aurora DSQL belongs to Aurora &lpar;which belongs to RDS&rpar;](https://dev.to/aws-heroes/aurora-dsql-is-different-than-aurora-but-aurora-dsql-belongs-to-aurora-25e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
