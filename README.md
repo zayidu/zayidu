@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must Read Microservices Architecture Books for Experienced Developers](https://dev.to/somadevtoo/10-must-read-microservices-architecture-books-for-experienced-developers-226f)
-- [🚀 Popover Web API: Say Goodbye to Complex Modals!](https://dev.to/gnana_prakash_c470fa2b828/popover-web-api-say-goodbye-to-complex-modals-39m8)
-- [Azure Web App Deployment with Ansible &amp; Docker](https://dev.to/mohamed-dridi/azure-web-app-deployment-with-ansible-docker-3a32)
-- [Propose Day](https://dev.to/preetha_vaishnavi_2b82358/propose-day-2id0)
-- [Database](https://dev.to/mujahida_joynab_64c7407d8/database-13n7)
+- [Navigating the Roadblocks: An exploratory testing journey on cars.ng](https://dev.to/saladan/navigating-the-roadblocks-an-exploratory-testing-journey-on-carsng-1nh8)
+- [Web Research for Developers](https://dev.to/sunilfgh/web-research-for-developers-5nn)
+- [Transactions in Microservices: Part 3 - SAGA Pattern with Orchestration and Temporal.io.](https://dev.to/federico_bevione/transactions-in-microservices-part-3-saga-pattern-with-orchestration-and-temporalio-3e17)
+- [The Ultimate Guide to Tuples in Rust: From Basics to Mastery](https://dev.to/mbayoun95/the-ultimate-guide-to-tuples-in-rust-from-basics-to-mastery-41ho)
+- [Beyond Clean Architecture: A Pragmatic Software Model for Real-World Scalability](https://dev.to/adrihfly/beyond-clean-architecture-a-pragmatic-software-model-for-real-world-scalability-4g96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
