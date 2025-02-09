@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Probability in Decision-Making: A Blackjack Case Study](https://dev.to/alex_ricciardi/the-role-of-probability-in-decision-making-a-blackjack-case-study-2e5c)
-- [Weekly Challenge: Sorting and counting](https://dev.to/simongreennet/weekly-challenge-sorting-and-counting-2on)
-- [🌐 How To Make Markdown to HTML Converter 🔥🚀](https://dev.to/hanzla-baig/how-to-make-markdown-to-html-converter-220a)
-- [ICP: 10の分散型イノベーション](https://dev.to/izi_/icp-10nofen-san-xing-inobesiyon-6o8)
-- [Pre-trained Ai models in huggingface](https://dev.to/saad_ali_21c328f1cb588b4d/pre-trainedbeen-36jg)
+- [UML Use Case Diagrams: A Restaurant System Case Study](https://dev.to/alex_ricciardi/uml-use-case-diagrams-a-restaurant-system-case-study-4f8n)
+- [OSI Model, TCP/IP Framework, and Network Topologies Explain](https://dev.to/alex_ricciardi/osi-model-tcpip-framework-and-network-topologies-explain-1p5n)
+- [Setting Up Proxmox on a Laptop Without an Ethernet Port](https://dev.to/varungujarathi9/setting-up-proxmox-on-a-laptop-without-an-ethernet-port-28n8)
+- [Laravel Starter Kit: A Modern Laravel Boilerplate with Tailwind CSS, DaisyUI, Spatie Permissions &amp; Socialite](https://dev.to/ahitabisma/laravel-starter-kit-a-modern-laravel-boilerplate-with-tailwind-css-daisyui-spatie-permissions--f3d)
+- [First Blog](https://dev.to/aditya_singh_5b09d921b1df/first-blog-4aod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
