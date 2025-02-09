@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UML Use Case Diagrams: A Restaurant System Case Study](https://dev.to/alex_ricciardi/uml-use-case-diagrams-a-restaurant-system-case-study-4f8n)
-- [OSI Model, TCP/IP Framework, and Network Topologies Explain](https://dev.to/alex_ricciardi/osi-model-tcpip-framework-and-network-topologies-explain-1p5n)
-- [Setting Up Proxmox on a Laptop Without an Ethernet Port](https://dev.to/varungujarathi9/setting-up-proxmox-on-a-laptop-without-an-ethernet-port-28n8)
-- [Laravel Starter Kit: A Modern Laravel Boilerplate with Tailwind CSS, DaisyUI, Spatie Permissions &amp; Socialite](https://dev.to/ahitabisma/laravel-starter-kit-a-modern-laravel-boilerplate-with-tailwind-css-daisyui-spatie-permissions--f3d)
-- [First Blog](https://dev.to/aditya_singh_5b09d921b1df/first-blog-4aod)
+- [Negative Versioning: The Only Honest Way to Version Software](https://dev.to/emmg17/negative-versioning-the-only-honest-way-to-version-software-40le)
+- [Collections, Demystified](https://dev.to/rodschmod/collections-demystified-391)
+- [Management or IC: What&#39;s Your Next Move?](https://dev.to/gabriel_perez_337aabb5cfd/management-or-ic-whats-your-next-move-104e)
+- [Java’s Enterprise Empire: Celebrating 30 Years of Code and Impact](https://dev.to/martingreenz/javas-enterprise-empire-celebrating-30-years-of-code-and-impact-24cp)
+- [Dopamine Detox Transformed My Life : &lpar;ChatGpt Helped me&rpar;](https://dev.to/dahami_fabbio/dopamine-detox-transformed-my-life-chatgpt-helped-me-40o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
