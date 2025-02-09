@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this really cross-platform?](https://dev.to/nmiller15/is-this-really-cross-platform-6nj)
-- [[Boost]](https://dev.to/damilola1ade/-3520)
-- [Arctic Nord Theme for Filament PHP](https://dev.to/andreiabohner/arctic-nord-theme-for-filament-php-36fo)
-- [Implementing a Generic Foldable Type Class in Scala with List and Tuple Instances](https://dev.to/depa_reddy_5e0e3025aa6eed/implementing-a-generic-foldable-type-class-in-scala-with-list-and-tuple-instances-31bo)
-- [Serverless vs. Traditional Backend: Which One Saves More Money and Effort?](https://dev.to/raji_moshood_ee3a4c2638f6/serverless-vs-traditional-backend-which-one-saves-more-money-and-effort-31j)
+- [Microservices vs. Monolith: What’s Best for Your Next Big Project?](https://dev.to/raji_moshood_ee3a4c2638f6/microservices-vs-monolith-whats-best-for-your-next-big-project-cb0)
+- [GitHub Copilot — Agent Mode Review](https://dev.to/danielsogl/github-copilot-agent-mode-review-4h23)
+- [🚀 Deploying a Flask API on AWS EC2 with Nginx &amp; Gunicorn: My Journey from Zero to Production](https://dev.to/msoluwademilade/deploying-a-flask-api-on-aws-ec2-with-nginx-gunicorn-my-journey-from-zero-to-production-4de9)
+- [Troubleshooting Kubernetes Persistent Volume Binding Issues.](https://dev.to/ollycare/troubleshooting-kubernetes-persistent-volume-binding-issues-pk3)
+- [Day 01: Getting Started with Linux](https://dev.to/harshpandhe/day-01-getting-started-with-linux-538c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
