@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A really great tutorial !!!](https://dev.to/mince/a-really-great-tutorial--536o)
+- [Give me a post idea you would love to read about](https://dev.to/mince/give-me-a-post-idea-you-would-love-to-read-about-3p46)
+- [Automate Port Knocking with Dynamic Port Rotation for Secure SSH Access](https://dev.to/sebos/automate-port-knocking-with-dynamic-port-rotation-for-secure-ssh-access-pbh)
 - [Web Dev Day 6: JavaScript Guide](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)
 - [Famiq - Getting start](https://dev.to/kimhong_muong/famiq-getting-start-jdo)
-- [Building a Real-Time NBA Game Day Notification System with AWS and Terraform](https://dev.to/princemaxi/building-a-real-time-nba-game-day-notification-system-with-aws-and-terraform-kli)
-- [&quot;Revolutionizing Systems Engineering: The Role of AI in Requirements Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-in-requirements-analysis-29ja)
-- [Aurora DSQL is different than Aurora, but Aurora DSQL belongs to Aurora &lpar;which belongs to RDS&rpar;](https://dev.to/aws-heroes/aurora-dsql-is-different-than-aurora-but-aurora-dsql-belongs-to-aurora-25e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
