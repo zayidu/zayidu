@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ReinforceUI-Studio: No More Memorizing Complex Commands in Reinforcement Learning](https://dev.to/dvalenciar/reinforceui-studio-no-more-memorizing-complex-commands-in-reinforcement-learning-1g53)
-- [Lexical 0.24 with Vanilla JS: Getting started](https://dev.to/nabbisen/lexical-024-with-vanilla-js-getting-started-4g5d)
-- [Getting Started with Next.js: A Simple Guide](https://dev.to/je_et15/getting-started-with-nextjs-a-simple-guide-2nk2)
-- [A Simple Guide to Making Money with Mobile Development](https://dev.to/abubakersiddique761/a-simple-guide-to-making-money-with-mobile-development-14pi)
-- [قالب تقرير برنامج](https://dev.to/majed1401/untitled-ek6)
+- [ChamaleonLLM: Dynamic Adaptation for Large Language Models During Inference](https://dev.to/qur786/chamaleonllm-dynamic-adaptation-for-large-language-models-during-inference-chi)
+- [LDAP Injection in Laravel: Prevention &amp; Secure Coding](https://dev.to/pentest_testing_corp/ldap-injection-in-laravel-prevention-secure-coding-1hld)
+- [3 mins into [Consistent Hashing]](https://dev.to/caihhuu/3-mins-into-consistent-hashing-3bj2)
+- [🚀 How to Build a Profitable SaaS in Days – The Right Way](https://dev.to/nisthar/how-to-build-a-profitable-saas-in-days-the-right-way-3dcd)
+- [Building for Low-Bandwidth Environments: How to Optimize Your Web Experience for Slower Internet Speeds](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-for-low-bandwidth-environments-how-to-optimize-your-web-experience-for-slower-internet-4140)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
