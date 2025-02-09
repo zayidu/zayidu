@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Building Of Trading Order Management System Using AI Agents](https://dev.to/exploredataaiml/my-building-of-trading-order-management-system-using-ai-agents-2cb6)
-- [[Boost]](https://dev.to/npolyak/-3j5d)
-- [Async events with AppSync Events API](https://dev.to/aws-builders/async-events-with-appsync-events-api-3ljp)
-- [✨ Co - A frontend development AI which create and write the content of the referenced files.](https://dev.to/shunnnet/co-a-development-ai-which-create-and-write-the-content-of-the-referenced-files-4a0i)
-- [Looking for something simpler than LangChain?](https://dev.to/vincelwt/looking-for-something-simpler-than-langchain-4oj1)
+- [Web design](https://dev.to/manmeet_singh_a6bba5a9320/web-design-38cd)
+- [Common UX Issues and Bugs: A Case Study on Car.ng](https://dev.to/ajayi_mercy_7406b28ff6871/common-ux-issues-and-bugs-a-case-study-on-carng-530k)
+- [This is moving forward in the spec and chrome is adding CSS functions behind a flag in canary!!](https://dev.to/link2twenty/this-is-moving-forward-in-the-spec-and-chrome-is-adding-css-functions-behind-a-flag-in-canary-15gi)
+- [Implementando Observabilidade em Aplicações Go com OpenTelemetry, Prometheus, Loki, Tempo e Grafana](https://dev.to/booscaaa/implementando-observabilidade-em-aplicacoes-go-com-opentelemetry-prometheus-loki-tempo-e-grafana-1hei)
+- [Deploy a NestJS Application with Dokku](https://dev.to/orphe_h00/deploy-a-nestjs-application-with-dokku-227c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
