@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices vs. Monolith: What’s Best for Your Next Big Project?](https://dev.to/raji_moshood_ee3a4c2638f6/microservices-vs-monolith-whats-best-for-your-next-big-project-cb0)
-- [GitHub Copilot — Agent Mode Review](https://dev.to/danielsogl/github-copilot-agent-mode-review-4h23)
-- [🚀 Deploying a Flask API on AWS EC2 with Nginx &amp; Gunicorn: My Journey from Zero to Production](https://dev.to/msoluwademilade/deploying-a-flask-api-on-aws-ec2-with-nginx-gunicorn-my-journey-from-zero-to-production-4de9)
-- [Troubleshooting Kubernetes Persistent Volume Binding Issues.](https://dev.to/ollycare/troubleshooting-kubernetes-persistent-volume-binding-issues-pk3)
-- [Day 01: Getting Started with Linux](https://dev.to/harshpandhe/day-01-getting-started-with-linux-538c)
+- [Week 11 Recap of #100DaysOfCode](https://dev.to/lymah/week-11-recap-of-100daysofcode-4008)
+- [Exploring Agentic Workflow Patterns](https://dev.to/dpaluy/exploring-agentic-workflow-patterns-312a)
+- [Exploring DeepSeek R1 Applications](https://dev.to/amigochat/exploring-deepseek-r1-applications-11kb)
+- [Ethics in AI Model Development: Bias, Fairness, and Responsible AI Programming](https://dev.to/knewton25/ethics-in-ai-model-development-bias-fairness-and-responsible-ai-programming-3p9k)
+- [Understanding DeepSeek R1](https://dev.to/amigochat/understanding-deepseek-r1-40h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
