@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
-- [Understanding the Java Main method.](https://dev.to/codestorm12/understanding-the-java-main-method-4ilp)
-- [Why We Built DevAssure with Tauri](https://dev.to/devassure/why-we-built-devassure-with-tauri-on)
-- [Raphael AI: The Best Free AI Image Generator You Need to Try!](https://dev.to/mahmud-r-farhan/raphael-ai-the-best-free-ai-image-generator-you-need-to-try-341f)
-- [Optimizing Data Lake Storage Architectures for High-Volume, High-Velocity Data](https://dev.to/flnzba/optimizing-data-lake-storage-architectures-for-high-volume-high-velocity-data-39bn)
+- [10 Must Read Microservices Architecture Books for Experienced Developers](https://dev.to/somadevtoo/10-must-read-microservices-architecture-books-for-experienced-developers-226f)
+- [🚀 Popover Web API: Say Goodbye to Complex Modals!](https://dev.to/gnana_prakash_c470fa2b828/popover-web-api-say-goodbye-to-complex-modals-39m8)
+- [Azure Web App Deployment with Ansible &amp; Docker](https://dev.to/mohamed-dridi/azure-web-app-deployment-with-ansible-docker-3a32)
+- [Propose Day](https://dev.to/preetha_vaishnavi_2b82358/propose-day-2id0)
+- [Database](https://dev.to/mujahida_joynab_64c7407d8/database-13n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
