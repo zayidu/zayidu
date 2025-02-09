@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A really great tutorial !!!](https://dev.to/mince/a-really-great-tutorial--536o)
-- [Give me a post idea you would love to read about](https://dev.to/mince/give-me-a-post-idea-you-would-love-to-read-about-3p46)
-- [Automate Port Knocking with Dynamic Port Rotation for Secure SSH Access](https://dev.to/sebos/automate-port-knocking-with-dynamic-port-rotation-for-secure-ssh-access-pbh)
-- [Web Dev Day 6: JavaScript Guide](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)
-- [Famiq - Getting start](https://dev.to/kimhong_muong/famiq-getting-start-jdo)
+- [The Role of Probability in Decision-Making: A Blackjack Case Study](https://dev.to/alex_ricciardi/the-role-of-probability-in-decision-making-a-blackjack-case-study-2e5c)
+- [Weekly Challenge: Sorting and counting](https://dev.to/simongreennet/weekly-challenge-sorting-and-counting-2on)
+- [🌐 How To Make Markdown to HTML Converter 🔥🚀](https://dev.to/hanzla-baig/how-to-make-markdown-to-html-converter-220a)
+- [ICP: 10の分散型イノベーション](https://dev.to/izi_/icp-10nofen-san-xing-inobesiyon-6o8)
+- [Pre-trained Ai models in huggingface](https://dev.to/saad_ali_21c328f1cb588b4d/pre-trainedbeen-36jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
