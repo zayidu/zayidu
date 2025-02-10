@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3: A Technical Exploration](https://dev.to/coltongraygg/aws-s3-a-technical-exploration-4mjk)
-- [This Week in Docker: AI, AI, AI!](https://dev.to/code42cate/this-week-in-docker-ai-ai-ai-2khe)
-- [Understanding Access and Refresh Tokens: A Beginner&#39;s Guide](https://dev.to/gervaisamoah/understanding-access-and-refresh-tokens-a-beginners-guide-4nn8)
-- [[pt-BR] Entendendo o GNU/Linux: Um Ecossistema de Liberdade e Inovação](https://dev.to/marcos_vilela/pt-br-entendendo-o-gnulinux-um-ecossistema-de-liberdade-e-inovacao-1bf7)
-- [Desktop apps for Windows XP in 2025](https://dev.to/thejaredwilcurt/desktop-apps-for-windows-xp-in-2025-2cpc)
+- [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://dev.to/michaellarocca/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators-gpn)
+- [[Boost]](https://dev.to/lorebrada00/-3oog)
+- [The evolution of Kafka and the Changing Data Landscape IS OUT ! Please check out this article and leave a comment below!!!!](https://dev.to/lorebrada00/the-evolution-of-kafka-and-the-changing-data-landscape-is-out-please-check-out-this-article-and-1eeo)
+- [Key Components and Architecture of Kubernetes](https://dev.to/aleson-franca/key-components-and-architecture-of-kubernetes-ifl)
+- [You Don’t Have To Be A Billionaire To Launch Satellites](https://dev.to/jetthoughts/you-dont-have-to-be-a-billionaire-to-launch-satellites-4a0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
