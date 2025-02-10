@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Configure Default Values for Nullable Columns With Default Constraints in EntityFramework Core](https://dev.to/canro91/til-configure-default-values-for-nullable-columns-with-default-constraints-in-entityframework-core-3b0g)
-- [AWS Lambda](https://dev.to/william_lopez_69bde172f1d/aws-lambda-2app)
-- [Risks of intelligent automation](https://dev.to/william_lopez_69bde172f1d/risks-of-intelligent-automation-fp4)
-- [Coding by Day, Crafting Beats by Night: Any Music-Loving Devs Out There?](https://dev.to/studiopulsecoder/coding-by-day-crafting-beats-by-night-any-music-loving-devs-out-there-2k70)
-- [The importance of React-Query and Why you should use it](https://dev.to/byov-andrii/the-importance-of-react-query-and-why-you-should-use-it-1hbo)
+- [Understanding the Different Types of Gateways in AWS](https://dev.to/isaactony/-understanding-the-different-types-of-gateways-in-aws-5h3g)
+- [Mastering the Future of Web Development with a MERN Stack Development Course](https://dev.to/lekshmi_525/mastering-the-future-of-web-development-with-a-mern-stack-development-course-1093)
+- [2025 Vision: Key Trends Shaping Virtual Events This Year](https://dev.to/saanvipatel099/2025-vision-key-trends-shaping-virtual-events-this-year-2ilo)
+- [Understanding Cloud-Based AI and Its Benefits](https://dev.to/astutemarketing/understanding-cloud-based-ai-and-its-benefits-312a)
+- [Enhancing Network Performance with ECMP Routing in AWS Transit Gateway](https://dev.to/isaactony/enhancing-network-performance-with-ecmp-routing-in-aws-transit-gateway-5d99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
