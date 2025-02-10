@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Different Types of Gateways in AWS](https://dev.to/isaactony/-understanding-the-different-types-of-gateways-in-aws-5h3g)
-- [Mastering the Future of Web Development with a MERN Stack Development Course](https://dev.to/lekshmi_525/mastering-the-future-of-web-development-with-a-mern-stack-development-course-1093)
-- [2025 Vision: Key Trends Shaping Virtual Events This Year](https://dev.to/saanvipatel099/2025-vision-key-trends-shaping-virtual-events-this-year-2ilo)
-- [Understanding Cloud-Based AI and Its Benefits](https://dev.to/astutemarketing/understanding-cloud-based-ai-and-its-benefits-312a)
-- [Enhancing Network Performance with ECMP Routing in AWS Transit Gateway](https://dev.to/isaactony/enhancing-network-performance-with-ecmp-routing-in-aws-transit-gateway-5d99)
+- [Copilot Studio Agents, The New Excel](https://dev.to/wyattdave/copilot-studio-agents-the-new-excel-37eb)
+- [How a Service Catalog Empowers API Product Owners to Maximize Value](https://dev.to/getambassador2024/how-a-service-catalog-empowers-api-product-owners-to-maximize-value-26jn)
+- [Demystifying the dark arts of AI Agents 🤖](https://dev.to/kwnaidoo/demystifying-the-dark-arts-of-ai-agents-31c0)
+- [SSH Authentication with OpenPGP](https://dev.to/iwan_setiawan_9f2c3fd73f4/ssh-authentication-with-openpgp-2b4o)
+- [AWS Data Migration Considerations - Part II](https://dev.to/bhosalevijayawssa/aws-data-migration-considerations-part-ii-4hgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
