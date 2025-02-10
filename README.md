@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Simple AI Agent with Langflow and Composio](https://dev.to/datastax/how-to-build-a-simple-ai-agent-with-langflow-and-composio-13d4)
-- [Mastering Python Context Managers: Efficient Resource Management Made Easy](https://dev.to/keshavadk/mastering-python-context-managers-efficient-resource-management-made-easy-2npb)
-- [CI/CD no Bitbucket para SFTP](https://dev.to/jardelima/cicd-no-bitbucket-para-sftp-h5l)
-- [Enhancing 404 Pages with Search in Umbraco](https://dev.to/skttl/enhancing-404-pages-with-search-in-umbraco-1jad)
-- [Adopting NestJS in Legacy Projects: Benefits and Challenges](https://dev.to/wallacefreitas/adopting-nestjs-in-legacy-projects-benefits-and-challenges-4a44)
+- [Introduction to Message Brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
+- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-3cgl)
+- [Using React Navigation instead of Expo Router](https://dev.to/matthewzruiz/using-react-navigation-instead-of-expo-router-49bl)
+- [Skeptics Shall Inherit the AI](https://dev.to/frontpills/skeptics-shall-inherit-the-ai-2bkb)
+- [Exploring Webdock: A No-Nonsense Cloud VPS Hosting Solution](https://dev.to/abdoseadaa/exploring-webdock-a-no-nonsense-cloud-vps-hosting-solution-2nh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
