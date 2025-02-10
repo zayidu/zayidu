@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot Studio Agents, The New Excel](https://dev.to/wyattdave/copilot-studio-agents-the-new-excel-37eb)
-- [How a Service Catalog Empowers API Product Owners to Maximize Value](https://dev.to/getambassador2024/how-a-service-catalog-empowers-api-product-owners-to-maximize-value-26jn)
-- [Demystifying the dark arts of AI Agents 🤖](https://dev.to/kwnaidoo/demystifying-the-dark-arts-of-ai-agents-31c0)
-- [SSH Authentication with OpenPGP](https://dev.to/iwan_setiawan_9f2c3fd73f4/ssh-authentication-with-openpgp-2b4o)
-- [AWS Data Migration Considerations - Part II](https://dev.to/bhosalevijayawssa/aws-data-migration-considerations-part-ii-4hgb)
+- [Automated AWS Security Monitoring: A Python-Based AWS Security Tool 🚀](https://dev.to/leonardkachi/automated-aws-security-monitoring-a-python-based-aws-security-tool-43nm)
+- [Serverless Computing in Healthcare: Changing How We Deliver Medical Services](https://dev.to/piya__c204c9e90/serverless-computing-in-healthcare-changing-how-we-deliver-medical-services-55hc)
+- [Tsonnet #7 - No more YOLO exceptions](https://dev.to/bitmaybewise/tsonnet-7-no-more-yolo-exceptions-3okm)
+- [MySQL INSERT Queries Made Simple](https://dev.to/dbvismarketing/mysql-insert-queries-made-simple-3e82)
+- [Dataverse Git integration &lpar;Preview&rpar; - How solution components are saved](https://dev.to/_neronotte/dataverse-git-integration-preview-how-solution-components-are-saved-12p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
