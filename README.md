@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
-- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
-- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
-- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
-- [Shades of Technical Debt](https://dev.to/pmaksymov/shades-of-technical-debt-3pjj)
+- [🏗️Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/umair_arshad_64fe0df00380/accessibility-in-frontend-development-building-inclusive-web-experiences-2507)
+- [🚀My Next.js Learning Journey](https://dev.to/umair_arshad_64fe0df00380/my-nextjs-learning-journey-4d0l)
+- [Mastering Rollup.js: From Basics to Advanced](https://dev.to/leapcell/mastering-rollupjs-from-basics-to-advanced-2id3)
+- [Blockchain Integration for Metaverse Asset Ownership](https://dev.to/techsoftwareservices/blockchain-integration-for-metaverse-asset-ownership-4ja0)
+- [Exploring Subquery Alternatives: Understanding and Using CTE](https://dev.to/fiyuang/exploring-subquery-alternatives-understanding-and-using-cte-1d8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
