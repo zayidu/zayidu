@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌷Creating an SSR Gallery App in JavaScript](https://dev.to/hmpljs/creating-an-ssr-gallery-app-in-javascript-16kp)
-- [BettorEdge Expands Reach with Official Apple App Store Launch](https://dev.to/gkajewski/bettoredge-expands-reach-with-official-apple-app-store-launch-2o0b)
-- [Run Deepseek locally using Docker!](https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm)
-- [CI/CD Wars: GitHub Actions vs. GitLab CI vs. Jenkins vs. CircleCI](https://dev.to/raji_moshood_ee3a4c2638f6/cicd-wars-github-actions-vs-gitlab-ci-vs-jenkins-vs-circleci-3ahi)
-- [Building a basic Markdown-to-Google Docs converter](https://dev.to/googleworkspace/building-a-basic-markdown-to-google-docs-converter-1220)
+- [My Journey To The Cloud With AltSchool Africa](https://dev.to/ikoh_sylva/my-journey-to-the-cloud-with-altschool-africa-4bmk)
+- [Testes de UI resilientes a mudanças](https://dev.to/tcava/testes-de-ui-resilientes-a-mudancas-4g0p)
+- [How AWS RDS Encryption at Rest Enhances Information Security](https://dev.to/debcloud/how-aws-rds-encryption-at-rest-enhances-information-security-36o7)
+- [From Idea to Launch in Minutes: Meet Our New React &amp; Next.js Templates](https://dev.to/akanji/from-idea-to-launch-in-minutes-meet-our-new-react-nextjs-templates-4fd1)
+- [B2B and B2C Customer Mind Mapping: Strategies to Actions, How-Tos, and Tools](https://dev.to/seosiri/b2b-and-b2c-customer-mind-mapping-strategies-to-actions-how-tos-and-tools-44bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
