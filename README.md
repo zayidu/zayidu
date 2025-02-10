@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of High-Performance Computing: Understanding HPC Architectures &lpar;Series Part 2&rpar;](https://dev.to/mbayoun95/unleashing-the-power-of-high-performance-computing-understanding-hpc-architectures-series-part-2-ml1)
-- [USSD: The Silent Revolution in Communication &amp; Finance](https://dev.to/brian_oginga/ussd-the-silent-revolution-in-communication-finance-19np)
-- [Automatizando a criação de planilhas com .NET](https://dev.to/teuso99/automatizando-a-criacao-de-planilhas-com-net-1dia)
-- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-48dn)
-- [Flow of Components in React](https://dev.to/pravinjadhav/flow-of-components-in-react-32jo)
+- [What Happens Behind the Scenes of an HTTP Request?](https://dev.to/peterzzburg/what-happens-behind-the-scenes-of-an-http-request-1jcc)
+- [Why we need to learn Tree Data Structure](https://dev.to/mujahida_joynab_64c7407d8/why-we-need-to-learn-tree-data-structure-41l2)
+- [How to Completely Uninstall Docker from Mac](https://dev.to/chatgptnexus/2025021009-47-53-article-3doh)
+- [Criando Service Discovery com Spring Cloud Gateway e Eureka](https://dev.to/marcelovmendes/criando-service-discovery-com-spring-cloud-gateway-e-eureka-158h)
+- [&quot;Development and Deployment of a Number Classification API with Mathematical Insights and Fun Facts&quot;. HNG task 1.&quot;](https://dev.to/ajisegiri_ademola_681df5c/development-and-deployment-of-a-number-classification-api-with-mathematical-insights-and-fun-29l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
