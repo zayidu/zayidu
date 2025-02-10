@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey To The Cloud With AltSchool Africa](https://dev.to/ikoh_sylva/my-journey-to-the-cloud-with-altschool-africa-4bmk)
-- [Testes de UI resilientes a mudanças](https://dev.to/tcava/testes-de-ui-resilientes-a-mudancas-4g0p)
-- [How AWS RDS Encryption at Rest Enhances Information Security](https://dev.to/debcloud/how-aws-rds-encryption-at-rest-enhances-information-security-36o7)
-- [From Idea to Launch in Minutes: Meet Our New React &amp; Next.js Templates](https://dev.to/akanji/from-idea-to-launch-in-minutes-meet-our-new-react-nextjs-templates-4fd1)
-- [B2B and B2C Customer Mind Mapping: Strategies to Actions, How-Tos, and Tools](https://dev.to/seosiri/b2b-and-b2c-customer-mind-mapping-strategies-to-actions-how-tos-and-tools-44bp)
+- [What is Regression in Machine Learning?](https://dev.to/thenomadevel/what-is-regression-in-machine-learning-7m3)
+- [Practical Tips for Kubernetes Upgrades for Startups](https://dev.to/meteorops/practical-tips-for-kubernetes-upgrades-for-startups-22df)
+- [Building Scalable E-commerce Systems: A Journey Through Microservices with ASP.NET Core and Kubernetes](https://dev.to/paulotorrestech/building-scalable-e-commerce-systems-a-journey-through-microservices-with-aspnet-core-and-35gd)
+- [Introducing Liberty Framework: A No-Code/Low-Code Platform for Enterprise Applications](https://dev.to/franck_blettner_43d29fa88/introducing-liberty-framework-a-no-codelow-code-platform-for-enterprise-applications-3ihh)
+- [Cursor vs. GoCodeo: A Detailed Analysis](https://dev.to/gocodeo/cursor-vs-gocodeo-a-detailed-analysis-16aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
