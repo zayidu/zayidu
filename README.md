@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/umair_arshad_64fe0df00380/accessibility-in-frontend-development-building-inclusive-web-experiences-2507)
-- [🚀My Next.js Learning Journey](https://dev.to/umair_arshad_64fe0df00380/my-nextjs-learning-journey-4d0l)
-- [Mastering Rollup.js: From Basics to Advanced](https://dev.to/leapcell/mastering-rollupjs-from-basics-to-advanced-2id3)
-- [Blockchain Integration for Metaverse Asset Ownership](https://dev.to/techsoftwareservices/blockchain-integration-for-metaverse-asset-ownership-4ja0)
-- [Exploring Subquery Alternatives: Understanding and Using CTE](https://dev.to/fiyuang/exploring-subquery-alternatives-understanding-and-using-cte-1d8b)
+- [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)
+- [OUT NOW!!!!](https://dev.to/lorebrada00/out-now-59l9)
+- [The Evolution of Kafka and the Changing Data Landscape](https://dev.to/cortexflow/the-evolution-of-kafka-and-the-changing-data-landscape-4100)
+- [Should I Build an Open Core Web App Crawler &amp; Pentesting SaaS?](https://dev.to/riccardo_bevoni_774d90ea1/should-i-build-an-open-core-web-app-crawler-pentesting-saas-50cn)
+- [How do you handle physics-based object collisions in SceneKit?](https://dev.to/neville_adam/how-do-you-handle-physics-based-object-collisions-in-scenekit-3bip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
