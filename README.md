@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real‑Time Binance OHLCV Streaming with Node.js Native WebSocket &amp; TypeScript](https://dev.to/simplr_sh/real-time-binance-ohlcv-streaming-with-nodejs-native-websocket-typescript-6bf)
-- [Vector Databases vs. PostgreSQL with pg_vector for RAG Setups](https://dev.to/simplr_sh/vector-databases-vs-postgresql-with-pgvector-for-rag-setups-1lg2)
-- [Day Spas in The Big Apple: Select with Assurance](https://dev.to/nycdayspa55/day-spas-in-the-big-apple-select-with-assurance-1g60)
-- [Understand data science before using LLM into your AI agents](https://dev.to/saad_ali_21c328f1cb588b4d/understand-data-science-before-using-llm-into-your-ai-agents-161e)
-- [Introduction to PHP](https://dev.to/bkthemes/introduction-to-php-4dfb)
+- [TIL: Configure Default Values for Nullable Columns With Default Constraints in EntityFramework Core](https://dev.to/canro91/til-configure-default-values-for-nullable-columns-with-default-constraints-in-entityframework-core-3b0g)
+- [AWS Lambda](https://dev.to/william_lopez_69bde172f1d/aws-lambda-2app)
+- [Risks of intelligent automation](https://dev.to/william_lopez_69bde172f1d/risks-of-intelligent-automation-fp4)
+- [Coding by Day, Crafting Beats by Night: Any Music-Loving Devs Out There?](https://dev.to/studiopulsecoder/coding-by-day-crafting-beats-by-night-any-music-loving-devs-out-there-2k70)
+- [The importance of React-Query and Why you should use it](https://dev.to/byov-andrii/the-importance-of-react-query-and-why-you-should-use-it-1hbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
