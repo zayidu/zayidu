@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Properly Handle Multiplayer Sync in Unity Using Mirror?](https://dev.to/michealklein/how-to-properly-handle-multiplayer-sync-in-unity-using-mirror-okj)
-- [Are Generics Really That Generic?](https://dev.to/rodschmod/are-generics-really-that-generic-o99)
-- [Why WebAssembly &lpar;WASM&rpar; is the Future of High-Performance Web Apps](https://dev.to/vibhuvibes/why-webassembly-wasm-is-the-future-of-high-performance-web-apps-4713)
-- [Exploring GBase 8s Window Functions: Unlocking Data Analysis Tools](https://dev.to/generaldata/exploring-gbase-8s-window-functions-unlocking-data-analysis-tools-170h)
-- [Understanding the Decorator Pattern in Go](https://dev.to/kittipat1413/understanding-the-decorator-pattern-in-go-30i8)
+- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
+- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
+- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
+- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
+- [Shades of Technical Debt](https://dev.to/pmaksymov/shades-of-technical-debt-3pjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
