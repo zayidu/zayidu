@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL Weekly #3](https://dev.to/uskdev/til-weekly-3-e07)
-- [12 AI-Powered Social Media Posting Tips for Maximum Engagement in 2025](https://dev.to/dansasser/12-ai-powered-social-media-posting-tips-for-maximum-engagement-in-2025-5a63)
-- [Understanding LINQ Extension Methods in C#](https://dev.to/silentcoder52626/understanding-linq-extension-methods-in-c-15kh)
-- [CAG &gt; RAG](https://dev.to/markus_tretzmller_1d02bf/cag-rag-26i2)
-- [Laravel Blade Template Engine: A Beginner&#39;s Guide](https://dev.to/icornea/laravel-blade-template-engine-a-beginners-guide-54bi)
+- [🌷Creating an SSR Gallery App in JavaScript](https://dev.to/hmpljs/creating-an-ssr-gallery-app-in-javascript-16kp)
+- [BettorEdge Expands Reach with Official Apple App Store Launch](https://dev.to/gkajewski/bettoredge-expands-reach-with-official-apple-app-store-launch-2o0b)
+- [Run Deepseek locally using Docker!](https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm)
+- [CI/CD Wars: GitHub Actions vs. GitLab CI vs. Jenkins vs. CircleCI](https://dev.to/raji_moshood_ee3a4c2638f6/cicd-wars-github-actions-vs-gitlab-ci-vs-jenkins-vs-circleci-3ahi)
+- [Building a basic Markdown-to-Google Docs converter](https://dev.to/googleworkspace/building-a-basic-markdown-to-google-docs-converter-1220)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
