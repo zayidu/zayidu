@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Real‑Time Binance OHLCV Streaming with Node.js Native WebSocket &amp; TypeScript](https://dev.to/simplr_sh/real-time-binance-ohlcv-streaming-with-nodejs-native-websocket-typescript-6bf)
 - [Vector Databases vs. PostgreSQL with pg_vector for RAG Setups](https://dev.to/simplr_sh/vector-databases-vs-postgresql-with-pgvector-for-rag-setups-1lg2)
 - [Day Spas in The Big Apple: Select with Assurance](https://dev.to/nycdayspa55/day-spas-in-the-big-apple-select-with-assurance-1g60)
 - [Understand data science before using LLM into your AI agents](https://dev.to/saad_ali_21c328f1cb588b4d/understand-data-science-before-using-llm-into-your-ai-agents-161e)
 - [Introduction to PHP](https://dev.to/bkthemes/introduction-to-php-4dfb)
-- [Why We Didn’t Build a Minimum Viable Product — And How It Paid Off](https://dev.to/lonti-davidb/why-we-didnt-build-a-minimum-viable-product-and-how-it-paid-off-1cmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
