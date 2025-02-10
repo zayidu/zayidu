@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Regression in Machine Learning?](https://dev.to/thenomadevel/what-is-regression-in-machine-learning-7m3)
-- [Practical Tips for Kubernetes Upgrades for Startups](https://dev.to/meteorops/practical-tips-for-kubernetes-upgrades-for-startups-22df)
-- [Building Scalable E-commerce Systems: A Journey Through Microservices with ASP.NET Core and Kubernetes](https://dev.to/paulotorrestech/building-scalable-e-commerce-systems-a-journey-through-microservices-with-aspnet-core-and-35gd)
-- [Introducing Liberty Framework: A No-Code/Low-Code Platform for Enterprise Applications](https://dev.to/franck_blettner_43d29fa88/introducing-liberty-framework-a-no-codelow-code-platform-for-enterprise-applications-3ihh)
-- [Cursor vs. GoCodeo: A Detailed Analysis](https://dev.to/gocodeo/cursor-vs-gocodeo-a-detailed-analysis-16aa)
+- [How to Build a Simple AI Agent with Langflow and Composio](https://dev.to/datastax/how-to-build-a-simple-ai-agent-with-langflow-and-composio-13d4)
+- [Mastering Python Context Managers: Efficient Resource Management Made Easy](https://dev.to/keshavadk/mastering-python-context-managers-efficient-resource-management-made-easy-2npb)
+- [CI/CD no Bitbucket para SFTP](https://dev.to/jardelima/cicd-no-bitbucket-para-sftp-h5l)
+- [Enhancing 404 Pages with Search in Umbraco](https://dev.to/skttl/enhancing-404-pages-with-search-in-umbraco-1jad)
+- [Adopting NestJS in Legacy Projects: Benefits and Challenges](https://dev.to/wallacefreitas/adopting-nestjs-in-legacy-projects-benefits-and-challenges-4a44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
