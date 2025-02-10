@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated AWS Security Monitoring: A Python-Based AWS Security Tool 🚀](https://dev.to/leonardkachi/automated-aws-security-monitoring-a-python-based-aws-security-tool-43nm)
-- [Serverless Computing in Healthcare: Changing How We Deliver Medical Services](https://dev.to/piya__c204c9e90/serverless-computing-in-healthcare-changing-how-we-deliver-medical-services-55hc)
-- [Tsonnet #7 - No more YOLO exceptions](https://dev.to/bitmaybewise/tsonnet-7-no-more-yolo-exceptions-3okm)
-- [MySQL INSERT Queries Made Simple](https://dev.to/dbvismarketing/mysql-insert-queries-made-simple-3e82)
-- [Dataverse Git integration &lpar;Preview&rpar; - How solution components are saved](https://dev.to/_neronotte/dataverse-git-integration-preview-how-solution-components-are-saved-12p7)
+- [When to Use useState, useReducer, and useContext in React](https://dev.to/aneeqakhan/when-to-use-usestate-usereducer-and-usecontext-in-react-1mg1)
+- [Decoupling vs Coupling Applications](https://dev.to/emmanuel_gyan_f561b1b88ed/decoupling-vs-coupling-applications-3j17)
+- [Bot Management: Keeping Your Website Safe from Disturbances](https://dev.to/mpoiiii/bot-management-keeping-your-website-safe-from-disturbances-43a)
+- [Neurolov Hits 5000 Developers on DEV Community](https://dev.to/neurolov_ai_/neurolov-hits-5000-developers-on-dev-community-28cj)
+- [AWS Tutorial: Using LocalStack for testing AWS SNS and SQS Locally with Filter Policies](https://dev.to/axeldlv/aws-tutorial-using-localstack-for-testing-aws-sns-and-sqs-locally-with-filter-policies-24nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
