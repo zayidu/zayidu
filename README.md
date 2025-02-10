@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use useState, useReducer, and useContext in React](https://dev.to/aneeqakhan/when-to-use-usestate-usereducer-and-usecontext-in-react-1mg1)
-- [Decoupling vs Coupling Applications](https://dev.to/emmanuel_gyan_f561b1b88ed/decoupling-vs-coupling-applications-3j17)
-- [Bot Management: Keeping Your Website Safe from Disturbances](https://dev.to/mpoiiii/bot-management-keeping-your-website-safe-from-disturbances-43a)
-- [Neurolov Hits 5000 Developers on DEV Community](https://dev.to/neurolov_ai_/neurolov-hits-5000-developers-on-dev-community-28cj)
-- [AWS Tutorial: Using LocalStack for testing AWS SNS and SQS Locally with Filter Policies](https://dev.to/axeldlv/aws-tutorial-using-localstack-for-testing-aws-sns-and-sqs-locally-with-filter-policies-24nn)
+- [How to Properly Handle Multiplayer Sync in Unity Using Mirror?](https://dev.to/michealklein/how-to-properly-handle-multiplayer-sync-in-unity-using-mirror-okj)
+- [Are Generics Really That Generic?](https://dev.to/rodschmod/are-generics-really-that-generic-o99)
+- [Why WebAssembly &lpar;WASM&rpar; is the Future of High-Performance Web Apps](https://dev.to/vibhuvibes/why-webassembly-wasm-is-the-future-of-high-performance-web-apps-4713)
+- [Exploring GBase 8s Window Functions: Unlocking Data Analysis Tools](https://dev.to/generaldata/exploring-gbase-8s-window-functions-unlocking-data-analysis-tools-170h)
+- [Understanding the Decorator Pattern in Go](https://dev.to/kittipat1413/understanding-the-decorator-pattern-in-go-30i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
