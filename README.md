@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)
-- [OUT NOW!!!!](https://dev.to/lorebrada00/out-now-59l9)
-- [The Evolution of Kafka and the Changing Data Landscape](https://dev.to/cortexflow/the-evolution-of-kafka-and-the-changing-data-landscape-4100)
-- [Should I Build an Open Core Web App Crawler &amp; Pentesting SaaS?](https://dev.to/riccardo_bevoni_774d90ea1/should-i-build-an-open-core-web-app-crawler-pentesting-saas-50cn)
-- [How do you handle physics-based object collisions in SceneKit?](https://dev.to/neville_adam/how-do-you-handle-physics-based-object-collisions-in-scenekit-3bip)
+- [Understanding JSX and Rendering in Next.js](https://dev.to/johnschibelli/understanding-jsx-and-rendering-elements-in-react-o8j)
+- [What is grammar in TOC?](https://dev.to/mujahida_joynab_64c7407d8/what-is-grammar-in-toc-chc)
+- [React Conferences – More Than Just Hype in 2025](https://dev.to/cookieduster_n/react-conferences-more-than-just-hype-in-2025-1gl5)
+- [Voice-Pro: Ultimate AI Voice Conversion and Multilingual Translation Tool 🔊](https://dev.to/abuskorea/voice-pro-ultimate-ai-voice-conversion-and-multilingual-translation-tool-5a56)
+- [Streamlining Database Migrations with GoFr: A Quickstart](https://dev.to/vaidehi_adhi_84b623a30da7/streamlining-database-migrations-with-gofr-a-quickstart-2mbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
