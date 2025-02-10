@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI Agent Frameworks for Developing Multi-Agent Systems](https://dev.to/marufhossain/top-5-ai-agent-frameworks-for-developing-multi-agent-systems-59oo)
-- [How Can I Build an AI-Powered Ayurveda Diagnostic App.](https://dev.to/parthjoshi001/how-can-i-build-an-ai-powered-ayurveda-diagnostic-app-44kf)
-- [🚀 Meet Devek.ai – Your Open-Source AI Dev Companion](https://dev.to/devek-ai/meet-devekai-your-open-source-ai-dev-companion-3b45)
-- [Lambda function with GraalVM Native Image - Part 5 Measuring cold and warm starts with GraalVM 23](https://dev.to/aws-heroes/lambda-function-with-graalvm-native-image-part-5-measuring-cold-and-warm-starts-with-graalvm-23-3bn)
-- [StackAuth: An open source Auth0 alternative](https://dev.to/logrocket/stackauth-an-open-source-auth0-alternative-1ib8)
+- [TIL Weekly #3](https://dev.to/uskdev/til-weekly-3-e07)
+- [12 AI-Powered Social Media Posting Tips for Maximum Engagement in 2025](https://dev.to/dansasser/12-ai-powered-social-media-posting-tips-for-maximum-engagement-in-2025-5a63)
+- [Understanding LINQ Extension Methods in C#](https://dev.to/silentcoder52626/understanding-linq-extension-methods-in-c-15kh)
+- [CAG &gt; RAG](https://dev.to/markus_tretzmller_1d02bf/cag-rag-26i2)
+- [Laravel Blade Template Engine: A Beginner&#39;s Guide](https://dev.to/icornea/laravel-blade-template-engine-a-beginners-guide-54bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
