@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JSX and Rendering in Next.js](https://dev.to/johnschibelli/understanding-jsx-and-rendering-elements-in-react-o8j)
-- [What is grammar in TOC?](https://dev.to/mujahida_joynab_64c7407d8/what-is-grammar-in-toc-chc)
-- [React Conferences – More Than Just Hype in 2025](https://dev.to/cookieduster_n/react-conferences-more-than-just-hype-in-2025-1gl5)
-- [Voice-Pro: Ultimate AI Voice Conversion and Multilingual Translation Tool 🔊](https://dev.to/abuskorea/voice-pro-ultimate-ai-voice-conversion-and-multilingual-translation-tool-5a56)
-- [Streamlining Database Migrations with GoFr: A Quickstart](https://dev.to/vaidehi_adhi_84b623a30da7/streamlining-database-migrations-with-gofr-a-quickstart-2mbk)
+- [Top 5 AI Agent Frameworks for Developing Multi-Agent Systems](https://dev.to/marufhossain/top-5-ai-agent-frameworks-for-developing-multi-agent-systems-59oo)
+- [How Can I Build an AI-Powered Ayurveda Diagnostic App.](https://dev.to/parthjoshi001/how-can-i-build-an-ai-powered-ayurveda-diagnostic-app-44kf)
+- [🚀 Meet Devek.ai – Your Open-Source AI Dev Companion](https://dev.to/devek-ai/meet-devekai-your-open-source-ai-dev-companion-3b45)
+- [Lambda function with GraalVM Native Image - Part 5 Measuring cold and warm starts with GraalVM 23](https://dev.to/aws-heroes/lambda-function-with-graalvm-native-image-part-5-measuring-cold-and-warm-starts-with-graalvm-23-3bn)
+- [StackAuth: An open source Auth0 alternative](https://dev.to/logrocket/stackauth-an-open-source-auth0-alternative-1ib8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
