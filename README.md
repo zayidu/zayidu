@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang Channel Deep Dive: From Zero to Hero](https://dev.to/leapcell/golang-channel-deep-dive-from-zero-to-hero-4com)
+- [Check if You Are Using a Local Account or Microsoft Account in Windows 11!](https://dev.to/narendhiran/check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-4mlh)
+- [The Problem No One Talks About: Reviewing Mobile App PRs](https://dev.to/pratiksha_patil_2422d808e/the-problem-no-one-talks-about-reviewing-mobile-app-prs-2hbi)
 - [ChatGPT, Gemini, Copilot, or DeepSeek R1—Which One Should You Use?](https://dev.to/dhruvjoshi9/chatgpt-gemini-copilot-or-deepseek-r1-which-one-should-you-use-56ai)
 - [🎙️We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-53eg)
-- [Trunk-Based Development or GitFlow — What&#39;s your dev workflow?](https://dev.to/bucketdotco/trunk-based-development-or-gitflow-whats-your-dev-workflow-p9g)
-- [🌍 Expand Your Global Reach with Multilingual API Docs! 🌍](https://dev.to/walse/expand-your-global-reach-with-multilingual-api-docs-93b)
-- [Choice of Table Column Types and Order When Migrating to PostgreSQL](https://dev.to/shiviyer/choice-of-table-column-types-and-order-when-migrating-to-postgresql-5gp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
