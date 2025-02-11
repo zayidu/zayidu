@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Kafka and the Changing Data Landscape IS FINALLY OUT !!](https://dev.to/lorebrada00/the-evolution-of-kafka-and-the-changing-data-landscape-is-finally-out--296d)
-- [Free Admin Dashboard built with Shadcn UI and Tailwind CSS](https://dev.to/fredy/free-admin-dashboard-built-with-shadcn-ui-and-tailwind-css-2akj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-157k)
-- [3 reasons you should tour a conference talk](https://dev.to/whitep4nth3r/3-reasons-you-should-tour-a-conference-talk-3n94)
-- [How to Use Traits in Laravel](https://dev.to/websilvercraft/how-to-use-traits-in-laravel-5232)
+- [Do you want some tips for designing](https://dev.to/mince/do-you-want-some-tips-for-designing-30g7)
+- [Part 3 coming tomorrow](https://dev.to/mince/part-3-coming-tomorrow-2d9m)
+- [How I Debug Faster with These Simple Tricks](https://dev.to/rowsanali/how-i-debug-faster-with-these-simple-tricks-l2h)
+- [Valentine’s Day Crypto Activities Overview 🎁](https://dev.to/theodor_coin_4/valentines-day-crypto-activities-overview-4ibh)
+- [🛠️ I’ve been refining my React project structures, and this post has some great insights! Definitely worth a read.](https://dev.to/kelvincode1234/ive-been-refining-my-react-project-structures-and-this-post-has-some-great-insights-428b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
