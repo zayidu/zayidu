@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Understanding V8 JIT: How JavaScript Gets Compiled and Optimized](https://dev.to/sajiram_a4704bc095/understanding-v8-jit-how-javascript-gets-compiled-and-optimized-3hi7)
+- [Flexible interval aggregation：From SQL to SPL](https://dev.to/esproc_spl/flexible-interval-aggregationfrom-sql-to-spl-598m)
+- [Hosting a Nuxt App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-nuxt-app-without-a-server-using-pinggy-474n)
 - [Semantic search on top of object detection](https://dev.to/mayank_laddha_21ef3e061ff/semantic-search-on-top-of-object-detection-1pf5)
-- [This was fun...](https://dev.to/mince/this-was-fun-77m)
-- [How I Solve Git Merge Conflicts Like a Pro](https://dev.to/rowsanali/how-i-solve-git-merge-conflicts-like-a-pro-b9o)
-- [Angular Addicts #34: Angular 19.1, AI &amp; Angular, introduction to DDD &amp; more](https://dev.to/this-is-angular/angular-addicts-34-angular-191-ai-angular-introduction-to-ddd-more-18d3)
-- [Tips Terbaru Next.js untuk Performa dan Pengalaman Developer yang Lebih Baik](https://dev.to/rupadana/tips-terbaru-nextjs-untuk-performa-dan-pengalaman-developer-yang-lebih-baik-3fkf)
+- [Understanding Debounce in JavaScript: A Guide with Examples](https://dev.to/teaganga/understanding-debounce-in-javascript-a-guide-with-examples-3cm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
