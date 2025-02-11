@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding V8 JIT: How JavaScript Gets Compiled and Optimized](https://dev.to/sajiram_a4704bc095/understanding-v8-jit-how-javascript-gets-compiled-and-optimized-3hi7)
-- [Flexible interval aggregation：From SQL to SPL](https://dev.to/esproc_spl/flexible-interval-aggregationfrom-sql-to-spl-598m)
-- [Hosting a Nuxt App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-nuxt-app-without-a-server-using-pinggy-474n)
-- [Semantic search on top of object detection](https://dev.to/mayank_laddha_21ef3e061ff/semantic-search-on-top-of-object-detection-1pf5)
-- [Understanding Debounce in JavaScript: A Guide with Examples](https://dev.to/teaganga/understanding-debounce-in-javascript-a-guide-with-examples-3cm4)
+- [ChatGPT, Gemini, Copilot, or DeepSeek R1—Which One Should You Use?](https://dev.to/dhruvjoshi9/chatgpt-gemini-copilot-or-deepseek-r1-which-one-should-you-use-56ai)
+- [🎙️We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-53eg)
+- [Trunk-Based Development or GitFlow — What&#39;s your dev workflow?](https://dev.to/bucketdotco/trunk-based-development-or-gitflow-whats-your-dev-workflow-p9g)
+- [🌍 Expand Your Global Reach with Multilingual API Docs! 🌍](https://dev.to/walse/expand-your-global-reach-with-multilingual-api-docs-93b)
+- [Choice of Table Column Types and Order When Migrating to PostgreSQL](https://dev.to/shiviyer/choice-of-table-column-types-and-order-when-migrating-to-postgresql-5gp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
