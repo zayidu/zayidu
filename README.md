@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang Channel Deep Dive: From Zero to Hero](https://dev.to/leapcell/golang-channel-deep-dive-from-zero-to-hero-4com)
-- [Check if You Are Using a Local Account or Microsoft Account in Windows 11!](https://dev.to/narendhiran/check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-4mlh)
-- [The Problem No One Talks About: Reviewing Mobile App PRs](https://dev.to/pratiksha_patil_2422d808e/the-problem-no-one-talks-about-reviewing-mobile-app-prs-2hbi)
-- [ChatGPT, Gemini, Copilot, or DeepSeek R1—Which One Should You Use?](https://dev.to/dhruvjoshi9/chatgpt-gemini-copilot-or-deepseek-r1-which-one-should-you-use-56ai)
-- [🎙️We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-53eg)
+- [10 React Mistakes You Must Avoid as a Developer 🚀](https://dev.to/kelvincode1234/10-react-mistakes-you-must-avoid-as-a-developer-4mpl)
+- [Efficiently Handling AWS Credentials: Best Practices and Techniques](https://dev.to/pizofreude/efficiently-handling-aws-credentials-best-practices-and-techniques-16i0)
+- [🚨GIVEAWAY🚨 - Help us reach 15,000 stars and win our Ultimate Swag Pack! 🐝 👕](https://dev.to/wasp/giveaway-help-us-reach-15000-stars-and-win-our-ultimate-swag-pack-5fal)
+- [Transforming Downtime into Done Time](https://dev.to/wraith/transforming-downtime-into-done-time-2mc5)
+- [🚀 Your Daily Crypto Job Digest For 11 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-february-43ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
