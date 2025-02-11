@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with CI/CD: A Beginner&#39;s Guide to Automating Your First Pipeline &lpar;With Github Actions&rpar;](https://dev.to/isaactony/getting-started-with-cicd-a-beginners-guide-to-automating-your-first-pipeline-with-github-2a5)
-- [4 Best M3U8 Players for Online Streaming](https://dev.to/mpoiiii/4-best-m3u8-players-for-online-streaming-499)
-- [10 Game-Changing AI Technologies in 2025-2026 &lpar;You Can’t Ignore!&rpar;](https://dev.to/cloudestersoftware/10-game-changing-ai-technologies-in-2025-2026-you-cant-ignore-52f2)
-- [API Management vs API Gateway: A Detailed Comparison](https://dev.to/api7/api-management-vs-api-gateway-a-detailed-comparison-4k6f)
-- [Understanding and Managing the Recycle Bin in SharePoint Embedded](https://dev.to/jaloplo/understanding-and-managing-the-recycle-bin-in-sharepoint-embedded-ljc)
+- [Semantic search on top of object detection](https://dev.to/mayank_laddha_21ef3e061ff/semantic-search-on-top-of-object-detection-1pf5)
+- [This was fun...](https://dev.to/mince/this-was-fun-77m)
+- [How I Solve Git Merge Conflicts Like a Pro](https://dev.to/rowsanali/how-i-solve-git-merge-conflicts-like-a-pro-b9o)
+- [Angular Addicts #34: Angular 19.1, AI &amp; Angular, introduction to DDD &amp; more](https://dev.to/this-is-angular/angular-addicts-34-angular-191-ai-angular-introduction-to-ddd-more-18d3)
+- [Tips Terbaru Next.js untuk Performa dan Pengalaman Developer yang Lebih Baik](https://dev.to/rupadana/tips-terbaru-nextjs-untuk-performa-dan-pengalaman-developer-yang-lebih-baik-3fkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
