@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Auth Made Easy: A Beginner&#39;s Guide to Keeping Your Apps Secure](https://dev.to/rijultp/auth-made-easy-a-beginners-guide-to-keeping-your-apps-secure-bmp)
-- [ElasticSearch Architecture: A Comprehensive Guide](https://dev.to/wadee_sami_4562c11ecf8066/elasticsearch-architecture-a-comprehensive-guide-12me)
-- [Observables &amp; Chill: Getting Started with RxJS](https://dev.to/lovestaco/observables-chill-getting-started-with-rxjs-4khe)
-- [20 Curated Articles on Real Money Making for Starters.](https://dev.to/rare_source/20-curated-articles-on-real-money-making-for-starters-27pn)
-- [Slothly coding](https://dev.to/janeofcode/slothly-coding-3ico)
+- [Master of HTML? Prove It with async and defer](https://dev.to/leapcell/master-of-html-prove-it-with-async-and-defer-5f7i)
+- [Exploring AWS Identity and Access Management &lpar;IAM&rpar;: A Hands-on Experience 🔐](https://dev.to/admiralng/exploring-aws-identity-and-access-management-iam-a-hands-on-experience-eoc)
+- [HTML pen](https://dev.to/hacker_mood_4632fdcde273b/html-pen-4k6c)
+- [out now!! #Devcommunity](https://dev.to/lorebrada00/out-now-devcommunity-4jdo)
+- [Navigating the Vue 2 to Vue 3 Migration: Lessons Learned and Key Considerations](https://dev.to/samuel_anyaele_451d874437/navigating-the-vue-2-to-vue-3-migration-lessons-learned-and-key-considerations-4413)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
