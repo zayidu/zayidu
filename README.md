@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://dev.to/michaellarocca/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators-gpn)
-- [[Boost]](https://dev.to/lorebrada00/-3oog)
-- [The evolution of Kafka and the Changing Data Landscape IS OUT ! Please check out this article and leave a comment below!!!!](https://dev.to/lorebrada00/the-evolution-of-kafka-and-the-changing-data-landscape-is-out-please-check-out-this-article-and-1eeo)
-- [Key Components and Architecture of Kubernetes](https://dev.to/aleson-franca/key-components-and-architecture-of-kubernetes-ifl)
-- [You Don’t Have To Be A Billionaire To Launch Satellites](https://dev.to/jetthoughts/you-dont-have-to-be-a-billionaire-to-launch-satellites-4a0e)
+- [&quot;Unlocking AI&#39;s Role in Revolutionizing Scientific Research and Job Hiring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-role-in-revolutionizing-scientific-research-and-job-hiring-2h0g)
+- [Daily JavaScript Challenge #JS-99: Find Non-Repeating Character in String](https://dev.to/dpc/daily-javascript-challenge-js-99-find-non-repeating-character-in-string-4cm0)
+- [How My AI Image Search Engine Learned to Love Porn](https://dev.to/oberst_murxes_93ab3a90a6e/how-my-ai-image-search-engine-learned-to-love-porn-3g97)
+- [Models - Oversimplified](https://dev.to/mindyzwan/models-oversimplified-5gk3)
+- [Becoming a Senior Developer - Tips from Clean Code](https://dev.to/realjck/becoming-a-senior-developer-tips-from-clean-code-52ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
