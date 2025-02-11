@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI: How OpenAI Development Companies Are Shaping Industries](https://dev.to/michael_oliver_12e41257b3/the-future-of-ai-how-openai-development-companies-are-shaping-industries-34ef)
-- [A quick rundown....](https://dev.to/mince/a-quick-rundown-560e)
-- [LIBRARY VS FRAMEWORK](https://dev.to/mince/library-vs-framework-17i7)
-- [Implementing Automated Backup, Disaster Recovery, and High Availability in Linux](https://dev.to/ibrahimsi/implementing-automated-backup-disaster-recovery-and-high-availability-in-linux-dc0)
-- [LCM - Program find out least common multiple](https://dev.to/hema_latha/lcm-program-find-out-least-common-multiple-5a40)
+- [Prevent HTTP Parameter Pollution in Laravel: A Guide](https://dev.to/pentest_testing_corp/prevent-http-parameter-pollution-in-laravel-a-guide-23cg)
+- [The One Developer Problem No One Talks About &lpar;But Everyone Faces&rpar;](https://dev.to/pratiksha_patil_2422d808e/the-one-developer-problem-no-one-talks-about-but-everyone-faces-3l2i)
+- [Websparks AI vs Cursor AI: A Comprehensive Analysis of the Features and Performance](https://dev.to/walif_sultana_36824347484/websparks-ai-vs-cursor-ai-a-comprehensive-analysis-of-the-features-and-performance-310m)
+- [How to Install Zed Editor on Windows Using Linux Ubuntu WSL2 &lpar;Step-by-Step Guide&rpar;](https://dev.to/le0_nguyen/how-to-install-zed-editor-on-windows-using-linux-ubuntu-wsl2-step-by-step-guide-3ae0)
+- [Mastering Docker Bake with Node.js: A Comprehensive Guide](https://dev.to/ajeetraina/mastering-docker-bake-with-nodejs-a-comprehensive-guide-5eec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
