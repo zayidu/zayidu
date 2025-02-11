@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Milvus: Your Vector Database Powerhouse – A Deep Dive](https://dev.to/simplr_sh/milvus-your-vector-database-powerhouse-a-deep-dive-2d6h)
-- [React State: useState Explained Simply](https://dev.to/marveeeen/react-state-usestate-explained-simply-24ic)
-- [Inorder Traversal](https://dev.to/mujahida_joynab_64c7407d8/inorder-traversal-4l8d)
-- [WinUI i18n: how to create Resources.resw file](https://dev.to/shaunthegeek/winui-i18n-how-to-create-resourcesresw-file-4d25)
-- [Day 37 - Joins and Constraints in database](https://dev.to/lakshmipritha/day-37-joins-and-constraints-in-database-5b5l)
+- [My Attempt at the Cloud Resume Challenge &lpar;Azure Edition&rpar;](https://dev.to/skelingtonboi/my-attempt-at-the-cloud-resume-challenge-azure-edition-36h5)
+- [Detailed Steps of JVM Object Creation Using the new Keyword in Java](https://dev.to/ryan_zhi/detailed-steps-of-jvm-object-creation-using-the-new-keyword-in-java-3mgm)
+- [Blockchain em Cena: Documentários e Filmes](https://dev.to/valterlobo/blockchain-em-cena-documentarios-e-filmes-35jk)
+- [Master Terraform Advanced Functions — No Cloud Access Required!](https://dev.to/ramkumar_manickam_a24fec3/master-terraform-advanced-functions-no-cloud-access-required-3c46)
+- [Flutter x Amplify AI Kit Recipe App Development](https://dev.to/aws-builders/flutter-amplify-ai-kit-recipe-app-development-5172)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
