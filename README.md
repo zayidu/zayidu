@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master of HTML? Prove It with async and defer](https://dev.to/leapcell/master-of-html-prove-it-with-async-and-defer-5f7i)
-- [Exploring AWS Identity and Access Management &lpar;IAM&rpar;: A Hands-on Experience 🔐](https://dev.to/admiralng/exploring-aws-identity-and-access-management-iam-a-hands-on-experience-eoc)
-- [HTML pen](https://dev.to/hacker_mood_4632fdcde273b/html-pen-4k6c)
-- [out now!! #Devcommunity](https://dev.to/lorebrada00/out-now-devcommunity-4jdo)
-- [Navigating the Vue 2 to Vue 3 Migration: Lessons Learned and Key Considerations](https://dev.to/samuel_anyaele_451d874437/navigating-the-vue-2-to-vue-3-migration-lessons-learned-and-key-considerations-4413)
+- [🚀 TypeScript Crash Course: From Beginner to Advanced](https://dev.to/ebereplenty/typescript-crash-course-from-beginner-to-advanced-22dp)
+- [Real World Experience: Github Copilot Edits](https://dev.to/bytehala/real-world-experience-github-copilot-edits-4k37)
+- [🚀 ¡Go 1.24 ya está aquí! 🚀](https://dev.to/fuenrob/go-124-ya-esta-aqui-3ad3)
+- [Typescript-eslint + prettier for code standardization in React with Typescript](https://dev.to/griseduardo/typescript-eslint-prettier-for-code-standardization-in-react-with-typescript-3l0h)
+- [Typescript-eslint + prettier para padronização de código em React com Typescript](https://dev.to/griseduardo/typescript-eslint-prettier-para-padronizacao-de-codigo-em-react-com-typescript-2d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
