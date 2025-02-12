@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Curated Articles on Side Hustles for 2025.](https://dev.to/rare_source/20-curated-articles-on-side-hustles-for-2025-27dh)
-- [Must-Know 30 Beginners Resources for Every Developers.](https://dev.to/dev-resources/must-know-30-beginners-resources-for-every-developers-169d)
-- [🚀 Build a Custom SaaS CRM in Hours &lpar;Not Months&rpar; with This React + Next.js Template](https://dev.to/shreyvijayvargiya/build-a-custom-saas-crm-in-hours-not-months-with-this-react-nextjs-template-14pd)
-- [Operators &amp; Chill: Getting Started with RxJS - II](https://dev.to/lovestaco/operators-chill-getting-started-with-rxjs-ii-1852)
-- [AI Community Pulse &lpar;February 12&rpar;](https://dev.to/future_ai/ai-community-pulse-february-12-32pn)
+- [i built fastest url shortener ever... it&#39;s open source](https://dev.to/abdibrokhim/i-built-fastest-url-shortener-ever-its-open-source-2khc)
+- [I Applied to Y Combinator Again | YC Founders Intro](https://dev.to/abdibrokhim/i-applied-to-y-combinator-again-yc-founders-intro-497h)
+- [Integrating DeepSeek API in NextJs and ExpressJs App](https://dev.to/itsrakesh/integrating-deepseek-api-in-nextjs-and-expressjs-app-3476)
+- [Simple Steps on How to Install and Run DeepSeek R1 Locally](https://dev.to/resource_bunk_1077cab07da/simple-steps-on-how-to-install-and-run-deepseek-r1-locally-4jp7)
+- [Gerenciando o Pull de Conexões do banco de dados com Golang](https://dev.to/booscaaa/gerenciando-o-pull-de-conexoes-do-banco-de-dados-com-golang-1261)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
