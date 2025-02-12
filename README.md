@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#143 — Expand One Row into Multiple Rows after Splitting Text](https://dev.to/judith677/143-expand-one-row-into-multiple-rows-after-splitting-text-21eg)
-- [Why Tailwind CSS is Revolutionizing Modern Web Development](https://dev.to/vibhuvibes/why-tailwind-css-is-revolutionizing-modern-web-development-4bdp)
-- [Kunal Kumar](https://dev.to/kunalkumar/kunal-kumar-lj1)
-- [Understanding the Difference Between npm and npx](https://dev.to/ramyasree_manthena_76c598/understanding-the-difference-between-npm-and-npx-463e)
-- [SavingDaPlanet Deployment](https://dev.to/savingdaplanet/savingdaplanet-deployment-36c)
+- [Python Requests: Mastering JSON Data POST](https://dev.to/apilover/python-requests-mastering-json-data-post-leh)
+- [My 3hr Landing Page Build Strategy in 2025](https://dev.to/pinknoise/my-3hr-landing-page-build-strategy-in-2025-4mff)
+- [Financial Strategies for Sustaining Open Source Projects](https://dev.to/jennythomas498/financial-strategies-for-sustaining-open-source-projects-4nc7)
+- [[I just published a complete tutorial on how to set up your first frontend Unit Testing workflow! ]&lpar;https://www.codebeaver.ai/blog/tutorials/frontend-unit-tests-with-github-react-codebeaver/&rpar;](https://dev.to/vittorio_banfi_6d141586d5/i-just-published-a-complete-tutorial-on-how-to-set-up-your-first-frontend-unit-testing-workflow-314k)
+- [Exploring Revenue Streams for Open Source Developers](https://dev.to/zhangwei42/exploring-revenue-streams-for-open-source-developers-5gil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
