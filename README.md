@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Toggles: A Simple Way to Manage Access to Premium Features](https://dev.to/budiwidhiyanto/feature-toggles-a-simple-way-to-manage-access-to-premium-features-52j6)
-- [Week 4 of my Data Analytics Journey](https://dev.to/awasume_marylin_8/week-4-of-my-data-analytics-journey-3bie)
-- [Doing it with a RNN model is impressing](https://dev.to/gliese832b/doing-it-with-a-rnn-model-is-impressing-35np)
-- [The Journey, the Struggles, and the Road Ahead](https://dev.to/stevengdev/the-journey-the-struggles-and-the-road-ahead-215k)
-- [Como passar na certificação AI Practitioner - AWS](https://dev.to/airton_lirajunior_2ddebd/como-passar-na-certificacao-ai-practitioner-aws-1cni)
+- [Rate Limiting: A Practical Guide to Prevent Overuse](https://dev.to/propelauth/rate-limiting-a-practical-guide-to-prevent-overuse-16lm)
+- [Introduction to AI-Generated Code and Its Ethics](https://dev.to/kartikmehta8/introduction-to-ai-generated-code-and-its-ethics-4ocf)
+- [Commit Messages on Autopilot: How I Built an AI-Powered Tool to Save Time and Sanity](https://dev.to/denihs/commit-messages-on-autopilot-how-i-built-an-ai-powered-tool-to-save-time-and-sanity-l2l)
+- [DAO Development: Building Decentralized Organizations with Snapshot &amp; Gnosis Safe](https://dev.to/raji_moshood_ee3a4c2638f6/dao-development-building-decentralized-organizations-with-snapshot-gnosis-safe-3566)
+- [MSI RTX 5090 TRIO FurMark Benchmarking + Overclocking + Noise Testing and Comparing with RTX 3090 TI](https://dev.to/furkangozukara/msi-rtx-5090-trio-furmark-benchmarking-overclocking-noise-testing-and-comparing-with-rtx-3090-ti-1nk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
