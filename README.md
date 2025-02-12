@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 12 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-12-february-2292)
-- [You are more than the tools you use: tell your story](https://dev.to/whitep4nth3r/you-are-more-than-the-tools-you-use-tell-your-story-epi)
-- [Guys part 3 is out!!!! 🥳🥳](https://dev.to/mince/guys-part-3-is-out-42c2)
-- [WHAT TECHNOLOGIES DO BIG COMPANIES USE 🤔 PART 3](https://dev.to/mince/what-technologies-do-big-companies-use-part-3-3e0i)
-- [Tech Community Manager não é só um Community Manager voltado para tecnologia. Descubra por quê!](https://dev.to/levxyca/tech-community-manager-nao-e-so-um-community-manager-voltado-para-tecnologia-descubra-por-que-4j51)
+- [15 React.js Hacks for Beginners in 2025 🚀](https://dev.to/joodi/15-reactjs-hacks-for-beginners-in-2025-1799)
+- [Svelte 5 on Bun 1.2: 始め方](https://dev.to/nabbisen/svelte-5-on-bun-12-shi-mefang-2c33)
+- [使用 Ollama + Ngrok 搭建本地 LLM，遠端存取 AI 模型教學](https://dev.to/letswrite/shi-yong-ollama-ngrok-da-jian-ben-di-llmyuan-duan-cun-qu-ai-mo-xing-jiao-xue-2jj)
+- [Email Verification with Sent Codes in Ruby on Rails without Devise](https://dev.to/pedroleo/email-verification-with-sent-codes-in-ruby-on-rails-without-devise-479a)
+- [Optimizing Performance and Cost on AWS: Strategies for Large-Scale Environments](https://dev.to/prakash_rao/optimizing-performance-and-cost-on-aws-strategies-for-large-scale-environments-20jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
