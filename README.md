@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Elevate Your UI: Creating a Stunning Linear Gradient Border in React Native](https://dev.to/amitkumar13/elevate-your-ui-creating-a-stunning-linear-gradient-border-in-react-native-2ace)
-- [I made my DEV articles into a blog using the Forem API](https://dev.to/moopet/i-made-my-dev-articles-into-a-blog-using-the-forem-api-42d2)
-- [How to Use CSS Grid for Complex Web Layouts: A Step-by-Step Guide](https://dev.to/rowsanali/how-to-use-css-grid-for-complex-web-layouts-a-step-by-step-guide-3fk9)
-- [A guide to Object.groupBy: An alternative to Array.reduce](https://dev.to/logrocket/a-guide-to-objectgroupby-an-alternative-to-arrayreduce-59a8)
-- [Mastering useParams in React Router &lpar;Easy-to-Follow Guide&rpar;](https://dev.to/pravinjadhav/mastering-useparams-in-react-router-easy-to-follow-guide-2f6e)
+- [JUnit Testing | Spring Boot | Java Spring](https://dev.to/debeshpg90/junit-testing-spring-boot-java-spring-1891)
+- [Stop asking users for their AI API keys](https://dev.to/miguelaeh/stop-asking-users-for-their-ai-api-keys-2583)
+- [Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
+- [20+ Best Programming Project Ideas for Beginners](https://dev.to/tarunfulera1/20-best-programming-project-ideas-for-beginners-1g4p)
+- [Our Unforgettable Journey: Winning Innerve 9 Hackathon at AIT Pune](https://dev.to/mohit_nagaraj/our-unforgettable-journey-winning-innerve-9-hackathon-at-ait-pune-54ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
