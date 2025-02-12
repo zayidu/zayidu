@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API resources in Laravel: Transforming your data with power and flexibility](https://dev.to/aleson-franca/mastering-api-resources-in-laravel-transforming-your-data-with-power-and-flexibility-4f51)
-- [[Boost]](https://dev.to/vayolapradeep/-5fc9)
-- [Creating a RESTful API with Nolang](https://dev.to/nolang/creating-a-restful-api-with-nolang-8ne)
-- [When to Use a CMS Instead of a Framework](https://dev.to/wafa_bergaoui/when-to-use-a-cms-instead-of-a-framework-442m)
-- [JSON: A Technical Overview](https://dev.to/farlamo/json-a-technical-overview-1c5m)
+- [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://dev.to/chukwu3meka/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-1jf9)
+- [🚀 We Just Launched Stof – An Open-Source Project to Simplify Data Handling!](https://dev.to/amelia_wampler_e7aa93dab9/we-just-launched-stof-an-open-source-project-to-simplify-data-handling-449p)
+- [Code Smell 290 - Refused Bequest](https://dev.to/mcsee/code-smell-290-refused-bequest-3l3k)
+- [Asynchronous Programming in Django](https://dev.to/shayan_holakouee/asynchronous-programming-in-django-15f4)
+- [Reflexões ao usar o GitHub Copilot](https://dev.to/edersontec/reflexoes-ao-usar-o-github-copilot-1cc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
