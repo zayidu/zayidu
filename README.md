@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JUnit Testing | Spring Boot | Java Spring](https://dev.to/debeshpg90/junit-testing-spring-boot-java-spring-1891)
-- [Stop asking users for their AI API keys](https://dev.to/miguelaeh/stop-asking-users-for-their-ai-api-keys-2583)
-- [Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
-- [20+ Best Programming Project Ideas for Beginners](https://dev.to/tarunfulera1/20-best-programming-project-ideas-for-beginners-1g4p)
-- [Our Unforgettable Journey: Winning Innerve 9 Hackathon at AIT Pune](https://dev.to/mohit_nagaraj/our-unforgettable-journey-winning-innerve-9-hackathon-at-ait-pune-54ng)
+- [20 Curated Articles on Side Hustles for 2025.](https://dev.to/rare_source/20-curated-articles-on-side-hustles-for-2025-27dh)
+- [Must-Know 30 Beginners Resources for Every Developers.](https://dev.to/dev-resources/must-know-30-beginners-resources-for-every-developers-169d)
+- [🚀 Build a Custom SaaS CRM in Hours &lpar;Not Months&rpar; with This React + Next.js Template](https://dev.to/shreyvijayvargiya/build-a-custom-saas-crm-in-hours-not-months-with-this-react-nextjs-template-14pd)
+- [Operators &amp; Chill: Getting Started with RxJS - II](https://dev.to/lovestaco/operators-chill-getting-started-with-rxjs-ii-1852)
+- [AI Community Pulse &lpar;February 12&rpar;](https://dev.to/future_ai/ai-community-pulse-february-12-32pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
