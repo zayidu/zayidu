@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Hashicorp Vault with Ansible](https://dev.to/kubenetic/install-hashicorp-vault-with-ansible-lb3)
-- [Self-signed PKI for the homelab](https://dev.to/kubenetic/self-signed-pki-for-the-homelab-58hh)
-- [Module 3 of DataTalks club Data Engg bootcamp.](https://dev.to/grokker_f9bf83d79cb9beb6f/module-3-of-datatalks-club-data-engg-bootcamp-3h23)
-- [Prompt Engineering vs Fine-Tuning for LLMs: Choosing the Right Approach](https://dev.to/mikesays/prompt-engineering-vs-fine-tuning-for-llms-choosing-the-right-approach-56de)
-- [Fix GitHub Achievements Not Displaying on Your Profile](https://dev.to/yoan-gilliand/fix-github-achievements-not-displaying-on-your-profile-lpn)
+- [Mastering API resources in Laravel: Transforming your data with power and flexibility](https://dev.to/aleson-franca/mastering-api-resources-in-laravel-transforming-your-data-with-power-and-flexibility-4f51)
+- [[Boost]](https://dev.to/vayolapradeep/-5fc9)
+- [Creating a RESTful API with Nolang](https://dev.to/nolang/creating-a-restful-api-with-nolang-8ne)
+- [When to Use a CMS Instead of a Framework](https://dev.to/wafa_bergaoui/when-to-use-a-cms-instead-of-a-framework-442m)
+- [JSON: A Technical Overview](https://dev.to/farlamo/json-a-technical-overview-1c5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
