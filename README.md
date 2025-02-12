@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Ceiling Fan works?](https://dev.to/madgan95/how-ceiling-fan-works-3dgh)
-- [Join us for the next Frontend Challenge: February Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-february-edition-3070)
-- [Networking 101: Part 3](https://dev.to/himanshu_bhatt/networking-101-part-3-356h)
-- [MASTERING SQL FOR DATA ENGINEERING: ADVANCED QUERIES, OPTIMIZATION AND DATA MODELLING BEST PRATICES](https://dev.to/victorkithinji/mastering-sql-for-data-engineering-advanced-queries-optimization-and-data-modelling-best-pratices-3m14)
-- [Demystifying AI, ML, Deep Learning, and Neural Networks for Developers](https://dev.to/kumar_kusumitsharma_b190/demystifying-ai-ml-deep-learning-and-neural-networks-for-developers-3dcj)
+- [✨ Elevate Your UI: Creating a Stunning Linear Gradient Border in React Native](https://dev.to/amitkumar13/elevate-your-ui-creating-a-stunning-linear-gradient-border-in-react-native-2ace)
+- [I made my DEV articles into a blog using the Forem API](https://dev.to/moopet/i-made-my-dev-articles-into-a-blog-using-the-forem-api-42d2)
+- [How to Use CSS Grid for Complex Web Layouts: A Step-by-Step Guide](https://dev.to/rowsanali/how-to-use-css-grid-for-complex-web-layouts-a-step-by-step-guide-3fk9)
+- [A guide to Object.groupBy: An alternative to Array.reduce](https://dev.to/logrocket/a-guide-to-objectgroupby-an-alternative-to-arrayreduce-59a8)
+- [Mastering useParams in React Router &lpar;Easy-to-Follow Guide&rpar;](https://dev.to/pravinjadhav/mastering-useparams-in-react-router-easy-to-follow-guide-2f6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
