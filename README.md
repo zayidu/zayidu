@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Variables in python](https://dev.to/vayolapradeep/variables-in-python-350f)
-- [🌐 What is HTML? How Do Websites Work Behind the Scenes?](https://dev.to/behan05/what-is-html-how-do-websites-work-behind-the-scenes-368l)
-- [Convert DOCX to PDF Programmatically: AWS Lambda &amp; LibreOffice](https://dev.to/itsawaisahmad/convert-docx-to-pdf-programmatically-aws-lambda-libreoffice-1l24)
-- [Redux toolkit basic setup baby.](https://dev.to/thekbbohara/redux-toolkit-basic-setup-baby-1o4o)
-- [Update unitprice in order view via a custom module](https://dev.to/pabodah/update-unitprice-in-order-view-via-a-custom-module-1p2i)
+- [Guide to Using Appium Inspector](https://dev.to/misterankit/guide-to-using-appium-inspector-4hi6)
+- [Ultimate Guide to REST API Design: Best Practices and Patterns](https://dev.to/kelvincode1234/ultimate-guide-to-rest-api-design-best-practices-and-patterns-1hia)
+- [tw.sh: I sent tweets via CLI with a new tool from X.](https://dev.to/evertontenorio/twsh-i-sent-tweets-via-cli-with-a-new-tool-from-x-3ekc)
+- [Pods: The Heart of Kubernetes](https://dev.to/ibrahimsi/pods-the-heart-of-kubernetes-2ofn)
+- [The Full-Stack Developer](https://dev.to/robin-ivi/the-full-stack-developer-a-comprehensive-guide-to-mastering-web-development-5f9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
