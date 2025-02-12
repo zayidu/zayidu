@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Scalability Testing: Automating for Performance and Growth](https://dev.to/radha_4c842d8e4362a7cdd9c/scalability-testing-automating-for-performance-and-growth-32l4)
+- [The Cracked Engineer: Moving From JavaScript to Rust - The Basics](https://dev.to/gho5t_97/the-cracked-engineer-moving-from-javascript-to-rust-the-basics-3ncl)
+- [Self-Hosting a Multiplayer WebXR App with Needle Engine on Vercel](https://dev.to/kojirovr/self-hosting-a-multiplayer-webxr-app-with-needle-engine-on-vercel-385c)
 - [Day 38 - Primary key, Foreign key in Database, Types of SQL Languages](https://dev.to/lakshmipritha/day-38-primary-key-foreign-key-in-database-types-of-sql-languages-3g3p)
-- [Deploying Serverless Functions Across Regions with AWS Lambda](https://dev.to/aws-builders/deploying-serverless-functions-across-regions-with-aws-lambda-2khc)
-- [Rate Limiting: A Practical Guide to Prevent Overuse](https://dev.to/propelauth/rate-limiting-a-practical-guide-to-prevent-overuse-16lm)
-- [Ruby, Rails, Multi-threading e Puma: Como tudo isso se conecta?](https://dev.to/erick_tmr/ruby-rails-multi-threading-e-puma-como-tudo-isso-se-conecta-3kc7)
-- [Introduction to AI-Generated Code and Its Ethics](https://dev.to/kartikmehta8/introduction-to-ai-generated-code-and-its-ethics-4ocf)
+- [Bootcamps Didn&#39;t Create Full Stack Developers—And If You Think Otherwise, You&#39;re a Fool](https://dev.to/itamartati/bootcamps-didnt-create-full-stack-developers-and-if-you-think-otherwise-youre-a-fool-lj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
