@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Using Appium Inspector](https://dev.to/misterankit/guide-to-using-appium-inspector-4hi6)
-- [Ultimate Guide to REST API Design: Best Practices and Patterns](https://dev.to/kelvincode1234/ultimate-guide-to-rest-api-design-best-practices-and-patterns-1hia)
-- [tw.sh: I sent tweets via CLI with a new tool from X.](https://dev.to/evertontenorio/twsh-i-sent-tweets-via-cli-with-a-new-tool-from-x-3ekc)
-- [Pods: The Heart of Kubernetes](https://dev.to/ibrahimsi/pods-the-heart-of-kubernetes-2ofn)
-- [The Full-Stack Developer](https://dev.to/robin-ivi/the-full-stack-developer-a-comprehensive-guide-to-mastering-web-development-5f9m)
+- [🚀 Is Your Website Fast Enough?](https://dev.to/dct_technologyprivatelimited/is-your-website-fast-enough-14a)
+- [Python vs PHP: Which One is Better for Website Development? 🤔](https://dev.to/dct_technologyprivatelimited/python-vs-php-which-one-is-better-for-website-development-2d4f)
+- [Find x: React + MobX + SSR + x = Happiness](https://dev.to/viacheslav_muravyev_af526/find-x-react-mobx-ssr-x-happiness-3b8o)
+- [The Hidden Cost of Third-Party Libraries: When &#39;Don&#39;t Reinvent the Wheel&#39; Goes Wrong](https://dev.to/adamgolan/the-hidden-cost-of-third-party-libraries-when-dont-reinvent-the-wheel-goes-wrong-3074)
+- [ServiceNow’s AI Revolution: Reshaping Enterprise Automation AI Is Transforming Enterprise Automation—Are You Ready?](https://dev.to/sip_mjb/servicenows-ai-revolution-reshaping-enterprise-automation-ai-is-transforming-enterprise-j32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
