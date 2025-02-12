@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Common Mistakes Developers Make with CORS &lpar;and How to Avoid Them&rpar;](https://dev.to/reynaldichernando/7-common-mistakes-developers-make-with-cors-and-how-to-avoid-them-57pe)
+- [Top VSCode Extensions I Use Everyday - 2025 Edition](https://dev.to/bascodes/top-vscode-extensions-i-use-everyday-2025-edition-1lai)
+- [Building a Fast and Efficient Image Converter with Next.js, Sharp and React](https://dev.to/flnzba/building-a-fast-and-efficient-image-converter-with-nextjs-sharp-and-react-2m1l)
+- [Testing Framework Cucumber Best Practices for BDD Testing](https://dev.to/maria_bueno/testing-framework-cucumber-best-practices-for-bdd-testing-4d82)
 - [How I Contributed to Kestra: A Beginner’s Perspective](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-contributed-to-kestra-a-beginners-perspective-4leo)
-- [Go 1.24 Released: Massive Optimizations &amp; Key Upgrades!](https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn)
-- [Best Custom Insurance Software Development Platforms in 2025](https://dev.to/openkoda/best-custom-insurance-software-development-platforms-in-2025-5cpj)
-- [AI System Makes Lip Reading More Personal and Accurate with Audio-Visual Learning](https://dev.to/mikeyoung44/ai-system-makes-lip-reading-more-personal-and-accurate-with-audio-visual-learning-4jgn)
-- [AI Creates Two-Way Bridge Between X-Ray Images and Medical Reports](https://dev.to/mikeyoung44/ai-creates-two-way-bridge-between-x-ray-images-and-medical-reports-36g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
