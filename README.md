@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [i built fastest url shortener ever... it&#39;s open source](https://dev.to/abdibrokhim/i-built-fastest-url-shortener-ever-its-open-source-2khc)
-- [I Applied to Y Combinator Again | YC Founders Intro](https://dev.to/abdibrokhim/i-applied-to-y-combinator-again-yc-founders-intro-497h)
-- [Integrating DeepSeek API in NextJs and ExpressJs App](https://dev.to/itsrakesh/integrating-deepseek-api-in-nextjs-and-expressjs-app-3476)
-- [Simple Steps on How to Install and Run DeepSeek R1 Locally](https://dev.to/resource_bunk_1077cab07da/simple-steps-on-how-to-install-and-run-deepseek-r1-locally-4jp7)
-- [Gerenciando o Pull de Conexões do banco de dados com Golang](https://dev.to/booscaaa/gerenciando-o-pull-de-conexoes-do-banco-de-dados-com-golang-1261)
+- [Build Features from the Outside In](https://dev.to/railsdesigner/build-features-from-the-outside-in-3b09)
+- [Using React Suspense with Data Fetching and Concurrent Rendering.](https://dev.to/melvinprince/using-react-suspense-with-data-fetching-and-concurrent-rendering-3nnh)
+- [Leet Code Palindrome problem in Javascript](https://dev.to/sushmeet/leet-code-palindrome-problem-in-javascript-238n)
+- [AI Agents Explained: Architecture, Benefits, and Real-World Applications &lpar;Technical Deep Dive&rpar;](https://dev.to/sina14/ai-agents-explained-architecture-benefits-and-real-world-applications-technical-deep-dive-17f5)
+- [JavaScript Objects Simplified: A Summary of MDN Web Docs via DeepSeek AI](https://dev.to/agunechemba/javascript-objects-simplified-a-summary-of-mdn-web-docs-via-deepseek-ai-1af4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
