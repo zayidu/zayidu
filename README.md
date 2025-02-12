@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Common Mistakes Developers Make with CORS &lpar;and How to Avoid Them&rpar;](https://dev.to/reynaldichernando/7-common-mistakes-developers-make-with-cors-and-how-to-avoid-them-57pe)
-- [Top VSCode Extensions I Use Everyday - 2025 Edition](https://dev.to/bascodes/top-vscode-extensions-i-use-everyday-2025-edition-1lai)
-- [Building a Fast and Efficient Image Converter with Next.js, Sharp and React](https://dev.to/flnzba/building-a-fast-and-efficient-image-converter-with-nextjs-sharp-and-react-2m1l)
-- [Testing Framework Cucumber Best Practices for BDD Testing](https://dev.to/maria_bueno/testing-framework-cucumber-best-practices-for-bdd-testing-4d82)
-- [How I Contributed to Kestra: A Beginner’s Perspective](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-contributed-to-kestra-a-beginners-perspective-4leo)
+- [🚀 Your Daily Crypto Job Digest For 12 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-12-february-2292)
+- [You are more than the tools you use: tell your story](https://dev.to/whitep4nth3r/you-are-more-than-the-tools-you-use-tell-your-story-epi)
+- [Guys part 3 is out!!!! 🥳🥳](https://dev.to/mince/guys-part-3-is-out-42c2)
+- [WHAT TECHNOLOGIES DO BIG COMPANIES USE 🤔 PART 3](https://dev.to/mince/what-technologies-do-big-companies-use-part-3-3e0i)
+- [Tech Community Manager não é só um Community Manager voltado para tecnologia. Descubra por quê!](https://dev.to/levxyca/tech-community-manager-nao-e-so-um-community-manager-voltado-para-tecnologia-descubra-por-que-4j51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
