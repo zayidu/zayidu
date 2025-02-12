@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I’m Treating Myself &lpar;and Others&rpar; This Valentine’s Day as a Crypto Enthusiast](https://dev.to/leo_scott_357f10236fabe00/how-im-treating-myself-and-others-this-valentines-day-as-a-crypto-enthusiast-5akg)
-- [Don’t Rely on Social Media Alone! 9 Reasons Why Your Business Needs a Website?](https://dev.to/web_dev-usman/dont-rely-on-social-media-alone-9-reasons-why-your-business-needs-a-website-144l)
-- [Testing 3](https://dev.to/sarifht/testing-3-4c2k)
-- [From Zero to First Clients: What I’d Do If I Started My Freelance Web Dev Business Today](https://dev.to/per-starke-642/from-zero-to-first-clients-what-id-do-if-i-started-my-freelance-web-dev-business-today-34ii)
-- [Data Privacy in the API Economy: Balancing Innovation with Security](https://dev.to/api7/data-privacy-in-the-api-economy-balancing-innovation-with-security-5ge3)
+- [How to Write Technical Documentation in 2025: A Step-by-Step Guide](https://dev.to/auden/how-to-write-technical-documentation-in-2025-a-step-by-step-guide-1hh1)
+- [A developers guide to v0.dev](https://dev.to/codeparrot/a-developers-guide-to-v0dev-4c4g)
+- [Game Design Constraints as a Driver for Educational Games](https://dev.to/valentin_briukhanov/game-design-constraints-as-a-driver-for-educational-games-2hn1)
+- [Perform CRUD on a database using Dapper](https://dev.to/fakestandard/dapper-perform-crud-on-a-database-using-dapper-2do3)
+- [My Experience with Cypress’s UI Coverage: Transforming Test Coverage](https://dev.to/cypress/my-experience-with-cypresss-ui-coverage-transforming-test-coverage-g4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
