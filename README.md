@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 React.js Hacks for Beginners in 2025 🚀](https://dev.to/joodi/15-reactjs-hacks-for-beginners-in-2025-1799)
-- [Svelte 5 on Bun 1.2: 始め方](https://dev.to/nabbisen/svelte-5-on-bun-12-shi-mefang-2c33)
-- [使用 Ollama + Ngrok 搭建本地 LLM，遠端存取 AI 模型教學](https://dev.to/letswrite/shi-yong-ollama-ngrok-da-jian-ben-di-llmyuan-duan-cun-qu-ai-mo-xing-jiao-xue-2jj)
-- [Email Verification with Sent Codes in Ruby on Rails without Devise](https://dev.to/pedroleo/email-verification-with-sent-codes-in-ruby-on-rails-without-devise-479a)
-- [Optimizing Performance and Cost on AWS: Strategies for Large-Scale Environments](https://dev.to/prakash_rao/optimizing-performance-and-cost-on-aws-strategies-for-large-scale-environments-20jj)
+- [How Ceiling Fan works?](https://dev.to/madgan95/how-ceiling-fan-works-3dgh)
+- [Join us for the next Frontend Challenge: February Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-february-edition-3070)
+- [Networking 101: Part 3](https://dev.to/himanshu_bhatt/networking-101-part-3-356h)
+- [MASTERING SQL FOR DATA ENGINEERING: ADVANCED QUERIES, OPTIMIZATION AND DATA MODELLING BEST PRATICES](https://dev.to/victorkithinji/mastering-sql-for-data-engineering-advanced-queries-optimization-and-data-modelling-best-pratices-3m14)
+- [Demystifying AI, ML, Deep Learning, and Neural Networks for Developers](https://dev.to/kumar_kusumitsharma_b190/demystifying-ai-ml-deep-learning-and-neural-networks-for-developers-3dcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
