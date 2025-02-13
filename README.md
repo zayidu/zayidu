@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://dev.to/chukwu3meka/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-1jf9)
-- [🚀 We Just Launched Stof – An Open-Source Project to Simplify Data Handling!](https://dev.to/amelia_wampler_e7aa93dab9/we-just-launched-stof-an-open-source-project-to-simplify-data-handling-449p)
-- [Code Smell 290 - Refused Bequest](https://dev.to/mcsee/code-smell-290-refused-bequest-3l3k)
-- [Asynchronous Programming in Django](https://dev.to/shayan_holakouee/asynchronous-programming-in-django-15f4)
-- [Reflexões ao usar o GitHub Copilot](https://dev.to/edersontec/reflexoes-ao-usar-o-github-copilot-1cc1)
+- [Crafting a Chrome Extension: TypeScript, Webpack, and Best Practices](https://dev.to/cendekia/crafting-a-chrome-extension-typescript-webpack-and-best-practices-3g9c)
+- [Salesforce: Connected App - &lpar; OAuth2.0 Debugging Tool ! =&rpar;](https://dev.to/dchahla/salesforce-connected-app-oauth2-debugging-tool--166n)
+- [O PHP como uma linguagem stateless](https://dev.to/joaovitorss/o-php-como-uma-linguagem-stateless-aec)
+- [💸Developer yang Membayar Hutang Teknis](https://dev.to/ferryops/developer-yang-membayar-hutang-teknis-47oa)
+- [Untitled](https://dev.to/__0f9d31e0ecf2/untitled-59pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
