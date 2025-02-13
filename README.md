@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why should we keep writing? Let&#39;s Discuss! 🤝](https://dev.to/omerberatsezer/why-should-we-keep-writing-lets-discuss-2nc)
-- [AI Agents on Avalanche: The Future of Decentralized Intelligence](https://dev.to/xavierop877/ai-agents-on-avalanche-the-future-of-decentralized-intelligence-1d9c)
-- [&quot;Mastering AI: Aligning Language Models with Human Values for a Better Future&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-ai-aligning-language-models-with-human-values-for-a-better-future-53a1)
-- [Agentic AI: Revolutionizing Next-Generation Software Development Teams](https://dev.to/alexander_uspenskiy_the_great/agentic-ai-revolutionizing-next-generation-software-development-teams-509p)
-- [Tooltips in Phoenix LiveView](https://dev.to/puretype/tooltips-in-phoenix-liveview-k8e)
+- [LLM Security: Mitigating Vulnerabilities, Prompt Injection, and Training Data Risks in AI Systems](https://dev.to/aragorn_talks/llm-security-mitigating-vulnerabilities-prompt-injection-and-training-data-risks-in-ai-systems-6fd)
+- [Memory Management in JavaScript: A Beginner-Friendly Guide](https://dev.to/rarai365/memory-management-in-javascript-a-beginner-friendly-guide-14ja)
+- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4cb5)
+- [Model Tuning: Optimizing Machine Learning Performance](https://dev.to/kapusto/model-tuning-optimizing-machine-learning-performance-1j3k)
+- [Prompt Engineering: The Art of Talking to AI](https://dev.to/rage/prompt-engineering-the-art-of-talking-to-ai-2gjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
