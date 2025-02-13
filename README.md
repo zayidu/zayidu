@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Mistral-Small-3 24B Locally](https://dev.to/nodeshiftcloud/how-to-install-mistral-small-3-24b-locally-54fk)
-- [Running deepseek locally, Ollama and langchain](https://dev.to/shreyvijayvargiya/running-deepseek-locally-ollama-and-langchain-142n)
-- [How to Write Clean Code: Refactoring and Best Practices](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-315h)
-- [🚀 Starting My DSA Journey: 1 Problem a Day Challenge! 💡🎯](https://dev.to/babadoo/starting-my-dsa-journey-1-problem-a-day-challenge-3h2m)
-- [When to Use a CMS Instead of a Framework](https://dev.to/wafa_bergaoui/when-to-use-a-cms-instead-of-a-framework-4ekb)
+- [Top 4 gRPC API Testing Tools You Need to Know](https://dev.to/apilover/top-4-grpc-api-testing-tools-you-need-to-know-5d1a)
+- [[Boost]](https://dev.to/shayan_holakouee/-3l83)
+- [SlimUUID: The Compact, Memory-Efficient Alternative to Standard UUIDs](https://dev.to/mitocondria/slimuuid-the-compact-memory-efficient-alternative-to-standard-uuids-2dak)
+- [Networking 101: Part 5](https://dev.to/himanshu_bhatt/networking-101-part-5-3dhc)
+- [Using STM32 to make a tracking car](https://dev.to/carolineee/using-stm32-to-make-a-tracking-car-16hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
