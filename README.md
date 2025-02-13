@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multicast &amp; Chill: Getting Started with RxJS - III](https://dev.to/lovestaco/multicast-chill-getting-started-with-rxjs-iii-4n63)
-- [10 Super Underrated Open-Source Tools You Don’t Want to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/10-super-underrated-open-source-tools-you-dont-want-to-miss-in-2025-26k1)
-- [How Web Development Languages Shape User Experience 🚀](https://dev.to/dct_technologyprivatelimited/how-web-development-languages-shape-user-experience-1fd)
-- [Using Clerk Authentication Webhooks with Next.js || Sync Clerk data to your Database](https://dev.to/mihir_bhadak/using-clerk-authentication-webhooks-with-nextjs-sync-clerk-data-to-your-database-2pni)
-- [Tricks for People Doing Web Scraping](https://dev.to/egidiuszostrowski/tricks-for-people-doing-web-scraping-2dd0)
+- [What is Contentbase?](https://dev.to/erikfiala/what-is-contentbase-42el)
+- [⚔️ Next.js vs. Django: ¿Cuándo usar cada tecnología en tus proyectos? 🚀](https://dev.to/alvaroapdev/nextjs-vs-django-cuando-usar-cada-tecnologia-en-tus-proyectos-3mc8)
+- [Difference Between Verified Mark Certificate &lpar;VMC&rpar; Vs Common Mark Certificate &lpar;CMC&rpar;](https://dev.to/certera_/difference-between-verified-mark-certificate-vmc-vs-common-mark-certificate-cmc-2am6)
+- [Tasmotizer: How to Flash a Sonoff S26R2 Power Switch with Custom Firmware](https://dev.to/admantium/tasmotizer-how-to-flash-a-sonoff-s26r2-power-switch-with-custom-firmware-99m)
+- [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
