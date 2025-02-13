@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Making These Node.js Security Mistakes?](https://dev.to/cyberwolves/are-you-making-these-nodejs-security-mistakes-hbn)
-- [How TBMQ Uses Redis for Reliable P2P MQTT Messaging](https://dev.to/dshvaika/how-tbmq-uses-redis-for-reliable-p2p-mqtt-messaging-1bgj)
-- [From Competitors to Partners – Our 7-Year Journey with DragonHack](https://dev.to/zerodays/from-competitors-to-partners-our-7-year-journey-with-dragonhack-46fl)
-- [Count Nodes](https://dev.to/mujahida_joynab_64c7407d8/count-nodes-mp9)
-- [JWT in Action: Secure Authentication &amp; Authorization in Go](https://dev.to/leapcell/jwt-in-action-secure-authentication-authorization-in-go-jde)
+- [How to Install &amp; Run VideoLLaMA3-7B Locally](https://dev.to/nodeshiftcloud/how-to-install-run-videollama3-7b-locally-24p1)
+- [🚀 Your Daily Crypto Job Digest For 13 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-february-42nl)
+- [🔐 Secure Azure Static Web Apps &lpar;SWA&rpar; with C# Azure Functions &amp; Authentication](https://dev.to/champcbg/secure-azure-static-web-apps-swa-with-c-azure-functions-authentication-2pm)
+- [Guia Prático: Primeiros Passos com C#](https://dev.to/unhacked/guia-pratico-primeiros-passos-com-c-4a3e)
+- [📰 QuEra wraps up $230m funding for quantum development](https://dev.to/d_thiranjaya_6d3ec4552111/quera-wraps-up-230m-funding-for-quantum-development-11np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
