@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pull request testing on Kubernetes: testing locally and on GitHub workflows](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-testing-locally-and-on-github-workflows-2pha)
-- [How Spring Boot Application Works Internally?](https://dev.to/jottyjohn/how-spring-boot-application-works-internally-4nf6)
-- [Self-Hosting AI Workflows on Mac: DeepSeek-R1 + Ollama + n8n powered by Docker](https://dev.to/cloudgeek7/self-hosting-ai-workflows-on-mac-deepseek-r1-ollama-n8n-powered-by-docker-4a9k)
-- [Essential AI readings on latest advances in 2025](https://dev.to/bobheadmaker/essential-ai-readings-on-latest-advances-in-2025-7nl)
-- [The Anonymous Visionary](https://dev.to/iamcymentho/the-anonymous-visionary-3dki)
+- [How to Install Mistral-Small-3 24B Locally](https://dev.to/nodeshiftcloud/how-to-install-mistral-small-3-24b-locally-54fk)
+- [Running deepseek locally, Ollama and langchain](https://dev.to/shreyvijayvargiya/running-deepseek-locally-ollama-and-langchain-142n)
+- [How to Write Clean Code: Refactoring and Best Practices](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-315h)
+- [🚀 Starting My DSA Journey: 1 Problem a Day Challenge! 💡🎯](https://dev.to/babadoo/starting-my-dsa-journey-1-problem-a-day-challenge-3h2m)
+- [When to Use a CMS Instead of a Framework](https://dev.to/wafa_bergaoui/when-to-use-a-cms-instead-of-a-framework-4ekb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
