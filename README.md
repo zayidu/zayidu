@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Send Requests from Stimulus Controllers](https://dev.to/railsdesigner/how-to-send-requests-from-stimulus-controllers-165f)
-- [How to Build and Deploy Full-Stack JavaScript Apps with NextJS, Tailwind, PostgreSQL, and Sevalla⚡👨‍💻](https://dev.to/madza/how-to-build-and-deploy-full-stack-javascript-apps-with-nextjs-tailwind-postgresql-and-3fkp)
-- [RTX 5090 Tested Against FLUX DEV, SD 3.5 Large, SD 3.5 Medium, SDXL, SD 1.5 with AMD 9950X CPU](https://dev.to/furkangozukara/rtx-5090-tested-against-flux-dev-sd-35-large-sd-35-medium-sdxl-sd-15-with-amd-9950x-cpu-3590)
-- [How to remove a file in Node.js?](https://dev.to/ramunarasinga-11/how-to-remove-a-file-in-nodejs-4blh)
-- [Implementing Multi-Factor Authentication Across Financial AWS Accounts](https://dev.to/ikoh_sylva/implementing-multi-factor-authentication-across-financial-aws-accounts-3bmm)
+- [The Salary Games: Why I Advocate for Pay Transparency in Tech](https://dev.to/samanthajeet/the-salary-games-why-i-advocate-for-pay-transparency-in-tech-2o82)
+- [OpenAI o3-mini Tested in LLM Chess](https://dev.to/maximsaplin/openai-o3-mini-tested-in-llm-chess-25c7)
+- [😱 You&#39;re Coding React Wrong! Fix It with These 15 Pro Hacks](https://dev.to/resource_bunk_1077cab07da/youre-coding-react-wrong-fix-it-with-these-15-pro-hacks-k17)
+- [The Future of Observability: Trends Shaping 2025](https://dev.to/leapcell/the-future-of-observability-trends-shaping-2025-om8)
+- [Why “Think Like an Attacker” is harmful FT: Threat Modeling?](https://dev.to/sivolko/why-think-like-an-attacker-is-harmful-ft-threat-modeling-5566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
