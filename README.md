@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fiberplane: Your Hono-native API Playground, powered by OpenAPI](https://dev.to/fiberplane/fiberplane-your-hono-native-api-playground-powered-by-openapi-59j3)
-- [Removal of bootstrap unused code in website](https://dev.to/paga_1403a6980c16afd0444f/removal-of-bootstrap-unused-code-in-website-4j28)
-- [STL Pair](https://dev.to/mujahida_joynab_64c7407d8/stl-pair-19ho)
-- [Guía Completa: Instalación y Configuración de NGINX en Ubuntu 24.04](https://dev.to/hopsersmerk/guia-completa-instalacion-y-configuracion-de-nginx-en-ubuntu-2404-3i9k)
-- [&quot;Unlocking Cross-Lingual Semantic Search: Insights &amp; Innovations Revealed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-cross-lingual-semantic-search-insights-innovations-revealed-57j6)
+- [My First Post](https://dev.to/flamboy/my-first-post-3f07)
+- [iptables vs. nftables vs. firewalld: A Comprehensive Comparison for Linux Firewalls](https://dev.to/chatgptnexus/2025021407-53-50-article-4695)
+- [&quot;Unlocking AI Potential: The Power of Thermodynamic Computing and Quantum Noise Control&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-potential-the-power-of-thermodynamic-computing-and-quantum-noise-control-2jc0)
+- [Starters Guide: End-to-End Guide to Building with LLMs on SageMaker](https://dev.to/brainaboze/starters-guide-end-to-end-guide-to-building-with-llms-on-sagemaker-kd6)
+- [DeepSeek iOS App poses major security risks](https://dev.to/daniellacatus/deepseek-ios-app-poses-major-security-risks-1gjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
