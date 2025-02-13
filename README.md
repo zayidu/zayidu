@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Community Pulse &lpar;February 13&rpar;](https://dev.to/future_ai/ai-community-pulse-february-13-4h62)
-- [How GitHub Copilot’s ROBIN Takes Debugging to the Next Level](https://dev.to/johnschibelli/how-github-copilots-robin-takes-debugging-to-the-next-level-36nh)
-- [Preparing for PCEP™ – My Journey into Python Certification](https://dev.to/cipherpodliq/preparing-for-pcep-my-journey-into-python-certification-274n)
-- [Installing A Linux Distribution Using WSL](https://dev.to/gokhanergentech/installing-a-linux-distribution-using-wsl-28oc)
-- [Exploring Alternatives to Google Apps: ChatGPT, Brave, Mozilla Thunderbird, and More!](https://dev.to/kumar_kusumitsharma_b190/exploring-alternatives-to-google-apps-chatgpt-brave-mozilla-thunderbird-and-more-46fe)
+- [How OAuth2 Differs from API Keys: Understanding Secure API Authentication](https://dev.to/igventurelli/how-oauth2-differs-from-api-keys-understanding-secure-api-authentication-170n)
+- [Focus management in React with Redux](https://dev.to/wouteralberts/focus-management-in-react-with-redux-2ei)
+- [Why GitBook switched from LaunchDarkly to Bucket](https://dev.to/bucketdotco/why-gitbook-switched-from-launchdarkly-to-bucket-a57)
+- [PostgreSql Tasks - Case 2](https://dev.to/guru_prasanna_01/postgresql-tasks-case-2-551o)
+- [Stack Practice in java](https://dev.to/vasanthvnr_31/stack-practice-in-java-1moj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
