@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a Chrome Extension: TypeScript, Webpack, and Best Practices](https://dev.to/cendekia/crafting-a-chrome-extension-typescript-webpack-and-best-practices-3g9c)
-- [Salesforce: Connected App - &lpar; OAuth2.0 Debugging Tool ! =&rpar;](https://dev.to/dchahla/salesforce-connected-app-oauth2-debugging-tool--166n)
-- [O PHP como uma linguagem stateless](https://dev.to/joaovitorss/o-php-como-uma-linguagem-stateless-aec)
-- [💸Developer yang Membayar Hutang Teknis](https://dev.to/ferryops/developer-yang-membayar-hutang-teknis-47oa)
-- [Untitled](https://dev.to/__0f9d31e0ecf2/untitled-59pa)
+- [Kaia Portal: 分散型金融の未来とエポック2への道](https://dev.to/izi_/kaia-portal-fen-san-xing-jin-rong-nowei-lai-toepotuku2henodao-4ic0)
+- [RandomResizedCrop in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-3-25b2)
+- [RandomResizedCrop in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-2-20c5)
+- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-2l56)
+- [10 JavaScript One-Liners That Make Developer Life Easier](https://dev.to/sovannaro/10-javascript-one-liners-that-make-developer-life-easier-3hem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
