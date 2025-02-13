@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How OAuth2 Differs from API Keys: Understanding Secure API Authentication](https://dev.to/igventurelli/how-oauth2-differs-from-api-keys-understanding-secure-api-authentication-170n)
-- [Focus management in React with Redux](https://dev.to/wouteralberts/focus-management-in-react-with-redux-2ei)
-- [Why GitBook switched from LaunchDarkly to Bucket](https://dev.to/bucketdotco/why-gitbook-switched-from-launchdarkly-to-bucket-a57)
-- [PostgreSql Tasks - Case 2](https://dev.to/guru_prasanna_01/postgresql-tasks-case-2-551o)
-- [Stack Practice in java](https://dev.to/vasanthvnr_31/stack-practice-in-java-1moj)
+- [How to Become a Data Scientist Without a Degree?](https://dev.to/tarunfulera1/how-to-become-a-data-scientist-without-a-degree-542o)
+- [[Boost]](https://dev.to/sauain/-3n8)
+- [Building Resilient APIs: A Comprehensive Guide to Throttling and Circuit Breakers with WSO2, Redis, and Kafka](https://dev.to/devaaai/building-resilient-apis-a-comprehensive-guide-to-throttling-and-circuit-breakers-with-wso2-redis-mga)
+- [Mastering the Strategy Pattern with a Car Example 🚗⚙️](https://dev.to/dhanasai_tholeti/mastering-the-strategy-pattern-with-a-car-example-39ko)
+- [Building a Profitable SaaS in 7 Days: How I made $1,680.37💵](https://dev.to/heyitslunarojas/building-a-profitable-saas-in-7-days-how-i-made-168037-1a7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
