@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Combining AI with Traditional Art: New Possibilities with Generative AI Artist Yahya Yuksel](https://dev.to/yahya_yuksel_7aa7977b8460/combining-ai-with-traditional-art-new-possibilities-with-generative-ai-artist-yahya-yuksel-218h)
+- [A Deep Dive into VLSI: The Backbone of Modern Electronics](https://dev.to/daviekim13/a-deep-dive-into-vlsi-the-backbone-of-modern-electronics-2lnd)
+- [I am developing an annotation-based performance measurement tool for use in Spring.](https://dev.to/sjw/i-am-developing-an-annotation-based-performance-measurement-tool-for-use-in-spring-36fd)
 - [Kaia Portal: 分散型金融の未来とエポック2への道](https://dev.to/izi_/kaia-portal-fen-san-xing-jin-rong-nowei-lai-toepotuku2henodao-4ic0)
 - [RandomResizedCrop in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-3-25b2)
-- [RandomResizedCrop in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-2-20c5)
-- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-2l56)
-- [10 JavaScript One-Liners That Make Developer Life Easier](https://dev.to/sovannaro/10-javascript-one-liners-that-make-developer-life-easier-3hem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
