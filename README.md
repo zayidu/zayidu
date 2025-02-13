@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn server actions in Nextjs](https://dev.to/khalidkhankakar/learn-this-the-server-actions-in-nextjs-237h)
-- [NextJs Server Actions](https://dev.to/khalidkhankakar/nextjs-server-actions-3oc9)
-- [Explorando o Uso de `Thread` no Kotlin](https://dev.to/comunidadedevspace/explorando-o-uso-de-thread-no-kotlin-glk)
-- [Exploring the Use of Thread in Kotlin](https://dev.to/comunidadedevspace/exploring-the-use-of-thread-in-kotlin-4oj7)
-- [Faster SELECT Queries: Key Tips for Efficient Database Reads](https://dev.to/dbvismarketing/faster-select-queries-key-tips-for-efficient-database-reads-17fg)
+- [Pull request testing on Kubernetes: testing locally and on GitHub workflows](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-testing-locally-and-on-github-workflows-2pha)
+- [How Spring Boot Application Works Internally?](https://dev.to/jottyjohn/how-spring-boot-application-works-internally-4nf6)
+- [Self-Hosting AI Workflows on Mac: DeepSeek-R1 + Ollama + n8n powered by Docker](https://dev.to/cloudgeek7/self-hosting-ai-workflows-on-mac-deepseek-r1-ollama-n8n-powered-by-docker-4a9k)
+- [Essential AI readings on latest advances in 2025](https://dev.to/bobheadmaker/essential-ai-readings-on-latest-advances-in-2025-7nl)
+- [The Anonymous Visionary](https://dev.to/iamcymentho/the-anonymous-visionary-3dki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
