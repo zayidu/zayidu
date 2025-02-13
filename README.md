@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Salary Games: Why I Advocate for Pay Transparency in Tech](https://dev.to/samanthajeet/the-salary-games-why-i-advocate-for-pay-transparency-in-tech-2o82)
-- [OpenAI o3-mini Tested in LLM Chess](https://dev.to/maximsaplin/openai-o3-mini-tested-in-llm-chess-25c7)
-- [😱 You&#39;re Coding React Wrong! Fix It with These 15 Pro Hacks](https://dev.to/resource_bunk_1077cab07da/youre-coding-react-wrong-fix-it-with-these-15-pro-hacks-k17)
-- [The Future of Observability: Trends Shaping 2025](https://dev.to/leapcell/the-future-of-observability-trends-shaping-2025-om8)
-- [Why “Think Like an Attacker” is harmful FT: Threat Modeling?](https://dev.to/sivolko/why-think-like-an-attacker-is-harmful-ft-threat-modeling-5566)
+- [Why should we keep writing? Let&#39;s Discuss! 🤝](https://dev.to/omerberatsezer/why-should-we-keep-writing-lets-discuss-2nc)
+- [AI Agents on Avalanche: The Future of Decentralized Intelligence](https://dev.to/xavierop877/ai-agents-on-avalanche-the-future-of-decentralized-intelligence-1d9c)
+- [&quot;Mastering AI: Aligning Language Models with Human Values for a Better Future&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-ai-aligning-language-models-with-human-values-for-a-better-future-53a1)
+- [Agentic AI: Revolutionizing Next-Generation Software Development Teams](https://dev.to/alexander_uspenskiy_the_great/agentic-ai-revolutionizing-next-generation-software-development-teams-509p)
+- [Tooltips in Phoenix LiveView](https://dev.to/puretype/tooltips-in-phoenix-liveview-k8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
