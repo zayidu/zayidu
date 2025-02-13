@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become a Data Scientist Without a Degree?](https://dev.to/tarunfulera1/how-to-become-a-data-scientist-without-a-degree-542o)
-- [[Boost]](https://dev.to/sauain/-3n8)
-- [Building Resilient APIs: A Comprehensive Guide to Throttling and Circuit Breakers with WSO2, Redis, and Kafka](https://dev.to/devaaai/building-resilient-apis-a-comprehensive-guide-to-throttling-and-circuit-breakers-with-wso2-redis-mga)
-- [Mastering the Strategy Pattern with a Car Example 🚗⚙️](https://dev.to/dhanasai_tholeti/mastering-the-strategy-pattern-with-a-car-example-39ko)
-- [Building a Profitable SaaS in 7 Days: How I made $1,680.37💵](https://dev.to/heyitslunarojas/building-a-profitable-saas-in-7-days-how-i-made-168037-1a7g)
+- [Improve your algorithmic thinking with my new article on Dev.to! Discover the Latin Square, a simple but useful algorithm for technical interviews. 🔥 Ready for the challenge?](https://dev.to/deotyma/improve-your-algorithmic-thinking-with-my-new-article-on-devto-discover-the-latin-square-a-jk5)
+- [🚀 Ashdeck is Live!](https://dev.to/ashdeck/ashdeck-is-live-2keg)
+- [People Are Getting Dumber, and AI Is Getting Smarter](https://dev.to/iwooky/people-are-getting-dumber-and-ai-is-getting-smarter-18bc)
+- [You should be this type of developer](https://dev.to/quave/you-should-be-this-type-of-developer-n2i)
+- [[Boost]](https://dev.to/osaron/-574b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
