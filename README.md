@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve your algorithmic thinking with my new article on Dev.to! Discover the Latin Square, a simple but useful algorithm for technical interviews. 🔥 Ready for the challenge?](https://dev.to/deotyma/improve-your-algorithmic-thinking-with-my-new-article-on-devto-discover-the-latin-square-a-jk5)
-- [🚀 Ashdeck is Live!](https://dev.to/ashdeck/ashdeck-is-live-2keg)
-- [People Are Getting Dumber, and AI Is Getting Smarter](https://dev.to/iwooky/people-are-getting-dumber-and-ai-is-getting-smarter-18bc)
-- [You should be this type of developer](https://dev.to/quave/you-should-be-this-type-of-developer-n2i)
-- [[Boost]](https://dev.to/osaron/-574b)
+- [How to Send Requests from Stimulus Controllers](https://dev.to/railsdesigner/how-to-send-requests-from-stimulus-controllers-165f)
+- [How to Build and Deploy Full-Stack JavaScript Apps with NextJS, Tailwind, PostgreSQL, and Sevalla⚡👨‍💻](https://dev.to/madza/how-to-build-and-deploy-full-stack-javascript-apps-with-nextjs-tailwind-postgresql-and-3fkp)
+- [RTX 5090 Tested Against FLUX DEV, SD 3.5 Large, SD 3.5 Medium, SDXL, SD 1.5 with AMD 9950X CPU](https://dev.to/furkangozukara/rtx-5090-tested-against-flux-dev-sd-35-large-sd-35-medium-sdxl-sd-15-with-amd-9950x-cpu-3590)
+- [How to remove a file in Node.js?](https://dev.to/ramunarasinga-11/how-to-remove-a-file-in-nodejs-4blh)
+- [Implementing Multi-Factor Authentication Across Financial AWS Accounts](https://dev.to/ikoh_sylva/implementing-multi-factor-authentication-across-financial-aws-accounts-3bmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
