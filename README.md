@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 gRPC API Testing Tools You Need to Know](https://dev.to/apilover/top-4-grpc-api-testing-tools-you-need-to-know-5d1a)
-- [[Boost]](https://dev.to/shayan_holakouee/-3l83)
-- [SlimUUID: The Compact, Memory-Efficient Alternative to Standard UUIDs](https://dev.to/mitocondria/slimuuid-the-compact-memory-efficient-alternative-to-standard-uuids-2dak)
-- [Networking 101: Part 5](https://dev.to/himanshu_bhatt/networking-101-part-5-3dhc)
-- [Using STM32 to make a tracking car](https://dev.to/carolineee/using-stm32-to-make-a-tracking-car-16hh)
+- [Are You Making These Node.js Security Mistakes?](https://dev.to/cyberwolves/are-you-making-these-nodejs-security-mistakes-hbn)
+- [How TBMQ Uses Redis for Reliable P2P MQTT Messaging](https://dev.to/dshvaika/how-tbmq-uses-redis-for-reliable-p2p-mqtt-messaging-1bgj)
+- [From Competitors to Partners – Our 7-Year Journey with DragonHack](https://dev.to/zerodays/from-competitors-to-partners-our-7-year-journey-with-dragonhack-46fl)
+- [Count Nodes](https://dev.to/mujahida_joynab_64c7407d8/count-nodes-mp9)
+- [JWT in Action: Secure Authentication &amp; Authorization in Go](https://dev.to/leapcell/jwt-in-action-secure-authentication-authorization-in-go-jde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
