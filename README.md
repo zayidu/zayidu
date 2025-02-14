@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro-Moments, Macro-Results: The Art of Time Gap Optimization](https://dev.to/wraith/micro-moments-macro-results-the-art-of-time-gap-optimization-17dc)
-- [OpenAI o1 Capabilities](https://dev.to/maksim_tarasov_c60917a469/openai-o1-capabilities-1pga)
-- [Es la Ballena China la mejor opción?](https://dev.to/hierro59/es-la-ballena-china-la-mejor-opcion-1j7i)
-- [🚀 Your Daily Crypto Job Digest For 14 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-february-4fb)
-- [10 Essential NPM Packages You Haven&#39;t Heard Of &lpar;But Should Be Using&rpar;](https://dev.to/genesis_technologies/10-essential-npm-packages-you-havent-heard-of-but-should-be-using-36f7)
+- [Event Handling &amp; Conditional Rendering in React](https://dev.to/johnschibelli/event-handling-conditional-rendering-in-react-2aee)
+- [FastAPI Book Project. My Stage 2 Task](https://dev.to/ameh_mathias/fastapi-book-project-my-stage-2-task-32b4)
+- [AI Community Pulse &lpar;February 14&rpar;](https://dev.to/future_ai/ai-community-pulse-february-14-58jh)
+- [RandomResizedCrop in PyTorch &lpar;6&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-6-2f94)
+- [LazyPromise: typed errors and cancelability for lazy people who don&#39;t want to learn a new API](https://dev.to/ivan7237d/lazypromise-typed-errors-and-cancelability-for-lazy-people-who-dont-want-to-learn-a-new-api-17a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
