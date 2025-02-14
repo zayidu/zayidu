@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Deployed a Full-Stack Application with &quot;NestJS&quot; with &quot;Angular&quot; on &quot;Supabase&quot; and &quot;Vercel&quot;](https://dev.to/endykaufman/how-i-deployed-a-full-stack-application-with-nestjs-with-angular-on-supabase-and-vercel-6nk)
-- [Building a Multi-Step Form with Laravel Volt, Folio, and Neon Postgres](https://dev.to/neon-postgres/building-a-multi-step-form-with-laravel-volt-folio-and-neon-postgres-5b4f)
-- [📊 Mastering Google Sheets for Data Analytics! 🚀](https://dev.to/shreyansh_19_kumar/mastering-google-sheets-for-data-analytics-33lm)
-- [20+ Trending JavaScript Resources for Every Developer.](https://dev.to/dev-resources/20-trending-javascript-resources-for-every-developer-14bg)
-- [Some good repos listed here, Open source🔥](https://dev.to/astrodevil/some-good-repos-listed-here-open-source-4fh)
+- [Why I’m Quitting Gaming to Focus on My Future in Tech](https://dev.to/rembursed/why-im-quitting-gaming-to-focus-on-my-future-in-computer-science-e2d)
+- [Creating an Azure Kubernetes Service lab environment with Bicep](https://dev.to/willvelida/creating-an-azure-kubernetes-service-lab-environment-with-bicep-46n)
+- [Optimize It or Crash: The Big Key Problem in Redis](https://dev.to/leapcell/optimize-it-or-crash-the-big-key-problem-in-redis-36n2)
+- [Why Tailwind CSS Sometimes Leaves You Scratching Your Head](https://dev.to/unkhaas/why-tailwind-css-sometimes-leaves-you-scratching-your-head-329d)
+- [Need an help with implementation of ZIO-GRPC](https://dev.to/balaji_d_bdb42cb7e198203e/need-an-help-with-implementation-of-zio-grpc-3hhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
