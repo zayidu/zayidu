@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Set SELinux flags](https://dev.to/kubenetic/set-selinux-flags-4g17)
-- [Inclusive Technology: Making Digital Spaces for Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/inclusive-technology-making-digital-spaces-for-everyone-2n6h)
-- [How to pass the OWASP MASVS verification by design](https://dev.to/owasp/how-to-pass-the-owasp-masvs-verification-by-design-2cf9)
-- [Create a Neovim plugin for a CLI tool](https://dev.to/praem90/create-a-neovim-plugin-for-a-cli-tool-37fm)
-- [Master React.js Development in 20 Days: Accelerate Your Career Quickly](https://dev.to/myogeshchavan97/master-reactjs-development-in-20-days-accelerate-your-career-quickly-359i)
+- [Why isn&#39;t my website indexed in Google? Common problems and errors](https://dev.to/flotiq/why-isnt-my-website-indexed-in-google-common-problems-and-errors-57i9)
+- [New Study Reveals Optimal Resource Allocation for AI Model Distillation](https://dev.to/mikeyoung44/new-study-reveals-optimal-resource-allocation-for-ai-model-distillation-4o06)
+- [I am unemployed, so I built a project.](https://dev.to/scythrine05/i-am-unemployed-so-i-built-a-project-5a2k)
+- [Use DeepSeek-R1 for Free: Here&#39;s Your Ultimate Guide!](https://dev.to/apilover/use-deepseek-r1-for-free-heres-your-ultimate-guide-1phe)
+- [AI Writing Mimicry Poses Growing Security Risk as Tech Becomes More Accessible](https://dev.to/mikeyoung44/ai-writing-mimicry-poses-growing-security-risk-as-tech-becomes-more-accessible-31ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
