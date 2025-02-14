@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Handling &amp; Conditional Rendering in React](https://dev.to/johnschibelli/event-handling-conditional-rendering-in-react-2aee)
-- [FastAPI Book Project. My Stage 2 Task](https://dev.to/ameh_mathias/fastapi-book-project-my-stage-2-task-32b4)
-- [AI Community Pulse &lpar;February 14&rpar;](https://dev.to/future_ai/ai-community-pulse-february-14-58jh)
-- [RandomResizedCrop in PyTorch &lpar;6&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-6-2f94)
-- [LazyPromise: typed errors and cancelability for lazy people who don&#39;t want to learn a new API](https://dev.to/ivan7237d/lazypromise-typed-errors-and-cancelability-for-lazy-people-who-dont-want-to-learn-a-new-api-17a5)
+- [Networking 101: Part 6](https://dev.to/himanshu_bhatt/networking-101-part-6-3mmk)
+- [How to Handle Multiple Switches in React Native](https://dev.to/amitkumar13/how-to-handle-multiple-switches-in-react-native-4el6)
+- [Why CI/CD is a Bottleneck and How AI Can Help ⚙️](https://dev.to/microtica/why-cicd-is-a-bottleneck-and-how-ai-can-help-3pb4)
+- [Navigating the Complex Terrain of Sustainable Funding for Open Source](https://dev.to/zhangwei42/navigating-the-complex-terrain-of-sustainable-funding-for-open-source-lp3)
+- [Navigating Open Source Project Sponsorship: A Guide for Success](https://dev.to/bobcars/navigating-open-source-project-sponsorship-a-guide-for-success-2gfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
