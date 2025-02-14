@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying and Tagging ECR Container Images in AWS CodePipeline](https://dev.to/stevensmiley/deploying-and-tagging-ecr-container-images-in-aws-codepipeline-44dl)
-- [VPN &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/vpn-bite-size-article-44b0)
-- [Cómo usar correctamente los headings en HTML](https://dev.to/angel_rojas_6904bae237a0d/como-usar-correctamente-los-headings-en-html-1jmf)
-- [Ensuring Data Consistency with the Transactional Outbox Pattern on AWS](https://dev.to/ohanhaliuk/ensuring-data-consistency-with-the-transactional-outbox-pattern-on-aws-27fi)
-- [How to Create a Simple Operating System &lpar;Kernel Only&rpar; with C++](https://dev.to/marcosplusplus/how-to-create-a-simple-operating-system-kernel-only-with-c-523o)
+- [Understanding AI, Machine Learning, and Deep Learning: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/understanding-ai-machine-learning-and-deep-learning-a-comprehensive-guide-1j0)
+- [Try out Debtfree.com...!!](https://dev.to/kelvincode1234/try-out-debtfreecom-30kf)
+- [Pipes and Filter Pattern](https://dev.to/said_olano/pipes-and-filter-pattern-5f57)
+- [How I Built a Simple Shell in C – A Beginner&#39;s Guide to System Programming &lpar;1/3&rpar;](https://dev.to/ertugrulmutlu/how-i-built-a-simple-shell-in-c-a-beginners-guide-to-system-programming-13-238e)
+- [Cloud Load Balancer Pattern](https://dev.to/said_olano/cloud-load-balancer-pattern-4l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
