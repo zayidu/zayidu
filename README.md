@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-28lf)
-- [When to Debounce vs Throttle: A Developer’s Guide to Efficient Event Handling](https://dev.to/web_dev-usman/when-to-debounce-vs-throttle-a-developers-guide-to-efficient-event-handling-k4d)
-- [Liskov Substitution Principle in React: Building Reliable Component Hierarchies](https://dev.to/creowistech/liskov-substitution-principle-in-react-building-reliable-component-hierarchies-5847)
-- [How note.com 🔖 Implements ⏳ Just-in-Time &lpar;JIT&rpar; Database Access Control 🗝️ with Bytebase](https://dev.to/bytebase/how-notecom-implements-just-in-time-jit-database-access-control-with-bytebase-55nk)
-- [Moderated vs Unmoderated Usability Testing: Which is Better?](https://dev.to/lollypopdesign/moderated-vs-unmoderated-usability-testing-which-is-better-1p2g)
+- [The Role of Automation in E-commerce Financial Management](https://dev.to/astutemarketing/the-role-of-automation-in-e-commerce-financial-management-aip)
+- [Android Lock Screen Widgets: How Weather Widgets Are Becoming Essential in 2025](https://dev.to/adambrooks1231/android-lock-screen-widgets-how-weather-widgets-are-becoming-essential-in-2025-eml)
+- [Mastering Data Labeling: Strategies for Fine-Tuning LLMs in Your Industry](https://dev.to/jetthoughts/mastering-data-labeling-strategies-for-fine-tuning-llms-in-your-industry-2l39)
+- [15 Must-Have Chrome Extensions for Web Developers in 2025](https://dev.to/favtutor/15-must-have-chrome-extensions-for-web-developers-in-2025-88i)
+- [Automatic Test Generation: Enhancing Software Quality and Speed](https://dev.to/keploy/automatic-test-generation-enhancing-software-quality-and-speed-1fhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
