@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why isn&#39;t my website indexed in Google? Common problems and errors](https://dev.to/flotiq/why-isnt-my-website-indexed-in-google-common-problems-and-errors-57i9)
-- [New Study Reveals Optimal Resource Allocation for AI Model Distillation](https://dev.to/mikeyoung44/new-study-reveals-optimal-resource-allocation-for-ai-model-distillation-4o06)
-- [I am unemployed, so I built a project.](https://dev.to/scythrine05/i-am-unemployed-so-i-built-a-project-5a2k)
-- [Use DeepSeek-R1 for Free: Here&#39;s Your Ultimate Guide!](https://dev.to/apilover/use-deepseek-r1-for-free-heres-your-ultimate-guide-1phe)
-- [AI Writing Mimicry Poses Growing Security Risk as Tech Becomes More Accessible](https://dev.to/mikeyoung44/ai-writing-mimicry-poses-growing-security-risk-as-tech-becomes-more-accessible-31ba)
+- [Keep It Simple: Focus on Problems, Not Features 🚀](https://dev.to/elvissautet/keep-it-simple-focus-on-problems-not-features-5fo7)
+- [External FSCSS](https://dev.to/fscss-ttr/external-fscss-17l7)
+- [💳 Advantages of Using a Crypto Card vs. a Traditional Bank Card](https://dev.to/cryptosandy/advantages-of-using-a-crypto-card-vs-a-traditional-bank-card-4enc)
+- [Dynamic Programming](https://dev.to/fdiazaguirre/dynamic-programming-2hai)
+- [Python File System Guide: 10 Essential Operations with Code Examples [2024]](https://dev.to/aaravjoshi/python-file-system-guide-10-essential-operations-with-code-examples-2024-4ea0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
