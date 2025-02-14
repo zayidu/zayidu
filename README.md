@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💖Glam Up My Markup: Love Language Discovery](https://dev.to/kelvincode1234/glam-up-my-markup-love-language-discovery-4bg2)
-- [Product Owners, Aspire to be Product Managers](https://dev.to/edensoftlabs/product-owners-aspire-to-be-product-managers-25no)
-- [Google Cloud AI/ML Advantages: Unlocking the Future of AI](https://dev.to/rohan_jee_085655230/google-cloud-aiml-advantages-unlocking-the-future-of-ai-1bp3)
-- [Architecting a Large-Scale, Global Multiuser Game Platform &lpar;1-5 Million Users, 500K+ Concurrent Players&rpar;](https://dev.to/nsomara/architecting-a-large-scale-global-multiuser-game-platform-1-5-million-users-500k-concurrent-288a)
-- [Turn Entire YouTube Playlists to Markdown Formatted and Refined Text Books &lpar;in any language&rpar;](https://dev.to/ebriz/turn-entire-youtube-playlists-to-markdown-formatted-and-refined-text-books-in-any-language-3m86)
+- [Deploying and Tagging ECR Container Images in AWS CodePipeline](https://dev.to/stevensmiley/deploying-and-tagging-ecr-container-images-in-aws-codepipeline-44dl)
+- [VPN &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/vpn-bite-size-article-44b0)
+- [Cómo usar correctamente los headings en HTML](https://dev.to/angel_rojas_6904bae237a0d/como-usar-correctamente-los-headings-en-html-1jmf)
+- [Ensuring Data Consistency with the Transactional Outbox Pattern on AWS](https://dev.to/ohanhaliuk/ensuring-data-consistency-with-the-transactional-outbox-pattern-on-aws-27fi)
+- [How to Create a Simple Operating System &lpar;Kernel Only&rpar; with C++](https://dev.to/marcosplusplus/how-to-create-a-simple-operating-system-kernel-only-with-c-523o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
