@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking 101: Part 6](https://dev.to/himanshu_bhatt/networking-101-part-6-3mmk)
-- [How to Handle Multiple Switches in React Native](https://dev.to/amitkumar13/how-to-handle-multiple-switches-in-react-native-4el6)
-- [Why CI/CD is a Bottleneck and How AI Can Help ⚙️](https://dev.to/microtica/why-cicd-is-a-bottleneck-and-how-ai-can-help-3pb4)
-- [Navigating the Complex Terrain of Sustainable Funding for Open Source](https://dev.to/zhangwei42/navigating-the-complex-terrain-of-sustainable-funding-for-open-source-lp3)
-- [Navigating Open Source Project Sponsorship: A Guide for Success](https://dev.to/bobcars/navigating-open-source-project-sponsorship-a-guide-for-success-2gfj)
+- [Why Bootstrap 5 Is the Best Way to Go](https://dev.to/bkthemes/why-bootstrap-5-is-the-best-way-to-go-25n8)
+- [El lenguaje de programación Gleam](https://dev.to/baltasarq/el-lenguaje-de-programacion-gleam-248i)
+- [Groundhog Day Surprise: When Frost Meets Flora](https://dev.to/auramuch/groundhog-day-surprise-when-frost-meets-flora-40eo)
+- [Unleash the Power of FastAPI: A Step by Step Guide to Building Lightning Fast APIs](https://dev.to/leriaetnasta/unleash-the-power-of-fastapi-a-step-by-step-guide-to-building-lightning-fast-apis-3e8h)
+- [Tsonnet #10 - There and back again… concatenating strings](https://dev.to/bitmaybewise/tsonnet-10-there-and-back-again-concatenating-strings-11f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
