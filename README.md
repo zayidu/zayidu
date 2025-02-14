@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Post](https://dev.to/flamboy/my-first-post-3f07)
-- [iptables vs. nftables vs. firewalld: A Comprehensive Comparison for Linux Firewalls](https://dev.to/chatgptnexus/2025021407-53-50-article-4695)
-- [&quot;Unlocking AI Potential: The Power of Thermodynamic Computing and Quantum Noise Control&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-potential-the-power-of-thermodynamic-computing-and-quantum-noise-control-2jc0)
-- [Starters Guide: End-to-End Guide to Building with LLMs on SageMaker](https://dev.to/brainaboze/starters-guide-end-to-end-guide-to-building-with-llms-on-sagemaker-kd6)
-- [DeepSeek iOS App poses major security risks](https://dev.to/daniellacatus/deepseek-ios-app-poses-major-security-risks-1gjg)
+- [Understanding Differential Privacy in Data Analysis](https://dev.to/kartikmehta8/understanding-differential-privacy-in-data-analysis-2jj5)
+- [Building a True SpongeBob Case Converter](https://dev.to/caseconverter/building-a-true-spongebob-case-converter-fk7)
+- [Smart Contract Verification on Etherscan via API: A Step-by-Step Guide?](https://dev.to/blockexperts/smart-contract-verification-on-etherscan-via-api-a-step-by-step-guide-1ibm)
+- [[Boost]](https://dev.to/collhar/-297d)
+- [Hello everyone! New here! Happy to be here and hope to know more about coding! I am a new Coder. I have been trying to get in it for years but struggled due to attention span &lpar;mostly lack of ideas for what to make&rpar; I am hoping to get into Python!](https://dev.to/firelight7118/hello-everyone-new-here-happy-to-be-here-and-hope-to-know-more-about-coding-i-am-a-new-coder-1llh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
