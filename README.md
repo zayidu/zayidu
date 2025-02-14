@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Quitting Gaming to Focus on My Future in Tech](https://dev.to/rembursed/why-im-quitting-gaming-to-focus-on-my-future-in-computer-science-e2d)
-- [Creating an Azure Kubernetes Service lab environment with Bicep](https://dev.to/willvelida/creating-an-azure-kubernetes-service-lab-environment-with-bicep-46n)
-- [Optimize It or Crash: The Big Key Problem in Redis](https://dev.to/leapcell/optimize-it-or-crash-the-big-key-problem-in-redis-36n2)
-- [Why Tailwind CSS Sometimes Leaves You Scratching Your Head](https://dev.to/unkhaas/why-tailwind-css-sometimes-leaves-you-scratching-your-head-329d)
-- [Need an help with implementation of ZIO-GRPC](https://dev.to/balaji_d_bdb42cb7e198203e/need-an-help-with-implementation-of-zio-grpc-3hhi)
+- [💖Glam Up My Markup: Love Language Discovery](https://dev.to/kelvincode1234/glam-up-my-markup-love-language-discovery-4bg2)
+- [Product Owners, Aspire to be Product Managers](https://dev.to/edensoftlabs/product-owners-aspire-to-be-product-managers-25no)
+- [Google Cloud AI/ML Advantages: Unlocking the Future of AI](https://dev.to/rohan_jee_085655230/google-cloud-aiml-advantages-unlocking-the-future-of-ai-1bp3)
+- [Architecting a Large-Scale, Global Multiuser Game Platform &lpar;1-5 Million Users, 500K+ Concurrent Players&rpar;](https://dev.to/nsomara/architecting-a-large-scale-global-multiuser-game-platform-1-5-million-users-500k-concurrent-288a)
+- [Turn Entire YouTube Playlists to Markdown Formatted and Refined Text Books &lpar;in any language&rpar;](https://dev.to/ebriz/turn-entire-youtube-playlists-to-markdown-formatted-and-refined-text-books-in-any-language-3m86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
