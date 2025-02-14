@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Heartbeat Animation with CSS](https://dev.to/digitalminds/how-to-create-a-heartbeat-animation-with-css-jl8)
-- [DeepResearchAgent - Your Shortcut for Faster Research](https://dev.to/ag2ai/deepresearchagent-your-shortcut-for-faster-research-5ca5)
-- [How To Get Backlink Directly From Google Official Website with JavaScript📌](https://dev.to/heyitslunarojas/how-to-get-backlink-directly-from-google-official-website-with-javascript-2bb5)
-- [NVIDIA RTX 4090 vs. RTX 5090: Deep Dive for AI Training](https://dev.to/thekbbohara/nvidia-rtx-4090-vs-rtx-5090-deep-dive-for-ai-training-3gjn)
-- [What is a Blockchain?](https://dev.to/rafiatou_okere_16004811b3/what-is-a-blockchain-5f6e)
+- [Micro-Moments, Macro-Results: The Art of Time Gap Optimization](https://dev.to/wraith/micro-moments-macro-results-the-art-of-time-gap-optimization-17dc)
+- [OpenAI o1 Capabilities](https://dev.to/maksim_tarasov_c60917a469/openai-o1-capabilities-1pga)
+- [Es la Ballena China la mejor opción?](https://dev.to/hierro59/es-la-ballena-china-la-mejor-opcion-1j7i)
+- [🚀 Your Daily Crypto Job Digest For 14 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-february-4fb)
+- [10 Essential NPM Packages You Haven&#39;t Heard Of &lpar;But Should Be Using&rpar;](https://dev.to/genesis_technologies/10-essential-npm-packages-you-havent-heard-of-but-should-be-using-36f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
