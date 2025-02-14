@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Automation in E-commerce Financial Management](https://dev.to/astutemarketing/the-role-of-automation-in-e-commerce-financial-management-aip)
-- [Android Lock Screen Widgets: How Weather Widgets Are Becoming Essential in 2025](https://dev.to/adambrooks1231/android-lock-screen-widgets-how-weather-widgets-are-becoming-essential-in-2025-eml)
-- [Mastering Data Labeling: Strategies for Fine-Tuning LLMs in Your Industry](https://dev.to/jetthoughts/mastering-data-labeling-strategies-for-fine-tuning-llms-in-your-industry-2l39)
-- [15 Must-Have Chrome Extensions for Web Developers in 2025](https://dev.to/favtutor/15-must-have-chrome-extensions-for-web-developers-in-2025-88i)
-- [Automatic Test Generation: Enhancing Software Quality and Speed](https://dev.to/keploy/automatic-test-generation-enhancing-software-quality-and-speed-1fhn)
+- [Functional Programming Explained: A Deep Dive](https://dev.to/leapcell/functional-programming-explained-a-deep-dive-knh)
+- [How I Built Open Source Fastest URL Shortener Ever With Rust](https://dev.to/abdibrokhim/how-i-built-open-source-fastest-url-shortener-ever-with-rust-4ggm)
+- [Setup ComfyUI from Scratch to Run Flux diffusion model on RunPod – Step by Step Tutorial!](https://dev.to/mobisoftinfotech/setup-comfyui-from-scratch-to-run-flux-diffusion-model-on-runpod-step-by-step-tutorial-2kdg)
+- [RandomResizedCrop in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-5-54hj)
+- [The Ultimate Guide to Server Components, Server Actions, Route Handlers, and Suspense in Next.js App Router](https://dev.to/waffensultan/the-ultimate-guide-to-server-components-server-actions-route-handlers-and-suspense-in-nextjs-46ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
