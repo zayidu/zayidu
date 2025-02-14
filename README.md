@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Bootstrap 5 Is the Best Way to Go](https://dev.to/bkthemes/why-bootstrap-5-is-the-best-way-to-go-25n8)
-- [El lenguaje de programación Gleam](https://dev.to/baltasarq/el-lenguaje-de-programacion-gleam-248i)
-- [Groundhog Day Surprise: When Frost Meets Flora](https://dev.to/auramuch/groundhog-day-surprise-when-frost-meets-flora-40eo)
-- [Unleash the Power of FastAPI: A Step by Step Guide to Building Lightning Fast APIs](https://dev.to/leriaetnasta/unleash-the-power-of-fastapi-a-step-by-step-guide-to-building-lightning-fast-apis-3e8h)
-- [Tsonnet #10 - There and back again… concatenating strings](https://dev.to/bitmaybewise/tsonnet-10-there-and-back-again-concatenating-strings-11f3)
+- [High-Confidence Testing with Mutation Analysis and Diverse Test Data](https://dev.to/copyleftdev/high-confidence-testing-with-mutation-analysis-and-diverse-test-data-27lm)
+- [AI-Powered Startups: How Small Companies are Beating Giants](https://dev.to/routeclouds/ai-powered-startups-how-small-companies-are-beating-giants-2641)
+- [Orthogonal and Orthonormal Vectors in Linear Algebra](https://dev.to/shlok2740/orthogonal-and-orthonormal-vectors-in-linear-algebra-50cn)
+- [Upskilling to Rust from Python](https://dev.to/rustds/upskilling-to-rust-from-python-mok)
+- [My useful library for typed RPC calls in TypeScript](https://dev.to/sergeyshpadyrev/my-useful-library-for-typed-rpc-calls-in-typescript-181j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
