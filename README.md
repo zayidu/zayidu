@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev-C++ 4.9.9.2 版的問題](https://dev.to/codemee/dev-c-4992-ban-de-wen-ti-nem)
+- [How to Implement Secure User Authentication with Passport.js](https://dev.to/rowsanali/how-to-implement-secure-user-authentication-with-passportjs-401j)
+- [Svelte Icon Library - Svelicon 🎨](https://dev.to/developerbishwas/svelte-icon-library-svelicon-1bda)
+- [Managing Docker Images](https://dev.to/godofgeeks/managing-docker-images-5fdl)
 - [Functional Programming Explained: A Deep Dive](https://dev.to/leapcell/functional-programming-explained-a-deep-dive-knh)
-- [How I Built Open Source Fastest URL Shortener Ever With Rust](https://dev.to/abdibrokhim/how-i-built-open-source-fastest-url-shortener-ever-with-rust-4ggm)
-- [Setup ComfyUI from Scratch to Run Flux diffusion model on RunPod – Step by Step Tutorial!](https://dev.to/mobisoftinfotech/setup-comfyui-from-scratch-to-run-flux-diffusion-model-on-runpod-step-by-step-tutorial-2kdg)
-- [RandomResizedCrop in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-5-54hj)
-- [The Ultimate Guide to Server Components, Server Actions, Route Handlers, and Suspense in Next.js App Router](https://dev.to/waffensultan/the-ultimate-guide-to-server-components-server-actions-route-handlers-and-suspense-in-nextjs-46ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
