@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Confidence Testing with Mutation Analysis and Diverse Test Data](https://dev.to/copyleftdev/high-confidence-testing-with-mutation-analysis-and-diverse-test-data-27lm)
-- [AI-Powered Startups: How Small Companies are Beating Giants](https://dev.to/routeclouds/ai-powered-startups-how-small-companies-are-beating-giants-2641)
-- [Orthogonal and Orthonormal Vectors in Linear Algebra](https://dev.to/shlok2740/orthogonal-and-orthonormal-vectors-in-linear-algebra-50cn)
-- [Upskilling to Rust from Python](https://dev.to/rustds/upskilling-to-rust-from-python-mok)
-- [My useful library for typed RPC calls in TypeScript](https://dev.to/sergeyshpadyrev/my-useful-library-for-typed-rpc-calls-in-typescript-181j)
+- [The Benefits of ChatGPT 4.5](https://dev.to/maksim_tarasov_c60917a469/the-benefits-of-chatgpt-45-1j76)
+- [Angular in 2024: 7 High-Impact Features That Will Supercharge Your Architecture](https://dev.to/nurrehman/angular-in-2024-7-high-impact-features-that-will-supercharge-your-architecture-4cap)
+- [Understanding Entra Connect Sync Architecture: A Deep Dive - Part 1](https://dev.to/neontiger12/understanding-entra-connect-sync-architecture-a-deep-dive-part-1-3k3p)
+- [The future of manual testing in the age of AI](https://dev.to/balakumar/the-future-of-manual-testing-in-the-age-of-ai-10cm)
+- [A new Cloud Storage opensource project named Cyclone cloud https://github.com/SUBOdhar/cyclone-cloud](https://dev.to/subodh_aryal_8e1d1d8f9492/a-new-cloud-storage-opensource-project-named-cyclone-cloud-234m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
