@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev-C++ 4.9.9.2 版的問題](https://dev.to/codemee/dev-c-4992-ban-de-wen-ti-nem)
-- [How to Implement Secure User Authentication with Passport.js](https://dev.to/rowsanali/how-to-implement-secure-user-authentication-with-passportjs-401j)
-- [Svelte Icon Library - Svelicon 🎨](https://dev.to/developerbishwas/svelte-icon-library-svelicon-1bda)
-- [Managing Docker Images](https://dev.to/godofgeeks/managing-docker-images-5fdl)
-- [Functional Programming Explained: A Deep Dive](https://dev.to/leapcell/functional-programming-explained-a-deep-dive-knh)
+- [Set SELinux flags](https://dev.to/kubenetic/set-selinux-flags-4g17)
+- [Inclusive Technology: Making Digital Spaces for Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/inclusive-technology-making-digital-spaces-for-everyone-2n6h)
+- [How to pass the OWASP MASVS verification by design](https://dev.to/owasp/how-to-pass-the-owasp-masvs-verification-by-design-2cf9)
+- [Create a Neovim plugin for a CLI tool](https://dev.to/praem90/create-a-neovim-plugin-for-a-cli-tool-37fm)
+- [Master React.js Development in 20 Days: Accelerate Your Career Quickly](https://dev.to/myogeshchavan97/master-reactjs-development-in-20-days-accelerate-your-career-quickly-359i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
