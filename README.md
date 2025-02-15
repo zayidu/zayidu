@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Valentine&#39;s](https://dev.to/preetha_vaishnavi_2b82358/valentines-2cj1)
-- [Build a high-performance Brainf**k JIT and AOT compiler on top of C# type system](https://dev.to/hez2010/build-a-high-performance-brainfk-jit-and-aot-compiler-on-top-of-c-type-system-42i7)
-- [To Write Is To BE Free](https://dev.to/thejoernal/to-write-is-to-be-free-22kp)
-- [Laravel Business Logic: A Cleaner, Smarter Approach](https://dev.to/raheelshan/laravel-business-logic-a-cleaner-smarter-approach-4793)
-- [Hello World](https://dev.to/preetha_vaishnavi_2b82358/hello-world-45nn)
+- [🚀Optimizing Large-Scale React Applications for Enterprise Use](https://dev.to/hamzakhan/optimizing-large-scale-react-applications-for-enterprise-use-2f8i)
+- [Announcing Kreuzberg v2.0: A Lightweight, Modern Python Text Extraction library](https://dev.to/nhirschfeld/announcing-kreuzberg-v20-a-lightweight-modern-python-text-extraction-library-4ca4)
+- [Must-Know 25+ ML Resources on Trending.](https://dev.to/dev-resources/must-know-25-ml-resources-on-trending-3m3f)
+- [Optimizing PHP Applications: Why Separate Read and Write Models Matter](https://dev.to/gul/optimizing-php-applications-why-separate-read-and-write-models-matter-767)
+- [Automate Email Alerts with Azure Logic Apps for New OneDrive Files](https://dev.to/unique-tea/automate-email-alerts-with-azure-logic-apps-for-new-onedrive-files-39ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
