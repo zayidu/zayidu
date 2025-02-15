@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish a NodeJS application online with Eyevinn Open Source Cloud](https://dev.to/oscdev/publish-a-nodejs-application-online-with-eyevinn-open-source-cloud-58c0)
-- [Linux 101: Part 4 - Mastering Package Management: A Guide to Managing Packages Across Different Linux Distributions](https://dev.to/himanshu_bhatt/linux-101-part-4-mastering-package-management-a-guide-to-managing-packages-across-different-3eb2)
-- [Open Source Projects Needing Contributors](https://dev.to/makalin/open-source-projects-needing-contributors-3imi)
-- [The Time Factor – Learning at Your Own Pace](https://dev.to/mustapha909/-jo)
-- [common pitfalls and solutions for mysqldump/xtrabackup-based SSTs](https://dev.to/shiviyer/common-pitfalls-and-solutions-for-mysqldumpxtrabackup-based-ssts-2j74)
+- [How I reduced $10000 Monthly AWS Glue Bill to $400 using Airflow](https://dev.to/skysingh04/how-i-reduced-10000-monthly-aws-glue-bill-to-400-using-airflow-147k)
+- [New to Python &amp; Eager to Learn – Any Beginner-Friendly Tasks?](https://dev.to/eric_bawakuno_0eeda369069/new-to-python-eager-to-learn-any-beginner-friendly-tasks-20o2)
+- [Building a Stunning Animated Image Carousel in React Native](https://dev.to/amitkumar13/building-a-stunning-animated-image-carousel-in-react-native-1bm)
+- [Show folder name instead of index.tsx in VS Code](https://dev.to/syed_ammar/show-folder-name-instead-of-indextsx-in-vs-code-3i0h)
+- [Stop the Code Review Bottleneck: Ship Faster, Ship Smarter](https://dev.to/pratesh_johnmathew_d25d4/stop-the-code-review-bottleneck-ship-faster-ship-smarter-36g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
