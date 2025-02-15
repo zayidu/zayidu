@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I reduced $10000 Monthly AWS Glue Bill to $400 using Airflow](https://dev.to/skysingh04/how-i-reduced-10000-monthly-aws-glue-bill-to-400-using-airflow-147k)
-- [New to Python &amp; Eager to Learn – Any Beginner-Friendly Tasks?](https://dev.to/eric_bawakuno_0eeda369069/new-to-python-eager-to-learn-any-beginner-friendly-tasks-20o2)
-- [Building a Stunning Animated Image Carousel in React Native](https://dev.to/amitkumar13/building-a-stunning-animated-image-carousel-in-react-native-1bm)
-- [Show folder name instead of index.tsx in VS Code](https://dev.to/syed_ammar/show-folder-name-instead-of-indextsx-in-vs-code-3i0h)
-- [Stop the Code Review Bottleneck: Ship Faster, Ship Smarter](https://dev.to/pratesh_johnmathew_d25d4/stop-the-code-review-bottleneck-ship-faster-ship-smarter-36g7)
+- [Understanding useEffect vs. Class Component Lifecycle Methods in React Native](https://dev.to/amitkumar13/understanding-useeffect-vs-class-component-lifecycle-methods-in-react-native-25o4)
+- [Building a CRUD API with ASP.NET Core Web API and PostgreSQL](https://dev.to/olymahmud/building-a-crud-api-with-aspnet-core-web-api-and-postgresql-p5f)
+- [How GenAI has &lpar;and hasn&#39;t&rpar; changed the way Allianz, ThoughtWorks and Outbrain lead data and AI teams](https://dev.to/mkdev/how-genai-has-and-hasnt-changed-the-way-allianz-thoughtworks-and-outbrain-lead-data-and-ai-teams-3h4c)
+- [The Hidden Costs of AI Agents: What No One&#39;s Telling You](https://dev.to/hamza4600/the-hidden-costs-of-ai-agents-what-no-ones-telling-you-51d4)
+- [Quando não usar microserviços[PT-BR]](https://dev.to/andredarcie/quando-nao-usar-microservicospt-br-4him)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
