@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing ChatGPT’s Hidden Edit Button – A Reminder That Testing Matters!](https://dev.to/priya01/fixing-chatgpts-hidden-edit-button-a-reminder-that-testing-matters-1me4)
-- [[Boost]](https://dev.to/djones/-364k)
-- [Building a Spring Boot CRUD API with Swagger Documentation](https://dev.to/devcorner/building-a-spring-boot-crud-api-with-swagger-documentation-387g)
-- [Exploring Modern Java: Key Language Features from Java 9 to 22 in a single program](https://dev.to/myexamcloud/exploring-modern-java-key-language-features-from-java-9-to-22-in-a-single-program-3623)
-- [HOSTING BLOGS AND PORTFOLIOS ON AWS S3](https://dev.to/tolulope_victor_c276e3ee3/hosting-blogs-and-portfolios-on-aws-s3-ojk)
+- [Publish a NodeJS application online with Eyevinn Open Source Cloud](https://dev.to/oscdev/publish-a-nodejs-application-online-with-eyevinn-open-source-cloud-58c0)
+- [Linux 101: Part 4 - Mastering Package Management: A Guide to Managing Packages Across Different Linux Distributions](https://dev.to/himanshu_bhatt/linux-101-part-4-mastering-package-management-a-guide-to-managing-packages-across-different-3eb2)
+- [Open Source Projects Needing Contributors](https://dev.to/makalin/open-source-projects-needing-contributors-3imi)
+- [The Time Factor – Learning at Your Own Pace](https://dev.to/mustapha909/-jo)
+- [common pitfalls and solutions for mysqldump/xtrabackup-based SSTs](https://dev.to/shiviyer/common-pitfalls-and-solutions-for-mysqldumpxtrabackup-based-ssts-2j74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
