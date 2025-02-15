@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding useEffect vs. Class Component Lifecycle Methods in React Native](https://dev.to/amitkumar13/understanding-useeffect-vs-class-component-lifecycle-methods-in-react-native-25o4)
-- [Building a CRUD API with ASP.NET Core Web API and PostgreSQL](https://dev.to/olymahmud/building-a-crud-api-with-aspnet-core-web-api-and-postgresql-p5f)
-- [How GenAI has &lpar;and hasn&#39;t&rpar; changed the way Allianz, ThoughtWorks and Outbrain lead data and AI teams](https://dev.to/mkdev/how-genai-has-and-hasnt-changed-the-way-allianz-thoughtworks-and-outbrain-lead-data-and-ai-teams-3h4c)
-- [The Hidden Costs of AI Agents: What No One&#39;s Telling You](https://dev.to/hamza4600/the-hidden-costs-of-ai-agents-what-no-ones-telling-you-51d4)
-- [Quando não usar microserviços[PT-BR]](https://dev.to/andredarcie/quando-nao-usar-microservicospt-br-4him)
+- [This is so good](https://dev.to/mince/this-is-so-good-1e9k)
+- [🚀 Efficient API Calls with Axios: Cancelling Unwanted Requests 🚀](https://dev.to/dzungnt98/efficient-api-calls-with-axios-cancelling-unwanted-requests-4h20)
+- [Facade design pattern. What is it and why is it useful?](https://dev.to/kwnaidoo/facade-design-pattern-what-is-it-and-why-is-it-useful-32gn)
+- [Building a User Registration System in .NET Core &amp; C#](https://dev.to/clover_luo/building-a-user-registration-system-in-net-core-c-ogg)
+- [The Evolution of AWS Documentation: Progress, Challenges, and Future Plans](https://dev.to/hrudu/the-evolution-of-aws-documentation-progress-challenges-and-future-plans-412f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
