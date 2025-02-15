@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pexl Keys - How to install smtp server on windows server 2022 ?](https://dev.to/pexlkeys/pexl-keys-how-to-install-smtp-server-on-windows-server-2022-i0d)
-- [As diferentes técnicas de navegação e renderização na web](https://dev.to/guiopen/as-diferentes-tecnicas-de-navegacao-e-renderizacao-na-web-4haa)
-- [Introduction to Neural Networks](https://dev.to/prezaei/introduction-to-neural-networks-39lj)
-- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-4lfc)
-- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-25d6)
+- [Sq1](https://dev.to/gchar/sq1-1le9)
+- [🚀 Build a Simple To-Do App with JavaScript – A Step-by-Step Guide](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd)
+- [How i got 500 stars on my first Open Source project](https://dev.to/dorianb/how-i-got-500-stars-on-my-first-open-source-project-3inb)
+- [How I build 4 websites a week—without sacrificing quality or client happiness. Building websites efficiently is one thing—but making sure every client has a stress-free, smooth experience is what truly matters.](https://dev.to/per-starke-642/how-i-build-4-websites-a-week-without-sacrificing-quality-or-client-happiness-building-websites-88p)
+- [How to fix these old style on your button](https://dev.to/tromo_sm_ce16da2afa22d285/how-to-fix-these-old-style-on-your-button-gj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
