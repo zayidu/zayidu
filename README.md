@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [normal page for university events using LWS](https://dev.to/yuvrajmunjal9/normal-page-for-university-events-using-lws-228f)
-- [Measurement Protocol API: Unlocking Data-Rich Insights for Enhanced E-commerce and Marketing](https://dev.to/seosiri/measurement-protocol-api-unlocking-data-rich-insights-for-enhanced-e-commerce-and-marketing-3822)
-- [Concurrency vs Parallelism | Golang | Which is better and Why?](https://dev.to/gargkunal/concurrency-vs-parallelism-golang-which-is-better-and-why-m5j)
-- [[Boost]](https://dev.to/ddebajyati/-1fki)
-- [What is the Future of generative AI technology in India?](https://dev.to/ezeelive/what-is-the-future-of-generative-ai-technology-in-india-46ff)
+- [Linux 101: Part 1 – Exploring OS Concepts, Virtualization, and the Linux Kernel](https://dev.to/himanshu_bhatt/linux-101-part-1-exploring-os-concepts-virtualization-and-the-linux-kernel-50m8)
+- [Observability in Microservices Architecture](https://dev.to/vamsi_krishna_b5ebb444e2b/microservices-design-patterns-explained-simply-3lf9)
+- [Mastering Concurrency, Multithreading, and Synchronization in Java – A Step-by-Step Guide](https://dev.to/devcorner/mastering-concurrency-multithreading-and-synchronization-in-java-a-step-by-step-guide-30li)
+- [Markdown Cheatsheet Guide](https://dev.to/devcorner/markdown-cheatsheet-guide-256n)
+- [AWS S3 - Multipart file upload - Surprise Bills](https://dev.to/kasir-barati/aws-s3-multipart-file-upload-surprise-bills-4059)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
