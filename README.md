@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Acho que podemos deixar o mobile first em 2024](https://dev.to/lixeletto/acho-que-ja-podemos-deixar-o-mobile-first-em-2024-3m61)
-- [React na Prática: Melhorando Formulários com Hooks.](https://dev.to/alvarogfn/react-na-pratica-melhorando-formularios-com-hooks-4e2d)
-- [Taking Kotlin Builders to the Next Level: A Type-Safe DSL Approach](https://dev.to/lucasfugisawa/taking-kotlin-builders-to-the-next-level-a-type-safe-dsl-approach-3g8a)
-- [Set Up DeepSeek on Huawei Cloud with Docker and Open WebUI](https://dev.to/mohamednasser018/set-up-deepseek-on-huawei-cloud-with-docker-and-open-webui-1p37)
-- [Restroom Redoubt](https://dev.to/rmion/restroom-redoubt-160c)
+- [Quantum Era: A Developer’s Plug-and-Play Roadmap](https://dev.to/snappytuts/quantum-era-a-developers-plug-and-play-roadmap-2abo)
+- [10 Secret Git Commands That Will Save You 5+ Hours Every Week](https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn)
+- [How to migrate a Rails app from Bootstrap to Bulma](https://dev.to/carmemias/how-to-migrate-a-rails-app-from-bootstrap-to-bulma-b02)
+- [Building a Scalable, Cost-Effective Live GPS Tracking System for 300+ Trucks: Lessons from a Logistics Tech Journey](https://dev.to/jacksonkasi/building-a-scalable-cost-effective-live-gps-tracking-system-for-300-trucks-lessons-from-a-2phg)
+- [Configuring An Azure Blob Storage Account: A thorough guide.](https://dev.to/essy/configuring-an-azure-blob-storage-account-a-thorough-guide-16b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
