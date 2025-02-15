@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [sometimes ya just gotta tell the browser who’s boss and force a page refresh! 🦾](https://dev.to/wraith/sometimes-ya-just-gotta-tell-the-browser-whos-boss-and-force-a-page-refresh-53pa)
-- [Angular --### **Important Angular Interview Topics &lpar;With Explanation, Why &amp; Where to Use in Projects&rpar;**](https://dev.to/anjali_gurjar_dff81513867/angular-important-angular-interview-topics-with-explanation-why-where-to-use-in-ohi)
-- [Web Development: What is that?](https://dev.to/kevv_ly/web-development-what-is-that-39je)
-- [From Fractured to Forever: The Phases of Love 💔🤍💓❤️💞](https://dev.to/divya4879/from-fractured-to-forever-the-phases-of-love-3904)
-- [Networking 101: Part 7](https://dev.to/himanshu_bhatt/networking-101-part-7-1lg8)
+- [normal page for university events using LWS](https://dev.to/yuvrajmunjal9/normal-page-for-university-events-using-lws-228f)
+- [Measurement Protocol API: Unlocking Data-Rich Insights for Enhanced E-commerce and Marketing](https://dev.to/seosiri/measurement-protocol-api-unlocking-data-rich-insights-for-enhanced-e-commerce-and-marketing-3822)
+- [Concurrency vs Parallelism | Golang | Which is better and Why?](https://dev.to/gargkunal/concurrency-vs-parallelism-golang-which-is-better-and-why-m5j)
+- [[Boost]](https://dev.to/ddebajyati/-1fki)
+- [What is the Future of generative AI technology in India?](https://dev.to/ezeelive/what-is-the-future-of-generative-ai-technology-in-india-46ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
