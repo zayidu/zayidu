@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Optimizing Large-Scale React Applications for Enterprise Use](https://dev.to/hamzakhan/optimizing-large-scale-react-applications-for-enterprise-use-2f8i)
-- [Announcing Kreuzberg v2.0: A Lightweight, Modern Python Text Extraction library](https://dev.to/nhirschfeld/announcing-kreuzberg-v20-a-lightweight-modern-python-text-extraction-library-4ca4)
-- [Must-Know 25+ ML Resources on Trending.](https://dev.to/dev-resources/must-know-25-ml-resources-on-trending-3m3f)
-- [Optimizing PHP Applications: Why Separate Read and Write Models Matter](https://dev.to/gul/optimizing-php-applications-why-separate-read-and-write-models-matter-767)
-- [Automate Email Alerts with Azure Logic Apps for New OneDrive Files](https://dev.to/unique-tea/automate-email-alerts-with-azure-logic-apps-for-new-onedrive-files-39ij)
+- [Newly Curated 40+ Developer Fixes || Try it now :&rpar;](https://dev.to/0x2e_tech/newly-curated-40-developer-fixes-try-it-now--14fe)
+- [The Boring Flutter Architecture](https://dev.to/emad_eibo/the-most-appealing-scalable-and-well-structured-architecture-for-flutter-apps-14k8)
+- [2025&#39;s Trending Tech Stacks for Full‑Stack Development](https://dev.to/resource_bunk_1077cab07da/2025s-trending-tech-stacks-for-full-stack-development-442e)
+- [Top 5 AI Tools in 2025](https://dev.to/vishnusatheesh/top-5-ai-tools-in-2025-i8n)
+- [TMP: GClient Learner Platform – Phase 1: Building a Dynamic Navbar with Next.js, TypeScript, and Tailwind CSS &lpar;Update 3&rpar;](https://dev.to/calebmakafui/tmp-gclient-learner-platform-phase-1-building-a-dynamic-navbar-with-nextjs-typescript-and-2mde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
