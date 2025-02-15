@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is so good](https://dev.to/mince/this-is-so-good-1e9k)
-- [🚀 Efficient API Calls with Axios: Cancelling Unwanted Requests 🚀](https://dev.to/dzungnt98/efficient-api-calls-with-axios-cancelling-unwanted-requests-4h20)
-- [Facade design pattern. What is it and why is it useful?](https://dev.to/kwnaidoo/facade-design-pattern-what-is-it-and-why-is-it-useful-32gn)
-- [Building a User Registration System in .NET Core &amp; C#](https://dev.to/clover_luo/building-a-user-registration-system-in-net-core-c-ogg)
-- [The Evolution of AWS Documentation: Progress, Challenges, and Future Plans](https://dev.to/hrudu/the-evolution-of-aws-documentation-progress-challenges-and-future-plans-412f)
+- [Acho que podemos deixar o mobile first em 2024](https://dev.to/lixeletto/acho-que-ja-podemos-deixar-o-mobile-first-em-2024-3m61)
+- [React na Prática: Melhorando Formulários com Hooks.](https://dev.to/alvarogfn/react-na-pratica-melhorando-formularios-com-hooks-4e2d)
+- [Taking Kotlin Builders to the Next Level: A Type-Safe DSL Approach](https://dev.to/lucasfugisawa/taking-kotlin-builders-to-the-next-level-a-type-safe-dsl-approach-3g8a)
+- [Set Up DeepSeek on Huawei Cloud with Docker and Open WebUI](https://dev.to/mohamednasser018/set-up-deepseek-on-huawei-cloud-with-docker-and-open-webui-1p37)
+- [Restroom Redoubt](https://dev.to/rmion/restroom-redoubt-160c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
