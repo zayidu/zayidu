@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 101: Part 1 – Exploring OS Concepts, Virtualization, and the Linux Kernel](https://dev.to/himanshu_bhatt/linux-101-part-1-exploring-os-concepts-virtualization-and-the-linux-kernel-50m8)
-- [Observability in Microservices Architecture](https://dev.to/vamsi_krishna_b5ebb444e2b/microservices-design-patterns-explained-simply-3lf9)
-- [Mastering Concurrency, Multithreading, and Synchronization in Java – A Step-by-Step Guide](https://dev.to/devcorner/mastering-concurrency-multithreading-and-synchronization-in-java-a-step-by-step-guide-30li)
-- [Markdown Cheatsheet Guide](https://dev.to/devcorner/markdown-cheatsheet-guide-256n)
-- [AWS S3 - Multipart file upload - Surprise Bills](https://dev.to/kasir-barati/aws-s3-multipart-file-upload-surprise-bills-4059)
+- [Linux 101: Part 3 - Decoding the Linux Prompt Structure &amp; A Beginner&#39;s Guide to Essential Commands](https://dev.to/himanshu_bhatt/linux-101-part-3-decoding-the-linux-prompt-structure-a-beginners-guide-to-essential-commands-27ia)
+- [hover text only with html](https://dev.to/tromo_sm_ce16da2afa22d285/hover-text-only-with-html-1664)
+- [Linux 101: Part 2 - Understanding the Linux File System](https://dev.to/himanshu_bhatt/linux-101-part-2-understanding-the-linux-file-system-216i)
+- [Linux 101: Part 1 – Exploring OS Concepts, Virtualization, and the Linux Kernel](https://dev.to/himanshu_bhatt/linux-101-part-1-exploring-os-concepts-virtualization-and-the-linux-kernel-46gi)
+- [How to Create an Access Key for Secure Cloud Storage](https://dev.to/khushi_jain_/how-to-create-an-access-key-for-secure-cloud-storage-1c37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
