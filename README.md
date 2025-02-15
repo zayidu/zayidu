@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 J’ai créé ma première extension Google Chrome en moins de 10 minutes &lpar;et sans connaissances&rpar; ! 🚀](https://dev.to/developpeuz/jai-cree-ma-premiere-extension-google-chrome-2p48)
-- [Beninger set up for Video game development&lpar;Unreal Engine or others&rpar;](https://dev.to/gagecantrelle/beninger-set-up-for-video-game-developmentunreal-engine-or-others-4o83)
-- [Proxy reverse vs API Gateway vs Load Balancer](https://dev.to/wzorroman/proxy-reverse-vs-api-gateway-vs-load-balancer-5g3h)
-- [How to Check for Uncommitted or Unpushed Changes in Git](https://dev.to/msnmongare/how-to-check-for-uncommitted-or-unpushed-changes-in-git-11oh)
-- [The Synthetic Data Paradox: Are We Surrendering to Automatic Thinking?](https://dev.to/michaelstiven_rojasriva/the-synthetic-data-paradox-are-we-surrendering-to-automatic-thinking-10cg)
+- [Pexl Keys - How to install smtp server on windows server 2022 ?](https://dev.to/pexlkeys/pexl-keys-how-to-install-smtp-server-on-windows-server-2022-i0d)
+- [As diferentes técnicas de navegação e renderização na web](https://dev.to/guiopen/as-diferentes-tecnicas-de-navegacao-e-renderizacao-na-web-4haa)
+- [Introduction to Neural Networks](https://dev.to/prezaei/introduction-to-neural-networks-39lj)
+- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-4lfc)
+- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-25d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
