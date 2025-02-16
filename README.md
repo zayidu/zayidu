@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Profitable Digital Art Business: A Comprehensive Developer Roadmap](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-digital-art-business-a-comprehensive-developer-roadmap-5cg2)
-- [Abstraction vs Encapsulation](https://dev.to/nozibul_islam_113b1d5334f/abstraction-vs-encapsulation-11ib)
-- [2025 The Year of Agentic AI: Why Multimodal AI Agents Will Dominate Enterprises and Startups](https://dev.to/ishmam_jahan_4269b6f13ba5/2025-the-year-of-agentic-ai-why-multimodal-ai-agents-will-dominate-enterprises-and-startups-4pa0)
-- [Code Optimization Strategies for Game Development 🔥](https://dev.to/codewithshahan/code-optimization-strategies-for-game-development-2n0e)
-- [doNothing&lpar;&rpar;method example Spring Boot](https://dev.to/realnamehidden1_61/donothingmethod-example-spring-boot-2i25)
+- [AI-Enhanced Heart Rate Monitoring Cuts Through Exercise Motion Noise](https://dev.to/mikeyoung44/ai-enhanced-heart-rate-monitoring-cuts-through-exercise-motion-noise-52ge)
+- [Encoder-Free AI System Matches Traditional 3D Vision Models While Using Less Computing Power](https://dev.to/mikeyoung44/encoder-free-ai-system-matches-traditional-3d-vision-models-while-using-less-computing-power-4e7f)
+- [Boost Your Resume with Free, Verified Certifications](https://dev.to/cloudstudynetwork/boost-your-resume-with-free-verified-certifications-372a)
+- [Some useful Linux command-line launch arguments](https://dev.to/svhl/useful-linux-command-line-launch-arguments-29ec)
+- [Mastering Pagination: Keeping Data Manageable and Users Happy 😄](https://dev.to/smitinfo/mastering-pagination-keeping-data-manageable-and-users-happy-129d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
