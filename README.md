@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Enhanced Heart Rate Monitoring Cuts Through Exercise Motion Noise](https://dev.to/mikeyoung44/ai-enhanced-heart-rate-monitoring-cuts-through-exercise-motion-noise-52ge)
-- [Encoder-Free AI System Matches Traditional 3D Vision Models While Using Less Computing Power](https://dev.to/mikeyoung44/encoder-free-ai-system-matches-traditional-3d-vision-models-while-using-less-computing-power-4e7f)
-- [Boost Your Resume with Free, Verified Certifications](https://dev.to/cloudstudynetwork/boost-your-resume-with-free-verified-certifications-372a)
-- [Some useful Linux command-line launch arguments](https://dev.to/svhl/useful-linux-command-line-launch-arguments-29ec)
-- [Mastering Pagination: Keeping Data Manageable and Users Happy 😄](https://dev.to/smitinfo/mastering-pagination-keeping-data-manageable-and-users-happy-129d)
+- [How a New Graduate with No Industry Experience Passed the Databricks Certified Data Engineer Associate Exam in 3 Weeks](https://dev.to/_d2a1ea24c442526a9777/how-a-new-graduate-with-no-industry-experience-passed-the-databricks-certified-data-engineer-j8)
+- [Love Language](https://dev.to/pinky057/love-language-2el1)
+- [Resilient by Design: Mastering Error Handling in Microservices Architecture](https://dev.to/naveens16/resilient-by-design-mastering-error-handling-in-microservices-architecture-2i09)
+- [Implementing TOTP Two-Factor Authentication in .NET Web API](https://dev.to/imzihad21/implementing-totp-two-factor-authentication-in-net-web-api-d7n)
+- [ServBay 1.9.0 Released: Ollama Support](https://dev.to/servbay/servbay-190-released-ollama-support-4g3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
