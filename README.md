@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Tailwind CSS with the Clamp Function for Responsive Designs](https://dev.to/rowsanali/how-to-use-tailwind-css-with-the-clamp-function-for-responsive-designs-2pn)
-- [Các bước vẽ Collabarotion Diagram](https://dev.to/hcmute_project_988df1c63c/cac-buoc-ve-collabarotion-diagram-30fo)
-- [The Power of Promises: Separating UI and Business Logic in React](https://dev.to/anton_akhatov/the-power-of-promises-separating-ui-and-business-logic-in-react-55h0)
-- [🚀 Ensuring Unique Slugs in Next.js 15 with Prisma &amp; Slugify](https://dev.to/saiful7778/ensuring-unique-slugs-in-nextjs-15-with-prisma-slugify-4agc)
-- [Python User Group Dhaka: Our Journey Begins – Event Recap](https://dev.to/tamalchowdhury/python-user-group-dhaka-our-journey-begins-event-recap-2he7)
+- [How Cloud-Based APIs Are Making GPT and Other AI Models More Accessible for Businesses and Developers Worldwide](https://dev.to/marufhossain/how-cloud-based-apis-are-making-gpt-and-other-ai-models-more-accessible-for-businesses-and-g0p)
+- [Building GetFitter: The Ultimate Workout App with Jetpack Compose](https://dev.to/himagaur2708/building-getfitter-the-ultimate-workout-app-with-jetpack-compose-57n0)
+- [Unlock the Power of Neural Networks – From Scratch!](https://dev.to/devinsights_blog_ed29ec86/unlock-the-power-of-neural-networks-from-scratch-3off)
+- [🔥Best alternative to HTMX](https://dev.to/hmpljs/best-alternative-to-htmx-35j7)
+- [Here&#39;s a step-by-step guide to create a Linux Virtual Machine on Azure, SSH into it, and install NGINX:](https://dev.to/chifum/heres-a-step-by-step-guide-to-create-a-linux-virtual-machine-on-azure-ssh-into-it-and-install-5a0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
