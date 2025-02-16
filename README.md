@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future of Social Networks: The Power of the Linkspreed Agency Partnership](https://dev.to/web4/unlocking-the-future-of-social-networks-the-power-of-the-linkspreed-agency-partnership-3ag8)
-- [Fabric &amp; Databricks Interoperability &lpar;2&rpar;: Configuring Hub Storage](https://dev.to/_d2a1ea24c442526a9777/fabric-databricks-interoperability-2-configuring-hub-storage-4l85)
-- [5 bước cơ bản để phân tích và tối ưu câu lệnh SQL](https://dev.to/sangtrandev00/5-buoc-co-ban-de-phan-tich-va-toi-uu-cau-lenh-sql-m6d)
-- [Fabric &amp; Databricks Interoperability &lpar;1&rpar;: Purpose of Hub Storage for Table Sharing](https://dev.to/_d2a1ea24c442526a9777/fabric-databricks-interoperability-1-purpose-of-hub-storage-for-table-sharing-30pl)
-- [rps](https://dev.to/maheswaripinneti/rps-3g7d)
+- [How to Use Any AI for Free, Online, and Without Registration](https://dev.to/angel_rojas_6904bae237a0d/how-to-use-any-ai-for-free-online-and-without-registration-p2g)
+- [Success Pop up Modal](https://dev.to/preetha_vaishnavi_2b82358/success-pop-up-modal-hg5)
+- [Deepseek-R1: El Modelo Revolucionario que Eleva los Estándares de los LLM de Código Abierto](https://dev.to/angel_rojas_6904bae237a0d/deepseek-r1-el-modelo-revolucionario-que-eleva-los-estandares-de-los-llm-de-codigo-abierto-42cc)
+- [Modal](https://dev.to/preetha_vaishnavi_2b82358/modal-3d96)
+- [Fabric &amp; Databricks Interoperability &lpar;3&rpar;: Using Fabric Tables in Databricks for Viewing, Analyzing, and Editing](https://dev.to/_d2a1ea24c442526a9777/fabric-databricks-interoperability-3-using-fabric-tables-in-databricks-for-viewing-analyzing-39o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
