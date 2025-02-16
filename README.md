@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a New Graduate with No Industry Experience Passed the Databricks Certified Data Engineer Associate Exam in 3 Weeks](https://dev.to/_d2a1ea24c442526a9777/how-a-new-graduate-with-no-industry-experience-passed-the-databricks-certified-data-engineer-j8)
-- [Love Language](https://dev.to/pinky057/love-language-2el1)
-- [Resilient by Design: Mastering Error Handling in Microservices Architecture](https://dev.to/naveens16/resilient-by-design-mastering-error-handling-in-microservices-architecture-2i09)
-- [Implementing TOTP Two-Factor Authentication in .NET Web API](https://dev.to/imzihad21/implementing-totp-two-factor-authentication-in-net-web-api-d7n)
-- [ServBay 1.9.0 Released: Ollama Support](https://dev.to/servbay/servbay-190-released-ollama-support-4g3o)
+- [Introduction to Ansible: A Beginner&#39;s Guide](https://dev.to/onlyfave/introduction-to-ansible-a-beginners-guide-1p70)
+- [Official Goodbye: The End of an Era for Create React App](https://dev.to/this-is-learning/official-goodbye-the-end-of-an-era-for-create-react-app-2a2i)
+- [How to Create Fully Styled Forms in Tailwind CSS &lpar;Including Validation&rpar;](https://dev.to/rowsanali/how-to-create-fully-styled-forms-in-tailwind-css-including-validation-15ee)
+- [My take on the Agentic Object Detection](https://dev.to/mayank_laddha_21ef3e061ff/my-take-on-the-agentic-object-detection-4612)
+- [Correct by Construction: Building Software Right the First Time](https://dev.to/copyleftdev/correct-by-construction-building-software-right-the-first-time-2hho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
