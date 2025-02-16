@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GIT haqida ma&#39;lumot](https://dev.to/sunnat_qayumov/git-8a)
-- [Building a URL Shortener in Go](https://dev.to/luthfisauqi17/building-a-url-shortener-in-go-592d)
-- [Getting Started with Linux: Key Lessons from the Linux Foundation](https://dev.to/madhushan/getting-started-with-linux-key-lessons-from-the-linux-foundation-1g62)
-- [From a Curious Student to Meeting Satya Nadella: My Journey with the Azure Developer Community](https://dev.to/vivek0712/from-a-curious-student-to-meeting-satya-nadella-my-journey-with-the-azure-developer-community-39g3)
-- [Formation of Existing AWS Secrets Manager Secrets Across Regions Using Replication and AWS CLI](https://dev.to/aws-builders/formation-of-existing-aws-secrets-manager-secrets-across-regions-using-replication-and-aws-cli-2hno)
+- [Simple Swiper.js Example](https://dev.to/preetha_vaishnavi_2b82358/simple-swiperjs-example-24j2)
+- [Preparing for Senior PHP Symfony Developer role at Clubee](https://dev.to/gurachek/preparing-for-senior-php-symfony-developer-role-at-clubee-2can)
+- [From Social Media Feeds to Self-Sovereignty: A Beginner’s Journey from Web2 to Web3](https://dev.to/garima_97/from-social-media-feeds-to-self-sovereignty-a-beginners-journey-from-web2-to-web3-a8c)
+- [Linux User Management Basics](https://dev.to/madhushan/linux-user-management-basics-me0)
+- [Essential Technologies for Software Engineers Beyond Core Development](https://dev.to/kalana250/essential-technologies-for-software-engineers-beyond-core-development-1mig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
