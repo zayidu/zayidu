@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Custom Aliases in Vite for Cleaner Imports](https://dev.to/gyantocode/how-to-create-custom-aliases-in-vite-for-cleaner-imports-20pk)
-- [TS1237: The return type of a parameter decorator function must be either &#39;void&#39; or &#39;any&#39;](https://dev.to/rivkaavraham/ts1237-the-return-type-of-a-parameter-decorator-function-must-be-either-void-or-any-3h6n)
-- [Building Web Apps as a Non-Technical Founder: A No-Nonsense Guide](https://dev.to/masterp/building-web-apps-as-a-non-technical-founder-a-no-nonsense-guide-2pkp)
-- [Diferença entre SPA e SSR](https://dev.to/stefanyrepetcki/diferenca-entre-spa-e-ssr-1j65)
-- [What is DeepSeek-R1?: Simple guide in 5 minutes](https://dev.to/samrudhi09/what-is-deepseek-r1-simple-guide-in-5-minutes-1o0p)
+- [Pioneering Web Aesthetics: Honoring Black History Month 2025](https://dev.to/govindvyas/pioneering-web-aesthetics-honoring-black-history-month-2025-3lap)
+- [GaussianBlur in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-2-1bj2)
+- [Optimizing Video Delivery with CDN and FFmpeg: Best Practices](https://dev.to/rabindratamang/optimizing-video-delivery-with-cdn-and-ffmpeg-best-practices-6ck)
+- [GaussianBlur in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-1-3ndn)
+- [Stacked PRs for new devs](https://dev.to/sumitsaurabh927/stacked-prs-for-new-devs-43dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
