@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending Mobile App Development Frameworks on 2025](https://dev.to/resource_bunk_1077cab07da/trending-mobile-app-development-frameworks-on-2025-3i5g)
-- [Meet Checkmate.so — The Open-Source Tool to Keep Your Servers in Check!](https://dev.to/satwikloka/meet-checkmateso-the-open-source-tool-to-keep-your-servers-in-check-37cp)
-- [Newly Launched 30+ Github Repositories for Your Next Project.](https://dev.to/gittech/newly-launched-20-github-repositories-for-your-next-project-4ah5)
-- [126/365 | ¥10M Job Challenge - Why remote work?](https://dev.to/kameken100/126365-y10m-job-challenge-why-remote-work-37dn)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-171p)
+- [Darc Athletics: Revolutionizing Vogue, Exercise, as well as Functionality](https://dev.to/seo_worker_7c30fe1726aaed/darc-athletics-revolutionizing-vogue-exercise-as-well-as-functionality-3563)
+- [Supporting the Backbone of Innovation: Open Source Developer Support Programs](https://dev.to/jennythomas498/supporting-the-backbone-of-innovation-open-source-developer-support-programs-1l2b)
+- [Open Source Funding for Scientific Research: A New Era of Collaboration](https://dev.to/zhangwei42/open-source-funding-for-scientific-research-a-new-era-of-collaboration-5e4a)
+- [Open Source Funding for New Developers: Opportunities and Pathways](https://dev.to/rachellovestowrite/open-source-funding-for-new-developers-opportunities-and-pathways-45om)
+- [AWS Cloud Path Week 6 - Getting Started with AWS CDK](https://dev.to/aws-builders/aws-cloud-path-week-6-getting-started-with-aws-cdk-1171)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
