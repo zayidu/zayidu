@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sq1](https://dev.to/gchar/sq1-1le9)
-- [🚀 Build a Simple To-Do App with JavaScript – A Step-by-Step Guide](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd)
-- [How i got 500 stars on my first Open Source project](https://dev.to/dorianb/how-i-got-500-stars-on-my-first-open-source-project-3inb)
-- [How I build 4 websites a week—without sacrificing quality or client happiness. Building websites efficiently is one thing—but making sure every client has a stress-free, smooth experience is what truly matters.](https://dev.to/per-starke-642/how-i-build-4-websites-a-week-without-sacrificing-quality-or-client-happiness-building-websites-88p)
-- [How to fix these old style on your button](https://dev.to/tromo_sm_ce16da2afa22d285/how-to-fix-these-old-style-on-your-button-gj2)
+- [What is complete binary tree](https://dev.to/mujahida_joynab_64c7407d8/what-is-complete-binary-tree-43bg)
+- [Reusable UI Blocks for Your Vue 3 Projects](https://dev.to/codetonero/reusable-ui-blocks-for-your-vue-3-projects-1183)
+- [Untitled](https://dev.to/dani_ilyas_7789d6c02ab138/untitled-2bip)
+- [DATA ANALYSIS AND DASHBOARDING IN EXCEL](https://dev.to/gedionsang/data-analysis-and-dashboarding-in-excel-1p02)
+- [&quot;KQL Showdown: distinct vs project&quot;](https://dev.to/sivolko/kql-showdown-distinct-vs-project-4h6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
