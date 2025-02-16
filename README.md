@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pioneering Web Aesthetics: Honoring Black History Month 2025](https://dev.to/govindvyas/pioneering-web-aesthetics-honoring-black-history-month-2025-3lap)
-- [GaussianBlur in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-2-1bj2)
-- [Optimizing Video Delivery with CDN and FFmpeg: Best Practices](https://dev.to/rabindratamang/optimizing-video-delivery-with-cdn-and-ffmpeg-best-practices-6ck)
-- [GaussianBlur in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-1-3ndn)
-- [Stacked PRs for new devs](https://dev.to/sumitsaurabh927/stacked-prs-for-new-devs-43dd)
+- [How to Build a Profitable Digital Art Business: A Comprehensive Developer Roadmap](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-digital-art-business-a-comprehensive-developer-roadmap-5cg2)
+- [Abstraction vs Encapsulation](https://dev.to/nozibul_islam_113b1d5334f/abstraction-vs-encapsulation-11ib)
+- [2025 The Year of Agentic AI: Why Multimodal AI Agents Will Dominate Enterprises and Startups](https://dev.to/ishmam_jahan_4269b6f13ba5/2025-the-year-of-agentic-ai-why-multimodal-ai-agents-will-dominate-enterprises-and-startups-4pa0)
+- [Code Optimization Strategies for Game Development 🔥](https://dev.to/codewithshahan/code-optimization-strategies-for-game-development-2n0e)
+- [doNothing&lpar;&rpar;method example Spring Boot](https://dev.to/realnamehidden1_61/donothingmethod-example-spring-boot-2i25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
