@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a GitHub Self-Hosted Runner on an Ubuntu VM: A DevOps Guide](https://dev.to/codehirise/setup-a-github-self-hosted-runner-on-an-ubuntu-vm-a-devops-guide-3aim)
-- [Create React App is Dead, ES Modules are the new JavaScript Default, Vercel Fluid Compute, and more](https://dev.to/thisweekinjavascript/create-react-app-is-dead-es-modules-are-the-new-javascript-default-vercel-fluid-compute-and-more-2f4l)
-- [Java Reflection](https://dev.to/lahiru_rajapakshe_8634adb/java-reflection-141b)
-- [Deploy Flutter Web App to Vercel](https://dev.to/davidongora/deploy-flutter-web-app-to-vercel-49pp)
-- [Modeling a Neuron in micrograd &lpar;As Explained by Karpathy&rpar;](https://dev.to/shrsv/modeling-a-neuron-in-micrograd-as-explained-by-karpathy-6gh)
+- [Automate MySQL Backups with CRON Jobs in cPanel](https://dev.to/tahsin000/automate-mysql-backups-with-cron-jobs-in-cpanel-464n)
+- [Object Oriented Programming for Interview:&rpar;](https://dev.to/madgan95/object-oriented-programming-for-interview-cb2)
+- [Hugging Face Launches Free AI Agents Course with Certification!](https://dev.to/fardinkai/hugging-face-launches-free-ai-agents-course-with-certification-g5a)
+- [Transform Your Data Model to AI Workflow - with only 8 extra lines of code!](https://dev.to/eduardknezovic/transform-your-data-model-to-ai-workflow-with-only-8-extra-lines-of-code-3f5a)
+- [Run Google Chrome as Administrator on Windows 11! {6+} Best Ways](https://dev.to/winsides/run-google-chrome-as-administrator-on-windows-11-6-best-ways-56ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
