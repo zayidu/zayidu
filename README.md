@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate MySQL Backups with CRON Jobs in cPanel](https://dev.to/tahsin000/automate-mysql-backups-with-cron-jobs-in-cpanel-464n)
-- [Object Oriented Programming for Interview:&rpar;](https://dev.to/madgan95/object-oriented-programming-for-interview-cb2)
-- [Hugging Face Launches Free AI Agents Course with Certification!](https://dev.to/fardinkai/hugging-face-launches-free-ai-agents-course-with-certification-g5a)
-- [Transform Your Data Model to AI Workflow - with only 8 extra lines of code!](https://dev.to/eduardknezovic/transform-your-data-model-to-ai-workflow-with-only-8-extra-lines-of-code-3f5a)
-- [Run Google Chrome as Administrator on Windows 11! {6+} Best Ways](https://dev.to/winsides/run-google-chrome-as-administrator-on-windows-11-6-best-ways-56ib)
+- [Trending Mobile App Development Frameworks on 2025](https://dev.to/resource_bunk_1077cab07da/trending-mobile-app-development-frameworks-on-2025-3i5g)
+- [Meet Checkmate.so — The Open-Source Tool to Keep Your Servers in Check!](https://dev.to/satwikloka/meet-checkmateso-the-open-source-tool-to-keep-your-servers-in-check-37cp)
+- [Newly Launched 30+ Github Repositories for Your Next Project.](https://dev.to/gittech/newly-launched-20-github-repositories-for-your-next-project-4ah5)
+- [126/365 | ¥10M Job Challenge - Why remote work?](https://dev.to/kameken100/126365-y10m-job-challenge-why-remote-work-37dn)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-171p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
