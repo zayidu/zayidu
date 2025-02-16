@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Darc Athletics: Revolutionizing Vogue, Exercise, as well as Functionality](https://dev.to/seo_worker_7c30fe1726aaed/darc-athletics-revolutionizing-vogue-exercise-as-well-as-functionality-3563)
-- [Supporting the Backbone of Innovation: Open Source Developer Support Programs](https://dev.to/jennythomas498/supporting-the-backbone-of-innovation-open-source-developer-support-programs-1l2b)
-- [Open Source Funding for Scientific Research: A New Era of Collaboration](https://dev.to/zhangwei42/open-source-funding-for-scientific-research-a-new-era-of-collaboration-5e4a)
-- [Open Source Funding for New Developers: Opportunities and Pathways](https://dev.to/rachellovestowrite/open-source-funding-for-new-developers-opportunities-and-pathways-45om)
-- [AWS Cloud Path Week 6 - Getting Started with AWS CDK](https://dev.to/aws-builders/aws-cloud-path-week-6-getting-started-with-aws-cdk-1171)
+- [Avoiding Pitfalls in the Race to Build Super Apps.](https://dev.to/ivan_assenov_c6e899f61741/avoiding-pitfalls-in-the-race-to-build-super-apps-3pe0)
+- [I Built a Library to Visualize and Edit Audio Filters](https://dev.to/numberonebot/i-built-a-library-to-visualize-and-edit-audio-filters-2mke)
+- [Implementing Buttery-Smooth Infinite Scroll in Vue 3 with Composables](https://dev.to/deondazy/implementing-buttery-smooth-infinite-scroll-in-vue-3-with-composables-3ak2)
+- [RustyNum Follow-Up: Fresh Insights and Ongoing Development](https://dev.to/igorsusmelj/rustynum-follow-up-fresh-insights-and-ongoing-development-18f9)
+- [Neovim Tips to Accelerate Your Text Navigation](https://dev.to/codingwithsphere/neovim-tips-to-accelerate-your-text-navigation-3p8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
