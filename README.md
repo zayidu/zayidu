@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Have Next.js Libraries to Improve Your Workflow! 🚀](https://dev.to/joodi/12-must-have-nextjs-libraries-to-boost-your-development-workflow-4p3d)
-- [¿Mi aplicación en la nube es compliance?](https://dev.to/briansuarezsantiago/mi-aplicacion-en-la-nube-es-compliance-3e5f)
-- [How to Build a Fast &amp; Secure PHP Contact Form with reCAPTCHA v3](https://dev.to/tanzi_bee/how-to-build-a-fast-secure-php-contact-form-with-recaptcha-v3-5do5)
-- [Select Dropdown + Searchbar + Clearable &lpar;React &amp; Shadcn&rpar;](https://dev.to/vic_ong/select-dropdown-searchbar-clearable-react-shadcn-cl8)
-- [The open source fastest URL shortener ever.](https://dev.to/abdibrokhim/the-open-source-fastest-url-shortener-ever-5af3)
+- [Writing Pythonic Code With Python Data Model](https://dev.to/noble47/writing-pythonic-code-with-python-data-model-2j3o)
+- [&quot;Revolutionize AI with AttentionSmithy: Modular Transformer Customization Unleashed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionize-ai-with-attentionsmithy-modular-transformer-customization-unleashed-2og5)
+- [3 layers of nextjs prefetch](https://dev.to/filip_kudla/3-layers-of-nextjs-prefetch-38lm)
+- [Daily JavaScript Challenge #JS-104: Compute Spiral Order Traversal of a Matrix](https://dev.to/dpc/daily-javascript-challenge-js-104-compute-spiral-order-traversal-of-a-matrix-amb)
+- [Spring&#39;s new Support Policy Updates](https://dev.to/michelle_sebek_/springs-new-support-policy-updates-203)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
