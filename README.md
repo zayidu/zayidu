@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Simplest Eight Queens Code You’ll Find Online](https://dev.to/esproc_spl/the-simplest-eight-queens-code-youll-find-online-28ko)
-- [Quick Guide to UPDATE Queries: How to Modify Data Efficiently](https://dev.to/dbvismarketing/quick-guide-to-update-queries-how-to-modify-data-efficiently-40lj)
-- [Why It’s Worth Outsourcing Your Rails Upgrades](https://dev.to/railsup_sedin/why-its-worth-outsourcing-your-rails-upgrades-5cbk)
-- [Adding TypeScript Support to an Existing Node.js Project &lpar;Without Dropping JavaScript Support&rpar;](https://dev.to/harshit_bhardwaj_37bd0c14/adding-typescript-support-to-an-existing-nodejs-project-without-dropping-javascript-support-4mmh)
-- [How I Built Schedulicious: A Meal Planning Web App](https://dev.to/czhoudev/how-i-built-schedulicious-a-meal-planning-web-app-576a)
+- [Why I Love Using Expo Over Custom React Native Architecture](https://dev.to/aneeqakhan/why-i-love-using-expo-over-custom-react-native-architecture-41fh)
+- [New AI Method Cuts Training Data Needs for Image Segmentation by 50%](https://dev.to/mikeyoung44/new-ai-method-cuts-training-data-needs-for-image-segmentation-by-50-jaa)
+- [New Memory-Based Neural Network Activation Cuts Computing Costs by 30%](https://dev.to/mikeyoung44/new-memory-based-neural-network-activation-cuts-computing-costs-by-30-1h5b)
+- [Study Shows Spatial Label Noise Severely Impacts AI Object Detection Performance](https://dev.to/mikeyoung44/study-shows-spatial-label-noise-severely-impacts-ai-object-detection-performance-3h4i)
+- [New AI Method Cuts Power Use on Mobile Devices While Preserving Model Accuracy](https://dev.to/mikeyoung44/new-ai-method-cuts-power-use-on-mobile-devices-while-preserving-model-accuracy-39n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
