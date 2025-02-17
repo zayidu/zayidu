@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [notl.ink - open source blazingly fast url shortener ever. Live on ProductHunt.](https://dev.to/abdibrokhim/notlink-open-source-blazingly-fast-url-shortener-ever-live-on-producthunt-41mk)
-- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
-- [Factory Method in Java](https://dev.to/mspilari/factory-method-in-java-523)
-- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
-- [Telegram Bot Creation Handbook](https://dev.to/simplr_sh/telegram-bot-creation-handbook-g5g)
+- [Introducing StackQL - Manage Your Cloud Services &amp; Interact with APIs using SQL 🧑‍💻🔥](https://dev.to/madza/introducing-stackql-manage-your-cloud-services-interact-with-apis-using-sql-175m)
+- [Meme Monday](https://dev.to/ben/meme-monday-13in)
+- [Managing Lists, Keys, and Forms in React](https://dev.to/johnschibelli/managing-lists-keys-and-forms-in-react-5ao4)
+- [How To Remember Big O Notation](https://dev.to/mike-vincent/how-to-remember-big-o-notation-5gmi)
+- [Complete Guide to MariaDB Logs: Audit, Configuration, and More](https://dev.to/drupaladmin/complete-guide-to-mariadb-logs-audit-configuration-and-more-27g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
