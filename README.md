@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5888)
-- [Beginner in Web Dev &amp; React – Need Help](https://dev.to/tannu_2b5e04c8e660af79aee/beginner-in-web-dev-react-need-help-52ef)
-- [The Ultimate Guide to NEMT Software: Revolutionizing Non-Emergency Medical Transportation](https://dev.to/softwarehub/the-ultimate-guide-to-nemt-software-revolutionizing-non-emergency-medical-transportation-2mg9)
-- [Cloud vs Open Source vs Commercial API Gateways: Which One Fits Your Needs?](https://dev.to/apisix/cloud-vs-open-source-vs-commercial-api-gateways-which-one-fits-your-needs-ecm)
-- [Automate Your Invoice Reminders with Python and Credit-IQ](https://dev.to/credit-iq/automate-your-invoice-reminders-with-python-and-credit-iq-4eb2)
+- [CORS Anywhere Alternative: Free vs. Premium CORS Proxy](https://dev.to/reynaldichernando/cors-anywhere-alternative-free-vs-premium-cors-proxy-2ebj)
+- [Will AI Replace Humans? The Future of Work in 2030 and Beyond](https://dev.to/futuristicgeeks/will-ai-replace-humans-the-future-of-work-in-2030-and-beyond-ge3)
+- [Best AIOps Tools and Platforms to Use in 2025](https://dev.to/quinnox_/best-aiops-tools-and-platforms-to-use-in-2025-4129)
+- [Isolated Margin Trading and Sub-Accounts: The Best Protection Against Volatility](https://dev.to/kaankaya/isolated-margin-trading-and-sub-accounts-the-best-protection-against-volatility-a29)
+- [Lambda Fleet Monitoring with OpenSearch: Real-Time Insights at Scale](https://dev.to/ynaumenko/lambda-fleet-monitoring-with-opensearch-real-time-insights-at-scale-ani)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
