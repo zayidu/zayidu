@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Presidio and LangGraph: Enhancing AI Agents with Robust PII Protection and Data Anonymization](https://dev.to/sreeni5018/microsoft-presidio-and-langgraph-enhancing-ai-agents-with-robust-pii-protection-and-data-14oo)
-- [🚀 Building a Robust API Response Helper in Next.js 15](https://dev.to/saiful7778/building-a-robust-api-response-helper-in-nextjs-15-4aeg)
-- [Father - an NPM package development tool.](https://dev.to/ramunarasinga-11/father-an-npm-package-development-tool-15dp)
-- [[Boost]](https://dev.to/borba/-52gp)
-- [[Boost]](https://dev.to/dhruvjoshi9/-5d00)
+- [Introduction to Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/introduction-to-amazon-ecs-elastic-container-service-10b)
+- [API Debugging is Really A Piece of Cake🎂](https://dev.to/apilover/api-debugging-is-really-a-piece-of-cake-3n77)
+- [Explain why we need .ruby-version file but no ruby DSL method in Gemfile in Rails apps](https://dev.to/tnir/explain-why-we-need-ruby-version-file-but-no-ruby-dsl-method-in-gemfile-in-rails-apps-468b)
+- [Power Platform - The Managed Delivery Process](https://dev.to/wyattdave/power-platform-the-managed-delivery-process-1fo6)
+- [The Smart Way to Find Duplicates in an Array &lpar;No Extra Space!&rpar;](https://dev.to/mehta0007/the-smart-way-to-find-duplicates-in-an-array-no-extra-space-3ol1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
