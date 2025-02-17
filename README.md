@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Love Using Expo Over Custom React Native Architecture](https://dev.to/aneeqakhan/why-i-love-using-expo-over-custom-react-native-architecture-41fh)
-- [New AI Method Cuts Training Data Needs for Image Segmentation by 50%](https://dev.to/mikeyoung44/new-ai-method-cuts-training-data-needs-for-image-segmentation-by-50-jaa)
-- [New Memory-Based Neural Network Activation Cuts Computing Costs by 30%](https://dev.to/mikeyoung44/new-memory-based-neural-network-activation-cuts-computing-costs-by-30-1h5b)
-- [Study Shows Spatial Label Noise Severely Impacts AI Object Detection Performance](https://dev.to/mikeyoung44/study-shows-spatial-label-noise-severely-impacts-ai-object-detection-performance-3h4i)
-- [New AI Method Cuts Power Use on Mobile Devices While Preserving Model Accuracy](https://dev.to/mikeyoung44/new-ai-method-cuts-power-use-on-mobile-devices-while-preserving-model-accuracy-39n6)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5888)
+- [Beginner in Web Dev &amp; React – Need Help](https://dev.to/tannu_2b5e04c8e660af79aee/beginner-in-web-dev-react-need-help-52ef)
+- [The Ultimate Guide to NEMT Software: Revolutionizing Non-Emergency Medical Transportation](https://dev.to/softwarehub/the-ultimate-guide-to-nemt-software-revolutionizing-non-emergency-medical-transportation-2mg9)
+- [Cloud vs Open Source vs Commercial API Gateways: Which One Fits Your Needs?](https://dev.to/apisix/cloud-vs-open-source-vs-commercial-api-gateways-which-one-fits-your-needs-ecm)
+- [Automate Your Invoice Reminders with Python and Credit-IQ](https://dev.to/credit-iq/automate-your-invoice-reminders-with-python-and-credit-iq-4eb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
