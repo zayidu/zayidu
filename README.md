@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [#145 — Insert Blank Row when Meeting with Data Change](https://dev.to/judith677/145-insert-blank-row-when-meeting-with-data-change-19f)
 - [[Boost]](https://dev.to/_7bc44b7af58b2d5a7471/-4ele)
 - [ConfigMaps vs Secrets: Secure Configuration Management in Kubernetes](https://dev.to/olamyde/configmaps-vs-secrets-secure-configuration-management-in-kubernetes-4jj5)
 - [No More Hardcoded Secrets: Automatic Database Credential Rotation with Vault, AKS and Postgres🔐](https://dev.to/poojan18/no-more-hardcoded-secrets-automatic-database-credential-rotation-with-vault-aks-and-postgres-1nmn)
 - [Terraform Tree Structure: Boost Cloud Efficiency and Management](https://dev.to/olamyde/terraform-tree-structure-boost-cloud-efficiency-and-management-4il0)
-- [LangGraph Subgraphs: A Guide to Modular AI Agents Development](https://dev.to/sreeni5018/langgraph-subgraphs-a-guide-to-modular-ai-agents-development-31ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
