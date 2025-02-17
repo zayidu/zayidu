@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Pythonic Code With Python Data Model](https://dev.to/noble47/writing-pythonic-code-with-python-data-model-2j3o)
-- [&quot;Revolutionize AI with AttentionSmithy: Modular Transformer Customization Unleashed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionize-ai-with-attentionsmithy-modular-transformer-customization-unleashed-2og5)
-- [3 layers of nextjs prefetch](https://dev.to/filip_kudla/3-layers-of-nextjs-prefetch-38lm)
-- [Daily JavaScript Challenge #JS-104: Compute Spiral Order Traversal of a Matrix](https://dev.to/dpc/daily-javascript-challenge-js-104-compute-spiral-order-traversal-of-a-matrix-amb)
-- [Spring&#39;s new Support Policy Updates](https://dev.to/michelle_sebek_/springs-new-support-policy-updates-203)
+- [[Boost]](https://dev.to/_7bc44b7af58b2d5a7471/-4ele)
+- [ConfigMaps vs Secrets: Secure Configuration Management in Kubernetes](https://dev.to/olamyde/configmaps-vs-secrets-secure-configuration-management-in-kubernetes-4jj5)
+- [No More Hardcoded Secrets: Automatic Database Credential Rotation with Vault, AKS and Postgres🔐](https://dev.to/poojan18/no-more-hardcoded-secrets-automatic-database-credential-rotation-with-vault-aks-and-postgres-1nmn)
+- [Terraform Tree Structure: Boost Cloud Efficiency and Management](https://dev.to/olamyde/terraform-tree-structure-boost-cloud-efficiency-and-management-4il0)
+- [LangGraph Subgraphs: A Guide to Modular AI Agents Development](https://dev.to/sreeni5018/langgraph-subgraphs-a-guide-to-modular-ai-agents-development-31ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
