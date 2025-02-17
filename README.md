@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing StackQL - Manage Your Cloud Services &amp; Interact with APIs using SQL 🧑‍💻🔥](https://dev.to/madza/introducing-stackql-manage-your-cloud-services-interact-with-apis-using-sql-175m)
-- [Meme Monday](https://dev.to/ben/meme-monday-13in)
-- [Managing Lists, Keys, and Forms in React](https://dev.to/johnschibelli/managing-lists-keys-and-forms-in-react-5ao4)
-- [How To Remember Big O Notation](https://dev.to/mike-vincent/how-to-remember-big-o-notation-5gmi)
-- [Complete Guide to MariaDB Logs: Audit, Configuration, and More](https://dev.to/drupaladmin/complete-guide-to-mariadb-logs-audit-configuration-and-more-27g8)
+- [Hello](https://dev.to/elxmatah/hello-14bp)
+- [A guide to modern frontend architecture patterns](https://dev.to/leemeganj/a-guide-to-modern-frontend-architecture-patterns-392o)
+- [Spring Boot 3.4 application on AWS Lambda- Part 2 AWS Lambda Web Adapter](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-2-aws-lambda-web-adapter-ko9)
+- [Excel VBA - Subs and Functions](https://dev.to/kacper2048/excel-vba-subs-and-functions-1jh)
+- [RAG: Como IA pode ser inteligente sem reter dados?](https://dev.to/marcelxv/rag-como-ia-pode-ser-inteligente-sem-reter-dados-55i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
