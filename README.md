@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple User Event Tracker In Angular](https://dev.to/this-is-angular/simple-user-event-tracker-in-angular-1207)
-- [1079. Letter Tile Possibilities](https://dev.to/mdarifulhaque/1079-letter-tile-possibilities-4kcl)
-- [Why Mocks Fail: Real-Environment Testing for Microservices](https://dev.to/signadot/why-mocks-fail-real-environment-testing-for-microservices-h3a)
-- [RoadMap For Full Stack JavaScript Developer](https://dev.to/owaisnoor/roadmap-for-full-stack-javascript-developer-1n9e)
-- [15 Expert Performance Tips Every Senior JS React Developer Should Know](https://dev.to/sovannaro/15-expert-performance-tips-every-senior-js-react-developer-should-know-3ni2)
+- [Using Drosera Traps to Investigate a Vulnerable Smart Contract](https://dev.to/scofieldidehen/using-drosera-traps-to-investigate-a-vulnerable-smart-contract-3843)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/friendgrass7/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1677)
+- [Introducing Wave v0.0.1-pre-beta: The First Usable Version](https://dev.to/lunastev/introducing-wave-v001-pre-beta-the-first-usable-version-d8p)
+- [Introducing LetterLens: A Powerful Open-Source Word Counter](https://dev.to/hardikgohilhlr/introducing-letterlens-a-powerful-open-source-word-counter-4fcm)
+- [Tales of a Novice Hardware Hacker: The Lifecycle of a Kit](https://dev.to/manchicken/tales-of-a-novice-hardware-hacker-the-lifecycle-of-a-kit-57hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
