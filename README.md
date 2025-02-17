@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Schema Validation with Cypress](https://dev.to/cypress/api-schema-validation-with-cypress-185m)
-- [Buffer Overflow: From Basics to Exploitation](https://dev.to/sa4dus/buffer-overflow-from-basics-to-exploitation-5d0n)
-- [The Ugly Truth About VC-Funded Startups: Evidence Capitalism Doesn’t Work](https://dev.to/itamartati/the-ugly-truth-about-vc-funded-startups-evidence-capitalism-doesnt-work-2ip5)
-- [I Built a TypeScript SDK for Batch Processing LLM Calls Across Model Providers](https://dev.to/grantsingleton/i-built-a-typescript-sdk-for-batch-processing-llm-calls-across-model-providers-1jg5)
-- [Defining the product vision](https://dev.to/wdp/defining-the-product-vision-2bc8)
+- [Introducing the game-changer: Motion Provider](https://dev.to/burakdev/introducing-the-game-changer-motion-provider-48f4)
+- [Deploy React + Vite on AWS S3 and CloudFront: A Complete Guide](https://dev.to/saddamazad/deploy-react-vite-on-aws-s3-and-cloudfront-a-complete-guide-1gjg)
+- [Supercharge your AWS Well-Architected Reviews](https://dev.to/aws-builders/supercharge-your-aws-well-architected-reviews-3c41)
+- [Late Night Refactors #2: Controller to Livewire Components](https://dev.to/d3adr1nger/late-night-refactors-2-controller-to-livewire-components-3hde)
+- [🚀 TaskMate: A Simple React Native To-Do App Built with React Native &amp; Expo 📝](https://dev.to/luthfisauqi17/build-a-simple-to-do-list-app-with-react-native-expo-taskmate-o2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
