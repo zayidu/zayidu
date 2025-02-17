@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Drosera Traps to Investigate a Vulnerable Smart Contract](https://dev.to/scofieldidehen/using-drosera-traps-to-investigate-a-vulnerable-smart-contract-3843)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/friendgrass7/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1677)
-- [Introducing Wave v0.0.1-pre-beta: The First Usable Version](https://dev.to/lunastev/introducing-wave-v001-pre-beta-the-first-usable-version-d8p)
-- [Introducing LetterLens: A Powerful Open-Source Word Counter](https://dev.to/hardikgohilhlr/introducing-letterlens-a-powerful-open-source-word-counter-4fcm)
-- [Tales of a Novice Hardware Hacker: The Lifecycle of a Kit](https://dev.to/manchicken/tales-of-a-novice-hardware-hacker-the-lifecycle-of-a-kit-57hk)
+- [How To Set Pricing For Freelancing By The Hour](https://dev.to/mersano/how-to-set-pricing-for-freelancing-by-the-hour-50b6)
+- [What is the difference between fetch and XMLHTTPRequest? ⚙️](https://dev.to/hmpljs/what-is-the-difference-between-fetch-and-xmlhttprequest-1g9m)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3e62)
+- [Mastering API Design &amp; Documentation with OpenAPI](https://dev.to/kihuni/mastering-api-design-documentation-with-openapi-34nk)
+- [How to Build a Full-Stack Web App with Next.js, Prisma, and PostgreSQL](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-full-stack-web-app-with-nextjs-prisma-and-postgresql-468n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
