@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O poder dos Micro-Frontends](https://dev.to/juniorbasck/o-poder-dos-micro-frontends-49m0)
-- [Flutter vs. React Native: Which One Should You Learn in 2025?](https://dev.to/webtisae/flutter-vs-react-native-which-one-should-you-learn-in-2025-3hba)
-- [SGLang vs llama.cpp - A Quick Speed Test](https://dev.to/maximsaplin/sglang-vs-llamacpp-a-quick-speed-test-22li)
-- [Hey!](https://dev.to/jakem21/hey-2o4m)
-- [[Boost]](https://dev.to/lorebrada00/-3k4g)
+- [notl.ink - open source blazingly fast url shortener ever. Live on ProductHunt.](https://dev.to/abdibrokhim/notlink-open-source-blazingly-fast-url-shortener-ever-live-on-producthunt-41mk)
+- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
+- [Factory Method in Java](https://dev.to/mspilari/factory-method-in-java-523)
+- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
+- [Telegram Bot Creation Handbook](https://dev.to/simplr_sh/telegram-bot-creation-handbook-g5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
