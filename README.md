@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/elxmatah/hello-14bp)
-- [A guide to modern frontend architecture patterns](https://dev.to/leemeganj/a-guide-to-modern-frontend-architecture-patterns-392o)
-- [Spring Boot 3.4 application on AWS Lambda- Part 2 AWS Lambda Web Adapter](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-2-aws-lambda-web-adapter-ko9)
-- [Excel VBA - Subs and Functions](https://dev.to/kacper2048/excel-vba-subs-and-functions-1jh)
-- [RAG: Como IA pode ser inteligente sem reter dados?](https://dev.to/marcelxv/rag-como-ia-pode-ser-inteligente-sem-reter-dados-55i5)
+- [Simple User Event Tracker In Angular](https://dev.to/this-is-angular/simple-user-event-tracker-in-angular-1207)
+- [1079. Letter Tile Possibilities](https://dev.to/mdarifulhaque/1079-letter-tile-possibilities-4kcl)
+- [Why Mocks Fail: Real-Environment Testing for Microservices](https://dev.to/signadot/why-mocks-fail-real-environment-testing-for-microservices-h3a)
+- [RoadMap For Full Stack JavaScript Developer](https://dev.to/owaisnoor/roadmap-for-full-stack-javascript-developer-1n9e)
+- [15 Expert Performance Tips Every Senior JS React Developer Should Know](https://dev.to/sovannaro/15-expert-performance-tips-every-senior-js-react-developer-should-know-3ni2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
