@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your AI-Era Dev Rizz &lpar;No LeetCode Required!&rpar;](https://dev.to/fast/level-up-your-ai-era-dev-rizz-no-leetcode-required-30if)
-- [Freelancing for Web Development](https://dev.to/mikehtmlallthethings/freelancing-for-web-development-1573)
-- [Zustand vs Context API: Qual escolher para gerenciar estado no React?](https://dev.to/diegooliveyra/zustand-vs-context-api-qual-escolher-para-gerenciar-estado-no-react-28ck)
-- [Brighter – .NET Framework for building messaging app](https://dev.to/actor-swe/brighter-net-framework-for-building-messaging-app-10ja)
-- [This is a nice article that highlights how to get started on being well-architected very quickly 🚀, but if you can afford it I&#39;ll still recommend you go through a review because you get a thorough analysis of your workload 😉 and custom recommendations 👍](https://dev.to/elizabethadegbaju/this-is-a-nice-article-that-highlights-how-to-get-started-on-being-well-architected-very-quickly--e11)
+- [API Schema Validation with Cypress](https://dev.to/cypress/api-schema-validation-with-cypress-185m)
+- [Buffer Overflow: From Basics to Exploitation](https://dev.to/sa4dus/buffer-overflow-from-basics-to-exploitation-5d0n)
+- [The Ugly Truth About VC-Funded Startups: Evidence Capitalism Doesn’t Work](https://dev.to/itamartati/the-ugly-truth-about-vc-funded-startups-evidence-capitalism-doesnt-work-2ip5)
+- [I Built a TypeScript SDK for Batch Processing LLM Calls Across Model Providers](https://dev.to/grantsingleton/i-built-a-typescript-sdk-for-batch-processing-llm-calls-across-model-providers-1jg5)
+- [Defining the product vision](https://dev.to/wdp/defining-the-product-vision-2bc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
