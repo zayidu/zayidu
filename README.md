@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use a CMS Instead of a Framework: Make the Right Choice for Your Project](https://dev.to/dct_technologyprivatelimited/when-to-use-a-cms-instead-of-a-framework-make-the-right-choice-for-your-project-2n89)
-- [New Writers and Bloggers: Here Are 5 Lessons from a Viral Post](https://dev.to/canro91/new-writers-and-bloggers-here-are-5-lessons-from-a-viral-post-4b55)
-- [List of essential Git commands](https://dev.to/matiar_rahman31/list-of-essential-git-commands-3b4)
-- [Recursion in Java](https://dev.to/neelakandan_ravi_2000/recursion-in-java-27pd)
-- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-484f)
+- [Microsoft Presidio and LangGraph: Enhancing AI Agents with Robust PII Protection and Data Anonymization](https://dev.to/sreeni5018/microsoft-presidio-and-langgraph-enhancing-ai-agents-with-robust-pii-protection-and-data-14oo)
+- [🚀 Building a Robust API Response Helper in Next.js 15](https://dev.to/saiful7778/building-a-robust-api-response-helper-in-nextjs-15-4aeg)
+- [Father - an NPM package development tool.](https://dev.to/ramunarasinga-11/father-an-npm-package-development-tool-15dp)
+- [[Boost]](https://dev.to/borba/-52gp)
+- [[Boost]](https://dev.to/dhruvjoshi9/-5d00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
