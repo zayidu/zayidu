@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cybersecurity Risks of AI-Generated Code: What You Need to Know](https://dev.to/cyberwolves/the-cybersecurity-risks-of-ai-generated-code-what-you-need-to-know-5d12)
-- [Mastering watch and watchEffect in Vue 3 with Practical Examples](https://dev.to/ahmedfm/mastering-watch-and-watcheffect-in-vue-3-with-practical-examples-2gg3)
-- [Comparing Cross-Platform Mobile Development Tools](https://dev.to/resource_bunk_1077cab07da/comparing-cross-platform-mobile-development-tools-1o62)
-- [Understanding the @Value Annotation | Spring Boot | Java Spring](https://dev.to/debeshpg90/understanding-the-value-annotation-spring-boot-java-spring-2fmj)
-- [All Data and AI Weekly #177 - 17-Feb-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-177-17-feb-2025-kh0)
+- [Understanding ^ and ~ in package.json Dependencies](https://dev.to/makechi02/understanding-and-in-packagejson-dependencies-267c)
+- [How to Run PostgreSQL on my Local Machine.](https://dev.to/youjung-hong/how-to-run-postgresql-on-my-local-machine-38i9)
+- [Enhancing SwiftUI Alerts : A Reusable Approach with Unit and UI Testing 🔄](https://dev.to/kamimi01/enhancing-swiftui-alerts-a-reusable-approach-with-unit-and-ui-testing-30a4)
+- [Commit Message Policy for Your Team](https://dev.to/llepecki/commit-message-policy-for-your-team-57bo)
+- [Getters vs. functions in Cypress: The best practice you need to know](https://dev.to/daniil-qa/getters-vs-functions-in-cypress-the-best-practice-you-need-to-know-25j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
