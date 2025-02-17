@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS Anywhere Alternative: Free vs. Premium CORS Proxy](https://dev.to/reynaldichernando/cors-anywhere-alternative-free-vs-premium-cors-proxy-2ebj)
-- [Will AI Replace Humans? The Future of Work in 2030 and Beyond](https://dev.to/futuristicgeeks/will-ai-replace-humans-the-future-of-work-in-2030-and-beyond-ge3)
-- [Best AIOps Tools and Platforms to Use in 2025](https://dev.to/quinnox_/best-aiops-tools-and-platforms-to-use-in-2025-4129)
-- [Isolated Margin Trading and Sub-Accounts: The Best Protection Against Volatility](https://dev.to/kaankaya/isolated-margin-trading-and-sub-accounts-the-best-protection-against-volatility-a29)
-- [Lambda Fleet Monitoring with OpenSearch: Real-Time Insights at Scale](https://dev.to/ynaumenko/lambda-fleet-monitoring-with-opensearch-real-time-insights-at-scale-ani)
+- [O poder dos Micro-Frontends](https://dev.to/juniorbasck/o-poder-dos-micro-frontends-49m0)
+- [Flutter vs. React Native: Which One Should You Learn in 2025?](https://dev.to/webtisae/flutter-vs-react-native-which-one-should-you-learn-in-2025-3hba)
+- [SGLang vs llama.cpp - A Quick Speed Test](https://dev.to/maximsaplin/sglang-vs-llamacpp-a-quick-speed-test-22li)
+- [Hey!](https://dev.to/jakem21/hey-2o4m)
+- [[Boost]](https://dev.to/lorebrada00/-3k4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
