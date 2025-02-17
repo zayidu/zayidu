@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#145 — Insert Blank Row when Meeting with Data Change](https://dev.to/judith677/145-insert-blank-row-when-meeting-with-data-change-19f)
-- [The Magic of Embeddings: How AI Understands Language Like Humans](https://dev.to/kumarprateek18/the-magic-of-embeddings-how-ai-understands-language-like-humans-741)
-- [ECS FinHacks: Scaling Microservices with AWS ECS Fargate and RDS](https://dev.to/aws-builders/ecs-finhacks-scaling-microservices-with-aws-ecs-fargate-and-rds-1fnh)
-- [This Week&#39;s AI News Updates &lpar;Feb 13, 2025&rpar; 🚀](https://dev.to/h_metacode_74e90df0ee5da6/this-weeks-ai-news-updates-feb-13-2025-4b0l)
-- [[Boost]](https://dev.to/_7bc44b7af58b2d5a7471/-4ele)
+- [When to Use a CMS Instead of a Framework: Make the Right Choice for Your Project](https://dev.to/dct_technologyprivatelimited/when-to-use-a-cms-instead-of-a-framework-make-the-right-choice-for-your-project-2n89)
+- [New Writers and Bloggers: Here Are 5 Lessons from a Viral Post](https://dev.to/canro91/new-writers-and-bloggers-here-are-5-lessons-from-a-viral-post-4b55)
+- [List of essential Git commands](https://dev.to/matiar_rahman31/list-of-essential-git-commands-3b4)
+- [Recursion in Java](https://dev.to/neelakandan_ravi_2000/recursion-in-java-27pd)
+- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-484f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
