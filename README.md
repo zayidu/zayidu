@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL PATTERNS : Pivot and Unpivot in SQL - Transforming Data Effectively](https://dev.to/anwaar/sql-patterns-pivot-and-unpivot-in-sql-transforming-data-effectively-25k4)
-- [Problems in Crypto AI Agents: Security, Ethics, and Complexity](https://dev.to/foxgem/problems-in-crypto-ai-agents-security-ethics-and-complexity-5c6n)
-- [Thriving as a Personal Tech Consultant: Navigating the AI Revolution](https://dev.to/foxgem/thriving-as-a-personal-tech-consultant-navigating-the-ai-revolution-3pfp)
-- [A Step-by-Step Guide to Kube-green: Optimizing Kubernetes for Sustainability](https://dev.to/vimal-patel/a-step-by-step-guide-to-kube-green-optimizing-kubernetes-for-sustainability-5098)
-- [AI tools](https://dev.to/dahami_fabbio/ai-tools-6i5)
+- [Essential Skills for a Successful Full-Stack Developer in 2025](https://dev.to/jaykrishna_dogne/essential-skills-for-a-successful-full-stack-developer-in-2025-b39)
+- [Create package using Poetry, and deploy on private PyPi Server](https://dev.to/oktapiancaw/create-package-using-poetry-and-deploy-on-private-pypi-server-40g5)
+- [Best Mobile Proxy Providers](https://dev.to/toniaread/best-mobile-proxy-providers-32f1)
+- [Mastering Defer &amp; Async Loading in JavaScript: Boost Your Website’s Performance Now!](https://dev.to/dct_technologyprivatelimited/mastering-defer-async-loading-in-javascript-boost-your-websites-performance-now-4hd)
+- [Python containers for ARM](https://dev.to/sergioarmgpl/python-containers-for-arm-32bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
