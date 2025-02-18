@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve made Developer Journal - An app to help you track your code journey.](https://dev.to/ksawery297/ive-made-developer-journal-an-app-to-help-you-track-your-code-journey-48pl)
-- [🚀 Top 25+ Must-Read Productivity Articles for Everyone — 2025&#39;s February Edition](https://dev.to/dev-resources/top-25-must-read-productivity-articles-for-everyone-2025s-february-edition-29dh)
-- [Integrando o Amazon SQS com o AWS Lambda - Entendendo os principais aspectos dessa integração](https://dev.to/marcosbelorio/integrando-o-amazon-sqs-com-o-aws-lambda-entendendo-os-principais-aspectos-dessa-integracao-a67)
-- [Postgresql Database](https://dev.to/farlamo/postgresql-database-1ofk)
-- [How to Create a Custom Hook in React for Complex State Management](https://dev.to/rowsanali/how-to-create-a-custom-hook-in-react-for-complex-state-management-3608)
+- [How to Create Kubernetes&lpar;K8s&rpar; Cluster Home Lab using Ubuntu Server 24.04](https://dev.to/shalahur/how-to-create-kubernetesk8s-cluster-home-lab-using-ubuntu-server-2404-520i)
+- [I Finished The Odin Project&#39;s Foundation Track](https://dev.to/sydalwedaie/i-finished-the-odin-projects-foundation-track-58g)
+- [30+ Mind-Blowing GitHub Repositories You Need to Check Out! 🚀](https://dev.to/gittech/30-mind-blowing-github-repositories-you-need-to-check-out-2ppi)
+- [Created a Ferris Wheel!](https://dev.to/shurwood_840b883d3a1ae4a2/created-a-ferris-wheel-47l7)
+- [How the Internet Works: From Sending a Photo to Receiving It](https://dev.to/castilhoborges/how-the-internet-works-from-sending-a-photo-to-receiving-it-f28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
