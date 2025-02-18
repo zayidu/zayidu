@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the game-changer: Motion Provider](https://dev.to/burakdev/introducing-the-game-changer-motion-provider-48f4)
-- [Deploy React + Vite on AWS S3 and CloudFront: A Complete Guide](https://dev.to/saddamazad/deploy-react-vite-on-aws-s3-and-cloudfront-a-complete-guide-1gjg)
-- [Supercharge your AWS Well-Architected Reviews](https://dev.to/aws-builders/supercharge-your-aws-well-architected-reviews-3c41)
-- [Late Night Refactors #2: Controller to Livewire Components](https://dev.to/d3adr1nger/late-night-refactors-2-controller-to-livewire-components-3hde)
-- [🚀 TaskMate: A Simple React Native To-Do App Built with React Native &amp; Expo 📝](https://dev.to/luthfisauqi17/build-a-simple-to-do-list-app-with-react-native-expo-taskmate-o2a)
+- [RandomAdjustSharpness in PyTorch](https://dev.to/hyperkai/randomadjustsharpness-in-pytorch-2lj5)
+- [Integrating LLMs in Software Development Workflows](https://dev.to/kartikmehta8/integrating-llms-in-software-development-workflows-388)
+- [Embrace the Future with LivinGrimoire SkillBranch](https://dev.to/owly/embrace-the-future-with-livingrimoire-skillbranch-5ejm)
+- [Sync all of your LeetCode solutions to Github using glsync](https://dev.to/ahmedabdulaziz/sync-all-of-your-leetcode-solutions-to-github-using-glsync-2jg)
+- [Unlocking the Future of AI: Multimodal Models Explained](https://dev.to/devinsights_blog/unlocking-the-future-of-ai-multimodal-models-explained-3map)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
