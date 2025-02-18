@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS text effects](https://dev.to/talalemran/css-text-effects-5c24)
-- [SaaSify](https://dev.to/maheswaripinneti/saasify-52kf)
-- [Future of Artificial Intelligence](https://dev.to/raushan_sinha_8efb05c7b1c/future-of-artificial-intelligence-b9)
-- [How to Get an AWS Educate Account &lpar;No Credit Card Required&rpar;: A Step-by-Step Guide for Students](https://dev.to/muhammad_abdullah_0f40cb1/how-to-get-an-aws-educate-account-no-credit-card-required-a-step-by-step-guide-for-students-3f6j)
-- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
+- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-5cio)
+- [Git Architecture &amp; Installation](https://dev.to/vasutamil19/git-architecture-installation-334f)
+- [Debugging Google Chrome Extensions Locally: A Quick &amp; Easy Guide](https://dev.to/leo_chen_4c3f7844ff7bda2b/debugging-google-chrome-extensions-locally-a-quick-easy-guide-13il)
+- [How C++ and Proxies Revolutionize Your Web Scraping](https://dev.to/swiftproxy_residential/how-c-and-proxies-revolutionize-your-web-scraping-1ebn)
+- [Understanding Python: High-Level, Interpreted, and Dynamically Typed](https://dev.to/pydev/understanding-python-high-level-interpreted-and-dynamically-typed-3b70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
