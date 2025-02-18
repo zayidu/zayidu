@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Skills for a Successful Full-Stack Developer in 2025](https://dev.to/jaykrishna_dogne/essential-skills-for-a-successful-full-stack-developer-in-2025-b39)
-- [Create package using Poetry, and deploy on private PyPi Server](https://dev.to/oktapiancaw/create-package-using-poetry-and-deploy-on-private-pypi-server-40g5)
-- [Best Mobile Proxy Providers](https://dev.to/toniaread/best-mobile-proxy-providers-32f1)
-- [Mastering Defer &amp; Async Loading in JavaScript: Boost Your Website’s Performance Now!](https://dev.to/dct_technologyprivatelimited/mastering-defer-async-loading-in-javascript-boost-your-websites-performance-now-4hd)
-- [Python containers for ARM](https://dev.to/sergioarmgpl/python-containers-for-arm-32bl)
+- [CSS text effects](https://dev.to/talalemran/css-text-effects-5c24)
+- [SaaSify](https://dev.to/maheswaripinneti/saasify-52kf)
+- [Future of Artificial Intelligence](https://dev.to/raushan_sinha_8efb05c7b1c/future-of-artificial-intelligence-b9)
+- [How to Get an AWS Educate Account &lpar;No Credit Card Required&rpar;: A Step-by-Step Guide for Students](https://dev.to/muhammad_abdullah_0f40cb1/how-to-get-an-aws-educate-account-no-credit-card-required-a-step-by-step-guide-for-students-3f6j)
+- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
