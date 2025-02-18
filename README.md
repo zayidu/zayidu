@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RandomAdjustSharpness in PyTorch](https://dev.to/hyperkai/randomadjustsharpness-in-pytorch-2lj5)
-- [Integrating LLMs in Software Development Workflows](https://dev.to/kartikmehta8/integrating-llms-in-software-development-workflows-388)
-- [Embrace the Future with LivinGrimoire SkillBranch](https://dev.to/owly/embrace-the-future-with-livingrimoire-skillbranch-5ejm)
-- [Sync all of your LeetCode solutions to Github using glsync](https://dev.to/ahmedabdulaziz/sync-all-of-your-leetcode-solutions-to-github-using-glsync-2jg)
-- [Unlocking the Future of AI: Multimodal Models Explained](https://dev.to/devinsights_blog/unlocking-the-future-of-ai-multimodal-models-explained-3map)
+- [Do Ordered Grouping and Aggregation within Groups — From SQL to SPL #1](https://dev.to/judith677/do-ordered-grouping-and-aggregation-within-groups-from-sql-to-spl-1-4p94)
+- [Escalabilidade na prática: o que você precisa entender antes de tudo - parte 1](https://dev.to/iagxferreira/escalabilidade-na-pratica-o-que-voce-precisa-entender-antes-de-tudo-parte-1-4dkp)
+- [Range, input type range.](https://dev.to/ykosinets/range-input-type-range-2jk3)
+- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-kid)
+- [RandomInvert in PyTorch](https://dev.to/hyperkai/randominvert-in-pytorch-596c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
