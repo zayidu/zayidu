@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explain the JDK, JRE, and JVM](https://dev.to/boorge/explain-the-jdk-jre-and-jvm-2f2g)
-- [Sending Emails with Gmail Using MailKit in .NET Web API: The Complete Guide](https://dev.to/mamun_akand/sending-emails-with-gmail-using-mailkit-in-net-web-api-4lj5)
-- [Hello World!](https://dev.to/engrsiralex/hello-world-456k)
-- [Awesome seeing spring onboard!](https://dev.to/lukehinds/awesome-seeing-spring-onboard-49cc)
-- [The Critical Role of CISOs in Managing IAM - Including Non-Human Identities](https://dev.to/gitguardian/the-critical-role-of-cisos-in-managing-iam-including-non-human-identities-4998)
+- [Gesture Control with ElectronJS, MediaPipe and Nut.js - Creative Coding fun](https://dev.to/anuragdeore/gesture-control-with-electronjs-mediapipe-and-nutjs-creative-coding-fun-4m9b)
+- [Different ways of setting State in React](https://dev.to/jessalejo/different-ways-of-setting-state-in-react-18nn)
+- [Building Modern SPAs with Vanilla JavaScript: A Beginner&#39;s Guide](https://dev.to/moseeh_52/building-modern-spas-with-vanilla-javascript-a-beginners-guide-9a3)
+- [🚀 A Better Way to Manage Middlewares in Next.js](https://dev.to/skyleen/a-better-way-to-manage-middlewares-in-nextjs-5d8o)
+- [Master Web Automation: Automate Browsing Tasks with Puppeteer](https://dev.to/sandip_shrest/master-web-automation-automate-browsing-tasks-with-puppeteer-26ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
