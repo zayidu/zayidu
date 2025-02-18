@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 18 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-february-4n11)
-- [Java User Input &lpar;Scanner&rpar;](https://dev.to/neelakandan_ravi_2000/java-user-input-scanner-3l53)
-- [How to Actually Start &lpar;and Finish&rpar; Development Projects Without Losing Your Mind 😅](https://dev.to/0x2e73/how-to-actually-start-and-finish-development-projects-without-losing-your-mind-2eg0)
-- [Node.js Deprecation Issues: Debugging Syntax Errors and Staying Up to Date](https://dev.to/sanket00123/nodejs-deprecation-issues-debugging-syntax-errors-and-staying-up-to-date-fj0)
-- [New Method Reveals How AI Models Process Protein Sequences, Enables Control of Predictions](https://dev.to/mikeyoung44/new-method-reveals-how-ai-models-process-protein-sequences-enables-control-of-predictions-15i0)
+- [C4 Model real world example with Google Maps](https://dev.to/anwaar/c4-model-real-world-example-with-google-maps-3ano)
+- [🎙️We have updated the site and here is what I want to say🔥](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-lfh)
+- [C4 Model](https://dev.to/anwaar/c4-model-1263)
+- [Agents 101: How to build your first AI Agent in 30 minutes!](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042)
+- [[New Update] Real-Time Location Tracking and Monitoring with Communication &lpar;Version 3&rpar;](https://dev.to/mahmud-r-farhan/new-update-real-time-location-tracking-and-monitoring-with-communication-version-3-1p5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
