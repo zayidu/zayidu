@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI and the MCP Ecosystem](https://dev.to/blockopensource/agentic-ai-and-the-mcp-ecosystem-2m8d)
-- [What&#39;s the Catch?](https://dev.to/intersystems/whats-the-catch-1p98)
-- [🚀 pgai Vectorizer: SQLAlchemy and LiteLLM Make Vector Search Simple](https://dev.to/timescale/pgai-vectorizer-sqlalchemy-and-litellm-make-vector-search-simple-29mp)
-- [How to Build a Decentralized Social Media App Like Farcaster or Lens](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-decentralized-social-media-app-like-farcaster-or-lens-5k9)
-- [Matrix Diagonalization](https://dev.to/shlok2740/matrix-diagonalization-59i5)
+- [I&#39;ve made Developer Journal - An app to help you track your code journey.](https://dev.to/ksawery297/ive-made-developer-journal-an-app-to-help-you-track-your-code-journey-48pl)
+- [🚀 Top 25+ Must-Read Productivity Articles for Everyone — 2025&#39;s February Edition](https://dev.to/dev-resources/top-25-must-read-productivity-articles-for-everyone-2025s-february-edition-29dh)
+- [Integrando o Amazon SQS com o AWS Lambda - Entendendo os principais aspectos dessa integração](https://dev.to/marcosbelorio/integrando-o-amazon-sqs-com-o-aws-lambda-entendendo-os-principais-aspectos-dessa-integracao-a67)
+- [Postgresql Database](https://dev.to/farlamo/postgresql-database-1ofk)
+- [How to Create a Custom Hook in React for Complex State Management](https://dev.to/rowsanali/how-to-create-a-custom-hook-in-react-for-complex-state-management-3608)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
