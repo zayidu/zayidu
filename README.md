@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-5cio)
-- [Git Architecture &amp; Installation](https://dev.to/vasutamil19/git-architecture-installation-334f)
-- [Debugging Google Chrome Extensions Locally: A Quick &amp; Easy Guide](https://dev.to/leo_chen_4c3f7844ff7bda2b/debugging-google-chrome-extensions-locally-a-quick-easy-guide-13il)
-- [How C++ and Proxies Revolutionize Your Web Scraping](https://dev.to/swiftproxy_residential/how-c-and-proxies-revolutionize-your-web-scraping-1ebn)
-- [Understanding Python: High-Level, Interpreted, and Dynamically Typed](https://dev.to/pydev/understanding-python-high-level-interpreted-and-dynamically-typed-3b70)
+- [Finding Clients as a Freelancer — Web Developers &amp; Beyond!](https://dev.to/per-starke-642/finding-clients-as-a-freelancer-web-developers-beyond-5327)
+- [notlink is officially live on Product Hunt! 🙀 &lpar; yaps.gg &rpar;](https://dev.to/abdibrokhim/notlink-is-officially-live-on-product-hunt-yapsgg--8co)
+- [Python’s Execution Model – Bytecode, PVM, and JIT Compilation](https://dev.to/pydev/pythons-execution-model-bytecode-pvm-and-jit-compilation-km6)
+- [Top 7 Payloads lists Every Bug Bounty Hunter Need To Know](https://dev.to/verylazytech/top-7-payloads-lists-every-bug-bounty-hunter-need-to-know-pf7)
+- [Let&#39;s Learn Linux: Introduction](https://dev.to/surajkumar00/introduction-to-linux-1nnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
