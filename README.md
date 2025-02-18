@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Kubernetes&lpar;K8s&rpar; Cluster Home Lab using Ubuntu Server 24.04](https://dev.to/shalahur/how-to-create-kubernetesk8s-cluster-home-lab-using-ubuntu-server-2404-520i)
-- [I Finished The Odin Project&#39;s Foundation Track](https://dev.to/sydalwedaie/i-finished-the-odin-projects-foundation-track-58g)
-- [30+ Mind-Blowing GitHub Repositories You Need to Check Out! 🚀](https://dev.to/gittech/30-mind-blowing-github-repositories-you-need-to-check-out-2ppi)
-- [Created a Ferris Wheel!](https://dev.to/shurwood_840b883d3a1ae4a2/created-a-ferris-wheel-47l7)
-- [How the Internet Works: From Sending a Photo to Receiving It](https://dev.to/castilhoborges/how-the-internet-works-from-sending-a-photo-to-receiving-it-f28)
+- [Explain the JDK, JRE, and JVM](https://dev.to/boorge/explain-the-jdk-jre-and-jvm-2f2g)
+- [Sending Emails with Gmail Using MailKit in .NET Web API: The Complete Guide](https://dev.to/mamun_akand/sending-emails-with-gmail-using-mailkit-in-net-web-api-4lj5)
+- [Hello World!](https://dev.to/engrsiralex/hello-world-456k)
+- [Awesome seeing spring onboard!](https://dev.to/lukehinds/awesome-seeing-spring-onboard-49cc)
+- [The Critical Role of CISOs in Managing IAM - Including Non-Human Identities](https://dev.to/gitguardian/the-critical-role-of-cisos-in-managing-iam-including-non-human-identities-4998)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
