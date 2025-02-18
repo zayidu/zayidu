@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Clients as a Freelancer — Web Developers &amp; Beyond!](https://dev.to/per-starke-642/finding-clients-as-a-freelancer-web-developers-beyond-5327)
-- [notlink is officially live on Product Hunt! 🙀 &lpar; yaps.gg &rpar;](https://dev.to/abdibrokhim/notlink-is-officially-live-on-product-hunt-yapsgg--8co)
-- [Python’s Execution Model – Bytecode, PVM, and JIT Compilation](https://dev.to/pydev/pythons-execution-model-bytecode-pvm-and-jit-compilation-km6)
-- [Top 7 Payloads lists Every Bug Bounty Hunter Need To Know](https://dev.to/verylazytech/top-7-payloads-lists-every-bug-bounty-hunter-need-to-know-pf7)
-- [Let&#39;s Learn Linux: Introduction](https://dev.to/surajkumar00/introduction-to-linux-1nnl)
+- [SSH LLM Honeypot caught a real threat actor](https://dev.to/mariocandela/ssh-llm-honeypot-caught-a-real-threat-actor-3nh8)
+- [How cybercriminals make money with cryptojacking](https://dev.to/mariocandela/how-cybercriminals-make-money-with-cryptojacking-ohg)
+- [10 Tips &amp; Tricks de Visual Studio Code que Mejorarán tu Flujo de Trabajo 🚀](https://dev.to/alvaroapdev/10-tips-tricks-de-visual-studio-code-que-mejoraran-tu-flujo-de-trabajo-1868)
+- [How to Load Datasets Efficiently in Pandas: A Complete Guide](https://dev.to/phylis/how-to-load-datasets-efficiently-in-pandas-a-complete-guide-2id9)
+- [Aliases git vs. bash](https://dev.to/pkorsch/aliases-git-vs-bash-2p5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
