@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH LLM Honeypot caught a real threat actor](https://dev.to/mariocandela/ssh-llm-honeypot-caught-a-real-threat-actor-3nh8)
-- [How cybercriminals make money with cryptojacking](https://dev.to/mariocandela/how-cybercriminals-make-money-with-cryptojacking-ohg)
-- [10 Tips &amp; Tricks de Visual Studio Code que Mejorarán tu Flujo de Trabajo 🚀](https://dev.to/alvaroapdev/10-tips-tricks-de-visual-studio-code-que-mejoraran-tu-flujo-de-trabajo-1868)
-- [How to Load Datasets Efficiently in Pandas: A Complete Guide](https://dev.to/phylis/how-to-load-datasets-efficiently-in-pandas-a-complete-guide-2id9)
-- [Aliases git vs. bash](https://dev.to/pkorsch/aliases-git-vs-bash-2p5n)
+- [10 Tools and Resources to Master CORS](https://dev.to/reynaldi/10-tools-and-resources-to-master-cors-oji)
+- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-167d)
+- [Mastering AI API Debugging for Developers: A Guide for Any Model &lpar;Grok,DeepSeek, OpenAI, Claude, and More&rpar;](https://dev.to/auden/mastering-ai-api-debugging-for-developers-a-guide-for-any-model-grokdeepseek-openai-claude-44h1)
+- [In my flask web app, opening a new tab works fine in a browser but, when installed as an app, it opens in the default browser instead of within the app window. Anyone knows how to counter it](https://dev.to/pratham_jadhav_f5a04b6f4a/in-my-flask-web-app-opening-a-new-tab-works-fine-in-a-browser-but-when-installed-as-an-app-it-1elp)
+- [🪐 Flutter Widgets = The Building Blocks of Your App&#39;s Universe and Beyond ~](https://dev.to/__4ldyfwkymhmd/flutter-widgets-the-building-blocks-of-your-apps-universe-and-beyond--3gno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
