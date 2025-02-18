@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Deploy .NET Application to Azure using Neon Postgres and .NET Aspire](https://dev.to/antonmartyniuk/how-to-deploy-net-application-to-azure-using-neon-postgres-and-net-aspire-1cgm)
-- [Love Language Discovery](https://dev.to/mdarifulhaque/love-language-discovery-1il)
-- [Love Language Discovery](https://dev.to/mdarifulhaque/love-language-discovery-1ng6)
-- [20 Things I Learned While Writing a Multiplayer Game with Django and React](https://dev.to/0x00a_34/20-things-i-learned-while-writing-a-multiplayer-game-with-django-and-react-16ld)
-- [[Boost]](https://dev.to/abdulrahmanelshafie/-42pb)
+- [Boost Your Productivity with Nodindow](https://dev.to/thalysoncamposth/boost-your-productivity-with-nodindow-a9b)
+- [Brand strategy and rebranding for growth-focused companies](https://dev.to/jaymi_tripp/brand-strategy-and-rebranding-for-growth-focused-companies-1g5j)
+- [I created a CLI-Music Player in Rust!](https://dev.to/paradoxy/i-created-a-cli-music-player-in-rust-5a3f)
+- [CREATING A STORAGE ACCOUNT ON AZURE PORTAL](https://dev.to/sheyitex/creating-a-storage-account-on-azure-portal-4p51)
+- [Create React App is Dead. What does it mean for you?](https://dev.to/shrutikapoor08/create-react-app-is-dead-what-does-it-mean-for-you-4gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
