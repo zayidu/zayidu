@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Goroutine Pool in Go](https://dev.to/leapcell/building-a-goroutine-pool-in-go-38bk)
-- [How to Build a Vector Database with SQLite in Node.js.](https://dev.to/sfundomhlungu/how-to-build-a-vector-database-with-sqlite-in-nodejs-1epd)
-- [[Boost]](https://dev.to/shyamsundersrd/-9dp)
-- [Micro Frontends: Enabling Scalable and Autonomous Development with Build-Time Integration](https://dev.to/giteden/micro-frontends-enabling-scalable-and-autonomous-development-with-build-time-integration-4jk6)
-- [2375. Construct Smallest Number From DI String](https://dev.to/mdarifulhaque/2375-construct-smallest-number-from-di-string-1jco)
+- [Agentic AI and the MCP Ecosystem](https://dev.to/blockopensource/agentic-ai-and-the-mcp-ecosystem-2m8d)
+- [What&#39;s the Catch?](https://dev.to/intersystems/whats-the-catch-1p98)
+- [🚀 pgai Vectorizer: SQLAlchemy and LiteLLM Make Vector Search Simple](https://dev.to/timescale/pgai-vectorizer-sqlalchemy-and-litellm-make-vector-search-simple-29mp)
+- [How to Build a Decentralized Social Media App Like Farcaster or Lens](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-decentralized-social-media-app-like-farcaster-or-lens-5k9)
+- [Matrix Diagonalization](https://dev.to/shlok2740/matrix-diagonalization-59i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
