@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Box with Expandable Icon Hover Effect](https://dev.to/snippflow/image-box-with-expandable-icon-hover-effect-29d3)
-- [在 Linux 上安裝與使用 Notion Desktop](https://dev.to/nullity/zai-linux-shang-an-zhuang-yu-shi-yong-notion-desktop-5383)
-- [SwiftUI Beginner Course – Async Image](https://dev.to/carlosbbuild/swiftui-beginner-course-async-image-4mek)
-- [Đồng bộ &lpar;synchronous&rpar; và Bất đồng bộ &lpar;asynchronous&rpar;](https://dev.to/dvphuc_175/dong-bo-synchronous-va-bat-dong-bo-asynchronous-4g1h)
-- [Optical Character Recognition in Scanned PDFs](https://dev.to/zubinajmera/optical-character-recognition-in-scanned-pdfs-5geo)
+- [Building a Goroutine Pool in Go](https://dev.to/leapcell/building-a-goroutine-pool-in-go-38bk)
+- [How to Build a Vector Database with SQLite in Node.js.](https://dev.to/sfundomhlungu/how-to-build-a-vector-database-with-sqlite-in-nodejs-1epd)
+- [[Boost]](https://dev.to/shyamsundersrd/-9dp)
+- [Micro Frontends: Enabling Scalable and Autonomous Development with Build-Time Integration](https://dev.to/giteden/micro-frontends-enabling-scalable-and-autonomous-development-with-build-time-integration-4jk6)
+- [2375. Construct Smallest Number From DI String](https://dev.to/mdarifulhaque/2375-construct-smallest-number-from-di-string-1jco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
