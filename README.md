@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Tools and Resources to Master CORS](https://dev.to/reynaldi/10-tools-and-resources-to-master-cors-oji)
-- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-167d)
-- [Mastering AI API Debugging for Developers: A Guide for Any Model &lpar;Grok,DeepSeek, OpenAI, Claude, and More&rpar;](https://dev.to/auden/mastering-ai-api-debugging-for-developers-a-guide-for-any-model-grokdeepseek-openai-claude-44h1)
-- [In my flask web app, opening a new tab works fine in a browser but, when installed as an app, it opens in the default browser instead of within the app window. Anyone knows how to counter it](https://dev.to/pratham_jadhav_f5a04b6f4a/in-my-flask-web-app-opening-a-new-tab-works-fine-in-a-browser-but-when-installed-as-an-app-it-1elp)
-- [🪐 Flutter Widgets = The Building Blocks of Your App&#39;s Universe and Beyond ~](https://dev.to/__4ldyfwkymhmd/flutter-widgets-the-building-blocks-of-your-apps-universe-and-beyond--3gno)
+- [How to Stream DeepSeek API Responses Using Server-Sent Events &lpar;SSE&rpar;](https://dev.to/apilover/how-to-stream-deepseek-api-responses-using-server-sent-events-sse-2inb)
+- [Rust vs. Other Languages: Why Rust Stands Out in Modern Development](https://dev.to/pannagaperumal/rust-vs-other-languages-why-rust-stands-out-in-modern-development-4mh8)
+- [How I Built a Simple Shell in C – A Beginner&#39;s Guide to System Programming &lpar;2/3&rpar;](https://dev.to/ertugrulmutlu/how-i-built-a-simple-shell-in-c-a-beginners-guide-to-system-programming-23-3m2i)
+- [AI tool to instantly create a working mobile app from Figma](https://dev.to/wehadit/ai-tool-to-instantly-create-a-working-mobile-app-from-figma-47i0)
+- [Just Stop Writing Node Functions Like This!](https://dev.to/abhay_yt_52a8e72b213be229/just-stop-writing-node-functions-like-this-1d6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
