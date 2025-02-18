@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Instal WSO2 Api Manager di Server Ubuntu](https://dev.to/agusmerdeko/instal-wso2-api-manager-di-server-ubuntu-2a91)
+- [How to Boot the RK3562J on the M-Core?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-boot-the-rk3562j-on-the-m-core-24c5)
+- [Solution to Realize the Normal Calling of the Third Party Conference Software UVC Camera on OK3568-C Development Board](https://dev.to/ronnie_r_152dc2151d9449c6/solution-to-realize-the-normal-calling-of-the-third-party-conference-software-uvc-camera-on-11mj)
 - [Do Ordered Grouping and Aggregation within Groups — From SQL to SPL #1](https://dev.to/judith677/do-ordered-grouping-and-aggregation-within-groups-from-sql-to-spl-1-4p94)
-- [Escalabilidade na prática: o que você precisa entender antes de tudo - parte 1](https://dev.to/iagxferreira/escalabilidade-na-pratica-o-que-voce-precisa-entender-antes-de-tudo-parte-1-4dkp)
-- [Range, input type range.](https://dev.to/ykosinets/range-input-type-range-2jk3)
-- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-kid)
-- [RandomInvert in PyTorch](https://dev.to/hyperkai/randominvert-in-pytorch-596c)
+- [How to Build a .NET MAUI Windows App to Read Barcodes from Scanned Documents](https://dev.to/yushulx/how-to-build-a-net-maui-windows-app-to-read-barcodes-from-scanned-documents-igg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
