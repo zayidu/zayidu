@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gesture Control with ElectronJS, MediaPipe and Nut.js - Creative Coding fun](https://dev.to/anuragdeore/gesture-control-with-electronjs-mediapipe-and-nutjs-creative-coding-fun-4m9b)
-- [Different ways of setting State in React](https://dev.to/jessalejo/different-ways-of-setting-state-in-react-18nn)
-- [Building Modern SPAs with Vanilla JavaScript: A Beginner&#39;s Guide](https://dev.to/moseeh_52/building-modern-spas-with-vanilla-javascript-a-beginners-guide-9a3)
-- [🚀 A Better Way to Manage Middlewares in Next.js](https://dev.to/skyleen/a-better-way-to-manage-middlewares-in-nextjs-5d8o)
-- [Master Web Automation: Automate Browsing Tasks with Puppeteer](https://dev.to/sandip_shrest/master-web-automation-automate-browsing-tasks-with-puppeteer-26ha)
+- [How To Deploy .NET Application to Azure using Neon Postgres and .NET Aspire](https://dev.to/antonmartyniuk/how-to-deploy-net-application-to-azure-using-neon-postgres-and-net-aspire-1cgm)
+- [Love Language Discovery](https://dev.to/mdarifulhaque/love-language-discovery-1il)
+- [Love Language Discovery](https://dev.to/mdarifulhaque/love-language-discovery-1ng6)
+- [20 Things I Learned While Writing a Multiplayer Game with Django and React](https://dev.to/0x00a_34/20-things-i-learned-while-writing-a-multiplayer-game-with-django-and-react-16ld)
+- [[Boost]](https://dev.to/abdulrahmanelshafie/-42pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
