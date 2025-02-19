@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Boost Your Website Speed with Lazy Loading in JavaScript!](https://dev.to/dct_technologyprivatelimited/boost-your-website-speed-with-lazy-loading-in-javascript-ec4)
-- [Welcome Thread - v315](https://dev.to/devteam/welcome-thread-v315-3n9p)
-- [The Best Data Science Tools for 2025](https://dev.to/abhishekjaiswal_4896/the-best-data-science-tools-for-2025-32md)
-- [Integrating Currency Exchange Rate APIs into SaaS Platforms: A Developer&#39;s Guide](https://dev.to/rameshchauhan/integrating-currency-exchange-rate-apis-into-saas-platforms-a-developers-guide-5cng)
-- [DevOps Demystified: A Comprehensive Guide](https://dev.to/raajaryan/devops-demystified-a-comprehensive-guide-1li7)
+- [Open-Source Tailwind CSS Admin Dashboard Templates](https://dev.to/tailadmin/open-source-tailwind-css-admin-dashboard-templates-4ecm)
+- [🚀✨ Meet Your New AI Buddy: Offline ChatGPT! ✨🚀](https://dev.to/buildandcodewithraman/meet-your-new-ai-buddy-offline-chatgpt-39f0)
+- [TypeScript vs JavaScript: What’s Changed in 2025? You Might Be Surprised! 🚀](https://dev.to/dct_technologyprivatelimited/typescript-vs-javascript-whats-changed-in-2025-you-might-be-surprised-223g)
+- [Step-by-Step Guide to Developing a Custom Event Management App from Scratch](https://dev.to/saanvipatel099/step-by-step-guide-to-developing-a-custom-event-management-app-from-scratch-37lo)
+- [10 Best Mobile Automation Testing Tools to Boost App Performance in 2025](https://dev.to/trretatechnolabs/10-best-mobile-automation-testing-tools-to-boost-app-performance-in-2025-4kjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
