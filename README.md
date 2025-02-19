@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 17 design may be drastically different](https://dev.to/devmercy/iphone-17-design-may-be-drastically-different-7kd)
-- [Top CI/CD Tools to Streamline Your DevOps Pipeline: A Comprehensive Guide](https://dev.to/testwithtorin/top-cicd-tools-to-streamline-your-devops-pipeline-a-comprehensive-guide-p0a)
-- [GitHub Releases New GPT-4o Copilot Code Completion Model](https://dev.to/andreagriffiths11/github-releases-new-gpt-4o-copilot-code-completion-model-1ph8)
-- [[Boost]](https://dev.to/thefull/-59om)
-- [SOFTWARE TESTING](https://dev.to/sujatha_r_/software-testing-2434)
+- [php: writing command-line applications with macrame. pt 2](https://dev.to/gbhorwood/php-writing-command-line-applications-with-macrame-pt-2-5ga4)
+- [The Open-Source Toolkit for Building AI Agents👨🏻‍💼](https://dev.to/devwithsuraj/the-open-source-toolkit-for-building-ai-agents-1pka)
+- [Working with circular dependencies in sequelize-typescript](https://dev.to/ashuto7h/working-with-circular-dependencies-in-sequelize-typescript-1b13)
+- [Introduce My Self !](https://dev.to/skyhayato/introduce-my-self--3ail)
+- [Oracle and Meta Join Forces: Advancing AI with Llama Models](https://dev.to/max_services/oracle-and-meta-join-forces-advancing-ai-with-llama-models-pgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
