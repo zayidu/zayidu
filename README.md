@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [php: writing command-line applications with macrame. pt 2](https://dev.to/gbhorwood/php-writing-command-line-applications-with-macrame-pt-2-5ga4)
-- [The Open-Source Toolkit for Building AI Agents👨🏻‍💼](https://dev.to/devwithsuraj/the-open-source-toolkit-for-building-ai-agents-1pka)
-- [Working with circular dependencies in sequelize-typescript](https://dev.to/ashuto7h/working-with-circular-dependencies-in-sequelize-typescript-1b13)
-- [Introduce My Self !](https://dev.to/skyhayato/introduce-my-self--3ail)
-- [Oracle and Meta Join Forces: Advancing AI with Llama Models](https://dev.to/max_services/oracle-and-meta-join-forces-advancing-ai-with-llama-models-pgo)
+- [To infinity and beyond 🚀](https://dev.to/mathio/to-infinity-and-beyond-4n1n)
+- [FAANG Interview Roadmap: How to Prepare in 90 Days](https://dev.to/raajaryan/faang-interview-roadmap-how-to-prepare-in-90-days-1hlj)
+- [We just raised $4.2 to keep building our hackathon project!](https://dev.to/maxprilutskiy/we-just-raised-42-to-keep-building-our-hackathon-project-19e1)
+- [Track Production Operations Outcome Progression with Conditional NULLs - From SQL to SPL #2](https://dev.to/judith677/track-production-operations-outcome-progression-with-conditional-nulls-from-sql-to-spl-2-57c)
+- [React en 2025: Cómo Superar la Parálisis por Decisión](https://dev.to/martinrojas/react-en-2025-como-superar-la-paralisis-por-decision-2lkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
