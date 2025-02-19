@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Building a Scalable Push Notification Service with Firebase, Azure Functions, and React](https://dev.to/champcbg/building-a-scalable-push-notification-service-with-firebase-azure-functions-and-react-cha)
-- [How Serverless Computing is Changing Web Development 🚀](https://dev.to/jaykrishna_dogne/how-serverless-computing-is-changing-web-development-5h2o)
-- [Best Free Tools Every Developer Should Use in 2025 🚀](https://dev.to/jaykrishna_dogne/best-free-tools-every-developer-should-use-in-2025-24ka)
-- [The Role of Machine Learning in Predictive Analytics](https://dev.to/raajaryan/the-role-of-machine-learning-in-predictive-analytics-427n)
-- [Evolution of java...From Simple to Supercharged 🚀&lpar;part 5&rpar;](https://dev.to/sona_08/evolution-of-javafrom-simple-to-supercharged-part-5-igc)
+- [Today deal with overflow on x axis](https://dev.to/saqib_tanveer_786/today-deal-with-overflow-on-x-axis-990)
+- [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-4gam)
+- [My First DEV.to Post](https://dev.to/kin_test_8c229aecbd38506f/my-first-devto-post-39oe)
+- [Python Decorators: A Game-Changer for Your Code](https://dev.to/leapcell/python-decorators-a-game-changer-for-your-code-1g25)
+- [Privacy-Preserving Graph Learning System Lets Organizations Share Insights While Keeping Data Private](https://dev.to/mikeyoung44/privacy-preserving-graph-learning-system-lets-organizations-share-insights-while-keeping-data-40df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
