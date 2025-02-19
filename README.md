@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built It Because I Was Tired of Rebuilding It: The Story Behind ThemeShift](https://dev.to/ramasundaram_s/built-it-because-i-was-tired-of-rebuilding-it-the-story-behind-themeshift-1e39)
-- [4 Year Badge… but I Don’t Remember Joining? 🤔](https://dev.to/cypheroxide/4-year-badge-but-i-dont-remember-joining-2fl9)
-- [How MongoDB’s ObjectID and B-Tree Search Make Your Queries Super Fast](https://dev.to/nishanthan-k/how-mongodbs-objectid-and-b-tree-search-make-your-queries-super-fast-3hhn)
-- [Best ERP Solutions for Small Businesses: 4 Tools to Improve Efficiency](https://dev.to/nocobase/best-erp-solutions-for-small-businesses-4-tools-to-improve-efficiency-47g4)
-- [Throttling Technique in javascript](https://dev.to/webfaisalbd/throttling-technique-in-javascript-3pj1)
+- [🚀 Boost Your Website Speed with Lazy Loading in JavaScript!](https://dev.to/dct_technologyprivatelimited/boost-your-website-speed-with-lazy-loading-in-javascript-ec4)
+- [Welcome Thread - v315](https://dev.to/devteam/welcome-thread-v315-3n9p)
+- [The Best Data Science Tools for 2025](https://dev.to/abhishekjaiswal_4896/the-best-data-science-tools-for-2025-32md)
+- [Integrating Currency Exchange Rate APIs into SaaS Platforms: A Developer&#39;s Guide](https://dev.to/rameshchauhan/integrating-currency-exchange-rate-apis-into-saas-platforms-a-developers-guide-5cng)
+- [DevOps Demystified: A Comprehensive Guide](https://dev.to/raajaryan/devops-demystified-a-comprehensive-guide-1li7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
