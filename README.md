@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Machine Learning Pipeline: From Data to Deployment](https://dev.to/hulk-pham/the-complete-machine-learning-pipeline-from-data-to-deployment-24p2)
-- [GDPR Compliant Logging in NestJS: Masking User Data in Real Time](https://dev.to/bytehide/gdpr-compliant-logging-in-nestjs-masking-user-data-in-real-time-46ep)
-- [Stop Misusing useEffect in React! 🚨](https://dev.to/joodi/stop-misusing-useeffect-in-react-1g5o)
-- [Documenting Web Components With Storybook](https://dev.to/jamesives/documenting-web-components-with-storybook-2lj3)
-- [Trabajando con múltiples anclajes CSS y popovers dentro del loop de WordPress](https://dev.to/sergiocanram/trabajando-con-multiples-anclajes-css-y-popovers-dentro-del-loop-de-wordpress-k3m)
+- [DjangoGirls Dublin @ DjangoCon Europe 2025](https://dev.to/djangogirlsdub/djangogirls-dublin-djangocon-europe-2025-256j)
+- [Top 5️⃣ Debugging Tools🧐](https://dev.to/dev_kiran/top-5-debugging-tools-4o9)
+- [Fastify Boilerplate](https://dev.to/pedrolloliveira/fastify-boilerplate-38l1)
+- [How to Change Mouse Pointer Style on Windows 11?](https://dev.to/winsides/how-to-change-mouse-pointer-style-on-windows-11-24jl)
+- [Cure Depression with Software Development](https://dev.to/nmiller15/cure-depression-with-software-development-5a8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
