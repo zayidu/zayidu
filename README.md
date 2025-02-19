@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 GOV.UK UX Secrets + Faster Web Fonts &lpar;Don’t FOUT!&rpar;](https://dev.to/adam/govuk-ux-secrets-faster-web-fonts-dont-fout-25ab)
-- [Redis](https://dev.to/anjali_gurjar_dff81513867/redis-2d31)
-- [Python virtual env cheat sheet](https://dev.to/zaphoddont/python-virtual-env-cheat-sheet-2lc8)
-- [How to Use Multiple Databases in Laravel ?](https://dev.to/ankitvermaonline/how-to-use-multiple-databases-in-laravel--mni)
-- [Kakfa](https://dev.to/anjali_gurjar_dff81513867/kakfa-5h2i)
+- [Why HTML Evolves Slowly &lpar;and Why That’s a Good Thing&rpar;](https://dev.to/martinrojas/why-html-evolves-slowly-and-why-thats-a-good-thing-3mkh)
+- [⚡ QueryLink - Streamlining Frontend-Backend Data Integration in .NET Applications](https://dev.to/gigaherz/streamlining-frontend-backend-data-integration-in-net-applications-1be0)
+- [The Complete DevOps Roadmap: From Zero to Cloud Native Expert](https://dev.to/biloustrike/the-complete-devops-roadmap-from-zero-to-cloud-native-expert-52kp)
+- [The Time Trap: How Much are You Losing?](https://dev.to/wraith/the-time-trap-how-much-are-you-losing-3im9)
+- [Don&#39;t Be Afraid to Make Mistakes in Tech](https://dev.to/igorfragadev/dont-be-afraid-to-make-mistakes-in-tech-3j3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
