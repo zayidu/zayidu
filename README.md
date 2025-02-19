@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [To infinity and beyond 🚀](https://dev.to/mathio/to-infinity-and-beyond-4n1n)
-- [FAANG Interview Roadmap: How to Prepare in 90 Days](https://dev.to/raajaryan/faang-interview-roadmap-how-to-prepare-in-90-days-1hlj)
-- [We just raised $4.2 to keep building our hackathon project!](https://dev.to/maxprilutskiy/we-just-raised-42-to-keep-building-our-hackathon-project-19e1)
-- [Track Production Operations Outcome Progression with Conditional NULLs - From SQL to SPL #2](https://dev.to/judith677/track-production-operations-outcome-progression-with-conditional-nulls-from-sql-to-spl-2-57c)
-- [React en 2025: Cómo Superar la Parálisis por Decisión](https://dev.to/martinrojas/react-en-2025-como-superar-la-paralisis-por-decision-2lkp)
+- [The Complete Machine Learning Pipeline: From Data to Deployment](https://dev.to/hulk-pham/the-complete-machine-learning-pipeline-from-data-to-deployment-24p2)
+- [GDPR Compliant Logging in NestJS: Masking User Data in Real Time](https://dev.to/bytehide/gdpr-compliant-logging-in-nestjs-masking-user-data-in-real-time-46ep)
+- [Stop Misusing useEffect in React! 🚨](https://dev.to/joodi/stop-misusing-useeffect-in-react-1g5o)
+- [Documenting Web Components With Storybook](https://dev.to/jamesives/documenting-web-components-with-storybook-2lj3)
+- [Trabajando con múltiples anclajes CSS y popovers dentro del loop de WordPress](https://dev.to/sergiocanram/trabajando-con-multiples-anclajes-css-y-popovers-dentro-del-loop-de-wordpress-k3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
