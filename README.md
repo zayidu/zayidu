@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today deal with overflow on x axis](https://dev.to/saqib_tanveer_786/today-deal-with-overflow-on-x-axis-990)
-- [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-4gam)
-- [My First DEV.to Post](https://dev.to/kin_test_8c229aecbd38506f/my-first-devto-post-39oe)
-- [Python Decorators: A Game-Changer for Your Code](https://dev.to/leapcell/python-decorators-a-game-changer-for-your-code-1g25)
-- [Privacy-Preserving Graph Learning System Lets Organizations Share Insights While Keeping Data Private](https://dev.to/mikeyoung44/privacy-preserving-graph-learning-system-lets-organizations-share-insights-while-keeping-data-40df)
+- [💡 GOV.UK UX Secrets + Faster Web Fonts &lpar;Don’t FOUT!&rpar;](https://dev.to/adam/govuk-ux-secrets-faster-web-fonts-dont-fout-25ab)
+- [Redis](https://dev.to/anjali_gurjar_dff81513867/redis-2d31)
+- [Python virtual env cheat sheet](https://dev.to/zaphoddont/python-virtual-env-cheat-sheet-2lc8)
+- [How to Use Multiple Databases in Laravel ?](https://dev.to/ankitvermaonline/how-to-use-multiple-databases-in-laravel--mni)
+- [Kakfa](https://dev.to/anjali_gurjar_dff81513867/kakfa-5h2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
