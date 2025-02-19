@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Practices for Writing Scalable Node.js Applications](https://dev.to/raajaryan/10-best-practices-for-writing-scalable-nodejs-applications-2d73)
-- [WU JWT](https://dev.to/fivez/wu-jwt-2b)
-- [Evaluation of Practices for Improving Transparency in Software Development Projects with Scrum](https://dev.to/germano_pi/evaluation-of-practices-for-improving-transparency-in-software-development-projects-with-scrum-4lak)
-- [Ever Wonder How AI &quot;Sees&quot; Like You Do? A Beginner&#39;s Guide to Attention](https://dev.to/angu10/ever-wonder-how-ai-sees-like-you-do-a-beginners-guide-to-attention-30m3)
-- [Practice of Model Lightweighting in HarmonyOS Next Smart Home Control System](https://dev.to/xun_wang_6384a403f9817c2/practice-of-model-lightweighting-in-harmonyos-next-smart-home-control-system-3olo)
+- [SaaS vs. Traditional Software: What’s the Difference](https://dev.to/msnmongare/saas-vs-traditional-software-whats-the-difference-157k)
+- [20 Must-Know JavaScript Libraries for Data Visualization](https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d)
+- [aws服务器安装运行ollama](https://dev.to/dragon72463399/awsfu-wu-qi-an-zhuang-yun-xing-ollama-4dij)
+- [Detecting File Leak in the Kotlin Daemon](https://dev.to/pablobaxter/detecting-file-leak-in-the-kotlin-daemon-2130)
+- [Puppy data](https://dev.to/saubury/puppy-data-2gin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
