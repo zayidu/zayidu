@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Host a FastAPI Application Without a Server](https://dev.to/lightningdev123/host-a-fastapi-application-without-a-server-43n7)
-- [25+ Must-Know React Resources for React Developers.](https://dev.to/dev-resources/25-must-know-react-resources-for-react-developers-2hha)
-- [Build RAG Chatbot with LangChain, Milvus, GPT-4o mini, and text-embedding-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-gpt-4o-mini-and-text-embedding-3-large-2199)
-- [Don&#39;t Miss Out! 40+ Free GitHub Repositories That Are Trending Right Now!](https://dev.to/gittech/dont-miss-out-40-free-github-repositories-that-are-trending-right-now-2h4j)
-- [DIY API vs. Marketplace API: The 2025 Ultimate Innovation Showdown](https://dev.to/snappytuts/diy-api-vs-marketplace-api-the-2025-ultimate-innovation-showdown-2an3)
+- [Check Out! These 45+ Developer Solutions for Better Programming.](https://dev.to/0x2e_tech/check-out-these-45-developer-solutions-for-better-programming-1eod)
+- [Importance of DevSecOps: Integrating Security into DevOps](https://dev.to/jakeinthecloud/importance-of-devsecops-integrating-security-into-devops-13m)
+- [NPM vs Yarn vs PNPM: Choosing the right package manager for your project](https://dev.to/mroman7/npm-vs-yarn-vs-pnpm-choosing-the-right-package-manager-for-your-project-5a77)
+- [Exploring DeepSeek: The Future of Open-Source AI](https://dev.to/gimkelum/exploring-deepseek-the-future-of-open-source-ai-ak7)
+- [graph TD A[Inicio del Proceso] --&gt; B[Generación de Llegadas de Tareas] B --&gt; C[Asignación de Tiempos de Ejecución] C --&gt; D[Cola de Espera] D --&gt; E[Asignación a Núcleos Disponibles] E --&gt; F[Ejecución de Tareas] F --&gt; G[Actualización](https://dev.to/donaldo_argote_7c7444b20b/graph-td-ainicio-del-proceso-bgeneracion-de-llegadas-de-tareas-b-casignacion-2im4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
