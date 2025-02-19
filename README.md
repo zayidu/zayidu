@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DjangoGirls Dublin @ DjangoCon Europe 2025](https://dev.to/djangogirlsdub/djangogirls-dublin-djangocon-europe-2025-256j)
-- [Top 5️⃣ Debugging Tools🧐](https://dev.to/dev_kiran/top-5-debugging-tools-4o9)
-- [Fastify Boilerplate](https://dev.to/pedrolloliveira/fastify-boilerplate-38l1)
-- [How to Change Mouse Pointer Style on Windows 11?](https://dev.to/winsides/how-to-change-mouse-pointer-style-on-windows-11-24jl)
-- [Cure Depression with Software Development](https://dev.to/nmiller15/cure-depression-with-software-development-5a8k)
+- [Host a FastAPI Application Without a Server](https://dev.to/lightningdev123/host-a-fastapi-application-without-a-server-43n7)
+- [25+ Must-Know React Resources for React Developers.](https://dev.to/dev-resources/25-must-know-react-resources-for-react-developers-2hha)
+- [Build RAG Chatbot with LangChain, Milvus, GPT-4o mini, and text-embedding-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-gpt-4o-mini-and-text-embedding-3-large-2199)
+- [Don&#39;t Miss Out! 40+ Free GitHub Repositories That Are Trending Right Now!](https://dev.to/gittech/dont-miss-out-40-free-github-repositories-that-are-trending-right-now-2h4j)
+- [DIY API vs. Marketplace API: The 2025 Ultimate Innovation Showdown](https://dev.to/snappytuts/diy-api-vs-marketplace-api-the-2025-ultimate-innovation-showdown-2an3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
