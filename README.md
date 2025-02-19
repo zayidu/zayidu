@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source Tailwind CSS Admin Dashboard Templates](https://dev.to/tailadmin/open-source-tailwind-css-admin-dashboard-templates-4ecm)
-- [🚀✨ Meet Your New AI Buddy: Offline ChatGPT! ✨🚀](https://dev.to/buildandcodewithraman/meet-your-new-ai-buddy-offline-chatgpt-39f0)
-- [TypeScript vs JavaScript: What’s Changed in 2025? You Might Be Surprised! 🚀](https://dev.to/dct_technologyprivatelimited/typescript-vs-javascript-whats-changed-in-2025-you-might-be-surprised-223g)
-- [Step-by-Step Guide to Developing a Custom Event Management App from Scratch](https://dev.to/saanvipatel099/step-by-step-guide-to-developing-a-custom-event-management-app-from-scratch-37lo)
-- [10 Best Mobile Automation Testing Tools to Boost App Performance in 2025](https://dev.to/trretatechnolabs/10-best-mobile-automation-testing-tools-to-boost-app-performance-in-2025-4kjd)
+- [My first program](https://dev.to/idris-soyinka/my-first-program-29h2)
+- [Setting an IPSEC VPN using VyOS in AWS](https://dev.to/leroykayanda/setting-an-ipsec-vpn-using-vyos-in-aws-48fl)
+- [How to Build a Vector Database with SQLite in laravel for LLM&#39;s](https://dev.to/ehtesham_ali_abc367f36a5b/how-to-build-a-vector-database-with-sqlite-in-laravel-for-llms-in-windows-59g0)
+- [TailAdmin 2.0 – A Major Upgrade with 400+ Components &amp; Enhanced UI! 🚀](https://dev.to/tailwindcss/tailadmin-20-a-major-upgrade-with-400-components-enhanced-ui-4eh6)
+- [The art of creating an effective application security program: Strategies, Tips and tools for optimal End-to-End Results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-tools-for-5a5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
