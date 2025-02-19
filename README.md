@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity with Nodindow](https://dev.to/thalysoncamposth/boost-your-productivity-with-nodindow-a9b)
-- [Brand strategy and rebranding for growth-focused companies](https://dev.to/jaymi_tripp/brand-strategy-and-rebranding-for-growth-focused-companies-1g5j)
-- [I created a CLI-Music Player in Rust!](https://dev.to/paradoxy/i-created-a-cli-music-player-in-rust-5a3f)
-- [CREATING A STORAGE ACCOUNT ON AZURE PORTAL](https://dev.to/sheyitex/creating-a-storage-account-on-azure-portal-4p51)
-- [Create React App is Dead. What does it mean for you?](https://dev.to/shrutikapoor08/create-react-app-is-dead-what-does-it-mean-for-you-4gp)
+- [Exaone3.5:2.4b on Android](https://dev.to/sargejoseph/exaone3524b-on-android-3ab7)
+- [animating gravitation physics](https://dev.to/ezpieco/animating-gravitation-physics-4pfp)
+- [&quot;Navigating Human-AI Cooperation: The Ethics of Relational Norms&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/navigating-human-ai-cooperation-the-ethics-of-relational-norms-51jb)
+- [Daily JavaScript Challenge #JS-106: Check for Palindromic Permutations](https://dev.to/dpc/daily-javascript-challenge-js-106-check-for-palindromic-permutations-1lcf)
+- [Day 1103 : Here](https://dev.to/dwane/day-1103-here-c18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
