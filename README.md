@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check for null, undefined, or empty values in JavaScript](https://dev.to/logrocket/how-to-check-for-null-undefined-or-empty-values-in-javascript-5d0p)
-- [Grok 3 beta is the Best AI in the World! My Experience from Building Day Counter - World&#39;s 1st App Built with Grok 3 beta.](https://dev.to/liborbenes/grok-3-beta-is-the-best-ai-in-the-world-my-experience-from-building-day-counter-worlds-1st-app-1bm8)
-- [Building Good Habits for a Successful Developer Career](https://dev.to/igorfragadev/building-good-habits-for-a-successful-developer-career-30a7)
-- [Gray Box Testing – Bridging the Gap Between Black and White Box Testing](https://dev.to/keploy/gray-box-testing-bridging-the-gap-between-black-and-white-box-testing-1959)
-- [HN: cypher queries tips &lpar;Graph dbms&rpar;](https://dev.to/falkordb/hn-cypher-queries-tips-graph-dbms-hck)
+- [Reducing Insurance Product Development Time and Cost](https://dev.to/openkoda/reducing-insurance-product-development-time-and-cost-54mg)
+- [CS Wondr BNI 0821-4448-0002](https://dev.to/ayushsinghgithub/cs-wondr-bni-0821-4448-0002-bgn)
+- [Migrating From PostgreSQL to MongoDB in a .NET EF Core Application](https://dev.to/mongodb/migrating-from-postgresql-to-mongodb-in-a-net-ef-core-application-4h9n)
+- [Introducing Rails Vault: simple to add settings to any ActiveRecord model](https://dev.to/railsdesigner/introducing-rails-vault-simple-to-add-settings-to-any-activerecord-model-34f7)
+- [5 Insights Into How Generative AI is Reshaping the Future of Open Banking](https://dev.to/spilkadi/5-insights-into-how-generative-ai-is-reshaping-the-future-of-open-banking-46j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
