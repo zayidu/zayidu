@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Google Alternatives every DEV must use in 2025 🤯💥](https://dev.to/ingosteinke/25-google-alternatives-every-dev-must-use-in-2025-20n2)
-- [The Role of DAOs in Blockchain Game Development: Shaping the Future of Decentralized Game Governance](https://dev.to/raiden_studio/the-role-of-daos-in-blockchain-game-development-shaping-the-future-of-decentralized-game-3mfj)
-- [🚀 Your Daily Crypto Job Digest For 20 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-february-1lf0)
-- [Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 2](https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0)
-- [How to Create Advanced Nested Flex and Grid Layouts with Tailwind CSS](https://dev.to/rowsanali/how-to-create-advanced-nested-flex-and-grid-layouts-with-tailwind-css-58en)
+- [Free Erasorio Alternative for Collaborative Design - Discover SketchFlow: The Ultimate](https://dev.to/sh20raj2/free-erasorio-alternative-for-collaborative-design-discover-sketchflow-the-ultimate-53k)
+- [Automating Software Testing: Everything You Need to Know](https://dev.to/asher_hartwell_f827d28b67/automating-software-testing-everything-you-need-to-know-5fl4)
+- [How To Build a Machine Learning Model For Heart Failure Prediction From Scratch](https://dev.to/luthfisauqi17/how-to-build-a-machine-learning-model-for-heart-failure-prediction-from-scratch-3n2h)
+- [Webpack: Supercharge Your JavaScript Projects!](https://dev.to/githubopensource/webpack-supercharge-your-javascript-projects-5190)
+- [Unlocking the Potential: Open Source Revenue Generation](https://dev.to/vitalisorenko/unlocking-the-potential-open-source-revenue-generation-2744)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
