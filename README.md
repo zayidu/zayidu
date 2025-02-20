@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Project Listing Hack: Skyrocket Your Product Launch Overnight!](https://dev.to/resource_bunk_1077cab07da/ultimate-project-listing-hack-skyrocket-your-product-launch-overnight-3egm)
-- [Improve React Native Android Startup Time by Disabling `.bundle` Compression](https://dev.to/ajmal_hasan/boosting-react-native-android-startup-time-by-disabling-bundle-compression-28ip)
-- [Learn Faster, Code Smarter! 25+ Programming Resources to Boost Your Skills!](https://dev.to/dev-resources/learn-faster-code-smarter-25-programming-resources-to-boost-your-skills-54k8)
-- [Stop Over-Engineering AI Apps: The Case for Boring Technologies](https://dev.to/timescale/stop-over-engineering-ai-apps-the-case-for-boring-technologies-578m)
-- [HashiCorp Vault](https://dev.to/aws-builders/hashicorp-vault-eb)
+- [Monitoring Cost and Consumption of AI APIs and Apps](https://dev.to/dylan_frankcom_5d6a31e123/monitoring-cost-and-consumption-of-ai-apis-and-apps-56gb)
+- [I Built ExtraTools.dev – Privacy-Focused Dev Tools That Run 100% in Your Browser 🚀](https://dev.to/txordy/i-built-extratoolsdev-privacy-focused-dev-tools-that-run-100-in-your-browser-2b7j)
+- [My first CLI tool to make git commits faster](https://dev.to/el1fe/my-first-cli-tool-to-make-git-commits-faster-38eb)
+- [Developers, You’re Missing Out on These 35+ Open-Source Gems!](https://dev.to/gittech/developers-youre-missing-out-on-these-35-open-source-gems-33b)
+- [DevOps Roadmap for Beginners: A Step-by-Step Guide to Master DevOps](https://dev.to/yash_sonawane25/devops-roadmap-for-beginners-a-step-by-step-guide-to-master-devops-2j0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
