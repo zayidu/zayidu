@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Technology: Revolutionizing Industries Through Decentralization](https://dev.to/currishine/blockchain-technology-revolutionizing-industries-through-decentralization-3aid)
-- [How I Helped a Startup Automate Cloud Infrastructure in Minutes](https://dev.to/thecolossus/how-i-helped-a-startup-automate-cloud-infrastructure-in-minutes-430p)
-- [Guide: Monetize Your IoT Devices](https://dev.to/aydo_ai/guide-monetize-your-iot-devices-hne)
-- [Product Oriented Software Engineering: A Game-Changer for Product Managers and Product Leaders](https://dev.to/edensoftlabs/product-oriented-software-engineering-a-game-changer-for-product-managers-and-product-leaders-1407)
-- [[Boost]](https://dev.to/tatiquebralayout/-4n6k)
+- [BLOWAM &lpar;Demo version 0.0&rpar;](https://dev.to/blowam/blowam-demo-version-00-4an7)
+- [📈 Will $BTC Follow S&amp;P 500 to ATH as Fed Ends Tightening?](https://dev.to/sergi_web3/will-btc-follow-sp-500-to-ath-as-fed-ends-tightening-1hk4)
+- [From Code to Collaboration: How AI Assistants are Redefining the Developer Experience 🤖🚀](https://dev.to/richa_ma_469e0d43de4be15b/from-code-to-collaboration-how-ai-assistants-are-redefining-the-developer-experience-5caf)
+- [## Master Django Redirects in Under 3 Minutes 🚀](https://dev.to/ebereplenty/-master-django-redirects-in-under-3-minutes-4f6)
+- [My Journey Into Game Development – Building My First Game on CodePen!](https://dev.to/blowam/my-journey-into-game-development-building-my-first-game-on-codepen-1il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
