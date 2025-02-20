@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating a PDF with Express &amp; Node.js 📄🚀](https://dev.to/kelvincode1234/generating-a-pdf-with-express-nodejs-nn)
-- [How Crypto Exchanges Work: The Hidden Players Keeping the Market Moving](https://dev.to/endeo/how-crypto-exchanges-work-the-hidden-players-keeping-the-market-moving-lab)
-- [Breaking Down tanh into Its Constituent Operations &lpar;As Explained By Karpathy&rpar;](https://dev.to/shrsv/breaking-down-tanh-into-its-constituent-operations-as-explained-by-karpathy-1hde)
-- [Shift-Left Testing: The New Development Mantra for Modern Software Excellence](https://dev.to/genesis_technologies/shift-left-testing-the-new-development-mantra-for-modern-software-excellence-1748)
-- [🐛 My Code Works… I Have No Idea Why 🤷‍♂️](https://dev.to/robin-ivi/my-code-works-i-have-no-idea-why-4kjb)
+- [Making basicMarquee-Modifier More Accessible](https://dev.to/eevajonnapanula/making-basicmarquee-modifier-more-accessible-1f5i)
+- [No worries, I&#39;m still here 🙋‍♂️](https://dev.to/balastrong/no-worries-im-still-here-4fbn)
+- [AI-Generated UI Components: The Future of Frontend Development](https://dev.to/mukhilpadmanabhan/ai-generated-ui-components-the-future-of-frontend-development-5fba)
+- [Learn SSH with Docker](https://dev.to/ilyasa1211/learn-ssh-with-docker-5e1a)
+- [Build personal blog easy with 11ty.js](https://dev.to/heterl0/build-personal-blog-easy-with-11tyjs-388o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
