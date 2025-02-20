@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
-- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
-- [Our Project Got 100 First Stars on Github🔥](https://dev.to/hmpljs/our-project-got-100-first-stars-on-github-50jf)
-- [How to select oauth scopes in next-auth / authjs](https://dev.to/tigawanna/how-to-select-oauth-scopes-in-next-auth-authjs-18kd)
-- [EF Core Doesn&#39;t Support Some SQL Server Functions!](https://dev.to/girgisadel/ef-core-doesnt-support-some-sql-server-functions-4ddc)
+- [Ultimate Project Listing Hack: Skyrocket Your Product Launch Overnight!](https://dev.to/resource_bunk_1077cab07da/ultimate-project-listing-hack-skyrocket-your-product-launch-overnight-3egm)
+- [Improve React Native Android Startup Time by Disabling `.bundle` Compression](https://dev.to/ajmal_hasan/boosting-react-native-android-startup-time-by-disabling-bundle-compression-28ip)
+- [Learn Faster, Code Smarter! 25+ Programming Resources to Boost Your Skills!](https://dev.to/dev-resources/learn-faster-code-smarter-25-programming-resources-to-boost-your-skills-54k8)
+- [Stop Over-Engineering AI Apps: The Case for Boring Technologies](https://dev.to/timescale/stop-over-engineering-ai-apps-the-case-for-boring-technologies-578m)
+- [HashiCorp Vault](https://dev.to/aws-builders/hashicorp-vault-eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
