@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
+- [Analyzing Lotto with Data: Can Machine Learning Provide the Answer?](https://dev.to/freyasky/analyzing-lotto-with-data-can-machine-learning-provide-the-answer-c6k)
+- [Building a Data Ingestion Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/building-a-data-ingestion-solution-for-amazon-bedrock-knowledge-bases-4on4)
+- [Step-by-Step Process for Migrating from Umbraco to WordPress](https://dev.to/johnsmith244303/step-by-step-process-for-migrating-from-umbraco-to-wordpress-38p0)
 - [The two versions of Parquet](https://dev.to/jerolba/the-two-versions-of-parquet-16il)
-- [Essential System Design Concepts for Beginners](https://dev.to/rajsingh11/essential-system-design-concepts-for-beginners-32fj)
-- [Practical Application of Speech Synthesis and Model Optimization in the Intelligent Voice Assistant of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-speech-synthesis-and-model-optimization-in-the-intelligent-voice-assistant-6ld)
-- [Unlocking Potential: The Benefits of Open Source Developer Patronage](https://dev.to/jennythomas498/unlocking-potential-the-benefits-of-open-source-developer-patronage-1h05)
-- [Angular - Blocked request Vite issue](https://dev.to/blessina_lindon_45694ae48/angular-blocked-request-vite-issue-4ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
