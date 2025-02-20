@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BLOWAM &lpar;Demo version 0.0&rpar;](https://dev.to/blowam/blowam-demo-version-00-4an7)
-- [📈 Will $BTC Follow S&amp;P 500 to ATH as Fed Ends Tightening?](https://dev.to/sergi_web3/will-btc-follow-sp-500-to-ath-as-fed-ends-tightening-1hk4)
-- [From Code to Collaboration: How AI Assistants are Redefining the Developer Experience 🤖🚀](https://dev.to/richa_ma_469e0d43de4be15b/from-code-to-collaboration-how-ai-assistants-are-redefining-the-developer-experience-5caf)
-- [## Master Django Redirects in Under 3 Minutes 🚀](https://dev.to/ebereplenty/-master-django-redirects-in-under-3-minutes-4f6)
-- [My Journey Into Game Development – Building My First Game on CodePen!](https://dev.to/blowam/my-journey-into-game-development-building-my-first-game-on-codepen-1il)
+- [How to connect Git to GitHub](https://dev.to/ifeanyichima/how-to-connect-git-to-github-2efc)
+- [Python 3.13 No-GIL: What You Need to Know](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i)
+- [Say mooo in Every Programming Language with Cowsay!](https://dev.to/javonet/say-mooo-in-every-programming-language-with-cowsay-1411)
+- [Native Teams Review](https://dev.to/yarynakobryn/native-teams-review-41ko)
+- [Event-Driven Αρχιτεκτονική με Azure Functions: Choreography &amp; Orchestration σε Χρηματοοικονομικές Διεργασίες](https://dev.to/__b63657/event-driven-arkhitektonike-me-azure-functions-choreography-orchestration-se-khrematooikonomikes-5a98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
