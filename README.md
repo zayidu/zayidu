@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Binary File Handling in C++: A Beginner’s Guide](https://dev.to/alen_pythonista_bb/binary-file-handling-in-c-a-beginners-guide-148o)
-- [Building Scalable Microservices with NestJS](https://dev.to/mouloud_hasrane_c99b0f49a/building-scalable-microservices-with-nestjs-5d16)
-- [Own Your Career: 5 Lessons to Drive Your Promotions](https://dev.to/prpatel05/own-your-career-5-lessons-to-drive-your-promotions-1hlp)
-- [AI for Peeps Scared of AI](https://dev.to/codingcatdev/ai-for-peeps-scared-of-ai-4b1)
-- [&quot;Unlocking Multimodal AI: Innovations in VLMs and Defense Mechanisms&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multimodal-ai-innovations-in-vlms-and-defense-mechanisms-8k2)
+- [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
+- [🤖 Open-CUAK: “OpenAI Operator” Now Goes Open Source! 👥](https://dev.to/key_lu_3fba4ab5cd50d0a933/open-cuak-openai-operator-now-goes-open-source-1cch)
+- [Migration of nextjs 14 to next 15](https://dev.to/caresle/migration-of-nextjs-14-to-next-15-ij2)
+- [Understanding SSH Socket-Based Activation in Ubuntu 24.04](https://dev.to/saishanmukkha/understanding-ssh-socket-based-activation-in-ubuntu-2404-28m)
+- [React Hooks Tutorial: A Beginner’s Guide to Modern React Development](https://dev.to/imyusufakhtar/react-hooks-tutorial-a-beginners-guide-to-modern-react-development-1ng2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
