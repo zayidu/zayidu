@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Erasorio Alternative for Collaborative Design - Discover SketchFlow: The Ultimate](https://dev.to/sh20raj2/free-erasorio-alternative-for-collaborative-design-discover-sketchflow-the-ultimate-53k)
-- [Automating Software Testing: Everything You Need to Know](https://dev.to/asher_hartwell_f827d28b67/automating-software-testing-everything-you-need-to-know-5fl4)
-- [How To Build a Machine Learning Model For Heart Failure Prediction From Scratch](https://dev.to/luthfisauqi17/how-to-build-a-machine-learning-model-for-heart-failure-prediction-from-scratch-3n2h)
-- [Webpack: Supercharge Your JavaScript Projects!](https://dev.to/githubopensource/webpack-supercharge-your-javascript-projects-5190)
-- [Unlocking the Potential: Open Source Revenue Generation](https://dev.to/vitalisorenko/unlocking-the-potential-open-source-revenue-generation-2744)
+- [How to check for null, undefined, or empty values in JavaScript](https://dev.to/logrocket/how-to-check-for-null-undefined-or-empty-values-in-javascript-5d0p)
+- [Grok 3 beta is the Best AI in the World! My Experience from Building Day Counter - World&#39;s 1st App Built with Grok 3 beta.](https://dev.to/liborbenes/grok-3-beta-is-the-best-ai-in-the-world-my-experience-from-building-day-counter-worlds-1st-app-1bm8)
+- [Building Good Habits for a Successful Developer Career](https://dev.to/igorfragadev/building-good-habits-for-a-successful-developer-career-30a7)
+- [Gray Box Testing – Bridging the Gap Between Black and White Box Testing](https://dev.to/keploy/gray-box-testing-bridging-the-gap-between-black-and-white-box-testing-1959)
+- [HN: cypher queries tips &lpar;Graph dbms&rpar;](https://dev.to/falkordb/hn-cypher-queries-tips-graph-dbms-hck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
