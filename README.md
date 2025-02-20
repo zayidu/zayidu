@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Phone Number Validation 📞 APIs for Developers: Features, Integration, and Pricing Guide ⚡](https://dev.to/stephaniedsouza/top-5-phone-number-validation-apis-for-developers-features-integration-and-pricing-guide-hbj)
-- [Why Learning Salesforce Marketing Cloud is Essential for IT Industries and Big Tech Companies](https://dev.to/markwayne/why-learning-salesforce-marketing-cloud-is-essential-for-it-industries-and-big-tech-companies-2028)
-- [Vulnerability Exploitability eXchange &lpar;VEX&rpar;: The Standard Revolutionizing Security Operations](https://dev.to/xshuden/vulnerability-exploitability-exchange-vex-the-standard-revolutionizing-security-operations-1a56)
-- [How to Debug the Grok, DeepSeek, OpenAI, and Other AI APIs: A Developer&#39;s Guide](https://dev.to/auden/how-to-debug-the-grok-deepseek-openai-and-other-ai-apis-a-developers-guide-424g)
-- [Best Free Currency Converter APIs for Developers: Features &amp; Integration Guide](https://dev.to/johnmiller/best-free-currency-converter-apis-for-developers-features-integration-guide-1kpc)
+- [Generating a PDF with Express &amp; Node.js 📄🚀](https://dev.to/kelvincode1234/generating-a-pdf-with-express-nodejs-nn)
+- [How Crypto Exchanges Work: The Hidden Players Keeping the Market Moving](https://dev.to/endeo/how-crypto-exchanges-work-the-hidden-players-keeping-the-market-moving-lab)
+- [Breaking Down tanh into Its Constituent Operations &lpar;As Explained By Karpathy&rpar;](https://dev.to/shrsv/breaking-down-tanh-into-its-constituent-operations-as-explained-by-karpathy-1hde)
+- [Shift-Left Testing: The New Development Mantra for Modern Software Excellence](https://dev.to/genesis_technologies/shift-left-testing-the-new-development-mantra-for-modern-software-excellence-1748)
+- [🐛 My Code Works… I Have No Idea Why 🤷‍♂️](https://dev.to/robin-ivi/my-code-works-i-have-no-idea-why-4kjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
