@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect Git to GitHub](https://dev.to/ifeanyichima/how-to-connect-git-to-github-2efc)
-- [Python 3.13 No-GIL: What You Need to Know](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i)
-- [Say mooo in Every Programming Language with Cowsay!](https://dev.to/javonet/say-mooo-in-every-programming-language-with-cowsay-1411)
-- [Native Teams Review](https://dev.to/yarynakobryn/native-teams-review-41ko)
-- [Event-Driven Αρχιτεκτονική με Azure Functions: Choreography &amp; Orchestration σε Χρηματοοικονομικές Διεργασίες](https://dev.to/__b63657/event-driven-arkhitektonike-me-azure-functions-choreography-orchestration-se-khrematooikonomikes-5a98)
+- [20 Scary Programming Theories You Should Know](https://dev.to/hi1talib1world/20-scary-programming-theories-you-should-know-3nn3)
+- [What the Heck is HTMX?](https://dev.to/gervaisamoah/what-the-heck-is-htmx-580n)
+- [API Testing for DummyJSON Endpoints using Postman](https://dev.to/loveline/api-testing-for-dummyjson-endpoints-using-postman-41in)
+- [How Ashraful Islam Built an SEO-Friendly Portfolio Using Next.js &amp; Tailwind CSS](https://dev.to/theashrafislam/how-ashraful-islam-built-an-seo-friendly-portfolio-using-nextjs-tailwind-css-3i3l)
+- [Eπιλογή μεταξύ Repository Pattern και Helper Static Class](https://dev.to/__b63657/epiloge-metaxu-repository-pattern-kai-helper-static-class-5d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
