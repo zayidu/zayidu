@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making basicMarquee-Modifier More Accessible](https://dev.to/eevajonnapanula/making-basicmarquee-modifier-more-accessible-1f5i)
-- [No worries, I&#39;m still here 🙋‍♂️](https://dev.to/balastrong/no-worries-im-still-here-4fbn)
-- [AI-Generated UI Components: The Future of Frontend Development](https://dev.to/mukhilpadmanabhan/ai-generated-ui-components-the-future-of-frontend-development-5fba)
-- [Learn SSH with Docker](https://dev.to/ilyasa1211/learn-ssh-with-docker-5e1a)
-- [Build personal blog easy with 11ty.js](https://dev.to/heterl0/build-personal-blog-easy-with-11tyjs-388o)
+- [25 Google Alternatives every DEV must use in 2025 🤯💥](https://dev.to/ingosteinke/25-google-alternatives-every-dev-must-use-in-2025-20n2)
+- [The Role of DAOs in Blockchain Game Development: Shaping the Future of Decentralized Game Governance](https://dev.to/raiden_studio/the-role-of-daos-in-blockchain-game-development-shaping-the-future-of-decentralized-game-3mfj)
+- [🚀 Your Daily Crypto Job Digest For 20 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-february-1lf0)
+- [Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 2](https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0)
+- [How to Create Advanced Nested Flex and Grid Layouts with Tailwind CSS](https://dev.to/rowsanali/how-to-create-advanced-nested-flex-and-grid-layouts-with-tailwind-css-58en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
