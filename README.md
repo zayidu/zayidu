@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Cost and Consumption of AI APIs and Apps](https://dev.to/dylan_frankcom_5d6a31e123/monitoring-cost-and-consumption-of-ai-apis-and-apps-56gb)
-- [I Built ExtraTools.dev – Privacy-Focused Dev Tools That Run 100% in Your Browser 🚀](https://dev.to/txordy/i-built-extratoolsdev-privacy-focused-dev-tools-that-run-100-in-your-browser-2b7j)
-- [My first CLI tool to make git commits faster](https://dev.to/el1fe/my-first-cli-tool-to-make-git-commits-faster-38eb)
-- [Developers, You’re Missing Out on These 35+ Open-Source Gems!](https://dev.to/gittech/developers-youre-missing-out-on-these-35-open-source-gems-33b)
-- [DevOps Roadmap for Beginners: A Step-by-Step Guide to Master DevOps](https://dev.to/yash_sonawane25/devops-roadmap-for-beginners-a-step-by-step-guide-to-master-devops-2j0n)
+- [Blockchain Technology: Revolutionizing Industries Through Decentralization](https://dev.to/currishine/blockchain-technology-revolutionizing-industries-through-decentralization-3aid)
+- [How I Helped a Startup Automate Cloud Infrastructure in Minutes](https://dev.to/thecolossus/how-i-helped-a-startup-automate-cloud-infrastructure-in-minutes-430p)
+- [Guide: Monetize Your IoT Devices](https://dev.to/aydo_ai/guide-monetize-your-iot-devices-hne)
+- [Product Oriented Software Engineering: A Game-Changer for Product Managers and Product Leaders](https://dev.to/edensoftlabs/product-oriented-software-engineering-a-game-changer-for-product-managers-and-product-leaders-1407)
+- [[Boost]](https://dev.to/tatiquebralayout/-4n6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
