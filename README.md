@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker : Release Notes for v1.12.0](https://dev.to/apimaker/api-maker-release-notes-for-v1120-aoe)
+- [Untitled](https://dev.to/vishu_sharma_9f72e1a985f2/untitled-l17)
 - [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
 - [🤖 Open-CUAK: “OpenAI Operator” Now Goes Open Source! 👥](https://dev.to/key_lu_3fba4ab5cd50d0a933/open-cuak-openai-operator-now-goes-open-source-1cch)
 - [Migration of nextjs 14 to next 15](https://dev.to/caresle/migration-of-nextjs-14-to-next-15-ij2)
-- [Understanding SSH Socket-Based Activation in Ubuntu 24.04](https://dev.to/saishanmukkha/understanding-ssh-socket-based-activation-in-ubuntu-2404-28m)
-- [React Hooks Tutorial: A Beginner’s Guide to Modern React Development](https://dev.to/imyusufakhtar/react-hooks-tutorial-a-beginners-guide-to-modern-react-development-1ng2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
