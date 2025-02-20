@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
-- [Analyzing Lotto with Data: Can Machine Learning Provide the Answer?](https://dev.to/freyasky/analyzing-lotto-with-data-can-machine-learning-provide-the-answer-c6k)
-- [Building a Data Ingestion Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/building-a-data-ingestion-solution-for-amazon-bedrock-knowledge-bases-4on4)
-- [Step-by-Step Process for Migrating from Umbraco to WordPress](https://dev.to/johnsmith244303/step-by-step-process-for-migrating-from-umbraco-to-wordpress-38p0)
-- [The two versions of Parquet](https://dev.to/jerolba/the-two-versions-of-parquet-16il)
+- [Dispatchers e Contextos no Kotlin: Escolhendo o Lugar Certo para Suas Corrotinas](https://dev.to/comunidadedevspace/dispatchers-e-contextos-no-kotlin-escolhendo-o-lugar-certo-para-suas-corrotinas-3nh2)
+- [Simplified Guide to SQL DELETE Queries](https://dev.to/dbvismarketing/simplified-guide-to-sql-delete-queries-1o79)
+- [Dispatchers and Contexts in Kotlin: Choosing the Right Place for Your Coroutines](https://dev.to/comunidadedevspace/dispatchers-and-contexts-in-kotlin-choosing-the-right-place-for-your-coroutines-oah)
+- [Ursa for Avalonia is now a .NET Foundation project](https://dev.to/irihi/ursa-for-avalonia-is-now-a-net-foundation-project-2b3g)
+- [Apache httpd-2.4 - Secured Configuration on Fedora](https://dev.to/lancemk/apache-httpd-24-secured-configuration-on-fedora-3f4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
