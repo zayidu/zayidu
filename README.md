@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing Insurance Product Development Time and Cost](https://dev.to/openkoda/reducing-insurance-product-development-time-and-cost-54mg)
-- [CS Wondr BNI 0821-4448-0002](https://dev.to/ayushsinghgithub/cs-wondr-bni-0821-4448-0002-bgn)
-- [Migrating From PostgreSQL to MongoDB in a .NET EF Core Application](https://dev.to/mongodb/migrating-from-postgresql-to-mongodb-in-a-net-ef-core-application-4h9n)
-- [Introducing Rails Vault: simple to add settings to any ActiveRecord model](https://dev.to/railsdesigner/introducing-rails-vault-simple-to-add-settings-to-any-activerecord-model-34f7)
-- [5 Insights Into How Generative AI is Reshaping the Future of Open Banking](https://dev.to/spilkadi/5-insights-into-how-generative-ai-is-reshaping-the-future-of-open-banking-46j)
+- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
+- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
+- [Our Project Got 100 First Stars on Github🔥](https://dev.to/hmpljs/our-project-got-100-first-stars-on-github-50jf)
+- [How to select oauth scopes in next-auth / authjs](https://dev.to/tigawanna/how-to-select-oauth-scopes-in-next-auth-authjs-18kd)
+- [EF Core Doesn&#39;t Support Some SQL Server Functions!](https://dev.to/girgisadel/ef-core-doesnt-support-some-sql-server-functions-4ddc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
