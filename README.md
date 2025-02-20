@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dispatchers e Contextos no Kotlin: Escolhendo o Lugar Certo para Suas Corrotinas](https://dev.to/comunidadedevspace/dispatchers-e-contextos-no-kotlin-escolhendo-o-lugar-certo-para-suas-corrotinas-3nh2)
-- [Simplified Guide to SQL DELETE Queries](https://dev.to/dbvismarketing/simplified-guide-to-sql-delete-queries-1o79)
-- [Dispatchers and Contexts in Kotlin: Choosing the Right Place for Your Coroutines](https://dev.to/comunidadedevspace/dispatchers-and-contexts-in-kotlin-choosing-the-right-place-for-your-coroutines-oah)
-- [Ursa for Avalonia is now a .NET Foundation project](https://dev.to/irihi/ursa-for-avalonia-is-now-a-net-foundation-project-2b3g)
-- [Apache httpd-2.4 - Secured Configuration on Fedora](https://dev.to/lancemk/apache-httpd-24-secured-configuration-on-fedora-3f4f)
+- [How to Protect Laravel from WebSocket Vulnerabilities](https://dev.to/pentest_testing_corp/how-to-protect-laravel-from-websocket-vulnerabilities-52e)
+- [Pull Request testing on Kubernetes: working with GitHub Actions and GKE](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-working-with-github-actions-and-gke-1d91)
+- [Part 1: Detecting Alzheimer’s with EEG and Deep Learning – Theory, Motivation, and Preprocessing](https://dev.to/vivekvohra/part-1-detecting-alzheimers-with-eeg-and-deep-learning-theory-motivation-and-preprocessing-1hd1)
+- [How AI Helps Reduce False Positives in Cyber Threat Detection?](https://dev.to/lokeshjoshi/how-ai-helps-reduce-false-positives-in-cyber-threat-detection-epn)
+- [What are Topics and Partitions in Kafka?](https://dev.to/clasnake/what-are-topics-and-partitions-in-kafka-31i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
