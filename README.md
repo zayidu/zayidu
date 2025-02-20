@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Lambda Monitoring on AWS](https://dev.to/mtrentz/real-time-lambda-monitoring-on-aws-3p5j)
-- [Laravel API Docs: A Guide to L5 Swagger](https://dev.to/aleson-franca/laravel-api-docs-a-guide-to-l5-swagger-333)
-- [COBOL, Dates, May 20, 1875, and Disinformation](https://dev.to/mdchaney/cobol-dates-may-20-1875-and-disinformation-5ggh)
-- [Optimizing IoT Data Management for Business Success](https://dev.to/ostapzabolotnyy/optimizing-iot-data-management-for-business-success-5dji)
-- [Easy Bug: Open-Redirect on OAuth 2.0 redirect_uri param](https://dev.to/blue_byte/easy-bug-open-redirect-on-oauth-20-redirecturi-param-2h8f)
+- [Binary File Handling in C++: A Beginner’s Guide](https://dev.to/alen_pythonista_bb/binary-file-handling-in-c-a-beginners-guide-148o)
+- [Building Scalable Microservices with NestJS](https://dev.to/mouloud_hasrane_c99b0f49a/building-scalable-microservices-with-nestjs-5d16)
+- [Own Your Career: 5 Lessons to Drive Your Promotions](https://dev.to/prpatel05/own-your-career-5-lessons-to-drive-your-promotions-1hlp)
+- [AI for Peeps Scared of AI](https://dev.to/codingcatdev/ai-for-peeps-scared-of-ai-4b1)
+- [&quot;Unlocking Multimodal AI: Innovations in VLMs and Defense Mechanisms&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multimodal-ai-innovations-in-vlms-and-defense-mechanisms-8k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
