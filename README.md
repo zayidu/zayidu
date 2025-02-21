@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know](https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl)
-- [PEP and PDP for Secure Authorization with AVP](https://dev.to/aws-heroes/pep-and-pdp-for-secure-authorization-with-avp-290c)
-- [What&#39;s your opinion on &quot;One PR per Day Rule&quot; at workplace?](https://dev.to/gleuzio/whats-your-opinion-on-one-pr-per-day-rule-at-workplace-158)
-- [State Management with Pinia vs Vuex](https://dev.to/robin-ivi/state-management-with-pinia-vs-vuex-4mh)
-- [Never Get Caught in the Rain Again: The Next Level of Updates on Weather on An Android Lock Screen](https://dev.to/prajakta_gawande_9485a4fd/never-get-caught-in-the-rain-again-the-next-level-of-updates-on-weather-on-an-android-lock-screen-2ag6)
+- [Don&#39;t use React imports like this. Use Wrapper Pattern instead](https://dev.to/perisicnikola37/dont-use-react-imports-like-this-use-wrapper-pattern-instead-124p)
+- [Advanced Compilation: A Formal Analysis of a JavaScript-Based Compiler](https://dev.to/bravim_purohit_/advanced-compilation-a-formal-analysis-of-a-javascript-based-compiler-338f)
+- [AWS Certified Security – Specialty &lpar;SCS-C02&rpar;受験体験記](https://dev.to/aws-builders/aws-certified-security-specialty-scs-c02shou-yan-ti-yan-ji-50ka)
+- [接口调试中的 WebSocket 支持：Apipost 与 Apifox 的实战差异](https://dev.to/__c46080eebadb49a9dce3/jie-kou-diao-shi-zhong-de-websocket-zhi-chi-apipost-yu-apifox-de-shi-zhan-chai-yi-3e7j)
+- [DevOps Handbook: Essential Practices for Efficient CI/CD Pipeline Configuration](https://dev.to/phuong_nguyen_rosa/devops-handbook-essential-practices-for-efficient-cicd-pipeline-configuration-4c0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
