@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Scary Programming Theories You Should Know](https://dev.to/hi1talib1world/20-scary-programming-theories-you-should-know-3nn3)
-- [What the Heck is HTMX?](https://dev.to/gervaisamoah/what-the-heck-is-htmx-580n)
-- [API Testing for DummyJSON Endpoints using Postman](https://dev.to/loveline/api-testing-for-dummyjson-endpoints-using-postman-41in)
-- [How Ashraful Islam Built an SEO-Friendly Portfolio Using Next.js &amp; Tailwind CSS](https://dev.to/theashrafislam/how-ashraful-islam-built-an-seo-friendly-portfolio-using-nextjs-tailwind-css-3i3l)
-- [Eπιλογή μεταξύ Repository Pattern και Helper Static Class](https://dev.to/__b63657/epiloge-metaxu-repository-pattern-kai-helper-static-class-5d8)
+- [How to make a Twitch Chat Bot in 2025 using Javascript and Node &lpar;OAuth Instructions Included&rpar;](https://dev.to/reithger/how-to-make-a-twitch-chat-bot-in-2025-using-javascript-and-node-3ao3)
+- [Optimizing Projects With Lombok](https://dev.to/arthur_gif/optimizing-projects-with-lombok-2gfb)
+- [&quot;Mastering Fault Localization: The Future of Bug Detection Techniques&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-fault-localization-the-future-of-bug-detection-techniques-m47)
+- [LivinGrimoire Experiment: Showcasing Key Abilities](https://dev.to/owly/livingrimoire-experiment-showcasing-key-abilities-4jii)
+- [Desarrollo de Ecommerce con Django &lpar;parte 5&rpar;](https://dev.to/villacisg93/desarrollo-de-ecommerce-con-django-parte-5-o3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
