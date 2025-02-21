@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancements in Age and Gender Recognition Using Deep Learning Techniques](https://dev.to/faceplugin/advancements-in-age-and-gender-recognition-using-deep-learning-techniques-5mn)
-- [From Dockerfile to Deployment: A Simple Guide for New Developers](https://dev.to/sir-j/from-dockerfile-to-deployment-a-simple-guide-for-new-developers-2mjh)
-- [swapping in array](https://dev.to/neelakandan_ravi_2000/swapping-in-array-20a5)
-- [🚀 Your Daily Crypto Job Digest For 21 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-february-477)
-- [Arbitrum and Ethereum Gas Prices: A Game-Changer in the Blockchain Landscape](https://dev.to/bobcars/arbitrum-and-ethereum-gas-prices-a-game-changer-in-the-blockchain-landscape-35pj)
+- [How to Run DeepSeeker Locally: A Comprehensive Step-by-Step Guide](https://dev.to/fredabod/how-to-run-deepseeker-locally-a-comprehensive-step-by-step-guide-19cj)
+- [This Week In React #222 : CRA, React Router, captureOwnerStack, TanStack, CTRA, tRPC, Astro, Preact | RN 0.78, React 19...](https://dev.to/sebastienlorber/this-week-in-react-222-cra-react-router-captureownerstack-tanstack-ctra-trpc-astro-preact-3i92)
+- [How to build AI-Powered SaaS Platform with React, ShadCN, Appwrite &amp; Clerk](https://dev.to/codewithsadee/how-to-build-ai-powered-saas-platform-with-react-shadcn-appwrite-clerk-5adf)
+- [Generate Tailored Cover Letters with AI: A Step-by-Step Guide Using FastAPI and OpenAI](https://dev.to/resume-burger/generate-tailored-cover-letters-with-ai-a-step-by-step-guide-using-fastapi-and-openai-2584)
+- [I built an AI Agent that makes your project Responsive](https://dev.to/potpie/i-built-an-ai-agent-that-makes-your-project-responsive-10gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
