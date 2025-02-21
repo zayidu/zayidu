@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a pharma sales consultant? Definition, duties and responsibilities](https://dev.to/pharmacrm/what-is-a-pharma-sales-consultant-definition-duties-and-responsibilities-kb9)
-- [Implementing Advanced Data Governance in Hybrid and Multi-Cloud Environments](https://dev.to/flnzba/implementing-advanced-data-governance-in-hybrid-and-multi-cloud-environments-10nk)
-- [Migrating a Native App to React Native? Here’s How Expo Can Help](https://dev.to/pagepro_agency/migrating-a-native-app-to-react-native-heres-how-expo-can-help-42gc)
-- [The Power of CI/CD Deployment Tools: Streamlining Your Software Pipeline](https://dev.to/maynguyen2k/the-power-of-cicd-deployment-tools-streamlining-your-software-pipeline-52k4)
-- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-1ek8)
+- [How to Build a Fault-Tolerant Microservice for Payment Retries](https://dev.to/flutterwaveeng/how-to-build-a-fault-tolerant-microservice-for-payment-retries-5epg)
+- [Discover the Future of Tech: Trending GitHub Projects Revolutionizing AI and Development 🚀](https://dev.to/bruh_buh_f683772f171823db/discover-the-future-of-tech-trending-github-projects-revolutionizing-ai-and-development-57g8)
+- [Why Use HTML Invoice Templates](https://dev.to/sahil222/why-use-html-invoice-templates-2h83)
+- [HTML Sample Code for Beginners](https://dev.to/sahil222/html-sample-code-for-beginners-26ph)
+- [Understanding Application Modernization](https://dev.to/sifytechnologies888_sify_/understanding-application-modernization-3pe0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
