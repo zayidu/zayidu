@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 JavaScript Design Patterns Every Developer Should Know](https://dev.to/sovannaro/10-javascript-design-patterns-every-developer-should-know-n0m)
-- [🌟 Nullish Coalescing Operator &lpar;??&rpar; vs OR &lpar;||&rpar; in JavaScript : When to Use Each?](https://dev.to/dzungnt98/nullish-coalescing-operator-vs-or-in-javascript-when-to-use-each-1pi0)
-- [Blockchain and Proxy IP: Creating a More Secure and Decentralized Proxy Network](https://dev.to/98ip/blockchain-and-proxy-ip-creating-a-more-secure-and-decentralized-proxy-network-4il)
-- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-11a1)
-- [TIL: 3️⃣ ways I use Large Language Models to increase learning efficiency](https://dev.to/mrzaizai2k/til-3-ways-i-use-large-language-models-to-increase-learning-efficiency-6i5)
+- [Introducing DeepSearcher: A Local Open Source Deep Research](https://dev.to/zilliz/introducing-deepsearcher-a-local-open-source-deep-research-52kh)
+- [MCP602T-I/SN vs MCP602T-I/S: Which Op-Amp is Right for You?](https://dev.to/chris_a9e53bfb7fa5a9117b7/mcp602t-isn-vs-mcp602t-is-which-op-amp-is-right-for-you-1fb2)
+- [【Recognition】Excellent Security Researcher in January 2025 iiiiiinv](https://dev.to/tecno-security/recognition-excellent-security-researcher-in-january-2025-iiiiiinv-2ha1)
+- [What is System Testing?](https://dev.to/anil_csimplifyit_905c/what-is-system-testing-2m03)
+- [The Fastest Way to Find Valuable Domains Without Auctions or Bidding Wars](https://dev.to/alexdro/the-fastest-way-to-findvaluable-domains-withoutauctions-or-bidding-wars-80p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
