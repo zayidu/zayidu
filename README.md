@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reels UI in React Native 🎥 | Smooth Scrolling, Auto-Playing Videos &amp; More!](https://dev.to/amitkumar13/building-a-reels-ui-in-react-native-smooth-scrolling-auto-playing-videos-more-3i72)
-- [Free AI StartUp name generator](https://dev.to/shu1up/free-ai-startup-name-generator-nfj)
-- [GitHub Codespaces Alternatives – Part I](https://dev.to/bascodes/github-codespaces-alternatives-part-i-1g2d)
-- [Monorepo vs. Multirepo: Managing Codebases in Modular Architectures](https://dev.to/dayal/monorepo-vs-multirepo-managing-codebases-in-modular-architectures-f3b)
-- [Microservices and Microfrontends: Modularizing the Backend and Frontend](https://dev.to/dayal/microservices-and-microfrontends-modularizing-the-backend-and-frontend-131b)
+- [Looking to Contribute to Open Source, Preferably New Ideas](https://dev.to/mihastele/looking-to-contribute-to-open-source-preferably-new-ideas-b6)
+- [Installing Golang on Windows WSL/WSL2](https://dev.to/sonishivam10/installing-golang-on-windows-wslwsl2-3pn5)
+- [Wrote a new blog after a while!](https://dev.to/adityaoberai/-2iej)
+- [I need help deciding how to build my idea.](https://dev.to/james_courtney_5881df299c/i-need-help-deciding-how-to-build-my-idea-a2k)
+- [Intro to gRPC and Protocol Buffers using Go](https://dev.to/letsdotech/intro-to-grpc-and-protocol-buffers-using-go-4ckc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
