@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2pib)
-- [Complement a certain average value to ensure that the total sum remains unchanged — From SQL to SPL #3](https://dev.to/judith677/complement-a-certain-average-value-to-ensure-that-the-total-sum-remains-unchanged-from-sql-to-spl-4mn)
-- [What role does AI play in modern travel management systems?](https://dev.to/itour_operatorsoftware_8/what-role-does-ai-play-in-modern-travel-management-systems-6k8)
-- [Github Codespaces: A different way to code](https://dev.to/pooyan/github-codespaces-a-different-way-to-code-5af4)
-- [Continuous Integration &amp; Continuous Deployment &lpar;CI/CD&rpar; Pipeline: A Comprehensive Guide](https://dev.to/mazharhuda/continuous-integration-continuous-deployment-cicd-pipeline-a-comprehensive-guide-1e1n)
+- [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
+- [embedz - Easy, dependency free embeds for Svelte and Vue.](https://dev.to/greenestgoat/embedz-easy-dependency-free-embeds-for-svelte-and-vue-1a01)
+- [Scaling Rails Background Jobs in Kubernetes: From Queue to HPA](https://dev.to/shettigarc/scaling-rails-background-jobs-in-kubernetes-from-queue-to-hpa-4b7g)
+- [Seamless Kubernetes Multi-Tenancy with vCluster and a Shared Platform Stack](https://dev.to/gentele/seamless-kubernetes-multi-tenancy-with-vcluster-and-a-shared-platform-stack-1m4n)
+- [🚀 Day 2 of #100DaysOfCode – Mastering Binary Search in TypeScript](https://dev.to/xscoox_ca5e58c796032a1802/day-2-of-100daysofcode-mastering-binary-search-in-typescript-5260)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
