@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
-- [embedz - Easy, dependency free embeds for Svelte and Vue.](https://dev.to/greenestgoat/embedz-easy-dependency-free-embeds-for-svelte-and-vue-1a01)
-- [Scaling Rails Background Jobs in Kubernetes: From Queue to HPA](https://dev.to/shettigarc/scaling-rails-background-jobs-in-kubernetes-from-queue-to-hpa-4b7g)
-- [Seamless Kubernetes Multi-Tenancy with vCluster and a Shared Platform Stack](https://dev.to/gentele/seamless-kubernetes-multi-tenancy-with-vcluster-and-a-shared-platform-stack-1m4n)
-- [🚀 Day 2 of #100DaysOfCode – Mastering Binary Search in TypeScript](https://dev.to/xscoox_ca5e58c796032a1802/day-2-of-100daysofcode-mastering-binary-search-in-typescript-5260)
+- [25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know](https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl)
+- [PEP and PDP for Secure Authorization with AVP](https://dev.to/aws-heroes/pep-and-pdp-for-secure-authorization-with-avp-290c)
+- [What&#39;s your opinion on &quot;One PR per Day Rule&quot; at workplace?](https://dev.to/gleuzio/whats-your-opinion-on-one-pr-per-day-rule-at-workplace-158)
+- [State Management with Pinia vs Vuex](https://dev.to/robin-ivi/state-management-with-pinia-vs-vuex-4mh)
+- [Never Get Caught in the Rain Again: The Next Level of Updates on Weather on An Android Lock Screen](https://dev.to/prajakta_gawande_9485a4fd/never-get-caught-in-the-rain-again-the-next-level-of-updates-on-weather-on-an-android-lock-screen-2ag6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
