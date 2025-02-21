@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run DeepSeeker Locally: A Comprehensive Step-by-Step Guide](https://dev.to/fredabod/how-to-run-deepseeker-locally-a-comprehensive-step-by-step-guide-19cj)
-- [This Week In React #222 : CRA, React Router, captureOwnerStack, TanStack, CTRA, tRPC, Astro, Preact | RN 0.78, React 19...](https://dev.to/sebastienlorber/this-week-in-react-222-cra-react-router-captureownerstack-tanstack-ctra-trpc-astro-preact-3i92)
-- [How to build AI-Powered SaaS Platform with React, ShadCN, Appwrite &amp; Clerk](https://dev.to/codewithsadee/how-to-build-ai-powered-saas-platform-with-react-shadcn-appwrite-clerk-5adf)
-- [Generate Tailored Cover Letters with AI: A Step-by-Step Guide Using FastAPI and OpenAI](https://dev.to/resume-burger/generate-tailored-cover-letters-with-ai-a-step-by-step-guide-using-fastapi-and-openai-2584)
-- [I built an AI Agent that makes your project Responsive](https://dev.to/potpie/i-built-an-ai-agent-that-makes-your-project-responsive-10gd)
+- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
+- [In-depth Guide to net/netip Prefix Methods 7/7](https://dev.to/rezmoss/in-depth-guide-to-netnetip-prefix-methods-77-4b3c)
+- [Leveraging parallel computing in Node.js](https://dev.to/logrocket/leveraging-parallel-computing-in-nodejs-41ll)
+- [Survival Guide: Why You Should Pursue and how to excel in the AWS Cloud Practitioner Exam](https://dev.to/henniefrancis/survival-guide-why-you-should-pursue-and-how-to-excel-in-the-aws-cloud-practitioner-exam-2016)
+- [Love Language Discovery](https://dev.to/abhay_yt_52a8e72b213be229/love-language-discovery-5gdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
