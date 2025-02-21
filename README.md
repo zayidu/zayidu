@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A guide to graceful degradation in web development](https://dev.to/logrocket/a-guide-to-graceful-degradation-in-web-development-3o42)
-- [Dev.to is 90% misleading and dangerous AI generated content.](https://dev.to/8907234/devto-is-flooded-with-misleading-and-dangerous-ai-generated-content-3jfj)
-- [Bash Scripting for Git: How to Fetch All Repo Collaborators Effortlessly](https://dev.to/shivangdholaria/bash-scripting-for-git-how-to-fetch-all-repo-collaborators-effortlessly-419i)
-- [Any devs actually getting a leg up using AI tools?](https://dev.to/uno-platform/any-devs-actually-getting-a-leg-up-using-ai-tools-265b)
-- [📓 How to Use Jupyter Notebooks in VSCode with Poetry Virtual Environments 🚀](https://dev.to/dorinandreidragan/how-to-use-jupyter-notebooks-in-vscode-with-poetry-virtual-environments-2kml)
+- [How to design A Rate Limiter](https://dev.to/mryankee2k1/how-to-design-a-rate-limiter-3kcb)
+- [Implementing Firebase Payment Methods Loading](https://dev.to/wavycoder/implementing-firebase-payment-methods-loading-4lbo)
+- [🚀 De estagiário a fundador: Como criei um SaaS de tecnologia do zero em poucos meses](https://dev.to/carlossodre/de-estagiario-a-fundador-como-criei-um-saas-de-tecnologia-do-zero-em-poucos-meses-24g0)
+- [¿Cómo iniciar con SageMaker, sin cometer errores de principiante?](https://dev.to/juanzamdev/como-iniciar-con-sagemaker-sin-cometer-errores-de-principiante-57ic)
+- [Automatically Generate Bruno API Collections from Your Symfony Routes](https://dev.to/opctim/automatically-generate-bruno-api-collections-from-your-symfony-routes-3p9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
