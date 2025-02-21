@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [10 JavaScript Design Patterns Every Developer Should Know](https://dev.to/sovannaro/10-javascript-design-patterns-every-developer-should-know-n0m)
+- [🌟 Nullish Coalescing Operator &lpar;??&rpar; vs OR &lpar;||&rpar; in JavaScript : When to Use Each?](https://dev.to/dzungnt98/nullish-coalescing-operator-vs-or-in-javascript-when-to-use-each-1pi0)
+- [Blockchain and Proxy IP: Creating a More Secure and Decentralized Proxy Network](https://dev.to/98ip/blockchain-and-proxy-ip-creating-a-more-secure-and-decentralized-proxy-network-4il)
 - [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-11a1)
 - [TIL: 3️⃣ ways I use Large Language Models to increase learning efficiency](https://dev.to/mrzaizai2k/til-3-ways-i-use-large-language-models-to-increase-learning-efficiency-6i5)
-- [How Django Finds Static and Template Files: A Quick Guide](https://dev.to/jjokah/how-django-finds-static-and-template-files-a-quick-guide-dk6)
-- [Magic Methods in PHP: Why Programmers Need Magic Too](https://dev.to/ianpatricck/magic-methods-in-php-why-programmers-need-magic-too-2f02)
-- [creating your own Docker like what a shiny title and hard work A year ago, I built a minimal container in Go. Now, it&#39;s time for a revisit! This time, I&#39;m tackling network isolation, resource limits, and deeper container architecture.](https://dev.to/micromax/creating-your-own-docker-like-what-a-shiny-title-and-hard-work-a-year-ago-i-built-a-minimal-53fc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
