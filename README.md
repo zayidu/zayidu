@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning Resource Priorities: The Power of fetchpriority](https://dev.to/leapcell/fine-tuning-resource-priorities-the-power-of-fetchpriority-8ic)
-- [Discover Your Love Language with your loved ones.](https://dev.to/web_dev-usman/discover-your-love-language-with-your-loved-ones-5a23)
-- [🚀 6 AI-Powered Coding Tools That Will Change the Game in 2025! &lpar;Bonus at the End!&rpar;](https://dev.to/paulthedev/6-ai-powered-coding-tools-that-will-change-the-game-in-2025-bonus-at-the-end-1icd)
-- [How to implement structured data for better SEO results?](https://dev.to/jaykrishna_dogne/how-to-implement-structured-data-for-better-seo-results-21c2)
-- [The Role of Quantum Computing in Bioinformatics: A Game-Changer for Life Sciences](https://dev.to/biopractify_team_69ab4279/the-role-of-quantum-computing-in-bioinformatics-a-game-changer-for-life-sciences-j6l)
+- [Advancements in Age and Gender Recognition Using Deep Learning Techniques](https://dev.to/faceplugin/advancements-in-age-and-gender-recognition-using-deep-learning-techniques-5mn)
+- [From Dockerfile to Deployment: A Simple Guide for New Developers](https://dev.to/sir-j/from-dockerfile-to-deployment-a-simple-guide-for-new-developers-2mjh)
+- [swapping in array](https://dev.to/neelakandan_ravi_2000/swapping-in-array-20a5)
+- [🚀 Your Daily Crypto Job Digest For 21 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-february-477)
+- [Arbitrum and Ethereum Gas Prices: A Game-Changer in the Blockchain Landscape](https://dev.to/bobcars/arbitrum-and-ethereum-gas-prices-a-game-changer-in-the-blockchain-landscape-35pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
