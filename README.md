@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use a Schema Comparison Tool for SQL Server?](https://dev.to/samantha_brauer/why-use-a-schema-comparison-tool-for-sql-server-42me)
-- [How to Implement Push Notifications Using JavaScript](https://dev.to/tene/how-to-implement-push-notifications-using-javascript-461a)
-- [Building a CRUD API with ABP Framework, ASP.NET Core, and PostgreSQL](https://dev.to/berkansasmazz/building-a-crud-api-with-abp-framework-aspnet-core-and-postgresql-14p8)
-- [Scaling Up Different Functionalities in a Single Worker using Queues](https://dev.to/fiberplane/scaling-up-different-functionalities-in-a-single-worker-using-queues-1jm4)
-- [Arbitrum and State Channels: Pioneering Blockchain Scalability](https://dev.to/rachellovestowrite/arbitrum-and-state-channels-pioneering-blockchain-scalability-4d2i)
+- [Fine Tuning Swin Transformer for PlantNet Classification](https://dev.to/prachi_bisht_405312ff3d9e/fine-tuning-swin-transformer-on-plantnet-dataset-afd)
+- [[Boost]](https://dev.to/danielhe4rt/-20gf)
+- [Arbitrum&#39;s Approach to Token Burning: A Deeper Dive into Ethereum&#39;s Layer 2 Solution](https://dev.to/vitalisorenko/arbitrums-approach-to-token-burning-a-deeper-dive-into-ethereums-layer-2-solution-1a45)
+- [Arbitrum and Regulatory Challenges: Navigating the Evolving Landscape of Decentralized Finance](https://dev.to/bobcars/arbitrum-and-regulatory-challenges-navigating-the-evolving-landscape-of-decentralized-finance-3i0g)
+- [Building a SaaS with Authentication, Payments &amp; Multitenancy? Stop Reinventing the Wheel! 🚀](https://dev.to/authandpay/building-a-saas-with-authentication-payments-multitenancy-stop-reinventing-the-wheel-5d3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
