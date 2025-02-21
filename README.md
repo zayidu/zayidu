@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use React imports like this. Use Wrapper Pattern instead](https://dev.to/perisicnikola37/dont-use-react-imports-like-this-use-wrapper-pattern-instead-124p)
-- [Advanced Compilation: A Formal Analysis of a JavaScript-Based Compiler](https://dev.to/bravim_purohit_/advanced-compilation-a-formal-analysis-of-a-javascript-based-compiler-338f)
-- [AWS Certified Security – Specialty &lpar;SCS-C02&rpar;受験体験記](https://dev.to/aws-builders/aws-certified-security-specialty-scs-c02shou-yan-ti-yan-ji-50ka)
-- [接口调试中的 WebSocket 支持：Apipost 与 Apifox 的实战差异](https://dev.to/__c46080eebadb49a9dce3/jie-kou-diao-shi-zhong-de-websocket-zhi-chi-apipost-yu-apifox-de-shi-zhan-chai-yi-3e7j)
-- [DevOps Handbook: Essential Practices for Efficient CI/CD Pipeline Configuration](https://dev.to/phuong_nguyen_rosa/devops-handbook-essential-practices-for-efficient-cicd-pipeline-configuration-4c0i)
+- [How to Avoid Common Mistakes When Writing Tailwind Utility Classes](https://dev.to/rowsanali/how-to-avoid-common-mistakes-when-writing-tailwind-utility-classes-59n1)
+- [How to Grow a Strong Community in Web3: Strategies for Success](https://dev.to/vishal_singh_8666966f9bcc/how-to-grow-a-strong-community-in-web3-strategies-for-success-cgg)
+- [Top 7 AI Coding Tools to Use in 2025](https://dev.to/ethanleetech/top-7-ai-coding-tools-to-use-in-2025-3252)
+- [AvaloniaUI Native AOT Deployment on Windows](https://dev.to/chuongmep/avaloniaui-native-aot-deployment-on-windows-2jg1)
+- [[Boost]](https://dev.to/acol/-35de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
