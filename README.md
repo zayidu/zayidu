@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine Tuning Swin Transformer for PlantNet Classification](https://dev.to/prachi_bisht_405312ff3d9e/fine-tuning-swin-transformer-on-plantnet-dataset-afd)
-- [[Boost]](https://dev.to/danielhe4rt/-20gf)
-- [Arbitrum&#39;s Approach to Token Burning: A Deeper Dive into Ethereum&#39;s Layer 2 Solution](https://dev.to/vitalisorenko/arbitrums-approach-to-token-burning-a-deeper-dive-into-ethereums-layer-2-solution-1a45)
-- [Arbitrum and Regulatory Challenges: Navigating the Evolving Landscape of Decentralized Finance](https://dev.to/bobcars/arbitrum-and-regulatory-challenges-navigating-the-evolving-landscape-of-decentralized-finance-3i0g)
-- [Building a SaaS with Authentication, Payments &amp; Multitenancy? Stop Reinventing the Wheel! 🚀](https://dev.to/authandpay/building-a-saas-with-authentication-payments-multitenancy-stop-reinventing-the-wheel-5d3i)
+- [A guide to graceful degradation in web development](https://dev.to/logrocket/a-guide-to-graceful-degradation-in-web-development-3o42)
+- [Dev.to is 90% misleading and dangerous AI generated content.](https://dev.to/8907234/devto-is-flooded-with-misleading-and-dangerous-ai-generated-content-3jfj)
+- [Bash Scripting for Git: How to Fetch All Repo Collaborators Effortlessly](https://dev.to/shivangdholaria/bash-scripting-for-git-how-to-fetch-all-repo-collaborators-effortlessly-419i)
+- [Any devs actually getting a leg up using AI tools?](https://dev.to/uno-platform/any-devs-actually-getting-a-leg-up-using-ai-tools-265b)
+- [📓 How to Use Jupyter Notebooks in VSCode with Poetry Virtual Environments 🚀](https://dev.to/dorinandreidragan/how-to-use-jupyter-notebooks-in-vscode-with-poetry-virtual-environments-2kml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
