@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get a List of Hooks in a WordPress Plugin](https://dev.to/muhammadmedhat/how-to-get-a-list-of-hooks-in-a-wordpress-plugin-3hf9)
+- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-3d3a)
+- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-2j6j)
 - [AI in Web Development – Is It Replacing Developers or Making Us 10x Faster?](https://dev.to/bigya/ai-in-web-development-is-it-replacing-developers-or-making-us-10x-faster-4f3h)
 - [Why Should You Use a CDN to Boost Your Website Speed?](https://dev.to/seyedahmaddv/why-should-you-use-a-cdn-to-boost-your-website-speed-2543)
-- [Check Out My New Markdown Blog App!](https://dev.to/burakdev/check-out-my-new-markdown-blog-app-1e8c)
-- [Progzee: Simplifying Proxy Management for Developers](https://dev.to/progzee/progzee-simplifying-proxy-management-for-developers-5b22)
-- [AWS Learning Path for Full-Stack Developers &amp; DevOps Enthusiasts](https://dev.to/harshm03/aws-learning-path-for-full-stack-developers-devops-enthusiasts-58jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
