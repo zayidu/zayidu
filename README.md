@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to design A Rate Limiter](https://dev.to/mryankee2k1/how-to-design-a-rate-limiter-3kcb)
-- [Implementing Firebase Payment Methods Loading](https://dev.to/wavycoder/implementing-firebase-payment-methods-loading-4lbo)
-- [🚀 De estagiário a fundador: Como criei um SaaS de tecnologia do zero em poucos meses](https://dev.to/carlossodre/de-estagiario-a-fundador-como-criei-um-saas-de-tecnologia-do-zero-em-poucos-meses-24g0)
-- [¿Cómo iniciar con SageMaker, sin cometer errores de principiante?](https://dev.to/juanzamdev/como-iniciar-con-sagemaker-sin-cometer-errores-de-principiante-57ic)
-- [Automatically Generate Bruno API Collections from Your Symfony Routes](https://dev.to/opctim/automatically-generate-bruno-api-collections-from-your-symfony-routes-3p9o)
+- [Building a Reels UI in React Native 🎥 | Smooth Scrolling, Auto-Playing Videos &amp; More!](https://dev.to/amitkumar13/building-a-reels-ui-in-react-native-smooth-scrolling-auto-playing-videos-more-3i72)
+- [Free AI StartUp name generator](https://dev.to/shu1up/free-ai-startup-name-generator-nfj)
+- [GitHub Codespaces Alternatives – Part I](https://dev.to/bascodes/github-codespaces-alternatives-part-i-1g2d)
+- [Monorepo vs. Multirepo: Managing Codebases in Modular Architectures](https://dev.to/dayal/monorepo-vs-multirepo-managing-codebases-in-modular-architectures-f3b)
+- [Microservices and Microfrontends: Modularizing the Backend and Frontend](https://dev.to/dayal/microservices-and-microfrontends-modularizing-the-backend-and-frontend-131b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
