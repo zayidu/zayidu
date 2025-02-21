@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
-- [In-depth Guide to net/netip Prefix Methods 7/7](https://dev.to/rezmoss/in-depth-guide-to-netnetip-prefix-methods-77-4b3c)
-- [Leveraging parallel computing in Node.js](https://dev.to/logrocket/leveraging-parallel-computing-in-nodejs-41ll)
-- [Survival Guide: Why You Should Pursue and how to excel in the AWS Cloud Practitioner Exam](https://dev.to/henniefrancis/survival-guide-why-you-should-pursue-and-how-to-excel-in-the-aws-cloud-practitioner-exam-2016)
-- [Love Language Discovery](https://dev.to/abhay_yt_52a8e72b213be229/love-language-discovery-5gdn)
+- [Why Use a Schema Comparison Tool for SQL Server?](https://dev.to/samantha_brauer/why-use-a-schema-comparison-tool-for-sql-server-42me)
+- [How to Implement Push Notifications Using JavaScript](https://dev.to/tene/how-to-implement-push-notifications-using-javascript-461a)
+- [Building a CRUD API with ABP Framework, ASP.NET Core, and PostgreSQL](https://dev.to/berkansasmazz/building-a-crud-api-with-abp-framework-aspnet-core-and-postgresql-14p8)
+- [Scaling Up Different Functionalities in a Single Worker using Queues](https://dev.to/fiberplane/scaling-up-different-functionalities-in-a-single-worker-using-queues-1jm4)
+- [Arbitrum and State Channels: Pioneering Blockchain Scalability](https://dev.to/rachellovestowrite/arbitrum-and-state-channels-pioneering-blockchain-scalability-4d2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
