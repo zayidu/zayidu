@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking is creativity. Creativity is problem solving. Therefore, hacking is problem solving.](https://dev.to/tamilvanan/hacking-is-creativitycreativity-is-problem-solvingtherefore-hacking-is-problem-solving-1546)
-- [Isolate projects using Docker and Dev Containers by VS Code](https://dev.to/busycaesar/isolate-projects-using-docker-and-dev-containers-by-vs-code-1lb1)
-- [📊 Personalized Dashboards: Dynamic Widget Registration in Filament](https://dev.to/ercogx/personalized-dashboards-dynamic-widget-registration-in-filament-5db3)
-- [The Full-Stack Developer Playbook in 2025](https://dev.to/abdelaziz_moustakim_45a4c/the-full-stack-developer-playbook-in-2025-1m39)
-- [Finding the Best Online Deals Shouldn’t Be This Hard… But It Is.](https://dev.to/adisha2003/finding-the-best-online-deals-shouldnt-be-this-hard-but-it-is-1c7)
+- [I Hope You Git It! - The Ultimate Git Guide for Beginners🚀](https://dev.to/lokesh_singh/i-hope-you-git-it-the-ultimate-git-guide-for-beginners-30jg)
+- [Unlocking TypeScript&#39;s Power: Mastering Partial and Omit for Cleaner Code](https://dev.to/eze_ernest_62786560c8b5f3/unlocking-typescripts-power-mastering-partial-and-omit-for-cleaner-code-4cd9)
+- [Inside the Creation of the Blairstown Smile Studio Website](https://dev.to/danielhandez/inside-the-creation-of-the-blairstown-smile-studio-website-2cf1)
+- [Hello, World! in 50 Programming Languages — How Many Can You Recognize?](https://dev.to/dhanushnehru/hello-world-in-50-programming-languages-how-many-can-you-recognize-4kjl)
+- [SwiftUI + Firebase Auth &lpar;Google&rpar; + MVVM + Observable - Source Code](https://dev.to/carlosbbuild/swiftui-firebase-auth-google-mvvm-observable-source-code-npj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
