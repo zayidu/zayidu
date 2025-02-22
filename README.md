@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Can Help Startups Scale Faster Without Hiring More People](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-can-help-startups-scale-faster-without-hiring-more-people-416a)
-- [How to Automatically Disable Bluetooth and WiFi on MacBook Sleep](https://dev.to/shawon/how-to-automatically-disable-bluetooth-and-wifi-on-macbook-sleep-17o9)
-- [3.4 Indo mais afundo: primeiros detalhes](https://dev.to/fundamentosjava/34-indo-mais-afundo-primeiros-detalhes-51o3)
-- [Construyendo APIs Serverless Resilientes: Webhook Gateway con Amazon EventBridge](https://dev.to/edsantoshn/construyendo-apis-serverless-resilientes-webhook-gateway-con-amazon-eventbridge-4l8a)
-- [From Zero to Liquid Hero: Mastering Shopify’s Templating Magic with Jekyll](https://dev.to/gerryleonugroho/from-zero-to-liquid-hero-mastering-shopifys-templating-magic-with-jekyll-3olk)
+- [My React Base :&rpar;](https://dev.to/mattsu014/my-react-base--c0c)
+- [132/365 | ¥10M Job Challenge - Communication in the AI Era](https://dev.to/kameken100/132365-y10m-job-challenge-communication-in-the-ai-era-3k4b)
+- [Grok 3: The world&#39;s smartest AI?, DeepScaleR 1.5B beats OpenAI o1, new DeepSeek-R1 killer, and more](https://dev.to/thisweekinaiengineering/grok-3-the-worlds-smartest-ai-deepscaler-15b-beats-openai-o1-new-deepseek-r1-killer-and-more-58hj)
+- [1028. Recover a Tree From Preorder Traversal](https://dev.to/mdarifulhaque/1028-recover-a-tree-from-preorder-traversal-2dog)
+- [Enhancing the Map Widget in Ensemble: Introducing Fixed &amp; Draggable Markers 🚀](https://dev.to/sharjeelyunus/enhancing-the-map-widget-in-ensemble-introducing-fixed-draggable-markers-1a1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
