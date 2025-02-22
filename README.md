@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detect Unused Classes in Laravel](https://dev.to/tegos/detect-unused-classes-in-laravel-2jjm)
-- [How AI is Changing Software Development: Will Developers Be Replaced?](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-is-changing-software-development-will-developers-be-replaced-1i18)
-- [Laravel modular folder structure](https://dev.to/xwero/laravel-modular-folder-structure-4a94)
-- [Understanding Pass-Through Authentication &lpar;PTA&rpar; and Password Hash Synchronization &lpar;PHS&rpar;](https://dev.to/sachindra149/understanding-pass-through-authentication-pta-and-password-hash-synchronization-phs-412n)
-- [Day -04 of learning python&lpar;02-22-2025&rpar;](https://dev.to/kapil_kumarshahsonar_ad/day-04-of-learning-python02-22-2025-1696)
+- [How AI Can Help Startups Scale Faster Without Hiring More People](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-can-help-startups-scale-faster-without-hiring-more-people-416a)
+- [How to Automatically Disable Bluetooth and WiFi on MacBook Sleep](https://dev.to/shawon/how-to-automatically-disable-bluetooth-and-wifi-on-macbook-sleep-17o9)
+- [3.4 Indo mais afundo: primeiros detalhes](https://dev.to/fundamentosjava/34-indo-mais-afundo-primeiros-detalhes-51o3)
+- [Construyendo APIs Serverless Resilientes: Webhook Gateway con Amazon EventBridge](https://dev.to/edsantoshn/construyendo-apis-serverless-resilientes-webhook-gateway-con-amazon-eventbridge-4l8a)
+- [From Zero to Liquid Hero: Mastering Shopify’s Templating Magic with Jekyll](https://dev.to/gerryleonugroho/from-zero-to-liquid-hero-mastering-shopifys-templating-magic-with-jekyll-3olk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
