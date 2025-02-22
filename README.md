@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Own Twitter Wrapped App in 30 Minutes with Zero Cost 🚀](https://dev.to/kaito2046/how-to-build-your-own-twitter-wrapped-app-in-30-minutes-with-zero-cost-99n)
-- [Your Favorite Apps Are Spying on You &lpar;Yes, Even That One&rpar; 👀](https://dev.to/panicatthekernel/your-favorite-apps-are-spying-on-you-yes-even-that-one-4n2g)
-- [Bootstrap vs Tailwind CSS](https://dev.to/dahami_fabbio/bootstrap-vs-tailwind-css-ei3)
-- [🔓 Free Your Ports in One Command 🚀](https://dev.to/abgeo/free-your-ports-in-one-command-2kio)
-- [what is hoisting in javascript?](https://dev.to/debos_das_9a77be9788e2d6e/what-is-hoisting-in-javascript-152c)
+- [How to run a cron job inside a docker container?](https://dev.to/iamrj846/how-to-run-a-cron-job-inside-a-docker-container-170a)
+- [CenterCrop in PyTorch](https://dev.to/hyperkai/centercrop-in-pytorch-16he)
+- [How does serverless computing impact web development?](https://dev.to/jaykrishna_dogne/how-does-serverless-computing-impact-web-development-4bn6)
+- [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](https://dev.to/iamrj846/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile-3fh3)
+- [What are the best free tools every developer should use in 2025?](https://dev.to/jaykrishna_dogne/what-are-the-best-free-tools-every-developer-should-use-in-2025-1l4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
