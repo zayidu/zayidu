@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/alaa-samy/-1jbj)
-- [Macros vs. Functions in Rust: When to Use Which?](https://dev.to/leapcell/macros-vs-functions-in-rust-when-to-use-which-fh)
-- [Clean Code in JavaScript: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/clean-code-in-javascript-a-comprehensive-guide-152j)
-- [How to add ShadCN to an electron-vite project.](https://dev.to/nedwize/how-to-add-shadcn-to-an-electron-vite-project-dn)
-- [Why Are These 30+ GitHub Repositories Trending? Find Out Now!](https://dev.to/gittech/why-are-these-30-github-repositories-trending-find-out-now-2j4d)
+- [HTML: ¿Para qué sirve y qué son sus etiquetas?](https://dev.to/johnserranodev/html-para-que-sirve-y-que-son-sus-etiquetas-228d)
+- [VSCode Extensions - Adding Paid Features](https://dev.to/shawnroller/vscode-extensions-adding-paid-features-1noa)
+- [Creating the Paramus Park Oral Surgery Website: A Comprehensive Guide to Planning, Design, and Development](https://dev.to/noahnson/creating-the-paramus-park-oral-surgery-website-a-comprehensive-guide-to-planning-design-and-2fl1)
+- [Observability Made Easy: Adding Logs, Traces &amp; Metrics to FastAPI with Logfire](https://dev.to/devgeetech/observability-made-easy-adding-logs-traces-metrics-to-fastapi-with-logfire-529l)
+- [Become a Healthy Developer to be a Better Developer](https://dev.to/jamiebradley/become-a-healthy-developer-to-be-a-better-developer-4b8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
