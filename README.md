@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Creates Better Electronic Molecules Using Smart Learning System](https://dev.to/mikeyoung44/ai-creates-better-electronic-molecules-using-smart-learning-system-3fc4)
-- [AI Models Learn Better Through Self-Generated Training Data, Study Shows](https://dev.to/mikeyoung44/ai-models-learn-better-through-self-generated-training-data-study-shows-5c9l)
-- [One-Shot Video Magic: AI Learns Dance Moves from a Single Video to Create New Personalized Content](https://dev.to/mikeyoung44/one-shot-video-magic-ai-learns-dance-moves-from-a-single-video-to-create-new-personalized-content-4g1o)
-- [AI Breakthrough: New System Makes Language Models Better at Navigating Spaces Like Humans Do](https://dev.to/mikeyoung44/ai-breakthrough-new-system-makes-language-models-better-at-navigating-spaces-like-humans-do-3lho)
-- [AI Language Models Make More Mistakes in Non-English Languages, Study Shows](https://dev.to/mikeyoung44/ai-language-models-make-more-mistakes-in-non-english-languages-study-shows-lka)
+- [WebRTC Explained Simply: Your Ticket to Real-Time Web Magic](https://dev.to/expressturn/webrtc-explained-simply-your-ticket-to-real-time-web-magic-4o49)
+- [Advanced Routing Techniques in Next.js](https://dev.to/rowsanali/advanced-routing-techniques-in-nextjs-1189)
+- [Arbitrum vs. zk-Rollups: A Comprehensive Comparison](https://dev.to/jennythomas498/arbitrum-vs-zk-rollups-a-comprehensive-comparison-4hni)
+- [Arbitrum vs Ethereum: A Comparative Analysis](https://dev.to/vitalisorenko/arbitrum-vs-ethereum-a-comparative-analysis-be6)
+- [QodoAI: Code with an agentic AI](https://dev.to/codeparrot/qodoai-code-with-an-agentic-ai-4cej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
