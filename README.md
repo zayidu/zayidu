@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up Graph Databases in Large-Scale Applications for Complex Data Management](https://dev.to/flnzba/set-up-graph-databases-in-large-scale-applications-for-complex-data-management-1000)
+- [Streaming SQL in Stateful DataFlows](https://dev.to/debadyuti/streaming-sql-in-stateful-dataflows-3jng)
+- [AI Chat App template — Next.js, Vercel AI SDK, Firebase](https://dev.to/shreyvijayvargiya/ai-chat-app-template-nextjs-vercel-ai-sdk-firebase-1dej)
 - [Evita sorpresas en tu factura de AWS con Budget Alerts](https://dev.to/briansuarezsantiago/evita-sorpresas-en-tu-factura-de-aws-j2a)
 - [Mastering SSR &amp; CSR in Next.js with GraphQL – With and Without Apollo](https://dev.to/hijazi313/mastering-ssr-csr-in-nextjs-with-graphql-with-and-without-apollo-17c5)
-- [Clojure Is Awesome!!! [PART 13]](https://dev.to/borba/clojure-is-awesome-part-13-1ao4)
-- [Firebase and Payload CMS: Early Look at a Client-Side Auth Strategy](https://dev.to/aaronksaunders/firebase-and-payload-cms-early-look-at-a-client-side-auth-strategy-5758)
-- [Convert PNG to DDS with Rare2PDF](https://dev.to/mycko22/convert-png-to-dds-with-rare2pdf-1d5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
