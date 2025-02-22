@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC Explained Simply: Your Ticket to Real-Time Web Magic](https://dev.to/expressturn/webrtc-explained-simply-your-ticket-to-real-time-web-magic-4o49)
-- [Advanced Routing Techniques in Next.js](https://dev.to/rowsanali/advanced-routing-techniques-in-nextjs-1189)
-- [Arbitrum vs. zk-Rollups: A Comprehensive Comparison](https://dev.to/jennythomas498/arbitrum-vs-zk-rollups-a-comprehensive-comparison-4hni)
-- [Arbitrum vs Ethereum: A Comparative Analysis](https://dev.to/vitalisorenko/arbitrum-vs-ethereum-a-comparative-analysis-be6)
-- [QodoAI: Code with an agentic AI](https://dev.to/codeparrot/qodoai-code-with-an-agentic-ai-4cej)
+- [জাভাস্ক্রিপ্ট শেখার জন্য ১ বছরের পরিকল্পনা;](https://dev.to/debos_das_9a77be9788e2d6e/jaabhaaskriptt-shekhaar-jny-1-bchrer-priklpnaa-42e2)
+- [Why useEffect? no pun intended lol!](https://dev.to/faith_kimani_7dc0da2a53b5/why-useeffect-no-pun-intended-lol-2djl)
+- [Essential Git Commands Every Developer Wish To Know](https://dev.to/amitchandra/essential-git-commands-every-developer-wish-to-know-58p0)
+- [Flowbite: A Beginner’s Guide to UI Components for Tailwind CSS](https://dev.to/swhabitation/flowbite-a-beginners-guide-to-ui-components-for-tailwind-css-5ckp)
+- [🚀 Day 3 of #100DaysOfCoding](https://dev.to/xscoox_ca5e58c796032a1802/day-3-of-100daysofcoding-1008)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
