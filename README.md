@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a List of Hooks in a WordPress Plugin](https://dev.to/muhammadmedhat/how-to-get-a-list-of-hooks-in-a-wordpress-plugin-3hf9)
-- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-3d3a)
-- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-2j6j)
-- [AI in Web Development – Is It Replacing Developers or Making Us 10x Faster?](https://dev.to/bigya/ai-in-web-development-is-it-replacing-developers-or-making-us-10x-faster-4f3h)
-- [Why Should You Use a CDN to Boost Your Website Speed?](https://dev.to/seyedahmaddv/why-should-you-use-a-cdn-to-boost-your-website-speed-2543)
+- [🚀 Testing scheduled posts!](https://dev.to/fistonuser/testing-scheduled-posts-1cfi)
+- [Enhancing Database Performance with Vector Indexing](https://dev.to/kartikmehta8/enhancing-database-performance-with-vector-indexing-3bh1)
+- [RandomAffine in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-4-570l)
+- [RandomAffine in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-3-3hkm)
+- [How to create a Windows Server install windows server &lpar;IIS role and management tools &rpar;on it.](https://dev.to/onyemuche/how-to-create-a-windows-server-install-windows-server-iis-role-and-management-tools-on-it-24im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
