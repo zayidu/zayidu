@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amor Mio](https://dev.to/kees_7874d132ecaa0b674c93/amor-mio-5537)
-- [🎨 Tailwind CSS: Styling Inner Components on Parent Hover Using &quot;group&quot;](https://dev.to/dzungnt98/tailwind-css-styling-inner-components-on-parent-hover-using-group-2fmb)
-- [Weather App With State Management for Long Running Conversations Using AI Agents](https://dev.to/exploredataaiml/weather-app-with-state-management-for-long-running-conversations-using-ai-agents-4cd5)
-- [Innovative PCB Designs for Smart Fire Detection Systems: The Integration of Multiple Sensors for Enhanced Safety](https://dev.to/yoy/innovative-pcb-designs-for-smart-fire-detection-systems-the-integration-of-multiple-sensors-for-105f)
-- [Seamlessly Compare Maps on QGIS with the QMapCompare Plugin](https://dev.to/mierune/seamlessly-compare-maps-on-qgis-with-the-qmapcompare-plugin-3186)
+- [RandomAffine in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-5-1c2m)
+- [⚡Supercharge Your Laravel App: 5 Hidden Performance Killers Slowing You Down](https://dev.to/dosenngoding/supercharge-your-laravel-app-5-hidden-performance-killers-slowing-you-down-18i8)
+- [Beginner Contributions: This is how I learned to contribute to open source projects on GitHub](https://dev.to/alicelee2735/beginner-contributions-this-is-how-i-learned-to-contribute-to-open-source-projects-on-github-3oga)
+- [Granting a User Access to Only apt: A Hands-On Experiment with sudoers](https://dev.to/ahmad01/granting-a-user-access-to-only-apt-a-hands-on-experiment-with-sudoers-3bb0)
+- [Avoid Looping Iterations in Power Automate: Use Filter Array for Efficiency](https://dev.to/myasir/avoid-looping-iterations-in-power-automate-use-filter-array-for-efficiency-f32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
