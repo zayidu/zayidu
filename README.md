@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RandomAffine in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-5-1c2m)
-- [⚡Supercharge Your Laravel App: 5 Hidden Performance Killers Slowing You Down](https://dev.to/dosenngoding/supercharge-your-laravel-app-5-hidden-performance-killers-slowing-you-down-18i8)
-- [Beginner Contributions: This is how I learned to contribute to open source projects on GitHub](https://dev.to/alicelee2735/beginner-contributions-this-is-how-i-learned-to-contribute-to-open-source-projects-on-github-3oga)
-- [Granting a User Access to Only apt: A Hands-On Experiment with sudoers](https://dev.to/ahmad01/granting-a-user-access-to-only-apt-a-hands-on-experiment-with-sudoers-3bb0)
-- [Avoid Looping Iterations in Power Automate: Use Filter Array for Efficiency](https://dev.to/myasir/avoid-looping-iterations-in-power-automate-use-filter-array-for-efficiency-f32)
+- [Implementing Formique in Vue.js: A Comprehensive Guide](https://dev.to/gugulethu_nyoni/implementing-formique-in-vuejs-a-comprehensive-guide-2m57)
+- [Understanding Version Control with ~ and ^ in package.json](https://dev.to/manthanank/understanding-version-control-with-and-in-packagejson-h7g)
+- [flatMap&lpar;&rpar; vs filter&lpar;&rpar;.map&lpar;&rpar;: Code Simplicity](https://dev.to/rajajaganathan/flatmap-vs-filtermap-code-simplicity-aeb)
+- [Understanding the Linux File Hierarchy: A Deep Dive](https://dev.to/satyam-ahirrao/understanding-the-linux-file-hierarchy-a-deep-dive-51gh)
+- [TOPIC: Understanding the DOM &amp; Event Handling in JavaScript – A Practical Guide](https://dev.to/erasmuskotoka/topic-understanding-the-dom-event-handling-in-javascript-a-practical-guide-44oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
