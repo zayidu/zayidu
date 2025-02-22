@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML: ¿Para qué sirve y qué son sus etiquetas?](https://dev.to/johnserranodev/html-para-que-sirve-y-que-son-sus-etiquetas-228d)
-- [VSCode Extensions - Adding Paid Features](https://dev.to/shawnroller/vscode-extensions-adding-paid-features-1noa)
-- [Creating the Paramus Park Oral Surgery Website: A Comprehensive Guide to Planning, Design, and Development](https://dev.to/noahnson/creating-the-paramus-park-oral-surgery-website-a-comprehensive-guide-to-planning-design-and-2fl1)
-- [Observability Made Easy: Adding Logs, Traces &amp; Metrics to FastAPI with Logfire](https://dev.to/devgeetech/observability-made-easy-adding-logs-traces-metrics-to-fastapi-with-logfire-529l)
-- [Become a Healthy Developer to be a Better Developer](https://dev.to/jamiebradley/become-a-healthy-developer-to-be-a-better-developer-4b8k)
+- [Evita sorpresas en tu factura de AWS con Budget Alerts](https://dev.to/briansuarezsantiago/evita-sorpresas-en-tu-factura-de-aws-j2a)
+- [Mastering SSR &amp; CSR in Next.js with GraphQL – With and Without Apollo](https://dev.to/hijazi313/mastering-ssr-csr-in-nextjs-with-graphql-with-and-without-apollo-17c5)
+- [Clojure Is Awesome!!! [PART 13]](https://dev.to/borba/clojure-is-awesome-part-13-1ao4)
+- [Firebase and Payload CMS: Early Look at a Client-Side Auth Strategy](https://dev.to/aaronksaunders/firebase-and-payload-cms-early-look-at-a-client-side-auth-strategy-5758)
+- [Convert PNG to DDS with Rare2PDF](https://dev.to/mycko22/convert-png-to-dds-with-rare2pdf-1d5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
