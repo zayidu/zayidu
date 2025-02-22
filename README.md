@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Testing scheduled posts!](https://dev.to/fistonuser/testing-scheduled-posts-1cfi)
-- [Enhancing Database Performance with Vector Indexing](https://dev.to/kartikmehta8/enhancing-database-performance-with-vector-indexing-3bh1)
-- [RandomAffine in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-4-570l)
-- [RandomAffine in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-3-3hkm)
-- [How to create a Windows Server install windows server &lpar;IIS role and management tools &rpar;on it.](https://dev.to/onyemuche/how-to-create-a-windows-server-install-windows-server-iis-role-and-management-tools-on-it-24im)
+- [Weather App With State Management for Long Running Conversations Using AI Agents](https://dev.to/exploredataaiml/weather-app-with-state-management-for-long-running-conversations-using-ai-agents-4cd5)
+- [Innovative PCB Designs for Smart Fire Detection Systems: The Integration of Multiple Sensors for Enhanced Safety](https://dev.to/yoy/innovative-pcb-designs-for-smart-fire-detection-systems-the-integration-of-multiple-sensors-for-105f)
+- [Seamlessly Compare Maps on QGIS with the QMapCompare Plugin](https://dev.to/mierune/seamlessly-compare-maps-on-qgis-with-the-qmapcompare-plugin-3186)
+- [API Integration with Tanstack Query: Transforming Product Data Management](https://dev.to/yugjadvani/api-integration-with-tanstack-query-transforming-product-data-management-jgc)
+- [Understanding Packages in Go: A Comprehensive Guide](https://dev.to/abstractmusa/understanding-packages-in-go-a-comprehensive-guide-46j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
