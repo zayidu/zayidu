@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [জাভাস্ক্রিপ্ট শেখার জন্য ১ বছরের পরিকল্পনা;](https://dev.to/debos_das_9a77be9788e2d6e/jaabhaaskriptt-shekhaar-jny-1-bchrer-priklpnaa-42e2)
-- [Why useEffect? no pun intended lol!](https://dev.to/faith_kimani_7dc0da2a53b5/why-useeffect-no-pun-intended-lol-2djl)
-- [Essential Git Commands Every Developer Wish To Know](https://dev.to/amitchandra/essential-git-commands-every-developer-wish-to-know-58p0)
-- [Flowbite: A Beginner’s Guide to UI Components for Tailwind CSS](https://dev.to/swhabitation/flowbite-a-beginners-guide-to-ui-components-for-tailwind-css-5ckp)
-- [🚀 Day 3 of #100DaysOfCoding](https://dev.to/xscoox_ca5e58c796032a1802/day-3-of-100daysofcoding-1008)
+- [Agile project managerment](https://dev.to/cng_qunguyn_11b65d9e1/agile-project-managerment-moi)
+- [About EC2 config](https://dev.to/shiv15/-559h)
+- [Generate SK massal dengan template simpan massal ke ZIP](https://dev.to/ekopriyanto/generate-sk-massal-dengan-template-simpan-massal-ke-zip-39he)
+- [Why Protobuf Should Dominate the Data Format Ecosystem](https://dev.to/leapcell/why-protobuf-should-dominate-the-data-format-ecosystem-4ddd)
+- [Simplifying React Hooks: useRef 💯](https://dev.to/alisamir/simplifying-react-hooks-useref-599)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
