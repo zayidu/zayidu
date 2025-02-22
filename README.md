@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit Card Payment Form](https://dev.to/oluwa_shocker05/credit-card-payment-form-3833)
-- [While the docker commit command offers a quick way to capture the current state of a container into a new image, it&#39;s generally recommended to use a Dockerfile for building images. This approach ensures reproducibility. https://twistlockdynamics.com](https://dev.to/twistlock_dynamics_25204d/while-the-docker-commit-command-offers-a-quick-way-to-capture-the-current-state-of-a-container-into-250)
-- [RandomAutocontrast in PyTorch](https://dev.to/hyperkai/randomautocontrast-in-pytorch-1311)
-- [Kubernetes &lpar;EKS&rpar; Fundamentals - In-Depth Guide](https://dev.to/shubhankardev_a0028afe8ff/kubernetes-eks-fundamentals-in-depth-guide-3mpc)
-- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-mc5)
+- [Hacking is creativity. Creativity is problem solving. Therefore, hacking is problem solving.](https://dev.to/tamilvanan/hacking-is-creativitycreativity-is-problem-solvingtherefore-hacking-is-problem-solving-1546)
+- [Isolate projects using Docker and Dev Containers by VS Code](https://dev.to/busycaesar/isolate-projects-using-docker-and-dev-containers-by-vs-code-1lb1)
+- [📊 Personalized Dashboards: Dynamic Widget Registration in Filament](https://dev.to/ercogx/personalized-dashboards-dynamic-widget-registration-in-filament-5db3)
+- [The Full-Stack Developer Playbook in 2025](https://dev.to/abdelaziz_moustakim_45a4c/the-full-stack-developer-playbook-in-2025-1m39)
+- [Finding the Best Online Deals Shouldn’t Be This Hard… But It Is.](https://dev.to/adisha2003/finding-the-best-online-deals-shouldnt-be-this-hard-but-it-is-1c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
