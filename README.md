@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to run a cron job inside a docker container?](https://dev.to/iamrj846/how-to-run-a-cron-job-inside-a-docker-container-170a)
-- [CenterCrop in PyTorch](https://dev.to/hyperkai/centercrop-in-pytorch-16he)
-- [How does serverless computing impact web development?](https://dev.to/jaykrishna_dogne/how-does-serverless-computing-impact-web-development-4bn6)
-- [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](https://dev.to/iamrj846/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile-3fh3)
-- [What are the best free tools every developer should use in 2025?](https://dev.to/jaykrishna_dogne/what-are-the-best-free-tools-every-developer-should-use-in-2025-1l4c)
+- [AI won&#39;t take your job, those who use AI will.](https://dev.to/luk_rauf/ai-wont-take-your-job-those-who-use-ai-will-19c0)
+- [Untitled](https://dev.to/aylak_adamlar_9e87b58ae9b/untitled-eog)
+- [Replacing App Center with GitHub Actions](https://dev.to/vandebron/replacing-app-center-with-github-actions-emd)
+- [How to implement structured data for better SEO results?](https://dev.to/jaykrishna_dogne/how-to-implement-structured-data-for-better-seo-results-5bn4)
+- [BEATING HEART](https://dev.to/arsh_patel_74cf6a43525f5c/beating-heart-599l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
