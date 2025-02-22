@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile project managerment](https://dev.to/cng_qunguyn_11b65d9e1/agile-project-managerment-moi)
-- [About EC2 config](https://dev.to/shiv15/-559h)
-- [Generate SK massal dengan template simpan massal ke ZIP](https://dev.to/ekopriyanto/generate-sk-massal-dengan-template-simpan-massal-ke-zip-39he)
-- [Why Protobuf Should Dominate the Data Format Ecosystem](https://dev.to/leapcell/why-protobuf-should-dominate-the-data-format-ecosystem-4ddd)
-- [Simplifying React Hooks: useRef 💯](https://dev.to/alisamir/simplifying-react-hooks-useref-599)
+- [How to Build Your Own Twitter Wrapped App in 30 Minutes with Zero Cost 🚀](https://dev.to/kaito2046/how-to-build-your-own-twitter-wrapped-app-in-30-minutes-with-zero-cost-99n)
+- [Your Favorite Apps Are Spying on You &lpar;Yes, Even That One&rpar; 👀](https://dev.to/panicatthekernel/your-favorite-apps-are-spying-on-you-yes-even-that-one-4n2g)
+- [Bootstrap vs Tailwind CSS](https://dev.to/dahami_fabbio/bootstrap-vs-tailwind-css-ei3)
+- [🔓 Free Your Ports in One Command 🚀](https://dev.to/abgeo/free-your-ports-in-one-command-2kio)
+- [what is hoisting in javascript?](https://dev.to/debos_das_9a77be9788e2d6e/what-is-hoisting-in-javascript-152c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
