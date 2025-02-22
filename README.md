@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a REST API with Django REST Framework: A Beginners Guide](https://dev.to/kihuni/building-a-rest-api-with-django-rest-framework-a-beginners-guide-1b1n)
-- [🚀 React 19: The Coolest Updates You Can&#39;t Miss! 😎](https://dev.to/neetigyachahar/react-19-the-coolest-updates-you-cant-miss-3blh)
-- [Is the Binance Effect Dead? Why New Listings No Longer Guarantee Profits](https://dev.to/lado_okhotnikov/is-the-binance-effect-dead-why-new-listings-no-longer-guarantee-profits-34i8)
-- [Setting Up a Kubernetes Cluster and More](https://dev.to/devcorner/setting-up-a-kubernetes-cluster-and-more-340b)
-- [How Machine Learning in Manufacturing Can Accelerate Your Growth](https://dev.to/phyniks/how-machine-learning-in-manufacturing-can-accelerate-your-growth-mda)
+- [AI Creates Better Electronic Molecules Using Smart Learning System](https://dev.to/mikeyoung44/ai-creates-better-electronic-molecules-using-smart-learning-system-3fc4)
+- [AI Models Learn Better Through Self-Generated Training Data, Study Shows](https://dev.to/mikeyoung44/ai-models-learn-better-through-self-generated-training-data-study-shows-5c9l)
+- [One-Shot Video Magic: AI Learns Dance Moves from a Single Video to Create New Personalized Content](https://dev.to/mikeyoung44/one-shot-video-magic-ai-learns-dance-moves-from-a-single-video-to-create-new-personalized-content-4g1o)
+- [AI Breakthrough: New System Makes Language Models Better at Navigating Spaces Like Humans Do](https://dev.to/mikeyoung44/ai-breakthrough-new-system-makes-language-models-better-at-navigating-spaces-like-humans-do-3lho)
+- [AI Language Models Make More Mistakes in Non-English Languages, Study Shows](https://dev.to/mikeyoung44/ai-language-models-make-more-mistakes-in-non-english-languages-study-shows-lka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
