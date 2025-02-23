@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
-- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
-- [How to create a RustDLL binding for NodeJs](https://dev.to/flameoftheforest/how-to-create-a-rustdll-binding-for-nodejs-2348)
-- [Best HTML Editors: What Editor to Choose?](https://dev.to/angel_rojas_6904bae237a0d/best-html-editors-what-editor-to-choose-55co)
-- [Virtual Web](https://dev.to/gibranbanhakeia/virtual-web-4fik)
+- [#28.1 Part 1/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/281-part-12-basics-of-software-architecture-and-design-patterns-475e)
+- [HOW TO CREATE AN APP SERVICE APPLICATION WITH AZURE](https://dev.to/sheyitex/how-to-create-an-app-service-application-with-azure-gfo)
+- [🚀 Supercharge Your File Storage: SeaweedFS + PostgreSQL in 15 Minutes](https://dev.to/benjeddou_monem_68600c6c8/supercharge-your-file-storage-seaweedfs-postgresql-in-15-minutes-407f)
+- [DeepSeek&#39;s Breakthrough: Challenging the AI Landscape 🚀](https://dev.to/lorebrada00/deepseeks-breakthrough-challenging-the-ai-landscape-43n6)
+- [¿Qué es Incogni? Elimina tus datos personales: Opinión, afiliados y usos](https://dev.to/angel_rojas_6904bae237a0d/que-es-incogni-elimina-tus-datos-personales-opinion-afiliados-y-usos-53p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
