@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jdgamble555/-2lg2)
-- [Insider Info About the New Results Class in Benchmark](https://dev.to/ukrguru/insider-info-about-the-new-results-class-in-benchmark-b51)
-- [Simplifier le développement de newsletters responsives avec MJML](https://dev.to/p0p0/simplifier-le-developpement-de-newsletters-responsives-avec-mjml-jpn)
-- [👋 Hello, World!](https://dev.to/auti/hello-world-38jp)
-- [An Overview of Message Push Strategies: When and Why to Use Each](https://dev.to/leapcell/an-overview-of-message-push-strategies-when-and-why-to-use-each-51j8)
+- [IKO - Lessons Learned &lpar;Part 1 - Helm&rpar;](https://dev.to/intersystems/iko-lessons-learned-part-1-helm-7do)
+- [Creating an IRIS Cross Functional App in &lt;150 Lines of Code](https://dev.to/intersystems/creating-an-iris-cross-functional-app-in-150-lines-of-code-5h04)
+- [Day 19: Part 2 Jubilee Austen](https://dev.to/theoriginalbpc/day-19-part-2-jubilee-austen-389i)
+- [Getting JSON from SQL](https://dev.to/intersystems/getting-json-from-sql-4e2f)
+- [Latin Ligatures in Unicode &lpar;and fonts&rpar;](https://dev.to/cmahte/latin-ligatures-in-unicode-and-fonts-2da9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
