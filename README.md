@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Stock Price Alert App using AWS SAM and a Telegram Bot](https://dev.to/bambuco/creating-a-stock-price-alert-app-using-aws-sam-and-a-telegram-bot-4hdf)
-- [Setting Up Your Deep Learning Environment and Training Your First Model](https://dev.to/armansal/setting-up-your-deep-learning-environment-and-training-your-first-model-bff)
-- [How Hackers Intercept Your Messages: The Silent Cyber Threat You Need to Know](https://dev.to/nightmare-lynx/what-is-man-in-the-middle-attack-4a2j)
-- [Boy Scout Rule In Programming and Its Limitations](https://dev.to/anton9/boy-scout-rule-and-its-limitations-5404)
-- [Building a Banking Intelligence System: Transforming Customer Data for Insights](https://dev.to/apcodesphere/building-a-banking-intelligence-system-transforming-customer-data-for-insights-5h5e)
+- [React Hydration &amp; Browser Scheduling API: A Game Changer for Performance](https://dev.to/suzyg38/react-hydration-browser-scheduling-api-a-game-changer-for-performance-34ji)
+- [Using K6 to check the performance of our system](https://dev.to/will_drygla/using-k6-to-check-the-performance-of-our-system-43b0)
+- [How to Dockerize Deno](https://dev.to/code42cate/how-to-dockerize-deno-h5a)
+- [My favorite K6 executors](https://dev.to/will_drygla/my-favorite-k6-executors-3aal)
+- [Code Smell 291 - Mutable Keys](https://dev.to/mcsee/code-smell-291-mutable-keys-5flf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
