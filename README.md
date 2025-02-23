@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ShadeView 2 - First Complete Shader Helper - VSCode](https://dev.to/przemysaw_orowski_585ea/shadeview-2-first-complete-shader-helper-vscode-29le)
-- [What is &quot;right&quot; and what is &quot;wrong&quot;? — in IT](https://dev.to/pooyan/what-is-right-and-what-is-wrong-in-it-46ae)
-- [Helm Installation and Usage Guide for Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/devcorner/helm-installation-and-usage-guide-for-kubernetes-step-by-step-fmn)
-- [ElasticTransform in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-3-56pl)
-- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-2p5j)
+- [How do you set multiple commands in one yaml file with Kubernetes?](https://dev.to/iamrj846/how-do-you-set-multiple-commands-in-one-yaml-file-with-kubernetes-17oc)
+- [What is the difference between ClusterIP, NodePort, and LoadBalancer service types in Kubernetes?](https://dev.to/iamrj846/what-is-the-difference-between-clusterip-nodeport-and-loadbalancer-service-types-in-kubernetes-4gd6)
+- [How can I keep a container running on Kubernetes?](https://dev.to/iamrj846/how-can-i-keep-a-container-running-on-kubernetes-4h2c)
+- [Astro + Jails - A Perfect Match](https://dev.to/javiani/astro-jails-a-perfect-match-365l)
+- [React Lazy Loading: Boosting Performance with Code Splitting](https://dev.to/shyam0118/react-lazy-loading-boosting-performance-with-code-splitting-45lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
