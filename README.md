@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Pressure of Delivery: A Software Developer&#39;s Perspective](https://dev.to/jwp/navigating-the-pressure-of-delivery-a-software-developers-perspective-22dg)
-- [Control your PlayStation 3 remotely](https://dev.to/mprog10/control-your-playstation-3-remotely-3lh9)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4l01)
-- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
-- [UI Components Gone Wild: One Component, Many Frameworks!](https://dev.to/mjuliafb/ui-components-gone-wild-one-component-many-frameworks-59e2)
+- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
+- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
+- [How to create a RustDLL binding for NodeJs](https://dev.to/flameoftheforest/how-to-create-a-rustdll-binding-for-nodejs-2348)
+- [Best HTML Editors: What Editor to Choose?](https://dev.to/angel_rojas_6904bae237a0d/best-html-editors-what-editor-to-choose-55co)
+- [Virtual Web](https://dev.to/gibranbanhakeia/virtual-web-4fik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
