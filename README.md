@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Journey So Far](https://dev.to/athulmuralidhar/my-tech-journey-so-far-1emk)
-- [Implementing a RESTful API with Advanced Error Handling in Node.js](https://dev.to/rowsanali/implementing-a-restful-api-with-advanced-error-handling-in-nodejs-2dpg)
-- [Open github url in gitingest via chrome extension and keyboard shortcut](https://dev.to/remusris/open-github-url-in-gitingest-via-chrome-extension-and-keyboard-shortcut-3dgd)
-- [Spring Boot REST API - Returning Response in XML Format](https://dev.to/ayshriv/spring-boot-rest-api-returning-response-in-xml-format-2dkh)
-- [Things to consider in Frontend and Backend Setup🛠 - MERN Stack](https://dev.to/shaikr786/things-to-consider-in-frontend-and-backend-setup-mern-stack-3kee)
+- [Content Security Policy Bypass in Laravel: Risks and Mitigations](https://dev.to/pentest_testing_corp/content-security-policy-bypass-in-laravel-risks-and-mitigations-344m)
+- [맥북 M3 에어를 사용하면서 느낀 점과 윈도우에서 넘어온 변화](https://dev.to/technomart/maegbug-m3-eeo-3obf)
+- [🚀 &quot;Oops! Something Went Wrong&quot; – Handling API Errors in Express.js Like a Pro](https://dev.to/skillnter/oops-something-went-wrong-handling-api-errors-in-expressjs-like-a-pro-2jia)
+- [Mastering Terraform: A Comprehensive Guide to Infrastructure as Code](https://dev.to/wasii/mastering-terraform-a-comprehensive-guide-to-infrastructure-as-code-3638)
+- [User Authentication -JsonWebTokens &lpar;MERN Stack&rpar;](https://dev.to/shaikr786/user-authentication-jsonwebtokens-mern-stack-1ipk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
