@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI can make you a 10x professional](https://dev.to/aniruddhaadak/how-ai-can-make-you-a-10x-professional-1632)
-- [Is “Thinking AI” a Leap Forward or Just Marketing Hype?](https://dev.to/astrofruit/is-thinking-ai-a-leap-forward-or-just-marketing-hype-4efj)
-- [PapierJS - PaperCSS with stencil and storybook](https://dev.to/amiceli/papierjs-papercss-with-stencil-and-storybook-2cgd)
-- [Memoization in JavaScript: How Not to Be Dumb About It](https://dev.to/priya2422/memoization-in-javascript-how-not-to-be-dumb-about-it-p3m)
-- [Scale, Speed, and Crush Complexity: 10 Reasons Why Microservices Are &lpar;Usually&rpar; the Right Choice](https://dev.to/naveens16/scale-speed-and-crush-complexity-10-reasons-why-microservices-are-usually-the-right-choice-1k65)
+- [Creating a Stock Price Alert App using AWS SAM and a Telegram Bot](https://dev.to/bambuco/creating-a-stock-price-alert-app-using-aws-sam-and-a-telegram-bot-4hdf)
+- [Setting Up Your Deep Learning Environment and Training Your First Model](https://dev.to/armansal/setting-up-your-deep-learning-environment-and-training-your-first-model-bff)
+- [How Hackers Intercept Your Messages: The Silent Cyber Threat You Need to Know](https://dev.to/nightmare-lynx/what-is-man-in-the-middle-attack-4a2j)
+- [Boy Scout Rule In Programming and Its Limitations](https://dev.to/anton9/boy-scout-rule-and-its-limitations-5404)
+- [Building a Banking Intelligence System: Transforming Customer Data for Insights](https://dev.to/apcodesphere/building-a-banking-intelligence-system-transforming-customer-data-for-insights-5h5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
