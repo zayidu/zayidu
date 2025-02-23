@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Laravel Reverb &amp; React TypeScript: A Step-by-Step Guide to Real-Time Broadcasting 🚀](https://dev.to/waiyan_woody_113f31a591fe/mastering-laravel-reverb-react-typescript-a-step-by-step-guide-to-real-time-broadcasting-3004)
-- [Toolzr&#39;s Domain Availability Checker As An Alternative to TLD-List.com](https://dev.to/toolzr/toolzrs-domain-availability-checker-as-an-alternative-to-tld-listcom-i2c)
-- [My very first frontend challenge give me your best support 💕](https://dev.to/web_dev-usman/my-very-first-frontend-challenge-give-me-your-best-support-21co)
-- [0221 Basic SQL -](https://dev.to/kitco/0221-basic-sql--13id)
-- [Glammed-Up Love Language Discovery 💖 | February Frontend Challenge](https://dev.to/hyeonjeong_lee_d47f5216d7/glammed-up-love-language-discovery-february-frontend-challenge-22ec)
+- [Bitly + GA4 ? You’re Wasting Time.](https://dev.to/younes_yaas/bitly-ga4-youre-wasting-time-1jfo)
+- [Why PaaS is the Future of Cloud Deployment – A Developer’s Perspective](https://dev.to/kuberns_cloud/why-paas-is-the-future-of-cloud-deployment-a-developers-perspective-53h)
+- [Enterprise-Grade Node.js: Leveraging TypeScript, ESLint &amp; Prettier for Production Excellence](https://dev.to/yugjadvani/enterprise-grade-nodejs-leveraging-typescript-eslint-prettier-for-production-excellence-39lj)
+- [[Boost]](https://dev.to/muash10/-27cl)
+- [Ram&#39;s Magic Cloud: A Fun and Simple Way to Understand Cloud Computing!](https://dev.to/ramkumar_mn_ad77e024d4e8/rams-magic-cloud-a-fun-and-simple-way-to-understand-cloud-computing-2e77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
