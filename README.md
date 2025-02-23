@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to insert test context inside XML of jest](https://dev.to/will_drygla/how-to-insert-test-context-inside-xml-of-jest-53da)
-- [Circular Dependency- a never ending Paradox in Development](https://dev.to/sivakumarmanoharan/circular-dependency-a-never-ending-paradox-in-development-480b)
-- [How to learn HTML and master it?](https://dev.to/ahummaitra/how-to-learn-html-quickly-1n1m)
-- [Deploying a Static Website Using S3 and CloudFront](https://dev.to/leonardkachi/deploying-a-static-website-using-s3-and-cloudfront-5h39)
-- [A11y in SwiftUI: Grouping](https://dev.to/dianait/a11y-in-swiftui-grouping-5fd6)
+- [Enable Recognize Non-Native Accents for this Language on Windows 11](https://dev.to/winsides/enable-recognize-non-native-accents-for-this-language-on-windows-11-4nnm)
+- [Running NestJS in a Lambda function with LocalStack and Serverless Framework](https://dev.to/nestjs-ninja/running-nestjs-in-a-lambda-function-with-localstack-and-serverless-framework-enk)
+- [Recipe Card](https://dev.to/preetha_vaishnavi_2b82358/recipe-card-4490)
+- [Checkout Form](https://dev.to/preetha_vaishnavi_2b82358/checkout-form-4jc7)
+- [Multi Step Form with Progress Bar using jQuery and CSS3](https://dev.to/preetha_vaishnavi_2b82358/multi-step-form-with-progress-bar-using-jquery-and-css3-5gb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
