@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [ShadeView 2 - First Complete Shader Helper - VSCode](https://dev.to/przemysaw_orowski_585ea/shadeview-2-first-complete-shader-helper-vscode-29le)
+- [What is &quot;right&quot; and what is &quot;wrong&quot;? — in IT](https://dev.to/pooyan/what-is-right-and-what-is-wrong-in-it-46ae)
 - [Helm Installation and Usage Guide for Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/devcorner/helm-installation-and-usage-guide-for-kubernetes-step-by-step-fmn)
 - [ElasticTransform in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-3-56pl)
 - [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-2p5j)
-- [ElasticTransform in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-1-m0b)
-- [Why E-commerce Security Audits Matter &lpar;And Why Most Brands Get It Wrong&rpar;](https://dev.to/danny_anderson/why-e-commerce-security-audits-matter-and-why-most-brands-get-it-wrong-fki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
