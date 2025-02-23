@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Security Policy Bypass in Laravel: Risks and Mitigations](https://dev.to/pentest_testing_corp/content-security-policy-bypass-in-laravel-risks-and-mitigations-344m)
-- [맥북 M3 에어를 사용하면서 느낀 점과 윈도우에서 넘어온 변화](https://dev.to/technomart/maegbug-m3-eeo-3obf)
-- [🚀 &quot;Oops! Something Went Wrong&quot; – Handling API Errors in Express.js Like a Pro](https://dev.to/skillnter/oops-something-went-wrong-handling-api-errors-in-expressjs-like-a-pro-2jia)
-- [Mastering Terraform: A Comprehensive Guide to Infrastructure as Code](https://dev.to/wasii/mastering-terraform-a-comprehensive-guide-to-infrastructure-as-code-3638)
-- [User Authentication -JsonWebTokens &lpar;MERN Stack&rpar;](https://dev.to/shaikr786/user-authentication-jsonwebtokens-mern-stack-1ipk)
+- [SSR vs SSG vs ISR vs CSR – What’s the Difference?](https://dev.to/ahmedaldrabea/ssr-vs-ssg-vs-isr-vs-csr-whats-the-difference-1gj0)
+- [🚀 Embrace the Power of Functional Programming in JavaScript and TypeScript 🚀](https://dev.to/hardikidea/embrace-the-power-of-functional-programming-in-javascript-and-typescript-3nfm)
+- [Finding Juicy Information from GraphQL](https://dev.to/cyberw1ng/finding-juicy-information-from-graphql-4ljn)
+- [Signup/login form](https://dev.to/ayushisharma45/signuplogin-form-gc0)
+- [Why You Should Use the “Do Until” Loop More Often in Power Automate](https://dev.to/myasir/why-you-should-use-the-do-until-loop-more-often-in-power-automate-4fkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
