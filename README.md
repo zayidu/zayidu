@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequelize vs. TypeORM: Choosing the Right ORM for Your Node.js Project](https://dev.to/smitinfo/sequelize-vs-typeorm-choosing-the-right-orm-for-your-nodejs-project-m43)
-- [Getting Started with Docker for Mobile App Development](https://dev.to/swap11/getting-started-with-docker-for-mobile-app-development-cfe)
-- [How AI Tech Solutions, Led by Mohammad Alothman, Is Redefining Customer Support with AI](https://dev.to/mohammad-alothman/how-ai-tech-solutions-led-by-mohammad-alothman-is-redefining-customer-support-with-ai-nh0)
-- [How to Optimize SQL Queries for Better Performance](https://dev.to/million_formula_3be3d915d/how-to-optimize-sql-queries-for-better-performance-546c)
-- [Daily JavaScript Challenge #JS-109: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-109-convert-snake-case-to-camel-case-5ab6)
+- [Helm Installation and Usage Guide for Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/devcorner/helm-installation-and-usage-guide-for-kubernetes-step-by-step-fmn)
+- [ElasticTransform in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-3-56pl)
+- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-2p5j)
+- [ElasticTransform in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-1-m0b)
+- [Why E-commerce Security Audits Matter &lpar;And Why Most Brands Get It Wrong&rpar;](https://dev.to/danny_anderson/why-e-commerce-security-audits-matter-and-why-most-brands-get-it-wrong-fki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
