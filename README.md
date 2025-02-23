@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequelize vs. TypeORM: Choosing the Right ORM for Your Node.js Project](https://dev.to/smitinfo/sequelize-vs-typeorm-choosing-the-right-orm-for-your-nodejs-project-m43)
+- [Getting Started with Docker for Mobile App Development](https://dev.to/swap11/getting-started-with-docker-for-mobile-app-development-cfe)
+- [How AI Tech Solutions, Led by Mohammad Alothman, Is Redefining Customer Support with AI](https://dev.to/mohammad-alothman/how-ai-tech-solutions-led-by-mohammad-alothman-is-redefining-customer-support-with-ai-nh0)
+- [How to Optimize SQL Queries for Better Performance](https://dev.to/million_formula_3be3d915d/how-to-optimize-sql-queries-for-better-performance-546c)
 - [Daily JavaScript Challenge #JS-109: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-109-convert-snake-case-to-camel-case-5ab6)
-- [The Role of Technologies in Business Analytics: Unlocking Insights for Informed Decision-Making](https://dev.to/lekshmi_525/the-role-of-technologies-in-business-analytics-unlocking-insights-for-informed-decision-making-khg)
-- [NestJS Distributed systems using service bus with @nestjstools/messaging](https://dev.to/sebastianiwanczyszyn/nestjs-distributed-systems-using-service-bus-with-nestjstoolsmessaging-3oha)
-- [What building a phone number validator taught me about RegEx: FCC solution](https://dev.to/israelrotimi/what-building-a-phone-number-validator-taught-me-about-regex-fcc-solution-2n26)
-- [EF Core Database/Tables exists](https://dev.to/karenpayneoregon/ef-core-databasetables-exists-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
