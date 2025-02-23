@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSR vs SSG vs ISR vs CSR – What’s the Difference?](https://dev.to/ahmedaldrabea/ssr-vs-ssg-vs-isr-vs-csr-whats-the-difference-1gj0)
-- [🚀 Embrace the Power of Functional Programming in JavaScript and TypeScript 🚀](https://dev.to/hardikidea/embrace-the-power-of-functional-programming-in-javascript-and-typescript-3nfm)
-- [Finding Juicy Information from GraphQL](https://dev.to/cyberw1ng/finding-juicy-information-from-graphql-4ljn)
-- [Signup/login form](https://dev.to/ayushisharma45/signuplogin-form-gc0)
-- [Why You Should Use the “Do Until” Loop More Often in Power Automate](https://dev.to/myasir/why-you-should-use-the-do-until-loop-more-often-in-power-automate-4fkm)
+- [Mastering Laravel Reverb &amp; React TypeScript: A Step-by-Step Guide to Real-Time Broadcasting 🚀](https://dev.to/waiyan_woody_113f31a591fe/mastering-laravel-reverb-react-typescript-a-step-by-step-guide-to-real-time-broadcasting-3004)
+- [Toolzr&#39;s Domain Availability Checker As An Alternative to TLD-List.com](https://dev.to/toolzr/toolzrs-domain-availability-checker-as-an-alternative-to-tld-listcom-i2c)
+- [My very first frontend challenge give me your best support 💕](https://dev.to/web_dev-usman/my-very-first-frontend-challenge-give-me-your-best-support-21co)
+- [0221 Basic SQL -](https://dev.to/kitco/0221-basic-sql--13id)
+- [Glammed-Up Love Language Discovery 💖 | February Frontend Challenge](https://dev.to/hyeonjeong_lee_d47f5216d7/glammed-up-love-language-discovery-february-frontend-challenge-22ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
