@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IKO - Lessons Learned &lpar;Part 1 - Helm&rpar;](https://dev.to/intersystems/iko-lessons-learned-part-1-helm-7do)
-- [Creating an IRIS Cross Functional App in &lt;150 Lines of Code](https://dev.to/intersystems/creating-an-iris-cross-functional-app-in-150-lines-of-code-5h04)
-- [Day 19: Part 2 Jubilee Austen](https://dev.to/theoriginalbpc/day-19-part-2-jubilee-austen-389i)
-- [Getting JSON from SQL](https://dev.to/intersystems/getting-json-from-sql-4e2f)
-- [Latin Ligatures in Unicode &lpar;and fonts&rpar;](https://dev.to/cmahte/latin-ligatures-in-unicode-and-fonts-2da9)
+- [Navigating the Pressure of Delivery: A Software Developer&#39;s Perspective](https://dev.to/jwp/navigating-the-pressure-of-delivery-a-software-developers-perspective-22dg)
+- [Control your PlayStation 3 remotely](https://dev.to/mprog10/control-your-playstation-3-remotely-3lh9)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4l01)
+- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
+- [UI Components Gone Wild: One Component, Many Frameworks!](https://dev.to/mjuliafb/ui-components-gone-wild-one-component-many-frameworks-59e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
