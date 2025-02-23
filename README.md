@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up Graph Databases in Large-Scale Applications for Complex Data Management](https://dev.to/flnzba/set-up-graph-databases-in-large-scale-applications-for-complex-data-management-1000)
-- [Streaming SQL in Stateful DataFlows](https://dev.to/debadyuti/streaming-sql-in-stateful-dataflows-3jng)
-- [AI Chat App template — Next.js, Vercel AI SDK, Firebase](https://dev.to/shreyvijayvargiya/ai-chat-app-template-nextjs-vercel-ai-sdk-firebase-1dej)
-- [Evita sorpresas en tu factura de AWS con Budget Alerts](https://dev.to/briansuarezsantiago/evita-sorpresas-en-tu-factura-de-aws-j2a)
-- [Mastering SSR &amp; CSR in Next.js with GraphQL – With and Without Apollo](https://dev.to/hijazi313/mastering-ssr-csr-in-nextjs-with-graphql-with-and-without-apollo-17c5)
+- [Exploring Neural Rendering for Realistic Graphics](https://dev.to/kartikmehta8/exploring-neural-rendering-for-realistic-graphics-12np)
+- [Top Cybersecurity Trends to Watch in 2025](https://dev.to/dreams_chaser/top-cybersecurity-trends-to-watch-in-2025-4cf1)
+- [&quot;Revolutionizing Quantum Error Correction: Meet Micro Blossom&#39;s Breakthrough!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-error-correction-meet-micro-blossoms-breakthrough-27hc)
+- [Choosing Integer Types in MySQL &amp; PostgreSQL](https://dev.to/kellyblaire/real-life-examples-of-choosing-integer-types-in-mysql-postgresql-183m)
+- [Por que você deve repensar o uso de Regex em validações de strings no Go](https://dev.to/renanbastos93/por-que-voce-deve-repensar-o-uso-de-regex-em-validacoes-de-strings-no-go-1cdi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
