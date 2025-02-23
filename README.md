@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you set multiple commands in one yaml file with Kubernetes?](https://dev.to/iamrj846/how-do-you-set-multiple-commands-in-one-yaml-file-with-kubernetes-17oc)
-- [What is the difference between ClusterIP, NodePort, and LoadBalancer service types in Kubernetes?](https://dev.to/iamrj846/what-is-the-difference-between-clusterip-nodeport-and-loadbalancer-service-types-in-kubernetes-4gd6)
-- [How can I keep a container running on Kubernetes?](https://dev.to/iamrj846/how-can-i-keep-a-container-running-on-kubernetes-4h2c)
-- [Astro + Jails - A Perfect Match](https://dev.to/javiani/astro-jails-a-perfect-match-365l)
-- [React Lazy Loading: Boosting Performance with Code Splitting](https://dev.to/shyam0118/react-lazy-loading-boosting-performance-with-code-splitting-45lg)
+- [My Tech Journey So Far](https://dev.to/athulmuralidhar/my-tech-journey-so-far-1emk)
+- [Implementing a RESTful API with Advanced Error Handling in Node.js](https://dev.to/rowsanali/implementing-a-restful-api-with-advanced-error-handling-in-nodejs-2dpg)
+- [Open github url in gitingest via chrome extension and keyboard shortcut](https://dev.to/remusris/open-github-url-in-gitingest-via-chrome-extension-and-keyboard-shortcut-3dgd)
+- [Spring Boot REST API - Returning Response in XML Format](https://dev.to/ayshriv/spring-boot-rest-api-returning-response-in-xml-format-2dkh)
+- [Things to consider in Frontend and Backend Setup🛠 - MERN Stack](https://dev.to/shaikr786/things-to-consider-in-frontend-and-backend-setup-mern-stack-3kee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
