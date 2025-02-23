@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Neural Rendering for Realistic Graphics](https://dev.to/kartikmehta8/exploring-neural-rendering-for-realistic-graphics-12np)
-- [Top Cybersecurity Trends to Watch in 2025](https://dev.to/dreams_chaser/top-cybersecurity-trends-to-watch-in-2025-4cf1)
-- [&quot;Revolutionizing Quantum Error Correction: Meet Micro Blossom&#39;s Breakthrough!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-error-correction-meet-micro-blossoms-breakthrough-27hc)
-- [Choosing Integer Types in MySQL &amp; PostgreSQL](https://dev.to/kellyblaire/real-life-examples-of-choosing-integer-types-in-mysql-postgresql-183m)
-- [Por que você deve repensar o uso de Regex em validações de strings no Go](https://dev.to/renanbastos93/por-que-voce-deve-repensar-o-uso-de-regex-em-validacoes-de-strings-no-go-1cdi)
+- [Daily JavaScript Challenge #JS-109: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-109-convert-snake-case-to-camel-case-5ab6)
+- [The Role of Technologies in Business Analytics: Unlocking Insights for Informed Decision-Making](https://dev.to/lekshmi_525/the-role-of-technologies-in-business-analytics-unlocking-insights-for-informed-decision-making-khg)
+- [NestJS Distributed systems using service bus with @nestjstools/messaging](https://dev.to/sebastianiwanczyszyn/nestjs-distributed-systems-using-service-bus-with-nestjstoolsmessaging-3oha)
+- [What building a phone number validator taught me about RegEx: FCC solution](https://dev.to/israelrotimi/what-building-a-phone-number-validator-taught-me-about-regex-fcc-solution-2n26)
+- [EF Core Database/Tables exists](https://dev.to/karenpayneoregon/ef-core-databasetables-exists-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
