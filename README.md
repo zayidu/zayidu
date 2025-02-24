@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Agentic Code Demo](https://dev.to/vijaykodam/claude-code-agentic-code-demo-1n1c)
-- [A Beginner’s Guide to Drag-and-Drop with DnD Kit in React](https://dev.to/kelseyroche/a-beginners-guide-to-drag-and-drop-with-dnd-kit-in-react-5hfe)
-- [Discover the power of microfrontends: A revolution in frontend development](https://dev.to/darge98/discover-the-power-of-microfrontends-a-revolution-in-frontend-development-33he)
-- [[SQL] Essential Terms in the Relational Database Model and Characteristics of a relation](https://dev.to/kitco/sql-essential-terms-in-the-relational-database-model-and-characteristics-of-a-relation-1cmj)
-- [Hypothesis Testing; why and when to use.](https://dev.to/kelvin_munene/hypothesis-testing-why-and-when-to-use-if5)
+- [Hello Blog 1](https://dev.to/capricious_daksh/hello-blog-1-25fn)
+- [#28.2 Part 2/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/282-part-23-basics-of-software-architecture-and-design-patterns-haf)
+- [Claude 3.7 Sonnet by Antrophic: A Revolutionary Hybrid Reasoning AI Model](https://dev.to/mehmetakar/claude-37-sonnet-by-antrophic-a-revolutionary-hybrid-reasoning-ai-model-4dj0)
+- [Image Optimization in Astro: Boost Site Performance and SEO](https://dev.to/saida_lachgar/image-optimization-in-astro-boost-site-performance-and-seo-2k80)
+- [Introducción a Amazon GuardDuty: Generar hallazgos de prueba](https://dev.to/camila_vinza/introduccion-a-amazon-guardduty-generar-hallazgos-de-prueba-1g09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
