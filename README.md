@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use cURL to Show HTTP Response Headers and Content](https://dev.to/swiftproxy_residential/how-to-use-curl-to-show-http-response-headers-and-content-307k)
-- [What Is IA &lpar;Intelligent Automation&rpar; and Its Core Components?](https://dev.to/anemarie_dicola_9aaa699f0/what-is-ia-intelligent-automation-and-its-core-components-5g7c)
-- [Building a JS pytorch clone &lpar;autograd&rpar;](https://dev.to/ndesmic/building-a-js-pytorch-clone-autograd-4ipg)
-- [Database Security Made Simple: Essential Practices](https://dev.to/dbvismarketing/database-security-made-simple-essential-practices-3pf6)
-- [Unlocking Modern Web Security: Top 5 Cutting-Edge Solutions You Need to Know](https://dev.to/mpoiiii/unlocking-modern-web-security-top-5-cutting-edge-solutions-you-need-to-know-4cik)
+- [The Role of Observables in Angular and How to Use Them Effectively](https://dev.to/artem_turlenko/the-role-of-observables-in-angular-and-how-to-use-them-effectively-4222)
+- [Contribute to the Ultimate JavaScript Project – 500+ Open Source Ideas!🚀](https://dev.to/raajaryan/contribute-to-the-ultimate-javascript-project-500-open-source-ideas-24aj)
+- [AI Learns Physics Like a Child: Just By Watching Videos](https://dev.to/mikeyoung44/ai-learns-physics-like-a-child-just-by-watching-videos-56ic)
+- [New Test Reveals AI Models Often Memorize Instead of Think - Study Shows Gap in Current Evaluation Methods](https://dev.to/mikeyoung44/new-test-reveals-ai-models-often-memorize-instead-of-think-study-shows-gap-in-current-evaluation-229p)
+- [An overview of Elixir from C# developer](https://dev.to/actor-swe/an-overview-of-elixir-from-c-developer-9dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
