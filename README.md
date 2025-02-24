@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kashi CTF 2025 Writeup - English](https://dev.to/hitter/kashi-ctf-2025-writeup-english-2l8a)
-- [𝙎𝙝𝙤𝙪𝙡𝙙 𝙒𝙚 𝙄𝙣𝙨𝙩𝙖𝙡𝙡 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙁𝙧𝙚𝙦𝙪𝙚𝙣𝙩𝙡𝙮 𝙞𝙣 𝙍𝙚𝙖𝙡-𝙏𝙞𝙢𝙚 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨?](https://dev.to/supraja_tangella_b7f0738e/--2jpj)
-- [Designing Intelligence: System Design in AI/ML Evolution](https://dev.to/balagmadhu/designing-intelligence-system-design-in-aiml-evolution-28a9)
-- [Frontend Evolution - Rethinking Frontend](https://dev.to/adalbertuschris/frontend-evolution-rethinking-frontend-4iha)
-- [Understanding the Basics of GitHub: An Introduction for Beginners](https://dev.to/theuzomavictor/understanding-the-basics-of-github-an-introduction-for-beginners-4iee)
+- [Claude Code Agentic Code Demo](https://dev.to/vijaykodam/claude-code-agentic-code-demo-1n1c)
+- [A Beginner’s Guide to Drag-and-Drop with DnD Kit in React](https://dev.to/kelseyroche/a-beginners-guide-to-drag-and-drop-with-dnd-kit-in-react-5hfe)
+- [Discover the power of microfrontends: A revolution in frontend development](https://dev.to/darge98/discover-the-power-of-microfrontends-a-revolution-in-frontend-development-33he)
+- [[SQL] Essential Terms in the Relational Database Model and Characteristics of a relation](https://dev.to/kitco/sql-essential-terms-in-the-relational-database-model-and-characteristics-of-a-relation-1cmj)
+- [Hypothesis Testing; why and when to use.](https://dev.to/kelvin_munene/hypothesis-testing-why-and-when-to-use-if5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
