@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding user registration and authentication to your application with open web services](https://dev.to/oscdev/adding-user-registration-and-authentication-to-your-application-with-open-web-services-3ff6)
-- [The Future of Server-Side WebAssembly](https://dev.to/kartikmehta8/the-future-of-server-side-webassembly-m89)
-- [Akio&#39;s Presale is Live: How to Get in Early on the Future of Crypto Entertainment](https://dev.to/lacrymosatech/akios-presale-is-live-how-to-get-in-early-on-the-future-of-crypto-entertainment-1lg8)
-- [The Business Case for Rigorous Mobile App Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-business-case-for-rigorous-mobile-app-testing-3dh5)
-- [Ai Agent Patterns with Spring AI](https://dev.to/lucasnscr/ai-agent-patterns-with-spring-ai-43gl)
+- [Hypothesis Testing: Purpose, Importance, and Applications](https://dev.to/sum_byron/hypothesis-testing-purpose-importance-and-applications-1nim)
+- [Taking pretty printing of logs to the next level with LogLayer](https://dev.to/theogravity/taking-pretty-printing-of-logs-to-the-next-level-with-loglayer-1nnp)
+- [Jekyll Github Pages Website](https://dev.to/anusree6154s/jekyll-github-pages-website-4poh)
+- [Code Coverage - Aim for 100% but not 100%](https://dev.to/adegiamb/code-coverage-aim-for-100-but-not-100-i0f)
+- [Javascript projects and optimize space on your laptop](https://dev.to/akaak/javascript-project-and-optimize-space-on-your-laptop-421j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
