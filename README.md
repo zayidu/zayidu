@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#28.1 Part 1/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/281-part-12-basics-of-software-architecture-and-design-patterns-475e)
-- [HOW TO CREATE AN APP SERVICE APPLICATION WITH AZURE](https://dev.to/sheyitex/how-to-create-an-app-service-application-with-azure-gfo)
-- [🚀 Supercharge Your File Storage: SeaweedFS + PostgreSQL in 15 Minutes](https://dev.to/benjeddou_monem_68600c6c8/supercharge-your-file-storage-seaweedfs-postgresql-in-15-minutes-407f)
-- [DeepSeek&#39;s Breakthrough: Challenging the AI Landscape 🚀](https://dev.to/lorebrada00/deepseeks-breakthrough-challenging-the-ai-landscape-43n6)
-- [¿Qué es Incogni? Elimina tus datos personales: Opinión, afiliados y usos](https://dev.to/angel_rojas_6904bae237a0d/que-es-incogni-elimina-tus-datos-personales-opinion-afiliados-y-usos-53p4)
+- [Adding user registration and authentication to your application with open web services](https://dev.to/oscdev/adding-user-registration-and-authentication-to-your-application-with-open-web-services-3ff6)
+- [The Future of Server-Side WebAssembly](https://dev.to/kartikmehta8/the-future-of-server-side-webassembly-m89)
+- [Akio&#39;s Presale is Live: How to Get in Early on the Future of Crypto Entertainment](https://dev.to/lacrymosatech/akios-presale-is-live-how-to-get-in-early-on-the-future-of-crypto-entertainment-1lg8)
+- [The Business Case for Rigorous Mobile App Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-business-case-for-rigorous-mobile-app-testing-3dh5)
+- [Ai Agent Patterns with Spring AI](https://dev.to/lucasnscr/ai-agent-patterns-with-spring-ai-43gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
