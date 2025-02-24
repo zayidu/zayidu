@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang Concurrency: How Confinement Improves Performance Without Locks](https://dev.to/bahaanoah/golang-concurrency-how-confinement-improves-performance-without-locks-1ld5)
-- [🌟 Introducing Myself: CodeCart - Your Affordable Website Solution! 🌟](https://dev.to/hanzla-baig/introducing-myself-codecart-your-affordable-website-solution-48m7)
-- [Phone Numbers as Digital Footprints: Tracking Info with PhoneInfoga!!](https://dev.to/karanjain2527/phone-numbers-as-digital-footprints-tracking-info-with-phoneinfoga-a61)
-- [creating your own command &lpar;executable script&rpar; in parrot os](https://dev.to/tamilvanan/creating-your-own-command-executable-script-in-parrot-os-353n)
-- [JavaScript Event Loop &amp; Promises Explained: Async Programming Made Easy](https://dev.to/camskithedev/javascript-event-loop-promises-explained-async-programming-made-easy-3kcn)
+- [🚀 Setting Up a Kubernetes Observability Proof of Concept &lpar;POC&rpar; with MicroK8s and DataDog](https://dev.to/smashse/setting-up-a-kubernetes-observability-proof-of-concept-poc-with-microk8s-and-datadog-39bn)
+- [Doing DSA in JS](https://dev.to/pindaricoders/doing-dsa-in-js-5f45)
+- [Level Up React: Functional Programming in React](https://dev.to/56_kode/level-up-react-functional-programming-in-react-3199)
+- [Turn Any Website into an Android App Using WebView](https://dev.to/himagaur2708/turn-any-website-into-an-android-app-using-webview-25bl)
+- [Bubble Sorting &amp; Selection Sorting In Java](https://dev.to/guna_sekaran_/bubble-sorting-selection-sorting-in-java-2jca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
