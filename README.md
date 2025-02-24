@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Angular Ahead-of-Time &lpar;AOT&rpar; Compilation](https://dev.to/this-is-angular/understanding-angular-ahead-of-time-aot-compilation-2m7p)
-- [✨ Module Bundlers, Demystified: What You Actually Need to Know](https://dev.to/_ndeyefatoudiop/module-bundlers-demystified-what-you-actually-need-to-know-1bc4)
-- [Python Loops: A Complete Guide](https://dev.to/mike-vincent/python-loops-a-complete-guide-4l24)
-- [Advanced React Hooks: Custom Hooks and Performance Optimization](https://dev.to/johnschibelli/advanced-react-hooks-custom-hooks-and-performance-optimization-21nl)
-- [Build Your Own Smart Motion Detector That Actually Works! &lpar;ESP32 + PIR Tutorial&rpar;](https://dev.to/supermnr/build-your-own-smart-motion-detector-that-actually-works-esp32-pir-tutorial-1i8n)
+- [Golang Concurrency: How Confinement Improves Performance Without Locks](https://dev.to/bahaanoah/golang-concurrency-how-confinement-improves-performance-without-locks-1ld5)
+- [🌟 Introducing Myself: CodeCart - Your Affordable Website Solution! 🌟](https://dev.to/hanzla-baig/introducing-myself-codecart-your-affordable-website-solution-48m7)
+- [Phone Numbers as Digital Footprints: Tracking Info with PhoneInfoga!!](https://dev.to/karanjain2527/phone-numbers-as-digital-footprints-tracking-info-with-phoneinfoga-a61)
+- [creating your own command &lpar;executable script&rpar; in parrot os](https://dev.to/tamilvanan/creating-your-own-command-executable-script-in-parrot-os-353n)
+- [JavaScript Event Loop &amp; Promises Explained: Async Programming Made Easy](https://dev.to/camskithedev/javascript-event-loop-promises-explained-async-programming-made-easy-3kcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
