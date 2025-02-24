@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to C# Programming](https://dev.to/million_formula_3be3d915d/a-beginners-guide-to-c-programming-1li3)
+- [Guardius and OWASP ZAP: Boosting Web Application Security with Comprehensive Scanning](https://dev.to/guardius/guardius-and-owasp-zap-boosting-web-application-security-with-comprehensive-scanning-44fi)
 - [Hypothesis Testing: Purpose, Importance, and Applications](https://dev.to/sum_byron/hypothesis-testing-purpose-importance-and-applications-1nim)
 - [Taking pretty printing of logs to the next level with LogLayer](https://dev.to/theogravity/taking-pretty-printing-of-logs-to-the-next-level-with-loglayer-1nnp)
 - [Jekyll Github Pages Website](https://dev.to/anusree6154s/jekyll-github-pages-website-4poh)
-- [Code Coverage - Aim for 100% but not 100%](https://dev.to/adegiamb/code-coverage-aim-for-100-but-not-100-i0f)
-- [Javascript projects and optimize space on your laptop](https://dev.to/akaak/javascript-project-and-optimize-space-on-your-laptop-421j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
