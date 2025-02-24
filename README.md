@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master project management for development teams with Agile strategies, clear communication, and efficient workflows. Learn how to optimize processes, manage resources, and drive success. Unlock your team&#39;s full potential with expert tips! #ProjectManagemen](https://dev.to/pratham_naik_project_manager/master-project-management-for-development-teams-with-agile-strategies-clear-communication-and-i0j)
-- [Boost team productivity in software development with clear goals, effective collaboration, and the right tools. Use Agile methods, automate tasks, and foster open communication to streamline workflows. Learn key strategies for success! #Productivity #Dev](https://dev.to/pratham_naik_project_manager/boost-team-productivity-in-software-development-with-clear-goals-effective-collaboration-and-the-1i40)
-- [Pasar funciones lambda como argumentos de métodos en Java](https://dev.to/asjordi/pasar-funciones-lambda-como-argumentos-de-metodos-en-java-5674)
-- [My journey into technical writing: starting from scratch](https://dev.to/kayode_david_0f763081697c/my-journey-into-technical-writing-starting-from-scratch-3fln)
-- [here is the solution for developers for efficient Project management](https://dev.to/pratham_naik_project_manager/here-is-the-solution-for-developers-for-efficient-project-management-nbc)
+- [Selenium](https://dev.to/s1eb0d54/selenium-417o)
+- [Building a Strong Personal Brand as a Service Provider](https://dev.to/irishiroy/building-a-strong-personal-brand-as-a-service-provider-4peg)
+- [Dark Mode in Web Design: Pros and Cons](https://dev.to/gaurav_jha_tps/dark-mode-in-web-design-pros-and-cons-54c1)
+- [Building Bridges, Not Walls: How Crypto Can Win Public Trust](https://dev.to/endeo/building-bridges-not-walls-how-crypto-can-win-public-trust-16e2)
+- [🚀 Solving the Stock Span Problem - My Thought Process &amp; Approach](https://dev.to/nemish/solving-the-stock-span-problem-my-thought-process-approach-4dk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
