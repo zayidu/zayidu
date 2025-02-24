@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing APIs with Chaos Mode: A Comprehensive Guide to Error Handling](https://dev.to/getambassador2024/testing-apis-with-chaos-mode-a-comprehensive-guide-to-error-handling-29gk)
-- [The Lost Temple of Eldoria](https://dev.to/s_r_i/the-lost-temple-of-eldoria-3n4)
-- [a fresher expecting a good future.](https://dev.to/chotu_dev/a-fresher-expecting-a-good-future-3k6i)
-- [Bippy, a toolkit to hack into react internals.](https://dev.to/ramunarasinga-11/bippy-a-toolkit-to-hack-into-react-internals-2a11)
-- [Exploring Nau Engine codebase: pt.2](https://dev.to/pvsdev/exploring-nau-engine-codebase-pt2-1me8)
+- [How to Use cURL to Show HTTP Response Headers and Content](https://dev.to/swiftproxy_residential/how-to-use-curl-to-show-http-response-headers-and-content-307k)
+- [What Is IA &lpar;Intelligent Automation&rpar; and Its Core Components?](https://dev.to/anemarie_dicola_9aaa699f0/what-is-ia-intelligent-automation-and-its-core-components-5g7c)
+- [Building a JS pytorch clone &lpar;autograd&rpar;](https://dev.to/ndesmic/building-a-js-pytorch-clone-autograd-4ipg)
+- [Database Security Made Simple: Essential Practices](https://dev.to/dbvismarketing/database-security-made-simple-essential-practices-3pf6)
+- [Unlocking Modern Web Security: Top 5 Cutting-Edge Solutions You Need to Know](https://dev.to/mpoiiii/unlocking-modern-web-security-top-5-cutting-edge-solutions-you-need-to-know-4cik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
