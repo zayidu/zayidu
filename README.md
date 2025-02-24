@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to C# Programming](https://dev.to/million_formula_3be3d915d/a-beginners-guide-to-c-programming-1li3)
-- [Guardius and OWASP ZAP: Boosting Web Application Security with Comprehensive Scanning](https://dev.to/guardius/guardius-and-owasp-zap-boosting-web-application-security-with-comprehensive-scanning-44fi)
-- [Hypothesis Testing: Purpose, Importance, and Applications](https://dev.to/sum_byron/hypothesis-testing-purpose-importance-and-applications-1nim)
-- [Taking pretty printing of logs to the next level with LogLayer](https://dev.to/theogravity/taking-pretty-printing-of-logs-to-the-next-level-with-loglayer-1nnp)
-- [Jekyll Github Pages Website](https://dev.to/anusree6154s/jekyll-github-pages-website-4poh)
+- [To test or not to test, &quot;How&quot; is the question!](https://dev.to/pooyan/to-test-or-not-to-test-how-is-the-question-bga)
+- [How Does Continuous Performance Testing Benefit Retail Apps?](https://dev.to/grjoeay/how-does-continuous-performance-testing-benefit-retail-apps-3pi7)
+- [CodePipeline EC2 Action: Simplify your EC2 application deployment pipeline by 90%!](https://dev.to/aws-builders/simplify-your-ec2-application-deployment-pipeline-by-90-2mbk)
+- [Top 5 C# PPT Libraries .NET Developers Should Be Familiar With](https://dev.to/xeshan6981/top-5-c-ppt-libraries-net-developers-should-be-familiar-with-2ehe)
+- [What is a Kafka Consumer Group?](https://dev.to/clasnake/what-is-a-kafka-consumer-group-22bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
