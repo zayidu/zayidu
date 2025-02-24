@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Selenium](https://dev.to/s1eb0d54/selenium-417o)
-- [Building a Strong Personal Brand as a Service Provider](https://dev.to/irishiroy/building-a-strong-personal-brand-as-a-service-provider-4peg)
-- [Dark Mode in Web Design: Pros and Cons](https://dev.to/gaurav_jha_tps/dark-mode-in-web-design-pros-and-cons-54c1)
-- [Building Bridges, Not Walls: How Crypto Can Win Public Trust](https://dev.to/endeo/building-bridges-not-walls-how-crypto-can-win-public-trust-16e2)
-- [🚀 Solving the Stock Span Problem - My Thought Process &amp; Approach](https://dev.to/nemish/solving-the-stock-span-problem-my-thought-process-approach-4dk6)
+- [Why mode: &quot;no-cors&quot; won&#39;t fix your CORS errors](https://dev.to/reynaldi/why-mode-no-cors-wont-fix-your-cors-errors-250)
+- [Talos Linux: The Kubernetes OS That’s Changing the Game &lpar;and Why You Should Care&rpar;](https://dev.to/binyam/talos-linux-the-kubernetes-os-thats-changing-the-game-and-why-you-should-care-462k)
+- [API Versioning in .NET 8](https://dev.to/hilman_karyadi_39272fd379/api-versioning-in-net-8-3ao4)
+- [Introduction to Vertical AI Agents](https://dev.to/markfreedman/introduction-to-vertical-ai-agents-mnl)
+- [Bridge Pattern in Java](https://dev.to/mspilari/bridge-pattern-in-java-ngm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
