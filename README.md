@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Observables in Angular and How to Use Them Effectively](https://dev.to/artem_turlenko/the-role-of-observables-in-angular-and-how-to-use-them-effectively-4222)
-- [Contribute to the Ultimate JavaScript Project – 500+ Open Source Ideas!🚀](https://dev.to/raajaryan/contribute-to-the-ultimate-javascript-project-500-open-source-ideas-24aj)
-- [AI Learns Physics Like a Child: Just By Watching Videos](https://dev.to/mikeyoung44/ai-learns-physics-like-a-child-just-by-watching-videos-56ic)
-- [New Test Reveals AI Models Often Memorize Instead of Think - Study Shows Gap in Current Evaluation Methods](https://dev.to/mikeyoung44/new-test-reveals-ai-models-often-memorize-instead-of-think-study-shows-gap-in-current-evaluation-229p)
-- [An overview of Elixir from C# developer](https://dev.to/actor-swe/an-overview-of-elixir-from-c-developer-9dh)
+- [How AI is Revolutionizing Video Content Creation &lpar;Or, How I Accidentally Made a Talking Potato Famous!&rpar;](https://dev.to/createvideoai/how-ai-is-revolutionizing-video-content-creation-or-how-i-accidentally-made-a-talking-potato-13n)
+- [Wordpress get_template_part&lpar;&rpar; is just great](https://dev.to/elbasiri/wordpress-gettemplatepart-is-just-great-5824)
+- [The Risk of Not Investing in Early Stages](https://dev.to/twelvepercent/the-risk-of-not-investing-in-early-stages-4ddp)
+- [Simple search and library application with Next.js x OpenSearch x Lambda&lpar;Python&rpar;](https://dev.to/toshipy/simple-search-and-library-application-with-nextjs-x-opensearch-x-lambdapython-1bdh)
+- [How to Choose a Cryptocurrency for Investment or Trading 🚀](https://dev.to/cryptosandy/how-to-choose-a-cryptocurrency-for-investment-or-trading-220e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
