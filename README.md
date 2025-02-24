@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [To test or not to test, &quot;How&quot; is the question!](https://dev.to/pooyan/to-test-or-not-to-test-how-is-the-question-bga)
-- [How Does Continuous Performance Testing Benefit Retail Apps?](https://dev.to/grjoeay/how-does-continuous-performance-testing-benefit-retail-apps-3pi7)
-- [CodePipeline EC2 Action: Simplify your EC2 application deployment pipeline by 90%!](https://dev.to/aws-builders/simplify-your-ec2-application-deployment-pipeline-by-90-2mbk)
-- [Top 5 C# PPT Libraries .NET Developers Should Be Familiar With](https://dev.to/xeshan6981/top-5-c-ppt-libraries-net-developers-should-be-familiar-with-2ehe)
-- [What is a Kafka Consumer Group?](https://dev.to/clasnake/what-is-a-kafka-consumer-group-22bk)
+- [Essential First Steps for Unit Testing in C#](https://dev.to/canro91/essential-first-steps-for-unit-testing-in-c-2m73)
+- [History of Laravel: How Laravel Started and Where It Stands Today](https://dev.to/ehtesham_ali_abc367f36a5b/history-of-laravel-how-laravel-started-and-where-it-stands-today-236n)
+- [Host a web application with Azure App Service](https://dev.to/essy/host-a-web-application-with-azure-app-service-iml)
+- [What Is IT Asset Lifecycle Management?](https://dev.to/emily_assetloom/what-is-it-asset-lifecycle-management-ojm)
+- [How to Install Node.js: A Step-by-Step Guide](https://dev.to/surendra_sahu_dbf30c18278/how-to-install-nodejs-a-step-by-step-guide-3ckf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
