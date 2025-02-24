@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Insanely Useful Javascript Resources You Need Right Now!](https://dev.to/dev-resources/25-insanely-useful-javascript-resources-you-need-right-now-1h5)
-- [User Management in Linux](https://dev.to/sourav3366/user-management-in-linux-4ga6)
-- [How and when to use JavaScript arrow functions](https://dev.to/logrocket/how-and-when-to-use-javascript-arrow-functions-2gbg)
-- [I Don’t Trust JavaScript. Here’s Why console.log&lpar;&quot;Hello&quot;&rpar; Returned undefined](https://dev.to/byte-sized-news/i-dont-trust-javascript-heres-why-consoleloghello-returned-undefined-3cam)
-- [Creating a Windows Virtual Machine in the Azure Portal and connecting to it through RDP.](https://dev.to/nonny/creating-a-windows-virtual-machine-in-the-azure-portal-and-connecting-to-it-through-rdp-153g)
+- [🍽️ Obsidian: Restaurant&#39;s rating](https://dev.to/oscareduardolp6/obsidian-restaurants-rating-3fcb)
+- [🍽️ Obsidian: Restaurantes](https://dev.to/oscareduardolp6/obsidian-restaurantes-28nm)
+- [Understanding MS Rules Engine In-Built Post Rule Actions — Part 4](https://dev.to/vamsidogiparthi/understanding-ms-rules-engine-in-built-post-rule-actions-part-4-3m66)
+- [Essential Git Commands Every Developer Should Know](https://dev.to/purushoth_26/essential-git-commands-every-developer-should-know-36gb)
+- [Typescript interfaces vs types](https://dev.to/rem0nfawzi/typescript-interfaces-vs-type-alias-bpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
