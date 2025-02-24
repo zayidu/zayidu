@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Elon Musk’s Grok 3: A Game-Changer in AI or Just Another Competitor? 🤖](https://dev.to/stacks_gather_f66c31eb9d6/elon-musks-grok-3-a-game-changer-in-ai-or-just-another-competitor-337d)
-- [13 GitHub Projects that Empower AI, Enhance Privacy, and Simplify Development 🌟](https://dev.to/bruh_buh_f683772f171823db/13-github-projects-that-empower-ai-enhance-privacy-and-simplify-development-44f1)
-- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Opus, and OpenAI text-embedding-3-small](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-opus-and-openai-text-embedding-3-small-e2k)
-- [AWS Skill Builder: Build Cloud Skills with Amazon Web Services](https://dev.to/skillboosttrainer/aws-skill-builder-build-cloud-skills-with-amazon-web-services-l8d)
-- [JavaScript vs TypeScript:](https://dev.to/renuma1618/javascript-vs-typescript-1heh)
+- [25+ Insanely Useful Javascript Resources You Need Right Now!](https://dev.to/dev-resources/25-insanely-useful-javascript-resources-you-need-right-now-1h5)
+- [User Management in Linux](https://dev.to/sourav3366/user-management-in-linux-4ga6)
+- [How and when to use JavaScript arrow functions](https://dev.to/logrocket/how-and-when-to-use-javascript-arrow-functions-2gbg)
+- [I Don’t Trust JavaScript. Here’s Why console.log&lpar;&quot;Hello&quot;&rpar; Returned undefined](https://dev.to/byte-sized-news/i-dont-trust-javascript-heres-why-consoleloghello-returned-undefined-3cam)
+- [Creating a Windows Virtual Machine in the Azure Portal and connecting to it through RDP.](https://dev.to/nonny/creating-a-windows-virtual-machine-in-the-azure-portal-and-connecting-to-it-through-rdp-153g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
