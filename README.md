@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential First Steps for Unit Testing in C#](https://dev.to/canro91/essential-first-steps-for-unit-testing-in-c-2m73)
-- [History of Laravel: How Laravel Started and Where It Stands Today](https://dev.to/ehtesham_ali_abc367f36a5b/history-of-laravel-how-laravel-started-and-where-it-stands-today-236n)
-- [Host a web application with Azure App Service](https://dev.to/essy/host-a-web-application-with-azure-app-service-iml)
-- [What Is IT Asset Lifecycle Management?](https://dev.to/emily_assetloom/what-is-it-asset-lifecycle-management-ojm)
-- [How to Install Node.js: A Step-by-Step Guide](https://dev.to/surendra_sahu_dbf30c18278/how-to-install-nodejs-a-step-by-step-guide-3ckf)
+- [Bulk Email Service Provider](https://dev.to/sam_devid_65bbbe34ab06c1a/bulk-email-service-provider-2hn6)
+- [Property Management Made Simple: A Guide to Effortless Real Estate Operations](https://dev.to/bhavesh_gangani_/property-management-made-simple-a-guide-to-effortless-real-estate-operations-46a0)
+- [The Intelligent Loop: A Guide to Modern LLM Agents](https://dev.to/angu10/the-intelligent-loop-a-guide-to-modern-llm-agents-1g85)
+- [SSD Failure Prediction: Top Software Tools for Proactive Health Monitoring and Preventive Maintenance](https://dev.to/adityabhuyan/ssd-failure-prediction-top-software-tools-for-proactive-health-monitoring-and-preventive-3fi2)
+- [Practical Application of Face Liveness Detection and Card Certificate Recognition in the Smart Security System of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-face-liveness-detection-and-card-certificate-recognition-in-the-smart-ccj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
