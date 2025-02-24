@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🍽️ Obsidian: Restaurant&#39;s rating](https://dev.to/oscareduardolp6/obsidian-restaurants-rating-3fcb)
-- [🍽️ Obsidian: Restaurantes](https://dev.to/oscareduardolp6/obsidian-restaurantes-28nm)
-- [Understanding MS Rules Engine In-Built Post Rule Actions — Part 4](https://dev.to/vamsidogiparthi/understanding-ms-rules-engine-in-built-post-rule-actions-part-4-3m66)
-- [Essential Git Commands Every Developer Should Know](https://dev.to/purushoth_26/essential-git-commands-every-developer-should-know-36gb)
-- [Typescript interfaces vs types](https://dev.to/rem0nfawzi/typescript-interfaces-vs-type-alias-bpk)
+- [Secure Your S3 Bucket for Image Hosting: A Step-by-Step Guide](https://dev.to/jacksonkasi/secure-your-s3-bucket-for-image-hosting-a-step-by-step-guide-379n)
+- [Secure Google Drive Picker: Token Best Practices](https://dev.to/googleworkspace/secure-google-drive-picker-token-best-practices-43al)
+- [Thenali raman Story &quot;logical thinking i Java&quot;](https://dev.to/yaswanth_krishna_81faee1e/thenali-raman-story-logical-thinking-i-java-36oc)
+- [police thief while using &quot;logical thinking&quot;](https://dev.to/yaswanth_krishna_81faee1e/police-thief-while-using-logical-thinking-4ipl)
+- [python using Eb bill basic](https://dev.to/yaswanth_krishna_81faee1e/python-using-eb-bill-basic-8f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
