@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk Email Service Provider](https://dev.to/sam_devid_65bbbe34ab06c1a/bulk-email-service-provider-2hn6)
-- [Property Management Made Simple: A Guide to Effortless Real Estate Operations](https://dev.to/bhavesh_gangani_/property-management-made-simple-a-guide-to-effortless-real-estate-operations-46a0)
-- [The Intelligent Loop: A Guide to Modern LLM Agents](https://dev.to/angu10/the-intelligent-loop-a-guide-to-modern-llm-agents-1g85)
-- [SSD Failure Prediction: Top Software Tools for Proactive Health Monitoring and Preventive Maintenance](https://dev.to/adityabhuyan/ssd-failure-prediction-top-software-tools-for-proactive-health-monitoring-and-preventive-3fi2)
-- [Practical Application of Face Liveness Detection and Card Certificate Recognition in the Smart Security System of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-face-liveness-detection-and-card-certificate-recognition-in-the-smart-ccj)
+- [Testing APIs with Chaos Mode: A Comprehensive Guide to Error Handling](https://dev.to/getambassador2024/testing-apis-with-chaos-mode-a-comprehensive-guide-to-error-handling-29gk)
+- [The Lost Temple of Eldoria](https://dev.to/s_r_i/the-lost-temple-of-eldoria-3n4)
+- [a fresher expecting a good future.](https://dev.to/chotu_dev/a-fresher-expecting-a-good-future-3k6i)
+- [Bippy, a toolkit to hack into react internals.](https://dev.to/ramunarasinga-11/bippy-a-toolkit-to-hack-into-react-internals-2a11)
+- [Exploring Nau Engine codebase: pt.2](https://dev.to/pvsdev/exploring-nau-engine-codebase-pt2-1me8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
