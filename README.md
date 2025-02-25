@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reactive System in Typescript - Introduction to Reactivity](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-introduction-to-reactivity-34lh)
-- [Building a Reactive System in Typescript - Writing a Signal](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-writing-a-signal-120c)
-- [One-click City Generation with GISBox](https://dev.to/gisbox/one-click-city-generation-with-gisbox-27h7)
-- [Using React-admin Dashboard for Application Management](https://dev.to/saurabh2k1/using-react-admin-dashboard-for-application-management-3eb2)
-- [Getting Paid in Crypto as a Developer: Why It’s a Game-Changer](https://dev.to/klimd1389/getting-paid-in-crypto-as-a-developer-why-its-a-game-changer-jjf)
+- [From Resumes to Algorithms: How AI Staffing Companies are Matching Candidates with the Perfect Job Fit](https://dev.to/bh1rti/from-resumes-to-algorithms-how-ai-staffing-companies-are-matching-candidates-with-the-perfect-job-1ge6)
+- [Benefits of Ai Agent.](https://dev.to/e77/benefits-of-ai-agent-19k2)
+- [JS Craftsmanship Series Roadmap](https://dev.to/muthoni_muchiri_17933efd2/js-craftsmanship-series-14gn)
+- [Getting Started with Terraform: Advanced Concepts and Best Practices &lpar;Part 3&rpar; 🚀](https://dev.to/techwithhari/getting-started-with-terraform-advanced-concepts-and-best-practices-part-3-2p12)
+- [Types Of Ai Agent?](https://dev.to/e77/types-of-ai-agent-29b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
