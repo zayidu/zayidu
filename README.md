@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Compression, Types and Techniques in Big Data](https://dev.to/aws-builders/data-compression-types-and-techniques-in-big-data-pl6)
-- [Simplify Currency Formatting in React: A Zero-Dependency Solution with Intl API](https://dev.to/josephciullo/simplify-currency-formatting-in-react-a-zero-dependency-solution-with-intl-api-3kok)
-- [Modern JavaScript Patterns You’ll Want to Use in 2025.](https://dev.to/balrajola/modern-javascript-patterns-youll-want-to-use-in-2025-3m4k)
-- [How to Install an SSL Certificate on XAMPP](https://dev.to/judypage/how-to-install-an-ssl-certificate-on-xampp-g5h)
-- [Optimizing Kubernetes Scaling with KEDA: Balancing Performance and Cost Efficiency](https://dev.to/viradiaharsh/optimizing-kubernetes-scaling-with-keda-balancing-performance-and-cost-efficiency-1n3j)
+- [Building a Reactive System in Typescript - Introduction to Reactivity](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-introduction-to-reactivity-34lh)
+- [Building a Reactive System in Typescript - Writing a Signal](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-writing-a-signal-120c)
+- [One-click City Generation with GISBox](https://dev.to/gisbox/one-click-city-generation-with-gisbox-27h7)
+- [Using React-admin Dashboard for Application Management](https://dev.to/saurabh2k1/using-react-admin-dashboard-for-application-management-3eb2)
+- [Getting Paid in Crypto as a Developer: Why It’s a Game-Changer](https://dev.to/klimd1389/getting-paid-in-crypto-as-a-developer-why-its-a-game-changer-jjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
