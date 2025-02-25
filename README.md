@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Full Stack Developer Roadmap for Beginners](https://dev.to/vishalkumar1111/java-full-stack-developer-roadmap-for-beginners-3024)
-- [Blog: Building a Visitor Management System with PyQt6 and SQLite](https://dev.to/srimathi10/blog-building-a-visitor-management-system-with-pyqt6-and-sqlite-1b27)
-- [Exploring Innovative Ruby on Rails Open Source Projects for Developers](https://dev.to/jetthoughts/exploring-innovative-ruby-on-rails-open-source-projects-for-developers-4ale)
-- [Java to LLMs: Exploring the LLMs Fundamentals](https://dev.to/therealdumbprogrammer/java-to-llms-exploring-the-llms-fundamentals-1j5l)
-- [What is DevOps? A Beginner’s Guide to DevOps Culture &amp; Practices](https://dev.to/yash_sonawane25/what-is-devops-a-beginners-guide-to-devops-culture-practices-498l)
+- [Accurate PDF to Text Conversion in C# Apps](https://dev.to/shahzad_ashraf_5ea18e2b2d/accurate-pdf-to-text-conversion-in-c-apps-p6a)
+- [Prompt Engineering Patterns for Successful RAG Implementations](https://dev.to/shittu_olumide_/prompt-engineering-patterns-for-successful-rag-implementations-2m2e)
+- [Great learning resource 👍🏽](https://dev.to/rcarrasquillo19/great-learning-resource-294p)
+- [Building Resilient Backends: A Guide to Retry Mechanisms in Spring Boot](https://dev.to/savithag/building-resilient-backends-a-guide-to-retry-mechanisms-in-spring-boot-12f6)
+- [Mastering Monitoring with Prometheus: A Comprehensive Guide](https://dev.to/mazharhuda/mastering-monitoring-with-prometheus-a-comprehensive-guide-23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
