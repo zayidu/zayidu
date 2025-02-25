@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New AMD Ryzen AI Processor Lineup](https://dev.to/__6d291d32760/new-amd-ryzen-ai-processor-lineup-17c2)
-- [Why RabbitMQ? A Developer-Friendly Guide to Event-Driven Architecture](https://dev.to/ehtesham_ali_abc367f36a5b/why-rabbitmq-a-developer-friendly-guide-to-event-driven-architecture-i1n)
-- [Prevent Unvalidated Redirects in Laravel Securely](https://dev.to/pentest_testing_corp/prevent-unvalidated-redirects-in-laravel-securely-4af0)
-- [Two Archetypes of Data Engineers](https://dev.to/luminousmen/two-archetypes-of-data-engineers-42gf)
-- [JavaScript](https://dev.to/caglar_bulat/javascript-jp9)
+- [Eliminate Repetitive Coding: AI-Driven Boilerplate Code Automation](https://dev.to/getambassador2024/eliminate-repetitive-coding-ai-driven-boilerplate-code-automation-4pnf)
+- [CI/CD with Docker and AWS: Automating Your Development Workflow](https://dev.to/mobisoftinfotech/cicd-with-docker-and-aws-automating-your-development-workflow-11f1)
+- [Generative AI for Marketing 101: Everything You Need to Know](https://dev.to/vaishali2/generative-ai-for-marketing-101-everything-you-need-to-know-4g90)
+- [[Boost]](https://dev.to/marcuskohlberg/-4a2g)
+- [The Benefits of Cloud Infrastructure for Manufacturing](https://dev.to/astutemarketing/the-benefits-of-cloud-infrastructure-for-manufacturing-1183)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
