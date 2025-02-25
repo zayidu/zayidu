@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Blog 1](https://dev.to/capricious_daksh/hello-blog-1-25fn)
-- [#28.2 Part 2/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/282-part-23-basics-of-software-architecture-and-design-patterns-haf)
-- [Claude 3.7 Sonnet by Antrophic: A Revolutionary Hybrid Reasoning AI Model](https://dev.to/mehmetakar/claude-37-sonnet-by-antrophic-a-revolutionary-hybrid-reasoning-ai-model-4dj0)
-- [Image Optimization in Astro: Boost Site Performance and SEO](https://dev.to/saida_lachgar/image-optimization-in-astro-boost-site-performance-and-seo-2k80)
-- [Introducción a Amazon GuardDuty: Generar hallazgos de prueba](https://dev.to/camila_vinza/introduccion-a-amazon-guardduty-generar-hallazgos-de-prueba-1g09)
+- [3 weeks since I launched my Indie Project Management tool &amp; already gained 165+ free users. Should I open-source it?](https://dev.to/shahriarsiraj/its-been-3-weeks-since-i-launched-my-indie-project-management-tool-now-at-165-free-users-should-1192)
+- [Building Blockchain-Based Identity Verification Systems](https://dev.to/kartikmehta8/building-blockchain-based-identity-verification-systems-1779)
+- [Creating an API with authentication using Encore.go](https://dev.to/eminetto/creating-an-api-with-authentication-using-encorego-3lak)
+- [What is the difference between React Router and React Router DOM?](https://dev.to/pramod_boda/what-is-the-difference-between-react-router-and-react-router-dom-2da6)
+- [&quot;Revolutionizing Spatial Analysis: New SAR Models for Crime Data Insights&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-spatial-analysis-new-sar-models-for-crime-data-insights-1dnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
