@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eliminate Repetitive Coding: AI-Driven Boilerplate Code Automation](https://dev.to/getambassador2024/eliminate-repetitive-coding-ai-driven-boilerplate-code-automation-4pnf)
-- [CI/CD with Docker and AWS: Automating Your Development Workflow](https://dev.to/mobisoftinfotech/cicd-with-docker-and-aws-automating-your-development-workflow-11f1)
-- [Generative AI for Marketing 101: Everything You Need to Know](https://dev.to/vaishali2/generative-ai-for-marketing-101-everything-you-need-to-know-4g90)
-- [[Boost]](https://dev.to/marcuskohlberg/-4a2g)
-- [The Benefits of Cloud Infrastructure for Manufacturing](https://dev.to/astutemarketing/the-benefits-of-cloud-infrastructure-for-manufacturing-1183)
+- [Create Website Moldova: Key Steps for a Successful Online Presence](https://dev.to/__116c3f/create-website-moldova-key-steps-for-a-successful-online-presence-20ip)
+- [What is Android SDK? A Beginner’s Guide](https://dev.to/livestreaming/what-is-android-sdk-a-beginners-guide-45kb)
+- [How to Expose Your Local MySQL Database to a Friend Using an EC2 Reverse SSH Tunnel baby.](https://dev.to/thekbbohara/how-to-expose-your-local-mysql-database-to-a-friend-using-an-ec2-reverse-ssh-tunnel-baby-25f8)
+- [How React Batches State Updates &lpar;And When It Doesn’t&rpar;](https://dev.to/ravali/how-react-batches-state-updates-and-when-it-doesnt-56nk)
+- [Introducing Fingerprinting API – Your All-in-One Bot Detection &amp; Fraud Prevention Solution](https://dev.to/slysen/introducing-fingerprinting-api-your-all-in-one-bot-detection-fraud-prevention-solution-2b4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
