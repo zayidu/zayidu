@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Resumes to Algorithms: How AI Staffing Companies are Matching Candidates with the Perfect Job Fit](https://dev.to/bh1rti/from-resumes-to-algorithms-how-ai-staffing-companies-are-matching-candidates-with-the-perfect-job-1ge6)
-- [Benefits of Ai Agent.](https://dev.to/e77/benefits-of-ai-agent-19k2)
-- [JS Craftsmanship Series Roadmap](https://dev.to/muthoni_muchiri_17933efd2/js-craftsmanship-series-14gn)
-- [Getting Started with Terraform: Advanced Concepts and Best Practices &lpar;Part 3&rpar; 🚀](https://dev.to/techwithhari/getting-started-with-terraform-advanced-concepts-and-best-practices-part-3-2p12)
-- [Types Of Ai Agent?](https://dev.to/e77/types-of-ai-agent-29b4)
+- [Automating your workflow with GitHub Actions](https://dev.to/donnyc1/automating-your-workflow-with-github-actions-3o09)
+- [The Role of GitHub Copilot Agent Mode and Traditional Copilot in Accelerating Software Development for Large-Scale Applications](https://dev.to/marufhossain/the-role-of-github-copilot-agent-mode-and-traditional-copilot-in-accelerating-software-development-kel)
+- [Analyze Objects in S3 Bucket to Discover Sensitive Data Using Amazon Macie](https://dev.to/aws-builders/analyze-objects-in-s3-bucket-to-discover-sensitive-data-using-amazon-macie-2ga4)
+- [AI PCs For Homes: Your Family’s New Creative Superpower](https://dev.to/jonathanjone/ai-pcs-for-homes-your-familys-new-creative-superpower-309j)
+- [Are You Following These 6 Best Practices for Kubernetes Resource Management?](https://dev.to/mehul_budasana/are-you-following-these-6-best-practices-for-kubernetes-resource-management-1456)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
