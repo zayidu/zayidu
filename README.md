@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Investments: What to be able to Look into a Kitchen and Bathroom Renovation](https://dev.to/homeimprovementtrend44/smart-investments-what-to-be-able-to-look-into-a-kitchen-and-bathroom-renovation-3bd8)
-- [How to use Hydraulic Conveyor with KMP Compose for Desktop](https://dev.to/coltonidle/how-to-use-hydraulic-conveyor-with-kmp-compose-for-desktop-id4)
-- [Remodel Rescue: Avoiding Normal Pitfalls in Kitchen and Bathroom Design](https://dev.to/homeimprovementnews768/remodel-rescue-avoiding-normal-pitfalls-in-kitchen-and-bathroom-design-2cf3)
-- [Plans to Beauty: Fundamental Tips for The Bathroom and Kitchen Remodel](https://dev.to/homeimprovementlatest62/plans-to-beauty-fundamental-tips-for-the-bathroom-and-kitchen-remodel-5ea0)
-- [Design and style Smart: What in order to Keep in Mind for Bathroom and Kitchen Makeovers](https://dev.to/homeimprovementtrend64/design-and-style-smart-what-in-order-to-keep-in-mind-for-bathroom-and-kitchen-makeovers-4cod)
+- [Rapid Prototyping an Insulin Calculator WebApp with AI Tools and Open Food Facts API](https://dev.to/aflussing/rapid-prototyping-an-insulin-calculator-webapp-with-ai-tools-and-open-food-facts-api-2emk)
+- [Study Notes 4.3.1 - Build the First dbt Models](https://dev.to/pizofreude/study-notes-431-build-the-first-dbt-models-2nl3)
+- [About the Dead Internet Theory and AI](https://dev.to/rogiia/about-the-dead-internet-theory-and-ai-35g)
+- [Answer: How to use the addr2line command in Linux?](https://dev.to/dobby33/answer-how-to-use-the-addr2line-command-in-linux-35of)
+- [Study Notes 4.2.1 | 4.2.2: DBT Project Setup](https://dev.to/pizofreude/study-notes-421-422-dbt-project-setup-2d4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
