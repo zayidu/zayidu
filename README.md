@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FRONT END DEVELOPMENT-1](https://dev.to/bagavath_98/front-end-development-3apl)
-- [Installing and configuring the Amazon CloudWatch Agent on Amazon Linux and Ubuntu](https://dev.to/jamiu_cloud/installing-and-configuring-the-amazon-cloudwatch-agent-on-amazon-linux-and-ubuntu-129c)
-- [⚡ Simplifying NNs With Neural —First Code Generation Example: Simple MNIST Classifier!](https://dev.to/neural/simplifying-nns-with-neural-first-code-generation-example-simple-mnist-classifier-2636)
-- [Added Internal Self-Expression System to my neural web architecture](https://dev.to/okerew/added-internal-self-expression-system-to-my-neural-web-architecture-24ck)
-- [Slim Select Two Identical Drop-Down &lpar; Disable In Another If Selected In One &rpar;](https://dev.to/please_wait/slim-select-two-identical-drop-down-disable-in-another-if-selected-in-one--il1)
+- [Vector Search Demystified: A Guide to pgvector, IVFFlat, and HNSW](https://dev.to/cubesoft/vector-search-demystified-a-guide-to-pgvector-ivfflat-and-hnsw-36hf)
+- [Google’s AI Coding Revolution: Gemini Code Assist vs. Project IDX—What’s the Bigger Game?](https://dev.to/muhammad_ali_15d0ea66b7e4/googles-ai-coding-revolution-gemini-code-assist-vs-project-idx-whats-the-bigger-game-1d42)
+- [REST API Use and Roles in mobile apps development](https://dev.to/programmer_desk/rest-api-use-and-roles-in-mobile-apps-development-47ln)
+- [Sentence &amp; Word-Level Processing in NLP](https://dev.to/mayankcse/sentence-word-level-processing-in-nlp-jak)
+- [Request for building a basic website for my startup.](https://dev.to/sashankar_bhuyan/request-for-building-a-basic-website-for-my-startup-2jf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
