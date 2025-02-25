@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform_Data - Avoiding Duplicate Resource Violations in Azure with checks](https://dev.to/pwd9000/terraformdata-avoiding-duplicate-resource-violations-in-azure-with-checks-401e)
-- [The Role of Data Integration Platform in Successful AI Implementation](https://dev.to/aragorn_talks/the-role-of-data-integration-platform-in-successful-ai-implementation-4681)
-- [How learning about the art of sushi made me a better dev](https://dev.to/phalkmin/how-learning-about-the-art-of-sushi-made-me-a-better-dev-700)
-- [Mastering Morph Relationships in Laravel: A Beginner-Friendly Guide](https://dev.to/samia-saif/mastering-morph-relationships-in-laravel-a-beginner-friendly-guide-1p9c)
-- [Managing AI Cost: Strategies for Efficient Large Language Model &lpar;LLM&rpar; Deployment](https://dev.to/aragorn_talks/managing-ai-cost-strategies-for-efficient-large-language-model-llm-deployment-5g0l)
+- [Smart Investments: What to be able to Look into a Kitchen and Bathroom Renovation](https://dev.to/homeimprovementtrend44/smart-investments-what-to-be-able-to-look-into-a-kitchen-and-bathroom-renovation-3bd8)
+- [How to use Hydraulic Conveyor with KMP Compose for Desktop](https://dev.to/coltonidle/how-to-use-hydraulic-conveyor-with-kmp-compose-for-desktop-id4)
+- [Remodel Rescue: Avoiding Normal Pitfalls in Kitchen and Bathroom Design](https://dev.to/homeimprovementnews768/remodel-rescue-avoiding-normal-pitfalls-in-kitchen-and-bathroom-design-2cf3)
+- [Plans to Beauty: Fundamental Tips for The Bathroom and Kitchen Remodel](https://dev.to/homeimprovementlatest62/plans-to-beauty-fundamental-tips-for-the-bathroom-and-kitchen-remodel-5ea0)
+- [Design and style Smart: What in order to Keep in Mind for Bathroom and Kitchen Makeovers](https://dev.to/homeimprovementtrend64/design-and-style-smart-what-in-order-to-keep-in-mind-for-bathroom-and-kitchen-makeovers-4cod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
