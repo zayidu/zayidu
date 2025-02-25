@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accurate PDF to Text Conversion in C# Apps](https://dev.to/shahzad_ashraf_5ea18e2b2d/accurate-pdf-to-text-conversion-in-c-apps-p6a)
-- [Prompt Engineering Patterns for Successful RAG Implementations](https://dev.to/shittu_olumide_/prompt-engineering-patterns-for-successful-rag-implementations-2m2e)
-- [Great learning resource 👍🏽](https://dev.to/rcarrasquillo19/great-learning-resource-294p)
-- [Building Resilient Backends: A Guide to Retry Mechanisms in Spring Boot](https://dev.to/savithag/building-resilient-backends-a-guide-to-retry-mechanisms-in-spring-boot-12f6)
-- [Mastering Monitoring with Prometheus: A Comprehensive Guide](https://dev.to/mazharhuda/mastering-monitoring-with-prometheus-a-comprehensive-guide-23)
+- [&quot;Unraveling AI Misalignment: Insights and Innovations in Robotics&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unraveling-ai-misalignment-insights-and-innovations-in-robotics-517o)
+- [AI Research: Unveiling the Future of Artificial Intelligence](https://dev.to/jack_davis_72eff1ff3e4afd/ai-research-unveiling-the-future-of-artificial-intelligence-4i66)
+- [Counting Character Appearances in a String](https://dev.to/guna_sekaran_/counting-character-appearances-in-a-string-5afi)
+- [Low-Rank Adaptation of Large Language Models](https://dev.to/kapusto/low-rank-adaptation-of-large-language-models-30b9)
+- [SSH Connection Using Private Key](https://dev.to/yracnet/ssh-connection-using-private-key-2961)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
