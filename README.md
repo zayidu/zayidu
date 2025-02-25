@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Website Moldova: Key Steps for a Successful Online Presence](https://dev.to/__116c3f/create-website-moldova-key-steps-for-a-successful-online-presence-20ip)
-- [What is Android SDK? A Beginner’s Guide](https://dev.to/livestreaming/what-is-android-sdk-a-beginners-guide-45kb)
-- [How to Expose Your Local MySQL Database to a Friend Using an EC2 Reverse SSH Tunnel baby.](https://dev.to/thekbbohara/how-to-expose-your-local-mysql-database-to-a-friend-using-an-ec2-reverse-ssh-tunnel-baby-25f8)
-- [How React Batches State Updates &lpar;And When It Doesn’t&rpar;](https://dev.to/ravali/how-react-batches-state-updates-and-when-it-doesnt-56nk)
-- [Introducing Fingerprinting API – Your All-in-One Bot Detection &amp; Fraud Prevention Solution](https://dev.to/slysen/introducing-fingerprinting-api-your-all-in-one-bot-detection-fraud-prevention-solution-2b4a)
+- [Building a Background Worker Service in .NET](https://dev.to/nick_proud/building-a-background-worker-service-in-net-97g)
+- [How .NET can beat Go with Orleans Grains in Performance?](https://dev.to/chandruchiku/how-net-can-beat-go-with-orleans-grains-in-performance-55mh)
+- [TechnologyAfrican Culture in a Digital Wrapper From Holiverse, the Sandbox and Others](https://dev.to/cryptonewsblog/technologyafrican-culture-in-a-digital-wrapper-from-holiverse-the-sandbox-and-others-1l56)
+- [What is an LLM](https://dev.to/muhammad_ali_15d0ea66b7e4/what-is-an-llm-3ofm)
+- [Navigating the Future: Trends in Staff Augmentation and IT Consulting](https://dev.to/jetthoughts/navigating-the-future-trends-in-staff-augmentation-and-it-consulting-3m43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
