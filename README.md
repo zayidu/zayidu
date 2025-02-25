@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Background Worker Service in .NET](https://dev.to/nick_proud/building-a-background-worker-service-in-net-97g)
-- [How .NET can beat Go with Orleans Grains in Performance?](https://dev.to/chandruchiku/how-net-can-beat-go-with-orleans-grains-in-performance-55mh)
-- [TechnologyAfrican Culture in a Digital Wrapper From Holiverse, the Sandbox and Others](https://dev.to/cryptonewsblog/technologyafrican-culture-in-a-digital-wrapper-from-holiverse-the-sandbox-and-others-1l56)
-- [What is an LLM](https://dev.to/muhammad_ali_15d0ea66b7e4/what-is-an-llm-3ofm)
-- [Navigating the Future: Trends in Staff Augmentation and IT Consulting](https://dev.to/jetthoughts/navigating-the-future-trends-in-staff-augmentation-and-it-consulting-3m43)
+- [Data Compression, Types and Techniques in Big Data](https://dev.to/aws-builders/data-compression-types-and-techniques-in-big-data-pl6)
+- [Simplify Currency Formatting in React: A Zero-Dependency Solution with Intl API](https://dev.to/josephciullo/simplify-currency-formatting-in-react-a-zero-dependency-solution-with-intl-api-3kok)
+- [Modern JavaScript Patterns You’ll Want to Use in 2025.](https://dev.to/balrajola/modern-javascript-patterns-youll-want-to-use-in-2025-3m4k)
+- [How to Install an SSL Certificate on XAMPP](https://dev.to/judypage/how-to-install-an-ssl-certificate-on-xampp-g5h)
+- [Optimizing Kubernetes Scaling with KEDA: Balancing Performance and Cost Efficiency](https://dev.to/viradiaharsh/optimizing-kubernetes-scaling-with-keda-balancing-performance-and-cost-efficiency-1n3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
