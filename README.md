@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ocean3005/-29b1)
-- [Market Trends And Outlook For WPC Door Frames](https://dev.to/monica6656/market-trends-and-outlook-for-wpc-door-frames-fch)
-- [Running Microservices with Docker and Kubernetes](https://dev.to/swap11/running-microservices-with-docker-and-kubernetes-2h07)
-- [Unlocking Application Security: The Impact of AI on DAST Teams and Dynamic Testing](https://dev.to/orhan_yildirim_5d88bf1e81/unlocking-application-security-the-impact-of-ai-on-dast-teams-and-dynamic-testing-450h)
-- [AI in Vulnerability Scanners: Transforming Cybersecurity Threat Detection](https://dev.to/orhan_yildirim_5d88bf1e81/ai-in-vulnerability-scanners-transforming-cybersecurity-threat-detection-2nao)
+- [Stats Cards By Manish](https://dev.to/manish_gupta_c941c8554cae/stats-cards-by-manish-4bg2)
+- [How to prepare for sde roles as a beginer](https://dev.to/deekshitha_g/how-to-prepare-for-sde-roles-as-a-beginer-d0n)
+- [Build a Serverless Web Application using Generative AI](https://dev.to/aswin_raj_d40fb50e584e2b7/build-a-serverless-web-application-using-generative-ai-219h)
+- [Boost Productivity with a Pomodoro Timer for Linux](https://dev.to/evertontenorio/boost-productivity-with-a-bash-powered-pomodoro-timer-for-linux-528b)
+- [Searching in java](https://dev.to/vimala_jeyakumar_de64a9b2/searching-in-java-9o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
