@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stats Cards By Manish](https://dev.to/manish_gupta_c941c8554cae/stats-cards-by-manish-4bg2)
-- [How to prepare for sde roles as a beginer](https://dev.to/deekshitha_g/how-to-prepare-for-sde-roles-as-a-beginer-d0n)
-- [Build a Serverless Web Application using Generative AI](https://dev.to/aswin_raj_d40fb50e584e2b7/build-a-serverless-web-application-using-generative-ai-219h)
-- [Boost Productivity with a Pomodoro Timer for Linux](https://dev.to/evertontenorio/boost-productivity-with-a-bash-powered-pomodoro-timer-for-linux-528b)
-- [Searching in java](https://dev.to/vimala_jeyakumar_de64a9b2/searching-in-java-9o0)
+- [New AMD Ryzen AI Processor Lineup](https://dev.to/__6d291d32760/new-amd-ryzen-ai-processor-lineup-17c2)
+- [Why RabbitMQ? A Developer-Friendly Guide to Event-Driven Architecture](https://dev.to/ehtesham_ali_abc367f36a5b/why-rabbitmq-a-developer-friendly-guide-to-event-driven-architecture-i1n)
+- [Prevent Unvalidated Redirects in Laravel Securely](https://dev.to/pentest_testing_corp/prevent-unvalidated-redirects-in-laravel-securely-4af0)
+- [Two Archetypes of Data Engineers](https://dev.to/luminousmen/two-archetypes-of-data-engineers-42gf)
+- [JavaScript](https://dev.to/caglar_bulat/javascript-jp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
