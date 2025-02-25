@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Prototyping an Insulin Calculator WebApp with AI Tools and Open Food Facts API](https://dev.to/aflussing/rapid-prototyping-an-insulin-calculator-webapp-with-ai-tools-and-open-food-facts-api-2emk)
-- [Study Notes 4.3.1 - Build the First dbt Models](https://dev.to/pizofreude/study-notes-431-build-the-first-dbt-models-2nl3)
-- [About the Dead Internet Theory and AI](https://dev.to/rogiia/about-the-dead-internet-theory-and-ai-35g)
-- [Answer: How to use the addr2line command in Linux?](https://dev.to/dobby33/answer-how-to-use-the-addr2line-command-in-linux-35of)
-- [Study Notes 4.2.1 | 4.2.2: DBT Project Setup](https://dev.to/pizofreude/study-notes-421-422-dbt-project-setup-2d4d)
+- [[Boost]](https://dev.to/mikehtmlallthethings/-1f87)
+- [Just Launched: ZayChat – A Real-Time Chat App Built with React &amp; Firebase!](https://dev.to/zayyanmustafa/just-launched-zaychat-a-real-time-chat-app-built-with-react-firebase-110d)
+- [Even Faster Multithreading in Rust: Arc Optimization](https://dev.to/leapcell/even-faster-multithreading-in-rust-arc-optimization-1olj)
+- [122 Milyon Satır Analytics Datasını Nasıl Türkiye’ye Getirdik?](https://dev.to/hardal/122-milyon-satir-analytics-datasini-nasil-turkiyeye-getirdik-2bc6)
+- [10 Unexpected Ways a Website Redesign Can Skyrocket Your Business](https://dev.to/webwolfs/10-unexpected-ways-a-website-redesign-can-skyrocket-your-business-56bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
