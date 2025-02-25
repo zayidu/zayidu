@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mikehtmlallthethings/-1f87)
-- [Just Launched: ZayChat – A Real-Time Chat App Built with React &amp; Firebase!](https://dev.to/zayyanmustafa/just-launched-zaychat-a-real-time-chat-app-built-with-react-firebase-110d)
-- [Even Faster Multithreading in Rust: Arc Optimization](https://dev.to/leapcell/even-faster-multithreading-in-rust-arc-optimization-1olj)
-- [122 Milyon Satır Analytics Datasını Nasıl Türkiye’ye Getirdik?](https://dev.to/hardal/122-milyon-satir-analytics-datasini-nasil-turkiyeye-getirdik-2bc6)
-- [10 Unexpected Ways a Website Redesign Can Skyrocket Your Business](https://dev.to/webwolfs/10-unexpected-ways-a-website-redesign-can-skyrocket-your-business-56bj)
+- [We are almost about to hit our goal!](https://dev.to/shrutikapoor08/we-are-almost-about-to-hit-our-goal-558l)
+- [DeepSeek Always Busy? Deploy It Locally with Milvus in Just 10 Minutes—No More Waiting!](https://dev.to/zilliz/deepseek-always-busy-deploy-it-locally-with-milvus-in-just-10-minutes-no-more-waiting-3o4f)
+- [#28.3 Part 3/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/283-part-33-basics-of-software-architecture-and-design-patterns-436d)
+- [Talk 2 AI Agent Using LOLANG: The Future of AI-to-AI Communication 🤖💬](https://dev.to/loaiabdalslam/talk-2-ai-agent-using-lolang-the-future-of-ai-to-ai-communication-2j1e)
+- [Vaadin Flow for AdminUI](https://dev.to/mrkandreev/vaadin-flow-for-adminui-b8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
