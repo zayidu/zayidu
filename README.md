@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3kkj)
-- [Vite: Modern Frontend İnkişafına Sürət Gətirən Alət 🚀 &lpar;CRA ilə Müqayisə&rpar;](https://dev.to/musalimurat/vite-modern-frontend-inkisafina-surt-gtirn-alt-cra-il-muqayis-1g2a)
-- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3a8f)
-- [Convert Cross Cell to Row Header, Row Header to Column — From SQL to SPL #4](https://dev.to/judith677/convert-cross-cell-to-row-header-row-header-to-column-from-sql-to-spl-4-jpa)
-- [Level Up Your AWS Security: A Detailed Prioritized Checklist from the Trenches](https://dev.to/matthew_dibiaso/level-up-your-aws-security-a-detailed-prioritized-checklist-from-the-trenches-1ae2)
+- [AS Backend Dev](https://dev.to/anjali_gurjar_dff81513867/as-backend-dev-kfo)
+- [React v19 Sample Code Examples](https://dev.to/vteacher/react-v19-sample-code-examples-27jj)
+- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-529g)
+- [Summer Web Internship: Low-JavaScript Development for 🧶Knitters/Crocheters &lpar;US Only&rpar;](https://dev.to/amigurumi_blhaj/summer-web-internship-low-javascript-development-for-knitterscrocheters-us-only-5504)
+- [Sidebar Layout Design in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/sidebar-layout-design-in-harmonyos-next-1g51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
