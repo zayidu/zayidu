@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unraveling AI Misalignment: Insights and Innovations in Robotics&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unraveling-ai-misalignment-insights-and-innovations-in-robotics-517o)
-- [AI Research: Unveiling the Future of Artificial Intelligence](https://dev.to/jack_davis_72eff1ff3e4afd/ai-research-unveiling-the-future-of-artificial-intelligence-4i66)
-- [Counting Character Appearances in a String](https://dev.to/guna_sekaran_/counting-character-appearances-in-a-string-5afi)
-- [Low-Rank Adaptation of Large Language Models](https://dev.to/kapusto/low-rank-adaptation-of-large-language-models-30b9)
-- [SSH Connection Using Private Key](https://dev.to/yracnet/ssh-connection-using-private-key-2961)
+- [FRONT END DEVELOPMENT-1](https://dev.to/bagavath_98/front-end-development-3apl)
+- [Installing and configuring the Amazon CloudWatch Agent on Amazon Linux and Ubuntu](https://dev.to/jamiu_cloud/installing-and-configuring-the-amazon-cloudwatch-agent-on-amazon-linux-and-ubuntu-129c)
+- [⚡ Simplifying NNs With Neural —First Code Generation Example: Simple MNIST Classifier!](https://dev.to/neural/simplifying-nns-with-neural-first-code-generation-example-simple-mnist-classifier-2636)
+- [Added Internal Self-Expression System to my neural web architecture](https://dev.to/okerew/added-internal-self-expression-system-to-my-neural-web-architecture-24ck)
+- [Slim Select Two Identical Drop-Down &lpar; Disable In Another If Selected In One &rpar;](https://dev.to/please_wait/slim-select-two-identical-drop-down-disable-in-another-if-selected-in-one--il1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
