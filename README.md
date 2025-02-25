@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 weeks since I launched my Indie Project Management tool &amp; already gained 165+ free users. Should I open-source it?](https://dev.to/shahriarsiraj/its-been-3-weeks-since-i-launched-my-indie-project-management-tool-now-at-165-free-users-should-1192)
-- [Building Blockchain-Based Identity Verification Systems](https://dev.to/kartikmehta8/building-blockchain-based-identity-verification-systems-1779)
-- [Creating an API with authentication using Encore.go](https://dev.to/eminetto/creating-an-api-with-authentication-using-encorego-3lak)
-- [What is the difference between React Router and React Router DOM?](https://dev.to/pramod_boda/what-is-the-difference-between-react-router-and-react-router-dom-2da6)
-- [&quot;Revolutionizing Spatial Analysis: New SAR Models for Crime Data Insights&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-spatial-analysis-new-sar-models-for-crime-data-insights-1dnc)
+- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3kkj)
+- [Vite: Modern Frontend İnkişafına Sürət Gətirən Alət 🚀 &lpar;CRA ilə Müqayisə&rpar;](https://dev.to/musalimurat/vite-modern-frontend-inkisafina-surt-gtirn-alt-cra-il-muqayis-1g2a)
+- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3a8f)
+- [Convert Cross Cell to Row Header, Row Header to Column — From SQL to SPL #4](https://dev.to/judith677/convert-cross-cell-to-row-header-row-header-to-column-from-sql-to-spl-4-jpa)
+- [Level Up Your AWS Security: A Detailed Prioritized Checklist from the Trenches](https://dev.to/matthew_dibiaso/level-up-your-aws-security-a-detailed-prioritized-checklist-from-the-trenches-1ae2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
