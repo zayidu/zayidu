@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating your workflow with GitHub Actions](https://dev.to/donnyc1/automating-your-workflow-with-github-actions-3o09)
-- [The Role of GitHub Copilot Agent Mode and Traditional Copilot in Accelerating Software Development for Large-Scale Applications](https://dev.to/marufhossain/the-role-of-github-copilot-agent-mode-and-traditional-copilot-in-accelerating-software-development-kel)
-- [Analyze Objects in S3 Bucket to Discover Sensitive Data Using Amazon Macie](https://dev.to/aws-builders/analyze-objects-in-s3-bucket-to-discover-sensitive-data-using-amazon-macie-2ga4)
-- [AI PCs For Homes: Your Family’s New Creative Superpower](https://dev.to/jonathanjone/ai-pcs-for-homes-your-familys-new-creative-superpower-309j)
-- [Are You Following These 6 Best Practices for Kubernetes Resource Management?](https://dev.to/mehul_budasana/are-you-following-these-6-best-practices-for-kubernetes-resource-management-1456)
+- [Java Full Stack Developer Roadmap for Beginners](https://dev.to/vishalkumar1111/java-full-stack-developer-roadmap-for-beginners-3024)
+- [Blog: Building a Visitor Management System with PyQt6 and SQLite](https://dev.to/srimathi10/blog-building-a-visitor-management-system-with-pyqt6-and-sqlite-1b27)
+- [Exploring Innovative Ruby on Rails Open Source Projects for Developers](https://dev.to/jetthoughts/exploring-innovative-ruby-on-rails-open-source-projects-for-developers-4ale)
+- [Java to LLMs: Exploring the LLMs Fundamentals](https://dev.to/therealdumbprogrammer/java-to-llms-exploring-the-llms-fundamentals-1j5l)
+- [What is DevOps? A Beginner’s Guide to DevOps Culture &amp; Practices](https://dev.to/yash_sonawane25/what-is-devops-a-beginners-guide-to-devops-culture-practices-498l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
