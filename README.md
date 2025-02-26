@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Using NGINX as a Reverse Proxy and Load Balancer:Best Practices and Tips](https://dev.to/kodecapsule/ultimate-guide-to-using-nginx-as-a-reverse-proxy-and-load-balancerbest-practices-and-tips-2hfo)
-- [Using RAG with Java Spring Boot AI &amp; Google Vertex AI: Crafting an Automated Resume Matcher](https://dev.to/reebow/using-rag-with-java-spring-boot-ai-google-vertex-ai-crafting-an-automated-resume-matcher-47lg)
-- [Managing Cloud Permissions with Microsoft Entra Permissions Management](https://dev.to/aragorn_talks/managing-cloud-permissions-with-microsoft-entra-permissions-management-f0p)
-- [Optimize Your Development Productivity with Devek.](https://dev.to/devek-ai/-51o4)
-- [To a React naysayer](https://dev.to/mshertzberg/to-a-react-naysayer-4mmp)
+- [⚒ The Hidden Complexity Of Routing: Why Your Requests Take Longer Than They Should](https://dev.to/aetherflux/the-hidden-complexity-of-routing-why-your-requests-take-longer-than-they-should-5bbf)
+- [An Example about Flyweight Pattern in Java](https://dev.to/john_green/an-example-about-flyweight-pattern-in-java-1i06)
+- [How to Create an Interactive Dropdown Menu with Tailwind CSS &amp; JavaScript](https://dev.to/rowsanali/how-to-create-an-interactive-dropdown-menu-with-tailwind-css-javascript-1cja)
+- [Join Future’s First Writing Challenge!](https://dev.to/futureteam/join-futures-first-writing-challenge-4bj4)
+- [Managing My AWS Certified Status](https://dev.to/aws-builders/managing-my-aws-certified-status-463f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
