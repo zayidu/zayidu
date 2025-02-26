@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ed&#39;s JavaLand 2025 Session Picks](https://dev.to/edburns00/eds-javaland-2025-session-picks-3p2i)
-- [Estilo Arquitetural](https://dev.to/yuripeixinho/estilo-arquitetural-2f6f)
-- [Sending Emails via Outlook with Nodemailer and Microsoft Graph](https://dev.to/gevik/sending-emails-via-outlook-with-nodemailer-and-microsoft-graph-b74)
-- [Modelos de Processos do SDLC](https://dev.to/yuripeixinho/modelos-de-processos-do-sdlc-415d)
-- [Design Patterns Around API Gateways](https://dev.to/devcorner/design-patterns-around-api-gateways-227f)
+- [[Boost]](https://dev.to/nathanhannon/-4cc4)
+- [How not to write Tailwind](https://dev.to/aryan015/how-not-to-write-tailwind-1dab)
+- [Testing End-to-End Salesforce Flows: Web and Mobile Applications](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-end-to-end-salesforce-flows-web-and-mobile-applications-dcj)
+- [Docker](https://dev.to/yuripeixinho/docker-4649)
+- [Containêrs no Desenvolvimento de Software](https://dev.to/yuripeixinho/containers-no-desenvolvimento-de-software-149i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
