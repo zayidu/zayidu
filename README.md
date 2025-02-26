@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Could Nostr Subkeys Replace GPG? A Simple, Powerful Alternative for the Modern Web](https://dev.to/melvincarvalho/could-nostr-subkeys-replace-gpg-a-simple-powerful-alternative-for-the-modern-web-aa0)
-- [Meta’s $200 Billion AI Data Center Expansion Plans](https://dev.to/wearetechi/metas-200-billion-ai-data-center-expansion-plans-5d98)
-- [Setup fingerprint login on Arch Linux with LightDM](https://dev.to/jakariya3/setup-fingerprint-login-on-arch-linux-with-lightdm-50d4)
-- [Lessons from The Clean Coder](https://dev.to/thawkin3/lessons-from-the-clean-coder-2l9p)
-- [CRM for Insurance: Benefits, Software, and Selection Tips](https://dev.to/webuters/crm-for-insurance-benefits-software-and-selection-tips-2coj)
+- [Boost Your Productivity with These Powerful Jira Integrations](https://dev.to/tmetric_timer_2b3a575fc8b/boost-your-productivity-with-these-powerful-jira-integrations-251k)
+- [Selecting the Right Website Speed Optimization Tools](https://dev.to/kapusto/selecting-the-right-website-speed-optimization-tools-3c5m)
+- [New Year, New Game Engine - Nikola Engine Devlog 0](https://dev.to/frodo_alsaka/new-year-new-engine-nikola-devlog-0-4ik)
+- [How to Win Your First Hackathon: A Complete Guide](https://dev.to/imhardik/how-to-win-your-first-hackathon-a-complete-guide-4dkl)
+- [Minswap in 2025: Evaluating Its Role in Cardano’s Decentralized Exchange Landscape](https://dev.to/bob_adventures/minswap-in-2025-evaluating-its-role-in-cardanos-decentralized-exchange-landscape-n22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
