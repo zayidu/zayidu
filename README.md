@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Create React App to Vite &lpar;with a bonus to Vitest&rpar;](https://dev.to/lucasmelo/migrating-from-create-react-app-to-vite-with-a-bonus-to-vitest-5hi7)
-- [How We Turned Bootstrapping into an Advantage](https://dev.to/lonti-davidb/how-we-turned-bootstrapping-into-an-advantage-3hl5)
-- [JSON Web Tokens &lpar;JWT&rpar; in Web Development](https://dev.to/aryan015/json-web-tokens-jwt-in-web-development-4f7l)
-- [Universal approach to integrate OAuth 2.0 and OpenID Connect into web apps and backends](https://dev.to/mechcloud_academy/universal-approach-to-integrate-oauth-20-and-openid-connect-into-web-apps-and-backends-33ol)
-- [PS1 Fear Meter](https://dev.to/alansdead/ps1-fear-meter-2nod)
+- [Remote Usability Testing: Benefits, Process &amp; Tools](https://dev.to/lollypopdesign/remote-usability-testing-benefits-process-tools-16o)
+- [5 Killer AI Tools That Are So Valuable They Feel Illegal To Know](https://dev.to/nitinfab/5-killer-ai-tools-that-are-so-valuable-they-feel-illegal-to-know-4kml)
+- [What is Cryogenic Deburring? Which Industries Benefit from It? ❄️🔧](https://dev.to/henglihong-js/what-is-cryogenic-deburring-which-industries-benefit-from-it-11eg)
+- [Important React Hooks⚓](https://dev.to/aryan015/important-react-hooks-2d0e)
+- [Mastering Kubernetes API Documentation with kubectl-apidocs](https://dev.to/alzhi_f93e67fa45b972/mastering-kubernetes-api-documentation-with-kubectl-apidocs-1mmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
