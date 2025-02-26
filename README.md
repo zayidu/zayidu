@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity with These Powerful Jira Integrations](https://dev.to/tmetric_timer_2b3a575fc8b/boost-your-productivity-with-these-powerful-jira-integrations-251k)
-- [Selecting the Right Website Speed Optimization Tools](https://dev.to/kapusto/selecting-the-right-website-speed-optimization-tools-3c5m)
-- [New Year, New Game Engine - Nikola Engine Devlog 0](https://dev.to/frodo_alsaka/new-year-new-engine-nikola-devlog-0-4ik)
-- [How to Win Your First Hackathon: A Complete Guide](https://dev.to/imhardik/how-to-win-your-first-hackathon-a-complete-guide-4dkl)
-- [Minswap in 2025: Evaluating Its Role in Cardano’s Decentralized Exchange Landscape](https://dev.to/bob_adventures/minswap-in-2025-evaluating-its-role-in-cardanos-decentralized-exchange-landscape-n22)
+- [Ultimate Guide to Using NGINX as a Reverse Proxy and Load Balancer:Best Practices and Tips](https://dev.to/kodecapsule/ultimate-guide-to-using-nginx-as-a-reverse-proxy-and-load-balancerbest-practices-and-tips-2hfo)
+- [Using RAG with Java Spring Boot AI &amp; Google Vertex AI: Crafting an Automated Resume Matcher](https://dev.to/reebow/using-rag-with-java-spring-boot-ai-google-vertex-ai-crafting-an-automated-resume-matcher-47lg)
+- [Managing Cloud Permissions with Microsoft Entra Permissions Management](https://dev.to/aragorn_talks/managing-cloud-permissions-with-microsoft-entra-permissions-management-f0p)
+- [Optimize Your Development Productivity with Devek.](https://dev.to/devek-ai/-51o4)
+- [To a React naysayer](https://dev.to/mshertzberg/to-a-react-naysayer-4mmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
