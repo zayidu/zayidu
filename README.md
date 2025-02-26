@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Earn Up to 1M XIAN: Xian Blockchain’s Bounty Program is Live!](https://dev.to/crosschainer/earn-up-to-1m-xian-xian-blockchains-bounty-program-is-live-390a)
-- [Debounce vs. Throttle: Explained with Simple Analogies](https://dev.to/jajibhee/debounce-vs-throttle-explained-with-simple-analogies-4hn4)
-- [Solving Frontend Performance: The Data Pipeline Transformation](https://dev.to/jajibhee/solving-frontend-performance-the-data-pipeline-transformation-2206)
-- [Master .NET – The Future of Cross-Platform Development](https://dev.to/hajira_asmatulla_31ac4599/master-net-the-future-of-cross-platform-development-1cpe)
-- [The Illusion of Test Coverage: Why Writing Tests First is the Only Real Testing](https://dev.to/wycliffealphus/the-illusion-of-test-coverage-why-writing-tests-first-is-the-only-real-testing-49pk)
+- [Alternative to Ruby&#39;s Monkey Patching](https://dev.to/railsdesigner/alternative-to-rubys-monkey-patching-4i7k)
+- [How to Build a Full Stack Agentic Researcher in 5 Minutes ⚡️⚡️](https://dev.to/copilotkit/how-to-build-a-full-stack-agentic-researcher-in-5-minutes-19dp)
+- [Top 5 Best Looking Weather App in JavaScript with Source Code | HTML, CSS &amp; JavaScript Projects](https://dev.to/vishalkumar1111/top-5-best-looking-weather-app-in-javascript-with-source-code-html-css-javascript-projects-2oid)
+- [Windows Blue screen of death](https://dev.to/asterdev/windows-blue-screen-of-death-4i35)
+- [JavaScript Array Cheat Sheet](https://dev.to/logannford/javascript-array-cheat-sheet-4l3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
