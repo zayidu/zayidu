@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔓How to Choose between These Two API Testing Tools: Postman Flow or Apidog Tests✨](https://dev.to/apilover/how-to-choose-between-these-two-api-testing-tools-postman-flow-or-apidog-tests-9ae)
-- [Handling actions in Swift using retry and fallback feature](https://dev.to/mykola_dementiev_f0c2fe6e/handling-actions-in-swift-using-retry-and-fallback-feature-1eib)
-- [Attendence management grid layout and spinner &lpar;Java &amp; xml&rpar;](https://dev.to/abhi_b/attendence-management-grid-layout-and-spinner-java-xml-589j)
-- [Attendence management table layout and spinner &lpar;Java &amp; xml&rpar;](https://dev.to/abhi_b/attendence-management-table-layout-and-spinner-java-xml-2kdp)
-- [How to deploy a Twitter Grok AI agent on Fleek](https://dev.to/fleek/how-to-deploy-a-twitter-grok-ai-agent-on-fleek-7pp)
+- [The Ugly Truth - Upscaling Your Databases Doesn&#39;t Always Help](https://dev.to/metis/the-ugly-truth-upscaling-your-databases-doesnt-always-help-50i5)
+- [A STEP BY STEP GUIDE ON HOW TO CREATE A VIRTUAL MACHINE ON MICROSOFT AZURE](https://dev.to/astranan/a-step-by-step-guide-on-how-to-create-a-virtual-machine-on-microsoft-azure-f6l)
+- [Struggling with project management in your dev team? Learn how to streamline workflows, improve collaboration, and boost efficiency with the right strategies. Master project management for development teams and achieve success! #Developers #ProjectManager](https://dev.to/pratham_naik_project_manager/struggling-with-project-management-in-your-dev-team-learn-how-to-streamline-workflows-improve-4de7)
+- [[Boost]](https://dev.to/abdermaiza/-5f95)
+- [Developers love coding, but project management often slows them down. Too many meetings, vague tasks, and unrealistic deadlines create frustration. Want to fix it? Discover how the right approach can make project management effortless! 🚀 Read now!](https://dev.to/pratham_naik_project_manager/developers-love-coding-but-project-management-often-slows-them-down-too-many-meetings-vague-32eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
