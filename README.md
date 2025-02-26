@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Configurar Múltiplas Contas do GitHub em um Único Computador](https://dev.to/vitorrios1001/como-configurar-multiplas-contas-do-github-em-um-unico-computador-aop)
-- [Wait, my new framework isn&#39;t the best one?! Always Has Been!](https://dev.to/alexmario74/wait-my-new-framework-isnt-the-best-one-always-has-been-53a4)
-- [React 19: A New Era of Development](https://dev.to/babar_bilal_2e14c231dfa8d/react-19-a-new-era-of-development-20cc)
-- [🖇️ Smart Event Handling in .NET: Weak References &amp; Pub-Sub Explained](https://dev.to/gigaherz/smart-event-handling-in-net-weak-references-pub-sub-explained-3l97)
-- [DeepSeek Fast-Tracks AI Model R2 After R1’s Success](https://dev.to/wearetechi/deepseek-fast-tracks-ai-model-r2-after-r1s-success-gaj)
+- [Could Nostr Subkeys Replace GPG? A Simple, Powerful Alternative for the Modern Web](https://dev.to/melvincarvalho/could-nostr-subkeys-replace-gpg-a-simple-powerful-alternative-for-the-modern-web-aa0)
+- [Meta’s $200 Billion AI Data Center Expansion Plans](https://dev.to/wearetechi/metas-200-billion-ai-data-center-expansion-plans-5d98)
+- [Setup fingerprint login on Arch Linux with LightDM](https://dev.to/jakariya3/setup-fingerprint-login-on-arch-linux-with-lightdm-50d4)
+- [Lessons from The Clean Coder](https://dev.to/thawkin3/lessons-from-the-clean-coder-2l9p)
+- [CRM for Insurance: Benefits, Software, and Selection Tips](https://dev.to/webuters/crm-for-insurance-benefits-software-and-selection-tips-2coj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
