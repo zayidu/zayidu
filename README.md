@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I Want to Rank #1 on Google!&quot; – How to Solve Real SEO Problems](https://dev.to/mikehtmlallthethings/i-want-to-rank-1-on-google-how-to-solve-real-seo-problems-2eng)
-- [Hello, World!](https://dev.to/uur_mamak_87908df961598e/hello-world-23k8)
-- [🚀 Como Rodar uma API Node.js + PostgreSQL com Docker](https://dev.to/brunomestres/como-rodar-uma-api-nodejs-postgresql-com-docker-41di)
-- [Self Guide for Deploying Laravel and React Applications on a VPS](https://dev.to/emmo00/self-guide-for-deploying-laravel-and-react-applications-on-a-vps-1o57)
-- [Why Your Organization Should Consider Low-Code for Internal Tooling](https://dev.to/johnai/why-your-organization-should-consider-low-code-for-internal-tooling-50bk)
+- [PL/SQL’de Cursor nasıl kullanılır? Cursor WITH HOLD ve WITHOUT HOLD nedir? PL/SQL’de REF CURSOR Nedir?](https://dev.to/cemgoksu/plsqlde-cursor-nasil-kullanilir-cursor-with-hold-ve-without-hold-nedir-plsqlde-ref-cursor-4lnc)
+- [🎯 PL/SQL’de Exception Handling &lpar;Hata Yönetimi&rpar;](https://dev.to/cemgoksu/plsqlde-exception-handling-hata-yonetimi-cj2)
+- [5 Awesome Fly.io Alternatives](https://dev.to/code42cate/5-awesome-flyio-alternatives-3cea)
+- [👨‍🎓 Mastering RegEx in JavaScript: A Quick Start Guide](https://dev.to/himanayk/-mastering-regex-in-javascript-a-quick-start-guide-nfb)
+- [📦PL/SQL’de paket &lpar;Package&rpar; nedir? İçeriğinde neler bulunur?](https://dev.to/cemgoksu/plsqlde-paket-package-nedir-iceriginde-neler-bulunur-1d81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
