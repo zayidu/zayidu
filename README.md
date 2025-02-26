@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We are almost about to hit our goal!](https://dev.to/shrutikapoor08/we-are-almost-about-to-hit-our-goal-558l)
-- [DeepSeek Always Busy? Deploy It Locally with Milvus in Just 10 Minutes—No More Waiting!](https://dev.to/zilliz/deepseek-always-busy-deploy-it-locally-with-milvus-in-just-10-minutes-no-more-waiting-3o4f)
-- [#28.3 Part 3/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/283-part-33-basics-of-software-architecture-and-design-patterns-436d)
-- [Talk 2 AI Agent Using LOLANG: The Future of AI-to-AI Communication 🤖💬](https://dev.to/loaiabdalslam/talk-2-ai-agent-using-lolang-the-future-of-ai-to-ai-communication-2j1e)
-- [Vaadin Flow for AdminUI](https://dev.to/mrkandreev/vaadin-flow-for-adminui-b8j)
+- [Ed&#39;s JavaLand 2025 Session Picks](https://dev.to/edburns00/eds-javaland-2025-session-picks-3p2i)
+- [Estilo Arquitetural](https://dev.to/yuripeixinho/estilo-arquitetural-2f6f)
+- [Sending Emails via Outlook with Nodemailer and Microsoft Graph](https://dev.to/gevik/sending-emails-via-outlook-with-nodemailer-and-microsoft-graph-b74)
+- [Modelos de Processos do SDLC](https://dev.to/yuripeixinho/modelos-de-processos-do-sdlc-415d)
+- [Design Patterns Around API Gateways](https://dev.to/devcorner/design-patterns-around-api-gateways-227f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
