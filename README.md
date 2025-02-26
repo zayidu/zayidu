@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v316](https://dev.to/devteam/welcome-thread-v316-4ief)
-- [7 Crucial Features to Look for in a JavaScript Framework for Modern Development](https://dev.to/sencha_reext/7-crucial-features-to-look-for-in-a-javascript-framework-for-modern-development-18h0)
-- [Why Fine-tune? Understanding Its Role in Medical AI Models](https://dev.to/matthewmcmullen/why-fine-tune-understanding-its-role-in-medical-ai-models-177p)
-- [Understanding Closures and Lexical Environment in JavaScript](https://dev.to/awmani/understanding-closures-and-lexical-environment-in-javascript-1dk7)
-- [How Keisang HR Is Revolutionizing Tech Hiring with 2-Day Talent Placement](https://dev.to/lucasbennett/how-keisang-hr-is-revolutionizing-tech-hiring-with-2-day-talent-placement-44ch)
+- [My Portfolio - Showcasing My MERN Stack Journey](https://dev.to/mahmud-r-farhan/my-portfolio-showcasing-my-mern-stack-journey-3lbd)
+- [Ocoya March 2025 discount: AI-powered marketing automation](https://dev.to/roottwist6/ocoya-march-2025-discount-ai-powered-marketing-automation-50md)
+- [Laravel 12 &amp; Laravel Cloud: The Next Big Leap in Web Development](https://dev.to/snehalkadwe/laravel-12-laravel-cloud-the-next-big-leap-in-web-development-h0l)
+- [[Boost]](https://dev.to/osiris8/-2386)
+- [Dark Mode in Web Design: Pros and Cons](https://dev.to/gaurav_jha_tps/dark-mode-in-web-design-pros-and-cons-1809)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
