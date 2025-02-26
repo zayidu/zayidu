@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternative to Ruby&#39;s Monkey Patching](https://dev.to/railsdesigner/alternative-to-rubys-monkey-patching-4i7k)
-- [How to Build a Full Stack Agentic Researcher in 5 Minutes ⚡️⚡️](https://dev.to/copilotkit/how-to-build-a-full-stack-agentic-researcher-in-5-minutes-19dp)
-- [Top 5 Best Looking Weather App in JavaScript with Source Code | HTML, CSS &amp; JavaScript Projects](https://dev.to/vishalkumar1111/top-5-best-looking-weather-app-in-javascript-with-source-code-html-css-javascript-projects-2oid)
-- [Windows Blue screen of death](https://dev.to/asterdev/windows-blue-screen-of-death-4i35)
-- [JavaScript Array Cheat Sheet](https://dev.to/logannford/javascript-array-cheat-sheet-4l3b)
+- [React Native To-Do App: Project](https://dev.to/ayoola_damilare_212d5bde0/react-native-to-do-app-project-3kne)
+- [IT HOMELAB PROJECT #1](https://dev.to/blessingglobally/it-homelab-project-1-39jg)
+- [🚀 Java Basic Syntax with Real-World Analogies](https://dev.to/div1904/java-basic-syntax-with-real-world-analogies-53g2)
+- [# My Top VS Code Extensions I Use](https://dev.to/adhishtanaka/-my-top-vs-code-extensions-i-use-27d7)
+- [GCD once and for all](https://dev.to/kfamyn/gcd-once-and-for-all-55ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
