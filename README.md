@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Usability Testing: Benefits, Process &amp; Tools](https://dev.to/lollypopdesign/remote-usability-testing-benefits-process-tools-16o)
-- [5 Killer AI Tools That Are So Valuable They Feel Illegal To Know](https://dev.to/nitinfab/5-killer-ai-tools-that-are-so-valuable-they-feel-illegal-to-know-4kml)
-- [What is Cryogenic Deburring? Which Industries Benefit from It? ❄️🔧](https://dev.to/henglihong-js/what-is-cryogenic-deburring-which-industries-benefit-from-it-11eg)
-- [Important React Hooks⚓](https://dev.to/aryan015/important-react-hooks-2d0e)
-- [Mastering Kubernetes API Documentation with kubectl-apidocs](https://dev.to/alzhi_f93e67fa45b972/mastering-kubernetes-api-documentation-with-kubectl-apidocs-1mmi)
+- [Welcome Thread - v316](https://dev.to/devteam/welcome-thread-v316-4ief)
+- [7 Crucial Features to Look for in a JavaScript Framework for Modern Development](https://dev.to/sencha_reext/7-crucial-features-to-look-for-in-a-javascript-framework-for-modern-development-18h0)
+- [Why Fine-tune? Understanding Its Role in Medical AI Models](https://dev.to/matthewmcmullen/why-fine-tune-understanding-its-role-in-medical-ai-models-177p)
+- [Understanding Closures and Lexical Environment in JavaScript](https://dev.to/awmani/understanding-closures-and-lexical-environment-in-javascript-1dk7)
+- [How Keisang HR Is Revolutionizing Tech Hiring with 2-Day Talent Placement](https://dev.to/lucasbennett/how-keisang-hr-is-revolutionizing-tech-hiring-with-2-day-talent-placement-44ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
