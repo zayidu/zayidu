@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PL/SQL’de Cursor nasıl kullanılır? Cursor WITH HOLD ve WITHOUT HOLD nedir? PL/SQL’de REF CURSOR Nedir?](https://dev.to/cemgoksu/plsqlde-cursor-nasil-kullanilir-cursor-with-hold-ve-without-hold-nedir-plsqlde-ref-cursor-4lnc)
-- [🎯 PL/SQL’de Exception Handling &lpar;Hata Yönetimi&rpar;](https://dev.to/cemgoksu/plsqlde-exception-handling-hata-yonetimi-cj2)
-- [5 Awesome Fly.io Alternatives](https://dev.to/code42cate/5-awesome-flyio-alternatives-3cea)
-- [👨‍🎓 Mastering RegEx in JavaScript: A Quick Start Guide](https://dev.to/himanayk/-mastering-regex-in-javascript-a-quick-start-guide-nfb)
-- [📦PL/SQL’de paket &lpar;Package&rpar; nedir? İçeriğinde neler bulunur?](https://dev.to/cemgoksu/plsqlde-paket-package-nedir-iceriginde-neler-bulunur-1d81)
+- [Transformig a Fintech Investment Platform: From PHP to Java &lpar;Spring Boot&rpar;](https://dev.to/flnzba/transformig-a-fintech-investment-platform-from-php-to-java-spring-boot-j0h)
+- [Rethink State💡 Why You Should Model Your Frontend State Around Events](https://dev.to/juwel-dev/rethink-state-why-you-should-model-your-frontend-state-around-events-4j0c)
+- [Principes SOLID en Java](https://dev.to/gridou/principes-solid-en-java-543d)
+- [The AI Advantage: How Small Teams Can Achieve More with the Right Tools](https://dev.to/epicx/the-ai-advantage-how-small-teams-can-achieve-more-with-the-right-tools-4533)
+- [Creating an application using Vite](https://dev.to/aaronmccollum/creating-an-application-using-vite-1d57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
