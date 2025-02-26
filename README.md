@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How an &#39;Add Text Behind Image&#39; App Changed My Life Forever](https://dev.to/codecraffter/how-an-add-text-behind-image-app-changed-my-life-forever-4kmf)
-- [Rsvp website](https://dev.to/klomog_griffin/rsvp-website-5cp6)
-- [RTX 4090 vs RTX 5070 Ti vs RTX 5090 vs RTX 5080](https://dev.to/thekbbohara/rtx-4090-vs-rtx-5070-ti-vs-rtx-5090-vs-rtx-5080-1f00)
-- [Open-Source Testing Tools: Are They Worth It? Pros &amp; Cons Explained](https://dev.to/testwithtorin/open-source-testing-tools-are-they-worth-it-pros-cons-explained-2f3l)
-- [Auto Parts Inventory Management: A Must-Have for Automotive Businesses](https://dev.to/bhavesh_gangani_/auto-parts-inventory-management-a-must-have-for-automotive-businesses-4ok6)
+- [A Complete Guide to Web Application Architecture to Run A Successful Business](https://dev.to/trretatechnolabs/a-complete-guide-to-web-application-architecture-to-run-a-successful-business-3l2i)
+- [White Label Tokenization Platform: Revolutionizing Asset Management](https://dev.to/abijohn/white-label-tokenization-platform-revolutionizing-asset-management-25ip)
+- [The Future of AV Technology: How AI &amp; Automation Are Changing Workspaces](https://dev.to/allwavesys/the-future-of-av-technology-how-ai-automation-are-changing-workspaces-38ek)
+- [How to Design a Rocket Launcher Tripod Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-rocket-launcher-tripod-using-3d-cad-software-2a8l)
+- [Introducing the New and Improved Cookies package for Meteor.js](https://dev.to/smart_egg/introducing-the-new-and-improved-cookies-package-for-meteorjs-3pcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
