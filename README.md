@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Web Application Architecture to Run A Successful Business](https://dev.to/trretatechnolabs/a-complete-guide-to-web-application-architecture-to-run-a-successful-business-3l2i)
-- [White Label Tokenization Platform: Revolutionizing Asset Management](https://dev.to/abijohn/white-label-tokenization-platform-revolutionizing-asset-management-25ip)
-- [The Future of AV Technology: How AI &amp; Automation Are Changing Workspaces](https://dev.to/allwavesys/the-future-of-av-technology-how-ai-automation-are-changing-workspaces-38ek)
-- [How to Design a Rocket Launcher Tripod Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-rocket-launcher-tripod-using-3d-cad-software-2a8l)
-- [Introducing the New and Improved Cookies package for Meteor.js](https://dev.to/smart_egg/introducing-the-new-and-improved-cookies-package-for-meteorjs-3pcj)
+- [Como Configurar Múltiplas Contas do GitHub em um Único Computador](https://dev.to/vitorrios1001/como-configurar-multiplas-contas-do-github-em-um-unico-computador-aop)
+- [Wait, my new framework isn&#39;t the best one?! Always Has Been!](https://dev.to/alexmario74/wait-my-new-framework-isnt-the-best-one-always-has-been-53a4)
+- [React 19: A New Era of Development](https://dev.to/babar_bilal_2e14c231dfa8d/react-19-a-new-era-of-development-20cc)
+- [🖇️ Smart Event Handling in .NET: Weak References &amp; Pub-Sub Explained](https://dev.to/gigaherz/smart-event-handling-in-net-weak-references-pub-sub-explained-3l97)
+- [DeepSeek Fast-Tracks AI Model R2 After R1’s Success](https://dev.to/wearetechi/deepseek-fast-tracks-ai-model-r2-after-r1s-success-gaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
