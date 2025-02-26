@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚒ The Hidden Complexity Of Routing: Why Your Requests Take Longer Than They Should](https://dev.to/aetherflux/the-hidden-complexity-of-routing-why-your-requests-take-longer-than-they-should-5bbf)
-- [An Example about Flyweight Pattern in Java](https://dev.to/john_green/an-example-about-flyweight-pattern-in-java-1i06)
-- [How to Create an Interactive Dropdown Menu with Tailwind CSS &amp; JavaScript](https://dev.to/rowsanali/how-to-create-an-interactive-dropdown-menu-with-tailwind-css-javascript-1cja)
-- [Join Future’s First Writing Challenge!](https://dev.to/futureteam/join-futures-first-writing-challenge-4bj4)
-- [Managing My AWS Certified Status](https://dev.to/aws-builders/managing-my-aws-certified-status-463f)
+- [Earn Up to 1M XIAN: Xian Blockchain’s Bounty Program is Live!](https://dev.to/crosschainer/earn-up-to-1m-xian-xian-blockchains-bounty-program-is-live-390a)
+- [Debounce vs. Throttle: Explained with Simple Analogies](https://dev.to/jajibhee/debounce-vs-throttle-explained-with-simple-analogies-4hn4)
+- [Solving Frontend Performance: The Data Pipeline Transformation](https://dev.to/jajibhee/solving-frontend-performance-the-data-pipeline-transformation-2206)
+- [Master .NET – The Future of Cross-Platform Development](https://dev.to/hajira_asmatulla_31ac4599/master-net-the-future-of-cross-platform-development-1cpe)
+- [The Illusion of Test Coverage: Why Writing Tests First is the Only Real Testing](https://dev.to/wycliffealphus/the-illusion-of-test-coverage-why-writing-tests-first-is-the-only-real-testing-49pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
