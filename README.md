@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Watching Claude play Pokemon](https://dev.to/aaronmccollum/watching-claude-play-pokemon-1bie)
-- [smsmobileapi-php](https://dev.to/smsmobileapi/smsmobileapi-php-14nj)
-- [Getting Started with CrossFi Development: Keplr &amp; MetaMask Wallet Integration](https://dev.to/azeezabidoye/getting-started-with-crossfi-development-keplr-metamask-wallet-integration-cj3)
-- [Why Laravel is the Best Framework for Healthcare App Development?](https://dev.to/trretatechnolabs/why-laravel-is-the-best-framework-for-healthcare-app-development-57)
-- [Building Distributed Systems with Node.js.](https://dev.to/sfundomhlungu/building-distributed-systems-with-nodejs-1b12)
+- [How an &#39;Add Text Behind Image&#39; App Changed My Life Forever](https://dev.to/codecraffter/how-an-add-text-behind-image-app-changed-my-life-forever-4kmf)
+- [Rsvp website](https://dev.to/klomog_griffin/rsvp-website-5cp6)
+- [RTX 4090 vs RTX 5070 Ti vs RTX 5090 vs RTX 5080](https://dev.to/thekbbohara/rtx-4090-vs-rtx-5070-ti-vs-rtx-5090-vs-rtx-5080-1f00)
+- [Open-Source Testing Tools: Are They Worth It? Pros &amp; Cons Explained](https://dev.to/testwithtorin/open-source-testing-tools-are-they-worth-it-pros-cons-explained-2f3l)
+- [Auto Parts Inventory Management: A Must-Have for Automotive Businesses](https://dev.to/bhavesh_gangani_/auto-parts-inventory-management-a-must-have-for-automotive-businesses-4ok6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
