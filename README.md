@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native To-Do App: Project](https://dev.to/ayoola_damilare_212d5bde0/react-native-to-do-app-project-3kne)
-- [IT HOMELAB PROJECT #1](https://dev.to/blessingglobally/it-homelab-project-1-39jg)
-- [🚀 Java Basic Syntax with Real-World Analogies](https://dev.to/div1904/java-basic-syntax-with-real-world-analogies-53g2)
-- [# My Top VS Code Extensions I Use](https://dev.to/adhishtanaka/-my-top-vs-code-extensions-i-use-27d7)
-- [GCD once and for all](https://dev.to/kfamyn/gcd-once-and-for-all-55ip)
+- [&quot;I Want to Rank #1 on Google!&quot; – How to Solve Real SEO Problems](https://dev.to/mikehtmlallthethings/i-want-to-rank-1-on-google-how-to-solve-real-seo-problems-2eng)
+- [Hello, World!](https://dev.to/uur_mamak_87908df961598e/hello-world-23k8)
+- [🚀 Como Rodar uma API Node.js + PostgreSQL com Docker](https://dev.to/brunomestres/como-rodar-uma-api-nodejs-postgresql-com-docker-41di)
+- [Self Guide for Deploying Laravel and React Applications on a VPS](https://dev.to/emmo00/self-guide-for-deploying-laravel-and-react-applications-on-a-vps-1o57)
+- [Why Your Organization Should Consider Low-Code for Internal Tooling](https://dev.to/johnai/why-your-organization-should-consider-low-code-for-internal-tooling-50bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
