@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ugly Truth - Upscaling Your Databases Doesn&#39;t Always Help](https://dev.to/metis/the-ugly-truth-upscaling-your-databases-doesnt-always-help-50i5)
-- [A STEP BY STEP GUIDE ON HOW TO CREATE A VIRTUAL MACHINE ON MICROSOFT AZURE](https://dev.to/astranan/a-step-by-step-guide-on-how-to-create-a-virtual-machine-on-microsoft-azure-f6l)
-- [Struggling with project management in your dev team? Learn how to streamline workflows, improve collaboration, and boost efficiency with the right strategies. Master project management for development teams and achieve success! #Developers #ProjectManager](https://dev.to/pratham_naik_project_manager/struggling-with-project-management-in-your-dev-team-learn-how-to-streamline-workflows-improve-4de7)
-- [[Boost]](https://dev.to/abdermaiza/-5f95)
-- [Developers love coding, but project management often slows them down. Too many meetings, vague tasks, and unrealistic deadlines create frustration. Want to fix it? Discover how the right approach can make project management effortless! 🚀 Read now!](https://dev.to/pratham_naik_project_manager/developers-love-coding-but-project-management-often-slows-them-down-too-many-meetings-vague-32eb)
+- [Watching Claude play Pokemon](https://dev.to/aaronmccollum/watching-claude-play-pokemon-1bie)
+- [smsmobileapi-php](https://dev.to/smsmobileapi/smsmobileapi-php-14nj)
+- [Getting Started with CrossFi Development: Keplr &amp; MetaMask Wallet Integration](https://dev.to/azeezabidoye/getting-started-with-crossfi-development-keplr-metamask-wallet-integration-cj3)
+- [Why Laravel is the Best Framework for Healthcare App Development?](https://dev.to/trretatechnolabs/why-laravel-is-the-best-framework-for-healthcare-app-development-57)
+- [Building Distributed Systems with Node.js.](https://dev.to/sfundomhlungu/building-distributed-systems-with-nodejs-1b12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
