@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Portfolio - Showcasing My MERN Stack Journey](https://dev.to/mahmud-r-farhan/my-portfolio-showcasing-my-mern-stack-journey-3lbd)
-- [Ocoya March 2025 discount: AI-powered marketing automation](https://dev.to/roottwist6/ocoya-march-2025-discount-ai-powered-marketing-automation-50md)
-- [Laravel 12 &amp; Laravel Cloud: The Next Big Leap in Web Development](https://dev.to/snehalkadwe/laravel-12-laravel-cloud-the-next-big-leap-in-web-development-h0l)
-- [[Boost]](https://dev.to/osiris8/-2386)
-- [Dark Mode in Web Design: Pros and Cons](https://dev.to/gaurav_jha_tps/dark-mode-in-web-design-pros-and-cons-1809)
+- [Golang: The Language Revolutionizing Modern Development 🚀](https://dev.to/tavernetech/golang-the-language-revolutionizing-modern-development-22a2)
+- [PHP Tips | Exploring the Flyweight/Singleton Pattern 🏗️](https://dev.to/razielrodrigues/php-tips-exploring-the-flyweightsingleton-pattern-f10)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-iaf)
+- [Unleashing Creativity: Case Studies in Hightopo 3D and Gaussian Splatting](https://dev.to/hightopo/unleashing-creativity-case-studies-in-hightopo-3d-and-gaussian-splatting-59ff)
+- [The Future of AI: What an OpenAI Development Company Can Do for You](https://dev.to/michael_oliver_12e41257b3/the-future-of-ai-what-an-openai-development-company-can-do-for-you-21do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
