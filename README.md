@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang: The Language Revolutionizing Modern Development 🚀](https://dev.to/tavernetech/golang-the-language-revolutionizing-modern-development-22a2)
-- [PHP Tips | Exploring the Flyweight/Singleton Pattern 🏗️](https://dev.to/razielrodrigues/php-tips-exploring-the-flyweightsingleton-pattern-f10)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-iaf)
-- [Unleashing Creativity: Case Studies in Hightopo 3D and Gaussian Splatting](https://dev.to/hightopo/unleashing-creativity-case-studies-in-hightopo-3d-and-gaussian-splatting-59ff)
-- [The Future of AI: What an OpenAI Development Company Can Do for You](https://dev.to/michael_oliver_12e41257b3/the-future-of-ai-what-an-openai-development-company-can-do-for-you-21do)
+- [🔓How to Choose between These Two API Testing Tools: Postman Flow or Apidog Tests✨](https://dev.to/apilover/how-to-choose-between-these-two-api-testing-tools-postman-flow-or-apidog-tests-9ae)
+- [Handling actions in Swift using retry and fallback feature](https://dev.to/mykola_dementiev_f0c2fe6e/handling-actions-in-swift-using-retry-and-fallback-feature-1eib)
+- [Attendence management grid layout and spinner &lpar;Java &amp; xml&rpar;](https://dev.to/abhi_b/attendence-management-grid-layout-and-spinner-java-xml-589j)
+- [Attendence management table layout and spinner &lpar;Java &amp; xml&rpar;](https://dev.to/abhi_b/attendence-management-table-layout-and-spinner-java-xml-2kdp)
+- [How to deploy a Twitter Grok AI agent on Fleek](https://dev.to/fleek/how-to-deploy-a-twitter-grok-ai-agent-on-fleek-7pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
