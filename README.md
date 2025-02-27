@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformig a Fintech Investment Platform: From PHP to Java &lpar;Spring Boot&rpar;](https://dev.to/flnzba/transformig-a-fintech-investment-platform-from-php-to-java-spring-boot-j0h)
-- [Rethink State💡 Why You Should Model Your Frontend State Around Events](https://dev.to/juwel-dev/rethink-state-why-you-should-model-your-frontend-state-around-events-4j0c)
-- [Principes SOLID en Java](https://dev.to/gridou/principes-solid-en-java-543d)
-- [The AI Advantage: How Small Teams Can Achieve More with the Right Tools](https://dev.to/epicx/the-ai-advantage-how-small-teams-can-achieve-more-with-the-right-tools-4533)
-- [Creating an application using Vite](https://dev.to/aaronmccollum/creating-an-application-using-vite-1d57)
+- [Developing Decentralized AI Models with Federated Learning](https://dev.to/kartikmehta8/developing-decentralized-ai-models-with-federated-learning-5kg)
+- [React + Relay + Hasura GraphQL: a Stack Made in Typescript Heaven](https://dev.to/johnai/react-relay-hasura-graphql-a-stack-made-in-typescript-heaven-3egk)
+- [What You Need to Know From the 2024 ITRC Data Breach Report](https://dev.to/pomerium/what-you-need-to-know-from-the-2024-itrc-data-breach-report-5hb6)
+- [Aprendendo e Compartilhando: Minha Jornada com IA, Copilot e LLMs pt.1😁](https://dev.to/guintoki/aprendendo-e-compartilhando-minha-jornada-com-ia-copilot-e-llms-pt1-oj9)
+- [[iRIC] [New Feature] How to Use Project-Specific Default Colormap Settings](https://dev.to/starfieldkt/iric-new-feature-how-to-use-project-specific-default-colormap-settings-5hee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
