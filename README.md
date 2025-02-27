@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Hacker Rank was started in India](https://dev.to/founder_pedia_945ceb88056/how-hacker-rank-was-started-in-india-58mi)
-- [What is Deepseek Flash MLA](https://dev.to/andylawrence/what-is-deepseek-flash-mla-1pkp)
-- [2025 Best PHP Micro Frameworks: Slim, Flight, Fat-Free, Lumen, and More!](https://dev.to/n0nag0n/2025-best-php-micro-frameworks-slim-flight-fat-free-lumen-and-more-2naj)
-- [Spring Boot 3.4 application on AWS Lambda- Part 5 Docker Container Image with AWS Serverless Java Container](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-5-docker-container-image-with-aws-serverless-java-15ge)
-- [Styling with the CSS box-shadow property](https://dev.to/logrocket/styling-with-the-css-box-shadow-property-3cfe)
+- [Optimizing MongoDB Queries with `.executionStats`](https://dev.to/shruti_jain_98b67e0d65330/optimizing-mongodb-queries-with-executionstats-4phc)
+- [The Future of Work: Will We All Become Citizen Developers?](https://dev.to/softyflow/the-future-of-work-will-we-all-become-citizen-developers-13f6)
+- [Crea un diagrama de flujo de un proceso productivo de una botella de agua,útilizando todas las etapas del sistema productivo,desde el pedido hasta las celdas.](https://dev.to/mnica_blight_7691d68fbe7/crea-un-diagrama-de-flujo-de-un-proceso-productivo-de-una-botella-de-aguautilizando-todas-las-5c8j)
+- [Análise Comparativa: Aider vs. PMD vs. Semgrep](https://dev.to/scovl/analise-comparativa-aider-vs-pmd-vs-semgrep-34fd)
+- [Writing Page Object Fixtures in Playwright for Multi-User Applications](https://dev.to/edtang44/writing-page-object-fixtures-in-playwright-for-multi-user-applications-1e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
