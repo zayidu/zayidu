@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 2025: 10 Free Must-Know Websites Every Developer Should Bookmark](https://dev.to/dct_technologyprivatelimited/2025-10-free-must-know-websites-every-developer-should-bookmark-1d8c)
-- [Some useful Git commands](https://dev.to/svhl/some-useful-git-commands-20n0)
-- [New pin](https://dev.to/manmeet_singh_a6bba5a9320/new-pin-5g0d)
-- [Use Your Tablet as an Extended Monitor for Ubuntu](https://dev.to/messenger1012/use-your-tablet-as-an-extended-monitor-for-ubuntu-2ipb)
-- [🔐 Building Trust in Web3: Security, Transparency &amp; Execution Matter](https://dev.to/joshthebtc/building-trust-in-web3-security-transparency-execution-matter-5e7b)
+- [Cloud](https://dev.to/anjali_gurjar_dff81513867/cloud-3alo)
+- [Handling Big Data with ETL: Techniques &amp; Challenges](https://dev.to/aravindh_ramu_a8b26e63c48/handling-big-data-with-etl-techniques-challenges-50po)
+- [Smart Privacy &amp; TEEs Unlocking Next-gen Web3: The Oasis Way](https://dev.to/dc600/smart-privacy-tees-unlocking-next-gen-web3-the-oasis-way-1748)
+- [🚀 Build a Full-Stack App with Node.js, Express, MongoDB, and Next.js: The Ultimate Guide! 🚀](https://dev.to/er-raj-aryan/build-a-full-stack-app-with-nodejs-express-mongodb-and-nextjs-the-ultimate-guide-ojf)
+- [CSS Positioning](https://dev.to/slimjunior/css-positioning-2fg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
