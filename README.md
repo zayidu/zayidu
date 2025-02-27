@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Model from Huggingface with Video understanding](https://dev.to/amrs-tech/small-model-from-huggingface-with-video-understanding-2chj)
-- [Localization Opportunities in SaaS](https://dev.to/johnai/localization-opportunities-in-saas-2gpf)
-- [DragonflyDB com C#: Uma Alternativa Moderna ao Redis](https://dev.to/unhacked/dragonflydb-com-c-uma-alternativa-moderna-ao-redis-103p)
-- [Create a Animated Counter in Stimulus](https://dev.to/railsdesigner/create-a-animated-counter-in-stimulus-5cea)
-- [4D Vectors in C#! 🧮📈](https://dev.to/piggo151/4d-vectors-in-c-3gh7)
+- [What They Don’t Tell You About Project Listings Could Change Your Entire Business!](https://dev.to/resource_bunk_1077cab07da/what-they-dont-tell-you-about-project-listings-could-change-your-entire-business-3m96)
+- [From Fun to Frustration: A Lone Wolf in the Open Source World](https://dev.to/darkterminal/from-fun-to-frustration-a-lone-wolf-in-the-open-source-world-57p1)
+- [Is React Native Still Worth Learning in 2025?](https://dev.to/anytechie/is-react-native-still-worth-learning-in-2025-4o5e)
+- [7 API Technologies You Should Abandon in 2025 &lpar;And What to Use Instead!&rpar;](https://dev.to/snappytuts/7-api-technologies-you-should-abandon-in-2025-and-what-to-use-instead-511j)
+- [Building a Lightweight OCR-Powered Receipt Parser](https://dev.to/jjpark987/building-a-lightweight-ocr-powered-receipt-parser-1k21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
