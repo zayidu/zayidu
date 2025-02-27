@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Say &quot;Hello World&quot; in x86 Assembly](https://dev.to/sfundomhlungu/how-to-say-hello-world-in-x86-assembly-2bpm)
-- [📢 Is Your ServiceNow Integration Strategy Up to Date? ServiceNow is a game-changer for ITSM, but are you truly maximizing its potential? Many businesses use ServiceNow daily yet miss out on key integration advantages that could streamline operations.](https://dev.to/sip_mjb/is-your-servicenow-integration-strategy-up-to-date-servicenow-is-a-game-changer-for-itsm-but-pph)
-- [What You Should Know About HTTP/HTTPS Proxy](https://dev.to/swiftproxy_residential/what-you-should-know-about-httphttps-proxy-c16)
-- [Driving Innovation with Data: Certified Full Stack Data Scientist](https://dev.to/maria_mathur/driving-innovation-with-data-certified-full-stack-data-scientist-3pbp)
-- [VicRoads Launches Passkeys with Corbado](https://dev.to/corbado/vicroads-launches-passkeys-with-corbado-116n)
+- [Escopos no Kotlin: Controlando Ciclo de Vida e Cancelamento de Corrotinas](https://dev.to/comunidadedevspace/escopos-no-kotlin-controlando-ciclo-de-vida-e-cancelamento-de-corrotinas-142o)
+- [Scopes in Kotlin: Controlling Lifecycle and Cancellation of Coroutines](https://dev.to/comunidadedevspace/scopes-in-kotlin-controlling-lifecycle-and-cancellation-of-coroutines-33nl)
+- [Mastering MySQL Security: Key Steps to Protect Your Database](https://dev.to/dbvismarketing/mastering-mysql-security-key-steps-to-protect-your-database-3anm)
+- [What is the feature of Raspberry Pi?](https://dev.to/sanjaay/what-is-the-feature-of-raspberry-pi-44c7)
+- [The Role of Python in Machine Learning](https://dev.to/rashid_/the-role-of-python-in-machine-learning-2579)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
