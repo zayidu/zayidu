@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚢 Why &quot;It Works on My Machine&quot; Is No Longer an Excuse – The Power of Docker](https://dev.to/noyandey688/why-it-works-on-my-machine-is-no-longer-an-excuse-the-power-of-docker-3d55)
-- [🚀 Best Architecture for an Angular Project &lpar;Enterprise-Grade&rpar;](https://dev.to/dipakahirav/best-architecture-for-an-angular-project-enterprise-grade-mh3)
-- [Join Trood Open Source!](https://dev.to/trood/join-trood-open-source-ofh)
-- [Desvendando SQL: Trigger](https://dev.to/cristuker/desvendando-sql-trigger-f32)
-- [What is a tiling window manager and how can it change your life as a developer ?](https://dev.to/evk_6713/what-is-a-tiling-window-manager-and-how-can-it-change-your-life-as-a-developer--1768)
+- [Small Model from Huggingface with Video understanding](https://dev.to/amrs-tech/small-model-from-huggingface-with-video-understanding-2chj)
+- [Localization Opportunities in SaaS](https://dev.to/johnai/localization-opportunities-in-saas-2gpf)
+- [DragonflyDB com C#: Uma Alternativa Moderna ao Redis](https://dev.to/unhacked/dragonflydb-com-c-uma-alternativa-moderna-ao-redis-103p)
+- [Create a Animated Counter in Stimulus](https://dev.to/railsdesigner/create-a-animated-counter-in-stimulus-5cea)
+- [4D Vectors in C#! 🧮📈](https://dev.to/piggo151/4d-vectors-in-c-3gh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
