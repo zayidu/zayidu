@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/tejasp/-4bld)
-- [How can Code Signing Certificates help Android developers secure apps?](https://dev.to/judypage/how-can-code-signing-certificates-help-android-developers-secure-apps-478i)
-- [ALTERA FPGA timing analysis](https://dev.to/carolineee/altera-fpga-timing-analysis-npk)
-- [How to Transition from IT Support to Cybersecurity: A Complete Career Guide](https://dev.to/dumebii/how-to-transition-from-it-support-to-cybersecurity-a-complete-career-guide-9nk)
-- [OctAPI: Instantly Discover Your API Routes in VS Code](https://dev.to/sabah_hasbi/octapi-instantly-discover-your-api-routes-in-vs-code-cac)
+- [How to Become a Freelance Technical Writer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/raajaryan/how-to-become-a-freelance-technical-writer-in-2025-step-by-step-guide-1c8i)
+- [How Python Powers AI: A Beginner&#39;s Guide to Machine Learning](https://dev.to/aditya_tripathi_17ffee7f5/how-python-powers-ai-a-beginners-guide-to-machine-learning-58kp)
+- [Chrome Extensions That’ll Transform Chaos Into Supercharged Productivity](https://dev.to/aigurux/supercharge-your-workflow-with-these-must-have-ai-chrome-extensions-4ede)
+- [animated button](https://dev.to/hallexxx/animated-button-1a0a)
+- [Animated button fusion](https://dev.to/hallexxx/animated-button-fusion-3fen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
