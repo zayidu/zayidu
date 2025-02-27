@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing Decentralized AI Models with Federated Learning](https://dev.to/kartikmehta8/developing-decentralized-ai-models-with-federated-learning-5kg)
-- [React + Relay + Hasura GraphQL: a Stack Made in Typescript Heaven](https://dev.to/johnai/react-relay-hasura-graphql-a-stack-made-in-typescript-heaven-3egk)
-- [What You Need to Know From the 2024 ITRC Data Breach Report](https://dev.to/pomerium/what-you-need-to-know-from-the-2024-itrc-data-breach-report-5hb6)
-- [Aprendendo e Compartilhando: Minha Jornada com IA, Copilot e LLMs pt.1😁](https://dev.to/guintoki/aprendendo-e-compartilhando-minha-jornada-com-ia-copilot-e-llms-pt1-oj9)
-- [[iRIC] [New Feature] How to Use Project-Specific Default Colormap Settings](https://dev.to/starfieldkt/iric-new-feature-how-to-use-project-specific-default-colormap-settings-5hee)
+- [BuilderBot - Crear chatbots es Un juego de niños !](https://dev.to/federincon/builderbot-crear-chatbots-es-un-juego-de-ninos--17e1)
+- [Hooked on React: The Complete Guide to React 19&#39;s Function Component Superpowers! 🪝⚛️✨](https://dev.to/philipjohnbasile/hooked-on-react-the-complete-guide-to-react-19s-function-component-superpowers-1hdj)
+- [Flexible Interval Aggregation — From SQL to SPL #5](https://dev.to/judith677/flexible-interval-aggregation-from-sql-to-spl-5-3l00)
+- [Seeking Guidance on Learning the Move Programming Language](https://dev.to/suhail_076/seeking-guidance-on-learning-the-move-programming-language-3ab4)
+- [Big O Notation Explained: How to Analyze Your Algorithm’s Speed](https://dev.to/alicelee2735/big-o-notation-explained-how-to-analyze-your-algorithms-speed-pi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
