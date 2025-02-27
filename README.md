@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become a Freelance Technical Writer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/raajaryan/how-to-become-a-freelance-technical-writer-in-2025-step-by-step-guide-1c8i)
-- [How Python Powers AI: A Beginner&#39;s Guide to Machine Learning](https://dev.to/aditya_tripathi_17ffee7f5/how-python-powers-ai-a-beginners-guide-to-machine-learning-58kp)
-- [Chrome Extensions That’ll Transform Chaos Into Supercharged Productivity](https://dev.to/aigurux/supercharge-your-workflow-with-these-must-have-ai-chrome-extensions-4ede)
-- [animated button](https://dev.to/hallexxx/animated-button-1a0a)
-- [Animated button fusion](https://dev.to/hallexxx/animated-button-fusion-3fen)
+- [🚀 NEXT.js Just Dropped a Game-Changing Update! Here&#39;s Why You Should Care 🚀](https://dev.to/er-raj-aryan/nextjs-just-dropped-a-game-changing-update-heres-why-you-should-care-1268)
+- [How to Enable HTTP/3 on Nginx with Ubuntu](https://dev.to/programmerhasan/how-to-enable-http3-on-nginx-with-ubuntu-3hgp)
+- [🚀 Why Use ESLint in Your Project?](https://dev.to/jean_lucas/why-use-eslint-in-your-project-3p83)
+- [How to encourage Google Play Store reviews as a developer](https://dev.to/packetsdk/how-to-encourage-google-play-store-reviews-as-a-developer-27lj)
+- [Why Custom ERP is the Best Fit for Scaling Businesses](https://dev.to/flatlogic/why-custom-erp-is-the-best-fit-for-scaling-businesses-14f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
