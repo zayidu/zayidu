@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud](https://dev.to/anjali_gurjar_dff81513867/cloud-3alo)
-- [Handling Big Data with ETL: Techniques &amp; Challenges](https://dev.to/aravindh_ramu_a8b26e63c48/handling-big-data-with-etl-techniques-challenges-50po)
-- [Smart Privacy &amp; TEEs Unlocking Next-gen Web3: The Oasis Way](https://dev.to/dc600/smart-privacy-tees-unlocking-next-gen-web3-the-oasis-way-1748)
-- [🚀 Build a Full-Stack App with Node.js, Express, MongoDB, and Next.js: The Ultimate Guide! 🚀](https://dev.to/er-raj-aryan/build-a-full-stack-app-with-nodejs-express-mongodb-and-nextjs-the-ultimate-guide-ojf)
-- [CSS Positioning](https://dev.to/slimjunior/css-positioning-2fg5)
+- [How to Say &quot;Hello World&quot; in x86 Assembly](https://dev.to/sfundomhlungu/how-to-say-hello-world-in-x86-assembly-2bpm)
+- [📢 Is Your ServiceNow Integration Strategy Up to Date? ServiceNow is a game-changer for ITSM, but are you truly maximizing its potential? Many businesses use ServiceNow daily yet miss out on key integration advantages that could streamline operations.](https://dev.to/sip_mjb/is-your-servicenow-integration-strategy-up-to-date-servicenow-is-a-game-changer-for-itsm-but-pph)
+- [What You Should Know About HTTP/HTTPS Proxy](https://dev.to/swiftproxy_residential/what-you-should-know-about-httphttps-proxy-c16)
+- [Driving Innovation with Data: Certified Full Stack Data Scientist](https://dev.to/maria_mathur/driving-innovation-with-data-certified-full-stack-data-scientist-3pbp)
+- [VicRoads Launches Passkeys with Corbado](https://dev.to/corbado/vicroads-launches-passkeys-with-corbado-116n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
