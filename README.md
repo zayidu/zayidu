@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I find this topic very useful, check it out too !](https://dev.to/kelvincode1234/i-find-this-topic-very-useful-check-it-out-too--ie4)
-- [Dicas sobre GitHub](https://dev.to/vivianbr/dicas-sobre-github-fkl)
-- [GPT 4.5 Release](https://dev.to/ben/gpt-45-release-11i2)
-- [Software Engineering: Slow is Smooth, Smooth is Fast](https://dev.to/johnai/software-engineering-slow-is-smooth-smooth-is-fast-4gl1)
-- [Smart Defaults in Ruby: Setting Method Arguments Dynamically](https://dev.to/jessalejo/smart-defaults-in-ruby-setting-method-arguments-dynamically-3b15)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4pi5)
+- [1 - Escreva um programa que calcule a área de um círculo a partir do raio, utilizando a fórmula A = Math.PI * Math.pow&lpar;raio, 2&rpar;](https://dev.to/vitorpaiola/1-escreva-um-programa-que-calcule-a-area-de-um-circulo-a-partir-do-raio-utilizando-a-formula-a--4g8)
+- [How to Learn React: A Guide for Aspiring Developers](https://dev.to/srdan_borovi_584c6b1d773/how-to-learn-react-a-guide-for-aspiring-developers-27kf)
+- [AI-Generated Shader Experiments: A Journey](https://dev.to/benny00100/ai-generated-shader-experiments-a-journey-1pog)
+- [Best Websites to Learn Full-Stack Development](https://dev.to/srdan_borovi_584c6b1d773/best-websites-to-learn-full-stack-development-1l29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
