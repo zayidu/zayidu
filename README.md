@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to IBM i/AS400 Application GUI Modernization](https://dev.to/vijendra22/a-complete-guide-to-ibm-ias400-application-gui-modernization-42j3)
-- [How Indie Developers Are Using Blockchain Without Alienating Players](https://dev.to/raiden_studio/how-indie-developers-are-using-blockchain-without-alienating-players-4j62)
-- [How to Build a dApp on Avalanche Blockchain](https://dev.to/ritu_singh_6e2cfac692d116/how-to-build-a-dapp-on-avalanche-blockchain-3jfa)
-- [Quality Assurance in Software Development The Role of QA and Testing](https://dev.to/max_services/quality-assurance-in-software-development-the-role-of-qa-and-testing-1jgp)
-- [Win Big and Stand Out: Why the ReExt Contest Is Your Chance to Shine](https://dev.to/sencha_reext/win-big-and-stand-out-why-the-reext-contest-is-your-chance-to-shine-4h5g)
+- [Build a Basic CRUD Application With Flask-PyMongo](https://dev.to/mongodb/build-a-basic-crud-application-with-flask-pymongo-1kp3)
+- [Introducing The Event Destinations Initiative](https://dev.to/hookdeck/introducing-the-event-destinations-initiative-4065)
+- [Algorithm: Definition, Features, and Applications](https://dev.to/moghadassi/algorithm-definition-features-and-applications-27p3)
+- [𝐓𝐨𝐩 𝟔 𝐀𝐏𝐈 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐒𝐭𝐲𝐥𝐞𝐬](https://dev.to/dahami_fabbio/-581o)
+- [[Boost]](https://dev.to/proxyos/-190p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
