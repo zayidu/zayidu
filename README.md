@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Basic CRUD Application With Flask-PyMongo](https://dev.to/mongodb/build-a-basic-crud-application-with-flask-pymongo-1kp3)
-- [Introducing The Event Destinations Initiative](https://dev.to/hookdeck/introducing-the-event-destinations-initiative-4065)
-- [Algorithm: Definition, Features, and Applications](https://dev.to/moghadassi/algorithm-definition-features-and-applications-27p3)
-- [𝐓𝐨𝐩 𝟔 𝐀𝐏𝐈 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐒𝐭𝐲𝐥𝐞𝐬](https://dev.to/dahami_fabbio/-581o)
-- [[Boost]](https://dev.to/proxyos/-190p)
+- [How Hacker Rank was started in India](https://dev.to/founder_pedia_945ceb88056/how-hacker-rank-was-started-in-india-58mi)
+- [What is Deepseek Flash MLA](https://dev.to/andylawrence/what-is-deepseek-flash-mla-1pkp)
+- [2025 Best PHP Micro Frameworks: Slim, Flight, Fat-Free, Lumen, and More!](https://dev.to/n0nag0n/2025-best-php-micro-frameworks-slim-flight-fat-free-lumen-and-more-2naj)
+- [Spring Boot 3.4 application on AWS Lambda- Part 5 Docker Container Image with AWS Serverless Java Container](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-5-docker-container-image-with-aws-serverless-java-15ge)
+- [Styling with the CSS box-shadow property](https://dev.to/logrocket/styling-with-the-css-box-shadow-property-3cfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
