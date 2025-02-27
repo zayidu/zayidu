@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunburst Chart](https://dev.to/preetha_vaishnavi_2b82358/sunburst-chart-29j9)
-- [OnChain-NFT with Solidity](https://dev.to/vivcis/onchain-nft-with-solidity-158i)
-- [How to Build a Dual-LLM Chat Application with Next.js, Python, and WebSocket Streaming](https://dev.to/sirneij/how-to-build-a-dual-llm-chat-application-with-nextjs-python-and-websocket-streaming-1e5l)
-- [Whoever has come up with the term &quot;Scrum master&quot; should have seen developers as &quot;Scrum slaves&quot;! 🛑 ✋](https://dev.to/pooyan/whoever-has-come-up-with-the-term-scrum-master-should-have-seen-developers-as-scrum-slaves-3mel)
-- [🚀 Understanding Output in Java](https://dev.to/div1904/understanding-output-in-java-57g7)
+- [🚀 2025: 10 Free Must-Know Websites Every Developer Should Bookmark](https://dev.to/dct_technologyprivatelimited/2025-10-free-must-know-websites-every-developer-should-bookmark-1d8c)
+- [Some useful Git commands](https://dev.to/svhl/some-useful-git-commands-20n0)
+- [New pin](https://dev.to/manmeet_singh_a6bba5a9320/new-pin-5g0d)
+- [Use Your Tablet as an Extended Monitor for Ubuntu](https://dev.to/messenger1012/use-your-tablet-as-an-extended-monitor-for-ubuntu-2ipb)
+- [🔐 Building Trust in Web3: Security, Transparency &amp; Execution Matter](https://dev.to/joshthebtc/building-trust-in-web3-security-transparency-execution-matter-5e7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
