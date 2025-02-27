@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BuilderBot - Crear chatbots es Un juego de niños !](https://dev.to/federincon/builderbot-crear-chatbots-es-un-juego-de-ninos--17e1)
-- [Hooked on React: The Complete Guide to React 19&#39;s Function Component Superpowers! 🪝⚛️✨](https://dev.to/philipjohnbasile/hooked-on-react-the-complete-guide-to-react-19s-function-component-superpowers-1hdj)
-- [Flexible Interval Aggregation — From SQL to SPL #5](https://dev.to/judith677/flexible-interval-aggregation-from-sql-to-spl-5-3l00)
-- [Seeking Guidance on Learning the Move Programming Language](https://dev.to/suhail_076/seeking-guidance-on-learning-the-move-programming-language-3ab4)
-- [Big O Notation Explained: How to Analyze Your Algorithm’s Speed](https://dev.to/alicelee2735/big-o-notation-explained-how-to-analyze-your-algorithms-speed-pi7)
+- [Sunburst Chart](https://dev.to/preetha_vaishnavi_2b82358/sunburst-chart-29j9)
+- [OnChain-NFT with Solidity](https://dev.to/vivcis/onchain-nft-with-solidity-158i)
+- [How to Build a Dual-LLM Chat Application with Next.js, Python, and WebSocket Streaming](https://dev.to/sirneij/how-to-build-a-dual-llm-chat-application-with-nextjs-python-and-websocket-streaming-1e5l)
+- [Whoever has come up with the term &quot;Scrum master&quot; should have seen developers as &quot;Scrum slaves&quot;! 🛑 ✋](https://dev.to/pooyan/whoever-has-come-up-with-the-term-scrum-master-should-have-seen-developers-as-scrum-slaves-3mel)
+- [🚀 Understanding Output in Java](https://dev.to/div1904/understanding-output-in-java-57g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
