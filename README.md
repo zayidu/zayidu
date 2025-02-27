@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What They Don’t Tell You About Project Listings Could Change Your Entire Business!](https://dev.to/resource_bunk_1077cab07da/what-they-dont-tell-you-about-project-listings-could-change-your-entire-business-3m96)
-- [From Fun to Frustration: A Lone Wolf in the Open Source World](https://dev.to/darkterminal/from-fun-to-frustration-a-lone-wolf-in-the-open-source-world-57p1)
-- [Is React Native Still Worth Learning in 2025?](https://dev.to/anytechie/is-react-native-still-worth-learning-in-2025-4o5e)
-- [7 API Technologies You Should Abandon in 2025 &lpar;And What to Use Instead!&rpar;](https://dev.to/snappytuts/7-api-technologies-you-should-abandon-in-2025-and-what-to-use-instead-511j)
-- [Building a Lightweight OCR-Powered Receipt Parser](https://dev.to/jjpark987/building-a-lightweight-ocr-powered-receipt-parser-1k21)
+- [Updating my website&#39;s tech stack in 2025](https://dev.to/davidmorais/updating-my-websites-tech-stack-in-2025-35n3)
+- [🚀 Is $SUI Ready for a Breakout After a Strong Surge? 📈](https://dev.to/sergi_web3/is-sui-ready-for-a-breakout-after-a-strong-surge-1hok)
+- [Mining Tokenization: Future-Proofing Your Crypto Operation](https://dev.to/steveeys/mining-tokenization-future-proofing-your-crypto-operation-4h3n)
+- [📉 $BTC Faces Key Support as Price Drops 11% in One Week 🚀](https://dev.to/sergi_web3/btc-faces-key-support-as-price-drops-11-in-one-week-5178)
+- [🐋 Cardano Whales Offload 170M $ADA – What’s Next at $0.65? 🔥](https://dev.to/joshthebtc/cardano-whales-offload-170m-ada-whats-next-at-065-o1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
