@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 1110 : Vinyl Is Forever](https://dev.to/dwane/day-1110-vinyl-is-forever-446b)
+- [Unlocking SEO Insights: Leveraging &#39;People Also Ask&#39; for Smarter Content Strategies](https://dev.to/nate_serpapi/unlocking-seo-insights-leveraging-people-also-ask-for-smarter-content-strategies-2ffo)
+- [Unified Data Analytics via a Semantic Layer](https://dev.to/johnai/unified-data-analytics-via-a-semantic-layer-gam)
 - [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4pi5)
-- [1 - Escreva um programa que calcule a área de um círculo a partir do raio, utilizando a fórmula A = Math.PI * Math.pow&lpar;raio, 2&rpar;](https://dev.to/vitorpaiola/1-escreva-um-programa-que-calcule-a-area-de-um-circulo-a-partir-do-raio-utilizando-a-formula-a--4g8)
-- [How to Learn React: A Guide for Aspiring Developers](https://dev.to/srdan_borovi_584c6b1d773/how-to-learn-react-a-guide-for-aspiring-developers-27kf)
-- [AI-Generated Shader Experiments: A Journey](https://dev.to/benny00100/ai-generated-shader-experiments-a-journey-1pog)
-- [Best Websites to Learn Full-Stack Development](https://dev.to/srdan_borovi_584c6b1d773/best-websites-to-learn-full-stack-development-1l29)
+- [Mapping Users to Records &amp; Protecting Views in Django 🚀](https://dev.to/ebereplenty/mapping-users-to-records-protecting-views-in-django-3e5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
