@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Serverless Architecture Might Be the Future &lpar;But Not for Everyone&rpar; 🚀](https://dev.to/dct_technologyprivatelimited/why-serverless-architecture-might-be-the-future-but-not-for-everyone-42hf)
+- [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
+- [Bulk Email Service Provider &amp; Bulk email Services - Mass email Services](https://dev.to/sam_devid_65bbbe34ab06c1a/bulk-email-service-provider-bulk-email-services-mass-email-services-2l62)
+- [🚀 Ready to Launch Your Startup in Record Time? Meet ShipFast, the Boilerplate That Makes It Possible 🚀](https://dev.to/lewiz17/ready-to-launch-your-startup-in-record-time-meet-shipfast-the-boilerplate-that-makes-it-57cd)
 - [7 Must-Try VS Code Extensions You Can’t Afford to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/7-must-try-vs-code-extensions-you-cant-afford-to-miss-in-2025-49d6)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nc7)
-- [Getting Started with Terraform: Understanding Workspaces and Conditionals &lpar;Part 4&rpar; 🚀](https://dev.to/techwithhari/getting-started-with-terraform-understanding-workspaces-and-conditionals-part-4-7n6)
-- [Enterprise Software Shouldn’t Suck — Here’s How We’re Fixing It](https://dev.to/lonti-davidb/enterprise-software-shouldnt-suck-heres-how-were-fixing-it-50mn)
-- [Navigating the Code Jungle: Strategies to Tame Complexity and Boost Productivity](https://dev.to/pratham_naik_project_manager/navigating-the-code-jungle-strategies-to-tame-complexity-and-boost-productivity-4o54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
