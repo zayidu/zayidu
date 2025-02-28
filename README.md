@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Toggle: A Comprehensive Guide](https://dev.to/devcorner/feature-toggle-a-comprehensive-guide-1din)
-- [How I Got 10,000+ Views with This Free Project Listing Strategy](https://dev.to/resource_bunk_1077cab07da/how-i-got-10000-views-with-this-free-project-listing-strategy-533m)
-- [How to Work with the DOM: Event Listeners and Manipulation](https://dev.to/rowsanali/how-to-work-with-the-dom-event-listeners-and-manipulation-59pf)
-- [How to Enable Transparency Effects on Windows 11?](https://dev.to/winsides/how-to-enable-transparency-effects-on-windows-11-1i2l)
-- [Why Flask Is One of the Most Popular Web Frameworks Today](https://dev.to/namimai/why-flask-is-one-of-the-most-popular-web-frameworks-today-19m9)
+- [Understanding Python’s GIL and Enhancing Concurrency with Multithreading, Multiprocessing, and Asyncio](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e)
+- [Best Practices for Storing and Securing Passwords: A Developer&#39;s Guide](https://dev.to/abstract-333/best-practices-for-storing-and-securing-passwords-a-developers-guide-ocm)
+- [Introduction to AWS CloudFormation: A Beginner&#39;s Guide to Infrastructure as Code](https://dev.to/prajwal_kp/introduction-to-aws-cloudformation-a-beginners-guide-to-infrastructure-as-code-1k6d)
+- [🔥5 Best Chrome Extensions You Should Try 🫵](https://dev.to/dev_kiran/5-best-chrome-extensions-you-should-try-2fj0)
+- [Switching from tmux to Zellij](https://dev.to/fm/switching-from-tmux-to-zellij-9jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
