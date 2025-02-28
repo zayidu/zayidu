@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between static and default methods in a Java interface?](https://dev.to/dhanush9952/what-is-the-difference-between-static-and-default-methods-in-a-java-interface-5383)
-- [Establishing a secure connection to the AWS Elastic Beanstalk application](https://dev.to/aws-builders/establishing-a-secure-connection-to-the-aws-elastic-beanstalk-application-m4)
-- [DeepSeek Open Source Week Day 5: 3FS](https://dev.to/apilover/deepseek-open-source-week-day-5-3fs-jkj)
-- [How to Find Profitable App Ideas &lpar;Even If You Think Everything Already Exists&rpar;](https://dev.to/linwangg/how-to-find-profitable-app-ideas-even-if-you-think-everything-already-exists-1c7)
-- [LAB: SQL injection](https://dev.to/travondatrack/lab-sql-injection-2gbg)
+- [How to Integrate Laravel With Headless CMS: A Step-by-Step Guide](https://dev.to/dhruvil_joshi14/how-to-integrate-laravel-with-headless-cms-a-step-by-step-guide-2l6)
+- [Embracing the Future with Technology](https://dev.to/adonaitechnologies/embracing-the-future-with-technology-16n2)
+- [AI System Detects Medical Research Fraud with 91% Accuracy and Clear Explanations](https://dev.to/mikeyoung44/ai-system-detects-medical-research-fraud-with-91-accuracy-and-clear-explanations-43pn)
+- [Smart AI Training Method Cuts Language Model Training Time by 25% While Maintaining Performance](https://dev.to/mikeyoung44/smart-ai-training-method-cuts-language-model-training-time-by-25-while-maintaining-performance-4ah3)
+- [How to create VS Code Extension #3 &lpar;Syntax Highlight&rpar;](https://dev.to/selfish_dev/how-to-create-vs-code-extension-3-syntax-highlight-nj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
