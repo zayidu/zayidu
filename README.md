@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Multiple Git Profiles with Ease: Introducing `gguser`](https://dev.to/camelcaseguy/managing-multiple-git-profiles-with-ease-introducing-gguser-3lcg)
-- [How AI-Powered Code Review Can Save Your Development Team Hours](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-powered-code-review-can-save-your-development-team-hours-2n03)
-- [DeepSeek - Recap](https://dev.to/bensantora/deepseek-recap-4m6h)
-- [Subroutines: Interview Problem Survey](https://dev.to/mehran_ghamaty/subroutines-interview-problem-survey-386g)
-- [How to build a secure project management platform with Next.js, Clerk, and Neon](https://dev.to/clerk/how-to-build-a-secure-project-management-platform-with-nextjs-clerk-and-neon-j4f)
+- [How To Process IoT Sensor Data with Windowed Aggregations and ML Inference](https://dev.to/sudoconsultants/how-to-process-iot-sensor-data-with-windowed-aggregations-and-ml-inference-45im)
+- [Bootstrap Your Web Server on AWS: A Deep Dive into EC2 User Data](https://dev.to/lindiwe09/bootstrap-your-web-server-on-aws-a-deep-dive-into-ec2-user-data-2mp3)
+- [[Boost]](https://dev.to/ifihan/-2b1c)
+- [Redshift Serverless: Cost Optimization with Workload Management &lpar;WLM&rpar;](https://dev.to/sudoconsultants/redshift-serverless-cost-optimization-with-workload-management-wlm-27)
+- [Few-Shot Learning for Gemini on Vertex AI](https://dev.to/ifihan/few-shot-learning-for-gemini-on-vertex-ai-13nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
