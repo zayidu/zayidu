@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BL-SOC01 - Jump Into SOC](https://dev.to/trumpiter/bl-soc01-jump-into-soc-j57)
-- [Why Do Developers Struggle with Low-Code? &lpar;6 Tools That Actually Help&rpar;](https://dev.to/nocobase/why-do-developers-struggle-with-low-code-6-tools-that-actually-help-41c4)
-- [Passo a passo para escolher a arquitetura ideal](https://dev.to/yuripeixinho/passo-a-passo-para-escolher-a-arquitetura-ideal-595m)
-- [Building a Physically Accurate Black Hole Visualization with Python, CUDA, and OpenGL](https://dev.to/ericsonwillians/building-a-physically-accurate-black-hole-visualization-with-python-cuda-and-opengl-gnb)
-- [Leveraging Generative AI with DevSecOps for Enhanced Security](https://dev.to/snyk/leveraging-generative-ai-with-devsecops-for-enhanced-security-19of)
+- [L2](https://dev.to/gchar/l2-295i)
+- [LitFlip: A SaaS Platform for Immersive Reading Built with Next.js and Django](https://dev.to/ahmed_makki/litflip-a-saas-platform-for-immersive-reading-built-with-nextjs-and-django-3lj8)
+- [L](https://dev.to/gchar/l-1jj5)
+- [🔒 Securing the Cloud: My AWS Security Learning Journey 🚀](https://dev.to/bemmanvip/securing-the-cloud-my-aws-security-learning-journey-3hd2)
+- [Install OpenProject with SSL and Enterprice token enabled](https://dev.to/vuong_le_65c269e8f8661fca/install-openproject-with-ssl-and-enterprice-token-enabled-27fc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
