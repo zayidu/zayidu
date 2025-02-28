@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing PM2 Logs: Preventing Performance Issues in Node.js Applications](https://dev.to/manojspace/managing-pm2-logs-preventing-performance-issues-in-nodejs-applications-c6)
-- [Introduction to Amazon Redshift: A Data Warehouse Solution](https://dev.to/imsushant12/introduction-to-amazon-redshift-a-data-warehouse-solution-2o3g)
-- [Valid feelings](https://dev.to/jess/valid-feelings-m91)
-- [Mouse pads are underrated](https://dev.to/jess/mouse-pads-are-underrated-1lib)
-- [Free Vector Databases](https://dev.to/mehmetakar/free-vector-databases-5de1)
+- [When Bright Minds Meet to Shine in the Big Stage - Looking Back to TedxUPV Women: Anchored in Tech](https://dev.to/kakacomputer-media/when-bright-minds-meet-to-shine-in-the-big-stage-looking-back-to-tedxupv-women-anchored-in-tech-2ao1)
+- [How to Create an Architecture with WAF in between Two Nginx](https://dev.to/carrie_luo1/how-to-create-an-architecture-with-waf-in-between-two-nginx-43aj)
+- [How to create a test ecosystem](https://dev.to/will_drygla/how-to-create-a-test-ecosystem-4ahl)
+- [How to Train Your Model When Data Lies](https://dev.to/its_amandha/how-to-train-your-model-when-data-lies-c0b)
+- [AI in 2025: Where We Are and What’s Next](https://dev.to/kenura_sanvidu/ai-in-2025-where-we-are-and-whats-next-325f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
