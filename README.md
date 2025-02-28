@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1110 : Vinyl Is Forever](https://dev.to/dwane/day-1110-vinyl-is-forever-446b)
-- [Unlocking SEO Insights: Leveraging &#39;People Also Ask&#39; for Smarter Content Strategies](https://dev.to/nate_serpapi/unlocking-seo-insights-leveraging-people-also-ask-for-smarter-content-strategies-2ffo)
-- [Unified Data Analytics via a Semantic Layer](https://dev.to/johnai/unified-data-analytics-via-a-semantic-layer-gam)
-- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4pi5)
-- [Mapping Users to Records &amp; Protecting Views in Django 🚀](https://dev.to/ebereplenty/mapping-users-to-records-protecting-views-in-django-3e5f)
+- [Secure Coding in C: Avoid Buffer Overflows and Memory Leaks](https://dev.to/yamil_garcia_ee1f89f1e245/secure-coding-in-c-avoid-buffer-overflows-and-memory-leaks-bkp)
+- [Daily JavaScript Challenge #JS-113: Convert Infix Expression to Postfix](https://dev.to/dpc/daily-javascript-challenge-js-113-convert-infix-expression-to-postfix-38l2)
+- [Protecting Sensitive Data in Microsoft 365](https://dev.to/ostapzabolotnyy/protecting-sensitive-data-in-microsoft-365-42nk)
+- [Automatizando a Qualidade de Dados com DQX: Performance e praticidade](https://dev.to/airton_lirajunior_2ddebd/automatizando-a-qualidade-de-dados-com-dqx-performance-e-praticidade-331a)
+- [Building an Interactive Badge Scanner System with Python Text-to-Speech](https://dev.to/mr_nova/building-an-interactive-badge-scanner-system-with-python-text-to-speech-38dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
