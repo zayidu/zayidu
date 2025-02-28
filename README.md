@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Bright Minds Meet to Shine in the Big Stage - Looking Back to TedxUPV Women: Anchored in Tech](https://dev.to/kakacomputer-media/when-bright-minds-meet-to-shine-in-the-big-stage-looking-back-to-tedxupv-women-anchored-in-tech-2ao1)
-- [How to Create an Architecture with WAF in between Two Nginx](https://dev.to/carrie_luo1/how-to-create-an-architecture-with-waf-in-between-two-nginx-43aj)
-- [How to create a test ecosystem](https://dev.to/will_drygla/how-to-create-a-test-ecosystem-4ahl)
-- [How to Train Your Model When Data Lies](https://dev.to/its_amandha/how-to-train-your-model-when-data-lies-c0b)
-- [AI in 2025: Where We Are and What’s Next](https://dev.to/kenura_sanvidu/ai-in-2025-where-we-are-and-whats-next-325f)
+- [HTTP Caching Deep Dive: Performance Optimization Patterns Every Developer Should Know](https://dev.to/requestmetrics/http-caching-deep-dive-performance-optimization-patterns-every-developer-should-know-330e)
+- [Icarus and the npm Updates: How Version Control Rescued My npm Upgrade Nightmare](https://dev.to/pokumars/icarus-and-the-npm-updates-how-version-control-rescued-my-npm-upgrade-nightmare-4a5p)
+- [Como criar Imagens? &lpar;Dockerfile&rpar;](https://dev.to/yuripeixinho/como-criar-imagens-dockerfile-335b)
+- [Progressive Web Apps &lpar;PWAs&rpar;: A Technology That Brings Websites Closer to Native Mobile Apps](https://dev.to/bkthemes/progressive-web-apps-pwas-a-technology-that-brings-websites-closer-to-native-mobile-apps-1c1c)
+- [The role of Developers in sustainable IT](https://dev.to/swetha_suresh_18c9975c236/the-role-of-developers-in-sustainable-it-43j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
