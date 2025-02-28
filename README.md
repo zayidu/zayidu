@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Router v7: A Comprehensive Guide &amp; Migration from v6](https://dev.to/utkvishwas/react-router-v7-a-comprehensive-guide-migration-from-v6-7d1)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/friendgrass7/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5a3n)
-- [The DevRel Digest February 2025: DevRel You Should Know for 2025](https://dev.to/lizzzzz/the-devrel-digest-february-2025-devrel-you-should-know-for-2025-4753)
-- [RJ Filmes](https://dev.to/filmes_rj_d277b5ea73e881e/rj-filmes-3d66)
-- [CORS, Preflight Requests, and Common Cross-Origin Issues](https://dev.to/thesanjeevsharma/cors-preflight-requests-and-common-cross-origin-issues-129n)
+- [Managing Multiple Git Profiles with Ease: Introducing `gguser`](https://dev.to/camelcaseguy/managing-multiple-git-profiles-with-ease-introducing-gguser-3lcg)
+- [How AI-Powered Code Review Can Save Your Development Team Hours](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-powered-code-review-can-save-your-development-team-hours-2n03)
+- [DeepSeek - Recap](https://dev.to/bensantora/deepseek-recap-4m6h)
+- [Subroutines: Interview Problem Survey](https://dev.to/mehran_ghamaty/subroutines-interview-problem-survey-386g)
+- [How to build a secure project management platform with Next.js, Clerk, and Neon](https://dev.to/clerk/how-to-build-a-secure-project-management-platform-with-nextjs-clerk-and-neon-j4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
