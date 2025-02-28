@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [L2](https://dev.to/gchar/l2-295i)
-- [LitFlip: A SaaS Platform for Immersive Reading Built with Next.js and Django](https://dev.to/ahmed_makki/litflip-a-saas-platform-for-immersive-reading-built-with-nextjs-and-django-3lj8)
-- [L](https://dev.to/gchar/l-1jj5)
-- [🔒 Securing the Cloud: My AWS Security Learning Journey 🚀](https://dev.to/bemmanvip/securing-the-cloud-my-aws-security-learning-journey-3hd2)
-- [Install OpenProject with SSL and Enterprice token enabled](https://dev.to/vuong_le_65c269e8f8661fca/install-openproject-with-ssl-and-enterprice-token-enabled-27fc)
+- [7 Must-Try VS Code Extensions You Can’t Afford to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/7-must-try-vs-code-extensions-you-cant-afford-to-miss-in-2025-49d6)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nc7)
+- [Getting Started with Terraform: Understanding Workspaces and Conditionals &lpar;Part 4&rpar; 🚀](https://dev.to/techwithhari/getting-started-with-terraform-understanding-workspaces-and-conditionals-part-4-7n6)
+- [Enterprise Software Shouldn’t Suck — Here’s How We’re Fixing It](https://dev.to/lonti-davidb/enterprise-software-shouldnt-suck-heres-how-were-fixing-it-50mn)
+- [Navigating the Code Jungle: Strategies to Tame Complexity and Boost Productivity](https://dev.to/pratham_naik_project_manager/navigating-the-code-jungle-strategies-to-tame-complexity-and-boost-productivity-4o54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
