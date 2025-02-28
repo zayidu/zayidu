@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned from Head First Java: Variable Casting](https://dev.to/mitchiemt11/what-i-learned-from-head-first-java-variable-casting-1ii7)
-- [Open source vector databases](https://dev.to/e77/open-source-vector-databases-228)
-- [Build a JavaScript Analytics System: Step-by-Step Implementation Guide](https://dev.to/aaravjoshi/build-a-javascript-analytics-system-step-by-step-implementation-guide-p5l)
-- [🚨 Bybit Hack: A Wake-Up Call for Crypto Traders! 🚨](https://dev.to/cryptosandy/bybit-hack-a-wake-up-call-for-crypto-traders-5g53)
-- [6 Essential JavaScript Image Optimization Techniques for Better Web Performance](https://dev.to/aaravjoshi/6-essential-javascript-image-optimization-techniques-for-better-web-performance-4bgd)
+- [Case Study: Developing a Robust E-commerce Platform with PHP](https://dev.to/ezeelive/case-study-developing-a-robust-e-commerce-platform-with-php-3ehf)
+- [TypeScript &#39;Satisfies&#39; Operator: Complete Guide with Examples](https://dev.to/hsmall/typescript-satisfies-operator-complete-guide-with-examples-3fm9)
+- [How to Use Axios for Fetching Data in Frontend Applications](https://dev.to/rowsanali/how-to-use-axios-for-fetching-data-in-frontend-applications-4ofo)
+- [Mastering Large Project Organization in Rust](https://dev.to/leapcell/mastering-large-project-organization-in-rust-n11)
+- [Laravel 12 and Vue 3 Ultimate Starter Guide](https://dev.to/robin-ivi/laravel-12-and-vue-3-ultimate-starter-guide-3bmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
