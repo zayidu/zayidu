@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Laravel With Headless CMS: A Step-by-Step Guide](https://dev.to/dhruvil_joshi14/how-to-integrate-laravel-with-headless-cms-a-step-by-step-guide-2l6)
-- [Embracing the Future with Technology](https://dev.to/adonaitechnologies/embracing-the-future-with-technology-16n2)
-- [AI System Detects Medical Research Fraud with 91% Accuracy and Clear Explanations](https://dev.to/mikeyoung44/ai-system-detects-medical-research-fraud-with-91-accuracy-and-clear-explanations-43pn)
-- [Smart AI Training Method Cuts Language Model Training Time by 25% While Maintaining Performance](https://dev.to/mikeyoung44/smart-ai-training-method-cuts-language-model-training-time-by-25-while-maintaining-performance-4ah3)
-- [How to create VS Code Extension #3 &lpar;Syntax Highlight&rpar;](https://dev.to/selfish_dev/how-to-create-vs-code-extension-3-syntax-highlight-nj2)
+- [What I Learned from Head First Java: Variable Casting](https://dev.to/mitchiemt11/what-i-learned-from-head-first-java-variable-casting-1ii7)
+- [Open source vector databases](https://dev.to/e77/open-source-vector-databases-228)
+- [Build a JavaScript Analytics System: Step-by-Step Implementation Guide](https://dev.to/aaravjoshi/build-a-javascript-analytics-system-step-by-step-implementation-guide-p5l)
+- [🚨 Bybit Hack: A Wake-Up Call for Crypto Traders! 🚨](https://dev.to/cryptosandy/bybit-hack-a-wake-up-call-for-crypto-traders-5g53)
+- [6 Essential JavaScript Image Optimization Techniques for Better Web Performance](https://dev.to/aaravjoshi/6-essential-javascript-image-optimization-techniques-for-better-web-performance-4bgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
