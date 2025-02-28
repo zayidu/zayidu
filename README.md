@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Process IoT Sensor Data with Windowed Aggregations and ML Inference](https://dev.to/sudoconsultants/how-to-process-iot-sensor-data-with-windowed-aggregations-and-ml-inference-45im)
-- [Bootstrap Your Web Server on AWS: A Deep Dive into EC2 User Data](https://dev.to/lindiwe09/bootstrap-your-web-server-on-aws-a-deep-dive-into-ec2-user-data-2mp3)
-- [[Boost]](https://dev.to/ifihan/-2b1c)
-- [Redshift Serverless: Cost Optimization with Workload Management &lpar;WLM&rpar;](https://dev.to/sudoconsultants/redshift-serverless-cost-optimization-with-workload-management-wlm-27)
-- [Few-Shot Learning for Gemini on Vertex AI](https://dev.to/ifihan/few-shot-learning-for-gemini-on-vertex-ai-13nj)
+- [new web framework](https://dev.to/m__mdy__m/new-web-framework-42f5)
+- [How To Fine-tune a Large Language Model &lpar;LLM&rpar; Using Model Parallelism](https://dev.to/sudoconsultants/how-to-fine-tune-a-large-language-model-llm-using-model-parallelism-55h2)
+- [Security news weekly round-up - 28th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-february-2025-56k7)
+- [Gestión del Ciclo de Vida de Activos &lpar;ALM&rpar;: Cómo Maximizar la Eficiencia y el Valor de los Activos Industriales](https://dev.to/easymaint_software_7375bc/gestion-del-ciclo-de-vida-de-activos-alm-como-maximizar-la-eficiencia-y-el-valor-de-los-activos-3fla)
+- [How To Remediate Non-Compliant S3 Buckets/RDS Instances Using Lambda and SSM](https://dev.to/sudoconsultants/how-to-remediate-non-compliant-s3-bucketsrds-instances-using-lambda-and-ssm-440p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
