@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Developing a Robust E-commerce Platform with PHP](https://dev.to/ezeelive/case-study-developing-a-robust-e-commerce-platform-with-php-3ehf)
-- [TypeScript &#39;Satisfies&#39; Operator: Complete Guide with Examples](https://dev.to/hsmall/typescript-satisfies-operator-complete-guide-with-examples-3fm9)
-- [How to Use Axios for Fetching Data in Frontend Applications](https://dev.to/rowsanali/how-to-use-axios-for-fetching-data-in-frontend-applications-4ofo)
-- [Mastering Large Project Organization in Rust](https://dev.to/leapcell/mastering-large-project-organization-in-rust-n11)
-- [Laravel 12 and Vue 3 Ultimate Starter Guide](https://dev.to/robin-ivi/laravel-12-and-vue-3-ultimate-starter-guide-3bmd)
+- [Redoed #2: Containerizing the Go Server and PostgreSQL with Docker](https://dev.to/mahesh143/redoed-2-containerizing-the-go-server-and-postgresql-with-docker-efl)
+- [What&#39;s New in React Native 0.78: Performance, Native Integration, and React 19 Support 🚀](https://dev.to/babar_bilal_2e14c231dfa8d/whats-new-in-react-native-078-performance-native-integration-and-react-19-support-131k)
+- [O Poder da Arquitetura Orientada a Eventos](https://dev.to/edu_betim/o-poder-da-arquitetura-orientada-a-eventos-fg0)
+- [MVC Architecture](https://dev.to/akshay_chauhan/mvc-architecture-5hf4)
+- [Mastering Go Web Servers: From Zero to Hero](https://dev.to/leapcell/mastering-go-web-servers-from-zero-to-hero-58i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
