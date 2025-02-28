@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redoed #2: Containerizing the Go Server and PostgreSQL with Docker](https://dev.to/mahesh143/redoed-2-containerizing-the-go-server-and-postgresql-with-docker-efl)
-- [What&#39;s New in React Native 0.78: Performance, Native Integration, and React 19 Support 🚀](https://dev.to/babar_bilal_2e14c231dfa8d/whats-new-in-react-native-078-performance-native-integration-and-react-19-support-131k)
-- [O Poder da Arquitetura Orientada a Eventos](https://dev.to/edu_betim/o-poder-da-arquitetura-orientada-a-eventos-fg0)
-- [MVC Architecture](https://dev.to/akshay_chauhan/mvc-architecture-5hf4)
-- [Mastering Go Web Servers: From Zero to Hero](https://dev.to/leapcell/mastering-go-web-servers-from-zero-to-hero-58i3)
+- [The Future of Software Deployment – Why Every Developer Should Learn It](https://dev.to/hello_monir/the-future-of-software-deployment-why-every-developer-should-learn-it-52m)
+- [A simple webpack setup with Bootstrap and VueJS](https://dev.to/davidisnotnull/a-simple-webpack-setup-with-bootstrap-and-vuejs-59lp)
+- [Bucket 2025-02 Update — Event log, Secret features &amp; Beta Remote Config](https://dev.to/bucketdotco/bucket-2025-02-update-event-log-secret-features-beta-remote-config-1og9)
+- [Emulators in Gaming: Threats and Detections](https://dev.to/yurii_denchyk_bb561af8d2d/emulators-in-gaming-threats-and-detections-53gg)
+- [This Week In React #223: TanStack, React Router, React-Scan, Bun, Next.js, INP, Storybook | State of RN, CSS, Observables...](https://dev.to/sebastienlorber/this-week-in-react-223-tanstack-react-router-react-scan-bun-nextjs-inp-storybook-state-2d93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
