@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [BL-SOC01 - Jump Into SOC](https://dev.to/trumpiter/bl-soc01-jump-into-soc-j57)
+- [Why Do Developers Struggle with Low-Code? &lpar;6 Tools That Actually Help&rpar;](https://dev.to/nocobase/why-do-developers-struggle-with-low-code-6-tools-that-actually-help-41c4)
+- [Passo a passo para escolher a arquitetura ideal](https://dev.to/yuripeixinho/passo-a-passo-para-escolher-a-arquitetura-ideal-595m)
+- [Building a Physically Accurate Black Hole Visualization with Python, CUDA, and OpenGL](https://dev.to/ericsonwillians/building-a-physically-accurate-black-hole-visualization-with-python-cuda-and-opengl-gnb)
 - [Leveraging Generative AI with DevSecOps for Enhanced Security](https://dev.to/snyk/leveraging-generative-ai-with-devsecops-for-enhanced-security-19of)
-- [[Boost]](https://dev.to/bigya/-1d4p)
-- [👨‍💻 How I build my personal assistant!](https://dev.to/mrzaizai2k/how-i-build-my-personal-assistant-4j8b)
-- [Managed Instance vs. Serverless Architecture: A Detailed Comparison](https://dev.to/devcorner/managed-instance-vs-serverless-architecture-a-detailed-comparison-jih)
-- [Load Balancer 101: A Practical Guide in case your app goes viral overnight 🧿](https://dev.to/bigya/load-balancer-101-taming-the-traffic-tsunami-a-practical-guide-2k1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
