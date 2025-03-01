@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitter organisation landscape](https://dev.to/grzegorzgrzegorz/bitter-organisation-landscape-1f7h)
-- [ATM Card Using CSS](https://dev.to/preetha_vaishnavi_2b82358/atm-card-using-css-293j)
-- [Exploring the Ethereum Blockchain: A Deep Dive into Decentralized Innovation](https://dev.to/adi271001/exploring-the-ethereum-blockchain-a-deep-dive-into-decentralized-innovation-4g4h)
-- [Why Learning to Code Doesn’t Have to Take Years &lpar;And How to Start Today&rpar;](https://dev.to/bhavishya_aggarwal_2651e7/why-learning-to-code-doesnt-have-to-take-years-and-how-to-start-today-4fb6)
-- [How to get response in JSON from Gemini API](https://dev.to/heyakhil/how-to-get-response-in-json-from-gemini-api-46gf)
+- [A Friendly Step-by-Step Tutorial on the Vanishing Gradient Problem](https://dev.to/shrsv/a-friendly-step-by-step-tutorial-on-the-vanishing-gradient-problem-5aj0)
+- [Pagination vs. Infinite Scrolling: What&#39;s Best for Your Website?](https://dev.to/vedangit/pagination-vs-infinite-scrolling-whats-best-for-your-website-453d)
+- [30+ String Manipulation Techniques in JavaScript](https://dev.to/jisan/30-string-manipulation-techniques-in-javascript-1pn2)
+- [JSON Response in Node.js: Sending Data Like a Pro 🚀](https://dev.to/sovannaro/json-response-in-nodejs-sending-data-like-a-pro-ikj)
+- [The Ultimate Guide to Free Illustrations &amp; Graphics Libraries for Web Projects &lpar;2025 Edition&rpar; 🚀](https://dev.to/ananiket/the-ultimate-guide-to-free-illustrations-graphics-libraries-for-web-projects-2025-edition-2b3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
