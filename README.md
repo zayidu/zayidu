@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Potential: Innovative Open Source Web Development Projects to Explore in 2025](https://dev.to/jetthoughts/unlocking-potential-innovative-open-source-web-development-projects-to-explore-in-2025-mm2)
-- [AMD Unveils Next-Generation AMD RDNA™ 4 Architecture with the Launch of AMD Radeon™ RX 9000 Series Graphics Cards](https://dev.to/oreki04/amd-unveils-next-generation-amd-rdna-4-architecture-with-the-launch-of-amd-radeon-rx-9000-series-25pj)
-- [AWS S3 Service Cheat Sheet](https://dev.to/rahul_singh_c6a703cc3bb48/aws-s3-service-cheat-sheet-1b2h)
-- [How to Create Virtual Serial Ports on Ubuntu Using PuTTY and socat](https://dev.to/udara_dananjaya/how-to-create-virtual-serial-ports-on-ubuntu-using-putty-and-socat-37po)
-- [Java Records Ultimate Guide: How to Write Clean, Immutable Data Classes &lpar;2024&rpar;](https://dev.to/aaravjoshi/java-records-ultimate-guide-how-to-write-clean-immutable-data-classes-2024-1ped)
+- [Bitter organisation landscape](https://dev.to/grzegorzgrzegorz/bitter-organisation-landscape-1f7h)
+- [ATM Card Using CSS](https://dev.to/preetha_vaishnavi_2b82358/atm-card-using-css-293j)
+- [Exploring the Ethereum Blockchain: A Deep Dive into Decentralized Innovation](https://dev.to/adi271001/exploring-the-ethereum-blockchain-a-deep-dive-into-decentralized-innovation-4g4h)
+- [Why Learning to Code Doesn’t Have to Take Years &lpar;And How to Start Today&rpar;](https://dev.to/bhavishya_aggarwal_2651e7/why-learning-to-code-doesnt-have-to-take-years-and-how-to-start-today-4fb6)
+- [How to get response in JSON from Gemini API](https://dev.to/heyakhil/how-to-get-response-in-json-from-gemini-api-46gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
