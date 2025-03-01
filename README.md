@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Friendly Step-by-Step Tutorial on the Vanishing Gradient Problem](https://dev.to/shrsv/a-friendly-step-by-step-tutorial-on-the-vanishing-gradient-problem-5aj0)
-- [Pagination vs. Infinite Scrolling: What&#39;s Best for Your Website?](https://dev.to/vedangit/pagination-vs-infinite-scrolling-whats-best-for-your-website-453d)
-- [30+ String Manipulation Techniques in JavaScript](https://dev.to/jisan/30-string-manipulation-techniques-in-javascript-1pn2)
-- [JSON Response in Node.js: Sending Data Like a Pro 🚀](https://dev.to/sovannaro/json-response-in-nodejs-sending-data-like-a-pro-ikj)
-- [The Ultimate Guide to Free Illustrations &amp; Graphics Libraries for Web Projects &lpar;2025 Edition&rpar; 🚀](https://dev.to/ananiket/the-ultimate-guide-to-free-illustrations-graphics-libraries-for-web-projects-2025-edition-2b3j)
+- [Boosting Node.js Throughput with setImmediate](https://dev.to/rajajaganathan/boosting-nodejs-throughput-with-setimmediate-9ba)
+- [Deep Dive: xml-trueformat – Preserve XML Formatting with Ease](https://dev.to/danielsc/deep-dive-xml-trueformat-preserve-xml-formatting-with-ease-46f5)
+- [Introducing Trace.js – A Lightweight jQuery based Text Highlighter Plugin](https://dev.to/connectamitsahoo/introducing-tracejs-a-lightweight-jquery-based-text-highlighter-plugin-46ec)
+- [Dev.to Posts I Found Helpful 🔥](https://dev.to/hanzla-baig/devto-posts-i-found-helpful-4f7h)
+- [My Django Training](https://dev.to/prg_mtfj/my-django-training-3m5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
