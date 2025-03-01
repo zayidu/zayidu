@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RxJS Beyond Basics: Writing Your Own Operators](https://dev.to/artstesh/rxjs-beyond-basics-writing-your-own-operators-1h4b)
-- [🚀 20 Frontend Techniques to Skyrocket Your Productivity in 2025 🚀](https://dev.to/er-raj-aryan/20-frontend-techniques-to-skyrocket-your-productivity-in-2023-30ei)
-- [Import and Export Patterns in Node.js: Mastering Modules 🚀](https://dev.to/sovannaro/import-and-export-patterns-in-nodejs-mastering-modules-4lal)
-- [Will AI Take Your Job](https://dev.to/abdelaziz_moustakim_45a4c/will-ai-take-your-job-1khb)
-- [CLARIFYING FINANCIAL TECH JARGON:BEGINNER&#39;S GUIDE.](https://dev.to/kayode_david_0f763081697c/clarifying-financial-tech-jargonbeginners-guide-50pf)
+- [Angular Tips #3](https://dev.to/khoanguyen1411/angular-tips-3-54dm)
+- [Patient Identity and Access Management Using AWS Cognito](https://dev.to/ikoh_sylva/patient-identity-and-access-management-using-aws-cognito-3fjf)
+- [Comprehensive Guide to Load Balancing Algorithms, Caching Strategies, and Cache Eviction Policies](https://dev.to/devcorner/comprehensive-guide-to-load-balancing-algorithms-caching-strategies-and-cache-eviction-policies-1jpg)
+- [Angular Tips #2](https://dev.to/khoanguyen1411/angular-tips-2-5920)
+- [🌊Layout thrashing: what is it and how to eliminate it](https://dev.to/aayla_secura/layout-thrashing-what-is-it-and-how-to-eliminate-it-n2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
