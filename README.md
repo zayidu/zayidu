@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React State: The Brain of Your Components! 🧠](https://dev.to/aman_kureshi_/react-state-the-brain-of-your-components-2hmn)
-- [Laravel vs. Flight: A Guide to Picking Your PHP Framework](https://dev.to/n0nag0n/laravel-vs-flight-a-guide-to-picking-your-php-framework-41g5)
-- [CALLING ALL CHROME OS JAILBREAKERS!!!](https://dev.to/pricklypear-who-codes/calling-all-chrome-os-jailbreakers-39l7)
-- [Chain of Draft: Thinking Faster by Writing Less](https://dev.to/foxgem/chain-of-draft-thinking-faster-by-writing-less-54j6)
-- [How I prepared for AWS DevOps Professional exam + Raw Notes](https://dev.to/jakejappar/how-i-prepared-for-aws-devops-professional-exam-raw-notes-1h95)
+- [Innovate Workforce Training with AI-Driven L&amp;D Solutions](https://dev.to/neural-minds/innovate-workforce-training-with-ai-driven-ld-solutions-1po2)
+- [How Co-Working Spaces are Reviving Tech Communities](https://dev.to/kakacomputer-media/how-co-working-spaces-are-reviving-tech-communities-1mo1)
+- [Best Philippine Cities for IT Jobs &lpar;2025&rpar;](https://dev.to/kakacomputer-media/best-philippine-cities-for-it-jobs-2025-29f6)
+- [Best IT Companies for Career Growth &lpar;UnRanked&rpar;](https://dev.to/kakacomputer-media/best-it-companies-for-career-growth-unranked-3p00)
+- [How to Get Hired in Tech &lpar;Job Hunting Strategies for IT Market&rpar;](https://dev.to/kakacomputer-media/how-to-get-hired-in-tech-job-hunting-strategies-for-it-market-335l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
