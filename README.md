@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Best Free Tools for Frontend Developers in 2025](https://dev.to/rowsanali/30-best-free-tools-for-frontend-developers-in-2025-1gdm)
-- [How to Host a Static Website on Azure Storage](https://dev.to/kristarking/how-to-host-a-static-website-on-azure-storage-e2m)
-- [Microsoft to Shutdown Skype in May 2025: What It Means for Users and the Future of Communication](https://dev.to/gajanan0707/microsoft-to-shutdown-skype-in-may-2025-what-it-means-for-users-and-the-future-of-communication-286j)
-- [My First Story](https://dev.to/thomas_koszoru/my-first-story-2hk4)
-- [CI/CD Pipeline for Amazon EC2](https://dev.to/aws-builders/cicd-pipeline-for-amazon-ec2-lo9)
+- [Is Flutter really a App Development Framework?](https://dev.to/ajaythewizard/is-flutter-really-a-app-development-framework-3o6h)
+- [How Artificial Intelligence is Revolutionizing Front-End Development](https://dev.to/mitu_mariam/how-artificial-intelligence-is-revolutionizing-front-end-development-5ok)
+- [⚙️ Event Loop in Node.js: How It Works and Why It Matters](https://dev.to/artem_turlenko/event-loop-in-nodejs-how-it-works-and-why-it-matters-3bnf)
+- [[Boost]](https://dev.to/jeansweden/-65h)
+- [Poll on AI Code generation: do you prefer more accuracy or easier to debug code?](https://dev.to/fm/poll-on-ai-code-generation-do-you-prefer-more-accuracy-or-easier-to-debug-code-5fjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
