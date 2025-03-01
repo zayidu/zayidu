@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Innovate Workforce Training with AI-Driven L&amp;D Solutions](https://dev.to/neural-minds/innovate-workforce-training-with-ai-driven-ld-solutions-1po2)
-- [How Co-Working Spaces are Reviving Tech Communities](https://dev.to/kakacomputer-media/how-co-working-spaces-are-reviving-tech-communities-1mo1)
-- [Best Philippine Cities for IT Jobs &lpar;2025&rpar;](https://dev.to/kakacomputer-media/best-philippine-cities-for-it-jobs-2025-29f6)
-- [Best IT Companies for Career Growth &lpar;UnRanked&rpar;](https://dev.to/kakacomputer-media/best-it-companies-for-career-growth-unranked-3p00)
-- [How to Get Hired in Tech &lpar;Job Hunting Strategies for IT Market&rpar;](https://dev.to/kakacomputer-media/how-to-get-hired-in-tech-job-hunting-strategies-for-it-market-335l)
+- [Building an Application as a Beta User of the Low-Code Solution &#39;AWS App Studio&#39;: Cons &lpar;Part 2 of 2&rpar;](https://dev.to/aws-heroes/building-an-application-as-a-beta-user-of-the-low-code-solution-aws-app-studio-cons-part-2-of-2-4ipb)
+- [How I Passed the AZ-900 Exam: My Study Plan, Resources &amp; Tips](https://dev.to/jeshlin_pv_1628a63168e90/how-i-passed-the-az-900-exam-my-study-plan-resources-tips-2cam)
+- [Running Private Adguard Server on Cloud &lpar;Linode&rpar;](https://dev.to/prajwol-ad/running-private-adguard-server-on-cloud-linode-18ef)
+- [How to Write SEO Meta Descriptions Without Losing Your Sanity](https://dev.to/cbid2/how-to-write-seo-meta-descriptions-without-losing-your-sanity-437c)
+- [Understanding Function.length, Function.name, Polymorphism, and NFE in JavaScript](https://dev.to/ayako_yk/understanding-functionlength-functionname-polymorphism-and-nfe-in-javascript-a3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
