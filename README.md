@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [10 CSS Tricks Every Frontend Developer Should Know](https://dev.to/rowsanali/10-css-tricks-every-frontend-developer-should-know-4cj4)
 - [Angular Tips #3](https://dev.to/khoanguyen1411/angular-tips-3-54dm)
 - [Patient Identity and Access Management Using AWS Cognito](https://dev.to/ikoh_sylva/patient-identity-and-access-management-using-aws-cognito-3fjf)
 - [Comprehensive Guide to Load Balancing Algorithms, Caching Strategies, and Cache Eviction Policies](https://dev.to/devcorner/comprehensive-guide-to-load-balancing-algorithms-caching-strategies-and-cache-eviction-policies-1jpg)
 - [Angular Tips #2](https://dev.to/khoanguyen1411/angular-tips-2-5920)
-- [🌊Layout thrashing: what is it and how to eliminate it](https://dev.to/aayla_secura/layout-thrashing-what-is-it-and-how-to-eliminate-it-n2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
