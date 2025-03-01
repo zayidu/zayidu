@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing a Prankster Robot: Linux Security Strategies to Prevent Rogue AI](https://dev.to/sebos/securing-a-prankster-robot-linux-security-strategies-to-prevent-rogue-ai-279o)
-- [Consistent Hashing: A boon to distributed system](https://dev.to/cdx/consistent-hashing-a-boon-to-distributed-system-gi9)
-- [React 19 Hooks Explained: Everything You Need to Know](https://dev.to/vishnusatheesh/react-19-hooks-explained-everything-you-need-to-know-4il6)
-- [Adding Tailwind v4 to Docusaurus v3](https://dev.to/michalwrzosek/adding-tailwind-v4-to-docusaurus-v3-3poa)
-- [Stablecoins 2.0: The Future of Payments](https://dev.to/jetthoughts/stablecoins-20-the-future-of-payments-4oi1)
+- [Claude 3.7 Sonnet Thinking vs. Deepseek r1: Complete Analysis](https://dev.to/composiodev/claude-37-sonnet-thinking-vs-deepseek-r1-complete-analysis-22p3)
+- [Symfony Station Communiqué — 21 February 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-21-february-2025-a-look-at-symfony-drupal-php-and-other-1mif)
+- [Top Lessons Learned from Debugging Complex .NET Applications: Tools, Techniques, and Best Practices](https://dev.to/leandroveiga/top-lessons-learned-from-debugging-complex-net-applications-tools-techniques-and-best-practices-4pfc)
+- [RESTful API](https://dev.to/dvphuc_175/restful-api-39kg)
+- [Copy &amp; Clone Traits in Rust: Can You Tell the Difference?](https://dev.to/leapcell/copy-clone-traits-in-rust-can-you-tell-the-difference-400i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
