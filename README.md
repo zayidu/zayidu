@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make AI Models Your Perfect Roommate! &lpar;ServBay+Ollama+ChatBox&rpar;](https://dev.to/neil27/make-ai-models-your-perfect-roommate-servbayollamachatbox-2ond)
-- [SEO for Beginners: A Simple Step-by-Step Guide to Get Started in 2025](https://dev.to/idgodcx/seo-for-beginners-a-simple-step-by-step-guide-to-get-started-in-2025-249p)
-- [Databases: How Data is Stored on Disk](https://dev.to/nikita_kutsokon/databases-how-data-is-stored-on-disk-22k8)
-- [Unlocking computer vision with openCv](https://dev.to/rhoda_mingotamanjong_ab9/unlocking-computer-vision-with-opencv-1dn4)
-- [What You Need To Know About JavaScript V8 Engine](https://dev.to/otienorabin/what-you-need-to-know-about-javascript-v8-engine-2nem)
+- [Securing a Prankster Robot: Linux Security Strategies to Prevent Rogue AI](https://dev.to/sebos/securing-a-prankster-robot-linux-security-strategies-to-prevent-rogue-ai-279o)
+- [Consistent Hashing: A boon to distributed system](https://dev.to/cdx/consistent-hashing-a-boon-to-distributed-system-gi9)
+- [React 19 Hooks Explained: Everything You Need to Know](https://dev.to/vishnusatheesh/react-19-hooks-explained-everything-you-need-to-know-4il6)
+- [Adding Tailwind v4 to Docusaurus v3](https://dev.to/michalwrzosek/adding-tailwind-v4-to-docusaurus-v3-3poa)
+- [Stablecoins 2.0: The Future of Payments](https://dev.to/jetthoughts/stablecoins-20-the-future-of-payments-4oi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
