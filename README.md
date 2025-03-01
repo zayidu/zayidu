@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code &lpar;IaC&rpar;: Why It’s a Game Changer in DevOps](https://dev.to/yash_sonawane25/infrastructure-as-code-iac-why-its-a-game-changer-in-devops-1e1p)
-- [Is Your Website Stuck in the Past? Here’s What You Might Be Missing in 2025!](https://dev.to/dct_technologyprivatelimited/is-your-website-stuck-in-the-past-heres-what-you-might-be-missing-in-2025-4dh6)
-- [Interactive Shell Virtual Desktop](https://dev.to/interactiveshell/interactive-shell-virtual-desktop-46ke)
-- [Top 200 Important Pointers about AWS EMR Service](https://dev.to/rahul_singh_c6a703cc3bb48/top-200-important-pointers-about-aws-emr-service-2e5n)
-- [Stop One-By-One Inserts! Bulk Insert Data In Rails With insert_all Or activerecord-import ⚡](https://dev.to/anhhatesjava/stop-one-by-one-inserts-bulk-insert-data-in-rails-with-insertall-or-activerecord-import-335o)
+- [The Best Productivity Tools for Remote Workers in 2025: Work Smarter, Anywhere](https://dev.to/stan8086/the-best-productivity-tools-for-remote-workers-in-2025-work-smarter-anywhere-4k1h)
+- [Are You Bored of Try Catch😒](https://dev.to/nurulislamrimon/are-you-bored-of-try-catch-255p)
+- [How to Use AI to Generate Stunning Website Designs Automatically](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-to-generate-stunning-website-designs-automatically-1b2e)
+- [ServBay 1.10.0 Update: Support Python](https://dev.to/servbay/servbay-1100-update-support-python-31o8)
+- [Handling Custom Errors in Node.js with a Custom ApiError Class](https://dev.to/nurulislamrimon/handling-custom-errors-in-nodejs-with-a-custom-apierror-class-a1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
