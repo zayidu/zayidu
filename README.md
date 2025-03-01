@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 The Future is Here: A Glimpse into How Technology Will Transform Our Lives](https://dev.to/hanzla-baig/the-future-is-here-a-glimpse-into-how-technology-will-transform-our-lives-2j3j)
-- [Koin vs Dagger 2 vs Hilt: Which one should we use? ☕](https://dev.to/mikkelofficial7/koin-vs-dagger-2-vs-hilt-which-one-should-we-use-1e0n)
-- [Untitled](https://dev.to/amiraliol/untitled-32pb)
-- [Welcome to the Future: Where Even Your Fridge Judges You!](https://dev.to/snehal_kothawade_sk/welcome-to-the-future-where-even-your-fridge-judges-you-2e33)
-- [Flask Apps from the Future: Unleash Semantic Search and RAG in 10 Minutes or Less](https://dev.to/level09/flask-apps-from-the-future-unleash-semantic-search-and-rag-in-10-minutes-or-less-4n61)
+- [Unlocking Potential: Innovative Open Source Web Development Projects to Explore in 2025](https://dev.to/jetthoughts/unlocking-potential-innovative-open-source-web-development-projects-to-explore-in-2025-mm2)
+- [AMD Unveils Next-Generation AMD RDNA™ 4 Architecture with the Launch of AMD Radeon™ RX 9000 Series Graphics Cards](https://dev.to/oreki04/amd-unveils-next-generation-amd-rdna-4-architecture-with-the-launch-of-amd-radeon-rx-9000-series-25pj)
+- [AWS S3 Service Cheat Sheet](https://dev.to/rahul_singh_c6a703cc3bb48/aws-s3-service-cheat-sheet-1b2h)
+- [How to Create Virtual Serial Ports on Ubuntu Using PuTTY and socat](https://dev.to/udara_dananjaya/how-to-create-virtual-serial-ports-on-ubuntu-using-putty-and-socat-37po)
+- [Java Records Ultimate Guide: How to Write Clean, Immutable Data Classes &lpar;2024&rpar;](https://dev.to/aaravjoshi/java-records-ultimate-guide-how-to-write-clean-immutable-data-classes-2024-1ped)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
