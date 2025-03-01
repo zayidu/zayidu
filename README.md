@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Git] How to Temporarily Save Changes with `git stash` While Switching Branches](https://dev.to/kitco/git-how-to-temporarily-save-changes-with-git-stash-while-switching-branches-50ej)
-- [GetOutline: The Ultimate Document Management Tool for Teams](https://dev.to/namnguyenthanhwork/getoutline-the-ultimate-document-management-tool-for-teams-4nmk)
-- [Understanding Dependency Injection in Depth in .Net Core](https://dev.to/letsupdateskills/understanding-dependency-injection-in-depth-in-net-core-37nf)
-- [Ramadan Kareem guys!!](https://dev.to/shafayeat/ramadan-kareem-guys-2bom)
-- [Front end or back end](https://dev.to/adam_mohamed/front-end-or-back-end-fm8)
+- [🌟 The Future is Here: A Glimpse into How Technology Will Transform Our Lives](https://dev.to/hanzla-baig/the-future-is-here-a-glimpse-into-how-technology-will-transform-our-lives-2j3j)
+- [Koin vs Dagger 2 vs Hilt: Which one should we use? ☕](https://dev.to/mikkelofficial7/koin-vs-dagger-2-vs-hilt-which-one-should-we-use-1e0n)
+- [Untitled](https://dev.to/amiraliol/untitled-32pb)
+- [Welcome to the Future: Where Even Your Fridge Judges You!](https://dev.to/snehal_kothawade_sk/welcome-to-the-future-where-even-your-fridge-judges-you-2e33)
+- [Flask Apps from the Future: Unleash Semantic Search and RAG in 10 Minutes or Less](https://dev.to/level09/flask-apps-from-the-future-unleash-semantic-search-and-rag-in-10-minutes-or-less-4n61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
