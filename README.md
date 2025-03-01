@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Productivity Tools for Remote Workers in 2025: Work Smarter, Anywhere](https://dev.to/stan8086/the-best-productivity-tools-for-remote-workers-in-2025-work-smarter-anywhere-4k1h)
-- [Are You Bored of Try Catch😒](https://dev.to/nurulislamrimon/are-you-bored-of-try-catch-255p)
-- [How to Use AI to Generate Stunning Website Designs Automatically](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-to-generate-stunning-website-designs-automatically-1b2e)
-- [ServBay 1.10.0 Update: Support Python](https://dev.to/servbay/servbay-1100-update-support-python-31o8)
-- [Handling Custom Errors in Node.js with a Custom ApiError Class](https://dev.to/nurulislamrimon/handling-custom-errors-in-nodejs-with-a-custom-apierror-class-a1d)
+- [30 Best Free Tools for Frontend Developers in 2025](https://dev.to/rowsanali/30-best-free-tools-for-frontend-developers-in-2025-1gdm)
+- [How to Host a Static Website on Azure Storage](https://dev.to/kristarking/how-to-host-a-static-website-on-azure-storage-e2m)
+- [Microsoft to Shutdown Skype in May 2025: What It Means for Users and the Future of Communication](https://dev.to/gajanan0707/microsoft-to-shutdown-skype-in-may-2025-what-it-means-for-users-and-the-future-of-communication-286j)
+- [My First Story](https://dev.to/thomas_koszoru/my-first-story-2hk4)
+- [CI/CD Pipeline for Amazon EC2](https://dev.to/aws-builders/cicd-pipeline-for-amazon-ec2-lo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
