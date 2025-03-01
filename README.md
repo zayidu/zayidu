@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Node.js Throughput with setImmediate](https://dev.to/rajajaganathan/boosting-nodejs-throughput-with-setimmediate-9ba)
-- [Deep Dive: xml-trueformat – Preserve XML Formatting with Ease](https://dev.to/danielsc/deep-dive-xml-trueformat-preserve-xml-formatting-with-ease-46f5)
-- [Introducing Trace.js – A Lightweight jQuery based Text Highlighter Plugin](https://dev.to/connectamitsahoo/introducing-tracejs-a-lightweight-jquery-based-text-highlighter-plugin-46ec)
-- [Dev.to Posts I Found Helpful 🔥](https://dev.to/hanzla-baig/devto-posts-i-found-helpful-4f7h)
-- [My Django Training](https://dev.to/prg_mtfj/my-django-training-3m5f)
+- [Make AI Models Your Perfect Roommate! &lpar;ServBay+Ollama+ChatBox&rpar;](https://dev.to/neil27/make-ai-models-your-perfect-roommate-servbayollamachatbox-2ond)
+- [SEO for Beginners: A Simple Step-by-Step Guide to Get Started in 2025](https://dev.to/idgodcx/seo-for-beginners-a-simple-step-by-step-guide-to-get-started-in-2025-249p)
+- [Databases: How Data is Stored on Disk](https://dev.to/nikita_kutsokon/databases-how-data-is-stored-on-disk-22k8)
+- [Unlocking computer vision with openCv](https://dev.to/rhoda_mingotamanjong_ab9/unlocking-computer-vision-with-opencv-1dn4)
+- [What You Need To Know About JavaScript V8 Engine](https://dev.to/otienorabin/what-you-need-to-know-about-javascript-v8-engine-2nem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
