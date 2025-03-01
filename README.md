@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.7 Sonnet Thinking vs. Deepseek r1: Complete Analysis](https://dev.to/composiodev/claude-37-sonnet-thinking-vs-deepseek-r1-complete-analysis-22p3)
-- [Symfony Station Communiqué — 21 February 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-21-february-2025-a-look-at-symfony-drupal-php-and-other-1mif)
-- [Top Lessons Learned from Debugging Complex .NET Applications: Tools, Techniques, and Best Practices](https://dev.to/leandroveiga/top-lessons-learned-from-debugging-complex-net-applications-tools-techniques-and-best-practices-4pfc)
-- [RESTful API](https://dev.to/dvphuc_175/restful-api-39kg)
-- [Copy &amp; Clone Traits in Rust: Can You Tell the Difference?](https://dev.to/leapcell/copy-clone-traits-in-rust-can-you-tell-the-difference-400i)
+- [Formik &amp; React: Writing Cleaner, More Efficient Forms](https://dev.to/tuneshman/formik-react-writing-cleaner-more-efficient-forms-fdj)
+- [[Boost]](https://dev.to/gamer2810/-13ma)
+- [Recipe Generator](https://dev.to/ron_goudz_d2e22ff34a1c432/recipe-generator-i3p)
+- [Web framework for C programming language](https://dev.to/golf-lang/web-framework-for-c-programming-language-4hpe)
+- [All the tutorials you&#39;ve read are wrong.](https://dev.to/odama626/all-the-tutorials-youve-read-are-wrong-57ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
