@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the meaning of &#39;descending&#39; and &#39;ascending&#39; in MySQL?](https://dev.to/makotonin/what-is-the-meaning-of-descending-and-ascending-in-mysql-3le6)
-- [The Future is Here: A Glimpse into How Technology Will Transform Our Lives](https://dev.to/hanzla-baig/the-future-is-here-a-glimpse-into-how-technology-will-transform-our-lives-3ij9)
-- [Hi, dev.to](https://dev.to/yuki-uix/hi-devto-39e8)
-- [2460. Apply Operations to an Array](https://dev.to/mdarifulhaque/2460-apply-operations-to-an-array-1ic8)
-- [Teamwork Makes the Dream Work](https://dev.to/timothy_97/teamwork-makes-the-dream-work-559h)
+- [React State: The Brain of Your Components! 🧠](https://dev.to/aman_kureshi_/react-state-the-brain-of-your-components-2hmn)
+- [Laravel vs. Flight: A Guide to Picking Your PHP Framework](https://dev.to/n0nag0n/laravel-vs-flight-a-guide-to-picking-your-php-framework-41g5)
+- [CALLING ALL CHROME OS JAILBREAKERS!!!](https://dev.to/pricklypear-who-codes/calling-all-chrome-os-jailbreakers-39l7)
+- [Chain of Draft: Thinking Faster by Writing Less](https://dev.to/foxgem/chain-of-draft-thinking-faster-by-writing-less-54j6)
+- [How I prepared for AWS DevOps Professional exam + Raw Notes](https://dev.to/jakejappar/how-i-prepared-for-aws-devops-professional-exam-raw-notes-1h95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
