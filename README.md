@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Flutter really a App Development Framework?](https://dev.to/ajaythewizard/is-flutter-really-a-app-development-framework-3o6h)
-- [How Artificial Intelligence is Revolutionizing Front-End Development](https://dev.to/mitu_mariam/how-artificial-intelligence-is-revolutionizing-front-end-development-5ok)
-- [⚙️ Event Loop in Node.js: How It Works and Why It Matters](https://dev.to/artem_turlenko/event-loop-in-nodejs-how-it-works-and-why-it-matters-3bnf)
-- [[Boost]](https://dev.to/jeansweden/-65h)
-- [Poll on AI Code generation: do you prefer more accuracy or easier to debug code?](https://dev.to/fm/poll-on-ai-code-generation-do-you-prefer-more-accuracy-or-easier-to-debug-code-5fjo)
+- [RxJS Beyond Basics: Writing Your Own Operators](https://dev.to/artstesh/rxjs-beyond-basics-writing-your-own-operators-1h4b)
+- [🚀 20 Frontend Techniques to Skyrocket Your Productivity in 2025 🚀](https://dev.to/er-raj-aryan/20-frontend-techniques-to-skyrocket-your-productivity-in-2023-30ei)
+- [Import and Export Patterns in Node.js: Mastering Modules 🚀](https://dev.to/sovannaro/import-and-export-patterns-in-nodejs-mastering-modules-4lal)
+- [Will AI Take Your Job](https://dev.to/abdelaziz_moustakim_45a4c/will-ai-take-your-job-1khb)
+- [CLARIFYING FINANCIAL TECH JARGON:BEGINNER&#39;S GUIDE.](https://dev.to/kayode_david_0f763081697c/clarifying-financial-tech-jargonbeginners-guide-50pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
