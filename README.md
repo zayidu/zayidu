@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Skyrocket Your Travel App with the Skypicker Locations API 🚀](https://dev.to/sourav_22cdd152890952704c/skyrocket-your-travel-app-with-the-skypicker-locations-api-4jn6)
-- [Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/mazharhuda/virtual-private-cloud-vpc-a-comprehensive-guide-3552)
-- [Understanding AI SDKs: Why `streamText` is Superior to `generateText` for AI Chatbots and When to Use Each](https://dev.to/simplr_sh/understanding-ai-sdks-why-streamtext-is-superior-to-generatetext-for-ai-chatbots-and-when-to-450e)
-- [[Boost]](https://dev.to/osiris8/-12bn)
-- [How Cursor IDE Can Significantly Enhance Your Developer Experience Compared to Traditional IDEs](https://dev.to/simplr_sh/how-cursor-ide-can-significantly-enhance-your-developer-experience-compared-to-traditional-ides-2g5o)
+- [[Boost]](https://dev.to/sumit_mochahary/-5ahl)
+- [Enable Mobile hotspot Windows 11 Registry Method](https://dev.to/winsides/enable-mobile-hotspot-windows-11-registry-method-3eh0)
+- [# 🔥 The Hidden Power of `localhost` – More Than Just `127.0.0.1`](https://dev.to/bravim_purohit_/-the-hidden-power-of-localhost-more-than-just-127001-4j4m)
+- [Build Machine Learning Models with Amazon SageMaker](https://dev.to/gurudev_prasadteketi/build-machine-learning-models-with-amazon-sagemaker-1n2k)
+- [Serverless User Authentication with AWS Cognito &amp; DynamoDB.](https://dev.to/0mchoudhary/serverless-user-authentication-with-aws-cognito-dynamodb-m19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
