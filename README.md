@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GCC Building - Lab 4](https://dev.to/jurozaw/gcc-building-lab-4-1892)
-- [Ancient Trade Routes and Their Impact on Today’s World](https://dev.to/snehasingh0212/ancient-trade-routes-and-their-impact-on-todays-world-1ncd)
-- [Optional Chaining in JavaScript](https://dev.to/arsalanmeee/optional-chaining-in-javascript-34kj)
-- [Understanding the True Cost of Ownership: ECS vs. EKS](https://dev.to/aws-builders/understanding-the-true-cost-of-ownership-ecs-vs-eks-2l0)
-- [🌐 Simple Web Load Balancer Using Vagrant and HAProxy](https://dev.to/francotel/simple-web-load-balancer-using-vagrant-and-haproxy-2kap)
+- [Scaling &amp; DB Optimization](https://dev.to/jay818/scaling-db-optimization-b54)
+- [Use case for self-healing tests with a local LLM](https://dev.to/breakingtesting/use-case-for-self-healing-tests-with-a-local-llm-1h84)
+- [Writing Logs to Files in Node.js with the LogLayer](https://dev.to/theogravity/writing-logs-to-files-in-nodejs-with-the-loglayer-4099)
+- [Improved security, fixed bugs in my neural web architecture](https://dev.to/okerew/improved-security-fixed-bugs-in-my-neural-web-architecture-35oo)
+- [Designing a Scalable and Real-Time Messaging System](https://dev.to/gaurav_bansal_2e1ca573623/designing-a-scalable-and-real-time-messaging-system-4664)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
