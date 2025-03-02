@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI for Real-Time Speech Recognition and Transcription](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-for-real-time-speech-recognition-and-transcription-993)
-- [Going back to basics with Zero-Build React: The Ultimate Development Guide to Modern ESM CDNs with React 19](https://dev.to/nitinajaydixit/going-back-to-basics-with-zero-build-react-the-ultimate-development-guide-to-modern-esm-cdns-with-1moh)
-- [Logz &lpar;Logger Global em Golang&rpar; [pt-BR]](https://dev.to/rafael_mori/logz-logger-global-em-golang-pt-br-lm)
-- [Navigating the World of AI Agents: A Complete Guide for Developers and Non-Coders](https://dev.to/cuongnp/navigating-the-world-of-ai-agents-a-complete-guide-for-developers-and-non-coders-1p5e)
-- [Cookie](https://dev.to/dvphuc_175/cookie-2fim)
+- [Introduction to Android Development](https://dev.to/madgan95/introduction-to-android-development-6hl)
+- [✨ [13] - Setup Layout, Routing, and Stack Navigation in React Native Expo](https://dev.to/skipperhoa/13-setup-layout-routing-and-stack-navigation-in-react-native-expo-j2k)
+- [Automating Tests for Multiple Generative AI APIs Using Postman &lpar;Newman&rpar; and Exporting Responses to CSV](https://dev.to/suzuki0430/automating-tests-for-multiple-generative-ai-apis-using-postman-newman-and-exporting-responses-to-3fmf)
+- [Mastering CrossFi Node Setup: A Beginner-Friendly Guide](https://dev.to/john_4902860a5d654fa3fcf5/mastering-crossfi-node-setup-a-beginner-friendly-guide-24fc)
+- [Ftp client with GUI Python🐱‍🏍](https://dev.to/ukihunter/ftp-client-with-gui-python-e82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
