@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Android Development](https://dev.to/madgan95/introduction-to-android-development-6hl)
-- [✨ [13] - Setup Layout, Routing, and Stack Navigation in React Native Expo](https://dev.to/skipperhoa/13-setup-layout-routing-and-stack-navigation-in-react-native-expo-j2k)
-- [Automating Tests for Multiple Generative AI APIs Using Postman &lpar;Newman&rpar; and Exporting Responses to CSV](https://dev.to/suzuki0430/automating-tests-for-multiple-generative-ai-apis-using-postman-newman-and-exporting-responses-to-3fmf)
-- [Mastering CrossFi Node Setup: A Beginner-Friendly Guide](https://dev.to/john_4902860a5d654fa3fcf5/mastering-crossfi-node-setup-a-beginner-friendly-guide-24fc)
-- [Ftp client with GUI Python🐱‍🏍](https://dev.to/ukihunter/ftp-client-with-gui-python-e82)
+- [📝 7 Steps to Professional Logo Integration in Filament](https://dev.to/dosenngoding/7-steps-to-professional-logo-integration-in-filament-2m9j)
+- [Hello, Dev Community! I&#39;m Umair Shakoor](https://dev.to/umairshakoor/hello-dev-community-im-umair-shakoor-4fek)
+- [How to Start Your #BuildInPublic Journey &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/huxlerapp/how-to-start-your-buildinpublic-journey-even-if-youre-just-getting-started-3o7m)
+- [Error Handling in Rust: A Comprehensive Guide](https://dev.to/sajiram_a4704bc095/error-handling-in-rust-a-comprehensive-guide-25np)
+- [Need Help Finalizing a Task Management System for a Nonprofit in Afghanistan](https://dev.to/jamshidkhaksaar/need-help-finalizing-a-task-management-system-for-a-nonprofit-in-afghanistan-kjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
