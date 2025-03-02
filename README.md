@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [pattern for loop](https://dev.to/hema_latha/pattern-for-loop-49kh)
-- [Book Review: Frontend Architecture for Design Systems - A Blueprint for Scalable Websites](https://dev.to/lazioleo/book-review-frontend-architecture-for-design-systems-a-blueprint-for-scalable-websites-2bpb)
-- [How to Turn Your Website into a Fully Functional Mobile App](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-turn-your-website-into-a-fully-functional-mobile-app-36of)
-- [$35,000 Bounty: How Inappropriate Access Control Led to GitLab Account Takeover](https://dev.to/cyberw1ng/35000-bounty-how-inappropriate-access-control-led-to-gitlab-account-takeover-3imm)
-- [SRVRA Sync: The Enterprise-Grade State Management &amp; Real-Time, Bi-Directional Sync Engine](https://dev.to/sign/srvra-data-sync-the-enterprise-grade-state-management-real-time-bi-directional-sync-engine-5a0g)
+- [Seeking Remote Salesforce Developer Position.](https://dev.to/dtp_hook_a5d67a7dfd9dd02a/seeking-remote-salesforce-developer-position-47bd)
+- [The Future of AI: How Retrieval-Augmented Generation &lpar;RAG&rpar; is Changing the Game](https://dev.to/mahrukh_adeel/the-future-of-ai-how-retrieval-augmented-generation-rag-is-changing-the-game-42me)
+- [140/365 | ¥10M Job Challenge - Weekends always seem to fly by](https://dev.to/kameken100/140365-y10m-job-challenge-weekends-always-seem-to-fly-by-4efb)
+- [Using Redis to build a Distributed Chat App in Go &amp; React.js](https://dev.to/the-arcade-01/using-redis-to-build-a-distributed-chat-app-in-go-reactjs-1e1m)
+- [Building a Simple Stock Insights Agent with Gemini 2.0 Flash on Vertex AI](https://dev.to/thomas-chong/building-a-stock-insights-agent-with-gemini-20-flash-on-vertex-ai-5bkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
