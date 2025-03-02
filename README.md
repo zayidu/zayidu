@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 7 Steps to Professional Logo Integration in Filament](https://dev.to/dosenngoding/7-steps-to-professional-logo-integration-in-filament-2m9j)
-- [Hello, Dev Community! I&#39;m Umair Shakoor](https://dev.to/umairshakoor/hello-dev-community-im-umair-shakoor-4fek)
-- [How to Start Your #BuildInPublic Journey &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/huxlerapp/how-to-start-your-buildinpublic-journey-even-if-youre-just-getting-started-3o7m)
-- [Error Handling in Rust: A Comprehensive Guide](https://dev.to/sajiram_a4704bc095/error-handling-in-rust-a-comprehensive-guide-25np)
-- [Need Help Finalizing a Task Management System for a Nonprofit in Afghanistan](https://dev.to/jamshidkhaksaar/need-help-finalizing-a-task-management-system-for-a-nonprofit-in-afghanistan-kjn)
+- [Building a Vector Database in Ruby: A Comprehensive Guide](https://dev.to/daviducolo/building-a-vector-database-in-ruby-a-comprehensive-guide-1ep)
+- [5 Common Mistakes Frontend Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/rowsanali/5-common-mistakes-frontend-developers-make-and-how-to-fix-them-2chb)
+- [Installing Elixir on Debian Crostini](https://dev.to/chainparser/installing-elixir-on-debian-crostini-15mk)
+- [🛡️ Centralized Backup Solution in AWS Organization - Because One Backup is never enough!](https://dev.to/mastercam123/centralized-backup-solution-in-aws-organization-because-one-backup-is-never-enough-1op6)
+- [Rio: Build Stunning GUIs and Full-Stack Web Apps in Pure Python — No HTML, CSS, or JS Needed!](https://dev.to/p4nd4no/rio-build-stunning-guis-and-full-stack-web-apps-in-pure-python-no-html-css-or-js-needed-1fi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
