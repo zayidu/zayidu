@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling &amp; DB Optimization](https://dev.to/jay818/scaling-db-optimization-b54)
-- [Use case for self-healing tests with a local LLM](https://dev.to/breakingtesting/use-case-for-self-healing-tests-with-a-local-llm-1h84)
-- [Writing Logs to Files in Node.js with the LogLayer](https://dev.to/theogravity/writing-logs-to-files-in-nodejs-with-the-loglayer-4099)
-- [Improved security, fixed bugs in my neural web architecture](https://dev.to/okerew/improved-security-fixed-bugs-in-my-neural-web-architecture-35oo)
-- [Designing a Scalable and Real-Time Messaging System](https://dev.to/gaurav_bansal_2e1ca573623/designing-a-scalable-and-real-time-messaging-system-4664)
+- [Pod Disruption Budget vs NodePool Disruption Budget?](https://dev.to/vijaykodam/what-is-the-difference-between-pod-disruption-budget-and-nodepool-disruption-budget-pob)
+- [How to Add a Data Disk to a Virtual Machine in Microsoft Azure using the Azure Portal](https://dev.to/ibrahimbioabu/how-to-add-a-data-disk-to-a-virtual-machine-in-microsoft-azure-using-the-azure-portal-bc8)
+- [How to Import Packages in Go](https://dev.to/jeevanizm/how-to-import-packages-in-go-1oap)
+- [create a face regognition site with php html](https://dev.to/ange/create-a-face-regognition-site-with-php-html-57bd)
+- [Light at the end of the To-do tunnel?](https://dev.to/codecara/light-at-the-end-of-the-to-do-tunnel-1fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
