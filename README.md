@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Redirect Vulnerability: Exploitation, Prevention &amp; Real-World Examples - @verylazytech](https://dev.to/verylazytech/open-redirect-vulnerability-exploitation-prevention-real-world-examples-verylazytech-37ci)
-- [Why Are Your URL Designs So Bad?](https://dev.to/leapcell/why-are-your-url-designs-so-bad-2k8l)
-- [Building a Beautiful Carousel with Left-Right Partial Visibility in React Native](https://dev.to/amitkumar13/building-a-beautiful-carousel-with-left-right-partial-visibility-in-react-native-397l)
-- [The Path to Becoming a Successful Developer](https://dev.to/md-afsar-mahmud/the-path-to-becoming-a-successful-developer-15aa)
-- [[Git] 5 Git Tips I Learned Today](https://dev.to/kitco/git-5-git-tips-i-learned-today-2502)
+- [Leetcode - 209. Minimum Size Subarray Sum](https://dev.to/rakeshreddy512/leetcode-209-minimum-size-subarray-sum-5eho)
+- [Mastering Kubernetes: Become a Pro in K8s Deployments](https://dev.to/arpitstack/mastering-kubernetes-become-a-pro-in-k8s-deployments-5epj)
+- [I wonder if mern Stack is any good?](https://dev.to/abd_elrhmanmohamedmansu/i-wonder-if-mern-stack-is-any-good-43i7)
+- [🚀 Week 9: Kubernetes Application Deployment – Learning in Public ☸️](https://dev.to/xetnopnawab/week-9-kubernetes-application-deployment-learning-in-public-1lmc)
+- [Introduction to Docker: Simplifying Containerized Applications](https://dev.to/linsmed/introduction-to-docker-simplifying-containerized-applications-37h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
