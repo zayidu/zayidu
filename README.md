@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - 209. Minimum Size Subarray Sum](https://dev.to/rakeshreddy512/leetcode-209-minimum-size-subarray-sum-5eho)
-- [Mastering Kubernetes: Become a Pro in K8s Deployments](https://dev.to/arpitstack/mastering-kubernetes-become-a-pro-in-k8s-deployments-5epj)
-- [I wonder if mern Stack is any good?](https://dev.to/abd_elrhmanmohamedmansu/i-wonder-if-mern-stack-is-any-good-43i7)
-- [🚀 Week 9: Kubernetes Application Deployment – Learning in Public ☸️](https://dev.to/xetnopnawab/week-9-kubernetes-application-deployment-learning-in-public-1lmc)
-- [Introduction to Docker: Simplifying Containerized Applications](https://dev.to/linsmed/introduction-to-docker-simplifying-containerized-applications-37h9)
+- [Deploying a Static Website on AWS S3 &amp; EC2 Using Terraform&quot; published: true](https://dev.to/kishore_suzil_v/deploying-a-static-website-on-aws-s3-ec2-using-terraformpublished-true-4o3b)
+- [Understanding Caching in Next.js: A Beginner’s Guide](https://dev.to/melvinprince/understanding-caching-in-nextjs-a-beginners-guide-5734)
+- [Who&#39;s hiring? — March 2025](https://dev.to/fmerian/whos-hiring-march-2025-301p)
+- [🎨 Building a 3D Neon Cube That Displays My Name 🧊](https://dev.to/madhurima_rawat/building-a-3d-neon-cube-that-displays-my-name-2oni)
+- [Amazing Loaders](https://dev.to/chandan_e69c011b258e09242/amazing-loaders-2pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
