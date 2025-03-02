@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shaping the Future of the Internet with Linkspreed: A Partnership Opportunity for Agencies and Partners](https://dev.to/web4/shaping-the-future-of-the-internet-with-linkspreed-a-partnership-opportunity-for-agencies-and-2f0n)
-- [10 Easy Productivity Tricks That Really Work](https://dev.to/stan8086/10-easy-productivity-tricks-that-really-work-4c5j)
-- [Service-to-Service Communication in Microservice Architectures: A Detailed Guide](https://dev.to/devcorner/service-to-service-communication-in-microservice-architectures-a-detailed-guide-4jck)
-- [13 Github Projects that Will Supercharge Your Development Journey in 2025 🚀](https://dev.to/bruh_buh_f683772f171823db/13-github-projects-that-will-supercharge-your-development-journey-in-2025-172j)
-- [map&lpar;&rpar; vs forEach&lpar;&rpar; in JS](https://dev.to/kiran_ravi_092a2cfcf60389/map-vs-foreach-in-js-41a)
+- [How to Use AI for Real-Time Speech Recognition and Transcription](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-for-real-time-speech-recognition-and-transcription-993)
+- [Going back to basics with Zero-Build React: The Ultimate Development Guide to Modern ESM CDNs with React 19](https://dev.to/nitinajaydixit/going-back-to-basics-with-zero-build-react-the-ultimate-development-guide-to-modern-esm-cdns-with-1moh)
+- [Logz &lpar;Logger Global em Golang&rpar; [pt-BR]](https://dev.to/rafael_mori/logz-logger-global-em-golang-pt-br-lm)
+- [Navigating the World of AI Agents: A Complete Guide for Developers and Non-Coders](https://dev.to/cuongnp/navigating-the-world-of-ai-agents-a-complete-guide-for-developers-and-non-coders-1p5e)
+- [Cookie](https://dev.to/dvphuc_175/cookie-2fim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
