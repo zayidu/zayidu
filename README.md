@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Code to Connection: Why Empathy is Your Secret Weapon in Coding?](https://dev.to/arpitstack/code-to-connection-why-empathy-is-your-secret-weapon-in-coding-5gdp)
+- [Getting Started with Docker: How to Containerize Your First Application](https://dev.to/yash_sonawane25/getting-started-with-docker-how-to-containerize-your-first-application-1cb8)
 - [Building a Vector Database in Ruby: A Comprehensive Guide](https://dev.to/daviducolo/building-a-vector-database-in-ruby-a-comprehensive-guide-1ep)
 - [5 Common Mistakes Frontend Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/rowsanali/5-common-mistakes-frontend-developers-make-and-how-to-fix-them-2chb)
 - [Installing Elixir on Debian Crostini](https://dev.to/chainparser/installing-elixir-on-debian-crostini-15mk)
-- [🛡️ Centralized Backup Solution in AWS Organization - Because One Backup is never enough!](https://dev.to/mastercam123/centralized-backup-solution-in-aws-organization-because-one-backup-is-never-enough-1op6)
-- [Rio: Build Stunning GUIs and Full-Stack Web Apps in Pure Python — No HTML, CSS, or JS Needed!](https://dev.to/p4nd4no/rio-build-stunning-guis-and-full-stack-web-apps-in-pure-python-no-html-css-or-js-needed-1fi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
