@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Formik &amp; React: Writing Cleaner, More Efficient Forms](https://dev.to/tuneshman/formik-react-writing-cleaner-more-efficient-forms-fdj)
-- [[Boost]](https://dev.to/gamer2810/-13ma)
-- [Recipe Generator](https://dev.to/ron_goudz_d2e22ff34a1c432/recipe-generator-i3p)
-- [Web framework for C programming language](https://dev.to/golf-lang/web-framework-for-c-programming-language-4hpe)
-- [All the tutorials you&#39;ve read are wrong.](https://dev.to/odama626/all-the-tutorials-youve-read-are-wrong-57ek)
+- [PIL and Mental Health: Generally Using the Law to Make Changes](https://dev.to/chlorophyll/pil-and-mental-health-generally-using-the-law-to-make-changes-3k03)
+- [How TailwindCSS Speeds Up Development](https://dev.to/tene/how-tailwindcss-speeds-up-development-47f9)
+- [Building a Modern Blog with Next.js, MDX, and Tailwind CSS](https://dev.to/gerryleonugroho/building-a-modern-blog-with-nextjs-mdx-and-tailwind-css-a24)
+- [Como Construir um Chat AI usando Python e Groq Cloud](https://dev.to/zorasantos/como-construir-um-chat-ai-usando-python-e-groq-cloud-2pac)
+- [Daily JavaScript Challenge #JS-115: Calculate Maximum Subarray Sum](https://dev.to/dpc/daily-javascript-challenge-js-115-calculate-maximum-subarray-sum-4dg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
