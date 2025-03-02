@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ReferenceGenerator: A Lightweight C# Library for Generating Unique References](https://dev.to/mhizokuchi/referencegenerator-a-lightweight-c-library-for-generating-unique-references-4g89)
-- [Creating Essential Geometric Shapes Using CSS Only](https://dev.to/uiuxsatyam/creating-essential-geometric-shapes-using-css-only-5bba)
-- [Setup Laragon&#39;s Cmder in VSCode &lpar;VSCode Extension&rpar;](https://dev.to/abiruzzamanmolla/setup-laragons-cmder-in-vscode-vscode-extension-27p5)
-- [Comparing Popular Embedding Models: Choosing the Right One for Your Use Case](https://dev.to/simplr_sh/comparing-popular-embedding-models-choosing-the-right-one-for-your-use-case-43p1)
-- [Exploring Cloudflare&#39;s AI Gateway: Simplifying AI Integration and Security](https://dev.to/simplr_sh/exploring-cloudflares-ai-gateway-simplifying-ai-integration-and-security-3fii)
+- [Skyrocket Your Travel App with the Skypicker Locations API 🚀](https://dev.to/sourav_22cdd152890952704c/skyrocket-your-travel-app-with-the-skypicker-locations-api-4jn6)
+- [Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/mazharhuda/virtual-private-cloud-vpc-a-comprehensive-guide-3552)
+- [Understanding AI SDKs: Why `streamText` is Superior to `generateText` for AI Chatbots and When to Use Each](https://dev.to/simplr_sh/understanding-ai-sdks-why-streamtext-is-superior-to-generatetext-for-ai-chatbots-and-when-to-450e)
+- [[Boost]](https://dev.to/osiris8/-12bn)
+- [How Cursor IDE Can Significantly Enhance Your Developer Experience Compared to Traditional IDEs](https://dev.to/simplr_sh/how-cursor-ide-can-significantly-enhance-your-developer-experience-compared-to-traditional-ides-2g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
