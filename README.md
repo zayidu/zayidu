@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/sumit_mochahary/-5ahl)
-- [Enable Mobile hotspot Windows 11 Registry Method](https://dev.to/winsides/enable-mobile-hotspot-windows-11-registry-method-3eh0)
-- [# 🔥 The Hidden Power of `localhost` – More Than Just `127.0.0.1`](https://dev.to/bravim_purohit_/-the-hidden-power-of-localhost-more-than-just-127001-4j4m)
-- [Build Machine Learning Models with Amazon SageMaker](https://dev.to/gurudev_prasadteketi/build-machine-learning-models-with-amazon-sagemaker-1n2k)
-- [Serverless User Authentication with AWS Cognito &amp; DynamoDB.](https://dev.to/0mchoudhary/serverless-user-authentication-with-aws-cognito-dynamodb-m19)
+- [Shaping the Future of the Internet with Linkspreed: A Partnership Opportunity for Agencies and Partners](https://dev.to/web4/shaping-the-future-of-the-internet-with-linkspreed-a-partnership-opportunity-for-agencies-and-2f0n)
+- [10 Easy Productivity Tricks That Really Work](https://dev.to/stan8086/10-easy-productivity-tricks-that-really-work-4c5j)
+- [Service-to-Service Communication in Microservice Architectures: A Detailed Guide](https://dev.to/devcorner/service-to-service-communication-in-microservice-architectures-a-detailed-guide-4jck)
+- [13 Github Projects that Will Supercharge Your Development Journey in 2025 🚀](https://dev.to/bruh_buh_f683772f171823db/13-github-projects-that-will-supercharge-your-development-journey-in-2025-172j)
+- [map&lpar;&rpar; vs forEach&lpar;&rpar; in JS](https://dev.to/kiran_ravi_092a2cfcf60389/map-vs-foreach-in-js-41a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
