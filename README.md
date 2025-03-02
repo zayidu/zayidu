@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Remote Salesforce Developer Position.](https://dev.to/dtp_hook_a5d67a7dfd9dd02a/seeking-remote-salesforce-developer-position-47bd)
-- [The Future of AI: How Retrieval-Augmented Generation &lpar;RAG&rpar; is Changing the Game](https://dev.to/mahrukh_adeel/the-future-of-ai-how-retrieval-augmented-generation-rag-is-changing-the-game-42me)
-- [140/365 | ¥10M Job Challenge - Weekends always seem to fly by](https://dev.to/kameken100/140365-y10m-job-challenge-weekends-always-seem-to-fly-by-4efb)
-- [Using Redis to build a Distributed Chat App in Go &amp; React.js](https://dev.to/the-arcade-01/using-redis-to-build-a-distributed-chat-app-in-go-reactjs-1e1m)
-- [Building a Simple Stock Insights Agent with Gemini 2.0 Flash on Vertex AI](https://dev.to/thomas-chong/building-a-stock-insights-agent-with-gemini-20-flash-on-vertex-ai-5bkl)
+- [GCC Building - Lab 4](https://dev.to/jurozaw/gcc-building-lab-4-1892)
+- [Ancient Trade Routes and Their Impact on Today’s World](https://dev.to/snehasingh0212/ancient-trade-routes-and-their-impact-on-todays-world-1ncd)
+- [Optional Chaining in JavaScript](https://dev.to/arsalanmeee/optional-chaining-in-javascript-34kj)
+- [Understanding the True Cost of Ownership: ECS vs. EKS](https://dev.to/aws-builders/understanding-the-true-cost-of-ownership-ecs-vs-eks-2l0)
+- [🌐 Simple Web Load Balancer Using Vagrant and HAProxy](https://dev.to/francotel/simple-web-load-balancer-using-vagrant-and-haproxy-2kap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
