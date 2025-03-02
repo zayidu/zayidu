@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pod Disruption Budget vs NodePool Disruption Budget?](https://dev.to/vijaykodam/what-is-the-difference-between-pod-disruption-budget-and-nodepool-disruption-budget-pob)
-- [How to Add a Data Disk to a Virtual Machine in Microsoft Azure using the Azure Portal](https://dev.to/ibrahimbioabu/how-to-add-a-data-disk-to-a-virtual-machine-in-microsoft-azure-using-the-azure-portal-bc8)
-- [How to Import Packages in Go](https://dev.to/jeevanizm/how-to-import-packages-in-go-1oap)
-- [create a face regognition site with php html](https://dev.to/ange/create-a-face-regognition-site-with-php-html-57bd)
-- [Light at the end of the To-do tunnel?](https://dev.to/codecara/light-at-the-end-of-the-to-do-tunnel-1fa)
+- [Refactoring with Polymorphism: Say Goodbye to Complex Conditionals](https://dev.to/pathus90/refactoring-with-polymorphism-say-goodbye-to-complex-conditionals-50o9)
+- [Implementing Multi-Tenancy in DynamoDB with Python](https://dev.to/dm8ry/implementing-multi-tenancy-in-dynamodb-with-python-4c54)
+- [AWS Cloud Path Week 8 - Completing AWS 101 Workshop with CDK](https://dev.to/aws-builders/aws-cloud-path-week-8-completing-aws-101-workshop-with-cdk-4j4i)
+- [How I Built a Cloud Startup When Everyone Said It Was Impossible](https://dev.to/nidasahar/how-i-built-a-cloud-startup-when-everyone-said-it-was-impossible-21la)
+- [Breaking the Misconception: A Quality Engineer Is Not Just &quot;Clicking Buttons&quot;](https://dev.to/s_chathuranga_j/breaking-the-misconception-a-quality-engineer-is-not-just-clicking-buttons-22hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
