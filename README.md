@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned from Head First: The life of a Java object reference.](https://dev.to/mitchiemt11/what-i-learned-from-head-first-the-life-of-a-java-object-reference-3e6k)
-- [How to Prevent Your Supabase Project Database from Being Paused Using GitHub Actions](https://dev.to/jps27cse/how-to-prevent-your-supabase-project-database-from-being-paused-using-github-actions-3hel)
-- [🚀 Your Daily Crypto Job Digest For 03 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-march-4mh3)
-- [Technical Guide: Syncing Ingress Resources from various Virtual Cluster on GKE with vCluster](https://dev.to/loft/technical-guide-syncing-ingress-resources-from-various-vcluster-on-gke-with-vcluster-3c56)
-- [How Hopthru powers real-time transit analytics from a 1 TB table](https://dev.to/timescale/how-hopthru-powers-real-time-transit-analytics-from-a-1-tb-table-3o8n)
+- [🚀 Pengenalan Flutter: Dasar, State Management, dan Contoh Kode 🎯](https://dev.to/joenathandevid/pengenalan-flutter-dasar-state-management-dan-contoh-kode-1lge)
+- [7 Leadership Traits Every Great Tech Leader Must Possess](https://dev.to/devcorner/7-leadership-traits-every-great-tech-leader-must-possess-5b23)
+- [What are your Goals for the week? #116.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-116-496b)
+- [FlexHired - Your Remote Career Starts Here](https://dev.to/flexhired/flexhired-your-remote-career-starts-here-4om7)
+- [Remoto é bom e pode melhorar!](https://dev.to/noriller/remoto-e-bom-e-pode-melhorar-1ja4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
