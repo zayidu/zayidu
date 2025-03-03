@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing shadcn-sveltekit-landing-page: A Modern Landing Page Template with SvelteKit &amp; Shadcn](https://dev.to/zxce3/introducing-shadcn-sveltekit-landing-page-a-modern-landing-page-template-with-sveltekit-shadcn-1g71)
-- [How Small Teams Can Achieve More with Strong Organizational Support](https://dev.to/futuristicgeeks/how-small-teams-can-achieve-more-with-strong-organizational-support-4ffb)
-- [I Hope You Don&#39;t Have To Write a CV. But if You Do, Follow These Tips](https://dev.to/canro91/i-hope-you-dont-have-to-write-a-cv-but-if-you-do-follow-these-tips-dm)
-- [Arrays e Slices em go](https://dev.to/mayconjesus/arrays-e-slices-em-go-2fec)
-- [I developed a Smart Frontend Application for Personality Assessment](https://dev.to/web_dev-usman/i-developed-a-smart-frontend-application-for-personality-assessment-1ilg)
+- [Supercharging Web Apps with WebAssembly: A Hands-on Guide 🚀](https://dev.to/vibhuvibes/supercharging-web-apps-with-webassembly-a-hands-on-guide-162d)
+- [🤖 Set Up Your Own AI Agent in Minutes! Clone, Run, &amp; Deploy 🚀🛠️⚡](https://dev.to/ramkumar-m-n/set-up-your-own-ai-agent-in-minutes-clone-run-deploy-2n92)
+- [🚀 Unlock Blazing Fast Performance with HybridCache in ASP.NET Core 9](https://dev.to/dct_technologyprivatelimited/unlock-blazing-fast-performance-with-hybridcache-in-aspnet-core-9-5hnc)
+- [Top GitLab Alternatives: Best Code Repository &amp; Project Management Tools for 2025](https://dev.to/adityabhuyan/top-gitlab-alternatives-best-code-repository-project-management-tools-for-2025-1b27)
+- [How Unix, Windows, and macOS Security Models Evolved Over Time and Their Impact Today](https://dev.to/adityabhuyan/how-unix-windows-and-macos-security-models-evolved-over-time-and-their-impact-today-4n7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
