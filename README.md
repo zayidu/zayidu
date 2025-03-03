@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending Python Stack Comparison Guide](https://dev.to/resource_bunk_1077cab07da/trending-python-stack-comparison-guide-362j)
-- [Object-Oriented Programming: Encapsulation, Moving Parts, and Functional Paradigms](https://dev.to/lovestaco/object-oriented-programming-encapsulation-moving-parts-and-functional-paradigms-30d0)
-- [AltSchool Of Engineering Tinyuka’24 Month 1 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-1-week-3-23g3)
-- [10 Essential Tips to Write Clean and Maintainable Code](https://dev.to/preeti_yadav/10-essential-tips-to-write-clean-and-maintainable-code-38dk)
-- [Simple Python for Data Analysis](https://dev.to/0x3d_site/simple-python-for-data-analysis-2l85)
+- [Playing golf with Purpose: Philanthropic Events on the Green](https://dev.to/sportstopnews654/playing-golf-with-purpose-philanthropic-events-on-the-green-10km)
+- [The Future of E2E Testing: How to Overcome Flakiness with Natural Language + LLMs](https://dev.to/tom_greenwald/the-future-of-e2e-testing-how-to-overcome-flakiness-with-natural-language-llms-2h5)
+- [THE NEXT STEP: The 100 days Tech Challenge](https://dev.to/aibuedefe/the-next-step-the-100-days-tech-challenge-36hf)
+- [Understanding Networking in Oracle&#39;s Virtualbox - NAT Network Adapter](https://dev.to/saishanmukkha/understanding-networking-in-oracles-virtualbox-nat-network-adapter-2m0j)
+- [The Modern 2025 Web Components Tech Stack](https://dev.to/matsuuu/the-modern-2025-web-components-tech-stack-1l00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
