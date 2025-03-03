@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome button effects with tailwind CSS](https://dev.to/shubhamtiwari909/awesome-button-effects-with-tailwind-css-27a8)
 - [Is this the next step in the evolution of front end dev?](https://dev.to/whitep4nth3r/is-this-the-next-step-in-the-evolution-of-front-end-dev-32en)
 - [Struggling with Coding Assignments? Get Expert Programming Homework Help Today!](https://dev.to/tarunfulera/struggling-with-coding-assignments-get-expert-programming-homework-help-today-1e7i)
 - [Sharing a Minecraft Server Running on Localhost with Friends Using Pinggy](https://dev.to/lightningdev123/sharing-a-minecraft-server-running-on-localhost-with-friends-using-pinggy-dai)
 - [Fine-tuning a Foundation Model for a Specific Task with Vertex AI](https://dev.to/ifihan/fine-tuning-a-foundation-model-for-a-specific-task-with-vertex-ai-1mkc)
-- [✨ A Love Letter to the Future: How Technology is Reshaping Our Lives ✨](https://dev.to/robin-ivi/a-love-letter-to-the-future-how-technology-is-reshaping-our-lives-21dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
