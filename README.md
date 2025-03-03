@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why I Started Learning Automation &amp; DevOps](https://dev.to/sruthi177/why-i-started-learning-automation-devops-5130)
-- [Unlocking Success: Essential Software Development Best Practices for 2025](https://dev.to/jetthoughts/unlocking-success-essential-software-development-best-practices-for-2025-1n2i)
-- [Tools404: Essential Web Dev Tools in One Place](https://dev.to/jafludo/tools404-essential-web-dev-tools-in-one-place-2f5n)
-- [Leetcode - 36. Valid Sudoku](https://dev.to/rakeshreddy512/leetcode-36-valid-sudoku-1nbl)
-- [My notes and resources about the process of fine-tuning a Mistral model,](https://dev.to/zeedu_dev/my-notes-and-resources-about-the-process-of-fine-tuning-a-mistral-model-2bg0)
+- [Simple Python for Data Analysis](https://dev.to/0x3d_site/simple-python-for-data-analysis-2l85)
+- [Dictionary vs. defaultdict in Python: A Beginner’s Guide](https://dev.to/extinctsion/dictionary-vs-defaultdict-in-python-a-beginners-guide-2ao1)
+- [Learn about the priority levels of config files and distinguish between .yaml and .properties files in Java Spring Boot.](https://dev.to/hieunguyendev/learn-about-the-priority-levels-of-config-files-and-distinguish-between-yaml-and-properties-files-26fi)
+- [hax cli: publish on surge.sh fast!](https://dev.to/btopro/hax-cli-publish-on-surgesh-fast-4b3c)
+- [It’s Not A.I. — Junior Developers Have Always Struggled to Code](https://dev.to/thatsoftwaredude/its-not-ai-junior-developers-have-always-struggled-to-code-26gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
