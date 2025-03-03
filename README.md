@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Definitive Guide to AI Benchmarks: Comparing Models, Testing Your Own, and Understanding the Future](https://dev.to/dfordp/definitive-guide-to-ai-benchmarks-comparing-models-testing-your-own-and-understanding-the-future-4d9i)
-- [10+ Best Analytics Dashboard Templates for 2025](https://dev.to/tailadmin/top-analytics-dashboard-templates-2198)
-- [Making API Calls in .NET the Easy Way with Refit](https://dev.to/akash_rana25/making-api-calls-in-net-the-easy-way-with-refit-56d5)
-- [Send logs to Sumo Logic in Node.js using LogLayer](https://dev.to/theogravity/send-logs-to-sumo-logic-in-nodejs-using-loglayer-45cg)
-- [Dependency Inversion Principle &lpar;DIP&rpar; in React](https://dev.to/chhakuli_zingare_2a0ad5f8/dependency-inversion-principle-dip-in-react-4o31)
+- [Introducing shadcn-sveltekit-landing-page: A Modern Landing Page Template with SvelteKit &amp; Shadcn](https://dev.to/zxce3/introducing-shadcn-sveltekit-landing-page-a-modern-landing-page-template-with-sveltekit-shadcn-1g71)
+- [How Small Teams Can Achieve More with Strong Organizational Support](https://dev.to/futuristicgeeks/how-small-teams-can-achieve-more-with-strong-organizational-support-4ffb)
+- [I Hope You Don&#39;t Have To Write a CV. But if You Do, Follow These Tips](https://dev.to/canro91/i-hope-you-dont-have-to-write-a-cv-but-if-you-do-follow-these-tips-dm)
+- [Arrays e Slices em go](https://dev.to/mayconjesus/arrays-e-slices-em-go-2fec)
+- [I developed a Smart Frontend Application for Personality Assessment](https://dev.to/web_dev-usman/i-developed-a-smart-frontend-application-for-personality-assessment-1ilg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
