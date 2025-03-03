@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Sed: The Unsung Hero of Text Processing](https://dev.to/karandaid/mastering-sed-the-unsung-hero-of-text-processing-16ml)
-- [Blockchain’s Transformative Influence on Open Source Transparency](https://dev.to/bobcars/blockchains-transformative-influence-on-open-source-transparency-18cl)
-- [Enhancing Open Source Security with Blockchain Technology: A New Frontier](https://dev.to/ashucommits/enhancing-open-source-security-with-blockchain-technology-a-new-frontier-3628)
-- [A simple Broadcast Audio Source](https://dev.to/denladeside/a-simple-broadcast-audio-source-4e8b)
-- [An Ideal Hustle Timetable for CS students.](https://dev.to/forloopcodes/an-ideal-hustle-timetable-for-cs-students-4i63)
+- [Building BlackJack Uno: A Fun Way to Learn JavaScript](https://dev.to/beanboi64/building-blackjack-uno-a-fun-way-to-learn-javascript-2p9g)
+- [Deploying Canvas LMS on Kubernetes: Unlocking Full Control, LTI 1.3 for Developers &amp; Educators](https://dev.to/adeyemi_aina_b48e323922d9/deploying-canvas-lms-on-kubernetes-unlocking-full-control-lti-13-for-developers-educators-3llb)
+- [Integrating sg-autocomplete Component](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-autocomplete-component-3m58)
+- [Developer Diary #27. AI Trap](https://dev.to/kiolk/developer-diary-27-ai-trap-162j)
+- [SEO-Driven Structure: Creating Web Pages Which Rank and Engage](https://dev.to/webdesigner15/seo-driven-structure-creating-web-pages-which-rank-and-engage-3ec5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
