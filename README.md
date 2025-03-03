@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 10 Best Full-Stack &lpar;MERN&rpar; Techniques to Skyrocket Your Productivity 🚀](https://dev.to/er-raj-aryan/10-best-full-stack-mern-techniques-to-skyrocket-your-productivity-594a)
+- [Inside Out, Outside In: Our Topsy-Turvy Tech World](https://dev.to/gambhirsamarth/inside-out-outside-in-our-topsy-turvy-tech-world-3aj0)
+- [Mental Health and Developer Burnout: The Silent Struggle](https://dev.to/matemiller/mental-health-and-developer-burnout-the-silent-struggle-2h6b)
 - [What is NAS? Does NAS Need a WAF?](https://dev.to/carrie_luo1/what-is-nas-does-nas-need-a-waf-5jh)
 - [Power Platform - Moving All Flows to Dataverse](https://dev.to/wyattdave/power-platform-moving-all-flows-to-dataverse-321)
-- [Embracing the Agentic AI Age: Transforming Productivity with Microsoft Ecosystem](https://dev.to/balagmadhu/embracing-the-agentic-ai-age-transforming-productivity-with-microsoft-ecosystem-540i)
-- [Time Travel Diaries: A Letter Across Time with a Glimpse into the AI-Powered Future✨](https://dev.to/divya4879/time-travel-diaries-a-letter-across-time-with-a-glimpse-into-the-ai-powered-future-3627)
-- [Sieve of Eratosthenes: What is it? And how to implement sieve in C++](https://dev.to/alicelee2735/sieve-of-eratosthenes-what-is-it-and-how-to-implement-sieve-in-c-3i70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
