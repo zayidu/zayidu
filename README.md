@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing golf with Purpose: Philanthropic Events on the Green](https://dev.to/sportstopnews654/playing-golf-with-purpose-philanthropic-events-on-the-green-10km)
-- [The Future of E2E Testing: How to Overcome Flakiness with Natural Language + LLMs](https://dev.to/tom_greenwald/the-future-of-e2e-testing-how-to-overcome-flakiness-with-natural-language-llms-2h5)
-- [THE NEXT STEP: The 100 days Tech Challenge](https://dev.to/aibuedefe/the-next-step-the-100-days-tech-challenge-36hf)
-- [Understanding Networking in Oracle&#39;s Virtualbox - NAT Network Adapter](https://dev.to/saishanmukkha/understanding-networking-in-oracles-virtualbox-nat-network-adapter-2m0j)
-- [The Modern 2025 Web Components Tech Stack](https://dev.to/matsuuu/the-modern-2025-web-components-tech-stack-1l00)
+- [Publish your first Hive Adventure](https://dev.to/serpent7776/publish-your-first-hive-adventure-2l9l)
+- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/vitalisorenko/blockchain-for-open-source-funding-a-new-paradigm-1moe)
+- [🎮 The Secret to Game Jams](https://dev.to/jacob_johnstone/the-secret-to-game-jams-53f)
+- [AI for Job Interviews – The Future of Hiring and Candidate Success](https://dev.to/lockedinai1/ai-for-job-interviews-the-future-of-hiring-and-candidate-success-34g7)
+- [Can AI for Job Interviews Help You Land Your Dream Job? 🤖🚀 AI is changing hiring! AI for job interviews offers real-time support, smart answer suggestions, and confidence-boosting insights, helping candidates stay sharp under pressure. Let&#39;s Discuss it.](https://dev.to/jeenifer_beezer/can-ai-for-job-interviews-help-you-land-your-dream-job-ai-is-changing-hiring-ai-for-job-1n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
