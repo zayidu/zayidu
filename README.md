@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish your first Hive Adventure](https://dev.to/serpent7776/publish-your-first-hive-adventure-2l9l)
-- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/vitalisorenko/blockchain-for-open-source-funding-a-new-paradigm-1moe)
-- [🎮 The Secret to Game Jams](https://dev.to/jacob_johnstone/the-secret-to-game-jams-53f)
-- [AI for Job Interviews – The Future of Hiring and Candidate Success](https://dev.to/lockedinai1/ai-for-job-interviews-the-future-of-hiring-and-candidate-success-34g7)
-- [Can AI for Job Interviews Help You Land Your Dream Job? 🤖🚀 AI is changing hiring! AI for job interviews offers real-time support, smart answer suggestions, and confidence-boosting insights, helping candidates stay sharp under pressure. Let&#39;s Discuss it.](https://dev.to/jeenifer_beezer/can-ai-for-job-interviews-help-you-land-your-dream-job-ai-is-changing-hiring-ai-for-job-1n6)
+- [Mastering Sed: The Unsung Hero of Text Processing](https://dev.to/karandaid/mastering-sed-the-unsung-hero-of-text-processing-16ml)
+- [Blockchain’s Transformative Influence on Open Source Transparency](https://dev.to/bobcars/blockchains-transformative-influence-on-open-source-transparency-18cl)
+- [Enhancing Open Source Security with Blockchain Technology: A New Frontier](https://dev.to/ashucommits/enhancing-open-source-security-with-blockchain-technology-a-new-frontier-3628)
+- [A simple Broadcast Audio Source](https://dev.to/denladeside/a-simple-broadcast-audio-source-4e8b)
+- [An Ideal Hustle Timetable for CS students.](https://dev.to/forloopcodes/an-ideal-hustle-timetable-for-cs-students-4i63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
