@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Align the existing data to the corresponding position and fill in any missing data with 0 — From SQL to SPL #6](https://dev.to/judith677/align-the-existing-data-to-the-corresponding-position-and-fill-in-any-missing-data-with-0-from-l06)
-- [Robots &amp; AI - Real Talk About Our Future &lpar;Less Scary, More &quot;Whoa!&quot;&rpar;](https://dev.to/pinky057/robots-ai-real-talk-about-our-future-less-scary-more-whoa-4ii0)
-- [Docker CMD vs ENTRYPOINT: Understanding the Differences](https://dev.to/sudo_anuj/docker-cmd-vs-entrypoint-understanding-the-differences-apc)
-- [Optimistic rendering example in React with Typescript](https://dev.to/nicoenciso/renderizado-optimista-forked-3o34)
-- [Understanding Dockerfile: A Guide to Building Efficient Docker Images](https://dev.to/sudo_anuj/understanding-dockerfile-a-guide-to-building-efficient-docker-images-2npg)
+- [Definitive Guide to AI Benchmarks: Comparing Models, Testing Your Own, and Understanding the Future](https://dev.to/dfordp/definitive-guide-to-ai-benchmarks-comparing-models-testing-your-own-and-understanding-the-future-4d9i)
+- [10+ Best Analytics Dashboard Templates for 2025](https://dev.to/tailadmin/top-analytics-dashboard-templates-2198)
+- [Making API Calls in .NET the Easy Way with Refit](https://dev.to/akash_rana25/making-api-calls-in-net-the-easy-way-with-refit-56d5)
+- [Send logs to Sumo Logic in Node.js using LogLayer](https://dev.to/theogravity/send-logs-to-sumo-logic-in-nodejs-using-loglayer-45cg)
+- [Dependency Inversion Principle &lpar;DIP&rpar; in React](https://dev.to/chhakuli_zingare_2a0ad5f8/dependency-inversion-principle-dip-in-react-4o31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
