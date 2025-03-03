@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Web Apps with WebAssembly: A Hands-on Guide 🚀](https://dev.to/vibhuvibes/supercharging-web-apps-with-webassembly-a-hands-on-guide-162d)
-- [🤖 Set Up Your Own AI Agent in Minutes! Clone, Run, &amp; Deploy 🚀🛠️⚡](https://dev.to/ramkumar-m-n/set-up-your-own-ai-agent-in-minutes-clone-run-deploy-2n92)
-- [🚀 Unlock Blazing Fast Performance with HybridCache in ASP.NET Core 9](https://dev.to/dct_technologyprivatelimited/unlock-blazing-fast-performance-with-hybridcache-in-aspnet-core-9-5hnc)
-- [Top GitLab Alternatives: Best Code Repository &amp; Project Management Tools for 2025](https://dev.to/adityabhuyan/top-gitlab-alternatives-best-code-repository-project-management-tools-for-2025-1b27)
-- [How Unix, Windows, and macOS Security Models Evolved Over Time and Their Impact Today](https://dev.to/adityabhuyan/how-unix-windows-and-macos-security-models-evolved-over-time-and-their-impact-today-4n7m)
+- [What is NAS? Does NAS Need a WAF?](https://dev.to/carrie_luo1/what-is-nas-does-nas-need-a-waf-5jh)
+- [Power Platform - Moving All Flows to Dataverse](https://dev.to/wyattdave/power-platform-moving-all-flows-to-dataverse-321)
+- [Embracing the Agentic AI Age: Transforming Productivity with Microsoft Ecosystem](https://dev.to/balagmadhu/embracing-the-agentic-ai-age-transforming-productivity-with-microsoft-ecosystem-540i)
+- [Time Travel Diaries: A Letter Across Time with a Glimpse into the AI-Powered Future✨](https://dev.to/divya4879/time-travel-diaries-a-letter-across-time-with-a-glimpse-into-the-ai-powered-future-3627)
+- [Sieve of Eratosthenes: What is it? And how to implement sieve in C++](https://dev.to/alicelee2735/sieve-of-eratosthenes-what-is-it-and-how-to-implement-sieve-in-c-3i70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
