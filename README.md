@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Wan 2.1: The AI Video Revolution That&#39;s Out of This World &lpar;But Still Runs on Your Computer&rpar;](https://dev.to/sayed_ali_alkamel/wan-21-the-ai-video-revolution-thats-out-of-this-world-but-still-runs-on-your-computer-2p4e)
 - [Time Travel Diaries: A Letter Across Time – A Deeper Dive as the Saga of AI Unfolds 🤖✨](https://dev.to/divya4879/time-travel-diaries-a-letter-across-time-a-deeper-dive-as-the-saga-of-ai-unfolds-5e3i)
 - [Callbacks vs Promises vs Async/Await: The Ultimate Guide to Asynchronous Javascript](https://dev.to/shubhamtiwari909/callbacks-vs-promises-vs-asyncawait-the-ultimate-guide-to-asynchronous-javascript-1j5n)
 - [Migrating from Express.js to Encore.ts for 9x Performance using Cursor](https://dev.to/encore/migrating-from-expressjs-to-encorets-for-9x-performance-using-cursor-ai-23h8)
 - [How to Easily Add Internationalization &lpar;i18n&rpar; to Your New Software Project](https://dev.to/adrai/how-to-easily-add-internationalization-i18n-to-your-new-software-project-4da)
-- [How Bugs Travel: The Complete Bug Life Cycle in Software Testing](https://dev.to/calderbughunter/how-bugs-travel-the-complete-bug-life-cycle-in-software-testing-202b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
