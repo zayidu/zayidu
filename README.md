@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome button effects with tailwind CSS](https://dev.to/shubhamtiwari909/awesome-button-effects-with-tailwind-css-27a8)
-- [Is this the next step in the evolution of front end dev?](https://dev.to/whitep4nth3r/is-this-the-next-step-in-the-evolution-of-front-end-dev-32en)
-- [Struggling with Coding Assignments? Get Expert Programming Homework Help Today!](https://dev.to/tarunfulera/struggling-with-coding-assignments-get-expert-programming-homework-help-today-1e7i)
-- [Sharing a Minecraft Server Running on Localhost with Friends Using Pinggy](https://dev.to/lightningdev123/sharing-a-minecraft-server-running-on-localhost-with-friends-using-pinggy-dai)
-- [Fine-tuning a Foundation Model for a Specific Task with Vertex AI](https://dev.to/ifihan/fine-tuning-a-foundation-model-for-a-specific-task-with-vertex-ai-1mkc)
+- [How to Prevent Your Supabase Project Database from Being Paused Using GitHub Actions](https://dev.to/jps27cse/how-to-prevent-your-supabase-project-database-from-being-paused-using-github-actions-3hel)
+- [🚀 Your Daily Crypto Job Digest For 03 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-march-4mh3)
+- [Technical Guide: Syncing Ingress Resources from various Virtual Cluster on GKE with vCluster](https://dev.to/loft/technical-guide-syncing-ingress-resources-from-various-vcluster-on-gke-with-vcluster-3c56)
+- [How Hopthru powers real-time transit analytics from a 1 TB table](https://dev.to/timescale/how-hopthru-powers-real-time-transit-analytics-from-a-1-tb-table-3o8n)
+- [Meme Monday](https://dev.to/ben/meme-monday-5646)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
