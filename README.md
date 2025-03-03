@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Pengenalan Flutter: Dasar, State Management, dan Contoh Kode 🎯](https://dev.to/joenathandevid/pengenalan-flutter-dasar-state-management-dan-contoh-kode-1lge)
-- [7 Leadership Traits Every Great Tech Leader Must Possess](https://dev.to/devcorner/7-leadership-traits-every-great-tech-leader-must-possess-5b23)
-- [What are your Goals for the week? #116.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-116-496b)
-- [FlexHired - Your Remote Career Starts Here](https://dev.to/flexhired/flexhired-your-remote-career-starts-here-4om7)
-- [Remoto é bom e pode melhorar!](https://dev.to/noriller/remoto-e-bom-e-pode-melhorar-1ja4)
+- [🚀 Why I Started Learning Automation &amp; DevOps](https://dev.to/sruthi177/why-i-started-learning-automation-devops-5130)
+- [Unlocking Success: Essential Software Development Best Practices for 2025](https://dev.to/jetthoughts/unlocking-success-essential-software-development-best-practices-for-2025-1n2i)
+- [Tools404: Essential Web Dev Tools in One Place](https://dev.to/jafludo/tools404-essential-web-dev-tools-in-one-place-2f5n)
+- [Leetcode - 36. Valid Sudoku](https://dev.to/rakeshreddy512/leetcode-36-valid-sudoku-1nbl)
+- [My notes and resources about the process of fine-tuning a Mistral model,](https://dev.to/zeedu_dev/my-notes-and-resources-about-the-process-of-fine-tuning-a-mistral-model-2bg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
