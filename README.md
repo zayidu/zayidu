@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10 Best Full-Stack &lpar;MERN&rpar; Techniques to Skyrocket Your Productivity 🚀](https://dev.to/er-raj-aryan/10-best-full-stack-mern-techniques-to-skyrocket-your-productivity-594a)
-- [Inside Out, Outside In: Our Topsy-Turvy Tech World](https://dev.to/gambhirsamarth/inside-out-outside-in-our-topsy-turvy-tech-world-3aj0)
-- [Mental Health and Developer Burnout: The Silent Struggle](https://dev.to/matemiller/mental-health-and-developer-burnout-the-silent-struggle-2h6b)
-- [What is NAS? Does NAS Need a WAF?](https://dev.to/carrie_luo1/what-is-nas-does-nas-need-a-waf-5jh)
-- [Power Platform - Moving All Flows to Dataverse](https://dev.to/wyattdave/power-platform-moving-all-flows-to-dataverse-321)
+- [Time Travel Diaries: A Letter Across Time – A Deeper Dive as the Saga of AI Unfolds 🤖✨](https://dev.to/divya4879/time-travel-diaries-a-letter-across-time-a-deeper-dive-as-the-saga-of-ai-unfolds-5e3i)
+- [Callbacks vs Promises vs Async/Await: The Ultimate Guide to Asynchronous Javascript](https://dev.to/shubhamtiwari909/callbacks-vs-promises-vs-asyncawait-the-ultimate-guide-to-asynchronous-javascript-1j5n)
+- [Migrating from Express.js to Encore.ts for 9x Performance using Cursor](https://dev.to/encore/migrating-from-expressjs-to-encorets-for-9x-performance-using-cursor-ai-23h8)
+- [How to Easily Add Internationalization &lpar;i18n&rpar; to Your New Software Project](https://dev.to/adrai/how-to-easily-add-internationalization-i18n-to-your-new-software-project-4da)
+- [How Bugs Travel: The Complete Bug Life Cycle in Software Testing](https://dev.to/calderbughunter/how-bugs-travel-the-complete-bug-life-cycle-in-software-testing-202b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
