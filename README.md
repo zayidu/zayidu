@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring with Polymorphism: Say Goodbye to Complex Conditionals](https://dev.to/pathus90/refactoring-with-polymorphism-say-goodbye-to-complex-conditionals-50o9)
-- [Implementing Multi-Tenancy in DynamoDB with Python](https://dev.to/dm8ry/implementing-multi-tenancy-in-dynamodb-with-python-4c54)
-- [AWS Cloud Path Week 8 - Completing AWS 101 Workshop with CDK](https://dev.to/aws-builders/aws-cloud-path-week-8-completing-aws-101-workshop-with-cdk-4j4i)
-- [How I Built a Cloud Startup When Everyone Said It Was Impossible](https://dev.to/nidasahar/how-i-built-a-cloud-startup-when-everyone-said-it-was-impossible-21la)
-- [Breaking the Misconception: A Quality Engineer Is Not Just &quot;Clicking Buttons&quot;](https://dev.to/s_chathuranga_j/breaking-the-misconception-a-quality-engineer-is-not-just-clicking-buttons-22hm)
+- [The Rise of Self-Healing Software Systems](https://dev.to/kartikmehta8/the-rise-of-self-healing-software-systems-3gf8)
+- [Overview：&quot;Agent Commerce Protocol: Enabling Autonomous Businesses&quot;](https://dev.to/foxgem/overviewagent-commerce-protocol-enabling-autonomous-businesses-33ap)
+- [Tipos de Índices no SQL: B-Tree, Hash, GiST, GIN e BRIN](https://dev.to/mrskin_/tipos-de-indices-no-sql-b-tree-hash-gist-gin-e-brin-4hge)
+- [How To Mount an Amazon Elastic File System on Amazon CodeBuild From Another VPC](https://dev.to/matheusdasmerces/how-to-mount-an-amazon-elastic-file-system-on-amazon-codebuild-from-another-vpc-b1j)
+- [Automating Node.js Documentation with Swagger](https://dev.to/yugjadvani/automating-nodejs-documentation-with-swagger-3o0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
