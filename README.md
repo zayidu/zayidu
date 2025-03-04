@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multithreading, Concurrency: A Deep Dive with JavaScript](https://dev.to/rahulvijayvergiya/multithreading-concurrency-a-deep-dive-with-javascript-1gkp)
-- [Creating Custom, Reusable Animations in Flutter That Don&#39;t Kill Performance](https://dev.to/shanu-kumawat/creating-custom-reusable-animations-in-flutter-that-dont-kill-performance-3c7)
-- [The Future of Independent Games: Trends and New Technologies](https://dev.to/raiden_studio/the-future-of-independent-games-trends-and-new-technologies-2hh9)
-- [What are Problem Solving Agents](https://dev.to/e77/what-are-problem-solving-agents-697)
-- [Understanding Referral &amp; Bonus Systems in Web3 Platforms](https://dev.to/andylarkin677/understanding-referral-bonus-systems-in-web3-platforms-311)
+- [Install Custom CA certs in EKS worker nodes through user data](https://dev.to/mohan023/install-custom-ca-certs-in-eks-worker-nodes-through-user-data-1763)
+- [PostgreSQL Extensions: Using PostGIS for Geospatial and Time-Series Data](https://dev.to/timescale/postgresql-extensions-using-postgis-for-geospatial-and-time-series-data-ja5)
+- [How Machine Learning, Deep Learning, and AI Handle Data Differently](https://dev.to/rubis/how-machine-learning-deep-learning-and-ai-handle-data-differently-37ph)
+- [Leveraging Mock Service Workers for NestJS e2e tests](https://dev.to/thiagomini/leveraging-mock-service-workers-for-nestjs-e2e-tests-39ih)
+- [What Are the Key DevOps Security Best Practices to Follow?](https://dev.to/harman_diaz/what-are-the-key-devops-security-best-practices-to-follow-3d50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
