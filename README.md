@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On Guide: AWS S3 Lifecycle Management, EBS Volume, and Snapshot](https://dev.to/seyilufadejucyberservices/hands-on-guide-aws-s3-lifecycle-management-ebs-volume-and-snapshot-1p8a)
-- [CFP Open - AI Native DevCon Spring Edition](https://dev.to/sammyhep/cfp-open-ai-native-devcon-spring-edition-529j)
-- [Conquering the Cloud: My Google Professional Cloud Architect Certification Journey &lpar;and Tips for Yours!&rpar;](https://dev.to/joegatto/conquering-the-cloud-my-google-professional-cloud-architect-certification-journey-and-tips-for-1kmk)
-- [Driving Smarter Decisions: Using Share Price APIs for Data-Driven Marketing](https://dev.to/williamsmithh/driving-smarter-decisions-using-share-price-apis-for-data-driven-marketing-35mp)
-- [How to Post on Hacker News Without Getting Flagged or Ignored](https://dev.to/developuls/how-to-post-on-hacker-news-without-getting-flagged-or-ignored-2eaf)
+- [Enhancing Open Source Visibility with License-Token](https://dev.to/jennythomas498/enhancing-open-source-visibility-with-license-token-2f32)
+- [Year of the Snake 🐍](https://dev.to/richolive/year-of-the-snake-4nhp)
+- [What Are the Steps to Install Golang on Macos in 2025?](https://dev.to/cristianalex_17/what-are-the-steps-to-install-golang-on-macos-in-2025-1fjg)
+- [Building a Production-Ready To-Do API with FastAPI](https://dev.to/m_muhd8/building-a-production-ready-to-do-api-with-fastapi-33om)
+- [AWS Outposts: Lleva la nube de AWS a tu centro de datos](https://dev.to/briansuarezsantiago/aws-outposts-lleva-la-nube-de-aws-a-tu-centro-de-datos-1clo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
