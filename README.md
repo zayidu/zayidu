@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React useCallback: When and how to use it for better performance](https://dev.to/logrocket/react-usecallback-2o8i)
-- [Unit Testing vs. End-to-End Testing: Understanding the Differences](https://dev.to/keploy/unit-testing-vs-end-to-end-testing-understanding-the-differences-5002)
-- [How to build an AI Chatbot Using Python and Gemini AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/uabdul106/how-to-build-an-ai-chatbot-using-python-and-gemini-ai-step-by-step-guide-2lbc)
-- [Automating My Workflow with AI: A Web Engineer’s Journey](https://dev.to/kevinmeyvaert/automating-my-workflow-with-ai-a-web-engineers-journey-4apb)
-- [Faraday Enclosures for Novices: What You Must Learn](https://dev.to/faraday-cages67/faraday-enclosures-for-novices-what-you-must-learn-50hi)
+- [Building a Redis-Powered Node.js Application: A Step-by-Step Guide](https://dev.to/fredabod/building-a-redis-powered-nodejs-application-a-step-by-step-guide-4jeb)
+- [AI in Web Solutions: Transforming the Future of Online Experiences](https://dev.to/luk_rauf/ai-in-web-solutions-transforming-the-future-of-online-experiences-3nfb)
+- [&quot;A lot of developers found this useful &lpar;17K+ views!&rpar;. Boosting it to help more devs who might benefit. If you find it insightful, let me know! 🚀](https://dev.to/nikhil_nareddula_/-150j)
+- [Gitcoin: Pioneering Open Source Innovation](https://dev.to/jennythomas498/gitcoin-pioneering-open-source-innovation-k7k)
+- [Behavior-Driven Development &lpar;BDD&rpar; in JavaScript: A Complete Guide](https://dev.to/keploy/behavior-driven-development-bdd-in-javascript-a-complete-guide-287p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
