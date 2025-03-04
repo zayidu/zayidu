@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building BlackJack Uno: A Fun Way to Learn JavaScript](https://dev.to/beanboi64/building-blackjack-uno-a-fun-way-to-learn-javascript-2p9g)
-- [Deploying Canvas LMS on Kubernetes: Unlocking Full Control, LTI 1.3 for Developers &amp; Educators](https://dev.to/adeyemi_aina_b48e323922d9/deploying-canvas-lms-on-kubernetes-unlocking-full-control-lti-13-for-developers-educators-3llb)
-- [Integrating sg-autocomplete Component](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-autocomplete-component-3m58)
-- [Developer Diary #27. AI Trap](https://dev.to/kiolk/developer-diary-27-ai-trap-162j)
-- [SEO-Driven Structure: Creating Web Pages Which Rank and Engage](https://dev.to/webdesigner15/seo-driven-structure-creating-web-pages-which-rank-and-engage-3ec5)
+- [AI-Powered Code Generation: Opportunities and Risks](https://dev.to/kartikmehta8/ai-powered-code-generation-opportunities-and-risks-190f)
+- [We got computer Models for Physics... Devs](https://dev.to/pen2iotchaote/we-got-computer-models-for-physics-devs-29ak)
+- [Why Choose MERN Stack to Build Your Website?](https://dev.to/himanshu789092/why-choose-mern-stack-to-build-your-website-425h)
+- [🚀 React vs. Vue vs. Angular – Choosing the Right Front-End Framework](https://dev.to/erasmuskotoka/react-vs-vue-vs-angular-choosing-the-right-front-end-framework-3604)
+- [How to Create a Resource Group in Microsoft Azure.](https://dev.to/sammyug7/how-to-create-a-resource-group-in-microsoft-azure-7jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
