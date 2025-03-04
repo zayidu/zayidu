@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform for Beginners: Writing Your First Infrastructure Code](https://dev.to/yash_sonawane25/terraform-for-beginners-writing-your-first-infrastructure-code-2mp4)
+- [10 Best Chrome Extensions for Web Developers You Need to Try](https://dev.to/web_dev-usman/10-best-chrome-extensions-for-web-developers-you-need-to-try-343e)
+- [Struggling to keep up with new technologies? 🚀 Developers face info overload, time constraints &amp; imposter syndrome. Learn how to stay ahead without feeling overwhelmed! Read our latest blog &amp; boost your learning journey! #DevCommunity #LearningTech](https://dev.to/pratham_naik_project_manager/struggling-to-keep-up-with-new-technologies-developers-face-info-overload-time-constraints--13fd)
+- [Why Do Developers Struggle with Learning New Technologies? Overcoming the Challenge](https://dev.to/pratham_naik_project_manager/why-do-developers-struggle-with-learning-new-technologies-overcoming-the-challenge-8m5)
 - [Struggling with team collaboration? Miscommunication, code conflicts, and unclear documentation slow developers down. Learn how to overcome these challenges and boost teamwork efficiency. Read more in our latest blog! 🚀 #DevCommunity #Collaboration](https://dev.to/pratham_naik_project_manager/struggling-with-team-collaboration-miscommunication-code-conflicts-and-unclear-documentation-3clc)
-- [Why Do Developers Struggle with Collaboration? Common Challenges &amp; Solutions](https://dev.to/pratham_naik_project_manager/why-do-developers-struggle-with-collaboration-common-challenges-solutions-2e74)
-- [Exploring the Power of Ruby on Rails](https://dev.to/million_formula_3be3d915d/exploring-the-power-of-ruby-on-rails-c56)
-- [Introduction](https://dev.to/rachellovestowrite/introduction-2j1o)
-- [Understanding The Difference Between Caret&lpar;^&rpar; and Tilde&lpar;~&rpar; In Your React or Node Project](https://dev.to/sohillalakiya/understanding-the-difference-between-caret-and-tilde-in-your-react-or-node-project-23ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
