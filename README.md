@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A step-by-step guide to setting up SSH authentication with YubiKey 5.7 or later version and ED25519-SK keys on Windows 11.](https://dev.to/uyriq/a-step-by-step-guide-to-setting-up-ssh-authentication-with-yubikey-57-or-later-version-and-2ll9)
-- [What is CompTIA Security+ Certification? A Comprehensive Guide](https://dev.to/skillboosttrainer/what-is-comptia-security-certification-a-comprehensive-guide-2pfl)
-- [Common Ground: A Framework for Human-AI Collaboration](https://dev.to/matfrana/common-ground-a-framework-for-human-ai-collaboration-516l)
-- [HAProxy Ingress Controller Kubernetes: Installation, Configuration, Best Practices](https://dev.to/alakkadshaw/haproxy-ingress-controller-kubernetes-installation-configuration-best-practices-2kco)
-- [HAProxy Ingress Controller Kubernetes: Installation, Configuration, Best Practices](https://dev.to/alakkadshaw/haproxy-ingress-controller-kubernetes-installation-configuration-best-practices-2b67)
+- [Xargs: The Secret Weapon for Building Efficient Command Pipelines](https://dev.to/karandaid/xargs-the-secret-weapon-for-building-efficient-command-pipelines-168n)
+- [Identity and Access Management &lpar;IAM&rpar;: A Deep Dive in AWS Resources](https://dev.to/roxane_fischer_79570c1b5b/identity-and-access-management-iam-a-deep-dive-in-aws-resources-1d7k)
+- [[Boost]](https://dev.to/jay818/-3nfd)
+- [Personalizando o Swagger UI no Spring Boot: Como Aplicar um Tema Dark](https://dev.to/tauisilva/personalizando-o-swagger-ui-no-spring-boot-como-aplicar-um-tema-escuro-22b7)
+- [Empowering Open Source: The License-Token Revolution](https://dev.to/laetitiaperraut/empowering-open-source-the-license-token-revolution-5bkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
