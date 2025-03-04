@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Xargs: The Secret Weapon for Building Efficient Command Pipelines](https://dev.to/karandaid/xargs-the-secret-weapon-for-building-efficient-command-pipelines-168n)
-- [Identity and Access Management &lpar;IAM&rpar;: A Deep Dive in AWS Resources](https://dev.to/roxane_fischer_79570c1b5b/identity-and-access-management-iam-a-deep-dive-in-aws-resources-1d7k)
-- [[Boost]](https://dev.to/jay818/-3nfd)
-- [Personalizando o Swagger UI no Spring Boot: Como Aplicar um Tema Dark](https://dev.to/tauisilva/personalizando-o-swagger-ui-no-spring-boot-como-aplicar-um-tema-escuro-22b7)
-- [Empowering Open Source: The License-Token Revolution](https://dev.to/laetitiaperraut/empowering-open-source-the-license-token-revolution-5bkd)
+- [Hands-On Guide: AWS S3 Lifecycle Management, EBS Volume, and Snapshot](https://dev.to/seyilufadejucyberservices/hands-on-guide-aws-s3-lifecycle-management-ebs-volume-and-snapshot-1p8a)
+- [CFP Open - AI Native DevCon Spring Edition](https://dev.to/sammyhep/cfp-open-ai-native-devcon-spring-edition-529j)
+- [Conquering the Cloud: My Google Professional Cloud Architect Certification Journey &lpar;and Tips for Yours!&rpar;](https://dev.to/joegatto/conquering-the-cloud-my-google-professional-cloud-architect-certification-journey-and-tips-for-1kmk)
+- [Driving Smarter Decisions: Using Share Price APIs for Data-Driven Marketing](https://dev.to/williamsmithh/driving-smarter-decisions-using-share-price-apis-for-data-driven-marketing-35mp)
+- [How to Post on Hacker News Without Getting Flagged or Ignored](https://dev.to/developuls/how-to-post-on-hacker-news-without-getting-flagged-or-ignored-2eaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
