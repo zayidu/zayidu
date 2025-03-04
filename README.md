@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Feather Wand: Your AI-Powered Companion for JMeter](https://dev.to/qainsights/introducing-feather-wand-your-ai-powered-companion-for-jmeter-2774)
-- [Is This the AI Breakthrough That Changes Everything?](https://dev.to/shahstavan/is-this-the-ai-breakthrough-that-changes-everything-4599)
-- [From Overwhelm to Action: The 2-Minute Solution](https://dev.to/wraith/from-overwhelm-to-action-the-2-minute-solution-10lj)
-- [POINT | Hackathon Winner | Most Creative Track | TechNYU](https://dev.to/poetryofcode/point-hackathon-winner-most-creative-track-technyu-3j9b)
-- [Implementing Cisco Advanced Call Control and Mobility Services &lpar;CLACCM&rpar; v1.0](https://dev.to/skillboosttrainer/implementing-cisco-advanced-call-control-and-mobility-services-claccm-v10-aah)
+- [A step-by-step guide to setting up SSH authentication with YubiKey 5.7 or later version and ED25519-SK keys on Windows 11.](https://dev.to/uyriq/a-step-by-step-guide-to-setting-up-ssh-authentication-with-yubikey-57-or-later-version-and-2ll9)
+- [What is CompTIA Security+ Certification? A Comprehensive Guide](https://dev.to/skillboosttrainer/what-is-comptia-security-certification-a-comprehensive-guide-2pfl)
+- [Common Ground: A Framework for Human-AI Collaboration](https://dev.to/matfrana/common-ground-a-framework-for-human-ai-collaboration-516l)
+- [HAProxy Ingress Controller Kubernetes: Installation, Configuration, Best Practices](https://dev.to/alakkadshaw/haproxy-ingress-controller-kubernetes-installation-configuration-best-practices-2kco)
+- [HAProxy Ingress Controller Kubernetes: Installation, Configuration, Best Practices](https://dev.to/alakkadshaw/haproxy-ingress-controller-kubernetes-installation-configuration-best-practices-2b67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
