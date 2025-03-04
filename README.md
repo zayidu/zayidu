@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI and Its Cost: A Comprehensive Overview](https://dev.to/vedanti_0373509c1fe87fdb0/generative-ai-and-its-cost-a-comprehensive-overview-3a7l)
-- [How to Build a SANE Backend as a Virtual Scanner for Linux](https://dev.to/yushulx/how-to-build-a-sane-backend-as-a-virtual-scanner-for-linux-1a71)
-- [Supercharge Your Projects: Must-Have JavaScript Plugins for Developers 🚀](https://dev.to/dct_technologyprivatelimited/supercharge-your-projects-must-have-javascript-plugins-for-developers-4gf5)
-- [Are You Using JSX Wrong in Next.js? Let’s Fix That Today! 🚀](https://dev.to/dct_technologyprivatelimited/are-you-using-jsx-wrong-in-nextjs-lets-fix-that-today-54i)
-- [Terraform for Beginners: Writing Your First Infrastructure Code](https://dev.to/yash_sonawane25/terraform-for-beginners-writing-your-first-infrastructure-code-2mp4)
+- [Why I Choose to Use a Chinese WAF?](https://dev.to/carrie_luo1/why-i-choose-to-use-a-chinese-waf-3e1m)
+- [Cypress - Automating SSO Login with Multi-Factor Authentication using Mobile Authenticator App OTPs in Azure AD](https://dev.to/rohitshinde/cypress-automating-sso-login-with-multi-factor-authentication-using-mobile-authenticator-app-otps-9gm)
+- [Kubernetes Cost Optimization: Strategies for Maximum Efficiency &amp; Savings](https://dev.to/getambassador2024/kubernetes-cost-optimization-strategies-for-maximum-efficiency-savings-39oe)
+- [How to Build an AI SaaS Startup: A Step-by-Step Guide](https://dev.to/sharvin26/how-to-build-an-ai-saas-startup-a-step-by-step-guide-2oj6)
+- [Getting Started with Go: Hassle-Free Installation 🚀](https://dev.to/tavernetech/getting-started-with-go-hassle-free-installation-48bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
