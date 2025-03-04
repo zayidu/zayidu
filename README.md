@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Design Patterns: Practical Examples of Singleton, Factory, and Observer](https://dev.to/leandroveiga/mastering-c-design-patterns-practical-examples-of-singleton-factory-and-observer-36he)
-- [Cross-Stack RDS User Provisioning and Schema Migrations with AWS Lambda](https://dev.to/aws-builders/cross-stack-rds-user-provisioning-and-schema-migrations-with-aws-lambda-3p73)
-- [Simplify Laravel Migrations with Macros](https://dev.to/4rsim3r/simplify-laravel-migrations-with-macros-2pm0)
-- [How to Create a Local Kubernetes Cluster with Kind](https://dev.to/klaus82/how-to-create-a-local-kubernetes-cluster-with-kind-5bfj)
-- [Building Offline-First Web Apps with Zero Dependencies: A SRVRA-SYNC Tutorial](https://dev.to/sign/building-offline-first-web-apps-with-zero-dependencies-a-srvra-sync-tutorial-42ok)
+- [React useCallback: When and how to use it for better performance](https://dev.to/logrocket/react-usecallback-2o8i)
+- [Unit Testing vs. End-to-End Testing: Understanding the Differences](https://dev.to/keploy/unit-testing-vs-end-to-end-testing-understanding-the-differences-5002)
+- [How to build an AI Chatbot Using Python and Gemini AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/uabdul106/how-to-build-an-ai-chatbot-using-python-and-gemini-ai-step-by-step-guide-2lbc)
+- [Automating My Workflow with AI: A Web Engineer’s Journey](https://dev.to/kevinmeyvaert/automating-my-workflow-with-ai-a-web-engineers-journey-4apb)
+- [Faraday Enclosures for Novices: What You Must Learn](https://dev.to/faraday-cages67/faraday-enclosures-for-novices-what-you-must-learn-50hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
