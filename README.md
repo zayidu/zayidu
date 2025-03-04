@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Path of Exile 2 Loading Screen Freezes on Windows 11 24H2](https://dev.to/yawatasensei/fixing-path-of-exile-2-loading-screen-freezes-on-windows-11-24h2-24ep)
-- [AI](https://dev.to/sundongzi/ai-7b3)
-- [Search Space: Interview Problem Survey](https://dev.to/mehran_ghamaty/search-space-interview-problem-survey-1ibl)
-- [Auracast and multiple subgroups](https://dev.to/denladeside/auracast-and-multiple-subgroups-4im3)
-- [Explorando Técnicas de Prompting para Modelos de IA](https://dev.to/zorasantos/explorando-tecnicas-de-prompting-para-modelos-de-ia-5bfb)
+- [JS Question 1](https://dev.to/anjali_gurjar_dff81513867/js-question-1-4870)
+- [SQL](https://dev.to/anjali_gurjar_dff81513867/sql-39p0)
+- [MASTERING VIM – A DEVOPS ESSENTIAL!](https://dev.to/aws-builders/mastering-vim-a-devops-essential-5409)
+- [Kubernetes vs Docker Swarm: What are the practical differences?](https://dev.to/ruivalim/kubernetes-vs-docker-swarm-what-are-the-practical-differences-1hch)
+- [Kubernetes vs Docker Swarm: Qual a diferença na prática?](https://dev.to/ruivalim/kubernetes-vs-docker-swarm-qual-a-diferenca-na-pratica-398f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
