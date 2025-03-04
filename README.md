@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Choose to Use a Chinese WAF?](https://dev.to/carrie_luo1/why-i-choose-to-use-a-chinese-waf-3e1m)
-- [Cypress - Automating SSO Login with Multi-Factor Authentication using Mobile Authenticator App OTPs in Azure AD](https://dev.to/rohitshinde/cypress-automating-sso-login-with-multi-factor-authentication-using-mobile-authenticator-app-otps-9gm)
-- [Kubernetes Cost Optimization: Strategies for Maximum Efficiency &amp; Savings](https://dev.to/getambassador2024/kubernetes-cost-optimization-strategies-for-maximum-efficiency-savings-39oe)
-- [How to Build an AI SaaS Startup: A Step-by-Step Guide](https://dev.to/sharvin26/how-to-build-an-ai-saas-startup-a-step-by-step-guide-2oj6)
-- [Getting Started with Go: Hassle-Free Installation 🚀](https://dev.to/tavernetech/getting-started-with-go-hassle-free-installation-48bl)
+- [What are PDF.js Layers and How You Can Use them in Vue.js](https://dev.to/9haroon/what-are-pdfjs-layers-and-how-you-can-use-them-in-vuejs-1454)
+- [Unblock Omegle and Get Back to Chatting](https://dev.to/swiftproxy_residential/unblock-omegle-and-get-back-to-chatting-fop)
+- [Tools for QA Unveiling Debugging and Bug Reporting](https://dev.to/futureagi/tools-for-qa-unveiling-debugging-and-bug-reporting-9fh)
+- [10 VS Code Extensions That Will Instantly Boost Productivity](https://dev.to/rowsanali/10-vs-code-extensions-that-will-instantly-boost-productivity-1ehm)
+- [Prevent JWT Attacks in Laravel with Secure Coding Practices](https://dev.to/pentest_testing_corp/prevent-jwt-attacks-in-laravel-with-secure-coding-practices-50nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
