@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Code Generation: Opportunities and Risks](https://dev.to/kartikmehta8/ai-powered-code-generation-opportunities-and-risks-190f)
-- [We got computer Models for Physics... Devs](https://dev.to/pen2iotchaote/we-got-computer-models-for-physics-devs-29ak)
-- [Why Choose MERN Stack to Build Your Website?](https://dev.to/himanshu789092/why-choose-mern-stack-to-build-your-website-425h)
-- [🚀 React vs. Vue vs. Angular – Choosing the Right Front-End Framework](https://dev.to/erasmuskotoka/react-vs-vue-vs-angular-choosing-the-right-front-end-framework-3604)
-- [How to Create a Resource Group in Microsoft Azure.](https://dev.to/sammyug7/how-to-create-a-resource-group-in-microsoft-azure-7jo)
+- [Fixing Path of Exile 2 Loading Screen Freezes on Windows 11 24H2](https://dev.to/yawatasensei/fixing-path-of-exile-2-loading-screen-freezes-on-windows-11-24h2-24ep)
+- [AI](https://dev.to/sundongzi/ai-7b3)
+- [Search Space: Interview Problem Survey](https://dev.to/mehran_ghamaty/search-space-interview-problem-survey-1ibl)
+- [Auracast and multiple subgroups](https://dev.to/denladeside/auracast-and-multiple-subgroups-4im3)
+- [Explorando Técnicas de Prompting para Modelos de IA](https://dev.to/zorasantos/explorando-tecnicas-de-prompting-para-modelos-de-ia-5bfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
