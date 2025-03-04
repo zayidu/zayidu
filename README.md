@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate AI Art for Your Next Project – Free &amp; Fast!](https://dev.to/neurolov_ai_/generate-ai-art-for-your-next-project-free-fast-1dp2)
-- [How to Build Real-Time Analytics Systems with Go: A Complete Guide](https://dev.to/stellaacharoiro/how-to-build-real-time-analytics-systems-with-go-a-complete-guide-4hd0)
-- [7 Ways to Perfect Your Filament Table Filters](https://dev.to/dosenngoding/7-ways-to-perfect-your-filament-table-filters-46aa)
-- [3-Getting derivated values reactively - Building a Reactive System in TypeScript](https://dev.to/michaeljota/getting-derivated-values-reactively-building-a-reactive-system-in-typescript-4pg4)
-- [Partnerschaft für die Zukunft – CONNAMIX &amp; Julius Koch digitalisieren gemeinsam](https://dev.to/connamix/partnerschaft-fur-die-zukunft-connamix-julius-koch-digitalisieren-gemeinsam-55aa)
+- [Multithreading, Concurrency: A Deep Dive with JavaScript](https://dev.to/rahulvijayvergiya/multithreading-concurrency-a-deep-dive-with-javascript-1gkp)
+- [Creating Custom, Reusable Animations in Flutter That Don&#39;t Kill Performance](https://dev.to/shanu-kumawat/creating-custom-reusable-animations-in-flutter-that-dont-kill-performance-3c7)
+- [The Future of Independent Games: Trends and New Technologies](https://dev.to/raiden_studio/the-future-of-independent-games-trends-and-new-technologies-2hh9)
+- [What are Problem Solving Agents](https://dev.to/e77/what-are-problem-solving-agents-697)
+- [Understanding Referral &amp; Bonus Systems in Web3 Platforms](https://dev.to/andylarkin677/understanding-referral-bonus-systems-in-web3-platforms-311)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
