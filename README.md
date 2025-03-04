@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Intersite Connectivity in Azure: AZ-104 Lab 05 Review](https://dev.to/1suleyman/implementing-intersite-connectivity-in-azure-az-104-lab-05-review-ibb)
-- [Matrix Addition,Matrix Multipliction](https://dev.to/saravanan_477814b61087a66/matrix-additionmatrix-multipliction-4b2d)
-- [Building a Customer Support Portal with Strapi, GPT, and Next.js &lpar;Part 2&rpar;](https://dev.to/eunit/building-a-customer-support-portal-with-strapi-gpt-and-nextjs-part-2-3aia)
-- [Awesome AI Software Development Agents List!](https://dev.to/alesiasirotka/awesome-ai-software-development-agents-list-235l)
-- [Building a Customer Support Portal with Strapi, GPT, and Next.js &lpar;Part 1&rpar;](https://dev.to/eunit/building-a-customer-support-portal-with-strapi-gpt-and-nextjs-part-1-1b94)
+- [1780. Check if Number is a Sum of Powers of Three](https://dev.to/mdarifulhaque/1780-check-if-number-is-a-sum-of-powers-of-three-1mp9)
+- [Isolating AI Agents with DevContainer: A secure and scalable approach](https://dev.to/siddhantkcode/isolating-ai-agents-with-devcontainer-a-secure-and-scalable-approach-4hi4)
+- [Debugging Complex SQL Queries: A Structured Logging Approach](https://dev.to/djalilhebal/debugging-complex-sql-queries-a-structured-logging-approach-200m)
+- [The Essential Skills Every Computer Engineer Should Master Before Graduating](https://dev.to/augermora/the-essential-skills-every-computer-engineer-should-master-before-graduating-ihn)
+- [React - MERN Stack](https://dev.to/shaikr786/react-mern-stack-5fef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
