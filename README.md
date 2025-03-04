@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are PDF.js Layers and How You Can Use them in Vue.js](https://dev.to/9haroon/what-are-pdfjs-layers-and-how-you-can-use-them-in-vuejs-1454)
-- [Unblock Omegle and Get Back to Chatting](https://dev.to/swiftproxy_residential/unblock-omegle-and-get-back-to-chatting-fop)
-- [Tools for QA Unveiling Debugging and Bug Reporting](https://dev.to/futureagi/tools-for-qa-unveiling-debugging-and-bug-reporting-9fh)
-- [10 VS Code Extensions That Will Instantly Boost Productivity](https://dev.to/rowsanali/10-vs-code-extensions-that-will-instantly-boost-productivity-1ehm)
-- [Prevent JWT Attacks in Laravel with Secure Coding Practices](https://dev.to/pentest_testing_corp/prevent-jwt-attacks-in-laravel-with-secure-coding-practices-50nl)
+- [This Is Probably the Most Lightweight Columnar Storage Technology](https://dev.to/esproc_spl/this-is-probably-the-most-lightweight-columnar-storage-technology-1b0m)
+- [Critical Lesson for Web3 Developers](https://dev.to/klimd1389/critical-lesson-for-web3-developers-13hk)
+- [How to remove &quot;Surfaced with Azure OpenAI&quot; in Copilot Studio Agent Response](https://dev.to/ktskumar/how-to-remove-surfaced-with-azure-openai-in-copilot-studio-agent-response-4m8c)
+- [Laravel is perfect for SaaS](https://dev.to/kwnaidoo/laravel-is-perfect-for-saas-alf)
+- [Generative AI and Its Cost: A Comprehensive Overview](https://dev.to/vedanti_0373509c1fe87fdb0/generative-ai-and-its-cost-a-comprehensive-overview-39md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
