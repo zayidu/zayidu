@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Redis-Powered Node.js Application: A Step-by-Step Guide](https://dev.to/fredabod/building-a-redis-powered-nodejs-application-a-step-by-step-guide-4jeb)
-- [AI in Web Solutions: Transforming the Future of Online Experiences](https://dev.to/luk_rauf/ai-in-web-solutions-transforming-the-future-of-online-experiences-3nfb)
-- [&quot;A lot of developers found this useful &lpar;17K+ views!&rpar;. Boosting it to help more devs who might benefit. If you find it insightful, let me know! 🚀](https://dev.to/nikhil_nareddula_/-150j)
-- [Gitcoin: Pioneering Open Source Innovation](https://dev.to/jennythomas498/gitcoin-pioneering-open-source-innovation-k7k)
-- [Behavior-Driven Development &lpar;BDD&rpar; in JavaScript: A Complete Guide](https://dev.to/keploy/behavior-driven-development-bdd-in-javascript-a-complete-guide-287p)
+- [Implementing Intersite Connectivity in Azure: AZ-104 Lab 05 Review](https://dev.to/1suleyman/implementing-intersite-connectivity-in-azure-az-104-lab-05-review-ibb)
+- [Matrix Addition,Matrix Multipliction](https://dev.to/saravanan_477814b61087a66/matrix-additionmatrix-multipliction-4b2d)
+- [Building a Customer Support Portal with Strapi, GPT, and Next.js &lpar;Part 2&rpar;](https://dev.to/eunit/building-a-customer-support-portal-with-strapi-gpt-and-nextjs-part-2-3aia)
+- [Awesome AI Software Development Agents List!](https://dev.to/alesiasirotka/awesome-ai-software-development-agents-list-235l)
+- [Building a Customer Support Portal with Strapi, GPT, and Next.js &lpar;Part 1&rpar;](https://dev.to/eunit/building-a-customer-support-portal-with-strapi-gpt-and-nextjs-part-1-1b94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
