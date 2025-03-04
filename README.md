@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1780. Check if Number is a Sum of Powers of Three](https://dev.to/mdarifulhaque/1780-check-if-number-is-a-sum-of-powers-of-three-1mp9)
-- [Isolating AI Agents with DevContainer: A secure and scalable approach](https://dev.to/siddhantkcode/isolating-ai-agents-with-devcontainer-a-secure-and-scalable-approach-4hi4)
-- [Debugging Complex SQL Queries: A Structured Logging Approach](https://dev.to/djalilhebal/debugging-complex-sql-queries-a-structured-logging-approach-200m)
-- [The Essential Skills Every Computer Engineer Should Master Before Graduating](https://dev.to/augermora/the-essential-skills-every-computer-engineer-should-master-before-graduating-ihn)
-- [React - MERN Stack](https://dev.to/shaikr786/react-mern-stack-5fef)
+- [Introducing Feather Wand: Your AI-Powered Companion for JMeter](https://dev.to/qainsights/introducing-feather-wand-your-ai-powered-companion-for-jmeter-2774)
+- [Is This the AI Breakthrough That Changes Everything?](https://dev.to/shahstavan/is-this-the-ai-breakthrough-that-changes-everything-4599)
+- [From Overwhelm to Action: The 2-Minute Solution](https://dev.to/wraith/from-overwhelm-to-action-the-2-minute-solution-10lj)
+- [POINT | Hackathon Winner | Most Creative Track | TechNYU](https://dev.to/poetryofcode/point-hackathon-winner-most-creative-track-technyu-3j9b)
+- [Implementing Cisco Advanced Call Control and Mobility Services &lpar;CLACCM&rpar; v1.0](https://dev.to/skillboosttrainer/implementing-cisco-advanced-call-control-and-mobility-services-claccm-v10-aah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
