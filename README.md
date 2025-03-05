@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ippatev/-16bb)
-- [How to build an online store with Momen: No transaction fees, full customization](https://dev.to/momen_hq/how-to-build-an-online-store-with-momen-no-transaction-fees-full-customization-528g)
-- [Elon Musk and the Open Source Revolution: Pioneering a New Era of Innovation](https://dev.to/ashucommits/elon-musk-and-the-open-source-revolution-pioneering-a-new-era-of-innovation-497p)
-- [🎧🖥️React Remix: 4 Common Mistakes That Can Wreck Your Code + How to Keep the Vibes Smooth](https://dev.to/tatianarjo/react-remix-5-common-mistakes-that-can-wreck-your-code-how-to-keep-the-vibes-smooth-1bl1)
-- [Day 1113 : Turntables](https://dev.to/dwane/day-1113-turntables-1b91)
+- [SVG essentials. Introduction](https://dev.to/jsha/svg-essentials-introduction-54ch)
+- [Hands-On: How Companies Will Build Collaborative Agentic AI Workflows](https://dev.to/exploredataaiml/hands-on-how-companies-will-build-collaborative-agentic-ai-workflows-10dd)
+- [10 Best SEO Tools to Improve Your Website Ranking](https://dev.to/jagonya_website_e23ba8593/10-best-seo-tools-to-improve-your-website-ranking-d4a)
+- [UNDERSTANDING CLOUD SECURITY:Best Practices For Protecting Your Cloud.](https://dev.to/kayode_david_0f763081697c/understanding-cloud-securitybest-practices-for-protecting-your-cloud-1k4j)
+- [Virtualizing React](https://dev.to/rnnlnl/virtualizing-react-20fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
