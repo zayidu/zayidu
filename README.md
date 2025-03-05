@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jira Kanban Board 101: Workflow Management and Beyond](https://dev.to/viktoriiagolovtseva/jira-kanban-board-101-workflow-management-and-beyond-g7p)
-- [Elon Musk’s Open-Source Journey: A Catalyst for Innovation](https://dev.to/vanessamcdurban/elon-musks-open-source-journey-a-catalyst-for-innovation-2d34)
-- [Hibernate HQL builder](https://dev.to/hrgdavor/hibernate-hql-builder-55md)
-- [🚀 Build Your Own AI Content Factory: From One Idea to Ten Platforms Automatically](https://dev.to/guerra2fernando/build-your-own-ai-content-factory-from-one-idea-to-ten-platforms-automatically-44al)
-- [How to detect classes contained in ruby gems in Tailwind 4](https://dev.to/nejremeslnici/how-to-detect-classes-contained-in-ruby-gems-in-tailwind-4-14n6)
+- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
+- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
+- [Code Explanation: &quot;Repomix: Codebase Packaging for AI Consumption&quot;](https://dev.to/foxgem/code-explanation-repomix-codebase-packaging-for-ai-consumption-2g44)
+- [Day 1: Mastering Django, PostgreSQL &amp; SQL – My 20-Day Challenge Begins!](https://dev.to/techfixbyte/day-1-mastering-django-postgresql-sql-my-20-day-challenge-begins-d5m)
+- [A Julia game engine: Cruise](https://dev.to/geseey/a-julia-game-engine-cruise-3jph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
