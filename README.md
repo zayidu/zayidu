@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build your Solana sniper bot &lpar;2&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-2-18b)
-- [License-Token: Revolutionizing Open Source Licensing](https://dev.to/ahmmrizv9/license-token-revolutionizing-open-source-licensing-2p7e)
-- [Pt 2: Payload Form Builder Plugin - Custom Array Field](https://dev.to/mikecebul/pt-2-payload-form-builder-plugin-custom-array-field-23d2)
-- [Streamlining Routine ML Tasks with LangChain: A Hacker News Comment Analysis Example](https://dev.to/sangeetagarwal/streamlining-routine-ml-tasks-with-langchain-a-hacker-news-comment-analysis-example-22e9)
-- [Me ajudou muito](https://dev.to/paulopbi_/me-ajudou-muito-3n15)
+- [[Boost]](https://dev.to/ippatev/-16bb)
+- [How to build an online store with Momen: No transaction fees, full customization](https://dev.to/momen_hq/how-to-build-an-online-store-with-momen-no-transaction-fees-full-customization-528g)
+- [Elon Musk and the Open Source Revolution: Pioneering a New Era of Innovation](https://dev.to/ashucommits/elon-musk-and-the-open-source-revolution-pioneering-a-new-era-of-innovation-497p)
+- [🎧🖥️React Remix: 4 Common Mistakes That Can Wreck Your Code + How to Keep the Vibes Smooth](https://dev.to/tatianarjo/react-remix-5-common-mistakes-that-can-wreck-your-code-how-to-keep-the-vibes-smooth-1bl1)
+- [Day 1113 : Turntables](https://dev.to/dwane/day-1113-turntables-1b91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
