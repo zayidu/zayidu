@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Cisco Collaboration Core Technologies: A Guide for IT Professionals](https://dev.to/skillboosttrainer/mastering-cisco-collaboration-core-technologies-a-guide-for-it-professionals-jda)
-- [Open Source: A Goldmine for Indie Hackers – Unleashing Creativity and Collaboration](https://dev.to/zhangwei42/open-source-a-goldmine-for-indie-hackers-unleashing-creativity-and-collaboration-45kf)
-- [# Mastering JavaScript Interactive Maps: 10 Proven Techniques for Dynamic Web Visualizations](https://dev.to/aaravjoshi/-mastering-javascript-interactive-maps-10-proven-techniques-for-dynamic-web-visualizations-1f5b)
-- [Can we get a refund for a wrong recharge in Jio?vg](https://dev.to/tap_money_dc82a12493a3626/can-we-get-a-refund-for-a-wrong-recharge-in-jiovg-4hnh)
-- [Python Logical OR Operator Usage Explained](https://dev.to/lisw05/python-logical-or-operator-usage-explained-1h9b)
+- [AI in Personalizing Customer Experiences in 2025: The Future of Customer-Centric AI](https://dev.to/priyankapandey/ai-in-personalizing-customer-experiences-in-2025-the-future-of-customer-centric-ai-4oh)
+- [Writing a window manager in zig with xcb - part 1](https://dev.to/mortimertz/writing-a-window-manager-in-zig-with-xcb-4ife)
+- [Which Javascript Framework Should I Learn in 2025?](https://dev.to/theudemezue/which-javascript-framework-should-i-learn-in-2025-46p5)
+- [Navigating Open Source License Compliance in Blockchain Projects](https://dev.to/laetitiaperraut/navigating-open-source-license-compliance-in-blockchain-projects-fj7)
+- [Maximizing Software Quality: A Comprehensive Guide to Test Coverage](https://dev.to/keploy/maximizing-software-quality-a-comprehensive-guide-to-test-coverage-o70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
