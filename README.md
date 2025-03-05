@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncertain Number but Regular Column to Row Conversion — From SQL to SPL #7](https://dev.to/judith677/uncertain-number-but-regular-column-to-row-conversion-from-sql-to-spl-7-4bcn)
-- [SVG essentials. Introduction](https://dev.to/jsha/svg-essentials-introduction-54ch)
-- [Hands-On: How Companies Will Build Collaborative Agentic AI Workflows](https://dev.to/exploredataaiml/hands-on-how-companies-will-build-collaborative-agentic-ai-workflows-10dd)
-- [10 Best SEO Tools to Improve Your Website Ranking](https://dev.to/jagonya_website_e23ba8593/10-best-seo-tools-to-improve-your-website-ranking-d4a)
-- [UNDERSTANDING CLOUD SECURITY:Best Practices For Protecting Your Cloud.](https://dev.to/kayode_david_0f763081697c/understanding-cloud-securitybest-practices-for-protecting-your-cloud-1k4j)
+- [Developers face constant challenges—unclear tasks, context switching, and collaboration issues. The right project management tools can streamline workflows, improve focus, and boost productivity. Learn how to optimize your development process. Read now!](https://dev.to/pratham_naik_project_manager/developers-face-constant-challenges-unclear-tasks-context-switching-and-collaboration-issues-the-2hme)
+- [From Chaos to Clarity: How Developers Can Streamline Projects with the Right Management Tools](https://dev.to/pratham_naik_project_manager/from-chaos-to-clarity-how-developers-can-streamline-projects-with-the-right-management-tools-2b6k)
+- [CSS is Emotional: The Hidden Emotions of CSS Animations You Never Knew 🎭](https://dev.to/dct_technologyprivatelimited/css-is-emotional-the-hidden-emotions-of-css-animations-you-never-knew-541)
+- [The Best 100 Free UI/UX Resources for Every Designer &amp; Developer](https://dev.to/web_dev-usman/the-best-100-free-uiux-resources-for-every-designer-developer-1gnd)
+- [Developers face more than just coding challenges—debugging nightmares, imposter syndrome, work-life balance, and unclear project specs add to the struggle. Learn how to overcome these hidden hurdles! Read now! #DeveloperLife #CodingTips](https://dev.to/pratham_naik_project_manager/developers-face-more-than-just-coding-challenges-debugging-nightmares-imposter-syndrome-work-life-1fme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
