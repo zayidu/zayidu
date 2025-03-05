@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible vs Terraform: Which One Should You Learn First?](https://dev.to/yash_sonawane25/ansible-vs-terraform-which-one-should-you-learn-first-jmh)
-- [Workflow Scheduling Must-Know! The Four Core Trends You Can&#39;t Ignore in 2025](https://dev.to/chen_debra_3060b21d12b1b0/workflow-scheduling-must-know-the-four-core-trends-you-cant-ignore-in-2025-1b4e)
-- [Review Your Database Configuration Automatically](https://dev.to/metis/review-your-database-configuration-automatically-51b2)
-- [Wednesday Links - Edition 2025-03-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-03-05-2eeg)
-- [How to Choose the Right JavaScript Framework for Your Project?](https://dev.to/sidge/how-to-choose-the-right-javascript-framework-for-your-project-n0d)
+- [Mastering Cisco Collaboration Core Technologies: A Guide for IT Professionals](https://dev.to/skillboosttrainer/mastering-cisco-collaboration-core-technologies-a-guide-for-it-professionals-jda)
+- [Open Source: A Goldmine for Indie Hackers – Unleashing Creativity and Collaboration](https://dev.to/zhangwei42/open-source-a-goldmine-for-indie-hackers-unleashing-creativity-and-collaboration-45kf)
+- [# Mastering JavaScript Interactive Maps: 10 Proven Techniques for Dynamic Web Visualizations](https://dev.to/aaravjoshi/-mastering-javascript-interactive-maps-10-proven-techniques-for-dynamic-web-visualizations-1f5b)
+- [Can we get a refund for a wrong recharge in Jio?vg](https://dev.to/tap_money_dc82a12493a3626/can-we-get-a-refund-for-a-wrong-recharge-in-jiovg-4hnh)
+- [Python Logical OR Operator Usage Explained](https://dev.to/lisw05/python-logical-or-operator-usage-explained-1h9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
