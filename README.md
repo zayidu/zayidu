@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Open Source Visibility with License-Token](https://dev.to/jennythomas498/enhancing-open-source-visibility-with-license-token-2f32)
-- [Year of the Snake 🐍](https://dev.to/richolive/year-of-the-snake-4nhp)
-- [What Are the Steps to Install Golang on Macos in 2025?](https://dev.to/cristianalex_17/what-are-the-steps-to-install-golang-on-macos-in-2025-1fjg)
-- [Building a Production-Ready To-Do API with FastAPI](https://dev.to/m_muhd8/building-a-production-ready-to-do-api-with-fastapi-33om)
-- [AWS Outposts: Lleva la nube de AWS a tu centro de datos](https://dev.to/briansuarezsantiago/aws-outposts-lleva-la-nube-de-aws-a-tu-centro-de-datos-1clo)
+- [How to build your Solana sniper bot &lpar;2&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-2-18b)
+- [License-Token: Revolutionizing Open Source Licensing](https://dev.to/ahmmrizv9/license-token-revolutionizing-open-source-licensing-2p7e)
+- [Pt 2: Payload Form Builder Plugin - Custom Array Field](https://dev.to/mikecebul/pt-2-payload-form-builder-plugin-custom-array-field-23d2)
+- [Streamlining Routine ML Tasks with LangChain: A Hacker News Comment Analysis Example](https://dev.to/sangeetagarwal/streamlining-routine-ml-tasks-with-langchain-a-hacker-news-comment-analysis-example-22e9)
+- [Me ajudou muito](https://dev.to/paulopbi_/me-ajudou-muito-3n15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
