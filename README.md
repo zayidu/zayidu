@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Can JavaScript Be Used For App Development?](https://dev.to/theudemezue/can-javascript-be-used-for-app-development-2gji)
-- [Launching our new integration with OpenTelemetry](https://dev.to/causely/launching-our-new-integration-with-opentelemetry-5hi8)
-- [Why Did Windows Introduce PowerShell Instead of Upgrading CMD?](https://dev.to/aryan015/why-did-windows-introduce-powershell-instead-of-upgrading-cmd-2bl0)
-- [20+ developer-first companies hiring Developer Advocates, Product Engineers, Technical Writer, and more](https://dev.to/fmerian/20-developer-first-companies-hiring-developer-advocates-product-engineers-technical-writer-and-1fpe)
-- [Multi-Tenancy in Databases: Choosing the Right Approach for Your Application](https://dev.to/devcorner/multi-tenancy-in-databases-choosing-the-right-approach-for-your-application-51id)
+- [The Ultimate PHP Learning Guide: Essential Resources for Developers](https://dev.to/manan_raj_6289f257cd05087/the-ultimate-php-learning-guide-essential-resources-for-developers-448i)
+- [How to Check PC Specs without Logging into Windows 11?](https://dev.to/winsides/how-to-check-pc-specs-without-logging-into-windows-11-21cm)
+- [scale transition](https://dev.to/efo_perry_6bb399014d8915d/scale-transition-1i7m)
+- [How to Build a RAG Chatbot with LangChain, Milvus, Together AI Mixtral 8x7B Instruct v0.1, and OpenAI text-embedding-3-large](https://dev.to/zilliz/how-to-build-a-rag-chatbot-with-langchain-milvus-together-ai-mixtral-8x7b-instruct-v01-and-324l)
+- [Simplifique modais com os atributos experimentais &quot;command&quot; e &quot;commandfor&quot;](https://dev.to/brunoredes/simplifique-modais-com-os-atributos-experimentais-command-e-commandfor-3ahi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
