@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Visibility and Display Properties: A Developer&#39;s Guide](https://dev.to/arsalanmeee/mastering-css-visibility-and-display-properties-a-developers-guide-16cm)
-- [📄 Función para Paginación con Firestore y Angular 🔥🔥🔥](https://dev.to/cristian_arieta_7df932e5f/funcion-para-paginacion-con-firestore-y-angular-397c)
-- [[Boost]](https://dev.to/marielourdesleperlier/-ae0)
-- [Problema com CORS e WebSocket no Angular](https://dev.to/01chrystian/problema-com-cors-e-websocket-no-angular-16nn)
-- [Let&#39;s go guys! Who will win?](https://dev.to/pxlmastrxd/lets-go-guys-who-will-win-2ijk)
+- [Revolutionizing Search and Digital Interaction](https://dev.to/maaztechnologies/revolutionizing-search-and-digital-interaction-23j7)
+- [This One Script Saves Me 10+ Hours Weekly](https://dev.to/abubakersiddique761/this-one-script-saves-me-10-hours-weekly-1lo0)
+- [Automate Your Boring Tasks Now!](https://dev.to/resource_bunk_1077cab07da/automate-your-boring-tasks-now-443h)
+- [Python API Frameworks Ranked by Speed](https://dev.to/snappytuts/python-api-frameworks-ranked-by-speed-3lp7)
+- [What about ransomware🤔](https://dev.to/sandzisokunene/what-about-ransomware-4h80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
