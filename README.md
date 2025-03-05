@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Programming Languages for Mobile Game Development](https://dev.to/raiden_studio/best-programming-languages-for-mobile-game-development-1cgn)
-- [torch.compile vs torch.export](https://dev.to/minwook/pytorch-compile-vs-export-omc)
-- [The Rise of Bitcoin Ordinals: Opportunities and Challenges for Creators](https://dev.to/pooja_ultimez/the-rise-of-bitcoin-ordinals-opportunities-and-challenges-for-creators-72a)
-- [Static Factories: When Static Methods Shine &lpar;And Why They&#39;re Not Always Evil&rpar;](https://dev.to/cassioborgesmenezes/static-factories-when-static-methods-shine-and-why-theyre-not-always-evil-4gkk)
-- [🚀 Top 10 Unconventional Tools Every Developer Should Know! 🚀](https://dev.to/cryptosandy/top-10-unconventional-tools-every-developer-should-know-53gg)
+- [How to Develop a DeFi App: Key Features, Tech Stack, and Best Practices](https://dev.to/jude_maxwell_fe6a32b5a286/how-to-develop-a-defi-app-key-features-tech-stack-and-best-practices-1ii9)
+- [From “You will fail” to 15,000 GitHub stars: The story of Wasp, a &quot;Laravel for JS&quot; full-stack framework](https://dev.to/wasp/from-you-will-fail-to-15000-github-stars-the-story-of-wasp-a-laravel-for-js-full-stack-1fil)
+- [Navigating Open Source Licenses for Arbitrum Projects: A Comprehensive Guide](https://dev.to/jennythomas498/navigating-open-source-licenses-for-arbitrum-projects-a-comprehensive-guide-18kp)
+- [The Controversial Figure of Nathan Damigo: A Deep Dive into His Background](https://dev.to/lorim_jawa_e5b77aa68082e1/the-controversial-figure-of-nathan-damigo-a-deep-dive-into-his-background-1f9k)
+- [🚀 QueryLink v1.0.0: Simplify Your UI &amp; Data Integration](https://dev.to/gigaherz/querylink-v100-simplify-your-ui-data-integration-am1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
