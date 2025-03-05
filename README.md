@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop a DeFi App: Key Features, Tech Stack, and Best Practices](https://dev.to/jude_maxwell_fe6a32b5a286/how-to-develop-a-defi-app-key-features-tech-stack-and-best-practices-1ii9)
-- [From “You will fail” to 15,000 GitHub stars: The story of Wasp, a &quot;Laravel for JS&quot; full-stack framework](https://dev.to/wasp/from-you-will-fail-to-15000-github-stars-the-story-of-wasp-a-laravel-for-js-full-stack-1fil)
-- [Navigating Open Source Licenses for Arbitrum Projects: A Comprehensive Guide](https://dev.to/jennythomas498/navigating-open-source-licenses-for-arbitrum-projects-a-comprehensive-guide-18kp)
-- [The Controversial Figure of Nathan Damigo: A Deep Dive into His Background](https://dev.to/lorim_jawa_e5b77aa68082e1/the-controversial-figure-of-nathan-damigo-a-deep-dive-into-his-background-1f9k)
-- [🚀 QueryLink v1.0.0: Simplify Your UI &amp; Data Integration](https://dev.to/gigaherz/querylink-v100-simplify-your-ui-data-integration-am1)
+- [🚀 Vibe Coding is here—are we ready? 🤖 AI-powered coding tools like GitHub Copilot &amp; Claude Code are changing how we write software—faster builds, cleaner code, less hassle. But is this the future or a risky shortcut? Let&#39;s discuss! 👇](https://dev.to/johnschibelli/vibe-coding-is-here-are-we-ready-ai-powered-coding-tools-like-github-copilot-claude-code-are-1nc1)
+- [How to Create an Azure Compute Gallery and Capture the Image of a Virtual Machine Using the Azure Portal](https://dev.to/ibrahimbioabu/how-to-create-an-azure-compute-gallery-and-capture-the-image-of-a-virtual-machine-using-the-azure-1mgl)
+- [Writing and Reading NFC in Flutter | Comprehensive Guide](https://dev.to/anshikaila/writing-and-reading-nfc-in-flutter-comprehensive-guide-5570)
+- [Kubernetes vs Serverless: Cutting Through the Complexity for Stateless Success](https://dev.to/naveens16/kubernetes-vs-serverless-cutting-through-the-complexity-for-stateless-success-4ic0)
+- [System Throughput: A Deep Dive into Performance Metrics, Calculation, and Influencing Factors](https://dev.to/devcorner/system-throughput-a-deep-dive-into-performance-metrics-calculation-and-influencing-factors-254d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
