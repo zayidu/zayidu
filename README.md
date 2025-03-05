@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My 20-Day Challenge: Pushing Boundaries &amp; Leveling Up!](https://dev.to/techfixbyte/my-20-day-challenge-pushing-boundaries-leveling-up-f5g)
-- [25 minutes 👉 23 seconds， Data into an Oracle table — Apache SeaTunnel performance optimization](https://dev.to/seatunnel/25-minutes-23-seconds-data-into-an-oracle-table-apache-seatunnel-performance-optimization-i07)
-- [How to Revert a WordPress Multisite to a Single Site](https://dev.to/johnsmith244303/how-to-revert-a-wordpress-multisite-to-a-single-site-2opj)
-- [5G and Web Development: Boosting the Future of Digital Experience](https://dev.to/okoye_ndidiamaka_5e3b7d30/5g-and-web-development-boosting-the-future-of-digital-experience-l5b)
-- [Cybersecurity Education &amp; Training: Are We Doing Enough?](https://dev.to/aditya_tripathi_17ffee7f5/cybersecurity-education-training-are-we-doing-enough-3ehl)
+- [Writing Human-Readable Code: Best Practices for Clean &amp; Maintainable Code](https://dev.to/abhay_yt_52a8e72b213be229/writing-human-readable-code-best-practices-for-clean-maintainable-code-mmf)
+- [Motion Capture | Akira](https://dev.to/goh23/motion-capture-akira-kl1)
+- [Network Security Vs Application Security](https://dev.to/clouddefenseai/network-security-vs-application-security-gd)
+- [User-Agent Configuration in Puppeteer](https://dev.to/swiftproxy_residential/user-agent-configuration-in-puppeteer-4jfk)
+- [Setting Up a Rails 8 with Vite and Tailwind CSS 4](https://dev.to/yatish_me/setting-up-a-rails-8-with-vite-and-tailwind-css-4-4na5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
