@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SPO600: Lab 02](https://dev.to/amullagaliev/spo600-lab-02-38e8)
-- [Building a Secure User Activation System in Django](https://dev.to/ndourc/building-a-secure-user-activation-system-in-django-3nil)
-- [2579. Count Total Number of Colored Cells](https://dev.to/mdarifulhaque/2579-count-total-number-of-colored-cells-10ef)
-- [How to measure round-trip time &lpar;RTT&rpar; using cURL](https://dev.to/logrocket/how-to-measure-round-trip-time-rtt-using-curl-32og)
-- [Unlocking Efficiency: The Best Developer Tools for 2025](https://dev.to/jetthoughts/unlocking-efficiency-the-best-developer-tools-for-2025-3daa)
+- [Mastering CSS Visibility and Display Properties: A Developer&#39;s Guide](https://dev.to/arsalanmeee/mastering-css-visibility-and-display-properties-a-developers-guide-16cm)
+- [📄 Función para Paginación con Firestore y Angular 🔥🔥🔥](https://dev.to/cristian_arieta_7df932e5f/funcion-para-paginacion-con-firestore-y-angular-397c)
+- [[Boost]](https://dev.to/marielourdesleperlier/-ae0)
+- [Problema com CORS e WebSocket no Angular](https://dev.to/01chrystian/problema-com-cors-e-websocket-no-angular-16nn)
+- [Let&#39;s go guys! Who will win?](https://dev.to/pxlmastrxd/lets-go-guys-who-will-win-2ijk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
