@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Human-Readable Code: Best Practices for Clean &amp; Maintainable Code](https://dev.to/abhay_yt_52a8e72b213be229/writing-human-readable-code-best-practices-for-clean-maintainable-code-mmf)
-- [Motion Capture | Akira](https://dev.to/goh23/motion-capture-akira-kl1)
-- [Network Security Vs Application Security](https://dev.to/clouddefenseai/network-security-vs-application-security-gd)
-- [User-Agent Configuration in Puppeteer](https://dev.to/swiftproxy_residential/user-agent-configuration-in-puppeteer-4jfk)
-- [Setting Up a Rails 8 with Vite and Tailwind CSS 4](https://dev.to/yatish_me/setting-up-a-rails-8-with-vite-and-tailwind-css-4-4na5)
+- [Ansible vs Terraform: Which One Should You Learn First?](https://dev.to/yash_sonawane25/ansible-vs-terraform-which-one-should-you-learn-first-jmh)
+- [Workflow Scheduling Must-Know! The Four Core Trends You Can&#39;t Ignore in 2025](https://dev.to/chen_debra_3060b21d12b1b0/workflow-scheduling-must-know-the-four-core-trends-you-cant-ignore-in-2025-1b4e)
+- [Review Your Database Configuration Automatically](https://dev.to/metis/review-your-database-configuration-automatically-51b2)
+- [Wednesday Links - Edition 2025-03-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-03-05-2eeg)
+- [How to Choose the Right JavaScript Framework for Your Project?](https://dev.to/sidge/how-to-choose-the-right-javascript-framework-for-your-project-n0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
