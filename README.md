@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Personalizing Customer Experiences in 2025: The Future of Customer-Centric AI](https://dev.to/priyankapandey/ai-in-personalizing-customer-experiences-in-2025-the-future-of-customer-centric-ai-4oh)
-- [Writing a window manager in zig with xcb - part 1](https://dev.to/mortimertz/writing-a-window-manager-in-zig-with-xcb-4ife)
-- [Which Javascript Framework Should I Learn in 2025?](https://dev.to/theudemezue/which-javascript-framework-should-i-learn-in-2025-46p5)
-- [Navigating Open Source License Compliance in Blockchain Projects](https://dev.to/laetitiaperraut/navigating-open-source-license-compliance-in-blockchain-projects-fj7)
-- [Maximizing Software Quality: A Comprehensive Guide to Test Coverage](https://dev.to/keploy/maximizing-software-quality-a-comprehensive-guide-to-test-coverage-o70)
+- [Best Programming Languages for Mobile Game Development](https://dev.to/raiden_studio/best-programming-languages-for-mobile-game-development-1cgn)
+- [torch.compile vs torch.export](https://dev.to/minwook/pytorch-compile-vs-export-omc)
+- [The Rise of Bitcoin Ordinals: Opportunities and Challenges for Creators](https://dev.to/pooja_ultimez/the-rise-of-bitcoin-ordinals-opportunities-and-challenges-for-creators-72a)
+- [Static Factories: When Static Methods Shine &lpar;And Why They&#39;re Not Always Evil&rpar;](https://dev.to/cassioborgesmenezes/static-factories-when-static-methods-shine-and-why-theyre-not-always-evil-4gkk)
+- [🚀 Top 10 Unconventional Tools Every Developer Should Know! 🚀](https://dev.to/cryptosandy/top-10-unconventional-tools-every-developer-should-know-53gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
