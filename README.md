@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Not to Build a Ledger](https://dev.to/formance/how-not-to-build-a-ledger-cfg)
-- [Choosing a Drawing Device](https://dev.to/annavi11arrea1/choosing-a-drawing-device-dg0)
-- [Pattern Print](https://dev.to/anjali_gurjar_dff81513867/pattern-print-40k8)
-- [Turn Your Existing DevOps Pipeline Into an MLOps Pipeline](https://dev.to/engroso/turn-your-existing-devops-pipeline-into-an-mlops-pipeline-3hof)
-- [Building a reusable multi-step form with React Hook Form and Zod](https://dev.to/logrocket/building-a-reusable-multi-step-form-with-react-hook-form-and-zod-39lc)
+- [Can JavaScript Be Used For App Development?](https://dev.to/theudemezue/can-javascript-be-used-for-app-development-2gji)
+- [Launching our new integration with OpenTelemetry](https://dev.to/causely/launching-our-new-integration-with-opentelemetry-5hi8)
+- [Why Did Windows Introduce PowerShell Instead of Upgrading CMD?](https://dev.to/aryan015/why-did-windows-introduce-powershell-instead-of-upgrading-cmd-2bl0)
+- [20+ developer-first companies hiring Developer Advocates, Product Engineers, Technical Writer, and more](https://dev.to/fmerian/20-developer-first-companies-hiring-developer-advocates-product-engineers-technical-writer-and-1fpe)
+- [Multi-Tenancy in Databases: Choosing the Right Approach for Your Application](https://dev.to/devcorner/multi-tenancy-in-databases-choosing-the-right-approach-for-your-application-51id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
