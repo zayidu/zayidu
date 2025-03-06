@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Local AI Magic: DeepSeek and CodeGPT Empower Developers to Evolve Efficiently](https://dev.to/dheeraj-lee27/unlocking-local-ai-magic-deepseek-and-codegpt-empower-developers-to-evolve-efficiently-2bmn)
-- [LambdaTest vs. TestGrid: Which Cross-Browser Testing Platform Suits Your Needs?](https://dev.to/calderbughunter/lambdatest-vs-testgrid-which-cross-browser-testing-platform-suits-your-needs-bff)
-- [DEV Codes Together](https://dev.to/pxlmastrxd/dev-codes-together-16bh)
-- [My Journey as a Mentor in the &quot;Future AWS Community Builders Mentoring Series&quot;](https://dev.to/sanketsaxena/my-journey-as-a-mentor-in-the-future-aws-community-builders-mentoring-series-15go)
-- [10 Reasons Why You Need a Secure Video Streaming Server for Live Streaming](https://dev.to/livestreaming/10-reasons-why-you-need-a-secure-video-streaming-server-for-live-streaming-8pl)
+- [10 Git Commands You Probably Didn&#39;t Know &lpar;But Should!&rpar;](https://dev.to/ananiket/10-git-commands-you-probably-didnt-know-but-should-19cg)
+- [OSD700: Sprint 4 - Planning](https://dev.to/amullagaliev/osd700-sprint-4-planning-4ieb)
+- [Managing current user in Rails, our way - part 2](https://dev.to/janmpeterka/managing-current-user-in-rails-our-way-part-2-2if0)
+- [How to Install and Use NVM Globally on Your System](https://dev.to/srijan_karki/how-to-install-and-use-nvm-globally-on-your-system-586g)
+- [Tokenizing Open Source Licenses: Revolutionizing the Software Industry](https://dev.to/vitalisorenko/tokenizing-open-source-licenses-revolutionizing-the-software-industry-396)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
