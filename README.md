@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [鸿蒙NEXT开发案例：舒尔特方格](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-shu-er-te-fang-ge-4a1i)
+- [Introduction to Agile Framework](https://dev.to/madgan95/introduction-to-agile-framework-4p71)
+- [CSRF Issue in Postman with JWT Authentication](https://dev.to/khaled_abdelbar_43f8c0b1d/csrf-issue-in-postman-with-jwt-authentication-1117)
 - [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-e9e)
 - [Is PHP Front-End or Back-End?](https://dev.to/angelaswift/is-php-front-end-or-back-end-2hk4)
-- [[HELP] Looking for best practice in v-model binding a object](https://dev.to/xuyimingwork/help-looking-for-best-practice-in-v-model-binding-a-object-44l0)
-- [Start Test Automation: Step-by-Step Guide for Beginners](https://dev.to/testamplify/start-test-automation-step-by-step-guide-for-beginners-18l5)
-- [Unlocking Extra Storage: How to Create, Initialize, and Use a Data Disk on Your Azure VM](https://dev.to/sammyug7/unlocking-extra-storage-how-to-create-initialize-and-use-a-data-disk-on-your-azure-vm-3f7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
