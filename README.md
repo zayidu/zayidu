@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Git Commands You Probably Didn&#39;t Know &lpar;But Should!&rpar;](https://dev.to/ananiket/10-git-commands-you-probably-didnt-know-but-should-19cg)
-- [OSD700: Sprint 4 - Planning](https://dev.to/amullagaliev/osd700-sprint-4-planning-4ieb)
-- [Managing current user in Rails, our way - part 2](https://dev.to/janmpeterka/managing-current-user-in-rails-our-way-part-2-2if0)
-- [How to Install and Use NVM Globally on Your System](https://dev.to/srijan_karki/how-to-install-and-use-nvm-globally-on-your-system-586g)
-- [Tokenizing Open Source Licenses: Revolutionizing the Software Industry](https://dev.to/vitalisorenko/tokenizing-open-source-licenses-revolutionizing-the-software-industry-396)
+- [Tesla and Open Source Licensing: Elon Musk&#39;s Vision – A New Era in Innovation](https://dev.to/zhangwei42/tesla-and-open-source-licensing-elon-musks-vision-a-new-era-in-innovation-4k1c)
+- [Laravel vs Nodejs: Security Comparison for Web Applications](https://dev.to/vaishali2/laravel-vs-nodejs-security-comparison-for-web-applications-1bn5)
+- [Filtering Nested Data in Tanstack Table](https://dev.to/jumbo02/filtering-nested-data-in-tanstack-table-1011)
+- [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
+- [In 2025, we can and should simplify Web development](https://dev.to/greenersoft/in-2025-we-can-and-should-simplify-web-development-2m8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
