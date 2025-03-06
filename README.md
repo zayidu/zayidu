@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Laravel File Storage Retrieval in Minutes](https://dev.to/dosenngoding/master-laravel-file-storage-retrieval-in-minutes-4n3g)
-- [DeepSeek Completely Changed How We Use Google Zanzibar](https://dev.to/permit_io/deepseek-completely-changed-how-we-use-google-zanzibar-219l)
-- [How Does SLI Improve Multi-GPU Gaming Setups in Desktops?](https://dev.to/alice_carry_techie/how-does-sli-improve-multi-gpu-gaming-setups-in-desktops-ap7)
-- [AI Creates Stunning Videos with Perfect Camera Control Using 3D Consistency Breakthrough](https://dev.to/mikeyoung44/ai-creates-stunning-videos-with-perfect-camera-control-using-3d-consistency-breakthrough-cl0)
-- [AI Language Models Struggle to Read Scrambled Words, Unlike Humans](https://dev.to/mikeyoung44/ai-language-models-struggle-to-read-scrambled-words-unlike-humans-53g6)
+- [Unlocking Local AI Magic: DeepSeek and CodeGPT Empower Developers to Evolve Efficiently](https://dev.to/dheeraj-lee27/unlocking-local-ai-magic-deepseek-and-codegpt-empower-developers-to-evolve-efficiently-2bmn)
+- [LambdaTest vs. TestGrid: Which Cross-Browser Testing Platform Suits Your Needs?](https://dev.to/calderbughunter/lambdatest-vs-testgrid-which-cross-browser-testing-platform-suits-your-needs-bff)
+- [DEV Codes Together](https://dev.to/pxlmastrxd/dev-codes-together-16bh)
+- [My Journey as a Mentor in the &quot;Future AWS Community Builders Mentoring Series&quot;](https://dev.to/sanketsaxena/my-journey-as-a-mentor-in-the-future-aws-community-builders-mentoring-series-15go)
+- [10 Reasons Why You Need a Secure Video Streaming Server for Live Streaming](https://dev.to/livestreaming/10-reasons-why-you-need-a-secure-video-streaming-server-for-live-streaming-8pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
