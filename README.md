@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Machine Learning Algorithms Using Friedman Test and Critical Difference Diagrams in Python](https://dev.to/milenamonteiro/comparing-machine-learning-algorithms-using-friedman-test-and-critical-difference-diagrams-in-python-10a9)
-- [Dashboard Interativo de CVE&#39;s - AWS Inspector + Lambda + S3](https://dev.to/aws-builders/dashboard-interativo-de-cves-aws-inspector-lambda-s3-13k2)
-- [Meteor.js: FlowRouter packages update](https://dev.to/smart_egg/meteorjs-flowrouter-packages-update-4d1d)
-- [Discovering Project Lombok: Simplifying Java Development Through Open Source Innovation](https://dev.to/ashucommits/discovering-project-lombok-simplifying-java-development-through-open-source-innovation-36h5)
-- [My First Python Project : Terminal Wordle](https://dev.to/dgilson74/my-first-python-project-terminal-wordle-1e78)
+- [Unveiling the Success Behind Spring Security: Open Source Business Models, Funding, and Community](https://dev.to/bobcars/unveiling-the-success-behind-spring-security-open-source-business-models-funding-and-community-5f69)
+- [[Boost]](https://dev.to/arcanoix/-6e9)
+- [Chronology and Evolution of Angular through the Years - From v2 to v19](https://dev.to/windmateus/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19-4obc)
+- [From Template Troubles to Top 10: My 24-Hour Hackathon Journey](https://dev.to/47sathwik_sureshshetty_/from-template-troubles-to-top-10-my-24-hour-hackathon-journey-4bck)
+- [Big O Notation: Explicação Simples para Quem Não É Expert &lpar;Ainda!&rpar;](https://dev.to/pripoliveira50/big-o-notation-explicacao-simples-para-quem-nao-e-expert-ainda-1f1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
