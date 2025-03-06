@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Burn Your Web Stack: PostgreSQL Does It All](https://dev.to/lovestaco/burn-your-web-stack-postgresql-does-it-all-2h0p)
-- [Diving into bigdata](https://dev.to/grokker_f9bf83d79cb9beb6f/diving-into-bigdata-4n76)
-- [Google Chrome DevTools Introduces Advanced CLS Debugging Tool Enhancing Web Performance](https://dev.to/max_services/google-chrome-devtools-introduces-advanced-cls-debugging-tool-enhancing-web-performance-3pee)
-- [Destructuring of Props in React.js](https://dev.to/victoria_limadecarvalho/destructuring-of-props-in-reactjs-2a72)
-- [Revolutionizing IT Management with Infrastructure as Code](https://dev.to/max_services/revolutionizing-it-management-with-infrastructure-as-code-1i9o)
+- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
+- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
+- [Dear Mom, Your Kid Has a Lot to Say- Again-](https://dev.to/himanshit/dear-mom-your-kid-has-a-lot-to-say-again--36pp)
+- [grandprixbingo Update I](https://dev.to/varzac/grandprixbingo-update-i-3o3)
+- [Backend Dev vs. Frontend Dev: Who’s Really Suffering More?](https://dev.to/mrshelby0/backend-dev-vs-frontend-dev-whos-really-suffering-more-5a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
