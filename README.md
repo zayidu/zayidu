@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extracting Information from PDFs in Markdown Format with Mistral OCR](https://dev.to/evertontenorio/extracting-information-from-pdfs-in-markdown-format-with-mistral-ocr-314o)
-- [Introducing Vanicom.js: A Minimalist JavaScript Helper Library](https://dev.to/internet-no-namer/introducing-vanicomjs-a-minimalist-javascript-helper-library-62e)
-- [Exploring JUnit: A Model of Community, Innovation, and Sustainable Funding](https://dev.to/rachellovestowrite/exploring-junit-a-model-of-community-innovation-and-sustainable-funding-36nb)
-- [Authentication Best Practices: Convex, Clerk and Next.js](https://dev.to/convexchampions/authentication-best-practices-convex-clerk-and-nextjs-21ag)
-- [Blooming WeCoded Landing Page](https://dev.to/pinky057/blooming-wecoded-landing-page-9lo)
+- [Comparing Machine Learning Algorithms Using Friedman Test and Critical Difference Diagrams in Python](https://dev.to/milenamonteiro/comparing-machine-learning-algorithms-using-friedman-test-and-critical-difference-diagrams-in-python-10a9)
+- [Dashboard Interativo de CVE&#39;s - AWS Inspector + Lambda + S3](https://dev.to/aws-builders/dashboard-interativo-de-cves-aws-inspector-lambda-s3-13k2)
+- [Meteor.js: FlowRouter packages update](https://dev.to/smart_egg/meteorjs-flowrouter-packages-update-4d1d)
+- [Discovering Project Lombok: Simplifying Java Development Through Open Source Innovation](https://dev.to/ashucommits/discovering-project-lombok-simplifying-java-development-through-open-source-innovation-36h5)
+- [My First Python Project : Terminal Wordle](https://dev.to/dgilson74/my-first-python-project-terminal-wordle-1e78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
