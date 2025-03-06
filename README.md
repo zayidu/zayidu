@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of Tokenization for Sustainable Open Source Innovation](https://dev.to/bobcars/unleashing-the-power-of-tokenization-for-sustainable-open-source-innovation-30f9)
-- [Important Concept in Cloud Computing](https://dev.to/timilehin_olatunde_i/important-concept-in-cloud-computing-4bfl)
-- [Introduction to Storybook: A Guide for UI Development](https://dev.to/tene/introduction-to-storybook-a-guide-for-ui-development-2ddj)
-- [Shortcut Linking with AWS Identity Center SSO](https://dev.to/thesnups/shortcut-linking-with-aws-identity-center-sso-26j8)
-- [How Does Vue.js Compare to React and Angular for Front-end Development?](https://dev.to/jordankeurope/how-does-vuejs-compare-to-react-and-angular-for-front-end-development-47m9)
+- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-e9e)
+- [Is PHP Front-End or Back-End?](https://dev.to/angelaswift/is-php-front-end-or-back-end-2hk4)
+- [[HELP] Looking for best practice in v-model binding a object](https://dev.to/xuyimingwork/help-looking-for-best-practice-in-v-model-binding-a-object-44l0)
+- [Start Test Automation: Step-by-Step Guide for Beginners](https://dev.to/testamplify/start-test-automation-step-by-step-guide-for-beginners-18l5)
+- [Unlocking Extra Storage: How to Create, Initialize, and Use a Data Disk on Your Azure VM](https://dev.to/sammyug7/unlocking-extra-storage-how-to-create-initialize-and-use-a-data-disk-on-your-azure-vm-3f7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
