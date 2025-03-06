@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [inline imports FTW!](https://dev.to/paulbrowne/inline-imports-ftw-1o3e)
-- [Enforce CloudFront-Only Access for AWS API Gateway](https://dev.to/aws-builders/enforce-cloudfront-only-access-for-aws-api-gateway-1hdd)
-- [Manus: The AI Agent That&#39;s Breaking the Internet - Revolutionary Breakthrough or Marketing Masterpiece?](https://dev.to/shawn95618/manus-the-ai-agent-thats-breaking-the-internet-revolutionary-breakthrough-or-marketing-381a)
-- [Say Goodbye to JavaScript’s DST Date Confusion](https://dev.to/urin/say-goodbye-to-javascripts-dst-date-confusion-24mj)
-- [You Thought Your Job Was Safe from Automation? Bad News.](https://dev.to/softyflow/you-thought-your-job-was-safe-from-automation-bad-news-1nk)
+- [Build a Notion-like editor with Rails, part 2](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-part-2-45a2)
+- [How to Use Cmake to Manage Dependencies in My Project?](https://dev.to/nigelsilonero/how-to-use-cmake-to-manage-dependencies-in-my-project-4jp0)
+- [Design Patterns: Adapter](https://dev.to/nv3212/design-patterns-adapter-31il)
+- [The Glittering Climb: Decoding Gold Prices on March 6, 2025](https://dev.to/terjewilliamson/the-glittering-climb-decoding-gold-prices-on-march-6-2025-4i2b)
+- [Introducing Code Review Best Practices Repository](https://dev.to/teihenn/introducing-code-review-best-practices-repository-3cb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
