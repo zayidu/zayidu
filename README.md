@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
-- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
-- [Code Explanation: &quot;Repomix: Codebase Packaging for AI Consumption&quot;](https://dev.to/foxgem/code-explanation-repomix-codebase-packaging-for-ai-consumption-2g44)
-- [Day 1: Mastering Django, PostgreSQL &amp; SQL – My 20-Day Challenge Begins!](https://dev.to/techfixbyte/day-1-mastering-django-postgresql-sql-my-20-day-challenge-begins-d5m)
-- [A Julia game engine: Cruise](https://dev.to/geseey/a-julia-game-engine-cruise-3jph)
+- [Unleashing the Power of Tokenization for Sustainable Open Source Innovation](https://dev.to/bobcars/unleashing-the-power-of-tokenization-for-sustainable-open-source-innovation-30f9)
+- [Important Concept in Cloud Computing](https://dev.to/timilehin_olatunde_i/important-concept-in-cloud-computing-4bfl)
+- [Introduction to Storybook: A Guide for UI Development](https://dev.to/tene/introduction-to-storybook-a-guide-for-ui-development-2ddj)
+- [Shortcut Linking with AWS Identity Center SSO](https://dev.to/thesnups/shortcut-linking-with-aws-identity-center-sso-26j8)
+- [How Does Vue.js Compare to React and Angular for Front-end Development?](https://dev.to/jordankeurope/how-does-vuejs-compare-to-react-and-angular-for-front-end-development-47m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
