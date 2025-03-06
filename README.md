@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebAssembly on Kubernetes](https://dev.to/loft/webassembly-on-kubernetes-5bdb)
-- [10 Top Tools for Detecting AI Content](https://dev.to/blog-1/10-top-tools-for-detecting-ai-content-3bei)
-- [Clock Management for Xilinx 7 Series FPGAs](https://dev.to/carolineee/clock-management-for-xilinx-7-series-fpgas-1p6i)
-- [[Boost]](https://dev.to/darshan_rathod_dev/-2b90)
-- [Real-Time Knowledge Graphs for GenAI – Join Us at NVIDIA&#39;s AI Conference](https://dev.to/falkordb/real-time-knowledge-graphs-for-genai-join-us-at-nvidias-ai-conference-416b)
+- [Low Code/No Code &lpar;LCNC&rpar; Impact: Democratizing Web Development](https://dev.to/ciphernutz/low-codeno-code-lcnc-impact-democratizing-web-development-476p)
+- [Custom Snowflake Data Architecture: How Our Experts Tailor Solutions for Your Business](https://dev.to/smart_data_/custom-snowflake-data-architecture-how-our-experts-tailor-solutions-for-your-business-13mo)
+- [To set env variables using terminal for playwright](https://dev.to/midhunkrishnan/to-set-env-variables-using-terminal-for-playwright-32m0)
+- [Run AI Models Locally with Ollama: A Step-by-Step Guide to Installation, Deployment &amp; API Integration](https://dev.to/auden/run-ai-models-locally-with-ollama-a-step-by-step-guide-to-installation-deployment-api-2gp4)
+- [The easy way of using Service Workers in Nuxt.](https://dev.to/leamsigc/the-easy-way-of-using-service-workers-in-nuxt-5gd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
