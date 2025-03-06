@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Notion-like editor with Rails, part 2](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-part-2-45a2)
-- [How to Use Cmake to Manage Dependencies in My Project?](https://dev.to/nigelsilonero/how-to-use-cmake-to-manage-dependencies-in-my-project-4jp0)
-- [Design Patterns: Adapter](https://dev.to/nv3212/design-patterns-adapter-31il)
-- [The Glittering Climb: Decoding Gold Prices on March 6, 2025](https://dev.to/terjewilliamson/the-glittering-climb-decoding-gold-prices-on-march-6-2025-4i2b)
-- [Introducing Code Review Best Practices Repository](https://dev.to/teihenn/introducing-code-review-best-practices-repository-3cb4)
+- [Burn Your Web Stack: PostgreSQL Does It All](https://dev.to/lovestaco/burn-your-web-stack-postgresql-does-it-all-2h0p)
+- [Diving into bigdata](https://dev.to/grokker_f9bf83d79cb9beb6f/diving-into-bigdata-4n76)
+- [Google Chrome DevTools Introduces Advanced CLS Debugging Tool Enhancing Web Performance](https://dev.to/max_services/google-chrome-devtools-introduces-advanced-cls-debugging-tool-enhancing-web-performance-3pee)
+- [Destructuring of Props in React.js](https://dev.to/victoria_limadecarvalho/destructuring-of-props-in-reactjs-2a72)
+- [Revolutionizing IT Management with Infrastructure as Code](https://dev.to/max_services/revolutionizing-it-management-with-infrastructure-as-code-1i9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
