@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced WebRTC Python: Unleashing Real-Time Communication](https://dev.to/bhavyajain/advanced-webrtc-python-unleashing-real-time-communication-22nn)
-- [Role of RSA Certificates in Securing Online Transactions](https://dev.to/olivia_carter/role-of-rsa-certificates-in-securing-online-transactions-5356)
-- [Rarible’s Open Source Sustainability: A New Era for Decentralized Innovation](https://dev.to/ashucommits/raribles-open-source-sustainability-a-new-era-for-decentralized-innovation-3do7)
-- [The Decentralized Web &lpar;Web 3.0&rpar;: Building the Future of Digital Freedom](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-decentralized-web-web-30-building-the-future-of-digital-freedom-d48)
-- [鸿蒙NEXT开发案例：指南针](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-zhi-nan-zhen-19c8)
+- [Fixing MySQL Shutdown Unexpectedly Error](https://dev.to/dbvismarketing/fixing-mysql-shutdown-unexpectedly-error-gac)
+- [Métodos Utilitários e de Execução no Kotlin: Trabalhando com Corrotinas](https://dev.to/comunidadedevspace/metodos-utilitarios-e-de-execucao-no-kotlin-trabalhando-com-corrotinas-12j6)
+- [Ensure your website is mobile-optimized](https://dev.to/svhl/ensure-your-website-is-mobile-optimized-31cj)
+- [CustomTkinter - A Complete Tutorial](https://dev.to/devasservice/customtkinter-a-complete-tutorial-4527)
+- [The Beginning After End Anime](https://dev.to/sanwal_alyaas_46f7576045e/the-beginning-after-end-anime-1401)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
