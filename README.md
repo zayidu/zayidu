@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Concurrency: A Deep Dive to Expertise](https://dev.to/leapcell/go-concurrency-a-deep-dive-to-expertise-p7l)
-- [Breaking Down Effect TS : Part 1](https://dev.to/modgil_23/breaking-down-effect-ts-part-1-2e0i)
-- [Sorare’s Blockchain for Open Source Rewards: A New Frontier in Digital Collectibles](https://dev.to/bobcars/sorares-blockchain-for-open-source-rewards-a-new-frontier-in-digital-collectibles-7l2)
-- [What is Manus](https://dev.to/andylawrence/what-is-manus-3lg7)
-- [Is SEO a &#39;race to the bottom&#39; or a genuine opportunity to create valuable and informative content for users?](https://dev.to/seosiri/is-seo-a-race-to-the-bottom-or-a-genuine-opportunity-to-create-valuable-and-informative-content-41k)
+- [inline imports FTW!](https://dev.to/paulbrowne/inline-imports-ftw-1o3e)
+- [Enforce CloudFront-Only Access for AWS API Gateway](https://dev.to/aws-builders/enforce-cloudfront-only-access-for-aws-api-gateway-1hdd)
+- [Manus: The AI Agent That&#39;s Breaking the Internet - Revolutionary Breakthrough or Marketing Masterpiece?](https://dev.to/shawn95618/manus-the-ai-agent-thats-breaking-the-internet-revolutionary-breakthrough-or-marketing-381a)
+- [Say Goodbye to JavaScript’s DST Date Confusion](https://dev.to/urin/say-goodbye-to-javascripts-dst-date-confusion-24mj)
+- [You Thought Your Job Was Safe from Automation? Bad News.](https://dev.to/softyflow/you-thought-your-job-was-safe-from-automation-bad-news-1nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
