@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla and Open Source Licensing: Elon Musk&#39;s Vision – A New Era in Innovation](https://dev.to/zhangwei42/tesla-and-open-source-licensing-elon-musks-vision-a-new-era-in-innovation-4k1c)
-- [Laravel vs Nodejs: Security Comparison for Web Applications](https://dev.to/vaishali2/laravel-vs-nodejs-security-comparison-for-web-applications-1bn5)
-- [Filtering Nested Data in Tanstack Table](https://dev.to/jumbo02/filtering-nested-data-in-tanstack-table-1011)
-- [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
-- [In 2025, we can and should simplify Web development](https://dev.to/greenersoft/in-2025-we-can-and-should-simplify-web-development-2m8c)
+- [Go Concurrency: A Deep Dive to Expertise](https://dev.to/leapcell/go-concurrency-a-deep-dive-to-expertise-p7l)
+- [Breaking Down Effect TS : Part 1](https://dev.to/modgil_23/breaking-down-effect-ts-part-1-2e0i)
+- [Sorare’s Blockchain for Open Source Rewards: A New Frontier in Digital Collectibles](https://dev.to/bobcars/sorares-blockchain-for-open-source-rewards-a-new-frontier-in-digital-collectibles-7l2)
+- [What is Manus](https://dev.to/andylawrence/what-is-manus-3lg7)
+- [Is SEO a &#39;race to the bottom&#39; or a genuine opportunity to create valuable and informative content for users?](https://dev.to/seosiri/is-seo-a-race-to-the-bottom-or-a-genuine-opportunity-to-create-valuable-and-informative-content-41k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
