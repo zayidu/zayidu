@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙NEXT开发案例：舒尔特方格](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-shu-er-te-fang-ge-4a1i)
-- [Introduction to Agile Framework](https://dev.to/madgan95/introduction-to-agile-framework-4p71)
-- [CSRF Issue in Postman with JWT Authentication](https://dev.to/khaled_abdelbar_43f8c0b1d/csrf-issue-in-postman-with-jwt-authentication-1117)
-- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-e9e)
-- [Is PHP Front-End or Back-End?](https://dev.to/angelaswift/is-php-front-end-or-back-end-2hk4)
+- [The Evolution of Free Browser Games: A Look at Technology and Trends](https://dev.to/aigame/the-evolution-of-free-browser-games-a-look-at-technology-and-trends-3011)
+- [Git and Github](https://dev.to/tariqul420/git-and-github-2bph)
+- [LoRA and QLoRA: Efficient Fine-Tuning for Large Language Models](https://dev.to/shehwar/lora-and-qlora-efficient-fine-tuning-for-large-language-models-4j6j)
+- [Mobile Game Testing: A Complete Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/mobile-game-testing-a-complete-guide-4pjj)
+- [OpenAI Faces Legal Challenges Over Copyright Infringement, as Alec Radford Gets Subpoenaed:](https://dev.to/abdul_rehmankhan01/openai-faces-legal-challenges-over-copyright-infringement-as-alec-radford-gets-subpoenaed-4o17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
