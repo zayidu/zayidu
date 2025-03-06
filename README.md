@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing MySQL Shutdown Unexpectedly Error](https://dev.to/dbvismarketing/fixing-mysql-shutdown-unexpectedly-error-gac)
-- [Métodos Utilitários e de Execução no Kotlin: Trabalhando com Corrotinas](https://dev.to/comunidadedevspace/metodos-utilitarios-e-de-execucao-no-kotlin-trabalhando-com-corrotinas-12j6)
-- [Ensure your website is mobile-optimized](https://dev.to/svhl/ensure-your-website-is-mobile-optimized-31cj)
-- [CustomTkinter - A Complete Tutorial](https://dev.to/devasservice/customtkinter-a-complete-tutorial-4527)
-- [The Beginning After End Anime](https://dev.to/sanwal_alyaas_46f7576045e/the-beginning-after-end-anime-1401)
+- [WebAssembly on Kubernetes](https://dev.to/loft/webassembly-on-kubernetes-5bdb)
+- [10 Top Tools for Detecting AI Content](https://dev.to/blog-1/10-top-tools-for-detecting-ai-content-3bei)
+- [Clock Management for Xilinx 7 Series FPGAs](https://dev.to/carolineee/clock-management-for-xilinx-7-series-fpgas-1p6i)
+- [[Boost]](https://dev.to/darshan_rathod_dev/-2b90)
+- [Real-Time Knowledge Graphs for GenAI – Join Us at NVIDIA&#39;s AI Conference](https://dev.to/falkordb/real-time-knowledge-graphs-for-genai-join-us-at-nvidias-ai-conference-416b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
