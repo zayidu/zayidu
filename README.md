@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
-- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
-- [Dear Mom, Your Kid Has a Lot to Say- Again-](https://dev.to/himanshit/dear-mom-your-kid-has-a-lot-to-say-again--36pp)
-- [grandprixbingo Update I](https://dev.to/varzac/grandprixbingo-update-i-3o3)
-- [Backend Dev vs. Frontend Dev: Who’s Really Suffering More?](https://dev.to/mrshelby0/backend-dev-vs-frontend-dev-whos-really-suffering-more-5a7)
+- [Extracting Information from PDFs in Markdown Format with Mistral OCR](https://dev.to/evertontenorio/extracting-information-from-pdfs-in-markdown-format-with-mistral-ocr-314o)
+- [Introducing Vanicom.js: A Minimalist JavaScript Helper Library](https://dev.to/internet-no-namer/introducing-vanicomjs-a-minimalist-javascript-helper-library-62e)
+- [Exploring JUnit: A Model of Community, Innovation, and Sustainable Funding](https://dev.to/rachellovestowrite/exploring-junit-a-model-of-community-innovation-and-sustainable-funding-36nb)
+- [Authentication Best Practices: Convex, Clerk and Next.js](https://dev.to/convexchampions/authentication-best-practices-convex-clerk-and-nextjs-21ag)
+- [Blooming WeCoded Landing Page](https://dev.to/pinky057/blooming-wecoded-landing-page-9lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
