@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Success Behind Spring Security: Open Source Business Models, Funding, and Community](https://dev.to/bobcars/unveiling-the-success-behind-spring-security-open-source-business-models-funding-and-community-5f69)
-- [[Boost]](https://dev.to/arcanoix/-6e9)
-- [Chronology and Evolution of Angular through the Years - From v2 to v19](https://dev.to/windmateus/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19-4obc)
-- [From Template Troubles to Top 10: My 24-Hour Hackathon Journey](https://dev.to/47sathwik_sureshshetty_/from-template-troubles-to-top-10-my-24-hour-hackathon-journey-4bck)
-- [Big O Notation: Explicação Simples para Quem Não É Expert &lpar;Ainda!&rpar;](https://dev.to/pripoliveira50/big-o-notation-explicacao-simples-para-quem-nao-e-expert-ainda-1f1d)
+- [Last chance for early-bird pricing for IBM TechXchange 2025!](https://dev.to/ibmdeveloper-staff/last-chance-for-early-bird-pricing-for-ibm-techxchange-2025-2e4e)
+- [GA Tracking without urls using WP tags](https://dev.to/johnnyb/ga-tracking-without-urls-using-wp-tags-1af)
+- [How to spin a Windows Virtual Machine in Azure](https://dev.to/timilehin_olatunde_i/how-to-spin-a-windows-virtual-machine-in-azure-52hn)
+- [Como criar e consumir uma API REST simples em Java puro](https://dev.to/brayanmonteiroo/como-criar-e-consumir-uma-api-rest-simples-em-java-puro-1ag3)
+- [CRUD Java, MySQL e JDBC](https://dev.to/brayanmonteiroo/crud-java-mysql-e-jdbc-19j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
