@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Low Code/No Code &lpar;LCNC&rpar; Impact: Democratizing Web Development](https://dev.to/ciphernutz/low-codeno-code-lcnc-impact-democratizing-web-development-476p)
-- [Custom Snowflake Data Architecture: How Our Experts Tailor Solutions for Your Business](https://dev.to/smart_data_/custom-snowflake-data-architecture-how-our-experts-tailor-solutions-for-your-business-13mo)
-- [To set env variables using terminal for playwright](https://dev.to/midhunkrishnan/to-set-env-variables-using-terminal-for-playwright-32m0)
-- [Run AI Models Locally with Ollama: A Step-by-Step Guide to Installation, Deployment &amp; API Integration](https://dev.to/auden/run-ai-models-locally-with-ollama-a-step-by-step-guide-to-installation-deployment-api-2gp4)
-- [The easy way of using Service Workers in Nuxt.](https://dev.to/leamsigc/the-easy-way-of-using-service-workers-in-nuxt-5gd6)
+- [Master Laravel File Storage Retrieval in Minutes](https://dev.to/dosenngoding/master-laravel-file-storage-retrieval-in-minutes-4n3g)
+- [DeepSeek Completely Changed How We Use Google Zanzibar](https://dev.to/permit_io/deepseek-completely-changed-how-we-use-google-zanzibar-219l)
+- [How Does SLI Improve Multi-GPU Gaming Setups in Desktops?](https://dev.to/alice_carry_techie/how-does-sli-improve-multi-gpu-gaming-setups-in-desktops-ap7)
+- [AI Creates Stunning Videos with Perfect Camera Control Using 3D Consistency Breakthrough](https://dev.to/mikeyoung44/ai-creates-stunning-videos-with-perfect-camera-control-using-3d-consistency-breakthrough-cl0)
+- [AI Language Models Struggle to Read Scrambled Words, Unlike Humans](https://dev.to/mikeyoung44/ai-language-models-struggle-to-read-scrambled-words-unlike-humans-53g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
