@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Free Browser Games: A Look at Technology and Trends](https://dev.to/aigame/the-evolution-of-free-browser-games-a-look-at-technology-and-trends-3011)
-- [Git and Github](https://dev.to/tariqul420/git-and-github-2bph)
-- [LoRA and QLoRA: Efficient Fine-Tuning for Large Language Models](https://dev.to/shehwar/lora-and-qlora-efficient-fine-tuning-for-large-language-models-4j6j)
-- [Mobile Game Testing: A Complete Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/mobile-game-testing-a-complete-guide-4pjj)
-- [OpenAI Faces Legal Challenges Over Copyright Infringement, as Alec Radford Gets Subpoenaed:](https://dev.to/abdul_rehmankhan01/openai-faces-legal-challenges-over-copyright-infringement-as-alec-radford-gets-subpoenaed-4o17)
+- [🧠🤖AI coding agent 1 &lpar;Cline + Cursor&rpar;](https://dev.to/webdeveloperhyper/ai-coding-agent-1-cline-cursor-2p86)
+- [⛏️How to Compile and Install Neovim on Debian](https://dev.to/yawatasensei/how-to-compile-and-install-neovim-on-debian-134g)
+- [AI tool for Developer](https://dev.to/abhishek_chaudhary_2768d1/ai-tool-for-developer-2i01)
+- [Navigating Open Source Compliance in SAP Environments](https://dev.to/ahmmrizv9/navigating-open-source-compliance-in-sap-environments-2e1i)
+- [Streaming Success: Navigating the World of Roku App Developer](https://dev.to/yansiel_aistechnolabs/streaming-success-navigating-the-world-of-roku-app-developer-5bij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
