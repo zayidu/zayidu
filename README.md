@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried This Tool for a Week and My Testing Productivity Exploded 🚀](https://dev.to/walse/i-tried-this-tool-for-a-week-and-my-testing-productivity-exploded-73a)
-- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/esproc_spl/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29c0)
-- [OpenAPI Integration Simplified: How to Turn Specs into Code](https://dev.to/getambassador2024/openapi-integration-simplified-how-to-turn-specs-into-code-308b)
-- [My understanding of AI](https://dev.to/wangfei/my-understanding-of-ai-p5o)
-- [The Cheapest Way to Embed Your Native App in the Browser for Testing](https://dev.to/pratiksha_patil_2422d808e/the-cheapest-way-to-embed-your-native-app-in-the-browser-for-testing-1g24)
+- [How Much Does It Cost to Build a SaaS App- A Complete Guide](https://dev.to/raftlabs/how-much-does-it-cost-to-build-a-saas-app-a-complete-guide-284p)
+- [How do I speak to an American representative?](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-speak-to-an-american-representative-a5e)
+- [How To Add Event Listener In JavaScript](https://dev.to/theudemezue/how-to-add-event-listener-in-javascript-1c6n)
+- [Use Docker, No more setup Hell! &lpar;Part-1&rpar;](https://dev.to/sardinessz/use-docker-no-more-setup-hell-part-1-f65)
+- [How to create an effective application security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-to-2peg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
