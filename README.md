@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Conduct an SDET Technical Interview](https://dev.to/cydavid/how-to-conduct-an-sdet-technical-interview-1b6h)
-- [If programmers have a level, how should we define them?](https://dev.to/cleary_hy_fc24ae650f1db41/if-programmers-have-a-level-how-should-we-define-them-1946)
-- [cypress-runner-themes: Alternative Styles for the Cypress Test Runner](https://dev.to/cydavid/cypress-runner-themes-alternative-styles-for-the-cypress-test-runner-28hb)
-- [Apache Spark: Revolutionizing Big Data with Sustainable Open Source Funding](https://dev.to/rachellovestowrite/apache-spark-revolutionizing-big-data-with-sustainable-open-source-funding-1ag6)
-- [Cypress — Programmatically Control Test Data](https://dev.to/cydavid/cypress-programmatically-control-test-data-3c6e)
+- [Understanding Software Test Coverage Criteria Step by Step: From Line Coverage to MC/DC](https://dev.to/yo-shi/understanding-software-test-coverage-criteria-step-by-step-from-line-coverage-to-mcdc-54k0)
+- [Custom OpenWRT Software Sources](https://dev.to/yawatasensei/custom-openwrt-software-sources-3o55)
+- [The Ultimate Linux Command Guide for DevOps Engineers &lpar;With Examples!&rpar;](https://dev.to/kristarking/the-ultimate-linux-command-guide-for-devops-engineers-with-examples-4j1c)
+- [🚀 Run macOS on AWS EC2 in Under 10 Minutes! 🚀](https://dev.to/manikanta2023/run-macos-on-aws-ec2-in-under-10-minutes-13gl)
+- [My Azure .NET App Was Burning Money — Until I Optimized CPU by 4x and Memory by 10x! 💸🔥](https://dev.to/ganesh_gurav/my-azure-net-app-was-burning-money-until-i-optimized-cpu-by-4x-and-memory-by-10x-22p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
