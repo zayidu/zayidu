@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Repost](https://dev.to/caiofilipee/-pi2)
-- [Game Dev Digest — Issue #272 - Guides, Tutorials, UI and more](https://dev.to/gamedevdigest/game-dev-digest-issue-272-guides-tutorials-ui-and-more-2lfn)
-- [Clean code: Why prefer unknown over any in TypeScript](https://dev.to/56_kode/clean-code-why-prefer-unknown-over-any-in-typescript-50mc)
-- [Kubectl Demystified: Mastering the `kubectl describe` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-describe-command-46hl)
-- [Current Trends in Painting by Numbers: What’s Popular Today?](https://dev.to/pbnca/current-trends-in-painting-by-numbers-whats-popular-today-4mi3)
+- [Building Dynamic Push Notifications with Firebase and Node.js](https://dev.to/this-is-learning/building-dynamic-push-notifications-with-firebase-and-nodejs-516h)
+- [Dell Stock Decline: Margin Pressures and Market Reactions](https://dev.to/terjewilliamson/dell-stock-decline-margin-pressures-and-market-reactions-dan)
+- [I Built a Free URL Shortener with No Ads or Tracking – Try It!](https://dev.to/djobox/i-built-a-free-url-shortener-with-no-ads-or-tracking-try-it-5fcp)
+- [Building a Ruby Gem with CLI and Networking Capabilities: The Lanet Story](https://dev.to/daviducolo/building-a-ruby-gem-with-cli-and-networking-capabilities-the-lanet-story-9kg)
+- [How I Track API Usage for My API Product](https://dev.to/geiger01/how-i-track-api-usage-for-my-api-product-189l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
