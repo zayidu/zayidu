@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Key CORS Terms Every Developer Should Know](https://dev.to/reynaldi/7-key-cors-terms-every-developer-should-know-elf)
-- [🤖 RAG on AWS: Building an AI-powerd Knowledge Base, with Amazon Bedrock and Pinecone using AWS CloudFormation](https://dev.to/ddesio/rag-on-aws-building-an-ai-powerd-knowledge-base-with-amazon-bedrock-and-pinecone-using-aws-nl1)
-- [How do I stop auto payment on Kuku FM?](https://dev.to/userjhd/how-do-i-stop-auto-payment-on-kuku-fm-5f9f)
-- [🎉 I just hit 100 WPM 🎊](https://dev.to/shricodev/i-just-hit-100-wpm-3ppo)
-- [𝗦𝗶𝗺𝗽𝗹𝗶𝗳𝘆𝗶𝗻𝗴 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗨𝗻𝗻𝗲𝗰𝗲𝘀𝘀𝗮𝗿𝘆 𝗘𝘅𝗽𝗲𝗻𝘀𝗲𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 𝗠𝗼𝗱𝗲𝗹](https://dev.to/supraja_tangella_b7f0738e/-2p6m)
+- [JavaScript Weekly: Top Links for March 7, 2025](https://dev.to/jsdevspace/javascript-weekly-top-links-for-march-7-2025-4oo3)
+- [2025 Integration Testing Handbook: Techniques, Tools, and Trends](https://dev.to/testwithtorin/2025-integration-testing-handbook-techniques-tools-and-trends-3ebc)
+- [Creating an Azure Compute Gallery and Capturing the Image of a Virtual Machine &lpar;VM&rpar;](https://dev.to/sammyug7/creating-an-azure-compute-gallery-and-capturing-the-image-of-a-virtual-machine-vm-1n39)
+- [A REST Implementation of ‘Docling’ with FastAPI](https://dev.to/aairom/a-rest-implementation-of-docling-with-fastapi-ogn)
+- [Everything* as code](https://dev.to/hatedabamboo/everything-as-code-3he6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
