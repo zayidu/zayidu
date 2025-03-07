@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the tech stack for your SaaS](https://dev.to/egor_kaleynik_7dbe9393e86/choosing-the-tech-stack-for-your-saas-13l2)
-- [On code smells catalogues and taxonomies](https://dev.to/trikitrok/on-code-smells-catalogues-and-taxonomies-3ba6)
-- [HIPAA-Compliant Logging in .NET Healthcare Applications](https://dev.to/bytehide/hipaa-compliant-logging-in-net-healthcare-applications-1mbj)
-- [The Future of AI in Software Development](https://dev.to/sofia-tech/the-future-of-ai-in-software-development-m0g)
-- [Shift Left Testing: A Comprehensive Guide for QA Test Engineers](https://dev.to/dheerajpd411/shift-left-testing-a-comprehensive-guide-for-qa-test-engineers-3dd0)
+- [7 Key CORS Terms Every Developer Should Know](https://dev.to/reynaldi/7-key-cors-terms-every-developer-should-know-elf)
+- [🤖 RAG on AWS: Building an AI-powerd Knowledge Base, with Amazon Bedrock and Pinecone using AWS CloudFormation](https://dev.to/ddesio/rag-on-aws-building-an-ai-powerd-knowledge-base-with-amazon-bedrock-and-pinecone-using-aws-nl1)
+- [How do I stop auto payment on Kuku FM?](https://dev.to/userjhd/how-do-i-stop-auto-payment-on-kuku-fm-5f9f)
+- [🎉 I just hit 100 WPM 🎊](https://dev.to/shricodev/i-just-hit-100-wpm-3ppo)
+- [𝗦𝗶𝗺𝗽𝗹𝗶𝗳𝘆𝗶𝗻𝗴 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗨𝗻𝗻𝗲𝗰𝗲𝘀𝘀𝗮𝗿𝘆 𝗘𝘅𝗽𝗲𝗻𝘀𝗲𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 𝗠𝗼𝗱𝗲𝗹](https://dev.to/supraja_tangella_b7f0738e/-2p6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
