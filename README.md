@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How RBAC and ABAC Enhance Security and Compliance](https://dev.to/adityabhuyan/how-rbac-and-abac-enhance-security-and-compliance-4b66)
-- [Why Choose Node.js? Top Benefits for Web Developers](https://dev.to/vanithaintel2025/why-choose-nodejs-top-benefits-for-web-developers-2api)
-- [📂 React Native CLI Folder Structure – Best Practices 🚀](https://dev.to/laxmann/react-native-cli-folder-structure-best-practices-4ig3)
-- [Meetily: The Open-Source, Self-Hosted Alternative to Fireflies.ai](https://dev.to/sujiths/meetily-the-open-source-self-hosted-alternative-to-firefliesai-4c28)
-- [Why Does No One Talk About Gemini?](https://dev.to/rachit_gupta_3188854dd0a7/why-does-no-one-talk-about-gemini-3a64)
+- [I Tried This Tool for a Week and My Testing Productivity Exploded 🚀](https://dev.to/walse/i-tried-this-tool-for-a-week-and-my-testing-productivity-exploded-73a)
+- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/esproc_spl/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29c0)
+- [OpenAPI Integration Simplified: How to Turn Specs into Code](https://dev.to/getambassador2024/openapi-integration-simplified-how-to-turn-specs-into-code-308b)
+- [My understanding of AI](https://dev.to/wangfei/my-understanding-of-ai-p5o)
+- [The Cheapest Way to Embed Your Native App in the Browser for Testing](https://dev.to/pratiksha_patil_2422d808e/the-cheapest-way-to-embed-your-native-app-in-the-browser-for-testing-1g24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
