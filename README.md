@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - CTEs](https://dev.to/aditya999123/navigating-postgresql-ctes-4pmc)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-52n3)
-- [Project Management Tools &amp; Software: A Comprehensive List](https://dev.to/harshm03/project-management-tools-software-a-comprehensive-list-afc)
-- [Implementing &quot;Forgot Password&quot; with MongoDB: A Step-by-Step Guide](https://dev.to/pwnkdm/implementing-forgot-password-with-mongodb-a-step-by-step-guide-1a0n)
-- [Regenerative Medicine &amp; Pharma CRM: The Future of Healthcare Innovation](https://dev.to/pharmacrm/regenerative-medicine-pharma-crm-the-future-of-healthcare-innovation-2745)
+- [How RBAC and ABAC Enhance Security and Compliance](https://dev.to/adityabhuyan/how-rbac-and-abac-enhance-security-and-compliance-4b66)
+- [Why Choose Node.js? Top Benefits for Web Developers](https://dev.to/vanithaintel2025/why-choose-nodejs-top-benefits-for-web-developers-2api)
+- [📂 React Native CLI Folder Structure – Best Practices 🚀](https://dev.to/laxmann/react-native-cli-folder-structure-best-practices-4ig3)
+- [Meetily: The Open-Source, Self-Hosted Alternative to Fireflies.ai](https://dev.to/sujiths/meetily-the-open-source-self-hosted-alternative-to-firefliesai-4c28)
+- [Why Does No One Talk About Gemini?](https://dev.to/rachit_gupta_3188854dd0a7/why-does-no-one-talk-about-gemini-3a64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
