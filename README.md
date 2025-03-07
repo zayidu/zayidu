@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Software Test Coverage Criteria Step by Step: From Line Coverage to MC/DC](https://dev.to/yo-shi/understanding-software-test-coverage-criteria-step-by-step-from-line-coverage-to-mcdc-54k0)
-- [Custom OpenWRT Software Sources](https://dev.to/yawatasensei/custom-openwrt-software-sources-3o55)
-- [The Ultimate Linux Command Guide for DevOps Engineers &lpar;With Examples!&rpar;](https://dev.to/kristarking/the-ultimate-linux-command-guide-for-devops-engineers-with-examples-4j1c)
-- [🚀 Run macOS on AWS EC2 in Under 10 Minutes! 🚀](https://dev.to/manikanta2023/run-macos-on-aws-ec2-in-under-10-minutes-13gl)
-- [My Azure .NET App Was Burning Money — Until I Optimized CPU by 4x and Memory by 10x! 💸🔥](https://dev.to/ganesh_gurav/my-azure-net-app-was-burning-money-until-i-optimized-cpu-by-4x-and-memory-by-10x-22p7)
+- [Navigating PostgreSQL - CTEs](https://dev.to/aditya999123/navigating-postgresql-ctes-4pmc)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-52n3)
+- [Project Management Tools &amp; Software: A Comprehensive List](https://dev.to/harshm03/project-management-tools-software-a-comprehensive-list-afc)
+- [Implementing &quot;Forgot Password&quot; with MongoDB: A Step-by-Step Guide](https://dev.to/pwnkdm/implementing-forgot-password-with-mongodb-a-step-by-step-guide-1a0n)
+- [Regenerative Medicine &amp; Pharma CRM: The Future of Healthcare Innovation](https://dev.to/pharmacrm/regenerative-medicine-pharma-crm-the-future-of-healthcare-innovation-2745)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
