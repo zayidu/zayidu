@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Weekly: Top Links for March 7, 2025](https://dev.to/jsdevspace/javascript-weekly-top-links-for-march-7-2025-4oo3)
-- [2025 Integration Testing Handbook: Techniques, Tools, and Trends](https://dev.to/testwithtorin/2025-integration-testing-handbook-techniques-tools-and-trends-3ebc)
-- [Creating an Azure Compute Gallery and Capturing the Image of a Virtual Machine &lpar;VM&rpar;](https://dev.to/sammyug7/creating-an-azure-compute-gallery-and-capturing-the-image-of-a-virtual-machine-vm-1n39)
-- [A REST Implementation of ‘Docling’ with FastAPI](https://dev.to/aairom/a-rest-implementation-of-docling-with-fastapi-ogn)
-- [Everything* as code](https://dev.to/hatedabamboo/everything-as-code-3he6)
+- [Repost](https://dev.to/caiofilipee/-pi2)
+- [Game Dev Digest — Issue #272 - Guides, Tutorials, UI and more](https://dev.to/gamedevdigest/game-dev-digest-issue-272-guides-tutorials-ui-and-more-2lfn)
+- [Clean code: Why prefer unknown over any in TypeScript](https://dev.to/56_kode/clean-code-why-prefer-unknown-over-any-in-typescript-50mc)
+- [Kubectl Demystified: Mastering the `kubectl describe` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-describe-command-46hl)
+- [Current Trends in Painting by Numbers: What’s Popular Today?](https://dev.to/pbnca/current-trends-in-painting-by-numbers-whats-popular-today-4mi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
