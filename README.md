@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python in Bioinformatics Overview and Applications](https://dev.to/lisw05/python-in-bioinformatics-overview-and-applications-3nj6)
-- [OAuth 2.0 and JWT Tokens: One-Stop Interview Guide](https://dev.to/devcorner/oauth-20-and-jwt-tokens-one-stop-interview-guide-3a4i)
-- [Security in Backend Development: One-Stop Solution for Interviews](https://dev.to/devcorner/security-in-backend-development-one-stop-solution-for-interviews-2cd5)
-- [Cypress — Easy Multi-Environment Configuration](https://dev.to/cydavid/cypress-easy-multi-environment-configuration-4omi)
-- [Beginner Guide for Git&amp; git-hub](https://dev.to/roni_da_0981/beginner-guide-for-git-git-hub-42e3)
+- [How to Conduct an SDET Technical Interview](https://dev.to/cydavid/how-to-conduct-an-sdet-technical-interview-1b6h)
+- [If programmers have a level, how should we define them?](https://dev.to/cleary_hy_fc24ae650f1db41/if-programmers-have-a-level-how-should-we-define-them-1946)
+- [cypress-runner-themes: Alternative Styles for the Cypress Test Runner](https://dev.to/cydavid/cypress-runner-themes-alternative-styles-for-the-cypress-test-runner-28hb)
+- [Apache Spark: Revolutionizing Big Data with Sustainable Open Source Funding](https://dev.to/rachellovestowrite/apache-spark-revolutionizing-big-data-with-sustainable-open-source-funding-1ag6)
+- [Cypress — Programmatically Control Test Data](https://dev.to/cydavid/cypress-programmatically-control-test-data-3c6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
