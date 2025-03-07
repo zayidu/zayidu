@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chi-Square Tests and Degrees of Freedom](https://dev.to/dorcas_bwire/chi-square-tests-and-degrees-of-freedom-4op3)
-- [Pipeline de Dados](https://dev.to/sthefanyspina/pipeline-de-dados-1j68)
-- [Getting Hooked on React!](https://dev.to/senken18/getting-hooked-on-react-3c64)
-- [Better Rails Forms with Superform: A Game-Changer for Developers](https://dev.to/gsgermanok/better-rails-forms-with-superform-a-game-changer-for-developers-3fm)
-- [How we release beta features in React with Bucket](https://dev.to/bucketdotco/how-we-release-beta-features-in-react-with-bucket-1klf)
+- [Announcing Nuxflare 0.2: UX improvements, better NuxtHub compatibility, custom domains, GitHub Actions support](https://dev.to/tanay/announcing-nuxflare-02-ux-improvements-better-nuxthub-compatibility-custom-domains-github-fi7)
+- [Handling Asynchronous Operations in Node.js](https://dev.to/yavuztuncil/handling-asynchronous-operations-in-nodejs-440j)
+- [Money and Time &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/money-and-time-bite-size-article-aan)
+- [Building Intelligent Agentic Applications with Amazon Bedrock and Nova](https://dev.to/aws-builders/building-intelligent-agentic-applications-with-amazon-bedrock-and-nova-3oif)
+- [🔐 How to create an authentication system with JWT in a Node.js API](https://dev.to/micaelmi/how-to-create-an-authentication-system-with-jwt-in-a-nodejs-api-52fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
