@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Does It Cost to Build a SaaS App- A Complete Guide](https://dev.to/raftlabs/how-much-does-it-cost-to-build-a-saas-app-a-complete-guide-284p)
-- [How do I speak to an American representative?](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-speak-to-an-american-representative-a5e)
-- [How To Add Event Listener In JavaScript](https://dev.to/theudemezue/how-to-add-event-listener-in-javascript-1c6n)
-- [Use Docker, No more setup Hell! &lpar;Part-1&rpar;](https://dev.to/sardinessz/use-docker-no-more-setup-hell-part-1-f65)
-- [How to create an effective application security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-to-2peg)
+- [Moving Target Detection Based on FPGA](https://dev.to/carolineee/moving-target-detection-based-on-fpga-c6h)
+- [TDengine Achieves 10x Compression vs. Elasticsearch for Smart Vehicle Solution Provider](https://dev.to/rebecca_tao_651f5198fd9ea/tdengine-achieves-10x-compression-vs-elasticsearch-for-smart-vehicle-solution-provider-1lkd)
+- [Building a REST API with Express and MongoDB](https://dev.to/kathir_b_7a1a5642d3c42779/building-a-rest-api-with-express-and-mongodb-2lp)
+- [Getting Started with Docker: A Beginner&#39;s Guide](https://dev.to/kathir_b_7a1a5642d3c42779/getting-started-with-docker-a-beginners-guide-1136)
+- [Why Is My Code Not Working? Common Debugging Pitfalls and How to Solve Them](https://dev.to/info_generalhazedawn_a3d/why-is-my-code-not-working-common-debugging-pitfalls-and-how-to-solve-them-2ao7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
