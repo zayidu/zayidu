@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Users Drop Off &lpar;And How to Keep Them Engaged&rpar; Using the CREATE Framework](https://dev.to/rijultp/why-users-drop-off-and-how-to-keep-them-engaged-using-the-create-framework-dm6)
-- [Los Formularios en Angular y su Importancia](https://dev.to/cristian_arieta_7df932e5f/los-formularios-en-angular-y-su-importancia-1doe)
-- [Mastering MVP Software Design: Essential Strategies for Successful Development](https://dev.to/jetthoughts/mastering-mvp-software-design-essential-strategies-for-successful-development-1kc7)
-- [JWT Authentication in Node.js](https://dev.to/nitin____/jwt-authentication-in-nodejs-3k3l)
-- [Unleashing the Power of @ in Rust’s Pattern Matching](https://dev.to/leapcell/unleashing-the-power-of-in-rusts-pattern-matching-22ae)
+- [Chi-Square Tests and Degrees of Freedom](https://dev.to/dorcas_bwire/chi-square-tests-and-degrees-of-freedom-4op3)
+- [Pipeline de Dados](https://dev.to/sthefanyspina/pipeline-de-dados-1j68)
+- [Getting Hooked on React!](https://dev.to/senken18/getting-hooked-on-react-3c64)
+- [Better Rails Forms with Superform: A Game-Changer for Developers](https://dev.to/gsgermanok/better-rails-forms-with-superform-a-game-changer-for-developers-3fm)
+- [How we release beta features in React with Bucket](https://dev.to/bucketdotco/how-we-release-beta-features-in-react-with-bucket-1klf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
