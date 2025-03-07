@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Case Sensitivity Issues When Deploying Node.js Apps to Heroku](https://dev.to/hijazi313/solving-case-sensitivity-issues-when-deploying-nodejs-apps-to-heroku-2ijn)
-- [Faster Database Queries With This One Trick](https://dev.to/dosenngoding/faster-database-queries-with-this-one-trick-2401)
-- [#31 Apache Server Configuration and the workings of the .htaccess file](https://dev.to/flnzba/31-apache-server-configuration-and-the-workings-of-the-htaccess-file-3fii)
-- [How a ChatGPT Certification can Enhance AI career?](https://dev.to/ailearning/how-a-chatgpt-certification-can-enhance-ai-career-37ag)
-- [L’Hyperautomatisation en 2025 Option ou Nécessité ?](https://dev.to/softyflow/lhyperautomatisation-en-2025-option-ou-necessite--a99)
+- [Choosing the tech stack for your SaaS](https://dev.to/egor_kaleynik_7dbe9393e86/choosing-the-tech-stack-for-your-saas-13l2)
+- [On code smells catalogues and taxonomies](https://dev.to/trikitrok/on-code-smells-catalogues-and-taxonomies-3ba6)
+- [HIPAA-Compliant Logging in .NET Healthcare Applications](https://dev.to/bytehide/hipaa-compliant-logging-in-net-healthcare-applications-1mbj)
+- [The Future of AI in Software Development](https://dev.to/sofia-tech/the-future-of-ai-in-software-development-m0g)
+- [Shift Left Testing: A Comprehensive Guide for QA Test Engineers](https://dev.to/dheerajpd411/shift-left-testing-a-comprehensive-guide-for-qa-test-engineers-3dd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
