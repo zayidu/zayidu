@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance for early-bird pricing for IBM TechXchange 2025!](https://dev.to/ibmdeveloper-staff/last-chance-for-early-bird-pricing-for-ibm-techxchange-2025-2e4e)
-- [GA Tracking without urls using WP tags](https://dev.to/johnnyb/ga-tracking-without-urls-using-wp-tags-1af)
-- [How to spin a Windows Virtual Machine in Azure](https://dev.to/timilehin_olatunde_i/how-to-spin-a-windows-virtual-machine-in-azure-52hn)
-- [Como criar e consumir uma API REST simples em Java puro](https://dev.to/brayanmonteiroo/como-criar-e-consumir-uma-api-rest-simples-em-java-puro-1ag3)
-- [CRUD Java, MySQL e JDBC](https://dev.to/brayanmonteiroo/crud-java-mysql-e-jdbc-19j4)
+- [Understanding Liquid Staking in Blockchain Networks](https://dev.to/kartikmehta8/understanding-liquid-staking-in-blockchain-networks-4045)
+- [Make your React apps accessible more mobile-friendly in 5 minutes](https://dev.to/bluspaceinc/make-your-react-apps-accessible-more-mobile-friendly-in-5-minutes-26lf)
+- [The Role of AI and Data Science in FinTech](https://dev.to/suresh_ommi_09ed3f224369c/the-role-of-ai-and-data-science-in-fintech-ioe)
+- [HCP Terraform to Azure Cloud using OIDC](https://dev.to/rokicool/hcp-terraform-to-azure-cloud-using-oidc-2i28)
+- [Exploring the Future of Data Access with Spring Data](https://dev.to/jennythomas498/exploring-the-future-of-data-access-with-spring-data-2h0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
