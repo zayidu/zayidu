@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python One Trick at a Time: A Guide for Dev.to Readers](https://dev.to/0x3d_site/python-one-trick-at-a-time-a-guide-for-devto-readers-hj5)
-- [Introducing yaps.chat - one-time end-to-end encrypted anonymous chats](https://dev.to/abdibrokhim/introducing-yapschat-one-time-end-to-end-encrypted-anonymous-chats-23kf)
-- [I Asked ChatGPT to Write an App… This Happened](https://dev.to/resource_bunk_1077cab07da/i-asked-chatgpt-to-write-an-app-this-happened-27gk)
-- [API Authentication: JWT vs OAuth vs API Keys](https://dev.to/snappytuts/api-authentication-jwt-vs-oauth-vs-api-keys-52bm)
-- [2523. Closest Prime Numbers in Range](https://dev.to/mdarifulhaque/2523-closest-prime-numbers-in-range-3bne)
+- [Why Users Drop Off &lpar;And How to Keep Them Engaged&rpar; Using the CREATE Framework](https://dev.to/rijultp/why-users-drop-off-and-how-to-keep-them-engaged-using-the-create-framework-dm6)
+- [Los Formularios en Angular y su Importancia](https://dev.to/cristian_arieta_7df932e5f/los-formularios-en-angular-y-su-importancia-1doe)
+- [Mastering MVP Software Design: Essential Strategies for Successful Development](https://dev.to/jetthoughts/mastering-mvp-software-design-essential-strategies-for-successful-development-1kc7)
+- [JWT Authentication in Node.js](https://dev.to/nitin____/jwt-authentication-in-nodejs-3k3l)
+- [Unleashing the Power of @ in Rust’s Pattern Matching](https://dev.to/leapcell/unleashing-the-power-of-in-rusts-pattern-matching-22ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
