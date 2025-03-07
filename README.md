@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Echoes of the Past - Tech is Still Not Equal for All](https://dev.to/eevajonnapanula/echoes-of-the-past-tech-is-still-not-equal-for-all-2c71)
-- [Dockerfile for Django Devs](https://dev.to/exler/dockerfile-for-django-devs-5bml)
-- [Is Your Job Safe? The Future of Work &amp; Career Security](https://dev.to/harsh_patel_ac22862fb37b6/is-your-job-safe-the-future-of-work-career-security-ok6)
-- [How Spotify Uses Containers and Kubernetes to Scale Seamlessly](https://dev.to/techstrategy/how-spotify-uses-containers-kubernetes-to-scale-seamlessly-4j2j)
-- [Reddit Drops Game-Changing Tools For Content Moderation and Analytics For User](https://dev.to/saad_hassan_e94d6ecf23e3c/reddit-drops-game-changing-tools-for-content-moderation-and-analytics-for-user-10in)
+- [Solving Case Sensitivity Issues When Deploying Node.js Apps to Heroku](https://dev.to/hijazi313/solving-case-sensitivity-issues-when-deploying-nodejs-apps-to-heroku-2ijn)
+- [Faster Database Queries With This One Trick](https://dev.to/dosenngoding/faster-database-queries-with-this-one-trick-2401)
+- [#31 Apache Server Configuration and the workings of the .htaccess file](https://dev.to/flnzba/31-apache-server-configuration-and-the-workings-of-the-htaccess-file-3fii)
+- [How a ChatGPT Certification can Enhance AI career?](https://dev.to/ailearning/how-a-chatgpt-certification-can-enhance-ai-career-37ag)
+- [L’Hyperautomatisation en 2025 Option ou Nécessité ?](https://dev.to/softyflow/lhyperautomatisation-en-2025-option-ou-necessite--a99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
