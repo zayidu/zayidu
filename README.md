@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Bank Transfer Payments with Live Reconciliation](https://dev.to/flutterwaveeng/enabling-bank-transfer-payments-with-live-reconciliation-1goi)
-- [Web Components without classes](https://dev.to/dariomannu/web-components-without-classes-34hb)
-- [10 Hidden Gems in Angular That You should use](https://dev.to/iss_ssi_ee2c9f3b23dab0747/10-hidden-gems-in-angular-that-you-should-use-5n8)
-- [Modelagem de Dados](https://dev.to/sthefanyspina/modelagem-de-dados-1429)
-- [Master Drizzle ORM](https://dev.to/abeertech01/master-drizzle-orm-4a25)
+- [Python One Trick at a Time: A Guide for Dev.to Readers](https://dev.to/0x3d_site/python-one-trick-at-a-time-a-guide-for-devto-readers-hj5)
+- [Introducing yaps.chat - one-time end-to-end encrypted anonymous chats](https://dev.to/abdibrokhim/introducing-yapschat-one-time-end-to-end-encrypted-anonymous-chats-23kf)
+- [I Asked ChatGPT to Write an App… This Happened](https://dev.to/resource_bunk_1077cab07da/i-asked-chatgpt-to-write-an-app-this-happened-27gk)
+- [API Authentication: JWT vs OAuth vs API Keys](https://dev.to/snappytuts/api-authentication-jwt-vs-oauth-vs-api-keys-52bm)
+- [2523. Closest Prime Numbers in Range](https://dev.to/mdarifulhaque/2523-closest-prime-numbers-in-range-3bne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
