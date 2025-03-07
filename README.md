@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Liquid Staking in Blockchain Networks](https://dev.to/kartikmehta8/understanding-liquid-staking-in-blockchain-networks-4045)
-- [Make your React apps accessible more mobile-friendly in 5 minutes](https://dev.to/bluspaceinc/make-your-react-apps-accessible-more-mobile-friendly-in-5-minutes-26lf)
-- [The Role of AI and Data Science in FinTech](https://dev.to/suresh_ommi_09ed3f224369c/the-role-of-ai-and-data-science-in-fintech-ioe)
-- [HCP Terraform to Azure Cloud using OIDC](https://dev.to/rokicool/hcp-terraform-to-azure-cloud-using-oidc-2i28)
-- [Exploring the Future of Data Access with Spring Data](https://dev.to/jennythomas498/exploring-the-future-of-data-access-with-spring-data-2h0e)
+- [Python in Bioinformatics Overview and Applications](https://dev.to/lisw05/python-in-bioinformatics-overview-and-applications-3nj6)
+- [OAuth 2.0 and JWT Tokens: One-Stop Interview Guide](https://dev.to/devcorner/oauth-20-and-jwt-tokens-one-stop-interview-guide-3a4i)
+- [Security in Backend Development: One-Stop Solution for Interviews](https://dev.to/devcorner/security-in-backend-development-one-stop-solution-for-interviews-2cd5)
+- [Cypress — Easy Multi-Environment Configuration](https://dev.to/cydavid/cypress-easy-multi-environment-configuration-4omi)
+- [Beginner Guide for Git&amp; git-hub](https://dev.to/roni_da_0981/beginner-guide-for-git-git-hub-42e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
