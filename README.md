@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#32 PHP Server Tools for your file management needs on the server](https://dev.to/flnzba/32-php-server-tools-for-your-file-management-needs-on-the-server-55fp)
-- [Route Declaration Order: Laravel&#39;s Hidden Routing Rule](https://dev.to/dosenngoding/route-declaration-order-laravels-hidden-routing-rule-o4a)
-- [8 MARS](https://dev.to/sofia-tech/8-mars-45cg)
-- [10 DevOps Hacks Every Freelancer Needs to Deliver Client Projects Faster](https://dev.to/kuberns_cloud/10-devops-hacks-every-freelancer-needs-to-deliver-client-projects-faster-35g9)
-- [My Cloud Journey](https://dev.to/ntombizakhona/my-cloud-journey-go2)
+- [German LLM Benchmark](https://dev.to/landwehr/german-llm-benchmark-4bg7)
+- [Will AI Replace Programmers? A Reality Check 🤖💻](https://dev.to/razinrayees/will-ai-replace-programmers-a-reality-check-1njj)
+- [Install olmOCR: The Best Open-Source OCR Toolkit for Document Parsing](https://dev.to/nodeshiftcloud/install-olmocr-the-best-open-source-ocr-toolkit-for-document-parsing-npn)
+- [Python Testing – Unit Tests, Pytest, and Best Practices](https://dev.to/nkpydev/python-testing-unit-tests-pytest-and-best-practices-45gl)
+- [🚀 Pilha e Heap – Onde os Dados Ficam na Memória?](https://dev.to/develop4us/pilha-e-heap-onde-os-dados-ficam-na-memoria-go1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
