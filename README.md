@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Microservice Architecture with Laravel APIs](https://dev.to/programmerhasan/creating-a-microservice-architecture-with-laravel-apis-3a16)
-- [🛠️ Fixing CORS Errors in MERN Stack](https://dev.to/prathvihan108/fixing-cors-errors-in-mern-stack-fph)
-- [Backup file system formats maybe](https://dev.to/maybejosiah/backup-file-system-formats-maybe-2p3e)
-- [Capítulo 5 - Ordenando no Java 8](https://dev.to/fundamentosjava/capitulo-5-ordenando-no-java-8-1aee)
-- [Diet plan to reduce body fat](https://dev.to/rakeshreddy512/diet-plan-to-reduce-body-fat-403j)
+- [Python Decorators: How They Work and How to Write One](https://dev.to/ariabramowitz/python-decorators-how-they-work-and-how-to-write-one-1dig)
+- [The Enigma of LIQU3D: Decoding Kenya’s Cybersecurity Prodigy &lpar;2025&rpar;](https://dev.to/4n0nus3r/the-enigma-of-liqu3d-decoding-kenyas-cybersecurity-prodigy-2025-36oi)
+- [Ada Lovelace: The Visionary Mathematician](https://dev.to/balagmadhu/ada-lovelace-the-visionary-mathematician-4nd5)
+- [Designing Your Go-To Friend Hangout Organizer 👥 - Starting ‘WhereNow’ 📍](https://dev.to/rtambunt/designing-your-go-to-friend-hangout-organizer-starting-wherenow-4bao)
+- [Progressive Web Apps with Vaadin Flow: Powering Mobile Development](https://dev.to/pbalves/progressive-web-apps-with-vaadin-flow-powering-mobile-development-1k16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
