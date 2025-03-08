@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design with Patterns: Elegant Data Mapping](https://dev.to/roman-vidayko/design-with-patterns-elegant-data-mapping-4b02)
-- [[#0] LifeMission - Introduction](https://dev.to/duzik/0-lifemission-introduction-2jk8)
-- [How to Create a Load Balancer in Azure](https://dev.to/ibrahimbioabu/how-to-create-a-load-balancer-in-azure-4hpc)
-- [MarkMind: How I Built an AI Chrome extension to organize my 2,000+ Bookmarks](https://dev.to/migsilva89/markmind-how-i-built-an-ai-chrome-extension-to-organize-my-2000-bookmarks-28dc)
-- [Code Explanation: &quot;Minions: Collaborative On-Device and Cloud LLMs&quot;](https://dev.to/foxgem/code-explanation-minions-collaborative-on-device-and-cloud-llms-5amb)
+- [Using Neovim on OpenWRT](https://dev.to/yawatasensei/using-neovim-on-openwrt-158k)
+- [The Future of Kubernetes Networking: Key Concepts for Beginners in 2025:](https://dev.to/devlinkstudios/the-future-of-kubernetes-networking-key-concepts-for-beginners-in-2025-g5m)
+- [Launching an Amazon EC2 Instance: A Strategic Deep Dive for Decision-Makers](https://dev.to/yugjadvani/launching-an-amazon-ec2-instance-a-strategic-deep-dive-for-decision-makers-15fh)
+- [What Is Split For Heat In Amazon DynamoDB?](https://dev.to/urielbitton/what-is-split-for-heat-in-amazon-dynamodb-bm8)
+- [Automating Version Updates in Node.js with Git Hooks](https://dev.to/lebed2045/automating-version-updates-in-nodejs-with-git-hooks-5dfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
