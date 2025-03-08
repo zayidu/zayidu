@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursive components](https://dev.to/flodev/recursive-components-4jp5)
-- [Article on how to Create Virtual Machine Scale Set.](https://dev.to/onyemuche/article-on-how-to-create-virtual-machine-scale-set-31hn)
-- [Mastering Advanced Routing and Load Balancing with YARP: Strategies, Code, and Best Practices](https://dev.to/leandroveiga/mastering-advanced-routing-and-load-balancing-with-yarp-strategies-code-and-best-practices-5ddh)
-- [Creating a solution from the CLI](https://dev.to/tallesl/creating-a-solution-from-the-cli-57o3)
-- [How to Deploy Your Resume using an Azure Web App via the Azure Portal](https://dev.to/ibrahimbioabu/how-to-deploy-your-resume-using-an-azure-web-app-via-azure-portal-352o)
+- [Code Explanation: &quot;STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking&quot;](https://dev.to/foxgem/code-explanation-storm-synthesis-of-topic-outlines-through-retrieval-and-multi-perspective-26bi)
+- [[Boost]](https://dev.to/bierdok/-1dg3)
+- [Simplify your environment variable management](https://dev.to/baptiste_parmantier/simplify-your-environment-variable-management-49k7)
+- [RAG Toolkit: A Powerful Text Chunking and Retrieval-Augmented Generation System](https://dev.to/mtalhazulf/rag-toolkit-a-powerful-text-chunking-and-retrieval-augmented-generation-system-51mj)
+- [How to free up space on your Mac&#39;s ssd &lpar;256GB&rpar;](https://dev.to/oler/how-to-free-up-space-on-your-macs-ssd-256gb-1d1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
