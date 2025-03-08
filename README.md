@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWK Basics Tutorial](https://dev.to/leapcell/awk-basics-tutorial-4fe3)
-- [AWS DEMO: Step By Step Guide To Deploy Full End To End Web Application on 7 Services](https://dev.to/josephhonpah/aws-demo-step-by-step-guide-to-deploy-full-end-to-end-web-application-on-7-services-hk3)
-- [Sherlock Holmes: The Case of the Invalid HeloHost Error](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-invalid-helohost-error-1dnn)
-- [Digging Deep into the Core of Frontend Development](https://dev.to/saadahmad/digging-deep-into-the-core-of-frontend-development-oi3)
-- [AWS CONTROL TOWER FOR MULTI ACCOUNT AND COMPLIANCE.](https://dev.to/josephhonpah/aws-control-tower-for-multi-account-and-compliance-1h35)
+- [External Versioning in GCC: Defining Project Versions Without Modifying Source Code](https://dev.to/pcmagas/quicktip-how-to-define-version-your-project-written-in-c-4o8c)
+- [Dynamic routes in Next](https://dev.to/udit_saurabh_86a790171b67/dynamic-routes-in-next-5e84)
+- [What is Financial Spreading? How SimplAI’s Agentic AI Makes It Seamless](https://dev.to/simplai/what-is-financial-spreading-how-simplais-agentic-ai-makes-it-seamless-2h9c)
+- [[Boost]](https://dev.to/dt_yo0x9/-1f2h)
+- [12 cool open-source projects worth checking out in 2025](https://dev.to/andrewbaisden/12-cool-open-source-projects-worth-checking-out-in-2025-46ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
