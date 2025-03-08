@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [External Versioning in GCC: Defining Project Versions Without Modifying Source Code](https://dev.to/pcmagas/quicktip-how-to-define-version-your-project-written-in-c-4o8c)
-- [Dynamic routes in Next](https://dev.to/udit_saurabh_86a790171b67/dynamic-routes-in-next-5e84)
-- [What is Financial Spreading? How SimplAI’s Agentic AI Makes It Seamless](https://dev.to/simplai/what-is-financial-spreading-how-simplais-agentic-ai-makes-it-seamless-2h9c)
-- [[Boost]](https://dev.to/dt_yo0x9/-1f2h)
-- [12 cool open-source projects worth checking out in 2025](https://dev.to/andrewbaisden/12-cool-open-source-projects-worth-checking-out-in-2025-46ie)
+- [Creating a Microservice Architecture with Laravel APIs](https://dev.to/programmerhasan/creating-a-microservice-architecture-with-laravel-apis-3a16)
+- [🛠️ Fixing CORS Errors in MERN Stack](https://dev.to/prathvihan108/fixing-cors-errors-in-mern-stack-fph)
+- [Backup file system formats maybe](https://dev.to/maybejosiah/backup-file-system-formats-maybe-2p3e)
+- [Capítulo 5 - Ordenando no Java 8](https://dev.to/fundamentosjava/capitulo-5-ordenando-no-java-8-1aee)
+- [Diet plan to reduce body fat](https://dev.to/rakeshreddy512/diet-plan-to-reduce-body-fat-403j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
