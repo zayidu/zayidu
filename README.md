@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [➡️ Understanding JavaScript&#39;s `this` Keyword: Once and For All](https://dev.to/artem_turlenko/understanding-javascripts-this-keyword-once-and-for-all-1i32)
-- [Top Front-End Development Interview Questions Commonly Asked by Mid-Sized Companies and FAANG](https://dev.to/er-raj-aryan/top-front-end-development-interview-questions-commonly-asked-by-mid-sized-companies-and-faang-dn7)
-- [Understanding Runlevels in Linux: A Complete Guide](https://dev.to/vachhanirishi/understanding-runlevels-in-linux-a-complete-guide-2pbp)
-- [The Future of Coding: How AI-Powered IDEs Are Revolutionizing Development 🚀](https://dev.to/asim786521/the-future-of-coding-how-ai-powered-ides-are-revolutionizing-development-1k0p)
-- [Running a Full Bitgesell Node on Raspberry Pi &lpar;5/ 4 Model B&rpar;](https://dev.to/naftalimurgor/running-a-full-bitgesell-node-on-raspberry-pi-5-4-model-b-4536)
+- [AI Breakthrough: New Self-Teaching Model Masters PhD Science and Math Using Simple Tools](https://dev.to/mikeyoung44/ai-breakthrough-new-self-teaching-model-masters-phd-science-and-math-using-simple-tools-3doo)
+- [Advanced Linux Commands Every DevOps Engineer Must Know](https://dev.to/kristarking/advanced-linux-commands-every-devops-engineer-must-know-50f5)
+- [Cracker](https://dev.to/codewizard123/cracker-16nh)
+- [K3N4NPROEDİTOR](https://dev.to/kenan_canyreq_6da3350f12/k3n4nproeditor-4d0h)
+- [Terraform Import Made Easy: Bring Your Azure Resources Under IaC!](https://dev.to/kristarking/terraform-import-made-easy-bring-your-azure-resources-under-iac-40k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
