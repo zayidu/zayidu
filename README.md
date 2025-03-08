@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to New Relic Metrics: Application &amp; Infrastructure Monitoring](https://dev.to/devcorner/comprehensive-guide-to-new-relic-metrics-application-infrastructure-monitoring-516g)
-- [📝 Docker Images Cheat Sheet 🚀](https://dev.to/ciscoanass/docker-images-cheat-sheet-2on3)
-- [Nocode LLM based chatbot generator platform](https://dev.to/genraidev_23c4e0ee7422f/nocode-llm-based-chatbot-generator-platform-43a7)
-- [Move Your Hugging Face LLM to S3 Like a Pro &lpar;Without Wasting Local Space!&rpar; 🚀](https://dev.to/codexmakercompany/move-your-hugging-face-llm-to-s3-like-a-pro-without-wasting-local-space-15kp)
-- [Manus Invite Codes Selling for $14,000? Try This Free DeepSeek-Based Alternative!](https://dev.to/localfaceswap/manus-invite-codes-selling-for-14000-try-this-free-deepseek-based-alternative-1idc)
+- [🚀 Celebrating the WeCoded Challenge with Code! 🎉](https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi)
+- [Warehouse Woes](https://dev.to/rmion/warehouse-woes-41i0)
+- [Synchronizing Java Collections for Thread Safety: A Complete Guide](https://dev.to/devcorner/synchronizing-java-collections-for-thread-safety-a-complete-guide-4f8p)
+- [# 🌗 How to Add Theme Switching with MobX in React](https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h)
+- [JS basic question. with answer](https://dev.to/anjali_gurjar_dff81513867/js-basic-question-with-answer-1b7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
