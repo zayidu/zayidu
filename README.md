@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Automation with These Python Hacks](https://dev.to/resource_bunk_1077cab07da/master-automation-with-these-python-hacks-5dc1)
-- [Serverless Python APIs: Hype or Future?](https://dev.to/snappytuts/serverless-python-apis-hype-or-future-4m93)
-- [Looking for APP Developer](https://dev.to/abuyuvraj_0e8e16fc46032ed/looking-for-app-developer-31df)
-- [Securing Node Exporter Metrics](https://dev.to/alimehr75/securing-node-exporter-metrics-2ome)
-- [Demystifying Flutter Layout System: Constraints, Sizing, and Overflow Management](https://dev.to/joaopimentag/demystifying-flutter-layout-system-constraints-sizing-and-overflow-management-450i)
+- [Top 5 HTML Tricks Every Developer Should Know](https://dev.to/vishnusatheesh/top-5-html-tricks-every-developer-should-know-19lh)
+- [How to Create an HTTPS Proxy Like Burp Suite](https://dev.to/abdelfetah/how-to-create-an-https-proxy-like-burp-suite-1khm)
+- [What Are the Top Seo Tools for Keyword Research in 2025?](https://dev.to/cristianalex_17/what-are-the-top-seo-tools-for-keyword-research-in-2025-23i3)
+- [Common Pitfalls That Can Make Your AWS Cloud Bill Balloon](https://dev.to/aws-builders/common-pitfalls-that-can-make-your-aws-cloud-bill-balloon-o61)
+- [How to Deploy Your Gatsby Site on Netlify in 2025](https://dev.to/anna_golubkova/how-to-deploy-your-gatsby-site-on-netlify-in-2025-1id5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
