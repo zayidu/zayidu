@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Jotai: Simple and Powerful State Management in React](https://dev.to/ali_reza_sadeghi_/introduction-to-jotai-simple-and-powerful-state-management-in-react-39d4)
-- [Shortcut Keys of Computer Keyboard for Faster Work](https://dev.to/ibrahim_azhar_45e1330850c/shortcut-keys-of-computer-keyboard-for-faster-work-3bhh)
-- [Master These 7 JavaScript Array Functions and Instantly Level Up — PART 1](https://dev.to/ganesh_gurav/master-these-7-javascript-array-functions-and-instantly-level-up-part-1-44eo)
-- [Aggressive Inline in .NET: Boosting Performance or Over-Optimization?](https://dev.to/ahmedmohamedhussein/aggressive-inline-in-net-boosting-performance-or-over-optimization-6lh)
-- [Create Keyboard Shortcut&#39;s to open App&#39;s Natively on Mac for Free &lpar; Easy Way &rpar;](https://dev.to/shihabdotdev/create-keyboard-shortcuts-to-open-apps-natively-on-mac-for-free-easy-way--225g)
+- [🚀 20 Must-Know GitHub Repositories for Developers!](https://dev.to/sahinur/20-must-know-github-repositories-for-developers-in-2025-57a8)
+- [4 Ways to Deploy any LLM on Hugging Face every developer should know](https://dev.to/aigurux/4-ways-to-deploy-any-llm-on-hugging-face-every-developer-should-know-5217)
+- [Odoo Payment Gateway Integration: Transactions Not Processing](https://dev.to/james_scott_bf1d5c8cfcaa0/odoo-payment-gateway-integration-transactions-not-processing-69a)
+- [Authentication in nextjs app-router using Auth.js v5 with Credentials](https://dev.to/venumarious/authentication-in-nextjs-app-router-using-authjs-v5-with-credentials-47ji)
+- [Performance Issues in Odoo: Slow Loading on Large Datasets](https://dev.to/james_scott_bf1d5c8cfcaa0/performance-issues-in-odoo-slow-loading-on-large-datasets-3f39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
