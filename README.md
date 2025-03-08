@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Neovim on OpenWRT](https://dev.to/yawatasensei/using-neovim-on-openwrt-158k)
-- [The Future of Kubernetes Networking: Key Concepts for Beginners in 2025:](https://dev.to/devlinkstudios/the-future-of-kubernetes-networking-key-concepts-for-beginners-in-2025-g5m)
-- [Launching an Amazon EC2 Instance: A Strategic Deep Dive for Decision-Makers](https://dev.to/yugjadvani/launching-an-amazon-ec2-instance-a-strategic-deep-dive-for-decision-makers-15fh)
-- [What Is Split For Heat In Amazon DynamoDB?](https://dev.to/urielbitton/what-is-split-for-heat-in-amazon-dynamodb-bm8)
-- [Automating Version Updates in Node.js with Git Hooks](https://dev.to/lebed2045/automating-version-updates-in-nodejs-with-git-hooks-5dfa)
+- [Why Feedback Loops Matter in API Development](https://dev.to/zuplo/why-feedback-loops-matter-in-api-development-1ljc)
+- [5 Must-Have Features for API Documentation Tools](https://dev.to/zuplo/5-must-have-features-for-api-documentation-tools-1fpb)
+- [Mastering API Throughput: 8 Key Strategies for Optimal Performance](https://dev.to/zuplo/mastering-api-throughput-8-key-strategies-for-optimal-performance-3f6o)
+- [5 Key Tips for Enhancing API Security Against DDoS Attacks](https://dev.to/zuplo/5-key-tips-for-enhancing-api-security-against-ddos-attacks-5e7o)
+- [Best Practices for Consistent API Error Handling](https://dev.to/zuplo/best-practices-for-consistent-api-error-handling-10d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
