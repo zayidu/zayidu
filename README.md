@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [German LLM Benchmark](https://dev.to/landwehr/german-llm-benchmark-4bg7)
-- [Will AI Replace Programmers? A Reality Check 🤖💻](https://dev.to/razinrayees/will-ai-replace-programmers-a-reality-check-1njj)
-- [Install olmOCR: The Best Open-Source OCR Toolkit for Document Parsing](https://dev.to/nodeshiftcloud/install-olmocr-the-best-open-source-ocr-toolkit-for-document-parsing-npn)
-- [Python Testing – Unit Tests, Pytest, and Best Practices](https://dev.to/nkpydev/python-testing-unit-tests-pytest-and-best-practices-45gl)
-- [🚀 Pilha e Heap – Onde os Dados Ficam na Memória?](https://dev.to/develop4us/pilha-e-heap-onde-os-dados-ficam-na-memoria-go1)
+- [React hydration slowing your app? See how the Browser Scheduling API boosts perf with scheduler.postTask&lpar;&rpar; &amp; yield&lpar;&rpar;. Cut INP from 24179s to 62ms with a 3s delay—chunking next! Explore code &amp; React 19 teases. Tackle heavy components here. Dive in &amp; comment](https://dev.to/suzyg38/react-hydration-slowing-your-app-see-how-the-browser-scheduling-api-boosts-perf-with-gc2)
+- [Laravel 12 § Laravel Herd](https://dev.to/developpeurtaf/laravel-12-ss-laravel-herd-16b3)
+- [Funding a new tech project / find a company investor](https://dev.to/jackie-d/funding-a-new-tech-project-find-a-company-investor-5bmf)
+- [Are you really treating redis as cache storage ?](https://dev.to/mdnurahmed/are-you-really-treating-redis-as-cache-storage--43e3)
+- [100 Essential Nmap Commands for Network Scanning](https://dev.to/kumar_kusumitsharma_b190/100-essential-nmap-commands-for-network-scanning-3fcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
