@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙开发：熟知@BuilderParam装饰器](https://dev.to/abnerming888/hong-meng-kai-fa-shou-zhi-builderparamzhuang-shi-qi-2kna)
-- [Push-based CLI Workflow on MacOS](https://dev.to/zhu424/push-based-cli-workflow-on-macos-1g76)
-- [How Does Database Management Improve Data Security?](https://dev.to/cristianalex_17/how-does-database-management-improve-data-security-5aoj)
-- [鸿蒙开发：弹性布局Flex](https://dev.to/abnerming888/hong-meng-kai-fa-dan-xing-bu-ju-flex-30fl)
-- [Flowers](https://dev.to/abhishek_singh_764613a66e/flowers-4cn6)
+- [🔥 The Fastest Python API Frameworks Ranked — Which One Should You Choose?](https://dev.to/dct_technologyprivatelimited/the-fastest-python-api-frameworks-ranked-which-one-should-you-choose-31ak)
+- [I Tried 20+ No-Code Web Scraping Tools to Make Money - These 3 Are the Absolute Best](https://dev.to/nitinfab/i-tried-20-no-code-web-scraping-tools-to-make-money-these-3-are-the-absolute-best-4op4)
+- [#wecode Landing Page - WeCoded Challenge March 2025](https://dev.to/deathcrafter/wecode-landing-page-wecoded-challenge-march-2025-nci)
+- [Debugging taking forever? From unclear bug reports to hidden dependencies, find out why debugging slows you down &amp; how to fix it faster! 🚀 Read the full blog for expert tips &amp; smarter debugging strategies. #debugging #developersproblems](https://dev.to/pratham_naik_project_manager/debugging-taking-forever-from-unclear-bug-reports-to-hidden-dependencies-find-out-why-debugging-1b4b)
+- [When you do custom option on the form, you need set &quot;status: :see_other&quot; on controller response](https://dev.to/madaarya/when-you-do-custom-option-on-the-form-you-need-set-status-seeother-on-controller-response-mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
