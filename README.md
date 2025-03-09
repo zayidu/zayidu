@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JUNIOR DEVELOPER JOURNEY](https://dev.to/elijah_ntan_740be735cb580/junior-developer-journey-4hgg)
-- [AWS GuardDuty vs. Inspector vs. Shield, What’s the Difference?](https://dev.to/simimwanza/aws-guardduty-vs-inspector-vs-shield-whats-the-difference-15id)
-- [Building the Future: How Web3 is Revolutionizing the Internet](https://dev.to/raji_moshood_ee3a4c2638f6/building-the-future-how-web3-is-revolutionizing-the-internet-2e81)
-- [AI Agent Chaos? Motia Hands You the Reins, Pronto](https://dev.to/mike_piccolo_51a85f7187e6/ai-agent-chaos-motia-hands-you-the-reins-pronto-jp1)
-- [I &lpar;to&rpar; did it! &lpar;To-do project&rpar;](https://dev.to/codecara/i-to-did-it-to-do-project-4396)
+- [Minecraft Game Server Hosting](https://dev.to/dare81/minecraft-game-server-hosting-16pl)
+- [could please you help me with c?](https://dev.to/far_han_23e5b3f6693104fcf/could-you-help-me-with-c-4com)
+- [Why I’m Learning C# and .NET After Two Decades of Programming](https://dev.to/kerricklong/why-im-learning-c-and-net-after-two-decades-of-programming-32nk)
+- [Spring Framework Ecosystem](https://dev.to/amdose/spring-framework-ecosystem-pbo)
+- [China’s Manus Agent by Monica: What You Actually Need to Know](https://dev.to/chaitanya_kulthe_178bdb74/chinas-manuas-agent-by-monica-what-you-actually-need-to-kno-76l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
