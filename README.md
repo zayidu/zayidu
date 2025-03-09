@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Easiest Way To Use Https In Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-3mgh)
-- [How to Implement Preferences DataStore for Compose Multiplatform Mobile &lpar;Android and iOS&rpar;](https://dev.to/rendyadidarma/how-to-implement-preferences-datastore-for-compose-multiplatform-mobile-android-and-ios-f8)
-- [Documentation That Developers Actually Want to Write](https://dev.to/gc-victor/documentation-that-developers-actually-want-to-write-33io)
-- [Laravel 12 is out! Changes and updates!](https://dev.to/usmanzahidcode/laravel-12-is-out-changes-and-updates-h2a)
-- [Understanding Cleanup in Data Fetching with useEffect in Developer Mode](https://dev.to/monzuralamgit/understanding-cleanup-in-data-fetching-with-useeffect-in-developer-mode-55d2)
+- [What is Network Security? Definition, How It Works &amp; Best Practices](https://dev.to/sifytechnologies_1_4ed166/what-is-network-security-definition-how-it-works-best-practices-4l95)
+- [Solved by StyleObserver: Element.matchContainer&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/solved-by-styleobserver-elementmatchcontainer-346p)
+- [Key Use Cases of RAG: From Chatbots to Research Assistants](https://dev.to/shaheryaryousaf/key-use-cases-of-rag-from-chatbots-to-research-assistants-356f)
+- [A Range of Choices](https://dev.to/preetha_vaishnavi_2b82358/a-range-of-choices-3k0n)
+- [Week 5: Decoding Market Structure—My Ultralearning Stock Market Journey](https://dev.to/premkumarv/week-5-decoding-market-structure-my-ultralearning-stock-market-journey-18cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
