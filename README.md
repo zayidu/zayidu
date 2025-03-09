@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Go as a JavaScript Dev Moving to DevOps](https://dev.to/w3cdpass/my-first-steps-in-go-as-a-javascript-dev-moving-to-devops-281o)
-- [How To Write Unit Test Cases In React JS](https://dev.to/theudemezue/how-to-write-unit-test-cases-in-react-js-3idi)
-- [How To Work With API In React JS](https://dev.to/theudemezue/how-to-work-with-api-in-react-js-41ia)
-- [Tired of Switching Between Your Editor and Browser? This Changed My React Workflow](https://dev.to/wegin/tired-of-switching-between-your-editor-and-browser-this-changed-my-react-workflow-4ogb)
-- [Apache Iceberg: Unifying Batch and Streaming in the Data Lakehouse](https://dev.to/tomerbendavid/apache-iceberg-unifying-batch-and-streaming-in-the-data-lakehouse-3365)
+- [🌟 The Ultimate Guide to DevOps: Unlocking Speed, Efficiency, and Innovation &lpar;With a Dash of Fun!&rpar;](https://dev.to/robinrai2612/the-ultimate-guide-to-devops-unlocking-speed-efficiency-and-innovation-with-a-dash-of-fun-c1k)
+- [OAuth vs JWT: Which One Secures Your APIs Better?](https://dev.to/raajaryan/oauth-vs-jwt-which-one-secures-your-apis-better-3c35)
+- [Mastering Recursion: Think Like a Recursive Ninja! 🥷](https://dev.to/theyashsawarkar/mastering-recursion-think-like-a-recursive-ninja-2pm)
+- [First post](https://dev.to/lagiles07/first-post-586i)
+- [Top 10 Programming Languages that will Dominate Tech in 2025](https://dev.to/sharvin26/top-10-programming-languages-that-will-dominate-tech-in-2025-3ieo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
