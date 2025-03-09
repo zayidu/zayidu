@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Vectors to HashSets: Navigating Rust’s Data Structures](https://dev.to/leapcell/from-vectors-to-hashsets-navigating-rusts-data-structures-1p7a)
-- [Debugging with Source Maps: A Comprehensive Guide](https://dev.to/chiragagg5k/debugging-with-source-maps-a-comprehensive-guide-3dhp)
-- [Have You Ever Thought About What Cloudflare Does?](https://dev.to/prathvihan108/have-you-ever-thought-about-what-cloudflare-does-3164)
-- [Every developers first friend: Vanilla JS](https://dev.to/shaman_shetty/every-developers-first-friend-vanilla-js-3cec)
-- [I Replaced Pandas with THIS. Game-Changer!](https://dev.to/resource_bunk_1077cab07da/i-replaced-pandas-with-this-game-changer-1jic)
+- [Fast vs. Slow Thinking: Designing UX for Both Brains](https://dev.to/rijultp/fast-vs-slow-thinking-designing-ux-for-both-brains-31gg)
+- [The easiest way to use HTTPS in Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-1eba)
+- [New Release: Free Email Signature Generator](https://dev.to/gbti/new-release-free-email-signature-generator-3e80)
+- [Maximizing Efficiency: The Ultimate Guide to In-House Software Development in 2025](https://dev.to/jetthoughts/maximizing-efficiency-the-ultimate-guide-to-in-house-software-development-in-2025-4an6)
+- [Rust Beginnings: Coding a Perceptron with Struggles and Hope](https://dev.to/tomomomomomomomo/rust-beginnings-coding-a-perceptron-with-struggles-and-hope-3mkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
