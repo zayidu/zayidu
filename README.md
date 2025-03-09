@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 1: Mongo DB](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-1-mongo-db-1281)
-- [Building AI-Powered Recommendation Engines at Scale](https://dev.to/kartikmehta8/building-ai-powered-recommendation-engines-at-scale-3ghl)
-- [Product-Based vs. Service-Based Companies: Key Differences and Examples](https://dev.to/tene/product-based-vs-service-based-companies-key-differences-and-examples-3hg0)
-- [[Boost]](https://dev.to/dream_life_f3f4a537a11874/-2m73)
-- [How to use pgpainless-core](https://dev.to/wennan_xu/how-to-use-pgpainless-core-2amn)
+- [How to get a gene sequence from entrez using biopython?](https://dev.to/lisw05/how-to-get-a-gene-sequence-from-entrez-using-biopython-1c56)
+- [What Are the Most Common Sql Interview Questions for Beginners and How to Prepare for Them?](https://dev.to/anna_golubkova/what-are-the-most-common-sql-interview-questions-for-beginners-and-how-to-prepare-for-them-1hj9)
+- [Open-Source ETL to prepare data for RAG 🦀 🐍](https://dev.to/badmonster0/open-source-etl-to-prepare-data-for-rag-2le3)
+- [Migrating from AWS Lambda to EKS: Our Journey and Key Learnings](https://dev.to/kshah24/migrating-from-aws-lambda-to-eks-our-journey-and-key-learnings-1j19)
+- [Why You Need SOLID as a Developer](https://dev.to/peixotons/why-you-need-solid-as-a-developer-1fp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
