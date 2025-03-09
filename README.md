@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Web Cache Deception Attacks in Laravel: A Complete Guide](https://dev.to/pentest_testing_corp/how-to-prevent-web-cache-deception-attacks-in-laravel-a-complete-guide-3c3n)
-- [The Future of ERP: Transforming Enterprise Software for the Digital Age](https://dev.to/truesuggest/the-future-of-erp-transforming-enterprise-software-for-the-digital-age-2m90)
-- [How to be Test Driven with Spark: Chapter 4 - Leaning into Property Based Testing](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-4-leaning-into-property-based-testing-2hln)
-- [Exploring Cursor: The AI Code Editor](https://dev.to/uiuxsatyam/exploring-cursor-the-ai-code-editor-5bbm)
-- [Automating AWS RDS Management Using IAM, Lambda, CloudWatch, and EventBridge](https://dev.to/naamiahmed/automating-aws-rds-management-using-iam-lambda-cloudwatch-and-eventbridge-2l47)
+- [Understanding Root vs. Non-Root Users, Docker, and Fixing ECR Authentication Issues](https://dev.to/lamsiddharth/understanding-root-vs-non-root-users-docker-and-fixing-ecr-authentication-issues-8jh)
+- [Improving Japanese Input UX in Multilingual Applications: Properly Handling IME Conversion](https://dev.to/s4yuba/improving-japanese-input-ux-in-multilingual-applications-properly-handling-ime-conversion-2ild)
+- [Improving Software Development, One Tiny Kaizen Step at a Time](https://dev.to/makowskid/improving-software-development-one-tiny-kaizen-step-at-a-time-35oa)
+- [Debug Like a Pro with &#39;git bisect&#39;](https://dev.to/robin_a_p/debug-like-a-pro-with-git-bisect-14h4)
+- [Fixing ubuntu glitch](https://dev.to/dave-in-cloud/fixing-ubuntu-glitch-4p23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
