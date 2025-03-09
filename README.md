@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alertmanager with Telegram for Prometheus-Stack in K8S](https://dev.to/alimehr75/alertmanager-with-telegram-for-prometheus-stack-in-k8s-2n5p)
-- [The Ultimate Guide to Chart Types in Power BI](https://dev.to/gateru/the-ultimate-guide-to-chart-types-in-power-bi-ii6)
-- [🚀 O que é uma struct no C#?](https://dev.to/develop4us/o-que-e-uma-struct-no-c-3m4h)
-- [Unsupported expression type: ConditionalExpression” for Dynamic Filters](https://dev.to/nadun_malinda_54544e2e45c/unsupported-expression-type-conditionalexpression-for-dynamic-filters-44mp)
-- [So you would like to digitise your CD collection? &lpar;Part 3&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f)
+- [Paving the Way: Eliminating Gender Barriers in Technology](https://dev.to/aws-builders/paving-the-way-eliminating-gender-barriers-in-technology-3ha0)
+- [[Boost]](https://dev.to/jacksonkasi/-4pn)
+- [DevSecOps: Integrating Security into Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devsecops-integrating-security-into-your-cicd-pipeline-hj)
+- [Generation AI: The age of AI Paired Programming](https://dev.to/pseudyx/generation-ai-the-age-of-ai-paired-programming-4n97)
+- [My first post about learning redis:How to ensure the data consistency betwen Redis and Mysql?](https://dev.to/waynechen/my-first-post-about-learning-redishow-to-ensure-the-data-consistency-betwen-redis-and-mysql-1352)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
