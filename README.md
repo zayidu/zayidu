@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 The Ultimate Guide to DevOps: Unlocking Speed, Efficiency, and Innovation &lpar;With a Dash of Fun!&rpar;](https://dev.to/robinrai2612/the-ultimate-guide-to-devops-unlocking-speed-efficiency-and-innovation-with-a-dash-of-fun-c1k)
-- [OAuth vs JWT: Which One Secures Your APIs Better?](https://dev.to/raajaryan/oauth-vs-jwt-which-one-secures-your-apis-better-3c35)
-- [Mastering Recursion: Think Like a Recursive Ninja! 🥷](https://dev.to/theyashsawarkar/mastering-recursion-think-like-a-recursive-ninja-2pm)
-- [First post](https://dev.to/lagiles07/first-post-586i)
-- [Top 10 Programming Languages that will Dominate Tech in 2025](https://dev.to/sharvin26/top-10-programming-languages-that-will-dominate-tech-in-2025-3ieo)
+- [How to Prevent Web Cache Deception Attacks in Laravel: A Complete Guide](https://dev.to/pentest_testing_corp/how-to-prevent-web-cache-deception-attacks-in-laravel-a-complete-guide-3c3n)
+- [The Future of ERP: Transforming Enterprise Software for the Digital Age](https://dev.to/truesuggest/the-future-of-erp-transforming-enterprise-software-for-the-digital-age-2m90)
+- [How to be Test Driven with Spark: Chapter 4 - Leaning into Property Based Testing](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-4-leaning-into-property-based-testing-2hln)
+- [Exploring Cursor: The AI Code Editor](https://dev.to/uiuxsatyam/exploring-cursor-the-ai-code-editor-5bbm)
+- [Automating AWS RDS Management Using IAM, Lambda, CloudWatch, and EventBridge](https://dev.to/naamiahmed/automating-aws-rds-management-using-iam-lambda-cloudwatch-and-eventbridge-2l47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
