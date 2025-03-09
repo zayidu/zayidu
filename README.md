@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 1: Mongo DB](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-1-mongo-db-1281)
 - [Building AI-Powered Recommendation Engines at Scale](https://dev.to/kartikmehta8/building-ai-powered-recommendation-engines-at-scale-3ghl)
 - [Product-Based vs. Service-Based Companies: Key Differences and Examples](https://dev.to/tene/product-based-vs-service-based-companies-key-differences-and-examples-3hg0)
 - [[Boost]](https://dev.to/dream_life_f3f4a537a11874/-2m73)
 - [How to use pgpainless-core](https://dev.to/wennan_xu/how-to-use-pgpainless-core-2amn)
-- [HarmonyOS Next开发教程之地图定位](https://dev.to/youlanjihua/harmonyos-nextkai-fa-jiao-cheng-zhi-di-tu-ding-wei-47l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
