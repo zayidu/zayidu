@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Root vs. Non-Root Users, Docker, and Fixing ECR Authentication Issues](https://dev.to/lamsiddharth/understanding-root-vs-non-root-users-docker-and-fixing-ecr-authentication-issues-8jh)
-- [Improving Japanese Input UX in Multilingual Applications: Properly Handling IME Conversion](https://dev.to/s4yuba/improving-japanese-input-ux-in-multilingual-applications-properly-handling-ime-conversion-2ild)
-- [Improving Software Development, One Tiny Kaizen Step at a Time](https://dev.to/makowskid/improving-software-development-one-tiny-kaizen-step-at-a-time-35oa)
-- [Debug Like a Pro with &#39;git bisect&#39;](https://dev.to/robin_a_p/debug-like-a-pro-with-git-bisect-14h4)
-- [Fixing ubuntu glitch](https://dev.to/dave-in-cloud/fixing-ubuntu-glitch-4p23)
+- [The Tech Stack Behind My Side Projects &lpar;And Why I Stick to It&rpar;](https://dev.to/geiger01/the-tech-stack-behind-my-side-projects-and-why-i-stick-to-it-2bh9)
+- [[Boost]](https://dev.to/manojlingala/-3a0g)
+- [Orchestrating Financial Transactions with AWS Step Functions](https://dev.to/aws-builders/orchestrating-financial-transactions-with-aws-step-functions-3ilk)
+- [Members](https://dev.to/firdavs_mukhsimov_9f62550/members-4nng)
+- [My HNG Internship Journey: Stage 4 — Designing a Kanban Board in Figma](https://dev.to/toptech5419/my-hng-internship-journey-stage-4-designing-a-kanban-board-in-figma-3eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
