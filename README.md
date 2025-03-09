@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Paving the Way: Eliminating Gender Barriers in Technology](https://dev.to/aws-builders/paving-the-way-eliminating-gender-barriers-in-technology-3ha0)
-- [[Boost]](https://dev.to/jacksonkasi/-4pn)
-- [DevSecOps: Integrating Security into Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devsecops-integrating-security-into-your-cicd-pipeline-hj)
-- [Generation AI: The age of AI Paired Programming](https://dev.to/pseudyx/generation-ai-the-age-of-ai-paired-programming-4n97)
-- [My first post about learning redis:How to ensure the data consistency betwen Redis and Mysql?](https://dev.to/waynechen/my-first-post-about-learning-redishow-to-ensure-the-data-consistency-betwen-redis-and-mysql-1352)
+- [Introducing My New Project Tarin, A TypeScript Backend Library For API Development](https://dev.to/abdelfetah/introducing-my-new-project-tarin-a-typescript-backend-library-for-api-development-506n)
+- [10 Essential Linux Commands Every Beginner Should Know: Your Path to Linux Mastery](https://dev.to/faelperetta/10-essential-linux-commands-every-beginner-should-know-your-path-to-linux-mastery-35ol)
+- [Deepfake Video: A Developer’s Guide to Innovation and Detection](https://dev.to/neural_defend/deepfake-video-a-developers-guide-to-innovation-and-detection-30fe)
+- [The Brains Behind the Wheel: A Deep Dive into the Types of Computers Powering Modern Cars](https://dev.to/kumar_kusumitsharma_b190/title-the-brains-behind-the-wheel-a-deep-dive-into-the-types-of-computers-powering-modern-cars-jik)
+- [NestJS + AWS S3 + Multipart file upload + gRPC + e2e testing](https://dev.to/kasir-barati/nestjs-aws-s3-multipart-file-upload-grpc-e2e-testing-550e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
