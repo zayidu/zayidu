@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Stack Behind My Side Projects &lpar;And Why I Stick to It&rpar;](https://dev.to/geiger01/the-tech-stack-behind-my-side-projects-and-why-i-stick-to-it-2bh9)
-- [[Boost]](https://dev.to/manojlingala/-3a0g)
-- [Orchestrating Financial Transactions with AWS Step Functions](https://dev.to/aws-builders/orchestrating-financial-transactions-with-aws-step-functions-3ilk)
-- [Members](https://dev.to/firdavs_mukhsimov_9f62550/members-4nng)
-- [My HNG Internship Journey: Stage 4 — Designing a Kanban Board in Figma](https://dev.to/toptech5419/my-hng-internship-journey-stage-4-designing-a-kanban-board-in-figma-3eaa)
+- [Alertmanager with Telegram for Prometheus-Stack in K8S](https://dev.to/alimehr75/alertmanager-with-telegram-for-prometheus-stack-in-k8s-2n5p)
+- [The Ultimate Guide to Chart Types in Power BI](https://dev.to/gateru/the-ultimate-guide-to-chart-types-in-power-bi-ii6)
+- [🚀 O que é uma struct no C#?](https://dev.to/develop4us/o-que-e-uma-struct-no-c-3m4h)
+- [Unsupported expression type: ConditionalExpression” for Dynamic Filters](https://dev.to/nadun_malinda_54544e2e45c/unsupported-expression-type-conditionalexpression-for-dynamic-filters-44mp)
+- [So you would like to digitise your CD collection? &lpar;Part 3&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
