@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Example of @Async in Spring Boot for Beginners](https://dev.to/realnamehidden1_61/example-of-async-in-spring-boot-for-beginners-38kc)
+- [If You&#39;re Not Using These 7 AI Tools, You&#39;re Coding &quot;10X Slower&quot; for No Reason](https://dev.to/coderabbitai/if-youre-not-using-these-7-ai-tools-youre-coding-10x-slower-for-no-reason-3005)
+- [System Design resources for Interview Preparation](https://dev.to/rakeshreddy512/system-design-resources-for-interview-preparation-1ah0)
+- [My Journey Learning Object-Oriented Programming Through Java](https://dev.to/dahami_fabbio/my-journey-learning-object-oriented-programming-through-java-4fik)
 - [Frontend interview question — Parallel task limit](https://dev.to/moniv9/frontend-interview-question-parallel-task-limit-118o)
-- [I made MCP &lpar;Model Context Protocol&rpar; alternative solution, for OpenAI and all other LLMs, that is cheaper than Anthropic Claude](https://dev.to/samchon/i-made-mcp-model-context-protocol-alternative-solution-for-openai-and-all-other-llms-that-is-i7f)
-- [5 commonly asked frontend interview questions in product-based companies](https://dev.to/moniv9/5-commonly-asked-frontend-interview-questions-in-product-based-companies-l2b)
-- [Professional Cloud Security Engineer Certification exam preparation 2025](https://dev.to/huydanggdg/professional-cloud-security-engineer-certification-exam-preparation-2025-4m9p)
-- [Step-by-Step Guide to Creating and Querying a SQL Server Database - Day 1](https://dev.to/nikitha_chena/step-by-step-guide-to-creating-and-querying-a-sql-server-database-day-1-2b0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
