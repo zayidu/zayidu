@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Network Security? Definition, How It Works &amp; Best Practices](https://dev.to/sifytechnologies_1_4ed166/what-is-network-security-definition-how-it-works-best-practices-4l95)
-- [Solved by StyleObserver: Element.matchContainer&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/solved-by-styleobserver-elementmatchcontainer-346p)
-- [Key Use Cases of RAG: From Chatbots to Research Assistants](https://dev.to/shaheryaryousaf/key-use-cases-of-rag-from-chatbots-to-research-assistants-356f)
-- [A Range of Choices](https://dev.to/preetha_vaishnavi_2b82358/a-range-of-choices-3k0n)
-- [Week 5: Decoding Market Structure—My Ultralearning Stock Market Journey](https://dev.to/premkumarv/week-5-decoding-market-structure-my-ultralearning-stock-market-journey-18cc)
+- [Diseño de productos de software](https://dev.to/ggguille/diseno-de-productos-de-software-1fc3)
+- [Why Rust is the Future of Programming](https://dev.to/sureshchandras3kar/why-rust-is-the-future-of-programming-19jb)
+- [Best Practices for Designing Scalable MongoDB Models with Mongoose](https://dev.to/babar_bilal_2e14c231dfa8d/best-practices-for-designing-scalable-mongodb-models-with-mongoose-10nm)
+- [The of Accessibility in Website Development for Promotions](https://dev.to/codecharley93/the-of-accessibility-in-website-development-for-promotions-2cg8)
+- [Feature Factory: A Feature Engineering Library for Rust &lpar;Built on Apache DataFusion&rpar; 🦀](https://dev.to/habedi/feature-factory-a-feature-engineering-library-for-rust-built-on-apache-datafusion-3go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
