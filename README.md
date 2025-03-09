@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast vs. Slow Thinking: Designing UX for Both Brains](https://dev.to/rijultp/fast-vs-slow-thinking-designing-ux-for-both-brains-31gg)
-- [The easiest way to use HTTPS in Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-1eba)
-- [New Release: Free Email Signature Generator](https://dev.to/gbti/new-release-free-email-signature-generator-3e80)
-- [Maximizing Efficiency: The Ultimate Guide to In-House Software Development in 2025](https://dev.to/jetthoughts/maximizing-efficiency-the-ultimate-guide-to-in-house-software-development-in-2025-4an6)
-- [Rust Beginnings: Coding a Perceptron with Struggles and Hope](https://dev.to/tomomomomomomomo/rust-beginnings-coding-a-perceptron-with-struggles-and-hope-3mkn)
+- [Cybersecurity for Beginners: How to Secure Your Website from Hackers](https://dev.to/abibtechid/cybersecurity-for-beginners-how-to-secure-your-website-from-hackers-31nm)
+- [Why I&#39;m Building My Brand Before Launching My App 🚀🔥](https://dev.to/zartarcyber/why-im-building-my-brand-before-launching-my-app-4fa0)
+- [KEY CONCEPTS IN CLOUD COMPUTING](https://dev.to/chiamaka_nwoke/key-concepts-in-cloud-computing-5dj0)
+- [Run DeepSeek locally on BareMetal via K8s](https://dev.to/anas_alloush/run-deepseek-locally-on-baremetal-via-k8s-3ng9)
+- [Azure Container Instances vs Sliplane](https://dev.to/wimadev/azure-container-instances-vs-sliplane-2h3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
