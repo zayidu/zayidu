@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a gene sequence from entrez using biopython?](https://dev.to/lisw05/how-to-get-a-gene-sequence-from-entrez-using-biopython-1c56)
-- [What Are the Most Common Sql Interview Questions for Beginners and How to Prepare for Them?](https://dev.to/anna_golubkova/what-are-the-most-common-sql-interview-questions-for-beginners-and-how-to-prepare-for-them-1hj9)
-- [Open-Source ETL to prepare data for RAG 🦀 🐍](https://dev.to/badmonster0/open-source-etl-to-prepare-data-for-rag-2le3)
-- [Migrating from AWS Lambda to EKS: Our Journey and Key Learnings](https://dev.to/kshah24/migrating-from-aws-lambda-to-eks-our-journey-and-key-learnings-1j19)
-- [Why You Need SOLID as a Developer](https://dev.to/peixotons/why-you-need-solid-as-a-developer-1fp5)
+- [Implementing a Vector Database in a RAG System for a Helpdesk Chatbot with pgvector](https://dev.to/criscmd/implementing-a-vector-database-in-a-rag-system-for-a-helpdesk-chatbot-with-pgvector-2dfj)
+- [First Post](https://dev.to/oscarsolano01/first-post-215n)
+- [Using Spring AI to Access Deepseek Through Alibaba Cloud Model Studio](https://dev.to/ran_lewis_0fbe2ac481ca966/using-spring-ai-to-access-deepseek-through-alibaba-cloud-model-studio-1h3k)
+- [Update &lpar;2025/03/09&rpar;: Added &quot;Other good points of Cline than Cursor&quot; section](https://dev.to/webdeveloperhyper/update-20250309-added-other-good-points-of-cline-than-cursor-section-5db0)
+- [Part 1 - Manage AWS infrastructure Easily with PromptOps: No IaC Needed](https://dev.to/mechcloud/part-1-manage-aws-infrastructure-easily-with-promptops-no-iac-needed-27g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
