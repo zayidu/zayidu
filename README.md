@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in cybersecurity?](https://dev.to/jabran_mustafa_cf7667f97a/ai-in-cybersecurity-2pac)
-- [🎙️We have implemented new features in HMPL to make developers&#39; web apps more secure🔥](https://dev.to/hmpljs/we-have-implemented-new-features-in-hmpl-to-make-developers-web-apps-more-secure-1ppa)
-- [The future of manual testing in the age of Artificial Intelligence &lpar;AI&rpar;](https://dev.to/thillai_devikanthan_205a/the-future-of-manual-testing-in-the-age-of-artificial-intelligence-ai-14a1)
-- [React Keys: The Hidden Hero of Lists! 🔑](https://dev.to/aman_kureshi_/react-keys-the-hidden-hero-of-lists-43m7)
-- [Stop Wasting Money 💰 on Idle Jenkins Instances: A Serverless 🚀 Solution to Slash Your AWS Bill](https://dev.to/codehirise/stop-wasting-money-on-idle-jenkins-instances-a-serverless-solution-to-slash-your-aws-bill-54m1)
+- [From Vectors to HashSets: Navigating Rust’s Data Structures](https://dev.to/leapcell/from-vectors-to-hashsets-navigating-rusts-data-structures-1p7a)
+- [Debugging with Source Maps: A Comprehensive Guide](https://dev.to/chiragagg5k/debugging-with-source-maps-a-comprehensive-guide-3dhp)
+- [Have You Ever Thought About What Cloudflare Does?](https://dev.to/prathvihan108/have-you-ever-thought-about-what-cloudflare-does-3164)
+- [Every developers first friend: Vanilla JS](https://dev.to/shaman_shetty/every-developers-first-friend-vanilla-js-3cec)
+- [I Replaced Pandas with THIS. Game-Changer!](https://dev.to/resource_bunk_1077cab07da/i-replaced-pandas-with-this-game-changer-1jic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
