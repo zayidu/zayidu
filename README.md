@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Banking and Financial Security](https://dev.to/neha_agarwal_f6a30cac6c57/how-ai-is-transforming-banking-and-financial-security-nk0)
-- [Ace Your SQL Interview with These Query Tips](https://dev.to/dbvismarketing/ace-your-sql-interview-with-these-query-tips-c50)
-- [SEO AI Technology Analysis: How Innovation Optimizes Google Rankings](https://dev.to/juddiy/seo-ai-technology-analysis-how-innovation-optimizes-google-rankings-ijp)
-- [An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway](https://dev.to/slickstef11/an-introduction-to-cosmo-router-blazingly-fast-open-source-federation-v1v2-gateway-2g0l)
-- [5 Tools Every Remote Worker Needs to Stay Secure Online](https://dev.to/joywinter90/5-tools-every-remote-worker-needs-to-stay-secure-online-1o0m)
+- [Top 10 JavaScript Animation Libraries in 2025](https://dev.to/hadil/top-10-javascript-animation-libraries-in-2025-2ch5)
+- [Lost in Transition: How to Downgrade to Tailwind CSS v3 in Next.js And React](https://dev.to/myogeshchavan97/lost-in-transition-how-to-downgrade-to-tailwind-css-v3-in-nextjs-and-react-9kl)
+- [Get the records after and before the searched one：SQL VS SPL #12](https://dev.to/esproc_spl/get-the-records-after-and-before-the-searched-onesql-vs-spl-12-3ij1)
+- [Can Human Vitamin B Harm Dogs? A Dangerous Misconception Explained](https://dev.to/topopet/can-human-vitamin-b-harm-dogs-a-dangerous-misconception-explained-fpo)
+- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-more-secure-3bpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
