@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Practice Git Commands Online: A Developer&#39;s Guide](https://dev.to/foxinfotech/how-to-practice-git-commands-online-a-developers-guide-23kk)
-- [What is pip? how to use it?](https://dev.to/lisw05/python-what-is-pip-how-to-use-it-2kgf)
-- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
-- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
-- [Empowering Developers to Achieve Microservices Observability on Kubernetes with Tracestore, OPA, Flagger &amp; Custom Metrics](https://dev.to/prabhu_chinnasamy_086fba6/empowering-developers-to-achieve-microservices-observability-on-kubernetes-with-tracestore-opa-4mba)
+- [Calculate based on the records within the group and fill the result into the first record — From SQL to SPL #8](https://dev.to/judith677/calculate-based-on-the-records-within-the-group-and-fill-the-result-into-the-first-record-from-22p2)
+- [JSON: El Estándar Ligero para el Intercambio de Datos](https://dev.to/imatools/json-el-estandar-ligero-para-el-intercambio-de-datos-2231)
+- [The Best Browserling Alternative for Game Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-best-browserling-alternative-for-game-testing-2iba)
+- [Top 110+ DevOps Interview Questions and Answers for 2025](https://dev.to/aws-builders/top-110-devops-interview-questions-and-answers-for-2025-4h4n)
+- [Routing setup for World Data](https://dev.to/magipunk/routing-setup-for-world-data-1f9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
