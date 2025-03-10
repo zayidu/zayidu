@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Perplexity from scratch, but mine better. | Tutorial](https://dev.to/abdibrokhim/i-built-perplexity-from-scratch-but-mine-better-11pj)
-- [QR Codes in the Philippines: Convenience or Cyberthreat?](https://dev.to/kakacomputer-media/qr-codes-in-the-philippines-convenience-or-cyberthreat-cf)
-- [Java Collections Framework: Classes and Interfaces Explained with Code Snippets](https://dev.to/devcorner/java-collections-framework-classes-and-interfaces-explained-with-code-snippets-a33)
-- [Example of Multi Agent AI in healthcare](https://dev.to/mrinmoycty/example-of-multi-agent-ai-in-healthcare-13f2)
-- [The Ultimate Guide to Disaster Recovery: RTO, RPO, and Failover](https://dev.to/devcorner/the-ultimate-guide-to-disaster-recovery-rto-rpo-and-failover-4d4n)
+- [Python Reverse Engineering: What Can You Crack in 2025?](https://dev.to/snappytuts/python-reverse-engineering-what-can-you-crack-in-2025-52ni)
+- [Why is Openmanus censored by Github? Any guess? Openmanus gains 7-8k Stars per day on Github, but I&#39;ve never seen it on Github Trending Page... I know, Github&#39;s Trending algorithm works different but it appears to be censored by Github. Any idea?](https://dev.to/mehmetakar/why-is-openmanus-censored-by-github-any-guess-openmanus-gains-7-8k-stars-per-day-on-github-but-2kc2)
+- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
+- [Laravel API ডকুমেন্টেশন উইথ Swagger](https://dev.to/programmerhasan/laravel-api-ddkumentteshn-uith-swagger-iol)
+- [All Data and AI Weekly #180 - 10-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
