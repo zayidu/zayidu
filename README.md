@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zapier + AgentQL: No-Code Web Data for Smarter Workflows](https://dev.to/agentql/zapier-agentql-no-code-web-data-for-smarter-workflows-m9b)
-- [Exploring the Future of Decentralized AI with the SingularityNET Java SDK](https://dev.to/bobcars/exploring-the-future-of-decentralized-ai-with-the-singularitynet-java-sdk-26kl)
-- [Using JavaScript in a spreadsheet](https://dev.to/quadraticai/using-javascript-in-a-spreadsheet-850)
-- [Day 1117 : Broad Daylight](https://dev.to/dwane/day-1117-broad-daylight-36h1)
-- [DeepLearning4j Blockchain Integration: Merging AI and Blockchain for a Transparent Future](https://dev.to/kallileiser/deeplearning4j-blockchain-integration-merging-ai-and-blockchain-for-a-transparent-future-2fpe)
+- [How to start using gRPC with PHP - Part 1/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-14-29i4)
+- [Getting Started with PostgreSQL](https://dev.to/carol_caillaud/getting-started-with-postgresql-3h05)
+- [Simple example of reverse .apk &lpar;removing Ads&rpar;](https://dev.to/mardsoul/simple-example-of-reverse-apk-removing-ads-24dl)
+- [Challenge Lab: Creating a Static Website for the Café](https://dev.to/ameh_mathias/challenge-lab-creating-a-static-website-for-the-cafe-447i)
+- [Cultivating Excellence: The Defining Habit of Top Data Professionals](https://dev.to/daviewisdm/cultivating-excellence-the-defining-habit-of-top-data-professionals-475f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
