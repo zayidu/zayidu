@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RunAs-Stealer](https://dev.to/darkspace/runas-stealer-479m)
-- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
-- [Advanced Service Communication and Resilience Patterns in Cipher Horizon](https://dev.to/dminatto/advanced-service-communication-and-resilience-patterns-in-cipher-horizon-1d00)
-- [Manticore Search vs Elasticsearch: 3x Faster Kibana Dashboard Rendering for Log Analysis](https://dev.to/sanikolaev/manticore-search-vs-elasticsearch-3x-faster-kibana-dashboard-rendering-for-log-analysis-1lkf)
-- [Coinverter: A Simple Yet Powerful Currency Converter](https://dev.to/robsonmuniz16/coinverter-a-simple-yet-powerful-currency-converter-4gcg)
+- [Chaos Mesh: O que é e faz?](https://dev.to/rafaelbonilha/chaos-mesh-o-que-e-e-faz-4p50)
+- [Hugging Face Tutorial - All You Need to Know!](https://dev.to/proflead/hugging-face-tutorial-all-you-need-to-know-cf8)
+- [Ledgers Open Source: Transformando Conceitos em Vantagem Competitiva](https://dev.to/lerian/ledgers-open-source-transformando-conceitos-em-vantagem-competitiva-3g8k)
+- [Язык программирования Visual Basic. Прадедушка С# и ранний прототип Visual Studio](https://dev.to/sundaycoding/iazyk-proghrammirovaniia-visual-basic-pradiedushka-s-i-rannii-prototip-visual-studio-5hk7)
+- [Язык программирования Swift - основа разработки современных приложений под iOS и Mac](https://dev.to/sundaycoding/iazyk-proghrammirovaniia-swift-osnova-razrabotki-sovriemiennykh-prilozhienii-pod-ios-i-mac-31ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
