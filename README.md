@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 JavaScript Animation Libraries in 2025](https://dev.to/hadil/top-10-javascript-animation-libraries-in-2025-2ch5)
-- [Lost in Transition: How to Downgrade to Tailwind CSS v3 in Next.js And React](https://dev.to/myogeshchavan97/lost-in-transition-how-to-downgrade-to-tailwind-css-v3-in-nextjs-and-react-9kl)
-- [Get the records after and before the searched one：SQL VS SPL #12](https://dev.to/esproc_spl/get-the-records-after-and-before-the-searched-onesql-vs-spl-12-3ij1)
-- [Can Human Vitamin B Harm Dogs? A Dangerous Misconception Explained](https://dev.to/topopet/can-human-vitamin-b-harm-dogs-a-dangerous-misconception-explained-fpo)
-- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-more-secure-3bpi)
+- [TanStack Table - Quick Learning](https://dev.to/abeertech01/tanstack-table-quick-learning-352p)
+- [Automatically Generating TypeScript Types from Storyblok Components](https://dev.to/kshevitsky/automatically-generating-typescript-types-from-storyblok-components-28ee)
+- [Pulumi Gestalt 0.0.1 released](https://dev.to/andrzejressel/pulumi-gestalt-001-released-4i8m)
+- [Flutter Offline Data Storage: Exploring Differents Solutions](https://dev.to/7oby/flutter-offline-data-storage-exploring-differents-solutions-25ma)
+- [Bellmen-Ford](https://dev.to/mujahida_joynab_64c7407d8/bellmen-ford-2o56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
