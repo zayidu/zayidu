@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - Views](https://dev.to/aditya999123/navigating-postgresql-views-4nlj)
-- [If You Enjoy Coding, Think Twice About Joining the Management Track](https://dev.to/canro91/if-you-enjoy-coding-think-twice-about-joining-the-management-track-2ljl)
-- [What is happening today,are we good to go?](https://dev.to/daneric399800/what-is-happening-todayare-we-good-to-go-979)
-- [What I can do ?](https://dev.to/dqva05/what-i-can-do--3joc)
-- [SPO600 - Project Stage 1: Gimple and Passes](https://dev.to/jpjpjp/spo600-project-stage-1-gimple-and-passes-5b2)
+- [Hello Dev.io Community! New Member Here 👋](https://dev.to/lives_6168d985b7d1760e674/hello-devio-community-new-member-here-28co)
+- [Vacancy for Tech Lead](https://dev.to/negdrecruitment_680284242/vacancy-for-tech-lead-486c)
+- [Checkout the site. Am craving for all of your reviews!](https://dev.to/lakshyasharma/checkout-the-site-am-craving-for-all-of-your-reviews-9nl)
+- [Differences between: forEach&lpar;&rpar;, filter&lpar;&rpar; and map&lpar;&rpar; methods and its case uses.](https://dev.to/marlonmunoz/differences-between-foreach-filter-and-map-methods-and-its-case-uses-2o4m)
+- [Neurolov.ai: Redefining AI Innovation with Decentralized Power](https://dev.to/neurolov_ai_/neurolovai-redefining-ai-innovation-with-decentralized-power-232p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
