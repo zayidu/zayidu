@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft Game Server Hosting](https://dev.to/dare81/minecraft-game-server-hosting-16pl)
-- [could please you help me with c?](https://dev.to/far_han_23e5b3f6693104fcf/could-you-help-me-with-c-4com)
-- [Why I’m Learning C# and .NET After Two Decades of Programming](https://dev.to/kerricklong/why-im-learning-c-and-net-after-two-decades-of-programming-32nk)
-- [Spring Framework Ecosystem](https://dev.to/amdose/spring-framework-ecosystem-pbo)
-- [China’s Manus Agent by Monica: What You Actually Need to Know](https://dev.to/chaitanya_kulthe_178bdb74/chinas-manuas-agent-by-monica-what-you-actually-need-to-kno-76l)
+- [Exploring Bioinformatics and AI-Driven Drug Discovery](https://dev.to/kartikmehta8/exploring-bioinformatics-and-ai-driven-drug-discovery-aad)
+- [Analyzing the NVIDIA GeForce RTX 5070 Ti for AI Model Training: Performance Insights](https://dev.to/berkan_baerbuilder_85/analyzing-the-nvidia-geforce-rtx-5070-ti-for-ai-model-training-performance-insights-4mb9)
+- [🔎 From Concept to Schema: How I Design Databases](https://dev.to/micaelmi/from-concept-to-schema-how-i-design-databases-51h)
+- [got my very first practice project💥💥💥](https://dev.to/tamannakouser/got-my-very-first-practice-project-50p)
+- [Axios vs. Fetch: Which Fetch Wrapper Should I Choose in 2025?](https://dev.to/suhaotian/axios-vs-fetch-which-fetch-wrapper-should-i-choose-in-2025-57f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
