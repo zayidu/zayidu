@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Achieving Zero Downtime Deployment with YARP: Blue-Green and Canary Strategies](https://dev.to/leandroveiga/achieving-zero-downtime-deployment-with-yarp-blue-green-and-canary-strategies-ele)
-- [Interceptors en Angular: ¿Para qué se utilizan, sus funciones y cómo implementarlos? 🚀](https://dev.to/cristian_arieta_7df932e5f/interceptors-en-angular-para-que-se-utilizan-sus-funciones-y-como-implementarlos-2mo8)
-- [Zero-Code RSS Feeds with Mkfd: From Webpage to Feed in Minutes](https://dev.to/tbosak/zero-code-rss-feeds-with-mkfd-from-webpage-to-feed-in-minutes-4p0l)
-- [Ng-News 25/10: Advanced Content Projection, Outlook 2025+](https://dev.to/this-is-angular/ng-news-2510-advanced-content-projection-outlook-2025-j49)
-- [Programming in C++ &lpar;SQLite Databases&rpar;](https://dev.to/markm208/sqlite-databases-6jn)
+- [Create your custom npm template package](https://dev.to/donnierich/create-your-custom-npm-template-package-1ai5)
+- [Interface Segregation Principle &lpar;ISP&rpar; in SOLID &lpar;Simple C# Examples&rpar;](https://dev.to/mamun_akand/interface-segregation-principle-isp-in-solid-simple-c-examples-4kgk)
+- [The Merits of Creating a Waifubot Without Small Talk](https://dev.to/owly/the-merits-of-creating-a-waifubot-without-small-talk-5emp)
+- [What Are the Common Pitfalls to Avoid When Transitioning to Haskell From Other Programming Languages?](https://dev.to/nigelsilonero/what-are-the-common-pitfalls-to-avoid-when-transitioning-to-haskell-from-other-programming-3bbl)
+- [Seeds on Rails: The Best Way to Create and Feed Your Rails Database](https://dev.to/gsgermanok/seeds-on-rails-the-best-way-to-create-and-feed-your-rails-database-1119)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
