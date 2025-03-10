@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve learned things the hard way so you don&#39;t have to 👩🏻‍💻](https://dev.to/_arpy/ive-learned-things-the-hard-way-so-you-dont-have-to-3ceg)
-- [Maximizing Value and Minimizing Risk with Software Asset Lifecycle](https://dev.to/emily_assetloom/maximizing-value-and-minimizing-risk-with-software-asset-lifecycle-2od)
-- [VS Code Hidden Features 🎉](https://dev.to/ramkumar-m-n/vs-code-hidden-features-328g)
-- [The Rise of Quantum Computing and Its Impact on Cybersecurity](https://dev.to/devraj_more_5a115bafe8b0f/the-rise-of-quantum-computing-and-its-impact-on-cybersecurity-2eij)
-- [10 Key Features of CoTester That Every QA Engineer Should Know](https://dev.to/ronika_kashyap/10-key-features-of-cotester-that-every-qa-engineer-should-know-1h98)
+- [CoTester vs Other Agentic AI Platforms for Testing](https://dev.to/asher_hartwell_f827d28b67/cotester-vs-other-agentic-ai-platforms-for-testing-1h73)
+- [Why Businesses Need Web Developers for Hire- Scalability &amp; Flexibility](https://dev.to/avaisley/why-businesses-need-web-developers-for-hire-scalability-flexibility-e6g)
+- [Deploying Vue.js Applications on AWS, Vercel, and Netlify](https://dev.to/nithya_iyer/deploying-vuejs-applications-on-aws-vercel-and-netlify-1158)
+- [🚀 Quando uma struct pode ser armazenada no heap?](https://dev.to/develop4us/quando-uma-struct-pode-ser-armazenada-no-heap-21kb)
+- [Composant Checkbox avec RiotJS](https://dev.to/steeve/composant-checkbox-avec-riotjs-39m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
