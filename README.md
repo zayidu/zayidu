@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Dev.io Community! New Member Here 👋](https://dev.to/lives_6168d985b7d1760e674/hello-devio-community-new-member-here-28co)
-- [Vacancy for Tech Lead](https://dev.to/negdrecruitment_680284242/vacancy-for-tech-lead-486c)
-- [Checkout the site. Am craving for all of your reviews!](https://dev.to/lakshyasharma/checkout-the-site-am-craving-for-all-of-your-reviews-9nl)
-- [Differences between: forEach&lpar;&rpar;, filter&lpar;&rpar; and map&lpar;&rpar; methods and its case uses.](https://dev.to/marlonmunoz/differences-between-foreach-filter-and-map-methods-and-its-case-uses-2o4m)
-- [Neurolov.ai: Redefining AI Innovation with Decentralized Power](https://dev.to/neurolov_ai_/neurolovai-redefining-ai-innovation-with-decentralized-power-232p)
+- [What is a Database? A Beginner’s Guide to Storing and Organizing Data](https://dev.to/be11amer/what-is-a-database-a-beginners-guide-to-storing-and-organizing-data-4953)
+- [Creating a Math Game for Kids: The Story of MathCraft Builders](https://dev.to/thabiso_lencekgati_585ce/creating-a-math-game-for-kids-the-story-of-mathcraft-builders-3gh6)
+- [SSL Certificate for Internal Servers](https://dev.to/jgngo/ssl-certificate-for-internal-servers-l8j)
+- [Perl 🐪 Weekly #711 - Obfuscating Perl](https://dev.to/szabgab/perl-weekly-711-obfuscating-perl-369j)
+- [Why NativeBridge.io is the Ultimate Game-Changer for Developers &lpar;And Why You Need to Get in Early!&rpar;](https://dev.to/p_0c0278d/why-nativebridgeio-is-the-ultimate-game-changer-for-developers-and-why-you-need-to-get-in-early-32bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
