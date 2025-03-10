@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Apache Kafka, django, docker and Keycloak,](https://dev.to/mutuwa99/building-scalable-microservices-with-apache-kafka-django-docker-and-keycloak-25fd)
-- [Get your Front End ready for Millions TODAY!🚀](https://dev.to/seufernandez/get-your-front-end-ready-for-millions-today-l4l)
-- [Chapter 5: JavaScript](https://dev.to/rossangus/nodejs-for-developers-course-chapter-5-javascript-4526)
-- [The Silent Fire: My Journey Through Burnout](https://dev.to/arslanyousaf12/the-silent-fire-my-journey-through-burnout-3hma)
-- [Amazon Bedrock Session Management APIs: Persistencia de Estado en Conversaciones de IA Generativa 🧠](https://dev.to/aws-builders/amazon-bedrock-session-management-apis-persistencia-de-estado-en-conversaciones-de-ia-generativa-ac4)
+- [A Beginner&#39;s Guide to Prompt Engineering](https://dev.to/thatsoftwaredude/a-beginners-guide-to-prompt-engineering-4hih)
+- [How I prepared for the ISTQB Advanced Test Automation Engineer Exam: Tips and Tricks](https://dev.to/iryna_k_d5aabe217736fefe7/how-i-prepared-for-the-istqb-advanced-test-automation-engineer-exam-tips-and-tricks-3emm)
+- [First time I saw Twitter broken](https://dev.to/seosiri/first-time-i-saw-twitter-broken-3g3d)
+- [Getting started with Google APIs: Service Accounts &lpar;Part 1&rpar;](https://dev.to/wescpy/getting-started-with-google-apis-service-accounts-part-1-2fi0)
+- [In-depth file management in Python: Underlying tooling and advanced functionalities](https://dev.to/axelncho/in-depth-file-management-in-python-underlying-tooling-and-functionalities-452h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
