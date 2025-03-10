@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CoTester vs Other Agentic AI Platforms for Testing](https://dev.to/asher_hartwell_f827d28b67/cotester-vs-other-agentic-ai-platforms-for-testing-1h73)
-- [Why Businesses Need Web Developers for Hire- Scalability &amp; Flexibility](https://dev.to/avaisley/why-businesses-need-web-developers-for-hire-scalability-flexibility-e6g)
-- [Deploying Vue.js Applications on AWS, Vercel, and Netlify](https://dev.to/nithya_iyer/deploying-vuejs-applications-on-aws-vercel-and-netlify-1158)
-- [🚀 Quando uma struct pode ser armazenada no heap?](https://dev.to/develop4us/quando-uma-struct-pode-ser-armazenada-no-heap-21kb)
-- [Composant Checkbox avec RiotJS](https://dev.to/steeve/composant-checkbox-avec-riotjs-39m3)
+- [RunAs-Stealer](https://dev.to/darkspace/runas-stealer-479m)
+- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
+- [Advanced Service Communication and Resilience Patterns in Cipher Horizon](https://dev.to/dminatto/advanced-service-communication-and-resilience-patterns-in-cipher-horizon-1d00)
+- [Manticore Search vs Elasticsearch: 3x Faster Kibana Dashboard Rendering for Log Analysis](https://dev.to/sanikolaev/manticore-search-vs-elasticsearch-3x-faster-kibana-dashboard-rendering-for-log-analysis-1lkf)
+- [Coinverter: A Simple Yet Powerful Currency Converter](https://dev.to/robsonmuniz16/coinverter-a-simple-yet-powerful-currency-converter-4gcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
