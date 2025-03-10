@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculate based on the records within the group and fill the result into the first record — From SQL to SPL #8](https://dev.to/judith677/calculate-based-on-the-records-within-the-group-and-fill-the-result-into-the-first-record-from-22p2)
-- [JSON: El Estándar Ligero para el Intercambio de Datos](https://dev.to/imatools/json-el-estandar-ligero-para-el-intercambio-de-datos-2231)
-- [The Best Browserling Alternative for Game Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-best-browserling-alternative-for-game-testing-2iba)
-- [Top 110+ DevOps Interview Questions and Answers for 2025](https://dev.to/aws-builders/top-110-devops-interview-questions-and-answers-for-2025-4h4n)
-- [Routing setup for World Data](https://dev.to/magipunk/routing-setup-for-world-data-1f9p)
+- [The Ultimate Guide to Apache Kafka: Basics, Architecture, and Core Concepts](https://dev.to/milcah03/the-ultimate-guide-to-apache-kafka-basics-architecture-and-core-concepts-2ea0)
+- [Building a React Guitar Scale Visualizer: Interactive Pentatonic Patterns](https://dev.to/radzion/building-a-react-guitar-scale-visualizer-interactive-pentatonic-patterns-3hi6)
+- [Advent of Code #9 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-9-in-gleam-46l6)
+- [Clean code](https://dev.to/jojobinay/clean-code-3li4)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 3](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-3-1b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
