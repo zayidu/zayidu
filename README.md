@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Apache Kafka: Basics, Architecture, and Core Concepts](https://dev.to/milcah03/the-ultimate-guide-to-apache-kafka-basics-architecture-and-core-concepts-2ea0)
-- [Building a React Guitar Scale Visualizer: Interactive Pentatonic Patterns](https://dev.to/radzion/building-a-react-guitar-scale-visualizer-interactive-pentatonic-patterns-3hi6)
-- [Advent of Code #9 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-9-in-gleam-46l6)
-- [Clean code](https://dev.to/jojobinay/clean-code-3li4)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 3](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-3-1b3)
+- [Navigating PostgreSQL - Views](https://dev.to/aditya999123/navigating-postgresql-views-4nlj)
+- [If You Enjoy Coding, Think Twice About Joining the Management Track](https://dev.to/canro91/if-you-enjoy-coding-think-twice-about-joining-the-management-track-2ljl)
+- [What is happening today,are we good to go?](https://dev.to/daneric399800/what-is-happening-todayare-we-good-to-go-979)
+- [What I can do ?](https://dev.to/dqva05/what-i-can-do--3joc)
+- [SPO600 - Project Stage 1: Gimple and Passes](https://dev.to/jpjpjp/spo600-project-stage-1-gimple-and-passes-5b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
