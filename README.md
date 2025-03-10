@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ProgrammerHumor.io - Wordpress to Elixir &lpar;Phoenix Liveview&rpar;](https://dev.to/prgrmmrhumor_io/programmerhumorio-wordpress-to-elixir-phoenix-liveview-344d)
-- [The Psychology Behind AI Conversations: Why We Connect with Virtual Beings](https://dev.to/william_cooksey/the-psychology-behind-ai-conversations-why-we-connect-with-virtual-beings-3j)
-- [Future of CSS: Select styling without the hacks](https://dev.to/link2twenty/future-of-css-select-styling-without-the-hacks-38c2)
-- [Business Process Modeling using No Code Tools](https://dev.to/vaseem_anjum_b1050bcfaffe/business-process-modeling-using-no-code-tools-2ig0)
-- [Quicker to assume](https://dev.to/lizmat/quicker-to-assume-2cpj)
+- [Zapier + AgentQL: No-Code Web Data for Smarter Workflows](https://dev.to/agentql/zapier-agentql-no-code-web-data-for-smarter-workflows-m9b)
+- [Exploring the Future of Decentralized AI with the SingularityNET Java SDK](https://dev.to/bobcars/exploring-the-future-of-decentralized-ai-with-the-singularitynet-java-sdk-26kl)
+- [Using JavaScript in a spreadsheet](https://dev.to/quadraticai/using-javascript-in-a-spreadsheet-850)
+- [Day 1117 : Broad Daylight](https://dev.to/dwane/day-1117-broad-daylight-36h1)
+- [DeepLearning4j Blockchain Integration: Merging AI and Blockchain for a Transparent Future](https://dev.to/kallileiser/deeplearning4j-blockchain-integration-merging-ai-and-blockchain-for-a-transparent-future-2fpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
