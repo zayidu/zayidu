@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Table - Quick Learning](https://dev.to/abeertech01/tanstack-table-quick-learning-352p)
-- [Automatically Generating TypeScript Types from Storyblok Components](https://dev.to/kshevitsky/automatically-generating-typescript-types-from-storyblok-components-28ee)
-- [Pulumi Gestalt 0.0.1 released](https://dev.to/andrzejressel/pulumi-gestalt-001-released-4i8m)
-- [Flutter Offline Data Storage: Exploring Differents Solutions](https://dev.to/7oby/flutter-offline-data-storage-exploring-differents-solutions-25ma)
-- [Bellmen-Ford](https://dev.to/mujahida_joynab_64c7407d8/bellmen-ford-2o56)
+- [I&#39;ve learned things the hard way so you don&#39;t have to 👩🏻‍💻](https://dev.to/_arpy/ive-learned-things-the-hard-way-so-you-dont-have-to-3ceg)
+- [Maximizing Value and Minimizing Risk with Software Asset Lifecycle](https://dev.to/emily_assetloom/maximizing-value-and-minimizing-risk-with-software-asset-lifecycle-2od)
+- [VS Code Hidden Features 🎉](https://dev.to/ramkumar-m-n/vs-code-hidden-features-328g)
+- [The Rise of Quantum Computing and Its Impact on Cybersecurity](https://dev.to/devraj_more_5a115bafe8b0f/the-rise-of-quantum-computing-and-its-impact-on-cybersecurity-2eij)
+- [10 Key Features of CoTester That Every QA Engineer Should Know](https://dev.to/ronika_kashyap/10-key-features-of-cotester-that-every-qa-engineer-should-know-1h98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
