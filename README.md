@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Reverse Engineering: What Can You Crack in 2025?](https://dev.to/snappytuts/python-reverse-engineering-what-can-you-crack-in-2025-52ni)
-- [Why is Openmanus censored by Github? Any guess? Openmanus gains 7-8k Stars per day on Github, but I&#39;ve never seen it on Github Trending Page... I know, Github&#39;s Trending algorithm works different but it appears to be censored by Github. Any idea?](https://dev.to/mehmetakar/why-is-openmanus-censored-by-github-any-guess-openmanus-gains-7-8k-stars-per-day-on-github-but-2kc2)
-- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
-- [Laravel API ডকুমেন্টেশন উইথ Swagger](https://dev.to/programmerhasan/laravel-api-ddkumentteshn-uith-swagger-iol)
-- [All Data and AI Weekly #180 - 10-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9)
+- [Achieving Zero Downtime Deployment with YARP: Blue-Green and Canary Strategies](https://dev.to/leandroveiga/achieving-zero-downtime-deployment-with-yarp-blue-green-and-canary-strategies-ele)
+- [Interceptors en Angular: ¿Para qué se utilizan, sus funciones y cómo implementarlos? 🚀](https://dev.to/cristian_arieta_7df932e5f/interceptors-en-angular-para-que-se-utilizan-sus-funciones-y-como-implementarlos-2mo8)
+- [Zero-Code RSS Feeds with Mkfd: From Webpage to Feed in Minutes](https://dev.to/tbosak/zero-code-rss-feeds-with-mkfd-from-webpage-to-feed-in-minutes-4p0l)
+- [Ng-News 25/10: Advanced Content Projection, Outlook 2025+](https://dev.to/this-is-angular/ng-news-2510-advanced-content-projection-outlook-2025-j49)
+- [Programming in C++ &lpar;SQLite Databases&rpar;](https://dev.to/markm208/sqlite-databases-6jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
