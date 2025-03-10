@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Mesh: O que é e faz?](https://dev.to/rafaelbonilha/chaos-mesh-o-que-e-e-faz-4p50)
-- [Hugging Face Tutorial - All You Need to Know!](https://dev.to/proflead/hugging-face-tutorial-all-you-need-to-know-cf8)
-- [Ledgers Open Source: Transformando Conceitos em Vantagem Competitiva](https://dev.to/lerian/ledgers-open-source-transformando-conceitos-em-vantagem-competitiva-3g8k)
-- [Язык программирования Visual Basic. Прадедушка С# и ранний прототип Visual Studio](https://dev.to/sundaycoding/iazyk-proghrammirovaniia-visual-basic-pradiedushka-s-i-rannii-prototip-visual-studio-5hk7)
-- [Язык программирования Swift - основа разработки современных приложений под iOS и Mac](https://dev.to/sundaycoding/iazyk-proghrammirovaniia-swift-osnova-razrabotki-sovriemiennykh-prilozhienii-pod-ios-i-mac-31ci)
+- [Building Scalable Microservices with Apache Kafka, django, docker and Keycloak,](https://dev.to/mutuwa99/building-scalable-microservices-with-apache-kafka-django-docker-and-keycloak-25fd)
+- [Get your Front End ready for Millions TODAY!🚀](https://dev.to/seufernandez/get-your-front-end-ready-for-millions-today-l4l)
+- [Chapter 5: JavaScript](https://dev.to/rossangus/nodejs-for-developers-course-chapter-5-javascript-4526)
+- [The Silent Fire: My Journey Through Burnout](https://dev.to/arslanyousaf12/the-silent-fire-my-journey-through-burnout-3hma)
+- [Amazon Bedrock Session Management APIs: Persistencia de Estado en Conversaciones de IA Generativa 🧠](https://dev.to/aws-builders/amazon-bedrock-session-management-apis-persistencia-de-estado-en-conversaciones-de-ia-generativa-ac4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
