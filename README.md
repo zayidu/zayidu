@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Auto CRUD Generator: Save 8+ Hours Per Project](https://dev.to/dosenngoding/laravel-auto-crud-generator-save-8-hours-per-project-m2l)
-- [4-Optimizing and Refactoring the Code - Building a Reactive System in TypeScript](https://dev.to/michaeljota/4-optimizing-and-refactoring-the-code-building-a-reactive-system-in-typescript-2d3)
-- [Telegram mini-app development and testing specifics: from initialisation to launch](https://dev.to/dev_family/telegram-mini-app-development-and-testing-specifics-from-initialisation-to-launch-1ofh)
-- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
-- [First pseudocode lines!](https://dev.to/matthijs_pouwels_9996aa3f/first-pseudocode-lines-1mij)
+- [Cypress Parallel Testing Made Easy: Step-by-Step Guide with Practical Code Examples](https://dev.to/asher_hartwell_f827d28b67/cypress-parallel-testing-made-easy-step-by-step-guide-with-practical-code-examples-5703)
+- [🚀 [Weekly Top 10] BBC Tech Leadership, Grab TechDocs, GitHub for Beginners](https://dev.to/newtler/weekly-top-10-bbc-tech-leadership-grab-techdocs-github-for-beginners-4kde)
+- [The Future of Work: Are 1-on-1 Meetings Becoming Obsolete?](https://dev.to/diana_black_5edb83146b969/the-future-of-work-are-1-on-1-meetings-becoming-obsolete-5ekg)
+- [Level Up Your Dev Career: The Ultimate Guide to Mentorship](https://dev.to/ericitbk/level-up-your-dev-career-the-ultimate-guide-to-mentorship-fdj)
+- [Breaking Barriers with Record Ownership Across Business Units in Dynamics 365](https://dev.to/nikhildynamicsce/breaking-barriers-with-record-ownership-across-business-units-in-dynamics-365-3eln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
