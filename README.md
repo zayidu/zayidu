@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking AI Potential: Denoising, Reinforcement Learning &amp; Visual Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-potential-denoising-reinforcement-learning-visual-models-hhp)
-- [Using OpenAPI to Automate API Integration With Rapyd&#39;s Payment Gateway](https://dev.to/rapyd/using-openapi-to-automate-api-integration-with-rapyds-payment-gateway-cng)
-- [Exploring ZZZCode.ai: An AI Coding Assistant for Developers](https://dev.to/codeparrot/exploring-zzzcodeai-an-ai-coding-assistant-for-developers-4phk)
-- [Something is better than Nothing! he he he!](https://dev.to/aafthab_ali/something-is-better-than-nothing-he-he-he-2142)
-- [How Back-to-Base Security Systems Are Keeping Airports Safe](https://dev.to/shaz_seo_c7cd99f6fdb2c695/how-back-to-base-security-systems-are-keeping-airports-safe-3p1p)
+- [TypeScript vs. JavaScript: Differences and use cases for each](https://dev.to/logrocket/typescript-vs-javascript-differences-and-use-cases-for-each-3nkj)
+- [SVG essentials. Basic shapes and path](https://dev.to/jsha/svg-essentials-basic-shapes-and-path-24k2)
+- [Enhance Workflow Efficiency with AI: Tips for Employers](https://dev.to/emily_e832cc7d5902e1223ee/enhance-workflow-efficiency-with-ai-tips-for-employers-2b21)
+- [Unlocking AI’s potential: How to quickly set up a Cursor MCP Server](https://dev.to/apideck/unlocking-ais-potential-how-to-quickly-set-up-a-cursor-mcp-server-4bk1)
+- [Build Once ! Deploy Many :Ensuring Consistency Across Environments with Angular Docker](https://dev.to/arpan_gautam/build-once-deploy-many-ensuring-consistency-across-environments-with-angular-docker-1iep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
