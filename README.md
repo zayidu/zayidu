@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph database vs relational vs vector vs NoSQL](https://dev.to/falkordb/graph-database-vs-relational-vs-vector-vs-nosql-blp)
-- [Expect Tech to Change, But Not the Way You Think It Will](https://dev.to/laikokwui/expect-tech-to-change-but-not-the-way-you-think-it-will-1p0g)
-- [Do Web Designers Even Matter When AI Can Build Websites?](https://dev.to/vikrant_bhalodia/do-web-designers-even-matter-when-ai-can-build-websites-35f0)
-- [Live Server HTTPS: setup on mac/windows](https://dev.to/andrewelans/live-server-https-set-it-up-on-macwindows-29cb)
-- [A guide to the CSS cursor property](https://dev.to/logrocket/a-guide-to-the-css-cursor-property-5hgp)
+- [TryHackMe: Web Application Pentesting Review](https://dev.to/seanleeys/tryhackme-web-application-pentesting-review-3h14)
+- [App Video: react-native-video VS expo-video](https://dev.to/zuludev/app-video-react-native-video-vs-expo-video-2jo)
+- [OOP project idea](https://dev.to/thin_phu/oop-project-idea-k08)
+- [TryHackMe: Summit](https://dev.to/seanleeys/tryhackme-summit-1mei)
+- [Apps Script’s Rhino runtime deprecated, launch of Meet Media API, and more!](https://dev.to/googleworkspace/apps-scripts-rhino-runtime-deprecated-launch-of-meet-media-api-and-more-391l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
