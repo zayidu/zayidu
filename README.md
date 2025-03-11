@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [get set Hola mundo en Soroban😀](https://dev.to/sergiotechx/get-set-hola-mundo-en-soroban-16mm)
-- [Meditations on Chasing a Developer Career](https://dev.to/mrsupercraft/meditations-on-chasing-a-developer-career-499b)
-- [Inception Labs released a production-grade diffusion LLM 🤯](https://dev.to/best_codes/inception-labs-released-a-production-grade-diffusion-llm-3a8j)
-- [Connecting your CDN to Fastly Object Storage](https://dev.to/fastly/connecting-your-cdn-to-fastly-object-storage-46n9)
-- [Resolving dpkg Lock Contention in Ubuntu Deployments](https://dev.to/yulin/resolving-dpkg-lock-contention-in-ubuntu-deployments-5fkk)
+- [Why &amp; When to use GitOps: Use-Cases &amp; Principles](https://dev.to/meteorops/why-when-to-use-gitops-use-cases-principles-4e64)
+- [What is Offshore Hosting and Why it need](https://dev.to/developers_today/what-is-offshore-hosting-and-why-it-need-410c)
+- [🚀 Portfolio as a Software Developer using React &amp; Vite](https://dev.to/maximdudai/portfolio-as-a-software-developer-using-react-vite-2iak)
+- [The Best AI Solutions for Marketing in 2025](https://dev.to/anna-boiko/the-best-ai-solutions-for-marketing-in-2025-2jgk)
+- [How Do Hadoop’s Core Components, Hdfs and Mapreduce, Function?](https://dev.to/anna_golubkova/how-do-hadoops-core-components-hdfs-and-mapreduce-function-391n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
