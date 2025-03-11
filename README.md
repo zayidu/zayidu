@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Databases Matter: Real-World Applications and Use Cases](https://dev.to/be11amer/why-databases-matter-real-world-applications-and-use-cases-53an)
-- [Shaping Your Personal Brand for the Tech Revolution: A Roadmap to Relevancy](https://dev.to/okoye_ndidiamaka_5e3b7d30/shaping-your-personal-brand-for-the-tech-revolution-a-roadmap-to-relevancy-10bk)
-- [Coding in Pajamas: The Remote Programmer’s Life 🌟](https://dev.to/mahdijazini/coding-in-pajamas-the-remote-programmers-life-41ac)
-- [Enabling SOAP Request and Response Logging in JBoss EAP 7](https://dev.to/dhanushaperera07/enabling-soap-request-and-response-logging-in-jboss-eap-7-3nip)
-- [Django 5.2&#39;s Smart Shell: Goodbye Manual Model Imports!](https://dev.to/hoangquochung1110/django-52s-smart-shell-goodbye-manual-model-imports-1aae)
+- [My AWS Cloud Certification Was Expiring — Here’s How I Recertified It Through Gamification](https://dev.to/marcuscjh/my-aws-cloud-certification-was-expiring-heres-how-i-recertified-it-through-gamification-1j3)
+- [Простая шпаргалка по jQuery для начинающих веб программистов](https://dev.to/sundaycoding/prostaia-shparghalka-po-jquery-dlia-nachinaiushchikh-vieb-proghrammistov-36cf)
+- [Intro to Rsmolagent](https://dev.to/gkosmo/intro-to-rsmolagent-1gf7)
+- [Introducing crossmemo: A Powerful Cross-Environment Caching &amp; Memoization Utility](https://dev.to/alok5953/introducing-crossmemo-a-powerful-cross-environment-caching-memoization-utility-1pm0)
+- [How Much Does It Cost To Maintain A Website](https://dev.to/lindacouri/how-much-does-it-cost-to-maintain-a-website-26n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
