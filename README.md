@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eloquent API Resources: Best Practices for Transforming Data in Laravel](https://dev.to/programmerhasan/eloquent-api-resources-best-practices-for-transforming-data-in-laravel-4bed)
-- [Building a Secure Authentication System in MERN Stack: My Experience with JWT, Refresh Tokens, RBAC, and CORS](https://dev.to/sandeep_dara/building-a-secure-authentication-system-in-mern-stack-my-experience-with-jwt-refresh-tokens-4jfi)
-- [How to detect and fix flaky tests in Pytest](https://dev.to/gewenyu99/how-to-detect-and-fix-flaky-tests-in-pytest-1k61)
-- [Stop Writing Bad JavaScript — Do This Instead](https://dev.to/0x3d_site/stop-writing-bad-javascript-do-this-instead-2p76)
-- [Starlink x Airtel: A Satellite Internet Revolution in India?](https://dev.to/wearetechi/starlink-x-airtel-a-satellite-internet-revolution-in-india-4mk5)
+- [Exploring the Sawtooth Python SDK: Open Source, Funding, and Community Impact](https://dev.to/vitalisorenko/exploring-the-sawtooth-python-sdk-open-source-funding-and-community-impact-5hba)
+- [Gradle 101: How This Tool Builds Your Android App Behind the Scenes](https://dev.to/rijultp/gradle-101-how-this-tool-builds-your-android-app-behind-the-scenes-134p)
+- [2025 ChatGPT Case Study: AI Search Framework](https://dev.to/masterplanner25/2025-chatgpt-case-study-ai-search-framework-79)
+- [🚀 Build a No-Code Project Management App in Bubble.io | Full CRUD Tutorial](https://dev.to/ebereplenty/build-a-no-code-project-management-app-in-bubbleio-full-crud-tutorial-2h0e)
+- [Calico Network Policy](https://dev.to/alakkadshaw/calico-network-policy-88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
