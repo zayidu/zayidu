@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unconventional Yet Common Aggregation Operations](https://dev.to/esproc_spl/unconventional-yet-common-aggregation-operations-55do)
-- [Hello World with Proto.Actor: Building Your First Actor Model System in .NET](https://dev.to/actor-swe/proto-actor-hello-world-8bk)
-- [Replacing Docker with Podman on Windows](https://dev.to/petersaktor/replacing-docker-with-podman-on-windows-56ee)
-- [Building a PDF-to-Podcast Pipeline with Open-Source AI: From Text Extraction to Voice Synthesis](https://dev.to/featherlessai/building-a-pdf-to-podcast-pipeline-with-open-source-ai-from-text-extraction-to-voice-synthesis-eo1)
-- [Open Source in 2025: Strap In, Disruption Straight Ahead](https://dev.to/chen_debra_3060b21d12b1b0/open-source-in-2025-strap-in-disruption-straight-ahead-3n2n)
+- [Before Learning React, You Must Know These Array Methods](https://dev.to/myogeshchavan97/before-learning-react-you-must-know-these-array-methods-36da)
+- [Hello!](https://dev.to/programmeverything/hello-1l5k)
+- [The Role of SaaS in Driving Digital Transformation for US Enterprises](https://dev.to/nzminds_11e07312d4586e329/the-role-of-saas-in-driving-digital-transformation-for-us-enterprises-5bai)
+- [Top 7 AI Chatbots for Businesses in 2025](https://dev.to/abu_noimmdtoha_036541e/top-7-ai-chatbots-for-businesses-in-2025-374e)
+- [Vibe Coding: An Exploration of AI-Assisted Development](https://dev.to/foxgem/vibe-coding-an-exploration-of-ai-assisted-development-2dkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
