@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start using gRPC with PHP - Part 1/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-14-29i4)
-- [Getting Started with PostgreSQL](https://dev.to/carol_caillaud/getting-started-with-postgresql-3h05)
-- [Simple example of reverse .apk &lpar;removing Ads&rpar;](https://dev.to/mardsoul/simple-example-of-reverse-apk-removing-ads-24dl)
-- [Challenge Lab: Creating a Static Website for the Café](https://dev.to/ameh_mathias/challenge-lab-creating-a-static-website-for-the-cafe-447i)
-- [Cultivating Excellence: The Defining Habit of Top Data Professionals](https://dev.to/daviewisdm/cultivating-excellence-the-defining-habit-of-top-data-professionals-475f)
+- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
+- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
+- [10 Javascript animation you might need](https://dev.to/oluwalonimi_oye/10-javascript-animation-you-might-need-5g0c)
+- [[Boost]](https://dev.to/oluwalonimi_oye/-9jp)
+- [What Is Hadoop and How Does It Handle Big Data Efficiently?](https://dev.to/cristianalex_17/what-is-hadoop-and-how-does-it-handle-big-data-efficiently-35fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
