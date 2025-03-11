@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &amp; When to use GitOps: Use-Cases &amp; Principles](https://dev.to/meteorops/why-when-to-use-gitops-use-cases-principles-4e64)
-- [What is Offshore Hosting and Why it need](https://dev.to/developers_today/what-is-offshore-hosting-and-why-it-need-410c)
-- [🚀 Portfolio as a Software Developer using React &amp; Vite](https://dev.to/maximdudai/portfolio-as-a-software-developer-using-react-vite-2iak)
-- [The Best AI Solutions for Marketing in 2025](https://dev.to/anna-boiko/the-best-ai-solutions-for-marketing-in-2025-2jgk)
-- [How Do Hadoop’s Core Components, Hdfs and Mapreduce, Function?](https://dev.to/anna_golubkova/how-do-hadoops-core-components-hdfs-and-mapreduce-function-391n)
+- [Como Criar um Raycaster&lpar;estilo DOOM&rpar; com C++](https://dev.to/marcosplusplus/como-criar-um-raycasterestilo-doom-com-c-42na)
+- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
+- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
+- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
+- [Dify + AgentQL: Build AI Apps with Live Web Data, No Code Needed](https://dev.to/nearestnabors/dify-agentql-build-ai-apps-with-live-web-data-no-code-needed-5b4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
