@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress Parallel Testing Made Easy: Step-by-Step Guide with Practical Code Examples](https://dev.to/asher_hartwell_f827d28b67/cypress-parallel-testing-made-easy-step-by-step-guide-with-practical-code-examples-5703)
-- [🚀 [Weekly Top 10] BBC Tech Leadership, Grab TechDocs, GitHub for Beginners](https://dev.to/newtler/weekly-top-10-bbc-tech-leadership-grab-techdocs-github-for-beginners-4kde)
-- [The Future of Work: Are 1-on-1 Meetings Becoming Obsolete?](https://dev.to/diana_black_5edb83146b969/the-future-of-work-are-1-on-1-meetings-becoming-obsolete-5ekg)
-- [Level Up Your Dev Career: The Ultimate Guide to Mentorship](https://dev.to/ericitbk/level-up-your-dev-career-the-ultimate-guide-to-mentorship-fdj)
-- [Breaking Barriers with Record Ownership Across Business Units in Dynamics 365](https://dev.to/nikhildynamicsce/breaking-barriers-with-record-ownership-across-business-units-in-dynamics-365-3eln)
+- [React vs Next.js: Which One to Choose?](https://dev.to/raajaryan/react-vs-nextjs-which-one-to-choose-p57)
+- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-30d5)
+- [PR Summarizer: Your GitHub Sidekick for Faster and Funnier Reviews! 🎉](https://dev.to/bansikah/pr-summarizer-your-github-sidekick-for-faster-and-funnier-reviews-1635)
+- [AEPS Software: The Future of Banking for Agents &amp; Retailers](https://dev.to/ankit_vijayvargiya_50b613/aeps-software-the-future-of-banking-for-agents-retailers-1if6)
+- [What Are Embeddings? How They Help in RAG](https://dev.to/shaheryaryousaf/what-are-embeddings-how-they-help-in-rag-2l1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
