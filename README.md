@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
-- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
-- [10 Javascript animation you might need](https://dev.to/oluwalonimi_oye/10-javascript-animation-you-might-need-5g0c)
-- [[Boost]](https://dev.to/oluwalonimi_oye/-9jp)
-- [What Is Hadoop and How Does It Handle Big Data Efficiently?](https://dev.to/cristianalex_17/what-is-hadoop-and-how-does-it-handle-big-data-efficiently-35fa)
+- [AI-XP: The Product Owner Power-up for Agile Success](https://dev.to/dev3l/ai-xp-the-product-owner-power-up-for-agile-success-4c4e)
+- [How to Start a Career in Ethical Hacking – A Step-by-Step Guide](https://dev.to/serverzone/how-to-start-a-career-in-ethical-hacking-a-step-by-step-guide-3ln0)
+- [2025년에 안드로이드 앱을 만들기](https://dev.to/kingori/2025nyeone-andeuroideu-aebeul-mandeulgi-50df)
+- [Please check the comment section; I’ve added 3 more useful AI tools. Hopefully, you’ll like them!](https://dev.to/foxinfotech/please-check-the-comment-section-ive-added-3-more-useful-ai-tools-hopefully-youll-like-them-12jh)
+- [When Objects Aren&#39;t](https://dev.to/oculus42/when-objects-arent-3llk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
