@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Object Calisthenics: Writing Better Object-Oriented Code](https://dev.to/wallacefreitas/object-calisthenics-writing-better-object-oriented-code-2pgk)
-- [Deploying an AWS EKS Cluster with Terraform and GitHub Actions](https://dev.to/terrateam/deploying-an-aws-eks-cluster-with-terraform-and-github-actions-g01)
-- [[Boost]](https://dev.to/gilliandelvigne/-30j1)
-- [Explain Like I&#39;m Five](https://dev.to/raees_smile_5d4f8a3144393/explain-like-im-five-5eme)
-- [Git Documentation - Config, Reflog, and Tags](https://dev.to/moustafaabedi/git-documentation-config-reflog-and-tags-38hm)
+- [get set Hola mundo en Soroban😀](https://dev.to/sergiotechx/get-set-hola-mundo-en-soroban-16mm)
+- [Meditations on Chasing a Developer Career](https://dev.to/mrsupercraft/meditations-on-chasing-a-developer-career-499b)
+- [Inception Labs released a production-grade diffusion LLM 🤯](https://dev.to/best_codes/inception-labs-released-a-production-grade-diffusion-llm-3a8j)
+- [Connecting your CDN to Fastly Object Storage](https://dev.to/fastly/connecting-your-cdn-to-fastly-object-storage-46n9)
+- [Resolving dpkg Lock Contention in Ubuntu Deployments](https://dev.to/yulin/resolving-dpkg-lock-contention-in-ubuntu-deployments-5fkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
