@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe: Web Application Pentesting Review](https://dev.to/seanleeys/tryhackme-web-application-pentesting-review-3h14)
-- [App Video: react-native-video VS expo-video](https://dev.to/zuludev/app-video-react-native-video-vs-expo-video-2jo)
-- [OOP project idea](https://dev.to/thin_phu/oop-project-idea-k08)
-- [TryHackMe: Summit](https://dev.to/seanleeys/tryhackme-summit-1mei)
-- [Apps Script’s Rhino runtime deprecated, launch of Meet Media API, and more!](https://dev.to/googleworkspace/apps-scripts-rhino-runtime-deprecated-launch-of-meet-media-api-and-more-391l)
+- [&quot;Unlocking AI Potential: Denoising, Reinforcement Learning &amp; Visual Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-potential-denoising-reinforcement-learning-visual-models-hhp)
+- [Using OpenAPI to Automate API Integration With Rapyd&#39;s Payment Gateway](https://dev.to/rapyd/using-openapi-to-automate-api-integration-with-rapyds-payment-gateway-cng)
+- [Exploring ZZZCode.ai: An AI Coding Assistant for Developers](https://dev.to/codeparrot/exploring-zzzcodeai-an-ai-coding-assistant-for-developers-4phk)
+- [Something is better than Nothing! he he he!](https://dev.to/aafthab_ali/something-is-better-than-nothing-he-he-he-2142)
+- [How Back-to-Base Security Systems Are Keeping Airports Safe](https://dev.to/shaz_seo_c7cd99f6fdb2c695/how-back-to-base-security-systems-are-keeping-airports-safe-3p1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
