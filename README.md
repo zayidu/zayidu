@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Before Learning React, You Must Know These Array Methods](https://dev.to/myogeshchavan97/before-learning-react-you-must-know-these-array-methods-36da)
-- [Hello!](https://dev.to/programmeverything/hello-1l5k)
-- [The Role of SaaS in Driving Digital Transformation for US Enterprises](https://dev.to/nzminds_11e07312d4586e329/the-role-of-saas-in-driving-digital-transformation-for-us-enterprises-5bai)
-- [Top 7 AI Chatbots for Businesses in 2025](https://dev.to/abu_noimmdtoha_036541e/top-7-ai-chatbots-for-businesses-in-2025-374e)
-- [Vibe Coding: An Exploration of AI-Assisted Development](https://dev.to/foxgem/vibe-coding-an-exploration-of-ai-assisted-development-2dkm)
+- [Laravel Auto CRUD Generator: Save 8+ Hours Per Project](https://dev.to/dosenngoding/laravel-auto-crud-generator-save-8-hours-per-project-m2l)
+- [4-Optimizing and Refactoring the Code - Building a Reactive System in TypeScript](https://dev.to/michaeljota/4-optimizing-and-refactoring-the-code-building-a-reactive-system-in-typescript-2d3)
+- [Telegram mini-app development and testing specifics: from initialisation to launch](https://dev.to/dev_family/telegram-mini-app-development-and-testing-specifics-from-initialisation-to-launch-1ofh)
+- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
+- [First pseudocode lines!](https://dev.to/matthijs_pouwels_9996aa3f/first-pseudocode-lines-1mij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
