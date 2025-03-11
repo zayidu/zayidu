@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs Next.js: Which One to Choose?](https://dev.to/raajaryan/react-vs-nextjs-which-one-to-choose-p57)
-- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-30d5)
-- [PR Summarizer: Your GitHub Sidekick for Faster and Funnier Reviews! 🎉](https://dev.to/bansikah/pr-summarizer-your-github-sidekick-for-faster-and-funnier-reviews-1635)
-- [AEPS Software: The Future of Banking for Agents &amp; Retailers](https://dev.to/ankit_vijayvargiya_50b613/aeps-software-the-future-of-banking-for-agents-retailers-1if6)
-- [What Are Embeddings? How They Help in RAG](https://dev.to/shaheryaryousaf/what-are-embeddings-how-they-help-in-rag-2l1k)
+- [Graph database vs relational vs vector vs NoSQL](https://dev.to/falkordb/graph-database-vs-relational-vs-vector-vs-nosql-blp)
+- [Expect Tech to Change, But Not the Way You Think It Will](https://dev.to/laikokwui/expect-tech-to-change-but-not-the-way-you-think-it-will-1p0g)
+- [Do Web Designers Even Matter When AI Can Build Websites?](https://dev.to/vikrant_bhalodia/do-web-designers-even-matter-when-ai-can-build-websites-35f0)
+- [Live Server HTTPS: setup on mac/windows](https://dev.to/andrewelans/live-server-https-set-it-up-on-macwindows-29cb)
+- [A guide to the CSS cursor property](https://dev.to/logrocket/a-guide-to-the-css-cursor-property-5hgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
