@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - Pages and Blocks](https://dev.to/aditya999123/navigating-postgresql-pages-and-blocks-238l)
-- [Hands-on Lab - Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda](https://dev.to/gurudev_prasadteketi/hands-on-lab-event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-kn2)
-- [Using Logger Middleware in Go Fiber](https://dev.to/luthfisauqi17/using-logger-middleware-in-go-fiber-21cn)
-- [OData with .NET core: Essential Concepts &amp; Best Practices](https://dev.to/renukapatil/odata-with-net-core-essential-concepts-best-practices-1iea)
-- [Building CraveSpin: A Fun Web App to Help You Choose What to Eat](https://dev.to/devchiii/building-cravespin-a-fun-web-app-to-help-you-choose-what-to-eat-2lo0)
+- [Why You Should Use a TypeScript Online Compiler for Quick Prototyping](https://dev.to/typescriptonlinecompiler/why-you-should-use-a-typescript-online-compiler-for-quick-prototyping-cj0)
+- [🚀 Database Optimization Tips Every Web Developer Should Know!](https://dev.to/dct_technologyprivatelimited/database-optimization-tips-every-web-developer-should-know-42n4)
+- [Singleton Pattern: The Lonely Chapter of Design Patterns](https://dev.to/zand/singleton-pattern-the-lonely-chapter-of-design-patterns-14kn)
+- [NodeJS vs GoLang #1](https://dev.to/rajanlagah/nodejs-vs-golang-1-3f69)
+- [How to Use a Swift Online Compiler for Faster Development](https://dev.to/s_compiler/how-to-use-a-swift-online-compiler-for-faster-development-3oep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
