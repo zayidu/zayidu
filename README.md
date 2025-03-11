@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-XP: The Product Owner Power-up for Agile Success](https://dev.to/dev3l/ai-xp-the-product-owner-power-up-for-agile-success-4c4e)
-- [How to Start a Career in Ethical Hacking – A Step-by-Step Guide](https://dev.to/serverzone/how-to-start-a-career-in-ethical-hacking-a-step-by-step-guide-3ln0)
-- [2025년에 안드로이드 앱을 만들기](https://dev.to/kingori/2025nyeone-andeuroideu-aebeul-mandeulgi-50df)
-- [Please check the comment section; I’ve added 3 more useful AI tools. Hopefully, you’ll like them!](https://dev.to/foxinfotech/please-check-the-comment-section-ive-added-3-more-useful-ai-tools-hopefully-youll-like-them-12jh)
-- [When Objects Aren&#39;t](https://dev.to/oculus42/when-objects-arent-3llk)
+- [Decoding the Digital Blueprint: Forging Exceptional Apps from the Tech Stack&#39;s Core](https://dev.to/daria_ester_7bc79acd97d54/decoding-the-digital-blueprint-forging-exceptional-apps-from-the-tech-stacks-core-1kh7)
+- [How To Add a Data Disk To A Virtual Machine In Azure: A Guide.](https://dev.to/essy/how-to-add-a-data-disk-to-a-virtual-machine-in-azure-a-guide-3g2g)
+- [Parameter Type Safety in JavaScript](https://dev.to/besworks/parameter-type-safety-in-javascript-4je2)
+- [Ethical Hacking vs Black Hat Hacking – What’s the Difference?](https://dev.to/serverzone/ethical-hacking-vs-black-hat-hacking-whats-the-difference-cgk)
+- [𝗢𝗻-𝗗𝗲𝘃𝗶𝗰𝗲 𝗔𝗜: 𝗬𝗼𝘂𝗿 𝗣𝗵𝗼𝗻𝗲 𝗝𝘂𝘀𝘁 𝗚𝗼𝘁 𝗮 𝗕𝗿𝗮𝗶𝗻 𝗨𝗽𝗴𝗿𝗮𝗱𝗲](https://dev.to/lifeofdekisugi/--3466)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
