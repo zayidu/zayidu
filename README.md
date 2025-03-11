@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Sawtooth Python SDK: Open Source, Funding, and Community Impact](https://dev.to/vitalisorenko/exploring-the-sawtooth-python-sdk-open-source-funding-and-community-impact-5hba)
-- [Gradle 101: How This Tool Builds Your Android App Behind the Scenes](https://dev.to/rijultp/gradle-101-how-this-tool-builds-your-android-app-behind-the-scenes-134p)
-- [2025 ChatGPT Case Study: AI Search Framework](https://dev.to/masterplanner25/2025-chatgpt-case-study-ai-search-framework-79)
-- [🚀 Build a No-Code Project Management App in Bubble.io | Full CRUD Tutorial](https://dev.to/ebereplenty/build-a-no-code-project-management-app-in-bubbleio-full-crud-tutorial-2h0e)
-- [Calico Network Policy](https://dev.to/alakkadshaw/calico-network-policy-88)
+- [Object Calisthenics: Writing Better Object-Oriented Code](https://dev.to/wallacefreitas/object-calisthenics-writing-better-object-oriented-code-2pgk)
+- [Deploying an AWS EKS Cluster with Terraform and GitHub Actions](https://dev.to/terrateam/deploying-an-aws-eks-cluster-with-terraform-and-github-actions-g01)
+- [[Boost]](https://dev.to/gilliandelvigne/-30j1)
+- [Explain Like I&#39;m Five](https://dev.to/raees_smile_5d4f8a3144393/explain-like-im-five-5eme)
+- [Git Documentation - Config, Reflog, and Tags](https://dev.to/moustafaabedi/git-documentation-config-reflog-and-tags-38hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
