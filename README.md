@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use a TypeScript Online Compiler for Quick Prototyping](https://dev.to/typescriptonlinecompiler/why-you-should-use-a-typescript-online-compiler-for-quick-prototyping-cj0)
-- [🚀 Database Optimization Tips Every Web Developer Should Know!](https://dev.to/dct_technologyprivatelimited/database-optimization-tips-every-web-developer-should-know-42n4)
-- [Singleton Pattern: The Lonely Chapter of Design Patterns](https://dev.to/zand/singleton-pattern-the-lonely-chapter-of-design-patterns-14kn)
-- [NodeJS vs GoLang #1](https://dev.to/rajanlagah/nodejs-vs-golang-1-3f69)
-- [How to Use a Swift Online Compiler for Faster Development](https://dev.to/s_compiler/how-to-use-a-swift-online-compiler-for-faster-development-3oep)
+- [Why Databases Matter: Real-World Applications and Use Cases](https://dev.to/be11amer/why-databases-matter-real-world-applications-and-use-cases-53an)
+- [Shaping Your Personal Brand for the Tech Revolution: A Roadmap to Relevancy](https://dev.to/okoye_ndidiamaka_5e3b7d30/shaping-your-personal-brand-for-the-tech-revolution-a-roadmap-to-relevancy-10bk)
+- [Coding in Pajamas: The Remote Programmer’s Life 🌟](https://dev.to/mahdijazini/coding-in-pajamas-the-remote-programmers-life-41ac)
+- [Enabling SOAP Request and Response Logging in JBoss EAP 7](https://dev.to/dhanushaperera07/enabling-soap-request-and-response-logging-in-jboss-eap-7-3nip)
+- [Django 5.2&#39;s Smart Shell: Goodbye Manual Model Imports!](https://dev.to/hoangquochung1110/django-52s-smart-shell-goodbye-manual-model-imports-1aae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
