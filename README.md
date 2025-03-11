@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Digital Blueprint: Forging Exceptional Apps from the Tech Stack&#39;s Core](https://dev.to/daria_ester_7bc79acd97d54/decoding-the-digital-blueprint-forging-exceptional-apps-from-the-tech-stacks-core-1kh7)
-- [How To Add a Data Disk To A Virtual Machine In Azure: A Guide.](https://dev.to/essy/how-to-add-a-data-disk-to-a-virtual-machine-in-azure-a-guide-3g2g)
-- [Parameter Type Safety in JavaScript](https://dev.to/besworks/parameter-type-safety-in-javascript-4je2)
-- [Ethical Hacking vs Black Hat Hacking – What’s the Difference?](https://dev.to/serverzone/ethical-hacking-vs-black-hat-hacking-whats-the-difference-cgk)
-- [𝗢𝗻-𝗗𝗲𝘃𝗶𝗰𝗲 𝗔𝗜: 𝗬𝗼𝘂𝗿 𝗣𝗵𝗼𝗻𝗲 𝗝𝘂𝘀𝘁 𝗚𝗼𝘁 𝗮 𝗕𝗿𝗮𝗶𝗻 𝗨𝗽𝗴𝗿𝗮𝗱𝗲](https://dev.to/lifeofdekisugi/--3466)
+- [How to setup compose desktop hot reload](https://dev.to/coltonidle/how-to-setup-compose-desktop-hot-reload-232b)
+- [범위 한정될 때 유리한 계수 정렬](https://dev.to/junghwan18/susjayi-beomwiga-hanjeongdoeeo-isseul-ddaen-gyesujeongryeoldo-gominhaeboja-1j7h)
+- [Stop Naming Things Wrong! Enforce Naming Conventions with TypeScript](https://dev.to/coconut_coder/stop-naming-things-wrong-enforce-naming-conventions-with-typescript-5h90)
+- [Test Design: What Is It and Why Is It Important?](https://dev.to/radha_4c842d8e4362a7cdd9c/test-design-what-is-it-and-why-is-it-important-35o7)
+- [First Post](https://dev.to/kelly_hopkins/first-post-16k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
