@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I love slots, do you ?](https://dev.to/obiwanpelosi/i-love-slots-do-you--4h5d)
-- [Database Sharding: Breaking It Down Without Breaking Your DB](https://dev.to/lovestaco/database-sharding-breaking-it-down-without-breaking-your-db-3f64)
-- [Understanding Multi Modal AI Agents: Transforming Human-Computer Interaction](https://dev.to/bhavyajain/understanding-multi-modal-ai-agents-transforming-human-computer-interaction-3f09)
-- [How to create animated image cards with Tailwind CSS and Astrojs](https://dev.to/mike_andreuzza/how-to-create-animated-image-cards-with-tailwind-css-and-astrojs-18j2)
-- [🌀 Ever wondered how React updates the UI? Dive into the world of virtual DOM, reconciliation, and efficient re-rendering. This post breaks down React&#39;s rendering magic in a simple, beginner-friendly way. A must-read to level up your frontend game!](https://dev.to/joshi16/ever-wondered-how-react-updates-the-ui-dive-into-the-world-of-virtual-dom-reconciliation-and-pe7)
+- [Build A Personal AI-Powered Finance Copilot: Maybe + CopilotKit 🪁](https://dev.to/copilotkit/build-a-personal-ai-powered-finance-copilot-maybe-copilotkit-2knf)
+- [Building Robust Python Data Models with Pydantic Validators](https://dev.to/samconibear/building-robust-python-data-models-with-pydantic-validators-41lf)
+- [C# da Nuqtalar va Doiralar bilan Ishlash](https://dev.to/umida5/struct-5d2i)
+- [The Transformation of Digital Illustration in Digital Marketing](https://dev.to/max_services/the-transformation-of-digital-illustration-in-digital-marketing-2g71)
+- [🚀 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝗚𝗺𝗮𝗶𝗹 𝗦𝗠𝗧𝗣 𝗜𝘀𝘀𝘂𝗲𝘀 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲! 🔥](https://dev.to/supraja_tangella_b7f0738e/--581b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
