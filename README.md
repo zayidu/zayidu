@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building FastRace: A High-Performance Traceroute Implementation in Pure C](https://dev.to/daviducolo/building-fastrace-a-high-performance-traceroute-implementation-in-pure-c-3h92)
-- [TypeScript just got 10x faster… &lpar;because of Go&rpar;](https://dev.to/fabianfrankwerner/typescript-just-got-10x-faster-because-of-go-12cn)
-- [Automating Amazon EKS Provisioning with Terraform &amp; GitHub OIDC &amp; Actions](https://dev.to/ayush_pant_67bc0b97507a25/automating-amazon-eks-provisioning-with-terraform-github-oidc-actions-5dof)
-- [Secure Packages with AWS CodeArtifact](https://dev.to/misolainthecloud/secure-packageswith-aws-codeartifact-1gh4)
-- [Introducing Dengo: MongoDB API for Deno KV](https://dev.to/vfssantos/introducing-dengo-mongodb-api-for-deno-kv-4cgf)
+- [Understanding SCRUM &lpar;An Agile Development Framework&rpar;](https://dev.to/tak089/understanding-scrum-an-agile-development-framework-2205)
+- [Top Features of ZinariPay You Should Know About](https://dev.to/zinaritech/top-features-of-zinaripay-you-should-know-about-31gg)
+- [Building Infinite AI Web: The Journey Begins &lpar;pt1&rpar;](https://dev.to/thelime1/building-infinite-ai-web-the-journey-begins-pt1-1enb)
+- [Google Workspace and the Model Context Protocol](https://dev.to/googleworkspace/google-workspace-and-the-model-context-protocol-5amf)
+- [Unveiling the OpenSSL License: A Deep Dive into Open Source Security](https://dev.to/jennythomas498/unveiling-the-openssl-license-a-deep-dive-into-open-source-security-k86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
