@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the Digital Treadmill: How to Daily Drive a Flip phone in 2025 - TCL Flip 2](https://dev.to/tylerboni/escaping-the-digital-treadmill-how-to-daily-drive-a-flip-phone-in-2025-tcl-flip-2-17el)
-- [Unveiling GNU Free Documentation License 1.3: A Deep Dive into Open Documentation Freedom](https://dev.to/laetitiaperraut/unveiling-gnu-free-documentation-license-13-a-deep-dive-into-open-documentation-freedom-4e0h)
-- [How to Fix the &quot;This email is not available&quot; Error in Cursor](https://dev.to/falldd/how-to-fix-the-this-email-is-not-available-error-in-cursor-2bfk)
-- [I Built a Docker Image Download Tool in 7 Days – No Docker Required! 🚀](https://dev.to/herche_jane/i-built-a-docker-image-download-tool-in-7-days-no-docker-required-267o)
-- [Consume la api de GitHub](https://dev.to/fainnerramirez/consume-la-api-de-github-37jc)
+- [Welcome Thread - v318](https://dev.to/devteam/welcome-thread-v318-56i1)
+- [Debouncing &amp; throttling](https://dev.to/anjali_gurjar_dff81513867/debouncing-throttling-i90)
+- [🚀 Why is Redis So Fast?](https://dev.to/devcorner/why-is-redis-so-fast-431k)
+- [Understanding Memory Hierarchy: Why Redis Uses RAM, Not Disk](https://dev.to/devcorner/understanding-memory-hierarchy-why-redis-uses-ram-not-disk-41d2)
+- [Understanding the Event Loop in Node.js: A Step-by-Step Guide](https://dev.to/devcorner/understanding-the-event-loop-in-nodejs-a-step-by-step-guide-3l0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
