@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s create international phone number input with React, Tailwind CSS and Headless UI](https://dev.to/morewings/lets-create-international-phone-number-input-with-react-tailwind-css-and-headless-ui-31jc)
-- [Space-time collision problem that renders MPP powerless to solve: SPL practice](https://dev.to/esproc_spl/space-time-collision-problem-that-renders-mpp-powerless-to-solve-spl-practice-3in6)
-- [Automate Everything to Avoid Failures](https://dev.to/metis/automate-everything-to-avoid-failures-h0k)
-- [A Beginner’s Guide to Debugging Like a Pro](https://dev.to/dimagi_sihilel_0d6234fd02/a-beginners-guide-to-debugging-like-a-pro-l7i)
-- [Carving Your Path in Tech: Finding the Right Niche for You](https://dev.to/kakacomputer-media/carving-your-path-in-tech-finding-the-right-niche-for-you-5aom)
+- [Middle Men Asia: Revolutionizing Legal Access Through AI](https://dev.to/sreenandhini_ks_d82001e2/middle-men-asia-revolutionizing-legal-access-through-ai-4jg4)
+- [Gem-Assist: Your Command-Line Personal Assistant](https://dev.to/fus3n/gem-assist-your-command-line-personal-assistant-51g7)
+- [From Dev to Hacker: How to Think Like an Attacker to Secure Your Code](https://dev.to/info_generalhazedawn_a3d/from-dev-to-hacker-how-to-think-like-an-attacker-to-secure-your-code-l41)
+- [Semantic search alone won&#39;t solve relational queries in your LLM retrieval pipeline.](https://dev.to/falkordb/semantic-search-alone-wont-solve-relational-queries-in-your-llm-retrieval-pipeline-4a4i)
+- [Unveiling Sun Public License 1.0: A Deep Dive into Fair Code Licensing](https://dev.to/vitalisorenko/unveiling-sun-public-license-10-a-deep-dive-into-fair-code-licensing-1den)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
