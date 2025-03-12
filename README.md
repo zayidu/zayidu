@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Personal AI-Powered Finance Copilot: Maybe + CopilotKit 🪁](https://dev.to/copilotkit/build-a-personal-ai-powered-finance-copilot-maybe-copilotkit-2knf)
-- [Building Robust Python Data Models with Pydantic Validators](https://dev.to/samconibear/building-robust-python-data-models-with-pydantic-validators-41lf)
-- [C# da Nuqtalar va Doiralar bilan Ishlash](https://dev.to/umida5/struct-5d2i)
-- [The Transformation of Digital Illustration in Digital Marketing](https://dev.to/max_services/the-transformation-of-digital-illustration-in-digital-marketing-2g71)
-- [🚀 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝗚𝗺𝗮𝗶𝗹 𝗦𝗠𝗧𝗣 𝗜𝘀𝘀𝘂𝗲𝘀 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲! 🔥](https://dev.to/supraja_tangella_b7f0738e/--581b)
+- [Migrating to Valkey from Redis](https://dev.to/logrocket/migrating-to-valkey-from-redis-3jib)
+- [Kubernetes Myth #11: CPU Requests Guarantee Reserved CPU](https://dev.to/rajeshdeshpande02/kubernetes-myth-11-cpu-requests-guarantee-reserved-cpu-3be6)
+- [Kubernetes Myth #10: Kube-Proxy Assigns IP Addresses to Pods](https://dev.to/rajeshdeshpande02/kubernetes-myth-10-kube-proxy-assigns-ip-addresses-to-pods-3l58)
+- [React Native Package Checker: Simplify Your New Architecture Migration](https://dev.to/sandip_shiwakoti/react-native-package-checker-simplify-your-new-architecture-migration-58f)
+- [Kubernetes Myth #09: ClusterIP Services Always Use Round-Robin Load Balancing](https://dev.to/rajeshdeshpande02/kubernetes-myth-09-clusterip-services-always-use-round-robin-load-balancing-139o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
