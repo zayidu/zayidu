@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to Valkey from Redis](https://dev.to/logrocket/migrating-to-valkey-from-redis-3jib)
-- [Kubernetes Myth #11: CPU Requests Guarantee Reserved CPU](https://dev.to/rajeshdeshpande02/kubernetes-myth-11-cpu-requests-guarantee-reserved-cpu-3be6)
-- [Kubernetes Myth #10: Kube-Proxy Assigns IP Addresses to Pods](https://dev.to/rajeshdeshpande02/kubernetes-myth-10-kube-proxy-assigns-ip-addresses-to-pods-3l58)
-- [React Native Package Checker: Simplify Your New Architecture Migration](https://dev.to/sandip_shiwakoti/react-native-package-checker-simplify-your-new-architecture-migration-58f)
-- [Kubernetes Myth #09: ClusterIP Services Always Use Round-Robin Load Balancing](https://dev.to/rajeshdeshpande02/kubernetes-myth-09-clusterip-services-always-use-round-robin-load-balancing-139o)
+- [Building FastRace: A High-Performance Traceroute Implementation in Pure C](https://dev.to/daviducolo/building-fastrace-a-high-performance-traceroute-implementation-in-pure-c-3h92)
+- [TypeScript just got 10x faster… &lpar;because of Go&rpar;](https://dev.to/fabianfrankwerner/typescript-just-got-10x-faster-because-of-go-12cn)
+- [Automating Amazon EKS Provisioning with Terraform &amp; GitHub OIDC &amp; Actions](https://dev.to/ayush_pant_67bc0b97507a25/automating-amazon-eks-provisioning-with-terraform-github-oidc-actions-5dof)
+- [Secure Packages with AWS CodeArtifact](https://dev.to/misolainthecloud/secure-packageswith-aws-codeartifact-1gh4)
+- [Introducing Dengo: MongoDB API for Deno KV](https://dev.to/vfssantos/introducing-dengo-mongodb-api-for-deno-kv-4cgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
