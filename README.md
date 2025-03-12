@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Export Figma to CSS](https://dev.to/builderio/export-figma-to-css-503g)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-559i)
-- [&quot;Unlocking Code Efficiency: The Power of GraphSense in IDEs and Beyond&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-code-efficiency-the-power-of-graphsense-in-ides-and-beyond-16n8)
-- [Introducing Astra DB for AI Agents: A New Era of Database Interaction](https://dev.to/datastax/introducing-astra-db-for-ai-agents-a-new-era-of-database-interaction-1364)
-- [5 Essential Tools for Web API Development with EF Core](https://dev.to/emma_maria/5-essential-tools-for-web-api-development-with-ef-core-jen)
+- [Let&#39;s create international phone number input with React, Tailwind CSS and Headless UI](https://dev.to/morewings/lets-create-international-phone-number-input-with-react-tailwind-css-and-headless-ui-31jc)
+- [Space-time collision problem that renders MPP powerless to solve: SPL practice](https://dev.to/esproc_spl/space-time-collision-problem-that-renders-mpp-powerless-to-solve-spl-practice-3in6)
+- [Automate Everything to Avoid Failures](https://dev.to/metis/automate-everything-to-avoid-failures-h0k)
+- [A Beginner’s Guide to Debugging Like a Pro](https://dev.to/dimagi_sihilel_0d6234fd02/a-beginners-guide-to-debugging-like-a-pro-l7i)
+- [Carving Your Path in Tech: Finding the Right Niche for You](https://dev.to/kakacomputer-media/carving-your-path-in-tech-finding-the-right-niche-for-you-5aom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
