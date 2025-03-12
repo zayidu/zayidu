@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily React Learning -10](https://dev.to/utsabnepal55/daily-react-learning-10-n42)
-- [Ditching the Overhead: My Experience with Go, HTMX, Tailwind &amp; Alpine.js](https://dev.to/thesimdak/ditching-the-overhead-my-experience-with-go-htmx-tailwind-alpinejs-1gif)
-- [When Files Ask for a Password: A Developer&#39;s Solution](https://dev.to/tabuna/when-files-ask-for-a-password-a-developers-solution-396a)
-- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
-- [Linux awareness, Distrohopping, Ricing, and Growing up](https://dev.to/abanoubha/linux-awareness-distrohopping-ricing-and-growing-up-2ikl)
+- [Why I created Deeper Dark Color Theme for VS Code ?](https://dev.to/abanoubha/why-i-created-deeper-dark-color-theme-for-vs-code--3f0m)
+- [Why Static Typing is Essential for Efficient Ruby and Rails Development](https://dev.to/aeremin/why-static-typing-is-essential-for-efficient-ruby-and-rails-development-3n0d)
+- [AI compute revolution is Here!!! Please check out this article](https://dev.to/lorebrada00/ai-compute-revolution-is-here-please-check-out-this-article-bkc)
+- [Democratizing AI Compute, Part 1: The Impact of DeepSeek on AI](https://dev.to/cortexflow/democratizing-ai-compute-part-1-the-impact-of-deepseek-on-ai-3kf2)
+- [How to set Win+V shortcut for Clipboard History in Ubuntu Linux ?](https://dev.to/abanoubha/how-to-set-winv-shortcut-for-clipboard-history-in-ubuntu-linux--3d5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
