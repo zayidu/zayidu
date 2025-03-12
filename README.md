@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - The explain command and sequential scans](https://dev.to/aditya999123/navigating-postgresql-the-explain-command-and-sequential-scans-2466)
-- [How to Start a PAN Card Service Business as a Retailer](https://dev.to/vicky_vijaywargiya_4c7fbd/how-to-start-a-pan-card-service-business-as-a-retailer-28dk)
-- [Importance of performance testing in BFSI](https://dev.to/grjoeay/importance-of-performance-testing-in-bfsi-67)
-- [[Boost]](https://dev.to/foxinfotech/-48l5)
-- [Unveiling GNU All-Permissive License: A Deep Dive into the Freedom of Software](https://dev.to/bobcars/unveiling-gnu-all-permissive-license-a-deep-dive-into-the-freedom-of-software-2i0b)
+- [Chaos Testing: 6 Proven Techniques to Strengthen API Resilience](https://dev.to/getambassador2024/chaos-testing-6-proven-techniques-to-strengthen-api-resilience-4291)
+- [Node.js Event Loop: The Key to Scalable and Efficient Applications](https://dev.to/abderrazzakb/nodejs-event-loop-the-key-to-scalable-and-efficient-applications-2gob)
+- [startTimingTracking in react-scan source code](https://dev.to/ramunarasinga-11/starttimingtracking-in-react-scan-source-code-1m2i)
+- [The connection you choose](https://dev.to/yujofficial/the-connection-you-choose-2jba)
+- [Server-Side Rendering vs. Client-Side Rendering in React](https://dev.to/vanithaintel2025/server-side-rendering-vs-client-side-rendering-in-react-3ajk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
