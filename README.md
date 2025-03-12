@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Middle Men Asia: Revolutionizing Legal Access Through AI](https://dev.to/sreenandhini_ks_d82001e2/middle-men-asia-revolutionizing-legal-access-through-ai-4jg4)
-- [Gem-Assist: Your Command-Line Personal Assistant](https://dev.to/fus3n/gem-assist-your-command-line-personal-assistant-51g7)
-- [From Dev to Hacker: How to Think Like an Attacker to Secure Your Code](https://dev.to/info_generalhazedawn_a3d/from-dev-to-hacker-how-to-think-like-an-attacker-to-secure-your-code-l41)
-- [Semantic search alone won&#39;t solve relational queries in your LLM retrieval pipeline.](https://dev.to/falkordb/semantic-search-alone-wont-solve-relational-queries-in-your-llm-retrieval-pipeline-4a4i)
-- [Unveiling Sun Public License 1.0: A Deep Dive into Fair Code Licensing](https://dev.to/vitalisorenko/unveiling-sun-public-license-10-a-deep-dive-into-fair-code-licensing-1den)
+- [6 Types of AI Workloads, Challenges and Critical Best Practices](https://dev.to/e77/6-types-of-ai-workloads-challenges-and-critical-best-practices-3de3)
+- [Cron Job Monitoring: A Basic Overview](https://dev.to/firoz_khan_f6999b179f50a2/cron-job-monitoring-a-basic-overview-2jhp)
+- [WebAssembly and JavaScript Integration: 5 Techniques for High-Performance Web Applications](https://dev.to/aaravjoshi/webassembly-and-javascript-integration-5-techniques-for-high-performance-web-applications-e5e)
+- [Jenkins vs. GitLab vs. CircleCI – Which CI/CD Tool Is Right for You?](https://dev.to/msystech/jenkins-vs-gitlab-vs-circleci-which-cicd-tool-is-right-for-you-577d)
+- [Stop Writing Rigid Code! Master the Decorator Pattern in Go for Ultimate Flexibility](https://dev.to/architagr/stop-writing-rigid-code-master-the-decorator-pattern-in-go-for-ultimate-flexibility-3mp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
