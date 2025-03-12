@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I created Deeper Dark Color Theme for VS Code ?](https://dev.to/abanoubha/why-i-created-deeper-dark-color-theme-for-vs-code--3f0m)
-- [Why Static Typing is Essential for Efficient Ruby and Rails Development](https://dev.to/aeremin/why-static-typing-is-essential-for-efficient-ruby-and-rails-development-3n0d)
-- [AI compute revolution is Here!!! Please check out this article](https://dev.to/lorebrada00/ai-compute-revolution-is-here-please-check-out-this-article-bkc)
-- [Democratizing AI Compute, Part 1: The Impact of DeepSeek on AI](https://dev.to/cortexflow/democratizing-ai-compute-part-1-the-impact-of-deepseek-on-ai-3kf2)
-- [How to set Win+V shortcut for Clipboard History in Ubuntu Linux ?](https://dev.to/abanoubha/how-to-set-winv-shortcut-for-clipboard-history-in-ubuntu-linux--3d5c)
+- [Deploy Nextcloud on Kubernetes](https://dev.to/mrgitops/deploy-nextcloud-on-kubernetes-31n5)
+- [Online Diagnostic Tools: Supplement, Not Replacement](https://dev.to/rustemsoft_llc_4b38a13294/online-diagnostic-tools-supplement-not-replacement-3gip)
+- [Using AWS Secret Manager to store credentials](https://dev.to/ramparamhansa/using-aws-secret-manager-to-store-credentials-and-retrieve-it-in-terraform-module-4ofk)
+- [React for Embedded Development](https://dev.to/fefa4ka/react-for-embedded-development-mho)
+- [What Are the Key Features Of Delphi Programming That Make It a Preferred Choice for Windows Application Development?](https://dev.to/jordankeurope/what-are-the-key-features-of-delphi-programming-that-make-it-a-preferred-choice-for-windows-4g2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
