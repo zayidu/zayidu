@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [70+ Free Web Dev Gems](https://dev.to/aniruddhaadak/70-free-web-dev-gems-471l)
-- [Projects in Java Script](https://dev.to/kaviya_1929/projects-in-java-script-5h08)
-- [Introduction to AI and Machine Learning on Google Cloud](https://dev.to/rohan_jee_085655230/introduction-to-ai-and-machine-learning-on-google-cloud-2af4)
-- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
-- [2529. Maximum Count of Positive Integer and Negative Integer](https://dev.to/mdarifulhaque/2529-maximum-count-of-positive-integer-and-negative-integer-2la3)
+- [Pricing Card Code Challenge](https://dev.to/thek2j/pricing-card-code-challenge-453c)
+- [Simplifying React Hooks: useReducer 💯](https://dev.to/alisamir/simplifying-react-hooks-usereducer-86k)
+- [Just Launched My Custom Tetris Game! 🎮](https://dev.to/nemish/just-launched-my-custom-tetris-game-7gd)
+- [Monitor Docker Logs in Real-Time with a Simple Bash Script](https://dev.to/kishore_suzil_v/monitor-docker-logs-in-real-time-with-a-simple-bash-script-4fb4)
+- [Python Keyloggers: Do They Still Work in 2025?](https://dev.to/snappytuts/python-keyloggers-do-they-still-work-in-2025-120i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
