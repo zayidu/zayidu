@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Databases: Relational, NoSQL, and Beyond](https://dev.to/be11amer/types-of-databases-relational-nosql-and-beyond-45l)
-- [Next.js vs. Solid.js: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-solidjs-what-to-choose-in-2025-enh)
-- [Tutorial: Build a RAG Chatbot with LangChain 🦜, Zilliz Cloud, Anthropic Claude 3 Opus, and Google Vertex AI text-embedding-004](https://dev.to/zilliz/tutorial-build-a-rag-chatbot-with-langchain-zilliz-cloud-anthropic-claude-3-opus-and-google-24gg)
-- [From Side Projects to Job Offers: The Hidden Value of Your First Tech Projects and Articles](https://dev.to/stan015/from-side-projects-to-job-offers-the-hidden-value-of-your-first-tech-projects-and-articles-5619)
-- [How to Start a Mobile Recharge Portal and Business in India: A Complete Guide with Noble Web Studio](https://dev.to/vicky_vijaywargiya_4c7fbd/how-to-start-a-mobile-recharge-portal-and-business-in-india-a-complete-guide-with-noble-web-studio-18fd)
+- [Export Figma to CSS](https://dev.to/builderio/export-figma-to-css-503g)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-559i)
+- [&quot;Unlocking Code Efficiency: The Power of GraphSense in IDEs and Beyond&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-code-efficiency-the-power-of-graphsense-in-ides-and-beyond-16n8)
+- [Introducing Astra DB for AI Agents: A New Era of Database Interaction](https://dev.to/datastax/introducing-astra-db-for-ai-agents-a-new-era-of-database-interaction-1364)
+- [5 Essential Tools for Web API Development with EF Core](https://dev.to/emma_maria/5-essential-tools-for-web-api-development-with-ef-core-jen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
