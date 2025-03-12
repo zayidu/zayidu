@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Testing: 6 Proven Techniques to Strengthen API Resilience](https://dev.to/getambassador2024/chaos-testing-6-proven-techniques-to-strengthen-api-resilience-4291)
-- [Node.js Event Loop: The Key to Scalable and Efficient Applications](https://dev.to/abderrazzakb/nodejs-event-loop-the-key-to-scalable-and-efficient-applications-2gob)
-- [startTimingTracking in react-scan source code](https://dev.to/ramunarasinga-11/starttimingtracking-in-react-scan-source-code-1m2i)
-- [The connection you choose](https://dev.to/yujofficial/the-connection-you-choose-2jba)
-- [Server-Side Rendering vs. Client-Side Rendering in React](https://dev.to/vanithaintel2025/server-side-rendering-vs-client-side-rendering-in-react-3ajk)
+- [Types of Databases: Relational, NoSQL, and Beyond](https://dev.to/be11amer/types-of-databases-relational-nosql-and-beyond-45l)
+- [Next.js vs. Solid.js: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-solidjs-what-to-choose-in-2025-enh)
+- [Tutorial: Build a RAG Chatbot with LangChain 🦜, Zilliz Cloud, Anthropic Claude 3 Opus, and Google Vertex AI text-embedding-004](https://dev.to/zilliz/tutorial-build-a-rag-chatbot-with-langchain-zilliz-cloud-anthropic-claude-3-opus-and-google-24gg)
+- [From Side Projects to Job Offers: The Hidden Value of Your First Tech Projects and Articles](https://dev.to/stan015/from-side-projects-to-job-offers-the-hidden-value-of-your-first-tech-projects-and-articles-5619)
+- [How to Start a Mobile Recharge Portal and Business in India: A Complete Guide with Noble Web Studio](https://dev.to/vicky_vijaywargiya_4c7fbd/how-to-start-a-mobile-recharge-portal-and-business-in-india-a-complete-guide-with-noble-web-studio-18fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
