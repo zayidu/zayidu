@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Vector Databases with APIpie.ai](https://dev.to/apipie-ai/understanding-vector-databases-with-apipieai-3324)
-- [Automating Software Development Pipelines with AI](https://dev.to/kartikmehta8/automating-software-development-pipelines-with-ai-120k)
-- [Reusable Components in Flutter: Write Once, Use Everywhere! 🚀](https://dev.to/abubaker_alhomidy_057530c/reusable-components-in-flutter-write-once-use-everywhere-9oa)
-- [The Mobile App Testing Guide for Beginners](https://dev.to/radha_4c842d8e4362a7cdd9c/the-mobile-app-testing-guide-for-beginners-2ke)
-- [Dog Hack the Box Writeup](https://dev.to/deadbeff/dog-hack-the-box-writeup-o19)
+- [Zhiyuan Robotics Unveils Lingxi X2: The Humanoid Robot Redefining AI Interaction](https://dev.to/lunadelo/zhiyuan-robotics-unveils-lingxi-x2-the-humanoid-robot-redefining-ai-interaction-3nmn)
+- [Databricks Platform: Unlocking Big Data Analytics and Machine Learning at Scale](https://dev.to/anil_kumarmoka_f93e418d0/databricks-platform-unlocking-big-data-analytics-and-machine-learning-at-scale-4d1d)
+- [I Built an AI-Powered Five Whys Tool to Improve Root Cause Analysis](https://dev.to/mogic_io/i-built-an-ai-powered-five-whys-tool-to-improve-root-cause-analysis-3mne)
+- [Caching API responses with Redis in Zig](https://dev.to/vinybrasil/caching-api-responses-with-redis-in-zig-gk3)
+- [startup job description red flags/amateur/elitist indicators](https://dev.to/codewander/startup-job-description-red-flagsamateurelitist-indicators-mdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
