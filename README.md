@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar um Raycaster&lpar;estilo DOOM&rpar; com C++](https://dev.to/marcosplusplus/como-criar-um-raycasterestilo-doom-com-c-42na)
-- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
-- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
-- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
-- [Dify + AgentQL: Build AI Apps with Live Web Data, No Code Needed](https://dev.to/nearestnabors/dify-agentql-build-ai-apps-with-live-web-data-no-code-needed-5b4e)
+- [Understanding Vector Databases with APIpie.ai](https://dev.to/apipie-ai/understanding-vector-databases-with-apipieai-3324)
+- [Automating Software Development Pipelines with AI](https://dev.to/kartikmehta8/automating-software-development-pipelines-with-ai-120k)
+- [Reusable Components in Flutter: Write Once, Use Everywhere! 🚀](https://dev.to/abubaker_alhomidy_057530c/reusable-components-in-flutter-write-once-use-everywhere-9oa)
+- [The Mobile App Testing Guide for Beginners](https://dev.to/radha_4c842d8e4362a7cdd9c/the-mobile-app-testing-guide-for-beginners-2ke)
+- [Dog Hack the Box Writeup](https://dev.to/deadbeff/dog-hack-the-box-writeup-o19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
