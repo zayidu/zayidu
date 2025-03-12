@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SCRUM &lpar;An Agile Development Framework&rpar;](https://dev.to/tak089/understanding-scrum-an-agile-development-framework-2205)
-- [Top Features of ZinariPay You Should Know About](https://dev.to/zinaritech/top-features-of-zinaripay-you-should-know-about-31gg)
-- [Building Infinite AI Web: The Journey Begins &lpar;pt1&rpar;](https://dev.to/thelime1/building-infinite-ai-web-the-journey-begins-pt1-1enb)
-- [Google Workspace and the Model Context Protocol](https://dev.to/googleworkspace/google-workspace-and-the-model-context-protocol-5amf)
-- [Unveiling the OpenSSL License: A Deep Dive into Open Source Security](https://dev.to/jennythomas498/unveiling-the-openssl-license-a-deep-dive-into-open-source-security-k86)
+- [70+ Free Web Dev Gems](https://dev.to/aniruddhaadak/70-free-web-dev-gems-471l)
+- [Projects in Java Script](https://dev.to/kaviya_1929/projects-in-java-script-5h08)
+- [Introduction to AI and Machine Learning on Google Cloud](https://dev.to/rohan_jee_085655230/introduction-to-ai-and-machine-learning-on-google-cloud-2af4)
+- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
+- [2529. Maximum Count of Positive Integer and Negative Integer](https://dev.to/mdarifulhaque/2529-maximum-count-of-positive-integer-and-negative-integer-2la3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
