@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda Performance Tuning: How to Reduce Cold Starts](https://dev.to/aws-builders/aws-lambda-performance-tuning-how-to-reduce-cold-starts-44p9)
-- [Step-by-Step Guide: Creating a SharePoint Site with Custom Permissions](https://dev.to/seyilufadejucyberservices/step-by-step-guide-creating-a-sharepoint-site-with-custom-permissions-630)
-- [Understanding Data Structures &amp; Algorithms for Beginners](https://dev.to/abdulwahidkahar/understanding-data-structures-algorithms-for-beginners-c54)
-- [• Personal Finance Tracker &lpar;Track income/expenses with charts &amp; tables&rpar;](https://dev.to/pk_shahood_76c6e86d745494/personal-finance-tracker-track-incomeexpenses-with-charts-tables-5eki)
-- [Securing Your Kubernetes Fortress](https://dev.to/arbythecoder/securing-your-kubernetes-fortress-5308)
+- [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
+- [Introduction](https://dev.to/jennythomas498/introduction-4pnd)
+- [Mapping History with Code: Digitizing the Île de la Cité](https://dev.to/marc_pissot_752975d2f3988/mapping-history-with-code-digitizing-the-ile-de-la-cite-57ae)
+- [🧟‍♂️ The Zombie Server That Wouldn’t Die 💀](https://dev.to/francotel/the-zombie-server-that-wouldnt-die-45di)
+- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-1d02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
