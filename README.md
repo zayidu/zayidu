@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zhiyuan Robotics Unveils Lingxi X2: The Humanoid Robot Redefining AI Interaction](https://dev.to/lunadelo/zhiyuan-robotics-unveils-lingxi-x2-the-humanoid-robot-redefining-ai-interaction-3nmn)
-- [Databricks Platform: Unlocking Big Data Analytics and Machine Learning at Scale](https://dev.to/anil_kumarmoka_f93e418d0/databricks-platform-unlocking-big-data-analytics-and-machine-learning-at-scale-4d1d)
-- [I Built an AI-Powered Five Whys Tool to Improve Root Cause Analysis](https://dev.to/mogic_io/i-built-an-ai-powered-five-whys-tool-to-improve-root-cause-analysis-3mne)
-- [Caching API responses with Redis in Zig](https://dev.to/vinybrasil/caching-api-responses-with-redis-in-zig-gk3)
-- [startup job description red flags/amateur/elitist indicators](https://dev.to/codewander/startup-job-description-red-flagsamateurelitist-indicators-mdc)
+- [Escaping the Digital Treadmill: How to Daily Drive a Flip phone in 2025 - TCL Flip 2](https://dev.to/tylerboni/escaping-the-digital-treadmill-how-to-daily-drive-a-flip-phone-in-2025-tcl-flip-2-17el)
+- [Unveiling GNU Free Documentation License 1.3: A Deep Dive into Open Documentation Freedom](https://dev.to/laetitiaperraut/unveiling-gnu-free-documentation-license-13-a-deep-dive-into-open-documentation-freedom-4e0h)
+- [How to Fix the &quot;This email is not available&quot; Error in Cursor](https://dev.to/falldd/how-to-fix-the-this-email-is-not-available-error-in-cursor-2bfk)
+- [I Built a Docker Image Download Tool in 7 Days – No Docker Required! 🚀](https://dev.to/herche_jane/i-built-a-docker-image-download-tool-in-7-days-no-docker-required-267o)
+- [Consume la api de GitHub](https://dev.to/fainnerramirez/consume-la-api-de-github-37jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
