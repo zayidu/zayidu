@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pricing Card Code Challenge](https://dev.to/thek2j/pricing-card-code-challenge-453c)
-- [Simplifying React Hooks: useReducer 💯](https://dev.to/alisamir/simplifying-react-hooks-usereducer-86k)
-- [Just Launched My Custom Tetris Game! 🎮](https://dev.to/nemish/just-launched-my-custom-tetris-game-7gd)
-- [Monitor Docker Logs in Real-Time with a Simple Bash Script](https://dev.to/kishore_suzil_v/monitor-docker-logs-in-real-time-with-a-simple-bash-script-4fb4)
-- [Python Keyloggers: Do They Still Work in 2025?](https://dev.to/snappytuts/python-keyloggers-do-they-still-work-in-2025-120i)
+- [Daily React Learning -10](https://dev.to/utsabnepal55/daily-react-learning-10-n42)
+- [Ditching the Overhead: My Experience with Go, HTMX, Tailwind &amp; Alpine.js](https://dev.to/thesimdak/ditching-the-overhead-my-experience-with-go-htmx-tailwind-alpinejs-1gif)
+- [When Files Ask for a Password: A Developer&#39;s Solution](https://dev.to/tabuna/when-files-ask-for-a-password-a-developers-solution-396a)
+- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
+- [Linux awareness, Distrohopping, Ricing, and Growing up](https://dev.to/abanoubha/linux-awareness-distrohopping-ricing-and-growing-up-2ikl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
