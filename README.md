@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v318](https://dev.to/devteam/welcome-thread-v318-56i1)
-- [Debouncing &amp; throttling](https://dev.to/anjali_gurjar_dff81513867/debouncing-throttling-i90)
-- [🚀 Why is Redis So Fast?](https://dev.to/devcorner/why-is-redis-so-fast-431k)
-- [Understanding Memory Hierarchy: Why Redis Uses RAM, Not Disk](https://dev.to/devcorner/understanding-memory-hierarchy-why-redis-uses-ram-not-disk-41d2)
-- [Understanding the Event Loop in Node.js: A Step-by-Step Guide](https://dev.to/devcorner/understanding-the-event-loop-in-nodejs-a-step-by-step-guide-3l0i)
+- [Navigating PostgreSQL - The explain command and sequential scans](https://dev.to/aditya999123/navigating-postgresql-the-explain-command-and-sequential-scans-2466)
+- [How to Start a PAN Card Service Business as a Retailer](https://dev.to/vicky_vijaywargiya_4c7fbd/how-to-start-a-pan-card-service-business-as-a-retailer-28dk)
+- [Importance of performance testing in BFSI](https://dev.to/grjoeay/importance-of-performance-testing-in-bfsi-67)
+- [[Boost]](https://dev.to/foxinfotech/-48l5)
+- [Unveiling GNU All-Permissive License: A Deep Dive into the Freedom of Software](https://dev.to/bobcars/unveiling-gnu-all-permissive-license-a-deep-dive-into-the-freedom-of-software-2i0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
