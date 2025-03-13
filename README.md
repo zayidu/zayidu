@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 17 DevOps AI Tools [2025]](https://dev.to/aws-builders/top-17-devops-ai-tools-2025-4go5)
-- [Struggling with unrealistic deadlines, endless meetings, and poor project planning? Developers face these challenges daily! 🚀 Check out the 10 biggest project management mistakes that frustrate dev teams—and how Teamcamp helps solve them. Read now! #devop](https://dev.to/pratham_naik_project_manager/struggling-with-unrealistic-deadlines-endless-meetings-and-poor-project-planning-developers-face-pl9)
-- [10 Project Management Mistakes That Drive Developers Crazy](https://dev.to/pratham_naik_project_manager/10-project-management-mistakes-that-drive-developers-crazy-57pk)
-- [Navigating PostgreSQL - Index, Index Only and Bitmap Index Scans Explained](https://dev.to/aditya999123/navigating-postgresql-index-index-only-and-bitmap-index-scans-explained-4bml)
-- [Building an Automated Football Match Schedule Notification System with AWS](https://dev.to/tony_uketui_6cca68c7eba02/building-an-automated-football-match-schedule-notification-system-with-aws-55md)
+- [Future of Marketplace Intelligence: Key Trends &amp; Strategies](https://dev.to/priceintelguru/future-of-marketplace-intelligence-key-trends-strategies-2fil)
+- [Referral Marketing vs. Affiliate Marketing: How to Run a Successful Program](https://dev.to/krs8785/referral-marketing-vs-affiliate-marketing-what-it-is-why-it-matters-and-how-to-run-a-successful-5d75)
+- [My WeCoded Landing Page](https://dev.to/aniruddhadak/my-wecoded-landing-page-217)
+- [Go&#39;s Building Blocks: Syntax, Variables &amp; Types Demystified 🧩](https://dev.to/tavernetech/gos-building-blocks-syntax-variables-types-demystified-46hh)
+- [API Sandbox Explained: How It Works, Benefits &amp; Best Practices](https://dev.to/getambassador2024/api-sandbox-explained-how-it-works-benefits-best-practices-2266)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
