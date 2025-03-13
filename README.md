@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurolov Partners with Victus Global: Strategic Services to Supercharge $NLOV and Decentralized AI Growth](https://dev.to/neurolov_ai_/neurolov-partners-with-victus-global-strategic-services-to-supercharge-nlov-and-decentralized-ai-1jpm)
-- [Hybrid Chatbots and REST API: Custom Development vs. Available Solutions](https://dev.to/janwiesner/hybrid-chatbots-and-rest-api-custom-development-vs-available-solutions-58hc)
-- [80% of Software Engineers Fail to Become Senior Developers — And Here’s Why](https://dev.to/web_dev-usman/80-of-software-engineers-fail-to-become-senior-developers-and-heres-why-5di4)
-- [Почему язык программирования Java - это прекрасный выбор для начинающих разработчиков?](https://dev.to/sundaycoding/pochiemu-iazyk-proghrammirovaniia-java-eto-priekrasnyi-vybor-dlia-nachinaiushchikh-razrabotchikov-1gjo)
-- [Cheaper Alternatives to Postman for API Testing](https://dev.to/apilover/cheaper-alternatives-to-postman-for-api-testing-e89)
+- [[Boost]](https://dev.to/foxinfotech/-2j0o)
+- [Social link share | Portfolio website | Personal link share website](https://dev.to/mahmud-r-farhan/social-link-share-portfolio-website-personal-link-share-website-586j)
+- [🌐 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: 𝐂𝐥𝐮𝐬𝐭𝐞𝐫𝐈𝐏, 𝐍𝐨𝐝𝐞𝐏𝐨𝐫𝐭, 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 🚀](https://dev.to/anil_kumar_ff4f6ad3549983/--jea)
+- [Optimizing Code for Better Rankings in 2025](https://dev.to/andrewphilmorgan/optimizing-code-for-better-rankings-in-2025-1c4p)
+- [Request-Mocking-Protocol: A New Approach to Mocking Server-Side Requests in E2E Testing](https://dev.to/vitalets/request-mocking-protocol-a-new-approach-to-mocking-server-side-requests-in-e2e-testing-3p2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
