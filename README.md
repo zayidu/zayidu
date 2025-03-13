@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Is Here | Submission For Future Writing Challenge](https://dev.to/hanzla-baig/future-is-here-submission-for-future-writing-challenge-2l1m)
-- [Importance of Communication](https://dev.to/adegiamb/importance-of-communication-285b)
-- [Lynx: Giải pháp mới cho ứng dụng đa nền tảng - JS Engine](https://dev.to/anhtuank7c/lynx-giai-phap-moi-cho-ung-dung-da-nen-tang-js-engine-2fdo)
-- [Lynx: Giải pháp mới cho ứng dụng đa nền tảng - Giới thiệu](https://dev.to/anhtuank7c/lynx-giai-phap-moi-cho-ung-dung-da-nen-tang-1ppe)
-- [Why Ruby on Rails is the Best First Framework for New Developers](https://dev.to/reinteractive/why-ruby-on-rails-is-the-best-first-framework-for-new-developers-2o7h)
+- [😴 Go Code You Can Trust: Sleep Well After You Commit](https://dev.to/trungdlp/go-code-you-can-trust-sleep-well-after-you-commit-440n)
+- [Multipass Unlocked: Effortlessly Spin Up Ubuntu VMs in Seconds!](https://dev.to/robert_coffie/multipass-unlocked-effortlessly-spin-up-ubuntu-vms-in-seconds-46e5)
+- [This post is spot on! I believe its true that developers who use AI are moving ahead, while those still coding manually are falling behind. The best developers use AI to save time, learn quickly, and even make money.](https://dev.to/nitin_sharma_808db619a8a9/this-post-is-spot-on-i-believe-its-true-that-developers-who-use-ai-are-moving-ahead-while-1lcp)
+- [Well I never thought this](https://dev.to/djblackeye/well-i-never-thought-this-1ipa)
+- [Best AI prompt generators and AI Prompt Manager](https://dev.to/foxinfotech/best-ai-prompt-generators-and-ai-prompt-manager-1i1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
