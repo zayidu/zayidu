@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents with Fetch.ai: Tips for Smarter Automation ⚡](https://dev.to/ramkumar-m-n/ai-agents-with-fetchai-tips-for-smarter-automation-52nc)
-- [Isolated API Routing in ViteJS with `vite-plugin-api-routes`](https://dev.to/yracnet/isolated-api-routing-in-vitejs-with-vite-plugin-api-routes-480e)
-- [150/365 | ¥10M Job Challenge - Beliefs about life](https://dev.to/kameken100/150365-y10m-job-challenge-beliefs-about-life-a9c)
-- [Build a free ip info cache with PocketBase](https://dev.to/huakun/build-a-free-ip-info-cache-with-pocketbase-55nc)
-- [NestJS + Neo4j + GraphQL Setup](https://dev.to/huakun/nestjs-neo4j-graphql-setup-dd5)
+- [Top 17 DevOps AI Tools [2025]](https://dev.to/aws-builders/top-17-devops-ai-tools-2025-4go5)
+- [Struggling with unrealistic deadlines, endless meetings, and poor project planning? Developers face these challenges daily! 🚀 Check out the 10 biggest project management mistakes that frustrate dev teams—and how Teamcamp helps solve them. Read now! #devop](https://dev.to/pratham_naik_project_manager/struggling-with-unrealistic-deadlines-endless-meetings-and-poor-project-planning-developers-face-pl9)
+- [10 Project Management Mistakes That Drive Developers Crazy](https://dev.to/pratham_naik_project_manager/10-project-management-mistakes-that-drive-developers-crazy-57pk)
+- [Navigating PostgreSQL - Index, Index Only and Bitmap Index Scans Explained](https://dev.to/aditya999123/navigating-postgresql-index-index-only-and-bitmap-index-scans-explained-4bml)
+- [Building an Automated Football Match Schedule Notification System with AWS](https://dev.to/tony_uketui_6cca68c7eba02/building-an-automated-football-match-schedule-notification-system-with-aws-55md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
