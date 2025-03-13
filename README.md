@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack for Beginners: A Complete Guide &amp; Tutorial](https://dev.to/codeparrot/tanstack-for-beginners-a-complete-guide-tutorial-2ch3)
-- [The process of creating an effective Application Security Programme: Strategies, practices and tools for the best outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-11l7)
-- [🚀 Can Dogecoin Price Surge with Bitwise ETF Approval in 2025?](https://dev.to/sergi_web3/can-dogecoin-price-surge-with-bitwise-etf-approval-in-2025-4fek)
-- [Introducing highlight-plus: Supercharged Syntax Highlighting for React](https://dev.to/pranav-rustagi/introducing-highlight-plus-supercharged-syntax-highlighting-for-react-1gb6)
-- [🚀 $XRP Price Targets $3 as Fed Rate Pause Looks Likely! 💸](https://dev.to/sergi_web3/xrp-price-targets-3-as-fed-rate-pause-looks-likely-3986)
+- [Fix &#39;sh: next: command not found&#39; in Next.js – Quick &amp; Easy Solution!](https://dev.to/surjoyday_kt/fix-sh-next-command-not-found-in-nextjs-quick-easy-solution-2ilf)
+- [ECS CloudFormation Taking Forever - Just for a Failed Deployment](https://dev.to/aws-builders/ecs-cloudformation-taking-forever-just-for-a-failed-deployment-41k7)
+- [Mastering Error Handling in Rust: Beyond Result and Option](https://dev.to/leapcell/mastering-error-handling-in-rust-beyond-result-and-option-468f)
+- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 1&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-1-3d2n)
+- [CloudFormation policy compliance monitoring: leveraging CloudTrail and Athena](https://dev.to/andrii-shykhov/cloudformation-policy-compliance-monitoring-leveraging-cloudtrail-and-athena-5a5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
