@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used Python to Solve a Real-Life Problem. Here’s How](https://dev.to/resource_bunk_1077cab07da/i-used-python-to-solve-a-real-life-problem-heres-how-4a4b)
-- [Why Your Tech Stack is Overrated &lpar;And What Actually Matters&rpar;](https://dev.to/jason_nathan/why-your-tech-stack-is-overrated-and-what-actually-matters-4g56)
-- [WebAssembly - Your browser on steroids](https://dev.to/jacopo/webassembly-your-browser-on-steroids-207b)
-- [3356. Zero Array Transformation II](https://dev.to/mdarifulhaque/3356-zero-array-transformation-ii-14g)
-- [Daily React Learning -11](https://dev.to/utsabnepal55/daily-react-learning-11-42h9)
+- [Using the Keyboard with Stimulus](https://dev.to/railsdesigner/using-the-keyboard-with-stimulus-4p08)
+- [🧙‍♂️ Directivas en Angular: ¡Magia para tu HTML! 🪄](https://dev.to/cristian_arieta_7df932e5f/directivas-en-angular-magia-para-tu-html-1b52)
+- [Data Redaction and View Enhancements – Oracle 23ai&lpar;23.6&rpar;](https://dev.to/vahidusefzadeh/data-redaction-and-view-enhancements-oracle-23ai236-462a)
+- [5 Easy Methods to Implement Dark Mode in React Native](https://dev.to/buttercms/5-easy-methods-to-implement-dark-mode-in-react-native-3n08)
+- [My Journey at IWS &lpar;Innovate With SEED&rpar; as a Backend Engineer and The Concept of JWT and Its Importance in Authentication](https://dev.to/mfonfu_wesley_a593b0e3997/my-journey-at-iws-innovate-with-seed-as-a-backend-engineer-and-the-concept-of-jwt-and-its-3nh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
