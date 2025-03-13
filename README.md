@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Engine: How AI Coding Assistants Work and What Every Developer Must Know Before Using Them](https://dev.to/naveens16/inside-the-engine-how-ai-coding-assistants-work-and-what-every-developer-must-know-before-using-4d7)
-- [GraphQL vs. REST APIs: What’s the difference between them](https://dev.to/logrocket/graphql-vs-rest-apis-whats-the-difference-between-them-3005)
-- [Django admin tricks I commonly use](https://dev.to/exler/django-admin-tricks-i-commonly-use-2imp)
-- [My Journey in Tech as a Nigerian Woman](https://dev.to/paulthedev/my-journey-in-tech-as-a-nigerian-woman-163e)
-- [Why Custom Software Development Is Essential for Effective SEO](https://dev.to/aditya-saasy/why-custom-software-development-is-essential-for-effective-seo-3f0d)
+- [Optimizing Business Connectivity: API Marketplaces and Integration with eZintegrations™](https://dev.to/bizdataadmin/optimizing-business-connectivity-api-marketplaces-and-integration-with-ezintegrations-5e7n)
+- [How to allowlist Salesforce extension for Gemini in Google Workspace](https://dev.to/googleworkspace/how-to-allowlist-salesforce-extension-for-gemini-in-google-workspace-2icg)
+- [🚀 Mastering WebRTC: Turning Challenges into a Learning Journey!](https://dev.to/joodi/mastering-webrtc-turning-challenges-into-a-learning-journey-2i82)
+- [Streamlining Environment Variables with direnv: A Developer&#39;s Guide](https://dev.to/radzion/streamlining-environment-variables-with-direnv-a-developers-guide-en7)
+- [151/365 | ¥10M Job Challenge - AI prediction?](https://dev.to/kameken100/151365-y10m-job-challenge-ai-prediction-jdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
