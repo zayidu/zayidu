@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Latest Animation Tools for Designers and Devs: Smooth Handoff Included](https://dev.to/muyheeza/10-latest-animation-tools-for-designers-and-devs-smooth-handoff-included-5h0k)
-- [A detailed comparison of Amazon Web Services cost models for compute storage and data transfer](https://dev.to/marufhossain/a-detailed-comparison-of-amazon-web-services-cost-models-for-compute-storage-and-data-transfer-3l4e)
-- [Mieux tester en optimisant la génération de données de test : Panorama des patterns](https://dev.to/singebob/mieux-tester-en-optimisant-la-generation-de-donnees-de-test-panorama-des-patterns-1cde)
-- [Overcoming Four Hours of Terraform Troubleshooting: Automating Nginx Deployment on AWS](https://dev.to/jamiu_cloud/overcoming-four-hours-of-terraform-troubleshooting-automating-nginx-deployment-on-aws-5205)
-- [AI-Powered Resume &amp; Portfolio Builder](https://dev.to/adonaitechnologies/ai-powered-resume-portfolio-builder-315c)
+- [I Used Python to Solve a Real-Life Problem. Here’s How](https://dev.to/resource_bunk_1077cab07da/i-used-python-to-solve-a-real-life-problem-heres-how-4a4b)
+- [Why Your Tech Stack is Overrated &lpar;And What Actually Matters&rpar;](https://dev.to/jason_nathan/why-your-tech-stack-is-overrated-and-what-actually-matters-4g56)
+- [WebAssembly - Your browser on steroids](https://dev.to/jacopo/webassembly-your-browser-on-steroids-207b)
+- [3356. Zero Array Transformation II](https://dev.to/mdarifulhaque/3356-zero-array-transformation-ii-14g)
+- [Daily React Learning -11](https://dev.to/utsabnepal55/daily-react-learning-11-42h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
