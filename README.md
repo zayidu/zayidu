@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
-- [Introduction](https://dev.to/jennythomas498/introduction-4pnd)
-- [Mapping History with Code: Digitizing the Île de la Cité](https://dev.to/marc_pissot_752975d2f3988/mapping-history-with-code-digitizing-the-ile-de-la-cite-57ae)
-- [🧟‍♂️ The Zombie Server That Wouldn’t Die 💀](https://dev.to/francotel/the-zombie-server-that-wouldnt-die-45di)
-- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-1d02)
+- [Integrating VR and AI for Immersive Digital Twins](https://dev.to/kartikmehta8/integrating-vr-and-ai-for-immersive-digital-twins-d3o)
+- [Unveiling the Legacy of the BSD 4-Clause License](https://dev.to/kallileiser/unveiling-the-legacy-of-the-bsd-4-clause-license-m2i)
+- [Introducing DoCoreAI: Unlock AI’s Potential in Dynamic Prompt Tuning](https://dev.to/sajijohn/introducing-docoreai-unlock-ais-potential-in-dynamic-prompt-tuning-39i3)
+- [Essential Linux Commands List: Usage, Examples &amp; Explanations](https://dev.to/tene/essential-linux-commands-list-usage-examples-explanations-17i4)
+- [Building AI Agents: Semantic Integration of Structured and Unstructured Data using OpenAI Agent SDK](https://dev.to/imaginex/building-ai-agents-semantic-integration-of-structured-and-unstructured-data-using-openai-agent-sdk-5641)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
