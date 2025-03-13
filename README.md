@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Wallets 2.0: A More Powerful, Flexible Web3 Experience](https://dev.to/deseniska/embedded-wallets-20-a-more-powerful-flexible-web3-experience-1gec)
-- [Building a Simple Terminal-Based File Manager in Bash](https://dev.to/beta_shorts_7f1150259405a/building-a-simple-terminal-based-file-manager-in-bash-1e4n)
-- [Unveiling the Modified BSD License: A Deep Dive into Permissive Open Source Licensing](https://dev.to/jennythomas498/unveiling-the-modified-bsd-license-a-deep-dive-into-permissive-open-source-licensing-2pf)
-- [Exploring Passive Income with Crypto Staking and Lending: A Growing Trend](https://dev.to/andrewdeveloper/exploring-passive-income-with-crypto-staking-and-lending-a-growing-trend-21gl)
-- [Selenium Commands List: The Ultimate Reference Guide](https://dev.to/shubham-theqa/selenium-commands-list-the-ultimate-reference-guide-5fn0)
+- [Inside the Engine: How AI Coding Assistants Work and What Every Developer Must Know Before Using Them](https://dev.to/naveens16/inside-the-engine-how-ai-coding-assistants-work-and-what-every-developer-must-know-before-using-4d7)
+- [GraphQL vs. REST APIs: What’s the difference between them](https://dev.to/logrocket/graphql-vs-rest-apis-whats-the-difference-between-them-3005)
+- [Django admin tricks I commonly use](https://dev.to/exler/django-admin-tricks-i-commonly-use-2imp)
+- [My Journey in Tech as a Nigerian Woman](https://dev.to/paulthedev/my-journey-in-tech-as-a-nigerian-woman-163e)
+- [Why Custom Software Development Is Essential for Effective SEO](https://dev.to/aditya-saasy/why-custom-software-development-is-essential-for-effective-seo-3f0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
