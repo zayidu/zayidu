@@ -20,6 +20,19 @@ When I'm not deep in coding or optimizing workflows, you’ll find me exploring 
 
 Thanks for stopping by—have an amazing day! ✨
 
+<a href="https://www.sap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SAP-Blue?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Badge">
+</a>
+
+<a href="https://www.sap.com/products/business-technology-platform.html" target="_blank">
+    <img src="https://img.shields.io/badge/SAP%20BTP-430098?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP Badge">
+</a>
+
+<a href="https://help.sap.com/docs/SAP_ABAP_PLATFORM/abap-core-data-services-cds" target="_blank">
+    <img src="https://img.shields.io/badge/CDS%20(Core%20Data%20Services)-green?style=for-the-badge&logo=sap&logoColor=white" alt="CDS Badge">
+</a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" ></a> 
+
 <h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2>
 
  <details open>
@@ -54,6 +67,17 @@ Thanks for stopping by—have an amazing day! ✨
 <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
+<a href="https://www.sap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SAP-Blue?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Badge">
+</a>
+
+<a href="https://www.sap.com/products/business-technology-platform.html" target="_blank">
+    <img src="https://img.shields.io/badge/SAP%20BTP-430098?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP Badge">
+</a>
+
+<a href="https://help.sap.com/docs/SAP_ABAP_PLATFORM/abap-core-data-services-cds" target="_blank">
+    <img src="https://img.shields.io/badge/CDS%20(Core%20Data%20Services)-green?style=for-the-badge&logo=sap&logoColor=white" alt="CDS Badge">
+</a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" ></a>   <a href="https://www.sap.com/index.html" target="_blank"><img src="https://img.shields.io/badge/SAP%20-fff.svg?&style=for-the-badge&logo=sap&logoColor=%fff" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" ></a>   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" ></a>   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>   <a href="https://code.visualstudio.com/" target="_blank"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue" ></a>
 
 
