@@ -12,9 +12,11 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I pride myself in being a resourceful Full-Stack Developer 👨🏻‍💻 MERN | MEVN | SAP Certified® | Fiori, experienced in leading and inspiring SAP teams.
+Turning business challenges into smart, scalable SAP solutions with BTP, Fiori & React. SAP Certified® | Innovator | Passion for Code.
 
-When I'm not coding/running my IDEs, you can catch me exploring the world, doing CrossFit 🏋🏼🚴, or trying to catch up on my never-ending reading list📚. Thanks for coming here. Nice day to you!✨
+When I'm not deep in coding or optimizing workflows, you’ll find me exploring the world, pushing limits in CrossFit 🏋🏼🚴, or lost in a book 📚.
+
+Thanks for stopping by—have an amazing day! ✨
 
 <h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2>
 
