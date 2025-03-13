@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Maven&#39;s dependency:analyze... or not](https://dev.to/nfrankel/improving-mavens-dependencyanalyze-or-not-2k16)
-- [Supercharge Your Performance Testing with Guardius and Apache JMeter](https://dev.to/guardius/supercharge-your-performance-testing-with-guardius-and-apache-jmeter-32dm)
-- [How AI is Modernizing Legacy EHR Systems for Healthcare](https://dev.to/priyansh_shah_786ec03624e/how-ai-is-modernizing-legacy-ehr-systems-for-healthcare-4keg)
-- [Unveiling the Libpng License: A Deep Dive into Open Source Fairness](https://dev.to/rachellovestowrite/unveiling-the-libpng-license-a-deep-dive-into-open-source-fairness-3kl7)
-- [Minimal APIs and Middleware in ASP.NET Core](https://dev.to/stevsharp/minimal-apis-and-middleware-in-aspnet-core-c18)
+- [Neurolov Partners with Victus Global: Strategic Services to Supercharge $NLOV and Decentralized AI Growth](https://dev.to/neurolov_ai_/neurolov-partners-with-victus-global-strategic-services-to-supercharge-nlov-and-decentralized-ai-1jpm)
+- [Hybrid Chatbots and REST API: Custom Development vs. Available Solutions](https://dev.to/janwiesner/hybrid-chatbots-and-rest-api-custom-development-vs-available-solutions-58hc)
+- [80% of Software Engineers Fail to Become Senior Developers — And Here’s Why](https://dev.to/web_dev-usman/80-of-software-engineers-fail-to-become-senior-developers-and-heres-why-5di4)
+- [Почему язык программирования Java - это прекрасный выбор для начинающих разработчиков?](https://dev.to/sundaycoding/pochiemu-iazyk-proghrammirovaniia-java-eto-priekrasnyi-vybor-dlia-nachinaiushchikh-razrabotchikov-1gjo)
+- [Cheaper Alternatives to Postman for API Testing](https://dev.to/apilover/cheaper-alternatives-to-postman-for-api-testing-e89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
