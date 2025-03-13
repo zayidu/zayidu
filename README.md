@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the CAP Theorem: Choosing Your Battles in Distributed Systems](https://dev.to/lovestaco/understanding-the-cap-theorem-choosing-your-battles-in-distributed-systems-26cl)
-- [AI Integration into Legacy Systems: Challenges and Solutions](https://dev.to/alona_instandart/ai-integration-into-legacy-systems-challenges-and-solutions-fdj)
-- [[Boost]](https://dev.to/cicirello/-3e32)
-- [Creating a Reusable Component Library with Next.js &amp; Tailwind CSS 🚀](https://dev.to/moibra/creating-a-reusable-component-library-with-nextjs-tailwind-css-43ea)
-- [On Product Hunt](https://dev.to/bucketdotco/on-product-hunt-2gbe)
+- [Embedded Wallets 2.0: A More Powerful, Flexible Web3 Experience](https://dev.to/deseniska/embedded-wallets-20-a-more-powerful-flexible-web3-experience-1gec)
+- [Building a Simple Terminal-Based File Manager in Bash](https://dev.to/beta_shorts_7f1150259405a/building-a-simple-terminal-based-file-manager-in-bash-1e4n)
+- [Unveiling the Modified BSD License: A Deep Dive into Permissive Open Source Licensing](https://dev.to/jennythomas498/unveiling-the-modified-bsd-license-a-deep-dive-into-permissive-open-source-licensing-2pf)
+- [Exploring Passive Income with Crypto Staking and Lending: A Growing Trend](https://dev.to/andrewdeveloper/exploring-passive-income-with-crypto-staking-and-lending-a-growing-trend-21gl)
+- [Selenium Commands List: The Ultimate Reference Guide](https://dev.to/shubham-theqa/selenium-commands-list-the-ultimate-reference-guide-5fn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
