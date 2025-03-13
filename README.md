@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testes Unitários com Corrotinas no Kotlin: Ferramentas e Boas Práticas](https://dev.to/comunidadedevspace/testes-unitarios-com-corrotinas-no-kotlin-ferramentas-e-boas-praticas-4100)
-- [Что такое JavaScript-библиотека jQuery, почему её все ненавидят, и почему она так популярна среди начинающих программистов?](https://dev.to/sundaycoding/chto-takoie-javascript-bibliotieka-jquery-pochiemu-ieio-vsie-nienavidiat-i-pochiemu-ona-tak-populiarna-sriedi-59od)
-- [Getting Started with SQL DISTINCT](https://dev.to/dbvismarketing/getting-started-with-sql-distinct-3799)
-- [My First Blockchain Code with Rust!](https://dev.to/tomomomomomomomo/my-first-blockchain-code-with-rust-2e9e)
-- [How to Fix CORS Error in Vue.js](https://dev.to/reynaldi/how-to-fix-cors-error-in-vuejs-29k4)
+- [Improving Maven&#39;s dependency:analyze... or not](https://dev.to/nfrankel/improving-mavens-dependencyanalyze-or-not-2k16)
+- [Supercharge Your Performance Testing with Guardius and Apache JMeter](https://dev.to/guardius/supercharge-your-performance-testing-with-guardius-and-apache-jmeter-32dm)
+- [How AI is Modernizing Legacy EHR Systems for Healthcare](https://dev.to/priyansh_shah_786ec03624e/how-ai-is-modernizing-legacy-ehr-systems-for-healthcare-4keg)
+- [Unveiling the Libpng License: A Deep Dive into Open Source Fairness](https://dev.to/rachellovestowrite/unveiling-the-libpng-license-a-deep-dive-into-open-source-fairness-3kl7)
+- [Minimal APIs and Middleware in ASP.NET Core](https://dev.to/stevsharp/minimal-apis-and-middleware-in-aspnet-core-c18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
