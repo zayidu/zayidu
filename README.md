@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mike-vincent/-4afm)
-- [Meet HonoJS: The Future of JavaScript Web Frameworks!](https://dev.to/leapcell/meet-honojs-the-future-of-javascript-web-frameworks-5h1g)
-- [Mastering Java Garbage Collection: A Deep Dive into Memory Management](https://dev.to/odufowokan_ayotomiwa_e435/mastering-java-garbage-collection-a-deep-dive-into-memory-management-jcn)
-- [React Js](https://dev.to/kaviya_1929/react-js-3jf6)
-- [Java&#39;s Garbage Collection: What Happens When Your Objects Die?](https://dev.to/odufowokan_ayotomiwa_e435/javas-garbage-collection-what-happens-when-your-objects-die-3i3k)
+- [10 Latest Animation Tools for Designers and Devs: Smooth Handoff Included](https://dev.to/muyheeza/10-latest-animation-tools-for-designers-and-devs-smooth-handoff-included-5h0k)
+- [A detailed comparison of Amazon Web Services cost models for compute storage and data transfer](https://dev.to/marufhossain/a-detailed-comparison-of-amazon-web-services-cost-models-for-compute-storage-and-data-transfer-3l4e)
+- [Mieux tester en optimisant la génération de données de test : Panorama des patterns](https://dev.to/singebob/mieux-tester-en-optimisant-la-generation-de-donnees-de-test-panorama-des-patterns-1cde)
+- [Overcoming Four Hours of Terraform Troubleshooting: Automating Nginx Deployment on AWS](https://dev.to/jamiu_cloud/overcoming-four-hours-of-terraform-troubleshooting-automating-nginx-deployment-on-aws-5205)
+- [AI-Powered Resume &amp; Portfolio Builder](https://dev.to/adonaitechnologies/ai-powered-resume-portfolio-builder-315c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
