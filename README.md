@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/foxinfotech/-2j0o)
-- [Social link share | Portfolio website | Personal link share website](https://dev.to/mahmud-r-farhan/social-link-share-portfolio-website-personal-link-share-website-586j)
-- [🌐 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: 𝐂𝐥𝐮𝐬𝐭𝐞𝐫𝐈𝐏, 𝐍𝐨𝐝𝐞𝐏𝐨𝐫𝐭, 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 🚀](https://dev.to/anil_kumar_ff4f6ad3549983/--jea)
-- [Optimizing Code for Better Rankings in 2025](https://dev.to/andrewphilmorgan/optimizing-code-for-better-rankings-in-2025-1c4p)
-- [Request-Mocking-Protocol: A New Approach to Mocking Server-Side Requests in E2E Testing](https://dev.to/vitalets/request-mocking-protocol-a-new-approach-to-mocking-server-side-requests-in-e2e-testing-3p2i)
+- [Understanding the CAP Theorem: Choosing Your Battles in Distributed Systems](https://dev.to/lovestaco/understanding-the-cap-theorem-choosing-your-battles-in-distributed-systems-26cl)
+- [AI Integration into Legacy Systems: Challenges and Solutions](https://dev.to/alona_instandart/ai-integration-into-legacy-systems-challenges-and-solutions-fdj)
+- [[Boost]](https://dev.to/cicirello/-3e32)
+- [Creating a Reusable Component Library with Next.js &amp; Tailwind CSS 🚀](https://dev.to/moibra/creating-a-reusable-component-library-with-nextjs-tailwind-css-43ea)
+- [On Product Hunt](https://dev.to/bucketdotco/on-product-hunt-2gbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
