@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Business Connectivity: API Marketplaces and Integration with eZintegrations™](https://dev.to/bizdataadmin/optimizing-business-connectivity-api-marketplaces-and-integration-with-ezintegrations-5e7n)
-- [How to allowlist Salesforce extension for Gemini in Google Workspace](https://dev.to/googleworkspace/how-to-allowlist-salesforce-extension-for-gemini-in-google-workspace-2icg)
-- [🚀 Mastering WebRTC: Turning Challenges into a Learning Journey!](https://dev.to/joodi/mastering-webrtc-turning-challenges-into-a-learning-journey-2i82)
-- [Streamlining Environment Variables with direnv: A Developer&#39;s Guide](https://dev.to/radzion/streamlining-environment-variables-with-direnv-a-developers-guide-en7)
-- [151/365 | ¥10M Job Challenge - AI prediction?](https://dev.to/kameken100/151365-y10m-job-challenge-ai-prediction-jdj)
+- [[Boost]](https://dev.to/mike-vincent/-4afm)
+- [Meet HonoJS: The Future of JavaScript Web Frameworks!](https://dev.to/leapcell/meet-honojs-the-future-of-javascript-web-frameworks-5h1g)
+- [Mastering Java Garbage Collection: A Deep Dive into Memory Management](https://dev.to/odufowokan_ayotomiwa_e435/mastering-java-garbage-collection-a-deep-dive-into-memory-management-jcn)
+- [React Js](https://dev.to/kaviya_1929/react-js-3jf6)
+- [Java&#39;s Garbage Collection: What Happens When Your Objects Die?](https://dev.to/odufowokan_ayotomiwa_e435/javas-garbage-collection-what-happens-when-your-objects-die-3i3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
