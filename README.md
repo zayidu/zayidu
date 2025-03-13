@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Concepts in Databases: Tables, Rows, Columns, and Keys](https://dev.to/be11amer/key-concepts-in-databases-tables-rows-columns-and-keys-16c0)
-- [Next.js vs Nest.js: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-nestjs-what-to-choose-in-2025-4m9k)
-- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps smaller and more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-smaller-and-more-secure-2p1p)
-- [Unveiling the FreeType License – A Deep Dive Into Fairness and Innovation](https://dev.to/vitalisorenko/unveiling-the-freetype-license-a-deep-dive-into-fairness-and-innovation-c58)
-- [The Role of Propositional Logic in AI-Powered Chatbots &amp; Virtual Assistants](https://dev.to/bikashdaga/the-role-of-propositional-logic-in-ai-powered-chatbots-virtual-assistants-5403)
+- [Testes Unitários com Corrotinas no Kotlin: Ferramentas e Boas Práticas](https://dev.to/comunidadedevspace/testes-unitarios-com-corrotinas-no-kotlin-ferramentas-e-boas-praticas-4100)
+- [Что такое JavaScript-библиотека jQuery, почему её все ненавидят, и почему она так популярна среди начинающих программистов?](https://dev.to/sundaycoding/chto-takoie-javascript-bibliotieka-jquery-pochiemu-ieio-vsie-nienavidiat-i-pochiemu-ona-tak-populiarna-sriedi-59od)
+- [Getting Started with SQL DISTINCT](https://dev.to/dbvismarketing/getting-started-with-sql-distinct-3799)
+- [My First Blockchain Code with Rust!](https://dev.to/tomomomomomomomo/my-first-blockchain-code-with-rust-2e9e)
+- [How to Fix CORS Error in Vue.js](https://dev.to/reynaldi/how-to-fix-cors-error-in-vuejs-29k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
