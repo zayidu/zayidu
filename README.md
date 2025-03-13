@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating VR and AI for Immersive Digital Twins](https://dev.to/kartikmehta8/integrating-vr-and-ai-for-immersive-digital-twins-d3o)
-- [Unveiling the Legacy of the BSD 4-Clause License](https://dev.to/kallileiser/unveiling-the-legacy-of-the-bsd-4-clause-license-m2i)
-- [Introducing DoCoreAI: Unlock AI’s Potential in Dynamic Prompt Tuning](https://dev.to/sajijohn/introducing-docoreai-unlock-ais-potential-in-dynamic-prompt-tuning-39i3)
-- [Essential Linux Commands List: Usage, Examples &amp; Explanations](https://dev.to/tene/essential-linux-commands-list-usage-examples-explanations-17i4)
-- [Building AI Agents: Semantic Integration of Structured and Unstructured Data using OpenAI Agent SDK](https://dev.to/imaginex/building-ai-agents-semantic-integration-of-structured-and-unstructured-data-using-openai-agent-sdk-5641)
+- [Future Is Here | Submission For Future Writing Challenge](https://dev.to/hanzla-baig/future-is-here-submission-for-future-writing-challenge-2l1m)
+- [Importance of Communication](https://dev.to/adegiamb/importance-of-communication-285b)
+- [Lynx: Giải pháp mới cho ứng dụng đa nền tảng - JS Engine](https://dev.to/anhtuank7c/lynx-giai-phap-moi-cho-ung-dung-da-nen-tang-js-engine-2fdo)
+- [Lynx: Giải pháp mới cho ứng dụng đa nền tảng - Giới thiệu](https://dev.to/anhtuank7c/lynx-giai-phap-moi-cho-ung-dung-da-nen-tang-1ppe)
+- [Why Ruby on Rails is the Best First Framework for New Developers](https://dev.to/reinteractive/why-ruby-on-rails-is-the-best-first-framework-for-new-developers-2o7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
