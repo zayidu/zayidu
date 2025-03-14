@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is SQL? A Simple Introduction to Structured Query Language](https://dev.to/be11amer/what-is-sql-a-simple-introduction-to-structured-query-language-4nep)
-- [Next.js vs Express: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-express-what-to-choose-in-2025-4kgd)
-- [Build RAG Chatbot 🤖 with LangChain, Milvus, Mistral AI Pixtral, and NVIDIA bge-m3](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-mistral-ai-pixtral-and-nvidia-bge-m3-30om)
-- [Unveiling Open Hardware License: A Deep Dive into Transparency and Collaboration](https://dev.to/vitalisorenko/unveiling-open-hardware-license-a-deep-dive-into-transparency-and-collaboration-5ag6)
-- [Unveiling Open Data Commons Public Domain Dedication and License: A Deep Dive](https://dev.to/rachellovestowrite/unveiling-open-data-commons-public-domain-dedication-and-license-a-deep-dive-1d12)
+- [Automating Code Reviews with AI: A Game Changer for Dev Teams](https://dev.to/devresurrect_f18e7d7b7bc6/automating-code-reviews-with-ai-a-game-changer-for-dev-teams-2li7)
+- [Overcoming Challenges in Selenium Scraping with Proxies](https://dev.to/swiftproxy_residential/overcoming-challenges-in-selenium-scraping-with-proxies-h6j)
+- [How to Enable Dynamic Lighting on Windows 11?](https://dev.to/winsides/how-to-enable-dynamic-lighting-on-windows-11-5c3b)
+- [What is bash? How to use it ?](https://dev.to/lisw05/what-is-bash-how-to-use-it--3lm9)
+- [The World’s First Sanrio Figurine with Chip ID Launches](https://dev.to/kaohsiungcomputerassociation/the-worlds-first-sanrio-figurine-with-chip-id-launches-2bjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
