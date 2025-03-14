@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Focus on Systems, Not Just Goals, in Your Software Career](https://dev.to/jps27cse/why-you-should-focus-on-systems-not-just-goals-in-your-software-career-1j8)
-- [Navigating PostgreSQL - Join Strategies](https://dev.to/aditya999123/navigating-postgresql-join-strategies-1602)
-- [RandAugment in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-2-5g9b)
-- [RandAugment in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-1-4mf)
-- [Designing a successful Application Security Program: Strategies, Methods and Tools for the Best Results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-methods-and-tools-for-the-best-5799)
+- [Additional Notes on Responses API and Agents SDK](https://dev.to/seratch/additional-notes-on-responses-api-and-agents-sdk-5bfk)
+- [A Java Learning Roadmap: From Basics to Spring Boot for Beginners](https://dev.to/dimagi_sihilel_0d6234fd02/a-java-learning-roadmap-from-basics-to-spring-boot-for-beginners-3nnk)
+- [Creating Custom SCSS Breakpoints for Responsive Design](https://dev.to/joydippaul/creating-custom-scss-breakpoints-for-responsive-design-4njd)
+- [Pergola Grey or Gazebo Grey? Choosing the Right Structure for Your Yard](https://dev.to/tuff_digitalmarketing_e7/pergola-grey-or-gazebo-grey-choosing-the-right-structure-for-your-yard-ib0)
+- [MintID Holders Alert: Big Update on Staking Rules!](https://dev.to/mint_/mintid-holders-alert-big-update-on-staking-rules-1eeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
