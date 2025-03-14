@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Cooperation: Teaming Up with Different Creators](https://dev.to/womansalmon96/the-power-of-cooperation-teaming-up-with-different-creators-4im3)
+- [Making API requests from your spreadsheets](https://dev.to/quadraticai/making-api-requests-from-your-spreadsheets-1m3e)
+- [Git e seu funcionamento interno](https://dev.to/lucasr-luz/git-e-seu-funcionamento-interno-4ale)
+- [&quot;Buggy&quot; bfcache Behavior](https://dev.to/besworks/buggy-bfcache-behavior-1a6e)
 - [Turning testing frameworks &quot;post-it notes&quot; into a Testing Arsenal](https://dev.to/inanoniloquent/turning-testing-frameworks-post-it-notes-into-a-testing-arsenal-4m0b)
-- [Understanding CAG &lpar;Cache Augmented Generation&rpar;: AI&#39;s Conversation Memory With APIpie.ai](https://dev.to/apipie-ai/understanding-cag-cache-augmented-generation-ais-conversation-memory-26gp)
-- [Rust Smart Pointers Explained: Ownership, Memory, and Safety](https://dev.to/leapcell/rust-smart-pointers-explained-ownership-memory-and-safety-1ek3)
-- [How Do Microcontrollers Run Python?](https://dev.to/coursedia/how-do-microcontrollers-run-python-42dc)
-- [Setting Up an Automated Java Build and Deployment Pipeline with AWS CodeArtifact](https://dev.to/richard_atodo/setting-up-an-automated-java-build-and-deployment-pipeline-with-aws-codeartifact-2kko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
