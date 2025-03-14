@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Введение в пакетную обработку и Spark](https://dev.to/pro100v/vviedieniie-v-pakietnuiu-obrabotku-i-spark-14ah)
-- [Complex Event Processing: Revolutionizing Real-Time Data Analysis](https://dev.to/kapusto/complex-event-processing-revolutionizing-real-time-data-analysis-kne)
-- [How AI is Revolutionizing Coding: Enhancing Efficiency and Quality](https://dev.to/itsscottjames/how-ai-is-revolutionizing-coding-enhancing-efficiency-and-quality-12bn)
-- [What’s in My Bag: The Essentials for a Productive Day at the Office [2025]](https://dev.to/this-is-learning/whats-in-my-bag-the-essentials-for-a-productive-day-at-the-office-2025-e2o)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-19o)
+- [Happy Pi Day! I made a Pi-ano😆](https://dev.to/best_codes/happy-pi-day-i-made-a-pi-ano-14cj)
+- [How to Create Themes &lpar;light/dark&rpar; with Styled-components](https://dev.to/gunnarhalen/how-to-create-themes-lightdark-with-styled-components-4d3f)
+- [Multi-Highlighting in PDF.js](https://dev.to/gabrielweidmann/multi-highlighting-in-pdfjs-403l)
+- [Spring Boot: JPA Many-to-Many Mapping](https://dev.to/sovannaro/spring-boot-jpa-many-to-many-mapping-26nf)
+- [Deep-links to almost every Safari setting on iOS](https://dev.to/no_op_co/deep-links-to-almost-every-safari-setting-on-ios-b1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
