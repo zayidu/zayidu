@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WANE_ECODEDigital](https://dev.to/siley_wane_99285a2e0ebcb2/waneecodedigital-4bal)
-- [Course design cards #scss](https://dev.to/rumman157/course-design-cards-scss-2p2n)
-- [🖥️ Understanding Linux Process Management 🚀](https://dev.to/satyam-ahirrao/understanding-linux-process-management-3bbp)
-- [Developing Hyper-Personalized AI Assistants](https://dev.to/kartikmehta8/developing-hyper-personalized-ai-assistants-81e)
-- [Java for beginners](https://dev.to/pratiks-desk/java-for-beginners-1289)
+- [Build a BMI Calculator Using JavaScript – Try It Now!](https://dev.to/babynamenestlings_efe5ba9/build-a-bmi-calculator-using-javascript-try-it-now-4hk7)
+- [[ Solution Library AWS ] Live Chat Content AI on AWS](https://dev.to/aws-builders/-solution-library-aws-live-chat-content-ai-on-aws-5gih)
+- [What to Say to an AI Chatbot? Starters and Prompts for Fun](https://dev.to/jajaji/what-to-say-to-an-ai-chatbot-starters-and-prompts-for-fun-17f6)
+- [🍺 Drinking Culture and How I Survive?](https://dev.to/mrzaizai2k/drinking-culture-and-how-i-survive-2c6k)
+- [Bouncing Back: My Journey Through My First Tech Layoff](https://dev.to/clarizalooktech/bouncing-back-my-journey-through-my-first-tech-layoff-5187)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
