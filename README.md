@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d7f)
-- [Stop Wasting Time Writing Code for APIs](https://dev.to/lonti-davidb/stop-wasting-time-writing-code-for-apis-2hlf)
-- [Understanding Asynchronous Programming in JavaScript](https://dev.to/million_formula_3be3d915d/understanding-asynchronous-programming-in-javascript-bk9)
-- [Manage Netscaler in go](https://dev.to/hemantb26/manage-netscaler-in-go-jo3)
-- [The Why and How of Spicy AI Chat](https://dev.to/rizzoc/the-why-and-how-of-spicy-ai-chat-a4m)
+- [Why You Should Focus on Systems, Not Just Goals, in Your Software Career](https://dev.to/jps27cse/why-you-should-focus-on-systems-not-just-goals-in-your-software-career-1j8)
+- [Navigating PostgreSQL - Join Strategies](https://dev.to/aditya999123/navigating-postgresql-join-strategies-1602)
+- [RandAugment in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-2-5g9b)
+- [RandAugment in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-1-4mf)
+- [Designing a successful Application Security Program: Strategies, Methods and Tools for the Best Results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-methods-and-tools-for-the-best-5799)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
