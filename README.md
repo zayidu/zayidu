@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build React App with KendoReact Components](https://dev.to/code_2/build-react-app-with-kendoreact-components-14lk)
-- [10 Open-source Tools to build AI Agents](https://dev.to/potpie/10-open-source-tools-to-build-ai-agents-45h6)
-- [30+ Must-See GitHub Projects of This Week!](https://dev.to/gittech/30-must-see-github-projects-of-this-week-14ii)
-- [Untitled](https://dev.to/nafito2025/untitled-c2g)
-- [Learning GO: A new beginning](https://dev.to/link2twenty/learning-go-a-new-beginning-2c15)
+- [Turning testing frameworks &quot;post-it notes&quot; into a Testing Arsenal](https://dev.to/inanoniloquent/turning-testing-frameworks-post-it-notes-into-a-testing-arsenal-4m0b)
+- [Understanding CAG &lpar;Cache Augmented Generation&rpar;: AI&#39;s Conversation Memory With APIpie.ai](https://dev.to/apipie-ai/understanding-cag-cache-augmented-generation-ais-conversation-memory-26gp)
+- [Rust Smart Pointers Explained: Ownership, Memory, and Safety](https://dev.to/leapcell/rust-smart-pointers-explained-ownership-memory-and-safety-1ek3)
+- [How Do Microcontrollers Run Python?](https://dev.to/coursedia/how-do-microcontrollers-run-python-42dc)
+- [Setting Up an Automated Java Build and Deployment Pipeline with AWS CodeArtifact](https://dev.to/richard_atodo/setting-up-an-automated-java-build-and-deployment-pipeline-with-aws-codeartifact-2kko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
