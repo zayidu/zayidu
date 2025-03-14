@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns in Swift: Singleton](https://dev.to/raphacmartin/design-patterns-in-swift-singleton-54p5)
-- [Is Your Java Leaking? GC to the Rescue!](https://dev.to/st-obi/is-your-java-leaking-gc-to-the-rescue-i5p)
-- [Exploring Laravel Collections: A Simple Guide](https://dev.to/aleson-franca/exploring-laravel-collections-a-simple-guide-4lbd)
-- [12 Best Communities and Forums for Developers to Join 🤝](https://dev.to/sergiolar/12-best-communities-and-forums-for-developers-to-join-5ga1)
-- [Mistral Basic AI Agent Using NextJS with TypeScript](https://dev.to/arfatapp/mistral-basic-ai-agent-using-nextjs-with-typescript-2315)
+- [Efficient File Uploads in CampusX with Multer](https://dev.to/prathvihan108/efficient-file-uploads-in-campusx-with-multer-4p90)
+- [How To Fetch &lpar;Get&rpar; HTML From Server 🛤️](https://dev.to/hmpljs/how-to-fetch-get-html-from-server-4mdg)
+- [When AI isn&#39;t there, but it feels as though it is.](https://dev.to/deven_trafny_39709b220b1d/when-ai-isnt-there-but-it-feels-as-though-it-is-143i)
+- [How AI Makes Our Leisure Smarter: From Travel Planning to Playlist Creation](https://dev.to/klimd1389/how-ai-makes-our-leisure-smarter-from-travel-planning-to-playlist-creation-4lnj)
+- [**Mastering MongoDB with Mongoose: How CampusX Optimizes Data Queries**](https://dev.to/prathvihan108/mastering-mongodb-with-mongoose-how-campusx-optimizes-data-queries-1jdi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
