@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fargate Deep Dive: Key Takeaways from Melbourne User Group](https://dev.to/aws-builders/aws-fargate-deep-dive-key-takeaways-from-melbourne-user-group-kl5)
-- [Game-Changing Guide to SQL for SEO Optimization](https://dev.to/anastasia-kotsiubynska/game-changing-guide-to-sql-for-seo-optimization-i78)
-- [Y&#39;all. What the heck is Vibe Coding?](https://dev.to/patchnotes_/yall-what-the-heck-is-vibe-coding-55dl)
-- [Building a community-led product roadmap](https://dev.to/quadraticai/building-a-community-led-product-roadmap-4lgb)
-- [I ran npm run dev but it is saying next command not found](https://dev.to/surjoyday_kt/i-ran-npm-run-dev-but-it-is-saying-next-command-not-found-20b1)
+- [WANE_ECODEDigital](https://dev.to/siley_wane_99285a2e0ebcb2/waneecodedigital-4bal)
+- [Course design cards #scss](https://dev.to/rumman157/course-design-cards-scss-2p2n)
+- [🖥️ Understanding Linux Process Management 🚀](https://dev.to/satyam-ahirrao/understanding-linux-process-management-3bbp)
+- [Developing Hyper-Personalized AI Assistants](https://dev.to/kartikmehta8/developing-hyper-personalized-ai-assistants-81e)
+- [Java for beginners](https://dev.to/pratiks-desk/java-for-beginners-1289)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
