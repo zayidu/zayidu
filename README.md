@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes Simplifies Cloud Application Deployment, Scaling, and Management](https://dev.to/adityabhuyan/how-kubernetes-simplifies-cloud-application-deployment-scaling-and-management-588o)
-- [Deploy Next.js on AWS EC2 with PM2, Nginx, and Cloudflare CDN](https://dev.to/duythenight/deploy-nextjs-on-aws-ec2-with-pm2-nginx-and-cloudflare-cdn-b42)
-- [Using Excel Today Function in 2025!](https://dev.to/excel24x7/using-excel-today-function-in-2025-2de)
-- [Build a BMI Calculator Using JavaScript – Try It Now!](https://dev.to/babynamenestlings_efe5ba9/build-a-bmi-calculator-using-javascript-try-it-now-4hk7)
-- [[ Solution Library AWS ] Live Chat Content AI on AWS](https://dev.to/aws-builders/-solution-library-aws-live-chat-content-ai-on-aws-5gih)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d7f)
+- [Stop Wasting Time Writing Code for APIs](https://dev.to/lonti-davidb/stop-wasting-time-writing-code-for-apis-2hlf)
+- [Understanding Asynchronous Programming in JavaScript](https://dev.to/million_formula_3be3d915d/understanding-asynchronous-programming-in-javascript-bk9)
+- [Manage Netscaler in go](https://dev.to/hemantb26/manage-netscaler-in-go-jo3)
+- [The Why and How of Spicy AI Chat](https://dev.to/rizzoc/the-why-and-how-of-spicy-ai-chat-a4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
