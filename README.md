@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Pi Day! I made a Pi-ano😆](https://dev.to/best_codes/happy-pi-day-i-made-a-pi-ano-14cj)
-- [How to Create Themes &lpar;light/dark&rpar; with Styled-components](https://dev.to/gunnarhalen/how-to-create-themes-lightdark-with-styled-components-4d3f)
-- [Multi-Highlighting in PDF.js](https://dev.to/gabrielweidmann/multi-highlighting-in-pdfjs-403l)
-- [Spring Boot: JPA Many-to-Many Mapping](https://dev.to/sovannaro/spring-boot-jpa-many-to-many-mapping-26nf)
-- [Deep-links to almost every Safari setting on iOS](https://dev.to/no_op_co/deep-links-to-almost-every-safari-setting-on-ios-b1d)
+- [React Performance vs. Web Performance: Understanding the Difference](https://dev.to/haitham_medhat_faff3c8959/react-performance-vs-web-performance-understanding-the-difference-2n1b)
+- [Who is Nishant Rana? An Introductory Blog](https://dev.to/nishantelite/who-is-nishant-rana-an-introductory-blog-o0d)
+- [My Experience with OpenStack Ironic](https://dev.to/wdp/my-experience-with-openstack-ironic-24hi)
+- [The Rise of Cursor AI: The Future of AI-Powered Coding](https://dev.to/aryan015/the-rise-of-cursor-ai-the-future-of-ai-powered-coding-hde)
+- [Understanding Antimalware Service Executable: Is It Safe to Disable?](https://dev.to/hardy_mervana/understanding-antimalware-service-executable-is-it-safe-to-disable-57e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
