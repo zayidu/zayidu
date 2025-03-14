@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Performance vs. Web Performance: Understanding the Difference](https://dev.to/haitham_medhat_faff3c8959/react-performance-vs-web-performance-understanding-the-difference-2n1b)
-- [Who is Nishant Rana? An Introductory Blog](https://dev.to/nishantelite/who-is-nishant-rana-an-introductory-blog-o0d)
-- [My Experience with OpenStack Ironic](https://dev.to/wdp/my-experience-with-openstack-ironic-24hi)
-- [The Rise of Cursor AI: The Future of AI-Powered Coding](https://dev.to/aryan015/the-rise-of-cursor-ai-the-future-of-ai-powered-coding-hde)
-- [Understanding Antimalware Service Executable: Is It Safe to Disable?](https://dev.to/hardy_mervana/understanding-antimalware-service-executable-is-it-safe-to-disable-57e2)
+- [Build React App with KendoReact Components](https://dev.to/code_2/build-react-app-with-kendoreact-components-14lk)
+- [10 Open-source Tools to build AI Agents](https://dev.to/potpie/10-open-source-tools-to-build-ai-agents-45h6)
+- [30+ Must-See GitHub Projects of This Week!](https://dev.to/gittech/30-must-see-github-projects-of-this-week-14ii)
+- [Untitled](https://dev.to/nafito2025/untitled-c2g)
+- [Learning GO: A new beginning](https://dev.to/link2twenty/learning-go-a-new-beginning-2c15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
