@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack MERN E-Commerce Website &lpar;React, Redux, Node.js, Express &amp; MongoDB&rpar;](https://dev.to/arishn/how-i-built-a-full-stack-mern-e-commerce-website-react-redux-nodejs-express-mongodb-3k5g)
-- [Python API Testing Guide: Tools and Techniques for Reliable Development](https://dev.to/aaravjoshi/python-api-testing-guide-tools-and-techniques-for-reliable-development-2k7l)
-- [No Fake Freedom](https://dev.to/tambet_vli_53f2fdcd17c0e/no-fake-freedom-44fm)
-- [HomeWork](https://dev.to/fazliddin7777/homework-ml3)
-- [From Passion to Purpose: Small Town to Global Tech Leadership](https://dev.to/thestudentstories/from-passion-to-purpose-small-town-to-global-tech-leadership-4nh1)
+- [Top AI-Powered Digital Marketing Tools to Streamline Your Workflow in the United Kingdom](https://dev.to/anna-boiko/top-ai-powered-digital-marketing-tools-to-streamline-your-workflow-in-the-united-kingdom-15cm)
+- [10 Steps to Prepare for PCET - Certified Tester with Python Certification](https://dev.to/myexamcloud/10-steps-to-prepare-for-pcet-certified-tester-with-python-certification-1m7l)
+- [🚀 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗔𝗽𝗽 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝗥𝗲𝗱𝗶𝘀𝗖𝗮𝗰𝗵𝗲𝗠𝗮𝗻𝗮𝗴𝗲𝗿!](https://dev.to/thiago_souza_1510/-2ooc)
+- [10 Best AI workflow Automation In 2025: Supercharge Your Workflow and Say Goodbye to Tedious Tasks!](https://dev.to/aibyamdad/10-best-ai-workflow-automation-in-2025-supercharge-your-workflow-and-say-goodbye-to-tedious-tasks-8n5)
+- [AI Models Often Fake Their Step-by-Step Reasoning, Study Shows](https://dev.to/mikeyoung44/ai-models-often-fake-their-step-by-step-reasoning-study-shows-26ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
