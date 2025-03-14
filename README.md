@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Cooperation: Teaming Up with Different Creators](https://dev.to/womansalmon96/the-power-of-cooperation-teaming-up-with-different-creators-4im3)
-- [Making API requests from your spreadsheets](https://dev.to/quadraticai/making-api-requests-from-your-spreadsheets-1m3e)
-- [Git e seu funcionamento interno](https://dev.to/lucasr-luz/git-e-seu-funcionamento-interno-4ale)
-- [&quot;Buggy&quot; bfcache Behavior](https://dev.to/besworks/buggy-bfcache-behavior-1a6e)
-- [Turning testing frameworks &quot;post-it notes&quot; into a Testing Arsenal](https://dev.to/inanoniloquent/turning-testing-frameworks-post-it-notes-into-a-testing-arsenal-4m0b)
+- [Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara](https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f)
+- [How to &lpar;NOT&rpar; be a boring Tech speaker](https://dev.to/igorfragadev/how-to-not-be-a-boring-tech-speaker-15nh)
+- [Key Concepts of Cloud Computing](https://dev.to/mijanscript/key-concepts-of-cloud-computing-5a6p)
+- [Happy FriYAY!](https://dev.to/andreagriffiths11/happy-friyay-5fa7)
+- [Can AI Become Too Real? The Pros and Cons of Making AI More Human](https://dev.to/jayden_haley_a3a9d9cea099/can-ai-become-too-real-the-pros-and-cons-of-making-ai-more-human-3h8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
