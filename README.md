@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to execute SQL on CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-execute-sql-on-csv-files-with-esproc-spl-59l9)
-- [GISBox and Cesium ion: Exploring 3D geospatial visualization](https://dev.to/gisbox/gisbox-and-cesium-ion-exploring-3d-geospatial-visualization-2eep)
-- [Hiding Root Layout in Next.js Subpages: A Step-by-Step Guide](https://dev.to/sheikmostafizur/hiding-root-layout-in-nextjs-subpages-a-step-by-step-guide-fgm)
-- [Your Software Architecture is a Black Box—Here’s Why That’s a Problem](https://dev.to/justusvanm/your-software-architecture-is-a-black-box-heres-why-thats-a-problem-4818)
-- [Extract Valuable Data with Reddit Scraper](https://dev.to/swiftproxy_residential/extract-valuable-data-with-reddit-scraper-gkb)
+- [Improving the documentation user experience](https://dev.to/surrealdb/improving-the-documentation-user-experience-3fh9)
+- [Adeus CodeCommit? Sem Problema! Como o AWS S3 Pode Ser um Substituto Capaz](https://dev.to/edgar_jose_412cdf41fb30a0/adeus-codecommit-sem-problema-como-o-aws-s3-pode-ser-um-substituto-capaz-3bde)
+- [The Surprising Benefits of a Morning Routine](https://dev.to/druvafan001/the-surprising-benefits-of-a-morning-routine-25fb)
+- [A Developer’s Guide to Matter Protocol: Building Smart Home Applications With Matter SDK](https://dev.to/mobisoftinfotech/a-developers-guide-to-matter-protocol-building-smart-home-applications-with-matter-sdk-3g08)
+- [AWS Bedrock Guardrails: Enhancing AI Security and Compliance](https://dev.to/selvapal/aws-bedrock-guardrails-enhancing-ai-security-and-compliance-57mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
