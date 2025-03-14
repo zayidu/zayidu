@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient File Uploads in CampusX with Multer](https://dev.to/prathvihan108/efficient-file-uploads-in-campusx-with-multer-4p90)
-- [How To Fetch &lpar;Get&rpar; HTML From Server 🛤️](https://dev.to/hmpljs/how-to-fetch-get-html-from-server-4mdg)
-- [When AI isn&#39;t there, but it feels as though it is.](https://dev.to/deven_trafny_39709b220b1d/when-ai-isnt-there-but-it-feels-as-though-it-is-143i)
-- [How AI Makes Our Leisure Smarter: From Travel Planning to Playlist Creation](https://dev.to/klimd1389/how-ai-makes-our-leisure-smarter-from-travel-planning-to-playlist-creation-4lnj)
-- [**Mastering MongoDB with Mongoose: How CampusX Optimizes Data Queries**](https://dev.to/prathvihan108/mastering-mongodb-with-mongoose-how-campusx-optimizes-data-queries-1jdi)
+- [Введение в пакетную обработку и Spark](https://dev.to/pro100v/vviedieniie-v-pakietnuiu-obrabotku-i-spark-14ah)
+- [Complex Event Processing: Revolutionizing Real-Time Data Analysis](https://dev.to/kapusto/complex-event-processing-revolutionizing-real-time-data-analysis-kne)
+- [How AI is Revolutionizing Coding: Enhancing Efficiency and Quality](https://dev.to/itsscottjames/how-ai-is-revolutionizing-coding-enhancing-efficiency-and-quality-12bn)
+- [What’s in My Bag: The Essentials for a Productive Day at the Office [2025]](https://dev.to/this-is-learning/whats-in-my-bag-the-essentials-for-a-productive-day-at-the-office-2025-e2o)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-19o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
