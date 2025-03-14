@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving the documentation user experience](https://dev.to/surrealdb/improving-the-documentation-user-experience-3fh9)
-- [Adeus CodeCommit? Sem Problema! Como o AWS S3 Pode Ser um Substituto Capaz](https://dev.to/edgar_jose_412cdf41fb30a0/adeus-codecommit-sem-problema-como-o-aws-s3-pode-ser-um-substituto-capaz-3bde)
-- [The Surprising Benefits of a Morning Routine](https://dev.to/druvafan001/the-surprising-benefits-of-a-morning-routine-25fb)
-- [A Developer’s Guide to Matter Protocol: Building Smart Home Applications With Matter SDK](https://dev.to/mobisoftinfotech/a-developers-guide-to-matter-protocol-building-smart-home-applications-with-matter-sdk-3g08)
-- [AWS Bedrock Guardrails: Enhancing AI Security and Compliance](https://dev.to/selvapal/aws-bedrock-guardrails-enhancing-ai-security-and-compliance-57mk)
+- [How I Built a Full-Stack MERN E-Commerce Website &lpar;React, Redux, Node.js, Express &amp; MongoDB&rpar;](https://dev.to/arishn/how-i-built-a-full-stack-mern-e-commerce-website-react-redux-nodejs-express-mongodb-3k5g)
+- [Python API Testing Guide: Tools and Techniques for Reliable Development](https://dev.to/aaravjoshi/python-api-testing-guide-tools-and-techniques-for-reliable-development-2k7l)
+- [No Fake Freedom](https://dev.to/tambet_vli_53f2fdcd17c0e/no-fake-freedom-44fm)
+- [HomeWork](https://dev.to/fazliddin7777/homework-ml3)
+- [From Passion to Purpose: Small Town to Global Tech Leadership](https://dev.to/thestudentstories/from-passion-to-purpose-small-town-to-global-tech-leadership-4nh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
