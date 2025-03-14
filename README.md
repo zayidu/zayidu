@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Code Reviews with AI: A Game Changer for Dev Teams](https://dev.to/devresurrect_f18e7d7b7bc6/automating-code-reviews-with-ai-a-game-changer-for-dev-teams-2li7)
-- [Overcoming Challenges in Selenium Scraping with Proxies](https://dev.to/swiftproxy_residential/overcoming-challenges-in-selenium-scraping-with-proxies-h6j)
-- [How to Enable Dynamic Lighting on Windows 11?](https://dev.to/winsides/how-to-enable-dynamic-lighting-on-windows-11-5c3b)
-- [What is bash? How to use it ?](https://dev.to/lisw05/what-is-bash-how-to-use-it--3lm9)
-- [The World’s First Sanrio Figurine with Chip ID Launches](https://dev.to/kaohsiungcomputerassociation/the-worlds-first-sanrio-figurine-with-chip-id-launches-2bjl)
+- [How to execute SQL on CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-execute-sql-on-csv-files-with-esproc-spl-59l9)
+- [GISBox and Cesium ion: Exploring 3D geospatial visualization](https://dev.to/gisbox/gisbox-and-cesium-ion-exploring-3d-geospatial-visualization-2eep)
+- [Hiding Root Layout in Next.js Subpages: A Step-by-Step Guide](https://dev.to/sheikmostafizur/hiding-root-layout-in-nextjs-subpages-a-step-by-step-guide-fgm)
+- [Your Software Architecture is a Black Box—Here’s Why That’s a Problem](https://dev.to/justusvanm/your-software-architecture-is-a-black-box-heres-why-thats-a-problem-4818)
+- [Extract Valuable Data with Reddit Scraper](https://dev.to/swiftproxy_residential/extract-valuable-data-with-reddit-scraper-gkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
