@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 14 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-march-2k18)
-- [Understanding Public Interest Litigation &lpar;PIL&rpar; in India: A Guide for Citizens](https://dev.to/sam_3432cf27edf43445/understanding-public-interest-litigation-pil-in-india-a-guide-for-citizens-1ld9)
-- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
-- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
-- [Real-time Like Notifications with Redis Pub/Sub in CampusX](https://dev.to/prathvihan108/real-time-like-notifications-with-redis-pubsub-in-campusx-3082)
+- [Design Patterns in Swift: Singleton](https://dev.to/raphacmartin/design-patterns-in-swift-singleton-54p5)
+- [Is Your Java Leaking? GC to the Rescue!](https://dev.to/st-obi/is-your-java-leaking-gc-to-the-rescue-i5p)
+- [Exploring Laravel Collections: A Simple Guide](https://dev.to/aleson-franca/exploring-laravel-collections-a-simple-guide-4lbd)
+- [12 Best Communities and Forums for Developers to Join 🤝](https://dev.to/sergiolar/12-best-communities-and-forums-for-developers-to-join-5ga1)
+- [Mistral Basic AI Agent Using NextJS with TypeScript](https://dev.to/arfatapp/mistral-basic-ai-agent-using-nextjs-with-typescript-2315)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
