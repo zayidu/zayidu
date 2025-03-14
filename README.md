@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI-Powered Digital Marketing Tools to Streamline Your Workflow in the United Kingdom](https://dev.to/anna-boiko/top-ai-powered-digital-marketing-tools-to-streamline-your-workflow-in-the-united-kingdom-15cm)
-- [10 Steps to Prepare for PCET - Certified Tester with Python Certification](https://dev.to/myexamcloud/10-steps-to-prepare-for-pcet-certified-tester-with-python-certification-1m7l)
-- [🚀 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗔𝗽𝗽 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝗥𝗲𝗱𝗶𝘀𝗖𝗮𝗰𝗵𝗲𝗠𝗮𝗻𝗮𝗴𝗲𝗿!](https://dev.to/thiago_souza_1510/-2ooc)
-- [10 Best AI workflow Automation In 2025: Supercharge Your Workflow and Say Goodbye to Tedious Tasks!](https://dev.to/aibyamdad/10-best-ai-workflow-automation-in-2025-supercharge-your-workflow-and-say-goodbye-to-tedious-tasks-8n5)
-- [AI Models Often Fake Their Step-by-Step Reasoning, Study Shows](https://dev.to/mikeyoung44/ai-models-often-fake-their-step-by-step-reasoning-study-shows-26ij)
+- [🚀 Your Daily Crypto Job Digest For 14 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-march-2k18)
+- [Understanding Public Interest Litigation &lpar;PIL&rpar; in India: A Guide for Citizens](https://dev.to/sam_3432cf27edf43445/understanding-public-interest-litigation-pil-in-india-a-guide-for-citizens-1ld9)
+- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
+- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
+- [Real-time Like Notifications with Redis Pub/Sub in CampusX](https://dev.to/prathvihan108/real-time-like-notifications-with-redis-pubsub-in-campusx-3082)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
