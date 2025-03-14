@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara](https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f)
-- [How to &lpar;NOT&rpar; be a boring Tech speaker](https://dev.to/igorfragadev/how-to-not-be-a-boring-tech-speaker-15nh)
-- [Key Concepts of Cloud Computing](https://dev.to/mijanscript/key-concepts-of-cloud-computing-5a6p)
-- [Happy FriYAY!](https://dev.to/andreagriffiths11/happy-friyay-5fa7)
-- [Can AI Become Too Real? The Pros and Cons of Making AI More Human](https://dev.to/jayden_haley_a3a9d9cea099/can-ai-become-too-real-the-pros-and-cons-of-making-ai-more-human-3h8d)
+- [What Big Tech Companies Can Teach Us About Incident Management](https://dev.to/leotulii/what-big-tech-companies-can-teach-us-about-incident-management-1dof)
+- [How to Build a Custom Django Authentication System: A Comprehensive Guide.](https://dev.to/eslintpurity/how-to-build-a-custom-django-authentication-system-a-comprehensive-guide-33de)
+- [10 Powerful CSS Tips and Tricks That Will Elevate Your Web Design](https://dev.to/italogermando/10-powerful-css-tips-and-tricks-that-will-elevate-your-web-design-4i3l)
+- [How AI is Revolutionizing Web Scraping: Techniques and Code Examples](https://dev.to/alex_aslam/how-ai-is-revolutionizing-web-scraping-techniques-and-code-examples-6k1)
+- [Why Can&#39;t Cars Move Directly Sideways? &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-cant-cars-move-directly-sideways-bite-size-article-319n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
