@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Additional Notes on Responses API and Agents SDK](https://dev.to/seratch/additional-notes-on-responses-api-and-agents-sdk-5bfk)
-- [A Java Learning Roadmap: From Basics to Spring Boot for Beginners](https://dev.to/dimagi_sihilel_0d6234fd02/a-java-learning-roadmap-from-basics-to-spring-boot-for-beginners-3nnk)
-- [Creating Custom SCSS Breakpoints for Responsive Design](https://dev.to/joydippaul/creating-custom-scss-breakpoints-for-responsive-design-4njd)
-- [Pergola Grey or Gazebo Grey? Choosing the Right Structure for Your Yard](https://dev.to/tuff_digitalmarketing_e7/pergola-grey-or-gazebo-grey-choosing-the-right-structure-for-your-yard-ib0)
-- [MintID Holders Alert: Big Update on Staking Rules!](https://dev.to/mint_/mintid-holders-alert-big-update-on-staking-rules-1eeg)
+- [What is SQL? A Simple Introduction to Structured Query Language](https://dev.to/be11amer/what-is-sql-a-simple-introduction-to-structured-query-language-4nep)
+- [Next.js vs Express: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-express-what-to-choose-in-2025-4kgd)
+- [Build RAG Chatbot 🤖 with LangChain, Milvus, Mistral AI Pixtral, and NVIDIA bge-m3](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-mistral-ai-pixtral-and-nvidia-bge-m3-30om)
+- [Unveiling Open Hardware License: A Deep Dive into Transparency and Collaboration](https://dev.to/vitalisorenko/unveiling-open-hardware-license-a-deep-dive-into-transparency-and-collaboration-5ag6)
+- [Unveiling Open Data Commons Public Domain Dedication and License: A Deep Dive](https://dev.to/rachellovestowrite/unveiling-open-data-commons-public-domain-dedication-and-license-a-deep-dive-1d12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
