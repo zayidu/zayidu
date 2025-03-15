@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Big Tech Companies Can Teach Us About Incident Management](https://dev.to/leotulii/what-big-tech-companies-can-teach-us-about-incident-management-1dof)
-- [How to Build a Custom Django Authentication System: A Comprehensive Guide.](https://dev.to/eslintpurity/how-to-build-a-custom-django-authentication-system-a-comprehensive-guide-33de)
-- [10 Powerful CSS Tips and Tricks That Will Elevate Your Web Design](https://dev.to/italogermando/10-powerful-css-tips-and-tricks-that-will-elevate-your-web-design-4i3l)
-- [How AI is Revolutionizing Web Scraping: Techniques and Code Examples](https://dev.to/alex_aslam/how-ai-is-revolutionizing-web-scraping-techniques-and-code-examples-6k1)
-- [Why Can&#39;t Cars Move Directly Sideways? &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-cant-cars-move-directly-sideways-bite-size-article-319n)
+- [How to create a private storage for internal company documents.](https://dev.to/onyemuche/how-to-create-a-private-storage-for-internal-company-documents-1flh)
+- [🚀 Building a Notification System in React Using the Pub-Sub Pattern](https://dev.to/prasannavijayan/building-a-notification-system-in-react-using-the-pub-sub-pattern-58jd)
+- [Important Notes on JUnit 5.12.0+ in Gradle](https://dev.to/be-hase/important-notes-on-junit-5120-in-gradle-13fj)
+- [The Evolution of Zero Trust Security Architecture](https://dev.to/kartikmehta8/the-evolution-of-zero-trust-security-architecture-mh5)
+- [How to Build a Task Manager API with Django REST Framework: Part 5 - Optimizing API Performance: Filtering, Pagination &amp; Search](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-5-optimizing-api-performance-24p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
