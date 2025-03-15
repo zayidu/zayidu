@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysing Patterns in an SMS Spam Dataset Using Data Mining Techniques](https://dev.to/marvelefe/analysing-patterns-in-an-sms-spam-dataset-using-data-mining-techniques-2pk9)
-- [CodeScribe - A Note Taking App](https://dev.to/imrancodes/codescribe-a-note-taking-app-224)
-- [Instagram’s Secret to “Instant” Photo Uploads &lpar;It’s Not What You Think&rpar;](https://dev.to/sunxeven/instagrams-secret-to-instant-photo-uploads-its-not-what-you-think-4a1f)
-- [Auto-Creating Contacts in Dynamics 365: A Deep Dive into the Personal Setting](https://dev.to/nikhildynamicsce/auto-creating-contacts-in-dynamics-365-a-deep-dive-into-the-personal-setting-1fgb)
-- [Building High-Performance Message Queues in Go: A Developer&#39;s Guide](https://dev.to/aaravjoshi/building-high-performance-message-queues-in-go-a-developers-guide-1ic7)
+- [Python for OSINT: Stalking the Internet Like a Pro](https://dev.to/rocky_rowdy/python-for-osint-stalking-the-internet-like-a-pro-59na)
+- [Most Used NPM Packages for React Developers](https://dev.to/tahir_rafique/most-used-npm-packages-for-react-developers-3784)
+- [Project: Syncing Govee lights to sports events](https://dev.to/eric_maclean_9b816003b56d/project-syncing-govee-lights-to-sports-events-2h34)
+- [Asynchronous Events: Getting Rid of Internal Services in Angular applications](https://dev.to/artstesh/asynchronous-events-getting-rid-of-callbacks-and-subscriptions-in-angular-applications-2hib)
+- [Kill Any Process by Port Instantly with kill-my-port 🚀](https://dev.to/tene/kill-any-process-by-port-instantly-with-kill-my-port-3gfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
