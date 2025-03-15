@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why None?](https://dev.to/arun04hack/why-none-dh4)
-- [Hello everyone! 👋 I’m Jen, a Software Engineer from the PH. I’m new here and excited to connect with like-minded professionals! 🚀 Feel free to check out my profile @ https://jenelynababan.com Looking forward to networking, learning, and growing together.](https://dev.to/jenelyn/hello-everyone-im-jen-a-software-engineer-from-the-ph-im-new-here-and-excited-to-connect-3250)
-- [Фронтенд для Web3 dApp: хорошие практики](https://dev.to/niko_doing_dev/frontiend-dlia-web3-dapp-khoroshiie-praktiki-4pap)
-- [Qué tecnologías usar en mi aplicación?](https://dev.to/es-devej/que-tecnologias-usar-en-mi-aplicacion-ahl)
-- [Transform Your Design into a Stunning, Responsive Website with Expert React.js and Next.js Development](https://dev.to/mohosin2126/transform-your-design-into-a-stunning-responsive-website-with-expert-reactjs-and-nextjs-5721)
+- [From PHP to Python - porting a Reddit clone with the help of Amazon Q Developer](https://dev.to/aws/from-php-to-python-porting-a-reddit-clone-with-the-help-of-amazon-q-developer-23g)
+- [Mastering Algorithms with Python: A Beginner&#39;s Guide](https://dev.to/abibtechid/mastering-algorithms-with-python-a-beginners-guide-4l0m)
+- [بده ۲@](https://dev.to/aein_bagheri_10ffa69696b9/bdh-2-2pho)
+- [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
+- [improve English](https://dev.to/umair45/improve-english-42cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
