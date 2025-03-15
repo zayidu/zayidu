@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Samir Salih is Transforming the Mental Health Industry with Technology](https://dev.to/jessicase0/how-samir-salih-is-transforming-the-mental-health-industry-with-technology-3fph)
-- [What is LLM in AI](https://dev.to/mehmetakar/what-is-llm-in-ai-487d)
-- [Week 2 Done! 🚀 My DevOps Learning Journey 🎯](https://dev.to/princemalikk/week-2-done-my-devops-learning-journey-3aod)
-- [#job #aws# #devsecops #cloud #kubernetes](https://dev.to/anu_raj_64b3fb7b7f1ed80b6/job-aws-devsecops-cloud-kubernetes-486j)
-- [Cron Jobs in Linux: Evolution from AT to Cron to Anacron](https://dev.to/imsushant12/cron-jobs-in-linux-evolution-from-at-to-cron-to-anacron-2boc)
+- [Why None?](https://dev.to/arun04hack/why-none-dh4)
+- [Hello everyone! 👋 I’m Jen, a Software Engineer from the PH. I’m new here and excited to connect with like-minded professionals! 🚀 Feel free to check out my profile @ https://jenelynababan.com Looking forward to networking, learning, and growing together.](https://dev.to/jenelyn/hello-everyone-im-jen-a-software-engineer-from-the-ph-im-new-here-and-excited-to-connect-3250)
+- [Фронтенд для Web3 dApp: хорошие практики](https://dev.to/niko_doing_dev/frontiend-dlia-web3-dapp-khoroshiie-praktiki-4pap)
+- [Qué tecnologías usar en mi aplicación?](https://dev.to/es-devej/que-tecnologias-usar-en-mi-aplicacion-ahl)
+- [Transform Your Design into a Stunning, Responsive Website with Expert React.js and Next.js Development](https://dev.to/mohosin2126/transform-your-design-into-a-stunning-responsive-website-with-expert-reactjs-and-nextjs-5721)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
