@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Basics of Relational Databases: Primary Keys and Foreign Keys Explained](https://dev.to/be11amer/the-basics-of-relational-databases-primary-keys-and-foreign-keys-explained-g7d)
-- [➡️ 5 Essential JavaScript Concepts Every Developer Should Master](https://dev.to/artem_turlenko/5-essential-javascript-concepts-every-developer-should-master-2edc)
-- [Code or No Code? The AI Revolution in Web](https://dev.to/amarjit_yadav/-2825)
-- [LLM Model Selection Made Easy: The Most Useful Leaderboards for Real-World Applications](https://dev.to/suzuki0430/llm-model-selection-made-easy-the-most-useful-leaderboards-for-real-world-applications-27go)
-- [Why I Use Jekyll for Custom, Cost-Effective Web Development &lpar;And When It’s Not the Right Choice&rpar;](https://dev.to/per-starke-642/why-i-use-jekyll-for-custom-cost-effective-web-development-and-when-its-not-the-right-choice-1kc6)
+- [From Gaming Dreams to Web Development—My Unexpected Journey](https://dev.to/uzondu9/from-gaming-dreams-to-web-development-my-unexpected-journey-56m9)
+- [🚀 Understanding Package Name, Categories &amp; Tags in Google Play Console: A Complete Guide](https://dev.to/kamleshj/understanding-package-name-categories-tags-in-google-play-console-a-complete-guide-46j1)
+- [How to be Test Driven with Spark: Chapter 5: Leverage spark in a container](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-5-leverage-spark-in-a-container-1p74)
+- [@Bean annotation example in spring boot](https://dev.to/realnamehidden1_61/bean-annotation-example-in-spring-boot-26ba)
+- [AI Retrievers Can Be Tricked into Finding Dangerous Content, Study Shows](https://dev.to/mikeyoung44/ai-retrievers-can-be-tricked-into-finding-dangerous-content-study-shows-5fbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
