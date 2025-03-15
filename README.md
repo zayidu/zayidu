@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance in Javascript/ReactJS: Part 1](https://dev.to/shelly_agarwal_19/performance-in-javascriptreactjs-part-1-2gah)
-- [AI AVATAR CUSTOMIZATION: What You Need to Know](https://dev.to/eljoooy/ai-avatar-customization-what-you-need-to-know-5eec)
-- [Most Common Docker Use Cases in 2025](https://dev.to/babita/most-common-docker-use-cases-in-2025-2c7o)
-- [Master Video Editing in Rust with FFmpeg in Just 3 Minutes](https://dev.to/yeauty/master-video-editing-in-rust-with-ffmpeg-in-just-3-minutes-27dm)
-- [6.7 Outros tipos de referências](https://dev.to/fundamentosjava/67-outros-tipos-de-referencias-4o11)
+- [React Native vs Flutter: Which Framework is Better in 2025?](https://dev.to/dct_technologyprivatelimited/react-native-vs-flutter-which-framework-is-better-in-2025-4in3)
+- [Ableton Live Control Surface Development Adventure: EP-02](https://dev.to/heinthanth/ableton-live-control-surface-development-adventure-ep-02-21b7)
+- [Laravel Starter Kit](https://dev.to/uhrzel/laravel-starter-kit-9pa)
+- [Why Alignment Is Impotant In UI / UX Design](https://dev.to/abubakr_313/why-alignment-is-impotant-in-ui-ux-design-1g8m)
+- [Why AI Chat is the Future of Entertainment](https://dev.to/ryder_andrew/why-ai-chat-is-the-future-of-entertainment-3bmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
