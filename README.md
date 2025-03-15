@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential JavaScript Methods Every Developer Should Know](https://dev.to/santoshpremi/essential-javascript-methods-every-developer-should-know-37ha)
-- [### 🚀 How to Install Git Bash on Windows and Configure Your Identity Like a Pro 🔹 *By Samuel Peter*](https://dev.to/peter_samuel_052b9056e236/-how-to-install-git-bash-on-windows-and-configure-your-identity-like-a-pro-by-samuel-4do)
-- [Leveraging Cloud Analytics to Combat Banking Fraud](https://dev.to/piya__c204c9e90/leveraging-cloud-analytics-to-combat-banking-fraud-10ma)
-- [Understanding HTTP client using node:http module](https://dev.to/iamsujit/understanding-http-client-using-nodehttp-module-49nf)
-- [적당히 괜찮은 소프트웨어](https://dev.to/junghwan18/jeogdanghi-gwaencanheun-sopeuteuweeo-geurigo-aejail-gaebal-4k15)
+- [HiveTorrent – A Web-Based Torrent Client &amp; Search Engine &lpar;Looking for Contributors !&rpar;](https://dev.to/urnem/hivetorrent-a-web-based-torrent-client-search-engine-looking-for-contributors--53h8)
+- [Tutorial: What is JSON? How Douglas Crockford Created JSON.](https://dev.to/agunechemba/tutorial-what-is-json-how-douglas-crockford-created-json-2o04)
+- [چاپ لیبل: ابزاری ضروری برای شناسایی و بازاریابی محصولات](https://dev.to/chapansar2025/chp-lybl-bzry-drwry-bry-shnsyy-w-bzryby-mhswlt-2o3b)
+- [Simplest way to understand how HTTP works using TCP and Streams](https://dev.to/iamsujit/simplest-way-to-understand-how-http-works-using-tcp-and-streams-48d7)
+- [Gas Fees Are Holding Web3 Back—Here’s How to Fix It](https://dev.to/omniradhanexus/gas-fees-are-holding-web3-back-heres-how-to-fix-it-2ef6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
