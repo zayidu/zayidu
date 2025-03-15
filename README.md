@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Feature: Receive SMS via Webhook on SMS Textr!](https://dev.to/saltypenguin313/new-feature-receive-sms-via-webhook-on-sms-textr-3hhe)
-- [&quot;Mastering Attacks on Vision-Language Models: Strategies &amp; Insights Revealed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-attacks-on-vision-language-models-strategies-insights-revealed-4o7c)
-- [Viewbadger](https://dev.to/stevo_49b8ac0aa869/view-badger-h5a)
-- [Breaking Stereotypes - Lessons Learned from Unconscious Bias in Tech](https://dev.to/makendrang/breaking-stereotypes-lessons-learned-from-unconscious-bias-in-tech-57kg)
-- [Maximize Your Remote Dev Day](https://dev.to/mehedihsiamt/maximize-your-remote-dev-day-25gl)
+- [🚀 Flutter vs. React Native: Which One Should You Choose?](https://dev.to/stacks_gather_f66c31eb9d6/flutter-vs-react-native-which-one-should-you-choose-1dpf)
+- [Top 10 Cloud Computing Certifications to Get Hired in 2025:](https://dev.to/devlinkstudios/top-10-cloud-computing-certifications-to-get-hired-in-2025-2hpl)
+- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 2&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-2-3i5k)
+- [Future AI Deployment: Automating Full Lifecycle Management with Rollback Strategies and Cloud Migration](https://dev.to/prabhu_chinnasamy_086fba6/future-ai-deployment-automating-full-lifecycle-management-with-rollback-strategies-and-cloud-34on)
+- [What makes Bonza AI Chat different from other AI companions?](https://dev.to/tyler_ash/what-makes-bonza-ai-chat-different-from-other-ai-companions-omi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
