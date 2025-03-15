@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [D&amp;D-Style Alignment Chart for X Users](https://dev.to/goroman/dd-style-alignment-chart-for-x-users-1315)
-- [Disruptive, Viral, Productive AI Agents 🚀](https://dev.to/vijayr00/disruptive-viral-productive-ai-agents-1g97)
-- [🚀 Introducing FlowBlog: A Minimalist, Developer-First Blogging Platform](https://dev.to/mrsupercraft/introducing-flowblog-a-minimalist-developer-first-blogging-platform-bcd)
-- [🚀 Managing Merge Conflicts in Git: Strategies and Best Practices](https://dev.to/imevanc/managing-merge-conflicts-in-git-strategies-and-best-practices-21g2)
-- [Annoying shouldn&#39;t be ugly, or cute animated validation.](https://dev.to/ykosinets/annoying-shouldnt-be-ugly-or-cute-animated-validation-3bkm)
+- [Analysing Patterns in an SMS Spam Dataset Using Data Mining Techniques](https://dev.to/marvelefe/analysing-patterns-in-an-sms-spam-dataset-using-data-mining-techniques-2pk9)
+- [CodeScribe - A Note Taking App](https://dev.to/imrancodes/codescribe-a-note-taking-app-224)
+- [Instagram’s Secret to “Instant” Photo Uploads &lpar;It’s Not What You Think&rpar;](https://dev.to/sunxeven/instagrams-secret-to-instant-photo-uploads-its-not-what-you-think-4a1f)
+- [Auto-Creating Contacts in Dynamics 365: A Deep Dive into the Personal Setting](https://dev.to/nikhildynamicsce/auto-creating-contacts-in-dynamics-365-a-deep-dive-into-the-personal-setting-1fgb)
+- [Building High-Performance Message Queues in Go: A Developer&#39;s Guide](https://dev.to/aaravjoshi/building-high-performance-message-queues-in-go-a-developers-guide-1ic7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
