@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for OSINT: Stalking the Internet Like a Pro](https://dev.to/rocky_rowdy/python-for-osint-stalking-the-internet-like-a-pro-59na)
-- [Most Used NPM Packages for React Developers](https://dev.to/tahir_rafique/most-used-npm-packages-for-react-developers-3784)
-- [Project: Syncing Govee lights to sports events](https://dev.to/eric_maclean_9b816003b56d/project-syncing-govee-lights-to-sports-events-2h34)
-- [Asynchronous Events: Getting Rid of Internal Services in Angular applications](https://dev.to/artstesh/asynchronous-events-getting-rid-of-callbacks-and-subscriptions-in-angular-applications-2hib)
-- [Kill Any Process by Port Instantly with kill-my-port 🚀](https://dev.to/tene/kill-any-process-by-port-instantly-with-kill-my-port-3gfe)
+- [Beyond CAP: Unveiling the PACELC Theorem for Modern Systems](https://dev.to/ashokan/beyond-cap-unveiling-the-pacelc-theorem-for-modern-systems-465j)
+- [𝐃𝐣𝐚𝐧𝐠𝐨-এর 𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐋𝐢𝐟𝐞𝐜𝐲𝐜𝐥𝐞 বাংলায় এক নজরে!](https://dev.to/hrid620/-er-baanlaay-ek-njre-2png)
+- [Mini-Micro : Physics , Fixes and WTF](https://dev.to/selfish_dev/mini-micro-physics-fixes-and-wtf-3gc4)
+- [What Place Will AI Have in Future Human Relationships?](https://dev.to/john_irby/what-place-will-ai-have-in-future-human-relationships-2m2k)
+- [Instalando o PostgreSQL no WSL &lpar;Windows Subsystem Linux&rpar;](https://dev.to/videosdeti/instalando-o-postgresql-no-wsl-windows-subsystem-linux-56a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
