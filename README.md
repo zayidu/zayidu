@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native vs Flutter: Which Framework is Better in 2025?](https://dev.to/dct_technologyprivatelimited/react-native-vs-flutter-which-framework-is-better-in-2025-4in3)
-- [Ableton Live Control Surface Development Adventure: EP-02](https://dev.to/heinthanth/ableton-live-control-surface-development-adventure-ep-02-21b7)
-- [Laravel Starter Kit](https://dev.to/uhrzel/laravel-starter-kit-9pa)
-- [Why Alignment Is Impotant In UI / UX Design](https://dev.to/abubakr_313/why-alignment-is-impotant-in-ui-ux-design-1g8m)
-- [Why AI Chat is the Future of Entertainment](https://dev.to/ryder_andrew/why-ai-chat-is-the-future-of-entertainment-3bmk)
+- [The Basics of Relational Databases: Primary Keys and Foreign Keys Explained](https://dev.to/be11amer/the-basics-of-relational-databases-primary-keys-and-foreign-keys-explained-g7d)
+- [➡️ 5 Essential JavaScript Concepts Every Developer Should Master](https://dev.to/artem_turlenko/5-essential-javascript-concepts-every-developer-should-master-2edc)
+- [Code or No Code? The AI Revolution in Web](https://dev.to/amarjit_yadav/-2825)
+- [LLM Model Selection Made Easy: The Most Useful Leaderboards for Real-World Applications](https://dev.to/suzuki0430/llm-model-selection-made-easy-the-most-useful-leaderboards-for-real-world-applications-27go)
+- [Why I Use Jekyll for Custom, Cost-Effective Web Development &lpar;And When It’s Not the Right Choice&rpar;](https://dev.to/per-starke-642/why-i-use-jekyll-for-custom-cost-effective-web-development-and-when-its-not-the-right-choice-1kc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
