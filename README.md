@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python is Taking Over Electronics Programming](https://dev.to/coursedia/why-python-is-taking-over-electronics-programming-3mn)
-- [Building a Multi-Section Page for a Game InterfaceT](https://dev.to/ouma_ouma/building-a-multi-section-page-for-a-game-interfacet-56g2)
-- [AWS Community Days 2025](https://dev.to/aws-builders/aws-community-days-2025-5hna)
-- [React এবং Vite: একটি দ্রুত ডেভেলপমেন্ট কম্বো](https://dev.to/programmerhasan/react-ebn-vite-ektti-drut-ddebhelpmentt-kmbo-gj3)
-- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-1g1j)
+- [Como publicar mensagens no Broker MQTT usando a BananaPi e Python](https://dev.to/henriqueotogami/como-publicar-mensagens-no-broker-mqtt-usando-a-bananapi-e-python-3816)
+- [The Real Story Behind Building is-cod.in Universe: From $52 Bills to Free Hosting 😅](https://dev.to/araan/the-real-story-behind-building-is-codin-universe-from-52-bills-to-free-hosting-4hkc)
+- [Building an Image to Text Converter with Next.js and Tesseract.js 🚀](https://dev.to/moibra/building-an-image-to-text-converter-with-nextjs-and-tesseractjs-45c3)
+- [1. HTML Document Structure.](https://dev.to/code_2/1-html-document-structure-44c4)
+- [TheHumanizer.ai Review: Is It the Best AI Humanizer?](https://dev.to/thehumanizerai/thehumanizerai-review-is-it-the-best-ai-humanizer-i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
