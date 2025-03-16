@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlined AI Image Generator Cuts Size by 50% Without Losing Quality](https://dev.to/mikeyoung44/streamlined-ai-image-generator-cuts-size-by-50-without-losing-quality-4a31)
-- [AI Breakthrough Makes Object Editing in Photos as Easy as Copy and Paste](https://dev.to/mikeyoung44/ai-breakthrough-makes-object-editing-in-photos-as-easy-as-copy-and-paste-29c8)
-- [AugMix in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-2-568g)
-- [DiLoCo: New Training Method Cuts AI Model Communication by 32x While Maintaining Performance](https://dev.to/mikeyoung44/diloco-new-training-method-cuts-ai-model-communication-by-32x-while-maintaining-performance-2k8a)
-- [AI Models Now Think Better with Longer Reasoning Chains, Study Shows](https://dev.to/mikeyoung44/ai-models-now-think-better-with-longer-reasoning-chains-study-shows-4f7o)
+- [Create React App is Deprecated – What’s Next ?](https://dev.to/techcrafted/create-react-app-is-deprecated-whats-next--1d20)
+- [A mathematical model of the objective value of &quot;Safety&quot;. Let&#39;s talk about sustainability by predictability.](https://dev.to/bladerunner_ai/a-mathematical-model-of-the-objective-value-of-safety-lets-talk-about-sustainability-by-2p3f)
+- [পাইথন কন্ট্রোল ফ্লো এবং লুপ: প্রোগ্রামের নিয়ন্ত্রণ](https://dev.to/shafiemoji/paaithn-knttrol-phlo-ebn-lup-prograamer-niyntrnn-54ki)
+- [Primeiro mês usando Linux](https://dev.to/gguife/primeiro-mes-usando-linux-4cc3)
+- [What is Pokémon Unbound, and what unique features does it offer to players?](https://dev.to/sam_john_446ae3e12023274e/what-is-pokemon-unbound-and-what-unique-features-does-it-offer-to-players-2f79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
