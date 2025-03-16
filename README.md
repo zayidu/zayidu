@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is HTML?](https://dev.to/merndev_enamul/what-is-html-54l2)
-- [Understanding Islamic Law: Key Principles, Sources, and Applications](https://dev.to/guidelinesislamiclaw/understanding-islamic-law-key-principles-sources-and-applications-42d2)
-- [Quick overview of Model Context Protocol &lpar;MCP&rpar;](https://dev.to/jldec/quick-overview-of-model-context-protocol-mcp-123c)
-- [Enhancing User Experience with a Custom Number Input Component in React](https://dev.to/joaquinpereira/enhancing-user-experience-with-a-custom-number-input-component-in-react-10m4)
-- [Woliyu Note](https://dev.to/kemal_mulatu_b6b88a3dd0c9/woliyu-note-11pe)
+- [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
+- [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
+- [Amran Munir UK Software and IT Solutions Provider Company](https://dev.to/techno_insights_d8b5bd951/amran-munir-uk-software-and-it-solutions-provider-company-5cmk)
+- [When Getting Well Isn’t Happening Soon: My Experience with Long COVID](https://dev.to/nehamaity/when-getting-well-isnt-happening-soon-my-experience-with-long-covid-ed0)
+- [Comprehensive List of Programming Languages and Their Uses](https://dev.to/tene/comprehensive-list-of-programming-languages-and-their-uses-3p0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
