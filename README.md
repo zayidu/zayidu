@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [To Find Whether the Given Number is Prime or Not!!](https://dev.to/aafthab_ali/to-find-whether-the-given-number-is-prime-or-not-e00)
-- [Is Ionic Lagging Behind in Cross-Platform App Development?](https://dev.to/mmar58/is-ionic-lagging-behind-in-cross-platform-app-development-29hi)
-- [1. Introduction to C# and .NET framework](https://dev.to/yandralal/1-introduction-to-c-and-net-framework-26ck)
-- [O básico que você precisa saber sobre internet.](https://dev.to/gusvasconcelos/o-basico-que-voce-precisa-saber-sobre-internet-5g3k)
-- [Embarking on a C# Adventure: Unveiling the Topics Covered on Our Learning Journey](https://dev.to/yandralal/embarking-on-a-c-adventure-unveiling-the-topics-covered-on-our-learning-journey-50gk)
+- [What I Learned Building Side Projects Nobody Asked For](https://dev.to/gokulsidd/what-i-learned-building-side-projects-nobody-asked-for-2ihg)
+- [How to build MCP Servers and Test Locally from Scratch](https://dev.to/developer_harsh/how-to-build-mcp-servers-and-test-locally-from-scratch-3d4j)
+- [How to build MCP Servers and Clients from Scratch](https://dev.to/composiodev/how-to-build-mcp-servers-and-clients-from-scratch-4o2f)
+- [7 Tools that Make Me Productive as a Software Engineer](https://dev.to/ruppysuppy/7-tools-that-make-me-productive-as-a-software-engineer-4p3l)
+- [🚀 Built an 💰 Expense Tracker That Tracks Your Spending—Without Manual Entry! 🏦📊](https://dev.to/emilp/built-an-expense-tracker-that-tracks-your-spending-without-manual-entry-5h2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
