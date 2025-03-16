@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To JAVA Coding](https://dev.to/skptricks_93/introduction-to-java-coding-50k6)
-- [The Art of Programming: More Than Just Writing Code](https://dev.to/thabiso_lencekgati_585ce/the-art-of-programming-more-than-just-writing-code-5148)
-- [Delivery Management App](https://dev.to/adonaitechnologies/delivery-management-app-4465)
-- [Partial Pre-Rendering in Next.js 14](https://dev.to/aun1414/partial-pre-rendering-in-nextjs-14-1725)
-- [A Comprehensive Guide to AES Encryption in Python](https://dev.to/jithendrasai_kilaru_1a67a/a-comprehensive-guide-to-aes-encryption-in-python-3i5l)
+- [Python Doesn’t Have True Constants—So I Built setconstant](https://dev.to/anuraj_r/python-doesnt-have-true-constants-so-i-built-setconstant-220h)
+- [Can any give best tips when learning springboot ?](https://dev.to/freedom27lukhele/can-any-give-best-tips-when-learning-springboot--4fjc)
+- [Star Schema: The Data Warehouse Hack So Simple, Experts Hate It](https://dev.to/spkibe/star-schema-the-data-warehouse-hack-so-simple-experts-hate-it-4eef)
+- [🤯 Me in Gemini DeepSearch](https://dev.to/aniruddhaadak/me-in-gemini-deepsearch-40ia)
+- [Optimistically updating the UI with the useOptimistic hook](https://dev.to/melikdev/optimistically-updating-the-ui-with-the-useoptimistic-hook-1nh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
