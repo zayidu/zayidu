@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ImplementingPerformance optimization with AWS Aurora PostgreSQL/MySQL for high-throughput workloads 👨‍💻⚙](https://dev.to/neo_rival67/implementingperformance-optimization-with-aws-aurora-postgresqlmysql-for-high-throughput-2end)
-- [How to Build RESTful APIs with Django](https://dev.to/million_formula_3be3d915d/how-to-build-restful-apis-with-django-579n)
-- [Oracle 23ai — Track Table and Partition Scan Access](https://dev.to/vahidusefzadeh/oracle-23ai-track-table-and-partition-scan-access-l9a)
-- [A Backend-to-Full Stack Savior: AI Revamps the App Interface](https://dev.to/mjiee/a-backend-to-full-stack-savior-ai-revamps-the-app-interface-13hh)
-- [“The Hidden Shortcut to Open GitHub Repositories in VS Code”](https://dev.to/ramyasree_manthena_76c598/the-hidden-shortcut-to-open-github-repositories-in-vs-code-j9k)
+- [[Boost]](https://dev.to/foxinfotech/-48d6)
+- [What is an ER Diagram](https://dev.to/mujahida_joynab_64c7407d8/what-is-an-er-diagram-198i)
+- [Understanding Data Pipelines: A Comprehensive Guide](https://dev.to/devcorner/understanding-data-pipelines-a-comprehensive-guide-35cp)
+- [🚀TypeScript 10x Lebih Ngebut: Inovasi Gede Buat Developer JavaScript](https://dev.to/ferryops/typescript-10x-lebih-ngebut-inovasi-gede-buat-developer-javascript-4gm1)
+- [React architecture](https://dev.to/victormarques92/react-architecture-4gfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
