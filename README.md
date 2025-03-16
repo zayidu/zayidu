@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create React App is Deprecated – What’s Next ?](https://dev.to/techcrafted/create-react-app-is-deprecated-whats-next--1d20)
-- [A mathematical model of the objective value of &quot;Safety&quot;. Let&#39;s talk about sustainability by predictability.](https://dev.to/bladerunner_ai/a-mathematical-model-of-the-objective-value-of-safety-lets-talk-about-sustainability-by-2p3f)
-- [পাইথন কন্ট্রোল ফ্লো এবং লুপ: প্রোগ্রামের নিয়ন্ত্রণ](https://dev.to/shafiemoji/paaithn-knttrol-phlo-ebn-lup-prograamer-niyntrnn-54ki)
-- [Primeiro mês usando Linux](https://dev.to/gguife/primeiro-mes-usando-linux-4cc3)
-- [What is Pokémon Unbound, and what unique features does it offer to players?](https://dev.to/sam_john_446ae3e12023274e/what-is-pokemon-unbound-and-what-unique-features-does-it-offer-to-players-2f79)
+- [How to Fix Weak API Authentication in Laravel &lpar;With Code Examples&rpar;](https://dev.to/pentest_testing_corp/how-to-fix-weak-api-authentication-in-laravel-with-code-examples-443c)
+- [How to Build Your Own Social Network with Web4 Lite from Linkspreed - An Open Source Facebook Clone @Home](https://dev.to/web4/how-to-build-your-own-social-network-with-web4-lite-from-linkspreed-an-open-source-facebook-47c4)
+- [How to Hide Local Git Changes Without Ignoring Files](https://dev.to/sarath191181208/what-git-hide-1da3)
+- [Dynamic Data in Test Automation: Guide to Best Practices](https://dev.to/radha_4c842d8e4362a7cdd9c/dynamic-data-in-test-automation-guide-to-best-practices-4acg)
+- [The Hangfire Cookbook: A Practical Guide to Background Job Processing in .NET and Azure](https://dev.to/mikaelkrief2/the-hangfire-cookbook-a-practical-guide-to-background-job-processing-in-net-and-azure-4mg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
