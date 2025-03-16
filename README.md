@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como publicar mensagens no Broker MQTT usando a BananaPi e Python](https://dev.to/henriqueotogami/como-publicar-mensagens-no-broker-mqtt-usando-a-bananapi-e-python-3816)
-- [The Real Story Behind Building is-cod.in Universe: From $52 Bills to Free Hosting 😅](https://dev.to/araan/the-real-story-behind-building-is-codin-universe-from-52-bills-to-free-hosting-4hkc)
-- [Building an Image to Text Converter with Next.js and Tesseract.js 🚀](https://dev.to/moibra/building-an-image-to-text-converter-with-nextjs-and-tesseractjs-45c3)
-- [1. HTML Document Structure.](https://dev.to/code_2/1-html-document-structure-44c4)
-- [TheHumanizer.ai Review: Is It the Best AI Humanizer?](https://dev.to/thehumanizerai/thehumanizerai-review-is-it-the-best-ai-humanizer-i6)
+- [Introduction To JAVA Coding](https://dev.to/skptricks_93/introduction-to-java-coding-50k6)
+- [The Art of Programming: More Than Just Writing Code](https://dev.to/thabiso_lencekgati_585ce/the-art-of-programming-more-than-just-writing-code-5148)
+- [Delivery Management App](https://dev.to/adonaitechnologies/delivery-management-app-4465)
+- [Partial Pre-Rendering in Next.js 14](https://dev.to/aun1414/partial-pre-rendering-in-nextjs-14-1725)
+- [A Comprehensive Guide to AES Encryption in Python](https://dev.to/jithendrasai_kilaru_1a67a/a-comprehensive-guide-to-aes-encryption-in-python-3i5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
