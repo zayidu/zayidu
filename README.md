@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [sqlc: Type-Safe Querying in Go](https://dev.to/leapcell/sqlc-type-safe-querying-in-go-4a47)
-- [Morse-Lab: Bridging History and Technology with Python](https://dev.to/rushiharkal1/morse-lab-bridging-history-and-technology-with-python-2fda)
-- [Dataloader 3.0: A new algorithm to solve the N+1 Problem](https://dev.to/slickstef11/dataloader-30-a-new-algorithm-to-solve-the-n1-problem-3ham)
-- [Time to see what is in the boxes](https://dev.to/simongreennet/time-to-see-what-is-in-the-boxes-3d55)
-- [Unlocking Data Governance at Scale with Databricks Unity Catalog](https://dev.to/anil_kumarmoka_f93e418d0/unlocking-data-governance-at-scale-with-databricks-unity-catalog-3570)
+- [Why Learning to Code is So Damn Hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
+- [AWS refuerza su compromiso con el agua: más de 7 mil millones de litros al año para comunidades locales](https://dev.to/briansuarezsantiago/aws-refuerza-su-compromiso-con-el-agua-mas-de-7-mil-millones-de-litros-al-ano-para-comunidades-31hk)
+- [Manual Testing Techniques, Boundary Value Analysis, Decision Table Testing and The future of manual testing in the age of &lpar;AI&rpar;](https://dev.to/thillai_devikanthan_205a/manual-testing-techniques-boundary-value-analysis-decision-table-testing-and-the-future-of-manual-35og)
+- [Vibe coding a nifty Umbraco tool](https://dev.to/skttl/vibe-coding-a-nifty-umbraco-tool-3jic)
+- [Puzzle game](https://dev.to/bilal_ahmed_4caaba7490bbe/puzzle-game-265g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
