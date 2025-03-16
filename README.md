@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Weak API Authentication in Laravel &lpar;With Code Examples&rpar;](https://dev.to/pentest_testing_corp/how-to-fix-weak-api-authentication-in-laravel-with-code-examples-443c)
-- [How to Build Your Own Social Network with Web4 Lite from Linkspreed - An Open Source Facebook Clone @Home](https://dev.to/web4/how-to-build-your-own-social-network-with-web4-lite-from-linkspreed-an-open-source-facebook-47c4)
-- [How to Hide Local Git Changes Without Ignoring Files](https://dev.to/sarath191181208/what-git-hide-1da3)
-- [Dynamic Data in Test Automation: Guide to Best Practices](https://dev.to/radha_4c842d8e4362a7cdd9c/dynamic-data-in-test-automation-guide-to-best-practices-4acg)
-- [The Hangfire Cookbook: A Practical Guide to Background Job Processing in .NET and Azure](https://dev.to/mikaelkrief2/the-hangfire-cookbook-a-practical-guide-to-background-job-processing-in-net-and-azure-4mg0)
+- [problem solver](https://dev.to/just0_0kidding/problem-solver-p)
+- [How does ChatGPT produce text that sounds natural and human-like?](https://dev.to/keshava_72/how-does-chatgpt-produce-text-that-sounds-natural-and-human-like-4clm)
+- [JourneySkill is Live on Product Hunt! 🚀](https://dev.to/ashraful__malik/journeyskill-is-live-on-product-hunt-4506)
+- [WeCoded Challenge 2025](https://dev.to/aniruddhadak/wecoded-challenge-2025-5e94)
+- [🎉 Breaking News: Your Resume Just Got a Glow-Up! 🎉](https://dev.to/just0_0kidding/breaking-news-your-resume-just-got-a-glow-up-46ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
