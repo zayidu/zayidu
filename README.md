@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CEAPs_Data_analysis](https://dev.to/lucaslins_lima/ceapsdataanalysis-578)
-- [Best End to End Backend Projects](https://dev.to/rachitsinghh/best-end-to-end-backend-projects-5e15)
-- [have fun with Zeek](https://dev.to/clastrox/have-fun-with-zeek-4c5)
-- [[Boost]](https://dev.to/idevgames/-35dh)
-- [📱 How to Create a GitHub-Style Floating Header with Trig.js](https://dev.to/idevgames/how-to-create-a-github-style-floating-header-with-trigjs-3an9)
+- [How to Keep Customers Happy During Service Outages: Ticket Volume Reduction Guide](https://dev.to/leotulii/how-to-keep-customers-happy-during-service-outages-ticket-volume-reduction-guide-o97)
+- [How &lpar;not&rpar; to Expose Your Entra ID Password in Plain Text When Using AWS Transfer Family SFTP](https://dev.to/chkso/how-not-to-expose-your-entra-id-password-in-plain-text-when-using-aws-transfer-family-sftp-3d9p)
+- [Check Out My Portfolio](https://dev.to/vimukthi_jayasanka_816593/check-out-my-portfolio-1k83)
+- [Overview: &quot;OWASP Top 10 for LLM Applications 2025: A Comprehensive Guide&quot;](https://dev.to/foxgem/overview-owasp-top-10-for-llm-applications-2025-a-comprehensive-guide-8pk)
+- [THIS](https://dev.to/jbz/this-1cch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
