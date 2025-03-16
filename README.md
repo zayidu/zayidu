@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10X faster TypeScript, new HTML attributes, Google Gemma 3, and more](https://dev.to/thisweekinjavascript/10x-faster-typescript-new-html-attributes-google-gemma-3-and-more-520h)
-- [🌩️ Week 11: Mastering AWS CloudFormation with Hands-on Projects 🚀](https://dev.to/xetnopnawab/week-11-mastering-aws-cloudformation-with-hands-on-projects-1p0i)
-- [BEAR OS: The best kernel.](https://dev.to/nopangel/bear-os-the-best-kernel-58h)
-- [Secure and Scalable File Sharing with Azure Files: A Step-by-Step Guide](https://dev.to/chinonso_ukadike/secure-and-scalable-file-sharing-with-azure-files-a-step-by-step-guide-1g7n)
-- [Git Branching Strategies: A Comprehensive Guide](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh)
+- [Why Python is Taking Over Electronics Programming](https://dev.to/coursedia/why-python-is-taking-over-electronics-programming-3mn)
+- [Building a Multi-Section Page for a Game InterfaceT](https://dev.to/ouma_ouma/building-a-multi-section-page-for-a-game-interfacet-56g2)
+- [AWS Community Days 2025](https://dev.to/aws-builders/aws-community-days-2025-5hna)
+- [React এবং Vite: একটি দ্রুত ডেভেলপমেন্ট কম্বো](https://dev.to/programmerhasan/react-ebn-vite-ektti-drut-ddebhelpmentt-kmbo-gj3)
+- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-1g1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
