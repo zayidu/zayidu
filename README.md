@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Task Management and Staying Motivated](https://dev.to/taskframe_team/the-psychology-of-task-management-and-staying-motivated-4aod)
-- [Making the internet more accesible for elderly users](https://dev.to/hiddes03/making-the-internet-more-accesible-for-elderly-users-1m)
-- [Variables and GO!](https://dev.to/selfish_dev/variables-and-go-1ml9)
-- [How To Get Web Development Clients](https://dev.to/webdevamin/how-to-get-web-development-clients-5gb1)
-- [🗄️ Caching Patterns &amp; Strategies: A Comprehensive Guide 🚀](https://dev.to/devcorner/caching-patterns-strategies-a-comprehensive-guide-3mpo)
+- [REAL TIME PROJECT -3&lpar;Mini Project Completed: Grafana for SCM Monitoring&rpar;](https://dev.to/devops_methodology_d2b67f/real-time-project-3mini-project-completed-grafana-for-scm-monitoring-8de)
+- [Detecting Forbidden Functions in Laravel with PHPUnit](https://dev.to/tegos/detecting-forbidden-functions-in-laravel-with-phpunit-4n6f)
+- [[Boost]](https://dev.to/golthi_rithvik_26/-i3k)
+- [Go Lang Part - 01](https://dev.to/mallikarjuna/go-lang-part-01-2abc)
+- [154/365 | ¥10M Job Challenge - detail and persistence](https://dev.to/kameken100/154365-y10m-job-challenge-detail-and-persistence-1j0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
