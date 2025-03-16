@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Tech Stack for App Development: Cost vs. Performance](https://dev.to/deepak_kumar_01114ce97046/choosing-the-right-tech-stack-for-app-development-cost-vs-performance-4e6d)
-- [Top 5 Effective Methods to Enhance API Performance](https://dev.to/mohamed_el_laithy/top-5-effective-methods-to-enhance-api-performance-51hi)
-- [How to create and print an invoice with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-and-print-an-invoice-with-tailwind-css-5hc6)
-- [Understanding Ripple &lpar;XRP&rpar; in Blockchain](https://dev.to/blessedtechnologist/understanding-ripple-xrp-in-blockchain-30c9)
-- [SQL Query Logical Order](https://dev.to/mohamed_el_laithy/sql-query-logical-order-15op)
+- [sqlc: Type-Safe Querying in Go](https://dev.to/leapcell/sqlc-type-safe-querying-in-go-4a47)
+- [Morse-Lab: Bridging History and Technology with Python](https://dev.to/rushiharkal1/morse-lab-bridging-history-and-technology-with-python-2fda)
+- [Dataloader 3.0: A new algorithm to solve the N+1 Problem](https://dev.to/slickstef11/dataloader-30-a-new-algorithm-to-solve-the-n1-problem-3ham)
+- [Time to see what is in the boxes](https://dev.to/simongreennet/time-to-see-what-is-in-the-boxes-3d55)
+- [Unlocking Data Governance at Scale with Databricks Unity Catalog](https://dev.to/anil_kumarmoka_f93e418d0/unlocking-data-governance-at-scale-with-databricks-unity-catalog-3570)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
