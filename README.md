@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/foxinfotech/-48d6)
-- [What is an ER Diagram](https://dev.to/mujahida_joynab_64c7407d8/what-is-an-er-diagram-198i)
-- [Understanding Data Pipelines: A Comprehensive Guide](https://dev.to/devcorner/understanding-data-pipelines-a-comprehensive-guide-35cp)
-- [🚀TypeScript 10x Lebih Ngebut: Inovasi Gede Buat Developer JavaScript](https://dev.to/ferryops/typescript-10x-lebih-ngebut-inovasi-gede-buat-developer-javascript-4gm1)
-- [React architecture](https://dev.to/victormarques92/react-architecture-4gfh)
+- [To Find Whether the Given Number is Prime or Not!!](https://dev.to/aafthab_ali/to-find-whether-the-given-number-is-prime-or-not-e00)
+- [Is Ionic Lagging Behind in Cross-Platform App Development?](https://dev.to/mmar58/is-ionic-lagging-behind-in-cross-platform-app-development-29hi)
+- [1. Introduction to C# and .NET framework](https://dev.to/yandralal/1-introduction-to-c-and-net-framework-26ck)
+- [O básico que você precisa saber sobre internet.](https://dev.to/gusvasconcelos/o-basico-que-voce-precisa-saber-sobre-internet-5g3k)
+- [Embarking on a C# Adventure: Unveiling the Topics Covered on Our Learning Journey](https://dev.to/yandralal/embarking-on-a-c-adventure-unveiling-the-topics-covered-on-our-learning-journey-50gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
