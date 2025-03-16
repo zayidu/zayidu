@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Your Project Discovered: Why Directories Are Your Secret Weapon](https://dev.to/dariubs/getting-your-project-discovered-why-directories-are-your-secret-weapon-23ei)
-- [[Boost]](https://dev.to/nivafy/-4o73)
-- [With the deprecation of create-react-app, this guide now uses Vite for React projects. Additionally, testing push notifications requires deploying the app, as Firebase needs HTTPS for message delivery. Follow the revised steps for seamless FCM integration.](https://dev.to/iamsujit/with-the-deprecation-of-create-react-app-this-guide-now-uses-vite-for-react-projects-45b5)
-- [Mastering Linux for DevOps: A Beginner&#39;s Guide Using Git Bash &amp; Linux Terminal](https://dev.to/robinrai2612/mastering-linux-for-devops-a-beginners-guide-using-git-bash-linux-terminal-21ko)
-- [Day 3: BackendChallenges.com - Why Multi-Tenancy Matters?](https://dev.to/learnwithparam/day-3-backendchallengescom-why-multi-tenancy-matters-fe6)
+- [10X faster TypeScript, new HTML attributes, Google Gemma 3, and more](https://dev.to/thisweekinjavascript/10x-faster-typescript-new-html-attributes-google-gemma-3-and-more-520h)
+- [🌩️ Week 11: Mastering AWS CloudFormation with Hands-on Projects 🚀](https://dev.to/xetnopnawab/week-11-mastering-aws-cloudformation-with-hands-on-projects-1p0i)
+- [BEAR OS: The best kernel.](https://dev.to/nopangel/bear-os-the-best-kernel-58h)
+- [Secure and Scalable File Sharing with Azure Files: A Step-by-Step Guide](https://dev.to/chinonso_ukadike/secure-and-scalable-file-sharing-with-azure-files-a-step-by-step-guide-1g7n)
+- [Git Branching Strategies: A Comprehensive Guide](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
