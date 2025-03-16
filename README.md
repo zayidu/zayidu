@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Building Side Projects Nobody Asked For](https://dev.to/gokulsidd/what-i-learned-building-side-projects-nobody-asked-for-2ihg)
-- [How to build MCP Servers and Test Locally from Scratch](https://dev.to/developer_harsh/how-to-build-mcp-servers-and-test-locally-from-scratch-3d4j)
-- [How to build MCP Servers and Clients from Scratch](https://dev.to/composiodev/how-to-build-mcp-servers-and-clients-from-scratch-4o2f)
-- [7 Tools that Make Me Productive as a Software Engineer](https://dev.to/ruppysuppy/7-tools-that-make-me-productive-as-a-software-engineer-4p3l)
-- [🚀 Built an 💰 Expense Tracker That Tracks Your Spending—Without Manual Entry! 🏦📊](https://dev.to/emilp/built-an-expense-tracker-that-tracks-your-spending-without-manual-entry-5h2k)
+- [Streamlined AI Image Generator Cuts Size by 50% Without Losing Quality](https://dev.to/mikeyoung44/streamlined-ai-image-generator-cuts-size-by-50-without-losing-quality-4a31)
+- [AI Breakthrough Makes Object Editing in Photos as Easy as Copy and Paste](https://dev.to/mikeyoung44/ai-breakthrough-makes-object-editing-in-photos-as-easy-as-copy-and-paste-29c8)
+- [AugMix in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-2-568g)
+- [DiLoCo: New Training Method Cuts AI Model Communication by 32x While Maintaining Performance](https://dev.to/mikeyoung44/diloco-new-training-method-cuts-ai-model-communication-by-32x-while-maintaining-performance-2k8a)
+- [AI Models Now Think Better with Longer Reasoning Chains, Study Shows](https://dev.to/mikeyoung44/ai-models-now-think-better-with-longer-reasoning-chains-study-shows-4f7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
