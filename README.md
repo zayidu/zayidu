@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
-- [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
-- [Amran Munir UK Software and IT Solutions Provider Company](https://dev.to/techno_insights_d8b5bd951/amran-munir-uk-software-and-it-solutions-provider-company-5cmk)
-- [When Getting Well Isn’t Happening Soon: My Experience with Long COVID](https://dev.to/nehamaity/when-getting-well-isnt-happening-soon-my-experience-with-long-covid-ed0)
-- [Comprehensive List of Programming Languages and Their Uses](https://dev.to/tene/comprehensive-list-of-programming-languages-and-their-uses-3p0f)
+- [A Backend-to-Full Stack Savior: AI Revamps the App Interface](https://dev.to/mjiee/a-backend-to-full-stack-savior-ai-revamps-the-app-interface-13hh)
+- [“The Hidden Shortcut to Open GitHub Repositories in VS Code”](https://dev.to/ramyasree_manthena_76c598/the-hidden-shortcut-to-open-github-repositories-in-vs-code-j9k)
+- [Server-Side vs. Client-Side Rendering: Which One Should You Choose?](https://dev.to/aryan015/server-side-vs-client-side-rendering-which-one-should-you-choose-1m2e)
+- [Roar! You&#39;ve Found Me Here!](https://dev.to/gabethebear/roar-youve-found-me-here-34c1)
+- [Holy Grail Layout](https://dev.to/thek2j/holy-grail-layout-2j8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
