@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Best Open Source Icon Library Options &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/25-best-open-source-icon-library-options-2025-edition-ne7)
-- [[AI Image Prompt Generator]&lpar;https://aiparabellum.com/ai-image-prompt-generator/&rpar; helps craft detailed prompts for AI art tools like Midjourney, DALL-E, and Stable Diffusion effortlessly.](https://dev.to/foxinfotech/ai-image-prompt-generatorhttpsaiparabellumcomai-image-prompt-generator-helps-craft-3khh)
-- [This algorithm resolves the NP-Hard Minimum Vertex Cover Problem in quadratic time, suggesting P = NP and delivering practical benefits across diverse fields, including artificial intelligence, medicine, and impact in the industries.](https://dev.to/frank_vega_987689489099bf/this-algorithm-resolves-the-np-hard-minimum-vertex-cover-problem-in-quadratic-time-suggesting-p--3949)
-- [Building a Robust AI Guardrails System with OpenAI-Part II](https://dev.to/sreeni5018/building-a-robust-ai-guardrails-system-with-openai-part-ii-46op)
-- [The Aegypti algorithm offers a linear-time solution to triangle finding, potentially revolutionizing our understanding of graph algorithm complexity.](https://dev.to/frank_vega_987689489099bf/the-aegypti-algorithm-offers-a-linear-time-solution-to-triangle-finding-potentially-3bk)
+- [I created a Japanese Learning Web Application with Nuxt and PrimeVue](https://dev.to/doantrongnam/i-created-a-japanese-learning-web-application-with-nuxt-and-primevue-581k)
+- [The problems I faced when coding a Pomodoro Timer with React.js](https://dev.to/quibylix/the-problems-i-faced-when-coding-a-pomodoro-timer-with-reactjs-5bpd)
+- [Exception Handling](https://dev.to/neelakandan_ravi_2000/exception-handling-1pi5)
+- [Exploring the World of Game Development with Unity](https://dev.to/million_formula_3be3d915d/exploring-the-world-of-game-development-with-unity-3pb4)
+- [UX/UI Designs In Fintech](https://dev.to/althisolutions/uxui-designs-in-fintech-440l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
