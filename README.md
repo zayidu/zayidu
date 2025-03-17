@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs Rust: I Tested Both. The Winner Is…](https://dev.to/resource_bunk_1077cab07da/python-vs-rust-i-tested-both-the-winner-is-1d8b)
-- [Sliding Window Pattern in JavaScript: A Beginner-Friendly Guide](https://dev.to/biswasprasana001/sliding-window-pattern-in-javascript-a-beginner-friendly-guide-2kpo)
-- [How AI is Changing Affiliate Marketing: The Future of Automated Earnings](https://dev.to/savemitra/how-ai-is-changing-affiliate-marketing-the-future-of-automated-earnings-4mfk)
-- [Python Cheats for Bypassing CAPTCHAs in 2025](https://dev.to/snappytuts/python-cheats-for-bypassing-captchas-in-2025-47og)
-- [How To Deploy a React + Vite Application with cPanel Shared Hosting](https://dev.to/programmerhasan/how-to-deploy-a-react-vite-application-with-cpanel-shared-hosting-421g)
+- [TRISUM: A Hybrid Graph-Based Keyword Extraction Algorithm 🚀](https://dev.to/talhaahsan/trisum-a-hybrid-graph-based-keyword-extraction-algorithm-1p2c)
+- [Mastering MuleSoft Integration: Patterns, Architecture, and Best Practices](https://dev.to/kapusto/mastering-mulesoft-integration-patterns-architecture-and-best-practices-3e7i)
+- [How to build your Solana sniper bot &lpar;4&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-4-55c3)
+- [Unlocking AI Potential with Gemma 3: A Comprehensive Guide for Developers, Businesses, and Innovators](https://dev.to/jayptl_rq/unlocking-ai-potential-with-gemma-3-a-comprehensive-guide-for-developers-businesses-and-3o8)
+- [Common Task Management Mistakes and How to Avoid Them](https://dev.to/taskframe_team/common-task-management-mistakes-and-how-to-avoid-them-113k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
