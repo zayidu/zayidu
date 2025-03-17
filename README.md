@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Balanceamento de Carga &lpar;Loading Balacing&rpar;](https://dev.to/yuripeixinho/balanceamento-de-carga-loading-balacing-4ap4)
-- [The Role of AI in Detecting Software Vulnerabilities](https://dev.to/kartikmehta8/the-role-of-ai-in-detecting-software-vulnerabilities-1p4i)
-- [Are Your AWS CloudTrail Costs Out of Control? Here’s Why](https://dev.to/aws-builders/are-your-aws-cloudtrail-costs-out-of-control-heres-why-pn9)
-- [Comparing LEGO SPIKE Prime Programming : Which Is Best for Robotics Competitions? - 2](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-2-3pb1)
-- [Cache mutex locks using Spring boot](https://dev.to/prav_myls_3b497e599d01fde/cache-mutex-locks-using-spring-boot-3fk9)
+- [25+ Best Open Source Icon Library Options &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/25-best-open-source-icon-library-options-2025-edition-ne7)
+- [[AI Image Prompt Generator]&lpar;https://aiparabellum.com/ai-image-prompt-generator/&rpar; helps craft detailed prompts for AI art tools like Midjourney, DALL-E, and Stable Diffusion effortlessly.](https://dev.to/foxinfotech/ai-image-prompt-generatorhttpsaiparabellumcomai-image-prompt-generator-helps-craft-3khh)
+- [This algorithm resolves the NP-Hard Minimum Vertex Cover Problem in quadratic time, suggesting P = NP and delivering practical benefits across diverse fields, including artificial intelligence, medicine, and impact in the industries.](https://dev.to/frank_vega_987689489099bf/this-algorithm-resolves-the-np-hard-minimum-vertex-cover-problem-in-quadratic-time-suggesting-p--3949)
+- [Building a Robust AI Guardrails System with OpenAI-Part II](https://dev.to/sreeni5018/building-a-robust-ai-guardrails-system-with-openai-part-ii-46op)
+- [The Aegypti algorithm offers a linear-time solution to triangle finding, potentially revolutionizing our understanding of graph algorithm complexity.](https://dev.to/frank_vega_987689489099bf/the-aegypti-algorithm-offers-a-linear-time-solution-to-triangle-finding-potentially-3bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
