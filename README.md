@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Aggregation Pipeline Support in the MongoDB PHP Driver](https://dev.to/mongodb/better-aggregation-pipeline-support-in-the-mongodb-php-driver-30g1)
-- [Cyber Risk Management for Legal Firms: Protect Client Data with Confidence](https://dev.to/ostrichcyberrisk/cyber-risk-management-for-legal-firms-protect-client-data-with-confidence-1d36)
-- [Master Advanced CSS Selectors: Techniques You Need in 2025](https://dev.to/teki_solves_fb72717580279/master-advanced-css-selectors-techniques-you-need-in-2025-22bf)
-- [What is Material UI? &lpar;React/JavaScript&rpar;](https://dev.to/peytonstrahan/what-is-material-ui-reactjavascript-145f)
-- [Using IaC &lpar;Terraform&rpar; to Deploy a FastAPI Microservice on EKS with for Datadog Monitoring](https://dev.to/sirlawdin/using-iac-terraform-to-deploy-a-fastapi-microservice-on-eks-with-for-datadog-monitoring-16b)
+- [How to code like a boss?](https://dev.to/matthijsschuurman/how-to-code-like-a-boss-2i8)
+- [Programming Doesn’t Happen at the Keyboard — But It Also Does](https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154)
+- [What exactly is Active Directory?](https://dev.to/timo_reusch/what-exactly-is-active-directory-389d)
+- [RootMe CTF](https://dev.to/khelil_cherfimohamedfar/rootme-ctf-12e9)
+- [What is DevRel and why are they important?](https://dev.to/macmartins/what-is-devrel-and-why-are-they-important-2727)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
