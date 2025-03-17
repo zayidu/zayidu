@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a JS pytorch clone with WebGPU](https://dev.to/ndesmic/building-a-js-pytorch-clone-with-webgpu-3m7h)
-- [API Security: The First Steps Toward a Fortified Backend](https://dev.to/mungaivic/api-security-the-first-steps-toward-a-fortified-backend-48ie)
-- [Mutually Exclusive Checkbox Selection with Reactive Forms](https://dev.to/goangu/mutually-exclusive-checkbox-selection-with-reactive-forms-4l0c)
-- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-1ok4)
-- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-3n6l)
+- [C# da struct](https://dev.to/sanjar777/c-da-struct-1hf2)
+- [Long-running jobs in Temporal.io](https://dev.to/fpolster/long-running-jobs-in-temporalio-2e6a)
+- [How to switch Node.js version: A cross-platform guide for NVM and alternatives](https://dev.to/leemeganj/how-to-switch-nodejs-version-a-cross-platform-guide-for-nvm-and-alternatives-11pk)
+- [Trig.js Tutorial: How to Animate on Scroll &lpar;AOS Made Easy&rpar; 🚀](https://dev.to/idevgames/trigjs-tutorial-how-to-animate-on-scroll-aos-made-easy-50l)
+- [What is Security? The Basics You Need to Know - Code Bastion](https://dev.to/shiyam_ks_af0bee1eefbbdc/what-is-security-the-basics-you-need-to-know-code-bastion-2976)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
