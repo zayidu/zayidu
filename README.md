@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Single Executable Applications with Node.js](https://dev.to/this-is-learning/building-single-executable-applications-with-nodejs-16k3)
-- [Top 100 PHP Functions Every Developer Should Know](https://dev.to/robin-ivi/top-100-php-functions-every-developer-should-know-1ecg)
-- [Your framework sucks when it comes to cloud integration &lpar;and I believe AWS should do more about it&rpar;](https://dev.to/aws-builders/your-framework-sucks-when-it-comes-to-cloud-integration-and-i-believe-aws-should-do-more-about-it-oj7)
-- [Deploying rapidly an enterprise grade Generative AI platform](https://dev.to/aairom/deploying-rapidly-an-enterprise-grade-generative-ai-platform-2p98)
-- [I Was Wrong About Email For Startups. Here’s Everything I Wish I Knew A Year Ago.](https://dev.to/prithwish_nath/i-was-wrong-about-email-for-startups-heres-everything-i-wish-i-knew-a-year-ago-4h63)
+- [Why every CTO needs AI-powered testing for better software and business growth](https://dev.to/morrismoses149/why-every-cto-needs-ai-powered-testing-for-better-software-and-business-growth-139p)
+- [Local functions in standard C++ &lpar;kind of...&rpar;](https://dev.to/martinlicht/local-functions-in-standard-c-kind-of-hd6)
+- [Getting Started with Vue.js](https://dev.to/khamal22/getting-started-with-vuejs-1f6e)
+- [Test-Driven Development: Write Tests First, Code Later](https://dev.to/lovestaco/test-driven-development-write-tests-first-code-later-2d90)
+- [The long double trouble with MinGW and Windows](https://dev.to/martinlicht/the-long-double-trouble-with-mingw-and-windows-55kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
