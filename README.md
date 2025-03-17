@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A new GSAP Nuxt Module](https://dev.to/lucaargentieri/a-new-gsap-nuxt-module-4fj4)
-- [Schema Validation vs. Contract Testing: Understanding the Differences](https://dev.to/marciorc_/schema-validation-vs-contract-testing-understanding-the-differences-58ji)
-- [Artificial Intelligence: A Breakdown of Must-Know Buzzwords](https://dev.to/sabahshariq/artificial-intelligence-a-breakdown-of-must-know-buzzwords-2l10)
-- [Day 0 - Learning Cybersecurity and Python](https://dev.to/rudth/day-0-learning-cybersecurity-and-python-396o)
-- [How to Apply for a New MEPCO Connection – Step-by-Step Guide](https://dev.to/humair_khan_c0a49bf5d070f/how-to-apply-for-a-new-mepco-connection-step-by-step-guide-19go)
+- [Better Aggregation Pipeline Support in the MongoDB PHP Driver](https://dev.to/mongodb/better-aggregation-pipeline-support-in-the-mongodb-php-driver-30g1)
+- [Cyber Risk Management for Legal Firms: Protect Client Data with Confidence](https://dev.to/ostrichcyberrisk/cyber-risk-management-for-legal-firms-protect-client-data-with-confidence-1d36)
+- [Master Advanced CSS Selectors: Techniques You Need in 2025](https://dev.to/teki_solves_fb72717580279/master-advanced-css-selectors-techniques-you-need-in-2025-22bf)
+- [What is Material UI? &lpar;React/JavaScript&rpar;](https://dev.to/peytonstrahan/what-is-material-ui-reactjavascript-145f)
+- [Using IaC &lpar;Terraform&rpar; to Deploy a FastAPI Microservice on EKS with for Datadog Monitoring](https://dev.to/sirlawdin/using-iac-terraform-to-deploy-a-fastapi-microservice-on-eks-with-for-datadog-monitoring-16b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
