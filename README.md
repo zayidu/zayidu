@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I can&#39;t believe it took me 5 years to stumble upon such a good read. :&rpar;](https://dev.to/jason_nathan/i-cant-believe-it-took-me-5-years-to-stumble-upon-such-a-good-read--1og)
-- [Handling Forms in React: Controlled vs. Uncontrolled Components](https://dev.to/hasunnilupul/handling-forms-in-react-controlled-vs-uncontrolled-components-27nh)
-- [TIL: AutoMapper Only Considers Simple Mappings When Validating Configurations](https://dev.to/canro91/til-automapper-only-considers-simple-mappings-when-validating-configurations-2bbh)
-- [Build a Speaking RAG Locally](https://dev.to/shelwyn_corte/build-a-speaking-rag-locally-3kap)
-- [[Boost]](https://dev.to/mohamed_swafi_de30804d139/-2hej)
+- [Struggling with Jira’s complexity? I found an insightful blog on the best Jira alternatives—a must-read for developers and teams looking for a simpler, more efficient project management tool! Check it out and upgrade your workflow! #JiraAlternatives](https://dev.to/pratham_naik_project_manager/struggling-with-jiras-complexity-i-found-an-insightful-blog-on-the-best-jira-alternatives-a-a52)
+- [Exploring the Cryptix General License: A Journey into Fairness and Open Source Sustainability](https://dev.to/laetitiaperraut/exploring-the-cryptix-general-license-a-journey-into-fairness-and-open-source-sustainability-1f8m)
+- [Blue Oak Model License 1.0.0: A Game Changer for Fair Code Licensing](https://dev.to/bobcars/blue-oak-model-license-100-a-game-changer-for-fair-code-licensing-1e9k)
+- [My newest amazing novel &quot;King of the Mountain&quot; cover picture.](https://dev.to/thomas_koszoru/my-newest-amazing-novel-king-of-the-mountain-cover-picture-193g)
+- [Tired of Jira’s complexity and high costs? There are better, simpler, and more efficient alternatives waiting for you! Discover the best project management tools that fit your team’s needs and boost productivity. Find your perfect Jira alternative today!](https://dev.to/rajesh_patel/tired-of-jiras-complexity-and-high-costs-there-are-better-simpler-and-more-efficient-2212)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
