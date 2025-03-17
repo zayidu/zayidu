@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: The Nim game](https://dev.to/jdxlabs/python-the-nim-game-m43)
-- [Mastering HTML Forms: A Comprehensive Guide](https://dev.to/thedevspace/mastering-html-forms-a-comprehensive-guide-2f9d)
-- [Multitasking is Ruining Your Code &lpar;and Your Brain&rpar;](https://dev.to/thelogicwarlock/multitasking-is-ruining-your-code-and-your-brain-e11)
-- [10 Best Essential Health Hacks for Developers Stuck at Their Desks](https://dev.to/futuristicgeeks/10-best-essential-health-hacks-for-developers-stuck-at-their-desks-i7p)
-- [How Blockchain and AI Are Transforming the World](https://dev.to/joinwithken/how-blockchain-and-ai-are-transforming-the-world-3njn)
+- [C# Struct](https://dev.to/alisher0909/c-struct-297f)
+- [A Beginner’s Guide to Pandas for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-pandas-for-data-analysis-2pdm)
+- [Customizing Vertical AI Agents for Domain-Specific Reasoning](https://dev.to/mentorsol/customizing-vertical-ai-agents-for-domain-specific-reasoning-eig)
+- [RM git submodule](https://dev.to/acrobat/rm-git-submodule-49hd)
+- [🌍 Multilingual React Made Easy: German &amp; Spanish Support in Next.js 🇩🇪🇪🇸](https://dev.to/aleksei_aleinikov/multilingual-react-made-easy-german-spanish-support-in-nextjs-4beh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
