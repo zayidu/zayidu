@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TRISUM: A Hybrid Graph-Based Keyword Extraction Algorithm 🚀](https://dev.to/talhaahsan/trisum-a-hybrid-graph-based-keyword-extraction-algorithm-1p2c)
-- [Mastering MuleSoft Integration: Patterns, Architecture, and Best Practices](https://dev.to/kapusto/mastering-mulesoft-integration-patterns-architecture-and-best-practices-3e7i)
-- [How to build your Solana sniper bot &lpar;4&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-4-55c3)
-- [Unlocking AI Potential with Gemma 3: A Comprehensive Guide for Developers, Businesses, and Innovators](https://dev.to/jayptl_rq/unlocking-ai-potential-with-gemma-3-a-comprehensive-guide-for-developers-businesses-and-3o8)
-- [Common Task Management Mistakes and How to Avoid Them](https://dev.to/taskframe_team/common-task-management-mistakes-and-how-to-avoid-them-113k)
+- [Is AI the Future, or Is It Already Here? 🤖](https://dev.to/diamantino_almeida/is-ai-the-future-or-is-it-already-here-d10)
+- [React vs. Svelte: A Developer&#39;s Honest Opinion](https://dev.to/ezek-iel/react-vs-svelte-a-developers-honest-opinion-jj7)
+- [💀 Insomni&#39;hack 2025 CTF write-up](https://dev.to/kkrypt0nn/insomnihack-2025-ctf-write-up-1boo)
+- [From JavaScript to VBA: Navigating Variable Declaration and Management](https://dev.to/michaellarocca/from-javascript-to-vba-navigating-variable-declaration-and-management-22cj)
+- [Quick tip: How to Build Local LLM RAG Apps with Ollama, DeepSeek-R1 and SingleStore](https://dev.to/singlestore/quick-tip-how-to-build-local-llm-rag-apps-with-ollama-deepseek-r1-and-singlestore-1nm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
