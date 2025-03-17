@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who the Hell is Going to Pay For This?](https://dev.to/adatole/who-the-hell-is-going-to-pay-for-this-428l)
-- [Step-by-Step Guide to the Website Development Process](https://dev.to/savvybrains/step-by-step-guide-to-the-website-development-process-4o12)
-- [Step-by-Step Guide to Create a Virtual Machine&lpar;VM&rpar; IN Microsoft Azure Portal.](https://dev.to/nelson_akpa01/step-by-step-guide-to-create-a-virtual-machinevm-in-microsoft-azure-portal-4fdb)
-- [Tamagui: Building Cross-Platform Apps Made Simple](https://dev.to/codeparrot/tamagui-building-cross-platform-apps-made-simple-7a0)
-- [Advanced OCI CLI Syntax and Commands](https://dev.to/farisdurrani/advanced-oci-cli-syntax-and-commands-4hpp)
+- [I can&#39;t believe it took me 5 years to stumble upon such a good read. :&rpar;](https://dev.to/jason_nathan/i-cant-believe-it-took-me-5-years-to-stumble-upon-such-a-good-read--1og)
+- [Handling Forms in React: Controlled vs. Uncontrolled Components](https://dev.to/hasunnilupul/handling-forms-in-react-controlled-vs-uncontrolled-components-27nh)
+- [TIL: AutoMapper Only Considers Simple Mappings When Validating Configurations](https://dev.to/canro91/til-automapper-only-considers-simple-mappings-when-validating-configurations-2bbh)
+- [Build a Speaking RAG Locally](https://dev.to/shelwyn_corte/build-a-speaking-rag-locally-3kap)
+- [[Boost]](https://dev.to/mohamed_swafi_de30804d139/-2hej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
