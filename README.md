@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a Japanese Learning Web Application with Nuxt and PrimeVue](https://dev.to/doantrongnam/i-created-a-japanese-learning-web-application-with-nuxt-and-primevue-581k)
-- [The problems I faced when coding a Pomodoro Timer with React.js](https://dev.to/quibylix/the-problems-i-faced-when-coding-a-pomodoro-timer-with-reactjs-5bpd)
-- [Exception Handling](https://dev.to/neelakandan_ravi_2000/exception-handling-1pi5)
-- [Exploring the World of Game Development with Unity](https://dev.to/million_formula_3be3d915d/exploring-the-world-of-game-development-with-unity-3pb4)
-- [UX/UI Designs In Fintech](https://dev.to/althisolutions/uxui-designs-in-fintech-440l)
+- [Who the Hell is Going to Pay For This?](https://dev.to/adatole/who-the-hell-is-going-to-pay-for-this-428l)
+- [Step-by-Step Guide to the Website Development Process](https://dev.to/savvybrains/step-by-step-guide-to-the-website-development-process-4o12)
+- [Step-by-Step Guide to Create a Virtual Machine&lpar;VM&rpar; IN Microsoft Azure Portal.](https://dev.to/nelson_akpa01/step-by-step-guide-to-create-a-virtual-machinevm-in-microsoft-azure-portal-4fdb)
+- [Tamagui: Building Cross-Platform Apps Made Simple](https://dev.to/codeparrot/tamagui-building-cross-platform-apps-made-simple-7a0)
+- [Advanced OCI CLI Syntax and Commands](https://dev.to/farisdurrani/advanced-oci-cli-syntax-and-commands-4hpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
