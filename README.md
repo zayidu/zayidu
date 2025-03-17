@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is AI the Future, or Is It Already Here? 🤖](https://dev.to/diamantino_almeida/is-ai-the-future-or-is-it-already-here-d10)
-- [React vs. Svelte: A Developer&#39;s Honest Opinion](https://dev.to/ezek-iel/react-vs-svelte-a-developers-honest-opinion-jj7)
-- [💀 Insomni&#39;hack 2025 CTF write-up](https://dev.to/kkrypt0nn/insomnihack-2025-ctf-write-up-1boo)
-- [From JavaScript to VBA: Navigating Variable Declaration and Management](https://dev.to/michaellarocca/from-javascript-to-vba-navigating-variable-declaration-and-management-22cj)
-- [Quick tip: How to Build Local LLM RAG Apps with Ollama, DeepSeek-R1 and SingleStore](https://dev.to/singlestore/quick-tip-how-to-build-local-llm-rag-apps-with-ollama-deepseek-r1-and-singlestore-1nm4)
+- [A new GSAP Nuxt Module](https://dev.to/lucaargentieri/a-new-gsap-nuxt-module-4fj4)
+- [Schema Validation vs. Contract Testing: Understanding the Differences](https://dev.to/marciorc_/schema-validation-vs-contract-testing-understanding-the-differences-58ji)
+- [Artificial Intelligence: A Breakdown of Must-Know Buzzwords](https://dev.to/sabahshariq/artificial-intelligence-a-breakdown-of-must-know-buzzwords-2l10)
+- [Day 0 - Learning Cybersecurity and Python](https://dev.to/rudth/day-0-learning-cybersecurity-and-python-396o)
+- [How to Apply for a New MEPCO Connection – Step-by-Step Guide](https://dev.to/humair_khan_c0a49bf5d070f/how-to-apply-for-a-new-mepco-connection-step-by-step-guide-19go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
