@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep Customers Happy During Service Outages: Ticket Volume Reduction Guide](https://dev.to/leotulii/how-to-keep-customers-happy-during-service-outages-ticket-volume-reduction-guide-o97)
-- [How &lpar;not&rpar; to Expose Your Entra ID Password in Plain Text When Using AWS Transfer Family SFTP](https://dev.to/chkso/how-not-to-expose-your-entra-id-password-in-plain-text-when-using-aws-transfer-family-sftp-3d9p)
-- [Check Out My Portfolio](https://dev.to/vimukthi_jayasanka_816593/check-out-my-portfolio-1k83)
-- [Overview: &quot;OWASP Top 10 for LLM Applications 2025: A Comprehensive Guide&quot;](https://dev.to/foxgem/overview-owasp-top-10-for-llm-applications-2025-a-comprehensive-guide-8pk)
-- [THIS](https://dev.to/jbz/this-1cch)
+- [Balanceamento de Carga &lpar;Loading Balacing&rpar;](https://dev.to/yuripeixinho/balanceamento-de-carga-loading-balacing-4ap4)
+- [The Role of AI in Detecting Software Vulnerabilities](https://dev.to/kartikmehta8/the-role-of-ai-in-detecting-software-vulnerabilities-1p4i)
+- [Are Your AWS CloudTrail Costs Out of Control? Here’s Why](https://dev.to/aws-builders/are-your-aws-cloudtrail-costs-out-of-control-heres-why-pn9)
+- [Comparing LEGO SPIKE Prime Programming : Which Is Best for Robotics Competitions? - 2](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-2-3pb1)
+- [Cache mutex locks using Spring boot](https://dev.to/prav_myls_3b497e599d01fde/cache-mutex-locks-using-spring-boot-3fk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
