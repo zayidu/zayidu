@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Struct](https://dev.to/alisher0909/c-struct-297f)
-- [A Beginner’s Guide to Pandas for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-pandas-for-data-analysis-2pdm)
-- [Customizing Vertical AI Agents for Domain-Specific Reasoning](https://dev.to/mentorsol/customizing-vertical-ai-agents-for-domain-specific-reasoning-eig)
-- [RM git submodule](https://dev.to/acrobat/rm-git-submodule-49hd)
-- [🌍 Multilingual React Made Easy: German &amp; Spanish Support in Next.js 🇩🇪🇪🇸](https://dev.to/aleksei_aleinikov/multilingual-react-made-easy-german-spanish-support-in-nextjs-4beh)
+- [Building a JS pytorch clone with WebGPU](https://dev.to/ndesmic/building-a-js-pytorch-clone-with-webgpu-3m7h)
+- [API Security: The First Steps Toward a Fortified Backend](https://dev.to/mungaivic/api-security-the-first-steps-toward-a-fortified-backend-48ie)
+- [Mutually Exclusive Checkbox Selection with Reactive Forms](https://dev.to/goangu/mutually-exclusive-checkbox-selection-with-reactive-forms-4l0c)
+- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-1ok4)
+- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-3n6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
