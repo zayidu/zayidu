@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Users Say About Their Experience with Intel Evo Laptops](https://dev.to/charliekatherine/what-users-say-about-their-experience-with-intel-evo-laptops-4la9)
-- [Top 20 Usability Testing Tools for Every Budget in 2025](https://dev.to/lollypopdesign/top-20-usability-testing-tools-for-every-budget-in-2025-3gfd)
-- [Working with Helix ALM REST API Part 6: Automated Testing](https://dev.to/mecomis/working-with-helix-alm-rest-api-part-6-automated-testing-43bm)
-- [I Built an Open-Source AI Chatbot That You Can Fully Own – No Vendor Lock-In! 🚀](https://dev.to/chattermate/i-built-an-open-source-ai-chatbot-that-you-can-fully-own-no-vendor-lock-in-1efg)
-- [Currently i am looking for best jira alternative than i find this blog , Great recommendations and tools list i like it so i want to share this with you audience ! # developers #jiraalternatives](https://dev.to/rajesh_patel/currently-i-am-looking-for-best-jira-alternative-than-i-find-this-blog-great-recommendations-and-3kb4)
+- [Building Single Executable Applications with Node.js](https://dev.to/this-is-learning/building-single-executable-applications-with-nodejs-16k3)
+- [Top 100 PHP Functions Every Developer Should Know](https://dev.to/robin-ivi/top-100-php-functions-every-developer-should-know-1ecg)
+- [Your framework sucks when it comes to cloud integration &lpar;and I believe AWS should do more about it&rpar;](https://dev.to/aws-builders/your-framework-sucks-when-it-comes-to-cloud-integration-and-i-believe-aws-should-do-more-about-it-oj7)
+- [Deploying rapidly an enterprise grade Generative AI platform](https://dev.to/aairom/deploying-rapidly-an-enterprise-grade-generative-ai-platform-2p98)
+- [I Was Wrong About Email For Startups. Here’s Everything I Wish I Knew A Year Ago.](https://dev.to/prithwish_nath/i-was-wrong-about-email-for-startups-heres-everything-i-wish-i-knew-a-year-ago-4h63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
