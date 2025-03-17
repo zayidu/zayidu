@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# da struct](https://dev.to/sanjar777/c-da-struct-1hf2)
-- [Long-running jobs in Temporal.io](https://dev.to/fpolster/long-running-jobs-in-temporalio-2e6a)
-- [How to switch Node.js version: A cross-platform guide for NVM and alternatives](https://dev.to/leemeganj/how-to-switch-nodejs-version-a-cross-platform-guide-for-nvm-and-alternatives-11pk)
-- [Trig.js Tutorial: How to Animate on Scroll &lpar;AOS Made Easy&rpar; 🚀](https://dev.to/idevgames/trigjs-tutorial-how-to-animate-on-scroll-aos-made-easy-50l)
-- [What is Security? The Basics You Need to Know - Code Bastion](https://dev.to/shiyam_ks_af0bee1eefbbdc/what-is-security-the-basics-you-need-to-know-code-bastion-2976)
+- [Python vs Rust: I Tested Both. The Winner Is…](https://dev.to/resource_bunk_1077cab07da/python-vs-rust-i-tested-both-the-winner-is-1d8b)
+- [Sliding Window Pattern in JavaScript: A Beginner-Friendly Guide](https://dev.to/biswasprasana001/sliding-window-pattern-in-javascript-a-beginner-friendly-guide-2kpo)
+- [How AI is Changing Affiliate Marketing: The Future of Automated Earnings](https://dev.to/savemitra/how-ai-is-changing-affiliate-marketing-the-future-of-automated-earnings-4mfk)
+- [Python Cheats for Bypassing CAPTCHAs in 2025](https://dev.to/snappytuts/python-cheats-for-bypassing-captchas-in-2025-47og)
+- [How To Deploy a React + Vite Application with cPanel Shared Hosting](https://dev.to/programmerhasan/how-to-deploy-a-react-vite-application-with-cpanel-shared-hosting-421g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
