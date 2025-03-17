@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cloudflare Caching: What Gets Cached and How to Control It](https://dev.to/derlin/understanding-cloudflare-caching-what-gets-cached-and-how-to-control-it-1fee)
-- [Top Technologies Driving Fast Channel Distribution in 2025](https://dev.to/livestreaming/top-technologies-driving-fast-channel-distribution-in-2025-2mp4)
-- [🚀 Just launched my API for load testing &amp; request simulation!](https://dev.to/amanitoamawebdevelp1/just-launched-my-api-for-load-testing-request-simulation-5clo)
-- [Process a stream of data using a gatherer](https://dev.to/ibmdeveloper/process-a-stream-of-data-using-a-gatherer-3kb9)
-- [How to extract mp4 video from m3u8 link](https://dev.to/anym3u8player/how-to-extract-mp4-video-from-m3u8-link-25la)
+- [Python: The Nim game](https://dev.to/jdxlabs/python-the-nim-game-m43)
+- [Mastering HTML Forms: A Comprehensive Guide](https://dev.to/thedevspace/mastering-html-forms-a-comprehensive-guide-2f9d)
+- [Multitasking is Ruining Your Code &lpar;and Your Brain&rpar;](https://dev.to/thelogicwarlock/multitasking-is-ruining-your-code-and-your-brain-e11)
+- [10 Best Essential Health Hacks for Developers Stuck at Their Desks](https://dev.to/futuristicgeeks/10-best-essential-health-hacks-for-developers-stuck-at-their-desks-i7p)
+- [How Blockchain and AI Are Transforming the World](https://dev.to/joinwithken/how-blockchain-and-ai-are-transforming-the-world-3njn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
