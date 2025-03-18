@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Automation Strategy: A Practical Approach to Scalable and Reliable Testing](https://dev.to/testwithtorin/test-automation-strategy-a-practical-approach-to-scalable-and-reliable-testing-4kgj)
-- [Introducing a Lightweight Apache JMeter Docker Image: Efficient Load Testing Made Simple](https://dev.to/qainsights/introducing-a-lightweight-apache-jmeter-docker-image-efficient-load-testing-made-simple-430g)
-- [How to Build an AI-Powered Open-Source Financial Manager ⚡️using Maybe Finance &amp; CopilotKit🪁](https://dev.to/copilotkit/how-to-build-an-ai-powered-open-source-financial-manager-using-maybe-finance-copilotkit-4441)
-- [How to Crater Your Database, Part Two - Aggregations](https://dev.to/aws-builders/how-to-crater-your-database-part-two-aggregations-322d)
-- [We&#39;re live on Product Hunt! meooow.link/bucket](https://dev.to/fmerian/were-live-on-product-hunt-meooowlinkbucket-1foh)
+- [Study Notes 6.3-4: What is Kafka &amp; Confluent Cloud](https://dev.to/pizofreude/study-notes-63-4-what-is-kafka-confluent-cloud-gfm)
+- [Introduction to Azure Databricks](https://dev.to/madgan95/introduction-to-azure-databricks-5gle)
+- [have a look to this](https://dev.to/ooye_sanket/have-a-look-to-this-ok6)
+- [[Boost]](https://dev.to/ooye_sanket/-2jo8)
+- [Study Notes 6.1-2: Introduction to Stream Processing](https://dev.to/pizofreude/study-notes-61-2-introduction-to-stream-processing-ff0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
