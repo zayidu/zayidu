@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned Building a React Auth Library with Cursor.](https://dev.to/letsbelopez/lessons-learned-building-a-react-auth-library-with-cursor-2ko3)
-- [🚀 SOLID: The Practical Guide to Maintainable Code](https://dev.to/sivolc05/solid-the-practical-guide-to-maintainable-code-2ae8)
-- [Securing Edge Devices: Mitigating Brute Force Attacks with Zero Trust](https://dev.to/shyamavni/securing-edge-devices-mitigating-brute-force-attacks-with-zero-trust-3don)
-- [The Meteor 3.0 Migration: A Space Exploration Mission](https://dev.to/meteor/the-meteor-30-migration-a-space-exploration-mission-3gb5)
-- [🚀 SOLID: O Guia Prático para Código Manutenível](https://dev.to/sivolc05/solid-o-guia-pratico-para-codigo-manutenivel-26pn)
+- [Load Balancer vs Reverse Proxy: What&#39;s the Difference?](https://dev.to/criscmd/load-balancer-vs-reverse-proxy-whats-the-difference-30o5)
+- [Redis Headless Service vs. Cluster IP Service: Which one should you use?](https://dev.to/suvink/redis-headless-service-vs-cluster-ip-service-which-one-should-you-use-2hio)
+- [JavaScript let, var, and const: Understanding the Differences With Examples](https://dev.to/buildwithgagan/javascript-let-var-and-const-understanding-the-differences-with-examples-om8)
+- [How to Install Calico CNI Kubernetes k8s: Step by Step Guide](https://dev.to/alakkadshaw/how-to-install-calico-cni-kubernetes-k8s-step-by-step-guide-370a)
+- [The Secret to Faster, More Efficient AI Prompt Management – You Won’t Believe What These Tools Can Do!](https://dev.to/andriimz/the-secret-to-faster-more-efficient-ai-prompt-management-you-wont-believe-what-these-tools-can-472d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
