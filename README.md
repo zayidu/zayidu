@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Insight Hub: Visualizing the Digital Ledger Universe](https://dev.to/binarygarage/blockchain-insight-hub-visualizing-the-digital-ledger-universe-f3)
-- [Coming Soon: JavaScript for Rails Developers](https://dev.to/railsdesigner/coming-soon-javascript-for-rails-developers-p44)
-- [How to make Tool Tips on JavaFx?](https://dev.to/victor_hugogasparquinn_/how-to-make-tool-tips-on-javafx-fl6)
-- [Introducing Fluxor: A New Rust Web Framework for Data Science](https://dev.to/montasir/introducing-fluxor-a-new-rust-web-framework-for-data-science-3lmh)
-- [VMware Carbon Black Cloud: Revolutionizing Endpoint Security for Modern Threats](https://dev.to/kevin_asutton_/vmware-carbon-black-cloud-revolutionizing-endpoint-security-for-modern-threats-2ff9)
+- [Arduino Robot Controlled by Claude AI MCP](https://dev.to/vishalmysore/arduino-robot-controlled-by-claude-ai-mcp-2fja)
+- [Boost Your Coding Efficiency with the Ultimate Modern JavaScript Cheat Sheet!](https://dev.to/teki_solves_fb72717580279/boost-your-coding-efficiency-with-the-ultimate-modern-javascript-cheat-sheet-5e87)
+- [Building a Simple Counter App with Elixir and Phoenix LiveView](https://dev.to/msnmongare/building-a-simple-counter-app-with-elixir-and-phoenix-liveview-gdf)
+- [Do Caos à Simplicidade: Começando com Spring Boot](https://dev.to/gutocabral/do-caos-a-simplicidade-comecando-com-spring-boot-2a6b)
+- [State Pattern na prática - pare de sofrer com lógicas de estado bagunçadas](https://dev.to/h1bertobarbosa/state-pattern-na-pratica-pare-de-sofrer-com-logicas-de-estado-baguncadas-3no9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
