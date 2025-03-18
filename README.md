@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
+- [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
+- [SPL assists MongoDB: Grouping adjacent documents](https://dev.to/esproc_spl/spl-assists-mongodb-grouping-adjacent-documents-fjg)
+- [Build a Production-Ready SaaS Application](https://dev.to/encore/build-a-production-ready-saas-application-44nb)
 - [try yaps.chat - &quot;Don&#39;t be like Bezos. Own your gf. Don&#39;t let Zuck to cook smth&quot;.](https://dev.to/abdibrokhim/try-yapschat-dont-be-like-bezos-own-your-gf-dont-let-zuck-to-cook-smth-fam)
-- [ServiceNow and GitHub Integration for Database Change Automation](https://dev.to/bytebase/servicenow-and-github-integration-for-database-change-automation-21e0)
-- [Going from an Idea to MVP in Weeks: PromptPanda&#39;s Launch&lpar;es&rpar;](https://dev.to/wasp/going-from-an-idea-to-mvp-in-weeks-promptpandas-launches-287n)
-- [How to Prevent Cross-Site Script Inclusion &lpar;XSSI&rpar; in Laravel](https://dev.to/pentest_testing_corp/how-to-prevent-cross-site-script-inclusion-xssi-in-laravel-5cea)
-- [Chemistry Meets Code](https://dev.to/aniruddhaadak/chemistry-meets-code-4l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
