@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Payment APIs: Simplifying Business Transactions](https://dev.to/apilover/payment-apis-simplifying-business-transactions-4hfc)
-- [Create Prompts That Get AI to See Your Vision](https://dev.to/foxinfotech/create-prompts-that-get-ai-to-see-your-vision-4mhd)
-- [open source notification Inbox](https://dev.to/novu/open-source-notification-inbox-2fji)
-- [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
-- [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
+- [Just posted this article](https://dev.to/syakirurahman/just-posted-this-article-498g)
+- [Top 10 AI Figma / Design to Code Tools to Build Web App Effortlessly](https://dev.to/syakirurahman/top-10-ai-figma-design-to-code-tools-to-build-web-app-effortlessly-3lod)
+- [HMPL.js on DevHunt!🔥](https://dev.to/hmpljs/hmpljs-on-devhunt-2eep)
+- [Exception Handling,throw,throws](https://dev.to/neelakandan_ravi_2000/exception-handlingthrowthrows-3fdo)
+- [✅ Image Quality: AVIF vs WebP vs JPEG/PNG](https://dev.to/dharamgfx/image-quality-avif-vs-webp-vs-jpegpng-416o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
