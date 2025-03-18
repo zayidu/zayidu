@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino Robot Controlled by Claude AI MCP](https://dev.to/vishalmysore/arduino-robot-controlled-by-claude-ai-mcp-2fja)
-- [Boost Your Coding Efficiency with the Ultimate Modern JavaScript Cheat Sheet!](https://dev.to/teki_solves_fb72717580279/boost-your-coding-efficiency-with-the-ultimate-modern-javascript-cheat-sheet-5e87)
-- [Building a Simple Counter App with Elixir and Phoenix LiveView](https://dev.to/msnmongare/building-a-simple-counter-app-with-elixir-and-phoenix-liveview-gdf)
-- [Do Caos à Simplicidade: Começando com Spring Boot](https://dev.to/gutocabral/do-caos-a-simplicidade-comecando-com-spring-boot-2a6b)
-- [State Pattern na prática - pare de sofrer com lógicas de estado bagunçadas](https://dev.to/h1bertobarbosa/state-pattern-na-pratica-pare-de-sofrer-com-logicas-de-estado-baguncadas-3no9)
+- [Quadratic: The AI-Powered Spreadsheet for Modern Teams](https://dev.to/quadraticai/quadratic-the-ai-powered-spreadsheet-for-modern-teams-gh2)
+- [algorithms : intro to sorting algorithms 2 {merge sort and quick sort }](https://dev.to/atoms19/algorithms-1-intro-to-sorting-algorithms-i9p)
+- [From Employee to Entrepreneur: The Identity Shift No One Talks About by Successful Entrepreneurs such as Yasmin Bashirova](https://dev.to/yasminbashirova/from-employee-to-entrepreneur-the-identity-shift-no-one-talks-about-by-successful-entrepreneurs-1p5l)
+- [algorithms : intro to sorting algorithms { insertion sort and selection sort }](https://dev.to/atoms19/algorithms-intro-to-sorting-algorithms-insertion-sort-and-selection-sort--1105)
+- [Correct the mistakes of the character recognition software](https://dev.to/maddiepst/correct-the-mistakes-of-the-character-recognition-software-33gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
