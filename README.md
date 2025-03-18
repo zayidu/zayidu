@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Command-Line Arguments in Go: How to Use the Flag Library](https://dev.to/leapcell/command-line-arguments-in-go-how-to-use-the-flag-library-1j62)
+- [🚀 Your Daily Crypto Job Digest For 18 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-march-4i9p)
+- [Implementing Load More Animation in React Native with Reanimated and Lottie](https://dev.to/amitkumar13/implementing-load-more-animation-in-react-native-with-reanimated-and-lottie-3ddh)
+- [The Quite Nice and Fairly Accurate Intro to JS Primitive Data Types &lpar;pt. 1&rpar;](https://dev.to/ale3oula/the-quite-nice-and-fairly-accurate-intro-to-js-primitive-data-types-pt-1-oj4)
 - [Just posted this article](https://dev.to/syakirurahman/just-posted-this-article-498g)
-- [Top 10 AI Figma / Design to Code Tools to Build Web App Effortlessly](https://dev.to/syakirurahman/top-10-ai-figma-design-to-code-tools-to-build-web-app-effortlessly-3lod)
-- [HMPL.js on DevHunt!🔥](https://dev.to/hmpljs/hmpljs-on-devhunt-2eep)
-- [Exception Handling,throw,throws](https://dev.to/neelakandan_ravi_2000/exception-handlingthrowthrows-3fdo)
-- [✅ Image Quality: AVIF vs WebP vs JPEG/PNG](https://dev.to/dharamgfx/image-quality-avif-vs-webp-vs-jpegpng-416o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
