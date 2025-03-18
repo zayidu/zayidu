@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Payment APIs: Simplifying Business Transactions](https://dev.to/apilover/payment-apis-simplifying-business-transactions-4hfc)
+- [Create Prompts That Get AI to See Your Vision](https://dev.to/foxinfotech/create-prompts-that-get-ai-to-see-your-vision-4mhd)
+- [open source notification Inbox](https://dev.to/novu/open-source-notification-inbox-2fji)
 - [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
 - [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
-- [SPL assists MongoDB: Grouping adjacent documents](https://dev.to/esproc_spl/spl-assists-mongodb-grouping-adjacent-documents-fjg)
-- [Build a Production-Ready SaaS Application](https://dev.to/encore/build-a-production-ready-saas-application-44nb)
-- [try yaps.chat - &quot;Don&#39;t be like Bezos. Own your gf. Don&#39;t let Zuck to cook smth&quot;.](https://dev.to/abdibrokhim/try-yapschat-dont-be-like-bezos-own-your-gf-dont-let-zuck-to-cook-smth-fam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
