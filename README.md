@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Command-Line Arguments in Go: How to Use the Flag Library](https://dev.to/leapcell/command-line-arguments-in-go-how-to-use-the-flag-library-1j62)
-- [🚀 Your Daily Crypto Job Digest For 18 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-march-4i9p)
-- [Implementing Load More Animation in React Native with Reanimated and Lottie](https://dev.to/amitkumar13/implementing-load-more-animation-in-react-native-with-reanimated-and-lottie-3ddh)
-- [The Quite Nice and Fairly Accurate Intro to JS Primitive Data Types &lpar;pt. 1&rpar;](https://dev.to/ale3oula/the-quite-nice-and-fairly-accurate-intro-to-js-primitive-data-types-pt-1-oj4)
-- [Just posted this article](https://dev.to/syakirurahman/just-posted-this-article-498g)
+- [Test Automation Strategy: A Practical Approach to Scalable and Reliable Testing](https://dev.to/testwithtorin/test-automation-strategy-a-practical-approach-to-scalable-and-reliable-testing-4kgj)
+- [Introducing a Lightweight Apache JMeter Docker Image: Efficient Load Testing Made Simple](https://dev.to/qainsights/introducing-a-lightweight-apache-jmeter-docker-image-efficient-load-testing-made-simple-430g)
+- [How to Build an AI-Powered Open-Source Financial Manager ⚡️using Maybe Finance &amp; CopilotKit🪁](https://dev.to/copilotkit/how-to-build-an-ai-powered-open-source-financial-manager-using-maybe-finance-copilotkit-4441)
+- [How to Crater Your Database, Part Two - Aggregations](https://dev.to/aws-builders/how-to-crater-your-database-part-two-aggregations-322d)
+- [We&#39;re live on Product Hunt! meooow.link/bucket](https://dev.to/fmerian/were-live-on-product-hunt-meooowlinkbucket-1foh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
