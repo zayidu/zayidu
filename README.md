@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancer vs Reverse Proxy: What&#39;s the Difference?](https://dev.to/criscmd/load-balancer-vs-reverse-proxy-whats-the-difference-30o5)
-- [Redis Headless Service vs. Cluster IP Service: Which one should you use?](https://dev.to/suvink/redis-headless-service-vs-cluster-ip-service-which-one-should-you-use-2hio)
-- [JavaScript let, var, and const: Understanding the Differences With Examples](https://dev.to/buildwithgagan/javascript-let-var-and-const-understanding-the-differences-with-examples-om8)
-- [How to Install Calico CNI Kubernetes k8s: Step by Step Guide](https://dev.to/alakkadshaw/how-to-install-calico-cni-kubernetes-k8s-step-by-step-guide-370a)
-- [The Secret to Faster, More Efficient AI Prompt Management – You Won’t Believe What These Tools Can Do!](https://dev.to/andriimz/the-secret-to-faster-more-efficient-ai-prompt-management-you-wont-believe-what-these-tools-can-472d)
+- [DeepShell: Your self-hosted shell assistant](https://dev.to/abyss-c0re/deepshell-your-self-hosted-shell-assistant-1e74)
+- [Use Promise.all](https://dev.to/codescirahul/use-promiseall-4dam)
+- [Windows Security Alert: Signs of a Hack &amp; How to Remove Malware](https://dev.to/cybrpunked/windows-security-alert-signs-of-a-hack-how-to-remove-malware-1gin)
+- [Big-O en Español Parte 5](https://dev.to/martin_pi/big-o-en-espanol-parte-5-455e)
+- [Unveiling Amsterdam License: A New Frontier for Fair Code](https://dev.to/ahmmrizv9/unveiling-amsterdam-license-a-new-frontier-for-fair-code-2l36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
