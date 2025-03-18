@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Free SVG Icon Categories from Lineicons](https://dev.to/icons/top-10-free-svg-icon-categories-from-lineicons-1pj4)
+- [Mastering Microsoft Loop Storage Management: A Guide for Administrators and Users](https://dev.to/jaloplo/mastering-microsoft-loop-storage-management-a-guide-for-administrators-and-users-19i3)
+- [The Path to Becoming a Top 1% Programmer](https://dev.to/web_dev-usman/the-path-to-becoming-a-top-1-programmer-3f1k)
 - [Flutter or React Native? 5 Things That Should Influence Your Choice](https://dev.to/p_0c0278d/flutter-or-react-native-5-things-that-should-influence-your-choice-40cn)
 - [Hoppscotch Self-Host: The Open-Source Postman Alternative for On-Premise Hosting](https://dev.to/hoppscotch/hoppscotch-self-host-the-open-source-postman-alternative-for-on-premise-hosting-18ac)
-- [JavaScript’s New structuredClone&lpar;&rpar; Function – Say Goodbye to Deep Cloning Headaches!](https://dev.to/knight03/javascripts-new-structuredclone-function-say-goodbye-to-deep-cloning-headaches-5gpm)
-- [25+ Essential JavaScript One-Liners You Need to Know in 2025 🚀🔥](https://dev.to/ananiket/25-essential-javascript-one-liners-you-need-to-know-in-2025-196)
-- [LLM Agent Internal As a Graph - Tutorial For Dummies](https://dev.to/zachary62/llm-agent-internal-as-a-graph-tutorial-for-dummies-1h47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
