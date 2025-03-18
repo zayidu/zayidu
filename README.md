@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix &quot;Tailwind CSS IntelliSense Plugin Not Working in Tailwind v4&quot;](https://dev.to/bektur_aslan/fix-tailwind-css-intellisense-plugin-not-working-in-tailwind-v4-5cfb)
 - [Hello, devs! 👋](https://dev.to/nikhilgoesfullstack/hello-devs-4f27)
 - [Como testes mudaram minha forma de trabalhar](https://dev.to/h1bertobarbosa/como-testes-mudaram-minha-forma-de-trabalhar-1g0e)
 - [&quot;Unlocking Quantum Error Correction: The Power of Chiral Cat Qubits&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-error-correction-the-power-of-chiral-cat-qubits-5hd2)
 - [Python Tips for Beginners: A Guide to Writing Clean Code](https://dev.to/adetola_jesulayomi_e3bd55/python-tips-for-beginners-a-guide-to-writing-clean-code-26id)
-- [Mastering Timers in React: A Comprehensive Developer&#39;s Guide](https://dev.to/jsdevspace/mastering-timers-in-react-a-comprehensive-developers-guide-462p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
