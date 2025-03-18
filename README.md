@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Study Notes 6.3-4: What is Kafka &amp; Confluent Cloud](https://dev.to/pizofreude/study-notes-63-4-what-is-kafka-confluent-cloud-gfm)
-- [Introduction to Azure Databricks](https://dev.to/madgan95/introduction-to-azure-databricks-5gle)
-- [have a look to this](https://dev.to/ooye_sanket/have-a-look-to-this-ok6)
-- [[Boost]](https://dev.to/ooye_sanket/-2jo8)
-- [Study Notes 6.1-2: Introduction to Stream Processing](https://dev.to/pizofreude/study-notes-61-2-introduction-to-stream-processing-ff0)
+- [Lessons Learned Building a React Auth Library with Cursor.](https://dev.to/letsbelopez/lessons-learned-building-a-react-auth-library-with-cursor-2ko3)
+- [🚀 SOLID: The Practical Guide to Maintainable Code](https://dev.to/sivolc05/solid-the-practical-guide-to-maintainable-code-2ae8)
+- [Securing Edge Devices: Mitigating Brute Force Attacks with Zero Trust](https://dev.to/shyamavni/securing-edge-devices-mitigating-brute-force-attacks-with-zero-trust-3don)
+- [The Meteor 3.0 Migration: A Space Exploration Mission](https://dev.to/meteor/the-meteor-30-migration-a-space-exploration-mission-3gb5)
+- [🚀 SOLID: O Guia Prático para Código Manutenível](https://dev.to/sivolc05/solid-o-guia-pratico-para-codigo-manutenivel-26pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
