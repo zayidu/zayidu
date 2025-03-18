@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Free SVG Icon Categories from Lineicons](https://dev.to/icons/top-10-free-svg-icon-categories-from-lineicons-1pj4)
-- [Mastering Microsoft Loop Storage Management: A Guide for Administrators and Users](https://dev.to/jaloplo/mastering-microsoft-loop-storage-management-a-guide-for-administrators-and-users-19i3)
-- [The Path to Becoming a Top 1% Programmer](https://dev.to/web_dev-usman/the-path-to-becoming-a-top-1-programmer-3f1k)
-- [Flutter or React Native? 5 Things That Should Influence Your Choice](https://dev.to/p_0c0278d/flutter-or-react-native-5-things-that-should-influence-your-choice-40cn)
-- [Hoppscotch Self-Host: The Open-Source Postman Alternative for On-Premise Hosting](https://dev.to/hoppscotch/hoppscotch-self-host-the-open-source-postman-alternative-for-on-premise-hosting-18ac)
+- [try yaps.chat - &quot;Don&#39;t be like Bezos. Own your gf. Don&#39;t let Zuck to cook smth&quot;.](https://dev.to/abdibrokhim/try-yapschat-dont-be-like-bezos-own-your-gf-dont-let-zuck-to-cook-smth-fam)
+- [ServiceNow and GitHub Integration for Database Change Automation](https://dev.to/bytebase/servicenow-and-github-integration-for-database-change-automation-21e0)
+- [Going from an Idea to MVP in Weeks: PromptPanda&#39;s Launch&lpar;es&rpar;](https://dev.to/wasp/going-from-an-idea-to-mvp-in-weeks-promptpandas-launches-287n)
+- [How to Prevent Cross-Site Script Inclusion &lpar;XSSI&rpar; in Laravel](https://dev.to/pentest_testing_corp/how-to-prevent-cross-site-script-inclusion-xssi-in-laravel-5cea)
+- [Chemistry Meets Code](https://dev.to/aniruddhaadak/chemistry-meets-code-4l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
