@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Bitcoin Rebound Gains Momentum as Whales Buy 200K BTC](https://dev.to/sergi_web3/bitcoin-rebound-gains-momentum-as-whales-buy-200k-btc-3040)
-- [Mastering React Debugging: 15 Essential Steps Every Developer Should Know](https://dev.to/engrsakib/mastering-react-debugging-15-essential-steps-every-developer-should-know-3748)
-- [CAMEL-AI vs. Other AI Frameworks: What Sets It Apart?](https://dev.to/0x113/camel-ai-vs-other-ai-frameworks-what-sets-it-apart-4bao)
-- [Automating QA: A Manual Tester&#39;s Journey](https://dev.to/cypress/automating-qa-a-manual-testers-journey-33nb)
-- [Unveiling Cooperative Patent License 1.0: Innovation &amp; Fairness in the Open Source World](https://dev.to/bobcars/unveiling-cooperative-patent-license-10-innovation-fairness-in-the-open-source-world-35bk)
+- [Blockchain Insight Hub: Visualizing the Digital Ledger Universe](https://dev.to/binarygarage/blockchain-insight-hub-visualizing-the-digital-ledger-universe-f3)
+- [Coming Soon: JavaScript for Rails Developers](https://dev.to/railsdesigner/coming-soon-javascript-for-rails-developers-p44)
+- [How to make Tool Tips on JavaFx?](https://dev.to/victor_hugogasparquinn_/how-to-make-tool-tips-on-javafx-fl6)
+- [Introducing Fluxor: A New Rust Web Framework for Data Science](https://dev.to/montasir/introducing-fluxor-a-new-rust-web-framework-for-data-science-3lmh)
+- [VMware Carbon Black Cloud: Revolutionizing Endpoint Security for Modern Threats](https://dev.to/kevin_asutton_/vmware-carbon-black-cloud-revolutionizing-endpoint-security-for-modern-threats-2ff9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
