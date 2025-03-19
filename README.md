@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Paper Production - How O3ai Cut OEE Losses by 25%](https://dev.to/leanwitho3aii/transforming-paper-production-how-o3ai-cut-oee-losses-by-25-ibo)
-- [Membuat realtime chat](https://dev.to/wadahkode/membuat-realtime-chat-4ffk)
-- [KPMG’s AI Report Exposes Critical AI Challenges](https://dev.to/falkordb/kpmgs-ai-report-exposes-critical-ai-challenges-4j0l)
-- [DevOps Tools Cheatsheet Collection – Your Ultimate Guide🚀](https://dev.to/prodevopsguytech/devops-tools-cheatsheet-collection-your-ultimate-guide-id6)
-- [[Boost]](https://dev.to/gromnan/-5c9g)
+- [KendoReact Playground](https://dev.to/aniruddhaadak/kendoreact-playground-51j1)
+- [How to check out a remote branch in Git: A step-by-step guide](https://dev.to/logrocket/how-to-check-out-a-remote-branch-in-git-a-step-by-step-guide-glo)
+- [Unveiling a New Frontier in Open Source Licensing: The Ricoh Source Code Public License](https://dev.to/bobcars/unveiling-a-new-frontier-in-open-source-licensing-the-ricoh-source-code-public-license-354i)
+- [Understanding Method Chaining in Javascript 🚀](https://dev.to/gowrishankar_saravanamuthu/understanding-method-chaining-in-javascript-21jc)
+- [Setting Up Kubernetes and Nginx Ingress Controller on an EC2 Instance](https://dev.to/ragul_21/setting-up-kubernetes-and-nginx-ingress-controller-on-an-ec2-instance-9p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
