@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning with Python: A Beginner’s Guide to TensorFlow &amp; Keras](https://dev.to/devraj_more_5a115bafe8b0f/deep-learning-with-python-a-beginners-guide-to-tensorflow-keras-13jg)
-- [Can You Really Trust a Business Application Built Without a Developer?](https://dev.to/softyflow/can-you-really-trust-a-business-application-built-without-a-developer-1ceb)
-- [HarmonyOS NEXT 实战系列06-路由](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-06-lu-you-1290)
-- [Working with PHP Sessions and Cookies Securely](https://dev.to/patoliyainfotech/working-with-php-sessions-and-cookies-securely-1396)
-- [HarmonyOS NEXT 实战系列05-案例回关粉丝](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-05-an-li-hui-guan-fen-si-1hca)
+- [I&#39;m new here, please take care of me](https://dev.to/showinbuaoye/im-new-here-please-take-care-of-me-3fjd)
+- [Docker Logs Observability Using Grafana](https://dev.to/daimus/docker-logs-observability-using-grafana-3mf2)
+- [Next-Level CSS: Master Advanced Selectors with Real-World Examples](https://dev.to/teki_solves_fb72717580279/next-level-css-master-advanced-selectors-with-real-world-examples-17h7)
+- [HitPaw VikPea &lpar;HitPaw Video Enhancer&rpar; Expert Review](https://dev.to/quincy_ran_3b6729ca743d1f/hitpaw-vikpea-hitpaw-video-enhancer-expert-review-5061)
+- [React Micro Frontend Architecture – An in Depth Tutorial With Example](https://dev.to/mobisoftinfotech/react-micro-frontend-architecture-an-in-depth-tutorial-with-example-1p4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
