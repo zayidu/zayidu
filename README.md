@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma to React instantly: Introduction Anima app](https://dev.to/shreyvijayvargiya/figma-to-react-instantly-introduction-anima-app-1kii)
-- [AWS Shared Responsibility Model](https://dev.to/copubah/aws-shared-responsibility-model-2h2m)
-- [[Boost]](https://dev.to/alfredosalzillo/-4ij2)
-- [Using AI for API Development](https://dev.to/getambassador2024/using-ai-for-api-development-4a49)
-- [Wednesday Links - Edition 2025-03-19](https://dev.to/_mat3e_/wednesday-links-edition-2025-03-19-2dln)
+- [yo check this out](https://dev.to/tanvirsciart/yo-check-this-out-2bkh)
+- [Explore how computer vision AI enhances underwater object detection &amp; classification](https://dev.to/chandraks/explore-how-computer-vision-ai-enhances-underwater-object-detection-classification-3d1k)
+- [Proper Logging in ASP.NET Core](https://dev.to/ipazooki/proper-logging-in-aspnet-core-4l61)
+- [hi guys its my last post for a year or 2](https://dev.to/wilf0248/hi-guys-its-my-last-post-for-a-year-or-2-3f52)
+- [How to Build a Task Manager API with Django REST Framework: Part 7 - API Documentation with OpenAPI and Swagger](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-7-api-documentation-with-openapi-2fp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
