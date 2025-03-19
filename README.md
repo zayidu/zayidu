@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Healthcare Data: Secure, Accessible, and Smarter with Cloud](https://dev.to/tylermorganaqe/the-future-of-healthcare-data-secure-accessible-and-smarter-with-cloud-1cap)
-- [Welcome Thread - v319](https://dev.to/devteam/welcome-thread-v319-3i21)
-- [I Built This GitHub README to Land My Dream Software Internship!](https://dev.to/sumonta056/i-built-this-github-readme-to-land-my-dream-software-internship-bn3)
-- [[Boost]](https://dev.to/promi_mojumder/-4no)
-- [Set Up ShadCN UI with Tailwind CSS v3 &amp; React 19: Fix Import Errors Like a Pro!](https://dev.to/sumonta056/set-up-shadcn-ui-with-tailwind-css-v3-react-19-fix-import-errors-like-a-pro-24d1)
+- [How to create an effective application security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-58c7)
+- [Deploying DeepSeek-R1 on Amazon Bedrock: A Technical Guide](https://dev.to/gaurav_gupta_7/deploying-deepseek-r1-on-amazon-bedrock-a-technical-guide-5d8l)
+- [How to Become a Freelance Data Consultant After Completing a Data Science Course in Trivandrum](https://dev.to/lekshmi_525/how-to-become-a-freelance-data-consultant-after-completing-a-data-science-course-in-trivandrum-4m67)
+- [Dockerfile | no-install](https://dev.to/ibrahimsi/dockerfile-no-install-2d0o)
+- [How Linux Works in the Tech Industry &lpar;With Practical Examples&rpar;](https://dev.to/code_2/how-linux-works-in-the-tech-industry-with-practical-examples-c2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
