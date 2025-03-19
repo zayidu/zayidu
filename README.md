@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Unleashed: Optimize Your Queries and Recalibrate Your Coding Journey&quot; to a level two heading by using](https://dev.to/teki_solves_fb72717580279/sql-unleashed-optimize-your-queries-and-recalibrate-your-coding-journey-to-a-level-two-heading-by-4hf5)
-- [Ebook: Desenvolvimento Seguro de Apis](https://dev.to/r9n/ebook-desenvolvimento-seguro-de-apis-472d)
-- [Step-by-Step Guide to Shooting a Basketball for Beginners](https://dev.to/matthew12/step-by-step-guide-to-shooting-a-basketball-for-beginners-2569)
-- [K6 - Modern load testing](https://dev.to/darlangui/k6-modern-load-testing-m6o)
-- [Extended Beneficiaries: A New Payout Experience](https://dev.to/rapyd/extended-beneficiaries-a-new-payout-experience-4man)
+- [Unveiling SGE-Intelligence—A Scholarly Study of AI-Driven Content Optimization in the Search Generative Experience](https://dev.to/arash_mansourpour/unveiling-sge-intelligence-a-scholarly-study-of-ai-driven-content-optimization-in-the-search-158m)
+- [How to containerize an Application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-an-application-159)
+- [web dev](https://dev.to/james_arias_7248f4e27bbb4/web-dev-3k08)
+- [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
+- [How to Pick the Right Tech for Your Startup](https://dev.to/kannandreams/how-to-pick-the-right-tech-for-your-startup-1op5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
