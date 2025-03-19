@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coder and Coding](https://dev.to/seosiri/coder-and-coding-1i8f)
-- [Smart Contracts + AI: The Future of Automation](https://dev.to/joinwithken/smart-contracts-ai-the-future-of-automation-1l11)
-- [TryHackMe: HTTP Request Smuggling](https://dev.to/seanleeys/tryhackme-http-request-smuggling-2oph)
-- [Beyond chat: Rethinking how we use LLMs](https://dev.to/logrocket/beyond-chat-rethinking-how-we-use-llms-2hf)
-- [𝗥𝗲𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 &quot;𝗗𝗯𝗨𝗽𝗱𝗮𝘁𝗲𝗘𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻&quot; 𝗶𝗻 𝗘𝗙 𝗖𝗼𝗿𝗲: 𝗔 𝗤𝘂𝗶𝗰𝗸 𝗙𝗶𝘅!](https://dev.to/supraja_tangella_b7f0738e/--1f05)
+- [How To Connect React JS With Node JS and MongoDB](https://dev.to/theudemezue/how-to-connect-react-js-with-node-js-and-mongodb-c9i)
+- [Exploring Open Software License 2.1: Balancing Innovation with Fairness](https://dev.to/jennythomas498/exploring-open-software-license-21-balancing-innovation-with-fairness-5563)
+- [Windows Service](https://dev.to/mustafasamedyeyin/windows-service-5ad7)
+- [WebRTC React: A Comprehensive Guide](https://dev.to/bhavyajain/webrtc-react-a-comprehensive-guide-2hdk)
+- [The Hidden Dangers of Vibe Coding](https://dev.to/pachilo/the-hidden-dangers-of-vibe-coding-3ifi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
