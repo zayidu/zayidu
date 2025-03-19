@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Connect React JS With Node JS and MongoDB](https://dev.to/theudemezue/how-to-connect-react-js-with-node-js-and-mongodb-c9i)
-- [Exploring Open Software License 2.1: Balancing Innovation with Fairness](https://dev.to/jennythomas498/exploring-open-software-license-21-balancing-innovation-with-fairness-5563)
-- [Windows Service](https://dev.to/mustafasamedyeyin/windows-service-5ad7)
-- [WebRTC React: A Comprehensive Guide](https://dev.to/bhavyajain/webrtc-react-a-comprehensive-guide-2hdk)
-- [The Hidden Dangers of Vibe Coding](https://dev.to/pachilo/the-hidden-dangers-of-vibe-coding-3ifi)
+- [Transforming Paper Production - How O3ai Cut OEE Losses by 25%](https://dev.to/leanwitho3aii/transforming-paper-production-how-o3ai-cut-oee-losses-by-25-ibo)
+- [Membuat realtime chat](https://dev.to/wadahkode/membuat-realtime-chat-4ffk)
+- [KPMG’s AI Report Exposes Critical AI Challenges](https://dev.to/falkordb/kpmgs-ai-report-exposes-critical-ai-challenges-4j0l)
+- [DevOps Tools Cheatsheet Collection – Your Ultimate Guide🚀](https://dev.to/prodevopsguytech/devops-tools-cheatsheet-collection-your-ultimate-guide-id6)
+- [[Boost]](https://dev.to/gromnan/-5c9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
