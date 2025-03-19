@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Playground](https://dev.to/aniruddhaadak/kendoreact-playground-51j1)
-- [How to check out a remote branch in Git: A step-by-step guide](https://dev.to/logrocket/how-to-check-out-a-remote-branch-in-git-a-step-by-step-guide-glo)
-- [Unveiling a New Frontier in Open Source Licensing: The Ricoh Source Code Public License](https://dev.to/bobcars/unveiling-a-new-frontier-in-open-source-licensing-the-ricoh-source-code-public-license-354i)
-- [Understanding Method Chaining in Javascript 🚀](https://dev.to/gowrishankar_saravanamuthu/understanding-method-chaining-in-javascript-21jc)
-- [Setting Up Kubernetes and Nginx Ingress Controller on an EC2 Instance](https://dev.to/ragul_21/setting-up-kubernetes-and-nginx-ingress-controller-on-an-ec2-instance-9p1)
+- [The Privacy Paradigm: How Web3 Empowers Users Over Corporations](https://dev.to/aliciadawsom/the-privacy-paradigm-how-web3-empowers-users-over-corporations-3ka6)
+- [🚀 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗕𝗜𝗚 𝗶𝘀 𝗰𝗼𝗺𝗶𝗻𝗴... 🚀](https://dev.to/simplai/-18i8)
+- [API Integration Mastery Roadmap &lpar;2025 Edition&rpar;](https://dev.to/tak089/api-integration-mastery-roadmap-2025-edition-131i)
+- [Day 3: How to push code GitLab?](https://dev.to/sugumar_r_a5f301adf1fb49a/day-3-how-to-push-code-gitlab-4pom)
+- [Desarrolla tus habilidades de programación con los 3 mejores playgrounds de código para JavaScript 🤯](https://dev.to/duxtech/desarrolla-tus-habilidades-de-programacion-con-los-3-mejores-playgrounds-de-codigo-para-javascript-336b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
