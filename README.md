@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quadratic: The AI-Powered Spreadsheet for Modern Teams](https://dev.to/quadraticai/quadratic-the-ai-powered-spreadsheet-for-modern-teams-gh2)
-- [algorithms : intro to sorting algorithms 2 {merge sort and quick sort }](https://dev.to/atoms19/algorithms-1-intro-to-sorting-algorithms-i9p)
-- [From Employee to Entrepreneur: The Identity Shift No One Talks About by Successful Entrepreneurs such as Yasmin Bashirova](https://dev.to/yasminbashirova/from-employee-to-entrepreneur-the-identity-shift-no-one-talks-about-by-successful-entrepreneurs-1p5l)
-- [algorithms : intro to sorting algorithms { insertion sort and selection sort }](https://dev.to/atoms19/algorithms-intro-to-sorting-algorithms-insertion-sort-and-selection-sort--1105)
-- [Correct the mistakes of the character recognition software](https://dev.to/maddiepst/correct-the-mistakes-of-the-character-recognition-software-33gh)
+- [Optimizing .NET 8 Minimal APIs for Cloud-Native Microservices: Docker &amp; Kubernetes Best Practices](https://dev.to/leandroveiga/optimizing-net-8-minimal-apis-for-cloud-native-microservices-docker-kubernetes-best-practices-24f9)
+- [¿Qué sucede cuando la memoria RAM se llena y se usa la memoria de intercambio &lpar;swap&rpar;?](https://dev.to/gamertv29_fef1804341ddfae/que-sucede-cuando-la-memoria-ram-se-llena-y-se-usa-la-memoria-de-intercambio-swap-175j)
+- [Women’s Survival Equipment: Gear Customized for Her Requirements](https://dev.to/survivalgear837/womens-survival-equipment-gear-customized-for-her-requirements-39a1)
+- [Itinerary Generator for KendoReact challenge](https://dev.to/druntern/itinerary-generator-for-kendoreact-challenge-488p)
+- [&quot;Unlocking Model Faithfulness: The Key to Better AI Interpretability&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-model-faithfulness-the-key-to-better-ai-interpretability-c31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
