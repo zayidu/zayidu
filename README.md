@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Deploying a Custom Site Using GitHub Actions and GitHub Pages.](https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf)
-- [Reversed Strings](https://dev.to/maddiepst/reversed-strings-1861)
-- [The Problem: PowerShell’s Hashing Illusion](https://dev.to/dmidlo/the-problem-powershells-hashing-illusion-74p)
-- [How to Migrate From Sql to Mongodb in 2025?](https://dev.to/anna_golubkova/how-to-migrate-from-sql-to-mongodb-in-2025-4kbi)
-- [🚀 Responsive Website Tutorial: Bootstrap Mobile Menu &amp; Sidebar](https://dev.to/learncodewithalex/responsive-website-tutorial-bootstrap-mobile-menu-sidebar-5pn)
+- [SQL Unleashed: Optimize Your Queries and Recalibrate Your Coding Journey&quot; to a level two heading by using](https://dev.to/teki_solves_fb72717580279/sql-unleashed-optimize-your-queries-and-recalibrate-your-coding-journey-to-a-level-two-heading-by-4hf5)
+- [Ebook: Desenvolvimento Seguro de Apis](https://dev.to/r9n/ebook-desenvolvimento-seguro-de-apis-472d)
+- [Step-by-Step Guide to Shooting a Basketball for Beginners](https://dev.to/matthew12/step-by-step-guide-to-shooting-a-basketball-for-beginners-2569)
+- [K6 - Modern load testing](https://dev.to/darlangui/k6-modern-load-testing-m6o)
+- [Extended Beneficiaries: A New Payout Experience](https://dev.to/rapyd/extended-beneficiaries-a-new-payout-experience-4man)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
