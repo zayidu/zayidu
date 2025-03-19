@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙开发：实现popup弹窗](https://dev.to/abnerming888/hong-meng-kai-fa-shi-xian-popupdan-chuang-2he2)
-- [&quot;Unlocking Quantum Machine Learning: The EnQode Revolution Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-machine-learning-the-enqode-revolution-explained-16ii)
-- [Celebrating 20 years of software development](https://dev.to/d2d_weizhi/celebrating-20-years-of-software-development-2jf7)
-- [Digital Twin Technology: Advancing Smart Management in Carbon-Neutral Industrial Parks](https://dev.to/hightopo/digital-twin-technology-advancing-smart-management-in-carbon-neutral-industrial-parks-41kf)
-- [Who tf wrote this code?](https://dev.to/duythenight/based-on-a-true-story-4e3)
+- [Elixir – Uma Linguagem de Programação para Aplicações Escaláveis](https://dev.to/actor-dev/elixir-uma-linguagem-de-programacao-para-aplicacoes-escalaveis-189o)
+- [Understanding the Structure of a Phoenix LiveView Application](https://dev.to/msnmongare/understanding-the-structure-of-a-phoenix-liveview-application-1l8p)
+- [Handling Azure Key Vault Secret Naming with Umbraco UIBuilder License Configuration](https://dev.to/erikjanwestendorp/handling-azure-key-vault-secret-naming-with-umbraco-uibuilder-license-configuration-ega)
+- [Google’s AI Evolution: Deep Research, Gemini 2.0, and the Battle Against OpenAI](https://dev.to/james_lin_e0b4cf88eff0124/googles-ai-evolution-deep-research-gemini-20-and-the-battle-against-openai-3hdd)
+- [From Idea to Code – The Birth of LMS-G](https://dev.to/benedict_baah/from-idea-to-code-the-birth-of-lms-g-3imo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
