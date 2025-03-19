@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [yo check this out](https://dev.to/tanvirsciart/yo-check-this-out-2bkh)
-- [Explore how computer vision AI enhances underwater object detection &amp; classification](https://dev.to/chandraks/explore-how-computer-vision-ai-enhances-underwater-object-detection-classification-3d1k)
-- [Proper Logging in ASP.NET Core](https://dev.to/ipazooki/proper-logging-in-aspnet-core-4l61)
-- [hi guys its my last post for a year or 2](https://dev.to/wilf0248/hi-guys-its-my-last-post-for-a-year-or-2-3f52)
-- [How to Build a Task Manager API with Django REST Framework: Part 7 - API Documentation with OpenAPI and Swagger](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-7-api-documentation-with-openapi-2fp9)
+- [鸿蒙开发：实现popup弹窗](https://dev.to/abnerming888/hong-meng-kai-fa-shi-xian-popupdan-chuang-2he2)
+- [&quot;Unlocking Quantum Machine Learning: The EnQode Revolution Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-machine-learning-the-enqode-revolution-explained-16ii)
+- [Celebrating 20 years of software development](https://dev.to/d2d_weizhi/celebrating-20-years-of-software-development-2jf7)
+- [Digital Twin Technology: Advancing Smart Management in Carbon-Neutral Industrial Parks](https://dev.to/hightopo/digital-twin-technology-advancing-smart-management-in-carbon-neutral-industrial-parks-41kf)
+- [Who tf wrote this code?](https://dev.to/duythenight/based-on-a-true-story-4e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
