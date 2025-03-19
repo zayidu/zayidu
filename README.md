@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Secrets and Passwords with Ansible Vault: A Practical Guide with Examples](https://dev.to/env0/protect-secrets-and-passwords-with-ansible-vault-a-practical-guide-with-examples-5ael)
-- [For me I love Restful API, coz I use that mostly __what bout you ?](https://dev.to/kelvincode1234/for-me-i-love-restful-api-coz-i-use-that-mostly-what-bout-you--27p5)
-- [Learn Python- Thank Me Later](https://dev.to/charlene_/learn-python-thank-me-later-4nfn)
-- [Enhancing Pino to Support &lpar;Message, Payload&rpar; Logging Without Breaking Pretty Logs](https://dev.to/vbarzana/enhancing-pino-to-support-message-payload-logging-without-breaking-pretty-logs-2hjb)
-- [RESTful vs. GraphQL: Which One Should You Choose? 🤔](https://dev.to/hadil/restful-vs-graphql-which-one-should-you-choose-2850)
+- [Baserow 1.32: Dashboards, enhanced Airtable import, SSO for Application Builder, and more - Open Source Airtable Alternative](https://dev.to/baserow/baserow-132-dashboards-enhanced-airtable-import-sso-for-application-builder-and-more-open-3k1a)
+- [Exercise 04: Configure Network Routing](https://dev.to/1suleyman/exercise-04-configure-network-routing-5fll)
+- [Secure Client-Side Encryption and Decryption with JavaScript: A Practical Guide](https://dev.to/babynamenestlings_efe5ba9/secure-client-side-encryption-and-decryption-with-javascript-a-practical-guide-6h0)
+- [PSQL Day:](https://dev.to/sugumar_r_a5f301adf1fb49a/psql-day-3hoh)
+- [One Phish. One Click. One Breach. Why Ignoring Email Security and Dark Web Threats Puts Your Business in Danger](https://dev.to/donald1981/one-phish-one-click-one-breach-why-ignoring-email-security-and-dark-web-threats-puts-your-41h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
