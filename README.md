@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elixir – Uma Linguagem de Programação para Aplicações Escaláveis](https://dev.to/actor-dev/elixir-uma-linguagem-de-programacao-para-aplicacoes-escalaveis-189o)
-- [Understanding the Structure of a Phoenix LiveView Application](https://dev.to/msnmongare/understanding-the-structure-of-a-phoenix-liveview-application-1l8p)
-- [Handling Azure Key Vault Secret Naming with Umbraco UIBuilder License Configuration](https://dev.to/erikjanwestendorp/handling-azure-key-vault-secret-naming-with-umbraco-uibuilder-license-configuration-ega)
-- [Google’s AI Evolution: Deep Research, Gemini 2.0, and the Battle Against OpenAI](https://dev.to/james_lin_e0b4cf88eff0124/googles-ai-evolution-deep-research-gemini-20-and-the-battle-against-openai-3hdd)
-- [From Idea to Code – The Birth of LMS-G](https://dev.to/benedict_baah/from-idea-to-code-the-birth-of-lms-g-3imo)
+- [Deep Learning with Python: A Beginner’s Guide to TensorFlow &amp; Keras](https://dev.to/devraj_more_5a115bafe8b0f/deep-learning-with-python-a-beginners-guide-to-tensorflow-keras-13jg)
+- [Can You Really Trust a Business Application Built Without a Developer?](https://dev.to/softyflow/can-you-really-trust-a-business-application-built-without-a-developer-1ceb)
+- [HarmonyOS NEXT 实战系列06-路由](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-06-lu-you-1290)
+- [Working with PHP Sessions and Cookies Securely](https://dev.to/patoliyainfotech/working-with-php-sessions-and-cookies-securely-1396)
+- [HarmonyOS NEXT 实战系列05-案例回关粉丝](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-05-an-li-hui-guan-fen-si-1hca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
