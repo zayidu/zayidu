@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing .NET 8 Minimal APIs for Cloud-Native Microservices: Docker &amp; Kubernetes Best Practices](https://dev.to/leandroveiga/optimizing-net-8-minimal-apis-for-cloud-native-microservices-docker-kubernetes-best-practices-24f9)
-- [¿Qué sucede cuando la memoria RAM se llena y se usa la memoria de intercambio &lpar;swap&rpar;?](https://dev.to/gamertv29_fef1804341ddfae/que-sucede-cuando-la-memoria-ram-se-llena-y-se-usa-la-memoria-de-intercambio-swap-175j)
-- [Women’s Survival Equipment: Gear Customized for Her Requirements](https://dev.to/survivalgear837/womens-survival-equipment-gear-customized-for-her-requirements-39a1)
-- [Itinerary Generator for KendoReact challenge](https://dev.to/druntern/itinerary-generator-for-kendoreact-challenge-488p)
-- [&quot;Unlocking Model Faithfulness: The Key to Better AI Interpretability&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-model-faithfulness-the-key-to-better-ai-interpretability-c31)
+- [Unveiling the Power and Complexity of GPL 2.0](https://dev.to/rachellovestowrite/unveiling-the-power-and-complexity-of-gpl-20-4468)
+- [How to Value a Tech Startup in Belgium](https://dev.to/gratiswaardering/how-to-value-a-tech-startup-in-belgium-23b6)
+- [Calculate the Hierarchy of Recursive References — From SQL to SPL #11](https://dev.to/judith677/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-11-4kmp)
+- [How to Use Cursor Email Like a Pro &lpar;Without the Headaches&rpar;](https://dev.to/syntaxbloom/how-to-use-cursor-email-like-a-pro-without-the-headaches-5078)
+- [Business Valuation in Belgium: A Comprehensive Guide](https://dev.to/gratiswaardering/business-valuation-in-belgium-a-comprehensive-guide-4nei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
