@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m new here, please take care of me](https://dev.to/showinbuaoye/im-new-here-please-take-care-of-me-3fjd)
-- [Docker Logs Observability Using Grafana](https://dev.to/daimus/docker-logs-observability-using-grafana-3mf2)
-- [Next-Level CSS: Master Advanced Selectors with Real-World Examples](https://dev.to/teki_solves_fb72717580279/next-level-css-master-advanced-selectors-with-real-world-examples-17h7)
-- [HitPaw VikPea &lpar;HitPaw Video Enhancer&rpar; Expert Review](https://dev.to/quincy_ran_3b6729ca743d1f/hitpaw-vikpea-hitpaw-video-enhancer-expert-review-5061)
-- [React Micro Frontend Architecture – An in Depth Tutorial With Example](https://dev.to/mobisoftinfotech/react-micro-frontend-architecture-an-in-depth-tutorial-with-example-1p4o)
+- [Protect Secrets and Passwords with Ansible Vault: A Practical Guide with Examples](https://dev.to/env0/protect-secrets-and-passwords-with-ansible-vault-a-practical-guide-with-examples-5ael)
+- [For me I love Restful API, coz I use that mostly __what bout you ?](https://dev.to/kelvincode1234/for-me-i-love-restful-api-coz-i-use-that-mostly-what-bout-you--27p5)
+- [Learn Python- Thank Me Later](https://dev.to/charlene_/learn-python-thank-me-later-4nfn)
+- [Enhancing Pino to Support &lpar;Message, Payload&rpar; Logging Without Breaking Pretty Logs](https://dev.to/vbarzana/enhancing-pino-to-support-message-payload-logging-without-breaking-pretty-logs-2hjb)
+- [RESTful vs. GraphQL: Which One Should You Choose? 🤔](https://dev.to/hadil/restful-vs-graphql-which-one-should-you-choose-2850)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
