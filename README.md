@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up PostgreSQL Replication with Docker](https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi)
-- [How to send email with php?](https://dev.to/pedroantdevv/how-to-send-email-with-php-5750)
-- [Day 5: BackendChallenges.com - Building Rate Limiting for Scalable APIs 🚀](https://dev.to/learnwithparam/day-5-backendchallengescom-building-rate-limiting-for-scalable-apis-2dj3)
-- [157/365 | ¥10M Job Challenge - Security](https://dev.to/kameken100/156365-y10m-job-challenge-security-gpd)
-- [Scaling APIs without breaking them using Rate Limiting](https://dev.to/learnwithparam/episode-2-api-rate-limiting-5bib)
+- [Building and Deploying a Custom Site Using GitHub Actions and GitHub Pages.](https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf)
+- [Reversed Strings](https://dev.to/maddiepst/reversed-strings-1861)
+- [The Problem: PowerShell’s Hashing Illusion](https://dev.to/dmidlo/the-problem-powershells-hashing-illusion-74p)
+- [How to Migrate From Sql to Mongodb in 2025?](https://dev.to/anna_golubkova/how-to-migrate-from-sql-to-mongodb-in-2025-4kbi)
+- [🚀 Responsive Website Tutorial: Bootstrap Mobile Menu &amp; Sidebar](https://dev.to/learncodewithalex/responsive-website-tutorial-bootstrap-mobile-menu-sidebar-5pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
