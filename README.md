@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an effective application security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-58c7)
-- [Deploying DeepSeek-R1 on Amazon Bedrock: A Technical Guide](https://dev.to/gaurav_gupta_7/deploying-deepseek-r1-on-amazon-bedrock-a-technical-guide-5d8l)
-- [How to Become a Freelance Data Consultant After Completing a Data Science Course in Trivandrum](https://dev.to/lekshmi_525/how-to-become-a-freelance-data-consultant-after-completing-a-data-science-course-in-trivandrum-4m67)
-- [Dockerfile | no-install](https://dev.to/ibrahimsi/dockerfile-no-install-2d0o)
-- [How Linux Works in the Tech Industry &lpar;With Practical Examples&rpar;](https://dev.to/code_2/how-linux-works-in-the-tech-industry-with-practical-examples-c2a)
+- [Figma to React instantly: Introduction Anima app](https://dev.to/shreyvijayvargiya/figma-to-react-instantly-introduction-anima-app-1kii)
+- [AWS Shared Responsibility Model](https://dev.to/copubah/aws-shared-responsibility-model-2h2m)
+- [[Boost]](https://dev.to/alfredosalzillo/-4ij2)
+- [Using AI for API Development](https://dev.to/getambassador2024/using-ai-for-api-development-4a49)
+- [Wednesday Links - Edition 2025-03-19](https://dev.to/_mat3e_/wednesday-links-edition-2025-03-19-2dln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
