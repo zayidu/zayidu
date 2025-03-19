@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Python Loophole That Made My Code 100x Faster](https://dev.to/resource_bunk_1077cab07da/the-python-loophole-that-made-my-code-100x-faster-59n4)
-- [How to deploy an anonymous website on the Dark Web](https://dev.to/jimjunior/how-to-deploy-an-anonymous-website-on-the-dark-web-298j)
-- [Enhancing Your Digital Presence with Kugu Medya](https://dev.to/switchalpha/enhancing-your-digital-presence-with-kugu-medya-51la)
-- [The Importance of Backlinks for Your Website SEO](https://dev.to/switchalpha/the-importance-of-backlinks-for-your-website-seo-1ook)
-- [Best AI-Powered Online Code Compilers in 2025: Top Tools for Faster and Smarter Coding](https://dev.to/mohamed_aakif/best-ai-powered-online-code-compilers-in-2025-top-tools-for-faster-and-smarter-coding-36kh)
+- [Setting Up PostgreSQL Replication with Docker](https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi)
+- [How to send email with php?](https://dev.to/pedroantdevv/how-to-send-email-with-php-5750)
+- [Day 5: BackendChallenges.com - Building Rate Limiting for Scalable APIs 🚀](https://dev.to/learnwithparam/day-5-backendchallengescom-building-rate-limiting-for-scalable-apis-2dj3)
+- [157/365 | ¥10M Job Challenge - Security](https://dev.to/kameken100/156365-y10m-job-challenge-security-gpd)
+- [Scaling APIs without breaking them using Rate Limiting](https://dev.to/learnwithparam/episode-2-api-rate-limiting-5bib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
