@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Following the Rules is cool, but being a Rebel is Exhilarating!](https://dev.to/samay_mehta_069fbe68d38a3/following-the-rules-is-cool-but-being-a-rebel-is-exhilarating-1mhj)
-- [From idea to gift: 🎁 Wish list application with KendoReact 🤺, KI 🤖 &amp; Firebase 💾](https://dev.to/york/from-idea-to-gift-wish-list-application-with-kendoreact-ki-firebase-35ge)
-- [Learn These HTML Shortcuts and Save Hours of Coding Time](https://dev.to/learncodewithalex/learn-these-html-shortcuts-and-save-hours-of-coding-time-466h)
-- [Learn These HTML Shortcuts That Will Make You Code 5x Faster!](https://dev.to/learncodewithalex/learn-these-html-shortcuts-that-will-make-you-code-5x-faster-3di0)
-- [rbenv vs RVM: Picking Your Ruby Version Manager Buddy](https://dev.to/lovestaco/rbenv-vs-rvm-picking-your-ruby-version-manager-buddy-4130)
+- [Tariff Wars Will Hit US Medicine Costs After Trump&#39;s Irish Big Pharma Swipe, Martin Warns – How CloseUp CRM Can Help](https://dev.to/pharmacrm/tariff-wars-will-hit-us-medicine-costs-after-trumps-irish-big-pharma-swipe-martin-warns-how-1f3l)
+- [News on update 04.05.2020](https://dev.to/labrob2013/news-on-update-04052020-38oi)
+- [Optimizing OpenStack Networking with Calico: Step by step Guide](https://dev.to/alakkadshaw/optimizing-openstack-networking-with-calico-step-by-step-guide-2h2f)
+- [News on update 14.03.2020](https://dev.to/labrob2013/news-on-update-14032020-1i1o)
+- [Translations in Stimulus Controllers](https://dev.to/railsdesigner/translations-in-stimulus-controllers-jm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
