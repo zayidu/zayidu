@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I was struggling with project management—too many meetings, unclear workflows, and constant distractions. Then I found this blog, and it completely changed my approach! If you&#39;re a developer facing the same challenges, I highly recommend reading this.](https://dev.to/nikhil_sachapara/i-was-struggling-with-project-management-too-many-meetings-unclear-workflows-and-constant-elo)
-- [[Part 1]Setting Up Your TypeScript Environment for Test Automation](https://dev.to/testamplify/part-1setting-up-your-typescript-environment-for-test-automation-lcf)
-- [Setting up IntelliSense for PostgreSQL Development](https://dev.to/yuyash/setting-up-intellisense-for-postgresql-development-gm)
-- [NIXX/DEV – Free Online Tools](https://dev.to/nixx/nixxdev-free-online-tools-n92)
-- [Managing development projects felt like a mess until I came across this blog. It breaks down the biggest issues devs face and how the right tool can solve them. If you&#39;re tired of traditional project management slowing you down, this is a must-read!](https://dev.to/naik_sejal/managing-development-projects-felt-like-a-mess-until-i-came-across-this-blog-it-breaks-down-the-1dkp)
+- [Decoding Django: How Migration Errors Became My Greatest Teacher](https://dev.to/kevwasonga/decoding-django-how-migration-errors-became-my-greatest-teacher-2pmn)
+- [Mastering Kubernetes Pods: Configuration, Scaling, and Troubleshooting](https://dev.to/getambassador2024/mastering-kubernetes-pods-configuration-scaling-and-troubleshooting-31ed)
+- [# Understanding Zero Trust Security: A Developer&#39;s Guide](https://dev.to/info_generalhazedawn_a3d/-understanding-zero-trust-security-a-developers-guide-311p)
+- [CSS Selectors for Beginners](https://dev.to/israelrotimi/css-selectors-for-beginners-32ad)
+- [How AI is Transforming Mobile App Development in Dubai’s Tech Industry](https://dev.to/mobile_app_develop/how-ai-is-transforming-mobile-app-development-in-dubais-tech-industry-2162)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
