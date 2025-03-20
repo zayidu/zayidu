@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S3e3: Branching into the Git Multiverse](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e3-branching-into-the-git-multiverse-1mgc)
-- [Anticipating User Errors in Web](https://dev.to/thanksboss/anticipating-user-errors-in-web-3nbc)
-- [[Boost]](https://dev.to/chrisvxd/-1bi7)
-- [The Rise of Vibe Coding: How AI is Changing the Way We Write Code](https://dev.to/mentorsol/the-rise-of-vibe-coding-how-ai-is-changing-the-way-we-write-code-198k)
-- [AICoinFlow: The AI-Based Trading App for New and Experienced Users Introduction](https://dev.to/techno_insights_d8b5bd951/aicoinflow-the-ai-based-trading-app-for-new-and-experienced-usersintroduction-13f3)
+- [Mastering Mental Models: How Senior Devs Solve Problems Faster](https://dev.to/sayyad_arsalan_97175d7177/mastering-mental-models-how-senior-devs-solve-problems-faster-3bka)
+- [The Harsh Truth About AI Startups: Why Most Will Fail &lpar;And How to Survive&rpar;](https://dev.to/tirtha/the-harsh-truth-about-ai-startups-why-most-will-fail-and-how-to-survive-25kp)
+- [Crafting an Effective Application Security Program: Strategies, Practices and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-practices-and-tools-for-optimal-4ikp)
+- [The process of creating an effective Application Security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-19cb)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2dfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
