@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-01: Java and Spring boot](https://dev.to/e00049/day-01-java-and-spring-boot-1jke)
-- [HarmonyOS NEXT 实战系列10-网络通信](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-10-wang-luo-tong-xin-4c53)
-- [HarmonyOS NEXT 实战系列09-生命周期](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-09-sheng-ming-zhou-qi-3724)
-- [HarmonyOS NEXT 实战系列08-案例微博导航设置](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-08-an-li-wei-bo-dao-hang-she-zhi-lbh)
-- [New Video Alert: How to Provision a Web Server in AWS | Step-by-Step Guide](https://dev.to/saint_vandora/new-video-alert-how-to-provision-a-web-server-in-aws-step-by-step-guide-1fhb)
+- [Golang 1.24: Breaking Down the Latest Features and Enhancements &lpar;#1&rpar;](https://dev.to/mx_tech/-golang-124-breaking-down-the-latest-features-and-enhancements-1-1l5p)
+- [How to Measure IT Service Quality: Key Metrics &amp; Best Practices for 2025](https://dev.to/adityabhuyan/how-to-measure-it-service-quality-key-metrics-best-practices-for-2025-4pi9)
+- [Software Testing vs Firmware Testing: Understanding the Key Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-vs-firmware-testing-understanding-the-key-differences-1mfe)
+- [How to Build Secure JWT Authentication in Golang + React.js &lpar;Step-by-Step&rpar;](https://dev.to/devkitbase/how-to-build-secure-jwt-authentication-in-golang-reactjs-step-by-step-i8f)
+- [From Fields to Future: AI and Drones Reshaping Agriculture](https://dev.to/wearetechi/from-fields-to-future-ai-and-drones-reshaping-agriculture-9je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
