@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PWC 312 Time to be random](https://dev.to/boblied/pwc-312-time-to-be-random-o0f)
-- [How to hide browsing history from Internet Provider?](https://dev.to/asya_karapetyan_7dd3a62f8/how-to-hide-browsing-history-from-internet-provider-306o)
-- [Efficient Management of SQL Server Functions: Automating Routine Tasks](https://dev.to/samantha_brauer/efficient-management-of-sql-server-functions-automating-routine-tasks-3n6o)
-- [Sprint 4 - I&#39;m Finally Making Sense of Hurl](https://dev.to/theoforger/sprint-4-im-finally-making-sense-of-hurl-18kh)
-- [What Happens When Apps Collect Too Much User Data?](https://dev.to/irina_maltseva/what-happens-when-apps-collect-too-much-user-data-2l6c)
+- [Prepare for FAANG Coding Interviews with No Prior Experience](https://dev.to/codere5c/prepare-for-faang-coding-interviews-with-no-prior-experience-2blp)
+- [Understand the structure of HarmonyOS NEXT engineering directory](https://dev.to/victordeng/understand-the-structure-of-harmonyos-next-engineering-directory-1lag)
+- [Exploiting GA in conjunction with AdWords.](https://dev.to/googleads623/exploiting-ga-in-conjunction-with-adwords-162)
+- [🎯 Understanding Billboards on DEV Community](https://dev.to/hanzla-baig/understanding-billboards-on-dev-community-3mf0)
+- [Nice One!](https://dev.to/sumonta056/-1jml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
