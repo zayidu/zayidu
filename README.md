@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost Dynamics of Multitenancy](https://dev.to/_steve_fenton_/the-cost-dynamics-of-multitenancy-cb8)
-- [AI YouTube to Text/Video/Audio summary](https://dev.to/sebastiandevelops/ai-youtube-to-textvideoaudio-summary-3bd0)
-- [Flutter Mobile App Development: Revolutionizing Cross-Platform Solutions](https://dev.to/bestpeers/flutter-mobile-app-development-revolutionizing-cross-platform-solutions-18k2)
-- [Code Less, Create More: How AI Freed Us from the Debugging Dungeon](https://dev.to/copyleftdev/code-less-create-more-how-ai-freed-us-from-the-debugging-dungeon-24al)
-- [The Leetcode Trap: Why Solving 1000 Problems Won’t Make You a Real Problem Solver](https://dev.to/skilledcoder/the-leetcode-trap-why-solving-1000-problems-wont-make-you-a-real-problem-solver-22mg)
+- [Advanced Docker](https://dev.to/bhavyajain/advanced-docker-2jee)
+- [Python’s Multiple Inheritance and Method Resolution Order &lpar;MRO&rpar;!](https://dev.to/nkpydev/pythons-multiple-inheritance-and-method-resolution-order-mro-51i7)
+- [Fixing &#39;Unable to Get Local Issuer Certificate&#39; SSL Problem](https://dev.to/keploy/fixing-unable-to-get-local-issuer-certificate-ssl-problem-ci1)
+- [How to create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-expandable-image-gallery-with-tailwind-css-89j)
+- [Using single chip microcomputer to realize ultrasonic obstacle avoidance car](https://dev.to/carolineee/using-single-chip-microcomputer-to-realize-ultrasonic-obstacle-avoidance-car-4p0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
