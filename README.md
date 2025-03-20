@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling SGE-Intelligence—A Scholarly Study of AI-Driven Content Optimization in the Search Generative Experience](https://dev.to/arash_mansourpour/unveiling-sge-intelligence-a-scholarly-study-of-ai-driven-content-optimization-in-the-search-158m)
-- [How to containerize an Application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-an-application-159)
-- [web dev](https://dev.to/james_arias_7248f4e27bbb4/web-dev-3k08)
-- [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
-- [How to Pick the Right Tech for Your Startup](https://dev.to/kannandreams/how-to-pick-the-right-tech-for-your-startup-1op5)
+- [Why I Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/why-i-stopped-using-typescript-for-small-projects-3ej7)
+- [Why can deleted files be recovered?](https://dev.to/valdeirpsr/why-can-deleted-files-be-recovered-3gln)
+- [🚀 Next.js Auth Starter – Auth.js, Prisma &amp; Tailwind](https://dev.to/abdelmajid_bendada_0ed2ab/nextjs-auth-starter-authjs-prisma-tailwind-1h1b)
+- [Exploring AI-Based Digital Forensics Techniques](https://dev.to/kartikmehta8/exploring-ai-based-digital-forensics-techniques-43kg)
+- [JDK 24 New Features Every Java Developer Must Know](https://dev.to/myexamcloud/jdk-24-new-features-every-java-developer-must-know-21dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
