@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Mental Models: How Senior Devs Solve Problems Faster](https://dev.to/sayyad_arsalan_97175d7177/mastering-mental-models-how-senior-devs-solve-problems-faster-3bka)
-- [The Harsh Truth About AI Startups: Why Most Will Fail &lpar;And How to Survive&rpar;](https://dev.to/tirtha/the-harsh-truth-about-ai-startups-why-most-will-fail-and-how-to-survive-25kp)
-- [Crafting an Effective Application Security Program: Strategies, Practices and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-practices-and-tools-for-optimal-4ikp)
-- [The process of creating an effective Application Security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-19cb)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2dfn)
+- [[Boost]](https://dev.to/pragativerma18/-487i)
+- [[Boost]](https://dev.to/ofri_wolfus_38f4979b65436/-31lm)
+- [::before/::after pseudo elements in CSS - A Complete guide](https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)
+- [Cyclops Launch Week #2](https://dev.to/cyclops-ui/cyclops-launch-week-2-9fa)
+- [Implementing Protected Dashboards Using Node.JS](https://dev.to/bhavyajain/implementing-protected-dashboards-using-nodejs-a7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
