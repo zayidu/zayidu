@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here How to Build a Chatbot for Free Using OpenRouter and DeepSeek APIs](https://dev.to/web_dev-usman/here-how-to-build-a-chatbot-for-free-using-openrouter-and-deepseek-apis-492e)
-- [30 Git Commands Every Developer Should Know 🔥](https://dev.to/moibra/30-git-commands-every-developer-should-know-2k6g)
-- [Bloom Filters Applied In Real-Life Application - Laravel Prototype](https://dev.to/abdelrahman_dwedar/bloom-filters-applied-in-real-life-application-laravel-prototype-20i9)
-- [鸿蒙开发：一个轻盈的上拉下拉刷新组件](https://dev.to/abnerming888/hong-meng-kai-fa-ge-qing-ying-de-shang-la-xia-la-shua-xin-zu-jian-5767)
-- [Say Goodbye to Trial &amp; Error: How DoCoreAI Optimizes AI Response Temperature for You](https://dev.to/sajijohn/say-goodbye-to-trial-error-how-docoreai-optimizes-ai-response-temperature-for-you-4og7)
+- [The Cost Dynamics of Multitenancy](https://dev.to/_steve_fenton_/the-cost-dynamics-of-multitenancy-cb8)
+- [AI YouTube to Text/Video/Audio summary](https://dev.to/sebastiandevelops/ai-youtube-to-textvideoaudio-summary-3bd0)
+- [Flutter Mobile App Development: Revolutionizing Cross-Platform Solutions](https://dev.to/bestpeers/flutter-mobile-app-development-revolutionizing-cross-platform-solutions-18k2)
+- [Code Less, Create More: How AI Freed Us from the Debugging Dungeon](https://dev.to/copyleftdev/code-less-create-more-how-ai-freed-us-from-the-debugging-dungeon-24al)
+- [The Leetcode Trap: Why Solving 1000 Problems Won’t Make You a Real Problem Solver](https://dev.to/skilledcoder/the-leetcode-trap-why-solving-1000-problems-wont-make-you-a-real-problem-solver-22mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
