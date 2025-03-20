@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pragativerma18/-487i)
-- [[Boost]](https://dev.to/ofri_wolfus_38f4979b65436/-31lm)
-- [::before/::after pseudo elements in CSS - A Complete guide](https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)
-- [Cyclops Launch Week #2](https://dev.to/cyclops-ui/cyclops-launch-week-2-9fa)
-- [Implementing Protected Dashboards Using Node.JS](https://dev.to/bhavyajain/implementing-protected-dashboards-using-nodejs-a7l)
+- [9 Modern JavaScript Tips for Beginners in 2025 🚀🔥](https://dev.to/ananiket/9-modern-javascript-tips-for-beginners-in-2025-3bkm)
+- [A Beginner’s Guide to NumPy for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-numpy-for-data-analysis-2gg8)
+- [Today&#39;s GitHub Repo&#39;s](https://dev.to/devsk001/todays-github-repos-2h7a)
+- [🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅](https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90)
+- [How AI is Revolutionizing Crypto Trading and Market Predictions](https://dev.to/joinwithken/how-ai-is-revolutionizing-crypto-trading-and-market-predictions-3pel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
