@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes GitOps with FluxCD - Part 2 - Secret Management using SOPS](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-2-secret-management-using-sops-4k6k)
-- [VSCode IntelliSense Broken in Tailwind CSS v4? Here’s the Solution](https://dev.to/mrpaulishaili/vscode-intellisense-broken-in-tailwind-css-v4-heres-the-solution-4d5)
-- [Why Deepseek Server is Busy? Quick fix!](https://dev.to/_37bbf0c253c0b3edec531e/why-deepseek-server-is-busy-quick-fix-58ak)
-- [Mastering JavaScript Variables: var, let, and const](https://dev.to/ebereplenty/mastering-javascript-variables-var-let-and-const-4hh7)
-- [please star it](https://dev.to/rudransh61/please-star-it-4c32)
+- [The Adventures of Blink S3e3: Branching into the Git Multiverse](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e3-branching-into-the-git-multiverse-1mgc)
+- [Anticipating User Errors in Web](https://dev.to/thanksboss/anticipating-user-errors-in-web-3nbc)
+- [[Boost]](https://dev.to/chrisvxd/-1bi7)
+- [The Rise of Vibe Coding: How AI is Changing the Way We Write Code](https://dev.to/mentorsol/the-rise-of-vibe-coding-how-ai-is-changing-the-way-we-write-code-198k)
+- [AICoinFlow: The AI-Based Trading App for New and Experienced Users Introduction](https://dev.to/techno_insights_d8b5bd951/aicoinflow-the-ai-based-trading-app-for-new-and-experienced-usersintroduction-13f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
