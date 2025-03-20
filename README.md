@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/why-i-stopped-using-typescript-for-small-projects-3ej7)
-- [Why can deleted files be recovered?](https://dev.to/valdeirpsr/why-can-deleted-files-be-recovered-3gln)
-- [🚀 Next.js Auth Starter – Auth.js, Prisma &amp; Tailwind](https://dev.to/abdelmajid_bendada_0ed2ab/nextjs-auth-starter-authjs-prisma-tailwind-1h1b)
-- [Exploring AI-Based Digital Forensics Techniques](https://dev.to/kartikmehta8/exploring-ai-based-digital-forensics-techniques-43kg)
-- [JDK 24 New Features Every Java Developer Must Know](https://dev.to/myexamcloud/jdk-24-new-features-every-java-developer-must-know-21dj)
+- [The Most Popular Cosplay Characters of 2024](https://dev.to/gregg001/the-most-popular-cosplay-characters-of-2024-2p3h)
+- [Scrapy2.12.0通过extension来实现定时调度](https://dev.to/dragon72463399/scrapy2120tong-guo-extensionlai-shi-xian-ding-shi-diao-du-3om4)
+- [Skillfully Using Output Variables to Enhance DolphinScheduler Workflow Flexibility and Maintainability](https://dev.to/chen_debra_3060b21d12b1b0/skillfully-using-output-variables-to-enhance-dolphinscheduler-workflow-flexibility-and-na1)
+- [Making Notion Data “AI Ready” by Transferring it to Pinecone with Trigger.dev](https://dev.to/morph-data/making-notion-data-ai-ready-by-transferring-it-to-pinecone-with-triggerdev-36kd)
+- [NocoBase Weekly Updates: Optimize the columns and operations of table block](https://dev.to/nocobase/nocobase-weekly-updates-optimize-the-columns-and-operations-of-table-block-4d6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
