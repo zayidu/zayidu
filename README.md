@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tariff Wars Will Hit US Medicine Costs After Trump&#39;s Irish Big Pharma Swipe, Martin Warns – How CloseUp CRM Can Help](https://dev.to/pharmacrm/tariff-wars-will-hit-us-medicine-costs-after-trumps-irish-big-pharma-swipe-martin-warns-how-1f3l)
-- [News on update 04.05.2020](https://dev.to/labrob2013/news-on-update-04052020-38oi)
-- [Optimizing OpenStack Networking with Calico: Step by step Guide](https://dev.to/alakkadshaw/optimizing-openstack-networking-with-calico-step-by-step-guide-2h2f)
-- [News on update 14.03.2020](https://dev.to/labrob2013/news-on-update-14032020-1i1o)
-- [Translations in Stimulus Controllers](https://dev.to/railsdesigner/translations-in-stimulus-controllers-jm9)
+- [News on update 25.11.2022](https://dev.to/labrob2013/news-on-update-25112022-2k24)
+- [Find The Admin Panel](https://dev.to/mr_gamer_c986b59cdb7a24a/find-the-admin-panel-521j)
+- [News on update 23.04.2022](https://dev.to/labrob2013/news-on-update-23042022-4poj)
+- [Group Dynamics: Climbing as a Team for Greater Success](https://dev.to/cesar12/group-dynamics-climbing-as-a-team-for-greater-success-43nj)
+- [News on update 27.07.2021](https://dev.to/labrob2013/news-on-update-27072021-2ipc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
