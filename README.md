@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/stopped-using-typescript-for-small-projects-2ejp)
-- [Clone graph](https://dev.to/prashantrmishra/clone-graph-12fg)
-- [The complete guide to the AbortController API](https://dev.to/logrocket/the-complete-guide-to-the-abortcontroller-api-144f)
-- [AI-Assisted Coding: The Hype vs. The Hidden Risks](https://dev.to/ash_grover/ai-assisted-coding-the-hype-vs-the-hidden-risks-1560)
-- [Building a Food Ordering App with React](https://dev.to/buttercms/building-a-food-ordering-app-with-react-21fi)
+- [Security Considerations for Healthcare IoT Device Management](https://dev.to/ikoh_sylva/security-considerations-for-healthcare-iot-device-management-4k59)
+- [[Boost]](https://dev.to/monojmkd/-3ggm)
+- [Optimizing React Apps for Production with Vite](https://dev.to/programmerhasan/optimizing-react-apps-for-production-with-vite-15gi)
+- [How to build a web app core concept](https://dev.to/ishwar_2/how-to-build-a-web-app-core-concept-3jm4)
+- [What are the potential threats of using an Outdated OS](https://dev.to/nightmare-lynx/what-are-the-potential-threats-of-using-an-outdated-os-35nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
