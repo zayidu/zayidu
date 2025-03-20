@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Popular Cosplay Characters of 2024](https://dev.to/gregg001/the-most-popular-cosplay-characters-of-2024-2p3h)
-- [Scrapy2.12.0通过extension来实现定时调度](https://dev.to/dragon72463399/scrapy2120tong-guo-extensionlai-shi-xian-ding-shi-diao-du-3om4)
-- [Skillfully Using Output Variables to Enhance DolphinScheduler Workflow Flexibility and Maintainability](https://dev.to/chen_debra_3060b21d12b1b0/skillfully-using-output-variables-to-enhance-dolphinscheduler-workflow-flexibility-and-na1)
-- [Making Notion Data “AI Ready” by Transferring it to Pinecone with Trigger.dev](https://dev.to/morph-data/making-notion-data-ai-ready-by-transferring-it-to-pinecone-with-triggerdev-36kd)
-- [NocoBase Weekly Updates: Optimize the columns and operations of table block](https://dev.to/nocobase/nocobase-weekly-updates-optimize-the-columns-and-operations-of-table-block-4d6j)
+- [Day-01: Java and Spring boot](https://dev.to/e00049/day-01-java-and-spring-boot-1jke)
+- [HarmonyOS NEXT 实战系列10-网络通信](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-10-wang-luo-tong-xin-4c53)
+- [HarmonyOS NEXT 实战系列09-生命周期](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-09-sheng-ming-zhou-qi-3724)
+- [HarmonyOS NEXT 实战系列08-案例微博导航设置](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-08-an-li-wei-bo-dao-hang-she-zhi-lbh)
+- [New Video Alert: How to Provision a Web Server in AWS | Step-by-Step Guide](https://dev.to/saint_vandora/new-video-alert-how-to-provision-a-web-server-in-aws-step-by-step-guide-1fhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
