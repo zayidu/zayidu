@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Django: How Migration Errors Became My Greatest Teacher](https://dev.to/kevwasonga/decoding-django-how-migration-errors-became-my-greatest-teacher-2pmn)
-- [Mastering Kubernetes Pods: Configuration, Scaling, and Troubleshooting](https://dev.to/getambassador2024/mastering-kubernetes-pods-configuration-scaling-and-troubleshooting-31ed)
-- [# Understanding Zero Trust Security: A Developer&#39;s Guide](https://dev.to/info_generalhazedawn_a3d/-understanding-zero-trust-security-a-developers-guide-311p)
-- [CSS Selectors for Beginners](https://dev.to/israelrotimi/css-selectors-for-beginners-32ad)
-- [How AI is Transforming Mobile App Development in Dubai’s Tech Industry](https://dev.to/mobile_app_develop/how-ai-is-transforming-mobile-app-development-in-dubais-tech-industry-2162)
+- [Here How to Build a Chatbot for Free Using OpenRouter and DeepSeek APIs](https://dev.to/web_dev-usman/here-how-to-build-a-chatbot-for-free-using-openrouter-and-deepseek-apis-492e)
+- [30 Git Commands Every Developer Should Know 🔥](https://dev.to/moibra/30-git-commands-every-developer-should-know-2k6g)
+- [Bloom Filters Applied In Real-Life Application - Laravel Prototype](https://dev.to/abdelrahman_dwedar/bloom-filters-applied-in-real-life-application-laravel-prototype-20i9)
+- [鸿蒙开发：一个轻盈的上拉下拉刷新组件](https://dev.to/abnerming888/hong-meng-kai-fa-ge-qing-ying-de-shang-la-xia-la-shua-xin-zu-jian-5767)
+- [Say Goodbye to Trial &amp; Error: How DoCoreAI Optimizes AI Response Temperature for You](https://dev.to/sajijohn/say-goodbye-to-trial-error-how-docoreai-optimizes-ai-response-temperature-for-you-4og7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
