@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Considerations for Healthcare IoT Device Management](https://dev.to/ikoh_sylva/security-considerations-for-healthcare-iot-device-management-4k59)
-- [[Boost]](https://dev.to/monojmkd/-3ggm)
-- [Optimizing React Apps for Production with Vite](https://dev.to/programmerhasan/optimizing-react-apps-for-production-with-vite-15gi)
-- [How to build a web app core concept](https://dev.to/ishwar_2/how-to-build-a-web-app-core-concept-3jm4)
-- [What are the potential threats of using an Outdated OS](https://dev.to/nightmare-lynx/what-are-the-potential-threats-of-using-an-outdated-os-35nk)
+- [Following the Rules is cool, but being a Rebel is Exhilarating!](https://dev.to/samay_mehta_069fbe68d38a3/following-the-rules-is-cool-but-being-a-rebel-is-exhilarating-1mhj)
+- [From idea to gift: 🎁 Wish list application with KendoReact 🤺, KI 🤖 &amp; Firebase 💾](https://dev.to/york/from-idea-to-gift-wish-list-application-with-kendoreact-ki-firebase-35ge)
+- [Learn These HTML Shortcuts and Save Hours of Coding Time](https://dev.to/learncodewithalex/learn-these-html-shortcuts-and-save-hours-of-coding-time-466h)
+- [Learn These HTML Shortcuts That Will Make You Code 5x Faster!](https://dev.to/learncodewithalex/learn-these-html-shortcuts-that-will-make-you-code-5x-faster-3di0)
+- [rbenv vs RVM: Picking Your Ruby Version Manager Buddy](https://dev.to/lovestaco/rbenv-vs-rvm-picking-your-ruby-version-manager-buddy-4130)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
