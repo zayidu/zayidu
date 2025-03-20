@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Features of Ovron Total Security](https://dev.to/ovrontotalsecurity/key-features-of-ovron-total-security-23aj)
-- [Experience the Power of Yardlie Professional Rice Water 2-in-1 Shampoo 500ml – Now Available on Feenzay](https://dev.to/feenzayofficals/experience-the-power-of-yardlie-professional-rice-water-2-in-1-shampoo-500ml-now-available-on-5960)
-- [What Is Exception Propagation in Java?](https://dev.to/devmercy/what-is-exception-propagation-in-java-m12)
-- [KendoReact Free Games [5] Hub](https://dev.to/aniruddhaadak/kendoreact-free-games-5-hub-2goo)
-- [What’s the Difference Between Relational Databases and NoSQL?](https://dev.to/izabellalbuquerque/whats-the-difference-between-relational-databases-and-nosql-j00)
+- [Data Modeling for Java Developers: Structuring With PostgreSQL and MongoDB](https://dev.to/mongodb/data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb-456l)
+- [Best Cloud Hosting Providers Website: Your Ultimate Guide 🚀](https://dev.to/berkan_baerbuilder_85/best-cloud-hosting-providers-website-your-ultimate-guide-4a8n)
+- [Docker Applied Skills: Containerize a Node.js application](https://dev.to/johnogbonna/docker-applied-skills-containerize-a-nodejs-application-2goi)
+- [Post-Quantum Cryptography: The Future of The Password 🔐](https://dev.to/berkan_baerbuilder_85/post-quantum-cryptography-the-future-of-the-password-g4l)
+- [MCP in Action: How I Use AI to Plan My Week with Goose, Asana, and Google Calendar](https://dev.to/blockopensource/mcp-in-action-how-i-use-ai-to-plan-my-week-with-goose-asana-and-google-calendar-292p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
