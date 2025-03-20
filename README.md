@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Modern JavaScript Tips for Beginners in 2025 🚀🔥](https://dev.to/ananiket/9-modern-javascript-tips-for-beginners-in-2025-3bkm)
-- [A Beginner’s Guide to NumPy for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-numpy-for-data-analysis-2gg8)
-- [Today&#39;s GitHub Repo&#39;s](https://dev.to/devsk001/todays-github-repos-2h7a)
-- [🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅](https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90)
-- [How AI is Revolutionizing Crypto Trading and Market Predictions](https://dev.to/joinwithken/how-ai-is-revolutionizing-crypto-trading-and-market-predictions-3pel)
+- [PWC 312 Time to be random](https://dev.to/boblied/pwc-312-time-to-be-random-o0f)
+- [How to hide browsing history from Internet Provider?](https://dev.to/asya_karapetyan_7dd3a62f8/how-to-hide-browsing-history-from-internet-provider-306o)
+- [Efficient Management of SQL Server Functions: Automating Routine Tasks](https://dev.to/samantha_brauer/efficient-management-of-sql-server-functions-automating-routine-tasks-3n6o)
+- [Sprint 4 - I&#39;m Finally Making Sense of Hurl](https://dev.to/theoforger/sprint-4-im-finally-making-sense-of-hurl-18kh)
+- [What Happens When Apps Collect Too Much User Data?](https://dev.to/irina_maltseva/what-happens-when-apps-collect-too-much-user-data-2l6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
