@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Docker](https://dev.to/bhavyajain/advanced-docker-2jee)
-- [Python’s Multiple Inheritance and Method Resolution Order &lpar;MRO&rpar;!](https://dev.to/nkpydev/pythons-multiple-inheritance-and-method-resolution-order-mro-51i7)
-- [Fixing &#39;Unable to Get Local Issuer Certificate&#39; SSL Problem](https://dev.to/keploy/fixing-unable-to-get-local-issuer-certificate-ssl-problem-ci1)
-- [How to create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-expandable-image-gallery-with-tailwind-css-89j)
-- [Using single chip microcomputer to realize ultrasonic obstacle avoidance car](https://dev.to/carolineee/using-single-chip-microcomputer-to-realize-ultrasonic-obstacle-avoidance-car-4p0a)
+- [Kubernetes GitOps with FluxCD - Part 2 - Secret Management using SOPS](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-2-secret-management-using-sops-4k6k)
+- [VSCode IntelliSense Broken in Tailwind CSS v4? Here’s the Solution](https://dev.to/mrpaulishaili/vscode-intellisense-broken-in-tailwind-css-v4-heres-the-solution-4d5)
+- [Why Deepseek Server is Busy? Quick fix!](https://dev.to/_37bbf0c253c0b3edec531e/why-deepseek-server-is-busy-quick-fix-58ak)
+- [Mastering JavaScript Variables: var, let, and const](https://dev.to/ebereplenty/mastering-javascript-variables-var-let-and-const-4hh7)
+- [please star it](https://dev.to/rudransh61/please-star-it-4c32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
