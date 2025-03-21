@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI’s Hidden Superpower: Why Retrieval-Augmented Generation &lpar;RAG&rpar; is Game-Changing](https://dev.to/femtoware_infotechllp/ais-hidden-superpower-why-retrieval-augmented-generation-rag-is-game-changing-4ee0)
-- [Rich vs Anemic Entities in PHP: How to Structure Your Business Logic Right](https://dev.to/mykola_vantukh/rich-vs-anemic-entities-in-php-how-to-structure-your-business-logic-right-7a0)
-- [Unlocking the Power of Salesforce Marketing Cloud: The Future of Intelligent Marketing](https://dev.to/janelee/unlocking-the-power-of-salesforce-marketing-cloud-the-future-of-intelligent-marketing-1bbj)
-- [The Importance of Full-Stack Development within Modern Software Engineering](https://dev.to/towersand55/the-importance-of-full-stack-development-within-modern-software-engineering-dk1)
-- [Understanding Complexity in Data Structures](https://dev.to/priya_naik_513dae9128e2a9/understanding-complexity-in-data-structures-1me6)
+- [DumbQL: A Simplified Query Language for Go Applications](https://dev.to/tomakado/dumbql-a-simplified-query-language-for-go-applications-4bef)
+- [game ideas do it if you can haha](https://dev.to/hur1el/game-ideas-do-it-if-you-can-haha-3po3)
+- [Blockchain Security: How AI Helps Prevent Hacks](https://dev.to/joinwithken/blockchain-security-how-ai-helps-prevent-hacks-1i3h)
+- [A, AAAA, CNAME, NS — Use Cases of Basic DNS Record Types](https://dev.to/kradasa4/a-aaaa-cname-ns-use-cases-of-basic-dns-record-types-1oe6)
+- [Wireframe vs Prototype vs Mockup - What’s the Difference?](https://dev.to/taskframe_team/wireframe-vs-prototype-vs-mockup-whats-the-difference-54p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
