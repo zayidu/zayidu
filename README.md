@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Uninstall SafeLine WAF](https://dev.to/carrie_luo1/how-to-uninstall-safeline-waf-5b5g)
-- [Choosing the Right Frontend Framework: React vs Vue vs Angular](https://dev.to/theodor_coin_4/choosing-the-right-frontend-framework-react-vs-vue-vs-angular-3igl)
-- [Breaking Barriers: Closing the Gender Gap in Tech for a More Inclusive Future](https://dev.to/wearetechi/breaking-barriers-closing-the-gender-gap-in-tech-for-a-more-inclusive-future-3127)
-- [Building User-Centric Products: You are Not Your Customer](https://dev.to/audaciatechnology/building-user-centric-products-you-are-not-your-customer-4fgh)
-- [🚀 Building an MCP Server Go Package in 2 Hours - A Journey of Innovation &amp; Passion](https://dev.to/thefreepeak/building-an-mcp-server-go-package-in-2-hours-a-journey-of-innovation-passion-43e2)
+- [XPeng&#39;s $13.8B Bet on Humanoid Robots: Reshaping the Future of Automation](https://dev.to/wearetechi/xpengs-138b-bet-on-humanoid-robots-reshaping-the-future-of-automation-7ak)
+- [[Boost]](https://dev.to/ai_saas_tecg/-edj)
+- [How to Implement Staking and Yield Farming in Your DeFi Project](https://dev.to/raiden_studio/how-to-implement-staking-and-yield-farming-in-your-defi-project-4jmd)
+- [NVIDIA&#39;s GTC 2025: Unveiling the AI Factory Vision](https://dev.to/ai_saas_tecg/nvidias-gtc-2025-unveiling-the-ai-factory-vision-4gid)
+- [Go + Gorilla/Mux: Everything You Need for Web App](https://dev.to/leapcell/go-gorillamux-everything-you-need-for-web-app-3ka0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
