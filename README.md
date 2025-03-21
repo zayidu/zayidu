@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DumbQL: A Simplified Query Language for Go Applications](https://dev.to/tomakado/dumbql-a-simplified-query-language-for-go-applications-4bef)
-- [game ideas do it if you can haha](https://dev.to/hur1el/game-ideas-do-it-if-you-can-haha-3po3)
-- [Blockchain Security: How AI Helps Prevent Hacks](https://dev.to/joinwithken/blockchain-security-how-ai-helps-prevent-hacks-1i3h)
-- [A, AAAA, CNAME, NS — Use Cases of Basic DNS Record Types](https://dev.to/kradasa4/a-aaaa-cname-ns-use-cases-of-basic-dns-record-types-1oe6)
-- [Wireframe vs Prototype vs Mockup - What’s the Difference?](https://dev.to/taskframe_team/wireframe-vs-prototype-vs-mockup-whats-the-difference-54p4)
+- [&quot;Unveiling AI Risks: The Graph of Effort in Cybersecurity Vulnerability Assessment&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-ai-risks-the-graph-of-effort-in-cybersecurity-vulnerability-assessment-1mn8)
+- [10 Awesome Resources for Devs](https://dev.to/mfm347/10-awesome-resources-for-devs-13l6)
+- [The differences between type and interface in TypeScript.](https://dev.to/doccaio/the-differences-between-type-and-interface-in-typescript-2h79)
+- [Figma MCP Server Guide](https://dev.to/danilo1/figma-mcp-server-guide-2a18)
+- [Garbage collector feature](https://dev.to/hinamurme/garbage-collector-feature-1a9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
