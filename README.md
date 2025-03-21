@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget C and Rust – Python Is the Future of IoT!](https://dev.to/coursedia/forget-c-and-rust-python-is-the-future-of-iot-234c)
-- [[Boost]](https://dev.to/efraim9/-2d7m)
-- [How to install android studio in linux/ubantu](https://dev.to/mayank_tamrkar/how-to-install-android-studio-in-linuxubantu-55dl)
-- [The CueMeet Mission](https://dev.to/cuemeet/the-cuemeet-mission-4np3)
-- [Computing architecture - Binary mathematic](https://dev.to/xtirian/computing-architecture-binary-mathematic-56ck)
+- [Testing Strapi Integration with Dev.to](https://dev.to/arshiash80/testing-strapi-integration-with-devto-45ff)
+- [Adobe Commerce as a Cloud Service is NOT like Shopify](https://dev.to/rafaelcg/adobe-commerce-as-a-cloud-service-is-not-like-shopify-1dp1)
+- [KendoReact Challenge Submission: A Waku Project](https://dev.to/roggc/kendoreact-challenge-submission-a-waku-project-1do6)
+- [Building a little whisper thingy](https://dev.to/charlescrowley/esl-meets-ai-53b6)
+- [Decoding Text Like a Transformer: Mastering Byte-Pair Encoding &lpar;BPE&rpar; Tokenization](https://dev.to/mshojaei77/decoding-text-like-a-transformer-mastering-byte-pair-encoding-bpe-tokenization-8kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
