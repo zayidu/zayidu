@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FitAI](https://dev.to/sakshamm0507/fitai-1a68)
-- [Building and Deploying a Mentorship Platform with Django: A Journey from Local to Live](https://dev.to/sanaipei/building-and-deploying-a-mentorship-platform-with-django-a-journey-from-local-to-live-1gfc)
-- [My Home Network Setup](https://dev.to/silvanocerza/my-home-network-setup-4flo)
-- [[Boost]](https://dev.to/sunilgitb/-41oh)
-- [From Monolith to Microservices: A Developer-Friendly Guide](https://dev.to/lovestaco/from-monolith-to-microservices-a-developer-friendly-guide-1cfh)
+- [Where to Start in Web Development: Ignoring learning HTTP&lpar;S&rpar;, URLs, DNS, IP, SSL will have consequences...](https://dev.to/dev-charodeyka/where-to-start-in-web-development-ignoring-learning-https-urls-dns-ip-ssl-will-have-57le)
+- [Web Scraping with Python: Learn It Fast! 🚀](https://dev.to/0x3d_site/web-scraping-with-python-learn-it-fast-4c6b)
+- [Workout and Diet based on Inbody Report](https://dev.to/rakeshreddy512/my-inbody-report-1kk4)
+- [Simplifying Multi-line Strings with Text Blocks in Java](https://dev.to/igorfragadev/simplifying-multi-line-strings-with-text-blocks-in-java-159a)
+- [argument passing in python](https://dev.to/iis_anisa_de29b4791a3a4c8/argument-passing-in-python-f65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
