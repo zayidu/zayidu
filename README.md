@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing Autonomous Agents with Multi-Agent Systems](https://dev.to/kartikmehta8/developing-autonomous-agents-with-multi-agent-systems-3cd7)
-- [&quot;Unlocking Visual Intelligence: The Power of the TULIP Model in AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-the-tulip-model-in-ai-4aka)
-- [Implementing Access Control System for Microservices Using OPA](https://dev.to/bmf_san/implementing-access-control-system-for-microservices-using-opa-1c2i)
-- [Daily JavaScript Challenge #JS-131: String Compression](https://dev.to/dpc/daily-javascript-challenge-js-131-string-compression-151i)
-- [Content Strategy for Startups: Storytelling as a Growth Driver](https://dev.to/bekahhw/content-strategy-for-startups-storytelling-as-a-growth-driver-9a9)
+- [Day-02: Open Source Community links](https://dev.to/e00049/day-02-open-source-community-links-coo)
+- [Earn Free Crypto with CoinW’s Mission Center: A Beginner-Friendly Guide](https://dev.to/coinw/earn-free-crypto-with-coinws-mission-center-a-beginner-friendly-guide-mna)
+- [Ultimate Guide for API key management in Flutter Projects](https://dev.to/valerianagit/ultimate-guide-for-api-key-management-in-flutter-projects-4kdg)
+- [How to install CUDA on WSL2](https://dev.to/gabriellavoura/how-to-install-cuda-on-wsl2-45g6)
+- [Published an OSS Repository That Continuously Stores GitHub Repository Metrics Using GAS](https://dev.to/route06/published-an-oss-repository-that-continuously-stores-github-repository-metrics-using-gas-4f0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
