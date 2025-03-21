@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Working with Linked Lists in JavaScript](https://dev.to/rakeshreddy512/creating-and-working-with-linked-lists-in-javascript-1np6)
-- [How to Build an AI Recipe Generator with React Native and Strapi](https://dev.to/strapi/how-to-build-an-ai-recipe-generator-with-react-native-and-strapi-1k67)
-- [The Secret Chamber Every Developer Should Have: Unleashing the Power of Side Repositories](https://dev.to/francescobianco/the-secret-chamber-every-developer-should-have-unleashing-the-power-of-side-repositories-1j3)
-- [The Importance of Coding in the Digital Age](https://dev.to/hacker_mughal_80761b30ef2/the-importance-of-coding-in-the-digital-age-2fll)
-- [JavaScript Guess the Output: মজার কিছু ধাঁধা! 🚀](https://dev.to/joydippaul/javascript-guess-the-output-mjaar-kichu-dhaandhaa-41ma)
+- [FitAI](https://dev.to/sakshamm0507/fitai-1a68)
+- [Building and Deploying a Mentorship Platform with Django: A Journey from Local to Live](https://dev.to/sanaipei/building-and-deploying-a-mentorship-platform-with-django-a-journey-from-local-to-live-1gfc)
+- [My Home Network Setup](https://dev.to/silvanocerza/my-home-network-setup-4flo)
+- [[Boost]](https://dev.to/sunilgitb/-41oh)
+- [From Monolith to Microservices: A Developer-Friendly Guide](https://dev.to/lovestaco/from-monolith-to-microservices-a-developer-friendly-guide-1cfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
