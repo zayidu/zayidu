@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove String Spaces](https://dev.to/maddiepst/remove-string-spaces-16m7)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
-- [鸿蒙开发：文本合成语音](https://dev.to/abnerming888/hong-meng-kai-fa-wen-ben-he-cheng-yu-yin-56d4)
-- [鸿蒙开发：了解正则表达式](https://dev.to/abnerming888/hong-meng-kai-fa-liao-jie-zheng-ze-biao-da-shi-1lje)
-- [Does React 18.2 and React 19 which is a better version run the projects right now?](https://dev.to/asish0sahu/does-react-182-and-react-19-which-is-a-better-version-run-the-projects-right-now-5g76)
+- [The Power of TypeScript Utility Types 🚀](https://dev.to/hasunnilupul/the-power-of-typescript-utility-types-50nn)
+- [পাইথন এরর হ্যান্ডলিং এবং ডিবাগিং: সমস্যা মোকাবিলা করা](https://dev.to/shafiemoji/paaithn-err-hyaanddlin-ebn-ddibaagin-smsyaa-mokaabilaa-kraa-35kp)
+- [Kanban or Scrum—which project management approach works best for developers? This blog dives deep into their differences, helping you choose the right fit for your team. Don&#39;t miss out! #developers # kanaban #scrum #scrumvskanaban](https://dev.to/rajesh_patel/kanban-or-scrum-which-project-management-approach-works-best-for-developers-this-blog-dives-deep-45p5)
+- [warnOnce package in Refine source code.](https://dev.to/ramunarasinga-11/warnonce-package-in-refine-source-code-1h13)
+- [Linkable: The Only Link-in-Bio Tool You’ll Ever Need &lpar;And Why I Switched to It&rpar;](https://dev.to/pravinjadhav/linkable-the-only-link-in-bio-tool-youll-ever-need-and-why-i-switched-to-it-3d26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
