@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LlmTornado - The C# Gateway to call 100+ LLM APIs](https://dev.to/lofcz/llmtornado-the-c-gateway-to-call-100-llm-apis-3162)
-- [Code Craft #6 - Basic Structure of an HTML Document](https://dev.to/xtirian/code-craft-6-basic-structure-of-an-html-document-1k0e)
-- [Depuração de Variáveis em Go, usando Reflection](https://dev.to/ortizdavid/depuracao-de-variaveis-em-go-usando-reflection-ni7)
-- [DayCache – Personal Digital Diary](https://dev.to/vinayakjaybhaye/daycache-personal-digital-diary-54fo)
-- [Will AI Replace Web Developers? The Future of AI in Web Development](https://dev.to/cloudestersoftware/will-ai-replace-web-developers-the-future-of-ai-in-web-development-4k81)
+- [Setting Up AWS S3 with Django](https://dev.to/ewan/setting-up-aws-s3-with-django-3h34)
+- [Navigating Compliance and Regulations in AI on the Edge Deployments](https://dev.to/smart_data_/navigating-compliance-and-regulations-in-ai-on-the-edge-deployments-occ)
+- [The best visual explanation &lpar;probably&rpar; of the Event Loop in JavaScript.](https://dev.to/hromium/the-best-visual-explanation-probably-of-the-event-loop-in-javascript-10pa)
+- [Simple Encryption Solutions with Zexson Toolkit](https://dev.to/signor_p/simple-encryption-solutions-with-zexson-toolkit-cld)
+- [Firebase Data Connect explained: Flutter perspective.](https://dev.to/odinachi/firebase-data-connect-explained-flutter-perspective-4e20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
