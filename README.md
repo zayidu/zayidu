@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessing Amazon EKS from a Jumphost using Access Entries](https://dev.to/jajera/accessing-amazon-eks-from-a-jumphost-using-access-entries-4836)
-- [React Clean Architecture](https://dev.to/shpend_rrustemi_ae3bd4934/react-clean-architecture-4leo)
-- [Is Bookmarking Really Necessary? – My Evolution in Information Management and Where I Stand Today &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/is-bookmarking-really-necessary-my-evolution-in-information-management-and-where-i-stand-today-1kmb)
-- [This is a fantastic, concise guide to essential JavaScript debugging techniques](https://dev.to/kevin_asutton_/this-is-a-fantastic-concise-guide-to-essential-javascript-debugging-techniques-1lgn)
-- [This sounds like a goldmine for DevOps enthusiasts! Practical insights and real-world examples, especially covering Kubernetes, Terraform, and Vault, are highly valuable. I&#39;m definitely checking out the article for those hands-on tips and VSCode setups.](https://dev.to/kevin_asutton_/this-sounds-like-a-goldmine-for-devops-enthusiasts-practical-insights-and-real-world-examples-4oc4)
+- [🕒✨ Mastering Time Overlaps in TypeScript: 🚀 Tackling Cross-Midnight Challenges 🌙](https://dev.to/sebasqui/mastering-time-overlaps-in-typescript-tackling-cross-midnight-challenges-4ab6)
+- [Working with AWS VM file manager and users creation](https://dev.to/eunini/working-with-aws-vm-file-manager-and-users-creation-1akc)
+- [Thought Management: My Journey to a New Way of Organizing My Mind](https://dev.to/vic_ako/thought-management-my-journey-to-a-new-way-of-organizing-my-mind-i45)
+- [Top 7 API Documentation Tools of 2025](https://dev.to/tiffany-mintlify/top-7-api-documentation-tools-of-2025-402j)
+- [Herzena – Natural Support for Cardiovascular Health](https://dev.to/chunkofhealth/herzena-natural-support-for-cardiovascular-health-144m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
