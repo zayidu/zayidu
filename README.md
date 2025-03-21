@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-02: Open Source Community links](https://dev.to/e00049/day-02-open-source-community-links-coo)
-- [Earn Free Crypto with CoinW’s Mission Center: A Beginner-Friendly Guide](https://dev.to/coinw/earn-free-crypto-with-coinws-mission-center-a-beginner-friendly-guide-mna)
-- [Ultimate Guide for API key management in Flutter Projects](https://dev.to/valerianagit/ultimate-guide-for-api-key-management-in-flutter-projects-4kdg)
-- [How to install CUDA on WSL2](https://dev.to/gabriellavoura/how-to-install-cuda-on-wsl2-45g6)
-- [Published an OSS Repository That Continuously Stores GitHub Repository Metrics Using GAS](https://dev.to/route06/published-an-oss-repository-that-continuously-stores-github-repository-metrics-using-gas-4f0g)
+- [How to Fix Shopee Email Verification Issues: A Quick Guide for Sellers](https://dev.to/mindlily/how-to-fix-shopee-email-verification-issues-a-quick-guide-for-sellers-2mfd)
+- [Understanding Assignment Operators in JavaScript: From Basics to Advanced Concepts](https://dev.to/coder_studios/understanding-assignment-operators-in-javascript-from-basics-to-advanced-concepts-34e0)
+- [Testing Basics: How Do You Prioritize Manual vs Automated Testing?](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-basics-how-do-you-prioritize-manual-vs-automated-testing-eaa)
+- [Difference between null, undefined and not defined in javascript](https://dev.to/coder_studios/difference-between-null-undefined-and-not-defined-in-javascript-2ke)
+- [JavaScript String and Variable Basics Questions](https://dev.to/coder_studios/javascript-string-and-variable-basics-questions-116c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
