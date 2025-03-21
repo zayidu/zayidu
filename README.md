@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. Vue vs. Angular: Choosing the Right Framework for Your Next Project](https://dev.to/champsoft/react-vs-vue-vs-angular-choosing-the-right-framework-for-your-next-project-5cj6)
-- [Building the Sparrow Coding Lab Project: A Full-Stack Development Journey](https://dev.to/surendergupta/building-the-sparrow-coding-lab-project-a-full-stack-development-journey-4fj8)
-- [What is REST API? A Beginner&#39;s Guide](https://dev.to/kapildubey/what-is-rest-api-a-beginners-guide-3lo)
-- [Taming the Gopher: Best Practices for Structured Go Code 🐹](https://dev.to/tavernetech/taming-the-gopher-best-practices-for-structured-go-code-2idf)
-- [Stop Wasting Time on These Outdated Tech Skills in 2025](https://dev.to/mr_nova/stop-wasting-time-on-these-outdated-tech-skills-in-2025-1dp)
+- [AWS WAF: Keeping Your Web Applications Secure](https://dev.to/sameer_khanal_7a66fbe8002/aws-waf-keeping-your-web-applications-secure-2g24)
+- [CSS Shadow Generator For Everyone 🔥](https://dev.to/hanzla-baig/css-shadow-generator-for-everyone-1adn)
+- [🔥 CSS Shadow Generator | Happy Coding](https://dev.to/hanzla-baig/css-shadow-generator-happy-coding-1phn)
+- [Creating a React-Native library using New Architecture &lpar;JSI, C++&rpar;](https://dev.to/sergei_kazakov/creating-a-react-native-library-using-new-architecture-jsi-c-fj3)
+- [Enhancing Creativity: A Web Interface for Stable Diffusion](https://dev.to/dm8ry/enhancing-creativity-a-web-interface-for-stable-diffusion-md7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
