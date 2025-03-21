@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Strapi Integration with Dev.to](https://dev.to/arshiash80/testing-strapi-integration-with-devto-45ff)
-- [Adobe Commerce as a Cloud Service is NOT like Shopify](https://dev.to/rafaelcg/adobe-commerce-as-a-cloud-service-is-not-like-shopify-1dp1)
-- [KendoReact Challenge Submission: A Waku Project](https://dev.to/roggc/kendoreact-challenge-submission-a-waku-project-1do6)
-- [Building a little whisper thingy](https://dev.to/charlescrowley/esl-meets-ai-53b6)
-- [Decoding Text Like a Transformer: Mastering Byte-Pair Encoding &lpar;BPE&rpar; Tokenization](https://dev.to/mshojaei77/decoding-text-like-a-transformer-mastering-byte-pair-encoding-bpe-tokenization-8kh)
+- [Accessing Amazon EKS from a Jumphost using Access Entries](https://dev.to/jajera/accessing-amazon-eks-from-a-jumphost-using-access-entries-4836)
+- [React Clean Architecture](https://dev.to/shpend_rrustemi_ae3bd4934/react-clean-architecture-4leo)
+- [Is Bookmarking Really Necessary? – My Evolution in Information Management and Where I Stand Today &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/is-bookmarking-really-necessary-my-evolution-in-information-management-and-where-i-stand-today-1kmb)
+- [This is a fantastic, concise guide to essential JavaScript debugging techniques](https://dev.to/kevin_asutton_/this-is-a-fantastic-concise-guide-to-essential-javascript-debugging-techniques-1lgn)
+- [This sounds like a goldmine for DevOps enthusiasts! Practical insights and real-world examples, especially covering Kubernetes, Terraform, and Vault, are highly valuable. I&#39;m definitely checking out the article for those hands-on tips and VSCode setups.](https://dev.to/kevin_asutton_/this-sounds-like-a-goldmine-for-devops-enthusiasts-practical-insights-and-real-world-examples-4oc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
