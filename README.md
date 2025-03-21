@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unveiling AI Risks: The Graph of Effort in Cybersecurity Vulnerability Assessment&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-ai-risks-the-graph-of-effort-in-cybersecurity-vulnerability-assessment-1mn8)
-- [10 Awesome Resources for Devs](https://dev.to/mfm347/10-awesome-resources-for-devs-13l6)
-- [The differences between type and interface in TypeScript.](https://dev.to/doccaio/the-differences-between-type-and-interface-in-typescript-2h79)
-- [Figma MCP Server Guide](https://dev.to/danilo1/figma-mcp-server-guide-2a18)
-- [Garbage collector feature](https://dev.to/hinamurme/garbage-collector-feature-1a9f)
+- [Creating and Working with Linked Lists in JavaScript](https://dev.to/rakeshreddy512/creating-and-working-with-linked-lists-in-javascript-1np6)
+- [How to Build an AI Recipe Generator with React Native and Strapi](https://dev.to/strapi/how-to-build-an-ai-recipe-generator-with-react-native-and-strapi-1k67)
+- [The Secret Chamber Every Developer Should Have: Unleashing the Power of Side Repositories](https://dev.to/francescobianco/the-secret-chamber-every-developer-should-have-unleashing-the-power-of-side-repositories-1j3)
+- [The Importance of Coding in the Digital Age](https://dev.to/hacker_mughal_80761b30ef2/the-importance-of-coding-in-the-digital-age-2fll)
+- [JavaScript Guess the Output: মজার কিছু ধাঁধা! 🚀](https://dev.to/joydippaul/javascript-guess-the-output-mjaar-kichu-dhaandhaa-41ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
