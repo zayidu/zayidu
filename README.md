@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS WAF: Keeping Your Web Applications Secure](https://dev.to/sameer_khanal_7a66fbe8002/aws-waf-keeping-your-web-applications-secure-2g24)
-- [CSS Shadow Generator For Everyone 🔥](https://dev.to/hanzla-baig/css-shadow-generator-for-everyone-1adn)
-- [🔥 CSS Shadow Generator | Happy Coding](https://dev.to/hanzla-baig/css-shadow-generator-happy-coding-1phn)
-- [Creating a React-Native library using New Architecture &lpar;JSI, C++&rpar;](https://dev.to/sergei_kazakov/creating-a-react-native-library-using-new-architecture-jsi-c-fj3)
-- [Enhancing Creativity: A Web Interface for Stable Diffusion](https://dev.to/dm8ry/enhancing-creativity-a-web-interface-for-stable-diffusion-md7)
+- [How To Uninstall SafeLine WAF](https://dev.to/carrie_luo1/how-to-uninstall-safeline-waf-5b5g)
+- [Choosing the Right Frontend Framework: React vs Vue vs Angular](https://dev.to/theodor_coin_4/choosing-the-right-frontend-framework-react-vs-vue-vs-angular-3igl)
+- [Breaking Barriers: Closing the Gender Gap in Tech for a More Inclusive Future](https://dev.to/wearetechi/breaking-barriers-closing-the-gender-gap-in-tech-for-a-more-inclusive-future-3127)
+- [Building User-Centric Products: You are Not Your Customer](https://dev.to/audaciatechnology/building-user-centric-products-you-are-not-your-customer-4fgh)
+- [🚀 Building an MCP Server Go Package in 2 Hours - A Journey of Innovation &amp; Passion](https://dev.to/thefreepeak/building-an-mcp-server-go-package-in-2-hours-a-journey-of-innovation-passion-43e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
