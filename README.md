@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [XPeng&#39;s $13.8B Bet on Humanoid Robots: Reshaping the Future of Automation](https://dev.to/wearetechi/xpengs-138b-bet-on-humanoid-robots-reshaping-the-future-of-automation-7ak)
-- [[Boost]](https://dev.to/ai_saas_tecg/-edj)
-- [How to Implement Staking and Yield Farming in Your DeFi Project](https://dev.to/raiden_studio/how-to-implement-staking-and-yield-farming-in-your-defi-project-4jmd)
-- [NVIDIA&#39;s GTC 2025: Unveiling the AI Factory Vision](https://dev.to/ai_saas_tecg/nvidias-gtc-2025-unveiling-the-ai-factory-vision-4gid)
-- [Go + Gorilla/Mux: Everything You Need for Web App](https://dev.to/leapcell/go-gorillamux-everything-you-need-for-web-app-3ka0)
+- [LlmTornado - The C# Gateway to call 100+ LLM APIs](https://dev.to/lofcz/llmtornado-the-c-gateway-to-call-100-llm-apis-3162)
+- [Code Craft #6 - Basic Structure of an HTML Document](https://dev.to/xtirian/code-craft-6-basic-structure-of-an-html-document-1k0e)
+- [Depuração de Variáveis em Go, usando Reflection](https://dev.to/ortizdavid/depuracao-de-variaveis-em-go-usando-reflection-ni7)
+- [DayCache – Personal Digital Diary](https://dev.to/vinayakjaybhaye/daycache-personal-digital-diary-54fo)
+- [Will AI Replace Web Developers? The Future of AI in Web Development](https://dev.to/cloudestersoftware/will-ai-replace-web-developers-the-future-of-ai-in-web-development-4k81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
