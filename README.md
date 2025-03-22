@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Cache vs Semantic Cache en AI Agentics: ¿Cuál usar y cuándo?](https://dev.to/exiadev/memory-cache-vs-semantic-cache-en-ai-agentics-cual-usar-y-cuando-3e4n)
-- [Daily JavaScript Challenge #JS-132: Find Majority Element in an Array](https://dev.to/dpc/daily-javascript-challenge-js-132-find-majority-element-in-an-array-2fj)
-- [Signals in Python: How reaktiv brings Feline Reflexes to Your Backend Code](https://dev.to/buiapp/signals-in-python-how-reaktiv-brings-feline-reflexes-to-your-backend-code-1m8b)
-- [Cómo hacer un buen Makefile](https://dev.to/djsurgeon/como-hacer-un-buen-makefile-2pol)
-- [AugMix in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-5-3iag)
+- [鸿蒙开发：实现AI打字机效果](https://dev.to/abnerming888/hong-meng-kai-fa-shi-xian-aida-zi-ji-xiao-guo-2139)
+- [鸿蒙开发：申请授权权限](https://dev.to/abnerming888/hong-meng-kai-fa-shen-qing-shou-quan-quan-xian-2cp)
+- [鸿蒙开发：权限管理之授权方式](https://dev.to/abnerming888/hong-meng-kai-fa-quan-xian-guan-li-zhi-shou-quan-fang-shi-4i7n)
+- [3d model of the real language](https://dev.to/berrycow/3d-model-of-the-real-language-871)
+- [Oracle 23ai — Speed up IMPDP Using NOVALIDATE Constraints](https://dev.to/vahidusefzadeh/oracle-23ai-speed-up-impdp-using-novalidate-constraints-255b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
