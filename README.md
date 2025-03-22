@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 RootAlert - Real-time Exception Tracking &amp; Alerting for .NET on Slack &amp; Teams](https://dev.to/satsvelke/rootalert-real-time-exception-tracking-alerting-for-net-on-slack-teams-1edh)
-- [Introducing AWS Service Reference Information MCP Server](https://dev.to/aws-builders/introducing-aws-service-reference-information-mcp-server-15g5)
-- [Blogging Tools](https://dev.to/vakin_mosa_009/blogging-tools-3l2j)
-- [Digital Clocks in CSS](https://dev.to/madsstoumann/digital-clocks-in-css-3dkg)
-- [Top 5 Wireframing Tools for Designers and Developers](https://dev.to/taskframe_team/top-5-wireframing-tools-for-designers-and-developers-3k43)
+- [Hello Community](https://dev.to/techie_chief/hello-community-2k33)
+- [&quot;Argo CD: A GitOps Tool for Kubernetes Continuous Deployment&quot;](https://dev.to/soram/argo-cd-a-gitops-tool-for-kubernetes-continuous-deployment-3d2k)
+- [La Colaboración de Agentes Inteligentes en Amazon Bedrock - Automatización Inteligente y Escalable](https://dev.to/exiadev/la-colaboracion-de-agentes-inteligentes-en-amazon-bedrock-automatizacion-inteligente-y-escalable-59gn)
+- [more efficient Calculator in Java](https://dev.to/aafthab_ali/more-efficient-calculator-in-java-271a)
+- [Create User-Friendly Contact Forms with HTML: A Beginner&#39;s Guide](https://dev.to/abdelhakim_baalla/create-user-friendly-contact-forms-with-html-a-beginners-guide-1bd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
