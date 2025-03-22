@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [yaps[dot]chat is better than telegram, whatsapp, messengers. &quot;just refresh to delete&quot;.](https://dev.to/abdibrokhim/yapsdotchat-is-better-than-telegram-whatsapp-messengers-just-refresh-to-delete-1l4o)
-- [Interview Experience at Walmart Global Tech for SWE-III position](https://dev.to/kriti_pare/interview-experience-at-walmart-global-tech-for-swe-iii-position-k95)
-- [DevOps Made Simple: A Beginner’s Guide to DevSecOps in Action - Securing Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-devsecops-in-action-securing-your-cicd-pipeline-39i1)
-- [115 Awesome MCP Servers You Cannot Miss Out in 2025](https://dev.to/lynn_mikami_e94e5b9ad7daf/115-awesome-mcp-servers-you-cannot-miss-out-in-2025-5m3)
-- [🤖 Automating .NET Development: AI-Generated Projects Inside Visual Studio](https://dev.to/anup_kumar_51d4c4360384d4/automating-net-development-ai-generated-projects-inside-visual-studio-48j3)
+- [Exploring the Impact of Proxies in Process Mining](https://dev.to/swiftproxy_residential/exploring-the-impact-of-proxies-in-process-mining-g6i)
+- [[Boost]](https://dev.to/duplessisvanaswegen/-77m)
+- [What You Need to Know About HTTP Cookies](https://dev.to/swiftproxy_residential/what-you-need-to-know-about-http-cookies-4jce)
+- [A Comprehensive Guide to Developing a Massage Therapist Booking App](https://dev.to/simonharris/a-comprehensive-guide-to-developing-a-massage-therapist-booking-app-1bge)
+- [Help! It’s Another TypeScript Metadata Registry! &lpar;But this one&#39;s useful&rpar;](https://dev.to/duplessisvanaswegen/help-its-another-typescript-metadata-registry-but-this-ones-useful-1ohk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
