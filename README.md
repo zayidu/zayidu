@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Series #3 Sum of Numbers](https://dev.to/maddiepst/beginner-series-3-sum-of-numbers-2ie)
-- [Re-Evaluating My JourneySkill Idea: New Features for a Better Experience](https://dev.to/ashraful__malik/re-evaluating-my-journeyskill-idea-new-features-for-a-better-experience-2ml7)
-- [Ethical AI Testing: Ensuring Fairness and Bias-Free Models](https://dev.to/anil_csimplifyit_905c/ethical-ai-testing-ensuring-fairness-and-bias-free-models-1ooi)
-- [Periodic table of DevSecOps](https://dev.to/iamsahithya/periodic-table-of-devsecops-cak)
-- [Precision Prompting: How to Get AI to Say Exactly What You Need](https://dev.to/rijultp/precision-prompting-how-to-get-ai-to-say-exactly-what-you-need-3ec3)
+- [AI-Powered TradingView Chart Analysis – No More Screenshots!](https://dev.to/kareee98/ai-powered-tradingview-chart-analysis-no-more-screenshots-5fjl)
+- [Setting Up a Machine Learning Development Environment on Mac](https://dev.to/creative_moon/setting-up-a-machine-learning-development-environment-on-mac-2nal)
+- [Ternyata Selama Ini Saya Fetching Data Tidak Efisien di React](https://dev.to/ferryops/ternyata-selama-ini-saya-fetching-data-tidak-efisien-di-react-57kh)
+- [Gemini Will Save You From Your Boss](https://dev.to/sarathoff/gemini-will-save-you-from-your-boss-3i39)
+- [How to Deploy Bitnami Schema Registry Helm Chart on Preinstalled Strimzi Kafka Cluster in a Separate Namespace?](https://dev.to/ss_387328b24b7cd1ac756da/how-to-deploy-bitnami-schema-registry-helm-chart-on-preinstalled-strimzi-kafka-cluster-in-a-5aeh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
