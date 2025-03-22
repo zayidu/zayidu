@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No More BORING Forms: react-hook-form for Beginners](https://dev.to/codeparrot/no-more-boring-forms-react-hook-form-for-beginners-2kjk)
-- [Interface vs Abstract Class?](https://dev.to/burakboduroglu/interface-vs-abstract-class-55ka)
-- [KendoReact Kit](https://dev.to/aibughunter/kendoreact-kit-4i87)
-- [What are vectors?](https://dev.to/meclin/1-what-are-vectors-1k9o)
-- [HTTP Requests](https://dev.to/anvo0000/http-requests-adl)
+- [How Cursor Editor Helped Me Revive a Laravel Package After 7 Years](https://dev.to/alihesari/how-cursor-editor-helped-me-revive-a-laravel-package-after-7-years-kl0)
+- [🚀 Docker vs Kubernetes: Which One Do You Really Need in 2025?](https://dev.to/dct_technologyprivatelimited/docker-vs-kubernetes-which-one-do-you-really-need-in-2025-50mb)
+- [Building Developer-Friendly APIs: Best Practices for Modern Architecture](https://dev.to/aaravjoshi/building-developer-friendly-apis-best-practices-for-modern-architecture-mbh)
+- [FastOpenAPI: Generate OpenAPI Schemas for Any Python Framework](https://dev.to/mr_fatalyst/fastopenapi-generate-openapi-schemas-for-any-python-framework-4n9i)
+- [Django REST Framework with Simple JWT &lpar;JSON Web Token&rpar;: Steps on how to sign and verify using the RSA algorithm](https://dev.to/jenchen/django-rest-framework-with-simple-jwt-json-web-token-steps-on-how-to-sign-and-verify-using-the-192b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
