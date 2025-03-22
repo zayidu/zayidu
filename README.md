@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Useful Sites for Privacy and Security](https://dev.to/rubi/useful-sites-for-privacy-and-security-34ll)
-- [Struggling with remote work productivity? Developers often face collaboration issues, unclear workflows, and isolation. This blog dives into the biggest remote work challenges and provides actionable fixes](https://dev.to/nikhil_sachapara/struggling-with-remote-work-productivity-developers-often-face-collaboration-issues-unclear-40k5)
-- [Working remotely as a developer? Balancing productivity, communication, and focus isn’t always easy. This blog breaks down common challenges and offers practical solutions to help you work smarter.](https://dev.to/naik_sejal/working-remotely-as-a-developer-balancing-productivity-communication-and-focus-isnt-always-4n36)
-- [Remote work is great, but it comes with challenges—communication gaps, time zone issues, and distractions. How can developers stay productive? This blog dives into key issues developers face and practical solutions to overcome them.](https://dev.to/pratham_naik_project_manager/remote-work-is-great-but-it-comes-with-challenges-communication-gaps-time-zone-issues-and-4m2j)
-- [🧠🥷How to make MCP &lpar;Cline and Cursor&rpar;](https://dev.to/webdeveloperhyper/how-to-make-mcp-cline-and-cursor-4b66)
+- [No More BORING Forms: react-hook-form for Beginners](https://dev.to/codeparrot/no-more-boring-forms-react-hook-form-for-beginners-2kjk)
+- [Interface vs Abstract Class?](https://dev.to/burakboduroglu/interface-vs-abstract-class-55ka)
+- [KendoReact Kit](https://dev.to/aibughunter/kendoreact-kit-4i87)
+- [What are vectors?](https://dev.to/meclin/1-what-are-vectors-1k9o)
+- [HTTP Requests](https://dev.to/anvo0000/http-requests-adl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
