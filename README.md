@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Cursor Editor Helped Me Revive a Laravel Package After 7 Years](https://dev.to/alihesari/how-cursor-editor-helped-me-revive-a-laravel-package-after-7-years-kl0)
-- [🚀 Docker vs Kubernetes: Which One Do You Really Need in 2025?](https://dev.to/dct_technologyprivatelimited/docker-vs-kubernetes-which-one-do-you-really-need-in-2025-50mb)
-- [Building Developer-Friendly APIs: Best Practices for Modern Architecture](https://dev.to/aaravjoshi/building-developer-friendly-apis-best-practices-for-modern-architecture-mbh)
-- [FastOpenAPI: Generate OpenAPI Schemas for Any Python Framework](https://dev.to/mr_fatalyst/fastopenapi-generate-openapi-schemas-for-any-python-framework-4n9i)
-- [Django REST Framework with Simple JWT &lpar;JSON Web Token&rpar;: Steps on how to sign and verify using the RSA algorithm](https://dev.to/jenchen/django-rest-framework-with-simple-jwt-json-web-token-steps-on-how-to-sign-and-verify-using-the-192b)
+- [Backend Architecture on AWS](https://dev.to/angelomao/backend-architecture-on-aws-17h2)
+- [KendoReact Challenge](https://dev.to/pranavjana/kendoreact-challenge-3ne7)
+- [A Minimal We_Coded Landing page](https://dev.to/lakshita_kumawat/a-minimal-wecoded-landing-page-5hhb)
+- [Desmistificando o Brighter: Comandos, Eventos e a Tríade Send-Publish-Post](https://dev.to/actor-dev/desmistificando-o-brighter-comandos-eventos-e-a-triade-send-publish-post-1oo9)
+- [Exploring RAG: Hypothetical Document Embeddings &lpar;HyDE&rpar;](https://dev.to/busycaesar/exploring-rag-hypothetical-document-embeddings-hyde-43an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
