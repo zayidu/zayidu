@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Libraryware: Revolutionizing Library Management](https://dev.to/sofia-tech/libraryware-revolutionizing-library-management-3gmk)
-- [AWS Service Reference Information MCP Server: how up-to-date, scoped, reference data helps deliver better answers.](https://dev.to/psantus/aws-service-reference-information-mcp-server-how-up-to-date-scoped-reference-data-helps-deliver-gkk)
-- [[Boost]](https://dev.to/nivafy/-52cc)
-- [Boost React Performance and User Experience with Keyboard Shortcuts](https://dev.to/xenral/boost-react-performance-and-user-experience-with-keyboard-shortcuts-5242)
-- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
+- [Composite Types in Go: Arrays, Slices, Maps, Structs, JSON, and Templates](https://dev.to/l_walid/composite-types-in-go-arrays-slices-maps-structs-json-and-templates-894)
+- [Deloy Next or React App to VPS](https://dev.to/abdulsalamamtech/deloy-next-or-react-app-to-vps-2ald)
+- [Mac Dev Environment Automation: From Reset to Ready in 5 Minutes](https://dev.to/lico/mac-dev-environment-automation-from-reset-to-ready-in-5-minutes-3b1e)
+- [Buenas prácticas para escribir commits en Git con Conventional Commits](https://dev.to/johnserranodev/buenas-practicas-para-escribir-commits-en-git-con-conventional-commits-44jm)
+- [Understanding Type Declarations, Package Initialization, Basic Data Types, Complex Numbers, UTF-8, and iota in Go](https://dev.to/l_walid/understanding-type-declarations-package-initialization-basic-data-types-complex-numbers-utf-8-4eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
