@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered TradingView Chart Analysis – No More Screenshots!](https://dev.to/kareee98/ai-powered-tradingview-chart-analysis-no-more-screenshots-5fjl)
-- [Setting Up a Machine Learning Development Environment on Mac](https://dev.to/creative_moon/setting-up-a-machine-learning-development-environment-on-mac-2nal)
-- [Ternyata Selama Ini Saya Fetching Data Tidak Efisien di React](https://dev.to/ferryops/ternyata-selama-ini-saya-fetching-data-tidak-efisien-di-react-57kh)
-- [Gemini Will Save You From Your Boss](https://dev.to/sarathoff/gemini-will-save-you-from-your-boss-3i39)
-- [How to Deploy Bitnami Schema Registry Helm Chart on Preinstalled Strimzi Kafka Cluster in a Separate Namespace?](https://dev.to/ss_387328b24b7cd1ac756da/how-to-deploy-bitnami-schema-registry-helm-chart-on-preinstalled-strimzi-kafka-cluster-in-a-5aeh)
+- [Android Architecture Components: ViewModel, Lifecycle.](https://dev.to/harsh_lade/android-architecture-components-viewmodel-lifecycle-25nl)
+- [Contacts Application with Microservices and Asynchronous Communication with RabbitMQ](https://dev.to/agitrubard/contacts-application-with-microservices-and-asynchronous-communication-with-rabbitmq-2bc1)
+- [Queen Bee Syndrome &amp; Me: Navigating internalised misogyny](https://dev.to/sophiekaelin/what-is-queen-bee-syndrome-14gh)
+- [A Hidden Character Mystery](https://dev.to/abbazs/a-hidden-character-mystery-43d9)
+- [Monolithic vs Microservices Architecture: Which One Should You Choose?](https://dev.to/tejmul_movin_707c8bc5690a/monolithic-vs-microservices-architecture-which-one-should-you-choose-11je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
