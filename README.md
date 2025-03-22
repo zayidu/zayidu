@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Wait? JavaScript Asynchronous Code](https://dev.to/lovestaco/why-wait-javascript-asynchronous-code-307o)
-- [How to Detect AdBlock/AdBlockPlus Activation Status with JavaScript](https://dev.to/kai000/how-to-detect-adblockadblockplus-activation-status-with-javascript-3fad)
-- [GraphQL + NestJS + Interfaces &amp; Unions](https://dev.to/kasir-barati/graphql-nestjs-interfaces-unions-3794)
-- [2685. Count the Number of Complete Components](https://dev.to/mdarifulhaque/2685-count-the-number-of-complete-components-1j33)
-- [Single Responsibility Principle in C#: Writing Classes That Do One Thing Well](https://dev.to/sathish/single-responsibility-principle-in-c-writing-classes-that-do-one-thing-well-3coj)
+- [Chuẩn Bị Phỏng Vấn Dành Cho Các Bạn Sinh Viên Sắp Tốt Nghiệp Hoặc Fresher Đang Đi Xin Việc!](https://dev.to/thefreepeak/chuan-bi-phong-van-danh-cho-cac-ban-sinh-vien-sap-tot-nghiep-hoac-fresher-dang-di-xin-viec-3e8f)
+- [A Deep Dive into JavaScript Classes: Syntax, Constructors, Fields, and More](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-syntax-constructors-fields-and-more-1dpj)
+- [NestJS with TypeORM and PostgreSQL](https://dev.to/refifauzan/nestjs-with-typeorm-and-postgresql-3466)
+- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
+- [O que eu gostaria de ter aprendido sobre rotas no Rails lá no início](https://dev.to/dnovais/o-que-eu-gostaria-de-ter-aprendido-sobre-rotas-no-rails-la-no-inicio-9f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
