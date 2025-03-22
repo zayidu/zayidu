@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Architecture on AWS](https://dev.to/angelomao/backend-architecture-on-aws-17h2)
-- [KendoReact Challenge](https://dev.to/pranavjana/kendoreact-challenge-3ne7)
-- [A Minimal We_Coded Landing page](https://dev.to/lakshita_kumawat/a-minimal-wecoded-landing-page-5hhb)
-- [Desmistificando o Brighter: Comandos, Eventos e a Tríade Send-Publish-Post](https://dev.to/actor-dev/desmistificando-o-brighter-comandos-eventos-e-a-triade-send-publish-post-1oo9)
-- [Exploring RAG: Hypothetical Document Embeddings &lpar;HyDE&rpar;](https://dev.to/busycaesar/exploring-rag-hypothetical-document-embeddings-hyde-43an)
+- [Containerizing a Node.js Application with Docker](https://dev.to/busa/containerizing-a-nodejs-application-with-docker-3oce)
+- [Any designers here who are looking to start a bit of coding?](https://dev.to/sujans/any-designers-here-who-are-looking-to-start-a-bit-of-coding-4fa1)
+- [Today&#39;s AI Updates](https://dev.to/devsk001/todays-ai-updates-mn9)
+- [You might be overusing Vim visual mode 🤯](https://dev.to/m4xshen/you-might-be-overusing-vim-visual-mode-434h)
+- [How Netflix Stores 140 Million Hours of Viewing Data Per Day PART-3](https://dev.to/devsk001/how-netflix-stores-140-million-hours-of-viewing-data-per-day-part-3-2mo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
