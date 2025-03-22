@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chuẩn Bị Phỏng Vấn Dành Cho Các Bạn Sinh Viên Sắp Tốt Nghiệp Hoặc Fresher Đang Đi Xin Việc!](https://dev.to/thefreepeak/chuan-bi-phong-van-danh-cho-cac-ban-sinh-vien-sap-tot-nghiep-hoac-fresher-dang-di-xin-viec-3e8f)
-- [A Deep Dive into JavaScript Classes: Syntax, Constructors, Fields, and More](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-syntax-constructors-fields-and-more-1dpj)
-- [NestJS with TypeORM and PostgreSQL](https://dev.to/refifauzan/nestjs-with-typeorm-and-postgresql-3466)
-- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
-- [O que eu gostaria de ter aprendido sobre rotas no Rails lá no início](https://dev.to/dnovais/o-que-eu-gostaria-de-ter-aprendido-sobre-rotas-no-rails-la-no-inicio-9f8)
+- [Libraryware: Revolutionizing Library Management](https://dev.to/sofia-tech/libraryware-revolutionizing-library-management-3gmk)
+- [AWS Service Reference Information MCP Server: how up-to-date, scoped, reference data helps deliver better answers.](https://dev.to/psantus/aws-service-reference-information-mcp-server-how-up-to-date-scoped-reference-data-helps-deliver-gkk)
+- [[Boost]](https://dev.to/nivafy/-52cc)
+- [Boost React Performance and User Experience with Keyboard Shortcuts](https://dev.to/xenral/boost-react-performance-and-user-experience-with-keyboard-shortcuts-5242)
+- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
