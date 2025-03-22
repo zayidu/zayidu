@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1l6m)
-- [🚀 Mastering Frontend Performance: Speed Up Your React Apps #frontend #react #performance #webdev #umairarshaddev](https://dev.to/umairarshad-dev/mastering-frontend-performance-speed-up-your-react-apps-frontend-react-performance-webdev-18ng)
-- [Jakarta Servlets: Behind the Scene of Deployment and container Lifecycle](https://dev.to/vimukthi_jayasanka_816593/jakarta-servlets-behind-the-scene-of-deployment-and-container-lifecycle-5a4k)
-- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3aae)
-- [What is HarmonyOS NEXT data types and classes?](https://dev.to/victordeng/what-is-harmonyos-next-data-types-and-classes-1o2m)
+- [Why Wait? JavaScript Asynchronous Code](https://dev.to/lovestaco/why-wait-javascript-asynchronous-code-307o)
+- [How to Detect AdBlock/AdBlockPlus Activation Status with JavaScript](https://dev.to/kai000/how-to-detect-adblockadblockplus-activation-status-with-javascript-3fad)
+- [GraphQL + NestJS + Interfaces &amp; Unions](https://dev.to/kasir-barati/graphql-nestjs-interfaces-unions-3794)
+- [2685. Count the Number of Complete Components](https://dev.to/mdarifulhaque/2685-count-the-number-of-complete-components-1j33)
+- [Single Responsibility Principle in C#: Writing Classes That Do One Thing Well](https://dev.to/sathish/single-responsibility-principle-in-c-writing-classes-that-do-one-thing-well-3coj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
