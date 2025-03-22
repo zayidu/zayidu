@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Self Signed Certificate and Verifying the Private Key and Certificate](https://dev.to/hobbyistprogrammerar/creating-a-self-signed-certificate-and-verifying-the-private-key-and-certificate-57m)
-- [Using Key-per-file configuration provider](https://dev.to/karenpayneoregon/using-key-per-file-configuration-provider-a9h)
-- [Excited to Dive into React, Next.js, and GSAP!](https://dev.to/creative_moon/excited-to-dive-into-react-nextjs-and-gsap-40ij)
-- [Building a House Price Prediction Model with FastAPI and Deployment](https://dev.to/creative_moon/building-a-house-price-prediction-model-with-fastapi-and-deployment-50gn)
-- [Does Your Copyright Notice Matter? The Surprising SEO and UX Impact of a Simple Footer Element](https://dev.to/seosiri/does-your-copyright-notice-matter-the-surprising-seo-and-ux-impact-of-a-simple-footer-element-90b)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1l6m)
+- [🚀 Mastering Frontend Performance: Speed Up Your React Apps #frontend #react #performance #webdev #umairarshaddev](https://dev.to/umairarshad-dev/mastering-frontend-performance-speed-up-your-react-apps-frontend-react-performance-webdev-18ng)
+- [Jakarta Servlets: Behind the Scene of Deployment and container Lifecycle](https://dev.to/vimukthi_jayasanka_816593/jakarta-servlets-behind-the-scene-of-deployment-and-container-lifecycle-5a4k)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3aae)
+- [What is HarmonyOS NEXT data types and classes?](https://dev.to/victordeng/what-is-harmonyos-next-data-types-and-classes-1o2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
