@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Composite Types in Go: Arrays, Slices, Maps, Structs, JSON, and Templates](https://dev.to/l_walid/composite-types-in-go-arrays-slices-maps-structs-json-and-templates-894)
-- [Deloy Next or React App to VPS](https://dev.to/abdulsalamamtech/deloy-next-or-react-app-to-vps-2ald)
-- [Mac Dev Environment Automation: From Reset to Ready in 5 Minutes](https://dev.to/lico/mac-dev-environment-automation-from-reset-to-ready-in-5-minutes-3b1e)
-- [Buenas prácticas para escribir commits en Git con Conventional Commits](https://dev.to/johnserranodev/buenas-practicas-para-escribir-commits-en-git-con-conventional-commits-44jm)
-- [Understanding Type Declarations, Package Initialization, Basic Data Types, Complex Numbers, UTF-8, and iota in Go](https://dev.to/l_walid/understanding-type-declarations-package-initialization-basic-data-types-complex-numbers-utf-8-4eaa)
+- [💻 Lista de Exercícios Básicos em Java 🚀 - Part 8](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm)
+- [AI Runner v3.3 is now under Apache 2.0](https://dev.to/w4ffl35/ai-runner-v33-is-now-under-apache-20-138n)
+- [Desentrañando un pergamino de 2000 años con Inteligencia Artificial](https://dev.to/briansuarezsantiago/desentranando-un-pergamino-de-2000-anos-con-inteligencia-artificial-4dp8)
+- [Building Autonomous AI Agents with DeepSeek, LangChain, and AWS Lambda](https://dev.to/sohagmahamud/building-autonomous-ai-agents-with-deepseek-langchain-and-aws-lambda-1ho6)
+- [Advanced Text Matching and Fuzzy Comparison for Data Professionals](https://dev.to/mokhtarebrahim/advanced-text-matching-and-fuzzy-comparison-for-data-professionals-3f8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
