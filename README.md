@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Lista de Exercícios Básicos em Java 🚀 - Part 8](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm)
-- [AI Runner v3.3 is now under Apache 2.0](https://dev.to/w4ffl35/ai-runner-v33-is-now-under-apache-20-138n)
-- [Desentrañando un pergamino de 2000 años con Inteligencia Artificial](https://dev.to/briansuarezsantiago/desentranando-un-pergamino-de-2000-anos-con-inteligencia-artificial-4dp8)
-- [Building Autonomous AI Agents with DeepSeek, LangChain, and AWS Lambda](https://dev.to/sohagmahamud/building-autonomous-ai-agents-with-deepseek-langchain-and-aws-lambda-1ho6)
-- [Advanced Text Matching and Fuzzy Comparison for Data Professionals](https://dev.to/mokhtarebrahim/advanced-text-matching-and-fuzzy-comparison-for-data-professionals-3f8e)
+- [🚀 Type Safety, Tool Management &amp; HTTP Enhancements in Go 1.24](https://dev.to/mx_tech/golang-3m6i)
+- [Revolutionizing Data Access with QueryJinn 🚀](https://dev.to/ajdamiao/revolutionizing-data-access-with-queryjinn-4e61)
+- [Embracing the API Economy – How Integrations Drive Startup Growth](https://dev.to/ai-expert/embracing-the-api-economy-how-integrations-drive-startup-growth-1cok)
+- [Google Vertex RAG Engine with C# .Net](https://dev.to/gunpal5/google-vertex-rag-engine-with-c-net-4e6b)
+- [Is Software Development Dying?Or Will Devs Always Be Needed?](https://dev.to/devkitbase/is-software-development-dyingor-will-devs-always-be-needed-2jkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
