@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs. TanStack, rsdoctor for rspack, OpenAI o1&#39;s pricing problem, and more](https://dev.to/thisweekinjavascript/nextjs-vs-tanstack-rsdoctor-for-rspack-openai-o1s-pricing-problem-and-more-1ech)
-- [Updating the UI for orientation changes with C++ android OpenGL | Android game dev](https://dev.to/theplebdev/updating-the-ui-for-orientation-changes-with-c-android-opengl-android-game-dev-42gh)
-- [Firebase Cloud functions](https://dev.to/buildandcodewithraman/firebase-cloud-functions-2fbo)
-- [In search of a BigQuery agent in LangChain, I built a Toolkit that acts as a BigQuery agent for Text-to-SQL.](https://dev.to/redoc28/in-search-of-a-bigquery-agent-in-langchain-i-built-a-toolkit-that-acts-as-a-bigquery-agent-for-1d62)
-- [Vite এবং React অ্যাপ প্রোডাকশনে ডিপ্লয় করা](https://dev.to/programmerhasan/vite-ebn-react-ayaap-proddaakshne-ddiply-kraa-1ao6)
+- [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
+- [Allergy Identifier - Kendo React GenAI Challange](https://dev.to/dinesh_somaraju/allergy-identifier-kendo-react-genai-challange-4e99)
+- [ASP .NET Core startup validation part 2](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-2-3f7m)
+- [161/365 | ¥10M Job Challenge - Freedom of time](https://dev.to/kameken100/161365-y10m-job-challenge-freedom-of-time-4dn)
+- [🔒 Secure Your Sign-Ups: Email Validation in Node.js with Fastify, Prisma, and Nodemailer 📧](https://dev.to/micaelmi/secure-your-sign-ups-email-validation-in-nodejs-with-fastify-prisma-and-nodemailer-39pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
