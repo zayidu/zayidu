@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Paradox of Simplicity and the Rise of Invisible Tech](https://dev.to/rrsai/the-paradox-of-simplicity-and-the-rise-of-invisible-tech-2hcg)
-- [Build UChart with KendoReact](https://dev.to/tangweikun/build-uchart-with-kendoreact-4ldd)
-- [AugMix in PyTorch &lpar;7&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-7-52i4)
-- [Column Level Audit in Oracle 23ai](https://dev.to/vahidusefzadeh/column-level-audit-in-oracle-23ai-2kge)
-- [How Do You Play Around with Terraform CLI Versions?](https://dev.to/aws-builders/how-do-you-play-around-with-terraform-cli-versions-2ab9)
+- [Join the 7-Day Web Dev Challenge Series: Build, Learn, and Level-Up Your Skills!](https://dev.to/project-verse/join-the-7-day-web-dev-challenge-series-build-learn-and-level-up-your-skills-1gfm)
+- [Join the Fastest-Growing Developer Community](https://dev.to/coderlegi0n/join-the-fastest-growing-developer-community-4e34)
+- [Why Users Think the Way They Do &lpar;And How to Design for It&rpar;](https://dev.to/rijultp/why-users-think-the-way-they-do-and-how-to-design-for-it-5155)
+- [ThDatabase Interaction using Python: Introduction to SQLite/MySQL/PostgreSQLis is a test article](https://dev.to/coderlegi0n/thdatabase-interaction-using-python-introduction-to-sqlitemysqlpostgresqlis-is-a-test-article-4ann)
+- [Javascript](https://dev.to/theaayushsingh/javascript-1fnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
