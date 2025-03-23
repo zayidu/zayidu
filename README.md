@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT开发实战教程：聊天交友App](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-liao-tian-jiao-you-app-1362)
-- [鸿蒙Next开发实战教程--银行App](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-jiao-cheng-yin-xing-app-c0e)
-- [DIY — Building a Cost-Effective Questionnaire Automation with Bedrock](https://dev.to/aws-builders/diy-building-a-cost-effective-questionnaire-automation-with-bedrock-2fb9)
-- [Making an Effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-outcomes-3gfi)
-- [在鸿蒙NEXT中开发一个2048小游戏](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-kai-fa-ge-2048xiao-you-xi-foe)
+- [Understanding Cascading in CSS](https://dev.to/nanisamireddy/understanding-cascading-in-css-2n60)
+- [HarmonyOS NEXT数据列表加载更多&lpar;无需监听列表滑到最底部&rpar;](https://dev.to/yohuo/harmonyos-nextshu-ju-lie-biao-jia-zai-geng-duo-wu-xu-jian-ting-lie-biao-hua-dao-zui-di-bu--oj4)
+- [HarmonyOS NEXT多环境+多渠道+自定义路径输出+自定义名称一键打app和hap包](https://dev.to/yohuo/harmonyos-nextduo-huan-jing-duo-qu-dao-zi-ding-yi-lu-jing-shu-chu-zi-ding-yi-ming-cheng-jian-da-apphe-hapbao-353f)
+- [How to Set Up VS Code for C# Development to Build a Console and Web App](https://dev.to/ibrahimbioabu/how-to-set-up-vs-code-for-c-development-to-build-a-console-and-web-app-7l5)
+- [How to Debug Your Code Like a Pro Using AI](https://dev.to/mohammed_saif05/how-to-debug-your-code-like-a-pro-using-ai-2566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
