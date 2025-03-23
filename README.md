@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rensjaspers/-ecd)
-- [Crush ♥️](https://dev.to/kushagra_shukla_b334f49a0/crush-5ad7)
-- [Meteor.js is great and easy to use web apps bundler, builder, and developer-environment. Whatever your front-end library of choice — it integrates seamlessly with live-data, exact-code-splitting, and web-sockets](https://dev.to/smart_egg/meteorjs-is-great-and-easy-to-use-web-apps-bundler-builder-and-developer-environment-whatever-3ja5)
-- [Optimizing Bandwidth and Code for a Chat-app Backend: Best Practices](https://dev.to/keshav___dev/optimizing-bandwidth-and-code-for-a-chat-app-backend-best-practices-2hah)
-- [Resolving Docker Socket and Daemon Conflicts: Unifying CLI and Docker Desktop on kali Linux](https://dev.to/sivolko/resolving-docker-socket-and-daemon-conflicts-unifying-cli-and-docker-desktop-on-kali-linux-5bol)
+- [Asynchronous Programming in Node.js](https://dev.to/godofgeeks/asynchronous-programming-in-nodejs-2744)
+- [Neural DSL v0.2.4: Automatic Shape Propagation and More](https://dev.to/neural/neural-dsl-v024-automatic-shape-propagation-and-more-ol1)
+- [Pokémon-3D API v1.0.1 - Repository Restoration](https://dev.to/sudhanshuambastha/pokemon-3d-api-v101-repository-restoration-3blb)
+- [AI Model Unifies Visual Understanding and Generation Using Dual Token System](https://dev.to/mikeyoung44/ai-model-unifies-visual-understanding-and-generation-using-dual-token-system-3a46)
+- [AI Model Beats GPT-4 at Financial Reasoning with New Training Method](https://dev.to/mikeyoung44/ai-model-beats-gpt-4-at-financial-reasoning-with-new-training-method-aoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
