@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the 7-Day Web Dev Challenge Series: Build, Learn, and Level-Up Your Skills!](https://dev.to/project-verse/join-the-7-day-web-dev-challenge-series-build-learn-and-level-up-your-skills-1gfm)
-- [Join the Fastest-Growing Developer Community](https://dev.to/coderlegi0n/join-the-fastest-growing-developer-community-4e34)
-- [Why Users Think the Way They Do &lpar;And How to Design for It&rpar;](https://dev.to/rijultp/why-users-think-the-way-they-do-and-how-to-design-for-it-5155)
-- [ThDatabase Interaction using Python: Introduction to SQLite/MySQL/PostgreSQLis is a test article](https://dev.to/coderlegi0n/thdatabase-interaction-using-python-introduction-to-sqlitemysqlpostgresqlis-is-a-test-article-4ann)
-- [Javascript](https://dev.to/theaayushsingh/javascript-1fnm)
+- [পাইথনের ফাইনাল প্রজেক্ট: সব একসাথে](https://dev.to/shafiemoji/paaithner-phaainaal-prjektt-sb-eksaathe-1d8c)
+- [Day-03: Java Features](https://dev.to/e00049/day-03-java-features-3md4)
+- [Variables in Closures Are Not as Secure as You Think](https://dev.to/s1124yy/variables-in-closures-are-not-as-secure-as-you-think-539j)
+- [Living with Grok: A Week Inside Elon Musk’s Bold New AI Assistant:](https://dev.to/devlinkstudios/living-with-grok-a-week-inside-elon-musks-bold-new-ai-assistant-26)
+- [Choosing the Right PHP Framework: Laravel vs. CodeIgniter vs. Symfony](https://dev.to/ezeelive/choosing-the-right-php-framework-laravel-vs-codeigniter-vs-symfony-3223)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
