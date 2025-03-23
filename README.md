@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
-- [Allergy Identifier - Kendo React GenAI Challange](https://dev.to/dinesh_somaraju/allergy-identifier-kendo-react-genai-challange-4e99)
-- [ASP .NET Core startup validation part 2](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-2-3f7m)
-- [161/365 | ¥10M Job Challenge - Freedom of time](https://dev.to/kameken100/161365-y10m-job-challenge-freedom-of-time-4dn)
-- [🔒 Secure Your Sign-Ups: Email Validation in Node.js with Fastify, Prisma, and Nodemailer 📧](https://dev.to/micaelmi/secure-your-sign-ups-email-validation-in-nodejs-with-fastify-prisma-and-nodemailer-39pn)
+- [Async Generators and For-Await-Of Loop](https://dev.to/omriluz1/async-generators-and-for-await-of-loop-1dk9)
+- [Nike Airforce](https://dev.to/abdullah_ba6ed63b8aa61d6e/nike-airforce-7oa)
+- [Notes from course: Generative AI with Large Language Models - Week 3](https://dev.to/valyouw/notes-from-course-generative-ai-with-large-language-models-week-3-4ao)
+- [How to Deploy ASP.NET Applications on IIS: Complete Guide](https://dev.to/samirabawad/how-to-deploy-aspnet-applications-on-iis-complete-guide-502h)
+- [Notes from course: Generative AI with Large Language Models - Week 2](https://dev.to/valyouw/notes-from-course-generative-ai-with-large-language-models-week-2-1om3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
