@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Financial Data Analysis with AWS: A Step-by-Step Guide](https://dev.to/alexcurtis1969/building-financial-data-analysis-with-aws-a-step-by-step-guide-2je4)
-- [The Technology Behind AI-Powered Fake ID Scanners](https://dev.to/idgodcx/the-technology-behind-ai-powered-fake-id-scanners-1nbl)
-- [Building AWS Lambda Functions](https://dev.to/aws-builders/building-aws-lambda-functions-ogb)
-- [🐍 I Love Python, But It’s a Pain at Scale](https://dev.to/criscmd/i-love-python-but-its-a-pain-at-scale-1ng7)
-- [How Symfony Flex Works](https://dev.to/andrew_markhai_27ffd3a6b8/how-symfony-flex-works-4d62)
+- [What is HarmonyOS NEXT - Page Router?](https://dev.to/victordeng/what-is-harmonyos-next-page-router-40io)
+- [What are MCP Servers](https://dev.to/krish_desai_117/what-are-mcp-servers-4m4a)
+- [🚀 Master Flutter DevTools Like a Pro &amp; Make Your App Fly!](https://dev.to/pranta/master-flutter-devtools-like-a-pro-make-your-app-fly-1e6g)
+- [Semaphores in Crystal](https://dev.to/mamantoha/semaphores-in-crystal-5eha)
+- [Understanding Web Real-Time Communication&lpar;WebRTC&rpar;](https://dev.to/clifford_potter/understanding-web-real-time-communicationwebrtc-bn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
