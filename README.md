@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Skillcrush 105: Introducing Version Control &amp; Git](https://dev.to/theoriginalbpc/skillcrush-105-introducing-version-control-git-2c0i)
-- [[Boost]](https://dev.to/lovestaco/-4jkn)
-- [Static Site Generator - 11ty v3 tutorial](https://dev.to/climentea/11ty-static-site-generator-tutorial-11ty-v3-15g3)
-- [Day 1: Laying the Foundation for My DSA Visualizer](https://dev.to/shravan250/day-1-laying-the-foundation-for-my-dsa-visualizer-1en7)
-- [Why kubectl run command is often misunderstood?](https://dev.to/naveens16/why-kubectl-run-command-is-often-misunderstood-45h)
+- [Building Financial Data Analysis with AWS: A Step-by-Step Guide](https://dev.to/alexcurtis1969/building-financial-data-analysis-with-aws-a-step-by-step-guide-2je4)
+- [The Technology Behind AI-Powered Fake ID Scanners](https://dev.to/idgodcx/the-technology-behind-ai-powered-fake-id-scanners-1nbl)
+- [Building AWS Lambda Functions](https://dev.to/aws-builders/building-aws-lambda-functions-ogb)
+- [🐍 I Love Python, But It’s a Pain at Scale](https://dev.to/criscmd/i-love-python-but-its-a-pain-at-scale-1ng7)
+- [How Symfony Flex Works](https://dev.to/andrew_markhai_27ffd3a6b8/how-symfony-flex-works-4d62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
