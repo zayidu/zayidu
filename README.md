@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Type Safety, Tool Management &amp; HTTP Enhancements in Go 1.24](https://dev.to/mx_tech/golang-3m6i)
-- [Revolutionizing Data Access with QueryJinn 🚀](https://dev.to/ajdamiao/revolutionizing-data-access-with-queryjinn-4e61)
-- [Embracing the API Economy – How Integrations Drive Startup Growth](https://dev.to/ai-expert/embracing-the-api-economy-how-integrations-drive-startup-growth-1cok)
-- [Google Vertex RAG Engine with C# .Net](https://dev.to/gunpal5/google-vertex-rag-engine-with-c-net-4e6b)
-- [Is Software Development Dying?Or Will Devs Always Be Needed?](https://dev.to/devkitbase/is-software-development-dyingor-will-devs-always-be-needed-2jkg)
+- [The Rise of AI and the Need for SVG to PNG Conversion](https://dev.to/cz_f0e935d1943be/the-rise-of-ai-and-the-need-for-svg-to-png-conversion-mli)
+- [Opensource Pose Detection Demo](https://dev.to/cz_f0e935d1943be/opensource-pose-detection-demo-3od2)
+- [Layer by Layer: The OSI Model: Layer 3](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-2-hf0)
+- [Mind Tracker: Your Personal Mental Health Journal](https://dev.to/aniruddhaadak/mind-tracker-your-personal-mental-health-journal-22go)
+- [Formula Calculate Age from Date of Birth in Excel!](https://dev.to/excel24x7/formula-calculate-age-from-date-of-birth-in-excel-5fba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
