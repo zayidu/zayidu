@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next开发入门教程--公历日期转农历日期](https://dev.to/youlanjihua/hong-meng-nextkai-fa-ru-men-jiao-cheng-gong-li-ri-qi-zhuan-nong-li-ri-qi-15c4)
-- [在鸿蒙Next中开发一个底部选项弹窗](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-kai-fa-ge-di-bu-xuan-xiang-dan-chuang-1mal)
-- [The 5 Most Popular Node.js Web Frameworks in 2025](https://dev.to/leapcell/the-5-most-popular-nodejs-web-frameworks-in-2025-12po)
-- [Core Software Engineering Concepts Every Developer Must Know](https://dev.to/dehemi_fabio/core-software-engineering-concepts-every-developer-must-know-4i5h)
-- [Redesigning the Reference Component on Gabe the Bear Blog](https://dev.to/gabethebear/redesigning-the-reference-component-on-gabe-the-bear-blog-1bi)
+- [Open/Closed Principle in C#: Making Your Code Flexible Without Breaking Stuff](https://dev.to/sathish/openclosed-principle-in-c-making-your-code-flexible-without-breaking-stuff-3oof)
+- [Best AI and ML Certification Programs Online: A Comprehensive Guide for Aspiring Professionals](https://dev.to/vikas76/best-ai-and-ml-certification-programs-online-a-comprehensive-guide-for-aspiring-professionals-3een)
+- [在鸿蒙NEXT中实现完全自定义导航栏](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-shi-xian-wan-quan-zi-ding-yi-dao-hang-lan-1dma)
+- [HarmonyOS NEXT开发实战教程--招聘app](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-zhao-pin-app-3e57)
+- [鸿蒙开发入门教程--@Prop和@Link装饰器](https://dev.to/youlanjihua/hong-meng-kai-fa-ru-men-jiao-cheng-prophe-linkzhuang-shi-qi-3me7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
