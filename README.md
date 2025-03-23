@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is HarmonyOS NEXT - Page Router?](https://dev.to/victordeng/what-is-harmonyos-next-page-router-40io)
-- [What are MCP Servers](https://dev.to/krish_desai_117/what-are-mcp-servers-4m4a)
-- [🚀 Master Flutter DevTools Like a Pro &amp; Make Your App Fly!](https://dev.to/pranta/master-flutter-devtools-like-a-pro-make-your-app-fly-1e6g)
-- [Semaphores in Crystal](https://dev.to/mamantoha/semaphores-in-crystal-5eha)
-- [Understanding Web Real-Time Communication&lpar;WebRTC&rpar;](https://dev.to/clifford_potter/understanding-web-real-time-communicationwebrtc-bn2)
+- [Next.js vs. TanStack, rsdoctor for rspack, OpenAI o1&#39;s pricing problem, and more](https://dev.to/thisweekinjavascript/nextjs-vs-tanstack-rsdoctor-for-rspack-openai-o1s-pricing-problem-and-more-1ech)
+- [Updating the UI for orientation changes with C++ android OpenGL | Android game dev](https://dev.to/theplebdev/updating-the-ui-for-orientation-changes-with-c-android-opengl-android-game-dev-42gh)
+- [Firebase Cloud functions](https://dev.to/buildandcodewithraman/firebase-cloud-functions-2fbo)
+- [In search of a BigQuery agent in LangChain, I built a Toolkit that acts as a BigQuery agent for Text-to-SQL.](https://dev.to/redoc28/in-search-of-a-bigquery-agent-in-langchain-i-built-a-toolkit-that-acts-as-a-bigquery-agent-for-1d62)
+- [Vite এবং React অ্যাপ প্রোডাকশনে ডিপ্লয় করা](https://dev.to/programmerhasan/vite-ebn-react-ayaap-proddaakshne-ddiply-kraa-1ao6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
