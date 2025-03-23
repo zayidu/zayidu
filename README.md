@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [পাইথনের ফাইনাল প্রজেক্ট: সব একসাথে](https://dev.to/shafiemoji/paaithner-phaainaal-prjektt-sb-eksaathe-1d8c)
-- [Day-03: Java Features](https://dev.to/e00049/day-03-java-features-3md4)
-- [Variables in Closures Are Not as Secure as You Think](https://dev.to/s1124yy/variables-in-closures-are-not-as-secure-as-you-think-539j)
-- [Living with Grok: A Week Inside Elon Musk’s Bold New AI Assistant:](https://dev.to/devlinkstudios/living-with-grok-a-week-inside-elon-musks-bold-new-ai-assistant-26)
-- [Choosing the Right PHP Framework: Laravel vs. CodeIgniter vs. Symfony](https://dev.to/ezeelive/choosing-the-right-php-framework-laravel-vs-codeigniter-vs-symfony-3223)
+- [[Boost]](https://dev.to/rensjaspers/-ecd)
+- [Crush ♥️](https://dev.to/kushagra_shukla_b334f49a0/crush-5ad7)
+- [Meteor.js is great and easy to use web apps bundler, builder, and developer-environment. Whatever your front-end library of choice — it integrates seamlessly with live-data, exact-code-splitting, and web-sockets](https://dev.to/smart_egg/meteorjs-is-great-and-easy-to-use-web-apps-bundler-builder-and-developer-environment-whatever-3ja5)
+- [Optimizing Bandwidth and Code for a Chat-app Backend: Best Practices](https://dev.to/keshav___dev/optimizing-bandwidth-and-code-for-a-chat-app-backend-best-practices-2hah)
+- [Resolving Docker Socket and Daemon Conflicts: Unifying CLI and Docker Desktop on kali Linux](https://dev.to/sivolko/resolving-docker-socket-and-daemon-conflicts-unifying-cli-and-docker-desktop-on-kali-linux-5bol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
