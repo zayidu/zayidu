@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Delta Lake UNIFORM in Databricks](https://dev.to/anil_kumarmoka_f93e418d0/unlocking-the-power-of-delta-lake-uniform-in-databricks-297f)
-- [🔥 3 - Laravel 10 JWT Authentication: Secure Login &amp; API Tokens 🔐](https://dev.to/skipperhoa/3-laravel-10-jwt-authentication-secure-login-api-tokens-2o47)
-- [🔥 2 - Laravel Breeze: Easy Authentication Setup &lpar;Login &amp; Register&rpar;](https://dev.to/skipperhoa/2-laravel-breeze-easy-authentication-setup-login-register-g6n)
-- [Anthropic’s Claude Computer Use: A Game Changer in AI](https://dev.to/jetthoughts/anthropics-claude-computer-use-a-game-changer-in-ai-3ihp)
-- [🔥 1 - Setting Up Laravel 10 for Backend Development ⚡](https://dev.to/skipperhoa/1-setting-up-laravel-10-for-backend-development-1jb7)
+- [The Paradox of Simplicity and the Rise of Invisible Tech](https://dev.to/rrsai/the-paradox-of-simplicity-and-the-rise-of-invisible-tech-2hcg)
+- [Build UChart with KendoReact](https://dev.to/tangweikun/build-uchart-with-kendoreact-4ldd)
+- [AugMix in PyTorch &lpar;7&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-7-52i4)
+- [Column Level Audit in Oracle 23ai](https://dev.to/vahidusefzadeh/column-level-audit-in-oracle-23ai-2kge)
+- [How Do You Play Around with Terraform CLI Versions?](https://dev.to/aws-builders/how-do-you-play-around-with-terraform-cli-versions-2ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
