@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming in Node.js](https://dev.to/godofgeeks/asynchronous-programming-in-nodejs-2744)
-- [Neural DSL v0.2.4: Automatic Shape Propagation and More](https://dev.to/neural/neural-dsl-v024-automatic-shape-propagation-and-more-ol1)
-- [Pokémon-3D API v1.0.1 - Repository Restoration](https://dev.to/sudhanshuambastha/pokemon-3d-api-v101-repository-restoration-3blb)
-- [AI Model Unifies Visual Understanding and Generation Using Dual Token System](https://dev.to/mikeyoung44/ai-model-unifies-visual-understanding-and-generation-using-dual-token-system-3a46)
-- [AI Model Beats GPT-4 at Financial Reasoning with New Training Method](https://dev.to/mikeyoung44/ai-model-beats-gpt-4-at-financial-reasoning-with-new-training-method-aoo)
+- [Task Management Dashboard](https://dev.to/ravi_rajput/task-management-dashboard-3847)
+- [A Simple Tool to Convert Images to Base64 Strings](https://dev.to/kobusbredell/a-simple-tool-to-convert-images-to-base64-strings-3ii1)
+- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4fej)
+- [Different Methods to Generate Random Numbers &lpar;RNG&rpar;](https://dev.to/babynamenestlings_efe5ba9/different-methods-to-generate-random-numbers-rng-5dk8)
+- [WeakMap and WeakSet: Memory-Efficient Collections](https://dev.to/omriluz1/weakmap-and-weakset-memory-efficient-collections-3402)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
