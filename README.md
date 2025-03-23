@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task Management Dashboard](https://dev.to/ravi_rajput/task-management-dashboard-3847)
-- [A Simple Tool to Convert Images to Base64 Strings](https://dev.to/kobusbredell/a-simple-tool-to-convert-images-to-base64-strings-3ii1)
-- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4fej)
-- [Different Methods to Generate Random Numbers &lpar;RNG&rpar;](https://dev.to/babynamenestlings_efe5ba9/different-methods-to-generate-random-numbers-rng-5dk8)
-- [WeakMap and WeakSet: Memory-Efficient Collections](https://dev.to/omriluz1/weakmap-and-weakset-memory-efficient-collections-3402)
+- [鸿蒙Next开发入门教程--公历日期转农历日期](https://dev.to/youlanjihua/hong-meng-nextkai-fa-ru-men-jiao-cheng-gong-li-ri-qi-zhuan-nong-li-ri-qi-15c4)
+- [在鸿蒙Next中开发一个底部选项弹窗](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-kai-fa-ge-di-bu-xuan-xiang-dan-chuang-1mal)
+- [The 5 Most Popular Node.js Web Frameworks in 2025](https://dev.to/leapcell/the-5-most-popular-nodejs-web-frameworks-in-2025-12po)
+- [Core Software Engineering Concepts Every Developer Must Know](https://dev.to/dehemi_fabio/core-software-engineering-concepts-every-developer-must-know-4i5h)
+- [Redesigning the Reference Component on Gabe the Bear Blog](https://dev.to/gabethebear/redesigning-the-reference-component-on-gabe-the-bear-blog-1bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
