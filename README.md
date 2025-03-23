@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
-- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
-- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
-- [Just Made a Tic-Tac-Toe Game in Python &lpar;How You Can Too&rpar;](https://dev.to/stuxint/just-made-a-tic-tac-toe-game-in-python-how-you-can-too-1nkj)
-- [🚀 AI in Finance: A Productivity Revolution or Just More Noise?](https://dev.to/nehan_mumtaz/ai-in-finance-a-productivity-revolution-or-just-more-noise-4dmb)
+- [Summary of All SQL Commands In One Animated Diagram](https://dev.to/mohamed_el_laithy/summary-of-all-sql-commands-in-one-animated-diagram-4bb8)
+- [[Boost]](https://dev.to/deogracias_davidtonon_2/-ebn)
+- [Dev Dash - Recreating Dev.to with Kendo React](https://dev.to/ansellmaximilian/dev-dash-recreating-devto-with-kendo-react-484b)
+- [Straightforward shared state management in React: groundstate](https://dev.to/axtk/straightforward-shared-state-management-in-react-groundstate-3l4a)
+- [Forums-X: Building an Inclusive Community Platform for WeCoded 2025](https://dev.to/jacksonkasi/forums-x-building-an-inclusive-community-platform-for-wecoded-2025-54k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
