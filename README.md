@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open/Closed Principle in C#: Making Your Code Flexible Without Breaking Stuff](https://dev.to/sathish/openclosed-principle-in-c-making-your-code-flexible-without-breaking-stuff-3oof)
-- [Best AI and ML Certification Programs Online: A Comprehensive Guide for Aspiring Professionals](https://dev.to/vikas76/best-ai-and-ml-certification-programs-online-a-comprehensive-guide-for-aspiring-professionals-3een)
-- [在鸿蒙NEXT中实现完全自定义导航栏](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-shi-xian-wan-quan-zi-ding-yi-dao-hang-lan-1dma)
-- [HarmonyOS NEXT开发实战教程--招聘app](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-zhao-pin-app-3e57)
-- [鸿蒙开发入门教程--@Prop和@Link装饰器](https://dev.to/youlanjihua/hong-meng-kai-fa-ru-men-jiao-cheng-prophe-linkzhuang-shi-qi-3me7)
+- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
+- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
+- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
+- [Just Made a Tic-Tac-Toe Game in Python &lpar;How You Can Too&rpar;](https://dev.to/stuxint/just-made-a-tic-tac-toe-game-in-python-how-you-can-too-1nkj)
+- [🚀 AI in Finance: A Productivity Revolution or Just More Noise?](https://dev.to/nehan_mumtaz/ai-in-finance-a-productivity-revolution-or-just-more-noise-4dmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
