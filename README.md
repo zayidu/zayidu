@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Family Focus Planner](https://dev.to/aniruddhaadak/family-focus-planner-3gc3)
+- [Power Platform, The Emergency Tool Kit](https://dev.to/wyattdave/power-platform-the-emergency-tool-kit-2bgo)
 - [Boas Práticas de Segurança e Qualidade no Terraform.](https://dev.to/hugollemos/boas-praticas-de-seguranca-e-qualidade-no-terraform-29oi)
 - [Calculate a Pair of Minimum Values that Meet the Criteria within the Group — From SQL to SPL #12](https://dev.to/judith677/calculate-a-pair-of-minimum-values-that-meet-the-criteria-within-the-group-from-sql-to-spl-12-309m)
 - [Real Time Page Updates with Rails and Hotwire - Turbo Broadcasts](https://dev.to/reinteractive/real-time-page-updates-with-rails-and-hotwire-turbo-broadcasts-3fnn)
-- [Building a Smart Shelf Audit and Restocking Bot with UiPath 🚀](https://dev.to/technovashield_patel_274f/building-a-smart-shelf-audit-and-restocking-bot-with-uipath-3jgk)
-- [Biometric Solutions for Fintech – 8 Reasons to Implement Them Today](https://dev.to/faceplugin/biometric-solutions-for-fintech-8-reasons-to-implement-them-today-4no4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
