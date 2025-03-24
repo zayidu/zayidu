@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency gotchas in go](https://dev.to/l_walid/concurrency-gotchas-in-go-25lc)
-- [🔐 Login Seguro com Robot Framework: Protegendo Credenciais e Reutilizando Código](https://dev.to/anacvera/login-seguro-com-robot-framework-protegendo-credenciais-e-reutilizando-codigo-2d6i)
-- [An overview of rules based ingestion in DataBridge](https://dev.to/adityav369/an-overview-of-rules-based-ingestion-in-databridge-nm6)
-- [Movie Recommendation in Terminal &lpar;With Python&rpar;](https://dev.to/dgilson74/movie-recommendation-in-terminal-with-python-28fp)
-- [Introducing Kampa.io - Local Dev Environments Without the Headaches](https://dev.to/kampa/introducing-kampaio-local-dev-environments-without-the-headaches-4m33)
+- [What Hogwarts Can Teach Us About Security](https://dev.to/angelamchoi/what-hogwarts-can-teach-us-about-security-5bme)
+- [How to Make Conventional Commits a Lasting Habit?](https://dev.to/francescobianco/convcommit-the-tool-that-makes-conventional-commits-a-habit-2n0n)
+- [Bootstrap: A Complete Guide](https://dev.to/bhabani_sankar/bootstrap-a-complete-guide-3oll)
+- [The logic of Value](https://dev.to/lau_blog/the-logic-of-value-4mbb)
+- [Comprehensive Rust Programming Course](https://dev.to/dantesbytes/comprehensive-rust-programming-course-5c6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
