@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks!](https://dev.to/burdettelamar/thanks-p8a)
-- [Stellify - Project Overview and Discussion](https://dev.to/matthew_anderson/-stellify-project-overview-and-discussion-1l9g)
-- [There are 2 hours left until the end of the results👽. Our release is a little short of 1st place. It would be cool if you supported with an upvote, thanks❤️! https://devhunt.org/tool/hmpljs](https://dev.to/anthonymax/there-are-2-hours-left-until-the-end-of-the-results-our-release-is-a-little-short-of-1st-place-it-hei)
-- [Comprehensive Comparison of PDF Form Filling Applications in 2025](https://dev.to/instafill/comprehensive-comparison-of-pdf-form-filling-applications-in-2025-5612)
-- [#2 Refactoring Fidely &amp; Tackling Side Projects](https://dev.to/pul/2-refactoring-fidely-tackling-side-projects-29ki)
+- [Streaming de datos Serverless con Aurora DSQL](https://dev.to/londoso/streaming-de-datos-serverless-con-aurora-dsql-2hmd)
+- [EasyJPA – Your Best Partner for JPA Development!](https://dev.to/paganini2008/easyjpa-your-best-partner-for-jpa-development-adj)
+- [Layer by Layer: The OSI Model Layer 4](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-4-21fo)
+- [Kendi Blog Siteni DEV.to Üzerinden Nasıl Kurabilirsin?](https://dev.to/eagledofc/kendi-blog-siteni-devto-uzerinden-nasil-kurabilirsin-5h62)
+- [OBS Yayınlarında Kare Kaybı &lpar;Drop&rpar; Sorunu ve Çözüm Yöntemleri](https://dev.to/eagledofc/obs-yayinlarinda-kare-kaybi-drop-sorunu-ve-cozum-yontemleri-1ga7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
