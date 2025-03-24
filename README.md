@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a SaaS with Svelte: How Lalye is Redefining Project Management](https://dev.to/tyjust_music_1c42b047cdf4/reinvent-task-managementwith-okrs-kpis-and-ai-2d03)
-- [Understanding Awaitables: Coroutines, Tasks, and Futures in Python](https://dev.to/jeffrey04/understanding-awaitables-coroutines-tasks-and-futures-in-python-gk7)
-- [¿Cómo instalar Haskell?](https://dev.to/bcardiff/como-instalar-haskell-40ml)
-- [Introduction to Data Structures](https://dev.to/coder_studios/introduction-to-data-structures-54e8)
-- [Dolt as a backing database for blockchains](https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4)
+- [Concurrency gotchas in go](https://dev.to/l_walid/concurrency-gotchas-in-go-25lc)
+- [🔐 Login Seguro com Robot Framework: Protegendo Credenciais e Reutilizando Código](https://dev.to/anacvera/login-seguro-com-robot-framework-protegendo-credenciais-e-reutilizando-codigo-2d6i)
+- [An overview of rules based ingestion in DataBridge](https://dev.to/adityav369/an-overview-of-rules-based-ingestion-in-databridge-nm6)
+- [Movie Recommendation in Terminal &lpar;With Python&rpar;](https://dev.to/dgilson74/movie-recommendation-in-terminal-with-python-28fp)
+- [Introducing Kampa.io - Local Dev Environments Without the Headaches](https://dev.to/kampa/introducing-kampaio-local-dev-environments-without-the-headaches-4m33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
