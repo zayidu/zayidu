@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.cursorignore file in Refine codebase, an OSS React framework](https://dev.to/ramunarasinga-11/cursorignore-file-in-refine-codebase-an-oss-react-framework-19pi)
-- [I Tested 35+ AI Headshot Generators — Here’s the Best One for Professional Results](https://dev.to/artturijalli/i-tested-35-ai-headshot-generators-heres-the-best-one-for-professional-results-3k6l)
-- [Build AI Agent Memory From Scratch — Tutorial For Dummies](https://dev.to/zachary62/build-ai-agent-memory-from-scratch-tutorial-for-dummies-47ma)
-- [What is a Domain Name System &lpar;DNS&rpar;?](https://dev.to/clouddefenseai/what-is-a-domain-name-system-dns-2ja3)
-- [GenAI x Kendo-react: AI Pair Programmer optimized for kendo-react](https://dev.to/karan_shah_2cbf1785a701a7/genai-x-kendo-react-ai-pair-programmer-optimized-for-kendo-react-hcj)
+- [10 Most Common Web Design Mistakes and How to Avoid Them](https://dev.to/alenajames/10-most-common-web-design-mistakes-and-how-to-avoid-them-7o5)
+- [Overcoming Scraping Barriers with Screen Scraping](https://dev.to/swiftproxy_residential/overcoming-scraping-barriers-with-screen-scraping-18fd)
+- [Exploring KendoReact by building a Gmail web clone](https://dev.to/vivien_ogoun/exploring-kendoreact-by-building-a-gmail-web-clone-2nl3)
+- [SOCKS Proxy vs. Residential Proxy: What You Need to Know](https://dev.to/swiftproxy_residential/socks-proxy-vs-residential-proxy-what-you-need-to-know-2i3e)
+- [LearnCracker](https://dev.to/haseebarshad/learncracker-3fm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
