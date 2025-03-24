@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Trading: How the Lightning Match System Works](https://dev.to/nudex/the-evolution-of-trading-how-the-lightning-match-system-works-26jp)
-- [Why I Chose Java: My Journey into Programming](https://dev.to/vigneshwaralingam/why-i-chose-java-my-journey-into-programming-4mep)
-- [SKT: Optionals](https://dev.to/paulallies/skt-optionals-4mb3)
-- [Enhancing Software Delivery: Integrating Containerization and Infrastructure as Code into CI/CD Pipelines &lpar;2/4&rpar;](https://dev.to/sosocrypto/enhancing-software-delivery-integrating-containerization-and-infrastructure-as-code-into-cicd-jpl)
-- [How to Scrape Products from a Page with Infinite Scroll via &#39;Load More&#39; Button](https://dev.to/oyedeletemitope/how-to-scrape-products-from-a-page-with-infinite-scroll-via-load-more-button-36ej)
+- [Building a SaaS with Svelte: How Lalye is Redefining Project Management](https://dev.to/tyjust_music_1c42b047cdf4/reinvent-task-managementwith-okrs-kpis-and-ai-2d03)
+- [Understanding Awaitables: Coroutines, Tasks, and Futures in Python](https://dev.to/jeffrey04/understanding-awaitables-coroutines-tasks-and-futures-in-python-gk7)
+- [¿Cómo instalar Haskell?](https://dev.to/bcardiff/como-instalar-haskell-40ml)
+- [Introduction to Data Structures](https://dev.to/coder_studios/introduction-to-data-structures-54e8)
+- [Dolt as a backing database for blockchains](https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
