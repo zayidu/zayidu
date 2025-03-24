@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure CI/CD for your Node.js application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-configure-cicd-for-your-nodejs-application-1fhg)
-- [AI Agents in PHP with MCP &lpar;Model Context Protocol&rpar;](https://dev.to/inspector/ai-agents-in-php-with-mcp-model-context-protocol-55)
-- [Day-04: Java Work Flow](https://dev.to/e00049/day-04-java-work-flow-38h7)
-- [All Data and AI Weekly #182 - 24-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-182-24-march-2025-hgj)
-- [Designing a successful Application Security program: Strategies, Tips and the right tools to achieve optimal results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-tips-and-the-right-tools-to-29f7)
+- [162/365 | ¥10M Job Challenge - Dietary Adjustments](https://dev.to/kameken100/161365-y10m-job-challenge-dietary-adjustments-4kp7)
+- [useDeferredValue Hook in React!](https://dev.to/joodi/usedeferredvalue-hook-in-react-5855)
+- [Nixos config for nvim](https://dev.to/mirrr/nixos-config-for-nvim-3pm6)
+- [[Boost]](https://dev.to/david_oyewole/-146i)
+- [How to turn NEOVIM into an IDE-like code editor in NIXOS?](https://dev.to/mirrr/how-to-turn-neovim-into-an-ide-like-code-editor-in-nixos-4npb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
