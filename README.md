@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Commonly asked React.js Low-Level Design &lpar;LLD&rpar; interview questions](https://dev.to/tahir_rafique/commonly-asked-reactjs-low-level-design-lld-interview-questions-jbp)
-- [Internet Download Manager &lpar;IDM&rpar; Nedir, Ne İşe Yarar ve Nasıl Kullanılır?](https://dev.to/eagledofc/internet-download-manager-idm-nedir-ne-ise-yarar-ve-nasil-kullanilir-jfj)
-- [JAVA INTRODUCTION-DAY 1](https://dev.to/sabari_vasan/java-introduction-day-1-57b6)
-- [Sandboxie Plus ile Program Klonlama ve Güvenli Test Ortamı](https://dev.to/eagledofc/sandboxie-plus-ile-program-klonlama-ve-guvenli-test-ortami-59ld)
-- [Fixing NO_PUBKEY GPG Errors on Ubuntu – The Cleanest Way](https://dev.to/deepsky1d/fixing-nopubkey-gpg-errors-on-ubuntu-the-cleanest-way-4hel)
+- [SKT: If Statements](https://dev.to/paulallies/skt-if-statements-2ggm)
+- [How JavaScript Lost Its Way With Error Handling &lpar;Can We Fix It?&rpar;](https://dev.to/matsilva/how-javascript-lost-its-way-with-error-handling-can-we-fix-it-hf9)
+- [Combination Sum: A Recursion Pattern Where Elements Can Be Taken More Than Once](https://dev.to/devcorner/combination-sum-a-recursion-pattern-where-elements-can-be-taken-more-than-once-58bp)
+- [SKT: Arrays](https://dev.to/paulallies/skt-arrays-2l9e)
+- [UNIX - Files and directory - 1](https://dev.to/_a_m_a_n_pandey/unix-files-and-directory-1-2j0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
