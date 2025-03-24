@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Most Common Web Design Mistakes and How to Avoid Them](https://dev.to/alenajames/10-most-common-web-design-mistakes-and-how-to-avoid-them-7o5)
-- [Overcoming Scraping Barriers with Screen Scraping](https://dev.to/swiftproxy_residential/overcoming-scraping-barriers-with-screen-scraping-18fd)
-- [Exploring KendoReact by building a Gmail web clone](https://dev.to/vivien_ogoun/exploring-kendoreact-by-building-a-gmail-web-clone-2nl3)
-- [SOCKS Proxy vs. Residential Proxy: What You Need to Know](https://dev.to/swiftproxy_residential/socks-proxy-vs-residential-proxy-what-you-need-to-know-2i3e)
-- [LearnCracker](https://dev.to/haseebarshad/learncracker-3fm2)
+- [PostgreSQL Data Types: An Essential Guide](https://dev.to/dbvismarketing/postgresql-data-types-an-essential-guide-2clm)
+- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-7cn)
+- [How to develop a web project with local files?](https://dev.to/muhyilmaz/how-to-develop-a-web-project-with-local-files-197n)
+- [How to Scientifically Choose Sandblasting Pressure? Core Parameter Analysis for Different Materials](https://dev.to/js-henglihong/how-to-scientifically-choose-sandblasting-pressure-core-parameter-analysis-for-different-materials-cng)
+- [Top 10 MySQL Monitoring Tools](https://dev.to/drupaladmin/top-10-mysql-monitoring-tools-gaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
