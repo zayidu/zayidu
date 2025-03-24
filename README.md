@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers thrive in environments that encourage deep work, not excessive status updates. This blog covers how engineering teams can track progress effectively without unnecessary interruptions or time-tracking tools.](https://dev.to/rajesh_patel/developers-thrive-in-environments-that-encourage-deep-work-not-excessive-status-updates-this-1bc7)
-- [Micromanagement is one of the biggest blockers to developer efficiency. This guide breaks down practical ways to measure productivity while maintaining a culture of trust and autonomy.](https://dev.to/nikhil_sachapara/micromanagement-is-one-of-the-biggest-blockers-to-developer-efficiency-this-guide-breaks-down-22f)
-- [Are you tracking developer productivity the right way? Many teams rely on unnecessary monitoring that reduces efficiency rather than improving it. Learn how to implement non-intrusive tracking methods that focus on impact rather than time spent.](https://dev.to/naik_sejal/are-you-tracking-developer-productivity-the-right-way-many-teams-rely-on-unnecessary-monitoring-6g9)
-- [Tracking developer productivity should not mean micromanaging. Developers need autonomy, not surveillance. This blog explores effective ways to measure performance without disrupting workflow.](https://dev.to/pratham_naik_project_manager/tracking-developer-productivity-should-not-mean-micromanaging-developers-need-autonomy-not-4h83)
-- [How to Track Developer Productivity Without Micromanaging](https://dev.to/pratham_naik_project_manager/how-to-track-developer-productivity-without-micromanaging-1kdl)
+- [.cursorignore file in Refine codebase, an OSS React framework](https://dev.to/ramunarasinga-11/cursorignore-file-in-refine-codebase-an-oss-react-framework-19pi)
+- [I Tested 35+ AI Headshot Generators — Here’s the Best One for Professional Results](https://dev.to/artturijalli/i-tested-35-ai-headshot-generators-heres-the-best-one-for-professional-results-3k6l)
+- [Build AI Agent Memory From Scratch — Tutorial For Dummies](https://dev.to/zachary62/build-ai-agent-memory-from-scratch-tutorial-for-dummies-47ma)
+- [What is a Domain Name System &lpar;DNS&rpar;?](https://dev.to/clouddefenseai/what-is-a-domain-name-system-dns-2ja3)
+- [GenAI x Kendo-react: AI Pair Programmer optimized for kendo-react](https://dev.to/karan_shah_2cbf1785a701a7/genai-x-kendo-react-ai-pair-programmer-optimized-for-kendo-react-hcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
