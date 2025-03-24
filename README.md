@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
-- [How AI is Enhancing Property Search in Real Estate Apps](https://dev.to/quokka_labs_c3691ddf70b8a/how-ai-is-enhancing-property-search-in-real-estate-apps-404j)
-- [s](https://dev.to/abdulazizkxon/s-74h)
-- [Top .NET NuGet Packages for PostgreSQL Database](https://dev.to/dbdeveloper/top-net-nuget-packages-for-postgresql-database-28o4)
-- [Efficient Ways to Convert Multiple vCard to Single vCard](https://dev.to/ellestephen/efficient-ways-to-convert-multiple-vcard-to-single-vcard-52la)
+- [O Que São Hash Tables em TypeScript: Conceitos, Exemplos e Uso com Redis](https://dev.to/lucaspereiradesouzat/o-que-sao-hash-tables-em-typescript-conceitos-exemplos-e-uso-com-redis-df1)
+- [Why Wireframing is Essential for Successful UI/UX Design](https://dev.to/taskframe_team/why-wireframing-is-essential-for-successful-uiux-design-3i9l)
+- [Dynamically-created components support two-way bindings](https://dev.to/railsstudent/dynamically-created-components-support-two-way-bindings-4m33)
+- [How to use HarmonyOS NEXT - ArkUI: Image component?](https://dev.to/victordeng/how-to-use-harmonyos-next-arkui-image-component-h5p)
+- [Script Zone Transfer](https://dev.to/s0w3r/script-zone-transfer-1cl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
