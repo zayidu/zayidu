@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SKT: If Statements](https://dev.to/paulallies/skt-if-statements-2ggm)
-- [How JavaScript Lost Its Way With Error Handling &lpar;Can We Fix It?&rpar;](https://dev.to/matsilva/how-javascript-lost-its-way-with-error-handling-can-we-fix-it-hf9)
-- [Combination Sum: A Recursion Pattern Where Elements Can Be Taken More Than Once](https://dev.to/devcorner/combination-sum-a-recursion-pattern-where-elements-can-be-taken-more-than-once-58bp)
-- [SKT: Arrays](https://dev.to/paulallies/skt-arrays-2l9e)
-- [UNIX - Files and directory - 1](https://dev.to/_a_m_a_n_pandey/unix-files-and-directory-1-2j0c)
+- [The Evolution of Trading: How the Lightning Match System Works](https://dev.to/nudex/the-evolution-of-trading-how-the-lightning-match-system-works-26jp)
+- [Why I Chose Java: My Journey into Programming](https://dev.to/vigneshwaralingam/why-i-chose-java-my-journey-into-programming-4mep)
+- [SKT: Optionals](https://dev.to/paulallies/skt-optionals-4mb3)
+- [Enhancing Software Delivery: Integrating Containerization and Infrastructure as Code into CI/CD Pipelines &lpar;2/4&rpar;](https://dev.to/sosocrypto/enhancing-software-delivery-integrating-containerization-and-infrastructure-as-code-into-cicd-jpl)
+- [How to Scrape Products from a Page with Infinite Scroll via &#39;Load More&#39; Button](https://dev.to/oyedeletemitope/how-to-scrape-products-from-a-page-with-infinite-scroll-via-load-more-button-36ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
