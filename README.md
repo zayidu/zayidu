@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O Que São Hash Tables em TypeScript: Conceitos, Exemplos e Uso com Redis](https://dev.to/lucaspereiradesouzat/o-que-sao-hash-tables-em-typescript-conceitos-exemplos-e-uso-com-redis-df1)
-- [Why Wireframing is Essential for Successful UI/UX Design](https://dev.to/taskframe_team/why-wireframing-is-essential-for-successful-uiux-design-3i9l)
-- [Dynamically-created components support two-way bindings](https://dev.to/railsstudent/dynamically-created-components-support-two-way-bindings-4m33)
-- [How to use HarmonyOS NEXT - ArkUI: Image component?](https://dev.to/victordeng/how-to-use-harmonyos-next-arkui-image-component-h5p)
-- [Script Zone Transfer](https://dev.to/s0w3r/script-zone-transfer-1cl9)
+- [Top 5 Cloud Data Management Challenges and How to Overcome Them](https://dev.to/mehul_budasana/top-5-cloud-data-management-challenges-and-how-to-overcome-them-2inp)
+- [# Building Scalable ML Architectures with Java: Beyond the Basics#](https://dev.to/engnelson/-building-scalable-ml-architectures-with-java-beyond-the-basics-23al)
+- [Amazon Bedrock: A Practical Guide for Developers and DevOps Engineers](https://dev.to/microtica/amazon-bedrock-a-practical-guide-for-developers-and-devops-engineers-kag)
+- [The Developer Guide to Working in the Netherlands](https://dev.to/stetsenko_me/the-developer-guide-to-working-in-the-netherlands-9ne)
+- [State Design Pattern in Java](https://dev.to/mspilari/state-design-pattern-in-java-1elp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
