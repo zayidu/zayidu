@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [162/365 | ¥10M Job Challenge - Dietary Adjustments](https://dev.to/kameken100/161365-y10m-job-challenge-dietary-adjustments-4kp7)
-- [useDeferredValue Hook in React!](https://dev.to/joodi/usedeferredvalue-hook-in-react-5855)
-- [Nixos config for nvim](https://dev.to/mirrr/nixos-config-for-nvim-3pm6)
-- [[Boost]](https://dev.to/david_oyewole/-146i)
-- [How to turn NEOVIM into an IDE-like code editor in NIXOS?](https://dev.to/mirrr/how-to-turn-neovim-into-an-ide-like-code-editor-in-nixos-4npb)
+- [Commonly asked React.js Low-Level Design &lpar;LLD&rpar; interview questions](https://dev.to/tahir_rafique/commonly-asked-reactjs-low-level-design-lld-interview-questions-jbp)
+- [Internet Download Manager &lpar;IDM&rpar; Nedir, Ne İşe Yarar ve Nasıl Kullanılır?](https://dev.to/eagledofc/internet-download-manager-idm-nedir-ne-ise-yarar-ve-nasil-kullanilir-jfj)
+- [JAVA INTRODUCTION-DAY 1](https://dev.to/sabari_vasan/java-introduction-day-1-57b6)
+- [Sandboxie Plus ile Program Klonlama ve Güvenli Test Ortamı](https://dev.to/eagledofc/sandboxie-plus-ile-program-klonlama-ve-guvenli-test-ortami-59ld)
+- [Fixing NO_PUBKEY GPG Errors on Ubuntu – The Cleanest Way](https://dev.to/deepsky1d/fixing-nopubkey-gpg-errors-on-ubuntu-the-cleanest-way-4hel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
