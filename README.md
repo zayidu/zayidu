@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Hogwarts Can Teach Us About Security](https://dev.to/angelamchoi/what-hogwarts-can-teach-us-about-security-5bme)
-- [How to Make Conventional Commits a Lasting Habit?](https://dev.to/francescobianco/convcommit-the-tool-that-makes-conventional-commits-a-habit-2n0n)
-- [Bootstrap: A Complete Guide](https://dev.to/bhabani_sankar/bootstrap-a-complete-guide-3oll)
-- [The logic of Value](https://dev.to/lau_blog/the-logic-of-value-4mbb)
-- [Comprehensive Rust Programming Course](https://dev.to/dantesbytes/comprehensive-rust-programming-course-5c6d)
+- [Thanks!](https://dev.to/burdettelamar/thanks-p8a)
+- [Stellify - Project Overview and Discussion](https://dev.to/matthew_anderson/-stellify-project-overview-and-discussion-1l9g)
+- [There are 2 hours left until the end of the results👽. Our release is a little short of 1st place. It would be cool if you supported with an upvote, thanks❤️! https://devhunt.org/tool/hmpljs](https://dev.to/anthonymax/there-are-2-hours-left-until-the-end-of-the-results-our-release-is-a-little-short-of-1st-place-it-hei)
+- [Comprehensive Comparison of PDF Form Filling Applications in 2025](https://dev.to/instafill/comprehensive-comparison-of-pdf-form-filling-applications-in-2025-5612)
+- [#2 Refactoring Fidely &amp; Tackling Side Projects](https://dev.to/pul/2-refactoring-fidely-tackling-side-projects-29ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
