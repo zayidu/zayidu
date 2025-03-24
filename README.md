@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Hidden Factors Recruiters Use to Evaluate Candidates](https://dev.to/respect17/10-hidden-factors-recruiters-use-to-evaluate-candidates-1kpp)
-- [JanitorAI: The Ultimate Guide to Building Smart, Custom AI Chatbots for Work and Play](https://dev.to/wearetechi/janitorai-the-ultimate-guide-to-building-smart-custom-ai-chatbots-for-work-and-play-o8b)
-- [Message Brokers: RabbitMQ – Choosing the Right One for Microservices](https://dev.to/kawanedres/message-brokers-rabbitmq-choosing-the-right-one-for-microservices-57ih)
-- [Effortless Data Migration with AI – No Manual Effort, No Expensive Consultants](https://dev.to/tableautopowerbimigration/effortless-data-migration-with-ai-no-manual-effort-no-expensive-consultants-3cj7)
-- [Java Message Brokers: 5 Essential Technologies for Enterprise Integration](https://dev.to/aaravjoshi/java-message-brokers-5-essential-technologies-for-enterprise-integration-1e21)
+- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
+- [How AI is Enhancing Property Search in Real Estate Apps](https://dev.to/quokka_labs_c3691ddf70b8a/how-ai-is-enhancing-property-search-in-real-estate-apps-404j)
+- [s](https://dev.to/abdulazizkxon/s-74h)
+- [Top .NET NuGet Packages for PostgreSQL Database](https://dev.to/dbdeveloper/top-net-nuget-packages-for-postgresql-database-28o4)
+- [Efficient Ways to Convert Multiple vCard to Single vCard](https://dev.to/ellestephen/efficient-ways-to-convert-multiple-vcard-to-single-vcard-52la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
