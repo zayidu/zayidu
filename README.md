@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Myths You Still Believe &lpar;But Shouldn’t!&rpar;](https://dev.to/dct_technologyprivatelimited/javascript-myths-you-still-believe-but-shouldnt-30nb)
-- [The #WeCoded challenge is a powerful initiative that brings together developers to create a platform promoting inclusivity in tech. Join the conversation and see how this project is driving meaningful change.](https://dev.to/nikhil_sachapara/the-wecoded-challenge-is-a-powerful-initiative-that-brings-together-developers-to-create-a-c4g)
-- [Diversity and inclusion are essential in the tech industry. The #WeCoded challenge is building a landing page to highlight and celebrate diverse voices in technology. Explore the initiative and its impact.](https://dev.to/naik_sejal/diversity-and-inclusion-are-essential-in-the-tech-industry-the-wecoded-challenge-is-building-a-1lbl)
-- [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
-- [`.git-blame-ignore-revs` file in React vs Refine.](https://dev.to/ramunarasinga-11/git-blame-ignore-revs-file-in-react-vs-refine-1hke)
+- [💸 Are your cloud bills getting out of control?](https://dev.to/teqnisys_accountgooglet/are-your-cloud-bills-getting-out-of-control-2gpp)
+- [What is YAML? A Developer&#39;s Guide to YAML vs YML](https://dev.to/keploy/what-is-yaml-a-developers-guide-to-yaml-vs-yml-54h1)
+- [How to Contact Lazada Customer Service via Email: A Quick Guide](https://dev.to/doriana/how-to-contact-lazada-customer-service-via-email-a-quick-guide-3j7d)
+- [Cybersecurity Tip: Never Open Suspicious Attachments—They Could Be a Gateway to Malware](https://dev.to/wizdomtek/cybersecurity-tip-never-open-suspicious-attachments-they-could-be-a-gateway-to-malware-4ldo)
+- [What is Marketing Attribution Software and Why Does Your Business Need It?](https://dev.to/simran-indulkar/what-is-marketing-attribution-software-and-why-does-your-business-need-it-3hg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
