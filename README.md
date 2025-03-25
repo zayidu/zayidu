@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guards en Angular: Protegiendo nuestras rutas](https://dev.to/cristian_arieta_7df932e5f/guards-en-angular-protegiendo-nuestras-rutas-1677)
-- [Getting Rid of Boilerplate in Angular: Using TypeScript Decorators](https://dev.to/artstesh/getting-rid-of-boilerplate-in-angular-using-typescript-decorators-3fdj)
-- [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
-- [Code Rabbit - AI Code Reviewer for Git](https://dev.to/samseptiano/code-rabbit-ai-code-reviewer-for-git-21fa)
-- [Mocktender: simplified testing using entry points](https://dev.to/nizarmah/mocktender-simplified-testing-using-entry-points-256a)
+- [This is day 2 of learning CSS](https://dev.to/umar_ali/this-is-day-2-of-learning-css-2hoa)
+- [DAY5 OF PSQL Using Join Query](https://dev.to/elayaraj_c_04396748f52a1c/day5-of-psql-using-join-query-3d26)
+- [Mastering Big Data with GCP: My Capstone Journey in Cloud Data Analysis](https://dev.to/rama13850/mastering-big-data-with-gcp-my-capstone-journey-in-cloud-data-analysis-hcp)
+- [Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/issy929/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
+- [Why and How I Stopped Micromanaging &lpar;And You Should Too!&rpar;](https://dev.to/techiesourav/why-and-how-i-stopped-micromanaging-and-you-should-too-1gmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
