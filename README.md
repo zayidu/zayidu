@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My “Vibe-Coding” Experience: Web Service Over a Weekend](https://dev.to/davidklassen/my-vibe-coding-experience-web-service-over-a-weekend-mbg)
-- [Building a Non-AI tool feels refreshing to me](https://dev.to/tinchox5/building-a-non-ai-tool-feels-refreshing-to-me-2bpe)
-- [[Boost]](https://dev.to/agunechemba/-4ad9)
-- [Apa Itu Jekyll? Panduan Terlengkap untuk Pemula di Tahun 2025](https://dev.to/idblogger/apa-itu-jekyll-panduan-terlengkap-untuk-pemula-di-tahun-2025-jo1)
-- [🌶️ Newest Episode of Leet Heat: A Game Show For Developers!](https://dev.to/jlengstorf/newest-episode-of-leet-heat-a-game-show-for-developers-gim)
+- [Guards en Angular: Protegiendo nuestras rutas](https://dev.to/cristian_arieta_7df932e5f/guards-en-angular-protegiendo-nuestras-rutas-1677)
+- [Getting Rid of Boilerplate in Angular: Using TypeScript Decorators](https://dev.to/artstesh/getting-rid-of-boilerplate-in-angular-using-typescript-decorators-3fdj)
+- [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
+- [Code Rabbit - AI Code Reviewer for Git](https://dev.to/samseptiano/code-rabbit-ai-code-reviewer-for-git-21fa)
+- [Mocktender: simplified testing using entry points](https://dev.to/nizarmah/mocktender-simplified-testing-using-entry-points-256a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
