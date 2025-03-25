@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily JavaScript Challenge #JS-134: Sum of Prime Numbers](https://dev.to/dpc/daily-javascript-challenge-js-134-sum-of-prime-numbers-4o51)
-- [Arquitetura antes do código: como planejar te faz codificar com confiança](https://dev.to/rafadev/arquitetura-antese-do-codigo-como-planejar-te-faz-codificar-com-confianca-2d42)
-- [Code Smell 295 - String Concatenation](https://dev.to/mcsee/code-smell-295-string-concatenation-1hpi)
-- [Day 1125 : Waste](https://dev.to/dwane/day-1125-waste-4g0j)
-- [[Boost]](https://dev.to/jacklehamster/-la6)
+- [Optimizing Image Management Efficiency Using AWS ECR Pull-Through Cache](https://dev.to/polar3130/optimizing-image-management-efficiency-using-aws-ecr-pull-through-cache-4846)
+- [[Boost]](https://dev.to/whoisnaisu/-2kc3)
+- [The process of creating an effective Application Security Programm: Strategies, techniques and tools for the best results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programm-strategies-techniques-and-dc0)
+- [The Dockerfile Disaster: How a Non-Root User Broke Our Production App!](https://dev.to/devopswithkishore/the-dockerfile-disaster-how-a-non-root-user-broke-my-apps-file-exports-5a5j)
+- [THREE Things You Can Do Today to Become the Highest Paying Front-end Dev](https://dev.to/d2d_weizhi/three-things-you-can-do-today-to-become-the-highest-paying-front-end-dev-19m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
