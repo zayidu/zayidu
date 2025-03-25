@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming de datos Serverless con Aurora DSQL](https://dev.to/londoso/streaming-de-datos-serverless-con-aurora-dsql-2hmd)
-- [EasyJPA – Your Best Partner for JPA Development!](https://dev.to/paganini2008/easyjpa-your-best-partner-for-jpa-development-adj)
-- [Layer by Layer: The OSI Model Layer 4](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-4-21fo)
-- [Kendi Blog Siteni DEV.to Üzerinden Nasıl Kurabilirsin?](https://dev.to/eagledofc/kendi-blog-siteni-devto-uzerinden-nasil-kurabilirsin-5h62)
-- [OBS Yayınlarında Kare Kaybı &lpar;Drop&rpar; Sorunu ve Çözüm Yöntemleri](https://dev.to/eagledofc/obs-yayinlarinda-kare-kaybi-drop-sorunu-ve-cozum-yontemleri-1ga7)
+- [Daily JavaScript Challenge #JS-134: Sum of Prime Numbers](https://dev.to/dpc/daily-javascript-challenge-js-134-sum-of-prime-numbers-4o51)
+- [Arquitetura antes do código: como planejar te faz codificar com confiança](https://dev.to/rafadev/arquitetura-antese-do-codigo-como-planejar-te-faz-codificar-com-confianca-2d42)
+- [Code Smell 295 - String Concatenation](https://dev.to/mcsee/code-smell-295-string-concatenation-1hpi)
+- [Day 1125 : Waste](https://dev.to/dwane/day-1125-waste-4g0j)
+- [[Boost]](https://dev.to/jacklehamster/-la6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
