@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why My Open Source Project Wunjo Can’t Reach 1K Stars? 😢](https://dev.to/wladradchenko/why-my-open-source-project-wunjo-cant-reach-1k-stars-10b3)
-- [Why Managed WordPress Hosting Is Essential for Website Performance and Security in 2025](https://dev.to/rapyd_cloud/why-managed-wordpress-hosting-is-essential-for-website-performance-and-security-in-2025-okc)
-- [Odoo Integration with React JS](https://dev.to/webbycrownsolutions/odoo-integration-with-react-js-bbl)
-- [Gemini Just Leveled Up: Personalized Responses Powered by Your Google Activity](https://dev.to/umeshtharukaofficial/gemini-just-leveled-up-personalized-responses-powered-by-your-google-activity-1ahg)
-- [AWS and GCP: High Availability Monitoring Tips](https://dev.to/tomcao2012/aws-and-gcp-high-availability-monitoring-tips-540)
+- [Master Functional Programming in Python: 7 Essential Techniques for Cleaner Code](https://dev.to/aaravjoshi/master-functional-programming-in-python-7-essential-techniques-for-cleaner-code-2a9c)
+- [🔎 AWS GuardDuty vs. Inspector vs. Shield 🛡️ Which One Do You Need?](https://dev.to/aws-builders/aws-guardduty-vs-inspector-vs-shield-which-one-do-you-need-2ia5)
+- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
+- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
+- [Flutter RenderTree : How Rendering Works](https://dev.to/vayuz_insights/flutter-rendertree-how-rendering-works-j48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
