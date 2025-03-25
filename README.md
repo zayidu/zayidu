@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is day 2 of learning CSS](https://dev.to/umar_ali/this-is-day-2-of-learning-css-2hoa)
-- [DAY5 OF PSQL Using Join Query](https://dev.to/elayaraj_c_04396748f52a1c/day5-of-psql-using-join-query-3d26)
-- [Mastering Big Data with GCP: My Capstone Journey in Cloud Data Analysis](https://dev.to/rama13850/mastering-big-data-with-gcp-my-capstone-journey-in-cloud-data-analysis-hcp)
-- [Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/issy929/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
-- [Why and How I Stopped Micromanaging &lpar;And You Should Too!&rpar;](https://dev.to/techiesourav/why-and-how-i-stopped-micromanaging-and-you-should-too-1gmf)
+- [Contrastive Augmented Generation &lpar;CAG&rpar;: AI’s Secret Weapon for Smarter Answers](https://dev.to/femtoware_infotechllp/contrastive-augmented-generation-cag-ais-secret-weapon-for-smarter-answers-4nnk)
+- [I broke my old email habits thanks to Ashkan Rajaee and it’s been a game changer for productivity and clarity. #ashkanrajaee #emailstrategy #communicationskills #marketingtips](https://dev.to/techbyfelix/i-broke-my-old-email-habits-thanks-to-ashkan-rajaee-and-its-been-a-game-changer-for-productivity-21dl)
+- [typia &lpar;20,000x faster validator&rpar; challenges to Agentic AI framework, with its compiler skill](https://dev.to/samchon/typia-20000x-faster-validator-challenges-to-agentic-ai-framework-with-its-compiler-skill-3h9i)
+- [How Ashkan Rajaee Changed the Way I Write Emails](https://dev.to/techbyfelix/how-ashkan-rajaee-changed-the-way-i-write-emails-1nk9)
+- [lopdesa](https://dev.to/rahul_d_69c56a981e11c6728/lopdesa-leh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
