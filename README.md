@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Free WAF Trusted by 300,000 Users Worldwide– SafeLine](https://dev.to/carrie_luo1/a-free-waf-trusted-by-300000-users-worldwide-safeline-1328)
-- [🚀 Build a Full-Stack Business Tracker in Bubble | 2-Hour No-Code CRUD App Tutorial](https://dev.to/ebereplenty/build-a-full-stack-business-tracker-in-bubble-2-hour-no-code-crud-app-tutorial-kmh)
-- [How can I build a multi-vendor eCommerce marketplace using Shopify?](https://dev.to/jaswinder_singh_06c383d52/how-can-i-build-a-multi-vendor-ecommerce-marketplace-using-shopify-3l70)
-- [How to create an animated loader with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-loader-with-tailwind-css-5bll)
-- [70% Faster Deployments with These 5 CI/CD Tools](https://dev.to/msystech/70-faster-deployments-with-these-5-cicd-tools-op0)
+- [Avoid These 5 Worst Interview Mistakes to Secure Your Tech Job](https://dev.to/web_dev-usman/avoid-these-5-worst-interview-mistakes-to-secure-your-tech-job-5dee)
+- [A Guide to SOLID Principles in Software Development](https://dev.to/ebenezer_tosan/a-guide-to-solid-principles-in-software-development-35ok)
+- [KYC API &amp; KYC Onboarding: Automate Compliance &amp; Security](https://dev.to/clear_dil/kyc-api-kyc-onboarding-automate-compliance-security-40jm)
+- [What is an EPG Schedule and How Does It Improve Viewer Experience?](https://dev.to/livestreaming/what-is-an-epg-schedule-and-how-does-it-improve-viewer-experience-3cmk)
+- [Etherspot and RealT: Unlocking the Future of Real Estate Tokenization](https://dev.to/etherspot/etherspot-and-realt-unlocking-the-future-of-real-estate-tokenization-1jbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
