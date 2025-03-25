@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hungary Temu Coupon Code 40% off ||*acs711461*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/hungary-temu-coupon-code-40-off-acs711461-new-existing-user-49m)
-- [Tech Tip: 5 ways to speed up your Next.js App](https://dev.to/shamima_alina_e9f0f1a996a/tech-tip-5-ways-to-speed-up-your-nextjs-app-4c1h)
-- [Tech Tip Wednesday: 5 Ways to Speed Up Your Next.js App](https://dev.to/shamima_alina_e9f0f1a996a/tech-tip-tuesday-5-ways-to-speed-up-your-nextjs-app-4je)
-- [How to create a Web App and Console App in C#](https://dev.to/onyemuche/how-to-create-a-web-app-and-console-app-in-c-2cp7)
-- [ICTFax: Web-Based Fax Server Software for Seamless Digital Faxing](https://dev.to/museeerah_ictkhan_80d3c3/ictfax-web-based-fax-server-software-for-seamless-digital-faxing-3eaa)
+- [Croatia Temu Coupon Code 40% off ||*acq905537*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/croatia-temu-coupon-code-40-off-acq905537-new-existing-user-11pk)
+- [Spain Temu Coupon Code 40% off ||*acr819178*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/spain-temu-coupon-code-40-off-acr819178-new-existing-user-4e8)
+- [Slovenia Temu Coupon Code 40% off ||*acs711461*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/slovenia-temu-coupon-code-40-off-acs711461-new-existing-user-4gk5)
+- [Slovakia Temu Coupon Code 40% off ||*acq898629*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/slovakia-temu-coupon-code-40-off-acq898629-new-existing-user-aip)
+- [My First](https://dev.to/nguyn_vntnh_53d53bb75/my-first-2d03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
