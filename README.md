@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Relations: What, Why, and How](https://dev.to/envitab/developer-relations-what-why-and-how-ne9)
-- [Inboxes are overflowing. Attention spans are shrinking. So how do you make your emails actually get read? This article explores the psychology behind short, effective emails—and how to apply it today. #ashkanrajaee #communication #emailstrategy](https://dev.to/marcusquinn05/inboxes-are-overflowing-attention-spans-are-shrinking-so-how-do-you-make-your-emails-actually-21fg)
-- [Java Unveiled: Efficiency, Security &amp; The Magic of Object-Oriented Programming.](https://dev.to/vigneshwaralingam/java-unveiled-efficiency-security-the-magic-of-object-oriented-programming-4o99)
-- [AWS CloudWatch: Why I stopped paying for external Monitoring tools](https://dev.to/aws-builders/aws-cloudwatch-why-i-stopped-paying-for-external-monitoring-tools-13d5)
-- [5 Awesome Railway Alternatives](https://dev.to/code42cate/5-awesome-railway-alternatives-3702)
+- [Hungary Temu Coupon Code 40% off ||*acs711461*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/hungary-temu-coupon-code-40-off-acs711461-new-existing-user-49m)
+- [Tech Tip: 5 ways to speed up your Next.js App](https://dev.to/shamima_alina_e9f0f1a996a/tech-tip-5-ways-to-speed-up-your-nextjs-app-4c1h)
+- [Tech Tip Wednesday: 5 Ways to Speed Up Your Next.js App](https://dev.to/shamima_alina_e9f0f1a996a/tech-tip-tuesday-5-ways-to-speed-up-your-nextjs-app-4je)
+- [How to create a Web App and Console App in C#](https://dev.to/onyemuche/how-to-create-a-web-app-and-console-app-in-c-2cp7)
+- [ICTFax: Web-Based Fax Server Software for Seamless Digital Faxing](https://dev.to/museeerah_ictkhan_80d3c3/ictfax-web-based-fax-server-software-for-seamless-digital-faxing-3eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
