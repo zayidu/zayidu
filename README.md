@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid These 5 Worst Interview Mistakes to Secure Your Tech Job](https://dev.to/web_dev-usman/avoid-these-5-worst-interview-mistakes-to-secure-your-tech-job-5dee)
-- [A Guide to SOLID Principles in Software Development](https://dev.to/ebenezer_tosan/a-guide-to-solid-principles-in-software-development-35ok)
-- [KYC API &amp; KYC Onboarding: Automate Compliance &amp; Security](https://dev.to/clear_dil/kyc-api-kyc-onboarding-automate-compliance-security-40jm)
-- [What is an EPG Schedule and How Does It Improve Viewer Experience?](https://dev.to/livestreaming/what-is-an-epg-schedule-and-how-does-it-improve-viewer-experience-3cmk)
-- [Etherspot and RealT: Unlocking the Future of Real Estate Tokenization](https://dev.to/etherspot/etherspot-and-realt-unlocking-the-future-of-real-estate-tokenization-1jbl)
+- [What is ERPNext?](https://dev.to/nolletorre/what-is-erpnext-g1o)
+- [Introducing @nixxy/react-simple-select: A Lightweight and Customizable Select Component for React](https://dev.to/nixx/introducing-nixxyreact-simple-select-a-lightweight-and-customizable-select-component-for-react-dhi)
+- [Vibe Coding: Future of programming?](https://dev.to/mazzaracm/vibe-coding-future-of-programming-3n9f)
+- [The central role of GISBox in environmental change simulation and visualization](https://dev.to/gisbox/the-central-role-of-gisbox-in-environmental-change-simulation-and-visualization-4nlc)
+- [How to Use MetaMask for Buying, Storing &amp; Sending Crypto](https://dev.to/kiya_verma_80238900c416be/how-to-use-metamask-for-buying-storing-sending-crypto-4b19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
