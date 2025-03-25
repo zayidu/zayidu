@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Lynx – A New Multiplatform Framework!](https://dev.to/divyeshvekariya/meet-lynx-a-new-multiplatform-framework-5al7)
-- [iOS 18.4 Brings AI-Powered Priority Notifications](https://dev.to/divyeshvekariya/ios-184-brings-ai-powered-priority-notifications-43b7)
-- [Building a MCP server in Swift](https://dev.to/divyeshvekariya/building-a-mcp-server-in-swift-4gge)
-- [🚀 Add Dark/Light Mode to Your React 19 Project in 10 Minutes!](https://dev.to/promi_mojumder/add-darklight-mode-to-your-react-19-project-in-10-minutes-2gb2)
-- [axaxasxsc](https://dev.to/rahul_d_69c56a981e11c6728/axaxasxsc-236a)
+- [JavaScript Myths You Still Believe &lpar;But Shouldn’t!&rpar;](https://dev.to/dct_technologyprivatelimited/javascript-myths-you-still-believe-but-shouldnt-30nb)
+- [The #WeCoded challenge is a powerful initiative that brings together developers to create a platform promoting inclusivity in tech. Join the conversation and see how this project is driving meaningful change.](https://dev.to/nikhil_sachapara/the-wecoded-challenge-is-a-powerful-initiative-that-brings-together-developers-to-create-a-c4g)
+- [Diversity and inclusion are essential in the tech industry. The #WeCoded challenge is building a landing page to highlight and celebrate diverse voices in technology. Explore the initiative and its impact.](https://dev.to/naik_sejal/diversity-and-inclusion-are-essential-in-the-tech-industry-the-wecoded-challenge-is-building-a-1lbl)
+- [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
+- [`.git-blame-ignore-revs` file in React vs Refine.](https://dev.to/ramunarasinga-11/git-blame-ignore-revs-file-in-react-vs-refine-1hke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
