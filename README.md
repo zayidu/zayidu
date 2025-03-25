@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Real-World SEO Checklist for New Websites](https://dev.to/mikehtmlallthethings/my-real-world-seo-checklist-for-new-websites-2f9i)
-- [Plugins and Platforms: v0’s Marketplace Integrations in AI Native Development](https://dev.to/fernandezbaptiste/plugins-and-platforms-v0s-marketplace-integrations-in-ai-native-development-4o48)
-- [Hidden Requirements in Dev Hiring](https://dev.to/manuartero/hidden-requirements-in-dev-hiring-5gp9)
-- [The Best Discount Strategies for Shopify Stores to Boost Sales &amp; AOV](https://dev.to/jameskujawa/the-best-discount-strategies-for-shopify-stores-to-boost-sales-aov-21oj)
-- [Ranga Premsai Joins Forbes Technology Council: A Step Forward in Cybersecurity Leadership](https://dev.to/mariliatirachi62/ranga-premsai-joins-forbes-technology-council-a-step-forward-in-cybersecurity-leadership-51ai)
+- [Developer Relations: What, Why, and How](https://dev.to/envitab/developer-relations-what-why-and-how-ne9)
+- [Inboxes are overflowing. Attention spans are shrinking. So how do you make your emails actually get read? This article explores the psychology behind short, effective emails—and how to apply it today. #ashkanrajaee #communication #emailstrategy](https://dev.to/marcusquinn05/inboxes-are-overflowing-attention-spans-are-shrinking-so-how-do-you-make-your-emails-actually-21fg)
+- [Java Unveiled: Efficiency, Security &amp; The Magic of Object-Oriented Programming.](https://dev.to/vigneshwaralingam/java-unveiled-efficiency-security-the-magic-of-object-oriented-programming-4o99)
+- [AWS CloudWatch: Why I stopped paying for external Monitoring tools](https://dev.to/aws-builders/aws-cloudwatch-why-i-stopped-paying-for-external-monitoring-tools-13d5)
+- [5 Awesome Railway Alternatives](https://dev.to/code42cate/5-awesome-railway-alternatives-3702)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
