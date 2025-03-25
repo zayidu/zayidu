@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use CSS variables like a pro](https://dev.to/logrocket/how-to-use-css-variables-like-a-pro-1j5i)
-- [Day 2: Basic opps consept](https://dev.to/sugumar_r_a5f301adf1fb49a/day-2-basic-opps-consept-2f8c)
-- [The Dark Side of Building AI Agents on Poor Data Quality](https://dev.to/farahkim/the-dark-side-of-building-ai-agents-on-poor-data-quality-l18)
-- [Announcing: Azure API Center Hands-on Workshop 🚀](https://dev.to/azure/announcing-azure-api-center-hands-on-workshop-g7f)
-- [Protecting Custom Skillset API](https://dev.to/vimaltwit/protecting-custom-skillset-api-4oj1)
+- [My Real-World SEO Checklist for New Websites](https://dev.to/mikehtmlallthethings/my-real-world-seo-checklist-for-new-websites-2f9i)
+- [Plugins and Platforms: v0’s Marketplace Integrations in AI Native Development](https://dev.to/fernandezbaptiste/plugins-and-platforms-v0s-marketplace-integrations-in-ai-native-development-4o48)
+- [Hidden Requirements in Dev Hiring](https://dev.to/manuartero/hidden-requirements-in-dev-hiring-5gp9)
+- [The Best Discount Strategies for Shopify Stores to Boost Sales &amp; AOV](https://dev.to/jameskujawa/the-best-discount-strategies-for-shopify-stores-to-boost-sales-aov-21oj)
+- [Ranga Premsai Joins Forbes Technology Council: A Step Forward in Cybersecurity Leadership](https://dev.to/mariliatirachi62/ranga-premsai-joins-forbes-technology-council-a-step-forward-in-cybersecurity-leadership-51ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
