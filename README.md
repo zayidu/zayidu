@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contrastive Augmented Generation &lpar;CAG&rpar;: AI’s Secret Weapon for Smarter Answers](https://dev.to/femtoware_infotechllp/contrastive-augmented-generation-cag-ais-secret-weapon-for-smarter-answers-4nnk)
-- [I broke my old email habits thanks to Ashkan Rajaee and it’s been a game changer for productivity and clarity. #ashkanrajaee #emailstrategy #communicationskills #marketingtips](https://dev.to/techbyfelix/i-broke-my-old-email-habits-thanks-to-ashkan-rajaee-and-its-been-a-game-changer-for-productivity-21dl)
-- [typia &lpar;20,000x faster validator&rpar; challenges to Agentic AI framework, with its compiler skill](https://dev.to/samchon/typia-20000x-faster-validator-challenges-to-agentic-ai-framework-with-its-compiler-skill-3h9i)
-- [How Ashkan Rajaee Changed the Way I Write Emails](https://dev.to/techbyfelix/how-ashkan-rajaee-changed-the-way-i-write-emails-1nk9)
-- [lopdesa](https://dev.to/rahul_d_69c56a981e11c6728/lopdesa-leh)
+- [How to use CSS variables like a pro](https://dev.to/logrocket/how-to-use-css-variables-like-a-pro-1j5i)
+- [Day 2: Basic opps consept](https://dev.to/sugumar_r_a5f301adf1fb49a/day-2-basic-opps-consept-2f8c)
+- [The Dark Side of Building AI Agents on Poor Data Quality](https://dev.to/farahkim/the-dark-side-of-building-ai-agents-on-poor-data-quality-l18)
+- [Announcing: Azure API Center Hands-on Workshop 🚀](https://dev.to/azure/announcing-azure-api-center-hands-on-workshop-g7f)
+- [Protecting Custom Skillset API](https://dev.to/vimaltwit/protecting-custom-skillset-api-4oj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
