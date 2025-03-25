@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💸 Are your cloud bills getting out of control?](https://dev.to/teqnisys_accountgooglet/are-your-cloud-bills-getting-out-of-control-2gpp)
-- [What is YAML? A Developer&#39;s Guide to YAML vs YML](https://dev.to/keploy/what-is-yaml-a-developers-guide-to-yaml-vs-yml-54h1)
-- [How to Contact Lazada Customer Service via Email: A Quick Guide](https://dev.to/doriana/how-to-contact-lazada-customer-service-via-email-a-quick-guide-3j7d)
-- [Cybersecurity Tip: Never Open Suspicious Attachments—They Could Be a Gateway to Malware](https://dev.to/wizdomtek/cybersecurity-tip-never-open-suspicious-attachments-they-could-be-a-gateway-to-malware-4ldo)
-- [What is Marketing Attribution Software and Why Does Your Business Need It?](https://dev.to/simran-indulkar/what-is-marketing-attribution-software-and-why-does-your-business-need-it-3hg8)
+- [🚀 Exploring react-native-calendars–Calendar Component! 📅](https://dev.to/laxmann/exploring-react-native-calendars-calendar-component-13ma)
+- [Enhance Photo Resolution for Stunning Results: Easy Tips and Tricks](https://dev.to/emma-bb888/enhance-photo-resolution-for-stunning-results-easy-tips-and-tricks-5hge)
+- [Enhance Professional Development with Advanced Agile Testing Certifications](https://dev.to/tom_cruise_47f47443bff64e/enhance-professional-development-with-advanced-agile-testing-certifications-4j2c)
+- [Solidity Developer &amp; Blockchain Architect](https://dev.to/openxai_network/solidity-developer-blockchain-architect-4cgj)
+- [10 Proven Ways to Boost Productivity as a Software Engineer](https://dev.to/er-raj-aryan/10-proven-ways-to-boost-productivity-as-a-software-engineer-533n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
