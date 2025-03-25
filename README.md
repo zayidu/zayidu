@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is ERPNext?](https://dev.to/nolletorre/what-is-erpnext-g1o)
-- [Introducing @nixxy/react-simple-select: A Lightweight and Customizable Select Component for React](https://dev.to/nixx/introducing-nixxyreact-simple-select-a-lightweight-and-customizable-select-component-for-react-dhi)
-- [Vibe Coding: Future of programming?](https://dev.to/mazzaracm/vibe-coding-future-of-programming-3n9f)
-- [The central role of GISBox in environmental change simulation and visualization](https://dev.to/gisbox/the-central-role-of-gisbox-in-environmental-change-simulation-and-visualization-4nlc)
-- [How to Use MetaMask for Buying, Storing &amp; Sending Crypto](https://dev.to/kiya_verma_80238900c416be/how-to-use-metamask-for-buying-storing-sending-crypto-4b19)
+- [My “Vibe-Coding” Experience: Web Service Over a Weekend](https://dev.to/davidklassen/my-vibe-coding-experience-web-service-over-a-weekend-mbg)
+- [Building a Non-AI tool feels refreshing to me](https://dev.to/tinchox5/building-a-non-ai-tool-feels-refreshing-to-me-2bpe)
+- [[Boost]](https://dev.to/agunechemba/-4ad9)
+- [Apa Itu Jekyll? Panduan Terlengkap untuk Pemula di Tahun 2025](https://dev.to/idblogger/apa-itu-jekyll-panduan-terlengkap-untuk-pemula-di-tahun-2025-jo1)
+- [🌶️ Newest Episode of Leet Heat: A Game Show For Developers!](https://dev.to/jlengstorf/newest-episode-of-leet-heat-a-game-show-for-developers-gim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
