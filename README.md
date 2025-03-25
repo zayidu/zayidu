@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Functional Programming in Python: 7 Essential Techniques for Cleaner Code](https://dev.to/aaravjoshi/master-functional-programming-in-python-7-essential-techniques-for-cleaner-code-2a9c)
-- [🔎 AWS GuardDuty vs. Inspector vs. Shield 🛡️ Which One Do You Need?](https://dev.to/aws-builders/aws-guardduty-vs-inspector-vs-shield-which-one-do-you-need-2ia5)
-- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
-- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
-- [Flutter RenderTree : How Rendering Works](https://dev.to/vayuz_insights/flutter-rendertree-how-rendering-works-j48)
+- [A Free WAF Trusted by 300,000 Users Worldwide– SafeLine](https://dev.to/carrie_luo1/a-free-waf-trusted-by-300000-users-worldwide-safeline-1328)
+- [🚀 Build a Full-Stack Business Tracker in Bubble | 2-Hour No-Code CRUD App Tutorial](https://dev.to/ebereplenty/build-a-full-stack-business-tracker-in-bubble-2-hour-no-code-crud-app-tutorial-kmh)
+- [How can I build a multi-vendor eCommerce marketplace using Shopify?](https://dev.to/jaswinder_singh_06c383d52/how-can-i-build-a-multi-vendor-ecommerce-marketplace-using-shopify-3l70)
+- [How to create an animated loader with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-loader-with-tailwind-css-5bll)
+- [70% Faster Deployments with These 5 CI/CD Tools](https://dev.to/msystech/70-faster-deployments-with-these-5-cicd-tools-op0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
