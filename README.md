@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to manage JavaScript closures in React](https://dev.to/logrocket/how-to-manage-javascript-closures-in-react-fm1)
-- [10 Must-Learn Programming Concepts for Beginners in 2025](https://dev.to/learn_skills/10-must-learn-programming-concepts-for-beginners-in-2025-1916)
-- [Temporal Dead Zone in JavaScript: WTF Is It &amp; Why Should You Care?](https://dev.to/jaimaldullat/temporal-dead-zone-in-javascript-wtf-is-it-why-should-you-care-3gf5)
-- [From Local Development to Live Server: A Complete Guide to Deploying Your React JS Project on Ubuntu](https://dev.to/aniket_ap/from-local-development-to-live-server-a-complete-guide-to-deploying-your-react-js-project-on-ubuntu-1idd)
-- [A Deep Dive into JavaScript Classes: Class Inheritance](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-class-inheritance-40ge)
+- [Cypress Dynamic Fixtures](https://dev.to/gregjacobs/cypress-dynamic-fixtures-5bm)
+- [The Building Blocks of an AI Coding Assistant](https://dev.to/bdougieyo/the-building-blocks-of-an-ai-coding-assistant-2m28)
+- [alt mnemonic: LLM = LikeLihood Machine ?](https://dev.to/clozach/alt-mnemonic-llm-likelihood-machine--n1a)
+- [Building a Low-Level Game Engine from Scratch](https://dev.to/lrdev/building-a-low-level-game-engine-from-scratch-1ome)
+- [Clustered vs. Non-Clustered Index in Databases](https://dev.to/devcorner/clustered-vs-non-clustered-index-in-databases-5gfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
