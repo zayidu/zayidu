@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress Dynamic Fixtures](https://dev.to/gregjacobs/cypress-dynamic-fixtures-5bm)
-- [The Building Blocks of an AI Coding Assistant](https://dev.to/bdougieyo/the-building-blocks-of-an-ai-coding-assistant-2m28)
-- [alt mnemonic: LLM = LikeLihood Machine ?](https://dev.to/clozach/alt-mnemonic-llm-likelihood-machine--n1a)
-- [Building a Low-Level Game Engine from Scratch](https://dev.to/lrdev/building-a-low-level-game-engine-from-scratch-1ome)
-- [Clustered vs. Non-Clustered Index in Databases](https://dev.to/devcorner/clustered-vs-non-clustered-index-in-databases-5gfj)
+- [Descubre los Servicios en Angular: Potencia tu Aplicación como un Pro](https://dev.to/cristian_arieta_7df932e5f/descubre-los-servicios-en-angular-potencia-tu-aplicacion-como-un-pro-4gmb)
+- [Software&#39;s Future: Developer&#39;s Role Evolves Software drives our world, from phones to global systems. Developers are key, but tech advances bring change. The world is increasingly powered by software. From the smartphones in our pockets to the complex](https://dev.to/ogc16/-softwares-future-developers-role-evolves-software-drives-our-world-from-phones-to-global-533j)
+- [My First Step Into Web Design! 🚀](https://dev.to/queenlisaomondi/my-first-step-into-web-design-3g0g)
+- [How I Learned Linux: A Deep Dive into Debugging, Troubleshooting, and System Mastery](https://dev.to/sourav_mahato_3900/how-i-learned-linux-a-deep-dive-into-debugging-troubleshooting-and-system-mastery-29m3)
+- [I launched a game you can only play during missile attacks in Israel Hi, I’m an entrepreneur from Israel, and I just launched a weird little project called Iron Battles – a browser game that only becomes available when real-time missile alerts are happeni](https://dev.to/ai224/i-launched-a-game-you-can-only-play-during-missile-attacks-in-israel-hi-im-an-entrepreneur-2lio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
