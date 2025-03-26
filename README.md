@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Env Shield: Your Secret Guardian in VS Code](https://dev.to/csuriel/env-shield-your-secret-guardian-in-vs-code-788)
-- [Secure OTP Generation &amp; Management in a Modern Node.js Stack](https://dev.to/yugjadvani/secure-otp-generation-management-in-a-modern-nodejs-stack-228i)
-- [[Boost]](https://dev.to/javadev4life/-10ji)
-- [[Boost]](https://dev.to/elliot_alderson_6927b4d20/-32l9)
-- [Are We There Yet? How Limits Help Us Get Closer to the Answer](https://dev.to/faith_muluu/are-we-there-yet-how-limits-help-us-get-closer-to-the-answer-40hk)
+- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 3: React NextJS UI](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-3-react-nextjs-ui-5fcd)
+- [AWS Proton: Microservices Infrastructure Automation](https://dev.to/neo_rival67/aws-proton-microservices-infrastructure-automation-103p)
+- [THREE MAIN SERVICE MODELS PROVIDED BY AZURE](https://dev.to/iniobong_ema_92e60ed18028/three-main-service-models-provided-by-azure-4c1j)
+- [Sets are the Data Type Your Code Needs](https://dev.to/muydanny/sets-are-the-data-type-your-code-needs-2c64)
+- [Day 1126 : Laser](https://dev.to/dwane/day-1126-laser-26k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
