@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v320](https://dev.to/devteam/welcome-thread-v320-og9)
-- [PostgreSQL basics &amp; clauses.](https://dev.to/bagavath_98/postgresql-basics-clauses-4p22)
-- [I Built a Chess AI That Plays Like Me—Here’s How It &lpar;Almost&rpar; Failed](https://dev.to/adamazuddin/i-built-a-chess-ai-that-plays-like-me-heres-how-it-almost-failed-4lgb)
-- [How Software Engineering Powers Digital Transformation for Businesses and Innovators](https://dev.to/adityabhuyan/how-software-engineering-powers-digital-transformation-for-businesses-and-innovators-19fp)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-1nhn)
+- [Squash, Rebase, Merge: Keeping Your CI/CD Pipelines Clean and Efficient 🚀](https://dev.to/favxlaw/squash-rebase-merge-keeping-your-cicd-pipelines-clean-and-efficient-8cc)
+- [Discover how to build a trust-based culture for your dev team! This blog offers strategies for balancing autonomy and productivity with tools like Teamcamp](https://dev.to/rajesh_patel/discover-how-to-build-a-trust-based-culture-for-your-dev-team-this-blog-offers-strategies-for-3597)
+- [CSS Performance Tips: Writing Faster, More Efficient Styles](https://dev.to/hasunnilupul/css-performance-tips-writing-faster-more-efficient-styles-46f0)
+- [Want to track developer productivity without disrupting their flow? This insightful blog covers all aspects, including how Teamcamp can help you manage projects smarter!](https://dev.to/nikhil_sachapara/want-to-track-developer-productivity-without-disrupting-their-flow-this-insightful-blog-covers-all-4jj3)
+- [GitHub Pull Request Review Study](https://dev.to/argha_dhar_35d39e068327dc/asu-research-survey-on-github-pr-security-practices-5-mins-2lhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
