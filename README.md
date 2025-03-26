@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Установка WireGuard](https://dev.to/vladimir_avakumov/ustanovka-wireguard-o7i)
-- [Using RabbitMQ with Node.js: A Complete Guide](https://dev.to/pawandeore/using-rabbitmq-with-nodejs-a-complete-guide-48ej)
-- [Top 10 High-Paying Tech Jobs in 2025 – Are You Ready?](https://dev.to/harsh_patel_ac22862fb37b6/top-10-high-paying-tech-jobs-in-2025-are-you-ready-1c5m)
-- [The Feynman Technique - Explaining Code Quality to My 10-Year-Old Self](https://dev.to/jm27/the-feynman-technique-explaining-code-quality-to-my-10-year-old-self-31mm)
-- [How I Built an Accurate and Ad-Free Age Calculator](https://dev.to/mukesh_bagaria_d0a7a9063c/how-i-built-an-accurate-and-ad-free-age-calculator-4hg7)
+- [Announcing the Pulumi Deploy and Document Challenge: $3,000 in Prizes!](https://dev.to/devteam/announcing-the-pulumi-deploy-and-document-challenge-3000-in-prizes-887)
+- [How to Build a T-Shirt Mockup Web App with Realistic Wrinkles &amp; Color Change?](https://dev.to/hasib_haque_211bda2154dae/how-to-build-a-t-shirt-mockup-web-app-with-realistic-wrinkles-color-change-2lfl)
+- [Hướng Dẫn Gọi API với Pmn](https://dev.to/chu_anhhuy_db2ab2820ca3/huong-dan-goi-api-voi-pmn-5142)
+- [What are the implications of quantum computing on current encryption standards?](https://dev.to/hesam_attari_97a2916d7488/what-are-the-implications-of-quantum-computing-on-current-encryption-standards-1e42)
+- [A minimum of books that should be read by a novice or experienced programmer](https://dev.to/tertiumnon/a-minimum-of-books-that-should-be-read-by-a-novice-or-experienced-programmer-4hpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
