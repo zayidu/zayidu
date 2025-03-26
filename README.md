@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOC 2 Compliance in India, Extensive Security &amp; Privacy Protection](https://dev.to/cybersigma/soc-2-compliance-in-india-extensive-security-privacy-protection-40la)
-- [How Grok 3 Works? Why Choose it?](https://dev.to/_37bbf0c253c0b3edec531e/how-grok-3-works-why-choose-it-4085)
-- [How Does IP Addressing Work In AWS?](https://dev.to/nadeem_zia_257af7e986ffc6/how-does-ip-addressing-work-in-aws-4221)
-- [Troubleshoot Your Last Boot Crash on Linux](https://dev.to/jakariya3/troubleshoot-your-last-boot-crash-on-linux-11hl)
-- [The API Documentation Game-Changer You Didn&#39;t Know You Needed](https://dev.to/apilover/the-api-documentation-game-changer-you-didnt-know-you-needed-101l)
+- [6 Types of B2B Sales Intelligence Data](https://dev.to/piyushsingh_22/6-types-of-b2b-sales-intelligence-data-3eid)
+- [dart find coordinates using Chrome](https://dev.to/jan_hovland_65cb1601285a4/dart-find-coordinates-using-chrome-1pdn)
+- [Leading AI Development Companies in India 2025](https://dev.to/angelinajasper/leading-ai-development-companies-in-india-2025-2054)
+- [LangGraph4j Generator](https://dev.to/bsorrentino/langgraph4j-generator-2ika)
+- [Create your own MCP Server from scratch!](https://dev.to/formulahendry/create-your-own-mcp-server-from-scratch-38k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
