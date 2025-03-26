@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Single View?](https://dev.to/engroso/what-is-a-single-view-222l)
-- [How to Retrieve User Country from IP Address](https://dev.to/idrisakintobi/how-to-retrieve-user-country-from-ip-address-4i9b)
-- [Video Watermarking with Rust and FFmpeg: A Deep Dive into Techniques and Applications](https://dev.to/yeauty/video-watermarking-with-rust-and-ffmpeg-a-deep-dive-into-techniques-and-applications-166j)
-- [How To Fetch Data From API In React JS Axios](https://dev.to/theudemezue/how-to-fetch-data-from-api-in-react-js-axios-1p3g)
-- [How To Fetch Image From Database and Display In React JS](https://dev.to/theudemezue/how-to-fetch-image-from-database-and-display-in-react-js-23lo)
+- [Benchmarking Databases for Real-Time Analytics Applications](https://dev.to/timescale/benchmarking-databases-for-real-time-analytics-applications-f2d)
+- [Solve 404 when using BrowserRouter with GitHub pages](https://dev.to/anushibin007/solve-404-when-using-browserrouter-with-github-pages-492e)
+- [Streamlining Workflows with Zapier: Automating Slack, Google Forms &amp; More!](https://dev.to/cogholoh/streamlining-workflows-with-zapier-automating-slack-google-forms-more-150f)
+- [Embedding Models You Can Use in Your Next Project For Free 🚀](https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h)
+- [Canceling HTTP Requests in React &lpar;TypeScript&rpar; – Why It Matters &amp; How to Do It](https://dev.to/xenral/canceling-http-requests-in-react-typescript-why-it-matters-how-to-do-it-3hah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
