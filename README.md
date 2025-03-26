@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking Databases for Real-Time Analytics Applications](https://dev.to/timescale/benchmarking-databases-for-real-time-analytics-applications-f2d)
-- [Solve 404 when using BrowserRouter with GitHub pages](https://dev.to/anushibin007/solve-404-when-using-browserrouter-with-github-pages-492e)
-- [Streamlining Workflows with Zapier: Automating Slack, Google Forms &amp; More!](https://dev.to/cogholoh/streamlining-workflows-with-zapier-automating-slack-google-forms-more-150f)
-- [Embedding Models You Can Use in Your Next Project For Free 🚀](https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h)
-- [Canceling HTTP Requests in React &lpar;TypeScript&rpar; – Why It Matters &amp; How to Do It](https://dev.to/xenral/canceling-http-requests-in-react-typescript-why-it-matters-how-to-do-it-3hah)
+- [How to manage JavaScript closures in React](https://dev.to/logrocket/how-to-manage-javascript-closures-in-react-fm1)
+- [10 Must-Learn Programming Concepts for Beginners in 2025](https://dev.to/learn_skills/10-must-learn-programming-concepts-for-beginners-in-2025-1916)
+- [Temporal Dead Zone in JavaScript: WTF Is It &amp; Why Should You Care?](https://dev.to/jaimaldullat/temporal-dead-zone-in-javascript-wtf-is-it-why-should-you-care-3gf5)
+- [From Local Development to Live Server: A Complete Guide to Deploying Your React JS Project on Ubuntu](https://dev.to/aniket_ap/from-local-development-to-live-server-a-complete-guide-to-deploying-your-react-js-project-on-ubuntu-1idd)
+- [A Deep Dive into JavaScript Classes: Class Inheritance](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-class-inheritance-40ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
