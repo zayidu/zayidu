@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RDP to your EC2-Ubuntu](https://dev.to/sambo2021/rdp-to-your-ec2-ubuntu-c4n)
-- [RDP to your EC2-Ubuntu](https://dev.to/sambo2021/rdp-to-your-ec2-ubuntu-k1o)
-- [Get Private Packages in Go](https://dev.to/erfandiakoo/get-private-packages-in-go-321b)
-- [Using RabbitMQ with Queues in Laravel](https://dev.to/aleson-franca/using-rabbitmq-with-queues-in-laravel-l1d)
-- [Lynx in CPanel🦄](https://dev.to/signor_p/lynx-in-cpanel-kno)
+- [My local AI Ollama for POCs](https://dev.to/getjv/my-local-ai-ollama-for-pocs-i25)
+- [github-rpg-contributors](https://dev.to/btopro/hax-sip-github-rpg-contributors-24ka)
+- [Intelligent Prompt Routing en Amazon Bedrock - Optimizando la elección del modelo fundacional ideal](https://dev.to/exiadev/intelligent-prompt-routing-en-amazon-bedrock-optimizando-la-eleccion-del-modelo-fundacional-ideal-5pn)
+- [new post](https://dev.to/aymanepraxe/new-post-m8c)
+- [Building Kafka HTTP Scanner: An Open-Source Web Vulnerability Scanner in Go](https://dev.to/aymanepraxe/building-kafka-http-scanner-an-open-source-web-vulnerability-scanner-in-go-8fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
