@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the Pulumi Deploy and Document Challenge: $3,000 in Prizes!](https://dev.to/devteam/announcing-the-pulumi-deploy-and-document-challenge-3000-in-prizes-887)
-- [How to Build a T-Shirt Mockup Web App with Realistic Wrinkles &amp; Color Change?](https://dev.to/hasib_haque_211bda2154dae/how-to-build-a-t-shirt-mockup-web-app-with-realistic-wrinkles-color-change-2lfl)
-- [Hướng Dẫn Gọi API với Pmn](https://dev.to/chu_anhhuy_db2ab2820ca3/huong-dan-goi-api-voi-pmn-5142)
-- [What are the implications of quantum computing on current encryption standards?](https://dev.to/hesam_attari_97a2916d7488/what-are-the-implications-of-quantum-computing-on-current-encryption-standards-1e42)
-- [A minimum of books that should be read by a novice or experienced programmer](https://dev.to/tertiumnon/a-minimum-of-books-that-should-be-read-by-a-novice-or-experienced-programmer-4hpb)
+- [State Management for Large Internal Tools: Redux, Context API, or Alternatives?](https://dev.to/shib_itsme/state-management-for-large-internal-tools-redux-context-api-or-alternatives-51op)
+- [Will AI take developers’ jobs?](https://dev.to/logrocket/will-ai-take-developers-jobs-26od)
+- [Best Cloud Platforms for Data Engineering in 2025](https://dev.to/anshul_kichara/best-cloud-platforms-for-data-engineering-in-2025-1hlm)
+- [Every TypeScript Developer is an AI Developer](https://dev.to/samchon/every-typescript-developer-is-an-ai-developer-2kan)
+- [How to Build a React Page Builder: Puck and Tailwind v4.0](https://dev.to/puckeditor/how-to-build-a-react-page-builder-puck-and-tailwind-v40-5e3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
