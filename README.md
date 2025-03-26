@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 3: React NextJS UI](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-3-react-nextjs-ui-5fcd)
-- [AWS Proton: Microservices Infrastructure Automation](https://dev.to/neo_rival67/aws-proton-microservices-infrastructure-automation-103p)
-- [THREE MAIN SERVICE MODELS PROVIDED BY AZURE](https://dev.to/iniobong_ema_92e60ed18028/three-main-service-models-provided-by-azure-4c1j)
-- [Sets are the Data Type Your Code Needs](https://dev.to/muydanny/sets-are-the-data-type-your-code-needs-2c64)
-- [Day 1126 : Laser](https://dev.to/dwane/day-1126-laser-26k1)
+- [ServBay Launches Educational Program for Students and Teachers](https://dev.to/servbay/servbay-launches-educational-program-for-students-and-teachers-che)
+- [Re-Revisiting Performance in Ruby 3.4.1](https://dev.to/reinteractive/re-revisiting-performance-in-ruby-341-2g9m)
+- [How to use gdb to debug Golf applications](https://dev.to/golf-lang/how-to-use-gdb-to-debug-golf-applications-5abj)
+- [All Builders Welcome - Applications for the All Builders Welcome Grant are now open](https://dev.to/tobyvu/all-builders-welcome-applications-for-the-all-builders-welcome-grant-are-now-open-3c3o)
+- [Advance YT-DLP Command Generator](https://dev.to/w3vish/advance-yt-dlp-command-generator-2kon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
