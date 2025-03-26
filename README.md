@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Operators](https://dev.to/vikrant_shitole_182356d46/javascript-operators-1kib)
-- [Integration of AI and Machine Learning in Next.js 🔥🔥](https://dev.to/syed_mudasseranayat_e251/integration-of-ai-and-machine-learning-in-nextjs-2gc8)
-- [What Are Dev Containers?](https://dev.to/techielass/-what-are-dev-containers-h17)
-- [Practical Ways to Track and Trace IP Address](https://dev.to/swiftproxy_residential/practical-ways-to-track-and-trace-ip-address-10o3)
-- [Practical Tips for Generating Random IP Address](https://dev.to/swiftproxy_residential/practical-tips-for-generating-random-ip-address-1g6e)
+- [How to create an animated input field with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-input-field-with-tailwind-css-18k1)
+- [Healthcare Cybersecurity: Strategies to Avoid Data Breaches and Implement Patient Privacy Protection](https://dev.to/mobisoftinfotech/healthcare-cybersecurity-strategies-to-avoid-data-breaches-and-implement-patient-privacy-protection-2ea8)
+- [Generative AI in Supply Chain: Turning Complexity Into Competitive Advantage](https://dev.to/riya_marketing_2025/generative-ai-in-supply-chain-turning-complexity-into-competitive-advantage-1jb5)
+- [Top API Technologies and How to Write Docs for Them](https://dev.to/apidog/top-api-technologies-and-how-to-write-docs-for-them-5818)
+- [Best Custom Cosmetic Boxes for Skincare Brands](https://dev.to/jowenkay/best-custom-cosmetic-boxes-for-skincare-brands-1c8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
