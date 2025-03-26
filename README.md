@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Consistency in Coding](https://dev.to/nandini_pahuja/the-power-of-consistency-in-coding-cao)
-- [7 ways to optimize Infrastructure for AI workloads](https://dev.to/e77/7-ways-to-optimize-infrastructure-for-ai-workloads-1jn2)
-- [Understanding Digital Signage Content Management Systems &lpar;CMS&rpar;: A Complete Guide](https://dev.to/stevejacob45678/understanding-digital-signage-content-management-systems-cms-a-complete-guide-1idd)
-- [Mocking HTTPX Requests with RESPX: A Comprehensive Guide](https://dev.to/keploy/mocking-httpx-requests-with-respx-a-comprehensive-guide-4o7i)
-- [# Code Autocompletion: AI Predicts Your Next Lines of Code, Minimizing Syntax Errors and Saving Time](https://dev.to/devresurrect_f18e7d7b7bc6/-code-autocompletion-ai-predicts-your-next-lines-of-code-minimizing-syntax-errors-and-saving-time-3opl)
+- [The Great Developer Debate: Tabs vs. Spaces – Does It Really Matter? 🤔](https://dev.to/vibhuvibes/the-great-developer-debate-tabs-vs-spaces-does-it-really-matter-52dk)
+- [Why is PHP Ideal for Developing an Event Management Platform?](https://dev.to/dilshaddurani/why-is-php-ideal-for-developing-an-event-management-platform-1dp8)
+- [Gasless Transactions: The Missing UX Layer in Web3 Adoption](https://dev.to/omniradhanexus/gasless-transactions-the-missing-ux-layer-in-web3-adoption-1in7)
+- [Cloud Tester Certification to be a Successful Software Testing Professional](https://dev.to/tom_cruise_47f47443bff64e/cloud-tester-certification-to-be-a-successful-software-testing-professional-3o38)
+- [How ML Transforms Cybersecurity: Detecting Threats Early](https://dev.to/sai_rishika_0e321c17cfc13/how-ml-transforms-cybersecurity-detecting-threats-early-4535)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
