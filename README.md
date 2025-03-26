@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My local AI Ollama for POCs](https://dev.to/getjv/my-local-ai-ollama-for-pocs-i25)
-- [github-rpg-contributors](https://dev.to/btopro/hax-sip-github-rpg-contributors-24ka)
-- [Intelligent Prompt Routing en Amazon Bedrock - Optimizando la elección del modelo fundacional ideal](https://dev.to/exiadev/intelligent-prompt-routing-en-amazon-bedrock-optimizando-la-eleccion-del-modelo-fundacional-ideal-5pn)
-- [new post](https://dev.to/aymanepraxe/new-post-m8c)
-- [Building Kafka HTTP Scanner: An Open-Source Web Vulnerability Scanner in Go](https://dev.to/aymanepraxe/building-kafka-http-scanner-an-open-source-web-vulnerability-scanner-in-go-8fm)
+- [The Next Big Thing in AI &lpar;Here’s Why It Matters&rpar;](https://dev.to/itshayder/the-next-big-thing-in-ai-heres-why-it-matters-3e9h)
+- [Recommended Session Calculator Based on Age and Skin Type](https://dev.to/emily_johnson_dev/recommended-session-calculator-based-on-age-and-skin-type-57oi)
+- [Rust Concurrency: Fearless Concurrency](https://dev.to/leapcell/rust-concurrency-fearless-concurrency-24h)
+- [Unlocking Hidden Performance Bottlenecks in Golang using GoFr: The Underrated Power of pprof](https://dev.to/aryanmehrotra/unlocking-hidden-performance-bottlenecks-in-golang-using-gofr-the-underrated-power-of-pprof-2dc7)
+- [Python](https://dev.to/srgio_rsdesantana_544c/python-130l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
