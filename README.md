@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Types of B2B Sales Intelligence Data](https://dev.to/piyushsingh_22/6-types-of-b2b-sales-intelligence-data-3eid)
-- [dart find coordinates using Chrome](https://dev.to/jan_hovland_65cb1601285a4/dart-find-coordinates-using-chrome-1pdn)
-- [Leading AI Development Companies in India 2025](https://dev.to/angelinajasper/leading-ai-development-companies-in-india-2025-2054)
-- [LangGraph4j Generator](https://dev.to/bsorrentino/langgraph4j-generator-2ika)
-- [Create your own MCP Server from scratch!](https://dev.to/formulahendry/create-your-own-mcp-server-from-scratch-38k6)
+- [Установка WireGuard](https://dev.to/vladimir_avakumov/ustanovka-wireguard-o7i)
+- [Using RabbitMQ with Node.js: A Complete Guide](https://dev.to/pawandeore/using-rabbitmq-with-nodejs-a-complete-guide-48ej)
+- [Top 10 High-Paying Tech Jobs in 2025 – Are You Ready?](https://dev.to/harsh_patel_ac22862fb37b6/top-10-high-paying-tech-jobs-in-2025-are-you-ready-1c5m)
+- [The Feynman Technique - Explaining Code Quality to My 10-Year-Old Self](https://dev.to/jm27/the-feynman-technique-explaining-code-quality-to-my-10-year-old-self-31mm)
+- [How I Built an Accurate and Ad-Free Age Calculator](https://dev.to/mukesh_bagaria_d0a7a9063c/how-i-built-an-accurate-and-ad-free-age-calculator-4hg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
