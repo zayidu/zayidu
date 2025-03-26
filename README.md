@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Big Thing in AI &lpar;Here’s Why It Matters&rpar;](https://dev.to/itshayder/the-next-big-thing-in-ai-heres-why-it-matters-3e9h)
-- [Recommended Session Calculator Based on Age and Skin Type](https://dev.to/emily_johnson_dev/recommended-session-calculator-based-on-age-and-skin-type-57oi)
-- [Rust Concurrency: Fearless Concurrency](https://dev.to/leapcell/rust-concurrency-fearless-concurrency-24h)
-- [Unlocking Hidden Performance Bottlenecks in Golang using GoFr: The Underrated Power of pprof](https://dev.to/aryanmehrotra/unlocking-hidden-performance-bottlenecks-in-golang-using-gofr-the-underrated-power-of-pprof-2dc7)
-- [Python](https://dev.to/srgio_rsdesantana_544c/python-130l)
+- [How to Set Up a Jenkins Host on a Remote Server for Ansible Job Execution](https://dev.to/titans_sarim_42380409554b/how-to-set-up-a-jenkins-host-on-a-remote-server-for-ansible-job-execution-3dl0)
+- [Day 1127 : Traffic Jam](https://dev.to/dwane/day-1127-traffic-jam-k3c)
+- [Monorepo Issue: Multiple Angular Projects Using a Shared Firebase Auth Service](https://dev.to/jure_raji_39c45a4a8219b/monorepo-issue-multiple-angular-projects-using-a-shared-firebase-auth-service-2dfb)
+- [Sun Header With Rising Logo Bouncing Letters Using Trig.js ☀️](https://dev.to/idevgames/sun-header-with-rising-logo-bouncing-letters-using-trigjs-kj)
+- [A New Virtualisation Solution For Linux](https://dev.to/dev_prince/a-new-virtualisation-solution-for-linux-occ)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
