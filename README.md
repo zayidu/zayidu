@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting an Effective Application Security Program: Strategies, Techniques and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-optimal-136b)
-- [AI-Powered Testing Trends in 2025: Automated, Smart, and Efficient](https://dev.to/anil_csimplifyit_905c/ai-powered-testing-trends-in-2025-automated-smart-and-efficient-51j7)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-fnj)
-- [Key Features No Longer Supported in Oracle 23ai](https://dev.to/vahidusefzadeh/key-features-no-longer-supported-in-oracle-23ai-41o6)
-- [ServBay Launches Educational Program for Students and Teachers](https://dev.to/servbay/servbay-launches-educational-program-for-students-and-teachers-che)
+- [Welcome Thread - v320](https://dev.to/devteam/welcome-thread-v320-og9)
+- [PostgreSQL basics &amp; clauses.](https://dev.to/bagavath_98/postgresql-basics-clauses-4p22)
+- [I Built a Chess AI That Plays Like Me—Here’s How It &lpar;Almost&rpar; Failed](https://dev.to/adamazuddin/i-built-a-chess-ai-that-plays-like-me-heres-how-it-almost-failed-4lgb)
+- [How Software Engineering Powers Digital Transformation for Businesses and Innovators](https://dev.to/adityabhuyan/how-software-engineering-powers-digital-transformation-for-businesses-and-innovators-19fp)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-1nhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
