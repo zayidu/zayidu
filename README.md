@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Display Followers on Linkedin](https://dev.to/anzilone/display-followers-on-linkedin-483o)
-- [Modelswegan](https://dev.to/rahul_d_69c56a981e11c6728/modelswegan-396n)
-- [Business Development Manager](https://dev.to/openxai_network/business-development-manager-24fo)
-- [Java Program to Identify the Minimal Nucleotide in a DNA Sequence Range](https://dev.to/pythontutorial/java-program-to-identify-the-minimal-nucleotide-in-a-dna-sequence-range-22p0)
-- [How to Use TOSCA Automation Tool for Testing: A Beginner’s Guide &lpar;2025&rpar;](https://dev.to/vinay_h2kinfosys_a71b70a7/how-to-use-tosca-automation-tool-for-testing-a-beginners-guide-2025-20bi)
+- [Otimizando Programação Assíncrona com Fluxos no Kotlin: Introdução ao `Flow`](https://dev.to/comunidadedevspace/otimizando-programacao-assincrona-com-fluxos-no-kotlin-introducao-ao-flow-28m9)
+- [Optimizing Asynchronous Programming with Flows in Kotlin: Introduction to Flow](https://dev.to/comunidadedevspace/optimizing-asynchronous-programming-with-flows-in-kotlin-introduction-to-flow-7ji)
+- [Go Interfaces Explained: Why, How, and Wow! 🤯](https://dev.to/tavernetech/go-interfaces-explained-why-how-and-wow-4al1)
+- [SQL DATEDIFF Explained: Syntax and Database Differences](https://dev.to/dbvismarketing/sql-datediff-explained-syntax-and-database-differences-5gf0)
+- [Revocable Proxies: Use Cases and Examples](https://dev.to/omriluz1/revocable-proxies-use-cases-and-examples-47al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
