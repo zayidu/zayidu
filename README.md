@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Framer vs. Adobe XD: Which One Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/framer-vs-adobe-xd-which-one-should-you-use-in-2025-47ac)
-- [A Guide to Using Singleton Design Pattern in Android](https://dev.to/shalenmathew/a-guide-to-using-singleton-design-pattern-in-android-41bd)
-- [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
-- [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
-- [The Future of Workplace Efficiency: Balancing Productivity and Privacy](https://dev.to/remotly/the-future-of-workplace-efficiency-balancing-productivity-and-privacy-4fhc)
+- [The Future is Serverless](https://dev.to/ayon_ssp/the-future-is-serverless-1cp0)
+- [I proposed an approximate solution to the NP-Hard Minimum Dominating Set Problem &lpar;MDS&rpar;, which has shown promising experimental results. The experimental findings demonstrate a 2-approximation ratio for this problem, providing compelling evidence that P=NP.](https://dev.to/frank_vega_987689489099bf/i-proposed-an-approximate-solution-to-the-np-hard-minimum-dominating-set-problem-mds-which-has-45nc)
+- [Looping Through Enum Values in Java](https://dev.to/rajatpoddar/looping-through-enum-values-in-java-5b7k)
+- [Java Program to Calculate the Minimum Average of a Slice with at Least Two Elements](https://dev.to/pythontutorial/java-program-to-calculate-the-minimum-average-of-a-slice-with-at-least-two-elements-5dl5)
+- [Mastering Client Onboarding: A Step-by-Step Guide to Building Lasting Relationships](https://dev.to/rapidbee/mastering-client-onboarding-a-step-by-step-guide-to-building-lasting-relationships-287l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
