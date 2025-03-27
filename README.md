@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install HUGO with Tailwind CSS and Flowbite](https://dev.to/zoltanszogyenyi/how-to-install-hugo-with-tailwind-cs-and-flowbite-56e)
-- [Recursion Power Sum](https://dev.to/ethanhaseaten/recursion-power-sum-56h9)
-- [Building a Webflow Portal That Vibrates: KELEALife Launch Log #1](https://dev.to/stampdmedia/-building-a-webflow-portal-that-vibrates-kelealife-launch-log-1-hon)
-- [Best way to deploy Nodejs app](https://dev.to/shubhamb/best-way-to-deploy-nodejs-app-35fk)
-- [Can AI coding platforms replace traditional page builders?](https://dev.to/momciloo/can-ai-coding-platforms-replace-traditional-page-builders-1c74)
+- [DAY4 JAVA DATA TYPES &amp; VARIABLES](https://dev.to/elayaraj_c_04396748f52a1c/day4-java-data-types-1g7)
+- [Fast Static Website Deployment with Pulumi](https://dev.to/latzo/fast-static-website-deployment-with-pulumi-1aim)
+- [New DEV++ Deal: 20% Off Mock Interviews with Interview Kickstart](https://dev.to/devteam/new-dev-deal-20-off-mock-interviews-with-interview-kickstart-215b)
+- [Exploiting CLRF in PHP cURL to retrieve Azure Access Tokens](https://dev.to/blue_byte/exploiting-clrf-in-php-curl-to-retrieve-azure-temporary-credentials-4nj7)
+- [How Whole Team Quality Improves Software Development](https://dev.to/bmroby01/how-whole-team-quality-improves-software-development-gh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
