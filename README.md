@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contribute to Open English VN – Help Build a Valuable Learning Resource!](https://dev.to/gianguyen1234/contribute-to-open-english-vn-help-build-a-valuable-learning-resource-gal)
-- [greedy challenges](https://dev.to/johnsone_emett_c5c2b56a4a/greedy-challenges-oe3)
-- [[Boost]](https://dev.to/sudhanshu_dasgupta/-868)
-- [NocoBase Weekly Updates: Support user role union](https://dev.to/nocobase/nocobase-weekly-updates-support-user-role-union-5fk)
-- [SolidJS](https://dev.to/taytay836/solidjs-4doa)
+- [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
+- [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
+- [The Future of Workplace Efficiency: Balancing Productivity and Privacy](https://dev.to/remotly/the-future-of-workplace-efficiency-balancing-productivity-and-privacy-4fhc)
+- [Setup a Redis Cluster using Redis Stack](https://dev.to/hedgehog/setup-a-redis-cluster-using-redis-stack-4jdl)
+- [Concerned about Security of your OSS? Look no where...](https://dev.to/sudhanshu_dasgupta/concerned-about-security-of-your-oss-look-no-where-f54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
