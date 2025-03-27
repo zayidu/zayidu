@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Busy Waiting in Java Multithreading: Explanation and Examples](https://dev.to/tpointtechadu/busy-waiting-in-java-multithreading-explanation-and-examples-1o1g)
-- [How Platform Engineering Helps You Move Like a Startup Again](https://dev.to/cyclops-ui/how-platform-engineering-helps-you-move-like-a-startup-again-1ja2)
-- [Java StrictMath scalb&lpar;&rpar; Method: Syntax, Usage, and Examples](https://dev.to/tpointtechadu/java-strictmath-scalb-method-syntax-usage-and-examples-275h)
-- [5 practical Python scripts for 2025](https://dev.to/scrapestorm/5-practical-python-scripts-for-2025-56bk)
-- [Maintenance Script: Keeping Your Linux Box in Check](https://dev.to/destinyobs/maintenance-script-keeping-your-linux-box-in-check-4chh)
+- [How to Add Menu in any Website](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-menu-in-any-website-47jc)
+- [Revolutionizing Creativity: The Power of Artificial Intelligence in Image Creation](https://dev.to/article-1/revolutionizing-creativity-the-power-of-artificial-intelligence-in-image-creation-nj0)
+- [10 Things a Non-Tech Founder Should Know to Run a Tech Start-up](https://dev.to/phyniks/10-things-a-non-tech-founder-should-know-to-run-a-tech-start-up-3bll)
+- [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
+- [Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?](https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
