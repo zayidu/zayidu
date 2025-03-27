@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Concurrency: Atomic Explained](https://dev.to/leapcell/rust-concurrency-atomic-explained-58cl)
-- [Block vs. Inline vs. Inline-Block in CSS](https://dev.to/thedevspace/block-vs-inline-vs-inline-block-in-css-1eli)
-- [Why Hackers Love Targeting Small Businesses—And How to Stop Them](https://dev.to/donald1981/why-hackers-love-targeting-small-businesses-and-how-to-stop-them-2hih)
-- [Master the Usequery Method](https://dev.to/pcharles/master-the-usequery-method-4h0f)
-- [🔥 Introducing Docker Model Runner – Bring AI Inference to Your Local Dev Environment](https://dev.to/narmidm/introducing-docker-model-runner-bring-ai-inference-to-your-local-dev-environment-316a)
+- [Why Rust is the Future of System Programming](https://dev.to/umairamir/why-rust-is-the-future-of-system-programming-1105)
+- [A Comprehensive Guide to Creating Custom Permissions for Files on SharePoint Sites](https://dev.to/seyilufadejucyberservices/a-comprehensive-guide-to-creating-custom-permissions-for-files-on-sharepoint-sites-27jb)
+- [&quot;An alternative spiral matrix traversal using list.size&lpar;&rpar; for dynamic termination, eliminating boundary variables:Innovative&quot;](https://dev.to/shreyas_r/an-alternative-spiral-matrix-traversal-using-listsize-for-dynamic-termination-eliminating-29if)
+- [Think Before You Code: The Art of Understanding Problems](https://dev.to/wraith/think-before-you-code-the-art-of-understanding-problems-1hpa)
+- [Why I’m Betting on Web Components in 2025](https://dev.to/elyndrastudios/why-im-betting-on-web-components-in-2025-1bhc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
