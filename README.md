@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is Serverless](https://dev.to/ayon_ssp/the-future-is-serverless-1cp0)
-- [I proposed an approximate solution to the NP-Hard Minimum Dominating Set Problem &lpar;MDS&rpar;, which has shown promising experimental results. The experimental findings demonstrate a 2-approximation ratio for this problem, providing compelling evidence that P=NP.](https://dev.to/frank_vega_987689489099bf/i-proposed-an-approximate-solution-to-the-np-hard-minimum-dominating-set-problem-mds-which-has-45nc)
-- [Looping Through Enum Values in Java](https://dev.to/rajatpoddar/looping-through-enum-values-in-java-5b7k)
-- [Java Program to Calculate the Minimum Average of a Slice with at Least Two Elements](https://dev.to/pythontutorial/java-program-to-calculate-the-minimum-average-of-a-slice-with-at-least-two-elements-5dl5)
-- [Mastering Client Onboarding: A Step-by-Step Guide to Building Lasting Relationships](https://dev.to/rapidbee/mastering-client-onboarding-a-step-by-step-guide-to-building-lasting-relationships-287l)
+- [Display Followers on Linkedin](https://dev.to/anzilone/display-followers-on-linkedin-483o)
+- [Modelswegan](https://dev.to/rahul_d_69c56a981e11c6728/modelswegan-396n)
+- [Business Development Manager](https://dev.to/openxai_network/business-development-manager-24fo)
+- [Java Program to Identify the Minimal Nucleotide in a DNA Sequence Range](https://dev.to/pythontutorial/java-program-to-identify-the-minimal-nucleotide-in-a-dna-sequence-range-22p0)
+- [How to Use TOSCA Automation Tool for Testing: A Beginner’s Guide &lpar;2025&rpar;](https://dev.to/vinay_h2kinfosys_a71b70a7/how-to-use-tosca-automation-tool-for-testing-a-beginners-guide-2025-20bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
