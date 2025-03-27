@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY4 JAVA DATA TYPES &amp; VARIABLES](https://dev.to/elayaraj_c_04396748f52a1c/day4-java-data-types-1g7)
-- [Fast Static Website Deployment with Pulumi](https://dev.to/latzo/fast-static-website-deployment-with-pulumi-1aim)
-- [New DEV++ Deal: 20% Off Mock Interviews with Interview Kickstart](https://dev.to/devteam/new-dev-deal-20-off-mock-interviews-with-interview-kickstart-215b)
-- [Exploiting CLRF in PHP cURL to retrieve Azure Access Tokens](https://dev.to/blue_byte/exploiting-clrf-in-php-curl-to-retrieve-azure-temporary-credentials-4nj7)
-- [How Whole Team Quality Improves Software Development](https://dev.to/bmroby01/how-whole-team-quality-improves-software-development-gh0)
+- [Touch Events &lpar;swipe&rpar; using Stimulus](https://dev.to/railsdesigner/touch-events-swipe-using-stimulus-1kml)
+- [The Best Beginner Friendly JavaScript Coding Challenges](https://dev.to/logannford/the-best-beginner-friendly-javascript-coding-challenges-3gib)
+- [Are you using AI only to write code? You&#39;re missing out](https://dev.to/ayush2390/are-you-using-ai-only-to-write-code-youre-missing-out-28j3)
+- [11 Most Popular Tools for Logging and Monitoring API Calls](https://dev.to/moesif/11-most-popular-tools-for-logging-and-monitoring-api-calls-5f06)
+- [11 Most Popular Tools for Logging and Monitoring API Calls](https://dev.to/moesif/11-most-popular-tools-for-logging-and-monitoring-api-calls-561e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
