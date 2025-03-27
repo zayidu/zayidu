@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing `neo`: A CLI Tool for Your NeoHaskell Projects](https://dev.to/neohaskell/introducing-neo-a-cli-tool-for-your-neohaskell-projects-58gp)
-- [Symbol.iterator and Custom Iteration Protocols](https://dev.to/omriluz1/symboliterator-and-custom-iteration-protocols-1h5o)
-- [Open Source: AWS Lambda + Puppeteer Starter Repo](https://dev.to/geiger01/open-source-aws-lambda-puppeteer-starter-repo-5f4g)
-- [Advanced Jetpack Compose Previews](https://dev.to/markkazakov/advanced-jetpack-compose-previews-1f49)
-- [Autenticación Social en Aplicaciones Web Usando AWS Cognito y OAuth](https://dev.to/geramireze/autenticacion-social-en-aplicaciones-web-usando-aws-cognito-y-oauth-1jj9)
+- [Rust Concurrency: Atomic Explained](https://dev.to/leapcell/rust-concurrency-atomic-explained-58cl)
+- [Block vs. Inline vs. Inline-Block in CSS](https://dev.to/thedevspace/block-vs-inline-vs-inline-block-in-css-1eli)
+- [Why Hackers Love Targeting Small Businesses—And How to Stop Them](https://dev.to/donald1981/why-hackers-love-targeting-small-businesses-and-how-to-stop-them-2hih)
+- [Master the Usequery Method](https://dev.to/pcharles/master-the-usequery-method-4h0f)
+- [🔥 Introducing Docker Model Runner – Bring AI Inference to Your Local Dev Environment](https://dev.to/narmidm/introducing-docker-model-runner-bring-ai-inference-to-your-local-dev-environment-316a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
