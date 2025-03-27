@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Rust is the Future of System Programming](https://dev.to/umairamir/why-rust-is-the-future-of-system-programming-1105)
-- [A Comprehensive Guide to Creating Custom Permissions for Files on SharePoint Sites](https://dev.to/seyilufadejucyberservices/a-comprehensive-guide-to-creating-custom-permissions-for-files-on-sharepoint-sites-27jb)
-- [&quot;An alternative spiral matrix traversal using list.size&lpar;&rpar; for dynamic termination, eliminating boundary variables:Innovative&quot;](https://dev.to/shreyas_r/an-alternative-spiral-matrix-traversal-using-listsize-for-dynamic-termination-eliminating-29if)
-- [Think Before You Code: The Art of Understanding Problems](https://dev.to/wraith/think-before-you-code-the-art-of-understanding-problems-1hpa)
-- [Why I’m Betting on Web Components in 2025](https://dev.to/elyndrastudios/why-im-betting-on-web-components-in-2025-1bhc)
+- [Quantum Leaps and Grandma&#39;s Hugs, A Letter to My Beloved Grandma](https://dev.to/aniruddhaadak/quantum-leaps-and-grandmas-hugs-a-letter-to-my-beloved-grandma-jie)
+- [Creating Your First Isolated Linux Container with SSH Access: A Step-by-Step Guide](https://dev.to/mart_young_ce778e4c31eb33/creating-your-first-isolated-linux-container-with-ssh-access-a-step-by-step-guide-3j6h)
+- [Feeling overwhelmed setting up you first flutter project?](https://dev.to/techifydev/feeling-overwhelmed-setting-up-you-first-flutter-project-1poi)
+- [How I Found a Proxy List That Actually Works in 2025](https://dev.to/mjensen/how-i-found-a-proxy-list-that-actually-works-in-2025-5378)
+- [First Alpha of Gland Framework Released](https://dev.to/m__mdy__m/first-alpha-of-gland-framework-released-48og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
