@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Touch Events &lpar;swipe&rpar; using Stimulus](https://dev.to/railsdesigner/touch-events-swipe-using-stimulus-1kml)
-- [The Best Beginner Friendly JavaScript Coding Challenges](https://dev.to/logannford/the-best-beginner-friendly-javascript-coding-challenges-3gib)
-- [Are you using AI only to write code? You&#39;re missing out](https://dev.to/ayush2390/are-you-using-ai-only-to-write-code-youre-missing-out-28j3)
-- [11 Most Popular Tools for Logging and Monitoring API Calls](https://dev.to/moesif/11-most-popular-tools-for-logging-and-monitoring-api-calls-5f06)
-- [11 Most Popular Tools for Logging and Monitoring API Calls](https://dev.to/moesif/11-most-popular-tools-for-logging-and-monitoring-api-calls-561e)
+- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
+- [HttpClient en Angular: Todo lo que Necesitas Saber](https://dev.to/cristian_arieta_7df932e5f/httpclient-en-angular-todo-lo-que-necesitas-saber-5c1d)
+- [Erro na Play Store: “Não é possível lançar esta versão” — O que aprendi e como resolvi + EXPO REACT NATIVE](https://dev.to/willrpg/erro-na-play-store-nao-e-possivel-lancar-esta-versao-o-que-aprendi-e-como-resolvi-expo-react-1862)
+- [OpenAI Agents SDK + Multiple MCP Servers](https://dev.to/seratch/openai-agents-sdk-multiple-mcp-servers-8d2)
+- [How to use Gyroscope in Presentations or Why Take a JoyCon to DPG2025](https://dev.to/jerryi/how-to-use-gyroscope-in-presentations-or-why-take-a-joycon-to-dpg2025-7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
