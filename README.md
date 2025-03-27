@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Menu in any Website](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-menu-in-any-website-47jc)
-- [Revolutionizing Creativity: The Power of Artificial Intelligence in Image Creation](https://dev.to/article-1/revolutionizing-creativity-the-power-of-artificial-intelligence-in-image-creation-nj0)
-- [10 Things a Non-Tech Founder Should Know to Run a Tech Start-up](https://dev.to/phyniks/10-things-a-non-tech-founder-should-know-to-run-a-tech-start-up-3bll)
-- [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
-- [Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?](https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5)
+- [How To Build Full-Stack AI Agents &lpar;CrewAI + CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-full-stack-ai-agents-crewai-copilotkit-1fn6)
+- [সবে কদরের ইতিহাস: রমজানের পবিত্র রাতের উৎপত্তি ও তাৎপর্য](https://dev.to/rironib/sbe-kdrer-itihaas-rmjaaner-pbitr-raater-uptti-o-taapry-3nkg)
+- [🤬 Somebody Stole My Website!](https://dev.to/evergrowingdev/somebody-stole-my-website-5aj5)
+- [Login to D365 from Devops pipeline step by step](https://dev.to/rattlemaster/login-to-d365-from-devops-pipeline-step-by-step-ni1)
+- [[Boost]](https://dev.to/fredabod/-3cg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
