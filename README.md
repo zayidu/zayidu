@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Otimizando Programação Assíncrona com Fluxos no Kotlin: Introdução ao `Flow`](https://dev.to/comunidadedevspace/otimizando-programacao-assincrona-com-fluxos-no-kotlin-introducao-ao-flow-28m9)
-- [Optimizing Asynchronous Programming with Flows in Kotlin: Introduction to Flow](https://dev.to/comunidadedevspace/optimizing-asynchronous-programming-with-flows-in-kotlin-introduction-to-flow-7ji)
-- [Go Interfaces Explained: Why, How, and Wow! 🤯](https://dev.to/tavernetech/go-interfaces-explained-why-how-and-wow-4al1)
-- [SQL DATEDIFF Explained: Syntax and Database Differences](https://dev.to/dbvismarketing/sql-datediff-explained-syntax-and-database-differences-5gf0)
-- [Revocable Proxies: Use Cases and Examples](https://dev.to/omriluz1/revocable-proxies-use-cases-and-examples-47al)
+- [Test API](https://dev.to/hoangthanh/test-api-5a2d)
+- [Top Features of Salesforce B2B Commerce Cloud for Business Growth](https://dev.to/smartitstaff/top-features-of-salesforce-b2b-commerce-cloud-for-business-growth-473i)
+- [🧭 Part 3: Implementing Vector Search with Pinecone](https://dev.to/praveencs87/part-3-implementing-vector-search-with-pinecone-4aj0)
+- [How David Lieb Turned a Failing Startup Into Google Photos | Backstory](https://dev.to/jetthoughts/how-david-lieb-turned-a-failing-startup-into-google-photos-backstory-4864)
+- [Vibe Coding: Transforming Software Development Forever](https://dev.to/ayush_chaudhary_b5df8f756/vibe-coding-transforming-software-development-forever-5a8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
