@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Palmos Lplex / بالموس لبليكس](https://dev.to/story_master_m/palmos-lplex-blmws-lblyks-52dm)
-- [Transparent crash-tracking for production with PLCrashReporter](https://dev.to/yurii_denchyk_bb561af8d2d/transparent-crash-tracking-for-production-with-plcrashreporter-484l)
-- [What is PMI-ACP Certification? A Complete Guide](https://dev.to/skillboosttrainer/what-is-pmi-acp-certification-a-complete-guide-487)
-- [Top 10 Programming Languages to Learn in 2025 🖥️](https://dev.to/andrewdeveloper/top-10-programming-languages-to-learn-in-2025-5759)
-- [Introducing my first Python library! It is a port of Angular Signals to Python. Check it out!](https://dev.to/buiapp/introducing-my-first-python-library-it-is-a-port-of-angular-signals-to-python-check-it-out-m12)
+- [How to install HUGO with Tailwind CSS and Flowbite](https://dev.to/zoltanszogyenyi/how-to-install-hugo-with-tailwind-cs-and-flowbite-56e)
+- [Recursion Power Sum](https://dev.to/ethanhaseaten/recursion-power-sum-56h9)
+- [Building a Webflow Portal That Vibrates: KELEALife Launch Log #1](https://dev.to/stampdmedia/-building-a-webflow-portal-that-vibrates-kelealife-launch-log-1-hon)
+- [Best way to deploy Nodejs app](https://dev.to/shubhamb/best-way-to-deploy-nodejs-app-35fk)
+- [Can AI coding platforms replace traditional page builders?](https://dev.to/momciloo/can-ai-coding-platforms-replace-traditional-page-builders-1c74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
