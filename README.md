@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Master JavaScript Loops: for, while, do-while &amp; More! 🔄](https://dev.to/ebereplenty/master-javascript-loops-for-while-do-while-more-4n2l)
-- [Breaking Boundaries: Ethereum&#39;s Pioneering Upgrade with Pectra on Hoodi Testnet Sets Stage for Mainnet Launch](https://dev.to/bernardkibathi/breaking-boundaries-ethereums-pioneering-upgrade-with-pectra-on-hoodi-testnet-sets-stage-for-11fa)
-- [S2S Compilers: Understanding Switch Case Statements](https://dev.to/alex01/s2s-compilers-understanding-switch-case-statements-4ibk)
-- [Optimize Core Web Vitals - FCP and LCP: Images](https://dev.to/jenchen/optimize-core-web-vitals-fcp-and-lcp-images-hlc)
-- [Limitations of Cloudera DataFlow and How Data Flow Manager Solves Them](https://dev.to/johncarter127/limitations-of-cloudera-dataflow-and-how-data-flow-manager-solves-them-1e6p)
+- [Palmos Lplex / بالموس لبليكس](https://dev.to/story_master_m/palmos-lplex-blmws-lblyks-52dm)
+- [Transparent crash-tracking for production with PLCrashReporter](https://dev.to/yurii_denchyk_bb561af8d2d/transparent-crash-tracking-for-production-with-plcrashreporter-484l)
+- [What is PMI-ACP Certification? A Complete Guide](https://dev.to/skillboosttrainer/what-is-pmi-acp-certification-a-complete-guide-487)
+- [Top 10 Programming Languages to Learn in 2025 🖥️](https://dev.to/andrewdeveloper/top-10-programming-languages-to-learn-in-2025-5759)
+- [Introducing my first Python library! It is a port of Angular Signals to Python. Check it out!](https://dev.to/buiapp/introducing-my-first-python-library-it-is-a-port-of-angular-signals-to-python-check-it-out-m12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
