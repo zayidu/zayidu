@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
-- [HttpClient en Angular: Todo lo que Necesitas Saber](https://dev.to/cristian_arieta_7df932e5f/httpclient-en-angular-todo-lo-que-necesitas-saber-5c1d)
-- [Erro na Play Store: “Não é possível lançar esta versão” — O que aprendi e como resolvi + EXPO REACT NATIVE](https://dev.to/willrpg/erro-na-play-store-nao-e-possivel-lancar-esta-versao-o-que-aprendi-e-como-resolvi-expo-react-1862)
-- [OpenAI Agents SDK + Multiple MCP Servers](https://dev.to/seratch/openai-agents-sdk-multiple-mcp-servers-8d2)
-- [How to use Gyroscope in Presentations or Why Take a JoyCon to DPG2025](https://dev.to/jerryi/how-to-use-gyroscope-in-presentations-or-why-take-a-joycon-to-dpg2025-7k)
+- [🚀 Introducing `neo`: A CLI Tool for Your NeoHaskell Projects](https://dev.to/neohaskell/introducing-neo-a-cli-tool-for-your-neohaskell-projects-58gp)
+- [Symbol.iterator and Custom Iteration Protocols](https://dev.to/omriluz1/symboliterator-and-custom-iteration-protocols-1h5o)
+- [Open Source: AWS Lambda + Puppeteer Starter Repo](https://dev.to/geiger01/open-source-aws-lambda-puppeteer-starter-repo-5f4g)
+- [Advanced Jetpack Compose Previews](https://dev.to/markkazakov/advanced-jetpack-compose-previews-1f49)
+- [Autenticación Social en Aplicaciones Web Usando AWS Cognito y OAuth](https://dev.to/geramireze/autenticacion-social-en-aplicaciones-web-usando-aws-cognito-y-oauth-1jj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
