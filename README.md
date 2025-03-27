@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hướng dẫn sử dụng API Dev.to](https://dev.to/hunh_trungc/hhuong-dan-english-5051)
-- [The New Era of Mobile Accessibility Testing: How Genqe.ai is Revolutionizing 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-new-era-of-mobile-accessibility-testing-how-genqeai-is-revolutionizing-2025-59fe)
-- [Hướng dẫn sử dụng API Dev.to](https://dev.to/hunh_trungc/hhuong-dan-a-4n5m)
-- [Apache SeaTunnel optimization strategy for synchronizing MySQL to Doris](https://dev.to/seatunnel/apache-seatunnel-optimization-strategy-for-synchronizing-mysql-to-doris-21g)
-- [Introducing Xiro.Chat: The AI-Powered Crisp Chatbot for Smarter Customer Support](https://dev.to/mr_m_262f9c3501e842103601/introducing-xirochat-the-ai-powered-crisp-chatbot-for-smarter-customer-support-5e57)
+- [Contribute to Open English VN – Help Build a Valuable Learning Resource!](https://dev.to/gianguyen1234/contribute-to-open-english-vn-help-build-a-valuable-learning-resource-gal)
+- [greedy challenges](https://dev.to/johnsone_emett_c5c2b56a4a/greedy-challenges-oe3)
+- [[Boost]](https://dev.to/sudhanshu_dasgupta/-868)
+- [NocoBase Weekly Updates: Support user role union](https://dev.to/nocobase/nocobase-weekly-updates-support-user-role-union-5fk)
+- [SolidJS](https://dev.to/taytay836/solidjs-4doa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
