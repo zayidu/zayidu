@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Quantum Computing with AI: The Next Frontier](https://dev.to/ayusharpcoder/integrating-quantum-computing-with-ai-the-next-frontier-15kb)
-- [[Boost]](https://dev.to/javadev4life/-hoc)
-- [Create a timesheet-based Payroll Application](https://dev.to/giannoudis/create-a-timesheet-based-payroll-application-p5c)
-- [How Can AI Fix Bugs Automatically?](https://dev.to/webshipco/how-can-ai-fix-bugs-automatically-2b9f)
-- [Burndown charts don’t tell the whole story. The right project metrics can drive real progress, improve team efficiency, and reduce bottlenecks. Explore the key metrics that matter most to developers.](https://dev.to/naik_sejal/burndown-charts-dont-tell-the-whole-story-the-right-project-metrics-can-drive-real-progress-11ic)
+- [Busy Waiting in Java Multithreading: Explanation and Examples](https://dev.to/tpointtechadu/busy-waiting-in-java-multithreading-explanation-and-examples-1o1g)
+- [How Platform Engineering Helps You Move Like a Startup Again](https://dev.to/cyclops-ui/how-platform-engineering-helps-you-move-like-a-startup-again-1ja2)
+- [Java StrictMath scalb&lpar;&rpar; Method: Syntax, Usage, and Examples](https://dev.to/tpointtechadu/java-strictmath-scalb-method-syntax-usage-and-examples-275h)
+- [5 practical Python scripts for 2025](https://dev.to/scrapestorm/5-practical-python-scripts-for-2025-56bk)
+- [Maintenance Script: Keeping Your Linux Box in Check](https://dev.to/destinyobs/maintenance-script-keeping-your-linux-box-in-check-4chh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
