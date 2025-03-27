@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind Introduces Gemini 2.5: A Leap Forward with &quot;Thinking&quot; AI](https://dev.to/jayptl_rq/google-deepmind-introduces-gemini-25-a-leap-forward-with-thinking-ai-3oo4)
-- [Exploring AI-Powered Edge Computing for Smart Cities](https://dev.to/kartikmehta8/exploring-ai-powered-edge-computing-for-smart-cities-khd)
-- [Monotonic Clocks and Precise Time Measurement 2/10](https://dev.to/rezmoss/monotonic-clocks-and-precise-time-measurement-210-2ah5)
-- [【OTA】STM32-OTA升级——持续更新](https://dev.to/kisorge/ota-stm32-otasheng-ji-chi-xu-geng-xin-2ap)
-- [【电机控制器】以STC8H1K系列举例——持续更新](https://dev.to/kisorge/dian-ji-kong-zhi-qi-yi-stc8h1kxi-lie-ju-li-chi-xu-geng-xin-1kb0)
+- [Hướng dẫn sử dụng API Dev.to](https://dev.to/hunh_trungc/hhuong-dan-english-5051)
+- [The New Era of Mobile Accessibility Testing: How Genqe.ai is Revolutionizing 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-new-era-of-mobile-accessibility-testing-how-genqeai-is-revolutionizing-2025-59fe)
+- [Hướng dẫn sử dụng API Dev.to](https://dev.to/hunh_trungc/hhuong-dan-a-4n5m)
+- [Apache SeaTunnel optimization strategy for synchronizing MySQL to Doris](https://dev.to/seatunnel/apache-seatunnel-optimization-strategy-for-synchronizing-mysql-to-doris-21g)
+- [Introducing Xiro.Chat: The AI-Powered Crisp Chatbot for Smarter Customer Support](https://dev.to/mr_m_262f9c3501e842103601/introducing-xirochat-the-ai-powered-crisp-chatbot-for-smarter-customer-support-5e57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
