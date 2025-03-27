@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🎨 Framer vs. Adobe XD: Which One Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/framer-vs-adobe-xd-which-one-should-you-use-in-2025-47ac)
+- [A Guide to Using Singleton Design Pattern in Android](https://dev.to/shalenmathew/a-guide-to-using-singleton-design-pattern-in-android-41bd)
 - [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
 - [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
 - [The Future of Workplace Efficiency: Balancing Productivity and Privacy](https://dev.to/remotly/the-future-of-workplace-efficiency-balancing-productivity-and-privacy-4fhc)
-- [Setup a Redis Cluster using Redis Stack](https://dev.to/hedgehog/setup-a-redis-cluster-using-redis-stack-4jdl)
-- [Concerned about Security of your OSS? Look no where...](https://dev.to/sudhanshu_dasgupta/concerned-about-security-of-your-oss-look-no-where-f54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
