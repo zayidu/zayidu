@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Devs, Level Up Your Skills! 💡](https://dev.to/mrkapi1/react-devs-level-up-your-skills-2fd0)
-- [【电机控制器】STC8H1K-从KEIL4中计算资源消耗资源](https://dev.to/kisorge/dian-ji-kong-zhi-qi-stc8h1k-cong-keil4zhong-ji-suan-zi-yuan-xiao-hao-zi-yuan-48na)
-- [【电机控制器】ESP32-C3芯片——PWM、ADC](https://dev.to/kisorge/dian-ji-kong-zhi-qi-esp32-c3xin-pian-pwm-adc-2bp)
-- [Boost Your Golang Development Efficiency with These Tools](https://dev.to/mattyedwards/boost-your-golang-development-efficiency-with-these-tools-3iai)
-- [Boost Your Golang Development Efficiency with These Tools](https://dev.to/mattyedwards/boost-your-golang-development-efficiency-with-these-tools-13kg)
+- [HarmonyOS NEXT Practical: Custom Confirmation Pop up](https://dev.to/victordeng/harmonyos-next-practical-custom-confirmation-pop-up-4c0j)
+- [【电机控制】RS485通讯MODBUS协议实验](https://dev.to/kisorge/dian-ji-kong-zhi-rs485tong-xun-modbusxie-yi-shi-yan-j8f)
+- [【电机控制器】FM33LF015芯片——IO口模拟串口](https://dev.to/kisorge/dian-ji-kong-zhi-qi-fm33lf015xin-pian-iokou-mo-ni-chuan-kou-50il)
+- [Boost Your Testing with FactoryBoy! 🏭🐍](https://dev.to/erdi_mollahseyinoglu_cd/boost-your-testing-with-factoryboy-4e6e)
+- [How I Fixed My Broken Signup Flow &lpar;And What It Taught Me&rpar;](https://dev.to/tisabbir/how-i-fixed-my-broken-signup-flow-and-what-it-taught-me-4140)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
