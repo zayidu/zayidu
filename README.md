@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a strong code review culture](https://dev.to/kodus/how-to-build-a-strong-code-review-culture-225d)
-- [Mastering Python: A Step-by-Step Guide for Beginners](https://dev.to/ndivho_ndadza_8a33fba4943/mastering-python-a-step-by-step-guide-for-beginners-5fdk)
-- [Writing Software That Works with the Machine, Not Against It in GO](https://dev.to/l_walid/writing-software-that-works-with-the-machine-not-against-it-in-go-1apg)
-- [I am trying figuring out SSL in Apache kafka kraft 4.0.0. Have setup the keystore, truststore, self signed ca &lpar;testing&rpar;, raised car, signed it got .crt files then imported .crt and truststore into keystore for each controller and broker. Word limit reached](https://dev.to/datalotbagger/i-am-trying-figuring-out-ssl-in-apache-kafka-kraft-400-have-setup-the-keystore-truststore-self-4l57)
-- [Debugged AI](https://dev.to/jpvance123/debugged-ai-3gjl)
+- [Title: Building Real-Time Data Processing Systems with .NET Core, SignalR, and Azure](https://dev.to/bmadupati1108/title-building-real-time-data-processing-systems-with-net-core-signalr-and-azure-4dcl)
+- [Don&#39;t Let Automation Replace Good Testing Behaviors](https://dev.to/jnsartwell/dont-let-automation-replace-good-testing-behaviors-1lnj)
+- [Introduction to Kubernetes &amp; EKS: Learnings &amp; Pitfalls](https://dev.to/ayhansetirekli/introduction-to-kubernetes-eks-learnings-pitfalls-3bhe)
+- [Avoid Duplicate Code with DRY: A Simple Python Example](https://dev.to/alexis_jean/avoid-duplicate-code-with-dry-a-simple-python-example-2ke7)
+- [Publicando eventos a partir do domínio - com NestJS](https://dev.to/h1bertobarbosa/publicando-eventos-a-partir-do-dominio-com-nestjs-551m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
