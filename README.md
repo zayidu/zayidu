@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to GitHub Actions](https://dev.to/sajjadrahman56/introduction-to-github-actions-1daf)
-- [Building AI Models for Personalized Education](https://dev.to/kartikmehta8/building-ai-models-for-personalized-education-1p10)
-- [Dear Vim, Thanks for My Configuration Addiction](https://dev.to/pacheco/dear-vim-thanks-for-my-configuration-addiction-1j91)
-- [Looks promising.. Need to check it!](https://dev.to/wahabshah23/looks-promising-need-to-check-it-3450)
-- [Estou pensando em como faço para não desistir de novo de aprender desenvolvimento web e programação, eu sempre começo e paro no meio do caminho!](https://dev.to/sofia_rebeca/estou-pensando-em-como-faco-para-nao-desistir-de-novo-de-aprender-desenvolvimento-web-e-4jb0)
+- [Mastering Accessibility in Frontend Development](https://dev.to/louay24/mastering-accessibility-in-frontend-development-oog)
+- [[Tutorial] Chapter 6: User &amp; Permissions](https://dev.to/nocobase/tutorial-chapter-6-user-permissions-532b)
+- [【编译器】VSCODE编译C语言](https://dev.to/kisorge/bian-yi-qi-vscodebian-yi-cyu-yan-5dl2)
+- [【C语言】外围电路异常排查方式](https://dev.to/kisorge/cyu-yan-wai-wei-dian-lu-yi-chang-pai-cha-fang-shi-1b99)
+- [[Tutorial] Chapter 5: Tabs &amp; Dynamic blocks](https://dev.to/nocobase/tutorial-chapter-5-tabs-dynamic-blocks-2mpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
