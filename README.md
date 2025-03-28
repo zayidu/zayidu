@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Made Simple: A Beginner’s Guide to AWS Lambda vs Google Cloud Functions - Serverless Comparison](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-aws-lambda-vs-google-cloud-functions-serverless-31el)
-- [modelview4](https://dev.to/rahul_d_69c56a981e11c6728/modelview4-3h7c)
-- [Day 5 PSQL- Union ,CAST](https://dev.to/sudhakar_v_c404997aeec839/day-5-psql-union-cast-49co)
-- [10 Best Video Calling APIs: Benefits &amp; Features](https://dev.to/miguel_rodrguezgarca_b/10-best-video-calling-apis-benefits-features-59op)
-- [3 Interesting Firefox Alternatives for People who are fed up with Mozilla’s Shenanigans](https://dev.to/beckmateo/3-interesting-firefox-alternatives-for-people-who-are-fed-up-with-mozillas-shenanigans-57hi)
+- [Day-07: Unpacking Java: How Classes, Objects, and Methods Work Together](https://dev.to/e00049/day-07-unpacking-java-how-classes-objects-and-methods-work-together-290e)
+- [NestJS Best Practices for Developers](https://dev.to/raviyasas/nestjs-best-practices-for-developers-1670)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
+- [JavaScript Callback Functions - What are they and how to use them.](https://dev.to/logannford/javascript-callback-functions-what-are-they-and-how-to-use-them-30n4)
+- [鸿蒙开发：单一手势实现多次点击事件](https://dev.to/abnerming888/hong-meng-kai-fa-dan-shou-shi-shi-xian-duo-ci-dian-ji-shi-jian-4bgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
