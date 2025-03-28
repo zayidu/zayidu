@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DocWire new release 2025.03.24 is here](https://dev.to/novitzmann/docwire-new-release-20250324-is-here-4k75)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-513h)
-- [AWS Q Developer](https://dev.to/selvapal/aws-q-developer-3ejn)
-- [Verifiable Credentials: Revolutionizing Digital Identity in 2025](https://dev.to/everycred/verifiable-credentials-revolutionizing-digital-identity-in-2025-dok)
-- [Flutter BLE Integration Made Easy: Connect, Communicate, and Optimize](https://dev.to/mobisoftinfotech/flutter-ble-integration-made-easy-connect-communicate-and-optimize-333p)
+- [Free Access to Claude 3.7 Sonnet: Your No-Cost Guide!](https://dev.to/jimmylin/free-access-to-claude-37-sonnet-your-no-cost-guide-2)
+- [Why Automad No Longer Uses Any Frontend or Backend Framework](https://dev.to/marcantondahmen/why-automad-no-longer-uses-any-frontend-or-backend-framework-3pod)
+- [New AI Training Method Cuts Vision Model Development Time by 83% While Boosting Performance](https://dev.to/mikeyoung44/new-ai-training-method-cuts-vision-model-development-time-by-83-while-boosting-performance-m85)
+- [AI Search Method Boosts Answer Accuracy While Using Fewer Documents, Study Shows](https://dev.to/mikeyoung44/ai-search-method-boosts-answer-accuracy-while-using-fewer-documents-study-shows-fjn)
+- [Safe array handling? Never heard of it](https://dev.to/pvsdev/safe-array-handling-never-heard-of-it-22i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
