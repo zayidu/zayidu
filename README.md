@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #208](https://dev.to/aws/aws-open-source-newsletter-208-43ii)
-- [🤖 No-Code Agent Infrastructure Powered by Oasis Sapphire](https://dev.to/caerlower/no-code-agent-infrastructure-powered-by-oasis-sapphire-i5m)
-- [Users and Groups management in Linux](https://dev.to/mallikarjuna/users-and-groups-management-in-linux-3em6)
-- [How ssh, rsync, scp works ?](https://dev.to/mallikarjuna/how-ssh-works--41ng)
-- [Concepts know about Storage Persistent Volumes, Logical Volumes, Partitioning disks in Linux](https://dev.to/mallikarjuna/concepts-know-about-storage-persistent-volumes-logical-volumes-partitioning-disks-in-linux-18me)
+- [Scaling a PostgreSQL database? You need replicas.](https://dev.to/timescale/scaling-a-postgresql-database-you-need-replicas-4bbm)
+- [Struggling with Your Productivity Stack? Here’s My $0 Solution!](https://dev.to/randykip/struggling-with-your-productivity-stack-heres-my-0-solution-2pc5)
+- [Who is Richa Vaid](https://dev.to/richaavaid/who-is-richa-vaid-5gid)
+- [Google Chrome Won’t Open After a Hostname Change? Fix It With This One Line Command!](https://dev.to/shikarisohan/google-chrome-wont-open-after-a-hostname-change-fix-it-with-this-one-line-command-1k4d)
+- [Automate structured data extraction from PDF / Word by OpenAI and CocoIndex](https://dev.to/badmonster0/automate-structured-data-extraction-from-pdf-word-by-openai-and-cocoindex-d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
