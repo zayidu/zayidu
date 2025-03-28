@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Leaps and Grandma&#39;s Hugs, A Letter to My Beloved Grandma](https://dev.to/aniruddhaadak/quantum-leaps-and-grandmas-hugs-a-letter-to-my-beloved-grandma-jie)
-- [Creating Your First Isolated Linux Container with SSH Access: A Step-by-Step Guide](https://dev.to/mart_young_ce778e4c31eb33/creating-your-first-isolated-linux-container-with-ssh-access-a-step-by-step-guide-3j6h)
-- [Feeling overwhelmed setting up you first flutter project?](https://dev.to/techifydev/feeling-overwhelmed-setting-up-you-first-flutter-project-1poi)
-- [How I Found a Proxy List That Actually Works in 2025](https://dev.to/mjensen/how-i-found-a-proxy-list-that-actually-works-in-2025-5378)
-- [First Alpha of Gland Framework Released](https://dev.to/m__mdy__m/first-alpha-of-gland-framework-released-48og)
+- [Introduction to GitHub Actions](https://dev.to/sajjadrahman56/introduction-to-github-actions-1daf)
+- [Building AI Models for Personalized Education](https://dev.to/kartikmehta8/building-ai-models-for-personalized-education-1p10)
+- [Dear Vim, Thanks for My Configuration Addiction](https://dev.to/pacheco/dear-vim-thanks-for-my-configuration-addiction-1j91)
+- [Looks promising.. Need to check it!](https://dev.to/wahabshah23/looks-promising-need-to-check-it-3450)
+- [Estou pensando em como faço para não desistir de novo de aprender desenvolvimento web e programação, eu sempre começo e paro no meio do caminho!](https://dev.to/sofia_rebeca/estou-pensando-em-como-faco-para-nao-desistir-de-novo-de-aprender-desenvolvimento-web-e-4jb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
