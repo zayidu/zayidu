@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python Is a Terrible First Language](https://dev.to/holasoymalva/why-python-is-a-terrible-first-language-2inj)
-- [Write e2e tests for NestJS with testcontainers](https://dev.to/kasir-barati/write-e2e-tests-for-nestjs-with-testcontainers-5308)
-- [A Comprehensive Guide to Installing Pairtools](https://dev.to/shigrafs/a-comprehensive-guide-to-installing-pairtools-2ka0)
-- [A Hard Refresh - Taking a Break &lpar;Sort of&rpar; – My First Step Toward Change](https://dev.to/vpjigin/a-hard-refresh-taking-a-break-sort-of-my-first-step-toward-change-588p)
-- [I Rebuilt PlayCSS to Be Addictive on Purpose — Here’s How &lpar;and Why&rpar;](https://dev.to/alexsofroniev/i-rebuilt-playcss-to-be-addictive-on-purpose-heres-how-and-why-43pn)
+- [AWS Security Tools for Your Environment.](https://dev.to/aws-builders/aws-security-tools-for-your-environment-5c8l)
+- [Local Tunnels](https://dev.to/ghoshbishakh/local-tunnels-376e)
+- [MLflow-Powered Generative AI Observability with Amazon Bedrock](https://dev.to/aws-builders/mlflow-powered-generative-ai-observability-with-amazon-bedrock-47nb)
+- [Securing MCP: Applying Lessons Learned from the Language Server Protocol](https://dev.to/kitops/securing-mcp-applying-lessons-learned-from-the-language-server-protocol-338)
+- [Unified Supremacy: How I Orchestrated Microsoft’s Full Stack into an Autonomous AI-Driven Control System](https://dev.to/aakash_rahsi_8d28156d5f2c/unified-supremacy-how-i-orchestrated-microsofts-full-stack-into-an-autonomous-ai-driven-control-15d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
