@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Security Tools for Your Environment.](https://dev.to/aws-builders/aws-security-tools-for-your-environment-5c8l)
-- [Local Tunnels](https://dev.to/ghoshbishakh/local-tunnels-376e)
-- [MLflow-Powered Generative AI Observability with Amazon Bedrock](https://dev.to/aws-builders/mlflow-powered-generative-ai-observability-with-amazon-bedrock-47nb)
-- [Securing MCP: Applying Lessons Learned from the Language Server Protocol](https://dev.to/kitops/securing-mcp-applying-lessons-learned-from-the-language-server-protocol-338)
-- [Unified Supremacy: How I Orchestrated Microsoft’s Full Stack into an Autonomous AI-Driven Control System](https://dev.to/aakash_rahsi_8d28156d5f2c/unified-supremacy-how-i-orchestrated-microsofts-full-stack-into-an-autonomous-ai-driven-control-15d0)
+- [How to build a strong code review culture](https://dev.to/kodus/how-to-build-a-strong-code-review-culture-225d)
+- [Mastering Python: A Step-by-Step Guide for Beginners](https://dev.to/ndivho_ndadza_8a33fba4943/mastering-python-a-step-by-step-guide-for-beginners-5fdk)
+- [Writing Software That Works with the Machine, Not Against It in GO](https://dev.to/l_walid/writing-software-that-works-with-the-machine-not-against-it-in-go-1apg)
+- [I am trying figuring out SSL in Apache kafka kraft 4.0.0. Have setup the keystore, truststore, self signed ca &lpar;testing&rpar;, raised car, signed it got .crt files then imported .crt and truststore into keystore for each controller and broker. Word limit reached](https://dev.to/datalotbagger/i-am-trying-figuring-out-ssl-in-apache-kafka-kraft-400-have-setup-the-keystore-truststore-self-4l57)
+- [Debugged AI](https://dev.to/jpvance123/debugged-ai-3gjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
