@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Video streaming tutorial. Javascript webrtc streaming example 🌐LibreRemotePlay](https://dev.to/piterweb/video-streaming-tutorial-javascript-webrtc-streaming-example-libreremoteplay-l90)
-- [How to start using gRPC with PHP - Part 4/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-44-42ki)
-- [🧪 Types of Software Testing and What They Actually Accomplish](https://dev.to/criscmd/types-of-software-testing-and-what-they-actually-accomplish-4b7)
-- [Applications in prod. How to handle skyrocket growth with caching.](https://dev.to/redlineeyes/applications-in-prod-how-to-handle-skyrocket-growth-with-caching-6i2)
-- [I Made a TUI in C... and regretted it](https://dev.to/kurealnum/i-made-a-tui-in-c-and-regretted-it-2gh5)
+- [AWS open source newsletter, #208](https://dev.to/aws/aws-open-source-newsletter-208-43ii)
+- [🤖 No-Code Agent Infrastructure Powered by Oasis Sapphire](https://dev.to/caerlower/no-code-agent-infrastructure-powered-by-oasis-sapphire-i5m)
+- [Users and Groups management in Linux](https://dev.to/mallikarjuna/users-and-groups-management-in-linux-3em6)
+- [How ssh, rsync, scp works ?](https://dev.to/mallikarjuna/how-ssh-works--41ng)
+- [Concepts know about Storage Persistent Volumes, Logical Volumes, Partitioning disks in Linux](https://dev.to/mallikarjuna/concepts-know-about-storage-persistent-volumes-logical-volumes-partitioning-disks-in-linux-18me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
