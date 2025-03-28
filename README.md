@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to load a sprite from web](https://dev.to/selfish_dev/how-to-load-a-sprite-from-web-1kcp)
-- [Umbraco Marketplace Package Sync Bookmarklet](https://dev.to/skttl/umbraco-marketplace-package-sync-bookmarklet-3oe3)
-- [JavaScript Function](https://dev.to/vikrant_shitole_182356d46/javascript-function-16jg)
-- [How a SERP Tracking API Can Take the Pain Out of Rank Monitoring](https://dev.to/kervi_11_/how-a-serp-tracking-api-can-take-the-pain-out-of-rank-monitoring-47j7)
-- [10 Opensource Projects Using Raspberry Pi and Python](https://dev.to/vishnu_kumar_02bb4aa2ab2e/10-opensource-projects-using-raspberry-pi-and-python-3hk3)
+- [The Tech Stack of a Cloud Computing Startup](https://dev.to/code42cate/the-tech-stack-of-a-cloud-computing-startup-1h09)
+- [[Boost]](https://dev.to/gwenshap/-1clb)
+- [🚀 Vonage Dev Newsletter, March 2025: Share your feedback + enjoy new releases and tutorials](https://dev.to/vonagedev/vonage-dev-newsletter-march-2025-share-your-feedback-enjoy-new-releases-and-tutorials-5592)
+- [🚀 Vonage Dev Newsletter, February 2025: Free events, releases, and more](https://dev.to/vonagedev/vonage-dev-newsletter-february-2025-free-events-releases-and-more-2nel)
+- [How to Apply for the AWS All Builders Welcome Grant](https://dev.to/dale_orders/how-to-apply-for-the-aws-all-builders-welcome-grant-to-attend-reinforce-2025-429e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
