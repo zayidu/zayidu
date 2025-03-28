@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Building Real-Time Data Processing Systems with .NET Core, SignalR, and Azure](https://dev.to/bmadupati1108/title-building-real-time-data-processing-systems-with-net-core-signalr-and-azure-4dcl)
-- [Don&#39;t Let Automation Replace Good Testing Behaviors](https://dev.to/jnsartwell/dont-let-automation-replace-good-testing-behaviors-1lnj)
-- [Introduction to Kubernetes &amp; EKS: Learnings &amp; Pitfalls](https://dev.to/ayhansetirekli/introduction-to-kubernetes-eks-learnings-pitfalls-3bhe)
-- [Avoid Duplicate Code with DRY: A Simple Python Example](https://dev.to/alexis_jean/avoid-duplicate-code-with-dry-a-simple-python-example-2ke7)
-- [Publicando eventos a partir do domínio - com NestJS](https://dev.to/h1bertobarbosa/publicando-eventos-a-partir-do-dominio-com-nestjs-551m)
+- [Add Authentication to your React App with Frontegg](https://dev.to/akdombrowski/add-authentication-to-your-react-app-with-frontegg-c6c)
+- [3D Animation: The Ultimate Game-Changer for your Website](https://dev.to/oyegoke/3d-animation-the-ultimate-game-changer-for-your-website-1570)
+- [How FlowForge™ Works: AI-Powered Time &amp; Energy Planning](https://dev.to/neurosync/how-flowforge-works-ai-powered-time-energy-planning-1eel)
+- [Agentic Coding &lpar;Vibe Coding&rpar; Best Practices](https://dev.to/timesurgelabs/agentic-coding-vibe-coding-best-practices-b4b)
+- [Hack Reddit 2025 Event](https://dev.to/besworks/hack-reddit-2025-event-16ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
