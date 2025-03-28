@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Stack of a Cloud Computing Startup](https://dev.to/code42cate/the-tech-stack-of-a-cloud-computing-startup-1h09)
-- [[Boost]](https://dev.to/gwenshap/-1clb)
-- [🚀 Vonage Dev Newsletter, March 2025: Share your feedback + enjoy new releases and tutorials](https://dev.to/vonagedev/vonage-dev-newsletter-march-2025-share-your-feedback-enjoy-new-releases-and-tutorials-5592)
-- [🚀 Vonage Dev Newsletter, February 2025: Free events, releases, and more](https://dev.to/vonagedev/vonage-dev-newsletter-february-2025-free-events-releases-and-more-2nel)
-- [How to Apply for the AWS All Builders Welcome Grant](https://dev.to/dale_orders/how-to-apply-for-the-aws-all-builders-welcome-grant-to-attend-reinforce-2025-429e)
+- [Video streaming tutorial. Javascript webrtc streaming example 🌐LibreRemotePlay](https://dev.to/piterweb/video-streaming-tutorial-javascript-webrtc-streaming-example-libreremoteplay-l90)
+- [How to start using gRPC with PHP - Part 4/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-44-42ki)
+- [🧪 Types of Software Testing and What They Actually Accomplish](https://dev.to/criscmd/types-of-software-testing-and-what-they-actually-accomplish-4b7)
+- [Applications in prod. How to handle skyrocket growth with caching.](https://dev.to/redlineeyes/applications-in-prod-how-to-handle-skyrocket-growth-with-caching-6i2)
+- [I Made a TUI in C... and regretted it](https://dev.to/kurealnum/i-made-a-tui-in-c-and-regretted-it-2gh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
