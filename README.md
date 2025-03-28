@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Practical: Custom Confirmation Pop up](https://dev.to/victordeng/harmonyos-next-practical-custom-confirmation-pop-up-4c0j)
-- [【电机控制】RS485通讯MODBUS协议实验](https://dev.to/kisorge/dian-ji-kong-zhi-rs485tong-xun-modbusxie-yi-shi-yan-j8f)
-- [【电机控制器】FM33LF015芯片——IO口模拟串口](https://dev.to/kisorge/dian-ji-kong-zhi-qi-fm33lf015xin-pian-iokou-mo-ni-chuan-kou-50il)
-- [Boost Your Testing with FactoryBoy! 🏭🐍](https://dev.to/erdi_mollahseyinoglu_cd/boost-your-testing-with-factoryboy-4e6e)
-- [How I Fixed My Broken Signup Flow &lpar;And What It Taught Me&rpar;](https://dev.to/tisabbir/how-i-fixed-my-broken-signup-flow-and-what-it-taught-me-4140)
+- [HarmonyOS NEXT Practical: Pop up Bottom Menu](https://dev.to/victordeng/harmonyos-next-practical-pop-up-bottom-menu-1f13)
+- [Best Practices for Optimizing Construction Budgets and Resources](https://dev.to/teadx/best-practices-for-optimizing-construction-budgets-and-resources-3947)
+- [【电机控制器】FM33LF015芯片——FLASH模拟EEPROM](https://dev.to/kisorge/dian-ji-kong-zhi-qi-fm33lf015xin-pian-flashmo-ni-eeprom-518k)
+- [【电机控制器】FM33LF015芯片——PWM输出](https://dev.to/kisorge/dian-ji-kong-zhi-qi-fm33lf015xin-pian-pwmshu-chu-57dl)
+- [Symbol.species for Custom Object Creation](https://dev.to/omriluz1/symbolspecies-for-custom-object-creation-18ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
