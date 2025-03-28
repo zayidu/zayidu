@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling a PostgreSQL database? You need replicas.](https://dev.to/timescale/scaling-a-postgresql-database-you-need-replicas-4bbm)
-- [Struggling with Your Productivity Stack? Here’s My $0 Solution!](https://dev.to/randykip/struggling-with-your-productivity-stack-heres-my-0-solution-2pc5)
-- [Who is Richa Vaid](https://dev.to/richaavaid/who-is-richa-vaid-5gid)
-- [Google Chrome Won’t Open After a Hostname Change? Fix It With This One Line Command!](https://dev.to/shikarisohan/google-chrome-wont-open-after-a-hostname-change-fix-it-with-this-one-line-command-1k4d)
-- [Automate structured data extraction from PDF / Word by OpenAI and CocoIndex](https://dev.to/badmonster0/automate-structured-data-extraction-from-pdf-word-by-openai-and-cocoindex-d45)
+- [Why Python Is a Terrible First Language](https://dev.to/holasoymalva/why-python-is-a-terrible-first-language-2inj)
+- [Write e2e tests for NestJS with testcontainers](https://dev.to/kasir-barati/write-e2e-tests-for-nestjs-with-testcontainers-5308)
+- [A Comprehensive Guide to Installing Pairtools](https://dev.to/shigrafs/a-comprehensive-guide-to-installing-pairtools-2ka0)
+- [A Hard Refresh - Taking a Break &lpar;Sort of&rpar; – My First Step Toward Change](https://dev.to/vpjigin/a-hard-refresh-taking-a-break-sort-of-my-first-step-toward-change-588p)
+- [I Rebuilt PlayCSS to Be Addictive on Purpose — Here’s How &lpar;and Why&rpar;](https://dev.to/alexsofroniev/i-rebuilt-playcss-to-be-addictive-on-purpose-heres-how-and-why-43pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
