@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Does AI really make you more productive?](https://dev.to/whitep4nth3r/does-ai-really-make-you-more-productive-pn1)
-- [How to use FastAPI for microservices in Python](https://dev.to/lukzmu/how-to-use-fastapi-for-microservices-in-python-20bp)
-- [timered-counter – An animated value change web component](https://dev.to/siaikin/timered-counter-an-animated-value-change-web-component-34lj)
-- [How to Design the Spine Using 3D CAD Software](https://dev.to/julia970/how-to-design-the-spine-using-3d-cad-software-2gm5)
-- [How to Design a Low Poly Hindenburg Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-low-poly-hindenburg-using-3d-cad-software-528m)
+- [DocWire new release 2025.03.24 is here](https://dev.to/novitzmann/docwire-new-release-20250324-is-here-4k75)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-513h)
+- [AWS Q Developer](https://dev.to/selvapal/aws-q-developer-3ejn)
+- [Verifiable Credentials: Revolutionizing Digital Identity in 2025](https://dev.to/everycred/verifiable-credentials-revolutionizing-digital-identity-in-2025-dok)
+- [Flutter BLE Integration Made Easy: Connect, Communicate, and Optimize](https://dev.to/mobisoftinfotech/flutter-ble-integration-made-easy-connect-communicate-and-optimize-333p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
