@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-07: Unpacking Java: How Classes, Objects, and Methods Work Together](https://dev.to/e00049/day-07-unpacking-java-how-classes-objects-and-methods-work-together-290e)
-- [NestJS Best Practices for Developers](https://dev.to/raviyasas/nestjs-best-practices-for-developers-1670)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
-- [JavaScript Callback Functions - What are they and how to use them.](https://dev.to/logannford/javascript-callback-functions-what-are-they-and-how-to-use-them-30n4)
-- [鸿蒙开发：单一手势实现多次点击事件](https://dev.to/abnerming888/hong-meng-kai-fa-dan-shou-shi-shi-xian-duo-ci-dian-ji-shi-jian-4bgh)
+- [🚀 The AI Revolution in DevOps – Are You Ready for the Future?](https://dev.to/dct_technology/the-ai-revolution-in-devops-are-you-ready-for-the-future-3dnd)
+- [Mastering React Refs: Understanding useRef vs. Callback Refs](https://dev.to/hasunnilupul/mastering-react-refs-understanding-useref-vs-callback-refs-4f20)
+- [Next.js vs Nest.js: Understanding the Difference](https://dev.to/codeparrot/nextjs-vs-nestjs-understanding-the-difference-ifi)
+- [Building a Local AI-Friendly Code Viewer Inspired by Uithub](https://dev.to/mnishiguchi/building-a-local-ai-friendly-code-viewer-inspired-by-uithub-24ll)
+- [🚀 Boost Your Workflow with CI/CD: A Step-by-Step Guide to Supercharge Development!](https://dev.to/dct_technology/boost-your-workflow-with-cicd-a-step-by-step-guide-to-supercharge-development-482i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
