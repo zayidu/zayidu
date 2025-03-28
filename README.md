@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The AI Revolution in DevOps – Are You Ready for the Future?](https://dev.to/dct_technology/the-ai-revolution-in-devops-are-you-ready-for-the-future-3dnd)
-- [Mastering React Refs: Understanding useRef vs. Callback Refs](https://dev.to/hasunnilupul/mastering-react-refs-understanding-useref-vs-callback-refs-4f20)
-- [Next.js vs Nest.js: Understanding the Difference](https://dev.to/codeparrot/nextjs-vs-nestjs-understanding-the-difference-ifi)
-- [Building a Local AI-Friendly Code Viewer Inspired by Uithub](https://dev.to/mnishiguchi/building-a-local-ai-friendly-code-viewer-inspired-by-uithub-24ll)
-- [🚀 Boost Your Workflow with CI/CD: A Step-by-Step Guide to Supercharge Development!](https://dev.to/dct_technology/boost-your-workflow-with-cicd-a-step-by-step-guide-to-supercharge-development-482i)
+- [🚀 React Devs, Level Up Your Skills! 💡](https://dev.to/mrkapi1/react-devs-level-up-your-skills-2fd0)
+- [【电机控制器】STC8H1K-从KEIL4中计算资源消耗资源](https://dev.to/kisorge/dian-ji-kong-zhi-qi-stc8h1k-cong-keil4zhong-ji-suan-zi-yuan-xiao-hao-zi-yuan-48na)
+- [【电机控制器】ESP32-C3芯片——PWM、ADC](https://dev.to/kisorge/dian-ji-kong-zhi-qi-esp32-c3xin-pian-pwm-adc-2bp)
+- [Boost Your Golang Development Efficiency with These Tools](https://dev.to/mattyedwards/boost-your-golang-development-efficiency-with-these-tools-3iai)
+- [Boost Your Golang Development Efficiency with These Tools](https://dev.to/mattyedwards/boost-your-golang-development-efficiency-with-these-tools-13kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
