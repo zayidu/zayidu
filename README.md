@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Fintech App? How Fintech Apps are Transforming Financial Services &amp; User Experience in Australia](https://dev.to/emma_jenkins_5ebc66ac329d/what-is-a-fintech-app-how-fintech-apps-are-transforming-financial-services-user-experience-in-3oa4)
-- [Build your Own Secure Chat App with Audio/Video calls for any business](https://dev.to/primocys1/build-your-own-secure-chat-app-with-audiovideo-calls-for-any-business-3068)
-- [Error Handling in Go vs. C#: Trading Exceptions for Clarity](https://dev.to/syawqy/error-handling-in-go-vs-c-trading-exceptions-for-clarity-41pn)
-- [166/365 | ¥10M Job Challenge - X account got suspended](https://dev.to/kameken100/166365-y10m-job-challenge-x-account-got-suspended-1318)
-- [Building AI-Powered Applications in Laravel with Neuron AI](https://dev.to/robin-ivi/building-ai-powered-applications-in-laravel-with-neuron-ai-3mc9)
+- [How to load a sprite from web](https://dev.to/selfish_dev/how-to-load-a-sprite-from-web-1kcp)
+- [Umbraco Marketplace Package Sync Bookmarklet](https://dev.to/skttl/umbraco-marketplace-package-sync-bookmarklet-3oe3)
+- [JavaScript Function](https://dev.to/vikrant_shitole_182356d46/javascript-function-16jg)
+- [How a SERP Tracking API Can Take the Pain Out of Rank Monitoring](https://dev.to/kervi_11_/how-a-serp-tracking-api-can-take-the-pain-out-of-rank-monitoring-47j7)
+- [10 Opensource Projects Using Raspberry Pi and Python](https://dev.to/vishnu_kumar_02bb4aa2ab2e/10-opensource-projects-using-raspberry-pi-and-python-3hk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
