@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Authentication to your React App with Frontegg](https://dev.to/akdombrowski/add-authentication-to-your-react-app-with-frontegg-c6c)
-- [3D Animation: The Ultimate Game-Changer for your Website](https://dev.to/oyegoke/3d-animation-the-ultimate-game-changer-for-your-website-1570)
-- [How FlowForge™ Works: AI-Powered Time &amp; Energy Planning](https://dev.to/neurosync/how-flowforge-works-ai-powered-time-energy-planning-1eel)
-- [Agentic Coding &lpar;Vibe Coding&rpar; Best Practices](https://dev.to/timesurgelabs/agentic-coding-vibe-coding-best-practices-b4b)
-- [Hack Reddit 2025 Event](https://dev.to/besworks/hack-reddit-2025-event-16ll)
+- [Building a Container System from Scratch: Understanding the Magic Behind Docker](https://dev.to/nonso_echendu_001/building-a-container-system-from-scratch-understanding-the-magic-behind-docker-5fjn)
+- [The Single Post You Need to Learn the Basics of Flyte](https://dev.to/mohsenkamrani/the-single-post-you-need-to-learn-the-basics-of-flyte-48bo)
+- [Software Design Principles: Practical Implementation with User Roles](https://dev.to/jhonticonachambi/software-design-principles-practical-implementation-with-user-roles-45c5)
+- [Implementing an effective Application Security Programm: Strategies, techniques, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-programm-strategies-techniques-and-tools-for-2d39)
+- [Creating an Animated Hamburger Navigation Menu: A Developer&#39;s Journey](https://dev.to/affectionate_code/creating-an-animated-hamburger-navigation-menu-a-developers-journey-mjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
