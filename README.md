@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Your MERN Stack App with Redis Caching: A Deep Dive](https://dev.to/aniket_ap/supercharging-your-mern-stack-app-with-redis-caching-a-deep-dive-1587)
-- [How do you cope with stress?](https://dev.to/jonathan1998/how-do-you-cope-with-stress-3cg2)
-- [Dependency Management in Go: Modules, Vendoring, and the End of NuGet](https://dev.to/syawqy/dependency-management-in-go-modules-vendoring-and-the-end-of-nuget-4oa7)
-- [Mastering the Art of Software Architecture: A Comprehensive Guide](https://dev.to/devcorner/mastering-the-art-of-software-architecture-a-comprehensive-guide-5f5g)
-- [Context-Aware Text Sanitization in JavaScript: Best Practices for Modern Web Apps](https://dev.to/dev-ajayshukla/context-aware-text-sanitization-in-javascript-best-practices-for-modern-web-apps-46mf)
+- [2818. Apply Operations to Maximize Score](https://dev.to/mdarifulhaque/2818-apply-operations-to-maximize-score-48dm)
+- [Convert into the studio Ghibli](https://dev.to/saniya_praveen_3732c6a9f6/convert-into-the-studio-ghibli-g9a)
+- [Security Comparison Of Best Web3 Wallets To Develop On](https://dev.to/thirdwebdeveloper/security-comparison-of-best-web3-wallets-to-develop-on-dof)
+- [High-Performance Secure Networking with RIOC](https://dev.to/mehrant/high-performance-secure-networking-with-rioc-3kco)
+- [Frontend Dev Tries Backend… Sends Server to Another Dimension 🚀](https://dev.to/preeti_yadav/frontend-dev-tries-backend-sends-server-to-another-dimension-47l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
