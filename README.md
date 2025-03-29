@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java API Development: How to Build and Deploy Your First API](https://dev.to/tpointtechadu/java-api-development-how-to-build-and-deploy-your-first-api-afe)
-- [&quot;Unlock Real-Time Video Analysis with Mobile-VideoGPT&#39;s Innovative Framework!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlock-real-time-video-analysis-with-mobile-videogpts-innovative-framework-kfb)
-- [Object.getOwnPropertyDescriptors and Property Management](https://dev.to/omriluz1/objectgetownpropertydescriptors-and-property-management-3mmb)
-- [What is NPL?](https://dev.to/e77/what-is-npl-57oe)
-- [AI Development Made Simple for Web Developers!](https://dev.to/kakasoo/ai-development-made-simple-for-web-developers-3pa0)
+- [使用 Google Apps Script 串接 Google Analytics API，整合多站數據](https://dev.to/letswrite/shi-yong-google-apps-script-chuan-jie-google-analytics-apizheng-he-duo-zhan-shu-ju-4leh)
+- [Cutting-Edge AI Agents You Haven’t Heard Of in 2025](https://dev.to/jaysaadana/cutting-edge-ai-agents-you-havent-heard-of-in-2025-43p5)
+- [Learning Game Architecture with Unity – My New Book is Out Now!](https://dev.to/niraj_gaming/learning-game-architecture-with-unity-my-new-book-is-out-now-4hji)
+- [Mastering React Events: Understanding, Debugging, and Optimizing Event Handling 🚀](https://dev.to/tejastn10/mastering-react-events-understanding-debugging-and-optimizing-event-handling-4kn0)
+- [modelfghj](https://dev.to/rahul_d_69c56a981e11c6728/modelfghj-4mff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
