@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Startup Weekend Pitch Events Fail Great Ideas](https://dev.to/criticalmynd/why-startup-weekend-pitches-fail-great-ideas-2em3)
-- [🚀 Master JavaScript Operators &amp; Math Methods](https://dev.to/ebereplenty/master-javascript-operators-math-methods-5879)
-- [JavaFX Notepad Tutorial](https://dev.to/mklestil/javafx-notepad-tutorial-52hk)
-- [Tokenizing Nigerian Real Estate: How Blockchain is Changing Property Investment](https://dev.to/raji_moshood_ee3a4c2638f6/tokenizing-nigerian-real-estate-how-blockchain-is-changing-property-investment-2ojf)
-- [Models46](https://dev.to/rahul_d_69c56a981e11c6728/models46-n5n)
+- [From Bump to Google Photos: The Journey of David Lieb and His Team](https://dev.to/jetthoughts/from-bump-to-google-photos-the-journey-of-david-lieb-and-his-team-186p)
+- [Git - basic commands and how to revert them](https://dev.to/oxide-dev/git-basic-commands-and-how-to-revert-them-437b)
+- [NFTs in Nigeria: How Businesses and Creators Can Monetize Digital Assets](https://dev.to/raji_moshood_ee3a4c2638f6/nfts-in-nigeria-how-businesses-and-creators-can-monetize-digital-assets-1d7a)
+- [Why Digital Driving Record Code Is Relevant 2024](https://dev.to/riddlepuffin0/why-digital-driving-record-code-is-relevant-2024-4f1g)
+- [whoamI - my joyful journey into the unknown aka tech industry](https://dev.to/alexandrammr/whoami-my-joyful-journey-into-the-unknown-aka-tech-industry-1fd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
