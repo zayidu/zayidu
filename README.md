@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Performance Boost: Building Efficient Caching Systems From Scratch](https://dev.to/aaravjoshi/rust-performance-boost-building-efficient-caching-systems-from-scratch-7nb)
-- [Mastering JavaScript GraphQL Clients: 7 Advanced Techniques for Scalable Apps](https://dev.to/aaravjoshi/mastering-javascript-graphql-clients-7-advanced-techniques-for-scalable-apps-aom)
-- [Day 1: My Cloud Computing &amp; DevOps Journey Begins!](https://dev.to/gyaneshwer_jha_5cfc8e3f8f/day-1-my-cloud-computing-devops-journey-begins-8ie)
-- [ez-api – API development toolkit powered by TypeSpec](https://dev.to/rstanziale/ez-api-api-development-toolkit-powered-by-typespec-474)
-- [Zero to Hero: Email Automation with Cypress &amp; Mailosaur](https://dev.to/cypress/zero-to-hero-email-automation-with-cypress-mailosaur-20ok)
+- [Wireframing for Beginners - 10 Tips to Get Started](https://dev.to/taskframe/wireframing-for-beginners-10-tips-to-get-started-1fk2)
+- [The AI Revolution in Software Engineering: What Stays, What Changes?](https://dev.to/vishal563/the-ai-revolution-in-software-engineering-what-stays-what-changes-3lc4)
+- [Building my first AI agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
+- [Raycast: More Than a Launcher, It&#39;s Your Development Command Center](https://dev.to/simplr_sh/raycast-more-than-a-launcher-its-your-development-command-center-48o1)
+- [🔐 Understanding SAML, OAuth 2.0 and OpenID Connect](https://dev.to/fazal_mansuri_/understanding-saml-oauth-20-and-openid-connect-1d3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
