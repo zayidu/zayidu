@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore Golang Metaprogramming: A Deep Dive](https://dev.to/leapcell/explore-golang-metaprogramming-a-deep-dive-3i0k)
-- [Conditional Rendering in React: The Ultimate Guide](https://dev.to/devshefali/conditional-rendering-in-react-the-ultimate-guide-5c09)
-- [🌟 Hackathon Tamasha: Where DevOps Meets Creativity! 🚀](https://dev.to/francescobianco/hackathon-tamasha-where-devops-meets-creativity-o3o)
-- [Checkout Slate - A super simple markdown editor with AI superpowers](https://dev.to/thetronjohnson/checkout-slate-a-super-simple-markdown-editor-with-ai-superpowers-3l5)
-- [Lifetimes in Rust: Preventing Dangling References](https://dev.to/gideonbature/lifetimes-in-rust-preventing-dangling-references-6pj)
+- [Rust Performance Boost: Building Efficient Caching Systems From Scratch](https://dev.to/aaravjoshi/rust-performance-boost-building-efficient-caching-systems-from-scratch-7nb)
+- [Mastering JavaScript GraphQL Clients: 7 Advanced Techniques for Scalable Apps](https://dev.to/aaravjoshi/mastering-javascript-graphql-clients-7-advanced-techniques-for-scalable-apps-aom)
+- [Day 1: My Cloud Computing &amp; DevOps Journey Begins!](https://dev.to/gyaneshwer_jha_5cfc8e3f8f/day-1-my-cloud-computing-devops-journey-begins-8ie)
+- [ez-api – API development toolkit powered by TypeSpec](https://dev.to/rstanziale/ez-api-api-development-toolkit-powered-by-typespec-474)
+- [Zero to Hero: Email Automation with Cypress &amp; Mailosaur](https://dev.to/cypress/zero-to-hero-email-automation-with-cypress-mailosaur-20ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
