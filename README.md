@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 React useState Mistakes Every Developer Should Know](https://dev.to/myogeshchavan97/top-15-react-usestate-mistakes-every-developer-should-know-njg)
-- [Installing Oracle Grid Infrastructure 19.25 on Oracle Linux 9.5 Using ASMLIB 3](https://dev.to/vahidusefzadeh/installing-oracle-grid-infrastructure-1925-on-oracle-linux-95-using-asmlib-3-4bki)
-- [🚀 Angular Signals: The Game-Changer for State Management!](https://dev.to/matin676/angular-signals-the-game-changer-for-state-management-4cdf)
-- [Navigating the Rails: A Developer&#39;s Deep Dive into Bangladesh Railway Timetables](https://dev.to/babynamenestlings_efe5ba9/navigating-the-rails-a-developers-deep-dive-into-bangladesh-railway-timetables-3jga)
-- [Inside the Brain of Your Computer](https://dev.to/harishankarr7/inside-the-brain-of-your-computer-2edp)
+- [Constructing Compliant and Resilient Cloud Infrastructure with Multi-Data Center Deployment](https://dev.to/devlinkstudios/constructing-compliant-and-resilient-cloud-infrastructure-with-multi-data-center-deployment-48np)
+- [Top 10 Full Stack Development Companies in India 2025](https://dev.to/achal_shanbhag_f3faffc0a6/top-10-full-stack-development-companies-in-india-2025-1l4l)
+- [What Modern Cloud Buyers Want in 2025: Rethinking Vendor Choice for SMBs and Startups:](https://dev.to/devlinkstudios/what-modern-cloud-buyers-want-in-2025-rethinking-vendor-choice-for-smbs-and-startups-1jai)
+- [Generative AI - A Beginner’s Guide with AWS](https://dev.to/vrajesh_jayswal_bb93052b6/generative-ai-a-beginners-guide-with-aws-47ei)
+- [Push notifications with Next.js + FCM&lpar;Firebase Cloud Messaging&rpar;](https://dev.to/kalama_ayubu_920a009aeba9/push-notifications-with-nextjs-fcmfirebase-cloud-messaging-4588)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
