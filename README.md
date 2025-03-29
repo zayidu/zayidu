@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust&#39;s Generic Associated Types: What is It?](https://dev.to/leapcell/rusts-generic-associated-types-what-is-it-1he2)
-- [The Future of AI-Assisted Software Development: Vibe Coding.](https://dev.to/williamdk/the-future-of-ai-assisted-software-development-vibe-coding-4blg)
-- [Building an Intelligent AI System for Dairy Farm Management: The FarmersMilk Story](https://dev.to/sriharikatta/building-an-intelligent-ai-system-for-dairy-farm-management-the-farmersmilk-story-php)
-- [Warp: O Terminal com IA que Todo Desenvolvedor Precisa Conhecer](https://dev.to/kc1t/warp-o-terminal-com-ia-que-todo-desenvolvedor-precisa-conhecer-5aac)
-- [Python for Beginners: How to Go from Basics to Advanced in 2025](https://dev.to/learn_skills/python-for-beginners-how-to-go-from-basics-to-advanced-in-2025-57k3)
+- [How to Handle Errors in Bash Scripts in 2025?](https://dev.to/rociogarciavf/how-to-handle-errors-in-bash-scripts-in-2025-3bo)
+- [What Are the Benefits of Using Helm in 2025?](https://dev.to/nigelsilonero/what-are-the-benefits-of-using-helm-in-2025-43pg)
+- [Me vs GPT-4o Image Generation](https://dev.to/jimmyshoe85/me-vs-gpt-4o-image-generation-1ij)
+- [Mejores prácticas para Amazon Inspector](https://dev.to/briansuarezsantiago/mejores-practicas-para-amazon-inspector-c05)
+- [How AI makes Linux fun!](https://dev.to/jeansen/how-ai-makes-linux-fun-30bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
