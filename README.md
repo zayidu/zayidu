@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8.9 FlatMap](https://dev.to/fundamentosjava/89-flatmap-4pnk)
-- [8.8 Praticando o que aprendemos com java.nio.file.Files](https://dev.to/fundamentosjava/88-praticando-o-que-aprendemos-com-javaniofilefiles-5c0l)
-- [The Principle Analysis of Frontend Monitoring SDK](https://dev.to/woai3c/the-principle-analysis-of-frontend-monitoring-sdk-bpf)
-- [8.7 Streams primitivos e infinitos](https://dev.to/fundamentosjava/87-streams-primitivos-e-infinitos-10df)
-- [Adding Electronic Signatures to a Rails 8 App](https://dev.to/ukaypromise/adding-electronic-signatures-to-a-rails-8-app-1jdo)
+- [Top 15 React useState Mistakes Every Developer Should Know](https://dev.to/myogeshchavan97/top-15-react-usestate-mistakes-every-developer-should-know-njg)
+- [Installing Oracle Grid Infrastructure 19.25 on Oracle Linux 9.5 Using ASMLIB 3](https://dev.to/vahidusefzadeh/installing-oracle-grid-infrastructure-1925-on-oracle-linux-95-using-asmlib-3-4bki)
+- [🚀 Angular Signals: The Game-Changer for State Management!](https://dev.to/matin676/angular-signals-the-game-changer-for-state-management-4cdf)
+- [Navigating the Rails: A Developer&#39;s Deep Dive into Bangladesh Railway Timetables](https://dev.to/babynamenestlings_efe5ba9/navigating-the-rails-a-developers-deep-dive-into-bangladesh-railway-timetables-3jga)
+- [Inside the Brain of Your Computer](https://dev.to/harishankarr7/inside-the-brain-of-your-computer-2edp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
