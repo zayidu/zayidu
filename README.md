@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireframing for Beginners - 10 Tips to Get Started](https://dev.to/taskframe/wireframing-for-beginners-10-tips-to-get-started-1fk2)
-- [The AI Revolution in Software Engineering: What Stays, What Changes?](https://dev.to/vishal563/the-ai-revolution-in-software-engineering-what-stays-what-changes-3lc4)
-- [Building my first AI agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
-- [Raycast: More Than a Launcher, It&#39;s Your Development Command Center](https://dev.to/simplr_sh/raycast-more-than-a-launcher-its-your-development-command-center-48o1)
-- [🔐 Understanding SAML, OAuth 2.0 and OpenID Connect](https://dev.to/fazal_mansuri_/understanding-saml-oauth-20-and-openid-connect-1d3c)
+- [Supercharging Your MERN Stack App with Redis Caching: A Deep Dive](https://dev.to/aniket_ap/supercharging-your-mern-stack-app-with-redis-caching-a-deep-dive-1587)
+- [How do you cope with stress?](https://dev.to/jonathan1998/how-do-you-cope-with-stress-3cg2)
+- [Dependency Management in Go: Modules, Vendoring, and the End of NuGet](https://dev.to/syawqy/dependency-management-in-go-modules-vendoring-and-the-end-of-nuget-4oa7)
+- [Mastering the Art of Software Architecture: A Comprehensive Guide](https://dev.to/devcorner/mastering-the-art-of-software-architecture-a-comprehensive-guide-5f5g)
+- [Context-Aware Text Sanitization in JavaScript: Best Practices for Modern Web Apps](https://dev.to/dev-ajayshukla/context-aware-text-sanitization-in-javascript-best-practices-for-modern-web-apps-46mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
