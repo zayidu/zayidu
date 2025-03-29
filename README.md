@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/david_oyewole/windows-subsystem-for-linux-wsl-2ef2)
-- [🔐 Linux, Locked and Loaded: A DevOps Primer Before I Git Going](https://dev.to/sandesh_4554e90f93cfe9641/linux-locked-and-loaded-a-devops-primer-before-i-git-going-4pjj)
-- [FastAPI: A Comprehensive Guide](https://dev.to/exson_joseph/fastapi-a-comprehensive-guide-22io)
-- [An API manager should be a catalyst](https://dev.to/flmailla/an-api-manager-should-be-a-catalyst-2d6m)
-- [Another Javascript pong](https://dev.to/diegoavenda/another-javascript-pong-3p21)
+- [AWS Cost Categories with OU Structure](https://dev.to/shu85t/aws-cost-categories-with-ou-structure-61n)
+- [Building LiteLLM Plugins with `async_pre_call_hook` for Proxy Mode](https://dev.to/yigit-konur/building-litellm-plugins-with-asyncprecallhook-for-proxy-mode-3lp6)
+- [Understanding this in JavaScript: Common Pitfalls and Fixes](https://dev.to/alex_aslam/understanding-this-in-javascript-common-pitfalls-and-fixes-1nk0)
+- [Sorting Algorithms Made Visual – Feedback Needed!](https://dev.to/bokul_ahmed_ae041b6bc8cb8/sorting-algorithm-visualizer-interactive-learning-with-react-2jmo)
+- [How to create EC2 Instance&lpar;AWS&rpar; using terraform on local-state](https://dev.to/abhishek_korde_31/how-to-create-ec2-instanceaws-using-terraform-on-local-state-3672)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
