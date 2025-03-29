@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Bump to Google Photos: The Journey of David Lieb and His Team](https://dev.to/jetthoughts/from-bump-to-google-photos-the-journey-of-david-lieb-and-his-team-186p)
-- [Git - basic commands and how to revert them](https://dev.to/oxide-dev/git-basic-commands-and-how-to-revert-them-437b)
-- [NFTs in Nigeria: How Businesses and Creators Can Monetize Digital Assets](https://dev.to/raji_moshood_ee3a4c2638f6/nfts-in-nigeria-how-businesses-and-creators-can-monetize-digital-assets-1d7a)
-- [Why Digital Driving Record Code Is Relevant 2024](https://dev.to/riddlepuffin0/why-digital-driving-record-code-is-relevant-2024-4f1g)
-- [whoamI - my joyful journey into the unknown aka tech industry](https://dev.to/alexandrammr/whoami-my-joyful-journey-into-the-unknown-aka-tech-industry-1fd6)
+- [Explore Golang Metaprogramming: A Deep Dive](https://dev.to/leapcell/explore-golang-metaprogramming-a-deep-dive-3i0k)
+- [Conditional Rendering in React: The Ultimate Guide](https://dev.to/devshefali/conditional-rendering-in-react-the-ultimate-guide-5c09)
+- [🌟 Hackathon Tamasha: Where DevOps Meets Creativity! 🚀](https://dev.to/francescobianco/hackathon-tamasha-where-devops-meets-creativity-o3o)
+- [Checkout Slate - A super simple markdown editor with AI superpowers](https://dev.to/thetronjohnson/checkout-slate-a-super-simple-markdown-editor-with-ai-superpowers-3l5)
+- [Lifetimes in Rust: Preventing Dangling References](https://dev.to/gideonbature/lifetimes-in-rust-preventing-dangling-references-6pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
