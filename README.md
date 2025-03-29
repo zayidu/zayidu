@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Container System from Scratch: Understanding the Magic Behind Docker](https://dev.to/nonso_echendu_001/building-a-container-system-from-scratch-understanding-the-magic-behind-docker-5fjn)
-- [The Single Post You Need to Learn the Basics of Flyte](https://dev.to/mohsenkamrani/the-single-post-you-need-to-learn-the-basics-of-flyte-48bo)
-- [Software Design Principles: Practical Implementation with User Roles](https://dev.to/jhonticonachambi/software-design-principles-practical-implementation-with-user-roles-45c5)
-- [Implementing an effective Application Security Programm: Strategies, techniques, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-programm-strategies-techniques-and-tools-for-2d39)
-- [Creating an Animated Hamburger Navigation Menu: A Developer&#39;s Journey](https://dev.to/affectionate_code/creating-an-animated-hamburger-navigation-menu-a-developers-journey-mjj)
+- [Developing Secure AI Models with Differential Privacy](https://dev.to/kartikmehta8/developing-secure-ai-models-with-differential-privacy-4h1m)
+- [Implementing Rate Limiting and Throttling in .NET 8: Safeguard Your Backend Services](https://dev.to/leandroveiga/implementing-rate-limiting-and-throttling-in-net-8-safeguard-your-backend-services-4ei7)
+- [8.6 Conhecendo mais métodos do Stream](https://dev.to/fundamentosjava/86-conhecendo-mais-metodos-do-stream-4agb)
+- [getting past the airtag limit on ios](https://dev.to/sam_sorkin_f6060af993cd63/getting-past-the-airtag-limit-on-ios-1ie3)
+- [The Ultimate Guide to Mobile Game Performance Testing in 2025: Metrics, Tools, and Future Trends](https://dev.to/radha_4c842d8e4362a7cdd9c/the-ultimate-guide-to-mobile-game-performance-testing-in-2025-metrics-tools-and-future-trends-29da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
