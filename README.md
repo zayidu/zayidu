@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 Google Apps Script 串接 Google Analytics API，整合多站數據](https://dev.to/letswrite/shi-yong-google-apps-script-chuan-jie-google-analytics-apizheng-he-duo-zhan-shu-ju-4leh)
-- [Cutting-Edge AI Agents You Haven’t Heard Of in 2025](https://dev.to/jaysaadana/cutting-edge-ai-agents-you-havent-heard-of-in-2025-43p5)
-- [Learning Game Architecture with Unity – My New Book is Out Now!](https://dev.to/niraj_gaming/learning-game-architecture-with-unity-my-new-book-is-out-now-4hji)
-- [Mastering React Events: Understanding, Debugging, and Optimizing Event Handling 🚀](https://dev.to/tejastn10/mastering-react-events-understanding-debugging-and-optimizing-event-handling-4kn0)
-- [modelfghj](https://dev.to/rahul_d_69c56a981e11c6728/modelfghj-4mff)
+- [Introducing the MCP Community Portal: Bridging AI Assistants and External Tools](https://dev.to/ajeetraina/introducing-the-mcp-community-portal-bridging-ai-assistants-and-external-tools-1449)
+- [How to apply SSR in Vue.js project without Nuxt?🔥](https://dev.to/anthonymax/how-to-apply-ssr-in-vuejs-project-without-nuxt-587c)
+- [10 Useful Tools and Libraries for Python Developers](https://dev.to/paul_freeman/10-useful-tools-and-libraries-for-python-developers-2pi5)
+- [Introducing Cypress.stop&lpar;&rpar;](https://dev.to/s_chathuranga_j/introducing-cypressstop-15pb)
+- [What role does latent space play in Generative AI?](https://dev.to/shriyansh_iot_98734929139/what-role-does-latent-space-play-in-generative-ai-1p40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
