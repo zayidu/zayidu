@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Approaches for Comprehensive Educational Institution Management Systems](https://dev.to/nishath_yapa_c772324a466e/architectural-approaches-for-comprehensive-educational-institution-management-systems-714)
-- [[FR] MapData App &lpar;un terrain de jeu full-stack&rpar;](https://dev.to/joaofelipefaria/fr-mapdata-app-un-terrain-de-jeu-full-stack-5a7j)
-- [What are Filter Keys on Windows 11?](https://dev.to/winsides/what-are-filter-keys-on-windows-11-32l4)
-- [Unpacking Go Channels: A Peek Under the Hood](https://dev.to/shrsv/unpacking-go-channels-a-peek-under-the-hood-2c42)
-- [MapData App &lpar;a full-stack playground&rpar;](https://dev.to/joaofelipefaria/mapdata-app-a-full-stack-playground-4kjk)
+- [Keep Users on Track: The Importance of Visible Progress in UX](https://dev.to/rijultp/keep-users-on-track-the-importance-of-visible-progress-in-ux-748)
+- [How to Deploy a LLM Locally and Make It Accessible from the Internet](https://dev.to/kimi_ene/how-to-deploy-a-llm-locally-and-make-it-accessible-from-the-internet-5a9e)
+- [🚀 Debouncing in JavaScript &amp; React — Make Your App Smoother!](https://dev.to/masterrj/debouncing-in-javascript-react-make-your-app-smoother-1j00)
+- [Leetcode 79 : Word Search](https://dev.to/rohithv07/leetcode-79-word-search-4b66)
+- [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tene/css-cheat-sheet-everything-you-need-to-know-in-one-place-157m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
