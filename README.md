@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [uv: Up to 100x Faster Than pip—Is This Python&#39;s Future?](https://dev.to/jay-thakur/uv-up-to-100x-faster-than-pip-is-this-pythons-future-1aed)
-- [How I Saved a Startup $15k/month on AWS Without Downtime](https://dev.to/aws_optimizer/how-i-saved-a-startup-15kmonth-on-aws-without-downtime-33k2)
-- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
-- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
-- [We struggled at $1k MRR for a year… then hit $1k MRR in 2 weeks &lpar;and here&#39;s why&rpar;](https://dev.to/hugo_theindiesaas/we-struggled-at-1k-mrr-for-a-year-then-hit-1k-mrr-in-2-weeks-and-heres-why-2a0p)
+- [Comprehensive Guide for Understanding the Self-Taught Web Developer Path in 2025](https://dev.to/shadbalti/comprehensive-guide-for-understanding-the-self-taught-web-developer-path-in-2025-32ng)
+- [How to Escape Callback Hell in JavaScript: A Developer’s Guide](https://dev.to/alex_aslam/how-to-escape-callback-hell-in-javascript-a-developers-guide-2hpm)
+- [Unleash Your Inner Inventor: Discover Endless Arduino Uno Project Ideas! 🚀](https://dev.to/wildshark/unleash-your-inner-inventor-discover-endless-arduino-uno-project-ideas-1k06)
+- [Install psql in WSL](https://dev.to/drsimplegraffiti/install-psql-in-wsl-1hll)
+- [Empowering Designers and Developers with Effortless Image Conversion](https://dev.to/lingo1357/empowering-designers-and-developers-with-effortless-image-conversion-4cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
