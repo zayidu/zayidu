@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A sleek solidity cheatsheet](https://dev.to/atharvsan/a-sleek-solidity-cheatsheet-4b28)
-- [V8 Engine Optimization Techniques](https://dev.to/omriluz1/v8-engine-optimization-techniques-1bcd)
-- [Auto-Scaling Web Application with CI/CD Pipeline on AWS](https://dev.to/akuphe-devops/auto-scaling-web-application-with-cicd-pipeline-on-aws-4gm4)
-- [5 Awesome ownCloud Alternatives to consider in 2025](https://dev.to/code42cate/5-awesome-owncloud-alternatives-to-consider-in-2025-1oa)
-- [🔐 Secure Password Manager: A Modern Tkinter-Based Solution for Safeguarding Your Credentials](https://dev.to/srijan-xi/secure-password-manager-a-modern-tkinter-based-solution-for-safeguarding-your-credentials-1blc)
+- [How I differentiate between padding and margin](https://dev.to/sampath_kumar_04fa9e262b9/how-i-differentiate-between-padding-and-margin-2cla)
+- [Junior Dev Mistakes: What I Wish I Knew Sooner](https://dev.to/sihantawsik/junior-dev-mistakes-what-i-wish-i-knew-sooner-amd)
+- [The Power of calc&lpar;&rpar; – Your CSS Playbook to Victory](https://dev.to/gerryleonugroho/the-power-of-calc-your-css-playbook-to-victory-ign)
+- [How to Create Excalidraw Animations with Excalidraw Smart Presentation](https://dev.to/justin3go/how-to-create-excalidraw-animations-with-excalidraw-smart-presentation-3n16)
+- [AWS 101 Workshop](https://dev.to/dharshinisri_g_04a9fda5b6/aws-101-workshop-14cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
