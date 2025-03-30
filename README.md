@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide for Understanding the Self-Taught Web Developer Path in 2025](https://dev.to/shadbalti/comprehensive-guide-for-understanding-the-self-taught-web-developer-path-in-2025-32ng)
-- [How to Escape Callback Hell in JavaScript: A Developer’s Guide](https://dev.to/alex_aslam/how-to-escape-callback-hell-in-javascript-a-developers-guide-2hpm)
-- [Unleash Your Inner Inventor: Discover Endless Arduino Uno Project Ideas! 🚀](https://dev.to/wildshark/unleash-your-inner-inventor-discover-endless-arduino-uno-project-ideas-1k06)
-- [Install psql in WSL](https://dev.to/drsimplegraffiti/install-psql-in-wsl-1hll)
-- [Empowering Designers and Developers with Effortless Image Conversion](https://dev.to/lingo1357/empowering-designers-and-developers-with-effortless-image-conversion-4cp)
+- [Test Article from SmartScrapAI](https://dev.to/gaurav4288/test-article-from-smartscrapai-2kl1)
+- [Shopping cart](https://dev.to/rifat_hasan_497b839e408d3/shopping-cart-bdk)
+- [Beyond HTML &amp; CSS: 15+ Frontend Niches to Level Up Your Career](https://dev.to/solat-ali/beyond-html-css-15-frontend-niches-to-level-up-your-career-1eoh)
+- [From Curiosity to Code: My Journey as a Self-Taught Developer](https://dev.to/kelvincode1234/from-curiosity-to-code-my-journey-as-a-self-taught-developer-51gj)
+- [[Boost]](https://dev.to/uliyahoo/-a5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
