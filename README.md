@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a Front-End Study Buddy!](https://dev.to/__c668c8bd17dfd/looking-for-a-front-end-study-buddy-4mj7)
-- [Hello World! 👋 I’m starting my front-end development journey and would love to find a study partner](https://dev.to/__c668c8bd17dfd/hello-world-im-starting-my-front-end-development-journey-and-would-love-to-find-a-study-partner-3h8f)
-- [Why I’m Building a Self-Service DevOps Platform for Kubernetes Teams](https://dev.to/ankush_atmosly/why-im-building-a-self-service-devops-platform-for-kubernetes-teams-4eo6)
-- [Day 10/250 - Full Stack Journey 🚀](https://dev.to/munin-1/day-10250-full-stack-journey-4pjc)
-- [Building a Minimalist To-Do App with React and TailwindCSS](https://dev.to/crud5th-273-/building-a-minimalist-to-do-app-with-react-and-tailwindcss-8mn)
+- [Exploring AI Trends in 2025: Key Innovations and Impacts](https://dev.to/cognisenseai/exploring-ai-trends-in-2025-key-innovations-and-impacts-2a3j)
+- [기업에서 원하는 개발자](https://dev.to/solleedata/gieobeseo-weonhaneun-gaebalja-2lf8)
+- [👋 Hey Devs, Let’s Build &amp; Learn Together! 🚀](https://dev.to/talhabilaldev/hey-devs-lets-build-learn-together-41fd)
+- [🚀 Protect Your Laravel API: How I Mastered Rate Limiting in a Real Project](https://dev.to/abdullo_akramov/protect-your-laravel-api-how-i-mastered-rate-limiting-in-a-real-project-48dk)
+- [Mentoring, Growth, and the Power of Humility in Tech](https://dev.to/mmabiaa/mentoring-growth-and-the-power-of-humility-in-tech-32am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
