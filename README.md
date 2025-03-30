@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Your Git Workspace on a PC](https://dev.to/theoriginalbpc/how-to-set-up-your-git-workspace-on-a-pc-414e)
-- [Designing for Flexibility: Reducing Cloud Lock-In in Legacy Systems](https://dev.to/sergiorf/designing-for-flexibility-reducing-cloud-lock-in-in-legacy-systems-3obj)
-- [12 เครื่องมือ Debug Kubernetes เจ๋งๆ ที่ควรต้องมีติดมือไว้](https://dev.to/mongkol_tho/12-ekhruuengmuue-debug-kubernetes-ecchng-thiikhwrtngmiitidmuueaiw-1pla)
-- [smart Habit Tracker](https://dev.to/hussein_osman_5c4bbe33c6d/building-better-habits-with-habit-tracker-2fcl)
-- [Hibernate is Not a Web Framework!](https://dev.to/lovestaco/hibernate-is-not-a-web-framework-5c2h)
+- [A Deep Dive into JavaScript Classes: Static, Public, Private, and Protected](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-static-public-private-and-protected-21gc)
+- [Day 6: Mastering Git Branching: A beginner&#39;s Guide to efficient version control in 2025](https://dev.to/s_j_9c4bdb31f6630da7/day-6-mastering-git-branching-a-beginners-guide-to-efficient-version-control-in-2025-fgm)
+- [🚀 Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://dev.to/narmidm/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-3c8e)
+- [Your Next.js website might be hacked, ChatGPT-4o Image Generation, State of Vue.js 2025, and more](https://dev.to/thisweekinjavascript/your-nextjs-website-might-be-hacked-chatgpt-4o-image-generation-state-of-vuejs-2025-and-more-15ep)
+- [log_001 — Junior, or just a label?](https://dev.to/rhno_obs/log001-junior-or-just-a-label-19j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
