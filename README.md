@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Edge Security Showdown: Vercel Firewall vs. Cloudflare - Protecting Your Modern Web App](https://dev.to/simplr_sh/edge-security-showdown-vercel-firewall-vs-cloudflare-protecting-your-modern-web-app-29m0)
-- [Day-9: Unlock the Power of Git: Common Commands and Examples Explained](https://dev.to/e00049/day-9-unlock-the-power-of-git-common-commands-and-examples-explained-305m)
-- [Hexes and bricks in Mini Micro](https://dev.to/joestrout/hexes-and-bricks-in-mini-micro-e99)
-- [How to Build Scalable Web Applications with ASP.NET](https://dev.to/million_formula_3be3d915d/how-to-build-scalable-web-applications-with-aspnet-32bm)
-- [GitHub Access Governance with Pulumi.](https://dev.to/ajanthan_hr_c019bb2b72c79/github-access-governance-with-pulumi-4g7e)
+- [[Boost]](https://dev.to/pandaaabear/-514m)
+- [Automating Server Deployments with GitHub Actions: Saving Time with SSH &amp; rsync 🚀](https://dev.to/mdrobin45r/automating-server-deployments-with-github-actions-saving-time-with-ssh-rsync-95e)
+- [🚀 Understanding Next.js Hydration Errors: Causes &amp; Fixes](https://dev.to/mdrobin45r/understanding-nextjs-hydration-errors-causes-fixes-463k)
+- [dotenvx, almost perfect replacement for dotenv](https://dev.to/kenn/dotenvx-almost-perfect-replacement-for-dotenv-13jl)
+- [From Beginner to Builder: My Journey Learning JavaScript with The Odin Project](https://dev.to/munene254_/from-beginner-to-builder-my-journey-learning-javascript-with-the-odin-project-1cod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
