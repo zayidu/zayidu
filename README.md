@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop Webapps for Everyone: A Guide to Web Accessibility](https://dev.to/debajit13/develop-webapps-for-everyone-a-guide-to-web-accessibility-4cfc)
-- [F*ck distraction. Just jot down the things.](https://dev.to/abdibrokhim/fck-distraction-just-jot-down-the-things-3ob)
-- [AWS: Powering the Future of Data Science](https://dev.to/aws-builders/aws-powering-the-future-of-data-science-2e1b)
-- [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
-- [🔥 The ULTIMATE Guide to Writing VIRAL Posts on Dev.to 🌟](https://dev.to/hanzla-baig/the-ultimate-guide-to-writing-viral-posts-on-devto-59h3)
+- [How to Set Up Your Git Workspace on a PC](https://dev.to/theoriginalbpc/how-to-set-up-your-git-workspace-on-a-pc-414e)
+- [Designing for Flexibility: Reducing Cloud Lock-In in Legacy Systems](https://dev.to/sergiorf/designing-for-flexibility-reducing-cloud-lock-in-in-legacy-systems-3obj)
+- [12 เครื่องมือ Debug Kubernetes เจ๋งๆ ที่ควรต้องมีติดมือไว้](https://dev.to/mongkol_tho/12-ekhruuengmuue-debug-kubernetes-ecchng-thiikhwrtngmiitidmuueaiw-1pla)
+- [smart Habit Tracker](https://dev.to/hussein_osman_5c4bbe33c6d/building-better-habits-with-habit-tracker-2fcl)
+- [Hibernate is Not a Web Framework!](https://dev.to/lovestaco/hibernate-is-not-a-web-framework-5c2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
