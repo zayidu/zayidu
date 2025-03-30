@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing a Candy Crush Clone: Three Approaches for Efficiency and Security](https://dev.to/surendergupta/dockerizing-a-candy-crush-clone-three-approaches-for-efficiency-and-security-129n)
-- [Tutorial 6: Model-View-Controller &lpar;MVC&rpar; in iOS - Building the Dad Joke Machine App](https://dev.to/cl0udleadanis/tutorial-6-model-view-controller-mvc-in-ios-building-the-dad-joke-machine-app-g1e)
-- [Think Fast, Code Faster: Local AI Development with Docker Model Runner](https://dev.to/docker/think-fast-code-faster-local-ai-development-with-docker-model-runner-2878)
-- [The Ghibli and ChatGPT Fiasco: AI, Ethics, and Copyrights](https://dev.to/frtechy/the-ghibli-and-chatgpt-fiasco-ai-ethics-and-copyrights-136f)
-- [Learning JS frameworks with me&lpar;part 4&rpar;: React.js&lpar;1/3&rpar;-Getting Started with the UI Library That Changed the Web](https://dev.to/shaman_shetty/learning-js-frameworks-with-mepart-4-reactjs13-getting-started-with-the-ui-library-that-5eeo)
+- [AWS Solution Architect- Associate: Important Topics](https://dev.to/afshan/aws-solution-architect-associate-important-topics-28gn)
+- [Building Real-time Collaborative Applications with Go Backends and React Frontends](https://dev.to/seth_athooh_85836d9884b79/building-real-time-collaborative-applications-with-go-backends-and-react-frontends-43ig)
+- [Flow Icons, a new VS Code Icon Pack – Looking for Feedback!](https://dev.to/lebinhan/flow-icons-a-new-vs-code-icon-pack-looking-for-feedback-map)
+- [Boost your Website&#39;s Performance: How to provide Seamless Storage for the Public](https://dev.to/sammyug7/boost-your-websites-performance-how-to-provide-seamless-storage-for-the-public-3iea)
+- [Transformasi Pendidikan Abad ke-21: Strategi &amp; Teknologi](https://dev.to/eduzone_network/transformasi-pendidikan-abad-ke-21-strategi-teknologi-2dig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
