@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into JavaScript Classes: Static, Public, Private, and Protected](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-static-public-private-and-protected-21gc)
-- [Day 6: Mastering Git Branching: A beginner&#39;s Guide to efficient version control in 2025](https://dev.to/s_j_9c4bdb31f6630da7/day-6-mastering-git-branching-a-beginners-guide-to-efficient-version-control-in-2025-fgm)
-- [🚀 Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://dev.to/narmidm/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-3c8e)
-- [Your Next.js website might be hacked, ChatGPT-4o Image Generation, State of Vue.js 2025, and more](https://dev.to/thisweekinjavascript/your-nextjs-website-might-be-hacked-chatgpt-4o-image-generation-state-of-vuejs-2025-and-more-15ep)
-- [log_001 — Junior, or just a label?](https://dev.to/rhno_obs/log001-junior-or-just-a-label-19j7)
+- [Inlining and Deoptimization in JavaScript Engines](https://dev.to/omriluz1/inlining-and-deoptimization-in-javascript-engines-117h)
+- [Holograms You Can See, Hear, and Touch](https://dev.to/justin_downes/holograms-you-can-see-hear-and-touch-2930)
+- [The Harsh Truth: Why Most Developers Stay Stuck in Service-Based Companies 🚨](https://dev.to/piyush_sati_0409/the-harsh-truth-why-most-developers-stay-stuck-in-service-based-companies-1h70)
+- [damaged ZIP file during WordPress export](https://dev.to/m7d/damaged-zip-file-during-wordpress-export-2iej)
+- [How to Prepare for a Technical Interview as an SDET](https://dev.to/marcos_galeano/how-to-prepare-for-a-technical-interview-as-an-sdet-1b60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
