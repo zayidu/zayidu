@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inlining and Deoptimization in JavaScript Engines](https://dev.to/omriluz1/inlining-and-deoptimization-in-javascript-engines-117h)
-- [Holograms You Can See, Hear, and Touch](https://dev.to/justin_downes/holograms-you-can-see-hear-and-touch-2930)
-- [The Harsh Truth: Why Most Developers Stay Stuck in Service-Based Companies 🚨](https://dev.to/piyush_sati_0409/the-harsh-truth-why-most-developers-stay-stuck-in-service-based-companies-1h70)
-- [damaged ZIP file during WordPress export](https://dev.to/m7d/damaged-zip-file-during-wordpress-export-2iej)
-- [How to Prepare for a Technical Interview as an SDET](https://dev.to/marcos_galeano/how-to-prepare-for-a-technical-interview-as-an-sdet-1b60)
+- [uv: Up to 100x Faster Than pip—Is This Python&#39;s Future?](https://dev.to/jay-thakur/uv-up-to-100x-faster-than-pip-is-this-pythons-future-1aed)
+- [How I Saved a Startup $15k/month on AWS Without Downtime](https://dev.to/aws_optimizer/how-i-saved-a-startup-15kmonth-on-aws-without-downtime-33k2)
+- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
+- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
+- [We struggled at $1k MRR for a year… then hit $1k MRR in 2 weeks &lpar;and here&#39;s why&rpar;](https://dev.to/hugo_theindiesaas/we-struggled-at-1k-mrr-for-a-year-then-hit-1k-mrr-in-2-weeks-and-heres-why-2a0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
