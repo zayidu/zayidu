@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Web Component Modules in Raku: A Journey of Diverse Approaches](https://dev.to/fco/the-evolution-of-web-component-modules-in-raku-a-journey-of-diverse-approaches-1i7g)
-- [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
-- [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
-- [Superintelligence: Choosing Life](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligence-choosing-life-9ni)
-- [Understanding Cyclomatic Complexity in Go: A Comprehensive Guide](https://dev.to/l_walid/understanding-cyclomatic-complexity-in-go-a-comprehensive-guide-2lpl)
+- [Edge Security Showdown: Vercel Firewall vs. Cloudflare - Protecting Your Modern Web App](https://dev.to/simplr_sh/edge-security-showdown-vercel-firewall-vs-cloudflare-protecting-your-modern-web-app-29m0)
+- [Day-9: Unlock the Power of Git: Common Commands and Examples Explained](https://dev.to/e00049/day-9-unlock-the-power-of-git-common-commands-and-examples-explained-305m)
+- [Hexes and bricks in Mini Micro](https://dev.to/joestrout/hexes-and-bricks-in-mini-micro-e99)
+- [How to Build Scalable Web Applications with ASP.NET](https://dev.to/million_formula_3be3d915d/how-to-build-scalable-web-applications-with-aspnet-32bm)
+- [GitHub Access Governance with Pulumi.](https://dev.to/ajanthan_hr_c019bb2b72c79/github-access-governance-with-pulumi-4g7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
