@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Errors in Bash Scripts in 2025?](https://dev.to/rociogarciavf/how-to-handle-errors-in-bash-scripts-in-2025-3bo)
-- [What Are the Benefits of Using Helm in 2025?](https://dev.to/nigelsilonero/what-are-the-benefits-of-using-helm-in-2025-43pg)
-- [Me vs GPT-4o Image Generation](https://dev.to/jimmyshoe85/me-vs-gpt-4o-image-generation-1ij)
-- [Mejores prácticas para Amazon Inspector](https://dev.to/briansuarezsantiago/mejores-practicas-para-amazon-inspector-c05)
-- [How AI makes Linux fun!](https://dev.to/jeansen/how-ai-makes-linux-fun-30bf)
+- [&quot;Revolutionizing Satellite Missions: The Future of Gravity Field Recovery&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-satellite-missions-the-future-of-gravity-field-recovery-4bkc)
+- [Fixing a regression with git bisect](https://dev.to/uday-rana/taking-git-bisect-for-a-spin-c05)
+- [The Lie of Free Data: My Experience with Common Crawl](https://dev.to/chippytech/the-lie-of-free-data-my-experience-with-common-crawl-5b6)
+- [The future is coming: how technology is making the world cooler!](https://dev.to/wesleybertipaglia/the-future-is-going-to-be-amazing-35d)
+- [I’m a 20-Year Engineer – AI Coding Tools Are My New Oxygen &lpar;But They’re Toxic If You Breathe Too Deep&rpar;](https://dev.to/isaachagoel/im-a-20-year-engineer-ai-coding-tools-are-my-new-oxygen-but-theyre-toxic-if-you-breathe-too-3h5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
