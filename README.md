@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying my ReactJS and HTML5 app to AWS S3](https://dev.to/hellonehha/deploying-my-reactjs-and-html5-app-to-aws-s3-3laj)
-- [Change Data Capture &lpar;CDC&rpar; in Modern Systems: Pros, Cons, and Alternatives](https://dev.to/adityasatrio/change-data-capture-cdc-in-modern-systems-pros-cons-and-alternatives-2dee)
-- [🌟 When Your Code Works but You Have No Idea Why 🤔](https://dev.to/hanzla-baig/when-your-code-works-but-you-have-no-idea-why-47i)
-- [Logging in Node.js: Winston &amp; Morgan to the Rescue!](https://dev.to/mehta0007/logging-in-nodejs-winston-morgan-to-the-rescue-4edj)
-- [My WeCoded Landing Page](https://dev.to/imamdev_/my-wecoded-landing-page-d5i)
+- [Develop Webapps for Everyone: A Guide to Web Accessibility](https://dev.to/debajit13/develop-webapps-for-everyone-a-guide-to-web-accessibility-4cfc)
+- [F*ck distraction. Just jot down the things.](https://dev.to/abdibrokhim/fck-distraction-just-jot-down-the-things-3ob)
+- [AWS: Powering the Future of Data Science](https://dev.to/aws-builders/aws-powering-the-future-of-data-science-2e1b)
+- [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
+- [🔥 The ULTIMATE Guide to Writing VIRAL Posts on Dev.to 🌟](https://dev.to/hanzla-baig/the-ultimate-guide-to-writing-viral-posts-on-devto-59h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
