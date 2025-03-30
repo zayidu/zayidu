@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solution Architect- Associate: Important Topics](https://dev.to/afshan/aws-solution-architect-associate-important-topics-28gn)
-- [Building Real-time Collaborative Applications with Go Backends and React Frontends](https://dev.to/seth_athooh_85836d9884b79/building-real-time-collaborative-applications-with-go-backends-and-react-frontends-43ig)
-- [Flow Icons, a new VS Code Icon Pack – Looking for Feedback!](https://dev.to/lebinhan/flow-icons-a-new-vs-code-icon-pack-looking-for-feedback-map)
-- [Boost your Website&#39;s Performance: How to provide Seamless Storage for the Public](https://dev.to/sammyug7/boost-your-websites-performance-how-to-provide-seamless-storage-for-the-public-3iea)
-- [Transformasi Pendidikan Abad ke-21: Strategi &amp; Teknologi](https://dev.to/eduzone_network/transformasi-pendidikan-abad-ke-21-strategi-teknologi-2dig)
+- [Looking for a Front-End Study Buddy!](https://dev.to/__c668c8bd17dfd/looking-for-a-front-end-study-buddy-4mj7)
+- [Hello World! 👋 I’m starting my front-end development journey and would love to find a study partner](https://dev.to/__c668c8bd17dfd/hello-world-im-starting-my-front-end-development-journey-and-would-love-to-find-a-study-partner-3h8f)
+- [Why I’m Building a Self-Service DevOps Platform for Kubernetes Teams](https://dev.to/ankush_atmosly/why-im-building-a-self-service-devops-platform-for-kubernetes-teams-4eo6)
+- [Day 10/250 - Full Stack Journey 🚀](https://dev.to/munin-1/day-10250-full-stack-journey-4pjc)
+- [Building a Minimalist To-Do App with React and TailwindCSS](https://dev.to/crud5th-273-/building-a-minimalist-to-do-app-with-react-and-tailwindcss-8mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
