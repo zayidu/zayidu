@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring AI Trends in 2025: Key Innovations and Impacts](https://dev.to/cognisenseai/exploring-ai-trends-in-2025-key-innovations-and-impacts-2a3j)
-- [기업에서 원하는 개발자](https://dev.to/solleedata/gieobeseo-weonhaneun-gaebalja-2lf8)
-- [👋 Hey Devs, Let’s Build &amp; Learn Together! 🚀](https://dev.to/talhabilaldev/hey-devs-lets-build-learn-together-41fd)
-- [🚀 Protect Your Laravel API: How I Mastered Rate Limiting in a Real Project](https://dev.to/abdullo_akramov/protect-your-laravel-api-how-i-mastered-rate-limiting-in-a-real-project-48dk)
-- [Mentoring, Growth, and the Power of Humility in Tech](https://dev.to/mmabiaa/mentoring-growth-and-the-power-of-humility-in-tech-32am)
+- [5 Awesome Nextcloud Alternatives](https://dev.to/code42cate/5-awesome-nextcloud-alternatives-79d)
+- [Steps to Deploy Angular Application on EC2](https://dev.to/josephngabo/steps-to-deploy-angular-application-on-ec2-18mh)
+- [Why ProblemSolving Skills Matter More Than Programming Languages](https://dev.to/kritrim_dhi/why-problemsolving-skills-matter-more-than-programming-languages-3lb1)
+- [Migrating to Node.js Web Streams? Benchmark First!](https://dev.to/ghassenrjab/migrating-to-nodejs-web-streams-benchmark-first-2cp1)
+- [Learning - MassTransit Transactional Outbox Pattern](https://dev.to/hootanht/learning-masstransit-transactional-outbox-pattern-g4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
