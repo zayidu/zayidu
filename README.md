@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pandaaabear/-514m)
-- [Automating Server Deployments with GitHub Actions: Saving Time with SSH &amp; rsync 🚀](https://dev.to/mdrobin45r/automating-server-deployments-with-github-actions-saving-time-with-ssh-rsync-95e)
-- [🚀 Understanding Next.js Hydration Errors: Causes &amp; Fixes](https://dev.to/mdrobin45r/understanding-nextjs-hydration-errors-causes-fixes-463k)
-- [dotenvx, almost perfect replacement for dotenv](https://dev.to/kenn/dotenvx-almost-perfect-replacement-for-dotenv-13jl)
-- [From Beginner to Builder: My Journey Learning JavaScript with The Odin Project](https://dev.to/munene254_/from-beginner-to-builder-my-journey-learning-javascript-with-the-odin-project-1cod)
+- [Deploy Scalable VPC Architecture on AWS Cloud](https://dev.to/ashunair/deploy-scalable-vpc-architecture-on-aws-cloud-80i)
+- [Code For Viewing Driving License: A Simple Definition](https://dev.to/honeyhemp36/code-for-viewing-driving-license-a-simple-definition-597d)
+- [Code Comfort: Why Ergonomics is a Developer&#39;s Best Long-Term Investment](https://dev.to/simplr_sh/code-comfort-why-ergonomics-is-a-developers-best-long-term-investment-3ej3)
+- [This Is A Once-In-A-Lifetime Opportunity You Don’t Want To Miss](https://dev.to/myogeshchavan97/this-is-a-once-in-a-lifetime-opportunity-you-dont-want-to-miss-1ep4)
+- [On Usable Documentation](https://dev.to/tmarice/on-usable-documentation-ea1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
