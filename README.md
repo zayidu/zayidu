@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Comprehensions in Python – The Pythonic Way to Build Data Structures](https://dev.to/nkpydev/mastering-comprehensions-in-python-the-pythonic-way-to-build-data-structures-3mfd)
-- [Will AI Replace Programmers or Empower Them](https://dev.to/gocodeo/will-ai-replace-programmers-or-empower-them-5gi3)
-- [log_002 — Junior in the Header, Senior in the Soul](https://dev.to/rhno_obs/log002-junior-in-the-header-senior-in-the-soul-c67)
-- [Guide to Choosing the Right Stainless Steel Lunch Box for Your Needs](https://dev.to/speedexind/guide-to-choosing-the-right-stainless-steel-lunch-box-for-your-needs-ib3)
-- [Understanding Weak References in Python – Managing Memory Efficiently](https://dev.to/nkpydev/understanding-weak-references-in-python-managing-memory-efficiently-43c6)
+- [11 Common MATLAB Keywords and Syntax for Engineers](https://dev.to/dumebii/11-common-matlab-keywords-and-syntax-for-engineers-37bg)
+- [CS50x Week 1 – Diving into C Programming](https://dev.to/ravixalgorithm/cs50x-week-1-diving-into-c-programming-2o0e)
+- [go is good &lpar;this is about golang&rpar;](https://dev.to/leogregianin/go-is-good-this-is-about-golang-1kha)
+- [AWS 101 WORKSHOP ARCHITECTURE](https://dev.to/durga_v/aws-101-workshop-architecture-12f5)
+- [Electe&#39;s Journey: What We Learned Contributing to 10 Projects in 6 Months](https://dev.to/electesrl/electes-journey-what-we-learned-contributing-to-10-projects-in-6-months-3fig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
