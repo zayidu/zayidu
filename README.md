@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Concurrency: Can You Spot the Bugs Lurking in These Programs?](https://dev.to/shrsv/go-concurrency-can-you-spot-the-bugs-lurking-in-these-programs-4ej3)
-- [PHP &lpar;Laravel&rpar; + gRPC](https://dev.to/aleson-franca/laravel-grpc-41en)
-- [PRPL Pattern: A Smarter Way to Speed Up Your Web App](https://dev.to/lovestaco/prpl-pattern-a-smarter-way-to-speed-up-your-web-app-2kjc)
-- [🌏 Earthquake Monitoring Dashboard](https://dev.to/okibayu/earthquake-monitoring-dashboard-3po6)
-- [Exercise 04: Back up Azure Linux Virtual Machines](https://dev.to/1suleyman/exercise-04-back-up-azure-linux-virtual-machines-1o54)
+- [The time to market vs. quality dilemma](https://dev.to/ed_dfreitas/the-time-to-market-vs-quality-dilemma-1ce3)
+- [What Are the Essential Skills for DevRel Professionals? 🚀📚🌐](https://dev.to/awdren/what-are-the-essential-skills-for-devrel-professionals-1mej)
+- [Automating Cloud Deployments &lpar;AWS&rpar;: Terraform, Docker, and CI/CD](https://dev.to/destinyobs/automating-cloud-deployments-aws-terraform-docker-and-cicd-3i1n)
+- [SQL relational databases have been the dominant database for more then fivity years.](https://dev.to/abzresponsible/sql-relational-databases-have-been-the-dominant-database-for-more-then-fivity-years-1ma8)
+- [Quais são as habilidades essenciais para profissionais de DevRel?](https://dev.to/awdren/quais-sao-as-habilidades-essenciais-para-profissionais-de-devrel-25g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
