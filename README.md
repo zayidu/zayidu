@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Buttery-Smooth Scroll Animations: Building a High-Performance Canvas Parallax Effect](https://dev.to/nidal_tahir_cde5660ddbe04/buttery-smooth-scroll-animations-building-a-high-performance-canvas-parallax-effect-2m8l)
-- [Tutorial 18: Using Combine for Reactive Programming in Swift](https://dev.to/cl0udleadanis/tutorial-18-using-combine-for-reactive-programming-in-swift-38pn)
-- [My Experience at ROBOTRIX 4.0 – A Tech-Packed Workshop!](https://dev.to/anushree_shee_bb8d161905f/my-experience-at-robotrix-40-a-tech-packed-workshop-1k0k)
-- [I Built a Job Tracker to Solve a Pain We&#39;ve All Felt](https://dev.to/mani_shankartulabandu_52/i-built-a-job-tracker-to-solve-a-pain-weve-all-felt-39c0)
-- [Tutorial 17: Multithreading with Grand Central Dispatch &lpar;GCD&rpar; and Async/Await in Swift](https://dev.to/cl0udleadanis/tutorial-17-multithreading-with-grand-central-dispatch-gcd-and-asyncawait-in-swift-8eh)
+- [Traits in Rust Explained: From Usage to Internal Mechanics](https://dev.to/leapcell/traits-in-rust-explained-from-usage-to-internal-mechanics-3139)
+- [Minimalistic MCP Server in bash script](https://dev.to/antonum/minimalistic-mcp-server-in-bash-script-10k5)
+- [We should still do optimistic UI](https://dev.to/loukitzanna/we-should-still-do-optimistic-ui-3knm)
+- [OWL JS 01 — Why Odoo Created OWL: A Framework Built for Modularity](https://dev.to/trishan_fernando/owl-js-01-why-odoo-created-owl-a-framework-built-for-modularity-3n99)
+- [Improving the dev experience for building apps that integrate up-to-date and private data with large language models](https://dev.to/griptape/improving-the-dev-experience-for-building-apps-that-integrate-up-to-date-and-private-data-with-gpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
