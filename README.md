@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [k8sprojects.com The Kuberentes Review Platform](https://dev.to/kikiodazie/k8sprojectscom-the-kuberentes-review-platform-4i8l)
-- [Integrating Fractal ArUco Markers into OpenCV: A Game-Changer for Fiducial Marker Detection](https://dev.to/suhasramesha/integrating-fractal-aruco-markers-into-opencv-a-game-changer-for-fiducial-marker-detection-4j57)
-- [Mastering pull requests. How to prepare and review.](https://dev.to/rigo/mastering-pull-requests-how-to-prepare-and-review-1lff)
-- [Why Knowing CMS Can Make You a More Valuable Developer](https://dev.to/arseniydev/why-knowing-cms-can-make-you-a-more-valuable-developer-3e2n)
-- [Securing My AWS EC2: A Journey Through IAM and SSH Struggles](https://dev.to/tharun_reddy_a193bc1b993b/securing-my-aws-ec2-a-journey-through-iam-and-ssh-struggles-3e9d)
+- [Revolutionizing Beekeeping with AI-Powered Computer Vision](https://dev.to/chandraks/revolutionizing-beekeeping-with-ai-powered-computer-vision-365a)
+- [Map Interface](https://dev.to/neelakandan_ravi_2000/map-interface-2i3i)
+- [Partial Prerendering in Next.js](https://dev.to/va2212/partial-prerendering-in-nextjs-2je8)
+- [La Magia](https://dev.to/david_bermenvliz/la-magia-2k5b)
+- [Just Your Commands](https://dev.to/dariuszparys/just-your-commands-4c6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
