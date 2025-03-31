@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Beekeeping with AI-Powered Computer Vision](https://dev.to/chandraks/revolutionizing-beekeeping-with-ai-powered-computer-vision-365a)
-- [Map Interface](https://dev.to/neelakandan_ravi_2000/map-interface-2i3i)
-- [Partial Prerendering in Next.js](https://dev.to/va2212/partial-prerendering-in-nextjs-2je8)
-- [La Magia](https://dev.to/david_bermenvliz/la-magia-2k5b)
-- [Just Your Commands](https://dev.to/dariuszparys/just-your-commands-4c6f)
+- [Mastering Comprehensions in Python – The Pythonic Way to Build Data Structures](https://dev.to/nkpydev/mastering-comprehensions-in-python-the-pythonic-way-to-build-data-structures-3mfd)
+- [Will AI Replace Programmers or Empower Them](https://dev.to/gocodeo/will-ai-replace-programmers-or-empower-them-5gi3)
+- [log_002 — Junior in the Header, Senior in the Soul](https://dev.to/rhno_obs/log002-junior-in-the-header-senior-in-the-soul-c67)
+- [Guide to Choosing the Right Stainless Steel Lunch Box for Your Needs](https://dev.to/speedexind/guide-to-choosing-the-right-stainless-steel-lunch-box-for-your-needs-ib3)
+- [Understanding Weak References in Python – Managing Memory Efficiently](https://dev.to/nkpydev/understanding-weak-references-in-python-managing-memory-efficiently-43c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
