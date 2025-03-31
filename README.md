@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral AI Launches New API for LLM-Based OCR of PDFs](https://dev.to/ssojet/mistral-ai-launches-new-api-for-llm-based-ocr-of-pdfs-4i1j)
-- [Elevate Your UI With React Paper](https://dev.to/charles_eugene_79230d4394/elevate-your-ui-with-react-paper-5eeh)
-- [Having Trouble with Lovable?](https://dev.to/jacob_allen/having-trouble-with-lovable-6an)
-- [Digitale Transformation in Bau und Projektmanagement mit Power Apps, Business Central und CX Time](https://dev.to/connamix/digitale-transformation-in-bau-und-projektmanagement-mit-power-apps-business-central-und-cx-time-1cbo)
-- [MCP unmasked: Why it matters, who should care, and where to be cautious](https://dev.to/subeshb1/mcp-unmasked-why-it-matters-who-should-care-and-where-to-be-cautious-1i7p)
+- [All Data and AI Weekly #183 - 31-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-183-31-march-2025-4534)
+- [How to set up TypeScript with Node.js and Express](https://dev.to/logrocket/how-to-set-up-typescript-with-nodejs-and-express-3ab4)
+- [A Tool I Built for Synthetic Datasets](https://dev.to/voxdroid/a-tool-i-built-for-synthetic-datasets-301j)
+- [WeCoded Landing Page Celebrate in Code](https://dev.to/yashvikothari/wecoded-landing-page-celebrate-in-code-1f9o)
+- [Photo Metadata Standards: IPTC, EXIF, and XMP](https://dev.to/maryalice/photo-metadata-standards-iptc-exif-and-xmp-4n5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
