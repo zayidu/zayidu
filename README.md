@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Driven Augmented Reality Experiences](https://dev.to/kartikmehta8/building-ai-driven-augmented-reality-experiences-40k1)
-- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
-- [Comprehensive Guide to PromptL and the Its Python Library &lpar;promptl-py&rpar;](https://dev.to/yigit-konur/comprehensive-guide-to-promptl-and-the-its-python-library-promptl-py-4ge8)
-- [&quot;Revolutionizing 4D Modeling: Discover the Power of Uni4D Framework!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-4d-modeling-discover-the-power-of-uni4d-framework-43o8)
-- [Enterprise Networks Unveiled: A Software Engineer&#39;s Guide to the Basics &lpar;Part 5&rpar;](https://dev.to/prince_of_pasta/enterprise-networks-unveiled-a-software-engineers-guide-to-the-basics-part-5-5d2b)
+- [How to Name a Project](https://dev.to/gmitch215/how-to-name-a-project-40e6)
+- [Understanding the Role of Decision Table Testing](https://dev.to/yo-shi/understanding-the-role-of-decision-table-testing-23ep)
+- [Using Pulumi for Rapid Deployment](https://dev.to/celopez3/using-pulumi-for-rapid-deployment-5d95)
+- [[Boost]](https://dev.to/bogdannovotarskij/-2em8)
+- [Getting Started with Vision Pro App Development Using Unity: “Metal” vs “RealityKit”](https://dev.to/tkr1234st/getting-started-with-vision-pro-app-development-using-unity-metal-vs-realitykit-4mb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
