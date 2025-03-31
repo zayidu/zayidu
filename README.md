@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS 101 Workshop](https://dev.to/harinivas_m_00360dd83f42/aws-101-workshop-44m6)
-- [Why HA Replication Matters: Scaling, Failover &amp; Disaster Recovery](https://dev.to/timescale/why-ha-replication-matters-scaling-failover-disaster-recovery-2kg6)
-- [How to set up an IRIS Sharding cluster in less than a minute](https://dev.to/intersystems/how-to-set-up-an-iris-sharding-cluster-in-less-than-a-minute-27fg)
-- [7 Claude Code Secrets You Can&#39;t Afford to Miss](https://dev.to/tlr/7-claude-code-secrets-you-cant-afford-to-miss-2mln)
-- [Hướng dẫn sử dụng Forem API bằng Postmann](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmann-14na)
+- [What Are WMS/ERP/CRM Integrations?](https://dev.to/tarunfulera1/what-are-wmserpcrm-integrations-4cd1)
+- [AWS 101 Workshop](https://dev.to/netra_rajendran_b98ea00f6/aws-101-workshop-39m7)
+- [Technical Interview Manners](https://dev.to/nancy_kataria/technical-interview-manners-678)
+- [HarmonyOS NEXT Practical: Proportion Chart](https://dev.to/victordeng/harmonyos-next-practical-proportion-chart-clc)
+- [Telemetry Cybersecurity: Real-Time Threat Detection at Scale](https://dev.to/kapusto/telemetry-cybersecurity-real-time-threat-detection-at-scale-2m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
