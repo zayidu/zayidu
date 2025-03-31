@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind Unveils TxGemma: New Open AI for Drug Discovery](https://dev.to/ssojet/google-deepmind-unveils-txgemma-new-open-ai-for-drug-discovery-2j61)
-- [The Mistake of Wrong Planning 😔](https://dev.to/akhildas675/the-mistake-of-wrong-planning-333c)
-- [Bài viết test xóa API](https://dev.to/phm_phong_dcb56ee289ef43/bai-viet-test-xoa-api-926)
-- [📝 Why Crypto Wallets Need AI &amp; Smart Security](https://dev.to/omniradhanexus/why-crypto-wallets-need-ai-smart-security-47hc)
-- [Testing out Gateway API using Gloo Gateway](https://dev.to/mediocredevops/testing-out-gateway-api-using-gloo-gateway-4c63)
+- [k8sprojects.com The Kuberentes Review Platform](https://dev.to/kikiodazie/k8sprojectscom-the-kuberentes-review-platform-4i8l)
+- [Integrating Fractal ArUco Markers into OpenCV: A Game-Changer for Fiducial Marker Detection](https://dev.to/suhasramesha/integrating-fractal-aruco-markers-into-opencv-a-game-changer-for-fiducial-marker-detection-4j57)
+- [Mastering pull requests. How to prepare and review.](https://dev.to/rigo/mastering-pull-requests-how-to-prepare-and-review-1lff)
+- [Why Knowing CMS Can Make You a More Valuable Developer](https://dev.to/arseniydev/why-knowing-cms-can-make-you-a-more-valuable-developer-3e2n)
+- [Securing My AWS EC2: A Journey Through IAM and SSH Struggles](https://dev.to/tharun_reddy_a193bc1b993b/securing-my-aws-ec2-a-journey-through-iam-and-ssh-struggles-3e9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
