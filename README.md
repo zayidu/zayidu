@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are WMS/ERP/CRM Integrations?](https://dev.to/tarunfulera1/what-are-wmserpcrm-integrations-4cd1)
-- [AWS 101 Workshop](https://dev.to/netra_rajendran_b98ea00f6/aws-101-workshop-39m7)
-- [Technical Interview Manners](https://dev.to/nancy_kataria/technical-interview-manners-678)
-- [HarmonyOS NEXT Practical: Proportion Chart](https://dev.to/victordeng/harmonyos-next-practical-proportion-chart-clc)
-- [Telemetry Cybersecurity: Real-Time Threat Detection at Scale](https://dev.to/kapusto/telemetry-cybersecurity-real-time-threat-detection-at-scale-2m6)
+- [Go Concurrency: Can You Spot the Bugs Lurking in These Programs?](https://dev.to/shrsv/go-concurrency-can-you-spot-the-bugs-lurking-in-these-programs-4ej3)
+- [PHP &lpar;Laravel&rpar; + gRPC](https://dev.to/aleson-franca/laravel-grpc-41en)
+- [PRPL Pattern: A Smarter Way to Speed Up Your Web App](https://dev.to/lovestaco/prpl-pattern-a-smarter-way-to-speed-up-your-web-app-2kjc)
+- [🌏 Earthquake Monitoring Dashboard](https://dev.to/okibayu/earthquake-monitoring-dashboard-3po6)
+- [Exercise 04: Back up Azure Linux Virtual Machines](https://dev.to/1suleyman/exercise-04-back-up-azure-linux-virtual-machines-1o54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
