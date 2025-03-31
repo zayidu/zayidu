@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [pg_dump PostgreSQL Backups: A Quick and Practical Guide](https://dev.to/dbvismarketing/pgdump-postgresql-backups-a-quick-and-practical-guide-o3l)
-- [Java Streams: The Gatherers API](https://dev.to/zenika/java-streams-the-gatherers-api-4b0d)
-- [Rise of Serverless Computing: End of Traditional Infrastructure?](https://dev.to/shashank_kumar_19ef36c198/rise-of-serverless-computing-end-of-traditional-infrastructure-2lbg)
-- [Embarking on Cloud Computing: My Journey Through the AWS 101 Workshop](https://dev.to/harshad_dpt/embarking-on-cloud-computing-my-journey-through-the-aws-101-workshop-4bbf)
-- [Journal 2: The Grind – Building Authentication &amp; Role Management 📅 Date: February 20th, 2025](https://dev.to/benedict_baah/journal-2-the-grind-building-authentication-role-management-date-february-20th-2025-2dhl)
+- [Google DeepMind Unveils TxGemma: New Open AI for Drug Discovery](https://dev.to/ssojet/google-deepmind-unveils-txgemma-new-open-ai-for-drug-discovery-2j61)
+- [The Mistake of Wrong Planning 😔](https://dev.to/akhildas675/the-mistake-of-wrong-planning-333c)
+- [Bài viết test xóa API](https://dev.to/phm_phong_dcb56ee289ef43/bai-viet-test-xoa-api-926)
+- [📝 Why Crypto Wallets Need AI &amp; Smart Security](https://dev.to/omniradhanexus/why-crypto-wallets-need-ai-smart-security-47hc)
+- [Testing out Gateway API using Gloo Gateway](https://dev.to/mediocredevops/testing-out-gateway-api-using-gloo-gateway-4c63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
