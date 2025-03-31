@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Name a Project](https://dev.to/gmitch215/how-to-name-a-project-40e6)
-- [Understanding the Role of Decision Table Testing](https://dev.to/yo-shi/understanding-the-role-of-decision-table-testing-23ep)
-- [Using Pulumi for Rapid Deployment](https://dev.to/celopez3/using-pulumi-for-rapid-deployment-5d95)
-- [[Boost]](https://dev.to/bogdannovotarskij/-2em8)
-- [Getting Started with Vision Pro App Development Using Unity: “Metal” vs “RealityKit”](https://dev.to/tkr1234st/getting-started-with-vision-pro-app-development-using-unity-metal-vs-realitykit-4mb7)
+- [How AI is revolutionizing the way we build for the web.](https://dev.to/sunny7899/how-ai-is-revolutionizing-the-way-we-build-for-the-web-2o0m)
+- [Building Bitcoin&#39;s Proof of Work: A TypeScript Implementation Guide](https://dev.to/radzion/building-bitcoins-proof-of-work-a-typescript-implementation-guide-236j)
+- [What happened isn&#39;t the point. How you respond is.](https://dev.to/adatole/what-happened-isnt-the-point-how-you-respond-is-29ip)
+- [Wasting Space! Master the Art of SEO-Optimized Content Snippets &lpar;Your Quick-Win Guide!&rpar;](https://dev.to/seosiri/wasting-space-master-the-art-of-seo-optimized-content-snippets-your-quick-win-guide-3nna)
+- [Ghibliart.ai: A Game-Changer for AI Art Lovers](https://dev.to/fredai/ghibliartai-a-game-changer-for-ai-art-lovers-l11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
