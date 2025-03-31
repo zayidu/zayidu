@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The time to market vs. quality dilemma](https://dev.to/ed_dfreitas/the-time-to-market-vs-quality-dilemma-1ce3)
-- [What Are the Essential Skills for DevRel Professionals? 🚀📚🌐](https://dev.to/awdren/what-are-the-essential-skills-for-devrel-professionals-1mej)
-- [Automating Cloud Deployments &lpar;AWS&rpar;: Terraform, Docker, and CI/CD](https://dev.to/destinyobs/automating-cloud-deployments-aws-terraform-docker-and-cicd-3i1n)
-- [SQL relational databases have been the dominant database for more then fivity years.](https://dev.to/abzresponsible/sql-relational-databases-have-been-the-dominant-database-for-more-then-fivity-years-1ma8)
-- [Quais são as habilidades essenciais para profissionais de DevRel?](https://dev.to/awdren/quais-sao-as-habilidades-essenciais-para-profissionais-de-devrel-25g8)
+- [Buttery-Smooth Scroll Animations: Building a High-Performance Canvas Parallax Effect](https://dev.to/nidal_tahir_cde5660ddbe04/buttery-smooth-scroll-animations-building-a-high-performance-canvas-parallax-effect-2m8l)
+- [Tutorial 18: Using Combine for Reactive Programming in Swift](https://dev.to/cl0udleadanis/tutorial-18-using-combine-for-reactive-programming-in-swift-38pn)
+- [My Experience at ROBOTRIX 4.0 – A Tech-Packed Workshop!](https://dev.to/anushree_shee_bb8d161905f/my-experience-at-robotrix-40-a-tech-packed-workshop-1k0k)
+- [I Built a Job Tracker to Solve a Pain We&#39;ve All Felt](https://dev.to/mani_shankartulabandu_52/i-built-a-job-tracker-to-solve-a-pain-weve-all-felt-39c0)
+- [Tutorial 17: Multithreading with Grand Central Dispatch &lpar;GCD&rpar; and Async/Await in Swift](https://dev.to/cl0udleadanis/tutorial-17-multithreading-with-grand-central-dispatch-gcd-and-asyncawait-in-swift-8eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
