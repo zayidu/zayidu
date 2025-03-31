@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Common MATLAB Keywords and Syntax for Engineers](https://dev.to/dumebii/11-common-matlab-keywords-and-syntax-for-engineers-37bg)
-- [CS50x Week 1 – Diving into C Programming](https://dev.to/ravixalgorithm/cs50x-week-1-diving-into-c-programming-2o0e)
-- [go is good &lpar;this is about golang&rpar;](https://dev.to/leogregianin/go-is-good-this-is-about-golang-1kha)
-- [AWS 101 WORKSHOP ARCHITECTURE](https://dev.to/durga_v/aws-101-workshop-architecture-12f5)
-- [Electe&#39;s Journey: What We Learned Contributing to 10 Projects in 6 Months](https://dev.to/electesrl/electes-journey-what-we-learned-contributing-to-10-projects-in-6-months-3fig)
+- [Mistral AI Launches New API for LLM-Based OCR of PDFs](https://dev.to/ssojet/mistral-ai-launches-new-api-for-llm-based-ocr-of-pdfs-4i1j)
+- [Elevate Your UI With React Paper](https://dev.to/charles_eugene_79230d4394/elevate-your-ui-with-react-paper-5eeh)
+- [Having Trouble with Lovable?](https://dev.to/jacob_allen/having-trouble-with-lovable-6an)
+- [Digitale Transformation in Bau und Projektmanagement mit Power Apps, Business Central und CX Time](https://dev.to/connamix/digitale-transformation-in-bau-und-projektmanagement-mit-power-apps-business-central-und-cx-time-1cbo)
+- [MCP unmasked: Why it matters, who should care, and where to be cautious](https://dev.to/subeshb1/mcp-unmasked-why-it-matters-who-should-care-and-where-to-be-cautious-1i7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
