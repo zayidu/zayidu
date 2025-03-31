@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #183 - 31-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-183-31-march-2025-4534)
-- [How to set up TypeScript with Node.js and Express](https://dev.to/logrocket/how-to-set-up-typescript-with-nodejs-and-express-3ab4)
-- [A Tool I Built for Synthetic Datasets](https://dev.to/voxdroid/a-tool-i-built-for-synthetic-datasets-301j)
-- [WeCoded Landing Page Celebrate in Code](https://dev.to/yashvikothari/wecoded-landing-page-celebrate-in-code-1f9o)
-- [Photo Metadata Standards: IPTC, EXIF, and XMP](https://dev.to/maryalice/photo-metadata-standards-iptc-exif-and-xmp-4n5d)
+- [How I Scored an 82 in E-E-A-T and Built an SEO Strategy That Thinks Like an AI](https://dev.to/dansasser/how-i-scored-an-82-in-e-e-a-t-and-built-an-seo-strategy-that-thinks-like-an-ai-2b07)
+- [AULA 1 Currency Converter](https://dev.to/sottioli/aula-1-currency-converter-3l75)
+- [3 TIER ARCHITECTURE PART-6](https://dev.to/kamali_s/3-tier-architecture-part-6-577i)
+- [3 TIER ARCHITECTURE PART-5](https://dev.to/kamali_s/3-tier-architecture-part-5-41do)
+- [3 TIER ARCHITECTURE PART -4](https://dev.to/kamali_s/3-tier-architecture-part-4-36f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
