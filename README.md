@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fountain of fire ministry](https://dev.to/khulisojohn/fountain-of-fire-ministry-a39)
-- [🚀 Optimizing Your React App: Best Practices for Developers](https://dev.to/ayon_ssp/optimizing-your-react-app-best-practices-for-developers-5egf)
-- [Basic Setup of Jenkins for CI/CD](https://dev.to/anujgupta345/basic-setup-of-jenkins-for-cicd-cfg)
-- [AI-Powered Test Automation: Transforming Software Testing for Speed and Accuracy](https://dev.to/keploy/ai-powered-test-automation-transforming-software-testing-for-speed-and-accuracy-3pdl)
-- [How to Optimize React Apps for SEO](https://dev.to/hasunnilupul/how-to-optimize-react-apps-for-seo-38h)
+- [The Digital Dilemma: Balancing Visibility with Privacy](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-digital-dilemma-balancing-visibility-with-privacy-hej)
+- [Top Creative Strategies to Promote Your Event App on Social Media](https://dev.to/saanvipatel099/top-creative-strategies-to-promote-your-event-app-on-social-media-1mob)
+- [Understanding OAuth/OpenID Response Types in .NET Web APIs](https://dev.to/manhhungtran/understanding-oauthopenid-response-types-in-net-web-apis-311k)
+- [Chat 4O - AI Image Generator &amp; Assistant with GPT-4o &amp; O1](https://dev.to/chat4o_ai_64bc2ec253d50e6/chat-4o-ai-image-generator-assistant-with-gpt-4o-o1-57mm)
+- [Move All Special Characters to the End of the String in Java: A Detailed Guide](https://dev.to/tpointech/move-all-special-characters-to-the-end-of-the-string-in-java-a-detailed-guide-4kc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
