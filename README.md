@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Rekognition: Understanding Its Features and Use In Content Moderation](https://dev.to/lindiwe09/amazon-rekognition-understanding-its-features-and-use-in-content-moderation-1g0)
-- [Rodando meu primeiro código... Se explodir, já sabem que foi arte!](https://dev.to/cristianeoliveira/rodando-meu-primeiro-codigo-se-explodir-ja-sabem-que-foi-arte-3io0)
-- [𝗧𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗔𝗽𝗽𝘀: 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗔𝗴𝗲𝗻𝘁𝘀, &quot;𝗩𝗶𝗯𝗲-𝗖𝗼𝗱𝗶𝗻𝗴&quot; 𝗜𝗻𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗼𝗿 &quot;𝗦𝗶𝗻𝗴𝗹𝗲-𝗜𝗻𝗽𝘂𝘁&quot; 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀?](https://dev.to/mazzaracm/--1obh)
-- [Top 5 Free Next.js Template Websites to Supercharge Your Project 🔥](https://dev.to/joodi/top-5-free-nextjs-template-websites-to-supercharge-your-project-31jf)
-- [Integrating Vision-Language Models into Agentic RAG Systems with ColPali](https://dev.to/aws/beyond-text-building-intelligent-document-agents-with-vision-language-models-and-colpali-and-oc)
+- [Desacoplando Leituras e Escritas: Uma Introdução à Separação de Responsabilidade entre Comandos e Consultas &lpar;CQRS&rpar;](https://dev.to/actor-dev/decoupling-reads-and-writes-an-introduction-to-command-query-responsibility-segregation-cqrs-1opn)
+- [Day 1130 : Doing Okay](https://dev.to/dwane/day-1130-doing-okay-57kj)
+- [Layer by Layer: The OSI Model Layers 5-7](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layers-5-7-1gnn)
+- [Python Type Hints](https://dev.to/lgerthal/python-type-hints-214m)
+- [React Folder Component Architecture: A C# Developer’s Perspective](https://dev.to/syawqy/react-folder-component-architecture-a-c-developers-perspective-2hp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
