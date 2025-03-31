@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Dilemma: Balancing Visibility with Privacy](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-digital-dilemma-balancing-visibility-with-privacy-hej)
-- [Top Creative Strategies to Promote Your Event App on Social Media](https://dev.to/saanvipatel099/top-creative-strategies-to-promote-your-event-app-on-social-media-1mob)
-- [Understanding OAuth/OpenID Response Types in .NET Web APIs](https://dev.to/manhhungtran/understanding-oauthopenid-response-types-in-net-web-apis-311k)
-- [Chat 4O - AI Image Generator &amp; Assistant with GPT-4o &amp; O1](https://dev.to/chat4o_ai_64bc2ec253d50e6/chat-4o-ai-image-generator-assistant-with-gpt-4o-o1-57mm)
-- [Move All Special Characters to the End of the String in Java: A Detailed Guide](https://dev.to/tpointech/move-all-special-characters-to-the-end-of-the-string-in-java-a-detailed-guide-4kc0)
+- [pg_dump PostgreSQL Backups: A Quick and Practical Guide](https://dev.to/dbvismarketing/pgdump-postgresql-backups-a-quick-and-practical-guide-o3l)
+- [Java Streams: The Gatherers API](https://dev.to/zenika/java-streams-the-gatherers-api-4b0d)
+- [Rise of Serverless Computing: End of Traditional Infrastructure?](https://dev.to/shashank_kumar_19ef36c198/rise-of-serverless-computing-end-of-traditional-infrastructure-2lbg)
+- [Embarking on Cloud Computing: My Journey Through the AWS 101 Workshop](https://dev.to/harshad_dpt/embarking-on-cloud-computing-my-journey-through-the-aws-101-workshop-4bbf)
+- [Journal 2: The Grind – Building Authentication &amp; Role Management 📅 Date: February 20th, 2025](https://dev.to/benedict_baah/journal-2-the-grind-building-authentication-role-management-date-february-20th-2025-2dhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
