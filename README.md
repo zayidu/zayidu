@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiểm thử API với Postman nâng cao](https://dev.to/quc_nghunh_7a5e62fb2/kiem-thu-api-voi-postman-nang-cao-2lcl)
-- [Dumb DEV Is the Best Thing to Happen to Developers—And You Don&#39;t Even Get It](https://dev.to/best_codes/dumb-dev-is-the-best-thing-to-happen-to-developers-and-you-dont-even-get-it-16cn)
-- [Static and Non Static Members](https://dev.to/haryniramesh_90cfe77bda94/static-and-non-static-members-209b)
-- [10 Best Video Hosting Platforms – A Complete Guide for 2025](https://dev.to/livestreaming/10-best-video-hosting-platforms-a-complete-guide-for-2025-12mm)
-- [AULA1 _ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula1-imersaodev-24h8)
+- [How to Be a Senior PHP Developer &lpar;Without Faking It&rpar;](https://dev.to/itxshakil/how-to-be-a-senior-php-developer-without-faking-it-3jg2)
+- [Top 5 Code Editors for Web Developers](https://dev.to/mikehtmlallthethings/top-5-code-editors-for-web-developers-16pn)
+- [Top-10 Tips for Conscious Vibe Coding](https://dev.to/refact/top-10-tips-for-conscious-vibe-coding-17fl)
+- [Building a 3x5 LED Matrix with tscircuit](https://dev.to/gurjeetsinghvirdee/building-a-3x5-led-matrix-with-tscircuit-1m9n)
+- [Conheça o Phrest Finder.](https://dev.to/notmadebyahuman/conheca-o-phrest-finder-3eh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
