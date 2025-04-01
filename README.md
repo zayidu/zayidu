@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How i built a private client space with sitenear.](https://dev.to/hitesh_marbate_84bd5b247c/how-i-built-a-private-client-space-with-sitenear-15n3)
-- [How an Employee Monitoring System Can Improve Business Efficiency](https://dev.to/colinbrown262/how-an-employee-monitoring-system-can-improve-business-efficiency-14pm)
-- [How to Defend Against Bot Attacks with SafeLine WAF](https://dev.to/carrie_luo1/how-to-defend-against-bot-attacks-with-safeline-waf-2m3c)
-- [Custom Software vs. Off-the-Shelf Solutions: What’s Best for Your Business](https://dev.to/emily_johnson/custom-software-vs-off-the-shelf-solutions-whats-best-for-your-business-c4c)
-- [Unraveling Data Mysteries: A Tale of Missing Values in Customer Churn Prediction](https://dev.to/cognitivefeeds/unraveling-data-mysteries-a-tale-of-missing-values-in-customer-churn-prediction-7da)
+- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
+- [Is AI Agents Really Driving the Crypto Boom or It’s Just a Fad?](https://dev.to/lync/is-ai-agents-really-driving-the-crypto-boom-or-its-just-a-fad-42k9)
+- [Intermediate Go Tutorial - Building Your Own Redis: Like In-Memory Cache](https://dev.to/vishaaxl/intermediate-go-tutorial-building-your-own-redis-like-in-memory-cache-5aa2)
+- [Shadcn UI: Revamp your legacy React app with minimal effort](https://dev.to/theopinionateddev/shadcn-ui-revamp-your-legacy-react-app-with-minimal-effort-k19)
+- [Images Vanish: My Experience with the dev.to Image Outage](https://dev.to/ankushppie/images-vanish-my-experience-with-the-devto-image-outage-f0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
