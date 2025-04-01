@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [check out my new landing page @ https://localhost:3000 and please send me feedback](https://dev.to/peter/check-out-my-new-landing-page-httpslocalhost3000-and-please-send-me-feedback-25dm)
-- [Dumb](https://dev.to/avanichols_dev/dumb-2jba)
-- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
-- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
-- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
+- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗦𝗽𝗿𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗝𝗣𝗔 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀](https://dev.to/thiago_souza_1510/--200j)
+- [Best warehouse-native analytics tools](https://dev.to/pambrus/best-warehouse-native-analytics-tools-nfa)
+- [Aula 1 - Imersão Dev9](https://dev.to/izabellataynara_assismou/aula-1-imersao-dev9-bk1)
+- [Linux Essential Commands for DevOps Enthusiasts](https://dev.to/shiva_shanmugam/linux-essential-commands-for-devops-enthusiasts-4g0e)
+- [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
