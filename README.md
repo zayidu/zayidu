@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Be a Senior PHP Developer &lpar;Without Faking It&rpar;](https://dev.to/itxshakil/how-to-be-a-senior-php-developer-without-faking-it-3jg2)
-- [Top 5 Code Editors for Web Developers](https://dev.to/mikehtmlallthethings/top-5-code-editors-for-web-developers-16pn)
-- [Top-10 Tips for Conscious Vibe Coding](https://dev.to/refact/top-10-tips-for-conscious-vibe-coding-17fl)
-- [Building a 3x5 LED Matrix with tscircuit](https://dev.to/gurjeetsinghvirdee/building-a-3x5-led-matrix-with-tscircuit-1m9n)
-- [Conheça o Phrest Finder.](https://dev.to/notmadebyahuman/conheca-o-phrest-finder-3eh7)
+- [Tutorial 22: Using SF Symbols and Custom Icons in Your App](https://dev.to/cl0udleadanis/tutorial-22-using-sf-symbols-and-custom-icons-in-your-app-22cd)
+- [Você Não Vai Acreditar no Que a IA Está Fazendo com o Desenvolvimento de Software!](https://dev.to/elyelsons/voce-nao-vai-acreditar-no-que-a-ia-esta-fazendo-com-o-desenvolvimento-de-software-1kag)
+- [Discovering DNS: A Beginner’s Introduction to nslookup](https://dev.to/rijultp/discovering-dns-a-beginners-introduction-to-nslookup-2pop)
+- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
+- [[Boost]](https://dev.to/djones/-5d0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
