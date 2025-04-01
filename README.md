@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [News Roundup: Cricket - April 01, 2025](https://dev.to/gaurav4288/news-roundup-cricket-april-01-2025-1k63)
-- [Master Django REST Framework: Build a Student Management System API with Function-Based Views](https://dev.to/ebereplenty/master-django-rest-framework-build-a-student-management-system-api-with-function-based-views-1plc)
-- [News Roundup: Cricket - April 01, 2025](https://dev.to/gaurav4288/news-roundup-cricket-april-01-2025-57k8)
-- [AULA1 _Arquivo 0](https://dev.to/daniel_santiago_40df2d62a/aula1-arquivo-0-n3e)
-- [Fast Static Website Deployment with Pulumi](https://dev.to/joshlite/fast-static-website-deployment-with-pulumi-8pe)
+- [check out my new landing page @ https://localhost:3000 and please send me feedback](https://dev.to/peter/check-out-my-new-landing-page-httpslocalhost3000-and-please-send-me-feedback-25dm)
+- [Dumb](https://dev.to/avanichols_dev/dumb-2jba)
+- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
+- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
+- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
