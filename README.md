@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out my new post guys](https://dev.to/jay818/check-out-my-new-post-guys-1125)
-- [[Boost]](https://dev.to/jay818/-4ldk)
-- [JS Basic concepts that some people miss](https://dev.to/jay818/js-basic-concepts-that-some-people-miss-3kgm)
-- [Mathematical Foundations for Machine Learning in JavaScript](https://dev.to/sajiram_a4704bc095/mathematical-foundations-for-machine-learning-in-javascript-h7o)
-- [iOS 18.4 模拟器的 URLSession bug](https://dev.to/yo1995/ios-184-mo-ni-qi-de-urlsession-bug-d70)
+- [Como Criar uma Animação do Sistema Solar com C++ e Raylib](https://dev.to/marcosplusplus/como-criar-uma-animacao-do-sistema-solar-com-c-e-raylib-414p)
+- [Autenticação e Autorização](https://dev.to/reishenrique/autenticacao-e-autorizacao-1nkl)
+- [Building a Self-Optimizing Data Pipeline](https://dev.to/shreyash333/building-a-self-optimizing-data-pipeline-59da)
+- [🎨 Build a Full Stack Canva Clone 2.0 with Next.js, React &amp; Convex, ImageKit](https://dev.to/rrs301/build-a-full-stack-canva-clone-20-with-nextjs-react-convex-imagekit-nkj)
+- [Optimizing Angular Change Detection with OnPush: Skipping Subtrees for Performance](https://dev.to/atheodosiou/optimizing-angular-change-detection-with-onpush-skipping-subtrees-for-performance-45md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
