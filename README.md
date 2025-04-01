@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial 22: Using SF Symbols and Custom Icons in Your App](https://dev.to/cl0udleadanis/tutorial-22-using-sf-symbols-and-custom-icons-in-your-app-22cd)
-- [Você Não Vai Acreditar no Que a IA Está Fazendo com o Desenvolvimento de Software!](https://dev.to/elyelsons/voce-nao-vai-acreditar-no-que-a-ia-esta-fazendo-com-o-desenvolvimento-de-software-1kag)
-- [Discovering DNS: A Beginner’s Introduction to nslookup](https://dev.to/rijultp/discovering-dns-a-beginners-introduction-to-nslookup-2pop)
-- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
-- [[Boost]](https://dev.to/djones/-5d0g)
+- [Integrating with LoyVerse POS – A proper Guide](https://dev.to/gilbert_hathaway_a9c814a9/integrating-with-loyverse-pos-a-proper-guide-18ed)
+- [Module Federation in Modern JavaScript](https://dev.to/omriluz1/module-federation-in-modern-javascript-3lpl)
+- [Automating Cryptocurrency Data with Python, Apache Airflow and PostgreSQL](https://dev.to/milcah03/automating-cryptocurrency-data-collection-with-python-apache-airflow-and-postgresql-1kd6)
+- [Server-Sent Events &lpar;SSE&rpar; 🖧🌐](https://dev.to/himanayk/server-sent-events-sse-2n19)
+- [lecture 5 &lpar;HTMLLMS&rpar;:](https://dev.to/abhayj/lecture-5-htmllms-1d29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
