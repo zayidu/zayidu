@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Managing Your Digital Footprint: Protecting Your Online Life](https://dev.to/okoye_ndidiamaka_5e3b7d30/strategies-for-managing-your-digital-footprint-protecting-your-online-life-2gnc)
-- [Caching on the frontend](https://dev.to/angojay/caching-on-the-frontend-227m)
-- [Best MongoDB GUI Tools in 2025](https://dev.to/roxana_haidiner/best-mongodb-gui-tools-in-2025-5e90)
-- [Tired of Running Into &quot;Dependency Hell&quot;? Here&#39;s a Shortcut 🩳🍰✂️](https://dev.to/randykip/tired-of-running-into-dependency-hell-heres-a-shortcut-kg4)
-- [Model Context Protocol: A Secret Weapon for Startups &amp; SMEs](https://dev.to/bitontree/model-context-protocol-a-secret-weapon-for-startups-smes-4jpl)
+- [A step-by-step guide to creating an EC2 instance in AWS &lpar;using Ubuntu server as the image&rpar; to install nginx.](https://dev.to/nelson_akpa01/a-step-by-step-guide-to-creating-an-ec2-instance-in-aws-using-ubuntu-server-as-the-image-to-1994)
+- [Why Web3 Must Move Beyond Seed Phrases](https://dev.to/omniradhanexus/why-web3-must-move-beyond-seed-phrases-8o6)
+- [Hướng dẫn sử dụng Forem API bằng Postmannnn](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmannnn-103c)
+- [8 Best R.E.P.O. MODs and Installation Guide](https://dev.to/alcor_zsm/8-best-repo-mods-and-installation-guide-4eca)
+- [I Tried Kuberns.com + Plane.so Instead of Jira Because of This](https://dev.to/jevin925/i-tried-kubernscom-planeso-instead-of-jira-because-of-this-185o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
