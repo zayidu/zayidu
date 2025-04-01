@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireframes vs Mockups vs Prototypes: Are You Using the Right One?](https://dev.to/dct_technology/wireframes-vs-mockups-vs-prototypes-are-you-using-the-right-one-eil)
-- [React Native vs Flutter: Which One is Better for Your App in 2025?](https://dev.to/brilworks/react-native-vs-flutter-which-one-is-better-for-your-app-in-2025-4j23)
-- [Liam ERD: Reinventing Database Visualization](https://dev.to/route06/liam-erd-reinventing-database-visualization-kff)
-- [If you’re looking for a powerful, easy-to-use alternative, meet Teamcamp! It’s built for seamless project management, real-time collaboration, and effortless migration from Height.](https://dev.to/rajesh_patel/if-youre-looking-for-a-powerful-easy-to-use-alternative-meet-teamcamp-its-built-for-seamless-3293)
-- [Height is shutting down, but your projects don’t have to suffer. Teamcamp is the best alternative, with task automation, collaboration, and more!](https://dev.to/naik_sejal/height-is-shutting-down-but-your-projects-dont-have-to-suffer-teamcamp-is-the-best-alternative-4fe3)
+- [Strategies for Managing Your Digital Footprint: Protecting Your Online Life](https://dev.to/okoye_ndidiamaka_5e3b7d30/strategies-for-managing-your-digital-footprint-protecting-your-online-life-2gnc)
+- [Caching on the frontend](https://dev.to/angojay/caching-on-the-frontend-227m)
+- [Best MongoDB GUI Tools in 2025](https://dev.to/roxana_haidiner/best-mongodb-gui-tools-in-2025-5e90)
+- [Tired of Running Into &quot;Dependency Hell&quot;? Here&#39;s a Shortcut 🩳🍰✂️](https://dev.to/randykip/tired-of-running-into-dependency-hell-heres-a-shortcut-kg4)
+- [Model Context Protocol: A Secret Weapon for Startups &amp; SMEs](https://dev.to/bitontree/model-context-protocol-a-secret-weapon-for-startups-smes-4jpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
