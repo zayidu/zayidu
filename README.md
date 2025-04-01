@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Digital Twin Technology for Industrial IoT](https://dev.to/kartikmehta8/understanding-digital-twin-technology-for-industrial-iot-4nb2)
-- [Introduction to React](https://dev.to/tene/introduction-to-react-394m)
-- [Heap Sort Algorithm | Heapify | GeeksforGeeks Beginner&#39;s DSA Sheet | Heap Tree](https://dev.to/debeshpg90/heap-sort-algorithm-heapify-geeksforgeeks-beginners-dsa-sheet-heap-tree-4md8)
-- [A Safer Container Runtime](https://dev.to/ihechi_okere/a-safer-container-runtime-17of)
-- [Introducing HTML++ – The Future of Web Development](https://dev.to/ronynn/introducing-html-the-future-of-web-development-2abj)
+- [Khai thác lỗ hổng web tự động bằng AI](https://dev.to/null001/khai-thac-lo-hong-web-tu-dong-bang-ai-200d)
+- [PWA Easy Setup for Laravel &lpar;With Vue.js and React.js](https://dev.to/eramitgupta/pwa-easy-setup-for-laravel-with-vuejs-and-reactjs-2goj)
+- [How I Set Up CI/CD with GitHub Actions in a Real Node.js Project](https://dev.to/softmaker/how-i-set-up-cicd-with-github-actions-in-a-real-nodejs-project-112p)
+- [De Idea a Aplicación Web: Creando ExamGenius con Vibe Coding y Claude](https://dev.to/luisom/de-idea-a-aplicacion-web-creando-examgenius-con-vibe-coding-y-claude-3k6l)
+- [How I Secured $50K in Startup Support from NVIDIA and Google – And How You Can Too!](https://dev.to/ahmedaskar/how-i-secured-50k-in-startup-support-from-nvidia-and-google-and-how-you-can-too-47pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
