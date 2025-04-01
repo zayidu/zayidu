@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Khai thác lỗ hổng web tự động bằng AI](https://dev.to/null001/khai-thac-lo-hong-web-tu-dong-bang-ai-200d)
-- [PWA Easy Setup for Laravel &lpar;With Vue.js and React.js](https://dev.to/eramitgupta/pwa-easy-setup-for-laravel-with-vuejs-and-reactjs-2goj)
-- [How I Set Up CI/CD with GitHub Actions in a Real Node.js Project](https://dev.to/softmaker/how-i-set-up-cicd-with-github-actions-in-a-real-nodejs-project-112p)
-- [De Idea a Aplicación Web: Creando ExamGenius con Vibe Coding y Claude](https://dev.to/luisom/de-idea-a-aplicacion-web-creando-examgenius-con-vibe-coding-y-claude-3k6l)
-- [How I Secured $50K in Startup Support from NVIDIA and Google – And How You Can Too!](https://dev.to/ahmedaskar/how-i-secured-50k-in-startup-support-from-nvidia-and-google-and-how-you-can-too-47pk)
+- [April 1st: The Nuclear Pranks Only Real Developers Will Respect &lpar;and Regret&rpar;](https://dev.to/hotfixhero/april-1st-the-nuclear-pranks-only-real-developers-will-respect-and-regret-2iom)
+- [From Idea to Web App: Building ExamGenius with Vibe Coding and Claude](https://dev.to/vibecodecr-en/from-idea-to-web-app-building-examgenius-with-vibe-coding-and-claude-m2b)
+- [parameter 與 argument](https://dev.to/codemee/parameter-yu-argument-162n)
+- [Mago digital](https://dev.to/david_bermenvliz/mago-digital-2gpj)
+- [The Hidden Breach: Secrets Leaked Outside the Codebase Pose a Serious Threat](https://dev.to/gitguardian/the-hidden-breach-secrets-leaked-outside-the-codebase-pose-a-serious-threat-1bid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
