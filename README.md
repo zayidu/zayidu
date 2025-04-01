@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗦𝗽𝗿𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗝𝗣𝗔 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀](https://dev.to/thiago_souza_1510/--200j)
-- [Best warehouse-native analytics tools](https://dev.to/pambrus/best-warehouse-native-analytics-tools-nfa)
-- [Aula 1 - Imersão Dev9](https://dev.to/izabellataynara_assismou/aula-1-imersao-dev9-bk1)
-- [Linux Essential Commands for DevOps Enthusiasts](https://dev.to/shiva_shanmugam/linux-essential-commands-for-devops-enthusiasts-4g0e)
-- [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
+- [Agentic AI in Your Daily Workflow](https://dev.to/schusterbraun/agentic-ai-in-your-daily-workflow-3jja)
+- [Difference Between Transform and Add Column in Power Query](https://dev.to/guru_prasad_a18c810449892/difference-between-transform-and-add-column-in-power-query-7k5)
+- [DAY-7 PRIMARY KEY,FOREIGN KEY,INDEX,TRANSACTION](https://dev.to/elayaraj_c_04396748f52a1c/day-7-primary-keyforeign-keyindextransaction-29ph)
+- [How to Implement Google Login in Laravel](https://dev.to/msnmongare/how-to-implement-google-login-in-laravel-14bm)
+- [Mastering Facebook APIs: A Guide to Media Handling, Encryption, and Messaging](https://dev.to/baliachbryan/mastering-facebook-apis-a-guide-to-media-handling-encryption-and-messaging-3jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
