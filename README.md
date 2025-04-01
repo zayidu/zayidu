@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI in Your Daily Workflow](https://dev.to/schusterbraun/agentic-ai-in-your-daily-workflow-3jja)
-- [Difference Between Transform and Add Column in Power Query](https://dev.to/guru_prasad_a18c810449892/difference-between-transform-and-add-column-in-power-query-7k5)
-- [DAY-7 PRIMARY KEY,FOREIGN KEY,INDEX,TRANSACTION](https://dev.to/elayaraj_c_04396748f52a1c/day-7-primary-keyforeign-keyindextransaction-29ph)
-- [How to Implement Google Login in Laravel](https://dev.to/msnmongare/how-to-implement-google-login-in-laravel-14bm)
-- [Mastering Facebook APIs: A Guide to Media Handling, Encryption, and Messaging](https://dev.to/baliachbryan/mastering-facebook-apis-a-guide-to-media-handling-encryption-and-messaging-3jc)
+- [Kiểm thử API với Postman nâng cao](https://dev.to/quc_nghunh_7a5e62fb2/kiem-thu-api-voi-postman-nang-cao-2lcl)
+- [Dumb DEV Is the Best Thing to Happen to Developers—And You Don&#39;t Even Get It](https://dev.to/best_codes/dumb-dev-is-the-best-thing-to-happen-to-developers-and-you-dont-even-get-it-16cn)
+- [Static and Non Static Members](https://dev.to/haryniramesh_90cfe77bda94/static-and-non-static-members-209b)
+- [10 Best Video Hosting Platforms – A Complete Guide for 2025](https://dev.to/livestreaming/10-best-video-hosting-platforms-a-complete-guide-for-2025-12mm)
+- [AULA1 _ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula1-imersaodev-24h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
