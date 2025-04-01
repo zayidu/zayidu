@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating with LoyVerse POS – A proper Guide](https://dev.to/gilbert_hathaway_a9c814a9/integrating-with-loyverse-pos-a-proper-guide-18ed)
-- [Module Federation in Modern JavaScript](https://dev.to/omriluz1/module-federation-in-modern-javascript-3lpl)
-- [Automating Cryptocurrency Data with Python, Apache Airflow and PostgreSQL](https://dev.to/milcah03/automating-cryptocurrency-data-collection-with-python-apache-airflow-and-postgresql-1kd6)
-- [Server-Sent Events &lpar;SSE&rpar; 🖧🌐](https://dev.to/himanayk/server-sent-events-sse-2n19)
-- [lecture 5 &lpar;HTMLLMS&rpar;:](https://dev.to/abhayj/lecture-5-htmllms-1d29)
+- [Check out my new post guys](https://dev.to/jay818/check-out-my-new-post-guys-1125)
+- [[Boost]](https://dev.to/jay818/-4ldk)
+- [JS Basic concepts that some people miss](https://dev.to/jay818/js-basic-concepts-that-some-people-miss-3kgm)
+- [Mathematical Foundations for Machine Learning in JavaScript](https://dev.to/sajiram_a4704bc095/mathematical-foundations-for-machine-learning-in-javascript-h7o)
+- [iOS 18.4 模拟器的 URLSession bug](https://dev.to/yo1995/ios-184-mo-ni-qi-de-urlsession-bug-d70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
