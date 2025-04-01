@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Free Reverse Proxy Solutions in 2025](https://dev.to/carrie_luo1/5-best-free-reverse-proxy-solutions-in-2025-54ok)
-- [Effortless JavaScript Retries with redo.js!](https://dev.to/navdeepm20/effortless-javascript-retries-with-redojs-315d)
-- [News Roundup: Silicon Valley - April 01, 2025](https://dev.to/gaurav4288/news-roundup-silicon-valley-april-01-2025-54gc)
-- [Decoupling Reads and Writes: An Introduction to Command Query Responsibility Segregation &lpar;CQRS&rpar;](https://dev.to/actor-dev/cqrs-explained-1mf1)
-- [Decorator Pattern: Advanced Usage and Examples](https://dev.to/omriluz1/decorator-pattern-advanced-usage-and-examples-1k00)
+- [A Complete Guide to Temporarily Saving Your Work With Git Stash](https://dev.to/hamzasehouli/a-complete-guide-to-temporarily-saving-your-work-with-git-stash-pko)
+- [Mastering git bisect to streamline debugging process](https://dev.to/hamzasehouli/mastering-git-bisect-to-streamline-debugging-process-1jem)
+- [Understanding vIBANs: The game changing solution for global payments](https://dev.to/rafastg/understanding-vibans-the-game-changing-solution-for-global-payments-149)
+- [How to Solve &quot;Port Already in Use&quot; Error When Configuring an APP in SafeLine?](https://dev.to/carrie_luo1/how-to-solve-port-already-in-use-error-when-configuring-an-app-in-safeline-1p29)
+- [Starting a new project.](https://dev.to/ngendo/starting-a-new-project-1na1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
