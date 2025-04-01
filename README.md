@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
-- [Is AI Agents Really Driving the Crypto Boom or It’s Just a Fad?](https://dev.to/lync/is-ai-agents-really-driving-the-crypto-boom-or-its-just-a-fad-42k9)
-- [Intermediate Go Tutorial - Building Your Own Redis: Like In-Memory Cache](https://dev.to/vishaaxl/intermediate-go-tutorial-building-your-own-redis-like-in-memory-cache-5aa2)
-- [Shadcn UI: Revamp your legacy React app with minimal effort](https://dev.to/theopinionateddev/shadcn-ui-revamp-your-legacy-react-app-with-minimal-effort-k19)
-- [Images Vanish: My Experience with the dev.to Image Outage](https://dev.to/ankushppie/images-vanish-my-experience-with-the-devto-image-outage-f0g)
+- [The Importance of Performance Testing in Software Development](https://dev.to/aadi_dawane_36464d534bb4c/the-importance-of-performance-testing-in-software-development-43bf)
+- [Checking DNS Zone Files](https://dev.to/geeksta/checking-dns-zone-files-3aif)
+- [Send Emails from Next.js with Resend and React Email](https://dev.to/thatanjan/send-emails-from-nextjs-with-resend-and-react-email-39fb)
+- [SAP BTP SAP Conversational AI — Session 2](https://dev.to/niks_kirdak_47c783a80cbc7/sap-btp-sap-conversational-ai-session-2-2800)
+- [[Boost]](https://dev.to/karanverma/-1j4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
