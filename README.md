@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [April 1st: The Nuclear Pranks Only Real Developers Will Respect &lpar;and Regret&rpar;](https://dev.to/hotfixhero/april-1st-the-nuclear-pranks-only-real-developers-will-respect-and-regret-2iom)
-- [From Idea to Web App: Building ExamGenius with Vibe Coding and Claude](https://dev.to/vibecodecr-en/from-idea-to-web-app-building-examgenius-with-vibe-coding-and-claude-m2b)
-- [parameter 與 argument](https://dev.to/codemee/parameter-yu-argument-162n)
-- [Mago digital](https://dev.to/david_bermenvliz/mago-digital-2gpj)
-- [The Hidden Breach: Secrets Leaked Outside the Codebase Pose a Serious Threat](https://dev.to/gitguardian/the-hidden-breach-secrets-leaked-outside-the-codebase-pose-a-serious-threat-1bid)
+- [Wireframes vs Mockups vs Prototypes: Are You Using the Right One?](https://dev.to/dct_technology/wireframes-vs-mockups-vs-prototypes-are-you-using-the-right-one-eil)
+- [React Native vs Flutter: Which One is Better for Your App in 2025?](https://dev.to/brilworks/react-native-vs-flutter-which-one-is-better-for-your-app-in-2025-4j23)
+- [Liam ERD: Reinventing Database Visualization](https://dev.to/route06/liam-erd-reinventing-database-visualization-kff)
+- [If you’re looking for a powerful, easy-to-use alternative, meet Teamcamp! It’s built for seamless project management, real-time collaboration, and effortless migration from Height.](https://dev.to/rajesh_patel/if-youre-looking-for-a-powerful-easy-to-use-alternative-meet-teamcamp-its-built-for-seamless-3293)
+- [Height is shutting down, but your projects don’t have to suffer. Teamcamp is the best alternative, with task automation, collaboration, and more!](https://dev.to/naik_sejal/height-is-shutting-down-but-your-projects-dont-have-to-suffer-teamcamp-is-the-best-alternative-4fe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
