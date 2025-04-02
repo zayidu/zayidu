@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#33 Stripe Integration Guide for Next.js 15 with Supabase](https://dev.to/flnzba/33-stripe-integration-guide-for-nextjs-15-with-supabase-13b5)
-- [Let’s Build Something for Nature and Humanity – Join the GreenPulse Community!](https://dev.to/mahmud-r-farhan/lets-build-something-for-nature-and-humanity-join-the-greenpulse-community-4i0d)
-- [Building a Robust Backend: From Fundamentals to Deployment](https://dev.to/uniyalmanas/building-a-robust-backend-from-fundamentals-to-deployment-1np4)
-- [Agentic AI in 2025: Definition, Architecture, and Real-World Applications](https://dev.to/gocodeo/agentic-ai-in-2025-definition-architecture-and-real-world-applications-4jj4)
-- [Comprehensive Overview of HTTP Caching](https://dev.to/leapcell/comprehensive-overview-of-http-caching-4b5e)
+- [Create an Email Drip Campaign Using Rails Vault](https://dev.to/railsdesigner/create-an-email-drip-campaign-using-rails-vault-2i7k)
+- [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
+- [Au](https://dev.to/ara_robert_lima/aula1--163d)
+- [Use async await with Array.map](https://dev.to/palchandu_dev/use-async-await-with-arraymap-4ia7)
+- [HashSet removing duplication in java](https://dev.to/v_inoth_f0fad29baec4c/hashset-removing-duplication-in-java-2dc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
