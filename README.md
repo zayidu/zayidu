@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Practical Guide to Cloud and Datacenter Decisions](https://dev.to/ravishan16/beyond-the-hype-a-practical-guide-to-cloud-and-datacenter-decisions-39da)
-- [My Software Development Process](https://dev.to/ikemcodedit/my-software-development-process-2i64)
-- [With an AI Interview Assistant, you can tackle tough technical and behavioral questions, identify weak points, and receive AI-powered coaching to enhance your performance. Have you tried an AI Interview Assistant before? What was your experience like?](https://dev.to/lockedinai1/with-an-ai-interview-assistant-you-can-tackle-tough-technical-and-behavioral-questions-identify-44e6)
-- [AI and Pizza: Can Language Models Take Your Order Without Messing It Up?](https://dev.to/owly/ai-and-pizza-can-language-models-take-your-order-without-messing-it-up-4n8i)
-- [Personal Project: Math Learning Tool](https://dev.to/simon_mei_81277acc9215249/personal-project-math-learning-tool-2fc8)
+- [Assistance with PHP Code?](https://dev.to/nick_scott_6711c9830e56a4/assistance-with-php-code-3ec0)
+- [How fast Kiponos.io modify configurations?](https://dev.to/kiponos/how-fast-kiponosio-modify-configurations-1ae1)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3ldp)
+- [The process of creating an effective Application Security Program: Strategies, Practices and tools for the best results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-2lj6)
+- [Exploring Next-Gen AI-Powered Code Completion Tools](https://dev.to/kartikmehta8/exploring-next-gen-ai-powered-code-completion-tools-mao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
