@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New mega update for my GameBoy style portfolio](https://dev.to/matteosant_dev/new-mega-update-for-my-gameboy-style-portfolio-kip)
-- [Learn How to Auto-Deploy a MongoDB Atlas Cluster with Terraform](https://dev.to/saint_vandora/learn-how-to-auto-deploy-a-mongodb-atlas-cluster-with-terraform-28m1)
-- [Upgrading sahansera.dev to Gatsby 5](https://dev.to/sahan/upgrading-sahanseradev-to-gatsby-5-3p99)
-- [How to Build a Internal Data App with Google Sheets Backend Using Streamlit](https://dev.to/morph-data/how-to-build-a-internal-data-app-with-google-sheets-backend-using-streamlit-27d8)
-- [HandCount: Real-Time Finger Counting with MediaPipe and OpenCV](https://dev.to/sripadh_sujith_1487e8db18/handcount-real-time-finger-counting-with-mediapipe-and-opencv-5c0h)
+- [Why PaaS Deployment Platforms are preferred by developers?](https://dev.to/kuberns_cloud/why-paas-deployment-platforms-are-preferred-by-developers-n1d)
+- [Should the Backend Be “Beautiful”?](https://dev.to/kaankaya/should-the-backend-be-beautiful-4a17)
+- [Getting started with Amazon Q Developer CLI](https://dev.to/aws/getting-started-with-amazon-q-developer-cli-4dkd)
+- [Install and Use Amazon Q AI Assistant on Mac](https://dev.to/aws-builders/install-and-use-amazon-q-ai-assistant-on-mac-p7k)
+- [How to Parse Environment Variables into DTO in .NET: AWS S3 Bucket Example](https://dev.to/juliashevchenko/how-to-parse-environment-variables-into-dto-in-net-2m8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
