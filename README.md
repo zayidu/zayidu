@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Assistance with PHP Code?](https://dev.to/nick_scott_6711c9830e56a4/assistance-with-php-code-3ec0)
-- [How fast Kiponos.io modify configurations?](https://dev.to/kiponos/how-fast-kiponosio-modify-configurations-1ae1)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3ldp)
-- [The process of creating an effective Application Security Program: Strategies, Practices and tools for the best results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-2lj6)
-- [Exploring Next-Gen AI-Powered Code Completion Tools](https://dev.to/kartikmehta8/exploring-next-gen-ai-powered-code-completion-tools-mao)
+- [AULA1 _Arquivo 0](https://dev.to/naiara_santos_c09fdf6b932/aula1-arquivo-0-3c8p)
+- [Terraform for DevOps: Managing Infrastructure Across Multiple Environments &lpar;Part 6&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-infrastructure-across-multiple-environments-part-6-5g6o)
+- [Calculate all the year/months included in the year/month interval — From SQL to SPL #15](https://dev.to/judith677/calculate-all-the-yearmonths-included-in-the-yearmonth-interval-from-sql-to-spl-15-54lg)
+- [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-j7i)
+- [DUMB DEV](https://dev.to/aniruddhaadak/dumb-dev-1c2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
