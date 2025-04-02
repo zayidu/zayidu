@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Field Attributes to multiple fields at once in Odoo](https://dev.to/trishan_fernando/adding-field-attributes-to-multiple-fields-at-once-in-odoo-h0l)
-- [IA filha e filhos da Nona](https://dev.to/adevilsonx/ia-filha-e-filhos-da-nona-2p9i)
-- [How to Write Maintainable Code: A Developer’s Guide to Future-Proofing Your Work](https://dev.to/imparaag/how-to-write-maintainable-code-a-developers-guide-to-future-proofing-your-work-2jc8)
-- [Probando Model Context Protocol &lpar;MCP&rpar; con Claude y una API real](https://dev.to/ronniemh/probando-model-context-protocol-mcp-con-claude-y-una-api-real-3a0d)
-- [Day 1: Linux Basics – The Power of Commands 🐧💻](https://dev.to/abdulrub/day-1-linux-basics-the-power-of-commands-3hl8)
+- [Multichannel vs. Omnichannel Strategies: A Comprehensive Guide](https://dev.to/ruvimbochibada1/multichannel-vs-omnichannel-strategies-a-comprehensive-guide-19hd)
+- [Structured Clone Algorithm in JavaScript](https://dev.to/omriluz1/structured-clone-algorithm-in-javascript-1lk1)
+- [🚀 Rethinking Deployment: Why Your Pipeline Is Slowing You Down](https://dev.to/kaminot/rethinking-deployment-why-your-pipeline-is-slowing-you-down-3g3j)
+- [Entendendo SOLID com Exemplos Práticos em TypeScript: Guia Definitivo 🎯](https://dev.to/josevitorsoares/entendendo-solid-com-exemplos-praticos-em-typescript-guia-definitivo-12mc)
+- [Te explicamos como evitar OOMKillers en contenedores java](https://dev.to/raulgonzalez/te-explicamos-como-evitar-oomkillers-en-contenedores-java-6kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
