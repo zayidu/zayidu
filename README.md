@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I Will Teach You SQL in 3 Minutes](https://dev.to/dehemi_fabio/i-will-teach-you-sql-in-3-minutes-3d1d)
+- [Postgres 🐘 vs. SQL Server: a Complete Comparison ⚖️ in 2025](https://dev.to/bytebase/postgres-vs-sql-server-a-complete-comparison-in-2025-3emf)
 - [AULA1 _Arquivo 0](https://dev.to/naiara_santos_c09fdf6b932/aula1-arquivo-0-3c8p)
 - [Terraform for DevOps: Managing Infrastructure Across Multiple Environments &lpar;Part 6&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-infrastructure-across-multiple-environments-part-6-5g6o)
 - [Calculate all the year/months included in the year/month interval — From SQL to SPL #15](https://dev.to/judith677/calculate-all-the-yearmonths-included-in-the-yearmonth-interval-from-sql-to-spl-15-54lg)
-- [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-j7i)
-- [DUMB DEV](https://dev.to/aniruddhaadak/dumb-dev-1c2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
