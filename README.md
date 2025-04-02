@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Guide Pt. 3: Setting Up and Testing RAID](https://dev.to/pltnvs/performance-guide-pt-3-setting-up-and-testing-raid-38df)
-- [Microsoft Is the Best &lpar;But Slow&rpar;, IBM Beats Most of OpenAI: What I Found Testing 50+ LLMs](https://dev.to/nikl/microsoft-is-the-best-but-slow-ibm-beats-most-of-openai-what-i-found-testing-50-llms-l3h)
-- [Why Do Devs Spend a Sprint on 20% of the features?](https://dev.to/flyee/why-do-devs-spend-a-sprint-on-20-of-the-features-2dai)
-- [Constant Folding in JVM: How the Compiler Makes Your Code Faster!](https://dev.to/mammadyahyayev/constant-folding-in-jvm-how-the-compiler-makes-your-code-faster-3ejn)
-- [🚀 How to Optimize Your React App for Better Performance](https://dev.to/dct_technology/how-to-optimize-your-react-app-for-better-performance-5p8)
+- [Efficient Video Processing in Rust: Leveraging Hardware Acceleration for High-Resolution Content](https://dev.to/yeauty/efficient-video-processing-in-rust-leveraging-hardware-acceleration-for-high-resolution-content-53fe)
+- [Why Companies Are Looking for PMO-Certified Professionals in 2025](https://dev.to/mansi_patil_ba50a09f10264/why-companies-are-looking-for-pmo-certified-professionals-in-2025-2c5e)
+- [The Best Open-Source Alternatives to AppSheet in 2025](https://dev.to/nocobase/the-best-open-source-alternatives-to-appsheet-in-2025-4nlh)
+- [Transpose of Matrix | GeeksforGeeks‬ Beginner&#39;s DSA Sheet | Full Solution Explained | With Source Code](https://dev.to/debeshpg90/transpose-of-matrix-geeksforgeeks-beginners-dsa-sheet-full-solution-explained-with-source-1n7a)
+- [The Role of Structural Drafting Services in Modern Construction: Q&amp;A Format](https://dev.to/synnoptech_cad_b9410c35d7/the-role-of-structural-drafting-services-in-modern-construction-qa-format-2fj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
