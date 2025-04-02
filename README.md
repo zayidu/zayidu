@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Super Slim Containerized Lambdas on AWS - Revisited](https://dev.to/aws-builders/building-super-slim-containerized-lambdas-on-aws-revisited-8m7)
-- [3º Projeto da Imersão Alura - Soldado](https://dev.to/juniordamazeno/3o-projeto-da-imersao-alura-soldado-4ei7)
-- [Introduction to React: Understanding the Basics-part.8](https://dev.to/nedajahanfar/introduction-to-react-understanding-the-basics-part8-5hie)
-- [Self-hosting n8n on Ubuntu Server](https://dev.to/code42cate/self-hosting-n8n-on-ubuntu-server-2p7h)
-- [AI-Powered Test Automation: Comparing the Best Tools for Smarter Testing](https://dev.to/asher_hartwell_f827d28b67/ai-powered-test-automation-comparing-the-best-tools-for-smarter-testing-48l5)
+- [Clojure Is Awesome!!! [PART 18]](https://dev.to/borba/clojure-is-awesome-part-18-23lk)
+- [Abstraction](https://dev.to/alisher0909/abstraction-1fgc)
+- [What Makes A 1 Year PGDM For Executives Different From A Traditional MBA?](https://dev.to/imtcdl_ghaziabad/what-makes-a-1-year-pgdm-for-executives-different-from-a-traditional-mba-2m5f)
+- [171/365 - Improved focus](https://dev.to/kameken100/171365-improved-focus-1ck3)
+- [How I built a spelling game with AWS Serverless and GenAI](https://dev.to/aws-builders/how-i-built-a-spelling-game-with-aws-serverless-and-genai-5d65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
