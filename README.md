@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FlashTokenizer: The World’s Fastest CPU Tokenizer](https://dev.to/springkim/flashtokenizer-the-worlds-fastest-cpu-tokenizer-3fd2)
-- [The Internet’s Roadmap: Discovering Network Routes with Traceroute](https://dev.to/rijultp/the-internets-roadmap-discovering-network-routes-with-traceroute-3nhk)
-- [Implementing an effective Application Security Program: Strategies, methods, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-299l)
-- [Week 1](https://dev.to/donnellycarroll/week-1-3c4g)
-- [From Frustration to Innovation: The Journey Behind My E-Commerce Platform](https://dev.to/yves3a/from-frustration-to-innovation-the-journey-behind-my-e-commerce-platform-2iac)
+- [JOKENPO ImersaoDEV Alura](https://dev.to/thimarques88/jokenpo-imersaodev-alura-27c)
+- [Why Every Developer Should Care About AI in Business](https://dev.to/bizriseadvisors/why-every-developer-should-care-about-ai-in-business-37ln)
+- [OCaml/Dune Tutorial](https://dev.to/david2am/ocamldune-tutorial-5688)
+- [Basic OCaml](https://dev.to/david2am/basic-ocaml-2j0g)
+- [Functional Programming and Why OCaml?](https://dev.to/david2am/functional-programming-and-why-ocaml-2eon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
