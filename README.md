@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multichannel vs. Omnichannel Strategies: A Comprehensive Guide](https://dev.to/ruvimbochibada1/multichannel-vs-omnichannel-strategies-a-comprehensive-guide-19hd)
-- [Structured Clone Algorithm in JavaScript](https://dev.to/omriluz1/structured-clone-algorithm-in-javascript-1lk1)
-- [🚀 Rethinking Deployment: Why Your Pipeline Is Slowing You Down](https://dev.to/kaminot/rethinking-deployment-why-your-pipeline-is-slowing-you-down-3g3j)
-- [Entendendo SOLID com Exemplos Práticos em TypeScript: Guia Definitivo 🎯](https://dev.to/josevitorsoares/entendendo-solid-com-exemplos-praticos-em-typescript-guia-definitivo-12mc)
-- [Te explicamos como evitar OOMKillers en contenedores java](https://dev.to/raulgonzalez/te-explicamos-como-evitar-oomkillers-en-contenedores-java-6kn)
+- [Agendador enc](https://dev.to/david_bermenvliz/agendador-enc-2gkc)
+- [Deploying Redis and an ECS Service with websocket on AWS with Terraform](https://dev.to/burgossrodrigo/deploying-redis-and-an-ecs-service-with-websocket-on-aws-with-terraform-1bc)
+- [Challenges in the UK Life Sciences Sector and the Role of Closeup CRM](https://dev.to/pharmacrm/challenges-in-the-uk-life-sciences-sector-and-the-role-of-closeup-crm-52k)
+- [gRPC for microservices in Kubernetes](https://dev.to/letsdotech/grpc-for-microservices-in-kubernetes-oel)
+- [Tutorial 31: 📱 UserDefaults and Keychain - Storing Small Amounts of Data Securely](https://dev.to/cl0udleadanis/tutorial-31-userdefaults-and-keychain-storing-small-amounts-of-data-securely-5a05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
