@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why PaaS Deployment Platforms are preferred by developers?](https://dev.to/kuberns_cloud/why-paas-deployment-platforms-are-preferred-by-developers-n1d)
-- [Should the Backend Be “Beautiful”?](https://dev.to/kaankaya/should-the-backend-be-beautiful-4a17)
-- [Getting started with Amazon Q Developer CLI](https://dev.to/aws/getting-started-with-amazon-q-developer-cli-4dkd)
-- [Install and Use Amazon Q AI Assistant on Mac](https://dev.to/aws-builders/install-and-use-amazon-q-ai-assistant-on-mac-p7k)
-- [How to Parse Environment Variables into DTO in .NET: AWS S3 Bucket Example](https://dev.to/juliashevchenko/how-to-parse-environment-variables-into-dto-in-net-2m8a)
+- [Understanding concepts in Event Driven Architectures &lpar;EDA&rpar;](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj)
+- [What Is MCP &lpar;Model Context Protocol&rpar;?](https://dev.to/carrie_luo1/what-is-mcp-model-context-protocol-5dlc)
+- [How to create a decentralized AI agent with Gaianet.](https://dev.to/tobysolutions/how-to-create-a-decentralized-ai-agent-with-gaianet-1mk)
+- [Apple Magic Keyboard &lpar;USB-C&rpar; function keys not working](https://dev.to/peter/apple-magic-keyboard-usb-c-function-keys-not-working-3kag)
+- [Let Cursor Talk to Your APIs in Minutes! The Magic Bridge You Never Knew You Needed](https://dev.to/apilover/let-cursor-talk-to-your-apis-in-minutes-the-magic-bridge-you-never-knew-you-needed-4751)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
