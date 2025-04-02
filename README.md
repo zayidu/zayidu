@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I WANT TALK ABOUT LINUX SYSTEM ADMINISTRATION,INTRODUCTION TO LINUX AND SOME COMMAND LINES.](https://dev.to/sirvicky1/i-want-talk-about-linux-system-administrationintroduction-to-linux-and-some-command-lines-3ick)
-- [Consolidado](https://dev.to/david_bermenvliz/consolidado-2ec4)
-- [📱 Generate and Extract APKs from AAB Using BundleTool](https://dev.to/amitkumar13/generate-and-extract-apks-from-aab-using-bundletool-2jp9)
-- [Tutorial 28: Using Collection Views for Complex Layouts 📰📱](https://dev.to/cl0udleadanis/tutorial-28-using-collection-views-for-complex-layouts-ap6)
-- [Synonymic Query Expansion for Smarter Search](https://dev.to/sathish/synonymic-query-expansion-for-smarter-search-h87)
+- [Adding Field Attributes to multiple fields at once in Odoo](https://dev.to/trishan_fernando/adding-field-attributes-to-multiple-fields-at-once-in-odoo-h0l)
+- [IA filha e filhos da Nona](https://dev.to/adevilsonx/ia-filha-e-filhos-da-nona-2p9i)
+- [How to Write Maintainable Code: A Developer’s Guide to Future-Proofing Your Work](https://dev.to/imparaag/how-to-write-maintainable-code-a-developers-guide-to-future-proofing-your-work-2jc8)
+- [Probando Model Context Protocol &lpar;MCP&rpar; con Claude y una API real](https://dev.to/ronniemh/probando-model-context-protocol-mcp-con-claude-y-una-api-real-3a0d)
+- [Day 1: Linux Basics – The Power of Commands 🐧💻](https://dev.to/abdulrub/day-1-linux-basics-the-power-of-commands-3hl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
