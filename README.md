@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an Email Drip Campaign Using Rails Vault](https://dev.to/railsdesigner/create-an-email-drip-campaign-using-rails-vault-2i7k)
-- [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
-- [Au](https://dev.to/ara_robert_lima/aula1--163d)
-- [Use async await with Array.map](https://dev.to/palchandu_dev/use-async-await-with-arraymap-4ia7)
-- [HashSet removing duplication in java](https://dev.to/v_inoth_f0fad29baec4c/hashset-removing-duplication-in-java-2dc4)
+- [I WANT TALK ABOUT LINUX SYSTEM ADMINISTRATION,INTRODUCTION TO LINUX AND SOME COMMAND LINES.](https://dev.to/sirvicky1/i-want-talk-about-linux-system-administrationintroduction-to-linux-and-some-command-lines-3ick)
+- [Consolidado](https://dev.to/david_bermenvliz/consolidado-2ec4)
+- [📱 Generate and Extract APKs from AAB Using BundleTool](https://dev.to/amitkumar13/generate-and-extract-apks-from-aab-using-bundletool-2jp9)
+- [Tutorial 28: Using Collection Views for Complex Layouts 📰📱](https://dev.to/cl0udleadanis/tutorial-28-using-collection-views-for-complex-layouts-ap6)
+- [Synonymic Query Expansion for Smarter Search](https://dev.to/sathish/synonymic-query-expansion-for-smarter-search-h87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
