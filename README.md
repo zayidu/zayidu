@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 18]](https://dev.to/borba/clojure-is-awesome-part-18-23lk)
-- [Abstraction](https://dev.to/alisher0909/abstraction-1fgc)
-- [What Makes A 1 Year PGDM For Executives Different From A Traditional MBA?](https://dev.to/imtcdl_ghaziabad/what-makes-a-1-year-pgdm-for-executives-different-from-a-traditional-mba-2m5f)
-- [171/365 - Improved focus](https://dev.to/kameken100/171365-improved-focus-1ck3)
-- [How I built a spelling game with AWS Serverless and GenAI](https://dev.to/aws-builders/how-i-built-a-spelling-game-with-aws-serverless-and-genai-5d65)
+- [#33 Stripe Integration Guide for Next.js 15 with Supabase](https://dev.to/flnzba/33-stripe-integration-guide-for-nextjs-15-with-supabase-13b5)
+- [Let’s Build Something for Nature and Humanity – Join the GreenPulse Community!](https://dev.to/mahmud-r-farhan/lets-build-something-for-nature-and-humanity-join-the-greenpulse-community-4i0d)
+- [Building a Robust Backend: From Fundamentals to Deployment](https://dev.to/uniyalmanas/building-a-robust-backend-from-fundamentals-to-deployment-1np4)
+- [Agentic AI in 2025: Definition, Architecture, and Real-World Applications](https://dev.to/gocodeo/agentic-ai-in-2025-definition-architecture-and-real-world-applications-4jj4)
+- [Comprehensive Overview of HTTP Caching](https://dev.to/leapcell/comprehensive-overview-of-http-caching-4b5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
