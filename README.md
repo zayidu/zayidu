@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Better Error Messages in 3 Minutes](https://dev.to/arnaudhrt/write-better-error-messages-in-3-minutes-34n9)
-- [JavaScript Interview Questions in 2025](https://dev.to/lauren_martin_1fcd303e3cb/javascript-interview-questions-in-2025-12f7)
-- [GraphQL vs REST: A Technical Deep Dive into API Design](https://dev.to/getambassador2024/graphql-vs-rest-a-technical-deep-dive-into-api-design-948)
-- [Mastering Python Development: The Key to a Successful Tech Career](https://dev.to/vishal_more_02990955c9358/mastering-python-development-the-key-to-a-successful-tech-career-3b2)
-- [Summed Matrix | GeeksforGeeks‬ Beginner&#39;s DSA Sheet | Matrix Problems | With Source Code](https://dev.to/debeshpg90/summed-matrix-geeksforgeeks-beginners-dsa-sheet-matrix-problems-with-source-code-227j)
+- [7 Top API Documentation Software Tools 2025 &lpar;With Reviews and Pricing&rpar;✨](https://dev.to/fallon_jimmy/7-top-api-documentation-software-tools-2025-with-reviews-and-pricing-2k94)
+- [Computación Eficiente · Nº1](https://dev.to/aws-espanol/computacion-eficiente-numero-1-3649)
+- [SQL Temporary Tables: A Quick and Practical Guide](https://dev.to/dbvismarketing/sql-temporary-tables-a-quick-and-practical-guide-bl1)
+- [Top Machine Learning Consulting](https://dev.to/anthony_simms/top-machine-learning-consulting-23i0)
+- [Vibe Coding: The Future of Creative Programming](https://dev.to/mahas1234/vibe-coding-the-future-of-creative-programming-52n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
