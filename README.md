@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Top API Documentation Software Tools 2025 &lpar;With Reviews and Pricing&rpar;✨](https://dev.to/fallon_jimmy/7-top-api-documentation-software-tools-2025-with-reviews-and-pricing-2k94)
-- [Computación Eficiente · Nº1](https://dev.to/aws-espanol/computacion-eficiente-numero-1-3649)
-- [SQL Temporary Tables: A Quick and Practical Guide](https://dev.to/dbvismarketing/sql-temporary-tables-a-quick-and-practical-guide-bl1)
-- [Top Machine Learning Consulting](https://dev.to/anthony_simms/top-machine-learning-consulting-23i0)
-- [Vibe Coding: The Future of Creative Programming](https://dev.to/mahas1234/vibe-coding-the-future-of-creative-programming-52n2)
+- [Observables ♦️ Signals ♦️ Callforwards: 3 ways to manage reactive state](https://dev.to/dariomannu/observables-signals-callforwards-managing-reactive-state-114e)
+- [Sustainable DevOps: Building a Greener Future](https://dev.to/priyanka_priyanka_ba12a34/sustainable-devops-building-a-greener-future-1p7b)
+- [Error Propagation with Custom Error Types](https://dev.to/omriluz1/error-propagation-with-custom-error-types-4i70)
+- [How to Choose a Crypto Loan Platform](https://dev.to/kaankaya/how-to-choose-a-crypto-loan-platform-5h8n)
+- [Discovering European Open Source Projects at KubeCon London](https://dev.to/simone_morellato/discovering-european-open-source-projects-at-kubecon-london-15ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
