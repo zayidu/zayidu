@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Laravel Cookie Consent – The Ultimate GDPR Compliance Solution for Laravel](https://dev.to/devrabiul/introducing-laravel-cookie-consent-the-ultimate-gdpr-compliance-solution-for-laravel-2kmf)
-- [The Render Props Pattern in React: A Flexible Approach to Component Reusability](https://dev.to/maximlogunov/the-render-props-pattern-in-react-a-flexible-approach-to-component-reusability-3imb)
-- [Getting Started with Azure for AWS Professionals: A Quick Guide](https://dev.to/rexben001/getting-started-with-azure-for-aws-professionals-a-quick-guide-25e8)
-- [🚀 Enhancing Your React Native Codebase: Best Practices &amp; Modern Tooling](https://dev.to/ersuman/enhancing-your-react-native-codebase-best-practices-modern-tooling-2h3e)
-- [Exploring the Drip Network: The Community-Driven DeFi Revolution Illuminated](https://dev.to/laetitiaperraut/exploring-the-drip-network-the-community-driven-defi-revolution-illuminated-5076)
+- [Introducing LinguaSignAI: Real-Time American Sign Language Detection](https://dev.to/rohan_khan_c5830d05075a08/introducing-linguasignai-real-time-american-sign-language-detection-23f5)
+- [Getting Started with Angular Signals: A Beginner’s Guide Part 1](https://dev.to/galpodlipnik/getting-started-with-angular-signals-a-beginners-guide-part-1-2kg5)
+- [[Boost]](https://dev.to/elizabeth8012/-4bb7)
+- [Evaluating the Legitimacy of Drip Network: A Comprehensive Analysis](https://dev.to/ahmmrizv9/evaluating-the-legitimacy-of-drip-network-a-comprehensive-analysis-1h86)
+- [Aula02 - Arquivo0](https://dev.to/naiara_santos_c09fdf6b932/aula02-arquivo0-307b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
