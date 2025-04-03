@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
-- [Desire for Structure &lpar;read “SQL”&rpar;](https://dev.to/benedetto_proietti/desire-for-structure-read-sql-ofh)
-- [Three Ways to Fight AI Crawlers](https://dev.to/this-is-learning/three-ways-to-fight-ai-crawlers-1c2f)
-- [Comparison Between Fetch and Axios: Usage, Differences, and Real-World Applications](https://dev.to/engrsakib/comparison-between-fetch-and-axios-usage-differences-and-real-world-applications-36on)
-- [Much useful content](https://dev.to/nj23/much-usefule-53nn)
+- [Building a Simple Dodge Game with HTML Canvas and JavaScript](https://dev.to/diegoavenda/building-a-simple-dodge-game-with-html-canvas-and-javascript-47jf)
+- [FantasIA](https://dev.to/david_bermenvliz/fantasia-4co3)
+- [&quot;Revolutionizing Rescue: The Future of Robots and Communication in Emergencies&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-rescue-the-future-of-robots-and-communication-in-emergencies-568d)
+- [Leveraging the TS type system with APIs: Validation, error handling and free OpenAPI specs](https://dev.to/petemcfarlane/leveraging-the-ts-type-system-with-apis-validation-error-handling-and-free-openapi-specs-261h)
+- [Getting Started with Power BI: A Step-by-Step Guide](https://dev.to/surendergupta/getting-started-with-power-bi-a-step-by-step-guide-44ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
