@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an effective application security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-the-4gh2)
-- [The Role of Smart Technologies in Power Cable Engineering and Maintenance](https://dev.to/leadvent_172e38f89cc7ca98/the-role-of-smart-technologies-in-power-cable-engineering-and-maintenance-3068)
-- [Stock Management System](https://dev.to/shaikr786/stock-management-system-2ilh)
-- [Static](https://dev.to/sugumar_r_a5f301adf1fb49a/static-2k8o)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2989)
+- [You don&#39;t need Figma](https://dev.to/levi_v/you-dont-need-figma-3djb)
+- [Backend Software Engineers are Designers and Artists Too](https://dev.to/tomjohnson3/backend-software-engineers-are-designers-and-artists-too-4b05)
+- [9 Best Practices for Code Reviews](https://dev.to/ed_dfreitas/9-best-practices-for-code-reviews-c1o)
+- [How to use docker exec to interact with running containers](https://dev.to/logrocket/how-to-use-docker-exec-to-interact-with-running-containers-3mnk)
+- [Why I Use Flask. And Maybe You Should Too...](https://dev.to/rz_edits/why-i-use-flask-and-maybe-you-should-too-3d8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
