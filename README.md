@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2: Billing and Purchase Option](https://dev.to/shiv15/ec2-billing-and-purchase-option-2iop)
-- [My first real Project, made with AI](https://dev.to/lennydevx/my-first-real-project-made-with-ai-2043)
-- [Cloud Server vs Serverless Instance](https://dev.to/eagle_119/cloud-server-vs-serverless-instance-jm1)
-- [HarmonyOS for Android Devs: Environment Setup](https://dev.to/otako_q/harmonyos-for-android-devs-environment-setup-4hjp)
-- [Shhh, It&#39;s a Secret! Using Pulumi ESC &amp; AWS Lambda for Secure Secrets Management](https://dev.to/techondiapers/shhh-its-a-secret-using-pulumi-esc-aws-lambda-for-secure-secrets-management-1kbn)
+- [How to simplify MongoDB queries with esProc](https://dev.to/esproc_spl/how-to-simplify-mongodb-queries-with-esproc-402b)
+- [The Rise of Self-Healing Test Automation: How AI is Changing Testing in 2025](https://dev.to/anil_csimplifyit_905c/the-rise-of-self-healing-test-automation-how-ai-is-changing-testing-in-2025-2e4)
+- [What Is the Best Ide for Developers in 2025?](https://dev.to/rociogarciavf/what-is-the-best-ide-for-developers-in-2025-4m8l)
+- [Building a Serverless URL Shortener: A Practical AWS Project](https://dev.to/aws-builders/building-a-serverless-url-shortener-a-practical-aws-project-3e7l)
+- [Serverless Photo-Sharing Application on AWS](https://dev.to/keyurmodi/serverless-photo-sharing-application-on-aws-2215)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
