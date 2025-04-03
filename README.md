@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash the power and flexibility of Laravel Facades](https://dev.to/hamzasehouli/unleash-the-power-and-flexibility-of-laravel-facades-1knh)
-- [The Future of Data Analytics: Trends to Watch in 2025 and Beyond](https://dev.to/lekshmi_525/the-future-of-data-analytics-trends-to-watch-in-2025-and-beyond-m8i)
-- [Comparing AI SDKs for React: Vercel, LangChain, Hugging Face](https://dev.to/brayancodes/comparing-ai-sdks-for-react-vercel-langchain-hugging-face-4g4g)
-- [Laravel Herd, The Easy PHP Dev Solution on Windows](https://dev.to/hamzasehouli/laravel-herd-the-easy-php-dev-solution-on-windows-nba)
-- [Using the `float` Property in CSS](https://dev.to/thedevspace/using-the-float-property-in-css-150o)
+- [What is a Test Plan? A Complete Guide to Software Testing Strategy](https://dev.to/keploy/what-is-a-test-plan-a-complete-guide-to-software-testing-strategy-5ddg)
+- [Latency v/s Throughput – What’s Slowing You Down?](https://dev.to/parulchaddha/latency-vs-throughput-whats-slowing-you-down-4kl5)
+- [What is SOAR?](https://dev.to/clouddefenseai/what-is-soar-1ap)
+- [[Boost]](https://dev.to/gq23401/-lek)
+- [Role-based access control in Laravel with Spatie’s Laravel-permission package](https://dev.to/hamzasehouli/role-based-access-control-in-laravel-with-spaties-laravel-permission-package-37ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
