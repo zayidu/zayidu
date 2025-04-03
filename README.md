@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Effective Hiring Strategy: Balancing Lateral and Fresher Recruitment](https://dev.to/donsuk_consulting_09/how-to-build-an-effective-hiring-strategy-balancing-lateral-and-fresher-recruitment-43al)
-- [Innovative Chatbot Development: Shaping the Future of Customer Service](https://dev.to/anthony_simms/innovative-chatbot-development-shaping-the-future-of-customer-service-bi0)
-- [I created a tool that helps you learn from YouTube faster and more efficiently!](https://dev.to/realhardik18/i-created-a-tool-that-helps-you-learn-from-youtube-faster-and-more-efficiently-2pkd)
-- [How to Share a Svelte App from Localhost Using Pinggy](https://dev.to/lightningdev123/how-to-share-a-svelte-app-from-localhost-using-pinggy-23bp)
-- [The Top Social Trading Apps of 2025](https://dev.to/nvstly/the-top-social-trading-apps-of-2025-118)
+- [How to create cool project using ElectronJS framework ✿](https://dev.to/shelly_agarwal_19/how-to-create-cool-project-using-electronjs-framework-deg-458e)
+- [Once the Java Sustaining](https://dev.to/rahul_d_69c56a981e11c6728/once-the-java-sustaining-1847)
+- [From data to 3D visualization! Introducing five terrain tile generation software including GISBox](https://dev.to/gisbox/from-data-to-3d-visualization-introducing-five-terrain-tile-generation-software-including-gisbox-410d)
+- [Binance Smart Chain a Complete Guide to Beginners and its Trends in 2025](https://dev.to/abijohn/binance-smart-chain-a-complete-guide-to-beginners-and-its-trends-in-2025-2a01)
+- [Writing an LLM Eval with Vercel&#39;s AI SDK and Vitest](https://dev.to/xata/writing-an-llm-eval-with-vercels-ai-sdk-and-vitest-4pfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
