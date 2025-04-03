@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use the array filter&lpar;&rpar; method in JavaScript](https://dev.to/logrocket/how-to-use-the-array-filter-method-in-javascript-43e6)
-- [Beyond translations in Stimulus: formatting dates, time and currency](https://dev.to/railsdesigner/beyond-translations-in-stimulus-formatting-dates-time-and-currency-52o5)
-- [Google Cloud Pub/Sub: A Deep Dive](https://dev.to/swayam_sampad_e68f2950997/google-cloud-pubsub-a-deep-dive-13pe)
-- [React Best Practices: Maintaining Large Scale Projects](https://dev.to/buttercms/react-best-practices-maintaining-large-scale-projects-3kbo)
-- [Spring Boot,Annotation](https://dev.to/v_inoth_f0fad29baec4c/spring-bootannotation-hc9)
+- [11 ChatGPT Prompt Frameworks Every Marketer Should Know](https://dev.to/buttercms/11-chatgpt-prompt-frameworks-every-marketer-should-know-45co)
+- [LightKey: onboard_user.AI&lpar;&rpar;](https://dev.to/renderedreality/lightkey-onboarduserai-4n6o)
+- [Aula4_Imersão Dev](https://dev.to/wedne_morais_7862f80bd27e/aula4imersao-dev-1156)
+- [🎧 Coding Soundscapes: Music, Podcasts, or Silence? 🔇](https://dev.to/alina_khmilevska_lee/coding-soundscapes-music-podcasts-or-silence-27df)
+- [Keeping Your Services Up and Running: A Friendly Guide to High Availability](https://dev.to/lovestaco/keeping-your-services-up-and-running-a-friendly-guide-to-high-availability-1ja7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
