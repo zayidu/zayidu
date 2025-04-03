@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need Figma](https://dev.to/levi_v/you-dont-need-figma-3djb)
-- [Backend Software Engineers are Designers and Artists Too](https://dev.to/tomjohnson3/backend-software-engineers-are-designers-and-artists-too-4b05)
-- [9 Best Practices for Code Reviews](https://dev.to/ed_dfreitas/9-best-practices-for-code-reviews-c1o)
-- [How to use docker exec to interact with running containers](https://dev.to/logrocket/how-to-use-docker-exec-to-interact-with-running-containers-3mnk)
-- [Why I Use Flask. And Maybe You Should Too...](https://dev.to/rz_edits/why-i-use-flask-and-maybe-you-should-too-3d8j)
+- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
+- [Desire for Structure &lpar;read “SQL”&rpar;](https://dev.to/benedetto_proietti/desire-for-structure-read-sql-ofh)
+- [Three Ways to Fight AI Crawlers](https://dev.to/this-is-learning/three-ways-to-fight-ai-crawlers-1c2f)
+- [Comparison Between Fetch and Axios: Usage, Differences, and Real-World Applications](https://dev.to/engrsakib/comparison-between-fetch-and-axios-usage-differences-and-real-world-applications-36on)
+- [Much useful content](https://dev.to/nj23/much-usefule-53nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
