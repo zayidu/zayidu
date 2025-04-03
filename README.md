@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Dodge Game with HTML Canvas and JavaScript](https://dev.to/diegoavenda/building-a-simple-dodge-game-with-html-canvas-and-javascript-47jf)
-- [FantasIA](https://dev.to/david_bermenvliz/fantasia-4co3)
-- [&quot;Revolutionizing Rescue: The Future of Robots and Communication in Emergencies&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-rescue-the-future-of-robots-and-communication-in-emergencies-568d)
-- [Leveraging the TS type system with APIs: Validation, error handling and free OpenAPI specs](https://dev.to/petemcfarlane/leveraging-the-ts-type-system-with-apis-validation-error-handling-and-free-openapi-specs-261h)
-- [Getting Started with Power BI: A Step-by-Step Guide](https://dev.to/surendergupta/getting-started-with-power-bi-a-step-by-step-guide-44ic)
+- [How to use the array filter&lpar;&rpar; method in JavaScript](https://dev.to/logrocket/how-to-use-the-array-filter-method-in-javascript-43e6)
+- [Beyond translations in Stimulus: formatting dates, time and currency](https://dev.to/railsdesigner/beyond-translations-in-stimulus-formatting-dates-time-and-currency-52o5)
+- [Google Cloud Pub/Sub: A Deep Dive](https://dev.to/swayam_sampad_e68f2950997/google-cloud-pubsub-a-deep-dive-13pe)
+- [React Best Practices: Maintaining Large Scale Projects](https://dev.to/buttercms/react-best-practices-maintaining-large-scale-projects-3kbo)
+- [Spring Boot,Annotation](https://dev.to/v_inoth_f0fad29baec4c/spring-bootannotation-hc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
