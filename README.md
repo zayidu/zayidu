@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to simplify MongoDB queries with esProc](https://dev.to/esproc_spl/how-to-simplify-mongodb-queries-with-esproc-402b)
-- [The Rise of Self-Healing Test Automation: How AI is Changing Testing in 2025](https://dev.to/anil_csimplifyit_905c/the-rise-of-self-healing-test-automation-how-ai-is-changing-testing-in-2025-2e4)
-- [What Is the Best Ide for Developers in 2025?](https://dev.to/rociogarciavf/what-is-the-best-ide-for-developers-in-2025-4m8l)
-- [Building a Serverless URL Shortener: A Practical AWS Project](https://dev.to/aws-builders/building-a-serverless-url-shortener-a-practical-aws-project-3e7l)
-- [Serverless Photo-Sharing Application on AWS](https://dev.to/keyurmodi/serverless-photo-sharing-application-on-aws-2215)
+- [Unleash the power and flexibility of Laravel Facades](https://dev.to/hamzasehouli/unleash-the-power-and-flexibility-of-laravel-facades-1knh)
+- [The Future of Data Analytics: Trends to Watch in 2025 and Beyond](https://dev.to/lekshmi_525/the-future-of-data-analytics-trends-to-watch-in-2025-and-beyond-m8i)
+- [Comparing AI SDKs for React: Vercel, LangChain, Hugging Face](https://dev.to/brayancodes/comparing-ai-sdks-for-react-vercel-langchain-hugging-face-4g4g)
+- [Laravel Herd, The Easy PHP Dev Solution on Windows](https://dev.to/hamzasehouli/laravel-herd-the-easy-php-dev-solution-on-windows-nba)
+- [Using the `float` Property in CSS](https://dev.to/thedevspace/using-the-float-property-in-css-150o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
