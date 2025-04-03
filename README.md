@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Mostly Used Docker Commands](https://dev.to/dilumdarshana/my-mostly-used-docker-commands-39mh)
-- [DMarket and Cyberwarfare: Bridging the Virtual and Real Worlds](https://dev.to/laetitiaperraut/dmarket-and-cyberwarfare-bridging-the-virtual-and-real-worlds-31b1)
-- [6 Best B2B Email Marketing Automation Tools](https://dev.to/piyushsingh_22/6-best-b2b-email-marketing-automation-tools-24g8)
-- [Level Up Your Auto-Tagging Pipeline on AWS](https://dev.to/aws-builders/level-up-your-auto-tagging-pipeline-on-aws-4abj)
-- [Stop wrestling with mocks](https://dev.to/shailendraht/stop-wrestling-with-mocks-3pfo)
+- [How to create an effective application security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-the-4gh2)
+- [The Role of Smart Technologies in Power Cable Engineering and Maintenance](https://dev.to/leadvent_172e38f89cc7ca98/the-role-of-smart-technologies-in-power-cable-engineering-and-maintenance-3068)
+- [Stock Management System](https://dev.to/shaikr786/stock-management-system-2ilh)
+- [Static](https://dev.to/sugumar_r_a5f301adf1fb49a/static-2k8o)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2989)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
