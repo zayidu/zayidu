@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [11 ChatGPT Prompt Frameworks Every Marketer Should Know](https://dev.to/buttercms/11-chatgpt-prompt-frameworks-every-marketer-should-know-45co)
-- [LightKey: onboard_user.AI&lpar;&rpar;](https://dev.to/renderedreality/lightkey-onboarduserai-4n6o)
-- [Aula4_Imersão Dev](https://dev.to/wedne_morais_7862f80bd27e/aula4imersao-dev-1156)
-- [🎧 Coding Soundscapes: Music, Podcasts, or Silence? 🔇](https://dev.to/alina_khmilevska_lee/coding-soundscapes-music-podcasts-or-silence-27df)
-- [Keeping Your Services Up and Running: A Friendly Guide to High Availability](https://dev.to/lovestaco/keeping-your-services-up-and-running-a-friendly-guide-to-high-availability-1ja7)
+- [Congrats to the KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-kendoreact-free-components-challenge-winners-f8f)
+- [HandBrake ile Video Dönüştürme ve Sıkıştırma Rehberi](https://dev.to/eagledofficial/handbrake-ile-video-donusturme-ve-sikistirma-rehberi-4g7o)
+- [Monorepo Tutorial With Lerna, Storybook &amp; Next.js](https://dev.to/buttercms/monorepo-tutorial-with-lerna-storybook-nextjs-5l3)
+- [From Tutorial Hell to Hands-On Mastery: How to Actually Learn Backend Development 🚀🔥](https://dev.to/piyush_sati_0409/from-tutorial-hell-to-hands-on-mastery-how-to-actually-learn-backend-development-2po9)
+- [Azure Bicep Decorators: A Comprehensive Guide](https://dev.to/saadmsft/azure-bicep-decorators-a-comprehensive-guide-3j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
