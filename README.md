@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JOKENPO ImersaoDEV Alura](https://dev.to/thimarques88/jokenpo-imersaodev-alura-27c)
-- [Why Every Developer Should Care About AI in Business](https://dev.to/bizriseadvisors/why-every-developer-should-care-about-ai-in-business-37ln)
-- [OCaml/Dune Tutorial](https://dev.to/david2am/ocamldune-tutorial-5688)
-- [Basic OCaml](https://dev.to/david2am/basic-ocaml-2j0g)
-- [Functional Programming and Why OCaml?](https://dev.to/david2am/functional-programming-and-why-ocaml-2eon)
+- [Time Durations and Calculations in Go 3/10](https://dev.to/rezmoss/time-durations-and-calculations-in-go-310-maf)
+- [Developing AI-Powered Supply Chain Optimization Systems](https://dev.to/kartikmehta8/developing-ai-powered-supply-chain-optimization-systems-4b6p)
+- [OS page replacement &lpar;FIFO and LRU&rpar; animation](https://dev.to/yintokey/os-page-replacement-fifo-and-lru-animation-1i55)
+- [🚀 Laravel 12 Resmi Rilis! Inilah Fitur-Fitur Terbarunya yang Bikin Ngoding Makin Seru!](https://dev.to/kompak_akademi/series-belajar-laravel-12-fitur-terbaru-yang-bikin-ngoding-makin-seru--4b99)
+- [3 anos, 1 mês e 16 dias](https://dev.to/wivsonmachado/3-anos-1-mes-e-16-dias-540i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
