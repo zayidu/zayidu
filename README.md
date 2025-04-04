@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 20]](https://dev.to/borba/clojure-is-awesome-part-20-56bk)
-- [Introducing Greening: Ship Beautiful Software, Fast](https://dev.to/chrisgreening/introducing-greening-ship-beautiful-software-fast-55do)
-- [Network Virtualization – The Future of Scalable IT Infrastructure](https://dev.to/kevin_asutton_/network-virtualization-the-future-of-scalable-it-infrastructure-1lop)
-- [Rangkuman Rust: Variables and Mutability](https://dev.to/driannaird/rangkuman-rust-variables-and-mutability-4nbn)
-- [🧠 From Notebook to Web App: Building a Handwritten Digit Recognizer with TensorFlow &amp; Streamlit](https://dev.to/piyushkumarghosh/from-notebook-to-web-app-building-a-handwritten-digit-recognizer-with-tensorflow-streamlit-79a)
+- [Optimizing Docker Image Builds for Speed &amp; Efficiency](https://dev.to/docker/optimizing-docker-image-builds-for-speed-efficiency-17b)
+- [🔥 Most marketing fails, but not for the reasons you think! This article breaks down Ashkan Rajaee’s take on why and how to fix it. A must-read for #sales, #copywriting, and #data-driven marketing! 🚀 #ashkanrajaee](https://dev.to/marcusquinn05/most-marketing-fails-but-not-for-the-reasons-you-think-this-article-breaks-down-ashkan-rajaees-26kd)
+- [How to Build Your Own Bluetooth Scriptable Sniffer for Under $30](https://dev.to/bleuiot/how-to-build-your-own-bluetooth-scriptable-sniffer-for-under-30-4g1i)
+- [LUA parser for Apple Homekit using BleuIO](https://dev.to/bleuiot/lua-parser-for-apple-homekit-using-bleuio-4leb)
+- [Firebase project fails](https://dev.to/seosiri/firebase-project-fails-39hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
