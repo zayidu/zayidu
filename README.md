@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Generations: Running COBOL on Kubernetes with EFS](https://dev.to/semperfitodd/bridging-generations-running-cobol-on-kubernetes-with-efs-pgk)
-- [what is tRPC ? how to use it in react project?](https://dev.to/santoshpremi/what-is-trpc-how-to-use-it-in-react-project-38o5)
-- [🚀 How Amazon Shapes the Future of Dev &amp; Cloud ☁️](https://dev.to/cecile_agrios_8f41df14128/how-amazon-shapes-the-future-of-dev-cloud-14h5)
-- [🚀 Readme Forge: The Ultimate README Generator for Developers](https://dev.to/senathenu/readme-forge-the-ultimate-readme-generator-for-developers-bgd)
-- [How to Integrate API: A Simple Guide for Beginners](https://dev.to/kervi_11_/how-to-integrate-api-a-simple-guide-for-beginners-36pn)
+- [The Second Step into the World of RxJS: RxJS Operators — How to Learn and Why They Are Needed](https://dev.to/artstesh/the-second-step-into-the-world-of-rxjs-rxjs-operators-how-to-learn-and-why-they-are-needed-1f22)
+- [Recursion in JavaScript](https://dev.to/darenporretto/recursion-in-javascript-di0)
+- [[Boost]](https://dev.to/stakosh/-2ccm)
+- [Preparing COBOL Error Data for Machine Learning in SageMaker](https://dev.to/semperfitodd/preparing-cobol-error-data-for-machine-learning-in-sagemaker-2b54)
+- [iHateReading UI: 50+ React Tailwind building components](https://dev.to/shreyvijayvargiya/ihatereading-ui-50-react-tailwind-building-components-2mmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
