@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering the Potential of Drip Network](https://dev.to/jennythomas498/discovering-the-potential-of-drip-network-59i5)
-- [Teaching Code in the AI Era: Why Fundamentals Still Matter](https://dev.to/aspittel/teaching-code-in-the-ai-era-why-fundamentals-still-matter-1k1g)
-- [Exploring Next.js 15 and Server Actions: Features and Best Practices](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-features-and-best-practices-1393)
-- [My experience as technical content](https://dev.to/rahul_d_69c56a981e11c6728/my-experience-as-technical-content-21a6)
-- [What Can You Actually Make With Electronics?](https://dev.to/buono/what-can-you-actually-make-with-electronics-1p3g)
+- [⚡️10 JavaScript One-Liners That Will Blow Your Mind &lpar;and Save You HOURS of Coding&rpar;](https://dev.to/dct_technology/10-javascript-one-liners-that-will-blow-your-mind-and-save-you-hours-of-coding-5g6h)
+- [The Hero Developer Must Die: My Journey from Midnight Savior to Team Builder](https://dev.to/codeshipper/the-hero-developer-must-die-my-journey-from-midnight-savior-to-team-builder-50k2)
+- [This AI Tool Changes Podcasts Forever – Must See!](https://dev.to/vaibhav_patel_bb722d8b3e3/this-ai-tool-changes-podcasts-forever-must-see-40go)
+- [Gemini 2.5: A Data Engineer&#39;s Perspective on the Next-Gen AI Model](https://dev.to/swayam_sampad_e68f2950997/gemini-25-a-data-engineers-perspective-on-the-next-gen-ai-model-4nk8)
+- [todo](https://dev.to/codelover405/todo-40li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
