@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Test Data Generation: Ensuring Quality with Synthetic Data](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-powered-test-data-generation-ensuring-quality-with-synthetic-data-5h1f)
-- [DuckDB 🦆: Unleashing the Powerhouse Query Engine Within](https://dev.to/mikekenneth77/duckdb-unleashing-the-powerhouse-query-engine-within-5286)
-- [Unlocking Passive Income: The Drip Network Guide](https://dev.to/zhangwei42/unlocking-passive-income-the-drip-network-guide-4pfo)
-- [Fragmentation of Linux and impact on packaging](https://dev.to/golf-lang/fragmentation-of-linux-and-impact-on-packaging-5akm)
-- [EXPLORING BASIC LINUX COMMANDS: MY LEARNING JOURNEY](https://dev.to/rammy/exploring-basic-linux-commands-my-learning-journey-4jbg)
+- [DuckDB 🦆 : Libérez le puissant moteur de Requêtes](https://dev.to/mikekenneth77/duckdb-liberez-le-puissant-moteur-de-requetes-1977)
+- [The Drip Network Team: Innovators in DeFi](https://dev.to/laetitiaperraut/the-drip-network-team-innovators-in-defi-1kda)
+- [SOHO Networking](https://dev.to/andrew_despres/soho-networking-afl)
+- [Conversor de Wons](https://dev.to/danielcezar/conversor-de-wons-25kd)
+- [I Want FAST API Framework with RAW please post basic concept](https://dev.to/anjali_gurjar_dff81513867/i-want-fast-api-framework-with-raw-please-post-basic-concept-h20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
