@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️10 JavaScript One-Liners That Will Blow Your Mind &lpar;and Save You HOURS of Coding&rpar;](https://dev.to/dct_technology/10-javascript-one-liners-that-will-blow-your-mind-and-save-you-hours-of-coding-5g6h)
-- [The Hero Developer Must Die: My Journey from Midnight Savior to Team Builder](https://dev.to/codeshipper/the-hero-developer-must-die-my-journey-from-midnight-savior-to-team-builder-50k2)
-- [This AI Tool Changes Podcasts Forever – Must See!](https://dev.to/vaibhav_patel_bb722d8b3e3/this-ai-tool-changes-podcasts-forever-must-see-40go)
-- [Gemini 2.5: A Data Engineer&#39;s Perspective on the Next-Gen AI Model](https://dev.to/swayam_sampad_e68f2950997/gemini-25-a-data-engineers-perspective-on-the-next-gen-ai-model-4nk8)
-- [todo](https://dev.to/codelover405/todo-40li)
+- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
+- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
+- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
+- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/nikhil_sachapara/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-1f0i)
+- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/naik_sejal/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-108f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
