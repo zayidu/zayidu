@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Docker Image Builds for Speed &amp; Efficiency](https://dev.to/docker/optimizing-docker-image-builds-for-speed-efficiency-17b)
-- [🔥 Most marketing fails, but not for the reasons you think! This article breaks down Ashkan Rajaee’s take on why and how to fix it. A must-read for #sales, #copywriting, and #data-driven marketing! 🚀 #ashkanrajaee](https://dev.to/marcusquinn05/most-marketing-fails-but-not-for-the-reasons-you-think-this-article-breaks-down-ashkan-rajaees-26kd)
-- [How to Build Your Own Bluetooth Scriptable Sniffer for Under $30](https://dev.to/bleuiot/how-to-build-your-own-bluetooth-scriptable-sniffer-for-under-30-4g1i)
-- [LUA parser for Apple Homekit using BleuIO](https://dev.to/bleuiot/lua-parser-for-apple-homekit-using-bleuio-4leb)
-- [Firebase project fails](https://dev.to/seosiri/firebase-project-fails-39hj)
+- [Fragment: The Blockchain-Based TON Wallet Integrated with Telegram](https://dev.to/rachellovestowrite/fragment-the-blockchain-based-ton-wallet-integrated-with-telegram-g1m)
+- [Day-1 🌟 Understanding Java Statements: Normal, Conditional, and Control Statements](https://dev.to/elayaraj_c_04396748f52a1c/day-1-understanding-java-statements-normal-conditional-and-control-statements-4mb2)
+- [🚀 GitHub SSH &amp; &quot;Repo Not Found&quot;: The Mistake That Took Me a Bit Too Long to Debug](https://dev.to/byte-sized-news/github-ssh-repo-not-found-the-mistake-that-took-me-a-bit-too-long-to-debug-1hon)
+- [How I Built an HSC GPA Calculator for Bangladeshi Students Using Next.js](https://dev.to/ih_sajjad/how-i-built-an-hsc-gpa-calculator-for-bangladeshi-students-using-nextjs-253j)
+- [5 practical tips for internationalizing your Website](https://dev.to/wimadev/5-practical-tips-for-internationalizing-your-website-3a5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
