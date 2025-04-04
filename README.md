@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fragment: The Blockchain-Based TON Wallet Integrated with Telegram](https://dev.to/rachellovestowrite/fragment-the-blockchain-based-ton-wallet-integrated-with-telegram-g1m)
-- [Day-1 🌟 Understanding Java Statements: Normal, Conditional, and Control Statements](https://dev.to/elayaraj_c_04396748f52a1c/day-1-understanding-java-statements-normal-conditional-and-control-statements-4mb2)
-- [🚀 GitHub SSH &amp; &quot;Repo Not Found&quot;: The Mistake That Took Me a Bit Too Long to Debug](https://dev.to/byte-sized-news/github-ssh-repo-not-found-the-mistake-that-took-me-a-bit-too-long-to-debug-1hon)
-- [How I Built an HSC GPA Calculator for Bangladeshi Students Using Next.js](https://dev.to/ih_sajjad/how-i-built-an-hsc-gpa-calculator-for-bangladeshi-students-using-nextjs-253j)
-- [5 practical tips for internationalizing your Website](https://dev.to/wimadev/5-practical-tips-for-internationalizing-your-website-3a5c)
+- [How to customize Scramble – Laravel OpenAPI Docs](https://dev.to/satulg/how-to-customize-scramble-laravel-openapi-docs-5bg5)
+- [5 Cheap Heroku Alternatives](https://dev.to/code42cate/5-cheap-heroku-alternatives-2j1l)
+- [TOML Be or Not TOML Be: A Rustacean&#39;s Guide to Cargo](https://dev.to/stellaacharoiro/toml-be-or-not-toml-be-a-rustaceans-guide-to-cargo-3oga)
+- [&quot;Law Made Simple: A Common Man’s Guide to Understanding Indian Legal Rights in Just 3 Hours&quot;](https://dev.to/lokesh_medishetty_5/law-made-simple-a-common-mans-guide-to-understanding-indian-legal-rights-in-just-3-hours-1504)
+- [173/365 | ¥10M Job Challenge](https://dev.to/kameken100/173365-y10m-job-challenge-4383)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
