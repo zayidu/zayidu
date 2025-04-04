@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Interactive Web Pages Without Using JavaScript](https://dev.to/shubhamtiwari909/interactive-elements-without-js-56cc)
-- [StarHub Pioneers Southeast Asia’s First 5G Cloud RAN, Revolutionizing Connectivity and Enterprise Solutions](https://dev.to/techi-news/starhub-pioneers-southeast-asias-first-5g-cloud-ran-revolutionizing-connectivity-and-enterprise-2j5c)
-- [How to Easily Implement RTMP Live Streaming in Rust: A Practical Guide](https://dev.to/yeauty/how-to-easily-implement-rtmp-live-streaming-in-rust-a-practical-guide-4ed1)
-- [Geometry Dash: A Deep Dive into the Rhythm-Based Run That Rules Them All](https://dev.to/sebastiankoelpinn/geometry-dash-a-deep-dive-into-the-rhythm-based-run-that-rules-them-all-163b)
-- [Source Maps for JavaScript Debugging](https://dev.to/omriluz1/source-maps-for-javascript-debugging-2ndj)
+- [Computer Network](https://dev.to/yashi_srivastava_9166487c/computer-network-p88)
+- [Love Horoscope Daily: Crafting a Magical User Experience](https://dev.to/romulusjustinianus/love-horoscope-daily-crafting-a-magical-user-experience-3hnh)
+- [Building the Future: How Web3 is Changing the Digital Economy in Nigeria](https://dev.to/raji_moshood_ee3a4c2638f6/building-the-future-how-web3-is-changing-the-digital-economy-in-nigeria-256c)
+- [The Role of APIs in Modern Software Development](https://dev.to/ellenmurphy/the-role-of-apis-in-modern-software-development-1336)
+- [Node.js Console Module](https://dev.to/khushii_34ceada974a6bfcc2/nodejs-console-module-4ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
