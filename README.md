@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast-Track Your Static Site: Deploying Hugo with Pulumi on AWS S3](https://dev.to/sojinsamuel/fast-track-your-static-site-deploying-hugo-with-pulumi-on-aws-s3-56l6)
-- [What is a TLS Certificate? With an example](https://dev.to/bogkonstantin/what-is-a-tls-certificate-with-an-example-i1j)
-- [What Everyone’s Missing About React’s useDeferredValue Hook](https://dev.to/ivan_kaminskyi/what-everyones-missing-about-reacts-usedeferredvalue-hook-11p5)
-- [game4_Cristiane oliveira Cabo de guerra animal](https://dev.to/cristianeoliveira/game4cristiane-oliveira-cabo-de-guerra-animal-31ej)
-- [💡How I Tamed the Cloud: Troubleshooting My S3 + Cloudflare + Pulumi Static Site](https://dev.to/onlyfave/how-i-tamed-the-cloud-troubleshooting-my-s3-cloudflare-pulumi-static-site-5fjc)
+- [Day 1134 : Blur](https://dev.to/dwane/day-1134-blur-2k5n)
+- [Day 1: Linux File Permissions Explained &lpar;With Real-World Examples&rpar;](https://dev.to/rajpreet_gill_6272051bd31/day-1-linux-file-permissions-explained-with-real-world-examples-291n)
+- [I built an AI agent that explains complex codebases to me with the latest Gemini 2.5 Pro, and the results are unbelievably good! Check out the result and the full dev tutorial! https://dev.to/zachary62/ai-codebase-knowledge-builder-full-dev-tutorial-5109](https://dev.to/zachary62/i-built-an-ai-agent-that-explains-complex-codebases-to-me-with-the-latest-gemini-25-pro-and-the-3h2h)
+- [AI Codebase Knowledge Builder &lpar;Full Dev Tutorial!&rpar;](https://dev.to/zachary62/ai-codebase-knowledge-builder-full-dev-tutorial-5109)
+- [Wow!!](https://dev.to/arya_teja_2106/wow-22mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
