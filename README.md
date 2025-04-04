@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB 🦆 : Libérez le puissant moteur de Requêtes](https://dev.to/mikekenneth77/duckdb-liberez-le-puissant-moteur-de-requetes-1977)
-- [The Drip Network Team: Innovators in DeFi](https://dev.to/laetitiaperraut/the-drip-network-team-innovators-in-defi-1kda)
-- [SOHO Networking](https://dev.to/andrew_despres/soho-networking-afl)
-- [Conversor de Wons](https://dev.to/danielcezar/conversor-de-wons-25kd)
-- [I Want FAST API Framework with RAW please post basic concept](https://dev.to/anjali_gurjar_dff81513867/i-want-fast-api-framework-with-raw-please-post-basic-concept-h20)
+- [Discovering the Potential of Drip Network](https://dev.to/jennythomas498/discovering-the-potential-of-drip-network-59i5)
+- [Teaching Code in the AI Era: Why Fundamentals Still Matter](https://dev.to/aspittel/teaching-code-in-the-ai-era-why-fundamentals-still-matter-1k1g)
+- [Exploring Next.js 15 and Server Actions: Features and Best Practices](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-features-and-best-practices-1393)
+- [My experience as technical content](https://dev.to/rahul_d_69c56a981e11c6728/my-experience-as-technical-content-21a6)
+- [What Can You Actually Make With Electronics?](https://dev.to/buono/what-can-you-actually-make-with-electronics-1p3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
