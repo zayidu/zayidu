@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
-- [The best Saas idea comes from solving your own problems](https://dev.to/paterson1720/the-best-saas-idea-comes-from-solving-your-own-problems-g4n)
-- [🚀 15 SQL Query Optimization Techniques for Blazing Fast Performance](https://dev.to/full_stack_fusion/15-sql-query-optimization-techniques-for-blazing-fast-performance-3n1b)
-- [..](https://dev.to/pkkashyap/i-am-starting-journey-of-technology-industry-and-i-am-very-strong-confidencial-and-knowledgeable-2fgb)
-- [Mocking API Requests in Unit Tests](https://dev.to/jszutkowski/mocking-api-requests-in-unit-tests-4j6o)
+- [BigInt: Handling Large Integers in JavaScript](https://dev.to/omriluz1/bigint-handling-large-integers-in-javascript-35bb)
+- [Aigency](https://dev.to/nuri_kaplan_3990fed3f6725/aigency-20e5)
+- [Building a Webhook Systems with NestJS: Handling Retry, Security, Dead-letter Queues, and Rate Limiting ✨](https://dev.to/juan_castillo/building-a-webhook-systems-with-nestjs-handling-retry-security-dead-letter-queues-and-rate-4nm7)
+- [Tech and Africa -Northen Nigeria](https://dev.to/aliyualbako/tech-and-africa-northen-nigeria-1l07)
+- [Govern AI APIs with Azure API Management GenAI policies](https://dev.to/aarthiem/govern-ai-apis-with-azure-api-management-genai-policies-n8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
