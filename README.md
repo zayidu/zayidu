@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
-- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
-- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
-- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/nikhil_sachapara/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-1f0i)
-- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/naik_sejal/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-108f)
+- [D2](https://dev.to/gchar/d2-49dk)
+- [Introduction to Node.js Worker Threads](https://dev.to/artem_turlenko/introduction-to-nodejs-worker-threads-kd4)
+- [Why Do You Need a CI/CD Platform](https://dev.to/linhgumiho/why-do-you-need-a-cicd-platform-18bc)
+- [From Features to Finances: A Simple Guide to Fintech App Development in Australia](https://dev.to/emma_jenkins_5ebc66ac329d/from-features-to-finances-a-simple-guide-to-fintech-app-development-in-australia-2nni)
+- [Platform Engineering- Quick Introduction](https://dev.to/linhgumiho/platform-engineering-quick-introduction-5epe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
