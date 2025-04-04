@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Email Security: The Protection You Didn’t Know You Needed](https://dev.to/donald1981/ai-powered-email-security-the-protection-you-didnt-know-you-needed-5hcc)
-- [Untitled](https://dev.to/luis_manuel/untitled-5h4l)
-- [How to Build a Portfolio Website the Right Way](https://dev.to/devlawrence/how-to-build-a-portfolio-website-the-right-way-2n87)
-- [Untitled](https://dev.to/luis_manuel/untitled-11nh)
-- [game4_VInicial_imersão](https://dev.to/luis_paulonunes_a060c904/game4vinicialimersao-2ege)
+- [1123. Lowest Common Ancestor of Deepest Leaves](https://dev.to/mdarifulhaque/1123-lowest-common-ancestor-of-deepest-leaves-1i5h)
+- [Exploring the Use of AI in Biomedical Image Analysis](https://dev.to/kartikmehta8/exploring-the-use-of-ai-in-biomedical-image-analysis-1c7b)
+- [Rust Tutorial: Mastering Strings with Real Examples](https://dev.to/ouma_ouma/rust-tutorial-mastering-strings-with-real-examples-3m1f)
+- [🚀 Auto-Clearing Flash Messages in Phoenix LiveView &lpar;with a Visual Countdown!&rpar;](https://dev.to/marinacdev/auto-clearing-flash-messages-in-phoenix-liveview-with-a-visual-countdown-b9i)
+- [Monomorphization The Rust Way](https://dev.to/martcpp/monomorphization-the-rust-way-26e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
