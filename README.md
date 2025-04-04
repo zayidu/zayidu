@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to customize Scramble – Laravel OpenAPI Docs](https://dev.to/satulg/how-to-customize-scramble-laravel-openapi-docs-5bg5)
-- [5 Cheap Heroku Alternatives](https://dev.to/code42cate/5-cheap-heroku-alternatives-2j1l)
-- [TOML Be or Not TOML Be: A Rustacean&#39;s Guide to Cargo](https://dev.to/stellaacharoiro/toml-be-or-not-toml-be-a-rustaceans-guide-to-cargo-3oga)
-- [&quot;Law Made Simple: A Common Man’s Guide to Understanding Indian Legal Rights in Just 3 Hours&quot;](https://dev.to/lokesh_medishetty_5/law-made-simple-a-common-mans-guide-to-understanding-indian-legal-rights-in-just-3-hours-1504)
-- [173/365 | ¥10M Job Challenge](https://dev.to/kameken100/173365-y10m-job-challenge-4383)
+- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
+- [The best Saas idea comes from solving your own problems](https://dev.to/paterson1720/the-best-saas-idea-comes-from-solving-your-own-problems-g4n)
+- [🚀 15 SQL Query Optimization Techniques for Blazing Fast Performance](https://dev.to/full_stack_fusion/15-sql-query-optimization-techniques-for-blazing-fast-performance-3n1b)
+- [..](https://dev.to/pkkashyap/i-am-starting-journey-of-technology-industry-and-i-am-very-strong-confidencial-and-knowledgeable-2fgb)
+- [Mocking API Requests in Unit Tests](https://dev.to/jszutkowski/mocking-api-requests-in-unit-tests-4j6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
