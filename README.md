@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [D2](https://dev.to/gchar/d2-49dk)
-- [Introduction to Node.js Worker Threads](https://dev.to/artem_turlenko/introduction-to-nodejs-worker-threads-kd4)
-- [Why Do You Need a CI/CD Platform](https://dev.to/linhgumiho/why-do-you-need-a-cicd-platform-18bc)
-- [From Features to Finances: A Simple Guide to Fintech App Development in Australia](https://dev.to/emma_jenkins_5ebc66ac329d/from-features-to-finances-a-simple-guide-to-fintech-app-development-in-australia-2nni)
-- [Platform Engineering- Quick Introduction](https://dev.to/linhgumiho/platform-engineering-quick-introduction-5epe)
+- [How to Build Interactive Web Pages Without Using JavaScript](https://dev.to/shubhamtiwari909/interactive-elements-without-js-56cc)
+- [StarHub Pioneers Southeast Asia’s First 5G Cloud RAN, Revolutionizing Connectivity and Enterprise Solutions](https://dev.to/techi-news/starhub-pioneers-southeast-asias-first-5g-cloud-ran-revolutionizing-connectivity-and-enterprise-2j5c)
+- [How to Easily Implement RTMP Live Streaming in Rust: A Practical Guide](https://dev.to/yeauty/how-to-easily-implement-rtmp-live-streaming-in-rust-a-practical-guide-4ed1)
+- [Geometry Dash: A Deep Dive into the Rhythm-Based Run That Rules Them All](https://dev.to/sebastiankoelpinn/geometry-dash-a-deep-dive-into-the-rhythm-based-run-that-rules-them-all-163b)
+- [Source Maps for JavaScript Debugging](https://dev.to/omriluz1/source-maps-for-javascript-debugging-2ndj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
