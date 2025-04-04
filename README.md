@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering Big JSON in React? You&#39;re Probably Doing It Terribly Wrong 😬](https://dev.to/muhayminbinmehmood/how-to-optimize-large-json-data-rendering-in-react-1jj3)
-- [How to Prevent Theme Flash in a React: Instant Dark Mode Switching](https://dev.to/gaisdav/how-to-prevent-theme-flash-in-a-react-instant-dark-mode-switching-o20)
-- [[Boost]](https://dev.to/isumix/-20am)
-- [PowerShell: new features, same old bugs](https://dev.to/pvsdev/powershell-new-features-same-old-bugs-afj)
-- [PowerShell: new features, same old bugs](https://dev.to/pvsdev/powershell-new-features-same-old-bugs-4aei)
+- [Bridging Generations: Running COBOL on Kubernetes with EFS](https://dev.to/semperfitodd/bridging-generations-running-cobol-on-kubernetes-with-efs-pgk)
+- [what is tRPC ? how to use it in react project?](https://dev.to/santoshpremi/what-is-trpc-how-to-use-it-in-react-project-38o5)
+- [🚀 How Amazon Shapes the Future of Dev &amp; Cloud ☁️](https://dev.to/cecile_agrios_8f41df14128/how-amazon-shapes-the-future-of-dev-cloud-14h5)
+- [🚀 Readme Forge: The Ultimate README Generator for Developers](https://dev.to/senathenu/readme-forge-the-ultimate-readme-generator-for-developers-bgd)
+- [How to Integrate API: A Simple Guide for Beginners](https://dev.to/kervi_11_/how-to-integrate-api-a-simple-guide-for-beginners-36pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
