@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Second Step into the World of RxJS: RxJS Operators — How to Learn and Why They Are Needed](https://dev.to/artstesh/the-second-step-into-the-world-of-rxjs-rxjs-operators-how-to-learn-and-why-they-are-needed-1f22)
-- [Recursion in JavaScript](https://dev.to/darenporretto/recursion-in-javascript-di0)
-- [[Boost]](https://dev.to/stakosh/-2ccm)
-- [Preparing COBOL Error Data for Machine Learning in SageMaker](https://dev.to/semperfitodd/preparing-cobol-error-data-for-machine-learning-in-sagemaker-2b54)
-- [iHateReading UI: 50+ React Tailwind building components](https://dev.to/shreyvijayvargiya/ihatereading-ui-50-react-tailwind-building-components-2mmn)
+- [Clojure Is Awesome!!! [PART 20]](https://dev.to/borba/clojure-is-awesome-part-20-56bk)
+- [Introducing Greening: Ship Beautiful Software, Fast](https://dev.to/chrisgreening/introducing-greening-ship-beautiful-software-fast-55do)
+- [Network Virtualization – The Future of Scalable IT Infrastructure](https://dev.to/kevin_asutton_/network-virtualization-the-future-of-scalable-it-infrastructure-1lop)
+- [Rangkuman Rust: Variables and Mutability](https://dev.to/driannaird/rangkuman-rust-variables-and-mutability-4nbn)
+- [🧠 From Notebook to Web App: Building a Handwritten Digit Recognizer with TensorFlow &amp; Streamlit](https://dev.to/piyushkumarghosh/from-notebook-to-web-app-building-a-handwritten-digit-recognizer-with-tensorflow-streamlit-79a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
