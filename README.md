@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Use userChrome.css in Firefox](https://dev.to/jakariyaaa/how-to-create-and-use-userchromecss-in-firefox-26g7)
-- [Java Dead Code Confusion: Is My Sir Right?](https://dev.to/vigneshwaralingam/java-dead-code-confusion-is-my-sir-right-3j7n)
-- [✅ GUI Based Universal Unit Converter Using Python With Source Code](https://dev.to/srijan-xi/gui-based-universal-unit-converter-using-python-with-source-code-4fi8)
-- [📘User Management REST API Documentation](https://dev.to/devcorner/user-management-rest-api-documentation-4n3o)
-- [How to Connect a React App with MySQL Database](https://dev.to/sudhanshudevelopers/how-to-connect-a-react-app-with-mysql-database-1n3i)
+- [dotme: Instantly Apply Dotfiles from Any Git Repository with One CLI Command](https://dev.to/rsvinicius/dotme-instantly-apply-dotfiles-from-any-git-repository-with-one-cli-command-3mh6)
+- [Forging the Future of Developer Experience](https://dev.to/leo_____9a8ebeafbd6de28c3/forging-the-future-of-developer-experience-oh)
+- [Kubernetes Dashboard: Headlamp on Kind](https://dev.to/deebi9/kubernetes-dashboard-headlamp-on-kind-3c2d)
+- [Building Automated Data Reports from Supabase with GitHub Actions and R Markdown](https://dev.to/afrologicinsect/building-automated-data-reports-from-supabase-with-github-actions-and-r-markdown-2gh1)
+- [Mastering Vim: The Underrated Superpower Every Cloud Enthusiast Needs](https://dev.to/axisinfo_0a61830e06c3c950/mastering-vim-the-underrated-superpower-every-cloud-enthusiast-needs-4402)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
