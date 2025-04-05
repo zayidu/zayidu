@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration Management &lpar;Ansible, Chef, Puppet&rpar;](https://dev.to/godofgeeks/configuration-management-ansible-chef-puppet-32i3)
-- [TS1383: Only named exports may use &#39;export type&#39;](https://dev.to/rivkaavraham/ts1383-only-named-exports-may-use-export-type-3jb4)
-- [TS1387: Function type notation must be parenthesized when used in an intersection type](https://dev.to/rivkaavraham/ts1387-function-type-notation-must-be-parenthesized-when-used-in-an-intersection-type-5en7)
-- [TS1386: Constructor type notation must be parenthesized when used in a union type](https://dev.to/rivkaavraham/ts1386-constructor-type-notation-must-be-parenthesized-when-used-in-a-union-type-1g2l)
-- [TS1378: Top-level &#39;await&#39; expressions are only allowed when the](https://dev.to/turingvangisms/ts1378-top-level-await-expressions-are-only-allowed-when-the-3a1k)
+- [Unlocking the Future of Education: The Transformative Power of Mobile Learning](https://dev.to/ghummantech/unlocking-the-future-of-education-the-transformative-power-of-mobile-learning-1kpe)
+- [&quot;Unlocking Neural Networks: Innovative Testing and Smart Contract Upgrades&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-neural-networks-innovative-testing-and-smart-contract-upgrades-4gpi)
+- [Gitcoin: Pioneering Sustainable Open-Source Funding in a Blockchain World](https://dev.to/laetitiaperraut/gitcoin-pioneering-sustainable-open-source-funding-in-a-blockchain-world-1j1i)
+- [agrs and kwargs in python](https://dev.to/lea_abraham_7a0232a6cd616/agrs-and-kwargs-in-python-4e96)
+- [Choosing the Right CMS: WordPress Isn’t Always the Answer](https://dev.to/mr_nova/choosing-the-right-cms-wordpress-isnt-always-the-answer-5l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
