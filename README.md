@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Instant HR Policy Q&amp;A Bot with Chainlit](https://dev.to/criticalmynd/stop-drowning-in-hr-questions-build-your-own-ai-policy-bot-with-chainlit-3nj8)
-- [Every CSS Function You Need – With Practical Examples](https://dev.to/web_dev-usman/every-css-function-you-need-with-practical-examples-23h)
-- [List Of Best Artificial Intelligence Companies In Pakistan](https://dev.to/seo_glaxit_8e9af3e01a9970/list-of-best-artificial-intelligence-companies-in-pakistan-2hk2)
-- [Handling Transactions on Large Tables in High-Traffic C# Applications](https://dev.to/syawqy/handling-transactions-on-large-tables-in-high-traffic-c-applications-103m)
-- [connected components](https://dev.to/dushyant_singhrao_08/connected-components-5cla)
+- [Floating Point Numbers and Scientific Notation](https://dev.to/nozibul_islam_113b1d5334f/floating-point-numbers-and-scientific-notation-1ih1)
+- [Introductory Collections in Python](https://dev.to/devbyleandro/introductory-collections-in-python-g7g)
+- [Difference between betting_system and betting_system_web in Elixir](https://dev.to/msnmongare/difference-between-bettingsystem-and-bettingsystemweb-in-elixir-37hi)
+- [How Blockchain Is Transforming Industries Beyond Crypto](https://dev.to/devkantbhagat/how-blockchain-is-transforming-industries-beyond-crypto-5814)
+- [HawkClient: A developer and git friendly API client &lpar;postman alternative&rpar;](https://dev.to/prashantrathi123/hawkclient-a-developer-and-git-friendly-api-client-postman-alternative-1gm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
