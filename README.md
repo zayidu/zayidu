@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the GitHub Sponsors Payout Process: A Comprehensive Guide to Supporting Open Source](https://dev.to/bobcars/navigating-the-github-sponsors-payout-process-a-comprehensive-guide-to-supporting-open-source-d2g)
-- [&quot;Unlocking Image Editing: The Power of CoLan and AI Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-editing-the-power-of-colan-and-ai-innovations-1cne)
-- [Bolstering Open Source with GitHub Sponsors: The Impact of Matching Funds](https://dev.to/rachellovestowrite/bolstering-open-source-with-github-sponsors-the-impact-of-matching-funds-1cfm)
-- [Today marks 50 years since Paul Allen and I officially started Microsoft by Bill Gates](https://dev.to/agunechemba/today-marks-50-years-since-paul-allen-and-i-officially-started-microsoft-by-bill-gates-mh4)
-- [Embracing the unknown, navigating tech as a women of color.](https://dev.to/laura_rbisou/embracing-the-unknown-navigating-tech-as-a-women-of-color-1okk)
+- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
+- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
+- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
+- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
+- [How to Enable Google Analytics Tracking in Your Greening-Deployed Site](https://dev.to/chrisgreening/how-to-enable-google-analytics-tracking-in-your-greening-deployed-site-4830)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
