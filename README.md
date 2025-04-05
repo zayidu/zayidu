@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Breaking the Monolith: Why Microservices with Node.js &amp; Nest.js Are Game-Changers in 2025!](https://dev.to/dct_technology/breaking-the-monolith-why-microservices-with-nodejs-nestjs-are-game-changers-in-2025-54hk)
-- [Creating new categories using plugins in NodeBB](https://dev.to/goofmint/creating-new-categories-using-plugins-in-nodebb-1n36)
-- [How you can achieve all AWS certifications and get the golden jacket - Part 1](https://dev.to/electrokat/how-you-can-achieve-all-aws-certifications-and-get-the-golden-jacket-part-1-16dp)
-- [A story about creating a forum service in the age of AI](https://dev.to/goofmint/a-story-about-creating-a-forum-service-in-the-age-of-ai-543c)
-- [kubernetes detect &amp; response](https://dev.to/mariocandela/-1gki)
+- [Configuration Management &lpar;Ansible, Chef, Puppet&rpar;](https://dev.to/godofgeeks/configuration-management-ansible-chef-puppet-32i3)
+- [TS1383: Only named exports may use &#39;export type&#39;](https://dev.to/rivkaavraham/ts1383-only-named-exports-may-use-export-type-3jb4)
+- [TS1387: Function type notation must be parenthesized when used in an intersection type](https://dev.to/rivkaavraham/ts1387-function-type-notation-must-be-parenthesized-when-used-in-an-intersection-type-5en7)
+- [TS1386: Constructor type notation must be parenthesized when used in a union type](https://dev.to/rivkaavraham/ts1386-constructor-type-notation-must-be-parenthesized-when-used-in-a-union-type-1g2l)
+- [TS1378: Top-level &#39;await&#39; expressions are only allowed when the](https://dev.to/turingvangisms/ts1378-top-level-await-expressions-are-only-allowed-when-the-3a1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
