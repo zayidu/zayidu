@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Countering security threats: Contactless payment](https://dev.to/okatahi_bello_5ed26a1ab58/countering-security-threats-contactless-payment-920)
-- [Fast Static Website Deployment with Pulumi: Modern Web Dev Made Simple 🚀](https://dev.to/aniruddhaadak/fast-static-website-deployment-with-pulumi-modern-web-dev-made-simple-2p67)
-- [Aula 5 - imersão dev Alura](https://dev.to/crisprogramadora/aula-5-imersao-dev-alura-1bkl)
-- [Untitled](https://dev.to/luis_manuel/untitled-1il1)
-- [From Go to Rust: A Developer&#39;s Journey Through Systems Programming](https://dev.to/skanenje/from-go-to-rust-a-developers-journey-through-systems-programming-3cng)
+- [How to Create and Use userChrome.css in Firefox](https://dev.to/jakariyaaa/how-to-create-and-use-userchromecss-in-firefox-26g7)
+- [Java Dead Code Confusion: Is My Sir Right?](https://dev.to/vigneshwaralingam/java-dead-code-confusion-is-my-sir-right-3j7n)
+- [✅ GUI Based Universal Unit Converter Using Python With Source Code](https://dev.to/srijan-xi/gui-based-universal-unit-converter-using-python-with-source-code-4fi8)
+- [📘User Management REST API Documentation](https://dev.to/devcorner/user-management-rest-api-documentation-4n3o)
+- [How to Connect a React App with MySQL Database](https://dev.to/sudhanshudevelopers/how-to-connect-a-react-app-with-mysql-database-1n3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
