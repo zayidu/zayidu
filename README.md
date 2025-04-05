@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Static Website Using S3 and CloudFront](https://dev.to/quincy_ochieng/creating-a-static-website-using-s3-and-cloudfront-4n62)
-- [[Boost]](https://dev.to/karanverma/-2nog)
-- [Stop Using Your Database as a Message Queue: Why It&#39;s a Bad Idea](https://dev.to/pratikpathak/stop-using-your-database-as-a-message-queue-why-its-a-bad-idea-2kff)
-- [Ditch the Stock Photos: Supercharge Your Dev Projects with AI Image Generation](https://dev.to/aigame/ditch-the-stock-photos-supercharge-your-dev-projects-with-ai-image-generation-1el6)
-- [Bits, bytes y los operadores bitwise](https://dev.to/djsurgeon/bits-bytes-y-los-operadores-bitwise-42m)
+- [How I Fixed ERR_TOO_MANY_REDIRECTS with Cloudflare + Vercel](https://dev.to/samitkapoor/how-i-fixed-errtoomanyredirects-with-cloudflare-vercel-1dbd)
+- [Learning Elixir: Advanced Control Structures](https://dev.to/abreujp/learning-elixir-advanced-control-structures-132n)
+- [🧩 Questions about general web development. &lpar;Share your knowledge&rpar;](https://dev.to/geanny_deraben_75b1f0f21/questions-about-general-web-development-share-your-knowledge-54nn)
+- [Identifying Spam Emails through ML Classification with AWS ☁️](https://dev.to/aws-builders/identifying-spam-emails-through-ml-classification-with-aws-3f0g)
+- [PEM, DER, PFX, CER, CRT, and CSR for connecting to servers](https://dev.to/hobbyistprogrammerar/pem-der-pfx-cer-crt-and-csr-for-connecting-to-servers-54k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
