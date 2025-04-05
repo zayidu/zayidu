@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up a RAG Chatbot in Bedrock](https://dev.to/learnwithandres/set-up-a-rag-chatbot-in-bedrock-gib)
-- [Making Animations and Transitions Accessible: A Guide for Developers](https://dev.to/accessibly_speaking/making-animations-and-transitions-accessible-a-guide-for-developers-3ih9)
-- [Mapeamento de classes em .NET](https://dev.to/yuripeixinho/mapeamento-de-classes-em-net-j6m)
-- [New WebDev Tool – Try it | Beta Test Coming](https://dev.to/tomj/new-webdev-tool-try-it-beta-test-coming-gm1)
-- [Embracing Decentralization with XPATRON: Unleashing Indie Hacker Innovation on Infinex Patrons](https://dev.to/bobcars/embracing-decentralization-with-xpatron-unleashing-indie-hacker-innovation-on-infinex-patrons-28gc)
+- [License-Token: A New Paradigm for OSS Sustainability](https://dev.to/ahmmrizv9/license-token-a-new-paradigm-for-oss-sustainability-3p6a)
+- [Llama 4 Unleashed: Revolutionizing AI with Multimodal Models and Massive Context Windows](https://dev.to/aniruddhaadak/llama-4-unleashed-revolutionizing-ai-with-multimodal-models-and-massive-context-windows-d6p)
+- [Building a Serverless Image Organizer with AWS Rekognition, S3, Lambda &amp; CloudWatch with Terraform](https://dev.to/sin4ch1/building-a-serverless-image-organizer-with-aws-rekognition-s3-lambda-cloudwatch-with-terraform-6mb)
+- [The Uneasy Truth I Found in AI Research](https://dev.to/usamaa/the-uneasy-truth-i-found-in-ai-research-270b)
+- [The Indie Hacking Journey of Kumis: Insights and Innovations in the Digital Era](https://dev.to/jennythomas498/the-indie-hacking-journey-of-kumis-insights-and-innovations-in-the-digital-era-3cja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
