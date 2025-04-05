@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba&#39;s Claude 3.7 killer, Anthropic&#39;s FULL Large Language Model guide, and more](https://dev.to/thisweekinaiengineering/alibabas-claude-37-killer-anthropics-full-large-language-model-guide-and-more-1b1f)
-- [🌩️ How to Get AWS Certifications for Free in 2025 💸](https://dev.to/uniyalmanas/how-to-get-aws-certifications-for-free-in-2025-554c)
-- [Deep Dive into Data Validation with Vaadin – final part](https://dev.to/pbalves/deep-dive-into-data-validation-with-vaadin-final-part-3i27)
-- [Cool &amp; Creative Hardware from Japan&#39;s Maker Contests](https://dev.to/buono/cool-creative-hardware-from-japans-maker-contests-1ph4)
-- [SQL Composite Indexes: When to Use?](https://dev.to/leapcell/sql-composite-indexes-when-to-use-15k0)
+- [Countering security threats: Contactless payment](https://dev.to/okatahi_bello_5ed26a1ab58/countering-security-threats-contactless-payment-920)
+- [Fast Static Website Deployment with Pulumi: Modern Web Dev Made Simple 🚀](https://dev.to/aniruddhaadak/fast-static-website-deployment-with-pulumi-modern-web-dev-made-simple-2p67)
+- [Aula 5 - imersão dev Alura](https://dev.to/crisprogramadora/aula-5-imersao-dev-alura-1bkl)
+- [Untitled](https://dev.to/luis_manuel/untitled-1il1)
+- [From Go to Rust: A Developer&#39;s Journey Through Systems Programming](https://dev.to/skanenje/from-go-to-rust-a-developers-journey-through-systems-programming-3cng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
