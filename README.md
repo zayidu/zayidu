@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future of Education: The Transformative Power of Mobile Learning](https://dev.to/ghummantech/unlocking-the-future-of-education-the-transformative-power-of-mobile-learning-1kpe)
-- [&quot;Unlocking Neural Networks: Innovative Testing and Smart Contract Upgrades&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-neural-networks-innovative-testing-and-smart-contract-upgrades-4gpi)
-- [Gitcoin: Pioneering Sustainable Open-Source Funding in a Blockchain World](https://dev.to/laetitiaperraut/gitcoin-pioneering-sustainable-open-source-funding-in-a-blockchain-world-1j1i)
-- [agrs and kwargs in python](https://dev.to/lea_abraham_7a0232a6cd616/agrs-and-kwargs-in-python-4e96)
-- [Choosing the Right CMS: WordPress Isn’t Always the Answer](https://dev.to/mr_nova/choosing-the-right-cms-wordpress-isnt-always-the-answer-5l8)
+- [&quot;Hello C++&quot;](https://dev.to/rohit_juyal_68a5f2251c433/hello-c-3m6i)
+- [MongoDB vs. PostgreSQL: Which One is Right for You?](https://dev.to/niks_kirdak_47c783a80cbc7/mongodb-vs-postgresql-which-one-is-right-for-you-46nh)
+- [Beyond the Basics: 10 TypeScript Features That Will Supercharge Your Code](https://dev.to/raju_dandigam/beyond-the-basics-10-typescript-features-that-will-supercharge-your-code-3180)
+- [How To Build A Dynamic Modal In Next js](https://dev.to/ewenikeemmanue4/how-to-build-a-dynamic-modal-in-next-js-gnf)
+- [Untitled](https://dev.to/kashan_6d5ad4a3690f2140cf/untitled-385k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
