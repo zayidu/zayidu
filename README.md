@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
-- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
-- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
-- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
-- [How to Enable Google Analytics Tracking in Your Greening-Deployed Site](https://dev.to/chrisgreening/how-to-enable-google-analytics-tracking-in-your-greening-deployed-site-4830)
+- [A Serverless secrets manager demo using Pulumi ESC &lpar;AWS&rpar;](https://dev.to/aniruddhaadak/a-serverless-secrets-manager-demo-using-pulumi-esc-aws-559h)
+- [Very interesting subject about the eBPF structure via Aya-rs.](https://dev.to/pinguftw/very-interesting-subject-about-the-ebpf-structure-via-aya-rs-1pf9)
+- [The reality of story points](https://dev.to/pooyan/the-reality-of-story-points-58o7)
+- [Horror Title Generator](https://dev.to/narrati/horror-title-generator-2c3h)
+- [The Next Big Event In The Generate Code For Dvla Industry](https://dev.to/pinray50/the-next-big-event-in-the-generate-code-for-dvla-industry-1252)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
