@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Donate on Gitcoin: A Technical Dive into Open Source Funding and Its Future](https://dev.to/bobcars/how-to-donate-on-gitcoin-a-technical-dive-into-open-source-funding-and-its-future-1466)
-- [The Role of Deep Work in High-Performance Teams](https://dev.to/taskframe/the-role-of-deep-work-in-high-performance-teams-4el7)
-- [WEB GAME CHALLENGE](https://dev.to/subhabhatta/web-game-challenge-1o5c)
-- [Scope Isolation in Kotlin DSLs with @DslMarker](https://dev.to/lucasfugisawa/scope-isolation-in-kotlin-dsls-with-dslmarker-44j)
-- [PULIMI CHALLENGE](https://dev.to/subhabhatta/pulimni-challenge-59gp)
+- [The Philosophy Behind Greening: Developer Momentum](https://dev.to/chrisgreening/the-philosophy-behind-greening-developer-momentum-26i9)
+- [Crafting Effective Sponsorship Tiers: A Holistic Approach](https://dev.to/ahmmrizv9/crafting-effective-sponsorship-tiers-a-holistic-approach-3mgl)
+- [Deploying a 2048 Game Application on ECS in an automated way](https://dev.to/aws-builders/deploying-a-2048-game-application-on-ecs-in-an-automated-way-3o72)
+- [Integrating Azure Cognitive Services in .NET 8 Minimal APIs: A Practical AI Guide](https://dev.to/leandroveiga/integrating-azure-cognitive-services-in-net-8-minimal-apis-a-practical-ai-guide-50n)
+- [A Comprehensive Guide to Selling Usernames on Fragment: Strategies, Trends, and Best Practices](https://dev.to/jennythomas498/a-comprehensive-guide-to-selling-usernames-on-fragment-strategies-trends-and-best-practices-4a9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
