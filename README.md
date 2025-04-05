@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Submit a Bounty on Gitcoin: A Comprehensive Guide to Accelerating Open Source Development](https://dev.to/kallileiser/how-to-submit-a-bounty-on-gitcoin-a-comprehensive-guide-to-accelerating-open-source-development-4lg3)
-- [Deploying a Static E-commerce Site to AWS Using Pulumi](https://dev.to/iamsherif/deploying-a-static-e-commerce-site-to-aws-using-pulumi-1nlf)
-- [Day-15: Static vs Non-Static Methods, Global vs Local Variables in Java](https://dev.to/e00049/day-15-static-vs-non-static-methods-global-vs-local-variables-in-java-4mji)
-- [Role-Based Route Permissions in Remix / React Router v7](https://dev.to/princetomarappdev/role-based-route-permissions-in-remix-react-router-v7-1d3j)
-- [Distributed Model Serving Patterns](https://dev.to/iameminmammadov/distributed-model-serving-patterns-43ml)
+- [Set Up a RAG Chatbot in Bedrock](https://dev.to/learnwithandres/set-up-a-rag-chatbot-in-bedrock-gib)
+- [Making Animations and Transitions Accessible: A Guide for Developers](https://dev.to/accessibly_speaking/making-animations-and-transitions-accessible-a-guide-for-developers-3ih9)
+- [Mapeamento de classes em .NET](https://dev.to/yuripeixinho/mapeamento-de-classes-em-net-j6m)
+- [New WebDev Tool – Try it | Beta Test Coming](https://dev.to/tomj/new-webdev-tool-try-it-beta-test-coming-gm1)
+- [Embracing Decentralization with XPATRON: Unleashing Indie Hacker Innovation on Infinex Patrons](https://dev.to/bobcars/embracing-decentralization-with-xpatron-unleashing-indie-hacker-innovation-on-infinex-patrons-28gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
