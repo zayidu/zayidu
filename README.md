@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Graphs: From Social Network Analysis to Disease Tracking](https://dev.to/ritu_gupta2334/the-power-of-graphs-from-social-network-analysis-to-disease-tracking-59ld)
-- [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://dev.to/salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-37ai)
-- [1- STATEMENTS &amp; OPERATORS](https://dev.to/sudhakar_v_c404997aeec839/1-statements-operators-4bdo)
-- [A Comprehensive Guide on How to Buy DRIP Tokens: Navigating DeFi on Binance Smart Chain](https://dev.to/ashucommits/a-comprehensive-guide-on-how-to-buy-drip-tokens-navigating-defi-on-binance-smart-chain-4bg6)
-- [Svelte vs React: Core Feature Comparison](https://dev.to/leapcell/svelte-vs-react-core-feature-comparison-4hdj)
+- [How to Donate on Gitcoin: A Technical Dive into Open Source Funding and Its Future](https://dev.to/bobcars/how-to-donate-on-gitcoin-a-technical-dive-into-open-source-funding-and-its-future-1466)
+- [The Role of Deep Work in High-Performance Teams](https://dev.to/taskframe/the-role-of-deep-work-in-high-performance-teams-4el7)
+- [WEB GAME CHALLENGE](https://dev.to/subhabhatta/web-game-challenge-1o5c)
+- [Scope Isolation in Kotlin DSLs with @DslMarker](https://dev.to/lucasfugisawa/scope-isolation-in-kotlin-dsls-with-dslmarker-44j)
+- [PULIMI CHALLENGE](https://dev.to/subhabhatta/pulimni-challenge-59gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
