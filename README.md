@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sneak peek of RovioCon, a premium invite-only event 🤩](https://dev.to/googleworkspace/sneak-peek-of-roviocon-a-premium-invite-only-event-fcg)
-- [Update to Calendar API, Google Workspace Add ons that extend Google Chat, and more!](https://dev.to/googleworkspace/update-to-calendar-api-google-workspace-add-ons-that-extend-google-chat-and-more-4ho6)
-- [Developer Spotlight with Zack Akil - Senior ML Engineer &amp; Developer Advocate](https://dev.to/googleworkspace/developer-spotlight-with-zack-akil-senior-ml-engineer-developer-advocate-2gjh)
-- [Aula03-Arquivo0](https://dev.to/danielcezar/aula03-arquivo0-4i36)
-- [Exploring .NET Aspire and Adding it to my existing boilerplate](https://dev.to/berviantoleo/exploring-net-aspire-and-adding-it-to-my-existing-boilerplate-40bb)
+- [🚀 Breaking the Monolith: Why Microservices with Node.js &amp; Nest.js Are Game-Changers in 2025!](https://dev.to/dct_technology/breaking-the-monolith-why-microservices-with-nodejs-nestjs-are-game-changers-in-2025-54hk)
+- [Creating new categories using plugins in NodeBB](https://dev.to/goofmint/creating-new-categories-using-plugins-in-nodebb-1n36)
+- [How you can achieve all AWS certifications and get the golden jacket - Part 1](https://dev.to/electrokat/how-you-can-achieve-all-aws-certifications-and-get-the-golden-jacket-part-1-16dp)
+- [A story about creating a forum service in the age of AI](https://dev.to/goofmint/a-story-about-creating-a-forum-service-in-the-age-of-ai-543c)
+- [kubernetes detect &amp; response](https://dev.to/mariocandela/-1gki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
