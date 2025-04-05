@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Philosophy Behind Greening: Developer Momentum](https://dev.to/chrisgreening/the-philosophy-behind-greening-developer-momentum-26i9)
-- [Crafting Effective Sponsorship Tiers: A Holistic Approach](https://dev.to/ahmmrizv9/crafting-effective-sponsorship-tiers-a-holistic-approach-3mgl)
-- [Deploying a 2048 Game Application on ECS in an automated way](https://dev.to/aws-builders/deploying-a-2048-game-application-on-ecs-in-an-automated-way-3o72)
-- [Integrating Azure Cognitive Services in .NET 8 Minimal APIs: A Practical AI Guide](https://dev.to/leandroveiga/integrating-azure-cognitive-services-in-net-8-minimal-apis-a-practical-ai-guide-50n)
-- [A Comprehensive Guide to Selling Usernames on Fragment: Strategies, Trends, and Best Practices](https://dev.to/jennythomas498/a-comprehensive-guide-to-selling-usernames-on-fragment-strategies-trends-and-best-practices-4a9c)
+- [Alibaba&#39;s Claude 3.7 killer, Anthropic&#39;s FULL Large Language Model guide, and more](https://dev.to/thisweekinaiengineering/alibabas-claude-37-killer-anthropics-full-large-language-model-guide-and-more-1b1f)
+- [🌩️ How to Get AWS Certifications for Free in 2025 💸](https://dev.to/uniyalmanas/how-to-get-aws-certifications-for-free-in-2025-554c)
+- [Deep Dive into Data Validation with Vaadin – final part](https://dev.to/pbalves/deep-dive-into-data-validation-with-vaadin-final-part-3i27)
+- [Cool &amp; Creative Hardware from Japan&#39;s Maker Contests](https://dev.to/buono/cool-creative-hardware-from-japans-maker-contests-1ph4)
+- [SQL Composite Indexes: When to Use?](https://dev.to/leapcell/sql-composite-indexes-when-to-use-15k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
