@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1134 : Blur](https://dev.to/dwane/day-1134-blur-2k5n)
-- [Day 1: Linux File Permissions Explained &lpar;With Real-World Examples&rpar;](https://dev.to/rajpreet_gill_6272051bd31/day-1-linux-file-permissions-explained-with-real-world-examples-291n)
-- [I built an AI agent that explains complex codebases to me with the latest Gemini 2.5 Pro, and the results are unbelievably good! Check out the result and the full dev tutorial! https://dev.to/zachary62/ai-codebase-knowledge-builder-full-dev-tutorial-5109](https://dev.to/zachary62/i-built-an-ai-agent-that-explains-complex-codebases-to-me-with-the-latest-gemini-25-pro-and-the-3h2h)
-- [AI Codebase Knowledge Builder &lpar;Full Dev Tutorial!&rpar;](https://dev.to/zachary62/ai-codebase-knowledge-builder-full-dev-tutorial-5109)
-- [Wow!!](https://dev.to/arya_teja_2106/wow-22mg)
+- [Navigating the GitHub Sponsors Payout Process: A Comprehensive Guide to Supporting Open Source](https://dev.to/bobcars/navigating-the-github-sponsors-payout-process-a-comprehensive-guide-to-supporting-open-source-d2g)
+- [&quot;Unlocking Image Editing: The Power of CoLan and AI Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-editing-the-power-of-colan-and-ai-innovations-1cne)
+- [Bolstering Open Source with GitHub Sponsors: The Impact of Matching Funds](https://dev.to/rachellovestowrite/bolstering-open-source-with-github-sponsors-the-impact-of-matching-funds-1cfm)
+- [Today marks 50 years since Paul Allen and I officially started Microsoft by Bill Gates](https://dev.to/agunechemba/today-marks-50-years-since-paul-allen-and-i-officially-started-microsoft-by-bill-gates-mh4)
+- [Embracing the unknown, navigating tech as a women of color.](https://dev.to/laura_rbisou/embracing-the-unknown-navigating-tech-as-a-women-of-color-1okk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
