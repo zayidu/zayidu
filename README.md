@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Floating Point Numbers and Scientific Notation](https://dev.to/nozibul_islam_113b1d5334f/floating-point-numbers-and-scientific-notation-1ih1)
-- [Introductory Collections in Python](https://dev.to/devbyleandro/introductory-collections-in-python-g7g)
-- [Difference between betting_system and betting_system_web in Elixir](https://dev.to/msnmongare/difference-between-bettingsystem-and-bettingsystemweb-in-elixir-37hi)
-- [How Blockchain Is Transforming Industries Beyond Crypto](https://dev.to/devkantbhagat/how-blockchain-is-transforming-industries-beyond-crypto-5814)
-- [HawkClient: A developer and git friendly API client &lpar;postman alternative&rpar;](https://dev.to/prashantrathi123/hawkclient-a-developer-and-git-friendly-api-client-postman-alternative-1gm4)
+- [Creating a Static Website Using S3 and CloudFront](https://dev.to/quincy_ochieng/creating-a-static-website-using-s3-and-cloudfront-4n62)
+- [[Boost]](https://dev.to/karanverma/-2nog)
+- [Stop Using Your Database as a Message Queue: Why It&#39;s a Bad Idea](https://dev.to/pratikpathak/stop-using-your-database-as-a-message-queue-why-its-a-bad-idea-2kff)
+- [Ditch the Stock Photos: Supercharge Your Dev Projects with AI Image Generation](https://dev.to/aigame/ditch-the-stock-photos-supercharge-your-dev-projects-with-ai-image-generation-1el6)
+- [Bits, bytes y los operadores bitwise](https://dev.to/djsurgeon/bits-bytes-y-los-operadores-bitwise-42m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
