@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [dotme: Instantly Apply Dotfiles from Any Git Repository with One CLI Command](https://dev.to/rsvinicius/dotme-instantly-apply-dotfiles-from-any-git-repository-with-one-cli-command-3mh6)
-- [Forging the Future of Developer Experience](https://dev.to/leo_____9a8ebeafbd6de28c3/forging-the-future-of-developer-experience-oh)
-- [Kubernetes Dashboard: Headlamp on Kind](https://dev.to/deebi9/kubernetes-dashboard-headlamp-on-kind-3c2d)
-- [Building Automated Data Reports from Supabase with GitHub Actions and R Markdown](https://dev.to/afrologicinsect/building-automated-data-reports-from-supabase-with-github-actions-and-r-markdown-2gh1)
-- [Mastering Vim: The Underrated Superpower Every Cloud Enthusiast Needs](https://dev.to/axisinfo_0a61830e06c3c950/mastering-vim-the-underrated-superpower-every-cloud-enthusiast-needs-4402)
+- [How to Submit a Bounty on Gitcoin: A Comprehensive Guide to Accelerating Open Source Development](https://dev.to/kallileiser/how-to-submit-a-bounty-on-gitcoin-a-comprehensive-guide-to-accelerating-open-source-development-4lg3)
+- [Deploying a Static E-commerce Site to AWS Using Pulumi](https://dev.to/iamsherif/deploying-a-static-e-commerce-site-to-aws-using-pulumi-1nlf)
+- [Day-15: Static vs Non-Static Methods, Global vs Local Variables in Java](https://dev.to/e00049/day-15-static-vs-non-static-methods-global-vs-local-variables-in-java-4mji)
+- [Role-Based Route Permissions in Remix / React Router v7](https://dev.to/princetomarappdev/role-based-route-permissions-in-remix-react-router-v7-1d3j)
+- [Distributed Model Serving Patterns](https://dev.to/iameminmammadov/distributed-model-serving-patterns-43ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
