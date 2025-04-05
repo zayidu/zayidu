@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed ERR_TOO_MANY_REDIRECTS with Cloudflare + Vercel](https://dev.to/samitkapoor/how-i-fixed-errtoomanyredirects-with-cloudflare-vercel-1dbd)
-- [Learning Elixir: Advanced Control Structures](https://dev.to/abreujp/learning-elixir-advanced-control-structures-132n)
-- [🧩 Questions about general web development. &lpar;Share your knowledge&rpar;](https://dev.to/geanny_deraben_75b1f0f21/questions-about-general-web-development-share-your-knowledge-54nn)
-- [Identifying Spam Emails through ML Classification with AWS ☁️](https://dev.to/aws-builders/identifying-spam-emails-through-ml-classification-with-aws-3f0g)
-- [PEM, DER, PFX, CER, CRT, and CSR for connecting to servers](https://dev.to/hobbyistprogrammerar/pem-der-pfx-cer-crt-and-csr-for-connecting-to-servers-54k1)
+- [The Power of Graphs: From Social Network Analysis to Disease Tracking](https://dev.to/ritu_gupta2334/the-power-of-graphs-from-social-network-analysis-to-disease-tracking-59ld)
+- [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://dev.to/salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-37ai)
+- [1- STATEMENTS &amp; OPERATORS](https://dev.to/sudhakar_v_c404997aeec839/1-statements-operators-4bdo)
+- [A Comprehensive Guide on How to Buy DRIP Tokens: Navigating DeFi on Binance Smart Chain](https://dev.to/ashucommits/a-comprehensive-guide-on-how-to-buy-drip-tokens-navigating-defi-on-binance-smart-chain-4bg6)
+- [Svelte vs React: Core Feature Comparison](https://dev.to/leapcell/svelte-vs-react-core-feature-comparison-4hdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
