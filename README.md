@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Method Reveals How AI Models Actually Think by Mapping Their Reasoning Process](https://dev.to/mikeyoung44/new-method-reveals-how-ai-models-actually-think-by-mapping-their-reasoning-process-32ml)
-- [AI System Achieves 71% of Human Performance in Image Segmentation Without Training Labels](https://dev.to/mikeyoung44/ai-system-achieves-71-of-human-performance-in-image-segmentation-without-training-labels-1j7l)
-- [NVIDIA AI Turns Text-Generated Videos into Physically Accurate 3D Character Animations](https://dev.to/mikeyoung44/nvidia-ai-turns-text-generated-videos-into-physically-accurate-3d-character-animations-7am)
-- [Brain-Like AI Model Learns More Efficiently by Mimicking Neural Spike Patterns](https://dev.to/mikeyoung44/brain-like-ai-model-learns-more-efficiently-by-mimicking-neural-spike-patterns-50fa)
-- [From Legacy to Leading: A Guide to Seeding the Switch from Old Systems to New Technology](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-legacy-to-leading-a-guide-to-seeding-the-switch-from-old-systems-to-new-technology-39f9)
+- [11 Step Checklist for Internationalizing a Website](https://dev.to/wimadev/11-step-checklist-for-internationalizing-a-website-4mof)
+- [WebAssembly Integration with JavaScript](https://dev.to/omriluz1/webassembly-integration-with-javascript-gkp)
+- [Kata Containers: Lightweight VMs for Containers](https://dev.to/kikifachry/kata-containers-lightweight-vms-for-containers-4ine)
+- [Use these placeholder images to test your UI](https://dev.to/vosidiy/use-these-placeholder-images-to-test-your-ui-gn5)
+- [Day-16: Java Variables: Comprehensive Documentation](https://dev.to/e00049/day-16-java-variables-comprehensive-documentation-5271)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
