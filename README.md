@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Analytics Annotations: A Guide to Contextualizing Your Data](https://dev.to/seosiri/google-analytics-annotations-a-guide-to-contextualizing-your-data-2012)
-- [&quot;Revolutionize Image Editing: Unleashing the Power of CoLan Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionize-image-editing-unleashing-the-power-of-colan-framework-3jd9)
-- [One-click import of Excel to database](https://dev.to/ryjfgjl/one-click-import-of-excel-to-database-79d)
-- [Understanding the Role of AI in Cloud Cost Optimization](https://dev.to/kartikmehta8/understanding-the-role-of-ai-in-cloud-cost-optimization-1ko3)
-- [Aula02 - Jokenpo](https://dev.to/danielcezar/aula02-arquivo0-2e4)
+- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-fhn)
+- [SPO600 Project Stage 2, Part 2: &quot;Where Art Thou, Clones?&quot;](https://dev.to/jpjpjp/spo600-project-stage-2-part-2-where-art-thou-clones-3hkf)
+- [Criando uma API OCR com FaaS na Azure – Parte 1: Arquitetura e Upload Seguro](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-1-arquitetura-e-upload-seguro-3616)
+- [Part 2: AI Agent Truly Intelligent?](https://dev.to/ajanthan_hr_c019bb2b72c79/part-2-ai-agent-truly-intelligent-4653)
+- [Weekly #14-2025: Next.js Middleware Bypass, TikTok&#39;s Final Proposal, OpenAI, Software Engineers &amp; More](https://dev.to/weekly/weekly-14-2025-nextjs-middleware-bypass-tiktoks-final-proposal-openai-software-engineers--682)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
