@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The art of creating an effective application security Program: Strategies, Methods and Tools for the Best Performance](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tools-for-ke7)
-- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-2e1k)
-- [The Challenges of Vibe Coding: Staying Focused Amidst Memory Chaos](https://dev.to/aiw3n/the-challenges-of-vibe-coding-staying-focused-amidst-memory-chaos-2e78)
-- [Introduction to Wave v0.0.6-pre-beta: Strong Typing, Function Returns, and continue Support](https://dev.to/lunastev/introduction-to-wave-v006-pre-beta-strong-typing-function-returns-and-continue-support-5co4)
-- [What License Should You Use on GitHub? Understanding MIT, Apache, GPL, and More](https://dev.to/matheussricardoo/what-license-should-you-use-on-github-understanding-mit-apache-gpl-and-more-5976)
+- [Python Backend trainee](https://dev.to/masatefou/python-backend-trainee-ke3)
+- [Making UX That Clicks: Motivation, Mind Games, and Mental Models](https://dev.to/rijultp/making-ux-that-clicks-motivation-mind-games-and-mental-models-5gkh)
+- [I built a small Windows app to extract links from PDFs and websites – looking for feedback!](https://dev.to/tarik_dev_c4860a0b4619b3d/i-built-a-small-windows-app-to-extract-links-from-pdfs-and-websites-looking-for-feedback-n71)
+- [ค้นหาเส้นทางอย่างโปร ด้วย BFS และ DFS ใน Python!!!](https://dev.to/mint_z/khnhaaesnthaangyaangopr-dwy-bfs-aela-dfs-ain-python-1gk)
+- [Looking for feedback on my spring boot project](https://dev.to/talha_atif_22/looking-for-feedback-on-my-spring-boot-project-1ooj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
