@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Step Checklist for Internationalizing a Website](https://dev.to/wimadev/11-step-checklist-for-internationalizing-a-website-4mof)
-- [WebAssembly Integration with JavaScript](https://dev.to/omriluz1/webassembly-integration-with-javascript-gkp)
-- [Kata Containers: Lightweight VMs for Containers](https://dev.to/kikifachry/kata-containers-lightweight-vms-for-containers-4ine)
-- [Use these placeholder images to test your UI](https://dev.to/vosidiy/use-these-placeholder-images-to-test-your-ui-gn5)
-- [Day-16: Java Variables: Comprehensive Documentation](https://dev.to/e00049/day-16-java-variables-comprehensive-documentation-5271)
+- [My Journey to Programming: Building my first Full-Stack Application](https://dev.to/desiii_notfound/my-journey-to-programming-building-my-first-full-stack-application-51k4)
+- [Why JSONsilo is Perfect for Prototyping and Small Projects](https://dev.to/jaironlanda/why-jsonsilo-is-perfect-for-prototyping-and-small-projects-1h8b)
+- [🚗 Help Wanted: Admin CMS for Car Listing Platform](https://dev.to/andreas_2630/help-wanted-admin-cms-for-car-listing-platform-2633)
+- [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
+- [&quot;Unlocking Reliability: Testing Neural Networks for Critical Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-reliability-testing-neural-networks-for-critical-systems-3607)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
