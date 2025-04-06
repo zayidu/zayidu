@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2. Logs](https://dev.to/haaragard/2-logs-cpk)
-- [Refactoring 026 - Migrate Global Console Input to Declarative Function](https://dev.to/mcsee/refactoring-026-migrate-global-console-input-to-declarative-function-29k)
-- [IaC in Action: Deploying a Static Site with Pulumi, AWS &amp; Cloudflare](https://dev.to/onlyfave/iac-in-action-deploying-a-static-site-with-pulumi-aws-cloudflare-29cj)
-- [Commentary on the ThoughtWorks Radar 2025](https://dev.to/jesterxl/commentary-on-the-thoughtworks-radar-2025-gd9)
-- [My WeCoded Landing Page](https://dev.to/prubianes/my-wecoded-landing-page-3i6i)
+- [calculadora de inss .](https://dev.to/paulo_roberto_91f7f091c42/calculadora-de-inss--3b66)
+- [Building AI-Powered Apps with Vercel AI SDK and React Server Components](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-server-components-1a6e)
+- [Navigating Apple’s Human Interface Guidelines &lpar;HIG&rpar;: A Practical Guide](https://dev.to/matheussricardoo/navigating-apples-human-interface-guidelines-hig-a-practical-guide-26ka)
+- [Tilt: Improving Local Development with Production-Like Environments](https://dev.to/gurghet/improving-local-development-with-production-like-environments-hhh)
+- [Vibe Tech #1: Welcome and initial thoughts](https://dev.to/surfing_devs/vibe-tech-1-welcome-and-initial-thoughts-jkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
