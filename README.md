@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-fhn)
-- [SPO600 Project Stage 2, Part 2: &quot;Where Art Thou, Clones?&quot;](https://dev.to/jpjpjp/spo600-project-stage-2-part-2-where-art-thou-clones-3hkf)
-- [Criando uma API OCR com FaaS na Azure – Parte 1: Arquitetura e Upload Seguro](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-1-arquitetura-e-upload-seguro-3616)
-- [Part 2: AI Agent Truly Intelligent?](https://dev.to/ajanthan_hr_c019bb2b72c79/part-2-ai-agent-truly-intelligent-4653)
-- [Weekly #14-2025: Next.js Middleware Bypass, TikTok&#39;s Final Proposal, OpenAI, Software Engineers &amp; More](https://dev.to/weekly/weekly-14-2025-nextjs-middleware-bypass-tiktoks-final-proposal-openai-software-engineers--682)
+- [Pulumi Gestalt 0.0.2 released](https://dev.to/andrzejressel/pulumi-gestalt-002-released-5hm8)
+- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-3bcl)
+- [License-Token: Revolutionizing OSS License Distribution for a New Era of Open Source Innovation](https://dev.to/kallileiser/license-token-revolutionizing-oss-license-distribution-for-a-new-era-of-open-source-innovation-1330)
+- [DSA in Web Development](https://dev.to/raushan_sinha_8efb05c7b1c/dsa-in-web-development-7om)
+- [Hello Devs! Transitioning from Mechanical to Tech - Need some HTML/CSS tips!!](https://dev.to/shifil/hello-devs-transitioning-from-mechanical-to-tech-need-some-htmlcss-tips-2apd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
