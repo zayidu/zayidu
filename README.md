@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did you choose JavaScript?](https://dev.to/shafiqbd/why-did-you-choose-javascript-2bmd)
-- [EC2 User Data for Beginners](https://dev.to/rajathkumarks/ec2-user-data-for-beginners-2fn3)
-- [Time of YAML/JSON for data engineer](https://dev.to/kination/time-of-yamljson-for-data-engineer-84c)
-- [Creating a Middleware in FastAPI for Logging Request and Responses](https://dev.to/rajathkumarks/creating-a-middleware-in-fastapi-for-logging-request-and-responses-379o)
-- [I Made a Detective Game That Teaches You SQL](https://dev.to/hristo2612/i-made-a-detective-game-that-teaches-you-sql-njd)
+- [Building a Modern To-Do List App with Dark Mode—Complete Guide](https://dev.to/mohamud_dahirabdi_1ed193/building-a-modern-to-do-list-app-with-dark-mode-complete-guide-fio)
+- [Title: Supersolid Light: The Future of Quantum Computingr?](https://dev.to/asad_hussain_efed8ee765b9/title-supersolid-light-the-future-of-quantum-computingr-2leb)
+- [Deploy Kata Containers in Ubuntu 24.04](https://dev.to/kikifachry/deploy-kata-containers-in-ubuntu-2404-17le)
+- [Why We Still Use Laravel, PHP &amp; jQuery at DoozieSoft — And Why We’re Not Ashamed of It](https://dev.to/doozieakshay/why-we-still-use-laravel-php-jquery-at-dooziesoft-and-why-were-not-ashamed-of-it-5dbd)
+- [MuleSoft Artificial Intelligence: Revolutionizing Integration Workflows](https://dev.to/kapusto/mulesoft-artificial-intelligence-revolutionizing-integration-workflows-ek1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
