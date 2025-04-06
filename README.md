@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
-- [I made a real-time Mafia game you can play with strangers – no signups](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signups-4ga2)
-- [Unlocking the Future: Open Source and Blockchain Funding Revolution](https://dev.to/zhangwei42/unlocking-the-future-open-source-and-blockchain-funding-revolution-amg)
-- [WeCoded Landing page](https://dev.to/rinka_pro/wecoded-landing-page-5a9g)
-- [quiz- fuyuki](https://dev.to/gabriela_bueno_aafd93378e/quiz-fuyuki-3o15)
+- [Intl API for Internationalization](https://dev.to/omriluz1/intl-api-for-internationalization-3j20)
+- [How I Built &amp; Deployed &#39;DevMood&#39; Developer App in 24 Hours with Pulumi 🔥](https://dev.to/alizgheib/how-i-built-deployed-devmood-developer-app-in-24-hours-with-pulumi-29a8)
+- [Announcing: Angular Material Blocks](https://dev.to/ngmaterialdev/announcing-angular-material-blocks-2e2a)
+- [[Boost]](https://dev.to/dennis_kimani_6bf5f37ba9e/-442f)
+- [Understanding UTM Parameters: A Comprehensive Guide for Marketers](https://dev.to/nelsonforge/understanding-utm-parameters-a-comprehensive-guide-for-marketers-183n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
