@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural DSL v0.2.6: Enhanced Dashboard UI &amp; Blog Support](https://dev.to/neural/neural-dsl-v026-enhanced-dashboard-ui-blog-support-4n4k)
-- [Extreme Ownership of Your Career — the Open Source Way](https://dev.to/nikitakoselev/extreme-ownership-of-your-career-the-open-source-way-1m0k)
-- [Serverless DevOps: Cutting Costs &amp; Boosting CI/CD on AWS](https://dev.to/harinath_6dbf81326cec6e95/serverless-devops-cutting-costs-boosting-cicd-on-aws-532)
-- [How to Install AWS CLI on Windows: A Step-by-Step Guide](https://dev.to/khushi_nandwani_991632faa/how-to-install-aws-cli-on-windows-a-step-by-step-guide-1hjp)
-- [Why Your `.parallelStream&lpar;&rpar;` Might Not Be Parallel at All](https://dev.to/hugaomarques/why-your-parallelstream-might-not-be-parallel-at-all-g7e)
+- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
+- [I made a real-time Mafia game you can play with strangers – no signups](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signups-4ga2)
+- [Unlocking the Future: Open Source and Blockchain Funding Revolution](https://dev.to/zhangwei42/unlocking-the-future-open-source-and-blockchain-funding-revolution-amg)
+- [WeCoded Landing page](https://dev.to/rinka_pro/wecoded-landing-page-5a9g)
+- [quiz- fuyuki](https://dev.to/gabriela_bueno_aafd93378e/quiz-fuyuki-3o15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
