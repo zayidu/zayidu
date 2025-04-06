@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Just Unveiled Llama 4 Multimodal AI - Proje Defteri](https://dev.to/projedefteri/meta-just-unveiled-llama-4-multimodal-ai-proje-defteri-3jk5)
-- [I Tested Every MCP Client So You Don&#39;t Have To 🔥](https://dev.to/makhlevich/i-tested-every-mcp-client-so-you-dont-have-to-1dn7)
-- [Open Source Funding and Blockchain Project Funding: Building a Community-Driven Future](https://dev.to/jennythomas498/open-source-funding-and-blockchain-project-funding-building-a-community-driven-future-1ebl)
-- [✨ Voices in Tech](https://dev.to/preethi-g/voices-in-tech-366l)
-- [Building a CLI Contact Manager with Bash, MySQL, and Vibe Coding](https://dev.to/nick_clarkson_ab874ff6f7b/building-a-cli-contact-manager-with-bash-mysql-and-vibe-coding-1dj)
+- [The art of creating an effective application security Program: Strategies, Methods and Tools for the Best Performance](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tools-for-ke7)
+- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-2e1k)
+- [The Challenges of Vibe Coding: Staying Focused Amidst Memory Chaos](https://dev.to/aiw3n/the-challenges-of-vibe-coding-staying-focused-amidst-memory-chaos-2e78)
+- [Introduction to Wave v0.0.6-pre-beta: Strong Typing, Function Returns, and continue Support](https://dev.to/lunastev/introduction-to-wave-v006-pre-beta-strong-typing-function-returns-and-continue-support-5co4)
+- [What License Should You Use on GitHub? Understanding MIT, Apache, GPL, and More](https://dev.to/matheussricardoo/what-license-should-you-use-on-github-understanding-mit-apache-gpl-and-more-5976)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
