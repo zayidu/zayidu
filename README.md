@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19.1 is out, new JavaScript runtime better than Node.js, Safari 18.4 brings new WebKit features, and more](https://dev.to/thisweekinjavascript/react-191-is-out-new-javascript-runtime-better-than-nodejs-safari-184-brings-new-webkit-3hlh)
-- [TryHackMe: Yara](https://dev.to/seanleeys/tryhackme-yara-235m)
-- [TryHackMe: Threat Intelligence Tools](https://dev.to/seanleeys/tryhackme-threat-intelligence-tools-3an0)
-- [Investigating PostgreSQL&#39;s `ANALYZE` Runtime Behavior: Sampling, Table Size, and Cache Effects](https://dev.to/msdousti/investigating-postgresqls-analyze-runtime-behavior-sampling-table-size-and-cache-effects-1eln)
-- [Integrating AdMob in React Native Expo: A Comprehensive Developer&#39;s Guide](https://dev.to/oghenetega_adiri/integrating-admob-in-react-native-expo-a-comprehensive-developers-guide-35ij)
+- [Neural DSL v0.2.6: Enhanced Dashboard UI &amp; Blog Support](https://dev.to/neural/neural-dsl-v026-enhanced-dashboard-ui-blog-support-4n4k)
+- [Extreme Ownership of Your Career — the Open Source Way](https://dev.to/nikitakoselev/extreme-ownership-of-your-career-the-open-source-way-1m0k)
+- [Serverless DevOps: Cutting Costs &amp; Boosting CI/CD on AWS](https://dev.to/harinath_6dbf81326cec6e95/serverless-devops-cutting-costs-boosting-cicd-on-aws-532)
+- [How to Install AWS CLI on Windows: A Step-by-Step Guide](https://dev.to/khushi_nandwani_991632faa/how-to-install-aws-cli-on-windows-a-step-by-step-guide-1hjp)
+- [Why Your `.parallelStream&lpar;&rpar;` Might Not Be Parallel at All](https://dev.to/hugaomarques/why-your-parallelstream-might-not-be-parallel-at-all-g7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
