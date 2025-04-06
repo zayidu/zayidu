@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Programming: Building my first Full-Stack Application](https://dev.to/desiii_notfound/my-journey-to-programming-building-my-first-full-stack-application-51k4)
-- [Why JSONsilo is Perfect for Prototyping and Small Projects](https://dev.to/jaironlanda/why-jsonsilo-is-perfect-for-prototyping-and-small-projects-1h8b)
-- [🚗 Help Wanted: Admin CMS for Car Listing Platform](https://dev.to/andreas_2630/help-wanted-admin-cms-for-car-listing-platform-2633)
-- [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
-- [&quot;Unlocking Reliability: Testing Neural Networks for Critical Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-reliability-testing-neural-networks-for-critical-systems-3607)
+- [Why did you choose JavaScript?](https://dev.to/shafiqbd/why-did-you-choose-javascript-2bmd)
+- [EC2 User Data for Beginners](https://dev.to/rajathkumarks/ec2-user-data-for-beginners-2fn3)
+- [Time of YAML/JSON for data engineer](https://dev.to/kination/time-of-yamljson-for-data-engineer-84c)
+- [Creating a Middleware in FastAPI for Logging Request and Responses](https://dev.to/rajathkumarks/creating-a-middleware-in-fastapi-for-logging-request-and-responses-379o)
+- [I Made a Detective Game That Teaches You SQL](https://dev.to/hristo2612/i-made-a-detective-game-that-teaches-you-sql-njd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
