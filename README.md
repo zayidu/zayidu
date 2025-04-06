@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/rachellovestowrite/moonbirds-and-indie-hacking-in-the-nft-ecosystem-4n9m)
-- [Day 2: &quot;Where Everything Lives: A Deep Dive into Linux Directories&quot;](https://dev.to/rajpreet_gill_6272051bd31/day-2-where-everything-lives-a-deep-dive-into-linux-directories-3kp6)
-- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-51ba)
-- [The Rising Tide of Tokenized Assets: Transforming Marketplaces for the Digital Age](https://dev.to/zhangwei42/the-rising-tide-of-tokenized-assets-transforming-marketplaces-for-the-digital-age-563h)
-- [10 Next.js Performance Tips I Learned from Real Client Projects](https://dev.to/raajaryan/10-nextjs-performance-tips-i-learned-from-real-client-projects-210k)
+- [I published a book about HTTP — it&#39;s free now &lpar;in German&rpar;](https://dev.to/chrdiede/i-published-a-book-about-http-its-free-now-in-german-2dc)
+- [Alien Dictionary](https://dev.to/rohithv07/alien-dictionary-2jjb)
+- [Angular Signals vs Observables: A Deep Dive into Modern Reactivity](https://dev.to/raju_dandigam/angular-signals-vs-observables-a-deep-dive-into-modern-reactivity-l03)
+- [Introducing #razenlang — A Clean, Fast &amp; Beginner-Friendly Programming Language](https://dev.to/prathmesh_pro/introducing-razenlang-a-clean-fast-beginner-friendly-programming-language-3b3a)
+- [.NET Learning Notes: How to Add a JWTVersion Filter](https://dev.to/alexleeeeeeeeee/net-learning-notes-how-to-add-a-jwtversion-filter-72h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
