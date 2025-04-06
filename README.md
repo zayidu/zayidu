@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Compiler – A Grumpy and Irresponsible Translator](https://dev.to/phuc_nguyen_7df3996e6e893/the-compiler-a-grumpy-and-irresponsible-translator-1bnd)
-- [🧠 MCP &lpar;Module Communication Protocol&rpar;: El lenguaje común entre módulos y agentes](https://dev.to/juan_carlosvalderrbano/mcp-module-communication-protocol-el-lenguaje-comun-entre-modulos-y-agentes-2cjm)
-- [Java Collections: Usage Precautions, Best Practices, and Pitfalls](https://dev.to/thellu/java-collections-usage-precautions-best-practices-and-pitfalls-4oo6)
-- [Join Fiverr’s Ultimate Easter Egg Challenge &amp; Win $70K+ in Bitcoin!](https://dev.to/lymah/join-fiverrs-ultimate-easter-egg-challenge-win-70k-in-bitcoin-4dam)
-- [Mastering &#39;Closures&#39; in JavaScript: Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/mastering-closures-in-javascript-never-to-look-back-again-5gm3)
+- [React 19.1 is out, new JavaScript runtime better than Node.js, Safari 18.4 brings new WebKit features, and more](https://dev.to/thisweekinjavascript/react-191-is-out-new-javascript-runtime-better-than-nodejs-safari-184-brings-new-webkit-3hlh)
+- [TryHackMe: Yara](https://dev.to/seanleeys/tryhackme-yara-235m)
+- [TryHackMe: Threat Intelligence Tools](https://dev.to/seanleeys/tryhackme-threat-intelligence-tools-3an0)
+- [Investigating PostgreSQL&#39;s `ANALYZE` Runtime Behavior: Sampling, Table Size, and Cache Effects](https://dev.to/msdousti/investigating-postgresqls-analyze-runtime-behavior-sampling-table-size-and-cache-effects-1eln)
+- [Integrating AdMob in React Native Expo: A Comprehensive Developer&#39;s Guide](https://dev.to/oghenetega_adiri/integrating-admob-in-react-native-expo-a-comprehensive-developers-guide-35ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
