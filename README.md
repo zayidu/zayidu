@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Open Source: A Comprehensive Guide to Developer Stipends, Sponsorship, and Open Collaboration](https://dev.to/bobcars/empowering-open-source-a-comprehensive-guide-to-developer-stipends-sponsorship-and-open-1lb4)
-- [Check this out](https://dev.to/the-idealist/-2m70)
-- [Rethink JS Classes: Embrace Closures for Lightweight State &amp; Typing](https://dev.to/svehla/rethink-js-classes-embrace-closures-for-lightweight-state-typing-fbk)
-- [Build a Contact Form in React with Node.js Backend and Store Messages in MongoDB &lpar;With Email Alerts!&rpar;](https://dev.to/the-idealist/build-a-contact-form-in-react-with-nodejs-backend-and-store-messages-in-mongodb-with-email-1bhe)
-- [Voice Search and Zero-Click Content: The Conversational Search Revolution](https://dev.to/kapusto/voice-search-and-zero-click-content-the-conversational-search-revolution-2c92)
+- [Meta Just Unveiled Llama 4 Multimodal AI - Proje Defteri](https://dev.to/projedefteri/meta-just-unveiled-llama-4-multimodal-ai-proje-defteri-3jk5)
+- [I Tested Every MCP Client So You Don&#39;t Have To 🔥](https://dev.to/makhlevich/i-tested-every-mcp-client-so-you-dont-have-to-1dn7)
+- [Open Source Funding and Blockchain Project Funding: Building a Community-Driven Future](https://dev.to/jennythomas498/open-source-funding-and-blockchain-project-funding-building-a-community-driven-future-1ebl)
+- [✨ Voices in Tech](https://dev.to/preethi-g/voices-in-tech-366l)
+- [Building a CLI Contact Manager with Bash, MySQL, and Vibe Coding](https://dev.to/nick_clarkson_ab874ff6f7b/building-a-cli-contact-manager-with-bash-mysql-and-vibe-coding-1dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
