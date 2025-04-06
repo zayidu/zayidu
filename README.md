@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [License-Token: A New Paradigm for OSS Sustainability](https://dev.to/ahmmrizv9/license-token-a-new-paradigm-for-oss-sustainability-3p6a)
-- [Llama 4 Unleashed: Revolutionizing AI with Multimodal Models and Massive Context Windows](https://dev.to/aniruddhaadak/llama-4-unleashed-revolutionizing-ai-with-multimodal-models-and-massive-context-windows-d6p)
-- [Building a Serverless Image Organizer with AWS Rekognition, S3, Lambda &amp; CloudWatch with Terraform](https://dev.to/sin4ch1/building-a-serverless-image-organizer-with-aws-rekognition-s3-lambda-cloudwatch-with-terraform-6mb)
-- [The Uneasy Truth I Found in AI Research](https://dev.to/usamaa/the-uneasy-truth-i-found-in-ai-research-270b)
-- [The Indie Hacking Journey of Kumis: Insights and Innovations in the Digital Era](https://dev.to/jennythomas498/the-indie-hacking-journey-of-kumis-insights-and-innovations-in-the-digital-era-3cja)
+- [Google Analytics Annotations: A Guide to Contextualizing Your Data](https://dev.to/seosiri/google-analytics-annotations-a-guide-to-contextualizing-your-data-2012)
+- [&quot;Revolutionize Image Editing: Unleashing the Power of CoLan Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionize-image-editing-unleashing-the-power-of-colan-framework-3jd9)
+- [One-click import of Excel to database](https://dev.to/ryjfgjl/one-click-import-of-excel-to-database-79d)
+- [Understanding the Role of AI in Cloud Cost Optimization](https://dev.to/kartikmehta8/understanding-the-role-of-ai-in-cloud-cost-optimization-1ko3)
+- [Aula02 - Jokenpo](https://dev.to/danielcezar/aula02-arquivo0-2e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
