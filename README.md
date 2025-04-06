@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern To-Do List App with Dark Mode—Complete Guide](https://dev.to/mohamud_dahirabdi_1ed193/building-a-modern-to-do-list-app-with-dark-mode-complete-guide-fio)
-- [Title: Supersolid Light: The Future of Quantum Computingr?](https://dev.to/asad_hussain_efed8ee765b9/title-supersolid-light-the-future-of-quantum-computingr-2leb)
-- [Deploy Kata Containers in Ubuntu 24.04](https://dev.to/kikifachry/deploy-kata-containers-in-ubuntu-2404-17le)
-- [Why We Still Use Laravel, PHP &amp; jQuery at DoozieSoft — And Why We’re Not Ashamed of It](https://dev.to/doozieakshay/why-we-still-use-laravel-php-jquery-at-dooziesoft-and-why-were-not-ashamed-of-it-5dbd)
-- [MuleSoft Artificial Intelligence: Revolutionizing Integration Workflows](https://dev.to/kapusto/mulesoft-artificial-intelligence-revolutionizing-integration-workflows-ek1)
+- [Empowering Open Source: A Comprehensive Guide to Developer Stipends, Sponsorship, and Open Collaboration](https://dev.to/bobcars/empowering-open-source-a-comprehensive-guide-to-developer-stipends-sponsorship-and-open-1lb4)
+- [Check this out](https://dev.to/the-idealist/-2m70)
+- [Rethink JS Classes: Embrace Closures for Lightweight State &amp; Typing](https://dev.to/svehla/rethink-js-classes-embrace-closures-for-lightweight-state-typing-fbk)
+- [Build a Contact Form in React with Node.js Backend and Store Messages in MongoDB &lpar;With Email Alerts!&rpar;](https://dev.to/the-idealist/build-a-contact-form-in-react-with-nodejs-backend-and-store-messages-in-mongodb-with-email-1bhe)
+- [Voice Search and Zero-Click Content: The Conversational Search Revolution](https://dev.to/kapusto/voice-search-and-zero-click-content-the-conversational-search-revolution-2c92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
