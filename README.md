@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi Gestalt 0.0.2 released](https://dev.to/andrzejressel/pulumi-gestalt-002-released-5hm8)
-- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-3bcl)
-- [License-Token: Revolutionizing OSS License Distribution for a New Era of Open Source Innovation](https://dev.to/kallileiser/license-token-revolutionizing-oss-license-distribution-for-a-new-era-of-open-source-innovation-1330)
-- [DSA in Web Development](https://dev.to/raushan_sinha_8efb05c7b1c/dsa-in-web-development-7om)
-- [Hello Devs! Transitioning from Mechanical to Tech - Need some HTML/CSS tips!!](https://dev.to/shifil/hello-devs-transitioning-from-mechanical-to-tech-need-some-htmlcss-tips-2apd)
+- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/rachellovestowrite/moonbirds-and-indie-hacking-in-the-nft-ecosystem-4n9m)
+- [Day 2: &quot;Where Everything Lives: A Deep Dive into Linux Directories&quot;](https://dev.to/rajpreet_gill_6272051bd31/day-2-where-everything-lives-a-deep-dive-into-linux-directories-3kp6)
+- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-51ba)
+- [The Rising Tide of Tokenized Assets: Transforming Marketplaces for the Digital Age](https://dev.to/zhangwei42/the-rising-tide-of-tokenized-assets-transforming-marketplaces-for-the-digital-age-563h)
+- [10 Next.js Performance Tips I Learned from Real Client Projects](https://dev.to/raajaryan/10-nextjs-performance-tips-i-learned-from-real-client-projects-210k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
