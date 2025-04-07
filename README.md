@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a CAGED System Visualization: Guitar Theory Interactive Guide](https://dev.to/radzion/building-a-caged-system-visualization-guitar-theory-interactive-guide-3lgd)
-- [You don&#39;t need that many meetings](https://dev.to/pooyan/you-dont-need-that-many-meetings-l23)
-- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://dev.to/code_2/how-i-would-learn-to-code-if-i-could-start-over-36bb)
-- [OTel Me Why](https://dev.to/adatole/otel-me-why-15ma)
-- [How to Change Font Color in Excel?](https://dev.to/excel24x7/how-to-change-font-color-in-excel-59h4)
+- [Making an Effective Application Security Program: Strategies, methods and tools for optimal results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-results-54aa)
+- [Excited to Be Here](https://dev.to/karthikeyan_n_d1ca77b06df/excited-to-be-here-409c)
+- [Implementing an effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-554o)
+- [Building Native Mobile Apps with Next.js 14 and Capacitor: A Step-by-Step Guide](https://dev.to/nakib_saiyad/building-native-mobile-apps-with-nextjs-14-and-capacitor-a-step-by-step-guide-1kif)
+- [How to Develop an Online Event Booking System Using PHP &amp; MySQL](https://dev.to/rakeebmkhan/how-to-develop-an-online-event-booking-system-using-php-mysql-3b4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
