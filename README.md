@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zed Run: Indie Hacking and NFT Innovation on the Digital Racetrack](https://dev.to/ashucommits/zed-run-indie-hacking-and-nft-innovation-on-the-digital-racetrack-3del)
-- [[Boost]](https://dev.to/karanverma/-4983)
-- [Understanding Anxiety: Causes and Symptoms](https://dev.to/isla_brown_662ed08f2867f1/understanding-anxiety-causes-and-symptoms-226g)
-- [To hone your skills as a Cloud Engineer, knowledge of networking is a must-have. Read up in this article the basics of networking. This will equip you to handle your tasks more effciently and also give you a basis to further deepen your understanding.](https://dev.to/oluwanifemi_loveth_1/to-hone-your-skills-as-a-cloud-engineer-knowledge-of-networking-is-a-must-have-read-up-in-this-428a)
-- [Mobile App Development: iOS vs. Android](https://dev.to/gaudigabrielmorales/mobile-app-development-ios-vs-android-2lek)
+- [5 core software design principles every developer should know &lpar;with examples&rpar;.](https://dev.to/rowsanali/5-core-software-design-principles-every-developer-should-know-with-examples-pjp)
+- [New AI System Beats Google Translate for Vietnamese-Japanese Language Pairs](https://dev.to/mikeyoung44/new-ai-system-beats-google-translate-for-vietnamese-japanese-language-pairs-5g5h)
+- [List of top AI Assistants for your Business](https://dev.to/alex_hagenbaugh_a919d0db7/list-of-top-ai-assistants-for-your-business-5g6)
+- [AI Models Still Can&#39;t Get Visual Jokes: Top Systems Miss 28% of Contradictory Humor](https://dev.to/mikeyoung44/ai-models-still-cant-get-visual-jokes-top-systems-miss-28-of-contradictory-humor-274k)
+- [AI Training System Improves Planning Abilities by 12% Using Virtual Test Scenarios](https://dev.to/mikeyoung44/ai-training-system-improves-planning-abilities-by-12-using-virtual-test-scenarios-4mpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
