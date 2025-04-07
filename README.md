@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-3ccd)
-- [SPO600: Project Stage 2 - Function Clone Detection and Analysis &lpar;Part 1&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-1-2ob7)
-- [Full Stack Starter: build an image gallery from scratch without frameworks](https://dev.to/sean_shirazi/full-stack-starter-build-a-image-gallery-from-scratch-without-frameworks-5h64)
-- [AI เกมงู การค้นหาเส้นทางด้วยDijkstra Algorithm](https://dev.to/team_th_089909a56ce4d0593/ai-ekmnguu-kaarkhnhaaesnthaangdwydijkstra-algorithm-10pd)
-- [Intelligent Data Management in Life Sciences: Transforming Drug Development with Smart, Scalable Systems](https://dev.to/hana_sato/intelligent-data-management-in-life-sciences-transforming-drug-development-with-smart-scalable-ink)
+- [Mastering Database Connection Pooling in Go: Performance Best Practices](https://dev.to/aaravjoshi/mastering-database-connection-pooling-in-go-performance-best-practices-4mic)
+- [[Boost]](https://dev.to/karanverma/-5260)
+- [AI’s Heating Up in April 2025!](https://dev.to/akanksha_pandey_af419131b/ais-heating-up-in-april-2025-2119)
+- [What skills should a poker game developer have?](https://dev.to/james_cowell_bd5c93f5f20b/what-skills-should-a-poker-game-developer-have-1e6)
+- [How to Use Tailwind CSS with Vanilla HTML, CSS, and JavaScript](https://dev.to/tene/how-to-use-tailwind-css-with-vanilla-html-css-and-javascript-29ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
