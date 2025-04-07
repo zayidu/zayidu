@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nullish Coalescing and Optional Chaining Explained](https://dev.to/omriluz1/nullish-coalescing-and-optional-chaining-explained-igb)
-- [Simplifying Design Patterns : Factory Method](https://dev.to/bccaxias/simplifying-design-patterns-factory-method-16f6)
-- [Mkdotenv: the tool that makes .env manipulation a breeze](https://dev.to/pcmagas/mkdotenv-the-tool-that-makes-env-manipulation-a-breeze-16m8)
-- [Aula02 da imersao Dev](https://dev.to/fernandamaresi/aula02-da-imersao-dev-2l46)
-- [Self-hosting LLMs for Production Systems: Solving the Model Quality Challenge](https://dev.to/ezodude/self-hosting-llms-for-production-systems-solving-the-model-quality-challenge-3h6i)
+- [Taming local git branches](https://dev.to/joestrout/taming-local-git-branches-4nd9)
+- [Finite State Machines no React: Gerenciado Estados de Forma Elegante](https://dev.to/judsonkerller/finite-state-machines-no-react-gerenciado-estados-de-forma-elegante-m7b)
+- [Além do Código: DevOps, Cloud e Segurança com Glaucia Lemos &lpar;Developer Advocate na Microsoft&rpar;](https://dev.to/womakerscode/alem-do-codigo-devops-cloud-e-seguranca-com-glaucia-lemos-developer-advocate-na-microsoft-12h4)
+- [How to Build an AI-Powered UI Component in Vue 3](https://dev.to/yahav10/how-to-build-an-ai-powered-ui-component-in-vue-3-5b91)
+- [The Mechanics of SELECT FOR UPDATE in SQL](https://dev.to/leapcell/the-mechanics-of-select-for-update-in-sql-3of5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
