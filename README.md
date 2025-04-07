@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Fix for Debugging Panic Failures in Go 🔧](https://dev.to/lovestaco/quick-fix-for-debugging-panic-failures-in-go-2kp8)
-- [Why Most Flipkart Sellers Fail to Scale — And How You Can Break Free from the Chaos](https://dev.to/md_tasin_422/why-most-flipkart-sellers-fail-to-scale-and-how-you-can-break-free-from-the-chaos-kcm)
-- [Experimenting with Cursor](https://dev.to/bucketdotco/experimenting-with-cursor-52m3)
-- [Understanding Variables and Mutability in Rust: A Beginner&#39;s Guide](https://dev.to/stellaacharoiro/understanding-variables-and-mutability-in-rust-a-beginners-guide-3ifd)
-- [💻 You Should Try These Tools In Your Next Project](https://dev.to/withishtiaq/you-should-try-these-tools-in-your-next-project-45i7)
+- [How to Automate Newsletters for House Cleaning Companies: A Step-by-Step Guide](https://dev.to/jesus_hall_bropro/how-to-automate-newsletters-for-house-cleaning-companies-a-step-by-step-guide-3pgl)
+- [O Que Acontece Quando Você Faz um Commit: Um Mergulho Profundo no Git](https://dev.to/gusvasconcelos/o-que-acontece-quando-voce-faz-um-commit-um-mergulho-profundo-no-git-3da8)
+- [Solving the OLTP-OLAP Divide: PostgreSQL B-tree and Hash Indexes for Columnar Data](https://dev.to/timescale/solving-the-oltp-olap-divide-postgresql-b-tree-and-hash-indexes-for-columnar-data-4p7b)
+- [Is this code the standard for form validation/Regex](https://dev.to/lanor_rigby_7fe9c90f68151/is-this-code-the-standard-for-form-validationregex-3ii2)
+- [11.0](https://dev.to/henriquemtal/110-384h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
