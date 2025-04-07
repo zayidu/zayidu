@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making an Effective Application Security Program: Strategies, methods and tools for optimal results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-results-54aa)
-- [Excited to Be Here](https://dev.to/karthikeyan_n_d1ca77b06df/excited-to-be-here-409c)
-- [Implementing an effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-554o)
-- [Building Native Mobile Apps with Next.js 14 and Capacitor: A Step-by-Step Guide](https://dev.to/nakib_saiyad/building-native-mobile-apps-with-nextjs-14-and-capacitor-a-step-by-step-guide-1kif)
-- [How to Develop an Online Event Booking System Using PHP &amp; MySQL](https://dev.to/rakeebmkhan/how-to-develop-an-online-event-booking-system-using-php-mysql-3b4p)
+- [Simplify Authentication by Replacing Nginx with Cloudflare Snippets](https://dev.to/mechcloud_academy/simplify-authentication-by-replacing-nginx-with-cloudflare-snippets-5eo2)
+- [Engineering with Wisdom – Greek Philosophies That Guide DoozieSoft](https://dev.to/doozieakshay/engineering-with-wisdom-greek-philosophies-that-guide-dooziesoft-349i)
+- [Upgrade Gateway to v1.0.4](https://dev.to/palapala/upgrade-gateway-to-v104-fie)
+- [Highlights from the 2024 State of React Native Survey Results](https://dev.to/ssojet/highlights-from-the-2024-state-of-react-native-survey-results-27j6)
+- [[Boost]](https://dev.to/shiv15/-2cin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
