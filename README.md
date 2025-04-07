@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pour Your Heart Into It](https://dev.to/getjv/pour-your-heart-into-it-13gc)
-- [The role of Python in real time computer vision and image recognition tasks](https://dev.to/marufhossain/the-role-of-python-in-real-time-computer-vision-and-image-recognition-tasks-58an)
-- [Debug](https://dev.to/anthonybanion/debug-f83)
-- [Cách cài đặt và tối ưu hóa Obsidian trên Linux](https://dev.to/tranngocminhhieu/cach-cai-dat-va-toi-uu-hoa-obsidian-tren-linux-3p7c)
-- [YOLOv12: The Next Evolution in Document Layout Analysis](https://dev.to/ppaanngggg/yolov12-the-next-evolution-in-document-layout-analysis-2o2a)
+- [Open Source is Soil: The Greening Philosophy](https://dev.to/chrisgreening/open-source-is-soil-the-greening-philosophy-3beh)
+- [How to Generate a GitHub Token for Pushing Repos with Greening](https://dev.to/chrisgreening/how-to-generate-a-github-token-for-pushing-repos-with-greening-ne6)
+- [Solving the ENOSPC File Watcher Error in Linux Development Environments](https://dev.to/morgankar/solving-the-enospc-file-watcher-error-in-linux-development-environments-544j)
+- [Exploring GitHub Sponsors: Global Impact and Future Innovations in Open-Source Funding](https://dev.to/ashucommits/exploring-github-sponsors-global-impact-and-future-innovations-in-open-source-funding-46h5)
+- [From ELIZA to GPT-4: A Human&#39;s Guide to the History of Large Language Models &lpar;LLMs&rpar;](https://dev.to/nicktesh/from-eliza-to-gpt-4-a-humans-guide-to-the-history-of-large-language-models-llms-4hn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
