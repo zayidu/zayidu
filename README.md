@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Debouncing Still Matters](https://dev.to/davinceleecode/why-debouncing-still-matters-43j8)
-- [🎉 Apache Ambari 3.0.0 Released: A New Chapter in Hadoop Cluster Management](https://dev.to/jialiang_cai_9eff69bf9807/apache-ambari-300-released-a-new-chapter-in-hadoop-cluster-management-4k4o)
-- [Quiz english app](https://dev.to/paulo_roberto_91f7f091c42/quiz-english-app-26i5)
-- [7 Best Features to Look for in a Video Hosting Platform](https://dev.to/livestreaming/7-best-features-to-look-for-in-a-video-hosting-platform-4iea)
-- [Patro Powered by Passion: Games, Systems, and Infinite Learning](https://dev.to/patrocinioluisf/patro-powered-by-passion-games-systems-and-infinite-learning-52f1)
+- [Building a CAGED System Visualization: Guitar Theory Interactive Guide](https://dev.to/radzion/building-a-caged-system-visualization-guitar-theory-interactive-guide-3lgd)
+- [You don&#39;t need that many meetings](https://dev.to/pooyan/you-dont-need-that-many-meetings-l23)
+- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://dev.to/code_2/how-i-would-learn-to-code-if-i-could-start-over-36bb)
+- [OTel Me Why](https://dev.to/adatole/otel-me-why-15ma)
+- [How to Change Font Color in Excel?](https://dev.to/excel24x7/how-to-change-font-color-in-excel-59h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
