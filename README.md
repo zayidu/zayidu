@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Endless&#39; $1M Developer Grant Program is expecting you to join!](https://dev.to/endlessdevrel/endless-1m-developer-grant-program-is-expecting-you-to-join-1an)
-- [The Project of My Dreams: What I&#39;d Create With Unlimited Resources 💭✨](https://dev.to/alina_khmilevska_lee/the-project-of-my-dreams-what-id-create-with-unlimited-resources-2e81)
-- [Handling Big Data in SQL Databases – Pitfalls to Avoid](https://dev.to/dbvismarketing/handling-big-data-in-sql-databases-pitfalls-to-avoid-1imn)
-- [From PR to Preview: Automating Cloud Deployments with Pulumi + GitHub](https://dev.to/vivien_ogoun/from-pr-to-preview-automating-cloud-deployments-with-pulumi-github-4fdh)
-- [Github Milestone Motivator: An innovative idea from Pulumi intriguing challenge 🏆](https://dev.to/minhlong2605/github-milestone-motivator-an-innovative-idea-from-pulumi-intriguing-challenge-ej2)
+- [dynq: a free analytic query and data processing CLI tool for DynamoDB](https://dev.to/benward2301/dynq-a-free-analytic-query-and-data-processing-cli-tool-for-dynamodb-446g)
+- [Clean Architecture and SOLID Principles for C# Developers](https://dev.to/syawqy/clean-architecture-and-solid-principles-for-c-developers-4329)
+- [Pgbouncer Simple Configuration](https://dev.to/hujan/pgbouncer-simple-configuration-23d8)
+- [Processing data with “Data Prep Kit” &lpar;part 2&rpar;](https://dev.to/aairom/processing-data-with-data-prep-kit-part-2-53di)
+- [Recommendation system with Collaborative Filtering](https://dev.to/pakapon_k/recommendation-system-with-collaborative-filtering-1j25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
