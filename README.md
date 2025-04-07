@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazy Loading en HTML: cómo cargar imágenes de forma eficiente sin usar JavaScript](https://dev.to/johnserranodev/lazy-loading-en-html-como-cargar-imagenes-de-forma-eficiente-sin-usar-javascript-48e7)
-- [Unveiling Common Public Attribution License 1.0: A Comprehensive Overview and Future Trends](https://dev.to/vitalisorenko/unveiling-common-public-attribution-license-10-a-comprehensive-overview-and-future-trends-3hge)
-- [Mintlify vs. Gitbook: A 2025 Comparison](https://dev.to/tiffany-mintlify/mintlify-vs-gitbook-a-2025-comparison-2be7)
-- [Snowflake Algorithm: UUID Generation for Distributed Systems](https://dev.to/leapcell/snowflake-algorithm-uuid-generation-for-distributed-systems-4l56)
-- [Design Patterns - Pipeline](https://dev.to/lcmartins/design-patterns-pipeline-3ink)
+- [Quick Fix for Debugging Panic Failures in Go 🔧](https://dev.to/lovestaco/quick-fix-for-debugging-panic-failures-in-go-2kp8)
+- [Why Most Flipkart Sellers Fail to Scale — And How You Can Break Free from the Chaos](https://dev.to/md_tasin_422/why-most-flipkart-sellers-fail-to-scale-and-how-you-can-break-free-from-the-chaos-kcm)
+- [Experimenting with Cursor](https://dev.to/bucketdotco/experimenting-with-cursor-52m3)
+- [Understanding Variables and Mutability in Rust: A Beginner&#39;s Guide](https://dev.to/stellaacharoiro/understanding-variables-and-mutability-in-rust-a-beginners-guide-3ifd)
+- [💻 You Should Try These Tools In Your Next Project](https://dev.to/withishtiaq/you-should-try-these-tools-in-your-next-project-45i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
