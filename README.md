@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming local git branches](https://dev.to/joestrout/taming-local-git-branches-4nd9)
-- [Finite State Machines no React: Gerenciado Estados de Forma Elegante](https://dev.to/judsonkerller/finite-state-machines-no-react-gerenciado-estados-de-forma-elegante-m7b)
-- [Além do Código: DevOps, Cloud e Segurança com Glaucia Lemos &lpar;Developer Advocate na Microsoft&rpar;](https://dev.to/womakerscode/alem-do-codigo-devops-cloud-e-seguranca-com-glaucia-lemos-developer-advocate-na-microsoft-12h4)
-- [How to Build an AI-Powered UI Component in Vue 3](https://dev.to/yahav10/how-to-build-an-ai-powered-ui-component-in-vue-3-5b91)
-- [The Mechanics of SELECT FOR UPDATE in SQL](https://dev.to/leapcell/the-mechanics-of-select-for-update-in-sql-3of5)
+- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
+- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
+- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
+- [array of arrays js.. thoughts?](https://dev.to/lanor_rigby_7fe9c90f68151/array-of-arrays-js-thoughts-ndp)
+- [Anodized Aluminum VR Gravity Cards](https://dev.to/jsabutis/anodized-aluminum-vr-gravity-cards-3e7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
