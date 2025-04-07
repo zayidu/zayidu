@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [dynq: a free analytic query and data processing CLI tool for DynamoDB](https://dev.to/benward2301/dynq-a-free-analytic-query-and-data-processing-cli-tool-for-dynamodb-446g)
-- [Clean Architecture and SOLID Principles for C# Developers](https://dev.to/syawqy/clean-architecture-and-solid-principles-for-c-developers-4329)
-- [Pgbouncer Simple Configuration](https://dev.to/hujan/pgbouncer-simple-configuration-23d8)
-- [Processing data with “Data Prep Kit” &lpar;part 2&rpar;](https://dev.to/aairom/processing-data-with-data-prep-kit-part-2-53di)
-- [Recommendation system with Collaborative Filtering](https://dev.to/pakapon_k/recommendation-system-with-collaborative-filtering-1j25)
+- [Zed Run: Indie Hacking and NFT Innovation on the Digital Racetrack](https://dev.to/ashucommits/zed-run-indie-hacking-and-nft-innovation-on-the-digital-racetrack-3del)
+- [[Boost]](https://dev.to/karanverma/-4983)
+- [Understanding Anxiety: Causes and Symptoms](https://dev.to/isla_brown_662ed08f2867f1/understanding-anxiety-causes-and-symptoms-226g)
+- [To hone your skills as a Cloud Engineer, knowledge of networking is a must-have. Read up in this article the basics of networking. This will equip you to handle your tasks more effciently and also give you a basis to further deepen your understanding.](https://dev.to/oluwanifemi_loveth_1/to-hone-your-skills-as-a-cloud-engineer-knowledge-of-networking-is-a-must-have-read-up-in-this-428a)
+- [Mobile App Development: iOS vs. Android](https://dev.to/gaudigabrielmorales/mobile-app-development-ios-vs-android-2lek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
