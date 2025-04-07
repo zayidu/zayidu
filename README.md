@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source is Soil: The Greening Philosophy](https://dev.to/chrisgreening/open-source-is-soil-the-greening-philosophy-3beh)
-- [How to Generate a GitHub Token for Pushing Repos with Greening](https://dev.to/chrisgreening/how-to-generate-a-github-token-for-pushing-repos-with-greening-ne6)
-- [Solving the ENOSPC File Watcher Error in Linux Development Environments](https://dev.to/morgankar/solving-the-enospc-file-watcher-error-in-linux-development-environments-544j)
-- [Exploring GitHub Sponsors: Global Impact and Future Innovations in Open-Source Funding](https://dev.to/ashucommits/exploring-github-sponsors-global-impact-and-future-innovations-in-open-source-funding-46h5)
-- [From ELIZA to GPT-4: A Human&#39;s Guide to the History of Large Language Models &lpar;LLMs&rpar;](https://dev.to/nicktesh/from-eliza-to-gpt-4-a-humans-guide-to-the-history-of-large-language-models-llms-4hn0)
+- [Lazy Loading en HTML: cómo cargar imágenes de forma eficiente sin usar JavaScript](https://dev.to/johnserranodev/lazy-loading-en-html-como-cargar-imagenes-de-forma-eficiente-sin-usar-javascript-48e7)
+- [Unveiling Common Public Attribution License 1.0: A Comprehensive Overview and Future Trends](https://dev.to/vitalisorenko/unveiling-common-public-attribution-license-10-a-comprehensive-overview-and-future-trends-3hge)
+- [Mintlify vs. Gitbook: A 2025 Comparison](https://dev.to/tiffany-mintlify/mintlify-vs-gitbook-a-2025-comparison-2be7)
+- [Snowflake Algorithm: UUID Generation for Distributed Systems](https://dev.to/leapcell/snowflake-algorithm-uuid-generation-for-distributed-systems-4l56)
+- [Design Patterns - Pipeline](https://dev.to/lcmartins/design-patterns-pipeline-3ink)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
