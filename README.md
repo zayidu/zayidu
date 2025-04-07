@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing AI-Powered Accessibility Features for the Web](https://dev.to/kartikmehta8/developing-ai-powered-accessibility-features-for-the-web-m7g)
-- [i made a code review assistant. it&#39;s kindof like a competitor to coderabbit. but it&#39;s more focused on manual-review augmentation: coderev.q32.com would appreciate any feedback. like, maybe you want an &quot;overall&quot; summary in the draft, etc.](https://dev.to/earonesty/i-made-a-code-review-assistant-its-kindof-like-a-competitor-to-coderabbit-but-its-more-4mj5)
-- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3gcj)
-- [Designing an API with Swagger: A Step-by-Step Breakdown](https://dev.to/harishankarr7/designing-an-api-with-swagger-a-step-by-step-breakdown-531d)
-- [🚀 Enhancing Development Efficiency with VS Code Snippets: A React Native Example Using TypeScript](https://dev.to/ersuman/enhancing-development-efficiency-with-vs-code-snippets-a-react-native-example-using-typescript-6lh)
+- [Why Debouncing Still Matters](https://dev.to/davinceleecode/why-debouncing-still-matters-43j8)
+- [🎉 Apache Ambari 3.0.0 Released: A New Chapter in Hadoop Cluster Management](https://dev.to/jialiang_cai_9eff69bf9807/apache-ambari-300-released-a-new-chapter-in-hadoop-cluster-management-4k4o)
+- [Quiz english app](https://dev.to/paulo_roberto_91f7f091c42/quiz-english-app-26i5)
+- [7 Best Features to Look for in a Video Hosting Platform](https://dev.to/livestreaming/7-best-features-to-look-for-in-a-video-hosting-platform-4iea)
+- [Patro Powered by Passion: Games, Systems, and Infinite Learning](https://dev.to/patrocinioluisf/patro-powered-by-passion-games-systems-and-infinite-learning-52f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
