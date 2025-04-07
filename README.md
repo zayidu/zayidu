@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 8 best Go web frameworks for 2025: Updated list](https://dev.to/logrocket/the-8-best-go-web-frameworks-for-2025-updated-list-5180)
-- [Axios vs. Fetch &lpar;2025 update&rpar;: Which should you use for HTTP requests?](https://dev.to/logrocket/axios-vs-fetch-2025-update-which-should-you-use-for-http-requests-5d73)
-- [What are your goals for the week? #121](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-121-3bm4)
-- [How I Reduced My React Bundle Size by 30% &lpar;With Real Examples&rpar;](https://dev.to/_ndeyefatoudiop/how-i-reduced-my-react-bundle-size-by-30-with-real-examples-12ff)
-- [💬 Integrating Twilio: Part 3 - Handling Webhooks and Sending Messages with Laravel and Express](https://dev.to/nicolasmontielf/integrating-twilio-part-3-handling-webhooks-and-sending-messages-with-laravel-and-express-19hc)
+- [Pour Your Heart Into It](https://dev.to/getjv/pour-your-heart-into-it-13gc)
+- [The role of Python in real time computer vision and image recognition tasks](https://dev.to/marufhossain/the-role-of-python-in-real-time-computer-vision-and-image-recognition-tasks-58an)
+- [Debug](https://dev.to/anthonybanion/debug-f83)
+- [Cách cài đặt và tối ưu hóa Obsidian trên Linux](https://dev.to/tranngocminhhieu/cach-cai-dat-va-toi-uu-hoa-obsidian-tren-linux-3p7c)
+- [YOLOv12: The Next Evolution in Document Layout Analysis](https://dev.to/ppaanngggg/yolov12-the-next-evolution-in-document-layout-analysis-2o2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
