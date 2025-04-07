@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [calculadora de inss .](https://dev.to/paulo_roberto_91f7f091c42/calculadora-de-inss--3b66)
-- [Building AI-Powered Apps with Vercel AI SDK and React Server Components](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-server-components-1a6e)
-- [Navigating Apple’s Human Interface Guidelines &lpar;HIG&rpar;: A Practical Guide](https://dev.to/matheussricardoo/navigating-apples-human-interface-guidelines-hig-a-practical-guide-26ka)
-- [Tilt: Improving Local Development with Production-Like Environments](https://dev.to/gurghet/improving-local-development-with-production-like-environments-hhh)
-- [Vibe Tech #1: Welcome and initial thoughts](https://dev.to/surfing_devs/vibe-tech-1-welcome-and-initial-thoughts-jkh)
+- [Developing AI-Powered Accessibility Features for the Web](https://dev.to/kartikmehta8/developing-ai-powered-accessibility-features-for-the-web-m7g)
+- [i made a code review assistant. it&#39;s kindof like a competitor to coderabbit. but it&#39;s more focused on manual-review augmentation: coderev.q32.com would appreciate any feedback. like, maybe you want an &quot;overall&quot; summary in the draft, etc.](https://dev.to/earonesty/i-made-a-code-review-assistant-its-kindof-like-a-competitor-to-coderabbit-but-its-more-4mj5)
+- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3gcj)
+- [Designing an API with Swagger: A Step-by-Step Breakdown](https://dev.to/harishankarr7/designing-an-api-with-swagger-a-step-by-step-breakdown-531d)
+- [🚀 Enhancing Development Efficiency with VS Code Snippets: A React Native Example Using TypeScript](https://dev.to/ersuman/enhancing-development-efficiency-with-vs-code-snippets-a-react-native-example-using-typescript-6lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
