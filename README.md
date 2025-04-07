@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Authentication by Replacing Nginx with Cloudflare Snippets](https://dev.to/mechcloud_academy/simplify-authentication-by-replacing-nginx-with-cloudflare-snippets-5eo2)
-- [Engineering with Wisdom – Greek Philosophies That Guide DoozieSoft](https://dev.to/doozieakshay/engineering-with-wisdom-greek-philosophies-that-guide-dooziesoft-349i)
-- [Upgrade Gateway to v1.0.4](https://dev.to/palapala/upgrade-gateway-to-v104-fie)
-- [Highlights from the 2024 State of React Native Survey Results](https://dev.to/ssojet/highlights-from-the-2024-state-of-react-native-survey-results-27j6)
-- [[Boost]](https://dev.to/shiv15/-2cin)
+- [Endless&#39; $1M Developer Grant Program is expecting you to join!](https://dev.to/endlessdevrel/endless-1m-developer-grant-program-is-expecting-you-to-join-1an)
+- [The Project of My Dreams: What I&#39;d Create With Unlimited Resources 💭✨](https://dev.to/alina_khmilevska_lee/the-project-of-my-dreams-what-id-create-with-unlimited-resources-2e81)
+- [Handling Big Data in SQL Databases – Pitfalls to Avoid](https://dev.to/dbvismarketing/handling-big-data-in-sql-databases-pitfalls-to-avoid-1imn)
+- [From PR to Preview: Automating Cloud Deployments with Pulumi + GitHub](https://dev.to/vivien_ogoun/from-pr-to-preview-automating-cloud-deployments-with-pulumi-github-4fdh)
+- [Github Milestone Motivator: An innovative idea from Pulumi intriguing challenge 🏆](https://dev.to/minhlong2605/github-milestone-motivator-an-innovative-idea-from-pulumi-intriguing-challenge-ej2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
