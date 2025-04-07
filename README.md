@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Newsletters for House Cleaning Companies: A Step-by-Step Guide](https://dev.to/jesus_hall_bropro/how-to-automate-newsletters-for-house-cleaning-companies-a-step-by-step-guide-3pgl)
-- [O Que Acontece Quando Você Faz um Commit: Um Mergulho Profundo no Git](https://dev.to/gusvasconcelos/o-que-acontece-quando-voce-faz-um-commit-um-mergulho-profundo-no-git-3da8)
-- [Solving the OLTP-OLAP Divide: PostgreSQL B-tree and Hash Indexes for Columnar Data](https://dev.to/timescale/solving-the-oltp-olap-divide-postgresql-b-tree-and-hash-indexes-for-columnar-data-4p7b)
-- [Is this code the standard for form validation/Regex](https://dev.to/lanor_rigby_7fe9c90f68151/is-this-code-the-standard-for-form-validationregex-3ii2)
-- [11.0](https://dev.to/henriquemtal/110-384h)
+- [Nullish Coalescing and Optional Chaining Explained](https://dev.to/omriluz1/nullish-coalescing-and-optional-chaining-explained-igb)
+- [Simplifying Design Patterns : Factory Method](https://dev.to/bccaxias/simplifying-design-patterns-factory-method-16f6)
+- [Mkdotenv: the tool that makes .env manipulation a breeze](https://dev.to/pcmagas/mkdotenv-the-tool-that-makes-env-manipulation-a-breeze-16m8)
+- [Aula02 da imersao Dev](https://dev.to/fernandamaresi/aula02-da-imersao-dev-2l46)
+- [Self-hosting LLMs for Production Systems: Solving the Model Quality Challenge](https://dev.to/ezodude/self-hosting-llms-for-production-systems-solving-the-model-quality-challenge-3h6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
