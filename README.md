@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 core software design principles every developer should know &lpar;with examples&rpar;.](https://dev.to/rowsanali/5-core-software-design-principles-every-developer-should-know-with-examples-pjp)
-- [New AI System Beats Google Translate for Vietnamese-Japanese Language Pairs](https://dev.to/mikeyoung44/new-ai-system-beats-google-translate-for-vietnamese-japanese-language-pairs-5g5h)
-- [List of top AI Assistants for your Business](https://dev.to/alex_hagenbaugh_a919d0db7/list-of-top-ai-assistants-for-your-business-5g6)
-- [AI Models Still Can&#39;t Get Visual Jokes: Top Systems Miss 28% of Contradictory Humor](https://dev.to/mikeyoung44/ai-models-still-cant-get-visual-jokes-top-systems-miss-28-of-contradictory-humor-274k)
-- [AI Training System Improves Planning Abilities by 12% Using Virtual Test Scenarios](https://dev.to/mikeyoung44/ai-training-system-improves-planning-abilities-by-12-using-virtual-test-scenarios-4mpf)
+- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-3ccd)
+- [SPO600: Project Stage 2 - Function Clone Detection and Analysis &lpar;Part 1&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-1-2ob7)
+- [Full Stack Starter: build an image gallery from scratch without frameworks](https://dev.to/sean_shirazi/full-stack-starter-build-a-image-gallery-from-scratch-without-frameworks-5h64)
+- [AI เกมงู การค้นหาเส้นทางด้วยDijkstra Algorithm](https://dev.to/team_th_089909a56ce4d0593/ai-ekmnguu-kaarkhnhaaesnthaangdwydijkstra-algorithm-10pd)
+- [Intelligent Data Management in Life Sciences: Transforming Drug Development with Smart, Scalable Systems](https://dev.to/hana_sato/intelligent-data-management-in-life-sciences-transforming-drug-development-with-smart-scalable-ink)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
