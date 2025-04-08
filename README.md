@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Model Context Protocol &lpar;MCP&rpar;: The 2025 Beginner&#39;s Guide](https://dev.to/neo-cruz/what-is-model-context-protocol-mcp-the-2025-beginners-guide-5h15)
-- [Word of Mouth: DoozieSoft’s Silent Growth Engine](https://dev.to/doozieakshay/word-of-mouth-dooziesofts-silent-growth-engine-4lcf)
-- [AG Grid React Crashes Inside Tableau Extension Due to Invalid CSS Selector &#39;:not&lpar;title, meta&rpar;&#39; DOMException](https://dev.to/athuldas/ag-grid-react-crashes-inside-tableau-extension-due-to-invalid-css-selector-nottitle-meta-2odm)
-- [Maximize your dev team&#39;s focus and output by combining the Pomodoro Technique with Teamcamp — see how it’s done.](https://dev.to/pratham_naik_project_manager/maximize-your-dev-teams-focus-and-output-by-combining-the-pomodoro-technique-with-teamcamp-see-222c)
-- [Software Design Principles](https://dev.to/jose25upt/software-design-principles-22i4)
+- [Bop It - Creating a Game in Power Apps](https://dev.to/wyattdave/bop-it-creating-a-game-in-power-apps-2pfo)
+- [Why Most Flutter Apps Fail Without Proper State Management &lpar;And How You Can Avoid It&rpar;](https://dev.to/dct_technology/why-most-flutter-apps-fail-without-proper-state-management-and-how-you-can-avoid-it-34ao)
+- [Spinner con React + Typescript que cambia de tamaño al presionar un botón 🤓](https://dev.to/adrii_ana/spinner-con-react-typescript-que-cambia-de-tamano-al-presionar-un-boton-3a05)
+- [Understanding JavaScript Modules and Libraries &lpar;With a Little Help from AI&rpar;](https://dev.to/d-libro-digital-skills/understanding-javascript-modules-and-libraries-with-a-little-help-from-ai-74)
+- [🚨 React 19 Server Components Are Here – Don’t Get Left Behind!](https://dev.to/dct_technology/react-19-server-components-are-here-dont-get-left-behind-53ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
