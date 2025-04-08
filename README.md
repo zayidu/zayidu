@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BATI – Choose. Click. Create](https://dev.to/abhishek_ojha_cba8bf7f9b7/bati-choose-click-create-12h3)
-- [Days 17 &amp; 18 of My Full Stack Journey – CSS Gets Fancy 🎨](https://dev.to/munin-1/days-17-18-of-my-full-stack-journey-css-gets-fancy-49bf)
-- [Top Benefits of Using Sapling AI Detector for Businesses](https://dev.to/ray_parker01/top-benefits-of-using-sapling-ai-detector-for-businesses-3806)
-- [Hello world &lpar;copy&rpar; &lpar;copy&rpar;](https://dev.to/storychief/hello-world-copy-copy-1adj)
-- [gprofng on Oracle ARM Linux](https://dev.to/abhilash8/gprofng-on-oracle-arm-linux-5dcp)
+- [Automating Cost Optimization: Deleting Unattached EBS Volumes Using AWS Lambda and CloudFormation](https://dev.to/bowale/automating-cost-optimization-deleting-unattached-ebs-volumes-using-aws-lambda-and-cloudformation-1fng)
+- [I Blew 400€ on Cursor — 10 tips for AI Coding in 2025](https://dev.to/techbyadam/i-blew-400eu-on-cursor-10-tips-for-ai-coding-in-2025-oa2)
+- [How to run containerized JAVA application](https://dev.to/kubenetic/how-to-run-containerized-java-application-1iog)
+- [Reimagining WordPress Category Management with Advanced Taxonomy Manager](https://dev.to/gbti-network/reimagining-wordpress-category-management-with-advanced-taxonomy-manager-29cb)
+- [Jozu Hub–Your private, on-prem Hugging Face registry](https://dev.to/kitops/jozu-hub-your-private-on-prem-hugging-face-registry-2p61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
