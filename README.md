@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ransomware Attacks Are Surging — Is Your Business Actually Prepared?](https://dev.to/donald1981/ransomware-attacks-are-surging-is-your-business-actually-prepared-2n6a)
-- [How I went from wasting hours on dashboards to building plug-and-play visualizations in under 1 minute](https://dev.to/kodalogic/how-i-went-from-wasting-hours-on-dashboards-to-building-plug-and-play-visualizations-in-under-1-4n6f)
-- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-2ome)
-- [Building RESTful APIs with .NET 8: Essential Best Practices for Performance and Security](https://dev.to/leandroveiga/building-restful-apis-with-net-8-essential-best-practices-for-performance-and-security-519l)
-- [Why API Development Matters](https://dev.to/max_services/why-api-development-matters-hfl)
+- [Llama 4 - 10M Context? Coding? Decent Follow-up?](https://dev.to/maximsaplin/llama-4-10m-context-coding-decent-follow-up-426n)
+- [Deploying a Sentiment Analysis API with Nitric and Python](https://dev.to/rsiv/deploying-a-sentiment-analysis-api-with-nitric-and-python-o1h)
+- [3D Renderer in C - Update to SDL3](https://dev.to/justinhhorner/update-to-sdl3-3igm)
+- [Comprehending the Life Cycle of Common Pests](https://dev.to/pestcontrolservice752/comprehending-the-life-cycle-of-common-pests-53a1)
+- [From Vibe Coding to Vibe Engineering with V0 and Firebase. [Part 0].](https://dev.to/turingsoracle/from-vibe-coding-to-vibe-engineering-with-v0-and-firebase-part-0-2m8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
