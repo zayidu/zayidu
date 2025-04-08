@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Future-Proofing Your Software Career in the Age of AI](https://dev.to/rakeshreddy512/future-proofing-your-software-career-in-the-age-of-ai-2a6e)
-- [💻 Things I Wish I Knew Before Starting My First Backend Project](https://dev.to/full_stack_fusion/things-i-wish-i-knew-before-starting-my-first-backend-project-iee)
-- [How AI Agents Like Amazon&#39;s Nova Are Changing the Way We Browse the Web](https://dev.to/epicx/how-ai-agents-like-amazons-nova-are-changing-the-way-we-browse-the-web-5ckf)
-- [What Distributed Systems and Music Festivals Have in Common &lpar;More Than You Think&rpar;](https://dev.to/lsybarguen/what-distributed-systems-and-music-festivals-have-in-common-more-than-you-think-1hfb)
-- [Creating a FSM &lpar;finite state machine&rpar; in js_](https://dev.to/alanlovesw3/creating-a-fsm-finite-state-machine-in-js-ep8)
+- [Securing the Model Context Protocol](https://dev.to/blockopensource/securing-the-model-context-protocol-1jfm)
+- [Context API + TypeScript: How to avoid prop drilling in React](https://dev.to/gunnarhalen/context-api-typescript-how-to-avoid-prop-drilling-in-react-3862)
+- [The Ultimate CV Format Guide for Freshers in 2025](https://dev.to/hey_rishabh/the-ultimate-cv-format-guide-for-freshers-in-2025-206a)
+- [Understanding Users in Linux: Who’s Using the System?](https://dev.to/sheikhhassaanbinnadeem/understanding-users-in-linux-whos-using-the-system-2d2a)
+- [Cursed Excel: “1/2”+1=45660](https://dev.to/quadraticai/cursed-excel-12145660-26a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
