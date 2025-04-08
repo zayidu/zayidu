@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the @Import Annotation in Spring Framework](https://dev.to/tiuwill/how-to-use-the-import-annotation-in-spring-framework-l31)
-- [Unlocking the Power of Browser Storage in JavaScript](https://dev.to/d-libro-digital-skills/unlocking-the-power-of-browser-storage-in-javascript-28ni)
-- [Experimenting with Using an iPad as Your Main Display](https://dev.to/uskdev/experimenting-with-using-an-ipad-as-your-main-display-495f)
-- [Untitled](https://dev.to/sahil_3af107e9bdbcc0185ba/untitled-25nh)
-- [How Much AI Assistance Is Right for Your Project? Meet the Atlas Framework](https://dev.to/fseixas/how-much-ai-assistance-is-right-for-your-project-meet-the-atlas-framework-2km5)
+- [Loop Task while loop for Day 3](https://dev.to/vigneshwaralingam/loop-task-while-loop-for-day-3-2dhn)
+- [Misbah Ashraf: The Visionary from Bihar](https://dev.to/justin_downes/misbah-ashraf-the-visionary-from-bihar-39lo)
+- [🌀 Programming Session Day 3 :](https://dev.to/vigneshwaralingam/programming-session-day-3--49n5)
+- [Developer-Focused Resume Builder: An MVP in Progress](https://dev.to/menard_codes/developer-focused-resume-builder-an-mvp-in-progress-41f9)
+- [Web Server NIGHTMARE](https://dev.to/yuvasec/web-server-nightmare-2imb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
