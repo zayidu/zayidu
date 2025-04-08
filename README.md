@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Web Animations: CSS vs. JavaScript](https://dev.to/hasunnilupul/the-future-of-web-animations-css-vs-javascript-3b8d)
-- [SQL vs NoSQL for Large Tables: Choosing the Right Database for Big Data Applications](https://dev.to/adityabhuyan/sql-vs-nosql-for-large-tables-choosing-the-right-database-for-big-data-applications-1h36)
-- [JWT decode](https://dev.to/savitri_singh_900d4128b42/jwt-decode-1o8g)
-- [TPUs vs GPUs in TensorFlow: Key Differences and Use Cases for Machine Learning](https://dev.to/adityabhuyan/tpus-vs-gpus-in-tensorflow-key-differences-and-use-cases-for-machine-learning-1919)
-- [A easy tool for svg](https://dev.to/sienna/a-easy-tool-for-svg-2cbc)
+- [What is Model Context Protocol &lpar;MCP&rpar;: The 2025 Beginner&#39;s Guide](https://dev.to/neo-cruz/what-is-model-context-protocol-mcp-the-2025-beginners-guide-5h15)
+- [Word of Mouth: DoozieSoft’s Silent Growth Engine](https://dev.to/doozieakshay/word-of-mouth-dooziesofts-silent-growth-engine-4lcf)
+- [AG Grid React Crashes Inside Tableau Extension Due to Invalid CSS Selector &#39;:not&lpar;title, meta&rpar;&#39; DOMException](https://dev.to/athuldas/ag-grid-react-crashes-inside-tableau-extension-due-to-invalid-css-selector-nottitle-meta-2odm)
+- [Maximize your dev team&#39;s focus and output by combining the Pomodoro Technique with Teamcamp — see how it’s done.](https://dev.to/pratham_naik_project_manager/maximize-your-dev-teams-focus-and-output-by-combining-the-pomodoro-technique-with-teamcamp-see-222c)
+- [Software Design Principles](https://dev.to/jose25upt/software-design-principles-22i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
