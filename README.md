@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [So you would like to digitise your CD collection? &lpar;&amp; Part 4&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem)
-- [ความแตกต่างระหว่าง Decision Tree และ Random Forrest พร้อมข้อดีและข้อเสีย](https://dev.to/3061__2/khwaamaetktaangrahwaang-decision-tree-aela-random-forrest-phrmkhdiiaelakhesiiy-32cl)
-- [𝗧𝗵𝗲 𝗖𝗿𝘂𝗰𝗶𝗮𝗹 𝗥𝗼𝗹𝗲 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀](https://dev.to/mazzaracm/-3ld5)
-- [Step by Step: Build Your Business from the Ground Up](https://dev.to/olivia_jacqueline/step-by-step-build-your-business-from-the-ground-up-5gl2)
-- [🚀 What Is MCP? Anthropic&#39;s USB-C Port for AI 🔌](https://dev.to/aswinzz/what-is-mcp-anthropics-usb-c-port-for-ai-189p)
+- [BATI – Choose. Click. Create](https://dev.to/abhishek_ojha_cba8bf7f9b7/bati-choose-click-create-12h3)
+- [Days 17 &amp; 18 of My Full Stack Journey – CSS Gets Fancy 🎨](https://dev.to/munin-1/days-17-18-of-my-full-stack-journey-css-gets-fancy-49bf)
+- [Top Benefits of Using Sapling AI Detector for Businesses](https://dev.to/ray_parker01/top-benefits-of-using-sapling-ai-detector-for-businesses-3806)
+- [Hello world &lpar;copy&rpar; &lpar;copy&rpar;](https://dev.to/storychief/hello-world-copy-copy-1adj)
+- [gprofng on Oracle ARM Linux](https://dev.to/abhilash8/gprofng-on-oracle-arm-linux-5dcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
