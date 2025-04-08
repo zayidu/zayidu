@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Runtime-agnostic Apps/Packages with JavaScript](https://dev.to/pmbanugo/building-runtime-agnostic-appspackages-with-javascript-41b)
-- [Two Efficient Methods for Converting PDF to PPT - AI Tools Included](https://dev.to/derek-compdf/two-efficient-methods-for-converting-pdf-to-ppt-ai-tools-included-132d)
-- [Kalıtım mı, Kompozisyon mu? Nesne Yönelimli Tasarımda Doğru Yolu Seçme Kılavuzu &lpar;Inheritance vs Composition&rpar;](https://dev.to/abdulkadir_gungor/kalitim-mi-kompozisyon-mu-nesne-yonelimli-tasarimda-dogru-yolu-secme-kilavuzu-inheritance-vs-3l5e)
-- [Rode um Cluster Kubernetes Local Leve com K3s](https://dev.to/rluders/rode-um-cluster-kubernetes-local-leve-com-k3s-49d8)
-- [Agentic AI: The Next Paradigm in Enterprise AI](https://dev.to/priyansh_shah_786ec03624e/agentic-ai-the-next-paradigm-in-enterprise-ai-1h3)
+- [So you would like to digitise your CD collection? &lpar;&amp; Part 4&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem)
+- [ความแตกต่างระหว่าง Decision Tree และ Random Forrest พร้อมข้อดีและข้อเสีย](https://dev.to/3061__2/khwaamaetktaangrahwaang-decision-tree-aela-random-forrest-phrmkhdiiaelakhesiiy-32cl)
+- [𝗧𝗵𝗲 𝗖𝗿𝘂𝗰𝗶𝗮𝗹 𝗥𝗼𝗹𝗲 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀](https://dev.to/mazzaracm/-3ld5)
+- [Step by Step: Build Your Business from the Ground Up](https://dev.to/olivia_jacqueline/step-by-step-build-your-business-from-the-ground-up-5gl2)
+- [🚀 What Is MCP? Anthropic&#39;s USB-C Port for AI 🔌](https://dev.to/aswinzz/what-is-mcp-anthropics-usb-c-port-for-ai-189p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
