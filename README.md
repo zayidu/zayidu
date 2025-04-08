@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Database Fundamentals](https://dev.to/souhaillaghchimdev/sql-database-fundamentals-24ib)
-- [Java Programming for Beginners](https://dev.to/souhaillaghchimdev/java-programming-for-beginners-cmh)
-- [Building a Smart Feedback Loop: Real-Time Inference on COBOL Logs](https://dev.to/semperfitodd/building-a-smart-feedback-loop-real-time-inference-on-cobol-logs-4n7i)
-- [DuckDB ❤️ LLMs: SQL Meets AI for Blazing Fast Data Analysis](https://dev.to/aimodels-fyi/duckdb-llms-sql-meets-ai-for-blazing-fast-data-analysis-16ac)
-- [Spam Mail Detection ด้วย TF-IDF และ Logistic Regression](https://dev.to/3048_fbd/spam-mail-detection-dwy-tf-idf-aela-logistic-regression-80e)
+- [How to Use the @Import Annotation in Spring Framework](https://dev.to/tiuwill/how-to-use-the-import-annotation-in-spring-framework-l31)
+- [Unlocking the Power of Browser Storage in JavaScript](https://dev.to/d-libro-digital-skills/unlocking-the-power-of-browser-storage-in-javascript-28ni)
+- [Experimenting with Using an iPad as Your Main Display](https://dev.to/uskdev/experimenting-with-using-an-ipad-as-your-main-display-495f)
+- [Untitled](https://dev.to/sahil_3af107e9bdbcc0185ba/untitled-25nh)
+- [How Much AI Assistance Is Right for Your Project? Meet the Atlas Framework](https://dev.to/fseixas/how-much-ai-assistance-is-right-for-your-project-meet-the-atlas-framework-2km5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
