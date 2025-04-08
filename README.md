@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bop It - Creating a Game in Power Apps](https://dev.to/wyattdave/bop-it-creating-a-game-in-power-apps-2pfo)
-- [Why Most Flutter Apps Fail Without Proper State Management &lpar;And How You Can Avoid It&rpar;](https://dev.to/dct_technology/why-most-flutter-apps-fail-without-proper-state-management-and-how-you-can-avoid-it-34ao)
-- [Spinner con React + Typescript que cambia de tamaño al presionar un botón 🤓](https://dev.to/adrii_ana/spinner-con-react-typescript-que-cambia-de-tamano-al-presionar-un-boton-3a05)
-- [Understanding JavaScript Modules and Libraries &lpar;With a Little Help from AI&rpar;](https://dev.to/d-libro-digital-skills/understanding-javascript-modules-and-libraries-with-a-little-help-from-ai-74)
-- [🚨 React 19 Server Components Are Here – Don’t Get Left Behind!](https://dev.to/dct_technology/react-19-server-components-are-here-dont-get-left-behind-53ko)
+- [Agentic AI: Building an Interview Simulator with Autonomous Agents 🤖](https://dev.to/buildandcodewithraman/agentic-ai-building-an-interview-simulator-with-autonomous-agents-2728)
+- [Grit Size Selection Guide for Abrasive Blasting: How to Avoid Common Mistakes?](https://dev.to/js-henglihong/grit-size-selection-guide-for-abrasive-blasting-how-to-avoid-common-mistakes-4kbd)
+- [Real-Time Updates with Convex DB and Authentication using Clerk in Next.js 🔥🔥](https://dev.to/said96dev/real-time-updates-with-convex-db-and-authentication-using-clerk-in-nextjs-3akb)
+- [Faster Shell, Calmer Brain: Three Terminal Tweaks I Can’t Live Without](https://dev.to/alexopengrid/faster-shell-calmer-brain-three-terminal-tweaks-i-cant-live-without-4hpg)
+- [Writing Clean Code in Front-end: KISS, DRY, YAGNI, and Beyond](https://dev.to/miasalazar/writing-clean-code-in-front-end-kiss-dry-yaign-and-beyond-54ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
