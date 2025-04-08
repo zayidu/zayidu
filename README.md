@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 08 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-april-3cg5)
-- [Amazon SageMaker for Data Scientists: Unifying Your Machine Learning Workflow on AWS in 2025](https://dev.to/skillboosttrainer/amazon-sagemaker-for-data-scientists-unifying-your-machine-learning-workflow-on-aws-in-2025-4nfh)
-- [🚀 Discover CoderLegion.com: The Ultimate Hub for Developers](https://dev.to/hanzla-baig/discover-coderlegioncom-the-ultimate-hub-for-developers-3nf7)
-- [AWS Cloud Architecture for a Multi-Vendor Stock Image Marketplace](https://dev.to/sketch-and-build/new-blog-post-how-i-bootstrapped-a-multi-vendor-marketplace-on-aws-without-spending-a-fortune-a7n)
-- [A Beginner&#39;s Guide to Auto-Instrumenting a Flask App with OpenTelemetry and SigNoz](https://dev.to/0anas0/a-beginners-guide-to-auto-instrumenting-a-flask-app-with-opentelemetry-and-signoz-896)
+- [SQL Database Fundamentals](https://dev.to/souhaillaghchimdev/sql-database-fundamentals-24ib)
+- [Java Programming for Beginners](https://dev.to/souhaillaghchimdev/java-programming-for-beginners-cmh)
+- [Building a Smart Feedback Loop: Real-Time Inference on COBOL Logs](https://dev.to/semperfitodd/building-a-smart-feedback-loop-real-time-inference-on-cobol-logs-4n7i)
+- [DuckDB ❤️ LLMs: SQL Meets AI for Blazing Fast Data Analysis](https://dev.to/aimodels-fyi/duckdb-llms-sql-meets-ai-for-blazing-fast-data-analysis-16ac)
+- [Spam Mail Detection ด้วย TF-IDF และ Logistic Regression](https://dev.to/3048_fbd/spam-mail-detection-dwy-tf-idf-aela-logistic-regression-80e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
