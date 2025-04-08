@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Loop Task while loop for Day 3](https://dev.to/vigneshwaralingam/loop-task-while-loop-for-day-3-2dhn)
-- [Misbah Ashraf: The Visionary from Bihar](https://dev.to/justin_downes/misbah-ashraf-the-visionary-from-bihar-39lo)
-- [🌀 Programming Session Day 3 :](https://dev.to/vigneshwaralingam/programming-session-day-3--49n5)
-- [Developer-Focused Resume Builder: An MVP in Progress](https://dev.to/menard_codes/developer-focused-resume-builder-an-mvp-in-progress-41f9)
-- [Web Server NIGHTMARE](https://dev.to/yuvasec/web-server-nightmare-2imb)
+- [Ransomware Attacks Are Surging — Is Your Business Actually Prepared?](https://dev.to/donald1981/ransomware-attacks-are-surging-is-your-business-actually-prepared-2n6a)
+- [How I went from wasting hours on dashboards to building plug-and-play visualizations in under 1 minute](https://dev.to/kodalogic/how-i-went-from-wasting-hours-on-dashboards-to-building-plug-and-play-visualizations-in-under-1-4n6f)
+- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-2ome)
+- [Building RESTful APIs with .NET 8: Essential Best Practices for Performance and Security](https://dev.to/leandroveiga/building-restful-apis-with-net-8-essential-best-practices-for-performance-and-security-519l)
+- [Why API Development Matters](https://dev.to/max_services/why-api-development-matters-hfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
