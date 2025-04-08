@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does Your Desk Look Like?](https://dev.to/jenueldev/what-does-your-desk-look-like-3kep)
-- [Data Analytics for Business: How Understanding Data Can Drive Smarter Decisions](https://dev.to/lekshmi_525/data-analytics-for-business-how-understanding-data-can-drive-smarter-decisions-3iln)
-- [The Next Generation of No-Code: AI, Code, and Diagrams](https://dev.to/haimzlato/the-next-generation-of-no-code-ai-code-and-diagrams-3lin)
-- [How to Run and Debug Tests in VS Code &lpar;With Keploy Integration&rpar;](https://dev.to/keploy/how-to-run-and-debug-tests-in-vs-code-with-keploy-integration-27lc)
-- [Let&#39;s Talk About the Trending &quot;Ghibli Style&quot;](https://dev.to/stellan/lets-talk-about-the-trending-ghibli-style-4hd6)
+- [Static Code Analysis: Ensuring Code Quality Before Execution](https://dev.to/keploy/static-code-analysis-ensuring-code-quality-before-execution-4pk9)
+- [Build your first AI Agent for Postgres on Azure](https://dev.to/bobur/build-your-first-ai-agent-for-postgres-on-azure-ano)
+- [The Headless CMS Mindset: Rethinking Content Architecture in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/the-headless-cms-mindset-rethinking-content-architecture-in-2025-470)
+- [Mastering React Hooks as a beginner - useMemo&lpar;&rpar;](https://dev.to/shubha_k/mastering-react-hooks-as-a-beginner-usememo-12j9)
+- [AI กับการจำแนกข้อมูล &lpar;Classification&rpar; ด้วย Decision Tree](https://dev.to/im_proxy/ai-kabkaarcchamaenkkhmuul-classification-dwy-decision-tree-clh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
