@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Model Context Protocol](https://dev.to/blockopensource/securing-the-model-context-protocol-1jfm)
-- [Context API + TypeScript: How to avoid prop drilling in React](https://dev.to/gunnarhalen/context-api-typescript-how-to-avoid-prop-drilling-in-react-3862)
-- [The Ultimate CV Format Guide for Freshers in 2025](https://dev.to/hey_rishabh/the-ultimate-cv-format-guide-for-freshers-in-2025-206a)
-- [Understanding Users in Linux: Who’s Using the System?](https://dev.to/sheikhhassaanbinnadeem/understanding-users-in-linux-whos-using-the-system-2d2a)
-- [Cursed Excel: “1/2”+1=45660](https://dev.to/quadraticai/cursed-excel-12145660-26a4)
+- [Many ways to express one thing in Ruby &lpar;_n syntax, _ prefix, &amp; ampersand&rpar;](https://dev.to/darcylol/many-ways-to-express-one-thing-in-ruby-n-syntax-prefix-ampersand-2h0j)
+- [Database Backup In Django](https://dev.to/daviekim13/database-backup-in-django-1h49)
+- [From Diagnosis to Development: Building Celio!](https://dev.to/rapheal_suber_d5fd1bd08e6/from-diagnosis-to-development-building-celio-3cn9)
+- [MT7922 não funciona bluetooth no Linux Mint](https://dev.to/duardodev/mt7922-nao-funciona-bluetooth-no-linux-mint-3dae)
+- [Day 1136 : Sometimes](https://dev.to/dwane/day-1136-sometimes-10hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
