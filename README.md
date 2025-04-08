@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Raku Codeboard: A Simple Full-Stack App with Red, Cromponent, and HTMX](https://dev.to/fco/building-raku-codeboard-a-simple-full-stack-app-with-red-cromponent-and-htmx-30k9)
-- [game5_VFernanda_imersão](https://dev.to/fernandamaresi/game5vfernandaimersao-49o3)
-- [Paulo Bank](https://dev.to/paulo_roberto_91f7f091c42/paulo-bank-4077)
-- [Good Luck Everyone!](https://dev.to/poppy_wang/good-luck-everyone-5foh)
-- [Dev Terms Explained with Memes 😎](https://dev.to/saida_lachgar/dev-terms-explained-with-memes-1d0)
+- [Motivation behind C++ Concepts](https://dev.to/absterdabster/motivation-behind-c-concepts-402i)
+- [How to Link a Custom Domain to GitHub Pages](https://dev.to/vladleesi/how-to-link-a-custom-domain-to-github-pages-1d5d)
+- [Understanding Log Levels: A Guide to Effective Logging.](https://dev.to/vaidehi_adhi_84b623a30da7/understanding-log-levels-a-guide-to-effective-logging-5753)
+- [Dev](https://dev.to/gchar/dev-208d)
+- [Cross-Platform Mobile Testing in 2025: AI Tools for Unified Experiences](https://dev.to/anil_csimplifyit_905c/cross-platform-mobile-testing-in-2025-ai-tools-for-unified-experiences-443d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
