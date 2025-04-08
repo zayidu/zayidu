@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Cost Optimization: Deleting Unattached EBS Volumes Using AWS Lambda and CloudFormation](https://dev.to/bowale/automating-cost-optimization-deleting-unattached-ebs-volumes-using-aws-lambda-and-cloudformation-1fng)
-- [I Blew 400€ on Cursor — 10 tips for AI Coding in 2025](https://dev.to/techbyadam/i-blew-400eu-on-cursor-10-tips-for-ai-coding-in-2025-oa2)
-- [How to run containerized JAVA application](https://dev.to/kubenetic/how-to-run-containerized-java-application-1iog)
-- [Reimagining WordPress Category Management with Advanced Taxonomy Manager](https://dev.to/gbti-network/reimagining-wordpress-category-management-with-advanced-taxonomy-manager-29cb)
-- [Jozu Hub–Your private, on-prem Hugging Face registry](https://dev.to/kitops/jozu-hub-your-private-on-prem-hugging-face-registry-2p61)
+- [🚀 Your Daily Crypto Job Digest For 08 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-april-3cg5)
+- [Amazon SageMaker for Data Scientists: Unifying Your Machine Learning Workflow on AWS in 2025](https://dev.to/skillboosttrainer/amazon-sagemaker-for-data-scientists-unifying-your-machine-learning-workflow-on-aws-in-2025-4nfh)
+- [🚀 Discover CoderLegion.com: The Ultimate Hub for Developers](https://dev.to/hanzla-baig/discover-coderlegioncom-the-ultimate-hub-for-developers-3nf7)
+- [AWS Cloud Architecture for a Multi-Vendor Stock Image Marketplace](https://dev.to/sketch-and-build/new-blog-post-how-i-bootstrapped-a-multi-vendor-marketplace-on-aws-without-spending-a-fortune-a7n)
+- [A Beginner&#39;s Guide to Auto-Instrumenting a Flask App with OpenTelemetry and SigNoz](https://dev.to/0anas0/a-beginners-guide-to-auto-instrumenting-a-flask-app-with-opentelemetry-and-signoz-896)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
