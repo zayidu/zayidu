@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 4 - 10M Context? Coding? Decent Follow-up?](https://dev.to/maximsaplin/llama-4-10m-context-coding-decent-follow-up-426n)
-- [Deploying a Sentiment Analysis API with Nitric and Python](https://dev.to/rsiv/deploying-a-sentiment-analysis-api-with-nitric-and-python-o1h)
-- [3D Renderer in C - Update to SDL3](https://dev.to/justinhhorner/update-to-sdl3-3igm)
-- [Comprehending the Life Cycle of Common Pests](https://dev.to/pestcontrolservice752/comprehending-the-life-cycle-of-common-pests-53a1)
-- [From Vibe Coding to Vibe Engineering with V0 and Firebase. [Part 0].](https://dev.to/turingsoracle/from-vibe-coding-to-vibe-engineering-with-v0-and-firebase-part-0-2m8m)
+- [Future-Proofing Your Software Career in the Age of AI](https://dev.to/rakeshreddy512/future-proofing-your-software-career-in-the-age-of-ai-2a6e)
+- [💻 Things I Wish I Knew Before Starting My First Backend Project](https://dev.to/full_stack_fusion/things-i-wish-i-knew-before-starting-my-first-backend-project-iee)
+- [How AI Agents Like Amazon&#39;s Nova Are Changing the Way We Browse the Web](https://dev.to/epicx/how-ai-agents-like-amazons-nova-are-changing-the-way-we-browse-the-web-5ckf)
+- [What Distributed Systems and Music Festivals Have in Common &lpar;More Than You Think&rpar;](https://dev.to/lsybarguen/what-distributed-systems-and-music-festivals-have-in-common-more-than-you-think-1hfb)
+- [Creating a FSM &lpar;finite state machine&rpar; in js_](https://dev.to/alanlovesw3/creating-a-fsm-finite-state-machine-in-js-ep8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
