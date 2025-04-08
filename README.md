@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No final tudo é typescript/javascript ?](https://dev.to/ramondiniz27/no-final-tudo-e-typescriptjavascript--487c)
-- [O dia em que descobri meu impacto: pequenas contribuições, grandes revelações](https://dev.to/diegolinhares/o-dia-em-que-descobri-meu-impacto-pequenas-contribuicoes-grandes-revelacoes-k94)
-- [Exploring Federated AI for Decentralized Data Training](https://dev.to/kartikmehta8/exploring-federated-ai-for-decentralized-data-training-2fbd)
-- [String &amp; 2D vector](https://dev.to/mujahida_joynab_64c7407d8/string-2d-vector-36fi)
-- [game4_VInicial_imersão](https://dev.to/fernandamaresi/game4vinicialimersao-3i3b)
+- [Building Raku Codeboard: A Simple Full-Stack App with Red, Cromponent, and HTMX](https://dev.to/fco/building-raku-codeboard-a-simple-full-stack-app-with-red-cromponent-and-htmx-30k9)
+- [game5_VFernanda_imersão](https://dev.to/fernandamaresi/game5vfernandaimersao-49o3)
+- [Paulo Bank](https://dev.to/paulo_roberto_91f7f091c42/paulo-bank-4077)
+- [Good Luck Everyone!](https://dev.to/poppy_wang/good-luck-everyone-5foh)
+- [Dev Terms Explained with Memes 😎](https://dev.to/saida_lachgar/dev-terms-explained-with-memes-1d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
