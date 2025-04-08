@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom RAG in Zurich: Revolutionizing the Search and Retrieval Landscape](https://dev.to/antegris/custom-rag-in-zurich-revolutionizing-the-search-and-retrieval-landscape-58be)
-- [RL for Multimodal Label Ranking: A Novel Approach](https://dev.to/aimodels-fyi/rl-for-multimodal-label-ranking-a-novel-approach-3j12)
-- [Firefox&#39;s Data Sharing: What It Means for Your Privacy](https://dev.to/kallileiser/firefoxs-data-sharing-what-it-means-for-your-privacy-1dki)
-- [Day 1135 : Old Man](https://dev.to/dwane/day-1135-old-man-43l6)
-- [10.1 A java.time vem do Joda Time](https://dev.to/fundamentosjava/101-a-javatime-vem-do-joda-time-1meg)
+- [No final tudo é typescript/javascript ?](https://dev.to/ramondiniz27/no-final-tudo-e-typescriptjavascript--487c)
+- [O dia em que descobri meu impacto: pequenas contribuições, grandes revelações](https://dev.to/diegolinhares/o-dia-em-que-descobri-meu-impacto-pequenas-contribuicoes-grandes-revelacoes-k94)
+- [Exploring Federated AI for Decentralized Data Training](https://dev.to/kartikmehta8/exploring-federated-ai-for-decentralized-data-training-2fbd)
+- [String &amp; 2D vector](https://dev.to/mujahida_joynab_64c7407d8/string-2d-vector-36fi)
+- [game4_VInicial_imersão](https://dev.to/fernandamaresi/game4vinicialimersao-3i3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
