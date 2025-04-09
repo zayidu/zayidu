@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning and Leveling Up: Beyond the Tutorial](https://dev.to/patrocinioluisf/learning-and-leveling-up-beyond-the-tutorial-4n4m)
-- [Protecting Client Data: How We Use AI in Custom Software Development](https://dev.to/techmiresolutions/protecting-client-data-how-we-use-ai-in-custom-software-development-9a4)
-- [capslockforçado](https://dev.to/zanonana/capslockforcado-5825)
-- [Restarting From Day 1 — Escaping Tutorial Hell](https://dev.to/munin-1/restarting-from-day-1-escaping-tutorial-hell-21j3)
-- [Day-5,6,7,8 in python](https://dev.to/maddy_mathan/day-5678-in-python-ekj)
+- [Secure Data Handling - Part 1 - Understanding Encoding](https://dev.to/samuelko123/secure-data-handling-part-1-understanding-encoding-5f95)
+- [Code is Written, Not Born: Overcoming the Idea of a &quot;Perfect Project Start&quot;](https://dev.to/artstesh/code-is-written-not-born-overcoming-the-idea-of-a-perfect-project-start-52ln)
+- [Boost Your Training Revenue with an LMS: Tips and Strategies](https://dev.to/atrixware/boost-your-training-revenue-with-an-lms-tips-and-strategies-36bm)
+- [Standardizing AI Tooling with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/aws/standardizing-ai-tooling-with-model-context-protocol-mcp-nmj)
+- [How to Set Up TYPO3 on AWS with Composer [2025 Updated]](https://dev.to/sanjaychauhan/how-to-set-up-typo3-on-aws-with-composer-2025-updated-42ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
