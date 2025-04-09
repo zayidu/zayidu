@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Impact of Technical Debt on Software Testing](https://dev.to/sapna_soni_ca03e57cf5b470/impact-of-technical-debt-on-software-testing-38b5)
-- [LLM Benchmarking: Cost-Efficient Performance](https://dev.to/nosana/llm-benchmarking-cost-efficient-performance-5h69)
-- [🚀 Why Most Angular Developers Still Struggle With Dependency Injection &lpar;And How to Master It Today&rpar;](https://dev.to/dct_technology/why-most-angular-developers-still-struggle-with-dependency-injection-and-how-to-master-it-today-35fc)
-- [🥊 Flask vs Django in 2025: Why Picking the Wrong Framework Could Hurt Your Project](https://dev.to/dct_technology/flask-vs-django-in-2025-why-picking-the-wrong-framework-could-hurt-your-project-2d4i)
-- [Exploring the New Features of Vue 3 Composition API](https://dev.to/hasunnilupul/exploring-the-new-features-of-vue-3-composition-api-34h7)
+- [DevSecOps in the Power Platform](https://dev.to/wyattdave/devsecops-in-the-power-platform-3op)
+- [Why Imposter Syndrome is Part of Every Developer’s Journey?](https://dev.to/web_dev-usman/why-imposter-syndrome-is-part-of-every-developers-journey-2c0p)
+- [AI-Powered QA: How Large Language Models Are Revolutionizing Software Testing](https://dev.to/ilampadmanabhan/ai-powered-qa-how-large-language-models-are-revolutionizing-software-testing-48h8)
+- [Mastering Azure DevOps Pipeline Variables and Secrets: Tips and Best Practices](https://dev.to/truelime/mastering-azure-devops-pipeline-variables-and-secrets-tips-and-best-practices-2fb8)
+- [The Linux &lpar;rm&rpar; Command: Simple, Powerful, and Dangerous](https://dev.to/youngtech/the-linux-rm-command-simple-powerful-and-dangerous-9h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
