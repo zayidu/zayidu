@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a good platform I can use along with Gemini app or website, so I can build my own app?](https://dev.to/thatsoundedscary/what-is-a-good-platform-i-can-use-along-with-gemini-app-or-website-so-i-can-build-my-own-app-3gnb)
-- [🔥Flametoter: Visual storytelling via digital art &amp; motion graphics. Let&#39;s create magic!](https://dev.to/karl_risch_7866bf4c73c5b9/flametoter-visual-storytelling-via-digital-art-motion-graphics-lets-create-magic-h3i)
-- [UX Engineers | Explained](https://dev.to/d2d_weizhi/ux-engineers-explained-pjl)
-- [A Portfolio website using Hugo and deployed to AWS using Pulumi](https://dev.to/aniruddhaadak/a-portfolio-website-using-hugo-and-deployed-to-aws-using-pulumi-1la3)
-- [Spring Boot Introduction](https://dev.to/ramya_kamalasekaran/spring-boot-introduction-3c6a)
+- [[Tutorial] Chapter 8: Knowledge Base - Tree Collection](https://dev.to/nocobase/chapter-8-knowledge-base-tree-collection-1ao9)
+- [MediatR Simple Alternative](https://dev.to/criscoelho/-dl6)
+- [[Tutorial] Building a Complete Project Management Platform](https://dev.to/nocobase/tutorial-building-a-complete-project-management-platform-40aa)
+- [Blockchain App Testing with AI: Ensuring Trust and Transparency](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-app-testing-with-ai-ensuring-trust-and-transparency-3k58)
+- [3375. Minimum Operations to Make Array Values Equal to K](https://dev.to/mdarifulhaque/3375-minimum-operations-to-make-array-values-equal-to-k-4ada)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
