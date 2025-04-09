@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [สร้าง AI ง่ายๆ สำหรับตรวจจับวัตถุด้วย YOLOv5 บน Colab](https://dev.to/peemmega/sraang-ai-ngaay-samhrabtrwcchcchabwatthudwy-yolov5-bn-colab-39io)
-- [Meta Launches Llama 4 AI Models: Meet Scout, Maverick, and the Beast Called Behemoth](https://dev.to/james_lin_e0b4cf88eff0124/meta-launches-llama-4-ai-models-meet-scout-maverick-and-the-beast-called-behemoth-5bde)
-- [Why Isn&#39;t Your CSS Working? Understanding Specificity](https://dev.to/umarsiddique010/why-isnt-your-css-working-understanding-specificity-3lf3)
-- [Why RoR is the Ultimate Tech Choice for Startups](https://dev.to/softices/why-ror-is-the-ultimate-tech-choice-for-startups-1lpm)
-- [You really need to check this out if you’re in Web3](https://dev.to/tobysolutions/you-really-need-to-check-this-out-if-youre-in-web3-3bji)
+- [ToolHive: Making MCP Servers Easy, Secure, and Fun](https://dev.to/stacklok/toolhive-making-mcp-servers-easy-secure-and-fun-7hi)
+- [Ceramic Blasting Technology: The &quot;Silent Hero&quot; in Enhancing Aerospace Component Performance](https://dev.to/js-henglihong/ceramic-blasting-technology-the-silent-hero-in-enhancing-aerospace-component-performance-24a6)
+- [Is ReactJS the Right Tool for Your Next Financial Software Project?](https://dev.to/anilparmar/is-reactjs-the-right-tool-for-your-next-financial-software-project-277j)
+- [Top 10 Use Cases of File Conversion APIs in Modern Web Applications](https://dev.to/mdhabibur/top-10-use-cases-of-file-conversion-apis-in-modern-web-applications-52l9)
+- [Manus AI: The Revolutionary Multi-Agent System Reshaping the Future of AI Assistants](https://dev.to/aniruddhaadak/manus-ai-the-revolutionary-multi-agent-system-reshaping-the-future-of-ai-assistants-2i35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
