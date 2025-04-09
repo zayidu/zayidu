@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Infra: Building Scalable Systems with Kubernetes, Terraform &amp; Cloud &lpar;Detailed&rpar;](https://dev.to/suryadeepsinh_gohil/from-idea-to-infra-building-scalable-systems-with-kubernetes-terraform-cloud-detailed-1dl0)
-- [Kafka 2 crdb](https://dev.to/fabiog1901/kafka-2-crdb-3pdf)
-- [The interplay of authentication and authorization in ASP.NET Core](https://dev.to/voroninp/the-interplay-of-authentication-and-authorization-in-aspnet-core-4ojg)
-- [Check this if you plan to take SCAA-C03 soon](https://dev.to/jekobokidou/check-this-if-you-plan-to-take-scaa-c03-soon-take-a-look-at-this-article-5f7o)
-- [MACHINE LEARNING AND ARRHYTHMIA DETECTION](https://dev.to/davidbosah/machine-learning-and-arrhythmia-detection-347k)
+- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
+- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-10gk)
+- [Learning to Write Secure Code](https://dev.to/souhaillaghchimdev/learning-to-write-secure-code-3ic3)
+- [Educational Game Application Programming](https://dev.to/souhaillaghchimdev/educational-game-application-programming-5cj8)
+- [Database Management System &lpar;DBMS&rpar; Development](https://dev.to/souhaillaghchimdev/database-management-system-dbms-development-4n0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
