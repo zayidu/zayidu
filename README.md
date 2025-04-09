@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👩‍🔬 How I Built an AI-Based Skincare Shopping Experience Using UX Principles + Personalization Logic](https://dev.to/anushka_gupta_1001/how-i-built-an-ai-based-skincare-shopping-experience-using-ux-principles-personalization-logic-34cp)
-- [Automate SFML Projects with Pro++](https://dev.to/marcosplusplus/automate-sfml-projects-with-pro-19hc)
-- [Why I chose Kuberns over Jira? Here are the 5 factors](https://dev.to/techlance_a68f6bf17192663/why-i-chose-kuberns-over-jira-here-are-the-5-factors-4m1o)
-- [3Tier Web Application](https://dev.to/19naveen/3tier-web-application-3gh9)
-- [Building Open-Minded Communities: How WooSX is Using Tech to Redefine Adult Social Platforms](https://dev.to/josefina-parejasw/building-open-minded-communities-how-woosx-is-using-tech-to-redefine-adult-social-platforms-46kg)
+- [Olake &lpar;Lakehouse&rpar;](https://dev.to/sandarbh_bajpai/olake-lakehouse-1670)
+- [🐉 Loong: Synthesize Long CoTs at Scale through Verifiers](https://dev.to/camelai/loong-synthesize-long-cots-at-scale-through-verifiers-27b4)
+- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Your Online Business](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-your-online-business-1kam)
+- [Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers, Developers, and E-Commerce Entrepreneurs](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-developers-and-5ed4)
+- [Day 7: polymorphism method overloading](https://dev.to/sugumar_r_a5f301adf1fb49a/day-7-polymorphism-method-overloading-416)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
