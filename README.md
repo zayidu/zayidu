@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-and-e-commerce-3789)
-- [AWS verified Access services](https://dev.to/vasanthbal5220/aws-verified-access-services-17mk)
-- [Building Full-Stack Web Applications with JavaScript and AI](https://dev.to/d-libro-digital-skills/building-full-stack-web-applications-with-javascript-and-ai-9ag)
-- [🌱 New Feature: Beautiful Per-Command Help for the Greening CLI](https://dev.to/chrisgreening/new-feature-beautiful-per-command-help-for-the-greening-cli-4iah)
-- [Docker](https://dev.to/bsouza/docker-5cpm)
+- [👩‍🔬 How I Built an AI-Based Skincare Shopping Experience Using UX Principles + Personalization Logic](https://dev.to/anushka_gupta_1001/how-i-built-an-ai-based-skincare-shopping-experience-using-ux-principles-personalization-logic-34cp)
+- [Automate SFML Projects with Pro++](https://dev.to/marcosplusplus/automate-sfml-projects-with-pro-19hc)
+- [Why I chose Kuberns over Jira? Here are the 5 factors](https://dev.to/techlance_a68f6bf17192663/why-i-chose-kuberns-over-jira-here-are-the-5-factors-4m1o)
+- [3Tier Web Application](https://dev.to/19naveen/3tier-web-application-3gh9)
+- [Building Open-Minded Communities: How WooSX is Using Tech to Redefine Adult Social Platforms](https://dev.to/josefina-parejasw/building-open-minded-communities-how-woosx-is-using-tech-to-redefine-adult-social-platforms-46kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
