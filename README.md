@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Readable and Writable Streams: Advanced Concepts](https://dev.to/omriluz1/readable-and-writable-streams-advanced-concepts-4e8j)
-- [Silent Intruders](https://dev.to/yuvasec/silent-intruders-400e)
-- [การวิเคราะห์ข้อมูลด้วย Decision Tree และ Random Forest](https://dev.to/kazumii/kaarwiekhraaahkhmuuldwy-decision-tree-aela-random-forest-31b6)
-- [A BLOG ON HOW TO HOST STATIC WEBSITE ON AZURE BLOG STORAGE](https://dev.to/odi_7fa278105e8560bb1feb8/a-blog-on-how-to-host-static-website-on-azure-blog-storage-1e6g)
-- [Paracetamol.js💊| #226: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-226-explica-este-codigo-javascript-438g)
+- [Protocol Agnostic Framework](https://dev.to/m__mdy__m/protocol-agnostic-framework-9p2)
+- [Schema Changes in MySQL: Will Your Table Be Locked?](https://dev.to/leapcell/schema-changes-in-mysql-will-your-table-be-locked-3k8)
+- [Crafting Go Testing Module: Step 2 - Core](https://dev.to/rzajac/crafting-go-testing-module-step-2-core-1a33)
+- [Vintom in Angular 19](https://dev.to/gydunhn/vintom-in-angular-19-32fm)
+- [Separando la logica de la capa de negocios en casos de uso.](https://dev.to/betoramiz/separando-la-logica-de-la-capa-de-negocios-en-casos-de-uso-48ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
