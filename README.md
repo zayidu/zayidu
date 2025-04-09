@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps in the Power Platform](https://dev.to/wyattdave/devsecops-in-the-power-platform-3op)
-- [Why Imposter Syndrome is Part of Every Developer’s Journey?](https://dev.to/web_dev-usman/why-imposter-syndrome-is-part-of-every-developers-journey-2c0p)
-- [AI-Powered QA: How Large Language Models Are Revolutionizing Software Testing](https://dev.to/ilampadmanabhan/ai-powered-qa-how-large-language-models-are-revolutionizing-software-testing-48h8)
-- [Mastering Azure DevOps Pipeline Variables and Secrets: Tips and Best Practices](https://dev.to/truelime/mastering-azure-devops-pipeline-variables-and-secrets-tips-and-best-practices-2fb8)
-- [The Linux &lpar;rm&rpar; Command: Simple, Powerful, and Dangerous](https://dev.to/youngtech/the-linux-rm-command-simple-powerful-and-dangerous-9h4)
+- [สร้าง AI ง่ายๆ สำหรับตรวจจับวัตถุด้วย YOLOv5 บน Colab](https://dev.to/peemmega/sraang-ai-ngaay-samhrabtrwcchcchabwatthudwy-yolov5-bn-colab-39io)
+- [Meta Launches Llama 4 AI Models: Meet Scout, Maverick, and the Beast Called Behemoth](https://dev.to/james_lin_e0b4cf88eff0124/meta-launches-llama-4-ai-models-meet-scout-maverick-and-the-beast-called-behemoth-5bde)
+- [Why Isn&#39;t Your CSS Working? Understanding Specificity](https://dev.to/umarsiddique010/why-isnt-your-css-working-understanding-specificity-3lf3)
+- [Why RoR is the Ultimate Tech Choice for Startups](https://dev.to/softices/why-ror-is-the-ultimate-tech-choice-for-startups-1lpm)
+- [You really need to check this out if you’re in Web3](https://dev.to/tobysolutions/you-really-need-to-check-this-out-if-youre-in-web3-3bji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
