@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Data Handling - Part 1 - Understanding Encoding](https://dev.to/samuelko123/secure-data-handling-part-1-understanding-encoding-5f95)
-- [Code is Written, Not Born: Overcoming the Idea of a &quot;Perfect Project Start&quot;](https://dev.to/artstesh/code-is-written-not-born-overcoming-the-idea-of-a-perfect-project-start-52ln)
-- [Boost Your Training Revenue with an LMS: Tips and Strategies](https://dev.to/atrixware/boost-your-training-revenue-with-an-lms-tips-and-strategies-36bm)
-- [Standardizing AI Tooling with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/aws/standardizing-ai-tooling-with-model-context-protocol-mcp-nmj)
-- [How to Set Up TYPO3 on AWS with Composer [2025 Updated]](https://dev.to/sanjaychauhan/how-to-set-up-typo3-on-aws-with-composer-2025-updated-42ob)
+- [🧨 The Hotel California of Managed Services: How DigitalOcean Trapped My 800GB Database](https://dev.to/philsmy/the-hotel-california-of-managed-services-how-digitalocean-trapped-my-800gb-database-3ae5)
+- [💡 Exercise 04 – Reusing Stuff with ARM Template Variables &lpar;Your Azure Subscription&rpar;](https://dev.to/1suleyman/exercise-04-reusing-stuff-with-arm-template-variables-your-azure-subscription-2i4m)
+- [Building a Multi-Agent Blog Publishing System with CrewAI](https://dev.to/aileenvl/building-a-multi-agent-blog-publishing-system-with-crewai-efn)
+- [Trigger Lambda from SQS in Minutes: No-Fluff Guide](https://dev.to/megha_shivhare_5038dc1047/trigger-lambda-from-sqs-in-minutes-no-fluff-guide-102i)
+- [What Is a Data Intelligence Layer: Powering the Future of AI and Blockchain Integration](https://dev.to/joinwithken/what-is-a-data-intelligence-layer-powering-the-future-of-ai-and-blockchain-integration-20a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
