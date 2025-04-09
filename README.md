@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Tutorial] Chapter 8: Knowledge Base - Tree Collection](https://dev.to/nocobase/chapter-8-knowledge-base-tree-collection-1ao9)
-- [MediatR Simple Alternative](https://dev.to/criscoelho/-dl6)
-- [[Tutorial] Building a Complete Project Management Platform](https://dev.to/nocobase/tutorial-building-a-complete-project-management-platform-40aa)
-- [Blockchain App Testing with AI: Ensuring Trust and Transparency](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-app-testing-with-ai-ensuring-trust-and-transparency-3k58)
-- [3375. Minimum Operations to Make Array Values Equal to K](https://dev.to/mdarifulhaque/3375-minimum-operations-to-make-array-values-equal-to-k-4ada)
+- [Connecting to a Private RDS Instance via an EC2 Proxy](https://dev.to/aws-builders/connecting-to-a-private-rds-instance-via-an-ec2-proxy-4al1)
+- [The Lightcone 2025 Forecast: Predictions for Startups, AI, and Crypto](https://dev.to/jetthoughts/the-lightcone-2025-forecast-predictions-for-startups-ai-and-crypto-5h01)
+- [esMain&lpar;import.meta&rpar; in Nue.js source code.](https://dev.to/ramunarasinga-11/esmainimportmeta-in-nuejs-source-code-2dbj)
+- [[Tutorial] Chapter 10: Task Dashboard &lpar;Part 2&rpar; - Filter &amp; Conditions](https://dev.to/nocobase/tutorial-chapter-10-task-dashboard-part-2-filter-conditions-23c9)
+- [[Tutorial] Chapter 9: Task Dashboard: Charts](https://dev.to/nocobase/tutorial-chapter-9-task-dashboard-charts-4led)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
