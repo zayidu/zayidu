@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Speed Up COUNT DISTINCT with esProc](https://dev.to/esproc_spl/how-to-speed-up-count-distinct-with-esproc-46kk)
-- [Tailwind and nextjs](https://dev.to/lior_amsalem_3879371237f6/tailwind-and-nextjs-2dm)
-- [nextjs postgres](https://dev.to/lior_amsalem_3879371237f6/nextjs-postgres-500n)
-- [django and next js](https://dev.to/lior_amsalem_3879371237f6/django-and-next-js-4be0)
-- [nextjs with strapi](https://dev.to/turingvangisms/nextjs-with-strapi-1g53)
+- [Top 10 CSS Features You Can Use in 2025 &lpar;Fully Supported!&rpar;](https://dev.to/joodi/top-10-css-features-you-can-use-in-2025-fully-supported-41b4)
+- [Build a random image component with Astro and React](https://dev.to/nemanjam/build-a-random-image-component-with-astro-and-react-4p5f)
+- [No-Code vs. Full-Code: Who Wins in 2025?](https://dev.to/cloudestersoftware/no-code-vs-full-code-who-wins-in-2025-f02)
+- [Building Scalable and Secure Applications: Best Practices for Modern Developers](https://dev.to/corporateone/building-scalable-and-secure-applications-best-practices-for-modern-developers-2p5e)
+- [Data Analysis Using SQL](https://dev.to/kadoon_verinumbe_93807d68/data-analysis-using-sql-5ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
