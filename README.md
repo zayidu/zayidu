@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Olake &lpar;Lakehouse&rpar;](https://dev.to/sandarbh_bajpai/olake-lakehouse-1670)
-- [🐉 Loong: Synthesize Long CoTs at Scale through Verifiers](https://dev.to/camelai/loong-synthesize-long-cots-at-scale-through-verifiers-27b4)
-- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Your Online Business](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-your-online-business-1kam)
-- [Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers, Developers, and E-Commerce Entrepreneurs](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-developers-and-5ed4)
-- [Day 7: polymorphism method overloading](https://dev.to/sugumar_r_a5f301adf1fb49a/day-7-polymorphism-method-overloading-416)
+- [Stitching Giant JSONs Together with JSON Patch](https://dev.to/shrsv/stitching-giant-jsons-together-with-json-patch-5gmc)
+- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Freelancers and E-commerce Entrepreneurs](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-freelancers-and-1d85)
+- [macOS AI Agent](https://dev.to/techtech/macos-ai-agent-3k5g)
+- [Hands-On Selenium with Python: From Basics to Framework Building](https://dev.to/testwithtorin/hands-on-selenium-with-python-from-basics-to-framework-building-6kd)
+- [🚀 Java Constructors – Masterclass with Examples](https://dev.to/vigneshwaralingam/java-constructors-masterclass-with-examples-4m0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
