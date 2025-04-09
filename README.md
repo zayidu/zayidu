@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to my 5️⃣3️⃣ p5.js Sketches Collection!](https://dev.to/aniruddhaadak/welcome-to-my-p5js-sketches-collection-1k94)
-- [Automating EC2 Shutdown with Lambda, EventBridge &amp; SNS –](https://dev.to/glory_ugochukwu_57b6cf663/automating-ec2-shutdown-with-lambda-eventbridge-sns--5g)
-- [The Impact of AI on Low-Code and No-Code Development](https://dev.to/kartikmehta8/the-impact-of-ai-on-low-code-and-no-code-development-2b1j)
-- [&quot;Mastering Uncertainty in AI: Transforming Healthcare and Education with LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-uncertainty-in-ai-transforming-healthcare-and-education-with-llms-177e)
-- [What are common techniques for data preprocessing?](https://dev.to/the_medicaltreasure_cf3a/what-are-common-techniques-for-data-preprocessing-2ddj)
+- [What is a good platform I can use along with Gemini app or website, so I can build my own app?](https://dev.to/thatsoundedscary/what-is-a-good-platform-i-can-use-along-with-gemini-app-or-website-so-i-can-build-my-own-app-3gnb)
+- [🔥Flametoter: Visual storytelling via digital art &amp; motion graphics. Let&#39;s create magic!](https://dev.to/karl_risch_7866bf4c73c5b9/flametoter-visual-storytelling-via-digital-art-motion-graphics-lets-create-magic-h3i)
+- [UX Engineers | Explained](https://dev.to/d2d_weizhi/ux-engineers-explained-pjl)
+- [A Portfolio website using Hugo and deployed to AWS using Pulumi](https://dev.to/aniruddhaadak/a-portfolio-website-using-hugo-and-deployed-to-aws-using-pulumi-1la3)
+- [Spring Boot Introduction](https://dev.to/ramya_kamalasekaran/spring-boot-introduction-3c6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
