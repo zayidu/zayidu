@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes and Container Portability: Navigating Multi-Cloud Flexibility](https://dev.to/aws-builders/kubernetes-and-container-portability-navigating-multi-cloud-flexibility-26ek)
-- [Making Azure Deployments Smarter with ARM Template Functions, Variables, Tags, and Parameter Files](https://dev.to/1suleyman/making-azure-deployments-smarter-with-arm-template-functions-variables-tags-and-parameter-files-2jf8)
-- [Copying and pasting in Linux](https://dev.to/alexenson/copying-and-pasting-in-linux-4nn6)
-- [Data Analysis of a Model Car Database Using MySQL Workbench](https://dev.to/gunay_mehdiyeva/data-analysis-of-a-model-car-database-using-mysql-workbench-1l)
-- [💡 Exercise 05 – Making Your ARM Templates Smarter with Tags &amp; Parameter Files](https://dev.to/1suleyman/exercise-05-making-your-arm-templates-smarter-with-tags-parameter-files-4698)
+- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-and-e-commerce-3789)
+- [AWS verified Access services](https://dev.to/vasanthbal5220/aws-verified-access-services-17mk)
+- [Building Full-Stack Web Applications with JavaScript and AI](https://dev.to/d-libro-digital-skills/building-full-stack-web-applications-with-javascript-and-ai-9ag)
+- [🌱 New Feature: Beautiful Per-Command Help for the Greening CLI](https://dev.to/chrisgreening/new-feature-beautiful-per-command-help-for-the-greening-cli-4iah)
+- [Docker](https://dev.to/bsouza/docker-5cpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
