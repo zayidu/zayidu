@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧨 The Hotel California of Managed Services: How DigitalOcean Trapped My 800GB Database](https://dev.to/philsmy/the-hotel-california-of-managed-services-how-digitalocean-trapped-my-800gb-database-3ae5)
-- [💡 Exercise 04 – Reusing Stuff with ARM Template Variables &lpar;Your Azure Subscription&rpar;](https://dev.to/1suleyman/exercise-04-reusing-stuff-with-arm-template-variables-your-azure-subscription-2i4m)
-- [Building a Multi-Agent Blog Publishing System with CrewAI](https://dev.to/aileenvl/building-a-multi-agent-blog-publishing-system-with-crewai-efn)
-- [Trigger Lambda from SQS in Minutes: No-Fluff Guide](https://dev.to/megha_shivhare_5038dc1047/trigger-lambda-from-sqs-in-minutes-no-fluff-guide-102i)
-- [What Is a Data Intelligence Layer: Powering the Future of AI and Blockchain Integration](https://dev.to/joinwithken/what-is-a-data-intelligence-layer-powering-the-future-of-ai-and-blockchain-integration-20a8)
+- [Kubernetes and Container Portability: Navigating Multi-Cloud Flexibility](https://dev.to/aws-builders/kubernetes-and-container-portability-navigating-multi-cloud-flexibility-26ek)
+- [Making Azure Deployments Smarter with ARM Template Functions, Variables, Tags, and Parameter Files](https://dev.to/1suleyman/making-azure-deployments-smarter-with-arm-template-functions-variables-tags-and-parameter-files-2jf8)
+- [Copying and pasting in Linux](https://dev.to/alexenson/copying-and-pasting-in-linux-4nn6)
+- [Data Analysis of a Model Car Database Using MySQL Workbench](https://dev.to/gunay_mehdiyeva/data-analysis-of-a-model-car-database-using-mysql-workbench-1l)
+- [💡 Exercise 05 – Making Your ARM Templates Smarter with Tags &amp; Parameter Files](https://dev.to/1suleyman/exercise-05-making-your-arm-templates-smarter-with-tags-parameter-files-4698)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
