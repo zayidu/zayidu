@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protocol Agnostic Framework](https://dev.to/m__mdy__m/protocol-agnostic-framework-9p2)
-- [Schema Changes in MySQL: Will Your Table Be Locked?](https://dev.to/leapcell/schema-changes-in-mysql-will-your-table-be-locked-3k8)
-- [Crafting Go Testing Module: Step 2 - Core](https://dev.to/rzajac/crafting-go-testing-module-step-2-core-1a33)
-- [Vintom in Angular 19](https://dev.to/gydunhn/vintom-in-angular-19-32fm)
-- [Separando la logica de la capa de negocios en casos de uso.](https://dev.to/betoramiz/separando-la-logica-de-la-capa-de-negocios-en-casos-de-uso-48ka)
+- [From Idea to Infra: Building Scalable Systems with Kubernetes, Terraform &amp; Cloud &lpar;Detailed&rpar;](https://dev.to/suryadeepsinh_gohil/from-idea-to-infra-building-scalable-systems-with-kubernetes-terraform-cloud-detailed-1dl0)
+- [Kafka 2 crdb](https://dev.to/fabiog1901/kafka-2-crdb-3pdf)
+- [The interplay of authentication and authorization in ASP.NET Core](https://dev.to/voroninp/the-interplay-of-authentication-and-authorization-in-aspnet-core-4ojg)
+- [Check this if you plan to take SCAA-C03 soon](https://dev.to/jekobokidou/check-this-if-you-plan-to-take-scaa-c03-soon-take-a-look-at-this-article-5f7o)
+- [MACHINE LEARNING AND ARRHYTHMIA DETECTION](https://dev.to/davidbosah/machine-learning-and-arrhythmia-detection-347k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
