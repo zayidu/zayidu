@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python’da Kalıtım &lpar;Inheritance&rpar; ve “Is-A” İlişkisi: Kod Mirası ve Hiyerarşi](https://dev.to/abdulkadir_gungor/pythonda-kalitim-inheritance-ve-is-a-iliskisi-kod-mirasi-ve-hiyerarsi-a6k)
-- [Part 7: Searching Algorithms in Python – Mastering Binary Search and Beyond](https://dev.to/nkpydev/part-7-searching-algorithms-in-python-mastering-binary-search-and-beyond-181f)
-- [Python Erişim Belirleyiciler ve Kapsülleme İlişkisi](https://dev.to/abdulkadir_gungor/python-erisim-belirleyiciler-ve-kapsulleme-iliskisi-57ml)
-- [🚩 Microsoft UX Dark Patterns, CSS-only blurry image placeholders + Inclusive Design](https://dev.to/adam/microsoft-ux-dark-patterns-css-only-blurry-image-placeholders-inclusive-design-19ed)
-- [Python [11] : Python Dosya İşlemleri; Kalıcı Verilerle Çalışmak &lpar;Okuma/Yazma&rpar;](https://dev.to/abdulkadir_gungor/python-11-python-dosya-islemleri-kalici-verilerle-calismak-okumayazma-4081)
+- [Learning and Leveling Up: Beyond the Tutorial](https://dev.to/patrocinioluisf/learning-and-leveling-up-beyond-the-tutorial-4n4m)
+- [Protecting Client Data: How We Use AI in Custom Software Development](https://dev.to/techmiresolutions/protecting-client-data-how-we-use-ai-in-custom-software-development-9a4)
+- [capslockforçado](https://dev.to/zanonana/capslockforcado-5825)
+- [Restarting From Day 1 — Escaping Tutorial Hell](https://dev.to/munin-1/restarting-from-day-1-escaping-tutorial-hell-21j3)
+- [Day-5,6,7,8 in python](https://dev.to/maddy_mathan/day-5678-in-python-ekj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
