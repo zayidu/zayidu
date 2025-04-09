@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stitching Giant JSONs Together with JSON Patch](https://dev.to/shrsv/stitching-giant-jsons-together-with-json-patch-5gmc)
-- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Freelancers and E-commerce Entrepreneurs](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-freelancers-and-1d85)
-- [macOS AI Agent](https://dev.to/techtech/macos-ai-agent-3k5g)
-- [Hands-On Selenium with Python: From Basics to Framework Building](https://dev.to/testwithtorin/hands-on-selenium-with-python-from-basics-to-framework-building-6kd)
-- [🚀 Java Constructors – Masterclass with Examples](https://dev.to/vigneshwaralingam/java-constructors-masterclass-with-examples-4m0o)
+- [Readable and Writable Streams: Advanced Concepts](https://dev.to/omriluz1/readable-and-writable-streams-advanced-concepts-4e8j)
+- [Silent Intruders](https://dev.to/yuvasec/silent-intruders-400e)
+- [การวิเคราะห์ข้อมูลด้วย Decision Tree และ Random Forest](https://dev.to/kazumii/kaarwiekhraaahkhmuuldwy-decision-tree-aela-random-forest-31b6)
+- [A BLOG ON HOW TO HOST STATIC WEBSITE ON AZURE BLOG STORAGE](https://dev.to/odi_7fa278105e8560bb1feb8/a-blog-on-how-to-host-static-website-on-azure-blog-storage-1e6g)
+- [Paracetamol.js💊| #226: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-226-explica-este-codigo-javascript-438g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
