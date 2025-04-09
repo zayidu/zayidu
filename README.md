@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable E-commerce Backend with DynamoDB, Lambda, API Gateway, and S3](https://dev.to/glory_ugochukwu_57b6cf663/building-a-scalable-e-commerce-backend-with-dynamodb-lambda-api-gateway-and-s3-2i30)
-- [Untitled](https://dev.to/luis_manuel/untitled-106b)
-- [Building a Modern EPG System for Roku with BrightScript](https://dev.to/tvboy109/building-a-modern-epg-system-for-roku-with-brightscript-ak3)
-- [Untitled](https://dev.to/luis_manuel/untitled-1k4b)
-- [CI/CD Pipeline for a Node.js App with Automated Testing and Deployment to Render](https://dev.to/arbythecoder/cicd-pipeline-for-a-nodejs-app-with-automated-testing-and-deployment-to-render-3a16)
+- [Welcome to my 5️⃣3️⃣ p5.js Sketches Collection!](https://dev.to/aniruddhaadak/welcome-to-my-p5js-sketches-collection-1k94)
+- [Automating EC2 Shutdown with Lambda, EventBridge &amp; SNS –](https://dev.to/glory_ugochukwu_57b6cf663/automating-ec2-shutdown-with-lambda-eventbridge-sns--5g)
+- [The Impact of AI on Low-Code and No-Code Development](https://dev.to/kartikmehta8/the-impact-of-ai-on-low-code-and-no-code-development-2b1j)
+- [&quot;Mastering Uncertainty in AI: Transforming Healthcare and Education with LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-uncertainty-in-ai-transforming-healthcare-and-education-with-llms-177e)
+- [What are common techniques for data preprocessing?](https://dev.to/the_medicaltreasure_cf3a/what-are-common-techniques-for-data-preprocessing-2ddj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
