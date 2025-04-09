@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ToolHive: Making MCP Servers Easy, Secure, and Fun](https://dev.to/stacklok/toolhive-making-mcp-servers-easy-secure-and-fun-7hi)
-- [Ceramic Blasting Technology: The &quot;Silent Hero&quot; in Enhancing Aerospace Component Performance](https://dev.to/js-henglihong/ceramic-blasting-technology-the-silent-hero-in-enhancing-aerospace-component-performance-24a6)
-- [Is ReactJS the Right Tool for Your Next Financial Software Project?](https://dev.to/anilparmar/is-reactjs-the-right-tool-for-your-next-financial-software-project-277j)
-- [Top 10 Use Cases of File Conversion APIs in Modern Web Applications](https://dev.to/mdhabibur/top-10-use-cases-of-file-conversion-apis-in-modern-web-applications-52l9)
-- [Manus AI: The Revolutionary Multi-Agent System Reshaping the Future of AI Assistants](https://dev.to/aniruddhaadak/manus-ai-the-revolutionary-multi-agent-system-reshaping-the-future-of-ai-assistants-2i35)
+- [How to Speed Up COUNT DISTINCT with esProc](https://dev.to/esproc_spl/how-to-speed-up-count-distinct-with-esproc-46kk)
+- [Tailwind and nextjs](https://dev.to/lior_amsalem_3879371237f6/tailwind-and-nextjs-2dm)
+- [nextjs postgres](https://dev.to/lior_amsalem_3879371237f6/nextjs-postgres-500n)
+- [django and next js](https://dev.to/lior_amsalem_3879371237f6/django-and-next-js-4be0)
+- [nextjs with strapi](https://dev.to/turingvangisms/nextjs-with-strapi-1g53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
