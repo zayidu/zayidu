@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 CSS Features You Can Use in 2025 &lpar;Fully Supported!&rpar;](https://dev.to/joodi/top-10-css-features-you-can-use-in-2025-fully-supported-41b4)
-- [Build a random image component with Astro and React](https://dev.to/nemanjam/build-a-random-image-component-with-astro-and-react-4p5f)
-- [No-Code vs. Full-Code: Who Wins in 2025?](https://dev.to/cloudestersoftware/no-code-vs-full-code-who-wins-in-2025-f02)
-- [Building Scalable and Secure Applications: Best Practices for Modern Developers](https://dev.to/corporateone/building-scalable-and-secure-applications-best-practices-for-modern-developers-2p5e)
-- [Data Analysis Using SQL](https://dev.to/kadoon_verinumbe_93807d68/data-analysis-using-sql-5ane)
+- [Python’da Kalıtım &lpar;Inheritance&rpar; ve “Is-A” İlişkisi: Kod Mirası ve Hiyerarşi](https://dev.to/abdulkadir_gungor/pythonda-kalitim-inheritance-ve-is-a-iliskisi-kod-mirasi-ve-hiyerarsi-a6k)
+- [Part 7: Searching Algorithms in Python – Mastering Binary Search and Beyond](https://dev.to/nkpydev/part-7-searching-algorithms-in-python-mastering-binary-search-and-beyond-181f)
+- [Python Erişim Belirleyiciler ve Kapsülleme İlişkisi](https://dev.to/abdulkadir_gungor/python-erisim-belirleyiciler-ve-kapsulleme-iliskisi-57ml)
+- [🚩 Microsoft UX Dark Patterns, CSS-only blurry image placeholders + Inclusive Design](https://dev.to/adam/microsoft-ux-dark-patterns-css-only-blurry-image-placeholders-inclusive-design-19ed)
+- [Python [11] : Python Dosya İşlemleri; Kalıcı Verilerle Çalışmak &lpar;Okuma/Yazma&rpar;](https://dev.to/abdulkadir_gungor/python-11-python-dosya-islemleri-kalici-verilerle-calismak-okumayazma-4081)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
