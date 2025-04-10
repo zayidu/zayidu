@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Only 2 Lines of code to create an MCP server from a FastAPI - Major updates 🚀](https://dev.to/makhlevich/only-2-lines-of-code-to-create-an-mcp-server-from-a-fastapi-major-updates-3p03)
-- [Day-16:variable explanation](https://dev.to/pavithra_c_butterfly/day-16variable-explanation-52ao)
-- [Deploying a Hugo Blog to GitHub Pages with Actions](https://dev.to/nexo-tech/deploying-a-hugo-blog-to-github-pages-with-actions-13pa)
-- [Data Mining Fundamentals](https://dev.to/souhaillaghchimdev/data-mining-fundamentals-3npe)
-- [Node.js Import Style Guide](https://dev.to/boonyaritiamsaard/nodejs-import-style-guide-56ck)
+- [AI ตรวจจับใบหน้าด้วย OpenCV แบบเรียลไทม์: เริ่มต้นง่าย ๆ ด้วย Python](https://dev.to/thipwaree_aunruean_3/ai-trwcchcchabaibhnaadwy-opencv-aebberiiylaithm-erimtnngaay-dwy-python-3fnh)
+- [How Software Teams Can Improve Communication and Collaboration](https://dev.to/taskframe/how-software-teams-can-improve-communication-and-collaboration-i2i)
+- [[Boost]](https://dev.to/rajesh_verma_69c86ea90ea4/-1pc4)
+- [💻 Exercise 02 – Making Your Bicep Templates Smarter with Parameters &amp; Variables &lpar;Using Your Own Subscription&rpar;](https://dev.to/1suleyman/exercise-02-making-your-bicep-templates-smarter-with-parameters-variables-using-your-own-129o)
+- [In-depth Research Report on Google Agent2Agent &lpar;A2A&rpar; Protocol](https://dev.to/justin3go/in-depth-research-report-on-google-agent2agent-a2a-protocol-2m2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
