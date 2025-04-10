@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent Conversational AI System with Amazon Bedrock](https://dev.to/shadow_b/building-a-multi-agent-conversational-ai-system-with-amazon-bedrock-3elp)
-- [10 Best Video Hosting Platforms in 2025 for Businesses &amp; Creators](https://dev.to/livestreaming/10-best-video-hosting-platforms-in-2025-for-businesses-creators-2flb)
-- [Create a JavaScript-free modal popup with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-modal-popup-with-only-tailwind-css-4ge3)
-- [5 Future-Proof Skills for Students to Earn $100K+ by 2025 &lpar;AI-Powered Opportunities Inside&rpar;](https://dev.to/paulthedev/5-future-proof-skills-for-students-to-earn-100k-by-2025-ai-powered-opportunities-inside-4989)
-- [LLM Agents Fail Key Skills: New Test Reveals Human-AI Performance Gap](https://dev.to/aimodels-fyi/llm-agents-fail-key-skills-new-test-reveals-human-ai-performance-gap-4a10)
+- [💻 What Is Infrastructure as Code? &lpar;And Why You Should Care If You&#39;re Building on Azure&rpar;](https://dev.to/1suleyman/what-is-infrastructure-as-code-and-why-you-should-care-if-youre-building-on-azure-4d08)
+- [Streamlining Umbraco Headless Development: Automated Model Generation for Content Delivery API with Orval](https://dev.to/phil-whittaker/streamlining-umbraco-headless-development-automated-model-generation-for-content-delivery-api-with-12n9)
+- [🧠 What Makes a SaaS Product Actually Scalable?](https://dev.to/dreamcyber001/what-makes-a-saas-product-actually-scalable-1gh7)
+- [AZ-204: Developing Solutions for Microsoft Azure](https://dev.to/jeyecaexclussi/az-204-developing-solutions-for-microsoft-azure-18fd)
+- [Build Language-Agnostic Plugins and Extensions Effortlessly with Javonet](https://dev.to/javonet/build-language-agnostic-plugins-and-extensions-effortlessly-with-javonet-2079)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
