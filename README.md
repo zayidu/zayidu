@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
-- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-10gk)
-- [Learning to Write Secure Code](https://dev.to/souhaillaghchimdev/learning-to-write-secure-code-3ic3)
-- [Educational Game Application Programming](https://dev.to/souhaillaghchimdev/educational-game-application-programming-5cj8)
-- [Database Management System &lpar;DBMS&rpar; Development](https://dev.to/souhaillaghchimdev/database-management-system-dbms-development-4n0c)
+- [[Boost]](https://dev.to/ansher/-3c6a)
+- [DAY : 19 How to use Encapsulation in java](https://dev.to/sangamithra_k_78d83d6fb9d/day-19-how-to-use-encapsulation-in-java-581m)
+- [Top SaaS SEO Tools in 2025](https://dev.to/lemii_/top-saas-seo-tools-in-2025-3kd7)
+- [Scrape data masjid dengan multi threads](https://dev.to/ekopriyanto/scrape-data-masjid-dengan-multi-threads-8g1)
+- [Exploring the Ethics of Synthetic Media and AI-Generated Content](https://dev.to/kartikmehta8/exploring-the-ethics-of-synthetic-media-and-ai-generated-content-44fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
