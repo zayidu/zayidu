@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Building Scalable RESTful APIs in 2025](https://dev.to/khushii_34ceada974a6bfcc2/the-ultimate-guide-to-building-scalable-restful-apis-in-2025-fjb)
-- [Flutter consume api login](https://dev.to/vytroo_e77e89f49d4188b8fa/flutter-consume-api-login-1dcp)
-- [We Tested AI Platforms for “Vibe Scamming” - Here’s What Happened](https://dev.to/sheron_bc/we-tested-ai-platforms-for-vibe-scamming-heres-what-happened-2kni)
-- [Navigating the Cloud: Key Considerations for Developers When Moving to Cloud Infrastructure](https://dev.to/corporateone/navigating-the-cloud-key-considerations-for-developers-when-moving-to-cloud-infrastructure-2ah6)
-- [What is DBMS? A Beginner’s Guide to Database Management Systems in 2025](https://dev.to/khushii_34ceada974a6bfcc2/what-is-dbms-a-beginners-guide-to-database-management-systems-in-2025-5cp)
+- [What Happens When You Break the Rules of Hooks in React?](https://dev.to/oba1dkhan/what-happens-when-you-break-the-rules-of-hooks-in-react-4ell)
+- [สร้างโมเดล AI ตรวจจับอารมณ์จากภาพใบหน้าด้วย Python บน Google Colab](https://dev.to/tawannn/sraangomedl-ai-trwcchcchabaarmncchaakphaaphaibhnaadwy-python-bn-google-colab-14ph)
+- [Navigating the Hidden Costs of Hosting: What Every Freelancer Should Know](https://dev.to/florentv11/navigating-the-hidden-costs-of-hosting-what-every-freelancer-should-know-5dm8)
+- [The Invisible Work of a Frontend Lead &lpar;And Why It Matters&rpar;](https://dev.to/_arpy/the-invisible-work-of-a-frontend-lead-and-why-it-matters-5d5)
+- [Raiders of the Lost Code: Unearthing Abandonware with AI Agents](https://dev.to/thejesper/raiders-of-the-lost-code-unearthing-abandonware-with-ai-agents-3p63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
