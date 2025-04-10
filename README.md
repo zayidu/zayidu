@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Pipelines and Pipeline Operator Proposal](https://dev.to/omriluz1/javascript-pipelines-and-pipeline-operator-proposal-22pg)
-- [💼 Hiring a Full-Stack Dev to Build an Chat Platform &lpar;Paid Project&rpar;](https://dev.to/isicktear/hiring-a-full-stack-dev-to-build-an-chat-platform-paid-project-2chg)
-- [The Ultimate Guide to the Evolution of Microservices](https://dev.to/dishitdevasia/the-ultimate-guide-to-the-evolution-of-microservices-48o3)
-- [Guys, please check out a new take on Frontend development](https://dev.to/isumix/guys-please-check-out-a-new-take-on-frontend-development-5fmc)
-- [Creating a Fully Responsive Navigation Bar Using Only CSS &lpar;No JavaScript&rpar;](https://dev.to/hexshift/creating-a-fully-responsive-navigation-bar-using-only-css-no-javascript-1l3n)
+- [Linux Process Management – Monitor, Control, Optimize](https://dev.to/shamain_anjum/linux-process-management-monitor-control-optimize-5f9c)
+- [Frida vs. Obscured WebView: Diagnosing the Path to an iOS CAPTCHA Automation](https://dev.to/neverlow512/frida-vs-obscured-webview-diagnosing-the-path-to-an-ios-captcha-automation-part-1-5017)
+- [Navigating Common Hosting Pitfalls: Solutions for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-common-hosting-pitfalls-solutions-for-us-digital-entrepreneurs-3abh)
+- [Building a RAG System for Video Content Search and Analysis](https://dev.to/aws/building-a-rag-system-for-video-content-search-and-analysis-5g8l)
+- [Automating Botox Appointment Scheduling with PHP: Step-by-Step Guide](https://dev.to/karen_londres/automating-botox-appointment-scheduling-with-php-step-by-step-guide-5bal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
