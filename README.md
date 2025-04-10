@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI ตรวจจับใบหน้าด้วย OpenCV แบบเรียลไทม์: เริ่มต้นง่าย ๆ ด้วย Python](https://dev.to/thipwaree_aunruean_3/ai-trwcchcchabaibhnaadwy-opencv-aebberiiylaithm-erimtnngaay-dwy-python-3fnh)
-- [How Software Teams Can Improve Communication and Collaboration](https://dev.to/taskframe/how-software-teams-can-improve-communication-and-collaboration-i2i)
-- [[Boost]](https://dev.to/rajesh_verma_69c86ea90ea4/-1pc4)
-- [💻 Exercise 02 – Making Your Bicep Templates Smarter with Parameters &amp; Variables &lpar;Using Your Own Subscription&rpar;](https://dev.to/1suleyman/exercise-02-making-your-bicep-templates-smarter-with-parameters-variables-using-your-own-129o)
-- [In-depth Research Report on Google Agent2Agent &lpar;A2A&rpar; Protocol](https://dev.to/justin3go/in-depth-research-report-on-google-agent2agent-a2a-protocol-2m2a)
+- [Looking for a software engineer to assist on startup: FoundrMatch](https://dev.to/aryandhawan/looking-for-a-software-engineer-to-assist-on-startup-foundrmatch-9ha)
+- [Cloudy Resumes](https://dev.to/portable-dolphin/cloudy-resumes-2eo3)
+- [Navigating Downtime: Essential Tips for Freelancers to Tackle Hosting Woes](https://dev.to/florentv11/navigating-downtime-essential-tips-for-freelancers-to-tackle-hosting-woes-2p29)
+- [What Can You Do in React? 🤔](https://dev.to/davinceleecode/what-can-you-do-in-react-11h0)
+- [What Makes Hyvä a Smarter Frontend Choice for Adobe Commerce](https://dev.to/aakanksha/what-makes-hyva-a-smarter-frontend-choice-for-adobe-commerce-3pmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
