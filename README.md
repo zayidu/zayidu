@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Break the Rules of Hooks in React?](https://dev.to/oba1dkhan/what-happens-when-you-break-the-rules-of-hooks-in-react-4ell)
-- [สร้างโมเดล AI ตรวจจับอารมณ์จากภาพใบหน้าด้วย Python บน Google Colab](https://dev.to/tawannn/sraangomedl-ai-trwcchcchabaarmncchaakphaaphaibhnaadwy-python-bn-google-colab-14ph)
-- [Navigating the Hidden Costs of Hosting: What Every Freelancer Should Know](https://dev.to/florentv11/navigating-the-hidden-costs-of-hosting-what-every-freelancer-should-know-5dm8)
-- [The Invisible Work of a Frontend Lead &lpar;And Why It Matters&rpar;](https://dev.to/_arpy/the-invisible-work-of-a-frontend-lead-and-why-it-matters-5d5)
-- [Raiders of the Lost Code: Unearthing Abandonware with AI Agents](https://dev.to/thejesper/raiders-of-the-lost-code-unearthing-abandonware-with-ai-agents-3p63)
+- [Mastering Custom React Hooks: Best Practices for Clean, Scalable Code](https://dev.to/austinwdigital/mastering-custom-react-hooks-best-practices-for-clean-scalable-code-40b1)
+- [TIL: Returning to your previous Git branch](https://dev.to/eyewritecode/til-returning-to-your-previous-git-branch-e7e)
+- [AI Traffic Accelerator: What You Need To Know &lpar;Complete Review&rpar;](https://dev.to/lilia10/ai-traffic-accelerator-what-you-need-to-know-complete-review-8d8)
+- [Ng-News 25/14: Selectorless PR](https://dev.to/this-is-angular/ng-news-2514-selectorless-pr-4j36)
+- [How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-secure-aws-infrastructure-1k8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
