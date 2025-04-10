@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Downtime: Solutions for Freelancers Facing Hosting Hurdles](https://dev.to/florentv11/navigating-downtime-solutions-for-freelancers-facing-hosting-hurdles-2pe0)
-- [🎙️ Building ResonanceX – A Podcast Analytics Tool for Creators Left Behind by Chartable](https://dev.to/resonancex/building-resonancex-a-podcast-analytics-tool-for-creators-left-behind-by-chartable-o2n)
-- [From Manual to Magical: Transforming Accounts Payable with Automation](https://dev.to/astutemarketing/from-manual-to-magical-transforming-accounts-payable-with-automation-1681)
-- [The Ultimate Guide to Connecting ERP Systems with Shopify for Seamless Operations](https://dev.to/markloops/the-ultimate-guide-to-connecting-erp-systems-with-shopify-for-seamless-operations-1pek)
-- [Java Interview Guide for Freshers: Questions &amp; Expert Tips](https://dev.to/tpointtechadu/java-interview-guide-for-freshers-questions-expert-tips-28j2)
+- [The Ultimate Guide to Building Scalable RESTful APIs in 2025](https://dev.to/khushii_34ceada974a6bfcc2/the-ultimate-guide-to-building-scalable-restful-apis-in-2025-fjb)
+- [Flutter consume api login](https://dev.to/vytroo_e77e89f49d4188b8fa/flutter-consume-api-login-1dcp)
+- [We Tested AI Platforms for “Vibe Scamming” - Here’s What Happened](https://dev.to/sheron_bc/we-tested-ai-platforms-for-vibe-scamming-heres-what-happened-2kni)
+- [Navigating the Cloud: Key Considerations for Developers When Moving to Cloud Infrastructure](https://dev.to/corporateone/navigating-the-cloud-key-considerations-for-developers-when-moving-to-cloud-infrastructure-2ah6)
+- [What is DBMS? A Beginner’s Guide to Database Management Systems in 2025](https://dev.to/khushii_34ceada974a6bfcc2/what-is-dbms-a-beginners-guide-to-database-management-systems-in-2025-5cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
