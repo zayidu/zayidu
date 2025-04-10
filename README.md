@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a software engineer to assist on startup: FoundrMatch](https://dev.to/aryandhawan/looking-for-a-software-engineer-to-assist-on-startup-foundrmatch-9ha)
-- [Cloudy Resumes](https://dev.to/portable-dolphin/cloudy-resumes-2eo3)
-- [Navigating Downtime: Essential Tips for Freelancers to Tackle Hosting Woes](https://dev.to/florentv11/navigating-downtime-essential-tips-for-freelancers-to-tackle-hosting-woes-2p29)
-- [What Can You Do in React? 🤔](https://dev.to/davinceleecode/what-can-you-do-in-react-11h0)
-- [What Makes Hyvä a Smarter Frontend Choice for Adobe Commerce](https://dev.to/aakanksha/what-makes-hyva-a-smarter-frontend-choice-for-adobe-commerce-3pmm)
+- [Pinta&#39;s website refresh - Giving back with design](https://dev.to/rolandixor/pintas-website-refresh-giving-back-with-design-17cm)
+- [Day-20:Eclipse IDE](https://dev.to/pavithra_c_butterfly/day-20eclipse-ide-51jd)
+- [Introducing Locally: A Rust-Powered Tool to Streamline Your Development Workflow](https://dev.to/jihedbz/introducing-locally-a-rust-powered-tool-to-streamline-your-development-workflow-57j4)
+- [Understanding CORS: Why It Matters and How to Implement It in Node.js and FastAPI](https://dev.to/sajjadali/understanding-cors-why-it-matters-and-how-to-implement-it-in-nodejs-and-fastapi-4ol)
+- [Dapr Workflows: What and How](https://dev.to/sirivarma/dapr-workflows-what-and-how-3n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
