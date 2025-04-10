@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaFX In Action #19 with Gerrit Grunwald, Creator of Many Amazing JavaFX Libraries](https://dev.to/fdelporte/javafx-in-action-19-with-gerrit-grunwald-creator-of-many-amazing-javafx-libraries-2gd8)
-- [Enterprise Design Patterns: Real-World Examples from Patterns of Enterprise Application Architecture](https://dev.to/juan_josdavidperezviz/enterprise-design-patterns-real-world-examples-from-patterns-of-enterprise-application-architecture-man)
-- [My Journey with ISTQB® Foundation Level Certification](https://dev.to/dheerajpd411/my-journey-with-istqbr-foundation-level-certification-9im)
-- [A Lightweight Authentication and Key Negotiation Protocol for IIoT using ECC](https://dev.to/shuvam_bhagat_/a-lightweight-authentication-and-key-negotiation-protocol-for-iiot-using-ecc-4lha)
-- [Creating Child-Safe Sites: What Every Developer Should Know About COPPA Compliance](https://dev.to/okoye_ndidiamaka_5e3b7d30/creating-child-safe-sites-what-every-developer-should-know-about-coppa-compliance-4dc7)
+- [Essential PostgreSQL Data Types Explained](https://dev.to/dbvismarketing/essential-postgresql-data-types-explained-27pl)
+- [Why Junior Developers Must Seize Control of Their Growth Journey Today](https://dev.to/_ndeyefatoudiop/why-junior-developers-must-seize-control-of-their-growth-journey-today-5ac2)
+- [Integrating AI Agents with n8n: Enhance Your Workflow Automation](https://dev.to/truelime/integrating-ai-agents-with-n8n-enhance-your-workflow-automation-52pc)
+- [Cost Comparison: Databricks Cluster Jobs vs. SQL Warehouse for Batch Processing](https://dev.to/asaphtinoco/cost-comparison-databricks-cluster-jobs-vs-sql-warehouse-for-batch-processing-gjg)
+- [Porting a PHP Based Web Game to Mobile Part 1](https://dev.to/jigsawpsycho/porting-a-php-based-web-game-to-mobile-part-1-5e4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
