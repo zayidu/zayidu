@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Process Management – Monitor, Control, Optimize](https://dev.to/shamain_anjum/linux-process-management-monitor-control-optimize-5f9c)
-- [Frida vs. Obscured WebView: Diagnosing the Path to an iOS CAPTCHA Automation](https://dev.to/neverlow512/frida-vs-obscured-webview-diagnosing-the-path-to-an-ios-captcha-automation-part-1-5017)
-- [Navigating Common Hosting Pitfalls: Solutions for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-common-hosting-pitfalls-solutions-for-us-digital-entrepreneurs-3abh)
-- [Building a RAG System for Video Content Search and Analysis](https://dev.to/aws/building-a-rag-system-for-video-content-search-and-analysis-5g8l)
-- [Automating Botox Appointment Scheduling with PHP: Step-by-Step Guide](https://dev.to/karen_londres/automating-botox-appointment-scheduling-with-php-step-by-step-guide-5bal)
+- [Managing React State with Context and useReducer: A Practical Guide](https://dev.to/bastiani/managing-react-state-with-context-and-usereducer-a-practical-guide-401i)
+- [Day 1138 : Parts Unknown](https://dev.to/dwane/day-1138-parts-unknown-2982)
+- [Want to Join a Remote AI Company in 2025? Here’s What Actually Matters 🌍 🤖](https://dev.to/clickit_devops/want-to-join-a-remote-ai-company-in-2025-heres-what-actually-matters-52fg)
+- [SSIS tips: How to import JSON files to MongoDB](https://dev.to/jorge316/ssis-tips-how-to-import-json-files-to-mongodb-dj0)
+- [Navigating Hosting Hurdles: Solutions for Freelancers and E-Commerce Innovators](https://dev.to/florentv11/navigating-hosting-hurdles-solutions-for-freelancers-and-e-commerce-innovators-2enb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
