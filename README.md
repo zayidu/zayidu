@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Industries with Blockchain: A New Era of Business Solutions](https://dev.to/blockchaindevelopment/transforming-industries-with-blockchain-a-new-era-of-business-solutions-2fo4)
-- [Why You Shouldn’t Rely on ChatGPT API for Your Product &lpar;And What We’re Building Instead&rpar;](https://dev.to/soman3/why-you-shouldnt-rely-on-chatgpt-api-for-your-product-and-what-were-building-instead-4nnf)
-- [The Facade Pattern: Simplifying Complex Systems](https://dev.to/_hm/the-facade-pattern-simplifying-complex-systems-5fb)
-- [How CLBs Get Connected to Realize Any Functionality in FPGA?](https://dev.to/carolineee/how-clbs-get-connected-to-realize-any-functionality-in-fpga-1d7k)
-- [useRef Hook: The Silent Helper](https://dev.to/shubha_k/useref-hook-the-silent-helper-2dpf)
+- [Building a Multi-Agent Conversational AI System with Amazon Bedrock](https://dev.to/shadow_b/building-a-multi-agent-conversational-ai-system-with-amazon-bedrock-3elp)
+- [10 Best Video Hosting Platforms in 2025 for Businesses &amp; Creators](https://dev.to/livestreaming/10-best-video-hosting-platforms-in-2025-for-businesses-creators-2flb)
+- [Create a JavaScript-free modal popup with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-modal-popup-with-only-tailwind-css-4ge3)
+- [5 Future-Proof Skills for Students to Earn $100K+ by 2025 &lpar;AI-Powered Opportunities Inside&rpar;](https://dev.to/paulthedev/5-future-proof-skills-for-students-to-earn-100k-by-2025-ai-powered-opportunities-inside-4989)
+- [LLM Agents Fail Key Skills: New Test Reveals Human-AI Performance Gap](https://dev.to/aimodels-fyi/llm-agents-fail-key-skills-new-test-reveals-human-ai-performance-gap-4a10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
