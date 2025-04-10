@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5hao)
-- [🚀 I Built A Tool to Filter Recent Leetcode Interview Questions by Company](https://dev.to/anjandutta/i-built-a-tool-to-filter-recent-leetcode-interview-questions-by-company-4n43)
-- [Linux Essentials: How to Create, Read, and Delete Files &amp; Directories Like a Pro](https://dev.to/nanakwameops/linux-essentials-how-to-create-read-and-delete-files-directories-like-a-pro-m33)
-- [[Boost]](https://dev.to/jaiminbariya/-mi8)
-- [Essential Software for Hardware Hackers: Your First IDE &amp; Tools](https://dev.to/buonoatsushi/essential-software-for-hardware-hackers-your-first-ide-tools-f7l)
+- [🧠 The Role of WebAssembly in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-webassembly-in-modern-frontend-development-3ji6)
+- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. Must read](https://dev.to/rajesh_patel/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-4kid)
+- [Codium vs Copilot: Which AI Coding Assistant Should You Choose?](https://dev.to/keploy/codium-vs-copilot-which-ai-coding-assistant-should-you-choose-4dgj)
+- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. The blend of real-world examples, challenges, and actionable insights makes it highly relatable for the dev community.](https://dev.to/naik_sejal/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-2ddn)
+- [# DAY 1 JAVASCRIPT INTRODUCTION &amp; TOOLS SETUP](https://dev.to/code_2/-day-1-javascript-introduction-tools-setup-24ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
