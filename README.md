@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ansher/-3c6a)
-- [DAY : 19 How to use Encapsulation in java](https://dev.to/sangamithra_k_78d83d6fb9d/day-19-how-to-use-encapsulation-in-java-581m)
-- [Top SaaS SEO Tools in 2025](https://dev.to/lemii_/top-saas-seo-tools-in-2025-3kd7)
-- [Scrape data masjid dengan multi threads](https://dev.to/ekopriyanto/scrape-data-masjid-dengan-multi-threads-8g1)
-- [Exploring the Ethics of Synthetic Media and AI-Generated Content](https://dev.to/kartikmehta8/exploring-the-ethics-of-synthetic-media-and-ai-generated-content-44fb)
+- [I&#39;ve been receiving plenty of support from the dev community this morning, now that I&#39;ve officially began a new stage of my professional journey as an UX Engineer. I am feeling very thankful.](https://dev.to/d2d_weizhi/ive-been-receiving-plenty-of-support-from-the-dev-community-this-morning-now-that-ive-officially-3ghe)
+- [TERMINAL MASTERY: Master Linux File Commands in 10 Minutes Flat!](https://dev.to/dtemi/terminal-mastery-master-linux-file-commands-in-10-minutes-flat-1c32)
+- [Cognitive QA: The Next Evolution in Software Testing with AI](https://dev.to/radha_4c842d8e4362a7cdd9c/cognitive-qa-the-next-evolution-in-software-testing-with-ai-mej)
+- [Google&#39;s New Move! How Does the A2A Protocol Enable AI Agents to &quot;Add Friends&quot;?](https://dev.to/sienna/googles-new-move-how-does-the-a2a-protocol-enable-ai-agents-to-add-friends-3iff)
+- [What are prompt engineering techniques?](https://dev.to/shriyansh_iot_98734929139/what-are-prompt-engineering-techniques-3dn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
