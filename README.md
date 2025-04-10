@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Can Draw? I Built a Game Without Pygame](https://dev.to/resource_bunk_1077cab07da/python-can-draw-i-built-a-game-without-pygame-27i5)
-- [The Most Overpowered Python Scripts Ever Written](https://dev.to/snappytuts/the-most-overpowered-python-scripts-ever-written-159f)
-- [9 Sneaky Web Dev Fixes That Save Hours](https://dev.to/0x3d_site/9-sneaky-web-dev-fixes-that-save-hours-4gk3)
-- [Using Jenkins to build a C++ app](https://dev.to/olalekan_oladiran_d74b7a6/using-jenkins-to-build-a-c-app-ab9)
-- [Ashkan Rajaee Is Not Just Outsourcing—He’s Rewriting the Playbook on Business Efficiency](https://dev.to/hawkeyedaniel/ashkan-rajaee-is-not-just-outsourcing-hes-rewriting-the-playbook-on-business-efficiency-25a3)
+- [JavaScript Pipelines and Pipeline Operator Proposal](https://dev.to/omriluz1/javascript-pipelines-and-pipeline-operator-proposal-22pg)
+- [💼 Hiring a Full-Stack Dev to Build an Chat Platform &lpar;Paid Project&rpar;](https://dev.to/isicktear/hiring-a-full-stack-dev-to-build-an-chat-platform-paid-project-2chg)
+- [The Ultimate Guide to the Evolution of Microservices](https://dev.to/dishitdevasia/the-ultimate-guide-to-the-evolution-of-microservices-48o3)
+- [Guys, please check out a new take on Frontend development](https://dev.to/isumix/guys-please-check-out-a-new-take-on-frontend-development-5fmc)
+- [Creating a Fully Responsive Navigation Bar Using Only CSS &lpar;No JavaScript&rpar;](https://dev.to/hexshift/creating-a-fully-responsive-navigation-bar-using-only-css-no-javascript-1l3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
