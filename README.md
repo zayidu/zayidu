@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 What Is Infrastructure as Code? &lpar;And Why You Should Care If You&#39;re Building on Azure&rpar;](https://dev.to/1suleyman/what-is-infrastructure-as-code-and-why-you-should-care-if-youre-building-on-azure-4d08)
-- [Streamlining Umbraco Headless Development: Automated Model Generation for Content Delivery API with Orval](https://dev.to/phil-whittaker/streamlining-umbraco-headless-development-automated-model-generation-for-content-delivery-api-with-12n9)
-- [🧠 What Makes a SaaS Product Actually Scalable?](https://dev.to/dreamcyber001/what-makes-a-saas-product-actually-scalable-1gh7)
-- [AZ-204: Developing Solutions for Microsoft Azure](https://dev.to/jeyecaexclussi/az-204-developing-solutions-for-microsoft-azure-18fd)
-- [Build Language-Agnostic Plugins and Extensions Effortlessly with Javonet](https://dev.to/javonet/build-language-agnostic-plugins-and-extensions-effortlessly-with-javonet-2079)
+- [Navigating Downtime: Solutions for Freelancers Facing Hosting Hurdles](https://dev.to/florentv11/navigating-downtime-solutions-for-freelancers-facing-hosting-hurdles-2pe0)
+- [🎙️ Building ResonanceX – A Podcast Analytics Tool for Creators Left Behind by Chartable](https://dev.to/resonancex/building-resonancex-a-podcast-analytics-tool-for-creators-left-behind-by-chartable-o2n)
+- [From Manual to Magical: Transforming Accounts Payable with Automation](https://dev.to/astutemarketing/from-manual-to-magical-transforming-accounts-payable-with-automation-1681)
+- [The Ultimate Guide to Connecting ERP Systems with Shopify for Seamless Operations](https://dev.to/markloops/the-ultimate-guide-to-connecting-erp-systems-with-shopify-for-seamless-operations-1pek)
+- [Java Interview Guide for Freshers: Questions &amp; Expert Tips](https://dev.to/tpointtechadu/java-interview-guide-for-freshers-questions-expert-tips-28j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
