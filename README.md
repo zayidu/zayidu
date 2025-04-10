@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Custom React Hooks: Best Practices for Clean, Scalable Code](https://dev.to/austinwdigital/mastering-custom-react-hooks-best-practices-for-clean-scalable-code-40b1)
-- [TIL: Returning to your previous Git branch](https://dev.to/eyewritecode/til-returning-to-your-previous-git-branch-e7e)
-- [AI Traffic Accelerator: What You Need To Know &lpar;Complete Review&rpar;](https://dev.to/lilia10/ai-traffic-accelerator-what-you-need-to-know-complete-review-8d8)
-- [Ng-News 25/14: Selectorless PR](https://dev.to/this-is-angular/ng-news-2514-selectorless-pr-4j36)
-- [How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-secure-aws-infrastructure-1k8h)
+- [🔥 Only 2 Lines of code to create an MCP server from a FastAPI - Major updates 🚀](https://dev.to/makhlevich/only-2-lines-of-code-to-create-an-mcp-server-from-a-fastapi-major-updates-3p03)
+- [Day-16:variable explanation](https://dev.to/pavithra_c_butterfly/day-16variable-explanation-52ao)
+- [Deploying a Hugo Blog to GitHub Pages with Actions](https://dev.to/nexo-tech/deploying-a-hugo-blog-to-github-pages-with-actions-13pa)
+- [Data Mining Fundamentals](https://dev.to/souhaillaghchimdev/data-mining-fundamentals-3npe)
+- [Node.js Import Style Guide](https://dev.to/boonyaritiamsaard/nodejs-import-style-guide-56ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
