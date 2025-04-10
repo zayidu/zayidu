@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing React State with Context and useReducer: A Practical Guide](https://dev.to/bastiani/managing-react-state-with-context-and-usereducer-a-practical-guide-401i)
-- [Day 1138 : Parts Unknown](https://dev.to/dwane/day-1138-parts-unknown-2982)
-- [Want to Join a Remote AI Company in 2025? Here’s What Actually Matters 🌍 🤖](https://dev.to/clickit_devops/want-to-join-a-remote-ai-company-in-2025-heres-what-actually-matters-52fg)
-- [SSIS tips: How to import JSON files to MongoDB](https://dev.to/jorge316/ssis-tips-how-to-import-json-files-to-mongodb-dj0)
-- [Navigating Hosting Hurdles: Solutions for Freelancers and E-Commerce Innovators](https://dev.to/florentv11/navigating-hosting-hurdles-solutions-for-freelancers-and-e-commerce-innovators-2enb)
+- [Systemctl Basics: Managing Your Linux Services](https://dev.to/youngtech/systemctl-basics-managing-your-linux-services-2akh)
+- [Announcing : Global Agentic AI and LLM Bootcamp May 16-18 Bay Area](https://dev.to/leena_hinson_31d0fd74ec29/announcing-global-agentic-ai-and-llm-bootcamp-may-16-18-bay-area-2gkh)
+- [My new coding language &lpar; Faceone&rpar;](https://dev.to/zako_mako_9a4826822204c78/my-new-coding-language-faceone-35g6)
+- [How to Disable SVG Preview Mode](https://dev.to/vrauuss-softwares/how-to-disable-svg-preview-mode-1338)
+- [وأخيراً، عرفنا معنى اسم الشركة الناشئة Palmos Lplex &lpar;بالموس لبليكس&rpar;](https://dev.to/story_master_m/wkhyran-rfn-mn-sm-lshrk-lnshy-palmos-lplex-blmws-lblyks-30cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
