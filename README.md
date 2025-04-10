@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinta&#39;s website refresh - Giving back with design](https://dev.to/rolandixor/pintas-website-refresh-giving-back-with-design-17cm)
-- [Day-20:Eclipse IDE](https://dev.to/pavithra_c_butterfly/day-20eclipse-ide-51jd)
-- [Introducing Locally: A Rust-Powered Tool to Streamline Your Development Workflow](https://dev.to/jihedbz/introducing-locally-a-rust-powered-tool-to-streamline-your-development-workflow-57j4)
-- [Understanding CORS: Why It Matters and How to Implement It in Node.js and FastAPI](https://dev.to/sajjadali/understanding-cors-why-it-matters-and-how-to-implement-it-in-nodejs-and-fastapi-4ol)
-- [Dapr Workflows: What and How](https://dev.to/sirivarma/dapr-workflows-what-and-how-3n8)
+- [Python Can Draw? I Built a Game Without Pygame](https://dev.to/resource_bunk_1077cab07da/python-can-draw-i-built-a-game-without-pygame-27i5)
+- [The Most Overpowered Python Scripts Ever Written](https://dev.to/snappytuts/the-most-overpowered-python-scripts-ever-written-159f)
+- [9 Sneaky Web Dev Fixes That Save Hours](https://dev.to/0x3d_site/9-sneaky-web-dev-fixes-that-save-hours-4gk3)
+- [Using Jenkins to build a C++ app](https://dev.to/olalekan_oladiran_d74b7a6/using-jenkins-to-build-a-c-app-ab9)
+- [Ashkan Rajaee Is Not Just Outsourcing—He’s Rewriting the Playbook on Business Efficiency](https://dev.to/hawkeyedaniel/ashkan-rajaee-is-not-just-outsourcing-hes-rewriting-the-playbook-on-business-efficiency-25a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
