@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The Role of WebAssembly in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-webassembly-in-modern-frontend-development-3ji6)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. Must read](https://dev.to/rajesh_patel/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-4kid)
-- [Codium vs Copilot: Which AI Coding Assistant Should You Choose?](https://dev.to/keploy/codium-vs-copilot-which-ai-coding-assistant-should-you-choose-4dgj)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. The blend of real-world examples, challenges, and actionable insights makes it highly relatable for the dev community.](https://dev.to/naik_sejal/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-2ddn)
-- [# DAY 1 JAVASCRIPT INTRODUCTION &amp; TOOLS SETUP](https://dev.to/code_2/-day-1-javascript-introduction-tools-setup-24ik)
+- [JavaFX In Action #19 with Gerrit Grunwald, Creator of Many Amazing JavaFX Libraries](https://dev.to/fdelporte/javafx-in-action-19-with-gerrit-grunwald-creator-of-many-amazing-javafx-libraries-2gd8)
+- [Enterprise Design Patterns: Real-World Examples from Patterns of Enterprise Application Architecture](https://dev.to/juan_josdavidperezviz/enterprise-design-patterns-real-world-examples-from-patterns-of-enterprise-application-architecture-man)
+- [My Journey with ISTQB® Foundation Level Certification](https://dev.to/dheerajpd411/my-journey-with-istqbr-foundation-level-certification-9im)
+- [A Lightweight Authentication and Key Negotiation Protocol for IIoT using ECC](https://dev.to/shuvam_bhagat_/a-lightweight-authentication-and-key-negotiation-protocol-for-iiot-using-ecc-4lha)
+- [Creating Child-Safe Sites: What Every Developer Should Know About COPPA Compliance](https://dev.to/okoye_ndidiamaka_5e3b7d30/creating-child-safe-sites-what-every-developer-should-know-about-coppa-compliance-4dc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
