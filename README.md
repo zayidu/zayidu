@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 1 billion people globally live with some form of disability. Making your product accessible.](https://dev.to/swetty_sultania_834f90237/over-1-billion-people-globally-live-with-some-form-of-disability-making-your-product-accessible-4olj)
-- [AWS Cloud Adoption Framework &lpar;AWS CAF&rpar;](https://dev.to/copubah/aws-cloud-adoption-framework-aws-caf-1n22)
-- [Daily Dose 11 April 2025](https://dev.to/td_inc/daily-dose-11-april-2025-38e2)
-- [How to Clone/Copy class with private stuff](https://dev.to/dcwizard/how-to-clonecopy-class-with-private-stuff-2ade)
-- [How to Design a 15 Piece Burr Puzzle Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-15-piece-burr-puzzle-using-3d-cad-software-53f8)
+- [Turn Your React App into a PWA That Works Offline, Installs Like Magic &amp; Feels Native](https://dev.to/codewithsuhani/turn-your-react-app-into-a-pwa-that-works-offline-installs-like-magic-feels-native-40dn)
+- [Understanding Constraints in DBMS](https://dev.to/rishabhtpt/understanding-constraints-in-dbms-4kb9)
+- [hey guys speed up your python code, especially with dynamic programming and recursive functions](https://dev.to/coderatul/hey-guys-speed-up-your-python-code-especially-with-dynamic-programming-and-recursive-functions-2hol)
+- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
+- [Function Currying and Partial Application](https://dev.to/omriluz1/function-currying-and-partial-application-3jj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
