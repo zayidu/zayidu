@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Hosting Hurdles: Solutions for Freelancers and E-Commerce Entrepreneurs](https://dev.to/florentv11/navigating-hosting-hurdles-solutions-for-freelancers-and-e-commerce-entrepreneurs-24p4)
-- [🔍 Você sabe realmente a diferença entre Funções, BAPIs e BADIs no SAP ABAP? Se ainda confunde os conceitos ou quer uma explicação clara, com exemplos práticos e linguagem acessível, acabei de publicar um guia gratuito para iniciantes. 📘 Funções, BAPIs](https://dev.to/rafael_valim/voce-sabe-realmente-a-diferenca-entre-funcoes-bapis-e-badis-no-sap-abap-se-ainda-confunde-os-2fd6)
-- [Shift Left Done Right: QA in the Modern SDLC](https://dev.to/michalina_graczyk/shift-left-done-right-qa-in-the-modern-sdlc-5c24)
-- [Important Interview Questions](https://dev.to/jay818/important-interview-questions-24ok)
-- [Simplifying Design Patterns : Prototype](https://dev.to/bccaxias/simplifying-design-patterns-prototype-15f8)
+- [Terraform and Nuxt: Deployment Automation](https://dev.to/evertontenorio/terraform-and-nuxt-deployment-automation-1eif)
+- [Making Your Documentation AI-Friendly: A Practical Guide](https://dev.to/sudo_overflow/making-your-documentation-ai-friendly-a-practical-guide-2h1f)
+- [WTF Is Everyone Talking About? A developer dictionary that doesn’t suck](https://dev.to/saida_lachgar/-2omg)
+- [AZ INSTANT PAYDAY Review: Is It Worth It? My Honest Thoughts &lpar;2025&rpar;](https://dev.to/liliya10/az-instant-payday-review-is-it-worth-it-my-honest-thoughts-2025-3b3f)
+- [How to make A game](https://dev.to/zako_mako_9a4826822204c78/how-to-make-a-game-4p0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
