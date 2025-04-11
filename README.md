@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grab a Pint With Django-MongoDB-Backend, Voyage AI, and LangChain](https://dev.to/mongodb/grab-a-pint-with-django-mongodb-backend-voyage-ai-and-langchain-170n)
-- [Design a Lattice FPGA HDMI Transmission Scheme](https://dev.to/carolineee/design-a-lattice-fpga-hdmi-transmission-scheme-omc)
-- [Fast and Optimized Web Development with Next.js](https://dev.to/oextech_in_3be30efdacabb5/fast-and-optimized-web-development-with-nextjs-3n2b)
-- [Why Every Enterprise Will Need an AI Agent Partner by 2026](https://dev.to/albert_ed/why-every-enterprise-will-need-an-ai-agent-partner-by-2026-nmc)
-- [Liquidity Mining vs. Market Making: What’s Right for Your Project?](https://dev.to/vishal_singh_8666966f9bcc/liquidity-mining-vs-market-making-whats-right-for-your-project-lko)
+- [Build the Right Clinical Trial Management System in Australia – 2025 Guide](https://dev.to/emma_jenkins_5ebc66ac329d/build-the-right-clinical-trial-management-system-in-australia-2025-guide-1dco)
+- [🐳 Deploying a Highly Available Docker Swarm Cluster with 3 Services](https://dev.to/krisha_arya_55/deploying-a-highly-available-docker-swarm-cluster-with-3-services-566h)
+- [Building the Base Apparel Coming Soon Page from Frontend Mentor](https://dev.to/emmanuelmalik/building-the-base-apparel-coming-soon-page-from-frontend-mentor-411c)
+- [🚀Lakehouses Demystified: The Future of Data is Here!](https://dev.to/tanya_yadav/lakehouses-demystified-the-future-of-data-is-here-1d4c)
+- [5 Beginner-Friendly Projects to Learn Data Engineering &lpar;Using Free Tools&rpar;](https://dev.to/amin_renees_c59fa3c2aa1a1/5-beginner-friendly-projects-to-learn-data-engineering-using-free-tools-1m5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
