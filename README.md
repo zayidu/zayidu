@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Rate Limiting and How to Add It in Django](https://dev.to/aakasha063/what-is-rate-limiting-and-how-to-add-it-in-django-4nkd)
-- [Navigating Common Web Hosting Pitfalls: Solutions for Freelancers and Developers](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-solutions-for-freelancers-and-developers-clk)
-- [7 Best Ways to Live Stream 3rd-Party Feeds Seamlessly in 2025](https://dev.to/livestreaming/7-best-ways-to-live-stream-3rd-party-feeds-seamlessly-in-2025-55ho)
-- [Major Trends to Follow in the Automation Testing Outlook](https://dev.to/grjoeay/major-trends-to-follow-in-the-automation-testing-outlook-nog)
-- [Boost Manufacturing Efficiency with Advanced Digital Twin Mapping](https://dev.to/tylermorganaqe/boost-manufacturing-efficiency-with-advanced-digital-twin-mapping-1930)
+- [⚙️ SQL Patterns for Optimizing IoT Queries in TimescaleDB](https://dev.to/timescale/sql-patterns-for-optimizing-iot-queries-in-timescaledb-kp9)
+- [Day - 10 at payilagam &quot;Discussion&quot;](https://dev.to/kuhanraja_ar_1df623b8e2e/day-10-at-payilagam-discussion-3fp9)
+- [🔍Linear Search Made Easy – Find Like a Detective!🎯](https://dev.to/khushi2488/lets-find-it-linear-search-2o42)
+- [Building Your First Trading Bot: A Step-by-Step Guide](https://dev.to/tomhardy/building-your-first-trading-bot-a-step-by-step-guide-385b)
+- [Quantum Computing and Its Future in Software Development Services](https://dev.to/arobit_digital/quantum-computing-and-its-future-in-software-development-services-h10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
