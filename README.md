@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Megazord Um- Nicho Promissor para criação do software no :Mercado Imobiliário&lpar;Por:Leonardo Belilo Messias&rpar;](https://dev.to/leonardobelilomessia/megazord-um-nicho-promissor-para-criacao-do-software-no-mercado-imobiliarioporleonardo-44ce)
-- [Why React Native Development Sucks &lpar;Unless You&#39;re Using Expo&rpar;](https://dev.to/pranta/why-react-native-development-sucks-unless-youre-using-expo-221c)
-- [The Rise of AI: A Turning Point for All of Us](https://dev.to/jenueldev/the-rise-of-ai-a-turning-point-for-all-of-us-2ddc)
-- [DevOps Roadmap 2025: From Beginner to Pro with Linux, Docker, Kubernetes &amp; Cloud](https://dev.to/kishgi/devops-roadmap-2025-from-beginner-to-pro-with-linux-docker-kubernetes-cloud-4p8e)
-- [5 Reasons to Build Custom Software for Your Online Store](https://dev.to/lucaspelisari/5-reasons-to-build-custom-software-for-your-online-store-3c4j)
+- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗝𝗮𝘃𝗮 𝗙𝗹𝗶𝗴𝗵𝘁 𝗥𝗲𝗰𝗼𝗿𝗱𝗲𝗿: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 🚀](https://dev.to/thiago_souza_1510/--3o9)
+- [How to Build Software Without Writing Code](https://dev.to/lucaspelisari/how-to-build-software-without-writing-code-4ep)
+- [AI ChatBot แนะนำActivityตามอารมณ์ ในภาษา Python](https://dev.to/jynzeehongtae/ai-chatbot-aenanamactivitytaamaarmn-ainphaasaa-python-58p5)
+- [Instrument your LLM calls to analyze AI costs and usage](https://dev.to/tinybirdco/instrument-your-llm-calls-to-analyze-ai-costs-and-usage-57mo)
+- [From Goldfish to Elephant: Scaling AI Agent Memory for Teams 🧠](https://dev.to/orenme/from-goldfish-to-elephant-scaling-ai-agent-memory-for-teams-22p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
