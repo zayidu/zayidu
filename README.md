@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mind the Gap: Bridging AI and Human Communication](https://dev.to/bgauryy/making-ai-agents-more-human-the-missing-part-in-ai-communication-59o)
-- [Configuração de MCP Server de Arquivos Locais com Claude Desktop](https://dev.to/tom-log/configuracao-de-mcp-server-de-arquivos-locais-com-claude-desktop-4lg2)
-- [Navigating Downtime: Key Strategies to Keep Your Project on Track](https://dev.to/florentv11/navigating-downtime-key-strategies-to-keep-your-project-on-track-1b39)
-- [How to Build a Cross-Chain Token Bridge](https://dev.to/sumana10/how-to-build-a-cross-chain-token-bridge-43ka)
-- [Which CMS is Best in 2025? A Complete Comparison Guide](https://dev.to/gaurav_jha_tps/which-cms-is-best-in-2025-a-complete-comparison-guide-4a3j)
+- [GITHUB ReadME Builder!](https://dev.to/dijariii/github-readme-builder-1mpo)
+- [I made a project in Golang with no packages or libraries &lpar;also not ORM&#39;s&rpar;](https://dev.to/sazardev/i-made-a-project-in-golang-with-no-packages-or-libraries-also-not-orms-15fa)
+- [Your Feedback Form is Lying to You](https://dev.to/shayy/your-feedback-form-is-lying-to-you-19o8)
+- [How Retrieval-Augmented Generation Is Changing the AI Game](https://dev.to/priyanshraj30/how-retrieval-augmented-generation-is-changing-the-ai-game-2hoe)
+- [Debug Smarter: Meet xDebug Pro for Chrome](https://dev.to/theconcepttechnologies/debug-smarter-meet-xdebug-pro-for-chrome-17pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
