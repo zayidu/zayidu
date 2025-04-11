@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform and Nuxt: Deployment Automation](https://dev.to/evertontenorio/terraform-and-nuxt-deployment-automation-1eif)
-- [Making Your Documentation AI-Friendly: A Practical Guide](https://dev.to/sudo_overflow/making-your-documentation-ai-friendly-a-practical-guide-2h1f)
-- [WTF Is Everyone Talking About? A developer dictionary that doesn’t suck](https://dev.to/saida_lachgar/-2omg)
-- [AZ INSTANT PAYDAY Review: Is It Worth It? My Honest Thoughts &lpar;2025&rpar;](https://dev.to/liliya10/az-instant-payday-review-is-it-worth-it-my-honest-thoughts-2025-3b3f)
-- [How to make A game](https://dev.to/zako_mako_9a4826822204c78/how-to-make-a-game-4p0n)
+- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
+- [Untitled](https://dev.to/mohammad_ghlibalrazzaq_9/untitled-514j)
+- [17 open roles for product engineers, developer advocates, and technical writers](https://dev.to/fmerian/17-open-roles-for-product-engineers-developer-advocates-and-technical-writers-329d)
+- [Hello World](https://dev.to/rayjay/hello-world-13cf)
+- [From Feature Graveyard to Viable Product: Beano v2.0 Redemption Arc](https://dev.to/beanboi64/from-feature-graveyard-to-viable-product-beanos-tic-tac-toe-redemption-arc-2pkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
