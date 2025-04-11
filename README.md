@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build the Right Clinical Trial Management System in Australia – 2025 Guide](https://dev.to/emma_jenkins_5ebc66ac329d/build-the-right-clinical-trial-management-system-in-australia-2025-guide-1dco)
-- [🐳 Deploying a Highly Available Docker Swarm Cluster with 3 Services](https://dev.to/krisha_arya_55/deploying-a-highly-available-docker-swarm-cluster-with-3-services-566h)
-- [Building the Base Apparel Coming Soon Page from Frontend Mentor](https://dev.to/emmanuelmalik/building-the-base-apparel-coming-soon-page-from-frontend-mentor-411c)
-- [🚀Lakehouses Demystified: The Future of Data is Here!](https://dev.to/tanya_yadav/lakehouses-demystified-the-future-of-data-is-here-1d4c)
-- [5 Beginner-Friendly Projects to Learn Data Engineering &lpar;Using Free Tools&rpar;](https://dev.to/amin_renees_c59fa3c2aa1a1/5-beginner-friendly-projects-to-learn-data-engineering-using-free-tools-1m5e)
+- [What is Rate Limiting and How to Add It in Django](https://dev.to/aakasha063/what-is-rate-limiting-and-how-to-add-it-in-django-4nkd)
+- [Navigating Common Web Hosting Pitfalls: Solutions for Freelancers and Developers](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-solutions-for-freelancers-and-developers-clk)
+- [7 Best Ways to Live Stream 3rd-Party Feeds Seamlessly in 2025](https://dev.to/livestreaming/7-best-ways-to-live-stream-3rd-party-feeds-seamlessly-in-2025-55ho)
+- [Major Trends to Follow in the Automation Testing Outlook](https://dev.to/grjoeay/major-trends-to-follow-in-the-automation-testing-outlook-nog)
+- [Boost Manufacturing Efficiency with Advanced Digital Twin Mapping](https://dev.to/tylermorganaqe/boost-manufacturing-efficiency-with-advanced-digital-twin-mapping-1930)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
