@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Data Analysis: DuckDB or esProc SPL?](https://dev.to/serina_8340/local-data-analysis-duckdb-or-esproc-spl-3f4k)
-- [Let&#39;s Talk About Power Platform Managed Environments](https://dev.to/wyattdave/lets-talk-about-power-platform-managed-environments-4816)
-- [🔥 Why Nuxt Is Still a Top-Tier Meta-Framework in 2025](https://dev.to/aleksei_aleinikov/why-nuxt-is-still-a-top-tier-meta-framework-in-2025-7an)
-- [🔥 Master tsconfig.json Like a Pro in 2025](https://dev.to/aleksei_aleinikov/master-tsconfigjson-like-a-pro-in-2025-308l)
-- [🚀 React vs Preact – Are You Choosing the Right One for Performance in 2025?](https://dev.to/dct_technology/react-vs-preact-are-you-choosing-the-right-one-for-performance-in-2025-che)
+- [Over 1 billion people globally live with some form of disability. Making your product accessible.](https://dev.to/swetty_sultania_834f90237/over-1-billion-people-globally-live-with-some-form-of-disability-making-your-product-accessible-4olj)
+- [AWS Cloud Adoption Framework &lpar;AWS CAF&rpar;](https://dev.to/copubah/aws-cloud-adoption-framework-aws-caf-1n22)
+- [Daily Dose 11 April 2025](https://dev.to/td_inc/daily-dose-11-april-2025-38e2)
+- [How to Clone/Copy class with private stuff](https://dev.to/dcwizard/how-to-clonecopy-class-with-private-stuff-2ade)
+- [How to Design a 15 Piece Burr Puzzle Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-15-piece-burr-puzzle-using-3d-cad-software-53f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
