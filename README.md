@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Vite resolves relative and absolute paths](https://dev.to/vivecodes/how-vite-resolves-relative-and-absolute-paths-3f8n)
-- [Realms API: Isolated Execution Contexts](https://dev.to/omriluz1/realms-api-isolated-execution-contexts-53og)
-- [Navigating Hidden Costs: Web Hosting Pitfalls Every Freelancer Should Avoid](https://dev.to/florentv11/navigating-hidden-costs-web-hosting-pitfalls-every-freelancer-should-avoid-ogj)
-- [Implementing the Royal Game of Ur with Mistral&#39;s Le Chat](https://dev.to/duplys/implementing-the-royal-game-of-ur-with-mistrals-le-chat-4mil)
-- [💬❤️ Analyse de Sentiments de Tweets grâce au Deep Learning : Une Approche MLOps](https://dev.to/davidscanu/analyse-de-sentiments-de-tweets-grace-au-deep-learning-une-approche-mlops-3ib7)
+- [Navigating Hosting Hurdles: Solutions for Freelancers and E-Commerce Entrepreneurs](https://dev.to/florentv11/navigating-hosting-hurdles-solutions-for-freelancers-and-e-commerce-entrepreneurs-24p4)
+- [🔍 Você sabe realmente a diferença entre Funções, BAPIs e BADIs no SAP ABAP? Se ainda confunde os conceitos ou quer uma explicação clara, com exemplos práticos e linguagem acessível, acabei de publicar um guia gratuito para iniciantes. 📘 Funções, BAPIs](https://dev.to/rafael_valim/voce-sabe-realmente-a-diferenca-entre-funcoes-bapis-e-badis-no-sap-abap-se-ainda-confunde-os-2fd6)
+- [Shift Left Done Right: QA in the Modern SDLC](https://dev.to/michalina_graczyk/shift-left-done-right-qa-in-the-modern-sdlc-5c24)
+- [Important Interview Questions](https://dev.to/jay818/important-interview-questions-24ok)
+- [Simplifying Design Patterns : Prototype](https://dev.to/bccaxias/simplifying-design-patterns-prototype-15f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
