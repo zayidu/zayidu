@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Security as Code &lpar;SaC&rpar;?](https://dev.to/clouddefenseai/what-is-security-as-code-sac-4p77)
-- [The ChatGPT Action Figure Trend: A New Wave of Digital Creativity](https://dev.to/kp_midhlaj/the-chatgpt-action-figure-trend-a-new-wave-of-digital-creativity-11f2)
-- [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-11cf)
-- [Yet Another Product Hunt Alternative?](https://dev.to/sachindas246/yet-another-product-hunt-alternative-1fa8)
-- [Navigating Downtime: How Freelancers Can Overcome Hosting Hurdles Efficiently](https://dev.to/florentv11/navigating-downtime-how-freelancers-can-overcome-hosting-hurdles-efficiently-3o30)
+- [Local Data Analysis: DuckDB or esProc SPL?](https://dev.to/serina_8340/local-data-analysis-duckdb-or-esproc-spl-3f4k)
+- [Let&#39;s Talk About Power Platform Managed Environments](https://dev.to/wyattdave/lets-talk-about-power-platform-managed-environments-4816)
+- [🔥 Why Nuxt Is Still a Top-Tier Meta-Framework in 2025](https://dev.to/aleksei_aleinikov/why-nuxt-is-still-a-top-tier-meta-framework-in-2025-7an)
+- [🔥 Master tsconfig.json Like a Pro in 2025](https://dev.to/aleksei_aleinikov/master-tsconfigjson-like-a-pro-in-2025-308l)
+- [🚀 React vs Preact – Are You Choosing the Right One for Performance in 2025?](https://dev.to/dct_technology/react-vs-preact-are-you-choosing-the-right-one-for-performance-in-2025-che)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
