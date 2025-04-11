@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New AWS Marketplace Feature: Simplified Fulfilment for Container Products](https://dev.to/latchudevops/new-aws-marketplace-feature-simplified-fulfilment-for-container-products-5gdo)
-- [Systems Programming and Overstimulation: Finding Balance in a Complex Technical Industry](https://dev.to/clarizalooktech/systems-programming-and-overstimulation-finding-balance-in-a-complex-technical-industry-377h)
-- [How to Fix #DIV/0! Excel Error?](https://dev.to/excel24x7/how-to-fix-div0-excel-error-264c)
-- [Navigating Web Hosting Pitfalls: Key Insights for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-web-hosting-pitfalls-key-insights-for-us-digital-entrepreneurs-4i7i)
-- [How to Clean Up Git Branches: Scripts to Delete Old, Inactive, and Unused Branches](https://dev.to/manojspace/how-to-clean-up-git-branches-a-complete-guide-for-local-remote-repositories-f3d)
+- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
+- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
+- [Why Some Tech Companies Are Moving Away from Next.js](https://dev.to/araf_injazat_1bd03c5907fa/why-some-tech-companies-are-moving-away-from-nextjs-53om)
+- [Hashing in Presto/Athena](https://dev.to/dendihandian/hashing-in-athenaprestosql-ged)
+- [My Type of Coding: Who reads what AI writes?](https://dev.to/shiftyp/my-type-of-coding-who-reads-what-ai-writes-2i7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
