@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Based Knowledge Management Systems Are Transforming EdTech](https://dev.to/altumind/how-ai-based-knowledge-management-systems-are-transforming-edtech-5ad7)
-- [Leetcode - 82. Remove Duplicates from Sorted List II](https://dev.to/rakeshreddy512/leetcode-82-remove-duplicates-from-sorted-list-ii-2nek)
-- [File System vs DBMS](https://dev.to/rishabhtpt/file-system-vs-dbms-66k)
-- [Step-by-Step Java Course: From Basics to Advanced](https://dev.to/tpointtechadu/step-by-step-java-course-from-basics-to-advanced-2joe)
-- [API PERFORMANCE](https://dev.to/fredrick_oladipupo/-19fl)
+- [Grab a Pint With Django-MongoDB-Backend, Voyage AI, and LangChain](https://dev.to/mongodb/grab-a-pint-with-django-mongodb-backend-voyage-ai-and-langchain-170n)
+- [Design a Lattice FPGA HDMI Transmission Scheme](https://dev.to/carolineee/design-a-lattice-fpga-hdmi-transmission-scheme-omc)
+- [Fast and Optimized Web Development with Next.js](https://dev.to/oextech_in_3be30efdacabb5/fast-and-optimized-web-development-with-nextjs-3n2b)
+- [Why Every Enterprise Will Need an AI Agent Partner by 2026](https://dev.to/albert_ed/why-every-enterprise-will-need-an-ai-agent-partner-by-2026-nmc)
+- [Liquidity Mining vs. Market Making: What’s Right for Your Project?](https://dev.to/vishal_singh_8666966f9bcc/liquidity-mining-vs-market-making-whats-right-for-your-project-lko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
