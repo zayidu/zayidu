@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
-- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
-- [Why Some Tech Companies Are Moving Away from Next.js](https://dev.to/araf_injazat_1bd03c5907fa/why-some-tech-companies-are-moving-away-from-nextjs-53om)
-- [Hashing in Presto/Athena](https://dev.to/dendihandian/hashing-in-athenaprestosql-ged)
-- [My Type of Coding: Who reads what AI writes?](https://dev.to/shiftyp/my-type-of-coding-who-reads-what-ai-writes-2i7e)
+- [What is Security as Code &lpar;SaC&rpar;?](https://dev.to/clouddefenseai/what-is-security-as-code-sac-4p77)
+- [The ChatGPT Action Figure Trend: A New Wave of Digital Creativity](https://dev.to/kp_midhlaj/the-chatgpt-action-figure-trend-a-new-wave-of-digital-creativity-11f2)
+- [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-11cf)
+- [Yet Another Product Hunt Alternative?](https://dev.to/sachindas246/yet-another-product-hunt-alternative-1fa8)
+- [Navigating Downtime: How Freelancers Can Overcome Hosting Hurdles Efficiently](https://dev.to/florentv11/navigating-downtime-how-freelancers-can-overcome-hosting-hurdles-efficiently-3o30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
