@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code in the Age of AI: Why Machines Need Comments Too 🤖🧠](https://dev.to/bgauryy/clean-code-in-the-age-of-ai-why-machines-need-comments-too-15d0)
-- [Game Dev Digest — Issue #277 - Physics, Shaders, Resources and more](https://dev.to/gamedevdigest/game-dev-digest-issue-277-physics-shaders-resources-and-more-3nac)
-- [Mastering Browser Dimension Properties &lpar;clientWidth, offsetWidth etc&rpar;: Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-browser-dimension-properties-clientwidth-offsetwidth-etc-never-to-look-back-again-283k)
-- [Building a Secure API: A Beginner-Friendly Guide with Express and TypeScript](https://dev.to/arbythecoder/building-a-secure-api-a-beginner-friendly-guide-with-express-and-typescript-4la)
-- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/carrie_luo1/how-to-set-up-free-reverse-proxy-with-high-security-protection-4cb)
+- [Mind the Gap: Bridging AI and Human Communication](https://dev.to/bgauryy/making-ai-agents-more-human-the-missing-part-in-ai-communication-59o)
+- [Configuração de MCP Server de Arquivos Locais com Claude Desktop](https://dev.to/tom-log/configuracao-de-mcp-server-de-arquivos-locais-com-claude-desktop-4lg2)
+- [Navigating Downtime: Key Strategies to Keep Your Project on Track](https://dev.to/florentv11/navigating-downtime-key-strategies-to-keep-your-project-on-track-1b39)
+- [How to Build a Cross-Chain Token Bridge](https://dev.to/sumana10/how-to-build-a-cross-chain-token-bridge-43ka)
+- [Which CMS is Best in 2025? A Complete Comparison Guide](https://dev.to/gaurav_jha_tps/which-cms-is-best-in-2025-a-complete-comparison-guide-4a3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
