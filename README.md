@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This TypeScript Library Helped Me Build Full-Stack Apps Faster](https://dev.to/shayy/this-typescript-library-helped-me-build-full-stack-apps-faster-3mc3)
-- [Decoding API: The Backbone of Modern Connectivity](https://dev.to/kaniz111/decoding-api-the-backbone-of-modern-connectivity-1hj0)
-- [🔮 What is Hoisting?](https://dev.to/devcorner/what-is-hoisting-4473)
-- [The Comprehensive Guide to Ice Maker Machines](https://dev.to/publish/the-comprehensive-guide-to-ice-maker-machines-8jm)
-- [🌟 What is a Promise in JavaScript?](https://dev.to/devcorner/what-is-a-promise-in-javascript-5dj8)
+- [Clean Code in the Age of AI: Why Machines Need Comments Too 🤖🧠](https://dev.to/bgauryy/clean-code-in-the-age-of-ai-why-machines-need-comments-too-15d0)
+- [Game Dev Digest — Issue #277 - Physics, Shaders, Resources and more](https://dev.to/gamedevdigest/game-dev-digest-issue-277-physics-shaders-resources-and-more-3nac)
+- [Mastering Browser Dimension Properties &lpar;clientWidth, offsetWidth etc&rpar;: Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-browser-dimension-properties-clientwidth-offsetwidth-etc-never-to-look-back-again-283k)
+- [Building a Secure API: A Beginner-Friendly Guide with Express and TypeScript](https://dev.to/arbythecoder/building-a-secure-api-a-beginner-friendly-guide-with-express-and-typescript-4la)
+- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/carrie_luo1/how-to-set-up-free-reverse-proxy-with-high-security-protection-4cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
