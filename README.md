@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Common Hosting Pitfalls: Strategies for Freelancers and E-Commerce Pros](https://dev.to/florentv11/navigating-common-hosting-pitfalls-strategies-for-freelancers-and-e-commerce-pros-3lbc)
-- [Building DigDep.com: A Dev’s Quest to Open Source Supplement Science](https://dev.to/digdep/building-digdepcom-a-devs-quest-to-open-source-supplement-science-4eh1)
-- [Understanding the Future of AI-Driven SEO](https://dev.to/kartikmehta8/understanding-the-future-of-ai-driven-seo-2o9b)
-- [🎬 Behind the Scenes of a Simple SQL Query in PostgreSQL](https://dev.to/mangesh28/behind-the-scenes-of-a-simple-sql-query-in-postgresql-3mp8)
-- [Python](https://dev.to/rudrabhardwaj/python-3o7o)
+- [Number Non-Null Values in Order within the Group — From SQL to SPL #17](https://dev.to/judith677/number-non-null-values-in-order-within-the-group-from-sql-to-spl-17-49p)
+- [[Boost]](https://dev.to/arunadayb/-4821)
+- [How to start, stop or restart Golf application server](https://dev.to/golf-lang/how-to-start-stop-or-restart-golf-application-server-54cm)
+- [Making an effective Application Security Program: Strategies, Techniques, and Tooling for Optimal results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-techniques-and-tooling-for-optimal-258j)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-5mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
