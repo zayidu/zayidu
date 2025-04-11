@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗝𝗮𝘃𝗮 𝗙𝗹𝗶𝗴𝗵𝘁 𝗥𝗲𝗰𝗼𝗿𝗱𝗲𝗿: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 🚀](https://dev.to/thiago_souza_1510/--3o9)
-- [How to Build Software Without Writing Code](https://dev.to/lucaspelisari/how-to-build-software-without-writing-code-4ep)
-- [AI ChatBot แนะนำActivityตามอารมณ์ ในภาษา Python](https://dev.to/jynzeehongtae/ai-chatbot-aenanamactivitytaamaarmn-ainphaasaa-python-58p5)
-- [Instrument your LLM calls to analyze AI costs and usage](https://dev.to/tinybirdco/instrument-your-llm-calls-to-analyze-ai-costs-and-usage-57mo)
-- [From Goldfish to Elephant: Scaling AI Agent Memory for Teams 🧠](https://dev.to/orenme/from-goldfish-to-elephant-scaling-ai-agent-memory-for-teams-22p9)
+- [This TypeScript Library Helped Me Build Full-Stack Apps Faster](https://dev.to/shayy/this-typescript-library-helped-me-build-full-stack-apps-faster-3mc3)
+- [Decoding API: The Backbone of Modern Connectivity](https://dev.to/kaniz111/decoding-api-the-backbone-of-modern-connectivity-1hj0)
+- [🔮 What is Hoisting?](https://dev.to/devcorner/what-is-hoisting-4473)
+- [The Comprehensive Guide to Ice Maker Machines](https://dev.to/publish/the-comprehensive-guide-to-ice-maker-machines-8jm)
+- [🌟 What is a Promise in JavaScript?](https://dev.to/devcorner/what-is-a-promise-in-javascript-5dj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
