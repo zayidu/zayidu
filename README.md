@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
-- [Improving Websites with AI: Benefits, Optimization, and FAQs](https://dev.to/minima_desk_cd9b151c4e2fb/improving-websites-with-ai-benefits-optimization-and-faqs-1655)
-- [The Best Git GUI Clients for Linux, Windows, and Mac](https://dev.to/minima_desk_cd9b151c4e2fb/the-best-git-gui-clients-for-linux-windows-and-mac-27ac)
-- [How to Create Affiliate Links in WordPress: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-create-affiliate-links-in-wordpress-a-step-by-step-guide-1lj1)
-- [How to Fix WordPress Add Media Button Not Working](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-fix-wordpress-add-media-button-not-working-7ae)
+- [Build Better UIs: A Framework-Agnostic Tree View with Drag &amp; Drop for Vue &lpar;and Beyond&rpar;](https://dev.to/jmkcoder/build-better-uis-a-framework-agnostic-tree-view-with-drag-drop-for-vue-and-beyond-29ga)
+- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-25l7)
+- [Phrest Finder - v20](https://dev.to/notmadebyahuman/phrest-finder-v20-1lkl)
+- [Level Up as a Developer: Using AI to Spot and Close Your Coding Skill Gaps](https://dev.to/raajaryan/level-up-as-a-developer-using-ai-to-spot-and-close-your-coding-skill-gaps-759)
+- [How I Use AI to Identify and Fix My Developer Skill Gaps Efficiently](https://dev.to/codewithsuhani/how-i-use-ai-to-identify-and-fix-my-developer-skill-gaps-efficiently-20p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
