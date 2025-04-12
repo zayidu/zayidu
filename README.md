@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Tools to Build Your First MVP in Days, Not Months🚀🚀🚀](https://dev.to/amin_renees_c59fa3c2aa1a1/5-ai-tools-to-build-your-first-mvp-in-days-not-months-8l7)
-- [🔐 Secure Your Files with chattr +i in Linux](https://dev.to/nurulislamrimon/secure-your-files-with-chattr-i-in-linux-54c3)
-- [The Timeless Legacy of Tetris: Why This Iconic Puzzle Game Still Captivates Millions](https://dev.to/colettead/the-timeless-legacy-of-tetris-why-this-iconic-puzzle-game-still-captivates-millions-p1n)
-- [Angular: The Documentary | An origin story](https://dev.to/mehdi1/angular-the-documentary-an-origin-story-2lbe)
-- [TypeScript Origins: The Documentary](https://dev.to/mehdi1/typescript-origins-the-documentary-1gh5)
+- [Useful Dev Tools for Hardware Beyond the IDE](https://dev.to/buonoatsushi/useful-dev-tools-for-hardware-beyond-the-ide-27kp)
+- [[Boost]](https://dev.to/dumboprogrammer/-4399)
+- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
+- [Clean Architecture in .net application step by step](https://dev.to/ravivis13370227/clean-architecture-in-net-application-step-by-step-2ol0)
+- [Selective Subfolder Deletion Made Simple: Linux Tips for Precision Cleanup](https://dev.to/axisinfo_0a61830e06c3c950/selective-subfolder-deletion-made-simple-linux-tips-for-precision-cleanup-4lna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
