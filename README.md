@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📌 10.7 – Diferenças para o Joda-Time](https://dev.to/fundamentosjava/107-diferencas-para-o-joda-time-4gj6)
-- [Ajay Hinduja Techie One: Embracing the Future of AI Technology](https://dev.to/ajayhinduja/ajay-hinduja-techie-one-embracing-the-future-of-ai-technology-23gl)
-- [Mem0: The Comprehensive Guide to Building AI with Persistent Memory](https://dev.to/yigit-konur/mem0-the-comprehensive-guide-to-building-ai-with-persistent-memory-fbm)
-- [Which is better Guys?](https://dev.to/amit_roy06/which-is-better-guys-491j)
-- [4 Things I Wish I Knew When I First Started as a Full-Stack Developer Founder](https://dev.to/duckyounglee/4-things-i-wish-i-knew-when-i-first-started-as-a-full-stack-developer-founder-4j8n)
+- [Dbms Definition](https://dev.to/rishabhtpt/dbms-definition-365d)
+- [10 &lpar;+1&rpar; QA Archetypes Dominating 2025 &lpar;Memes Included&rpar;](https://dev.to/harsha_vardhanreddy_9017/10-1-qa-archetypes-dominating-2025-memes-included-2hb8)
+- [Optimizing React Performance With Memoization and Code Splitting](https://dev.to/hexshift/optimizing-react-performance-with-memoization-and-code-splitting-18gi)
+- [☠️ Never Run These! 10 Linux Commands That Can Destroy Your System](https://dev.to/rajpreet_gill_6272051bd31/never-run-these-10-linux-commands-that-can-destroy-your-system-4k28)
+- [Docker Model Runner: Running AI Models Locally](https://dev.to/idsulik/docker-model-runner-running-ai-models-locally-1a3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
