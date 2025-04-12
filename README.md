@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [B2B Sales KPIs](https://dev.to/hassankotb/b2b-sales-kpis-6b1)
-- [Designing a successful Application Security Program: Strategies, Techniques and tools for optimal results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-techniques-and-tools-for-optimal-4bn)
-- [I Built a Modern React Theme for JSON Resume](https://dev.to/phoinixi/i-built-a-modern-react-theme-for-json-resume-d4h)
-- [Snow Day Calculator – Open Source Tool to Predict Your Day Off](https://dev.to/rockbhai/snow-day-calculator-open-source-tool-to-predict-your-day-off-49ep)
-- [🚀 Introducing B-Vista: Real-Time Visual EDA for Pandas DataFrames](https://dev.to/baciak/introducing-b-vista-real-time-visual-eda-for-pandas-dataframes-dom)
+- [If you are looking to learn oops concept in fun way do check this out!](https://dev.to/akashjana/if-you-are-looking-to-learn-oops-concept-in-fun-way-do-check-this-out-obm)
+- [INSANE one-click MCP AI agent, Meta Llama 4 Herd, an AI Model 8X larger than OpenAI, and more](https://dev.to/thisweekinaiengineering/insane-one-click-mcp-ai-agent-meta-llama-4-herd-an-ai-model-8x-larger-than-openai-and-more-45b0)
+- [XPORT by Wanchain: A Free and Simple Cross-Chain Data Protocol](https://dev.to/insanechemical_/xport-by-wanchain-a-free-and-simple-cross-chain-data-protocol-2lop)
+- [TCP/IP vs OSI: Understanding the Backbone of Networking](https://dev.to/axisinfo_0a61830e06c3c950/tcpip-vs-osi-understanding-the-backbone-of-networking-b31)
+- [Integrating Stripe Checkout in a Next.js Application](https://dev.to/hexshift/integrating-stripe-checkout-in-a-nextjs-application-1cde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
