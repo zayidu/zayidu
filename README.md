@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Unveils New Program to Redefine AI Benchmarking Standards](https://dev.to/affectionate_code/openai-unveils-new-program-to-redefine-ai-benchmarking-standards-1naf)
-- [The Only 6 Commands You Need to Find Anything in Linux &lpar;Day 6 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/the-only-6-commands-you-need-to-find-anything-in-linux-day-6-of-30-5el1)
-- [Integrating Full-Text Search with Hibernate Search in a Java Application](https://dev.to/netz/integrating-full-text-search-with-hibernate-search-in-a-java-application-36jh)
-- [Hello dev.to 👋 Time to spill some .NET beans](https://dev.to/urbanek32/hello-devto-time-to-spill-some-net-beans-1l7b)
-- [Practical Human-in-the-Loop Agents: A Hands-On Guide](https://dev.to/shrsv/practical-human-in-the-loop-agents-a-hands-on-guide-gjk)
+- [Pixelated Photos? Here’s How to Upscale Them Like a Pro](https://dev.to/smartdev72/pixelated-photos-heres-how-to-upscale-them-like-a-pro-5fd2)
+- [🧠 JS Pop Quiz: ⚡️Faster iterations](https://dev.to/tusharshahi/js-pop-quiz-faster-iterations-3n39)
+- [Python: From Darkness to Dawn](https://dev.to/souhaillaghchimdev/python-from-darkness-to-dawn-3ibn)
+- [Optimizing the Knapsack Problem Using Stochastic Hill Climbing Algorithm](https://dev.to/gokhanergentech/optimizing-the-knapsack-problem-using-stochastic-hill-climbing-algorithm-3d1k)
+- [12 Apps in 12 Months Is Dumb](https://dev.to/shayy/12-apps-in-12-months-is-dumb-1mg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
