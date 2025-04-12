@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dbms Definition](https://dev.to/rishabhtpt/dbms-definition-365d)
-- [10 &lpar;+1&rpar; QA Archetypes Dominating 2025 &lpar;Memes Included&rpar;](https://dev.to/harsha_vardhanreddy_9017/10-1-qa-archetypes-dominating-2025-memes-included-2hb8)
-- [Optimizing React Performance With Memoization and Code Splitting](https://dev.to/hexshift/optimizing-react-performance-with-memoization-and-code-splitting-18gi)
-- [☠️ Never Run These! 10 Linux Commands That Can Destroy Your System](https://dev.to/rajpreet_gill_6272051bd31/never-run-these-10-linux-commands-that-can-destroy-your-system-4k28)
-- [Docker Model Runner: Running AI Models Locally](https://dev.to/idsulik/docker-model-runner-running-ai-models-locally-1a3n)
+- [20 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗹𝗼𝘀𝘂𝗿𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗡𝗮𝗶𝗹 𝗬𝗼𝘂𝗿 𝗡𝗲𝘅𝘁 𝗧𝗲𝗰𝗵 𝗥𝗼𝗹𝗲🚀](https://dev.to/hasan_rifat/20-267j)
+- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
+- [Unlock Effortless Scanning with Epson ScanSmart – Boost Productivity](https://dev.to/tobbystalin/unlock-effortless-scanning-with-epson-scansmart-boost-productivity-3658)
+- [AI Doctor Paradox: Right Diagnosis, Wrong Reasoning in Rheumatoid Arthritis](https://dev.to/aimodels-fyi/ai-doctor-paradox-right-diagnosis-wrong-reasoning-in-rheumatoid-arthritis-4456)
+- [Pathology AI Breakthrough: Train SOTA Models With 1000x Less Data](https://dev.to/aimodels-fyi/pathology-ai-breakthrough-train-sota-models-with-1000x-less-data-4i7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
