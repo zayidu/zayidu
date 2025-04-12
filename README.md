@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Letting Agents Write and Review Code — A 0dev Milestone&lpar;Demo&rpar;](https://dev.to/mohsenkamrani/letting-agents-write-and-review-code-a-0dev-milestonedemo-578g)
 - [Build Better UIs: A Framework-Agnostic Tree View with Drag &amp; Drop for Vue &lpar;and Beyond&rpar;](https://dev.to/jmkcoder/build-better-uis-a-framework-agnostic-tree-view-with-drag-drop-for-vue-and-beyond-29ga)
 - [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-25l7)
 - [Phrest Finder - v20](https://dev.to/notmadebyahuman/phrest-finder-v20-1lkl)
 - [Level Up as a Developer: Using AI to Spot and Close Your Coding Skill Gaps](https://dev.to/raajaryan/level-up-as-a-developer-using-ai-to-spot-and-close-your-coding-skill-gaps-759)
-- [How I Use AI to Identify and Fix My Developer Skill Gaps Efficiently](https://dev.to/codewithsuhani/how-i-use-ai-to-identify-and-fix-my-developer-skill-gaps-efficiently-20p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
