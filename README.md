@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Odoo-Based Project Management Tool for Businesses in 2025](https://dev.to/bhavesh_gangani_/best-odoo-based-project-management-tool-for-businesses-in-2025-4gaa)
-- [🎉 8,215+ downloads in just 30 days!](https://dev.to/sajijohn/8215-downloads-in-just-30-days-lh4)
-- [Anime JS , a JavaScript animation library](https://dev.to/gariglow/anime-js-a-javascript-animation-library-5ha9)
-- [Day-18:Return datatype](https://dev.to/pavithra_c_butterfly/day-18return-datatype-hbf)
-- [Master SQL with These Handy Tools, Tips, and Tricks](https://dev.to/be11amer/master-sql-with-these-handy-tools-tips-and-tricks-421m)
+- [Working on a Vue 3 crypto dashboard but getting Failed to resolve import &quot;./router&quot; error. Help!](https://dev.to/ali_razamuhammadaliraz/working-on-a-vue-3-crypto-dashboard-but-getting-failed-to-resolve-import-router-error-help-5b1i)
+- [Git - Using git cherry-pick to Select Specific Commits](https://dev.to/rezanazari/git-using-git-cherry-pick-to-select-specific-commits-42p7)
+- [DSA with Python - Why? Pros, Pitfalls &amp; Best Practices. Frequently updated.](https://dev.to/neetigyachahar/dsa-with-python-why-pros-pitfalls-best-practices-frequently-updated-18c6)
+- [User Management in Linux](https://dev.to/chielo_chiamaka/user-management-in-linux-2p45)
+- [Podman on debian How to fix podman no services after restart](https://dev.to/finloop/podman-on-debian-how-to-fix-podman-no-services-after-restart-2f4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
