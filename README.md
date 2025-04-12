@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If you are looking to learn oops concept in fun way do check this out!](https://dev.to/akashjana/if-you-are-looking-to-learn-oops-concept-in-fun-way-do-check-this-out-obm)
-- [INSANE one-click MCP AI agent, Meta Llama 4 Herd, an AI Model 8X larger than OpenAI, and more](https://dev.to/thisweekinaiengineering/insane-one-click-mcp-ai-agent-meta-llama-4-herd-an-ai-model-8x-larger-than-openai-and-more-45b0)
-- [XPORT by Wanchain: A Free and Simple Cross-Chain Data Protocol](https://dev.to/insanechemical_/xport-by-wanchain-a-free-and-simple-cross-chain-data-protocol-2lop)
-- [TCP/IP vs OSI: Understanding the Backbone of Networking](https://dev.to/axisinfo_0a61830e06c3c950/tcpip-vs-osi-understanding-the-backbone-of-networking-b31)
-- [Integrating Stripe Checkout in a Next.js Application](https://dev.to/hexshift/integrating-stripe-checkout-in-a-nextjs-application-1cde)
+- [OpenAI Unveils New Program to Redefine AI Benchmarking Standards](https://dev.to/affectionate_code/openai-unveils-new-program-to-redefine-ai-benchmarking-standards-1naf)
+- [The Only 6 Commands You Need to Find Anything in Linux &lpar;Day 6 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/the-only-6-commands-you-need-to-find-anything-in-linux-day-6-of-30-5el1)
+- [Integrating Full-Text Search with Hibernate Search in a Java Application](https://dev.to/netz/integrating-full-text-search-with-hibernate-search-in-a-java-application-36jh)
+- [Hello dev.to 👋 Time to spill some .NET beans](https://dev.to/urbanek32/hello-devto-time-to-spill-some-net-beans-1l7b)
+- [Practical Human-in-the-Loop Agents: A Hands-On Guide](https://dev.to/shrsv/practical-human-in-the-loop-agents-a-hands-on-guide-gjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
