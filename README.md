@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of the Console Object: Beyond console.log&lpar;&rpar;](https://dev.to/gauravdalvi/unlocking-the-power-of-the-console-object-beyond-consolelog-5dfg)
-- [🧠 Don’t Let AI Make You Dumb: My Real Strategy for Learning, Working, and Thriving as a Developer](https://dev.to/mrasadatik/dont-let-ai-make-you-dumb-my-real-strategy-for-learning-working-and-thriving-as-a-developer-3fk6)
-- [🐢🐇 Fast and Slow Pointers in Java – The Ultimate Guide](https://dev.to/devcorner/fast-and-slow-pointers-in-java-the-ultimate-guide-2h57)
-- [🔍 Sliding Window Technique in Java – The Ultimate Guide 🚪](https://dev.to/devcorner/sliding-window-technique-in-java-the-ultimate-guide-1oln)
-- [🏃‍♂️🏃‍♀️ Two Pointer Technique in Java – The Ultimate Guide with Examples](https://dev.to/devcorner/two-pointer-technique-in-java-the-ultimate-guide-with-examples-474c)
+- [B2B Sales KPIs](https://dev.to/hassankotb/b2b-sales-kpis-6b1)
+- [Designing a successful Application Security Program: Strategies, Techniques and tools for optimal results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-techniques-and-tools-for-optimal-4bn)
+- [I Built a Modern React Theme for JSON Resume](https://dev.to/phoinixi/i-built-a-modern-react-theme-for-json-resume-d4h)
+- [Snow Day Calculator – Open Source Tool to Predict Your Day Off](https://dev.to/rockbhai/snow-day-calculator-open-source-tool-to-predict-your-day-off-49ep)
+- [🚀 Introducing B-Vista: Real-Time Visual EDA for Pandas DataFrames](https://dev.to/baciak/introducing-b-vista-real-time-visual-eda-for-pandas-dataframes-dom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
