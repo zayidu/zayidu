@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS and Same-Origin Policy Deep Dive](https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g)
-- [Cartoonify Your Image: Add a Fun Twist to Any Picture](https://dev.to/smartdev72/cartoonify-your-image-add-a-fun-twist-to-any-picture-25ak)
-- [Building an E-commerce Website: A Step-by-Step Tutorial on Mastering .some&lpar;&rpar; and .every&lpar;&rpar; in JavaScript](https://dev.to/agunechemba/building-an-e-commerce-website-a-step-by-step-tutorial-on-mastering-some-and-every-in-3dej)
-- [**Title: Improving Distributed Systems Reliability Using the Fibonacci Backoff Mechanism** Retrying failed operations on temporary failures is one of the prevalent strategies in contemporary distributed systems. But when done inadequately, these retries l](https://dev.to/nourelhodabarkat/title-improving-distributed-systems-reliability-using-the-fibonacci-backoff-mechanism-3p46)
-- [Explore Pentesting the Easy Way: Using Nmap and Docker](https://dev.to/rijultp/explore-pentesting-the-easy-way-using-nmap-and-docker-ii4)
+- [Streaming vs Queuing: What Happens If You Choose Wrong?](https://dev.to/smiah/streaming-vs-queuing-what-happens-if-you-choose-wrong-2h6e)
+- [Mutate or Replace: What Really Triggers UI Re-Renders in JavaScript Frameworks](https://dev.to/sandheep_kumarpatro_1c48/mutate-or-replace-what-really-triggers-ui-re-renders-in-javascript-frameworks-4i24)
+- [Reverse Proxy vs. API Gateway vs. Load Balancer🌐](https://dev.to/mohamed_nabil_19a2c451a59/reverse-proxy-vs-api-gateway-vs-load-balancer-2dm)
+- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-5ca6)
+- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-8kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
