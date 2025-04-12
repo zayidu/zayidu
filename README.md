@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Useful Dev Tools for Hardware Beyond the IDE](https://dev.to/buonoatsushi/useful-dev-tools-for-hardware-beyond-the-ide-27kp)
-- [[Boost]](https://dev.to/dumboprogrammer/-4399)
-- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
-- [Clean Architecture in .net application step by step](https://dev.to/ravivis13370227/clean-architecture-in-net-application-step-by-step-2ol0)
-- [Selective Subfolder Deletion Made Simple: Linux Tips for Precision Cleanup](https://dev.to/axisinfo_0a61830e06c3c950/selective-subfolder-deletion-made-simple-linux-tips-for-precision-cleanup-4lna)
+- [Unlocking the Power of the Console Object: Beyond console.log&lpar;&rpar;](https://dev.to/gauravdalvi/unlocking-the-power-of-the-console-object-beyond-consolelog-5dfg)
+- [🧠 Don’t Let AI Make You Dumb: My Real Strategy for Learning, Working, and Thriving as a Developer](https://dev.to/mrasadatik/dont-let-ai-make-you-dumb-my-real-strategy-for-learning-working-and-thriving-as-a-developer-3fk6)
+- [🐢🐇 Fast and Slow Pointers in Java – The Ultimate Guide](https://dev.to/devcorner/fast-and-slow-pointers-in-java-the-ultimate-guide-2h57)
+- [🔍 Sliding Window Technique in Java – The Ultimate Guide 🚪](https://dev.to/devcorner/sliding-window-technique-in-java-the-ultimate-guide-1oln)
+- [🏃‍♂️🏃‍♀️ Two Pointer Technique in Java – The Ultimate Guide with Examples](https://dev.to/devcorner/two-pointer-technique-in-java-the-ultimate-guide-with-examples-474c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
