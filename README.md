@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
-- [Untitled](https://dev.to/mohammad_ghlibalrazzaq_9/untitled-514j)
-- [17 open roles for product engineers, developer advocates, and technical writers](https://dev.to/fmerian/17-open-roles-for-product-engineers-developer-advocates-and-technical-writers-329d)
-- [Hello World](https://dev.to/rayjay/hello-world-13cf)
-- [From Feature Graveyard to Viable Product: Beano v2.0 Redemption Arc](https://dev.to/beanboi64/from-feature-graveyard-to-viable-product-beanos-tic-tac-toe-redemption-arc-2pkp)
+- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
+- [Improving Websites with AI: Benefits, Optimization, and FAQs](https://dev.to/minima_desk_cd9b151c4e2fb/improving-websites-with-ai-benefits-optimization-and-faqs-1655)
+- [The Best Git GUI Clients for Linux, Windows, and Mac](https://dev.to/minima_desk_cd9b151c4e2fb/the-best-git-gui-clients-for-linux-windows-and-mac-27ac)
+- [How to Create Affiliate Links in WordPress: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-create-affiliate-links-in-wordpress-a-step-by-step-guide-1lj1)
+- [How to Fix WordPress Add Media Button Not Working](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-fix-wordpress-add-media-button-not-working-7ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
