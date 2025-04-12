@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗹𝗼𝘀𝘂𝗿𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗡𝗮𝗶𝗹 𝗬𝗼𝘂𝗿 𝗡𝗲𝘅𝘁 𝗧𝗲𝗰𝗵 𝗥𝗼𝗹𝗲🚀](https://dev.to/hasan_rifat/20-267j)
-- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
-- [Unlock Effortless Scanning with Epson ScanSmart – Boost Productivity](https://dev.to/tobbystalin/unlock-effortless-scanning-with-epson-scansmart-boost-productivity-3658)
-- [AI Doctor Paradox: Right Diagnosis, Wrong Reasoning in Rheumatoid Arthritis](https://dev.to/aimodels-fyi/ai-doctor-paradox-right-diagnosis-wrong-reasoning-in-rheumatoid-arthritis-4456)
-- [Pathology AI Breakthrough: Train SOTA Models With 1000x Less Data](https://dev.to/aimodels-fyi/pathology-ai-breakthrough-train-sota-models-with-1000x-less-data-4i7k)
+- [Meet RedCoffee : A Python CLI to export SonarQube analysis as shareable PDF Reports](https://dev.to/konnichiwa_anubhav/meet-redcoffee-a-python-cli-to-export-sonarqube-analysis-as-shareable-pdf-reports-19em)
+- [PHP is now the best choice for web based software](https://dev.to/robin-ivi/php-is-now-the-best-choice-for-web-based-software-4fpf)
+- [Why You Should Move to WEBM &lpar;and How to Do It&rpar;](https://dev.to/smartdev72/why-you-should-move-to-webm-and-how-to-do-it-3oe9)
+- [🔐 Your Connection Is Not Private Error – Meaning, Causes, and Fixes](https://dev.to/im_ashish30/your-connection-is-not-private-error-meaning-causes-and-fixes-30h6)
+- [First 10 Seconds That Can Make or Break a Product](https://dev.to/jagroop2001/first-10-seconds-that-can-make-or-break-a-product-8ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
