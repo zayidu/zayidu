@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HeadSpin Alternatives with Better ROI: Top Tools Compared](https://dev.to/shubham-theqa/headspin-alternatives-with-better-roi-top-tools-compared-4j7o)
-- [Designing Intuitive and Responsive Interfaces with React.js and Bootstrap: Everything You Need to Know](https://dev.to/ishworj/designing-intuitive-and-responsive-interfaces-with-reactjs-and-bootstrap-everything-you-need-to-41ak)
-- [Quick Guide: Turn WEBM Videos into MOV Format Today](https://dev.to/smartdev72/quick-guide-turn-webm-videos-into-mov-format-today-1fg8)
-- [No More Screenshots — Share SonarQube Code Reports as PDFs](https://dev.to/konnichiwa_anubhav/-48pb)
-- [How to Convert MP4 to MKV in Minutes &lpar;Full Guide&rpar;](https://dev.to/smartdev72/how-to-convert-mp4-to-mkv-in-minutes-full-guide-47ce)
+- [Top 10 Katalon Alternatives: A Comprehensive Comparison](https://dev.to/morrismoses149/top-10-katalon-alternatives-a-comprehensive-comparison-dkk)
+- [Struggling with MOV Files? Here’s How to Convert Them Easily](https://dev.to/smartdev72/struggling-with-mov-files-heres-how-to-convert-them-easily-3pe9)
+- [From Idea to Impact: Understanding the Most Valuable Product in Modern Software Development by Ted Vitale NJ](https://dev.to/tedvitalenjproduct/from-idea-to-impact-understanding-the-most-valuable-product-in-modern-software-development-by-ted-2gde)
+- [The Only WEBM Converter Guide You’ll Ever Need](https://dev.to/smartdev72/the-only-webm-converter-guide-youll-ever-need-7o9)
+- [Python: Types of Data](https://dev.to/blackmare01wolf/python-types-of-data-3k68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
