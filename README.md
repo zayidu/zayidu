@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Untitled](https://dev.to/abhi_jadhav_d307ff1108e56/untitled-37a4)
+- [Securing React Applications with ReCAPTZ: A Complete Guide](https://dev.to/shejanmahamud/securing-react-applications-with-recaptz-a-complete-guide-3bpf)
+- [JavaScript DOM Manipulation](https://dev.to/ashikrnhq04/javascript-dom-manipulation-2998)
+- [Drag a window by clicking everywhere in the window. Improving usability. Which programs are better to choose. My experience](https://dev.to/tvlao/drag-a-window-by-clicking-everywhere-in-the-window-improving-usability-which-programs-are-better-35j9)
 - [Streaming vs Queuing: What Happens If You Choose Wrong?](https://dev.to/smiah/streaming-vs-queuing-what-happens-if-you-choose-wrong-2h6e)
-- [Mutate or Replace: What Really Triggers UI Re-Renders in JavaScript Frameworks](https://dev.to/sandheep_kumarpatro_1c48/mutate-or-replace-what-really-triggers-ui-re-renders-in-javascript-frameworks-4i24)
-- [Reverse Proxy vs. API Gateway vs. Load Balancer🌐](https://dev.to/mohamed_nabil_19a2c451a59/reverse-proxy-vs-api-gateway-vs-load-balancer-2dm)
-- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-5ca6)
-- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-8kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
