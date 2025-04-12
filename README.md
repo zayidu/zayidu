@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/abhi_jadhav_d307ff1108e56/untitled-37a4)
-- [Securing React Applications with ReCAPTZ: A Complete Guide](https://dev.to/shejanmahamud/securing-react-applications-with-recaptz-a-complete-guide-3bpf)
-- [JavaScript DOM Manipulation](https://dev.to/ashikrnhq04/javascript-dom-manipulation-2998)
-- [Drag a window by clicking everywhere in the window. Improving usability. Which programs are better to choose. My experience](https://dev.to/tvlao/drag-a-window-by-clicking-everywhere-in-the-window-improving-usability-which-programs-are-better-35j9)
-- [Streaming vs Queuing: What Happens If You Choose Wrong?](https://dev.to/smiah/streaming-vs-queuing-what-happens-if-you-choose-wrong-2h6e)
+- [5 HTML Features You’re Not Using &lpar;But Should Use&rpar; ✅](https://dev.to/joodi/5-html-features-youre-not-using-but-should-use-3a02)
+- [How to Set Up a Local WordPress Site with XAMPP in 3 Easy Steps](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-set-up-a-local-wordpress-site-with-xampp-in-3-easy-steps-1l48)
+- [Monthly Budget Planner vs. Weekly Budget: What’s Right for You?](https://dev.to/viktoriiasmith/monthly-budget-planner-vs-weekly-budget-whats-right-for-you-10li)
+- [How to Disable Comments on WordPress: 7 Methods to Take Control](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-disable-comments-on-wordpress-7-methods-to-take-control-8fg)
+- [How to Blur an Image for Focus, Privacy, or Artistic Style](https://dev.to/smartdev72/how-to-blur-an-image-for-focus-privacy-or-artistic-style-i87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
