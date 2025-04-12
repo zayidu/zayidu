@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working on a Vue 3 crypto dashboard but getting Failed to resolve import &quot;./router&quot; error. Help!](https://dev.to/ali_razamuhammadaliraz/working-on-a-vue-3-crypto-dashboard-but-getting-failed-to-resolve-import-router-error-help-5b1i)
-- [Git - Using git cherry-pick to Select Specific Commits](https://dev.to/rezanazari/git-using-git-cherry-pick-to-select-specific-commits-42p7)
-- [DSA with Python - Why? Pros, Pitfalls &amp; Best Practices. Frequently updated.](https://dev.to/neetigyachahar/dsa-with-python-why-pros-pitfalls-best-practices-frequently-updated-18c6)
-- [User Management in Linux](https://dev.to/chielo_chiamaka/user-management-in-linux-2p45)
-- [Podman on debian How to fix podman no services after restart](https://dev.to/finloop/podman-on-debian-how-to-fix-podman-no-services-after-restart-2f4k)
+- [5 AI Tools to Build Your First MVP in Days, Not Months🚀🚀🚀](https://dev.to/amin_renees_c59fa3c2aa1a1/5-ai-tools-to-build-your-first-mvp-in-days-not-months-8l7)
+- [🔐 Secure Your Files with chattr +i in Linux](https://dev.to/nurulislamrimon/secure-your-files-with-chattr-i-in-linux-54c3)
+- [The Timeless Legacy of Tetris: Why This Iconic Puzzle Game Still Captivates Millions](https://dev.to/colettead/the-timeless-legacy-of-tetris-why-this-iconic-puzzle-game-still-captivates-millions-p1n)
+- [Angular: The Documentary | An origin story](https://dev.to/mehdi1/angular-the-documentary-an-origin-story-2lbe)
+- [TypeScript Origins: The Documentary](https://dev.to/mehdi1/typescript-origins-the-documentary-1gh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
