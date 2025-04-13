@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eloquent: is an ORM too restrictive?](https://dev.to/xwero/eloquent-is-an-orm-too-restrictive-29n3)
-- [VoIP for Gaming: Low-Latency Voice Chat Solutions in 2025](https://dev.to/justin_downes/voip-for-gaming-low-latency-voice-chat-solutions-in-2025-578n)
-- [Data Fetching Patterns in React: A Comprehensive Guide](https://dev.to/prathamisonline/data-fetching-patterns-in-react-a-comprehensive-guide-olg)
-- [182/365 | ¥10M Job Challenge - Another weekend flew by](https://dev.to/kameken100/182365-y10m-job-challenge-another-weekend-flew-by-4g4k)
-- [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://dev.to/nickytonline/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2)
+- [🔨 #Soyut-Fabrika &lpar;Abstract Factory&rpar;](https://dev.to/mustafasamedyeyin/soyut-fabrika-abstract-factory-2g9)
+- [🚀 Getting Started with Bicep: The Friendly Way to Deploy Azure Infrastructure](https://dev.to/1suleyman/getting-started-with-bicep-the-friendly-way-to-deploy-azure-infrastructure-5163)
+- [💻 Exercise 03: Refactoring with Bicep Modules – Making Your Templates Cleaner &amp; Smarter](https://dev.to/1suleyman/exercise-03-refactoring-with-bicep-modules-making-your-templates-cleaner-smarter-loc)
+- [Building CareerAgent: An AI-Powered Job Search Assistant with LangChain and Gemini](https://dev.to/sharmachaitanya945/building-careeragent-an-ai-powered-job-search-assistant-with-langchain-and-gemini-319i)
+- [Is AI Safety Keeping Up with AI Progress?](https://dev.to/djleamen/is-ai-safety-keeping-up-with-ai-progress-1cm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
