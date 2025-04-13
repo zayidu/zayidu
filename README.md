@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
-- [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
-- [Dockerizing a React Project with Nginx](https://dev.to/krisha_arya_55/dockerizing-a-react-project-with-nginx-3mpo)
-- [XSS URL Analysis and SQL Injection Workflow](https://dev.to/mrgh0st/xss-url-analysis-and-sql-injection-workflow-245k)
-- [Adding JIRA Integration to Policy Reporter for Kyverno](https://dev.to/samsonkolge/adding-jira-integration-to-policy-reporter-for-kyverno-23n4)
+- [web3](https://dev.to/poland_silvia/web3-1002)
+- [A Beginner&#39;s Guide to WordPress Plugins: How to Use, Install, and Manage Them](https://dev.to/minima_desk_cd9b151c4e2fb/a-beginners-guide-to-wordpress-plugins-how-to-use-install-and-manage-them-2ob1)
+- [How to Change Your Domain Name in WordPress: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-your-domain-name-in-wordpress-a-step-by-step-guide-2cb1)
+- [Building a Nodejs API using the Twelve-Factor App Principles](https://dev.to/dipe_/building-a-nodejs-api-using-the-twelve-factor-app-principles-1jd7)
+- [The Best CMS Platforms of 2025: Choosing the Right Content Management System](https://dev.to/minima_desk_cd9b151c4e2fb/the-best-cms-platforms-of-2025-choosing-the-right-content-management-system-6om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
