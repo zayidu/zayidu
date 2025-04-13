@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Belajar Flyway Episode 1: Pengenalan dan Migrasi Pertama](https://dev.to/pashaibrhm/belajar-flyway-episode-1-pengenalan-dan-migrasi-pertama-45hd)
-- [Why we couldn&#39;t resist raising from eBay - our Series A announcement](https://dev.to/slickstef11/why-we-couldnt-resist-raising-from-ebay-our-series-a-announcement-5dhl)
-- [Hands-On Guide: Assigning a Team Policy, Deleting, and Restoring a User in Microsoft Teams](https://dev.to/seyilufadejucyberservices/hands-on-guide-assigning-a-team-policy-deleting-and-restoring-a-user-in-microsoft-teams-4m5e)
-- [How to Automate Blog Publishing to Multiple Platforms 🚀](https://dev.to/prachijamdade/how-to-automate-blog-publishing-to-multiple-platforms-52po)
-- [Using Big Data Visualization to Drive Employee Performance Management](https://dev.to/kapusto/using-big-data-visualization-to-drive-employee-performance-management-2ek4)
+- [Part 1: Packaging Our iOS SDK as a Binary Framework](https://dev.to/sianwa/part-1-packaging-our-ios-sdk-as-a-binary-framework-1ej)
+- [🚀 Installing Stimulus in an Existing Rails 7 Project &lpar;with Importmap&rpar;](https://dev.to/fadlystwn/installing-stimulus-in-an-existing-rails-7-project-with-importmap-86l)
+- [Data Races in Go: What They Are and Why You Should Care](https://dev.to/lincemathew/data-races-in-go-what-they-are-and-why-you-should-care-14fa)
+- [🚀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗜 𝗦𝗼𝗹𝘃𝗲𝗱 𝗧𝗵𝗶𝘀 𝗪𝗲𝗲𝗸!](https://dev.to/supraja_tangella_b7f0738e/-35ik)
+- [Track UI Events and Network Activity in Windows Using Rust + C#](https://dev.to/stephenc222/track-ui-events-and-network-activity-in-windows-using-rust-c-22i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
