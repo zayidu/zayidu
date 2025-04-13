@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the ML Gap: How Java Powers Enterprise AI in Production](https://dev.to/engnelson/bridging-the-ml-gap-how-java-powers-enterprise-ai-in-production-28kp)
-- [Turning Discipline Into an App &lpar;Personal Project&rpar;](https://dev.to/ashwanidev101/turning-discipline-into-an-app-personal-project-57eh)
-- [To learn or not to learn TRITON, that is the question](https://dev.to/aviraj_bevli_3b8e3c728620/should-i-learn-triton-47b5)
-- [Common Painting Mistakes with 3D Prints &lpar;and How to Avoid Them&rpar;](https://dev.to/stewie_gilligan_/common-painting-mistakes-with-3d-prints-and-how-to-avoid-them-2ocj)
-- [A Step-by-Step Guide to Implementing a GAN with PyTorch](https://dev.to/aionlinecourse/a-step-by-step-guide-to-implementing-a-gan-with-pytorch-ij6)
+- [Superintelligent AI &lpar;ASI&rpar; going far, but staying logical](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligent-ai-asi-going-far-but-staying-logical-5bkg)
+- [Practical awk Commands Every Tech Pro Should Know](https://dev.to/axisinfo_0a61830e06c3c950/practical-awk-commands-every-tech-pro-should-know-53d4)
+- [Choosing a Front-End for .NET Development](https://dev.to/syawqy/choosing-a-front-end-for-net-development-updated-with-examples-3c5m)
+- [Create Viral 3D action figure packaging box with GPT.](https://dev.to/dishank/create-viral-3d-action-figure-packaging-box-with-gpt-5b31)
+- [Frontend experience in 30 seconds — things I wish I knew earlier](https://dev.to/mushfiqbh/frontend-experience-in-30-seconds-things-i-wish-i-knew-earlier-2b6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
