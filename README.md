@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
-- [Cosmetic vs. Functional Goals: Preparing for Diverse Rhinoplasty Outcomes with Plastic Surgeons including Dr Reish](https://dev.to/richardreish/cosmetic-vs-functional-goals-preparing-for-diverse-rhinoplasty-outcomes-with-plastic-surgeons-2gae)
-- [A Minimal Static Blog Generator in Purescript - My Notes and Code Walkthrough](https://dev.to/druchan/a-minimal-static-blog-generator-in-purescript-my-notes-and-code-walkthrough-f4j)
-- [Cara Uninstall dan Install Ulang WSL di Windows](https://dev.to/ryfazrin/cara-uninstall-dan-install-ulang-wsl-di-windows-59p0)
-- [Convert a batch of images into Ghibli style using ChatGPT and macOS Automator](https://dev.to/kopiro/process-bunch-of-pictures-into-ghibli-style-using-chatgpt-and-macos-automator-4a37)
+- [A very beginner... Some HTML questions on text. Font etc.](https://dev.to/eric_groen_17205fd4409957/a-very-beginner-some-html-questions-on-text-font-etc-mlf)
+- [Starting my Data Analyst Journey at LuxDev bootcamp](https://dev.to/kelly_10/starting-my-data-analyst-journey-1100)
+- [🚀 Designing Idempotent APIs in Spring Boot](https://dev.to/devcorner/designing-idempotent-apis-in-spring-boot-2fhi)
+- [From TheCampusCoders to the 9-5 Grind: My Journey and How I’m Looking for New Opportunities](https://dev.to/raajaryan/from-thecampuscoders-to-the-9-5-grind-my-journey-and-how-im-looking-for-new-opportunities-2h2g)
+- [What Is The Difference Between A MVC Controller And An API Controller?](https://dev.to/chikeredev/what-is-the-difference-between-a-mvc-controller-and-an-api-controller-2lje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
