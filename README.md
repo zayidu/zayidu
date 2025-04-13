@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The 333-Day Build Journey](https://dev.to/omniradhanexus/the-333-day-build-journey-9m7)
+- [Just launched hypemeup.ai - helps devs &amp; creators build their personal brand with AI](https://dev.to/themogulhimself/just-launched-hypemeupai-helps-devs-creators-buildtheir-personal-brand-with-ai-1ip8)
+- [Why We Started: The Web3 UX Problem](https://dev.to/omniradhanexus/why-we-started-the-web3-ux-problem-1gi5)
+- [Revolutionizing Education: The Rise and Role of Virtual Classrooms in Today&#39;s Learning Environment](https://dev.to/ghummantech/revolutionizing-education-the-rise-and-role-of-virtual-classrooms-in-todays-learning-environment-3ikp)
 - [Prevent CSRF Vulnerabilities in Symfony Easily](https://dev.to/pentest_testing_corp/prevent-csrf-vulnerabilities-in-symfony-easily-1jg5)
-- [Getting the Most Out of V0: AI UI Generation for Frontend Projects](https://dev.to/mr_nova/getting-the-most-out-of-v0-ai-ui-generation-for-frontend-projects-1iad)
-- [Entity-Relationship &lpar;ER&rpar; Diagrams: Visualizing Your Database Structure](https://dev.to/be11amer/entity-relationship-er-diagrams-visualizing-your-database-structure-obb)
-- [Content Security Policy &lpar;CSP&rpar; for Web Apps](https://dev.to/omriluz1/content-security-policy-csp-for-web-apps-l0d)
-- [Idea Validation: ProofMate](https://dev.to/samuelko123/idea-validation-proofmate-5685)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
