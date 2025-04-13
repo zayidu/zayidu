@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firework Simulator v2](https://dev.to/tran_minhbinh_9681e9d6e1/firework-simulator-v2-16jj)
-- [A beginner&#39;s guide to the Grounding-Dino model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grounding-dino-model-by-adirik-on-replicate-1hgg)
-- [AI Fact-Checks Itself: Detects Hallucinated Concepts in Chatbots](https://dev.to/aimodels-fyi/ai-fact-checks-itself-detects-hallucinated-concepts-in-chatbots-1n13)
-- [RL Beats Randomness: Dual-Critic PPO for Unpredictable Worlds](https://dev.to/aimodels-fyi/rl-beats-randomness-dual-critic-ppo-for-unpredictable-worlds-d2h)
-- [Clinical ModernBERT: Faster, Smaller AI Reads 16-Page Medical Docs](https://dev.to/aimodels-fyi/clinical-modernbert-faster-smaller-ai-reads-16-page-medical-docs-1n2p)
+- [Prevent CSRF Vulnerabilities in Symfony Easily](https://dev.to/pentest_testing_corp/prevent-csrf-vulnerabilities-in-symfony-easily-1jg5)
+- [Getting the Most Out of V0: AI UI Generation for Frontend Projects](https://dev.to/mr_nova/getting-the-most-out-of-v0-ai-ui-generation-for-frontend-projects-1iad)
+- [Entity-Relationship &lpar;ER&rpar; Diagrams: Visualizing Your Database Structure](https://dev.to/be11amer/entity-relationship-er-diagrams-visualizing-your-database-structure-obb)
+- [Content Security Policy &lpar;CSP&rpar; for Web Apps](https://dev.to/omriluz1/content-security-policy-csp-for-web-apps-l0d)
+- [Idea Validation: ProofMate](https://dev.to/samuelko123/idea-validation-proofmate-5685)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
