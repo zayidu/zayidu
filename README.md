@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AI Security &amp; Hacking? Understanding the Role of Artificial Intelligence in Cyber Security](https://dev.to/mrgh0st/what-is-ai-security-hacking-understanding-the-role-of-artificial-intelligence-in-cyber-security-2ib2)
-- [How a job interview led me to create Obscura - A password generator with real entropy](https://dev.to/denisakp/how-a-job-interview-led-me-to-create-obscura-a-password-generator-with-real-entropy-3poh)
-- [MongoDB with Search Indexes Queried as Kimball&#39;s Star Schema with Facts and Dimensions](https://dev.to/franckpachot/mongodb-with-search-indexes-queried-as-kimballs-star-schema-with-facts-and-dimensions-k1)
-- [Understanding Mobile Commerce: A Guide for Online Business Owners](https://dev.to/minima_desk_cd9b151c4e2fb/understanding-mobile-commerce-a-guide-for-online-business-owners-29c9)
-- [How to Change Permissions and Ownership in Linux: A Comprehensive Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-permissions-and-ownership-in-linux-a-comprehensive-guide-13kg)
+- [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
+- [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
+- [Dockerizing a React Project with Nginx](https://dev.to/krisha_arya_55/dockerizing-a-react-project-with-nginx-3mpo)
+- [XSS URL Analysis and SQL Injection Workflow](https://dev.to/mrgh0st/xss-url-analysis-and-sql-injection-workflow-245k)
+- [Adding JIRA Integration to Policy Reporter for Kyverno](https://dev.to/samsonkolge/adding-jira-integration-to-policy-reporter-for-kyverno-23n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
