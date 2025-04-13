@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Contexts and Origin Isolation](https://dev.to/omriluz1/secure-contexts-and-origin-isolation-55ma)
-- [[Boost]](https://dev.to/yapapulla/-3835)
-- [Monitoring AWS Data Lakes with Datadog and Alerting to Microsoft Teams](https://dev.to/rkapoor19/monitoring-aws-data-lakes-with-datadog-and-alerting-to-microsoft-teams-3fe7)
-- [Got 5 Minutes? Let&#39;s Talk HTML &lpar;Part 2&rpar;](https://dev.to/type_z_code/got-5-minutes-lets-talk-html-part-2-384o)
-- [Got 5 Minutes? Let&#39;s Talk HTML &lpar;Part 2&rpar;](https://dev.to/type_z_code/got-5-minutes-lets-talk-html-part-2-43hg)
+- [What is AI Security &amp; Hacking? Understanding the Role of Artificial Intelligence in Cyber Security](https://dev.to/mrgh0st/what-is-ai-security-hacking-understanding-the-role-of-artificial-intelligence-in-cyber-security-2ib2)
+- [How a job interview led me to create Obscura - A password generator with real entropy](https://dev.to/denisakp/how-a-job-interview-led-me-to-create-obscura-a-password-generator-with-real-entropy-3poh)
+- [MongoDB with Search Indexes Queried as Kimball&#39;s Star Schema with Facts and Dimensions](https://dev.to/franckpachot/mongodb-with-search-indexes-queried-as-kimballs-star-schema-with-facts-and-dimensions-k1)
+- [Understanding Mobile Commerce: A Guide for Online Business Owners](https://dev.to/minima_desk_cd9b151c4e2fb/understanding-mobile-commerce-a-guide-for-online-business-owners-29c9)
+- [How to Change Permissions and Ownership in Linux: A Comprehensive Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-permissions-and-ownership-in-linux-a-comprehensive-guide-13kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
