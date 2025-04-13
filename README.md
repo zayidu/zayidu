@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Packaging Our iOS SDK as a Binary Framework](https://dev.to/sianwa/part-1-packaging-our-ios-sdk-as-a-binary-framework-1ej)
-- [🚀 Installing Stimulus in an Existing Rails 7 Project &lpar;with Importmap&rpar;](https://dev.to/fadlystwn/installing-stimulus-in-an-existing-rails-7-project-with-importmap-86l)
-- [Data Races in Go: What They Are and Why You Should Care](https://dev.to/lincemathew/data-races-in-go-what-they-are-and-why-you-should-care-14fa)
-- [🚀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗜 𝗦𝗼𝗹𝘃𝗲𝗱 𝗧𝗵𝗶𝘀 𝗪𝗲𝗲𝗸!](https://dev.to/supraja_tangella_b7f0738e/-35ik)
-- [Track UI Events and Network Activity in Windows Using Rust + C#](https://dev.to/stephenc222/track-ui-events-and-network-activity-in-windows-using-rust-c-22i7)
+- [LASRS Login app offers secure, mobile access for Louisiana providers to manage data, reports, and compliance on the go.](https://dev.to/ghulam_murtaza_25dd49e5a9/lasrs-login-app-offers-secure-mobile-access-for-louisiana-providers-to-manage-data-reports-and-kja)
+- [🚀 Set Up Node.js Logging with Winston and OpenSearch Dashboard &lpar;Step-by-Step Guide&rpar;](https://dev.to/subham1901/set-up-nodejs-logging-with-winston-and-opensearch-dashboard-step-by-step-guide-nge)
+- [Daily JavaScript Challenge #JS-154: Currency String Parser](https://dev.to/dpc/daily-javascript-challenge-js-154-currency-string-parser-56de)
+- [Daily JavaScript Challenge #JS-153: Identify Unique Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-153-identify-unique-words-in-a-sentence-4mn1)
+- [🚀 Deploying Sonatype Nexus on AWS EC2 using Terraform](https://dev.to/himanshusinghtomar/deploying-sonatype-nexus-on-aws-ec2-using-terraform-en6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
