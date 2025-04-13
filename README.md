@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mesmo pra quem já teve essa primeira aula, acho que vale olhar. Eu tive minha primeira em html 3 e 4 &lpar;quando tava começando a ser semântico&rpar;, achei ótimo o exemplo em um editor de texto.](https://dev.to/vitoriazzp/mesmo-pra-quem-ja-teve-essa-primeira-aula-acho-que-vale-olhar-eu-tive-minha-primeira-em-html-3-e-k45)
-- [From Flask App to CI/CD Pipeline with GitHub Actions &amp; Docker Hub](https://dev.to/adeleke123/from-flask-app-to-cicd-pipeline-with-github-actions-docker-hub-aoa)
-- [Feeling the Code: Understanding &quot;Vibe Coding&quot; and the AI Revolution in Software Development](https://dev.to/simplr_sh/feeling-the-code-understanding-vibe-coding-and-the-ai-revolution-in-software-development-5flg)
-- [Building Your Own Scalable Video Streaming Server: Part 3 - Data, Deployment &amp; Durability](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-3-data-deployment-durability-172h)
-- [Building Your Own Scalable Video Streaming Server: Part 2 - Setup &amp; Core Implementation](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-2-setup-core-implementation-32gf)
+- [VSCode 3 —— Event System: From Emitters to Disposables](https://dev.to/kurt_harris_c64a57d4a680d/vscode-3-event-system-from-emitters-to-disposables-3292)
+- [Exploring Monetization Strategies in the Tech Content Landscape](https://dev.to/supreme_c94d2e21f71444c89/exploring-monetization-strategies-in-the-tech-content-landscape-2df9)
+- [VSCode 2 —— Workbench Contributions System: four phases](https://dev.to/kurt_harris_c64a57d4a680d/vscode-2-workbench-contributions-system-four-phases-2f5o)
+- [VSCode 1 —— Dependency Injection&lpar;DI&rpar; System](https://dev.to/kurt_harris_c64a57d4a680d/vscode-1-dependency-injectiondi-system-1f95)
+- [Let&#39;s Build a Telegram Mini App Together: Your Ideas + My Code = Open-Source Project](https://dev.to/straystreyk/lets-build-a-telegram-mini-app-together-your-ideas-my-code-open-source-project-2knc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
