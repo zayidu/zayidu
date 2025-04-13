@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Timezone Chaos to Clarity: Crafting an Interactive Time Zone Converter](https://dev.to/learncomputer/from-timezone-chaos-to-clarity-crafting-an-interactive-time-zone-converter-54h)
-- [[Boost]](https://dev.to/rs0579_73/-3175)
-- [A Practical Guide to Data Architecture: Real-World Use Cases from Lakes to Warehouses](https://dev.to/harsh9410/a-practical-guide-to-data-architecture-real-world-use-cases-from-lakes-to-warehouses-497j)
-- [The Importance of Clean Code](https://dev.to/xsoto/the-importance-of-clean-code-2ke1)
-- [Different cloud deployment models &lpar;Public, Private, Hybrid&rpar; and their use cases.](https://dev.to/oghenesuvwe/different-cloud-deployment-models-public-private-hybrid-and-their-use-cases-3k87)
+- [Bridging the ML Gap: How Java Powers Enterprise AI in Production](https://dev.to/engnelson/bridging-the-ml-gap-how-java-powers-enterprise-ai-in-production-28kp)
+- [Turning Discipline Into an App &lpar;Personal Project&rpar;](https://dev.to/ashwanidev101/turning-discipline-into-an-app-personal-project-57eh)
+- [To learn or not to learn TRITON, that is the question](https://dev.to/aviraj_bevli_3b8e3c728620/should-i-learn-triton-47b5)
+- [Common Painting Mistakes with 3D Prints &lpar;and How to Avoid Them&rpar;](https://dev.to/stewie_gilligan_/common-painting-mistakes-with-3d-prints-and-how-to-avoid-them-2ocj)
+- [A Step-by-Step Guide to Implementing a GAN with PyTorch](https://dev.to/aionlinecourse/a-step-by-step-guide-to-implementing-a-gan-with-pytorch-ij6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
