@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LASRS Login app offers secure, mobile access for Louisiana providers to manage data, reports, and compliance on the go.](https://dev.to/ghulam_murtaza_25dd49e5a9/lasrs-login-app-offers-secure-mobile-access-for-louisiana-providers-to-manage-data-reports-and-kja)
-- [🚀 Set Up Node.js Logging with Winston and OpenSearch Dashboard &lpar;Step-by-Step Guide&rpar;](https://dev.to/subham1901/set-up-nodejs-logging-with-winston-and-opensearch-dashboard-step-by-step-guide-nge)
-- [Daily JavaScript Challenge #JS-154: Currency String Parser](https://dev.to/dpc/daily-javascript-challenge-js-154-currency-string-parser-56de)
-- [Daily JavaScript Challenge #JS-153: Identify Unique Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-153-identify-unique-words-in-a-sentence-4mn1)
-- [🚀 Deploying Sonatype Nexus on AWS EC2 using Terraform](https://dev.to/himanshusinghtomar/deploying-sonatype-nexus-on-aws-ec2-using-terraform-en6)
+- [Eloquent: is an ORM too restrictive?](https://dev.to/xwero/eloquent-is-an-orm-too-restrictive-29n3)
+- [VoIP for Gaming: Low-Latency Voice Chat Solutions in 2025](https://dev.to/justin_downes/voip-for-gaming-low-latency-voice-chat-solutions-in-2025-578n)
+- [Data Fetching Patterns in React: A Comprehensive Guide](https://dev.to/prathamisonline/data-fetching-patterns-in-react-a-comprehensive-guide-olg)
+- [182/365 | ¥10M Job Challenge - Another weekend flew by](https://dev.to/kameken100/182365-y10m-job-challenge-another-weekend-flew-by-4g4k)
+- [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://dev.to/nickytonline/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
