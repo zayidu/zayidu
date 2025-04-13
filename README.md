@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔨 #Soyut-Fabrika &lpar;Abstract Factory&rpar;](https://dev.to/mustafasamedyeyin/soyut-fabrika-abstract-factory-2g9)
-- [🚀 Getting Started with Bicep: The Friendly Way to Deploy Azure Infrastructure](https://dev.to/1suleyman/getting-started-with-bicep-the-friendly-way-to-deploy-azure-infrastructure-5163)
-- [💻 Exercise 03: Refactoring with Bicep Modules – Making Your Templates Cleaner &amp; Smarter](https://dev.to/1suleyman/exercise-03-refactoring-with-bicep-modules-making-your-templates-cleaner-smarter-loc)
-- [Building CareerAgent: An AI-Powered Job Search Assistant with LangChain and Gemini](https://dev.to/sharmachaitanya945/building-careeragent-an-ai-powered-job-search-assistant-with-langchain-and-gemini-319i)
-- [Is AI Safety Keeping Up with AI Progress?](https://dev.to/djleamen/is-ai-safety-keeping-up-with-ai-progress-1cm2)
+- [Secure Contexts and Origin Isolation](https://dev.to/omriluz1/secure-contexts-and-origin-isolation-55ma)
+- [[Boost]](https://dev.to/yapapulla/-3835)
+- [Monitoring AWS Data Lakes with Datadog and Alerting to Microsoft Teams](https://dev.to/rkapoor19/monitoring-aws-data-lakes-with-datadog-and-alerting-to-microsoft-teams-3fe7)
+- [Got 5 Minutes? Let&#39;s Talk HTML &lpar;Part 2&rpar;](https://dev.to/type_z_code/got-5-minutes-lets-talk-html-part-2-384o)
+- [Got 5 Minutes? Let&#39;s Talk HTML &lpar;Part 2&rpar;](https://dev.to/type_z_code/got-5-minutes-lets-talk-html-part-2-43hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
