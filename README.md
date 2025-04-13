@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 HTML Features You’re Not Using &lpar;But Should Use&rpar; ✅](https://dev.to/joodi/5-html-features-youre-not-using-but-should-use-3a02)
-- [How to Set Up a Local WordPress Site with XAMPP in 3 Easy Steps](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-set-up-a-local-wordpress-site-with-xampp-in-3-easy-steps-1l48)
-- [Monthly Budget Planner vs. Weekly Budget: What’s Right for You?](https://dev.to/viktoriiasmith/monthly-budget-planner-vs-weekly-budget-whats-right-for-you-10li)
-- [How to Disable Comments on WordPress: 7 Methods to Take Control](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-disable-comments-on-wordpress-7-methods-to-take-control-8fg)
-- [How to Blur an Image for Focus, Privacy, or Artistic Style](https://dev.to/smartdev72/how-to-blur-an-image-for-focus-privacy-or-artistic-style-i87)
+- [Exploring the Security Implications of AI-Powered Deepfakes](https://dev.to/kartikmehta8/exploring-the-security-implications-of-ai-powered-deepfakes-28mg)
+- [From Strategy to Execution : Leveraging SIRI for Digital Transformation](https://dev.to/leanwitho3aii/from-strategy-to-execution-leveraging-siri-for-digital-transformation-3ccc)
+- [Harness vs Spinnaker: The Future of Continuous Deployment Tools](https://dev.to/yash_sonawane25/harness-vs-spinnaker-the-future-of-continuous-deployment-tools-3nka)
+- [Jika style CSS kamu tidak diterapkan oleh browser, maka besar kemungkinan masalah kamu di CSS Specificity](https://dev.to/sejutaimpian/jika-style-css-kamu-tidak-diterapkan-oleh-browser-maka-besar-kemungkinan-masalah-kamu-di-css-3hp9)
+- [Escape Analysis in Go: Stack vs Heap Allocation Explained](https://dev.to/abstractmusa/escape-analysis-in-go-stack-vs-heap-allocation-explained-506a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
