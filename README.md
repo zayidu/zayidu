@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Superintelligent AI &lpar;ASI&rpar; going far, but staying logical](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligent-ai-asi-going-far-but-staying-logical-5bkg)
-- [Practical awk Commands Every Tech Pro Should Know](https://dev.to/axisinfo_0a61830e06c3c950/practical-awk-commands-every-tech-pro-should-know-53d4)
-- [Choosing a Front-End for .NET Development](https://dev.to/syawqy/choosing-a-front-end-for-net-development-updated-with-examples-3c5m)
-- [Create Viral 3D action figure packaging box with GPT.](https://dev.to/dishank/create-viral-3d-action-figure-packaging-box-with-gpt-5b31)
-- [Frontend experience in 30 seconds — things I wish I knew earlier](https://dev.to/mushfiqbh/frontend-experience-in-30-seconds-things-i-wish-i-knew-earlier-2b6g)
+- [Firework Simulator v2](https://dev.to/tran_minhbinh_9681e9d6e1/firework-simulator-v2-16jj)
+- [A beginner&#39;s guide to the Grounding-Dino model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grounding-dino-model-by-adirik-on-replicate-1hgg)
+- [AI Fact-Checks Itself: Detects Hallucinated Concepts in Chatbots](https://dev.to/aimodels-fyi/ai-fact-checks-itself-detects-hallucinated-concepts-in-chatbots-1n13)
+- [RL Beats Randomness: Dual-Critic PPO for Unpredictable Worlds](https://dev.to/aimodels-fyi/rl-beats-randomness-dual-critic-ppo-for-unpredictable-worlds-d2h)
+- [Clinical ModernBERT: Faster, Smaller AI Reads 16-Page Medical Docs](https://dev.to/aimodels-fyi/clinical-modernbert-faster-smaller-ai-reads-16-page-medical-docs-1n2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
