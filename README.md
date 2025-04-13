@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode 3 —— Event System: From Emitters to Disposables](https://dev.to/kurt_harris_c64a57d4a680d/vscode-3-event-system-from-emitters-to-disposables-3292)
-- [Exploring Monetization Strategies in the Tech Content Landscape](https://dev.to/supreme_c94d2e21f71444c89/exploring-monetization-strategies-in-the-tech-content-landscape-2df9)
-- [VSCode 2 —— Workbench Contributions System: four phases](https://dev.to/kurt_harris_c64a57d4a680d/vscode-2-workbench-contributions-system-four-phases-2f5o)
-- [VSCode 1 —— Dependency Injection&lpar;DI&rpar; System](https://dev.to/kurt_harris_c64a57d4a680d/vscode-1-dependency-injectiondi-system-1f95)
-- [Let&#39;s Build a Telegram Mini App Together: Your Ideas + My Code = Open-Source Project](https://dev.to/straystreyk/lets-build-a-telegram-mini-app-together-your-ideas-my-code-open-source-project-2knc)
+- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
+- [Cosmetic vs. Functional Goals: Preparing for Diverse Rhinoplasty Outcomes with Plastic Surgeons including Dr Reish](https://dev.to/richardreish/cosmetic-vs-functional-goals-preparing-for-diverse-rhinoplasty-outcomes-with-plastic-surgeons-2gae)
+- [A Minimal Static Blog Generator in Purescript - My Notes and Code Walkthrough](https://dev.to/druchan/a-minimal-static-blog-generator-in-purescript-my-notes-and-code-walkthrough-f4j)
+- [Cara Uninstall dan Install Ulang WSL di Windows](https://dev.to/ryfazrin/cara-uninstall-dan-install-ulang-wsl-di-windows-59p0)
+- [Convert a batch of images into Ghibli style using ChatGPT and macOS Automator](https://dev.to/kopiro/process-bunch-of-pictures-into-ghibli-style-using-chatgpt-and-macos-automator-4a37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
