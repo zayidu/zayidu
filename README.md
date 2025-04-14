@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose the Right Hair Products for Your Hair Type](https://dev.to/melissahankins/how-to-choose-the-right-hair-products-for-your-hair-type-4g2f)
-- [am happy to be a member of this community](https://dev.to/salam081/am-happy-to-be-a-member-of-this-community-2536)
-- [The Reality of Code Quality: Is Perfection More Important Than Progress?](https://dev.to/aneeqakhan/the-reality-of-code-quality-is-perfection-more-important-than-progress-3mh5)
-- [Cloud 101: A No-Fluff Guide to AWS Concepts That Matter](https://dev.to/aws-builders/cloud-101-a-no-fluff-guide-to-aws-concepts-that-matter-35n7)
-- [Understanding JSON Web Tokens &lpar;JWT&rpar; in JavaScript](https://dev.to/omriluz1/understanding-json-web-tokens-jwt-in-javascript-12je)
+- [Deep Dive on Phonetic vs Semantic Search](https://dev.to/hrushi_yadav/deep-dive-on-phonetic-vs-semantic-search-4j6h)
+- [Linux Kernel Source Tree Explained : Everything You Need to Know](https://dev.to/darshan_rathod_dev/anatomy-of-the-linux-kernel-source-tree-3hnb)
+- [Which One Offers Better Performance For our Needs: A 4 GB RAM VPS or a 6GB RAM VPS?](https://dev.to/ankit_mathur_dun/which-one-offers-better-performance-for-our-needs-a-4-gb-ram-vps-or-a-6gb-ram-vps-6lm)
+- [Why does my JavaScript code receive a &quot;No Access-Control-Allow-Origin&quot; error, while Postman does not? &lpar;Solution Explained&rpar;](https://dev.to/reynaldi/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-error-while-postman-does-2l2c)
+- [🧠 Optimizing Nested Loops in Java: A Real-World Use Case](https://dev.to/araf_injazat_1bd03c5907fa/optimizing-nested-loops-in-java-a-real-world-use-case-4bpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
