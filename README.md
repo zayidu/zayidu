@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How can you evaluate the credibility of a Ludo game developer before hiring?](https://dev.to/jamie_sugar_952598da38817/how-can-you-evaluate-the-credibility-of-a-ludo-game-developer-before-hiring-1nl9)
-- [Understanding Harbor: part 1 – Proxy Cache](https://dev.to/aurelievache/understanding-harbor-part-1-proxy-cache-3dcb)
-- [10 Key Things to Know About Audio Live Streaming in 2025](https://dev.to/livestreaming/10-key-things-to-know-about-audio-live-streaming-in-2025-e0j)
-- [Introduction to Apache Spark for Data Engineering](https://dev.to/amin12905/introduction-to-apache-spark-for-data-engineering-3fmh)
-- [TDD у Python](https://dev.to/gr555/tdd-u-python-2494)
+- [Why Businesses Need to Migrate to a New ERP System](https://dev.to/bhavesh_gangani_/why-businesses-need-to-migrate-to-a-new-erp-system-n6g)
+- [Understanding RAG: Retrieval Augmented Generation Essentials for AI Projects ✅](https://dev.to/apideck/understanding-rag-retrieval-augmented-generation-essentials-for-ai-projects-5dpi)
+- [Introducing WhyMyWifeYell.com: The AI-Powered Scolding Simulator You Didn&#39;t Know You Needed](https://dev.to/jinhong_xie_9d5838262e037/introducing-whymywifeyellcom-the-ai-powered-scolding-simulator-you-didnt-know-you-needed-4gi8)
+- [Symfony Station Communiqué - 11 April 2025 - A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-11-april-2025-a-look-at-symfony-drupal-php-and-other-programming-1gli)
+- [Hosting Bot – Deploy Websites &amp; D-Apps via Telegram &lpar;for ~$1&rpar;](https://dev.to/nigar_safarova_25624a8d34/hosting-bot-deploy-websites-d-apps-via-telegram-for-1-31h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
