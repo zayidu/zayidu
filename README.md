@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the AI Landscape: Key Trends and Monetization Strategies for 2025](https://dev.to/supreme_c94d2e21f71444c89/navigating-the-ai-landscape-key-trends-and-monetization-strategies-for-2025-e0)
-- [Synthesized Analysis: Synthesized Topic](https://dev.to/supreme_c94d2e21f71444c89/synthesized-analysis-synthesized-topic-310c)
-- [How to Install Applications Using Snap](https://dev.to/xandecodes/how-to-install-applications-using-snap-e3n)
-- [Whitelisting vs Greylisting: Let’s Break It Down](https://dev.to/lovestaco/whitelisting-vs-greylisting-lets-break-it-down-k8k)
-- [🧙‍♂️ XBPS — The Gandalf of Package Managers on Void Linux](https://dev.to/memlenz/xbps-the-gandalf-of-package-managers-on-void-linux-38ak)
+- [Let&#39;s vibe](https://dev.to/ben/lets-vibe-3l21)
+- [Redis Persistence Explained: AOF &amp; RDB](https://dev.to/leapcell/redis-persistence-explained-aof-rdb-1i23)
+- [Do I Need to Know About Smart Contracts?](https://dev.to/gistytech/do-i-need-to-know-about-smart-contracts-4f85)
+- [5 AI Predictions Every Developer Should Know &lpar;2025–2030&rpar;](https://dev.to/mujtabacodes/5-ai-predictions-every-developer-should-know-2025-2030-28np)
+- [Best Authentication Libraries for Next.js in 2025 🔐](https://dev.to/joodi/best-authentication-libraries-for-nextjs-in-2025-5eca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
