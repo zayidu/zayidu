@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектура веб-приложений: от монолита до микросервисов](https://dev.to/bogdannovotarskij/arkhitiektura-vieb-prilozhienii-ot-monolita-do-mikrosiervisov-nid)
-- [🥳 We built the cli of our dreams to send sms ❣️](https://dev.to/optnc/we-built-the-cli-of-our-dreams-to-send-sms-3c7m)
-- [উন্নত কোডিং ও দীর্ঘ কনটেক্সট বোঝার সক্ষমতাসহ ওপেনএআই নতুন জিপিটি-৪.১ মডেল উন্মোচন করেছে](https://dev.to/rironib/openeaai-ntun-jipitti-41-mddel-unmocn-kreche-unnt-koddin-o-diirgh-prsngg-bojhaar-kssmtaa-niye-374f)
-- [PayPal Releases Agentic Toolkit to Accelerate Commerce](https://dev.to/paypaldeveloper/paypal-releases-agentic-toolkit-to-accelerate-commerce-2286)
-- [Web Vitals and SPAs: How to Meet Google&#39;s Standards Step-by-Step](https://dev.to/karen_londres/web-vitals-and-spas-how-to-meet-googles-standards-step-by-step-3j97)
+- [AWS Fargate: Execute Contêineres Sem Se preocupar com Servidores](https://dev.to/andersoncode66/aws-fargate-execute-conteineres-sem-se-preocupar-com-servidores-36bk)
+- [Integração do Brighter com AWS SNS/SQS: Guia Prático](https://dev.to/actor-dev/integracao-do-brighter-com-aws-snssqs-guia-pratico-5bj9)
+- [What is a service mesh? Discover the key functionalities, pros and cons of modern service mesh technologies [6 min read] 🚀](https://dev.to/lorenzo_tettamanti/what-is-a-service-mesh-discover-the-key-functionalities-pros-and-cons-of-modern-service-mesh-599f)
+- [What Is The Ship Of Theseus In Software Development?](https://dev.to/maria_manolova_9f0bb55f6a/what-is-the-ship-of-theseus-in-software-development-50d0)
+- [ansa-fs](https://dev.to/davitacols/ansa-fs-4gja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
