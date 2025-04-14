@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Game development for frontend: Building with Excalibur.js](https://dev.to/logrocket/game-development-for-frontend-building-with-excaliburjs-1hl3)
-- [We love to see it: A look at AR](https://dev.to/steviepee/we-love-to-see-it-a-look-at-ar-29o4)
-- [Understanding AI Engineering: Bridging the Gap Between AI and Software Development](https://dev.to/thi_le_26e54b136ffaa84ad1/understanding-ai-engineering-bridging-the-gap-between-ai-and-software-development-3lcc)
-- [Exploring Large Language Models: Transforming the Future of AI](https://dev.to/thi_le_26e54b136ffaa84ad1/exploring-large-language-models-transforming-the-future-of-ai-4be5)
-- [Unlocking the Potential of Large Language Models](https://dev.to/thi_le_26e54b136ffaa84ad1/unlocking-the-potential-of-large-language-models-112e)
+- [Celebrating World Quantum Day: Advancing Quantum State Tomography with Physics-Informed Neural Networks](https://dev.to/darkstalker/celebrating-world-quantum-day-advancing-quantum-state-tomography-with-physics-informed-neural-3ode)
+- [Turning Real Problems into Ideas For A Tech Startup: A Developer&#39;s Perspective](https://dev.to/olivia_innovation/turning-real-problems-into-ideas-for-a-tech-startup-a-developers-perspective-5gba)
+- [Tired of `kubectl port-forward`? Simplify Kubernetes Local Dev with kforward!](https://dev.to/sanspareilsmyn/tired-of-kubectl-port-forward-simplify-kubernetes-local-dev-with-kforward-36ka)
+- [Make Beautiful Art for Your Game even If you suck at It!](https://dev.to/blacckmangoo/make-beautiful-art-for-your-game-even-if-you-suck-at-it-dg)
+- [Tailwind CSS with Air and GO: No Node, No Problem.](https://dev.to/getjv/tailwind-css-with-air-and-go-no-node-no-problem-3j92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
