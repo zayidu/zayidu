@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux in Action - File Structure Hierarchy and Its Role in Modern Business](https://dev.to/dhavalthakar97/linux-in-action-file-structure-hierarchy-and-its-role-in-modern-business-4a27)
-- [The World Was Built on Broken English](https://dev.to/norbs/the-world-was-built-on-broken-english-53i1)
-- [Find Any Web Element with Just One Sentence — talk2dom](https://dev.to/feng_jian_f8d0a9834be/find-any-web-element-with-just-one-sentence-talk2dom-nf5)
-- [Editing RakuDoc, CRO&#39;ing it to Github](https://dev.to/finanalyst/editing-rakudoc-croing-it-to-github-1507)
-- [You don&#39;t need a Builder in Scala](https://dev.to/eronalves1996/you-dont-need-a-builder-in-scala-kp9)
+- [Архитектура веб-приложений: от монолита до микросервисов](https://dev.to/bogdannovotarskij/arkhitiektura-vieb-prilozhienii-ot-monolita-do-mikrosiervisov-nid)
+- [🥳 We built the cli of our dreams to send sms ❣️](https://dev.to/optnc/we-built-the-cli-of-our-dreams-to-send-sms-3c7m)
+- [উন্নত কোডিং ও দীর্ঘ কনটেক্সট বোঝার সক্ষমতাসহ ওপেনএআই নতুন জিপিটি-৪.১ মডেল উন্মোচন করেছে](https://dev.to/rironib/openeaai-ntun-jipitti-41-mddel-unmocn-kreche-unnt-koddin-o-diirgh-prsngg-bojhaar-kssmtaa-niye-374f)
+- [PayPal Releases Agentic Toolkit to Accelerate Commerce](https://dev.to/paypaldeveloper/paypal-releases-agentic-toolkit-to-accelerate-commerce-2286)
+- [Web Vitals and SPAs: How to Meet Google&#39;s Standards Step-by-Step](https://dev.to/karen_londres/web-vitals-and-spas-how-to-meet-googles-standards-step-by-step-3j97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
