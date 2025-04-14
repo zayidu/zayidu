@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GemCity TECH Mini-Conference](https://dev.to/rfornal/gemcity-tech-mini-conference-23i8)
-- [My Journey into Gaming &amp; Game Development](https://dev.to/ava_grace_23e4b562233dfdd/my-journey-into-gaming-game-development-171e)
-- [React Checklist: 9 Tips to Avoid Bugs 🐞](https://dev.to/joodi/react-checklist-9-tips-to-avoid-bugs-5979)
-- [Adieus Amigo – This is Skype, Signing Off!](https://dev.to/winsides/adieus-amigo-this-is-skype-signing-off-1187)
-- [Chuck Norris glanced at a computer screen and this API was made.](https://dev.to/senken18/chuck-norris-glanced-at-a-computer-screen-and-this-api-was-made-2agl)
+- [Navigating the AI Landscape: Key Trends and Monetization Strategies for 2025](https://dev.to/supreme_c94d2e21f71444c89/navigating-the-ai-landscape-key-trends-and-monetization-strategies-for-2025-e0)
+- [Synthesized Analysis: Synthesized Topic](https://dev.to/supreme_c94d2e21f71444c89/synthesized-analysis-synthesized-topic-310c)
+- [How to Install Applications Using Snap](https://dev.to/xandecodes/how-to-install-applications-using-snap-e3n)
+- [Whitelisting vs Greylisting: Let’s Break It Down](https://dev.to/lovestaco/whitelisting-vs-greylisting-lets-break-it-down-k8k)
+- [🧙‍♂️ XBPS — The Gandalf of Package Managers on Void Linux](https://dev.to/memlenz/xbps-the-gandalf-of-package-managers-on-void-linux-38ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
