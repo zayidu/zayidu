@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [web3](https://dev.to/poland_silvia/web3-1002)
-- [A Beginner&#39;s Guide to WordPress Plugins: How to Use, Install, and Manage Them](https://dev.to/minima_desk_cd9b151c4e2fb/a-beginners-guide-to-wordpress-plugins-how-to-use-install-and-manage-them-2ob1)
-- [How to Change Your Domain Name in WordPress: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-your-domain-name-in-wordpress-a-step-by-step-guide-2cb1)
-- [Building a Nodejs API using the Twelve-Factor App Principles](https://dev.to/dipe_/building-a-nodejs-api-using-the-twelve-factor-app-principles-1jd7)
-- [The Best CMS Platforms of 2025: Choosing the Right Content Management System](https://dev.to/minima_desk_cd9b151c4e2fb/the-best-cms-platforms-of-2025-choosing-the-right-content-management-system-6om)
+- [Automate Your EC2 Setup Using AWS CLI and User Data](https://dev.to/youngtech/automate-your-ec2-setup-using-aws-cli-and-user-data-3n84)
+- [Exploring Babywearing Safety: Guidelines for Using Carriers and Slings with Your Newborn](https://dev.to/marlenejunker01/exploring-babywearing-safety-guidelines-for-using-carriers-and-slings-with-your-newborn-3kmg)
+- [PHP 2FA Implementation](https://dev.to/asakpke/php-2fa-implementation-2hhc)
+- [Developing AI-Powered UI/UX Design Systems](https://dev.to/kartikmehta8/developing-ai-powered-uiux-design-systems-njn)
+- [How I Built a TUI Without Leaving the Terminal](https://dev.to/samay15jan/how-i-built-a-tui-without-leaving-the-terminal-1g0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
