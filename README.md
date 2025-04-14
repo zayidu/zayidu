@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Transformation at Citizen Industries, Daikin Group](https://dev.to/tylermorganaqe/digital-transformation-at-citizen-industries-daikin-group-4f8p)
-- [I Built a Productivity-First Inbox – Here&#39;s Why &lpar;and How&rpar;](https://dev.to/navaneethvijay/i-built-a-productivity-first-inbox-heres-why-and-how-32gg)
-- [Do You Know How It Works? — JavaScript Factory Functions](https://dev.to/matheusjulidori/do-you-know-how-it-works-javascript-factory-functions-4fh4)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5922)
-- [[Boost]](https://dev.to/nelsongei/-2k7p)
+- [Game development for frontend: Building with Excalibur.js](https://dev.to/logrocket/game-development-for-frontend-building-with-excaliburjs-1hl3)
+- [We love to see it: A look at AR](https://dev.to/steviepee/we-love-to-see-it-a-look-at-ar-29o4)
+- [Understanding AI Engineering: Bridging the Gap Between AI and Software Development](https://dev.to/thi_le_26e54b136ffaa84ad1/understanding-ai-engineering-bridging-the-gap-between-ai-and-software-development-3lcc)
+- [Exploring Large Language Models: Transforming the Future of AI](https://dev.to/thi_le_26e54b136ffaa84ad1/exploring-large-language-models-transforming-the-future-of-ai-4be5)
+- [Unlocking the Potential of Large Language Models](https://dev.to/thi_le_26e54b136ffaa84ad1/unlocking-the-potential-of-large-language-models-112e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
