@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get the Records after and before the Searched One — From SQL to SPL #18](https://dev.to/judith677/get-the-records-after-and-before-the-searched-one-from-sql-to-spl-18-5f22)
-- [Redis Delayed Queue: Explained Once and for All](https://dev.to/leapcell/redis-delayed-queue-explained-once-and-for-all-51o8)
-- [Cloud-Native Security: How to Secure Kubernetes &amp; Serverless Apps](https://dev.to/yash_sonawane25/cloud-native-security-how-to-secure-kubernetes-serverless-apps-4fp6)
-- [From Confused to Confident: How Vim Made Me Better in Cloud &amp; DevOps](https://dev.to/dtemi/from-confused-to-confident-how-vim-made-me-better-in-cloud-devops-17jk)
-- [10 Best Wiki Plugins for WordPress &lpar;2025 Guide&rpar;](https://dev.to/minima_desk_cd9b151c4e2fb/10-best-wiki-plugins-for-wordpress-2025-guide-3241)
+- [generateUUID&lpar;&rpar; util in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/generateuuid-util-in-vercelai-chatbot-source-code-96p)
+- [🔍 Breadth-First Search &lpar;BFS&rpar; Algorithm](https://dev.to/khushi2488/breadth-first-search-bfs-algorithm-3lmh)
+- [🐱 Class trong JavaScript – Tập 1: Khi lập trình cũng cần &quot;thần thái&quot;](https://dev.to/duythenight/class-trong-javascript-tap-1-khi-lap-trinh-cung-can-than-thai-3blm)
+- [I&#39;m developing a new note app. It&#39;s in testing now. Come try it!🚀](https://dev.to/nextjser/im-developing-a-new-note-app-its-in-testing-now-come-try-it-16ia)
+- [Exploring Monetization Strategies for Video Content in AI, Machine Learning, and Data Science](https://dev.to/supreme_c94d2e21f71444c89/exploring-monetization-strategies-for-video-content-in-ai-machine-learning-and-data-science-fha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
