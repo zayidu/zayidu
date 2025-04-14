@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Check: Securing AI-Generated Code Using MCP](https://dev.to/semgrep/vibe-check-securing-ai-generated-code-using-mcp-4d9n)
-- [Simplifying Design Patterns : Singleton](https://dev.to/bccaxias/simplifying-design-patterns-singleton-13ji)
-- [How to Use AI to Quickly Analyze CSV Data &amp; Get Insights](https://dev.to/astrodevil/how-to-use-ai-to-quickly-analyze-csv-data-get-insights-2npm)
-- [AI Will Take My Job, But Not Today](https://dev.to/protsenko/ai-will-take-my-job-but-not-today-3nae)
-- [5 AI Tools Every Developer Needs to Be a Pro Vibe Coder ⚡⚡⚡](https://dev.to/taradepan/5-ai-tools-every-developer-needs-to-be-a-pro-vibe-coder-444)
+- [GemCity TECH Mini-Conference](https://dev.to/rfornal/gemcity-tech-mini-conference-23i8)
+- [My Journey into Gaming &amp; Game Development](https://dev.to/ava_grace_23e4b562233dfdd/my-journey-into-gaming-game-development-171e)
+- [React Checklist: 9 Tips to Avoid Bugs 🐞](https://dev.to/joodi/react-checklist-9-tips-to-avoid-bugs-5979)
+- [Adieus Amigo – This is Skype, Signing Off!](https://dev.to/winsides/adieus-amigo-this-is-skype-signing-off-1187)
+- [Chuck Norris glanced at a computer screen and this API was made.](https://dev.to/senken18/chuck-norris-glanced-at-a-computer-screen-and-this-api-was-made-2agl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
