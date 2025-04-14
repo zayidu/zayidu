@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Web Performance With HTTP/2 Server Push and Caching Strategies](https://dev.to/hexshift/optimizing-web-performance-with-http2-server-push-and-caching-strategies-542b)
-- [Dica Rápida: Ganhando desempenho com o modificador Sealed](https://dev.to/wsantosdev/dica-rapida-ganhando-desempenho-com-o-modificador-sealed-2n4l)
-- [Composant Table avec RiotJS](https://dev.to/steeve/composant-table-avec-riotjs-3807)
-- [Automating VMware Tools Upgrades with PowerShell and N-Central](https://dev.to/aroshw/automating-vmware-tools-upgrades-with-powershell-and-n-central-5e7l)
-- [How Time Series Forecasting Helps Businesses Plan Smarter](https://dev.to/sadik_shaikh/how-time-series-forecasting-helps-businesses-plan-smarter-4gg9)
+- [Digital Transformation at Citizen Industries, Daikin Group](https://dev.to/tylermorganaqe/digital-transformation-at-citizen-industries-daikin-group-4f8p)
+- [I Built a Productivity-First Inbox – Here&#39;s Why &lpar;and How&rpar;](https://dev.to/navaneethvijay/i-built-a-productivity-first-inbox-heres-why-and-how-32gg)
+- [Do You Know How It Works? — JavaScript Factory Functions](https://dev.to/matheusjulidori/do-you-know-how-it-works-javascript-factory-functions-4fh4)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5922)
+- [[Boost]](https://dev.to/nelsongei/-2k7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
