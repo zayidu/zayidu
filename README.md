@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proton: Pluggable SSR + DOM | Or How I implemented better SSR from scratch](https://dev.to/framemuse/proton-pluggable-ssr-dom-or-how-i-implemented-better-ssr-from-scratch-4hl8)
-- [How to book AWS exam from Pakistan](https://dev.to/shameel/how-to-book-aws-exam-from-pakistan-4b0h)
-- [Retrieval Technique Series-1.Linear Structure Retrieval](https://dev.to/yaruyng/retrieval-technique-series-1linear-structure-retrieval-8k3)
-- [Generative AI for Climate Change: Can AI Help Save the Planet?](https://dev.to/levitation_infotech/generative-ai-for-climate-change-can-ai-help-save-the-planet-30a4)
-- [A Developer’s Guide to Circuit Breakers: Protect Your Service from Failure](https://dev.to/brilianfird/a-developers-guide-to-circuit-breakers-protect-your-service-from-failure-5bf8)
+- [Three practical ways to create a database in MySQL](https://dev.to/dbvismarketing/three-practical-ways-to-create-a-database-in-mysql-26hh)
+- [Apple M1+ web developers are cheating. You should do that, too](https://dev.to/dariomannu/apple-m1-web-developers-are-cheating-you-should-do-that-too-cof)
+- [Using the Options pattern with .NET Aspire](https://dev.to/samvanhoutte/using-the-options-pattern-with-net-aspire-hjl)
+- [🐾 Class trong JavaScript – Tập 3: Gọi cha, test dòng dõi và trị `this` phản chủ](https://dev.to/duythenight/class-trong-js-tap-3-goi-cha-test-dong-doi-va-tri-this-phan-chu-g8m)
+- [Cloud Ransomware: Prevention &amp; Recovery Strategies](https://dev.to/shashank_kumar_19ef36c198/cloud-ransomware-prevention-recovery-strategies-i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
