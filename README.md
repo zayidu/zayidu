@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your EC2 Setup Using AWS CLI and User Data](https://dev.to/youngtech/automate-your-ec2-setup-using-aws-cli-and-user-data-3n84)
-- [Exploring Babywearing Safety: Guidelines for Using Carriers and Slings with Your Newborn](https://dev.to/marlenejunker01/exploring-babywearing-safety-guidelines-for-using-carriers-and-slings-with-your-newborn-3kmg)
-- [PHP 2FA Implementation](https://dev.to/asakpke/php-2fa-implementation-2hhc)
-- [Developing AI-Powered UI/UX Design Systems](https://dev.to/kartikmehta8/developing-ai-powered-uiux-design-systems-njn)
-- [How I Built a TUI Without Leaving the Terminal](https://dev.to/samay15jan/how-i-built-a-tui-without-leaving-the-terminal-1g0e)
+- [Get the Records after and before the Searched One — From SQL to SPL #18](https://dev.to/judith677/get-the-records-after-and-before-the-searched-one-from-sql-to-spl-18-5f22)
+- [Redis Delayed Queue: Explained Once and for All](https://dev.to/leapcell/redis-delayed-queue-explained-once-and-for-all-51o8)
+- [Cloud-Native Security: How to Secure Kubernetes &amp; Serverless Apps](https://dev.to/yash_sonawane25/cloud-native-security-how-to-secure-kubernetes-serverless-apps-4fp6)
+- [From Confused to Confident: How Vim Made Me Better in Cloud &amp; DevOps](https://dev.to/dtemi/from-confused-to-confident-how-vim-made-me-better-in-cloud-devops-17jk)
+- [10 Best Wiki Plugins for WordPress &lpar;2025 Guide&rpar;](https://dev.to/minima_desk_cd9b151c4e2fb/10-best-wiki-plugins-for-wordpress-2025-guide-3241)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
