@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive on Phonetic vs Semantic Search](https://dev.to/hrushi_yadav/deep-dive-on-phonetic-vs-semantic-search-4j6h)
-- [Linux Kernel Source Tree Explained : Everything You Need to Know](https://dev.to/darshan_rathod_dev/anatomy-of-the-linux-kernel-source-tree-3hnb)
-- [Which One Offers Better Performance For our Needs: A 4 GB RAM VPS or a 6GB RAM VPS?](https://dev.to/ankit_mathur_dun/which-one-offers-better-performance-for-our-needs-a-4-gb-ram-vps-or-a-6gb-ram-vps-6lm)
-- [Why does my JavaScript code receive a &quot;No Access-Control-Allow-Origin&quot; error, while Postman does not? &lpar;Solution Explained&rpar;](https://dev.to/reynaldi/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-error-while-postman-does-2l2c)
-- [🧠 Optimizing Nested Loops in Java: A Real-World Use Case](https://dev.to/araf_injazat_1bd03c5907fa/optimizing-nested-loops-in-java-a-real-world-use-case-4bpe)
+- [How can you evaluate the credibility of a Ludo game developer before hiring?](https://dev.to/jamie_sugar_952598da38817/how-can-you-evaluate-the-credibility-of-a-ludo-game-developer-before-hiring-1nl9)
+- [Understanding Harbor: part 1 – Proxy Cache](https://dev.to/aurelievache/understanding-harbor-part-1-proxy-cache-3dcb)
+- [10 Key Things to Know About Audio Live Streaming in 2025](https://dev.to/livestreaming/10-key-things-to-know-about-audio-live-streaming-in-2025-e0j)
+- [Introduction to Apache Spark for Data Engineering](https://dev.to/amin12905/introduction-to-apache-spark-for-data-engineering-3fmh)
+- [TDD у Python](https://dev.to/gr555/tdd-u-python-2494)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
