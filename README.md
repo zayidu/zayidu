@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s vibe](https://dev.to/ben/lets-vibe-3l21)
-- [Redis Persistence Explained: AOF &amp; RDB](https://dev.to/leapcell/redis-persistence-explained-aof-rdb-1i23)
-- [Do I Need to Know About Smart Contracts?](https://dev.to/gistytech/do-i-need-to-know-about-smart-contracts-4f85)
-- [5 AI Predictions Every Developer Should Know &lpar;2025–2030&rpar;](https://dev.to/mujtabacodes/5-ai-predictions-every-developer-should-know-2025-2030-28np)
-- [Best Authentication Libraries for Next.js in 2025 🔐](https://dev.to/joodi/best-authentication-libraries-for-nextjs-in-2025-5eca)
+- [Linux in Action - File Structure Hierarchy and Its Role in Modern Business](https://dev.to/dhavalthakar97/linux-in-action-file-structure-hierarchy-and-its-role-in-modern-business-4a27)
+- [The World Was Built on Broken English](https://dev.to/norbs/the-world-was-built-on-broken-english-53i1)
+- [Find Any Web Element with Just One Sentence — talk2dom](https://dev.to/feng_jian_f8d0a9834be/find-any-web-element-with-just-one-sentence-talk2dom-nf5)
+- [Editing RakuDoc, CRO&#39;ing it to Github](https://dev.to/finanalyst/editing-rakudoc-croing-it-to-github-1507)
+- [You don&#39;t need a Builder in Scala](https://dev.to/eronalves1996/you-dont-need-a-builder-in-scala-kp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
