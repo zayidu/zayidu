@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating World Quantum Day: Advancing Quantum State Tomography with Physics-Informed Neural Networks](https://dev.to/darkstalker/celebrating-world-quantum-day-advancing-quantum-state-tomography-with-physics-informed-neural-3ode)
-- [Turning Real Problems into Ideas For A Tech Startup: A Developer&#39;s Perspective](https://dev.to/olivia_innovation/turning-real-problems-into-ideas-for-a-tech-startup-a-developers-perspective-5gba)
-- [Tired of `kubectl port-forward`? Simplify Kubernetes Local Dev with kforward!](https://dev.to/sanspareilsmyn/tired-of-kubectl-port-forward-simplify-kubernetes-local-dev-with-kforward-36ka)
-- [Make Beautiful Art for Your Game even If you suck at It!](https://dev.to/blacckmangoo/make-beautiful-art-for-your-game-even-if-you-suck-at-it-dg)
-- [Tailwind CSS with Air and GO: No Node, No Problem.](https://dev.to/getjv/tailwind-css-with-air-and-go-no-node-no-problem-3j92)
+- [GitHub Autodetection Comes to Greening](https://dev.to/chrisgreening/github-autodetection-comes-to-greening-1l3p)
+- [20 React One-Liners to Save You Hours ⏳](https://dev.to/joodi/20-react-one-liners-to-save-you-hours-4lf1)
+- [🔍 From Data to Decisions: Understanding Binary Search Trees in JavaScript](https://dev.to/rakeshreddy512/from-data-to-decisions-understanding-binary-search-trees-in-javascript-530e)
+- [New Job, Who Dis?](https://dev.to/blkgrlcto/new-job-who-dis-56oo)
+- [🌳 Traversing Binary Trees Like a Pro: DFS vs. BFS Explained Visually](https://dev.to/rakeshreddy512/traversing-binary-trees-like-a-pro-dfs-vs-bfs-explained-visually-3kpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
