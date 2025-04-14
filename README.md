@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three practical ways to create a database in MySQL](https://dev.to/dbvismarketing/three-practical-ways-to-create-a-database-in-mysql-26hh)
-- [Apple M1+ web developers are cheating. You should do that, too](https://dev.to/dariomannu/apple-m1-web-developers-are-cheating-you-should-do-that-too-cof)
-- [Using the Options pattern with .NET Aspire](https://dev.to/samvanhoutte/using-the-options-pattern-with-net-aspire-hjl)
-- [🐾 Class trong JavaScript – Tập 3: Gọi cha, test dòng dõi và trị `this` phản chủ](https://dev.to/duythenight/class-trong-js-tap-3-goi-cha-test-dong-doi-va-tri-this-phan-chu-g8m)
-- [Cloud Ransomware: Prevention &amp; Recovery Strategies](https://dev.to/shashank_kumar_19ef36c198/cloud-ransomware-prevention-recovery-strategies-i2l)
+- [How to Choose the Right Hair Products for Your Hair Type](https://dev.to/melissahankins/how-to-choose-the-right-hair-products-for-your-hair-type-4g2f)
+- [am happy to be a member of this community](https://dev.to/salam081/am-happy-to-be-a-member-of-this-community-2536)
+- [The Reality of Code Quality: Is Perfection More Important Than Progress?](https://dev.to/aneeqakhan/the-reality-of-code-quality-is-perfection-more-important-than-progress-3mh5)
+- [Cloud 101: A No-Fluff Guide to AWS Concepts That Matter](https://dev.to/aws-builders/cloud-101-a-no-fluff-guide-to-aws-concepts-that-matter-35n7)
+- [Understanding JSON Web Tokens &lpar;JWT&rpar; in JavaScript](https://dev.to/omriluz1/understanding-json-web-tokens-jwt-in-javascript-12je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
