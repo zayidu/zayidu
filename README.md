@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3al2)
-- [Who is Nemer Adel?](https://dev.to/techexplorer/who-is-nemer-adel-546l)
-- [I made my own open-source BAAS for small apps](https://dev.to/kiraaziz/i-made-my-own-open-source-baas-for-small-apps-261c)
-- [The Future of Workplace Productivity - AI and Automation Trends](https://dev.to/taskframe/the-future-of-workplace-productivity-ai-and-automation-trends-mgh)
-- [A 10x faster TypeScript](https://dev.to/the-modern-web/a-10x-faster-typescript-4md4)
+- [Blog Draft Ai Technologies And Monetization Strategies 20250415 232449](https://dev.to/pponali/blog-draft-ai-technologies-and-monetization-strategies-20250415-232449-4l35)
+- [Docker compose - MariaDB -- EN](https://dev.to/xandecodes/docker-compose-mariadb-en-19pl)
+- [technological upheaval](https://dev.to/yesra_sajid_90cc25b86dcda/technological-upheaval-4f09)
+- [MCP uses a client-server architecture where:](https://dev.to/yesra_sajid_90cc25b86dcda/mcp-uses-a-client-server-architecture-where-2mob)
+- [CLI ou Client oque traz mais performance e produtividade no dia a dia ?](https://dev.to/ramondiniz27/cli-ou-client-oque-traz-mais-performance-e-produtividade-no-dia-a-dia--6oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
