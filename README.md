@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dijital Akışın Mühendisliği: Developer&#39;ın Enerji Hatlarını Kurma, Akımı Yönetme ve Geleceği Aydınlatma Sanatı](https://dev.to/abdulkadir_gungor_86/dijital-akisin-muhendisligi-developerin-enerji-hatlarini-kurma-akimi-yonetme-ve-gelecegi-18a8)
-- [AWS IAM: What It Is and Why Least Privilege Isn’t Optional](https://dev.to/jereck/aws-iam-what-it-is-and-why-least-privilege-isnt-optional-e65)
-- [🚀 Introducing Syntra – Simplifying Video &amp; Audio Meetings](https://dev.to/abdrzqsalihu/introducing-syntra-simplifying-video-audio-meetings-4djl)
-- [Android notifications might become useful for productivity with this shortcuts tool](https://dev.to/erzicky/android-notifications-might-become-useful-for-productivity-with-this-shortcuts-tool-567k)
-- [Dijital Simya Sanatı: Developer&#39;ın Kod İksirlerini Yaratma, Dönüştürme ve Etik Formülleri](https://dev.to/abdulkadir_gungor_86/dijital-simya-sanati-developerin-kod-iksirlerini-yaratma-donusturme-ve-etik-formulleri-2277)
+- [🧠 Neural Processing Unit &lpar;NPU&rpar;: Pioneering the Next Frontier in AI Acceleration](https://dev.to/srijan-xi/neural-processing-unit-npu-pioneering-the-next-frontier-in-ai-acceleration-52ij)
+- [Connecting The Dots: Data Communication Methods for Micro frontends.](https://dev.to/as_abhinav/connecting-the-dots-data-communication-methods-for-micro-frontends-4b46)
+- [You want your existing MetaMask connect-wallet system to work with Anvil, the local Ethereum network from Foundry.](https://dev.to/rifat87/you-want-your-existing-metamask-connect-wallet-system-to-work-with-anvil-the-local-ethereum-39p6)
+- [Bash + Telegram: Server Monitoring and Instant Notifications](https://dev.to/_2974322d72d5f53d8c2c/bash-telegram-server-monitoring-and-instant-notifications-1ibn)
+- [Using NFS in Kubernetes – A Simple Guide to Shared Storage](https://dev.to/san_dev_65a0346580173629d/using-nfs-in-kubernetes-a-simple-guide-to-shared-storage-2n62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
