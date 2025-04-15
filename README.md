@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A tiny 1MB iOS app for spinning up local HTTP/WebDAV Servers that persist in the background](https://dev.to/ducbao414/a-tiny-1mb-ios-app-for-spinning-up-local-httpwebdav-servers-that-persist-in-the-background-2ma3)
-- [# Neo4j Tutorial: Comprehensive Guide to Neo4j Indexing](https://dev.to/mangesh28/-comprehensive-guide-to-neo4j-indexing-current-best-practices-2b48)
-- [How I Built a Travel Assistant Chat App Using GPT and Jetpack Compose](https://dev.to/kevinhui98/how-i-built-a-travel-assistant-chat-app-using-gpt-and-jetpack-compose-o7c)
-- [# Neo4j Tutorial: Mastering Variable Length Relationships and Path Algorithms](https://dev.to/mangesh28/-neo4j-tutorial-mastering-variable-length-relationships-and-path-algorithms-196m)
-- [# Neo4j Tutorial: Establishing Constraints in Graph Databases](https://dev.to/mangesh28/-neo4j-tutorial-establishing-constraints-in-graph-databases-4o46)
+- [Getting Started with Tree-sitter: Syntax Trees and Express API Parsing](https://dev.to/lovestaco/getting-started-with-tree-sitter-syntax-trees-and-express-api-parsing-5c2d)
+- [Major new Golf version is out that adds status-safety](https://dev.to/golf-lang/major-new-golf-version-is-out-that-adds-status-safety-2409)
+- [I Built a ChatGPT Clone Using Next.js &amp; OpenAI API – Here’s What Happened](https://dev.to/code_2/i-built-a-chatgpt-clone-using-nextjs-openai-api-heres-what-happened-9i8)
+- [why remix.ide create arcifacts](https://dev.to/himero/why-remixide-create-arcifacts-2ead)
+- [tool in vercel/ai package source code.](https://dev.to/ramunarasinga-11/tool-in-vercelai-package-source-code-46ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
