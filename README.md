@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-19kb)
-- [DevOps – Where Speed Meets Stability](https://dev.to/kevin_asutton_/devops-where-speed-meets-stability-348l)
-- [parallelStream&lpar;&rpar; Aninhado: Mais Concorrência, Menos Performance](https://dev.to/hugaomarques/parallelstream-aninhado-mais-concorrencia-menos-performance-1en5)
-- [AI in IT – From Smart Insights to Smarter Operations](https://dev.to/kevin_asutton_/ai-in-it-from-smart-insights-to-smarter-operations-4cf0)
-- [Observabilidade com AWS Fargate: Como Visualizar Logs de Containers no CloudWatch](https://dev.to/andersoncode66/observabilidade-com-aws-fargate-como-visualizar-logs-de-containers-no-cloudwatch-n4p)
+- [How to Use Spring&#39;s @Profile Annotation for Flexible Configurations](https://dev.to/tiuwill/how-to-use-springs-profile-annotation-for-flexible-configurations-29ao)
+- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-8ma)
+- [Mastering Common Table Expressions &lpar;CTEs&rpar; in PostgreSQL for Complex Queries](https://dev.to/hexshift/mastering-common-table-expressions-ctes-in-postgresql-for-complex-queries-5bp3)
+- [AugMix in PyTorch &lpar;8&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-8-4kgl)
+- [What Are Python Arrays and Why You Should Use Them to Handle Real-World Data?](https://dev.to/utcli-solutions/what-are-python-arrays-and-why-you-should-use-them-to-handle-real-world-data-2bai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
