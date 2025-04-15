@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Spring&#39;s @Profile Annotation for Flexible Configurations](https://dev.to/tiuwill/how-to-use-springs-profile-annotation-for-flexible-configurations-29ao)
-- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-8ma)
-- [Mastering Common Table Expressions &lpar;CTEs&rpar; in PostgreSQL for Complex Queries](https://dev.to/hexshift/mastering-common-table-expressions-ctes-in-postgresql-for-complex-queries-5bp3)
-- [AugMix in PyTorch &lpar;8&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-8-4kgl)
-- [What Are Python Arrays and Why You Should Use Them to Handle Real-World Data?](https://dev.to/utcli-solutions/what-are-python-arrays-and-why-you-should-use-them-to-handle-real-world-data-2bai)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3al2)
+- [Who is Nemer Adel?](https://dev.to/techexplorer/who-is-nemer-adel-546l)
+- [I made my own open-source BAAS for small apps](https://dev.to/kiraaziz/i-made-my-own-open-source-baas-for-small-apps-261c)
+- [The Future of Workplace Productivity - AI and Automation Trends](https://dev.to/taskframe/the-future-of-workplace-productivity-ai-and-automation-trends-mgh)
+- [A 10x faster TypeScript](https://dev.to/the-modern-web/a-10x-faster-typescript-4md4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
