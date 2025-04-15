@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Tree-sitter: Syntax Trees and Express API Parsing](https://dev.to/lovestaco/getting-started-with-tree-sitter-syntax-trees-and-express-api-parsing-5c2d)
-- [Major new Golf version is out that adds status-safety](https://dev.to/golf-lang/major-new-golf-version-is-out-that-adds-status-safety-2409)
-- [I Built a ChatGPT Clone Using Next.js &amp; OpenAI API – Here’s What Happened](https://dev.to/code_2/i-built-a-chatgpt-clone-using-nextjs-openai-api-heres-what-happened-9i8)
-- [why remix.ide create arcifacts](https://dev.to/himero/why-remixide-create-arcifacts-2ead)
-- [tool in vercel/ai package source code.](https://dev.to/ramunarasinga-11/tool-in-vercelai-package-source-code-46ek)
+- [Top Reasons Why Java is Still Relevant](https://dev.to/babita/best-reasons-why-java-is-still-relevant-17dm)
+- [How to build SER model?](https://dev.to/joepaulvilsan_7/how-to-build-ser-model-23da)
+- [Top 9 React JS Frameworks Developers Are Using in 2025](https://dev.to/brilworks/top-9-react-js-frameworks-developers-are-using-in-2025-4ff)
+- [Top 10 Icon Libraries for Next.js - 2025](https://dev.to/icons/icon-libraries-for-nextjs-1915)
+- [Application Architecture](https://dev.to/rayhan_abdullah/application-architecture-1d5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
