@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Draft Ai Technologies And Monetization Strategies 20250415 232449](https://dev.to/pponali/blog-draft-ai-technologies-and-monetization-strategies-20250415-232449-4l35)
-- [Docker compose - MariaDB -- EN](https://dev.to/xandecodes/docker-compose-mariadb-en-19pl)
-- [technological upheaval](https://dev.to/yesra_sajid_90cc25b86dcda/technological-upheaval-4f09)
-- [MCP uses a client-server architecture where:](https://dev.to/yesra_sajid_90cc25b86dcda/mcp-uses-a-client-server-architecture-where-2mob)
-- [CLI ou Client oque traz mais performance e produtividade no dia a dia ?](https://dev.to/ramondiniz27/cli-ou-client-oque-traz-mais-performance-e-produtividade-no-dia-a-dia--6oe)
+- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
+- [Why I Finally Embraced Server Components in React and You Should Too](https://dev.to/sakethkowtha/why-i-finally-embraced-server-components-in-react-and-you-should-too-4j9b)
+- [How AI is Transforming Industrial Operations: Key Insights for the Future](https://dev.to/easymaint_software_7375bc/how-ai-is-transforming-industrial-operations-key-insights-for-the-future-244c)
+- [QuickLook ile Dosyaları Açmadan Önizle](https://dev.to/eagledfc/quicklook-ile-dosyalari-acmadan-onizle-2aab)
+- [Pair Programming with Myself at 3AM: A Psychological Thriller](https://dev.to/hotfixhero/pair-programming-with-myself-at-3am-a-psychological-thriller-1om7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
