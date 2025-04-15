@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Top IMEs Depend on Organized Deposition Transcript Summaries](https://dev.to/kiaraliam/why-top-imes-depend-on-organized-deposition-transcript-summaries-li7)
-- [[Boost]](https://dev.to/dhanush___b/-2mhl)
-- [The Art of Serialization: JSON Sips Tea, Protobuf Chugs Espresso](https://dev.to/dhanush___b/the-art-of-serialization-json-sips-tea-protobuf-chugs-espresso-10pg)
-- [Progressive Web App Vs. Native App Development: What Should You Pick and Why?](https://dev.to/stevejacob45678/progressive-web-app-vs-native-app-development-what-should-you-pick-and-why-5ph)
-- [Developers should have been replaced a long time ago. 🤔](https://dev.to/ragutislt/developers-should-have-been-replaced-a-long-time-ago-49pj)
+- [Optimizing PostgreSQL Queries With Indexes: A Deep Dive](https://dev.to/hexshift/optimizing-postgresql-queries-with-indexes-a-deep-dive-3gb7)
+- [Is BCA the Right Tech Degree for You? A Developer’s Guide to the Bachelor of Computer Applications](https://dev.to/rakshasingh12/is-bca-the-right-tech-degree-for-you-a-developers-guide-to-the-bachelor-of-computer-applications-2fe6)
+- [Form I-9 Instructions for CPT &amp; OPT Students](https://dev.to/emily_e832cc7d5902e1223ee/form-i-9-instructions-for-cpt-opt-students-4529)
+- [Clean Architecture in Frontend Applications. Transaction](https://dev.to/harunou/clean-architecture-in-frontend-applications-transaction-4ma2)
+- [Hello From Newbies!](https://dev.to/melody_nwaogu_798c52c4ea6/hello-from-newbies-28ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
