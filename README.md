@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 best AI coding tools for 2025](https://dev.to/logrocket/the-10-best-ai-coding-tools-for-2025-3pbe)
-- [Yazılım Ustalığının Özü: SOLID ve Temiz Kod ile Kalıcı ve Anlaşılır Sistemler Yaratmak](https://dev.to/abdulkadir_gungor_86/yazilim-ustaliginin-ozu-solid-ve-temiz-kod-ile-kalici-ve-anlasilir-sistemler-yaratmak-15fb)
-- [Build a multi-agent RAG system with Granite locally](https://dev.to/ibmdeveloper/build-a-multi-agent-rag-system-with-granite-locally-oke)
-- [ITSM Knowledge Management: Why It&#39;s Crucial](https://dev.to/kapusto/itsm-knowledge-management-why-its-crucial-3b5e)
-- [🐳 Master Docker with Real-World Scenarios 🚀](https://dev.to/chandan_kumar8/master-docker-with-real-world-scenarios-5925)
+- [[Boost]](https://dev.to/uliyahoo/-19kb)
+- [DevOps – Where Speed Meets Stability](https://dev.to/kevin_asutton_/devops-where-speed-meets-stability-348l)
+- [parallelStream&lpar;&rpar; Aninhado: Mais Concorrência, Menos Performance](https://dev.to/hugaomarques/parallelstream-aninhado-mais-concorrencia-menos-performance-1en5)
+- [AI in IT – From Smart Insights to Smarter Operations](https://dev.to/kevin_asutton_/ai-in-it-from-smart-insights-to-smarter-operations-4cf0)
+- [Observabilidade com AWS Fargate: Como Visualizar Logs de Containers no CloudWatch](https://dev.to/andersoncode66/observabilidade-com-aws-fargate-como-visualizar-logs-de-containers-no-cloudwatch-n4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
