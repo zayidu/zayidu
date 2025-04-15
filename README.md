@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ECMAScript Proposals and the TC39 Process](https://dev.to/omriluz1/ecmascript-proposals-and-the-tc39-process-1p4k)
-- [SUA FUTURA IDE TEM ALGO INOVADOR!](https://dev.to/notmadebyahuman/sua-futura-ide-tem-algo-inovador-c35)
-- [Headless Tree is now available in Beta!](https://dev.to/lukasbach/headless-tree-is-now-available-in-beta-j62)
-- [[Research] Starting Web App in 2025: Vibe-coding, AI Agents…](https://dev.to/alesiasirotka/research-starting-web-app-in-2025-vibe-coding-ai-agents-5p8)
-- [Headless-Tree, and the Future of React-Complex-Tree](https://dev.to/lukasbach/headless-tree-and-the-future-of-react-complex-tree-33j5)
+- [Estuve a punto de crear una especie de Health Tech SAAS...](https://dev.to/paulmarclay/estuve-a-punto-de-crear-una-especie-de-health-tech-saas-4e1n)
+- [PostgreSQL JSONB Indexing Limitations with B-Tree and GIN](https://dev.to/franckpachot/postgresql-jsonb-indexing-limitations-with-b-tree-and-gin-3851)
+- [Noobies](https://dev.to/contractorx/noobies-2ign)
+- [Using GitHub Models with Semantic Kernel](https://dev.to/willvelida/using-github-models-with-semantic-kernel-2kmp)
+- [Ever Wondered How TCP Connections Work? This Visual Explains It All.](https://dev.to/shivam_nilay/ever-wondered-how-tcp-connections-work-this-visual-explains-it-all-ki6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
