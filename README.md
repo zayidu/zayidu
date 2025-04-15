@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Queries With Indexes: A Deep Dive](https://dev.to/hexshift/optimizing-postgresql-queries-with-indexes-a-deep-dive-3gb7)
-- [Is BCA the Right Tech Degree for You? A Developer’s Guide to the Bachelor of Computer Applications](https://dev.to/rakshasingh12/is-bca-the-right-tech-degree-for-you-a-developers-guide-to-the-bachelor-of-computer-applications-2fe6)
-- [Form I-9 Instructions for CPT &amp; OPT Students](https://dev.to/emily_e832cc7d5902e1223ee/form-i-9-instructions-for-cpt-opt-students-4529)
-- [Clean Architecture in Frontend Applications. Transaction](https://dev.to/harunou/clean-architecture-in-frontend-applications-transaction-4ma2)
-- [Hello From Newbies!](https://dev.to/melody_nwaogu_798c52c4ea6/hello-from-newbies-28ld)
+- [Future-proofing by design.](https://dev.to/copods/future-proofing-by-design-1jj9)
+- [Create a JavaScript-Free dismissible notification with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-dismissible-notification-with-only-tailwind-css-oap)
+- [What is Active Hours on Windows 11?](https://dev.to/winsides/what-is-active-hours-on-windows-11-eo2)
+- [Teaching AI in 2025: Why We Must Include Its Financial Reality](https://dev.to/attaullahshafiq10/teaching-ai-in-2025-why-we-must-include-its-financial-reality-139b)
+- [CloudTest Pro – Enterprise-Grade Performance and Functional Testing](https://dev.to/berthaw82414312/cloudtest-pro-enterprise-grade-performance-and-functional-testing-1bop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
