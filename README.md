@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress — How to Create a Merge Report in your Pipeline](https://dev.to/cydavid/cypress-how-to-create-a-merge-report-in-your-pipeline-3c0j)
-- [Cypress — How to Create a Merge Report in your Pipeline](https://dev.to/cydavid/cypress-how-to-create-a-merge-report-in-your-pipeline-pa8)
-- [Day 1141 : Live from Florida](https://dev.to/dwane/day-1141-live-from-florida-3f6)
-- [Mintlify vs. Readme: Comparing in 2025](https://dev.to/tiffany-mintlify/mintlify-vs-readme-comparing-in-2025-5343)
-- [HOW TO CREATE AN AZURE VIRTUAL NETWORK&lpar;VNET&rpar;](https://dev.to/odi_7fa278105e8560bb1feb8/how-to-create-an-azure-virtual-networkvnet-35om)
+- [Web Development using Off-Stack Languages&lpar;Python,Rust,..&rpar;](https://dev.to/jyo561/web-development-using-off-stack-languagespythonrust-1bd6)
+- [Business Logic vs. Application Logic in Systems Design](https://dev.to/msnmongare/business-logic-vs-application-logic-in-systems-design-17ip)
+- [Mastering PostgreSQL CTEs: Recursive Queries for Hierarchical Data](https://dev.to/hexshift/mastering-postgresql-ctes-recursive-queries-for-hierarchical-data-4ool)
+- [Advanced Full-Text Search in PostgreSQL: Beyond the Basics](https://dev.to/hexshift/advanced-full-text-search-in-postgresql-beyond-the-basics-442b)
+- [Introducing OnlyNv](https://dev.to/thecommieaxolotl/introducing-onlynv-4141)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
