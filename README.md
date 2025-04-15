@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Submariner Lighthouse: Multi-Cluster Service Discovery for Kubernetes](https://dev.to/reoring/submariner-lighthouse-multi-cluster-service-discovery-for-kubernetes-4fj7)
-- [Why Should a Flask Developer Use MongoDB?](https://dev.to/mongodb/why-should-a-flask-developer-use-mongodb-3c02)
-- [Blog Draft Top Ai Trends Transforming Software Development In 2025 20250415 162901](https://dev.to/supreme_c94d2e21f71444c89/blog-draft-top-ai-trends-transforming-software-development-in-2025-20250415-162901-1o0a)
-- [Save hours on your next project — React &amp; Node.js Secure Login Boilerplate &lpar;AuthKit&rpar;](https://dev.to/demama7/save-hours-on-your-next-project-react-nodejs-secure-login-boilerplate-authkit-2a9n)
-- [Dijital Kozmosun Yaratıcıları: Developer&#39;ın Evrenleri Tasarlama Sanatı, Evrimi ve Sorumluluğu](https://dev.to/abdulkadir_gungor_86/dijital-kozmosun-yaraticilari-developerin-evrenleri-tasarlama-sanati-evrimi-ve-sorumlulugu-5421)
+- [Dijital Akışın Mühendisliği: Developer&#39;ın Enerji Hatlarını Kurma, Akımı Yönetme ve Geleceği Aydınlatma Sanatı](https://dev.to/abdulkadir_gungor_86/dijital-akisin-muhendisligi-developerin-enerji-hatlarini-kurma-akimi-yonetme-ve-gelecegi-18a8)
+- [AWS IAM: What It Is and Why Least Privilege Isn’t Optional](https://dev.to/jereck/aws-iam-what-it-is-and-why-least-privilege-isnt-optional-e65)
+- [🚀 Introducing Syntra – Simplifying Video &amp; Audio Meetings](https://dev.to/abdrzqsalihu/introducing-syntra-simplifying-video-audio-meetings-4djl)
+- [Android notifications might become useful for productivity with this shortcuts tool](https://dev.to/erzicky/android-notifications-might-become-useful-for-productivity-with-this-shortcuts-tool-567k)
+- [Dijital Simya Sanatı: Developer&#39;ın Kod İksirlerini Yaratma, Dönüştürme ve Etik Formülleri](https://dev.to/abdulkadir_gungor_86/dijital-simya-sanati-developerin-kod-iksirlerini-yaratma-donusturme-ve-etik-formulleri-2277)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
