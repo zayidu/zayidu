@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fargate: Execute Contêineres Sem Se preocupar com Servidores](https://dev.to/andersoncode66/aws-fargate-execute-conteineres-sem-se-preocupar-com-servidores-36bk)
-- [Integração do Brighter com AWS SNS/SQS: Guia Prático](https://dev.to/actor-dev/integracao-do-brighter-com-aws-snssqs-guia-pratico-5bj9)
-- [What is a service mesh? Discover the key functionalities, pros and cons of modern service mesh technologies [6 min read] 🚀](https://dev.to/lorenzo_tettamanti/what-is-a-service-mesh-discover-the-key-functionalities-pros-and-cons-of-modern-service-mesh-599f)
-- [What Is The Ship Of Theseus In Software Development?](https://dev.to/maria_manolova_9f0bb55f6a/what-is-the-ship-of-theseus-in-software-development-50d0)
-- [ansa-fs](https://dev.to/davitacols/ansa-fs-4gja)
+- [My College Journey](https://dev.to/josh_hsiehh/college-reflection-3a8e)
+- [The Advantage of using a Diaphragm Valve and its Disadvantage](https://dev.to/dee_galleno_fe0dfdce11410/the-advantage-of-using-a-diaphragm-valve-and-its-disadvantage-2b5c)
+- [[Boost]](https://dev.to/dathyyy/-211m)
+- [Hey folks! 👋 I’m prepping for a few tech interviews coming up next month &lpar;mostly software/dev roles&rpar;, and I’ve noticed there’s been a huge surge in AI tools designed to help with interviews. What are your views?](https://dev.to/lockedinai1/hey-folks-im-prepping-for-a-few-tech-interviews-coming-up-next-month-mostly-softwaredev-l60)
+- [What Happens to sessionStorage When You Duplicate a Tab?](https://dev.to/bharathvaj_ganesan/what-happens-to-sessionstorage-when-you-duplicate-a-tab-431h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
