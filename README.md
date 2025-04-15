@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Neural Processing Unit &lpar;NPU&rpar;: Pioneering the Next Frontier in AI Acceleration](https://dev.to/srijan-xi/neural-processing-unit-npu-pioneering-the-next-frontier-in-ai-acceleration-52ij)
-- [Connecting The Dots: Data Communication Methods for Micro frontends.](https://dev.to/as_abhinav/connecting-the-dots-data-communication-methods-for-micro-frontends-4b46)
-- [You want your existing MetaMask connect-wallet system to work with Anvil, the local Ethereum network from Foundry.](https://dev.to/rifat87/you-want-your-existing-metamask-connect-wallet-system-to-work-with-anvil-the-local-ethereum-39p6)
-- [Bash + Telegram: Server Monitoring and Instant Notifications](https://dev.to/_2974322d72d5f53d8c2c/bash-telegram-server-monitoring-and-instant-notifications-1ibn)
-- [Using NFS in Kubernetes – A Simple Guide to Shared Storage](https://dev.to/san_dev_65a0346580173629d/using-nfs-in-kubernetes-a-simple-guide-to-shared-storage-2n62)
+- [The 10 best AI coding tools for 2025](https://dev.to/logrocket/the-10-best-ai-coding-tools-for-2025-3pbe)
+- [Yazılım Ustalığının Özü: SOLID ve Temiz Kod ile Kalıcı ve Anlaşılır Sistemler Yaratmak](https://dev.to/abdulkadir_gungor_86/yazilim-ustaliginin-ozu-solid-ve-temiz-kod-ile-kalici-ve-anlasilir-sistemler-yaratmak-15fb)
+- [Build a multi-agent RAG system with Granite locally](https://dev.to/ibmdeveloper/build-a-multi-agent-rag-system-with-granite-locally-oke)
+- [ITSM Knowledge Management: Why It&#39;s Crucial](https://dev.to/kapusto/itsm-knowledge-management-why-its-crucial-3b5e)
+- [🐳 Master Docker with Real-World Scenarios 🚀](https://dev.to/chandan_kumar8/master-docker-with-real-world-scenarios-5925)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
