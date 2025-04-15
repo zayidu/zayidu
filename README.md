@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Cross-Border Payments in a Single Codebase](https://dev.to/flutterwaveeng/setting-up-cross-border-payments-in-a-single-codebase-la8)
-- [Dijital Kentin İnşası: Web Mimarisi ve Şehir Planlamasının Evrimi, Felsefesi ve Geleceği](https://dev.to/abdulkadir_gungor_86/dijital-kentin-insasi-web-mimarisi-ve-sehir-planlamasinin-evrimi-felsefesi-ve-gelecegi-pl0)
-- [Why AI-Powered Biscuit Dimension Detection is a Game-Changer in Food Manufacturing](https://dev.to/chandraks/why-ai-powered-biscuit-dimension-detection-is-a-game-changer-in-food-manufacturing-1pah)
-- [Should a Tech Lead Prepare AI Instructions for the Team?](https://dev.to/dabych/should-a-tech-lead-prepare-ai-instructions-for-the-team-39hg)
-- [Bash + Telegram: мониторинг сервера и мгновенные уведомления](https://dev.to/_2974322d72d5f53d8c2c/bash-telegram-monitoringh-sierviera-i-mghnoviennyie-uviedomlieniia-m86)
+- [Submariner Lighthouse: Multi-Cluster Service Discovery for Kubernetes](https://dev.to/reoring/submariner-lighthouse-multi-cluster-service-discovery-for-kubernetes-4fj7)
+- [Why Should a Flask Developer Use MongoDB?](https://dev.to/mongodb/why-should-a-flask-developer-use-mongodb-3c02)
+- [Blog Draft Top Ai Trends Transforming Software Development In 2025 20250415 162901](https://dev.to/supreme_c94d2e21f71444c89/blog-draft-top-ai-trends-transforming-software-development-in-2025-20250415-162901-1o0a)
+- [Save hours on your next project — React &amp; Node.js Secure Login Boilerplate &lpar;AuthKit&rpar;](https://dev.to/demama7/save-hours-on-your-next-project-react-nodejs-secure-login-boilerplate-authkit-2a9n)
+- [Dijital Kozmosun Yaratıcıları: Developer&#39;ın Evrenleri Tasarlama Sanatı, Evrimi ve Sorumluluğu](https://dev.to/abdulkadir_gungor_86/dijital-kozmosun-yaraticilari-developerin-evrenleri-tasarlama-sanati-evrimi-ve-sorumlulugu-5421)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
