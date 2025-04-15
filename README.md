@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Future-proofing by design.](https://dev.to/copods/future-proofing-by-design-1jj9)
-- [Create a JavaScript-Free dismissible notification with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-dismissible-notification-with-only-tailwind-css-oap)
-- [What is Active Hours on Windows 11?](https://dev.to/winsides/what-is-active-hours-on-windows-11-eo2)
-- [Teaching AI in 2025: Why We Must Include Its Financial Reality](https://dev.to/attaullahshafiq10/teaching-ai-in-2025-why-we-must-include-its-financial-reality-139b)
-- [CloudTest Pro – Enterprise-Grade Performance and Functional Testing](https://dev.to/berthaw82414312/cloudtest-pro-enterprise-grade-performance-and-functional-testing-1bop)
+- [Setting up Cross-Border Payments in a Single Codebase](https://dev.to/flutterwaveeng/setting-up-cross-border-payments-in-a-single-codebase-la8)
+- [Dijital Kentin İnşası: Web Mimarisi ve Şehir Planlamasının Evrimi, Felsefesi ve Geleceği](https://dev.to/abdulkadir_gungor_86/dijital-kentin-insasi-web-mimarisi-ve-sehir-planlamasinin-evrimi-felsefesi-ve-gelecegi-pl0)
+- [Why AI-Powered Biscuit Dimension Detection is a Game-Changer in Food Manufacturing](https://dev.to/chandraks/why-ai-powered-biscuit-dimension-detection-is-a-game-changer-in-food-manufacturing-1pah)
+- [Should a Tech Lead Prepare AI Instructions for the Team?](https://dev.to/dabych/should-a-tech-lead-prepare-ai-instructions-for-the-team-39hg)
+- [Bash + Telegram: мониторинг сервера и мгновенные уведомления](https://dev.to/_2974322d72d5f53d8c2c/bash-telegram-monitoringh-sierviera-i-mghnoviennyie-uviedomlieniia-m86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
