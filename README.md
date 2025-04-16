@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built my own analytics tool out of frustration — and now I’m stuck at 7 users](https://dev.to/yousifpa98/i-built-my-own-analytics-tool-out-of-frustration-and-now-im-stuck-at-7-users-gim)
-- [Understanding AI&#39;s Role in Personalized Content Generation](https://dev.to/kartikmehta8/understanding-ais-role-in-personalized-content-generation-4cjk)
-- [🤖 Build &quot;Dhanian AI&quot; — A Simple AI Chatbot to Debug Code and Find Coding Solutions](https://dev.to/code_2/build-dhanian-ai-a-simple-ai-chatbot-to-debug-code-and-find-coding-solutions-pmp)
-- [💻 Da TI ao Código: Minha Transição de Suporte para Dev](https://dev.to/manudresch/-da-ti-ao-codigo-minha-transicao-de-suporte-para-dev-3g86)
-- [Здесь русский язык или Украинский есть???Ядебил…не могу](https://dev.to/__2dec8ad55/zdies-russkii-iazyk-ili-ukrainskii-iestiadiebilnie-moghu-1pk8)
+- [How I Built My First Developer Profile as a Complete Beginner](https://dev.to/sankworks/how-i-built-my-first-developer-profile-as-a-complete-beginner-589c)
+- [Why I’m Learning to Code as a Civil Servant in Korea](https://dev.to/sankworks/why-im-learning-to-code-as-a-civil-servant-in-korea-354k)
+- [Domain Model e as entidades persistíveis](https://dev.to/leonardomelosantos/domain-model-e-as-entidades-persistiveis-2i04)
+- [The Future of Digital Empowerment Is Here — Meet Hastro](https://dev.to/hastroworld/the-future-of-digital-empowerment-is-here-meet-hastro-fp6)
+- [Find the Superset from the Relationship Table — From SQL to SPL #19](https://dev.to/judith677/find-the-superset-from-the-relationship-table-from-sql-to-spl-19-1p4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
