@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Read code every day ✅ Watch coding videos while eating ✅ Follow dev blogs ✅ Join a coding community ✅ Work on side projects](https://dev.to/bello_iremide_2008/read-code-every-day-watch-coding-videos-while-eating-follow-dev-blogs-join-a-coding-34d7)
-- [[Linux] Trabalhando com dmesg](https://dev.to/bsouza/linux-trabalhando-com-dmesg-g6k)
-- [How to Earn With Just HTML and CSS: From Beginner to Boss 💻](https://dev.to/code_2/how-to-earn-with-just-html-and-css-from-beginner-to-boss-il2)
-- [Surviving the Wild: 36 Days in the Amazon Jungle](https://dev.to/getjv/surviving-the-wild-36-days-in-the-amazon-jungle-36cd)
-- [greeting to start](https://dev.to/isaac_muvughe_3480bca1a84/greeting-to-start-3anc)
+- [Add a Transcription to Your Video using Next.js](https://dev.to/engroso/add-a-transcription-to-your-video-using-nextjs-2815)
+- [Create a Custom Playground to your LLM application](https://dev.to/agenta/create-a-custom-playground-to-your-llm-application-21j0)
+- [Exploring how student innovators benefit from attending global artificial intelligence summits](https://dev.to/marufhossain/exploring-how-student-innovators-benefit-from-attending-global-artificial-intelligence-summits-4dek)
+- [Let&#39;s go!](https://dev.to/ben/lets-go-4kp5)
+- [My understanding Access modifier 🔐](https://dev.to/elayaraj_c_04396748f52a1c/my-understanding-access-modifier-555f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
