@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development using Off-Stack Languages&lpar;Python,Rust,..&rpar;](https://dev.to/jyo561/web-development-using-off-stack-languagespythonrust-1bd6)
-- [Business Logic vs. Application Logic in Systems Design](https://dev.to/msnmongare/business-logic-vs-application-logic-in-systems-design-17ip)
-- [Mastering PostgreSQL CTEs: Recursive Queries for Hierarchical Data](https://dev.to/hexshift/mastering-postgresql-ctes-recursive-queries-for-hierarchical-data-4ool)
-- [Advanced Full-Text Search in PostgreSQL: Beyond the Basics](https://dev.to/hexshift/advanced-full-text-search-in-postgresql-beyond-the-basics-442b)
-- [Introducing OnlyNv](https://dev.to/thecommieaxolotl/introducing-onlynv-4141)
+- [I built my own analytics tool out of frustration — and now I’m stuck at 7 users](https://dev.to/yousifpa98/i-built-my-own-analytics-tool-out-of-frustration-and-now-im-stuck-at-7-users-gim)
+- [Understanding AI&#39;s Role in Personalized Content Generation](https://dev.to/kartikmehta8/understanding-ais-role-in-personalized-content-generation-4cjk)
+- [🤖 Build &quot;Dhanian AI&quot; — A Simple AI Chatbot to Debug Code and Find Coding Solutions](https://dev.to/code_2/build-dhanian-ai-a-simple-ai-chatbot-to-debug-code-and-find-coding-solutions-pmp)
+- [💻 Da TI ao Código: Minha Transição de Suporte para Dev](https://dev.to/manudresch/-da-ti-ao-codigo-minha-transicao-de-suporte-para-dev-3g86)
+- [Здесь русский язык или Украинский есть???Ядебил…не могу](https://dev.to/__2dec8ad55/zdies-russkii-iazyk-ili-ukrainskii-iestiadiebilnie-moghu-1pk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
