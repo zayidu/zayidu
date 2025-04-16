@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pickle Rick | TryHackMe](https://dev.to/c4rnotaurus/pickle-rick-tryhackme-4afe)
-- [Blog Draft Monetizing Ai Technologies 20250416 103908](https://dev.to/pponali/blog-draft-monetizing-ai-technologies-20250416-103908-1bc6)
-- [Write Like A Professional Copywriter: How To Use Jeda.ai for Copywriting?](https://dev.to/ishmam_jahan_4269b6f13ba5/write-like-a-professional-copywriter-how-to-use-jedaai-for-copywriting-2lgg)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3p98)
-- [Minimal Audio Player](https://dev.to/preetha_vaishnavi_2b82358/untitled-4m34)
+- [What Great Engineering Teams Measure—and What They Don’t](https://dev.to/getambassador2024/what-great-engineering-teams-measure-and-what-they-dont-4b6k)
+- [Placement agents in the EU: Role, Advantages and Regulatory Requirements](https://dev.to/harrisonailent/placement-agents-in-the-eu-role-advantages-and-regulatory-requirements-1ic)
+- [Making an Effective Application Security Program: Strategies, methods and tools to maximize results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-results-2epo)
+- [Regularization Techniques in ML: L1, L2, and Beyond](https://dev.to/sai_rishika_0e321c17cfc13/regularization-techniques-in-ml-l1-l2-and-beyond-231l)
+- [The Ultimate Guide for Competitive Programming](https://dev.to/dumboprogrammer/the-ultimate-guide-for-competitive-programming-6hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
