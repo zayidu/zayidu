@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Coming Collapse of White Collar Illusions](https://dev.to/noah_street_d0755cbf9a58d/the-coming-collapse-of-white-collar-illusions-56ge)
-- [Blog Draft Monetization Strategies For Ai Technologies 20250416 222218](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-20250416-222218-i57)
-- [Building a Game App with Just Python](https://dev.to/anvil/building-a-game-app-with-just-python-4fbm)
-- [Artificial Intelligence in Software Development](https://dev.to/udee_mbno_603cbc3fb9cf3ff/artificial-intelligence-in-software-development-3h68)
-- [Looking for a Passionate React Dev &lpar;Student-Friendly Collab Opportunity!&rpar;](https://dev.to/swapnilcs775/looking-for-a-passionate-react-dev-student-friendly-collab-opportunity-19pn)
+- [Security Considerations for Healthcare IoT Device Management](https://dev.to/ikoh_sylva/security-considerations-for-healthcare-iot-device-management-1fk9)
+- [AI for ESG Reporting Using Real-Time RAG and Live Data Streams](https://dev.to/mansi711/ai-for-esg-reporting-using-real-time-rag-and-live-data-streams-7nh)
+- [Building My AI SaaS App](https://dev.to/sushilmagare10/building-my-ai-saas-app-4mif)
+- [Monitoring Logged-In Users in Linux &lpar;Day 7 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/monitoring-logged-in-users-in-linux-day-7-of-30-2clj)
+- [React Frontend L2 Round Interview Question &amp; Answer](https://dev.to/mushfiqbh/react-frontend-l2-round-interview-question-answer-n9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
