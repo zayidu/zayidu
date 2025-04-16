@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean code , Clear Mind](https://dev.to/mehfila_parkkulthil_23/clean-code-clear-mind-281)
-- [Analisis de](https://dev.to/david_bermenvliz/analisis-de-1eef)
-- [3D Renderer in C - Full Screen Window](https://dev.to/justinhhorner/3d-renderer-in-c-full-screen-window-mbp)
-- [Building a Real-Time AI Fraud Detection System with Spring Kafka and MongoDB](https://dev.to/mongodb/building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb-2jbn)
-- [Build AI Agents Fast with DDE Agents](https://dev.to/dde64bit/build-ai-agents-fast-with-dde-agents-11pd)
+- [✅ Read code every day ✅ Watch coding videos while eating ✅ Follow dev blogs ✅ Join a coding community ✅ Work on side projects](https://dev.to/bello_iremide_2008/read-code-every-day-watch-coding-videos-while-eating-follow-dev-blogs-join-a-coding-34d7)
+- [[Linux] Trabalhando com dmesg](https://dev.to/bsouza/linux-trabalhando-com-dmesg-g6k)
+- [How to Earn With Just HTML and CSS: From Beginner to Boss 💻](https://dev.to/code_2/how-to-earn-with-just-html-and-css-from-beginner-to-boss-il2)
+- [Surviving the Wild: 36 Days in the Amazon Jungle](https://dev.to/getjv/surviving-the-wild-36-days-in-the-amazon-jungle-36cd)
+- [greeting to start](https://dev.to/isaac_muvughe_3480bca1a84/greeting-to-start-3anc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
