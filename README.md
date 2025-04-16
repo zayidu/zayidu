@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Automated Testing in Building the Right Product](https://dev.to/sonin/the-role-of-automated-testing-in-building-the-right-product-183h)
-- [For vibe coders out there:](https://dev.to/isaiahhtml/for-vibe-coders-out-there-16oe)
-- [Looking for something new in React UI Free environment?](https://dev.to/pa4ozdravkov/looking-for-something-new-in-react-ui-free-environment-3l1l)
-- [A Structured Workflow for &quot;Vibe Coding&quot; Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l)
-- [Positive SSL vs. Essential SSL Certificate – Which One Should You Choose?](https://dev.to/judypage/positive-ssl-vs-essential-ssl-certificate-which-one-should-you-choose-4o8m)
+- [O](https://dev.to/aein_bagheri_10ffa69696b9/o-3lf5)
+- [Aein](https://dev.to/aein_bagheri_10ffa69696b9/aein-2n9g)
+- [Aein bagheri matrix](https://dev.to/aein_bagheri_10ffa69696b9/aein-bagheri-matrix-5del)
+- [Google A2A vs Anthropic MCP: Competing or Complementary?](https://dev.to/_37bbf0c253c0b3edec531e/google-a2a-vs-anthropic-mcp-competing-or-complementary-22k2)
+- [Different Background Color for Label and Content Text](https://dev.to/khushii_34ceada974a6bfcc2/different-background-color-for-label-and-content-text-5fip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
