@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a Transcription to Your Video using Next.js](https://dev.to/engroso/add-a-transcription-to-your-video-using-nextjs-2815)
-- [Create a Custom Playground to your LLM application](https://dev.to/agenta/create-a-custom-playground-to-your-llm-application-21j0)
-- [Exploring how student innovators benefit from attending global artificial intelligence summits](https://dev.to/marufhossain/exploring-how-student-innovators-benefit-from-attending-global-artificial-intelligence-summits-4dek)
-- [Let&#39;s go!](https://dev.to/ben/lets-go-4kp5)
-- [My understanding Access modifier 🔐](https://dev.to/elayaraj_c_04396748f52a1c/my-understanding-access-modifier-555f)
+- [The Coming Collapse of White Collar Illusions](https://dev.to/noah_street_d0755cbf9a58d/the-coming-collapse-of-white-collar-illusions-56ge)
+- [Blog Draft Monetization Strategies For Ai Technologies 20250416 222218](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-20250416-222218-i57)
+- [Building a Game App with Just Python](https://dev.to/anvil/building-a-game-app-with-just-python-4fbm)
+- [Artificial Intelligence in Software Development](https://dev.to/udee_mbno_603cbc3fb9cf3ff/artificial-intelligence-in-software-development-3h68)
+- [Looking for a Passionate React Dev &lpar;Student-Friendly Collab Opportunity!&rpar;](https://dev.to/swapnilcs775/looking-for-a-passionate-react-dev-student-friendly-collab-opportunity-19pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
