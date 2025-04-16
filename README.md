@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apostrophe 4.15.0: In-Context Live Preview, Enhanced Tables, and Translation Tools](https://dev.to/stuartromanek/apostrophe-4150-in-context-live-preview-enhanced-tables-and-translation-tools-46e1)
-- [Build Smarter Web Automation with ActionChain](https://dev.to/feng_jian_f8d0a9834be/build-smarter-web-automation-with-actionchain-1168)
-- [What the Heck Is Linux, and Why You Should Bother Learning It &lpar;Especially Red Hat&rpar; in 2025](https://dev.to/higgs182092/what-the-heck-is-linux-and-why-you-should-bother-learning-it-especially-red-hat-in-2025-45jn)
-- [Are you a programmer? Ever use Python? Have you seen the list of reserved keywords that are off-limits? Read Quark&#39;s Outlines: Python Names and Keywords. Find out now.](https://dev.to/mike-vincent/are-you-a-programmer-ever-use-python-have-you-seen-the-list-of-reserved-keywords-that-are-501e)
-- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲𝗕𝗼𝗱𝘆𝗔𝗱𝘃𝗶𝗰𝗲 𝗶𝗻 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁: 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲𝘀 𝗘𝗳𝗳𝗼𝗿𝘁𝗹𝗲𝘀𝘀𝗹𝘆!](https://dev.to/thiago_souza_1510/--561)
+- [Built a 2d collision simulator](https://dev.to/noltekcar/built-a-2d-collision-simulator-pg2)
+- [Hidden Classes and Inline Caches in V8](https://dev.to/omriluz1/hidden-classes-and-inline-caches-in-v8-43dd)
+- [Build a Simple File Compressor with Node.js in 10 Minutes](https://dev.to/arbythecoder/build-a-simple-file-compressor-with-nodejs-in-10-minutes-3n4)
+- [[Boost]](https://dev.to/dominque_terry_852760387b/-3cbm)
+- [Debugging a 500 Error in Amplify Gen 2 SSR with DynamoDB &lpar;Solved&rpar;](https://dev.to/soulsbossdev/debugging-a-500-error-in-amplify-gen-2-ssr-with-dynamodb-solved-m50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
