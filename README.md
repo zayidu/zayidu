@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Great Engineering Teams Measure—and What They Don’t](https://dev.to/getambassador2024/what-great-engineering-teams-measure-and-what-they-dont-4b6k)
-- [Placement agents in the EU: Role, Advantages and Regulatory Requirements](https://dev.to/harrisonailent/placement-agents-in-the-eu-role-advantages-and-regulatory-requirements-1ic)
-- [Making an Effective Application Security Program: Strategies, methods and tools to maximize results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-results-2epo)
-- [Regularization Techniques in ML: L1, L2, and Beyond](https://dev.to/sai_rishika_0e321c17cfc13/regularization-techniques-in-ml-l1-l2-and-beyond-231l)
-- [The Ultimate Guide for Competitive Programming](https://dev.to/dumboprogrammer/the-ultimate-guide-for-competitive-programming-6hm)
+- [Day-22:Encapsulation and getter method](https://dev.to/pavithra_c_butterfly/day-22encapsulation-and-getter-method-4pg1)
+- [Modify Memory Configuration to Instantly Solve DolphinScheduler CPU Spike Issue](https://dev.to/chen_debra_3060b21d12b1b0/modify-memory-configuration-to-instantly-solve-dolphinscheduler-cpu-spike-issue-389g)
+- [RandomApply in PyTorch](https://dev.to/hyperkai/randomapply-in-pytorch-4ji7)
+- [RAG Isn&#39;t Dead: Why GPT-4.1&#39;s 1M Context Windows Won&#39;t Kill Retrieval-Augmented Generation](https://dev.to/abdellatif_abdelfattah/rag-isnt-dead-why-gpt-41s-1m-context-windows-wont-kill-retrieval-augmented-generation-n9a)
+- [How to Deploy NocoBase Faster](https://dev.to/nocobase/how-to-deploy-nocobase-faster-5h6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
