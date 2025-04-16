@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-22:Encapsulation and getter method](https://dev.to/pavithra_c_butterfly/day-22encapsulation-and-getter-method-4pg1)
-- [Modify Memory Configuration to Instantly Solve DolphinScheduler CPU Spike Issue](https://dev.to/chen_debra_3060b21d12b1b0/modify-memory-configuration-to-instantly-solve-dolphinscheduler-cpu-spike-issue-389g)
-- [RandomApply in PyTorch](https://dev.to/hyperkai/randomapply-in-pytorch-4ji7)
-- [RAG Isn&#39;t Dead: Why GPT-4.1&#39;s 1M Context Windows Won&#39;t Kill Retrieval-Augmented Generation](https://dev.to/abdellatif_abdelfattah/rag-isnt-dead-why-gpt-41s-1m-context-windows-wont-kill-retrieval-augmented-generation-n9a)
-- [How to Deploy NocoBase Faster](https://dev.to/nocobase/how-to-deploy-nocobase-faster-5h6i)
+- [VibeScript - GenZ programming language](https://dev.to/grahamthedev/vibescript-genz-programming-language-2l0b)
+- [Understanding Protocol Data Units &lpar;PDUs&rpar;: The Building Blocks of Network Communication](https://dev.to/keploy/understanding-protocol-data-units-pdus-the-building-blocks-of-network-communication-4923)
+- [JavaScript Bytecode and Abstract Syntax Trees](https://dev.to/omriluz1/javascript-bytecode-and-abstract-syntax-trees-281i)
+- [FPGAs vs. Tesla’s Custom ASICs for Automotive Perception: A Technical Comparison](https://dev.to/carolineee/fpgas-vs-teslas-custom-asics-for-automotive-perception-a-technical-comparison-42j2)
+- [My Experience Successfully Integrating ZKTeco Attendance Device with Laravel](https://dev.to/mohamed_kamel_3e7f158103e/my-experience-successfully-integrating-zkteco-attendance-device-with-laravel-5550)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
