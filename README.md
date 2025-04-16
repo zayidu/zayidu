@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O](https://dev.to/aein_bagheri_10ffa69696b9/o-3lf5)
-- [Aein](https://dev.to/aein_bagheri_10ffa69696b9/aein-2n9g)
-- [Aein bagheri matrix](https://dev.to/aein_bagheri_10ffa69696b9/aein-bagheri-matrix-5del)
-- [Google A2A vs Anthropic MCP: Competing or Complementary?](https://dev.to/_37bbf0c253c0b3edec531e/google-a2a-vs-anthropic-mcp-competing-or-complementary-22k2)
-- [Different Background Color for Label and Content Text](https://dev.to/khushii_34ceada974a6bfcc2/different-background-color-for-label-and-content-text-5fip)
+- [Typescript to Know for React](https://dev.to/_ndeyefatoudiop/typescript-to-know-for-react-2p02)
+- [⏰ Time-Travelling JavaScript, Smart CSS Cursors &amp; Product Team Tips](https://dev.to/adam/time-travelling-javascript-smart-css-cursors-product-team-tips-4no2)
+- [Digitlo – Exploring Digital Assets, Blockchain, and Tech Trends](https://dev.to/mantasha_faheemuddin_8a32/digitlo-exploring-digital-assets-blockchain-and-tech-trends-56n7)
+- [Mastering AWS Cost Optimization: Practical Tips to Save Big!](https://dev.to/aws-builders/mastering-aws-cost-optimization-practical-tips-to-save-big-3cao)
+- [LAMP Stack &lpar;WEB STACK&rpar; Implementation in AWS](https://dev.to/uwadon1/lamp-stack-web-stack-implementation-in-aws-54h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
