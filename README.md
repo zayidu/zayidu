@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sprint 5 - Chakra UI v3 Migration](https://dev.to/theoforger/sprint-5-chakra-ui-v3-migration-4pfi)
-- [I Built a Birthday Party Planner App with Next.js](https://dev.to/kakimaru/i-built-a-birthday-party-planner-app-with-nextjs-2gpo)
-- [Dica Java: Use o ciclo de vida do UT! #005](https://dev.to/oigorrudel/dica-java-use-o-ciclo-de-vida-do-ut-005-3648)
-- [🤖 How to Force Cursor AI Agents into 🧑‍🎓 Always following Project Rules using 💡 Auto-Rule Generation Techniques](https://dev.to/ultrawideturbodevs/how-to-force-cursor-ai-agents-into-always-following-project-rules-using-auto-rule-2ilk)
-- [Ready to become a real developer study -day01](https://dev.to/qianwen_guo/ready-to-become-a-real-developer-study-day01-3lbd)
+- [Serverless is a Scam.](https://dev.to/code42cate/serverless-is-a-scam-5fc0)
+- [The Hive Is Recruiting: Join Me in Building the First AI-Native Operating System](https://dev.to/matrixswarm/the-hive-is-recruiting-join-me-in-building-the-first-ai-native-operating-system-31eb)
+- [How to Profile API Endpoint Performance](https://dev.to/zuplo/how-to-profile-api-endpoint-performance-39ff)
+- [Understanding AI: The Future of Programming and Its Impact on Developers](https://dev.to/algo_sync/understanding-ai-the-future-of-programming-and-its-impact-on-developers-3gdl)
+- [Very usefull tip to improve our coding workflow](https://dev.to/gabrielfelipe/-3lol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
