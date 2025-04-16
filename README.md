@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless is a Scam.](https://dev.to/code42cate/serverless-is-a-scam-5fc0)
-- [The Hive Is Recruiting: Join Me in Building the First AI-Native Operating System](https://dev.to/matrixswarm/the-hive-is-recruiting-join-me-in-building-the-first-ai-native-operating-system-31eb)
-- [How to Profile API Endpoint Performance](https://dev.to/zuplo/how-to-profile-api-endpoint-performance-39ff)
-- [Understanding AI: The Future of Programming and Its Impact on Developers](https://dev.to/algo_sync/understanding-ai-the-future-of-programming-and-its-impact-on-developers-3gdl)
-- [Very usefull tip to improve our coding workflow](https://dev.to/gabrielfelipe/-3lol)
+- [What is DAX? Amazon DynamoDB Accelerator Explained](https://dev.to/leonardkachi/what-is-dax-amazon-dynamodb-accelerator-explained-10al)
+- [POS Terminals: Fintech Reinvented](https://dev.to/rapyd/pos-terminals-fintech-reinvented-2ipf)
+- [Kaltrinkeda e o BS Studio+](https://dev.to/notmadebyahuman/kaltrinkeda-e-o-bs-studio-2d70)
+- [Building a Student REST API with Flask and Docker](https://dev.to/techondiapers/building-a-student-rest-api-with-flask-and-docker-42en)
+- [Tools and Techniques That Help Me Stay Productive as a Developer](https://dev.to/alekswheeler/tools-and-techniques-that-help-me-stay-productive-as-a-developer-382b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
