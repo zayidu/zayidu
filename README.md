@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Mental Math version of Monkeytype! Feedback appreciated!](https://dev.to/om3x4/i-built-a-mental-math-version-of-monkeytype-feedback-appreciated-4nhb)
-- [Power Apps - Canvas - Formula Bar Anatomy](https://dev.to/_follone/power-apps-canvas-formula-bar-anatomy-1h0n)
-- [✅ 𝗙𝗶𝘅𝗲𝗱 𝗮 𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗞𝗲𝘆 𝗖𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁 𝗘𝗿𝗿𝗼𝗿 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 &lpar;𝗘𝗙 𝗖𝗼𝗿𝗲&rpar;](https://dev.to/supraja_tangella_b7f0738e/--4dkn)
-- [Write Code Like A Pro: Mastering The SOLID Principles](https://dev.to/gauravdalvi/write-code-like-a-pro-mastering-the-solid-principles-e8)
-- [what is use of ESLint ?](https://dev.to/tahir_rafique/what-is-use-of-eslint--412c)
+- [Clean code , Clear Mind](https://dev.to/mehfila_parkkulthil_23/clean-code-clear-mind-281)
+- [Analisis de](https://dev.to/david_bermenvliz/analisis-de-1eef)
+- [3D Renderer in C - Full Screen Window](https://dev.to/justinhhorner/3d-renderer-in-c-full-screen-window-mbp)
+- [Building a Real-Time AI Fraud Detection System with Spring Kafka and MongoDB](https://dev.to/mongodb/building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb-2jbn)
+- [Build AI Agents Fast with DDE Agents](https://dev.to/dde64bit/build-ai-agents-fast-with-dde-agents-11pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
