@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript to Know for React](https://dev.to/_ndeyefatoudiop/typescript-to-know-for-react-2p02)
-- [⏰ Time-Travelling JavaScript, Smart CSS Cursors &amp; Product Team Tips](https://dev.to/adam/time-travelling-javascript-smart-css-cursors-product-team-tips-4no2)
-- [Digitlo – Exploring Digital Assets, Blockchain, and Tech Trends](https://dev.to/mantasha_faheemuddin_8a32/digitlo-exploring-digital-assets-blockchain-and-tech-trends-56n7)
-- [Mastering AWS Cost Optimization: Practical Tips to Save Big!](https://dev.to/aws-builders/mastering-aws-cost-optimization-practical-tips-to-save-big-3cao)
-- [LAMP Stack &lpar;WEB STACK&rpar; Implementation in AWS](https://dev.to/uwadon1/lamp-stack-web-stack-implementation-in-aws-54h3)
+- [Mint Blockchain DAOBase Strategic Partnership](https://dev.to/mint_/mint-blockchain-x-daobase-strategic-partnership-2d24)
+- [How Odoo Customization Empowers Your Business with Tailored ERP Solutions](https://dev.to/bhavesh_gangani_/how-odoo-customization-empowers-your-business-with-tailored-erp-solutions-8mj)
+- [Biometrics and Passkeys: Strengthening Banking Security in Nigeria](https://dev.to/vdelitz/biometrics-and-passkeys-strengthening-banking-security-in-nigeria-2bhn)
+- [What is Salesforce Sustainability Cloud?](https://dev.to/niks_kirdak_47c783a80cbc7/what-is-salesforce-sustainability-cloud-43di)
+- [🧙‍♂️ If Harry Potter Used TypeScript – A Magical Guide to Types](https://dev.to/raajaryan/if-harry-potter-used-typescript-a-magical-guide-to-types-d3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
