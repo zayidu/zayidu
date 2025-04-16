@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My First Developer Profile as a Complete Beginner](https://dev.to/sankworks/how-i-built-my-first-developer-profile-as-a-complete-beginner-589c)
-- [Why I’m Learning to Code as a Civil Servant in Korea](https://dev.to/sankworks/why-im-learning-to-code-as-a-civil-servant-in-korea-354k)
-- [Domain Model e as entidades persistíveis](https://dev.to/leonardomelosantos/domain-model-e-as-entidades-persistiveis-2i04)
-- [The Future of Digital Empowerment Is Here — Meet Hastro](https://dev.to/hastroworld/the-future-of-digital-empowerment-is-here-meet-hastro-fp6)
-- [Find the Superset from the Relationship Table — From SQL to SPL #19](https://dev.to/judith677/find-the-superset-from-the-relationship-table-from-sql-to-spl-19-1p4o)
+- [Remote Configuration and Feature Flags](https://dev.to/quorummind/remote-configuration-and-feature-flags-k7c)
+- [Kubernetes 1.30: Features, Real-World Use Cases, and Practical Examples](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-real-world-use-cases-and-practical-examples-3h48)
+- [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
+- [Adaptive Compression for Cache Systems with Hexagonal Architecture](https://dev.to/aws-builders/adaptive-compression-for-cache-systems-with-hexagonal-architecture-560e)
+- [Programing session Armstrang Number](https://dev.to/sugumar_r_a5f301adf1fb49a/programing-session-armstrang-number-55gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
