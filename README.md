@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Engineers Don’t Block - They Unblock](https://dev.to/duplessisvanaswegen/the-best-engineers-dont-block-they-unblock-4ho4)
-- [Vietnam’s Biometric Verification Mandate: Key Regulatory Impact and Opportunities for Banks &amp; Corporates](https://dev.to/vdelitz/vietnams-biometric-verification-mandate-key-regulatory-impact-and-opportunities-for-banks--4cgn)
-- [Building yet another Remote Jobs Aggregator &lpar;FlexHired&rpar; - My strategy for differentiation &amp; seeking feedback](https://dev.to/xuho/building-yet-another-remote-jobs-aggregator-flexhired-my-strategy-for-differentiation-seeking-435d)
-- [AWS Shared Responsibility Model and Security Principles](https://dev.to/eunice-js/aws-shared-responsibility-model-and-security-principles-e3f)
-- [Leetcode - 104. Maximum Depth of Binary Tree](https://dev.to/rakeshreddy512/leetcode-104-maximum-depth-of-binary-tree-12m4)
+- [learned basics of Java today, variables , expressions ,and basic programs](https://dev.to/ayush_kumar_f0dd69996cd7a/learned-basics-of-java-today-variables-expressions-and-basic-programs-1mdd)
+- [Kaltrinkeda — Home Screen V2](https://dev.to/notmadebyahuman/kaltrinkeda-home-screen-v2-56fd)
+- [🎯Fermat’s Little Theorem: The Tiny Theorem with Huge Impact](https://dev.to/mysteryminusplus/fermats-little-theorem-the-tiny-theorem-with-huge-impact-hbd)
+- [Top 10 YouTube Channels for Learning Data Analytics: Boost Your Skills in 2025](https://dev.to/vladam/top-10-youtube-channels-for-learning-data-analytics-boost-your-skills-in-2025-2mdl)
+- [The Impact of 5G on Web Development: How Faster Networks Will Change User Experiences](https://dev.to/rushilbhuptani/the-impact-of-5g-on-web-development-how-faster-networks-will-change-user-experiences-3g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
