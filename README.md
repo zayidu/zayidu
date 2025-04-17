@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [POC - CVE-2025-29306 FOXCMS /images/index.html Code Execution Vulnerability](https://dev.to/verylazytech/poc-cve-2025-29306-foxcms-imagesindexhtml-code-execution-vulnerability-3lnk)
-- [Running Docling as an API Server](https://dev.to/aairom/running-docling-as-an-api-server-3cgi)
-- [Detect the writing traces of artificial intelligence](https://dev.to/windosides/detect-the-writing-traces-of-artificial-intelligence-46k8)
-- [Understanding the Differences in Apache Configuration: Debian Linux vs. Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/understanding-the-differences-in-apache-configuration-debian-linux-vs-red-hat-linux-5fm4)
-- [PHP + Static Analysis vs. Native Statically Typed Languages](https://dev.to/ilyasdeckers/php-static-analysis-vs-native-statically-typed-languages-57d2)
+- [From Paperwork to Digital Excellence: LMS in Compliance Training](https://dev.to/lukasjeremy/from-paperwork-to-digital-excellence-lms-in-compliance-training-jki)
+- [Getting Started with ServiceNow: A Beginner’s Guide](https://dev.to/markwayne/getting-started-with-servicenow-a-beginners-guide-35ph)
+- [Active Directory Attacks: Hardening Strategies Every Organization Needs in 2025](https://dev.to/kapusto/active-directory-attacks-hardening-strategies-every-organization-needs-in-2025-3ejo)
+- [Ultimate Interview Prep Guide: React, Git, Behavioral, and DSA](https://dev.to/koolkamalkishor/react-javascript-technical-questions-55fl)
+- [Resolving Ferron Server Installation Challenges: A Step-by-Step Troubleshooting Guide](https://dev.to/obaaa8/resolving-ferron-server-installation-challenges-a-step-by-step-troubleshooting-guide-i64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
