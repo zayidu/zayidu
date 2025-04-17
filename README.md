@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple To-Do List App with Python &lpar;Beginner Project&rpar;](https://dev.to/sankworks/building-a-simple-to-do-list-app-with-python-beginner-project-1pab)
-- [Verifiable Digital Credential Ecosystem: All You Need to Know](https://dev.to/everycred/verifiable-digital-credential-ecosystem-all-you-need-to-know-3inh)
-- [When Vue&#39;s watch Made Me Think of React&#39;s useEffect](https://dev.to/pravinjadhav/when-vues-watch-made-me-think-of-reacts-useeffect-2fge)
-- [🔥 Kadane&#39;s Algorithm — The Power of Maximum Subarrays](https://dev.to/br-lovanshi/kadanes-algorithm-the-power-of-maximum-subarrays-22kg)
-- [Essential Linux Commands Every Developer Should Master](https://dev.to/gauravdalvi/essential-linux-commands-every-developer-should-master-232f)
+- [[Boost]](https://dev.to/uliyahoo/-gh1)
+- [From Zero to Hero: How I Tricked AI into Building My Startup MVP in 24 Hours](https://dev.to/sakethkowtha/from-zero-to-hero-how-i-tricked-ai-into-building-my-startup-mvp-in-24-hours-3np1)
+- [🧃 Just Me, C++ &amp; the STL](https://dev.to/hrdxh/just-me-c-the-stl-38je)
+- [Cloudflare Tunnel vs. ngrok vs. Tailscale: Choosing the Right Secure Tunneling Solution](https://dev.to/mechcloud_academy/cloudflare-tunnel-vs-ngrok-vs-tailscale-choosing-the-right-secure-tunneling-solution-4inm)
+- [🔮 The Top 10 Programming Languages to Master for 2025](https://dev.to/theodor_coin_4/the-top-10-programming-languages-to-master-for-2025-1ddm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
