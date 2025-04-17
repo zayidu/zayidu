@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 JavaScript Conditional Statements Explained for Beginners](https://dev.to/ebereplenty/javascript-conditional-statements-explained-for-beginners-3k5g)
-- [Mastering the Basics: Key Elements of a Good Basketball Shot for Beginners by Basketball Enthusiasts including Matthew Skorny](https://dev.to/matthew12/mastering-the-basics-key-elements-of-a-good-basketball-shot-for-beginners-by-basketball-245e)
-- [FortiOS 7.6.3 Update: SSL VPN Tunnel Mode No Longer Supported](https://dev.to/madhushan/fortios-763-update-ssl-vpn-tunnel-mode-no-longer-supported-27hg)
-- [🚀 Commitizen: Making Git Commits the Right Way](https://dev.to/oskhar/commitizen-making-git-commits-the-right-way-g70)
-- [Mastering Retry Strategies in Distributed Systems: Preventing Retry Storms and Ensuring Resilience](https://dev.to/rajeshpandey/mastering-retry-strategies-in-distributed-systems-preventing-retry-storms-and-ensuring-resilience-12lo)
+- [The Math Dance](https://dev.to/chrisrobison/the-math-dance-10ak)
+- [Daily Code #2](https://dev.to/zako_mako_9a4826822204c78/daily-code-2-3im7)
+- [Lambda@Edge: Run Code at the Edge with CloudFront](https://dev.to/jajera/lambdaedge-run-code-at-the-edge-with-cloudfront-332h)
+- [Angular Input Handling: valueAsNumber vs +value – What&#39;s the Difference?](https://dev.to/cristiansifuentes/angular-input-handling-valueasnumber-vs-value-whats-the-difference-4bad)
+- [NimPyLib - Write Python in Nim](https://dev.to/litlighilit/nimpylib-write-python-in-nim-3377)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
