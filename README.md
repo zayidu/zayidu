@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto Trade Bot — Solana Sniper Bot](https://dev.to/cryptosolmaster/auto-trade-bot-solana-sniper-bot-1pam)
-- [High-cardinality values for build flags in Rust](https://dev.to/nfrankel/high-cardinality-values-for-build-flags-in-rust-19ob)
-- [BIM Coordination, Clash Detection and Coordination: Streamlining Construction with Precision](https://dev.to/artee091842/bim-coordination-clash-detection-and-coordination-streamlining-construction-with-precision-c8p)
-- [The Double-Edged Sword: AI’s Role in Modern Cybersecurity](https://dev.to/ai_claro_f1afb6ff60d0885a/the-double-edged-sword-ais-role-in-modern-cybersecurity-1jkd)
-- [The Dawn of Universal Understanding: How Real-Time Voice Translation Is Set to Revolutionize Global Interaction](https://dev.to/uttham_h_737e73909c3fb722/the-dawn-of-universal-understanding-how-real-time-voice-translation-is-set-to-revolutionize-global-1ghj)
+- [POC - CVE-2025-29306 FOXCMS /images/index.html Code Execution Vulnerability](https://dev.to/verylazytech/poc-cve-2025-29306-foxcms-imagesindexhtml-code-execution-vulnerability-3lnk)
+- [Running Docling as an API Server](https://dev.to/aairom/running-docling-as-an-api-server-3cgi)
+- [Detect the writing traces of artificial intelligence](https://dev.to/windosides/detect-the-writing-traces-of-artificial-intelligence-46k8)
+- [Understanding the Differences in Apache Configuration: Debian Linux vs. Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/understanding-the-differences-in-apache-configuration-debian-linux-vs-red-hat-linux-5fm4)
+- [PHP + Static Analysis vs. Native Statically Typed Languages](https://dev.to/ilyasdeckers/php-static-analysis-vs-native-statically-typed-languages-57d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
