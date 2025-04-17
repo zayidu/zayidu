@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Next 2025: Day 2](https://dev.to/googleworkspace/google-cloud-next-2025-day-2-2e0e)
-- [SPO600 Project Stage 3: Wrapping it Up](https://dev.to/jpjpjp/spo600-project-stage-3-wrapping-it-up-2422)
-- [Linux Commands You Should Avoid Like the Plague &lpar;Especially in Red Hat RHEL9&rpar;](https://dev.to/higgs182092/linux-commands-you-should-avoid-like-the-plague-especially-in-red-hat-rhel9-4goj)
-- [My Backend Stack Is Just TypeScript + Postgres. Here’s Why That’s Enough](https://dev.to/shayy/my-backend-stack-is-just-typescript-postgres-heres-why-thats-enough-1pni)
-- [Featured as one of the best hindi-speaking nestjs freelancers to hire in 2025 on Contra.](https://dev.to/sahilrana/featured-as-one-of-the-best-hindi-speaking-nestjs-freelancers-to-hire-in-2025-on-contra-5104)
+- [Understanding the V8 Garbage Collector](https://dev.to/omriluz1/understanding-the-v8-garbage-collector-1a36)
+- [ChatGPT Knows Your IQ](https://dev.to/besworks/chatgpt-knows-your-iq-3nac)
+- [Closing the Chapter - Recap](https://dev.to/theoforger/closing-the-chapter-recap-mhd)
+- [Begin Your Developer Journey: Full Stack Development Course in Coimbatore – SkyAppz Academy](https://dev.to/kannan_palanisamy_c10fdfb/begin-your-developer-journey-full-stack-development-course-in-coimbatore-skyappz-academy-32cn)
+- [Pizza Radar🍕: Finding Pizzerias in Panama City with LinkedLists](https://dev.to/thecoder507/pizza-radar-finding-pizzerias-in-panama-city-with-linkedlists-3ogh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
