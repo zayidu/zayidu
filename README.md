@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Math Dance](https://dev.to/chrisrobison/the-math-dance-10ak)
-- [Daily Code #2](https://dev.to/zako_mako_9a4826822204c78/daily-code-2-3im7)
-- [Lambda@Edge: Run Code at the Edge with CloudFront](https://dev.to/jajera/lambdaedge-run-code-at-the-edge-with-cloudfront-332h)
-- [Angular Input Handling: valueAsNumber vs +value – What&#39;s the Difference?](https://dev.to/cristiansifuentes/angular-input-handling-valueasnumber-vs-value-whats-the-difference-4bad)
-- [NimPyLib - Write Python in Nim](https://dev.to/litlighilit/nimpylib-write-python-in-nim-3377)
+- [Building a Scalable, Secure Multi-Tier Architecture on AWS — My Recent Infrastructure Project](https://dev.to/leonardkachi/building-a-scalable-secure-multi-tier-architecture-on-aws-my-recent-infrastructure-project-1a16)
+- [Working on the Open Data Editor at the Open Knowledge Foundation](https://dev.to/guergana/working-at-the-open-knowledge-foundation-42n3)
+- [Mentorship To Me](https://dev.to/jacobmgevans/mentorship-to-me-fg7)
+- [Nice blog!](https://dev.to/elizabethfuentes12/-m98)
+- [Dijito](https://dev.to/david_bermenvliz/dijito-582n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
