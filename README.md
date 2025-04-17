@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is DAX? Amazon DynamoDB Accelerator Explained](https://dev.to/leonardkachi/what-is-dax-amazon-dynamodb-accelerator-explained-10al)
-- [POS Terminals: Fintech Reinvented](https://dev.to/rapyd/pos-terminals-fintech-reinvented-2ipf)
-- [Kaltrinkeda e o BS Studio+](https://dev.to/notmadebyahuman/kaltrinkeda-e-o-bs-studio-2d70)
-- [Building a Student REST API with Flask and Docker](https://dev.to/techondiapers/building-a-student-rest-api-with-flask-and-docker-42en)
-- [Tools and Techniques That Help Me Stay Productive as a Developer](https://dev.to/alekswheeler/tools-and-techniques-that-help-me-stay-productive-as-a-developer-382b)
+- [OSD700 - RAG Integration: Stage 1 &amp; 2](https://dev.to/amullagaliev/osd700-rag-integration-stage-1-2-25lo)
+- [Why I keep choosing Vike over Next.js for frontend apps](https://dev.to/yousifpa98/why-i-keep-choosing-vike-over-nextjs-for-frontend-apps-2pik)
+- [How to Set Up a Secure Reverse Proxy with Nginx and Let&#39;s Encrypt](https://dev.to/hexshift/how-to-set-up-a-secure-reverse-proxy-with-nginx-and-lets-encrypt-4kp6)
+- [Faceone is now merging with another programming language](https://dev.to/zako_mako_9a4826822204c78/faceone-is-now-merging-with-another-programming-language-4eg3)
+- [How to Implement Caching in Node.js with Redis](https://dev.to/hexshift/how-to-implement-caching-in-nodejs-with-redis-2189)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
