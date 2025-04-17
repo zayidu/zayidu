@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Forks in Bitcoin’s Evolution](https://dev.to/coinw/the-role-of-forks-in-bitcoins-evolution-2mbp)
+- [Styling Text with Gradients Using Only CSS](https://dev.to/elainesajets/styling-text-with-gradients-using-only-css-7pd)
+- [Understanding the CAP Theorem in System Design](https://dev.to/msnmongare/understanding-the-cap-theorem-in-system-design-of9)
 - [How to exclude classes from jacoco in Gradle](https://dev.to/sineaggi/how-to-exclude-classes-from-jacoco-in-gradle-2go9)
 - [7 Retry Patterns You Should Know](https://dev.to/leapcell/7-retry-patterns-you-should-know-3125)
-- [NocoBase Weekly Updates: Some Commercial Plugins Converted to Open Source](https://dev.to/nocobase/nocobase-weekly-updates-some-commercial-plugins-converted-to-open-source-3ag4)
-- [Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi)
-- [💡 How Datadog Helps Developers &amp; Teams](https://dev.to/kiranrongali/how-datadog-helps-developers-teams-kkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
