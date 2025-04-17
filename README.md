@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Forks in Bitcoin’s Evolution](https://dev.to/coinw/the-role-of-forks-in-bitcoins-evolution-2mbp)
-- [Styling Text with Gradients Using Only CSS](https://dev.to/elainesajets/styling-text-with-gradients-using-only-css-7pd)
-- [Understanding the CAP Theorem in System Design](https://dev.to/msnmongare/understanding-the-cap-theorem-in-system-design-of9)
-- [How to exclude classes from jacoco in Gradle](https://dev.to/sineaggi/how-to-exclude-classes-from-jacoco-in-gradle-2go9)
-- [7 Retry Patterns You Should Know](https://dev.to/leapcell/7-retry-patterns-you-should-know-3125)
+- [🧠 Best Practices for Managing State in React](https://dev.to/hasunnilupul/best-practices-for-managing-state-in-react-1clg)
+- [Mastering SQLite: Efficient Database Management Tips](https://dev.to/stealthstephen/mastering-sqlite-efficient-database-management-tips-2nkj)
+- [Warren Buffett’s “2 List” strategy isn’t just for investors—developers can use it to cut distractions, focus on what matters, and ship better code, faster.](https://dev.to/pratham_naik_project_manager/warren-buffetts-2-list-strategy-isnt-just-for-investors-developers-can-use-it-to-cut-lj8)
+- [IOT: How to Collect ESP8266 Sensor Hardware Metrics with Home Assistant](https://dev.to/admantium/iot-how-to-collect-esp8266-sensor-hardware-metrics-with-home-assistant-1apc)
+- [How to Serve a Laravel Project on Your Local Network](https://dev.to/ankitvermaonline/how-to-serve-a-laravel-project-on-your-local-network-33o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
