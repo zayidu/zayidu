@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Best Practices for Managing State in React](https://dev.to/hasunnilupul/best-practices-for-managing-state-in-react-1clg)
-- [Mastering SQLite: Efficient Database Management Tips](https://dev.to/stealthstephen/mastering-sqlite-efficient-database-management-tips-2nkj)
-- [Warren Buffett’s “2 List” strategy isn’t just for investors—developers can use it to cut distractions, focus on what matters, and ship better code, faster.](https://dev.to/pratham_naik_project_manager/warren-buffetts-2-list-strategy-isnt-just-for-investors-developers-can-use-it-to-cut-lj8)
-- [IOT: How to Collect ESP8266 Sensor Hardware Metrics with Home Assistant](https://dev.to/admantium/iot-how-to-collect-esp8266-sensor-hardware-metrics-with-home-assistant-1apc)
-- [How to Serve a Laravel Project on Your Local Network](https://dev.to/ankitvermaonline/how-to-serve-a-laravel-project-on-your-local-network-33o9)
+- [FumaDocs React Component to Display Code from Github Repos](https://dev.to/rjvim/fumadocs-react-component-to-display-code-from-github-repos-4dlm)
+- [Data Science Career Role In Pune.](https://dev.to/niks_kirdak_47c783a80cbc7/data-science-career-role-in-pune-44ih)
+- [Using the Overrides Network Requests Feature in Google Chrome](https://dev.to/maximlogunov/using-the-overrides-network-requests-feature-in-google-chrome-5f7o)
+- [NoteGen Markdown Editor](https://dev.to/codexu/notegen-markdown-editor-273f)
+- [30 Day SOC Challenge -Day 7](https://dev.to/https_aneesah/day-7-3743)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
