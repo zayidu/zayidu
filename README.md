@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A developer&#39;s reference to Postgres change data capture &lpar;CDC&rpar;](https://dev.to/sequin/a-developers-reference-to-postgres-change-data-capture-cdc-2bpk)
-- [How Debezium captures changes from Postgres](https://dev.to/sequin/how-debezium-captures-changes-from-postgres-35bn)
-- [The Billion Laughs Bomb](https://dev.to/yuvasec/the-billion-laughs-bomb-3pp3)
-- [How Understanding Basic Linux Commands Can Skyrocket Your Bash Scripting Skills](https://dev.to/axisinfo_0a61830e06c3c950/how-understanding-basic-linux-commands-can-skyrocket-your-bash-scripting-skills-32ii)
-- [Optimizing My Dev Workflow in 2025](https://dev.to/bobysf12/optimizing-my-dev-workflow-in-2025-g4g)
+- [How to exclude classes from jacoco in Gradle](https://dev.to/sineaggi/how-to-exclude-classes-from-jacoco-in-gradle-2go9)
+- [7 Retry Patterns You Should Know](https://dev.to/leapcell/7-retry-patterns-you-should-know-3125)
+- [NocoBase Weekly Updates: Some Commercial Plugins Converted to Open Source](https://dev.to/nocobase/nocobase-weekly-updates-some-commercial-plugins-converted-to-open-source-3ag4)
+- [Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi)
+- [💡 How Datadog Helps Developers &amp; Teams](https://dev.to/kiranrongali/how-datadog-helps-developers-teams-kkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
