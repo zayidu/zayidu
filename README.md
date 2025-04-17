@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Professional Solana Wallet Tracking Telegram Bot](https://dev.to/stevendev0822/building-a-professional-solana-wallet-tracking-telegram-bot-16od)
-- [Getting Started with uv: A Fast Python Package Manager for Web Development](https://dev.to/priyanshu_jha_17502da984f/getting-started-with-uv-a-fast-python-package-manager-for-web-development-36d0)
-- [Why Are Developers Choosing Rust for Solana in 2025?](https://dev.to/cryptosolmaster/why-are-developers-choosing-rust-for-solana-in-2025-3389)
-- [A Beginner’s Guide to the Solana Ecosystem for Python Developers](https://dev.to/cryptosolmaster/a-beginners-guide-to-the-solana-ecosystem-for-python-developers-3f7g)
-- [Decoding cURL vs Wget: Which Tool Should You Use for Downloads](https://dev.to/swiftproxy_residential/decoding-curl-vs-wget-which-tool-should-you-use-for-downloads-1i10)
+- [Auto Trade Bot — Solana Sniper Bot](https://dev.to/cryptosolmaster/auto-trade-bot-solana-sniper-bot-1pam)
+- [High-cardinality values for build flags in Rust](https://dev.to/nfrankel/high-cardinality-values-for-build-flags-in-rust-19ob)
+- [BIM Coordination, Clash Detection and Coordination: Streamlining Construction with Precision](https://dev.to/artee091842/bim-coordination-clash-detection-and-coordination-streamlining-construction-with-precision-c8p)
+- [The Double-Edged Sword: AI’s Role in Modern Cybersecurity](https://dev.to/ai_claro_f1afb6ff60d0885a/the-double-edged-sword-ais-role-in-modern-cybersecurity-1jkd)
+- [The Dawn of Universal Understanding: How Real-Time Voice Translation Is Set to Revolutionize Global Interaction](https://dev.to/uttham_h_737e73909c3fb722/the-dawn-of-universal-understanding-how-real-time-voice-translation-is-set-to-revolutionize-global-1ghj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
