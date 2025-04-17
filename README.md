@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1N4007-T: The Elder Wand of Diodes](https://dev.to/ersajay/1n4007-t-the-elder-wand-of-diodes-24nk)
-- [💻 𝗥𝗢𝗔𝗗 𝗧𝗢 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 - 𝗖𝗵𝗮𝗽𝘁𝗲𝗿 𝟬𝟵: 𝗞𝗶𝘄𝗶 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗮𝗿𝘁𝘀](https://dev.to/drobledo/--2j81)
-- [How to Use SQL Views to Simplify Data Access and Reporting](https://dev.to/dbvismarketing/how-to-use-sql-views-to-simplify-data-access-and-reporting-dg3)
-- [Mastering File System Monitoring with Watchdog in Python](https://dev.to/devasservice/mastering-file-system-monitoring-with-watchdog-in-python-483c)
-- [How to Print &quot;Hello, World!&quot; in Python](https://dev.to/vishakha_chaudhry_cf0857f/how-to-print-hello-world-in-python-2edm)
+- [Building a Professional Solana Wallet Tracking Telegram Bot](https://dev.to/stevendev0822/building-a-professional-solana-wallet-tracking-telegram-bot-16od)
+- [Getting Started with uv: A Fast Python Package Manager for Web Development](https://dev.to/priyanshu_jha_17502da984f/getting-started-with-uv-a-fast-python-package-manager-for-web-development-36d0)
+- [Why Are Developers Choosing Rust for Solana in 2025?](https://dev.to/cryptosolmaster/why-are-developers-choosing-rust-for-solana-in-2025-3389)
+- [A Beginner’s Guide to the Solana Ecosystem for Python Developers](https://dev.to/cryptosolmaster/a-beginners-guide-to-the-solana-ecosystem-for-python-developers-3f7g)
+- [Decoding cURL vs Wget: Which Tool Should You Use for Downloads](https://dev.to/swiftproxy_residential/decoding-curl-vs-wget-which-tool-should-you-use-for-downloads-1i10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
