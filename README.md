@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Paperwork to Digital Excellence: LMS in Compliance Training](https://dev.to/lukasjeremy/from-paperwork-to-digital-excellence-lms-in-compliance-training-jki)
-- [Getting Started with ServiceNow: A Beginner’s Guide](https://dev.to/markwayne/getting-started-with-servicenow-a-beginners-guide-35ph)
-- [Active Directory Attacks: Hardening Strategies Every Organization Needs in 2025](https://dev.to/kapusto/active-directory-attacks-hardening-strategies-every-organization-needs-in-2025-3ejo)
-- [Ultimate Interview Prep Guide: React, Git, Behavioral, and DSA](https://dev.to/koolkamalkishor/react-javascript-technical-questions-55fl)
-- [Resolving Ferron Server Installation Challenges: A Step-by-Step Troubleshooting Guide](https://dev.to/obaaa8/resolving-ferron-server-installation-challenges-a-step-by-step-troubleshooting-guide-i64)
+- [Top Benefits of Implementing a Smart Tender Management System](https://dev.to/bhavesh_gangani_/top-benefits-of-implementing-a-smart-tender-management-system-4b8p)
+- [Authentication vs Authorization: The API Injection Mistake You Might Be Making](https://dev.to/heres/authentication-vs-authorization-the-api-injection-mistake-you-might-be-making-3fdc)
+- [PVS-Studio 7.36: expanded MISRA support, plugin for Qt Creator 16, enhanced user annotations for C#, and much more](https://dev.to/pvsdev/pvs-studio-736-expanded-misra-support-plugin-for-qt-creator-16-enhanced-user-annotations-for-4gf9)
+- [Authentication without secrets to protect or public keys to distribute. Yay, nay or meh?](https://dev.to/relaycorp/authentication-without-secrets-to-protect-or-public-keys-to-distribute-yay-nay-or-meh-2djm)
+- [Exam Prep, a Spark of Curiosity, and a Moonlit Ending](https://dev.to/soulnumber22/exam-prep-a-spark-of-curiosity-and-a-moonlit-ending-197i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
