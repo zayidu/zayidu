@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [learned basics of Java today, variables , expressions ,and basic programs](https://dev.to/ayush_kumar_f0dd69996cd7a/learned-basics-of-java-today-variables-expressions-and-basic-programs-1mdd)
-- [Kaltrinkeda — Home Screen V2](https://dev.to/notmadebyahuman/kaltrinkeda-home-screen-v2-56fd)
-- [🎯Fermat’s Little Theorem: The Tiny Theorem with Huge Impact](https://dev.to/mysteryminusplus/fermats-little-theorem-the-tiny-theorem-with-huge-impact-hbd)
-- [Top 10 YouTube Channels for Learning Data Analytics: Boost Your Skills in 2025](https://dev.to/vladam/top-10-youtube-channels-for-learning-data-analytics-boost-your-skills-in-2025-2mdl)
-- [The Impact of 5G on Web Development: How Faster Networks Will Change User Experiences](https://dev.to/rushilbhuptani/the-impact-of-5g-on-web-development-how-faster-networks-will-change-user-experiences-3g4)
+- [🧠 What Every Web2 Dev Should Know Before Going Web3](https://dev.to/vadym_info_polus/what-every-web2-dev-should-know-before-going-web3-501j)
+- [“To-Do App: MERN Stack”](https://dev.to/_adesh_mishra_/to-do-app-mern-stack-2a4i)
+- [Vibe coding tools](https://dev.to/yazansneneh/vibe-coding-tools-m9f)
+- [Using While Loop](https://dev.to/haryniramesh_90cfe77bda94/using-while-loop-3g2p)
+- [AWS Compute Services: The Complete Guide to EC2 and Beyond](https://dev.to/eunice-js/aws-compute-services-the-complete-guide-to-ec2-and-beyond-1fmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
