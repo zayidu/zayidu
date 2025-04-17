@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the V8 Garbage Collector](https://dev.to/omriluz1/understanding-the-v8-garbage-collector-1a36)
-- [ChatGPT Knows Your IQ](https://dev.to/besworks/chatgpt-knows-your-iq-3nac)
-- [Closing the Chapter - Recap](https://dev.to/theoforger/closing-the-chapter-recap-mhd)
-- [Begin Your Developer Journey: Full Stack Development Course in Coimbatore – SkyAppz Academy](https://dev.to/kannan_palanisamy_c10fdfb/begin-your-developer-journey-full-stack-development-course-in-coimbatore-skyappz-academy-32cn)
-- [Pizza Radar🍕: Finding Pizzerias in Panama City with LinkedLists](https://dev.to/thecoder507/pizza-radar-finding-pizzerias-in-panama-city-with-linkedlists-3ogh)
+- [🧠 JavaScript Conditional Statements Explained for Beginners](https://dev.to/ebereplenty/javascript-conditional-statements-explained-for-beginners-3k5g)
+- [Mastering the Basics: Key Elements of a Good Basketball Shot for Beginners by Basketball Enthusiasts including Matthew Skorny](https://dev.to/matthew12/mastering-the-basics-key-elements-of-a-good-basketball-shot-for-beginners-by-basketball-245e)
+- [FortiOS 7.6.3 Update: SSL VPN Tunnel Mode No Longer Supported](https://dev.to/madhushan/fortios-763-update-ssl-vpn-tunnel-mode-no-longer-supported-27hg)
+- [🚀 Commitizen: Making Git Commits the Right Way](https://dev.to/oskhar/commitizen-making-git-commits-the-right-way-g70)
+- [Mastering Retry Strategies in Distributed Systems: Preventing Retry Storms and Ensuring Resilience](https://dev.to/rajeshpandey/mastering-retry-strategies-in-distributed-systems-preventing-retry-storms-and-ensuring-resilience-12lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
