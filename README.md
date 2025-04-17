@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 What Every Web2 Dev Should Know Before Going Web3](https://dev.to/vadym_info_polus/what-every-web2-dev-should-know-before-going-web3-501j)
-- [“To-Do App: MERN Stack”](https://dev.to/_adesh_mishra_/to-do-app-mern-stack-2a4i)
-- [Vibe coding tools](https://dev.to/yazansneneh/vibe-coding-tools-m9f)
-- [Using While Loop](https://dev.to/haryniramesh_90cfe77bda94/using-while-loop-3g2p)
-- [AWS Compute Services: The Complete Guide to EC2 and Beyond](https://dev.to/eunice-js/aws-compute-services-the-complete-guide-to-ec2-and-beyond-1fmb)
+- [Google Cloud Next 2025: Day 2](https://dev.to/googleworkspace/google-cloud-next-2025-day-2-2e0e)
+- [SPO600 Project Stage 3: Wrapping it Up](https://dev.to/jpjpjp/spo600-project-stage-3-wrapping-it-up-2422)
+- [Linux Commands You Should Avoid Like the Plague &lpar;Especially in Red Hat RHEL9&rpar;](https://dev.to/higgs182092/linux-commands-you-should-avoid-like-the-plague-especially-in-red-hat-rhel9-4goj)
+- [My Backend Stack Is Just TypeScript + Postgres. Here’s Why That’s Enough](https://dev.to/shayy/my-backend-stack-is-just-typescript-postgres-heres-why-thats-enough-1pni)
+- [Featured as one of the best hindi-speaking nestjs freelancers to hire in 2025 on Contra.](https://dev.to/sahilrana/featured-as-one-of-the-best-hindi-speaking-nestjs-freelancers-to-hire-in-2025-on-contra-5104)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
