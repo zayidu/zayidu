@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Euclid to Euler: A Journey Through Primes, Proofs, and Modern Cryptography](https://dev.to/mysteryminusplus/from-euclid-to-euler-a-journey-through-primes-proofs-and-modern-cryptography-47o9)
-- [Curly Quotes with QuoteQuote](https://dev.to/tomherni/curly-quotes-with-quotequote-cf1)
-- [AI talk and learning](https://dev.to/wesbite-ai/ai-talk-and-learning-1l0)
-- [Network Management Software – Command Your Connectivity](https://dev.to/kevin_asutton_/network-management-software-command-your-connectivity-2108)
-- [Optimizing Web Efficiency through PHP Libraries](https://dev.to/avlin_joy_8eeba4f1d9490bd/optimizing-web-efficiency-through-php-libraries-4k02)
+- [The Best Engineers Don’t Block - They Unblock](https://dev.to/duplessisvanaswegen/the-best-engineers-dont-block-they-unblock-4ho4)
+- [Vietnam’s Biometric Verification Mandate: Key Regulatory Impact and Opportunities for Banks &amp; Corporates](https://dev.to/vdelitz/vietnams-biometric-verification-mandate-key-regulatory-impact-and-opportunities-for-banks--4cgn)
+- [Building yet another Remote Jobs Aggregator &lpar;FlexHired&rpar; - My strategy for differentiation &amp; seeking feedback](https://dev.to/xuho/building-yet-another-remote-jobs-aggregator-flexhired-my-strategy-for-differentiation-seeking-435d)
+- [AWS Shared Responsibility Model and Security Principles](https://dev.to/eunice-js/aws-shared-responsibility-model-and-security-principles-e3f)
+- [Leetcode - 104. Maximum Depth of Binary Tree](https://dev.to/rakeshreddy512/leetcode-104-maximum-depth-of-binary-tree-12m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
