@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-gh1)
-- [From Zero to Hero: How I Tricked AI into Building My Startup MVP in 24 Hours](https://dev.to/sakethkowtha/from-zero-to-hero-how-i-tricked-ai-into-building-my-startup-mvp-in-24-hours-3np1)
-- [🧃 Just Me, C++ &amp; the STL](https://dev.to/hrdxh/just-me-c-the-stl-38je)
-- [Cloudflare Tunnel vs. ngrok vs. Tailscale: Choosing the Right Secure Tunneling Solution](https://dev.to/mechcloud_academy/cloudflare-tunnel-vs-ngrok-vs-tailscale-choosing-the-right-secure-tunneling-solution-4inm)
-- [🔮 The Top 10 Programming Languages to Master for 2025](https://dev.to/theodor_coin_4/the-top-10-programming-languages-to-master-for-2025-1ddm)
+- [From Euclid to Euler: A Journey Through Primes, Proofs, and Modern Cryptography](https://dev.to/mysteryminusplus/from-euclid-to-euler-a-journey-through-primes-proofs-and-modern-cryptography-47o9)
+- [Curly Quotes with QuoteQuote](https://dev.to/tomherni/curly-quotes-with-quotequote-cf1)
+- [AI talk and learning](https://dev.to/wesbite-ai/ai-talk-and-learning-1l0)
+- [Network Management Software – Command Your Connectivity](https://dev.to/kevin_asutton_/network-management-software-command-your-connectivity-2108)
+- [Optimizing Web Efficiency through PHP Libraries](https://dev.to/avlin_joy_8eeba4f1d9490bd/optimizing-web-efficiency-through-php-libraries-4k02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
