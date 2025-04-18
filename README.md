@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring React Design Patterns: Recursive, Partial, and Composition 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
+- [Find the Closest Date Match for Each Record from Two Tables — From SQL to SPL #20](https://dev.to/judith677/find-the-closest-date-match-for-each-record-from-two-tables-from-sql-to-spl-20-4d49)
+- [Mastering React Design Patterns: Recursive, Partial, and Composition for Scalable Code 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
 - [SPO600 - Lab 3: Building a Number Guessing Game in 6502 Assembly](https://dev.to/amullagaliev/spo600-lab-3-building-a-number-guessing-game-in-6502-assembly-3ca2)
 - [[Boost]](https://dev.to/pa1_explorer/-1p9g)
 - [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
-- [40 days of K8s - CKA chalange &lpar;01/40&rpar;](https://dev.to/idubi/40-days-of-k8s-cka-chalange-0140-36k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
