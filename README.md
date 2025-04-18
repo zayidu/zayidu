@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Best Haskell Libraries in 2025?](https://dev.to/rociogarciavf/what-are-the-best-haskell-libraries-in-2025-2fd8)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3m98)
-- [[Boost]](https://dev.to/anilvn/-5716)
-- [From Skepticism to System: How We Transitioned to Full-AI Dev.](https://dev.to/julien_doussot/from-skepticism-to-system-how-we-transitioned-to-full-ai-dev-59dc)
-- [How Enterprises Can Optimize Learning Strategies in 2025](https://dev.to/professional_trainer_c8c1/how-enterprises-can-optimize-learning-strategies-in-2025-3069)
+- [How to add custom fonts in React Native](https://dev.to/logrocket/how-to-add-custom-fonts-in-react-native-14a)
+- [Backstage for the win!](https://dev.to/fortune-ndlovu/backstage-for-the-win-5eba)
+- [Inside Easylab AI: The Company That No Longer Writes Its Own Code](https://dev.to/alex_deg/inside-easylab-ai-the-company-that-no-longer-writes-its-own-code-36b8)
+- [AutoHotkey ve Texpand ile Hayatınızı Otomatikleştirin](https://dev.to/eagledfc/autohotkey-ve-texpand-ile-hayatinizi-otomatiklestirin-5eon)
+- [Post 3: Strategic Lazy Loading in React - Naming and Optimising Chunks](https://dev.to/dawoodxp97/post-3-strategic-lazy-loading-in-react-naming-and-optimising-chunks-5hi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
