@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌏 Community Over Code Asia 2025 Is Coming to Beijing — Call for Proposals Now Open!](https://dev.to/seatunnel/community-over-code-asia-2025-is-coming-to-beijing-call-for-proposals-now-open-2gea)
-- [Applications of Cloud Computing in Banking](https://dev.to/piya__c204c9e90/applications-of-cloud-computing-in-banking-234k)
-- [&#39;useIsMobile&#39; hook in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/useismobile-hook-in-vercelai-chatbot-source-code-5894)
-- [Kubernetes 1.30 Features – More Enhancements You Shouldn’t Miss](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-more-enhancements-you-shouldnt-miss-3mhh)
-- [How I Would Learn to Code in 2026 - For Newbie](https://dev.to/yukeshdhakal42/how-i-would-learn-to-code-in-2026-for-newbie-5cl)
+- [Why Partnering With a Custom PHP Development Company is the Smart Move for Your Next Web Project](https://dev.to/alex_3c165a96b43112b35d9e/title-why-partnering-with-a-custom-php-development-company-is-the-smart-move-for-your-next-web-5ehm)
+- [Want to become a better Developer? Read this!](https://dev.to/urbanisierung/want-to-become-a-better-developer-read-this-2jb5)
+- [Hello Community](https://dev.to/ph0enix46/hello-community-l96)
+- [Function Calling vs. MCP &lpar;Model Context Protocol&rpar; + A2A: A Clean Architecture Analogy](https://dev.to/sreeni5018/function-calling-vs-mcp-model-context-protocol-a2a-a-clean-architecture-analogy-j4g)
+- [Hi, I am Kisra!](https://dev.to/kisra_fistya/hi-i-am-kisra-2ja9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
