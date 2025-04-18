@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [NDPR, GDPR, and CCPA — What Every Nigerian Techie Should Know About Data Compliance](https://dev.to/mantle_bearer/ndpr-gdpr-and-ccpa-what-every-nigerian-techie-should-know-about-data-compliance-26j6)
+- [Tidy &amp; Wrap Up - Project Stage 03](https://dev.to/jurozaw/tidy-wrap-up-project-stage-03-38h2)
 - [Building a Scalable, Secure Multi-Tier Architecture on AWS — My Recent Infrastructure Project](https://dev.to/leonardkachi/building-a-scalable-secure-multi-tier-architecture-on-aws-my-recent-infrastructure-project-1a16)
 - [Working on the Open Data Editor at the Open Knowledge Foundation](https://dev.to/guergana/working-at-the-open-knowledge-foundation-42n3)
 - [Mentorship To Me](https://dev.to/jacobmgevans/mentorship-to-me-fg7)
-- [Nice blog!](https://dev.to/elizabethfuentes12/-m98)
-- [Dijito](https://dev.to/david_bermenvliz/dijito-582n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
