@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add custom fonts in React Native](https://dev.to/logrocket/how-to-add-custom-fonts-in-react-native-14a)
-- [Backstage for the win!](https://dev.to/fortune-ndlovu/backstage-for-the-win-5eba)
-- [Inside Easylab AI: The Company That No Longer Writes Its Own Code](https://dev.to/alex_deg/inside-easylab-ai-the-company-that-no-longer-writes-its-own-code-36b8)
-- [AutoHotkey ve Texpand ile Hayatınızı Otomatikleştirin](https://dev.to/eagledfc/autohotkey-ve-texpand-ile-hayatinizi-otomatiklestirin-5eon)
-- [Post 3: Strategic Lazy Loading in React - Naming and Optimising Chunks](https://dev.to/dawoodxp97/post-3-strategic-lazy-loading-in-react-naming-and-optimising-chunks-5hi7)
+- [Go + WASM: Run Native Code in Your Browser](https://dev.to/lovestaco/go-wasm-run-native-code-in-your-browser-1nak)
+- [How to Use requestIdleCallback for Efficient Background Tasks in JavaScript](https://dev.to/hexshift/how-to-use-requestidlecallback-for-efficient-background-tasks-in-javascript-151g)
+- [Top 5 Java GraphQL Client Libraries for Efficient API Consumption in 2023](https://dev.to/aaravjoshi/top-5-java-graphql-client-libraries-for-efficient-api-consumption-in-2023-6i9)
+- [About GORM AutoMigrate Control for Faster Startup](https://dev.to/ixugo/about-gorm-automigrate-control-for-faster-startup-36j0)
+- [How I Created My First Website Using Hostinger in 10 Minutes – No Coding Needed](https://dev.to/mojahidulislam11/how-i-created-my-first-website-using-hostinger-in-10-minutes-no-coding-needed-d63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
