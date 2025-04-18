@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Overengineer’s Manifesto: Saying Hello the Hard Way](https://dev.to/copyleftdev/the-overengineers-manifesto-saying-hello-the-hard-way-8pb)
-- [🧵 How Print-on-Demand E-commerce APIs Work](https://dev.to/jeremy_libeskind_4bfdc99f/how-print-on-demand-e-commerce-apis-work-4o3f)
-- [The Importance of a WordPress Developer for SaaS Websites](https://dev.to/patricia_smith/the-importance-of-a-wordpress-developer-for-saas-websites-4ejl)
-- [Unlocking Growth with Digital Marketing: A Modern Approach](https://dev.to/vishal_more_02990955c9358/unlocking-growth-with-digital-marketing-a-modern-approach-5hch)
-- [Building Accessible Angular Applications &lpar;WCAG, ARIA&rpar;](https://dev.to/artem_turlenko/building-accessible-angular-applications-wcag-aria-13bo)
+- [Harnessing Warp Terminal: Integrating AI and IDE-like Features into Your Workflow](https://dev.to/omriluz1/harnessing-warp-terminal-integrating-ai-and-ide-like-features-into-your-workflow-4ed3)
+- [How can I add a floating animated assistant character in React while keeping a premium glassmorphism UI?](https://dev.to/miguel_zimmermiguelitos/how-can-i-add-a-floating-animated-assistant-character-in-react-while-keeping-a-premium-1o54)
+- [Create a Stunning Online Portfolio with Hostinger: A Step-by-Step Guide](https://dev.to/minimadesk_gpl/create-a-stunning-online-portfolio-with-hostinger-a-step-by-step-guide-1c72)
+- [Mastering the Awk Command: A Beginner&#39;s Guide to Text Processing](https://dev.to/minimadesk_gpl/mastering-the-awk-command-a-beginners-guide-to-text-processing-3n36)
+- [🍕 What is Node.js? A Beginner-Friendly Intro &lpar;with Snacks &amp; Fish&rpar;](https://dev.to/learn_with_santosh/what-is-nodejs-a-beginner-friendly-intro-with-snacks-fish-1fob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
