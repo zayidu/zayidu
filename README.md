@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Foundations to Cybersecurity Architect: My Microsoft Certification Journey](https://dev.to/attaullahshafiq10/from-foundations-to-cybersecurity-architect-my-microsoft-certification-journey-5339)
-- [More Than Just Answers: Real-World Applications of Amazon Q Business &lpar;With a Guided Lab&rpar;](https://dev.to/anitha_senthilnathan/more-than-just-answers-real-world-applications-of-amazon-q-business-with-a-guided-lab-154o)
-- [How to Work With HAR Files: A Step-by-Step Guide [With Examples]](https://dev.to/webviziodotcom/how-to-work-with-har-files-a-step-by-step-guide-with-examples-5g8e)
-- [How to Create Strong Passwords, Privacy and Security for Dummies](https://dev.to/beckmateo/how-to-create-strong-passwords-privacy-and-security-for-dummies-3cd)
-- [Monitoring Server Health in Private Cloud Data Centers: A Scalable Approach](https://dev.to/jindal0309/monitoring-server-health-in-private-cloud-data-centersa-scalable-approach-3gdg)
+- [Creation d&#39;une page web simple avec html et css](https://dev.to/josu_olamba_990b7a055e48/creation-dune-page-web-simple-avec-html-et-css-9ij)
+- [Introduction Post](https://dev.to/princewill_monday_32b7eff/introduction-post-8g0)
+- [Square Every Digit](https://dev.to/maddiepst/square-every-digit-52kl)
+- [Build Once, Filter Forever: Automating Process Street Data Set Queries in Power Automate](https://dev.to/improvizations/build-once-filter-forever-automating-process-street-data-set-queries-in-power-automate-424g)
+- [My Journey Into Frontend Development: Learning HTML, CSS, and Flexbox with freeCodeCamp](https://dev.to/bashir_alazaki_671cf8c59/my-journey-into-frontend-development-learning-html-css-and-flexbox-with-freecodecamp-5fon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
