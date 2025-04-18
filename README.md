@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go + WASM: Run Native Code in Your Browser](https://dev.to/lovestaco/go-wasm-run-native-code-in-your-browser-1nak)
-- [How to Use requestIdleCallback for Efficient Background Tasks in JavaScript](https://dev.to/hexshift/how-to-use-requestidlecallback-for-efficient-background-tasks-in-javascript-151g)
-- [Top 5 Java GraphQL Client Libraries for Efficient API Consumption in 2023](https://dev.to/aaravjoshi/top-5-java-graphql-client-libraries-for-efficient-api-consumption-in-2023-6i9)
-- [About GORM AutoMigrate Control for Faster Startup](https://dev.to/ixugo/about-gorm-automigrate-control-for-faster-startup-36j0)
-- [How I Created My First Website Using Hostinger in 10 Minutes – No Coding Needed](https://dev.to/mojahidulislam11/how-i-created-my-first-website-using-hostinger-in-10-minutes-no-coding-needed-d63)
+- [Rust Concurrency: When to Use &lpar;and Avoid&rpar; Async Runtimes](https://dev.to/leapcell/rust-concurrency-when-to-use-and-avoid-async-runtimes-1dl9)
+- [A critical look at the modern programming landscape](https://dev.to/lostghost/a-critical-look-at-the-modern-programming-landscape-1l7o)
+- [The Future of CPE for CPAs: Trends, Technology &amp; Changes](https://dev.to/adan_shoukat_9351fc997191/the-future-of-cpe-for-cpas-trends-technology-changes-n78)
+- [What I learned from Vibe Coding](https://dev.to/cdinuwan/what-i-learned-from-vibe-coding-cbb)
+- [My Official Blog on Spirituality, Tantra, and Astrology](https://dev.to/amit_kumar_jha/my-official-blog-on-spirituality-and-astrology-2bi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
