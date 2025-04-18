@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Find the Closest Date Match for Each Record from Two Tables — From SQL to SPL #20](https://dev.to/judith677/find-the-closest-date-match-for-each-record-from-two-tables-from-sql-to-spl-20-4d49)
-- [Mastering React Design Patterns: Recursive, Partial, and Composition for Scalable Code 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
-- [SPO600 - Lab 3: Building a Number Guessing Game in 6502 Assembly](https://dev.to/amullagaliev/spo600-lab-3-building-a-number-guessing-game-in-6502-assembly-3ca2)
-- [[Boost]](https://dev.to/pa1_explorer/-1p9g)
-- [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
+- [🌏 Community Over Code Asia 2025 Is Coming to Beijing — Call for Proposals Now Open!](https://dev.to/seatunnel/community-over-code-asia-2025-is-coming-to-beijing-call-for-proposals-now-open-2gea)
+- [Applications of Cloud Computing in Banking](https://dev.to/piya__c204c9e90/applications-of-cloud-computing-in-banking-234k)
+- [&#39;useIsMobile&#39; hook in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/useismobile-hook-in-vercelai-chatbot-source-code-5894)
+- [Kubernetes 1.30 Features – More Enhancements You Shouldn’t Miss](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-more-enhancements-you-shouldnt-miss-3mhh)
+- [How I Would Learn to Code in 2026 - For Newbie](https://dev.to/yukeshdhakal42/how-i-would-learn-to-code-in-2026-for-newbie-5cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
