@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculator](https://dev.to/tusshal_tushalk_37e3ccf1/calculator-49i1)
-- [File Permissions and Ownership in Linux](https://dev.to/chielo_chiamaka/file-permissions-and-ownership-in-linux-oj4)
-- [Mobile Device Camera/Bluetooth/Location Access](https://dev.to/sasikumar_p_f431b106888c0/mobile-device-camerabluetoothlocation-access-3n14)
-- [KitOps: Bringing DevOps Discipline to Machine Learning Artifacts](https://dev.to/kitops/kitops-bringing-devops-discipline-to-machine-learning-artifacts-n9h)
-- [They Thought Their Cloud Spend Was Normal—Until Cloud Shot Proved Otherwise](https://dev.to/cloudshot_io_265b63f67239/they-thought-their-cloud-spend-was-normal-until-cloud-shot-proved-otherwise-1341)
+- [Hiring Season is Here: Top Companies Are Hiring for 2026 Batch Graduates!](https://dev.to/codewithsuhani/hiring-season-is-here-top-companies-are-hiring-for-2026-batch-graduates-58hi)
+- [Beyond Hype: The Real Metrics Behind Commercially Successful Blockchains](https://dev.to/martin_call/beyond-hype-the-real-metrics-behind-commercially-successful-blockchains-2ol6)
+- [Generate Realistic Mock Data with ease in VS Code with this Super Extension](https://dev.to/joebuddie/generate-realistic-mock-data-with-ease-in-vs-code-with-this-super-extension-496b)
+- [MCP Server/Client and Agent and my unanswered philosophical question!](https://dev.to/aairom/mcp-serverclient-and-agent-and-my-unanswered-philosophical-question-2hnc)
+- [🔄 Async/Await vs Promise.all&lpar;&rpar; — When to Use What?](https://dev.to/hamzakhan/asyncawait-vs-promiseall-when-to-use-what-1i6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
