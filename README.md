@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Concurrency: When to Use &lpar;and Avoid&rpar; Async Runtimes](https://dev.to/leapcell/rust-concurrency-when-to-use-and-avoid-async-runtimes-1dl9)
-- [A critical look at the modern programming landscape](https://dev.to/lostghost/a-critical-look-at-the-modern-programming-landscape-1l7o)
-- [The Future of CPE for CPAs: Trends, Technology &amp; Changes](https://dev.to/adan_shoukat_9351fc997191/the-future-of-cpe-for-cpas-trends-technology-changes-n78)
-- [What I learned from Vibe Coding](https://dev.to/cdinuwan/what-i-learned-from-vibe-coding-cbb)
-- [My Official Blog on Spirituality, Tantra, and Astrology](https://dev.to/amit_kumar_jha/my-official-blog-on-spirituality-and-astrology-2bi8)
+- [VS Code vs. Cursor vs. Trae: Navigating the AI IDE Landscape in 2025](https://dev.to/joodi/vs-code-vs-cursor-vs-trae-navigating-the-ai-ide-landscape-in-2025-4e2k)
+- [Setting Up a Secure ROS 2 System: Part 3 Installing ROS 2](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-3-installing-ros-2-3p2c)
+- [From JavaScript to Scala](https://dev.to/matsilva/from-javascript-to-scala-9ei)
+- [Embracing ReaderT finally](https://dev.to/druchan/embracing-readert-finally-4j56)
+- [Designing an Azure Virtual Network &lpar;Vnet&rpar; For a Tech Company a Step-by-Step Guide](https://dev.to/onyema_blaise_83/designing-an-azure-virtual-network-vnet-for-a-tech-company-a-step-by-step-guide-224h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
