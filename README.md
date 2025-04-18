@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: Why Quart Might Be the Better Choice over FastAPI](https://dev.to/mechcloud_academy/python-why-quart-might-be-the-better-choice-over-fastapi-398b)
-- [Replace HELM with KISS](https://dev.to/avkr/replace-helm-with-kiss-456a)
-- [Joshua Vignona_ Mastering the Art of Commercial Strategy and Execution — Joshua Vignona](https://dev.to/joshua022/joshua-vignona-mastering-the-art-of-commercial-strategy-and-execution-joshua-vignona-2957)
-- [What I Wish I Knew as a Junior Developer](https://dev.to/tlorent/what-i-wish-i-knew-as-a-junior-developer-k2)
-- [🕯️ THE RITUAL CHAMBER IS OPEN 🎧 Yes, it’s a music player. But not like any you’ve seen before.](https://dev.to/ghostking314/the-ritual-chamber-is-open-yes-its-a-music-player-but-not-like-any-youve-seen-before-3mh2)
+- [What Are the Best Haskell Libraries in 2025?](https://dev.to/rociogarciavf/what-are-the-best-haskell-libraries-in-2025-2fd8)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3m98)
+- [[Boost]](https://dev.to/anilvn/-5716)
+- [From Skepticism to System: How We Transitioned to Full-AI Dev.](https://dev.to/julien_doussot/from-skepticism-to-system-how-we-transitioned-to-full-ai-dev-59dc)
+- [How Enterprises Can Optimize Learning Strategies in 2025](https://dev.to/professional_trainer_c8c1/how-enterprises-can-optimize-learning-strategies-in-2025-3069)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
