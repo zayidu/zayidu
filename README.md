@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps vs Traditional CI/CD: A Comprehensive Comparison for Modern DevOps Practices](https://dev.to/adityabhuyan/gitops-vs-traditional-cicd-a-comprehensive-comparison-for-modern-devops-practices-5075)
-- [[Boost]](https://dev.to/cfzgsj/-34me)
-- [Why Event Check-In Apps Are Superior to Manual Processes Every Time](https://dev.to/saanvipatel099/why-event-check-in-apps-are-superior-to-manual-processes-every-time-3mi)
-- [Attribute Mixins: a declarative-functional alternative to Directives](https://dev.to/dariomannu/attribute-mixins-a-declarative-functional-alternative-to-directives-4gf6)
-- [Everything You Need to Know About JavaScript Compilers](https://dev.to/tpointtechedu/everything-you-need-to-know-about-javascript-compilers-3jl5)
+- [The Overengineer’s Manifesto: Saying Hello the Hard Way](https://dev.to/copyleftdev/the-overengineers-manifesto-saying-hello-the-hard-way-8pb)
+- [🧵 How Print-on-Demand E-commerce APIs Work](https://dev.to/jeremy_libeskind_4bfdc99f/how-print-on-demand-e-commerce-apis-work-4o3f)
+- [The Importance of a WordPress Developer for SaaS Websites](https://dev.to/patricia_smith/the-importance-of-a-wordpress-developer-for-saas-websites-4ejl)
+- [Unlocking Growth with Digital Marketing: A Modern Approach](https://dev.to/vishal_more_02990955c9358/unlocking-growth-with-digital-marketing-a-modern-approach-5hch)
+- [Building Accessible Angular Applications &lpar;WCAG, ARIA&rpar;](https://dev.to/artem_turlenko/building-accessible-angular-applications-wcag-aria-13bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
