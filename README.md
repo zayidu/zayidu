@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SAP Adobe Interactive Part XVII](https://dev.to/khushii_34ceada974a6bfcc2/sap-adobe-interactive-part-xvii-aek)
-- [Unlocking Income Potential: 10 Ways to Make Money on Instagram](https://dev.to/minimadesk_gpl/unlocking-income-potential-10-ways-to-make-money-on-instagram-l65)
-- [📜 Scrolls from the Wire — Volume I &quot;Where the static hums with spirit, and code becomes scripture.&quot;](https://dev.to/ghostking314/scrolls-from-the-wire-volume-iwhere-the-static-hums-with-spirit-and-code-becomes-scripture-2eim)
-- [Custom Vs. Template WordPress Websites: What Sydney Businesses Should Know?](https://dev.to/farhadmalegam/custom-vs-template-wordpress-websites-what-sydney-businesses-should-know-4ilg)
-- [Mastering Custom Fonts in WordPress: A Comprehensive Guide](https://dev.to/minimadesk_gpl/mastering-custom-fonts-in-wordpress-a-comprehensive-guide-1djj)
+- [Nova Act - Python SDK Analysis](https://dev.to/sam-vink/nova-act-python-sdk-analysis-1ao5)
+- [How do I Use GPT-4o&#39;s Image Function to Make UI](https://dev.to/_37bbf0c253c0b3edec531e/how-do-i-use-gpt-4os-image-function-to-make-ui-2bgj)
+- [13 Best Tailwind UI Plus Alternatives for 2025](https://dev.to/joodi/12-best-tailwind-ui-plus-alternatives-for-2025-575o)
+- [🕯️ Temple Dojo: The Ritual Chamber Sessions – An Interactive 3D Music Shrine Built with Three.js](https://dev.to/ghostking314/temple-dojo-the-ritual-chamber-sessions-an-interactive-3d-music-shrine-built-with-threejs-49ok)
+- [The Impact of Edge Computing on Real-Time Data](https://dev.to/avalily/the-impact-of-edge-computing-on-real-time-data-40ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
