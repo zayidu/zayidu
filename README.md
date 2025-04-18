@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code vs. Cursor vs. Trae: Navigating the AI IDE Landscape in 2025](https://dev.to/joodi/vs-code-vs-cursor-vs-trae-navigating-the-ai-ide-landscape-in-2025-4e2k)
-- [Setting Up a Secure ROS 2 System: Part 3 Installing ROS 2](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-3-installing-ros-2-3p2c)
-- [From JavaScript to Scala](https://dev.to/matsilva/from-javascript-to-scala-9ei)
-- [Embracing ReaderT finally](https://dev.to/druchan/embracing-readert-finally-4j56)
-- [Designing an Azure Virtual Network &lpar;Vnet&rpar; For a Tech Company a Step-by-Step Guide](https://dev.to/onyema_blaise_83/designing-an-azure-virtual-network-vnet-for-a-tech-company-a-step-by-step-guide-224h)
+- [From Foundations to Cybersecurity Architect: My Microsoft Certification Journey](https://dev.to/attaullahshafiq10/from-foundations-to-cybersecurity-architect-my-microsoft-certification-journey-5339)
+- [More Than Just Answers: Real-World Applications of Amazon Q Business &lpar;With a Guided Lab&rpar;](https://dev.to/anitha_senthilnathan/more-than-just-answers-real-world-applications-of-amazon-q-business-with-a-guided-lab-154o)
+- [How to Work With HAR Files: A Step-by-Step Guide [With Examples]](https://dev.to/webviziodotcom/how-to-work-with-har-files-a-step-by-step-guide-with-examples-5g8e)
+- [How to Create Strong Passwords, Privacy and Security for Dummies](https://dev.to/beckmateo/how-to-create-strong-passwords-privacy-and-security-for-dummies-3cd)
+- [Monitoring Server Health in Private Cloud Data Centers: A Scalable Approach](https://dev.to/jindal0309/monitoring-server-health-in-private-cloud-data-centersa-scalable-approach-3gdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
