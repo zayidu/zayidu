@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring Season is Here: Top Companies Are Hiring for 2026 Batch Graduates!](https://dev.to/codewithsuhani/hiring-season-is-here-top-companies-are-hiring-for-2026-batch-graduates-58hi)
-- [Beyond Hype: The Real Metrics Behind Commercially Successful Blockchains](https://dev.to/martin_call/beyond-hype-the-real-metrics-behind-commercially-successful-blockchains-2ol6)
-- [Generate Realistic Mock Data with ease in VS Code with this Super Extension](https://dev.to/joebuddie/generate-realistic-mock-data-with-ease-in-vs-code-with-this-super-extension-496b)
-- [MCP Server/Client and Agent and my unanswered philosophical question!](https://dev.to/aairom/mcp-serverclient-and-agent-and-my-unanswered-philosophical-question-2hnc)
-- [🔄 Async/Await vs Promise.all&lpar;&rpar; — When to Use What?](https://dev.to/hamzakhan/asyncawait-vs-promiseall-when-to-use-what-1i6e)
+- [🚀 Introducing Qastra — A Curiosity-Driven Q&amp;A Platform](https://dev.to/puneetkumar2010/introducing-qastra-a-curiosity-driven-qa-platform-4f0d)
+- [Using Auth.js in QwikJS with Modular Forms](https://dev.to/devoresyah/using-authjs-in-qwikjs-with-modular-forms-c62)
+- [Git Hooks — The Developer&#39;s Silent Sidekick](https://dev.to/gauravdalvi/git-hooks-the-developers-silent-sidekick-1obe)
+- [Documentation That Builds Itself with Sphinx + Read the Docs](https://dev.to/chrisgreening/documentation-that-builds-itself-with-sphinx-read-the-docs-56pl)
+- [How I found my &quot;First Bug&quot; in a public bug bounty program](https://dev.to/blue_byte/how-i-found-my-first-bug-in-a-public-bug-bounty-program-20lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
