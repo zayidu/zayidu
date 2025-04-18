@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nova Act - Python SDK Analysis](https://dev.to/sam-vink/nova-act-python-sdk-analysis-1ao5)
-- [How do I Use GPT-4o&#39;s Image Function to Make UI](https://dev.to/_37bbf0c253c0b3edec531e/how-do-i-use-gpt-4os-image-function-to-make-ui-2bgj)
-- [13 Best Tailwind UI Plus Alternatives for 2025](https://dev.to/joodi/12-best-tailwind-ui-plus-alternatives-for-2025-575o)
-- [🕯️ Temple Dojo: The Ritual Chamber Sessions – An Interactive 3D Music Shrine Built with Three.js](https://dev.to/ghostking314/temple-dojo-the-ritual-chamber-sessions-an-interactive-3d-music-shrine-built-with-threejs-49ok)
-- [The Impact of Edge Computing on Real-Time Data](https://dev.to/avalily/the-impact-of-edge-computing-on-real-time-data-40ad)
+- [Calculator](https://dev.to/tusshal_tushalk_37e3ccf1/calculator-49i1)
+- [File Permissions and Ownership in Linux](https://dev.to/chielo_chiamaka/file-permissions-and-ownership-in-linux-oj4)
+- [Mobile Device Camera/Bluetooth/Location Access](https://dev.to/sasikumar_p_f431b106888c0/mobile-device-camerabluetoothlocation-access-3n14)
+- [KitOps: Bringing DevOps Discipline to Machine Learning Artifacts](https://dev.to/kitops/kitops-bringing-devops-discipline-to-machine-learning-artifacts-n9h)
+- [They Thought Their Cloud Spend Was Normal—Until Cloud Shot Proved Otherwise](https://dev.to/cloudshot_io_265b63f67239/they-thought-their-cloud-spend-was-normal-until-cloud-shot-proved-otherwise-1341)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
