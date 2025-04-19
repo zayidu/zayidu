@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# The Third Step Into the World of RxJS: Combining Streams in RxJS](https://dev.to/artstesh/-the-third-step-into-the-world-of-rxjs-combining-streams-in-rxjs-42i9)
-- [Making GPay Smarter with Tags: UX for Real-World Spending](https://dev.to/sxivansx/making-gpay-smarter-with-tags-ux-for-real-world-spending-ikl)
-- [Forcing myself to do something different](https://dev.to/paul_benetis/forcing-myself-to-do-something-different-19na)
-- [I Became a Community Builder, So Let Me Tell You About EKS!](https://dev.to/daitak/i-became-a-community-builder-so-let-me-tell-you-about-eks-1aka)
-- [A dive into the world of Machine Learning! 🤿](https://dev.to/amira-azeer/a-dive-into-the-world-of-machine-learning-2ffo)
+- [use strict in JavaScript](https://dev.to/betelgeuseas/use-strict-in-javascript-57mk)
+- [10 Daily Linux Questions and Answers Series &lpar;part 8&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-8-1171)
+- [How to Set Up a Local WordPress Environment Like a Pro with Valet, WP-CLI, and MySQL](https://dev.to/domegang/how-to-set-up-a-local-wordpress-environment-like-a-pro-with-valet-wp-cli-and-mysql-53p6)
+- [Creating a Countdown Timer with Tkinter in Python](https://dev.to/blackmare01wolf/creating-a-countdown-timer-with-tkinter-in-python-4i3j)
+- [Monitoring and Controlling CPU Temperature on Linux Systems Using Buildroot](https://dev.to/pfs/monitoring-and-controlling-cpu-temperature-on-raspberry-pi-5-using-buildroot-31gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
