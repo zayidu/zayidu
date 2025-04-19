@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use HTTP/3 and QUIC for Faster, Secure Web Applications](https://dev.to/hexshift/how-to-use-http3-and-quic-for-faster-secure-web-applications-9go)
-- [How to Use WebAssembly to Speed Up CPU-Intensive Tasks in the Browser](https://dev.to/hexshift/how-to-use-webassembly-to-speed-up-cpu-intensive-tasks-in-the-browser-12be)
-- [Why Performance Testing is Critical for Scalable Web Apps](https://dev.to/dct_technology/why-performance-testing-is-critical-for-scalable-web-apps-347b)
-- [Understanding RSA - The math behind modern encryption](https://dev.to/gokul369/understanding-rsa-the-math-behind-modern-encryption-23mo)
-- [11.9 Sistema de assinaturas](https://dev.to/fundamentosjava/119-sistema-de-assinaturas-3fi7)
+- [Improving Developer Productivity at Scale: Metrics, Tools, and Systemic Fixes](https://dev.to/getambassador2024/improving-developer-productivity-at-scale-metrics-tools-and-systemic-fixes-3hm0)
+- [Facing Large Projects? Then try `INVEST`ing](https://dev.to/coderboi01/facing-large-projects-then-try-investing-2500)
+- [Hey Guys, In your work place project manager give you every task in urgent so i think this blog solve your problem check it out!](https://dev.to/rajesh_patel/hey-guys-in-your-work-place-project-manager-give-you-every-task-in-urgent-so-i-think-this-blog-343h)
+- [File Compression and Archiving in Red Hat Linux](https://dev.to/shamain_anjum/file-compression-and-archiving-in-red-hat-linux-2ef3)
+- [Totally relate—when everything’s urgent, it’s so hard to know where to start. Prioritization is a real challenge for devs! Its nice insights Check it out this guys!!!!](https://dev.to/nikhil_sachapara/totally-relate-when-everythings-urgent-its-so-hard-to-know-where-to-start-prioritization-is-a-1126)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
