@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Material Blocks MCP server - Demo](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-demo-2je)
-- [Angular Material Blocks MCP server](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-cj)
-- [How to Embed Binary Data into a Win32 Executable File in 4 Methods](https://dev.to/sorecchione07435/how-to-embed-binary-data-into-a-win32-executable-file-in-4-methods-43kp)
-- [Updated Tik](https://dev.to/samantha_samuels_e4b03731/updated-tik-56ak)
-- [How to Secure Your .NET Applications](https://dev.to/adrianbailador/how-to-secure-your-net-applications-24ed)
+- [📝 Building a Simple &amp; Optimized ToDo App in React Native](https://dev.to/amitkumar13/building-a-simple-optimized-todo-app-in-react-native-2468)
+- [Setting Up Your First HTML Project &lpar;Without Any Framework&rpar;](https://dev.to/raajaryan/setting-up-your-first-html-project-without-any-framework-4d0j)
+- [The Evolution of HTML: From HTML 1.0 to HTML 5.3](https://dev.to/raajaryan/the-evolution-of-html-from-html-10-to-html-53-4fa9)
+- [What is Javascript?](https://dev.to/priyanka_sarode_694e69474/what-is-javascript-23gi)
+- [Devcanvas can now build stunning websites super FAST with AI!](https://dev.to/abdulmuminyqn/devcanvas-can-now-build-stunning-websites-super-fast-with-ai-4kd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
