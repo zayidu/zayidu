@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [use strict in JavaScript](https://dev.to/betelgeuseas/use-strict-in-javascript-57mk)
-- [10 Daily Linux Questions and Answers Series &lpar;part 8&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-8-1171)
-- [How to Set Up a Local WordPress Environment Like a Pro with Valet, WP-CLI, and MySQL](https://dev.to/domegang/how-to-set-up-a-local-wordpress-environment-like-a-pro-with-valet-wp-cli-and-mysql-53p6)
-- [Creating a Countdown Timer with Tkinter in Python](https://dev.to/blackmare01wolf/creating-a-countdown-timer-with-tkinter-in-python-4i3j)
-- [Monitoring and Controlling CPU Temperature on Linux Systems Using Buildroot](https://dev.to/pfs/monitoring-and-controlling-cpu-temperature-on-raspberry-pi-5-using-buildroot-31gp)
+- [Using subnets to extend ESP-Now](https://dev.to/gtanyware/using-subnets-to-extend-esp-now-mpb)
+- [CI/CD pipeline for deploying a Node.js + MySQL project on cPanel using GitHub](https://dev.to/swapnil_ahmmedshishir_2d/cicd-pipeline-for-deploying-a-nodejs-mysql-project-on-cpanel-using-github-5d8f)
+- [Biome – A Good Tool for Linting and Formatting Code](https://dev.to/nqhed/biome-a-good-tool-for-linting-and-formatting-code-4g4j)
+- [A dive into the world of Machine Learning! 🤿](https://dev.to/amira-azeer/a-dive-into-the-world-of-machine-learning-2h38)
+- [How to build a personal blog without paying a single euro](https://dev.to/javibarbaran/how-to-build-a-personal-blog-without-paying-a-single-euro-3adc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
