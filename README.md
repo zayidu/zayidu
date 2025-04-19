@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Server for NoSQL](https://dev.to/hasanmonsur/sql-server-for-nosql-g6o)
-- [Why Linux over Windows?](https://dev.to/omkarsharma2821/why-linux-over-windows-3nmc)
-- [Which AI Model Should You Use? A Super Simple Guide for Developers](https://dev.to/itxshakil/which-ai-model-should-you-use-a-super-simple-guide-for-developers-427)
-- [External vs Internal Monitoring: Which is Better for Uptime?](https://dev.to/tomcao2012/external-vs-internal-monitoring-which-is-better-for-uptime-9h9)
-- [🧠 AI-Powered Professional Services: Bridging Code and Client Needs](https://dev.to/srijan-xi/ai-powered-professional-services-bridging-code-and-client-needs-53hk)
+- [Angular Material Blocks MCP server - Demo](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-demo-2je)
+- [Angular Material Blocks MCP server](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-cj)
+- [How to Embed Binary Data into a Win32 Executable File in 4 Methods](https://dev.to/sorecchione07435/how-to-embed-binary-data-into-a-win32-executable-file-in-4-methods-43kp)
+- [Updated Tik](https://dev.to/samantha_samuels_e4b03731/updated-tik-56ak)
+- [How to Secure Your .NET Applications](https://dev.to/adrianbailador/how-to-secure-your-net-applications-24ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
