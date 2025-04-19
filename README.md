@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using subnets to extend ESP-Now](https://dev.to/gtanyware/using-subnets-to-extend-esp-now-mpb)
-- [CI/CD pipeline for deploying a Node.js + MySQL project on cPanel using GitHub](https://dev.to/swapnil_ahmmedshishir_2d/cicd-pipeline-for-deploying-a-nodejs-mysql-project-on-cpanel-using-github-5d8f)
-- [Biome – A Good Tool for Linting and Formatting Code](https://dev.to/nqhed/biome-a-good-tool-for-linting-and-formatting-code-4g4j)
-- [A dive into the world of Machine Learning! 🤿](https://dev.to/amira-azeer/a-dive-into-the-world-of-machine-learning-2h38)
-- [How to build a personal blog without paying a single euro](https://dev.to/javibarbaran/how-to-build-a-personal-blog-without-paying-a-single-euro-3adc)
+- [Fixed image backgrounds](https://dev.to/preetha_vaishnavi_2b82358/fixed-image-backgrounds-12eh)
+- [Mastering Azure: Core Architectural Components Explained](https://dev.to/theodora_e6f61d02577a5f06/mastering-azure-core-architectural-components-explained-28g6)
+- [Most absurd programming stories.](https://dev.to/gamelord2011/most-absurd-programming-stories-129i)
+- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
+- [TS2205: Construct signatures with no arguments have incompatible return types &#39;{0}&#39; and &#39;{1}&#39;](https://dev.to/lior_amsalem_3879371237f6/ts2205-construct-signatures-with-no-arguments-have-incompatible-return-types-0-and-1-2m09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
