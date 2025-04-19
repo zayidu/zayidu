@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l)
-- [Telegram Name Scam - Be Vigilant](https://dev.to/scofieldidehen/telegram-name-scam-be-vigilant-41lg)
-- [Machine Learning](https://dev.to/congngheaivn/machine-learning-3k9i)
-- [My Journey Creating a Hate Speech Detection App with Machine Learning](https://dev.to/foxinfotech/my-journey-creating-a-hate-speech-detection-app-with-machine-learning-2p5l)
-- [The Ultimate Home 3D Modeling &amp; Rendering Setup for $2,000 + $100/Month](https://dev.to/hexshift/the-ultimate-home-3d-modeling-rendering-setup-for-2000-100month-3lg7)
+- [How to Use HTTP/3 and QUIC for Faster, Secure Web Applications](https://dev.to/hexshift/how-to-use-http3-and-quic-for-faster-secure-web-applications-9go)
+- [How to Use WebAssembly to Speed Up CPU-Intensive Tasks in the Browser](https://dev.to/hexshift/how-to-use-webassembly-to-speed-up-cpu-intensive-tasks-in-the-browser-12be)
+- [Why Performance Testing is Critical for Scalable Web Apps](https://dev.to/dct_technology/why-performance-testing-is-critical-for-scalable-web-apps-347b)
+- [Understanding RSA - The math behind modern encryption](https://dev.to/gokul369/understanding-rsa-the-math-behind-modern-encryption-23mo)
+- [11.9 Sistema de assinaturas](https://dev.to/fundamentosjava/119-sistema-de-assinaturas-3fi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
