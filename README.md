@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Lessons I was Reminded of While Building a Pomodoro-inspired Web App](https://dev.to/d2d_weizhi/3-lessons-i-was-reminded-of-while-building-a-pomodoro-inspired-web-app-j34)
-- [Scaling Data Intelligence: How Web Scraping Services and Proxy APIs Empower Developers and Businesses](https://dev.to/rameshchauhan/scaling-data-intelligence-how-web-scraping-services-and-proxy-apis-empower-developers-and-22cp)
-- [I Spent 45 Hours To Built this Image Compressor Give Your Thoughts On it](https://dev.to/baba_yaga_b9d904b509/i-spent-45-hours-to-built-this-image-compressor-give-your-thoughts-on-it-43cm)
-- [Streaming Azure DevOps auditlogs to azure monitor](https://dev.to/frits-becker/streaming-azure-devops-auditlogs-to-azure-monitor-2dbj)
-- [take my game dev ideas. I’m done.](https://dev.to/dreamer_2060/take-my-game-dev-ideas-im-done-425k)
+- [Hands-on with Amazon Q Business! 🧪 Learn &amp; build with my step-by-step lab. Unlock enterprise AI now! #AI #AmazonQ](https://dev.to/anitha_senthilnathan/hands-on-with-amazon-q-business-learn-build-with-my-step-by-step-lab-unlock-enterprise-ai-31n6)
+- [The Role of Recitals and Concerts in Shaping Your Career as a Horn Player by Master Teachers like William VerMeulen](https://dev.to/william04/the-role-of-recitals-and-concerts-in-shaping-your-career-as-a-horn-player-by-master-teachers-like-3oop)
+- [Getting Started with Kubernetes](https://dev.to/cloudwithabhi/getting-started-with-kubernetes-27gl)
+- [This is 100% correct](https://dev.to/rishithaminol/-3e15)
+- [[Boost]](https://dev.to/emmyspace/-2k8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
