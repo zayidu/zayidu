@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Developer Productivity at Scale: Metrics, Tools, and Systemic Fixes](https://dev.to/getambassador2024/improving-developer-productivity-at-scale-metrics-tools-and-systemic-fixes-3hm0)
-- [Facing Large Projects? Then try `INVEST`ing](https://dev.to/coderboi01/facing-large-projects-then-try-investing-2500)
-- [Hey Guys, In your work place project manager give you every task in urgent so i think this blog solve your problem check it out!](https://dev.to/rajesh_patel/hey-guys-in-your-work-place-project-manager-give-you-every-task-in-urgent-so-i-think-this-blog-343h)
-- [File Compression and Archiving in Red Hat Linux](https://dev.to/shamain_anjum/file-compression-and-archiving-in-red-hat-linux-2ef3)
-- [Totally relate—when everything’s urgent, it’s so hard to know where to start. Prioritization is a real challenge for devs! Its nice insights Check it out this guys!!!!](https://dev.to/nikhil_sachapara/totally-relate-when-everythings-urgent-its-so-hard-to-know-where-to-start-prioritization-is-a-1126)
+- [The fastest way to learn coding with AI](https://dev.to/homayunmmdy/the-fastest-way-to-learn-coding-with-ai-191d)
+- [Omni-channel Supply Chains: Meeting Customer Demand in Real Time](https://dev.to/jameshaddin23/omni-channel-supply-chains-meeting-customer-demand-in-real-time-2d0n)
+- [Navigating LLM-Powered Software Development: The Child, Adolescent, and Adult Phases](https://dev.to/vanitascaesar1/navigating-llm-powered-software-development-the-child-adolescent-and-adult-phases-m1)
+- [Empowering Digital Transformation: A Deep Dive into Tech Soft Consultants&#39; Comprehensive IT Solutions](https://dev.to/hammas_kiani_294d3d732cbc/empowering-digital-transformation-a-deep-dive-into-tech-soft-consultants-comprehensive-it-196d)
+- [The Software Developer Interview Prep Roadmap &lpar;With Resources&rpar;](https://dev.to/somadevtoo/the-software-developer-interview-prep-roadmap-with-resources-332l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
