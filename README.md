@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Building a Simple &amp; Optimized ToDo App in React Native](https://dev.to/amitkumar13/building-a-simple-optimized-todo-app-in-react-native-2468)
-- [Setting Up Your First HTML Project &lpar;Without Any Framework&rpar;](https://dev.to/raajaryan/setting-up-your-first-html-project-without-any-framework-4d0j)
-- [The Evolution of HTML: From HTML 1.0 to HTML 5.3](https://dev.to/raajaryan/the-evolution-of-html-from-html-10-to-html-53-4fa9)
-- [What is Javascript?](https://dev.to/priyanka_sarode_694e69474/what-is-javascript-23gi)
-- [Devcanvas can now build stunning websites super FAST with AI!](https://dev.to/abdulmuminyqn/devcanvas-can-now-build-stunning-websites-super-fast-with-ai-4kd1)
+- [3 Lessons I was Reminded of While Building a Pomodoro-inspired Web App](https://dev.to/d2d_weizhi/3-lessons-i-was-reminded-of-while-building-a-pomodoro-inspired-web-app-j34)
+- [Scaling Data Intelligence: How Web Scraping Services and Proxy APIs Empower Developers and Businesses](https://dev.to/rameshchauhan/scaling-data-intelligence-how-web-scraping-services-and-proxy-apis-empower-developers-and-22cp)
+- [I Spent 45 Hours To Built this Image Compressor Give Your Thoughts On it](https://dev.to/baba_yaga_b9d904b509/i-spent-45-hours-to-built-this-image-compressor-give-your-thoughts-on-it-43cm)
+- [Streaming Azure DevOps auditlogs to azure monitor](https://dev.to/frits-becker/streaming-azure-devops-auditlogs-to-azure-monitor-2dbj)
+- [take my game dev ideas. I’m done.](https://dev.to/dreamer_2060/take-my-game-dev-ideas-im-done-425k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
