@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-on with Amazon Q Business! 🧪 Learn &amp; build with my step-by-step lab. Unlock enterprise AI now! #AI #AmazonQ](https://dev.to/anitha_senthilnathan/hands-on-with-amazon-q-business-learn-build-with-my-step-by-step-lab-unlock-enterprise-ai-31n6)
-- [The Role of Recitals and Concerts in Shaping Your Career as a Horn Player by Master Teachers like William VerMeulen](https://dev.to/william04/the-role-of-recitals-and-concerts-in-shaping-your-career-as-a-horn-player-by-master-teachers-like-3oop)
-- [Getting Started with Kubernetes](https://dev.to/cloudwithabhi/getting-started-with-kubernetes-27gl)
-- [This is 100% correct](https://dev.to/rishithaminol/-3e15)
-- [[Boost]](https://dev.to/emmyspace/-2k8p)
+- [# The Third Step Into the World of RxJS: Combining Streams in RxJS](https://dev.to/artstesh/-the-third-step-into-the-world-of-rxjs-combining-streams-in-rxjs-42i9)
+- [Making GPay Smarter with Tags: UX for Real-World Spending](https://dev.to/sxivansx/making-gpay-smarter-with-tags-ux-for-real-world-spending-ikl)
+- [Forcing myself to do something different](https://dev.to/paul_benetis/forcing-myself-to-do-something-different-19na)
+- [I Became a Community Builder, So Let Me Tell You About EKS!](https://dev.to/daitak/i-became-a-community-builder-so-let-me-tell-you-about-eks-1aka)
+- [A dive into the world of Machine Learning! 🤿](https://dev.to/amira-azeer/a-dive-into-the-world-of-machine-learning-2ffo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
