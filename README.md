@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l)
+- [Telegram Name Scam - Be Vigilant](https://dev.to/scofieldidehen/telegram-name-scam-be-vigilant-41lg)
+- [Machine Learning](https://dev.to/congngheaivn/machine-learning-3k9i)
 - [My Journey Creating a Hate Speech Detection App with Machine Learning](https://dev.to/foxinfotech/my-journey-creating-a-hate-speech-detection-app-with-machine-learning-2p5l)
 - [The Ultimate Home 3D Modeling &amp; Rendering Setup for $2,000 + $100/Month](https://dev.to/hexshift/the-ultimate-home-3d-modeling-rendering-setup-for-2000-100month-3lg7)
-- [Kiến Trúc Hệ Thống Lớn và Phức Tạp](https://dev.to/hcmute_project_988df1c63c/kien-truc-he-thong-lon-va-phuc-tap-2bof)
-- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-ien)
-- [Best Cloud Hosting Deals in 2025 – 20% OFF with Exclusive Link](https://dev.to/raajaryan/best-cloud-hosting-deals-in-2025-20-off-with-exclusive-link-2jc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
