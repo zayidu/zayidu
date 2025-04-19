@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Streams with Fetch for Efficient Data Processing](https://dev.to/omriluz1/using-streams-with-fetch-for-efficient-data-processing-335l)
-- [Gemini AI – A Complete AI Tutor That Watches Your Screen and Guides You in Real Time!](https://dev.to/vpjigin/gemini-ai-a-complete-ai-tutor-that-watches-your-screen-and-guides-you-in-real-time-2n5d)
-- [Built a Python-based YouTube video downloader and converter – looking for feedback &amp; contributors](https://dev.to/kaifcodec/built-a-python-based-youtube-video-downloader-and-converter-looking-for-feedback-contributors-2kld)
-- [I built a 3d solar system using Three.js - check it out](https://dev.to/frontenddoc/i-built-a-3d-solar-system-using-threejs-check-it-out-4bmc)
-- [# Just Found This New Platform Called Skilltopedia — Looks Promising for Devs &amp; Designers](https://dev.to/skilltopedian/-just-found-this-new-platform-called-skilltopedia-looks-promising-for-devs-designers-52pd)
+- [How to Optimize React Rendering With useDeferredValue and useTransition](https://dev.to/hexshift/how-to-optimize-react-rendering-with-usedeferredvalue-and-usetransition-4hni)
+- [How to Optimize SQLite Performance With Indexed Views and Write-Ahead Logging](https://dev.to/hexshift/how-to-optimize-sqlite-performance-with-indexed-views-and-write-ahead-logging-2llb)
+- [Scaling Kubernetes Applications: HPA, VPA, KEDA, and Beyond](https://dev.to/vinujakhatode/scaling-kubernetes-applications-hpa-vpa-keda-and-beyond-29aa)
+- [Literal](https://dev.to/emmakang123/literal-3e22)
+- [Just released my first mobile game](https://dev.to/onur_erayblk_7ff013993/just-released-my-first-mobile-game-57ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
