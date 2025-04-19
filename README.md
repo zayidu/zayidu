@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixed image backgrounds](https://dev.to/preetha_vaishnavi_2b82358/fixed-image-backgrounds-12eh)
-- [Mastering Azure: Core Architectural Components Explained](https://dev.to/theodora_e6f61d02577a5f06/mastering-azure-core-architectural-components-explained-28g6)
-- [Most absurd programming stories.](https://dev.to/gamelord2011/most-absurd-programming-stories-129i)
-- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
-- [TS2205: Construct signatures with no arguments have incompatible return types &#39;{0}&#39; and &#39;{1}&#39;](https://dev.to/lior_amsalem_3879371237f6/ts2205-construct-signatures-with-no-arguments-have-incompatible-return-types-0-and-1-2m09)
+- [How to Dynamically Change Favicon Color in a NextJS](https://dev.to/bdhamithkumara/how-to-dynamically-change-favicon-color-in-a-nextjs-4g27)
+- [WYSIWYG editor in LiveView with embedded images that are uploaded to S3 bucket](https://dev.to/azyzz/wysiwyg-editor-in-liveview-with-embedded-images-that-are-uploaded-to-s3-bucket-2n51)
+- [Hosting a Static Website on AWS S3 Using AWS CLI – No ClickOps, Just DevOps 💻](https://dev.to/pravesh_sudha_3c2b0c2b5e0/hosting-a-static-website-on-aws-s3-using-aws-cli-no-clickops-just-devops-1ohl)
+- [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://dev.to/furkangozukara/tencent-instantcharacter-1-click-installers-for-windows-runpod-and-massed-compute-supports-rtx-34e4)
+- [Learning Kubernetes with Spring Boot &amp; Kafka – Sharing My Journey](https://dev.to/devtec_56a3db5c3472fa9ba3/learning-kubernetes-with-spring-boot-kafka-sharing-my-journey-58d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
