@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The fastest way to learn coding with AI](https://dev.to/homayunmmdy/the-fastest-way-to-learn-coding-with-ai-191d)
-- [Omni-channel Supply Chains: Meeting Customer Demand in Real Time](https://dev.to/jameshaddin23/omni-channel-supply-chains-meeting-customer-demand-in-real-time-2d0n)
-- [Navigating LLM-Powered Software Development: The Child, Adolescent, and Adult Phases](https://dev.to/vanitascaesar1/navigating-llm-powered-software-development-the-child-adolescent-and-adult-phases-m1)
-- [Empowering Digital Transformation: A Deep Dive into Tech Soft Consultants&#39; Comprehensive IT Solutions](https://dev.to/hammas_kiani_294d3d732cbc/empowering-digital-transformation-a-deep-dive-into-tech-soft-consultants-comprehensive-it-196d)
-- [The Software Developer Interview Prep Roadmap &lpar;With Resources&rpar;](https://dev.to/somadevtoo/the-software-developer-interview-prep-roadmap-with-resources-332l)
+- [AWS Amplifyの古いハンズオンを実施してハマった話](https://dev.to/aws-builders/aws-amplifynogu-ihanzuonwoshi-shi-sitehamatutahua-1490)
+- [WebSockets and Real-Time Communication](https://dev.to/omriluz1/websockets-and-real-time-communication-2a8j)
+- [[Boost]](https://dev.to/teledev30/-3c8l)
+- [How to use spectral in typescript](https://dev.to/teledev30/how-to-use-spectral-in-typescript-1mg6)
+- [✅ 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗦𝗼𝗹𝘃𝗲𝗱: 𝗥𝗲𝗺𝗶𝗻𝗱𝗲𝗿 𝗘𝗺𝗮𝗶𝗹𝘀 𝘄𝗶𝘁𝗵 𝗛𝗮𝗻𝗴𝗳𝗶𝗿𝗲 𝗶𝗻 𝗠𝘆 𝗝𝗼𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗧𝗿𝗮𝗰𝗸𝗲𝗿 🧠💼](https://dev.to/supraja_tangella_b7f0738e/-5fkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
