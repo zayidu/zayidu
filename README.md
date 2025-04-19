@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Change Favicon Color in a NextJS](https://dev.to/bdhamithkumara/how-to-dynamically-change-favicon-color-in-a-nextjs-4g27)
-- [WYSIWYG editor in LiveView with embedded images that are uploaded to S3 bucket](https://dev.to/azyzz/wysiwyg-editor-in-liveview-with-embedded-images-that-are-uploaded-to-s3-bucket-2n51)
-- [Hosting a Static Website on AWS S3 Using AWS CLI – No ClickOps, Just DevOps 💻](https://dev.to/pravesh_sudha_3c2b0c2b5e0/hosting-a-static-website-on-aws-s3-using-aws-cli-no-clickops-just-devops-1ohl)
-- [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://dev.to/furkangozukara/tencent-instantcharacter-1-click-installers-for-windows-runpod-and-massed-compute-supports-rtx-34e4)
-- [Learning Kubernetes with Spring Boot &amp; Kafka – Sharing My Journey](https://dev.to/devtec_56a3db5c3472fa9ba3/learning-kubernetes-with-spring-boot-kafka-sharing-my-journey-58d7)
+- [🚀 HustleGPT: Your Generative AI-Powered Startup Advisor](https://dev.to/drishti_goel_c03271fd1d5c/hustlegpt-your-generative-ai-powered-startup-advisor-11o9)
+- [Quiz-App](https://dev.to/farouk_/quiz-app-3ddl)
+- [day-27: Java Abstraction and Inheritance: Key Concepts, Code Examples, and Interview Insights](https://dev.to/e00049/day-27-java-abstraction-and-inheritance-key-concepts-code-examples-and-interview-insights-22n0)
+- [Leetcode - 226. Invert Binary Tree](https://dev.to/rakeshreddy512/leetcode-226-invert-binary-tree-3en4)
+- [Leetcode - 100. Same Tree](https://dev.to/rakeshreddy512/leetcode-100-same-tree-1531)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
