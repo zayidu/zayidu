@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Easily Connect LLMs and MCP Servers with mcp-use &lpar;TypeScript&rpar;](https://dev.to/zand/easily-connect-llms-and-mcp-servers-with-mcp-use-typescript-4gnd)
-- [Power Platform: Copying Environments — With Data or Just Customizations?](https://dev.to/nikhildynamicsce/power-platform-copying-environments-with-data-or-just-customizations-3n4p)
-- [C++ import for Faceone tutorial](https://dev.to/zako_mako_9a4826822204c78/c-import-for-faceone-tutorial-52bf)
-- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
-- [Mastering GoFrame&#39;s gqueue: A Practical Guide to In-Memory Queues in Go 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-gqueue-a-practical-guide-to-in-memory-queues-in-go-501o)
+- [Understanding Fetch and Axios : Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-fetch-and-axios-never-to-look-back-again-2b53)
+- [Leveraging AWS &amp; GCP for Backend Development: A Practical Guide](https://dev.to/savithag/leveraging-aws-gcp-for-backend-development-a-practical-guide-4ebl)
+- [LangGraph Meets Vector Databases: A Love Story &lpar;With Code&rpar;](https://dev.to/sakethkowtha/langgraph-meets-vector-databases-a-love-story-with-code-3ja8)
+- [🚀Reusable React Input Component for Tags &amp; Colors – Built with TypeScript](https://dev.to/jackfd120/reusable-react-input-component-for-tags-colors-built-with-typescript-5078)
+- [Machine Learning](https://dev.to/faisalkhan4k/machine-learning-emb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
