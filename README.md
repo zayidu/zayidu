@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-416h)
-- [Weekly Challenge: Short and friendly](https://dev.to/simongreennet/weekly-challenge-short-and-friendly-jf)
-- [Day 10: My first GitHub action](https://dev.to/s_j_9c4bdb31f6630da7/day-10-my-first-github-action-20hm)
-- [Network Troubleshooting Tools in Red Hat Linux](https://dev.to/shamain_anjum/network-troubleshooting-tools-in-red-hat-linux-2084)
-- [Blog Post from blog_draft_ai_technologies_monetization_strategy_20250420_101707.md](https://dev.to/pponali/blog-post-from-blogdraftaitechnologiesmonetizationstrategy20250420101707md-3h19)
+- [SPF, DKIM, and DMARC](https://dev.to/ibrahimsi/spf-dkim-and-dmarc-2g30)
+- [&quot;GitHub Kung Fu: Mastering Repos Like a Linux CLI Ninja with terraform&quot;](https://dev.to/rajpreet_gill_6272051bd31/github-kung-fu-mastering-repos-like-a-linux-cli-ninja-with-terraform-ee7)
+- [The Three Normal Forms in Database and Why You Might Ignore Them](https://dev.to/leapcell/the-three-normal-forms-in-database-and-why-you-might-ignore-them-1fm0)
+- [Snowflake Use Cases](https://dev.to/v_vidya_7ac69a221b5923817/snowflake-use-cases-4o1h)
+- [Title: Looking for Help: Building a Cricket Shot Detection Model with YOLOv &lpar;Using IPL Footage&rpar;](https://dev.to/krithick_faa6a0765e4cbf85/title-looking-for-help-building-a-cricket-shot-detection-model-with-yolov-using-ipl-footage-51pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
