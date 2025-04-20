@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Online Education: Uncover The Power of Experiential Learning](https://dev.to/ghummantech/maximizing-online-education-uncover-the-power-of-experiential-learning-54g)
-- [Sensitive Data Exposure in Symfony Apps](https://dev.to/pentest_testing_corp/sensitive-data-exposure-in-symfony-apps-33jc)
-- [A Beginner’s DevOps Journey – Starting with Ansible &lpar;Part 3&rpar;](https://dev.to/sheharyar566/a-beginners-devops-journey-starting-with-ansible-part-3-57ma)
-- [File and Blob API in Depth](https://dev.to/omriluz1/file-and-blob-api-in-depth-20lj)
-- [🌿 Spring Bean Lifecycle &amp; Dependency Injection — What I Just Learned &lpar;From a Student&#39;s POV&rpar;](https://dev.to/arkadiptakundu/spring-bean-lifecycle-dependency-injection-what-i-just-learned-from-a-students-pov-1d5k)
+- [Say What You Mean &lpar;Without Being a Jerk&rpar;](https://dev.to/duplessisvanaswegen/say-what-you-mean-without-being-a-jerk-2md9)
+- [Understanding Docker Image Layers: Optimizing Build Performance](https://dev.to/mayankcse/understanding-docker-image-layers-optimizing-build-performance-1obb)
+- [2025 Tech Hiring Shift: AI, Layoffs &amp; Where the Jobs Are](https://dev.to/resumeadapter/2025-tech-hiring-shift-ai-layoffs-where-the-jobs-are-3ohj)
+- [Add an .editorconfig file to your solution right from the start! 🛠️](https://dev.to/ahmedshahjr/add-an-editorconfig-file-to-your-solution-right-from-the-start-5lf)
+- [Supercharging My VS Code AI Agent with Local RAG](https://dev.to/lord_magus/supercharging-my-vs-code-ai-agent-with-local-rag-25n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
