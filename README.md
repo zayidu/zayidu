@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH key setup](https://dev.to/rsk_2002/ssh-key-setup-1c6)
-- [Rust Generics and Traits](https://dev.to/sureni_dhanasekara_a992e6/rust-generics-and-traits-5694)
-- [[Boost]](https://dev.to/marksduarte/-305a)
-- [The Ultimate Web Design Learning Guide in 2025](https://dev.to/code_2/the-ultimate-web-design-learning-guide-in-2025-4hjg)
-- [Writing Quality Commit Messages: A Small Habit with a Big Impact](https://dev.to/jakaria/writing-quality-commit-messages-a-small-habit-with-a-big-impact-1i5n)
+- [🚀 Easily Connect LLMs and MCP Servers with mcp-use &lpar;TypeScript&rpar;](https://dev.to/zand/easily-connect-llms-and-mcp-servers-with-mcp-use-typescript-4gnd)
+- [Power Platform: Copying Environments — With Data or Just Customizations?](https://dev.to/nikhildynamicsce/power-platform-copying-environments-with-data-or-just-customizations-3n4p)
+- [C++ import for Faceone tutorial](https://dev.to/zako_mako_9a4826822204c78/c-import-for-faceone-tutorial-52bf)
+- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
+- [Mastering GoFrame&#39;s gqueue: A Practical Guide to In-Memory Queues in Go 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-gqueue-a-practical-guide-to-in-memory-queues-in-go-501o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
