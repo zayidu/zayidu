@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Docker Images and Containers: A Comprehensive Guide](https://dev.to/mayankcse/managing-docker-images-and-containers-a-comprehensive-guide-2b0h)
-- [Handling Binary Data with DataView and Buffer](https://dev.to/omriluz1/handling-binary-data-with-dataview-and-buffer-4fd7)
-- [Generative AI](https://dev.to/tahrim_bilal/-af9)
-- [Convert and scale a PIL Image to an Image in PyTorch](https://dev.to/hyperkai/convert-and-scale-a-pil-image-to-an-image-in-pytorch-3e8e)
-- [How I Built a Personalized Email Generator in Python &lpar;as a Beginner&rpar;](https://dev.to/jgraspopovich/how-i-built-a-personalized-email-generator-in-python-as-a-beginner-2hfc)
+- [Negating TTS to STT feedback](https://dev.to/owly/negating-tts-to-stt-feedback-5216)
+- [Digital Clock](https://dev.to/diptobd71/digital-clock-13jc)
+- [Parallel Processing with PHP: why, how, and when](https://dev.to/robertobutti/parallel-processing-with-php-why-how-and-when-33gh)
+- [Rendering Lists – React Docs](https://dev.to/buildlogmmd/rendering-lists-react-docs-b0d)
+- [Conditional rendering – React Docs](https://dev.to/buildlogmmd/conditional-rendering-react-docs-5h2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
