@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI-Powered Chrome Extensions for Web Developers 🚀](https://dev.to/moibra/top-ai-powered-chrome-extensions-for-web-developers-343e)
-- [The AWS Step Functions WorkshopをCDKデプロイで試してみる](https://dev.to/aws-builders/the-aws-step-functions-workshopwocdkdepuroideshi-sitemiru-emg)
-- [openapi-fetch-gen – Generate TypeScript API client from OpenAPI TypeScript interface definitions created by openapi-typescript](https://dev.to/moznion/openapi-fetch-gen-generate-typescript-api-client-from-openapi-typescript-interface-definitions-kjd)
-- [[Boost]](https://dev.to/lorebrada00/-4p0o)
-- [Prototyping AI Agents with GitHub Models &lpar;for Free!&rpar; 🤖💸](https://dev.to/programmerraja/prototyping-ai-agents-with-github-models-for-free-1go9)
+- [Maximizing Online Education: Uncover The Power of Experiential Learning](https://dev.to/ghummantech/maximizing-online-education-uncover-the-power-of-experiential-learning-54g)
+- [Sensitive Data Exposure in Symfony Apps](https://dev.to/pentest_testing_corp/sensitive-data-exposure-in-symfony-apps-33jc)
+- [A Beginner’s DevOps Journey – Starting with Ansible &lpar;Part 3&rpar;](https://dev.to/sheharyar566/a-beginners-devops-journey-starting-with-ansible-part-3-57ma)
+- [File and Blob API in Depth](https://dev.to/omriluz1/file-and-blob-api-in-depth-20lj)
+- [🌿 Spring Bean Lifecycle &amp; Dependency Injection — What I Just Learned &lpar;From a Student&#39;s POV&rpar;](https://dev.to/arkadiptakundu/spring-bean-lifecycle-dependency-injection-what-i-just-learned-from-a-students-pov-1d5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
