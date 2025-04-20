@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting SharePoint Documents by Date in Dynamics 365 CRM — Why It Fails and How to Fix It](https://dev.to/nikhildynamicsce/sorting-sharepoint-documents-by-date-in-dynamics-365-crm-why-it-fails-and-how-to-fix-it-5p5)
-- [How to upload a file to different folders dynamically in backend &lpar;Node.js, Express.js&rpar;?](https://dev.to/bhaskar_rai_f6bab405dc0f6/how-to-upload-a-file-to-different-folders-dynamically-in-backend-nodejs-expressjs-2lk7)
-- [The Password Graveyard](https://dev.to/yuvasec/the-password-graveyard-jj4)
-- [What I Wish I Knew Before Learning React](https://dev.to/code_2/what-i-wish-i-knew-before-learning-react-1k73)
-- [TASK 1: Python – Print exercises](https://dev.to/pradeepmtm/task-1-python-print-exercises-3g02)
+- [When Gandhi met Satoshi](https://dev.to/prahladyeri/when-gandhi-met-satoshi-15il)
+- [Kubernetes Certified Administrator &lpar;CKA&rpar;: Exam Details &amp; Resources](https://dev.to/lakshmi_narayanan_t/kubernetes-certified-administrator-cka-exam-details-resources-528b)
+- [Dashboard for Researchers &amp; Geneticists: Functional Requirements [System Design]](https://dev.to/naratech/dashboard-for-researchers-geneticists-functional-requirements-system-design-513n)
+- [🚀 Launching Qwikrank: Your AI Agent for SEO Content Creation](https://dev.to/jianping_liu/launching-qwikrank-your-ai-agent-for-seo-content-creation-4cca)
+- [Eu ACHO que ele tá revoltado.](https://dev.to/splethory/eu-acho-que-ele-ta-revoltado-1daj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
