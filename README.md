@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft’s Uncensored Virtual Library](https://dev.to/justin_downes/minecrafts-uncensored-virtual-library-ece)
-- [I will write a tiny blog every day for 3 weeks](https://dev.to/yulei-chen/i-will-write-a-tiny-blog-every-day-for-3-weeks-36kg)
-- [Anatomy of a Github Copilot Extension in Golang](https://dev.to/shrsv/anatomy-of-a-github-copilot-extension-in-golang-17cd)
-- [How to Set Pattern and PIN on Android for Maximum Security](https://dev.to/junaidi_19/how-to-set-pattern-and-pin-on-android-for-maximum-security-1oj6)
-- [🚫 Stop Using array.length - 1. Here’s a Magical Alternative ✨](https://dev.to/developerhub/stop-using-arraylength-1-here-are-something-magical-1bi1)
+- [How to Build Your First Robot Using ROS2 and Raspberry Pi](https://dev.to/robotisimseo_76f72fc9b6cb/how-to-build-your-first-robot-using-ros2-and-raspberry-pi-5gnk)
+- [Rust Ownership and Borrowing Explained](https://dev.to/leapcell/rust-ownership-and-borrowing-explained-22l6)
+- [Building a RAG-Powered Self-Improving Trading Department with LangGraph](https://dev.to/nikan_haj_f3ab68512ab23cc/building-a-rag-powered-self-improving-trading-department-with-langgraph-34h7)
+- [🧑‍💻 AI-Powered Multilingual Translator — Kaggle Notebook &amp; Telegram Bot Project](https://dev.to/aksel588/ai-powered-multilingual-translator-kaggle-notebook-telegram-bot-project-4l78)
+- [Pulumi + Azure Series: A Developer’s Perspective](https://dev.to/nedimhozic/pulumi-azure-series-a-developers-perspective-4h5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
