@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Gandhi met Satoshi](https://dev.to/prahladyeri/when-gandhi-met-satoshi-15il)
-- [Kubernetes Certified Administrator &lpar;CKA&rpar;: Exam Details &amp; Resources](https://dev.to/lakshmi_narayanan_t/kubernetes-certified-administrator-cka-exam-details-resources-528b)
-- [Dashboard for Researchers &amp; Geneticists: Functional Requirements [System Design]](https://dev.to/naratech/dashboard-for-researchers-geneticists-functional-requirements-system-design-513n)
-- [🚀 Launching Qwikrank: Your AI Agent for SEO Content Creation](https://dev.to/jianping_liu/launching-qwikrank-your-ai-agent-for-seo-content-creation-4cca)
-- [Eu ACHO que ele tá revoltado.](https://dev.to/splethory/eu-acho-que-ele-ta-revoltado-1daj)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-416h)
+- [Weekly Challenge: Short and friendly](https://dev.to/simongreennet/weekly-challenge-short-and-friendly-jf)
+- [Day 10: My first GitHub action](https://dev.to/s_j_9c4bdb31f6630da7/day-10-my-first-github-action-20hm)
+- [Network Troubleshooting Tools in Red Hat Linux](https://dev.to/shamain_anjum/network-troubleshooting-tools-in-red-hat-linux-2084)
+- [Blog Post from blog_draft_ai_technologies_monetization_strategy_20250420_101707.md](https://dev.to/pponali/blog-post-from-blogdraftaitechnologiesmonetizationstrategy20250420101707md-3h19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
