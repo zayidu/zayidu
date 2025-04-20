@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Additive creature](https://dev.to/preetha_vaishnavi_2b82358/additive-creature-3b8o)
-- [Mastering AWS EC2 Automation](https://dev.to/badalraj9203/mastering-aws-ec2-automation-4pm9)
-- [Building a Multilingual Children&#39;s Bedtime Story Platform](https://dev.to/qi_yimi_bb1e489215be28450/building-a-multilingual-childrens-bedtime-story-platform-3p3n)
-- [🧩 Getting Started with Jinja2 Templates and Filters in Ansible &lpar;with Real Examples&rpar;](https://dev.to/minh_trivo_vmt/getting-started-with-jinja2-templates-and-filters-in-ansible-with-real-examples-1fj1)
-- [You’re Not a Real Developer Until You’ve Built These 5 Projects](https://dev.to/code_2/youre-not-a-real-developer-until-youve-built-these-5-projects-1l7a)
+- [Cicada Principal synthesizer](https://dev.to/preetha_vaishnavi_2b82358/cicada-principal-synthesizer-11d4)
+- [Sessizce İzle, Akıllıca Koru: Spyrix ile Tüm Dijital Cihazlar Artık Kontrolünüzde](https://dev.to/eagledfc/sessizce-izle-akillica-koru-spyrix-ile-tum-dijital-cihazlar-artik-kontrolunuzde-47d8)
+- [GPT 4.1, o3 and o4-mini are OpenAI&#39;s smartest, RIP JavaScript Records and Tuples, a new 800KB JavaScript runtime, and more](https://dev.to/thisweekinjavascript/gpt-41-o3-and-o4-mini-are-openais-smartest-rip-javascript-records-and-tuples-a-new-800kb-5ea3)
+- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-3618)
+- [Wrapping Goroutines to Handle Return Values in Go](https://dev.to/rajkumargosavi/wrapping-goroutines-to-handle-return-values-in-go-52jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
