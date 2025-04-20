@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Slots and Item Equipping](https://dev.to/whamdot/quick-slots-and-item-equipping-3l0f)
-- [User Management in Red Hat Linux: Proven Strategies and Practical Use Cases](https://dev.to/ibrahim_morakinyo_8f47965/user-management-in-red-hat-linux-proven-strategies-and-practical-use-cases-5gca)
-- [Testing Storage Limits of localStorage and sessionStorage in Chrome](https://dev.to/tommykw/testing-storage-limits-of-localstorage-and-sessionstorage-in-chrome-21ab)
-- [Understanding Blockchain Consensus Mechanisms: A Beginner&#39;s Guide](https://dev.to/abuhaneeph/understanding-blockchain-consensus-mechanisms-a-beginners-guide-148k)
-- [10 Best VS Code Extensions for Web Development in 2025](https://dev.to/gocodeo/10-best-vs-code-extensions-for-web-development-in-2025-36ig)
+- [Hosting web app on your old Android phone](https://dev.to/quave/hosting-web-app-on-your-old-android-phone-54bg)
+- [mRNA and saRNA Vaccine Persistence: A Hidden Dialogue with Estrogen Signaling?](https://dev.to/yuji_marutani/mrna-and-sarna-vaccine-persistence-a-hidden-dialogue-with-estrogen-signaling-2had)
+- [How AI is Changing the Way We Create Product Images](https://dev.to/sammy_seoexpert_ab60ac0ce/how-ai-is-changing-the-way-we-create-product-images-29hc)
+- [¿Cómo ejecutar Node.js, PostgreSQL y Express.js en contenedores dentro de un entorno de desarrollo?](https://dev.to/jose-c0/como-ejecutar-nodejs-postgresql-y-expressjs-en-contenedores-dentro-de-un-entorno-de-desarrollo-4c54)
+- [My introduction to Bazel and its advantages](https://dev.to/gislikonradsson/my-introduction-to-bazel-and-its-advantages-cfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
