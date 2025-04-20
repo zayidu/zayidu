@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SPF, DKIM, and DMARC](https://dev.to/ibrahimsi/spf-dkim-and-dmarc-2g30)
-- [&quot;GitHub Kung Fu: Mastering Repos Like a Linux CLI Ninja with terraform&quot;](https://dev.to/rajpreet_gill_6272051bd31/github-kung-fu-mastering-repos-like-a-linux-cli-ninja-with-terraform-ee7)
-- [The Three Normal Forms in Database and Why You Might Ignore Them](https://dev.to/leapcell/the-three-normal-forms-in-database-and-why-you-might-ignore-them-1fm0)
-- [Snowflake Use Cases](https://dev.to/v_vidya_7ac69a221b5923817/snowflake-use-cases-4o1h)
-- [Title: Looking for Help: Building a Cricket Shot Detection Model with YOLOv &lpar;Using IPL Footage&rpar;](https://dev.to/krithick_faa6a0765e4cbf85/title-looking-for-help-building-a-cricket-shot-detection-model-with-yolov-using-ipl-footage-51pd)
+- [Top AI-Powered Chrome Extensions for Web Developers 🚀](https://dev.to/moibra/top-ai-powered-chrome-extensions-for-web-developers-343e)
+- [The AWS Step Functions WorkshopをCDKデプロイで試してみる](https://dev.to/aws-builders/the-aws-step-functions-workshopwocdkdepuroideshi-sitemiru-emg)
+- [openapi-fetch-gen – Generate TypeScript API client from OpenAPI TypeScript interface definitions created by openapi-typescript](https://dev.to/moznion/openapi-fetch-gen-generate-typescript-api-client-from-openapi-typescript-interface-definitions-kjd)
+- [[Boost]](https://dev.to/lorebrada00/-4p0o)
+- [Prototyping AI Agents with GitHub Models &lpar;for Free!&rpar; 🤖💸](https://dev.to/programmerraja/prototyping-ai-agents-with-github-models-for-free-1go9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
