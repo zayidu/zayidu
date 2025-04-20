@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Robot Using ROS2 and Raspberry Pi](https://dev.to/robotisimseo_76f72fc9b6cb/how-to-build-your-first-robot-using-ros2-and-raspberry-pi-5gnk)
-- [Rust Ownership and Borrowing Explained](https://dev.to/leapcell/rust-ownership-and-borrowing-explained-22l6)
-- [Building a RAG-Powered Self-Improving Trading Department with LangGraph](https://dev.to/nikan_haj_f3ab68512ab23cc/building-a-rag-powered-self-improving-trading-department-with-langgraph-34h7)
-- [🧑‍💻 AI-Powered Multilingual Translator — Kaggle Notebook &amp; Telegram Bot Project](https://dev.to/aksel588/ai-powered-multilingual-translator-kaggle-notebook-telegram-bot-project-4l78)
-- [Pulumi + Azure Series: A Developer’s Perspective](https://dev.to/nedimhozic/pulumi-azure-series-a-developers-perspective-4h5f)
+- [Managing Docker Images and Containers: A Comprehensive Guide](https://dev.to/mayankcse/managing-docker-images-and-containers-a-comprehensive-guide-2b0h)
+- [Handling Binary Data with DataView and Buffer](https://dev.to/omriluz1/handling-binary-data-with-dataview-and-buffer-4fd7)
+- [Generative AI](https://dev.to/tahrim_bilal/-af9)
+- [Convert and scale a PIL Image to an Image in PyTorch](https://dev.to/hyperkai/convert-and-scale-a-pil-image-to-an-image-in-pytorch-3e8e)
+- [How I Built a Personalized Email Generator in Python &lpar;as a Beginner&rpar;](https://dev.to/jgraspopovich/how-i-built-a-personalized-email-generator-in-python-as-a-beginner-2hfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
