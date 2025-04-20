@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Fetch and Axios : Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-fetch-and-axios-never-to-look-back-again-2b53)
-- [Leveraging AWS &amp; GCP for Backend Development: A Practical Guide](https://dev.to/savithag/leveraging-aws-gcp-for-backend-development-a-practical-guide-4ebl)
-- [LangGraph Meets Vector Databases: A Love Story &lpar;With Code&rpar;](https://dev.to/sakethkowtha/langgraph-meets-vector-databases-a-love-story-with-code-3ja8)
-- [🚀Reusable React Input Component for Tags &amp; Colors – Built with TypeScript](https://dev.to/jackfd120/reusable-react-input-component-for-tags-colors-built-with-typescript-5078)
-- [Machine Learning](https://dev.to/faisalkhan4k/machine-learning-emb)
+- [3D Rotation Login/Signup Box](https://dev.to/preetha_vaishnavi_2b82358/3d-rotation-loginsignup-box-24i3)
+- [Testing A FastAPI App With Pytest](https://dev.to/jod35/testing-a-fastapi-app-with-pytest-31f5)
+- [Level Up Your Java: A Developer&#39;s Guide to Agentic AI](https://dev.to/myfear/level-up-your-java-a-developers-guide-to-agentic-ai-4b3l)
+- [Difference Between Block-level and Inline Elements](https://dev.to/raajaryan/difference-between-block-level-and-inline-elements-53g3)
+- [Just wrote my very first Python program!](https://dev.to/harshvdev/just-wrote-my-very-first-python-program-25cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
