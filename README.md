@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From a Nobody to 1000 Active Users With $0 in Ads](https://dev.to/ravicoding/from-a-nobody-to-1000-active-users-with-0-in-ads-1ioa)
-- [Understanding the Role of AI in Supply Chain Risk Management](https://dev.to/kartikmehta8/understanding-the-role-of-ai-in-supply-chain-risk-management-30g9)
-- [Hexagonal Architecture](https://dev.to/akdevblog/hexagonal-architecture-1a0d)
-- [🧠 JSON AI Inspector: Analyzing JSON with AI &lpar;Open Source Tool&rpar;](https://dev.to/devjaime/json-ai-inspector-analyzing-json-with-ai-open-source-tool-pj3)
-- [Components in React: Functional vs. Class Components](https://dev.to/tene/components-in-react-functional-vs-class-components-2o3a)
+- [Sorting SharePoint Documents by Date in Dynamics 365 CRM — Why It Fails and How to Fix It](https://dev.to/nikhildynamicsce/sorting-sharepoint-documents-by-date-in-dynamics-365-crm-why-it-fails-and-how-to-fix-it-5p5)
+- [How to upload a file to different folders dynamically in backend &lpar;Node.js, Express.js&rpar;?](https://dev.to/bhaskar_rai_f6bab405dc0f6/how-to-upload-a-file-to-different-folders-dynamically-in-backend-nodejs-expressjs-2lk7)
+- [The Password Graveyard](https://dev.to/yuvasec/the-password-graveyard-jj4)
+- [What I Wish I Knew Before Learning React](https://dev.to/code_2/what-i-wish-i-knew-before-learning-react-1k73)
+- [TASK 1: Python – Print exercises](https://dev.to/pradeepmtm/task-1-python-print-exercises-3g02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
