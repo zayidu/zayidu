@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Attending Manus’s First Event in Japan](https://dev.to/atsushiambo/attending-manuss-first-event-in-japan-2e7h)
-- [How to Run Scheduled Cron Jobs in GitHub Workflows for Free](https://dev.to/britzdm/how-to-run-scheduled-cron-jobs-in-github-workflows-for-free-4pgn)
-- [OpenAI&#39;s Agent building guide - summary](https://dev.to/ivor/openais-agent-building-guide-summary-56jg)
-- [Kubernetes Workloads &amp; Services — Explained with an Amusement Park Analogy](https://dev.to/mmk4mmk/kubernetes-workloads-services-explained-with-an-amusement-park-analogy-235m)
-- [DungeonLM: A Language Model-Powered Agent for Text-Based Dungeon Quests](https://dev.to/utsavs26/dungeonlm-a-language-model-powered-agent-for-text-based-dungeon-quests-1ji1)
+- [SSH key setup](https://dev.to/rsk_2002/ssh-key-setup-1c6)
+- [Rust Generics and Traits](https://dev.to/sureni_dhanasekara_a992e6/rust-generics-and-traits-5694)
+- [[Boost]](https://dev.to/marksduarte/-305a)
+- [The Ultimate Web Design Learning Guide in 2025](https://dev.to/code_2/the-ultimate-web-design-learning-guide-in-2025-4hjg)
+- [Writing Quality Commit Messages: A Small Habit with a Big Impact](https://dev.to/jakaria/writing-quality-commit-messages-a-small-habit-with-a-big-impact-1i5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
