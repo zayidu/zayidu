@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Negating TTS to STT feedback](https://dev.to/owly/negating-tts-to-stt-feedback-5216)
-- [Digital Clock](https://dev.to/diptobd71/digital-clock-13jc)
-- [Parallel Processing with PHP: why, how, and when](https://dev.to/robertobutti/parallel-processing-with-php-why-how-and-when-33gh)
-- [Rendering Lists – React Docs](https://dev.to/buildlogmmd/rendering-lists-react-docs-b0d)
-- [Conditional rendering – React Docs](https://dev.to/buildlogmmd/conditional-rendering-react-docs-5h2k)
+- [Quick Slots and Item Equipping](https://dev.to/whamdot/quick-slots-and-item-equipping-3l0f)
+- [User Management in Red Hat Linux: Proven Strategies and Practical Use Cases](https://dev.to/ibrahim_morakinyo_8f47965/user-management-in-red-hat-linux-proven-strategies-and-practical-use-cases-5gca)
+- [Testing Storage Limits of localStorage and sessionStorage in Chrome](https://dev.to/tommykw/testing-storage-limits-of-localstorage-and-sessionstorage-in-chrome-21ab)
+- [Understanding Blockchain Consensus Mechanisms: A Beginner&#39;s Guide](https://dev.to/abuhaneeph/understanding-blockchain-consensus-mechanisms-a-beginners-guide-148k)
+- [10 Best VS Code Extensions for Web Development in 2025](https://dev.to/gocodeo/10-best-vs-code-extensions-for-web-development-in-2025-36ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
