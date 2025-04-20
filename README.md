@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cicada Principal synthesizer](https://dev.to/preetha_vaishnavi_2b82358/cicada-principal-synthesizer-11d4)
-- [Sessizce İzle, Akıllıca Koru: Spyrix ile Tüm Dijital Cihazlar Artık Kontrolünüzde](https://dev.to/eagledfc/sessizce-izle-akillica-koru-spyrix-ile-tum-dijital-cihazlar-artik-kontrolunuzde-47d8)
-- [GPT 4.1, o3 and o4-mini are OpenAI&#39;s smartest, RIP JavaScript Records and Tuples, a new 800KB JavaScript runtime, and more](https://dev.to/thisweekinjavascript/gpt-41-o3-and-o4-mini-are-openais-smartest-rip-javascript-records-and-tuples-a-new-800kb-5ea3)
-- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-3618)
-- [Wrapping Goroutines to Handle Return Values in Go](https://dev.to/rajkumargosavi/wrapping-goroutines-to-handle-return-values-in-go-52jm)
+- [Minecraft’s Uncensored Virtual Library](https://dev.to/justin_downes/minecrafts-uncensored-virtual-library-ece)
+- [I will write a tiny blog every day for 3 weeks](https://dev.to/yulei-chen/i-will-write-a-tiny-blog-every-day-for-3-weeks-36kg)
+- [Anatomy of a Github Copilot Extension in Golang](https://dev.to/shrsv/anatomy-of-a-github-copilot-extension-in-golang-17cd)
+- [How to Set Pattern and PIN on Android for Maximum Security](https://dev.to/junaidi_19/how-to-set-pattern-and-pin-on-android-for-maximum-security-1oj6)
+- [🚫 Stop Using array.length - 1. Here’s a Magical Alternative ✨](https://dev.to/developerhub/stop-using-arraylength-1-here-are-something-magical-1bi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
