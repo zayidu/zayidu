@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-73g)
-- [[Boost]](https://dev.to/pmbanugo/-1675)
-- [&quot;It&#39;s Just a Website&quot;—Right?](https://dev.to/clvnworld78/its-just-a-website-right-epe)
-- [Mastering Advanced JavaScript Set Operations](https://dev.to/pmbanugo/mastering-advanced-javascript-set-operations-5dh9)
-- [Musk-Modi Meeting Sparks New Era in US-India Tech Collaboration](https://dev.to/abdul_rehmankhan01/musk-modi-meeting-sparks-new-era-in-us-india-tech-collaboration-2hod)
+- [7 Things I Wish I Knew When I Started Coding &lpar;Beginner Dev Tips&rpar;](https://dev.to/mariecolvinn/7-things-i-wish-i-knew-when-i-started-coding-beginner-dev-tips-oco)
+- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 1&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-1-4330)
+- [🚀 600 Minds in the Swarm — What Comes Next?](https://dev.to/matrixswarm/600-minds-in-the-swarm-what-comes-next-4e31)
+- [How Kubernetes Automates and Manages Your Docker Containers](https://dev.to/upcloud/how-kubernetes-automates-and-manages-your-docker-containers-278n)
+- [On wasted effort and ‘vibe coding’](https://dev.to/lpnts/on-wasted-effort-and-vibe-coding-356e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
