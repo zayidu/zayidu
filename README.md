@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Things I Wish I Knew When I Started Coding &lpar;Beginner Dev Tips&rpar;](https://dev.to/mariecolvinn/7-things-i-wish-i-knew-when-i-started-coding-beginner-dev-tips-oco)
-- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 1&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-1-4330)
-- [🚀 600 Minds in the Swarm — What Comes Next?](https://dev.to/matrixswarm/600-minds-in-the-swarm-what-comes-next-4e31)
-- [How Kubernetes Automates and Manages Your Docker Containers](https://dev.to/upcloud/how-kubernetes-automates-and-manages-your-docker-containers-278n)
-- [On wasted effort and ‘vibe coding’](https://dev.to/lpnts/on-wasted-effort-and-vibe-coding-356e)
+- [Fashion concept](https://dev.to/preetha_vaishnavi_2b82358/fashion-concept-31g4)
+- [CSS Flexbox: Layouts Made Easy](https://dev.to/thedevspace/css-flexbox-layouts-made-easy-5dg3)
+- [How AI-Powered Ad Targeting is Reshaping Paid Campaigns &lpar;And How to Use It&rpar;](https://dev.to/c3controls/how-ai-powered-ad-targeting-is-reshaping-paid-campaigns-and-how-to-use-it-4cmd)
+- [Como configurar diferentes ambientes em apps React Native](https://dev.to/ambegossi/como-configurar-diferentes-ambientes-para-apps-react-native-2o5k)
+- [Software Testing in 2025: Crafting User-Centric Apps 🌍](https://dev.to/vaibhavkuls/software-testing-in-2025-crafting-user-centric-apps-2kcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
