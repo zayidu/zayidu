@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect Your Next.js React Application to Redis](https://dev.to/garciadiazjaime/how-to-connect-your-nextjs-react-application-to-redis-306d)
-- [Dropline: Turn Your Android into an FTP Server and Share Files Over Wi-Fi](https://dev.to/md_rakibulhaquesardar_/dropline-turn-your-android-into-an-ftp-server-and-share-files-over-wi-fi-1mpb)
-- [How to Build a &quot;Clean Office Reminder App&quot; with React](https://dev.to/karen_londres/how-to-build-a-clean-office-reminder-app-with-react-1477)
-- [PNPM vs NPM: Why You Should Switch in 2025](https://dev.to/thelogicwarlock/pnpm-vs-npm-why-you-should-switch-in-2025-4egg)
-- [Types of Human Resource Information Systems &lpar;HRIS System&rpar;](https://dev.to/tarunfulera1/types-of-human-resource-information-systems-hris-system-1il8)
+- [Face Comparison in Web Apps with AWS Rekognition](https://dev.to/lovestaco/face-comparison-in-web-apps-with-aws-rekognition-21bh)
+- [Building a Full-Stack AI Chatbot with FastAPI &lpar;Backend&rpar; and React &lpar;Frontend&rpar;](https://dev.to/vipascal99/building-a-full-stack-ai-chatbot-with-fastapi-backend-and-react-frontend-51ph)
+- [Generics in Go: Your Friendly Guide to Reusable Code](https://dev.to/shrsv/generics-in-go-your-friendly-guide-to-reusable-code-4fkc)
+- [Understanding How Neural Networks Can Beat Chess Champions [Simplified Explanation]](https://dev.to/dominiconorton/understanding-how-neural-networks-can-beat-chess-champions-simplified-explanation-il8)
+- [A Beginner’s Guide to System Design: Thinking Beyond Code](https://dev.to/naweli_verma/a-beginners-guide-to-system-design-thinking-beyond-code-4npg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
