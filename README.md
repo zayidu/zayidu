@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond JSON.stringify&lpar;&rpar; + JSON.parse&lpar;&rpar;: Deep Cloning Like a Pro with structuredClone&lpar;&rpar;](https://dev.to/roja_gnanavel/beyond-jsonstringify-jsonparse-deep-cloning-like-a-pro-with-structuredclone-56mp)
-- [How to Build an AI-Powered crypto Token from Scratch](https://dev.to/abijohn/how-to-build-an-ai-powered-crypto-token-from-scratch-5fie)
-- [Create a flyout menu with submenu using only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-flyout-menu-with-submenu-using-only-tailwind-css-5872)
-- [📅 5 Reasons I Built My Own Online Clock Instead of Using an App](https://dev.to/e-clock/5-reasons-i-built-my-own-online-clock-instead-of-using-an-app-3gp7)
-- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-1jbd)
+- [Why Web3 Needs More Data Analysts &lpar;and Not Just Developers&rpar;](https://dev.to/favouruloh/why-web3-needs-more-data-analysts-and-not-just-developers-5ae6)
+- [The Art of Form Objects: Elegant Search Filtering in Rails 🔍](https://dev.to/jetthoughts/the-art-of-form-objects-elegant-search-filtering-in-rails-46f)
+- [[Boost]](https://dev.to/ykmdev/-3np8)
+- [Mastering useEffect: Handling Side Effects in React](https://dev.to/devshefali/mastering-useeffect-handling-side-effects-in-react-4pha)
+- [Best Practices for Managing Customer Data in a CRM](https://dev.to/bhavesh_gangani_/best-practices-for-managing-customer-data-in-a-crm-553g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
