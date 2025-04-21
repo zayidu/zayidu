@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Face Comparison in Web Apps with AWS Rekognition](https://dev.to/lovestaco/face-comparison-in-web-apps-with-aws-rekognition-21bh)
-- [Building a Full-Stack AI Chatbot with FastAPI &lpar;Backend&rpar; and React &lpar;Frontend&rpar;](https://dev.to/vipascal99/building-a-full-stack-ai-chatbot-with-fastapi-backend-and-react-frontend-51ph)
-- [Generics in Go: Your Friendly Guide to Reusable Code](https://dev.to/shrsv/generics-in-go-your-friendly-guide-to-reusable-code-4fkc)
-- [Understanding How Neural Networks Can Beat Chess Champions [Simplified Explanation]](https://dev.to/dominiconorton/understanding-how-neural-networks-can-beat-chess-champions-simplified-explanation-il8)
-- [A Beginner’s Guide to System Design: Thinking Beyond Code](https://dev.to/naweli_verma/a-beginners-guide-to-system-design-thinking-beyond-code-4npg)
+- [Help Build Doguino – A Dutch Online Dog Game](https://dev.to/vinboy/help-build-doguino-a-dutch-online-dog-game-359f)
+- [I&#39;m a Bicester South &quot;paper candidate&quot; for the Green Party!](https://dev.to/nottrobin/im-a-bicester-south-paper-candidate-for-the-green-party-53e5)
+- [E se eu tivesse um Jekyll homemade?](https://dev.to/paulopilotti/e-se-eu-tivesse-um-jekyll-homemade-4e3g)
+- [🥋 Applying Aikido: SAST in Web Applications from the Repository](https://dev.to/ahmed_a_o/applying-aikido-sast-in-web-applications-from-the-repository-c1o)
+- [[Boost]](https://dev.to/elizabeth8012/-18gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
