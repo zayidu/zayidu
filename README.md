@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Build Doguino – A Dutch Online Dog Game](https://dev.to/vinboy/help-build-doguino-a-dutch-online-dog-game-359f)
-- [I&#39;m a Bicester South &quot;paper candidate&quot; for the Green Party!](https://dev.to/nottrobin/im-a-bicester-south-paper-candidate-for-the-green-party-53e5)
-- [E se eu tivesse um Jekyll homemade?](https://dev.to/paulopilotti/e-se-eu-tivesse-um-jekyll-homemade-4e3g)
-- [🥋 Applying Aikido: SAST in Web Applications from the Repository](https://dev.to/ahmed_a_o/applying-aikido-sast-in-web-applications-from-the-repository-c1o)
-- [[Boost]](https://dev.to/elizabeth8012/-18gg)
+- [10 Python Scripts That Break Websites &lpar;Kinda Ethically&rpar;](https://dev.to/snappytuts/10-python-scripts-that-break-websites-kinda-ethically-115d)
+- [10 JavaScript Scripts You Should Paste Right Now](https://dev.to/0x3d_site/10-javascript-scripts-you-should-paste-right-now-iee)
+- [Building My First Weather App at Moringa School-A Develper&#39;s Journey](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad)
+- [DMM: AI Model Merging Creates Powerful, Efficient Image Generation](https://dev.to/aimodels-fyi/dmm-ai-model-merging-creates-powerful-efficient-image-generation-16lh)
+- [LLMs Running Out of Data? MetaSynth&#39;s AI Agents Generate Diverse Training Data](https://dev.to/aimodels-fyi/llms-running-out-of-data-metasynths-ai-agents-generate-diverse-training-data-33h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
