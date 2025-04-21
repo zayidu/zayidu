@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Python Scripts That Break Websites &lpar;Kinda Ethically&rpar;](https://dev.to/snappytuts/10-python-scripts-that-break-websites-kinda-ethically-115d)
-- [10 JavaScript Scripts You Should Paste Right Now](https://dev.to/0x3d_site/10-javascript-scripts-you-should-paste-right-now-iee)
-- [Building My First Weather App at Moringa School-A Develper&#39;s Journey](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad)
-- [DMM: AI Model Merging Creates Powerful, Efficient Image Generation](https://dev.to/aimodels-fyi/dmm-ai-model-merging-creates-powerful-efficient-image-generation-16lh)
-- [LLMs Running Out of Data? MetaSynth&#39;s AI Agents Generate Diverse Training Data](https://dev.to/aimodels-fyi/llms-running-out-of-data-metasynths-ai-agents-generate-diverse-training-data-33h2)
+- [FlowLite — a lightweight way to manage state in .NET without the pain](https://dev.to/hawkn113/flowlite-a-lightweight-way-to-manage-state-in-net-without-the-pain-13e7)
+- [Nobody Cares About Your Tech Stack &lpar;and That&#39;s a Good Thing&rpar;](https://dev.to/shayy/nobody-cares-about-your-tech-stack-and-thats-a-good-thing-4032)
+- [AliRobo: The Go-Powered Game with Wasm](https://dev.to/attila_olbrich_ce45a12c58/alirobo-the-go-powered-game-with-wasm-3bac)
+- [Javascript](https://dev.to/david_bermenvliz/javascript-1958)
+- [Convert and scale a PIL Image to an Image in PyTorch](https://dev.to/hyperkai/convert-and-scale-a-pil-image-to-an-image-in-pytorch-1ij1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
