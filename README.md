@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Powerful Ways to Create Custom Apps in Frappe &lpar;with Code Examples&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/4-powerful-ways-to-create-custom-apps-in-frappe-with-code-examples-5h01)
-- [8 Open Source Projects to Build Modern Full-stack Apps 🧙🪄](https://dev.to/madza/8-open-source-projects-to-build-modern-full-stack-apps-3b3o)
-- [🚀 10 Laravel Eloquent Tricks You Didn’t Know &lpar;But Will Love!&rpar;](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
-- [Lessons from the Sea: How Resilience Shapes Great Projects and People](https://dev.to/getjv/lessons-from-the-sea-how-resilience-shapes-great-projects-and-people-g14)
-- [How to Reduce Big Data Analytics Costs by 90% with Karpenter and Spark](https://dev.to/cloudpilot-ai/how-to-reduce-big-data-analytics-costs-by-90-with-karpenter-and-spark-259l)
+- [Quark&#39;s Outlines: Python Literals](https://dev.to/mike-vincent/quarks-outlines-python-literals-30d8)
+- [Parallel Query Processing - &lpar;System-wide and Query-based&rpar;](https://dev.to/intersystems/parallel-query-processing-system-wide-and-query-based-58j6)
+- [How AI handles your cloud deployment automatically?](https://dev.to/jevin/how-ai-handles-your-cloud-deployment-automatically-1i21)
+- [Logistic Regression from theory to code implementation](https://dev.to/leonhard_kwahle_7d09cf417/logistic-regression-from-theory-to-code-implementation-39l4)
+- [Using gRPC in React the Modern Way: From gRPC-web to Connect](https://dev.to/arichy/using-grpc-in-react-the-modern-way-from-grpc-web-to-connect-41lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
