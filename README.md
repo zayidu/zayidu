@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why RK3566 is a Great Choice for Your Next Embedded SBC Project](https://dev.to/kevinzhang109/why-rk3566-is-a-great-choice-for-your-next-embedded-sbc-project-394m)
-- [Deep Learning](https://dev.to/congngheaivn/deep-learning-278e)
-- [How to Use Firebase Functions With Express and Firestore for a Full Backend API](https://dev.to/hexshift/how-to-use-firebase-functions-with-express-and-firestore-for-a-full-backend-api-19ne)
-- [Staring at shapes](https://dev.to/magipunk/staring-at-shapes-37l7)
-- [Deploying a FastAPI + PostgreSQL App Using Google Cloud Run and Cloud SQL](https://dev.to/hexshift/deploying-a-fastapi-postgresql-app-using-google-cloud-run-and-cloud-sql-56c5)
+- [[Boost]](https://dev.to/jackiizcc/-3cf7)
+- [🔍 Data Cleaning Techniques Using SQL](https://dev.to/mohammed_jobairhossain_c/data-cleaning-techniques-using-sql-68d)
+- [Building a Local AI Agent with Ollama + MCP + LangChain + Docker&quot;](https://dev.to/rajeev_3ce9f280cbae73b234/building-a-local-ai-agent-with-ollama-mcp-docker-37a)
+- [Chef Salt &amp; Chef Pepper: Gemini-Powered Chef Assistants](https://dev.to/jonathonchenvert/chef-salt-chef-pepper-gemini-powered-chef-assistants-1mlk)
+- [Graph RAG의 모든 것](https://dev.to/bits-bytes-nn/graph-ragyi-modeun-geos-1n5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
