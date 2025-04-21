@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Chrome Extension will Make You More Productive As A Developer](https://dev.to/ewenikeemmanue4/this-chrome-extension-will-make-you-more-productive-as-a-developer-565k)
-- [Power Apps - Using The Advanced Tool Monitor](https://dev.to/wyattdave/power-apps-using-the-advanced-tool-monitor-do5)
-- [Annotation in SpringBoot](https://dev.to/neelakandan_ravi/annotation-in-springboot-1jf3)
-- [The Day I Realized I Needed to Raise My Rates as a Coder](https://dev.to/canro91/the-day-i-realized-i-needed-to-raise-my-rates-as-a-coder-hog)
-- [The one place for &#39;IMAGE TOOLS&#39; - Image Forge](https://dev.to/phantom_dev/the-one-place-for-image-tools-image-forge-36ak)
+- [Agents Assemble! Building a Multi-Agent System with LangGraph and GPT-4](https://dev.to/sakethkowtha/agents-assemble-building-a-multi-agent-system-with-langgraph-and-gpt-4-1f00)
+- [Introducing ILLEX: Inline Language for Logic and Expressions](https://dev.to/gzeloni/introducing-illex-inline-language-for-logic-and-expressions-50ln)
+- [Top 40 Open-source Developer Tools with the Most GitHub Stars](https://dev.to/nocobase/top-40-open-source-developer-tools-with-the-most-github-stars-51b3)
+- [The Bootstrapper&#39;s Social Selling Blueprint: Build Pipeline &amp; Relationships on Zero Budget](https://dev.to/seosiri/the-bootstrappers-social-selling-blueprint-build-pipeline-relationships-on-zero-budget-42fd)
+- [Building a Kubernetes Cluster on Bare Metal: Insights, Challenges, and a Complete Setup Guide](https://dev.to/arkrak4568/building-a-kubernetes-cluster-on-bare-metal-insights-challenges-and-a-complete-setup-guide-5273)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
