@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jackiizcc/-3cf7)
-- [🔍 Data Cleaning Techniques Using SQL](https://dev.to/mohammed_jobairhossain_c/data-cleaning-techniques-using-sql-68d)
-- [Building a Local AI Agent with Ollama + MCP + LangChain + Docker&quot;](https://dev.to/rajeev_3ce9f280cbae73b234/building-a-local-ai-agent-with-ollama-mcp-docker-37a)
-- [Chef Salt &amp; Chef Pepper: Gemini-Powered Chef Assistants](https://dev.to/jonathonchenvert/chef-salt-chef-pepper-gemini-powered-chef-assistants-1mlk)
-- [Graph RAG의 모든 것](https://dev.to/bits-bytes-nn/graph-ragyi-modeun-geos-1n5k)
+- [This Chrome Extension will Make You More Productive As A Developer](https://dev.to/ewenikeemmanue4/this-chrome-extension-will-make-you-more-productive-as-a-developer-565k)
+- [Power Apps - Using The Advanced Tool Monitor](https://dev.to/wyattdave/power-apps-using-the-advanced-tool-monitor-do5)
+- [Annotation in SpringBoot](https://dev.to/neelakandan_ravi/annotation-in-springboot-1jf3)
+- [The Day I Realized I Needed to Raise My Rates as a Coder](https://dev.to/canro91/the-day-i-realized-i-needed-to-raise-my-rates-as-a-coder-hog)
+- [The one place for &#39;IMAGE TOOLS&#39; - Image Forge](https://dev.to/phantom_dev/the-one-place-for-image-tools-image-forge-36ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
