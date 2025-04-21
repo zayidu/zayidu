@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⏱️ 142 Days Lost, New Chapter Starts](https://dev.to/munin-1/142-days-lost-new-chapter-starts-4djn)
-- [🏗️ Brick by Brick – 1825 Days to Transform My Life.](https://dev.to/munin-1/brick-by-brick-1825-days-to-transform-my-life-1f7)
-- [Introducing AnuDB: A Lightweight, Serverless Document Database](https://dev.to/hashanu/introducing-anudb-a-lightweight-serverless-document-database-3bci)
-- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
-- [Menonaktifkan akses anonymous ke Devportal WSO2 API Manager](https://dev.to/agusmerdeko/menonaktifkan-akses-anonymous-ke-devportal-wso2-api-manager-2d98)
+- [Connecting to an EC2 Instance: A Deep Dive into Session Manager](https://dev.to/glory_ugochukwu_57b6cf663/connecting-to-an-ec2-instance-a-deep-dive-into-session-manager-1gbl)
+- [Best Blog Post Formats That Keep Readers Hooked &lpar;With Examples&rpar;](https://dev.to/blogzeros/best-blog-post-formats-that-keep-readers-hooked-with-examples-7jj)
+- [Step-by-Step Guide to Scraping Google Search](https://dev.to/swiftproxy_residential/step-by-step-guide-to-scraping-google-search-2n14)
+- [[Boost]](https://dev.to/pixaware_technologysolut/-2hmp)
+- [Leveraging ServBay&#39;s Local AI Capabilities: Effortlessly Batch Translate Markdown Documents](https://dev.to/servbay/leveraging-servbays-local-ai-capabilities-effortlessly-batch-translate-markdown-documents-1c22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
