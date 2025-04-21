@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fashion concept](https://dev.to/preetha_vaishnavi_2b82358/fashion-concept-31g4)
-- [CSS Flexbox: Layouts Made Easy](https://dev.to/thedevspace/css-flexbox-layouts-made-easy-5dg3)
-- [How AI-Powered Ad Targeting is Reshaping Paid Campaigns &lpar;And How to Use It&rpar;](https://dev.to/c3controls/how-ai-powered-ad-targeting-is-reshaping-paid-campaigns-and-how-to-use-it-4cmd)
-- [Como configurar diferentes ambientes em apps React Native](https://dev.to/ambegossi/como-configurar-diferentes-ambientes-para-apps-react-native-2o5k)
-- [Software Testing in 2025: Crafting User-Centric Apps 🌍](https://dev.to/vaibhavkuls/software-testing-in-2025-crafting-user-centric-apps-2kcp)
+- [4 Powerful Ways to Create Custom Apps in Frappe &lpar;with Code Examples&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/4-powerful-ways-to-create-custom-apps-in-frappe-with-code-examples-5h01)
+- [8 Open Source Projects to Build Modern Full-stack Apps 🧙🪄](https://dev.to/madza/8-open-source-projects-to-build-modern-full-stack-apps-3b3o)
+- [🚀 10 Laravel Eloquent Tricks You Didn’t Know &lpar;But Will Love!&rpar;](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
+- [Lessons from the Sea: How Resilience Shapes Great Projects and People](https://dev.to/getjv/lessons-from-the-sea-how-resilience-shapes-great-projects-and-people-g14)
+- [How to Reduce Big Data Analytics Costs by 90% with Karpenter and Spark](https://dev.to/cloudpilot-ai/how-to-reduce-big-data-analytics-costs-by-90-with-karpenter-and-spark-259l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
