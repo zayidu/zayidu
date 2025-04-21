@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From C# to TypeScript: Your Cozy Guide to Microsoft’s Dynamic Duo](https://dev.to/syawqy/from-c-to-typescript-your-cozy-guide-to-microsofts-dynamic-duo-34df)
-- [AWS Certified AI Practitioner](https://dev.to/lea_abraham_7a0232a6cd616/aws-certified-ai-practitioner-44i)
-- [Calculate Average Scores By Category using Google Sheets Pivot Table](https://dev.to/nightwolfdev/calculate-average-scores-by-category-using-google-sheets-pivot-table-4kel)
-- [RSA Plans, Vibe Coding, AppSec Industry Survey, Anthropic and a CVE for vLLM](https://dev.to/semgrep/rsa-plans-vibe-coding-appsec-industry-survey-anthropic-and-a-cve-for-vllm-2h3h)
-- [[Boost]](https://dev.to/bill_vivino_481bc473fa0d9/-1pa3)
+- [jenv - managing multiple JDK environments](https://dev.to/m07sk/jenv-managing-multiple-jdk-environments-5d7)
+- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-2dfc)
+- [Exploring a Jupyter Notebook Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-jupyter-notebook-project-on-github-445i)
+- [Optimizing ClickHouse for Financial Time Series](https://dev.to/ms-dev/optimizing-clickhouse-for-financial-time-series-39d6)
+- [Just Joined here - Questions!](https://dev.to/oberin/just-joined-here-questions-1l88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
