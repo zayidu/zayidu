@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Web3 Needs More Data Analysts &lpar;and Not Just Developers&rpar;](https://dev.to/favouruloh/why-web3-needs-more-data-analysts-and-not-just-developers-5ae6)
-- [The Art of Form Objects: Elegant Search Filtering in Rails 🔍](https://dev.to/jetthoughts/the-art-of-form-objects-elegant-search-filtering-in-rails-46f)
-- [[Boost]](https://dev.to/ykmdev/-3np8)
-- [Mastering useEffect: Handling Side Effects in React](https://dev.to/devshefali/mastering-useeffect-handling-side-effects-in-react-4pha)
-- [Best Practices for Managing Customer Data in a CRM](https://dev.to/bhavesh_gangani_/best-practices-for-managing-customer-data-in-a-crm-553g)
+- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-73g)
+- [[Boost]](https://dev.to/pmbanugo/-1675)
+- [&quot;It&#39;s Just a Website&quot;—Right?](https://dev.to/clvnworld78/its-just-a-website-right-epe)
+- [Mastering Advanced JavaScript Set Operations](https://dev.to/pmbanugo/mastering-advanced-javascript-set-operations-5dh9)
+- [Musk-Modi Meeting Sparks New Era in US-India Tech Collaboration](https://dev.to/abdul_rehmankhan01/musk-modi-meeting-sparks-new-era-in-us-india-tech-collaboration-2hod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
