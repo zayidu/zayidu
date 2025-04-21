@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents Assemble! Building a Multi-Agent System with LangGraph and GPT-4](https://dev.to/sakethkowtha/agents-assemble-building-a-multi-agent-system-with-langgraph-and-gpt-4-1f00)
-- [Introducing ILLEX: Inline Language for Logic and Expressions](https://dev.to/gzeloni/introducing-illex-inline-language-for-logic-and-expressions-50ln)
-- [Top 40 Open-source Developer Tools with the Most GitHub Stars](https://dev.to/nocobase/top-40-open-source-developer-tools-with-the-most-github-stars-51b3)
-- [The Bootstrapper&#39;s Social Selling Blueprint: Build Pipeline &amp; Relationships on Zero Budget](https://dev.to/seosiri/the-bootstrappers-social-selling-blueprint-build-pipeline-relationships-on-zero-budget-42fd)
-- [Building a Kubernetes Cluster on Bare Metal: Insights, Challenges, and a Complete Setup Guide](https://dev.to/arkrak4568/building-a-kubernetes-cluster-on-bare-metal-insights-challenges-and-a-complete-setup-guide-5273)
+- [⏱️ 142 Days Lost, New Chapter Starts](https://dev.to/munin-1/142-days-lost-new-chapter-starts-4djn)
+- [🏗️ Brick by Brick – 1825 Days to Transform My Life.](https://dev.to/munin-1/brick-by-brick-1825-days-to-transform-my-life-1f7)
+- [Introducing AnuDB: A Lightweight, Serverless Document Database](https://dev.to/hashanu/introducing-anudb-a-lightweight-serverless-document-database-3bci)
+- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
+- [Menonaktifkan akses anonymous ke Devportal WSO2 API Manager](https://dev.to/agusmerdeko/menonaktifkan-akses-anonymous-ke-devportal-wso2-api-manager-2d98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
