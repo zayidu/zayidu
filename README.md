@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Literals](https://dev.to/mike-vincent/quarks-outlines-python-literals-30d8)
-- [Parallel Query Processing - &lpar;System-wide and Query-based&rpar;](https://dev.to/intersystems/parallel-query-processing-system-wide-and-query-based-58j6)
-- [How AI handles your cloud deployment automatically?](https://dev.to/jevin/how-ai-handles-your-cloud-deployment-automatically-1i21)
-- [Logistic Regression from theory to code implementation](https://dev.to/leonhard_kwahle_7d09cf417/logistic-regression-from-theory-to-code-implementation-39l4)
-- [Using gRPC in React the Modern Way: From gRPC-web to Connect](https://dev.to/arichy/using-grpc-in-react-the-modern-way-from-grpc-web-to-connect-41lc)
+- [How to Connect Your Next.js React Application to Redis](https://dev.to/garciadiazjaime/how-to-connect-your-nextjs-react-application-to-redis-306d)
+- [Dropline: Turn Your Android into an FTP Server and Share Files Over Wi-Fi](https://dev.to/md_rakibulhaquesardar_/dropline-turn-your-android-into-an-ftp-server-and-share-files-over-wi-fi-1mpb)
+- [How to Build a &quot;Clean Office Reminder App&quot; with React](https://dev.to/karen_londres/how-to-build-a-clean-office-reminder-app-with-react-1477)
+- [PNPM vs NPM: Why You Should Switch in 2025](https://dev.to/thelogicwarlock/pnpm-vs-npm-why-you-should-switch-in-2025-4egg)
+- [Types of Human Resource Information Systems &lpar;HRIS System&rpar;](https://dev.to/tarunfulera1/types-of-human-resource-information-systems-hris-system-1il8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
