@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic KYC Implementation Guide using KYC_CHECK](https://dev.to/juninhopo/basic-kyc-implementation-guide-using-kyccheck-3fld)
-- [Do you think you can answer this?](https://dev.to/akashbijwe/do-you-think-you-can-answer-this-18k2)
-- [Convert boolean values to strings &#39;Yes&#39; or &#39;No&#39;.](https://dev.to/maddiepst/convert-boolean-values-to-strings-yes-or-no-21dd)
-- [Is Vibe Coding the Future of Software Development?](https://dev.to/champsoft/is-vibe-coding-the-future-of-software-development-1lhb)
-- [Top 5 CMDB Best Practices for Beginners](https://dev.to/emily_assetloom/top-5-cmdb-best-practices-for-beginners-3jp3)
+- [Fort Knox in the Cloud: A Practical Guide to AWS Security &amp; IAM](https://dev.to/pkkolla/fort-knox-in-the-cloud-a-practical-guide-to-aws-security-iam-48gk)
+- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-oek)
+- [How to Get Started with Building Apps Using React Native](https://dev.to/simpl-olivia/how-to-get-started-with-building-apps-using-react-native-563e)
+- [[Boost]](https://dev.to/naik_sejal/-5cp0)
+- [[Boost]](https://dev.to/rajesh_patel/-3jek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
