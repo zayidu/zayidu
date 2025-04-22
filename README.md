@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Burp Suite for Bug Bounty Hunting: A Beginner-Friendly Guide](https://dev.to/sampa_kundu_cc41c09ee4c47/how-to-use-burp-suite-for-bug-bounty-hunting-a-beginner-friendly-guide-17f5)
-- [Why Enterprises Are Shifting to Headless CMS in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/why-enterprises-are-shifting-to-headless-cms-in-2025-5m0)
-- [The Rise of Custom AI Agents and Their Development Companies](https://dev.to/albert_ed/the-rise-of-custom-ai-agents-and-their-development-companies-431l)
-- [What is Salesforce Hyperforce? Everything You Need to Know](https://dev.to/smartitstaff/what-is-salesforce-hyperforce-everything-you-need-to-know-m7h)
-- [Linux for Windows or WSL](https://dev.to/east_bank/linux-for-windows-or-wsl-2an5)
+- [AWS Solution Architect Job Description: Roles, Skills &amp; Responsibilities &lpar;2025&rpar;](https://dev.to/skillboosttrainer/aws-solution-architect-job-description-roles-skills-responsibilities-2025-2kgn)
+- [Kişisel mahremiyetinizi koruyun: Firefox Developer Edition ile güvenli ve uyumlu internet kullanımı](https://dev.to/eagledfc/kisisel-mahremiyetinizi-koruyun-firefox-developer-edition-ile-guvenli-ve-uyumlu-internet-kullanimi-3j8k)
+- [Web Scraping with Playwright in Python](https://dev.to/hasdata_com/web-scraping-with-playwright-in-python-54k0)
+- [Stop posting AI generated posts on dev](https://dev.to/amrtaher1234/stop-posting-ai-generated-posts-on-dev-55ji)
+- [Contracting útmutató fejlesztőknek: A szabadúszó fejlesztői karrier technikai részletei](https://dev.to/balazsrefi/contracting-utmutato-fejlesztoknek-a-szabaduszo-fejlesztoi-karrier-technikai-reszletei-1bjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
