@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solution Architect Job Description: Roles, Skills &amp; Responsibilities &lpar;2025&rpar;](https://dev.to/skillboosttrainer/aws-solution-architect-job-description-roles-skills-responsibilities-2025-2kgn)
-- [Kişisel mahremiyetinizi koruyun: Firefox Developer Edition ile güvenli ve uyumlu internet kullanımı](https://dev.to/eagledfc/kisisel-mahremiyetinizi-koruyun-firefox-developer-edition-ile-guvenli-ve-uyumlu-internet-kullanimi-3j8k)
-- [Web Scraping with Playwright in Python](https://dev.to/hasdata_com/web-scraping-with-playwright-in-python-54k0)
-- [Stop posting AI generated posts on dev](https://dev.to/amrtaher1234/stop-posting-ai-generated-posts-on-dev-55ji)
-- [Contracting útmutató fejlesztőknek: A szabadúszó fejlesztői karrier technikai részletei](https://dev.to/balazsrefi/contracting-utmutato-fejlesztoknek-a-szabaduszo-fejlesztoi-karrier-technikai-reszletei-1bjl)
+- [AWS IAM Hands-on Quick Checklist](https://dev.to/aws_1_27d6cbc9e944aa228ef/aws-iam-hands-on-quick-checklist-1paf)
+- [React JS](https://dev.to/neelakandan_ravi/react-js-4a31)
+- [Why I Decided to Offer a Free Version of My GreenOps Solution](https://dev.to/kirk/why-i-decided-to-offer-a-free-version-of-my-greenops-solution-561)
+- [[Boost]](https://dev.to/dikomahendraa/-2j1)
+- [SEO for Bloggers: The Ultimate Beginner’s Guide](https://dev.to/blogzeros/seo-for-bloggers-the-ultimate-beginners-guide-3a2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
