@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This algorithm&#39;s O&lpar;n log n + m&rpar; runtime for a 2-approximate Dominating Set presents tangible, efficient evidence that P = NP may be practically realizable via near-optimal polynomial-time solutions. Deployed and Ready to use https://pypi.org/project/baldor](https://dev.to/frank_vega_987689489099bf/this-algorithms-on-log-n-m-runtime-for-a-2-approximate-dominating-set-presents-tangible-2jdm)
-- [📸 Meet env-snapper: Snapshot &amp; Track Your .env Files with Ease](https://dev.to/alex_gutscher_2ab0d3cf4c3/meet-env-snapper-snapshot-track-your-env-files-with-ease-1fea)
-- [Spring Security’s Silent Rules That Break Your App](https://dev.to/tharun_07/spring-securitys-silent-rules-that-break-your-app-55j1)
-- [Test Article: MCP Publishing Demo](https://dev.to/govindup63/test-article-mcp-publishing-demo-1lo1)
-- [What Is SoftHSM](https://dev.to/hasanmonsur/what-is-softhsm-3k5h)
+- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-12g8)
+- [Group Management in Linux: The First Step to Becoming a Sysadmin](https://dev.to/axisinfo_0a61830e06c3c950/group-management-in-linux-the-first-step-to-becoming-a-sysadmin-28o8)
+- [Tracking Memory Access Patterns in Python Using sys.settrace and Custom Hooks](https://dev.to/hexshift/tracking-memory-access-patterns-in-python-using-syssettrace-and-custom-3n08)
+- [🌍 5+ APIs Developers Can Use to Celebrate Earth Day 2025](https://dev.to/cobykalter/5-apis-developers-can-use-to-celebrate-earth-day-2025-2a0n)
+- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-2p91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
