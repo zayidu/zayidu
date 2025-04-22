@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fort Knox in the Cloud: A Practical Guide to AWS Security &amp; IAM](https://dev.to/pkkolla/fort-knox-in-the-cloud-a-practical-guide-to-aws-security-iam-48gk)
-- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-oek)
-- [How to Get Started with Building Apps Using React Native](https://dev.to/simpl-olivia/how-to-get-started-with-building-apps-using-react-native-563e)
-- [[Boost]](https://dev.to/naik_sejal/-5cp0)
-- [[Boost]](https://dev.to/rajesh_patel/-3jek)
+- [API Key Exposure &amp; Insecure Supabase Access: a Bug Hunt](https://dev.to/shamit_r/api-key-exposure-insecure-supabase-access-a-bug-hunt-4a93)
+- [ToDtype in PyTorch](https://dev.to/hyperkai/todtype-in-pytorch-3i9)
+- [Cheat sheet of &#39;Alembic&#39; commands](https://dev.to/atifwattoo/cheat-sheet-of-alembic-commands-1b9i)
+- [🚀 Automating Social Media Posting with AI &amp; n8n Workflows](https://dev.to/anshikaila/automating-social-media-posting-with-ai-n8n-workflows-53nd)
+- [ToTensor in PyTorch](https://dev.to/hyperkai/totensor-in-pytorch-3n72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
