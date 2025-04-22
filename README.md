@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IAM Hands-on Quick Checklist](https://dev.to/aws_1_27d6cbc9e944aa228ef/aws-iam-hands-on-quick-checklist-1paf)
-- [React JS](https://dev.to/neelakandan_ravi/react-js-4a31)
-- [Why I Decided to Offer a Free Version of My GreenOps Solution](https://dev.to/kirk/why-i-decided-to-offer-a-free-version-of-my-greenops-solution-561)
-- [[Boost]](https://dev.to/dikomahendraa/-2j1)
-- [SEO for Bloggers: The Ultimate Beginner’s Guide](https://dev.to/blogzeros/seo-for-bloggers-the-ultimate-beginners-guide-3a2h)
+- [Setup MCP server in C#](https://dev.to/extinctsion/setup-mcp-server-in-c-2jc1)
+- [How To Use an MCP Client with Multiple AI Agents](https://dev.to/copilotkit/how-to-use-an-mcp-client-with-multiple-ai-agents-47d8)
+- [Announcing the LLM Security Leaderboard: Evaluating AI Models Through a Security Lens](https://dev.to/stacklok/announcing-the-llm-security-leaderboard-evaluating-ai-models-through-a-security-lens-379n)
+- [A New Dawn: Building a Decentralized Global Trade System Beyond Tariffs and Borders](https://dev.to/ironside/a-new-dawn-building-a-decentralized-global-trade-system-beyond-tariffs-and-borders-2fpa)
+- [How Can We Make Code Formatting Faster and Smarter? Insights from beautifyourcode.com](https://dev.to/beautifyyourcode_30afcb0d/how-can-we-make-code-formatting-faster-and-smarter-insights-from-beautifyourcodecom-41p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
