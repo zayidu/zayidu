@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Key Exposure &amp; Insecure Supabase Access: a Bug Hunt](https://dev.to/shamit_r/api-key-exposure-insecure-supabase-access-a-bug-hunt-4a93)
-- [ToDtype in PyTorch](https://dev.to/hyperkai/todtype-in-pytorch-3i9)
-- [Cheat sheet of &#39;Alembic&#39; commands](https://dev.to/atifwattoo/cheat-sheet-of-alembic-commands-1b9i)
-- [🚀 Automating Social Media Posting with AI &amp; n8n Workflows](https://dev.to/anshikaila/automating-social-media-posting-with-ai-n8n-workflows-53nd)
-- [ToTensor in PyTorch](https://dev.to/hyperkai/totensor-in-pytorch-3n72)
+- [Monitoring PHP-FPM Logs and Metrics: A Practical Guide to Debugging and Optimization](https://dev.to/olivia_madison_b0ad7090ad/monitoring-php-fpm-logs-and-metrics-a-practical-guide-to-debugging-and-optimization-45nc)
+- [Second Me Now Supports MCP Protocol —— Your AI Identity Can Now Be Called Anywhere](https://dev.to/secondme/second-me-now-supports-mcp-protocol-your-ai-identity-can-now-be-called-anywhere-5348)
+- [9 Patterns and Practices for Securing Apps in Angular](https://dev.to/artem_turlenko/securing-angular-applications-best-practices-patterns-5ca9)
+- [Why Web Accessibility Matters for Your Business?](https://dev.to/aeldata/why-web-accessibility-matters-for-your-business-3gm7)
+- [How to Understand a Project Codebase Like a Pro](https://dev.to/kristiyanvelkov/how-to-understand-a-project-codebase-like-a-pro-45kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
