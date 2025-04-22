@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid These Costly Mistakes in Cloud Deployments](https://dev.to/ramkumar-m-n/avoid-these-costly-mistakes-in-cloud-deployments-59cn)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1p7i)
-- [[Boost]](https://dev.to/robins163/-h0g)
-- [How to Install and Use Instagram OSINT Tool on Kali Linux](https://dev.to/terminaltools/how-to-install-and-use-instagram-osint-tool-on-kali-linux-4d19)
-- [Commercial grade beauty SDK!!!](https://dev.to/_0e000da16c3bc7be753583/commercial-grade-beauty-sdk-4j74)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1k31)
+- [day-31: this, super and inner class in java](https://dev.to/e00049/day-31-this-super-and-inner-class-in-java-46dn)
+- [CUDA Series &lpar;2/3&rpar;](https://dev.to/minwook/cuda-series-23-2d3p)
+- [Can a Diabetic Eat Grits? Everything You Should Know](https://dev.to/oliver_b2/can-a-diabetic-eat-grits-everything-you-should-know-59l9)
+- [How to Schedule Cron Jobs in Firebase Cloud Functions &lpar;Without Paid Plans&rpar;](https://dev.to/hexshift/how-to-schedule-cron-jobs-in-firebase-cloud-functions-without-paid-plans-4oee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
