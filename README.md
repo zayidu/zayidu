@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Planning and Just Shipped — Here’s What Happened](https://dev.to/shreshthgoyal/i-stopped-planning-and-just-shipped-heres-what-happened-4pch)
-- [Crafting URLs That Search Engines &lpar;And Humans&rpar; Love: A Developer&#39;s 2025 Playbook](https://dev.to/codebucks/crafting-urls-that-search-engines-and-humans-love-a-developers-2025-playbook-3820)
-- [[Boost]](https://dev.to/brian_dussault/-3h6c)
-- [A Reflection on My First Steps in Tech](https://dev.to/johnking376/a-reflection-on-my-first-steps-in-tech-2eaj)
-- [Celebrating our step towards sustainability this Environment Day — because change begins with us.](https://dev.to/khushihiagrawal/celebrating-our-step-towards-sustainability-this-environment-day-because-change-begins-with-us-5aec)
+- [Parsing TCP Packets with BPF and Python](https://dev.to/hexshift/parsing-tcp-packets-with-bpf-and-python-4jg8)
+- [AI in the Workplace: Curse or Blessing?](https://dev.to/kmo/ai-in-the-workplace-curse-or-blessing-57pp)
+- [This is what intentional sales leadership looks like. Calm, clear, and completely in control of the moment. #AshkanRajaee #ModernSales #NoPressure #BusinessVisuals #SalesMoment](https://dev.to/ciarraverse/this-is-what-intentional-sales-leadership-looks-like-calm-clear-and-completely-in-control-of-the-3on4)
+- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
+- [How to Generate IaC Templates from Your Docker Files](https://dev.to/piotr_hajdas/how-to-generate-iac-templates-from-your-docker-files-3gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
