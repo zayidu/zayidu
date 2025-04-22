@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Framework Essentials: Understanding @ComponentScan](https://dev.to/tiuwill/spring-framework-essentials-understanding-componentscan-310b)
-- [What is Android Box ?](https://dev.to/said_ghazal_a7cd8596d076c/what-is-android-box--4321)
-- [Mental model and intuition](https://dev.to/yulei-chen/mental-model-and-intuition-28a2)
-- [Spring &amp; Http Caching](https://dev.to/dejvis_beqiraj/spring-http-caching-5320)
-- [Python txt to Excel - 01](https://dev.to/sachin_varghese_zele/python-txt-to-excel-01-330)
+- [How do you talk about/utilize AI with your team at work?](https://dev.to/jess/how-do-you-talk-aboututilize-ai-with-your-team-at-work-2g35)
+- [Understanding Rust&#39;s Sized Trait and Dynamically Sized Types](https://dev.to/leapcell/understanding-rusts-sized-trait-and-dynamically-sized-types-43ep)
+- [Design a serverless URL Shortener leveraging AWS](https://dev.to/anmol111pal/design-a-serverless-url-shortener-leveraging-aws-1kl)
+- [2338. Count the Number of Ideal Arrays](https://dev.to/mdarifulhaque/2338-count-the-number-of-ideal-arrays-7f7)
+- [Object-Oriented Programming in Java — The Heart of Modern Development](https://dev.to/vivekkantariya/object-oriented-programming-in-java-the-heart-of-modern-development-21mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
