@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI &amp; Human Co‑Evolution: Toward a Sacred Partnership](https://dev.to/jj_fixman_6a0e804437c27c4/ai-human-co-evolution-toward-a-sacred-partnership-3l9e)
-- [Vibe Coding with AI? Don&#39;t Forget These Security Fundamentals](https://dev.to/uigerhana/vibe-coding-with-ai-dont-forget-these-security-fundamentals-3ac2)
-- [Exploring a new investing tool for beginners — looking to validate a few assumptions](https://dev.to/elijah_barbour_fb8c33823e/exploring-a-new-investing-tool-for-beginners-looking-to-validate-a-few-assumptions-4onn)
-- [The AI Agent Revolution: Are We All Full-Stack Developers Now?](https://dev.to/regnard/the-ai-agent-revolution-are-we-all-full-stack-developers-now-4kee)
-- [[Boost]](https://dev.to/mteguhfh/-3j5k)
+- [Avoid These Costly Mistakes in Cloud Deployments](https://dev.to/ramkumar-m-n/avoid-these-costly-mistakes-in-cloud-deployments-59cn)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1p7i)
+- [[Boost]](https://dev.to/robins163/-h0g)
+- [How to Install and Use Instagram OSINT Tool on Kali Linux](https://dev.to/terminaltools/how-to-install-and-use-instagram-osint-tool-on-kali-linux-4d19)
+- [Commercial grade beauty SDK!!!](https://dev.to/_0e000da16c3bc7be753583/commercial-grade-beauty-sdk-4j74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
