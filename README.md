@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring PHP-FPM Logs and Metrics: A Practical Guide to Debugging and Optimization](https://dev.to/olivia_madison_b0ad7090ad/monitoring-php-fpm-logs-and-metrics-a-practical-guide-to-debugging-and-optimization-45nc)
-- [Second Me Now Supports MCP Protocol —— Your AI Identity Can Now Be Called Anywhere](https://dev.to/secondme/second-me-now-supports-mcp-protocol-your-ai-identity-can-now-be-called-anywhere-5348)
-- [9 Patterns and Practices for Securing Apps in Angular](https://dev.to/artem_turlenko/securing-angular-applications-best-practices-patterns-5ca9)
-- [Why Web Accessibility Matters for Your Business?](https://dev.to/aeldata/why-web-accessibility-matters-for-your-business-3gm7)
-- [How to Understand a Project Codebase Like a Pro](https://dev.to/kristiyanvelkov/how-to-understand-a-project-codebase-like-a-pro-45kl)
+- [How to Run n8n on Localhost](https://dev.to/rajeshkumaryadavdotcom/how-to-run-n8n-on-localhost-340e)
+- [From LLM to AI Agent: What’s the Real Journey Behind AI System Development?](https://dev.to/codelink/from-llm-to-ai-agent-whats-the-real-journey-behind-ai-system-development-2144)
+- [Generate Unique, Sortable, and Decodable IDs for Node.js and Browsers. How to use Kinoid](https://dev.to/thornduke/generate-unique-sortable-and-decodable-ids-for-nodejs-and-browsers-how-to-use-kinoid-jd)
+- [SaaS It Up: How Devs Can Build, Launch &amp; Earn from Their Own Software Products](https://dev.to/mr_nova/saas-it-up-how-devs-can-build-launch-earn-from-their-own-software-products-56n9)
+- [Intersection Observer and Mutation Observer APIs](https://dev.to/omriluz1/intersection-observer-and-mutation-observer-apis-h1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
