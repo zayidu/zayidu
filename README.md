@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-12g8)
-- [Group Management in Linux: The First Step to Becoming a Sysadmin](https://dev.to/axisinfo_0a61830e06c3c950/group-management-in-linux-the-first-step-to-becoming-a-sysadmin-28o8)
-- [Tracking Memory Access Patterns in Python Using sys.settrace and Custom Hooks](https://dev.to/hexshift/tracking-memory-access-patterns-in-python-using-syssettrace-and-custom-3n08)
-- [🌍 5+ APIs Developers Can Use to Celebrate Earth Day 2025](https://dev.to/cobykalter/5-apis-developers-can-use-to-celebrate-earth-day-2025-2a0n)
-- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-2p91)
+- [What is Amazon API Gateway? The Ultimate Guide](https://dev.to/leonardkachi/what-is-amazon-api-gateway-the-ultimate-guide-37j)
+- [Vue - Usando watchEffect e reactive para maior controle](https://dev.to/stefanyrepetcki/vue-usando-watcheffect-e-reactive-para-maior-controle-2hkf)
+- [Meet PKI: The Quiet Hero Behind Secure Browsing](https://dev.to/rijultp/meet-pki-the-quiet-hero-behind-secure-browsing-5fkc)
+- [Vue com composition API - Computed e Watch](https://dev.to/stefanyrepetcki/vue-com-composition-api-computed-e-watch-574g)
+- [Understanding Apache Kafka: Topics, Partitions, Brokers,](https://dev.to/jhonifaber/understanding-apache-kafka-topics-partitions-brokers-2182)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
