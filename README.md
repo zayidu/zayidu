@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [jenv - managing multiple JDK environments](https://dev.to/m07sk/jenv-managing-multiple-jdk-environments-5d7)
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-2dfc)
-- [Exploring a Jupyter Notebook Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-jupyter-notebook-project-on-github-445i)
-- [Optimizing ClickHouse for Financial Time Series](https://dev.to/ms-dev/optimizing-clickhouse-for-financial-time-series-39d6)
-- [Just Joined here - Questions!](https://dev.to/oberin/just-joined-here-questions-1l88)
+- [AI &amp; Human Co‑Evolution: Toward a Sacred Partnership](https://dev.to/jj_fixman_6a0e804437c27c4/ai-human-co-evolution-toward-a-sacred-partnership-3l9e)
+- [Vibe Coding with AI? Don&#39;t Forget These Security Fundamentals](https://dev.to/uigerhana/vibe-coding-with-ai-dont-forget-these-security-fundamentals-3ac2)
+- [Exploring a new investing tool for beginners — looking to validate a few assumptions](https://dev.to/elijah_barbour_fb8c33823e/exploring-a-new-investing-tool-for-beginners-looking-to-validate-a-few-assumptions-4onn)
+- [The AI Agent Revolution: Are We All Full-Stack Developers Now?](https://dev.to/regnard/the-ai-agent-revolution-are-we-all-full-stack-developers-now-4kee)
+- [[Boost]](https://dev.to/mteguhfh/-3j5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
