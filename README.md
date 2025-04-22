@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Your AI: 20+ Advanced Cursor / Windsurf Tricks for Vibe Coding in A way Harder, Better, Faster and Stronger](https://dev.to/yigit-konur/stop-fighting-your-ai-20-advanced-cursor-windsurf-tricks-for-vibe-coding-in-a-way-harder-4a28)
-- [[Boost]](https://dev.to/dathyyy/-11i)
-- [JSON-RPC Uncovered](https://dev.to/bharathvaj_ganesan/json-rpc-uncovered-1f8n)
-- [How I Built an AI-Generated News Site - and What I Learned](https://dev.to/agentictribune/how-i-built-an-ai-generated-news-site-and-what-surprised-me-29c4)
-- [Firefox&#39;un Resmi Eklentisi SideView ile Tarayıcıda Çoklu Ekran Deneyimi](https://dev.to/eagledfc/firefoxun-resmi-eklentisi-sideview-ile-tarayicida-coklu-ekran-deneyimi-23f1)
+- [How to Use Burp Suite for Bug Bounty Hunting: A Beginner-Friendly Guide](https://dev.to/sampa_kundu_cc41c09ee4c47/how-to-use-burp-suite-for-bug-bounty-hunting-a-beginner-friendly-guide-17f5)
+- [Why Enterprises Are Shifting to Headless CMS in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/why-enterprises-are-shifting-to-headless-cms-in-2025-5m0)
+- [The Rise of Custom AI Agents and Their Development Companies](https://dev.to/albert_ed/the-rise-of-custom-ai-agents-and-their-development-companies-431l)
+- [What is Salesforce Hyperforce? Everything You Need to Know](https://dev.to/smartitstaff/what-is-salesforce-hyperforce-everything-you-need-to-know-m7h)
+- [Linux for Windows or WSL](https://dev.to/east_bank/linux-for-windows-or-wsl-2an5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
