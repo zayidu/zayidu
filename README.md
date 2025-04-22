@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run n8n on Localhost](https://dev.to/rajeshkumaryadavdotcom/how-to-run-n8n-on-localhost-340e)
-- [From LLM to AI Agent: What’s the Real Journey Behind AI System Development?](https://dev.to/codelink/from-llm-to-ai-agent-whats-the-real-journey-behind-ai-system-development-2144)
-- [Generate Unique, Sortable, and Decodable IDs for Node.js and Browsers. How to use Kinoid](https://dev.to/thornduke/generate-unique-sortable-and-decodable-ids-for-nodejs-and-browsers-how-to-use-kinoid-jd)
-- [SaaS It Up: How Devs Can Build, Launch &amp; Earn from Their Own Software Products](https://dev.to/mr_nova/saas-it-up-how-devs-can-build-launch-earn-from-their-own-software-products-56n9)
-- [Intersection Observer and Mutation Observer APIs](https://dev.to/omriluz1/intersection-observer-and-mutation-observer-apis-h1k)
+- [Understanding the Ideal Uptime Rate for Websites](https://dev.to/tomcao2012/understanding-the-ideal-uptime-rate-for-websites-i97)
+- [Move docker volume to another disk](https://dev.to/calj/move-docker-volume-to-another-disk-3i4f)
+- [Routes Group - Next.js](https://dev.to/khanrabiul/routes-group-nextjs-4pfb)
+- [Diving into Full Stack Development: My Learning Experience 🌊💻🚀](https://dev.to/aryan_karpe_aee2efca6e002/diving-into-full-stack-development-my-learning-experience-1nm0)
+- [I Built a free Clipboard Manager for macOS That Solved My Workflow Frustration](https://dev.to/aditi_cbe4863a955ac15fc17/i-built-a-free-clipboard-manager-for-macos-that-solved-my-workflow-frustration-55f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
