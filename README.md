@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1k31)
-- [day-31: this, super and inner class in java](https://dev.to/e00049/day-31-this-super-and-inner-class-in-java-46dn)
-- [CUDA Series &lpar;2/3&rpar;](https://dev.to/minwook/cuda-series-23-2d3p)
-- [Can a Diabetic Eat Grits? Everything You Should Know](https://dev.to/oliver_b2/can-a-diabetic-eat-grits-everything-you-should-know-59l9)
-- [How to Schedule Cron Jobs in Firebase Cloud Functions &lpar;Without Paid Plans&rpar;](https://dev.to/hexshift/how-to-schedule-cron-jobs-in-firebase-cloud-functions-without-paid-plans-4oee)
+- [Basic KYC Implementation Guide using KYC_CHECK](https://dev.to/juninhopo/basic-kyc-implementation-guide-using-kyccheck-3fld)
+- [Do you think you can answer this?](https://dev.to/akashbijwe/do-you-think-you-can-answer-this-18k2)
+- [Convert boolean values to strings &#39;Yes&#39; or &#39;No&#39;.](https://dev.to/maddiepst/convert-boolean-values-to-strings-yes-or-no-21dd)
+- [Is Vibe Coding the Future of Software Development?](https://dev.to/champsoft/is-vibe-coding-the-future-of-software-development-1lhb)
+- [Top 5 CMDB Best Practices for Beginners](https://dev.to/emily_assetloom/top-5-cmdb-best-practices-for-beginners-3jp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
