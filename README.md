@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you talk about/utilize AI with your team at work?](https://dev.to/jess/how-do-you-talk-aboututilize-ai-with-your-team-at-work-2g35)
-- [Understanding Rust&#39;s Sized Trait and Dynamically Sized Types](https://dev.to/leapcell/understanding-rusts-sized-trait-and-dynamically-sized-types-43ep)
-- [Design a serverless URL Shortener leveraging AWS](https://dev.to/anmol111pal/design-a-serverless-url-shortener-leveraging-aws-1kl)
-- [2338. Count the Number of Ideal Arrays](https://dev.to/mdarifulhaque/2338-count-the-number-of-ideal-arrays-7f7)
-- [Object-Oriented Programming in Java — The Heart of Modern Development](https://dev.to/vivekkantariya/object-oriented-programming-in-java-the-heart-of-modern-development-21mf)
+- [How do I get started using a raspberry pi5? I don&#39;t have anything yet.](https://dev.to/james_cann_9960/how-do-i-get-started-using-a-raspberry-pi5-i-dont-have-anything-yet-4a00)
+- [An L-MM for LLM Agents](https://dev.to/salman_paracha_ea278514b4/an-l-mm-for-llm-agents-254b)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8)
+- [100DaysOfCode — Day 5](https://dev.to/jobkroongit/100daysofcode-day-5-1g7c)
+- [Applying MVC Architecture in Game Development](https://dev.to/niraj_gaming/applying-mvc-architecture-in-game-development-108e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
