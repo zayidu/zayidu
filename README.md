@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Ideal Uptime Rate for Websites](https://dev.to/tomcao2012/understanding-the-ideal-uptime-rate-for-websites-i97)
-- [Move docker volume to another disk](https://dev.to/calj/move-docker-volume-to-another-disk-3i4f)
-- [Routes Group - Next.js](https://dev.to/khanrabiul/routes-group-nextjs-4pfb)
-- [Diving into Full Stack Development: My Learning Experience 🌊💻🚀](https://dev.to/aryan_karpe_aee2efca6e002/diving-into-full-stack-development-my-learning-experience-1nm0)
-- [I Built a free Clipboard Manager for macOS That Solved My Workflow Frustration](https://dev.to/aditi_cbe4863a955ac15fc17/i-built-a-free-clipboard-manager-for-macos-that-solved-my-workflow-frustration-55f7)
+- [Applying Sennett&#39;s Trio to Software Architecture – Localise, Question, Open Up](https://dev.to/sebs/applying-sennetts-trio-to-software-architecture-localise-question-open-up-l5n)
+- [Going Deeper with Keycloak: Understanding Authorization Services](https://dev.to/haithamoumer/going-deeper-with-keycloak-understanding-authorization-services-27m)
+- [What is Spacelift? Key Features, Benefits &amp; Use Cases](https://dev.to/spacelift/what-is-spacelift-key-features-benefits-use-cases-3o4k)
+- [🚀 API Maker : Release Notes for v1.15.0](https://dev.to/apimaker/api-maker-release-notes-for-v1150-4hpi)
+- [WebGPU &amp; 3D: The New Frontier in Frontend](https://dev.to/klimd1389/webgpu-3d-the-new-frontier-in-frontend-1dmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
