@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I get started using a raspberry pi5? I don&#39;t have anything yet.](https://dev.to/james_cann_9960/how-do-i-get-started-using-a-raspberry-pi5-i-dont-have-anything-yet-4a00)
-- [An L-MM for LLM Agents](https://dev.to/salman_paracha_ea278514b4/an-l-mm-for-llm-agents-254b)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8)
-- [100DaysOfCode — Day 5](https://dev.to/jobkroongit/100daysofcode-day-5-1g7c)
-- [Applying MVC Architecture in Game Development](https://dev.to/niraj_gaming/applying-mvc-architecture-in-game-development-108e)
+- [I Stopped Planning and Just Shipped — Here’s What Happened](https://dev.to/shreshthgoyal/i-stopped-planning-and-just-shipped-heres-what-happened-4pch)
+- [Crafting URLs That Search Engines &lpar;And Humans&rpar; Love: A Developer&#39;s 2025 Playbook](https://dev.to/codebucks/crafting-urls-that-search-engines-and-humans-love-a-developers-2025-playbook-3820)
+- [[Boost]](https://dev.to/brian_dussault/-3h6c)
+- [A Reflection on My First Steps in Tech](https://dev.to/johnking376/a-reflection-on-my-first-steps-in-tech-2eaj)
+- [Celebrating our step towards sustainability this Environment Day — because change begins with us.](https://dev.to/khushihiagrawal/celebrating-our-step-towards-sustainability-this-environment-day-because-change-begins-with-us-5aec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
