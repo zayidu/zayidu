@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing TCP Packets with BPF and Python](https://dev.to/hexshift/parsing-tcp-packets-with-bpf-and-python-4jg8)
-- [AI in the Workplace: Curse or Blessing?](https://dev.to/kmo/ai-in-the-workplace-curse-or-blessing-57pp)
-- [This is what intentional sales leadership looks like. Calm, clear, and completely in control of the moment. #AshkanRajaee #ModernSales #NoPressure #BusinessVisuals #SalesMoment](https://dev.to/ciarraverse/this-is-what-intentional-sales-leadership-looks-like-calm-clear-and-completely-in-control-of-the-3on4)
-- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
-- [How to Generate IaC Templates from Your Docker Files](https://dev.to/piotr_hajdas/how-to-generate-iac-templates-from-your-docker-files-3gn)
+- [This algorithm&#39;s O&lpar;n log n + m&rpar; runtime for a 2-approximate Dominating Set presents tangible, efficient evidence that P = NP may be practically realizable via near-optimal polynomial-time solutions. Deployed and Ready to use https://pypi.org/project/baldor](https://dev.to/frank_vega_987689489099bf/this-algorithms-on-log-n-m-runtime-for-a-2-approximate-dominating-set-presents-tangible-2jdm)
+- [📸 Meet env-snapper: Snapshot &amp; Track Your .env Files with Ease](https://dev.to/alex_gutscher_2ab0d3cf4c3/meet-env-snapper-snapshot-track-your-env-files-with-ease-1fea)
+- [Spring Security’s Silent Rules That Break Your App](https://dev.to/tharun_07/spring-securitys-silent-rules-that-break-your-app-55j1)
+- [Test Article: MCP Publishing Demo](https://dev.to/govindup63/test-article-mcp-publishing-demo-1lo1)
+- [What Is SoftHSM](https://dev.to/hasanmonsur/what-is-softhsm-3k5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
