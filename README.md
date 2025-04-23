@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Network Security: A Simple Guide for Everyone](https://dev.to/terminaltools/understanding-network-security-a-simple-guide-for-everyone-90g)
-- [LLM Training: Data Costs 1000x More Than You Think!](https://dev.to/aimodels-fyi/llm-training-data-costs-1000x-more-than-you-think-2c1d)
-- [AI Denoises CT Scans: Clearer Images with Less Radiation?](https://dev.to/aimodels-fyi/ai-denoises-ct-scans-clearer-images-with-less-radiation-4ajf)
-- [Navigate Your Broadcom 250-563 Certification Smoothly](https://dev.to/difeed/navigate-your-broadcom-250-563-certification-smoothly-l33)
-- [EasyEdit2: Steer LLMs Without Retraining! Safety, Sentiment &amp; More](https://dev.to/aimodels-fyi/easyedit2-steer-llms-without-retraining-safety-sentiment-more-4hjk)
+- [Switch Case in C# 8.0 and Later: What&#39;s New and Improved?](https://dev.to/pythontutorial/switch-case-in-c-80-and-later-whats-new-and-improved-3hp6)
+- [MySQL সার্ভার চালু আছে কিনা তা বোঝার উপায়](https://dev.to/swapnil_ahmmedshishir_2d/mysql-saarbhaar-caalu-aache-kinaa-taa-bojhaar-upaayy-4lp7)
+- [Build a ChatGPT-Powered Phone Assistant with Twilio in Under 2 Hours](https://dev.to/professormanhattan/build-a-chatgpt-powered-phone-assistant-with-twilio-in-under-2-hours-4a47)
+- [Java Memory Management Tips: Weak Maps, Weak Sets, and Pre-Sized Collections &lpar;with Examples&rpar;](https://dev.to/haraf/java-memory-management-tips-weak-maps-weak-sets-and-pre-sized-collections-with-examples-4o5j)
+- [AI, Ethics, and Data Security: Navigating the Risks in Banking](https://dev.to/quickwayinfosystems/ai-ethics-and-data-security-navigating-the-risks-in-banking-53g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
