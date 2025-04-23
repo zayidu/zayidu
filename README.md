@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Path Method &lpar;CPM&rpar; Explained for Developers: Mastering Project Timelines](https://dev.to/teamcamp/critical-path-method-cpm-explained-for-developers-mastering-project-timelines-4k6j)
-- [📝 API Performance Optimization REST vs. GraphQL vs. gRPC](https://dev.to/hasunnilupul/api-performance-optimization-rest-vs-graphql-vs-grpc-2a18)
-- [🔄 Java Streams: Balancing Performance and Thread Safety Like a Pro](https://dev.to/haraf/java-streams-balancing-performance-and-thread-safety-like-a-pro-42od)
-- [Upgrading Django with &quot;python -WA manage.py test&quot;](https://dev.to/azayshrestha/upgrading-django-with-python-wa-managepy-test-2l69)
-- [Prefetching content in Next.js](https://dev.to/preetsuthar17/prefetching-content-in-nextjs-2hb9)
+- [Understanding Network Security: A Simple Guide for Everyone](https://dev.to/terminaltools/understanding-network-security-a-simple-guide-for-everyone-90g)
+- [LLM Training: Data Costs 1000x More Than You Think!](https://dev.to/aimodels-fyi/llm-training-data-costs-1000x-more-than-you-think-2c1d)
+- [AI Denoises CT Scans: Clearer Images with Less Radiation?](https://dev.to/aimodels-fyi/ai-denoises-ct-scans-clearer-images-with-less-radiation-4ajf)
+- [Navigate Your Broadcom 250-563 Certification Smoothly](https://dev.to/difeed/navigate-your-broadcom-250-563-certification-smoothly-l33)
+- [EasyEdit2: Steer LLMs Without Retraining! Safety, Sentiment &amp; More](https://dev.to/aimodels-fyi/easyedit2-steer-llms-without-retraining-safety-sentiment-more-4hjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
