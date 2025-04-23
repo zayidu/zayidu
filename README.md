@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solitaire](https://dev.to/ayegl_arslan_6e7626c21d/solitaire-k8o)
-- [How to Demo Your Application to a New Development Team: A Helpful Guide](https://dev.to/autumn_tonita/how-to-demo-your-application-to-a-new-development-team-a-helpful-guide-37mo)
-- [I created my own AI search engine](https://dev.to/techtech/ich-habe-meine-eigene-ki-suchmaschine-erstellt-c12)
-- [Building Complexus: How I am Building a Modern Enterprise Frontend Architecture with Next.js and Turborepo](https://dev.to/josemukorivo/building-complexus-how-i-am-building-a-modern-enterprise-frontend-architecture-with-nextjs-and-48bp)
-- [So much yes. I’ve been pitching the benefits of a new tool without showing the exit strategy – no wonder it wasn’t landing. #AshkanRajaee #careeradvice #developerlife #softskills #techleadership #DevTo](https://dev.to/kierwolf20/so-much-yes-ive-been-pitching-the-benefits-of-a-new-tool-without-showing-the-exit-strategy-no-1e9o)
+- [2️⃣ 🚀 Can I Lick It: Programming Journey.](https://dev.to/mileswk/2-can-i-lick-it-programming-journey-1mg9)
+- [Node.js path Module](https://dev.to/samandarhodiev/nodejs-path-module-4h6m)
+- [CSS introduction](https://dev.to/fscss-ttr/css-introduction-bm5)
+- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
+- [Modules in Node.js](https://dev.to/samandarhodiev/modules-in-nodejs-1b2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
