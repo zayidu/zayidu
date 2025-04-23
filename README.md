@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re a square!](https://dev.to/maddiepst/youre-a-square-fgb)
-- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
-- [How to Convert SQL Queries to API Requests &lpar;3 Methods&rpar;](https://dev.to/jeffdev03/how-to-convert-sql-queries-to-api-requests-3-methods-4135)
-- [Top 16 TypeScript Mistakes Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/leapcell/top-16-typescript-mistakes-developers-make-and-how-to-fix-them-4p9a)
-- [[Boost]](https://dev.to/grexe/-4lgk)
+- [Critical Path Method &lpar;CPM&rpar; Explained for Developers: Mastering Project Timelines](https://dev.to/teamcamp/critical-path-method-cpm-explained-for-developers-mastering-project-timelines-4k6j)
+- [📝 API Performance Optimization REST vs. GraphQL vs. gRPC](https://dev.to/hasunnilupul/api-performance-optimization-rest-vs-graphql-vs-grpc-2a18)
+- [🔄 Java Streams: Balancing Performance and Thread Safety Like a Pro](https://dev.to/haraf/java-streams-balancing-performance-and-thread-safety-like-a-pro-42od)
+- [Upgrading Django with &quot;python -WA manage.py test&quot;](https://dev.to/azayshrestha/upgrading-django-with-python-wa-managepy-test-2l69)
+- [Prefetching content in Next.js](https://dev.to/preetsuthar17/prefetching-content-in-nextjs-2hb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
