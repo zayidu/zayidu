@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Amazon API Gateway? The Ultimate Guide](https://dev.to/leonardkachi/what-is-amazon-api-gateway-the-ultimate-guide-37j)
-- [Vue - Usando watchEffect e reactive para maior controle](https://dev.to/stefanyrepetcki/vue-usando-watcheffect-e-reactive-para-maior-controle-2hkf)
-- [Meet PKI: The Quiet Hero Behind Secure Browsing](https://dev.to/rijultp/meet-pki-the-quiet-hero-behind-secure-browsing-5fkc)
-- [Vue com composition API - Computed e Watch](https://dev.to/stefanyrepetcki/vue-com-composition-api-computed-e-watch-574g)
-- [Understanding Apache Kafka: Topics, Partitions, Brokers,](https://dev.to/jhonifaber/understanding-apache-kafka-topics-partitions-brokers-2182)
+- [Kotlin + gRPC: Nesting, Composition, Validations, and Idiomatic Builder DSL](https://dev.to/lucasfugisawa/kotlin-grpc-nesting-composition-validations-and-idiomatic-builder-dsl-cap)
+- [Que es AngularJS?](https://dev.to/joshua_leon_65b677a50c098/que-es-angularjs-1oo5)
+- [Software Testing: Theory and Practice &lpar;Part 1&rpar; - Fundamental Concepts of Software Testing](https://dev.to/kuniwak/software-testing-theory-and-practice-part-1-fundamental-concepts-of-software-testing-2khi)
+- [I Built a Baseball Roster Guessing Game with Angular + Cloud Run &lpar;and It Roasts You If You Lose&rpar;](https://dev.to/nbrinson2/i-built-a-baseball-roster-guessing-game-with-angular-cloud-run-and-it-roasts-you-if-you-lose-4dhe)
+- [Mastering URL‑Safe Encoding with .NET 9’s Base64Url Class: Examples &amp; Best Practices](https://dev.to/leandroveiga/mastering-url-safe-encoding-with-net-9s-base64url-class-examples-best-practices-2pp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
