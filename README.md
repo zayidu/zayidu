@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacking Elements with Z-index in CSS](https://dev.to/thedevspace/stacking-elements-with-z-index-in-css-2b73)
-- [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
-- [The Hidden Structure of Power in Tech Companies: What Most Devs Miss When Trying to Influence Change](https://dev.to/james007anthony/the-hidden-structure-of-power-in-tech-companies-what-most-devs-miss-when-trying-to-influence-change-afj)
-- [Yapay Zeka ve Makine Öğrenimi: Geleceğin Teknolojisini Şekillendiren Devrimler&quot;](https://dev.to/yunus_emremert_1756b71d3/yapay-zeka-ve-makine-ogrenimi-gelecegin-teknolojisini-sekillendiren-devrimler-f1)
-- [Meta Prora: Your Ultimate Minecraft World Resource](https://dev.to/berkan_baerbuilder_85/meta-prora-your-ultimate-minecraft-world-resource-5eol)
+- [Command the Crew](https://dev.to/intersystems/command-the-crew-5fbf)
+- [The Case for IRIS and JavaScript](https://dev.to/intersystems/the-case-for-iris-and-javascript-29b0)
+- [Why Your Flutter App Needs `event_handeler`: A Fun, Powerful Alternative &lpar;and Companion&rpar; to State Management](https://dev.to/ktbsomen/why-your-flutter-app-needs-eventhandeler-a-fun-powerful-alternative-and-companion-to-state-9k7)
+- [How Much Energy Does ChatGPT Use Per Prompt? A Look at Its Hidden Environmental Costs](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-a-look-at-its-hidden-environmental-costs-2j3a)
+- [🤨 4 Frustrations in AI Native Development [GPT 4.1]](https://dev.to/fernandezbaptiste/4-frustrations-in-ai-native-development-gpt-41-bb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
