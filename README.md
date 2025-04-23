@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Mesh Explained: Building a Proxy Injector in Rust &lpar;with code&rpar;](https://dev.to/cortexflow/service-mesh-explained-building-a-proxy-injector-in-rust-with-code-5c48)
-- [Python vs JavaScript : Qual Linguagem é Melhor para Iniciantes em 2025? - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/python-vs-javascript-qual-linguagem-e-melhor-para-iniciantes-em-2025-by-vladimir-oliveira-lima-2gkn)
-- [Testing NextAuth.js Logins in Cypress: Optimizing Speed &amp; Reliability](https://dev.to/artur_alekseev/testing-nextauthjs-logins-in-cypress-optimizing-speed-reliability-58jj)
-- [Writers Deserve Better: What’s Really Going On at HackerNoon?](https://dev.to/ivolowkey/writers-deserve-better-whats-really-going-on-at-hackernoon-5hg1)
-- [How I Passed the Azure AI-102 Exam](https://dev.to/alextheluchador/how-i-passed-the-azure-ai-102-exam-4gg7)
+- [PostgreSQL vs MySQL vs Redis: Choose Your Fighter](https://dev.to/devlinkstudios/postgresql-vs-mysql-vs-redis-choose-your-fighter-2ea0)
+- [Flight 3613 announced](https://dev.to/zako_mako_9a4826822204c78/flight-3613-announced-3dd4)
+- [NODX : my new coding compiler](https://dev.to/zako_mako_9a4826822204c78/nodx-my-new-coding-compiler-1pl6)
+- [The Graveyard of AI Startups: Startups That Forgot to Build Real Value](https://dev.to/devlinkstudios/the-graveyard-of-ai-startups-startups-that-forgot-to-build-real-value-5ad9)
+- [Just finished my new website, let me know what you think!! https://oscargaske.me/](https://dev.to/kurealnum/just-finished-my-new-website-let-me-know-what-you-thinkhttpsoscargaskeme-3p4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
