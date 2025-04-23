@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Command the Crew](https://dev.to/intersystems/command-the-crew-5fbf)
-- [The Case for IRIS and JavaScript](https://dev.to/intersystems/the-case-for-iris-and-javascript-29b0)
-- [Why Your Flutter App Needs `event_handeler`: A Fun, Powerful Alternative &lpar;and Companion&rpar; to State Management](https://dev.to/ktbsomen/why-your-flutter-app-needs-eventhandeler-a-fun-powerful-alternative-and-companion-to-state-9k7)
-- [How Much Energy Does ChatGPT Use Per Prompt? A Look at Its Hidden Environmental Costs](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-a-look-at-its-hidden-environmental-costs-2j3a)
-- [🤨 4 Frustrations in AI Native Development [GPT 4.1]](https://dev.to/fernandezbaptiste/4-frustrations-in-ai-native-development-gpt-41-bb0)
+- [Inside the Digital Pulse: Scale AI, Tesla, and the State of Gaming &amp; Apps](https://dev.to/ozee/inside-the-digital-pulse-scale-ai-tesla-and-the-state-of-gaming-apps-2gc1)
+- [Installing and Uninstalling Vendure: A Headless Commerce Guide](https://dev.to/wpplumber/installing-and-uninstalling-vendure-a-headless-commerce-guide-2m9h)
+- [[Boost]](https://dev.to/cpazro/-1ncp)
+- [Cybersecurity – Protect What Matters Most](https://dev.to/kevin_asutton_/cybersecurity-protect-what-matters-most-3ipl)
+- [Types of Quantitative Trading on Solana](https://dev.to/btcmiles/types-of-quantitative-trading-on-solana-iah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
