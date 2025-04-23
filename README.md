@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can a Corporate Interior Fit-Out Enhance Workplace Productivity?](https://dev.to/line_andspace_5e363c2bbd/how-can-a-corporate-interior-fit-out-enhance-workplace-productivity-2mlp)
-- [Test](https://dev.to/arpit_tiwari_22499eda78de/test-155m)
-- [What Makes a Great HR Consultant—and Why Your Business Needs One](https://dev.to/yehia_samir123/what-makes-a-great-hr-consultant-and-why-your-business-needs-one-466f)
-- [How do I get into Data Science from a Non-Technical Background?](https://dev.to/elearning_solutions_791be/how-do-i-get-into-data-science-from-a-non-technical-background-7mi)
-- [Kiteboarding in Turks and Caicos: Everything You Need to Know](https://dev.to/flytci/kiteboarding-in-turks-and-caicos-everything-you-need-to-know-5f7o)
+- [⚡️ 6 Standout Portfolio Tips, UX Generalist Comeback &amp; What&#39;s VibeScript?](https://dev.to/adam/6-standout-portfolio-tips-ux-generalist-comeback-whats-vibescript-40e1)
+- [Building for the Surge — What We Learned Architecting a System for 10,000+ Users at Once](https://dev.to/mehartung/building-for-the-surge-what-we-learned-architecting-a-system-for-10000-users-at-once-200c)
+- [Why Building New Blockchains Still Makes Sense in 2025](https://dev.to/iri_denis/why-building-new-blockchains-still-makes-sense-in-2025-3cf2)
+- [Biblically Accurate Rust 😇](https://dev.to/wiseai/biblically-accurate-rust-1p9h)
+- [10 Advanced Ruby on Rails Features](https://dev.to/colinsoleim/10-advanced-ruby-on-rails-features-2h04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
