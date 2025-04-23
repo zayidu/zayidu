@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Search Engine Optimization Tools for Large Businesses](https://dev.to/sherika_broyles_b9bed29a9/enterprise-search-engine-optimization-tools-for-large-businesses-3e4e)
-- [ML WORK SHOP](https://dev.to/harish_r_6e377c4fc214e03/ml-work-shop-1lle)
-- [Cloud Computing: Revolutionizing Business Operations by Emerging from On-Premises to the Cloud](https://dev.to/tr010910/cloud-computing-revolutionizing-business-operations-by-emerging-from-on-premises-to-the-cloud-2dba)
-- [ML GitHub Workshop](https://dev.to/santhosh07/ml-github-workshop-2lid)
-- [This is the first time someone broke down internal company politics in a way that actually makes sense for devs. Super helpful!](https://dev.to/techbyfelix/this-is-the-first-time-someone-broke-down-internal-company-politics-in-a-way-that-actually-makes-39o0)
+- [Solitaire](https://dev.to/ayegl_arslan_6e7626c21d/solitaire-k8o)
+- [How to Demo Your Application to a New Development Team: A Helpful Guide](https://dev.to/autumn_tonita/how-to-demo-your-application-to-a-new-development-team-a-helpful-guide-37mo)
+- [I created my own AI search engine](https://dev.to/techtech/ich-habe-meine-eigene-ki-suchmaschine-erstellt-c12)
+- [Building Complexus: How I am Building a Modern Enterprise Frontend Architecture with Next.js and Turborepo](https://dev.to/josemukorivo/building-complexus-how-i-am-building-a-modern-enterprise-frontend-architecture-with-nextjs-and-48bp)
+- [So much yes. I’ve been pitching the benefits of a new tool without showing the exit strategy – no wonder it wasn’t landing. #AshkanRajaee #careeradvice #developerlife #softskills #techleadership #DevTo](https://dev.to/kierwolf20/so-much-yes-ive-been-pitching-the-benefits-of-a-new-tool-without-showing-the-exit-strategy-no-1e9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
