@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Form Validation made easy for beginners. Learn how to monitor states in react](https://dev.to/iamonuwacj/form-validation-made-easy-for-beginners-learn-how-to-monitor-states-in-react-ld1)
-- [Mastering CI/CD with AWS DevOps: A Complete 2025 Guide](https://dev.to/adityabhuyan/mastering-cicd-with-aws-devops-a-complete-2025-guide-4d8g)
-- [Beginner&#39;s Guide to Form Validation](https://dev.to/iamonuwacj/beginners-guide-to-form-validation-35li)
-- [Lugares mas hermosos del mundo](https://dev.to/ricardojavister/lugares-mas-hermosos-del-mundo-59oj)
-- [ArchUnit: Garantindo a Integridade Arquitetural de Aplicações Java](https://dev.to/diegobrandao/archunit-garantindo-a-integridade-arquitetural-de-aplicacoes-java-29ec)
+- [You&#39;re a square!](https://dev.to/maddiepst/youre-a-square-fgb)
+- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
+- [How to Convert SQL Queries to API Requests &lpar;3 Methods&rpar;](https://dev.to/jeffdev03/how-to-convert-sql-queries-to-api-requests-3-methods-4135)
+- [Top 16 TypeScript Mistakes Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/leapcell/top-16-typescript-mistakes-developers-make-and-how-to-fix-them-4p9a)
+- [[Boost]](https://dev.to/grexe/-4lgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
