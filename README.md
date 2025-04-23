@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Geocoding Distance🐞](https://dev.to/max_kleiner_9d12e786b3ecc/geocoding-distance-115b)
-- [Machine Learning](https://dev.to/senthilkumar_t_34583d5f08/machine-learning-13cj)
-- [Decentralized Identity &lpar;DID&rpar;: The Missing Link in Web3?](https://dev.to/victoruzo/decentralized-identity-did-the-missing-link-in-web3-18h3)
-- [GIT/GITHUB COMMANDS](https://dev.to/sathiyajothic/gitgithub-commands-25co)
-- [🔌 Easily Share Your Localhost with a Public URL — No Signup Needed!](https://dev.to/ahmedrajbi/easily-share-your-localhost-with-a-public-url-no-signup-needed-bep)
+- [Enterprise Search Engine Optimization Tools for Large Businesses](https://dev.to/sherika_broyles_b9bed29a9/enterprise-search-engine-optimization-tools-for-large-businesses-3e4e)
+- [ML WORK SHOP](https://dev.to/harish_r_6e377c4fc214e03/ml-work-shop-1lle)
+- [Cloud Computing: Revolutionizing Business Operations by Emerging from On-Premises to the Cloud](https://dev.to/tr010910/cloud-computing-revolutionizing-business-operations-by-emerging-from-on-premises-to-the-cloud-2dba)
+- [ML GitHub Workshop](https://dev.to/santhosh07/ml-github-workshop-2lid)
+- [This is the first time someone broke down internal company politics in a way that actually makes sense for devs. Super helpful!](https://dev.to/techbyfelix/this-is-the-first-time-someone-broke-down-internal-company-politics-in-a-way-that-actually-makes-39o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
