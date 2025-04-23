@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50 CSS Tricks to Master in 2025: Enhance Your Web Design Skills](https://dev.to/code_2/50-css-tricks-to-master-in-2025-enhance-your-web-design-skills-1l1k)
-- [Week 4](https://dev.to/tomgreenn/week-4-5ei2)
-- [Notion vs Obsidian? Developers Comments.](https://dev.to/abubakersiddique761/notion-vs-obsidian-developers-comments-4gca)
-- [O que é essa tal de construção de relacionamentos que tanto falam em Developer Relations?](https://dev.to/levxyca/o-que-e-essa-tal-de-construcao-de-relacionamentos-que-tanto-falam-em-developer-relations-2m2f)
-- [Neural DSL v0.2.7: Enhanced HPO Support and Parser Improvements](https://dev.to/neural/neural-dsl-v027-enhanced-hpo-support-and-parser-improvements-27fg)
+- [ReactJS Datatable](https://dev.to/samseptiano/reactjs-datatable-cm7)
+- [Bulls Are Back? BTC Surges to $71K – What This Means for QA in Crypto](https://dev.to/philip_crypto92/bulls-are-back-btc-surges-to-71k-what-this-means-for-qa-in-crypto-1p30)
+- [Code[AI]ve – Un IDE IA local et multi-agent &lpar;sans cloud, sans compromis&rpar;](https://dev.to/mahabot/codeaive-un-ide-ia-local-et-multi-agent-sans-cloud-sans-compromis-5be3)
+- [5 Best Uncensored Flux AI Unrestricted Models to Try Now](https://dev.to/aibyamdad/5-best-uncensored-flux-ai-unrestricted-models-to-try-now-36bk)
+- [Getting Started with SQL: A Guide for Data Analysts](https://dev.to/tiffkaranja/getting-started-with-sql-a-guide-for-data-analysts-57nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
