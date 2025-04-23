@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2️⃣ 🚀 Can I Lick It: Programming Journey.](https://dev.to/mileswk/2-can-i-lick-it-programming-journey-1mg9)
-- [Node.js path Module](https://dev.to/samandarhodiev/nodejs-path-module-4h6m)
-- [CSS introduction](https://dev.to/fscss-ttr/css-introduction-bm5)
-- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
-- [Modules in Node.js](https://dev.to/samandarhodiev/modules-in-nodejs-1b2f)
+- [Service Mesh Explained: Building a Proxy Injector in Rust &lpar;with code&rpar;](https://dev.to/cortexflow/service-mesh-explained-building-a-proxy-injector-in-rust-with-code-5c48)
+- [Python vs JavaScript : Qual Linguagem é Melhor para Iniciantes em 2025? - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/python-vs-javascript-qual-linguagem-e-melhor-para-iniciantes-em-2025-by-vladimir-oliveira-lima-2gkn)
+- [Testing NextAuth.js Logins in Cypress: Optimizing Speed &amp; Reliability](https://dev.to/artur_alekseev/testing-nextauthjs-logins-in-cypress-optimizing-speed-reliability-58jj)
+- [Writers Deserve Better: What’s Really Going On at HackerNoon?](https://dev.to/ivolowkey/writers-deserve-better-whats-really-going-on-at-hackernoon-5hg1)
+- [How I Passed the Azure AI-102 Exam](https://dev.to/alextheluchador/how-i-passed-the-azure-ai-102-exam-4gg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
