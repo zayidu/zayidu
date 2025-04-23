@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Datatable](https://dev.to/samseptiano/reactjs-datatable-cm7)
-- [Bulls Are Back? BTC Surges to $71K – What This Means for QA in Crypto](https://dev.to/philip_crypto92/bulls-are-back-btc-surges-to-71k-what-this-means-for-qa-in-crypto-1p30)
-- [Code[AI]ve – Un IDE IA local et multi-agent &lpar;sans cloud, sans compromis&rpar;](https://dev.to/mahabot/codeaive-un-ide-ia-local-et-multi-agent-sans-cloud-sans-compromis-5be3)
-- [5 Best Uncensored Flux AI Unrestricted Models to Try Now](https://dev.to/aibyamdad/5-best-uncensored-flux-ai-unrestricted-models-to-try-now-36bk)
-- [Getting Started with SQL: A Guide for Data Analysts](https://dev.to/tiffkaranja/getting-started-with-sql-a-guide-for-data-analysts-57nd)
+- [Stacking Elements with Z-index in CSS](https://dev.to/thedevspace/stacking-elements-with-z-index-in-css-2b73)
+- [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
+- [The Hidden Structure of Power in Tech Companies: What Most Devs Miss When Trying to Influence Change](https://dev.to/james007anthony/the-hidden-structure-of-power-in-tech-companies-what-most-devs-miss-when-trying-to-influence-change-afj)
+- [Yapay Zeka ve Makine Öğrenimi: Geleceğin Teknolojisini Şekillendiren Devrimler&quot;](https://dev.to/yunus_emremert_1756b71d3/yapay-zeka-ve-makine-ogrenimi-gelecegin-teknolojisini-sekillendiren-devrimler-f1)
+- [Meta Prora: Your Ultimate Minecraft World Resource](https://dev.to/berkan_baerbuilder_85/meta-prora-your-ultimate-minecraft-world-resource-5eol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
