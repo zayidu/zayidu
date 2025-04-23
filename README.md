@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Digital Pulse: Scale AI, Tesla, and the State of Gaming &amp; Apps](https://dev.to/ozee/inside-the-digital-pulse-scale-ai-tesla-and-the-state-of-gaming-apps-2gc1)
-- [Installing and Uninstalling Vendure: A Headless Commerce Guide](https://dev.to/wpplumber/installing-and-uninstalling-vendure-a-headless-commerce-guide-2m9h)
-- [[Boost]](https://dev.to/cpazro/-1ncp)
-- [Cybersecurity – Protect What Matters Most](https://dev.to/kevin_asutton_/cybersecurity-protect-what-matters-most-3ipl)
-- [Types of Quantitative Trading on Solana](https://dev.to/btcmiles/types-of-quantitative-trading-on-solana-iah)
+- [5 best open source tools for cross-browser CSS testing](https://dev.to/logrocket/5-best-open-source-tools-for-cross-browser-css-testing-24ab)
+- [Git and GITHUB COMMANDS](https://dev.to/annishasaravanan/git-and-github-commands-gnm)
+- [Git Workflow for Modifying and Committing Changes](https://dev.to/harini_natarajan/git-workflow-for-modifying-and-committing-changes-405j)
+- [Vibe-design And Vibe-coding Best Practices](https://dev.to/keno_reloaded/vibe-designing-and-vibe-coding-best-practices-398k)
+- [6 Ways To Supercharge Your Node.js Serverless Workflow](https://dev.to/aws-builders/supercharge-your-nodejs-serverless-workflow-3ipc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
