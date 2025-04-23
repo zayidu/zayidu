@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Data Science and Analytics are transforming industries today](https://dev.to/wsgatungo/how-data-science-and-analytics-are-transforming-industries-today-433m)
-- [Why You Should Use Whoer Check IP](https://dev.to/swiftproxy_residential/why-you-should-use-whoer-check-ip-139a)
-- [Clipboard API and Web Share API](https://dev.to/omriluz1/clipboard-api-and-web-share-api-2eh)
-- [Memory Models of Distributed Systems](https://dev.to/ninjin/memory-models-of-distributed-systems-5b9i)
-- [Custom Keycaps as Lifestyle: Why Keyboard Design Feels So Personal](https://dev.to/mysticcoder/custom-keycaps-as-lifestyle-why-keyboard-design-feels-so-personal-474p)
+- [My first play through was an awesome experience](https://dev.to/no_momo_f91fc40d15fd8f213/my-first-play-through-was-an-awesome-experience-5ejf)
+- [📁 Understanding HTML File Paths](https://dev.to/himanayk/understanding-html-file-paths-4cba)
+- [Create a dynamic multiple step form with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/create-a-dynamic-multiple-step-form-with-tailwind-css-and-alpine-js-3kdc)
+- [High-Performance Go Middleware: Building Efficient HTTP Request Chains](https://dev.to/aaravjoshi/high-performance-go-middleware-building-efficient-http-request-chains-3ib0)
+- [How to Scale Influencer Marketing Campaigns Without Expanding Your Team | Entyx AI](https://dev.to/entyx/how-to-scale-influencer-marketing-campaigns-without-expanding-your-team-entyx-ai-516i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
