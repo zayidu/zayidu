@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch Case in C# 8.0 and Later: What&#39;s New and Improved?](https://dev.to/pythontutorial/switch-case-in-c-80-and-later-whats-new-and-improved-3hp6)
-- [MySQL সার্ভার চালু আছে কিনা তা বোঝার উপায়](https://dev.to/swapnil_ahmmedshishir_2d/mysql-saarbhaar-caalu-aache-kinaa-taa-bojhaar-upaayy-4lp7)
-- [Build a ChatGPT-Powered Phone Assistant with Twilio in Under 2 Hours](https://dev.to/professormanhattan/build-a-chatgpt-powered-phone-assistant-with-twilio-in-under-2-hours-4a47)
-- [Java Memory Management Tips: Weak Maps, Weak Sets, and Pre-Sized Collections &lpar;with Examples&rpar;](https://dev.to/haraf/java-memory-management-tips-weak-maps-weak-sets-and-pre-sized-collections-with-examples-4o5j)
-- [AI, Ethics, and Data Security: Navigating the Risks in Banking](https://dev.to/quickwayinfosystems/ai-ethics-and-data-security-navigating-the-risks-in-banking-53g9)
+- [How Data Science and Analytics are transforming industries today](https://dev.to/wsgatungo/how-data-science-and-analytics-are-transforming-industries-today-433m)
+- [Why You Should Use Whoer Check IP](https://dev.to/swiftproxy_residential/why-you-should-use-whoer-check-ip-139a)
+- [Clipboard API and Web Share API](https://dev.to/omriluz1/clipboard-api-and-web-share-api-2eh)
+- [Memory Models of Distributed Systems](https://dev.to/ninjin/memory-models-of-distributed-systems-5b9i)
+- [Custom Keycaps as Lifestyle: Why Keyboard Design Feels So Personal](https://dev.to/mysticcoder/custom-keycaps-as-lifestyle-why-keyboard-design-feels-so-personal-474p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
