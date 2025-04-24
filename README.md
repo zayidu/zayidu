@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Potpie&#39;s Slack Integration: Bring Your Custom AI Agents to Where You Work](https://dev.to/potpie/introducing-potpies-slack-integration-bring-your-custom-ai-agents-to-where-you-work-3hoi)
-- [💡 My First Look: Docker&#39;s New MCP Catalog &amp; Toolkit for AI Developers! 🐳](https://dev.to/jeaniscoding/my-first-look-dockers-new-mcp-catalog-toolkit-for-ai-developers-3klk)
-- [Community Engagement Strategies in Open Source Projects: A Comprehensive Guide](https://dev.to/vitalisorenko/community-engagement-strategies-in-open-source-projects-a-comprehensive-guide-2m83)
-- [Embracing the Power of Community-Driven Projects](https://dev.to/ashucommits/embracing-the-power-of-community-driven-projects-2bdl)
-- [The Ethical Imperative: Coding Ethical Practices in Software Development](https://dev.to/jennythomas498/the-ethical-imperative-coding-ethical-practices-in-software-development-40c4)
+- [It’s Not Real Learning Until Something Goes Down](https://dev.to/srzainab/its-not-real-learning-until-something-goes-down-4n77)
+- [How I Built a React Job Tracker: My Journey as a New Developer](https://dev.to/shalpha2/how-i-built-a-react-job-tracker-my-journey-as-a-new-developer-2e7d)
+- [From Startup to Scale-Up: Why a Dedicated Linux Server Is a Smart Investment](https://dev.to/sanoja/from-startup-to-scale-up-why-a-dedicated-linux-server-is-a-smart-investment-3h4n)
+- [Document Loading, Parsing, and Cleaning in AI Applications](https://dev.to/timescale/document-loading-parsing-and-cleaning-in-ai-applications-2oh8)
+- [🚀 Unlock GenAI Power: Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/unlock-genai-power-build-your-own-genai-image-generation-website-with-amazon-nova-1i64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
