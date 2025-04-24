@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo elegir el modelo de IA correcto para tu caso de uso? La IA Generativa está transformando industrias y acelerando procesos, pero elegir el modelo correcto es vital. Con Amazon Bedrock ahora podemos evaluar modelos de manera estructurada, midiendo](https://dev.to/dcastrocordero22/como-elegir-el-modelo-de-ia-correcto-para-tu-caso-de-uso-la-ia-generativa-esta-transformando-144j)
-- [How I Made My SaaS &quot;Students Only&quot; Without School IDs Using WHOIS and GPT](https://dev.to/criscmd/how-i-made-my-saas-students-only-without-school-ids-using-whois-and-gpt-1p82)
-- [AWS AI](https://dev.to/somchai_kanjanapatta_a888/aws-ai-2anm)
-- [Awesome new addition to my codepen.](https://dev.to/daniel_haga_e211e3130d639/awesome-new-addition-to-my-codepen-37k7)
-- [How a Data Pipeline Works: From Raw Data to Insight](https://dev.to/izabellalbuquerque/how-a-data-pipeline-works-from-raw-data-to-insight-lff)
+- [How Much Energy Does ChatGPT Use Per Prompt?](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-2o24)
+- [Apa Itu Samsung DeX? Ubah HP Jadi Komputer?](https://dev.to/ryfazrin/apa-itu-samsung-dex-ubah-hp-jadi-komputer-1m9p)
+- [How to Create Your Own Home Lab for Hacking](https://dev.to/pawanjswal/how-to-create-your-own-home-lab-for-hacking-1i7i)
+- [Build a C# PDF Summarizer with OpenAI &lpar;Free Tier&rpar;](https://dev.to/seonglinchua/build-a-c-pdf-summarizer-with-openai-free-tier-4b4n)
+- [Summarize Row Counts by Dynamic Columns into JSON — From SQL to SPL #22](https://dev.to/judith677/summarize-row-counts-by-dynamic-columns-into-json-from-sql-to-spl-22-58hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
