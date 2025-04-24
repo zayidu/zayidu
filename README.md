@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Session Day 9–15: Number Property Programs in Java &lpar;Using `while` Loops&rpar;](https://dev.to/vigneshwaralingam/programming-session-day-9-15-number-property-programs-in-java-using-while-loops-4581)
-- [JS IQ - Level 1 - Part 2 &lpar;Pondit&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/js-iq-level-1-part-2-13k1)
-- [How to build a Task Manager using Django + HTMX](https://dev.to/up_min_sparcs/how-to-build-a-task-manager-using-django-htmx-43f4)
-- [Hi guys, do you guys know what problem is in this command?](https://dev.to/hng_trtrn_67bc14029b/hi-guys-do-you-guys-know-what-problem-is-in-this-command-4pci)
-- [🚀 Beyond Merge Speed: How AI Is Reshaping Developer Collaboration](https://dev.to/pullflow/beyond-merge-speed-how-ai-is-reshaping-developer-collaboration-500p)
+- [Database - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/database-level-1-part-1-3630)
+- [User guide and System Manual of Real Estate Management System](https://dev.to/shinebo/user-guide-and-system-manual-of-real-estate-management-system-3f4b)
+- [System Design vs. Software Design: Stop Arguing, Start Architecting](https://dev.to/tomjohnson3/system-design-vs-software-design-stop-arguing-start-architecting-2o6o)
+- [Women of Search Mentorship Program](https://dev.to/sarahmatta/women-of-search-mentorship-program-929)
+- [Retro Revival: How to Build the Classic Snake Game in JavaScript](https://dev.to/up_min_sparcs/retro-revival-how-to-build-the-classic-snake-game-in-javascript-4em7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
