@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrated AI: New Framework Beats Autonomous Agents by 76%](https://dev.to/aimodels-fyi/orchestrated-ai-new-framework-beats-autonomous-agents-by-76-2mdb)
-- [LLMs vs Web3: New Benchmark Reveals Which AI Gets Blockchain](https://dev.to/aimodels-fyi/llms-vs-web3-new-benchmark-reveals-which-ai-gets-blockchain-jn4)
-- [RL-Driven Video Compression: 75% Faster Video Understanding](https://dev.to/aimodels-fyi/rl-driven-video-compression-75-faster-video-understanding-522c)
-- [Personalized Images: Auto-Regressive Models Rival Diffusion in New Study](https://dev.to/aimodels-fyi/personalized-images-auto-regressive-models-rival-diffusion-in-new-study-bmp)
-- [Model Counting Competition 2021-2023: Solver Tech &amp; Key Findings](https://dev.to/aimodels-fyi/model-counting-competition-2021-2023-solver-tech-key-findings-1g7g)
+- [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
+- [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
+- [Tailwind CSS v4 Crash Course – Build from Scratch!](https://dev.to/redgroup/tailwind-css-v4-crash-course-build-from-scratch-ald)
+- [🧵 “I thought I had done everything right, but still... no calls.”](https://dev.to/tomasagustinduro/i-thought-i-had-done-everything-right-but-still-no-calls-4ahf)
+- [Top 10 Productivity Apps for MacOS 2025](https://dev.to/adrienschmitt/top-10-productivity-apps-for-macos-2025-56j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
