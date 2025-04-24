@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Not a Secure Developer Until You&#39;ve Built These 5 Projects](https://dev.to/shourya_sinha/youre-not-a-secure-developer-until-youve-built-these-5-projects-2g0m)
-- [That’s not an MVP! NO, it’s NOT!!](https://dev.to/h-j/thats-not-an-mvp-no-its-not-5dib)
-- [The Test Drama: Cypress vs Playwright - Control Your Tests &lpar;Part 2&rpar;: TAGS &amp; TEST FILTERS](https://dev.to/sebastianclavijo/the-test-drama-cypress-vs-playwright-control-your-tests-part-2-tags-test-filters-3kh2)
-- [Embracing the Digital Future: Ensuring 21 CFR Part 11 Compliance in Regulated Industries](https://dev.to/aakash_parikh_651254ef060/embracing-the-digital-future-ensuring-21-cfr-part-11-compliance-in-regulated-industries-233i)
-- [Cypress Automation - Verify if your SSL Certificates are Valid](https://dev.to/cypress/cypress-automation-verify-if-your-ssl-certificates-are-valid-2kij)
+- [GITHUB COMMANDS](https://dev.to/gobinath_m_2026/github-commands-4ij9)
+- [All About Spring Thymeleaf You Need to Know in 2025](https://dev.to/abhay_srivastava_22/all-about-spring-thymeleaf-you-need-to-know-in-2025-2omd)
+- [Best SSIS Alternatives in 2025: Exploring Modern ETL Tools for Data Integration](https://dev.to/kulichechka/best-ssis-alternatives-in-2025-exploring-modern-etl-tools-for-data-integration-2cj7)
+- [How a Graphic Designer Can Correct Common Design Mistakes](https://dev.to/riyasharma312/how-a-graphic-designer-can-correct-common-design-mistakes-1eg0)
+- [Will DeepSeek Overtake ChatGPT in the AI Arms Race?](https://dev.to/anilparmar/will-deepseek-overtake-chatgpt-in-the-ai-arms-race-5enl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
