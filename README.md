@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment j&#39;ai révolutionné mon workflow avec Astro.js](https://dev.to/judikal_bellance_03b033f/comment-jai-revolutionne-mon-workflow-avec-astrojs-1lae)
-- [The Smart Way to Handle Invoices: Why AI Automation Is a Game-Changer for AP Teams](https://dev.to/astutemarketing/the-smart-way-to-handle-invoices-why-ai-automation-is-a-game-changer-for-ap-teams-3c97)
-- [Zero-Cost Error Handling in Rust: Combining Safety with Performance](https://dev.to/aaravjoshi/zero-cost-error-handling-in-rust-combining-safety-with-performance-45a2)
-- [Top 20 Must-Know Rockchip RK Commands to Double Your Dev Efficiency](https://dev.to/ronnie_r_152dc2151d9449c6/top-20-must-know-rockchip-rk-commands-to-double-your-dev-efficiency-4nb3)
-- [This Week&#39;s AI News Updates &lpar;Apr 24, 2025&rpar; 🚀](https://dev.to/h_metacode_74e90df0ee5da6/this-weeks-ai-news-updates-apr-24-2025-3jkb)
+- [Scrapeless Scraping Browser - Browser Fingerprint Customization](https://dev.to/datacollectionscraper/scrapeless-scraping-browser-browser-fingerprint-customization-340a)
+- [The subtle art of waiting](https://dev.to/nfrankel/the-subtle-art-of-waiting-1511)
+- [Bored Ape Yacht Club: A New Era of Open Source Funding and Decentralized Innovation](https://dev.to/vitalisorenko/bored-ape-yacht-club-a-new-era-of-open-source-funding-and-decentralized-innovation-pl8)
+- [DNS Configuration in Red Hat Linux: A Beginner’s Guide](https://dev.to/axisinfo_0a61830e06c3c950/dns-configuration-in-red-hat-linux-a-beginners-guide-48bg)
+- [Exploring the Decentralized Governance Model of Blur: A Deep Dive](https://dev.to/rachellovestowrite/exploring-the-decentralized-governance-model-of-blur-a-deep-dive-2bif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
