@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Not Real Learning Until Something Goes Down](https://dev.to/srzainab/its-not-real-learning-until-something-goes-down-4n77)
-- [How I Built a React Job Tracker: My Journey as a New Developer](https://dev.to/shalpha2/how-i-built-a-react-job-tracker-my-journey-as-a-new-developer-2e7d)
-- [From Startup to Scale-Up: Why a Dedicated Linux Server Is a Smart Investment](https://dev.to/sanoja/from-startup-to-scale-up-why-a-dedicated-linux-server-is-a-smart-investment-3h4n)
-- [Document Loading, Parsing, and Cleaning in AI Applications](https://dev.to/timescale/document-loading-parsing-and-cleaning-in-ai-applications-2oh8)
-- [🚀 Unlock GenAI Power: Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/unlock-genai-power-build-your-own-genai-image-generation-website-with-amazon-nova-1i64)
+- [WebRTC for Peer-to-Peer Communication](https://dev.to/omriluz1/webrtc-for-peer-to-peer-communication-4f7k)
+- [Learning Web3 from the Ground Up: A Beginner&#39;s Journey into Blockchain](https://dev.to/devsofmidnight/learning-web3-from-the-ground-up-a-beginners-journey-into-blockchain-58al)
+- [Disable the &quot;No Valid Subscription&quot; Pop-Up in Proxmox VE 8.4.1](https://dev.to/alexis-nieto/disable-the-no-valid-subscription-pop-up-in-proxmox-ve-841-5fao)
+- [Creating an API Gateway with AWS SAM and Node.js](https://dev.to/marciojc/creating-an-api-gateway-with-aws-sam-and-nodejs-40kc)
+- [Why the Python Standard Library Needs a run_sync&lpar;&rpar;](https://dev.to/ashleyconnor/why-the-python-standard-library-needs-a-runsync-g3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
