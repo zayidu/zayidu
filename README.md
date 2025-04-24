@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Git Commands for First-Time Repo Setup&lpar;with GitHub&rpar;](https://dev.to/sakthivel_r_a51694ab1d9a4/step-by-step-git-commands-for-first-time-repo-setupwith-github-2lma)
-- [From Zero to Web3 🚀 | My Founder Story &lpar;OmniRadhaNexus&rpar;](https://dev.to/omniradhanexus/from-zero-to-web3-my-founder-story-omniradhanexus-2j16)
-- [Procedures for creating a sample resume and pushing it to GitHub Pages.](https://dev.to/nelson_akpa01/procedures-for-creating-a-sample-resume-and-pushing-it-to-github-pages-4nfi)
-- [From Clone to Push: 11 Git Commands Explained](https://dev.to/selya_dharsneemuthusamy_/from-clone-to-push-11-git-commands-explained-319h)
-- [Juice no Design de Software Moderno](https://dev.to/juanengml/juice-no-design-de-software-moderno-1ph0)
+- [You&#39;re Not a Secure Developer Until You&#39;ve Built These 5 Projects](https://dev.to/shourya_sinha/youre-not-a-secure-developer-until-youve-built-these-5-projects-2g0m)
+- [That’s not an MVP! NO, it’s NOT!!](https://dev.to/h-j/thats-not-an-mvp-no-its-not-5dib)
+- [The Test Drama: Cypress vs Playwright - Control Your Tests &lpar;Part 2&rpar;: TAGS &amp; TEST FILTERS](https://dev.to/sebastianclavijo/the-test-drama-cypress-vs-playwright-control-your-tests-part-2-tags-test-filters-3kh2)
+- [Embracing the Digital Future: Ensuring 21 CFR Part 11 Compliance in Regulated Industries](https://dev.to/aakash_parikh_651254ef060/embracing-the-digital-future-ensuring-21-cfr-part-11-compliance-in-regulated-industries-233i)
+- [Cypress Automation - Verify if your SSL Certificates are Valid](https://dev.to/cypress/cypress-automation-verify-if-your-ssl-certificates-are-valid-2kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
