@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GITHUB COMMANDS](https://dev.to/gobinath_m_2026/github-commands-4ij9)
-- [All About Spring Thymeleaf You Need to Know in 2025](https://dev.to/abhay_srivastava_22/all-about-spring-thymeleaf-you-need-to-know-in-2025-2omd)
-- [Best SSIS Alternatives in 2025: Exploring Modern ETL Tools for Data Integration](https://dev.to/kulichechka/best-ssis-alternatives-in-2025-exploring-modern-etl-tools-for-data-integration-2cj7)
-- [How a Graphic Designer Can Correct Common Design Mistakes](https://dev.to/riyasharma312/how-a-graphic-designer-can-correct-common-design-mistakes-1eg0)
-- [Will DeepSeek Overtake ChatGPT in the AI Arms Race?](https://dev.to/anilparmar/will-deepseek-overtake-chatgpt-in-the-ai-arms-race-5enl)
+- [Comment j&#39;ai révolutionné mon workflow avec Astro.js](https://dev.to/judikal_bellance_03b033f/comment-jai-revolutionne-mon-workflow-avec-astrojs-1lae)
+- [The Smart Way to Handle Invoices: Why AI Automation Is a Game-Changer for AP Teams](https://dev.to/astutemarketing/the-smart-way-to-handle-invoices-why-ai-automation-is-a-game-changer-for-ap-teams-3c97)
+- [Zero-Cost Error Handling in Rust: Combining Safety with Performance](https://dev.to/aaravjoshi/zero-cost-error-handling-in-rust-combining-safety-with-performance-45a2)
+- [Top 20 Must-Know Rockchip RK Commands to Double Your Dev Efficiency](https://dev.to/ronnie_r_152dc2151d9449c6/top-20-must-know-rockchip-rk-commands-to-double-your-dev-efficiency-4nb3)
+- [This Week&#39;s AI News Updates &lpar;Apr 24, 2025&rpar; 🚀](https://dev.to/h_metacode_74e90df0ee5da6/this-weeks-ai-news-updates-apr-24-2025-3jkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
