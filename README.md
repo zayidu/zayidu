@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [whoami: &gt; 0xW3ston](https://dev.to/techlabma/whoami-0xw3ston-5abf)
-- [What is host=&quot;0.0.0.0&quot;?](https://dev.to/engrmark/what-is-host0000-goa)
-- [[Boost]](https://dev.to/jtravisp/-1ell)
-- [Site do meu casamento &lpar;Alguém me ajuda?&rpar;](https://dev.to/ryangwalchmei/site-do-meu-casamento-alguem-me-ajuda-55gk)
-- [Essential Guide to Recognizing Emergency Alarm Circuit Performance and Layout](https://dev.to/studyvise8/essential-guide-to-recognizing-emergency-alarm-circuit-performance-and-layout-42bh)
+- [Orchestrated AI: New Framework Beats Autonomous Agents by 76%](https://dev.to/aimodels-fyi/orchestrated-ai-new-framework-beats-autonomous-agents-by-76-2mdb)
+- [LLMs vs Web3: New Benchmark Reveals Which AI Gets Blockchain](https://dev.to/aimodels-fyi/llms-vs-web3-new-benchmark-reveals-which-ai-gets-blockchain-jn4)
+- [RL-Driven Video Compression: 75% Faster Video Understanding](https://dev.to/aimodels-fyi/rl-driven-video-compression-75-faster-video-understanding-522c)
+- [Personalized Images: Auto-Regressive Models Rival Diffusion in New Study](https://dev.to/aimodels-fyi/personalized-images-auto-regressive-models-rival-diffusion-in-new-study-bmp)
+- [Model Counting Competition 2021-2023: Solver Tech &amp; Key Findings](https://dev.to/aimodels-fyi/model-counting-competition-2021-2023-solver-tech-key-findings-1g7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
