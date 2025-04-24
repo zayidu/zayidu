@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways ERP Software is Revolutionizing the American Manufacturing Industry in 2025](https://dev.to/bhavesh_gangani_/5-ways-erp-software-is-revolutionizing-the-american-manufacturing-industry-in-2025-1jc7)
-- [Top CRM Software in Rajkot: The Secret to Accelerating Business Growth](https://dev.to/bhavesh_gangani_/top-crm-software-in-rajkot-the-secret-to-accelerating-business-growth-oo0)
-- [DevLog #01 — Aloy: Introdução ao projeto Aloy](https://dev.to/luismarchio03/devlog-01-aloy-introducao-ao-projeto-aloy-5406)
-- [В JavaScript представлено масштабное обновление: ECMAScript 2025 официально выпущен](https://dev.to/alex__dobner_5a69f8/v-javascript-priedstavlieno-masshtabnoie-obnovlieniie-ecmascript-2025-ofitsialno-vypushchien-1e36)
-- [DEVELOPING ML MODEL](https://dev.to/jeyamirthula_pon24mcr046/developing-ml-model-26k)
+- [🚀 Your Daily Crypto Job Digest For 24 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-april-hen)
+- [Self-Hosting Node.js/Express Web App Behind CGNAT &lpar;No Port Forwarding&rpar; via Dynamic DNS &amp; Tunneling](https://dev.to/up_min_sparcs/self-hosting-nodejsexpress-web-app-behind-cgnat-no-port-forwarding-via-dynamic-dns-tunneling-3mod)
+- [Power Apps Custom Page Dialogs in Model-Driven Apps: Passing &amp; Receiving Data](https://dev.to/meecool/power-apps-custom-page-dialogs-in-model-driven-apps-passing-receiving-data-4cpe)
+- [App Dev Course vs Self-Learning: The Ultimate Showdown!](https://dev.to/krishanvijay/app-dev-course-vs-self-learning-the-ultimate-showdown-48df)
+- [From Strategy to Stability: A QA Engineer’s Take on Trading Cycle](https://dev.to/philip_crypto92/from-strategy-to-stability-a-qa-engineers-take-on-trading-cycle-53je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
