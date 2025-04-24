@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Still struggling to stay productive despite downloading multiple productivity tools? What you need is an app that offers all your productivity tools in one. Brite is your all-in-one productivity companion, check out this guide to using the Brite App.](https://dev.to/ollie20/still-struggling-to-stay-productive-even-after-downloading-multiple-productivity-tools-what-you-212n)
-- [Special Permissions in Linux &lpar;SUID, SGID &amp; Sticky Bit&rpar;](https://dev.to/chielo_chiamaka/special-permissions-in-linux-suid-sgid-sticky-bit-3nel)
-- [📧 How Does Gmail &lpar;and Email in General&rpar; Really Work?](https://dev.to/pandeyaditya0002/how-does-gmail-and-email-in-general-really-work-1d8h)
-- [How I became a Systems Analyst without knowing anything about system analysis.](https://dev.to/ruslan_zholseitov_66196f9/how-i-became-a-systems-analyst-without-knowing-anything-about-system-analysis-3dl9)
-- [The &quot;tee&quot; Command in Linux: The Hidden Gem Every Tech Professional Should Know](https://dev.to/axisinfo_0a61830e06c3c950/the-tee-command-in-linux-the-hidden-gem-every-tech-professional-should-know-3mie)
+- [5 Ways ERP Software is Revolutionizing the American Manufacturing Industry in 2025](https://dev.to/bhavesh_gangani_/5-ways-erp-software-is-revolutionizing-the-american-manufacturing-industry-in-2025-1jc7)
+- [Top CRM Software in Rajkot: The Secret to Accelerating Business Growth](https://dev.to/bhavesh_gangani_/top-crm-software-in-rajkot-the-secret-to-accelerating-business-growth-oo0)
+- [DevLog #01 — Aloy: Introdução ao projeto Aloy](https://dev.to/luismarchio03/devlog-01-aloy-introducao-ao-projeto-aloy-5406)
+- [В JavaScript представлено масштабное обновление: ECMAScript 2025 официально выпущен](https://dev.to/alex__dobner_5a69f8/v-javascript-priedstavlieno-masshtabnoie-obnovlieniie-ecmascript-2025-ofitsialno-vypushchien-1e36)
+- [DEVELOPING ML MODEL](https://dev.to/jeyamirthula_pon24mcr046/developing-ml-model-26k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
