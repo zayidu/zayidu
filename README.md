@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Energy Does ChatGPT Use Per Prompt?](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-2o24)
-- [Apa Itu Samsung DeX? Ubah HP Jadi Komputer?](https://dev.to/ryfazrin/apa-itu-samsung-dex-ubah-hp-jadi-komputer-1m9p)
-- [How to Create Your Own Home Lab for Hacking](https://dev.to/pawanjswal/how-to-create-your-own-home-lab-for-hacking-1i7i)
-- [Build a C# PDF Summarizer with OpenAI &lpar;Free Tier&rpar;](https://dev.to/seonglinchua/build-a-c-pdf-summarizer-with-openai-free-tier-4b4n)
-- [Summarize Row Counts by Dynamic Columns into JSON — From SQL to SPL #22](https://dev.to/judith677/summarize-row-counts-by-dynamic-columns-into-json-from-sql-to-spl-22-58hj)
+- [Tired of Excel for managing your personal finances? Discover Monifi, the smart alternative.](https://dev.to/manuemorales/tired-of-excel-for-managing-your-personal-finances-discover-monifi-the-smart-alternative-1bi4)
+- [From Idlis to AI: The FACT of AI Model Management through Rameshwaram Cafe&#39;s Lens](https://dev.to/ajeetraina/from-idlis-to-ai-the-fact-of-ai-model-management-through-rameshwaram-cafes-lens-3lal)
+- [this in JS: Scope, Context, and Behavior](https://dev.to/lovestaco/this-in-js-scope-context-and-behavior-i09)
+- [Get the Middle Character](https://dev.to/maddiepst/get-the-middle-character-37ib)
+- [Why Isn&#39;t Your CSS Working? Common Pitfalls and Best Practices](https://dev.to/umarsiddique010/why-isnt-your-css-working-common-pitfalls-and-best-practices-1n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
