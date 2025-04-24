@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/database-level-1-part-1-3630)
-- [User guide and System Manual of Real Estate Management System](https://dev.to/shinebo/user-guide-and-system-manual-of-real-estate-management-system-3f4b)
-- [System Design vs. Software Design: Stop Arguing, Start Architecting](https://dev.to/tomjohnson3/system-design-vs-software-design-stop-arguing-start-architecting-2o6o)
-- [Women of Search Mentorship Program](https://dev.to/sarahmatta/women-of-search-mentorship-program-929)
-- [Retro Revival: How to Build the Classic Snake Game in JavaScript](https://dev.to/up_min_sparcs/retro-revival-how-to-build-the-classic-snake-game-in-javascript-4em7)
+- [Automating Frappe &amp; ERPNext Setup with a Single Script &lpar;Linux + macOS&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/automating-frappe-erpnext-setup-with-a-single-script-linux-macos-2onl)
+- [ML_DAY2_WORKSHOP](https://dev.to/preteka/mlday2workshop-1f1g)
+- [Package Management in Red Hat Linux with `dnf` and `yum`](https://dev.to/shamain_anjum/package-management-in-red-hat-linux-with-dnf-and-yum-523m)
+- [Check my new post where i discuss a content-aware image moderation using Kafka , ClarifAI and Spring boot Microservices](https://dev.to/yassine_ramzi_2b843dc54b9/check-my-new-post-where-i-discuss-a-content-aware-image-moderation-using-kafka-clarifai-and-3935)
+- [Love how this doesn’t rely on drama or clichés. It’s modern, clean, and deeply human — a great visual for the topic. #AshkanRajaee #SmartSelling #DealFlow #SalesProcess #BusinessEnergy](https://dev.to/reynaldo_dayola_e5b762264/love-how-this-doesnt-rely-on-drama-or-cliches-its-modern-clean-and-deeply-human-a-great-2epj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
