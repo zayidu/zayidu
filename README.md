@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 24 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-april-hen)
-- [Self-Hosting Node.js/Express Web App Behind CGNAT &lpar;No Port Forwarding&rpar; via Dynamic DNS &amp; Tunneling](https://dev.to/up_min_sparcs/self-hosting-nodejsexpress-web-app-behind-cgnat-no-port-forwarding-via-dynamic-dns-tunneling-3mod)
-- [Power Apps Custom Page Dialogs in Model-Driven Apps: Passing &amp; Receiving Data](https://dev.to/meecool/power-apps-custom-page-dialogs-in-model-driven-apps-passing-receiving-data-4cpe)
-- [App Dev Course vs Self-Learning: The Ultimate Showdown!](https://dev.to/krishanvijay/app-dev-course-vs-self-learning-the-ultimate-showdown-48df)
-- [From Strategy to Stability: A QA Engineer’s Take on Trading Cycle](https://dev.to/philip_crypto92/from-strategy-to-stability-a-qa-engineers-take-on-trading-cycle-53je)
+- [Day 12 Java Learning :](https://dev.to/vigneshwaralingam/day-12-java-learning--4d7j)
+- [How to Get Started with the Suno Music API with CometAPI?](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-started-with-the-suno-music-api-with-cometapi-k5h)
+- [Docker ve Kubernetes Çağında Containerization&#39;ın Geleceği: Modern Yazılım Geliştirmede Yeni Trendler](https://dev.to/yunus_emremert_1756b71d3/docker-ve-kubernetes-caginda-containerizationin-gelecegi-modern-yazilim-gelistirmede-yeni-trendler-43ef)
+- [LLM Agent Architecture for Scalable Company Summaries](https://dev.to/bobysf12/llm-agent-architecture-for-scalable-company-summaries-31m2)
+- [As an SEO beginner, how can I generate traffic for the website I&#39;ve created?](https://dev.to/yang_jerry_63234ef95c90d8/as-an-seo-beginner-how-can-i-generate-traffic-for-the-website-ive-created-45bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
