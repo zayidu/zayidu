@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Excel for managing your personal finances? Discover Monifi, the smart alternative.](https://dev.to/manuemorales/tired-of-excel-for-managing-your-personal-finances-discover-monifi-the-smart-alternative-1bi4)
-- [From Idlis to AI: The FACT of AI Model Management through Rameshwaram Cafe&#39;s Lens](https://dev.to/ajeetraina/from-idlis-to-ai-the-fact-of-ai-model-management-through-rameshwaram-cafes-lens-3lal)
-- [this in JS: Scope, Context, and Behavior](https://dev.to/lovestaco/this-in-js-scope-context-and-behavior-i09)
-- [Get the Middle Character](https://dev.to/maddiepst/get-the-middle-character-37ib)
-- [Why Isn&#39;t Your CSS Working? Common Pitfalls and Best Practices](https://dev.to/umarsiddique010/why-isnt-your-css-working-common-pitfalls-and-best-practices-1n06)
+- [Step-by-Step Git Commands for First-Time Repo Setup&lpar;with GitHub&rpar;](https://dev.to/sakthivel_r_a51694ab1d9a4/step-by-step-git-commands-for-first-time-repo-setupwith-github-2lma)
+- [From Zero to Web3 🚀 | My Founder Story &lpar;OmniRadhaNexus&rpar;](https://dev.to/omniradhanexus/from-zero-to-web3-my-founder-story-omniradhanexus-2j16)
+- [Procedures for creating a sample resume and pushing it to GitHub Pages.](https://dev.to/nelson_akpa01/procedures-for-creating-a-sample-resume-and-pushing-it-to-github-pages-4nfi)
+- [From Clone to Push: 11 Git Commands Explained](https://dev.to/selya_dharsneemuthusamy_/from-clone-to-push-11-git-commands-explained-319h)
+- [Juice no Design de Software Moderno](https://dev.to/juanengml/juice-no-design-de-software-moderno-1ph0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
