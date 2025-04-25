@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing the Future: Arbitrum’s Role in Institutional Blockchain Adoption](https://dev.to/kallileiser/embracing-the-future-arbitrums-role-in-institutional-blockchain-adoption-5735)
-- [Part 1: The Memento Problem with AI Memory](https://dev.to/trustgraph/part-1-the-memento-problem-with-ai-memory-4ge7)
-- [Become a Full Stack Developer in 2025 – Faster, Smarter, and Better!](https://dev.to/code_2/become-a-full-stack-developer-in-2025-faster-smarter-and-better-3pg6)
-- [From Source to Blockchain: How Smart Contracts Go Live with Remix and MetaMask](https://dev.to/rwu_security_researcher/from-source-to-blockchain-how-smart-contracts-go-live-with-remix-and-metamask-25h8)
-- [The Convergence of IV Therapy and Artificial Intelligence: Revolutionizing Patient Care](https://dev.to/josef_doctorovitz_ww/the-convergence-of-iv-therapy-and-artificial-intelligence-revolutionizing-patient-care-2md9)
+- [🧵 Why Rust Needs `FdWrapper`: Understanding File Descriptors and RAII at the System Level](https://dev.to/_56d7718cea8fe00ec1610/why-rust-needs-fdwrapper-understanding-file-descriptors-and-raii-at-the-system-level-3oom)
+- [Pourquoi la Nissan CUE-X de 1985 reste une pépite tech en 2025 🚗💾](https://dev.to/mission_ile_de_la_cite/pourquoi-la-nissan-cue-x-de-1985-reste-une-pepite-tech-en-2025-4pla)
+- [Navigating the Future of Decentralized Decision-Making: Arbitrum and On-Chain Governance](https://dev.to/bobcars/navigating-the-future-of-decentralized-decision-making-arbitrum-and-on-chain-governance-4b6g)
+- [👉 Gathering Magic: How .reduce&lpar;&rpar; is JavaScript Alchemy](https://dev.to/middledev/gathering-magic-how-reduce-is-javascript-alchemy-48gf)
+- [How to Build a Mobile App for Apartment Cleaning with React Native](https://dev.to/giovany_osorio_707759bc6b/how-to-build-a-mobile-app-for-apartment-cleaning-with-react-native-5b02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
