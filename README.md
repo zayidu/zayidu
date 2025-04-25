@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs Golang: Which One Should You Choose](https://dev.to/brilworks/nodejs-vs-golang-which-one-should-you-choose-469l)
-- [Mobile banking app development: what developers need to know](https://dev.to/ava_anna_343ca43641d8ea67/mobile-banking-app-development-what-developers-need-to-know-3e90)
-- [🐧 Linux Basics – Part 4: Creating, Moving, and Deleting Files and Folders](https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip)
-- [🐧 Linux Basics – Part 3: Navigating the Filesystem Like a Pro](https://dev.to/alkesh009/linux-basics-part-3-navigating-the-filesystem-like-a-pro-5d2p)
-- [How to Write Effective Test Cases for Web Applications](https://dev.to/dct_technology/how-to-write-effective-test-cases-for-web-applications-1j02)
+- [Releated bro..](https://dev.to/ricorizz/releated-bro-1n8)
+- [🚀 Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/build-your-own-genai-image-generation-website-with-amazon-nova-548d)
+- [Políticas de ciclo de vida en AWS S3 para la optimización de costos](https://dev.to/barbara_gaspar/politicas-de-ciclo-de-vida-en-aws-s3-para-la-optimizacion-de-costos-4fle)
+- [AI Agents](https://dev.to/vijayr00/ai-agents-4l7)
+- [Building Insta-like App Using Django](https://dev.to/marsilas_w_4b9c24542f1366/building-insta-like-app-using-django-k9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
