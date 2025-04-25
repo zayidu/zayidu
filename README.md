@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 retrieval augmented generation &lpar;RAG&rpar; techniques you should know](https://dev.to/logrocket/6-retrieval-augmented-generation-rag-techniques-you-should-know-4a5l)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-7b8)
-- [Advanced git comments](https://dev.to/janisha_flavy_43180fae7e6/advanced-git-comments-c7j)
-- [How to Enable Variable Refresh Rate on Windows 11?](https://dev.to/winsides/how-to-enable-variable-refresh-rate-on-windows-11-4cma)
-- [Angular 19: Reactividad Simple](https://dev.to/miguelbc7/angular-19-reactividad-simple-27ga)
+- [How to Write the Perfect Pull Request &lpar;based on thousands of PRs analyzed&rpar;](https://dev.to/sergioblar/how-to-write-the-perfect-pull-request-based-on-thousands-of-prs-analyzed-1gdf)
+- [AI Code Reviews vs. Traditional Code Reviews](https://dev.to/kodus/ai-code-reviews-vs-traditional-code-reviews-4b1i)
+- [194/365 | ¥10M Job Challenge - An Ordinary Day](https://dev.to/kameken100/194365-y10m-job-challenge-an-ordinary-day-2b02)
+- [How to Translate Entire Excel Files &lpar;All Cells&rpar;](https://dev.to/colinreed/how-to-translate-entire-excel-files-all-cells-4g18)
+- [Understanding Contact Types in Sales: The Strategic Insight That’s Changing How B2B Deals Are Closed](https://dev.to/marcusquinn05/understanding-contact-types-in-sales-the-strategic-insight-thats-changing-how-b2b-deals-are-closed-2062)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
