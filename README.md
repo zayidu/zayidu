@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover Alpha Motoz: A New Era in Arbitrum&#39;s NFT Marketplace](https://dev.to/jennythomas498/discover-alpha-motoz-a-new-era-in-arbitrums-nft-marketplace-338a)
-- [AWS vs Azure vs Google Cloud: Which Cloud Platform is Best for 2025?](https://dev.to/vengatesan_rajendiran_ece/aws-vs-azure-vs-google-cloud-which-cloud-platform-is-best-for-2025-3fff)
-- [How to Create a VTuber Studio with Three.js, React &amp; VRM](https://dev.to/wawasensei/how-to-create-a-vtuber-studio-with-threejs-react-vrm-2f6f)
-- [How Edge Computing is Transforming Web Development](https://dev.to/vengatesan_rajendiran_ece/how-edge-computing-is-transforming-web-development-11f)
-- [Top Blockchain Platforms for Meme Coin Development](https://dev.to/abijohn/top-blockchain-platforms-for-meme-coin-development-c9)
+- [The 5 Kinds Of Tech People Who Will Survive AI](https://dev.to/clark_teeple/the-5-kinds-of-tech-people-who-will-survive-ai-6ln)
+- [Daily Dose 25 April 2025](https://dev.to/td_inc/daily-dose-25-april-2025-b8a)
+- [What is AIOps?](https://dev.to/ta2ozg/what-is-aiops-h66)
+- [🧠 8 Data Structures That Make Your Database Perform Like Magic](https://dev.to/pandeyaditya0002/8-data-structures-that-make-your-database-perform-like-magic-8f)
+- [How To Run Better Async Meetings](https://dev.to/rally_for_jira/how-to-run-better-async-meetings-1n83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
