@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Run Your CI Locally, You’ve Already Failed](https://dev.to/francescobianco/if-you-run-your-ci-locally-youve-already-failed-28fn)
-- [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
-- [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
-- [Tailwind CSS v4 Crash Course – Build from Scratch!](https://dev.to/redgroup/tailwind-css-v4-crash-course-build-from-scratch-ald)
-- [🧵 “I thought I had done everything right, but still... no calls.”](https://dev.to/tomasagustinduro/i-thought-i-had-done-everything-right-but-still-no-calls-4ahf)
+- [✨ Day 5: Advanced Animation Techniques](https://dev.to/anticoder03/day-5-advanced-animation-techniques-20k0)
+- [Using postgres_fdw](https://dev.to/hujan/using-postgresfdw-29n9)
+- [Should You Start a Startup with Your Friend?](https://dev.to/dilanblog/should-you-start-a-startup-with-your-friend-526l)
+- [Lebih Efisien! Ini Manfaat Smart Office](https://dev.to/kontraktorrenovasiku/lebih-efisien-ini-manfaat-smart-office-4gfh)
+- [Day 146/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-146365-learning-full-stack-10ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
