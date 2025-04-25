@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [If You Run Your CI Locally, You’ve Already Failed](https://dev.to/francescobianco/if-you-run-your-ci-locally-youve-already-failed-28fn)
 - [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
 - [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
 - [Tailwind CSS v4 Crash Course – Build from Scratch!](https://dev.to/redgroup/tailwind-css-v4-crash-course-build-from-scratch-ald)
 - [🧵 “I thought I had done everything right, but still... no calls.”](https://dev.to/tomasagustinduro/i-thought-i-had-done-everything-right-but-still-no-calls-4ahf)
-- [Top 10 Productivity Apps for MacOS 2025](https://dev.to/adrienschmitt/top-10-productivity-apps-for-macos-2025-56j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
