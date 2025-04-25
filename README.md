@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Started with AWS Generative AI in Just 5 Steps](https://dev.to/mathu_seelan_a19e13f9b7fb/how-to-get-started-with-aws-generative-ai-in-just-5-steps-2n4a)
-- [Read this and your Web Design and Development Skills will take off](https://dev.to/web_dev-usman/read-this-and-your-web-design-and-development-skills-will-take-off-4hd6)
-- [Exploring Love &amp; Fame: Emily Compagno&#39;s Marital Journey &amp; Ed Sheeran&#39;s Romantic Melodies](https://dev.to/vaultmagazine/exploring-love-fame-emily-compagnos-marital-journey-ed-sheerans-romantic-melodies-52a3)
-- [Understanding React Server Components &lpar;RSC&rpar;](https://dev.to/vishw-patel/understanding-react-server-components-rsc-3nlo)
-- [Ruby - use Redis-lock to avoid duplicate jobs](https://dev.to/hungle00/ruby-use-redis-lock-to-avoid-duplicate-jobs-51e)
+- [From Hello World to Hello Customers: Why Programs Aren’t Products](https://dev.to/this-is-learning/from-hello-world-to-hello-customers-why-programs-arent-products-imp)
+- [Indeed.com Job Listings Scraping | Portfolio](https://dev.to/portfolio/indeedcom-job-listings-scraping-portfolio-5111)
+- [From Idea to Launch: Building High-Performance E-commerce Apps with Flutter](https://dev.to/ameliaswank/from-idea-to-launch-building-high-performance-e-commerce-apps-with-flutter-2hch)
+- [Backend Developers, Automate Frontend Development. Much better than Vibe Coding.](https://dev.to/samchon/backend-developers-automate-frontend-development-much-better-than-vibe-coding-53ag)
+- [Customizing Material UI Themes Without Losing Accessibility](https://dev.to/suniljoshi19/customizing-material-ui-themes-without-losing-accessibility-2g8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
