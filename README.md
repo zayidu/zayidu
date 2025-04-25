@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ali Roboshoot: A Phaser 3 Arcade Shooter Powered by Alibaba Cloud](https://dev.to/async_dime/ali-roboshoot-a-phaser-3-arcade-shooter-powered-by-alibaba-cloud-30c)
-- [Text-to-SQL: A Developer’s Zero-to-Hero Guide](https://dev.to/timescale/text-to-sql-a-developers-zero-to-hero-guide-48gi)
-- [Random Forest Algorithm: Powering Smarter Predictions with Supervised Learning](https://dev.to/poojzz_/random-forest-algorithm-powering-smarter-predictions-with-supervised-learning-2ibf)
-- [ToPILImage in PyTorch](https://dev.to/hyperkai/topilimage-in-pytorch-506c)
-- [DevOps as a Service: Ultimate Guide](https://dev.to/priyanka_priyanka_ba12a34/devops-as-a-service-ultimate-guide-2dpm)
+- [Secretless CI/CD with GitHub Actions OIDC](https://dev.to/suryateja_avirneni_95455/secretless-cicd-with-github-actions-oidc-1np2)
+- [SASS / SCSS in a Nutshell](https://dev.to/otamm/sass-scss-in-a-nutshell-3b1g)
+- [GITHUB COMMANDS!](https://dev.to/jegadeep_pandiarajan_253d/github-commands-4ci4)
+- [Git Good: A Beginner’s Journey Into Advanced Git &lpar;With Real Examples&rpar;](https://dev.to/bhuvaneshwari_g_9ff3f2d08/git-good-a-beginners-journey-into-advanced-git-with-real-examples-2640)
+- [What are DevOps Tools | Must-Know Tools for Faster &amp; Smarter Software Development! | A Complete Guide to Learn DevOps Tools](https://dev.to/utcli-solutions/what-are-devops-tools-must-know-tools-for-faster-smarter-software-development-a-complete-27h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
