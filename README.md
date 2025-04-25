@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best ERP Software of 2025 for Every Business Size and Industry.](https://dev.to/bhavesh_gangani_/15-best-erp-software-of-2025-for-every-business-size-and-industry-4fee)
-- [El papel del personal de procesos de negocio en el impulso del crecimiento organizacional](https://dev.to/linnoit/el-papel-del-personal-de-procesos-de-negocio-en-el-impulso-del-crecimiento-organizacional-4n61)
-- [Was ist ein Headless CMS? Und warum Sanity.io mein neuer bester Freund ist 🚀](https://dev.to/ivo_sa/was-ist-ein-headless-cms-und-warum-sanityio-mein-neuer-bester-freund-ist-1l8m)
-- [Top Use Cases of AWS in Modern Application Development](https://dev.to/piya__c204c9e90/top-use-cases-of-aws-in-modern-application-development-1okn)
-- [Engineering Success: What Developers Can Learn from Scaling Systems &lpar;and Themselves&rpar;](https://dev.to/philip_crypto92/engineering-success-what-developers-can-learn-from-scaling-systems-and-themselves-2bjm)
+- [Discover Alpha Motoz: A New Era in Arbitrum&#39;s NFT Marketplace](https://dev.to/jennythomas498/discover-alpha-motoz-a-new-era-in-arbitrums-nft-marketplace-338a)
+- [AWS vs Azure vs Google Cloud: Which Cloud Platform is Best for 2025?](https://dev.to/vengatesan_rajendiran_ece/aws-vs-azure-vs-google-cloud-which-cloud-platform-is-best-for-2025-3fff)
+- [How to Create a VTuber Studio with Three.js, React &amp; VRM](https://dev.to/wawasensei/how-to-create-a-vtuber-studio-with-threejs-react-vrm-2f6f)
+- [How Edge Computing is Transforming Web Development](https://dev.to/vengatesan_rajendiran_ece/how-edge-computing-is-transforming-web-development-11f)
+- [Top Blockchain Platforms for Meme Coin Development](https://dev.to/abijohn/top-blockchain-platforms-for-meme-coin-development-c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
