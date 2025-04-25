@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secretless CI/CD with GitHub Actions OIDC](https://dev.to/suryateja_avirneni_95455/secretless-cicd-with-github-actions-oidc-1np2)
-- [SASS / SCSS in a Nutshell](https://dev.to/otamm/sass-scss-in-a-nutshell-3b1g)
-- [GITHUB COMMANDS!](https://dev.to/jegadeep_pandiarajan_253d/github-commands-4ci4)
-- [Git Good: A Beginner’s Journey Into Advanced Git &lpar;With Real Examples&rpar;](https://dev.to/bhuvaneshwari_g_9ff3f2d08/git-good-a-beginners-journey-into-advanced-git-with-real-examples-2640)
-- [What are DevOps Tools | Must-Know Tools for Faster &amp; Smarter Software Development! | A Complete Guide to Learn DevOps Tools](https://dev.to/utcli-solutions/what-are-devops-tools-must-know-tools-for-faster-smarter-software-development-a-complete-27h1)
+- [Troubleshooting tempdb Growth: Identifying Idle Sessions Holding Temporary Resources in SQL Server](https://dev.to/arvind_toorpu/troubleshooting-tempdb-growth-identifying-idle-sessions-holding-temporary-resources-in-sql-server-3j2g)
+- [🧠 Dockerize and Share Your ML Model: Logistic Regression with Iris Dataset](https://dev.to/viratpk18/dockerize-and-share-your-ml-model-logistic-regression-with-iris-dataset-3n64)
+- [Understanding Softmax and Cross-Entropy in Neural Networks](https://dev.to/sabha_naaz_b5fb8be540fc0f/understanding-softmax-and-cross-entropy-in-neural-networks-daa)
+- [ml day 2](https://dev.to/balakumaravel_ks24mcr00/ml-day-2-5eep)
+- [Java Coding Best Practices for High-Performance Applications](https://dev.to/omal_jayamanne_/java-coding-best-practices-for-high-performance-applications-3aea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
