@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing a Python Machine Learning Model](https://dev.to/bhuvaneshwari_g_9ff3f2d08/dockerizing-a-python-machine-learning-model-12j)
-- [Everyone Feels Like a Fraud. The Good Ones Just Admit It.](https://dev.to/duplessisvanaswegen/everyone-feels-like-a-fraud-the-good-ones-just-admit-it-42em)
-- [Advanced Git Commands](https://dev.to/sujitha_de18764cdb03a6652/advanced-git-commands-578b)
-- [Git Advanced Commands](https://dev.to/nafila_nasrink_c47bf43d7/git-advanced-commands-4846)
-- [Remote access with RustDesk](https://dev.to/kubenetic/remote-access-with-rustdesk-km4)
+- [6 retrieval augmented generation &lpar;RAG&rpar; techniques you should know](https://dev.to/logrocket/6-retrieval-augmented-generation-rag-techniques-you-should-know-4a5l)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-7b8)
+- [Advanced git comments](https://dev.to/janisha_flavy_43180fae7e6/advanced-git-comments-c7j)
+- [How to Enable Variable Refresh Rate on Windows 11?](https://dev.to/winsides/how-to-enable-variable-refresh-rate-on-windows-11-4cma)
+- [Angular 19: Reactividad Simple](https://dev.to/miguelbc7/angular-19-reactividad-simple-27ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
