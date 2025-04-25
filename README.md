@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Game Programmer Learns Blender](https://dev.to/justinhhorner/a-game-programmer-learns-blender-2m7f)
-- [CSS is Emotional: A Conversation with Eric Meyer](https://dev.to/eioluseyi/css-is-emotional-a-conversation-with-eric-meyer-507o)
-- [How to exit TELNET connection on Linux Terminal](https://dev.to/eliasanjr/how-to-exit-telnet-connection-on-linux-terminal-4ll)
-- [50 Shades of Java Executors: A deep dive into the Java multi-threading world](https://dev.to/nicolasduminil/50-shades-of-java-executors-a-deep-dive-into-the-java-multi-threading-world-48j7)
-- [Rollout complete - bucket.co](https://dev.to/fmerian/rollout-complete-bucketco-10ah)
+- [Ali Roboshoot: A Phaser 3 Arcade Shooter Powered by Alibaba Cloud](https://dev.to/async_dime/ali-roboshoot-a-phaser-3-arcade-shooter-powered-by-alibaba-cloud-30c)
+- [Text-to-SQL: A Developer’s Zero-to-Hero Guide](https://dev.to/timescale/text-to-sql-a-developers-zero-to-hero-guide-48gi)
+- [Random Forest Algorithm: Powering Smarter Predictions with Supervised Learning](https://dev.to/poojzz_/random-forest-algorithm-powering-smarter-predictions-with-supervised-learning-2ibf)
+- [ToPILImage in PyTorch](https://dev.to/hyperkai/topilimage-in-pytorch-506c)
+- [DevOps as a Service: Ultimate Guide](https://dev.to/priyanka_priyanka_ba12a34/devops-as-a-service-ultimate-guide-2dpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
