@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Python Programming - From Basics to Advanced](https://dev.to/vishal_more_02990955c9358/learn-python-programming-from-basics-to-advanced-59eh)
-- [The 7 Dumbest Ways Small Businesses Get Hacked &lpar;And How to Avoid Them&rpar;](https://dev.to/abdelaziz_moustakim_45a4c/the-7-dumbest-ways-small-businesses-get-hacked-and-how-to-avoid-them-4m08)
-- [The Ghost in the Machine: A Feeling About AI Building AI](https://dev.to/meet_desai_6fbd24be7a17e6/the-ghost-in-the-machine-a-feeling-about-ai-building-ai-1j97)
-- [How I Optimized a Spring Boot Application to Handle 1M Requests/Second 🚀](https://dev.to/mohit_bajaj_a3e3241d02fda/how-i-optimized-a-spring-boot-application-to-handle-1m-requestssecond-2i78)
-- [Import Cross Account AWS DynamoDB data from S3 bucket to DynamoDB using Python Boto3](https://dev.to/aws-builders/import-cross-account-aws-dynamodb-data-from-s3-bucket-to-dynamodb-using-python-boto3-451m)
+- [15 Best ERP Software of 2025 for Every Business Size and Industry.](https://dev.to/bhavesh_gangani_/15-best-erp-software-of-2025-for-every-business-size-and-industry-4fee)
+- [El papel del personal de procesos de negocio en el impulso del crecimiento organizacional](https://dev.to/linnoit/el-papel-del-personal-de-procesos-de-negocio-en-el-impulso-del-crecimiento-organizacional-4n61)
+- [Was ist ein Headless CMS? Und warum Sanity.io mein neuer bester Freund ist 🚀](https://dev.to/ivo_sa/was-ist-ein-headless-cms-und-warum-sanityio-mein-neuer-bester-freund-ist-1l8m)
+- [Top Use Cases of AWS in Modern Application Development](https://dev.to/piya__c204c9e90/top-use-cases-of-aws-in-modern-application-development-1okn)
+- [Engineering Success: What Developers Can Learn from Scaling Systems &lpar;and Themselves&rpar;](https://dev.to/philip_crypto92/engineering-success-what-developers-can-learn-from-scaling-systems-and-themselves-2bjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
