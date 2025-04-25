@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Day 5: Advanced Animation Techniques](https://dev.to/anticoder03/day-5-advanced-animation-techniques-20k0)
-- [Using postgres_fdw](https://dev.to/hujan/using-postgresfdw-29n9)
-- [Should You Start a Startup with Your Friend?](https://dev.to/dilanblog/should-you-start-a-startup-with-your-friend-526l)
-- [Lebih Efisien! Ini Manfaat Smart Office](https://dev.to/kontraktorrenovasiku/lebih-efisien-ini-manfaat-smart-office-4gfh)
-- [Day 146/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-146365-learning-full-stack-10ai)
+- [If you can&#39;t sleep, just count sheep!!](https://dev.to/maddiepst/if-you-cant-sleep-just-count-sheep-2dil)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2keg)
+- [The Future of Storage: How Intelligent Systems Boost Efficiency and Accuracy](https://dev.to/mcdowell/the-future-of-storage-how-intelligent-systems-boost-efficiency-and-accuracy-54j9)
+- [Deutsche Bank&#39;s Embrace of Open Source: Revolutionizing Financial Technology](https://dev.to/rachellovestowrite/deutsche-banks-embrace-of-open-source-revolutionizing-financial-technology-3k1h)
+- [SOP for Installation of ELK Stack with Filebeat on AWS Servers](https://dev.to/kaustubhyerkade/sop-for-installation-of-elk-stack-with-filebeat-on-aws-servers-2c45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
