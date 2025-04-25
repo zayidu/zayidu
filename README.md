@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn from Global Dev Tutorials: Best AI Video Dubbing &amp; Translation Tools &lpar;2025&rpar;](https://dev.to/christine0627/learn-from-global-dev-tutorials-best-ai-video-dubbing-translation-tools-2025-1k6d)
-- [Git, AI &amp; Docker: Day 2 of My ML Journey Was a Wild Ride 🧠🐳](https://dev.to/surya_cca7c59900971f19c9b/git-ai-docker-day-2-of-my-ml-journey-was-a-wild-ride-kli)
-- [Swagger? What’s that?](https://dev.to/shreyashsri/swagger-whats-that-1c5m)
-- [Top 10 AI &amp; Machine Learning Projects for Download](https://dev.to/projectrabbit/top-10-ai-machine-learning-projects-for-download-1dko)
-- [Deep Dive into JavaScript Event Loop](https://dev.to/imranmind/deep-dive-into-javascript-event-loop-20je)
+- [How to Get Started with AWS Generative AI in Just 5 Steps](https://dev.to/mathu_seelan_a19e13f9b7fb/how-to-get-started-with-aws-generative-ai-in-just-5-steps-2n4a)
+- [Read this and your Web Design and Development Skills will take off](https://dev.to/web_dev-usman/read-this-and-your-web-design-and-development-skills-will-take-off-4hd6)
+- [Exploring Love &amp; Fame: Emily Compagno&#39;s Marital Journey &amp; Ed Sheeran&#39;s Romantic Melodies](https://dev.to/vaultmagazine/exploring-love-fame-emily-compagnos-marital-journey-ed-sheerans-romantic-melodies-52a3)
+- [Understanding React Server Components &lpar;RSC&rpar;](https://dev.to/vishw-patel/understanding-react-server-components-rsc-3nlo)
+- [Ruby - use Redis-lock to avoid duplicate jobs](https://dev.to/hungle00/ruby-use-redis-lock-to-avoid-duplicate-jobs-51e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
