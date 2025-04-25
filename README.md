@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Developer Needs to Self-Host](https://dev.to/code42cate/every-developer-needs-to-self-host-43mm)
-- [Explore How Your Restaurant or Café Will Look on votely.me &lpar;ڤوتلي.مي&rpar; with the Demo](https://dev.to/votely_me/explore-how-your-restaurant-or-cafe-will-look-on-votelyme-vwtlymy-with-the-demo-341i)
-- [Neuromorphic Chips in 2025: A Developer&#39;s Guide to Brain-Inspired AI Hardware](https://dev.to/arkhan/neuromorphic-chips-in-2025-a-developers-guide-to-brain-inspired-ai-hardware-24p7)
-- [How to Create an Account on votely.me &lpar;ڤوتلي.مي&rpar; in 2025](https://dev.to/votely_me/how-to-create-an-account-on-votelyme-vwtlymy-in-2025-679)
-- [EF Core seeding data](https://dev.to/karenpayneoregon/ef-core-seeding-data-f4b)
+- [Embracing the Future: Arbitrum’s Role in Institutional Blockchain Adoption](https://dev.to/kallileiser/embracing-the-future-arbitrums-role-in-institutional-blockchain-adoption-5735)
+- [Part 1: The Memento Problem with AI Memory](https://dev.to/trustgraph/part-1-the-memento-problem-with-ai-memory-4ge7)
+- [Become a Full Stack Developer in 2025 – Faster, Smarter, and Better!](https://dev.to/code_2/become-a-full-stack-developer-in-2025-faster-smarter-and-better-3pg6)
+- [From Source to Blockchain: How Smart Contracts Go Live with Remix and MetaMask](https://dev.to/rwu_security_researcher/from-source-to-blockchain-how-smart-contracts-go-live-with-remix-and-metamask-25h8)
+- [The Convergence of IV Therapy and Artificial Intelligence: Revolutionizing Patient Care](https://dev.to/josef_doctorovitz_ww/the-convergence-of-iv-therapy-and-artificial-intelligence-revolutionizing-patient-care-2md9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
