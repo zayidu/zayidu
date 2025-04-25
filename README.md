@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Releated bro..](https://dev.to/ricorizz/releated-bro-1n8)
-- [🚀 Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/build-your-own-genai-image-generation-website-with-amazon-nova-548d)
-- [Políticas de ciclo de vida en AWS S3 para la optimización de costos](https://dev.to/barbara_gaspar/politicas-de-ciclo-de-vida-en-aws-s3-para-la-optimizacion-de-costos-4fle)
-- [AI Agents](https://dev.to/vijayr00/ai-agents-4l7)
-- [Building Insta-like App Using Django](https://dev.to/marsilas_w_4b9c24542f1366/building-insta-like-app-using-django-k9j)
+- [Learn from Global Dev Tutorials: Best AI Video Dubbing &amp; Translation Tools &lpar;2025&rpar;](https://dev.to/christine0627/learn-from-global-dev-tutorials-best-ai-video-dubbing-translation-tools-2025-1k6d)
+- [Git, AI &amp; Docker: Day 2 of My ML Journey Was a Wild Ride 🧠🐳](https://dev.to/surya_cca7c59900971f19c9b/git-ai-docker-day-2-of-my-ml-journey-was-a-wild-ride-kli)
+- [Swagger? What’s that?](https://dev.to/shreyashsri/swagger-whats-that-1c5m)
+- [Top 10 AI &amp; Machine Learning Projects for Download](https://dev.to/projectrabbit/top-10-ai-machine-learning-projects-for-download-1dko)
+- [Deep Dive into JavaScript Event Loop](https://dev.to/imranmind/deep-dive-into-javascript-event-loop-20je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
