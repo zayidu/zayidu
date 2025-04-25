@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 Kinds Of Tech People Who Will Survive AI](https://dev.to/clark_teeple/the-5-kinds-of-tech-people-who-will-survive-ai-6ln)
-- [Daily Dose 25 April 2025](https://dev.to/td_inc/daily-dose-25-april-2025-b8a)
-- [What is AIOps?](https://dev.to/ta2ozg/what-is-aiops-h66)
-- [🧠 8 Data Structures That Make Your Database Perform Like Magic](https://dev.to/pandeyaditya0002/8-data-structures-that-make-your-database-perform-like-magic-8f)
-- [How To Run Better Async Meetings](https://dev.to/rally_for_jira/how-to-run-better-async-meetings-1n83)
+- [A Game Programmer Learns Blender](https://dev.to/justinhhorner/a-game-programmer-learns-blender-2m7f)
+- [CSS is Emotional: A Conversation with Eric Meyer](https://dev.to/eioluseyi/css-is-emotional-a-conversation-with-eric-meyer-507o)
+- [How to exit TELNET connection on Linux Terminal](https://dev.to/eliasanjr/how-to-exit-telnet-connection-on-linux-terminal-4ll)
+- [50 Shades of Java Executors: A deep dive into the Java multi-threading world](https://dev.to/nicolasduminil/50-shades-of-java-executors-a-deep-dive-into-the-java-multi-threading-world-48j7)
+- [Rollout complete - bucket.co](https://dev.to/fmerian/rollout-complete-bucketco-10ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
