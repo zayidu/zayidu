@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting tempdb Growth: Identifying Idle Sessions Holding Temporary Resources in SQL Server](https://dev.to/arvind_toorpu/troubleshooting-tempdb-growth-identifying-idle-sessions-holding-temporary-resources-in-sql-server-3j2g)
-- [🧠 Dockerize and Share Your ML Model: Logistic Regression with Iris Dataset](https://dev.to/viratpk18/dockerize-and-share-your-ml-model-logistic-regression-with-iris-dataset-3n64)
-- [Understanding Softmax and Cross-Entropy in Neural Networks](https://dev.to/sabha_naaz_b5fb8be540fc0f/understanding-softmax-and-cross-entropy-in-neural-networks-daa)
-- [ml day 2](https://dev.to/balakumaravel_ks24mcr00/ml-day-2-5eep)
-- [Java Coding Best Practices for High-Performance Applications](https://dev.to/omal_jayamanne_/java-coding-best-practices-for-high-performance-applications-3aea)
+- [Dockerizing a Python Machine Learning Model](https://dev.to/bhuvaneshwari_g_9ff3f2d08/dockerizing-a-python-machine-learning-model-12j)
+- [Everyone Feels Like a Fraud. The Good Ones Just Admit It.](https://dev.to/duplessisvanaswegen/everyone-feels-like-a-fraud-the-good-ones-just-admit-it-42em)
+- [Advanced Git Commands](https://dev.to/sujitha_de18764cdb03a6652/advanced-git-commands-578b)
+- [Git Advanced Commands](https://dev.to/nafila_nasrink_c47bf43d7/git-advanced-commands-4846)
+- [Remote access with RustDesk](https://dev.to/kubenetic/remote-access-with-rustdesk-km4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
