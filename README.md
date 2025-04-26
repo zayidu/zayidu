@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Relaticle: A Free &amp; Open Source CRM with Laravel 12 &amp; Filament 3](https://dev.to/manukminasyan/building-relaticle-a-free-open-source-crm-with-laravel-12-filament-3-h3g)
-- [🌦️ Meet Your Interactive Weather Companion!](https://dev.to/buildandcodewithraman/meet-your-interactive-weather-companion-35p0)
-- [Exploring Arbitrum Wallet Compatibility and Withdrawal Times: A Comprehensive Analysis](https://dev.to/laetitiaperraut/exploring-arbitrum-wallet-compatibility-and-withdrawal-times-a-comprehensive-analysis-11km)
-- [Achieving Sub-Frame Interpolation with GSAP and Web Workers](https://dev.to/hexshift/achieving-sub-frame-interpolation-with-gsap-and-web-workers-4a50)
-- [[Boost]](https://dev.to/d_excellence/-1j2e)
+- [JavaScript Functions](https://dev.to/nuriddin_aliy_69d80bb2700/javascript-functions-196i)
+- [Building a Custom React Context with Optimized Selectors &lpar;Without Re-Renders&rpar;](https://dev.to/hexshift/building-a-custom-react-context-with-optimized-selectors-without-re-renders-38jn)
+- [AWS vs. Traditional Machine Learning: Why Cloud-Based AI is the Future](https://dev.to/mathu_seelan_a19e13f9b7fb/aws-vs-traditional-machine-learning-why-cloud-based-ai-is-the-future-377o)
+- [TryHackMe: Snort Challenge - Live Attacks](https://dev.to/seanleeys/tryhackme-snort-challenge-live-attacks-64d)
+- [Beyond &quot;Hello, World&quot;: 5 Unconventional Programming Projects to Level Up Your Skills](https://dev.to/dainwi/beyond-hello-world-5-unconventional-programming-projects-to-level-up-your-skills-1b2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
