@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang: Generics in Go](https://dev.to/olawaleo/golang-generics-in-go-4ima)
-- [Go - &lpar;6&rpar; Arrays and Slices](https://dev.to/chathurashmini/go-6-arrays-and-slices-43mn)
-- [20 Screen Studio Alternatives Everyone Should Know](https://dev.to/justin3go/20-screen-studio-alternatives-everyone-should-know-1o1j)
-- [This Tiny Bug in Your Android App Can Cost Millions. Here’s How &lpar;And How to Avoid It&rpar;](https://dev.to/dhruvjoshi9/this-tiny-bug-in-your-android-app-can-cost-millions-heres-how-and-how-to-avoid-it-474i)
-- [Inheritance in C# – A Practical Guide with Example](https://dev.to/sudha_reddy_0608/inheritance-in-c-a-practical-guide-with-example-13h9)
+- [The Complexity Conundrum: How Overengineering Slows Your Startup’s Pivot 🚀](https://dev.to/copyleftdev/the-complexity-conundrum-how-overengineering-slows-your-startups-pivot-2ko2)
+- [📞 How to Prevent Fraud with Phone Number Validation](https://dev.to/tpeoficial/how-to-prevent-fraud-with-phone-number-validation-4j9i)
+- [Top 10 Essential Interview Questions On Web Development in 2025](https://dev.to/deepch/top-10-essential-interview-questions-on-web-development-in-2025-k9g)
+- [Robot Invaders Game](https://dev.to/adonaitechnologies/robot-invaders-game-5f22)
+- [Superapps Explained: Why Everyone’s Building One](https://dev.to/ayush_rai_3a4bf2876ad190f/superapps-explained-why-everyones-building-one-20fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
