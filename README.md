@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Self-Healing State Machines in React for Robust UI Flows](https://dev.to/hexshift/building-self-healing-state-machines-in-react-for-robust-ui-flows-204a)
-- [Hi let’s be friends ?](https://dev.to/unicornwaflle/hi-lets-be-friends--10io)
-- [Using WebAssembly for Instant Form Validation in React](https://dev.to/hexshift/using-webassembly-for-instant-form-validation-in-react-i5e)
-- [Full article in English &lpar;copy-paste ready&rpar;](https://dev.to/jmegnidro/full-article-in-english-copy-paste-ready-5g1j)
-- [Working on a new SaaS product? Don&#39;t reinvent the wheel. 🛞 Here&#39;s a curated list of 7 powerful APIs that can supercharge your development and save you months of work. 👇](https://dev.to/srbhr/working-on-a-new-saas-product-dont-reinvent-the-wheel-heres-a-curated-list-of-7-1heo)
+- [мен туралы ақпарат](https://dev.to/altyn_taq_4730e6e9cff0f67/mien-turaly-akparat-g1d)
+- [What&#39;s in Cloud Computing..?](https://dev.to/akash029/whats-in-cloud-computing-h1b)
+- [# 🚀 Python Intermediate Course Completed!](https://dev.to/sankworks/-python-intermediate-course-completed-h86)
+- [Lint Smarter: Hadolint + CI para Dockerfiles sem dor de cabeça 🚀](https://dev.to/taperedata/lint-smarter-hadolint-ci-para-dockerfiles-sem-dor-de-cabeca-4pih)
+- [Mikä on CSS ja miten se toimii? Täydellinen opas aloittelijoille](https://dev.to/sofiamayer_dev/mika-on-css-ja-miten-se-toimii-taydellinen-opas-aloittelijoille-487c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
