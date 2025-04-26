@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [мен туралы ақпарат](https://dev.to/altyn_taq_4730e6e9cff0f67/mien-turaly-akparat-g1d)
-- [What&#39;s in Cloud Computing..?](https://dev.to/akash029/whats-in-cloud-computing-h1b)
-- [# 🚀 Python Intermediate Course Completed!](https://dev.to/sankworks/-python-intermediate-course-completed-h86)
-- [Lint Smarter: Hadolint + CI para Dockerfiles sem dor de cabeça 🚀](https://dev.to/taperedata/lint-smarter-hadolint-ci-para-dockerfiles-sem-dor-de-cabeca-4pih)
-- [Mikä on CSS ja miten se toimii? Täydellinen opas aloittelijoille](https://dev.to/sofiamayer_dev/mika-on-css-ja-miten-se-toimii-taydellinen-opas-aloittelijoille-487c)
+- [Legacy Modernization Day Nigeria](https://dev.to/saint_vandora/legacy-modernization-day-nigeria-doo)
+- [The Best Laravel Disposable Email Detection Package for Your Projects](https://dev.to/eramitgupta/the-best-laravel-disposable-email-detection-package-for-your-projects-df6)
+- [Multi-Arch Docker Builds at €14/Month - Just 2 VPSs](https://dev.to/andreamancuso/multi-arch-docker-builds-at-eu14month-just-2-vpss-1eig)
+- [Observer pattern | components communication in React - part two](https://dev.to/mohsen_khademhoseini_c0d/observer-pattern-components-communication-in-react-part-two-dh2)
+- [Self Introduction — Ruby on Rails Developer | ClinicSync Project](https://dev.to/kintsugi-coder/self-introduction-desenvolvedor-ruby-on-rails-clinicsync-project-1mg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
