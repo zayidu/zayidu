@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring JavaScript Cold Start and Runtime Performance](https://dev.to/omriluz1/measuring-javascript-cold-start-and-runtime-performance-gdh)
-- [How to create a web page](https://dev.to/masudul/how-to-create-a-web-page-o0l)
-- [Top 7 Real-Life Uses of Webcams Today](https://dev.to/webcamis234/top-7-real-life-uses-of-webcams-today-4om9)
-- [I need a Buddy in my web dev Journey 😊😊](https://dev.to/ammar_larik_317f277abd381/i-need-a-buddy-in-my-web-dev-journey-4m66)
-- [Arbitrum Liquidity and TVL: Navigating the Layer-2 Landscape in DeFi](https://dev.to/zhangwei42/arbitrum-liquidity-and-tvl-navigating-the-layer-2-landscape-in-defi-2d26)
+- [Building Relaticle: A Free &amp; Open Source CRM with Laravel 12 &amp; Filament 3](https://dev.to/manukminasyan/building-relaticle-a-free-open-source-crm-with-laravel-12-filament-3-h3g)
+- [🌦️ Meet Your Interactive Weather Companion!](https://dev.to/buildandcodewithraman/meet-your-interactive-weather-companion-35p0)
+- [Exploring Arbitrum Wallet Compatibility and Withdrawal Times: A Comprehensive Analysis](https://dev.to/laetitiaperraut/exploring-arbitrum-wallet-compatibility-and-withdrawal-times-a-comprehensive-analysis-11km)
+- [Achieving Sub-Frame Interpolation with GSAP and Web Workers](https://dev.to/hexshift/achieving-sub-frame-interpolation-with-gsap-and-web-workers-4a50)
+- [[Boost]](https://dev.to/d_excellence/-1j2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
