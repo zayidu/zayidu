@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript&#39;s Execution Contexts](https://dev.to/omriluz1/understanding-javascripts-execution-contexts-3l34)
-- [Perspective carousel](https://dev.to/preetha_vaishnavi_2b82358/perspective-carousel-gd2)
-- [witness](https://dev.to/preetha_vaishnavi_2b82358/witness-2f66)
-- [Building AI Model](https://dev.to/theaniketrajdev/building-ai-model-2h75)
-- [quiz de star wars / imersaodev9](https://dev.to/alvesscode/quiz-de-star-wars-imersaodev9-3ohd)
+- [How I do local development CockroachDB Backups](https://dev.to/sweethuman/how-i-do-local-development-cockroachdb-backups-389b)
+- [How I Use ChatGPT to Refactor Smarter, Not Harder](https://dev.to/sung_jinwoo_ae9a810f8c46a/how-i-use-chatgpt-to-refactor-smarter-not-harder-385d)
+- [Tutorial 38: 🚀 Using NSCache and Disk Caching to Optimize Performance](https://dev.to/cl0udleadanis/tutorial-38-using-nscache-and-disk-caching-to-optimize-performance-65o)
+- [Implementing JWT Authentication in Spring Boot](https://dev.to/nishant_rathore_a4555652e/implementing-jwt-authentication-in-spring-boot-3jf3)
+- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-50gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
