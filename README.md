@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GIT COMMANDS](https://dev.to/sugumar_sugu_bd2d8d8faeb8/git-commands-4jgb)
-- [🧠 Kubernetes Learning Path &lpar;in VS Code&rpar;](https://dev.to/cl0udleadanis/kubernetes-learning-path-in-vs-code-53g0)
-- [How to Create a Horizontal Tabs Bar with their Sections using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-horizontal-tabs-bar-with-their-sections-using-css-and-javascript-49jj)
-- [Untitled](https://dev.to/__1513823cab68510bb4e/untitled-381n)
-- [Simulating Chaos: My Latest Foray into Failure Testing](https://dev.to/blkgrlcto/simulating-chaos-my-latest-foray-into-failure-testing-2ecj)
+- [Iris Flower Prediction using Machine Learning 🌸](https://dev.to/dhanushya_venkatrajan_15a/iris-flower-prediction-using-machine-learning-4231)
+- [Reverse words](https://dev.to/maddiepst/reverse-words-28h9)
+- [Beyond the Basics: 10 Git Commands to Level Up Your Development Game](https://dev.to/developersakthi/beyond-the-basics-10-git-commands-to-level-up-your-development-game-gm6)
+- [🎩 Ansible Local Lab with Vagrant in No Time](https://dev.to/kartikdudeja21/ansible-local-lab-with-vagrant-in-no-time-1oln)
+- [Flappy bird with a twist 🤖](https://dev.to/sebastiandevelops/flappy-bird-with-a-twist-5075)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
