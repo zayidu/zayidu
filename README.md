@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mangas no Kindle](https://dev.to/duardodev/mangas-no-kindle-1p10)
-- [Just Make it EXIST, You Can Make it Good Later: A Journey to Building a GitHub Profile README.](https://dev.to/dumisanimukuchura/just-make-it-exist-you-can-make-it-good-later-a-journey-to-building-a-github-profile-readme-45bj)
-- [AI-Shell: Your Fast Lane to AI Power in the Command Line](https://dev.to/john_c_c08d537b9b5cae6081/ai-shell-your-fast-lane-to-ai-power-in-the-command-line-1592)
-- [Scalable Enterprise LMS for Employee Development](https://dev.to/adan_shoukat_9351fc997191/scalable-enterprise-lms-for-employee-development-33c5)
-- [Cody&#39;s Cloud Arena](https://dev.to/st3adyp1ck/codys-cloud-arena-1poa)
+- [Part 2: Why Your AI is Stuck in a Memento Loop](https://dev.to/trustgraph/part-2-why-your-ai-is-stuck-in-a-memento-loop-ilf)
+- [The Power of Going Back to the Basics: Why I Learned Algebra as an Adult](https://dev.to/arcibyte/the-power-of-going-back-to-the-basics-why-i-learned-algebra-as-an-adult-18ld)
+- [A Beginner&#39;s Journey into Rust](https://dev.to/leapcell/a-beginners-journey-into-rust-5al8)
+- [Understand Spanning Tree Protocol &lpar;STP&rpar;](https://dev.to/h0ag/understand-spanning-tree-protocol-stp-23b8)
+- [Hospedagem gratuita: vale a Pena? vantagens e limitações explicadas](https://dev.to/estudiowin/hospedagem-gratuita-vale-a-pena-vantagens-e-limitacoes-explicadas-4g4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
