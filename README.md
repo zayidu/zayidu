@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In my free time i read blogs in Dev and then i find this blog really interesting check it out!](https://dev.to/aryan_panwala/in-my-free-time-i-read-blogs-in-dev-and-then-i-find-this-blog-really-interesting-check-it-out-3jpk)
-- [The Iron Triangle in software Projects](https://dev.to/nikhil_sachapara/the-iron-triangle-in-software-projects-22io)
-- [Great Blog on Iron Triangle in Software project Check it out](https://dev.to/pranesh_patel/great-blog-on-iron-triangle-in-software-project-check-it-out-25mp)
-- [The Iron Triangle in Software Projects throw better Project management terms](https://dev.to/pratham_naik_project_manager/the-iron-triangle-in-software-projects-throw-better-project-management-terms-lc3)
-- [The &quot;Iron Triangle&quot; in Software Projects: Balancing Scope, Time, and Cost Without Compromising Quality](https://dev.to/teamcamp/the-iron-triangle-in-software-projects-balancing-scope-time-and-cost-without-compromising-aoe)
+- [How to Debug Docker Containers Locally](https://dev.to/getambassador/how-to-debug-docker-containers-locally-1fb9)
+- [Common Accessibility Issues in Web Apps &lpar;And How to Fix Them&rpar;](https://dev.to/dct_technology/common-accessibility-issues-in-web-apps-and-how-to-fix-them-4dj7)
+- [[Boost]](https://dev.to/osiris8/-29i8)
+- [Getting Started with Go on the Fly](https://dev.to/cephaspeter/getting-started-with-go-on-the-fly-26p6)
+- [What’s Your Current Tech Stack? Let’s Compare!](https://dev.to/code_2/whats-your-current-tech-stack-lets-compare-3aik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
