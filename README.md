@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Container? Open Container Initiative Explained](https://dev.to/mkdev/what-is-a-container-open-container-initiative-explained-1h6n)
-- [🚀 ChatGPT Clone – Your Own AI Chat Assistant](https://dev.to/abdullah_web_dev/chatgpt-clone-your-own-ai-chat-assistant-knj)
-- [🤖 New Chatbot — Lightweight and Interactive](https://dev.to/abdullah_web_dev/new-chatbot-lightweight-and-interactive-2bla)
-- [Day 7: Animated Landing Page — Interactive Product Showcase 🚀](https://dev.to/anticoder03/day-7-animated-landing-page-interactive-product-showcase-1pf6)
-- [🖥️ WordPress Dashboard Clone — Clean &amp; Responsive](https://dev.to/abdullah_web_dev/wordpress-dashboard-clone-clean-responsive-35pk)
+- [Golang: Generics in Go](https://dev.to/olawaleo/golang-generics-in-go-4ima)
+- [Go - &lpar;6&rpar; Arrays and Slices](https://dev.to/chathurashmini/go-6-arrays-and-slices-43mn)
+- [20 Screen Studio Alternatives Everyone Should Know](https://dev.to/justin3go/20-screen-studio-alternatives-everyone-should-know-1o1j)
+- [This Tiny Bug in Your Android App Can Cost Millions. Here’s How &lpar;And How to Avoid It&rpar;](https://dev.to/dhruvjoshi9/this-tiny-bug-in-your-android-app-can-cost-millions-heres-how-and-how-to-avoid-it-474i)
+- [Inheritance in C# – A Practical Guide with Example](https://dev.to/sudha_reddy_0608/inheritance-in-c-a-practical-guide-with-example-13h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
