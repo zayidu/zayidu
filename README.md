@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Docker Containers Locally](https://dev.to/getambassador/how-to-debug-docker-containers-locally-1fb9)
-- [Common Accessibility Issues in Web Apps &lpar;And How to Fix Them&rpar;](https://dev.to/dct_technology/common-accessibility-issues-in-web-apps-and-how-to-fix-them-4dj7)
-- [[Boost]](https://dev.to/osiris8/-29i8)
-- [Getting Started with Go on the Fly](https://dev.to/cephaspeter/getting-started-with-go-on-the-fly-26p6)
-- [What’s Your Current Tech Stack? Let’s Compare!](https://dev.to/code_2/whats-your-current-tech-stack-lets-compare-3aik)
+- [What I Wish I Knew About Databases as an Experienced Java Backend Developer&quot;](https://dev.to/javafullstackdev/what-i-wish-i-knew-about-databases-as-an-experienced-java-backend-developer-2e5e)
+- [This Revolutionary AI Business Model Will Mint Millionaires in 2025 &lpar;And It’s Way Bigger Than SaaS&rpar;](https://dev.to/devlinkstudios/this-revolutionary-ai-business-model-will-mint-millionaires-in-2025-and-its-way-bigger-than-saas-nh)
+- [Logs Saved My Career &lpar;But Only After They Made Me Cry&rpar;](https://dev.to/javafullstackdev/logs-saved-my-career-but-only-after-they-made-me-cry-c3b)
+- [Make Your Tests Pop: Add Emojis and Icons to Your QA Output Like a Pro 🚀](https://dev.to/sasoqa/make-your-tests-pop-add-emojis-and-icons-to-your-qa-output-like-a-pro-3i3b)
+- [Optimising Cloud Costs and Security: With Scientific Research Platform Using AWS Manager Store](https://dev.to/ollycare/optimising-cloud-costs-and-security-with-scientific-research-platform-using-aws-manager-store-3ikc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
