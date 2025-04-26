@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Wish I Knew About Databases as an Experienced Java Backend Developer&quot;](https://dev.to/javafullstackdev/what-i-wish-i-knew-about-databases-as-an-experienced-java-backend-developer-2e5e)
-- [This Revolutionary AI Business Model Will Mint Millionaires in 2025 &lpar;And It’s Way Bigger Than SaaS&rpar;](https://dev.to/devlinkstudios/this-revolutionary-ai-business-model-will-mint-millionaires-in-2025-and-its-way-bigger-than-saas-nh)
-- [Logs Saved My Career &lpar;But Only After They Made Me Cry&rpar;](https://dev.to/javafullstackdev/logs-saved-my-career-but-only-after-they-made-me-cry-c3b)
-- [Make Your Tests Pop: Add Emojis and Icons to Your QA Output Like a Pro 🚀](https://dev.to/sasoqa/make-your-tests-pop-add-emojis-and-icons-to-your-qa-output-like-a-pro-3i3b)
-- [Optimising Cloud Costs and Security: With Scientific Research Platform Using AWS Manager Store](https://dev.to/ollycare/optimising-cloud-costs-and-security-with-scientific-research-platform-using-aws-manager-store-3ikc)
+- [Measuring JavaScript Cold Start and Runtime Performance](https://dev.to/omriluz1/measuring-javascript-cold-start-and-runtime-performance-gdh)
+- [How to create a web page](https://dev.to/masudul/how-to-create-a-web-page-o0l)
+- [Top 7 Real-Life Uses of Webcams Today](https://dev.to/webcamis234/top-7-real-life-uses-of-webcams-today-4om9)
+- [I need a Buddy in my web dev Journey 😊😊](https://dev.to/ammar_larik_317f277abd381/i-need-a-buddy-in-my-web-dev-journey-4m66)
+- [Arbitrum Liquidity and TVL: Navigating the Layer-2 Landscape in DeFi](https://dev.to/zhangwei42/arbitrum-liquidity-and-tvl-navigating-the-layer-2-landscape-in-defi-2d26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
