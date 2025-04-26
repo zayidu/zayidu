@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I do local development CockroachDB Backups](https://dev.to/sweethuman/how-i-do-local-development-cockroachdb-backups-389b)
-- [How I Use ChatGPT to Refactor Smarter, Not Harder](https://dev.to/sung_jinwoo_ae9a810f8c46a/how-i-use-chatgpt-to-refactor-smarter-not-harder-385d)
-- [Tutorial 38: 🚀 Using NSCache and Disk Caching to Optimize Performance](https://dev.to/cl0udleadanis/tutorial-38-using-nscache-and-disk-caching-to-optimize-performance-65o)
-- [Implementing JWT Authentication in Spring Boot](https://dev.to/nishant_rathore_a4555652e/implementing-jwt-authentication-in-spring-boot-3jf3)
-- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-50gc)
+- [Mangas no Kindle](https://dev.to/duardodev/mangas-no-kindle-1p10)
+- [Just Make it EXIST, You Can Make it Good Later: A Journey to Building a GitHub Profile README.](https://dev.to/dumisanimukuchura/just-make-it-exist-you-can-make-it-good-later-a-journey-to-building-a-github-profile-readme-45bj)
+- [AI-Shell: Your Fast Lane to AI Power in the Command Line](https://dev.to/john_c_c08d537b9b5cae6081/ai-shell-your-fast-lane-to-ai-power-in-the-command-line-1592)
+- [Scalable Enterprise LMS for Employee Development](https://dev.to/adan_shoukat_9351fc997191/scalable-enterprise-lms-for-employee-development-33c5)
+- [Cody&#39;s Cloud Arena](https://dev.to/st3adyp1ck/codys-cloud-arena-1poa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
