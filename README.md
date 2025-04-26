@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A2A Protocol : Deep Dive](https://dev.to/vishalmysore/a2a-protocol-deep-dive-3707)
-- [Slanted Text](https://dev.to/preetha_vaishnavi_2b82358/slanted-text-33o3)
-- [ironskydive-solution](https://dev.to/preetha_vaishnavi_2b82358/ironskydive-solution-29ke)
-- [MARVEL POSTER [CSS GRID]](https://dev.to/preetha_vaishnavi_2b82358/marvel-poster-css-grid-nmd)
-- [Wheel Carousel with Astro.build CSS](https://dev.to/preetha_vaishnavi_2b82358/wheel-carousel-with-astrobuild-css-32k2)
+- [Understanding JavaScript&#39;s Execution Contexts](https://dev.to/omriluz1/understanding-javascripts-execution-contexts-3l34)
+- [Perspective carousel](https://dev.to/preetha_vaishnavi_2b82358/perspective-carousel-gd2)
+- [witness](https://dev.to/preetha_vaishnavi_2b82358/witness-2f66)
+- [Building AI Model](https://dev.to/theaniketrajdev/building-ai-model-2h75)
+- [quiz de star wars / imersaodev9](https://dev.to/alvesscode/quiz-de-star-wars-imersaodev9-3ohd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
