@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Z3-R0 – A Not-So-Smart Robot With a Lot of Personality](https://dev.to/wesleybertipaglia/z3-r0-a-not-so-smart-robot-with-a-lot-of-personality-3j11)
-- [🚀 Day 6 — Project Days Begin: Crafting Real-World UI with Anime.js](https://dev.to/anticoder03/day-6-project-days-begin-crafting-real-world-ui-with-animejs-2o8)
-- [Your Kubernetes clusters deserve to stay clean. Your platform deserves full control. Now you can have both.](https://dev.to/simone_morellato/your-kubernetes-clusters-deserve-to-stay-clean-your-platform-deserves-full-control-now-you-can-2di8)
-- [🤷‍♀️ SeraJS is a lightweight, signal-based reactive JavaScript library](https://dev.to/codervai/serajs-is-a-lightweight-signal-based-reactive-javascript-library-5alo)
-- [ADVANCED GIT COMMANDS](https://dev.to/rajaram_nivas/advanced-git-commands-2ah2)
+- [GIT COMMANDS](https://dev.to/sugumar_sugu_bd2d8d8faeb8/git-commands-4jgb)
+- [🧠 Kubernetes Learning Path &lpar;in VS Code&rpar;](https://dev.to/cl0udleadanis/kubernetes-learning-path-in-vs-code-53g0)
+- [How to Create a Horizontal Tabs Bar with their Sections using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-horizontal-tabs-bar-with-their-sections-using-css-and-javascript-49jj)
+- [Untitled](https://dev.to/__1513823cab68510bb4e/untitled-381n)
+- [Simulating Chaos: My Latest Foray into Failure Testing](https://dev.to/blkgrlcto/simulating-chaos-my-latest-foray-into-failure-testing-2ecj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
