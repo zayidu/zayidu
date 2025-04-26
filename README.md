@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy Modernization Day Nigeria](https://dev.to/saint_vandora/legacy-modernization-day-nigeria-doo)
-- [The Best Laravel Disposable Email Detection Package for Your Projects](https://dev.to/eramitgupta/the-best-laravel-disposable-email-detection-package-for-your-projects-df6)
-- [Multi-Arch Docker Builds at €14/Month - Just 2 VPSs](https://dev.to/andreamancuso/multi-arch-docker-builds-at-eu14month-just-2-vpss-1eig)
-- [Observer pattern | components communication in React - part two](https://dev.to/mohsen_khademhoseini_c0d/observer-pattern-components-communication-in-react-part-two-dh2)
-- [Self Introduction — Ruby on Rails Developer | ClinicSync Project](https://dev.to/kintsugi-coder/self-introduction-desenvolvedor-ruby-on-rails-clinicsync-project-1mg6)
+- [Memory Management in JS: The Silent Hero](https://dev.to/lovestaco/memory-management-in-js-the-silent-hero-4310)
+- [🎬 Linux Sitcom Episode: &quot;The One Where They Manage User Accounts&quot;](https://dev.to/higgs182092/linux-sitcom-episode-the-one-where-they-manage-user-accounts-57e8)
+- [Complejidad de un algoritmo](https://dev.to/erickvasm/complejidad-de-un-algoritmo-4ma6)
+- [MANUAL TESTING AND ITS FUTURE](https://dev.to/aiswaryapr123/manual-testing-and-its-future-l6i)
+- [Tired of bloated installers and complex DevOps pipelines? I built pport.top — a terminal-based messenger — to demo a crazy simple idea: Instant CLI delivery over HTTP Just curl or irm, nothing else TypeScript on the fly via Deno Live deployment](https://dev.to/sevapp/tired-of-bloated-installers-and-complex-devops-pipelines-i-built-httpspporttop-a-52cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
