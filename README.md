@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to SQL Using PostreSQL](https://dev.to/lucy_joan_b56ae069a2a9f17/introduction-to-sql-using-postresql-3l7p)
-- [Maintain Code Quality Like a Big Tech Team — Without Paying for Expensive Automation](https://dev.to/jayasooriyas/maintain-code-quality-like-a-big-tech-team-without-paying-for-expensive-automation-520c)
-- [How to Play Spelling Bee Game Online: A Comprehensive Guide](https://dev.to/foxinfotech/how-to-play-spelling-bee-game-online-a-comprehensive-guide-f33)
-- [Regression Testing is a First Class Citizen](https://dev.to/vaseem_anjum_b1050bcfaffe/regression-testing-is-a-first-class-citizen-oj1)
-- [Correct Usage of redirect&lpar;&rpar; with App Router in Next.js](https://dev.to/ted2xmen/correct-usage-of-redirect-with-app-router-in-nextjs-2c82)
+- [Building Self-Healing State Machines in React for Robust UI Flows](https://dev.to/hexshift/building-self-healing-state-machines-in-react-for-robust-ui-flows-204a)
+- [Hi let’s be friends ?](https://dev.to/unicornwaflle/hi-lets-be-friends--10io)
+- [Using WebAssembly for Instant Form Validation in React](https://dev.to/hexshift/using-webassembly-for-instant-form-validation-in-react-i5e)
+- [Full article in English &lpar;copy-paste ready&rpar;](https://dev.to/jmegnidro/full-article-in-english-copy-paste-ready-5g1j)
+- [Working on a new SaaS product? Don&#39;t reinvent the wheel. 🛞 Here&#39;s a curated list of 7 powerful APIs that can supercharge your development and save you months of work. 👇](https://dev.to/srbhr/working-on-a-new-saas-product-dont-reinvent-the-wheel-heres-a-curated-list-of-7-1heo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
