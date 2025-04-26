@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧵 Why Rust Needs `FdWrapper`: Understanding File Descriptors and RAII at the System Level](https://dev.to/_56d7718cea8fe00ec1610/why-rust-needs-fdwrapper-understanding-file-descriptors-and-raii-at-the-system-level-3oom)
-- [Pourquoi la Nissan CUE-X de 1985 reste une pépite tech en 2025 🚗💾](https://dev.to/mission_ile_de_la_cite/pourquoi-la-nissan-cue-x-de-1985-reste-une-pepite-tech-en-2025-4pla)
-- [Navigating the Future of Decentralized Decision-Making: Arbitrum and On-Chain Governance](https://dev.to/bobcars/navigating-the-future-of-decentralized-decision-making-arbitrum-and-on-chain-governance-4b6g)
-- [👉 Gathering Magic: How .reduce&lpar;&rpar; is JavaScript Alchemy](https://dev.to/middledev/gathering-magic-how-reduce-is-javascript-alchemy-48gf)
-- [How to Build a Mobile App for Apartment Cleaning with React Native](https://dev.to/giovany_osorio_707759bc6b/how-to-build-a-mobile-app-for-apartment-cleaning-with-react-native-5b02)
+- [New phones](https://dev.to/zako_mako_9a4826822204c78/new-phones-l4c)
+- [GPT-image-1 Enhances Image Generation in Azure AI Foundry](https://dev.to/sadiksajid/gpt-image-1-enhances-image-generation-in-azure-ai-foundry-2jpe)
+- [Daily JavaScript Challenge #JS-164: Generate All Possible IP Addresses](https://dev.to/dpc/daily-javascript-challenge-js-164-generate-all-possible-ip-addresses-49a)
+- [ButtonDropDown vuejs and Primevue](https://dev.to/ahmadasroni38/buttondropdown-vuejs-and-primevue-1mc8)
+- [NyaruDB2: A Mobile-First Experiment in Table Partitioning for iOS](https://dev.to/maltzsama/nyarudb2-a-mobile-first-experiment-in-table-partitioning-for-ios-anl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
