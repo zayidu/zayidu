@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New phones](https://dev.to/zako_mako_9a4826822204c78/new-phones-l4c)
-- [GPT-image-1 Enhances Image Generation in Azure AI Foundry](https://dev.to/sadiksajid/gpt-image-1-enhances-image-generation-in-azure-ai-foundry-2jpe)
-- [Daily JavaScript Challenge #JS-164: Generate All Possible IP Addresses](https://dev.to/dpc/daily-javascript-challenge-js-164-generate-all-possible-ip-addresses-49a)
-- [ButtonDropDown vuejs and Primevue](https://dev.to/ahmadasroni38/buttondropdown-vuejs-and-primevue-1mc8)
-- [NyaruDB2: A Mobile-First Experiment in Table Partitioning for iOS](https://dev.to/maltzsama/nyarudb2-a-mobile-first-experiment-in-table-partitioning-for-ios-anl)
+- [🤖 Z3-R0 – A Not-So-Smart Robot With a Lot of Personality](https://dev.to/wesleybertipaglia/z3-r0-a-not-so-smart-robot-with-a-lot-of-personality-3j11)
+- [🚀 Day 6 — Project Days Begin: Crafting Real-World UI with Anime.js](https://dev.to/anticoder03/day-6-project-days-begin-crafting-real-world-ui-with-animejs-2o8)
+- [Your Kubernetes clusters deserve to stay clean. Your platform deserves full control. Now you can have both.](https://dev.to/simone_morellato/your-kubernetes-clusters-deserve-to-stay-clean-your-platform-deserves-full-control-now-you-can-2di8)
+- [🤷‍♀️ SeraJS is a lightweight, signal-based reactive JavaScript library](https://dev.to/codervai/serajs-is-a-lightweight-signal-based-reactive-javascript-library-5alo)
+- [ADVANCED GIT COMMANDS](https://dev.to/rajaram_nivas/advanced-git-commands-2ah2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
