@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Management in JS: The Silent Hero](https://dev.to/lovestaco/memory-management-in-js-the-silent-hero-4310)
-- [🎬 Linux Sitcom Episode: &quot;The One Where They Manage User Accounts&quot;](https://dev.to/higgs182092/linux-sitcom-episode-the-one-where-they-manage-user-accounts-57e8)
-- [Complejidad de un algoritmo](https://dev.to/erickvasm/complejidad-de-un-algoritmo-4ma6)
-- [MANUAL TESTING AND ITS FUTURE](https://dev.to/aiswaryapr123/manual-testing-and-its-future-l6i)
-- [Tired of bloated installers and complex DevOps pipelines? I built pport.top — a terminal-based messenger — to demo a crazy simple idea: Instant CLI delivery over HTTP Just curl or irm, nothing else TypeScript on the fly via Deno Live deployment](https://dev.to/sevapp/tired-of-bloated-installers-and-complex-devops-pipelines-i-built-httpspporttop-a-52cg)
+- [A2A Protocol : Deep Dive](https://dev.to/vishalmysore/a2a-protocol-deep-dive-3707)
+- [Slanted Text](https://dev.to/preetha_vaishnavi_2b82358/slanted-text-33o3)
+- [ironskydive-solution](https://dev.to/preetha_vaishnavi_2b82358/ironskydive-solution-29ke)
+- [MARVEL POSTER [CSS GRID]](https://dev.to/preetha_vaishnavi_2b82358/marvel-poster-css-grid-nmd)
+- [Wheel Carousel with Astro.build CSS](https://dev.to/preetha_vaishnavi_2b82358/wheel-carousel-with-astrobuild-css-32k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
