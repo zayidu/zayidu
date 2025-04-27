@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey I just made a game, please try it folks! ✌️](https://dev.to/async_dime/hey-i-just-made-a-game-please-try-it-folks-1okd)
-- [Create a password strength meter with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-a-password-strength-meter-with-tailwind-css-and-javascript-3da2)
-- [Client-Side SSR: Build a Component-Based Landing Page in 10 Minutes⏱️](https://dev.to/hmpljs/client-side-ssr-build-a-component-based-landing-page-in-10-minutes-2784)
-- [How I Would Learn Software Engineering If I Had to Start All Over Again in 2025](https://dev.to/akum_acha_2519d3ec8cd1514/how-i-would-learn-software-engineering-if-i-had-to-start-all-over-again-in-2025-hef)
-- [How to Forward CloudFlare IP to SafeLine WAF](https://dev.to/carrie_luo1/how-to-forward-cloudflare-ip-to-safeline-waf-n1j)
+- [&quot;Design the Coat to Fit Your Taste&quot; — How a Strong SDLC Leads to Better Software Outcomes](https://dev.to/mwacharo6/design-the-coat-to-fit-your-taste-how-a-strong-sdlc-leads-to-better-software-outcomes-3md3)
+- [I Kinda Made The First Text-Adventure RPG Game 100% Powered by Procedural Generation](https://dev.to/miguelthedrmr/i-kinda-made-the-first-text-adventure-rpg-game-100-powered-by-procedural-generation-58kh)
+- [Implementing a Download Audio Job in Production: Best Practices and Lessons Learned](https://dev.to/mwacharo6/implementing-a-download-audio-job-in-production-best-practices-and-lessons-learned-5fbo)
+- [How to Set Up a CI/CD Pipeline with GitHub Actions in 15 Minutes 🚀](https://dev.to/yash_sonawane25/how-to-set-up-a-cicd-pipeline-with-github-actions-in-15-minutes-3d29)
+- [First Experience with an Open-Source Web Application Firewall – SafeLine](https://dev.to/carrie_luo1/first-experience-with-an-open-source-web-application-firewall-safeline-l8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
