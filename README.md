@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Loa v0.0.1-alpha: Release the first version](https://dev.to/lunastev/introduction-to-loa-v001-alpha-release-the-first-version-25bl)
-- [Js](https://dev.to/inaciobrwi/js-4c66)
-- [A Pitfall: Child Goroutines Causing Service Crashes](https://dev.to/akishichinibu/a-pitfall-child-goroutines-causing-service-crashes-403b)
-- [Façade Pattern](https://dev.to/tak089/facade-pattern-4d5p)
-- [Como escolher a melhor hospedagem de sites em 2025](https://dev.to/estudiowin/como-escolher-a-melhor-hospedagem-de-sites-em-2025-30e6)
+- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-22cl)
+- [Terraform](https://dev.to/ryo_ariyama_b521d7133c493/terraform-29ng)
+- [&quot;Stop Wasting Time on Manual Elasticsearch Backups — Automate It with Python &amp; S3&quot;](https://dev.to/minh_trivo_vmt/stop-wasting-time-on-manual-elasticsearch-backups-automate-it-with-python-s3-4dak)
+- [What do version numbers mean?](https://dev.to/devsk001/what-do-version-numbers-mean-34a7)
+- [@layer in CSS](https://dev.to/betelgeuseas/layer-in-css-552m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
