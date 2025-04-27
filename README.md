@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [READY?](https://dev.to/machine/ready-51pg)
-- [Docker Compose Explained Like You&#39;re Five](https://dev.to/rajeshrenato/docker-compose-explained-like-youre-five-53cp)
-- [Flutter’da Card Kullanımı: Şık ve Basit Bir Başlangıç](https://dev.to/simalnigbolu/flutterda-card-kullanimi-sik-ve-basit-bir-baslangic-3kh1)
-- [Master Next.js in 60 Days: The Ultimate Day-by-Day Roadmap &lpar;With Ebook Guide&rpar;](https://dev.to/code_2/master-nextjs-in-60-days-the-ultimate-day-by-day-roadmap-with-ebook-guide-2d21)
-- [A Practical Guide to the cp &lpar;Copy&rpar; Command in Linux](https://dev.to/marzena_pugo_b8978575380f/a-practical-guide-to-the-cp-copy-command-in-linux-2c1b)
+- [How to Find and Extract All URLs from a Website Using Olostep Maps API and Streamlit](https://dev.to/mohammad_ehsanansari_671/how-to-find-and-extract-all-urls-from-a-website-using-olostep-maps-api-and-streamlit-1cbp)
+- [4th, save tester&#39;s behavior](https://dev.to/bruce_doctor_515422886dae/4th-save-testers-behavior-27i5)
+- [The Intersection of Blockchain, Diamond Tracking, and Counterfeiting: Bridging Transparency with Innovative Technologies](https://dev.to/bobcars/the-intersection-of-blockchain-diamond-tracking-and-counterfeiting-bridging-transparency-with-3048)
+- [Acerca de](https://dev.to/david_bermenvliz/acerca-de-1ca9)
+- [DashBot: 1v1 Space Robot Sprint Battle](https://dev.to/jianong/dashbot-1v1-space-robot-sprint-battle-1h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
