@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Group Management in Linux: My Journey to Organized Systems](https://dev.to/ibrahim_morakinyo_8f47965/group-management-in-linux-my-journey-to-organized-systems-eo1)
+- [OpenBSD 7.6 を 7.7 へ アップグレード](https://dev.to/nabbisen/openbsd-76-wo-77-he-atupuguredo-1eh7)
 - [OpenBSD Upgrade 7.6 to 7.7](https://dev.to/nabbisen/openbsd-upgrade-76-to-77-1cco)
 - [Mindfck Devlog 2: Memory Handling, Variables, and Flow Control in Brainfuck](https://dev.to/angrykoala/mindfck-devlog-2-memory-handling-variables-and-flow-control-in-brainfuck-5fml)
 - [Blockchain and Digital Rights Management: A Revolutionary Synergy in a Digital Era](https://dev.to/bobcars/blockchain-and-digital-rights-management-a-revolutionary-synergy-in-a-digital-era-3con)
-- [Structured approach to versioning](https://dev.to/khanze99/structured-approach-to-versioning-5eig)
-- [Cloud Resume Challenge - AWS](https://dev.to/alexisjvilc/cloud-resume-challenge-aws-130n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
