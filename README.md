@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5/90: Purge Elements Like the Shadow Monarch — Conquering LeetCode’s Remove Element Problem](https://dev.to/luparinx/day-590-purge-elements-like-the-shadow-monarch-conquering-leetcodes-remove-element-problem-i64)
-- [BEST GITHUB PROFILE README TEMPLATE FOR BEGINNERS](https://dev.to/karkeys1108/best-github-profile-readme-template-for-beginners-2joh)
-- [Day 5/90: Purge Elements Like the Shadow Monarch — Conquering LeetCode’s Remove Element Problem 🗡️](https://dev.to/luparinx/day-590-purge-elements-like-the-shadow-monarch-conquering-leetcodes-remove-element-problem-5ckk)
-- [Okay devs](https://dev.to/iliketoplay/okay-devs-4aoh)
-- [Day 1 of 100DaysOfCode](https://dev.to/kartikyadav080/day-1-of-100daysofcode-2aa5)
+- [Funding and Innovation: Blockchain, Cybersecurity, &amp; Open Source – A Comprehensive Analysis](https://dev.to/jennythomas498/funding-and-innovation-blockchain-cybersecurity-open-source-a-comprehensive-analysis-2n6b)
+- [Leetcode - 114. Flatten Binary Tree to Linked List](https://dev.to/rakeshreddy512/leetcode-114-flatten-binary-tree-to-linked-list-2h2o)
+- [Building a Personal Diary App with React and Firebase: A Complete Journey.](https://dev.to/elvis24tech/building-a-personal-diary-app-with-react-and-firebase-a-complete-journey-2950)
+- [Mastering Dependency Injection in Spring Boot: Real-World Examples and Best Practices](https://dev.to/dhanush___b/mastering-dependency-injection-in-spring-boot-real-world-examples-and-best-practices-1dof)
+- [A Guide to Snapshot Testing React Native Components Using Jest](https://dev.to/biswasprasana001/a-guide-to-snapshot-testing-react-native-components-using-jest-3ci7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
