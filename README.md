@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Mapper Pattern in Enterprise Application Architecture](https://dev.to/marioflores7/data-mapper-pattern-in-enterprise-application-architecture-4fg)
-- [20 Fullstack Project Ideas That Will Land You a Job in 2025](https://dev.to/code_2/20-fullstack-project-ideas-that-will-land-you-a-job-in-2025-3h35)
-- [Neo4j Tutorial: # 📚 Handling Neo4j Database Consistency Errors — With a Real-Life Example and Visuals](https://dev.to/mangesh28/neo4j-tutorial-handling-neo4j-database-consistency-errors-with-a-real-life-example-and-47b7)
-- [What’s your least favorite language?](https://dev.to/nerd1029/whats-your-least-favorite-language-mmd)
-- [Intl.RelativeTimeFormat for Custom Time Representations](https://dev.to/omriluz1/intlrelativetimeformat-for-custom-time-representations-hgg)
+- [Structured approach to versioning](https://dev.to/khanze99/structured-approach-to-versioning-5eig)
+- [Blockchain&#39;s Transformative Potential Across Industries](https://dev.to/rachellovestowrite/blockchains-transformative-potential-across-industries-5eec)
+- [5 Linux Hardening Techniques I Apply Before Hosting Any Website | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-linux-hardening-techniques-i-apply-before-hosting-any-website-by-faruk-ahmed-apr-2025-1hmg)
+- [10 Security Commands Every Linux Admin Should Know &lpar;But Probably Doesn’t&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/10-security-commands-every-linux-admin-should-know-but-probably-doesnt-by-faruk-ahmed-apr-4igh)
+- [Web Design Sacramento](https://dev.to/websitedesignsacramento/web-design-sacramento-52f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
