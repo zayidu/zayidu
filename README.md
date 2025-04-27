@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend letter to frontend lovers](https://dev.to/shreyvijayvargiya/frontend-letter-to-frontend-lovers-jnj)
-- [Day 148/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-148365-learning-full-stack-5794)
-- [Using &quot;Function as Children&quot; in React](https://dev.to/hasunnilupul/using-function-as-children-in-react-2hk7)
-- [How to Secure Your Node.js APIS](https://dev.to/gariglow/how-to-secure-your-nodejs-apis-3gn6)
-- [How to Become a SafeLine Reseller](https://dev.to/carrie_luo1/how-to-become-a-safeline-reseller-33o0)
+- [Turbocharge Dev Velocity: Modern Tooling &amp; DX in the Node.js Ecosystem](https://dev.to/codanyks/turbocharge-dev-velocity-modern-tooling-dx-in-the-nodejs-ecosystem-30fl)
+- [The Future of Terminals: How Warp is Redefining Command Line Interactions](https://dev.to/omriluz1/the-future-of-terminals-how-warp-is-redefining-command-line-interactions-199a)
+- [Web Scraping CloudFront Responsibly and Efficiently](https://dev.to/swiftproxy_residential/web-scraping-cloudfront-responsibly-and-efficiently-169)
+- [Building a Recipe-Sharing Application](https://dev.to/gakuruuri/building-a-recipe-sharing-application-3gc5)
+- [Your CMS Could Be Under Attack Right Now As I Write This — Here&#39;s How to Protect It](https://dev.to/okoye_ndidiamaka_5e3b7d30/your-cms-could-be-under-attack-right-now-as-i-write-this-heres-how-to-protect-it-2f3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
