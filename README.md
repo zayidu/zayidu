@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yemi_adeoye_e660cd663a281/-58b8)
-- [Check Out These 5 GitHub Repositories Now 🤯](https://dev.to/dev_kiran/check-out-these-5-github-repositories-now-3bpb)
-- [Богдан Новотарский 8](https://dev.to/bogdannovotarskij/boghdan-novotarskii-8-45bi)
-- [Create an API in .NET with MongoDB and Pagination](https://dev.to/adrianbailador/create-an-api-in-net-with-mongodb-and-pagination-3dhb)
-- [Богдан Новотарский 3](https://dev.to/bogdannovotarskij/boghdan-novotarskii-3-2ibg)
+- [Introduction to Loa v0.0.1-alpha: Release the first version](https://dev.to/lunastev/introduction-to-loa-v001-alpha-release-the-first-version-25bl)
+- [Js](https://dev.to/inaciobrwi/js-4c66)
+- [A Pitfall: Child Goroutines Causing Service Crashes](https://dev.to/akishichinibu/a-pitfall-child-goroutines-causing-service-crashes-403b)
+- [Façade Pattern](https://dev.to/tak089/facade-pattern-4d5p)
+- [Como escolher a melhor hospedagem de sites em 2025](https://dev.to/estudiowin/como-escolher-a-melhor-hospedagem-de-sites-em-2025-30e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
