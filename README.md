@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nirvana.AI - We Built a Personal OS for Your Mind](https://dev.to/arjuncodess/nirvanaai-we-built-a-personal-os-for-your-mind-26f)
-- [How to simply perform the difference set operation of a continuous interval ？](https://dev.to/esproc_spl/how-to-simply-perform-the-difference-set-operation-of-a-continuous-interval--4mik)
-- [Understanding Passport &amp; OAuth Authentication](https://dev.to/lakmal_asela_8be4eb30d9db/understanding-passport-oauth-authentication-4f8a)
-- [Implementing JWT Authentication in Spring Boot](https://dev.to/nishant_rathore_a4555652e/implementing-jwt-authentication-in-spring-boot-3dpk)
-- [How AI is Transforming Software Testing: From Manual to Mindful](https://dev.to/s_chathuranga_j/how-ai-is-transforming-software-testing-from-manual-to-mindful-1p49)
+- [Frontend letter to frontend lovers](https://dev.to/shreyvijayvargiya/frontend-letter-to-frontend-lovers-jnj)
+- [Day 148/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-148365-learning-full-stack-5794)
+- [Using &quot;Function as Children&quot; in React](https://dev.to/hasunnilupul/using-function-as-children-in-react-2hk7)
+- [How to Secure Your Node.js APIS](https://dev.to/gariglow/how-to-secure-your-nodejs-apis-3gn6)
+- [How to Become a SafeLine Reseller](https://dev.to/carrie_luo1/how-to-become-a-safeline-reseller-33o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
