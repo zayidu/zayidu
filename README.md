@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arbitrum Token Distribution: Pioneering Community-Driven DeFi Growth](https://dev.to/bobcars/arbitrum-token-distribution-pioneering-community-driven-defi-growth-3g0p)
-- [Learn About Database Architecture: The Full Guide](https://dev.to/mohammad1105/learn-about-database-architecture-the-full-guide-ecj)
-- [A Deep Dive into FormData and sendBeacon](https://dev.to/ayako_yk/a-deep-dive-into-formdata-and-sendbeacon-2909)
-- [From Flaky Tests to Security Threats: Where Quality Overlaps with Risk](https://dev.to/gopinath_kathiresan_2f4b2/from-flaky-tests-to-security-threats-where-quality-overlaps-with-risk-31a2)
-- [🐧 Linux Won’t Bite: A Windows User’s First Taste of Penguin Power](https://dev.to/rajpreet_gill_6272051bd31/linux-wont-bite-a-windows-users-first-taste-of-penguin-power-47bn)
+- [Internationalization in Next.js](https://dev.to/jakaria/internationalization-in-nextjs-1hoa)
+- [Unique In Order](https://dev.to/maddiepst/unique-in-order-570m)
+- [How to Manage Multiple GitHub Accounts Seamlessly](https://dev.to/rohantgeorge/how-to-manage-multiple-github-accounts-seamlessly-23m1)
+- [The Best AI Tools for Sales: Boost Your Revenue in 2025](https://dev.to/emtechbd/the-best-ai-tools-for-sales-boost-your-revenue-in-2025-4hjn)
+- [Task 6: Tuple](https://dev.to/pradeepmtm/task-6-tuple-1ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
