@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find and Extract All URLs from a Website Using Olostep Maps API and Streamlit](https://dev.to/mohammad_ehsanansari_671/how-to-find-and-extract-all-urls-from-a-website-using-olostep-maps-api-and-streamlit-1cbp)
-- [4th, save tester&#39;s behavior](https://dev.to/bruce_doctor_515422886dae/4th-save-testers-behavior-27i5)
-- [The Intersection of Blockchain, Diamond Tracking, and Counterfeiting: Bridging Transparency with Innovative Technologies](https://dev.to/bobcars/the-intersection-of-blockchain-diamond-tracking-and-counterfeiting-bridging-transparency-with-3048)
-- [Acerca de](https://dev.to/david_bermenvliz/acerca-de-1ca9)
-- [DashBot: 1v1 Space Robot Sprint Battle](https://dev.to/jianong/dashbot-1v1-space-robot-sprint-battle-1h1)
+- [How to Install 377 Ethical Hacking Tools in Termux with Tool-X](https://dev.to/terminaltools/how-to-install-377-ethical-hacking-tools-in-termux-with-tool-x-4l7g)
+- [Responsive navigation multilevel](https://dev.to/preetha_vaishnavi_2b82358/responsive-navigation-multilevel-37pd)
+- [My Game The Last Cluck Dungeon Crawler](https://dev.to/krishdevninja/my-game-the-last-cluck-dungeon-crawler-4d3p)
+- [WebGL Apple Cards](https://dev.to/preetha_vaishnavi_2b82358/webgl-apple-cards-47h)
+- [🚀 Seeking Feedback: &quot;Inside the Mind of AI — Exploring Artificial Emotions from Anger to Mercy&quot;](https://dev.to/ozee/seeking-feedback-inside-the-mind-of-ai-exploring-artificial-emotions-from-anger-to-mercy-2njf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
