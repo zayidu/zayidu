@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Dev Velocity: Modern Tooling &amp; DX in the Node.js Ecosystem](https://dev.to/codanyks/turbocharge-dev-velocity-modern-tooling-dx-in-the-nodejs-ecosystem-30fl)
-- [The Future of Terminals: How Warp is Redefining Command Line Interactions](https://dev.to/omriluz1/the-future-of-terminals-how-warp-is-redefining-command-line-interactions-199a)
-- [Web Scraping CloudFront Responsibly and Efficiently](https://dev.to/swiftproxy_residential/web-scraping-cloudfront-responsibly-and-efficiently-169)
-- [Building a Recipe-Sharing Application](https://dev.to/gakuruuri/building-a-recipe-sharing-application-3gc5)
-- [Your CMS Could Be Under Attack Right Now As I Write This — Here&#39;s How to Protect It](https://dev.to/okoye_ndidiamaka_5e3b7d30/your-cms-could-be-under-attack-right-now-as-i-write-this-heres-how-to-protect-it-2f3n)
+- [Hey I just made a game, please try it folks! ✌️](https://dev.to/async_dime/hey-i-just-made-a-game-please-try-it-folks-1okd)
+- [Create a password strength meter with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-a-password-strength-meter-with-tailwind-css-and-javascript-3da2)
+- [Client-Side SSR: Build a Component-Based Landing Page in 10 Minutes⏱️](https://dev.to/hmpljs/client-side-ssr-build-a-component-based-landing-page-in-10-minutes-2784)
+- [How I Would Learn Software Engineering If I Had to Start All Over Again in 2025](https://dev.to/akum_acha_2519d3ec8cd1514/how-i-would-learn-software-engineering-if-i-had-to-start-all-over-again-in-2025-hef)
+- [How to Forward CloudFlare IP to SafeLine WAF](https://dev.to/carrie_luo1/how-to-forward-cloudflare-ip-to-safeline-waf-n1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
