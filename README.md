@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Why Your AI is Stuck in a Memento Loop](https://dev.to/trustgraph/part-2-why-your-ai-is-stuck-in-a-memento-loop-ilf)
-- [The Power of Going Back to the Basics: Why I Learned Algebra as an Adult](https://dev.to/arcibyte/the-power-of-going-back-to-the-basics-why-i-learned-algebra-as-an-adult-18ld)
-- [A Beginner&#39;s Journey into Rust](https://dev.to/leapcell/a-beginners-journey-into-rust-5al8)
-- [Understand Spanning Tree Protocol &lpar;STP&rpar;](https://dev.to/h0ag/understand-spanning-tree-protocol-stp-23b8)
-- [Hospedagem gratuita: vale a Pena? vantagens e limitações explicadas](https://dev.to/estudiowin/hospedagem-gratuita-vale-a-pena-vantagens-e-limitacoes-explicadas-4g4l)
+- [Level Up Your Class Notes with AI Analysis](https://dev.to/researchwize/level-up-your-class-notes-with-ai-analysis-20ml)
+- [Arbitrum: Pioneering Open Source in Blockchain – A Deep Dive into Innovation and Community Impact](https://dev.to/jennythomas498/arbitrum-pioneering-open-source-in-blockchain-a-deep-dive-into-innovation-and-community-impact-24g1)
+- [Understanding .well-known URIs](https://dev.to/bharathvaj_ganesan/understanding-well-known-uris-45bh)
+- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
+- [Redes: pt. 4 - Gateway, ARP e roteamento](https://dev.to/mmsfarias/redes-pt-4-gateway-arp-e-roteamento-1j57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
