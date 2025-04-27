@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Applied Skills: Create DNS zones and configure DNS settings](https://dev.to/johnogbonna/azure-applied-skills-create-dns-zones-and-configure-dns-settings-48m)
-- [7 less common computer input devices](https://dev.to/maxpatiiuk/7-less-common-computer-input-devices-1bel)
-- [building a reactive library from](https://dev.to/jiang8823/building-a-reactive-library-from-471o)
-- [[Boost]](https://dev.to/akash029/-492g)
-- [🚀 Building Dynamic Parallel Workflows in Google ADK](https://dev.to/masahide/building-dynamic-parallel-workflows-in-google-adk-lmn)
+- [Nirvana.AI - We Built a Personal OS for Your Mind](https://dev.to/arjuncodess/nirvanaai-we-built-a-personal-os-for-your-mind-26f)
+- [How to simply perform the difference set operation of a continuous interval ？](https://dev.to/esproc_spl/how-to-simply-perform-the-difference-set-operation-of-a-continuous-interval--4mik)
+- [Understanding Passport &amp; OAuth Authentication](https://dev.to/lakmal_asela_8be4eb30d9db/understanding-passport-oauth-authentication-4f8a)
+- [Implementing JWT Authentication in Spring Boot](https://dev.to/nishant_rathore_a4555652e/implementing-jwt-authentication-in-spring-boot-3dpk)
+- [How AI is Transforming Software Testing: From Manual to Mindful](https://dev.to/s_chathuranga_j/how-ai-is-transforming-software-testing-from-manual-to-mindful-1p49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
