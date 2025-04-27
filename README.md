@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Design the Coat to Fit Your Taste&quot; — How a Strong SDLC Leads to Better Software Outcomes](https://dev.to/mwacharo6/design-the-coat-to-fit-your-taste-how-a-strong-sdlc-leads-to-better-software-outcomes-3md3)
-- [I Kinda Made The First Text-Adventure RPG Game 100% Powered by Procedural Generation](https://dev.to/miguelthedrmr/i-kinda-made-the-first-text-adventure-rpg-game-100-powered-by-procedural-generation-58kh)
-- [Implementing a Download Audio Job in Production: Best Practices and Lessons Learned](https://dev.to/mwacharo6/implementing-a-download-audio-job-in-production-best-practices-and-lessons-learned-5fbo)
-- [How to Set Up a CI/CD Pipeline with GitHub Actions in 15 Minutes 🚀](https://dev.to/yash_sonawane25/how-to-set-up-a-cicd-pipeline-with-github-actions-in-15-minutes-3d29)
-- [First Experience with an Open-Source Web Application Firewall – SafeLine](https://dev.to/carrie_luo1/first-experience-with-an-open-source-web-application-firewall-safeline-l8g)
+- [READY?](https://dev.to/machine/ready-51pg)
+- [Docker Compose Explained Like You&#39;re Five](https://dev.to/rajeshrenato/docker-compose-explained-like-youre-five-53cp)
+- [Flutter’da Card Kullanımı: Şık ve Basit Bir Başlangıç](https://dev.to/simalnigbolu/flutterda-card-kullanimi-sik-ve-basit-bir-baslangic-3kh1)
+- [Master Next.js in 60 Days: The Ultimate Day-by-Day Roadmap &lpar;With Ebook Guide&rpar;](https://dev.to/code_2/master-nextjs-in-60-days-the-ultimate-day-by-day-roadmap-with-ebook-guide-2d21)
+- [A Practical Guide to the cp &lpar;Copy&rpar; Command in Linux](https://dev.to/marzena_pugo_b8978575380f/a-practical-guide-to-the-cp-copy-command-in-linux-2c1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
