@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Internationalization in Next.js](https://dev.to/jakaria/internationalization-in-nextjs-1hoa)
-- [Unique In Order](https://dev.to/maddiepst/unique-in-order-570m)
-- [How to Manage Multiple GitHub Accounts Seamlessly](https://dev.to/rohantgeorge/how-to-manage-multiple-github-accounts-seamlessly-23m1)
-- [The Best AI Tools for Sales: Boost Your Revenue in 2025](https://dev.to/emtechbd/the-best-ai-tools-for-sales-boost-your-revenue-in-2025-4hjn)
-- [Task 6: Tuple](https://dev.to/pradeepmtm/task-6-tuple-1ag)
+- [Azure Applied Skills: Create DNS zones and configure DNS settings](https://dev.to/johnogbonna/azure-applied-skills-create-dns-zones-and-configure-dns-settings-48m)
+- [7 less common computer input devices](https://dev.to/maxpatiiuk/7-less-common-computer-input-devices-1bel)
+- [building a reactive library from](https://dev.to/jiang8823/building-a-reactive-library-from-471o)
+- [[Boost]](https://dev.to/akash029/-492g)
+- [🚀 Building Dynamic Parallel Workflows in Google ADK](https://dev.to/masahide/building-dynamic-parallel-workflows-in-google-adk-lmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
