@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Class Notes with AI Analysis](https://dev.to/researchwize/level-up-your-class-notes-with-ai-analysis-20ml)
-- [Arbitrum: Pioneering Open Source in Blockchain – A Deep Dive into Innovation and Community Impact](https://dev.to/jennythomas498/arbitrum-pioneering-open-source-in-blockchain-a-deep-dive-into-innovation-and-community-impact-24g1)
-- [Understanding .well-known URIs](https://dev.to/bharathvaj_ganesan/understanding-well-known-uris-45bh)
-- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
-- [Redes: pt. 4 - Gateway, ARP e roteamento](https://dev.to/mmsfarias/redes-pt-4-gateway-arp-e-roteamento-1j57)
+- [Arbitrum Token Distribution: Pioneering Community-Driven DeFi Growth](https://dev.to/bobcars/arbitrum-token-distribution-pioneering-community-driven-defi-growth-3g0p)
+- [Learn About Database Architecture: The Full Guide](https://dev.to/mohammad1105/learn-about-database-architecture-the-full-guide-ecj)
+- [A Deep Dive into FormData and sendBeacon](https://dev.to/ayako_yk/a-deep-dive-into-formdata-and-sendbeacon-2909)
+- [From Flaky Tests to Security Threats: Where Quality Overlaps with Risk](https://dev.to/gopinath_kathiresan_2f4b2/from-flaky-tests-to-security-threats-where-quality-overlaps-with-risk-31a2)
+- [🐧 Linux Won’t Bite: A Windows User’s First Taste of Penguin Power](https://dev.to/rajpreet_gill_6272051bd31/linux-wont-bite-a-windows-users-first-taste-of-penguin-power-47bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
