@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Funding and Innovation: Blockchain, Cybersecurity, &amp; Open Source – A Comprehensive Analysis](https://dev.to/jennythomas498/funding-and-innovation-blockchain-cybersecurity-open-source-a-comprehensive-analysis-2n6b)
-- [Leetcode - 114. Flatten Binary Tree to Linked List](https://dev.to/rakeshreddy512/leetcode-114-flatten-binary-tree-to-linked-list-2h2o)
-- [Building a Personal Diary App with React and Firebase: A Complete Journey.](https://dev.to/elvis24tech/building-a-personal-diary-app-with-react-and-firebase-a-complete-journey-2950)
-- [Mastering Dependency Injection in Spring Boot: Real-World Examples and Best Practices](https://dev.to/dhanush___b/mastering-dependency-injection-in-spring-boot-real-world-examples-and-best-practices-1dof)
-- [A Guide to Snapshot Testing React Native Components Using Jest](https://dev.to/biswasprasana001/a-guide-to-snapshot-testing-react-native-components-using-jest-3ci7)
+- [Data Mapper Pattern in Enterprise Application Architecture](https://dev.to/marioflores7/data-mapper-pattern-in-enterprise-application-architecture-4fg)
+- [20 Fullstack Project Ideas That Will Land You a Job in 2025](https://dev.to/code_2/20-fullstack-project-ideas-that-will-land-you-a-job-in-2025-3h35)
+- [Neo4j Tutorial: # 📚 Handling Neo4j Database Consistency Errors — With a Real-Life Example and Visuals](https://dev.to/mangesh28/neo4j-tutorial-handling-neo4j-database-consistency-errors-with-a-real-life-example-and-47b7)
+- [What’s your least favorite language?](https://dev.to/nerd1029/whats-your-least-favorite-language-mmd)
+- [Intl.RelativeTimeFormat for Custom Time Representations](https://dev.to/omriluz1/intlrelativetimeformat-for-custom-time-representations-hgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
