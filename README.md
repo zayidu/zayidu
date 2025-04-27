@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install 377 Ethical Hacking Tools in Termux with Tool-X](https://dev.to/terminaltools/how-to-install-377-ethical-hacking-tools-in-termux-with-tool-x-4l7g)
-- [Responsive navigation multilevel](https://dev.to/preetha_vaishnavi_2b82358/responsive-navigation-multilevel-37pd)
-- [My Game The Last Cluck Dungeon Crawler](https://dev.to/krishdevninja/my-game-the-last-cluck-dungeon-crawler-4d3p)
-- [WebGL Apple Cards](https://dev.to/preetha_vaishnavi_2b82358/webgl-apple-cards-47h)
-- [🚀 Seeking Feedback: &quot;Inside the Mind of AI — Exploring Artificial Emotions from Anger to Mercy&quot;](https://dev.to/ozee/seeking-feedback-inside-the-mind-of-ai-exploring-artificial-emotions-from-anger-to-mercy-2njf)
+- [[Boost]](https://dev.to/yemi_adeoye_e660cd663a281/-58b8)
+- [Check Out These 5 GitHub Repositories Now 🤯](https://dev.to/dev_kiran/check-out-these-5-github-repositories-now-3bpb)
+- [Богдан Новотарский 8](https://dev.to/bogdannovotarskij/boghdan-novotarskii-8-45bi)
+- [Create an API in .NET with MongoDB and Pagination](https://dev.to/adrianbailador/create-an-api-in-net-with-mongodb-and-pagination-3dhb)
+- [Богдан Новотарский 3](https://dev.to/bogdannovotarskij/boghdan-novotarskii-3-2ibg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
