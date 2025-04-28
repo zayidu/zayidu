@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Code Behind the Perfect Chicken Burger: A Programmer’s Guide to Cooking and Coding](https://dev.to/burgeroclock/the-code-behind-the-perfect-chicken-burger-a-programmers-guide-to-cooking-and-coding-1dae)
-- [# Créer un Système de Connexion &amp; Inscription Sécurisé avec PHP, MySQL et Bootstrap](https://dev.to/mostafa_gourmane_c4fbf964/-creer-un-systeme-de-connexion-inscription-securise-avec-php-mysql-et-bootstrap-3b65)
-- [Weather Monitoring System Using IoT](https://dev.to/vayuyaan/weather-monitoring-system-using-iot-3e3e)
-- [Hi EVERYONE](https://dev.to/axonscript/hi-everyone-4m83)
-- [Implementing End-to-End Data Encryption and Data Masking in MongoDB On-Premises with Node.js](https://dev.to/devaaai/implementing-end-to-end-data-encryption-and-data-masking-in-mongodb-on-premises-with-nodejs-bko)
+- [[Software] Choice Architect, have you heart about it?](https://dev.to/getjv/software-choice-architect-have-you-heart-about-it-5cof)
+- [Setting up the Pinecone MCP server in your IDE](https://dev.to/jennapederson/setting-up-the-pinecone-mcp-server-in-your-ide-8mi)
+- [5 Productivity Hacks to Supercharge Your Workflow](https://dev.to/nishant_rathore_a4555652e/5-productivity-hacks-to-supercharge-your-workflow-f43)
+- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-5fgb)
+- [Building IoT Pipelines for Faster Analytics With IoT Core](https://dev.to/timescale/building-iot-pipelines-for-faster-analytics-with-iot-core-26n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
