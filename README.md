@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Excel MONTH Function?](https://dev.to/excel24x7/how-to-use-excel-month-function-1ljc)
-- [How I Built FSMvid &lpar;With a Little Help From Cursor and Next.js&rpar;](https://dev.to/ahmed_mostafa_eg/how-i-built-fsmvid-with-a-little-help-from-cursor-and-nextjs-450k)
-- [Metabase 54: Table visualization improvements, smarter custom expression editor, better alerts, and more](https://dev.to/metabase/metabase-54-table-visualization-improvements-smarter-custom-expression-editor-better-alerts-and-2h29)
-- [Why React Components Must Return a Single Root Element](https://dev.to/itspedram/why-react-components-must-return-a-single-root-element-354b)
-- [Docker: The Developer’s Secret Weapon for Conquering Chaos](https://dev.to/anupam_kumar/-docker-the-developers-secret-weapon-for-conquering-chaos-llm)
+- [Oracle Cloud HCM 25B Release: What&#39;s New?](https://dev.to/johnste39558689/oracle-cloud-hcm-25b-release-whats-new-47ic)
+- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗔𝘁𝗼𝗺𝗶𝗰 𝗛𝗮𝗯𝗶𝘁𝘀: 𝗦𝗺𝗮𝗹𝗹 𝗖𝗵𝗮𝗻𝗴𝗲𝘀, 𝗕𝗶𝗴 𝗥𝗲𝘀𝘂𝗹𝘁𝘀!](https://dev.to/supraja_tangella_b7f0738e/--onb)
+- [Think Bigger. Manage Smarter. Choose ERP](https://dev.to/bhavesh_gangani_/think-bigger-manage-smarter-choose-erp-2049)
+- [Flotiq vs Hygraph: Headless CMS Guide 2025](https://dev.to/flotiq/flotiq-vs-hygraph-headless-cms-guide-2025-1o5)
+- [Control the Flow: Building Dynamic Workflows with Orkes Operators](https://dev.to/orkes/control-the-flow-building-dynamic-workflows-with-orkes-operators-2fo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
