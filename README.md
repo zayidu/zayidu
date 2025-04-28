@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nextjs](https://dev.to/seyma/nextjs-2pj0)
-- [[Boost]](https://dev.to/seyma/-247b)
-- [Drum Machine.](https://dev.to/syedhammas/drum-machine-1c6i)
-- [Meme Monday](https://dev.to/ben/meme-monday-1l21)
-- [The first open-source AI Agent for OLX.](https://dev.to/abdibrokhim/the-first-open-source-ai-agent-for-olx-35ia)
+- [The Code Behind the Perfect Chicken Burger: A Programmer’s Guide to Cooking and Coding](https://dev.to/burgeroclock/the-code-behind-the-perfect-chicken-burger-a-programmers-guide-to-cooking-and-coding-1dae)
+- [# Créer un Système de Connexion &amp; Inscription Sécurisé avec PHP, MySQL et Bootstrap](https://dev.to/mostafa_gourmane_c4fbf964/-creer-un-systeme-de-connexion-inscription-securise-avec-php-mysql-et-bootstrap-3b65)
+- [Weather Monitoring System Using IoT](https://dev.to/vayuyaan/weather-monitoring-system-using-iot-3e3e)
+- [Hi EVERYONE](https://dev.to/axonscript/hi-everyone-4m83)
+- [Implementing End-to-End Data Encryption and Data Masking in MongoDB On-Premises with Node.js](https://dev.to/devaaai/implementing-end-to-end-data-encryption-and-data-masking-in-mongodb-on-premises-with-nodejs-bko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
