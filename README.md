@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Software] Choice Architect, have you heart about it?](https://dev.to/getjv/software-choice-architect-have-you-heart-about-it-5cof)
-- [Setting up the Pinecone MCP server in your IDE](https://dev.to/jennapederson/setting-up-the-pinecone-mcp-server-in-your-ide-8mi)
-- [5 Productivity Hacks to Supercharge Your Workflow](https://dev.to/nishant_rathore_a4555652e/5-productivity-hacks-to-supercharge-your-workflow-f43)
-- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-5fgb)
-- [Building IoT Pipelines for Faster Analytics With IoT Core](https://dev.to/timescale/building-iot-pipelines-for-faster-analytics-with-iot-core-26n2)
+- [Catalysis: The Future of Blockchain Restaking — Can It Scale, and Who Will Join the Revolution?](https://dev.to/scofieldidehen/catalysis-the-future-of-blockchain-restaking-can-it-scale-and-who-will-join-the-revolution-5ana)
+- [Top AWS Certifications For Developers in 2025](https://dev.to/skillboosttrainer/top-aws-certifications-for-developers-in-2025-ihg)
+- [Blockchain&#39;s Impact on Sports Management: Revolutionizing Transparency, Engagement, and Efficiency](https://dev.to/bobcars/blockchains-impact-on-sports-management-revolutionizing-transparency-engagement-and-efficiency-551i)
+- [Fractality on Mereology of Internet](https://dev.to/cyrus_zargaani_6a19e0c497/fractality-on-mereology-og-internet-184a)
+- [How to Implement Serializable Snapshot Isolation for Transactions](https://dev.to/justlorain/how-to-implement-serializable-snapshot-isolation-for-transactions-4j38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
