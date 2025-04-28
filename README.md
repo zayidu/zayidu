@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-ia0)
-- [build image in docker](https://dev.to/sfathim_nisha_syedabut/build-image-in-docker-2agp)
-- [Exportar Connections do Developer Para o Visual Code](https://dev.to/devkaiqueramos_133321f65e/exportar-connections-do-developer-para-o-visual-code-2m12)
-- [advanced git commands](https://dev.to/sfathim_nisha_syedabut/advanced-git-commands-36ah)
-- [Build a rich text editor with Angular + NgxTraak](https://dev.to/mouhamadalmounayar/build-a-rich-text-editor-with-angular-ngxtraak-1agk)
+- [PerformanceObserver API for Resource Tracking](https://dev.to/omriluz1/performanceobserver-api-for-resource-tracking-467p)
+- [Apendicectomia: Entenda os Sintomas e o Processo de Recuperação](https://dev.to/breadclam40/apendicectomia-entenda-os-sintomas-e-o-processo-de-recuperacao-12bn)
+- [Encrypting and Decrypting a .txt File Using Python’s Cryptography Library | by Faruk Ahmed](https://dev.to/cyberwebpen/encrypting-and-decrypting-a-txt-file-using-pythons-cryptography-library-by-faruk-ahmed-ld2)
+- [Embracing the Unknown: How I Turned Challenges into Opportunities in the Tech World | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/embracing-the-unknown-how-i-turned-challenges-into-opportunities-in-the-tech-world-by-faruk-3b88)
+- [7 Bash Mistakes I Made That Cost Me Time &lpar;And How to Avoid Them&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/7-bash-mistakes-i-made-that-cost-me-time-and-how-to-avoid-them-by-faruk-ahmed-apr-2025-2obg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
