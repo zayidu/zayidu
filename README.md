@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Need a Status Page Before You Need a Status Page](https://dev.to/therealfloatdev/why-you-need-a-status-page-before-you-need-a-status-page-1m1m)
-- [Luminária de Sobrepor LED Atacado: Ilumine Seus Espaços com Economia](https://dev.to/butanegender6/luminaria-de-sobrepor-led-atacado-ilumine-seus-espacos-com-economia-3o7j)
-- [Web Development Week 1](https://dev.to/upinar/web-development-week-1-41md)
-- [Como calcular o consumo de energia com LED e economizar na conta](https://dev.to/puffinbrandy5/como-calcular-o-consumo-de-energia-com-led-e-economizar-na-conta-3nej)
-- [Why I Chose RHEL 9 to Deepen My Cloud Engineering Skills...](https://dev.to/dtemi/why-i-chose-rhel-9-to-deepen-my-cloud-engineering-skills-33e5)
+- [Création d&#39;un système d&#39;authentification sécurisé en utilisant: php , sql , js](https://dev.to/loufi__yt_2b361de6191c9c0/creation-dun-systeme-dauthentification-securise-en-utilisant-php-sql-js-10gb)
+- [InsightFlow Part 2: Setting Up the Cloud Infrastructure with Terraform](https://dev.to/pizofreude/insightflow-part-2-setting-up-the-cloud-infrastructure-with-terraform-368k)
+- [Leveraging our cutting-edge work on node dominating sets, we present an efficient 2-approximation algorithm for edge dominating sets in sparse graphs—delivering practical solutions for this NP-hard challenge. Ready to use: https://pypi.org/project/loynaz/](https://dev.to/frank_vega_987689489099bf/leveraging-our-cutting-edge-work-on-node-dominating-sets-we-present-an-efficient-2-approximation-1368)
+- [How I Went From Googling “What Is Solidity?” to Writing Smart Contracts for Fun](https://dev.to/mehulimukherjee/how-i-went-from-googling-what-is-solidity-to-writing-smart-contracts-for-fun-3a3g)
+- [🚀 Building an AI-Powered Resume Tailoring Platform with Next.js, FastAPI, and OpenAI](https://dev.to/thakkarrajan/building-an-ai-powered-resume-tailoring-platform-with-nextjs-fastapi-and-openai-3lmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
