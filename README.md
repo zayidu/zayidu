@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Have AI Design Tools for Every Creative in 2025](https://dev.to/lollypopdesign/10-must-have-ai-design-tools-for-every-creative-in-2025-1l70)
-- [My Journey of Growth: Wins, Lessons &amp; Challenges](https://dev.to/mritunjay_tiwari_c043f513/my-journey-of-growth-wins-lessons-challenges-80j)
-- [Neuromorphic Computing: Brain-Inspired Tech You Should Know About](https://dev.to/ayush_rai_3a4bf2876ad190f/neuromorphic-computing-brain-inspired-tech-you-should-know-about-1a11)
-- [Unleashing Blockchain in Gaming: Revolutionizing Digital Ownership and Play-to-Earn Economies](https://dev.to/zhangwei42/unleashing-blockchain-in-gaming-revolutionizing-digital-ownership-and-play-to-earn-economies-m5c)
-- [[Boost]](https://dev.to/osiris8/-30jc)
+- [🚀 40 React Interview Questions Top Tech Companies Are Asking in 2025 🔥](https://dev.to/finalroundai/40-react-interview-questions-top-tech-companies-are-asking-in-2025-26op)
+- [Oasis Network Launches Secure Random Number Generation for Smart Contracts](https://dev.to/rollingindo/oasis-network-launches-secure-random-number-generation-for-smart-contracts-10p4)
+- [MCP: Is It Really Worth Its Hype?](https://dev.to/amanjotsingh/mcp-is-it-really-worth-its-hype-1eo1)
+- [Taking 3D Photo and Adding Interests on 360 Parts in Flutter](https://dev.to/sarvadhiabhishek/taking-3d-photo-and-adding-interests-on-360deg-parts-in-flutter-1ell)
+- [Go for Sort: Part 1 - Exploring the Fundamentals and Implementing Insertion Sort](https://dev.to/alikawp/go-for-sort-part-1-exploring-the-fundamentals-and-implementing-insertion-sort-2go5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
