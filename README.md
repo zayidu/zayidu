@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a Minimalist File Upload API with Node.js and Express](https://dev.to/sung_jinwoo_ae9a810f8c46a/crafting-a-minimalist-file-upload-api-with-nodejs-and-express-1dob)
-- [Quark’s Outlines: Python Operators](https://dev.to/mike-vincent/quarks-outlines-python-operators-228n)
-- [[Boost]](https://dev.to/thecrucial/-4pnk)
-- [Traço de Caráter Rígido: Impactos nas Relações Sociais e Pessoais](https://dev.to/pessoadesigner661sigma/traco-de-carater-rigido-impactos-nas-relacoes-sociais-e-pessoais-3ja8)
-- [JavaScript Conditional Statements](https://dev.to/code_2/javascript-conditional-statements-540a)
+- [Enhanced debugging for Stimulus](https://dev.to/railsdesigner/enhanced-debugging-for-stimulus-1c4m)
+- [Sabes que hacer?](https://dev.to/laura_suero16/sabes-que-hacer-1c08)
+- [Top 6 Cloud Data Migration Mistakes and How to Avoid Them](https://dev.to/mehul_budasana/top-6-cloud-data-migration-mistakes-and-how-to-avoid-them-5ap7)
+- [Understanding Gray Hat Hackers: Definition, Techniques, and Implications](https://dev.to/terminaltools/understanding-gray-hat-hackers-definition-techniques-and-implications-ki5)
+- [AYUDA!!!](https://dev.to/laura_suero16/ayuda-1e21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
