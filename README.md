@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 40 React Interview Questions Top Tech Companies Are Asking in 2025 🔥](https://dev.to/finalroundai/40-react-interview-questions-top-tech-companies-are-asking-in-2025-26op)
-- [Oasis Network Launches Secure Random Number Generation for Smart Contracts](https://dev.to/rollingindo/oasis-network-launches-secure-random-number-generation-for-smart-contracts-10p4)
-- [MCP: Is It Really Worth Its Hype?](https://dev.to/amanjotsingh/mcp-is-it-really-worth-its-hype-1eo1)
-- [Taking 3D Photo and Adding Interests on 360 Parts in Flutter](https://dev.to/sarvadhiabhishek/taking-3d-photo-and-adding-interests-on-360deg-parts-in-flutter-1ell)
-- [Go for Sort: Part 1 - Exploring the Fundamentals and Implementing Insertion Sort](https://dev.to/alikawp/go-for-sort-part-1-exploring-the-fundamentals-and-implementing-insertion-sort-2go5)
+- [Protect Yourself from Ransomware: Tips, Types, and Recovery Steps](https://dev.to/terminaltools/protect-yourself-from-ransomware-tips-types-and-recovery-steps-2jjl)
+- [How to Set Up a Free Oracle Cloud VM for Web Development &lpar;2025 Guide&rpar;](https://dev.to/nexo-tech/how-to-set-up-a-free-oracle-cloud-vm-for-web-development-2025-guide-8hm)
+- [Contracting útmutató fejlesztőknek - A független szakértői lét mélyreható elemzése](https://dev.to/balazsrefi/contracting-utmutato-fejlesztoknek-a-fuggetlen-szakertoi-let-melyrehato-elemzese-28cj)
+- [What is Adware? Understanding Its Impact and How to Protect Yourself](https://dev.to/terminaltools/what-is-adware-understanding-its-impact-and-how-to-protect-yourself-2ikm)
+- [enum-plus: A Drop-in Replacement for TypeScript enum](https://dev.to/shijistar/enum-plus-a-drop-in-replacement-for-native-enum-3a4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
