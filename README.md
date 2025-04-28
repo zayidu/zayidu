@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Cybersecurity Companies: How They Keep You Safe Online](https://dev.to/terminaltools/top-cybersecurity-companies-how-they-keep-you-safe-online-3fek)
-- [From Chaos to Clarity: Organize Research with Project Folders](https://dev.to/researchwize/from-chaos-to-clarity-organize-research-with-project-folders-2k4l)
-- [Leveling Up — Linux Commands You’ll Actually Use](https://dev.to/xane_xahid/leveling-up-linux-commands-youll-actually-use-37kf)
-- [From Idea to 1,000+ Stars: How Laravel Workflow Took Off](https://dev.to/rmcdaniel/from-idea-to-1000-stars-how-laravel-workflow-took-off-bb)
-- [JavaScript Best Practices for Beginners](https://dev.to/media_geneous_bb80d6b5563/javascript-best-practices-for-beginners-jfb)
+- [🚀 Deploy Your Project to GitHub Pages Using gh-pages](https://dev.to/rohantgeorge/deploy-your-project-to-github-pages-using-gh-pages-1dlh)
+- [What Are the Best Practices for Writing Dockerfiles?](https://dev.to/puratabla/what-are-the-best-practices-for-writing-dockerfiles-17ec)
+- [MidJourney Mastery: Create Beautiful AI Art – A Deep Technical and Coding Approach](https://dev.to/kimberegon/midjourney-mastery-create-beautiful-ai-art-a-deep-technical-and-coding-approach-470e)
+- [Debugging BLE macros on Nature Remo was such an ordeal that I built a Swift development environment](https://dev.to/kuniwak/debugging-ble-macros-on-nature-remo-was-such-an-ordeal-that-i-built-a-swift-development-environment-g9e)
+- [What Is Docker in Simple Terms in 2025?](https://dev.to/nigelsilonero/what-is-docker-in-simple-terms-in-2025-154b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
