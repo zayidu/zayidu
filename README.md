@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Yourself from Ransomware: Tips, Types, and Recovery Steps](https://dev.to/terminaltools/protect-yourself-from-ransomware-tips-types-and-recovery-steps-2jjl)
-- [How to Set Up a Free Oracle Cloud VM for Web Development &lpar;2025 Guide&rpar;](https://dev.to/nexo-tech/how-to-set-up-a-free-oracle-cloud-vm-for-web-development-2025-guide-8hm)
-- [Contracting útmutató fejlesztőknek - A független szakértői lét mélyreható elemzése](https://dev.to/balazsrefi/contracting-utmutato-fejlesztoknek-a-fuggetlen-szakertoi-let-melyrehato-elemzese-28cj)
-- [What is Adware? Understanding Its Impact and How to Protect Yourself](https://dev.to/terminaltools/what-is-adware-understanding-its-impact-and-how-to-protect-yourself-2ikm)
-- [enum-plus: A Drop-in Replacement for TypeScript enum](https://dev.to/shijistar/enum-plus-a-drop-in-replacement-for-native-enum-3a4m)
+- [3 Powerful Ways to Write Shorter, Cleaner, and Better Code](https://dev.to/neil_brown_4c355cb16f17f2/3-powerful-ways-to-write-shorter-cleaner-and-better-code-35if)
+- [Complete Guide to Cloud Security Services for Businesses](https://dev.to/ittstar_consulting/complete-guide-to-cloud-security-services-for-businesses-28ik)
+- [.ignore File Usage in Code Editors](https://dev.to/gokayburuc/ignore-file-usage-in-code-editors-5950)
+- [Ways to Reduce Tech Infrastructure Carbon Footprint](https://dev.to/ayush_rai_3a4bf2876ad190f/ways-to-reduce-tech-infrastructure-carbon-footprint-4230)
+- [Scaling Your Node.js App with PM2: Cluster Mode vs Fork Mode](https://dev.to/smit-vaghasiya/scaling-your-nodejs-app-with-pm2-cluster-mode-vs-fork-mode-3bo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
