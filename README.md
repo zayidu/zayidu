@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PerformanceObserver API for Resource Tracking](https://dev.to/omriluz1/performanceobserver-api-for-resource-tracking-467p)
-- [Apendicectomia: Entenda os Sintomas e o Processo de Recuperação](https://dev.to/breadclam40/apendicectomia-entenda-os-sintomas-e-o-processo-de-recuperacao-12bn)
-- [Encrypting and Decrypting a .txt File Using Python’s Cryptography Library | by Faruk Ahmed](https://dev.to/cyberwebpen/encrypting-and-decrypting-a-txt-file-using-pythons-cryptography-library-by-faruk-ahmed-ld2)
-- [Embracing the Unknown: How I Turned Challenges into Opportunities in the Tech World | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/embracing-the-unknown-how-i-turned-challenges-into-opportunities-in-the-tech-world-by-faruk-3b88)
-- [7 Bash Mistakes I Made That Cost Me Time &lpar;And How to Avoid Them&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/7-bash-mistakes-i-made-that-cost-me-time-and-how-to-avoid-them-by-faruk-ahmed-apr-2025-2obg)
+- [Dependencies for developing Spring boot application](https://dev.to/ramya_kamalasekaran/dependencies-for-developing-spring-boot-application-lng)
+- [Weather display based on the city using springboot and Rest API](https://dev.to/ramya_kamalasekaran/weather-display-based-on-the-city-using-springboot-and-rest-api-2ano)
+- [Git User Switching Script Setup Guide](https://dev.to/devops-boy/git-user-switching-script-setup-guide-41cn)
+- [The Beauty of Ruby and Trees](https://dev.to/offjeff91/the-beauty-of-ruby-and-trees-1lg1)
+- [Sistemas de Alarme Digital: Proteção Inteligente para Seu Lar](https://dev.to/clamturtle85/sistemas-de-alarme-digital-protecao-inteligente-para-seu-lar-3a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
