@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Powerful Ways to Write Shorter, Cleaner, and Better Code](https://dev.to/neil_brown_4c355cb16f17f2/3-powerful-ways-to-write-shorter-cleaner-and-better-code-35if)
-- [Complete Guide to Cloud Security Services for Businesses](https://dev.to/ittstar_consulting/complete-guide-to-cloud-security-services-for-businesses-28ik)
-- [.ignore File Usage in Code Editors](https://dev.to/gokayburuc/ignore-file-usage-in-code-editors-5950)
-- [Ways to Reduce Tech Infrastructure Carbon Footprint](https://dev.to/ayush_rai_3a4bf2876ad190f/ways-to-reduce-tech-infrastructure-carbon-footprint-4230)
-- [Scaling Your Node.js App with PM2: Cluster Mode vs Fork Mode](https://dev.to/smit-vaghasiya/scaling-your-nodejs-app-with-pm2-cluster-mode-vs-fork-mode-3bo9)
+- [How to Use Excel MONTH Function?](https://dev.to/excel24x7/how-to-use-excel-month-function-1ljc)
+- [How I Built FSMvid &lpar;With a Little Help From Cursor and Next.js&rpar;](https://dev.to/ahmed_mostafa_eg/how-i-built-fsmvid-with-a-little-help-from-cursor-and-nextjs-450k)
+- [Metabase 54: Table visualization improvements, smarter custom expression editor, better alerts, and more](https://dev.to/metabase/metabase-54-table-visualization-improvements-smarter-custom-expression-editor-better-alerts-and-2h29)
+- [Why React Components Must Return a Single Root Element](https://dev.to/itspedram/why-react-components-must-return-a-single-root-element-354b)
+- [Docker: The Developer’s Secret Weapon for Conquering Chaos](https://dev.to/anupam_kumar/-docker-the-developers-secret-weapon-for-conquering-chaos-llm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
