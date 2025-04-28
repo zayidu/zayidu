@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IOT: Log File Collection with Fluent Bit](https://dev.to/admantium/iot-log-file-collection-with-fluent-bit-2k5j)
-- [Bot Blitz: Host Your HTML5 Game on Alibaba Cloud OSS](https://dev.to/ion_finisher/bot-blitz-host-your-html5-game-on-alibaba-cloud-oss-245g)
-- [FileViewerModal component in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/fileviewermodal-component-in-suna-an-open-source-generalist-ai-agent-49mj)
-- [Solving the Navier-Stokes Equation with Physics-Informed Neural Networks: A New Frontier in CFD](https://dev.to/darkstalker/solving-the-navier-stokes-equation-with-physics-informed-neural-networks-a-new-frontier-in-cfd-4hia)
-- [Refinement: The Correct Way To Monkey-Patch in Ruby](https://dev.to/reinteractive/refinement-the-correct-way-to-monkey-patch-in-ruby-1icl)
+- [[Boost]](https://dev.to/aryan_panwala/-42n8)
+- [[Boost]](https://dev.to/pranesh_patel/-7kn)
+- [How to - Convert HTML Table to JSON Power Automate](https://dev.to/wyattdave/how-to-convert-html-table-to-json-power-automate-5gmp)
+- [Measuring Developer Productivity: Metrics That Matter and Not matter detail, guide](https://dev.to/pratham_naik_project_manager/measuring-developer-productivity-metrics-that-matter-and-not-matter-detail-guide-1f95)
+- [How to Fix &quot;MySQL Unexpected Shutdown&quot; in XAMPP &lpar;Easy Step-by-Step Guide&rpar;](https://dev.to/chaitanyarai3/how-to-fix-mysql-unexpected-shutdown-in-xampp-easy-step-by-step-guide-m7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
