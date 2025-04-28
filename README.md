@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Catalysis: The Future of Blockchain Restaking — Can It Scale, and Who Will Join the Revolution?](https://dev.to/scofieldidehen/catalysis-the-future-of-blockchain-restaking-can-it-scale-and-who-will-join-the-revolution-5ana)
-- [Top AWS Certifications For Developers in 2025](https://dev.to/skillboosttrainer/top-aws-certifications-for-developers-in-2025-ihg)
-- [Blockchain&#39;s Impact on Sports Management: Revolutionizing Transparency, Engagement, and Efficiency](https://dev.to/bobcars/blockchains-impact-on-sports-management-revolutionizing-transparency-engagement-and-efficiency-551i)
-- [Fractality on Mereology of Internet](https://dev.to/cyrus_zargaani_6a19e0c497/fractality-on-mereology-og-internet-184a)
-- [How to Implement Serializable Snapshot Isolation for Transactions](https://dev.to/justlorain/how-to-implement-serializable-snapshot-isolation-for-transactions-4j38)
+- [Crafting a Minimalist File Upload API with Node.js and Express](https://dev.to/sung_jinwoo_ae9a810f8c46a/crafting-a-minimalist-file-upload-api-with-nodejs-and-express-1dob)
+- [Quark’s Outlines: Python Operators](https://dev.to/mike-vincent/quarks-outlines-python-operators-228n)
+- [[Boost]](https://dev.to/thecrucial/-4pnk)
+- [Traço de Caráter Rígido: Impactos nas Relações Sociais e Pessoais](https://dev.to/pessoadesigner661sigma/traco-de-carater-rigido-impactos-nas-relacoes-sociais-e-pessoais-3ja8)
+- [JavaScript Conditional Statements](https://dev.to/code_2/javascript-conditional-statements-540a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
