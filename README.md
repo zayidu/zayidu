@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/aryan_panwala/-42n8)
-- [[Boost]](https://dev.to/pranesh_patel/-7kn)
-- [How to - Convert HTML Table to JSON Power Automate](https://dev.to/wyattdave/how-to-convert-html-table-to-json-power-automate-5gmp)
-- [Measuring Developer Productivity: Metrics That Matter and Not matter detail, guide](https://dev.to/pratham_naik_project_manager/measuring-developer-productivity-metrics-that-matter-and-not-matter-detail-guide-1f95)
-- [How to Fix &quot;MySQL Unexpected Shutdown&quot; in XAMPP &lpar;Easy Step-by-Step Guide&rpar;](https://dev.to/chaitanyarai3/how-to-fix-mysql-unexpected-shutdown-in-xampp-easy-step-by-step-guide-m7c)
+- [10 Must-Have AI Design Tools for Every Creative in 2025](https://dev.to/lollypopdesign/10-must-have-ai-design-tools-for-every-creative-in-2025-1l70)
+- [My Journey of Growth: Wins, Lessons &amp; Challenges](https://dev.to/mritunjay_tiwari_c043f513/my-journey-of-growth-wins-lessons-challenges-80j)
+- [Neuromorphic Computing: Brain-Inspired Tech You Should Know About](https://dev.to/ayush_rai_3a4bf2876ad190f/neuromorphic-computing-brain-inspired-tech-you-should-know-about-1a11)
+- [Unleashing Blockchain in Gaming: Revolutionizing Digital Ownership and Play-to-Earn Economies](https://dev.to/zhangwei42/unleashing-blockchain-in-gaming-revolutionizing-digital-ownership-and-play-to-earn-economies-m5c)
+- [[Boost]](https://dev.to/osiris8/-30jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
