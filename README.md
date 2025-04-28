@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependencies for developing Spring boot application](https://dev.to/ramya_kamalasekaran/dependencies-for-developing-spring-boot-application-lng)
-- [Weather display based on the city using springboot and Rest API](https://dev.to/ramya_kamalasekaran/weather-display-based-on-the-city-using-springboot-and-rest-api-2ano)
-- [Git User Switching Script Setup Guide](https://dev.to/devops-boy/git-user-switching-script-setup-guide-41cn)
-- [The Beauty of Ruby and Trees](https://dev.to/offjeff91/the-beauty-of-ruby-and-trees-1lg1)
-- [Sistemas de Alarme Digital: Proteção Inteligente para Seu Lar](https://dev.to/clamturtle85/sistemas-de-alarme-digital-protecao-inteligente-para-seu-lar-3a7)
+- [Why You Need a Status Page Before You Need a Status Page](https://dev.to/therealfloatdev/why-you-need-a-status-page-before-you-need-a-status-page-1m1m)
+- [Luminária de Sobrepor LED Atacado: Ilumine Seus Espaços com Economia](https://dev.to/butanegender6/luminaria-de-sobrepor-led-atacado-ilumine-seus-espacos-com-economia-3o7j)
+- [Web Development Week 1](https://dev.to/upinar/web-development-week-1-41md)
+- [Como calcular o consumo de energia com LED e economizar na conta](https://dev.to/puffinbrandy5/como-calcular-o-consumo-de-energia-com-led-e-economizar-na-conta-3nej)
+- [Why I Chose RHEL 9 to Deepen My Cloud Engineering Skills...](https://dev.to/dtemi/why-i-chose-rhel-9-to-deepen-my-cloud-engineering-skills-33e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
