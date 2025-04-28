@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Cloud HCM 25B Release: What&#39;s New?](https://dev.to/johnste39558689/oracle-cloud-hcm-25b-release-whats-new-47ic)
-- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗔𝘁𝗼𝗺𝗶𝗰 𝗛𝗮𝗯𝗶𝘁𝘀: 𝗦𝗺𝗮𝗹𝗹 𝗖𝗵𝗮𝗻𝗴𝗲𝘀, 𝗕𝗶𝗴 𝗥𝗲𝘀𝘂𝗹𝘁𝘀!](https://dev.to/supraja_tangella_b7f0738e/--onb)
-- [Think Bigger. Manage Smarter. Choose ERP](https://dev.to/bhavesh_gangani_/think-bigger-manage-smarter-choose-erp-2049)
-- [Flotiq vs Hygraph: Headless CMS Guide 2025](https://dev.to/flotiq/flotiq-vs-hygraph-headless-cms-guide-2025-1o5)
-- [Control the Flow: Building Dynamic Workflows with Orkes Operators](https://dev.to/orkes/control-the-flow-building-dynamic-workflows-with-orkes-operators-2fo9)
+- [Nextjs](https://dev.to/seyma/nextjs-2pj0)
+- [[Boost]](https://dev.to/seyma/-247b)
+- [Drum Machine.](https://dev.to/syedhammas/drum-machine-1c6i)
+- [Meme Monday](https://dev.to/ben/meme-monday-1l21)
+- [The first open-source AI Agent for OLX.](https://dev.to/abdibrokhim/the-first-open-source-ai-agent-for-olx-35ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
