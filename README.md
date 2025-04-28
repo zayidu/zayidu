@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced debugging for Stimulus](https://dev.to/railsdesigner/enhanced-debugging-for-stimulus-1c4m)
-- [Sabes que hacer?](https://dev.to/laura_suero16/sabes-que-hacer-1c08)
-- [Top 6 Cloud Data Migration Mistakes and How to Avoid Them](https://dev.to/mehul_budasana/top-6-cloud-data-migration-mistakes-and-how-to-avoid-them-5ap7)
-- [Understanding Gray Hat Hackers: Definition, Techniques, and Implications](https://dev.to/terminaltools/understanding-gray-hat-hackers-definition-techniques-and-implications-ki5)
-- [AYUDA!!!](https://dev.to/laura_suero16/ayuda-1e21)
+- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-ia0)
+- [build image in docker](https://dev.to/sfathim_nisha_syedabut/build-image-in-docker-2agp)
+- [Exportar Connections do Developer Para o Visual Code](https://dev.to/devkaiqueramos_133321f65e/exportar-connections-do-developer-para-o-visual-code-2m12)
+- [advanced git commands](https://dev.to/sfathim_nisha_syedabut/advanced-git-commands-36ah)
+- [Build a rich text editor with Angular + NgxTraak](https://dev.to/mouhamadalmounayar/build-a-rich-text-editor-with-angular-ngxtraak-1agk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
