@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL vs NoSQL: Choosing the Right Database for Your Needs](https://dev.to/james_kariuki/sql-vs-nosql-choosing-the-right-database-for-your-needs-1pkh)
-- [Fixing Garbled Text When Syncing Oracle to Doris with SeaTunnel 2.3.9](https://dev.to/seatunnel/fixing-garbled-text-when-syncing-oracle-to-doris-with-seatunnel-239-2ig4)
-- [Integração do Brighter com Microsoft SQL Server](https://dev.to/actor-dev/integracao-do-brighter-com-microsoft-sql-server-4pj9)
-- [Brighter and SQL Server: How to setup and use Brighter with MS SQL](https://dev.to/actor-dev/brighter-and-sql-server-how-to-setup-and-use-brighter-with-ms-sql-5mh)
-- [My Developer Portfolio Is Live! 🚀](https://dev.to/shadowk19527226/my-developer-portfolio-is-live-1433)
+- [Ethereum’s Popularity Is Fading — Here&#39;s How Developers Are Fighting to Save It](https://dev.to/philip_crypto92/ethereums-popularity-is-fading-heres-how-developers-are-fighting-to-save-it-1g00)
+- [KeyCloak OAuth2 + React JS Integration](https://dev.to/anushibin007/keycloak-oauth2-react-js-integration-34bl)
+- [You Think You’re Safe Online? Hackers Think You’re a Joke.](https://dev.to/abdelaziz_moustakim_45a4c/you-think-youre-safe-online-hackers-think-youre-a-joke-1lil)
+- [Master Basic List Operations in Python Without Using Built-in Methods in Python &lpar;Part 2&rpar;](https://dev.to/ciamuthama/master-basic-list-operations-in-python-without-using-built-in-methods-in-python-part-2-46fo)
+- [AI-Driven Malware: The Silent Revolution Reshaping Cyber Threats](https://dev.to/emanuelbrownebm/ai-driven-malware-the-silent-revolution-reshaping-cyber-threats-2d7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
