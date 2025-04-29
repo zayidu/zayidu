@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FET-MA35-S2 SoM: A Multi-core Secure Industrial-grade Solution for EV Charging Pile TCU](https://dev.to/ronnie_r_152dc2151d9449c6/fet-ma35-s2-som-a-multi-core-secure-industrial-grade-solution-for-ev-charging-pile-tcu-1jn2)
-- [Cost Optimization Tips for Cloud Infrastructure](https://dev.to/bridgegroupsolutions/cost-optimization-tips-for-cloud-infrastructure-20f9)
-- [sliding puzzle](https://dev.to/fahadisgeo/sliding-puzzle-10ad)
-- [AI in Web Development: Build Smarter Web Applications &lpar;2025&rpar;](https://dev.to/mobisoftinfotech/ai-in-web-development-build-smarter-web-applications-2025-48bl)
-- [Why Choose a Vue.js Development Company for Your Next Web or App Project](https://dev.to/alex_3c165a96b43112b35d9e/why-choose-a-vuejs-development-company-for-your-next-web-or-app-project-5f2f)
+- [SQL vs NoSQL: Choosing the Right Database for Your Needs](https://dev.to/james_kariuki/sql-vs-nosql-choosing-the-right-database-for-your-needs-1pkh)
+- [Fixing Garbled Text When Syncing Oracle to Doris with SeaTunnel 2.3.9](https://dev.to/seatunnel/fixing-garbled-text-when-syncing-oracle-to-doris-with-seatunnel-239-2ig4)
+- [Integração do Brighter com Microsoft SQL Server](https://dev.to/actor-dev/integracao-do-brighter-com-microsoft-sql-server-4pj9)
+- [Brighter and SQL Server: How to setup and use Brighter with MS SQL](https://dev.to/actor-dev/brighter-and-sql-server-how-to-setup-and-use-brighter-with-ms-sql-5mh)
+- [My Developer Portfolio Is Live! 🚀](https://dev.to/shadowk19527226/my-developer-portfolio-is-live-1433)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
