@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No-Code Magic with n8n: I Built a Cheeky Telegram News Bot in Hours!](https://dev.to/altug_gokoglu/no-code-magic-with-n8n-i-built-a-cheeky-telegram-news-bot-in-hours-1bb2)
-- [Immortality Might Be an Illusion of Dimensions](https://dev.to/coffee_milk_6a7bcb3947a0a/immortality-might-be-an-illusion-of-dimensions-38ob)
-- [AI-Jarvis-WhatsApp-Bot](https://dev.to/rishabhsahilll/ai-jarvis-whatsapp-bot-267e)
-- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
-- [What is the Difference Between a Software Programmer and a Software Engineer?](https://dev.to/anitaolsen/what-is-the-difference-between-a-software-programmer-and-a-software-engineer-2bfj)
+- [🤖 AI Agents in Open Source: Evolving the Contribution Model](https://dev.to/pullflow/ai-agents-in-open-source-evolving-the-contribution-model-40e7)
+- [2025 Webby Award Nominee 🎉](https://dev.to/preetha_vaishnavi_2b82358/2025-webby-award-nominee-46h9)
+- [Would you wear an AI pendant?](https://dev.to/jess/would-you-wear-an-ai-pendant-5ei2)
+- [SpiderJS 🕷 | JS Runtime Revealed: The Three Pillars of JavaScript Execution](https://dev.to/omar_mayallo/spiderjs-js-runtime-revealed-the-three-pillars-of-javascript-execution-19g2)
+- [Go for Sort: Part 2 - Expanding the Fundamentals and Implementing Few Other Sorting Algorithms](https://dev.to/alikawp/go-for-sort-part-2-expanding-the-fundamentals-and-implementing-few-other-sorting-algorithms-3hbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
