@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Blockchain Governance: Navigating Decentralization – A Holistic Overview](https://dev.to/rachellovestowrite/exploring-blockchain-governance-navigating-decentralization-a-holistic-overview-2k81)
-- [Excelente artículo! Les invito a leerlo](https://dev.to/codecr/excelente-articulo-les-invito-a-leerlo-2loa)
-- [Understanding the Relation Between FastAPI and Uvicorn](https://dev.to/bharathvaj_ganesan/understanding-the-relation-between-fastapi-and-uvicorn-4ehj)
-- [Evaluación de Modelos en Amazon Bedrock: El Arte de la Selección Inteligente. Parte 2.](https://dev.to/aws-builders/evaluacion-de-modelos-en-amazon-bedrock-el-arte-de-la-seleccion-inteligente-parte-2-4a)
-- [Understanding Blockchain Forks: In-Depth Insight into Protocol Divergence](https://dev.to/zhangwei42/understanding-blockchain-forks-in-depth-insight-into-protocol-divergence-ljc)
+- [Fetch Values from Previous Non-Null Value Rows — From SQL to SPL #24](https://dev.to/judith677/fetch-values-from-previous-non-null-value-rows-from-sql-to-spl-24-2ddp)
+- [InsightFlow Part 6: Implementing ETL Processes with AWS Glue for InsightFlow](https://dev.to/pizofreude/insightflow-part-6-implementing-etl-processes-with-aws-glue-for-insightflow-1gaj)
+- [Day 150/365 [Learning Full stack]](https://dev.to/munin-1/day-150365-learning-full-stack-62c)
+- [Universal Celestial Intelligence &lpar;UCI&rpar; - A Self-Evolving Julia Framework](https://dev.to/kingzeedev/universal-celestial-intelligence-uci-a-self-evolving-julia-framework-5h2m)
+- [6th, prepare for testing release](https://dev.to/bruce_doctor_515422886dae/6th-prepare-for-testing-release-1h42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
