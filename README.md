@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Compute Showdown: ECS vs. EKS vs. Fargate vs. Lambda – Choosing Your Champion](https://dev.to/pkkolla/aws-compute-showdown-ecs-vs-eks-vs-fargate-vs-lambda-choosing-your-champion-28fd)
-- [MatrixSwarm: Stop Locking Your AI Inside Russian Nesting Dolls](https://dev.to/matrixswarm/matrixswarm-stop-locking-your-ai-inside-russian-nesting-dolls-24e7)
-- [Bridging the Gap: Aligning Tableau’s Data Prep with Power BI’s Power Query](https://dev.to/tableautopowerbimigration/bridging-the-gap-aligning-tableaus-data-prep-with-power-bis-power-query-3lk2)
-- [Building a Smart WhatsApp Follow-Up System for Call Centers: A Step-by-Step Implementation Guide](https://dev.to/mwacharo6/building-a-smart-whatsapp-follow-up-system-for-call-centers-a-step-by-step-implementation-guide-gjh)
-- [safeJsonParse utility in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/safejsonparse-utility-in-suna-an-open-source-generalist-ai-agent-hf2)
+- [Developer&#39;s Journey: The name of my squad.](https://dev.to/web_dev-usman/developers-journey-the-name-of-my-squad-32fl)
+- [Why Joining a Startup Early Was the Best Career Move I Ever Made](https://dev.to/kevinabestilla/why-joining-a-startup-early-was-the-best-career-move-i-ever-made-idi)
+- [Git-Hub Commands](https://dev.to/tharun801/git-hub-commands-5dpf)
+- [[Boost]](https://dev.to/eva_clari_289d85ecc68da48/-13a9)
+- [🔐 AWS ACM Now Automates Public TLS Certificates for Cloud Front — Just Check a Box!](https://dev.to/latchudevops/aws-acm-now-automates-public-tls-certificates-for-cloud-front-just-check-a-box-4job)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
