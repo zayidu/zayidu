@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI Agents in Open Source: Evolving the Contribution Model](https://dev.to/pullflow/ai-agents-in-open-source-evolving-the-contribution-model-40e7)
-- [2025 Webby Award Nominee 🎉](https://dev.to/preetha_vaishnavi_2b82358/2025-webby-award-nominee-46h9)
-- [Would you wear an AI pendant?](https://dev.to/jess/would-you-wear-an-ai-pendant-5ei2)
-- [SpiderJS 🕷 | JS Runtime Revealed: The Three Pillars of JavaScript Execution](https://dev.to/omar_mayallo/spiderjs-js-runtime-revealed-the-three-pillars-of-javascript-execution-19g2)
-- [Go for Sort: Part 2 - Expanding the Fundamentals and Implementing Few Other Sorting Algorithms](https://dev.to/alikawp/go-for-sort-part-2-expanding-the-fundamentals-and-implementing-few-other-sorting-algorithms-3hbp)
+- [[Boost]](https://dev.to/gedons/-4hk1)
+- [Spring Essentials: How to Use the @Bean Annotation for Custom Services](https://dev.to/tiuwill/spring-essentials-how-to-use-the-bean-annotation-for-custom-services-20mk)
+- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-1106)
+- [How to Edit Images Using OpenAI GPT-Image-1 API](https://dev.to/_37bbf0c253c0b3edec531e/how-to-edit-images-using-openai-gpt-image-1-api-3na4)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-5a1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
