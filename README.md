@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9/ 30 Days of Linux Mastery: Special Permissions &lpar;SUID, SGID, Sticky Bit&rpar;](https://dev.to/amandaigwe/day-9-30-days-of-linux-mastery-special-permissions-suid-sgid-sticky-bit-5daa)
-- [2 cool ways to use :has&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/2-cool-ways-to-use-has-4hcn)
-- [How to Receive Phone Call 📞 Alerts Using AWS CloudWatch, Lambda &amp; Twilio](https://dev.to/harshil_thummar/how-to-receive-phone-call-alerts-using-aws-cloudwatch-lambda-twilio-3hlj)
-- [Embracing Change: The Real Skill Every Software Engineer Needs](https://dev.to/wraith/embracing-change-the-real-skill-every-software-engineer-needs-2690)
-- [Maximizing CPMs: Ad Strategies for FAST Channel Success-fast channel providers](https://dev.to/malhotraaa/maximizing-cpms-ad-strategies-for-fast-channel-success-fast-channel-providers-56ok)
+- [No-Code Magic with n8n: I Built a Cheeky Telegram News Bot in Hours!](https://dev.to/altug_gokoglu/no-code-magic-with-n8n-i-built-a-cheeky-telegram-news-bot-in-hours-1bb2)
+- [Immortality Might Be an Illusion of Dimensions](https://dev.to/coffee_milk_6a7bcb3947a0a/immortality-might-be-an-illusion-of-dimensions-38ob)
+- [AI-Jarvis-WhatsApp-Bot](https://dev.to/rishabhsahilll/ai-jarvis-whatsapp-bot-267e)
+- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
+- [What is the Difference Between a Software Programmer and a Software Engineer?](https://dev.to/anitaolsen/what-is-the-difference-between-a-software-programmer-and-a-software-engineer-2bfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
