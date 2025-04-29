@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer&#39;s Journey: The name of my squad.](https://dev.to/web_dev-usman/developers-journey-the-name-of-my-squad-32fl)
-- [Why Joining a Startup Early Was the Best Career Move I Ever Made](https://dev.to/kevinabestilla/why-joining-a-startup-early-was-the-best-career-move-i-ever-made-idi)
-- [Git-Hub Commands](https://dev.to/tharun801/git-hub-commands-5dpf)
-- [[Boost]](https://dev.to/eva_clari_289d85ecc68da48/-13a9)
-- [🔐 AWS ACM Now Automates Public TLS Certificates for Cloud Front — Just Check a Box!](https://dev.to/latchudevops/aws-acm-now-automates-public-tls-certificates-for-cloud-front-just-check-a-box-4job)
+- [Online Python Compiler vs Desktop IDEs: What to Choose?](https://dev.to/tpointtechblog/online-python-compiler-vs-desktop-ides-what-to-choose-1kki)
+- [Running Wild with LLMs: 10 Open-Source Models You Can Tame on Your Local Machine](https://dev.to/sakethkowtha/running-wild-with-llms-10-open-source-models-you-can-tame-on-your-local-machine-3glb)
+- [How to Structure a Full Stack App &lpar;Without Making a Complete Mess&rpar;](https://dev.to/ernest_litsa_6cbeed4e5669/how-to-structure-a-full-stack-app-without-making-a-complete-mess-3apf)
+- [Real-Time Lambda Log Streaming to Your Web UI - Without CloudWatch Logs](https://dev.to/hexshift/real-time-lambda-log-streaming-to-your-web-ui-without-cloudwatch-logs-3d1h)
+- [How to contribute to the Flutter engine [Windows]](https://dev.to/nrbnlulu/how-to-contribute-to-the-flutter-engine-windows-11fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
