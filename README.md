@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Changing Ownership in Linux: Mastering the chown Command](https://dev.to/sanasadiq/changing-ownership-in-linux-mastering-the-chown-command-37jd)
-- [Angular](https://dev.to/rafaellmarques/angular-lme)
-- [The insights here are spot on for anyone selling into layered orgs. #SalesStrategy #B2BSales #EnterpriseSales #SalesLeadership](https://dev.to/techbyfelix/the-insights-here-are-spot-on-for-anyone-selling-into-layered-orgs-salesstrategy-b2bsales-4o22)
-- [Here is some local Storage and some cookie js storage](https://dev.to/lanor_rigby_7fe9c90f68151/here-is-some-local-storage-and-some-cookie-js-storage-1cm5)
-- [EventSource vs Async Generator - What to Use for LLM Streaming?](https://dev.to/bharathvaj_ganesan/eventsource-vs-async-generator-what-to-use-for-llm-streaming-39l3)
+- [How Modern Engineering Teams Gain Clarity with Entelligence AI](https://dev.to/taradepan/how-modern-engineering-teams-gain-clarity-with-entelligence-ai-28md)
+- [Blockchain Beyond Cryptocurrency: Game-Changing Innovations in 2025](https://dev.to/abhishekshakya/blockchain-beyond-cryptocurrency-game-changing-innovations-in-2025-31ag)
+- [FitVision - devlog #1](https://dev.to/ceir/fitvision-devlog-1-3a0i)
+- [From Code Monkey to Code Whisperer: How AI Copilots are Transforming Our Dev Lives](https://dev.to/sakethkowtha/from-code-monkey-to-code-whisperer-how-ai-copilots-are-transforming-our-dev-lives-kpc)
+- [Tailwindcss dynamic arbitrary values issue resolved](https://dev.to/mroman7/tailwindcss-dynamic-arbitrary-values-issue-resolved-2m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
