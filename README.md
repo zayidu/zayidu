@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Workforce Skills with an Enterprise LMS](https://dev.to/professional_trainer_c8c1/boost-workforce-skills-with-an-enterprise-lms-50mi)
-- [React Day 2025 – Hot Takes, Deep Dives &amp; the Future of UI Engineering](https://dev.to/kelseyroche/react-day-2025-hot-takes-deep-dives-the-future-of-ui-engineering-1219)
-- [🎬 The Sysadmin Show – Episode 9: “The Curious Case of the Special Bits”](https://dev.to/higgs182092/the-sysadmin-show-episode-9-the-curious-case-of-the-special-bits-5135)
-- [Exploring Blockchain Project Funding and Liquidity Pools: Innovation Driving Decentralized Finance](https://dev.to/zhangwei42/exploring-blockchain-project-funding-and-liquidity-pools-innovation-driving-decentralized-finance-2l7l)
-- [WebStorm Freezing? Crashing on Windows 11 with npm run dev? You&#39;re Not Alone!](https://dev.to/mr_extinct/webstorm-freezing-crashing-on-windows-11-with-npm-run-dev-youre-not-alone-57d7)
+- [Resource Timing API for Network Latency Analysis](https://dev.to/omriluz1/resource-timing-api-for-network-latency-analysis-3jfe)
+- [The Truth Behind Cheap Traffic](https://dev.to/deividas_strole/the-truth-behind-cheap-traffic-470k)
+- [Blockchain Project Funding and Token Burns: Fueling Innovation and Value Creation](https://dev.to/laetitiaperraut/blockchain-project-funding-and-token-burns-fueling-innovation-and-value-creation-2k00)
+- [Gridiron Survivor&#39;s Elfgorithm: Introduction and Team Installation](https://dev.to/michaellarocca/gridiron-survivors-elfgorithm-introduction-and-team-installation-550)
+- [JavaScript basics for future me](https://dev.to/ritumka/javascript-basics-for-future-me-3dm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
