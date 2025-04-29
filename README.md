@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Configure a Virtual Network in Azure &lpar;The Easy Way via Azure Portal&rpar;](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-and-configure-a-virtual-network-in-azure-the-easy-way-via-azure-portal-4nd)
-- [How can you make sure you are implementing the right software?](https://dev.to/ragutislt/how-can-you-make-sure-you-are-implementing-the-right-software-30eb)
-- [Version After Version, But ERP Makes Sure Your Business Always Evolves](https://dev.to/bhavesh_gangani_/version-after-version-but-erp-makes-sure-your-business-always-evolves-mb)
-- [VectorRAG is naive, lacks domain awareness, and can’t handle full dataset retrieval](https://dev.to/falkordb/vectorrag-is-naive-lacks-domain-awareness-and-cant-handle-full-dataset-retrieval-5g59)
-- [Multi Trade Construction](https://dev.to/multitradecons1/multi-trade-construction-gle)
+- [Day 9/ 30 Days of Linux Mastery: Special Permissions &lpar;SUID, SGID, Sticky Bit&rpar;](https://dev.to/amandaigwe/day-9-30-days-of-linux-mastery-special-permissions-suid-sgid-sticky-bit-5daa)
+- [2 cool ways to use :has&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/2-cool-ways-to-use-has-4hcn)
+- [How to Receive Phone Call 📞 Alerts Using AWS CloudWatch, Lambda &amp; Twilio](https://dev.to/harshil_thummar/how-to-receive-phone-call-alerts-using-aws-cloudwatch-lambda-twilio-3hlj)
+- [Embracing Change: The Real Skill Every Software Engineer Needs](https://dev.to/wraith/embracing-change-the-real-skill-every-software-engineer-needs-2690)
+- [Maximizing CPMs: Ad Strategies for FAST Channel Success-fast channel providers](https://dev.to/malhotraaa/maximizing-cpms-ad-strategies-for-fast-channel-success-fast-channel-providers-56ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
