@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor Everything That’s Not Just Your App &lpar;DNS, Email, APIs, DBs…&rpar;](https://dev.to/therealfloatdev/how-to-monitor-everything-thats-not-just-your-app-dns-email-apis-dbs-16)
-- [Limitações da inferência no lambda](https://dev.to/fundamentosjava/limitacoes-da-inferencia-no-lambda-nc3)
-- [Qual é o tipo de uma expressão Lambda?](https://dev.to/fundamentosjava/qual-e-o-tipo-de-uma-expressao-lambda-o30)
-- [Conversões entre interfaces funcionais](https://dev.to/fundamentosjava/conversoes-entre-interfaces-funcionais-4lmg)
-- [How CDNs Make the Internet Faster for Everyone](https://dev.to/lindiwe09/how-cdns-make-the-internet-faster-for-everyone-1oka)
+- [Exploring Azure Blob Storage: Features, Redundancy, and Best Practices](https://dev.to/adesola_kehinde_dcff351bc/exploring-azure-blob-storage-features-redundancy-and-best-practices-5g8f)
+- [Développement d’un Système d’Authentification Sécurisé](https://dev.to/yahyakhaldoun/developpement-dun-systeme-dauthentification-securise-2gbn)
+- [Dr. Headline – Autonomous AI Agent Publishing Daily Factual Political News Briefings](https://dev.to/thomas-router/dr-headline-autonomous-ai-agent-publishing-daily-factual-political-news-briefings-dpc)
+- [React and typescript components lib, part 4: pre-commit with Husky and lint-staged](https://dev.to/griseduardo/react-and-typescript-components-lib-part-4-pre-commit-with-husky-and-lint-staged-369n)
+- [Biblioteca de componentes React e typescript, parte 4: pré-commit com Husky e lint-staged](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-4-pre-commit-com-husky-e-lint-staged-1l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
