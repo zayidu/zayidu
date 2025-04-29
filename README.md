@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resource Timing API for Network Latency Analysis](https://dev.to/omriluz1/resource-timing-api-for-network-latency-analysis-3jfe)
-- [The Truth Behind Cheap Traffic](https://dev.to/deividas_strole/the-truth-behind-cheap-traffic-470k)
-- [Blockchain Project Funding and Token Burns: Fueling Innovation and Value Creation](https://dev.to/laetitiaperraut/blockchain-project-funding-and-token-burns-fueling-innovation-and-value-creation-2k00)
-- [Gridiron Survivor&#39;s Elfgorithm: Introduction and Team Installation](https://dev.to/michaellarocca/gridiron-survivors-elfgorithm-introduction-and-team-installation-550)
-- [JavaScript basics for future me](https://dev.to/ritumka/javascript-basics-for-future-me-3dm4)
+- [🛠️ How I Debugged and Fixed Alembic Migration Issues: A Full Journey](https://dev.to/c_6b7a8e65d067ddc62/how-i-debugged-and-fixed-alembic-migration-issues-in-production-a-full-journey-461c)
+- [React IQ &lpar;PHero&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/react-iq-phero-47hf)
+- [Navigating Agency in an Age of Automated Thought](https://dev.to/rawveg/navigating-agency-in-an-age-of-automated-thought-26e0)
+- [02: Create and configure network security groups](https://dev.to/sheyitex/02-create-and-configure-network-security-groups-5g2d)
+- [Pymupdf: A Python Library That Reduces the Size of PDF files](https://dev.to/maigaridavid/pymupdf-a-python-library-that-reduces-the-size-of-pdf-files-1anp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
