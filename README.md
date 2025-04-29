@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch Values from Previous Non-Null Value Rows — From SQL to SPL #24](https://dev.to/judith677/fetch-values-from-previous-non-null-value-rows-from-sql-to-spl-24-2ddp)
-- [InsightFlow Part 6: Implementing ETL Processes with AWS Glue for InsightFlow](https://dev.to/pizofreude/insightflow-part-6-implementing-etl-processes-with-aws-glue-for-insightflow-1gaj)
-- [Day 150/365 [Learning Full stack]](https://dev.to/munin-1/day-150365-learning-full-stack-62c)
-- [Universal Celestial Intelligence &lpar;UCI&rpar; - A Self-Evolving Julia Framework](https://dev.to/kingzeedev/universal-celestial-intelligence-uci-a-self-evolving-julia-framework-5h2m)
-- [6th, prepare for testing release](https://dev.to/bruce_doctor_515422886dae/6th-prepare-for-testing-release-1h42)
+- [AWS Compute Showdown: ECS vs. EKS vs. Fargate vs. Lambda – Choosing Your Champion](https://dev.to/pkkolla/aws-compute-showdown-ecs-vs-eks-vs-fargate-vs-lambda-choosing-your-champion-28fd)
+- [MatrixSwarm: Stop Locking Your AI Inside Russian Nesting Dolls](https://dev.to/matrixswarm/matrixswarm-stop-locking-your-ai-inside-russian-nesting-dolls-24e7)
+- [Bridging the Gap: Aligning Tableau’s Data Prep with Power BI’s Power Query](https://dev.to/tableautopowerbimigration/bridging-the-gap-aligning-tableaus-data-prep-with-power-bis-power-query-3lk2)
+- [Building a Smart WhatsApp Follow-Up System for Call Centers: A Step-by-Step Implementation Guide](https://dev.to/mwacharo6/building-a-smart-whatsapp-follow-up-system-for-call-centers-a-step-by-step-implementation-guide-gjh)
+- [safeJsonParse utility in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/safejsonparse-utility-in-suna-an-open-source-generalist-ai-agent-hf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
