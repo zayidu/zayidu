@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gedons/-4hk1)
-- [Spring Essentials: How to Use the @Bean Annotation for Custom Services](https://dev.to/tiuwill/spring-essentials-how-to-use-the-bean-annotation-for-custom-services-20mk)
-- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-1106)
-- [How to Edit Images Using OpenAI GPT-Image-1 API](https://dev.to/_37bbf0c253c0b3edec531e/how-to-edit-images-using-openai-gpt-image-1-api-3na4)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-5a1k)
+- [Changing Ownership in Linux: Mastering the chown Command](https://dev.to/sanasadiq/changing-ownership-in-linux-mastering-the-chown-command-37jd)
+- [Angular](https://dev.to/rafaellmarques/angular-lme)
+- [The insights here are spot on for anyone selling into layered orgs. #SalesStrategy #B2BSales #EnterpriseSales #SalesLeadership](https://dev.to/techbyfelix/the-insights-here-are-spot-on-for-anyone-selling-into-layered-orgs-salesstrategy-b2bsales-4o22)
+- [Here is some local Storage and some cookie js storage](https://dev.to/lanor_rigby_7fe9c90f68151/here-is-some-local-storage-and-some-cookie-js-storage-1cm5)
+- [EventSource vs Async Generator - What to Use for LLM Streaming?](https://dev.to/bharathvaj_ganesan/eventsource-vs-async-generator-what-to-use-for-llm-streaming-39l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
