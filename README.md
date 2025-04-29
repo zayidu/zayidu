@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurosell announces $800K seed round of investment to refine and scale Virton AI - fitting rooms for online stores](https://dev.to/neurosell/neurosell-announces-800k-seed-round-of-investment-to-refine-and-scale-virton-ai-fitting-rooms-2bb8)
-- [Building Future-Proof Themes with Performance in Mind](https://dev.to/gm-kamrussama/building-future-proof-themes-with-performance-in-mind-4kln)
-- [Understanding Angular Signals: A New Era of Reactivity](https://dev.to/khoanguyen1411/understanding-angular-signals-a-new-era-of-reactivity-4533)
-- [[Boost]](https://dev.to/blackscripts/-9nh)
-- [Batch curl requests in PHP using multi handles](https://dev.to/danrot90/batch-curl-requests-in-php-using-multi-handles-3jg6)
+- [How to Create and Configure a Virtual Network in Azure &lpar;The Easy Way via Azure Portal&rpar;](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-and-configure-a-virtual-network-in-azure-the-easy-way-via-azure-portal-4nd)
+- [How can you make sure you are implementing the right software?](https://dev.to/ragutislt/how-can-you-make-sure-you-are-implementing-the-right-software-30eb)
+- [Version After Version, But ERP Makes Sure Your Business Always Evolves](https://dev.to/bhavesh_gangani_/version-after-version-but-erp-makes-sure-your-business-always-evolves-mb)
+- [VectorRAG is naive, lacks domain awareness, and can’t handle full dataset retrieval](https://dev.to/falkordb/vectorrag-is-naive-lacks-domain-awareness-and-cant-handle-full-dataset-retrieval-5g59)
+- [Multi Trade Construction](https://dev.to/multitradecons1/multi-trade-construction-gle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
