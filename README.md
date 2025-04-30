@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Should Break Prod](https://dev.to/code42cate/you-should-break-prod-24lb)
-- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-kg4)
-- [Quick Tutorial: Implementing Google OAuth2 in FastAPI &lpar;Callback Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-implementing-google-oauth2-in-fastapi-callback-method-ba4)
-- [Quick Tutorial: Adding Google Auth to FastAPI &lpar;Token Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-adding-google-auth-to-fastapi-token-method-1ggg)
-- [Better Presentations with AI-Powered Slide Notes](https://dev.to/researchwize/better-presentations-with-ai-powered-slide-notes-22gm)
+- [How I Built a Unified Blog Aggregator with HTML, CSS, and JavaScript](https://dev.to/jliter/how-i-built-a-unified-blog-aggregator-with-html-css-and-javascript-4gna)
+- [Intune Win32 App: Run huge app updates with Powershell](https://dev.to/devicemanager/intune-win32-app-run-huge-app-updates-with-powershell-5283)
+- [8 Practical Courses That Can Launch Your Tech Career &lpar;Even Without Experience&rpar;](https://dev.to/soliven_soliven_886f0cdea/8-practical-courses-that-can-launch-your-tech-career-even-without-experience-1mon)
+- [Transforming Venture Capital: The Role of Blockchain in the Future of Investment](https://dev.to/bobcars/transforming-venture-capital-the-role-of-blockchain-in-the-future-of-investment-54hf)
+- [RELOAD](https://dev.to/michael_02910bc84e622d090/reload-2jh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
