@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
-- [Why My Code Works Better at Night &lpar;And Other Lies I Tell Myself&rpar;](https://dev.to/dayologic/why-my-code-works-better-at-night-and-other-lies-i-tell-myself-31p3)
-- [Understanding Blockchain Scalability: Challenges and Solutions](https://dev.to/jennythomas498/understanding-blockchain-scalability-challenges-and-solutions-1khf)
-- [Clerk + Shopify: Elevating Customer Authentication for E-Commerce](https://dev.to/arapp_clerkian/clerk-shopify-elevating-customer-authentication-for-e-commerce-59b6)
-- [How to Use IoT to Improve Cleaning and Maintenance in Your Airbnb](https://dev.to/karen_londres/how-to-use-iot-to-improve-cleaning-and-maintenance-in-your-airbnb-5eeo)
+- [Integrating KC Authorization Services into NestJS API](https://dev.to/haithamoumer/integrating-kc-authorization-services-into-nestjs-api-46kd)
+- [Understanding Blockchain Transaction Fees: An In-Depth Exploration](https://dev.to/ashucommits/understanding-blockchain-transaction-fees-an-in-depth-exploration-2fn0)
+- [Kotlin + gRPC: Streaming, Deadlines, and Structured Error Handling](https://dev.to/lucasfugisawa/kotlin-grpc-streaming-deadlines-and-structured-error-handling-5e9k)
+- [Mojolicious and Docker part 2](https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei)
+- [Simplifying Rust Error Handling with anyhow](https://dev.to/leapcell/simplifying-rust-error-handling-with-anyhow-34be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
