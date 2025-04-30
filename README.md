@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Unified Blog Aggregator with HTML, CSS, and JavaScript](https://dev.to/jliter/how-i-built-a-unified-blog-aggregator-with-html-css-and-javascript-4gna)
-- [Intune Win32 App: Run huge app updates with Powershell](https://dev.to/devicemanager/intune-win32-app-run-huge-app-updates-with-powershell-5283)
-- [8 Practical Courses That Can Launch Your Tech Career &lpar;Even Without Experience&rpar;](https://dev.to/soliven_soliven_886f0cdea/8-practical-courses-that-can-launch-your-tech-career-even-without-experience-1mon)
-- [Transforming Venture Capital: The Role of Blockchain in the Future of Investment](https://dev.to/bobcars/transforming-venture-capital-the-role-of-blockchain-in-the-future-of-investment-54hf)
-- [RELOAD](https://dev.to/michael_02910bc84e622d090/reload-2jh0)
+- [Everything You Need to Know About SolidJS](https://dev.to/abdelaziz_moustakim_45a4c/everything-you-need-to-know-about-solidjs-4mg4)
+- [Open-source Node.js blogging engine with newsletter functionality](https://dev.to/maxim-fin/open-source-nodejs-blogging-engine-with-newsletter-functionality-1aok)
+- [Clair Obscur: Expedition 33 may be Metacritic&#39;s highest user-rated game in history](https://dev.to/gg_news/clair-obscur-expedition-33-may-be-metacritics-highest-user-rated-game-in-history-4lme)
+- [Alex from Digital Foundry: &lpar;Oblivion Remastered&rpar; is perhaps one of the worst-running games I&#39;ve ever tested for Digital Foundry.](https://dev.to/gg_news/alex-from-digital-foundry-oblivion-remastered-is-perhaps-one-of-the-worst-running-games-ive-2ahk)
+- [How to Deploy Your App on Kubernetes — The Easy Way](https://dev.to/hostman_com/how-to-deploy-your-app-on-kubernetes-the-easy-way-3fd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
