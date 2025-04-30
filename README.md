@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shorthand Conditionals in PHP You Should Know](https://dev.to/mr_steelze/shorthand-conditionals-in-php-you-should-know-22np)
-- [The impact of Power Apps on resource management in healthcare](https://dev.to/megaminds/the-impact-of-power-apps-on-resource-management-in-healthcare-pi4)
-- [Why Is Real Device Testing Preferred Over Emulators And Simulators](https://dev.to/shubham-theqa/why-is-real-device-testing-preferred-over-emulators-and-simulators-2415)
-- [Apprenez à créer une connexion sécurisée en PHP avec PDO et le hachage de mots de passe.](https://dev.to/youssef_betho_b7642962fd2/apprenez-a-creer-une-connexion-securisee-en-php-avec-pdo-et-le-hachage-de-mots-de-passe-2099)
-- [Real-Time KPI monitoring for factory performance with Power BI](https://dev.to/megaminds/real-time-kpi-monitoring-for-factory-performance-with-power-bi-5edf)
+- [🚀 The Hidden Cost of Ignoring QA in Fast-Paced Development](https://dev.to/vaibhavkuls/the-hidden-cost-of-ignoring-qa-in-fast-paced-development-3g60)
+- [AI TIMLINE - All prominent events in the field](https://dev.to/nhlocal/ai-timline-all-prominent-events-in-the-field-1bnl)
+- [Introduction to Data Analysis using Microsoft Excel](https://dev.to/joy_nyayieka_fc5b89b9b20e/introduction-to-data-analysis-using-microsoft-excel-5ac4)
+- [Generative AI in Drug Discovery: Designing Molecules with Precision](https://dev.to/siddharthbhalsod/generative-ai-in-drug-discovery-designing-molecules-with-precision-54ba)
+- [⚡ VeltoPHP: The Lightweight Framework Challenging Laravel’s Heavyweight Status](https://dev.to/veltophp/veltophp-the-lightweight-framework-challenging-laravels-heavyweight-status-3kkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
