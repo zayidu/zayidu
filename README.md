@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions Pro: Reusable Workflows, Matrix Magic &amp; Custom Automation](https://dev.to/alex_aslam/github-actions-pro-reusable-workflows-matrix-magic-custom-automation-1pm9)
-- [Qwen 3: Alibaba&#39;s Leap Forward in Open-Source AI](https://dev.to/mechcloud_academy/qwen-3-alibabas-leap-forward-in-open-source-ai-4hg3)
-- [Resize Observer API for UI Adaptability](https://dev.to/omriluz1/resize-observer-api-for-ui-adaptability-h3d)
-- [How to keep toxicity out of agile teams for project success](https://dev.to/rootstack/how-to-keep-toxicity-out-of-agile-teams-for-project-success-b82)
-- [The RHEL9 Roommates: A Sitcom Guide to Cloud Career Glory](https://dev.to/higgs182092/the-rhel9-roommates-a-sitcom-guide-to-cloud-career-glory-26oj)
+- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
+- [Why My Code Works Better at Night &lpar;And Other Lies I Tell Myself&rpar;](https://dev.to/dayologic/why-my-code-works-better-at-night-and-other-lies-i-tell-myself-31p3)
+- [Understanding Blockchain Scalability: Challenges and Solutions](https://dev.to/jennythomas498/understanding-blockchain-scalability-challenges-and-solutions-1khf)
+- [Clerk + Shopify: Elevating Customer Authentication for E-Commerce](https://dev.to/arapp_clerkian/clerk-shopify-elevating-customer-authentication-for-e-commerce-59b6)
+- [How to Use IoT to Improve Cleaning and Maintenance in Your Airbnb](https://dev.to/karen_londres/how-to-use-iot-to-improve-cleaning-and-maintenance-in-your-airbnb-5eeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
