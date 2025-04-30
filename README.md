@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI isn&#39;t Here to Replace People, and the Top 1% Percent Agrees.](https://dev.to/d2d_weizhi/ai-isnt-here-to-replace-people-and-the-top-1-percent-agrees-42em)
-- [Static Arrays - DSA Notes 📝](https://dev.to/jurozaw/static-arrays-dsa-notes-3h43)
-- [Improve Your Python Search Relevancy with Astra DB Hybrid Search](https://dev.to/datastax/improve-your-python-search-relevancy-with-astra-db-hybrid-search-11d6)
-- [I built the Cursor of SQL databases ⚡️](https://dev.to/danilovilhena/i-built-the-cursor-of-sql-databases-415e)
-- [Why Cybersecurity Isn&#39;t Optional Anymore From a Dev POV](https://dev.to/contractorx/why-cybersecurity-isnt-optional-anymore-from-a-dev-pov-e36)
+- [From Zero to Cloud Hero: My First AWS EC2 &amp; S3 Web Project](https://dev.to/casualweightlifter54/from-zero-to-cloud-hero-my-first-aws-ec2-s3-web-project-26jh)
+- [🚀 New to AWS? Start with EC2! It&#39;s a virtual server in the cloud. Create a free-tier account, launch a t2.micro instance, connect via SSH, and explore Linux or host simple apps. Perfect first step into cloud computing! 💡 #AWS #DevOps #Cloud](https://dev.to/nilupul4242/new-to-aws-start-with-ec2-its-a-virtual-server-in-the-cloud-create-a-free-tier-account-33b0)
+- [From Postman to Bruno](https://dev.to/luidynaves/from-postman-to-bruno-242f)
+- [5 Free Programming Learning Portals: Unlocking Free Access to Top - Notch Coding Skills](https://dev.to/scrapestorm/5-free-programming-learning-portals-unlocking-free-access-to-top-notch-coding-skills-5elk)
+- [Building Serverless Workflows with AWS Lambda + Step Functions &lpar;Automated Workflows with State and Error Handling&rpar;](https://dev.to/hexshift/building-serverless-workflows-with-aws-lambda-step-functions-automated-workflows-with-state-and-41c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
