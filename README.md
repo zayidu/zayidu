@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Smart Documentation, based on OpenAI Embeddings &lpar;Chunking, Indexing, and Searching&rpar;](https://dev.to/aypineau/building-a-smart-documentation-based-on-openai-embeddings-chunking-indexing-and-searching-4nam)
-- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
-- [A Handy Way to Handle API Validation in Laravel](https://dev.to/initstack/a-handy-way-to-handle-api-validation-in-laravel-43c0)
-- [The Evolution of Architecture: Monolithic vs. Microservices](https://dev.to/leapcell/the-evolution-of-architecture-monolithic-vs-microservices-431j)
-- [Database Sharding 101](https://dev.to/thelennzer/database-sharding-101-112l)
+- [Boost Your Dev Team&#39;s Efficiency with Oraculum](https://dev.to/daniyar_art/boost-your-dev-teams-efficiency-with-oraculum-481f)
+- [F2](https://dev.to/david_bermenvliz/f2-19j5)
+- [Why Developers Should Care About Workplace Accessibility](https://dev.to/corporateone/why-developers-should-care-about-workplace-accessibility-5e9d)
+- [AI Classification models Performance Evaluation using Confusion Matrix -](https://dev.to/lea_abraham_7a0232a6cd616/ai-classification-models-performance-evaluation-using-confusion-matrix--g80)
+- [Nueva función](https://dev.to/david_bermenvliz/nueva-funcion-14i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
