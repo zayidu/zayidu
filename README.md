@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 StatusCake Alternatives in 2025](https://dev.to/alibby/top-10-statuscake-alternatives-in-2025-194o)
-- [AWS open source newsletter, #209](https://dev.to/aws/aws-open-source-newsletter-209-39mo)
-- [Mastering Linux Firewalls: Simple Steps to Boost Your Security!](https://dev.to/marzena_pugo_b8978575380f/mastering-linux-firewalls-simple-steps-to-boost-your-security-mg8)
-- [Postgres vs. Qdrant: Why Postgres Wins for AI and Vector Workloads](https://dev.to/timescale/postgres-vs-qdrant-why-postgres-wins-for-ai-and-vector-workloads-3d71)
-- [step-by-step guide to create and configure a Google Maps Platform API Key](https://dev.to/swapnil_ahmmedshishir_2d/step-by-step-guide-to-create-and-configure-a-google-maps-platform-api-key-55ej)
+- [Bugs Fuel Open-Source Community](https://dev.to/fzambia/bugs-fuel-open-source-community-1cp6)
+- [I&#39;ve been planning to do a platform for researchers. I would love to get feedback and recommendation from the dev community here.](https://dev.to/naratech/ive-been-planning-to-do-a-platform-for-researchers-i-would-love-to-get-feedback-and-6ca)
+- [10 Lightweight API Gateways for Your Next Project](https://dev.to/nordicapis/10-lightweight-api-gateways-for-your-next-project-1ha3)
+- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗿𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: 𝗪𝗵𝘆 𝗢𝗔𝘂𝘁𝗵 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗶𝗻 𝗧𝗼𝗱𝗮𝘆’𝘀 𝗝𝗮𝘃𝗮 &amp; 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://dev.to/thiago_souza_1510/--17fm)
+- [AWS -Elastic Network Interfaces &lpar;ENI&rpar;](https://dev.to/skillboosttrainer/aws-elastic-network-interfaces-eni-10kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
