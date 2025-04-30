@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About SolidJS](https://dev.to/abdelaziz_moustakim_45a4c/everything-you-need-to-know-about-solidjs-4mg4)
-- [Open-source Node.js blogging engine with newsletter functionality](https://dev.to/maxim-fin/open-source-nodejs-blogging-engine-with-newsletter-functionality-1aok)
-- [Clair Obscur: Expedition 33 may be Metacritic&#39;s highest user-rated game in history](https://dev.to/gg_news/clair-obscur-expedition-33-may-be-metacritics-highest-user-rated-game-in-history-4lme)
-- [Alex from Digital Foundry: &lpar;Oblivion Remastered&rpar; is perhaps one of the worst-running games I&#39;ve ever tested for Digital Foundry.](https://dev.to/gg_news/alex-from-digital-foundry-oblivion-remastered-is-perhaps-one-of-the-worst-running-games-ive-2ahk)
-- [How to Deploy Your App on Kubernetes — The Easy Way](https://dev.to/hostman_com/how-to-deploy-your-app-on-kubernetes-the-easy-way-3fd7)
+- [Top 10 StatusCake Alternatives in 2025](https://dev.to/alibby/top-10-statuscake-alternatives-in-2025-194o)
+- [AWS open source newsletter, #209](https://dev.to/aws/aws-open-source-newsletter-209-39mo)
+- [Mastering Linux Firewalls: Simple Steps to Boost Your Security!](https://dev.to/marzena_pugo_b8978575380f/mastering-linux-firewalls-simple-steps-to-boost-your-security-mg8)
+- [Postgres vs. Qdrant: Why Postgres Wins for AI and Vector Workloads](https://dev.to/timescale/postgres-vs-qdrant-why-postgres-wins-for-ai-and-vector-workloads-3d71)
+- [step-by-step guide to create and configure a Google Maps Platform API Key](https://dev.to/swapnil_ahmmedshishir_2d/step-by-step-guide-to-create-and-configure-a-google-maps-platform-api-key-55ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
