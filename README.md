@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Hidden Cost of Ignoring QA in Fast-Paced Development](https://dev.to/vaibhavkuls/the-hidden-cost-of-ignoring-qa-in-fast-paced-development-3g60)
-- [AI TIMLINE - All prominent events in the field](https://dev.to/nhlocal/ai-timline-all-prominent-events-in-the-field-1bnl)
-- [Introduction to Data Analysis using Microsoft Excel](https://dev.to/joy_nyayieka_fc5b89b9b20e/introduction-to-data-analysis-using-microsoft-excel-5ac4)
-- [Generative AI in Drug Discovery: Designing Molecules with Precision](https://dev.to/siddharthbhalsod/generative-ai-in-drug-discovery-designing-molecules-with-precision-54ba)
-- [⚡ VeltoPHP: The Lightweight Framework Challenging Laravel’s Heavyweight Status](https://dev.to/veltophp/veltophp-the-lightweight-framework-challenging-laravels-heavyweight-status-3kkc)
+- [Boosting Performance: Essential Memory Optimization Techniques for Spring Boot Applications](https://dev.to/tharindufdo/boosting-performance-essential-memory-optimization-techniques-for-spring-boot-applications-11ng)
+- [[Boost]](https://dev.to/nghihua/-852)
+- [Build Trust, Not Buzzwords: A Dev-Centric Approach to Advertising on DEV](https://dev.to/engnelson/build-trust-not-buzzwords-a-dev-centric-approach-to-advertising-on-dev-4ojj)
+- [Tainted Canvas: why the browser blocks your canvas &lpar;and how to unblock it&rpar;](https://dev.to/reynaldi/tainted-canvas-why-the-browser-blocks-your-canvas-and-how-to-unblock-it-57e7)
+- [Scaling Search at finlight.me: From Postgres Full-Text to Real-Time OpenSearch](https://dev.to/jubeiargh/scaling-search-at-finlightme-from-postgres-full-text-to-real-time-opensearch-33op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
