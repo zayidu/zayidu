@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure Blob Storage: Features, Redundancy, and Best Practices](https://dev.to/adesola_kehinde_dcff351bc/exploring-azure-blob-storage-features-redundancy-and-best-practices-5g8f)
-- [Développement d’un Système d’Authentification Sécurisé](https://dev.to/yahyakhaldoun/developpement-dun-systeme-dauthentification-securise-2gbn)
-- [Dr. Headline – Autonomous AI Agent Publishing Daily Factual Political News Briefings](https://dev.to/thomas-router/dr-headline-autonomous-ai-agent-publishing-daily-factual-political-news-briefings-dpc)
-- [React and typescript components lib, part 4: pre-commit with Husky and lint-staged](https://dev.to/griseduardo/react-and-typescript-components-lib-part-4-pre-commit-with-husky-and-lint-staged-369n)
-- [Biblioteca de componentes React e typescript, parte 4: pré-commit com Husky e lint-staged](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-4-pre-commit-com-husky-e-lint-staged-1l2)
+- [AI isn&#39;t Here to Replace People, and the Top 1% Percent Agrees.](https://dev.to/d2d_weizhi/ai-isnt-here-to-replace-people-and-the-top-1-percent-agrees-42em)
+- [Static Arrays - DSA Notes 📝](https://dev.to/jurozaw/static-arrays-dsa-notes-3h43)
+- [Improve Your Python Search Relevancy with Astra DB Hybrid Search](https://dev.to/datastax/improve-your-python-search-relevancy-with-astra-db-hybrid-search-11d6)
+- [I built the Cursor of SQL databases ⚡️](https://dev.to/danilovilhena/i-built-the-cursor-of-sql-databases-415e)
+- [Why Cybersecurity Isn&#39;t Optional Anymore From a Dev POV](https://dev.to/contractorx/why-cybersecurity-isnt-optional-anymore-from-a-dev-pov-e36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
