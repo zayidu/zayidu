@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating KC Authorization Services into NestJS API](https://dev.to/haithamoumer/integrating-kc-authorization-services-into-nestjs-api-46kd)
-- [Understanding Blockchain Transaction Fees: An In-Depth Exploration](https://dev.to/ashucommits/understanding-blockchain-transaction-fees-an-in-depth-exploration-2fn0)
-- [Kotlin + gRPC: Streaming, Deadlines, and Structured Error Handling](https://dev.to/lucasfugisawa/kotlin-grpc-streaming-deadlines-and-structured-error-handling-5e9k)
-- [Mojolicious and Docker part 2](https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei)
-- [Simplifying Rust Error Handling with anyhow](https://dev.to/leapcell/simplifying-rust-error-handling-with-anyhow-34be)
+- [Why Meeting-Centric Tools Fail at Async Work](https://dev.to/rally_for_jira/why-meeting-centric-tools-fail-at-async-work-mic)
+- [A Arte da Simplicidade no Desenvolvimento de Software: DRY, KISS, YAGNI e TDA](https://dev.to/diegobrandao/a-arte-da-simplicidade-no-desenvolvimento-de-software-dry-kiss-yagni-e-tda-aak)
+- [Blockchain&#39;s Role in Enhancing Open Source Transparency](https://dev.to/zhangwei42/blockchains-role-in-enhancing-open-source-transparency-2m3b)
+- [Building a Simple TCP Client in C: A Ground-Up Networking Exercise](https://dev.to/akashnanistar/building-a-simple-tcp-client-in-c-a-ground-up-networking-exercise-111a)
+- [Software Design Principles: Applying KISS and YAGNI with a Real Python Example](https://dev.to/ronal_daniellupacamaman/software-design-principles-applying-kiss-and-yagni-with-a-real-python-example-1hmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
