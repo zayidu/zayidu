@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 40 Python Interview Questions for 2025 — How Many Can You Answer? 🎯](https://dev.to/finalroundai/40-python-interview-questions-for-2025-how-many-can-you-answer-9k6)
-- [Goals Check-In: How&#39;s Your Progress Flowing?](https://dev.to/virtualcoffee/goals-check-in-hows-your-progress-flowing-2a45)
-- [SVG dimension attributes and adaptive icons](https://dev.to/jsha/svg-dimension-attributes-and-adaptive-icons-5d6g)
-- [Part 2: Smarter Than Rules — Semantic Detection, Zero-Day Protection, and Real-World Impact](https://dev.to/sharon_42e16b8da44dabde6d/part-2-smarter-than-rules-semantic-detection-zero-day-protection-and-real-world-impact-3g9a)
-- [Top 10 Java Libraries Every Developer Should Know](https://dev.to/million_formula_3be3d915d/top-10-java-libraries-every-developer-should-know-ck8)
+- [Shorthand Conditionals in PHP You Should Know](https://dev.to/mr_steelze/shorthand-conditionals-in-php-you-should-know-22np)
+- [The impact of Power Apps on resource management in healthcare](https://dev.to/megaminds/the-impact-of-power-apps-on-resource-management-in-healthcare-pi4)
+- [Why Is Real Device Testing Preferred Over Emulators And Simulators](https://dev.to/shubham-theqa/why-is-real-device-testing-preferred-over-emulators-and-simulators-2415)
+- [Apprenez à créer une connexion sécurisée en PHP avec PDO et le hachage de mots de passe.](https://dev.to/youssef_betho_b7642962fd2/apprenez-a-creer-une-connexion-securisee-en-php-avec-pdo-et-le-hachage-de-mots-de-passe-2099)
+- [Real-Time KPI monitoring for factory performance with Power BI](https://dev.to/megaminds/real-time-kpi-monitoring-for-factory-performance-with-power-bi-5edf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
