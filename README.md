@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bugs Fuel Open-Source Community](https://dev.to/fzambia/bugs-fuel-open-source-community-1cp6)
-- [I&#39;ve been planning to do a platform for researchers. I would love to get feedback and recommendation from the dev community here.](https://dev.to/naratech/ive-been-planning-to-do-a-platform-for-researchers-i-would-love-to-get-feedback-and-6ca)
-- [10 Lightweight API Gateways for Your Next Project](https://dev.to/nordicapis/10-lightweight-api-gateways-for-your-next-project-1ha3)
-- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗿𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: 𝗪𝗵𝘆 𝗢𝗔𝘂𝘁𝗵 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗶𝗻 𝗧𝗼𝗱𝗮𝘆’𝘀 𝗝𝗮𝘃𝗮 &amp; 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://dev.to/thiago_souza_1510/--17fm)
-- [AWS -Elastic Network Interfaces &lpar;ENI&rpar;](https://dev.to/skillboosttrainer/aws-elastic-network-interfaces-eni-10kh)
+- [Don’t Wait for Users to Complain: These Two Bad Boys Got You Covered](https://dev.to/lovestaco/dont-wait-for-users-to-complain-these-two-bad-boys-got-you-covered-2324)
+- [What do hackers know about your website?](https://dev.to/devh0us3/what-do-hackers-know-about-your-website-51hn)
+- [Oasis Engineering Update: zkTLS, RNG, Otomato &amp; More](https://dev.to/rollingindo/oasis-engineering-update-zktls-rng-otomato-more-1cf2)
+- [What is Object Oriented Programming – Why is Everyone Talking About it?](https://dev.to/utcli-solutions/what-is-object-oriented-programming-why-is-everyone-talking-about-it-515h)
+- [Chainprobe](https://dev.to/geoffrey_kimani_18776c699/chainprobe-2h88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
