@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Dev Team&#39;s Efficiency with Oraculum](https://dev.to/daniyar_art/boost-your-dev-teams-efficiency-with-oraculum-481f)
-- [F2](https://dev.to/david_bermenvliz/f2-19j5)
-- [Why Developers Should Care About Workplace Accessibility](https://dev.to/corporateone/why-developers-should-care-about-workplace-accessibility-5e9d)
-- [AI Classification models Performance Evaluation using Confusion Matrix -](https://dev.to/lea_abraham_7a0232a6cd616/ai-classification-models-performance-evaluation-using-confusion-matrix--g80)
-- [Nueva función](https://dev.to/david_bermenvliz/nueva-funcion-14i4)
+- [You Should Break Prod](https://dev.to/code42cate/you-should-break-prod-24lb)
+- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-kg4)
+- [Quick Tutorial: Implementing Google OAuth2 in FastAPI &lpar;Callback Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-implementing-google-oauth2-in-fastapi-callback-method-ba4)
+- [Quick Tutorial: Adding Google Auth to FastAPI &lpar;Token Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-adding-google-auth-to-fastapi-token-method-1ggg)
+- [Better Presentations with AI-Powered Slide Notes](https://dev.to/researchwize/better-presentations-with-ai-powered-slide-notes-22gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
