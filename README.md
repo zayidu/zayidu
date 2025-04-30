@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: The Calm Revolution in Developer Workflows](https://dev.to/sung_jinwoo_ae9a810f8c46a/vibe-coding-the-calm-revolution-in-developer-workflows-d04)
-- [Re: Will AI Take My Job? A Coder&#39;s Reality Check](https://dev.to/canro91/re-will-ai-take-my-job-a-coders-reality-check-4gmg)
-- [How Generative AI Is Redefining ITSM Workflows in 2025](https://dev.to/sip_mjb/how-generative-ai-is-redefining-itsm-workflows-in-2025-1ia2)
-- [Beyond Automation: How Generative AI Is Redefining ITSM Workflows in 2025](https://dev.to/sip_mjb/beyond-automation-how-generative-ai-is-redefining-itsm-workflows-in-2025-4aaj)
-- [[Boost]](https://dev.to/nikhil_sachapara/-56a2)
+- [MEMS: The Iron Throne of Micro-Tech](https://dev.to/ersajay/mems-the-iron-throne-of-micro-tech-2cm3)
+- [Why PHP Logging and Observability Are Essential for Modern Web Applications?](https://dev.to/olivia_madison_b0ad7090ad/why-php-logging-and-observability-are-essential-for-modern-web-applications-4cl8)
+- [good👍](https://dev.to/ixkit/good-1dkd)
+- [useRouter in Next.js](https://dev.to/khanrabiul/userouter-in-nextjs-4p7h)
+- [How Reinforcement Learning Powers Decision-Making in AI](https://dev.to/sai_rishika_0e321c17cfc13/how-reinforcement-learning-powers-decision-making-in-ai-1gk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
