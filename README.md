@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Origin Resource Sharing](https://dev.to/the-matrixneo/cross-origin-resource-sharing-278l)
-- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
-- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
-- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
-- [Digging Through Linux: Must-Know Tools for File and Content Searches](https://dev.to/shrsv/digging-through-linux-must-know-tools-for-file-and-content-searches-4oon)
+- [GitHub Actions Pro: Reusable Workflows, Matrix Magic &amp; Custom Automation](https://dev.to/alex_aslam/github-actions-pro-reusable-workflows-matrix-magic-custom-automation-1pm9)
+- [Qwen 3: Alibaba&#39;s Leap Forward in Open-Source AI](https://dev.to/mechcloud_academy/qwen-3-alibabas-leap-forward-in-open-source-ai-4hg3)
+- [Resize Observer API for UI Adaptability](https://dev.to/omriluz1/resize-observer-api-for-ui-adaptability-h3d)
+- [How to keep toxicity out of agile teams for project success](https://dev.to/rootstack/how-to-keep-toxicity-out-of-agile-teams-for-project-success-b82)
+- [The RHEL9 Roommates: A Sitcom Guide to Cloud Career Glory](https://dev.to/higgs182092/the-rhel9-roommates-a-sitcom-guide-to-cloud-career-glory-26oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
