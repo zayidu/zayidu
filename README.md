@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Wait for Users to Complain: These Two Bad Boys Got You Covered](https://dev.to/lovestaco/dont-wait-for-users-to-complain-these-two-bad-boys-got-you-covered-2324)
-- [What do hackers know about your website?](https://dev.to/devh0us3/what-do-hackers-know-about-your-website-51hn)
-- [Oasis Engineering Update: zkTLS, RNG, Otomato &amp; More](https://dev.to/rollingindo/oasis-engineering-update-zktls-rng-otomato-more-1cf2)
-- [What is Object Oriented Programming – Why is Everyone Talking About it?](https://dev.to/utcli-solutions/what-is-object-oriented-programming-why-is-everyone-talking-about-it-515h)
-- [Chainprobe](https://dev.to/geoffrey_kimani_18776c699/chainprobe-2h88)
+- [Cross-Origin Resource Sharing](https://dev.to/the-matrixneo/cross-origin-resource-sharing-278l)
+- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
+- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
+- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
+- [Digging Through Linux: Must-Know Tools for File and Content Searches](https://dev.to/shrsv/digging-through-linux-must-know-tools-for-file-and-content-searches-4oon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
