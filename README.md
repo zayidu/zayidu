@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Cloud Hero: My First AWS EC2 &amp; S3 Web Project](https://dev.to/casualweightlifter54/from-zero-to-cloud-hero-my-first-aws-ec2-s3-web-project-26jh)
-- [🚀 New to AWS? Start with EC2! It&#39;s a virtual server in the cloud. Create a free-tier account, launch a t2.micro instance, connect via SSH, and explore Linux or host simple apps. Perfect first step into cloud computing! 💡 #AWS #DevOps #Cloud](https://dev.to/nilupul4242/new-to-aws-start-with-ec2-its-a-virtual-server-in-the-cloud-create-a-free-tier-account-33b0)
-- [From Postman to Bruno](https://dev.to/luidynaves/from-postman-to-bruno-242f)
-- [5 Free Programming Learning Portals: Unlocking Free Access to Top - Notch Coding Skills](https://dev.to/scrapestorm/5-free-programming-learning-portals-unlocking-free-access-to-top-notch-coding-skills-5elk)
-- [Building Serverless Workflows with AWS Lambda + Step Functions &lpar;Automated Workflows with State and Error Handling&rpar;](https://dev.to/hexshift/building-serverless-workflows-with-aws-lambda-step-functions-automated-workflows-with-state-and-41c8)
+- [Blockchain Project Funding: A Comprehensive Guide for dApps Developers](https://dev.to/zhangwei42/blockchain-project-funding-a-comprehensive-guide-for-dapps-developers-1mf9)
+- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
+- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-aen)
+- [How Can I Make Progress on DEV Community?](https://dev.to/nicole_smith/how-can-i-make-progress-on-dev-community-1n8h)
+- [ASIS APP Certification: Everything You Need to Know](https://dev.to/mormly/asis-app-certification-everything-you-need-to-know-4kpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
