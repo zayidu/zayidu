@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Performance: Essential Memory Optimization Techniques for Spring Boot Applications](https://dev.to/tharindufdo/boosting-performance-essential-memory-optimization-techniques-for-spring-boot-applications-11ng)
-- [[Boost]](https://dev.to/nghihua/-852)
-- [Build Trust, Not Buzzwords: A Dev-Centric Approach to Advertising on DEV](https://dev.to/engnelson/build-trust-not-buzzwords-a-dev-centric-approach-to-advertising-on-dev-4ojj)
-- [Tainted Canvas: why the browser blocks your canvas &lpar;and how to unblock it&rpar;](https://dev.to/reynaldi/tainted-canvas-why-the-browser-blocks-your-canvas-and-how-to-unblock-it-57e7)
-- [Scaling Search at finlight.me: From Postgres Full-Text to Real-Time OpenSearch](https://dev.to/jubeiargh/scaling-search-at-finlightme-from-postgres-full-text-to-real-time-opensearch-33op)
+- [Building a Smart Documentation, based on OpenAI Embeddings &lpar;Chunking, Indexing, and Searching&rpar;](https://dev.to/aypineau/building-a-smart-documentation-based-on-openai-embeddings-chunking-indexing-and-searching-4nam)
+- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
+- [A Handy Way to Handle API Validation in Laravel](https://dev.to/initstack/a-handy-way-to-handle-api-validation-in-laravel-43c0)
+- [The Evolution of Architecture: Monolithic vs. Microservices](https://dev.to/leapcell/the-evolution-of-architecture-monolithic-vs-microservices-431j)
+- [Database Sharding 101](https://dev.to/thelennzer/database-sharding-101-112l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
