@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Design Pattern: Implementing the Service Layer Pattern in Python](https://dev.to/ronal_daniellupacamaman/enterprise-design-pattern-implementing-the-service-layer-pattern-in-python-57mh)
-- [onuze - Open source reddit alternative](https://dev.to/shaongit/onuze-open-source-reddit-alternative-4p25)
-- [&quot;Healing with Algorithms: How AI is Revolutionizing the Future of Healthcare&quot;](https://dev.to/dibborah100/healing-with-algorithms-how-ai-is-revolutionizing-the-future-of-healthcare-5fb8)
-- [✍️ Writing Design Docs That Don’t Suck &lpar;And Why It’s a Superpower for Engineers&rpar;](https://dev.to/pronnoygoswami/writing-design-docs-that-dont-suck-and-why-its-a-superpower-for-engineers-1gk8)
-- [I&#39;m a 9th Grader &amp; Built My Own Developer Portfolio – Check Out BorgDev!](https://dev.to/borgbyte_hub/im-a-9th-grader-built-my-own-developer-portfolio-check-out-borgdev-1j9l)
+- [DeFi Isn’t Dead — But Most Tokens Are](https://dev.to/martin_call/defi-isnt-dead-but-most-tokens-are-4iag)
+- [Mastering Angular Environments and Path Aliases with Signals: A Calculator Example](https://dev.to/cristiansifuentes/mastering-angular-environments-and-path-aliases-with-signals-a-calculator-example-1i0k)
+- [✍️ 📄 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐃𝐨𝐜𝐬 𝐓𝐡𝐚𝐭 𝐃𝐨𝐧’𝐭 𝐒𝐮𝐜𝐤 &lpar;𝐀𝐧𝐝 𝐖𝐡𝐲 𝐈𝐭’𝐬 𝐚 𝐒𝐮𝐩𝐞𝐫𝐩𝐨𝐰𝐞𝐫 𝐟𝐨𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬&rpar; What separates 𝘨𝘰𝘰𝘥 engineers from 𝘨𝘳𝘦𝘢𝘵 ones? Give it a read!](https://dev.to/pronnoygoswami/-what-m1a)
+- [How Easily to Learn Computer Science.](https://dev.to/code_2/how-easily-to-learn-computer-science-2gki)
+- [TIL!](https://dev.to/fmerian/til-2212)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
