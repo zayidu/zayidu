@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Your Free Landing Page](https://dev.to/nightwalker28/how-to-create-your-free-landing-page-22e1)
-- [Review My Portfolio](https://dev.to/mohamed_outerbah_eea4b2f0/review-my-portfolio-2gpb)
-- [HybridCache &amp; Redis: Cache Smarter, Not Harder for ASP.NET APIs 🚀](https://dev.to/dorinandreidragan/hybridcache-redis-cache-smarter-not-harder-for-aspnet-apis-48cb)
-- [Radix Sort](https://dev.to/nitinsonicoder/radix-sort-1igp)
-- [Umrah in August: Benefits, Practical Tips, and Islamic Significance](https://dev.to/hasanbasri/umrah-in-august-benefits-practical-tips-and-islamic-significance-36ha)
+- [Microservices Ki Kahaani Part 2: Messaging - When REST &amp; gRPC Need a Break!](https://dev.to/puneet_kumar_0e593e14483e/microservices-ki-kahaani-part-2-messaging-when-rest-grpc-need-a-break-3pph)
+- [How to implement AI automation in your business](https://dev.to/viitorcloud/how-to-implement-ai-automation-in-your-business-g4e)
+- [Multiplayer VR Development using Unity XR Interaction Toolkit and Photon Fusion 2](https://dev.to/niraj_gaming/multiplayer-vr-development-using-unity-xr-interaction-toolkit-and-photon-fusion-2-dnb)
+- [Scripting Series – Part 3 of 7](https://dev.to/alexenson/scripting-series-part-3-of-7-4jjf)
+- [RAG - Retrieval-Augmented Generation, Making AI Smarter](https://dev.to/pawarjay19/rag-retrieval-augmented-generation-making-ai-smarter-mb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
