@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# When Laravel Feels Too Heavy: Why Velto Was Created?](https://dev.to/veltophp/-when-laravel-feels-too-heavy-why-velto-was-created-219)
-- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
-- [Book Recommendation Web App: A Cloud-Powered Solution for Personalized Book Discovery](https://dev.to/leonardkachi/book-recommendation-web-app-a-cloud-powered-solution-for-personalized-book-discovery-2cmn)
-- [Giới Thiệu Về SEO Và Cách Cấu Hình SEO Trong PHP](https://dev.to/18_nhtphngv_c0a9824/gioi-thieu-ve-seo-va-cach-cau-hinh-seo-trong-php-790)
-- [Implementing OTP Auth in Next.js: A Step-by-Step Guide](https://dev.to/corbado/implementing-otp-auth-in-nextjs-a-step-by-step-guide-4g7i)
+- [How to Create Your Free Landing Page](https://dev.to/nightwalker28/how-to-create-your-free-landing-page-22e1)
+- [Review My Portfolio](https://dev.to/mohamed_outerbah_eea4b2f0/review-my-portfolio-2gpb)
+- [HybridCache &amp; Redis: Cache Smarter, Not Harder for ASP.NET APIs 🚀](https://dev.to/dorinandreidragan/hybridcache-redis-cache-smarter-not-harder-for-aspnet-apis-48cb)
+- [Radix Sort](https://dev.to/nitinsonicoder/radix-sort-1igp)
+- [Umrah in August: Benefits, Practical Tips, and Islamic Significance](https://dev.to/hasanbasri/umrah-in-august-benefits-practical-tips-and-islamic-significance-36ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
