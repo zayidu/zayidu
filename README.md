@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Meeting-Centric Tools Fail at Async Work](https://dev.to/rally_for_jira/why-meeting-centric-tools-fail-at-async-work-mic)
-- [A Arte da Simplicidade no Desenvolvimento de Software: DRY, KISS, YAGNI e TDA](https://dev.to/diegobrandao/a-arte-da-simplicidade-no-desenvolvimento-de-software-dry-kiss-yagni-e-tda-aak)
-- [Blockchain&#39;s Role in Enhancing Open Source Transparency](https://dev.to/zhangwei42/blockchains-role-in-enhancing-open-source-transparency-2m3b)
-- [Building a Simple TCP Client in C: A Ground-Up Networking Exercise](https://dev.to/akashnanistar/building-a-simple-tcp-client-in-c-a-ground-up-networking-exercise-111a)
-- [Software Design Principles: Applying KISS and YAGNI with a Real Python Example](https://dev.to/ronal_daniellupacamaman/software-design-principles-applying-kiss-and-yagni-with-a-real-python-example-1hmp)
+- [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://dev.to/tutti/deeprag-thinking-to-retrieval-step-by-step-for-large-language-models-29bf)
+- [Mastering Conditional Rendering in React](https://dev.to/tene/mastering-conditional-rendering-in-react-4980)
+- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
+- [stimulus](https://dev.to/donnellycarroll/stimulus-249d)
+- [Cracking MySQL Performance: What is Indexing and Why It Matters](https://dev.to/tyagi_data_wizard/cracking-mysql-performance-what-is-indexing-and-why-it-matters-4dlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
