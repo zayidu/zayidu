@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy React apps to GitHub Pages](https://dev.to/logrocket/how-to-deploy-react-apps-to-github-pages-2db8)
-- [How to Customize Termux with Tstyle: Change Fonts &amp; Themes Easily](https://dev.to/terminaltools/how-to-customize-termux-with-tstyle-change-fonts-themes-easily-1gep)
-- [How to Implement a D3.js Force-directed Graph in 2025?](https://dev.to/nigelsilonero/how-to-implement-a-d3js-force-directed-graph-in-2025-5cl1)
-- [From SysAdmin to DevOps: My Journey Into Cloud Automation](https://dev.to/superdoo/from-sysadmin-to-devops-my-journey-into-cloud-automation-ok4)
-- [Stacks - DSA Notes 📝](https://dev.to/jurozaw/stacks-dsa-notes-8om)
+- [Holbies Lightning Talks Recap: We Built an App Together!](https://dev.to/arycodes0/holbies-lightning-talks-recap-we-built-an-app-together-3k85)
+- [Testing Real-World Go Code: Table-Driven Tests, Subtests and Coverage](https://dev.to/ogundiyantobiloba/testing-real-world-go-code-table-driven-tests-subtests-and-coverage-n45)
+- [Introducing AlgorithmPress: A Powerful Alternative to WordPress Part 2](https://dev.to/brkin/introducing-algorithmpress-a-powerful-alternative-to-wordpress-part-2-29bb)
+- [Boost VS Code Copilot with MCP Servers: A Detailed Guide](https://dev.to/shrsv/boost-vs-code-copilot-with-mcp-servers-a-detailed-guide-5fh4)
+- [A First Look at Vector Sets](https://dev.to/guyroyse/a-first-look-at-vector-sets-5f67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
