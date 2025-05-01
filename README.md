@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL CASE: Conditional Logic for Powerful SQL Queries](https://dev.to/dbvismarketing/postgresql-case-conditional-logic-for-powerful-sql-queries-4nci)
-- [How to Compile C++ Code Online Without Installing Anything](https://dev.to/tpointech/how-to-compile-c-code-online-without-installing-anything-2497)
-- [IoT Security Risks and How to Protect Your Devices](https://dev.to/renaissance_9daeacf8a183c/iot-security-risks-and-how-to-protect-your-devices-2c74)
-- [¿Cómo llamar a Iberia Chile teléfono y obtener ayuda rápida?](https://dev.to/eytueiyr/como-llamar-a-iberia-chile-telefono-y-obtener-ayuda-rapida-2lil)
-- [When Not to Use DB Indexes](https://dev.to/mo7amed_3bdalla7/when-not-to-use-db-indexes-8fn)
+- [🚀 Publishing to Notion with MCP: A Seamless Integration Guide](https://dev.to/buildandcodewithraman/publishing-to-notion-with-mcp-a-seamless-integration-guide-2ce2)
+- [Supporting Innovation: The Role of Donation-Driven Projects in Open Source](https://dev.to/bobcars/supporting-innovation-the-role-of-donation-driven-projects-in-open-source-5hag)
+- [&quot;The Quest for Cloud Security and Compliance: A CSPM Story - Part 2&quot;](https://dev.to/aws-builders/the-quest-for-cloud-security-and-compliance-a-cspm-story-part-2-agm)
+- [#Day1 of My Journey to Google](https://dev.to/reenmayee/day1-of-my-journey-to-google-1b99)
+- [Integrating AI with Flutter: Building Powerful Apps with LlmClient and mcp_client](https://dev.to/mcp_devstudio/integrating-ai-with-flutter-building-powerful-apps-with-llmclient-and-mcpclient-5b0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
