@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://dev.to/tutti/deeprag-thinking-to-retrieval-step-by-step-for-large-language-models-29bf)
-- [Mastering Conditional Rendering in React](https://dev.to/tene/mastering-conditional-rendering-in-react-4980)
-- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
-- [stimulus](https://dev.to/donnellycarroll/stimulus-249d)
-- [Cracking MySQL Performance: What is Indexing and Why It Matters](https://dev.to/tyagi_data_wizard/cracking-mysql-performance-what-is-indexing-and-why-it-matters-4dlo)
+- [Day 34 : Loop Practice programmings](https://dev.to/sangamithra_k_78d83d6fb9d/day-34-loop-practice-programmings-4777)
+- [I need code help with these javascript questions Create a BankAccount constructor function that takes a user&#39;s name and balance. Add a method called deposit&lpar;amount&rpar; that increases the balance and logs the new balance, and another method withdraw&lpar;amount&rpar;](https://dev.to/joanitaawinjo/i-need-code-help-with-these-javascript-questions-create-a-bankaccount-constructor-function-that-hl3)
+- [Mastering Permission Management with `sudoers` in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/mastering-permission-management-with-sudoers-in-red-hat-linux-346k)
+- [Harnessing Office Power Tools and Tips for Energy Efficiency](https://dev.to/tech_love_ccd095911ee1dac/harnessing-office-power-tools-and-tips-for-energy-efficiency-23pg)
+- [PandaStack - An Eco-system for developers](https://dev.to/ajay_kumar_devops/pandastack-an-eco-system-for-developers-214e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
