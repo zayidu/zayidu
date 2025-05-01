@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Testing in 2025: The Human Edge in a Fast-Paced Dev World 🔍](https://dev.to/vaibhavkuls/exploratory-testing-in-2025-the-human-edge-in-a-fast-paced-dev-world-34)
-- [AZURE APPLIED SKILLS: Create and configure virtual networks.](https://dev.to/astranan/azure-applied-skills-create-and-configure-virtual-networks-b6a)
-- [Basic Computers Science](https://dev.to/coder7475/basic-computers-science-3ddl)
-- [Add an MCP Client to Any React App in Under 30 Minutes](https://dev.to/copilotkit/add-an-mcp-client-to-any-react-app-in-under-30-minutes-55gm)
-- [How to use the Next.js Image component to optimize images](https://dev.to/logrocket/how-to-use-the-nextjs-image-component-to-optimize-images-4bfn)
+- [Bitbanging a Procedural Sphere: Precision to Perfection](https://dev.to/dchahla/bitbanging-a-procedural-sphere-precision-to-perfection-1lgd)
+- [Unlocking the Future: The Role of a Developer Experience Engineer in Modern Software Development](https://dev.to/jetthoughts/unlocking-the-future-the-role-of-a-developer-experience-engineer-in-modern-software-development-105)
+- [Hotel Page Design](https://dev.to/preetha_vaishnavi_2b82358/hotel-page-design-55b1)
+- [📘 Tutorial: Refatorando com Service Objects no Ruby on Rails](https://dev.to/kintsugi-coder/tutorial-refatorando-com-service-objects-no-ruby-on-rails-4d05)
+- [🚀 Setting Up Presto : A Step by Step Installation Guide to Run SQL Queries.](https://dev.to/saurabhmahawar/setting-up-presto-a-step-by-step-installation-guide-to-run-sql-queries-85p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
