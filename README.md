@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iterator vs Generator — What’s the Difference?](https://dev.to/bharathvaj_ganesan/iterator-vs-generator-whats-the-difference-43ko)
-- [What Makes the Best Patent Search Tool in 2025?](https://dev.to/patentscanai/what-makes-the-best-patent-search-tool-in-2025-24mn)
-- [What does &quot;API Brownout&quot; actually mean?](https://dev.to/martyndavies/what-does-api-brownout-actually-mean-2k4j)
-- [Peer Review 2: Data Warehousing, Transformation, and Reproducibility in tfl-data-visualization &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-2-data-warehousing-transformation-and-reproducibility-in-tfl-data-visualization-22pp)
-- [How Image to PDF Converters Streamline Office Workflows](https://dev.to/pdf_4me/how-image-to-pdf-converters-streamline-office-workflows-3bhd)
+- [How to deploy React apps to GitHub Pages](https://dev.to/logrocket/how-to-deploy-react-apps-to-github-pages-2db8)
+- [How to Customize Termux with Tstyle: Change Fonts &amp; Themes Easily](https://dev.to/terminaltools/how-to-customize-termux-with-tstyle-change-fonts-themes-easily-1gep)
+- [How to Implement a D3.js Force-directed Graph in 2025?](https://dev.to/nigelsilonero/how-to-implement-a-d3js-force-directed-graph-in-2025-5cl1)
+- [From SysAdmin to DevOps: My Journey Into Cloud Automation](https://dev.to/superdoo/from-sysadmin-to-devops-my-journey-into-cloud-automation-ok4)
+- [Stacks - DSA Notes 📝](https://dev.to/jurozaw/stacks-dsa-notes-8om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
