@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeFi Isn’t Dead — But Most Tokens Are](https://dev.to/martin_call/defi-isnt-dead-but-most-tokens-are-4iag)
-- [Mastering Angular Environments and Path Aliases with Signals: A Calculator Example](https://dev.to/cristiansifuentes/mastering-angular-environments-and-path-aliases-with-signals-a-calculator-example-1i0k)
-- [✍️ 📄 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐃𝐨𝐜𝐬 𝐓𝐡𝐚𝐭 𝐃𝐨𝐧’𝐭 𝐒𝐮𝐜𝐤 &lpar;𝐀𝐧𝐝 𝐖𝐡𝐲 𝐈𝐭’𝐬 𝐚 𝐒𝐮𝐩𝐞𝐫𝐩𝐨𝐰𝐞𝐫 𝐟𝐨𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬&rpar; What separates 𝘨𝘰𝘰𝘥 engineers from 𝘨𝘳𝘦𝘢𝘵 ones? Give it a read!](https://dev.to/pronnoygoswami/-what-m1a)
-- [How Easily to Learn Computer Science.](https://dev.to/code_2/how-easily-to-learn-computer-science-2gki)
-- [TIL!](https://dev.to/fmerian/til-2212)
+- [Basic go lang](https://dev.to/valdineisantos/basic-go-lang-22jf)
+- [Reliable SMTP Servers Compared: Yournotify vs. Brevo vs. SendGrid &lpar;2025 Review&rpar;](https://dev.to/charlesmudy/reliable-smtp-servers-compared-yournotify-vs-brevo-vs-sendgrid-2025-review-2k9n)
+- [Postgres: Ordered Queries and the Planner](https://dev.to/misachi/postgres-ordered-queries-and-the-planner-1151)
+- [How to make your Tauri dev faster](https://dev.to/ahonn/how-to-make-your-tauri-dev-faster-2en1)
+- [How to Build Your First REST API with Node.js and Express &lpar;From Someone Who Was Scared at First&rpar;](https://dev.to/arbythecoder/how-to-build-your-first-rest-api-with-nodejs-and-express-from-someone-who-was-scared-at-first-59d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
