@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Publishing to Notion with MCP: A Seamless Integration Guide](https://dev.to/buildandcodewithraman/publishing-to-notion-with-mcp-a-seamless-integration-guide-2ce2)
-- [Supporting Innovation: The Role of Donation-Driven Projects in Open Source](https://dev.to/bobcars/supporting-innovation-the-role-of-donation-driven-projects-in-open-source-5hag)
-- [&quot;The Quest for Cloud Security and Compliance: A CSPM Story - Part 2&quot;](https://dev.to/aws-builders/the-quest-for-cloud-security-and-compliance-a-cspm-story-part-2-agm)
-- [#Day1 of My Journey to Google](https://dev.to/reenmayee/day1-of-my-journey-to-google-1b99)
-- [Integrating AI with Flutter: Building Powerful Apps with LlmClient and mcp_client](https://dev.to/mcp_devstudio/integrating-ai-with-flutter-building-powerful-apps-with-llmclient-and-mcpclient-5b0i)
+- [# When Laravel Feels Too Heavy: Why Velto Was Created?](https://dev.to/veltophp/-when-laravel-feels-too-heavy-why-velto-was-created-219)
+- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
+- [Book Recommendation Web App: A Cloud-Powered Solution for Personalized Book Discovery](https://dev.to/leonardkachi/book-recommendation-web-app-a-cloud-powered-solution-for-personalized-book-discovery-2cmn)
+- [Giới Thiệu Về SEO Và Cách Cấu Hình SEO Trong PHP](https://dev.to/18_nhtphngv_c0a9824/gioi-thieu-ve-seo-va-cach-cau-hinh-seo-trong-php-790)
+- [Implementing OTP Auth in Next.js: A Step-by-Step Guide](https://dev.to/corbado/implementing-otp-auth-in-nextjs-a-step-by-step-guide-4g7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
