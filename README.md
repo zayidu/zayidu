@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel Processing with PHP &lpar;Part 2&rpar;: Inter-Process Communication](https://dev.to/robertobutti/parallel-processing-with-php-part-2-inter-process-communication-517m)
-- [Tunneling Made Simple: Exposing Local React and Node Apps with ngrok and LocalTunnel](https://dev.to/ashay_tiwari_3658168ad5db/tunneling-made-simple-exposing-local-react-and-node-apps-with-ngrok-and-localtunnel-5g1g)
-- [You can not make a reverse engineering of “why” somebody made a decision](https://dev.to/dan1618/you-can-not-make-a-reverse-engineering-of-why-somebody-made-a-decision-4imk)
-- [Build a Real-Time Gold Rate Tracker for Pakistan Using Public Data](https://dev.to/beboo_rani_99b0cb9d2d098f/build-a-real-time-gold-rate-tracker-for-pakistan-using-public-data-4nfn)
-- [Lock Down GitHub Actions: Block Secrets Leaks &amp; Malicious Code](https://dev.to/alex_aslam/lock-down-github-actions-block-secrets-leaks-malicious-code-5576)
+- [Enterprise Design Pattern: Implementing the Service Layer Pattern in Python](https://dev.to/ronal_daniellupacamaman/enterprise-design-pattern-implementing-the-service-layer-pattern-in-python-57mh)
+- [onuze - Open source reddit alternative](https://dev.to/shaongit/onuze-open-source-reddit-alternative-4p25)
+- [&quot;Healing with Algorithms: How AI is Revolutionizing the Future of Healthcare&quot;](https://dev.to/dibborah100/healing-with-algorithms-how-ai-is-revolutionizing-the-future-of-healthcare-5fb8)
+- [✍️ Writing Design Docs That Don’t Suck &lpar;And Why It’s a Superpower for Engineers&rpar;](https://dev.to/pronnoygoswami/writing-design-docs-that-dont-suck-and-why-its-a-superpower-for-engineers-1gk8)
+- [I&#39;m a 9th Grader &amp; Built My Own Developer Portfolio – Check Out BorgDev!](https://dev.to/borgbyte_hub/im-a-9th-grader-built-my-own-developer-portfolio-check-out-borgdev-1j9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
