@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frameworks to write LinkedIn posts](https://dev.to/rajkundalia/frameworks-to-write-linkedin-posts-3h2f)
-- [Deploy Permit.IO PDP To Heroku Under 5 Mins! [Video Included]](https://dev.to/aidityasadhakim/deploy-permitio-pdp-to-heroku-under-5-mins-video-included-153l)
-- [Fast and Optimized Websites: How Next.js Enhances Performance.](https://dev.to/oextech_in_3be30efdacabb5/fast-and-optimized-websites-how-nextjs-enhances-performance-3b41)
-- [Understanding JSON Templatization with Recursion for Dynamic Data Handling](https://dev.to/keploy/understanding-json-templatization-with-recursion-for-dynamic-data-handling-2kgh)
-- [Increasing landing page conversions](https://dev.to/colinedw/increasing-landing-page-conversions-36e9)
+- [PostgreSQL CASE: Conditional Logic for Powerful SQL Queries](https://dev.to/dbvismarketing/postgresql-case-conditional-logic-for-powerful-sql-queries-4nci)
+- [How to Compile C++ Code Online Without Installing Anything](https://dev.to/tpointech/how-to-compile-c-code-online-without-installing-anything-2497)
+- [IoT Security Risks and How to Protect Your Devices](https://dev.to/renaissance_9daeacf8a183c/iot-security-risks-and-how-to-protect-your-devices-2c74)
+- [¿Cómo llamar a Iberia Chile teléfono y obtener ayuda rápida?](https://dev.to/eytueiyr/como-llamar-a-iberia-chile-telefono-y-obtener-ayuda-rapida-2lil)
+- [When Not to Use DB Indexes](https://dev.to/mo7amed_3bdalla7/when-not-to-use-db-indexes-8fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
