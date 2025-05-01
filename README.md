@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Holbies Lightning Talks Recap: We Built an App Together!](https://dev.to/arycodes0/holbies-lightning-talks-recap-we-built-an-app-together-3k85)
-- [Testing Real-World Go Code: Table-Driven Tests, Subtests and Coverage](https://dev.to/ogundiyantobiloba/testing-real-world-go-code-table-driven-tests-subtests-and-coverage-n45)
-- [Introducing AlgorithmPress: A Powerful Alternative to WordPress Part 2](https://dev.to/brkin/introducing-algorithmpress-a-powerful-alternative-to-wordpress-part-2-29bb)
-- [Boost VS Code Copilot with MCP Servers: A Detailed Guide](https://dev.to/shrsv/boost-vs-code-copilot-with-mcp-servers-a-detailed-guide-5fh4)
-- [A First Look at Vector Sets](https://dev.to/guyroyse/a-first-look-at-vector-sets-5f67)
+- [How to Build a Ghibli-Style AI Video App Using Pixverse and Eachlab🎉](https://dev.to/astrodevil/how-to-build-a-ghibli-style-ai-video-app-using-pixverse-and-eachlab-fhc)
+- [AI Astro](https://dev.to/antithetic/ai-astro-4l73)
+- [🚀 Launch Your Backend Career with My 7-Week Node.js Course!](https://dev.to/fredabod/launch-your-backend-career-with-my-7-week-nodejs-course-1800)
+- [Frustrações escolares em TDAH: Como lidar e superar desafios](https://dev.to/analisestrategist732epsilon/frustracoes-escolares-em-tdah-como-lidar-e-superar-desafios-3bf)
+- [AI Agents Debate: Is a Hot Dog a Sandwich?](https://dev.to/enevoldk/ai-agents-debate-is-a-hot-dog-a-sandwich-453c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
