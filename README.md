@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Python with Rust: A Practical Guide](https://dev.to/leapcell/accelerating-python-with-rust-a-practical-guide-38gm)
-- [How AI Understands Your Documents: The Secret Sauce of RAG](https://dev.to/mario_s/how-ai-understands-your-documents-the-secret-sauce-of-rag-5cnb)
-- [200 JavaScript Project Ideas to Sharpen Your Skills &lpar;With Source Code Inside!&rpar;](https://dev.to/code_2/200-javascript-project-ideas-to-sharpen-your-skills-with-source-code-inside-518h)
-- [handleExportPdf&lpar;&rpar; in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/handleexportpdf-in-suna-an-open-source-generalist-ai-agent-46e2)
-- [Creating a Live Playwright REPL for Browser Automation over SSH or API](https://dev.to/hexshift/creating-a-live-playwright-repl-for-browser-automation-over-ssh-or-api-dn5)
+- [Personalized Leather Passport Holders: A Stylish Travel Accessory](https://dev.to/nisha_luthra_7a55ef0b13b0/personalized-leather-passport-holders-a-stylish-travel-accessory-5ci4)
+- [My Self](https://dev.to/justkoding69s/my-self-3li5)
+- [🧠 Mastering MongoDB Aggregation](https://dev.to/arjun_computer_geek/mastering-mongodb-aggregation-4094)
+- [JavaScript – The Boundary of Date](https://dev.to/jenchen/javascript-the-boundary-of-date-3771)
+- [Scaling ReactJS Applications Effortlessly: A Practical Guide](https://dev.to/brilworks/scaling-reactjs-applications-effortlessly-a-practical-guide-52f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
