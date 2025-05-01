@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalized Leather Passport Holders: A Stylish Travel Accessory](https://dev.to/nisha_luthra_7a55ef0b13b0/personalized-leather-passport-holders-a-stylish-travel-accessory-5ci4)
-- [My Self](https://dev.to/justkoding69s/my-self-3li5)
-- [🧠 Mastering MongoDB Aggregation](https://dev.to/arjun_computer_geek/mastering-mongodb-aggregation-4094)
-- [JavaScript – The Boundary of Date](https://dev.to/jenchen/javascript-the-boundary-of-date-3771)
-- [Scaling ReactJS Applications Effortlessly: A Practical Guide](https://dev.to/brilworks/scaling-reactjs-applications-effortlessly-a-practical-guide-52f0)
+- [Frameworks to write LinkedIn posts](https://dev.to/rajkundalia/frameworks-to-write-linkedin-posts-3h2f)
+- [Deploy Permit.IO PDP To Heroku Under 5 Mins! [Video Included]](https://dev.to/aidityasadhakim/deploy-permitio-pdp-to-heroku-under-5-mins-video-included-153l)
+- [Fast and Optimized Websites: How Next.js Enhances Performance.](https://dev.to/oextech_in_3be30efdacabb5/fast-and-optimized-websites-how-nextjs-enhances-performance-3b41)
+- [Understanding JSON Templatization with Recursion for Dynamic Data Handling](https://dev.to/keploy/understanding-json-templatization-with-recursion-for-dynamic-data-handling-2kgh)
+- [Increasing landing page conversions](https://dev.to/colinedw/increasing-landing-page-conversions-36e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
