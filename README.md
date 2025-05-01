@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Windows to Linux](https://dev.to/raman_butta/migrating-from-windows-to-linux-53ho)
-- [Power of Manufacturing Data Analytics: A Strategic Advantage](https://dev.to/gauridigital/power-of-manufacturing-data-analytics-a-strategic-advantage-47of)
-- [Unlocking the Power of AI: A Developer’s Ultimate Guide to Tools, Prompt Engineering, and Productivity Mastery](https://dev.to/ivocreates/unlocking-the-power-of-ai-a-developers-ultimate-guide-to-tools-prompt-engineering-and-4dj)
-- [How do GANs balance generator and discriminator training?](https://dev.to/the_medicaltreasure_cf3a/how-do-gans-balance-generator-and-discriminator-training-412o)
-- [USA-Based Developers for Hire: What You Need to Prepare First](https://dev.to/yashsmith/usa-based-developers-for-hire-what-you-need-to-prepare-first-3841)
+- [Exploratory Testing in 2025: The Human Edge in a Fast-Paced Dev World 🔍](https://dev.to/vaibhavkuls/exploratory-testing-in-2025-the-human-edge-in-a-fast-paced-dev-world-34)
+- [AZURE APPLIED SKILLS: Create and configure virtual networks.](https://dev.to/astranan/azure-applied-skills-create-and-configure-virtual-networks-b6a)
+- [Basic Computers Science](https://dev.to/coder7475/basic-computers-science-3ddl)
+- [Add an MCP Client to Any React App in Under 30 Minutes](https://dev.to/copilotkit/add-an-mcp-client-to-any-react-app-in-under-30-minutes-55gm)
+- [How to use the Next.js Image component to optimize images](https://dev.to/logrocket/how-to-use-the-nextjs-image-component-to-optimize-images-4bfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
