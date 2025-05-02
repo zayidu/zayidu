@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
-- [🚀 Python Async Basics: Write Faster Code with Less Stress](https://dev.to/aleksei_aleinikov/python-async-basics-write-faster-code-with-less-stress-260b)
-- [🚀 When and How to Use React.memo Effectively](https://dev.to/aleksei_aleinikov/when-and-how-to-use-reactmemo-effectively-3ki5)
-- [🚀 Switching from Node + Express to Hono + Bun and I’m not looking back.](https://dev.to/thisisarkajitroy/switching-from-node-express-to-hono-bun-and-im-not-looking-back-2ofb)
-- [🚀 Ply vs Lark: Which Python Parsing Library Should You Use in 2025?](https://dev.to/aleksei_aleinikov/ply-vs-lark-which-python-parsing-library-should-you-use-in-2025-32ic)
+- [🧠 The Power of Web Workers for Frontend Performance](https://dev.to/hasunnilupul/the-power-of-web-workers-for-frontend-performance-1h6i)
+- [S3: Presigned URL upload with tags](https://dev.to/aws-builders/s3-presigned-url-upload-with-tags-ohk)
+- [Understanding DNS Record Types: A Practical Deep Dive 🌍](https://dev.to/tejastn10/understanding-dns-record-types-a-practical-deep-dive-2noa)
+- [ArchLinux Setup Guide For Intel MacBook Pro](https://dev.to/x1unix/archlinux-setup-guide-for-intel-macbook-pro-58b8)
+- [&quot;Bridging Minds &amp; Machines: How Startups Can Ignite Artistic Innovation at the AI-Creativity Crossroads&quot;](https://dev.to/dibborah100/bridging-minds-machines-how-startups-can-ignite-artistic-innovation-at-the-ai-creativity-18a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
