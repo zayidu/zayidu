@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ai Supabase Seeder](https://dev.to/mmvergara/ai-supabase-seeder-n1k)
-- [A beginner&#39;s guide to the Controlnet-1.1-X-Realistic-Vision-V2.0 model by Usamaehsan on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-controlnet-11-x-realistic-vision-v20-model-by-usamaehsan-on-replicate-49o5)
-- [Physics MDHI 27-Dimension Analogy N-Back](https://dev.to/michael_02910bc84e622d090/physics-mdhi-27-dimension-analogy-n-back-29i2)
-- [Securing Your DNS Server in Red Hat Linux Against Attacks](https://dev.to/axisinfo_0a61830e06c3c950/securing-your-dns-server-in-red-hat-linux-against-attacks-8cd)
-- [Image Slider - responsive, modular, autoplay](https://dev.to/preetha_vaishnavi_2b82358/image-slider-responsive-modular-autoplay-56g1)
+- [Race Conditions in JWT Refresh Token Rotation 🏃‍♀️‍➡️](https://dev.to/silentwatcher_95/race-conditions-in-jwt-refresh-token-rotation-3j5k)
+- [Kuinka aloittaa web-kehityksen opiskelu vuonna 2025 &lpar;Aloittelijan opas&rpar;](https://dev.to/sofiamayer_dev/kuinka-aloittaa-web-kehityksen-opiskelu-vuonna-2025-aloittelijan-opas-15fo)
+- [2.2.3 Hybrid Architectures &lpar;Distributed Systems&rpar;](https://dev.to/dima853/223-hybrid-architectures-distributed-systems-14d4)
+- [Predicting Crop Yield using Machine Learning](https://dev.to/h4ck3r/predicting-crop-yield-using-machine-learning-3b79)
+- [Couchbase Weekly Updates - May 2, 2025](https://dev.to/couchbase/couchbase-weekly-updates-may-2-2025-3hc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
