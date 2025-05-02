@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ralphsebastian/-3c2h)
-- [Asynchronous Handlers in Brighter](https://dev.to/actor-dev/asynchronous-handlers-in-brighter-16j4)
-- [Brighter: Handler Assíncronos](https://dev.to/actor-dev/brighter-async-2cch)
-- [The Yoga of Image Generation – Part 2](https://dev.to/worldlinetech/the-yoga-of-image-generation-part-2-42c)
-- [started learning web dev](https://dev.to/zipcode2007/started-learning-web-dev-46np)
+- [Introduction to Wave v0.1.0-pre-beta: Add Import and UTF-8 Support](https://dev.to/lunastev/introduction-to-wave-v010-pre-beta-add-import-and-utf-8-support-2cid)
+- [How to start your journey in Open Source using the example of a small Go project](https://dev.to/pashkov256/how-to-start-your-journey-in-open-source-using-the-example-of-a-small-go-project-1e5j)
+- [Angular](https://dev.to/gaurangdhorda/angular-3mj7)
+- [Integrating authorization in a Spring Boot API](https://dev.to/authaction/integrating-authorization-in-a-spring-boot-api-3151)
+- [Implementing a Modular Kargo Promotion Workflow: Extracting PromotionTask from Stage for Maintainability](https://dev.to/josephcc/implementing-a-modular-kargo-promotion-workflow-extracting-promotiontask-from-stage-for-4npi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
