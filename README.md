@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Wave v0.1.0-pre-beta: Add Import and UTF-8 Support](https://dev.to/lunastev/introduction-to-wave-v010-pre-beta-add-import-and-utf-8-support-2cid)
-- [How to start your journey in Open Source using the example of a small Go project](https://dev.to/pashkov256/how-to-start-your-journey-in-open-source-using-the-example-of-a-small-go-project-1e5j)
-- [Angular](https://dev.to/gaurangdhorda/angular-3mj7)
-- [Integrating authorization in a Spring Boot API](https://dev.to/authaction/integrating-authorization-in-a-spring-boot-api-3151)
-- [Implementing a Modular Kargo Promotion Workflow: Extracting PromotionTask from Stage for Maintainability](https://dev.to/josephcc/implementing-a-modular-kargo-promotion-workflow-extracting-promotiontask-from-stage-for-4npi)
+- [Do You Really Need a “Second Brain”?](https://dev.to/luca1iu/do-you-really-need-a-second-brain-4jfm)
+- [Getting started with networking 🛜🕸️](https://dev.to/nitin_b_839821d8ec281e9c9/getting-started-with-networking-48d4)
+- [Traverse the Process Environment Block &lpar;PEB&rpar; in Rust](https://dev.to/windasunnie/traverse-the-process-environment-block-peb-in-rust-498b)
+- [Scrape Swiggy Reviews Data | Zomato Reviews Data Extraction](https://dev.to/datazivot1/scrape-swiggy-reviews-data-zomato-reviews-data-extraction-41f0)
+- [My slides from Manchester DM - How eCommerce Faceted Navigation can either Supercharge or Sabotage SEO](https://dev.to/chrisleverseo/my-slides-from-manchester-dm-how-ecommerce-faceted-navigation-can-either-supercharge-or-sabotage-30ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
