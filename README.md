@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concept Of Ingress In Kubernetes : Basics](https://dev.to/alkesh009/concept-of-ingress-in-kubernetes-basics-14hl)
-- [Predictive Analytics: How AI Is Learning to Read Your Users&#39; Minds — Before You Even Ask](https://dev.to/okoye_ndidiamaka_5e3b7d30/predictive-analytics-how-ai-is-learning-to-read-your-users-minds-before-you-even-ask-11db)
-- [ES Modules and CommonJS Modules Explained](https://dev.to/artem_turlenko/es-modules-and-commonjs-modules-explained-4gm)
-- [The 10 Things to Consider Before Creating Your Own Cryptocurrency](https://dev.to/hexshift/the-10-things-to-consider-before-creating-your-own-cryptocurrency-2f5h)
-- [My Favorite 10 JavaScript One-Liners That Save Time Daily](https://dev.to/shaahzaibrehman/my-favorite-10-javascript-one-liners-that-save-time-daily-2ll2)
+- [[Boost]](https://dev.to/ralphsebastian/-3c2h)
+- [Asynchronous Handlers in Brighter](https://dev.to/actor-dev/asynchronous-handlers-in-brighter-16j4)
+- [Brighter: Handler Assíncronos](https://dev.to/actor-dev/brighter-async-2cch)
+- [The Yoga of Image Generation – Part 2](https://dev.to/worldlinetech/the-yoga-of-image-generation-part-2-42c)
+- [started learning web dev](https://dev.to/zipcode2007/started-learning-web-dev-46np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
