@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sustainable Kubernetes workload with Kepler](https://dev.to/mageshwaransekar/sustainable-kubernetes-workload-with-kepler-2lp7)
-- [OWASP Top 10 For Flutter — M5: Insecure Communication for Flutter and Dart](https://dev.to/yurii_denchyk_bb561af8d2d/owasp-top-10-for-flutter-m5-insecure-communication-for-flutter-and-dart-42hm)
-- [WeTransact: Microsoft Azure Marketplace Integration](https://dev.to/wetransact/wetransact-microsoft-azure-marketplace-integration-a96)
-- [Part 2: The Vite Chronicals](https://dev.to/svbygoibear/part-2-the-vite-chronicals-2ic0)
-- [Ace Web Academy vs. Self-Taught Web Design: Why Structured Learning Wins Every Time](https://dev.to/kiraninfasta/ace-web-academy-vs-self-taught-web-design-why-structured-learning-wins-every-time-b24)
+- [Building a Scalable and Resilient Architecture on AWS](https://dev.to/aws-builders/building-a-scalable-and-resilient-architecture-on-aws-35g2)
+- [Interface &amp; Class](https://dev.to/vasutamil19/interface-class-gol)
+- [Creating a Linux VM on Azure](https://dev.to/habeeb_hameed_0753445424a/part-1-creating-a-linux-vm-on-azure-475e)
+- [From Zero to Scale: Kubernetes on Proxmox &lpar;The scaling Autopilot Method&rpar;](https://dev.to/3deep5me/from-zero-to-scale-kubernetes-on-proxmox-the-scaling-autopilot-method-1l64)
+- [Comprehensive Hardware Requirements Report for DeepSeek R1](https://dev.to/ai4b/comprehensive-hardware-requirements-report-for-deepseek-r1-5269)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
