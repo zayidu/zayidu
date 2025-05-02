@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My top 5 VScode extensions](https://dev.to/jthedeveloper/my-top-5-vscode-extensions-f2a)
-- [🔐 Permission Testing Toolkit — Build, Validate, and Ship Secure Authorization with Permit.io](https://dev.to/york/permission-testing-toolkit-build-validate-and-ship-secure-authorization-with-permitio-375b)
-- [The Rise of Fragment Telegram Scams: What You Need to Know](https://dev.to/bobcars/the-rise-of-fragment-telegram-scams-what-you-need-to-know-4nf5)
-- [JavaScript is Not That Hard](https://dev.to/code_2/javascript-is-not-that-hard-450o)
-- [[Parte 3] Enviando dados entre aplicações com Module](https://dev.to/werliton/parte-3-enviando-dados-entre-aplicacoes-com-module-ond)
+- [Why Next.js is the Best Framework for SEO in 2025](https://dev.to/umairarshad-dev/why-nextjs-is-the-best-framework-for-seo-in-2025-24m2)
+- [Cross-Platform Software Development – Part 1: Yes, Bytes Can Be 9 Bits](https://dev.to/nikolay_chirkov/cross-platform-software-development-part-1-yes-bytes-can-be-9-bits-2c71)
+- [Supercharge Your Workflow: AI Chatbots, CLI Magic, and Smarter AI Usage with nGPT](https://dev.to/nazdridoy/supercharge-your-workflow-ai-chatbots-cli-magic-and-smarter-ai-usage-with-ngpt-mhg)
+- [How to Create a Secure Cryptocurrency with Zero Budget](https://dev.to/hexshift/how-to-create-a-secure-cryptocurrency-with-zero-budget-4bo4)
+- [&quot;Turbocharge Startup Success in Emerging Markets with AI-Powered Predictive Analytics&quot;](https://dev.to/dibborah100/turbocharge-startup-success-in-emerging-markets-with-ai-powered-predictive-analytics-20ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
