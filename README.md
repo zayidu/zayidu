@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The Power of Web Workers for Frontend Performance](https://dev.to/hasunnilupul/the-power-of-web-workers-for-frontend-performance-1h6i)
-- [S3: Presigned URL upload with tags](https://dev.to/aws-builders/s3-presigned-url-upload-with-tags-ohk)
-- [Understanding DNS Record Types: A Practical Deep Dive 🌍](https://dev.to/tejastn10/understanding-dns-record-types-a-practical-deep-dive-2noa)
-- [ArchLinux Setup Guide For Intel MacBook Pro](https://dev.to/x1unix/archlinux-setup-guide-for-intel-macbook-pro-58b8)
-- [&quot;Bridging Minds &amp; Machines: How Startups Can Ignite Artistic Innovation at the AI-Creativity Crossroads&quot;](https://dev.to/dibborah100/bridging-minds-machines-how-startups-can-ignite-artistic-innovation-at-the-ai-creativity-18a8)
+- [Arrays and Vectors Explanation for app.codility.com/programmers in C++](https://dev.to/chrys/arrays-and-vectors-explanation-for-appcodilitycomprogrammers-in-c-4khd)
+- [Hire Skilled Remote Developers in 2025 Without Wasting Budget](https://dev.to/appstackwriter/hire-skilled-remote-developers-in-2025-without-wasting-budget-16d4)
+- [Build an AI-Powered Stock Analyzer Using Streamlit, Olostep, and OpenAI](https://dev.to/mohammad_ehsanansari_671/build-an-ai-powered-stock-analyzer-using-streamlit-olostep-and-openai-4a3c)
+- [My Leadership Playbook](https://dev.to/adityasatrio/my-leadership-playbook-imn)
+- [Top 7 Golden Rules for UX Design Success! Design isn&#39;t just decoration—it&#39;s communication. #UXDesign #UIDesign](https://dev.to/swetty_sultania_834f90237/top-7-golden-rules-for-ux-design-success-design-isnt-just-decoration-its-communication-26c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
