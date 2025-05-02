@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Linux Virtual Machine in Azure Portal and Install Nginx](https://dev.to/habeeb_hameed_0753445424a/how-to-create-a-linux-virtual-machine-in-azure-portal-and-install-nginx-1cmd)
-- [What Are Pytorch Nn Modules in 2025?](https://dev.to/nigelsilonero/what-are-pytorch-nn-modules-in-2025-4jga)
-- [How to Build a Nutrition Tracker App Using the Foodie API](https://dev.to/martintonev/how-to-build-a-nutrition-tracker-app-using-the-foodie-api-10hh)
-- [Daily JavaScript Challenge #JS-167: Calculate the Maximum Depth of Nested Parentheses in a String](https://dev.to/dpc/daily-javascript-challenge-js-167-calculate-the-maximum-depth-of-nested-parentheses-in-a-string-3lfe)
-- [Reactive Statistics in Angular 19: Signals, Effects, and Smart Control Flow](https://dev.to/cristiansifuentes/reactive-statistics-in-angular-19-signals-effects-and-smart-control-flow-4gdm)
+- [Smarter Feature Flags in JavaScript with Context-Aware Evaluation](https://dev.to/hexshift/smarter-feature-flags-in-javascript-with-context-aware-evaluation-2196)
+- [Elon Musk&#39;s Open Source Licensing Model: A Paradigm Shift in Innovation](https://dev.to/vitalisorenko/elon-musks-open-source-licensing-model-a-paradigm-shift-in-innovation-300o)
+- [Managing Feature Flag Versions and Migrations in JavaScript](https://dev.to/hexshift/managing-feature-flag-versions-and-migrations-in-javascript-44lp)
+- [Enforce Consistent Resource Naming in AWS SAM Templates](https://dev.to/jonathanbrizio/enforce-consistent-resource-naming-in-aws-sam-templates-381g)
+- [Safely Evaluating Feature Flags with JavaScript Expressions](https://dev.to/hexshift/safely-evaluating-feature-flags-with-javascript-expressions-44on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
