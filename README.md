@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Engineering Concepts |17| Apache Iceberg, Arrow, and Polaris](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-17-apache-iceberg-arrow-and-polaris-2ei1)
-- [Gamepad API for Game Controller Integration](https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-62n)
-- [Introduction to Data Engineering Concepts |16| Data Lakehouse Architecture Explained](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-16-data-lakehouse-architecture-explained-2l5k)
-- [Setting up and customizing an Apache web server on Linux](https://dev.to/ivofonga25/setting-up-and-customizing-an-apache-web-server-on-linux-4ae1)
-- [Introduction to Data Engineering Concepts |15| Cloud Data Platforms and the Modern Stack](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-cloud-data-platforms-and-the-modern-stack-4g96)
+- [My top 5 VScode extensions](https://dev.to/jthedeveloper/my-top-5-vscode-extensions-f2a)
+- [🔐 Permission Testing Toolkit — Build, Validate, and Ship Secure Authorization with Permit.io](https://dev.to/york/permission-testing-toolkit-build-validate-and-ship-secure-authorization-with-permitio-375b)
+- [The Rise of Fragment Telegram Scams: What You Need to Know](https://dev.to/bobcars/the-rise-of-fragment-telegram-scams-what-you-need-to-know-4nf5)
+- [JavaScript is Not That Hard](https://dev.to/code_2/javascript-is-not-that-hard-450o)
+- [[Parte 3] Enviando dados entre aplicações com Module](https://dev.to/werliton/parte-3-enviando-dados-entre-aplicacoes-com-module-ond)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
