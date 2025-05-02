@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Feature Flags in JavaScript with Context-Aware Evaluation](https://dev.to/hexshift/smarter-feature-flags-in-javascript-with-context-aware-evaluation-2196)
-- [Elon Musk&#39;s Open Source Licensing Model: A Paradigm Shift in Innovation](https://dev.to/vitalisorenko/elon-musks-open-source-licensing-model-a-paradigm-shift-in-innovation-300o)
-- [Managing Feature Flag Versions and Migrations in JavaScript](https://dev.to/hexshift/managing-feature-flag-versions-and-migrations-in-javascript-44lp)
-- [Enforce Consistent Resource Naming in AWS SAM Templates](https://dev.to/jonathanbrizio/enforce-consistent-resource-naming-in-aws-sam-templates-381g)
-- [Safely Evaluating Feature Flags with JavaScript Expressions](https://dev.to/hexshift/safely-evaluating-feature-flags-with-javascript-expressions-44on)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
+- [🚀 Python Async Basics: Write Faster Code with Less Stress](https://dev.to/aleksei_aleinikov/python-async-basics-write-faster-code-with-less-stress-260b)
+- [🚀 When and How to Use React.memo Effectively](https://dev.to/aleksei_aleinikov/when-and-how-to-use-reactmemo-effectively-3ki5)
+- [🚀 Switching from Node + Express to Hono + Bun and I’m not looking back.](https://dev.to/thisisarkajitroy/switching-from-node-express-to-hono-bun-and-im-not-looking-back-2ofb)
+- [🚀 Ply vs Lark: Which Python Parsing Library Should You Use in 2025?](https://dev.to/aleksei_aleinikov/ply-vs-lark-which-python-parsing-library-should-you-use-in-2025-32ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
