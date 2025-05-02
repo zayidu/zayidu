@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Influence Operations Are Testing the Limits of Open Digital Communities](https://dev.to/rawveg/how-ai-influence-operations-are-testing-the-limits-of-open-digital-communities-2jei)
-- [Exploring Paid MCP Servers with Stripe and Cloudflare: My Hands-on Experience](https://dev.to/hideokamoto/exploring-paid-mcp-servers-with-stripe-and-cloudflare-my-hands-on-experience-3le9)
-- [OData API using .Net 8](https://dev.to/vimaltwit/odata-api-using-net-8-3779)
-- [Node.js Interview Guide tailored for backend developers, ranging from beginner to advanced levels](https://dev.to/devcorner/nodejs-interview-guide-tailored-for-backend-developers-ranging-from-beginner-to-advanced-levels-4m0h)
-- [NEW post trying](https://dev.to/sudharshan/new-post-trying-4nbo)
+- [The Ultimate Guide to Creating a Flawless Mobile App UI/UX Design](https://dev.to/seo_esignature_8b18cc8801/the-ultimate-guide-to-creating-a-flawless-mobile-app-uiux-design-2l3a)
+- [[REPOST] Installing Genymotion for Android App Pentesting: The Definitive Guide](https://dev.to/blue_byte/installing-genymotion-for-android-app-pentesting-the-definitive-guide-repost-of-my-old-article-m32)
+- [Why ARP Matters !!!](https://dev.to/akash029/why-arp-matters--441m)
+- [#4 DP: Facade](https://dev.to/stv4s/4-dp-facade-1i9k)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-33dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
