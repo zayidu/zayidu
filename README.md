@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable and Resilient Architecture on AWS](https://dev.to/aws-builders/building-a-scalable-and-resilient-architecture-on-aws-35g2)
-- [Interface &amp; Class](https://dev.to/vasutamil19/interface-class-gol)
-- [Creating a Linux VM on Azure](https://dev.to/habeeb_hameed_0753445424a/part-1-creating-a-linux-vm-on-azure-475e)
-- [From Zero to Scale: Kubernetes on Proxmox &lpar;The scaling Autopilot Method&rpar;](https://dev.to/3deep5me/from-zero-to-scale-kubernetes-on-proxmox-the-scaling-autopilot-method-1l64)
-- [Comprehensive Hardware Requirements Report for DeepSeek R1](https://dev.to/ai4b/comprehensive-hardware-requirements-report-for-deepseek-r1-5269)
+- [Project of the Week: Prisma](https://dev.to/riyanapatel/project-of-the-week-prisma-272m)
+- [Welcome to the Vibeconomy](https://dev.to/clubbrb/welcome-to-the-vibeconomy-3ik6)
+- [Demystifying Entity Transaction &amp; Flush in Spring Boot: Are You Using It Right?](https://dev.to/thiago_souza_1510/demystifying-entity-transaction-flush-in-spring-boot-are-you-using-it-right-4bc8)
+- [I Thought I Had It All Figured Out... Until I Didn&#39;t](https://dev.to/rodrigoeloyc/i-thought-i-had-it-all-figured-out-until-i-didnt-476k)
+- [How We Fixed Next.js at Scale: DI &amp; Clean Architecture Secrets From Production](https://dev.to/behnamrhp/how-we-fixed-nextjs-at-scale-di-clean-architecture-secrets-from-production-gnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
