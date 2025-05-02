@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic go lang](https://dev.to/valdineisantos/basic-go-lang-22jf)
-- [Reliable SMTP Servers Compared: Yournotify vs. Brevo vs. SendGrid &lpar;2025 Review&rpar;](https://dev.to/charlesmudy/reliable-smtp-servers-compared-yournotify-vs-brevo-vs-sendgrid-2025-review-2k9n)
-- [Postgres: Ordered Queries and the Planner](https://dev.to/misachi/postgres-ordered-queries-and-the-planner-1151)
-- [How to make your Tauri dev faster](https://dev.to/ahonn/how-to-make-your-tauri-dev-faster-2en1)
-- [How to Build Your First REST API with Node.js and Express &lpar;From Someone Who Was Scared at First&rpar;](https://dev.to/arbythecoder/how-to-build-your-first-rest-api-with-nodejs-and-express-from-someone-who-was-scared-at-first-59d7)
+- [How to Create a Linux Virtual Machine in Azure Portal and Install Nginx](https://dev.to/habeeb_hameed_0753445424a/how-to-create-a-linux-virtual-machine-in-azure-portal-and-install-nginx-1cmd)
+- [What Are Pytorch Nn Modules in 2025?](https://dev.to/nigelsilonero/what-are-pytorch-nn-modules-in-2025-4jga)
+- [How to Build a Nutrition Tracker App Using the Foodie API](https://dev.to/martintonev/how-to-build-a-nutrition-tracker-app-using-the-foodie-api-10hh)
+- [Daily JavaScript Challenge #JS-167: Calculate the Maximum Depth of Nested Parentheses in a String](https://dev.to/dpc/daily-javascript-challenge-js-167-calculate-the-maximum-depth-of-nested-parentheses-in-a-string-3lfe)
+- [Reactive Statistics in Angular 19: Signals, Effects, and Smart Control Flow](https://dev.to/cristiansifuentes/reactive-statistics-in-angular-19-signals-effects-and-smart-control-flow-4gdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
