@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Dictionary Operations with defaultdict in Python](https://dev.to/bhuvaneshm_dev/simplifying-dictionary-operations-with-defaultdict-in-python-32jn)
-- [MatrixSwarm OS v1 — Parallel AI Universes Without Docker](https://dev.to/matrixswarm/matrixswarm-os-v1-parallel-ai-universes-without-docker-2k3k)
-- [Warp!, the word that should be on everyone&#39;s lips](https://dev.to/paulanton07/warp-the-word-that-should-be-on-everyones-lips-2d4j)
-- [🐳 [Fix] Can&#39;t Install Docker on Ubuntu 22.04? Here&#39;s the Real Solution &lpar;NO_PUBKEY Error&rpar;](https://dev.to/khurammurad/fix-cant-install-docker-on-ubuntu-2204-heres-the-real-solution-nopubkey-error-465m)
-- [Simple Browser Tracking](https://dev.to/netz00/simple-browser-tracking-7kk)
+- [Stop Using AWS.](https://dev.to/code42cate/stop-using-aws-4eg)
+- [C# vs Angular: Universal Principles of Dependency Injection](https://dev.to/artstesh/c-vs-angular-universal-principles-of-dependency-injection-36j9)
+- [10 Tiny Developer Tools I Built to Save Time – Free &amp; Browser-Based](https://dev.to/commzero/10-tiny-developer-tools-i-built-to-save-time-free-browser-based-221m)
+- [Google OA for Summer 2025 Internship](https://dev.to/net_programhelp_e160eef28/google-oa-for-summer-2025-internship-ofb)
+- [The &quot;tee&quot; Command in Linux: A Hidden Gem for Smart Data Handling](https://dev.to/axisinfo_0a61830e06c3c950/-the-tee-command-in-linux-a-hidden-gem-for-smart-data-handling-1g0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
