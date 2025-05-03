@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Free RBT Mock Exam PDFs 📄: Your Guide to Smart Test Prep](https://dev.to/rbtpracticeexamus/finding-free-rbt-mock-exam-pdfs-your-guide-to-smart-test-prep-4827)
-- [💻 GitHub Education: Um Tesouro para Estudantes de TI](https://dev.to/carloseduardolemos/github-education-um-tesouro-para-estudantes-de-ti-466a)
-- [The AI Settings Dictionary](https://dev.to/armiedema/the-ai-settings-dictionary-nah)
-- [A responsive footer menu with social media icons](https://dev.to/qms85/a-responsive-footer-menu-with-social-media-icons-415o)
-- [How Is Symfony Used in Real-world Applications in 2025?](https://dev.to/anna_golubkova/how-is-symfony-used-in-real-world-applications-in-2025-3jnm)
+- [&quot;Quantum Leap: How Startups and Tech Giants are Shaping the Future of Computing&quot;](https://dev.to/dibborah100/quantum-leap-how-startups-and-tech-giants-are-shaping-the-future-of-computing-1fpm)
+- [🎮 Counting Down to GTA 6 One Day at a Time](https://dev.to/camskithedev/counting-down-to-gta-6-one-day-at-a-time-p9j)
+- [How to Implement Google AdSense into ReactJS - 2025](https://dev.to/deuos/how-to-implement-google-adsense-into-reactjs-2025-5g3h)
+- [Battlefronts in Browser: Mercury Defenders &amp; Nova Invaders Unleashed](https://dev.to/uzondu9/battlefronts-in-browser-mercury-defenders-nova-invaders-unleashed-3204)
+- [HTMX Best Practices: Building Responsive Web Apps Without JavaScript Frameworks](https://dev.to/hexshift/htmx-best-practices-building-responsive-web-apps-without-javascript-frameworks-25dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
