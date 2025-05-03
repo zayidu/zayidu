@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How MCP Leverages OAuth 2.1 and RFC 9728 for Authorization](https://dev.to/patrick_chan_0922a197d89d/how-mcp-leverages-oauth-21-and-rfc-9728-for-authorization-58dn)
-- [Maybe Your Business Doesn&#39;t Need an App.](https://dev.to/bill_vivino_481bc473fa0d9/maybe-your-business-doesnt-need-an-app-3jae)
-- [Code Smell 298 - Microsoft Windows Time Waste](https://dev.to/mcsee/code-smell-298-microsoft-windows-time-waste-30k1)
-- [🚀 How to Install and Use Amazon Q for Developers in Your IDE](https://dev.to/aws-builders/how-to-install-and-use-amazon-q-for-developers-in-your-ide-4e3h)
-- [Creating a Node.js calculator application](https://dev.to/ameh_mathias/creating-a-nodejs-calculator-application-5ld)
+- [Single Source of Truth: Cross-Component Styling with React Compound Pattern](https://dev.to/zeling_chen_73840b4951f53/single-source-of-truth-cross-component-styling-with-react-compound-pattern-3bnc)
+- [Hồi quy tuyến tính](https://dev.to/congngheaivn/hoi-quy-tuyen-tinh-3mhk)
+- [This Week in Cloud: Unexpected AWS Tour](https://dev.to/blkgrlcto/this-week-in-cloud-unexpected-aws-tour-3481)
+- [Everything you need to know about @starting-style!](https://dev.to/salehmubashar/everything-you-need-to-know-about-starting-style-39j6)
+- [React - Simple Component with Pagination](https://dev.to/kazinix/react-simple-component-with-pagination-17il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
