@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EC2 Instance Types](https://dev.to/himanshusinghtomar/aws-ec2-instance-types-16c0)
-- [Crushing the Command Line: Automating Workflows with Amazon Q Developer Project Overview](https://dev.to/parthpariwandh/crushing-the-command-line-automating-workflows-with-amazon-q-developerproject-overview-4d)
-- [PRINCIPIA DEMOCRATICA](https://dev.to/ryo_suwito/principia-democratica-3521)
-- [Transforming Media with Blockchain Funding: Unlocking Potential](https://dev.to/laetitiaperraut/transforming-media-with-blockchain-funding-unlocking-potential-4n9p)
-- [C# Programming Basics: A Beginner’s Guide to .NET Development](https://dev.to/pythontutorial/c-programming-basics-a-beginners-guide-to-net-development-310j)
+- [Wantek: Revolutionizing the Way We Hear the World](https://dev.to/afra_seo/wantek-revolutionizing-the-way-we-hear-the-world-b5a)
+- [Understanding Different Types of Software Tests](https://dev.to/philipwalsh/understanding-different-types-of-software-tests-f9d)
+- [Audio Worklets for Low-Latency Audio Processing](https://dev.to/omriluz1/audio-worklets-for-low-latency-audio-processing-3b9p)
+- [How To Ace Tech Interview Questions.](https://dev.to/rankush_vishwakarma_18215/how-to-ace-tech-interview-questions-n04)
+- [Stop shipping insecure Dockerfiles: real devs don’t run as root](https://dev.to/devlinktips/stop-shipping-insecure-dockerfiles-real-devs-dont-run-as-root-4d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
