@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why JetBrains Junie is the Best AI Agent I’ve Ever Used So Far](https://dev.to/s_chathuranga_j/why-jetbrains-junie-is-the-best-ai-agent-ive-ever-used-so-far-4nlg)
-- [Getting Started with wxPython: A Beginner&#39;s Guide](https://dev.to/blackmare01wolf/getting-started-with-wxpython-a-beginners-guide-6e5)
-- [Stop Letting JavaScript Numbers Fool You – Master Them in Minutes!](https://dev.to/shifa_2/stop-letting-javascript-numbers-fool-you-master-them-in-minutes-269k)
-- [Hugo: don&#39;t miss the best part](https://dev.to/spo0q/hugo-dont-miss-the-best-part-3f6)
-- [Gemesis &lpar;OSP&rpar; and Indie Hacking: Revolutionizing the NFT Industry](https://dev.to/rachellovestowrite/gemesis-osp-and-indie-hacking-revolutionizing-the-nft-industry-3f8f)
+- [How to promote my product?](https://dev.to/daxsoft/how-to-promote-my-product-73e)
+- [Exposing and Reusing Infrastructure Data with Terraform Outputs](https://dev.to/olalekan_oladiran_d74b7a6/exposing-and-reusing-infrastructure-data-with-terraform-outputs-13aa)
+- [Avoiding Connectivity Failures: How to Manage FirewallD Blocked Ports in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/avoiding-connectivity-failures-how-to-manage-firewalld-blocked-ports-in-red-hat-linux-422l)
+- [Why You Should Always Convert PDFs to Word for Easier Editing](https://dev.to/pdf_4me/why-you-should-always-convert-pdfs-to-word-for-easier-editing-28b)
+- [I’m testing Google Ads before building my SaaS — here’s why &lpar;and how&rpar;](https://dev.to/charliehunsaas/im-testing-google-ads-before-building-my-saas-heres-why-and-how-3d3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
