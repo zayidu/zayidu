@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Simple JavaScript Render Method](https://dev.to/mohansandesh/creating-a-simple-javascript-render-method-5972)
-- [Why Your API Is Slow – And How to Fix It in 15 Minutes 🚀](https://dev.to/alisamir/why-your-api-is-slow-and-how-to-fix-it-in-15-minutes-40fo)
-- [Building a Rock-Solid Testing Framework at Bynry:](https://dev.to/mr_harshkumar_jha/building-a-rock-solid-testing-framework-at-bynry-4l8o)
-- [🌍 The smallest and simplest global state manager for React](https://dev.to/9zemian5/the-smallest-and-simplest-global-state-manager-for-react-4h2h)
-- [XQL Group Playbook: High‑Performance B2B Marketing Channels for Early‑Stage Software Development Companies](https://dev.to/danylo_fedirko_e38be56528/xql-group-playbook-high-performance-b2b-marketing-channels-for-early-stage-software-development-51nd)
+- [Smart Textiles 2.0: How the Square Rug Became a Tech Device](https://dev.to/vikash_sharma/smart-textiles-20-how-the-square-rug-became-a-tech-device-3d07)
+- [Получение донатов DonationAlerts в реальном времени: Руководство по WebSocket и OAuth 2.0 на Python &lpar;FastAPI&rpar;](https://dev.to/fedor-pasynkov-ru/poluchieniie-donatov-donationalerts-v-riealnom-vriemieni-rukovodstvo-po-websocket-i-oauth-20-na-python-2pgm)
+- [🧠 𝐒𝐡𝐨𝐮𝐥𝐝 𝐐𝐀 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 𝐒𝐭𝐢𝐥𝐥 𝐁𝐞 𝐆𝐨𝐨𝐝 𝐌𝐚𝐧𝐮𝐚𝐥 𝐓𝐞𝐬𝐭𝐞𝐫𝐬?](https://dev.to/dimit999/-ci1)
+- [How to write Semantic HTML](https://dev.to/israelrotimi/how-to-write-semantic-html-185e)
+- [I’m Building a Dev Platform for Africa — and I Need Your Help](https://dev.to/thabiso_xulu_8471b4dfddba/im-building-a-dev-platform-for-africa-and-i-need-your-help-2d2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
