@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using AWS.](https://dev.to/code42cate/stop-using-aws-4eg)
-- [C# vs Angular: Universal Principles of Dependency Injection](https://dev.to/artstesh/c-vs-angular-universal-principles-of-dependency-injection-36j9)
-- [10 Tiny Developer Tools I Built to Save Time – Free &amp; Browser-Based](https://dev.to/commzero/10-tiny-developer-tools-i-built-to-save-time-free-browser-based-221m)
-- [Google OA for Summer 2025 Internship](https://dev.to/net_programhelp_e160eef28/google-oa-for-summer-2025-internship-ofb)
-- [The &quot;tee&quot; Command in Linux: A Hidden Gem for Smart Data Handling](https://dev.to/axisinfo_0a61830e06c3c950/-the-tee-command-in-linux-a-hidden-gem-for-smart-data-handling-1g0b)
+- [Why JetBrains Junie is the Best AI Agent I’ve Ever Used So Far](https://dev.to/s_chathuranga_j/why-jetbrains-junie-is-the-best-ai-agent-ive-ever-used-so-far-4nlg)
+- [Getting Started with wxPython: A Beginner&#39;s Guide](https://dev.to/blackmare01wolf/getting-started-with-wxpython-a-beginners-guide-6e5)
+- [Stop Letting JavaScript Numbers Fool You – Master Them in Minutes!](https://dev.to/shifa_2/stop-letting-javascript-numbers-fool-you-master-them-in-minutes-269k)
+- [Hugo: don&#39;t miss the best part](https://dev.to/spo0q/hugo-dont-miss-the-best-part-3f6)
+- [Gemesis &lpar;OSP&rpar; and Indie Hacking: Revolutionizing the NFT Industry](https://dev.to/rachellovestowrite/gemesis-osp-and-indie-hacking-revolutionizing-the-nft-industry-3f8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
