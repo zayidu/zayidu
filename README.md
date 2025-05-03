@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to promote my product?](https://dev.to/daxsoft/how-to-promote-my-product-73e)
-- [Exposing and Reusing Infrastructure Data with Terraform Outputs](https://dev.to/olalekan_oladiran_d74b7a6/exposing-and-reusing-infrastructure-data-with-terraform-outputs-13aa)
-- [Avoiding Connectivity Failures: How to Manage FirewallD Blocked Ports in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/avoiding-connectivity-failures-how-to-manage-firewalld-blocked-ports-in-red-hat-linux-422l)
-- [Why You Should Always Convert PDFs to Word for Easier Editing](https://dev.to/pdf_4me/why-you-should-always-convert-pdfs-to-word-for-easier-editing-28b)
-- [I’m testing Google Ads before building my SaaS — here’s why &lpar;and how&rpar;](https://dev.to/charliehunsaas/im-testing-google-ads-before-building-my-saas-heres-why-and-how-3d3m)
+- [My Git &amp; GitHub Learning](https://dev.to/sourav_mahato_3900/my-git-github-learning-5a9b)
+- [Annotations in Oracle Database 23ai](https://dev.to/vahidusefzadeh/annotations-in-oracle-database-23ai-13el)
+- [AI Agents: how they work and how to build them](https://dev.to/aws-heroes/ai-agents-how-they-work-and-how-to-build-them-17if)
+- [[Boost]](https://dev.to/anthonymax/-27gh)
+- [Zod v4: 17x Slower? &lpar;and Why You Should Care&rpar; 🚦](https://dev.to/dzakh/zod-v4-17x-slower-and-why-you-should-care-1m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
