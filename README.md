@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set a Static IP for Your Fedora VM: A Step-by-Step Guide](https://dev.to/codelemonade/how-to-set-a-static-ip-for-your-fedora-vm-a-step-by-step-guide-36c)
-- [Understanding RabbitMQ: The Basics of Message Queuing](https://dev.to/xavki/understanding-rabbitmq-the-basics-of-message-queuing-524j)
-- [useRef](https://dev.to/mustafacam/useref-2b8k)
-- [Simulating Wildlife Populations in Unity: A C# System for Dynamic Ecosystem Management](https://dev.to/paulcuffe/simulating-wildlife-populations-in-unity-a-c-system-for-dynamic-ecosystem-management-3mop)
-- [🚀 5 AI Tools That Will Make You an Unstoppable Developer in 2025](https://dev.to/oltrenin/5-ai-tools-that-will-make-you-an-unstoppable-developer-in-2025-2n6d)
+- [Finding Free RBT Mock Exam PDFs 📄: Your Guide to Smart Test Prep](https://dev.to/rbtpracticeexamus/finding-free-rbt-mock-exam-pdfs-your-guide-to-smart-test-prep-4827)
+- [💻 GitHub Education: Um Tesouro para Estudantes de TI](https://dev.to/carloseduardolemos/github-education-um-tesouro-para-estudantes-de-ti-466a)
+- [The AI Settings Dictionary](https://dev.to/armiedema/the-ai-settings-dictionary-nah)
+- [A responsive footer menu with social media icons](https://dev.to/qms85/a-responsive-footer-menu-with-social-media-icons-415o)
+- [How Is Symfony Used in Real-world Applications in 2025?](https://dev.to/anna_golubkova/how-is-symfony-used-in-real-world-applications-in-2025-3jnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
