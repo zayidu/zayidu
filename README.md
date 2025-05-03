@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Git &amp; GitHub Learning](https://dev.to/sourav_mahato_3900/my-git-github-learning-5a9b)
-- [Annotations in Oracle Database 23ai](https://dev.to/vahidusefzadeh/annotations-in-oracle-database-23ai-13el)
-- [AI Agents: how they work and how to build them](https://dev.to/aws-heroes/ai-agents-how-they-work-and-how-to-build-them-17if)
-- [[Boost]](https://dev.to/anthonymax/-27gh)
-- [Zod v4: 17x Slower? &lpar;and Why You Should Care&rpar; 🚦](https://dev.to/dzakh/zod-v4-17x-slower-and-why-you-should-care-1m1)
+- [List of important Docker commands: Docker Series 03](https://dev.to/ankur0904/list-of-important-docker-commands-docker-series-03-1ihn)
+- [I’ve Built the Most Ergonomic Go Config Library](https://dev.to/john_doe_9ee7a1434273bedf/ive-built-the-most-ergonomic-go-config-library-44jb)
+- [Java Tutorial-What is Java](https://dev.to/clara1123/java-tutorial-what-is-java-586h)
+- [Containers vs Virtual Machines: What&#39;s the Difference?](https://dev.to/zaheetdev/containers-vs-virtual-machines-whats-the-difference-1fep)
+- [Tourist App Automation](https://dev.to/farzana_ali/tourist-app-automation-19lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
