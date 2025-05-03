@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Beginner to Pro: Essential Tips and Tricks for Aspiring Web Developers 🌐💻](https://dev.to/srijan-xi/from-beginner-to-pro-essential-tips-and-tricks-for-aspiring-web-developers-4191)
-- [Teaching Ecology Through Games: How Simulated Forests Can Build Real-World Awareness](https://dev.to/paulcuffe/teaching-ecology-through-games-how-simulated-forests-can-build-real-world-awareness-1kjd)
-- [Battery Status API for Power Management Awareness](https://dev.to/omriluz1/battery-status-api-for-power-management-awareness-56m6)
-- [[Boost]](https://dev.to/dragostrif/-33nh)
-- [How to Configure network routing.](https://dev.to/onyemuche/how-to-configure-network-routing-16lj)
+- [How to Set a Static IP for Your Fedora VM: A Step-by-Step Guide](https://dev.to/codelemonade/how-to-set-a-static-ip-for-your-fedora-vm-a-step-by-step-guide-36c)
+- [Understanding RabbitMQ: The Basics of Message Queuing](https://dev.to/xavki/understanding-rabbitmq-the-basics-of-message-queuing-524j)
+- [useRef](https://dev.to/mustafacam/useref-2b8k)
+- [Simulating Wildlife Populations in Unity: A C# System for Dynamic Ecosystem Management](https://dev.to/paulcuffe/simulating-wildlife-populations-in-unity-a-c-system-for-dynamic-ecosystem-management-3mop)
+- [🚀 5 AI Tools That Will Make You an Unstoppable Developer in 2025](https://dev.to/oltrenin/5-ai-tools-that-will-make-you-an-unstoppable-developer-in-2025-2n6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
