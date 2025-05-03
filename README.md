@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Philanthropy: Funding for Blockchain in Charitable Endeavors](https://dev.to/ashucommits/the-future-of-philanthropy-funding-for-blockchain-in-charitable-endeavors-4a0e)
-- [CDN Caching Strategies for Next.js: Speed Up Your Website Globally](https://dev.to/melvinprince/cdn-caching-strategies-for-nextjs-speed-up-your-website-globally-4194)
-- [nil in Go: Is More Complicated Than You Think](https://dev.to/leapcell/nil-in-go-is-more-complicated-than-you-think-29gp)
-- [Roly, my first CSS animation &lpar;check hover&rpar;](https://dev.to/preetha_vaishnavi_2b82358/roly-my-first-css-animation-check-hover-2525)
-- [Image Carousel](https://dev.to/preetha_vaishnavi_2b82358/image-carousel-2d9)
+- [Cryptocurrency &amp; Blockchain 101: Bitcoin, Ethereum, dApps, and Beyond](https://dev.to/sung_jinwoo_ae9a810f8c46a/cryptocurrency-blockchain-101-bitcoin-ethereum-dapps-and-beyond-418c)
+- [TryHackMe: Brim](https://dev.to/seanleeys/tryhackme-brim-3i36)
+- [The Evolution of Fashion Through Blockchain: Navigating the Funding Landscape](https://dev.to/bobcars/the-evolution-of-fashion-through-blockchain-navigating-the-funding-landscape-5810)
+- [AWS security tips for large scale java angular application](https://dev.to/amogh_deshpande_1176/aws-security-tips-for-large-scale-java-angular-application-eoh)
+- [Mocky.io vs. Mock-API.net: Which Mock API Tool Fits Your Workflow?](https://dev.to/samirfcis/mockyio-vs-mock-apinet-which-mock-api-tool-fits-your-workflow-lob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
