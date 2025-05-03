@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptocurrency &amp; Blockchain 101: Bitcoin, Ethereum, dApps, and Beyond](https://dev.to/sung_jinwoo_ae9a810f8c46a/cryptocurrency-blockchain-101-bitcoin-ethereum-dapps-and-beyond-418c)
-- [TryHackMe: Brim](https://dev.to/seanleeys/tryhackme-brim-3i36)
-- [The Evolution of Fashion Through Blockchain: Navigating the Funding Landscape](https://dev.to/bobcars/the-evolution-of-fashion-through-blockchain-navigating-the-funding-landscape-5810)
-- [AWS security tips for large scale java angular application](https://dev.to/amogh_deshpande_1176/aws-security-tips-for-large-scale-java-angular-application-eoh)
-- [Mocky.io vs. Mock-API.net: Which Mock API Tool Fits Your Workflow?](https://dev.to/samirfcis/mockyio-vs-mock-apinet-which-mock-api-tool-fits-your-workflow-lob)
+- [AWS EC2 Instance Types](https://dev.to/himanshusinghtomar/aws-ec2-instance-types-16c0)
+- [Crushing the Command Line: Automating Workflows with Amazon Q Developer Project Overview](https://dev.to/parthpariwandh/crushing-the-command-line-automating-workflows-with-amazon-q-developerproject-overview-4d)
+- [PRINCIPIA DEMOCRATICA](https://dev.to/ryo_suwito/principia-democratica-3521)
+- [Transforming Media with Blockchain Funding: Unlocking Potential](https://dev.to/laetitiaperraut/transforming-media-with-blockchain-funding-unlocking-potential-4n9p)
+- [C# Programming Basics: A Beginner’s Guide to .NET Development](https://dev.to/pythontutorial/c-programming-basics-a-beginners-guide-to-net-development-310j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
