@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spearfishing in Mindoro](https://dev.to/alexander_seliverstov_b14/spearfishing-in-mindoro-50jg)
-- [🚗 Introducing RideCircle: A Step Towards a Sustainable Future 🌍](https://dev.to/vivek_dudhatra/introducing-ridecircle-a-step-towards-a-sustainable-future-2kc0)
-- [&quot;From Silicon Valley to Surgery: How AI Powerhouses Like Google and Meta are Revolutionizing Healthcare&quot;](https://dev.to/dibborah100/from-silicon-valley-to-surgery-how-ai-powerhouses-like-google-and-meta-are-revolutionizing-1nic)
-- [System Performance Monitoring](https://dev.to/chielo_chiamaka/system-performance-monitoring-36no)
-- [Cut the Crap: Ship Better-Looking Websites &lpar;Fast&rpar;](https://dev.to/vinayak00017/cut-the-crap-ship-better-looking-websites-fast-282)
+- [Simplifying Dictionary Operations with defaultdict in Python](https://dev.to/bhuvaneshm_dev/simplifying-dictionary-operations-with-defaultdict-in-python-32jn)
+- [MatrixSwarm OS v1 — Parallel AI Universes Without Docker](https://dev.to/matrixswarm/matrixswarm-os-v1-parallel-ai-universes-without-docker-2k3k)
+- [Warp!, the word that should be on everyone&#39;s lips](https://dev.to/paulanton07/warp-the-word-that-should-be-on-everyones-lips-2d4j)
+- [🐳 [Fix] Can&#39;t Install Docker on Ubuntu 22.04? Here&#39;s the Real Solution &lpar;NO_PUBKEY Error&rpar;](https://dev.to/khurammurad/fix-cant-install-docker-on-ubuntu-2204-heres-the-real-solution-nopubkey-error-465m)
+- [Simple Browser Tracking](https://dev.to/netz00/simple-browser-tracking-7kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
