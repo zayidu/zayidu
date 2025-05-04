@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [May the Fourth CSS Art](https://dev.to/alvaromontoro/may-the-fourth-css-art-2205)
-- [Google Chrome feature makes JavaScript 10X faster, GSAP is now free, UNKNOWN JavaScript hack, and more](https://dev.to/thisweekinjavascript/google-chrome-feature-makes-javascript-10x-faster-gsap-is-now-free-unknown-javascript-hack-and-c8e)
-- [Clean Code Is a Habit, Not a Talent](https://dev.to/muhammad_chandrabintang/clean-code-is-a-habit-not-a-talent-2l01)
-- [Bora simular uma compra completa com Azure Durable Functions e padrão Saga? 🎉](https://dev.to/sertaoseracloud/bora-simular-uma-compra-completa-com-azure-durable-functions-e-padrao-saga-20pe)
-- [AutoSecure API Gateway: API-First Authorization Reimagined](https://dev.to/kevin_heidt_d73c1752454fb/autosecure-api-gateway-api-first-authorization-reimagined-21k2)
+- [This Python Script Found 1,237 Leaked Passwords in 3 Minutes](https://dev.to/snappytuts/this-python-script-found-1237-leaked-passwords-in-3-minutes-3mmh)
+- [Mastering Git Commit Messages with Conventional Commits](https://dev.to/naserrasouli/mastering-git-commit-messages-with-conventional-commits-2p96)
+- [Debugging @Scheduled Tasks in Spring Boot Without Sending Harassing Emails](https://dev.to/thellu/debugging-scheduled-tasks-in-spring-boot-without-sending-harassing-emails-cd6)
+- [🕵️ Build a Python “Spy Folder” That Detects Sneaky File Changes](https://dev.to/0x3d_site/build-a-python-spy-folder-that-detects-sneaky-file-changes-a4a)
+- [Amazon DocumentDB != Microsoft DocumentDB extension for PostgreSQL](https://dev.to/aws-heroes/amazon-documentdb-microsoft-documentdb-extension-for-postgresql-210f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
