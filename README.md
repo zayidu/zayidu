@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WSL Troubleshooting Guide When You Can Not Access to WSL2 From Terminal](https://dev.to/0xkoji/wsl-troubleshooting-guide-when-you-can-not-access-to-wsl2-from-terminal-6e6)
-- [ALERT : Writers Jobs are in RISK](https://dev.to/junaid_dev/alert-writers-jobs-are-in-risk-26f7)
-- [Ai Fortune Teller build with Amazon Q](https://dev.to/hemanth_hmc/ai-fortune-teller-build-with-amazon-q-n44)
-- [How to Use AI in Go with LangChainGo &lpar;Very Easy!&rpar;](https://dev.to/codeashing/how-to-use-ai-in-go-with-langchaingo-very-easy-i2j)
-- [What&#39;s changed in Webdev in the past few years](https://dev.to/thejaredwilcurt/whats-changed-in-webdev-in-the-past-few-years-p7e)
+- [Full stack development 2025](https://dev.to/abdu_karim_5f2f2c6b3a82de/full-stack-development-2025-1j30)
+- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3n0m)
+- [Hello DEV! From Graphic Design to Data Analytics &lpar;with coffee &amp; chaos&rpar;](https://dev.to/sachin_kumar_978b87100f2d/hello-dev-from-graphic-design-to-data-analytics-with-coffee-chaos-1hd8)
+- [🚀 Update: create-node-spark CLI Gets Major Boost!](https://dev.to/talhabilaldev/update-create-node-spark-cli-gets-major-boost-35a5)
+- [Youtube API Project](https://dev.to/bobokech/youtube-api-project-214n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
