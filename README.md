@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ngoding PHP! Masih relevan di tahun 2025?](https://dev.to/panditosp/ngoding-php-masih-relevan-di-tahun-2025-c7)
-- [Building a Bulletproof E2E Testing Strategy for User Authentication](https://dev.to/__3a368075913ae5b0fd5f/building-a-bulletproof-e2e-testing-strategy-for-user-authentication-49fp)
-- [Automation Pitfalls That Slow Down Your Testing Cycle](https://dev.to/__3a368075913ae5b0fd5f/automation-pitfalls-that-slow-down-your-testing-cycle-35ik)
-- [Movement DAO](https://dev.to/ko_kyat_d35ca8b4dc85d61fc/movement-dao-hdj)
-- [Testing Productivity: Breaking Through the Email Verification Bottleneck](https://dev.to/__3a368075913ae5b0fd5f/testing-productivity-breaking-through-the-email-verification-bottleneck-31gi)
+- [EDA Pro: Reusable Python Notebook for Exploratory Data Analysis](https://dev.to/drkouakou_rene_c45b636d7c/eda-pro-reusable-python-notebook-for-exploratory-data-analysis-mpl)
+- [Mastering Python with UV: The Complete Guide to Lightning-Fast Development](https://dev.to/krish_desai_117/mastering-python-with-uv-the-complete-guide-to-lightning-fast-development-2gnl)
+- [Why Big Tech Is Slowly Ghosting Golang](https://dev.to/alikolahdoozan/why-big-tech-is-slowly-ghosting-golang-30bk)
+- [202/365 | ¥10M Job Challenge - Another day](https://dev.to/kameken100/202365-y10m-job-challenge-another-day-gci)
+- [Gestión de paquetes privados con Verdaccio: una solución eficiente para proyectos personales y colaborativos](https://dev.to/hackroot23/gestion-de-paquetes-privados-con-verdaccio-una-solucion-eficiente-para-proyectos-personales-y-3l3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
