@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [c++ code error checking](https://dev.to/star1aysi/c-code-error-checking-2ipn)
-- [Scripting Series – Part 6 of 8](https://dev.to/alexenson/scripting-series-part-6-of-8-5365)
-- [Cocktail](https://dev.to/preetha_vaishnavi_2b82358/cocktail-27c)
-- [Turn any photo into a color palette – made a tool for designers &amp; artists](https://dev.to/robert_kotcher_6861a5b360/turn-any-photo-into-a-color-palette-made-a-tool-for-designers-artists-2l3m)
-- [Building Dcup: An Open-Source RAG Pipeline with a Twist](https://dev.to/aliamerj/building-dcup-an-open-source-rag-pipeline-with-a-twist-2ebn)
+- [Deploying Kubernetes Cluster On On-premises](https://dev.to/keyvan_soleimani/deploying-kubernetes-cluster-on-on-premises-2pgf)
+- [Real-Time Private Channel Notifications in Vue 3 with Laravel Echo and Pusher](https://dev.to/oghenetega_adiri/real-time-notifications-in-vue-3-with-laravel-echo-and-pusher-5bb9)
+- [AutoDrawer ile Otomatik Çizim Kurulum ve Kullanım Rehberi](https://dev.to/eagledfc/autodrawer-otomatik-cizim-yapan-akilli-yazilim-11np)
+- [Parameters &amp; Arguments in Python](https://dev.to/hyperkai/parameters-arguments-in-python-45nm)
+- [Who Controls Your Files in Linux? Discover the Power of Permissions 🔐](https://dev.to/omkarsharma2821/who-controls-your-files-in-linux-discover-the-power-of-permissions-5g6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
