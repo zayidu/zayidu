@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git: Understanding `git init` and `git clone` for Effective Version Control](https://dev.to/toluwanee/mastering-git-understanding-git-init-and-git-clone-for-effective-version-control-3k9l)
-- [Enable Risk management with ML through Scalable Cloud-Native Data Management](https://dev.to/prady1/enable-risk-management-with-ml-through-scalable-cloud-native-data-management-5eai)
-- [How to Use SAM in Scala for Discriminator Criteria Types](https://dev.to/generatecodedev/how-to-use-sam-in-scala-for-discriminator-criteria-types-4b94)
-- [The Most Subtle Bug approved in a PR](https://dev.to/gags88/the-most-subtle-bug-approved-in-a-pr-4ake)
-- [Timeline: My Career Shift from Mechanical Engineer to Cybersecurity](https://dev.to/davebellen/timeline-my-career-shift-from-mechanical-engineer-to-cybersecurity-p25)
+- [Intelligent Retail](https://dev.to/rawveg/intelligent-retail-3ie3)
+- [Agendas lead to more productive meetings](https://dev.to/rally_for_jira/agendas-lead-to-more-productive-meetings-3p9o)
+- [How I Built a Simple AI Side Project for Extra Income &lpar;With Code You Can Copy&rpar;](https://dev.to/limacodes/how-i-built-a-simple-ai-side-project-for-extra-income-with-code-you-can-copy-585e)
+- [Coding Challenge Practice - Question 1](https://dev.to/tomivan/coding-challenge-practice-question-1-4afp)
+- [Does Your Coding Machine&#39;s OS Really Matter? My Windows-to-Linux Journey](https://dev.to/ushashir/does-your-coding-machines-os-really-matter-my-windows-to-linux-journey-5h59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
