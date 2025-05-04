@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Phi 4 Reasoning Benchmarks, Model Specs, and Comparisons](https://dev.to/best_codes/phi-4-reasoning-benchmarks-model-specs-and-comparisons-4hk)
-- [Vibe Coding — My Simple Way to Enjoy Coding More 🌿💻](https://dev.to/rohansh08/vibe-coding-my-simple-way-to-enjoy-coding-more-26i)
-- [Using nanostores in Astro + Vue setup](https://dev.to/nabeel_karnasym/using-nanostores-in-astro-vue-setup-1n55)
-- [Understanding Python Concurrency: Multithreading VS AsyncIO](https://dev.to/leapcell/understanding-python-concurrency-multithreading-vs-asyncio-3png)
-- [Qwen 3 vs. Deepseek R1: Complete comparison](https://dev.to/composiodev/qwen-3-vs-deep-seek-r1-evaluation-notes-1bi1)
+- [Full Stack Web3 Development Roadmap: Learn Full Stack Web3 in 90 Days](https://dev.to/code_2/full-stack-web3-development-roadmap-learn-full-stack-web3-in-90-days-2jdk)
+- [ApocalypseGPT 🧟](https://dev.to/sebastiandevelops/apocalypsegpt-2n9i)
+- [Web Development Week 2](https://dev.to/upinar/web-development-week-2-o1d)
+- [Guia Prático Spring Boot WebFlux](https://dev.to/ikauedev/guia-pratico-spring-boot-webflux-22co)
+- [1128. Number of Equivalent Domino Pairs](https://dev.to/mdarifulhaque/1128-number-of-equivalent-domino-pairs-24an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
