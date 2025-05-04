@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Quantum Leap: How Startups and Tech Giants are Shaping the Future of Computing&quot;](https://dev.to/dibborah100/quantum-leap-how-startups-and-tech-giants-are-shaping-the-future-of-computing-1fpm)
-- [🎮 Counting Down to GTA 6 One Day at a Time](https://dev.to/camskithedev/counting-down-to-gta-6-one-day-at-a-time-p9j)
-- [How to Implement Google AdSense into ReactJS - 2025](https://dev.to/deuos/how-to-implement-google-adsense-into-reactjs-2025-5g3h)
-- [Battlefronts in Browser: Mercury Defenders &amp; Nova Invaders Unleashed](https://dev.to/uzondu9/battlefronts-in-browser-mercury-defenders-nova-invaders-unleashed-3204)
-- [HTMX Best Practices: Building Responsive Web Apps Without JavaScript Frameworks](https://dev.to/hexshift/htmx-best-practices-building-responsive-web-apps-without-javascript-frameworks-25dm)
+- [Navigating the Complexities of Government Funding: A Technical &amp; Holistic Perspective](https://dev.to/laetitiaperraut/navigating-the-complexities-of-government-funding-a-technical-holistic-perspective-1k)
+- [Presale Managers: Increasing Margins and Driving IT Companies Toward Success](https://dev.to/pro-project-mngr/presale-managers-increasing-margins-and-driving-it-companies-toward-success-261o)
+- [Is AI really something anyone can use?](https://dev.to/uka_aidev/is-ai-really-something-anyone-can-use-4e3j)
+- [How to Calculate and Actually Reduce Your Churn Rate](https://dev.to/shayy/how-to-calculate-and-actually-reduce-your-churn-rate-14e0)
+- [Exploring Government Funding for Blockchain: Driving Innovation and Transformation](https://dev.to/vitalisorenko/exploring-government-funding-for-blockchain-driving-innovation-and-transformation-4ica)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
