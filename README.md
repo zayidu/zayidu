@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Complexities of Government Funding: A Technical &amp; Holistic Perspective](https://dev.to/laetitiaperraut/navigating-the-complexities-of-government-funding-a-technical-holistic-perspective-1k)
-- [Presale Managers: Increasing Margins and Driving IT Companies Toward Success](https://dev.to/pro-project-mngr/presale-managers-increasing-margins-and-driving-it-companies-toward-success-261o)
-- [Is AI really something anyone can use?](https://dev.to/uka_aidev/is-ai-really-something-anyone-can-use-4e3j)
-- [How to Calculate and Actually Reduce Your Churn Rate](https://dev.to/shayy/how-to-calculate-and-actually-reduce-your-churn-rate-14e0)
-- [Exploring Government Funding for Blockchain: Driving Innovation and Transformation](https://dev.to/vitalisorenko/exploring-government-funding-for-blockchain-driving-innovation-and-transformation-4ica)
+- [Ngoding PHP! Masih relevan di tahun 2025?](https://dev.to/panditosp/ngoding-php-masih-relevan-di-tahun-2025-c7)
+- [Building a Bulletproof E2E Testing Strategy for User Authentication](https://dev.to/__3a368075913ae5b0fd5f/building-a-bulletproof-e2e-testing-strategy-for-user-authentication-49fp)
+- [Automation Pitfalls That Slow Down Your Testing Cycle](https://dev.to/__3a368075913ae5b0fd5f/automation-pitfalls-that-slow-down-your-testing-cycle-35ik)
+- [Movement DAO](https://dev.to/ko_kyat_d35ca8b4dc85d61fc/movement-dao-hdj)
+- [Testing Productivity: Breaking Through the Email Verification Bottleneck](https://dev.to/__3a368075913ae5b0fd5f/testing-productivity-breaking-through-the-email-verification-bottleneck-31gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
