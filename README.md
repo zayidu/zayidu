@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Organizar Suas Conversas com Inteligências Artificiais para Aumentar a Produtividade.](https://dev.to/robsonamendonca/como-organizar-suas-conversas-com-inteligencias-artificiais-para-aumentar-a-produtividade-enh)
-- [🧠 MedAi Pro – AI-Powered Medical Report Analyzer Using Camel AI, LLaMA 4, Groq API, and Streamlit_](https://dev.to/_tusharrathore/medai-pro-ai-powered-medical-report-analyzer-using-camel-ai-llama-4-groq-api-and-streamlit-p6a)
-- [Tell me about best object detection github repo written by pyton](https://dev.to/afshin_jian_4794d14082b7b/tell-me-about-best-object-detection-github-repo-written-by-pyton-5ffp)
-- [MedRecord – Secure Medical Records with Fine-Grained Access Control](https://dev.to/walidadebayo/medrecord-secure-medical-records-with-fine-grained-access-control-3b6)
-- [🔐MedSecure: Healthcare Authorization Redefined with Permit.io](https://dev.to/manishjha/medsecure-healthcare-authorization-redefined-with-permitio-179p)
+- [Mastering Git: Understanding `git init` and `git clone` for Effective Version Control](https://dev.to/toluwanee/mastering-git-understanding-git-init-and-git-clone-for-effective-version-control-3k9l)
+- [Enable Risk management with ML through Scalable Cloud-Native Data Management](https://dev.to/prady1/enable-risk-management-with-ml-through-scalable-cloud-native-data-management-5eai)
+- [How to Use SAM in Scala for Discriminator Criteria Types](https://dev.to/generatecodedev/how-to-use-sam-in-scala-for-discriminator-criteria-types-4b94)
+- [The Most Subtle Bug approved in a PR](https://dev.to/gags88/the-most-subtle-bug-approved-in-a-pr-4ake)
+- [Timeline: My Career Shift from Mechanical Engineer to Cybersecurity](https://dev.to/davebellen/timeline-my-career-shift-from-mechanical-engineer-to-cybersecurity-p25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
