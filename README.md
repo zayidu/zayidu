@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents with n8n: A Complete Guide to Workflow Automation](https://dev.to/krish_desai_117/building-ai-agents-with-n8n-a-complete-guide-to-workflow-automation-4gb5)
-- [html2canvas react Custom Fonts not exporting to image.](https://dev.to/rajan_sharma_72492849f8ac/html2canvas-react-custom-fonts-not-exporting-to-image-2446)
-- [Building &quot;Production-Grade&quot; APIs in .NET](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-3813)
-- [Permit IO Challenge Entry: Tool Access Panel](https://dev.to/codanyks/permit-io-challenge-entry-tool-access-panel-276h)
-- [AICHA: AI-Powered Healthcare Assistant with Permit.io Authorization](https://dev.to/manikant92/aicha-ai-powered-healthcare-assistant-with-permitio-authorization-2kpo)
+- [c++ code error checking](https://dev.to/star1aysi/c-code-error-checking-2ipn)
+- [Scripting Series – Part 6 of 8](https://dev.to/alexenson/scripting-series-part-6-of-8-5365)
+- [Cocktail](https://dev.to/preetha_vaishnavi_2b82358/cocktail-27c)
+- [Turn any photo into a color palette – made a tool for designers &amp; artists](https://dev.to/robert_kotcher_6861a5b360/turn-any-photo-into-a-color-palette-made-a-tool-for-designers-artists-2l3m)
+- [Building Dcup: An Open-Source RAG Pipeline with a Twist](https://dev.to/aliamerj/building-dcup-an-open-source-rag-pipeline-with-a-twist-2ebn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
