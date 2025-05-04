@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Angular Developer Career Path: From Junior to Architect](https://dev.to/karol_modelski/building-an-angular-developer-career-path-from-junior-to-architect-1p31)
-- [Wake Lock API to Prevent Screen Dimming](https://dev.to/omriluz1/wake-lock-api-to-prevent-screen-dimming-kcn)
-- [What Developers Can Learn from Designers](https://dev.to/opsliop/what-developers-can-learn-from-designers-2558)
-- [User and Group Management in Red Hat Linux](https://dev.to/shamain_anjum/user-and-group-management-in-red-hat-linux-a7e)
-- [Ethical Design in the Digital Era: How to Develop Trust, Rather Than Interfaces](https://dev.to/okoye_ndidiamaka_5e3b7d30/ethical-design-in-the-digital-era-how-to-develop-trust-rather-than-interfaces-41b6)
+- [Faster, Stable Trajectory Clustering: New Algorithm Unveiled](https://dev.to/aimodels-fyi/faster-stable-trajectory-clustering-new-algorithm-unveiled-50of)
+- [A Comprehensive Guide to Object-Oriented Programming &lpar;OOP&rpar; Concepts Introduction](https://dev.to/arslanex/a-comprehensive-guide-to-object-oriented-programming-oop-concepts-introduction-2b90)
+- [Understanding Polymorphism in Python: A Comprehensive Guide](https://dev.to/arslanex/understanding-polymorphism-in-python-a-comprehensive-guide-1ppl)
+- [When and Where to Use Inheritance in Python](https://dev.to/arslanex/when-and-where-to-use-inheritance-in-python-27a1)
+- [Understanding Inheritance in Python: A Comprehensive Guide](https://dev.to/arslanex/understanding-inheritance-in-python-a-comprehensive-guide-nfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
