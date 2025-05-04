@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Change Management Tracker](https://dev.to/neviarrawlinson/change-management-tracker-3j2e)
-- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://dev.to/nickytonline/gos-singleflight-package-and-why-itd-awesome-for-concurrent-requests-4di7)
-- [ChatGPT told me this very insightful line regarding startups or business, &quot;Validate your idea with actual users or small launches, not opinions.&quot; What is your thought on this?](https://dev.to/frikishaan/chatgpt-told-me-this-very-insightful-line-regarding-startups-or-business-validate-your-idea-13jm)
-- [I&#39;ve been thinking a bit about my dream team, and I’d love to hear your thoughts too! What makes team successful?](https://dev.to/rkhaslarov/ive-been-thinking-a-bit-about-my-dream-team-and-id-love-to-hear-your-thoughts-too-what-makes-ogp)
-- [Implementing Vue Modal Route](https://dev.to/shunnnet/implementing-vue-modal-route-58ff)
+- [WSL Troubleshooting Guide When You Can Not Access to WSL2 From Terminal](https://dev.to/0xkoji/wsl-troubleshooting-guide-when-you-can-not-access-to-wsl2-from-terminal-6e6)
+- [ALERT : Writers Jobs are in RISK](https://dev.to/junaid_dev/alert-writers-jobs-are-in-risk-26f7)
+- [Ai Fortune Teller build with Amazon Q](https://dev.to/hemanth_hmc/ai-fortune-teller-build-with-amazon-q-n44)
+- [How to Use AI in Go with LangChainGo &lpar;Very Easy!&rpar;](https://dev.to/codeashing/how-to-use-ai-in-go-with-langchaingo-very-easy-i2j)
+- [What&#39;s changed in Webdev in the past few years](https://dev.to/thejaredwilcurt/whats-changed-in-webdev-in-the-past-few-years-p7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
