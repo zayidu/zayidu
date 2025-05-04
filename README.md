@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Readiness Assessment: Is Your Data Prepared for AI Success?](https://dev.to/ai4b/data-readiness-assessment-is-your-data-prepared-for-ai-success-1mcc)
-- [Building a RAG System with Firebase Functions, OpenAI, and Pinecone](https://dev.to/neetigyachahar/building-a-rag-system-with-firebase-functions-openai-and-pinecone-1ei)
-- [QuickCollab - Permissions- First Workspace Collaboration App](https://dev.to/mahendra_maddipati/quickcollab-permissions-first-workspace-collaboration-app-3o3c)
-- [Advanced CSS selectors exercise - answers](https://dev.to/preetha_vaishnavi_2b82358/advanced-css-selectors-exercise-answers-67i)
-- [🚀 Understanding Kubernetes Services: ClusterIP, NodePort, LoadBalancer + Manual Scheduling](https://dev.to/dechen_tshering_3577/understanding-kubernetes-services-clusterip-nodeport-loadbalancer-manual-scheduling-3pf2)
+- [May the Fourth CSS Art](https://dev.to/alvaromontoro/may-the-fourth-css-art-2205)
+- [Google Chrome feature makes JavaScript 10X faster, GSAP is now free, UNKNOWN JavaScript hack, and more](https://dev.to/thisweekinjavascript/google-chrome-feature-makes-javascript-10x-faster-gsap-is-now-free-unknown-javascript-hack-and-c8e)
+- [Clean Code Is a Habit, Not a Talent](https://dev.to/muhammad_chandrabintang/clean-code-is-a-habit-not-a-talent-2l01)
+- [Bora simular uma compra completa com Azure Durable Functions e padrão Saga? 🎉](https://dev.to/sertaoseracloud/bora-simular-uma-compra-completa-com-azure-durable-functions-e-padrao-saga-20pe)
+- [AutoSecure API Gateway: API-First Authorization Reimagined](https://dev.to/kevin_heidt_d73c1752454fb/autosecure-api-gateway-api-first-authorization-reimagined-21k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
