@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Web3 Development Roadmap: Learn Full Stack Web3 in 90 Days](https://dev.to/code_2/full-stack-web3-development-roadmap-learn-full-stack-web3-in-90-days-2jdk)
-- [ApocalypseGPT 🧟](https://dev.to/sebastiandevelops/apocalypsegpt-2n9i)
-- [Web Development Week 2](https://dev.to/upinar/web-development-week-2-o1d)
-- [Guia Prático Spring Boot WebFlux](https://dev.to/ikauedev/guia-pratico-spring-boot-webflux-22co)
-- [1128. Number of Equivalent Domino Pairs](https://dev.to/mdarifulhaque/1128-number-of-equivalent-domino-pairs-24an)
+- [Data Readiness Assessment: Is Your Data Prepared for AI Success?](https://dev.to/ai4b/data-readiness-assessment-is-your-data-prepared-for-ai-success-1mcc)
+- [Building a RAG System with Firebase Functions, OpenAI, and Pinecone](https://dev.to/neetigyachahar/building-a-rag-system-with-firebase-functions-openai-and-pinecone-1ei)
+- [QuickCollab - Permissions- First Workspace Collaboration App](https://dev.to/mahendra_maddipati/quickcollab-permissions-first-workspace-collaboration-app-3o3c)
+- [Advanced CSS selectors exercise - answers](https://dev.to/preetha_vaishnavi_2b82358/advanced-css-selectors-exercise-answers-67i)
+- [🚀 Understanding Kubernetes Services: ClusterIP, NodePort, LoadBalancer + Manual Scheduling](https://dev.to/dechen_tshering_3577/understanding-kubernetes-services-clusterip-nodeport-loadbalancer-manual-scheduling-3pf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
