@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Doesn’t Suffer — But It Shapes the World of Those Who Do](https://dev.to/arcibyte/ai-doesnt-suffer-but-it-shapes-the-world-of-those-who-do-179h)
-- [Essential Patterns for Resilient Distributed Systems](https://dev.to/alexmyronov/essential-patterns-for-resilient-distributed-systems-228p)
-- [How to Properly Use Flexbox for a Responsive Header](https://dev.to/generatecodedev/how-to-properly-use-flexbox-for-a-responsive-header-56ei)
-- [Web Bluetooth API for Device Communication](https://dev.to/omriluz1/web-bluetooth-api-for-device-communication-27i3)
-- [Разработка дизайна информационного сайта на WordPress с нуля своими руками](https://dev.to/wphelpru/razrabotka-dizaina-informatsionnogho-saita-na-wordpress-4ddp)
+- [Como Organizar Suas Conversas com Inteligências Artificiais para Aumentar a Produtividade.](https://dev.to/robsonamendonca/como-organizar-suas-conversas-com-inteligencias-artificiais-para-aumentar-a-produtividade-enh)
+- [🧠 MedAi Pro – AI-Powered Medical Report Analyzer Using Camel AI, LLaMA 4, Groq API, and Streamlit_](https://dev.to/_tusharrathore/medai-pro-ai-powered-medical-report-analyzer-using-camel-ai-llama-4-groq-api-and-streamlit-p6a)
+- [Tell me about best object detection github repo written by pyton](https://dev.to/afshin_jian_4794d14082b7b/tell-me-about-best-object-detection-github-repo-written-by-pyton-5ffp)
+- [MedRecord – Secure Medical Records with Fine-Grained Access Control](https://dev.to/walidadebayo/medrecord-secure-medical-records-with-fine-grained-access-control-3b6)
+- [🔐MedSecure: Healthcare Authorization Redefined with Permit.io](https://dev.to/manishjha/medsecure-healthcare-authorization-redefined-with-permitio-179p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
