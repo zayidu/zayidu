@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Key to Control: Navigating Users, Groups, and Permissions](https://dev.to/liquiditee/the-key-to-control-navigating-users-groups-and-permissions-2nf0)
-- [How to Supercharge Your Open Source Projects in Bangalore with Blockchain-based Sponsorship Models](https://dev.to/laetitiaperraut/how-to-supercharge-your-open-source-projects-in-bangalore-with-blockchain-based-sponsorship-models-3065)
-- [Build RAG by go-doudou And langchaingo](https://dev.to/wubin1989/build-rag-by-go-doudou-and-langchaingo-ndk)
-- [Mastering PHP&#39;s Type Hints: A Comprehensive Guide to Writing Robust Code](https://dev.to/the_realteckyguy/mastering-phps-type-hints-a-comprehensive-guide-to-writing-robust-code-46hp)
-- [Funding Your Blockchain Project: Strategies for Success](https://dev.to/vitalisorenko/funding-your-blockchain-project-strategies-for-success-l49)
+- [Building AI Agents with n8n: A Complete Guide to Workflow Automation](https://dev.to/krish_desai_117/building-ai-agents-with-n8n-a-complete-guide-to-workflow-automation-4gb5)
+- [html2canvas react Custom Fonts not exporting to image.](https://dev.to/rajan_sharma_72492849f8ac/html2canvas-react-custom-fonts-not-exporting-to-image-2446)
+- [Building &quot;Production-Grade&quot; APIs in .NET](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-3813)
+- [Permit IO Challenge Entry: Tool Access Panel](https://dev.to/codanyks/permit-io-challenge-entry-tool-access-panel-276h)
+- [AICHA: AI-Powered Healthcare Assistant with Permit.io Authorization](https://dev.to/manikant92/aicha-ai-powered-healthcare-assistant-with-permitio-authorization-2kpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
