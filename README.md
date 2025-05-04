@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a File Upload API in Golang](https://dev.to/bitsofmandal-yt/build-a-file-upload-api-in-golang-18oi)
-- [Integration Digest for April 2025](https://dev.to/stn1slv/integration-digest-for-april-2025-5dod)
-- [IBM&#39;s Pioneering Role in Open Source and Blockchain: A Holistic Analysis](https://dev.to/vitalisorenko/ibms-pioneering-role-in-open-source-and-blockchain-a-holistic-analysis-2c5o)
-- [MLOps Explained: Why Operationalizing Machine Learning is Crucial for Long‑Term Success](https://dev.to/ai4b/mlops-explained-why-operationalizing-machine-learning-is-crucial-for-long-term-success-59p7)
-- [Why is my C code not printing output in Go?](https://dev.to/generatecodedev/why-is-my-c-code-not-printing-output-in-go-4ha5)
+- [AI Doesn’t Suffer — But It Shapes the World of Those Who Do](https://dev.to/arcibyte/ai-doesnt-suffer-but-it-shapes-the-world-of-those-who-do-179h)
+- [Essential Patterns for Resilient Distributed Systems](https://dev.to/alexmyronov/essential-patterns-for-resilient-distributed-systems-228p)
+- [How to Properly Use Flexbox for a Responsive Header](https://dev.to/generatecodedev/how-to-properly-use-flexbox-for-a-responsive-header-56ei)
+- [Web Bluetooth API for Device Communication](https://dev.to/omriluz1/web-bluetooth-api-for-device-communication-27i3)
+- [Разработка дизайна информационного сайта на WordPress с нуля своими руками](https://dev.to/wphelpru/razrabotka-dizaina-informatsionnogho-saita-na-wordpress-4ddp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
