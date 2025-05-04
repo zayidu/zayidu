@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster, Stable Trajectory Clustering: New Algorithm Unveiled](https://dev.to/aimodels-fyi/faster-stable-trajectory-clustering-new-algorithm-unveiled-50of)
-- [A Comprehensive Guide to Object-Oriented Programming &lpar;OOP&rpar; Concepts Introduction](https://dev.to/arslanex/a-comprehensive-guide-to-object-oriented-programming-oop-concepts-introduction-2b90)
-- [Understanding Polymorphism in Python: A Comprehensive Guide](https://dev.to/arslanex/understanding-polymorphism-in-python-a-comprehensive-guide-1ppl)
-- [When and Where to Use Inheritance in Python](https://dev.to/arslanex/when-and-where-to-use-inheritance-in-python-27a1)
-- [Understanding Inheritance in Python: A Comprehensive Guide](https://dev.to/arslanex/understanding-inheritance-in-python-a-comprehensive-guide-nfc)
+- [The Key to Control: Navigating Users, Groups, and Permissions](https://dev.to/liquiditee/the-key-to-control-navigating-users-groups-and-permissions-2nf0)
+- [How to Supercharge Your Open Source Projects in Bangalore with Blockchain-based Sponsorship Models](https://dev.to/laetitiaperraut/how-to-supercharge-your-open-source-projects-in-bangalore-with-blockchain-based-sponsorship-models-3065)
+- [Build RAG by go-doudou And langchaingo](https://dev.to/wubin1989/build-rag-by-go-doudou-and-langchaingo-ndk)
+- [Mastering PHP&#39;s Type Hints: A Comprehensive Guide to Writing Robust Code](https://dev.to/the_realteckyguy/mastering-phps-type-hints-a-comprehensive-guide-to-writing-robust-code-46hp)
+- [Funding Your Blockchain Project: Strategies for Success](https://dev.to/vitalisorenko/funding-your-blockchain-project-strategies-for-success-l49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
