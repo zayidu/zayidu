@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Python Script Found 1,237 Leaked Passwords in 3 Minutes](https://dev.to/snappytuts/this-python-script-found-1237-leaked-passwords-in-3-minutes-3mmh)
-- [Mastering Git Commit Messages with Conventional Commits](https://dev.to/naserrasouli/mastering-git-commit-messages-with-conventional-commits-2p96)
-- [Debugging @Scheduled Tasks in Spring Boot Without Sending Harassing Emails](https://dev.to/thellu/debugging-scheduled-tasks-in-spring-boot-without-sending-harassing-emails-cd6)
-- [🕵️ Build a Python “Spy Folder” That Detects Sneaky File Changes](https://dev.to/0x3d_site/build-a-python-spy-folder-that-detects-sneaky-file-changes-a4a)
-- [Amazon DocumentDB != Microsoft DocumentDB extension for PostgreSQL](https://dev.to/aws-heroes/amazon-documentdb-microsoft-documentdb-extension-for-postgresql-210f)
+- [Build a File Upload API in Golang](https://dev.to/bitsofmandal-yt/build-a-file-upload-api-in-golang-18oi)
+- [Integration Digest for April 2025](https://dev.to/stn1slv/integration-digest-for-april-2025-5dod)
+- [IBM&#39;s Pioneering Role in Open Source and Blockchain: A Holistic Analysis](https://dev.to/vitalisorenko/ibms-pioneering-role-in-open-source-and-blockchain-a-holistic-analysis-2c5o)
+- [MLOps Explained: Why Operationalizing Machine Learning is Crucial for Long‑Term Success](https://dev.to/ai4b/mlops-explained-why-operationalizing-machine-learning-is-crucial-for-long-term-success-59p7)
+- [Why is my C code not printing output in Go?](https://dev.to/generatecodedev/why-is-my-c-code-not-printing-output-in-go-4ha5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
