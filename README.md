@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full stack development 2025](https://dev.to/abdu_karim_5f2f2c6b3a82de/full-stack-development-2025-1j30)
-- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3n0m)
-- [Hello DEV! From Graphic Design to Data Analytics &lpar;with coffee &amp; chaos&rpar;](https://dev.to/sachin_kumar_978b87100f2d/hello-dev-from-graphic-design-to-data-analytics-with-coffee-chaos-1hd8)
-- [🚀 Update: create-node-spark CLI Gets Major Boost!](https://dev.to/talhabilaldev/update-create-node-spark-cli-gets-major-boost-35a5)
-- [Youtube API Project](https://dev.to/bobokech/youtube-api-project-214n)
+- [Building an Angular Developer Career Path: From Junior to Architect](https://dev.to/karol_modelski/building-an-angular-developer-career-path-from-junior-to-architect-1p31)
+- [Wake Lock API to Prevent Screen Dimming](https://dev.to/omriluz1/wake-lock-api-to-prevent-screen-dimming-kcn)
+- [What Developers Can Learn from Designers](https://dev.to/opsliop/what-developers-can-learn-from-designers-2558)
+- [User and Group Management in Red Hat Linux](https://dev.to/shamain_anjum/user-and-group-management-in-red-hat-linux-a7e)
+- [Ethical Design in the Digital Era: How to Develop Trust, Rather Than Interfaces](https://dev.to/okoye_ndidiamaka_5e3b7d30/ethical-design-in-the-digital-era-how-to-develop-trust-rather-than-interfaces-41b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
