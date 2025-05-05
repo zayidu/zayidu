@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PermiShout: Recreating Twitter with Access Control using Permit.io](https://dev.to/ansellmaximilian/permishout-recreating-twitter-with-access-control-using-permitio-16j0)
-- [Why Many Engineers and Workers Want to Leave India 🇮🇳✈️](https://dev.to/coder_studios/why-many-engineers-and-workers-want-to-leave-india-4p7f)
-- [Embracing Decentralization with Infinex Patrons for Indie Hackers](https://dev.to/kallileiser/embracing-decentralization-with-infinex-patrons-for-indie-hackers-2993)
-- [How to Create Dynamic Permissions in PHP from Text Files](https://dev.to/generatecodedev/how-to-create-dynamic-permissions-in-php-from-text-files-11p4)
-- [Network Troubleshooting Explained: Simple Steps for Success &lpar;CompTIA Net+&rpar;](https://dev.to/andrew_despres/network-troubleshooting-explained-simple-steps-for-success-comptia-net-3071)
+- [Another jamathon thingy, but this time with authZ](https://dev.to/instancer-kirik/another-jamathon-thingy-but-this-time-with-authz-2f2b)
+- [Connect your AI to any tool and build reliable AI agents using ACI.dev](https://dev.to/ramunarasinga-11/connect-your-ai-to-any-tool-and-build-reliable-ai-agents-using-acidev-5cmd)
+- [Is GitHub Sponsors Safe? A Comprehensive Guide](https://dev.to/vitalisorenko/is-github-sponsors-safe-a-comprehensive-guide-9pg)
+- [[Boost]](https://dev.to/smilegupta/-geh)
+- [🚀 &quot;Crafting an AI/ML-Driven GitHub Profile: Projects, Skills &amp; Growth&quot;](https://dev.to/sakshi983cmd/crafting-an-aiml-driven-github-profile-projects-skills-growth-2353)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
