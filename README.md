@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Laravel Event Listeners for Cleaner, Decoupled Code](https://dev.to/aleson-franca/using-laravel-event-listeners-for-cleaner-decoupled-code-51dl)
-- [Staying Ahead in JavaScript: What’s Trending in 2025](https://dev.to/michaelwiley9999/staying-ahead-in-javascript-whats-trending-in-2025-4fb4)
-- [Feature Flags in .NET](https://dev.to/sung_jinwoo_ae9a810f8c46a/feature-flags-in-net-5656)
-- [Building Your Own Web Server — Part 3: Blocking Single and Multithreaded Server](https://dev.to/dmytro_huz/building-your-own-web-server-part-3-blocking-single-and-multithreaded-server-3h7i)
-- [Weekly Insights: AI, Cloud, and Quantum Advances &lpar;Apr 27 - May 3, 2025&rpar;](https://dev.to/djleamen/weekly-insights-ai-cloud-and-quantum-advances-apr-27-may-3-2025-4ppf)
+- [Optimizing Cleaning Resource Management with IoT](https://dev.to/jesus_hall_bropro/optimizing-cleaning-resource-management-with-iot-51lm)
+- [Microsoft&#39;s Journey into Open Source: From Proprietary Past to Collaborative Future](https://dev.to/zhangwei42/microsofts-journey-into-open-source-from-proprietary-past-to-collaborative-future-5efb)
+- [#1 on SWE-bench lite, achieved fully autonomously by open-source Refact.ai Agent](https://dev.to/refact/1-on-swe-bench-lite-achieved-fully-autonomously-by-open-source-refactai-agent-4mcj)
+- [How to Specify a Different Linker in GCC and Clang?](https://dev.to/generatecodedev/how-to-specify-a-different-linker-in-gcc-and-clang-397k)
+- [sql question](https://dev.to/jordanhiddengems_jordan_c/sql-question-f74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
