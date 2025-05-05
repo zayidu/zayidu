@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Integration Tests in .NET: Record, Replay, Relax](https://dev.to/georgopoulosgiannis/level-up-your-integration-tests-in-net-record-replay-relax-2m5c)
-- [Dark Patterns in UX: How to Recognize Manipulative Design—and Why Ethical Design Is More Important Than Ever](https://dev.to/okoye_ndidiamaka_5e3b7d30/dark-patterns-in-ux-how-to-recognize-manipulative-design-and-why-ethical-design-is-more-important-o6j)
-- [Quark’s Outlines: Python Delimiters](https://dev.to/mike-vincent/quarks-outlines-python-delimiters-5511)
-- [Efficient String Splitting in PostgreSQL: 5 Essential Functions](https://dev.to/dbvismarketing/efficient-string-splitting-in-postgresql-5-essential-functions-5bkj)
-- [🚀 GitGuard – Secure Just-In-Time Repository Access with Biometrics &amp; Permit.io](https://dev.to/nikhilsahni7/gitguard-secure-just-in-time-repository-access-with-biometrics-permitio-ejp)
+- [WordPress vs Squarespace: A Detailed Comparison for Beginners](https://dev.to/leojohnson235/wordpress-vs-squarespace-a-detailed-comparison-for-beginners-m86)
+- [Основы SEO для начинающих разработчиков сайтов на WordPress](https://dev.to/wphelpru/osnovy-seo-dlia-nachinaiushchikh-razrabotchikov-saitov-na-wordpress-3l3b)
+- [Expectation &#39;Hired to Love&#39; 🖤Reality DNS Rescue 😫](https://dev.to/techwithhari/expectation-hired-to-love-reality-dns-rescue-2f88)
+- [Avoid CAPTCHA Fatigue: Try These Browser Extensions Today](https://dev.to/henrym14/avoid-captcha-fatigue-try-these-browser-extensions-today-4bg9)
+- [How to Fix &#39;TypeError: Cannot Read Properties of Null&#39; in Angular?](https://dev.to/generatecodedev/how-to-fix-typeerror-cannot-read-properties-of-null-in-angular-1b7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
