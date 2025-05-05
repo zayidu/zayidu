@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/headf1rst/-3g81)
-- [Quarkus 3 application on AWS Lambda- Part 1 Introduction to the sample application and first Lambda performance measurements](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-1-introduction-to-the-sample-application-and-first-lambda-30lb)
-- [In case you missed it](https://dev.to/d4vinci/in-case-you-missed-it-4mi1)
-- [😰 System design rounds used to scare me. Until I built a simple 2 2 quadrant to structure my thinking. I’ve finally written about it - with one example of Product Listing Page.](https://dev.to/smilegupta/system-design-rounds-used-to-scare-me-until-i-built-a-simple-2x2-quadrant-to-structure-my-c1n)
-- [We Listened: Pgai Vectorizer Now Works With Any Postgres Database](https://dev.to/timescale/we-listened-pgai-vectorizer-now-works-with-any-postgres-database-1e57)
+- [Basics of Stack, Heap, memory management, VM &amp; JVM](https://dev.to/ssd/basics-of-stack-heap-memory-management-vm-jvm-1png)
+- [Part 2 of Pattern Matching in Switch - Java](https://dev.to/sowmiya07/part-2-of-pattern-matching-in-switch-java-pno)
+- [Vector Databases: The Secret Sauce for AI-Powered Search &lpar;That Won&#39;t Make Your Brain Explode&rpar;](https://dev.to/sakethkowtha/vector-databases-the-secret-sauce-for-ai-powered-search-that-wont-make-your-brain-explode-4147)
+- [Dev Diary #1 – Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-16mi)
+- [API Testing Essentials: What Every QA Engineer Should Know](https://dev.to/shubham-theqa/api-testing-essentials-what-every-qa-engineer-should-know-ei8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
