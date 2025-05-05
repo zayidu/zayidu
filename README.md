@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Company Needs a New Homepage](https://dev.to/talweezy/why-your-ai-company-needs-a-new-homepage-1n4b)
-- [How to Fix Stacks and Tabs Not Rendering in TypeScript?](https://dev.to/generatecodedev/how-to-fix-stacks-and-tabs-not-rendering-in-typescript-5bol)
-- [Permissions API to Manage User Consent](https://dev.to/omriluz1/permissions-api-to-manage-user-consent-2eij)
-- [Hello world!](https://dev.to/joaquin_gerez/hello-world-46i1)
-- [SVG Halftone Filter Demo: Live Image Preview &amp; Toggle](https://dev.to/rodzyk/svg-halftone-filter-demo-live-image-preview-toggle-3pe0)
+- [Using Laravel Event Listeners for Cleaner, Decoupled Code](https://dev.to/aleson-franca/using-laravel-event-listeners-for-cleaner-decoupled-code-51dl)
+- [Staying Ahead in JavaScript: What’s Trending in 2025](https://dev.to/michaelwiley9999/staying-ahead-in-javascript-whats-trending-in-2025-4fb4)
+- [Feature Flags in .NET](https://dev.to/sung_jinwoo_ae9a810f8c46a/feature-flags-in-net-5656)
+- [Building Your Own Web Server — Part 3: Blocking Single and Multithreaded Server](https://dev.to/dmytro_huz/building-your-own-web-server-part-3-blocking-single-and-multithreaded-server-3h7i)
+- [Weekly Insights: AI, Cloud, and Quantum Advances &lpar;Apr 27 - May 3, 2025&rpar;](https://dev.to/djleamen/weekly-insights-ai-cloud-and-quantum-advances-apr-27-may-3-2025-4ppf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
