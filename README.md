@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Created My Own WHOIS Lookup Tool with SEO &amp; Mobile Optimization](https://dev.to/unknown_coder1x/how-i-created-my-own-whois-lookup-tool-with-seo-mobile-optimization-25if)
-- [Post 1: How I Built My Own Payment Gateway in PHP Without Using External APIs](https://dev.to/unknown_coder1x/post-1-how-i-built-my-own-payment-gateway-in-php-without-using-external-apis-2n1n)
-- [Demystifying Flutter: A Beginner-Friendly Tutorial](https://dev.to/rishabhtpt/demystifying-flutter-a-beginner-friendly-tutorial-5gj5)
-- [How to Fix &#39;Sign Invalid&#39; Errors in Arduino C++ for Tuya API?](https://dev.to/generatecodedev/how-to-fix-sign-invalid-errors-in-arduino-c-for-tuya-api-5c4k)
-- [HireFlow: For candidates, recruiters, and companies](https://dev.to/sarahokolo/hireflow-for-candidates-recruiters-and-companies-52ng)
+- [Level Up Your Integration Tests in .NET: Record, Replay, Relax](https://dev.to/georgopoulosgiannis/level-up-your-integration-tests-in-net-record-replay-relax-2m5c)
+- [Dark Patterns in UX: How to Recognize Manipulative Design—and Why Ethical Design Is More Important Than Ever](https://dev.to/okoye_ndidiamaka_5e3b7d30/dark-patterns-in-ux-how-to-recognize-manipulative-design-and-why-ethical-design-is-more-important-o6j)
+- [Quark’s Outlines: Python Delimiters](https://dev.to/mike-vincent/quarks-outlines-python-delimiters-5511)
+- [Efficient String Splitting in PostgreSQL: 5 Essential Functions](https://dev.to/dbvismarketing/efficient-string-splitting-in-postgresql-5-essential-functions-5bkj)
+- [🚀 GitGuard – Secure Just-In-Time Repository Access with Biometrics &amp; Permit.io](https://dev.to/nikhilsahni7/gitguard-secure-just-in-time-repository-access-with-biometrics-permitio-ejp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
