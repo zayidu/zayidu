@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
-- [Meme Monday](https://dev.to/ben/meme-monday-1ik7)
-- [Why Flip Phones Still Matter in 2025 | w/ Tom Barrasso](https://dev.to/mikehtmlallthethings/why-flip-phones-still-matter-in-2025-w-tom-barrasso-p9m)
-- [License-Token: A New Era for Open Source Licensing](https://dev.to/bobcars/license-token-a-new-era-for-open-source-licensing-35k2)
-- [Vacuous Truth in JS](https://dev.to/amanimavu/vacuous-truth-in-js-b7o)
+- [The Day I Forgot to Close the File](https://dev.to/bhuvaneshm_dev/the-day-i-forgot-to-close-the-file-24m8)
+- [The Remote-Preneur Reality: What Most Developers and Freelancers Don&#39;t See Coming](https://dev.to/matteotech/the-remote-preneur-reality-what-most-developers-and-freelancers-dont-see-coming-2091)
+- [What is ORD?](https://dev.to/e77/what-is-ord-3cgf)
+- [How to Fix &#39;Expression is Ambiguous for Type Lookup&#39; in Swift?](https://dev.to/generatecodedev/how-to-fix-expression-is-ambiguous-for-type-lookup-in-swift-pm6)
+- [🤖📚 Build Your Own AI-Powered Book Chatbot using Python, Flask, Lang Chain, and Pinecone!](https://dev.to/ujjwal_nepal/build-your-own-ai-powered-book-chatbot-using-python-flask-lang-chain-and-pinecone-loi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
