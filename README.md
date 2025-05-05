@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Another jamathon thingy, but this time with authZ](https://dev.to/instancer-kirik/another-jamathon-thingy-but-this-time-with-authz-2f2b)
-- [Connect your AI to any tool and build reliable AI agents using ACI.dev](https://dev.to/ramunarasinga-11/connect-your-ai-to-any-tool-and-build-reliable-ai-agents-using-acidev-5cmd)
-- [Is GitHub Sponsors Safe? A Comprehensive Guide](https://dev.to/vitalisorenko/is-github-sponsors-safe-a-comprehensive-guide-9pg)
-- [[Boost]](https://dev.to/smilegupta/-geh)
-- [🚀 &quot;Crafting an AI/ML-Driven GitHub Profile: Projects, Skills &amp; Growth&quot;](https://dev.to/sakshi983cmd/crafting-an-aiml-driven-github-profile-projects-skills-growth-2353)
+- [Modern Authentication Methods OAuth, JWT, and Beyond](https://dev.to/hasunnilupul/modern-authentication-methods-oauth-jwt-and-beyond-29fo)
+- [There&#39;s Nothing Wrong With Coding Just to Pay the Bills](https://dev.to/canro91/theres-nothing-wrong-with-coding-just-to-pay-the-bills-4081)
+- [🚀 How to Deploy Any WordPress Web App Using Docker](https://dev.to/shashank_sm_eeb714f39c824/how-to-deploy-any-wordpress-web-app-using-docker-1h5c)
+- [Modern ANIMATED Drink Ui](https://dev.to/preetha_vaishnavi_2b82358/modern-animated-drink-ui-fko)
+- [From UPSC to Tech](https://dev.to/aakankshasharma/from-upsc-to-tech-256d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
