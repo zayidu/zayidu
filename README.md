@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How NoLogin Was Born: From a Computer Lab Frustration to a Sharing Revolution](https://dev.to/deekshith_b_57ac55882b25c/how-nologin-was-born-from-a-computer-lab-frustration-to-a-sharing-revolution-1n01)
-- [Streaming LLM Responses — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/streaming-llm-responses-tutorial-for-dummies-using-pocketflow-3g9p)
-- [Integrating Filebeat and Logstash with Elasticsearch](https://dev.to/xavki/integrating-filebeat-and-logstash-with-elasticsearch-3o80)
-- [O11Y e Negócio, uma aproximação necessária](https://dev.to/skimifil/o11y-e-negocio-uma-aproximacao-necessaria-2jg2)
-- [How to Fix Mirrored Images and Coordinate Issues in MATLAB?](https://dev.to/generatecodedev/how-to-fix-mirrored-images-and-coordinate-issues-in-matlab-5de8)
+- [Rails Designer v1.14: All-new Calendar Component](https://dev.to/railsdesigner/rails-designer-v114-all-new-calendar-component-5bn1)
+- [What are your goals for the week? #125](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-125-4cc3)
+- [Grumphp en proyectos Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/grumphp-en-proyectos-ddev-4hb8)
+- [Understanding the Builder Pattern – One Brick at a Time](https://dev.to/syedyshiraz/understanding-the-builder-pattern-one-brick-at-a-time-ffm)
+- [Go #010 – Variable Scope and Shadowing: Footguns Explained](https://dev.to/imzihad21/go-010-variable-scope-and-shadowing-footguns-explained-3djp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
