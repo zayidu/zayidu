@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.14: All-new Calendar Component](https://dev.to/railsdesigner/rails-designer-v114-all-new-calendar-component-5bn1)
-- [What are your goals for the week? #125](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-125-4cc3)
-- [Grumphp en proyectos Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/grumphp-en-proyectos-ddev-4hb8)
-- [Understanding the Builder Pattern – One Brick at a Time](https://dev.to/syedyshiraz/understanding-the-builder-pattern-one-brick-at-a-time-ffm)
-- [Go #010 – Variable Scope and Shadowing: Footguns Explained](https://dev.to/imzihad21/go-010-variable-scope-and-shadowing-footguns-explained-3djp)
+- [Artificial Intelligence In The IT Industry Opportunities &amp; Challenges](https://dev.to/glaxitofficial/artificial-intelligence-in-the-it-industry-opportunities-challenges-o5d)
+- [Starvation in Javascript: When your program remains Hungry](https://dev.to/devanshhh/starvation-in-javascript-when-your-program-remains-hungry-1i19)
+- [🚀 Application Tier Platform Migration Oracle EBS R12.2.x](https://dev.to/decomoreira/application-tier-platform-migration-oracle-ebs-r122x-28oc)
+- [Expedition 33 publisher: &quot;Elder Scrolls: Oblivion didn’t seem to harm us at all&quot;](https://dev.to/gg_news/expedition-33-publisher-elder-scrolls-oblivion-didnt-seem-to-harm-us-at-all-4in)
+- [$50 masterpiece in an $80 industry. Cost Quality](https://dev.to/gg_news/50-masterpiece-in-an-80-industry-cost-quality-23mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
