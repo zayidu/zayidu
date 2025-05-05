@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 12/ 30 Days of Linux Mastery: Process Management Simplified](https://dev.to/amandaigwe/day-12-30-days-of-linux-mastery-process-management-simplified-4pmh)
-- [How StartER Solves the Express + Vite SSR Puzzle](https://dev.to/rocambille/how-starter-solves-the-express-vite-ssr-puzzle-hhj)
-- [OS Login Issue on GCP: “This region is not supported by the OS Login Sign API at this time.”](https://dev.to/pkorsch/os-login-issue-on-gcp-this-region-is-not-supported-by-the-os-login-sign-api-at-this-time-5hn5)
-- [How to Upgrade BizTalk Send Port from SQL to WCF-SQL?](https://dev.to/generatecodedev/how-to-upgrade-biztalk-send-port-from-sql-to-wcf-sql-3od7)
-- [PySpark &amp; Jupyter Notebooks Deployed On Kubernetes](https://dev.to/keyvan_soleimani/pyspark-jupyter-notebooks-deployed-on-kubernetes-4ck0)
+- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
+- [Meme Monday](https://dev.to/ben/meme-monday-1ik7)
+- [Why Flip Phones Still Matter in 2025 | w/ Tom Barrasso](https://dev.to/mikehtmlallthethings/why-flip-phones-still-matter-in-2025-w-tom-barrasso-p9m)
+- [License-Token: A New Era for Open Source Licensing](https://dev.to/bobcars/license-token-a-new-era-for-open-source-licensing-35k2)
+- [Vacuous Truth in JS](https://dev.to/amanimavu/vacuous-truth-in-js-b7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
