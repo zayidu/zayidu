@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Cleaning Resource Management with IoT](https://dev.to/jesus_hall_bropro/optimizing-cleaning-resource-management-with-iot-51lm)
-- [Microsoft&#39;s Journey into Open Source: From Proprietary Past to Collaborative Future](https://dev.to/zhangwei42/microsofts-journey-into-open-source-from-proprietary-past-to-collaborative-future-5efb)
-- [#1 on SWE-bench lite, achieved fully autonomously by open-source Refact.ai Agent](https://dev.to/refact/1-on-swe-bench-lite-achieved-fully-autonomously-by-open-source-refactai-agent-4mcj)
-- [How to Specify a Different Linker in GCC and Clang?](https://dev.to/generatecodedev/how-to-specify-a-different-linker-in-gcc-and-clang-397k)
-- [sql question](https://dev.to/jordanhiddengems_jordan_c/sql-question-f74)
+- [Getting Started with Mobile Phone Schematic Diagrams: A Beginner’s Guide](https://dev.to/borhan_salehi_bc82a16bbe6/getting-started-with-mobile-phone-schematic-diagrams-a-beginners-guide-4oe4)
+- [How to Write a SELECT SQL Query for Oracle 19c Groups?](https://dev.to/generatecodedev/how-to-write-a-select-sql-query-for-oracle-19c-groups-3m31)
+- [Coding Challenge Practice -Question 2](https://dev.to/tomivan/coding-challenge-practice-question-2-1p4c)
+- [FitVision - devlog #3](https://dev.to/ceir/fitvision-devlog-3-3d69)
+- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/vitalisorenko/moonbirds-and-indie-hacking-in-the-nft-ecosystem-14n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
