@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Go-To Toolkit: Top 10 Shadcn/ui Components I Rely On for Modern Web Development](https://dev.to/therealmrmumba/my-go-to-toolkit-top-10-shadcnui-components-i-rely-on-for-modern-web-development-31l3)
-- [#3 Fidely Project Update: a better UI 💪](https://dev.to/pul/3-fidely-project-update-a-better-ui-15j8)
-- [The Anatomy of Barriers](https://dev.to/lsahn/the-anatomy-of-barriers-34n2)
-- [Uploading File Attachments with Other Fields in Laravel API Using Postman](https://dev.to/msnmongare/uploading-file-attachments-with-other-fields-in-laravel-api-using-postman-gm3)
-- [Understanding Amazon Bedrock Pricing: From On-Demand to Fine-Tuning](https://dev.to/aws-builders/understanding-amazon-bedrock-pricing-from-on-demand-to-fine-tuning-316d)
+- [Fii Dii Data](https://dev.to/shahzeb_malik_6bc043c98a3/fii-dii-data-545)
+- [📦 At Most Once, At Least Once, Exactly Once: What Do These Really Mean?](https://dev.to/pandeyaditya0002/at-most-once-at-least-once-exactly-once-what-do-these-really-mean-1a39)
+- [Hey Frontend Devs, Feeling Slowed Down by Your CMS?](https://dev.to/caisy_b3dab8bba6a26f388ca/hey-frontend-devs-feeling-slowed-down-by-your-cms-56jp)
+- [SQL and I Had Beef 😂So I Built a Trigger](https://dev.to/jmwendwa/sql-and-i-had-beef-so-i-built-a-trigger-26m9)
+- [Jest - Mocking Next.js Image to handle dynamic properties in tests](https://dev.to/jenchen/jest-mocking-nextjs-image-to-handle-dynamic-properties-in-tests-33m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
