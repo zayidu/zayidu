@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Authentication Methods OAuth, JWT, and Beyond](https://dev.to/hasunnilupul/modern-authentication-methods-oauth-jwt-and-beyond-29fo)
-- [There&#39;s Nothing Wrong With Coding Just to Pay the Bills](https://dev.to/canro91/theres-nothing-wrong-with-coding-just-to-pay-the-bills-4081)
-- [🚀 How to Deploy Any WordPress Web App Using Docker](https://dev.to/shashank_sm_eeb714f39c824/how-to-deploy-any-wordpress-web-app-using-docker-1h5c)
-- [Modern ANIMATED Drink Ui](https://dev.to/preetha_vaishnavi_2b82358/modern-animated-drink-ui-fko)
-- [From UPSC to Tech](https://dev.to/aakankshasharma/from-upsc-to-tech-256d)
+- [How I Created My Own WHOIS Lookup Tool with SEO &amp; Mobile Optimization](https://dev.to/unknown_coder1x/how-i-created-my-own-whois-lookup-tool-with-seo-mobile-optimization-25if)
+- [Post 1: How I Built My Own Payment Gateway in PHP Without Using External APIs](https://dev.to/unknown_coder1x/post-1-how-i-built-my-own-payment-gateway-in-php-without-using-external-apis-2n1n)
+- [Demystifying Flutter: A Beginner-Friendly Tutorial](https://dev.to/rishabhtpt/demystifying-flutter-a-beginner-friendly-tutorial-5gj5)
+- [How to Fix &#39;Sign Invalid&#39; Errors in Arduino C++ for Tuya API?](https://dev.to/generatecodedev/how-to-fix-sign-invalid-errors-in-arduino-c-for-tuya-api-5c4k)
+- [HireFlow: For candidates, recruiters, and companies](https://dev.to/sarahokolo/hireflow-for-candidates-recruiters-and-companies-52ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
