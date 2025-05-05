@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Web Dev Journey Begins: From Zero to Full Stack with 3D &lpar;Three.js&rpar;](https://dev.to/jysurya_mhdvn/my-web-dev-journey-begins-from-zero-to-full-stack-with-3d-threejs-5h65)
-- [🚀 Why C++ Still Dominates Blockchain Development](https://dev.to/cryptosandy/why-c-still-dominates-blockchain-development-1b8k)
-- [Solana Developers Patch Critical Vulnerability: A Technical Breakdown](https://dev.to/philip_crypto92/solana-developers-patch-critical-vulnerability-a-technical-breakdown-2p67)
-- [where go wrong](https://dev.to/lingxiang_he_589358ba6243/where-go-wrong-4g3m)
-- [Custom ValidaCtion Rules in Laravel 12](https://dev.to/ayekpleclemence/custom-validaction-rules-in-laravel-12-4m8i)
+- [My Go-To Toolkit: Top 10 Shadcn/ui Components I Rely On for Modern Web Development](https://dev.to/therealmrmumba/my-go-to-toolkit-top-10-shadcnui-components-i-rely-on-for-modern-web-development-31l3)
+- [#3 Fidely Project Update: a better UI 💪](https://dev.to/pul/3-fidely-project-update-a-better-ui-15j8)
+- [The Anatomy of Barriers](https://dev.to/lsahn/the-anatomy-of-barriers-34n2)
+- [Uploading File Attachments with Other Fields in Laravel API Using Postman](https://dev.to/msnmongare/uploading-file-attachments-with-other-fields-in-laravel-api-using-postman-gm3)
+- [Understanding Amazon Bedrock Pricing: From On-Demand to Fine-Tuning](https://dev.to/aws-builders/understanding-amazon-bedrock-pricing-from-on-demand-to-fine-tuning-316d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
