@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intelligent Retail](https://dev.to/rawveg/intelligent-retail-3ie3)
-- [Agendas lead to more productive meetings](https://dev.to/rally_for_jira/agendas-lead-to-more-productive-meetings-3p9o)
-- [How I Built a Simple AI Side Project for Extra Income &lpar;With Code You Can Copy&rpar;](https://dev.to/limacodes/how-i-built-a-simple-ai-side-project-for-extra-income-with-code-you-can-copy-585e)
-- [Coding Challenge Practice - Question 1](https://dev.to/tomivan/coding-challenge-practice-question-1-4afp)
-- [Does Your Coding Machine&#39;s OS Really Matter? My Windows-to-Linux Journey](https://dev.to/ushashir/does-your-coding-machines-os-really-matter-my-windows-to-linux-journey-5h59)
+- [How to Create a Generic Structure with a Default Type in Rust?](https://dev.to/generatecodedev/how-to-create-a-generic-structure-with-a-default-type-in-rust-58a4)
+- [🔁 1128. Number of Equivalent Domino Pairs – Explained with Code in C++, JavaScript, and Python](https://dev.to/om_shree_0709/1128-number-of-equivalent-domino-pairs-explained-with-code-in-c-javascript-and-python-1b97)
+- [# OpenSearch : 🚀 How to Improve Index and Shard Performance in OpenSearch](https://dev.to/mangesh28/-opensearch-how-to-improve-index-and-shard-performance-in-opensearch-1pe6)
+- [Milestone Two: Build 8 Is Here, and It’s a Big One](https://dev.to/tavrn/milestone-two-build-8-is-here-and-its-a-big-one-53hn)
+- [Mas allá de la moda de los microservicios](https://dev.to/galindocode/mas-alla-de-la-moda-de-los-microservicios-4m4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
