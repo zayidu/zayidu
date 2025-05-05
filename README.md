@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Generic Structure with a Default Type in Rust?](https://dev.to/generatecodedev/how-to-create-a-generic-structure-with-a-default-type-in-rust-58a4)
-- [🔁 1128. Number of Equivalent Domino Pairs – Explained with Code in C++, JavaScript, and Python](https://dev.to/om_shree_0709/1128-number-of-equivalent-domino-pairs-explained-with-code-in-c-javascript-and-python-1b97)
-- [# OpenSearch : 🚀 How to Improve Index and Shard Performance in OpenSearch](https://dev.to/mangesh28/-opensearch-how-to-improve-index-and-shard-performance-in-opensearch-1pe6)
-- [Milestone Two: Build 8 Is Here, and It’s a Big One](https://dev.to/tavrn/milestone-two-build-8-is-here-and-its-a-big-one-53hn)
-- [Mas allá de la moda de los microservicios](https://dev.to/galindocode/mas-alla-de-la-moda-de-los-microservicios-4m4k)
+- [PermiShout: Recreating Twitter with Access Control using Permit.io](https://dev.to/ansellmaximilian/permishout-recreating-twitter-with-access-control-using-permitio-16j0)
+- [Why Many Engineers and Workers Want to Leave India 🇮🇳✈️](https://dev.to/coder_studios/why-many-engineers-and-workers-want-to-leave-india-4p7f)
+- [Embracing Decentralization with Infinex Patrons for Indie Hackers](https://dev.to/kallileiser/embracing-decentralization-with-infinex-patrons-for-indie-hackers-2993)
+- [How to Create Dynamic Permissions in PHP from Text Files](https://dev.to/generatecodedev/how-to-create-dynamic-permissions-in-php-from-text-files-11p4)
+- [Network Troubleshooting Explained: Simple Steps for Success &lpar;CompTIA Net+&rpar;](https://dev.to/andrew_despres/network-troubleshooting-explained-simple-steps-for-success-comptia-net-3071)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
