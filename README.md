@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Stack, Heap, memory management, VM &amp; JVM](https://dev.to/ssd/basics-of-stack-heap-memory-management-vm-jvm-1png)
-- [Part 2 of Pattern Matching in Switch - Java](https://dev.to/sowmiya07/part-2-of-pattern-matching-in-switch-java-pno)
-- [Vector Databases: The Secret Sauce for AI-Powered Search &lpar;That Won&#39;t Make Your Brain Explode&rpar;](https://dev.to/sakethkowtha/vector-databases-the-secret-sauce-for-ai-powered-search-that-wont-make-your-brain-explode-4147)
-- [Dev Diary #1 – Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-16mi)
-- [API Testing Essentials: What Every QA Engineer Should Know](https://dev.to/shubham-theqa/api-testing-essentials-what-every-qa-engineer-should-know-ei8)
+- [How NoLogin Was Born: From a Computer Lab Frustration to a Sharing Revolution](https://dev.to/deekshith_b_57ac55882b25c/how-nologin-was-born-from-a-computer-lab-frustration-to-a-sharing-revolution-1n01)
+- [Streaming LLM Responses — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/streaming-llm-responses-tutorial-for-dummies-using-pocketflow-3g9p)
+- [Integrating Filebeat and Logstash with Elasticsearch](https://dev.to/xavki/integrating-filebeat-and-logstash-with-elasticsearch-3o80)
+- [O11Y e Negócio, uma aproximação necessária](https://dev.to/skimifil/o11y-e-negocio-uma-aproximacao-necessaria-2jg2)
+- [How to Fix Mirrored Images and Coordinate Issues in MATLAB?](https://dev.to/generatecodedev/how-to-fix-mirrored-images-and-coordinate-issues-in-matlab-5de8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
