@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Update Addons AWS EKS](https://dev.to/rafaelonline/update-addons-aws-eks-i7o)
-- [Testing for Success: Align with Product Maturity](https://dev.to/berthaw82414312/testing-for-success-align-with-product-maturity-5a77)
-- [What tools can help streamline cloud deployment processes?](https://dev.to/jevin/what-tools-can-help-streamline-cloud-deployment-processes-1nc8)
-- [How Mobile Apps Are Empowering Nonprofits and Charities](https://dev.to/bhaviksadhu/how-mobile-apps-are-empowering-nonprofits-and-charities-1cfl)
-- [How to Convert Seconds to Hour:Minute:Second Format in PHP?](https://dev.to/generatecodedev/how-to-convert-seconds-to-hourminutesecond-format-in-php-2h9h)
+- [5 Projects That Will Actually Make You Better at Docker](https://dev.to/code42cate/5-projects-that-will-actually-make-you-better-at-docker-5108)
+- [Part 3: Protecting Routes and Security](https://dev.to/jais_mukesh/part-3-protecting-routes-and-security-54pk)
+- [Common Issues Identified In DMARC Reports And How To Resolve Them](https://dev.to/joywinter90/common-issues-identified-in-dmarc-reports-and-how-to-resolve-them-4jia)
+- [Solving TryHackMe&#39;s &quot;Brains&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-brains-room-a-complete-walktrough-6cp)
+- [The Rise of Web3: A Tech Leader&#39;s Perspective](https://dev.to/klimd1389/the-rise-of-web3-a-tech-leaders-perspective-3cc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
