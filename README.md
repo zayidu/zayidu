@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Spirit of Plan 9 on the Web](https://dev.to/progrium/the-spirit-of-plan-9-on-the-web-5g7k)
-- [Translation Memory &lpar;TM&rpar;: Ultimate Guide for Organizations](https://dev.to/colinreed/translation-memory-tm-ultimate-guide-for-organizations-2829)
-- [#6 DP: Decorator](https://dev.to/stv4s/6-dp-decorator-24oj)
-- [🚀 Building an Azure OpenAI Chatbot: Challenges, Solutions &amp; Why JavaScript Beats Python for the Web](https://dev.to/chaitanyarai3/building-an-azure-openai-chatbot-challenges-solutions-why-javascript-beats-python-for-the-web-402k)
-- [How to Fix &#39;params.locale&#39; Error in Next.js 15 Dynamic Routes?](https://dev.to/generatecodedev/how-to-fix-paramslocale-error-in-nextjs-15-dynamic-routes-482i)
+- [AI-Powered Phishing Attacks: Can AI Fool Even Cybersecurity Experts?](https://dev.to/glaxitofficial/ai-powered-phishing-attacks-can-ai-fool-even-cybersecurity-experts-5c84)
+- [Restarting Laravel Queue Workers Safely](https://dev.to/silverfox/restarting-laravel-queue-workers-safely-306d)
+- [Cloud-native or cloud-naive ?](https://dev.to/mr_stone/cloud-native-or-cloud-naive--43fi)
+- [Cloud-Native: Are You Paying for What You Use… or for What You Provision?](https://dev.to/mr_stone/cloud-native-are-you-paying-for-what-you-use-or-for-what-you-provision-4k95)
+- [Smarter RAG Systems with Graphs](https://dev.to/seuros/smarter-rag-systems-with-graphs-4bg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
