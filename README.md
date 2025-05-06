@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix R8 Compilation Error in Flutter APK Build](https://dev.to/generatecodedev/how-to-fix-r8-compilation-error-in-flutter-apk-build-14ki)
-- [Substring from a Column of Strings — From SQL to SPL #25](https://dev.to/judith677/substring-from-a-column-of-strings-from-sql-to-spl-25-5b0b)
-- [Introduction to access control model: ACL, RBAC, ABAC](https://dev.to/whchi/introduction-to-access-control-model-acl-rbac-abac-4m1k)
-- [Celebrating 20 Years of Arduino: Highlights from Arduino Day Philippines 2025](https://dev.to/kakacomputer-media/celebrating-20-years-of-arduino-highlights-from-arduino-day-philippines-2025-6c6)
-- [Neuralese: The Most Spoken Language You’ll Never Speak](https://dev.to/diegodotta/neuralese-the-most-spoken-language-youll-never-speak-51hl)
+- [How to Fix Capybara-Webkit Installation Errors on Ubuntu?](https://dev.to/generatecodedev/how-to-fix-capybara-webkit-installation-errors-on-ubuntu-6n6)
+- [Components structure in &#39;/apps&#39; route in open source ACI.dev platform.](https://dev.to/ramunarasinga-11/components-structure-in-apps-route-in-open-source-acidev-platform-1jd9)
+- [🎉 Introducing AHA! – Tavrn’s Spotlight for Amazing Communities](https://dev.to/tavrn/introducing-aha-tavrns-spotlight-for-amazing-communities-13jo)
+- [Suna AI: Open-Source General Software: Cost and Deployment Tutorial🔥](https://dev.to/fallon_jimmy/suna-ai-open-source-general-software-cost-and-deployment-tutorial-3bk9)
+- [How to Fix Rust Borrowed Data Escaping Error in Debug](https://dev.to/generatecodedev/how-to-fix-rust-borrowed-data-escaping-error-in-debug-3p1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
