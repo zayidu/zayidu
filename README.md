@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Mobile Phone Schematic Diagrams: A Beginner’s Guide](https://dev.to/borhan_salehi_bc82a16bbe6/getting-started-with-mobile-phone-schematic-diagrams-a-beginners-guide-4oe4)
-- [How to Write a SELECT SQL Query for Oracle 19c Groups?](https://dev.to/generatecodedev/how-to-write-a-select-sql-query-for-oracle-19c-groups-3m31)
-- [Coding Challenge Practice -Question 2](https://dev.to/tomivan/coding-challenge-practice-question-2-1p4c)
-- [FitVision - devlog #3](https://dev.to/ceir/fitvision-devlog-3-3d69)
-- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/vitalisorenko/moonbirds-and-indie-hacking-in-the-nft-ecosystem-14n)
+- [AI Is Making It Too Easy to Code — and That’s the Real Problem](https://dev.to/engineeredai/ai-is-making-it-too-easy-to-code-and-thats-the-real-problem-1pjj)
+- [Study.taxi — a Duolingo clone for everything and anything: an AI WebApp Experiment](https://dev.to/3duno/studytaxi-a-duolingo-clone-for-everything-and-anything-an-ai-webapp-experiment-3pii)
+- [Pac-Ghost - A battle-royale style maze game inspired by Pac-Man](https://dev.to/fabiocore/pac-ghost-a-battle-royale-style-maze-game-inspired-by-pac-man-3bg7)
+- [How to Optimize SVG Scale Animations for iOS Browsers?](https://dev.to/generatecodedev/how-to-optimize-svg-scale-animations-for-ios-browsers-k2g)
+- [How to Fix Empty Secrets in Azure DevOps Pipeline for .NET 8](https://dev.to/generatecodedev/how-to-fix-empty-secrets-in-azure-devops-pipeline-for-net-8-587b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
