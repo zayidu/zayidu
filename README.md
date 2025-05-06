@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inline AI Suggestions in NeoVim: GitHub Copilot vs Windsurf &lpar;Codeium&rpar; — A Technical Comparative Analysis](https://dev.to/jonatas-sas/inline-ai-suggestions-in-neovim-github-copilot-vs-windsurf-codeium-a-technical-comparative-4b7l)
-- [IoT Solutions for Automated Public Restroom Cleaning](https://dev.to/jesus_hall_bropro/iot-solutions-for-automated-public-restroom-cleaning-488i)
-- [&quot;Trash to Treasure: Boost Your Income with Unconventional Revenue Hacks!&quot;](https://dev.to/dibborah100/trash-to-treasure-boost-your-income-with-unconventional-revenue-hacks-48ia)
-- [Can I Use GNU Parallel with Spamassassin&#39;s sa-learn Safely?](https://dev.to/generatecodedev/can-i-use-gnu-parallel-with-spamassassins-sa-learn-safely-207k)
-- [Getting Started with Angular: What I Wish I Knew as a Beginner](https://dev.to/indhu_meena_31827c04b1748/getting-started-with-angular-what-i-wish-i-knew-as-a-beginner-38ae)
+- [Untitled](https://dev.to/donato_conturla_5edec32b6/untitled-2iln)
+- [How to Resolve Tensor Input Issues with Semantic Segmentation in MATLAB](https://dev.to/generatecodedev/how-to-resolve-tensor-input-issues-with-semantic-segmentation-in-matlab-3gcp)
+- [My Journey Through Cisco’s Introduction to Cybersecurity: What I Learned &amp; Why It Matters](https://dev.to/s_j_9c4bdb31f6630da7/my-journey-through-ciscos-introduction-to-cybersecurity-what-i-learned-why-it-matters-1en)
+- [Shallow Copy &amp; Deep Copy in Python](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-1pp8)
+- [Introducing One-Linear-Validator: A Lightweight JavaScript Validation Library](https://dev.to/muhammad-ahsan-raza/introducing-one-linear-validator-a-lightweight-javascript-validation-library-d48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
