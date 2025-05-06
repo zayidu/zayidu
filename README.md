@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/donato_conturla_5edec32b6/untitled-2iln)
-- [How to Resolve Tensor Input Issues with Semantic Segmentation in MATLAB](https://dev.to/generatecodedev/how-to-resolve-tensor-input-issues-with-semantic-segmentation-in-matlab-3gcp)
-- [My Journey Through Cisco’s Introduction to Cybersecurity: What I Learned &amp; Why It Matters](https://dev.to/s_j_9c4bdb31f6630da7/my-journey-through-ciscos-introduction-to-cybersecurity-what-i-learned-why-it-matters-1en)
-- [Shallow Copy &amp; Deep Copy in Python](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-1pp8)
-- [Introducing One-Linear-Validator: A Lightweight JavaScript Validation Library](https://dev.to/muhammad-ahsan-raza/introducing-one-linear-validator-a-lightweight-javascript-validation-library-d48)
+- [Beyond Heroes and Villains](https://dev.to/rawveg/beyond-heroes-and-villains-578o)
+- [The Documentation Paradox](https://dev.to/rally_for_jira/the-documentation-paradox-o2b)
+- [Coding Challenge Practice - Question 3](https://dev.to/tomivan/coding-challenge-practice-question-3-25mo)
+- [How to Humanize Strings in C# Like Ruby&#39;s Humanize?](https://dev.to/generatecodedev/how-to-humanize-strings-in-c-like-rubys-humanize-4jke)
+- [How to Set Up a Laravel Project with Docker in 2025?](https://dev.to/cristianalex_17/how-to-set-up-a-laravel-project-with-docker-in-2025-2d5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
