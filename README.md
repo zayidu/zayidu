@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [$50 masterpiece in an $80 industry. Cost Quality](https://dev.to/gg_news/50-masterpiece-in-an-80-industry-cost-quality-3j8j)
-- [Ozempic and Wegovy ingredient may reverse signs of liver disease](https://dev.to/future_science/ozempic-and-wegovy-ingredient-may-reverse-signs-of-liver-disease-5bcc)
-- [Mathematician Finds Solution To Higher-Degree Polynomial Equations, Which Have Been Puzzling Experts For Nearly 200 Years](https://dev.to/future_science/mathematician-finds-solution-to-higher-degree-polynomial-equations-which-have-been-puzzling-57fh)
-- [People Are Losing Loved Ones to AI-Fueled Spiritual Fantasies](https://dev.to/future_ai/people-are-losing-loved-ones-to-ai-fueled-spiritual-fantasies-e81)
-- [OpenAI abandons plan to be controlled by for-profit board](https://dev.to/future_ai/openai-abandons-plan-to-be-controlled-by-for-profit-board-16kl)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-39l)
+- [Scrimba &#39;Learn JavaScript&#39; Journey](https://dev.to/sharondavidhub/scrimba-learn-javascript-journey-32io)
+- [[Boost]](https://dev.to/joshua_felicilda_96717565/-c61)
+- [10 JavaScript Array Functions Every Dev Must Know &lpar;or Risk Falling Behind&rpar;](https://dev.to/shifa_2/10-javascript-array-functions-every-dev-must-know-or-risk-falling-behind-4l8i)
+- [How to Handle HTTP Responses with the Stream+JSON Content Type Using PHP Generators](https://dev.to/hideaki_shimizu_75b25756f/how-to-handle-http-responses-with-the-streamjson-content-type-using-php-generators-17ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
