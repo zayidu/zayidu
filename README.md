@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Learning to Decode Animal Languages through Urban Noise](https://dev.to/rubyjane/how-ai-is-learning-to-decode-animal-languages-through-urban-noise-2lci)
-- [How to Handle Surrogate Characters in UTF-8 Conversion in C?](https://dev.to/generatecodedev/how-to-handle-surrogate-characters-in-utf-8-conversion-in-c-2nei)
-- [OpenSea and Open Source Licensing: Navigating the Digital Marketplace](https://dev.to/ashucommits/opensea-and-open-source-licensing-navigating-the-digital-marketplace-32l3)
-- [Understanding MySQL Composite Indexes: Structure, Search Behavior, and Optimization Principles](https://dev.to/jing_li/understanding-mysql-composite-indexes-structure-search-behavior-and-optimization-principles-4d5l)
-- [TWCT-T-D55: The Iron Throne of Current Sensing](https://dev.to/ersajay/twct-t-d55-the-iron-throne-of-current-sensing-4k24)
+- [Questions to ask before you build a knowledge graph](https://dev.to/falkordb/questions-to-ask-before-you-build-a-knowledge-graph-47ff)
+- [What is a Proxy Firewall and How Does It Work?](https://dev.to/clouddefenseai/what-is-a-proxy-firewall-and-how-does-it-work-b99)
+- [AI Medicine Analyzer – Diagnose Medicines Smarter with Amazon Q](https://dev.to/sumitkcs/ai-medicine-analyzer-diagnose-medicines-smarter-with-amazon-q-42h4)
+- [The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics](https://dev.to/abdelaziz_moustakim_45a4c/the-ultimate-guide-to-cyber-threat-actors-exploring-hackers-hacktivists-and-their-tactics-5gg7)
+- [Open Source Developer Crowdfunding: Empowering Innovation and Sustainability](https://dev.to/laetitiaperraut/open-source-developer-crowdfunding-empowering-innovation-and-sustainability-4k8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
