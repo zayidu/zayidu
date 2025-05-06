@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Phishing Attacks: Can AI Fool Even Cybersecurity Experts?](https://dev.to/glaxitofficial/ai-powered-phishing-attacks-can-ai-fool-even-cybersecurity-experts-5c84)
-- [Restarting Laravel Queue Workers Safely](https://dev.to/silverfox/restarting-laravel-queue-workers-safely-306d)
-- [Cloud-native or cloud-naive ?](https://dev.to/mr_stone/cloud-native-or-cloud-naive--43fi)
-- [Cloud-Native: Are You Paying for What You Use… or for What You Provision?](https://dev.to/mr_stone/cloud-native-are-you-paying-for-what-you-use-or-for-what-you-provision-4k95)
-- [Smarter RAG Systems with Graphs](https://dev.to/seuros/smarter-rag-systems-with-graphs-4bg)
+- [💅 💔 100 Days CSS in 10 Days — Because Who Needs a Girlfriend When You Have border-radius?](https://dev.to/sudo_091/100-days-css-in-10-days-because-who-needs-a-girlfriend-when-you-have-border-radius-49d0)
+- [New library for Faceone](https://dev.to/zako_mako_9a4826822204c78/new-library-for-faceone-53eg)
+- [Mastering Vue.js: Your Path to Becoming a Frontend Pro](https://dev.to/code_2/mastering-vuejs-your-path-to-becoming-a-frontend-pro-40g0)
+- [SonicBoom Attack: Hackers Bypass Authentication and Gain Control](https://dev.to/ssojet/sonicboom-attack-hackers-bypass-authentication-and-gain-control-58ob)
+- [Guide Complet : Comprendre le Matériel pour Mieux Administrer Linux](https://dev.to/xavki/guide-complet-comprendre-le-materiel-pour-mieux-administrer-linux-1loi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
