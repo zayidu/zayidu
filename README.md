@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💅 💔 100 Days CSS in 10 Days — Because Who Needs a Girlfriend When You Have border-radius?](https://dev.to/sudo_091/100-days-css-in-10-days-because-who-needs-a-girlfriend-when-you-have-border-radius-49d0)
-- [New library for Faceone](https://dev.to/zako_mako_9a4826822204c78/new-library-for-faceone-53eg)
-- [Mastering Vue.js: Your Path to Becoming a Frontend Pro](https://dev.to/code_2/mastering-vuejs-your-path-to-becoming-a-frontend-pro-40g0)
-- [SonicBoom Attack: Hackers Bypass Authentication and Gain Control](https://dev.to/ssojet/sonicboom-attack-hackers-bypass-authentication-and-gain-control-58ob)
-- [Guide Complet : Comprendre le Matériel pour Mieux Administrer Linux](https://dev.to/xavki/guide-complet-comprendre-le-materiel-pour-mieux-administrer-linux-1loi)
+- [Inline AI Suggestions in NeoVim: GitHub Copilot vs Windsurf &lpar;Codeium&rpar; — A Technical Comparative Analysis](https://dev.to/jonatas-sas/inline-ai-suggestions-in-neovim-github-copilot-vs-windsurf-codeium-a-technical-comparative-4b7l)
+- [IoT Solutions for Automated Public Restroom Cleaning](https://dev.to/jesus_hall_bropro/iot-solutions-for-automated-public-restroom-cleaning-488i)
+- [&quot;Trash to Treasure: Boost Your Income with Unconventional Revenue Hacks!&quot;](https://dev.to/dibborah100/trash-to-treasure-boost-your-income-with-unconventional-revenue-hacks-48ia)
+- [Can I Use GNU Parallel with Spamassassin&#39;s sa-learn Safely?](https://dev.to/generatecodedev/can-i-use-gnu-parallel-with-spamassassins-sa-learn-safely-207k)
+- [Getting Started with Angular: What I Wish I Knew as a Beginner](https://dev.to/indhu_meena_31827c04b1748/getting-started-with-angular-what-i-wish-i-knew-as-a-beginner-38ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
