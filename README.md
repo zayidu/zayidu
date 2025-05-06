@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [System Hacking: Journey into the Intricate World of Cyber Intrusion](https://dev.to/wininlife_academy_14d5cee/system-hacking-journey-into-the-intricate-world-of-cyber-intrusion-1jam)
-- [How to manage large env files?](https://dev.to/yogeshgalav7/how-to-manage-large-env-files-475o)
-- [Top 15 Builder.ai Alternatives for 2025: Explore the Best App Development Platforms](https://dev.to/eva_olvera/top-15-builderai-alternatives-for-2025-explore-the-best-app-development-platforms-c47)
-- [My Experience of Letting AI Handle a Whole PR Without Touching the Code](https://dev.to/hideaki_shimizu_75b25756f/my-experience-of-letting-ai-handle-a-whole-pr-without-touching-the-code-n96)
-- [Why Chatbots Are Your WordPress Superpower in 2025](https://dev.to/abu_noimmdtoha_036541e/why-chatbots-are-your-wordpress-superpower-in-2025-1k3a)
+- [Update Addons AWS EKS](https://dev.to/rafaelonline/update-addons-aws-eks-i7o)
+- [Testing for Success: Align with Product Maturity](https://dev.to/berthaw82414312/testing-for-success-align-with-product-maturity-5a77)
+- [What tools can help streamline cloud deployment processes?](https://dev.to/jevin/what-tools-can-help-streamline-cloud-deployment-processes-1nc8)
+- [How Mobile Apps Are Empowering Nonprofits and Charities](https://dev.to/bhaviksadhu/how-mobile-apps-are-empowering-nonprofits-and-charities-1cfl)
+- [How to Convert Seconds to Hour:Minute:Second Format in PHP?](https://dev.to/generatecodedev/how-to-convert-seconds-to-hourminutesecond-format-in-php-2h9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
