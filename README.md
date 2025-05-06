@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Rails App Isn’t Slow—Your Database Is](https://dev.to/timescale/your-rails-app-isnt-slow-your-database-is-o57)
-- [Mastering Functions in TypeScript – A Beginner-Friendly Guide](https://dev.to/ebereplenty/mastering-functions-in-typescript-a-beginner-friendly-guide-2e2i)
-- [Unlocking AWS EC2 Storage: Instance Store vs. EBS – A Deep Dive into Performance, Persistence, and Modern Features](https://dev.to/pkkolla/unlocking-aws-ec2-storage-instance-store-vs-ebs-a-deep-dive-into-performance-persistence-and-7lg)
-- [How to Remove Default AuthenticationProviders in Spring Authorization Server](https://dev.to/generatecodedev/how-to-remove-default-authenticationproviders-in-spring-authorization-server-196h)
-- [Vibe Engineering: Why It&#39;s the Next Step After Vibe Coding](https://dev.to/hikionori/vibe-engineering-why-its-the-next-step-after-vibe-coding-59bi)
+- [Decentralized AI: The Blueprint for a Safer, Smarter, and More Sovereign Future](https://dev.to/malok/decentralized-ai-the-blueprint-for-a-safer-smarter-and-more-sovereign-future-3idp)
+- [Categorizing Markdown Files for a Scalable Knowledge Base](https://dev.to/hexshift/categorizing-markdown-files-for-a-scalable-knowledge-base-2g4m)
+- [Why Does My Jetpack Compose APK Crash with NoSuchMethodError?](https://dev.to/generatecodedev/why-does-my-jetpack-compose-apk-crash-with-nosuchmethoderror-1dm2)
+- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
+- [Get the lines of code in your JetBrains IDE &lpar;quick&rpar;](https://dev.to/timo_reusch/get-the-lines-of-code-in-your-jetbrains-ide-quick-3djp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
