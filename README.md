@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-39l)
-- [Scrimba &#39;Learn JavaScript&#39; Journey](https://dev.to/sharondavidhub/scrimba-learn-javascript-journey-32io)
-- [[Boost]](https://dev.to/joshua_felicilda_96717565/-c61)
-- [10 JavaScript Array Functions Every Dev Must Know &lpar;or Risk Falling Behind&rpar;](https://dev.to/shifa_2/10-javascript-array-functions-every-dev-must-know-or-risk-falling-behind-4l8i)
-- [How to Handle HTTP Responses with the Stream+JSON Content Type Using PHP Generators](https://dev.to/hideaki_shimizu_75b25756f/how-to-handle-http-responses-with-the-streamjson-content-type-using-php-generators-17ld)
+- [TS2327: Property &#39;{0}&#39; is optional in type &#39;{1}&#39; but required in type &#39;{2}&#39;](https://dev.to/rivkaavraham/ts2327-property-0-is-optional-in-type-1-but-required-in-type-2-44a2)
+- [TS2333: &#39;this&#39; cannot be referenced in constructor arguments](https://dev.to/ahmad_tibibi/ts2333-this-cannot-be-referenced-in-constructor-arguments-5566)
+- [TS2332: &#39;this&#39; cannot be referenced in current location](https://dev.to/ahmad_tibibi/ts2332-this-cannot-be-referenced-in-current-location-56gd)
+- [Leading with Conviction, Listening with an Open Mind](https://dev.to/mtorun/leading-with-conviction-listening-with-an-open-mind-1cm4)
+- [Unlocking Potential: The Benefits and Challenges of Open Source Developer Patronage](https://dev.to/vitalisorenko/unlocking-potential-the-benefits-and-challenges-of-open-source-developer-patronage-2h2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
