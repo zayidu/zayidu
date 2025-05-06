@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TS2327: Property &#39;{0}&#39; is optional in type &#39;{1}&#39; but required in type &#39;{2}&#39;](https://dev.to/rivkaavraham/ts2327-property-0-is-optional-in-type-1-but-required-in-type-2-44a2)
-- [TS2333: &#39;this&#39; cannot be referenced in constructor arguments](https://dev.to/ahmad_tibibi/ts2333-this-cannot-be-referenced-in-constructor-arguments-5566)
-- [TS2332: &#39;this&#39; cannot be referenced in current location](https://dev.to/ahmad_tibibi/ts2332-this-cannot-be-referenced-in-current-location-56gd)
-- [Leading with Conviction, Listening with an Open Mind](https://dev.to/mtorun/leading-with-conviction-listening-with-an-open-mind-1cm4)
-- [Unlocking Potential: The Benefits and Challenges of Open Source Developer Patronage](https://dev.to/vitalisorenko/unlocking-potential-the-benefits-and-challenges-of-open-source-developer-patronage-2h2j)
+- [The Spirit of Plan 9 on the Web](https://dev.to/progrium/the-spirit-of-plan-9-on-the-web-5g7k)
+- [Translation Memory &lpar;TM&rpar;: Ultimate Guide for Organizations](https://dev.to/colinreed/translation-memory-tm-ultimate-guide-for-organizations-2829)
+- [#6 DP: Decorator](https://dev.to/stv4s/6-dp-decorator-24oj)
+- [🚀 Building an Azure OpenAI Chatbot: Challenges, Solutions &amp; Why JavaScript Beats Python for the Web](https://dev.to/chaitanyarai3/building-an-azure-openai-chatbot-challenges-solutions-why-javascript-beats-python-for-the-web-402k)
+- [How to Fix &#39;params.locale&#39; Error in Next.js 15 Dynamic Routes?](https://dev.to/generatecodedev/how-to-fix-paramslocale-error-in-nextjs-15-dynamic-routes-482i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
