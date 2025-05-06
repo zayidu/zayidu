@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Backend Development](https://dev.to/inam003/a-comprehensive-guide-to-backend-development-5ac9)
-- [Building Better Software: Lessons from Industry for Scalable Systems 🏗️💻](https://dev.to/alikolahdoozan/building-better-software-lessons-from-industry-for-scalable-systems-4e3g)
-- [How to Create an Accessible UI with Bootstrap](https://dev.to/dct_technology/how-to-create-an-accessible-ui-withbootstrap-3olp)
-- [Seamless Jenkins Migration Across Platforms Using Docker Compose](https://dev.to/rohil_mogal/seamless-jenkins-migration-across-platforms-using-docker-compose-14a0)
-- [What Is the Role Of Delegates in Objective-c in 2025?](https://dev.to/cristianalex_17/what-is-the-role-of-delegates-in-objective-c-in-2025-4dkg)
+- [🤖 Automate Invoicing &amp; Payments with AI Agents: Better Finances for Developers](https://dev.to/anshikaila/automate-invoicing-payments-with-ai-agents-better-finances-for-developers-2nee)
+- [Automating WhatsApp with Venom Bot: A Complete Guide](https://dev.to/syed_mudasseranayat_e251/automating-whatsapp-with-venom-bot-a-complete-guide-1npf)
+- [How to verify smart contract with parameters after deploying with TRON-IDE?](https://dev.to/midnight_sovereign_bf915e/how-to-verify-smart-contract-with-parameters-after-deploying-with-tron-ide-4bm2)
+- [10 Hidden GitHub Gems That&#39;ll Make You Go &quot;Holy Forking Repositories!&quot;](https://dev.to/sakethkowtha/10-hidden-github-gems-thatll-make-you-go-holy-forking-repositories-17ep)
+- [Understanding AWS Global Accelerator: How It Routes Traffic Through a Private Network for Faster Performance](https://dev.to/harshil_thummar/understanding-aws-global-accelerator-how-it-routes-traffic-through-a-private-network-for-faster-5ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
