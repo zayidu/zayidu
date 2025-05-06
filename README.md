@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Capybara-Webkit Installation Errors on Ubuntu?](https://dev.to/generatecodedev/how-to-fix-capybara-webkit-installation-errors-on-ubuntu-6n6)
-- [Components structure in &#39;/apps&#39; route in open source ACI.dev platform.](https://dev.to/ramunarasinga-11/components-structure-in-apps-route-in-open-source-acidev-platform-1jd9)
-- [🎉 Introducing AHA! – Tavrn’s Spotlight for Amazing Communities](https://dev.to/tavrn/introducing-aha-tavrns-spotlight-for-amazing-communities-13jo)
-- [Suna AI: Open-Source General Software: Cost and Deployment Tutorial🔥](https://dev.to/fallon_jimmy/suna-ai-open-source-general-software-cost-and-deployment-tutorial-3bk9)
-- [How to Fix Rust Borrowed Data Escaping Error in Debug](https://dev.to/generatecodedev/how-to-fix-rust-borrowed-data-escaping-error-in-debug-3p1c)
+- [A Comprehensive Guide to Backend Development](https://dev.to/inam003/a-comprehensive-guide-to-backend-development-5ac9)
+- [Building Better Software: Lessons from Industry for Scalable Systems 🏗️💻](https://dev.to/alikolahdoozan/building-better-software-lessons-from-industry-for-scalable-systems-4e3g)
+- [How to Create an Accessible UI with Bootstrap](https://dev.to/dct_technology/how-to-create-an-accessible-ui-withbootstrap-3olp)
+- [Seamless Jenkins Migration Across Platforms Using Docker Compose](https://dev.to/rohil_mogal/seamless-jenkins-migration-across-platforms-using-docker-compose-14a0)
+- [What Is the Role Of Delegates in Objective-c in 2025?](https://dev.to/cristianalex_17/what-is-the-role-of-delegates-in-objective-c-in-2025-4dkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
