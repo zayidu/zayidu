@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Making It Too Easy to Code — and That’s the Real Problem](https://dev.to/engineeredai/ai-is-making-it-too-easy-to-code-and-thats-the-real-problem-1pjj)
-- [Study.taxi — a Duolingo clone for everything and anything: an AI WebApp Experiment](https://dev.to/3duno/studytaxi-a-duolingo-clone-for-everything-and-anything-an-ai-webapp-experiment-3pii)
-- [Pac-Ghost - A battle-royale style maze game inspired by Pac-Man](https://dev.to/fabiocore/pac-ghost-a-battle-royale-style-maze-game-inspired-by-pac-man-3bg7)
-- [How to Optimize SVG Scale Animations for iOS Browsers?](https://dev.to/generatecodedev/how-to-optimize-svg-scale-animations-for-ios-browsers-k2g)
-- [How to Fix Empty Secrets in Azure DevOps Pipeline for .NET 8](https://dev.to/generatecodedev/how-to-fix-empty-secrets-in-azure-devops-pipeline-for-net-8-587b)
+- [How to Fix R8 Compilation Error in Flutter APK Build](https://dev.to/generatecodedev/how-to-fix-r8-compilation-error-in-flutter-apk-build-14ki)
+- [Substring from a Column of Strings — From SQL to SPL #25](https://dev.to/judith677/substring-from-a-column-of-strings-from-sql-to-spl-25-5b0b)
+- [Introduction to access control model: ACL, RBAC, ABAC](https://dev.to/whchi/introduction-to-access-control-model-acl-rbac-abac-4m1k)
+- [Celebrating 20 Years of Arduino: Highlights from Arduino Day Philippines 2025](https://dev.to/kakacomputer-media/celebrating-20-years-of-arduino-highlights-from-arduino-day-philippines-2025-6c6)
+- [Neuralese: The Most Spoken Language You’ll Never Speak](https://dev.to/diegodotta/neuralese-the-most-spoken-language-youll-never-speak-51hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
