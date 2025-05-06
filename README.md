@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Projects That Will Actually Make You Better at Docker](https://dev.to/code42cate/5-projects-that-will-actually-make-you-better-at-docker-5108)
-- [Part 3: Protecting Routes and Security](https://dev.to/jais_mukesh/part-3-protecting-routes-and-security-54pk)
-- [Common Issues Identified In DMARC Reports And How To Resolve Them](https://dev.to/joywinter90/common-issues-identified-in-dmarc-reports-and-how-to-resolve-them-4jia)
-- [Solving TryHackMe&#39;s &quot;Brains&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-brains-room-a-complete-walktrough-6cp)
-- [The Rise of Web3: A Tech Leader&#39;s Perspective](https://dev.to/klimd1389/the-rise-of-web3-a-tech-leaders-perspective-3cc7)
+- [Your Rails App Isn’t Slow—Your Database Is](https://dev.to/timescale/your-rails-app-isnt-slow-your-database-is-o57)
+- [Mastering Functions in TypeScript – A Beginner-Friendly Guide](https://dev.to/ebereplenty/mastering-functions-in-typescript-a-beginner-friendly-guide-2e2i)
+- [Unlocking AWS EC2 Storage: Instance Store vs. EBS – A Deep Dive into Performance, Persistence, and Modern Features](https://dev.to/pkkolla/unlocking-aws-ec2-storage-instance-store-vs-ebs-a-deep-dive-into-performance-persistence-and-7lg)
+- [How to Remove Default AuthenticationProviders in Spring Authorization Server](https://dev.to/generatecodedev/how-to-remove-default-authenticationproviders-in-spring-authorization-server-196h)
+- [Vibe Engineering: Why It&#39;s the Next Step After Vibe Coding](https://dev.to/hikionori/vibe-engineering-why-its-the-next-step-after-vibe-coding-59bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
