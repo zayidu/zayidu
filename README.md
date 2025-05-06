@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized AI: The Blueprint for a Safer, Smarter, and More Sovereign Future](https://dev.to/malok/decentralized-ai-the-blueprint-for-a-safer-smarter-and-more-sovereign-future-3idp)
-- [Categorizing Markdown Files for a Scalable Knowledge Base](https://dev.to/hexshift/categorizing-markdown-files-for-a-scalable-knowledge-base-2g4m)
-- [Why Does My Jetpack Compose APK Crash with NoSuchMethodError?](https://dev.to/generatecodedev/why-does-my-jetpack-compose-apk-crash-with-nosuchmethoderror-1dm2)
-- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
-- [Get the lines of code in your JetBrains IDE &lpar;quick&rpar;](https://dev.to/timo_reusch/get-the-lines-of-code-in-your-jetbrains-ide-quick-3djp)
+- [Is the AWS Advanced Networking Worth It?](https://dev.to/skillboosttrainer/is-the-aws-advanced-networking-worth-it-5hdl)
+- [What is Tailgating?](https://dev.to/clouddefenseai/what-is-tailgating-1kd2)
+- [How to Use n8n with CometAPI](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-n8n-with-cometapi-bcd)
+- [schema-env v2.1: Now with Pluggable Validation Adapters &lpar;Joi, Yup, Your Own!&rpar;](https://dev.to/devvictrix/schema-env-v21-now-with-pluggable-validation-adapters-joi-yup-your-own-2663)
+- [How GPT-Image‑1 Works: A Deep Dive](https://dev.to/_37bbf0c253c0b3edec531e/how-gpt-image-1-works-a-deep-dive-4nf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
