@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KubeCrash is Back May 8 — A Crash Course in Cloud Native, Open Source, and Platform Engineering](https://dev.to/lnamphy/kubecrash-is-back-may-8-a-crash-course-in-cloud-native-open-source-and-platform-engineering-20fa)
-- [Sat-B](https://dev.to/kevin_hart_a1f44594e4f670/sat-b-ma)
-- [MLflow::Deployment](https://dev.to/minwook/mlflowdeployment-151)
-- [Solid Testing Strategies for Salesforce Releases](https://dev.to/johnjvester/solid-testing-strategies-for-salesforce-releases-3662)
-- [Open Source Funding Challenges: Navigating the Path to Sustainability](https://dev.to/kallileiser/open-source-funding-challenges-navigating-the-path-to-sustainability-onh)
+- [Check Docker Installation Details- part 1](https://dev.to/kamruldev/check-docker-installation-details-part-1-3327)
+- [Why is My Display Class Not Working Inside If-Else Blocks?](https://dev.to/generatecodedev/why-is-my-display-class-not-working-inside-if-else-blocks-44ld)
+- [Animating SVG Filters for Motion-Based UI and Art Effects](https://dev.to/hexshift/animating-svg-filters-for-motion-based-ui-and-art-effects-3l6)
+- [Installing NVM on Windows &lpar;WSL - Ubuntu&rpar;](https://dev.to/pu-lazydev/installing-nvm-on-windows-wsl-ubuntu-947)
+- [How to Resolve Undefined Symbols Error in KMP for iOS](https://dev.to/generatecodedev/how-to-resolve-undefined-symbols-error-in-kmp-for-ios-2p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
