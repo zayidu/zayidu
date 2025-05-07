@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Docker Installation Details- part 1](https://dev.to/kamruldev/check-docker-installation-details-part-1-3327)
-- [Why is My Display Class Not Working Inside If-Else Blocks?](https://dev.to/generatecodedev/why-is-my-display-class-not-working-inside-if-else-blocks-44ld)
-- [Animating SVG Filters for Motion-Based UI and Art Effects](https://dev.to/hexshift/animating-svg-filters-for-motion-based-ui-and-art-effects-3l6)
-- [Installing NVM on Windows &lpar;WSL - Ubuntu&rpar;](https://dev.to/pu-lazydev/installing-nvm-on-windows-wsl-ubuntu-947)
-- [How to Resolve Undefined Symbols Error in KMP for iOS](https://dev.to/generatecodedev/how-to-resolve-undefined-symbols-error-in-kmp-for-ios-2p2)
+- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous_bb80d6b5563/learning-swift-the-basics-of-ios-development-1mpp)
+- [Variable assignment in Python &lpar;2&rpar;](https://dev.to/hyperkai/variable-assignment-in-python-2-1if9)
+- [How to Create a Vertical Navigation Menu for Smartphones and Tablets Using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-vertical-navigation-menu-for-smartphones-and-tablets-using-css-and-javascript-2dnm)
+- [Cloud vendor lock-in! How much should I be scared of? 😱](https://dev.to/pooyan/cloud-vendor-lock-in-how-much-should-i-be-scared-of-2a8b)
+- [How to Fix Java JAR &#39;No Main Manifest Attribute&#39; Error?](https://dev.to/generatecodedev/how-to-fix-java-jar-no-main-manifest-attribute-error-4dci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
