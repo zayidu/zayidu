@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD 101: From Code Commit to Production](https://dev.to/akash_roy_3bc76e473db5e40/cicd-101-from-code-commit-to-production-3bii)
-- [Level Up Your PDF Game: From 1998 to Stunning in 15 Minutes](https://dev.to/ethan_reportgen/level-up-your-pdf-game-from-1998-to-stunning-in-15-minutes-3m60)
-- [Terraform depends_on: What it is, When to use it, and Best Practices](https://dev.to/techielass/terraform-dependson-what-it-is-when-to-use-it-and-best-practices-5ene)
-- [Skip the Pixel Pushing: Build Stunning UIs in DronaHQ with Figma + AI](https://dev.to/shib_itsme/skip-the-pixel-pushing-build-stunning-uis-in-dronahq-with-figma-ai-1a21)
-- [Installing Go &lpar;Golang&rpar; on WSL Ubuntu](https://dev.to/pu-lazydev/installing-go-golang-on-wsl-ubuntu-18b7)
+- [Introduction to Container Images and Orchestration](https://dev.to/hridyeshbisht/introduction-to-container-images-and-orchestration-32pb)
+- [The Rise of Autonomous IT Operations: Why AIOps Is the Future of ITSM in 2025 and Beyond](https://dev.to/sip_mjb/the-rise-of-autonomous-it-operations-why-aiops-is-the-future-of-itsm-in-2025-and-beyond-2dbo)
+- [Understanding Rust&#39;s Box, Rc, RefCell in Stack and Deque](https://dev.to/generatecodedev/understanding-rusts-box-rc-refcell-in-stack-and-deque-1pd2)
+- [Open Source and API-First Thinking to Build Smart, Flexible Systems](https://dev.to/manavbhati25/open-source-and-api-first-thinking-to-build-smart-flexible-systems-3l9a)
+- [How to Optimize Image Caching in Next.js for Blazing Fast Loading Times](https://dev.to/melvinprince/how-to-optimize-image-caching-in-nextjs-for-blazing-fast-loading-times-3k8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
