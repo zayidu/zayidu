@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Blinko Notes with Ollama](https://dev.to/blacknight318/setup-blinko-notes-with-ollama-5h7)
-- [Why AI’s Future Rests on Human Partnership](https://dev.to/rawveg/why-ais-future-rests-on-human-partnership-12fe)
-- [Como ler scripts SQL Server grandes com Python](https://dev.to/rodrigozan/como-ler-scripts-sql-server-grandes-com-python-3mhg)
-- [Do Not Build Without Reading This](https://dev.to/scofieldidehen/do-not-build-without-reading-this-b59)
-- [Empowering Community-Driven Projects: The Power of Open Source Funding Workshops](https://dev.to/zhangwei42/empowering-community-driven-projects-the-power-of-open-source-funding-workshops-o05)
+- [💥 5 Expert Tips for Developers](https://dev.to/zecoryx/5-expert-tips-for-developers-5dba)
+- [🔐 Securing ROS 2 Robots: Network Intrusion Detection with Suricata](https://dev.to/sebos/securing-ros-2-robots-network-intrusion-detection-with-suricata-ipb)
+- [Taming Complex Codebases with AI: Your Thoughts?](https://dev.to/gaby_rla/taming-complex-codebases-with-ai-your-thoughts-hhh)
+- [How to Create a Sampling Handler in C# for Azure Open AI?](https://dev.to/generatecodedev/how-to-create-a-sampling-handler-in-c-for-azure-open-ai-43c8)
+- [模擬体験サイト](https://dev.to/_ca4d948115f69a945094/mo-ni-ti-yan-saito-lc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
