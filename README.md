@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Data Analysis Using Python](https://dev.to/souhaillaghchimdev/getting-started-with-data-analysis-using-python-3d18)
-- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://dev.to/nexo-tech/microservices-are-a-tax-your-startup-probably-cant-afford-2441)
-- [Implicit Index Access in C# 13 — Using `^` in Object Initializers](https://dev.to/cristiansifuentes/implicit-index-access-in-c-13-using-in-object-initializers-1m)
-- [Natural Types for Method Groups in C# — Smarter Overload Resolution](https://dev.to/cristiansifuentes/-natural-types-for-method-groups-in-c-smarter-overload-resolution-3lbn)
-- [Financial Backing for Open Source Projects: Sustaining Innovation and Collaboration](https://dev.to/bobcars/financial-backing-for-open-source-projects-sustaining-innovation-and-collaboration-18b2)
+- [Geographic Information Systems &lpar;GIS&rpar; Development](https://dev.to/souhaillaghchimdev/geographic-information-systems-gis-development-3201)
+- [Educational Robotics Programming](https://dev.to/souhaillaghchimdev/educational-robotics-programming-29j)
+- [E-learning Platform Development](https://dev.to/souhaillaghchimdev/e-learning-platform-development-37i8)
+- [Test-Driven Development &lpar;TDD&rpar;](https://dev.to/souhaillaghchimdev/test-driven-development-tdd-2g2d)
+- [Learning Design Patterns in Programming](https://dev.to/souhaillaghchimdev/learning-design-patterns-in-programming-53d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
