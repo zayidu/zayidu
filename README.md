@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Heroes and Villains](https://dev.to/rawveg/beyond-heroes-and-villains-578o)
-- [The Documentation Paradox](https://dev.to/rally_for_jira/the-documentation-paradox-o2b)
-- [Coding Challenge Practice - Question 3](https://dev.to/tomivan/coding-challenge-practice-question-3-25mo)
-- [How to Humanize Strings in C# Like Ruby&#39;s Humanize?](https://dev.to/generatecodedev/how-to-humanize-strings-in-c-like-rubys-humanize-4jke)
-- [How to Set Up a Laravel Project with Docker in 2025?](https://dev.to/cristianalex_17/how-to-set-up-a-laravel-project-with-docker-in-2025-2d5f)
+- [KubeCrash is Back May 8 — A Crash Course in Cloud Native, Open Source, and Platform Engineering](https://dev.to/lnamphy/kubecrash-is-back-may-8-a-crash-course-in-cloud-native-open-source-and-platform-engineering-20fa)
+- [Sat-B](https://dev.to/kevin_hart_a1f44594e4f670/sat-b-ma)
+- [MLflow::Deployment](https://dev.to/minwook/mlflowdeployment-151)
+- [Solid Testing Strategies for Salesforce Releases](https://dev.to/johnjvester/solid-testing-strategies-for-salesforce-releases-3662)
+- [Open Source Funding Challenges: Navigating the Path to Sustainability](https://dev.to/kallileiser/open-source-funding-challenges-navigating-the-path-to-sustainability-onh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
