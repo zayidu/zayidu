@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizando o wget no Linux](https://dev.to/bsouza/utilizando-o-wget-no-linux-4ec7)
-- [Invoker Commands API](https://dev.to/jswhisperer/invoker-commands-api-1hm5)
-- [How to Fix &#39;Please provide ShowCaseView context&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-please-provide-showcaseview-context-in-flutter-2i6a)
-- [Speech Recognition API for Voice Input](https://dev.to/omriluz1/speech-recognition-api-for-voice-input-4j5h)
-- [Crowdfunding Open Source Development and Blockchain Innovation: A New Era of Sustainable Funding](https://dev.to/zhangwei42/crowdfunding-open-source-development-and-blockchain-innovation-a-new-era-of-sustainable-funding-1ekd)
+- [Getting Started with Data Analysis Using Python](https://dev.to/souhaillaghchimdev/getting-started-with-data-analysis-using-python-3d18)
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://dev.to/nexo-tech/microservices-are-a-tax-your-startup-probably-cant-afford-2441)
+- [Implicit Index Access in C# 13 — Using `^` in Object Initializers](https://dev.to/cristiansifuentes/implicit-index-access-in-c-13-using-in-object-initializers-1m)
+- [Natural Types for Method Groups in C# — Smarter Overload Resolution](https://dev.to/cristiansifuentes/-natural-types-for-method-groups-in-c-smarter-overload-resolution-3lbn)
+- [Financial Backing for Open Source Projects: Sustaining Innovation and Collaboration](https://dev.to/bobcars/financial-backing-for-open-source-projects-sustaining-innovation-and-collaboration-18b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
