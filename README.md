@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of using pprint to debug nested lists? Try visual structure tracing.](https://dev.to/mtur2007/tired-of-using-pprint-to-debug-nested-lists-try-visual-structure-tracing-efn)
-- [Criando uma API OCR com FaaS na Azure – Parte 3: Processando OCR com Timer Trigger](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-3-processando-ocr-com-timer-trigger-341i)
-- [✨ 7 Things I Do Regularly as a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/7-habits-i-recommend-to-succeed-as-a-frontend-developer-57e)
-- [Your first MCP Server &lpar;quick&rpar;](https://dev.to/jonigl/your-first-mcp-server-quick-35eg)
-- [EMV 3DS ACS &amp; Passkey Support for Secure Online Payments](https://dev.to/corbado/emv-3ds-acs-passkey-support-for-secure-online-payments-2hkg)
+- [206/365 | ¥10M Job Challenge - First workday after the long weekend](https://dev.to/kameken100/206365-y10m-job-challenge-first-workday-after-the-long-weekend-1h31)
+- [How to Release Utilities Package to GitHub Packages](https://dev.to/casp3ro/how-to-release-utilities-package-to-github-packages-14f4)
+- [How to Integrate Multi-Participant Video Chat with Banuba AR?](https://dev.to/generatecodedev/how-to-integrate-multi-participant-video-chat-with-banuba-ar-459)
+- [Automating Static Website Deployment to AWS S3 with Terraform and GitHub Actions](https://dev.to/san_dev_65a0346580173629d/automating-static-website-deployment-to-aws-s3-with-terraform-and-github-actions-24a4)
+- [How to setup Tailwind CSS v4.1.5 with Vite + React &lpar;2025 updated guide&rpar;](https://dev.to/imamifti056/how-to-setup-tailwind-css-v415-with-vite-react-2025-updated-guide-3koc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
