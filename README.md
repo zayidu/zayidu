@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 5 Expert Tips for Developers](https://dev.to/zecoryx/5-expert-tips-for-developers-5dba)
-- [🔐 Securing ROS 2 Robots: Network Intrusion Detection with Suricata](https://dev.to/sebos/securing-ros-2-robots-network-intrusion-detection-with-suricata-ipb)
-- [Taming Complex Codebases with AI: Your Thoughts?](https://dev.to/gaby_rla/taming-complex-codebases-with-ai-your-thoughts-hhh)
-- [How to Create a Sampling Handler in C# for Azure Open AI?](https://dev.to/generatecodedev/how-to-create-a-sampling-handler-in-c-for-azure-open-ai-43c8)
-- [模擬体験サイト](https://dev.to/_ca4d948115f69a945094/mo-ni-ti-yan-saito-lc2)
+- [Marking tools](https://dev.to/andy124/marking-tools-555j)
+- [Everything You Should Know About Arbitrum: The Ethereum Scaling Giant](https://dev.to/favebs/everything-you-should-know-about-arbitrum-the-ethereum-scaling-giant-2g30)
+- [Setting Up Inter-Region VPC Communication Using AWS Transit Gateway](https://dev.to/aws-builders/setting-up-inter-region-vpc-communication-using-aws-transit-gateway-522m)
+- [The Role of Data Integration in Healthcare Research and Precision Medicine](https://dev.to/blogposting/the-role-of-data-integration-in-healthcare-research-and-precision-medicine-21l4)
+- [How to Fix the &#39;Failed to run config for lsp-zero.nvim&#39; Error in Neovim](https://dev.to/generatecodedev/how-to-fix-the-failed-to-run-config-for-lsp-zeronvim-error-in-neovim-23ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
