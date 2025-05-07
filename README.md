@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Chat Application in Laravel with Wirechat](https://dev.to/mamondev193/building-a-real-time-chat-application-in-laravel-with-wirechat-3e5h)
-- [Understanding Java: A Simple Introduction for New Programmers](https://dev.to/tpointtechadu/understanding-java-a-simple-introduction-for-new-programmers-2il3)
-- [Rapid AI-powered applications with Django MongoDB and Voyage API](https://dev.to/mongodb/rapid-ai-powered-applications-with-django-mongodb-and-voyage-api-l44)
-- [The Future of AI-Driven API Integration and the Rise of MCP v2](https://dev.to/kentechgeek/the-future-of-ai-driven-api-integration-and-the-rise-of-mcp-v2-ieg)
-- [How to Post Articles to Dev.to with an AI Assistant &lpar;2025 Edition&rpar; v2](https://dev.to/kentechgeek/how-to-post-articles-to-devto-with-an-ai-assistant-2025-edition-v2-2k3m)
+- [Setup Blinko Notes with Ollama](https://dev.to/blacknight318/setup-blinko-notes-with-ollama-5h7)
+- [Why AI’s Future Rests on Human Partnership](https://dev.to/rawveg/why-ais-future-rests-on-human-partnership-12fe)
+- [Como ler scripts SQL Server grandes com Python](https://dev.to/rodrigozan/como-ler-scripts-sql-server-grandes-com-python-3mhg)
+- [Do Not Build Without Reading This](https://dev.to/scofieldidehen/do-not-build-without-reading-this-b59)
+- [Empowering Community-Driven Projects: The Power of Open Source Funding Workshops](https://dev.to/zhangwei42/empowering-community-driven-projects-the-power-of-open-source-funding-workshops-o05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
