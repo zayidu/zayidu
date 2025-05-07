@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Redis Connections in Node.js: Lazy Loading, Retry Logic &amp; Circuit Breakers 🔦](https://dev.to/silentwatcher_95/reliable-redis-connections-in-nodejs-lazy-loading-retry-logic-circuit-breakers-29lg)
-- [Mastering Functional Programming: Immutability, Composition, Pure and Arrow Functions](https://dev.to/geampiere/mastering-functional-programming-immutability-composition-pure-and-arrow-functions-3co3)
-- [The Age of the Smartphone Is Ending — And Most People Haven’t Noticed](https://dev.to/skygreyai/the-age-of-the-smartphone-is-ending-and-most-people-havent-noticed-4pe3)
-- [How To Run OpenAI Agents SDK Locally With 100+ LLMs and Custom Tracing](https://dev.to/amosgyamfi/how-to-run-openai-agents-sdk-locally-with-100-llms-and-custom-tracing-5gpi)
-- [How I Connected My Home Network with AWS Regions Using Tailscale and VPC Peering](https://dev.to/dhairyashah/how-i-connected-my-home-network-with-aws-regions-using-tailscale-and-vpc-peering-1n06)
+- [📘 Building My Resume from Scratch Using HTML – A Practical Learning Experience](https://dev.to/tamilselvan1812/building-my-resume-from-scratch-using-html-a-practical-learning-experience-3h27)
+- [Regular Expression](https://dev.to/vids18/regular-expression-597)
+- [[Boost]](https://dev.to/picolt/-45o)
+- [How to Fix &#39;externally-managed-environment&#39; Error in Python?](https://dev.to/generatecodedev/how-to-fix-externally-managed-environment-error-in-python-1947)
+- [Tired of JavaScript? Here is WebAssembly Tutorial!](https://dev.to/picolt/tired-of-javascript-here-is-webassembly-tutorial-1pch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
