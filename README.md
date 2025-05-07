@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing SafeLine WAF on Synology NAS](https://dev.to/carrie_luo1/installing-safeline-waf-on-synology-nas-106l)
-- [If You’re Not Watching Catalysis Yet… You Will Be](https://dev.to/dhis_is_jj/if-youre-not-watching-catalysis-yet-you-will-be-2inj)
-- [5 Ways AI Can Help Software Engineers Find More Opportunities](https://dev.to/diamantino_almeida/5-ways-ai-can-help-software-engineers-find-more-opportunities-1gd)
-- [Setting up a Docker Registry backed with Cloudflare R2](https://dev.to/sertxudev/setting-up-a-docker-registry-backed-with-cloudflare-r2-424g)
-- [What Makes the 91 Club Game a Good Choice for Beginners?](https://dev.to/gulshan_kumar_2028de2dd8b/what-makes-the-91-club-game-a-good-choice-for-beginners-18om)
+- [Building a Real-Time Chat Application in Laravel with Wirechat](https://dev.to/mamondev193/building-a-real-time-chat-application-in-laravel-with-wirechat-3e5h)
+- [Understanding Java: A Simple Introduction for New Programmers](https://dev.to/tpointtechadu/understanding-java-a-simple-introduction-for-new-programmers-2il3)
+- [Rapid AI-powered applications with Django MongoDB and Voyage API](https://dev.to/mongodb/rapid-ai-powered-applications-with-django-mongodb-and-voyage-api-l44)
+- [The Future of AI-Driven API Integration and the Rise of MCP v2](https://dev.to/kentechgeek/the-future-of-ai-driven-api-integration-and-the-rise-of-mcp-v2-ieg)
+- [How to Post Articles to Dev.to with an AI Assistant &lpar;2025 Edition&rpar; v2](https://dev.to/kentechgeek/how-to-post-articles-to-devto-with-an-ai-assistant-2025-edition-v2-2k3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
