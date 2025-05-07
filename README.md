@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Building My Resume from Scratch Using HTML – A Practical Learning Experience](https://dev.to/tamilselvan1812/building-my-resume-from-scratch-using-html-a-practical-learning-experience-3h27)
-- [Regular Expression](https://dev.to/vids18/regular-expression-597)
-- [[Boost]](https://dev.to/picolt/-45o)
-- [How to Fix &#39;externally-managed-environment&#39; Error in Python?](https://dev.to/generatecodedev/how-to-fix-externally-managed-environment-error-in-python-1947)
-- [Tired of JavaScript? Here is WebAssembly Tutorial!](https://dev.to/picolt/tired-of-javascript-here-is-webassembly-tutorial-1pch)
+- [What is Data Remanence?](https://dev.to/e77/what-is-data-remanence-5g4o)
+- [What trends can I apply to my website?](https://dev.to/nathaly_cardenas_b849ad3b/what-trends-can-i-apply-to-my-website-3mc4)
+- [How to install &amp; configure Longhorn for Kubernetes](https://dev.to/mrgitops/how-to-install-configure-longhorn-for-kubernetes-cjl)
+- [Supercharging API Rate Limiting with AIMD - A Deep Dive into Modern System Design](https://dev.to/shridivya_sharma_51f54cac/supercharging-api-rate-limiting-with-aimd-a-deep-dive-into-modern-system-design-5384)
+- [How to Display Duplicate Values in Java Code Output?](https://dev.to/generatecodedev/how-to-display-duplicate-values-in-java-code-output-49e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
