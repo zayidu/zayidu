@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Geographic Information Systems &lpar;GIS&rpar; Development](https://dev.to/souhaillaghchimdev/geographic-information-systems-gis-development-3201)
-- [Educational Robotics Programming](https://dev.to/souhaillaghchimdev/educational-robotics-programming-29j)
-- [E-learning Platform Development](https://dev.to/souhaillaghchimdev/e-learning-platform-development-37i8)
-- [Test-Driven Development &lpar;TDD&rpar;](https://dev.to/souhaillaghchimdev/test-driven-development-tdd-2g2d)
-- [Learning Design Patterns in Programming](https://dev.to/souhaillaghchimdev/learning-design-patterns-in-programming-53d6)
+- [How to Prevent CSS Hover State Flicker on Button Release?](https://dev.to/generatecodedev/how-to-prevent-css-hover-state-flicker-on-button-release-32i4)
+- [Mobile UI Design](https://dev.to/souhaillaghchimdev/mobile-ui-design-3hmo)
+- [Digital Marketing Application Programming](https://dev.to/souhaillaghchimdev/digital-marketing-application-programming-2fai)
+- [Game AI Programming](https://dev.to/souhaillaghchimdev/game-ai-programming-3kbi)
+- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-57do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
