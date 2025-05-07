@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [206/365 | ¥10M Job Challenge - First workday after the long weekend](https://dev.to/kameken100/206365-y10m-job-challenge-first-workday-after-the-long-weekend-1h31)
-- [How to Release Utilities Package to GitHub Packages](https://dev.to/casp3ro/how-to-release-utilities-package-to-github-packages-14f4)
-- [How to Integrate Multi-Participant Video Chat with Banuba AR?](https://dev.to/generatecodedev/how-to-integrate-multi-participant-video-chat-with-banuba-ar-459)
-- [Automating Static Website Deployment to AWS S3 with Terraform and GitHub Actions](https://dev.to/san_dev_65a0346580173629d/automating-static-website-deployment-to-aws-s3-with-terraform-and-github-actions-24a4)
-- [How to setup Tailwind CSS v4.1.5 with Vite + React &lpar;2025 updated guide&rpar;](https://dev.to/imamifti056/how-to-setup-tailwind-css-v415-with-vite-react-2025-updated-guide-3koc)
+- [Reliable Redis Connections in Node.js: Lazy Loading, Retry Logic &amp; Circuit Breakers 🔦](https://dev.to/silentwatcher_95/reliable-redis-connections-in-nodejs-lazy-loading-retry-logic-circuit-breakers-29lg)
+- [Mastering Functional Programming: Immutability, Composition, Pure and Arrow Functions](https://dev.to/geampiere/mastering-functional-programming-immutability-composition-pure-and-arrow-functions-3co3)
+- [The Age of the Smartphone Is Ending — And Most People Haven’t Noticed](https://dev.to/skygreyai/the-age-of-the-smartphone-is-ending-and-most-people-havent-noticed-4pe3)
+- [How To Run OpenAI Agents SDK Locally With 100+ LLMs and Custom Tracing](https://dev.to/amosgyamfi/how-to-run-openai-agents-sdk-locally-with-100-llms-and-custom-tracing-5gpi)
+- [How I Connected My Home Network with AWS Regions Using Tailscale and VPC Peering](https://dev.to/dhairyashah/how-i-connected-my-home-network-with-aws-regions-using-tailscale-and-vpc-peering-1n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
