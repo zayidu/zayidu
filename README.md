@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Data Remanence?](https://dev.to/e77/what-is-data-remanence-5g4o)
-- [What trends can I apply to my website?](https://dev.to/nathaly_cardenas_b849ad3b/what-trends-can-i-apply-to-my-website-3mc4)
-- [How to install &amp; configure Longhorn for Kubernetes](https://dev.to/mrgitops/how-to-install-configure-longhorn-for-kubernetes-cjl)
-- [Supercharging API Rate Limiting with AIMD - A Deep Dive into Modern System Design](https://dev.to/shridivya_sharma_51f54cac/supercharging-api-rate-limiting-with-aimd-a-deep-dive-into-modern-system-design-5384)
-- [How to Display Duplicate Values in Java Code Output?](https://dev.to/generatecodedev/how-to-display-duplicate-values-in-java-code-output-49e4)
+- [Implementing xor value swap without third variable in C](https://dev.to/ceir/implementing-xor-value-swap-without-third-variable-in-c-1aag)
+- [[Boost]](https://dev.to/blurbify/-2pmm)
+- [How to Control Python Version for Brew Pipx Installations?](https://dev.to/generatecodedev/how-to-control-python-version-for-brew-pipx-installations-418p)
+- [How The NEW &lt;selectedcontent&gt; HTML Element Changes Selects Forever](https://dev.to/arnoldgunter/how-the-new-html-element-changes-selects-forever-4p7d)
+- [Exploring Open Source Licensing Models in the Blockchain Era: Merging Innovation with Transparency](https://dev.to/ahmmrizv9/exploring-open-source-licensing-models-in-the-blockchain-era-merging-innovation-with-transparency-p43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
