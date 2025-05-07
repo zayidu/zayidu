@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Container Images and Orchestration](https://dev.to/hridyeshbisht/introduction-to-container-images-and-orchestration-32pb)
-- [The Rise of Autonomous IT Operations: Why AIOps Is the Future of ITSM in 2025 and Beyond](https://dev.to/sip_mjb/the-rise-of-autonomous-it-operations-why-aiops-is-the-future-of-itsm-in-2025-and-beyond-2dbo)
-- [Understanding Rust&#39;s Box, Rc, RefCell in Stack and Deque](https://dev.to/generatecodedev/understanding-rusts-box-rc-refcell-in-stack-and-deque-1pd2)
-- [Open Source and API-First Thinking to Build Smart, Flexible Systems](https://dev.to/manavbhati25/open-source-and-api-first-thinking-to-build-smart-flexible-systems-3l9a)
-- [How to Optimize Image Caching in Next.js for Blazing Fast Loading Times](https://dev.to/melvinprince/how-to-optimize-image-caching-in-nextjs-for-blazing-fast-loading-times-3k8l)
+- [Installing SafeLine WAF on Synology NAS](https://dev.to/carrie_luo1/installing-safeline-waf-on-synology-nas-106l)
+- [If You’re Not Watching Catalysis Yet… You Will Be](https://dev.to/dhis_is_jj/if-youre-not-watching-catalysis-yet-you-will-be-2inj)
+- [5 Ways AI Can Help Software Engineers Find More Opportunities](https://dev.to/diamantino_almeida/5-ways-ai-can-help-software-engineers-find-more-opportunities-1gd)
+- [Setting up a Docker Registry backed with Cloudflare R2](https://dev.to/sertxudev/setting-up-a-docker-registry-backed-with-cloudflare-r2-424g)
+- [What Makes the 91 Club Game a Good Choice for Beginners?](https://dev.to/gulshan_kumar_2028de2dd8b/what-makes-the-91-club-game-a-good-choice-for-beginners-18om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
