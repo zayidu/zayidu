@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Marking tools](https://dev.to/andy124/marking-tools-555j)
-- [Everything You Should Know About Arbitrum: The Ethereum Scaling Giant](https://dev.to/favebs/everything-you-should-know-about-arbitrum-the-ethereum-scaling-giant-2g30)
-- [Setting Up Inter-Region VPC Communication Using AWS Transit Gateway](https://dev.to/aws-builders/setting-up-inter-region-vpc-communication-using-aws-transit-gateway-522m)
-- [The Role of Data Integration in Healthcare Research and Precision Medicine](https://dev.to/blogposting/the-role-of-data-integration-in-healthcare-research-and-precision-medicine-21l4)
-- [How to Fix the &#39;Failed to run config for lsp-zero.nvim&#39; Error in Neovim](https://dev.to/generatecodedev/how-to-fix-the-failed-to-run-config-for-lsp-zeronvim-error-in-neovim-23ie)
+- [Tired of using pprint to debug nested lists? Try visual structure tracing.](https://dev.to/mtur2007/tired-of-using-pprint-to-debug-nested-lists-try-visual-structure-tracing-efn)
+- [Criando uma API OCR com FaaS na Azure – Parte 3: Processando OCR com Timer Trigger](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-3-processando-ocr-com-timer-trigger-341i)
+- [✨ 7 Things I Do Regularly as a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/7-habits-i-recommend-to-succeed-as-a-frontend-developer-57e)
+- [Your first MCP Server &lpar;quick&rpar;](https://dev.to/jonigl/your-first-mcp-server-quick-35eg)
+- [EMV 3DS ACS &amp; Passkey Support for Secure Online Payments](https://dev.to/corbado/emv-3ds-acs-passkey-support-for-secure-online-payments-2hkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
