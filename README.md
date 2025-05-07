@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing xor value swap without third variable in C](https://dev.to/ceir/implementing-xor-value-swap-without-third-variable-in-c-1aag)
-- [[Boost]](https://dev.to/blurbify/-2pmm)
-- [How to Control Python Version for Brew Pipx Installations?](https://dev.to/generatecodedev/how-to-control-python-version-for-brew-pipx-installations-418p)
-- [How The NEW &lt;selectedcontent&gt; HTML Element Changes Selects Forever](https://dev.to/arnoldgunter/how-the-new-html-element-changes-selects-forever-4p7d)
-- [Exploring Open Source Licensing Models in the Blockchain Era: Merging Innovation with Transparency](https://dev.to/ahmmrizv9/exploring-open-source-licensing-models-in-the-blockchain-era-merging-innovation-with-transparency-p43)
+- [Utilizando o wget no Linux](https://dev.to/bsouza/utilizando-o-wget-no-linux-4ec7)
+- [Invoker Commands API](https://dev.to/jswhisperer/invoker-commands-api-1hm5)
+- [How to Fix &#39;Please provide ShowCaseView context&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-please-provide-showcaseview-context-in-flutter-2i6a)
+- [Speech Recognition API for Voice Input](https://dev.to/omriluz1/speech-recognition-api-for-voice-input-4j5h)
+- [Crowdfunding Open Source Development and Blockchain Innovation: A New Era of Sustainable Funding](https://dev.to/zhangwei42/crowdfunding-open-source-development-and-blockchain-innovation-a-new-era-of-sustainable-funding-1ekd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
