@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bungie has motion to dismiss Destiny 2 copyright lawsuit denied over &#39;vaulted&#39; campaign storyline](https://dev.to/gg_news/bungie-has-motion-to-dismiss-destiny-2-copyright-lawsuit-denied-over-vaulted-campaign-storyline-5b97)
-- [EA says Apex Legends revenue will drop 40% this year making it one of the biggest declines in the game’s history](https://dev.to/gg_news/ea-says-apex-legends-revenue-will-drop-40-this-year-making-it-one-of-the-biggest-declines-in-the-2m4)
-- [Newborns living near trees tend to be healthier and new data suggests it’s not because healthier people reside near parks](https://dev.to/future_science/newborns-living-near-trees-tend-to-be-healthier-and-new-data-suggests-its-not-because-healthier-3n27)
-- [&quot;Two-way communication breakdown&quot; Study reveals AI chatbots shouldn&#39;t be relied on for health advice](https://dev.to/future_ai/two-way-communication-breakdown-study-reveals-ai-chatbots-shouldnt-be-relied-on-for-health-advice-315g)
-- [Looking for dev + UI designer to help launch MVP of viral short-form AI tool &lpar;rev share&rpar;](https://dev.to/jakearnk/looking-for-dev-ui-designer-to-help-launch-mvp-of-viral-short-form-ai-tool-rev-share-1din)
+- [I Got Laid Off Recently, So I&#39;m Letting Go of the Project I Believed In the Most](https://dev.to/0514b0/i-got-laid-off-recently-so-im-letting-go-of-the-project-i-believed-in-the-most-509b)
+- [How to use tools on Quality Inspection Tests](https://dev.to/insightworks/how-to-use-tools-on-quality-inspection-tests-1ffa)
+- [You’ve Been Using Slice and Splice Wrong Your Whole Life — Here’s the Real Difference!](https://dev.to/shifa_2/youve-been-using-slice-and-splice-wrong-your-whole-life-heres-the-real-difference-7d9)
+- [The 3 AM Alert That Wasn&#39;t Actually a Problem](https://dev.to/sjmsre/the-3-am-alert-that-wasnt-actually-a-problem-1ah5)
+- [• طراحی واکنش گرا چیست؟ طراحی سایت های بهینه شده برای موبایل](https://dev.to/tosinso/trhy-wkhnsh-gr-chyst-trhy-syt-hy-bhynh-shdh-bry-mwbyl-b2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
