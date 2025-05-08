@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool CodePen Demos &lpar;April 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2025-482a)
-- [React Full-Stack Just Code: Build a Business 🧠💰](https://dev.to/0x2e_tech/react-full-stack-just-code-build-a-business-bob)
-- [Disk Space Awareness: df, du and What is Filling Up Your System](https://dev.to/sanasadiq/disk-space-awareness-df-du-and-what-is-filling-up-your-system-23hh)
-- [Killing Processes Gracefully with kill, pkill and killall](https://dev.to/sanasadiq/killing-processes-gracefully-with-kill-pkill-and-killall-439p)
-- [🚀 From React Developer to Digital Agency Owner](https://dev.to/0x2e_tech/from-react-developer-to-digital-agency-owner-1l)
+- [What I Learned During the SheFi Program — And Why I Recommend It](https://dev.to/ayda_ma04a645d96526b/what-i-learned-during-the-shefi-program-and-why-i-recommend-it-3h7)
+- [From Input to Impact: How Our RDH Turns Raw Data into Real-Time Signals](https://dev.to/kedster/from-input-to-impact-how-our-rdh-turns-raw-data-into-real-time-signals-npg)
+- [From Input to Impact: How Our RDH Turns Raw Data into Real-Time Signals](https://dev.to/kedster/from-input-to-impact-how-our-rdh-turns-raw-data-into-real-time-signals-b30)
+- [How to Fix Text Disappearing in C Backspace Functionality](https://dev.to/generatecodedev/how-to-fix-text-disappearing-in-c-backspace-functionality-5f71)
+- [MediaSession API for Custom Media Controls](https://dev.to/omriluz1/mediasession-api-for-custom-media-controls-50n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
