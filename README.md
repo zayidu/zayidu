@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoramento de Erros com Sentry no React + Vite: Guia Completo](https://dev.to/werliton/monitoramento-de-erros-com-sentry-no-react-vite-guia-completo-3km1)
-- [Google A2A Protocol : Integrating AI into existing Java Applications](https://dev.to/vishalmysore/google-a2a-protocol-integrating-ai-into-existing-java-applications-4nlp)
-- [Easy parsing with reasonable error messages in OCaml&#39;s Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
-- [Understanding Lazy Loading to Improve Web Performance](https://dev.to/akang_web_650417b11b7ad90/understanding-lazy-loading-to-improve-web-performance-4l16)
-- [Advanced Commands for Exploring Git Internals](https://dev.to/cristiansifuentes/advanced-commands-for-exploring-git-internals-35g)
+- [Voices at the Threshold](https://dev.to/rawveg/voices-at-the-threshold-4ddp)
+- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
+- [Exploring SuperRare’s Integration with Arbitrum: Bridging Digital Art and Next-Generation Blockchain Solutions](https://dev.to/kallileiser/exploring-superrares-integration-with-arbitrum-bridging-digital-art-and-next-generation-333)
+- [How to Sync Git Repository Dependencies Using uv in Python?](https://dev.to/generatecodedev/how-to-sync-git-repository-dependencies-using-uv-in-python-3kc5)
+- [Mastering HTML, CSS &amp; JavaScript: A Web Developer’s Roadmap](https://dev.to/code_2/mastering-html-css-javascript-a-web-developers-roadmap-i9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
