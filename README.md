@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Laid Off Recently, So I&#39;m Letting Go of the Project I Believed In the Most](https://dev.to/0514b0/i-got-laid-off-recently-so-im-letting-go-of-the-project-i-believed-in-the-most-509b)
-- [How to use tools on Quality Inspection Tests](https://dev.to/insightworks/how-to-use-tools-on-quality-inspection-tests-1ffa)
-- [You’ve Been Using Slice and Splice Wrong Your Whole Life — Here’s the Real Difference!](https://dev.to/shifa_2/youve-been-using-slice-and-splice-wrong-your-whole-life-heres-the-real-difference-7d9)
-- [The 3 AM Alert That Wasn&#39;t Actually a Problem](https://dev.to/sjmsre/the-3-am-alert-that-wasnt-actually-a-problem-1ah5)
-- [• طراحی واکنش گرا چیست؟ طراحی سایت های بهینه شده برای موبایل](https://dev.to/tosinso/trhy-wkhnsh-gr-chyst-trhy-syt-hy-bhynh-shdh-bry-mwbyl-b2b)
+- [Comparing Text Search Strategies pg_search vs. tsvector vs. External Engines](https://dev.to/neon-postgres/comparing-text-search-strategies-pgsearch-vs-tsvector-vs-external-engines-54f0)
+- [FrontendDev Ending](https://dev.to/umairshakoor/frontenddev-ending-1m14)
+- [How I Lost 35kg and Built a Habit Tracker That Actually Works](https://dev.to/baransel/how-i-lost-35kg-and-built-a-habit-tracker-that-actually-works-146d)
+- [Are you trying to manage AI Workloads on Kubernetes at Scale? Maybe deploying complex AI stacks such as Kubeflow and KServe? Here is how Sveltos Enables Multi-Cluster, GitOps-driven MLOps https://ppaolo.substack.com/p/managing-ai-workloads-on-kubernetes](https://dev.to/simone_morellato/are-you-trying-to-manage-ai-workloads-on-kubernetes-at-scale-maybe-deploying-complex-ai-stacks-1djl)
+- [first post](https://dev.to/andyritting/first-post-415p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
