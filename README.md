@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best AI-Powered SQL Optimization Tools in 2025](https://dev.to/sqlflash/the-best-ai-powered-sql-optimization-tools-in-2025-1enl)
-- [The Future of IoT and AI Integration 2025](https://dev.to/priyankapandey/the-future-of-iot-and-ai-integration-2025-c3g)
-- [Go Programming Language : Basics](https://dev.to/saksham_malhotra_27/go-programming-language-basics-1jbo)
-- [How to Create Custom Scrollbars with Larger Thumbs in HTML](https://dev.to/generatecodedev/how-to-create-custom-scrollbars-with-larger-thumbs-in-html-37l7)
-- [HLD | Network Protocols in Action: How the Internet Communicates](https://dev.to/vampirepapi/hld-network-protocols-in-action-how-the-internet-communicates-24kd)
+- [Developer Spotlight - Google Cloud Next 2025 Special Edition](https://dev.to/googleworkspace/developer-spotlight-google-cloud-next-2025-special-edition-5el8)
+- [Can HHH Simulate DD and Reach the Return Instruction?](https://dev.to/generatecodedev/can-hhh-simulate-dd-and-reach-the-return-instruction-4ebg)
+- [Speed Up Your Workflow with an Online C++ Compiler](https://dev.to/tpointtechblog/speed-up-your-workflow-with-an-online-c-compiler-74h)
+- [From Localhost to Live](https://dev.to/nightwalker28/from-localhost-to-live-2e4f)
+- [[Boost]](https://dev.to/aryan_panwala/-47l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
