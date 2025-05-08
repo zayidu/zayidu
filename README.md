@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Quietly Taking Over Global Markets 🤖📈🌍](https://dev.to/srijan-xi/how-ai-is-quietly-taking-over-global-markets-3i16)
-- [Read Replicas: Offloading Load by Sharing Reads](https://dev.to/clbku/read-replicas-offloading-load-by-sharing-reads-5dao)
-- [How to Fix &#39;file not found&#39; Error in SimpleBLE with C++?](https://dev.to/generatecodedev/how-to-fix-file-not-found-error-in-simpleble-with-c-58fh)
-- [How to Resolve &#39;HSTS Missing from HTTPS Server&#39; Error on Your Website](https://dev.to/olivia_carter/how-to-resolve-hsts-missing-from-https-server-error-on-your-website-4epn)
-- [How to Upload Multiple Images in a Laravel API &lpar;Step-by-Step&rpar;](https://dev.to/msnmongare/how-to-upload-multiple-images-in-a-laravel-api-step-by-step-5b46)
+- [Should I Keep Building My Social Food App on Bubble or Switch to Code?](https://dev.to/wahed_shaik_3cd9be9629147/should-i-keep-building-my-social-food-app-on-bubble-or-switch-to-code-3n7o)
+- [How to Use a Single Variable for Plugin and Dependency Versions in Gradle](https://dev.to/generatecodedev/how-to-use-a-single-variable-for-plugin-and-dependency-versions-in-gradle-1gah)
+- [Demystifying the WordPress Options API: Storing and Retrieving Your Site’s Settings](https://dev.to/farhan-developer/demystifying-the-wordpress-options-api-storing-and-retrieving-your-sites-settings-m0g)
+- [Trust &amp; Conversion: The Minimalist Design Advantage in Web &amp; App Development](https://dev.to/makuevpro/trust-conversion-the-minimalist-design-advantage-in-web-app-development-do7)
+- [A special secret to prevent AI hallucinations with a practical Google genkit-ai example!](https://dev.to/this-is-learning/a-special-secret-to-prevent-ai-hallucinations-with-a-practical-google-genkit-ai-example-3d0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
