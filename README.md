@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Blinking Text in HTML Without the Blink Tag?](https://dev.to/generatecodedev/how-to-create-blinking-text-in-html-without-the-blink-tag-54oo)
-- [How to Create a Vertical HTML Button Group with CSS](https://dev.to/chrys/how-to-create-a-vertical-html-button-group-with-css-2ljc)
-- [Navigating Financial Sustainability in Open Source Projects](https://dev.to/ashucommits/navigating-financial-sustainability-in-open-source-projects-2on7)
-- [Deploying AI/ML Models via Cloud APIs in Healthcare: A Developer&#39;s Guide to National Impact](https://dev.to/a_bojjam/deploying-aiml-models-via-cloud-apis-in-healthcare-a-developers-guide-to-national-impact-1a46)
-- [Inside Azure DevOps: Boards, Repos, Pipelines, and Artifacts](https://dev.to/akash_roy_3bc76e473db5e40/inside-azure-devops-boards-repos-pipelines-and-artifacts-2l9)
+- [The Best AI-Powered SQL Optimization Tools in 2025](https://dev.to/sqlflash/the-best-ai-powered-sql-optimization-tools-in-2025-1enl)
+- [The Future of IoT and AI Integration 2025](https://dev.to/priyankapandey/the-future-of-iot-and-ai-integration-2025-c3g)
+- [Go Programming Language : Basics](https://dev.to/saksham_malhotra_27/go-programming-language-basics-1jbo)
+- [How to Create Custom Scrollbars with Larger Thumbs in HTML](https://dev.to/generatecodedev/how-to-create-custom-scrollbars-with-larger-thumbs-in-html-37l7)
+- [HLD | Network Protocols in Action: How the Internet Communicates](https://dev.to/vampirepapi/hld-network-protocols-in-action-how-the-internet-communicates-24kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
