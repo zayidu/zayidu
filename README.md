@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the 9 Types of Indexes in PostgreSQL](https://dev.to/leapcell/understanding-the-9-types-of-indexes-in-postgresql-24cj)
-- [Three.js com React Three Fiber: Criando Experiências 3D Impressionantes no React](https://dev.to/nicolaazdev/threejs-com-react-three-fiber-criando-experiencias-3d-impressionantes-no-react-29ha)
-- [Hyper-Personalization in Marketing: How Generative AI is Revolutionizing Customer Experiences](https://dev.to/siddharthbhalsod/hyper-personalization-in-marketing-how-generative-ai-is-revolutionizing-customer-experiences-2o6g)
-- [Open Source Project Financial Planning: A Key to Sustainability](https://dev.to/ahmmrizv9/open-source-project-financial-planning-a-key-to-sustainability-1ef6)
-- [Genereate LLMs.txt for your Astro site](https://dev.to/areai51/genereate-llmstxt-for-your-astro-site-5chi)
+- [How to Create Blinking Text in HTML Without the Blink Tag?](https://dev.to/generatecodedev/how-to-create-blinking-text-in-html-without-the-blink-tag-54oo)
+- [How to Create a Vertical HTML Button Group with CSS](https://dev.to/chrys/how-to-create-a-vertical-html-button-group-with-css-2ljc)
+- [Navigating Financial Sustainability in Open Source Projects](https://dev.to/ashucommits/navigating-financial-sustainability-in-open-source-projects-2on7)
+- [Deploying AI/ML Models via Cloud APIs in Healthcare: A Developer&#39;s Guide to National Impact](https://dev.to/a_bojjam/deploying-aiml-models-via-cloud-apis-in-healthcare-a-developers-guide-to-national-impact-1a46)
+- [Inside Azure DevOps: Boards, Repos, Pipelines, and Artifacts](https://dev.to/akash_roy_3bc76e473db5e40/inside-azure-devops-boards-repos-pipelines-and-artifacts-2l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
