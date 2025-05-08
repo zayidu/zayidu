@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Text Search Strategies pg_search vs. tsvector vs. External Engines](https://dev.to/neon-postgres/comparing-text-search-strategies-pgsearch-vs-tsvector-vs-external-engines-54f0)
-- [FrontendDev Ending](https://dev.to/umairshakoor/frontenddev-ending-1m14)
-- [How I Lost 35kg and Built a Habit Tracker That Actually Works](https://dev.to/baransel/how-i-lost-35kg-and-built-a-habit-tracker-that-actually-works-146d)
-- [Are you trying to manage AI Workloads on Kubernetes at Scale? Maybe deploying complex AI stacks such as Kubeflow and KServe? Here is how Sveltos Enables Multi-Cluster, GitOps-driven MLOps https://ppaolo.substack.com/p/managing-ai-workloads-on-kubernetes](https://dev.to/simone_morellato/are-you-trying-to-manage-ai-workloads-on-kubernetes-at-scale-maybe-deploying-complex-ai-stacks-1djl)
-- [first post](https://dev.to/andyritting/first-post-415p)
+- [Avoiding Common Eloquent Pitfalls in Laravel Projects at Scale](https://dev.to/kinsflow/avoiding-common-eloquent-pitfalls-in-laravel-projects-at-scale-313a)
+- [Green Padlock, Zero Headache: Let’s Encrypt SSL for Self-Hosted Dify](https://dev.to/shamspias/green-padlock-zero-headache-lets-encrypt-ssl-for-self-hosted-dify-cie)
+- [Building a Dynamic Color Changer app with React and Vite](https://dev.to/adesh_mishra_07/building-a-dynamic-color-changer-app-with-react-and-vite-5ad1)
+- [Nexus 001 - Kurulum](https://dev.to/berkanterbey/nexus-001-kurulum-5e7o)
+- [How to Debug POST Fields in PHP cURL Requests?](https://dev.to/generatecodedev/how-to-debug-post-fields-in-php-curl-requests-khh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
