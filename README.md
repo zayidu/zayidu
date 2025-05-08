@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 40: Array in Looping JAVA](https://dev.to/sangamithra_k_78d83d6fb9d/day-40-array-in-looping-java-18ff)
-- [How to Troubleshoot Ansible Playbook Execution Issues in Bash?](https://dev.to/generatecodedev/how-to-troubleshoot-ansible-playbook-execution-issues-in-bash-3i4g)
-- [Why Gen Z Devs Need to Learn Prompt Engineering](https://dev.to/syedahmershah/why-gen-z-devs-need-to-learn-prompt-engineering-5ek0)
-- [Routing in Spin Apps with Hono](https://dev.to/fermyon/routing-in-spin-apps-with-hono-jnh)
-- [image2](https://dev.to/kentechgeek/image2-479o)
+- [Understanding the 9 Types of Indexes in PostgreSQL](https://dev.to/leapcell/understanding-the-9-types-of-indexes-in-postgresql-24cj)
+- [Three.js com React Three Fiber: Criando Experiências 3D Impressionantes no React](https://dev.to/nicolaazdev/threejs-com-react-three-fiber-criando-experiencias-3d-impressionantes-no-react-29ha)
+- [Hyper-Personalization in Marketing: How Generative AI is Revolutionizing Customer Experiences](https://dev.to/siddharthbhalsod/hyper-personalization-in-marketing-how-generative-ai-is-revolutionizing-customer-experiences-2o6g)
+- [Open Source Project Financial Planning: A Key to Sustainability](https://dev.to/ahmmrizv9/open-source-project-financial-planning-a-key-to-sustainability-1ef6)
+- [Genereate LLMs.txt for your Astro site](https://dev.to/areai51/genereate-llmstxt-for-your-astro-site-5chi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
