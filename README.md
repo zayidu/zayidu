@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned During the SheFi Program — And Why I Recommend It](https://dev.to/ayda_ma04a645d96526b/what-i-learned-during-the-shefi-program-and-why-i-recommend-it-3h7)
-- [From Input to Impact: How Our RDH Turns Raw Data into Real-Time Signals](https://dev.to/kedster/from-input-to-impact-how-our-rdh-turns-raw-data-into-real-time-signals-npg)
-- [From Input to Impact: How Our RDH Turns Raw Data into Real-Time Signals](https://dev.to/kedster/from-input-to-impact-how-our-rdh-turns-raw-data-into-real-time-signals-b30)
-- [How to Fix Text Disappearing in C Backspace Functionality](https://dev.to/generatecodedev/how-to-fix-text-disappearing-in-c-backspace-functionality-5f71)
-- [MediaSession API for Custom Media Controls](https://dev.to/omriluz1/mediasession-api-for-custom-media-controls-50n3)
+- [Transform Your Website into a Mobile App with AI: A Step-by-Step Guide](https://dev.to/srdan_borovi_584c6b1d773/transform-your-website-into-a-mobile-app-with-ai-a-step-by-step-guide-18kc)
+- [Comparing No-Code App Builders: Which Platform Is Ideal for Your App?](https://dev.to/srdan_borovi_584c6b1d773/comparing-no-code-app-builders-which-platform-is-ideal-for-your-app-54nm)
+- [How to Implement SOLID Principles in Java with Examples](https://dev.to/generatecodedev/how-to-implement-solid-principles-in-java-with-examples-4k7e)
+- [How to Resolve Kotlin Compilation Error in React Native with Google Health Connect?](https://dev.to/generatecodedev/how-to-resolve-kotlin-compilation-error-in-react-native-with-google-health-connect-1k5p)
+- [Hi, I’m Sveta — DevOps Student &amp; Aspiring Engineer 🌍](https://dev.to/c_d_a7c10b4d6f6aa68be7495/hi-im-sveta-devops-student-aspiring-engineer-56nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
