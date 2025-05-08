@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily handle concurrency: Concurrency programming model of Cangjie language under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/easily-handle-concurrency-concurrency-programming-model-of-cangjie-language-under-harmonyos-next-5036)
-- [Play with paradigm switching: Cangjie&#39;s functional and object-oriented combat under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/play-with-paradigm-switching-cangjies-functional-and-object-oriented-combat-under-harmonyos-next-3h86)
-- [HarmonyOS Next development essentials: efficient type system and type inference of Cangjie language](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-development-essentials-efficient-type-system-and-type-inference-of-cangjie-language-2njf)
-- [How Smart Factories Are Using AI to Revolutionize Production Scheduling and Cut Costs](https://dev.to/gauridigital/how-smart-factories-are-using-ai-to-revolutionize-production-scheduling-and-cut-costs-1ddb)
-- [Enter Cangjie Language: A new generation development experience under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/enter-cangjie-language-a-new-generation-development-experience-under-harmonyos-next-4lg0)
+- [How to Format Dates with Accessors and Mutators in Laravel 12](https://dev.to/ayekpleclemence/how-to-format-dates-with-accessors-and-mutators-in-laravel-12-171d)
+- [Liferay DXP 7.4: New Features and Developer Benefits](https://dev.to/aixtor_technologies/liferay-dxp-74-new-features-and-developer-benefits-54ke)
+- [Improve PHP AI Agents output quality with Rerankers](https://dev.to/inspector/improve-php-ai-agents-output-quality-with-rerankers-5ie)
+- [React rendering quiz](https://dev.to/asmyshlyaev177/react-rendering-quiz-443k)
+- [Swiftide 0.26 - Streaming agents](https://dev.to/timonv/swiftide-026-streaming-agents-1j2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
