@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟Top 5 AI Agent Frameworks in 2025🌟](https://dev.to/voltagent/top-5-ai-agent-frameworks-in-2025-4gab)
-- [Expired SSL Certificate? Understand the Impact and Renewal Steps](https://dev.to/edenallen/expired-ssl-certificate-understand-the-impact-and-renewal-steps-532)
-- [Why Upwork Isn’t Enough Anymore. And That’s Okay](https://dev.to/otavio99/why-upwork-isnt-enough-anymore-and-thats-okay-361b)
-- [How to Enable OCI8 Extension in PHP on ServBay?](https://dev.to/generatecodedev/how-to-enable-oci8-extension-in-php-on-servbay-2aal)
-- [Speech Synthesis API for Text-to-Speech](https://dev.to/omriluz1/speech-synthesis-api-for-text-to-speech-3agn)
+- [Easily handle concurrency: Concurrency programming model of Cangjie language under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/easily-handle-concurrency-concurrency-programming-model-of-cangjie-language-under-harmonyos-next-5036)
+- [Play with paradigm switching: Cangjie&#39;s functional and object-oriented combat under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/play-with-paradigm-switching-cangjies-functional-and-object-oriented-combat-under-harmonyos-next-3h86)
+- [HarmonyOS Next development essentials: efficient type system and type inference of Cangjie language](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-development-essentials-efficient-type-system-and-type-inference-of-cangjie-language-2njf)
+- [How Smart Factories Are Using AI to Revolutionize Production Scheduling and Cut Costs](https://dev.to/gauridigital/how-smart-factories-are-using-ai-to-revolutionize-production-scheduling-and-cut-costs-1ddb)
+- [Enter Cangjie Language: A new generation development experience under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/enter-cangjie-language-a-new-generation-development-experience-under-harmonyos-next-4lg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
