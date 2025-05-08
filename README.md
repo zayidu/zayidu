@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Common Eloquent Pitfalls in Laravel Projects at Scale](https://dev.to/kinsflow/avoiding-common-eloquent-pitfalls-in-laravel-projects-at-scale-313a)
-- [Green Padlock, Zero Headache: Let’s Encrypt SSL for Self-Hosted Dify](https://dev.to/shamspias/green-padlock-zero-headache-lets-encrypt-ssl-for-self-hosted-dify-cie)
-- [Building a Dynamic Color Changer app with React and Vite](https://dev.to/adesh_mishra_07/building-a-dynamic-color-changer-app-with-react-and-vite-5ad1)
-- [Nexus 001 - Kurulum](https://dev.to/berkanterbey/nexus-001-kurulum-5e7o)
-- [How to Debug POST Fields in PHP cURL Requests?](https://dev.to/generatecodedev/how-to-debug-post-fields-in-php-curl-requests-khh)
+- [10 Cool CodePen Demos &lpar;April 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2025-482a)
+- [React Full-Stack Just Code: Build a Business 🧠💰](https://dev.to/0x2e_tech/react-full-stack-just-code-build-a-business-bob)
+- [Disk Space Awareness: df, du and What is Filling Up Your System](https://dev.to/sanasadiq/disk-space-awareness-df-du-and-what-is-filling-up-your-system-23hh)
+- [Killing Processes Gracefully with kill, pkill and killall](https://dev.to/sanasadiq/killing-processes-gracefully-with-kill-pkill-and-killall-439p)
+- [🚀 From React Developer to Digital Agency Owner](https://dev.to/0x2e_tech/from-react-developer-to-digital-agency-owner-1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
