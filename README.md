@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your Website into a Mobile App with AI: A Step-by-Step Guide](https://dev.to/srdan_borovi_584c6b1d773/transform-your-website-into-a-mobile-app-with-ai-a-step-by-step-guide-18kc)
-- [Comparing No-Code App Builders: Which Platform Is Ideal for Your App?](https://dev.to/srdan_borovi_584c6b1d773/comparing-no-code-app-builders-which-platform-is-ideal-for-your-app-54nm)
-- [How to Implement SOLID Principles in Java with Examples](https://dev.to/generatecodedev/how-to-implement-solid-principles-in-java-with-examples-4k7e)
-- [How to Resolve Kotlin Compilation Error in React Native with Google Health Connect?](https://dev.to/generatecodedev/how-to-resolve-kotlin-compilation-error-in-react-native-with-google-health-connect-1k5p)
-- [Hi, I’m Sveta — DevOps Student &amp; Aspiring Engineer 🌍](https://dev.to/c_d_a7c10b4d6f6aa68be7495/hi-im-sveta-devops-student-aspiring-engineer-56nk)
+- [Monitoramento de Erros com Sentry no React + Vite: Guia Completo](https://dev.to/werliton/monitoramento-de-erros-com-sentry-no-react-vite-guia-completo-3km1)
+- [Google A2A Protocol : Integrating AI into existing Java Applications](https://dev.to/vishalmysore/google-a2a-protocol-integrating-ai-into-existing-java-applications-4nlp)
+- [Easy parsing with reasonable error messages in OCaml&#39;s Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
+- [Understanding Lazy Loading to Improve Web Performance](https://dev.to/akang_web_650417b11b7ad90/understanding-lazy-loading-to-improve-web-performance-4l16)
+- [Advanced Commands for Exploring Git Internals](https://dev.to/cristiansifuentes/advanced-commands-for-exploring-git-internals-35g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
