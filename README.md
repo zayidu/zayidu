@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Spotlight - Google Cloud Next 2025 Special Edition](https://dev.to/googleworkspace/developer-spotlight-google-cloud-next-2025-special-edition-5el8)
-- [Can HHH Simulate DD and Reach the Return Instruction?](https://dev.to/generatecodedev/can-hhh-simulate-dd-and-reach-the-return-instruction-4ebg)
-- [Speed Up Your Workflow with an Online C++ Compiler](https://dev.to/tpointtechblog/speed-up-your-workflow-with-an-online-c-compiler-74h)
-- [From Localhost to Live](https://dev.to/nightwalker28/from-localhost-to-live-2e4f)
-- [[Boost]](https://dev.to/aryan_panwala/-47l2)
+- [🌟Top 5 AI Agent Frameworks in 2025🌟](https://dev.to/voltagent/top-5-ai-agent-frameworks-in-2025-4gab)
+- [Expired SSL Certificate? Understand the Impact and Renewal Steps](https://dev.to/edenallen/expired-ssl-certificate-understand-the-impact-and-renewal-steps-532)
+- [Why Upwork Isn’t Enough Anymore. And That’s Okay](https://dev.to/otavio99/why-upwork-isnt-enough-anymore-and-thats-okay-361b)
+- [How to Enable OCI8 Extension in PHP on ServBay?](https://dev.to/generatecodedev/how-to-enable-oci8-extension-in-php-on-servbay-2aal)
+- [Speech Synthesis API for Text-to-Speech](https://dev.to/omriluz1/speech-synthesis-api-for-text-to-speech-3agn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
