@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent CSS Hover State Flicker on Button Release?](https://dev.to/generatecodedev/how-to-prevent-css-hover-state-flicker-on-button-release-32i4)
-- [Mobile UI Design](https://dev.to/souhaillaghchimdev/mobile-ui-design-3hmo)
-- [Digital Marketing Application Programming](https://dev.to/souhaillaghchimdev/digital-marketing-application-programming-2fai)
-- [Game AI Programming](https://dev.to/souhaillaghchimdev/game-ai-programming-3kbi)
-- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-57do)
+- [Fix or Rebuild? The Real Cost of Rescuing a Failing Software Project](https://dev.to/jhavtech/fix-or-rebuild-the-real-cost-of-rescuing-a-failing-software-project-2fn1)
+- [✨ Copy, Paste, Test: A Simple Jest Setup for TypeScript Apps](https://dev.to/taratimmerman/copy-paste-test-a-simple-jest-setup-for-typescript-apps-58hn)
+- [How to Increase Width of Input Fields in a React Component?](https://dev.to/generatecodedev/how-to-increase-width-of-input-fields-in-a-react-component-331k)
+- [The Art of API Documentation: A Comprehensive Guide](https://dev.to/ttibbs/the-art-of-api-documentation-a-comprehensive-guide-222k)
+- [How to Extract Data from Klipfolio to CSV Using Bash](https://dev.to/generatecodedev/how-to-extract-data-from-klipfolio-to-csv-using-bash-122m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
