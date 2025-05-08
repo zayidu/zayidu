@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix or Rebuild? The Real Cost of Rescuing a Failing Software Project](https://dev.to/jhavtech/fix-or-rebuild-the-real-cost-of-rescuing-a-failing-software-project-2fn1)
-- [✨ Copy, Paste, Test: A Simple Jest Setup for TypeScript Apps](https://dev.to/taratimmerman/copy-paste-test-a-simple-jest-setup-for-typescript-apps-58hn)
-- [How to Increase Width of Input Fields in a React Component?](https://dev.to/generatecodedev/how-to-increase-width-of-input-fields-in-a-react-component-331k)
-- [The Art of API Documentation: A Comprehensive Guide](https://dev.to/ttibbs/the-art-of-api-documentation-a-comprehensive-guide-222k)
-- [How to Extract Data from Klipfolio to CSV Using Bash](https://dev.to/generatecodedev/how-to-extract-data-from-klipfolio-to-csv-using-bash-122m)
+- [DAY 40: Array in Looping JAVA](https://dev.to/sangamithra_k_78d83d6fb9d/day-40-array-in-looping-java-18ff)
+- [How to Troubleshoot Ansible Playbook Execution Issues in Bash?](https://dev.to/generatecodedev/how-to-troubleshoot-ansible-playbook-execution-issues-in-bash-3i4g)
+- [Why Gen Z Devs Need to Learn Prompt Engineering](https://dev.to/syedahmershah/why-gen-z-devs-need-to-learn-prompt-engineering-5ek0)
+- [Routing in Spin Apps with Hono](https://dev.to/fermyon/routing-in-spin-apps-with-hono-jnh)
+- [image2](https://dev.to/kentechgeek/image2-479o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
