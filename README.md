@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Format Dates with Accessors and Mutators in Laravel 12](https://dev.to/ayekpleclemence/how-to-format-dates-with-accessors-and-mutators-in-laravel-12-171d)
-- [Liferay DXP 7.4: New Features and Developer Benefits](https://dev.to/aixtor_technologies/liferay-dxp-74-new-features-and-developer-benefits-54ke)
-- [Improve PHP AI Agents output quality with Rerankers](https://dev.to/inspector/improve-php-ai-agents-output-quality-with-rerankers-5ie)
-- [React rendering quiz](https://dev.to/asmyshlyaev177/react-rendering-quiz-443k)
-- [Swiftide 0.26 - Streaming agents](https://dev.to/timonv/swiftide-026-streaming-agents-1j2h)
+- [How AI Is Quietly Taking Over Global Markets 🤖📈🌍](https://dev.to/srijan-xi/how-ai-is-quietly-taking-over-global-markets-3i16)
+- [Read Replicas: Offloading Load by Sharing Reads](https://dev.to/clbku/read-replicas-offloading-load-by-sharing-reads-5dao)
+- [How to Fix &#39;file not found&#39; Error in SimpleBLE with C++?](https://dev.to/generatecodedev/how-to-fix-file-not-found-error-in-simpleble-with-c-58fh)
+- [How to Resolve &#39;HSTS Missing from HTTPS Server&#39; Error on Your Website](https://dev.to/olivia_carter/how-to-resolve-hsts-missing-from-https-server-error-on-your-website-4epn)
+- [How to Upload Multiple Images in a Laravel API &lpar;Step-by-Step&rpar;](https://dev.to/msnmongare/how-to-upload-multiple-images-in-a-laravel-api-step-by-step-5b46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
