@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Ditched Apple Remote Desktop: A DevOps Engineer&#39;s Journey to Smarter Mac Management](https://dev.to/sagar_2006/why-i-ditched-apple-remote-desktop-a-devops-engineers-journey-to-smarter-mac-management-5g91)
-- [How to Fix Flow Usage Issues in Kotlin ViewModel?](https://dev.to/generatecodedev/how-to-fix-flow-usage-issues-in-kotlin-viewmodel-1o7d)
-- [Why I’m Building a Free Study Platform for Bihar Board Students — And How You Can Help!](https://dev.to/raajaryan/why-im-building-a-free-study-platform-for-bihar-board-students-and-how-you-can-help-3lb3)
-- [The Day I Discovered List Comprehension](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-list-comprehension-3f2b)
-- [Programming language of the future](https://dev.to/lostghost/programming-language-of-the-future-1pe0)
+- [IoT Architecture with AWS: Processing MQTT Messages with Persistence and API](https://dev.to/aws-heroes/iot-architecture-with-aws-processing-mqtt-messages-with-persistence-and-api-94p)
+- [Understanding Multi-Tenant Architecture &lpar;Part-One&rpar;](https://dev.to/aniksaha12/understanding-multi-tenant-architecture-basic-part-one-33c3)
+- [What is GraphQL and creating your first Schema](https://dev.to/joao_colussi_571cebea2dbc/what-is-graphql-and-creating-your-first-schema-2cn1)
+- [How to Dismiss a SwiftUI Modal After an Alert Confirmation?](https://dev.to/generatecodedev/how-to-dismiss-a-swiftui-modal-after-an-alert-confirmation-1l7c)
+- [TensorFlow implementation for optimizers](https://dev.to/notedance/tensorflow-implementation-for-optimizers-2f3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
