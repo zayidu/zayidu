@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges of WebSocket](https://dev.to/nozibul_islam_113b1d5334f/challenges-of-websocket-53gm)
-- [How to Fix &#39;Unable to Find the Project&#39; Error in C#?](https://dev.to/generatecodedev/how-to-fix-unable-to-find-the-project-error-in-c-5a3p)
-- [Create a Node.js REST API with an OpenAPI description in minutes](https://dev.to/apexjs-org/create-a-nodejs-rest-api-with-an-openapi-description-in-minutes-2k73)
-- [[Boost]](https://dev.to/alex_iscanderov_60b4ea965/-35hk)
-- [Javascript](https://dev.to/balaxjd/javascript-4g6f)
+- [How to Translate Large Files with Ease](https://dev.to/colinreed/how-to-translate-large-files-with-ease-3jbn)
+- [Integration testing tRPC and in memory MySQL database.](https://dev.to/pietro_palmesi_b8b68ba0f6/integration-testing-trpc-and-in-memory-mysql-database-40m6)
+- [Automate Your Terraform Module Updates with Scalr &amp; Dependabot](https://dev.to/sebastian_stadil/automate-your-terraform-module-updates-with-scalr-dependabot-3eea)
+- [Why is it so difficult to paste my markdown code snippets here on Dev.to? This should change so I can write full posts.](https://dev.to/mike_andreuzza/why-is-it-so-difficult-to-paste-my-markdown-code-snippets-here-on-devto-this-should-change-so-i-3dph)
+- [React Dev? Sell Tiny Tech Zines Instead](https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
