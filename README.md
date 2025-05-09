@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;Undefined Symbols for Architecture arm64&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-undefined-symbols-for-architecture-arm64-in-flutter-b18)
-- [Linux para Principiantes: Cómo Elegir tu Primera Distribución sin Morir en el Intento](https://dev.to/sergiocredo49/linux-para-principiantes-como-elegir-tu-primera-distribucion-sin-morir-en-el-intento-476j)
-- [5 Distribuciones de Linux Ideales para Programadores en 2025: Velocidad, Estabilidad y Personalización](https://dev.to/sergiocredo49/5-distribuciones-de-linux-ideales-para-programadores-en-2025-velocidad-estabilidad-y-1bei)
-- [GSoC 2025 Projects Announced](https://dev.to/stdlib/gsoc-2025-projects-announced-53al)
-- [Designing Data Models That Work for Both PostgreSQL and ClickHouse: A Developer’s Guide](https://dev.to/siraj_syed_a122e4986ce967/designing-data-models-that-work-for-both-postgresql-and-clickhouse-a-developers-guide-3e4d)
+- [I discovered an interesting JSON tool.](https://dev.to/bimohxh/i-discovered-an-interesting-json-tool-2bbb)
+- [Challenges in Android Application Testing and How to Overcome Them](https://dev.to/misterankit/challenges-in-android-application-testing-and-how-to-overcome-them-57nj)
+- [Setting Up Tailwind CSS v4 in SvelteKit: The Vite Plugin Way &lpar;A Guide Based on Real Issues&rpar;](https://dev.to/fedor-pasynkov/setting-up-tailwind-css-v4-in-sveltekit-the-vite-plugin-way-a-guide-based-on-real-issues-380n)
+- [How To Connect Your Etsy Store To Instagram And Facebook Shopping](https://dev.to/ybouane/how-to-connect-your-etsy-store-to-instagram-and-facebook-shopping-343g)
+- [How to Fix Bash Script Error with Spaces in File Paths?](https://dev.to/generatecodedev/how-to-fix-bash-script-error-with-spaces-in-file-paths-6ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
