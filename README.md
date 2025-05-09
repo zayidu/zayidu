@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voices at the Threshold](https://dev.to/rawveg/voices-at-the-threshold-4ddp)
-- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
-- [Exploring SuperRare’s Integration with Arbitrum: Bridging Digital Art and Next-Generation Blockchain Solutions](https://dev.to/kallileiser/exploring-superrares-integration-with-arbitrum-bridging-digital-art-and-next-generation-333)
-- [How to Sync Git Repository Dependencies Using uv in Python?](https://dev.to/generatecodedev/how-to-sync-git-repository-dependencies-using-uv-in-python-3kc5)
-- [Mastering HTML, CSS &amp; JavaScript: A Web Developer’s Roadmap](https://dev.to/code_2/mastering-html-css-javascript-a-web-developers-roadmap-i9n)
+- [ArabicCalculator.com: نظرة على بناء أدوات ويب موجهة للعالم العربي – تحديات وحلول عملية](https://dev.to/moo_moo_5f1e2b4306785a535/arabiccalculatorcom-nzr-l-bn-dwt-wyb-mwjh-lllm-lrby-thdyt-whlwl-mly-5d8e)
+- [Anticipated Failure Design &lpar;DAF - Diseño Anticipado al Fallo&rpar;](https://dev.to/hajaidom01/anticipated-failure-design-daf-diseno-anticipado-al-fallo-3i02)
+- [Developing 3D Modeling Software for Dentistry: Shaping the Future of Dental Care](https://dev.to/antonshelbi47/developing-3d-modeling-software-for-dentistry-shaping-the-future-of-dental-care-2foc)
+- [Navigating Uncertainty: Effective Risk Management Strategies in Business](https://dev.to/laetitiaperraut/navigating-uncertainty-effective-risk-management-strategies-in-business-46c9)
+- [Hey Guys, I&#39;m new to web development, I&#39;m building my portfolio with react and react router for server side, should I use nextjs instead?](https://dev.to/enrique_b11b7471d91491fcb/hey-guys-im-new-to-web-development-im-building-my-portfolio-with-react-and-react-router-for-1ooo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
