@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Currency of Cyberwar: Understanding TENDER and Its Implications in a New Era of Conflict](https://dev.to/rachellovestowrite/the-currency-of-cyberwar-understanding-tender-and-its-implications-in-a-new-era-of-conflict-90a)
-- [How should AI respond to uncertainty?](https://dev.to/uka_aidev/how-should-ai-respond-to-uncertainty-lli)
-- [Build Dynamic Mock APIs Effortlessly with AutoAPI](https://dev.to/rakeshgombi/build-dynamic-mock-apis-effortlessly-with-autoapi-1l6k)
-- [WeaveDB Litepaper v0.1](https://dev.to/weave_db/weavedb-litepaper-v01-3pah)
-- [What are the 5 types of AI agents?](https://dev.to/louis_elliot_1904d2e7d242/what-are-the-5-types-of-ai-agents-3lb4)
+- [Strategies for Handling Large-Scale Frontend Applications](https://dev.to/hasunnilupul/strategies-for-handling-large-scale-frontend-applications-5ffl)
+- [AWS KMS Customer Managed Key &lpar;CMK&rpar; for DB Integration](https://dev.to/kanishka_halder_247bf1af8/aws-kms-customer-managed-key-cmk-for-db-integration-3fhf)
+- [You Are What You Eat: The Surprising Link Between Diet and Glowing Skin](https://dev.to/isladavid/you-are-what-you-eat-the-surprising-link-between-diet-and-glowing-skin-3hf4)
+- [Scroll Upgrade, ERC-7930 &amp; ERC-7828, Base Stage 1 Decentralization, AA Use Cases by Etherspot, Core Devs Call on Pectra &amp; Fusaka](https://dev.to/etherspot/scroll-upgrade-erc-7930-erc-7828-base-stage-1-decentralization-aa-use-cases-by-etherspot-core-539d)
+- [React Router Basics to Advanced &lpar;v6+&rpar;](https://dev.to/joshi16/react-router-basics-to-advanced-v6-1h9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
