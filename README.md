@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Way to Earn Money in Tech &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/the-fastest-way-to-earn-money-in-tech-master-guide-3a0o)
-- [3 Popular SaaS Growth Tips Worth Questioning](https://dev.to/drew_wilkinson_236161a2f7/3-popular-saas-growth-tips-worth-questioning-15f5)
-- [Introducing BOSE Academy: A Self-Training Platform to Build Your Future in Tech](https://dev.to/hirwa/introducing-bose-academy-a-self-training-platform-to-build-your-future-in-tech-3lei)
-- [How the NEW Temporal API Finally Fixed JavaScript’s 30-Year Time Problem](https://dev.to/arnoldgunter/how-the-new-temporal-api-finally-fixed-javascripts-30-year-time-problem-cgg)
-- [Build an MCP Client in Minutes: Local AI Agents Just Got Real](https://dev.to/jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-4gj6)
+- [How I Built A Secure, Anonymous Feedback Platform From Scratch](https://dev.to/prashantswarop9/how-i-built-a-secure-anonymous-feedback-platform-from-scratch-4pk6)
+- [[Boost]](https://dev.to/thomasbnt/-2275)
+- [Browser Compression Options 2025](https://dev.to/jswhisperer/browser-compression-options-2025-4gc9)
+- [How to Prevent Clang-Format from Merging Struct Declarations?](https://dev.to/generatecodedev/how-to-prevent-clang-format-from-merging-struct-declarations-48p8)
+- [Misguided Prompts and Better Outcomes: Learning by Doing &lpar;Wrong&rpar;](https://dev.to/thutch1976/misguided-prompts-and-better-outcomes-learning-by-doing-wrong-3ijk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
