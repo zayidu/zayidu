@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hallucinations in AI: Scary or not?](https://dev.to/twiddling_thumbs/-4ld0)
-- [Common SSL Issues and How to Resolve Them](https://dev.to/edenallen/common-ssl-issues-and-how-to-resolve-them-52n2)
-- [What a ride as a solo engineer to €1M ARR!](https://dev.to/urbanisierung/what-a-ride-as-a-solo-engineer-to-eu1m-arr-2gi8)
-- [Solana at Web2 Speed: Real-Time Performance Without Fragmentation](https://dev.to/lordghostx/solana-at-web2-speed-real-time-performance-without-fragmentation-3b9p)
-- [Raising Block Limits on Solana: SIMD-0250 and Its Economic Effects](https://dev.to/lordghostx/raising-block-limits-on-solana-simd-0250-and-its-economic-effects-ade)
+- [Trading Competitions: Why Emotional Discipline Matters More Than Strategy](https://dev.to/philip_crypto92/trading-competitions-why-emotional-discipline-matters-more-than-strategy-4i6c)
+- [React or Next.js](https://dev.to/kumar_mrigank_f0a7b50be09/react-or-nextjs-2c19)
+- [Why obsidian wins the second brain war and notion just can’t keep up](https://dev.to/devlinktips/why-obsidian-wins-the-second-brain-war-and-notion-just-cant-keep-up-3p9f)
+- [6 Game-Changing Postman Alternatives That Will Revolutionize Your API Development in 2025](https://dev.to/rihpig/6-game-changing-postman-alternatives-that-will-revolutionize-your-api-development-in-2025-4fll)
+- [Is Next.js falling off? why some devs are bailing, and what they’re building instead](https://dev.to/devlinktips/is-nextjs-falling-off-why-some-devs-are-bailing-and-what-theyre-building-instead-28f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
