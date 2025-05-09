@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate AI Experiment: When LLMs Play the Danganronpa Killing Game &lpar;Part 1&rpar;](https://dev.to/zachary62/the-ultimate-ai-experiment-when-llms-play-the-danganronpa-killing-game-part-1-5dhj)
-- [WebUSB API for Direct USB Communication](https://dev.to/omriluz1/webusb-api-for-direct-usb-communication-4h23)
-- [JavaScript Closures in Action: Solving Fibonacci with Memoization](https://dev.to/tanvir_azad_3449/javascript-closures-in-action-solving-fibonacci-with-memoization-32m8)
-- [Vanilla JS x Bibliotecas/Frameworks](https://dev.to/gabs_xd/vanilla-js-x-bibliotecasframeworks-n9l)
-- [This right here..... keep your AI generated stuff properly validated](https://dev.to/michbarsinai/this-right-here-keep-your-ai-generated-stuff-properly-validated-40ge)
+- [Lessons from Building a Full Invoice App for the Price of a Netflix Subscription](https://dev.to/jaypa/lessons-from-building-a-full-invoice-app-for-the-price-of-a-netflix-subscription-jbb)
+- [The Real Reason Cloud Costs Spike After Deployment &lpar;And How to Stop It&rpar;](https://dev.to/jevin/the-real-reason-cloud-costs-spike-after-deployment-and-how-to-stop-it-20b1)
+- [How to Extract Base64 String Using Perl Regex Pattern?](https://dev.to/generatecodedev/how-to-extract-base64-string-using-perl-regex-pattern-49d5)
+- [Lagoon v2.25: Enhanced Infrastructure Security and Performance Optimization](https://dev.to/laurenhasthree/lagoon-v225-enhanced-infrastructure-security-and-performance-optimization-2681)
+- [Finding the Longest Unique Substring](https://dev.to/tanvir_azad/finding-the-longest-unique-substring-47na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
