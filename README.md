@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Handling Large-Scale Frontend Applications](https://dev.to/hasunnilupul/strategies-for-handling-large-scale-frontend-applications-5ffl)
-- [AWS KMS Customer Managed Key &lpar;CMK&rpar; for DB Integration](https://dev.to/kanishka_halder_247bf1af8/aws-kms-customer-managed-key-cmk-for-db-integration-3fhf)
-- [You Are What You Eat: The Surprising Link Between Diet and Glowing Skin](https://dev.to/isladavid/you-are-what-you-eat-the-surprising-link-between-diet-and-glowing-skin-3hf4)
-- [Scroll Upgrade, ERC-7930 &amp; ERC-7828, Base Stage 1 Decentralization, AA Use Cases by Etherspot, Core Devs Call on Pectra &amp; Fusaka](https://dev.to/etherspot/scroll-upgrade-erc-7930-erc-7828-base-stage-1-decentralization-aa-use-cases-by-etherspot-core-539d)
-- [React Router Basics to Advanced &lpar;v6+&rpar;](https://dev.to/joshi16/react-router-basics-to-advanced-v6-1h9l)
+- [Twitter Polls: Creative Ways to Connect with Your Audience in Real Time](https://dev.to/viparabiansafar/twitter-polls-creative-ways-to-connect-with-your-audience-in-real-time-25dh)
+- [What is JSON?](https://dev.to/selfish_dev/what-is-json-13p9)
+- [Is the database setup for small project development too complicated?](https://dev.to/xianzs/is-the-database-setup-for-small-project-development-too-complicated-3hlm)
+- [Data Structures Tutorial: A Complete Guide for Beginners](https://dev.to/tpointtechadu/data-structures-tutorial-a-complete-guide-for-beginners-575i)
+- [How to Shift Associated Data After Filtering an Array in JavaScript?](https://dev.to/generatecodedev/how-to-shift-associated-data-after-filtering-an-array-in-javascript-3nlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
