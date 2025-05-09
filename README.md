@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are Internal Properties Not Visible in DataGridView in C#?](https://dev.to/generatecodedev/why-are-internal-properties-not-visible-in-datagridview-in-c-3ppk)
-- [Rich Robot Behaviors from Interacting, Trusted LLMs - A Beginner&#39;s Guide](https://dev.to/bobjiang/rich-robot-behaviors-from-interacting-trusted-llms-a-beginners-guide-l40)
-- [Platform Engineering: The Next Evolution of DevOps Teams](https://dev.to/dct_technology/platform-engineering-the-next-evolution-of-devops-teams-5h5f)
-- [Custom Hooks – useKeyPress](https://dev.to/esbanegas/custom-hooks-usekeypress-3d5g)
-- [Can PostgreSQL Be a Search Engine? Yes, You Might Not Need Elasticsearch](https://dev.to/leapcell/can-postgresql-be-a-search-engine-yes-you-might-not-need-elasticsearch-3bi2)
+- [Much required](https://dev.to/nj23/much-required-3544)
+- [Insightful](https://dev.to/nj23/insightful-4pni)
+- [CPP Online Compiler – Compile &amp; Run C++ Code in Your Browser](https://dev.to/tpointtechblog/cpp-online-compiler-compile-run-c-code-in-your-browser-5a1l)
+- [Avoiding Common Pifalls: Deploying Node.js Backend to AWS Lambda with Docker &amp; Serverless on MacOS](https://dev.to/phat_phamdev/avoiding-common-pifalls-deploying-nodejs-backend-to-aws-lambda-with-docker-serverless-on-macos-1jid)
+- [Vidwud: Transforming Visual Creativity with Image to Video AI &lpar;Free &amp; Easy&rpar;](https://dev.to/usman_asghar/vidwud-transforming-visual-creativity-with-image-to-video-ai-free-easy-2k79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
