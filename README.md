@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from Building a Full Invoice App for the Price of a Netflix Subscription](https://dev.to/jaypa/lessons-from-building-a-full-invoice-app-for-the-price-of-a-netflix-subscription-jbb)
-- [The Real Reason Cloud Costs Spike After Deployment &lpar;And How to Stop It&rpar;](https://dev.to/jevin/the-real-reason-cloud-costs-spike-after-deployment-and-how-to-stop-it-20b1)
-- [How to Extract Base64 String Using Perl Regex Pattern?](https://dev.to/generatecodedev/how-to-extract-base64-string-using-perl-regex-pattern-49d5)
-- [Lagoon v2.25: Enhanced Infrastructure Security and Performance Optimization](https://dev.to/laurenhasthree/lagoon-v225-enhanced-infrastructure-security-and-performance-optimization-2681)
-- [Finding the Longest Unique Substring](https://dev.to/tanvir_azad/finding-the-longest-unique-substring-47na)
+- [Abhishek Desikan | Growing as a Software Engineer Means Letting Go of Perfection](https://dev.to/abhishekdesikan/abhishek-desikan-growing-as-a-software-engineer-means-letting-go-of-perfection-2gde)
+- [Building a Book Sharing application with Amazon Q CLI](https://dev.to/aws/building-a-book-sharing-application-with-amazon-q-cli-5dl8)
+- [The Runway Walk: Techniques for High-Fashion and Commercial Modeling](https://dev.to/celebritynews/the-runway-walk-techniques-for-high-fashion-and-commercial-modeling-4dpk)
+- [How to Fix Client ID Assignment Issues in ASP.NET with SQLite](https://dev.to/generatecodedev/how-to-fix-client-id-assignment-issues-in-aspnet-with-sqlite-4bca)
+- [List of all LLM models](https://dev.to/ai-ops/list-of-all-llm-models-2iae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
