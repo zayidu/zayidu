@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Polls: Creative Ways to Connect with Your Audience in Real Time](https://dev.to/viparabiansafar/twitter-polls-creative-ways-to-connect-with-your-audience-in-real-time-25dh)
-- [What is JSON?](https://dev.to/selfish_dev/what-is-json-13p9)
-- [Is the database setup for small project development too complicated?](https://dev.to/xianzs/is-the-database-setup-for-small-project-development-too-complicated-3hlm)
-- [Data Structures Tutorial: A Complete Guide for Beginners](https://dev.to/tpointtechadu/data-structures-tutorial-a-complete-guide-for-beginners-575i)
-- [How to Shift Associated Data After Filtering an Array in JavaScript?](https://dev.to/generatecodedev/how-to-shift-associated-data-after-filtering-an-array-in-javascript-3nlh)
+- [Challenges of WebSocket](https://dev.to/nozibul_islam_113b1d5334f/challenges-of-websocket-53gm)
+- [How to Fix &#39;Unable to Find the Project&#39; Error in C#?](https://dev.to/generatecodedev/how-to-fix-unable-to-find-the-project-error-in-c-5a3p)
+- [Create a Node.js REST API with an OpenAPI description in minutes](https://dev.to/apexjs-org/create-a-nodejs-rest-api-with-an-openapi-description-in-minutes-2k73)
+- [[Boost]](https://dev.to/alex_iscanderov_60b4ea965/-35hk)
+- [Javascript](https://dev.to/balaxjd/javascript-4g6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
