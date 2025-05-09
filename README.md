@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built A Secure, Anonymous Feedback Platform From Scratch](https://dev.to/prashantswarop9/how-i-built-a-secure-anonymous-feedback-platform-from-scratch-4pk6)
-- [[Boost]](https://dev.to/thomasbnt/-2275)
-- [Browser Compression Options 2025](https://dev.to/jswhisperer/browser-compression-options-2025-4gc9)
-- [How to Prevent Clang-Format from Merging Struct Declarations?](https://dev.to/generatecodedev/how-to-prevent-clang-format-from-merging-struct-declarations-48p8)
-- [Misguided Prompts and Better Outcomes: Learning by Doing &lpar;Wrong&rpar;](https://dev.to/thutch1976/misguided-prompts-and-better-outcomes-learning-by-doing-wrong-3ijk)
+- [What is a Large Language Model &lpar;LLM&rpar;? A Comprehensive Guide for Developers](https://dev.to/sudhanshudevelopers/what-is-a-large-language-model-llm-a-comprehensive-guide-for-developers-55en)
+- [PocketBase + React Native](https://dev.to/aaronblondeau/pocketbase-react-native-3c82)
+- [BrogsCursor: Revolutionizing Workflow Automation with Precise Mouse &amp; Keyboard Recording](https://dev.to/gnox79/brogscursor-revolutionizing-workflow-automation-with-precise-mouse-keyboard-recording-40en)
+- [Share markdown: Vibe coding a tweet](https://dev.to/omarnaguib/share-markdown-vibe-coding-a-tweet-3l38)
+- [&quot;Building a Lightweight Blockchain in Go from Scratch&quot;](https://dev.to/sumeet_ingenuity/building-a-lightweight-blockchain-in-go-from-scratch-4i85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
