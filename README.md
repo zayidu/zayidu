@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate Large Files with Ease](https://dev.to/colinreed/how-to-translate-large-files-with-ease-3jbn)
-- [Integration testing tRPC and in memory MySQL database.](https://dev.to/pietro_palmesi_b8b68ba0f6/integration-testing-trpc-and-in-memory-mysql-database-40m6)
-- [Automate Your Terraform Module Updates with Scalr &amp; Dependabot](https://dev.to/sebastian_stadil/automate-your-terraform-module-updates-with-scalr-dependabot-3eea)
-- [Why is it so difficult to paste my markdown code snippets here on Dev.to? This should change so I can write full posts.](https://dev.to/mike_andreuzza/why-is-it-so-difficult-to-paste-my-markdown-code-snippets-here-on-devto-this-should-change-so-i-3dph)
-- [React Dev? Sell Tiny Tech Zines Instead](https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a)
+- [I Just Wanted to Code. Now I&#39;m a CTO](https://dev.to/bobysf12/i-just-wanted-to-code-now-im-a-cto-25jj)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-31ak)
+- [PiGEF: A GPU-accelerated open-source Graphics Extension](https://dev.to/pixloro/pigef-a-gpu-accelerated-open-source-graphics-extension-20p0)
+- [Pope Art, Pop Culture, and AI vs. &quot;Authentic&quot; Artwork](https://dev.to/ingosteinke/pope-art-pop-culture-and-ai-vs-authentic-artwork-6ac)
+- [Mastering Kubernetes Deployments: A Step-by-Step Guide to Managing Containers at Scale](https://dev.to/cliffordisaboke/mastering-kubernetes-deployments-a-step-by-step-guide-to-managing-containers-at-scale-2dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
