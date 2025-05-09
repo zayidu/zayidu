@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Abhishek Desikan | Growing as a Software Engineer Means Letting Go of Perfection](https://dev.to/abhishekdesikan/abhishek-desikan-growing-as-a-software-engineer-means-letting-go-of-perfection-2gde)
-- [Building a Book Sharing application with Amazon Q CLI](https://dev.to/aws/building-a-book-sharing-application-with-amazon-q-cli-5dl8)
-- [The Runway Walk: Techniques for High-Fashion and Commercial Modeling](https://dev.to/celebritynews/the-runway-walk-techniques-for-high-fashion-and-commercial-modeling-4dpk)
-- [How to Fix Client ID Assignment Issues in ASP.NET with SQLite](https://dev.to/generatecodedev/how-to-fix-client-id-assignment-issues-in-aspnet-with-sqlite-4bca)
-- [List of all LLM models](https://dev.to/ai-ops/list-of-all-llm-models-2iae)
+- [AI Unleashed](https://dev.to/rawveg/ai-unleashed-4ic9)
+- [Coding Challenge Practice - Question 5](https://dev.to/tomivan/coding-challenge-practice-question-5-6m1)
+- [How the Childfree Demographic Is Impacting the Real Estate Market](https://dev.to/marketdaily/how-the-childfree-demographic-is-impacting-the-real-estate-market-ll4)
+- [How to Fix Colorization Issues in Dart&#39;s Pathfinding App?](https://dev.to/generatecodedev/how-to-fix-colorization-issues-in-darts-pathfinding-app-24c4)
+- [Building Loopa - Lightweight Team Collaboration Tool](https://dev.to/anwar_sadat/building-loopa-lightweight-team-collaboration-tool-44le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
