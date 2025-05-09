@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond `omitempty`: Understanding `omitzero` in Go 1.24](https://dev.to/leapcell/beyond-omitempty-understanding-omitzero-in-go-124-5dej)
-- [How to Start Foreground Service from BroadcastReceiver in Android 15?](https://dev.to/generatecodedev/how-to-start-foreground-service-from-broadcastreceiver-in-android-15-3ijc)
-- [Burger sticker](https://dev.to/preetha_vaishnavi_2b82358/burger-sticker-16gh)
-- [Open Source Sustainability Initiatives at Deutsche Telekom: Integrating Innovation and Sustainability](https://dev.to/bobcars/open-source-sustainability-initiatives-at-deutsche-telekom-integrating-innovation-and-1gno)
-- [This Week in Cloud: Community Edition](https://dev.to/blkgrlcto/this-week-in-cloud-community-edition-5c0l)
+- [The Ultimate AI Experiment: When LLMs Play the Danganronpa Killing Game &lpar;Part 1&rpar;](https://dev.to/zachary62/the-ultimate-ai-experiment-when-llms-play-the-danganronpa-killing-game-part-1-5dhj)
+- [WebUSB API for Direct USB Communication](https://dev.to/omriluz1/webusb-api-for-direct-usb-communication-4h23)
+- [JavaScript Closures in Action: Solving Fibonacci with Memoization](https://dev.to/tanvir_azad_3449/javascript-closures-in-action-solving-fibonacci-with-memoization-32m8)
+- [Vanilla JS x Bibliotecas/Frameworks](https://dev.to/gabs_xd/vanilla-js-x-bibliotecasframeworks-n9l)
+- [This right here..... keep your AI generated stuff properly validated](https://dev.to/michbarsinai/this-right-here-keep-your-ai-generated-stuff-properly-validated-40ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
