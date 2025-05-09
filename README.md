@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArabicCalculator.com: نظرة على بناء أدوات ويب موجهة للعالم العربي – تحديات وحلول عملية](https://dev.to/moo_moo_5f1e2b4306785a535/arabiccalculatorcom-nzr-l-bn-dwt-wyb-mwjh-lllm-lrby-thdyt-whlwl-mly-5d8e)
-- [Anticipated Failure Design &lpar;DAF - Diseño Anticipado al Fallo&rpar;](https://dev.to/hajaidom01/anticipated-failure-design-daf-diseno-anticipado-al-fallo-3i02)
-- [Developing 3D Modeling Software for Dentistry: Shaping the Future of Dental Care](https://dev.to/antonshelbi47/developing-3d-modeling-software-for-dentistry-shaping-the-future-of-dental-care-2foc)
-- [Navigating Uncertainty: Effective Risk Management Strategies in Business](https://dev.to/laetitiaperraut/navigating-uncertainty-effective-risk-management-strategies-in-business-46c9)
-- [Hey Guys, I&#39;m new to web development, I&#39;m building my portfolio with react and react router for server side, should I use nextjs instead?](https://dev.to/enrique_b11b7471d91491fcb/hey-guys-im-new-to-web-development-im-building-my-portfolio-with-react-and-react-router-for-1ooo)
+- [How to Fix &#39;Undefined Symbols for Architecture arm64&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-undefined-symbols-for-architecture-arm64-in-flutter-b18)
+- [Linux para Principiantes: Cómo Elegir tu Primera Distribución sin Morir en el Intento](https://dev.to/sergiocredo49/linux-para-principiantes-como-elegir-tu-primera-distribucion-sin-morir-en-el-intento-476j)
+- [5 Distribuciones de Linux Ideales para Programadores en 2025: Velocidad, Estabilidad y Personalización](https://dev.to/sergiocredo49/5-distribuciones-de-linux-ideales-para-programadores-en-2025-velocidad-estabilidad-y-1bei)
+- [GSoC 2025 Projects Announced](https://dev.to/stdlib/gsoc-2025-projects-announced-53al)
+- [Designing Data Models That Work for Both PostgreSQL and ClickHouse: A Developer’s Guide](https://dev.to/siraj_syed_a122e4986ce967/designing-data-models-that-work-for-both-postgresql-and-clickhouse-a-developers-guide-3e4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
