@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trading Competitions: Why Emotional Discipline Matters More Than Strategy](https://dev.to/philip_crypto92/trading-competitions-why-emotional-discipline-matters-more-than-strategy-4i6c)
-- [React or Next.js](https://dev.to/kumar_mrigank_f0a7b50be09/react-or-nextjs-2c19)
-- [Why obsidian wins the second brain war and notion just can’t keep up](https://dev.to/devlinktips/why-obsidian-wins-the-second-brain-war-and-notion-just-cant-keep-up-3p9f)
-- [6 Game-Changing Postman Alternatives That Will Revolutionize Your API Development in 2025](https://dev.to/rihpig/6-game-changing-postman-alternatives-that-will-revolutionize-your-api-development-in-2025-4fll)
-- [Is Next.js falling off? why some devs are bailing, and what they’re building instead](https://dev.to/devlinktips/is-nextjs-falling-off-why-some-devs-are-bailing-and-what-theyre-building-instead-28f9)
+- [The Currency of Cyberwar: Understanding TENDER and Its Implications in a New Era of Conflict](https://dev.to/rachellovestowrite/the-currency-of-cyberwar-understanding-tender-and-its-implications-in-a-new-era-of-conflict-90a)
+- [How should AI respond to uncertainty?](https://dev.to/uka_aidev/how-should-ai-respond-to-uncertainty-lli)
+- [Build Dynamic Mock APIs Effortlessly with AutoAPI](https://dev.to/rakeshgombi/build-dynamic-mock-apis-effortlessly-with-autoapi-1l6k)
+- [WeaveDB Litepaper v0.1](https://dev.to/weave_db/weavedb-litepaper-v01-3pah)
+- [What are the 5 types of AI agents?](https://dev.to/louis_elliot_1904d2e7d242/what-are-the-5-types-of-ai-agents-3lb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
