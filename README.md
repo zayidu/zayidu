@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I discovered an interesting JSON tool.](https://dev.to/bimohxh/i-discovered-an-interesting-json-tool-2bbb)
-- [Challenges in Android Application Testing and How to Overcome Them](https://dev.to/misterankit/challenges-in-android-application-testing-and-how-to-overcome-them-57nj)
-- [Setting Up Tailwind CSS v4 in SvelteKit: The Vite Plugin Way &lpar;A Guide Based on Real Issues&rpar;](https://dev.to/fedor-pasynkov/setting-up-tailwind-css-v4-in-sveltekit-the-vite-plugin-way-a-guide-based-on-real-issues-380n)
-- [How To Connect Your Etsy Store To Instagram And Facebook Shopping](https://dev.to/ybouane/how-to-connect-your-etsy-store-to-instagram-and-facebook-shopping-343g)
-- [How to Fix Bash Script Error with Spaces in File Paths?](https://dev.to/generatecodedev/how-to-fix-bash-script-error-with-spaces-in-file-paths-6ng)
+- [Why Are Internal Properties Not Visible in DataGridView in C#?](https://dev.to/generatecodedev/why-are-internal-properties-not-visible-in-datagridview-in-c-3ppk)
+- [Rich Robot Behaviors from Interacting, Trusted LLMs - A Beginner&#39;s Guide](https://dev.to/bobjiang/rich-robot-behaviors-from-interacting-trusted-llms-a-beginners-guide-l40)
+- [Platform Engineering: The Next Evolution of DevOps Teams](https://dev.to/dct_technology/platform-engineering-the-next-evolution-of-devops-teams-5h5f)
+- [Custom Hooks – useKeyPress](https://dev.to/esbanegas/custom-hooks-usekeypress-3d5g)
+- [Can PostgreSQL Be a Search Engine? Yes, You Might Not Need Elasticsearch](https://dev.to/leapcell/can-postgresql-be-a-search-engine-yes-you-might-not-need-elasticsearch-3bi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
