@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Much required](https://dev.to/nj23/much-required-3544)
-- [Insightful](https://dev.to/nj23/insightful-4pni)
-- [CPP Online Compiler – Compile &amp; Run C++ Code in Your Browser](https://dev.to/tpointtechblog/cpp-online-compiler-compile-run-c-code-in-your-browser-5a1l)
-- [Avoiding Common Pifalls: Deploying Node.js Backend to AWS Lambda with Docker &amp; Serverless on MacOS](https://dev.to/phat_phamdev/avoiding-common-pifalls-deploying-nodejs-backend-to-aws-lambda-with-docker-serverless-on-macos-1jid)
-- [Vidwud: Transforming Visual Creativity with Image to Video AI &lpar;Free &amp; Easy&rpar;](https://dev.to/usman_asghar/vidwud-transforming-visual-creativity-with-image-to-video-ai-free-easy-2k79)
+- [Hallucinations in AI: Scary or not?](https://dev.to/twiddling_thumbs/-4ld0)
+- [Common SSL Issues and How to Resolve Them](https://dev.to/edenallen/common-ssl-issues-and-how-to-resolve-them-52n2)
+- [What a ride as a solo engineer to €1M ARR!](https://dev.to/urbanisierung/what-a-ride-as-a-solo-engineer-to-eu1m-arr-2gi8)
+- [Solana at Web2 Speed: Real-Time Performance Without Fragmentation](https://dev.to/lordghostx/solana-at-web2-speed-real-time-performance-without-fragmentation-3b9p)
+- [Raising Block Limits on Solana: SIMD-0250 and Its Economic Effects](https://dev.to/lordghostx/raising-block-limits-on-solana-simd-0250-and-its-economic-effects-ade)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
