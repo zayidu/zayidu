@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Just Wanted to Code. Now I&#39;m a CTO](https://dev.to/bobysf12/i-just-wanted-to-code-now-im-a-cto-25jj)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-31ak)
-- [PiGEF: A GPU-accelerated open-source Graphics Extension](https://dev.to/pixloro/pigef-a-gpu-accelerated-open-source-graphics-extension-20p0)
-- [Pope Art, Pop Culture, and AI vs. &quot;Authentic&quot; Artwork](https://dev.to/ingosteinke/pope-art-pop-culture-and-ai-vs-authentic-artwork-6ac)
-- [Mastering Kubernetes Deployments: A Step-by-Step Guide to Managing Containers at Scale](https://dev.to/cliffordisaboke/mastering-kubernetes-deployments-a-step-by-step-guide-to-managing-containers-at-scale-2dg)
+- [The Fastest Way to Earn Money in Tech &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/the-fastest-way-to-earn-money-in-tech-master-guide-3a0o)
+- [3 Popular SaaS Growth Tips Worth Questioning](https://dev.to/drew_wilkinson_236161a2f7/3-popular-saas-growth-tips-worth-questioning-15f5)
+- [Introducing BOSE Academy: A Self-Training Platform to Build Your Future in Tech](https://dev.to/hirwa/introducing-bose-academy-a-self-training-platform-to-build-your-future-in-tech-3lei)
+- [How the NEW Temporal API Finally Fixed JavaScript’s 30-Year Time Problem](https://dev.to/arnoldgunter/how-the-new-temporal-api-finally-fixed-javascripts-30-year-time-problem-cgg)
+- [Build an MCP Client in Minutes: Local AI Agents Just Got Real](https://dev.to/jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-4gj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
