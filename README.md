@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Helpful to Hilariously Wrong: Inside LLM Hallucinations](https://dev.to/rijultp/from-helpful-to-hilariously-wrong-inside-llm-hallucinations-38cm)
-- [Web Cache Deception Attacks](https://dev.to/blue_byte/web-cache-deception-attacks-7a0)
-- [🧠 Which tech career should you choose? This uses Amazon Q CLI to help you decide](https://dev.to/alejahenaoe/which-tech-career-should-you-choose-this-uses-amazon-q-cli-to-help-you-decide-2ohf)
-- [Escaping the DOM with React Portals: Practical UI Rendering Techniques](https://dev.to/fasil_zaman_11ff4fc835fdd/escaping-the-dom-with-react-portals-practical-ui-rendering-techniques-c23)
-- [This is your go to guide for S3! Want to connect with me on LinkedIn? Here you go. http://linkedin.com/in/phanikumarkolla](https://dev.to/pkkolla/this-is-your-go-to-guide-for-s3-want-to-connect-with-me-on-linkedin-here-you-go-2eb1)
+- [Beyond `omitempty`: Understanding `omitzero` in Go 1.24](https://dev.to/leapcell/beyond-omitempty-understanding-omitzero-in-go-124-5dej)
+- [How to Start Foreground Service from BroadcastReceiver in Android 15?](https://dev.to/generatecodedev/how-to-start-foreground-service-from-broadcastreceiver-in-android-15-3ijc)
+- [Burger sticker](https://dev.to/preetha_vaishnavi_2b82358/burger-sticker-16gh)
+- [Open Source Sustainability Initiatives at Deutsche Telekom: Integrating Innovation and Sustainability](https://dev.to/bobcars/open-source-sustainability-initiatives-at-deutsche-telekom-integrating-innovation-and-1gno)
+- [This Week in Cloud: Community Edition](https://dev.to/blkgrlcto/this-week-in-cloud-community-edition-5c0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
