@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Large Language Model &lpar;LLM&rpar;? A Comprehensive Guide for Developers](https://dev.to/sudhanshudevelopers/what-is-a-large-language-model-llm-a-comprehensive-guide-for-developers-55en)
-- [PocketBase + React Native](https://dev.to/aaronblondeau/pocketbase-react-native-3c82)
-- [BrogsCursor: Revolutionizing Workflow Automation with Precise Mouse &amp; Keyboard Recording](https://dev.to/gnox79/brogscursor-revolutionizing-workflow-automation-with-precise-mouse-keyboard-recording-40en)
-- [Share markdown: Vibe coding a tweet](https://dev.to/omarnaguib/share-markdown-vibe-coding-a-tweet-3l38)
-- [&quot;Building a Lightweight Blockchain in Go from Scratch&quot;](https://dev.to/sumeet_ingenuity/building-a-lightweight-blockchain-in-go-from-scratch-4i85)
+- [From Helpful to Hilariously Wrong: Inside LLM Hallucinations](https://dev.to/rijultp/from-helpful-to-hilariously-wrong-inside-llm-hallucinations-38cm)
+- [Web Cache Deception Attacks](https://dev.to/blue_byte/web-cache-deception-attacks-7a0)
+- [🧠 Which tech career should you choose? This uses Amazon Q CLI to help you decide](https://dev.to/alejahenaoe/which-tech-career-should-you-choose-this-uses-amazon-q-cli-to-help-you-decide-2ohf)
+- [Escaping the DOM with React Portals: Practical UI Rendering Techniques](https://dev.to/fasil_zaman_11ff4fc835fdd/escaping-the-dom-with-react-portals-practical-ui-rendering-techniques-c23)
+- [This is your go to guide for S3! Want to connect with me on LinkedIn? Here you go. http://linkedin.com/in/phanikumarkolla](https://dev.to/pkkolla/this-is-your-go-to-guide-for-s3-want-to-connect-with-me-on-linkedin-here-you-go-2eb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
