@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web MIDI API for Musical Instrument Interaction](https://dev.to/omriluz1/web-midi-api-for-musical-instrument-interaction-309g)
-- [Web is still too complex for autonomous AI agents](https://dev.to/kamilms21/web-is-still-too-complex-for-autonomous-ai-agents-3986)
-- [Crushing the Command Line: Automating Email Reading with Python &amp; Amazon Q Developer](https://dev.to/hanan_/crushing-the-command-line-automating-email-reading-with-python-amazon-q-developer-kj6)
-- [LoggerHelper](https://dev.to/alessandro_chiodo_d820969/loggerhelper-77j)
-- [How to Add TypeScript Types in Vite Library Mode](https://dev.to/generatecodedev/how-to-add-typescript-types-in-vite-library-mode-3803)
+- [Solving &quot;SDK &#39;Microsoft.NET.Sdk&#39; Not Found&quot; Error in Visual Studio](https://dev.to/blackscripts/solving-sdk-microsoftnetsdk-not-found-error-in-visual-studio-1i9n)
+- [How to Call gRPC Methods Dynamically in Go](https://dev.to/dmo2000/how-to-call-grpc-methods-dynamically-in-go-2h7f)
+- [Hello there! I am new to the digital space and I want to learn as much as I can in web development and web designing. Any guidance, please? I would highly appreciate it. &lpar;chatgpt told me to do this&rpar; :&rpar;](https://dev.to/jomare_cloete_a22e24c447/hello-there-i-am-new-to-the-digital-space-and-i-want-to-learn-as-much-as-i-can-in-web-development-pb1)
+- [🧠 I Wrote JavaScript That Edits Itself — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-wrote-javascript-that-edits-itself-heres-how-and-why-14hp)
+- [Why does Bash not continue to the next iteration as expected?](https://dev.to/generatecodedev/why-does-bash-not-continue-to-the-next-iteration-as-expected-43c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
