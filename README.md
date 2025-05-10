@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux System Hardening: Essential Security Practices for Servers](https://dev.to/caffinecoder54/linux-system-hardening-essential-security-practices-for-servers-5e49)
-- [Announcing: Cerious Grid - A High-Performance Angular Grid, Open Source and Ready to Launch](https://dev.to/ryoucerious/announcing-cerious-grid-a-high-performance-angular-grid-open-source-and-ready-to-launch-5bf1)
-- [How to Create a Clickable Dropdown Menu with CSS and JavaScript](https://dev.to/chrys/how-to-create-a-clickable-dropdown-menu-with-css-and-javascript-ki0)
-- [SAP, Blockchain, and Open Source Licensing: A Convergence for Innovation and Compliance](https://dev.to/bobcars/sap-blockchain-and-open-source-licensing-a-convergence-for-innovation-and-compliance-4o6d)
-- [Mastering CMake: A Practical Guide for DevOps Engineers and Developers](https://dev.to/vishnutejas/mastering-cmake-a-practical-guide-for-devops-engineers-and-developers-35eg)
+- [Exploring Compile-Time Programming in Zig: Practical Examples and Use Cases](https://dev.to/hexshift/exploring-compile-time-programming-in-zig-practical-examples-and-use-cases-f4f)
+- [Understanding `build.zig`: A Practical Introduction to Zig&#39;s Build System](https://dev.to/hexshift/understanding-buildzig-a-practical-introduction-to-zigs-build-system-6gh)
+- [How to Store Data in a Dart Class Using Maps Correctly?](https://dev.to/generatecodedev/how-to-store-data-in-a-dart-class-using-maps-correctly-35ek)
+- [Empowering Agentic AI: The Symbiotic Power of Microsoft Fabric and Azure AI Foundry](https://dev.to/umeshtharukaofficial/empowering-agentic-ai-the-symbiotic-power-of-microsoft-fabric-and-azure-ai-foundry-1hdb)
+- [A Beginner&#39;s Guide to Enums and Error Sets in Zig](https://dev.to/hexshift/a-beginners-guide-to-enums-and-error-sets-in-zig-2d44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
