@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying and Exposing Go Apps with Kubernetes Ingress, Part 2](https://dev.to/olymahmud/deploying-and-exposing-go-apps-with-kubernetes-ingress-part-2-2232)
-- [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
-- [Trying to Build in Public — But Reddit Keeps Silencing Me](https://dev.to/barret_kc/trying-to-build-in-public-but-reddit-keeps-silencing-me-24p4)
-- [Audio Steganography, Faster and Friendlier: My Dive into Spectrogram](https://dev.to/vishwaksen1/audio-steganography-faster-and-friendlier-my-dive-into-spectrogram-1i0l)
-- [What are the Syntax Issues in My SQL Recursive Query?](https://dev.to/generatecodedev/what-are-the-syntax-issues-in-my-sql-recursive-query-262b)
+- [Truthy and Falsy in JS: What Every Developer Should Know](https://dev.to/abuhorairatarif/truthy-and-falsy-in-js-what-every-developer-should-know-3c59)
+- [Unlocking Innovation: How the AI Code Generator is Transforming Software Development in 2025](https://dev.to/atforeveryoung/unlocking-innovation-how-the-ai-code-generator-is-transforming-software-development-in-2025-3l9n)
+- [10 Core Docker Topics You Can’t Ignore Before Going Live](https://dev.to/mayankcse/10-core-docker-topics-you-cant-ignore-before-going-live-7ad)
+- [Become a Part of My ML Journey : From Bangladesh](https://dev.to/ridwanahmed002/become-a-part-of-my-ml-journey-from-bangladesh-2l4o)
+- [How to Use Excel WEEKNUM Function?](https://dev.to/excel24x7/how-to-use-excel-weeknum-function-2jbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
