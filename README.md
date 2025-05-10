@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing QitOps: A Unified CLI for API, Performance, and Security Testing](https://dev.to/qitops/introducing-qitops-a-unified-cli-for-api-performance-and-security-testing-pal)
-- [Sustainable Funding for Open Source: Navigating Challenges and Emerging Innovations](https://dev.to/ahmmrizv9/sustainable-funding-for-open-source-navigating-challenges-and-emerging-innovations-f5e)
-- [Agents Autonomes pour la Surveillance Web en Temps Réel](https://dev.to/yvon_d7f43/agents-autonomes-pour-la-surveillance-web-en-temps-reel-3n23)
-- [From Paperwork to Performance: Why HR Systems Matter More Than Ever](https://dev.to/bhavesh_gangani_/from-paperwork-to-performance-why-hr-systems-matter-more-than-ever-2358)
-- [&quot;Retro Revival: Coding the 90s with Amazon Q Developer](https://dev.to/nivethavelu_063f1d9ce64f2/retro-revival-coding-the-90s-with-amazon-q-developer-2k0c)
+- [🕸️ Web Dev Demystified: From HTML He**ck** to AI Magic &lpar;No, Really!&rpar;](https://dev.to/itsaryanchauhan/web-dev-demystified-from-html-heck-to-ai-magic-no-really-21oh)
+- [A Mathematical World based retro game built entirely by AI #AIDLC](https://dev.to/shakunth_5_4_0_1/a-mathematical-based-retro-game-built-entirely-by-ai-aidlc-1h9i)
+- [ShaderToy: Rainbow Zappers](https://dev.to/preetha_vaishnavi_2b82358/shadertoy-rainbow-zappers-523a)
+- [We started to developing a new video game,](https://dev.to/team_realize/we-started-to-developing-a-new-video-game-4g4o)
+- [Ai Interaction Visualizer &lpar;AIIV&rpar; ✨ &lpar;CSS&rpar;](https://dev.to/preetha_vaishnavi_2b82358/ai-interaction-visualizer-aiiv-css-3b18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
