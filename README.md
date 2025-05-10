@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Compiler is now in RC! No more manual memoization — just write React, and the compiler optimizes it for you. Still experimental, but a big leap forward. 🔗 https://react.dev/blog/2025/04/21/react-compiler-rc #react #javascript #webdev](https://dev.to/dzienisz/react-compiler-is-now-in-rc-no-more-manual-memoization-just-write-react-and-the-compiler-1inm)
-- [Implementing a Scalable Filtering and Segmentation Panel for Large-Scale MongoDB Database](https://dev.to/devaaai/implementing-a-scalable-filtering-and-segmentation-panel-for-large-scale-mongodb-database-37fh)
-- [How to Add Custom Fields to HubSpot Forms with ClickPatrol?](https://dev.to/generatecodedev/how-to-add-custom-fields-to-hubspot-forms-with-clickpatrol-145i)
-- [Essential Collaboration Tools for Remote Development Teams](https://dev.to/jetthoughts/essential-collaboration-tools-for-remote-development-teams-2n8f)
-- [Getting Started with Unreal Engine Game Development: My Journey and Insights](https://dev.to/winterturtle23/getting-started-with-unreal-engine-game-development-my-journey-and-insights-5gl4)
+- [Web MIDI API for Musical Instrument Interaction](https://dev.to/omriluz1/web-midi-api-for-musical-instrument-interaction-309g)
+- [Web is still too complex for autonomous AI agents](https://dev.to/kamilms21/web-is-still-too-complex-for-autonomous-ai-agents-3986)
+- [Crushing the Command Line: Automating Email Reading with Python &amp; Amazon Q Developer](https://dev.to/hanan_/crushing-the-command-line-automating-email-reading-with-python-amazon-q-developer-kj6)
+- [LoggerHelper](https://dev.to/alessandro_chiodo_d820969/loggerhelper-77j)
+- [How to Add TypeScript Types in Vite Library Mode](https://dev.to/generatecodedev/how-to-add-typescript-types-in-vite-library-mode-3803)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
