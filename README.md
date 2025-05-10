@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DOOM...*rendered* using a single DIV and CSS! 🤯🔫💥](https://dev.to/grahamthedev/doomrendered-using-a-single-div-and-css-1fal)
-- [Serial API for Low-Level Device Communication](https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh)
-- [Unhandled Runtime Error ChunkLoadError](https://dev.to/hack3rcon/unhandled-runtime-error-chunkloaderror-3hjp)
-- [Getting Started with Content Automation Workflow Pro: The Ultimate Guide to AI-Powered Content Generation](https://dev.to/allanninal/getting-started-with-content-automation-workflow-pro-the-ultimate-guide-to-ai-powered-content-l7)
-- [Secure by design in Python: A FastAPI app with 5 DevSecOps tools and a real time SSTI vulnerability remediation](https://dev.to/trottomv/secure-by-design-in-python-a-fastapi-app-with-5-devsecops-tools-and-a-real-time-ssti-vulnerability-2e6n)
+- [Building Legal AI Tools: Challenges Developers Need to Know Before Writing a Single Line of Code](https://dev.to/__c1eb674788c/building-legal-ai-tools-challenges-developers-need-to-know-before-writing-a-single-line-of-code-4j38)
+- [Understanding Computers: A Beginner’s Guide to Digital Brains](https://dev.to/tpointtechblog/understanding-computers-a-beginners-guide-to-digital-brains-2b2b)
+- [Mastering Azure Load Balancers: Your Step-by-Step Journey to Efficient Traffic Management](https://dev.to/aneneemmanuel_1/mastering-azure-load-balancers-your-step-by-step-journey-to-efficient-traffic-management-143k)
+- [Does Junie Create Accessible Android Apps?](https://dev.to/eevajonnapanula/does-junie-create-accessible-android-apps-48kf)
+- [Ship Faster: 64 Notion Templates for Next Startup Goals](https://dev.to/abubakersiddique761/youre-wasting-time-without-these-64-notion-templates-101l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
