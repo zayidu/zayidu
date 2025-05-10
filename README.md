@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Unleashed](https://dev.to/rawveg/ai-unleashed-4ic9)
-- [Coding Challenge Practice - Question 5](https://dev.to/tomivan/coding-challenge-practice-question-5-6m1)
-- [How the Childfree Demographic Is Impacting the Real Estate Market](https://dev.to/marketdaily/how-the-childfree-demographic-is-impacting-the-real-estate-market-ll4)
-- [How to Fix Colorization Issues in Dart&#39;s Pathfinding App?](https://dev.to/generatecodedev/how-to-fix-colorization-issues-in-darts-pathfinding-app-24c4)
-- [Building Loopa - Lightweight Team Collaboration Tool](https://dev.to/anwar_sadat/building-loopa-lightweight-team-collaboration-tool-44le)
+- [How to Extract Values from XML in SQL Server without Errors](https://dev.to/generatecodedev/how-to-extract-values-from-xml-in-sql-server-without-errors-n2e)
+- [How to Fix Text Rendering Issues in SVG Files](https://dev.to/generatecodedev/how-to-fix-text-rendering-issues-in-svg-files-2d6g)
+- [🔍 DSA Interview Q&amp;A – Day 1: Arrays vs Linked Lists](https://dev.to/seonglinchua/dsa-interview-qa-day-1-arrays-vs-linked-lists-54a9)
+- [How to Fix Memory Leakage in Vue.js API Fetching?](https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0)
+- [[Boost]](https://dev.to/florencia_tisera/-gji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
