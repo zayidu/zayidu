@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕸️ Web Dev Demystified: From HTML He**ck** to AI Magic &lpar;No, Really!&rpar;](https://dev.to/itsaryanchauhan/web-dev-demystified-from-html-heck-to-ai-magic-no-really-21oh)
-- [A Mathematical World based retro game built entirely by AI #AIDLC](https://dev.to/shakunth_5_4_0_1/a-mathematical-based-retro-game-built-entirely-by-ai-aidlc-1h9i)
-- [ShaderToy: Rainbow Zappers](https://dev.to/preetha_vaishnavi_2b82358/shadertoy-rainbow-zappers-523a)
-- [We started to developing a new video game,](https://dev.to/team_realize/we-started-to-developing-a-new-video-game-4g4o)
-- [Ai Interaction Visualizer &lpar;AIIV&rpar; ✨ &lpar;CSS&rpar;](https://dev.to/preetha_vaishnavi_2b82358/ai-interaction-visualizer-aiiv-css-3b18)
+- [The only 7 Projects That Makes You Better at Docker](https://dev.to/thecloudarchitect/the-only-7-projects-that-makes-you-better-at-docker-3625)
+- [🚀 Como Configurar o Java 8 no IntelliJ IDEA — Guia Completo com Imagens](https://dev.to/klebes/como-configurar-o-java-8-no-intellij-idea-guia-completo-com-imagens-3go4)
+- [Local PDF Parsing with AWS Textract &amp; Python &lpar;Part 1&rpar;](https://dev.to/aws-builders/local-pdf-parsing-with-aws-textract-python-part-1-2iei)
+- [Building a Reusable Table Component in Angular](https://dev.to/kapilkumar0037/building-a-reusable-table-component-in-angular-2c7a)
+- [Exploring GitHub Sponsors: Global Impact and Future Funding Innovations](https://dev.to/bobcars/exploring-github-sponsors-global-impact-and-future-funding-innovations-apk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
