@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Departments and Users in C# EF Core](https://dev.to/generatecodedev/how-to-manage-departments-and-users-in-c-ef-core-23n6)
-- [How to Use Libuv In Your Zig Project](https://dev.to/pmbanugo/how-to-use-libuv-in-your-zig-project-4ije)
-- [When cert-manager meets Essendi XC](https://dev.to/angeloxx/when-cert-manager-meets-essendi-xc-27ni)
-- [How to Update a Progress Bar in MantineReactTable using WebSocket?](https://dev.to/generatecodedev/how-to-update-a-progress-bar-in-mantinereacttable-using-websocket-4nm2)
-- [Day 2 - Get Registered Users/ Logged-in User](https://dev.to/anwar_sadat/day-2-building-loopa-app-jjp)
+- [Creating an FAQ Page Without JavaScript](https://dev.to/elanatframework/creating-an-faq-page-without-javascript-4dmj)
+- [How to Implement a Nested Search-Select Component in JavaScript](https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0)
+- [🦆 Quack Docs — AI-Powered Code Documentation From Your CLI](https://dev.to/wesleybertipaglia/quack-docs-ai-powered-code-documentation-from-your-cli-47ii)
+- [C4 Modelizer – draw your C4 architecture in minutes!](https://dev.to/eth3rnit3/c4-modelizer-draw-your-c4-architecture-in-minutes-4pf)
+- [What is the Difference Between UDF and Vector UDF in Spark 3?](https://dev.to/generatecodedev/what-is-the-difference-between-udf-and-vector-udf-in-spark-3-28lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
