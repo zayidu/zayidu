@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying AI: A No-Nonsense Guide for Developers](https://dev.to/ibne_sabidsaikat_1443282/demystifying-ai-a-no-nonsense-guide-for-developers-3d6n)
-- [DocQA: Japanese Document Question Answering Dataset for Generative Language Models](https://dev.to/sweet_mouth/jmmmu-nn3)
-- [How to Manage Flutter Versions with FVM for Older Projects?](https://dev.to/generatecodedev/how-to-manage-flutter-versions-with-fvm-for-older-projects-oh0)
-- [Source Filmmaker for Programmers: Tips to Maximize Efficiency](https://dev.to/ray_parker01/source-filmmaker-for-programmers-tips-to-maximize-efficiency-2569)
-- [🧠🥷Docker MCP Toolkit and Dokcer MCP Catalog &lpar;How to use MCP secure and easy &lpar;Cline and Cursor&rpar;&rpar;🛡️](https://dev.to/webdeveloperhyper/docker-mcp-toolkit-and-dokcer-mcp-catalog-how-to-use-mcp-secure-and-easy-cline-and-cursor-4jeb)
+- [Project made with latest Angular 19 features](https://dev.to/anubedam/project-made-with-latest-angular-19-features-48op)
+- [Building &lpar;PWAs&rpar; with Vue.js &amp; Ionic](https://dev.to/dct_technology/building-pwas-with-vuejs-ionic-1li1)
+- [Code Whisperer Time Machine](https://dev.to/zareen/code-whisperer-time-machine-143b)
+- [How to Implement Instance Counters with Class-Level Variables in Ruby?](https://dev.to/generatecodedev/how-to-implement-instance-counters-with-class-level-variables-in-ruby-187m)
+- [◼️1/100 Block-by-Block: Learning Resources](https://dev.to/nocibambi/1100-block-by-block-learning-resources-2598)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
