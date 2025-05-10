@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Was My Therapist: How I Finally Mastered APIs by Talking to Them Directly](https://dev.to/arbythecoder/postman-was-my-therapist-how-i-finally-mastered-apis-by-talking-to-them-directly-2309)
-- [Kaltrinkeda e os Novos Avanços.](https://dev.to/notmadebyahuman/kaltrinkeda-e-os-novos-avancos-57l)
-- [Kaltrinkeda and the New Advances](https://dev.to/notmadebyahuman_english/kaltrinkeda-and-the-new-advances-o8k)
-- [Solving The Big IAM Challenge](https://dev.to/aws-builders/solving-the-big-iam-challenge-39ho)
-- [Building &quot;Production-Grade&quot; APIs in .NET: Part 1 - Design Clean and Intuitive APIs](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-part-1-design-clean-and-intuitive-apis-87g)
+- [Setting Up SSL on AWS Elastic Beanstalk Single Instances](https://dev.to/habil/setting-up-ssl-on-aws-elastic-beanstalk-single-instances-3hkl)
+- [Dissecting the IEX Cloud Closure: Retrospection &amp; Outlook](https://dev.to/eva_87b1a75318574919fe929/dissecting-the-iex-cloud-closure-retrospection-outlook-1751)
+- [How to Write Better Prompts: A Simple 3-Part Formula](https://dev.to/rijultp/how-to-write-better-prompts-a-simple-3-part-formula-37cn)
+- [Contributing to Elixir Documentation: A Step-by-Step Guide](https://dev.to/abreujp/contributing-to-elixir-documentation-a-step-by-step-guide-222g)
+- [A2A Protocol Implementation](https://dev.to/heetvekariya/a2a-protocol-implementation-5b2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
