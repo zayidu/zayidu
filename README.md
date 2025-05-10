@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Compile-Time Programming in Zig: Practical Examples and Use Cases](https://dev.to/hexshift/exploring-compile-time-programming-in-zig-practical-examples-and-use-cases-f4f)
-- [Understanding `build.zig`: A Practical Introduction to Zig&#39;s Build System](https://dev.to/hexshift/understanding-buildzig-a-practical-introduction-to-zigs-build-system-6gh)
-- [How to Store Data in a Dart Class Using Maps Correctly?](https://dev.to/generatecodedev/how-to-store-data-in-a-dart-class-using-maps-correctly-35ek)
-- [Empowering Agentic AI: The Symbiotic Power of Microsoft Fabric and Azure AI Foundry](https://dev.to/umeshtharukaofficial/empowering-agentic-ai-the-symbiotic-power-of-microsoft-fabric-and-azure-ai-foundry-1hdb)
-- [A Beginner&#39;s Guide to Enums and Error Sets in Zig](https://dev.to/hexshift/a-beginners-guide-to-enums-and-error-sets-in-zig-2d44)
+- [Demystifying AI: A No-Nonsense Guide for Developers](https://dev.to/ibne_sabidsaikat_1443282/demystifying-ai-a-no-nonsense-guide-for-developers-3d6n)
+- [DocQA: Japanese Document Question Answering Dataset for Generative Language Models](https://dev.to/sweet_mouth/jmmmu-nn3)
+- [How to Manage Flutter Versions with FVM for Older Projects?](https://dev.to/generatecodedev/how-to-manage-flutter-versions-with-fvm-for-older-projects-oh0)
+- [Source Filmmaker for Programmers: Tips to Maximize Efficiency](https://dev.to/ray_parker01/source-filmmaker-for-programmers-tips-to-maximize-efficiency-2569)
+- [🧠🥷Docker MCP Toolkit and Dokcer MCP Catalog &lpar;How to use MCP secure and easy &lpar;Cline and Cursor&rpar;&rpar;🛡️](https://dev.to/webdeveloperhyper/docker-mcp-toolkit-and-dokcer-mcp-catalog-how-to-use-mcp-secure-and-easy-cline-and-cursor-4jeb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
