@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up SSL on AWS Elastic Beanstalk Single Instances](https://dev.to/habil/setting-up-ssl-on-aws-elastic-beanstalk-single-instances-3hkl)
-- [Dissecting the IEX Cloud Closure: Retrospection &amp; Outlook](https://dev.to/eva_87b1a75318574919fe929/dissecting-the-iex-cloud-closure-retrospection-outlook-1751)
-- [How to Write Better Prompts: A Simple 3-Part Formula](https://dev.to/rijultp/how-to-write-better-prompts-a-simple-3-part-formula-37cn)
-- [Contributing to Elixir Documentation: A Step-by-Step Guide](https://dev.to/abreujp/contributing-to-elixir-documentation-a-step-by-step-guide-222g)
-- [A2A Protocol Implementation](https://dev.to/heetvekariya/a2a-protocol-implementation-5b2m)
+- [🚀 React Compiler is now in RC! No more manual memoization — just write React, and the compiler optimizes it for you. Still experimental, but a big leap forward. 🔗 https://react.dev/blog/2025/04/21/react-compiler-rc #react #javascript #webdev](https://dev.to/dzienisz/react-compiler-is-now-in-rc-no-more-manual-memoization-just-write-react-and-the-compiler-1inm)
+- [Implementing a Scalable Filtering and Segmentation Panel for Large-Scale MongoDB Database](https://dev.to/devaaai/implementing-a-scalable-filtering-and-segmentation-panel-for-large-scale-mongodb-database-37fh)
+- [How to Add Custom Fields to HubSpot Forms with ClickPatrol?](https://dev.to/generatecodedev/how-to-add-custom-fields-to-hubspot-forms-with-clickpatrol-145i)
+- [Essential Collaboration Tools for Remote Development Teams](https://dev.to/jetthoughts/essential-collaboration-tools-for-remote-development-teams-2n8f)
+- [Getting Started with Unreal Engine Game Development: My Journey and Insights](https://dev.to/winterturtle23/getting-started-with-unreal-engine-game-development-my-journey-and-insights-5gl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
