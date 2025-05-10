@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project made with latest Angular 19 features](https://dev.to/anubedam/project-made-with-latest-angular-19-features-48op)
-- [Building &lpar;PWAs&rpar; with Vue.js &amp; Ionic](https://dev.to/dct_technology/building-pwas-with-vuejs-ionic-1li1)
-- [Code Whisperer Time Machine](https://dev.to/zareen/code-whisperer-time-machine-143b)
-- [How to Implement Instance Counters with Class-Level Variables in Ruby?](https://dev.to/generatecodedev/how-to-implement-instance-counters-with-class-level-variables-in-ruby-187m)
-- [◼️1/100 Block-by-Block: Learning Resources](https://dev.to/nocibambi/1100-block-by-block-learning-resources-2598)
+- [DOOM...*rendered* using a single DIV and CSS! 🤯🔫💥](https://dev.to/grahamthedev/doomrendered-using-a-single-div-and-css-1fal)
+- [Serial API for Low-Level Device Communication](https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh)
+- [Unhandled Runtime Error ChunkLoadError](https://dev.to/hack3rcon/unhandled-runtime-error-chunkloaderror-3hjp)
+- [Getting Started with Content Automation Workflow Pro: The Ultimate Guide to AI-Powered Content Generation](https://dev.to/allanninal/getting-started-with-content-automation-workflow-pro-the-ultimate-guide-to-ai-powered-content-l7)
+- [Secure by design in Python: A FastAPI app with 5 DevSecOps tools and a real time SSTI vulnerability remediation](https://dev.to/trottomv/secure-by-design-in-python-a-fastapi-app-with-5-devsecops-tools-and-a-real-time-ssti-vulnerability-2e6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
