@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Extract Values from XML in SQL Server without Errors](https://dev.to/generatecodedev/how-to-extract-values-from-xml-in-sql-server-without-errors-n2e)
-- [How to Fix Text Rendering Issues in SVG Files](https://dev.to/generatecodedev/how-to-fix-text-rendering-issues-in-svg-files-2d6g)
-- [🔍 DSA Interview Q&amp;A – Day 1: Arrays vs Linked Lists](https://dev.to/seonglinchua/dsa-interview-qa-day-1-arrays-vs-linked-lists-54a9)
-- [How to Fix Memory Leakage in Vue.js API Fetching?](https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0)
-- [[Boost]](https://dev.to/florencia_tisera/-gji)
+- [Open Source Project Sponsorship Platforms: Empowering Innovation](https://dev.to/ahmmrizv9/open-source-project-sponsorship-platforms-empowering-innovation-14oc)
+- [How to Fix Image Loading Issues in Flutter with YouTube Thumbnails?](https://dev.to/generatecodedev/how-to-fix-image-loading-issues-in-flutter-with-youtube-thumbnails-3nc7)
+- [Understanding Future and Stream in Dart](https://dev.to/vlopess/understanding-future-and-stream-in-dart-1246)
+- [Arbitrum and Its Impact on Ethereum: A Deep Dive](https://dev.to/jennythomas498/arbitrum-and-its-impact-on-ethereum-a-deep-dive-3d6j)
+- [How to Capture Redirect Query Parameters in Nginx with Lua?](https://dev.to/generatecodedev/how-to-capture-redirect-query-parameters-in-nginx-with-lua-4o98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
