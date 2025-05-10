@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A Secure AI App Store: The Future of Privacy and Innovation](https://dev.to/jetthoughts/building-a-secure-ai-app-store-the-future-of-privacy-and-innovation-3jmi)
-- [Rust or Zig: The Battle for the Future of Systems Programming](https://dev.to/code_area_9036c9663233d92/rust-or-zig-the-battle-for-the-future-of-systems-programming-18oi)
-- [Two Worlds, One Goal: Creating Balance.](https://dev.to/dhis_is_jj/two-worlds-one-goal-creating-balance-1ckk)
-- [The Ultimate 5-Step Guide: Mastering Ethical Hacking Techniques for Security](https://dev.to/wininlife_academy_14d5cee/the-ultimate-5-step-guide-mastering-ethical-hacking-techniques-for-security-4gcf)
-- [Stop Wasting Dev Time on UI Tweaks – Baloon.dev Just Got Smarter &lpar;And It’s Going Open Source&rpar;](https://dev.to/ankurpata/stop-wasting-dev-time-on-ui-tweaks-baloondev-just-got-smarter-and-its-going-open-source-5db6)
+- [Introducing QitOps: A Unified CLI for API, Performance, and Security Testing](https://dev.to/qitops/introducing-qitops-a-unified-cli-for-api-performance-and-security-testing-pal)
+- [Sustainable Funding for Open Source: Navigating Challenges and Emerging Innovations](https://dev.to/ahmmrizv9/sustainable-funding-for-open-source-navigating-challenges-and-emerging-innovations-f5e)
+- [Agents Autonomes pour la Surveillance Web en Temps Réel](https://dev.to/yvon_d7f43/agents-autonomes-pour-la-surveillance-web-en-temps-reel-3n23)
+- [From Paperwork to Performance: Why HR Systems Matter More Than Ever](https://dev.to/bhavesh_gangani_/from-paperwork-to-performance-why-hr-systems-matter-more-than-ever-2358)
+- [&quot;Retro Revival: Coding the 90s with Amazon Q Developer](https://dev.to/nivethavelu_063f1d9ce64f2/retro-revival-coding-the-90s-with-amazon-q-developer-2k0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
