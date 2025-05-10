@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The only 7 Projects That Makes You Better at Docker](https://dev.to/thecloudarchitect/the-only-7-projects-that-makes-you-better-at-docker-3625)
-- [🚀 Como Configurar o Java 8 no IntelliJ IDEA — Guia Completo com Imagens](https://dev.to/klebes/como-configurar-o-java-8-no-intellij-idea-guia-completo-com-imagens-3go4)
-- [Local PDF Parsing with AWS Textract &amp; Python &lpar;Part 1&rpar;](https://dev.to/aws-builders/local-pdf-parsing-with-aws-textract-python-part-1-2iei)
-- [Building a Reusable Table Component in Angular](https://dev.to/kapilkumar0037/building-a-reusable-table-component-in-angular-2c7a)
-- [Exploring GitHub Sponsors: Global Impact and Future Funding Innovations](https://dev.to/bobcars/exploring-github-sponsors-global-impact-and-future-funding-innovations-apk)
+- [Amazon RDS Unlocked: Your Ultimate Guide to Managed Databases in AWS &lpar;2025 Edition&rpar;](https://dev.to/pkkolla/amazon-rds-unlocked-your-ultimate-guide-to-managed-databases-in-aws-2025-edition-4cbk)
+- [Laravel 12 API Integration with Sanctum: Step-by-Step Guide](https://dev.to/mamondev193/laravel-12-api-integration-with-sanctum-step-by-step-guide-2hio)
+- [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
+- [🚀 Faster EC2 Launches: Amazon EBS Adds Provisioned Rate for Volume Initialization](https://dev.to/latchudevops/faster-ec2-launches-amazon-ebs-adds-provisioned-rate-for-volume-initialization-331g)
+- [just got the two year badge, thanks dev.to :&rpar;](https://dev.to/kurealnum/just-got-the-two-year-badge-thanks-devto--2kbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
