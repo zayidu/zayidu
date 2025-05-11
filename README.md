@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building KARL-AI](https://dev.to/theaniketraj/building-karl-ai-23dg)
-- [MonsterJS v4 has landed – and it’s hungry.](https://dev.to/schukai/monsterjs-v4-has-landed-and-its-hungry-2aej)
-- [The Evolution of the Phrase “Click Here”: From Web Staple to Obsolete](https://dev.to/sameer_ansari_0c9d968cf9c/the-evolution-of-the-phrase-click-here-from-web-staple-to-obsolete-40el)
-- [Writing a Personal Brand Statement That Makes You Irresistible as a Developer](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-a-personal-brand-statement-that-makes-you-irresistible-as-a-developer-31pa)
-- [Concurrency in Go](https://dev.to/iamismile/-2i3g)
+- [The Psychology of Having Conversations with AI: Are We Bonding?](https://dev.to/carl_tyson/the-psychology-of-having-conversations-with-ai-are-we-bonding-4hnd)
+- [🐍 Mastering Python Virtual Environments: A Practical Guide for Developers](https://dev.to/ashokagr/mastering-python-virtual-environments-a-practical-guide-for-developers-3489)
+- [My Photo Gallery](https://dev.to/praveen_rajtg_fd95510c8/my-photo-gallery-55bm)
+- [What is redis pipeline](https://dev.to/ankitmalikg/what-is-redis-pipeline-11ab)
+- [Two of My Favorite Custom MCP Tools I Use Every Day](https://dev.to/fullstackchris/two-of-my-favorite-custom-mcp-tools-i-use-every-day-5abk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
