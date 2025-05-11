@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro Bliss: How I Built a Procedural Arcade Driver with a Little Help from Amazon Q](https://dev.to/makendrang/retro-bliss-how-i-built-a-procedural-arcade-driver-with-a-little-help-from-amazon-q-51g0)
-- [Mastering TypeScript: Union Types &amp; Type Aliases Explained](https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f)
-- [What is EOS-Java? Exploring Open Source Funding, MIT Licensing, and the Blockchain Ecosystem](https://dev.to/laetitiaperraut/what-is-eos-java-exploring-open-source-funding-mit-licensing-and-the-blockchain-ecosystem-4n6d)
-- [📱Tech News to Your Ears: WhatsApp Voice Notes Powered by Python, AWS &amp; Twilio🧠🎙️](https://dev.to/yugesh_a_003/tech-news-to-your-ears-whatsapp-voice-notes-powered-by-python-aws-twilio-1834)
-- [How to Implement Google Sign-In with Credential Manager in Android?](https://dev.to/generatecodedev/how-to-implement-google-sign-in-with-credential-manager-in-android-2jg8)
+- [RetroMix DJ: An AI-Enhanced Digital Mixing Experience](https://dev.to/adonaitechnologies/retromix-dj-an-ai-enhanced-digital-mixing-experience-3bil)
+- [Advancements in Software Engineering: Safety, Sustainability, and AI Integration in Contemporary Research](https://dev.to/khanali21/advancements-in-software-engineering-safety-sustainability-and-ai-integration-in-contemporary-1k1i)
+- [Virtualization | Hypervisor | Containerization](https://dev.to/omkarsharma2821/virtualization-hypervisor-containerization-2den)
+- [Deep Dive: The Architecture &amp; Science Behind HubbleQuiz — A 10-Minute Career Debugger](https://dev.to/juanmera01/deep-dive-the-architecture-science-behind-hubblequiz-a-10-minute-career-debugger-58g5)
+- [PokéSeek – A Pokémon Info Guessing Game!](https://dev.to/raiplus/pokeseek-a-pokemon-info-guessing-game-5gn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
