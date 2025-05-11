@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google A2A Protocol with Selenium: Revolutionizing Web Automation](https://dev.to/vishalmysore/google-a2a-protocol-with-selenium-revolutionizing-web-automation-3dn4)
-- [7 Years in Web Development: Key Lessons I’ve Learned](https://dev.to/riyaz7us/7-years-in-web-development-key-lessons-ive-learned-3k4o)
-- [How to Write a Cover Letter – Do Recruiters Actually Read Cover Letters Anymore?](https://dev.to/beingwizard/how-to-write-a-cover-letter-do-recruiters-actually-read-cover-letters-anymore-o4e)
-- [How to Generate an Android App Release for Play Store in Flutter](https://dev.to/generatecodedev/how-to-generate-an-android-app-release-for-play-store-in-flutter-4hej)
-- [How to Improve Performance of FluentUI People Picker with Photos?](https://dev.to/generatecodedev/how-to-improve-performance-of-fluentui-people-picker-with-photos-2im0)
+- [FastAPI: 5 Dicas Cruciais para Turbinar a Performance da sua API Python](https://dev.to/gustavogarciapereira/fastapi-5-dicas-cruciais-para-turbinar-a-performance-da-sua-api-python-4l1k)
+- [Building Tools for ANT National Transit Authority Matrícula Data](https://dev.to/johnsmith6/building-tools-for-ant-national-transit-authority-matricula-data-45ne)
+- [Secure, Swift, and Smart: A Basic Guide to Building AI Agentic Workflows with Local Models](https://dev.to/maverick_tr/secure-swift-and-smart-a-basic-guide-to-building-ai-agentic-workflows-with-local-models-58lo)
+- [How to Fix Cursor Movement Issues in Angular Quill Editor](https://dev.to/generatecodedev/how-to-fix-cursor-movement-issues-in-angular-quill-editor-1adk)
+- [The Design of Trust, or How a Game Designer Manipulates .](https://dev.to/nickkeepkind/the-design-of-trust-or-how-a-game-designer-manipulates--mnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
