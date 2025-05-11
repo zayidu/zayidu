@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Set Up Prometheus and Grafana Monitoring on AKS from Scratch](https://dev.to/bharathi1588/how-i-set-up-prometheus-and-grafana-monitoring-on-aks-from-scratch-5330)
-- [Harnessing DeepWiki: A Developer&#39;s Guide to Smarter Code Exploration 🧠](https://dev.to/rishabh-hub/harnessing-deepwiki-a-developers-guide-to-smarter-code-exploration-30dd)
-- [🧑‍💻Mental Health Tracker: Powered by Amazon Q Developer](https://dev.to/ameena_babu_d3ce63e22ae0b/mental-health-tracker-powered-by-amazon-q-developer-3jhl)
-- [Why AI Should Assist, Not Replace — A Human-Centered Future for Productivity](https://dev.to/quiccledaily/why-ai-should-assist-not-replace-a-human-centered-future-for-productivity-32p6)
-- [How to Perform Row-Wise Aggregation in DuckDB Using SQL?](https://dev.to/generatecodedev/how-to-perform-row-wise-aggregation-in-duckdb-using-sql-2hhb)
+- [Mental Models for Vector Dimensions](https://dev.to/thatechmaestro/mental-models-for-vector-dimensions-18nc)
+- [Building an Enterprise-Grade AWS CI/CD Pipeline with Terraform](https://dev.to/aws-builders/building-an-enterprise-grade-aws-cicd-pipeline-with-terraform-3fg3)
+- [Software Test Case Techniques](https://dev.to/basil_hameed/software-test-case-techniques-4g6j)
+- [🤖 Could AI Conflict with Humans? A Developer&#39;s Perspective](https://dev.to/_fad6082b049cbc4f01c3d/could-ai-conflict-with-humans-a-developers-perspective-43)
+- [How to Implement Validation Logic in C# Using Method References](https://dev.to/generatecodedev/how-to-implement-validation-logic-in-c-using-method-references-3l31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
