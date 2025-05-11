@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Powering Innovation The Future of Hysteresis Brakes Dynamometers and Motor Testing Systems](https://dev.to/baysweets93/powering-innovation-the-future-of-hysteresis-brakes-dynamometers-and-motor-testing-systems-bpf)
-- [I Taught Python to Write Fanfiction Using Reddit Comments and It Got Weird Fast](https://dev.to/0x3d_site/i-taught-python-to-write-fanfiction-using-reddit-comments-and-it-got-weird-fast-4oll)
-- [Whispers of Infinity: A Journey into the Heart of Prime Numbers](https://dev.to/anxiel_world_28c50ad32379/whispers-of-infinity-a-journey-into-the-heart-of-prime-numbers-516p)
-- [🌟 Persist your data with PV and PVC 🌟](https://dev.to/anil_kumar_ff4f6ad3549983/persist-your-data-with-pv-and-pvc-4pf8)
-- [GIT AND GITHUB](https://dev.to/iniobong_ema_92e60ed18028/git-and-github-2a6e)
+- [HarmonyOS Next billion-level IoT connection middle platform—from compilation optimization to distributed runtime](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-billion-level-iot-connection-middle-platform-from-compilation-optimization-to-24gg)
+- [Hedera Examples Java: Open Source Funding, Community &amp; Blockchain Innovations](https://dev.to/kallileiser/hedera-examples-java-open-source-funding-community-blockchain-innovations-3658)
+- [HarmonyOS Next Financial-Level Distributed Transaction Framework—The Art of High Concurrency and Security](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-financial-level-distributed-transaction-framework-the-art-of-high-concurrency-and-35ai)
+- [HarmonyOS Next Distributed 3D Rendering Engine—From Memory Management to Cross-device Collaboration](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-distributed-3d-rendering-engine-from-memory-management-to-cross-device-collaboration-3hp3)
+- [HarmonyOS Next Distributed Runtime Revealing—Seamless Synergy across Devices](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-distributed-runtime-revealing-seamless-synergy-across-devices-5440)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
