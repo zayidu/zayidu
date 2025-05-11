@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Pixels Never Ghost: The Rise of AI Companions in 2024](https://dev.to/jajaji/when-pixels-never-ghost-the-rise-of-ai-companions-in-2024-3eh7)
-- [Vibe Game Engine: The Road to AI-Editable Game Dev 🚀](https://dev.to/pashaigood/vibe-game-engine-the-road-to-ai-editable-game-dev-5ag)
-- [When They Ghost, AI Doesn&#39;t: The Future of Digital Companionship](https://dev.to/grant_evans/when-they-ghost-ai-doesnt-the-future-of-digital-companionship-286)
-- [10 Django Packages You Should Be Using in 2025 &lpar;But Probably Aren’t&rpar;](https://dev.to/code_2/10-django-packages-you-should-be-using-in-2025-but-probably-arent-1d4g)
-- [The Ultimate Guide to Flutter Lists with Bloc : Part 3](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-3-599e)
+- [Barrelize: Automate Your JavaScript Imports Like a Pro](https://dev.to/nizami/barrelize-automate-your-javascript-imports-like-a-pro-4oa8)
+- [Why is the Output Order Reversed in My Hello World Driver?](https://dev.to/generatecodedev/why-is-the-output-order-reversed-in-my-hello-world-driver-1aoh)
+- [Weekly Dev Log #2: Sound, Effects &amp; Debugging Adventures — Junior Programmer Pathway](https://dev.to/cansucreates/weekly-dev-log-2-sound-effects-debugging-adventures-junior-programmer-pathway-d8f)
+- [Building an Effective Dev Team: Strategies for Success in Software Development](https://dev.to/jetthoughts/building-an-effective-dev-team-strategies-for-success-in-software-development-2fbk)
+- [Unlocking Efficiency: Discover the Best Dev Tools for 2025](https://dev.to/jetthoughts/unlocking-efficiency-discover-the-best-dev-tools-for-2025-41cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
