@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next billion-level IoT connection middle platform—from compilation optimization to distributed runtime](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-billion-level-iot-connection-middle-platform-from-compilation-optimization-to-24gg)
-- [Hedera Examples Java: Open Source Funding, Community &amp; Blockchain Innovations](https://dev.to/kallileiser/hedera-examples-java-open-source-funding-community-blockchain-innovations-3658)
-- [HarmonyOS Next Financial-Level Distributed Transaction Framework—The Art of High Concurrency and Security](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-financial-level-distributed-transaction-framework-the-art-of-high-concurrency-and-35ai)
-- [HarmonyOS Next Distributed 3D Rendering Engine—From Memory Management to Cross-device Collaboration](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-distributed-3d-rendering-engine-from-memory-management-to-cross-device-collaboration-3hp3)
-- [HarmonyOS Next Distributed Runtime Revealing—Seamless Synergy across Devices](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-distributed-runtime-revealing-seamless-synergy-across-devices-5440)
+- [How to Crack Technical Interviews &lpar;Without Crying&rpar;: A Beginner-Friendly, No-Nonsense Guide for 2025](https://dev.to/piyush_sati_0409/how-to-crack-technical-interviews-without-crying-a-beginner-friendly-no-nonsense-guide-for-2025-2pp)
+- [Is create-react-app Deprecated? What You Need to Know in 2025](https://dev.to/chaitanyarai3/is-create-react-app-deprecated-what-you-need-to-know-in-2025-21om)
+- [How to Read Data from PostgreSQL with Diesel in Rust?](https://dev.to/generatecodedev/how-to-read-data-from-postgresql-with-diesel-in-rust-32fi)
+- [DeepLearning4j Blockchain Integration: Convergence of AI, Blockchain, and Open Source Funding](https://dev.to/rachellovestowrite/deeplearning4j-blockchain-integration-convergence-of-ai-blockchain-and-open-source-funding-18m)
+- [Best GitHub Repositories for Programmers](https://dev.to/ilham-bouk/best-github-repositories-for-programmers-586l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
