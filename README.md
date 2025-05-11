@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Crack Technical Interviews &lpar;Without Crying&rpar;: A Beginner-Friendly, No-Nonsense Guide for 2025](https://dev.to/piyush_sati_0409/how-to-crack-technical-interviews-without-crying-a-beginner-friendly-no-nonsense-guide-for-2025-2pp)
-- [Is create-react-app Deprecated? What You Need to Know in 2025](https://dev.to/chaitanyarai3/is-create-react-app-deprecated-what-you-need-to-know-in-2025-21om)
-- [How to Read Data from PostgreSQL with Diesel in Rust?](https://dev.to/generatecodedev/how-to-read-data-from-postgresql-with-diesel-in-rust-32fi)
-- [DeepLearning4j Blockchain Integration: Convergence of AI, Blockchain, and Open Source Funding](https://dev.to/rachellovestowrite/deeplearning4j-blockchain-integration-convergence-of-ai-blockchain-and-open-source-funding-18m)
-- [Best GitHub Repositories for Programmers](https://dev.to/ilham-bouk/best-github-repositories-for-programmers-586l)
+- [Kubernetes Architecture: Breaking It Down](https://dev.to/mayankcse/kubernetes-architecture-breaking-it-down-428n)
+- [Node.js 24 is here, VS Code now has better OpenAI and Anthropic support, a new JavaScript load testing tool, and more](https://dev.to/thisweekinjavascript/nodejs-24-is-here-vs-code-now-has-better-openai-and-anthropic-support-a-new-javascript-load-bp2)
+- [Kubernetes Pod Scheduling: Optimizing Workload Placement for Performance and Efficiency](https://dev.to/kapusto/kubernetes-pod-scheduling-optimizing-workload-placement-for-performance-and-efficiency-h44)
+- [Why Developers Are Choosing Tortoise ORM as Python’s Modern ORM](https://dev.to/leapcell/why-developers-are-choosing-tortoise-orm-as-pythons-modern-orm-4cd0)
+- [Kubernetes: The Backbone of Modern Cloud-Native Applications](https://dev.to/mayankcse/kubernetes-the-backbone-of-modern-cloud-native-applications-37ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
