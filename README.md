@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript + Rust: All You Need in 2025](https://dev.to/criscmd/typescript-rust-all-you-need-in-2025-3dic)
-- [HarmonyOS NEXT Development Case: Counter Application](https://dev.to/zhongcx/harmonyos-next-development-case-counter-application-4bj3)
-- [Why I&#39;m Transitioning to DevOps/SRE: Building My Career in Public](https://dev.to/joshuamichaelhall/why-im-transitioning-to-devopssre-building-my-career-in-public-2ao4)
-- [Don’t Use SQL If Your Client Doesn’t Know What They Want](https://dev.to/criscmd/dont-use-sql-if-your-client-doesnt-know-what-they-want-2hhm)
-- [HarmonyOS NEXT Development Case: Age Calculator](https://dev.to/zhongcx/harmonyos-next-development-case-age-calculator-26a8)
+- [HarmonyOS NEXT Development Case: Emoticon Searcher](https://dev.to/zhongcx/harmonyos-next-development-case-emoticon-searcher-2pi9)
+- [HarmonyOS NEXT Development Case: World Clock Application](https://dev.to/zhongcx/harmonyos-next-development-case-world-clock-application-3ojf)
+- [🚀 Hello World, But Make It Existential 🧠](https://dev.to/codestory__/hello-world-but-make-it-existential-2g73)
+- [HarmonyOS NEXT Development Case: Expiry Date Calculator](https://dev.to/zhongcx/harmonyos-next-development-case-expiry-date-calculator-7o4)
+- [HarmonyOS NEXT Development Case: Randomized 9-Cell Grid](https://dev.to/zhongcx/harmonyos-next-development-case-randomized-9-cell-grid-3ip2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
