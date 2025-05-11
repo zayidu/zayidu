@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Companions: The Future of Relationships in a Digital World](https://dev.to/ali_pahlavan/ai-companions-the-future-of-relationships-in-a-digital-world-48i3)
-- [9 tricks that separate a pro Typescript developer from an noob 😎](https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd)
-- [&lt;h1&gt;Just how to Get an Original Spanish Vehicle driver&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/mouseland69/just-how-to-get-an-original-spanish-vehicle-drivers-license-in-2025-2en0)
-- [Build a game Under an Hour with SplashKit](https://dev.to/movini/build-a-game-under-an-hour-with-splashkit-1j57)
-- [&lt;h1&gt;Exactly how to Obtain an Original Spanish Chauffeur&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/orangecheese7/exactly-how-to-obtain-an-original-spanish-chauffeurs-license-in-2025-p5m)
+- [🤔 Confused between @Bean and @Component in Spring Boot?](https://dev.to/matin676/confused-between-bean-and-component-in-spring-boot-34if)
+- [Backend Development isn&#39;t just about learning the basic or advanced topics, you need to learn how it works in the real-life scenario. Don&#39;t just go after theory or copying projects, go in the DEPTH!](https://dev.to/ishika_26/backend-development-isnt-just-about-learning-the-basic-or-advanced-topics-you-need-to-learn-how-2mf9)
+- [How to Create Custom Validation Rules in Laravel 12](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-create-custom-validation-rules-in-laravel-12-mh3)
+- [Understanding the `btop` Command in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/understanding-the-btop-command-in-red-hat-linux-5f57)
+- [The Rise of AI Companions in a World of Ghosting](https://dev.to/carl_tyson/the-rise-of-ai-companions-in-a-world-of-ghosting-1o74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
