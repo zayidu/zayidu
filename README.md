@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Architecture: Breaking It Down](https://dev.to/mayankcse/kubernetes-architecture-breaking-it-down-428n)
-- [Node.js 24 is here, VS Code now has better OpenAI and Anthropic support, a new JavaScript load testing tool, and more](https://dev.to/thisweekinjavascript/nodejs-24-is-here-vs-code-now-has-better-openai-and-anthropic-support-a-new-javascript-load-bp2)
-- [Kubernetes Pod Scheduling: Optimizing Workload Placement for Performance and Efficiency](https://dev.to/kapusto/kubernetes-pod-scheduling-optimizing-workload-placement-for-performance-and-efficiency-h44)
-- [Why Developers Are Choosing Tortoise ORM as Python’s Modern ORM](https://dev.to/leapcell/why-developers-are-choosing-tortoise-orm-as-pythons-modern-orm-4cd0)
-- [Kubernetes: The Backbone of Modern Cloud-Native Applications](https://dev.to/mayankcse/kubernetes-the-backbone-of-modern-cloud-native-applications-37ne)
+- [Google A2A Protocol with Selenium: Revolutionizing Web Automation](https://dev.to/vishalmysore/google-a2a-protocol-with-selenium-revolutionizing-web-automation-3dn4)
+- [7 Years in Web Development: Key Lessons I’ve Learned](https://dev.to/riyaz7us/7-years-in-web-development-key-lessons-ive-learned-3k4o)
+- [How to Write a Cover Letter – Do Recruiters Actually Read Cover Letters Anymore?](https://dev.to/beingwizard/how-to-write-a-cover-letter-do-recruiters-actually-read-cover-letters-anymore-o4e)
+- [How to Generate an Android App Release for Play Store in Flutter](https://dev.to/generatecodedev/how-to-generate-an-android-app-release-for-play-store-in-flutter-4hej)
+- [How to Improve Performance of FluentUI People Picker with Photos?](https://dev.to/generatecodedev/how-to-improve-performance-of-fluentui-people-picker-with-photos-2im0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
