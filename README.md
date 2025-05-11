@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI: 5 Dicas Cruciais para Turbinar a Performance da sua API Python](https://dev.to/gustavogarciapereira/fastapi-5-dicas-cruciais-para-turbinar-a-performance-da-sua-api-python-4l1k)
-- [Building Tools for ANT National Transit Authority Matrícula Data](https://dev.to/johnsmith6/building-tools-for-ant-national-transit-authority-matricula-data-45ne)
-- [Secure, Swift, and Smart: A Basic Guide to Building AI Agentic Workflows with Local Models](https://dev.to/maverick_tr/secure-swift-and-smart-a-basic-guide-to-building-ai-agentic-workflows-with-local-models-58lo)
-- [How to Fix Cursor Movement Issues in Angular Quill Editor](https://dev.to/generatecodedev/how-to-fix-cursor-movement-issues-in-angular-quill-editor-1adk)
-- [The Design of Trust, or How a Game Designer Manipulates .](https://dev.to/nickkeepkind/the-design-of-trust-or-how-a-game-designer-manipulates--mnp)
+- [When Pixels Never Ghost: The Rise of AI Companions in 2024](https://dev.to/jajaji/when-pixels-never-ghost-the-rise-of-ai-companions-in-2024-3eh7)
+- [Vibe Game Engine: The Road to AI-Editable Game Dev 🚀](https://dev.to/pashaigood/vibe-game-engine-the-road-to-ai-editable-game-dev-5ag)
+- [When They Ghost, AI Doesn&#39;t: The Future of Digital Companionship](https://dev.to/grant_evans/when-they-ghost-ai-doesnt-the-future-of-digital-companionship-286)
+- [10 Django Packages You Should Be Using in 2025 &lpar;But Probably Aren’t&rpar;](https://dev.to/code_2/10-django-packages-you-should-be-using-in-2025-but-probably-arent-1d4g)
+- [The Ultimate Guide to Flutter Lists with Bloc : Part 3](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-3-599e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
