@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an FAQ Page Without JavaScript](https://dev.to/elanatframework/creating-an-faq-page-without-javascript-4dmj)
-- [How to Implement a Nested Search-Select Component in JavaScript](https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0)
-- [🦆 Quack Docs — AI-Powered Code Documentation From Your CLI](https://dev.to/wesleybertipaglia/quack-docs-ai-powered-code-documentation-from-your-cli-47ii)
-- [C4 Modelizer – draw your C4 architecture in minutes!](https://dev.to/eth3rnit3/c4-modelizer-draw-your-c4-architecture-in-minutes-4pf)
-- [What is the Difference Between UDF and Vector UDF in Spark 3?](https://dev.to/generatecodedev/what-is-the-difference-between-udf-and-vector-udf-in-spark-3-28lm)
+- [Frontend Derinlemesine: Modern Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontend-derinlemesine-modern-yaklasimlar-2l03)
+- [HarmonyOS NEXT Development Case Study: Whac-A-Mole Game](https://dev.to/zhongcx/harmonyos-next-development-case-study-whac-a-mole-game-539p)
+- [HarmonyOS NEXT Development Case: 24-Point Calculation Game](https://dev.to/zhongcx/harmonyos-next-development-case-24-point-calculation-game-1k4f)
+- [Weekly #19-2025: Google’s AI Search, Redis Reborn, WhatsApp at 3B, Meta’s ChatGPT Rival, Astro 5.7 &amp; More!](https://dev.to/weekly/weekly-19-2025-googles-ai-search-redis-reborn-whatsapp-at-3b-metas-chatgpt-rival-astro-57-266m)
+- [HarmonyOS NEXT Development Case: Garbage Classification](https://dev.to/zhongcx/harmonyos-next-development-case-garbage-classification-2b0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
