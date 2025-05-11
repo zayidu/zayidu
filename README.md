@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RetroMix DJ: An AI-Enhanced Digital Mixing Experience](https://dev.to/adonaitechnologies/retromix-dj-an-ai-enhanced-digital-mixing-experience-3bil)
-- [Advancements in Software Engineering: Safety, Sustainability, and AI Integration in Contemporary Research](https://dev.to/khanali21/advancements-in-software-engineering-safety-sustainability-and-ai-integration-in-contemporary-1k1i)
-- [Virtualization | Hypervisor | Containerization](https://dev.to/omkarsharma2821/virtualization-hypervisor-containerization-2den)
-- [Deep Dive: The Architecture &amp; Science Behind HubbleQuiz — A 10-Minute Career Debugger](https://dev.to/juanmera01/deep-dive-the-architecture-science-behind-hubblequiz-a-10-minute-career-debugger-58g5)
-- [PokéSeek – A Pokémon Info Guessing Game!](https://dev.to/raiplus/pokeseek-a-pokemon-info-guessing-game-5gn2)
+- [Building KARL-AI](https://dev.to/theaniketraj/building-karl-ai-23dg)
+- [MonsterJS v4 has landed – and it’s hungry.](https://dev.to/schukai/monsterjs-v4-has-landed-and-its-hungry-2aej)
+- [The Evolution of the Phrase “Click Here”: From Web Staple to Obsolete](https://dev.to/sameer_ansari_0c9d968cf9c/the-evolution-of-the-phrase-click-here-from-web-staple-to-obsolete-40el)
+- [Writing a Personal Brand Statement That Makes You Irresistible as a Developer](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-a-personal-brand-statement-that-makes-you-irresistible-as-a-developer-31pa)
+- [Concurrency in Go](https://dev.to/iamismile/-2i3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
