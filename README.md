@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Agnostic](https://dev.to/m__mdy__m/framework-agnostic-37og)
-- [Introduction à OpenTofu pour les utilisateurs Terraform](https://dev.to/laformulenuagique/introduction-a-opentofu-pour-les-utilisateurs-terraform-4e9l)
-- [💸 A Definite Guide to Develop Production Grade Applications with AWS Q Developer in 2025 [Video Demo Included] 🎥](https://dev.to/mohamednizzad/a-definite-guide-to-develop-production-grade-applications-with-aws-q-developer-in-2025-video-3690)
-- [How to Install NVIDIA Parakeet TDT 0.6B V2 Locally?](https://dev.to/nodeshiftcloud/how-to-install-nvidia-parakeet-tdt-06b-v2-locally-36ck)
-- [How to Export a Swift Package as an XCFramework](https://dev.to/generatecodedev/how-to-export-a-swift-package-as-an-xcframework-2k87)
+- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
+- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
+- [How to Send Traces Using Scala and OpenTelemetry](https://dev.to/generatecodedev/how-to-send-traces-using-scala-and-opentelemetry-4ll3)
+- [Capstone process outline](https://dev.to/donnellycarroll/capstone-process-outline-42mg)
+- [How to Accurately Position Image Parts Using CSS and JavaScript?](https://dev.to/generatecodedev/how-to-accurately-position-image-parts-using-css-and-javascript-4hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
