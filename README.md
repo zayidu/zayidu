@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Design Patterns](https://dev.to/godofgeeks/javascript-design-patterns-4ci5)
-- [My Second Month as an LFX Mentee: Advancing Microcks Deployments](https://dev.to/alikhere/my-second-month-as-an-lfx-mentee-advancing-microcks-deployments-bp1)
-- [From Curiosity to Code — My Self-Taught Dev Journey](https://dev.to/sayyed_rabeeh/from-curiosity-to-code-my-self-taught-dev-journey-46d9)
-- [The Angular Learning Curve in 2025: A Roadmap for New Developers](https://dev.to/karol_modelski/the-angular-learning-curve-in-2025-a-roadmap-for-new-developers-e0o)
-- [💪 SweatSpace: Powered by Amazon Q Developer](https://dev.to/mngayathri_prasad_648bb/sweatspace-powered-by-amazon-q-developer-58jg)
+- [Retro Bliss: How I Built a Procedural Arcade Driver with a Little Help from Amazon Q](https://dev.to/makendrang/retro-bliss-how-i-built-a-procedural-arcade-driver-with-a-little-help-from-amazon-q-51g0)
+- [Mastering TypeScript: Union Types &amp; Type Aliases Explained](https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f)
+- [What is EOS-Java? Exploring Open Source Funding, MIT Licensing, and the Blockchain Ecosystem](https://dev.to/laetitiaperraut/what-is-eos-java-exploring-open-source-funding-mit-licensing-and-the-blockchain-ecosystem-4n6d)
+- [📱Tech News to Your Ears: WhatsApp Voice Notes Powered by Python, AWS &amp; Twilio🧠🎙️](https://dev.to/yugesh_a_003/tech-news-to-your-ears-whatsapp-voice-notes-powered-by-python-aws-twilio-1834)
+- [How to Implement Google Sign-In with Credential Manager in Android?](https://dev.to/generatecodedev/how-to-implement-google-sign-in-with-credential-manager-in-android-2jg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
