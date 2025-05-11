@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Development Case: Emoticon Searcher](https://dev.to/zhongcx/harmonyos-next-development-case-emoticon-searcher-2pi9)
-- [HarmonyOS NEXT Development Case: World Clock Application](https://dev.to/zhongcx/harmonyos-next-development-case-world-clock-application-3ojf)
-- [🚀 Hello World, But Make It Existential 🧠](https://dev.to/codestory__/hello-world-but-make-it-existential-2g73)
-- [HarmonyOS NEXT Development Case: Expiry Date Calculator](https://dev.to/zhongcx/harmonyos-next-development-case-expiry-date-calculator-7o4)
-- [HarmonyOS NEXT Development Case: Randomized 9-Cell Grid](https://dev.to/zhongcx/harmonyos-next-development-case-randomized-9-cell-grid-3ip2)
+- [AI Companions: The Future of Relationships in a Digital World](https://dev.to/ali_pahlavan/ai-companions-the-future-of-relationships-in-a-digital-world-48i3)
+- [9 tricks that separate a pro Typescript developer from an noob 😎](https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd)
+- [&lt;h1&gt;Just how to Get an Original Spanish Vehicle driver&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/mouseland69/just-how-to-get-an-original-spanish-vehicle-drivers-license-in-2025-2en0)
+- [Build a game Under an Hour with SplashKit](https://dev.to/movini/build-a-game-under-an-hour-with-splashkit-1j57)
+- [&lt;h1&gt;Exactly how to Obtain an Original Spanish Chauffeur&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/orangecheese7/exactly-how-to-obtain-an-original-spanish-chauffeurs-license-in-2025-p5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
