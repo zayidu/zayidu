@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤔 Confused between @Bean and @Component in Spring Boot?](https://dev.to/matin676/confused-between-bean-and-component-in-spring-boot-34if)
-- [Backend Development isn&#39;t just about learning the basic or advanced topics, you need to learn how it works in the real-life scenario. Don&#39;t just go after theory or copying projects, go in the DEPTH!](https://dev.to/ishika_26/backend-development-isnt-just-about-learning-the-basic-or-advanced-topics-you-need-to-learn-how-2mf9)
-- [How to Create Custom Validation Rules in Laravel 12](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-create-custom-validation-rules-in-laravel-12-mh3)
-- [Understanding the `btop` Command in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/understanding-the-btop-command-in-red-hat-linux-5f57)
-- [The Rise of AI Companions in a World of Ghosting](https://dev.to/carl_tyson/the-rise-of-ai-companions-in-a-world-of-ghosting-1o74)
+- [JavaScript Design Patterns](https://dev.to/godofgeeks/javascript-design-patterns-4ci5)
+- [My Second Month as an LFX Mentee: Advancing Microcks Deployments](https://dev.to/alikhere/my-second-month-as-an-lfx-mentee-advancing-microcks-deployments-bp1)
+- [From Curiosity to Code — My Self-Taught Dev Journey](https://dev.to/sayyed_rabeeh/from-curiosity-to-code-my-self-taught-dev-journey-46d9)
+- [The Angular Learning Curve in 2025: A Roadmap for New Developers](https://dev.to/karol_modelski/the-angular-learning-curve-in-2025-a-roadmap-for-new-developers-e0o)
+- [💪 SweatSpace: Powered by Amazon Q Developer](https://dev.to/mngayathri_prasad_648bb/sweatspace-powered-by-amazon-q-developer-58jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
