@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Having Conversations with AI: Are We Bonding?](https://dev.to/carl_tyson/the-psychology-of-having-conversations-with-ai-are-we-bonding-4hnd)
-- [🐍 Mastering Python Virtual Environments: A Practical Guide for Developers](https://dev.to/ashokagr/mastering-python-virtual-environments-a-practical-guide-for-developers-3489)
-- [My Photo Gallery](https://dev.to/praveen_rajtg_fd95510c8/my-photo-gallery-55bm)
-- [What is redis pipeline](https://dev.to/ankitmalikg/what-is-redis-pipeline-11ab)
-- [Two of My Favorite Custom MCP Tools I Use Every Day](https://dev.to/fullstackchris/two-of-my-favorite-custom-mcp-tools-i-use-every-day-5abk)
+- [How I Set Up Prometheus and Grafana Monitoring on AKS from Scratch](https://dev.to/bharathi1588/how-i-set-up-prometheus-and-grafana-monitoring-on-aks-from-scratch-5330)
+- [Harnessing DeepWiki: A Developer&#39;s Guide to Smarter Code Exploration 🧠](https://dev.to/rishabh-hub/harnessing-deepwiki-a-developers-guide-to-smarter-code-exploration-30dd)
+- [🧑‍💻Mental Health Tracker: Powered by Amazon Q Developer](https://dev.to/ameena_babu_d3ce63e22ae0b/mental-health-tracker-powered-by-amazon-q-developer-3jhl)
+- [Why AI Should Assist, Not Replace — A Human-Centered Future for Productivity](https://dev.to/quiccledaily/why-ai-should-assist-not-replace-a-human-centered-future-for-productivity-32p6)
+- [How to Perform Row-Wise Aggregation in DuckDB Using SQL?](https://dev.to/generatecodedev/how-to-perform-row-wise-aggregation-in-duckdb-using-sql-2hhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
