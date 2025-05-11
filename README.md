@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Barrelize: Automate Your JavaScript Imports Like a Pro](https://dev.to/nizami/barrelize-automate-your-javascript-imports-like-a-pro-4oa8)
-- [Why is the Output Order Reversed in My Hello World Driver?](https://dev.to/generatecodedev/why-is-the-output-order-reversed-in-my-hello-world-driver-1aoh)
-- [Weekly Dev Log #2: Sound, Effects &amp; Debugging Adventures — Junior Programmer Pathway](https://dev.to/cansucreates/weekly-dev-log-2-sound-effects-debugging-adventures-junior-programmer-pathway-d8f)
-- [Building an Effective Dev Team: Strategies for Success in Software Development](https://dev.to/jetthoughts/building-an-effective-dev-team-strategies-for-success-in-software-development-2fbk)
-- [Unlocking Efficiency: Discover the Best Dev Tools for 2025](https://dev.to/jetthoughts/unlocking-efficiency-discover-the-best-dev-tools-for-2025-41cc)
+- [Framework Agnostic](https://dev.to/m__mdy__m/framework-agnostic-37og)
+- [Introduction à OpenTofu pour les utilisateurs Terraform](https://dev.to/laformulenuagique/introduction-a-opentofu-pour-les-utilisateurs-terraform-4e9l)
+- [💸 A Definite Guide to Develop Production Grade Applications with AWS Q Developer in 2025 [Video Demo Included] 🎥](https://dev.to/mohamednizzad/a-definite-guide-to-develop-production-grade-applications-with-aws-q-developer-in-2025-video-3690)
+- [How to Install NVIDIA Parakeet TDT 0.6B V2 Locally?](https://dev.to/nodeshiftcloud/how-to-install-nvidia-parakeet-tdt-06b-v2-locally-36ck)
+- [How to Export a Swift Package as an XCFramework](https://dev.to/generatecodedev/how-to-export-a-swift-package-as-an-xcframework-2k87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
