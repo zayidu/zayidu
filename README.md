@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Derinlemesine: Modern Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontend-derinlemesine-modern-yaklasimlar-2l03)
-- [HarmonyOS NEXT Development Case Study: Whac-A-Mole Game](https://dev.to/zhongcx/harmonyos-next-development-case-study-whac-a-mole-game-539p)
-- [HarmonyOS NEXT Development Case: 24-Point Calculation Game](https://dev.to/zhongcx/harmonyos-next-development-case-24-point-calculation-game-1k4f)
-- [Weekly #19-2025: Google’s AI Search, Redis Reborn, WhatsApp at 3B, Meta’s ChatGPT Rival, Astro 5.7 &amp; More!](https://dev.to/weekly/weekly-19-2025-googles-ai-search-redis-reborn-whatsapp-at-3b-metas-chatgpt-rival-astro-57-266m)
-- [HarmonyOS NEXT Development Case: Garbage Classification](https://dev.to/zhongcx/harmonyos-next-development-case-garbage-classification-2b0i)
+- [TypeScript + Rust: All You Need in 2025](https://dev.to/criscmd/typescript-rust-all-you-need-in-2025-3dic)
+- [HarmonyOS NEXT Development Case: Counter Application](https://dev.to/zhongcx/harmonyos-next-development-case-counter-application-4bj3)
+- [Why I&#39;m Transitioning to DevOps/SRE: Building My Career in Public](https://dev.to/joshuamichaelhall/why-im-transitioning-to-devopssre-building-my-career-in-public-2ao4)
+- [Don’t Use SQL If Your Client Doesn’t Know What They Want](https://dev.to/criscmd/dont-use-sql-if-your-client-doesnt-know-what-they-want-2hhm)
+- [HarmonyOS NEXT Development Case: Age Calculator](https://dev.to/zhongcx/harmonyos-next-development-case-age-calculator-26a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
