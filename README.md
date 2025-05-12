@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Broken - Opt out of the data broker nightmare with Privotron and Amazon Q Developer](https://dev.to/mrmemory/data-broken-opt-out-of-the-data-broker-nightmare-with-privotron-and-amazon-q-developer-2omd)
-- [🚀 Scaling a Laravel app? This series breaks down real-world patterns for clean, maintainable, high-performance code. Start here with Part 1 — from DDD to service layers and beyond! #Laravel #Architecture](https://dev.to/prekshashah2509/scaling-a-laravel-app-this-series-breaks-down-real-world-patterns-for-clean-maintainable-fnp)
-- [Thiết Kế Trải Nghiệm Người Dùng Hiệu Quả Với Core Web Vitals: Hướng Dẫn Từ Thực Chiến](https://dev.to/giaminh/thiet-ke-trai-nghiem-nguoi-dung-hieu-qua-voi-core-web-vitals-huong-dan-tu-thuc-chien-20ij)
-- [Experience with Fellou: The World’s First Agentic Browser](https://dev.to/kansm/experience-with-fellou-the-worlds-first-agentic-browser-3lbn)
-- [Kenali, Hindari, dan Obati Penyakit Divitis](https://dev.to/sejutaimpian/kenali-hindari-dan-obati-penyakit-divitis-29kh)
+- [Mason.nvim: The Ultimate Guide to Managing Your Neovim Tooling](https://dev.to/ralphsebastian/masonnvim-the-ultimate-guide-to-managing-your-neovim-tooling-4520)
+- [🚀 Efficient Web Directory Search with PHP! 🔎](https://dev.to/vsuin/efficient-web-directory-search-with-php-1092)
+- [Contact Form 📩](https://dev.to/vsuin/contact-form-3jn5)
+- [Amazon Q Quack The Code: Pompeii Time Out](https://dev.to/allen_proulx_341c49170609/amazon-q-quack-the-code-pompeii-time-out-3hnh)
+- [Is AI the New Oil? We Need to Talk About What It’s Costing Us](https://dev.to/mayankdhingra02/is-ai-the-new-oil-we-need-to-talk-about-what-its-costing-us-2opn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
