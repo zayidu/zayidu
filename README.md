@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mason.nvim: The Ultimate Guide to Managing Your Neovim Tooling](https://dev.to/ralphsebastian/masonnvim-the-ultimate-guide-to-managing-your-neovim-tooling-4520)
-- [🚀 Efficient Web Directory Search with PHP! 🔎](https://dev.to/vsuin/efficient-web-directory-search-with-php-1092)
-- [Contact Form 📩](https://dev.to/vsuin/contact-form-3jn5)
-- [Amazon Q Quack The Code: Pompeii Time Out](https://dev.to/allen_proulx_341c49170609/amazon-q-quack-the-code-pompeii-time-out-3hnh)
-- [Is AI the New Oil? We Need to Talk About What It’s Costing Us](https://dev.to/mayankdhingra02/is-ai-the-new-oil-we-need-to-talk-about-what-its-costing-us-2opn)
+- [Being In A Self-Managed Team Made Me Try The Most Expensive Hamburgers I&#39;ve Eaten](https://dev.to/canro91/being-in-a-self-managed-team-made-me-try-the-most-expensive-hamburgers-ive-eaten-42pl)
+- [Secure the Vibe.](https://dev.to/mstanton/secure-the-vibe-4hh0)
+- [Why TypeScript Enums Increase Angular Bundle Size and How to Fix It](https://dev.to/rohtashsethi/why-typescript-enums-increase-angular-bundle-size-and-how-to-fix-it-1908)
+- [Why Expert App Developers Are Your Key to a Winning Mobile App - Agami Technologies](https://dev.to/test_aabid_806c6e211ab2d2/why-expert-app-developers-are-your-key-to-a-winning-mobile-app-agami-technologies-2dgl)
+- [# Async Programming with Kafka: Master Scalable Messaging](https://dev.to/wittedtech-by-harshit/-async-programming-with-kafka-master-scalable-messaging-3728)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
