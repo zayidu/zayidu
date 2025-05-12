@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own Web Server — Part 4: Single-threaded non-blocking server](https://dev.to/dmytro_huz/building-your-own-web-server-part-4-single-threaded-non-blocking-server-3h5n)
-- [Back After a Break — Building Something Meaningful!](https://dev.to/techgeniuskaran/back-after-a-break-building-something-meaningful-pfh)
-- [Clean SQL with Comments: Syntax and Practices for All Engines](https://dev.to/dbvismarketing/clean-sql-with-comments-syntax-and-practices-for-all-engines-38df)
-- [Quark’s Outlines: Python Forbidden Characters](https://dev.to/mike-vincent/quarks-outlines-python-forbidden-characters-5chn)
-- [The Digital Antidote: A.I Companions Attack Loneliness in 2025](https://dev.to/nuno_garcia/the-digital-antidote-ai-companions-attack-loneliness-in-2025-1jca)
+- [🐧 Why I switched to Linux &lpar;and don’t regret it a second&rpar;](https://dev.to/mr_mfrzo/why-i-switched-to-linux-and-dont-regret-it-a-second-3fkd)
+- [Bypass WhatsApp Template Limits with a Button-Triggered Formatting Flow](https://dev.to/kromate/bypass-whatsapp-template-limits-with-a-button-triggered-formatting-flow-5267)
+- [Brighter and RabbitMQ: How to setup and use Brighter with RabbitMQ](https://dev.to/actor-dev/brighter-and-rabbitmq-how-to-setup-and-use-brighter-with-rabbitmq-dcn)
+- [A Developer’s Guide to Browser Storage: Local Storage, Session Storage, and Cookies](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
+- [Brighter + RabbitMQ: Como configurar Brighter com RabbitMQ](https://dev.to/actor-dev/brighter-rabbitmq-como-configurar-brighter-com-rabbitmq-1lj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
