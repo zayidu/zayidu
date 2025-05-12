@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hoisted and Confused? Let’s Decode JavaScript’s Scope Magic](https://dev.to/obere4u/hoisted-and-confused-lets-decode-javascripts-scope-magic-358c)
-- [Java Script Engine&lpar;How JS Works Behind The Scenes The Engine&rpar;](https://dev.to/ahmed_niazy/java-script-engine-2gcj)
-- [Setting Up Kubernetes: A Technical Guide to Dependencies Installation and Setup](https://dev.to/mayankcse/setting-up-kubernetes-a-technical-guide-to-dependencies-installation-and-setup-inh)
-- [LangGraph4j - Multi-Agent handoff implementation with Spring AI](https://dev.to/bsorrentino/langgraph4j-multi-agent-handoff-implementation-with-spring-ai-2nnk)
-- [Mocking localStorage in Jest &lpar;w/o breaking your brain 😂&rpar;](https://dev.to/taratimmerman/mocking-localstorage-in-jest-wo-breaking-your-brain--4bma)
+- [Materialized Views in SQL: Supercharging Read Performance](https://dev.to/cristiansifuentes/materialized-views-in-sql-supercharging-read-performance-38n8)
+- [Why Is the Project Planning &amp; Initiation Phase So Important?](https://dev.to/writegenic/why-is-the-project-planning-initiation-phase-so-important-jap)
+- [💾 I Just Launched My GitHub Database Online &lpar;7000+ Repositories Curated&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-just-launched-my-github-database-online-7000-repositories-curated-3f7a)
+- [How to Access an Android Emulator&#39;s Local Server from Browser?](https://dev.to/generatecodedev/how-to-access-an-android-emulators-local-server-from-browser-fno)
+- [Modern C++ 23/26: from concepts to coroutines in high-performance services](https://dev.to/ethrynto/modern-c-2326-from-concepts-to-coroutines-in-high-performance-services-5c4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
