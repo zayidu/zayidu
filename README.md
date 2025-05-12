@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Food-Ordering Chatbot in 30 Minutes by .NET 10 and Azure](https://dev.to/ngtduc693/build-a-food-ordering-chatbot-in-30-minutes-by-net-10-and-azure-14df)
-- [Everyone is working on something, and most time we work too hard only to realize that whatever we are building is already outdated or not right for the market. How do you define what is right to build and when to build? Read my thoughts.](https://dev.to/scofieldidehen/everyone-is-working-on-something-and-most-time-we-work-too-hard-only-to-realize-that-whatever-we-5h8k)
-- [How JavaScript helped me find a Car](https://dev.to/garciadiazjaime/how-javascript-helped-me-find-a-car-24ii)
-- [STON.fi vs SWAP.COFFEE☕️ — Which One’s for You?](https://dev.to/wqrisee/stonfi-vs-swapcoffee-which-ones-for-you-13l0)
-- [The Ultimate Beginner’s Guide to Becoming a Developer](https://dev.to/code_area_9036c9663233d92/the-ultimate-beginners-guide-to-becoming-a-developer-254i)
+- [Hoisted and Confused? Let’s Decode JavaScript’s Scope Magic](https://dev.to/obere4u/hoisted-and-confused-lets-decode-javascripts-scope-magic-358c)
+- [Java Script Engine&lpar;How JS Works Behind The Scenes The Engine&rpar;](https://dev.to/ahmed_niazy/java-script-engine-2gcj)
+- [Setting Up Kubernetes: A Technical Guide to Dependencies Installation and Setup](https://dev.to/mayankcse/setting-up-kubernetes-a-technical-guide-to-dependencies-installation-and-setup-inh)
+- [LangGraph4j - Multi-Agent handoff implementation with Spring AI](https://dev.to/bsorrentino/langgraph4j-multi-agent-handoff-implementation-with-spring-ai-2nnk)
+- [Mocking localStorage in Jest &lpar;w/o breaking your brain 😂&rpar;](https://dev.to/taratimmerman/mocking-localstorage-in-jest-wo-breaking-your-brain--4bma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
