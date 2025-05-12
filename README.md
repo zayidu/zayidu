@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
-- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
-- [How to Send Traces Using Scala and OpenTelemetry](https://dev.to/generatecodedev/how-to-send-traces-using-scala-and-opentelemetry-4ll3)
-- [Capstone process outline](https://dev.to/donnellycarroll/capstone-process-outline-42mg)
-- [How to Accurately Position Image Parts Using CSS and JavaScript?](https://dev.to/generatecodedev/how-to-accurately-position-image-parts-using-css-and-javascript-4hc)
+- [Goroutine Scheduling: From Zero to Hero in Go Concurrency](https://dev.to/jones_charles_ad50858dbc0/goroutine-scheduling-from-zero-to-hero-in-go-concurrency-3bl5)
+- [The Future of Open Source Blockchain Innovation: Unraveling Stellar-Java&#39;s Role in Funding, Community &amp; Technical Excellence](https://dev.to/zhangwei42/the-future-of-open-source-blockchain-innovation-unraveling-stellar-javas-role-in-funding-2bmp)
+- [Fix missing headerfile &lt;gtk/gtk.h&gt;](https://dev.to/neosahadeo/fix-missing-headerfile-gtkgtkh-1pa3)
+- [How to Read CSV Files in PHP and Count Records Easily](https://dev.to/generatecodedev/how-to-read-csv-files-in-php-and-count-records-easily-3167)
+- [Rate Limiting Microservice in Rust](https://dev.to/tanishparashar/rate-limiting-microservice-in-rust-5pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
