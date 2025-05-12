@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goroutine Scheduling: From Zero to Hero in Go Concurrency](https://dev.to/jones_charles_ad50858dbc0/goroutine-scheduling-from-zero-to-hero-in-go-concurrency-3bl5)
-- [The Future of Open Source Blockchain Innovation: Unraveling Stellar-Java&#39;s Role in Funding, Community &amp; Technical Excellence](https://dev.to/zhangwei42/the-future-of-open-source-blockchain-innovation-unraveling-stellar-javas-role-in-funding-2bmp)
-- [Fix missing headerfile &lt;gtk/gtk.h&gt;](https://dev.to/neosahadeo/fix-missing-headerfile-gtkgtkh-1pa3)
-- [How to Read CSV Files in PHP and Count Records Easily](https://dev.to/generatecodedev/how-to-read-csv-files-in-php-and-count-records-easily-3167)
-- [Rate Limiting Microservice in Rust](https://dev.to/tanishparashar/rate-limiting-microservice-in-rust-5pi)
+- [Data Broken - Opt out of the data broker nightmare with Privotron and Amazon Q Developer](https://dev.to/mrmemory/data-broken-opt-out-of-the-data-broker-nightmare-with-privotron-and-amazon-q-developer-2omd)
+- [🚀 Scaling a Laravel app? This series breaks down real-world patterns for clean, maintainable, high-performance code. Start here with Part 1 — from DDD to service layers and beyond! #Laravel #Architecture](https://dev.to/prekshashah2509/scaling-a-laravel-app-this-series-breaks-down-real-world-patterns-for-clean-maintainable-fnp)
+- [Thiết Kế Trải Nghiệm Người Dùng Hiệu Quả Với Core Web Vitals: Hướng Dẫn Từ Thực Chiến](https://dev.to/giaminh/thiet-ke-trai-nghiem-nguoi-dung-hieu-qua-voi-core-web-vitals-huong-dan-tu-thuc-chien-20ij)
+- [Experience with Fellou: The World’s First Agentic Browser](https://dev.to/kansm/experience-with-fellou-the-worlds-first-agentic-browser-3lbn)
+- [Kenali, Hindari, dan Obati Penyakit Divitis](https://dev.to/sejutaimpian/kenali-hindari-dan-obati-penyakit-divitis-29kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
