@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Antd Typography.Paragraph ellipsis not working properly](https://dev.to/sudip_tagmango101/antd-typographyparagraph-ellipsis-not-working-properly-j1b)
-- [What You Need to Launch a Radio Station Online](https://dev.to/malhotraaa/what-you-need-to-launch-a-radio-station-online-1824)
-- [A smarter way to use imagePullSecrets in Kubernetes Cluster using ServiceAccounts](https://dev.to/aws-builders/simplify-imagepullsecrets-with-serviceaccounts-in-kubernetes-2oc8)
-- [How to Fix the &#39;No Suitable HttpMessageConverter Found&#39; Error in Spring RestTemplate](https://dev.to/generatecodedev/how-to-fix-the-no-suitable-httpmessageconverter-found-error-in-spring-resttemplate-2b6m)
-- [⚡ Lightning-Fast REST APIs: Python &amp; FastAPI](https://dev.to/resource_bunk_1077cab07da/lightning-fast-rest-apis-python-fastapi-2clk)
+- [Launching Version 1.0 : AI-Powered Mock Interview Platform](https://dev.to/soumilgit/launching-version-10-ai-powered-mock-interview-platform-2n5p)
+- [The Birth Of Your Web3 Product. Stage Three: Developing](https://dev.to/evrecode_lab_2025_bg/the-birth-of-your-web3-product-stage-three-developing-3bhm)
+- [Zero Trust Security Model: Implementation Roadmap](https://dev.to/bridgegroupsolutions/zero-trust-security-model-implementation-roadmap-6gd)
+- [Analyzing the Backward Insertion Sort: An Insightful Tool by Fernando Pelliccioni](https://dev.to/fpelliccioni/analyzing-the-backward-insertion-sort-an-insightful-tool-by-fernando-pelliccioni-43fi)
+- [What’s the Difference Between Friend and Public Functions in C++?](https://dev.to/generatecodedev/whats-the-difference-between-friend-and-public-functions-in-c-3286)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
