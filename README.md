@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Philosophy of Film Editing](https://dev.to/celebritynews/the-philosophy-of-film-editing-55c5)
-- [Ambient Invisible Intelligent: The seamless Integration of AI](https://dev.to/ifeol/ambient-invisible-intelligent-the-seamless-integration-of-ai-73a)
-- [JavaScript Closure Simplified](https://dev.to/hariclerry/javascript-closure-simplified-f2m)
-- [A Simple Framework for Designing User Interfaces &lpar;for Solo Devs &amp; Small Teams&rpar;](https://dev.to/shayy/a-simple-framework-for-designing-user-interfaces-for-solo-devs-small-teams-36hj)
-- [Hello! 😊](https://dev.to/jolaw/hello-2ogo)
+- [[Boost]](https://dev.to/samueljoseph/-4bfh)
+- [How to Troubleshoot ZK-Proof Generation Issues in Next.js](https://dev.to/generatecodedev/how-to-troubleshoot-zk-proof-generation-issues-in-nextjs-53hd)
+- [Wrkspace: One-Time Setup, Lifetime Productivity](https://dev.to/mfcmatheus/wrkspace-one-time-setup-lifetime-productivity-2j1c)
+- [Getting Started with Linux: System Information and User Management](https://dev.to/dhavalthakar97/getting-started-with-linux-system-information-and-user-management-26m1)
+- [Why Your Cloud Strategy Keeps Failing &lpar;And How I Fixed It&rpar;](https://dev.to/samueljoseph/why-your-cloud-strategy-keeps-failing-and-how-i-fixed-it-5al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
