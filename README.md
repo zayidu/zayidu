@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Managed Side Effects Are a Deliberate Design Decision in Elm](https://dev.to/jigargosar/why-managed-side-effects-are-a-deliberate-design-decision-in-elm-ab6)
-- [The Rise and Fall of Comet ATLAS](https://dev.to/pratiksha_nair_1319cea958/the-rise-and-fall-of-comet-atlas-3a99)
-- [File Read &amp; Write](https://dev.to/sudhakar_v_c404997aeec839/file-read-write-5699)
-- [The Fermi Paradox](https://dev.to/pratiksha_nair_1319cea958/the-fermi-paradox-3b4a)
-- [The Silent Battle: DevOps vs Web Development — A Necessary Contention?](https://dev.to/olugotunjoshua/the-silent-battle-devops-vs-web-development-a-necessary-contention-2oee)
+- [Build a Food-Ordering Chatbot in 30 Minutes by .NET 10 and Azure](https://dev.to/ngtduc693/build-a-food-ordering-chatbot-in-30-minutes-by-net-10-and-azure-14df)
+- [Everyone is working on something, and most time we work too hard only to realize that whatever we are building is already outdated or not right for the market. How do you define what is right to build and when to build? Read my thoughts.](https://dev.to/scofieldidehen/everyone-is-working-on-something-and-most-time-we-work-too-hard-only-to-realize-that-whatever-we-5h8k)
+- [How JavaScript helped me find a Car](https://dev.to/garciadiazjaime/how-javascript-helped-me-find-a-car-24ii)
+- [STON.fi vs SWAP.COFFEE☕️ — Which One’s for You?](https://dev.to/wqrisee/stonfi-vs-swapcoffee-which-ones-for-you-13l0)
+- [The Ultimate Beginner’s Guide to Becoming a Developer](https://dev.to/code_area_9036c9663233d92/the-ultimate-beginners-guide-to-becoming-a-developer-254i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
