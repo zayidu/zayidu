@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Materialized Views in SQL: Supercharging Read Performance](https://dev.to/cristiansifuentes/materialized-views-in-sql-supercharging-read-performance-38n8)
-- [Why Is the Project Planning &amp; Initiation Phase So Important?](https://dev.to/writegenic/why-is-the-project-planning-initiation-phase-so-important-jap)
-- [💾 I Just Launched My GitHub Database Online &lpar;7000+ Repositories Curated&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-just-launched-my-github-database-online-7000-repositories-curated-3f7a)
-- [How to Access an Android Emulator&#39;s Local Server from Browser?](https://dev.to/generatecodedev/how-to-access-an-android-emulators-local-server-from-browser-fno)
-- [Modern C++ 23/26: from concepts to coroutines in high-performance services](https://dev.to/ethrynto/modern-c-2326-from-concepts-to-coroutines-in-high-performance-services-5c4p)
+- [StorageManager API for Managing Offline Data](https://dev.to/omriluz1/storagemanager-api-for-managing-offline-data-oon)
+- [Made easy: Installing dbt and Building Your First Model &#39;Haay!&#39;](https://dev.to/joanwanjiru/made-easy-installing-dbt-and-building-your-first-model-haay-1lja)
+- [🚀 Goodbye SEO, Hello AEO: Navigating the New Era of AI-Driven Search](https://dev.to/shahdeep/goodbye-seo-hello-aeo-navigating-the-new-era-of-ai-driven-search-i9k)
+- [Querying the Past: Temporal Tables in SQL Server and PostgreSQL](https://dev.to/cristiansifuentes/querying-the-past-temporal-tables-in-sql-server-and-postgresql-398c)
+- [How to Find Prior Art for a Patent: Creative Search Methods](https://dev.to/patentscanai/how-to-find-prior-art-for-a-patent-creative-search-methods-5e00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
