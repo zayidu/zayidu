@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Trends in 2025](https://dev.to/riteshkokam/web-development-trends-in-2025-536l)
-- [I Installed Omakub Five Times So You Can Do It Just Once](https://dev.to/tacoda/i-installed-omakub-five-times-so-you-can-do-it-just-once-2ek8)
-- [[Boost]](https://dev.to/brains_behind_bots/-286a)
-- [Voice AI Agents](https://dev.to/brains_behind_bots/voice-ai-agents-k2e)
-- [EA says it ‘feels very good’ about Battlefield’s release now that GTA 6 has been delayed | VGC](https://dev.to/gg_news/ea-says-it-feels-very-good-about-battlefields-release-now-that-gta-6-has-been-delayed-vgc-imf)
+- [Google’s “Desktop View” Might Just Kill Samsung DeX](https://dev.to/squaredtech/googles-desktop-view-might-just-kill-samsung-dex-4bb5)
+- [Meet Mallient – The email client built for productivity, privacy, and teams](https://dev.to/mallient/meet-mallient-the-email-client-built-for-productivity-privacy-and-teams-3nm7)
+- [Warehouse Security with IoT and Automated Fence Systems](https://dev.to/karen_londres/warehouse-security-with-iot-and-automated-fence-systems-4o57)
+- [Google Agent SDK Introduction &lpar;2&rpar;: Building a Multi-Agent Meeting Scheduling System](https://dev.to/jnth/google-agent-sdk-introduction-2-building-a-multi-agent-meeting-scheduling-system-1ach)
+- [How to format dates in JavaScript: Methods, libraries, and best practices](https://dev.to/logrocket/how-to-format-dates-in-javascript-methods-libraries-and-best-practices-4h56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
