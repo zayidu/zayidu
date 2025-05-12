@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s “Desktop View” Might Just Kill Samsung DeX](https://dev.to/squaredtech/googles-desktop-view-might-just-kill-samsung-dex-4bb5)
-- [Meet Mallient – The email client built for productivity, privacy, and teams](https://dev.to/mallient/meet-mallient-the-email-client-built-for-productivity-privacy-and-teams-3nm7)
-- [Warehouse Security with IoT and Automated Fence Systems](https://dev.to/karen_londres/warehouse-security-with-iot-and-automated-fence-systems-4o57)
-- [Google Agent SDK Introduction &lpar;2&rpar;: Building a Multi-Agent Meeting Scheduling System](https://dev.to/jnth/google-agent-sdk-introduction-2-building-a-multi-agent-meeting-scheduling-system-1ach)
-- [How to format dates in JavaScript: Methods, libraries, and best practices](https://dev.to/logrocket/how-to-format-dates-in-javascript-methods-libraries-and-best-practices-4h56)
+- [Why Managed Side Effects Are a Deliberate Design Decision in Elm](https://dev.to/jigargosar/why-managed-side-effects-are-a-deliberate-design-decision-in-elm-ab6)
+- [The Rise and Fall of Comet ATLAS](https://dev.to/pratiksha_nair_1319cea958/the-rise-and-fall-of-comet-atlas-3a99)
+- [File Read &amp; Write](https://dev.to/sudhakar_v_c404997aeec839/file-read-write-5699)
+- [The Fermi Paradox](https://dev.to/pratiksha_nair_1319cea958/the-fermi-paradox-3b4a)
+- [The Silent Battle: DevOps vs Web Development — A Necessary Contention?](https://dev.to/olugotunjoshua/the-silent-battle-devops-vs-web-development-a-necessary-contention-2oee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
