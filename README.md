@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐧 Why I switched to Linux &lpar;and don’t regret it a second&rpar;](https://dev.to/mr_mfrzo/why-i-switched-to-linux-and-dont-regret-it-a-second-3fkd)
-- [Bypass WhatsApp Template Limits with a Button-Triggered Formatting Flow](https://dev.to/kromate/bypass-whatsapp-template-limits-with-a-button-triggered-formatting-flow-5267)
-- [Brighter and RabbitMQ: How to setup and use Brighter with RabbitMQ](https://dev.to/actor-dev/brighter-and-rabbitmq-how-to-setup-and-use-brighter-with-rabbitmq-dcn)
-- [A Developer’s Guide to Browser Storage: Local Storage, Session Storage, and Cookies](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
-- [Brighter + RabbitMQ: Como configurar Brighter com RabbitMQ](https://dev.to/actor-dev/brighter-rabbitmq-como-configurar-brighter-com-rabbitmq-1lj5)
+- [Andaman Islands for Solo Travelers: A Safe and Welcoming Destination](https://dev.to/jafar_ahmadabdul_cecc087/andaman-islands-for-solo-travelers-a-safe-and-welcoming-destination-59m6)
+- [Workflow-Level Resilience in Orkes Conductor: Timeouts and Failure Workflows](https://dev.to/orkes/workflow-level-resilience-in-orkes-conductor-timeouts-and-failure-workflows-1nc5)
+- [The Future of Digital Companionship: AI Conversationalists in 2025](https://dev.to/ryder_andrew/the-future-of-digital-companionship-ai-conversationalists-in-2025-1l7k)
+- [Securing Temporary Credentials in AWS: What You Should Be Doing But Probably Aren’t](https://dev.to/ejher/securing-temporary-credentials-in-aws-what-you-should-be-doing-but-probably-arent-24cc)
+- [The Evolution of AI Companions: From Text to Lifelike Conversation](https://dev.to/rizzoc/the-evolution-of-ai-companions-from-text-to-lifelike-conversation-3bkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
