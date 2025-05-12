@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Stay Consistent Even When Motivation Dies.](https://dev.to/dhis_is_jj/how-i-stay-consistent-even-when-motivation-dies-4el2)
-- [Why is continuous learning crucial for IT professionals in the rapidly evolving landscape of AI and digital transformation?](https://dev.to/__facb20b11/why-is-continuous-learning-crucial-for-it-professionals-in-the-rapidly-evolving-landscape-of-ai-and-10k5)
-- [The Future of Sexting: AI Applications Transforming Digital Intimacy by 2025](https://dev.to/nuno_garcia/the-future-of-sexting-ai-applications-transforming-digital-intimacy-by-2025-5a5o)
-- [OCaml Platform Newsletter: February to April 2025](https://dev.to/ocaml/ocaml-platform-newsletter-february-to-april-2025-1i6h)
-- [Guide to install Minikube on windows to practice Kubernetes and create your first pod.](https://dev.to/nandkishor/guide-to-install-minikube-on-windows-to-practice-kubernetes-and-create-your-first-pod-14o8)
+- [Smart Indulgence: Why Dark Chocolate is the Ultimate Dessert Upgrade](https://dev.to/isladavid/smart-indulgence-why-dark-chocolate-is-the-ultimate-dessert-upgrade-1ff2)
+- [Student benefits part 1](https://dev.to/imajenasyon/student-benefits-part-1-pd9)
+- [Student benefits part 2](https://dev.to/imajenasyon/student-benefits-part-2-2o39)
+- [How to Store Polymorphic Objects in C++ STL Containers?](https://dev.to/generatecodedev/how-to-store-polymorphic-objects-in-c-stl-containers-34g2)
+- [Hackers Love Lazy People — Here’s Why!](https://dev.to/nightmare-lynx/hackers-love-lazy-people-heres-why-1k93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
