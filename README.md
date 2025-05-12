@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Version 1.0 : AI-Powered Mock Interview Platform](https://dev.to/soumilgit/launching-version-10-ai-powered-mock-interview-platform-2n5p)
-- [The Birth Of Your Web3 Product. Stage Three: Developing](https://dev.to/evrecode_lab_2025_bg/the-birth-of-your-web3-product-stage-three-developing-3bhm)
-- [Zero Trust Security Model: Implementation Roadmap](https://dev.to/bridgegroupsolutions/zero-trust-security-model-implementation-roadmap-6gd)
-- [Analyzing the Backward Insertion Sort: An Insightful Tool by Fernando Pelliccioni](https://dev.to/fpelliccioni/analyzing-the-backward-insertion-sort-an-insightful-tool-by-fernando-pelliccioni-43fi)
-- [What’s the Difference Between Friend and Public Functions in C++?](https://dev.to/generatecodedev/whats-the-difference-between-friend-and-public-functions-in-c-3286)
+- [Web Development Trends in 2025](https://dev.to/riteshkokam/web-development-trends-in-2025-536l)
+- [I Installed Omakub Five Times So You Can Do It Just Once](https://dev.to/tacoda/i-installed-omakub-five-times-so-you-can-do-it-just-once-2ek8)
+- [[Boost]](https://dev.to/brains_behind_bots/-286a)
+- [Voice AI Agents](https://dev.to/brains_behind_bots/voice-ai-agents-k2e)
+- [EA says it ‘feels very good’ about Battlefield’s release now that GTA 6 has been delayed | VGC](https://dev.to/gg_news/ea-says-it-feels-very-good-about-battlefields-release-now-that-gta-6-has-been-delayed-vgc-imf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
