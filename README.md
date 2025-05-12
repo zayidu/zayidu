@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Being In A Self-Managed Team Made Me Try The Most Expensive Hamburgers I&#39;ve Eaten](https://dev.to/canro91/being-in-a-self-managed-team-made-me-try-the-most-expensive-hamburgers-ive-eaten-42pl)
-- [Secure the Vibe.](https://dev.to/mstanton/secure-the-vibe-4hh0)
-- [Why TypeScript Enums Increase Angular Bundle Size and How to Fix It](https://dev.to/rohtashsethi/why-typescript-enums-increase-angular-bundle-size-and-how-to-fix-it-1908)
-- [Why Expert App Developers Are Your Key to a Winning Mobile App - Agami Technologies](https://dev.to/test_aabid_806c6e211ab2d2/why-expert-app-developers-are-your-key-to-a-winning-mobile-app-agami-technologies-2dgl)
-- [# Async Programming with Kafka: Master Scalable Messaging](https://dev.to/wittedtech-by-harshit/-async-programming-with-kafka-master-scalable-messaging-3728)
+- [🔐 Build &amp; Run Your Own TOTP Generator in Under 5 Minutes — with Amazon Q Developer](https://dev.to/minhlong2605/build-run-your-own-totp-generator-in-under-5-minutes-with-amazon-q-developer-1f6d)
+- [Power Automate - How to Change Connection Owners](https://dev.to/wyattdave/power-automate-how-to-change-connection-owners-oid)
+- [Devbridge, a knowledge bridge](https://dev.to/async_dime/devbridge-a-knowledge-bridge-4479)
+- [Conquer the Realm of Coding in the Code Quest Adventure Game](https://dev.to/hasbimizan/conquer-the-realm-of-coding-in-the-code-quest-adventure-game-57kp)
+- [Anaconda vs Miniconda: Which one should you use for DS](https://dev.to/vjs/anaconda-vs-miniconda-which-one-should-you-use-for-ds-6co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
