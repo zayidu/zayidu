@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Rails Rendering Techniques: Choosing Between Turbo Drive, Frames, Streams and Morph](https://dev.to/harsh_u115/modern-rails-rendering-techniques-choosing-between-turbo-drive-frames-streams-and-morph-3lek)
-- [[Boost]](https://dev.to/mkahil/-4gm4)
-- [How to Make Your Perl Script Executable in CGI-Bin?](https://dev.to/generatecodedev/how-to-make-your-perl-script-executable-in-cgi-bin-1le1)
-- [[Boost]](https://dev.to/wisser/-ldd)
-- [3. Longest Substring Without Repeating Characters Solved](https://dev.to/xyz_pythonic/3-longest-substring-without-repeating-characterssolved-40lk)
+- [Turn Repetitive Work into React Tools People Pay For 💊](https://dev.to/0x2e_tech/turn-repetitive-work-into-react-tools-people-pay-for-4a7h)
+- [Can’t Login as Root on Ubuntu? Here’s the Real Reason and How to Fix It.](https://dev.to/vansh_tyagi24/cant-login-as-root-on-ubuntu-heres-the-real-reason-and-how-to-fix-it-3d3m)
+- [When GPT Couldn&#39;t Help, an Old GIS Algorithm Did](https://dev.to/kihoon/when-gpt-couldnt-help-an-old-gis-algorithm-did-1d4b)
+- [WORDPRESS-Local Installation on Ubuntu 24.4](https://dev.to/cliffordisaboke/wordpress-local-installation-on-ubuntu-244-52h7)
+- [Integrating Graphics, Branding, and Scheduling in Playout Software](https://dev.to/malhotraaa/integrating-graphics-branding-and-scheduling-in-playout-software-4e43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
