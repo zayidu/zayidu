@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why FastAPI Will Supercharge Your Next Python Project 🚀](https://dev.to/mahuel18/why-fastapi-will-supercharge-your-next-python-project-4i65)
-- [[Boost]](https://dev.to/mahdijazini/-1o50)
-- [Understanding the @Scope Annotation in Spring: How Bean Scopes Work](https://dev.to/tiuwill/understanding-the-scope-annotation-in-spring-how-bean-scopes-work-dpn)
-- [How to make your clients more context-aware with OpenMemory MCP](https://dev.to/anmolbaranwal/how-to-make-your-clients-more-context-aware-with-openmemory-mcp-4h71)
-- [Run Oracle Database 19c &lpar;19.19&rpar; on Raspberry Pi 5](https://dev.to/vrobu/run-oracle-database-19c-1919-on-raspberry-pi-5-2768)
+- [🚀AWS Monitoring Mastery: Your In-Depth Guide for 2025 and Beyond](https://dev.to/pkkolla/aws-monitoring-mastery-your-in-depth-guide-for-2025-and-beyond-3in7)
+- [Build a Real-Time Event Tracking API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-event-tracking-api-with-tinybird-313o)
+- [Build a Real-Time Analytics API for Real Estate Market Trends with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-real-estate-market-trends-with-tinybird-4b6p)
+- [Build a Real-time Messaging Analytics API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-messaging-analytics-api-with-tinybird-1dfp)
+- [Build a Real-Time Analytics API for Food Delivery Services with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-food-delivery-services-with-tinybird-3016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
