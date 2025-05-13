@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Repetitive Work into React Tools People Pay For 💊](https://dev.to/0x2e_tech/turn-repetitive-work-into-react-tools-people-pay-for-4a7h)
-- [Can’t Login as Root on Ubuntu? Here’s the Real Reason and How to Fix It.](https://dev.to/vansh_tyagi24/cant-login-as-root-on-ubuntu-heres-the-real-reason-and-how-to-fix-it-3d3m)
-- [When GPT Couldn&#39;t Help, an Old GIS Algorithm Did](https://dev.to/kihoon/when-gpt-couldnt-help-an-old-gis-algorithm-did-1d4b)
-- [WORDPRESS-Local Installation on Ubuntu 24.4](https://dev.to/cliffordisaboke/wordpress-local-installation-on-ubuntu-244-52h7)
-- [Integrating Graphics, Branding, and Scheduling in Playout Software](https://dev.to/malhotraaa/integrating-graphics-branding-and-scheduling-in-playout-software-4e43)
+- [Productivity Unlocked: Your Guide to Daily Inbox Processing](https://dev.to/wraith/productivity-unlocked-your-guide-to-daily-inbox-processing-47ll)
+- [Appliances Powered by Wireless Charging Technology: A Glimpse into the Future of Cord-Free Convenience](https://dev.to/jonathanjone/appliances-powered-by-wireless-charging-technology-a-glimpse-into-the-future-of-cord-free-4a2e)
+- [Fixing Bugs Found on Production](https://dev.to/carlosrambles/fixing-bugs-found-on-production-32ed)
+- [How to Diagnose a Segmentation Fault in Perl Scripts?](https://dev.to/generatecodedev/how-to-diagnose-a-segmentation-fault-in-perl-scripts-2p1d)
+- [How I Code Fast with AI and Still Own the Result](https://dev.to/mrmujo/how-i-code-fast-with-ai-and-still-own-the-result-1d84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
