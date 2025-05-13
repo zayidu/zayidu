@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Understanding the 4 Main Concepts of Object-Oriented Programming &lpar;OOP&rpar; with Examples](https://dev.to/md-afsar-mahmud/understanding-the-4-main-concepts-of-object-oriented-programming-oop-with-examples-jhn)
-- [An Essential Mobile App Performance Testing Checklist](https://dev.to/misterankit/an-essential-mobile-app-performance-testing-checklist-dg9)
-- [How an API Works in a 2 min tutorial👨‍🏫📓.](https://dev.to/code_2/how-an-api-works-in-2-min-4ikc)
-- [What the Heck Are @layer in Tailwind? &lpar;And How I Finally Got It&rpar;](https://dev.to/githubmor/what-the-heck-are-layer-in-tailwind-and-how-i-finally-got-it-380j)
-- [Language Learning Bot - Amazon Q Developer](https://dev.to/maha_lakshmi_dd37d543f7c9/language-learning-bot-amazon-q-developer-4ab8)
+- [Under the Hood: How Tesla Powers its Android App with React Native](https://dev.to/whatstack/under-the-hood-how-tesla-powers-its-android-app-with-react-native-eb4)
+- [A Comprehensive Guide to Building a Deep Research Agent with Qwen3 Locally](https://dev.to/composiodev/a-comprehensive-guide-to-building-a-deep-research-agent-with-qwen3-locally-1jgm)
+- [🚀 Day 1 of My 30-Day Core Java Challenge – Learning with Udemy!](https://dev.to/sujaykumar_84604ac0165b3a/day-1-of-my-30-day-core-java-challenge-learning-with-udemy-580)
+- [Uniapp Development Tutorial for HarmonyOS Applications - Optional api and Composite api](https://dev.to/youlanjihua/uniappkai-fa-hong-meng-ying-yong-jiao-cheng-zhi-xuan-xiang-shi-apihe-zu-he-shi-api-b7j)
+- [🌐 From Zero to Web Hero: Mastering HTML, CSS &amp; JavaScript in Style 💻✨](https://dev.to/rashmi_kaveesha/from-zero-to-web-hero-mastering-html-css-javascript-in-style-2n7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
