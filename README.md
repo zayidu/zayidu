@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with Heart](https://dev.to/rukshanprog/building-with-heart-54fb)
-- [Exporting and Summarizing PDF Annotations](https://dev.to/revisepdf/exporting-and-summarizing-pdf-annotations-33d1)
-- [Code is Liability](https://dev.to/vst/code-is-liability-1l4o)
-- [Your Engineering Velocity Is the Only Metric That Matters](https://dev.to/shayy/your-engineering-velocity-is-the-only-metric-that-matters-ocg)
-- [Breaking Barriers: Why Women&#39;s Representation in Tech Matters](https://dev.to/urielalonso/breaking-barriers-why-womens-representation-in-tech-matters-1d0j)
+- [Vercel AI SDK v5 Internals - Part 9 — Database Deep Dive: Persisting UIMessages Effectively](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-9-database-deep-dive-persisting-uimessages-effectively-362l)
+- [Vercel AI SDK v5 Internals - Part 8 — Server &amp; Client Tool Execution Deep Dive](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-8-server-client-tool-execution-deep-dive-3omh)
+- [🧠 10 Tricky CSS Questions for Frontend Developer Interviews &lpar;with Answers &amp; Examples&rpar;](https://dev.to/javascriptwizzard/10-tricky-css-questions-for-frontend-developer-interviews-with-answers-examples-1ob3)
+- [Vercel AI SDK v5 Internals - Part 7 — Decoupling Your Backend: The ChatTransport Abstraction Explained](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-7-decoupling-your-backend-the-chattransport-abstraction-1a83)
+- [Vercel AI SDK v5 Internals - Part 6 — One Store, Many Hooks: Unified Chat State Across Frameworks](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-6-one-store-many-hooks-unified-chat-state-across-frameworks-3cab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
