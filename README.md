@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built an AI Assistant to Summarize and Query My Emails – Seeking Feedback](https://dev.to/naman_mistry_b727da6da302/built-an-ai-assistant-to-summarize-and-query-my-emails-seeking-feedback-4pjg)
-- [How to Fix &#39;require Test::Directory&#39; Failure in Perl?](https://dev.to/generatecodedev/how-to-fix-require-testdirectory-failure-in-perl-42gc)
-- [Web Codecs API for Advanced Media Decoding](https://dev.to/omriluz1/web-codecs-api-for-advanced-media-decoding-1ok8)
-- [Stop Hiring Data Analysts](https://dev.to/hermanzdosilovic/stop-hiring-data-analysts-1deb)
-- [You Don&#39;t Need GORM, there is a better alternative](https://dev.to/bitsofmandal-yt/you-dont-need-gorm-there-is-a-better-alternative-12j2)
+- [From Stock Pitch Competitions to Wall Street Jobs](https://dev.to/marketdaily/from-stock-pitch-competitions-to-wall-street-jobs-1k2p)
+- [Create JavaScript Dynamic List &lpar;Step-by-Step Guide&rpar;](https://dev.to/patricia1988hernandez2/create-javascript-dynamic-list-step-by-step-guide-3465)
+- [Recursion in Python](https://dev.to/bterwijn/recursion-in-python-4hka)
+- [MCP and A2A: Two bright modular futures for AI](https://dev.to/leading-edje/mcp-and-a2a-two-bright-modular-futures-for-ai-16f)
+- [Can You Determine Modular Arithmetic in C++ Without Comparison?](https://dev.to/generatecodedev/can-you-determine-modular-arithmetic-in-c-without-comparison-4gfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
