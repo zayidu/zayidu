@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel AI SDK v5 Internals - Part 9 — Database Deep Dive: Persisting UIMessages Effectively](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-9-database-deep-dive-persisting-uimessages-effectively-362l)
-- [Vercel AI SDK v5 Internals - Part 8 — Server &amp; Client Tool Execution Deep Dive](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-8-server-client-tool-execution-deep-dive-3omh)
-- [🧠 10 Tricky CSS Questions for Frontend Developer Interviews &lpar;with Answers &amp; Examples&rpar;](https://dev.to/javascriptwizzard/10-tricky-css-questions-for-frontend-developer-interviews-with-answers-examples-1ob3)
-- [Vercel AI SDK v5 Internals - Part 7 — Decoupling Your Backend: The ChatTransport Abstraction Explained](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-7-decoupling-your-backend-the-chattransport-abstraction-1a83)
-- [Vercel AI SDK v5 Internals - Part 6 — One Store, Many Hooks: Unified Chat State Across Frameworks](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-6-one-store-many-hooks-unified-chat-state-across-frameworks-3cab)
+- [Built an AI Assistant to Summarize and Query My Emails – Seeking Feedback](https://dev.to/naman_mistry_b727da6da302/built-an-ai-assistant-to-summarize-and-query-my-emails-seeking-feedback-4pjg)
+- [How to Fix &#39;require Test::Directory&#39; Failure in Perl?](https://dev.to/generatecodedev/how-to-fix-require-testdirectory-failure-in-perl-42gc)
+- [Web Codecs API for Advanced Media Decoding](https://dev.to/omriluz1/web-codecs-api-for-advanced-media-decoding-1ok8)
+- [Stop Hiring Data Analysts](https://dev.to/hermanzdosilovic/stop-hiring-data-analysts-1deb)
+- [You Don&#39;t Need GORM, there is a better alternative](https://dev.to/bitsofmandal-yt/you-dont-need-gorm-there-is-a-better-alternative-12j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
