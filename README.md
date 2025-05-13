@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Mutability](https://dev.to/bterwijn/python-mutability-41bd)
-- [Day 19/ 30 Days of Linux Mastery: File Viewing Commands &lpar;cat, less, more, head, tail&rpar;](https://dev.to/amandaigwe/day-19-30-days-of-linux-mastery-file-viewing-commands-cat-less-more-head-tail-4385)
-- [sol-trading-service](https://dev.to/willywangkaa/sol-trading-service-4iag)
-- [Facepalm Moments in Development – A Lesson Learned 😂](https://dev.to/creator_x/facepalm-moments-in-development-a-lesson-learned-28jp)
-- [How to Fix Angular Material Mat-Form-Field Label Issues?](https://dev.to/generatecodedev/how-to-fix-angular-material-mat-form-field-label-issues-1f7e)
+- [Modern Rails Rendering Techniques: Choosing Between Turbo Drive, Frames, Streams and Morph](https://dev.to/harsh_u115/modern-rails-rendering-techniques-choosing-between-turbo-drive-frames-streams-and-morph-3lek)
+- [[Boost]](https://dev.to/mkahil/-4gm4)
+- [How to Make Your Perl Script Executable in CGI-Bin?](https://dev.to/generatecodedev/how-to-make-your-perl-script-executable-in-cgi-bin-1le1)
+- [[Boost]](https://dev.to/wisser/-ldd)
+- [3. Longest Substring Without Repeating Characters Solved](https://dev.to/xyz_pythonic/3-longest-substring-without-repeating-characterssolved-40lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
