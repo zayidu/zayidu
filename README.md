@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Views or Materialized Views: When to Use?](https://dev.to/mayallo/mongodb-views-or-materialized-views-when-to-use-46d8)
-- [Unlocking Space-Efficient Magic: A Deep Dive into Bloom Filters](https://dev.to/dhanush___b/unlocking-space-efficient-magic-a-deep-dive-into-bloom-filters-1b62)
-- [Why You Should Use function_exists in Your PHP Helpers](https://dev.to/yasserelgammal/why-you-should-use-functionexists-in-your-php-helpers-3m4h)
-- [How to Pass AWS Certifications](https://dev.to/kuljotbiring/how-to-pass-aws-certifications-64c)
-- [OAuth 1.0 vs OAuth 2.0 in .NET Core](https://dev.to/renukapatil/oauth-10-vs-oauth-20-in-net-core-5bpg)
+- [Swarm Intelligence Journey #2 Krill Herd](https://dev.to/diosamuel/swarm-intelligence-journey-2-krill-herd-1ecc)
+- [Swarm Intelligence Journey #1 Bat Algorithm](https://dev.to/diosamuel/swarm-intelligence-journey-1-bat-algorithm-2c2c)
+- [[WIP][Godot 4 &amp; Py] BrainsIAAndPixels – 3D PixelArt Game with AI-Controlled NPCs](https://dev.to/the_giordi/wipgodot-4-py-brainsiaandpixels-3d-pixelart-game-with-ai-controlled-npcs-3oee)
+- [Which is the best Agile certification for Project Managers?](https://dev.to/arianaa/which-is-the-best-agile-certification-for-project-managers-2fpp)
+- [How to Test and Debug Servers with Postman MCP Client, A Step by Step guide.](https://dev.to/ralphsebastian/how-to-test-and-debug-servers-with-postman-mcp-client-a-step-by-step-guide-275g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
