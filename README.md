@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate git commit messages with a simple bash script and openrouter](https://dev.to/tomdekan/automate-git-commit-messages-with-a-simple-bash-script-and-openrouter-lno)
-- [Guia de Estudo Go 1](https://dev.to/eduardorosa/guia-de-estudo-go-1-1no)
-- [From Phone Lines to Ethernet: An Introduction to Copper Cabling](https://dev.to/andrew_despres/from-phone-lines-to-ethernet-an-introduction-to-copper-cabling-3jp2)
-- [Guia de Estudo Go 2](https://dev.to/eduardorosa/guia-de-estudo-go-2-22h7)
-- [Talk to Your Kubernetes Cluster Using AI](https://dev.to/rajeev_3ce9f280cbae73b234/talk-to-your-kubernetes-cluster-using-ai-2al5)
+- [🔥 Stripe + Jony Ive Fireside, UI After LLMs &amp; DOOM in CSS](https://dev.to/adam/stripe-jony-ive-fireside-ui-after-llms-doom-in-css-2j3i)
+- [Pioneering a New Era of AI Innovation](https://dev.to/rawveg/pioneering-a-new-era-of-ai-innovation-197)
+- [Docker – Simplifying the Deployment Process](https://dev.to/gabrielle_eduarda_776996b/docker-simplifying-the-deployment-process-447a)
+- [How to Diagnose Azure Function Failures with Octokit Instantiation?](https://dev.to/generatecodedev/how-to-diagnose-azure-function-failures-with-octokit-instantiation-2n3e)
+- [Real-Time Monitoring of Laser Lipo Output via Python or Node.js](https://dev.to/kora_pertenson_0d09b8e1be/real-time-monitoring-of-laser-lipo-output-via-python-or-nodejs-3gg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
