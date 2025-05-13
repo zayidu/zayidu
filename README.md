@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you join a community to learn Rust?](https://dev.to/francescoxx/should-you-join-a-community-to-learn-rust-j16)
-- [animated form](https://dev.to/amna_haroon_381f5d51b7358/animated-form-11b6)
-- [Real-Time Attack Monitoring with SafeLine: Setting Up Syslog Integration](https://dev.to/sharon_42e16b8da44dabde6d/real-time-attack-monitoring-with-safeline-setting-up-syslog-integration-21bc)
-- [Frontiers in Computer Vision: Interpretability, Efficiency, Robustness, and Unified Learning in the Era of Deep AI Advan](https://dev.to/khanali21/frontiers-in-computer-vision-interpretability-efficiency-robustness-and-unified-learning-in-the-3da3)
-- [🚀 Set Up Redis with RedisInsight Using Docker for Local Development](https://dev.to/rafi021/set-up-redis-with-redisinsight-using-docker-for-local-development-3gci)
+- [🚀 DRF ViewSets &amp; Routers Explained – Build REST APIs Faster with Django](https://dev.to/ebereplenty/drf-viewsets-routers-explained-build-rest-apis-faster-with-django-4683)
+- [🧬 I Built a Flask App That Evolves Based on User Behavior](https://dev.to/abubaker_siddique_513b7e2/i-built-a-flask-app-that-evolves-based-on-user-behavior-cci)
+- [From Side Project to Invoicing Solution: A Developer&#39;s Practical API Journey](https://dev.to/arbythecoder/from-side-project-to-invoicing-solution-a-developers-practical-api-journey-1maa)
+- [🧘‍♂️ Code Like You Care: How Python and AI Helped Me Automate My Burnout](https://dev.to/snappytuts/code-like-you-care-how-python-and-ai-helped-me-automate-my-burnout-1cai)
+- [Future of Dev Work](https://dev.to/diamantino_almeida/future-of-dev-work-150p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
