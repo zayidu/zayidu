@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UK games market decreased by 1.8% in 2024 to £7.63 billion](https://dev.to/gg_news/uk-games-market-decreased-by-18-in-2024-to-ps763-billion-4h09)
-- [It Looks Like We&#39;re Gonna Get Half-Life 3 Before GTA 6 And The Elder Scrolls 6](https://dev.to/gg_news/it-looks-like-were-gonna-get-half-life-3-before-gta-6-and-the-elder-scrolls-6-572l)
-- [Apple’s smart glasses might run on this AI model](https://dev.to/future_arvr/apples-smart-glasses-might-run-on-this-ai-model-3o3c)
-- [How to use custom fonts in Tailwind CSS](https://dev.to/logrocket/how-to-use-custom-fonts-in-tailwind-css-57bh)
-- [Crafting Type-Safe Zod Helpers: A Deep Dive into `preprocess` and TypeScript Wizardry](https://dev.to/ssilve1989/crafting-type-safe-zod-helpers-a-deep-dive-into-preprocess-and-typescript-wizardry-6pa)
+- [Why FastAPI Will Supercharge Your Next Python Project 🚀](https://dev.to/mahuel18/why-fastapi-will-supercharge-your-next-python-project-4i65)
+- [[Boost]](https://dev.to/mahdijazini/-1o50)
+- [Understanding the @Scope Annotation in Spring: How Bean Scopes Work](https://dev.to/tiuwill/understanding-the-scope-annotation-in-spring-how-bean-scopes-work-dpn)
+- [How to make your clients more context-aware with OpenMemory MCP](https://dev.to/anmolbaranwal/how-to-make-your-clients-more-context-aware-with-openmemory-mcp-4h71)
+- [Run Oracle Database 19c &lpar;19.19&rpar; on Raspberry Pi 5](https://dev.to/vrobu/run-oracle-database-19c-1919-on-raspberry-pi-5-2768)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
