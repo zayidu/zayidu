@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀AWS Monitoring Mastery: Your In-Depth Guide for 2025 and Beyond](https://dev.to/pkkolla/aws-monitoring-mastery-your-in-depth-guide-for-2025-and-beyond-3in7)
-- [Build a Real-Time Event Tracking API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-event-tracking-api-with-tinybird-313o)
-- [Build a Real-Time Analytics API for Real Estate Market Trends with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-real-estate-market-trends-with-tinybird-4b6p)
-- [Build a Real-time Messaging Analytics API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-messaging-analytics-api-with-tinybird-1dfp)
-- [Build a Real-Time Analytics API for Food Delivery Services with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-food-delivery-services-with-tinybird-3016)
+- [Building with Heart](https://dev.to/rukshanprog/building-with-heart-54fb)
+- [Exporting and Summarizing PDF Annotations](https://dev.to/revisepdf/exporting-and-summarizing-pdf-annotations-33d1)
+- [Code is Liability](https://dev.to/vst/code-is-liability-1l4o)
+- [Your Engineering Velocity Is the Only Metric That Matters](https://dev.to/shayy/your-engineering-velocity-is-the-only-metric-that-matters-ocg)
+- [Breaking Barriers: Why Women&#39;s Representation in Tech Matters](https://dev.to/urielalonso/breaking-barriers-why-womens-representation-in-tech-matters-1d0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
