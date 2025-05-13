@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/chamsedinebouhouch/-294)
-- [Why is My Dart Broadcast Stream Controller Not Working?](https://dev.to/generatecodedev/why-is-my-dart-broadcast-stream-controller-not-working-p0o)
-- [How to Handle Firefox&#39;s DOM State Reload Issue for Your Website?](https://dev.to/generatecodedev/how-to-handle-firefoxs-dom-state-reload-issue-for-your-website-48d)
-- [From Chaos to Clarity: Making Your Data AI-Ready](https://dev.to/marcus_w/from-chaos-to-clarity-making-your-data-ai-ready-16an)
-- [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://dev.to/sweet_mouth/diffusionedge-diffusion-probabilistic-model-for-crisp-edge-detection-2jo9)
+- [How to Fix &#39;No Anonymous Block Parameter&#39; in Hanami Ruby](https://dev.to/generatecodedev/how-to-fix-no-anonymous-block-parameter-in-hanami-ruby-5fn6)
+- [Next.js Setup Guide for Developers](https://dev.to/pu-lazydev/nextjs-setup-guide-for-developers-4l1l)
+- [How to Fix SQL Search Queries with Wildcards in PHP](https://dev.to/generatecodedev/how-to-fix-sql-search-queries-with-wildcards-in-php-40cg)
+- [Machine Learning testing strategies](https://dev.to/kunaal_ai_tester/machine-learning-testing-strategies-410g)
+- [A small note about me &lpar;and the weird stuff I post&rpar;](https://dev.to/uka_aidev/a-small-note-about-me-and-the-weird-stuff-i-post-4ib4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
