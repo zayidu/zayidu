@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a New Programming Language for Neurodivergent Creators — Meet Sona](https://dev.to/bryantad/i-built-a-new-programming-language-for-neurodivergent-creators-meet-sona-3402)
-- [Why Code in Dark Mode?](https://dev.to/anitaolsen/why-code-in-dark-mode-2hee)
-- [12 Essential Sites Every Developer Should Know 🌐](https://dev.to/cryptosandy/12-essential-sites-every-developer-should-know-2h6i)
-- [Stepping Aside to Lead in Tech](https://dev.to/joacod/stepping-aside-to-lead-in-tech-2177)
-- [“Make New York, the crypto capital of the globe” - Mayor Eric Adams](https://dev.to/theblockverse/make-new-york-the-crypto-capital-of-the-globe-mayor-eric-adams-o6h)
+- [UK games market decreased by 1.8% in 2024 to £7.63 billion](https://dev.to/gg_news/uk-games-market-decreased-by-18-in-2024-to-ps763-billion-4h09)
+- [It Looks Like We&#39;re Gonna Get Half-Life 3 Before GTA 6 And The Elder Scrolls 6](https://dev.to/gg_news/it-looks-like-were-gonna-get-half-life-3-before-gta-6-and-the-elder-scrolls-6-572l)
+- [Apple’s smart glasses might run on this AI model](https://dev.to/future_arvr/apples-smart-glasses-might-run-on-this-ai-model-3o3c)
+- [How to use custom fonts in Tailwind CSS](https://dev.to/logrocket/how-to-use-custom-fonts-in-tailwind-css-57bh)
+- [Crafting Type-Safe Zod Helpers: A Deep Dive into `preprocess` and TypeScript Wizardry](https://dev.to/ssilve1989/crafting-type-safe-zod-helpers-a-deep-dive-into-preprocess-and-typescript-wizardry-6pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
