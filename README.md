@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;No Anonymous Block Parameter&#39; in Hanami Ruby](https://dev.to/generatecodedev/how-to-fix-no-anonymous-block-parameter-in-hanami-ruby-5fn6)
-- [Next.js Setup Guide for Developers](https://dev.to/pu-lazydev/nextjs-setup-guide-for-developers-4l1l)
-- [How to Fix SQL Search Queries with Wildcards in PHP](https://dev.to/generatecodedev/how-to-fix-sql-search-queries-with-wildcards-in-php-40cg)
-- [Machine Learning testing strategies](https://dev.to/kunaal_ai_tester/machine-learning-testing-strategies-410g)
-- [A small note about me &lpar;and the weird stuff I post&rpar;](https://dev.to/uka_aidev/a-small-note-about-me-and-the-weird-stuff-i-post-4ib4)
+- [🌟 Understanding the 4 Main Concepts of Object-Oriented Programming &lpar;OOP&rpar; with Examples](https://dev.to/md-afsar-mahmud/understanding-the-4-main-concepts-of-object-oriented-programming-oop-with-examples-jhn)
+- [An Essential Mobile App Performance Testing Checklist](https://dev.to/misterankit/an-essential-mobile-app-performance-testing-checklist-dg9)
+- [How an API Works in a 2 min tutorial👨‍🏫📓.](https://dev.to/code_2/how-an-api-works-in-2-min-4ikc)
+- [What the Heck Are @layer in Tailwind? &lpar;And How I Finally Got It&rpar;](https://dev.to/githubmor/what-the-heck-are-layer-in-tailwind-and-how-i-finally-got-it-380j)
+- [Language Learning Bot - Amazon Q Developer](https://dev.to/maha_lakshmi_dd37d543f7c9/language-learning-bot-amazon-q-developer-4ab8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
