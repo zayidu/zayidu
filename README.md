@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/samueljoseph/-4bfh)
-- [How to Troubleshoot ZK-Proof Generation Issues in Next.js](https://dev.to/generatecodedev/how-to-troubleshoot-zk-proof-generation-issues-in-nextjs-53hd)
-- [Wrkspace: One-Time Setup, Lifetime Productivity](https://dev.to/mfcmatheus/wrkspace-one-time-setup-lifetime-productivity-2j1c)
-- [Getting Started with Linux: System Information and User Management](https://dev.to/dhavalthakar97/getting-started-with-linux-system-information-and-user-management-26m1)
-- [Why Your Cloud Strategy Keeps Failing &lpar;And How I Fixed It&rpar;](https://dev.to/samueljoseph/why-your-cloud-strategy-keeps-failing-and-how-i-fixed-it-5al)
+- [[Boost]](https://dev.to/chamsedinebouhouch/-294)
+- [Why is My Dart Broadcast Stream Controller Not Working?](https://dev.to/generatecodedev/why-is-my-dart-broadcast-stream-controller-not-working-p0o)
+- [How to Handle Firefox&#39;s DOM State Reload Issue for Your Website?](https://dev.to/generatecodedev/how-to-handle-firefoxs-dom-state-reload-issue-for-your-website-48d)
+- [From Chaos to Clarity: Making Your Data AI-Ready](https://dev.to/marcus_w/from-chaos-to-clarity-making-your-data-ai-ready-16an)
+- [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://dev.to/sweet_mouth/diffusionedge-diffusion-probabilistic-model-for-crisp-edge-detection-2jo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
