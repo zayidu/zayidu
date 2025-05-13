@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Stock Pitch Competitions to Wall Street Jobs](https://dev.to/marketdaily/from-stock-pitch-competitions-to-wall-street-jobs-1k2p)
-- [Create JavaScript Dynamic List &lpar;Step-by-Step Guide&rpar;](https://dev.to/patricia1988hernandez2/create-javascript-dynamic-list-step-by-step-guide-3465)
-- [Recursion in Python](https://dev.to/bterwijn/recursion-in-python-4hka)
-- [MCP and A2A: Two bright modular futures for AI](https://dev.to/leading-edje/mcp-and-a2a-two-bright-modular-futures-for-ai-16f)
-- [Can You Determine Modular Arithmetic in C++ Without Comparison?](https://dev.to/generatecodedev/can-you-determine-modular-arithmetic-in-c-without-comparison-4gfa)
+- [Automate git commit messages with a simple bash script and openrouter](https://dev.to/tomdekan/automate-git-commit-messages-with-a-simple-bash-script-and-openrouter-lno)
+- [Guia de Estudo Go 1](https://dev.to/eduardorosa/guia-de-estudo-go-1-1no)
+- [From Phone Lines to Ethernet: An Introduction to Copper Cabling](https://dev.to/andrew_despres/from-phone-lines-to-ethernet-an-introduction-to-copper-cabling-3jp2)
+- [Guia de Estudo Go 2](https://dev.to/eduardorosa/guia-de-estudo-go-2-22h7)
+- [Talk to Your Kubernetes Cluster Using AI](https://dev.to/rajeev_3ce9f280cbae73b234/talk-to-your-kubernetes-cluster-using-ai-2al5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
