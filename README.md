@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Stripe + Jony Ive Fireside, UI After LLMs &amp; DOOM in CSS](https://dev.to/adam/stripe-jony-ive-fireside-ui-after-llms-doom-in-css-2j3i)
-- [Pioneering a New Era of AI Innovation](https://dev.to/rawveg/pioneering-a-new-era-of-ai-innovation-197)
-- [Docker – Simplifying the Deployment Process](https://dev.to/gabrielle_eduarda_776996b/docker-simplifying-the-deployment-process-447a)
-- [How to Diagnose Azure Function Failures with Octokit Instantiation?](https://dev.to/generatecodedev/how-to-diagnose-azure-function-failures-with-octokit-instantiation-2n3e)
-- [Real-Time Monitoring of Laser Lipo Output via Python or Node.js](https://dev.to/kora_pertenson_0d09b8e1be/real-time-monitoring-of-laser-lipo-output-via-python-or-nodejs-3gg0)
+- [🐹 Series: Leetcoding in Go — slices.Backward&lpar;&rpar;](https://dev.to/kgrah/series-leetcoding-in-go-slicesbackward-1aaj)
+- [🐹 Series: Leetcoding in Go — slices.Backward&lpar;&rpar;](https://dev.to/kgrah/series-leetcoding-in-go-slicesbackward-43f1)
+- [🐹 Series: Leetcoding in Go — slices.Backward&lpar;&rpar;](https://dev.to/kgrah/series-leetcoding-in-go-slicesbackward-abg)
+- [Usando Inteligência Artificial para revisar e melhorar meu Código &lpar;Sem Receber a solução pronta&rpar;](https://dev.to/joao_colussi_571cebea2dbc/usando-inteligencia-artificial-para-revisar-e-melhorar-meu-codigo-sem-receber-a-solucao-pronta-3cl9)
+- [Day 3/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-3200-full-stack-n42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
