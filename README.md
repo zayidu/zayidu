@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track LLM User Feedback to Improve Your AI Applications](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-track-llm-user-feedback-to-improve-your-ai-applications-1a08)
-- [Internship Completed](https://dev.to/ritesh_thakur_4a4301a95a1/internship-completed-257g)
-- [Optimizing Lambda Performance with AWS Lambda Power Tuning](https://dev.to/marciojc/optimizing-lambda-performance-with-aws-lambda-power-tuning-2m2o)
-- [Unveiling Educational Community License 2.0: A Comprehensive Overview](https://dev.to/ahmmrizv9/unveiling-educational-community-license-20-a-comprehensive-overview-1694)
-- [Descubra o Modo Agente do GitHub Copilot](https://dev.to/pachicodes/descubra-o-modo-agente-do-github-copilot-54j2)
+- [Slideup Footer animation](https://dev.to/saneha_gill_36d91c4bb794c/slideup-footer-animation-2p41)
+- [// Basic shooter game using HTML Canvas and JavaScript const canvas = document.createElement&lpar;&#39;canvas&#39;&rpar;; const ctx = canvas.getContext&lpar;&#39;2d&#39;&rpar;; document.body.appendChild&lpar;canvas&rpar;; canvas.width = 800; canvas.height = 600; let keys = {}; let bullets = []; let e](https://dev.to/j_v_2aeae8f58409b9b881f72/-basic-shooter-game-using-html-canvas-and-javascript-const-canvas--1lcg)
+- [[Boost]](https://dev.to/sjmsre/-4d9b)
+- [Managing Shared Environments with Grace](https://dev.to/sjmsre/managing-shared-environments-with-grace-2f5i)
+- [Unveiling the ISC License: A Comprehensive Exploration into Open Source Simplicity and Innovation](https://dev.to/ashucommits/unveiling-the-isc-license-a-comprehensive-exploration-into-open-source-simplicity-and-innovation-22e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
