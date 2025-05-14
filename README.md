@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I &lpar;Almost&rpar; Outsourced My Brain to Gemini Pro](https://dev.to/d2d_weizhi/how-i-almost-outsourced-my-brain-to-gemini-pro-430n)
-- [Everything you need to know about Token Listings in 2025](https://dev.to/wellschristopher/everything-you-need-to-know-about-token-listings-in-2025-246b)
-- [5 Things That Should Be Illegal to Self Host](https://dev.to/code42cate/5-things-that-should-be-illegal-to-self-host-3d21)
-- [Seamless Unit Testing Across Technologies - Running Python Tests from .NET Web API](https://dev.to/javonet/seamless-unit-testing-across-technologies-running-python-tests-from-net-web-api-542o)
-- [Author Schema Markup For Blogger Data Structure](https://dev.to/iwan_setiawan_a654ce11ff2/author-schema-markup-for-blogger-data-structure-2ok7)
+- [How YouTube handles downloading video](https://dev.to/hesanam/how-youtube-handles-downloading-video-54cc)
+- [Feature Management in .NET](https://dev.to/vimaltwit/feature-management-in-net-3l9e)
+- [Hi everyone! I’m working on a React project . My screen layout isn’t stretching properly . I’ve created a GitHub issue with code and screenshots. I’d really appreciate your input. 🔗 [https://github.com/Anonymous2024-spec/react-dashboard-milestone1/issues]](https://dev.to/nana_shifah_27908dd3b993e/hi-everyone-im-working-on-a-react-project-my-screen-layout-isnt-stretching-properly-ive-51g5)
+- [How to Implement a Simple Calculator in C](https://dev.to/generatecodedev/how-to-implement-a-simple-calculator-in-c-5g17)
+- [How to Post on DEV.to Using Python](https://dev.to/palak_singla_ae13e55615a4/how-to-post-on-devto-using-python-4be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
