@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning SSL Protocols and Ciphers in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/fine-tuning-ssl-protocols-and-ciphers-in-safeline-waf-3fbi)
-- [beeware trouble](https://dev.to/aragon_yhj_9195a35919b26/beeware-trouble-286l)
-- [Props &amp; Emits: Component Communication in Vue](https://dev.to/sibasishm/props-emits-component-communication-in-vue-5c6l)
-- [AI-Guided AWS Deployment for Your Dart Backend Applications](https://dev.to/salihgueler/ai-guided-aws-deployment-for-your-dart-backend-applications-4g3a)
-- [Tailwind CSS – 5-Minute Quick Review for React Developers](https://dev.to/tishonator/tailwind-css-5-minute-quick-review-for-react-developers-1np5)
+- [Wild Bets &amp; Island Dreams: What Crypto Billionaires Are Doing With Their Money &lpar;and What I’d Do Instead&rpar;](https://dev.to/iri_denis/wild-bets-island-dreams-what-crypto-billionaires-are-doing-with-their-money-and-what-id-do-3jp6)
+- [Frontiers in Robotics: Key Themes, Methodologies, and Innovations from May 2025 arXiv cs.RO Research](https://dev.to/khanali21/frontiers-in-robotics-key-themes-methodologies-and-innovations-from-may-2025-arxiv-csro-research-1m36)
+- [Lo que nadie te dice para transformar tu carrera profesional, mi método para lograrlo](https://dev.to/aws-espanol/lo-que-nadie-te-dice-para-transformar-tu-carrera-profesional-mi-metodo-para-lograrlo-mh)
+- [🎨 Freelancer / Indie Developer Website Template](https://dev.to/shreyvijayvargiya/freelancer-indie-developer-website-template-13c0)
+- [How To Learn C++](https://dev.to/sfundomhlungu/how-to-learn-c-neh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
