@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐹 Series: Leetcoding in Go — slices.Backward&lpar;&rpar;](https://dev.to/kgrah/series-leetcoding-in-go-slicesbackward-1aaj)
-- [🐹 Series: Leetcoding in Go — slices.Backward&lpar;&rpar;](https://dev.to/kgrah/series-leetcoding-in-go-slicesbackward-43f1)
-- [🐹 Series: Leetcoding in Go — slices.Backward&lpar;&rpar;](https://dev.to/kgrah/series-leetcoding-in-go-slicesbackward-abg)
-- [Usando Inteligência Artificial para revisar e melhorar meu Código &lpar;Sem Receber a solução pronta&rpar;](https://dev.to/joao_colussi_571cebea2dbc/usando-inteligencia-artificial-para-revisar-e-melhorar-meu-codigo-sem-receber-a-solucao-pronta-3cl9)
-- [Day 3/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-3200-full-stack-n42)
+- [How to Write Better Functions: A Clean Code Checklist](https://dev.to/sanjeev_kumar_55ba8af553a/how-to-write-better-functions-a-clean-code-checklist-39an)
+- [Cách Tích Hợp Đăng Nhập Google, GitHub Và Facebook Trong Ứng Dụng Java &lpar;Spring Boot&rpar;](https://dev.to/uyen/cach-tich-hop-dang-nhap-google-github-va-facebook-trong-ung-dung-java-spring-boot-25je)
+- [I Built tip.md to Help Open-Source Devs Get Crypto Tips via GitHub READMEs—What Do You Think?](https://dev.to/xr0am/i-built-tipmd-to-help-open-source-devs-get-crypto-tips-via-github-readmes-what-do-you-think-2p0b)
+- [How to Select Rows from a DataFrame in Pandas Based on Column Values?](https://dev.to/generatecodedev/how-to-select-rows-from-a-dataframe-in-pandas-based-on-column-values-4145)
+- [Sending Telegram Messages in SQL Statements](https://dev.to/sqlman/sending-telegram-messages-in-sql-statements-373f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
