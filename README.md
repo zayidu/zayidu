@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Easiest Way to Be Ignored When Communicating at Work](https://dev.to/canro91/the-easiest-way-to-be-ignored-when-communicating-at-work-1hb9)
-- [Best Practices for Handling Side Effects in React](https://dev.to/hasunnilupul/best-practices-for-handling-side-effects-in-react-4fk4)
-- [Building AutoLLMBench: How I Taught AI Agents to Maintain Their Own Leaderboard](https://dev.to/abhigna_nagaraja/building-autollmbench-how-i-taught-ai-agents-to-maintain-their-own-leaderboard-52o3)
-- [Computer Network](https://dev.to/th33k/computer-network-3bg8)
-- [How to Provide Default Values When Reading JSON in Scala](https://dev.to/generatecodedev/how-to-provide-default-values-when-reading-json-in-scala-4ak9)
+- [For years, Microservice Architecture has been marketed as the ultimate solution for scalability, flexibility, and efficiency within IT Solutions. But does it really live up to its promises ❓](https://dev.to/stas_sultanov/for-years-microservice-architecture-has-been-marketed-as-the-ultimate-solution-for-scalability-19jn)
+- [The LIMIT offset, count Trap: Why Large Offsets Slow Down MySQL?](https://dev.to/chat2db/the-limit-offset-count-trap-why-large-offsets-slow-down-mysql-kg1)
+- [Enhancing Software Quality with SmartBear Automated Testing](https://dev.to/testree/enhancing-software-quality-with-smartbear-automated-testing-48f)
+- [How to Send Emails on User Sign-Up with Node.js, Express.js &amp; cPanel](https://dev.to/swapnil_ahmmedshishir_2d/how-to-send-emails-on-user-sign-up-with-nodejs-expressjs-cpanel-39hm)
+- [Best Free Ai Coding Assistants You Can Use Right Now](https://dev.to/keploy/best-free-ai-coding-assistants-you-can-use-right-now-5c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
