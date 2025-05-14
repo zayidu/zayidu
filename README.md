@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS Native Module Bridging in React Native 0.79 &lpar;New Architecture&rpar; 🚀](https://dev.to/amitkumar13/ios-native-module-bridging-in-react-native-079-new-architecture-37h0)
-- [Standing up Debezium Server for Postgres CDC](https://dev.to/sequin/standing-up-debezium-server-for-postgres-cdc-b75)
-- [Working On a New Project](https://dev.to/finn-40/working-on-a-new-project-1b50)
-- [Created an MCP Server for Trello &lpar;100% Open Source&rpar; 🚀](https://dev.to/buildandcodewithraman/created-an-mcp-server-for-trello-100-open-source-3hcm)
-- [🕵️‍♂️ I Solved a Murder Using Python, Flask, and HTML](https://dev.to/abubaker_siddique_513b7e2/i-solved-a-murder-using-python-flask-and-html-1ld8)
+- [JavaScript Concurrency Models: Web Workers vs. Service Workers](https://dev.to/omriluz1/javascript-concurrency-models-web-workers-vs-service-workers-3bmm)
+- [Now we need a filesystem. Then, Mount it!](https://dev.to/jkeown/now-we-need-a-filesystem-then-mount-it-37le)
+- [🔍 Angular Challenge #1: Understanding OnPush Change Detection in Angular](https://dev.to/ng-delhi/angular-challenge-1-understanding-onpush-change-detection-in-angular-58og)
+- [Liquid Tag Requests](https://dev.to/jess/liquid-tag-requests-2ono)
+- [How to Fix &#39;modelData is Not Defined&#39; Error in C++ for Android](https://dev.to/generatecodedev/how-to-fix-modeldata-is-not-defined-error-in-c-for-android-2ecj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
