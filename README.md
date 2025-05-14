@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wild Bets &amp; Island Dreams: What Crypto Billionaires Are Doing With Their Money &lpar;and What I’d Do Instead&rpar;](https://dev.to/iri_denis/wild-bets-island-dreams-what-crypto-billionaires-are-doing-with-their-money-and-what-id-do-3jp6)
-- [Frontiers in Robotics: Key Themes, Methodologies, and Innovations from May 2025 arXiv cs.RO Research](https://dev.to/khanali21/frontiers-in-robotics-key-themes-methodologies-and-innovations-from-may-2025-arxiv-csro-research-1m36)
-- [Lo que nadie te dice para transformar tu carrera profesional, mi método para lograrlo](https://dev.to/aws-espanol/lo-que-nadie-te-dice-para-transformar-tu-carrera-profesional-mi-metodo-para-lograrlo-mh)
-- [🎨 Freelancer / Indie Developer Website Template](https://dev.to/shreyvijayvargiya/freelancer-indie-developer-website-template-13c0)
-- [How To Learn C++](https://dev.to/sfundomhlungu/how-to-learn-c-neh)
+- [Manager’s guide: Planning &amp; budgeting a web component library for internal tools](https://dev.to/dronahq/managers-guide-planning-budgeting-a-web-component-library-for-internal-tools-6jn)
+- [Are Apologies Training AIs to Deceive?](https://dev.to/rawveg/are-apologies-training-ais-to-deceive-3ja3)
+- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-2a99)
+- [My Latest Achievement: Reviewing ‘Mastering Visual Studio 2022’ – A Deep Dive Into Advanced C# &amp; .NET Development](https://dev.to/amr-saafan/my-latest-achievement-reviewing-mastering-visual-studio-2022-a-deep-dive-into-advanced-c--375j)
+- [🧠 Building Xion Apex as a Solo Dev: No Fancy Stack, Just Grit](https://dev.to/creator_x/building-xion-apex-as-a-solo-dev-no-fancy-stack-just-grit-4den)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
