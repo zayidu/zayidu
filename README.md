@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Concurrency Models: Web Workers vs. Service Workers](https://dev.to/omriluz1/javascript-concurrency-models-web-workers-vs-service-workers-3bmm)
-- [Now we need a filesystem. Then, Mount it!](https://dev.to/jkeown/now-we-need-a-filesystem-then-mount-it-37le)
-- [🔍 Angular Challenge #1: Understanding OnPush Change Detection in Angular](https://dev.to/ng-delhi/angular-challenge-1-understanding-onpush-change-detection-in-angular-58og)
-- [Liquid Tag Requests](https://dev.to/jess/liquid-tag-requests-2ono)
-- [How to Fix &#39;modelData is Not Defined&#39; Error in C++ for Android](https://dev.to/generatecodedev/how-to-fix-modeldata-is-not-defined-error-in-c-for-android-2ecj)
+- [🔥 You Don’t Know HTML, So You Installed a bloated framework? 🤬💻](https://dev.to/mexikode/you-dont-know-html-so-you-installed-a-bloated-framework-2f8i)
+- [A Arquitetura REST como Padrão para Desenvolvimento de Aplicações Web Modernas](https://dev.to/evandroluiz_rd/a-arquitetura-rest-como-padrao-para-desenvolvimento-de-aplicacoes-web-modernas-2m1n)
+- [Deploying a Full-Stack App on AWS ECS with Docker: From Code to Cloud](https://dev.to/sherif_san/deploying-a-full-stack-app-on-aws-ecs-with-docker-from-code-to-cloud-1akm)
+- [How to Fix SQL Errors When Joining a View?](https://dev.to/generatecodedev/how-to-fix-sql-errors-when-joining-a-view-15n4)
+- [ApostropheCMS 4.17.0: Live widget preview now default and image cropping shortcut](https://dev.to/stuartromanek/apostrophecms-4170-live-widget-preview-now-default-and-image-cropping-shortcut-29d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
