@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Voice Chatbot From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-voice-chatbot-from-scratch-a-pocketflow-tutorial-o93)
-- [Reinventando a Roda: Criando um compilador em csharp - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-1-2gih)
-- [Building a multi-step form in Ruby on Rails](https://dev.to/iankcode/building-a-multi-step-form-in-ruby-on-rails-1kme)
-- [Automatiser la récupération des repos github grace à python et Crontab](https://dev.to/nicolas_ohlin_aae95a9c7cf/automatiser-la-recuperation-des-repos-github-grace-a-python-et-crontab-46ad)
-- [This One Stripe Field Could Save You from Fraud &lpar;And No One Talks About It&rpar;](https://dev.to/shayy/this-one-stripe-field-could-save-you-from-fraud-and-no-one-talks-about-it-3ad2)
+- [CLion agora é gratuito!](https://dev.to/marcosplusplus/clion-agora-e-gratuito-kge)
+- [AI as Exploit: The Weaponization of Perception and Authority](https://dev.to/anthony_fox_aabf9d00159f3/ai-as-exploit-the-weaponization-of-perception-and-authority-1d3k)
+- [TV&#39;s Next Revolution](https://dev.to/rawveg/tvs-next-revolution-3gnm)
+- [Building a React Counter with TypeScript: From useState to Mathematical Insight](https://dev.to/cristiansifuentes/building-a-react-counter-with-typescript-from-usestate-to-mathematical-insight-5706)
+- [How to Fix Android Studio Plugin Issues After Updates?](https://dev.to/generatecodedev/how-to-fix-android-studio-plugin-issues-after-updates-5c57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
