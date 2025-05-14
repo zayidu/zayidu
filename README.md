@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Master Git Like a Pro: A Developer’s Go-To Sheet](https://dev.to/satya_prakash_06/master-git-like-a-pro-a-developers-go-to-sheet-5efj)
-- [How to Fix SecurityException for Foreground Service in Kotlin](https://dev.to/generatecodedev/how-to-fix-securityexception-for-foreground-service-in-kotlin-343b)
-- [🐚 What Happens When You Type ls *.c in the Terminal?](https://dev.to/aboahmd/what-happens-when-you-type-ls-c-in-the-terminal-2njo)
-- [I hope this changes the open source contributors](https://dev.to/anshuman_khanna_ff3187f11/i-hope-this-changes-the-open-source-contributors-15l)
-- [Unveiling Libpng License: A Comprehensive Exploration of Open Source Fair Code](https://dev.to/bobcars/unveiling-libpng-license-a-comprehensive-exploration-of-open-source-fair-code-5c82)
+- [iOS Native Module Bridging in React Native 0.79 &lpar;New Architecture&rpar; 🚀](https://dev.to/amitkumar13/ios-native-module-bridging-in-react-native-079-new-architecture-37h0)
+- [Standing up Debezium Server for Postgres CDC](https://dev.to/sequin/standing-up-debezium-server-for-postgres-cdc-b75)
+- [Working On a New Project](https://dev.to/finn-40/working-on-a-new-project-1b50)
+- [Created an MCP Server for Trello &lpar;100% Open Source&rpar; 🚀](https://dev.to/buildandcodewithraman/created-an-mcp-server-for-trello-100-open-source-3hcm)
+- [🕵️‍♂️ I Solved a Murder Using Python, Flask, and HTML](https://dev.to/abubaker_siddique_513b7e2/i-solved-a-murder-using-python-flask-and-html-1ld8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
