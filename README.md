@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Security: Using Socks5 Proxies to Prevent Hacking Attacks](https://dev.to/member_960fb7a7/network-security-using-socks5-proxies-to-prevent-hacking-attacks-4f97)
-- [B4B-XH-A: The Force of Micro-Connectors](https://dev.to/ersajay/b4b-xh-a-the-force-of-micro-connectors-1f2j)
-- [25 Key Data Analysis Terms](https://dev.to/me_anjan89/25-key-data-analysis-terms-17h)
-- [Top Cross-Platform Frameworks for Building Scalable Enterprise Apps](https://dev.to/david_j_9287baa4d475eb259/top-cross-platform-frameworks-for-building-scalable-enterprise-apps-3h41)
-- [Nuxt 3: Memory Leak Analysis and Fixes](https://dev.to/themodernpk/nuxt-3-memory-leak-analysis-and-fixes-39ga)
+- [Web Transport API for Low-Latency Data Streams](https://dev.to/omriluz1/web-transport-api-for-low-latency-data-streams-402m)
+- [Which Kubernetes Certification Should You Get? A Clear Guide &lpar;No Hype&rpar;](https://dev.to/thecloudarchitect/which-kubernetes-certification-should-you-get-a-clear-guide-no-hype-4f8g)
+- [How I Built Italian Brainrot AI Animals Alternative using AI/ML API](https://dev.to/abdibrokhim/how-i-built-italian-brainrot-ai-animals-alternative-using-aiml-api-3cai)
+- [Networking in HarmonyOS: HTTP and WebSocket](https://dev.to/handwer/networking-in-harmonyos-http-and-websocket-2h64)
+- [Cloud-Native Maintenance: The New Standard for Software Longevity](https://dev.to/alona_instandart/cloud-native-maintenance-the-new-standard-for-software-longevity-1ae2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
