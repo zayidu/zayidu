@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Better Functions: A Clean Code Checklist](https://dev.to/sanjeev_kumar_55ba8af553a/how-to-write-better-functions-a-clean-code-checklist-39an)
-- [Cách Tích Hợp Đăng Nhập Google, GitHub Và Facebook Trong Ứng Dụng Java &lpar;Spring Boot&rpar;](https://dev.to/uyen/cach-tich-hop-dang-nhap-google-github-va-facebook-trong-ung-dung-java-spring-boot-25je)
-- [I Built tip.md to Help Open-Source Devs Get Crypto Tips via GitHub READMEs—What Do You Think?](https://dev.to/xr0am/i-built-tipmd-to-help-open-source-devs-get-crypto-tips-via-github-readmes-what-do-you-think-2p0b)
-- [How to Select Rows from a DataFrame in Pandas Based on Column Values?](https://dev.to/generatecodedev/how-to-select-rows-from-a-dataframe-in-pandas-based-on-column-values-4145)
-- [Sending Telegram Messages in SQL Statements](https://dev.to/sqlman/sending-telegram-messages-in-sql-statements-373f)
+- [How to Build a Prompt-Friendly UI with React &amp; TypeScript](https://dev.to/gaa_song_9b454a81a1239a90/how-to-build-a-prompt-friendly-ui-with-react-typescript-2766)
+- [[HandsOn]Launching and testing Cisco Catalyst 8000V for SD-WAN &amp; Routing on AWS](https://dev.to/masakiokuda/handsonlaunching-and-testing-cisco-catalyst-8000v-for-sd-wan-routing-on-aws-3imf)
+- [CHI-SQUARE TESTS AND DEGREES OF FREEDOM](https://dev.to/sum_byron/chi-square-tests-and-degrees-of-freedom-5fj)
+- [Introducing Prometheus: A Version Control System I Built from Scratch &lpar;No Git Involved&rpar;](https://dev.to/devjoshua312/introducing-prometheus-a-version-control-system-i-built-from-scratch-no-git-involved-17mi)
+- [🌐 Building a Creative 404 Error Page with Just HTML &amp; CSS](https://dev.to/tamilselvan1812/building-a-creative-404-error-page-with-just-html-css-5ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
