@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Transport API for Low-Latency Data Streams](https://dev.to/omriluz1/web-transport-api-for-low-latency-data-streams-402m)
-- [Which Kubernetes Certification Should You Get? A Clear Guide &lpar;No Hype&rpar;](https://dev.to/thecloudarchitect/which-kubernetes-certification-should-you-get-a-clear-guide-no-hype-4f8g)
-- [How I Built Italian Brainrot AI Animals Alternative using AI/ML API](https://dev.to/abdibrokhim/how-i-built-italian-brainrot-ai-animals-alternative-using-aiml-api-3cai)
-- [Networking in HarmonyOS: HTTP and WebSocket](https://dev.to/handwer/networking-in-harmonyos-http-and-websocket-2h64)
-- [Cloud-Native Maintenance: The New Standard for Software Longevity](https://dev.to/alona_instandart/cloud-native-maintenance-the-new-standard-for-software-longevity-1ae2)
+- [Fine-Tuning SSL Protocols and Ciphers in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/fine-tuning-ssl-protocols-and-ciphers-in-safeline-waf-3fbi)
+- [beeware trouble](https://dev.to/aragon_yhj_9195a35919b26/beeware-trouble-286l)
+- [Props &amp; Emits: Component Communication in Vue](https://dev.to/sibasishm/props-emits-component-communication-in-vue-5c6l)
+- [AI-Guided AWS Deployment for Your Dart Backend Applications](https://dev.to/salihgueler/ai-guided-aws-deployment-for-your-dart-backend-applications-4g3a)
+- [Tailwind CSS – 5-Minute Quick Review for React Developers](https://dev.to/tishonator/tailwind-css-5-minute-quick-review-for-react-developers-1np5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
