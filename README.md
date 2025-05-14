@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Organização de Projetos no Github](https://dev.to/tjuliu/organizacao-de-projetos-no-github-121k)
-- [RestController](https://dev.to/tamilarasi/restcontroller-5283)
-- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-1ohg)
-- [Simple habits that made me a better developer](https://dev.to/sergueyasaelshinder/simple-habits-that-made-me-a-better-developer-5h17)
-- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 3 - Prompts &amp; Models](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-3-prompts-models-dd7)
+- [How I &lpar;Almost&rpar; Outsourced My Brain to Gemini Pro](https://dev.to/d2d_weizhi/how-i-almost-outsourced-my-brain-to-gemini-pro-430n)
+- [Everything you need to know about Token Listings in 2025](https://dev.to/wellschristopher/everything-you-need-to-know-about-token-listings-in-2025-246b)
+- [5 Things That Should Be Illegal to Self Host](https://dev.to/code42cate/5-things-that-should-be-illegal-to-self-host-3d21)
+- [Seamless Unit Testing Across Technologies - Running Python Tests from .NET Web API](https://dev.to/javonet/seamless-unit-testing-across-technologies-running-python-tests-from-net-web-api-542o)
+- [Author Schema Markup For Blogger Data Structure](https://dev.to/iwan_setiawan_a654ce11ff2/author-schema-markup-for-blogger-data-structure-2ok7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
