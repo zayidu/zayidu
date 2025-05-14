@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manager’s guide: Planning &amp; budgeting a web component library for internal tools](https://dev.to/dronahq/managers-guide-planning-budgeting-a-web-component-library-for-internal-tools-6jn)
-- [Are Apologies Training AIs to Deceive?](https://dev.to/rawveg/are-apologies-training-ais-to-deceive-3ja3)
-- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-2a99)
-- [My Latest Achievement: Reviewing ‘Mastering Visual Studio 2022’ – A Deep Dive Into Advanced C# &amp; .NET Development](https://dev.to/amr-saafan/my-latest-achievement-reviewing-mastering-visual-studio-2022-a-deep-dive-into-advanced-c--375j)
-- [🧠 Building Xion Apex as a Solo Dev: No Fancy Stack, Just Grit](https://dev.to/creator_x/building-xion-apex-as-a-solo-dev-no-fancy-stack-just-grit-4den)
+- [Organização de Projetos no Github](https://dev.to/tjuliu/organizacao-de-projetos-no-github-121k)
+- [RestController](https://dev.to/tamilarasi/restcontroller-5283)
+- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-1ohg)
+- [Simple habits that made me a better developer](https://dev.to/sergueyasaelshinder/simple-habits-that-made-me-a-better-developer-5h17)
+- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 3 - Prompts &amp; Models](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-3-prompts-models-dd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
