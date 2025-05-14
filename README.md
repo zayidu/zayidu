@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar-Powered IoT System for Monitoring Wooden Fence Deterioration](https://dev.to/karen_londres/solar-powered-iot-system-for-monitoring-wooden-fence-deterioration-1pe6)
-- [Introducing the PullFlow Agent Experience: Streamline Your AI Collaboration](https://dev.to/pullflow/introducing-the-pullflow-agent-experience-streamline-your-ai-collaboration-52e9)
-- [Teaching Kids Ubuntu: Command Line Adventures!](https://dev.to/jliter/teaching-kids-ubuntu-command-line-adventures-4bge)
-- [My Journey Through `this` in JavaScript: From Confusion to Clarity](https://dev.to/skanenje/my-journey-through-this-in-javascript-from-confusion-to-clarity-hl1)
-- [Do you know how it works? - JS Getters &amp; Setters?](https://dev.to/matheusjulidori/do-you-know-how-it-works-js-getters-setters-2dnf)
+- [How to Track LLM User Feedback to Improve Your AI Applications](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-track-llm-user-feedback-to-improve-your-ai-applications-1a08)
+- [Internship Completed](https://dev.to/ritesh_thakur_4a4301a95a1/internship-completed-257g)
+- [Optimizing Lambda Performance with AWS Lambda Power Tuning](https://dev.to/marciojc/optimizing-lambda-performance-with-aws-lambda-power-tuning-2m2o)
+- [Unveiling Educational Community License 2.0: A Comprehensive Overview](https://dev.to/ahmmrizv9/unveiling-educational-community-license-20-a-comprehensive-overview-1694)
+- [Descubra o Modo Agente do GitHub Copilot](https://dev.to/pachicodes/descubra-o-modo-agente-do-github-copilot-54j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
