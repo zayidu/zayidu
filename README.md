@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Slideup Footer animation](https://dev.to/saneha_gill_36d91c4bb794c/slideup-footer-animation-2p41)
-- [// Basic shooter game using HTML Canvas and JavaScript const canvas = document.createElement&lpar;&#39;canvas&#39;&rpar;; const ctx = canvas.getContext&lpar;&#39;2d&#39;&rpar;; document.body.appendChild&lpar;canvas&rpar;; canvas.width = 800; canvas.height = 600; let keys = {}; let bullets = []; let e](https://dev.to/j_v_2aeae8f58409b9b881f72/-basic-shooter-game-using-html-canvas-and-javascript-const-canvas--1lcg)
-- [[Boost]](https://dev.to/sjmsre/-4d9b)
-- [Managing Shared Environments with Grace](https://dev.to/sjmsre/managing-shared-environments-with-grace-2f5i)
-- [Unveiling the ISC License: A Comprehensive Exploration into Open Source Simplicity and Innovation](https://dev.to/ashucommits/unveiling-the-isc-license-a-comprehensive-exploration-into-open-source-simplicity-and-innovation-22e0)
+- [🧠 Master Git Like a Pro: A Developer’s Go-To Sheet](https://dev.to/satya_prakash_06/master-git-like-a-pro-a-developers-go-to-sheet-5efj)
+- [How to Fix SecurityException for Foreground Service in Kotlin](https://dev.to/generatecodedev/how-to-fix-securityexception-for-foreground-service-in-kotlin-343b)
+- [🐚 What Happens When You Type ls *.c in the Terminal?](https://dev.to/aboahmd/what-happens-when-you-type-ls-c-in-the-terminal-2njo)
+- [I hope this changes the open source contributors](https://dev.to/anshuman_khanna_ff3187f11/i-hope-this-changes-the-open-source-contributors-15l)
+- [Unveiling Libpng License: A Comprehensive Exploration of Open Source Fair Code](https://dev.to/bobcars/unveiling-libpng-license-a-comprehensive-exploration-of-open-source-fair-code-5c82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
