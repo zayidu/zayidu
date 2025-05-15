@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
-- [Envoie des performances d&#39;un système linux par mail avec python et crontab. Tuto rapide!](https://dev.to/nicolas_ohlin_aae95a9c7cf/envoie-des-performances-dun-systeme-linux-par-mail-avec-python-et-crontab-tuto-rapide-11dc)
-- [Unveiling the Netscape Public License – A Comprehensive Exploration and Review](https://dev.to/jennythomas498/unveiling-the-netscape-public-license-a-comprehensive-exploration-and-review-51lm)
-- [Day 4/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-4200-full-stack-d5o)
-- [Working with PostgreSQL through DBeaver: A tutorial](https://dev.to/amolo_hillary/working-with-postgresql-through-dbeaver-a-tutorial-54li)
+- [How Code Reviews Made Me a Better Engineer](https://dev.to/nalaka_sampath_72181287cf/how-code-reviews-made-me-a-better-engineer-dmo)
+- [Android SDK Architecture](https://dev.to/binoy123/android-sdk-architecture-5gk0)
+- [earned a certification on Let&#39;s Upgrade](https://dev.to/nivethavelu_063f1d9ce64f2/earned-a-certification-on-lets-upgrade-3jai)
+- [System Design for a Scalable Web Application](https://dev.to/er-raj-aryan/system-design-for-a-scalable-web-application-1gof)
+- [How to Fix Dependency Conflicts When Installing XLS in Angular?](https://dev.to/generatecodedev/how-to-fix-dependency-conflicts-when-installing-xls-in-angular-3icn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
