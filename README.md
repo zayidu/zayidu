@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Advanced Security Tips for Front-End Projects with React](https://dev.to/werliton/6-advanced-security-tips-for-front-end-projects-with-react-369p)
-- [Installing/maintaining Ruby on macOS with a script](https://dev.to/dirtyhenry/installingmaintaining-ruby-on-macos-with-a-script-28a1)
-- [The way Registered Agents Assist Business Activities](https://dev.to/caveregret35/the-way-registered-agents-assist-business-activities-425p)
-- [Unveiling Frameworx Open License 1.0: Bridging Fair Code and Open Collaboration](https://dev.to/bobcars/unveiling-frameworx-open-license-10-bridging-fair-code-and-open-collaboration-44nn)
-- [How to Set Stop Loss and Take Profit in Python for Trading](https://dev.to/generatecodedev/how-to-set-stop-loss-and-take-profit-in-python-for-trading-13mi)
+- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
+- [Why Doesn&#39;t My Android Device Show Up in IntelliJ IDEA?](https://dev.to/generatecodedev/why-doesnt-my-android-device-show-up-in-intellij-idea-4jjc)
+- [Why Developers Seek an Auth0 Alternative](https://dev.to/deepakgupta/why-developers-seek-an-auth0-alternative-253b)
+- [How to import Excel to MySQL](https://dev.to/ryjfgjl/how-to-import-excel-to-mysql-33n5)
+- [Building High-Performance Smart Contracts on Solana: A Technical Guide for Developers](https://dev.to/favebs/building-high-performance-smart-contracts-on-solana-a-technical-guide-for-developers-2150)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
