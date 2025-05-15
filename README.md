@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does SIGINT Queue Behavior in C Work This Way?](https://dev.to/generatecodedev/why-does-sigint-queue-behavior-in-c-work-this-way-4d84)
-- [🚀🧠💼The Ultimate AI &amp; ML Career Roadmap for 2025: A Personal Journey](https://dev.to/furqanahmadrao/the-ultimate-ai-ml-career-roadmap-for-2025-a-personal-journey-3gkg)
-- [🚗 Build a Real-World Parking Management System in Angular](https://dev.to/chetan_void/build-a-real-world-parking-management-system-in-angular-4n41)
-- [Introducing a Transformative Multi-Camera Dataset for Vision AI](https://dev.to/rita_ho_d399c28be9d8a25a3/introducing-a-transformative-multi-camera-dataset-for-vision-ai-27ai)
-- [Unveiling the Zlib/Libpng License: A Deep Dive into Permissive Open Source Licensing and Fair Code](https://dev.to/laetitiaperraut/unveiling-the-zliblibpng-license-a-deep-dive-into-permissive-open-source-licensing-and-fair-code-2g5g)
+- [Learning Physics with Functional Programming and Haskell](https://dev.to/estebanmarin/learning-physics-with-functional-programming-and-haskell-l1h)
+- [TravelInsight: AI-Powered Real-Time Travel Deal Finder](https://dev.to/aniruddhaadak/travelinsight-ai-powered-real-time-travel-deal-finder-m4h)
+- [🐾 Setting Up the Raspberry Pi-Based IoT Cat Feeder &lpar;Day-27&rpar;](https://dev.to/rajpreet_gill_6272051bd31/setting-up-the-raspberry-pi-based-iot-cat-feeder-day-27-2638)
+- [AOSP Handler vs synchronized: Choosing the Right Tool for Thread Safety](https://dev.to/nikheelvs/aosp-handler-vs-synchronized-choosing-the-right-tool-for-thread-safety-p4l)
+- [Advancements in Database Systems: Innovations and Challenges in Early May 2025](https://dev.to/khanali21/advancements-in-database-systems-innovations-and-challenges-in-early-may-2025-2fij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
