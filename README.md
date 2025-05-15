@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CLion agora é gratuito!](https://dev.to/marcosplusplus/clion-agora-e-gratuito-kge)
-- [AI as Exploit: The Weaponization of Perception and Authority](https://dev.to/anthony_fox_aabf9d00159f3/ai-as-exploit-the-weaponization-of-perception-and-authority-1d3k)
-- [TV&#39;s Next Revolution](https://dev.to/rawveg/tvs-next-revolution-3gnm)
-- [Building a React Counter with TypeScript: From useState to Mathematical Insight](https://dev.to/cristiansifuentes/building-a-react-counter-with-typescript-from-usestate-to-mathematical-insight-5706)
-- [How to Fix Android Studio Plugin Issues After Updates?](https://dev.to/generatecodedev/how-to-fix-android-studio-plugin-issues-after-updates-5c57)
+- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
+- [Envoie des performances d&#39;un système linux par mail avec python et crontab. Tuto rapide!](https://dev.to/nicolas_ohlin_aae95a9c7cf/envoie-des-performances-dun-systeme-linux-par-mail-avec-python-et-crontab-tuto-rapide-11dc)
+- [Unveiling the Netscape Public License – A Comprehensive Exploration and Review](https://dev.to/jennythomas498/unveiling-the-netscape-public-license-a-comprehensive-exploration-and-review-51lm)
+- [Day 4/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-4200-full-stack-d5o)
+- [Working with PostgreSQL through DBeaver: A tutorial](https://dev.to/amolo_hillary/working-with-postgresql-through-dbeaver-a-tutorial-54li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
