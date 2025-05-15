@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Packages and Updates in Linux Efficiently](https://dev.to/marzena_pugo_b8978575380f/managing-packages-and-updates-in-linux-efficiently-4k0e)
-- [Self-Education by AI](https://dev.to/zenrajko/self-education-by-ai-h9g)
-- [Demystifying RAG 🔍: Retrieval-Augmented Generation Explained](https://dev.to/esthernaisimoi/demystifying-rag-retrieval-augmented-generation-explained-5ed5)
-- [Over the air &lpar;OTA&rpar; update using Revopush in react native](https://dev.to/asim_mehmood_275a2236b23e/over-the-air-ota-update-using-revopush-in-react-native-2h3f)
-- [Unveiling Open Hardware License: A Comprehensive Exploration of Open Source Hardware Licensing, Applications, and Future Trends](https://dev.to/kallileiser/unveiling-open-hardware-license-a-comprehensive-exploration-of-open-source-hardware-licensing-1cl8)
+- [Speed Up Your CI/CD: ARM 64 Runners for GitHub Actions](https://dev.to/github/speed-up-your-cicd-arm-64-runners-for-github-actions-21g8)
+- [Introduction to Azure: Core architectural components](https://dev.to/mmenim_akpan/introduction-to-azure-core-architectural-components-23ld)
+- [Integração Correios para Rastreamento de Entregas: Arquitetura Escalável com NestJS e Kafka](https://dev.to/h1bertobarbosa/integracao-correios-para-rastreamento-de-entregas-arquitetura-escalavel-com-nestjs-e-kafka-oj2)
+- [Instantly Export Live GCP Infrastructure to Pulumi – No Import, No Terraformer](https://dev.to/f_azevedo_71d14b316b2d2c1/instantly-export-live-gcp-infrastructure-to-pulumi-no-import-no-terraformer-2f21)
+- [React JS Tutorial for Beginners – Learn by Building Projects](https://dev.to/tpointtechadu/react-js-tutorial-for-beginners-learn-by-building-projects-174o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
