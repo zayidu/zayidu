@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to LLM Observability Platforms in 2025](https://dev.to/lina_lam_9ee459f98b67e9d5/the-complete-guide-to-llm-observability-platforms-in-2025-488n)
-- [How and when to use type casting in TypeScript](https://dev.to/logrocket/how-and-when-to-use-type-casting-in-typescript-pc0)
-- [Cloud-Based Access Control Management: Best Practices and Implementation with Code Examples](https://dev.to/karen_londres/cloud-based-access-control-management-best-practices-and-implementation-with-code-examples-1m2j)
-- [Cloud Security – Protecting Innovation at Cloud Speed](https://dev.to/kevin_asutton_/cloud-security-protecting-innovation-at-cloud-speed-5faj)
-- [Java, OOP, and the Steady Path Forward](https://dev.to/roddevlascio/java-oop-and-the-steady-path-forward-535a)
+- [ELI5: HTTP Authentication](https://dev.to/lukasniessen/eli5-http-authentication-2o2c)
+- [A Git-like tool to keep track of configuration files](https://dev.to/cguttesen/a-git-like-tool-to-keep-track-of-configuration-files-490b)
+- [PHP Cheat Sheet for Beginners](https://dev.to/tinamorlock/php-cheat-sheet-for-beginners-4ji2)
+- [Logging Like a Pro in .NET](https://dev.to/georgopoulosgiannis/logging-like-a-pro-in-net-1bpj)
+- [Inside the Mind of a Cyber Criminal: How Scammers Think and Adapt](https://dev.to/f-secure/inside-the-mind-of-a-cyber-criminal-how-scammers-think-and-adapt-44ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
