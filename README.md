@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next Industrial Control Application Development Case Analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-industrial-control-application-development-case-analysis-2e2i)
-- [HarmonyOS Next Education Application Development Practice and Thoughts](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-education-application-development-practice-and-thoughts-51n1)
-- [HarmonyOS Next Medical Health Application Development Exploration](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-medical-health-application-development-exploration-4afn)
-- [HarmonyOS Next e-commerce application development full process analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-e-commerce-application-development-full-process-analysis-4a90)
-- [Scaling Apache SeaTunnel for Enterprise: Billion-Level Data Processing and Intelligent Fault Tolerance in Real-World Use Cases](https://dev.to/seatunnel/scaling-apache-seatunnel-for-enterprise-billion-level-data-processing-and-intelligent-fault-4dad)
+- [Human Error – The Most Common Cybersecurity Mistakes for DevOps](https://dev.to/gitprotect/human-error-the-most-common-cybersecurity-mistakes-for-devops-216i)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-24ge)
+- [When should I use LLMs?](https://dev.to/filiptrivan/when-should-i-use-llms-1957)
+- [Automatiser l&#39;Envoi de Rapports Système au SysAdmin Chaque Minute avec Python &amp; Cron](https://dev.to/ismael_galekwa_67833ec813/automatiser-lenvoi-de-rapports-systeme-au-sysadmin-chaque-minute-avec-python-cron-2kc8)
+- [The Art of Writing Maintainable React Components](https://dev.to/shruti_kumbhar/the-art-of-writing-maintainable-react-components-5foj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
