@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Physics with Functional Programming and Haskell](https://dev.to/estebanmarin/learning-physics-with-functional-programming-and-haskell-l1h)
-- [TravelInsight: AI-Powered Real-Time Travel Deal Finder](https://dev.to/aniruddhaadak/travelinsight-ai-powered-real-time-travel-deal-finder-m4h)
-- [🐾 Setting Up the Raspberry Pi-Based IoT Cat Feeder &lpar;Day-27&rpar;](https://dev.to/rajpreet_gill_6272051bd31/setting-up-the-raspberry-pi-based-iot-cat-feeder-day-27-2638)
-- [AOSP Handler vs synchronized: Choosing the Right Tool for Thread Safety](https://dev.to/nikheelvs/aosp-handler-vs-synchronized-choosing-the-right-tool-for-thread-safety-p4l)
-- [Advancements in Database Systems: Innovations and Challenges in Early May 2025](https://dev.to/khanali21/advancements-in-database-systems-innovations-and-challenges-in-early-may-2025-2fij)
+- [My opinion about Rails 8](https://dev.to/bdavidxyz/my-opinion-about-rails-8-6af)
+- [Efficient Network Testing Using Dynamic IPs](https://dev.to/member_960fb7a7/efficient-network-testing-using-dynamic-ips-3hgn)
+- [Creating a Flutter App to Scan MRZ, QR Codes, and Barcodes](https://dev.to/yushulx/creating-a-flutter-app-to-scan-mrz-qr-codes-and-barcodes-1e1i)
+- [Why Should You Choose Renting Cloud GPU?](https://dev.to/runcai/why-should-you-choose-renting-cloud-gpu-a6h)
+- [MitM Attack in Symfony: Prevention with Secure Coding](https://dev.to/pentest_testing_corp/mitm-attack-in-symfony-prevention-with-secure-coding-33c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
