@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My opinion about Rails 8](https://dev.to/bdavidxyz/my-opinion-about-rails-8-6af)
-- [Efficient Network Testing Using Dynamic IPs](https://dev.to/member_960fb7a7/efficient-network-testing-using-dynamic-ips-3hgn)
-- [Creating a Flutter App to Scan MRZ, QR Codes, and Barcodes](https://dev.to/yushulx/creating-a-flutter-app-to-scan-mrz-qr-codes-and-barcodes-1e1i)
-- [Why Should You Choose Renting Cloud GPU?](https://dev.to/runcai/why-should-you-choose-renting-cloud-gpu-a6h)
-- [MitM Attack in Symfony: Prevention with Secure Coding](https://dev.to/pentest_testing_corp/mitm-attack-in-symfony-prevention-with-secure-coding-33c4)
+- [HarmonyOS Next Industrial Control Application Development Case Analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-industrial-control-application-development-case-analysis-2e2i)
+- [HarmonyOS Next Education Application Development Practice and Thoughts](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-education-application-development-practice-and-thoughts-51n1)
+- [HarmonyOS Next Medical Health Application Development Exploration](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-medical-health-application-development-exploration-4afn)
+- [HarmonyOS Next e-commerce application development full process analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-e-commerce-application-development-full-process-analysis-4a90)
+- [Scaling Apache SeaTunnel for Enterprise: Billion-Level Data Processing and Intelligent Fault Tolerance in Real-World Use Cases](https://dev.to/seatunnel/scaling-apache-seatunnel-for-enterprise-billion-level-data-processing-and-intelligent-fault-4dad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
