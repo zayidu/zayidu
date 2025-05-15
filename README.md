@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve takes another step toward making SteamOS a true Windows competitor](https://dev.to/gg_news/valve-takes-another-step-toward-making-steamos-a-true-windows-competitor-e6p)
-- [Sony considers further price rises, as it braces for £500m tariffs impact](https://dev.to/gg_news/sony-considers-further-price-rises-as-it-braces-for-ps500m-tariffs-impact-59nm)
-- [DOOM The Dark Ages on Steam Deck is a &quot;nightmare&quot; even at &quot;low-quality&quot; and in linear levels](https://dev.to/gg_news/doom-the-dark-ages-on-steam-deck-is-a-nightmare-even-at-low-quality-and-in-linear-levels-1o90)
-- [Another GTA 6 delay could happen as respected insider says there’s “no guarantee” for a May 2026 release](https://dev.to/gg_news/another-gta-6-delay-could-happen-as-respected-insider-says-theres-no-guarantee-for-a-may-2026-1jch)
-- [The Voice Of Master Chief Asks Halo Fans To Stand Up For Voice Actors On Strike.](https://dev.to/gg_news/the-voice-of-master-chief-asks-halo-fans-to-stand-up-for-voice-actors-on-strike-52gf)
+- [ICTC 2025: A Developer&#39;s Perspective on the Future of Competitive Crypto Trading](https://dev.to/alexnav/ictc-2025-a-developers-perspective-on-the-future-of-competitive-crypto-trading-2klg)
+- [TDZ Pro is clearly operating on a different level with this strategy.](https://dev.to/purpleartisansalad/tdz-pro-is-clearly-operating-on-a-different-level-with-this-strategy-jmn)
+- [Query MongoDB Like a Human with ScoutDB](https://dev.to/bhuvaneshm_dev/query-mongodb-like-a-human-with-scoutdb-4bg2)
+- [Elm’s Type Inference: Crafting Sound Code with Friendly Compiler](https://dev.to/jigargosar/elms-type-inference-crafting-sound-code-with-friendly-compiler-194h)
+- [How to automate email verification with Selenium](https://dev.to/mailosaur_/how-to-automate-email-verification-with-selenium-2569)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
