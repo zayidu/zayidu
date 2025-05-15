@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵️‍♂️ Unlock Hidden Job Opportunities with Google Dorking: The Job Hunter’s Secret Weapon &lpar;Part 1&rpar;](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)
-- [Loved the real-world insights on how data mining works when done right.](https://dev.to/techbyfelix/loved-the-real-world-insights-on-how-data-mining-works-when-done-right-o2j)
-- [How to Deploy PostgreSQL on Kubernetes](https://dev.to/hostman_com/how-to-deploy-postgresql-on-kubernetes-3ejm)
-- [How to Resolve Firebase Database URL Errors in Flutter?](https://dev.to/generatecodedev/how-to-resolve-firebase-database-url-errors-in-flutter-7eo)
-- [Designing a CI/CD Pipeline: Stages, Jobs, and Parallel Execution Made Simple](https://dev.to/alex_aslam/designing-a-cicd-pipeline-stages-jobs-and-parallel-execution-made-simple-e0n)
+- [The Complete Guide to LLM Observability Platforms in 2025](https://dev.to/lina_lam_9ee459f98b67e9d5/the-complete-guide-to-llm-observability-platforms-in-2025-488n)
+- [How and when to use type casting in TypeScript](https://dev.to/logrocket/how-and-when-to-use-type-casting-in-typescript-pc0)
+- [Cloud-Based Access Control Management: Best Practices and Implementation with Code Examples](https://dev.to/karen_londres/cloud-based-access-control-management-best-practices-and-implementation-with-code-examples-1m2j)
+- [Cloud Security – Protecting Innovation at Cloud Speed](https://dev.to/kevin_asutton_/cloud-security-protecting-innovation-at-cloud-speed-5faj)
+- [Java, OOP, and the Steady Path Forward](https://dev.to/roddevlascio/java-oop-and-the-steady-path-forward-535a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
