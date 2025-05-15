@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ICTC 2025: A Developer&#39;s Perspective on the Future of Competitive Crypto Trading](https://dev.to/alexnav/ictc-2025-a-developers-perspective-on-the-future-of-competitive-crypto-trading-2klg)
-- [TDZ Pro is clearly operating on a different level with this strategy.](https://dev.to/purpleartisansalad/tdz-pro-is-clearly-operating-on-a-different-level-with-this-strategy-jmn)
-- [Query MongoDB Like a Human with ScoutDB](https://dev.to/bhuvaneshm_dev/query-mongodb-like-a-human-with-scoutdb-4bg2)
-- [Elm’s Type Inference: Crafting Sound Code with Friendly Compiler](https://dev.to/jigargosar/elms-type-inference-crafting-sound-code-with-friendly-compiler-194h)
-- [How to automate email verification with Selenium](https://dev.to/mailosaur_/how-to-automate-email-verification-with-selenium-2569)
+- [🕵️‍♂️ Unlock Hidden Job Opportunities with Google Dorking: The Job Hunter’s Secret Weapon &lpar;Part 1&rpar;](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)
+- [Loved the real-world insights on how data mining works when done right.](https://dev.to/techbyfelix/loved-the-real-world-insights-on-how-data-mining-works-when-done-right-o2j)
+- [How to Deploy PostgreSQL on Kubernetes](https://dev.to/hostman_com/how-to-deploy-postgresql-on-kubernetes-3ejm)
+- [How to Resolve Firebase Database URL Errors in Flutter?](https://dev.to/generatecodedev/how-to-resolve-firebase-database-url-errors-in-flutter-7eo)
+- [Designing a CI/CD Pipeline: Stages, Jobs, and Parallel Execution Made Simple](https://dev.to/alex_aslam/designing-a-cicd-pipeline-stages-jobs-and-parallel-execution-made-simple-e0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
