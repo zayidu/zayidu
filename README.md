@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Tunnel for Home Assistant](https://dev.to/nfrankel/cloudflare-tunnel-for-home-assistant-imm)
-- [CI/CD for Devs: GitHub Actions in 5 Minutes](https://dev.to/sfundomhlungu/cicd-for-devs-github-actions-in-5-minutes-446p)
-- [Pre-validations in Dynamics 365 CE: JavaScript vs Plugins](https://dev.to/nikhildynamicsce/pre-validations-in-dynamics-365-ce-javascript-vs-plugins-3k60)
-- [How I Deployed a Dockerized App to AWS Using Terraform and GitHub Actions](https://dev.to/kaustav_dey_/how-i-deployed-a-dockerized-app-to-aws-using-terraform-and-github-actions-3nhg)
-- [🔧 Monitoring Server Health with a Python Script That Runs Every Minute](https://dev.to/emmanuel_onesime_2dce9e5b/monitoring-server-health-with-a-python-script-that-runs-every-minute-1fk6)
+- [Brand Design for SaaS Startups: Your Ultimate Competitive Advantage](https://dev.to/marketing_team_88143a22ad/brand-design-for-saas-startups-your-ultimate-competitive-advantage-pda)
+- [Publishing ZIP artifacts with SBT](https://dev.to/lexplt/publishing-zip-artifacts-with-sbt-5edd)
+- [🚀 Introducing Coputo — Build Remote MCP Server in Seconds with TypeScript](https://dev.to/jtakahashi0604/introducing-coputo-build-remote-mcp-server-in-seconds-with-typescript-g33)
+- [How AI Is Transforming Telegram Bot Development](https://dev.to/ivan_lysak/how-ai-is-transforming-telegram-bot-development-43fm)
+- [Unveiling Open Data Commons and Beyond: Exploring Open Database Licenses, Fair Code, and Blockchain Innovation](https://dev.to/jennythomas498/unveiling-open-data-commons-and-beyond-exploring-open-database-licenses-fair-code-and-blockchain-25cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
