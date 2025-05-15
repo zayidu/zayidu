@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Code Reviews Made Me a Better Engineer](https://dev.to/nalaka_sampath_72181287cf/how-code-reviews-made-me-a-better-engineer-dmo)
-- [Android SDK Architecture](https://dev.to/binoy123/android-sdk-architecture-5gk0)
-- [earned a certification on Let&#39;s Upgrade](https://dev.to/nivethavelu_063f1d9ce64f2/earned-a-certification-on-lets-upgrade-3jai)
-- [System Design for a Scalable Web Application](https://dev.to/er-raj-aryan/system-design-for-a-scalable-web-application-1gof)
-- [How to Fix Dependency Conflicts When Installing XLS in Angular?](https://dev.to/generatecodedev/how-to-fix-dependency-conflicts-when-installing-xls-in-angular-3icn)
+- [Why Does SIGINT Queue Behavior in C Work This Way?](https://dev.to/generatecodedev/why-does-sigint-queue-behavior-in-c-work-this-way-4d84)
+- [🚀🧠💼The Ultimate AI &amp; ML Career Roadmap for 2025: A Personal Journey](https://dev.to/furqanahmadrao/the-ultimate-ai-ml-career-roadmap-for-2025-a-personal-journey-3gkg)
+- [🚗 Build a Real-World Parking Management System in Angular](https://dev.to/chetan_void/build-a-real-world-parking-management-system-in-angular-4n41)
+- [Introducing a Transformative Multi-Camera Dataset for Vision AI](https://dev.to/rita_ho_d399c28be9d8a25a3/introducing-a-transformative-multi-camera-dataset-for-vision-ai-27ai)
+- [Unveiling the Zlib/Libpng License: A Deep Dive into Permissive Open Source Licensing and Fair Code](https://dev.to/laetitiaperraut/unveiling-the-zliblibpng-license-a-deep-dive-into-permissive-open-source-licensing-and-fair-code-2g5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
