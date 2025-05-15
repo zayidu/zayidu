@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ELI5: HTTP Authentication](https://dev.to/lukasniessen/eli5-http-authentication-2o2c)
-- [A Git-like tool to keep track of configuration files](https://dev.to/cguttesen/a-git-like-tool-to-keep-track-of-configuration-files-490b)
-- [PHP Cheat Sheet for Beginners](https://dev.to/tinamorlock/php-cheat-sheet-for-beginners-4ji2)
-- [Logging Like a Pro in .NET](https://dev.to/georgopoulosgiannis/logging-like-a-pro-in-net-1bpj)
-- [Inside the Mind of a Cyber Criminal: How Scammers Think and Adapt](https://dev.to/f-secure/inside-the-mind-of-a-cyber-criminal-how-scammers-think-and-adapt-44ff)
+- [Standard vs Reasoning Models: The Two Ways AI Solves Problems](https://dev.to/rijultp/standard-vs-reasoning-models-the-two-ways-ai-solves-problems-3dj5)
+- [ML-chronicles: Day 1 Understanding KNN with Iris Dataset](https://dev.to/codealchemy/ml-chronicles-day-1-understanding-knn-with-iris-dataset-3e1f)
+- [Webdesign-Typografie: 5 Tipps für Lesbarkeit &amp; professionelle Optik ✍️](https://dev.to/ivo_sa/webdesign-typografie-5-tipps-fur-lesbarkeit-professionelle-optik-3bb8)
+- [Your Code is a Money Printer: Trading Prop Firm Capital](https://dev.to/funded_sim/your-code-is-a-money-printer-trading-prop-firm-capital-1m4l)
+- [The Future of AI Development](https://dev.to/aniruddhaadak/the-future-of-ai-development-2mod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
