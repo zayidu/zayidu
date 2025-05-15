@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop Phases: Microtasks vs. Macrotasks in Depth](https://dev.to/omriluz1/event-loop-phases-microtasks-vs-macrotasks-in-depth-koc)
-- [Vibe Coders Are Ruining Software Development And They Don’t Even Know It](https://dev.to/mehta0007/vibe-coders-are-ruining-software-development-and-they-dont-even-know-it-30o1)
-- [Unveiling Blue Oak Model License 1.0.0: A Holistic Exploration of Fair Open Source Licensing](https://dev.to/kallileiser/unveiling-blue-oak-model-license-100-a-holistic-exploration-of-fair-open-source-licensing-4kcp)
-- [PackSmith: A minimal library for building packages.🚀](https://dev.to/gazi2050/packsmith-a-minimal-library-for-building-packages-4o6a)
-- [Feedback imediato: por que o cérebro odeia incertezas 🧠⚡](https://dev.to/alissonfcosta/o-efeito-da-cor-na-percepcao-como-o-cerebro-responde-as-paletas-do-seu-app-318g)
+- [What it’s like to be a software developer with tinnitus](https://dev.to/devbyj/what-its-like-to-be-a-software-developer-with-tinnitus-men)
+- [Efficient Cache Design with Bloom Filters in Go](https://dev.to/leapcell/efficient-cache-design-with-bloom-filters-in-go-3j56)
+- [How to Implement CoCreateInstance and Retrieve Object Info in C++](https://dev.to/generatecodedev/how-to-implement-cocreateinstance-and-retrieve-object-info-in-c-3eio)
+- [Unveiling the EU DataGrid Software License: A Deep Dive into Open Source, Fair Code, and Developer Empowerment](https://dev.to/zhangwei42/unveiling-the-eu-datagrid-software-license-a-deep-dive-into-open-source-fair-code-and-developer-1e8k)
+- [Analysis of Windsurf’s Target Audience Shift](https://dev.to/cristiansarmiento/analysis-of-windsurfs-target-audience-shift-12ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
