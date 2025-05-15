@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Error – The Most Common Cybersecurity Mistakes for DevOps](https://dev.to/gitprotect/human-error-the-most-common-cybersecurity-mistakes-for-devops-216i)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-24ge)
-- [When should I use LLMs?](https://dev.to/filiptrivan/when-should-i-use-llms-1957)
-- [Automatiser l&#39;Envoi de Rapports Système au SysAdmin Chaque Minute avec Python &amp; Cron](https://dev.to/ismael_galekwa_67833ec813/automatiser-lenvoi-de-rapports-systeme-au-sysadmin-chaque-minute-avec-python-cron-2kc8)
-- [The Art of Writing Maintainable React Components](https://dev.to/shruti_kumbhar/the-art-of-writing-maintainable-react-components-5foj)
+- [Cloudflare Tunnel for Home Assistant](https://dev.to/nfrankel/cloudflare-tunnel-for-home-assistant-imm)
+- [CI/CD for Devs: GitHub Actions in 5 Minutes](https://dev.to/sfundomhlungu/cicd-for-devs-github-actions-in-5-minutes-446p)
+- [Pre-validations in Dynamics 365 CE: JavaScript vs Plugins](https://dev.to/nikhildynamicsce/pre-validations-in-dynamics-365-ce-javascript-vs-plugins-3k60)
+- [How I Deployed a Dockerized App to AWS Using Terraform and GitHub Actions](https://dev.to/kaustav_dey_/how-i-deployed-a-dockerized-app-to-aws-using-terraform-and-github-actions-3nhg)
+- [🔧 Monitoring Server Health with a Python Script That Runs Every Minute](https://dev.to/emmanuel_onesime_2dce9e5b/monitoring-server-health-with-a-python-script-that-runs-every-minute-1fk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
