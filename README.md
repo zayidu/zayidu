@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What it’s like to be a software developer with tinnitus](https://dev.to/devbyj/what-its-like-to-be-a-software-developer-with-tinnitus-men)
-- [Efficient Cache Design with Bloom Filters in Go](https://dev.to/leapcell/efficient-cache-design-with-bloom-filters-in-go-3j56)
-- [How to Implement CoCreateInstance and Retrieve Object Info in C++](https://dev.to/generatecodedev/how-to-implement-cocreateinstance-and-retrieve-object-info-in-c-3eio)
-- [Unveiling the EU DataGrid Software License: A Deep Dive into Open Source, Fair Code, and Developer Empowerment](https://dev.to/zhangwei42/unveiling-the-eu-datagrid-software-license-a-deep-dive-into-open-source-fair-code-and-developer-1e8k)
-- [Analysis of Windsurf’s Target Audience Shift](https://dev.to/cristiansarmiento/analysis-of-windsurfs-target-audience-shift-12ab)
+- [6 Advanced Security Tips for Front-End Projects with React](https://dev.to/werliton/6-advanced-security-tips-for-front-end-projects-with-react-369p)
+- [Installing/maintaining Ruby on macOS with a script](https://dev.to/dirtyhenry/installingmaintaining-ruby-on-macos-with-a-script-28a1)
+- [The way Registered Agents Assist Business Activities](https://dev.to/caveregret35/the-way-registered-agents-assist-business-activities-425p)
+- [Unveiling Frameworx Open License 1.0: Bridging Fair Code and Open Collaboration](https://dev.to/bobcars/unveiling-frameworx-open-license-10-bridging-fair-code-and-open-collaboration-44nn)
+- [How to Set Stop Loss and Take Profit in Python for Trading](https://dev.to/generatecodedev/how-to-set-stop-loss-and-take-profit-in-python-for-trading-13mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
