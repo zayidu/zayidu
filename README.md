@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure OpenAI vs Azure AI Search: What’s the Difference?](https://dev.to/harman_diaz/azure-openai-vs-azure-ai-search-whats-the-difference-7fb)
-- [Want to learn about validation in ASP.NET Core with minimal API&#39;s? Check this blog!](https://dev.to/pascal_vorwerk/want-to-learn-about-validation-in-aspnet-core-with-minimal-apis-check-this-blog-5da5)
-- [Meet AxonJs: The Express Slayer That Doubles Your API Speed](https://dev.to/mrmkz/meet-axonjs-the-express-slayer-that-doubles-your-api-speed-3a03)
-- [Rust in 2025: Did It Finally Overtake C++?](https://dev.to/code_2/rust-in-2025-did-it-finally-overtake-c-10ko)
-- [❌ Top 10 Common Mistakes in Writing Scripts](https://dev.to/elsayed_zewayed_91621702f/top-10-common-mistakes-in-writing-scripts-4gle)
+- [Event Loop Phases: Microtasks vs. Macrotasks in Depth](https://dev.to/omriluz1/event-loop-phases-microtasks-vs-macrotasks-in-depth-koc)
+- [Vibe Coders Are Ruining Software Development And They Don’t Even Know It](https://dev.to/mehta0007/vibe-coders-are-ruining-software-development-and-they-dont-even-know-it-30o1)
+- [Unveiling Blue Oak Model License 1.0.0: A Holistic Exploration of Fair Open Source Licensing](https://dev.to/kallileiser/unveiling-blue-oak-model-license-100-a-holistic-exploration-of-fair-open-source-licensing-4kcp)
+- [PackSmith: A minimal library for building packages.🚀](https://dev.to/gazi2050/packsmith-a-minimal-library-for-building-packages-4o6a)
+- [Feedback imediato: por que o cérebro odeia incertezas 🧠⚡](https://dev.to/alissonfcosta/o-efeito-da-cor-na-percepcao-como-o-cerebro-responde-as-paletas-do-seu-app-318g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
