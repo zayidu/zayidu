@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Hack] PicoCTF: Low Level Binary Intro - Intro to Debuggers](https://dev.to/falme/hack-picoctf-low-level-binary-intro-intro-to-debuggers-3jd7)
-- [🚀 Build an Infinite Scroll App in React like a Pro](https://dev.to/vishalthapaliya/build-an-infinite-scroll-app-in-react-like-a-pro-9je)
-- [How to Set Up CI/CD for a Python Backend Application on Fly.io Using GitHub Actions](https://dev.to/ephraimx/how-to-set-up-cicd-for-a-python-backend-application-on-flyio-using-github-actions-1f09)
-- [Diary of an Elm Developer - Lazy L-System generation](https://dev.to/dwayne/diary-of-an-elm-developer-lazy-l-system-generation-2k7j)
-- [CloudWatch Alarm Integration with KMS-Encrypted SNS Topic](https://dev.to/pavandevops/cloudwatch-alarm-integration-with-kms-encrypted-sns-topic-22dh)
+- [But how does torrenting actually work?](https://dev.to/kurealnum/but-how-does-torrenting-actually-work-5hlf)
+- [Project of the Week: HedgeDoc 🦔](https://dev.to/pullflow/project-of-the-week-hedgedoc-19on)
+- [Why Your App Breaks and Hackers Laugh: A Real Talk on HTTP](https://dev.to/c_d_a7c10b4d6f6aa68be7495/why-your-app-breaks-and-hackers-laugh-a-real-talk-on-http-4b0)
+- [Try the new Secure Session Vault](https://dev.to/ethernmyth/try-the-new-secure-session-vault-5b01)
+- [Mastering Kubernetes Requests and Limits: A Practical Guide](https://dev.to/hostman_com/mastering-kubernetes-requests-and-limits-a-practical-guide-4o76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
