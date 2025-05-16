@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
-- [Why Doesn&#39;t My Android Device Show Up in IntelliJ IDEA?](https://dev.to/generatecodedev/why-doesnt-my-android-device-show-up-in-intellij-idea-4jjc)
-- [Why Developers Seek an Auth0 Alternative](https://dev.to/deepakgupta/why-developers-seek-an-auth0-alternative-253b)
-- [How to import Excel to MySQL](https://dev.to/ryjfgjl/how-to-import-excel-to-mysql-33n5)
-- [Building High-Performance Smart Contracts on Solana: A Technical Guide for Developers](https://dev.to/favebs/building-high-performance-smart-contracts-on-solana-a-technical-guide-for-developers-2150)
+- [🤖 Retrieval-Augmented Generation &lpar;RAG&rpar;: The Future of AI Search](https://dev.to/elisheba_builds/retrieval-augmented-generation-rag-the-future-of-ai-search-2d5f)
+- [Day 5/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-5200-full-stack-18e8)
+- [How to Filter User Input in Angular While Maintaining ngModel?](https://dev.to/generatecodedev/how-to-filter-user-input-in-angular-while-maintaining-ngmodel-odf)
+- [How to implement integration Spring Boot with Supabase?](https://dev.to/ocean240788/how-to-implement-integration-spring-boot-with-supabase-57cj)
+- [Como o Tipo de Acoplamento Pode Guiar a Decisão de Onde Colocar um Método](https://dev.to/asouza/como-o-tipo-de-acoplamento-pode-guiar-a-decisao-de-onde-colocar-um-metodo-1131)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
