@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Promise.all&lpar;&rpar;: The Case of the Missing Tuna](https://dev.to/tanvir_azad/promiseall-the-case-of-the-missing-tuna-1eh9)
-- [Code Less, Prompt Better: Unlocking Python&#39;s Built-in LLM Enhancers](https://dev.to/angu10/code-less-prompt-better-unlocking-pythons-built-in-llm-enhancers-3hdd)
-- [[Boost]](https://dev.to/anthonymax/-kcg)
-- [8 important security changes from Android 8 to Android 15](https://dev.to/marcotcdev/8-important-security-changes-from-android-8-to-android-15-3l8f)
-- [Full Integration Guide: Camunda 8.5 with OpenTelemetry for End-to-End Observability](https://dev.to/devaaai/full-integration-guide-camunda-85-with-opentelemetry-for-end-to-end-observability-pkh)
+- [AI in Animation](https://dev.to/rawveg/ai-in-animation-1pjj)
+- [Why Every Student Should Build a Personal Website?](https://dev.to/fardinrahman/why-every-student-should-build-a-personal-website-jj8)
+- [Mastering React Advanced Hooks with TypeScript: Simulating a Dynamic Equation System](https://dev.to/cristiansifuentes/mastering-react-advanced-hooks-with-typescript-simulating-a-dynamic-equation-system-2mp)
+- [Unveiling the Cooperative Commons License: A Holistic Overview of Fair Code, Dual Licensing, and Future Trends](https://dev.to/jennythomas498/unveiling-the-cooperative-commons-license-a-holistic-overview-of-fair-code-dual-licensing-and-3ekp)
+- [What problems are you solving?](https://dev.to/joseph_hartono_ef85d37852/what-problems-are-you-solving-72k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
