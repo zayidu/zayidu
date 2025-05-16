@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
-- [Seasonal Heroes: Initial Looks](https://dev.to/macglencoe/seasonal-heroes-initial-looks-47ad)
-- [Tired of Choppy Videos? Here’s How to Smooth Them with Higher FPS &lpar;No Reshoot Needed&rpar;](https://dev.to/harper_seven_bcbbdc48c218/tired-of-choppy-videos-heres-how-to-smooth-them-with-higher-fps-no-reshoot-needed-417h)
-- [Entendendo SQL: Comandos Principais e Diferença com NoSQL](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-sql-comandos-principais-e-diferenca-com-nosql-3n0o)
-- [Essential CSS Optimization Techniques to speed up your site](https://dev.to/javascriptwizzard/essential-css-optimization-techniques-to-speed-up-your-site-1g4k)
+- [Is React beginner-friendly?](https://dev.to/bdavidxyz/is-react-beginner-friendly-7ic)
+- [Unveiling MirOS License: A Comprehensive Exploration of Fair Code, Dual Licensing, and Open Source Innovation](https://dev.to/kallileiser/unveiling-miros-license-a-comprehensive-exploration-of-fair-code-dual-licensing-and-open-source-4p42)
+- [A Look Back at an 8-Year-Old 2D Tank Game](https://dev.to/deveshhh/a-look-back-at-an-8-year-old-2d-tank-game-3b0c)
+- [Exploring the Latest JavaScript Features in ESNext](https://dev.to/hasunnilupul/exploring-the-latest-javascript-features-in-esnext-2a8g)
+- [Spring Security: Lock Down Your APIs](https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
