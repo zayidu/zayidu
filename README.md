@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Retrieval-Augmented Generation &lpar;RAG&rpar;: The Future of AI Search](https://dev.to/elisheba_builds/retrieval-augmented-generation-rag-the-future-of-ai-search-2d5f)
-- [Day 5/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-5200-full-stack-18e8)
-- [How to Filter User Input in Angular While Maintaining ngModel?](https://dev.to/generatecodedev/how-to-filter-user-input-in-angular-while-maintaining-ngmodel-odf)
-- [How to implement integration Spring Boot with Supabase?](https://dev.to/ocean240788/how-to-implement-integration-spring-boot-with-supabase-57cj)
-- [Como o Tipo de Acoplamento Pode Guiar a Decisão de Onde Colocar um Método](https://dev.to/asouza/como-o-tipo-de-acoplamento-pode-guiar-a-decisao-de-onde-colocar-um-metodo-1131)
+- [SOLID Principles in JavaScript](https://dev.to/zeeshanali0704/solid-principles-in-javascript-a-beginner-friendly-guide-4085)
+- [Getting Started with React-Grid-Layout](https://dev.to/sheep_/getting-started-with-react-grid-layout-3aic)
+- [Building a Svelte Tooltip Extension for Browser Enhancements](https://dev.to/hexshift/building-a-svelte-tooltip-extension-for-browser-enhancements-53)
+- [Entendendo as Coleções do Java: List, Set e Map](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-as-colecoes-do-java-list-set-e-map-33jh)
+- [Wait or Buy? 2026 Toyota C-HR EV Explained](https://dev.to/ganesh_f18f4ea5efcc594a6a/wait-or-buy-2026-toyota-c-hr-ev-explained-1l2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
