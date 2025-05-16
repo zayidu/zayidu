@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles in JavaScript](https://dev.to/zeeshanali0704/solid-principles-in-javascript-a-beginner-friendly-guide-4085)
-- [Getting Started with React-Grid-Layout](https://dev.to/sheep_/getting-started-with-react-grid-layout-3aic)
-- [Building a Svelte Tooltip Extension for Browser Enhancements](https://dev.to/hexshift/building-a-svelte-tooltip-extension-for-browser-enhancements-53)
-- [Entendendo as Coleções do Java: List, Set e Map](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-as-colecoes-do-java-list-set-e-map-33jh)
-- [Wait or Buy? 2026 Toyota C-HR EV Explained](https://dev.to/ganesh_f18f4ea5efcc594a6a/wait-or-buy-2026-toyota-c-hr-ev-explained-1l2p)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
+- [Seasonal Heroes: Initial Looks](https://dev.to/macglencoe/seasonal-heroes-initial-looks-47ad)
+- [Tired of Choppy Videos? Here’s How to Smooth Them with Higher FPS &lpar;No Reshoot Needed&rpar;](https://dev.to/harper_seven_bcbbdc48c218/tired-of-choppy-videos-heres-how-to-smooth-them-with-higher-fps-no-reshoot-needed-417h)
+- [Entendendo SQL: Comandos Principais e Diferença com NoSQL](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-sql-comandos-principais-e-diferenca-com-nosql-3n0o)
+- [Essential CSS Optimization Techniques to speed up your site](https://dev.to/javascriptwizzard/essential-css-optimization-techniques-to-speed-up-your-site-1g4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
