@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js - Fundamentos](https://dev.to/mauriciogc/nextjs-fundamentos-35e2)
-- [Deploying the No-Code Architects Toolkit API on a Contabo VPS with MinIO](https://dev.to/lekside_nation_df35bf4f19/deploying-the-no-code-architects-toolkit-api-on-a-contabo-vps-with-minio-8g)
-- [Actually how does work React Awesome framework Next.Js ?](https://dev.to/heyabdullahbruh/actually-how-does-work-react-awesome-framework-nextjs--3ogf)
-- [My coding complete](https://dev.to/saleem_rangrezz_6d9cd3803/my-coding-complete-215l)
-- [Product &amp; Catalog Management in OneEntry: Practical Tools for Scalable Projects](https://dev.to/oneentry/product-catalog-management-in-oneentry-practical-tools-for-scalable-projects-1e05)
+- [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
+- [[Boost] Writing Clean, Secure Node.js APIs – A Checklist You’ll Actually Use ✅](https://dev.to/gnrlbzik/-54i)
+- [Advanced Pod Scheduling in Kubernetes: Leveraging Affinity and Anti-Affinity](https://dev.to/kapusto/advanced-pod-scheduling-in-kubernetes-leveraging-affinity-and-anti-affinity-402a)
+- [Wazuh: The Open-Source Security Monitoring Solution Every Development Team Needs in 2025](https://dev.to/prateekbka/wazuh-the-open-source-security-monitoring-solution-every-development-team-needs-in-2025-334)
+- [Prototype Methods vs. Instance Methods in JavaScript](https://dev.to/tanvir_azad/prototype-methods-vs-instance-methods-in-javascript-755)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
