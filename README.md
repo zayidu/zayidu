@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [But how does torrenting actually work?](https://dev.to/kurealnum/but-how-does-torrenting-actually-work-5hlf)
-- [Project of the Week: HedgeDoc 🦔](https://dev.to/pullflow/project-of-the-week-hedgedoc-19on)
-- [Why Your App Breaks and Hackers Laugh: A Real Talk on HTTP](https://dev.to/c_d_a7c10b4d6f6aa68be7495/why-your-app-breaks-and-hackers-laugh-a-real-talk-on-http-4b0)
-- [Try the new Secure Session Vault](https://dev.to/ethernmyth/try-the-new-secure-session-vault-5b01)
-- [Mastering Kubernetes Requests and Limits: A Practical Guide](https://dev.to/hostman_com/mastering-kubernetes-requests-and-limits-a-practical-guide-4o76)
+- [Finding Pair with Target Sum](https://dev.to/tanvir_azad/finding-pair-with-target-sum-2kln)
+- [Leave Script Behind](https://dev.to/lsb/leave-script-behind-25ip)
+- [Flask y MVC: Conceptos e Instalación.](https://dev.to/hpollack/flask-y-mvc-conceptos-e-instalacion-46j5)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-14on)
+- [Custom Elements: The Superpower of Svelte 5](https://dev.to/leuzga/custom-elements-the-superpower-of-svelte-5-4mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
