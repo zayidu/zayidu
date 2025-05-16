@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing V8’s Hidden Classes for Performance Insights](https://dev.to/omriluz1/analyzing-v8s-hidden-classes-for-performance-insights-3fhk)
-- [“Calculus, Code, and the Quiet Art of Understanding Change”](https://dev.to/mahi96/calculus-code-and-the-quiet-art-of-understanding-change-644)
-- [Day 27 of Coding](https://dev.to/harshvdev/day-27-of-coding-3j6h)
-- [Couchbase Weekly Updates - May 16, 2025](https://dev.to/couchbase/couchbase-weekly-updates-may-16-2025-4133)
-- [NodeJs 24 : Key Features &amp; Updates](https://dev.to/arunez/nodejs-24-key-features-updates-184j)
+- [Ng-News 25/19: NgRx SignalStore Events, Nx 21](https://dev.to/this-is-angular/ng-news-2518-ngrx-signalstore-events-nx-21-1526)
+- [Python Variables Explained for Beginners](https://dev.to/chinmaynataraj/python-variables-explained-for-beginners-4p9d)
+- [A Simple AWS-Powered Clinic Appointment System App Using Docker and SNS](https://dev.to/shivasaipeddy/a-simple-aws-powered-clinic-appointment-system-app-using-docker-and-sns-3aod)
+- [React + TypeScript: Using useEffect + useRef + Custom Props to Simulate a Math Function in Real-Time](https://dev.to/cristiansifuentes/react-typescript-using-useeffect-useref-custom-props-to-simulate-a-math-function-in-real-time-40h)
+- [2901. Longest Unequal Adjacent Groups Subsequence II](https://dev.to/mdarifulhaque/2901-longest-unequal-adjacent-groups-subsequence-ii-2mf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
