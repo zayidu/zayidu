@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye ClickOps, Say Hi to Terraform](https://dev.to/lovestaco/goodbye-clickops-say-hi-to-terraform-f19)
-- [Best DeepL Alternative for Enterprise Teams](https://dev.to/elenahartmann/best-deepl-alternative-for-enterprise-teams-1od)
-- [This Week In React #234: TanStack DB | 0.80 RC, Expo, Legal, Re.Pack | Rslib, Composites...](https://dev.to/sebastienlorber/this-week-in-react-234-tanstack-db-080-rc-expo-legal-repack-rslib-composites-51e1)
-- [Implementing and Managing Security Protocols in Linux](https://dev.to/chielo_chiamaka/implementing-and-managing-security-protocols-in-linux-3h04)
-- [head Command – How to Preview File Content Without Opening the Whole Thing](https://dev.to/dtemi/head-command-how-to-preview-file-content-without-opening-the-whole-thing-4a77)
+- [Mastering the Game Creation Process: From Concept to Completion](https://dev.to/ludoai/mastering-the-game-creation-process-from-concept-to-completion-4pp1)
+- [Python 101:The Ultimate Beginner’s Guide](https://dev.to/doreen_jerotich_0c02c93c8/python-101the-ultimate-beginners-guide-3mme)
+- [Deploying Prometheus on a Raspberry Pi Cluster](https://dev.to/travis_ross_f41ce1ef4ab73/deploying-prometheus-on-a-raspberry-pi-cluster-4pae)
+- [Real-Time ETLT: Meet the Demands of Modern Data Processing](https://dev.to/nomzykush/real-time-etlt-meet-the-demands-of-modern-data-processing-bke)
+- [FinOps Optimization: Reducing AWS Bills Through Automated EC2 Shutdowns](https://dev.to/philippe_borribo/finops-optimization-reducing-aws-bills-through-automated-ec2-shutdowns-1d9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
