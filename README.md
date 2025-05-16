@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Game Creation Process: From Concept to Completion](https://dev.to/ludoai/mastering-the-game-creation-process-from-concept-to-completion-4pp1)
-- [Python 101:The Ultimate Beginner’s Guide](https://dev.to/doreen_jerotich_0c02c93c8/python-101the-ultimate-beginners-guide-3mme)
-- [Deploying Prometheus on a Raspberry Pi Cluster](https://dev.to/travis_ross_f41ce1ef4ab73/deploying-prometheus-on-a-raspberry-pi-cluster-4pae)
-- [Real-Time ETLT: Meet the Demands of Modern Data Processing](https://dev.to/nomzykush/real-time-etlt-meet-the-demands-of-modern-data-processing-bke)
-- [FinOps Optimization: Reducing AWS Bills Through Automated EC2 Shutdowns](https://dev.to/philippe_borribo/finops-optimization-reducing-aws-bills-through-automated-ec2-shutdowns-1d9e)
+- [[Hack] PicoCTF: Low Level Binary Intro - Intro to Debuggers](https://dev.to/falme/hack-picoctf-low-level-binary-intro-intro-to-debuggers-3jd7)
+- [🚀 Build an Infinite Scroll App in React like a Pro](https://dev.to/vishalthapaliya/build-an-infinite-scroll-app-in-react-like-a-pro-9je)
+- [How to Set Up CI/CD for a Python Backend Application on Fly.io Using GitHub Actions](https://dev.to/ephraimx/how-to-set-up-cicd-for-a-python-backend-application-on-flyio-using-github-actions-1f09)
+- [Diary of an Elm Developer - Lazy L-System generation](https://dev.to/dwayne/diary-of-an-elm-developer-lazy-l-system-generation-2k7j)
+- [CloudWatch Alarm Integration with KMS-Encrypted SNS Topic](https://dev.to/pavandevops/cloudwatch-alarm-integration-with-kms-encrypted-sns-topic-22dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
