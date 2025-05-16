@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Pair with Target Sum](https://dev.to/tanvir_azad/finding-pair-with-target-sum-2kln)
-- [Leave Script Behind](https://dev.to/lsb/leave-script-behind-25ip)
-- [Flask y MVC: Conceptos e Instalación.](https://dev.to/hpollack/flask-y-mvc-conceptos-e-instalacion-46j5)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-14on)
-- [Custom Elements: The Superpower of Svelte 5](https://dev.to/leuzga/custom-elements-the-superpower-of-svelte-5-4mo)
+- [Big Changes at Meteor Software: Our Next Chapter](https://dev.to/meteor/big-changes-at-meteor-software-our-next-chapter-g22)
+- [Valve are expanding the Steam Deck Verified system to cover future SteamOS devices](https://dev.to/gg_news/valve-are-expanding-the-steam-deck-verified-system-to-cover-future-steamos-devices-a6a)
+- [Tim Sweeney says Apple has ‘neither accepted nor rejected’ second Fortnite submission to the App Store](https://dev.to/gg_news/tim-sweeney-says-apple-has-neither-accepted-nor-rejected-second-fortnite-submission-to-the-app-16ll)
+- [TAKETWO: “The most anticipated entertainment property of all time”, GTA 6 has reportedly cost over $1 billion](https://dev.to/gg_news/taketwo-the-most-anticipated-entertainment-property-of-all-time-gta-6-has-reportedly-cost-over-196h)
+- [Samsung shows off OLED trch for Mixed Reality HMDs at 5,000 Pixels per inch](https://dev.to/future_arvr/samsung-shows-off-oled-trch-for-mixed-reality-hmds-at-5000-pixels-per-inch-2m1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
