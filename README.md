@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing scopes data in ArkScript VM](https://dev.to/lexplt/optimizing-scopes-data-in-arkscript-vm-2b2n)
-- [Construindo Apps Local-First com Legend State no React Native](https://dev.to/lumamontes/construindo-apps-local-first-com-legend-state-no-react-native-11nf)
-- [A Comparative Analysis of C# PDF Libraries for.NET Developers](https://dev.to/tayyabcodes/a-comparative-analysis-of-c-pdf-libraries-fornet-developers-4bd)
-- [Programming language of the future Part 5: Data and Ownership](https://dev.to/lostghost/programming-language-of-the-future-part-5-data-and-ownership-15no)
-- [Choosing A Distro](https://dev.to/rajaaaaa07_/choosing-a-distro-hif)
+- [👋 Just Passing By...](https://dev.to/onedev/just-passing-by-2nl1)
+- [Strings, Arrays &amp; Hash Tables — Let’s Talk About the One You’re Probably Not Using Enough](https://dev.to/onedev/strings-arrays-hash-tables-lets-talk-about-the-one-youre-probably-not-using-enough-2ebn)
+- [Gemini 2.5 vs OpenAI o3: Which is Better](https://dev.to/_37bbf0c253c0b3edec531e/gemini-25-vs-openai-o3-which-is-better-8fg)
+- [Midjourney: Turn Your Sketches into Amazing Images](https://dev.to/_37bbf0c253c0b3edec531e/midjourney-turn-your-sketches-into-amazing-images-24od)
+- [✨ Bringing Children&#39;s Stories to Life with the Amazon Nova Family of Models](https://dev.to/damogallagher/bringing-childrens-stories-to-life-with-the-amazon-nova-family-of-models-597m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
