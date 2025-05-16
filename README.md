@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👋 Just Passing By...](https://dev.to/onedev/just-passing-by-2nl1)
-- [Strings, Arrays &amp; Hash Tables — Let’s Talk About the One You’re Probably Not Using Enough](https://dev.to/onedev/strings-arrays-hash-tables-lets-talk-about-the-one-youre-probably-not-using-enough-2ebn)
-- [Gemini 2.5 vs OpenAI o3: Which is Better](https://dev.to/_37bbf0c253c0b3edec531e/gemini-25-vs-openai-o3-which-is-better-8fg)
-- [Midjourney: Turn Your Sketches into Amazing Images](https://dev.to/_37bbf0c253c0b3edec531e/midjourney-turn-your-sketches-into-amazing-images-24od)
-- [✨ Bringing Children&#39;s Stories to Life with the Amazon Nova Family of Models](https://dev.to/damogallagher/bringing-childrens-stories-to-life-with-the-amazon-nova-family-of-models-597m)
+- [Goodbye ClickOps, Say Hi to Terraform](https://dev.to/lovestaco/goodbye-clickops-say-hi-to-terraform-f19)
+- [Best DeepL Alternative for Enterprise Teams](https://dev.to/elenahartmann/best-deepl-alternative-for-enterprise-teams-1od)
+- [This Week In React #234: TanStack DB | 0.80 RC, Expo, Legal, Re.Pack | Rslib, Composites...](https://dev.to/sebastienlorber/this-week-in-react-234-tanstack-db-080-rc-expo-legal-repack-rslib-composites-51e1)
+- [Implementing and Managing Security Protocols in Linux](https://dev.to/chielo_chiamaka/implementing-and-managing-security-protocols-in-linux-3h04)
+- [head Command – How to Preview File Content Without Opening the Whole Thing](https://dev.to/dtemi/head-command-how-to-preview-file-content-without-opening-the-whole-thing-4a77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
