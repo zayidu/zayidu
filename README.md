@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum’s Technicals Suggest Further Upside, Analysts Predict $2,750–$2,900 by Month End](https://dev.to/theblockverse/ethereums-technicals-suggest-further-upside-analysts-predict-2750-2900-by-month-end-223b)
-- [JavaScript in the Browser: Understanding and Manipulating the Document Object Model &lpar;DOM&rpar;](https://dev.to/manav-1011/javascript-in-the-browser-understanding-and-manipulating-the-document-object-model-dom-edf)
-- [Run Code in Your Browser: Best Online Compilers for C++, PHP, Python, Java, C#, Go &amp; More](https://dev.to/cryptosandy/run-code-in-your-browser-best-online-compilers-for-c-php-python-java-c-go-more-54dg)
-- [ForgeMT: A Scalable, Secure Multi-Tenant GitHub Runner Platform at Cisco](https://dev.to/edersonbrilhante/forgemt-a-scalable-secure-multi-tenant-github-runner-platform-at-cisco-735)
-- [Outsell the Competition: How Smart Sales Teams Use AI](https://dev.to/array_platforms/outsell-the-competition-how-smart-sales-teams-use-ai-3n9p)
+- [Optimizing scopes data in ArkScript VM](https://dev.to/lexplt/optimizing-scopes-data-in-arkscript-vm-2b2n)
+- [Construindo Apps Local-First com Legend State no React Native](https://dev.to/lumamontes/construindo-apps-local-first-com-legend-state-no-react-native-11nf)
+- [A Comparative Analysis of C# PDF Libraries for.NET Developers](https://dev.to/tayyabcodes/a-comparative-analysis-of-c-pdf-libraries-fornet-developers-4bd)
+- [Programming language of the future Part 5: Data and Ownership](https://dev.to/lostghost/programming-language-of-the-future-part-5-data-and-ownership-15no)
+- [Choosing A Distro](https://dev.to/rajaaaaa07_/choosing-a-distro-hif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
