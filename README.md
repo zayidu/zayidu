@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe Payment Element: Restrict to “Card Only” and Show Saved Payment Methods &lpar;Undocumented Edge Case&rpar;](https://dev.to/daugaard47/stripe-payment-element-restrict-to-card-only-and-show-saved-payment-methods-undocumented-edge-3oim)
-- [IoT Architectures Under Pressure: hosting a portable firmware &lpar;Part 3&rpar;](https://dev.to/adriano-repetti/iot-architectures-under-pressure-hosting-a-portable-firmware-part-3-3fgj)
-- [Event-Driven Architecture vs. Event Sourcing: Clarifying the Differences](https://dev.to/actor-dev/eventing-sourcing-and-event-driven-3lc1)
-- [Arquitetura Orientada a Eventos vs Event Sourcing: Entendendo as Diferenças](https://dev.to/actor-dev/eda-vs-event-sourcing-entendendo-as-diferencas-27bc)
-- [💡 New Feature Drop on NIXX/DEV – Now with Comments, Notifications, and More! 🚀](https://dev.to/nixx/new-feature-drop-on-nixxdev-now-with-comments-notifications-and-more-4ik5)
+- [Ethereum’s Technicals Suggest Further Upside, Analysts Predict $2,750–$2,900 by Month End](https://dev.to/theblockverse/ethereums-technicals-suggest-further-upside-analysts-predict-2750-2900-by-month-end-223b)
+- [JavaScript in the Browser: Understanding and Manipulating the Document Object Model &lpar;DOM&rpar;](https://dev.to/manav-1011/javascript-in-the-browser-understanding-and-manipulating-the-document-object-model-dom-edf)
+- [Run Code in Your Browser: Best Online Compilers for C++, PHP, Python, Java, C#, Go &amp; More](https://dev.to/cryptosandy/run-code-in-your-browser-best-online-compilers-for-c-php-python-java-c-go-more-54dg)
+- [ForgeMT: A Scalable, Secure Multi-Tenant GitHub Runner Platform at Cisco](https://dev.to/edersonbrilhante/forgemt-a-scalable-secure-multi-tenant-github-runner-platform-at-cisco-735)
+- [Outsell the Competition: How Smart Sales Teams Use AI](https://dev.to/array_platforms/outsell-the-competition-how-smart-sales-teams-use-ai-3n9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
