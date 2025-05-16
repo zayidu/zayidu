@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Brand Loyalty: What Makes Customers Stick?](https://dev.to/aditya-saasy/the-psychology-of-brand-loyalty-what-makes-customers-stick-3bdl)
-- [We Don’t Need More Apps -We Need Better Ones](https://dev.to/p_0c0278d/we-dont-need-more-apps-we-need-better-ones-1e9l)
-- [Implementing LDAP Authentication in ASP.NET Core and ASP.NET Zero](https://dev.to/hussein_zakizadeh_680f918/implementing-ldap-authentication-in-aspnet-core-and-aspnet-zero-45ki)
-- [Locking Down the Box: A Comprehensive Guide to Container Security Evaluation and Hardening](https://dev.to/naveens16/locking-down-the-box-a-comprehensive-guide-to-container-security-evaluation-and-hardening-1bkn)
-- [Real-Time Threat Modeling with AI? This Open-Source WAF Does It.](https://dev.to/sharon_42e16b8da44dabde6d/real-time-threat-modeling-with-ai-this-open-source-waf-does-it-2nl)
+- [Stripe Payment Element: Restrict to “Card Only” and Show Saved Payment Methods &lpar;Undocumented Edge Case&rpar;](https://dev.to/daugaard47/stripe-payment-element-restrict-to-card-only-and-show-saved-payment-methods-undocumented-edge-3oim)
+- [IoT Architectures Under Pressure: hosting a portable firmware &lpar;Part 3&rpar;](https://dev.to/adriano-repetti/iot-architectures-under-pressure-hosting-a-portable-firmware-part-3-3fgj)
+- [Event-Driven Architecture vs. Event Sourcing: Clarifying the Differences](https://dev.to/actor-dev/eventing-sourcing-and-event-driven-3lc1)
+- [Arquitetura Orientada a Eventos vs Event Sourcing: Entendendo as Diferenças](https://dev.to/actor-dev/eda-vs-event-sourcing-entendendo-as-diferencas-27bc)
+- [💡 New Feature Drop on NIXX/DEV – Now with Comments, Notifications, and More! 🚀](https://dev.to/nixx/new-feature-drop-on-nixxdev-now-with-comments-notifications-and-more-4ik5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
