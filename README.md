@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
-- [[Boost] Writing Clean, Secure Node.js APIs – A Checklist You’ll Actually Use ✅](https://dev.to/gnrlbzik/-54i)
-- [Advanced Pod Scheduling in Kubernetes: Leveraging Affinity and Anti-Affinity](https://dev.to/kapusto/advanced-pod-scheduling-in-kubernetes-leveraging-affinity-and-anti-affinity-402a)
-- [Wazuh: The Open-Source Security Monitoring Solution Every Development Team Needs in 2025](https://dev.to/prateekbka/wazuh-the-open-source-security-monitoring-solution-every-development-team-needs-in-2025-334)
-- [Prototype Methods vs. Instance Methods in JavaScript](https://dev.to/tanvir_azad/prototype-methods-vs-instance-methods-in-javascript-755)
+- [Analyzing V8’s Hidden Classes for Performance Insights](https://dev.to/omriluz1/analyzing-v8s-hidden-classes-for-performance-insights-3fhk)
+- [“Calculus, Code, and the Quiet Art of Understanding Change”](https://dev.to/mahi96/calculus-code-and-the-quiet-art-of-understanding-change-644)
+- [Day 27 of Coding](https://dev.to/harshvdev/day-27-of-coding-3j6h)
+- [Couchbase Weekly Updates - May 16, 2025](https://dev.to/couchbase/couchbase-weekly-updates-may-16-2025-4133)
+- [NodeJs 24 : Key Features &amp; Updates](https://dev.to/arunez/nodejs-24-key-features-updates-184j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
