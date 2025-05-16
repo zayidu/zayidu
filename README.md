@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is React beginner-friendly?](https://dev.to/bdavidxyz/is-react-beginner-friendly-7ic)
-- [Unveiling MirOS License: A Comprehensive Exploration of Fair Code, Dual Licensing, and Open Source Innovation](https://dev.to/kallileiser/unveiling-miros-license-a-comprehensive-exploration-of-fair-code-dual-licensing-and-open-source-4p42)
-- [A Look Back at an 8-Year-Old 2D Tank Game](https://dev.to/deveshhh/a-look-back-at-an-8-year-old-2d-tank-game-3b0c)
-- [Exploring the Latest JavaScript Features in ESNext](https://dev.to/hasunnilupul/exploring-the-latest-javascript-features-in-esnext-2a8g)
-- [Spring Security: Lock Down Your APIs](https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn)
+- [Why AI Workflows Are the Future of Business Automation](https://dev.to/svalync/why-ai-workflows-are-the-future-of-business-automation-3p4p)
+- [TimeCraft: Simplificando Análise de Séries Temporais e Automação](https://dev.to/rafael_mori/timecraft-simplificando-analise-de-series-temporais-e-automacao-57gd)
+- [How I’m Earning $3,000 at 14 While Learning to Build SaaS Products](https://dev.to/khos_streks/how-im-earning-3000-at-14-while-learning-to-build-saas-products-4ph2)
+- [Brain4j: Wait, Java Finally Has a Brain?](https://dev.to/javafullstackdev/brain4j-wait-java-finally-has-a-brain-29a2)
+- [Top Azure Development Kit Companies in Denmark](https://dev.to/synergy_it_solutions/top-azure-development-kit-companies-in-denmark-15j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
