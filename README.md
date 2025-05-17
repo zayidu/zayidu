@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Show us your open-source project](https://dev.to/litlyx/show-us-your-open-source-project-9mn)
-- [From Idea to Code: How to Build What’s in Your Mind &lpar;Without Giving Up&rpar;](https://dev.to/jliter/from-idea-to-code-how-to-build-whats-in-your-mind-without-giving-up-54bl)
-- [Top Reasons to Outsource Image Annotation for Machine Learning](https://dev.to/hitechdigital/top-reasons-to-outsource-image-annotation-for-machine-learning-25ok)
-- [Заменят ли нас нейросети?](https://dev.to/kopylov_vlad/zamieniat-li-nas-nieirosieti-56n7)
-- [Rethinking Control: The Evolving Human Role in a World of Smart Machines](https://dev.to/fronteirases/rethinking-control-the-evolving-human-role-in-a-world-of-smart-machines-236m)
+- [Single Responsibility Principle in Java](https://dev.to/noel_kamphoa_e688aece0725/single-responsibility-principle-in-java-4bko)
+- [Building Better Interfaces: My Journey from &quot;Functional&quot; to Polished UI in Java Swing](https://dev.to/alireza_minagar_99f01ecb6/building-better-interfaces-my-journey-from-functional-to-polished-ui-in-java-swing-4djp)
+- [Speed vs Simplicity: Choosing the Right Cache](https://dev.to/rhaqim/speed-vs-simplicity-choosing-the-right-cache-1jac)
+- [11 Powerful Ways to Make Money Online as a Developer &lpar;That Actually Work&rpar;](https://dev.to/code_2/11-powerful-ways-to-make-money-online-as-a-developer-that-actually-work-22ke)
+- [Build a Local RAG with Ollama 🚀](https://dev.to/srbhr/build-a-local-rag-with-ollama-1l36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
