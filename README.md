@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Enums in Flutter with Sealed Classes in Dart 3](https://dev.to/ms3byoussef/flutter-enums-in-flutter-with-sealed-classes-in-dart-3-28cl)
-- [Why You Should Consider DevOps for Your Organization](https://dev.to/babita/why-you-should-consider-devops-for-your-organization-2447)
-- [Instruction source location tracking in ArkScript](https://dev.to/lexplt/instruction-source-location-tracking-in-arkscript-a89)
-- [Unveiling the 389 Directory Server License: Comprehensive Analysis and Future Outlook](https://dev.to/zhangwei42/unveiling-the-389-directory-server-license-comprehensive-analysis-and-future-outlook-42e1)
-- [Bag Of Words](https://dev.to/thatechmaestro/bag-of-words-1bo0)
+- [Why Queues Obliterate Lists in the Digital Battlefield](https://dev.to/owly/why-queues-obliterate-lists-in-the-digital-battlefield-16dk)
+- [Learn how to drastically improve your React app’s performance using lazy loading and `React.Suspense`. This guide covers route-level code splitting, loading fallbacks, best practices, and real-world benefits for Core Web Vitals.](https://dev.to/joshi16/learn-how-to-drastically-improve-your-react-apps-performance-using-lazy-loading-and-18am)
+- [Front-End Web Development Trends](https://dev.to/bridgegroupsolutions/front-end-web-development-trends-405)
+- [⚡ Boost React Performance with Lazy Loading + Suspense](https://dev.to/joshi16/boost-react-performance-with-lazy-loading-suspense-364c)
+- [Unveiling the Aladdin Free Public License: A Deep Dive into Fair Code, Developer Compensation, and Open Source Sustainability](https://dev.to/bobcars/unveiling-the-aladdin-free-public-license-a-deep-dive-into-fair-code-developer-compensation-and-4gpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
