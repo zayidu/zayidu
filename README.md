@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-28 of Coding](https://dev.to/harshvdev/day-28-of-coding-4ebk)
-- [Managing Supabase Auth State Across Server &amp; Client Components in Next.js](https://dev.to/jais_mukesh/managing-supabase-auth-state-across-server-client-components-in-nextjs-2h2b)
-- [SpringBoot x QR code - PixelForest x REST](https://dev.to/gautamkumar7/springboot-x-qr-code-pixelforest-x-rest-2f3l)
-- [100 Year Clock Wheel](https://dev.to/preetha_vaishnavi_2b82358/100-year-clock-wheel-3bjp)
-- [Deploy a Node.js App on EC2 and Keep It Running Forever with PM2](https://dev.to/arif_chaudhary_94777248d1/deploy-a-nodejs-app-on-ec2-and-keep-it-running-forever-with-pm2-33n5)
+- [Go router navigation observer](https://dev.to/mattia/go-router-navigation-observer-1gj4)
+- [Process, Thread, Multi-threading, Concurrency](https://dev.to/ahasanpapon/process-thread-multi-threading-concurrency-10ol)
+- [Get Started with Apple&#39;s FastVLM: A Step-By-Step Guide](https://dev.to/nodeshiftcloud/get-started-with-apples-fastvlm-a-step-by-step-guide-5gg7)
+- [Cybersecurity worm WannaCry](https://dev.to/misterx991/cybersecurity-worm-wannacry-4e1o)
+- [Beyond LIKE: Mastering PostgreSQL&#39;s Built-in Full-Text Search](https://dev.to/sheikh566/beyond-like-mastering-postgresqls-built-in-full-text-search-4h35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
