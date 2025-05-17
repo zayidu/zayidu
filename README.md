@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Vision AI Label Studio – Build Better Datasets with Open Source Image Labeling &lpar;with AI!&rpar;](https://dev.to/vicheanath/vision-ai-label-studio-build-better-datasets-with-open-source-image-labeling-with-ai-3jgp)
-- [HTTP? 🤔 The Web&#39;s Unsung Hero Explained](https://dev.to/mirchez/http-the-webs-unsung-hero-explained-2afl)
-- [How to Fix LinkedIn Authentication in NextAuth.js: A Custom Provider Setup Guide](https://dev.to/shubham_bhilare_3611/how-to-fix-linkedin-authentication-in-nextauthjs-a-custom-provider-setup-guide-5g8f)
-- [Refactoring 028 - Replace Consecutive IDs with Dark Keys](https://dev.to/mcsee/refactoring-028-replace-consecutive-ids-with-dark-keys-39om)
-- [Should you extend Supabase Auth with User Profiles?](https://dev.to/jais_mukesh/should-you-extend-supabase-auth-with-user-profiles-2hon)
+- [Requesting info](https://dev.to/darth_sql/requesting-info-57gi)
+- [The DNA of a Domain: Understanding DNS, FQDNs, and Domain Structures](https://dev.to/daud99/the-dna-of-a-domain-understanding-dns-fqdns-and-domain-structures-1in2)
+- [Amazon: From Online Bookstore to Tech Empire](https://dev.to/algo_sync/amazon-from-online-bookstore-to-tech-empire-5cd2)
+- [How I Improved My Coding Skills by Building Small Projects](https://dev.to/ammar_souleiman/how-i-improved-my-coding-skills-by-building-small-projects-5ab2)
+- [How I Automated GitHub Repos, Branches &amp; PRs Using Claude AI and Docker Desktop MCP](https://dev.to/vellanki/how-i-automated-github-repos-branches-prs-using-claude-ai-and-docker-desktop-mcp-1929)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
