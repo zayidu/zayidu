@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [记一次成功的nginx部署vue](https://dev.to/kik_simon_b4e2e32ea0054d0/ji-ci-cheng-gong-de-nginxbu-shu-vue-2e9j)
-- [New Heroes](https://dev.to/macglencoe/new-heroes-253o)
-- [Writing Maintainable ETL Code: Empowering Support and Avoiding Knowledge Silo](https://dev.to/govind_joshi/writing-maintainable-etl-code-empowering-support-and-avoiding-knowledge-silo-imc)
-- [You Are the Stack](https://dev.to/tonystpierre/you-are-the-stack-ilf)
-- [Unveiling European Union Public Licence 1.1: A Comprehensive Overview and Future Outlook](https://dev.to/ashucommits/unveiling-european-union-public-licence-11-a-comprehensive-overview-and-future-outlook-51eh)
+- [Creating Modal Windows with Pure CSS: No JavaScript Required](https://dev.to/maxprilutskiy/creating-modal-windows-with-pure-css-no-javascript-required-1ja)
+- [gem oauth2 v2.0.10 released](https://dev.to/galtzo/gem-oauth2-v2010-released-10bj)
+- [Unveiling IBM Public License 1.0-rv: A Comprehensive Deep Dive into Open Source Fairness and Blockchain Implications](https://dev.to/laetitiaperraut/unveiling-ibm-public-license-10-rv-a-comprehensive-deep-dive-into-open-source-fairness-and-179o)
+- [🚀 Seamless Data Magic: From Notion to Database with MCP Server &amp; AI Agents](https://dev.to/toshiya_matsumoto_ac94abe/seamless-data-magic-from-notion-to-database-with-mcp-server-ai-agents-3kp7)
+- [Building beyond the ISO 32000 PDF standard](https://dev.to/joyfill/building-beyond-the-iso-32000-pdf-standard-2eeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
