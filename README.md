@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Building a Resume with HTML &amp; CSS and Sharing It on GitLab...](https://dev.to/a_ramesh/building-a-resume-with-html-css-and-sharing-it-on-gitlab-4nkc)
-- [Building My Personal Resume Website Using HTML &amp; CSS &amp; Deploying It to GitLab](https://dev.to/kanaga_vimala_66acce9cf6e/building-my-personal-resume-website-using-html-css-deploying-it-to-gitlab-3e1i)
-- [Tailstore: Free Tailwind 4 CSS eCommerce Template for Your Next Online Store Project](https://dev.to/mikevarenek/tailstore-free-tailwind-4-css-ecommerce-template-for-your-next-online-store-project-16bo)
-- [Dica de TI: Concatenação](https://dev.to/vivianbr/dica-de-ti-concatenacao-1abo)
-- [The Ultimate VPS Security Guide](https://dev.to/nikhil_boghani_23/the-ultimate-vps-security-guide-2bnd)
+- [Day-28 of Coding](https://dev.to/harshvdev/day-28-of-coding-4ebk)
+- [Managing Supabase Auth State Across Server &amp; Client Components in Next.js](https://dev.to/jais_mukesh/managing-supabase-auth-state-across-server-client-components-in-nextjs-2h2b)
+- [SpringBoot x QR code - PixelForest x REST](https://dev.to/gautamkumar7/springboot-x-qr-code-pixelforest-x-rest-2f3l)
+- [100 Year Clock Wheel](https://dev.to/preetha_vaishnavi_2b82358/100-year-clock-wheel-3bjp)
+- [Deploy a Node.js App on EC2 and Keep It Running Forever with PM2](https://dev.to/arif_chaudhary_94777248d1/deploy-a-nodejs-app-on-ec2-and-keep-it-running-forever-with-pm2-33n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
