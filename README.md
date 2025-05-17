@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VLANs and Trunking](https://dev.to/godofgeeks/vlans-and-trunking-57d0)
-- [Java Variables: A Complete Guide &lpar;feat. var Type Inference&rpar;](https://dev.to/kmartita/java-variables-a-complete-guide-feat-var-type-inference-382k)
-- [Query Optimization Isn’t Optional—It’s Profit](https://dev.to/dct_technology/query-optimization-isnt-optional-its-profit-731)
-- [What is &quot;Keywordkönig&quot;? A Transparent SEO Experiment to Reach #1 on Google](https://dev.to/samir_askri_74f23c87ddc7a/what-is-keywordkonig-a-transparent-seo-experiment-to-reach-1-on-google-n55)
-- [Next.js Unleashed: A Powerful Framework for Modern Web Development](https://dev.to/msa-iqbal/nextjs-unleashed-a-powerful-framework-for-modern-web-development-348f)
+- [Understanding JavaScript&#39;s Memory Leak Patterns](https://dev.to/omriluz1/understanding-javascripts-memory-leak-patterns-39ao)
+- [What is Bitroot?](https://dev.to/hank_cea742789210baecd903/what-is-bitroot-4kkl)
+- [Started Writing Technical Articles on Medium — First Article on Sliding Window Algorithm in Java!](https://dev.to/shaan_yadav_04ba7ca288cbc/started-writing-technical-articles-on-medium-first-article-on-sliding-window-algorithm-in-java-5o5)
+- [How to Automate Azure App Service IP Whitelisting with Azure DevOps Pipeline](https://dev.to/awofe/how-to-automate-azure-app-service-ip-whitelisting-with-azure-devops-pipeline-4mda)
+- [Write Less, Reuse More: Template Inheritance in Flask Explained](https://dev.to/shravanjain/write-less-reuse-more-template-inheritance-in-flask-explained-4ll7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
