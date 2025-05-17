@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A ilusão da escolha: como a interface guia decisões 🧠🎯](https://dev.to/alissonfcosta/a-ilusao-da-escolha-como-a-interface-guia-decisoes-f5i)
-- [Understanding Postfix Mail Server Setup for Beginners](https://dev.to/techwithhari/understanding-postfix-mail-server-setup-for-beginners-58pl)
-- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://dev.to/tutti/dualrag-a-dual-process-approach-to-integrate-reasoning-and-retrieval-for-multi-hop-question-411j)
-- [Developers and the Cisco 300-715 SISE Certification: A Match You Didn’t Know You Needed](https://dev.to/aakruthi_singh_ef9a32b0ab/developers-and-the-cisco-300-715-sise-certification-a-match-you-didnt-know-you-needed-4691)
-- [How Resego AI Helps Students and Professionals Cut Research Time in Half](https://dev.to/virat_varoniya_3eba663c15/how-resego-ai-helps-students-and-professionals-cut-research-time-in-half-35c0)
+- [Flutter Enums in Flutter with Sealed Classes in Dart 3](https://dev.to/ms3byoussef/flutter-enums-in-flutter-with-sealed-classes-in-dart-3-28cl)
+- [Why You Should Consider DevOps for Your Organization](https://dev.to/babita/why-you-should-consider-devops-for-your-organization-2447)
+- [Instruction source location tracking in ArkScript](https://dev.to/lexplt/instruction-source-location-tracking-in-arkscript-a89)
+- [Unveiling the 389 Directory Server License: Comprehensive Analysis and Future Outlook](https://dev.to/zhangwei42/unveiling-the-389-directory-server-license-comprehensive-analysis-and-future-outlook-42e1)
+- [Bag Of Words](https://dev.to/thatechmaestro/bag-of-words-1bo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
