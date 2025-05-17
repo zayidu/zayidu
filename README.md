@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Use Cases for Proxy in Data Validation](https://dev.to/omriluz1/advanced-use-cases-for-proxy-in-data-validation-2495)
-- [Day 6 – “Where Did It Go?!” | Mastering the find, head, tail, and wc Commands in RHEL 9](https://dev.to/higgs182092/day-6-where-did-it-go-mastering-the-find-head-tail-and-wc-commands-in-rhel-9-2mgk)
-- [Infraestrutura como Código não é uma escolha técnica. É uma questão de sobrevivência estratégica.](https://dev.to/igoraraujo/infraestrutura-como-codigo-nao-e-uma-escolha-tecnica-e-uma-questao-de-sobrevivencia-estrategica-4a76)
-- [Vue.js Interview Questions and Answers](https://dev.to/ahmed_niazy/vuejs-interview-questions-and-answers-2hjj)
-- [Unveiling Computer Associates Trusted Open Source License 1.1: An In-Depth Exploration](https://dev.to/rachellovestowrite/unveiling-computer-associates-trusted-open-source-license-11-an-in-depth-exploration-2lg9)
+- [Comprehensive Guide to Pinia for State Management in Vue.js](https://dev.to/marco_quintella_c76815385/comprehensive-guide-to-pinia-for-state-management-in-vuejs-3jki)
+- [Yes the current job hunting landscape is a mess, here’s how you can play around it](https://dev.to/rj11io/yes-the-current-job-hunting-landscape-is-a-mess-heres-how-you-can-play-around-it-34fd)
+- [What Is UFO Code?](https://dev.to/neopotato/what-is-ufo-code-36pi)
+- [Using Fail2Ban to Protect Against Brute Force Attacks](https://dev.to/salamilinux/using-fail2ban-to-protect-against-brute-force-attacks-2j6k)
+- [ContextumAI: Secure, On-Chain MCP Server Deployment for Decentralized AI](https://dev.to/contextumai/contextumai-secure-on-chain-mcp-server-deployment-for-decentralized-ai-18ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
