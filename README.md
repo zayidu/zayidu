@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to display git shortsha in terminal](https://dev.to/bdavidxyz/how-to-display-git-shortsha-in-terminal-2n7j)
-- [Teamcamp for Dev Teams: Ship Faster, Collaborate Smarter](https://dev.to/teamcamp/teamcamp-for-dev-teams-ship-faster-collaborate-smarter-fk2)
-- [No Framework Overkill — Just Express and JSX](https://dev.to/leapcell/no-framework-overkill-just-express-and-jsx-30c0)
-- [How to Use Async Communication method to stay productive](https://dev.to/pratham_naik_project_manager/ho-to-use-astnc-communication-method-to-stay-productive-2pnl)
-- [How High-Performing Dev Teams Use Async Communication to Stay Productive](https://dev.to/teamcamp/how-high-performing-dev-teams-use-async-communication-to-stay-productive-413o)
+- [Recent Advances in Computer Vision: Efficient Adaptation, 3D Understanding, Robustness, Multi-Modal Fusion, Medical Appl](https://dev.to/khanali21/recent-advances-in-computer-vision-efficient-adaptation-3d-understanding-robustness-multi-modal-g88)
+- [Types of SQL statements](https://dev.to/mujahida_joynab_64c7407d8/types-of-sql-statements-205k)
+- [NumberGuessingGame](https://dev.to/neelakandan_ravi/numberguessinggame-3ppi)
+- [Build your resume in minutes with AI-powered precision](https://dev.to/sakshi_singh_1011d1325082/build-your-resume-in-minutes-with-ai-powered-precision-5ec5)
+- [Understanding Generics in TypeScript: The Ultimate Guide to Reusable Code](https://dev.to/nahidulislam/understanding-generics-in-typescript-the-ultimate-guide-to-reusable-code-p41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
