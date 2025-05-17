@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recent Advances in Computer Vision: Efficient Adaptation, 3D Understanding, Robustness, Multi-Modal Fusion, Medical Appl](https://dev.to/khanali21/recent-advances-in-computer-vision-efficient-adaptation-3d-understanding-robustness-multi-modal-g88)
-- [Types of SQL statements](https://dev.to/mujahida_joynab_64c7407d8/types-of-sql-statements-205k)
-- [NumberGuessingGame](https://dev.to/neelakandan_ravi/numberguessinggame-3ppi)
-- [Build your resume in minutes with AI-powered precision](https://dev.to/sakshi_singh_1011d1325082/build-your-resume-in-minutes-with-ai-powered-precision-5ec5)
-- [Understanding Generics in TypeScript: The Ultimate Guide to Reusable Code](https://dev.to/nahidulislam/understanding-generics-in-typescript-the-ultimate-guide-to-reusable-code-p41)
+- [VLANs and Trunking](https://dev.to/godofgeeks/vlans-and-trunking-57d0)
+- [Java Variables: A Complete Guide &lpar;feat. var Type Inference&rpar;](https://dev.to/kmartita/java-variables-a-complete-guide-feat-var-type-inference-382k)
+- [Query Optimization Isn’t Optional—It’s Profit](https://dev.to/dct_technology/query-optimization-isnt-optional-its-profit-731)
+- [What is &quot;Keywordkönig&quot;? A Transparent SEO Experiment to Reach #1 on Google](https://dev.to/samir_askri_74f23c87ddc7a/what-is-keywordkonig-a-transparent-seo-experiment-to-reach-1-on-google-n55)
+- [Next.js Unleashed: A Powerful Framework for Modern Web Development](https://dev.to/msa-iqbal/nextjs-unleashed-a-powerful-framework-for-modern-web-development-348f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
