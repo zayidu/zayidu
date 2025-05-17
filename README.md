@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Responsibility Principle in Java](https://dev.to/noel_kamphoa_e688aece0725/single-responsibility-principle-in-java-4bko)
-- [Building Better Interfaces: My Journey from &quot;Functional&quot; to Polished UI in Java Swing](https://dev.to/alireza_minagar_99f01ecb6/building-better-interfaces-my-journey-from-functional-to-polished-ui-in-java-swing-4djp)
-- [Speed vs Simplicity: Choosing the Right Cache](https://dev.to/rhaqim/speed-vs-simplicity-choosing-the-right-cache-1jac)
-- [11 Powerful Ways to Make Money Online as a Developer &lpar;That Actually Work&rpar;](https://dev.to/code_2/11-powerful-ways-to-make-money-online-as-a-developer-that-actually-work-22ke)
-- [Build a Local RAG with Ollama 🚀](https://dev.to/srbhr/build-a-local-rag-with-ollama-1l36)
+- [📝 Building a Resume with HTML &amp; CSS and Sharing It on GitLab...](https://dev.to/a_ramesh/building-a-resume-with-html-css-and-sharing-it-on-gitlab-4nkc)
+- [Building My Personal Resume Website Using HTML &amp; CSS &amp; Deploying It to GitLab](https://dev.to/kanaga_vimala_66acce9cf6e/building-my-personal-resume-website-using-html-css-deploying-it-to-gitlab-3e1i)
+- [Tailstore: Free Tailwind 4 CSS eCommerce Template for Your Next Online Store Project](https://dev.to/mikevarenek/tailstore-free-tailwind-4-css-ecommerce-template-for-your-next-online-store-project-16bo)
+- [Dica de TI: Concatenação](https://dev.to/vivianbr/dica-de-ti-concatenacao-1abo)
+- [The Ultimate VPS Security Guide](https://dev.to/nikhil_boghani_23/the-ultimate-vps-security-guide-2bnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
