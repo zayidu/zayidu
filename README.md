@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Stop Timezone Chaos in Your Business App: A Laravel Developer’s Guide To Setup User TimeZone Based Carbon Usage](https://dev.to/codewithmikee/stop-timezone-chaos-in-your-business-app-a-laravel-developers-guide-to-setup-user-timezone-c2g)
-- [Why Consistency Matters More Than Motivation &lpar;As a Developer&rpar;](https://dev.to/hobaaaa/why-consistency-matters-more-than-motivation-as-a-developer-2ngi)
-- [# Hello Dev.to! Meet Samuel — An Aspiring Software Developer on a Journey](https://dev.to/sam_mwendwa_a6123278be84a/-hello-devto-meet-samuel-an-aspiring-software-developer-on-a-journey-2ijf)
-- [Leveraging ES2022 Features for Cleaner Code](https://dev.to/omriluz1/leveraging-es2022-features-for-cleaner-code-5857)
-- [How one bad coder made our stack unbreakable](https://dev.to/devlinktips/how-one-bad-coder-made-our-stack-unbreakable-514j)
+- [Threat Modeling Meets Test Planning: A Unified Workflow for Secure Code](https://dev.to/gopinath_kathiresan_2f4b2/threat-modeling-meets-test-planning-a-unified-workflow-for-secure-code-102i)
+- [SkillTrack AI – A Simple AI-Powered Developer Skill Tracker](https://dev.to/soulaimen99/skilltrack-ai-a-simple-ai-powered-developer-skill-tracker-31fn)
+- [Deploy AWS VPC with ALB, NAT Gateway, and Send Apache Logs to CloudWatch Using CloudWatch Agent](https://dev.to/san_dev_65a0346580173629d/deploy-aws-vpc-with-alb-nat-gateway-and-send-apache-logs-to-cloudwatch-using-cloudwatch-agent-1non)
+- [Working with Containers on Linux: Docker &amp; Podman Made Simple](https://dev.to/marzena_pugo_b8978575380f/working-with-containers-on-linux-docker-podman-made-simple-50g5)
+- [Terratags: Enforce Tags on your AWS Terraform configuration](https://dev.to/quixoticmonk/terratags-enforce-tags-on-your-aws-terraform-configuration-1ck5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
