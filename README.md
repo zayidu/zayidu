@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Compare the Average](https://dev.to/simongreennet/weekly-challenge-compare-the-average-1907)
-- [I never really liked the term “10x engineer”, here&#39;s a better term](https://dev.to/rj11io/i-never-really-liked-the-term-10x-engineer-heres-a-better-term-31k)
-- [🚀 React Documentation Walkthrough – Learn React the Right Way!](https://dev.to/ebereplenty/react-documentation-walkthrough-learn-react-the-right-way-ggj)
-- [Day-45:Pattern Program 2](https://dev.to/pavithra_c_butterfly/day-45pattern-program-2-4a33)
-- [React Native Get Save Value Locally using AsyncStorage in App Memory Example](https://dev.to/skptricks_93/react-native-get-save-value-locally-using-asyncstorage-in-app-memory-example-2lj7)
+- [Don’t quit your dev job just yet: the market’s not your friend in 2025](https://dev.to/devlinktips/dont-quit-your-dev-job-just-yet-the-markets-not-your-friend-in-2025-5f5c)
+- [Why modern software feels broken and why we keep shipping it anyway](https://dev.to/devlinktips/why-modern-software-feels-broken-and-why-we-keep-shipping-it-anyway-1omm)
+- [Lampe de lune image : une aventure au cœur de vos souvenirs](https://dev.to/perubulb56/lampe-de-lune-image-une-aventure-au-coeur-de-vos-souvenirs-2pio)
+- [Un excursion dans clair de lune accompagné de ta portrait illuminée par la clarté](https://dev.to/appealrod66/un-excursion-dans-clair-de-lune-accompagne-de-ta-portrait-illuminee-par-la-clarte-4c9a)
+- [Conception de lampe lunaire : Subtil mélange d&#39;art et de mémoire](https://dev.to/valleycake56/conception-de-lampe-lunaire-subtil-melange-dart-et-de-memoire-3dg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
