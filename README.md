@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures Study Guide for BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/data-structures-study-guide-for-bca-semester-2-mcu-bhopal-3m2j)
-- [DBMS Guide for MCU Bhopal BCA - Semester 2](https://dev.to/abhishek_gupta_f080622fe3/dbms-guide-for-mcu-bhopal-bca-semester-2-1o0m)
-- [Just Learned Go – Built My First CLI Tool! ⚡️](https://dev.to/pika003/just-learned-go-built-my-first-cli-tool-2ee9)
-- [Unveiling GNU Lesser General Public License 2.0: A Comprehensive Exploration and Future Perspectives](https://dev.to/rachellovestowrite/unveiling-gnu-lesser-general-public-license-20-a-comprehensive-exploration-and-future-perspectives-5d1a)
-- [Exploring Microsoft Copilot Studio and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/seenakhan/exploring-microsoft-copilot-studio-and-model-context-protocol-mcp-642)
+- [Introducing My First Blogs Website: A Fresh Blog Space](https://dev.to/borgbyte_hub/introducing-my-first-blogs-website-a-fresh-blog-space-3m5p)
+- [Top 16 Django Questions for Intermediate to Advanced Developers](https://dev.to/leapcell/top-16-django-questions-for-intermediate-to-advanced-developers-5ff4)
+- [Avoiding the God Object - A Guide to Better Software Design](https://dev.to/bharathvaj_ganesan/avoiding-the-god-object-a-guide-to-better-software-design-3l7p)
+- [⬜️ AI told me to move to Estonia, so I’m eating bread now](https://dev.to/uka_aidev/ai-told-me-to-move-to-estonia-so-im-eating-bread-now-2e71)
+- [Study Guide for Working with Operating Systems &lpar;DOS, Windows, Linux&rpar; - BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/study-guide-for-working-with-operating-systems-dos-windows-linux-bca-semester-2-mcu-bhopal-29e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
