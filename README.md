@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprendre IngressNightmare par l’exemple.](https://dev.to/neuronaddict/comprendre-ingressnightmare-par-lexemple-3kg6)
-- [How does quoting works in ArkScript macros?](https://dev.to/lexplt/how-does-quoting-works-in-arkscript-macros-m6p)
-- [Top 10 Free Resources to Learn C# in 2025](https://dev.to/elsayed_zewayed_91621702f/top-10-free-resources-to-learn-c-in-2025-34bl)
-- [How to Stand Strong Against Cyberbullying](https://dev.to/nightmare-lynx/how-to-stand-strong-against-cyberbullying-485m)
-- [🚀 Week 3 of My DevOps Journey: Linux Mastery &amp; Cloud Exploration](https://dev.to/mritunjay_tiwari_c043f513/week-3-of-my-devops-journey-linux-mastery-cloud-exploration-4nph)
+- [[Boost]](https://dev.to/karanverma/-a2d)
+- [Rediscovering ACID – The Foundation of Reliable Databases](https://dev.to/mandarg13/rediscovering-acid-the-foundation-of-reliable-databases-3h5p)
+- [Python for Oracle on ARM Linux | Part 2 - &quot;shell like&quot; SQL scripts](https://dev.to/nabhaas/python-for-oracle-on-arm-linux-part-2-shell-like-sql-scripts-1415)
+- [Pourquoi votre code python ne marche plus sur votre serveur](https://dev.to/neuronaddict/pourquoi-votre-code-python-ne-marche-plus-sur-votre-serveur-5c58)
+- [Avoid Memory Leaks in Angular When Using takeUntil with Higher-Order RxJS Operators](https://dev.to/petersaktor/avoid-memory-leaks-in-angular-when-using-takeuntil-with-higher-order-rxjs-operators-268m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
