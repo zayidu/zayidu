@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Programming Mistakes I Made That Almost Destroyed My Projects &lpar;And How I Fixed Them&rpar;](https://dev.to/thameemx/7-programming-mistakes-i-made-that-almost-destroyed-my-projects-and-how-i-fixed-them-1fcn)
-- [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
-- [A Comprehensive Guide to Bug Hunting](https://dev.to/xybersec/a-comprehensive-guide-to-bug-hunting-2l01)
-- [Building a No-Code Quant Backtesting Platform — My Journey Begins](https://dev.to/chair_2579a3e599995ce64da/building-a-no-code-quant-backtesting-platform-my-journey-begins-2kcj)
-- [How I went from a no name tech company to a 250k TC job at one of the biggest tech companies in the world.](https://dev.to/tigerwoodsenjoyer/how-i-went-from-a-no-name-tech-company-to-a-250k-tc-job-at-one-of-the-biggest-tech-companies-in-the-420n)
+- [How to setup Void IDE in Linux](https://dev.to/hpnightowl/how-to-setup-void-ide-in-linux-4j6f)
+- [Mark Zuckerberg Wants Developers to Build Smarter, With Meta AI](https://dev.to/ingramone/mark-zuckerberg-wants-developers-to-build-smarter-with-meta-ai-3cn3)
+- [◼️7/100 Block-by-Block: Cross-chain fragmentation in Web3 data.](https://dev.to/nocibambi/7100-block-by-block-cross-chain-fragmentation-in-web3-data-4l9p)
+- [[Boost]](https://dev.to/omriluz1/-joc)
+- [TrendPulse: AI-Powered Social Media Intelligence Agent](https://dev.to/aniruddhadak/trendpulse-ai-powered-social-media-intelligence-agent-468c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
