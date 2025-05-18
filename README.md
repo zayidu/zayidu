@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t quit your dev job just yet: the market’s not your friend in 2025](https://dev.to/devlinktips/dont-quit-your-dev-job-just-yet-the-markets-not-your-friend-in-2025-5f5c)
-- [Why modern software feels broken and why we keep shipping it anyway](https://dev.to/devlinktips/why-modern-software-feels-broken-and-why-we-keep-shipping-it-anyway-1omm)
-- [Lampe de lune image : une aventure au cœur de vos souvenirs](https://dev.to/perubulb56/lampe-de-lune-image-une-aventure-au-coeur-de-vos-souvenirs-2pio)
-- [Un excursion dans clair de lune accompagné de ta portrait illuminée par la clarté](https://dev.to/appealrod66/un-excursion-dans-clair-de-lune-accompagne-de-ta-portrait-illuminee-par-la-clarte-4c9a)
-- [Conception de lampe lunaire : Subtil mélange d&#39;art et de mémoire](https://dev.to/valleycake56/conception-de-lampe-lunaire-subtil-melange-dart-et-de-memoire-3dg8)
+- [How to analyze Java application performance with async-profiler in Amazon EKS](https://dev.to/amogh_deshpande_1176/how-to-analyze-java-application-performance-with-async-profiler-in-amazon-eks-5d9o)
+- [Developer Experience as a Product: Not Just Tools. It’s Everything.](https://dev.to/susalabs/developer-experience-as-a-product-not-just-tools-its-everything-34pa)
+- [🚀 Kotlin&#39;s Key Features #1](https://dev.to/saleemuddinofficial/kotlins-key-features-1-38f)
+- [Weekend Vibes](https://dev.to/preetha_vaishnavi_2b82358/weekend-vibes-40la)
+- [The original motivation for creating Lean was software verification](https://dev.to/adolfont/the-original-motivation-for-creating-lean-was-software-verification-2266)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
