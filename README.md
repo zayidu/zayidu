@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Performansını İyileştir: Hızlı ve Etkin](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestir-hizli-ve-etkin-1h7l)
-- [HarmonyOS Next Error Handling: try-catch and Result Type](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-error-handling-try-catch-and-result-type-1080)
-- [HarmonyOS Next Functional Programming: Advanced Functions and Lambda Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-functional-programming-advanced-functions-and-lambda-optimization-49gn)
-- [HarmonyOS Next Variable System: From Variability to Memory Model](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-variable-system-from-variability-to-memory-model-2cae)
-- [HarmonyOS Next Iterator Mode: for-in and interval traversal tips](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-iterator-mode-for-in-and-interval-traversal-tips-24pj)
+- [Demystifying `className` in React: HTML Attributes, TypeScript, and Styling Mastery](https://dev.to/cristiansifuentes/demystifying-classname-in-react-html-attributes-typescript-and-styling-mastery-3i6d)
+- [🚨 Say hello to EvoAgentX — The World’s First Self-Evolving AI Agent Framework](https://dev.to/evoagentx/say-hello-to-evoagentx-the-worlds-first-self-evolving-ai-agent-framework-1j2k)
+- [Building Worlds Without Frameworks: My Indie Dev Wins This Week](https://dev.to/formantaudio/building-worlds-without-frameworks-my-indie-dev-wins-this-week-31ih)
+- [🚀 Introducing EvoAgentX: The World’s First Self-Evolving AI Agent Framework 🌐](https://dev.to/evoagentx/introducing-evoagentx-the-worlds-first-self-evolving-ai-agent-framework-1cnf)
+- [Day 7/200 &lpar;full stack&rpar;](https://dev.to/munin-1/day-7200-full-stack-1k6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
