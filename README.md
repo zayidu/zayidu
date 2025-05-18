@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fully agentic coding with OpenAI Codex, JavaScript’s New Superpower, Deno’s updated next-gen web framework, and more](https://dev.to/thisweekinjavascript/fully-agentic-coding-with-openai-codex-javascripts-new-superpower-denos-updated-next-gen-web-3lk5)
-- [Wait... Where Did My Margin Go? 🤯 &lpar;Margin Collapsing Explained&rpar;](https://dev.to/agarwalamn/wait-where-did-my-margin-go-margin-collapsing-explained-4jfe)
-- [A engenharia não falha a gestão sim: por que times excelentes precisam de gestão excelente](https://dev.to/maicon_luizanschau_2ec1f/a-engenharia-nao-falha-a-gestao-sim-por-que-times-excelentes-precisam-de-gestao-excelente-4dmj)
-- [Frontend Debugging Pro Tips: How to Fix Bugs Faster &lpar;Like a Senior Dev&rpar;](https://dev.to/er-raj-aryan/frontend-debugging-pro-tips-how-to-fix-bugs-faster-like-a-senior-dev-g5g)
-- [Letting the power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/letting-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-25b3)
+- [My first blog :&rpar;](https://dev.to/mdhvg/my-first-blog--4jm9)
+- [The FREE Cursor Alternative That Builds Entire Websites For You &lpar;1-Minute Setup&rpar;](https://dev.to/itshayder/the-free-cursor-alternative-that-builds-entire-websites-for-you-1-minute-setup-53hc)
+- [🧾 Build a Custom QR Code Generator Using Python and Streamlit in Minutes!](https://dev.to/nish2005karsh/build-a-custom-qr-code-generator-using-python-and-streamlit-in-minutes-fcl)
+- [🚀 Boost Your WooCommerce Sales with Faker Review Lite &lpar;Yes, It’s That Simple&rpar;](https://dev.to/oxyian/boost-your-woocommerce-sales-with-faker-review-lite-yes-its-that-simple-5dcn)
+- [I&#39;ve just started a new article series on software architecture in .NET! My goal is to explain how it works and, more importantly, why it matters. If you&#39;re new to concepts like Clean Architecture, DDD, or Onion Architecture—this series is made for you.](https://dev.to/pouria_ghadiri/ive-just-started-a-new-article-series-on-software-architecture-in-net-my-goal-is-to-explain-how-3f2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
