@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #20-2025: Metaverse Setbacks, AI Privacy, Uber’s Kubernetes Leap, Discord’s Search Revolution &amp; The “AI-First” Mandate](https://dev.to/sudhansubedi/weekly-20-2025-metaverse-setbacks-ai-privacy-ubers-kubernetes-leap-discords-search-nfj)
-- [Each child in a list should have a unique key prop](https://dev.to/bdavidxyz/each-child-in-a-list-should-have-a-unique-key-prop-1d03)
-- [Mastering useRef with NodeJS.Timeout in React + TypeScript](https://dev.to/cristiansifuentes/mastering-useref-with-nodejstimeout-in-react-typescript-1hf0)
-- [Unveiling GNU Free Documentation License 1.2: A Holistic Deep Dive into Open Source Documentation](https://dev.to/ashucommits/unveiling-gnu-free-documentation-license-12-a-holistic-deep-dive-into-open-source-documentation-33pa)
-- [# Uptime Kuma: The Ultimate Self-Hosted Uptime Monitoring Tool](https://dev.to/mdismail_e830c2c4f43ae37/-uptime-kuma-the-ultimate-self-hosted-uptime-monitoring-tool-1pnj)
+- [Data Structures Study Guide for BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/data-structures-study-guide-for-bca-semester-2-mcu-bhopal-3m2j)
+- [DBMS Guide for MCU Bhopal BCA - Semester 2](https://dev.to/abhishek_gupta_f080622fe3/dbms-guide-for-mcu-bhopal-bca-semester-2-1o0m)
+- [Just Learned Go – Built My First CLI Tool! ⚡️](https://dev.to/pika003/just-learned-go-built-my-first-cli-tool-2ee9)
+- [Unveiling GNU Lesser General Public License 2.0: A Comprehensive Exploration and Future Perspectives](https://dev.to/rachellovestowrite/unveiling-gnu-lesser-general-public-license-20-a-comprehensive-exploration-and-future-perspectives-5d1a)
+- [Exploring Microsoft Copilot Studio and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/seenakhan/exploring-microsoft-copilot-studio-and-model-context-protocol-mcp-642)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
