@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Modeling Meets Test Planning: A Unified Workflow for Secure Code](https://dev.to/gopinath_kathiresan_2f4b2/threat-modeling-meets-test-planning-a-unified-workflow-for-secure-code-102i)
-- [SkillTrack AI – A Simple AI-Powered Developer Skill Tracker](https://dev.to/soulaimen99/skilltrack-ai-a-simple-ai-powered-developer-skill-tracker-31fn)
-- [Deploy AWS VPC with ALB, NAT Gateway, and Send Apache Logs to CloudWatch Using CloudWatch Agent](https://dev.to/san_dev_65a0346580173629d/deploy-aws-vpc-with-alb-nat-gateway-and-send-apache-logs-to-cloudwatch-using-cloudwatch-agent-1non)
-- [Working with Containers on Linux: Docker &amp; Podman Made Simple](https://dev.to/marzena_pugo_b8978575380f/working-with-containers-on-linux-docker-podman-made-simple-50g5)
-- [Terratags: Enforce Tags on your AWS Terraform configuration](https://dev.to/quixoticmonk/terratags-enforce-tags-on-your-aws-terraform-configuration-1ck5)
+- [The pause after you ship](https://dev.to/tonystpierre/the-pause-after-you-ship-4o0g)
+- [Streamlining Decentralized Infrastructure with the Contextum CLI](https://dev.to/contextumai/streamlining-decentralized-infrastructure-with-the-contextum-cli-33o8)
+- [Building a QR Code Generator and Reader in JavaScript](https://dev.to/ahmed_niazy/building-a-qr-code-generator-and-reader-in-javascript-2d7b)
+- [ACP: The Protocol Standard for AI Agent Interoperability](https://dev.to/gocodeo/acp-the-protocol-standard-for-ai-agent-interoperability-37cm)
+- [Building Scalable REST APIs with Pagination: From Concept to Production](https://dev.to/serifcolakel/building-scalable-rest-apis-with-pagination-from-concept-to-production-27o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
