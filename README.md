@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [block-inspect: A Lightweight JavaScript Utility to Deter Inspect Elements &amp; Protect Your Website Content](https://dev.to/mahmud-r-farhan/block-inspect-a-lightweight-javascript-utility-to-deter-inspect-elements-protect-your-website-2dp5)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4ncm)
-- [Relational vs Document-Oriented Database for Software Architecture](https://dev.to/lukasniessen/relational-vs-document-oriented-database-for-software-architecture-28fg)
-- [Circuit Breakers: Fail Gracefully](https://dev.to/wittedtech-by-harshit/circuit-breakers-fail-gracefully-106b)
-- [MCP Is to AI What REST Was to the Web: Understanding the Model Context Protocol](https://dev.to/mujj/mcp-is-to-ai-what-rest-was-to-the-web-understanding-the-model-context-protocol-1g06)
+- [Comprendre IngressNightmare par l’exemple.](https://dev.to/neuronaddict/comprendre-ingressnightmare-par-lexemple-3kg6)
+- [How does quoting works in ArkScript macros?](https://dev.to/lexplt/how-does-quoting-works-in-arkscript-macros-m6p)
+- [Top 10 Free Resources to Learn C# in 2025](https://dev.to/elsayed_zewayed_91621702f/top-10-free-resources-to-learn-c-in-2025-34bl)
+- [How to Stand Strong Against Cyberbullying](https://dev.to/nightmare-lynx/how-to-stand-strong-against-cyberbullying-485m)
+- [🚀 Week 3 of My DevOps Journey: Linux Mastery &amp; Cloud Exploration](https://dev.to/mritunjay_tiwari_c043f513/week-3-of-my-devops-journey-linux-mastery-cloud-exploration-4nph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
