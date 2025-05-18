@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying `className` in React: HTML Attributes, TypeScript, and Styling Mastery](https://dev.to/cristiansifuentes/demystifying-classname-in-react-html-attributes-typescript-and-styling-mastery-3i6d)
-- [🚨 Say hello to EvoAgentX — The World’s First Self-Evolving AI Agent Framework](https://dev.to/evoagentx/say-hello-to-evoagentx-the-worlds-first-self-evolving-ai-agent-framework-1j2k)
-- [Building Worlds Without Frameworks: My Indie Dev Wins This Week](https://dev.to/formantaudio/building-worlds-without-frameworks-my-indie-dev-wins-this-week-31ih)
-- [🚀 Introducing EvoAgentX: The World’s First Self-Evolving AI Agent Framework 🌐](https://dev.to/evoagentx/introducing-evoagentx-the-worlds-first-self-evolving-ai-agent-framework-1cnf)
-- [Day 7/200 &lpar;full stack&rpar;](https://dev.to/munin-1/day-7200-full-stack-1k6f)
+- [Weekly #20-2025: Metaverse Setbacks, AI Privacy, Uber’s Kubernetes Leap, Discord’s Search Revolution &amp; The “AI-First” Mandate](https://dev.to/sudhansubedi/weekly-20-2025-metaverse-setbacks-ai-privacy-ubers-kubernetes-leap-discords-search-nfj)
+- [Each child in a list should have a unique key prop](https://dev.to/bdavidxyz/each-child-in-a-list-should-have-a-unique-key-prop-1d03)
+- [Mastering useRef with NodeJS.Timeout in React + TypeScript](https://dev.to/cristiansifuentes/mastering-useref-with-nodejstimeout-in-react-typescript-1hf0)
+- [Unveiling GNU Free Documentation License 1.2: A Holistic Deep Dive into Open Source Documentation](https://dev.to/ashucommits/unveiling-gnu-free-documentation-license-12-a-holistic-deep-dive-into-open-source-documentation-33pa)
+- [# Uptime Kuma: The Ultimate Self-Hosted Uptime Monitoring Tool](https://dev.to/mdismail_e830c2c4f43ae37/-uptime-kuma-the-ultimate-self-hosted-uptime-monitoring-tool-1pnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
