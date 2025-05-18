@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IMF Approves 7 Billion Climate Resilience Loan for Pakistan](https://dev.to/scriptxeno/imf-approves-7-billion-climate-resilience-loan-for-pakistan-1i3p)
-- [NEST useful packages](https://dev.to/wakeup_flower_8591a6cb6a9/nest-useful-packages-4ke)
-- [CI/CD for Monorepos: Taming the Beast with Smart Strategies 🚀](https://dev.to/alex_aslam/cicd-for-monorepos-taming-the-beast-with-smart-strategies-3np0)
-- [Build a One-File EXE with PyInstaller &lpar;Including Binaries &amp; Resources&rpar;](https://dev.to/arhamrumi/build-a-one-file-exe-with-pyinstaller-including-binaries-resources-3o00)
-- [🧠 𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗥𝗲𝗮𝗱𝘀 𝗳𝗼𝗿 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! ☁️ If you&#39;re diving into AWS or brushing up on fundamentals, here’s a curated list of some of my most popular posts, simplified analogies, real-world use cases 🔌 𝗔𝗪𝗦 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://dev.to/full_stackgeek/-if-youre-diving-into-aws-or-brushing-up-on-3p03)
+- [🌍 Stop Timezone Chaos in Your Business App: A Laravel Developer’s Guide To Setup User TimeZone Based Carbon Usage](https://dev.to/codewithmikee/stop-timezone-chaos-in-your-business-app-a-laravel-developers-guide-to-setup-user-timezone-c2g)
+- [Why Consistency Matters More Than Motivation &lpar;As a Developer&rpar;](https://dev.to/hobaaaa/why-consistency-matters-more-than-motivation-as-a-developer-2ngi)
+- [# Hello Dev.to! Meet Samuel — An Aspiring Software Developer on a Journey](https://dev.to/sam_mwendwa_a6123278be84a/-hello-devto-meet-samuel-an-aspiring-software-developer-on-a-journey-2ijf)
+- [Leveraging ES2022 Features for Cleaner Code](https://dev.to/omriluz1/leveraging-es2022-features-for-cleaner-code-5857)
+- [How one bad coder made our stack unbreakable](https://dev.to/devlinktips/how-one-bad-coder-made-our-stack-unbreakable-514j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
