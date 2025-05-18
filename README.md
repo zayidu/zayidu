@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Requesting info](https://dev.to/darth_sql/requesting-info-57gi)
-- [The DNA of a Domain: Understanding DNS, FQDNs, and Domain Structures](https://dev.to/daud99/the-dna-of-a-domain-understanding-dns-fqdns-and-domain-structures-1in2)
-- [Amazon: From Online Bookstore to Tech Empire](https://dev.to/algo_sync/amazon-from-online-bookstore-to-tech-empire-5cd2)
-- [How I Improved My Coding Skills by Building Small Projects](https://dev.to/ammar_souleiman/how-i-improved-my-coding-skills-by-building-small-projects-5ab2)
-- [How I Automated GitHub Repos, Branches &amp; PRs Using Claude AI and Docker Desktop MCP](https://dev.to/vellanki/how-i-automated-github-repos-branches-prs-using-claude-ai-and-docker-desktop-mcp-1929)
+- [Web Performansını İyileştir: Hızlı ve Etkin](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestir-hizli-ve-etkin-1h7l)
+- [HarmonyOS Next Error Handling: try-catch and Result Type](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-error-handling-try-catch-and-result-type-1080)
+- [HarmonyOS Next Functional Programming: Advanced Functions and Lambda Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-functional-programming-advanced-functions-and-lambda-optimization-49gn)
+- [HarmonyOS Next Variable System: From Variability to Memory Model](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-variable-system-from-variability-to-memory-model-2cae)
+- [HarmonyOS Next Iterator Mode: for-in and interval traversal tips](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-iterator-mode-for-in-and-interval-traversal-tips-24pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
