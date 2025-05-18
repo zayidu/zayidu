@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The pause after you ship](https://dev.to/tonystpierre/the-pause-after-you-ship-4o0g)
-- [Streamlining Decentralized Infrastructure with the Contextum CLI](https://dev.to/contextumai/streamlining-decentralized-infrastructure-with-the-contextum-cli-33o8)
-- [Building a QR Code Generator and Reader in JavaScript](https://dev.to/ahmed_niazy/building-a-qr-code-generator-and-reader-in-javascript-2d7b)
-- [ACP: The Protocol Standard for AI Agent Interoperability](https://dev.to/gocodeo/acp-the-protocol-standard-for-ai-agent-interoperability-37cm)
-- [Building Scalable REST APIs with Pagination: From Concept to Production](https://dev.to/serifcolakel/building-scalable-rest-apis-with-pagination-from-concept-to-production-27o7)
+- [Beyond Promises](https://dev.to/rawveg/beyond-promises-2fdk)
+- [Unveiling the Ricoh Source Code Public License: A Holistic Look at Fair Code and Future Innovations](https://dev.to/rachellovestowrite/unveiling-the-ricoh-source-code-public-license-a-holistic-look-at-fair-code-and-future-innovations-4l5)
+- [How to make connections without this error?](https://dev.to/jasonduval26/how-to-make-connections-without-this-error-f6d)
+- [[Boost]](https://dev.to/rakeshv675/-2199)
+- [Unveiling Q Public License 1.0: Balancing Open Source and Fair Compensation](https://dev.to/zhangwei42/unveiling-q-public-license-10-balancing-open-source-and-fair-compensation-5cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
