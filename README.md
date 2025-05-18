@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Void IDE in Linux](https://dev.to/hpnightowl/how-to-setup-void-ide-in-linux-4j6f)
-- [Mark Zuckerberg Wants Developers to Build Smarter, With Meta AI](https://dev.to/ingramone/mark-zuckerberg-wants-developers-to-build-smarter-with-meta-ai-3cn3)
-- [◼️7/100 Block-by-Block: Cross-chain fragmentation in Web3 data.](https://dev.to/nocibambi/7100-block-by-block-cross-chain-fragmentation-in-web3-data-4l9p)
-- [[Boost]](https://dev.to/omriluz1/-joc)
-- [TrendPulse: AI-Powered Social Media Intelligence Agent](https://dev.to/aniruddhadak/trendpulse-ai-powered-social-media-intelligence-agent-468c)
+- [block-inspect: A Lightweight JavaScript Utility to Deter Inspect Elements &amp; Protect Your Website Content](https://dev.to/mahmud-r-farhan/block-inspect-a-lightweight-javascript-utility-to-deter-inspect-elements-protect-your-website-2dp5)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4ncm)
+- [Relational vs Document-Oriented Database for Software Architecture](https://dev.to/lukasniessen/relational-vs-document-oriented-database-for-software-architecture-28fg)
+- [Circuit Breakers: Fail Gracefully](https://dev.to/wittedtech-by-harshit/circuit-breakers-fail-gracefully-106b)
+- [MCP Is to AI What REST Was to the Web: Understanding the Model Context Protocol](https://dev.to/mujj/mcp-is-to-ai-what-rest-was-to-the-web-understanding-the-model-context-protocol-1g06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
