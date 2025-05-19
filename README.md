@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From JavaScript to Python: A Syntax Guide for Developers](https://dev.to/mohinsheikh/from-javascript-to-python-a-syntax-guide-for-developers-4ea0)
-- [Реализация Паттерна Compound Component в React: Практическое Руководство от Богдана Новотарского](https://dev.to/bogdannovotarskij/riealizatsiia-pattierna-compound-component-v-react-praktichieskoie-rukovodstvo-ot-boghdana-novotarskogho-5ff2)
-- [Why as a Back-end-engineer you should know an Operating System and it&#39;s Basics!](https://dev.to/vincenttommi/why-as-a-back-end-engineer-you-should-know-an-operating-system-and-its-basics-4594)
-- [Share the Blessings - Support Qurbani 2025 at Banbury Madni Masjid](https://dev.to/banbury_madni_masjid/share-the-blessings-support-qurbani-2025-at-banbury-madni-masjid-30gp)
-- [We just hit 354 stars on GitHub. If you&#39;re curious, Kodus is an open source AI-powered code review tool we&#39;re building. https://kodus.io](https://dev.to/ed_dfreitas/we-just-hit-354-stars-on-github-if-youre-curious-kodus-is-an-open-source-ai-powered-code-review-439e)
+- [All Data and AI Weekly #190 - May 19, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-190-may-19-2025-59lh)
+- [Building an AWS Support Voice Assistant with Amazon Nova](https://dev.to/aws-builders/building-an-aws-support-voice-assistant-with-amazon-nova-n5o)
+- [Detecting and Fixing Vulnerabilities in Code Suggested by Cursor and Windsurf](https://dev.to/clouddefenseai/detecting-and-fixing-vulnerabilities-in-code-suggested-by-cursor-and-windsurf-3ikg)
+- [Practice Management Software: A Game Changer for Modern Healthcare Providers](https://dev.to/adam_adam_8bd4aa56bd24f8d/practice-management-software-a-game-changer-for-modern-healthcare-providers-4o7l)
+- [Google Major Launch Imagen 4, Imagen 4 Ultra and Veo 3 models at Google I/O 2025](https://dev.to/_37bbf0c253c0b3edec531e/google-major-launch-imagen-4-imagen-4-ultra-and-veo-3-models-at-google-io-2025-236)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
