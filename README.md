@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Promises](https://dev.to/rawveg/beyond-promises-2fdk)
-- [Unveiling the Ricoh Source Code Public License: A Holistic Look at Fair Code and Future Innovations](https://dev.to/rachellovestowrite/unveiling-the-ricoh-source-code-public-license-a-holistic-look-at-fair-code-and-future-innovations-4l5)
-- [How to make connections without this error?](https://dev.to/jasonduval26/how-to-make-connections-without-this-error-f6d)
-- [[Boost]](https://dev.to/rakeshv675/-2199)
-- [Unveiling Q Public License 1.0: Balancing Open Source and Fair Compensation](https://dev.to/zhangwei42/unveiling-q-public-license-10-balancing-open-source-and-fair-compensation-5cf)
+- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
+- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
+- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
+- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
+- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
