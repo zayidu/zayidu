@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Incredible way to turn solitude into strategy.](https://dev.to/zaramercer89/incredible-way-to-turn-solitude-into-strategy-36mk)
-- [🤖 AI Meets CLI: Let Amazon Q CLI Do the Work 🚀](https://dev.to/aws-builders/ai-meets-cli-let-amazon-q-cli-do-the-work-3n61)
-- [10 Microsoft Word AI Hacks That Will Transform Your Work in 2025](https://dev.to/squaredtech/10-microsoft-word-ai-hacks-that-will-transform-your-work-in-2025-51d5)
-- [# 🎭 Frontend vs. Backend — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/-frontend-vs-backend-explained-like-youre-5-but-smarter-501)
-- [Optimizing File Handling and Data Processing in C# Windows Forms App](https://dev.to/bohardani/optimizing-file-handling-and-data-processing-in-c-windows-forms-app-1cc2)
+- [Plugins made-to-scale: uma visão sobre cache, filas e resiliência.](https://dev.to/lerian/plugins-made-to-scale-uma-visao-sobre-cache-filas-e-resiliencia-2o7c)
+- [Serverless Is a Lie &lpar;Unless You’re Using SQLite&rpar;](https://dev.to/shayy/serverless-is-a-lie-unless-youre-using-sqlite-45ja)
+- [The Quiet Crisis: How is AI Eroding Our Technical Competence?](https://dev.to/sebs/the-quiet-crisis-how-is-ai-eroding-our-technical-competence-2in2)
+- [Implementing a Custom Reactive Library in Vanilla JS](https://dev.to/omriluz1/implementing-a-custom-reactive-library-in-vanilla-js-4i2o)
+- [Async Is the New Superpower: Why Smart Developers Work Differently](https://dev.to/sintu_mondal_465293284d5a/async-is-the-new-superpower-why-smart-developers-work-differently-36j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
