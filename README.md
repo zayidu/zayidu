@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark’s Outlines: Python Special Characters](https://dev.to/mike-vincent/quarks-outlines-python-special-characters-3cf)
-- [What is IT Infrastructure?](https://dev.to/clouddefenseai/what-is-it-infrastructure-3aoc)
-- [🧪 A Beginner&#39;s Guide to Software Testing Types &lpar;And Why They Matter&rpar;](https://dev.to/queen911/a-beginners-guide-to-software-testing-types-and-why-they-matter-1864)
-- [Code, Coffee &amp; Chaos &lpar;My Full Stack Journey So Far&rpar;](https://dev.to/hprakash1999/code-coffee-chaos-my-full-stack-journey-so-far-5523)
-- [🧹 How to Delete All Local Git Branches Except the Current One](https://dev.to/vineethtrv/how-to-delete-all-local-git-branches-except-the-current-one-5dcb)
+- [Designing Notify: A notification service delivering university announcements to 1000+ users.](https://dev.to/chethaslp/designing-notify-a-notification-service-delivering-university-announcements-to-1000-users-3991)
+- [5 Things I Wish I Knew Before Learning to Code &lpar;With Simple Code Examples&rpar;](https://dev.to/mariecolvinn/5-things-i-wish-i-knew-before-learning-to-code-with-simple-code-examples-2j0p)
+- [Platform Engineering 101: Build Faster, Ship Safer](https://dev.to/gatling/platform-engineering-101-build-faster-ship-safer-4ogb)
+- [PawSQL Community Edition: A Free &amp; Self-Hosted Enterprise-Grade SQL Optimizer, Now Available to Individual Developers](https://dev.to/pawsql/pawsql-community-edition-a-free-self-hosted-enterprise-grade-sql-optimizer-now-available-to-k8n)
+- [Segitseg](https://dev.to/asuramtg/segitseg-3g8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
