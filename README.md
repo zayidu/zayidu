@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugins made-to-scale: uma visão sobre cache, filas e resiliência.](https://dev.to/lerian/plugins-made-to-scale-uma-visao-sobre-cache-filas-e-resiliencia-2o7c)
-- [Serverless Is a Lie &lpar;Unless You’re Using SQLite&rpar;](https://dev.to/shayy/serverless-is-a-lie-unless-youre-using-sqlite-45ja)
-- [The Quiet Crisis: How is AI Eroding Our Technical Competence?](https://dev.to/sebs/the-quiet-crisis-how-is-ai-eroding-our-technical-competence-2in2)
-- [Implementing a Custom Reactive Library in Vanilla JS](https://dev.to/omriluz1/implementing-a-custom-reactive-library-in-vanilla-js-4i2o)
-- [Async Is the New Superpower: Why Smart Developers Work Differently](https://dev.to/sintu_mondal_465293284d5a/async-is-the-new-superpower-why-smart-developers-work-differently-36j0)
+- [Introducing Telepipe: Your New Favorite CLI for Telegram Notifications &amp; File Sharing](https://dev.to/linuxmaster/introducing-telepipe-your-new-favorite-cli-for-telegram-notifications-file-sharing-3mj3)
+- [How to Secure a Segment of TCP Tunnel with TLS Using Gost?](https://dev.to/davis8988/how-to-secure-a-segment-of-tcp-tunnel-with-tls-using-gost-240m)
+- [Python vs SQL: Which is Best for Querying and Cleaning Data?](https://dev.to/kenyansa/python-vs-sql-which-is-best-for-querying-and-cleaning-data-pcf)
+- [Coolify Enable Wild Card SSL](https://dev.to/themodernpk/coolify-enable-wild-card-ssl-2gep)
+- [Forging the Future: My Ten-Year Journey Growing with Rust](https://dev.to/zhanghandong/forging-the-future-my-ten-year-journey-growing-with-rust-50f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
