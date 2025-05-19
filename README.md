@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
-- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
-- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
-- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
-- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
+- [My $10,000 Mistake with EKS Auto Mode &lpar;And How You Can Avoid It&rpar;](https://dev.to/costqai/my-10000-mistake-with-eks-auto-mode-and-how-you-can-avoid-it-3go2)
+- [Some tips for beginners trying to take the AWS Cloud Practitioner certification :&rpar;](https://dev.to/jeromes_dev/some-tips-for-beginners-trying-to-take-the-aws-cloud-practitioner-certification--3i4g)
+- [A quick and beginner-friendly guide to deploying any HTML page to Azure App Service using only the CLI](https://dev.to/adesola_kehinde/a-quick-and-beginner-friendly-guide-to-deploying-any-html-page-to-azure-app-service-using-only-the-d5m)
+- [How the 2025 Japan Concert Series Streams Live to Millions](https://dev.to/yivifil1/how-the-2025-japan-concert-series-streams-live-to-millions-3jif)
+- [Passing the AWS CLF-C02 Certification [AWS Cloud Practitioner Blog]](https://dev.to/jeromes_dev/passing-the-aws-clf-c02-certification-aws-cloud-practitioner-blog-o63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
