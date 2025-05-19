@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-38l8)
-- [Salesforce Security Best Practices for Admins in 2025](https://dev.to/elearning_solutions_791be/salesforce-security-best-practices-for-admins-in-2025-2gho)
-- [🏫 School Management System Project in Java &lpar;With Source Code&rpar;](https://dev.to/khushi_967474543cb2a20908/school-management-system-project-in-java-with-source-code-576e)
-- [Can WhatsApp actually read your messages? Myth vs Reality](https://dev.to/nightmare-lynx/can-whatsapp-actually-read-your-messages-myth-vs-reality-1nbk)
-- [I&#39;ve created a framework for building social products and now I&#39;ve made it open-source](https://dev.to/tsabary/ive-created-a-framework-for-building-social-products-and-now-ive-made-it-open-source-467n)
+- [From JavaScript to Python: A Syntax Guide for Developers](https://dev.to/mohinsheikh/from-javascript-to-python-a-syntax-guide-for-developers-4ea0)
+- [Реализация Паттерна Compound Component в React: Практическое Руководство от Богдана Новотарского](https://dev.to/bogdannovotarskij/riealizatsiia-pattierna-compound-component-v-react-praktichieskoie-rukovodstvo-ot-boghdana-novotarskogho-5ff2)
+- [Why as a Back-end-engineer you should know an Operating System and it&#39;s Basics!](https://dev.to/vincenttommi/why-as-a-back-end-engineer-you-should-know-an-operating-system-and-its-basics-4594)
+- [Share the Blessings - Support Qurbani 2025 at Banbury Madni Masjid](https://dev.to/banbury_madni_masjid/share-the-blessings-support-qurbani-2025-at-banbury-madni-masjid-30gp)
+- [We just hit 354 stars on GitHub. If you&#39;re curious, Kodus is an open source AI-powered code review tool we&#39;re building. https://kodus.io](https://dev.to/ed_dfreitas/we-just-hit-354-stars-on-github-if-youre-curious-kodus-is-an-open-source-ai-powered-code-review-439e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
