@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Web Data Pipeline with n8n, Scrapeless, and Claude](https://dev.to/datacollectionscraper/building-an-ai-powered-web-data-pipeline-with-n8n-scrapeless-and-claude-4eg6)
-- [Dark Patterns in Enterprise Software &lpar;And How to Avoid Them&rpar;](https://dev.to/corporateone/dark-patterns-in-enterprise-software-and-how-to-avoid-them-bf)
-- [Comprehensive guide to understanding and building effective AI agents](https://dev.to/ai4b/comprehensive-guide-to-understanding-and-building-effective-ai-agents-4p95)
-- [Entry-Level Data Engineer: What Recruiters Are Really Looking For in 2025](https://dev.to/browsejobs/entry-level-data-engineer-what-recruiters-are-really-looking-for-in-2025-3fkf)
-- [I Took the Long Way Home to Code, and That’s Okay](https://dev.to/choiceg/i-took-the-long-way-home-to-code-and-thats-okay-194i)
+- [Meme Monday](https://dev.to/ben/meme-monday-38l8)
+- [Salesforce Security Best Practices for Admins in 2025](https://dev.to/elearning_solutions_791be/salesforce-security-best-practices-for-admins-in-2025-2gho)
+- [🏫 School Management System Project in Java &lpar;With Source Code&rpar;](https://dev.to/khushi_967474543cb2a20908/school-management-system-project-in-java-with-source-code-576e)
+- [Can WhatsApp actually read your messages? Myth vs Reality](https://dev.to/nightmare-lynx/can-whatsapp-actually-read-your-messages-myth-vs-reality-1nbk)
+- [I&#39;ve created a framework for building social products and now I&#39;ve made it open-source](https://dev.to/tsabary/ive-created-a-framework-for-building-social-products-and-now-ive-made-it-open-source-467n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
