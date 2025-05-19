@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #190 - May 19, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-190-may-19-2025-59lh)
-- [Building an AWS Support Voice Assistant with Amazon Nova](https://dev.to/aws-builders/building-an-aws-support-voice-assistant-with-amazon-nova-n5o)
-- [Detecting and Fixing Vulnerabilities in Code Suggested by Cursor and Windsurf](https://dev.to/clouddefenseai/detecting-and-fixing-vulnerabilities-in-code-suggested-by-cursor-and-windsurf-3ikg)
-- [Practice Management Software: A Game Changer for Modern Healthcare Providers](https://dev.to/adam_adam_8bd4aa56bd24f8d/practice-management-software-a-game-changer-for-modern-healthcare-providers-4o7l)
-- [Google Major Launch Imagen 4, Imagen 4 Ultra and Veo 3 models at Google I/O 2025](https://dev.to/_37bbf0c253c0b3edec531e/google-major-launch-imagen-4-imagen-4-ultra-and-veo-3-models-at-google-io-2025-236)
+- [Create fast, modern API docs using Docusaurus](https://dev.to/logrocket/create-fast-modern-api-docs-using-docusaurus-2ccm)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-21dg)
+- [📅 Day 1/75 of LeetCode Practice – [Today’s Focus: Arrays / Strings / Sliding Window]::PART 2](https://dev.to/nish2005karsh/day-175-of-leetcode-practice-todays-focus-arrays-strings-sliding-window-3763)
+- [Ebirah Releases and Docker Image Pinning](https://dev.to/jonasbn/ebirah-releases-and-docker-image-pinning-4pb)
+- [10 Rendering patterns for Web Apps](https://dev.to/riteshkokam/10-rendering-patterns-for-web-apps-gp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
