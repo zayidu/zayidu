@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Engineering with Amazon Nova Canvas [🎥 Video Demo Included]](https://dev.to/aws-builders/image-engineering-with-amazon-nova-canvas-video-demo-included-4kag)
-- [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3)
-- [Why SafeLine Might Be the Best Open Source WAF You Haven’t Tried Yet](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-might-be-the-best-open-source-waf-you-havent-tried-yet-o7l)
-- [Schemas in PostgreSQL: A Practical Guide for Developers](https://dev.to/dbvismarketing/schemas-in-postgresql-a-practical-guide-for-developers-36ep)
-- [[Boost]](https://dev.to/enasmetwaly/-1oab)
+- [Fast API Request Handling](https://dev.to/hiteshchawla/fast-api-request-handling-39be)
+- [Copyleft Licenses: A Comprehensive Guide for Open Source and Commercial Success](https://dev.to/rachellovestowrite/copyleft-licenses-a-comprehensive-guide-for-open-source-and-commercial-success-31np)
+- [Brighter and Redis/Valkey: How to setup and use Brighter with Redis/Valkey](https://dev.to/actor-dev/brighter-and-redisvalkey-how-to-setup-and-use-brighter-with-redisvalkey-2djm)
+- [Brighter + Redis/Valkey: Como configurar o Brighter com Redis/Valkey](https://dev.to/actor-dev/brighter-redisvalkey-como-configurar-o-brighter-com-redisvalkey-4plp)
+- [Guide to using Filament Components in public-facing pages](https://dev.to/filamentmastery/guide-to-using-filament-components-in-public-facing-pages-nei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
