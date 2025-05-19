@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memelang: Hybrid graph-relational query language for RAG](https://dev.to/briholt/memelang-hybrid-graph-query-language-for-rag-i81)
-- [My First Steps in JavaScript: Understanding Variables](https://dev.to/arun_km_29412b29674318e61/my-first-steps-in-javascript-understanding-variables-8k2)
-- [JavaScript - ES9 &lpar;ECMAScript 2018&rpar; - Parte I](https://dev.to/mauriciogc/javascript-es9-ecmascript-2018-parte-i-33ko)
-- [Why Smart Appliances Are Gaining Popularity in Modern Homes](https://dev.to/blknews/why-smart-appliances-are-gaining-popularity-in-modern-homes-53dh)
-- [7 Graphic Tees for Developers &lpar;2025 edition&rpar;](https://dev.to/nsjames/7-graphic-tees-for-developers-2025-edition-4fah)
+- [10 Livros de Programação Escritos por Brasileiros ou em Português](https://dev.to/marcosplusplus/10-livros-de-programacao-escritos-por-brasileiros-ou-em-portugues-4675)
+- [🧩 GitHub con múltiples perfiles SSH: trabaja con varias cuentas sin enloquecer](https://dev.to/jetaype21/github-con-multiples-perfiles-ssh-trabaja-con-varias-cuentas-sin-enloquecer-1035)
+- [OWASP® Cornucopia 2.2 &amp; Copi - A Game Engine for OWASP® Cornucopia Threat Modeling](https://dev.to/owasp/owaspr-cornucopia-22-copi-a-game-engine-for-owaspr-cornucopia-threat-modeling-4okj)
+- [🔐 Git + GitHub con SSH: Guía paso a paso &lpar;y sin morir en el intento&rpar;](https://dev.to/jetaype21/git-github-con-ssh-guia-paso-a-paso-y-sin-morir-en-el-intento-ig4)
+- [Why Repetitive Code is Problem in React? | Why is my React code running twice?](https://dev.to/code_area_9036c9663233d92/why-repetitive-code-is-problem-in-react-why-is-my-react-code-running-twice-f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
