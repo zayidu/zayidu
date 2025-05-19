@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create fast, modern API docs using Docusaurus](https://dev.to/logrocket/create-fast-modern-api-docs-using-docusaurus-2ccm)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-21dg)
-- [📅 Day 1/75 of LeetCode Practice – [Today’s Focus: Arrays / Strings / Sliding Window]::PART 2](https://dev.to/nish2005karsh/day-175-of-leetcode-practice-todays-focus-arrays-strings-sliding-window-3763)
-- [Ebirah Releases and Docker Image Pinning](https://dev.to/jonasbn/ebirah-releases-and-docker-image-pinning-4pb)
-- [10 Rendering patterns for Web Apps](https://dev.to/riteshkokam/10-rendering-patterns-for-web-apps-gp4)
+- [✅ Setting Up Cloud-based CI-CD Pipeline 🔄](https://dev.to/madhurima_rawat/setting-up-cloud-based-ci-cd-pipeline-3jjn)
+- [How License Tokens Could Unlock Social Media Data for AI Training](https://dev.to/kallileiser/how-license-tokens-could-unlock-social-media-data-for-ai-training-48dg)
+- [I found some python code to create a simple calculator.](https://dev.to/spider_lion/i-found-some-python-code-to-create-a-simple-calculator-415l)
+- [🌍 How STPX Global Is Fueling a World Revolution in AI and Growing Fast](https://dev.to/akp452/how-stpx-global-is-fueling-a-world-revolution-in-ai-and-growing-fast-1ii6)
+- [System Complexity Guide: Robust Automation Systems with Copilot Studio](https://dev.to/balagmadhu/system-complexity-guide-robust-automation-systems-with-copilot-studio-1nal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
