@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Notify: A notification service delivering university announcements to 1000+ users.](https://dev.to/chethaslp/designing-notify-a-notification-service-delivering-university-announcements-to-1000-users-3991)
-- [5 Things I Wish I Knew Before Learning to Code &lpar;With Simple Code Examples&rpar;](https://dev.to/mariecolvinn/5-things-i-wish-i-knew-before-learning-to-code-with-simple-code-examples-2j0p)
-- [Platform Engineering 101: Build Faster, Ship Safer](https://dev.to/gatling/platform-engineering-101-build-faster-ship-safer-4ogb)
-- [PawSQL Community Edition: A Free &amp; Self-Hosted Enterprise-Grade SQL Optimizer, Now Available to Individual Developers](https://dev.to/pawsql/pawsql-community-edition-a-free-self-hosted-enterprise-grade-sql-optimizer-now-available-to-k8n)
-- [Segitseg](https://dev.to/asuramtg/segitseg-3g8i)
+- [Building an AI-Powered Web Data Pipeline with n8n, Scrapeless, and Claude](https://dev.to/datacollectionscraper/building-an-ai-powered-web-data-pipeline-with-n8n-scrapeless-and-claude-4eg6)
+- [Dark Patterns in Enterprise Software &lpar;And How to Avoid Them&rpar;](https://dev.to/corporateone/dark-patterns-in-enterprise-software-and-how-to-avoid-them-bf)
+- [Comprehensive guide to understanding and building effective AI agents](https://dev.to/ai4b/comprehensive-guide-to-understanding-and-building-effective-ai-agents-4p95)
+- [Entry-Level Data Engineer: What Recruiters Are Really Looking For in 2025](https://dev.to/browsejobs/entry-level-data-engineer-what-recruiters-are-really-looking-for-in-2025-3fkf)
+- [I Took the Long Way Home to Code, and That’s Okay](https://dev.to/choiceg/i-took-the-long-way-home-to-code-and-thats-okay-194i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
