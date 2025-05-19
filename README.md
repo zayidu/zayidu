@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Can smart tools and a bit of code really eliminate 80% of manual data entry work?](https://dev.to/debian_nate_/can-smart-tools-and-a-bit-of-code-really-eliminate-80-of-manual-data-entry-work-28pm)
-- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
-- [🚀 Web Performance Metrics: How to Improve FCP, LCP, and CLS](https://dev.to/hasunnilupul/web-performance-metrics-how-to-improve-fcp-lcp-and-cls-395e)
-- [From Cloud Chaos to Developer Delight: Your Practical Guide to Building an Internal Developer Platform](https://dev.to/akshaymittal143/from-cloud-chaos-to-developer-delight-your-practical-guide-to-building-an-internal-developer-3o7n)
-- [AI HR Assistant with Amazon Bedrock Agent](https://dev.to/pnghaianh/ai-hr-assistant-with-amazon-bedrock-agent-4l3)
+- [Docker Like a Pro: Essential Commands and Tips](https://dev.to/ramkumar-m-n/docker-like-a-pro-essential-commands-and-tips-2gpb)
+- [Power Automate - Why and How to Avoid Nesting](https://dev.to/wyattdave/power-automate-why-and-how-to-avoid-nesting-841)
+- [Is Learning HTML &amp; CSS Still Worth It in the Age of AI?](https://dev.to/d-libro-digital-skills/is-learning-html-css-still-worth-it-in-the-age-of-ai-1jo3)
+- [React Animation Libraries in 2025: What Companies Are Actually Using](https://dev.to/raajaryan/react-animation-libraries-in-2025-what-companies-are-actually-using-3lik)
+- [Function in Python](https://dev.to/hyperkai/function-in-python-533e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
