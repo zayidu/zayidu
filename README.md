@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Setting Up Cloud-based CI-CD Pipeline 🔄](https://dev.to/madhurima_rawat/setting-up-cloud-based-ci-cd-pipeline-3jjn)
-- [How License Tokens Could Unlock Social Media Data for AI Training](https://dev.to/kallileiser/how-license-tokens-could-unlock-social-media-data-for-ai-training-48dg)
-- [I found some python code to create a simple calculator.](https://dev.to/spider_lion/i-found-some-python-code-to-create-a-simple-calculator-415l)
-- [🌍 How STPX Global Is Fueling a World Revolution in AI and Growing Fast](https://dev.to/akp452/how-stpx-global-is-fueling-a-world-revolution-in-ai-and-growing-fast-1ii6)
-- [System Complexity Guide: Robust Automation Systems with Copilot Studio](https://dev.to/balagmadhu/system-complexity-guide-robust-automation-systems-with-copilot-studio-1nal)
+- [Best Translation Software for Multinational Companies](https://dev.to/jennamitchell/best-translation-software-for-multinational-companies-2alg)
+- [Will AI Replace Coders? How Developers Can Stay Relevant in the Age of AI Tools](https://dev.to/mikevarenek/will-ai-replace-coders-how-developers-can-stay-relevant-in-the-age-of-ai-tools-4c9f)
+- [enumerate in Python](https://dev.to/hyperkai/enumerate-in-python-32d4)
+- [range in Python](https://dev.to/hyperkai/range-in-python-46k9)
+- [O que são Middlewares em APIs .NET?](https://dev.to/gustavo_cremonez/o-que-sao-middlewares-em-apis-net-1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
