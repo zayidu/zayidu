@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Like a Pro: Essential Commands and Tips](https://dev.to/ramkumar-m-n/docker-like-a-pro-essential-commands-and-tips-2gpb)
-- [Power Automate - Why and How to Avoid Nesting](https://dev.to/wyattdave/power-automate-why-and-how-to-avoid-nesting-841)
-- [Is Learning HTML &amp; CSS Still Worth It in the Age of AI?](https://dev.to/d-libro-digital-skills/is-learning-html-css-still-worth-it-in-the-age-of-ai-1jo3)
-- [React Animation Libraries in 2025: What Companies Are Actually Using](https://dev.to/raajaryan/react-animation-libraries-in-2025-what-companies-are-actually-using-3lik)
-- [Function in Python](https://dev.to/hyperkai/function-in-python-533e)
+- [Image Engineering with Amazon Nova Canvas [🎥 Video Demo Included]](https://dev.to/aws-builders/image-engineering-with-amazon-nova-canvas-video-demo-included-4kag)
+- [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3)
+- [Why SafeLine Might Be the Best Open Source WAF You Haven’t Tried Yet](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-might-be-the-best-open-source-waf-you-havent-tried-yet-o7l)
+- [Schemas in PostgreSQL: A Practical Guide for Developers](https://dev.to/dbvismarketing/schemas-in-postgresql-a-practical-guide-for-developers-36ep)
+- [[Boost]](https://dev.to/enasmetwaly/-1oab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
