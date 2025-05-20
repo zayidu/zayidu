@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Evolution of ECMAScript Standards](https://dev.to/omriluz1/exploring-the-evolution-of-ecmascript-standards-1pln)
-- [Quantum AI : The Next Frontier in Computing](https://dev.to/aniruddhaadak/quantum-ai-the-next-frontier-in-computing-2c49)
-- [Python Environment Understand](https://dev.to/darlangui/python-environment-understand-5cl6)
-- [Hidden Strings: A Speculative Look at GPT-4’s Control Filters and Emergent Bypasses](https://dev.to/powpow_m_047adeb16598f8f/hidden-strings-a-speculative-look-at-gpt-4s-control-filters-and-emergent-bypasses-j5d)
-- [AWS startups](https://dev.to/simonnungwa/-2dch)
+- [Nintendo apologizes and admits Switch 2 won’t support VRR in docked mode despite earlier claims](https://dev.to/gg_news/nintendo-apologizes-and-admits-switch-2-wont-support-vrr-in-docked-mode-despite-earlier-claims-2e8o)
+- [SAG-AFTRA has filed an unfair labor practice charge against Epic Games for its use of A.I. for Darth Vader’s voice in Fortnite](https://dev.to/gg_news/sag-aftra-has-filed-an-unfair-labor-practice-charge-against-epic-games-for-its-use-of-ai-for-7gn)
+- [XREAL Unveils &#39;Project Aura&#39; at Google I/O -- An Optical See-Through XR Device for Android XR](https://dev.to/future_arvr/xreal-unveils-project-aura-at-google-io-an-optical-see-through-xr-device-for-android-xr-40kg)
+- [&quot;The design of Valve next HMD is quite amazing!&quot; Stan Larroque on X](https://dev.to/future_arvr/the-design-of-valve-next-hmd-is-quite-amazing-stan-larroque-on-x-2cj8)
+- [Unknown Species of Bacteria Discovered in Swabs From China&#39;s Space Station](https://dev.to/future_science/unknown-species-of-bacteria-discovered-in-swabs-from-chinas-space-station-5338)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
