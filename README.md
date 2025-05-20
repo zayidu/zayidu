@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 If You Can’t Answer These 40 Next.js Questions, You’re Not Ready for 2025 Interviews ⚠️](https://dev.to/finalroundai/if-you-cant-answer-these-40-nextjs-questions-youre-not-ready-for-2025-interviews-1lfd)
-- [TypeScript Type Vs Interface? The Answer Is Type!](https://dev.to/mayallo/typescript-type-vs-interface-the-answer-is-type-38g5)
-- [The Accidental Architect: How Developers Are Becoming AI Workflow Designers](https://dev.to/santoshi_kumari_c34ae877b/the-accidental-architect-how-developers-are-becoming-ai-workflow-designers-n4m)
-- [TDD is a scam. Grow up and do this instead](https://dev.to/dariomannu/tdd-is-a-scam-grow-up-and-use-this-instead-5hk1)
-- [Networking Made Simple](https://dev.to/aniruddhaadak_/networking-made-simple-37ei)
+- [Cara Mengunduh dan Menginstal Postman di Mac, Windows, Linux](https://dev.to/miki-dev/cara-mengunduh-dan-menginstal-postman-di-mac-windows-linux-1cmp)
+- [400 Lines of code in 20s, all test passed &lpar; llm code generator &rpar;](https://dev.to/java_factory_dev/400-lines-of-code-in-20s-all-test-passed-llm-code-generator--49le)
+- [Establish And Set Up Network Security Groups &lpar;NSGs&rpar;.](https://dev.to/lotanna_obianefo/establish-and-set-up-network-security-groups-nsgs-39p4)
+- [💼 40 Java Interview Questions Every Developer Should Master](https://dev.to/coursedia/40-java-interview-questions-every-developer-should-master-20d9)
+- [How to Choose the Right Low Profile Mechanical Keyboard: Complete Buying Guide](https://dev.to/mysticcoder/how-to-choose-the-right-low-profile-mechanical-keyboard-complete-buying-guide-3o2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
