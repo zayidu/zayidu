@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Ever Feel Stupid While Learning To Code?](https://dev.to/anitaolsen/you-ever-feel-stupid-while-learning-to-code-4jao)
-- [Essential Linux Commands for Beginners](https://dev.to/ranjithsrt1/essential-linux-commands-for-beginners-ped)
-- [🌀 From Fibonacci to Focus: How One Sequence Sparked My Coding Journey](https://dev.to/bhuvaneshm_dev/from-fibonacci-to-focus-how-one-sequence-sparked-my-coding-journey-4l96)
-- [Conquering the AWS Certified Machine Learning Engineer — Associate: My Roadmap to Success](https://dev.to/skillboosttrainer/conquering-the-aws-certified-machine-learning-engineer-associate-my-roadmap-to-success-5ad4)
-- [Dockerfile Cheat Sheet – বাংলা গাইড](https://dev.to/rafi021/dockerfile-cheat-sheet-baanlaa-gaaidd-jk7)
+- [SSDLC – Implementação](https://dev.to/raysh_/ssdlc-implementacao-2mae)
+- [Dica de TI: Operadores de incremento e decremento](https://dev.to/vivianbr/dica-de-ti-operadores-de-incremento-e-decremento-2poa)
+- [CodeRabbit: AI Code Reviews That Ship Code Faster](https://dev.to/pullflow/coderabbit-ai-code-reviews-that-ship-code-faster-3nln)
+- [The Art of Props Management in Vue 3: Lessons from E-commerce Architecture](https://dev.to/marco_quintella_c76815385/the-art-of-props-management-in-vue-3-lessons-from-e-commerce-architecture-3gp0)
+- [SSDLC – Requisitos de segurança &lpar;planejamento&rpar;](https://dev.to/raysh_/ssdlc-requisitos-de-seguranca-planejamento-4gom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
