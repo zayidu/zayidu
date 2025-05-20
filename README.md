@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Coding Game with These Free Vibe Coding Tools!](https://dev.to/pavanbelagatti/level-up-your-coding-game-with-these-free-vibe-coding-tools-2fii)
-- [Unlocking the Power of AI: Your Guide to Free OpenAI API Keys in 2025](https://dev.to/fallon_jimmy/unlocking-the-power-of-ai-your-guide-to-free-openai-api-keys-in-2025-22pj)
-- [Understanding the Distinctions Between Continuous Integration and Continuous Delivery, Agile Methodology, and DevOps](https://dev.to/misterankit/understanding-the-distinctions-between-continuous-integration-and-continuous-delivery-agile-2pj3)
-- [I am trying create application for the android tv boot on lunch](https://dev.to/santosh_pradhan_b6f2f48f1/i-am-trying-create-application-for-the-android-tv-boot-on-lunch-5d77)
-- [From Zero to Cloud: Building Your First Java Web App on AWS with VS Code](https://dev.to/adesola_kehinde/from-zero-to-cloud-building-your-first-java-web-app-on-aws-with-vs-code-1j3m)
+- [Uniface for Beginners: How to Properly Define Numeric Parameters](https://dev.to/mi2824/uniface-for-beginners-how-to-properly-define-numeric-parameters-509h)
+- [[Boost]](https://dev.to/olivia_thompson_fc0fce44c/-49ah)
+- [EXPRESS.JS #2 &lpar;WHAT I HAVE LEARNED&rpar;](https://dev.to/rama_83f129f1bde0bcdee2f6/expressjs-2-what-i-have-learned-58b5)
+- [🚀 Automating Your Sales Funnel in 2025: A Game-Changer for SaaS &amp; Tech Teams](https://dev.to/queen911/automating-your-sales-funnel-in-2025-a-game-changer-for-saas-tech-teams-2die)
+- [How to Install SmolDocling-256M-Preview Locally?](https://dev.to/nodeshiftcloud/how-to-install-smoldocling-256m-preview-locally-11a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
