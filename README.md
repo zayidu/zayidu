@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSDLC – Implementação](https://dev.to/raysh_/ssdlc-implementacao-2mae)
-- [Dica de TI: Operadores de incremento e decremento](https://dev.to/vivianbr/dica-de-ti-operadores-de-incremento-e-decremento-2poa)
-- [CodeRabbit: AI Code Reviews That Ship Code Faster](https://dev.to/pullflow/coderabbit-ai-code-reviews-that-ship-code-faster-3nln)
-- [The Art of Props Management in Vue 3: Lessons from E-commerce Architecture](https://dev.to/marco_quintella_c76815385/the-art-of-props-management-in-vue-3-lessons-from-e-commerce-architecture-3gp0)
-- [SSDLC – Requisitos de segurança &lpar;planejamento&rpar;](https://dev.to/raysh_/ssdlc-requisitos-de-seguranca-planejamento-4gom)
+- [Add subscriptions to your SaaS with Clerk Billing](https://dev.to/clerk/add-subscriptions-to-your-saas-with-clerk-billing-2l6a)
+- [🔍 Core Web Vitals Optimization: A Complete Guide &lpar;2025 Edition&rpar;](https://dev.to/arsalanmee/core-web-vitals-optimization-a-complete-guide-2025-edition-47fd)
+- [Building Microservices with Go: A Step-by-Step Guide](https://dev.to/adi73/building-microservices-with-go-a-step-by-step-guide-5dla)
+- [The Tiny Cat Guide to AI #1: Prompt Engineering – Directing the AI Ballet](https://dev.to/wsoltani/the-tiny-cat-guide-to-ai-1-prompt-engineering-directing-the-ai-ballet-238c)
+- [Choosing the Right Mobile SDK: Native, Flutter, React Native, or Hybrid?](https://dev.to/binoy123/choosing-the-right-mobile-sdk-native-flutter-react-native-or-hybrid-273o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
