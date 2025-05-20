@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JSX Fundamentals in React: From Destructuring to Promises](https://dev.to/cristiansifuentes/mastering-jsx-fundamentals-in-react-from-destructuring-to-promises-d0p)
-- [The Rise of DNA Computing — Biology’s Answer to Silicon](https://dev.to/alireza_minagar_99f01ecb6/the-rise-of-dna-computing-biologys-answer-to-silicon-77d)
-- [New Backend Integrations for the Firebase Studio App Prototyping Agent](https://dev.to/chibichibibr/new-backend-integrations-for-the-firebase-studio-app-prototyping-agent-2kc0)
-- [Emergent Behavior in an AI Instance](https://dev.to/powpow_m_047adeb16598f8f/emergent-behavior-in-an-ai-instance-5ah6)
-- [💸 Step-by-Step Guide: Building a Split Payment DApp &lpar;for Beginners&rpar;](https://dev.to/favebs/step-by-step-guide-building-a-split-payment-dapp-for-beginners-2hdo)
+- [Specter-AAL](https://dev.to/g0d/specter-aal-mmg)
+- [From EC2 to GitHub: Connecting Your Cloud Code Like a Pro](https://dev.to/adesola_kehinde/from-ec2-to-github-connecting-your-cloud-code-like-a-pro-54e7)
+- [Vulcan - JS library for the pros and smart devs](https://dev.to/g0d/vulcan-js-library-for-the-pros-and-smart-devs-54h)
+- [PHAISTOS - Data Exchange Redefined!](https://dev.to/g0d/phaistos-data-exchange-redefined-5cjc)
+- [The Serverless Dream Is Dead](https://dev.to/shayy/the-serverless-dream-is-dead-2945)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
