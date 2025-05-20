@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How &lpar;not&rpar; to Burn Money on VPC Endpoints &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/aws-builders/how-not-to-burn-money-on-vpc-endpoints-so-you-dont-have-to-2f4p)
-- [Tradeoffs Between In-Memory Checks and Database Queries](https://dev.to/josephndungi/tradeoffs-between-in-memory-checks-and-database-queries-4egc)
-- [A good post on evil twin attacks](https://dev.to/ogundiyantobiloba/a-good-post-on-evil-twin-attacks-70c)
-- [Git komandalari.](https://dev.to/jaloliddinmurodullaev/git-komandalari-58pk)
-- [Entrance Exams, Top Colleges and Career Options](https://dev.to/allsuccesspath/entrance-exams-top-colleges-and-career-options-4a80)
+- [Best DAM Systems for Managing 3D Files in 2025](https://dev.to/valerie_daminion/best-dam-systems-for-managing-3d-files-in-2025-210n)
+- [OnlyOffice in 2025: A Game-Changer for Linux Users or Just Another Suite?](https://dev.to/bhuvaneshm_dev/-1ilb)
+- [Rabarber v5: Cleaner, Leaner, and More Stable](https://dev.to/enjaku4/rabarber-v5-cleaner-leaner-and-more-stable-1fhc)
+- [Show VM IP in Proxmox](https://dev.to/cheulong/show-vm-ip-in-proxmox-1c4a)
+- [Big numbers readability in PHP](https://dev.to/sirzarganwar/unreadable-large-numbers-in-php-2b61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
