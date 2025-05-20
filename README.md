@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Optimization in Java – Or, How to Stop Leaking Your Sanity](https://dev.to/goldennoodles/memory-optimization-in-java-or-how-to-stop-leaking-your-sanity-424k)
-- [Why a developer portfolio is your best time investment?](https://dev.to/adamsnows/why-a-developer-portfolio-is-your-best-time-investment-4jde)
-- [Career Update - Internships](https://dev.to/pauletart/career-update-inernships-5bca)
-- [Rendering on the Web: What, Where, and Why?](https://dev.to/lovestaco/rendering-on-the-web-what-where-and-why-321j)
-- [spaCy - NLP in Python](https://dev.to/gnrlbzik/spacy-nlp-in-python-3hed)
+- [Exploring the Evolution of ECMAScript Standards](https://dev.to/omriluz1/exploring-the-evolution-of-ecmascript-standards-1pln)
+- [Quantum AI : The Next Frontier in Computing](https://dev.to/aniruddhaadak/quantum-ai-the-next-frontier-in-computing-2c49)
+- [Python Environment Understand](https://dev.to/darlangui/python-environment-understand-5cl6)
+- [Hidden Strings: A Speculative Look at GPT-4’s Control Filters and Emergent Bypasses](https://dev.to/powpow_m_047adeb16598f8f/hidden-strings-a-speculative-look-at-gpt-4s-control-filters-and-emergent-bypasses-j5d)
+- [AWS startups](https://dev.to/simonnungwa/-2dch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
