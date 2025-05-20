@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pseudo-element yang Wajib Diketahui](https://dev.to/sejutaimpian/pseudo-element-yang-wajib-diketahui-251i)
-- [Closures in JavaScript](https://dev.to/hemantgovekar/closures-in-javascript-37al)
-- [Hands-On: Building a High-Performance Message Queue in Go &lpar;Inspired by NSQ&rpar;](https://dev.to/jones_charles_ad50858dbc0/hands-on-building-a-high-performance-message-queue-in-go-inspired-by-nsq-4fi1)
-- [🚀 Revolutionizing Motion Control The Power of Hysteresis Brakes Dynamometers and Advanced Motor Test Systems](https://dev.to/soygrill98/revolutionizing-motion-control-the-power-of-hysteresis-brakes-dynamometers-and-advanced-motor-33d2)
-- [Stablecoin di Indonesia: Mengapa USDT dan USDC Populer di Kalangan Trader](https://dev.to/ahmmrizv9/stablecoin-di-indonesia-mengapa-usdt-dan-usdc-populer-di-kalangan-trader-2m6b)
+- [The Basics of TypeScript](https://dev.to/gagecantrelle/the-basics-of-typescript-j52)
+- [creem支付审核通过！搭配支付宝搞定个人海外收款](https://dev.to/yang_ella_f2a3e16ccb54550/creemzhi-fu-shen-he-tong-guo-da-pei-zhi-fu-bao-gao-ding-ge-ren-hai-wai-shou-kuan-4pb6)
+- [First Decision a la Wireframing](https://dev.to/inhabit_app/first-decision-a-la-wireframing-ojd)
+- [Inngest Overview &amp; Development Guide](https://dev.to/apgarrett/inngest-overview-development-guide-5adn)
+- [Java Program](https://dev.to/ramya_kamalasekaran/java-program-3p9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
