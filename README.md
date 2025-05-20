@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Basics of TypeScript](https://dev.to/gagecantrelle/the-basics-of-typescript-j52)
-- [creem支付审核通过！搭配支付宝搞定个人海外收款](https://dev.to/yang_ella_f2a3e16ccb54550/creemzhi-fu-shen-he-tong-guo-da-pei-zhi-fu-bao-gao-ding-ge-ren-hai-wai-shou-kuan-4pb6)
-- [First Decision a la Wireframing](https://dev.to/inhabit_app/first-decision-a-la-wireframing-ojd)
-- [Inngest Overview &amp; Development Guide](https://dev.to/apgarrett/inngest-overview-development-guide-5adn)
-- [Java Program](https://dev.to/ramya_kamalasekaran/java-program-3p9j)
+- [From Zero to Cloud: Building Your First Java Web App on AWS with VS Code](https://dev.to/adesola_kehinde/from-zero-to-cloud-building-your-first-java-web-app-on-aws-with-vs-code-1j3m)
+- [lefthook.yml in n8n codebase.](https://dev.to/ramunarasinga-11/lefthookyml-in-n8n-codebase-5f4c)
+- [Creating a MIDI Sound Module with Raspberry Pi and FluidSynth](https://dev.to/jereme/creating-a-midi-sound-module-with-raspberry-pi-and-fluidsynth-1gkk)
+- [AI Makin Pinter, Makin Meresap!](https://dev.to/koala_educationandtechnology/ai-makin-pinter-makin-meresap-57ca)
+- [Solid write-up on calling gRPC methods dynamically](https://dev.to/ogundiyantobiloba/solid-write-up-on-calling-grpc-methods-dynamically-4cfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
