@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Customize ASP.NET Core Identity With EF Core for Your Project Needs](https://dev.to/antonmartyniuk/how-to-customize-aspnet-core-identity-with-ef-core-for-your-project-needs-3nlf)
-- [Why your terminal is boring and what to use instead](https://dev.to/devlinktips/why-your-terminal-is-boring-and-what-to-use-instead-26f)
-- [Simple Gas Optimization Techniques Every Ethereum Developer Should Know](https://dev.to/dhis_is_jj/simple-gas-optimization-techniques-every-ethereum-developer-should-know-2ei4)
-- [🚀 Meet ApolloAgent: The Code Assistant I Built So I’d Stop Talking to Myself](https://dev.to/albz/meet-apolloagent-the-code-assistant-i-built-so-id-stop-talking-to-myself-4fp4)
-- [Why Everyone’s Building AI Apps, and No One’s Fixing the Old Ones](https://dev.to/santoshi_kumari_c34ae877b/why-everyones-building-ai-apps-and-no-ones-fixing-the-old-ones-5500)
+- [How &lpar;not&rpar; to Burn Money on VPC Endpoints &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/aws-builders/how-not-to-burn-money-on-vpc-endpoints-so-you-dont-have-to-2f4p)
+- [Tradeoffs Between In-Memory Checks and Database Queries](https://dev.to/josephndungi/tradeoffs-between-in-memory-checks-and-database-queries-4egc)
+- [A good post on evil twin attacks](https://dev.to/ogundiyantobiloba/a-good-post-on-evil-twin-attacks-70c)
+- [Git komandalari.](https://dev.to/jaloliddinmurodullaev/git-komandalari-58pk)
+- [Entrance Exams, Top Colleges and Career Options](https://dev.to/allsuccesspath/entrance-exams-top-colleges-and-career-options-4a80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
