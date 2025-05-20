@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uniface for Beginners: How to Properly Define Numeric Parameters](https://dev.to/mi2824/uniface-for-beginners-how-to-properly-define-numeric-parameters-509h)
-- [[Boost]](https://dev.to/olivia_thompson_fc0fce44c/-49ah)
-- [EXPRESS.JS #2 &lpar;WHAT I HAVE LEARNED&rpar;](https://dev.to/rama_83f129f1bde0bcdee2f6/expressjs-2-what-i-have-learned-58b5)
-- [🚀 Automating Your Sales Funnel in 2025: A Game-Changer for SaaS &amp; Tech Teams](https://dev.to/queen911/automating-your-sales-funnel-in-2025-a-game-changer-for-saas-tech-teams-2die)
-- [How to Install SmolDocling-256M-Preview Locally?](https://dev.to/nodeshiftcloud/how-to-install-smoldocling-256m-preview-locally-11a1)
+- [💻 If You Can’t Answer These 40 Next.js Questions, You’re Not Ready for 2025 Interviews ⚠️](https://dev.to/finalroundai/if-you-cant-answer-these-40-nextjs-questions-youre-not-ready-for-2025-interviews-1lfd)
+- [TypeScript Type Vs Interface? The Answer Is Type!](https://dev.to/mayallo/typescript-type-vs-interface-the-answer-is-type-38g5)
+- [The Accidental Architect: How Developers Are Becoming AI Workflow Designers](https://dev.to/santoshi_kumari_c34ae877b/the-accidental-architect-how-developers-are-becoming-ai-workflow-designers-n4m)
+- [TDD is a scam. Grow up and do this instead](https://dev.to/dariomannu/tdd-is-a-scam-grow-up-and-use-this-instead-5hk1)
+- [Networking Made Simple](https://dev.to/aniruddhaadak_/networking-made-simple-37ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
