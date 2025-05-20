@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Mengunduh dan Menginstal Postman di Mac, Windows, Linux](https://dev.to/miki-dev/cara-mengunduh-dan-menginstal-postman-di-mac-windows-linux-1cmp)
-- [400 Lines of code in 20s, all test passed &lpar; llm code generator &rpar;](https://dev.to/java_factory_dev/400-lines-of-code-in-20s-all-test-passed-llm-code-generator--49le)
-- [Establish And Set Up Network Security Groups &lpar;NSGs&rpar;.](https://dev.to/lotanna_obianefo/establish-and-set-up-network-security-groups-nsgs-39p4)
-- [💼 40 Java Interview Questions Every Developer Should Master](https://dev.to/coursedia/40-java-interview-questions-every-developer-should-master-20d9)
-- [How to Choose the Right Low Profile Mechanical Keyboard: Complete Buying Guide](https://dev.to/mysticcoder/how-to-choose-the-right-low-profile-mechanical-keyboard-complete-buying-guide-3o2d)
+- [How the Richest in Crypto Think](https://dev.to/martin_call/how-the-richest-in-crypto-think-o1d)
+- [From Idea to MVP: Our Food Waste Reduction Platform](https://dev.to/sejdi_gashi/from-idea-to-mvp-our-food-waste-reduction-platform-3kn5)
+- [Prompt Debugging Is the New Stack Trace](https://dev.to/julien_doussot/prompt-debugging-is-the-new-stack-trace-2hie)
+- [What is a Software Firewall?](https://dev.to/clouddefenseai/what-is-a-software-firewall-15c3)
+- [How to Set Up GitLab CI/CD for Deploying Frontend Apps to Vercel](https://dev.to/ephraimx/how-to-set-up-gitlab-cicd-for-deploying-frontend-apps-to-vercel-nd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
