@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing the Craigslist - HLD](https://dev.to/zeeshanali0704/designing-the-craigslist-3e3i)
-- [How to configure Managed System?](https://dev.to/hediyeh_kianmehr_45f78137/how-to-configure-managed-system-32e9)
-- [Build a Streamlit App to Find the Closest CSS Color Name Using Python 🎨✨](https://dev.to/nish2005karsh/build-a-streamlit-app-to-find-the-closest-css-color-name-using-python-5fac)
-- [Why Patient Developers Make the Best Decisions](https://dev.to/tonystpierre/why-patient-developers-make-the-best-decisions-36p4)
-- [🚀 Leveraging the Power of AWS ECS to Deploy Flask Tic-Tac-Toe Game](https://dev.to/aws-builders/leveraging-the-power-of-aws-ecs-to-deploy-flask-tic-tac-toe-game-1ip9)
+- [Memory Optimization in Java – Or, How to Stop Leaking Your Sanity](https://dev.to/goldennoodles/memory-optimization-in-java-or-how-to-stop-leaking-your-sanity-424k)
+- [Why a developer portfolio is your best time investment?](https://dev.to/adamsnows/why-a-developer-portfolio-is-your-best-time-investment-4jde)
+- [Career Update - Internships](https://dev.to/pauletart/career-update-inernships-5bca)
+- [Rendering on the Web: What, Where, and Why?](https://dev.to/lovestaco/rendering-on-the-web-what-where-and-why-321j)
+- [spaCy - NLP in Python](https://dev.to/gnrlbzik/spacy-nlp-in-python-3hed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
