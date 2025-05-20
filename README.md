@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your Coding Game with These Free Vibe Coding Tools!](https://dev.to/pavanbelagatti/level-up-your-coding-game-with-these-free-vibe-coding-tools-2fii)
+- [Unlocking the Power of AI: Your Guide to Free OpenAI API Keys in 2025](https://dev.to/fallon_jimmy/unlocking-the-power-of-ai-your-guide-to-free-openai-api-keys-in-2025-22pj)
+- [Understanding the Distinctions Between Continuous Integration and Continuous Delivery, Agile Methodology, and DevOps](https://dev.to/misterankit/understanding-the-distinctions-between-continuous-integration-and-continuous-delivery-agile-2pj3)
+- [I am trying create application for the android tv boot on lunch](https://dev.to/santosh_pradhan_b6f2f48f1/i-am-trying-create-application-for-the-android-tv-boot-on-lunch-5d77)
 - [From Zero to Cloud: Building Your First Java Web App on AWS with VS Code](https://dev.to/adesola_kehinde/from-zero-to-cloud-building-your-first-java-web-app-on-aws-with-vs-code-1j3m)
-- [lefthook.yml in n8n codebase.](https://dev.to/ramunarasinga-11/lefthookyml-in-n8n-codebase-5f4c)
-- [Creating a MIDI Sound Module with Raspberry Pi and FluidSynth](https://dev.to/jereme/creating-a-midi-sound-module-with-raspberry-pi-and-fluidsynth-1gkk)
-- [AI Makin Pinter, Makin Meresap!](https://dev.to/koala_educationandtechnology/ai-makin-pinter-makin-meresap-57ca)
-- [Solid write-up on calling gRPC methods dynamically](https://dev.to/ogundiyantobiloba/solid-write-up-on-calling-grpc-methods-dynamically-4cfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
