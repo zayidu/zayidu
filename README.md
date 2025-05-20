@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Livros de Programação Escritos por Brasileiros ou em Português](https://dev.to/marcosplusplus/10-livros-de-programacao-escritos-por-brasileiros-ou-em-portugues-4675)
-- [🧩 GitHub con múltiples perfiles SSH: trabaja con varias cuentas sin enloquecer](https://dev.to/jetaype21/github-con-multiples-perfiles-ssh-trabaja-con-varias-cuentas-sin-enloquecer-1035)
-- [OWASP® Cornucopia 2.2 &amp; Copi - A Game Engine for OWASP® Cornucopia Threat Modeling](https://dev.to/owasp/owaspr-cornucopia-22-copi-a-game-engine-for-owaspr-cornucopia-threat-modeling-4okj)
-- [🔐 Git + GitHub con SSH: Guía paso a paso &lpar;y sin morir en el intento&rpar;](https://dev.to/jetaype21/git-github-con-ssh-guia-paso-a-paso-y-sin-morir-en-el-intento-ig4)
-- [Why Repetitive Code is Problem in React? | Why is my React code running twice?](https://dev.to/code_area_9036c9663233d92/why-repetitive-code-is-problem-in-react-why-is-my-react-code-running-twice-f4)
+- [Pseudo-element yang Wajib Diketahui](https://dev.to/sejutaimpian/pseudo-element-yang-wajib-diketahui-251i)
+- [Closures in JavaScript](https://dev.to/hemantgovekar/closures-in-javascript-37al)
+- [Hands-On: Building a High-Performance Message Queue in Go &lpar;Inspired by NSQ&rpar;](https://dev.to/jones_charles_ad50858dbc0/hands-on-building-a-high-performance-message-queue-in-go-inspired-by-nsq-4fi1)
+- [🚀 Revolutionizing Motion Control The Power of Hysteresis Brakes Dynamometers and Advanced Motor Test Systems](https://dev.to/soygrill98/revolutionizing-motion-control-the-power-of-hysteresis-brakes-dynamometers-and-advanced-motor-33d2)
+- [Stablecoin di Indonesia: Mengapa USDT dan USDC Populer di Kalangan Trader](https://dev.to/ahmmrizv9/stablecoin-di-indonesia-mengapa-usdt-dan-usdc-populer-di-kalangan-trader-2m6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
