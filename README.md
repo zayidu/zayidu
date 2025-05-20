@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Richest in Crypto Think](https://dev.to/martin_call/how-the-richest-in-crypto-think-o1d)
-- [From Idea to MVP: Our Food Waste Reduction Platform](https://dev.to/sejdi_gashi/from-idea-to-mvp-our-food-waste-reduction-platform-3kn5)
-- [Prompt Debugging Is the New Stack Trace](https://dev.to/julien_doussot/prompt-debugging-is-the-new-stack-trace-2hie)
-- [What is a Software Firewall?](https://dev.to/clouddefenseai/what-is-a-software-firewall-15c3)
-- [How to Set Up GitLab CI/CD for Deploying Frontend Apps to Vercel](https://dev.to/ephraimx/how-to-set-up-gitlab-cicd-for-deploying-frontend-apps-to-vercel-nd2)
+- [Top 5 Open Source WAFs for Developers in 2025](https://dev.to/sharon_42e16b8da44dabde6d/top-5-open-source-wafs-for-developers-in-2025-547l)
+- [The Foundation of Signal - Why End-to-End Encryption Matters](https://dev.to/apex-hkr/the-foundation-of-signal-why-end-to-end-encryption-matters-3icn)
+- [How PropTech Startups Can Leverage AI Without Breaking the Bank](https://dev.to/vipulgupta/how-proptech-startups-can-leverage-ai-without-breaking-the-bank-109k)
+- [Why Your AI Model Thinks You&#39;re Weird &lpar;But It’ll Still Obey&rpar;](https://dev.to/santoshi_kumari_c34ae877b/why-your-ai-model-thinks-youre-weird-but-itll-still-obey-16ba)
+- [Top 5 Web Development Companies in Sweden in 2025](https://dev.to/farheen_56ec2dd2897def354/top-5-web-development-companies-in-sweden-in-2025-1343)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
