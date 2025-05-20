@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add subscriptions to your SaaS with Clerk Billing](https://dev.to/clerk/add-subscriptions-to-your-saas-with-clerk-billing-2l6a)
-- [🔍 Core Web Vitals Optimization: A Complete Guide &lpar;2025 Edition&rpar;](https://dev.to/arsalanmee/core-web-vitals-optimization-a-complete-guide-2025-edition-47fd)
-- [Building Microservices with Go: A Step-by-Step Guide](https://dev.to/adi73/building-microservices-with-go-a-step-by-step-guide-5dla)
-- [The Tiny Cat Guide to AI #1: Prompt Engineering – Directing the AI Ballet](https://dev.to/wsoltani/the-tiny-cat-guide-to-ai-1-prompt-engineering-directing-the-ai-ballet-238c)
-- [Choosing the Right Mobile SDK: Native, Flutter, React Native, or Hybrid?](https://dev.to/binoy123/choosing-the-right-mobile-sdk-native-flutter-react-native-or-hybrid-273o)
+- [Navigating Virtual Frontiers](https://dev.to/rawveg/navigating-virtual-frontiers-5027)
+- [What I&#39;ve learned about distributed services](https://dev.to/bzqkkrng4g/what-ive-learned-about-distributed-services-10pd)
+- [Dark and Light Mode for the non-standard tools](https://dev.to/jonasbn/dark-and-light-mode-for-the-non-standard-tools-3b49)
+- [From Junior to Senior Dev: The Non-Technical Skills That Matter](https://dev.to/tasmark/from-junior-to-senior-dev-the-non-technical-skills-that-matter-57h7)
+- [To script, or not to script...](https://dev.to/jkeown/to-script-or-not-to-script-3cko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
