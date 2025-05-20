@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best DAM Systems for Managing 3D Files in 2025](https://dev.to/valerie_daminion/best-dam-systems-for-managing-3d-files-in-2025-210n)
-- [OnlyOffice in 2025: A Game-Changer for Linux Users or Just Another Suite?](https://dev.to/bhuvaneshm_dev/-1ilb)
-- [Rabarber v5: Cleaner, Leaner, and More Stable](https://dev.to/enjaku4/rabarber-v5-cleaner-leaner-and-more-stable-1fhc)
-- [Show VM IP in Proxmox](https://dev.to/cheulong/show-vm-ip-in-proxmox-1c4a)
-- [Big numbers readability in PHP](https://dev.to/sirzarganwar/unreadable-large-numbers-in-php-2b61)
+- [Do You Ever Feel Stupid While Learning To Code?](https://dev.to/anitaolsen/you-ever-feel-stupid-while-learning-to-code-4jao)
+- [Essential Linux Commands for Beginners](https://dev.to/ranjithsrt1/essential-linux-commands-for-beginners-ped)
+- [🌀 From Fibonacci to Focus: How One Sequence Sparked My Coding Journey](https://dev.to/bhuvaneshm_dev/from-fibonacci-to-focus-how-one-sequence-sparked-my-coding-journey-4l96)
+- [Conquering the AWS Certified Machine Learning Engineer — Associate: My Roadmap to Success](https://dev.to/skillboosttrainer/conquering-the-aws-certified-machine-learning-engineer-associate-my-roadmap-to-success-5ad4)
+- [Dockerfile Cheat Sheet – বাংলা গাইড](https://dev.to/rafi021/dockerfile-cheat-sheet-baanlaa-gaaidd-jk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
