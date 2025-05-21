@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [*5 misconceptions about programming &lpar;and what&#39;s actually true&rpar;:*](https://dev.to/ssekabirarobertsims/5-misconceptions-about-programming-and-whats-actually-true-5b1)
-- [🔧 Mastering OpenShift Automation &amp; Cluster Management: A Deep Dive into Red Hat OpenShift Administration III &lpar;DO380&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/mastering-openshift-automation-cluster-management-a-deep-dive-into-red-hat-openshift-4f6d)
-- [🧠 Building Smarter Apps with Grundis: A Real-Time Context API for 2025](https://dev.to/ehanislam/building-smarter-apps-with-grundis-a-real-time-context-api-for-2025-3844)
-- [📊 Did you know this?](https://dev.to/tpeoficial/did-you-know-this-4e04)
-- [🧨 Solidity Security 101: Mistakes I’ll Never Make Again](https://dev.to/dhis_is_jj/solidity-security-101-mistakes-ill-never-make-again-3pi5)
+- [Coding Is Thinking: Why I Still Write Code by Hand](https://dev.to/diamantino_almeida/coding-is-thinking-why-i-still-write-code-by-hand-4nf2)
+- [Using NanoAPI on Game Mods](https://dev.to/nanoapi_io/using-nanoapi-on-game-mods-1392)
+- [The Gamma Distance Forecasts All-Cause Death in Chronic Dialysis Individuals.](https://dev.to/chordglue51/the-gamma-distance-forecasts-all-cause-death-in-chronic-dialysis-individuals-16ho)
+- [Speeding up Elixir: integration with native code &lpar;NIF, Ports, etc.&rpar;](https://dev.to/adamanq/speeding-up-elixir-integration-with-native-code-nif-ports-etc-5ajd)
+- [[00] 👋 Hello Dev Community — I’m Anik Paul!](https://dev.to/anikpaul/00-hello-dev-community-im-anik-paul-2nn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
