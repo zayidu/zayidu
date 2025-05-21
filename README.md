@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Neural Networks in Go: Concepts, Structure, and Practical Implementation](https://dev.to/leapcell/from-zero-to-neural-networks-in-go-concepts-structure-and-practical-implementation-1od6)
-- [What is Django in Web Development? Features, Benefits, and Use Cases](https://dev.to/tpointtechblog/what-is-django-in-web-development-features-benefits-and-use-cases-569m)
-- [callsites usage in n8n source code to get callsites from the V8 stack trace API](https://dev.to/ramunarasinga-11/callsites-usage-in-n8n-source-code-to-get-callsites-from-the-v8-stack-trace-api-50jp)
-- [🚀 Top DevOps Tools to Learn in 2025 &lpar;And Why They Matter&rpar;](https://dev.to/latchudevops/top-devops-tools-to-learn-in-2025-and-why-they-matter-n9i)
-- [Welcome Thread - v327](https://dev.to/devteam/welcome-thread-v327-479o)
+- [Step-by-Step on how to Link SSH to GitHub from Your Server](https://dev.to/msnmongare/step-by-step-on-how-to-link-ssh-to-github-from-your-server-2h7h)
+- [⚙️ The Impact of Edge Functions on Frontend Performance](https://dev.to/hasunnilupul/the-impact-of-edge-functions-on-frontend-performance-1lde)
+- [📅 Mastering Java Date and Time API: LocalDate, LocalTime, LocalDateTime, and ZonedDateTime](https://dev.to/rock_win_c053fa5fb2399067/mastering-java-date-and-time-api-localdate-localtime-localdatetime-and-zoneddatetime-3518)
+- [Why You Need an AI Code Checker](https://dev.to/keploy/why-you-need-an-ai-code-checker-376)
+- [Declare an array in TypeScript](https://dev.to/bdavidxyz/declare-an-array-in-typescript-2ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
