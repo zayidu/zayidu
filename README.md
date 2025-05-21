@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a simple Virtualized List/ Sliding Window](https://dev.to/gunjangidwani/create-a-simple-virtualized-list-sliding-window-akp)
-- [A smart take on how to turn cold leads into warm opportunities over time.](https://dev.to/robert_lanister_916b8b146/a-smart-take-on-how-to-turn-cold-leads-into-warm-opportunities-over-time-37hg)
-- [BeaconAI: a Fun AI Project &lpar;Built with GPT, ElevenLabs, Replicate &amp; More&rpar;](https://dev.to/maxfrecka/beaconai-a-fun-ai-project-built-with-gpt-elevenlabs-replicate-more-5hid)
-- [5 JavaScript Tricks I Wish I Knew Earlier. &lpar;That You’ll Love Too&rpar;](https://dev.to/mohd_shafi_dev_01/5-javascript-tricks-i-wish-i-knew-earlier-that-youll-love-too-36j8)
-- [AMLES Manual – Installation of Workstations in Dual Boot &lpar;ProxMox VM&rpar; Part 1.](https://dev.to/m3ow/amles-manual-installation-of-workstations-in-dual-boot-proxmox-vm-part-1-31lb)
+- [# 🔗 nodeBond – Local IPC Bridge for Node.js &lpar;no TCP, no dependencies&rpar;](https://dev.to/xzdes/-nodebond-local-ipc-bridge-for-nodejs-no-tcp-no-dependencies-8c9)
+- [Self-Paced Learning Strategies for Today’s Evolving Job Market](https://dev.to/marketdaily/self-paced-learning-strategies-for-todays-evolving-job-market-2nm4)
+- [Debugging Embedded Systems: Practical Tips for Developers](https://dev.to/kalvin_mccallum/debugging-embedded-systems-practical-tips-for-developers-12ho)
+- [Parameter decorators in NestJS](https://dev.to/wakeup_flower_8591a6cb6a9/parameter-decorators-in-nestjs-2l5f)
+- [Turbocharge Your Monorepo: Battle-Tested Tips for Nx, Turborepo, and Bazel Pros 🚀](https://dev.to/alex_aslam/turbocharge-your-monorepo-battle-tested-tips-for-nx-turborepo-and-bazel-pros-214h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
