@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Gaming Just Got a Massive Boost , Arm&#39;s New ASR Tech Explained &lpar;For the Ones Who Missed This Update&rpar;](https://dev.to/p_0c0278d/mobile-gaming-just-got-a-massive-boost-arms-new-asr-tech-explained-for-the-ones-who-missed-this-58m6)
-- [Import Maps: Why Nobody Talks About Them &lpar;But Maybe Should&rpar;](https://dev.to/marie_berezhna/import-maps-why-nobody-talks-about-them-but-maybe-should-3ckl)
-- [Microservices simply](https://dev.to/vjnvisakh/microservices-simply-3dei)
-- [Basic API Security Testing Checklist for Developers and Pentesters](https://dev.to/msnmongare/basic-api-security-testing-checklist-for-developers-and-pentesters-548c)
-- [◼️10/100 Block-by-Block: Web3 Data landscape](https://dev.to/nocibambi/10100-block-by-block-web3-data-landscape-e0o)
+- [*5 misconceptions about programming &lpar;and what&#39;s actually true&rpar;:*](https://dev.to/ssekabirarobertsims/5-misconceptions-about-programming-and-whats-actually-true-5b1)
+- [🔧 Mastering OpenShift Automation &amp; Cluster Management: A Deep Dive into Red Hat OpenShift Administration III &lpar;DO380&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/mastering-openshift-automation-cluster-management-a-deep-dive-into-red-hat-openshift-4f6d)
+- [🧠 Building Smarter Apps with Grundis: A Real-Time Context API for 2025](https://dev.to/ehanislam/building-smarter-apps-with-grundis-a-real-time-context-api-for-2025-3844)
+- [📊 Did you know this?](https://dev.to/tpeoficial/did-you-know-this-4e04)
+- [🧨 Solidity Security 101: Mistakes I’ll Never Make Again](https://dev.to/dhis_is_jj/solidity-security-101-mistakes-ill-never-make-again-3pi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
