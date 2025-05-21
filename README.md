@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Renaissance](https://dev.to/rawveg/the-digital-renaissance-9lo)
-- [🧠 How UX Shaped COVID, Airbnb’s Redesign &amp; SVG-to-CSS Tool](https://dev.to/adam/how-ux-shaped-covid-airbnbs-redesign-svg-to-css-tool-5ajk)
-- [Como o protocolo HTTP funciona?](https://dev.to/alexreis/como-o-protocolo-http-funciona-55oc)
-- [Before I Got the Map, I Got It All Wrong](https://dev.to/kofiadu/before-i-got-the-map-i-got-it-all-wrong-13g)
-- [10 Open Source Tools for Observability Every DevOps Engineer Should Know](https://dev.to/thecloudarchitect/10-open-source-tools-for-observability-every-devops-engineer-should-know-45fl)
+- [Unlocking Efficiency: How watsonx Code Assistant and Terraform Redefine Infrastructure Automation](https://dev.to/aairom/unlocking-efficiency-how-watsonx-code-assistant-and-terraform-redefine-infrastructure-automation-5hi3)
+- [Atualização Profissional para Psicólogos: Tendências e Novidades Essenciais](https://dev.to/charactermaster399gamma/atualizacao-profissional-para-psicologos-tendencias-e-novidades-essenciais-3n9p)
+- [Avaliação Oral de TDAH: Como Identificar os Sinais e Apoiar Melhor](https://dev.to/flexivelmentor376alfa/avaliacao-oral-de-tdah-como-identificar-os-sinais-e-apoiar-melhor-589d)
+- [From Bumps to Bundles of Joy: Understanding and Managing Pelvic Pain in Pregnancy and Postpartum](https://dev.to/jake_willson_af01c967199f/from-bumps-to-bundles-of-joy-understanding-and-managing-pelvic-pain-in-pregnancy-and-postpartum-1peb)
+- [Is Time Tracking the Missing Piece in Agile Dev Teams?](https://dev.to/tmetric_timer_2b3a575fc8b/is-time-tracking-the-missing-piece-in-agile-dev-teams-m6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
