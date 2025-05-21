@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O Keynote 2025 Summary: Gemini Deep Think, Search AI Mode, Android XR, Jules](https://dev.to/justdetermined/google-io-keynote-2025-summary-gemini-deep-think-search-ai-mode-android-xr-jules-3g1b)
-- [Deploy a Docker App to Coolify in 5 Minutes](https://dev.to/lucasnevespereira/deploy-a-docker-app-to-coolify-in-5-minutes-5a6n)
-- [Blockchain Beginner guide](https://dev.to/entangledcognition/blockchain-beginner-guide-4m3o)
-- [Virtual DOM &amp; what is its role in React?](https://dev.to/dessomu/virtual-dom-what-is-its-role-in-react-dh9)
-- [A COMPREHENSIVE LOOK INTO SQL : - What a Beginner can learn](https://dev.to/tiff_thua/a-comprehensive-look-into-sql-what-a-beginner-can-learn-3l6g)
+- [What is Hyperscale?](https://dev.to/clouddefenseai/what-is-hyperscale-1pkp)
+- [🚀Migrating from Heroku to AWS with Terraform — A Real-World Guide](https://dev.to/hybytes_devops/migrating-from-heroku-to-aws-with-terraform-a-real-world-guide-50d5)
+- [I wrote this one some time ago as a form of therapy:](https://dev.to/canro91/i-wrote-this-one-some-time-ago-as-a-form-of-therapy-19om)
+- [Top Cryptocurrency Exchanges 2025: Review](https://dev.to/merehead2015/top-cryptocurrency-exchanges-2025-review-56h4)
+- [[Boost]](https://dev.to/anthonymax/-4jak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
