@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Hyperscale?](https://dev.to/clouddefenseai/what-is-hyperscale-1pkp)
-- [🚀Migrating from Heroku to AWS with Terraform — A Real-World Guide](https://dev.to/hybytes_devops/migrating-from-heroku-to-aws-with-terraform-a-real-world-guide-50d5)
-- [I wrote this one some time ago as a form of therapy:](https://dev.to/canro91/i-wrote-this-one-some-time-ago-as-a-form-of-therapy-19om)
-- [Top Cryptocurrency Exchanges 2025: Review](https://dev.to/merehead2015/top-cryptocurrency-exchanges-2025-review-56h4)
-- [[Boost]](https://dev.to/anthonymax/-4jak)
+- [Join the Postmark Challenge: Inbox Innovators - $3,000 in Prizes!](https://dev.to/devteam/join-the-postmark-challenge-inbox-innovators-3000-in-prizes-497l)
+- [Why Caching Matters More Than You Think &lpar;A Real-World Example&rpar;](https://dev.to/osalumense/why-caching-matters-more-than-you-think-a-real-world-example-1l5l)
+- [Technical SEO for Developers: Mastering Site Structure and Performance](https://dev.to/okoye_ndidiamaka_5e3b7d30/technical-seo-for-developers-mastering-site-structure-and-performance-3a3m)
+- [How to Improve LLM Performance with Human and AI Feedback on Amazon SageMaker](https://dev.to/sudoconsultants/how-to-improve-llm-performance-with-human-and-ai-feedback-on-amazon-sagemaker-2c69)
+- [DIY Ticketing System with Google Apps Script for Handling Inquiries](https://dev.to/yo-shi/diy-ticketing-system-with-google-apps-script-for-handling-inquiries-2ed4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
