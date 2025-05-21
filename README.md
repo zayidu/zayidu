@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic OOP - Part 01](https://dev.to/sajjadrahman56/basic-oop-part-01-1ihp)
-- [Docker Cheatset Releases and Support for `arm64` Architecture](https://dev.to/jonasbn/docker-cheatset-releases-and-support-for-arm64-architecture-2445)
-- [🐍 Part 2: 5 More Python Scripts That Will Save You Hours Every Week!!](https://dev.to/nish2005karsh/part-2-5-more-python-scripts-that-will-save-you-hours-every-week-kc1)
-- [Goose gets a Driver&#39;s License](https://dev.to/blockopensource/goose-gets-a-drivers-license-3l0j)
-- [Building multi-region infrastructure with AWS](https://dev.to/logrocket/building-multi-region-infrastructure-with-aws-1k7n)
+- [Solitude: Not A Flaw But A Choice](https://dev.to/phoebe_smith/solitude-not-a-flaw-but-a-choice-1ok8)
+- [Open Source Call: Help build a life-saving AI-powered skin cancer app 👋 Hi everyone, I&#39;m Dr. Fadi Alakrami, a physician building an open-source project to help people detect early signs of melanoma, BCC, and SCC – using only their phone, AI, and camera –](https://dev.to/fadi_alakrami_e4786e4a130/open-source-call-help-build-a-life-saving-ai-powered-skin-cancer-app-hi-everyone-im-dr-4gdm)
+- [Top 10 Termux Commands Every Beginner Should Know](https://dev.to/terminaltools/top-10-termux-commands-every-beginner-should-know-ooo)
+- [Remember the Business Board Game Cards? Let’s Build a Digital Version with Amazon Q CLI!](https://dev.to/abinaya_sv_56acb826629f0f/remember-the-business-board-game-cards-lets-build-a-digital-version-with-amazon-q-cli-3kh2)
+- [Organizing network calls in Web Apps with Concentric Call Methodology](https://dev.to/thejaredwilcurt/organizing-network-calls-in-web-apps-with-concentric-call-methodology-186l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
