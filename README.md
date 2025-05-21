@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250520: Search Engine Architecture](https://dev.to/methodox/devlog-20250520-search-engine-architecture-12k3)
-- [Denoising Diffusion Probabilistic Models](https://dev.to/taniguchitakara/denoising-diffusion-probabilistic-models-26b8)
-- [Lihil — a High-Performance Web Framework for Enterprise Web Development in Python](https://dev.to/lihil_66bcfc564066b7/lihil-a-high-performance-web-framework-for-enterprise-web-development-in-python-an1)
-- [How to Turn Your Artwork into NFTs and Sell It Like a Pro &lpar;Even If You’re Not a Techie&rpar;](https://dev.to/favebs/how-to-turn-your-artwork-into-nfts-and-sell-it-like-a-pro-even-if-youre-not-a-techie-2pch)
-- [Clean Architecture in .NET: Build Scalable &amp; Maintainable Apps](https://dev.to/jenilsojitra/clean-architecture-in-net-build-scalable-maintainable-apps-5aei)
+- [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
+- [Introducing the New InsureBC Victoria Website](https://dev.to/jovan_sihota/introducing-the-new-victoria-website-3i6a)
+- [Ускоряем Elixir: интеграция с нативным кодом &lpar;NIF, Ports и др.&rpar;](https://dev.to/adamanq/uskoriaiem-elixir-intieghratsiia-s-nativnym-kodom-nif-ports-i-dr-17kk)
+- [Coding with Others](https://dev.to/timothy_97/coding-with-others-3jdk)
+- [React Hook Form](https://dev.to/subhasishnath45/react-hook-form-5a1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
