@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step on how to Link SSH to GitHub from Your Server](https://dev.to/msnmongare/step-by-step-on-how-to-link-ssh-to-github-from-your-server-2h7h)
-- [⚙️ The Impact of Edge Functions on Frontend Performance](https://dev.to/hasunnilupul/the-impact-of-edge-functions-on-frontend-performance-1lde)
-- [📅 Mastering Java Date and Time API: LocalDate, LocalTime, LocalDateTime, and ZonedDateTime](https://dev.to/rock_win_c053fa5fb2399067/mastering-java-date-and-time-api-localdate-localtime-localdatetime-and-zoneddatetime-3518)
-- [Why You Need an AI Code Checker](https://dev.to/keploy/why-you-need-an-ai-code-checker-376)
-- [Declare an array in TypeScript](https://dev.to/bdavidxyz/declare-an-array-in-typescript-2ce)
+- [“आरंभी शूर”: The Brutal Truth About Me](https://dev.to/doozieakshay/aarnbhii-shuur-the-brutal-truth-about-me-1obd)
+- [Day 5 - User Inputs in Component](https://dev.to/railsstudent/day-5-user-inputs-in-component-5219)
+- [Understanding API Loading Delays: Common Causes](https://dev.to/davinceleecode/understanding-api-loading-delays-common-causes-1ka)
+- [Decoding Image Segmentation: From Basic Pixels to Panoptic Perfection](https://dev.to/aniruddhaadak_/decoding-image-segmentation-from-basic-pixels-to-panoptic-perfection-4dhg)
+- [PandaStack: The All-in-One Platform Solving Developer Infrastructure Headaches](https://dev.to/pandastack/pandastack-the-all-in-one-platform-solving-developer-infrastructure-headaches-567a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
