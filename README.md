@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Get Life Easy: Secure JSON/CSV Conversions Without Uploading Data](https://dev.to/ranasthala-dev/lets-get-life-easy-secure-jsoncsv-conversions-without-uploading-data-4cl9)
-- [Week 4 of Website Development](https://dev.to/adhyanjain2512/week-4-of-website-development-4485)
-- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
-- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems.](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
-- [This is one of those &quot;betting on the tech getting better&quot; bets](https://dev.to/fedhacks/this-is-one-of-those-betting-on-the-tech-getting-better-bets-4g7i)
+- [Basic OOP - Part 01](https://dev.to/sajjadrahman56/basic-oop-part-01-1ihp)
+- [Docker Cheatset Releases and Support for `arm64` Architecture](https://dev.to/jonasbn/docker-cheatset-releases-and-support-for-arm64-architecture-2445)
+- [🐍 Part 2: 5 More Python Scripts That Will Save You Hours Every Week!!](https://dev.to/nish2005karsh/part-2-5-more-python-scripts-that-will-save-you-hours-every-week-kc1)
+- [Goose gets a Driver&#39;s License](https://dev.to/blockopensource/goose-gets-a-drivers-license-3l0j)
+- [Building multi-region infrastructure with AWS](https://dev.to/logrocket/building-multi-region-infrastructure-with-aws-1k7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
