@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Spring AI 1.0 Is Here — Making AI Production-Ready for the Enterprise](https://dev.to/michelle_sebek_/spring-ai-10-is-here-making-ai-production-ready-for-the-enterprise-4lma)
-- [Using elastic search to optimize text search 🔍](https://dev.to/harsh_goyal/using-elastic-search-to-optimize-text-search-3nm6)
-- [Create Python Virtual Environment with Various Version of Python on Windows](https://dev.to/hafidhfikri/create-python-virtual-environment-with-various-version-of-python-on-windows-287h)
-- [Will AI Replace Your Job? Yes — Unless You Learn to Lead It](https://dev.to/catharinus_vansteenberge/will-ai-replace-your-job-yes-unless-you-learn-to-lead-it-2idj)
-- [🚀 Will AI Replace Your Job? It Might – Unless You Learn to Leverage It? In today’s fast-moving tech world, the question isn’t if AI will change your job, it’s how soon. How do you think about this?](https://dev.to/catharinus_vansteenberge/will-ai-replace-your-job-it-might-unless-you-learn-to-leverage-it-in-todays-fast-moving-1j32)
+- [Let’s Get Life Easy: Secure JSON/CSV Conversions Without Uploading Data](https://dev.to/ranasthala-dev/lets-get-life-easy-secure-jsoncsv-conversions-without-uploading-data-4cl9)
+- [Week 4 of Website Development](https://dev.to/adhyanjain2512/week-4-of-website-development-4485)
+- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
+- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems.](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
+- [This is one of those &quot;betting on the tech getting better&quot; bets](https://dev.to/fedhacks/this-is-one-of-those-betting-on-the-tech-getting-better-bets-4g7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
