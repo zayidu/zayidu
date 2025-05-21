@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Is Thinking: Why I Still Write Code by Hand](https://dev.to/diamantino_almeida/coding-is-thinking-why-i-still-write-code-by-hand-4nf2)
-- [Using NanoAPI on Game Mods](https://dev.to/nanoapi_io/using-nanoapi-on-game-mods-1392)
-- [The Gamma Distance Forecasts All-Cause Death in Chronic Dialysis Individuals.](https://dev.to/chordglue51/the-gamma-distance-forecasts-all-cause-death-in-chronic-dialysis-individuals-16ho)
-- [Speeding up Elixir: integration with native code &lpar;NIF, Ports, etc.&rpar;](https://dev.to/adamanq/speeding-up-elixir-integration-with-native-code-nif-ports-etc-5ajd)
-- [[00] 👋 Hello Dev Community — I’m Anik Paul!](https://dev.to/anikpaul/00-hello-dev-community-im-anik-paul-2nn3)
+- [From Listing to Longevity: Why Most Tokens Fade After the Hype &lpar;And What We Can Actually Do About It&rpar;](https://dev.to/leo_scott_357f10236fabe00/from-listing-to-longevity-why-most-tokens-fade-after-the-hype-and-what-we-can-actually-do-about-5h6g)
+- [Understanding SOLID Principles in Frontend Development &lpar;with React Examples&rpar;](https://dev.to/debugdiariesbyswethap/understanding-solid-principles-in-frontend-development-with-react-examples-7ao)
+- [8 GitHub-Starred Security Projects You Shouldn’t Miss in 2025](https://dev.to/sharon_42e16b8da44dabde6d/8-github-starred-security-projects-you-shouldnt-miss-in-2025-3gda)
+- [Namrata Hinduja &lpar;Geneva, Switzerland&rpar; Explores How AI Is Shaping Fashion&#39;s Future](https://dev.to/namratahindujageneva/namrata-hinduja-geneva-switzerland-explores-how-ai-is-shaping-fashions-future-2o8k)
+- [Alex the CSS Husky](https://dev.to/preetha_vaishnavi_2b82358/alex-the-css-husky-1p8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
