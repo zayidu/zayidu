@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“आरंभी शूर”: The Brutal Truth About Me](https://dev.to/doozieakshay/aarnbhii-shuur-the-brutal-truth-about-me-1obd)
-- [Day 5 - User Inputs in Component](https://dev.to/railsstudent/day-5-user-inputs-in-component-5219)
-- [Understanding API Loading Delays: Common Causes](https://dev.to/davinceleecode/understanding-api-loading-delays-common-causes-1ka)
-- [Decoding Image Segmentation: From Basic Pixels to Panoptic Perfection](https://dev.to/aniruddhaadak_/decoding-image-segmentation-from-basic-pixels-to-panoptic-perfection-4dhg)
-- [PandaStack: The All-in-One Platform Solving Developer Infrastructure Headaches](https://dev.to/pandastack/pandastack-the-all-in-one-platform-solving-developer-infrastructure-headaches-567a)
+- [Mobile Gaming Just Got a Massive Boost , Arm&#39;s New ASR Tech Explained &lpar;For the Ones Who Missed This Update&rpar;](https://dev.to/p_0c0278d/mobile-gaming-just-got-a-massive-boost-arms-new-asr-tech-explained-for-the-ones-who-missed-this-58m6)
+- [Import Maps: Why Nobody Talks About Them &lpar;But Maybe Should&rpar;](https://dev.to/marie_berezhna/import-maps-why-nobody-talks-about-them-but-maybe-should-3ckl)
+- [Microservices simply](https://dev.to/vjnvisakh/microservices-simply-3dei)
+- [Basic API Security Testing Checklist for Developers and Pentesters](https://dev.to/msnmongare/basic-api-security-testing-checklist-for-developers-and-pentesters-548c)
+- [◼️10/100 Block-by-Block: Web3 Data landscape](https://dev.to/nocibambi/10100-block-by-block-web3-data-landscape-e0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
