@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu turn server tutorial in 5 Mins](https://dev.to/alakkadshaw/ubuntu-turn-server-tutorial-in-5-mins-2j5g)
-- [JobWizard: You AI Job Seeker](https://dev.to/jimzer/jobwizard-you-ai-job-seeker-2pn9)
-- [Rocket SVG Cursor](https://dev.to/leimapapa/rocket-svg-cursor-5a0j)
-- [Building Enterprise-Grade SaaS: Infrastructure Requirements for Scaling Beyond SMB](https://dev.to/deepakgupta/building-enterprise-grade-saas-infrastructure-requirements-for-scaling-beyond-smb-3jn)
-- [HepatoAI](https://dev.to/hm4744/hepatoai-1be3)
+- [Rising Beyond Routine](https://dev.to/rawveg/rising-beyond-routine-1blh)
+- [readonly vs disabled in Rails Forms](https://dev.to/jessalejo/readonly-vs-disabled-in-rails-forms-47cj)
+- [mkdir &quot;No-google-AI-overviews&quot; &amp;&amp; man &quot;google AI overviews&quot; &amp;&amp; rm &quot;google AI overviews&quot;](https://dev.to/junaid_dev/mkdir-no-google-ai-overviews-man-google-ai-overviews-rm-google-ai-overviews-2mn3)
+- [🐍 Building a Classic Snake Game with Amazon Q CLI &amp; Pygame](https://dev.to/swayam_nax_c16b4a31a4026f/building-a-classic-snake-game-with-amazon-q-cli-pygame-md5)
+- [Simple Firewall with ufw or firewalld](https://dev.to/salamilinux/simple-firewall-with-ufw-or-firewalld-i9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
