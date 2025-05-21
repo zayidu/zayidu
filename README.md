@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solitude: Not A Flaw But A Choice](https://dev.to/phoebe_smith/solitude-not-a-flaw-but-a-choice-1ok8)
-- [Open Source Call: Help build a life-saving AI-powered skin cancer app 👋 Hi everyone, I&#39;m Dr. Fadi Alakrami, a physician building an open-source project to help people detect early signs of melanoma, BCC, and SCC – using only their phone, AI, and camera –](https://dev.to/fadi_alakrami_e4786e4a130/open-source-call-help-build-a-life-saving-ai-powered-skin-cancer-app-hi-everyone-im-dr-4gdm)
-- [Top 10 Termux Commands Every Beginner Should Know](https://dev.to/terminaltools/top-10-termux-commands-every-beginner-should-know-ooo)
-- [Remember the Business Board Game Cards? Let’s Build a Digital Version with Amazon Q CLI!](https://dev.to/abinaya_sv_56acb826629f0f/remember-the-business-board-game-cards-lets-build-a-digital-version-with-amazon-q-cli-3kh2)
-- [Organizing network calls in Web Apps with Concentric Call Methodology](https://dev.to/thejaredwilcurt/organizing-network-calls-in-web-apps-with-concentric-call-methodology-186l)
+- [Create a simple Virtualized List/ Sliding Window](https://dev.to/gunjangidwani/create-a-simple-virtualized-list-sliding-window-akp)
+- [A smart take on how to turn cold leads into warm opportunities over time.](https://dev.to/robert_lanister_916b8b146/a-smart-take-on-how-to-turn-cold-leads-into-warm-opportunities-over-time-37hg)
+- [BeaconAI: a Fun AI Project &lpar;Built with GPT, ElevenLabs, Replicate &amp; More&rpar;](https://dev.to/maxfrecka/beaconai-a-fun-ai-project-built-with-gpt-elevenlabs-replicate-more-5hid)
+- [5 JavaScript Tricks I Wish I Knew Earlier. &lpar;That You’ll Love Too&rpar;](https://dev.to/mohd_shafi_dev_01/5-javascript-tricks-i-wish-i-knew-earlier-that-youll-love-too-36j8)
+- [AMLES Manual – Installation of Workstations in Dual Boot &lpar;ProxMox VM&rpar; Part 1.](https://dev.to/m3ow/amles-manual-installation-of-workstations-in-dual-boot-proxmox-vm-part-1-31lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
