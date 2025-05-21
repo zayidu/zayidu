@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Specter-AAL](https://dev.to/g0d/specter-aal-mmg)
-- [From EC2 to GitHub: Connecting Your Cloud Code Like a Pro](https://dev.to/adesola_kehinde/from-ec2-to-github-connecting-your-cloud-code-like-a-pro-54e7)
-- [Vulcan - JS library for the pros and smart devs](https://dev.to/g0d/vulcan-js-library-for-the-pros-and-smart-devs-54h)
-- [PHAISTOS - Data Exchange Redefined!](https://dev.to/g0d/phaistos-data-exchange-redefined-5cjc)
-- [The Serverless Dream Is Dead](https://dev.to/shayy/the-serverless-dream-is-dead-2945)
+- [DevLog 20250520: Search Engine Architecture](https://dev.to/methodox/devlog-20250520-search-engine-architecture-12k3)
+- [Denoising Diffusion Probabilistic Models](https://dev.to/taniguchitakara/denoising-diffusion-probabilistic-models-26b8)
+- [Lihil — a High-Performance Web Framework for Enterprise Web Development in Python](https://dev.to/lihil_66bcfc564066b7/lihil-a-high-performance-web-framework-for-enterprise-web-development-in-python-an1)
+- [How to Turn Your Artwork into NFTs and Sell It Like a Pro &lpar;Even If You’re Not a Techie&rpar;](https://dev.to/favebs/how-to-turn-your-artwork-into-nfts-and-sell-it-like-a-pro-even-if-youre-not-a-techie-2pch)
+- [Clean Architecture in .NET: Build Scalable &amp; Maintainable Apps](https://dev.to/jenilsojitra/clean-architecture-in-net-build-scalable-maintainable-apps-5aei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
