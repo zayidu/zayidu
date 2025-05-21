@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Listing to Longevity: Why Most Tokens Fade After the Hype &lpar;And What We Can Actually Do About It&rpar;](https://dev.to/leo_scott_357f10236fabe00/from-listing-to-longevity-why-most-tokens-fade-after-the-hype-and-what-we-can-actually-do-about-5h6g)
-- [Understanding SOLID Principles in Frontend Development &lpar;with React Examples&rpar;](https://dev.to/debugdiariesbyswethap/understanding-solid-principles-in-frontend-development-with-react-examples-7ao)
-- [8 GitHub-Starred Security Projects You Shouldn’t Miss in 2025](https://dev.to/sharon_42e16b8da44dabde6d/8-github-starred-security-projects-you-shouldnt-miss-in-2025-3gda)
-- [Namrata Hinduja &lpar;Geneva, Switzerland&rpar; Explores How AI Is Shaping Fashion&#39;s Future](https://dev.to/namratahindujageneva/namrata-hinduja-geneva-switzerland-explores-how-ai-is-shaping-fashions-future-2o8k)
-- [Alex the CSS Husky](https://dev.to/preetha_vaishnavi_2b82358/alex-the-css-husky-1p8g)
+- [The Digital Renaissance](https://dev.to/rawveg/the-digital-renaissance-9lo)
+- [🧠 How UX Shaped COVID, Airbnb’s Redesign &amp; SVG-to-CSS Tool](https://dev.to/adam/how-ux-shaped-covid-airbnbs-redesign-svg-to-css-tool-5ajk)
+- [Como o protocolo HTTP funciona?](https://dev.to/alexreis/como-o-protocolo-http-funciona-55oc)
+- [Before I Got the Map, I Got It All Wrong](https://dev.to/kofiadu/before-i-got-the-map-i-got-it-all-wrong-13g)
+- [10 Open Source Tools for Observability Every DevOps Engineer Should Know](https://dev.to/thecloudarchitect/10-open-source-tools-for-observability-every-devops-engineer-should-know-45fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
