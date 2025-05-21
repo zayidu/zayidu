@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Efficiency: How watsonx Code Assistant and Terraform Redefine Infrastructure Automation](https://dev.to/aairom/unlocking-efficiency-how-watsonx-code-assistant-and-terraform-redefine-infrastructure-automation-5hi3)
-- [Atualização Profissional para Psicólogos: Tendências e Novidades Essenciais](https://dev.to/charactermaster399gamma/atualizacao-profissional-para-psicologos-tendencias-e-novidades-essenciais-3n9p)
-- [Avaliação Oral de TDAH: Como Identificar os Sinais e Apoiar Melhor](https://dev.to/flexivelmentor376alfa/avaliacao-oral-de-tdah-como-identificar-os-sinais-e-apoiar-melhor-589d)
-- [From Bumps to Bundles of Joy: Understanding and Managing Pelvic Pain in Pregnancy and Postpartum](https://dev.to/jake_willson_af01c967199f/from-bumps-to-bundles-of-joy-understanding-and-managing-pelvic-pain-in-pregnancy-and-postpartum-1peb)
-- [Is Time Tracking the Missing Piece in Agile Dev Teams?](https://dev.to/tmetric_timer_2b3a575fc8b/is-time-tracking-the-missing-piece-in-agile-dev-teams-m6d)
+- [Google I/O Keynote 2025 Summary: Gemini Deep Think, Search AI Mode, Android XR, Jules](https://dev.to/justdetermined/google-io-keynote-2025-summary-gemini-deep-think-search-ai-mode-android-xr-jules-3g1b)
+- [Deploy a Docker App to Coolify in 5 Minutes](https://dev.to/lucasnevespereira/deploy-a-docker-app-to-coolify-in-5-minutes-5a6n)
+- [Blockchain Beginner guide](https://dev.to/entangledcognition/blockchain-beginner-guide-4m3o)
+- [Virtual DOM &amp; what is its role in React?](https://dev.to/dessomu/virtual-dom-what-is-its-role-in-react-dh9)
+- [A COMPREHENSIVE LOOK INTO SQL : - What a Beginner can learn](https://dev.to/tiff_thua/a-comprehensive-look-into-sql-what-a-beginner-can-learn-3l6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
