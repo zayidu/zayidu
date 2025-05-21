@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
-- [Introducing the New InsureBC Victoria Website](https://dev.to/jovan_sihota/introducing-the-new-victoria-website-3i6a)
-- [Ускоряем Elixir: интеграция с нативным кодом &lpar;NIF, Ports и др.&rpar;](https://dev.to/adamanq/uskoriaiem-elixir-intieghratsiia-s-nativnym-kodom-nif-ports-i-dr-17kk)
-- [Coding with Others](https://dev.to/timothy_97/coding-with-others-3jdk)
-- [React Hook Form](https://dev.to/subhasishnath45/react-hook-form-5a1g)
+- [From Zero to Neural Networks in Go: Concepts, Structure, and Practical Implementation](https://dev.to/leapcell/from-zero-to-neural-networks-in-go-concepts-structure-and-practical-implementation-1od6)
+- [What is Django in Web Development? Features, Benefits, and Use Cases](https://dev.to/tpointtechblog/what-is-django-in-web-development-features-benefits-and-use-cases-569m)
+- [callsites usage in n8n source code to get callsites from the V8 stack trace API](https://dev.to/ramunarasinga-11/callsites-usage-in-n8n-source-code-to-get-callsites-from-the-v8-stack-trace-api-50jp)
+- [🚀 Top DevOps Tools to Learn in 2025 &lpar;And Why They Matter&rpar;](https://dev.to/latchudevops/top-devops-tools-to-learn-in-2025-and-why-they-matter-n9i)
+- [Welcome Thread - v327](https://dev.to/devteam/welcome-thread-v327-479o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
