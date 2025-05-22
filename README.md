@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is my React component flickering?](https://dev.to/werliton/why-is-my-react-component-flickering-45ej)
-- [Introducing Zod 4 – Super Fast, Lightweight, and Packed with Powerful Features!](https://dev.to/wildboar_developer/introducing-zod-4-super-fast-lightweight-and-packed-with-powerful-features-4fkg)
-- [Statistics by Time Window — From SQL to SPL #31](https://dev.to/judith677/statistics-by-time-window-from-sql-to-spl-31-387b)
-- [🧼 How to Write Clean React Code](https://dev.to/leap_chanvuthy_87d0e3c919/how-to-write-clean-react-code-4244)
-- [How Second-Brain built an AI system for financial institutions with NocoBase](https://dev.to/nocobase/how-second-brain-built-an-ai-system-for-financial-institutions-with-nocobase-2jln)
+- [noOp variable in n8n source code.](https://dev.to/ramunarasinga-11/noop-variable-in-n8n-source-code-d3d)
+- [Safari&#39;s Tab Key Trap: Why Your Website&#39;s Focus Navigation Might Be Breaking for Safari Users](https://dev.to/hawkchen/safaris-tab-key-trap-why-your-websites-focus-navigation-might-be-breaking-for-safari-users-5632)
+- [Rethinking API Versioning: Why Full Semantic Versioning Might Be an Anti-Pattern for Your API](https://dev.to/ralphsebastian/rethinking-api-versioning-why-full-semantic-versioning-might-be-an-anti-pattern-for-your-api-3h8b)
+- [RAG: Smarter AI Agents [Part 2]](https://dev.to/maksym_mosiura_7dd1c98618/rag-smarter-ai-agents-4ej9)
+- [How I Built an AWS Project Idea Generator Using AI](https://dev.to/aws-builders/how-i-built-an-aws-project-idea-generator-using-ai-oif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
