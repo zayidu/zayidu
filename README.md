@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Python Tricks You Probably Didn’t Know 💡🐍](https://dev.to/nish2005karsh/10-python-tricks-you-probably-didnt-know-2bo4)
-- [Something](https://dev.to/sjaroxxsuk_9cd1681df191d/something-j04)
-- [The Revolutionary Folder Structure Every Developer Needs &lpar;DFMA&rpar;](https://dev.to/er-raj-aryan/the-revolutionary-folder-structure-every-developer-needs-dfma-238b)
-- [🚀 FastAPI CRUD with MySQL/MariaDB — Enterprise-Grade Architecture](https://dev.to/rock_win_c053fa5fb2399067/fastapi-crud-with-mysqlmariadb-enterprise-grade-architecture-11hm)
-- [Why Most Startups Fail at SaaS Content Marketing &lpar;And How to Fix It&rpar;](https://dev.to/market_plussolutionsgmb/why-most-startups-fail-at-saas-content-marketing-and-how-to-fix-it-2fe1)
+- [Enabling CORS in Flask](https://dev.to/reynaldi/enabling-cors-in-flask-120n)
+- [How to pass a TypeScript function as a parameter](https://dev.to/logrocket/how-to-pass-a-typescript-function-as-a-parameter-2572)
+- [Qubit-Efficient Encoding Techniques for Solving QUBO Problems](https://dev.to/supreethmv/qubit-efficient-encoding-techniques-for-solving-qubo-problems-4iad)
+- [JavaScript distinguish picture or alive person in webcam](https://dev.to/skac/javascript-distinguish-picture-or-alive-person-in-webcam-1j1a)
+- [Unmasking Linux: What Building From Scratch Truly Reveals 🐧](https://dev.to/bibek_khanal_863076fe9ec4/unmasking-linux-what-building-from-scratch-truly-reveals-4l9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
