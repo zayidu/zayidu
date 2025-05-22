@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
-- [关于java的反射](https://dev.to/aquareo/guan-yu-javade-fan-she-fig)
-- [🚀 From Code to Cash: Panduan Lengkap Memilih Badan Usaha untuk Developer Indonesia](https://dev.to/frynnn/from-code-to-cash-panduan-lengkap-memilih-badan-usaha-untuk-developer-indonesia-4j5i)
-- [Ethereum Approaches $3,600: A Developer’s Perspective on Price Dynamics, Market Making, and Technical Resistance](https://dev.to/alexnav/ethereum-approaches-3600-a-developers-perspective-on-price-dynamics-market-making-and-308n)
-- [The One Chart That Will Change How Your Dev Team Builds Software](https://dev.to/teamcamp/the-one-chart-that-will-change-how-your-dev-team-builds-software-2e7i)
+- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-1n27)
+- [Greptile: Smarter Code Reviews Through Codebase-Aware AI](https://dev.to/pullflow/greptile-smarter-code-reviews-through-codebase-aware-ai-258a)
+- [State of the Art BrightDataQL with the MCP Agent](https://dev.to/ranjancse/state-of-the-art-brightdataql-with-the-mcp-agent-58hg)
+- [Forged in Feedback and Sharpened by Every Review](https://dev.to/tonystpierre/forged-in-feedback-and-sharpened-by-every-review-4pj3)
+- [Automating Vinyl Fence Locks Using Python and Relays](https://dev.to/karen_londres/automating-vinyl-fence-locks-using-python-and-relays-pbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
