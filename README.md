@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dedicated Server vs. Cloud Hosting: What’s Best for Your Business in 2025?](https://dev.to/sanoja/dedicated-server-vs-cloud-hosting-whats-best-for-your-business-in-2025-2loh)
-- [Understanding the DOM in JavaScript: A Developer&#39;s Guide](https://dev.to/shifa_2/understanding-the-dom-in-javascript-a-developers-guide-5720)
-- [Top 10 Ways To Use AI for DevOps](https://dev.to/harman_diaz/top-10-ways-to-use-ai-for-devops-4m9o)
-- [Span&lt;T&gt; en C#](https://dev.to/habib_baraket/span-en-c-4ele)
-- [Day-2:Resume build in frontend](https://dev.to/pavithra_c_butterfly/day-2resume-build-in-frontend-2dej)
+- [Summer 2025 Internships at Fermyon](https://dev.to/fermyon/summer-2025-internships-at-fermyon-2ie7)
+- [Every time a new model comes out it unlocks something new. Cannot wait to share what I am shipping next 🤗](https://dev.to/lilouartz/every-time-a-new-model-comes-out-it-unlocks-something-new-cannot-wait-to-share-what-i-am-shipping-5a2i)
+- [Super impressed by how actionable this was. I’ve bookmarked it and shared it with three people already.](https://dev.to/themooreperspective/super-impressed-by-how-actionable-this-was-ive-bookmarked-it-and-shared-it-with-three-people-838)
+- [I didn’t expect an article on email to be this insightful. I’m already rethinking how I write every message.](https://dev.to/thearmi/i-didnt-expect-an-article-on-email-to-be-this-insightful-im-already-rethinking-how-i-write-every-4531)
+- [Paracetamol.ts💊| #36: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-36-explica-este-codigo-typescript-40bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
