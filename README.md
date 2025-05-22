@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Cloud Computing: Opportunities for Software Engineers by Professionals such as Abhishek Desikan](https://dev.to/abhishekdesikan/the-impact-of-cloud-computing-opportunities-for-software-engineers-by-professionals-such-as-1l8c)
-- [# How to Upgrade All NPM Packages in a Project using `ncu`](https://dev.to/tishonator/-how-to-upgrade-all-npm-packages-in-a-project-using-ncu-709)
-- [How We Built an MVP Marketplace Platform with a Scalable Hybrid Architecture](https://dev.to/beitroot/how-we-built-an-mvp-marketplace-platform-with-a-scalable-hybrid-architecture-1b0n)
-- [Integrate AI into Your WordPress Site](https://dev.to/sgdo/integrate-ai-into-your-wordpress-site-14b5)
-- [Types of Machine Learning Algorithms](https://dev.to/zahramh99/types-of-machine-learning-algorithms-28cn)
+- [Automation and Humanity](https://dev.to/rawveg/automation-and-humanity-3jf8)
+- [[Boost] Basics of React server-side rendering with Express.js](https://dev.to/gnrlbzik/-27i6)
+- [How to Build Custom Filters with awk and sed Pipelines on Ubuntu 20.04](https://dev.to/boonecabaldev/how-to-build-custom-filters-with-awk-and-sed-pipelines-on-ubuntu-2004-49ng)
+- [Unlock Seamless Software Testing with LambdaTest:Stop Browser Bugs Before They Ship – Cross-Browser Testing with LambdaTest](https://dev.to/5uig3n3ris/unlock-seamless-software-testing-with-lambdateststop-browser-bugs-before-they-ship-cross-browser-4nba)
+- [How to Create a Lightweight Dotfiles Repository](https://dev.to/boonecabaldev/how-to-create-a-lightweight-dotfiles-repository-28dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
