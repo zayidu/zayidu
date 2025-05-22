@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create Generative AI Agents That Interact with Your Companies’ Systems in a Few Clicks](https://dev.to/sudoconsultants/how-to-create-generative-ai-agents-that-interact-with-your-companies-systems-in-a-few-clicks-4dof)
-- [Monorepo vs Polyrepo: Which One Should You Choose in 2025?](https://dev.to/md-afsar-mahmud/monorepo-vs-polyrepo-which-one-should-you-choose-in-2025-g77)
-- [Essential Guide to HarmonyOS 5 Development: In-Depth Understanding of the Cangjie Language Package Manager cjpm](https://dev.to/dcdvdv_a_5059c020ba962689/essential-guide-to-harmonyos-5-development-in-depth-understanding-of-the-cangjie-language-package-3idj)
-- [Educação, Developer Relations e Inteligência Artificial](https://dev.to/morgannadev/educacao-developer-relations-e-inteligencia-artificial-1hi)
-- [iPhone 的語音辨識功能：語音備忘錄，自動標點分段](https://dev.to/letswrite/iphone-de-yu-yin-bian-shi-gong-neng-yu-yin-bei-wang-lu-zi-dong-biao-dian-fen-duan-23c7)
+- [Bitcoin Pizza Day 2025: 15 Years Ago, 10,000 BTC Bought Two Pizzas](https://dev.to/scofieldidehen/bitcoin-pizza-day-2025-15-years-ago-10000-btc-bought-two-pizzas-9be)
+- [Day 28/ 30 Days of Linux Mastery: Variables and Inputs in Shell Scripting](https://dev.to/amandaigwe/day-28-30-days-of-linux-mastery-variables-and-inputs-in-shell-scripting-mp8)
+- [JobFlowAI: Your AI-Powered Copilot for Smarter Job Hunting](https://dev.to/notsointresting/jobflowai-your-ai-powered-copilot-for-smarter-job-hunting-mf0)
+- [Publish a Python Package &lpar;Part-3&rpar;](https://dev.to/datatoinfinity/publish-a-python-package-part-3-27i8)
+- [The Anthropomorphic Paradox: Unpacking User Frustration and Misperception with Apple&#39;s Siri](https://dev.to/anthony_fox_aabf9d00159f3/the-anthropomorphic-paradox-unpacking-user-frustration-and-misperception-with-apples-siri-17f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
