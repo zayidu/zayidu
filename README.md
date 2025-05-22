@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Pizza Day 2025: 15 Years Ago, 10,000 BTC Bought Two Pizzas](https://dev.to/scofieldidehen/bitcoin-pizza-day-2025-15-years-ago-10000-btc-bought-two-pizzas-9be)
-- [Day 28/ 30 Days of Linux Mastery: Variables and Inputs in Shell Scripting](https://dev.to/amandaigwe/day-28-30-days-of-linux-mastery-variables-and-inputs-in-shell-scripting-mp8)
-- [JobFlowAI: Your AI-Powered Copilot for Smarter Job Hunting](https://dev.to/notsointresting/jobflowai-your-ai-powered-copilot-for-smarter-job-hunting-mf0)
-- [Publish a Python Package &lpar;Part-3&rpar;](https://dev.to/datatoinfinity/publish-a-python-package-part-3-27i8)
-- [The Anthropomorphic Paradox: Unpacking User Frustration and Misperception with Apple&#39;s Siri](https://dev.to/anthony_fox_aabf9d00159f3/the-anthropomorphic-paradox-unpacking-user-frustration-and-misperception-with-apples-siri-17f)
+- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
+- [关于java的反射](https://dev.to/aquareo/guan-yu-javade-fan-she-fig)
+- [🚀 From Code to Cash: Panduan Lengkap Memilih Badan Usaha untuk Developer Indonesia](https://dev.to/frynnn/from-code-to-cash-panduan-lengkap-memilih-badan-usaha-untuk-developer-indonesia-4j5i)
+- [Ethereum Approaches $3,600: A Developer’s Perspective on Price Dynamics, Market Making, and Technical Resistance](https://dev.to/alexnav/ethereum-approaches-3600-a-developers-perspective-on-price-dynamics-market-making-and-308n)
+- [The One Chart That Will Change How Your Dev Team Builds Software](https://dev.to/teamcamp/the-one-chart-that-will-change-how-your-dev-team-builds-software-2e7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
