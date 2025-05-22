@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Summer 2025 Internships at Fermyon](https://dev.to/fermyon/summer-2025-internships-at-fermyon-2ie7)
-- [Every time a new model comes out it unlocks something new. Cannot wait to share what I am shipping next 🤗](https://dev.to/lilouartz/every-time-a-new-model-comes-out-it-unlocks-something-new-cannot-wait-to-share-what-i-am-shipping-5a2i)
-- [Super impressed by how actionable this was. I’ve bookmarked it and shared it with three people already.](https://dev.to/themooreperspective/super-impressed-by-how-actionable-this-was-ive-bookmarked-it-and-shared-it-with-three-people-838)
-- [I didn’t expect an article on email to be this insightful. I’m already rethinking how I write every message.](https://dev.to/thearmi/i-didnt-expect-an-article-on-email-to-be-this-insightful-im-already-rethinking-how-i-write-every-4531)
-- [Paracetamol.ts💊| #36: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-36-explica-este-codigo-typescript-40bp)
+- [AI for New Developers – Part 1: What AI Can &lpar;and Can’t&rpar; Actually Help With](https://dev.to/thecaptaindumbass/ai-for-new-developers-part-1-what-ai-can-and-cant-actually-help-with-2epa)
+- [In-depth Look at JavaScript&#39;s Internal Slot Mechanics](https://dev.to/omriluz1/in-depth-look-at-javascripts-internal-slot-mechanics-117j)
+- [[Boost]](https://dev.to/ben/-ljm)
+- [How I Manage Localhost Port Conflicts With an AI Agent](https://dev.to/blockopensource/how-i-manage-localhost-port-conflicts-with-an-ai-agent-l80)
+- [Tools and Demo Based on Existing .NET JSON Schema Components](https://dev.to/zijianhuang/tools-and-demo-based-on-existing-net-json-schema-components-1h05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
