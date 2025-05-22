@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting a single value from a device&#39;s state in Home Assistant](https://dev.to/nfrankel/getting-a-single-value-from-a-devices-state-in-home-assistant-ci)
-- [Mastering Salesforce Flow in 2025: Pro Tips to Automate Smarter, Not Harder](https://dev.to/softat_c9baa9555054f52b2e/mastering-salesforce-flow-in-2025-pro-tips-to-automate-smarter-not-harder-56cg)
-- [How Predictive Analytics Is Transforming Modern Manufacturing](https://dev.to/priyansh_shah_786ec03624e/how-predictive-analytics-is-transforming-modern-manufacturing-46fm)
-- [Unlocking Digital Excellence with Microsoft 365 E3](https://dev.to/roshan_karki_f2b61b26c3a8/unlocking-digital-excellence-with-microsoft-365-e3-plh)
-- [Encore&#39;s MCP Server lets your AI tools introspect your app](https://dev.to/encore/encores-mcp-server-lets-your-ai-tools-introspect-your-app-2h22)
+- [How to pay the difference when upgrading from VIP to SVIP on the website?](https://dev.to/selenium39/how-to-pay-the-difference-when-upgrading-from-vip-to-svip-on-the-website-2f1g)
+- [🧠 Who Programmed a Programming Language to Program a Program to Program Programs?](https://dev.to/e-tech/who-programmed-a-programming-language-to-program-a-program-to-program-programs-41a9)
+- [HarmonyOSNext-The Basic Composition of a Cangjie Program](https://dev.to/rorylhj/harmonyosnext-the-basic-composition-of-a-cangjie-program-3e03)
+- [Web Components: Build UI Kits for all UI Frameworks](https://dev.to/codelikeandrew/web-components-build-ui-kits-for-all-ui-frameworks-2172)
+- [Local‑LLM “OpenAI‑Compatible” Platform – Design Doc](https://dev.to/dhanush___b/local-llm-openai-compatible-platform-design-doc-j8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
