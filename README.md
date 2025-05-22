@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Never lose valuable error context in JavaScript](https://dev.to/amnish04/never-lose-valuable-error-context-in-javascript-3aco)
-- [🚀@zeroopensource/zero-id v0.0.2 is live!](https://dev.to/zeroopensource/zeroopensourcezero-id-v002-is-live-5dkn)
-- [Capstone notes p2](https://dev.to/donnellycarroll/capstone-notes-p2-42cn)
-- [🚀@zeroopensource/zero-id v0.0.1 is live!](https://dev.to/zeroopensource/zeroopensourcezero-id-v001-is-live-3h4g)
-- [How To Introduce a New API Quickly Using Quarkus and ChatGPT](https://dev.to/johnjvester/how-to-introduce-a-new-api-quickly-using-quarkus-and-chatgpt-4e6e)
+- [Why is my React component flickering?](https://dev.to/werliton/why-is-my-react-component-flickering-45ej)
+- [Introducing Zod 4 – Super Fast, Lightweight, and Packed with Powerful Features!](https://dev.to/wildboar_developer/introducing-zod-4-super-fast-lightweight-and-packed-with-powerful-features-4fkg)
+- [Statistics by Time Window — From SQL to SPL #31](https://dev.to/judith677/statistics-by-time-window-from-sql-to-spl-31-387b)
+- [🧼 How to Write Clean React Code](https://dev.to/leap_chanvuthy_87d0e3c919/how-to-write-clean-react-code-4244)
+- [How Second-Brain built an AI system for financial institutions with NocoBase](https://dev.to/nocobase/how-second-brain-built-an-ai-system-for-financial-institutions-with-nocobase-2jln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
