@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for New Developers – Part 1: What AI Can &lpar;and Can’t&rpar; Actually Help With](https://dev.to/thecaptaindumbass/ai-for-new-developers-part-1-what-ai-can-and-cant-actually-help-with-2epa)
-- [In-depth Look at JavaScript&#39;s Internal Slot Mechanics](https://dev.to/omriluz1/in-depth-look-at-javascripts-internal-slot-mechanics-117j)
-- [[Boost]](https://dev.to/ben/-ljm)
-- [How I Manage Localhost Port Conflicts With an AI Agent](https://dev.to/blockopensource/how-i-manage-localhost-port-conflicts-with-an-ai-agent-l80)
-- [Tools and Demo Based on Existing .NET JSON Schema Components](https://dev.to/zijianhuang/tools-and-demo-based-on-existing-net-json-schema-components-1h05)
+- [Why Hybrid Cloud Isn’t Just a Buzzword, It’s a Business Imperative in 2025](https://dev.to/shlok-talepa/why-hybrid-cloud-isnt-just-a-buzzword-its-a-business-imperative-in-2025-1g3o)
+- [As A DevOps Engineer: What Are The Best Practices To Boost Performance? Any Expert Who Can Guide Through This To All](https://dev.to/shlok-talepa/as-a-devops-engineer-what-are-the-best-practices-to-boost-performance-any-expert-who-can-guide-36lm)
+- [Fullstack Authentication with Next.js and ASP.NET Core over Secure Cross-Domain Cookies](https://dev.to/sinjulmsbh/fullstack-authentication-with-nextjs-and-aspnet-core-over-secure-cross-domain-cookies-4i3g)
+- [Is devstral really agent friendly?](https://dev.to/techgirl1908/is-devstral-really-agent-friendly-5e5k)
+- [Introduction to Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/ebereplenty/introduction-to-object-oriented-programming-oop-in-javascript-5cfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
