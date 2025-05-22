@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rising Beyond Routine](https://dev.to/rawveg/rising-beyond-routine-1blh)
-- [readonly vs disabled in Rails Forms](https://dev.to/jessalejo/readonly-vs-disabled-in-rails-forms-47cj)
-- [mkdir &quot;No-google-AI-overviews&quot; &amp;&amp; man &quot;google AI overviews&quot; &amp;&amp; rm &quot;google AI overviews&quot;](https://dev.to/junaid_dev/mkdir-no-google-ai-overviews-man-google-ai-overviews-rm-google-ai-overviews-2mn3)
-- [🐍 Building a Classic Snake Game with Amazon Q CLI &amp; Pygame](https://dev.to/swayam_nax_c16b4a31a4026f/building-a-classic-snake-game-with-amazon-q-cli-pygame-md5)
-- [Simple Firewall with ufw or firewalld](https://dev.to/salamilinux/simple-firewall-with-ufw-or-firewalld-i9d)
+- [Never lose valuable error context in JavaScript](https://dev.to/amnish04/never-lose-valuable-error-context-in-javascript-3aco)
+- [🚀@zeroopensource/zero-id v0.0.2 is live!](https://dev.to/zeroopensource/zeroopensourcezero-id-v002-is-live-5dkn)
+- [Capstone notes p2](https://dev.to/donnellycarroll/capstone-notes-p2-42cn)
+- [🚀@zeroopensource/zero-id v0.0.1 is live!](https://dev.to/zeroopensource/zeroopensourcezero-id-v001-is-live-3h4g)
+- [How To Introduce a New API Quickly Using Quarkus and ChatGPT](https://dev.to/johnjvester/how-to-introduce-a-new-api-quickly-using-quarkus-and-chatgpt-4e6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
