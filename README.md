@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pay the difference when upgrading from VIP to SVIP on the website?](https://dev.to/selenium39/how-to-pay-the-difference-when-upgrading-from-vip-to-svip-on-the-website-2f1g)
-- [🧠 Who Programmed a Programming Language to Program a Program to Program Programs?](https://dev.to/e-tech/who-programmed-a-programming-language-to-program-a-program-to-program-programs-41a9)
-- [HarmonyOSNext-The Basic Composition of a Cangjie Program](https://dev.to/rorylhj/harmonyosnext-the-basic-composition-of-a-cangjie-program-3e03)
-- [Web Components: Build UI Kits for all UI Frameworks](https://dev.to/codelikeandrew/web-components-build-ui-kits-for-all-ui-frameworks-2172)
-- [Local‑LLM “OpenAI‑Compatible” Platform – Design Doc](https://dev.to/dhanush___b/local-llm-openai-compatible-platform-design-doc-j8a)
+- [I want to run a machine learning code](https://dev.to/zakaria_mustakeem_21cc430/i-want-to-run-a-machine-learning-code-p1j)
+- [How I Built a CSS Container Query Converter To Make my Work Easier](https://dev.to/webutilitylabs/how-i-built-a-css-container-query-converter-to-make-my-work-easier-30gm)
+- [What is Firewall Configuration?](https://dev.to/clouddefenseai/what-is-firewall-configuration-5bd9)
+- [How to Tell if Your Mac Is Being Remotely Accessed &lpar;And What To Do About It&rpar;](https://dev.to/sagar_2006/how-to-tell-if-your-mac-is-being-remotely-accessed-and-what-to-do-about-it-21e8)
+- [The “Events” Module in OneEntry: Automation and Integrations on a New Level](https://dev.to/oneentry/the-events-module-in-oneentry-automation-and-integrations-on-a-new-level-2idi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
