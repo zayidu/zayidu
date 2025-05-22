@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling CORS in Flask](https://dev.to/reynaldi/enabling-cors-in-flask-120n)
-- [How to pass a TypeScript function as a parameter](https://dev.to/logrocket/how-to-pass-a-typescript-function-as-a-parameter-2572)
-- [Qubit-Efficient Encoding Techniques for Solving QUBO Problems](https://dev.to/supreethmv/qubit-efficient-encoding-techniques-for-solving-qubo-problems-4iad)
-- [JavaScript distinguish picture or alive person in webcam](https://dev.to/skac/javascript-distinguish-picture-or-alive-person-in-webcam-1j1a)
-- [Unmasking Linux: What Building From Scratch Truly Reveals 🐧](https://dev.to/bibek_khanal_863076fe9ec4/unmasking-linux-what-building-from-scratch-truly-reveals-4l9c)
+- [Dedicated Server vs. Cloud Hosting: What’s Best for Your Business in 2025?](https://dev.to/sanoja/dedicated-server-vs-cloud-hosting-whats-best-for-your-business-in-2025-2loh)
+- [Understanding the DOM in JavaScript: A Developer&#39;s Guide](https://dev.to/shifa_2/understanding-the-dom-in-javascript-a-developers-guide-5720)
+- [Top 10 Ways To Use AI for DevOps](https://dev.to/harman_diaz/top-10-ways-to-use-ai-for-devops-4m9o)
+- [Span&lt;T&gt; en C#](https://dev.to/habib_baraket/span-en-c-4ele)
+- [Day-2:Resume build in frontend](https://dev.to/pavithra_c_butterfly/day-2resume-build-in-frontend-2dej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
