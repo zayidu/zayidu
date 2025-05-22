@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Free Figma Plugins &amp; Libraries for Illustrations in 2025](https://dev.to/smartterss/top-5-free-figma-plugins-libraries-for-illustrations-in-2025-1821)
-- [Destructor in python](https://dev.to/muskanfatim/destructor-in-python-380e)
-- [📘AI Fundamentals: What Everyone Should Know in the Age of Artificial Intelligence](https://dev.to/furqanahmadrao/ai-fundamentals-what-everyone-should-know-in-the-age-of-artificial-intelligence-3gmm)
-- [Rate Limiting Hono Apps: An Introduction](https://dev.to/ambergristle/an-introduction-to-rate-limiting-3j0)
-- [Understanding Stale Closures in React: Common Pitfalls and How to Avoid Them](https://dev.to/wildboar_developer/understanding-stale-closures-in-react-common-pitfalls-and-how-to-avoid-them-1j3p)
+- [How to Use Transcription to Make YouTube Videos Searchable &lpar;And SEO-Friendly&rpar;](https://dev.to/shruti_saraswat_c258d5934/how-to-use-transcription-to-make-youtube-videos-searchable-and-seo-friendly-1o0j)
+- [Exploring Blockchain Variants: Public, Private, Consortium, and Hybrid](https://dev.to/ahmmrizv9/exploring-blockchain-variants-public-private-consortium-and-hybrid-17nn)
+- [SQL COALESCE Explained: Simplify NULL Handling in Queries](https://dev.to/pythontutorial/sql-coalesce-explained-simplify-null-handling-in-queries-48d2)
+- [Unlocking Productivity and Security with Office 365 E3: A Smart Choice for Modern Enterprises](https://dev.to/roshan_karki_f2b61b26c3a8/unlocking-productivity-and-security-with-office-365-e3-a-smart-choice-for-modern-enterprises-2bhn)
+- [TypeScript Simplified: A Practical Guide for New Developers](https://dev.to/rishabhtpt/typescript-simplified-a-practical-guide-for-new-developers-g8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
