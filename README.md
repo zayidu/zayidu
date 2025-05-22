@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [noOp variable in n8n source code.](https://dev.to/ramunarasinga-11/noop-variable-in-n8n-source-code-d3d)
-- [Safari&#39;s Tab Key Trap: Why Your Website&#39;s Focus Navigation Might Be Breaking for Safari Users](https://dev.to/hawkchen/safaris-tab-key-trap-why-your-websites-focus-navigation-might-be-breaking-for-safari-users-5632)
-- [Rethinking API Versioning: Why Full Semantic Versioning Might Be an Anti-Pattern for Your API](https://dev.to/ralphsebastian/rethinking-api-versioning-why-full-semantic-versioning-might-be-an-anti-pattern-for-your-api-3h8b)
-- [RAG: Smarter AI Agents [Part 2]](https://dev.to/maksym_mosiura_7dd1c98618/rag-smarter-ai-agents-4ej9)
-- [How I Built an AWS Project Idea Generator Using AI](https://dev.to/aws-builders/how-i-built-an-aws-project-idea-generator-using-ai-oif)
+- [Top 5 Free Figma Plugins &amp; Libraries for Illustrations in 2025](https://dev.to/smartterss/top-5-free-figma-plugins-libraries-for-illustrations-in-2025-1821)
+- [Destructor in python](https://dev.to/muskanfatim/destructor-in-python-380e)
+- [📘AI Fundamentals: What Everyone Should Know in the Age of Artificial Intelligence](https://dev.to/furqanahmadrao/ai-fundamentals-what-everyone-should-know-in-the-age-of-artificial-intelligence-3gmm)
+- [Rate Limiting Hono Apps: An Introduction](https://dev.to/ambergristle/an-introduction-to-rate-limiting-3j0)
+- [Understanding Stale Closures in React: Common Pitfalls and How to Avoid Them](https://dev.to/wildboar_developer/understanding-stale-closures-in-react-common-pitfalls-and-how-to-avoid-them-1j3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
