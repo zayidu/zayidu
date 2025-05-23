@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built open-source app to stop micromanaging my finance](https://dev.to/skorphil/i-built-open-source-app-to-stop-micromanaging-my-finance-36n0)
-- [Testing Blockchains: What to Watch Out For](https://dev.to/leo_scott_357f10236fabe00/testing-blockchains-what-to-watch-out-for-4cdc)
-- [Polyfill for CSS sign&lpar;&rpar;](https://dev.to/georgeadamson/polyfill-for-css-sign-2019)
-- [DATA CLEANING MADE EASY](https://dev.to/divyanshi_kulkarni_633311/data-cleaning-made-easy-1cf3)
-- [What Is Cybersecurity, Really? Separating Myth from Reality](https://dev.to/lawsonpeters/what-is-cybersecurity-really-separating-myth-from-reality-93g)
+- [i-DROP PUR Gel Where to Buy Your Guide to Soothing Dry Eyes](https://dev.to/wadav-cbf8e95ba2bc69/i-drop-pur-gel-where-to-buy-your-guide-to-soothing-dry-eyes-1k32)
+- [How to add markdown to a Next.js project](https://dev.to/christopher_posada_76c4d0/how-to-add-markdown-to-a-nextjs-project-2bmf)
+- [🎨 Add Some Personality to Your Terminal with Figlet and Lolcat 🌈](https://dev.to/ldwit/add-some-personality-to-your-terminal-with-figlet-and-lolcat-3mlk)
+- [The future of passwords is bright](https://dev.to/bogomil/the-future-of-passwords-is-bright-4g2e)
+- [Day 6 - User events in Components](https://dev.to/railsstudent/day-6-user-events-in-components-10ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
