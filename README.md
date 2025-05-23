@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-23lk)
-- [Tuple in Python &lpar;1&rpar;](https://dev.to/hyperkai/tuple-in-python-1-ndc)
-- [Leetcode 57. Insert Interval](https://dev.to/rohithv07/leetcode-57-insert-interval-ifk)
-- [Why Your Code&#39;s First Line Is a Promise](https://dev.to/tonystpierre/why-your-codes-first-line-is-a-promise-9o4)
-- [InstantLet — Fast, Free Cover Letter Generator](https://dev.to/solo_developper_73e375880/instantlet-fast-free-cover-letter-generator-1io7)
+- [First post &lpar;ദ്ദി • • &rpar;](https://dev.to/etherealedith/first-post-ddi--1e16)
+- [AI Trap for programmers beginners](https://dev.to/etherealedith/ai-trap-for-programmers-beginners-372i)
+- [How to Quickly Identify the Cause When You Can&#39;t Eject a Disk on Mac &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-quickly-identify-the-cause-when-you-cant-eject-a-disk-on-mac-bite-size-article-13fd)
+- [10 VS Code Extensions To Become The Ultimate Developer🔥](https://dev.to/anthonymax/10-vs-code-extensions-to-become-the-ultimate-developer-348)
+- [How Are Emerging Economies Attracting Foreign Investment?](https://dev.to/marketdaily/how-are-emerging-economies-attracting-foreign-investment-13j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
