@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Whimsy: a Tiny Game Engine I Made for Storytellers](https://dev.to/cosmomyzrailgorynych/whimsy-a-tiny-game-engine-i-made-for-storytellers-27ed)
-- [This gave me a new perspective as both a client and a former freelancer. Super well done.](https://dev.to/dominiquedvln/this-gave-me-a-new-perspective-as-both-a-client-and-a-former-freelancer-super-well-done-1k2g)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4g4c)
-- [Who&#39;s Still Podcasting About Elixir? &lpar;May 2025 Edition&rpar;](https://dev.to/adolfont/active-elixir-podcasts-on-may-2025-1kcl)
-- [🚀 From Frustration to Flow: How I Finally Mastered Debugging Like a Pro](https://dev.to/codedbyvilen/from-frustration-to-flow-how-i-finally-mastered-debugging-like-a-pro-2nab)
+- [Greedy Snake Built Using Amazon Q CLI and Amazon Q Extension](https://dev.to/aws-builders/greedy-snake-built-using-amazon-q-cli-and-amazon-q-extension-5691)
+- [CI/CD for Mobile vs. Web: Why Mobile Feels Like Herding Cats &lpar;and Web is Walk in the Park&rpar; 🐱🌐](https://dev.to/alex_aslam/cicd-for-mobile-vs-web-why-mobile-feels-like-herding-cats-and-web-is-walk-in-the-park-47fb)
+- [How to Build an Android App to Control Your Automatic Gate via Wi-Fi](https://dev.to/karen_londres/how-to-build-an-android-app-to-control-your-automatic-gate-via-wi-fi-2dd8)
+- [How to Get Claude Opus 4 &amp; Claude Sonnet 4 API via CometAPI](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-claude-opus-4-claude-sonnet-4-api-via-cometapi-55c5)
+- [Aprenda padrões de projeto, mas não se apegue às implementações](https://dev.to/scotuzzijr/aprenda-padroes-de-projeto-mas-nao-se-apegue-as-implementacoes-20o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
