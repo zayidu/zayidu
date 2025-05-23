@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [i-DROP PUR Gel Where to Buy Your Guide to Soothing Dry Eyes](https://dev.to/wadav-cbf8e95ba2bc69/i-drop-pur-gel-where-to-buy-your-guide-to-soothing-dry-eyes-1k32)
-- [How to add markdown to a Next.js project](https://dev.to/christopher_posada_76c4d0/how-to-add-markdown-to-a-nextjs-project-2bmf)
-- [🎨 Add Some Personality to Your Terminal with Figlet and Lolcat 🌈](https://dev.to/ldwit/add-some-personality-to-your-terminal-with-figlet-and-lolcat-3mlk)
-- [The future of passwords is bright](https://dev.to/bogomil/the-future-of-passwords-is-bright-4g2e)
-- [Day 6 - User events in Components](https://dev.to/railsstudent/day-6-user-events-in-components-10ll)
+- [Whimsy: a Tiny Game Engine I Made for Storytellers](https://dev.to/cosmomyzrailgorynych/whimsy-a-tiny-game-engine-i-made-for-storytellers-27ed)
+- [This gave me a new perspective as both a client and a former freelancer. Super well done.](https://dev.to/dominiquedvln/this-gave-me-a-new-perspective-as-both-a-client-and-a-former-freelancer-super-well-done-1k2g)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4g4c)
+- [Who&#39;s Still Podcasting About Elixir? &lpar;May 2025 Edition&rpar;](https://dev.to/adolfont/active-elixir-podcasts-on-may-2025-1kcl)
+- [🚀 From Frustration to Flow: How I Finally Mastered Debugging Like a Pro](https://dev.to/codedbyvilen/from-frustration-to-flow-how-i-finally-mastered-debugging-like-a-pro-2nab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
