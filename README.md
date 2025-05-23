@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Website Without a Strategy Behind it Is Doomed to Fail](https://dev.to/web_dev-usman/a-website-without-a-strategy-behind-it-is-doomed-to-fail-47m4)
-- [5G-Ready Web Application Development](https://dev.to/bridgegroupsolutions/5g-ready-web-application-development-1pkn)
-- [【HarmonyOS 5】如何给未知类型对象定义类型并使用递归打印所有的Key](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-guan-jian-zi-chan-cun-chu-kai-fa-an-li-5cg8)
-- [🎯 How to Structure the Perfect Answer for “Tell Me About Yourself” in 2025 Interviews 🗣️](https://dev.to/finalroundai/how-to-structure-the-perfect-answer-for-tell-me-about-yourself-in-2025-interviews-270o)
-- [Figma 2025 just dropped major upgrades: Smart Auto Layout, AI Suggestions, and more! 🔥 #FigmaUpdate #UXTools](https://dev.to/swetty_sultania_834f90237/figma-2025-just-dropped-major-upgrades-smart-auto-layout-ai-suggestions-and-more-figmaupdate-4l0h)
+- [🧠 Microsoft Lays Off 6,000 Employees to Prioritize AI – What This Means for Tech Jobs](https://dev.to/techbooktrends_58f8ebcb4b/microsoft-lays-off-6000-employees-to-prioritize-ai-what-this-means-for-tech-jobs-2mho)
+- [Why Every Business Needs a Smart Data Sourcing Strategy](https://dev.to/samuel_mitter_06d9e3f9c78/why-every-business-needs-a-smart-data-sourcing-strategy-4loo)
+- [How to Perform a Local SEO Audit for Your Business](https://dev.to/threeglogic3/how-to-perform-a-local-seo-audit-for-your-business-1d0e)
+- [Building a Custom Scheduler for JavaScript Tasks](https://dev.to/omriluz1/building-a-custom-scheduler-for-javascript-tasks-4ffd)
+- [Construindo um Servidor TCP com Proto.Actor: Explorando o Modelo de Atores no .NET](https://dev.to/actor-dev/construindo-um-servidor-tcp-com-protoactor-explorando-o-modelo-de-atores-no-net-3adn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
