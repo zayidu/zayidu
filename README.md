@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 29/ 30 Days of Linux Mastery: if Statements in Shell Scripting for Beginners](https://dev.to/amandaigwe/day-29-30-days-of-linux-mastery-if-statements-in-shell-scripting-for-beginners-25eb)
-- [Unlock Fun &amp; Productivity: Introducing the Warner Bros Retro Board for Your Agile Sprint Retrospectives](https://dev.to/nargiz_abbasova/unlock-fun-productivity-introducing-the-warner-bros-retro-board-for-your-agile-sprint-1ia4)
-- [Remote MCP Servers &amp; SSE: Unlocking AI Integration for Websites, Apps, and SEO](https://dev.to/sebastiandevelops/remote-mcp-servers-sse-unlocking-ai-integration-for-websites-apps-and-seo-npp)
-- [PostgreSQL &lpar;with JSONB&rpar; and MongoDB &lpar;with schema&rpar;](https://dev.to/franckpachot/postgresql-with-jsonb-and-mongodb-with-schema-2nh0)
-- [How to use AI to improve your web research BPO services](https://dev.to/india_dataentryhelp_068/how-to-use-ai-to-improve-your-web-research-bpo-services-4hod)
+- [Hey guys! I just wrote a post about the history of Fusor development. If you&#39;re interested in modern frontend, you&#39;re welcome to check it out!](https://dev.to/isumix/hey-guys-i-just-wrote-a-post-about-the-history-of-fusor-development-if-youre-interested-in-26kd)
+- [🧠 AI Agents Are the New DevOps: How Autonomous Agents Are Redefining Software Engineering](https://dev.to/jadzeino/ai-agents-are-the-new-devops-how-autonomous-agents-are-redefining-software-engineering-11fd)
+- [See What Qwen3-235B-A22B found about me.](https://dev.to/aniruddhaadak_/see-what-qwen3-235b-a22b-found-about-me-3bb5)
+- [Enhancing QR Codes in the Age of GenAI](https://dev.to/worldlinetech/enhancing-qr-codes-in-the-age-of-genai-4fa6)
+- [Graph Databases Are Not Just for Social Networks](https://dev.to/dct_technology/graph-databases-are-not-just-for-social-networks-28f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
