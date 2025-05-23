@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Microsoft 365 Apps Every Business Should Use in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/top-7-microsoft-365-apps-every-business-should-use-in-2025-30cp)
-- [Maximizing Efficiency with Fleet Fuel Management: The Smart Move for Modern Fleet Operations](https://dev.to/hypernym_io/maximizing-efficiency-with-fleet-fuel-management-the-smart-move-for-modern-fleet-operations-47bi)
-- [🎓 How to become a product data expert with Sentric Academy &lpar;free and online&rpar;](https://dev.to/irene_beghini/how-to-become-a-product-data-expert-with-sentric-academy-free-and-online-40e4)
-- [🚀 Yo devs, wanna build collab apps that SLAP? Meet Jazz: the Real-Time Collab Framework That’s Straight Fire 🔥](https://dev.to/vikyw89/yo-devs-wanna-build-collab-apps-that-slap-meet-jazz-the-real-time-collab-framework-thats-23o)
-- [MySQL for beginners](https://dev.to/matheusfrg/mysql-for-beginners-1441)
+- [I built open-source app to stop micromanaging my finance](https://dev.to/skorphil/i-built-open-source-app-to-stop-micromanaging-my-finance-36n0)
+- [Testing Blockchains: What to Watch Out For](https://dev.to/leo_scott_357f10236fabe00/testing-blockchains-what-to-watch-out-for-4cdc)
+- [Polyfill for CSS sign&lpar;&rpar;](https://dev.to/georgeadamson/polyfill-for-css-sign-2019)
+- [DATA CLEANING MADE EASY](https://dev.to/divyanshi_kulkarni_633311/data-cleaning-made-easy-1cf3)
+- [What Is Cybersecurity, Really? Separating Myth from Reality](https://dev.to/lawsonpeters/what-is-cybersecurity-really-separating-myth-from-reality-93g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
