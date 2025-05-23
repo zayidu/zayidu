@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [login &amp; signup form with html css &amp; javascript](https://dev.to/baybin_baby_30c68118f4908/login-signup-form-with-html-css-javascript-o2i)
-- [Beginner’s Guide to Exception Handling in Spring Boot](https://dev.to/mohammedquasimda/beginners-guide-to-exception-handling-in-spring-boot-mo7)
-- [DevLog 20250522: Serverles &amp; Serverside vs Client Side Rendering](https://dev.to/methodox/devlog-20250522-serverles-serverside-vs-client-side-rendering-2n0h)
-- [🧑‍💻 Want to Become a Full Stack Developer? Here&#39;s Your Step-by-Step Roadmap 🚀 2025](https://dev.to/saif_uddin/want-to-become-a-full-stack-developer-heres-your-step-by-step-roadmap-2025-405k)
-- [Overdraw, Memory Leaks, ANR and Slow Rendering in Android Apps](https://dev.to/tohemt/overdraw-memory-leaks-anr-and-slow-rendering-in-android-apps-3njb)
+- [DaisyUI vs. shadcn/ui: A Clear Comparison for Frontend Devs 🎨](https://dev.to/truonggiangne/daisyui-vs-shadcnui-a-clear-comparison-for-frontend-devs-f0l)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
+- [Anime Design Pattern](https://dev.to/simwai/anime-design-pattern-1l9o)
+- [[Boost]](https://dev.to/nikhil_sachapara/-4ele)
+- [[Boost]](https://dev.to/naik_sejal/-73b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
