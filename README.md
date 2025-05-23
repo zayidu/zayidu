@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right APM Software: 5 Key Factors to Consider](https://dev.to/olivia_madison_b0ad7090ad/choosing-the-right-apm-software-5-key-factors-to-consider-4kfm)
-- [Mengatur Registry CmderMini di Windows 11](https://dev.to/pandito__/mengatur-registry-cmdermini-di-windows-11-3anb)
-- [Why Web Scrapers Rely Heavily on HTTP Proxies](https://dev.to/member_960fb7a7/why-web-scrapers-rely-heavily-on-http-proxies-405)
-- [Introducing Firsto – A New Way to Launch and Discover Indie Products](https://dev.to/tangsirongit/introducing-firsto-a-new-way-to-launch-and-discover-indie-products-25bb)
-- [Cloud-Native Architecture: A Deep Dive Into the Future of Application Development](https://dev.to/zopdev/cloud-native-architecture-a-deep-dive-into-the-future-of-application-development-2cbk)
+- [A Website Without a Strategy Behind it Is Doomed to Fail](https://dev.to/web_dev-usman/a-website-without-a-strategy-behind-it-is-doomed-to-fail-47m4)
+- [5G-Ready Web Application Development](https://dev.to/bridgegroupsolutions/5g-ready-web-application-development-1pkn)
+- [【HarmonyOS 5】如何给未知类型对象定义类型并使用递归打印所有的Key](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-guan-jian-zi-chan-cun-chu-kai-fa-an-li-5cg8)
+- [🎯 How to Structure the Perfect Answer for “Tell Me About Yourself” in 2025 Interviews 🗣️](https://dev.to/finalroundai/how-to-structure-the-perfect-answer-for-tell-me-about-yourself-in-2025-interviews-270o)
+- [Figma 2025 just dropped major upgrades: Smart Auto Layout, AI Suggestions, and more! 🔥 #FigmaUpdate #UXTools](https://dev.to/swetty_sultania_834f90237/figma-2025-just-dropped-major-upgrades-smart-auto-layout-ai-suggestions-and-more-figmaupdate-4l0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
