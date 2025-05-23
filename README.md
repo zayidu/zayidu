@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Every Tech YouTuber Try to Sell You a Course?](https://dev.to/chaoocharles/why-do-every-tech-youtuber-try-to-sell-you-a-course-3f1f)
-- [🚀 Building My Own Mars Rover Simulator with Python &amp; Tkinter](https://dev.to/supun_wickramarachchi_e74/building-my-own-mars-rover-simulator-with-python-tkinter-566d)
-- [Claude 4 is now available on Polite AI](https://dev.to/politeai/claude-4-is-now-available-on-polite-ai-2jhh)
-- [NLWeb: Microsoft&#39;s Open-Source Leap into AI-Powered Websites](https://dev.to/ashucommits/nlweb-microsofts-open-source-leap-into-ai-powered-websites-2bcm)
-- [Understanding Go Modules, Packages and main Package](https://dev.to/jad_core/understanding-go-modules-packages-and-main-package-16i3)
+- [💻 Hacking the Grid: How I Built CypherCore with Amazon Q CLI](https://dev.to/ahnafashiqueadi/hacking-the-grid-how-i-built-cyphercore-with-amazon-q-cli-575a)
+- [Build Your Own AI Code Generator From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-ai-code-generator-from-scratch-a-pocketflow-tutorial-2b65)
+- [Definitely bookmarking this. I’ve shared it with my team because these tips will help us improve how we work with external partners.](https://dev.to/theangeloreyes/definitely-bookmarking-this-ive-shared-it-with-my-team-because-these-tips-will-help-us-improve-g5e)
+- [Using ChatGPT](https://dev.to/nicm42/using-chatgpt-ppp)
+- [The Power of Boring Tech: Why Simple Tools Often Win](https://dev.to/sailman/the-power-of-boring-tech-why-simple-tools-often-win-28p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
