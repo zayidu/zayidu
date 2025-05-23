@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First post &lpar;ദ്ദി • • &rpar;](https://dev.to/etherealedith/first-post-ddi--1e16)
-- [AI Trap for programmers beginners](https://dev.to/etherealedith/ai-trap-for-programmers-beginners-372i)
-- [How to Quickly Identify the Cause When You Can&#39;t Eject a Disk on Mac &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-quickly-identify-the-cause-when-you-cant-eject-a-disk-on-mac-bite-size-article-13fd)
-- [10 VS Code Extensions To Become The Ultimate Developer🔥](https://dev.to/anthonymax/10-vs-code-extensions-to-become-the-ultimate-developer-348)
-- [How Are Emerging Economies Attracting Foreign Investment?](https://dev.to/marketdaily/how-are-emerging-economies-attracting-foreign-investment-13j1)
+- [AI&#39;s Human Horizon](https://dev.to/rawveg/ais-human-horizon-b58)
+- [Interactive Map](https://dev.to/macglencoe/interactive-map-fbe)
+- [Here&#39;s What I&#39;ve Created!](https://dev.to/james_ikenna_450624e7a650/heres-what-ive-created-2717)
+- [[Boost]](https://dev.to/anthonymax/-1opn)
+- [An Overview to OCI IAM Policies](https://dev.to/farisdurrani/an-overview-to-oci-iam-policies-2hp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
