@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Microsoft Lays Off 6,000 Employees to Prioritize AI – What This Means for Tech Jobs](https://dev.to/techbooktrends_58f8ebcb4b/microsoft-lays-off-6000-employees-to-prioritize-ai-what-this-means-for-tech-jobs-2mho)
-- [Why Every Business Needs a Smart Data Sourcing Strategy](https://dev.to/samuel_mitter_06d9e3f9c78/why-every-business-needs-a-smart-data-sourcing-strategy-4loo)
-- [How to Perform a Local SEO Audit for Your Business](https://dev.to/threeglogic3/how-to-perform-a-local-seo-audit-for-your-business-1d0e)
-- [Building a Custom Scheduler for JavaScript Tasks](https://dev.to/omriluz1/building-a-custom-scheduler-for-javascript-tasks-4ffd)
-- [Construindo um Servidor TCP com Proto.Actor: Explorando o Modelo de Atores no .NET](https://dev.to/actor-dev/construindo-um-servidor-tcp-com-protoactor-explorando-o-modelo-de-atores-no-net-3adn)
+- [Day 29/ 30 Days of Linux Mastery: if Statements in Shell Scripting for Beginners](https://dev.to/amandaigwe/day-29-30-days-of-linux-mastery-if-statements-in-shell-scripting-for-beginners-25eb)
+- [Unlock Fun &amp; Productivity: Introducing the Warner Bros Retro Board for Your Agile Sprint Retrospectives](https://dev.to/nargiz_abbasova/unlock-fun-productivity-introducing-the-warner-bros-retro-board-for-your-agile-sprint-1ia4)
+- [Remote MCP Servers &amp; SSE: Unlocking AI Integration for Websites, Apps, and SEO](https://dev.to/sebastiandevelops/remote-mcp-servers-sse-unlocking-ai-integration-for-websites-apps-and-seo-npp)
+- [PostgreSQL &lpar;with JSONB&rpar; and MongoDB &lpar;with schema&rpar;](https://dev.to/franckpachot/postgresql-with-jsonb-and-mongodb-with-schema-2nh0)
+- [How to use AI to improve your web research BPO services](https://dev.to/india_dataentryhelp_068/how-to-use-ai-to-improve-your-web-research-bpo-services-4hod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
