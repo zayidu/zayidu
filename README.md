@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching in Frontend Development: A Guide to Faster and Smarter Web Apps](https://dev.to/toni_naumoski_mk/caching-in-frontend-development-a-guide-to-faster-and-smarter-web-apps-2de9)
-- [7 Modern Use Cases of IIFE](https://dev.to/ycmjason/7-modern-use-cases-of-iife-50ej)
-- [.Wait&lpar;&rpar; or .Result on a Task in an async context](https://dev.to/habib_baraket/wait-or-result-on-a-task-in-an-async-context-2bbh)
-- [This kind of insight is what separates smart hiring from guesswork. Really appreciate the depth here.](https://dev.to/zaramercer89/this-kind-of-insight-is-what-separates-smart-hiring-from-guesswork-really-appreciate-the-depth-i83)
-- [Numeric comparison in CSS](https://dev.to/georgeadamson/numeric-comparison-in-css-4mbj)
+- [I Built a NEPSE Share Calculator for Nepal’s Stock Traders – Here’s Why &amp; How](https://dev.to/iamvibecoder/i-built-a-nepse-share-calculator-for-nepals-stock-traders-heres-why-how-42a1)
+- [Active Record: O Coração dos Modelos no Rails](https://dev.to/marcosfernandesdev/active-record-o-coracao-dos-modelos-no-rails-2gdp)
+- [Taming Your First Docker Build in 5 Minutes](https://dev.to/infraforge-dev/taming-your-first-docker-build-in-5-minutes-2nod)
+- [Just Launched: Snow Days Calculator – Predict School Closures with Weather Data](https://dev.to/iamvibecoder/just-launched-snow-days-calculator-predict-school-closures-with-weather-data-5bn9)
+- [How Great Developers Handle Critique Without Flinching](https://dev.to/tonystpierre/how-great-developers-handle-critique-without-flinching-40le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
