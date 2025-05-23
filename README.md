@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a NEPSE Share Calculator for Nepal’s Stock Traders – Here’s Why &amp; How](https://dev.to/iamvibecoder/i-built-a-nepse-share-calculator-for-nepals-stock-traders-heres-why-how-42a1)
-- [Active Record: O Coração dos Modelos no Rails](https://dev.to/marcosfernandesdev/active-record-o-coracao-dos-modelos-no-rails-2gdp)
-- [Taming Your First Docker Build in 5 Minutes](https://dev.to/infraforge-dev/taming-your-first-docker-build-in-5-minutes-2nod)
-- [Just Launched: Snow Days Calculator – Predict School Closures with Weather Data](https://dev.to/iamvibecoder/just-launched-snow-days-calculator-predict-school-closures-with-weather-data-5bn9)
-- [How Great Developers Handle Critique Without Flinching](https://dev.to/tonystpierre/how-great-developers-handle-critique-without-flinching-40le)
+- [Why Do Every Tech YouTuber Try to Sell You a Course?](https://dev.to/chaoocharles/why-do-every-tech-youtuber-try-to-sell-you-a-course-3f1f)
+- [🚀 Building My Own Mars Rover Simulator with Python &amp; Tkinter](https://dev.to/supun_wickramarachchi_e74/building-my-own-mars-rover-simulator-with-python-tkinter-566d)
+- [Claude 4 is now available on Polite AI](https://dev.to/politeai/claude-4-is-now-available-on-polite-ai-2jhh)
+- [NLWeb: Microsoft&#39;s Open-Source Leap into AI-Powered Websites](https://dev.to/ashucommits/nlweb-microsofts-open-source-leap-into-ai-powered-websites-2bcm)
+- [Understanding Go Modules, Packages and main Package](https://dev.to/jad_core/understanding-go-modules-packages-and-main-package-16i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
