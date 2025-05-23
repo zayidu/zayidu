@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Implications of JavaScript Closures](https://dev.to/omriluz1/performance-implications-of-javascript-closures-2kia)
-- [Internet Protocols Explained IP, TCP, UDP, HTTP in 60s](https://dev.to/stasxreal/internet-protocols-explained-ip-tcp-udp-http-in-60s-55l8)
-- [🛠️ Build Better Laravel Apps with Service Interfaces, Providers &amp; Requests](https://dev.to/tahsin000/build-better-laravel-apps-with-service-interfaces-providers-requests-real-life-step-by-step-1p3m)
-- [Validation in Blazor](https://dev.to/pascal_vorwerk/validation-in-blazor-3e3c)
-- [A Beginner&#39;s Guide to Getting Started with Multimodality in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-multimodality-in-langchain-195)
+- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-23lk)
+- [Tuple in Python &lpar;1&rpar;](https://dev.to/hyperkai/tuple-in-python-1-ndc)
+- [Leetcode 57. Insert Interval](https://dev.to/rohithv07/leetcode-57-insert-interval-ifk)
+- [Why Your Code&#39;s First Line Is a Promise](https://dev.to/tonystpierre/why-your-codes-first-line-is-a-promise-9o4)
+- [InstantLet — Fast, Free Cover Letter Generator](https://dev.to/solo_developper_73e375880/instantlet-fast-free-cover-letter-generator-1io7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
