@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DaisyUI vs. shadcn/ui: A Clear Comparison for Frontend Devs 🎨](https://dev.to/truonggiangne/daisyui-vs-shadcnui-a-clear-comparison-for-frontend-devs-f0l)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
-- [Anime Design Pattern](https://dev.to/simwai/anime-design-pattern-1l9o)
-- [[Boost]](https://dev.to/nikhil_sachapara/-4ele)
-- [[Boost]](https://dev.to/naik_sejal/-73b)
+- [📡 A Practical Guide to Using WebSockets in Real-Time Apps](https://dev.to/hasunnilupul/a-practical-guide-to-using-websockets-in-real-time-apps-127i)
+- [Exploring Firebase Storage with React](https://dev.to/debajit13/exploring-firebase-storage-with-react-5424)
+- [Open source AI stack components](https://dev.to/tak089/open-source-ai-stack-components-2lnf)
+- [Kubernetes: Orchestrate Like a Maestro](https://dev.to/wittedtech-by-harshit/kubernetes-orchestrate-like-a-maestro-55he)
+- [🔋 Powering Precision Unleash the Future of Motor Testing with Hysteresis Innovation](https://dev.to/greendog3/powering-precision-unleash-the-future-of-motor-testing-with-hysteresis-innovation-2cde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
