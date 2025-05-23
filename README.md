@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey guys! I just wrote a post about the history of Fusor development. If you&#39;re interested in modern frontend, you&#39;re welcome to check it out!](https://dev.to/isumix/hey-guys-i-just-wrote-a-post-about-the-history-of-fusor-development-if-youre-interested-in-26kd)
-- [🧠 AI Agents Are the New DevOps: How Autonomous Agents Are Redefining Software Engineering](https://dev.to/jadzeino/ai-agents-are-the-new-devops-how-autonomous-agents-are-redefining-software-engineering-11fd)
-- [See What Qwen3-235B-A22B found about me.](https://dev.to/aniruddhaadak_/see-what-qwen3-235b-a22b-found-about-me-3bb5)
-- [Enhancing QR Codes in the Age of GenAI](https://dev.to/worldlinetech/enhancing-qr-codes-in-the-age-of-genai-4fa6)
-- [Graph Databases Are Not Just for Social Networks](https://dev.to/dct_technology/graph-databases-are-not-just-for-social-networks-28f7)
+- [Top 7 Microsoft 365 Apps Every Business Should Use in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/top-7-microsoft-365-apps-every-business-should-use-in-2025-30cp)
+- [Maximizing Efficiency with Fleet Fuel Management: The Smart Move for Modern Fleet Operations](https://dev.to/hypernym_io/maximizing-efficiency-with-fleet-fuel-management-the-smart-move-for-modern-fleet-operations-47bi)
+- [🎓 How to become a product data expert with Sentric Academy &lpar;free and online&rpar;](https://dev.to/irene_beghini/how-to-become-a-product-data-expert-with-sentric-academy-free-and-online-40e4)
+- [🚀 Yo devs, wanna build collab apps that SLAP? Meet Jazz: the Real-Time Collab Framework That’s Straight Fire 🔥](https://dev.to/vikyw89/yo-devs-wanna-build-collab-apps-that-slap-meet-jazz-the-real-time-collab-framework-thats-23o)
+- [MySQL for beginners](https://dev.to/matheusfrg/mysql-for-beginners-1441)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
