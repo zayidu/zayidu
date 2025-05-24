@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 30/ 30 Days of Linux Mastery: Mastering &#39;for&#39;, &#39;do&#39;, &#39;while&#39;, and &#39;case&#39; Statements in Shell Scripts](https://dev.to/amandaigwe/day-30-30-days-of-linux-mastery-mastering-for-do-while-and-case-statements-in-shell-3ha0)
-- [Inside a emoji-picker-react: State, Events, and UI Patterns](https://dev.to/ruturajgh/inside-a-emoji-picker-react-state-events-and-ui-patterns-4a13)
-- [The simplest way to add Google sign-in to your Next.js app ✍](https://dev.to/tomdekan/the-simplest-way-to-add-google-sign-in-to-your-nextjs-app-3237)
-- [Selective test execution mechanism with Playwright using GitHub Actions](https://dev.to/denis_skvortsov/selective-test-execution-mechanism-with-playwright-using-github-actions-862)
-- [DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity](https://dev.to/wininlife_academy_14d5cee/dns-footprinting-essential-reconnaissance-for-proactive-cybersecurity-1ci8)
+- [13 Free Web-Based Developer Tools You&#39;ll Actually Use](https://dev.to/sayem314/13-free-web-based-developer-tools-youll-actually-use-3j4p)
+- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-oo)
+- [Padrão Repository: A Abstração que Transformou o Acesso a Dados em Aplicações .NET](https://dev.to/gustavo_cremonez/padrao-repository-a-abstracao-que-transformou-o-acesso-a-dados-em-aplicacoes-net-21pn)
+- [For Speed Enthusiasts: The Ultimate Evolution of Rust HTTP Engines](https://dev.to/_95e41982c9ad08a13458d/for-speed-enthusiasts-the-ultimate-evolution-of-rust-http-engines-3ei1)
+- [WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-26o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
