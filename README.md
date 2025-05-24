@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Without Limits: How No-Code Tools Like Webflow, Wix &amp; Bubble Are Redefining the Future of Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/build-without-limits-how-no-code-tools-like-webflow-wix-bubble-are-redefining-the-future-of-web-1n14)
-- [Agile Lessons: Navigating Shifting Priorities in a Tech Career](https://dev.to/pratikshya_behera_/agile-lessons-navigating-shifting-priorities-in-a-tech-career-p84)
-- [🚀 Build a Beautiful CLI Dashboard in Python using pyfiglet + rich!!!](https://dev.to/nish2005karsh/build-a-beautiful-cli-dashboard-in-python-using-pyfiglet-rich-1ji8)
-- [Claude 4: Opus vs Sonnet, Benchmarks, and Dev Workflow with Claude Code](https://dev.to/nodeshiftcloud/claude-4-opus-vs-sonnet-benchmarks-and-dev-workflow-with-claude-code-11fa)
-- [The Best JavaScript Course on YouTube – Learn with Shashank Yadav](https://dev.to/coder_01/the-best-javascript-course-on-youtube-learn-with-shashank-yadav-50d7)
+- [Lepsza Inicjalizacja Tablic 2D | Better 2D Array Init](https://dev.to/owieczka/lepsza-inicjalizacja-tablic-2d-better-2d-array-init-3ogp)
+- [Before the Code: Why I Chose Web Development and How I Got Started](https://dev.to/sheetal_bajaj/before-the-code-why-i-chose-web-development-and-how-i-got-started-14mh)
+- [AI Image and Video Optimization in Websites](https://dev.to/bridgegroupsolutions/ai-image-and-video-optimization-in-websites-11gg)
+- [Google’s EAT Guidelines: How to Build Trust Signals Into Your Website](https://dev.to/dct_technology/googles-eat-guidelines-how-to-build-trust-signals-into-your-website-4170)
+- [Kivy vs BeeWare: Best Python Frameworks for iOS App Development](https://dev.to/synapseindia/kivy-vs-beeware-best-python-frameworks-for-ios-app-development-229a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
