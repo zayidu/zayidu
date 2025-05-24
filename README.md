@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Human Horizon](https://dev.to/rawveg/ais-human-horizon-b58)
-- [Interactive Map](https://dev.to/macglencoe/interactive-map-fbe)
-- [Here&#39;s What I&#39;ve Created!](https://dev.to/james_ikenna_450624e7a650/heres-what-ive-created-2717)
-- [[Boost]](https://dev.to/anthonymax/-1opn)
-- [An Overview to OCI IAM Policies](https://dev.to/farisdurrani/an-overview-to-oci-iam-policies-2hp7)
+- [Pipelining for Memcached](https://dev.to/obbap/pipelining-for-memcached-1pm9)
+- [How to build index with text embeddings](https://dev.to/cocoindex/how-to-build-index-with-text-embeddings-j3m)
+- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolu_cloudops/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2fdi)
+- [Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k)
+- [Gogoanime: A Go-To Platform for Free Anime Streaming](https://dev.to/tnia_posh_d9933578f3b5a28/gogoanime-a-go-to-platform-for-free-anime-streaming-57bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
