@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Cloud, no python, annoying. Goto Stick with FORGE and a DS.](https://dev.to/johns-dev-projects/laravel-cloud-no-python-annoying-goto-stick-with-forge-and-a-ds-5759)
-- [Smart Laboratory Incubator](https://dev.to/fatemehk1/smart-laboratory-incubator-2m98)
-- [Insightful Post on regaining back your focus in this current AI age](https://dev.to/ogundiyantobiloba/insightful-post-on-regaining-back-your-focus-in-this-current-ai-age-12p1)
-- [Smart Laboratory Drying oven](https://dev.to/fatemehk1/smart-laboratory-drying-oven-3n5h)
-- [How to Change Syntax Highlighting Colors in Visual Studio Without Installing a Theme](https://dev.to/pexlkeys/how-to-change-syntax-highlighting-colors-in-visual-studio-without-installing-a-theme-dg)
+- [The Role of AI in Shaping Political Campaigns and Elections](https://dev.to/bridgegroupsolutions/the-role-of-ai-in-shaping-political-campaigns-and-elections-74f)
+- [Precision v/s Recall in Machine Learning](https://dev.to/lea_abraham_7a0232a6cd616/precision-vs-recall-in-machine-learning-41af)
+- [TypeScript Operators: Types, Usage, and Examples](https://dev.to/rishabhtpt/typescript-operators-types-usage-and-examples-3g1)
+- [CSS Tutorial for Web Developers: Modern Layouts and Responsive Design](https://dev.to/pythontutorial/css-tutorial-for-web-developers-modern-layouts-and-responsive-design-3oh7)
+- [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
