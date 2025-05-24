@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Export HTML Tables to PowerPoint with WebView2 and VSTO](https://dev.to/adilkhan/export-html-tables-to-powerpoint-with-webview2-and-vsto-1fem)
-- [Getting Started with Amazon Q Developer CLI by Building a Game](https://dev.to/rash522/getting-started-with-amazon-q-developer-cli-by-building-a-game-1c8)
-- [Your Code Passed. Now What?](https://dev.to/tonystpierre/your-code-passed-now-what-3m69)
-- [🌟 FashionApp – A Fullstack Fashion Shopping App &lpar;Flutter + Django&rpar;](https://dev.to/dangdungvn/fashionapp-a-fullstack-fashion-shopping-app-flutter-django-5537)
-- [Serving static content from S3 bucket](https://dev.to/dmitryame/serving-static-content-from-s3-bucket-195p)
+- [T vs any in TypeScript](https://dev.to/bdavidxyz/t-vs-any-in-typescript-59ol)
+- [[Boost]](https://dev.to/rakeshv675/-42o)
+- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-5-1493)
+- [PlankDB – A Quantum-Powered Key-Value Store with Grover Search and Spring Boot](https://dev.to/dmitrijs_gavrilovs_8f6575/plankdb-a-quantum-powered-key-value-store-with-grover-search-and-spring-boot-42eo)
+- [7 Function Shapes That Make JavaScript and TypeScript Code Easier to Read, Use, and Trust](https://dev.to/tonystpierre/7-function-shapes-that-make-javascript-and-typescript-code-easier-to-read-use-and-trust-27pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
