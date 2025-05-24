@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Free Web-Based Developer Tools You&#39;ll Actually Use](https://dev.to/sayem314/13-free-web-based-developer-tools-youll-actually-use-3j4p)
-- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-oo)
-- [Padrão Repository: A Abstração que Transformou o Acesso a Dados em Aplicações .NET](https://dev.to/gustavo_cremonez/padrao-repository-a-abstracao-que-transformou-o-acesso-a-dados-em-aplicacoes-net-21pn)
-- [For Speed Enthusiasts: The Ultimate Evolution of Rust HTTP Engines](https://dev.to/_95e41982c9ad08a13458d/for-speed-enthusiasts-the-ultimate-evolution-of-rust-http-engines-3ei1)
-- [WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-26o0)
+- [How We Fixed Our Shipping Integration Chaos with Ditto: A Fulfillment Use Case in E-Commerce](https://dev.to/manav_lahariya_ac292b787a/how-we-fixed-our-shipping-integration-chaos-with-ditto-a-fulfillment-use-case-in-e-commerce-370n)
+- [🧵 Understanding Database Isolation Levels: A Developer’s Guide to Consistent Transactions](https://dev.to/devcorner/understanding-database-isolation-levels-a-developers-guide-to-consistent-transactions-6og)
+- [What Is Artificial Intelligence? A Simple Guide for Developers](https://dev.to/devmagz/what-is-artificial-intelligence-a-simple-guide-for-developers-46g7)
+- [The Role of DevOps in Accelerating Software Delivery](https://dev.to/bridgegroupsolutions/the-role-of-devops-in-accelerating-software-delivery-ffb)
+- [Git: 50 Essential Commands for Everyday Workflow](https://dev.to/ahmed_niazy/git-50-essential-commands-for-everyday-workflow-2d7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
