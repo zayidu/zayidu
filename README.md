@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup and configure NGINX on Ubuntu](https://dev.to/vishnusatheesh/how-to-setup-and-configure-nginx-on-ubuntu-3ol8)
-- [Key Factors Affecting Cloud Migration ROI](https://dev.to/emma_wags_8dd9b74533690da/key-factors-affecting-cloud-migration-roi-2gpd)
-- [Shared Hosting Isn’t Set-and-Forget: Best Practices for Developers](https://dev.to/merin_reji_c98c113a0d2a47/shared-hosting-isnt-set-and-forget-best-practices-for-developers-54i7)
-- [Navigating Git Conflicts: Best Practices to Prevent Code Loss in Development Teams](https://dev.to/code_heisenberg/navigating-git-conflicts-best-practices-to-prevent-code-loss-in-development-teams-3h6g)
-- [Asp.Net Core app with Dynamic Modular Monolith Architecture](https://dev.to/musmanrafiq/aspnet-core-app-with-dynamic-modular-monolith-architecture-2apb)
+- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
+- [Building a Dynamic User Profile Dashboard with GraphQL](https://dev.to/johneliud/building-a-dynamic-user-profile-dashboard-with-graphql-670)
+- [UIKit Previews in Xcode](https://dev.to/markkazakov/uikit-previews-in-xcode-1i77)
+- [future of gaming](https://dev.to/nkkone/ccg-arg-ai-11fb)
+- [Day-35 of Coding!](https://dev.to/harshvdev/day-35-of-coding-1eha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
