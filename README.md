@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What My Project Does Codel lets you search code not just from Github, Gitlab or Gitea, But from any reference of that code on the internet. From reddit posts to blog posts containing code. Target Audience This is aimed at developers trying to find code, re](https://dev.to/coder_acco/what-my-project-does-codel-lets-you-search-code-not-just-from-github-gitlab-or-gitea-but-from-3fj4)
-- [Unlocking API Discovery: How We Nail Accuracy in LiveAPI](https://dev.to/shrsv/unlocking-api-discovery-how-we-nail-accuracy-in-liveapi-53a1)
-- [Practical Guide to UniApp Development Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-guide-to-uniapp-development-based-on-harmonyos-next-5e0k)
-- [First-Time CTO Mistakes: 5 Things I Learned the Hard Way](https://dev.to/diwesh_saxena87/first-time-cto-mistakes-5-things-i-learned-the-hard-way-2m4k)
-- [Practical Applications of Go&#39;s Time Package 10/10](https://dev.to/rezmoss/practical-applications-of-gos-time-package-1010-4a9e)
+- [Cat Loader: A Cute and Creative Loading Animation for Your Website](https://dev.to/robin-ivi/cat-loader-a-cute-and-creative-loading-animation-for-your-website-4cph)
+- [Database Security in DBMS](https://dev.to/aniruddhaadak/database-security-in-dbms-4mg4)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/praneet_biswal_d355dcff3c/first-contributions-learn-how-to-contribute-to-open-source-projects-47ib)
+- [Leveling Up Daily 💪 | Java, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/leveling-up-daily-java-springboot-golang-102)
+- [2942. Find Words Containing Character](https://dev.to/mdarifulhaque/2942-find-words-containing-character-2cj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
