@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS KMS vs. AWS Certificate Manager: The Ultimate Guide to Cloud Security Layers](https://dev.to/pkkolla/aws-kms-vs-aws-certificate-manager-the-ultimate-guide-to-cloud-security-layers-4hem)
-- [Writing Kubernetes Manifests: From Beginner to Advanced](https://dev.to/haswanth/writing-kubernetes-manifests-from-beginner-to-advanced-3pgb)
-- [SPEEDTEST](https://dev.to/brian_oiko_5c72fb6a37124b/speedtest-1opd)
-- [Ever Wondered How Powerful a Well-Written Prompt Can Be?](https://dev.to/shariya_shuvo/ever-wondered-how-powerful-a-well-written-prompt-can-be-8ee)
-- [How to Crack Your First DevOps Interview: Tips and Sample Questions](https://dev.to/haswanth/how-to-crack-your-first-devops-interview-tips-and-sample-questions-2jce)
+- [Understanding the Basics of REST APIs](https://dev.to/mohamed-riham/understanding-the-basics-of-rest-apis-2ngp)
+- [🚨 My Website Got Flagged by Google Safe Browsing – Here&#39;s How I Fixed It](https://dev.to/creator_x/my-website-got-flagged-by-google-safe-browsing-heres-how-i-fixed-it-24k9)
+- [📘 Day 1: What is LangChain? A Beginner’s Guide to the AI App Framework](https://dev.to/aws-builders/day-1-what-is-langchain-a-beginners-guide-to-the-ai-app-framework-4fn0)
+- [The best data grid library?](https://dev.to/gnrlbzik/the-best-data-grid-library-355g)
+- [React Performance Optimization: From Slow to Lightning Fast &lpar;Complete Guide 2025&rpar;](https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
