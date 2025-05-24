@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lepsza Inicjalizacja Tablic 2D | Better 2D Array Init](https://dev.to/owieczka/lepsza-inicjalizacja-tablic-2d-better-2d-array-init-3ogp)
-- [Before the Code: Why I Chose Web Development and How I Got Started](https://dev.to/sheetal_bajaj/before-the-code-why-i-chose-web-development-and-how-i-got-started-14mh)
-- [AI Image and Video Optimization in Websites](https://dev.to/bridgegroupsolutions/ai-image-and-video-optimization-in-websites-11gg)
-- [Google’s EAT Guidelines: How to Build Trust Signals Into Your Website](https://dev.to/dct_technology/googles-eat-guidelines-how-to-build-trust-signals-into-your-website-4170)
-- [Kivy vs BeeWare: Best Python Frameworks for iOS App Development](https://dev.to/synapseindia/kivy-vs-beeware-best-python-frameworks-for-ios-app-development-229a)
+- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/elearning_solutions_791be/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-2cik)
+- [Complete Guide to Setting Up Code Quality Standards in React Native Projects](https://dev.to/ajmal_hasan/complete-guide-to-setting-up-code-quality-standards-in-react-native-projects-1b22)
+- [🧠 PythonAI Brain](https://dev.to/divyanshu_sinha_dd092f343/pythonai-brain-2h5m)
+- [Nomenclatura de bloques en Drupal y su integración en Vertical Slicing](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-y-vertical-slicing-1hbb)
+- [How to Pass Data into a Static JavaScript File Using data-* Attributes](https://dev.to/zahra_mirkazemi/how-to-pass-data-into-a-static-javascript-file-using-data-attributes-2im7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
