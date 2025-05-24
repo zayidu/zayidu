@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [T vs any in TypeScript](https://dev.to/bdavidxyz/t-vs-any-in-typescript-59ol)
-- [[Boost]](https://dev.to/rakeshv675/-42o)
-- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-5-1493)
-- [PlankDB – A Quantum-Powered Key-Value Store with Grover Search and Spring Boot](https://dev.to/dmitrijs_gavrilovs_8f6575/plankdb-a-quantum-powered-key-value-store-with-grover-search-and-spring-boot-42eo)
-- [7 Function Shapes That Make JavaScript and TypeScript Code Easier to Read, Use, and Trust](https://dev.to/tonystpierre/7-function-shapes-that-make-javascript-and-typescript-code-easier-to-read-use-and-trust-27pa)
+- [Analysis of the King of Aridoria : A Prompt Engineering Project](https://dev.to/grimkillingbeck/analysis-of-the-king-of-aridoria-a-prompt-engineering-project-3dfe)
+- [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
+- [Revolutionize Your Database Development with SchemaCrawler MCP Server](https://dev.to/sualeh/revolutionize-your-database-development-with-schemacrawler-mcp-server-310i)
+- [Why Functional Decomposition Leads to Bad System Design](https://dev.to/ujjwall-r/why-functional-decomposition-leads-to-bad-system-design-5chd)
+- [Retrieving System MAC Address Across OS Platforms](https://dev.to/wildshark/retrieving-system-mac-address-across-os-platforms-3fjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
