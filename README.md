@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Medical AI with Google’s MedGemma 4B &amp; 27B: A Complete Installation Guide](https://dev.to/nodeshiftcloud/build-medical-ai-with-googles-medgemma-4b-27b-a-complete-installation-guide-1pb3)
-- [Step Five into RxJS: Error Handling](https://dev.to/artstesh/step-five-into-rxjs-error-handling-51g1)
-- [Resource API Changes in Angular 20 - Query Resource in rxResource](https://dev.to/railsstudent/-resource-api-changes-in-angular-20-query-resource-in-rxresource-2o8m)
-- [Peer Programming with LLMs, For Senior+ Engineers](https://dev.to/pmbanugo/peer-programming-with-llms-for-senior-engineers-3gmj)
-- [Innovating Music Social Experiences with Real-Time Beauty Effects](https://dev.to/susiewang/innovating-music-social-experiences-with-real-time-beauty-effects-4n37)
+- [AWS KMS vs. AWS Certificate Manager: The Ultimate Guide to Cloud Security Layers](https://dev.to/pkkolla/aws-kms-vs-aws-certificate-manager-the-ultimate-guide-to-cloud-security-layers-4hem)
+- [Writing Kubernetes Manifests: From Beginner to Advanced](https://dev.to/haswanth/writing-kubernetes-manifests-from-beginner-to-advanced-3pgb)
+- [SPEEDTEST](https://dev.to/brian_oiko_5c72fb6a37124b/speedtest-1opd)
+- [Ever Wondered How Powerful a Well-Written Prompt Can Be?](https://dev.to/shariya_shuvo/ever-wondered-how-powerful-a-well-written-prompt-can-be-8ee)
+- [How to Crack Your First DevOps Interview: Tips and Sample Questions](https://dev.to/haswanth/how-to-crack-your-first-devops-interview-tips-and-sample-questions-2jce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
