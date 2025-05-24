@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Fixed Our Shipping Integration Chaos with Ditto: A Fulfillment Use Case in E-Commerce](https://dev.to/manav_lahariya_ac292b787a/how-we-fixed-our-shipping-integration-chaos-with-ditto-a-fulfillment-use-case-in-e-commerce-370n)
-- [🧵 Understanding Database Isolation Levels: A Developer’s Guide to Consistent Transactions](https://dev.to/devcorner/understanding-database-isolation-levels-a-developers-guide-to-consistent-transactions-6og)
-- [What Is Artificial Intelligence? A Simple Guide for Developers](https://dev.to/devmagz/what-is-artificial-intelligence-a-simple-guide-for-developers-46g7)
-- [The Role of DevOps in Accelerating Software Delivery](https://dev.to/bridgegroupsolutions/the-role-of-devops-in-accelerating-software-delivery-ffb)
-- [Git: 50 Essential Commands for Everyday Workflow](https://dev.to/ahmed_niazy/git-50-essential-commands-for-everyday-workflow-2d7l)
+- [Laravel 12 Remove Public from URL](https://dev.to/mshsayket/laravel-12-remove-public-from-url-4m2g)
+- [[Boost]](https://dev.to/markjackmilian/-48ie)
+- [Who’s Afraid of the Liskov Substitution Principle?](https://dev.to/markjackmilian/whos-afraid-of-the-liskov-substitution-principle-4mfl)
+- [Server-Side Caching vs Client-Side Caching in Next.js: Best Practices for Performance](https://dev.to/melvinprince/server-side-caching-vs-client-side-caching-in-nextjs-best-practices-for-performance-48he)
+- [React Tutorial for Beginners: Build Your First App Step-by-Step](https://dev.to/tpointtechadu/react-tutorial-for-beginners-build-your-first-app-step-by-step-3jm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
