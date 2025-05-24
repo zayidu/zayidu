@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat Loader: A Cute and Creative Loading Animation for Your Website](https://dev.to/robin-ivi/cat-loader-a-cute-and-creative-loading-animation-for-your-website-4cph)
-- [Database Security in DBMS](https://dev.to/aniruddhaadak/database-security-in-dbms-4mg4)
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/praneet_biswal_d355dcff3c/first-contributions-learn-how-to-contribute-to-open-source-projects-47ib)
-- [Leveling Up Daily 💪 | Java, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/leveling-up-daily-java-springboot-golang-102)
-- [2942. Find Words Containing Character](https://dev.to/mdarifulhaque/2942-find-words-containing-character-2cj9)
+- [Laravel Cloud, no python, annoying. Goto Stick with FORGE and a DS.](https://dev.to/johns-dev-projects/laravel-cloud-no-python-annoying-goto-stick-with-forge-and-a-ds-5759)
+- [Smart Laboratory Incubator](https://dev.to/fatemehk1/smart-laboratory-incubator-2m98)
+- [Insightful Post on regaining back your focus in this current AI age](https://dev.to/ogundiyantobiloba/insightful-post-on-regaining-back-your-focus-in-this-current-ai-age-12p1)
+- [Smart Laboratory Drying oven](https://dev.to/fatemehk1/smart-laboratory-drying-oven-3n5h)
+- [How to Change Syntax Highlighting Colors in Visual Studio Without Installing a Theme](https://dev.to/pexlkeys/how-to-change-syntax-highlighting-colors-in-visual-studio-without-installing-a-theme-dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
