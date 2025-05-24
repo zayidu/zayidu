@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/elearning_solutions_791be/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-2cik)
-- [Complete Guide to Setting Up Code Quality Standards in React Native Projects](https://dev.to/ajmal_hasan/complete-guide-to-setting-up-code-quality-standards-in-react-native-projects-1b22)
-- [🧠 PythonAI Brain](https://dev.to/divyanshu_sinha_dd092f343/pythonai-brain-2h5m)
-- [Nomenclatura de bloques en Drupal y su integración en Vertical Slicing](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-y-vertical-slicing-1hbb)
-- [How to Pass Data into a Static JavaScript File Using data-* Attributes](https://dev.to/zahra_mirkazemi/how-to-pass-data-into-a-static-javascript-file-using-data-attributes-2im7)
+- [Day 30/ 30 Days of Linux Mastery: Mastering &#39;for&#39;, &#39;do&#39;, &#39;while&#39;, and &#39;case&#39; Statements in Shell Scripts](https://dev.to/amandaigwe/day-30-30-days-of-linux-mastery-mastering-for-do-while-and-case-statements-in-shell-3ha0)
+- [Inside a emoji-picker-react: State, Events, and UI Patterns](https://dev.to/ruturajgh/inside-a-emoji-picker-react-state-events-and-ui-patterns-4a13)
+- [The simplest way to add Google sign-in to your Next.js app ✍](https://dev.to/tomdekan/the-simplest-way-to-add-google-sign-in-to-your-nextjs-app-3237)
+- [Selective test execution mechanism with Playwright using GitHub Actions](https://dev.to/denis_skvortsov/selective-test-execution-mechanism-with-playwright-using-github-actions-862)
+- [DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity](https://dev.to/wininlife_academy_14d5cee/dns-footprinting-essential-reconnaissance-for-proactive-cybersecurity-1ci8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
