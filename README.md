@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
-- [Building a Dynamic User Profile Dashboard with GraphQL](https://dev.to/johneliud/building-a-dynamic-user-profile-dashboard-with-graphql-670)
-- [UIKit Previews in Xcode](https://dev.to/markkazakov/uikit-previews-in-xcode-1i77)
-- [future of gaming](https://dev.to/nkkone/ccg-arg-ai-11fb)
-- [Day-35 of Coding!](https://dev.to/harshvdev/day-35-of-coding-1eha)
+- [React’s Four Horsemen of the Frontendpocalypse](https://dev.to/lovestaco/reacts-four-horsemen-of-the-frontendpocalypse-52hh)
+- [Deep Dive into JavaScript&#39;s Call Stack and Heap](https://dev.to/omriluz1/deep-dive-into-javascripts-call-stack-and-heap-m9l)
+- [Data Definitions, Not Flowcharts](https://dev.to/vst/data-definitions-not-flowcharts-48bf)
+- [How to Stay Relevant as a Developer in the AI Era](https://dev.to/arkhan/how-to-stay-relevant-as-a-developer-in-the-ai-era-3fi3)
+- [3 HUGE Things I Wish I Knew When I First Started](https://dev.to/javanteb23/3-huge-things-i-wish-i-knew-when-i-first-started-1nf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
