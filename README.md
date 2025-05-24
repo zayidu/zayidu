@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone now can create profitable business with AI](https://dev.to/martintonev/everyone-now-can-create-profitable-business-with-ai-560d)
-- [AWS Multi Region Failover Infrastructure](https://dev.to/ashraf-minhaj/aws-multi-region-failover-infrastructure-2314)
-- [[Boost]](https://dev.to/western_king01/-24k0)
-- [AI Isn’t Replacing Developers — It’s Making Them Irreplaceable](https://dev.to/abhishekshakya/ai-isnt-replacing-developers-its-making-them-irreplaceable-3o40)
-- [My thoughts on The Odin Project](https://dev.to/steven_96a308e416e2ad9cb3/my-thoughts-on-the-odin-project-m2j)
+- [How to setup and configure NGINX on Ubuntu](https://dev.to/vishnusatheesh/how-to-setup-and-configure-nginx-on-ubuntu-3ol8)
+- [Key Factors Affecting Cloud Migration ROI](https://dev.to/emma_wags_8dd9b74533690da/key-factors-affecting-cloud-migration-roi-2gpd)
+- [Shared Hosting Isn’t Set-and-Forget: Best Practices for Developers](https://dev.to/merin_reji_c98c113a0d2a47/shared-hosting-isnt-set-and-forget-best-practices-for-developers-54i7)
+- [Navigating Git Conflicts: Best Practices to Prevent Code Loss in Development Teams](https://dev.to/code_heisenberg/navigating-git-conflicts-best-practices-to-prevent-code-loss-in-development-teams-3h6g)
+- [Asp.Net Core app with Dynamic Modular Monolith Architecture](https://dev.to/musmanrafiq/aspnet-core-app-with-dynamic-modular-monolith-architecture-2apb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
