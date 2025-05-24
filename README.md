@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 12 Remove Public from URL](https://dev.to/mshsayket/laravel-12-remove-public-from-url-4m2g)
-- [[Boost]](https://dev.to/markjackmilian/-48ie)
-- [Who’s Afraid of the Liskov Substitution Principle?](https://dev.to/markjackmilian/whos-afraid-of-the-liskov-substitution-principle-4mfl)
-- [Server-Side Caching vs Client-Side Caching in Next.js: Best Practices for Performance](https://dev.to/melvinprince/server-side-caching-vs-client-side-caching-in-nextjs-best-practices-for-performance-48he)
-- [React Tutorial for Beginners: Build Your First App Step-by-Step](https://dev.to/tpointtechadu/react-tutorial-for-beginners-build-your-first-app-step-by-step-3jm5)
+- [Build Medical AI with Google’s MedGemma 4B &amp; 27B: A Complete Installation Guide](https://dev.to/nodeshiftcloud/build-medical-ai-with-googles-medgemma-4b-27b-a-complete-installation-guide-1pb3)
+- [Step Five into RxJS: Error Handling](https://dev.to/artstesh/step-five-into-rxjs-error-handling-51g1)
+- [Resource API Changes in Angular 20 - Query Resource in rxResource](https://dev.to/railsstudent/-resource-api-changes-in-angular-20-query-resource-in-rxresource-2o8m)
+- [Peer Programming with LLMs, For Senior+ Engineers](https://dev.to/pmbanugo/peer-programming-with-llms-for-senior-engineers-3gmj)
+- [Innovating Music Social Experiences with Real-Time Beauty Effects](https://dev.to/susiewang/innovating-music-social-experiences-with-real-time-beauty-effects-4n37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
