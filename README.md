@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in Shaping Political Campaigns and Elections](https://dev.to/bridgegroupsolutions/the-role-of-ai-in-shaping-political-campaigns-and-elections-74f)
-- [Precision v/s Recall in Machine Learning](https://dev.to/lea_abraham_7a0232a6cd616/precision-vs-recall-in-machine-learning-41af)
-- [TypeScript Operators: Types, Usage, and Examples](https://dev.to/rishabhtpt/typescript-operators-types-usage-and-examples-3g1)
-- [CSS Tutorial for Web Developers: Modern Layouts and Responsive Design](https://dev.to/pythontutorial/css-tutorial-for-web-developers-modern-layouts-and-responsive-design-3oh7)
-- [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
+- [Build Without Limits: How No-Code Tools Like Webflow, Wix &amp; Bubble Are Redefining the Future of Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/build-without-limits-how-no-code-tools-like-webflow-wix-bubble-are-redefining-the-future-of-web-1n14)
+- [Agile Lessons: Navigating Shifting Priorities in a Tech Career](https://dev.to/pratikshya_behera_/agile-lessons-navigating-shifting-priorities-in-a-tech-career-p84)
+- [🚀 Build a Beautiful CLI Dashboard in Python using pyfiglet + rich!!!](https://dev.to/nish2005karsh/build-a-beautiful-cli-dashboard-in-python-using-pyfiglet-rich-1ji8)
+- [Claude 4: Opus vs Sonnet, Benchmarks, and Dev Workflow with Claude Code](https://dev.to/nodeshiftcloud/claude-4-opus-vs-sonnet-benchmarks-and-dev-workflow-with-claude-code-11fa)
+- [The Best JavaScript Course on YouTube – Learn with Shashank Yadav](https://dev.to/coder_01/the-best-javascript-course-on-youtube-learn-with-shashank-yadav-50d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
