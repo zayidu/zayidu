@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of REST APIs](https://dev.to/mohamed-riham/understanding-the-basics-of-rest-apis-2ngp)
-- [🚨 My Website Got Flagged by Google Safe Browsing – Here&#39;s How I Fixed It](https://dev.to/creator_x/my-website-got-flagged-by-google-safe-browsing-heres-how-i-fixed-it-24k9)
-- [📘 Day 1: What is LangChain? A Beginner’s Guide to the AI App Framework](https://dev.to/aws-builders/day-1-what-is-langchain-a-beginners-guide-to-the-ai-app-framework-4fn0)
-- [The best data grid library?](https://dev.to/gnrlbzik/the-best-data-grid-library-355g)
-- [React Performance Optimization: From Slow to Lightning Fast &lpar;Complete Guide 2025&rpar;](https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl)
+- [Everyone now can create profitable business with AI](https://dev.to/martintonev/everyone-now-can-create-profitable-business-with-ai-560d)
+- [AWS Multi Region Failover Infrastructure](https://dev.to/ashraf-minhaj/aws-multi-region-failover-infrastructure-2314)
+- [[Boost]](https://dev.to/western_king01/-24k0)
+- [AI Isn’t Replacing Developers — It’s Making Them Irreplaceable](https://dev.to/abhishekshakya/ai-isnt-replacing-developers-its-making-them-irreplaceable-3o40)
+- [My thoughts on The Odin Project](https://dev.to/steven_96a308e416e2ad9cb3/my-thoughts-on-the-odin-project-m2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
