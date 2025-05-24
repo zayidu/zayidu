@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React’s Four Horsemen of the Frontendpocalypse](https://dev.to/lovestaco/reacts-four-horsemen-of-the-frontendpocalypse-52hh)
-- [Deep Dive into JavaScript&#39;s Call Stack and Heap](https://dev.to/omriluz1/deep-dive-into-javascripts-call-stack-and-heap-m9l)
-- [Data Definitions, Not Flowcharts](https://dev.to/vst/data-definitions-not-flowcharts-48bf)
-- [How to Stay Relevant as a Developer in the AI Era](https://dev.to/arkhan/how-to-stay-relevant-as-a-developer-in-the-ai-era-3fi3)
-- [3 HUGE Things I Wish I Knew When I First Started](https://dev.to/javanteb23/3-huge-things-i-wish-i-knew-when-i-first-started-1nf6)
+- [Export HTML Tables to PowerPoint with WebView2 and VSTO](https://dev.to/adilkhan/export-html-tables-to-powerpoint-with-webview2-and-vsto-1fem)
+- [Getting Started with Amazon Q Developer CLI by Building a Game](https://dev.to/rash522/getting-started-with-amazon-q-developer-cli-by-building-a-game-1c8)
+- [Your Code Passed. Now What?](https://dev.to/tonystpierre/your-code-passed-now-what-3m69)
+- [🌟 FashionApp – A Fullstack Fashion Shopping App &lpar;Flutter + Django&rpar;](https://dev.to/dangdungvn/fashionapp-a-fullstack-fashion-shopping-app-flutter-django-5537)
+- [Serving static content from S3 bucket](https://dev.to/dmitryame/serving-static-content-from-s3-bucket-195p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
