@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free AI Story Generator with Next.js 15: From Zero to Deployment](https://dev.to/dylan_huang_2686f6cef827a/building-a-free-ai-story-generator-with-nextjs-15-from-zero-to-deployment-a3k)
-- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-4099)
-- [How to Download and Install Anime Witcher APK on Android [Step-by-Step Guide]](https://dev.to/anime_witcher_0e5e5aad5fe/how-to-download-and-install-anime-witcher-apk-on-android-step-by-step-guide-p6l)
-- [Razorpay Integration with Django: Step-by-Step Guide 💳](https://dev.to/madhubankhatri/razorpay-integration-with-django-step-by-step-guide-1cmn)
-- [Spider.css - A lightweight css framework](https://dev.to/pjdeveloper896/spidercss-a-lightweight-css-framework-2gf6)
+- [Your Guide To Using Open Source Software as an Indie Developer](https://dev.to/wimadev/your-guide-to-using-open-source-software-as-an-indie-developer-2foi)
+- [💡 Speed Up Java Development with Auto-Generated Javadoc in IntelliJ IDEA](https://dev.to/thellu/-speed-up-java-development-with-auto-generated-javadoc-in-intellij-idea-215b)
+- [Build Games with Amazon Q CLI and Get a Free T-shirt! 🏆👕](https://dev.to/aws-builders/build-games-with-amazon-q-cli-and-get-a-free-t-shirt-1h4g)
+- [🧩 How I Built a Maze Game with PyGame &lpar;Using Amazon Q&rpar;](https://dev.to/divakar_singh_55fbb78aa5a/how-i-built-a-maze-game-with-pygame-using-amazon-q-2p3p)
+- [What to eat](https://dev.to/uratmangun/what-to-eat-7lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
