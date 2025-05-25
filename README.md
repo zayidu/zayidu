@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AG-2 in Practice #2 – Setting Up AG-2 and Creating Your First Agent](https://dev.to/dazevedo/ag-2-in-practice-2-setting-up-ag-2-and-creating-your-first-agent-1e0a)
-- [Should You Copy Production Data to Lower Environments in Power Platform?](https://dev.to/nikhildynamicsce/should-you-copy-production-data-to-lower-environments-in-power-platform-5aok)
-- [Level Up Your Command Line: Introducing Terminal Troubleshooter! &lpar;Built with AWS Q CLI&rpar;](https://dev.to/hritikraj8804/level-up-your-command-line-introducing-terminal-troubleshooter-built-with-aws-q-cli-5ki)
-- [Why Use Laravel as Product Development in 2025?](https://dev.to/pandito___/why-use-laravel-as-product-development-in-2025-mo0)
-- [Git Tip: What’s the Difference Between HTTP and SSH in GitLab?](https://dev.to/suriya_prabakaran/git-tip-whats-the-difference-between-http-and-ssh-in-gitlab-2pl6)
+- [AWS Elastic Beanstalk](https://dev.to/godofgeeks/aws-elastic-beanstalk-288h)
+- [The Business Case for Angular: Why Enterprises Still Choose Angular in 2025](https://dev.to/karol_modelski/the-business-case-for-angular-why-enterprises-still-choose-angular-in-2025-2l50)
+- [🚀 Building Playwright Framework Step By Step - Initial Setup](https://dev.to/idavidov13/building-playwright-framework-step-by-step-initial-setup-3iba)
+- [Single Computers vs Distributed Systems: Why Everything Gets Complicated](https://dev.to/lukasniessen/single-computers-vs-distributed-systems-why-everything-gets-complicated-1j4k)
+- [It Doesn&#39;t Get Faster Than This: Launching a Next.js Project with a Professional Boilerplate](https://dev.to/shaadcode/it-doesnt-get-faster-than-this-launching-a-nextjs-project-with-a-professional-boilerplate-4j1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
