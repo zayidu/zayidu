@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between __proto__, [[Prototype]] &amp; .prototype in JavaScript](https://dev.to/capscode/difference-between-proto-prototype-prototype-in-javascript-3073)
-- [Dynamic Binding of CSS Classes and Styles in Vue 3, Svelte 5 and Angular](https://dev.to/railsstudent/dynamic-binding-of-css-classes-and-styles-in-vue-3-svelte-5-and-angular-1nkm)
-- [Install PHP8.4 for Ubuntu Server 20.04 LTS in 2025](https://dev.to/pandito___/install-php84-for-ubuntu-server-2004-lts-in-2025-44b8)
-- [&quot;Record&quot; utility type in TypeScript](https://dev.to/shelner/record-type-in-typescript-2gb9)
-- [PHP8.4 Pros Cons for Web Application Development in 2025](https://dev.to/pandito___/php84-pros-cons-for-web-application-development-in-2025-3kag)
+- [Top 9 Hidden Free AI Tools for Web Developers in 2025](https://dev.to/developerchandan/top-9-hidden-free-ai-tools-for-web-developers-in-2025-4d9f)
+- [Step-by-Step Guide to Set Up and Test Your Slack App with google cloud functions](https://dev.to/aqibnawazdev/step-by-step-guide-to-set-up-and-test-your-slack-app-with-google-cloud-functions-3e8d)
+- [Don’t Do This—Unless You Want 💩 Frontend Code](https://dev.to/ahmed_niazy/dont-do-this-unless-you-want-frontend-code-4bmf)
+- [Testing in DevOps: Strategies, Tools, and Best Practices for Continuous Quality](https://dev.to/haswanth/testing-in-devops-strategies-tools-and-best-practices-for-continuous-quality-501i)
+- [new website](https://dev.to/jaiden_stewart_347fe5aa79/new-website-b7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
