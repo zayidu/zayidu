@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Guide To Using Open Source Software as an Indie Developer](https://dev.to/wimadev/your-guide-to-using-open-source-software-as-an-indie-developer-2foi)
-- [💡 Speed Up Java Development with Auto-Generated Javadoc in IntelliJ IDEA](https://dev.to/thellu/-speed-up-java-development-with-auto-generated-javadoc-in-intellij-idea-215b)
-- [Build Games with Amazon Q CLI and Get a Free T-shirt! 🏆👕](https://dev.to/aws-builders/build-games-with-amazon-q-cli-and-get-a-free-t-shirt-1h4g)
-- [🧩 How I Built a Maze Game with PyGame &lpar;Using Amazon Q&rpar;](https://dev.to/divakar_singh_55fbb78aa5a/how-i-built-a-maze-game-with-pygame-using-amazon-q-2p3p)
-- [What to eat](https://dev.to/uratmangun/what-to-eat-7lb)
+- [WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-5a5b)
+- [Build High-Performance Web Services with Hyperlane](https://dev.to/_95e41982c9ad08a13458d/build-high-performance-web-services-with-hyperlane-36l8)
+- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-1o12)
+- [For Speed Enthusiasts: The Ultimate Evolution of Rust HTTP Engines](https://dev.to/_95e41982c9ad08a13458d/for-speed-enthusiasts-the-ultimate-evolution-of-rust-http-engines-34fk)
+- [How I Built a Game Using Amazon Q CLI](https://dev.to/hardik_parekh/how-i-built-a-game-using-amazon-q-cli-58fc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
