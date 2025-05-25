@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 9 Hidden Free AI Tools for Web Developers in 2025](https://dev.to/developerchandan/top-9-hidden-free-ai-tools-for-web-developers-in-2025-4d9f)
-- [Step-by-Step Guide to Set Up and Test Your Slack App with google cloud functions](https://dev.to/aqibnawazdev/step-by-step-guide-to-set-up-and-test-your-slack-app-with-google-cloud-functions-3e8d)
-- [Don’t Do This—Unless You Want 💩 Frontend Code](https://dev.to/ahmed_niazy/dont-do-this-unless-you-want-frontend-code-4bmf)
-- [Testing in DevOps: Strategies, Tools, and Best Practices for Continuous Quality](https://dev.to/haswanth/testing-in-devops-strategies-tools-and-best-practices-for-continuous-quality-501i)
-- [new website](https://dev.to/jaiden_stewart_347fe5aa79/new-website-b7i)
+- [Simple Steps to Deploy a Three-Tier E-Commerce System on AWS EKS](https://dev.to/aws-builders/simple-steps-to-deploy-a-three-tier-e-commerce-system-on-aws-eks-eb0)
+- [🤖 Programming Is Applied Philosophy &lpar;You Just Didn&#39;t Notice&rpar;](https://dev.to/snappytuts/programming-is-applied-philosophy-you-just-didnt-notice-3bni)
+- [You Don’t Need to Build a Big Project to Learn](https://dev.to/abubaker_siddique_513b7e2/you-dont-need-to-build-a-big-project-to-learn-36he)
+- [How I Built My Self-Hosted Homelab with Docker on Ubuntu 24.04](https://dev.to/enkuldes/how-i-built-my-self-hosted-homelab-with-docker-on-ubuntu-2404-1ccc)
+- [From Zero to Genix: Building Falcon S, FWord &amp; Rela as One Developer 👨‍💻 By Developer Dominex](https://dev.to/nyinyi190890/from-zero-to-genix-building-falcon-s-fword-rela-as-one-developer-by-developer-dominex-49c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
