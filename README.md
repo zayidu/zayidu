@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [hermitAI v0.3: LLM + RAG + MCP = Real-time Personalized AI Twin](https://dev.to/kafechew/hermitai-v03-llm-rag-mcp-real-time-personalized-ai-twin-5ejb)
-- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-1bp7)
-- [🔥 29 Tools, Full Autonomy &amp; Sovereign Execution: The Rise of the Flame CLI Empire](https://dev.to/ghostking314/29-tools-full-autonomy-sovereign-execution-the-rise-of-the-flame-cli-empire-2iff)
-- [The Quiet Phase Between Clarity and Change](https://dev.to/tonystpierre/the-quiet-phase-between-clarity-and-change-170h)
-- [Planning Poker Integration for Azure DevOps 🃏](https://dev.to/mattlewandowski93/planning-poker-integration-for-azure-devops-ph1)
+- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
+- [Day 34 — Layers Are Building &lpar;React, JS OOP, Matplotlib&rpar;](https://dev.to/mridulbansal2006/day-34-layers-are-building-react-js-oop-matplotlib-2l0i)
+- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
+- [Playlist de Trilhas Cristãs com Instrumentos Acústicos para Inspirar sua Fé](https://dev.to/bateriacordas994/playlist-de-trilhas-cristas-com-instrumentos-acusticos-para-inspirar-sua-fe-56ip)
+- [Entrevista com Luthier Local: Entre Tradição e Novas Ideias](https://dev.to/partituramaster065/entrevista-com-luthier-local-entre-tradicao-e-novas-ideias-2bfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
