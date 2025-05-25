@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Steps to Deploy a Three-Tier E-Commerce System on AWS EKS](https://dev.to/aws-builders/simple-steps-to-deploy-a-three-tier-e-commerce-system-on-aws-eks-eb0)
-- [🤖 Programming Is Applied Philosophy &lpar;You Just Didn&#39;t Notice&rpar;](https://dev.to/snappytuts/programming-is-applied-philosophy-you-just-didnt-notice-3bni)
-- [You Don’t Need to Build a Big Project to Learn](https://dev.to/abubaker_siddique_513b7e2/you-dont-need-to-build-a-big-project-to-learn-36he)
-- [How I Built My Self-Hosted Homelab with Docker on Ubuntu 24.04](https://dev.to/enkuldes/how-i-built-my-self-hosted-homelab-with-docker-on-ubuntu-2404-1ccc)
-- [From Zero to Genix: Building Falcon S, FWord &amp; Rela as One Developer 👨‍💻 By Developer Dominex](https://dev.to/nyinyi190890/from-zero-to-genix-building-falcon-s-fword-rela-as-one-developer-by-developer-dominex-49c7)
+- [NPM Downlytics](https://dev.to/mr_882a4b4c99be10898d6f7/npm-downlytics-1dn8)
+- [A2A and MCP Combined Implementation](https://dev.to/heetvekariya/a2a-and-mcp-combined-implementation-5bg9)
+- [🚀 Reducing JavaScript Bundle Size with Code Splitting in 2025](https://dev.to/hamzakhan/reducing-javascript-bundle-size-with-code-splitting-in-2025-3927)
+- [Introduction](https://dev.to/akshthakkar/introduction-4g88)
+- [Isolation — The Trickiest ACID Pillar &lpar;And Why It Matters More Than You Think&rpar;](https://dev.to/mandarg13/isolation-the-trickiest-acid-pillar-and-why-it-matters-more-than-you-think-57bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
