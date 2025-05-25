@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM Downlytics](https://dev.to/mr_882a4b4c99be10898d6f7/npm-downlytics-1dn8)
-- [A2A and MCP Combined Implementation](https://dev.to/heetvekariya/a2a-and-mcp-combined-implementation-5bg9)
-- [🚀 Reducing JavaScript Bundle Size with Code Splitting in 2025](https://dev.to/hamzakhan/reducing-javascript-bundle-size-with-code-splitting-in-2025-3927)
-- [Introduction](https://dev.to/akshthakkar/introduction-4g88)
-- [Isolation — The Trickiest ACID Pillar &lpar;And Why It Matters More Than You Think&rpar;](https://dev.to/mandarg13/isolation-the-trickiest-acid-pillar-and-why-it-matters-more-than-you-think-57bb)
+- [BIOS Password Bypass](https://dev.to/blackwall/bios-password-bypass-4a8o)
+- [Weekly Challenge: Strings and Arrays](https://dev.to/simongreennet/weekly-challenge-strings-and-arrays-4a8h)
+- [Hands-Free Design: Automated Assistants That Do the Heavy Lifting](https://dev.to/atforeveryoung/hands-free-design-automated-assistants-that-do-the-heavy-lifting-ibe)
+- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-3oi2)
+- [🚀 My DevOps Journey: From Linux Basics to Dockerized Projects — Follow Along on GitHub! 🐧🐳](https://dev.to/rockstarmonil/my-devops-journey-from-linux-basics-to-dockerized-projects-follow-along-on-github-48j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
