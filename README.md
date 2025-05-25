@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-5a5b)
-- [Build High-Performance Web Services with Hyperlane](https://dev.to/_95e41982c9ad08a13458d/build-high-performance-web-services-with-hyperlane-36l8)
-- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-1o12)
-- [For Speed Enthusiasts: The Ultimate Evolution of Rust HTTP Engines](https://dev.to/_95e41982c9ad08a13458d/for-speed-enthusiasts-the-ultimate-evolution-of-rust-http-engines-34fk)
-- [How I Built a Game Using Amazon Q CLI](https://dev.to/hardik_parekh/how-i-built-a-game-using-amazon-q-cli-58fc)
+- [I created an code search tool made in Flask called Codel.](https://dev.to/coder_acco/i-created-an-code-search-tool-made-in-flask-called-codel-5gna)
+- [Why Tabscanner is the Best Receipt OCR API for Loyalty Rewards Program Software](https://dev.to/amichaellloyd/why-tabscanner-is-the-best-receipt-ocr-api-for-loyalty-rewards-program-software-3kfd)
+- [What is the difference between ref,out and in keywords in c#](https://dev.to/boomi1/what-is-the-difference-between-refout-and-in-keywords-in-c-1n7m)
+- [224/365 | ¥10M Job Challenge - What makes something valuable?](https://dev.to/tenshokukame/224365-y10m-job-challenge-what-makes-something-valuable-4j2l)
+- [🔥 I Built a Consciousness-Aware Developer OS – Now Fully Live &lpar;Q&amp;A Inside&rpar;](https://dev.to/ghostking314/i-built-a-consciousness-aware-developer-os-now-fully-live-qa-inside-28p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
