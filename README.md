@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipeline Pattern in Go: A Practical Guide](https://dev.to/leapcell/pipeline-pattern-in-go-a-practical-guide-5dmm)
+- [Real Gem](https://dev.to/derrickatongo/-46h2)
 - [Analysis of the King of Aridoria : A Prompt Engineering Project](https://dev.to/grimkillingbeck/analysis-of-the-king-of-aridoria-a-prompt-engineering-project-3dfe)
 - [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
 - [Revolutionize Your Database Development with SchemaCrawler MCP Server](https://dev.to/sualeh/revolutionize-your-database-development-with-schemacrawler-mcp-server-310i)
-- [Why Functional Decomposition Leads to Bad System Design](https://dev.to/ujjwall-r/why-functional-decomposition-leads-to-bad-system-design-5chd)
-- [Retrieving System MAC Address Across OS Platforms](https://dev.to/wildshark/retrieving-system-mac-address-across-os-platforms-3fjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
