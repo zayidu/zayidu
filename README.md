@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Elastic Beanstalk](https://dev.to/godofgeeks/aws-elastic-beanstalk-288h)
-- [The Business Case for Angular: Why Enterprises Still Choose Angular in 2025](https://dev.to/karol_modelski/the-business-case-for-angular-why-enterprises-still-choose-angular-in-2025-2l50)
-- [🚀 Building Playwright Framework Step By Step - Initial Setup](https://dev.to/idavidov13/building-playwright-framework-step-by-step-initial-setup-3iba)
-- [Single Computers vs Distributed Systems: Why Everything Gets Complicated](https://dev.to/lukasniessen/single-computers-vs-distributed-systems-why-everything-gets-complicated-1j4k)
-- [It Doesn&#39;t Get Faster Than This: Launching a Next.js Project with a Professional Boilerplate](https://dev.to/shaadcode/it-doesnt-get-faster-than-this-launching-a-nextjs-project-with-a-professional-boilerplate-4j1e)
+- [Difference between __proto__, [[Prototype]] &amp; .prototype in JavaScript](https://dev.to/capscode/difference-between-proto-prototype-prototype-in-javascript-3073)
+- [Dynamic Binding of CSS Classes and Styles in Vue 3, Svelte 5 and Angular](https://dev.to/railsstudent/dynamic-binding-of-css-classes-and-styles-in-vue-3-svelte-5-and-angular-1nkm)
+- [Install PHP8.4 for Ubuntu Server 20.04 LTS in 2025](https://dev.to/pandito___/install-php84-for-ubuntu-server-2004-lts-in-2025-44b8)
+- [&quot;Record&quot; utility type in TypeScript](https://dev.to/shelner/record-type-in-typescript-2gb9)
+- [PHP8.4 Pros Cons for Web Application Development in 2025](https://dev.to/pandito___/php84-pros-cons-for-web-application-development-in-2025-3kag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
