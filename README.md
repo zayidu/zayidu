@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BIOS Password Bypass](https://dev.to/blackwall/bios-password-bypass-4a8o)
-- [Weekly Challenge: Strings and Arrays](https://dev.to/simongreennet/weekly-challenge-strings-and-arrays-4a8h)
-- [Hands-Free Design: Automated Assistants That Do the Heavy Lifting](https://dev.to/atforeveryoung/hands-free-design-automated-assistants-that-do-the-heavy-lifting-ibe)
-- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-3oi2)
-- [🚀 My DevOps Journey: From Linux Basics to Dockerized Projects — Follow Along on GitHub! 🐧🐳](https://dev.to/rockstarmonil/my-devops-journey-from-linux-basics-to-dockerized-projects-follow-along-on-github-48j3)
+- [Building a Free AI Story Generator with Next.js 15: From Zero to Deployment](https://dev.to/dylan_huang_2686f6cef827a/building-a-free-ai-story-generator-with-nextjs-15-from-zero-to-deployment-a3k)
+- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-4099)
+- [How to Download and Install Anime Witcher APK on Android [Step-by-Step Guide]](https://dev.to/anime_witcher_0e5e5aad5fe/how-to-download-and-install-anime-witcher-apk-on-android-step-by-step-guide-p6l)
+- [Razorpay Integration with Django: Step-by-Step Guide 💳](https://dev.to/madhubankhatri/razorpay-integration-with-django-step-by-step-guide-1cmn)
+- [Spider.css - A lightweight css framework](https://dev.to/pjdeveloper896/spidercss-a-lightweight-css-framework-2gf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
