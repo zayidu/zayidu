@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [St Page Flip](https://dev.to/preetha_vaishnavi_2b82358/st-page-flip-2fo4)
-- [Animated Tab Bar](https://dev.to/preetha_vaishnavi_2b82358/animated-tab-bar-2h43)
-- [Bubbles](https://dev.to/preetha_vaishnavi_2b82358/bubbles-13om)
-- [Form with SVG radio buttons](https://dev.to/preetha_vaishnavi_2b82358/form-with-svg-radio-buttons-46l)
-- [How I Deployed My Portfolio Using AWS S3 + CloudFront + Cloudflare &lpar;Free SSL &amp; Email!&rpar;](https://dev.to/itsfarhan/how-i-deployed-my-portfolio-using-aws-s3-cloudfront-cloudflare-free-ssl-email-c3c)
+- [Weekly #21-2025: AI Everywhere: Google, Apple, Cursor, GitHub &amp; the Future of Development, AWS Security Flaw](https://dev.to/weekly/weekly-21-2025-ai-everywhere-google-apple-cursor-github-the-future-of-development-aws-50n8)
+- [Google I/O vs OpenAI: The Race to Shape the Future of AI and Innovation](https://dev.to/abhishekshakya/google-io-vs-openai-the-race-to-shape-the-future-of-ai-and-innovation-bg2)
+- [Read-Only Root Filesystems in Docker: Minimizing Container Write Access for Better Security](https://dev.to/hexshift/read-only-root-filesystems-in-docker-minimizing-container-write-access-for-better-security-3i43)
+- [Office 365 E1 Plus &lpar;No Teams&rpar;: A Lightweight Powerhouse for Business Productivity in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/office-365-e1-plus-no-teams-a-lightweight-powerhouse-for-business-productivity-in-2025-markdown-54fi)
+- [Particles](https://dev.to/preetha_vaishnavi_2b82358/particles-2k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
