@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Onboarding Engineers in an Era of Code Explosion](https://dev.to/lonetrouper/onboarding-engineers-in-an-era-of-code-explosion-5ef9)
-- [BrightData MCP - Google ADK: Professional Web Scraping Platform](https://dev.to/arjun_prabhulal/brightdata-mcp-google-adk-professional-web-scraping-platform-2f5d)
-- [🧠 Learn CSS Pseudo-classes by Category — With Priorities!](https://dev.to/sejutaimpian/learn-css-pseudo-classes-by-category-with-priorities-1oeh)
-- [Financial Signals Dashboard: AI-Powered Stock Analysis with Bright Data MCP Server &amp; Strands Agents SDK](https://dev.to/aws-builders/financial-signals-dashboard-ai-powered-stock-analysis-with-bright-data-mcp-server-strands-agents-11ed)
-- [CSS Pseudo-classes Cheat Sheet 🔍](https://dev.to/sejutaimpian/css-pseudo-classes-cheat-sheet-1j18)
+- [🐛🔍 Debugging JavaScript Like a Pro: Mastering Browser DevTools &amp; Node.js 🛠️](https://dev.to/hanzla-baig/debugging-javascript-like-a-pro-mastering-browser-devtools-nodejs-85g)
+- [Can I Customize Templates in Resume Builders in 2025?](https://dev.to/puratabla/can-i-customize-templates-in-resume-builders-in-2025-454n)
+- [Four Lessons &lpar;and a Challenge&rpar; for a Coder Struggling to Write](https://dev.to/canro91/four-lessons-and-a-challenge-for-a-coder-struggling-to-write-2c91)
+- [🚀 What Are Progressive Web Apps &lpar;PWAs&rpar;? A Complete Guide for Modern Web Devs](https://dev.to/hasunnilupul/what-are-progressive-web-apps-pwas-a-complete-guide-for-modern-web-devs-4191)
+- [Stay ahead in web development: latest news, tools, and insights #86](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-86-25cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
