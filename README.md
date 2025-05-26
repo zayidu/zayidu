@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS运动开发：如何集成百度地图SDK、运动跟随与运动公里数记录](https://dev.to/smartbackme/harmonyosyun-dong-kai-fa-ru-he-ji-cheng-bai-du-di-tu-sdk-yun-dong-gen-sui-yu-yun-dong-gong-li-shu-ji-lu-eoh)
-- [Parquet? What Parquet?](https://dev.to/konstantinas_mamonas/parquet-what-parquet-5hfc)
-- [Segurança ao Alugar Vans: Tudo que Você Precisa Saber para Viajar Tranquilo](https://dev.to/eventosway086/seguranca-ao-alugar-vans-tudo-que-voce-precisa-saber-para-viajar-tranquilo-2pgi)
-- [AuraFeed - Real-time AI News Sentiment Analyzer](https://dev.to/bhavna_b_baa952ae51dac930/hackathon-real-time-ai-news-intelligence-dashboard-5epm)
-- [My Two Cents: Reflections on 30 Days of Daily Coding](https://dev.to/mahamudul_hasan_e716e8fa1/my-two-cents-reflections-on-30-days-of-daily-coding-224e)
+- [Using SQL for data analysis seems to be a false proposition](https://dev.to/esproc_spl/using-sql-for-data-analysis-seems-to-be-a-false-proposition-256d)
+- [# 🚀 Из просто умного JSON в бронированный JSON на стероидах — встречайте WiseJSON](https://dev.to/xzdes/-iz-prosto-umnogho-json-v-bronirovannyi-json-na-stieroidakh-vstriechaitie-wisejson-3k83)
+- [Digitizing the Future: The Rising Dominance of Online Education and its Transformational Impact on Traditional Classrooms](https://dev.to/ghummantech/digitizing-the-future-the-rising-dominance-of-online-education-and-its-transformational-impact-on-3a75)
+- [How We Build Scalable Web &amp; Mobile Apps at CodeLines &lpar;Laravel + Vue + React Native&rpar;](https://dev.to/smbat_amiraghyan_4a813230/how-we-build-scalable-web-mobile-apps-at-codelines-laravel-vue-react-native-2fl2)
+- [HarmonyOS Next Energy Saving Synchronizer: Let the background data &quot;breathe smartly&quot;](https://dev.to/lyc233333/harmonyos-next-energy-saving-synchronizer-let-the-background-data-breathe-smartly-4l6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
