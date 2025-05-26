@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lynx vs React Native: Uma Nova Alternativa no Mundo Cross-Platform?](https://dev.to/aroldo_goulart_b196718b4f/lynx-vs-react-native-uma-nova-alternativa-no-mundo-cross-platform-383l)
-- [Lonely Island RPG](https://dev.to/jpaulin/lonely-island-rpg-4eci)
-- [I just published my first dev article! While working on a React Native project, I couldn’t find a good guide on setting up push notifications with Expo and Firebase, so I decided to write one myself.](https://dev.to/totoledao/i-just-published-my-first-dev-article-while-working-on-a-react-native-project-i-couldnt-find-a-3438)
-- [The Big Three Cloud Providers Have All Launched AI Copilots for DevOps](https://dev.to/franciscojeg78/the-big-three-cloud-providers-have-all-launched-ai-copilots-for-devops-2554)
-- [Started keeping a video blog about the development process. So that it wouldn&#39;t be boring.](https://dev.to/vladimirm/started-keeping-a-video-blog-about-the-development-process-so-that-it-wouldnt-be-boring-10e8)
+- [[Boost]](https://dev.to/farlamo/-1kee)
+- [Introduction to PostgreSQL](https://dev.to/farlamo/introduction-to-postgresql-3cp4)
+- [The Art of Automation in Modern Engineering](https://dev.to/nigel10122/the-art-of-automation-in-modern-engineering-27f8)
+- [Reinventando a Roda: Criando um compilador em csharp - Parte 2](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-2-2jmi)
+- [Controlling Chrome with an AnythingLLM MCP Agent](https://dev.to/drunnells/controlling-chrome-with-an-anythingllm-mcp-agent-5891)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
