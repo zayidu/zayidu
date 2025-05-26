@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using SQL for data analysis seems to be a false proposition](https://dev.to/esproc_spl/using-sql-for-data-analysis-seems-to-be-a-false-proposition-256d)
-- [# 🚀 Из просто умного JSON в бронированный JSON на стероидах — встречайте WiseJSON](https://dev.to/xzdes/-iz-prosto-umnogho-json-v-bronirovannyi-json-na-stieroidakh-vstriechaitie-wisejson-3k83)
-- [Digitizing the Future: The Rising Dominance of Online Education and its Transformational Impact on Traditional Classrooms](https://dev.to/ghummantech/digitizing-the-future-the-rising-dominance-of-online-education-and-its-transformational-impact-on-3a75)
-- [How We Build Scalable Web &amp; Mobile Apps at CodeLines &lpar;Laravel + Vue + React Native&rpar;](https://dev.to/smbat_amiraghyan_4a813230/how-we-build-scalable-web-mobile-apps-at-codelines-laravel-vue-react-native-2fl2)
-- [HarmonyOS Next Energy Saving Synchronizer: Let the background data &quot;breathe smartly&quot;](https://dev.to/lyc233333/harmonyos-next-energy-saving-synchronizer-let-the-background-data-breathe-smartly-4l6m)
+- [[AutoBE] Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
+- [[Boost]](https://dev.to/paulwababu/-1mbn)
+- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
+- [Part 4: How to Implement a Dialog That Blocks the System Back Key in HarmonyOS?](https://dev.to/xhunmon/part-4-how-to-implement-a-dialog-that-blocks-the-system-back-key-in-harmonyos-1m2o)
+- [Part 3: Step-by-Step Guide to Encapsulating the Navigation Routing Framework in HarmonyOS](https://dev.to/xhunmon/part-3-step-by-step-guide-to-encapsulating-the-navigation-routing-framework-in-harmonyos-35c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
