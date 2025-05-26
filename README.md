@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hugging Face MCP Course.](https://dev.to/abdullahadeeb/hugging-face-mcp-course-5bbi)
-- [Advanced Use of Symbol.toStringTag for Custom Objects](https://dev.to/omriluz1/advanced-use-of-symboltostringtag-for-custom-objects-5gja)
-- [💳 PhonePe Payment Gateway Integration – A Complete Guide](https://dev.to/aritra_dutta_07526ad4f6bb/phonepe-payment-gateway-integration-a-complete-guide-49l8)
-- [Email is something we do every day but rarely question. This article makes you pause and improve how you use it.](https://dev.to/darrenstoik/email-is-something-we-do-every-day-but-rarely-question-this-article-makes-you-pause-and-improve-4i8j)
-- [🐍 𝗣𝘆𝘁𝗵𝗼𝗻: 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗦𝗽𝗲𝗲𝗱 𝗼𝗳 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗡𝗼𝘁 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻](https://dev.to/justin_morales_225c97a732/--546p)
+- [product Management Dashboard UI – Clean and Responsive](https://dev.to/ahmed_niazy/product-management-dashboard-ui-clean-and-responsive-3laa)
+- [Free Responsive Admin Panel UI Template – HTML, CSS, JavaScript Source Code](https://dev.to/codebloxer_dev/free-responsive-admin-panel-ui-template-html-css-javascript-source-code-fgc)
+- [🧭 Introduction to Web Accessibility &lpar;a11y&rpar; – where to start?](https://dev.to/aleksandra_rataj/introduction-to-web-accessibility-a11y-where-to-start-5h6d)
+- [Supercharge Your Deployments: GitHub Actions + Azure Web App CI/CD](https://dev.to/edudeveloper/supercharge-your-deployments-github-actions-azure-web-app-cicd-1lkd)
+- [Building a Canvas App PCF Control to Download Files from SharePoint](https://dev.to/ievafil/building-a-canvas-app-pcf-control-to-download-files-from-sharepoint-3697)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
