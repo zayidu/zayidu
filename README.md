@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ops Apocalypse is Coming! SSL Certificate Validity to be Shortened Again?](https://dev.to/patel1314/the-ops-apocalypse-is-coming-ssl-certificate-validity-to-be-shortened-again-2dgj)
-- [🌿 GreenOps e AWS Well-Architected Framework](https://dev.to/sertaoseracloud/greenops-e-aws-well-architected-framework-1ibc)
-- [Higher-Order Functions](https://dev.to/tohemt/higher-order-functions-3250)
-- [Data Structures #3: Trie](https://dev.to/tkouleris/data-structures-3-trie-djp)
-- [First third of the river animation](https://dev.to/magipunk/first-third-of-the-river-animation-5132)
+- [Onboarding Engineers in an Era of Code Explosion](https://dev.to/lonetrouper/onboarding-engineers-in-an-era-of-code-explosion-5ef9)
+- [BrightData MCP - Google ADK: Professional Web Scraping Platform](https://dev.to/arjun_prabhulal/brightdata-mcp-google-adk-professional-web-scraping-platform-2f5d)
+- [🧠 Learn CSS Pseudo-classes by Category — With Priorities!](https://dev.to/sejutaimpian/learn-css-pseudo-classes-by-category-with-priorities-1oeh)
+- [Financial Signals Dashboard: AI-Powered Stock Analysis with Bright Data MCP Server &amp; Strands Agents SDK](https://dev.to/aws-builders/financial-signals-dashboard-ai-powered-stock-analysis-with-bright-data-mcp-server-strands-agents-11ed)
+- [CSS Pseudo-classes Cheat Sheet 🔍](https://dev.to/sejutaimpian/css-pseudo-classes-cheat-sheet-1j18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
