@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/espoir/-184e)
-- [Searching for a new Keywordkönig](https://dev.to/florian_meissner_11fa9b98/searching-for-a-new-keywordkonig-10mm)
-- [🚀 How I Built My First Python Automation Script &lpar;And You Can Too!&rpar; Hey devs! 👋](https://dev.to/nihal473/how-i-built-my-first-python-automation-script-and-you-can-toohey-devs-14g4)
-- [Fixing “502 Bad Gateway” with Gunicorn and Nginx on Ubuntu](https://dev.to/msnmongare/fixing-502-bad-gateway-with-gunicorn-and-nginx-on-ubuntu-5b8h)
-- [Ngoding Sambil Ngopi: Trik Ampuh Jaga Waras Buat Para Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-ngopi-trik-ampuh-jaga-waras-buat-para-software-engineer-37dm)
+- [ML in 2025: Which Platform Wins — SageMaker or Azure ML? ⚔️](https://dev.to/clickit_devops/ml-in-2025-which-platform-wins-sagemaker-or-azure-ml-3g57)
+- [Ever wondered how apps instantly know when an order is placed, a form is submitted, or a payment succeeds? The answer is Webhooks — and how they are different with APIs.](https://dev.to/brains_behind_bots/ever-wondered-how-apps-instantly-know-when-an-order-is-placed-a-form-is-submitted-or-a-payment-229)
+- [Why Every Automation Needs Webhooks — And How to Use Them in n8n](https://dev.to/brains_behind_bots/why-every-automation-needs-webhooks-and-how-to-use-them-in-n8n-440c)
+- [Enchant your terminal application with python: survey, glow, rich, textwrap.](https://dev.to/nakedonthebus/enchant-your-terminal-application-with-python-survey-glow-rich-textwrap-and-more-j62)
+- [System Revamp: Stepping Into System Design](https://dev.to/vn-vision/system-revamp-stepping-into-system-design-15l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
