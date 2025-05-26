@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[AutoBE] Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
-- [[Boost]](https://dev.to/paulwababu/-1mbn)
-- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
-- [Part 4: How to Implement a Dialog That Blocks the System Back Key in HarmonyOS?](https://dev.to/xhunmon/part-4-how-to-implement-a-dialog-that-blocks-the-system-back-key-in-harmonyos-1m2o)
-- [Part 3: Step-by-Step Guide to Encapsulating the Navigation Routing Framework in HarmonyOS](https://dev.to/xhunmon/part-3-step-by-step-guide-to-encapsulating-the-navigation-routing-framework-in-harmonyos-35c7)
+- [Getting McFly Working on Ubuntu Server](https://dev.to/nickytonline/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e)
+- [Custom Software vs. Off-the-Shelf](https://dev.to/bridgegroupsolutions/custom-software-vs-off-the-shelf-8m8)
+- [VPN Replacement for Secure Remote Access: A Modern Approach](https://dev.to/lightningdev123/vpn-replacement-for-secure-remote-access-a-modern-approach-1203)
+- [What If DeFi Could Defend Itself? Meet Drosera.](https://dev.to/dhis_is_jj/what-if-defi-could-defend-itself-meet-drosera-2ffa)
+- [XML](https://dev.to/rakesh_chaubey_ac4fa25823/xml-2llm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
