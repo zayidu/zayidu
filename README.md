@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting McFly Working on Ubuntu Server](https://dev.to/nickytonline/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e)
-- [Custom Software vs. Off-the-Shelf](https://dev.to/bridgegroupsolutions/custom-software-vs-off-the-shelf-8m8)
-- [VPN Replacement for Secure Remote Access: A Modern Approach](https://dev.to/lightningdev123/vpn-replacement-for-secure-remote-access-a-modern-approach-1203)
-- [What If DeFi Could Defend Itself? Meet Drosera.](https://dev.to/dhis_is_jj/what-if-defi-could-defend-itself-meet-drosera-2ffa)
-- [XML](https://dev.to/rakesh_chaubey_ac4fa25823/xml-2llm)
+- [ServBay: Create Your Perfect macOS Development Environment with One Click](https://dev.to/servbay/servbay-create-your-perfect-macos-development-environment-with-one-click-25p6)
+- [Stop Testing on Fake Devices: The Real Cost of Real Browser Testing in 2025](https://dev.to/p_0c0278d/stop-testing-on-fake-devices-the-real-cost-of-real-browser-testing-in-2025-390g)
+- [🚀 Just launched: Laravel SecretSync — an easy way to sync secrets from Infisical into your Laravel apps easily.](https://dev.to/umarjimoh/just-launched-laravel-secretsync-an-easy-way-to-sync-secrets-from-infisical-into-your-laravel-3ccj)
+- [Cómo Recibir SMS Internacionales en España: Guía Práctica 2025](https://dev.to/grizzly_sms/como-recibir-sms-internacionales-en-espana-guia-practica-2025-44pn)
+- [𓅪 Huginn: A Discord Bot for My Valheim Server ~ felt too lazy to click on bash script — so made a bot ;3](https://dev.to/pratyush_soni_853633e1553/huginn-a-discord-bot-for-my-valheim-server-felt-too-lazy-to-click-on-bash-script-so-made-a-42l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
