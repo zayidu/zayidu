@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay: Create Your Perfect macOS Development Environment with One Click](https://dev.to/servbay/servbay-create-your-perfect-macos-development-environment-with-one-click-25p6)
-- [Stop Testing on Fake Devices: The Real Cost of Real Browser Testing in 2025](https://dev.to/p_0c0278d/stop-testing-on-fake-devices-the-real-cost-of-real-browser-testing-in-2025-390g)
-- [🚀 Just launched: Laravel SecretSync — an easy way to sync secrets from Infisical into your Laravel apps easily.](https://dev.to/umarjimoh/just-launched-laravel-secretsync-an-easy-way-to-sync-secrets-from-infisical-into-your-laravel-3ccj)
-- [Cómo Recibir SMS Internacionales en España: Guía Práctica 2025](https://dev.to/grizzly_sms/como-recibir-sms-internacionales-en-espana-guia-practica-2025-44pn)
-- [𓅪 Huginn: A Discord Bot for My Valheim Server ~ felt too lazy to click on bash script — so made a bot ;3](https://dev.to/pratyush_soni_853633e1553/huginn-a-discord-bot-for-my-valheim-server-felt-too-lazy-to-click-on-bash-script-so-made-a-42l8)
+- [Marjorie Taylor Greene picked a fight with Grok](https://dev.to/future_ai/marjorie-taylor-greene-picked-a-fight-with-grok-3hp4)
+- [Google Veo 3 could become a real problem for content creators as convincing AI videos flood the web](https://dev.to/future_ai/google-veo-3-could-become-a-real-problem-for-content-creators-as-convincing-ai-videos-flood-the-web-l0j)
+- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-3m4j)
+- [Shift Left for AI Coding Assistants: How to Enforce AppSec Early with Cursor &amp; Windsurf](https://dev.to/clouddefenseai/shift-left-for-ai-coding-assistants-how-to-enforce-appsec-early-with-cursor-windsurf-2ig7)
+- [Benchmarking AI-Generated Code: Cursor vs Windsurf vs Secure Coding Standards](https://dev.to/clouddefenseai/benchmarking-ai-generated-code-cursor-vs-windsurf-vs-secure-coding-standards-3afp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
