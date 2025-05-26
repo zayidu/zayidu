@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Marjorie Taylor Greene picked a fight with Grok](https://dev.to/future_ai/marjorie-taylor-greene-picked-a-fight-with-grok-3hp4)
-- [Google Veo 3 could become a real problem for content creators as convincing AI videos flood the web](https://dev.to/future_ai/google-veo-3-could-become-a-real-problem-for-content-creators-as-convincing-ai-videos-flood-the-web-l0j)
-- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-3m4j)
-- [Shift Left for AI Coding Assistants: How to Enforce AppSec Early with Cursor &amp; Windsurf](https://dev.to/clouddefenseai/shift-left-for-ai-coding-assistants-how-to-enforce-appsec-early-with-cursor-windsurf-2ig7)
-- [Benchmarking AI-Generated Code: Cursor vs Windsurf vs Secure Coding Standards](https://dev.to/clouddefenseai/benchmarking-ai-generated-code-cursor-vs-windsurf-vs-secure-coding-standards-3afp)
+- [How to Host and Transfer WordPress on Hostman Server](https://dev.to/hostman_com/how-to-host-and-transfer-wordpress-on-hostman-server-1643)
+- [9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡](https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn)
+- [🚀 How I Aced My LLM Interview: Building a RAG Chatbot](https://dev.to/mrzaizai2k/how-i-aced-my-llm-interview-building-a-rag-chatbot-2p6f)
+- [The Singleton Design Pattern](https://dev.to/mspilari/the-singleton-design-pattern-3k5h)
+- [Certificate Generator html and javascript](https://dev.to/preetha_vaishnavi_2b82358/certificate-generator-html-and-javascript-2dj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
