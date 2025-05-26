@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
-- [Looking at c#&#39;s Task&lt;IEnumerable&lt;T&gt;&gt;](https://dev.to/dampee/looking-at-cs-taskienumerable-14ph)
-- [🚀🚀](https://dev.to/borba/-4g0e)
-- [[Boost]](https://dev.to/elldora/-gbp)
-- [Google Cloud Summit Benelux was 🤩](https://dev.to/googleworkspace/google-cloud-summit-benelux-was-440j)
+- [[Boost]](https://dev.to/espoir/-184e)
+- [Searching for a new Keywordkönig](https://dev.to/florian_meissner_11fa9b98/searching-for-a-new-keywordkonig-10mm)
+- [🚀 How I Built My First Python Automation Script &lpar;And You Can Too!&rpar; Hey devs! 👋](https://dev.to/nihal473/how-i-built-my-first-python-automation-script-and-you-can-toohey-devs-14g4)
+- [Fixing “502 Bad Gateway” with Gunicorn and Nginx on Ubuntu](https://dev.to/msnmongare/fixing-502-bad-gateway-with-gunicorn-and-nginx-on-ubuntu-5b8h)
+- [Ngoding Sambil Ngopi: Trik Ampuh Jaga Waras Buat Para Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-ngopi-trik-ampuh-jaga-waras-buat-para-software-engineer-37dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
