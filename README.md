@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Less of a Black Box: The Basics of Explainable AI](https://dev.to/rawveg/making-ai-less-of-a-black-box-the-basics-of-explainable-ai-4lnh)
-- [Why software projects fail.](https://dev.to/fjzavala21/why-software-projects-fail-2gla)
-- [🧠 Perplexity vs. ChatGPT：你其實搞錯他們的定位 💭 他們根本不是同一種生物。](https://dev.to/jennifer_andleigh_a84c434/perplexity-vs-chatgptni-qi-shi-zhi-zai-gao-cuo-ta-men-de-ding-wei-ta-men-gen-ben-bu-shi-tong-zhong-sheng-wu--27o6)
-- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
-- [Using Copilot agent in Visual Studio](https://dev.to/karenpayneoregon/using-copilot-agent-in-visual-studio-16nb)
+- [Hugging Face MCP Course.](https://dev.to/abdullahadeeb/hugging-face-mcp-course-5bbi)
+- [Advanced Use of Symbol.toStringTag for Custom Objects](https://dev.to/omriluz1/advanced-use-of-symboltostringtag-for-custom-objects-5gja)
+- [💳 PhonePe Payment Gateway Integration – A Complete Guide](https://dev.to/aritra_dutta_07526ad4f6bb/phonepe-payment-gateway-integration-a-complete-guide-49l8)
+- [Email is something we do every day but rarely question. This article makes you pause and improve how you use it.](https://dev.to/darrenstoik/email-is-something-we-do-every-day-but-rarely-question-this-article-makes-you-pause-and-improve-4i8j)
+- [🐍 𝗣𝘆𝘁𝗵𝗼𝗻: 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗦𝗽𝗲𝗲𝗱 𝗼𝗳 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗡𝗼𝘁 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻](https://dev.to/justin_morales_225c97a732/--546p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
