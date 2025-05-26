@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [README driven development](https://dev.to/gregmartinez44/readme-driven-development-373k)
-- [Harmonyos Cangjie Development Language Practical Tutorial: Page Jump and Parameter Passing](https://dev.to/youlanjihua/harmonyos-cangjie-development-language-practical-tutorial-page-jump-and-parameter-passing-6em)
-- [whoami](https://dev.to/andreluizlunelli/whoami-2i9p)
-- [ApplyMate✍🏻Form Filler AI Agent! | Your best friend Form Filler](https://dev.to/diosamuel/applymateform-filler-ai-agent-your-best-friend-form-filler-43da)
-- [Fixing Go Unit Test Problems: When Your Code Just Stops!](https://dev.to/nyunja_jp/fixing-go-test-problems-when-your-code-just-stops-27g)
+- [The Ops Apocalypse is Coming! SSL Certificate Validity to be Shortened Again?](https://dev.to/patel1314/the-ops-apocalypse-is-coming-ssl-certificate-validity-to-be-shortened-again-2dgj)
+- [🌿 GreenOps e AWS Well-Architected Framework](https://dev.to/sertaoseracloud/greenops-e-aws-well-architected-framework-1ibc)
+- [Higher-Order Functions](https://dev.to/tohemt/higher-order-functions-3250)
+- [Data Structures #3: Trie](https://dev.to/tkouleris/data-structures-3-trie-djp)
+- [First third of the river animation](https://dev.to/magipunk/first-third-of-the-river-animation-5132)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
