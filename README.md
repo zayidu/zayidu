@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
-- [Day 34 — Layers Are Building &lpar;React, JS OOP, Matplotlib&rpar;](https://dev.to/mridulbansal2006/day-34-layers-are-building-react-js-oop-matplotlib-2l0i)
-- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
-- [Playlist de Trilhas Cristãs com Instrumentos Acústicos para Inspirar sua Fé](https://dev.to/bateriacordas994/playlist-de-trilhas-cristas-com-instrumentos-acusticos-para-inspirar-sua-fe-56ip)
-- [Entrevista com Luthier Local: Entre Tradição e Novas Ideias](https://dev.to/partituramaster065/entrevista-com-luthier-local-entre-tradicao-e-novas-ideias-2bfe)
+- [README driven development](https://dev.to/gregmartinez44/readme-driven-development-373k)
+- [Harmonyos Cangjie Development Language Practical Tutorial: Page Jump and Parameter Passing](https://dev.to/youlanjihua/harmonyos-cangjie-development-language-practical-tutorial-page-jump-and-parameter-passing-6em)
+- [whoami](https://dev.to/andreluizlunelli/whoami-2i9p)
+- [ApplyMate✍🏻Form Filler AI Agent! | Your best friend Form Filler](https://dev.to/diosamuel/applymateform-filler-ai-agent-your-best-friend-form-filler-43da)
+- [Fixing Go Unit Test Problems: When Your Code Just Stops!](https://dev.to/nyunja_jp/fixing-go-test-problems-when-your-code-just-stops-27g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
