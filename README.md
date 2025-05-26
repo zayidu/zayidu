@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐛🔍 Debugging JavaScript Like a Pro: Mastering Browser DevTools &amp; Node.js 🛠️](https://dev.to/hanzla-baig/debugging-javascript-like-a-pro-mastering-browser-devtools-nodejs-85g)
-- [Can I Customize Templates in Resume Builders in 2025?](https://dev.to/puratabla/can-i-customize-templates-in-resume-builders-in-2025-454n)
-- [Four Lessons &lpar;and a Challenge&rpar; for a Coder Struggling to Write](https://dev.to/canro91/four-lessons-and-a-challenge-for-a-coder-struggling-to-write-2c91)
-- [🚀 What Are Progressive Web Apps &lpar;PWAs&rpar;? A Complete Guide for Modern Web Devs](https://dev.to/hasunnilupul/what-are-progressive-web-apps-pwas-a-complete-guide-for-modern-web-devs-4191)
-- [Stay ahead in web development: latest news, tools, and insights #86](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-86-25cd)
+- [What is LLM Orchestration?](https://dev.to/voltagent/what-is-llm-orchestration-1b5e)
+- [Set Theory for Developers](https://dev.to/csprimer/set-theory-for-developers-1b14)
+- [Sentinel Nexus: AI-Powered Threat Intelligence Platform](https://dev.to/collynce/sentinel-nexus-ai-powered-threat-intelligence-platform-1ibj)
+- [How to Build an AI-Powered Portfolio Analyzer Using LangGraph and LangChain &lpar;Step-by-Step Guide&rpar;](https://dev.to/ritahchanger/build-a-portfolio-analysis-agent-with-ai-a-guide-using-langgraph-56h8)
+- [Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
