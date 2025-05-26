@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host and Transfer WordPress on Hostman Server](https://dev.to/hostman_com/how-to-host-and-transfer-wordpress-on-hostman-server-1643)
-- [9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡](https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn)
-- [🚀 How I Aced My LLM Interview: Building a RAG Chatbot](https://dev.to/mrzaizai2k/how-i-aced-my-llm-interview-building-a-rag-chatbot-2p6f)
-- [The Singleton Design Pattern](https://dev.to/mspilari/the-singleton-design-pattern-3k5h)
-- [Certificate Generator html and javascript](https://dev.to/preetha_vaishnavi_2b82358/certificate-generator-html-and-javascript-2dj6)
+- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
+- [Looking at c#&#39;s Task&lt;IEnumerable&lt;T&gt;&gt;](https://dev.to/dampee/looking-at-cs-taskienumerable-14ph)
+- [🚀🚀](https://dev.to/borba/-4g0e)
+- [[Boost]](https://dev.to/elldora/-gbp)
+- [Google Cloud Summit Benelux was 🤩](https://dev.to/googleworkspace/google-cloud-summit-benelux-was-440j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
