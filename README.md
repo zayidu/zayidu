@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is LLM Orchestration?](https://dev.to/voltagent/what-is-llm-orchestration-1b5e)
-- [Set Theory for Developers](https://dev.to/csprimer/set-theory-for-developers-1b14)
-- [Sentinel Nexus: AI-Powered Threat Intelligence Platform](https://dev.to/collynce/sentinel-nexus-ai-powered-threat-intelligence-platform-1ibj)
-- [How to Build an AI-Powered Portfolio Analyzer Using LangGraph and LangChain &lpar;Step-by-Step Guide&rpar;](https://dev.to/ritahchanger/build-a-portfolio-analysis-agent-with-ai-a-guide-using-langgraph-56h8)
-- [Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)
+- [HarmonyOS运动开发：如何集成百度地图SDK、运动跟随与运动公里数记录](https://dev.to/smartbackme/harmonyosyun-dong-kai-fa-ru-he-ji-cheng-bai-du-di-tu-sdk-yun-dong-gen-sui-yu-yun-dong-gong-li-shu-ji-lu-eoh)
+- [Parquet? What Parquet?](https://dev.to/konstantinas_mamonas/parquet-what-parquet-5hfc)
+- [Segurança ao Alugar Vans: Tudo que Você Precisa Saber para Viajar Tranquilo](https://dev.to/eventosway086/seguranca-ao-alugar-vans-tudo-que-voce-precisa-saber-para-viajar-tranquilo-2pgi)
+- [AuraFeed - Real-time AI News Sentiment Analyzer](https://dev.to/bhavna_b_baa952ae51dac930/hackathon-real-time-ai-news-intelligence-dashboard-5epm)
+- [My Two Cents: Reflections on 30 Days of Daily Coding](https://dev.to/mahamudul_hasan_e716e8fa1/my-two-cents-reflections-on-30-days-of-daily-coding-224e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
