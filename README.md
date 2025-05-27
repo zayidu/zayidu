@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Testing: From Unit Testing to Full Integration with React Native Testing Library](https://dev.to/pritig/react-native-testing-from-unit-testing-to-full-integration-with-react-native-testing-library-4155)
-- [Understanding Idempotency in HTTP Verbs: A Developer’s Guide with Node.js Examples 🚀](https://dev.to/abhivyaktii/understanding-idempotency-in-http-verbs-a-developers-guide-with-nodejs-examples-6ad)
-- [5 Rapid Website Deployment Methods: A Developer&#39;s Efficiency Guide](https://dev.to/mpoiiii/5-rapid-website-deployment-methods-a-developers-efficiency-guide-417i)
-- [🏢 Azure Regions &amp; Zones](https://dev.to/akash029/azure-regions-zones-1gld)
-- [🖥️ Azure Virtual machines](https://dev.to/akash029/azure-virtual-machines-14f5)
+- [checkout out my latest post :D](https://dev.to/syakirurahman/checkout-out-my-latest-post-d-4ekj)
+- [Is classic REST holding you back? Explore the Hyperaction API approach for designing more dynamic and user-friendly HTTP APIs. A modern solution awaits!](https://dev.to/gigaherz/is-classic-rest-holding-you-back-explore-the-hyperaction-api-approach-for-designing-more-dynamic-4gm7)
+- [I Built My 1st AI SaaS, It&#39;s Not as Hard as You Think](https://dev.to/syakirurahman/i-built-my-1st-ai-saas-its-not-as-hard-as-you-think-54id)
+- [Untitled](https://dev.to/adrita_jahanafrin_91f230/untitled-o)
+- [Why Agile Teams Overcommit and How to Fix It](https://dev.to/rally_for_jira/why-agile-teams-overcommit-and-how-to-fix-it-45j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
