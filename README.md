@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 Features You Should Be Using Now](https://dev.to/nikhilworkflow/net-10-features-you-should-be-using-now-5jd)
-- [Amazon Aurora DSQL is GA](https://dev.to/vijaykodam/amazon-aurora-dsql-is-ga-4bp8)
-- [⚙️ DevOps — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/devops-explained-like-youre-5-but-smarter-2c63)
-- [O Poder do SOLID: Desmistificando e construindo componentes com React e Typescript](https://dev.to/marcusmaialima/o-poder-do-solid-desmistificando-e-construindo-componentes-com-react-e-typescript-3m0m)
-- [Android launch pad!!](https://dev.to/truezerox/android-launch-pad-2pnj)
+- [Decoding&quot;Attention Is All You Need.......&quot;](https://dev.to/kaustubhyerkade/decodingattention-is-all-you-need-2eog)
+- [Today’s Progress – Odin Project Foundation Course](https://dev.to/ainycodes07/todays-progress-odin-project-foundation-course-44nj)
+- [Perception](https://dev.to/aniruddhaadak_/perception-49l6)
+- [How to Set Up CI/CD for Your Django App Using GitHub Actions and Systemd](https://dev.to/msnmongare/how-to-set-up-cicd-for-your-django-app-using-github-actions-and-systemd-2cob)
+- [Step-by-Step: Generate SSH Key Pair for CI/CD](https://dev.to/msnmongare/step-by-step-generate-ssh-key-pair-for-cicd-2922)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
