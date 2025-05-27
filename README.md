@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Plan Ahead or Figure out Programs as You Are Writing Them?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-42im)
-- [Google Firestore with MongoDB compatibility](https://dev.to/franckpachot/firestore-with-mongodb-compatibility-testing-pagination-queries-jmf)
-- [Why is a Project Execution Plan important?](https://dev.to/writegenic/why-is-a-project-execution-plan-important-440e)
-- [AI Editor Assistant](https://dev.to/ungame_productor_b57a6a06/ai-editor-assistant-4g82)
-- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-30p7)
+- [Entelligence.ai: Elevating Code Reviews with Full Codebase Understanding](https://dev.to/pullflow/entelligenceai-elevating-code-reviews-with-full-codebase-understanding-2d6b)
+- [10 Node.js 24 features you’re probably not using](https://dev.to/logrocket/10-nodejs-24-features-youre-probably-not-using-2a29)
+- [Why the RED KOMODO-X Is the Ultimate Camera for Modern Filmmakers](https://dev.to/scheimpflugg/why-the-red-komodo-x-is-the-ultimate-camera-for-modern-filmmakers-cfl)
+- [Proper setup for a MiniScript GitHub repo](https://dev.to/joestrout/proper-setup-for-a-miniscript-github-repo-4ian)
+- [Automating Gates with Python and Raspberry Pi: A Smart Security Upgrade](https://dev.to/karen_londres/automating-gates-with-python-and-raspberry-pi-a-smart-security-upgrade-doh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
