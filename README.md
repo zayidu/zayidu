@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [All computer networks video](https://dev.to/aniruddhaadak_/all-computer-networks-video-53o1)
-- [A True React Hook Form Alternative – FormEngine 4.0 Is Now MIT Licensed and Free! 🚀](https://dev.to/optimajet/a-true-react-hook-form-alternative-formengine-40-is-now-mit-licensed-and-free-1gke)
-- [📡 Real-Time Communication with SignalR in ASP.NET Core Complete Setup Guide](https://dev.to/hardik_jariwala_748c4a032/real-time-communication-with-signalr-in-aspnet-core-complete-setup-guide-22bb)
-- [Day - 10 : 📝 My JavaScript Learning Journey – Day 1](https://dev.to/a_ramesh/day-10-my-javascript-learning-journey-day-1-fb7)
-- [Why I believe &#39;dotnet run app.cs&#39; Is a Huge Leap Forward](https://dev.to/georgekobaidze/why-i-believe-dotnet-run-appcs-is-a-huge-leap-forward-2emh)
+- [first blog](https://dev.to/kote_bibilauri_4c864278dd/first-blog-1m6m)
+- [Best Termux Packages for Beginners to Install First](https://dev.to/terminaltools/best-termux-packages-for-beginners-to-install-first-46e6)
+- [🚀 SWAP Boilerplate Repetition for HOCs: Crafting Clean, Reusable React Components &lpar;with Real Examples&rpar;](https://dev.to/werliton/swap-boilerplate-repetition-for-hocs-crafting-clean-reusable-react-components-with-real-4l28)
+- [Simple Calendar](https://dev.to/diptobd71/simple-calendar-fok)
+- [WBUT/MAKAUT Computer Network Important PYQs Across Multiple Years](https://dev.to/aniruddhaadak_/wbutmakaut-computer-network-important-pyqs-across-multiple-years-3i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
