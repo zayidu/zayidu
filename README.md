@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Local LLM with Cursor](https://dev.to/0xkoji/use-local-llm-with-cursor-2h4i)
-- [9 Development Tools Every Developer Should Watch in 2025](https://dev.to/platypus98/9-development-tools-every-developer-should-watch-in-2025-199)
-- [The Smart Way to Host a Minecraft Server: Port Forwarding Essentials](https://dev.to/lightningdev123/the-smart-way-to-host-a-minecraft-server-port-forwarding-essentials-2424)
-- [Programming is the Definition of ADHD](https://dev.to/bicibg/programming-is-the-definition-of-adhd-39f7)
-- [Maximizing Your GenAI App Builder Credit with Vertex AI and Roo Code](https://dev.to/kafechew/maximizing-your-genai-app-builder-credit-with-vertex-ai-and-roo-code-1igj)
+- [The New Days of Java](https://dev.to/hasan048/the-new-days-of-java-8el)
+- [Troll face floppy bird](https://dev.to/she_he_8427f9db3a95733b33/troll-face-floppy-bird-n7k)
+- [Modern UI the Easy Way: Using Tailwind CSS with Angular](https://dev.to/nikhil6076/modern-ui-the-easy-way-using-tailwind-css-with-angular-146c)
+- [🚀 Getting Started with TypeScript in Deno](https://dev.to/vladg3105123/getting-started-with-typescript-in-deno-gkk)
+- [🤔 Does “Building in Public” actually work — or is it just startup hype?](https://dev.to/raz_devra/does-building-in-public-actually-work-or-is-it-just-startup-hype-1g4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
