@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Code Commandments for Saner Development](https://dev.to/tlorent/8-code-commandments-for-saner-development-e0)
-- [Build an AI-Powered Meditation App with Genkit, Flutter, and ElevenLabs Voice](https://dev.to/chamika_dilshan/build-an-ai-powered-meditation-app-with-genkit-flutter-and-elevenlabs-voice-3la)
-- [Overlap AI: A Deep Dive into the Multimodal AI Video Editor for Developers and Creators](https://dev.to/aidigitalbox/overlap-ai-a-deep-dive-into-the-multimodal-ai-video-editor-for-developers-and-creators-74b)
-- [🌍 WorldExplorer Developer Guide: Mastering Global Country Data Fetching](https://dev.to/fonyuygita/worldexplorer-developer-guide-mastering-global-country-data-fetching-5655)
-- [Prompt Injection: A New Frontier in Generative AI Security Challenges](https://dev.to/brayanarrieta/prompt-injection-a-new-frontier-in-generative-ai-security-challenges-3e1b)
+- [📲 Integrating Twilio into your project: Part 2 - Setting up the Sandbox and Handling Webhooks](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-2-setting-up-the-sandbox-and-handling-webhooks-j02)
+- [Architecture: Document architecture in a way that everyone understands](https://dev.to/nikita_rykhlov/architecture-document-architecture-in-a-way-that-everyone-understands-16dp)
+- [Real-Time Data Without WebSocket Overhead](https://dev.to/lovestaco/real-time-data-without-websocket-overhead-3h5j)
+- [The Cleanest Way to Add Optional Properties in JavaScript](https://dev.to/tlorent/the-cleanest-way-to-add-optional-properties-in-javascript-45ol)
+- [[Boost]](https://dev.to/thegranduke/-3534)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
