@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Days of Java](https://dev.to/hasan048/the-new-days-of-java-8el)
-- [Troll face floppy bird](https://dev.to/she_he_8427f9db3a95733b33/troll-face-floppy-bird-n7k)
-- [Modern UI the Easy Way: Using Tailwind CSS with Angular](https://dev.to/nikhil6076/modern-ui-the-easy-way-using-tailwind-css-with-angular-146c)
-- [🚀 Getting Started with TypeScript in Deno](https://dev.to/vladg3105123/getting-started-with-typescript-in-deno-gkk)
-- [🤔 Does “Building in Public” actually work — or is it just startup hype?](https://dev.to/raz_devra/does-building-in-public-actually-work-or-is-it-just-startup-hype-1g4d)
+- [Redis Message Broker: How It Works and How to Use It](https://dev.to/hostman_com/redis-message-broker-how-it-works-and-how-to-use-it-2b28)
+- [AI Call Assistant: The Future of Automated Communication](https://dev.to/lindsayn159/ai-call-assistant-the-future-of-automated-communication-lpd)
+- [How to Build a Simple ChatGPT Clone with OpenAI API.](https://dev.to/elsayed_zewayed_91621702f/how-to-build-a-simple-chatgpt-clone-with-openai-api-k80)
+- [Best Practice: Rate Limiter in API](https://dev.to/vjnvisakh/best-practice-rate-limiter-in-api-17md)
+- [API Vulnerabilities in Symfony: Real-World Examples](https://dev.to/pentest_testing_corp/api-vulnerabilities-in-symfony-real-world-examples-162g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
