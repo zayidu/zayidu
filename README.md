@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a WAF? A Beginner’s Guide to Web App Firewalls](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-a-beginners-guide-to-web-app-firewalls-4g9f)
-- [Git clean local branches](https://dev.to/bdavidxyz/git-clean-local-branches-14c7)
-- [Proposed HIPAA 2025 Mandates AI and Resilience](https://dev.to/briskinfosec_creations_8f/proposed-hipaa-2025-mandates-ai-and-resilience-31l9)
-- [Data Security &amp; Authorization: The Dual Pillars of a Robust Database System](https://dev.to/aniruddhaadak_/data-security-authorization-the-dual-pillars-of-a-robust-database-system-3m3p)
-- [Punjab Kings: Enthusiasm, Guarantee, as well as IPL Beauty Mission](https://dev.to/farhan9013/punjab-kings-enthusiasm-guarantee-as-well-as-ipl-beauty-mission-3i71)
+- [Library Vs Framework](https://dev.to/sudhakar_v_c404997aeec839/library-vs-framework-mib)
+- [J1SE &lpar;Java 1 Standard Edition&rpar; VS J2EE &lpar;Java 2 Enterprise Edition&rpar;](https://dev.to/sudhakar_v_c404997aeec839/j1se-java-1-standard-edition-vs-j2ee-java-2-enterprise-edition-41ae)
+- [What is home healthcare scheduling software? &lpar;Simple But Powerful&rpar;](https://dev.to/agmaitech/what-is-home-healthcare-scheduling-software-simple-but-powerful-3hmp)
+- [[How to Build an AITuber] How to Fetch Viewer Comments from YouTube and Twitch](https://dev.to/shinshin86/how-to-build-an-aituber-how-to-fetch-viewer-comments-from-youtube-and-twitch-1p6a)
+- [Validating VAT numbers in Laravel - Package In Review: burtds/laravel-vatnumber-checker](https://dev.to/burtds/validating-vat-numbers-in-laravel-package-in-review-burtdslaravel-vatnumber-checker-f55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
