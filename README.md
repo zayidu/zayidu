@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/farlamo/-1kee)
-- [Introduction to PostgreSQL](https://dev.to/farlamo/introduction-to-postgresql-3cp4)
-- [The Art of Automation in Modern Engineering](https://dev.to/nigel10122/the-art-of-automation-in-modern-engineering-27f8)
-- [Reinventando a Roda: Criando um compilador em csharp - Parte 2](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-2-2jmi)
-- [Controlling Chrome with an AnythingLLM MCP Agent](https://dev.to/drunnells/controlling-chrome-with-an-anythingllm-mcp-agent-5891)
+- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
+- [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
+- [🚀 Revolutionizing Precision The Power of Hysteresis Technology in Modern Motor Testing Systems 🌟](https://dev.to/musclespot02/revolutionizing-precision-the-power-of-hysteresis-technology-in-modern-motor-testing-systems-52k0)
+- [The most useful data structure for leetcode](https://dev.to/hxsggsz/the-most-useful-data-structure-for-leetcode-1jbo)
+- [Github Codespaces](https://dev.to/lsgunn11/github-codespaces-1cll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
