@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3g3f)
-- [Structured Story Points: Estimating Engineering Work with Clarity](https://dev.to/mike_germain_6417e7ecb556/structured-story-points-estimating-engineering-work-with-clarity-1c6o)
-- [Platform Engineering vs Site reliability Engineering &lpar;SRE&rpar;](https://dev.to/sameerimtiaz/platform-engineering-vs-site-reliability-engineering-sre-1g1g)
-- [MCQs and 1-mark questions with their WBUT levels for Computer Networks](https://dev.to/aniruddhaadak_/mcqs-and-1-mark-questions-with-their-wbut-levels-for-computer-networks-cnp)
-- [Building a Business, Breaking Down: My E-Commerce Experiment](https://dev.to/abhineetraj1/building-a-business-breaking-down-my-e-commerce-experiment-31o1)
+- [.NET 10 Features You Should Be Using Now](https://dev.to/nikhilworkflow/net-10-features-you-should-be-using-now-5jd)
+- [Amazon Aurora DSQL is GA](https://dev.to/vijaykodam/amazon-aurora-dsql-is-ga-4bp8)
+- [⚙️ DevOps — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/devops-explained-like-youre-5-but-smarter-2c63)
+- [O Poder do SOLID: Desmistificando e construindo componentes com React e Typescript](https://dev.to/marcusmaialima/o-poder-do-solid-desmistificando-e-construindo-componentes-com-react-e-typescript-3m0m)
+- [Android launch pad!!](https://dev.to/truezerox/android-launch-pad-2pnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
