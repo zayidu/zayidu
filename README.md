@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [first blog](https://dev.to/kote_bibilauri_4c864278dd/first-blog-1m6m)
-- [Best Termux Packages for Beginners to Install First](https://dev.to/terminaltools/best-termux-packages-for-beginners-to-install-first-46e6)
-- [🚀 SWAP Boilerplate Repetition for HOCs: Crafting Clean, Reusable React Components &lpar;with Real Examples&rpar;](https://dev.to/werliton/swap-boilerplate-repetition-for-hocs-crafting-clean-reusable-react-components-with-real-4l28)
-- [Simple Calendar](https://dev.to/diptobd71/simple-calendar-fok)
-- [WBUT/MAKAUT Computer Network Important PYQs Across Multiple Years](https://dev.to/aniruddhaadak_/wbutmakaut-computer-network-important-pyqs-across-multiple-years-3i6)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3g3f)
+- [Structured Story Points: Estimating Engineering Work with Clarity](https://dev.to/mike_germain_6417e7ecb556/structured-story-points-estimating-engineering-work-with-clarity-1c6o)
+- [Platform Engineering vs Site reliability Engineering &lpar;SRE&rpar;](https://dev.to/sameerimtiaz/platform-engineering-vs-site-reliability-engineering-sre-1g1g)
+- [MCQs and 1-mark questions with their WBUT levels for Computer Networks](https://dev.to/aniruddhaadak_/mcqs-and-1-mark-questions-with-their-wbut-levels-for-computer-networks-cnp)
+- [Building a Business, Breaking Down: My E-Commerce Experiment](https://dev.to/abhineetraj1/building-a-business-breaking-down-my-e-commerce-experiment-31o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
