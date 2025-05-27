@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Library Vs Framework](https://dev.to/sudhakar_v_c404997aeec839/library-vs-framework-mib)
-- [J1SE &lpar;Java 1 Standard Edition&rpar; VS J2EE &lpar;Java 2 Enterprise Edition&rpar;](https://dev.to/sudhakar_v_c404997aeec839/j1se-java-1-standard-edition-vs-j2ee-java-2-enterprise-edition-41ae)
-- [What is home healthcare scheduling software? &lpar;Simple But Powerful&rpar;](https://dev.to/agmaitech/what-is-home-healthcare-scheduling-software-simple-but-powerful-3hmp)
-- [[How to Build an AITuber] How to Fetch Viewer Comments from YouTube and Twitch](https://dev.to/shinshin86/how-to-build-an-aituber-how-to-fetch-viewer-comments-from-youtube-and-twitch-1p6a)
-- [Validating VAT numbers in Laravel - Package In Review: burtds/laravel-vatnumber-checker](https://dev.to/burtds/validating-vat-numbers-in-laravel-package-in-review-burtdslaravel-vatnumber-checker-f55)
+- [Fullstack Open Source Projects That Will Help You Become AI Devs &lpar;Python, JavaScript, AI&rpar;](https://dev.to/fast/fullstack-open-source-projects-that-will-help-you-become-ai-devs-python-javascript-ai-4m9a)
+- [JavaScript Shortcuts, Tips &amp; Tricks — Simple &amp; Fun Examples for Everyone](https://dev.to/manikanta_ketha_bf00556e9/javascript-shortcuts-tips-tricks-simple-fun-examples-for-everyone-3l2)
+- [Real-Time Everything: Is Your Backend Ready for Instant-First Applications](https://dev.to/dct_technology/real-time-everything-is-your-backend-ready-for-instant-first-applications-5c34)
+- [K8Studio &amp; Cyber Helmets partner to increase speed from learning to real-world application](https://dev.to/guiqui/k8studio-cyber-helmets-partner-to-increase-speed-from-learning-to-real-world-application-4akp)
+- [CRM Software Development](https://dev.to/jennifer608307/crm-software-development-3mmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
