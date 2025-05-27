@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fullstack Open Source Projects That Will Help You Become AI Devs &lpar;Python, JavaScript, AI&rpar;](https://dev.to/fast/fullstack-open-source-projects-that-will-help-you-become-ai-devs-python-javascript-ai-4m9a)
-- [JavaScript Shortcuts, Tips &amp; Tricks — Simple &amp; Fun Examples for Everyone](https://dev.to/manikanta_ketha_bf00556e9/javascript-shortcuts-tips-tricks-simple-fun-examples-for-everyone-3l2)
-- [Real-Time Everything: Is Your Backend Ready for Instant-First Applications](https://dev.to/dct_technology/real-time-everything-is-your-backend-ready-for-instant-first-applications-5c34)
-- [K8Studio &amp; Cyber Helmets partner to increase speed from learning to real-world application](https://dev.to/guiqui/k8studio-cyber-helmets-partner-to-increase-speed-from-learning-to-real-world-application-4akp)
-- [CRM Software Development](https://dev.to/jennifer608307/crm-software-development-3mmh)
+- [Use Local LLM with Cursor](https://dev.to/0xkoji/use-local-llm-with-cursor-2h4i)
+- [9 Development Tools Every Developer Should Watch in 2025](https://dev.to/platypus98/9-development-tools-every-developer-should-watch-in-2025-199)
+- [The Smart Way to Host a Minecraft Server: Port Forwarding Essentials](https://dev.to/lightningdev123/the-smart-way-to-host-a-minecraft-server-port-forwarding-essentials-2424)
+- [Programming is the Definition of ADHD](https://dev.to/bicibg/programming-is-the-definition-of-adhd-39f7)
+- [Maximizing Your GenAI App Builder Credit with Vertex AI and Roo Code](https://dev.to/kafechew/maximizing-your-genai-app-builder-credit-with-vertex-ai-and-roo-code-1igj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
