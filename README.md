@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
-- [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
-- [🚀 Revolutionizing Precision The Power of Hysteresis Technology in Modern Motor Testing Systems 🌟](https://dev.to/musclespot02/revolutionizing-precision-the-power-of-hysteresis-technology-in-modern-motor-testing-systems-52k0)
-- [The most useful data structure for leetcode](https://dev.to/hxsggsz/the-most-useful-data-structure-for-leetcode-1jbo)
-- [Github Codespaces](https://dev.to/lsgunn11/github-codespaces-1cll)
+- [What Is a Reverse Proxy? A Developer-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-reverse-proxy-a-developer-friendly-guide-o4p)
+- [Mengenal Tipe SSH Key dan Cara Membuatnya](https://dev.to/naandan/mengenal-tipe-ssh-key-dan-cara-membuatnya-47ek)
+- [Common Solutions for Cross-Page Data Transmission in HarmonyOS-NEXT](https://dev.to/shaodong_xu/common-solutions-for-cross-page-data-transmission-in-harmonyos-next-5b1j)
+- [The 5 Levels of Machine Learning Projects: From Kaggle to Cutting-Edge AI](https://dev.to/thearjun/the-5-levels-of-machine-learning-projects-from-kaggle-to-cutting-edge-ai-4eaf)
+- [From Fog to Clarity: 4 Months as a Solo SaaS Founder](https://dev.to/lonetrouper/from-fog-to-clarity-4-months-as-a-solo-saas-founder-22hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
