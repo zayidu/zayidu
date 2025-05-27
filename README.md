@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Message Broker: How It Works and How to Use It](https://dev.to/hostman_com/redis-message-broker-how-it-works-and-how-to-use-it-2b28)
-- [AI Call Assistant: The Future of Automated Communication](https://dev.to/lindsayn159/ai-call-assistant-the-future-of-automated-communication-lpd)
-- [How to Build a Simple ChatGPT Clone with OpenAI API.](https://dev.to/elsayed_zewayed_91621702f/how-to-build-a-simple-chatgpt-clone-with-openai-api-k80)
-- [Best Practice: Rate Limiter in API](https://dev.to/vjnvisakh/best-practice-rate-limiter-in-api-17md)
-- [API Vulnerabilities in Symfony: Real-World Examples](https://dev.to/pentest_testing_corp/api-vulnerabilities-in-symfony-real-world-examples-162g)
+- [React Native Testing: From Unit Testing to Full Integration with React Native Testing Library](https://dev.to/pritig/react-native-testing-from-unit-testing-to-full-integration-with-react-native-testing-library-4155)
+- [Understanding Idempotency in HTTP Verbs: A Developer’s Guide with Node.js Examples 🚀](https://dev.to/abhivyaktii/understanding-idempotency-in-http-verbs-a-developers-guide-with-nodejs-examples-6ad)
+- [5 Rapid Website Deployment Methods: A Developer&#39;s Efficiency Guide](https://dev.to/mpoiiii/5-rapid-website-deployment-methods-a-developers-efficiency-guide-417i)
+- [🏢 Azure Regions &amp; Zones](https://dev.to/akash029/azure-regions-zones-1gld)
+- [🖥️ Azure Virtual machines](https://dev.to/akash029/azure-virtual-machines-14f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
