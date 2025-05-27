@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entelligence.ai: Elevating Code Reviews with Full Codebase Understanding](https://dev.to/pullflow/entelligenceai-elevating-code-reviews-with-full-codebase-understanding-2d6b)
-- [10 Node.js 24 features you’re probably not using](https://dev.to/logrocket/10-nodejs-24-features-youre-probably-not-using-2a29)
-- [Why the RED KOMODO-X Is the Ultimate Camera for Modern Filmmakers](https://dev.to/scheimpflugg/why-the-red-komodo-x-is-the-ultimate-camera-for-modern-filmmakers-cfl)
-- [Proper setup for a MiniScript GitHub repo](https://dev.to/joestrout/proper-setup-for-a-miniscript-github-repo-4ian)
-- [Automating Gates with Python and Raspberry Pi: A Smart Security Upgrade](https://dev.to/karen_londres/automating-gates-with-python-and-raspberry-pi-a-smart-security-upgrade-doh)
+- [8 Code Commandments for Saner Development](https://dev.to/tlorent/8-code-commandments-for-saner-development-e0)
+- [Build an AI-Powered Meditation App with Genkit, Flutter, and ElevenLabs Voice](https://dev.to/chamika_dilshan/build-an-ai-powered-meditation-app-with-genkit-flutter-and-elevenlabs-voice-3la)
+- [Overlap AI: A Deep Dive into the Multimodal AI Video Editor for Developers and Creators](https://dev.to/aidigitalbox/overlap-ai-a-deep-dive-into-the-multimodal-ai-video-editor-for-developers-and-creators-74b)
+- [🌍 WorldExplorer Developer Guide: Mastering Global Country Data Fetching](https://dev.to/fonyuygita/worldexplorer-developer-guide-mastering-global-country-data-fetching-5655)
+- [Prompt Injection: A New Frontier in Generative AI Security Challenges](https://dev.to/brayanarrieta/prompt-injection-a-new-frontier-in-generative-ai-security-challenges-3e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
