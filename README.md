@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Reverse Proxy? A Developer-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-reverse-proxy-a-developer-friendly-guide-o4p)
-- [Mengenal Tipe SSH Key dan Cara Membuatnya](https://dev.to/naandan/mengenal-tipe-ssh-key-dan-cara-membuatnya-47ek)
-- [Common Solutions for Cross-Page Data Transmission in HarmonyOS-NEXT](https://dev.to/shaodong_xu/common-solutions-for-cross-page-data-transmission-in-harmonyos-next-5b1j)
-- [The 5 Levels of Machine Learning Projects: From Kaggle to Cutting-Edge AI](https://dev.to/thearjun/the-5-levels-of-machine-learning-projects-from-kaggle-to-cutting-edge-ai-4eaf)
-- [From Fog to Clarity: 4 Months as a Solo SaaS Founder](https://dev.to/lonetrouper/from-fog-to-clarity-4-months-as-a-solo-saas-founder-22hi)
+- [I created a code editor with more customization and cross platform support.](https://dev.to/azkadev/i-created-a-code-editor-with-more-customization-and-cross-platform-support-57j2)
+- [Implementing FastAPI from Scratch Using Only Pure Python](https://dev.to/leapcell/implementing-fastapi-from-scratch-using-only-pure-python-ni)
+- [Logout from all other devices when password change laravel](https://dev.to/ankitvermaonline/logout-from-all-other-devices-when-password-change-laravel-3ab9)
+- [CozyCommerce: A FullStack self-hosted eCommerce Solution](https://dev.to/vinishbhaskar/cozycommerce-fullstack-ecommerce-solution-4l10)
+- [📜The Evolution of Artificial Intelligence: From Ancient Dreams to Modern Reality](https://dev.to/furqanahmadrao/the-evolution-of-artificial-intelligence-from-ancient-dreams-to-modern-reality-26b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
