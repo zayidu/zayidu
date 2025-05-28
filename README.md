@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is This a Refreshing Way to Understand Association?](https://dev.to/esproc_spl/is-this-a-refreshing-way-to-understand-association-3cpj)
-- [🎉 You Asked, We Delivered: The Code to Image Generator App Just Leveled Up](https://dev.to/myogeshchavan97/you-asked-we-delivered-the-code-to-image-generator-app-just-leveled-up-5hm0)
-- [🕵️‍♂️ The Shadow DOM: Power Tool or Pain in the Ass? 🕵️‍♂️](https://dev.to/marie_berezhna/the-shadow-dom-power-tool-or-pain-in-the-ass-3dh6)
-- [MySQL Performance Optimization](https://dev.to/ten/mysql-performance-optimization-5h4d)
-- [How Google I/O 2025 Put AI at the Center of Everything https://www.googlereseller.com/how-google-i-o-2025-put-ai-at-the-center-of-everything/](https://dev.to/nicknemeth/how-google-io-2025-put-ai-at-the-center-of-everything-561p)
+- [How to Load Data From MySQL to Iceberg in Real Time](https://dev.to/bladepipe/how-to-load-data-from-mysql-to-iceberg-in-real-time-2f)
+- [Day 1:“Starting My Java Full stack Journey: Building the Login Page with HTML and CSS”](https://dev.to/sathish_226_1ac7d93d9970c/day-1starting-my-java-full-stack-journey-building-the-login-page-with-html-and-css-am0)
+- [Centralized Logging for Docker: What Are Your Options?](https://dev.to/krstak/centralized-logging-for-docker-what-are-your-options-3l8)
+- [Automate SSL Renewal for SafeLine WAF with DNS-01 Challenge](https://dev.to/sharon_42e16b8da44dabde6d/automate-ssl-renewal-for-safeline-waf-with-dns-01-challenge-1b6n)
+- [Building a Distributed Voting App with Docker: A Hands-On Guide](https://dev.to/hritikraj8804/building-a-distributed-voting-app-with-docker-a-hands-on-guide-3l9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
