@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Document Everything!](https://dev.to/rally_for_jira/document-everything-48eh)
-- [Development Guide for Smart Sports Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/development-guide-for-smart-sports-applications-based-on-harmonyos-next-4pg5)
-- [Development Guide for Smart Sports Social Apps Based on HarmonyOS Next](https://dev.to/linzhongxue/development-guide-for-smart-sports-social-apps-based-on-harmonyos-next-5622)
-- [Comprehensive Guide to Developing a Sports Social App on HarmonyOS Next](https://dev.to/linzhongxue/comprehensive-guide-to-developing-a-sports-social-app-on-harmonyos-next-5758)
-- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://dev.to/taniguchitakara/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-c42)
+- [🎯 Solving Puzzles with Code: A Math Adventure Game Built with Amazon Q CLI](https://dev.to/aws-builders/solving-puzzles-with-code-a-math-adventure-game-built-with-amazon-q-cli-1pdb)
+- [Using Observables in NestJS Microservices 🚀](https://dev.to/abhivyaktii/using-observables-in-nestjs-microservices-1ie1)
+- [Understanding Modern Tech Careers: Data Analyst, Data Scientist, ML Engineer and GenAI Engineer](https://dev.to/hasanulmukit/understanding-modern-tech-careers-data-analyst-data-scientist-ml-engineer-and-genai-engineer-4d8e)
+- [Piggy Tracker: Building a Fun, Full-Stack Financial Buddy for the Indonesian Market &lpar;Laravel, React, Flutter&rpar;](https://dev.to/rifkisaputra/piggy-tracker-building-a-fun-full-stack-financial-buddy-for-the-indonesian-market-laravel-b2j)
+- [Understanding PCI-DSS in Docker: Laying the Foundation for Secure Containerized Payment Systems](https://dev.to/hexshift/understanding-pci-dss-in-docker-laying-the-foundation-for-secure-containerized-payment-systems-3oac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
