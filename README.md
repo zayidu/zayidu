@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Upload UI #scss](https://dev.to/preetha_vaishnavi_2b82358/upload-ui-scss-2di1)
-- [Understanding Prometheus and Monitoring Python Applications](https://dev.to/leapcell/understanding-prometheus-and-monitoring-python-applications-3d0p)
-- [JavaScript,Method,Datatype](https://dev.to/neelakandan_ravi/javascriptmethoddatatype-3pnp)
-- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
-- [Building an actually secure MCP Server with Fastly Compute](https://dev.to/fastly/building-an-actually-secure-mcp-server-with-fastly-compute-33go)
+- [[Boost]](https://dev.to/pranesh_patel/-khe)
+- [A Developers Roadmap to Building, Tracking &amp; Shipping Better Product](https://dev.to/pratham_naik_project_manager/a-developers-roadmap-to-building-tracking-shipping-better-product-2n6f)
+- [From Sprint to Scale: A Developer’s Roadmap to Building, Tracking, and Shipping Better Products](https://dev.to/teamcamp/from-sprint-to-scale-a-developers-roadmap-to-building-tracking-and-shipping-better-products-928)
+- [🤖 The Role of AI in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-ai-in-modern-frontend-development-3clg)
+- [Understanding RAG Architecture in Large Language Models: A Complete Guide](https://dev.to/rocks_r_0ecb986bacc30a5f4/understanding-rag-architecture-in-large-language-models-a-complete-guide-38op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
