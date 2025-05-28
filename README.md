@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Solving Puzzles with Code: A Math Adventure Game Built with Amazon Q CLI](https://dev.to/aws-builders/solving-puzzles-with-code-a-math-adventure-game-built-with-amazon-q-cli-1pdb)
-- [Using Observables in NestJS Microservices 🚀](https://dev.to/abhivyaktii/using-observables-in-nestjs-microservices-1ie1)
-- [Understanding Modern Tech Careers: Data Analyst, Data Scientist, ML Engineer and GenAI Engineer](https://dev.to/hasanulmukit/understanding-modern-tech-careers-data-analyst-data-scientist-ml-engineer-and-genai-engineer-4d8e)
-- [Piggy Tracker: Building a Fun, Full-Stack Financial Buddy for the Indonesian Market &lpar;Laravel, React, Flutter&rpar;](https://dev.to/rifkisaputra/piggy-tracker-building-a-fun-full-stack-financial-buddy-for-the-indonesian-market-laravel-b2j)
-- [Understanding PCI-DSS in Docker: Laying the Foundation for Secure Containerized Payment Systems](https://dev.to/hexshift/understanding-pci-dss-in-docker-laying-the-foundation-for-secure-containerized-payment-systems-3oac)
+- [Upload UI #scss](https://dev.to/preetha_vaishnavi_2b82358/upload-ui-scss-2di1)
+- [Understanding Prometheus and Monitoring Python Applications](https://dev.to/leapcell/understanding-prometheus-and-monitoring-python-applications-3d0p)
+- [JavaScript,Method,Datatype](https://dev.to/neelakandan_ravi/javascriptmethoddatatype-3pnp)
+- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
+- [Building an actually secure MCP Server with Fastly Compute](https://dev.to/fastly/building-an-actually-secure-mcp-server-with-fastly-compute-33go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
