@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
-- [This linear-time triangle-finding algorithm will imply subquadratic solutions for many 3SUM-hard problems, as triangle detection is 3SUM-hard and reductions preserve time complexity under plausible conjectures.](https://dev.to/frank_vega_987689489099bf/this-linear-time-triangle-finding-algorithm-will-imply-subquadratic-solutions-for-many-3sum-hard-2d72)
-- [Sell Yourself as a Developer: Creating a Personal Brand That Stands Out](https://dev.to/grantwatsondev/sell-yourself-as-a-developer-creating-a-personal-brand-that-stands-out-mmf)
-- [Artificial General Intelligence: 6 Definitions, 6 Perspectives, 6 Predictions](https://dev.to/boris_burakovski_c7420552/artificial-general-intelligence-6-definitions-6-perspectives-6-predictions-1731)
-- [AI Marketing: Revolutionizing the Digital Landscape with Artificial Intelligence](https://dev.to/marketmediama_team/ai-marketing-revolutionizing-the-digital-landscape-with-artificial-intelligence-4agg)
+- [Document Everything!](https://dev.to/rally_for_jira/document-everything-48eh)
+- [Development Guide for Smart Sports Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/development-guide-for-smart-sports-applications-based-on-harmonyos-next-4pg5)
+- [Development Guide for Smart Sports Social Apps Based on HarmonyOS Next](https://dev.to/linzhongxue/development-guide-for-smart-sports-social-apps-based-on-harmonyos-next-5622)
+- [Comprehensive Guide to Developing a Sports Social App on HarmonyOS Next](https://dev.to/linzhongxue/comprehensive-guide-to-developing-a-sports-social-app-on-harmonyos-next-5758)
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://dev.to/taniguchitakara/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-c42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
