@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Outlook Cheat Sheet For All Users](https://dev.to/stealthstephen/microsoft-outlook-cheat-sheet-for-all-users-1e76)
-- [HABITS TRACKER.py](https://dev.to/kaushikcoderpy/habits-trackerpy-18ph)
-- [📝 JavaScript Basics: Data Types, Variables, and Functions](https://dev.to/seenuvasan_p/javascript-basics-data-types-variables-and-functions-ekm)
-- [Clean Architecture in .NET: Moving Beyond Generic Repositories and Leveraging IServiceScopeFactory](https://dev.to/korirmoze/clean-architecture-in-net-moving-beyond-generic-repositories-and-leveraging-iservicescopefactory-11gb)
-- [Umair Shakoor | Coming Soon](https://dev.to/umairshakoor/umair-shakoor-coming-soon-2loi)
+- [Is This a Refreshing Way to Understand Association?](https://dev.to/esproc_spl/is-this-a-refreshing-way-to-understand-association-3cpj)
+- [🎉 You Asked, We Delivered: The Code to Image Generator App Just Leveled Up](https://dev.to/myogeshchavan97/you-asked-we-delivered-the-code-to-image-generator-app-just-leveled-up-5hm0)
+- [🕵️‍♂️ The Shadow DOM: Power Tool or Pain in the Ass? 🕵️‍♂️](https://dev.to/marie_berezhna/the-shadow-dom-power-tool-or-pain-in-the-ass-3dh6)
+- [MySQL Performance Optimization](https://dev.to/ten/mysql-performance-optimization-5h4d)
+- [How Google I/O 2025 Put AI at the Center of Everything https://www.googlereseller.com/how-google-i-o-2025-put-ai-at-the-center-of-everything/](https://dev.to/nicknemeth/how-google-io-2025-put-ai-at-the-center-of-everything-561p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
