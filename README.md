@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Buzzword: What Lakehouse Actually Means for Your Business](https://dev.to/ksanaka/beyond-the-buzzword-what-lakehouse-actually-means-for-your-business-4577)
-- [What are your goals for the week? #128](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-128-4jej)
-- [[Boost]](https://dev.to/jeffdev03/-3900)
-- [[Boost]](https://dev.to/audrey_lopez/-57go)
-- [💣 I Built a Typing Defense Game in Godot: Play “Alpha Bomb” Now! 🚀](https://dev.to/gauravk_/i-built-a-typing-defense-game-in-godot-play-alpha-bomb-now-10a9)
+- [A crash course in Next.js middleware](https://dev.to/logrocket/a-crash-course-in-nextjs-middleware-3b7h)
+- [Stop Struggling with Forms in React - 4 Smart Ways to Handle Them](https://dev.to/werliton/stop-struggling-with-forms-in-react-4-smart-ways-to-handle-them-1hbp)
+- [Grafana Agent Installation and Configuration](https://dev.to/thdevops/grafana-agent-installation-and-configuration-49m4)
+- [🌍 Building a Digital Health Platform for Africa — Looking for a Volunteer Developer &lpar;Remote, Part-time&rpar;](https://dev.to/elox/building-a-digital-health-platform-for-africa-looking-for-a-volunteer-developer-remote-1cmo)
+- [Grafana K8s Stack Implementation on Kubernetes Cluster](https://dev.to/thdevops/grafana-k8s-stack-implementation-on-kubernetes-cluster-5gml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
