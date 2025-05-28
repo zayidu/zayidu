@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting Kimai on an Ubuntu Server](https://dev.to/code42cate/self-hosting-kimai-on-an-ubuntu-server-1h6e)
-- [🤖 Jony Ive + OpenAI, Create Calmer UX &amp; Is Paper the New Figma?](https://dev.to/adam/jony-ive-openai-create-calmer-ux-is-paper-the-new-figma-cf6)
-- [Is @threads a real thing, or just a playground full of fake users?](https://dev.to/hmzas/is-threads-a-real-thing-or-just-a-playground-full-of-fake-users-3daj)
-- [Run Your Dockerized Microservices Voting App](https://dev.to/hritikraj8804/run-your-dockerized-microservices-voting-app-4ek5)
-- [Why Use Python for Data Analysis?](https://dev.to/shivanim21_/why-use-python-for-data-analysis-2gnk)
+- [Want GitHub Copilot to code like your team? Customize it with repository instructions and prompt files to boost productivity and consistency—share your best tips below!](https://dev.to/andreagriffiths11/want-github-copilot-to-code-like-your-team-customize-it-with-repository-instructions-and-prompt-p2f)
+- [CodeFlow: The Debugging Odyssey - A Pygame Adventure](https://dev.to/shaistaaman/codeflow-the-debugging-odyssey-a-pygame-adventure-aoa)
+- [Boost Your Team&#39;s Productivity with GitHub Copilot Custom Instructions](https://dev.to/andreagriffiths11/boost-your-teams-productivity-with-github-copilot-custom-instructions-17lh)
+- [Elevate your React project to the next level using MSW mocking flow](https://dev.to/perisicnikola37/elevate-your-react-project-to-the-next-level-using-msw-mocking-flow-2490)
+- [Integrating Quill Editor and Image Upload Functionality in a React CMS](https://dev.to/webcraft-notes/integrating-quill-editor-and-image-upload-functionality-in-a-react-cms-28a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
