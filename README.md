@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 Integrating Twilio into your project: Part 3 - Handling Webhooks and Sending Messages with Laravel and Express](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-3-handling-webhooks-and-sending-messages-with-242l)
-- [Should I switch to Salesforce in 2025? Looking for advice from devs who’ve made the leap 🙏](https://dev.to/manikanta_chavvakula_e2da/should-i-switch-to-salesforce-in-2025-looking-for-advice-from-devs-whove-made-the-leap-1393)
-- [Event Handling Functions](https://dev.to/sudhakar_v_c404997aeec839/event-handling-functions-5dj)
-- [CyberVault: A Fully Local, Open-Source Password Manager Built with C#](https://dev.to/cybernilsen/cybervault-a-fully-local-open-source-password-manager-built-with-c-nop)
-- [NPM Warn Deprecated – What It Means and How to Handle It](https://dev.to/0xdaniiel/npm-warn-deprecated-what-it-means-and-how-to-handle-it-4cek)
+- [HTTP Status Codes Explained | 1xx, 2xx, 3xx, 4xx, 5xx Made Easy!](https://dev.to/devscriptor/http-status-codes-explained-1xx-2xx-3xx-4xx-5xx-made-easy-c3o)
+- [Postmark + n8n: No Code, No Limits](https://dev.to/valentin_kivachuk_ef119d0/postmark-n8n-no-code-no-limits-2ko2)
+- [The Truth About AddAsync: When to Use It in EF Core &lpar;and When Not To&rpar;](https://dev.to/imzihad21/the-truth-about-addasync-when-to-use-it-in-ef-core-and-when-not-to-3i5e)
+- [HI there, I have just completed my first paid website design gig. I would love if you guys have a look at it and give your feedbacks. Below is the link: https://topnotchrestaurant.com/ Thanks!](https://dev.to/razi_haiderjaffery_dc49b/hi-there-i-have-just-completed-my-first-paid-website-design-gig-i-would-love-if-you-guys-have-37d4)
+- [Functional Programming and Erlang Platform](https://dev.to/muzhawir/functional-programming-and-erlang-platform-3051)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
