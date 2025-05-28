@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Status Codes Explained | 1xx, 2xx, 3xx, 4xx, 5xx Made Easy!](https://dev.to/devscriptor/http-status-codes-explained-1xx-2xx-3xx-4xx-5xx-made-easy-c3o)
-- [Postmark + n8n: No Code, No Limits](https://dev.to/valentin_kivachuk_ef119d0/postmark-n8n-no-code-no-limits-2ko2)
-- [The Truth About AddAsync: When to Use It in EF Core &lpar;and When Not To&rpar;](https://dev.to/imzihad21/the-truth-about-addasync-when-to-use-it-in-ef-core-and-when-not-to-3i5e)
-- [HI there, I have just completed my first paid website design gig. I would love if you guys have a look at it and give your feedbacks. Below is the link: https://topnotchrestaurant.com/ Thanks!](https://dev.to/razi_haiderjaffery_dc49b/hi-there-i-have-just-completed-my-first-paid-website-design-gig-i-would-love-if-you-guys-have-37d4)
-- [Functional Programming and Erlang Platform](https://dev.to/muzhawir/functional-programming-and-erlang-platform-3051)
+- [Melhores práticas de segurança com o GitHub Copilot](https://dev.to/pachicodes/melhores-praticas-de-seguranca-com-o-github-copilot-343n)
+- [Owlcat Games reveals new CRPG Warhammer 40,000: Dark Heresy with official trailer](https://dev.to/gg_news/owlcat-games-reveals-new-crpg-warhammer-40000-dark-heresy-with-official-trailer-2d3e)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-1lkl)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5cmo)
+- [‘Elden Ring&#39; Movie in the Works From &#39;Civil War&#39; Director Alex Garland, A24](https://dev.to/gg_news/elden-ring-movie-in-the-works-from-civil-war-director-alex-garland-a24-63k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
