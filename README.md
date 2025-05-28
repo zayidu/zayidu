@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want GitHub Copilot to code like your team? Customize it with repository instructions and prompt files to boost productivity and consistency—share your best tips below!](https://dev.to/andreagriffiths11/want-github-copilot-to-code-like-your-team-customize-it-with-repository-instructions-and-prompt-p2f)
-- [CodeFlow: The Debugging Odyssey - A Pygame Adventure](https://dev.to/shaistaaman/codeflow-the-debugging-odyssey-a-pygame-adventure-aoa)
-- [Boost Your Team&#39;s Productivity with GitHub Copilot Custom Instructions](https://dev.to/andreagriffiths11/boost-your-teams-productivity-with-github-copilot-custom-instructions-17lh)
-- [Elevate your React project to the next level using MSW mocking flow](https://dev.to/perisicnikola37/elevate-your-react-project-to-the-next-level-using-msw-mocking-flow-2490)
-- [Integrating Quill Editor and Image Upload Functionality in a React CMS](https://dev.to/webcraft-notes/integrating-quill-editor-and-image-upload-functionality-in-a-react-cms-28a4)
+- [Using RAG architecture for generative tasks](https://dev.to/bohdanstupak1/using-rag-architecture-for-generative-tasks-2pbk)
+- [Will AI + No-Code Replace Developers? What the Future Holds](https://dev.to/vasundhara/will-ai-no-code-replace-developers-what-the-future-holds-31l0)
+- [Advances in Information Retrieval: A Comprehensive Analysis of Recent Research](https://dev.to/khanali21/advances-in-information-retrieval-a-comprehensive-analysis-of-recent-research-156f)
+- [From Vec to Slice: Writing Generic Functions over Collections](https://dev.to/sgchris/from-vec-to-slice-writing-generic-functions-over-collections-1jgd)
+- [Want to Save Your MVP Budget? Scope First, Build Later.](https://dev.to/samirfcis/want-to-save-your-mvp-budget-scope-first-build-later-5el2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
