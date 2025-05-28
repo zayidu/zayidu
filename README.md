@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using RAG architecture for generative tasks](https://dev.to/bohdanstupak1/using-rag-architecture-for-generative-tasks-2pbk)
-- [Will AI + No-Code Replace Developers? What the Future Holds](https://dev.to/vasundhara/will-ai-no-code-replace-developers-what-the-future-holds-31l0)
-- [Advances in Information Retrieval: A Comprehensive Analysis of Recent Research](https://dev.to/khanali21/advances-in-information-retrieval-a-comprehensive-analysis-of-recent-research-156f)
-- [From Vec to Slice: Writing Generic Functions over Collections](https://dev.to/sgchris/from-vec-to-slice-writing-generic-functions-over-collections-1jgd)
-- [Want to Save Your MVP Budget? Scope First, Build Later.](https://dev.to/samirfcis/want-to-save-your-mvp-budget-scope-first-build-later-5el2)
+- [Beyond the Buzzword: What Lakehouse Actually Means for Your Business](https://dev.to/ksanaka/beyond-the-buzzword-what-lakehouse-actually-means-for-your-business-4577)
+- [What are your goals for the week? #128](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-128-4jej)
+- [[Boost]](https://dev.to/jeffdev03/-3900)
+- [[Boost]](https://dev.to/audrey_lopez/-57go)
+- [💣 I Built a Typing Defense Game in Godot: Play “Alpha Bomb” Now! 🚀](https://dev.to/gauravk_/i-built-a-typing-defense-game-in-godot-play-alpha-bomb-now-10a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
