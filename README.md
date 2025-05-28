@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build CRUD App Laravel 12: Complete Step-by-Step Guide](https://dev.to/sureshramani/build-crud-app-laravel-12-complete-step-by-step-guide-5g4c)
-- [How to Choose a Conference Talk Topic](https://dev.to/blackgirlbytes/how-to-choose-a-conference-talk-topic-c09)
-- [Best Windows VPS Hosting 2025: Top Providers Compared](https://dev.to/accuwebhosting/best-windows-vps-hosting-2025-top-providers-compared-4aap)
-- [How to Add a QR Code to Your Website with Just a Few Lines of Code](https://dev.to/giftintech/how-to-add-a-qr-code-to-your-website-with-just-a-few-lines-of-code-57l8)
-- [Setting Up A VPC And Firewall In Linode &lpar;Akamai&rpar;](https://dev.to/theohutchings908/setting-up-a-vpc-and-firewall-in-linode-akamai-3je7)
+- [Self-hosting Kimai on an Ubuntu Server](https://dev.to/code42cate/self-hosting-kimai-on-an-ubuntu-server-1h6e)
+- [🤖 Jony Ive + OpenAI, Create Calmer UX &amp; Is Paper the New Figma?](https://dev.to/adam/jony-ive-openai-create-calmer-ux-is-paper-the-new-figma-cf6)
+- [Is @threads a real thing, or just a playground full of fake users?](https://dev.to/hmzas/is-threads-a-real-thing-or-just-a-playground-full-of-fake-users-3daj)
+- [Run Your Dockerized Microservices Voting App](https://dev.to/hritikraj8804/run-your-dockerized-microservices-voting-app-4ek5)
+- [Why Use Python for Data Analysis?](https://dev.to/shivanim21_/why-use-python-for-data-analysis-2gnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
