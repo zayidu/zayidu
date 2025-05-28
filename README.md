@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claw Finding Algorithm Using Aegypti](https://dev.to/frank_vega_987689489099bf/claw-finding-algorithm-using-aegypti-2p0k)
-- [Taming the Server Beast: AWS EC2 vs. DigitalOcean vs. Linode for Node.js &lpar;No Ops Nightmares&rpar; 🐉⚡](https://dev.to/alex_aslam/taming-the-server-beast-aws-ec2-vs-digitalocean-vs-linode-for-nodejs-no-ops-nightmares-3897)
-- [Building Cross-Protocol AI Agents with Spring Boot: A2A and MCP Server Guide](https://dev.to/vishalmysore/building-cross-protocol-ai-agents-with-spring-boot-a2a-and-mcp-server-guide-2d71)
-- [Why engineers with strategic plans earn 40% more and get promoted twice as fast](https://dev.to/wgcorrea/why-engineers-with-strategic-plans-earn-40-more-and-get-promoted-twice-as-fast-5an5)
-- [🚀 Introducing K2 — A Blazing Fast Language for the Next Generation](https://dev.to/the_seljuckandotomaned/introducing-k2-a-blazing-fast-language-for-the-next-generation-213m)
+- [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
+- [New GitHub Copilot Global Bootcamp: Now with Virtual and In-Person Workshops!](https://dev.to/azure/new-github-copilot-global-bootcamp-now-with-virtual-and-in-person-workshops-3cmh)
+- [VO3 AI Genarator](https://dev.to/jeyzolo/vo3-ai-genarator-4bhd)
+- [Untitled](https://dev.to/rafa_correr_25ae6819c8847/untitled-d24)
+- [API Data Flow using AWS Lambda, S3 &amp; RDS](https://dev.to/jivaniyash/api-data-flow-using-aws-lambda-s3-rds-f8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
