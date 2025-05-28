@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Snake Game with Amazon Q CLI](https://dev.to/akanksha3012/snake-game-with-amazon-q-cli-3bee)
-- [Syncing Postman Collections from OpenAPI Automatically — Without Losing Team Edits](https://dev.to/dmiska25/syncing-postman-collections-from-openapi-automatically-without-losing-team-edits-37el)
-- [My go-to guide to refactor a piece of code &lpar;or while reviewing code&rpar;: Scroll through a piece of code to find blocks that make you to stop and read twice. There&#39;s something to refactor there. Something needs to be better explained.](https://dev.to/canro91/my-go-to-guide-to-refactor-a-piece-of-code-or-while-reviewing-code-scroll-through-a-piece-of-139l)
-- [Java Script:Local Variable,Global Variable &amp;DOM](https://dev.to/paviarunachalam/java-scriptlocal-variableglobal-variable-dom-2e3n)
-- [🛠️Simula S3 Localmente con LocalStack y Docker Compose](https://dev.to/juan_jose_miranda/simula-s3-localmente-con-localstack-y-docker-compose-536c)
+- [💬 Integrating Twilio into your project: Part 3 - Handling Webhooks and Sending Messages with Laravel and Express](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-3-handling-webhooks-and-sending-messages-with-242l)
+- [Should I switch to Salesforce in 2025? Looking for advice from devs who’ve made the leap 🙏](https://dev.to/manikanta_chavvakula_e2da/should-i-switch-to-salesforce-in-2025-looking-for-advice-from-devs-whove-made-the-leap-1393)
+- [Event Handling Functions](https://dev.to/sudhakar_v_c404997aeec839/event-handling-functions-5dj)
+- [CyberVault: A Fully Local, Open-Source Password Manager Built with C#](https://dev.to/cybernilsen/cybervault-a-fully-local-open-source-password-manager-built-with-c-nop)
+- [NPM Warn Deprecated – What It Means and How to Handle It](https://dev.to/0xdaniiel/npm-warn-deprecated-what-it-means-and-how-to-handle-it-4cek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
