@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pranesh_patel/-khe)
-- [A Developers Roadmap to Building, Tracking &amp; Shipping Better Product](https://dev.to/pratham_naik_project_manager/a-developers-roadmap-to-building-tracking-shipping-better-product-2n6f)
-- [From Sprint to Scale: A Developer’s Roadmap to Building, Tracking, and Shipping Better Products](https://dev.to/teamcamp/from-sprint-to-scale-a-developers-roadmap-to-building-tracking-and-shipping-better-products-928)
-- [🤖 The Role of AI in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-ai-in-modern-frontend-development-3clg)
-- [Understanding RAG Architecture in Large Language Models: A Complete Guide](https://dev.to/rocks_r_0ecb986bacc30a5f4/understanding-rag-architecture-in-large-language-models-a-complete-guide-38op)
+- [Microsoft Outlook Cheat Sheet For All Users](https://dev.to/stealthstephen/microsoft-outlook-cheat-sheet-for-all-users-1e76)
+- [HABITS TRACKER.py](https://dev.to/kaushikcoderpy/habits-trackerpy-18ph)
+- [📝 JavaScript Basics: Data Types, Variables, and Functions](https://dev.to/seenuvasan_p/javascript-basics-data-types-variables-and-functions-ekm)
+- [Clean Architecture in .NET: Moving Beyond Generic Repositories and Leveraging IServiceScopeFactory](https://dev.to/korirmoze/clean-architecture-in-net-moving-beyond-generic-repositories-and-leveraging-iservicescopefactory-11gb)
+- [Umair Shakoor | Coming Soon](https://dev.to/umairshakoor/umair-shakoor-coming-soon-2loi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
