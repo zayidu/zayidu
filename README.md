@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A crash course in Next.js middleware](https://dev.to/logrocket/a-crash-course-in-nextjs-middleware-3b7h)
-- [Stop Struggling with Forms in React - 4 Smart Ways to Handle Them](https://dev.to/werliton/stop-struggling-with-forms-in-react-4-smart-ways-to-handle-them-1hbp)
-- [Grafana Agent Installation and Configuration](https://dev.to/thdevops/grafana-agent-installation-and-configuration-49m4)
-- [🌍 Building a Digital Health Platform for Africa — Looking for a Volunteer Developer &lpar;Remote, Part-time&rpar;](https://dev.to/elox/building-a-digital-health-platform-for-africa-looking-for-a-volunteer-developer-remote-1cmo)
-- [Grafana K8s Stack Implementation on Kubernetes Cluster](https://dev.to/thdevops/grafana-k8s-stack-implementation-on-kubernetes-cluster-5gml)
+- [Snake Game with Amazon Q CLI](https://dev.to/akanksha3012/snake-game-with-amazon-q-cli-3bee)
+- [Syncing Postman Collections from OpenAPI Automatically — Without Losing Team Edits](https://dev.to/dmiska25/syncing-postman-collections-from-openapi-automatically-without-losing-team-edits-37el)
+- [My go-to guide to refactor a piece of code &lpar;or while reviewing code&rpar;: Scroll through a piece of code to find blocks that make you to stop and read twice. There&#39;s something to refactor there. Something needs to be better explained.](https://dev.to/canro91/my-go-to-guide-to-refactor-a-piece-of-code-or-while-reviewing-code-scroll-through-a-piece-of-139l)
+- [Java Script:Local Variable,Global Variable &amp;DOM](https://dev.to/paviarunachalam/java-scriptlocal-variableglobal-variable-dom-2e3n)
+- [🛠️Simula S3 Localmente con LocalStack y Docker Compose](https://dev.to/juan_jose_miranda/simula-s3-localmente-con-localstack-y-docker-compose-536c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
