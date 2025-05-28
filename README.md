@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Beautiful Public Profile Page for Free Without Facebook or Instagram](https://dev.to/pixeline/how-to-create-a-beautiful-public-profile-page-for-free-without-facebook-or-instagram-32d4)
-- [How to Use GitHub Copilot for Free &lpar;Student Discount Guide&rpar;](https://dev.to/therealmrmumba/how-to-use-github-copilot-for-free-student-discount-guide-2f56)
-- [Top 6 trends in backend development services in 2025](https://dev.to/ronasit/top-6-trends-in-backend-development-services-in-2025-1pij)
-- [Recreating a Nostalgic Game with Q CLI](https://dev.to/aws-builders/recreating-a-nostalgic-game-with-q-cli-pygame-3n8c)
-- [Understanding `TransactionEventListener` in Spring Boot: Use Cases, Real-Time Examples, and Challenges](https://dev.to/haraf/understanding-transactioneventlistener-in-spring-boot-use-cases-real-time-examples-and-4aof)
+- [Build CRUD App Laravel 12: Complete Step-by-Step Guide](https://dev.to/sureshramani/build-crud-app-laravel-12-complete-step-by-step-guide-5g4c)
+- [How to Choose a Conference Talk Topic](https://dev.to/blackgirlbytes/how-to-choose-a-conference-talk-topic-c09)
+- [Best Windows VPS Hosting 2025: Top Providers Compared](https://dev.to/accuwebhosting/best-windows-vps-hosting-2025-top-providers-compared-4aap)
+- [How to Add a QR Code to Your Website with Just a Few Lines of Code](https://dev.to/giftintech/how-to-add-a-qr-code-to-your-website-with-just-a-few-lines-of-code-57l8)
+- [Setting Up A VPC And Firewall In Linode &lpar;Akamai&rpar;](https://dev.to/theohutchings908/setting-up-a-vpc-and-firewall-in-linode-akamai-3je7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
