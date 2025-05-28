@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Embedded Debug Probes and What They&#39;re Used For](https://dev.to/kalvin_mccallum/the-best-embedded-debug-probes-and-what-theyre-used-for-43ek)
-- [Domain Validation with the Notification Pattern](https://dev.to/horse_patterns/domain-validation-with-the-notification-pattern-99o)
-- [The Visual Cortex Algorithm: What Coding Can Learn from the Brain’s Vision Engine](https://dev.to/alireza_minagar_99f01ecb6/the-visual-cortex-algorithm-what-coding-can-learn-from-the-brains-vision-engine-426a)
-- [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)
-- [How to Use Git Tags for Reliable Versioning and Releases](https://dev.to/hostman_com/how-to-use-git-tags-for-reliable-versioning-and-releases-546b)
+- [JavaScript to Python Mastery Guide: Syntax, Data Structures, OOP, Modules, Async...](https://dev.to/hossamgouda/javascript-to-python-mastery-guide-syntax-data-structures-oop-modules-async-5emg)
+- [Securing ASP.NET Core APIs with OAuth2 and OpenID Connect &lpar;2025 Edition&rpar;](https://dev.to/nikhilwagh/securing-aspnet-core-apis-with-oauth2-and-openid-connect-2025-edition-4j1c)
+- [🔥 From O&lpar;n&rpar; to O&lpar;1&rpar;: Smarter Game State for Smarter Code](https://dev.to/taratimmerman/from-on-to-o1-smarter-game-state-for-smarter-code-1fho)
+- [How FundGuard Drastically Improved Our CI with Modest Effort](https://dev.to/fundguard/how-fundguard-drastically-improved-our-ci-with-modest-effort-17jg)
+- [Motivation](https://dev.to/aniruddhaadak_/motivation-2o44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
