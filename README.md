@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhores práticas de segurança com o GitHub Copilot](https://dev.to/pachicodes/melhores-praticas-de-seguranca-com-o-github-copilot-343n)
-- [Owlcat Games reveals new CRPG Warhammer 40,000: Dark Heresy with official trailer](https://dev.to/gg_news/owlcat-games-reveals-new-crpg-warhammer-40000-dark-heresy-with-official-trailer-2d3e)
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-1lkl)
-- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5cmo)
-- [‘Elden Ring&#39; Movie in the Works From &#39;Civil War&#39; Director Alex Garland, A24](https://dev.to/gg_news/elden-ring-movie-in-the-works-from-civil-war-director-alex-garland-a24-63k)
+- [The Best Embedded Debug Probes and What They&#39;re Used For](https://dev.to/kalvin_mccallum/the-best-embedded-debug-probes-and-what-theyre-used-for-43ek)
+- [Domain Validation with the Notification Pattern](https://dev.to/horse_patterns/domain-validation-with-the-notification-pattern-99o)
+- [The Visual Cortex Algorithm: What Coding Can Learn from the Brain’s Vision Engine](https://dev.to/alireza_minagar_99f01ecb6/the-visual-cortex-algorithm-what-coding-can-learn-from-the-brains-vision-engine-426a)
+- [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)
+- [How to Use Git Tags for Reliable Versioning and Releases](https://dev.to/hostman_com/how-to-use-git-tags-for-reliable-versioning-and-releases-546b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
