@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Prettier – An Offline JSON Formatter Built with Rust and Tauri](https://dev.to/rebase/json-prettier-an-offline-json-formatter-built-with-rust-and-tauri-3i8a)
-- [Integrating Crypto-as-a-Service: Strategic Infrastructure for Fintech Growth](https://dev.to/philip_crypto92/integrating-crypto-as-a-service-strategic-infrastructure-for-fintech-growth-2dna)
-- [Hi everyone !!](https://dev.to/drexcel_2bf9636da4bf640e7/hi-everyone--2dbh)
-- [How to Install Nginx Web Server on Ubuntu 24.04: Complete Guide](https://dev.to/chris_holland_262af454cb2/how-to-install-nginx-web-server-on-ubuntu-2404-complete-guide-4gkf)
-- [Convert a List to a Pandas DataFrames: A Complete Guide for Data Manipulation](https://dev.to/foxinfotech/convert-a-list-to-a-pandas-dataframes-a-complete-guide-for-data-manipulation-52n4)
+- [Book review: Writing for Developers](https://dev.to/nfrankel/book-review-writing-for-developers-1cij)
+- [Understanding Special Permissions in Red Hat Linux &lpar;Simple Guide for Beginners&rpar;](https://dev.to/axisinfo_0a61830e06c3c950/understanding-special-permissions-in-red-hat-linux-simple-guide-for-beginners-4c5g)
+- [Traveling Solo Abroad: A Journey of Self-Discovery and Adventure](https://dev.to/daniellemorriss/traveling-solo-abroad-a-journey-of-self-discovery-and-adventure-73a)
+- [Top SDE Question -- Leetcode](https://dev.to/ankit_rattan/top-sde-question-leetcode-37ll)
+- [SafeLine WAF vs Cloudflare &amp; ModSecurity: Real Benchmark, Real Numbers](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-vs-cloudflare-modsecurity-real-benchmark-real-numbers-1pep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
