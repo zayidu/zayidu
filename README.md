@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Fast Can a Bot Trade?](https://dev.to/martin_call/how-fast-can-a-bot-trade-3p29)
-- [The promise that wasn’t kept](https://dev.to/whitep4nth3r/the-promise-that-wasnt-kept-3554)
-- [Beyond Stars and Forks: Why Open Source Needs Better Collaboration Metrics](https://dev.to/bekahhw/beyond-stars-and-forks-why-open-source-needs-better-collaboration-metrics-hla)
-- [🎉I tried to create a platform like DEV in Next.js 15](https://dev.to/chaoocharles/i-tried-to-create-a-platform-like-dev-in-nextjs-15-2abi)
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-3a4)
+- [How to build a secure file upload system in Astro](https://dev.to/logrocket/how-to-build-a-secure-file-upload-system-in-astro-541j)
+- [GitHub Copilot: AI-Powered Development with Intelligent Code Assistance](https://dev.to/pullflow/github-copilot-ai-powered-development-with-intelligent-code-assistance-59ed)
+- [You Think You Know How Imports Work? Let’s Talk Files, Images, and Fonts](https://dev.to/werliton/you-think-you-know-how-imports-work-lets-talk-files-images-and-fonts-16k4)
+- [How to Use NFC for Contactless Door Access &lpar;with Code Examples&rpar;](https://dev.to/karen_londres/how-to-use-nfc-for-contactless-door-access-with-code-examples-4bbm)
+- [What is React.js and Why You Should Learn It in 2025](https://dev.to/jackfd120/what-is-reactjs-and-why-you-should-learn-it-in-2025-5c20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
