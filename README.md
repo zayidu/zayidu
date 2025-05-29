@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Light Intensity Sensor APDS-9960](https://dev.to/admantium/home-assistant-light-intensity-sensor-apds-9960-4bn8)
-- [Day 2 - Session 2: JavaScript — DOM, Variables, and Interactivity](https://dev.to/sathish_226_/day-2-session-2-javascript-dom-variables-and-interactivity-1hn2)
-- [Day 2 - Session 1: Building a Product Card with HTML &amp; CSS](https://dev.to/sathish_226_/day-2-session-1-building-a-product-card-with-html-css-2j22)
-- [🚀 Applied AI for Developers: Get Practical, Stay Relevant](https://dev.to/kris_chou_5f6deb607e8cb75/applied-ai-for-developers-get-practical-stay-relevant-1i9e)
-- [Create and Publish a Custom .NET Project Template and Private NuGet to GitLab Package Registry](https://dev.to/rayson_lawrencedsouza_54/create-and-publish-a-custom-net-project-template-and-private-nuget-to-gitlab-package-registry-1a6h)
+- [Day 2 of diving deep into AI Agents!](https://dev.to/distalx/day-2-of-diving-deep-into-ai-agents-3e7m)
+- [Managing Secrets in PCI-DSS Compliant Docker Environments: Techniques and Tools for Secure Handling](https://dev.to/hexshift/managing-secrets-in-pci-dss-compliant-docker-environments-techniques-and-tools-for-secure-handling-2d6h)
+- [Master CSS Fast: The Only Tutorial You’ll Ever Need](https://dev.to/tpointtechblog/master-css-fast-the-only-tutorial-youll-ever-need-5dfb)
+- [[Boost]](https://dev.to/rajesh_patel/-526i)
+- [From Junior to Senior: Skills Roadmap for No one is talk about it](https://dev.to/aryan_panwala/from-junior-to-senior-skills-roadmap-for-no-one-is-talk-about-it-jkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
