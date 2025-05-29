@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of diving deep into AI Agents!](https://dev.to/distalx/day-2-of-diving-deep-into-ai-agents-3e7m)
-- [Managing Secrets in PCI-DSS Compliant Docker Environments: Techniques and Tools for Secure Handling](https://dev.to/hexshift/managing-secrets-in-pci-dss-compliant-docker-environments-techniques-and-tools-for-secure-handling-2d6h)
-- [Master CSS Fast: The Only Tutorial You’ll Ever Need](https://dev.to/tpointtechblog/master-css-fast-the-only-tutorial-youll-ever-need-5dfb)
-- [[Boost]](https://dev.to/rajesh_patel/-526i)
-- [From Junior to Senior: Skills Roadmap for No one is talk about it](https://dev.to/aryan_panwala/from-junior-to-senior-skills-roadmap-for-no-one-is-talk-about-it-jkl)
+- [Beginner](https://dev.to/jmferman/beginner-15ig)
+- [🥇 XBANKING — The World’s #1 DeFi Aggregator Chosen by Users](https://dev.to/xbanking_gmail_e8f6776310/xbanking-the-worlds-1-defi-aggregator-chosen-by-users-4gk4)
+- [100DaysOfCode — Day 28](https://dev.to/jobkroongit/100daysofcode-day-28-11lg)
+- [100DaysOfCode — Day 27](https://dev.to/jobkroongit/100daysofcode-day-27-14jd)
+- [A Language That Seamlessly Combines C and Python – My Dream Project](https://dev.to/hej_hdiss_5c43830cd49632e/a-language-that-seamlessly-combines-c-and-python-my-dream-project-18g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
