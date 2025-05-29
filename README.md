@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a secure file upload system in Astro](https://dev.to/logrocket/how-to-build-a-secure-file-upload-system-in-astro-541j)
-- [GitHub Copilot: AI-Powered Development with Intelligent Code Assistance](https://dev.to/pullflow/github-copilot-ai-powered-development-with-intelligent-code-assistance-59ed)
-- [You Think You Know How Imports Work? Let’s Talk Files, Images, and Fonts](https://dev.to/werliton/you-think-you-know-how-imports-work-lets-talk-files-images-and-fonts-16k4)
-- [How to Use NFC for Contactless Door Access &lpar;with Code Examples&rpar;](https://dev.to/karen_londres/how-to-use-nfc-for-contactless-door-access-with-code-examples-4bbm)
-- [What is React.js and Why You Should Learn It in 2025](https://dev.to/jackfd120/what-is-reactjs-and-why-you-should-learn-it-in-2025-5c20)
+- [I built a JSON AST Interpreter — write &amp; run programs in pure JSON!](https://dev.to/xzdes/i-built-a-json-ast-interpreter-write-run-programs-in-pure-json-1hm6)
+- [Teams that manage Tech Debt well do this](https://dev.to/andrewkelly/teams-that-manage-tech-debt-well-do-this-ck5)
+- [Black Box Testing vs White Box Testing: A Complete Guide](https://dev.to/morrismoses149/black-box-testing-vs-white-box-testing-a-complete-guide-1g2o)
+- [Understanding Template Literals and the DOM in JavaScript](https://dev.to/elayaraj31/understanding-template-literals-and-the-dom-in-javascript-4n4e)
+- [Are You Actually Making Money From Each Customer?](https://dev.to/shayy/are-you-actually-making-money-from-each-customer-13li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
