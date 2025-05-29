@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Book review: Writing for Developers](https://dev.to/nfrankel/book-review-writing-for-developers-1cij)
-- [Understanding Special Permissions in Red Hat Linux &lpar;Simple Guide for Beginners&rpar;](https://dev.to/axisinfo_0a61830e06c3c950/understanding-special-permissions-in-red-hat-linux-simple-guide-for-beginners-4c5g)
-- [Traveling Solo Abroad: A Journey of Self-Discovery and Adventure](https://dev.to/daniellemorriss/traveling-solo-abroad-a-journey-of-self-discovery-and-adventure-73a)
-- [Top SDE Question -- Leetcode](https://dev.to/ankit_rattan/top-sde-question-leetcode-37ll)
-- [SafeLine WAF vs Cloudflare &amp; ModSecurity: Real Benchmark, Real Numbers](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-vs-cloudflare-modsecurity-real-benchmark-real-numbers-1pep)
+- [Smarter Security: How Agentic AI Is Transforming Financial Protection](https://dev.to/destinovaailabs/smarter-security-how-agentic-ai-is-transforming-financial-protection-34hk)
+- [Day-2 JavaScript topics: Local variable and Global Variable, Introduction to DOM..](https://dev.to/chithra_priya/today-javascript-topics-local-variable-and-global-variable-introduction-to-dom-1f6g)
+- [🔁 Retrying Failed Requests with Exponential Backoff](https://dev.to/abhivyaktii/retrying-failed-requests-with-exponential-backoff-48ld)
+- [Finally Completed Designing Data Intensive Application Book](https://dev.to/hellonehha/finally-completed-designing-data-intensive-application-book-45j4)
+- [Rust: cargo release flags or codegen options](https://dev.to/ninadmhatre/rust-cargo-release-flags-or-codegen-options-398j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
