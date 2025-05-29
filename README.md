@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your REST API Logic in React with Connectors for REST APIs and GraphQL](https://dev.to/apollographql/simplify-your-rest-api-logic-in-react-with-connectors-for-rest-apis-and-graphql-5ab7)
-- [A Language-Agnostic CI/CD Pipeline flow](https://dev.to/msnmongare/a-language-agnostic-cicd-pipeline-flow-4dci)
-- [Managed DB Smackdown: MongoDB Atlas vs. AWS RDS vs. PlanetScale &lpar;No More 3 AM Alerts!&rpar; 🥊🚨](https://dev.to/alex_aslam/managed-db-smackdown-mongodb-atlas-vs-aws-rds-vs-planetscale-no-more-3-am-alerts-50ga)
-- [Open-source Quotes webapp](https://dev.to/evalvis/open-source-quotes-webapp-4co0)
-- [🛠️ How I Recovered a Broken AD Trust Network After a Server Rollback](https://dev.to/babsarena/how-i-recovered-a-broken-ad-trust-network-after-a-server-rollback-1in4)
+- [Array Manipulation Hackerrank problem analysis and solution optimization &lpar;prefix sum + difference array&rpar;](https://dev.to/yovo_manolov/array-manipulation-hackerrank-problem-analysis-and-solution-optimization-prefix-sum-difference-5546)
+- [Organizational Behaviour](https://dev.to/aniruddhaadak_/organizational-behaviour-2ih2)
+- [Deploying a Web service with GCP compute &amp; Terraform](https://dev.to/sardinessz/deploying-a-web-service-with-gcp-compute-terraform-nko)
+- [Veterinário e a Dieta Terapêutica: A Importância dos Exames para Pets](https://dev.to/animalclinico664/veterinario-e-a-dieta-terapeutica-a-importancia-dos-exames-para-pets-16pf)
+- [AI Commercial Open Source Software &lpar;AICOSS&rpar;](https://dev.to/jetthoughts/ai-commercial-open-source-software-aicoss-22f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
