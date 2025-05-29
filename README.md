@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Postgres Docker Setup with Extensions](https://dev.to/shrsv/supercharge-your-postgres-docker-setup-with-extensions-3leh)
-- [Dev Cheatsheets, Bundles &amp; Tools You’ll Actually Use](https://dev.to/resource_bunk_1077cab07da/dev-cheatsheets-bundles-tools-youll-actually-use-4f0d)
-- [Finding Your Dream Ruby Work: A Comprehensive Guide](https://dev.to/jetthoughts/finding-your-dream-ruby-work-a-comprehensive-guide-4lg5)
-- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
-- [I Learned Today-Understanding null and undefined in JavaScript,Template Literals.](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-null-and-undefined-in-javascripttemplate-literals-58n2)
+- [Integrating Langflow into Open WebUI](https://dev.to/jeromek13/integrating-langflow-into-open-webui-2oc6)
+- [Websockets on FastAPI: Implementing a simple chat with rooms in 20 minutes](https://dev.to/amverum/websockets-on-fastapi-implementing-a-simple-chat-with-rooms-in-20-minutes-26hj)
+- [7 AI Predictions &lpar;AI, We Really Need To Talk: Part 2&rpar;](https://dev.to/david_whitney/7-ai-predictions-ai-we-really-need-to-talk-part-2-5dnm)
+- [How AI is changing debugging with Google Gemini](https://dev.to/logrocket/how-ai-is-changing-debugging-with-google-gemini-5d9l)
+- [Smart Gaming in Action: The Claw Machine Meets Amazon Q CL:](https://dev.to/mahek_bhagchandani_4864dd/smart-gaming-in-action-the-claw-machine-meets-amazon-q-cl-13mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
