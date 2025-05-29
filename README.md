@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Have You Ever Had a Brilliant Idea… Then It Got Lost in the Mess?](https://dev.to/inam003/have-you-ever-had-a-brilliant-idea-then-it-got-lost-in-the-mess-5043)
-- [Poetry &gt; pip + venv? Here&#39;s why developers are switching](https://dev.to/leapcell/poetry-pip-venv-heres-why-developers-are-switching-5005)
-- [Rust Programming Books Roadmap](https://dev.to/kehn_marv/rust-programming-books-roadmap-2ala)
-- [🛠 DevTools &amp; Console](https://dev.to/ubbaobada/devtools-console-3gb3)
-- [CRM Integration Best Practices](https://dev.to/bridgegroupsolutions/crm-integration-best-practices-3o4m)
+- [No-Code/Low-Code Tools for MVP Development in 2025](https://dev.to/kamal_deeppareek_f5bb5d8/no-codelow-code-tools-for-mvp-development-in-2025-1k3d)
+- [Cybersecurity Metrics That Drive Results: Aligning Security Performance with Business Goals](https://dev.to/kapusto/cybersecurity-metrics-that-drive-results-aligning-security-performance-with-business-goals-3p0l)
+- [Zero to Production: Vibe-Coding an App and Scaling it on AWS](https://dev.to/karaniph/zero-to-production-vibe-coding-an-app-and-scaling-it-on-aws-47p2)
+- [Sapient HR: Transforming How Businesses Manage Talent](https://dev.to/amberava/sapient-hr-transforming-how-businesses-manage-talent-1a0k)
+- [Microfrontends in 2025: A Reality Check from the Trenches](https://dev.to/vitalii_petrenko_dev/microfrontends-in-2025-a-reality-check-from-the-trenches-1nj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
