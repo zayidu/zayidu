@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Langflow into Open WebUI](https://dev.to/jeromek13/integrating-langflow-into-open-webui-2oc6)
-- [Websockets on FastAPI: Implementing a simple chat with rooms in 20 minutes](https://dev.to/amverum/websockets-on-fastapi-implementing-a-simple-chat-with-rooms-in-20-minutes-26hj)
-- [7 AI Predictions &lpar;AI, We Really Need To Talk: Part 2&rpar;](https://dev.to/david_whitney/7-ai-predictions-ai-we-really-need-to-talk-part-2-5dnm)
-- [How AI is changing debugging with Google Gemini](https://dev.to/logrocket/how-ai-is-changing-debugging-with-google-gemini-5d9l)
-- [Smart Gaming in Action: The Claw Machine Meets Amazon Q CL:](https://dev.to/mahek_bhagchandani_4864dd/smart-gaming-in-action-the-claw-machine-meets-amazon-q-cl-13mh)
+- [Home Fitness Assistant](https://dev.to/masnoon01/untitled-1iij)
+- [WAF Checker: A Simple Web Tool for Testing Your Web Application Firewall](https://dev.to/devh0us3/waf-checker-a-simple-web-tool-for-testing-your-web-application-firewall-528)
+- [Moving &lpar;back&rpar; to Mac &amp; setting up CEH Labs](https://dev.to/hanswillem/moving-back-to-mac-setting-up-ceh-labs-9il)
+- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
+- [AI Readiness Framework in the Enterprise: Bridging the Gap Between Potential and Practicality](https://dev.to/kapusto/ai-readiness-framework-in-the-enterprise-bridging-the-gap-between-potential-and-practicality-pah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
