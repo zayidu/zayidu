@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Manipulation Hackerrank problem analysis and solution optimization &lpar;prefix sum + difference array&rpar;](https://dev.to/yovo_manolov/array-manipulation-hackerrank-problem-analysis-and-solution-optimization-prefix-sum-difference-5546)
-- [Organizational Behaviour](https://dev.to/aniruddhaadak_/organizational-behaviour-2ih2)
-- [Deploying a Web service with GCP compute &amp; Terraform](https://dev.to/sardinessz/deploying-a-web-service-with-gcp-compute-terraform-nko)
-- [Veterinário e a Dieta Terapêutica: A Importância dos Exames para Pets](https://dev.to/animalclinico664/veterinario-e-a-dieta-terapeutica-a-importancia-dos-exames-para-pets-16pf)
-- [AI Commercial Open Source Software &lpar;AICOSS&rpar;](https://dev.to/jetthoughts/ai-commercial-open-source-software-aicoss-22f4)
+- [React and typescript components lib, part 5: documentation of components using storybook](https://dev.to/griseduardo/react-and-typescript-components-lib-part-5-documentation-of-components-using-storybook-4g4p)
+- [Biblioteca de componentes React e typescript, parte 5: documentação de componentes com storybook](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-5-documentacao-de-componentes-com-storybook-3hko)
+- [Fraudulent activity problem from Hackerrank - sorting problems. Three different solutions. &lpar; min-max heap, counting sort&rpar;](https://dev.to/yovo_manolov/fraudulent-activity-problem-from-hackerrank-sorting-problems-three-different-solutions--15oe)
+- [JavaScript Variable Scope by Example](https://dev.to/micmath/javascript-variable-scope-by-example-3970)
+- [From Bug Hunter to Builder: How Software Testing Made Me a Better Developer](https://dev.to/gasser191/from-bug-hunter-to-builder-how-software-testing-made-me-a-better-developer-5c22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
