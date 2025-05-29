@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Security: How Agentic AI Is Transforming Financial Protection](https://dev.to/destinovaailabs/smarter-security-how-agentic-ai-is-transforming-financial-protection-34hk)
-- [Day-2 JavaScript topics: Local variable and Global Variable, Introduction to DOM..](https://dev.to/chithra_priya/today-javascript-topics-local-variable-and-global-variable-introduction-to-dom-1f6g)
-- [🔁 Retrying Failed Requests with Exponential Backoff](https://dev.to/abhivyaktii/retrying-failed-requests-with-exponential-backoff-48ld)
-- [Finally Completed Designing Data Intensive Application Book](https://dev.to/hellonehha/finally-completed-designing-data-intensive-application-book-45j4)
-- [Rust: cargo release flags or codegen options](https://dev.to/ninadmhatre/rust-cargo-release-flags-or-codegen-options-398j)
+- [💡 Have You Ever Had a Brilliant Idea… Then It Got Lost in the Mess?](https://dev.to/inam003/have-you-ever-had-a-brilliant-idea-then-it-got-lost-in-the-mess-5043)
+- [Poetry &gt; pip + venv? Here&#39;s why developers are switching](https://dev.to/leapcell/poetry-pip-venv-heres-why-developers-are-switching-5005)
+- [Rust Programming Books Roadmap](https://dev.to/kehn_marv/rust-programming-books-roadmap-2ala)
+- [🛠 DevTools &amp; Console](https://dev.to/ubbaobada/devtools-console-3gb3)
+- [CRM Integration Best Practices](https://dev.to/bridgegroupsolutions/crm-integration-best-practices-3o4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
