@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Initial Driver&#39;s Certificate vs. International Driving Authorization&lt;br&gt;](https://dev.to/bitestream09/initial-drivers-certificate-vs-international-driving-authorization-2kl2)
-- [Filas em PHP: um estudo de caso sobre o Leetcode 649 - Dota2 Senate](https://dev.to/gabrielgomes94/filas-em-php-um-estudo-de-caso-sobre-o-leetcode-649-dota2-senate-1d06)
-- [How to create custom Azure DevOps Pipelines that autoscale with Virtual Machine Scale Sets &lpar;VMSS&rpar;](https://dev.to/dmo2000/how-to-create-custom-azure-devops-pipelines-that-autoscale-with-virtual-machine-scale-sets-vmss-1k16)
-- [The Hidden Cost of Bad Code](https://dev.to/invalid_input/the-hidden-cost-of-bad-code-55nc)
-- [Daily JavaScript Challenge #JS-192: Determine if a String Has All Unique Characters](https://dev.to/dpc/daily-javascript-challenge-js-192-determine-if-a-string-has-all-unique-characters-dj)
+- [Criando um grid de dados simples contendo paginação + filtros + barra de pesquisa + classificação usando MYSQL, PHP e AJAX pt.2](https://dev.to/luis_carlos60/criando-um-grid-de-dados-simples-contendo-paginacao-filtros-barra-de-pesquisa-classificacao-4cce)
+- [Don&#39;t Panic! Handle Errors Gracefully with &quot;panic&quot;, &quot;defer&quot;, and &quot;recover&quot; in Go](https://dev.to/wambita_sheila_fana/dont-panic-handle-errors-gracefully-with-panic-defer-and-recover-in-go-57hb)
+- [Joy of Test Driven Development&lpar;TDD&rpar; using Rspec in Ruby](https://dev.to/avirajkhare00/joy-of-test-driven-developmenttdd-using-rspec-in-ruby-5fi5)
+- [Spring framework basic](https://dev.to/sugumar_r_a5f301adf1fb49a/spring-framework-basic-4nml)
+- [Unleash Your Creativity: Transform Photos Text into Amazing AI Cartoons](https://dev.to/aigame/unleash-your-creativity-transform-photos-text-into-amazing-ai-cartoons-1kp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
