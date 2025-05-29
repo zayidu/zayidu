@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Fitness Assistant](https://dev.to/masnoon01/untitled-1iij)
-- [WAF Checker: A Simple Web Tool for Testing Your Web Application Firewall](https://dev.to/devh0us3/waf-checker-a-simple-web-tool-for-testing-your-web-application-firewall-528)
-- [Moving &lpar;back&rpar; to Mac &amp; setting up CEH Labs](https://dev.to/hanswillem/moving-back-to-mac-setting-up-ceh-labs-9il)
-- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
-- [AI Readiness Framework in the Enterprise: Bridging the Gap Between Potential and Practicality](https://dev.to/kapusto/ai-readiness-framework-in-the-enterprise-bridging-the-gap-between-potential-and-practicality-pah)
+- [Simplify Your REST API Logic in React with Connectors for REST APIs and GraphQL](https://dev.to/apollographql/simplify-your-rest-api-logic-in-react-with-connectors-for-rest-apis-and-graphql-5ab7)
+- [A Language-Agnostic CI/CD Pipeline flow](https://dev.to/msnmongare/a-language-agnostic-cicd-pipeline-flow-4dci)
+- [Managed DB Smackdown: MongoDB Atlas vs. AWS RDS vs. PlanetScale &lpar;No More 3 AM Alerts!&rpar; 🥊🚨](https://dev.to/alex_aslam/managed-db-smackdown-mongodb-atlas-vs-aws-rds-vs-planetscale-no-more-3-am-alerts-50ga)
+- [Open-source Quotes webapp](https://dev.to/evalvis/open-source-quotes-webapp-4co0)
+- [🛠️ How I Recovered a Broken AD Trust Network After a Server Rollback](https://dev.to/babsarena/how-i-recovered-a-broken-ad-trust-network-after-a-server-rollback-1in4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
