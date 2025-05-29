@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React and typescript components lib, part 5: documentation of components using storybook](https://dev.to/griseduardo/react-and-typescript-components-lib-part-5-documentation-of-components-using-storybook-4g4p)
-- [Biblioteca de componentes React e typescript, parte 5: documentação de componentes com storybook](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-5-documentacao-de-componentes-com-storybook-3hko)
-- [Fraudulent activity problem from Hackerrank - sorting problems. Three different solutions. &lpar; min-max heap, counting sort&rpar;](https://dev.to/yovo_manolov/fraudulent-activity-problem-from-hackerrank-sorting-problems-three-different-solutions--15oe)
-- [JavaScript Variable Scope by Example](https://dev.to/micmath/javascript-variable-scope-by-example-3970)
-- [From Bug Hunter to Builder: How Software Testing Made Me a Better Developer](https://dev.to/gasser191/from-bug-hunter-to-builder-how-software-testing-made-me-a-better-developer-5c22)
+- [Aptos Move Tip #5 – Resource Management and Unbounded Execution](https://dev.to/maakai123/aptos-move-tip-5-resource-management-and-unbounded-execution-19kp)
+- [“I Just Wanted to Build a Website—But Ended Up Exposing the Silence We All Carry” https://senzyscripts.hashnode.dev/i-just-wanted-to-build-a-websitebut-ended-up-exposing-the-silence-we-all-carry?ref=twitter-share](https://dev.to/senzy01/i-just-wanted-to-build-a-website-but-ended-up-exposing-the-silence-we-all-carry-3gl3)
+- [Tagwise: Technical Review of AI-Powered Bookmark Categorization Project](https://dev.to/mantis-stajyer/tagwise-technical-review-of-ai-powered-bookmark-categorization-project-8k)
+- [Stop Asking for Estimates Like You’re Ordering a Pizza](https://dev.to/leaddontctrl/stop-asking-for-estimates-like-youre-ordering-a-pizza-23pi)
+- [How to Create a PPC Marketing Strategy that Works?](https://dev.to/lucas_bergman/how-to-create-a-ppc-marketing-strategy-that-works-15jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
