@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um grid de dados simples contendo paginação + filtros + barra de pesquisa + classificação usando MYSQL, PHP e AJAX pt.2](https://dev.to/luis_carlos60/criando-um-grid-de-dados-simples-contendo-paginacao-filtros-barra-de-pesquisa-classificacao-4cce)
-- [Don&#39;t Panic! Handle Errors Gracefully with &quot;panic&quot;, &quot;defer&quot;, and &quot;recover&quot; in Go](https://dev.to/wambita_sheila_fana/dont-panic-handle-errors-gracefully-with-panic-defer-and-recover-in-go-57hb)
-- [Joy of Test Driven Development&lpar;TDD&rpar; using Rspec in Ruby](https://dev.to/avirajkhare00/joy-of-test-driven-developmenttdd-using-rspec-in-ruby-5fi5)
-- [Spring framework basic](https://dev.to/sugumar_r_a5f301adf1fb49a/spring-framework-basic-4nml)
-- [Unleash Your Creativity: Transform Photos Text into Amazing AI Cartoons](https://dev.to/aigame/unleash-your-creativity-transform-photos-text-into-amazing-ai-cartoons-1kp8)
+- [Home Assistant: Light Intensity Sensor APDS-9960](https://dev.to/admantium/home-assistant-light-intensity-sensor-apds-9960-4bn8)
+- [Day 2 - Session 2: JavaScript — DOM, Variables, and Interactivity](https://dev.to/sathish_226_/day-2-session-2-javascript-dom-variables-and-interactivity-1hn2)
+- [Day 2 - Session 1: Building a Product Card with HTML &amp; CSS](https://dev.to/sathish_226_/day-2-session-1-building-a-product-card-with-html-css-2j22)
+- [🚀 Applied AI for Developers: Get Practical, Stay Relevant](https://dev.to/kris_chou_5f6deb607e8cb75/applied-ai-for-developers-get-practical-stay-relevant-1i9e)
+- [Create and Publish a Custom .NET Project Template and Private NuGet to GitLab Package Registry](https://dev.to/rayson_lawrencedsouza_54/create-and-publish-a-custom-net-project-template-and-private-nuget-to-gitlab-package-registry-1a6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
