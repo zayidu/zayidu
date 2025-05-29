@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
-- [New GitHub Copilot Global Bootcamp: Now with Virtual and In-Person Workshops!](https://dev.to/azure/new-github-copilot-global-bootcamp-now-with-virtual-and-in-person-workshops-3cmh)
-- [VO3 AI Genarator](https://dev.to/jeyzolo/vo3-ai-genarator-4bhd)
-- [Untitled](https://dev.to/rafa_correr_25ae6819c8847/untitled-d24)
-- [API Data Flow using AWS Lambda, S3 &amp; RDS](https://dev.to/jivaniyash/api-data-flow-using-aws-lambda-s3-rds-f8a)
+- [Initial Driver&#39;s Certificate vs. International Driving Authorization&lt;br&gt;](https://dev.to/bitestream09/initial-drivers-certificate-vs-international-driving-authorization-2kl2)
+- [Filas em PHP: um estudo de caso sobre o Leetcode 649 - Dota2 Senate](https://dev.to/gabrielgomes94/filas-em-php-um-estudo-de-caso-sobre-o-leetcode-649-dota2-senate-1d06)
+- [How to create custom Azure DevOps Pipelines that autoscale with Virtual Machine Scale Sets &lpar;VMSS&rpar;](https://dev.to/dmo2000/how-to-create-custom-azure-devops-pipelines-that-autoscale-with-virtual-machine-scale-sets-vmss-1k16)
+- [The Hidden Cost of Bad Code](https://dev.to/invalid_input/the-hidden-cost-of-bad-code-55nc)
+- [Daily JavaScript Challenge #JS-192: Determine if a String Has All Unique Characters](https://dev.to/dpc/daily-javascript-challenge-js-192-determine-if-a-string-has-all-unique-characters-dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
