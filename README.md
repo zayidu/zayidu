@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High-quality SVG icons for UIs](https://dev.to/gnrlbzik/high-quality-svg-icons-for-uis-31hg)
-- [Rock, Paper, Innovation: Create a Game in Minutes with Amazon Q](https://dev.to/aws-builders/rock-paper-innovation-create-a-game-in-minutes-with-amazon-q-ag3)
-- [The Enterprise Comfort Zone: When DevOps Teams Make You Forget How to Deploy](https://dev.to/jmazagao/the-enterprise-comfort-zone-when-devops-teams-make-you-forget-how-to-deploy-2jd0)
-- [Daily Z Reports and Weekly Reviews](https://dev.to/vst/daily-z-reports-and-weekly-reviews-4gmk)
-- [JWT Pros and Cons](https://dev.to/ayako_yk/jwt-pros-and-cons-4hc0)
+- [Building Solo: Errors](https://dev.to/healfy/building-solo-errors-1ljm)
+- [Learning Perl XS - How to create an object](https://dev.to/lnation/learning-perl-xs-how-to-create-an-object-24lj)
+- [I created a complete web OS named CloudOS , go to see it on https://maeldevelop7.github.io/CloudOS/](https://dev.to/maelgruand_web_dev/i-created-a-complete-web-os-named-cloudos-go-to-see-it-on-httpsmaeldevelop7githubiocloudos-igm)
+- [How to Test and Reduce Duplications in GitHub Actions Workflows](https://dev.to/yulin/how-to-test-and-reduce-duplications-in-github-actions-workflows-ppj)
+- [A Sketch of Reversible Deterministic Concurrency for Distributed Protocols](https://dev.to/replica-io/a-sketch-of-reversible-deterministic-concurrency-for-distributed-protocols-6k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
