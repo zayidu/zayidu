@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔌 Building Playwright Framework Step By Step - Implementing API Fixtures](https://dev.to/idavidov13/building-playwright-framework-step-by-step-implementing-api-fixtures-32bc)
-- [Security news weekly round-up - 30th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-30th-may-2025-38kb)
-- [If I Were the First Engineer at a Startup, Here&#39;s What I’d Do](https://dev.to/0xdaniiel/if-i-were-the-first-engineer-at-a-startup-heres-what-id-do-off)
-- [How to install avalonia on ubuntu](https://dev.to/yassir_elradi_ded89bd833a/how-to-install-avalonia-on-ubuntu-34m0)
-- [4 Front-end Frameworks That Didn&#39;t Age as Well!](https://dev.to/amoreno/4-front-end-frameworks-that-didnt-age-as-well-ion)
+- [DevOps Interview Questions &amp; Answers: The Ultimate Guide for 2025](https://dev.to/sameerimtiaz/devops-interview-questions-answers-the-ultimate-guide-for-2025-48lm)
+- [Categorize New Member](https://dev.to/maddiepst/categorize-new-member-5d1b)
+- [Token Metrics API Authentication: How to Connect Securely to AI-Powered Crypto Data](https://dev.to/api_builder_01/token-metrics-api-authentication-how-to-connect-securely-to-ai-powered-crypto-data-59ef)
+- [Stack, Heap and How Function Calls Really Work](https://dev.to/pkitz/stack-heap-and-how-function-calls-really-work-3mc5)
+- [🚀 Building My Freelance Journey From Scratch - Day 0 Log](https://dev.to/abhayrsr/building-my-freelance-journey-from-scratch-day-0-log-4f00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
