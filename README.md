@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #210](https://dev.to/aws/aws-open-source-newsletter-210-23l0)
-- [How AI Agents Are Transforming the Future of E-Commerce Automation](https://dev.to/destinovaailabs/how-ai-agents-are-transforming-the-future-of-e-commerce-automation-2kcf)
-- [Building Resilient Hybrid Cloud Architectures](https://dev.to/bridgegroupsolutions/building-resilient-hybrid-cloud-architectures-bbk)
-- [LLM on MacOS: XLM support](https://dev.to/hanswillem/llm-on-macos-xlm-support-4c93)
-- [shamir](https://dev.to/shamir_hussain_441bd087f1/shamir-1icd)
+- [Masterclass on Game Theory in Competitive Programming.](https://dev.to/coding_blocks/masterclass-on-game-theory-in-competitive-programming-13ep)
+- [Context Transference](https://dev.to/david_whitney/context-transference-531g)
+- [Brighter’s Threading Model: Why Dedicated Threads Power Async Messaging Pumps](https://dev.to/actor-dev/brighter-and-thread-4eik)
+- [O Modelo de Concorrência do Brighter: Como Threads Dedicadas Impulsionam Pumps de Mensagens Assíncronas](https://dev.to/actor-dev/o-modelo-de-concorrencia-do-brighter-como-threads-dedicadas-impulsionam-pumps-de-mensagens-h0l)
+- [Embedding Security in DevOps Pipelines](https://dev.to/bridgegroupsolutions/embedding-security-in-devops-pipelines-1lgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
