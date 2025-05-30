@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google CEO: Next year millions of people will try AI smartglasses - We&#39;ll have products in the hands of developers this year](https://dev.to/future_arvr/google-ceo-next-year-millions-of-people-will-try-ai-smartglasses-well-have-products-in-the-3kgb)
-- [Wait a minute! Researchers say AI&#39;s &quot;chains of thought&quot; are not signs of human-like reasoning](https://dev.to/future_ai/wait-a-minute-researchers-say-ais-chains-of-thought-are-not-signs-of-human-like-reasoning-2ofn)
-- [Anthropic&#39;s new hybrid AI model can work on tasks autonomously for hours at a time](https://dev.to/future_ai/anthropics-new-hybrid-ai-model-can-work-on-tasks-autonomously-for-hours-at-a-time-fgd)
-- [Mark Cuban says Anthropic&#39;s CEO is wrong: AI will create new roles, not kill jobs](https://dev.to/future_ai/mark-cuban-says-anthropics-ceo-is-wrong-ai-will-create-new-roles-not-kill-jobs-1lb4)
-- [Python: Your Gateway to the World of Machine Learning](https://dev.to/dev_patel_35864ca1db6093c/python-your-gateway-to-the-world-of-machine-learning-o74)
+- [Anyone here using InvestSpy for portfolio analytics? Thoughts?](https://dev.to/denis21/anyone-here-using-investspy-for-portfolio-analytics-thoughts-38ak)
+- [[Showoff Saturday] ATM Simulator – Fullstack Web App built with Flask](https://dev.to/dennis_mpoukouris_8a1f826/showoff-saturday-atm-simulator-fullstack-web-app-built-with-flask-741)
+- [LeetCode — 2824. Count Pairs Whose Sum is Less than Target](https://dev.to/bendlmp/leetcode-2824-count-pairs-whose-sum-is-less-than-target-380)
+- [Monetization Strategies for AI Technologies](https://dev.to/pponali/monetization-strategies-for-ai-technologies-3596)
+- [🧭 [DEVLOG] Building a No-Mercy Steampunk Mini-Game in Unity](https://dev.to/tonikaren2632_5548d75857a/devlog-building-a-no-mercy-steampunk-mini-game-in-unity-2mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
