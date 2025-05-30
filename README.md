@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do We All Have a Lookalike? Face Recognition vs. Human Eye](https://dev.to/3divi_inc/do-we-all-have-a-lookalike-face-recognition-vs-human-eye-ki2)
-- [Why Hackers Want Your Personal Data &lpar;And How They Use It&rpar;](https://dev.to/lawsonpeters/why-hackers-want-your-personal-data-and-how-they-use-it-4l30)
-- [What I Learned Translating 50+ Hours of Video Content with AI Voice Dubbing](https://dev.to/shruti_saraswat_c258d5934/what-i-learned-translating-50-hours-of-video-content-with-ai-voice-dubbing-55l2)
-- [Dwitter player](https://dev.to/preetha_vaishnavi_2b82358/dwitter-player-3048)
-- [🐍 Python Built-in Functions - Ultimate Cheat Sheet](https://dev.to/onyxwizard/python-built-in-functions-ultimate-cheat-sheet-6n0)
+- [Google CEO: Next year millions of people will try AI smartglasses - We&#39;ll have products in the hands of developers this year](https://dev.to/future_arvr/google-ceo-next-year-millions-of-people-will-try-ai-smartglasses-well-have-products-in-the-3kgb)
+- [Wait a minute! Researchers say AI&#39;s &quot;chains of thought&quot; are not signs of human-like reasoning](https://dev.to/future_ai/wait-a-minute-researchers-say-ais-chains-of-thought-are-not-signs-of-human-like-reasoning-2ofn)
+- [Anthropic&#39;s new hybrid AI model can work on tasks autonomously for hours at a time](https://dev.to/future_ai/anthropics-new-hybrid-ai-model-can-work-on-tasks-autonomously-for-hours-at-a-time-fgd)
+- [Mark Cuban says Anthropic&#39;s CEO is wrong: AI will create new roles, not kill jobs](https://dev.to/future_ai/mark-cuban-says-anthropics-ceo-is-wrong-ai-will-create-new-roles-not-kill-jobs-1lb4)
+- [Python: Your Gateway to the World of Machine Learning](https://dev.to/dev_patel_35864ca1db6093c/python-your-gateway-to-the-world-of-machine-learning-o74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
