@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’ll Never Read Documentation the Old Way Again](https://dev.to/axrisi/why-ill-never-read-documentation-the-old-way-again-1koh)
-- [Empower Your Team with Databricks: Harness the Power of Data &amp; AI](https://dev.to/imaginex/empower-your-team-with-databricks-harness-the-power-of-data-ai-4p6h)
-- [Expert Recommendations for LLC Registered Agents](https://dev.to/backgas99/expert-recommendations-for-llc-registered-agents-41ae)
-- [Dockerize Node.js + React in 5 Minutes: End &quot;Works on My Machine&quot; Forever 🐳🚀](https://dev.to/alex_aslam/dockerize-nodejs-react-in-5-minutes-end-works-on-my-machine-forever-2dgi)
-- [Learning to Code in the AI Era: Your 2025 Survival Guide](https://dev.to/blackscripts/learning-to-code-in-the-ai-era-your-2025-survival-guide-2p44)
+- [High-quality SVG icons for UIs](https://dev.to/gnrlbzik/high-quality-svg-icons-for-uis-31hg)
+- [Rock, Paper, Innovation: Create a Game in Minutes with Amazon Q](https://dev.to/aws-builders/rock-paper-innovation-create-a-game-in-minutes-with-amazon-q-ag3)
+- [The Enterprise Comfort Zone: When DevOps Teams Make You Forget How to Deploy](https://dev.to/jmazagao/the-enterprise-comfort-zone-when-devops-teams-make-you-forget-how-to-deploy-2jd0)
+- [Daily Z Reports and Weekly Reviews](https://dev.to/vst/daily-z-reports-and-weekly-reviews-4gmk)
+- [JWT Pros and Cons](https://dev.to/ayako_yk/jwt-pros-and-cons-4hc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
