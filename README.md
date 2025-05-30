@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth](https://dev.to/carrie_luo1/what-is-ldap-a-quick-guide-how-safeline-supports-ldap-authentication-1lb4)
-- [Discord style stickers in Wordpress Comments](https://dev.to/itsaomi/discord-style-stickers-in-wordpress-comments-3d7)
-- [🔐 C# Logger haqida va uning darajalari](https://dev.to/umida5/c-logger-haqida-va-uning-darajalari-379)
-- [Working with JavaScript Symbols](https://dev.to/micmath/working-with-javascript-symbols-10k8)
-- [Microsoft AppSource und Business Central: So funktioniert die Erweiterung durch Apps am Beispiel von Continia Banking](https://dev.to/connamix/microsoft-appsource-und-business-central-so-funktioniert-die-erweiterung-durch-apps-am-beispiel-4h7f)
+- [Do We All Have a Lookalike? Face Recognition vs. Human Eye](https://dev.to/3divi_inc/do-we-all-have-a-lookalike-face-recognition-vs-human-eye-ki2)
+- [Why Hackers Want Your Personal Data &lpar;And How They Use It&rpar;](https://dev.to/lawsonpeters/why-hackers-want-your-personal-data-and-how-they-use-it-4l30)
+- [What I Learned Translating 50+ Hours of Video Content with AI Voice Dubbing](https://dev.to/shruti_saraswat_c258d5934/what-i-learned-translating-50-hours-of-video-content-with-ai-voice-dubbing-55l2)
+- [Dwitter player](https://dev.to/preetha_vaishnavi_2b82358/dwitter-player-3048)
+- [🐍 Python Built-in Functions - Ultimate Cheat Sheet](https://dev.to/onyxwizard/python-built-in-functions-ultimate-cheat-sheet-6n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
