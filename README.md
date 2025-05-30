@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Maintain Clean Data in Salesforce](https://dev.to/softat_c9baa9555054f52b2e/how-to-maintain-clean-data-in-salesforce-3d6)
-- [How to Integrate AI into Web/App for Modern Businesses?](https://dev.to/lollypopdesign/how-to-integrate-ai-into-webapp-for-modern-businesses-1efb)
-- [Why You Should Delete jsonwebtoken in 2025 ⭐](https://dev.to/silentwatcher_95/why-you-should-delete-jsonwebtoken-in-2025-1o7n)
-- [Bottlerocket OS and ECS](https://dev.to/zhekpisov/bottlerocket-os-and-ecs-3obb)
-- [How AI Is Used in Software Development](https://dev.to/dits_marketing_5a30d3f55f/how-ai-is-used-in-software-development-16ei)
+- [What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth](https://dev.to/carrie_luo1/what-is-ldap-a-quick-guide-how-safeline-supports-ldap-authentication-1lb4)
+- [Discord style stickers in Wordpress Comments](https://dev.to/itsaomi/discord-style-stickers-in-wordpress-comments-3d7)
+- [🔐 C# Logger haqida va uning darajalari](https://dev.to/umida5/c-logger-haqida-va-uning-darajalari-379)
+- [Working with JavaScript Symbols](https://dev.to/micmath/working-with-javascript-symbols-10k8)
+- [Microsoft AppSource und Business Central: So funktioniert die Erweiterung durch Apps am Beispiel von Continia Banking](https://dev.to/connamix/microsoft-appsource-und-business-central-so-funktioniert-die-erweiterung-durch-apps-am-beispiel-4h7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
