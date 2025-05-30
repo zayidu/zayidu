@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Ghost 👻](https://dev.to/pullflow/project-of-the-week-ghost-1645)
-- [Secure Team Collaboration in Anvil](https://dev.to/anvil/secure-team-collaboration-in-anvil-3680)
-- [Dell Technologies World 2025 Kickoff: A Front Row Seat to the Future of AI](https://dev.to/brandon_seymour_320566f5e/dell-technologies-world-2025-kickoff-a-front-row-seat-to-the-future-of-ai-3fjo)
-- [Dizziness and Vertigo: What’s Normal and What’s Not?](https://dev.to/napollo_software/dizziness-and-vertigo-whats-normal-and-whats-not-504n)
-- [🧪DevOps Sandbox: Build Your Own Kubernetes Lab with Vagrant &amp; Ansible](https://dev.to/kartikdudeja21/devops-sandbox-build-your-own-kubernetes-lab-with-vagrant-ansible-3imi)
+- [Why I’ll Never Read Documentation the Old Way Again](https://dev.to/axrisi/why-ill-never-read-documentation-the-old-way-again-1koh)
+- [Empower Your Team with Databricks: Harness the Power of Data &amp; AI](https://dev.to/imaginex/empower-your-team-with-databricks-harness-the-power-of-data-ai-4p6h)
+- [Expert Recommendations for LLC Registered Agents](https://dev.to/backgas99/expert-recommendations-for-llc-registered-agents-41ae)
+- [Dockerize Node.js + React in 5 Minutes: End &quot;Works on My Machine&quot; Forever 🐳🚀](https://dev.to/alex_aslam/dockerize-nodejs-react-in-5-minutes-end-works-on-my-machine-forever-2dgi)
+- [Learning to Code in the AI Era: Your 2025 Survival Guide](https://dev.to/blackscripts/learning-to-code-in-the-ai-era-your-2025-survival-guide-2p44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
