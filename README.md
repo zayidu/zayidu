@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Best Practices: State Management](https://dev.to/shrutikapoor08/react-best-practices-state-management-37j8)
-- [🚀 How I Built a Complete Project Dashboard in Hours with AI: A New Paradigm for Developers](https://dev.to/genildocs/how-i-built-a-complete-project-dashboard-in-hours-with-ai-a-new-paradigm-for-developers-4kb6)
-- [Quick Guide: Create Your Account ID on Orderly](https://dev.to/modenetworkl2/quick-guide-create-your-account-id-on-orderly-49ci)
-- [React Router v7 Remains Strong: Clarity After the “Wake up, Remix!” Announcement](https://dev.to/kevinccbsg/react-router-v7-remains-strong-clarity-after-the-wake-up-remix-announcement-2pe8)
-- [Day-4 in JS: To create a Counter Application project in JS...](https://dev.to/chithra_priya/day-4-in-js-create-a-counter-project-in-js-3cah)
+- [How I Use AuditD to Catch Silent Security Threats on Linux | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-use-auditd-to-catch-silent-security-threats-on-linux-by-faruk-ahmed-may-2025-4ldf)
+- [How I Caught a Suspicious Shell Script Running in /tmp &lpar;And What It Taught Me&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-caught-a-suspicious-shell-script-running-in-tmp-and-what-it-taught-me-by-faruk-ahmed--49mf)
+- [How to Fix “Permission Denied &lpar;publickey&rpar;” When Using Git with GitHub on Windows](https://dev.to/gyantocode/how-to-fix-permission-denied-publickey-when-using-git-with-github-on-windows-3c9f)
+- [How I Accidentally Left a Port Open on My Linux Server &lpar;And How I Caught It&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-accidentally-left-a-port-open-on-my-linux-server-and-how-i-caught-it-by-faruk-ahmed--185h)
+- [7 Windows Server Defaults You Should Change Right After Installation | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/7-windows-server-defaults-you-should-change-right-after-installation-by-faruk-ahmed-may-2025-dpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
