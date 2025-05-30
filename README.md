@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Must-Know Data Structures for Every Programmer](https://dev.to/rac/top-10-must-know-data-structures-for-every-programmer-1hg2)
-- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://dev.to/vlopess/automating-flutter-apps-an-introduction-to-cicd-pipelines-59mn)
-- [Research, Innovation &amp; Impact – Sabaragamuwa University Leads the Way The future belongs to innovators. At Sabaragamuwa University of Sri Lanka, innovation is not just a buzzword — it’s a way of life. SUSL has established itself as a research-driven univ](https://dev.to/davitson/research-innovation-impact-sabaragamuwa-university-leads-the-way-the-future-belongs-to-4mm5)
-- [Modern Depo Yönetimi İçin WMS Sistemi Nasıl Kurulur? Teknolojisi, Mimarisi ve Katkısı](https://dev.to/sinan_durmu_8a9e16bb1c28/modern-depo-yonetimi-icin-wms-sistemi-nasil-kurulur-teknolojisi-mimarisi-ve-katkisi-4pne)
-- [Microsoft 365 Apps for Business: The Ideal Subscription for Secure, Scalable Productivity](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-apps-for-business-the-ideal-subscription-for-secure-scalable-productivity-h5l)
+- [How to Maintain Clean Data in Salesforce](https://dev.to/softat_c9baa9555054f52b2e/how-to-maintain-clean-data-in-salesforce-3d6)
+- [How to Integrate AI into Web/App for Modern Businesses?](https://dev.to/lollypopdesign/how-to-integrate-ai-into-webapp-for-modern-businesses-1efb)
+- [Why You Should Delete jsonwebtoken in 2025 ⭐](https://dev.to/silentwatcher_95/why-you-should-delete-jsonwebtoken-in-2025-1o7n)
+- [Bottlerocket OS and ECS](https://dev.to/zhekpisov/bottlerocket-os-and-ecs-3obb)
+- [How AI Is Used in Software Development](https://dev.to/dits_marketing_5a30d3f55f/how-ai-is-used-in-software-development-16ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
