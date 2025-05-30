@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Masterclass on Game Theory in Competitive Programming.](https://dev.to/coding_blocks/masterclass-on-game-theory-in-competitive-programming-13ep)
-- [Context Transference](https://dev.to/david_whitney/context-transference-531g)
-- [Brighter’s Threading Model: Why Dedicated Threads Power Async Messaging Pumps](https://dev.to/actor-dev/brighter-and-thread-4eik)
-- [O Modelo de Concorrência do Brighter: Como Threads Dedicadas Impulsionam Pumps de Mensagens Assíncronas](https://dev.to/actor-dev/o-modelo-de-concorrencia-do-brighter-como-threads-dedicadas-impulsionam-pumps-de-mensagens-h0l)
-- [Embedding Security in DevOps Pipelines](https://dev.to/bridgegroupsolutions/embedding-security-in-devops-pipelines-1lgc)
+- [Top 10 Must-Know Data Structures for Every Programmer](https://dev.to/rac/top-10-must-know-data-structures-for-every-programmer-1hg2)
+- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://dev.to/vlopess/automating-flutter-apps-an-introduction-to-cicd-pipelines-59mn)
+- [Research, Innovation &amp; Impact – Sabaragamuwa University Leads the Way The future belongs to innovators. At Sabaragamuwa University of Sri Lanka, innovation is not just a buzzword — it’s a way of life. SUSL has established itself as a research-driven univ](https://dev.to/davitson/research-innovation-impact-sabaragamuwa-university-leads-the-way-the-future-belongs-to-4mm5)
+- [Modern Depo Yönetimi İçin WMS Sistemi Nasıl Kurulur? Teknolojisi, Mimarisi ve Katkısı](https://dev.to/sinan_durmu_8a9e16bb1c28/modern-depo-yonetimi-icin-wms-sistemi-nasil-kurulur-teknolojisi-mimarisi-ve-katkisi-4pne)
+- [Microsoft 365 Apps for Business: The Ideal Subscription for Secure, Scalable Productivity](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-apps-for-business-the-ideal-subscription-for-secure-scalable-productivity-h5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
