@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data storing using file or database, which is more suitable?](https://dev.to/esproc_spl/data-storing-using-file-or-database-which-is-more-suitable-59bn)
-- [Agentic AI in Enterprise Software: The Next Leap in Intelligent Automation](https://dev.to/inapp_marketing_02d7c6755/agentic-ai-in-enterprise-software-the-next-leap-in-intelligent-automation-4h1b)
-- [One-Click HeyForm Deployment on Clawcloud Run: The Ultimate Zero-Code Smart Form Guide](https://dev.to/clawcloudrun/one-click-heyform-deployment-on-clawcloud-run-the-ultimate-zero-code-smart-form-guide-20lo)
-- [One-Click Deployment of Shlink on Clawcloud Run: Build a Personal URL Shortener at Zero Cost](https://dev.to/clawcloudrun/one-click-deployment-of-shlink-on-clawcloud-run-build-a-personal-url-shortener-at-zero-cost-131)
-- [Day 9/30 - git merge --squash – Combine multiple commits into one](https://dev.to/ruqaiya_beguwala/day-930-git-merge-squash-combine-multiple-commits-into-one-3lp)
+- [AWS open source newsletter, #210](https://dev.to/aws/aws-open-source-newsletter-210-23l0)
+- [How AI Agents Are Transforming the Future of E-Commerce Automation](https://dev.to/destinovaailabs/how-ai-agents-are-transforming-the-future-of-e-commerce-automation-2kcf)
+- [Building Resilient Hybrid Cloud Architectures](https://dev.to/bridgegroupsolutions/building-resilient-hybrid-cloud-architectures-bbk)
+- [LLM on MacOS: XLM support](https://dev.to/hanswillem/llm-on-macos-xlm-support-4c93)
+- [shamir](https://dev.to/shamir_hussain_441bd087f1/shamir-1icd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
