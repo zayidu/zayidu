@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Sentry Error Monitoring with Encore.ts](https://dev.to/leonardo_marciano/integrating-sentry-error-monitoring-with-encorets-3614)
-- [Can This Open Source WAF Stop SQL Injection Attacks?](https://dev.to/sharon_42e16b8da44dabde6d/can-this-open-source-waf-stop-sql-injection-attacks-597c)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
-- [What is useEffect in React?](https://dev.to/amalzewita/what-is-useeffect-in-react-3n7a)
-- [Understanding Redux Toolkit with React: A Beginner-Friendly Guide](https://dev.to/amalzewita/understanding-redux-toolkit-with-react-a-beginner-friendly-guide-5hlf)
+- [Why C Still Matters: A Modern Tutorial](https://dev.to/tpointtechblog/why-c-still-matters-a-modern-tutorial-4jeb)
+- [Scrape Like a Pro: BeautifulSoup + Python Full Tutorial](https://dev.to/leapcell/scrape-like-a-pro-beautifulsoup-python-full-tutorial-nj4)
+- [[Write Up] Bandit Wargame Clear Log &lpar;Level 10 - 20&rpar;](https://dev.to/sankworks/write-up-bandit-wargame-clear-log-level-10-20-2042)
+- [Blazor Web App - WebAssembly Hosted in .NET8 and .NET9](https://dev.to/kazinix/blazor-web-app-webassembly-hosted-in-net8-and-net9-1k6g)
+- [Dropping Detection](https://dev.to/dat_one_dev/dropping-detection-1mkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
