@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Interview Questions &amp; Answers: The Ultimate Guide for 2025](https://dev.to/sameerimtiaz/devops-interview-questions-answers-the-ultimate-guide-for-2025-48lm)
-- [Categorize New Member](https://dev.to/maddiepst/categorize-new-member-5d1b)
-- [Token Metrics API Authentication: How to Connect Securely to AI-Powered Crypto Data](https://dev.to/api_builder_01/token-metrics-api-authentication-how-to-connect-securely-to-ai-powered-crypto-data-59ef)
-- [Stack, Heap and How Function Calls Really Work](https://dev.to/pkitz/stack-heap-and-how-function-calls-really-work-3mc5)
-- [🚀 Building My Freelance Journey From Scratch - Day 0 Log](https://dev.to/abhayrsr/building-my-freelance-journey-from-scratch-day-0-log-4f00)
+- [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
+- [Cristhian](https://dev.to/cristhian_huarsaya_56bffd/cristhian-4j6n)
+- [[1] Why You Should Understand What a CPU Is, even as a High-Level Developer](https://dev.to/adamsnows/why-you-should-understand-what-a-cpu-is-even-as-a-high-level-developer-3emm)
+- [Make Custom Stickers from Photos Easily](https://dev.to/jake-braham/make-custom-stickers-from-photos-easily-32hf)
+- [Escape the Container Chaos: Deploy Docker Apps to ECS, Cloud Run &amp; Swarm Without Losing Your Mind 🐳🚀](https://dev.to/alex_aslam/escape-the-container-chaos-deploy-docker-apps-to-ecs-cloud-run-swarm-without-losing-your-mind-4ec3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
