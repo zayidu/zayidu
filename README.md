@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aptos Move Tip #5 – Resource Management and Unbounded Execution](https://dev.to/maakai123/aptos-move-tip-5-resource-management-and-unbounded-execution-19kp)
-- [“I Just Wanted to Build a Website—But Ended Up Exposing the Silence We All Carry” https://senzyscripts.hashnode.dev/i-just-wanted-to-build-a-websitebut-ended-up-exposing-the-silence-we-all-carry?ref=twitter-share](https://dev.to/senzy01/i-just-wanted-to-build-a-website-but-ended-up-exposing-the-silence-we-all-carry-3gl3)
-- [Tagwise: Technical Review of AI-Powered Bookmark Categorization Project](https://dev.to/mantis-stajyer/tagwise-technical-review-of-ai-powered-bookmark-categorization-project-8k)
-- [Stop Asking for Estimates Like You’re Ordering a Pizza](https://dev.to/leaddontctrl/stop-asking-for-estimates-like-youre-ordering-a-pizza-23pi)
-- [How to Create a PPC Marketing Strategy that Works?](https://dev.to/lucas_bergman/how-to-create-a-ppc-marketing-strategy-that-works-15jl)
+- [Your application should be PCI-DSS-compliant](https://dev.to/avonnadozie/your-application-should-be-pci-dss-compliant-1l6n)
+- [5 Real Crypto Projects You Can Build This Weekend Using the Token Metrics API](https://dev.to/api_builder_01/5-real-crypto-projects-you-can-build-this-weekend-using-the-token-metrics-api-2g69)
+- [Write Cleaner Code](https://dev.to/joao_dalbem_afa16a8be0433/write-cleaner-code-clm)
+- [Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming](https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m)
+- [Ngoding Sambil Healing: Tips Jaga Waras Buat Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-healing-tips-jaga-waras-buat-software-engineer-39km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
