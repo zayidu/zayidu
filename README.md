@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your application should be PCI-DSS-compliant](https://dev.to/avonnadozie/your-application-should-be-pci-dss-compliant-1l6n)
-- [5 Real Crypto Projects You Can Build This Weekend Using the Token Metrics API](https://dev.to/api_builder_01/5-real-crypto-projects-you-can-build-this-weekend-using-the-token-metrics-api-2g69)
-- [Write Cleaner Code](https://dev.to/joao_dalbem_afa16a8be0433/write-cleaner-code-clm)
-- [Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming](https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m)
-- [Ngoding Sambil Healing: Tips Jaga Waras Buat Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-healing-tips-jaga-waras-buat-software-engineer-39km)
+- [04-HarmonyOS5-FaceDetector-Case](https://dev.to/zhousg/04-harmonyos5-facedetector-case-5ekf)
+- [03-HarmonyOS5-TextRecognition-Case](https://dev.to/zhousg/03-harmonyos5-textrecognition-case-7e4)
+- [The QA Team Revolted: Our ChatGPT Experiment for Test Case Generation](https://dev.to/abhishekshakya/the-qa-team-revolted-our-chatgpt-experiment-for-test-case-generation-722)
+- [02-HarmonyOS5-SpeechRecognizer-Case](https://dev.to/zhousg/02-harmonyos5-speechrecognizer-case-3je)
+- [01-HarmonyOS5-CoreSpeechKit-Case](https://dev.to/zhousg/01-harmonyos5-corespeechkit-case-2blg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
