@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Solo: Errors](https://dev.to/healfy/building-solo-errors-1ljm)
-- [Learning Perl XS - How to create an object](https://dev.to/lnation/learning-perl-xs-how-to-create-an-object-24lj)
-- [I created a complete web OS named CloudOS , go to see it on https://maeldevelop7.github.io/CloudOS/](https://dev.to/maelgruand_web_dev/i-created-a-complete-web-os-named-cloudos-go-to-see-it-on-httpsmaeldevelop7githubiocloudos-igm)
-- [How to Test and Reduce Duplications in GitHub Actions Workflows](https://dev.to/yulin/how-to-test-and-reduce-duplications-in-github-actions-workflows-ppj)
-- [A Sketch of Reversible Deterministic Concurrency for Distributed Protocols](https://dev.to/replica-io/a-sketch-of-reversible-deterministic-concurrency-for-distributed-protocols-6k8)
+- [React Best Practices: State Management](https://dev.to/shrutikapoor08/react-best-practices-state-management-37j8)
+- [🚀 How I Built a Complete Project Dashboard in Hours with AI: A New Paradigm for Developers](https://dev.to/genildocs/how-i-built-a-complete-project-dashboard-in-hours-with-ai-a-new-paradigm-for-developers-4kb6)
+- [Quick Guide: Create Your Account ID on Orderly](https://dev.to/modenetworkl2/quick-guide-create-your-account-id-on-orderly-49ci)
+- [React Router v7 Remains Strong: Clarity After the “Wake up, Remix!” Announcement](https://dev.to/kevinccbsg/react-router-v7-remains-strong-clarity-after-the-wake-up-remix-announcement-2pe8)
+- [Day-4 in JS: To create a Counter Application project in JS...](https://dev.to/chithra_priya/day-4-in-js-create-a-counter-project-in-js-3cah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
