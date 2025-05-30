@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [04-HarmonyOS5-FaceDetector-Case](https://dev.to/zhousg/04-harmonyos5-facedetector-case-5ekf)
-- [03-HarmonyOS5-TextRecognition-Case](https://dev.to/zhousg/03-harmonyos5-textrecognition-case-7e4)
-- [The QA Team Revolted: Our ChatGPT Experiment for Test Case Generation](https://dev.to/abhishekshakya/the-qa-team-revolted-our-chatgpt-experiment-for-test-case-generation-722)
-- [02-HarmonyOS5-SpeechRecognizer-Case](https://dev.to/zhousg/02-harmonyos5-speechrecognizer-case-3je)
-- [01-HarmonyOS5-CoreSpeechKit-Case](https://dev.to/zhousg/01-harmonyos5-corespeechkit-case-2blg)
+- [Integrating Sentry Error Monitoring with Encore.ts](https://dev.to/leonardo_marciano/integrating-sentry-error-monitoring-with-encorets-3614)
+- [Can This Open Source WAF Stop SQL Injection Attacks?](https://dev.to/sharon_42e16b8da44dabde6d/can-this-open-source-waf-stop-sql-injection-attacks-597c)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
+- [What is useEffect in React?](https://dev.to/amalzewita/what-is-useeffect-in-react-3n7a)
+- [Understanding Redux Toolkit with React: A Beginner-Friendly Guide](https://dev.to/amalzewita/understanding-redux-toolkit-with-react-a-beginner-friendly-guide-5hlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
