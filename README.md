@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data structure - Graph](https://dev.to/emmakang123/data-structure-graph-3a7b)
-- [Refining “Similar Posts” for Relevance and Simplicity](https://dev.to/logarithmicspirals/refining-similar-posts-for-relevance-and-simplicity-2gfl)
-- [From Classroom to HackTheBox: My Journey Through Cybersecurity Degree, Certifications, and the Power of Practical Experience](https://dev.to/justinkt/from-classroom-to-hackthebox-my-journey-through-cybersecurity-degree-certifications-and-the-5e7d)
-- [Securing Redis with ACLs and Integrating Redis Insight in Docker](https://dev.to/silentwatcher_95/securing-redis-with-acls-and-integrating-redis-insight-in-docker-59c1)
-- [Day 39 – Locked Reloaded Ready to Devour the Last 60 Days](https://dev.to/mridulbansal2006/day-39-locked-reloaded-ready-to-devour-the-last-60-days-mjo)
+- [🚦 Swift 6.1 From Risky to Robust: Concurrency &amp; Import Improvements](https://dev.to/shubham_sanghavi_55c51b74/swift-61-from-risky-to-robust-concurrency-import-improvements-1p14)
+- [[Boost]](https://dev.to/ytx/-2ni8)
+- [👋 Hello Dev Community – I’m Building Snippai, an AI-Powered Screenshot Agent](https://dev.to/ytx/hello-dev-community-im-building-snippai-an-ai-powered-screenshot-agent-5eab)
+- [How to Use Anthropic&#39;s Opus &amp; Sonnet-4 in Windsurf with Your Own API Key](https://dev.to/hanselcarter/how-to-use-anthropics-opus-sonnet-4-in-windsurf-with-your-own-api-key-22kp)
+- [Version 0.2 Fast-translate app](https://dev.to/truezerox/version-02-fast-translate-app-4102)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
