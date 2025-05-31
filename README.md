@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize Your Application Entities with MSAGL &lpar;Toolkit for .NET Devs&rpar;](https://dev.to/catchybytes_techy_5d77bcf/visualize-your-application-entities-with-msagl-free-toolkit-for-net-devs-jln)
-- [Refactoring with Result&lt;T, E&gt; and Custom Errors](https://dev.to/sgchris/refactoring-with-resultt-e-and-custom-errors-24ik)
-- [AI Hallucinations: Can We Trust AI-Generated Data?](https://dev.to/grenishrai/ai-hallucinations-can-we-trust-ai-generated-data-e7b)
-- [Osint app dev](https://dev.to/peter_karanja_43543e36af7/osint-app-dev-27pb)
-- [[Side Project] Maroik: Modern ASP.NET Core 9.0 CMS with Full-Stack Features](https://dev.to/ikhyeon_jo_bac055cc6e6a90/side-project-maroik-modern-aspnet-core-90-cms-with-full-stack-features-4370)
+- [Your Inbox, Now an AI Financial Assistant: Postmark Challenge: Inbox Innovators](https://dev.to/youneslaaroussi/your-inbox-now-an-ai-financial-assistant-postmark-challenge-inbox-innovators-2ne5)
+- [Linear Regression Model using Math!](https://dev.to/busycaesar/regression-model-405j)
+- [The Synergy Between GPUs and AI: A Comprehensive Overview](https://dev.to/kpcofgs/the-synergy-between-gpus-and-ai-a-comprehensive-overview-399o)
+- [Finding the Road Back Home: Building a Clean PostGIS Gem for Rails 8](https://dev.to/seuros/finding-the-road-back-home-building-a-clean-postgis-gem-for-rails-8-21ai)
+- [The Day That Taught Me Something I’ll Never Forget](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-2keo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
