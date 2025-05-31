@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt hackathon participants? Anyone?](https://dev.to/iva2xn/bolt-hackathon-participants-anyone-3dao)
-- [100APIsOfCode : Day 2](https://dev.to/johns-dev-projects/100daysofcode-day-2-1flb)
-- [TabView array id](https://dev.to/hejliang/tabview-array-id-p5m)
-- [Daily Debug — Day 0: Why I’m Writing This](https://dev.to/stinklewinks/daily-debug-day-0-why-im-writing-this-50o)
-- [A Beginner’s Note on Deep Learning: Lessons from My Journey](https://dev.to/dinakajoy/a-beginners-note-on-deep-learning-lessons-from-my-journey-1lk)
+- [What I Learned Cleaning 1 Million Rows of CSV Data Without Pandas](https://dev.to/abrar_ahmed/what-i-learned-cleaning-1-million-rows-of-csv-data-without-pandas-1a01)
+- [[Boost]](https://dev.to/sejutaimpian/-56hi)
+- [### Unleash the Power of HTML `data-*` Attributes: Your Secret Weapon for Stellar Web Design](https://dev.to/imoh_imohowo/-unleash-the-power-of-html-data-attributes-your-secret-weapon-for-stellar-web-design-1b9c)
+- [🚀 Automatically Mount S3 Buckets at Boot with Mountpoint for Amazon S3 + fstab](https://dev.to/latchudevops/automatically-mount-s3-buckets-at-boot-with-mountpoint-for-amazon-s3-fstab-2ig8)
+- [Top Coding Resources &amp; Platforms for Engineering Students](https://dev.to/solamalai_college/top-coding-resources-platforms-for-engineering-students-32f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
