@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 - Bolt Hackathon](https://dev.to/nipv20s/day-1-bolt-hackathon-31aa)
-- [🧠 How I Start My Day — A Routine That’s Rewiring My Brain](https://dev.to/yash_sonawane25/how-i-start-my-day-a-routine-thats-rewiring-my-brain-571c)
-- [Adapting Technical Interviews to Counter AI-Assisted Cheating](https://dev.to/jotafeldmann/adapting-technical-interviews-to-counter-ai-assisted-cheating-36lk)
-- [Vibe coding an Email Ticket Automater using Postmark](https://dev.to/chiragagg5k/vibe-coding-an-email-ticket-automater-using-postmark-l11)
-- [Building the Smart City Pulse Dashboard: My Summer of Scribbling Hackathon Journey](https://dev.to/sujan_kowshikjilla_3f595/building-the-smart-city-pulse-dashboard-my-summer-of-scribbling-hackathon-journey-22m0)
+- [🎤 Your Gateway to Building VoiceNote AI: Mastering Speech-to-Text with Whisper](https://dev.to/fonyuygita/your-gateway-to-building-voicenote-ai-mastering-speech-to-text-with-whisper-509l)
+- [📚 Your Gateway to Building ReadTrackr: Mastering the Open Library API](https://dev.to/fonyuygita/your-gateway-to-building-readtrackr-mastering-the-open-library-api-j9n)
+- [Deploy on Jira](https://dev.to/ankit_rattan/deploy-on-jira-14an)
+- [Understanding Rust Concepts](https://dev.to/apondiart/understanding-rust-concepts-16pj)
+- [Controle de fumaça em residências multifamiliares: soluções eficientes](https://dev.to/incendioindustrial796/controle-de-fumaca-em-residencias-multifamiliares-solucoes-eficientes-1c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
