@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
-- [Cristhian](https://dev.to/cristhian_huarsaya_56bffd/cristhian-4j6n)
-- [[1] Why You Should Understand What a CPU Is, even as a High-Level Developer](https://dev.to/adamsnows/why-you-should-understand-what-a-cpu-is-even-as-a-high-level-developer-3emm)
-- [Make Custom Stickers from Photos Easily](https://dev.to/jake-braham/make-custom-stickers-from-photos-easily-32hf)
-- [Escape the Container Chaos: Deploy Docker Apps to ECS, Cloud Run &amp; Swarm Without Losing Your Mind 🐳🚀](https://dev.to/alex_aslam/escape-the-container-chaos-deploy-docker-apps-to-ecs-cloud-run-swarm-without-losing-your-mind-4ec3)
+- [Top 5 Tools That Changed How I Code Forever](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-4ka9)
+- [My Favorite Game Dev Moments: When Coding Meets Gaming](https://dev.to/joao_dalbem_afa16a8be0433/my-favorite-game-dev-moments-when-coding-meets-gaming-14ja)
+- [🔍 How OCR Engines Like Tesseract Work – From Image to Text](https://dev.to/arunsaiv/how-ocr-engines-like-tesseract-work-from-image-to-text-55bn)
+- [From Casual to Pro: My Evolution as a Gamer.](https://dev.to/joao_dalbem_afa16a8be0433/from-casual-to-pro-my-evolution-as-a-gamer-2ole)
+- [How to Stay Safe from Cyber Attacks: Tips Anyone Can Follow](https://dev.to/terminaltools/how-to-stay-safe-from-cyber-attacks-tips-anyone-can-follow-19c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
