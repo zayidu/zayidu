@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Warehousing and Data Mining](https://dev.to/aniruddhaadak_/data-warehousing-and-data-mining-20d6)
-- [Millau - ingress-proxy with self-configuration for Docker Swarm](https://dev.to/codelev/millau-ingress-proxy-with-self-configuration-for-docker-swarm-5g48)
-- [From Vision to Code: How I’m Building Orbeato to Modernize Education with AI](https://dev.to/keshav_kushwaha_76cfeff16/from-vision-to-code-how-im-building-orbeato-to-modernize-education-with-ai-3p7i)
-- [Naming Things in Code: Why It’s Hard and How to Do It Better](https://dev.to/lovestaco/naming-things-in-code-why-its-hard-and-how-to-do-it-better-3262)
-- [Now you can build API like LEGO](https://dev.to/bao_ngo_48313312086d5b368/now-you-can-build-api-like-lego-5deh)
+- [Serverless REST APIs: Code Like a Rebel, Deploy Like a Boss with AWS Lambda + API Gateway 🚀🔥](https://dev.to/alex_aslam/serverless-rest-apis-code-like-a-rebel-deploy-like-a-boss-with-aws-lambda-api-gateway-4bfj)
+- [Raspbian: Atualização de URL de repositório de pacotes APT do Linux](https://dev.to/henriqueotogami/raspbian-atualizacao-de-url-de-repositorio-de-pacotes-apt-do-linux-29e8)
+- [Comparative Study of LLMs vs. RAG and AI Agents vs. Agentic AI](https://dev.to/anandsingh01/comparative-study-of-llms-vs-rag-and-ai-agents-vs-agentic-ai-3m20)
+- [[Boost]](https://dev.to/rakeshv675/-4pp5)
+- [🧮 Build Your Own `wc` Tool in Java — A Minimal Clone of the Unix Word Count Utility](https://dev.to/anand_27/build-your-own-wc-tool-in-java-a-minimal-clone-of-the-unix-word-count-utility-1adb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
