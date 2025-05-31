@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of Coding! DAY 1](https://dev.to/aaanishaaa/100-days-of-coding-day-1-5a4f)
-- [Controle de fumaça em edifícios altos: estratégias para segurança eficaz](https://dev.to/emergenciasafety001/controle-de-fumaca-em-edificios-altos-estrategias-para-seguranca-eficaz-1n0m)
-- [Follow-up: PCL &lpar;Python-C Linked&rpar; Minimal Compiler/Runner](https://dev.to/hej_hdiss_5c43830cd49632e/follow-up-pcl-python-c-linked-minimal-compilerrunner-2a5k)
-- [Building My First Full-Stack App: Part 2 - Crafting the Node.js Backend for Face Detection](https://dev.to/abhinavan00/building-my-first-full-stack-app-part-2-crafting-the-nodejs-backend-for-face-detection-295m)
-- [# What Are the Different Types of Errors in JavaScript?](https://dev.to/gurnav224/-what-are-the-different-types-of-errors-in-javascript-40b7)
+- [7 Best Tips to Become a Pro Java Developer](https://dev.to/tarunfulera/7-best-tips-to-become-a-pro-java-developer-4a23)
+- [&quot;Designing an MMORPG-Style Game Builder UI for Mobile with Zero Budget &lpar;Using AI + Game Theory&rpar;&quot;](https://dev.to/p_thabiwa_0ca34c2f83/designing-an-mmorpg-style-game-builder-ui-for-mobile-with-zero-budget-using-ai-game-theory-3ocl)
+- [End-to-end testing and deployment of a multi-agent AI system with Docker, LangGraph, and CircleCI](https://dev.to/aws-builders/end-to-end-testing-and-deployment-of-a-multi-agent-ai-system-with-docker-langgraph-and-circleci-4gee)
+- [How I Built a Dual Bluetooth Audio Splitter App for Game + YouTube Streaming on Mobile&quot;](https://dev.to/p_thabiwa_0ca34c2f83/how-i-built-a-dual-bluetooth-audio-splitter-app-for-game-youtube-streaming-on-mobile-2bhp)
+- [Johnston Carmichael: Your Partner in Smarter Finances](https://dev.to/farhan_nazeer_b30207b8336/johnston-carmichael-your-partner-in-smarter-finances-118p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
