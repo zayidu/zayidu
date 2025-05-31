@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Tools That Changed How I Code Forever](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-4ka9)
-- [My Favorite Game Dev Moments: When Coding Meets Gaming](https://dev.to/joao_dalbem_afa16a8be0433/my-favorite-game-dev-moments-when-coding-meets-gaming-14ja)
-- [🔍 How OCR Engines Like Tesseract Work – From Image to Text](https://dev.to/arunsaiv/how-ocr-engines-like-tesseract-work-from-image-to-text-55bn)
-- [From Casual to Pro: My Evolution as a Gamer.](https://dev.to/joao_dalbem_afa16a8be0433/from-casual-to-pro-my-evolution-as-a-gamer-2ole)
-- [How to Stay Safe from Cyber Attacks: Tips Anyone Can Follow](https://dev.to/terminaltools/how-to-stay-safe-from-cyber-attacks-tips-anyone-can-follow-19c5)
+- [Vibe coding an Email Ticket Automater using Postmark](https://dev.to/chiragagg5k/vibe-coding-an-email-ticket-automater-using-postmark-l11)
+- [Building the Smart City Pulse Dashboard: My Summer of Scribbling Hackathon Journey](https://dev.to/sujan_kowshikjilla_3f595/building-the-smart-city-pulse-dashboard-my-summer-of-scribbling-hackathon-journey-22m0)
+- [Starting with Statistics towards Decisions: An Effect of Equity Analysis on The Portfolio](https://dev.to/babiesant8/starting-with-statistics-towards-decisions-an-effect-of-equity-analysis-on-the-portfolio-19gl)
+- [Hi, I have created a Subscribe Notify pattern, that greatly simplifies dealing with Observables &lpar;eg. for HttpClient&rpar;, in your component. https://github.com/VeritasSoftware/NotificationService Real easy to implement in your solution. Have a quick read.](https://dev.to/veritassoftware/hi-i-have-created-a-subscribe-notify-pattern-that-greatly-simplifies-dealing-with-observables-1o3o)
+- [How to Build Agentic Rag in Rust](https://dev.to/skeptrune/how-to-build-agentic-rag-in-rust-44o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
