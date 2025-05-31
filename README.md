@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iluminação de emergência em centros de treinamento paulistanos: segurança garantida](https://dev.to/emergenciasafety001/iluminacao-de-emergencia-em-centros-de-treinamento-paulistanos-seguranca-garantida-1d1a)
-- [🌍 Redis Geohashing: Storing and Querying Location Data with Ease](https://dev.to/tanyonghe/redis-geohashing-storing-and-querying-location-data-with-ease-1gf4)
-- [🚀 30+ Must-Know Libraries That Make React Truly Powerful in 2025](https://dev.to/devcorner/30-must-know-libraries-that-make-react-truly-powerful-in-2025-3gaj)
-- [Can AI MAke Coding Easier for People with Dyslexia?](https://dev.to/alireza_minagar_99f01ecb6/can-ai-make-coding-easier-for-people-with-dyslexia-33eh)
-- [🌟 Day 5 of Java Mastery: Features of Java](https://dev.to/spyde/day-5-of-java-mastery-features-of-java-1fe7)
+- [Iluminação de emergência em centros de inovação paulistas garante segurança e eficiência](https://dev.to/emergenciaexpert979/iluminacao-de-emergencia-em-centros-de-inovacao-paulistas-garante-seguranca-e-eficiencia-f6a)
+- [How to Design a Mobile App Icon: Best Practices for Success](https://dev.to/kalana250/how-to-design-a-mobile-app-icon-best-practices-for-success-48o2)
+- [Iluminação de emergência fortalece a resiliência nos centros de São Paulo](https://dev.to/prevencaocorporativo607/iluminacao-de-emergencia-fortalece-a-resiliencia-nos-centros-de-sao-paulo-4ahm)
+- [🚀 Bolt.new hackathon - Here we go!](https://dev.to/franckp/boltnew-hackathon-here-we-go-4457)
+- [Controle de fumaça por nível de risco: eficiência e segurança garantidas](https://dev.to/segurancaconsultor925/controle-de-fumaca-por-nivel-de-risco-eficiencia-e-seguranca-garantidas-499p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
