@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building PDF Open Source Services with Angular &amp; GCP - PDF to Podcast](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-pdf-to-podcast-2abf)
-- [What I Learned Applying to AI/ML Research Internships in India and Abroad](https://dev.to/devesh8423/what-i-learned-applying-to-aiml-research-internships-in-india-and-abroad-24d7)
-- [Hats Off &lpar;And On Again&rpar;: The Ridiculous Art of Tech Leadership](https://dev.to/leaddontctrl/hats-off-and-on-again-the-ridiculous-art-of-tech-leadership-4pfk)
-- [Scientists Use Language Models to Decode Human Genes](https://dev.to/maurizio_morri_f7f4bd128c/scientists-use-language-models-to-decode-human-genes-bkc)
-- [Day 2 Plans](https://dev.to/thankamatho/day-2-plans-3jm2)
+- [Data Warehousing and Data Mining](https://dev.to/aniruddhaadak_/data-warehousing-and-data-mining-20d6)
+- [Millau - ingress-proxy with self-configuration for Docker Swarm](https://dev.to/codelev/millau-ingress-proxy-with-self-configuration-for-docker-swarm-5g48)
+- [From Vision to Code: How I’m Building Orbeato to Modernize Education with AI](https://dev.to/keshav_kushwaha_76cfeff16/from-vision-to-code-how-im-building-orbeato-to-modernize-education-with-ai-3p7i)
+- [Naming Things in Code: Why It’s Hard and How to Do It Better](https://dev.to/lovestaco/naming-things-in-code-why-its-hard-and-how-to-do-it-better-3262)
+- [Now you can build API like LEGO](https://dev.to/bao_ngo_48313312086d5b368/now-you-can-build-api-like-lego-5deh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
