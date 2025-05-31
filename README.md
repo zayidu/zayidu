@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iluminação de emergência em centros de inovação paulistas garante segurança e eficiência](https://dev.to/emergenciaexpert979/iluminacao-de-emergencia-em-centros-de-inovacao-paulistas-garante-seguranca-e-eficiencia-f6a)
-- [How to Design a Mobile App Icon: Best Practices for Success](https://dev.to/kalana250/how-to-design-a-mobile-app-icon-best-practices-for-success-48o2)
-- [Iluminação de emergência fortalece a resiliência nos centros de São Paulo](https://dev.to/prevencaocorporativo607/iluminacao-de-emergencia-fortalece-a-resiliencia-nos-centros-de-sao-paulo-4ahm)
-- [🚀 Bolt.new hackathon - Here we go!](https://dev.to/franckp/boltnew-hackathon-here-we-go-4457)
-- [Controle de fumaça por nível de risco: eficiência e segurança garantidas](https://dev.to/segurancaconsultor925/controle-de-fumaca-por-nivel-de-risco-eficiencia-e-seguranca-garantidas-499p)
+- [100 Days of Coding! DAY 1](https://dev.to/aaanishaaa/100-days-of-coding-day-1-5a4f)
+- [Controle de fumaça em edifícios altos: estratégias para segurança eficaz](https://dev.to/emergenciasafety001/controle-de-fumaca-em-edificios-altos-estrategias-para-seguranca-eficaz-1n0m)
+- [Follow-up: PCL &lpar;Python-C Linked&rpar; Minimal Compiler/Runner](https://dev.to/hej_hdiss_5c43830cd49632e/follow-up-pcl-python-c-linked-minimal-compilerrunner-2a5k)
+- [Building My First Full-Stack App: Part 2 - Crafting the Node.js Backend for Face Detection](https://dev.to/abhinavan00/building-my-first-full-stack-app-part-2-crafting-the-nodejs-backend-for-face-detection-295m)
+- [# What Are the Different Types of Errors in JavaScript?](https://dev.to/gurnav224/-what-are-the-different-types-of-errors-in-javascript-40b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
