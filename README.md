@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Blogged Every Day for a Month -- Again](https://dev.to/vst/i-blogged-every-day-for-a-month-again-pkg)
-- [Best Docker Deployment Starategy](https://dev.to/andrewkangg/best-docker-deployment-starategy-4enc)
-- [Frontend to Fullstack - Mastering the Architectural Mindset](https://dev.to/bobysf12/frontend-to-fullstack-mastering-the-architectural-mindset-n0i)
-- [Is Cloud Computing in 2025 Broken? A Realistic Look at the Future of the Cloud](https://dev.to/cyberry_technologies/is-cloud-computing-in-2025-broken-a-realistic-look-at-the-future-of-the-cloud-2eka)
-- [Testing PostgreSQL WAL Streamers for Byte-Level Fidelity](https://dev.to/alzhi_f93e67fa45b972/testing-postgresql-wal-streamers-for-byte-level-fidelity-a15)
+- [Weekly #22-2025: AI Policy Debates, Smarter Terminals, and Cloud Native Breakthroughs](https://dev.to/sudhansubedi/weekly-22-2025-ai-policy-debates-smarter-terminals-and-cloud-native-breakthroughs-2nnd)
+- [TypeScript has a Required Utility Type.](https://dev.to/amtheblessed/typescript-has-a-required-utility-type-452n)
+- [AI-Powered System Management with IRIS Agent](https://dev.to/intersystems/ai-powered-system-management-with-iris-agent-1n5k)
+- [The Metaverse: Where your avatar has a better social life than your IRL , dude!](https://dev.to/the-matrixneo/the-metaverse-where-your-avatar-has-a-better-social-life-than-your-irl-dude-4241)
+- [🕰️ How I Coordinate Remote WordPress Teams Across Time Zones](https://dev.to/saifyusuph/-48k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
