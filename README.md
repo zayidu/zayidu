@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #22-2025: AI Policy Debates, Smarter Terminals, and Cloud Native Breakthroughs](https://dev.to/sudhansubedi/weekly-22-2025-ai-policy-debates-smarter-terminals-and-cloud-native-breakthroughs-2nnd)
-- [TypeScript has a Required Utility Type.](https://dev.to/amtheblessed/typescript-has-a-required-utility-type-452n)
-- [AI-Powered System Management with IRIS Agent](https://dev.to/intersystems/ai-powered-system-management-with-iris-agent-1n5k)
-- [The Metaverse: Where your avatar has a better social life than your IRL , dude!](https://dev.to/the-matrixneo/the-metaverse-where-your-avatar-has-a-better-social-life-than-your-irl-dude-4241)
-- [🕰️ How I Coordinate Remote WordPress Teams Across Time Zones](https://dev.to/saifyusuph/-48k6)
+- [Building PDF Open Source Services with Angular &amp; GCP - PDF to Podcast](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-pdf-to-podcast-2abf)
+- [What I Learned Applying to AI/ML Research Internships in India and Abroad](https://dev.to/devesh8423/what-i-learned-applying-to-aiml-research-internships-in-india-and-abroad-24d7)
+- [Hats Off &lpar;And On Again&rpar;: The Ridiculous Art of Tech Leadership](https://dev.to/leaddontctrl/hats-off-and-on-again-the-ridiculous-art-of-tech-leadership-4pfk)
+- [Scientists Use Language Models to Decode Human Genes](https://dev.to/maurizio_morri_f7f4bd128c/scientists-use-language-models-to-decode-human-genes-bkc)
+- [Day 2 Plans](https://dev.to/thankamatho/day-2-plans-3jm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
