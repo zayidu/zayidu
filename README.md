@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Resolved the “Malicious App” Warning on Phantom Wallet Extension](https://dev.to/blockexperts/how-i-resolved-the-malicious-app-warning-on-phantom-wallet-extension-3j3)
-- [Best Practices for Async Error Handling in JavaScript](https://dev.to/omriluz1/best-practices-for-async-error-handling-in-javascript-397)
-- [Enhancing Agriculture with IoT and Big Data: A New Era of Smart Farming](https://dev.to/kapusto/enhancing-agriculture-with-iot-and-big-data-a-new-era-of-smart-farming-49l3)
-- [The AI Revolution in Music Creation: How Technology is Redefining the Art of Sound](https://dev.to/musicas_sertanejas_i/the-ai-revolution-in-music-creation-how-technology-is-redefining-the-art-of-sound-2jm3)
-- [Your software is lying to you](https://dev.to/anshuman_khanna/your-software-is-lying-to-you-3o92)
+- [Data structure - Graph](https://dev.to/emmakang123/data-structure-graph-3a7b)
+- [Refining “Similar Posts” for Relevance and Simplicity](https://dev.to/logarithmicspirals/refining-similar-posts-for-relevance-and-simplicity-2gfl)
+- [From Classroom to HackTheBox: My Journey Through Cybersecurity Degree, Certifications, and the Power of Practical Experience](https://dev.to/justinkt/from-classroom-to-hackthebox-my-journey-through-cybersecurity-degree-certifications-and-the-5e7d)
+- [Securing Redis with ACLs and Integrating Redis Insight in Docker](https://dev.to/silentwatcher_95/securing-redis-with-acls-and-integrating-redis-insight-in-docker-59c1)
+- [Day 39 – Locked Reloaded Ready to Devour the Last 60 Days](https://dev.to/mridulbansal2006/day-39-locked-reloaded-ready-to-devour-the-last-60-days-mjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
