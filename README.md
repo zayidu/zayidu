@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Inbox, Now an AI Financial Assistant: Postmark Challenge: Inbox Innovators](https://dev.to/youneslaaroussi/your-inbox-now-an-ai-financial-assistant-postmark-challenge-inbox-innovators-2ne5)
-- [Linear Regression Model using Math!](https://dev.to/busycaesar/regression-model-405j)
-- [The Synergy Between GPUs and AI: A Comprehensive Overview](https://dev.to/kpcofgs/the-synergy-between-gpus-and-ai-a-comprehensive-overview-399o)
-- [Finding the Road Back Home: Building a Clean PostGIS Gem for Rails 8](https://dev.to/seuros/finding-the-road-back-home-building-a-clean-postgis-gem-for-rails-8-21ai)
-- [The Day That Taught Me Something I’ll Never Forget](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-2keo)
+- [I Blogged Every Day for a Month -- Again](https://dev.to/vst/i-blogged-every-day-for-a-month-again-pkg)
+- [Best Docker Deployment Starategy](https://dev.to/andrewkangg/best-docker-deployment-starategy-4enc)
+- [Frontend to Fullstack - Mastering the Architectural Mindset](https://dev.to/bobysf12/frontend-to-fullstack-mastering-the-architectural-mindset-n0i)
+- [Is Cloud Computing in 2025 Broken? A Realistic Look at the Future of the Cloud](https://dev.to/cyberry_technologies/is-cloud-computing-in-2025-broken-a-realistic-look-at-the-future-of-the-cloud-2eka)
+- [Testing PostgreSQL WAL Streamers for Byte-Level Fidelity](https://dev.to/alzhi_f93e67fa45b972/testing-postgresql-wal-streamers-for-byte-level-fidelity-a15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
