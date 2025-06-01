@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check How LTM is very important and useful](https://dev.to/grenishrai/check-how-ltm-is-very-important-and-useful-2b4m)
-- [231/365 | ¥10M Job Challenge - From vague to clear](https://dev.to/tenshokukame/231365-y10m-job-challenge-from-vague-to-clear-1k5m)
-- [A switch is a code smell](https://dev.to/oaxoa/a-switch-is-a-code-smell-2ed0)
-- [How to Replace 5 Different Tools with One Workflow in Svalync](https://dev.to/svalync/how-to-replace-5-different-tools-with-one-workflow-in-svalync-4idd)
-- [From Stateless to Smart: The Role of LTM and MCP in Next-Gen AI](https://dev.to/grenishrai/from-stateless-to-smart-the-role-of-ltm-and-mcp-in-next-gen-ai-46bp)
+- [The Power of a Purple Background: Bold, Mysterious, and Majestic](https://dev.to/smartdev72/the-power-of-a-purple-background-bold-mysterious-and-majestic-4g67)
+- [Free ChatGPT Prompt: Turn YouTube Videos Into Study Guides in Minutes](https://dev.to/itshayder/free-chatgpt-prompt-turn-youtube-videos-into-study-guides-in-minutes-2jd4)
+- [Autonomy: How High-Performing Agile Teams Stay Aligned and Accountable](https://dev.to/scrumrise/autonomy-how-high-performing-agile-teams-stay-aligned-and-accountable-3k38)
+- [Go Bold with a Fuchsia Background: Where Fun Meets Fierce](https://dev.to/smartdev72/go-bold-with-a-fuchsia-background-where-fun-meets-fierce-135k)
+- [The Timeless Beauty of a Rose Background](https://dev.to/smartdev72/the-timeless-beauty-of-a-rose-background-53k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
