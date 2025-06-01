@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ultimatehobbycoder/-2oi6)
-- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
-- [From reversed linked-list to registers, memory and assembly](https://dev.to/zhijunl/from-reversed-linked-list-to-registers-memory-and-assembly-2die)
-- [Perspective camera angles](https://dev.to/david_perry_c4359d006aaa4/perspective-camera-angles-4iij)
-- [Most Important DWDM questions in MAKAUT exam](https://dev.to/aniruddhaadak_/most-important-dwdm-questions-in-makaut-exam-1g42)
+- [JavaScript Operators](https://dev.to/sundar_joseph_94059a3e7a6/javascript-operators-51ag)
+- [Fibonacci series](https://dev.to/biswa_ranjanpatra_49d50c/fibonacci-series-2jof)
+- [Here is what Claude 4 sonnet is talking about me](https://dev.to/aniruddhaadak_/here-is-what-claude-4-sonnet-is-talking-about-me-gfj)
+- [The Truth About Preloading in Modern Web](https://dev.to/realoff/the-truth-about-preloading-in-modern-web-23p0)
+- [Fibonacci series without third variable](https://dev.to/biswa_ranjanpatra_49d50c/fibonacci-series-without-third-variable-3j6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
