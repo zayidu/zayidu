@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [hello all](https://dev.to/peterakachukwu/hello-all-5blf)
-- [Whatsapp UI clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-1710)
-- [Whatsapp UI Clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-h95)
-- [How to Implement API Rate Limiting in .NET](https://dev.to/shreyans_padmani/how-to-implement-api-rate-limiting-in-net-4mn1)
-- [Preloader Animation CSS3](https://dev.to/preetha_vaishnavi_2b82358/preloader-animation-css3-2ic)
+- [🚀 Meet Hope AI: Ship Real Software at Lightning Speed](https://dev.to/adam/meet-hope-ai-ship-real-software-at-lightning-speed-3ch8)
+- [I’ve reached Phase 2, often called the &#39;Cliff of Confusion.&#39; I began learning last year and picked up some HTML and CSS, but I realized my knowledge was still limited. When I tried taking on a client project, they asked me to use Node.js, which I hadn’t le](https://dev.to/lester2027/ive-reached-phase-2-often-called-the-cliff-of-confusion-i-began-learning-last-year-and-picked-28dd)
+- [Building a Tetris Game with Python and Pygame](https://dev.to/aws-builders/building-a-tetris-game-with-python-and-pygame-40pf)
+- [15 Must-Know Coding Patterns to Ace Your Tech Interview &lpar;with Resources&rpar;](https://dev.to/somadevtoo/15-must-know-coding-patterns-to-ace-your-tech-interview-with-resources-1c8k)
+- [Stop Forcing Time Windows on Bursty User Behavior - Try This Instead](https://dev.to/__354f265b41dafa0d901b/stop-forcing-time-windows-on-bursty-user-behavior-try-this-instead-46ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
