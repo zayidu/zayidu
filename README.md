@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Meet Hope AI: Ship Real Software at Lightning Speed](https://dev.to/adam/meet-hope-ai-ship-real-software-at-lightning-speed-3ch8)
-- [I’ve reached Phase 2, often called the &#39;Cliff of Confusion.&#39; I began learning last year and picked up some HTML and CSS, but I realized my knowledge was still limited. When I tried taking on a client project, they asked me to use Node.js, which I hadn’t le](https://dev.to/lester2027/ive-reached-phase-2-often-called-the-cliff-of-confusion-i-began-learning-last-year-and-picked-28dd)
-- [Building a Tetris Game with Python and Pygame](https://dev.to/aws-builders/building-a-tetris-game-with-python-and-pygame-40pf)
-- [15 Must-Know Coding Patterns to Ace Your Tech Interview &lpar;with Resources&rpar;](https://dev.to/somadevtoo/15-must-know-coding-patterns-to-ace-your-tech-interview-with-resources-1c8k)
-- [Stop Forcing Time Windows on Bursty User Behavior - Try This Instead](https://dev.to/__354f265b41dafa0d901b/stop-forcing-time-windows-on-bursty-user-behavior-try-this-instead-46ij)
+- [CODE TIPS #2 — Stop “using namespace std;” &lpar;C++&rpar;](https://dev.to/dvt32/code-tips-2-stop-using-namespace-std-c-4d0o)
+- [Google Cloud Auth Issue](https://dev.to/ifeanyichima/google-cloud-auth-issue-2eo1)
+- [How to Upgrade to Angular 20](https://dev.to/with_code_example/how-to-upgrade-to-angular-20-2064)
+- [🟦 Hey AI, Is This Question Too Sensitive?](https://dev.to/uka_aidev/hey-ai-is-this-question-too-sensitive-fe8)
+- [Алгоритъм за решаване на задачи по програмиране](https://dev.to/dvt32/alghoritm-za-rieshavanie-na-zadachi-po-proghramiranie-p2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
