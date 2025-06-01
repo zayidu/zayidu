@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CODE TIPS #2 — Stop “using namespace std;” &lpar;C++&rpar;](https://dev.to/dvt32/code-tips-2-stop-using-namespace-std-c-4d0o)
-- [Google Cloud Auth Issue](https://dev.to/ifeanyichima/google-cloud-auth-issue-2eo1)
-- [How to Upgrade to Angular 20](https://dev.to/with_code_example/how-to-upgrade-to-angular-20-2064)
-- [🟦 Hey AI, Is This Question Too Sensitive?](https://dev.to/uka_aidev/hey-ai-is-this-question-too-sensitive-fe8)
-- [Алгоритъм за решаване на задачи по програмиране](https://dev.to/dvt32/alghoritm-za-rieshavanie-na-zadachi-po-proghramiranie-p2b)
+- [ForskScope &lpar;diff viewer&rpar; 0.22 is in AUR](https://dev.to/nabbisen/forskscope-diff-viewer-022-is-in-aur-3p2j)
+- [SAGA](https://dev.to/stv4ns/saga-5hig)
+- [What If the Mind Stops Not From Weakness, But From Too Much Input?](https://dev.to/versiqcontent/what-if-the-mind-stops-not-from-weakness-but-from-too-much-input-el2)
+- [Common DevOps Mishaps and Lessons Learned](https://dev.to/sameerimtiaz/common-devops-mishaps-and-lessons-learned-4ihn)
+- [Untitled](https://dev.to/shamir_hussain_441bd087f1/untitled-8d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
