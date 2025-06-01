@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Jawbone Sockets](https://dev.to/thebuzzsaw/introducing-jawbone-sockets-ah0)
-- [Building an AI Assistant with Ollama and Next.js – Part 3 &lpar;RAG with LangChain, Pinecone and Ollama&rpar;](https://dev.to/abayomijohn273/building-an-ai-assistant-with-ollama-and-nextjs-part-3-rag-with-langchain-pinecone-and-ollama-dja)
-- [Whispers of Winter&#39;s Charm](https://dev.to/palak_singla_ae13e55615a4/whispers-of-winters-charm-159h)
-- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-49a2)
-- [Focus on one thing](https://dev.to/danytulumidis/focus-on-one-thing-2o1n)
+- [Building AI Agents : A2A, MCP, Scala &amp; Apache Spark](https://dev.to/vishalmysore/building-ai-agents-a2a-mcp-scala-apache-spark-445d)
+- [QuCode - 21DaysChallenge - Day 01](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-01-51hc)
+- [sign-up patterns walk through](https://dev.to/gnrlbzik/sign-up-patterns-walk-through-3j6o)
+- [Why Go Is Born for Cloud-Native](https://dev.to/leapcell/why-go-is-born-for-cloud-native-30b0)
+- [In-depth Analysis of JavaScript&#39;s Microtask Queue](https://dev.to/omriluz1/in-depth-analysis-of-javascripts-microtask-queue-c82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
