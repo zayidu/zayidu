@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL for Dummies &lpar;in 3min&rpar;](https://dev.to/dehemi_fabio/graphql-for-dummies-in-3min-55jk)
-- [Building a Lightweight Remote Gradio MCP Server with DuckDuckGo Search](https://dev.to/0xkoji/building-a-lightweight-remote-gradio-mcp-server-with-duckduckgo-search-fd6)
-- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
-- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
-- [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
+- [POSTGRESQL DB IN PYTHON](https://dev.to/john_analytics/postgresql-db-in-python-1a88)
+- [[Node.js] How to Use Promises in a Callback-based Codebase](https://dev.to/gaurang847/nodejs-how-to-use-promises-in-a-callback-based-codebase-1a07)
+- [😍Amazing Useful Features Recently Added To Best Code To Image Generator App](https://dev.to/myogeshchavan97/amazing-useful-features-recently-added-to-best-code-to-image-generator-app-59lg)
+- [Lazy Loading Isn’t Just for Images: What Else Can You Delay?](https://dev.to/javascriptwizzard/lazy-loading-isnt-just-for-images-what-else-can-you-delay-4ehg)
+- [How Many Technical Calls Do You Really Need?](https://dev.to/kunytskyi/how-many-technical-calls-do-you-really-need-3h7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
