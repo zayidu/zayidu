@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [POSTGRESQL DB IN PYTHON](https://dev.to/john_analytics/postgresql-db-in-python-1a88)
-- [[Node.js] How to Use Promises in a Callback-based Codebase](https://dev.to/gaurang847/nodejs-how-to-use-promises-in-a-callback-based-codebase-1a07)
-- [😍Amazing Useful Features Recently Added To Best Code To Image Generator App](https://dev.to/myogeshchavan97/amazing-useful-features-recently-added-to-best-code-to-image-generator-app-59lg)
-- [Lazy Loading Isn’t Just for Images: What Else Can You Delay?](https://dev.to/javascriptwizzard/lazy-loading-isnt-just-for-images-what-else-can-you-delay-4ehg)
-- [How Many Technical Calls Do You Really Need?](https://dev.to/kunytskyi/how-many-technical-calls-do-you-really-need-3h7d)
+- [Scheduling Tasks with cron](https://dev.to/godofgeeks/scheduling-tasks-with-cron-3ofj)
+- [How to Stay Motivated as an Angular Developer in a Rapidly Evolving Tech World](https://dev.to/karol_modelski/how-to-stay-motivated-as-an-angular-developer-in-a-rapidly-evolving-tech-world-329a)
+- [what is an oa interview -unequal elements snowflake oa](https://dev.to/net_programhelp_e160eef28/what-is-an-oa-interview-unequal-elements-snowflake-oa-21ap)
+- [Brain-inspired agentic memory](https://dev.to/hannahyan/brain-inspired-agentic-memory-4765)
+- [Object‑Oriented Programming](https://dev.to/ahmed_niazy/object-oriented-programming-41g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
