@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents : A2A, MCP, Scala &amp; Apache Spark](https://dev.to/vishalmysore/building-ai-agents-a2a-mcp-scala-apache-spark-445d)
-- [QuCode - 21DaysChallenge - Day 01](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-01-51hc)
-- [sign-up patterns walk through](https://dev.to/gnrlbzik/sign-up-patterns-walk-through-3j6o)
-- [Why Go Is Born for Cloud-Native](https://dev.to/leapcell/why-go-is-born-for-cloud-native-30b0)
-- [In-depth Analysis of JavaScript&#39;s Microtask Queue](https://dev.to/omriluz1/in-depth-analysis-of-javascripts-microtask-queue-c82)
+- [Como utilizar o FFmpeg com C++ &lpar;Windows e GNU/Linux&rpar;](https://dev.to/marcosplusplus/como-utilizar-o-ffmpeg-com-c-windows-e-gnulinux-36en)
+- [Simplify Your API Calls in React with em-use-controller](https://dev.to/ethernmyth/simplify-your-api-calls-in-react-with-em-use-controller-4ib0)
+- [🧪 Managing Machine Learning Experiments with MLflow and Weights &amp; Biases &lpar;W&amp;B&rpar;](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3h5p)
+- [🚀 Check Out My AI Portfolio — Projects, Resume, and More!](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3k6f)
+- [Answers to the GitHub Foundation Quiz](https://dev.to/sabghat90/answers-to-the-github-foundation-quiz-2fjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
