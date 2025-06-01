@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ForskScope &lpar;diff viewer&rpar; 0.22 is in AUR](https://dev.to/nabbisen/forskscope-diff-viewer-022-is-in-aur-3p2j)
-- [SAGA](https://dev.to/stv4ns/saga-5hig)
-- [What If the Mind Stops Not From Weakness, But From Too Much Input?](https://dev.to/versiqcontent/what-if-the-mind-stops-not-from-weakness-but-from-too-much-input-el2)
-- [Common DevOps Mishaps and Lessons Learned](https://dev.to/sameerimtiaz/common-devops-mishaps-and-lessons-learned-4ihn)
-- [Untitled](https://dev.to/shamir_hussain_441bd087f1/untitled-8d2)
+- [[Boost]](https://dev.to/ultimatehobbycoder/-2oi6)
+- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
+- [From reversed linked-list to registers, memory and assembly](https://dev.to/zhijunl/from-reversed-linked-list-to-registers-memory-and-assembly-2die)
+- [Perspective camera angles](https://dev.to/david_perry_c4359d006aaa4/perspective-camera-angles-4iij)
+- [Most Important DWDM questions in MAKAUT exam](https://dev.to/aniruddhaadak_/most-important-dwdm-questions-in-makaut-exam-1g42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
