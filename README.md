@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Jawbone Sockets](https://dev.to/thebuzzsaw/introducing-jawbone-sockets-ah0)
+- [Building an AI Assistant with Ollama and Next.js – Part 3 &lpar;RAG with LangChain, Pinecone and Ollama&rpar;](https://dev.to/abayomijohn273/building-an-ai-assistant-with-ollama-and-nextjs-part-3-rag-with-langchain-pinecone-and-ollama-dja)
+- [Whispers of Winter&#39;s Charm](https://dev.to/palak_singla_ae13e55615a4/whispers-of-winters-charm-159h)
+- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-49a2)
 - [Focus on one thing](https://dev.to/danytulumidis/focus-on-one-thing-2o1n)
-- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-3nl6)
-- [Containerized Java Microservices: A Modern Architecture Approach](https://dev.to/iamdevbox/containerized-java-microservices-a-modern-architecture-approach-9ca)
-- [Key Management Service in Kubernetes — Part 2](https://dev.to/pillaimanish/key-management-service-in-kubernetes-part-2-2o9n)
-- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-5hn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
