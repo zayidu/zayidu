@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL for Dummies &lpar;in 3min&rpar;](https://dev.to/dehemi_fabio/graphql-for-dummies-in-3min-55jk)
+- [Building a Lightweight Remote Gradio MCP Server with DuckDuckGo Search](https://dev.to/0xkoji/building-a-lightweight-remote-gradio-mcp-server-with-duckduckgo-search-fd6)
 - [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
 - [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
 - [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
-- [Quantum Financial System vs. Traditional Banking: A Comparative Analysis](https://dev.to/api_builder_01/quantum-financial-system-vs-traditional-banking-a-comparative-analysis-2bk7)
-- [Daily Debug — Day 1: Blocks in Motion](https://dev.to/stinklewinks/daily-debug-day-1-blocks-in-motion-1ad2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
