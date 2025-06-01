@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uygulama Durumunu Yönetmek](https://dev.to/yunus_emremert_1756b71d3/uygulama-durumunu-yonetmek-dg2)
-- [Mi primer post en DEV.to: Así llegué a la plataforma](https://dev.to/jrgil20/mi-primer-post-en-devto-asi-llegue-a-la-plataforma-18g7)
-- [2929. Distribute Candies Among Children II](https://dev.to/mdarifulhaque/2929-distribute-candies-among-children-ii-3f3k)
-- [Meta Shifts to AI for Product Risk Reviews](https://dev.to/maurizio_morri_f7f4bd128c/meta-shifts-to-ai-for-product-risk-reviews-3dee)
-- [[Boost]](https://dev.to/rakeshv675/-1olb)
+- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
+- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
+- [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
+- [Quantum Financial System vs. Traditional Banking: A Comparative Analysis](https://dev.to/api_builder_01/quantum-financial-system-vs-traditional-banking-a-comparative-analysis-2bk7)
+- [Daily Debug — Day 1: Blocks in Motion](https://dev.to/stinklewinks/daily-debug-day-1-blocks-in-motion-1ad2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
