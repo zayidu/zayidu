@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
-- [Alternative to Mailchimp vs MailerLite Comparison](https://dev.to/charlesmudy/alternative-to-mailchimp-vs-mailerlite-comparison-141i)
-- [Firebase Functions: Real-Time Apps That Scale Like Magic &lpar;Without the Server Headaches&rpar; ✨🚀](https://dev.to/alex_aslam/firebase-functions-real-time-apps-that-scale-like-magic-without-the-server-headaches-cbk)
-- [sync or channel? The Right Choice for Go Synchronization](https://dev.to/leapcell/sync-or-channel-the-right-choice-for-go-synchronization-2m7i)
-- [A Beginner’s Guide to Document Loaders in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-document-loaders-in-langchain-36e7)
+- [Uygulama Durumunu Yönetmek](https://dev.to/yunus_emremert_1756b71d3/uygulama-durumunu-yonetmek-dg2)
+- [Mi primer post en DEV.to: Así llegué a la plataforma](https://dev.to/jrgil20/mi-primer-post-en-devto-asi-llegue-a-la-plataforma-18g7)
+- [2929. Distribute Candies Among Children II](https://dev.to/mdarifulhaque/2929-distribute-candies-among-children-ii-3f3k)
+- [Meta Shifts to AI for Product Risk Reviews](https://dev.to/maurizio_morri_f7f4bd128c/meta-shifts-to-ai-for-product-risk-reviews-3dee)
+- [[Boost]](https://dev.to/rakeshv675/-1olb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
