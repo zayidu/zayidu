@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of a Purple Background: Bold, Mysterious, and Majestic](https://dev.to/smartdev72/the-power-of-a-purple-background-bold-mysterious-and-majestic-4g67)
-- [Free ChatGPT Prompt: Turn YouTube Videos Into Study Guides in Minutes](https://dev.to/itshayder/free-chatgpt-prompt-turn-youtube-videos-into-study-guides-in-minutes-2jd4)
-- [Autonomy: How High-Performing Agile Teams Stay Aligned and Accountable](https://dev.to/scrumrise/autonomy-how-high-performing-agile-teams-stay-aligned-and-accountable-3k38)
-- [Go Bold with a Fuchsia Background: Where Fun Meets Fierce](https://dev.to/smartdev72/go-bold-with-a-fuchsia-background-where-fun-meets-fierce-135k)
-- [The Timeless Beauty of a Rose Background](https://dev.to/smartdev72/the-timeless-beauty-of-a-rose-background-53k7)
+- [hello all](https://dev.to/peterakachukwu/hello-all-5blf)
+- [Whatsapp UI clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-1710)
+- [Whatsapp UI Clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-h95)
+- [How to Implement API Rate Limiting in .NET](https://dev.to/shreyans_padmani/how-to-implement-api-rate-limiting-in-net-4mn1)
+- [Preloader Animation CSS3](https://dev.to/preetha_vaishnavi_2b82358/preloader-animation-css3-2ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
