@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Discovers Over One Million New Species, Transforming Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/ai-discovers-over-one-million-new-species-transforming-drug-discovery-1lo2)
-- [Visualizing Options Market Data in Python: Implied Volatility, Open Interest, and Max Pain](https://dev.to/dm8ry/visualizing-options-market-data-in-python-implied-volatility-open-interest-and-max-pain-4emd)
-- [⚙️ 10 More Fast-Build AI Database Ideas to Dominate a Niche &lpar;and Monetize Like a Pro&rpar;](https://dev.to/abubakersiddique761/10-more-fast-build-ai-database-ideas-to-dominate-a-niche-and-monetize-like-a-pro-1kee)
-- [OPPO Reno13 5G Review Indonesia](https://dev.to/populer24/membahas-hp-oppo-reno13-5g-indonesia-4n16)
-- [Learning Java Script:Length,Variable,Array ,Math and Random](https://dev.to/paviarunachalam/learning-java-scriptlengthvariablearray-math-and-random-23df)
+- [Focus on one thing](https://dev.to/danytulumidis/focus-on-one-thing-2o1n)
+- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-3nl6)
+- [Containerized Java Microservices: A Modern Architecture Approach](https://dev.to/iamdevbox/containerized-java-microservices-a-modern-architecture-approach-9ca)
+- [Key Management Service in Kubernetes — Part 2](https://dev.to/pillaimanish/key-management-service-in-kubernetes-part-2-2o9n)
+- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-5hn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
