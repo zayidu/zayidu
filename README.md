@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Website downtime causes: 10 causes and resolution strategies](https://dev.to/gatling/website-downtime-causes-10-causes-and-resolution-strategies-52nf)
-- [I vibe-coded a $20M YC app in a weekend, here&#39;s how🧙‍♂️ 🪄](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
-- [🔧 11 Ways to Improve Your LLMService Class for Scalable AI](https://dev.to/mrzaizai2k/11-ways-to-improve-your-llmservice-class-for-scalable-ai-1g8k)
-- [Why I&#39;m Using LocalStack in My Project &lpar;And Why You Might Want to Too&rpar;](https://dev.to/mspilari/why-im-using-localstack-in-my-project-and-why-you-might-want-to-too-2ef9)
-- [Cómo escribir DTOs en Java](https://dev.to/asjordi/como-escribir-dtos-en-java-1b02)
+- [Build a Simple Counter Smart Contract in Solidity](https://dev.to/karthikaaax/build-a-simple-counter-smart-contract-in-solidity-emg)
+- [Opera Neon 2025: AI-Powered Browser Redefining Web Browsing](https://dev.to/khankhan/opera-neon-2025-ai-powered-browser-redefining-web-browsing-hfc)
+- [Crypto Borrow on WhiteBIT: A Practical Tool for Developers Working with Digital Assets](https://dev.to/alexnav/crypto-borrow-on-whitebit-a-practical-tool-for-developers-working-with-digital-assets-2n71)
+- [Day-23 I Built a Colorful Random Number Guessing Game with JavaScript!](https://dev.to/tamilselvan1812/i-built-a-colorful-random-number-guessing-game-with-javascript-3i18)
+- [🚀 20 Most Useful TypeScript Snippets](https://dev.to/parthraval9/20-most-useful-typescript-snippets-27k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
