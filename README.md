@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing and the Future of Cryptography](https://dev.to/williamoliver/quantum-computing-and-the-future-of-cryptography-26o4)
-- [#react #frontend #mentorship #beginners](https://dev.to/elrokapy/react-frontend-mentorship-beginners-21of)
-- [100 Days of Coding! Day 3](https://dev.to/aaanishaaa/100-days-of-coding-day-3-1d2c)
-- [Using nestedWhere&lpar;&rpar; in the Laravel 12 Query Builder](https://dev.to/blamsa0mine/using-nestedwhere-in-the-laravel-12-query-builder-ege)
-- [Why should you consider Fastify for your Node.JS app](https://dev.to/gvt3ch/why-should-you-consider-fastify-for-your-nodejs-app-436a)
+- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
+- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
+- [What Do We Mean When We Say DeepSeek ‘Thinks’?](https://dev.to/fonyuygita/what-do-we-mean-when-we-say-deepseek-thinks-35b0)
+- [🔍 Building Powerful Search Functionality in JavaScript &lpar;With Real-Life Use Cases&rpar;](https://dev.to/ankitchaurasiya84/building-powerful-search-functionality-in-javascript-with-real-life-use-cases-28l0)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5fli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
