@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Midjourney - Web Dev&#39;s Starter Guide](https://dev.to/skeptrune/how-to-use-midjourney-web-devs-starter-guide-1cl)
-- [Robylon AI](https://dev.to/listings_robylon_d0d750cd/robylon-ai-4oni)
-- [Top 4 AI startups to watch in 2025](https://dev.to/envitab/top-4-ai-startups-to-watch-in-2025-mf4)
-- [Distinctions between custom-built platforms and off-the-shelf software](https://dev.to/vidhun_k_873611caa67b8053/distinctions-between-custom-built-platforms-and-off-the-shelf-software-4k31)
-- [Quark&#39;s Outlines: Python Objects](https://dev.to/mike-vincent/quarks-outlines-python-objects-1pg0)
+- [Transactional Messaging in .NET: Integrating Brighter’s Outbox Pattern with SQL Server and RabbitMQ](https://dev.to/actor-dev/transactional-messaging-in-net-integrating-brighters-outbox-pattern-with-sql-server-and-rabbitmq-58gm)
+- [Mensageria Transacional no .NET: Integrando o Padrão Outbox do Brighter com SQL Server e RabbitMQ](https://dev.to/actor-dev/mensageria-transacional-no-net-integrando-o-padrao-outbox-do-brighter-com-sql-server-e-rabbitmq-21g0)
+- [Get Real-Time Security Alerts: Integrating Fail2Ban with Microsoft Teams 🛡️](https://dev.to/3y3skill3r/get-real-time-security-alerts-integrating-fail2ban-with-microsoft-teams-2lei)
+- [Great style guides help teams ship faster.](https://dev.to/rkoots/great-style-guides-help-teams-ship-faster-2bp4)
+- [From ZIP File to Folder Tree in Seconds – Introducing ZipTree](https://dev.to/shahroz_shahid_f9db4751f6/from-zip-file-to-folder-tree-in-seconds-introducing-ziptree-d2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
