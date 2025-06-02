@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[📝LeetCode #27] Remove Element](https://dev.to/shine7on/leetcode-27-remove-element-4jd9)
-- [How I Fixed the Mystery of Corrupted File Downloads from AWS S3](https://dev.to/unkletayo/how-i-fixed-the-mystery-of-corrupted-file-downloads-from-aws-s3-58og)
-- [Stop Vibe Coding Every Damn Time!](https://dev.to/adityaoberai/stop-vibe-coding-every-damn-time-5fj2)
-- [Building Accessible Forms with Angular](https://dev.to/lxt/building-accessible-forms-with-angular-38ii)
-- [SaaS Pricing Page Design: Best Practices for Higher Conversion Rates](https://dev.to/lollypopdesign/saas-pricing-page-design-best-practices-for-higher-conversion-rates-3fgp)
+- [Inside Look: How Engineers Run AI Models on their Laptops](https://dev.to/mike-vincent/inside-look-how-engineers-run-ai-models-on-their-laptops-n1e)
+- [Web Development Week 6](https://dev.to/upinar/web-development-week-6-341l)
+- [What is User and Entity Behavior Analytics? &lpar;UEBA&rpar;](https://dev.to/clouddefenseai/what-is-user-and-entity-behavior-analytics-ueba-1oh2)
+- [[Boost]](https://dev.to/nikuamit/-3m4o)
+- [Type Casting](https://dev.to/mohamed_abdullah_5ffbf6b6/type-casting-3ikk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
