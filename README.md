@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tomorrow will be an exciting day, the first serious launch on ProductHunt. Well, I hope it will be interesting!](https://dev.to/anthonymax/tomorrow-will-be-an-exciting-day-the-first-serious-launch-on-producthunt-well-i-hope-it-will-be-4cl7)
-- [World&#39;s Largest Hackathon: Day 3](https://dev.to/thankamatho/day-3-11fj)
-- [Built an AI-powered Shopify app that lets merchants create upsell rules using natural language](https://dev.to/pr135t/built-an-ai-powered-shopify-app-that-lets-merchants-create-upsell-rules-using-natural-language-16h)
-- [LIT PLAYER YOUTUBE](https://dev.to/leonardo_leal_224c2d052f5/lit-player-youtube-764)
-- [Build an LLM Web App in Python from Scratch: Part 1 &lpar;Local CLI&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-1-local-cli-4824)
+- [Web Mimarisi: Gelecek Artık Burada](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecek-artik-burada-4p3k)
+- [Porque Flask é o framework mais didático que já existiu](https://dev.to/vitormours/porque-flask-e-o-framework-mais-didatico-que-ja-existiu-2n7l)
+- [Week 2 of Learning Rust: Tuples, Enums &amp; Control Flow](https://dev.to/lymah/week-2-of-learning-rust-tuples-enums-control-flow-4m2c)
+- [🛡️ Blocking Admin SSH Logins with SELinux &lpar;`ssh_sysadm_login`&rpar;](https://dev.to/sebos/blocking-admin-ssh-logins-with-selinux-sshsysadmlogin-4ilj)
+- [135. Candy](https://dev.to/mdarifulhaque/135-candy-5g79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
