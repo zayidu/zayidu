@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The Ultimate Beginner&#39;s Guide to Learning Programming with HTML &amp; CSS in 2025&quot;](https://dev.to/jayswebdev83/the-ultimate-beginners-guide-to-learning-programming-with-html-css-in-2025-3eep)
-- [Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide](https://dev.to/drupaladmin/understanding-and-inspecting-indexes-in-mysql-a-comprehensive-guide-2mlo)
-- [Quarkus - Java for Kubernetes](https://dev.to/ritabratadas343/quarkus-java-for-kubernetes-113a)
-- [Pirâmide de Testes: Do Unitário ao E2E - Introdução](https://dev.to/stephanto/piramide-de-testes-do-unitario-ao-e2e-introducao-5f0)
-- [# How to Throttle Like a Pro: 5 Rate Limiting Patterns in Python You Should Know 🚦🐍](https://dev.to/arunsaiv/-how-to-throttle-like-a-pro-5-rate-limiting-patterns-in-python-you-should-know-54ep)
+- [Requesting Feedbacks](https://dev.to/abdulrahman_nasser_95c51/requesting-feedbacks-3d38)
+- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
+- [Who&#39;s Building AI Autopilot?](https://dev.to/moxon/whos-building-ai-autopilot-5bpl)
+- [Using ColdFusion and Xpdf to extract PDF metadata](https://dev.to/gamesover/using-coldfusion-and-xpdf-to-extract-pdf-metadata-4pe3)
+- [How Next.js 13 Made Me Rethink Axios and Build Traxios: Creating an HTTP Client from Scratch for Tractian](https://dev.to/adrianknapp/how-nextjs-13-made-me-rethink-axios-and-build-traxios-creating-an-http-client-from-scratch-for-19pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
