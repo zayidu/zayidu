@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Merchant of Record: The Complete Guide for SaaS Founders](https://dev.to/shayy/merchant-of-record-the-complete-guide-for-saas-founders-1djk)
-- [This is getting traction now :&rpar;](https://dev.to/bogomil/this-is-getting-traction-now--1m02)
-- [Integrating Django and Golang with Docker and PostgreSQL: A Scalable Approach](https://dev.to/arthurobo/integrating-django-and-golang-with-a-shared-postgresql-database-a-scalable-approach-12fg)
-- [📦 Stacks &amp; Queues: Two Sides of the Same Coin](https://dev.to/onedev/stacks-queues-two-sides-of-the-same-coin-2nfh)
-- [NVIDIA Adds Native Python Support to CUDA](https://dev.to/maurizio_morri_f7f4bd128c/nvidia-adds-native-python-support-to-cuda-93a)
+- [Maven Lifecycle Simplified – Animated Visual Guide](https://dev.to/mohamed_el_laithy/maven-lifecycle-simplified-animated-visual-guide-575)
+- [Building a Personal Website: Why It Matters for Your Career](https://dev.to/codingbrushup/building-a-personal-website-why-it-matters-for-your-career-3f5c)
+- [Secure Your APIs with ForgeRock Identity Gateway: API Security Best Practices](https://dev.to/iamdevbox/secure-your-apis-with-forgerock-identity-gateway-api-security-best-practices-50mf)
+- [How Joins work?](https://dev.to/levii07/how-joins-work-4c2k)
+- [Prueba de concepto: interpretación de infraestructura con ChatGPT + Terraform](https://dev.to/danieljsaldana/prueba-de-concepto-interpretacion-de-infraestructura-con-chatgpt-terraform-mgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
