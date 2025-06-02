@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maven Lifecycle Simplified – Animated Visual Guide](https://dev.to/mohamed_el_laithy/maven-lifecycle-simplified-animated-visual-guide-575)
-- [Building a Personal Website: Why It Matters for Your Career](https://dev.to/codingbrushup/building-a-personal-website-why-it-matters-for-your-career-3f5c)
-- [Secure Your APIs with ForgeRock Identity Gateway: API Security Best Practices](https://dev.to/iamdevbox/secure-your-apis-with-forgerock-identity-gateway-api-security-best-practices-50mf)
-- [How Joins work?](https://dev.to/levii07/how-joins-work-4c2k)
-- [Prueba de concepto: interpretación de infraestructura con ChatGPT + Terraform](https://dev.to/danieljsaldana/prueba-de-concepto-interpretacion-de-infraestructura-con-chatgpt-terraform-mgf)
+- [LeafWiki v0.3.0 – Small Update, Big Usability Wins](https://dev.to/perber/leafwiki-v030-small-update-big-usability-wins-54fn)
+- [All Data and AI Weekly #192 - June 2, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-192-june-2-2025-10o)
+- [How to Build Scalable Voice Infrastructure with Programmable Telephony APIs](https://dev.to/klarissa_f/how-to-build-scalable-voice-infrastructure-with-programmable-telephony-apis-7o2)
+- [🧠 The Secret Sauce Behind Web3 Growth? Referral Architectures That Actually Scale](https://dev.to/andylarkin677/the-secret-sauce-behind-web3-growth-referral-architectures-that-actually-scale-1n7o)
+- [How accurate are neural network-based models and what types of problems are they used for?](https://dev.to/aria_behroziuan/how-accurate-are-neural-network-based-models-and-what-types-of-problems-are-they-used-for-4lgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
