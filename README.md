@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find and Clean Up Unowned `__pycache__` Directories on Arch Linux](https://dev.to/redrum_yot/how-to-find-and-clean-up-unowned-pycache-directories-on-arch-linux-206n)
-- [Server Scheduler - Slash cloud costs with server scheduling](https://dev.to/server-scheduler/server-scheduler-slash-cloud-costs-with-server-scheduling-152m)
-- [Day 12/30 - git push --force-with-lease – Safer alternative to --force](https://dev.to/ruqaiya_beguwala/day-1230-git-push-force-with-lease-safer-alternative-to-force-5fc)
-- [Autoscaling in Azure: A Hands-On Example](https://dev.to/sandrabrown/autoscaling-in-azure-a-hands-on-example-1l7b)
-- [JavaScript’s not-so-obvious type coercion examples](https://dev.to/saboor_bhutta/javascripts-not-so-obvious-type-coercion-examples-1lio)
+- [How to Use Midjourney - Web Dev&#39;s Starter Guide](https://dev.to/skeptrune/how-to-use-midjourney-web-devs-starter-guide-1cl)
+- [Robylon AI](https://dev.to/listings_robylon_d0d750cd/robylon-ai-4oni)
+- [Top 4 AI startups to watch in 2025](https://dev.to/envitab/top-4-ai-startups-to-watch-in-2025-mf4)
+- [Distinctions between custom-built platforms and off-the-shelf software](https://dev.to/vidhun_k_873611caa67b8053/distinctions-between-custom-built-platforms-and-off-the-shelf-software-4k31)
+- [Quark&#39;s Outlines: Python Objects](https://dev.to/mike-vincent/quarks-outlines-python-objects-1pg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
