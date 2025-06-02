@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
-- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
-- [What Do We Mean When We Say DeepSeek ‘Thinks’?](https://dev.to/fonyuygita/what-do-we-mean-when-we-say-deepseek-thinks-35b0)
-- [🔍 Building Powerful Search Functionality in JavaScript &lpar;With Real-Life Use Cases&rpar;](https://dev.to/ankitchaurasiya84/building-powerful-search-functionality-in-javascript-with-real-life-use-cases-28l0)
-- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5fli)
+- [How to Check Gunicorn Logs and Monitor Your Django App as a Systemd Service](https://dev.to/msnmongare/how-to-check-gunicorn-logs-and-monitor-your-django-app-as-a-systemd-service-3joc)
+- [Unxus kernel: The kernel for developers](https://dev.to/fxos/unxus-kernel-the-kernel-for-developers-3bla)
+- [Why QA is Essential and What Types Exist?](https://dev.to/dan_bf907de896/why-qa-is-essential-and-what-types-exist-4aci)
+- [AI will assassinate the internet as we know it.](https://dev.to/wiloucharlz/ai-will-assassinate-the-internet-as-we-know-it-3ahf)
+- [12 Advanced TypeScript Tricks Every Developer Should Know](https://dev.to/elfrontend/12-advanced-typescript-tricks-every-developer-should-know-3dn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
