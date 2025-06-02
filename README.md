@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shining a Light on Shadow DOM](https://dev.to/besworks/shining-a-light-on-shadow-dom-8i2)
-- [Meme Monday](https://dev.to/ben/meme-monday-o4b)
-- [🏛️ Day 6 of Java Mastery: Java Architecture: The Blueprint Behind Java’s Power](https://dev.to/spyde/day-6-of-java-mastery-java-architecture-the-blueprint-behind-javas-power-2df0)
-- [From Zero to Hero: Your First Steps into PHP and Laravel](https://dev.to/igor_m_571b10845bfaccae08/from-zero-to-hero-your-first-steps-into-php-and-laravel-24kn)
-- [QuCode - 21DaysChallenge - Day 02](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-02-j3h)
+- [Website downtime causes: 10 causes and resolution strategies](https://dev.to/gatling/website-downtime-causes-10-causes-and-resolution-strategies-52nf)
+- [I vibe-coded a $20M YC app in a weekend, here&#39;s how🧙‍♂️ 🪄](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
+- [🔧 11 Ways to Improve Your LLMService Class for Scalable AI](https://dev.to/mrzaizai2k/11-ways-to-improve-your-llmservice-class-for-scalable-ai-1g8k)
+- [Why I&#39;m Using LocalStack in My Project &lpar;And Why You Might Want to Too&rpar;](https://dev.to/mspilari/why-im-using-localstack-in-my-project-and-why-you-might-want-to-too-2ef9)
+- [Cómo escribir DTOs en Java](https://dev.to/asjordi/como-escribir-dtos-en-java-1b02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
