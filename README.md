@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Counter Smart Contract in Solidity](https://dev.to/karthikaaax/build-a-simple-counter-smart-contract-in-solidity-emg)
-- [Opera Neon 2025: AI-Powered Browser Redefining Web Browsing](https://dev.to/khankhan/opera-neon-2025-ai-powered-browser-redefining-web-browsing-hfc)
-- [Crypto Borrow on WhiteBIT: A Practical Tool for Developers Working with Digital Assets](https://dev.to/alexnav/crypto-borrow-on-whitebit-a-practical-tool-for-developers-working-with-digital-assets-2n71)
-- [Day-23 I Built a Colorful Random Number Guessing Game with JavaScript!](https://dev.to/tamilselvan1812/i-built-a-colorful-random-number-guessing-game-with-javascript-3i18)
-- [🚀 20 Most Useful TypeScript Snippets](https://dev.to/parthraval9/20-most-useful-typescript-snippets-27k0)
+- [Merchant of Record: The Complete Guide for SaaS Founders](https://dev.to/shayy/merchant-of-record-the-complete-guide-for-saas-founders-1djk)
+- [This is getting traction now :&rpar;](https://dev.to/bogomil/this-is-getting-traction-now--1m02)
+- [Integrating Django and Golang with Docker and PostgreSQL: A Scalable Approach](https://dev.to/arthurobo/integrating-django-and-golang-with-a-shared-postgresql-database-a-scalable-approach-12fg)
+- [📦 Stacks &amp; Queues: Two Sides of the Same Coin](https://dev.to/onedev/stacks-queues-two-sides-of-the-same-coin-2nfh)
+- [NVIDIA Adds Native Python Support to CUDA](https://dev.to/maurizio_morri_f7f4bd128c/nvidia-adds-native-python-support-to-cuda-93a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
