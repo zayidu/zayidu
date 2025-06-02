@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeafWiki v0.3.0 – Small Update, Big Usability Wins](https://dev.to/perber/leafwiki-v030-small-update-big-usability-wins-54fn)
-- [All Data and AI Weekly #192 - June 2, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-192-june-2-2025-10o)
-- [How to Build Scalable Voice Infrastructure with Programmable Telephony APIs](https://dev.to/klarissa_f/how-to-build-scalable-voice-infrastructure-with-programmable-telephony-apis-7o2)
-- [🧠 The Secret Sauce Behind Web3 Growth? Referral Architectures That Actually Scale](https://dev.to/andylarkin677/the-secret-sauce-behind-web3-growth-referral-architectures-that-actually-scale-1n7o)
-- [How accurate are neural network-based models and what types of problems are they used for?](https://dev.to/aria_behroziuan/how-accurate-are-neural-network-based-models-and-what-types-of-problems-are-they-used-for-4lgj)
+- [Quantum Computing and the Future of Cryptography](https://dev.to/williamoliver/quantum-computing-and-the-future-of-cryptography-26o4)
+- [#react #frontend #mentorship #beginners](https://dev.to/elrokapy/react-frontend-mentorship-beginners-21of)
+- [100 Days of Coding! Day 3](https://dev.to/aaanishaaa/100-days-of-coding-day-3-1d2c)
+- [Using nestedWhere&lpar;&rpar; in the Laravel 12 Query Builder](https://dev.to/blamsa0mine/using-nestedwhere-in-the-laravel-12-query-builder-ege)
+- [Why should you consider Fastify for your Node.JS app](https://dev.to/gvt3ch/why-should-you-consider-fastify-for-your-nodejs-app-436a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
