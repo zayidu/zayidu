@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check Gunicorn Logs and Monitor Your Django App as a Systemd Service](https://dev.to/msnmongare/how-to-check-gunicorn-logs-and-monitor-your-django-app-as-a-systemd-service-3joc)
-- [Unxus kernel: The kernel for developers](https://dev.to/fxos/unxus-kernel-the-kernel-for-developers-3bla)
-- [Why QA is Essential and What Types Exist?](https://dev.to/dan_bf907de896/why-qa-is-essential-and-what-types-exist-4aci)
-- [AI will assassinate the internet as we know it.](https://dev.to/wiloucharlz/ai-will-assassinate-the-internet-as-we-know-it-3ahf)
-- [12 Advanced TypeScript Tricks Every Developer Should Know](https://dev.to/elfrontend/12-advanced-typescript-tricks-every-developer-should-know-3dn8)
+- [Tired of lodash?](https://dev.to/gnrlbzik/tired-of-lodash-51o8)
+- [Google Analytics 4 Essentials – For When You’re in a Rush &lpar;Like I Was&rpar;](https://dev.to/amoreno/google-analytics-4-essentials-for-when-youre-in-a-rush-like-i-was-1o09)
+- [Wordpress REST API - URL parameters](https://dev.to/raymundoch/wordpress-rest-api-url-parameters-3nm)
+- [Should You Learn to Code or Pursue a CS Career in 2025? A Wake-Up Call for the AI Era](https://dev.to/algo_sync/should-you-learn-to-code-or-pursue-a-cs-career-in-2025-a-wake-up-call-for-the-ai-era-2bo2)
+- [Mini Search engine](https://dev.to/melody_kelly_n/mini-search-engine-5g26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
