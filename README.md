@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust builder pattern library - what do you think?](https://dev.to/tomoikey/rust-builder-pattern-library-what-do-you-think-24c8)
-- [Developed my first AI application using open source model from Meta. https://ainify.me/](https://dev.to/ianmacalisang/developed-my-first-ai-application-using-open-source-model-from-meta-httpsainifyme-1dhe)
-- [Student&#39;s Final Grade](https://dev.to/maddiepst/students-final-grade-1ie3)
-- [[Share] REST API - A Refresher](https://dev.to/methodox/share-rest-api-a-refresher-5i2)
-- [[Share] Hello World in Divooka](https://dev.to/methodox/share-hello-world-in-divooka-l44)
+- [DOM and Array in JavaScript](https://dev.to/neelakandan_ravi/dom-and-array-in-javascript-39kn)
+- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
+- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
+- [Tokenizing Real-World Assets Is Just Wall Street Cosplaying Crypto](https://dev.to/favebs/tokenizing-real-world-assets-is-just-wall-street-cosplaying-crypto-2knm)
+- [Number Book Saudia: Tool Developed Using Python And API](https://dev.to/yaseen_ramzan_1d479665de8/number-book-saudia-tool-developed-using-python-and-api-39ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
