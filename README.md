@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear Algebra for Machine Learning: A Practical Guide](https://dev.to/dev_patel_35864ca1db6093c/linear-algebra-for-machine-learning-a-practical-guide-15ma)
-- [AWS Serverless: Add Manual Approval to a SAM CI/CD Pipeline for Lambda and API Gateway Using GitHub – Part 3](https://dev.to/bhatiagirish/aws-serverless-add-manual-approval-to-a-sam-cicd-pipeline-for-lambda-and-api-gateway-using-github-3m6a)
-- [🚀 How We Launched an MVP on Telegram in 2 Weeks and Saved Our Customer Thousands](https://dev.to/oniyore/how-we-launched-an-mvp-on-telegram-in-2-weeks-and-saved-thousands-15j0)
-- [My_First_Project](https://dev.to/troy_25/myfirstproject-5h11)
-- [Preparing for Microsoft Dynamics 365 Implementation Success](https://dev.to/ranjika50/preparing-for-microsoft-dynamics-365-implementation-success-44ed)
+- [Rust builder pattern library - what do you think?](https://dev.to/tomoikey/rust-builder-pattern-library-what-do-you-think-24c8)
+- [Developed my first AI application using open source model from Meta. https://ainify.me/](https://dev.to/ianmacalisang/developed-my-first-ai-application-using-open-source-model-from-meta-httpsainifyme-1dhe)
+- [Student&#39;s Final Grade](https://dev.to/maddiepst/students-final-grade-1ie3)
+- [[Share] REST API - A Refresher](https://dev.to/methodox/share-rest-api-a-refresher-5i2)
+- [[Share] Hello World in Divooka](https://dev.to/methodox/share-hello-world-in-divooka-l44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
