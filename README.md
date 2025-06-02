@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DOM and Array in JavaScript](https://dev.to/neelakandan_ravi/dom-and-array-in-javascript-39kn)
-- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
-- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
-- [Tokenizing Real-World Assets Is Just Wall Street Cosplaying Crypto](https://dev.to/favebs/tokenizing-real-world-assets-is-just-wall-street-cosplaying-crypto-2knm)
-- [Number Book Saudia: Tool Developed Using Python And API](https://dev.to/yaseen_ramzan_1d479665de8/number-book-saudia-tool-developed-using-python-and-api-39ge)
+- [How to Find and Clean Up Unowned `__pycache__` Directories on Arch Linux](https://dev.to/redrum_yot/how-to-find-and-clean-up-unowned-pycache-directories-on-arch-linux-206n)
+- [Server Scheduler - Slash cloud costs with server scheduling](https://dev.to/server-scheduler/server-scheduler-slash-cloud-costs-with-server-scheduling-152m)
+- [Day 12/30 - git push --force-with-lease – Safer alternative to --force](https://dev.to/ruqaiya_beguwala/day-1230-git-push-force-with-lease-safer-alternative-to-force-5fc)
+- [Autoscaling in Azure: A Hands-On Example](https://dev.to/sandrabrown/autoscaling-in-azure-a-hands-on-example-1l7b)
+- [JavaScript’s not-so-obvious type coercion examples](https://dev.to/saboor_bhutta/javascripts-not-so-obvious-type-coercion-examples-1lio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
