@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of lodash?](https://dev.to/gnrlbzik/tired-of-lodash-51o8)
-- [Google Analytics 4 Essentials – For When You’re in a Rush &lpar;Like I Was&rpar;](https://dev.to/amoreno/google-analytics-4-essentials-for-when-youre-in-a-rush-like-i-was-1o09)
-- [Wordpress REST API - URL parameters](https://dev.to/raymundoch/wordpress-rest-api-url-parameters-3nm)
-- [Should You Learn to Code or Pursue a CS Career in 2025? A Wake-Up Call for the AI Era](https://dev.to/algo_sync/should-you-learn-to-code-or-pursue-a-cs-career-in-2025-a-wake-up-call-for-the-ai-era-2bo2)
-- [Mini Search engine](https://dev.to/melody_kelly_n/mini-search-engine-5g26)
+- [&quot;The Ultimate Beginner&#39;s Guide to Learning Programming with HTML &amp; CSS in 2025&quot;](https://dev.to/jayswebdev83/the-ultimate-beginners-guide-to-learning-programming-with-html-css-in-2025-3eep)
+- [Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide](https://dev.to/drupaladmin/understanding-and-inspecting-indexes-in-mysql-a-comprehensive-guide-2mlo)
+- [Quarkus - Java for Kubernetes](https://dev.to/ritabratadas343/quarkus-java-for-kubernetes-113a)
+- [Pirâmide de Testes: Do Unitário ao E2E - Introdução](https://dev.to/stephanto/piramide-de-testes-do-unitario-ao-e2e-introducao-5f0)
+- [# How to Throttle Like a Pro: 5 Rate Limiting Patterns in Python You Should Know 🚦🐍](https://dev.to/arunsaiv/-how-to-throttle-like-a-pro-5-rate-limiting-patterns-in-python-you-should-know-54ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
