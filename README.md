@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s easy to feel alone when you’re working remotely. This kind of insight helps rebuild that sense of connection and purpose.](https://dev.to/techbyfelix/its-easy-to-feel-alone-when-youre-working-remotely-this-kind-of-insight-helps-rebuild-that-sense-3pg4)
-- [[Boost]](https://dev.to/ugur_akyol_fa6ef1841570cd/-58cl)
-- [Quarkus 3 application on AWS Lambda- Part 4 Reducing Lambda cold starts with SnapStart and API Gateway request event priming](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-4-reducing-lambda-cold-starts-with-snapstart-and-api-35al)
-- [Code Review Agent Adoption in PullFlow](https://dev.to/zak_mandhro/code-review-agent-adoption-in-pullflow-25f7)
-- [7 Proven Ways to Boost Web Performance and Master Core Web Vitals in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/7-proven-ways-to-boost-web-performance-and-master-core-web-vitals-in-2025-bfm)
+- [🔥 use-custom-event-listener, A Lightweight React Hook for Custom Events](https://dev.to/kelvincode1234/use-custom-event-listener-a-lightweight-react-hook-for-custom-events-1llg)
+- [Understanding Queueing Theory](https://dev.to/tsudhishnair/understanding-queueing-theory-1jon)
+- [💰 The Best Way to Earn Money Online as a Developer in 2025](https://dev.to/code_area_9036c9663233d92/the-best-way-to-earn-money-online-as-a-developer-in-2025-3dcp)
+- [🔥 Fire Burns The Ignorant - Featuring Arch - Day 2 Log](https://dev.to/abhayrsr/fire-burns-the-ignorant-featuring-arch-day-2-log-186a)
+- [Day 6 - Session 1: HTML &amp; CSS: Doubt-Clearing &amp; Interview Preparation Session with Vijay Sir](https://dev.to/sathish_226_/day-6-session-1-html-css-doubt-clearing-interview-preparation-session-with-vijay-sir-5b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
