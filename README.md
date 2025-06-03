@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying ROS2: pub/sub within a single container](https://dev.to/pikotutorial/trying-ros2-pubsub-within-a-single-container-1phj)
+- [Building a High-Performance Drag-and-Drop Library in JavaScript](https://dev.to/omriluz1/building-a-high-performance-drag-and-drop-library-in-javascript-2ji7)
 - [How to Install Docker on Windows 10/11 - Complete Guide](https://dev.to/connectalamin/how-to-install-docker-on-windows-1011-complete-guide-3o7k)
 - [[Boost]](https://dev.to/pouyanjazini/-3133)
 - [Why Functional Programming vs. Imperative/OOP Matters](https://dev.to/asad_ch_3c4cc714b250321ea/why-functional-programming-vs-imperativeoop-matters-1g6p)
-- [Security Incident Response](https://dev.to/godofgeeks/security-incident-response-539n)
-- [HarmonyOS Next Strings and Collections Advanced: From Processing to Performance Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-strings-and-collections-advanced-from-processing-to-performance-optimization-431i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
