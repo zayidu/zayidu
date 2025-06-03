@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide for CTOs: Adobe Commerce SaaS vs Shopify](https://dev.to/rafaelcg/a-comprehensive-guide-for-ctos-adobe-commerce-saas-vs-shopify-2ic6)
-- [Day 6 of my Daily Blog](https://dev.to/zxa/day-6-of-my-daily-blog-5geh)
-- [A Practical Approach to Solving Performance Issues in React Apps with Large Lists #2](https://dev.to/kanta1207/a-practical-approach-to-solving-performance-issues-in-react-apps-with-large-lists-2-1l1f)
-- [Build AWS Cloud Services Hangman Game with Amazon Q](https://dev.to/aws-builders/build-aws-cloud-services-hangman-game-with-amazon-q-4k9m)
-- [[Boost]](https://dev.to/dimonsmart/-3o44)
+- [How I Run My SaaS for $45/month Without Supabase, Vercel, or Firebase. Just Rails.](https://dev.to/andresurdaneta/how-i-run-my-saas-for-45month-without-supabase-vercel-or-firebase-just-rails-22pc)
+- [Y&#39;all hear me out: Coding is just poetry in different font](https://dev.to/s_hreya/yall-hear-me-out-coding-is-just-poetry-in-different-font-1n7o)
+- [Beyond the Hype: A Look at 5+ AI Coding Agents for Your Terminal](https://dev.to/skeptrune/beyond-the-hype-a-look-at-5-ai-coding-agents-for-your-terminal-e0m)
+- [Introducing Lingo.dev Compiler: Localize a React app without rewriting its code](https://dev.to/maxprilutskiy/introducing-lingodev-compiler-localize-a-react-app-without-rewriting-its-code-5anm)
+- [Enclave Games Monthly Report: May 2025](https://dev.to/end3r/enclave-games-monthly-report-may-2025-b7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
