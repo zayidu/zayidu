@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LlamaIndex File Chat Workflow with A2A Protocol](https://dev.to/czmilo/llamaindex-file-chat-workflow-with-a2a-protocol-bah)
-- [15 ‘Hard’ leetcode problems that are actually easy](https://dev.to/rshxx/15-hard-leetcode-problems-that-are-actually-easy-k99)
-- [Web Dev Day 8: Backend - NodeJS, Express, Ejs, REST &lpar;Part - 1&rpar;](https://dev.to/_bhupeshk_/backend-nodejs-express-ejs-rest-part-1-53o0)
-- [Introducing YAP: Speak. Earn. Repeat.](https://dev.to/yap2learn/introducing-yap-speak-earn-repeat-jj7)
-- [Request for maintainer&lpar;s&rpar;](https://dev.to/adamghill/request-for-maintainers-4b08)
+- [Choosing Between JWKS and Token Introspection for OAuth 2.0 Token Validation](https://dev.to/mechcloud_academy/choosing-between-jwks-and-token-introspection-for-oauth-20-token-validation-1h9d)
+- [Download YouTube Videos in 8K with Python: A Beginner-Friendly Guide Using yt-dlp](https://dev.to/niveshbansal07/download-youtube-videos-in-8k-with-python-a-beginner-friendly-guide-using-yt-dlp-33m7)
+- [JavaScript is so redundant](https://dev.to/fstrube/javascript-is-so-redundant-3fd4)
+- [Today Learned in Java Script:Conditional Statement](https://dev.to/paviarunachalam/today-learned-in-java-scriptconditional-statement-i54)
+- [Harmonyos Cangjie Language Development Practical Tutorial: Shopping Cart Page](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-practical-tutorial-shopping-cart-page-55mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
