@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Full PaaS Architecture in Azure with Just a Bash Script](https://dev.to/cristiansifuentes/deploying-a-full-paas-architecture-in-azure-with-just-a-bash-script-3j1j)
-- [Will AI Replace Developers? Here’s What’s Actually Changing...](https://dev.to/dontgetreplaced/will-ai-replace-developers-heres-whats-actually-changing-ppf)
-- [When Your Job Doesn’t Match Your Goals…](https://dev.to/bellatrix/when-your-job-doesnt-match-your-goals-5eda)
-- [Shorten URL Reflections](https://dev.to/jason_oh_242b4e371630fdac/url-shortening-service-reflections-44fj)
-- [Build MCP server in Java with a2ajava](https://dev.to/vishalmysore/build-mcp-server-in-java-with-a2ajava-5b1n)
+- [How to Talk to AI &lpar;and Get Better Results&rpar;](https://dev.to/_senhorbento/how-to-talk-to-ai-and-get-better-results-oia)
+- [The Bold Sweetness of a Raspberry Background](https://dev.to/smartdev72/the-bold-sweetness-of-a-raspberry-background-3ggp)
+- [Reflexões Noturnas: Por que “Team Topologies” me fez repensar tudo sobre como a gente trabalha &lpar;e entrega valor&rpar;](https://dev.to/maicon_luizanschau_2ec1f/reflexoes-noturnas-por-que-team-topologies-me-fez-repensar-tudo-sobre-como-a-gente-trabalha-e-5cj8)
+- [The Deep Sophistication of a Plum Background](https://dev.to/smartdev72/the-deep-sophistication-of-a-plum-background-2o87)
+- [The Vibrant Blend of a Pink Orange Background](https://dev.to/smartdev72/the-vibrant-blend-of-a-pink-orange-background-4j8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
