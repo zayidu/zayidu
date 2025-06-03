@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional Statements, AND &lpar;&amp;&amp;&rpar;, and OR &lpar;||&rpar; in Programming](https://dev.to/mukilaperiyasamy/conditional-statements-and-and-or-in-programming-447l)
-- [How to use Claude to build a web app](https://dev.to/logrocket/how-to-use-claude-to-build-a-web-app-2if9)
-- [easy-live2d - Making Live2D integration easier!](https://dev.to/panzer_jack/easy-live2d-making-live2d-integration-easier-4ia8)
-- [What is Caddy and How It Helped My Product DBLayer.dev](https://dev.to/scorcism/what-is-caddy-and-how-it-helped-my-product-dblayerdev-2k41)
-- [The Rise of Intelligent Tracking Systems in Digital Marketing](https://dev.to/williamoliver/the-rise-of-intelligent-tracking-systems-in-digital-marketing-n65)
+- [A Comprehensive Guide for CTOs: Adobe Commerce SaaS vs Shopify](https://dev.to/rafaelcg/a-comprehensive-guide-for-ctos-adobe-commerce-saas-vs-shopify-2ic6)
+- [Day 6 of my Daily Blog](https://dev.to/zxa/day-6-of-my-daily-blog-5geh)
+- [A Practical Approach to Solving Performance Issues in React Apps with Large Lists #2](https://dev.to/kanta1207/a-practical-approach-to-solving-performance-issues-in-react-apps-with-large-lists-2-1l1f)
+- [Build AWS Cloud Services Hangman Game with Amazon Q](https://dev.to/aws-builders/build-aws-cloud-services-hangman-game-with-amazon-q-4k9m)
+- [[Boost]](https://dev.to/dimonsmart/-3o44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
