@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Your Approach to Solving Problems With Code?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-a4g)
-- [Still using outdated accessibility tools? Time to level up! I&#39;ve been using A11yInspect &amp; it&#39;s a game changer. Faster testing, better accuracy, fewer false positives &amp; broader guideline coverage. Check it out: https://www.barrierbreak.com/a11yinspect/](https://dev.to/yamani_moiz/still-using-outdated-accessibility-tools-time-to-level-up-ive-been-using-a11yinspect-its-a-4kjp)
-- [AutoRecon: Your New Best Friend for Automated Network Reconnaissance](https://dev.to/githubopensource/autorecon-your-new-best-friend-for-automated-network-reconnaissance-35mj)
-- [Postgres vs. MySQL: DDL Transaction Difference](https://dev.to/bytebase/postgres-vs-mysql-ddl-transaction-difference-2gjo)
-- [Top YouTube Channels for Learning AI: A Beginner&#39;s Guide](https://dev.to/aniruddhaadak/top-youtube-channels-for-learning-ai-a-beginners-guide-44o4)
+- [It’s easy to feel alone when you’re working remotely. This kind of insight helps rebuild that sense of connection and purpose.](https://dev.to/techbyfelix/its-easy-to-feel-alone-when-youre-working-remotely-this-kind-of-insight-helps-rebuild-that-sense-3pg4)
+- [[Boost]](https://dev.to/ugur_akyol_fa6ef1841570cd/-58cl)
+- [Quarkus 3 application on AWS Lambda- Part 4 Reducing Lambda cold starts with SnapStart and API Gateway request event priming](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-4-reducing-lambda-cold-starts-with-snapstart-and-api-35al)
+- [Code Review Agent Adoption in PullFlow](https://dev.to/zak_mandhro/code-review-agent-adoption-in-pullflow-25f7)
+- [7 Proven Ways to Boost Web Performance and Master Core Web Vitals in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/7-proven-ways-to-boost-web-performance-and-master-core-web-vitals-in-2025-bfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
