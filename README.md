@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Run My SaaS for $45/month Without Supabase, Vercel, or Firebase. Just Rails.](https://dev.to/andresurdaneta/how-i-run-my-saas-for-45month-without-supabase-vercel-or-firebase-just-rails-22pc)
-- [Y&#39;all hear me out: Coding is just poetry in different font](https://dev.to/s_hreya/yall-hear-me-out-coding-is-just-poetry-in-different-font-1n7o)
-- [Beyond the Hype: A Look at 5+ AI Coding Agents for Your Terminal](https://dev.to/skeptrune/beyond-the-hype-a-look-at-5-ai-coding-agents-for-your-terminal-e0m)
-- [Introducing Lingo.dev Compiler: Localize a React app without rewriting its code](https://dev.to/maxprilutskiy/introducing-lingodev-compiler-localize-a-react-app-without-rewriting-its-code-5anm)
-- [Enclave Games Monthly Report: May 2025](https://dev.to/end3r/enclave-games-monthly-report-may-2025-b7i)
+- [Hello World.](https://dev.to/mrposible/hello-world-1nik)
+- [Is Biotech Entering a New Era of Drug Discovery?](https://dev.to/maurizio_morri_f7f4bd128c/is-biotech-entering-a-new-era-of-drug-discovery-58n2)
+- [Rust 101 🦀 &lpar;Ep 02&rpar;](https://dev.to/kehn_marv/rust-101-ep-02-3be6)
+- [Self-hosted GitHub Actions runners aren&#39;t free](https://dev.to/depot/self-hosted-github-actions-runners-arent-free-2fib)
+- [AI-Powered Goodwill Advertising: How Machine Learning Amplifies Social Impact in 2025 🤖](https://dev.to/media18/ai-powered-goodwill-advertising-how-machine-learning-amplifies-social-impact-in-2025-49pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
