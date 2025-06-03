@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Requesting Feedbacks](https://dev.to/abdulrahman_nasser_95c51/requesting-feedbacks-3d38)
-- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
-- [Who&#39;s Building AI Autopilot?](https://dev.to/moxon/whos-building-ai-autopilot-5bpl)
-- [Using ColdFusion and Xpdf to extract PDF metadata](https://dev.to/gamesover/using-coldfusion-and-xpdf-to-extract-pdf-metadata-4pe3)
-- [How Next.js 13 Made Me Rethink Axios and Build Traxios: Creating an HTTP Client from Scratch for Tractian](https://dev.to/adrianknapp/how-nextjs-13-made-me-rethink-axios-and-build-traxios-creating-an-http-client-from-scratch-for-19pl)
+- [LlamaIndex File Chat Workflow with A2A Protocol](https://dev.to/czmilo/llamaindex-file-chat-workflow-with-a2a-protocol-bah)
+- [15 ‘Hard’ leetcode problems that are actually easy](https://dev.to/rshxx/15-hard-leetcode-problems-that-are-actually-easy-k99)
+- [Web Dev Day 8: Backend - NodeJS, Express, Ejs, REST &lpar;Part - 1&rpar;](https://dev.to/_bhupeshk_/backend-nodejs-express-ejs-rest-part-1-53o0)
+- [Introducing YAP: Speak. Earn. Repeat.](https://dev.to/yap2learn/introducing-yap-speak-earn-repeat-jj7)
+- [Request for maintainer&lpar;s&rpar;](https://dev.to/adamghill/request-for-maintainers-4b08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
