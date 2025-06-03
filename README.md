@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Type Aliases and Newtypes: Wrapping for Safety](https://dev.to/sgchris/type-aliases-and-newtypes-wrapping-for-safety-c1l)
-- [Service Like SaaS: Turning Projects into Predictable Income](https://dev.to/codanyks/service-like-saas-turning-projects-into-predictable-income-11bn)
-- [[Boost]](https://dev.to/marlonjerold/-2hf7)
-- [Infrastructure as Code Isn’t About Speed. It’s About Trust](https://dev.to/tawe/infrastructure-as-code-isnt-about-speed-its-about-trust-5d6j)
-- [Resource-Rich: Plugins That Fill Your Figma File With Assets](https://dev.to/atforeveryoung/resource-rich-plugins-that-fill-your-figma-file-with-assets-nnm)
+- [What is Your Approach to Solving Problems With Code?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-a4g)
+- [Still using outdated accessibility tools? Time to level up! I&#39;ve been using A11yInspect &amp; it&#39;s a game changer. Faster testing, better accuracy, fewer false positives &amp; broader guideline coverage. Check it out: https://www.barrierbreak.com/a11yinspect/](https://dev.to/yamani_moiz/still-using-outdated-accessibility-tools-time-to-level-up-ive-been-using-a11yinspect-its-a-4kjp)
+- [AutoRecon: Your New Best Friend for Automated Network Reconnaissance](https://dev.to/githubopensource/autorecon-your-new-best-friend-for-automated-network-reconnaissance-35mj)
+- [Postgres vs. MySQL: DDL Transaction Difference](https://dev.to/bytebase/postgres-vs-mysql-ddl-transaction-difference-2gjo)
+- [Top YouTube Channels for Learning AI: A Beginner&#39;s Guide](https://dev.to/aniruddhaadak/top-youtube-channels-for-learning-ai-a-beginners-guide-44o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
