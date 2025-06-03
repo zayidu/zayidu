@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing LogManticsAI: LLM-Powered CLI for Semantic JSON Log Analysis](https://dev.to/chattermate/introducing-logmanticsai-llm-powered-cli-for-semantic-json-log-analysis-1969)
-- [Using Mermaid Diagrams 100x Better with Your Favorite AI / LLM App](https://dev.to/yigit-konur/using-mermaid-diagrams-100x-better-with-your-favorite-ai-llm-app-3m1p)
-- [LangGraph + Graphiti + Long Term Memory = Powerful Agentic Memory](https://dev.to/gaodalie_ai/langgraph-graphiti-long-term-memory-powerful-agentic-memory-1iag)
-- [Prof. Postmark](https://dev.to/gokerdev/prof-postmark-2lo6)
-- [I built another aesthetic Pomodoro timer — 800 users show up in the first week](https://dev.to/davidtran/i-built-another-aesthetic-pomodoro-timer-800-users-show-up-in-the-first-week-4alb)
+- [Laravel SwaggenerAI: Generate Swagger Documentation with AI in Seconds](https://dev.to/elpupas/laravel-swaggenerai-generate-swagger-documentation-with-ai-in-seconds-2feg)
+- [[Boost]](https://dev.to/naik_sejal/-2084)
+- [5 Worth Alternative of Linear](https://dev.to/pranesh_patel/5-worth-alternative-of-linear-5fi3)
+- [Best Linear Alternatives](https://dev.to/pratham_naik_project_manager/best-linear-alternatives-1fam)
+- [I will convert figma to html xd to html PSD to html css responsive website](https://dev.to/ali_ali_1e10a930fd19b7770/i-will-convert-figma-to-html-xd-to-html-psd-to-html-css-responsive-website-4fen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
