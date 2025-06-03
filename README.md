@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying ROS2: pub/sub within a single container](https://dev.to/pikotutorial/trying-ros2-pubsub-within-a-single-container-1phj)
-- [Building a High-Performance Drag-and-Drop Library in JavaScript](https://dev.to/omriluz1/building-a-high-performance-drag-and-drop-library-in-javascript-2ji7)
-- [How to Install Docker on Windows 10/11 - Complete Guide](https://dev.to/connectalamin/how-to-install-docker-on-windows-1011-complete-guide-3o7k)
-- [[Boost]](https://dev.to/pouyanjazini/-3133)
-- [Why Functional Programming vs. Imperative/OOP Matters](https://dev.to/asad_ch_3c4cc714b250321ea/why-functional-programming-vs-imperativeoop-matters-1g6p)
+- [How to Send Emails and Save Them in the Sent Folder with DotApp PHP Framework](https://dev.to/dotapp/how-to-send-emails-and-save-them-in-the-sent-folder-with-dotapp-php-framework-3jp4)
+- [Detecting When a Sticky Element Becomes Sticky](https://dev.to/jakeisonline/detecting-when-a-sticky-element-becomes-sticky-38eg)
+- [Amazing Tool](https://dev.to/kelvincode1234/amazing-tool-cfc)
+- [node](https://dev.to/_5986a031a161588ac431b/node-3nf)
+- [Yeah you can use PHP to code AI!](https://dev.to/razielrodrigues/yeah-you-can-use-php-to-code-ai-4lbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
