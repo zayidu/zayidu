@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel SwaggenerAI: Generate Swagger Documentation with AI in Seconds](https://dev.to/elpupas/laravel-swaggenerai-generate-swagger-documentation-with-ai-in-seconds-2feg)
-- [[Boost]](https://dev.to/naik_sejal/-2084)
-- [5 Worth Alternative of Linear](https://dev.to/pranesh_patel/5-worth-alternative-of-linear-5fi3)
-- [Best Linear Alternatives](https://dev.to/pratham_naik_project_manager/best-linear-alternatives-1fam)
-- [I will convert figma to html xd to html PSD to html css responsive website](https://dev.to/ali_ali_1e10a930fd19b7770/i-will-convert-figma-to-html-xd-to-html-psd-to-html-css-responsive-website-4fen)
+- [HarmonyOS Next Strings and Collections Advanced: From Processing to Performance Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-strings-and-collections-advanced-from-processing-to-performance-optimization-431i)
+- [CR2450: The Philosopher’s Battery](https://dev.to/ersajay/cr2450-the-philosophers-battery-2ihm)
+- [Effective Strategies for AWS Cost Optimization](https://dev.to/prabhakarmishra/effective-strategies-for-aws-cost-optimization-2ol7)
+- [🏋️ Lifted some states up!! - Day 1 Log](https://dev.to/abhayrsr/lifted-some-states-up-day-1-log-4djg)
+- [Discover how ForkJoinPool powers Java&#39;s high-performance parallel processing](https://dev.to/headf1rst/discover-how-forkjoinpool-powers-javas-high-performance-parallel-processing-3pn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
