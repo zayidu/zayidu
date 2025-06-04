@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Agent Loop: The Core of Autonomous AI Systems](https://dev.to/rijultp/inside-the-agent-loop-the-core-of-autonomous-ai-systems-5902)
-- [The long journey of writing a C++ VLC alternative, Rose Player](https://dev.to/rosemediahouse/the-long-journey-of-writing-a-c-vlc-alternative-rose-player-50ie)
-- [The Ultimate SEO Guide: Built for Developers, by a Developer](https://dev.to/abubakardev/the-ultimate-seo-guide-built-for-developers-by-a-developer-58hj)
-- [Is Your Multi-Currency Payments Setup Heading for Disaster?](https://dev.to/flutterwaveeng/is-your-multi-currency-payments-setup-heading-for-disaster-3e4e)
-- [Backing up FoundationDB](https://dev.to/tigrisdata/backing-up-foundationdb-9e)
+- [How Edge Computing and CDNs Supercharge Web Performance in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/how-edge-computing-and-cdns-supercharge-web-performance-in-2025-4gpl)
+- [Stop Copy-Pasting Your Entire Codebase to AI — Try Stagewise Instead](https://dev.to/connectalamin/stop-copy-pasting-your-entire-codebase-to-ai-try-stagewise-instead-35oc)
+- [Go Functions as First-Class Citizens: How to Use Them Properly](https://dev.to/leapcell/go-functions-as-first-class-citizens-how-to-use-them-properly-2jhi)
+- [Meet the Team Behind Story Hero — Our 30-Day Leap into the World’s Biggest Hackathon 🚀](https://dev.to/danielreiling/meet-the-team-behind-story-hero-our-30-day-leap-into-the-worlds-biggest-hackathon-169p)
+- [Ports and Adapters &lpar;Hexagonal Architecture&rpar;](https://dev.to/rafaeljcamara/ports-and-adapters-hexagonal-architecture-547c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
