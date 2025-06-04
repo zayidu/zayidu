@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
+- [The Latency Gap: Why Developers Should Care About the Fastest 5 Milliseconds](https://dev.to/alexnav/the-latency-gap-why-developers-should-care-about-the-fastest-5-milliseconds-nbo)
+- [JSONB DeTOASTing &lpar;read amplification&rpar;](https://dev.to/mongodb/jsonb-detoasting-read-amplification-4ikj)
 - [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-41kn)
 - [Sony Confirms State of Play PlayStation Showcase for Tomorrow &lpar;June 4&rpar;, Will Last 40+ Minutes](https://dev.to/gg_news/sony-confirms-state-of-play-playstation-showcase-for-tomorrow-june-4-will-last-40-minutes-1g07)
-- [Researchers estimate that early humans began smoking meat to extend its shelf life as long as a million years ago.](https://dev.to/future_science/researchers-estimate-that-early-humans-began-smoking-meat-to-extend-its-shelf-life-as-long-as-a-3fg2)
-- [The Comfort Myths About AI Are Dead Wrong - Here&#39;s What the Data Actually Shows](https://dev.to/future_ai/the-comfort-myths-about-ai-are-dead-wrong-heres-what-the-data-actually-shows-33m)
-- [Steve Carell says he is worried about AI. Says his latest film &quot;Mountainhead&quot; is a society we might soon live in](https://dev.to/future_ai/steve-carell-says-he-is-worried-about-ai-says-his-latest-film-mountainhead-is-a-society-we-1oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
