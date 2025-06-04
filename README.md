@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Talk to AI &lpar;and Get Better Results&rpar;](https://dev.to/_senhorbento/how-to-talk-to-ai-and-get-better-results-oia)
-- [The Bold Sweetness of a Raspberry Background](https://dev.to/smartdev72/the-bold-sweetness-of-a-raspberry-background-3ggp)
-- [Reflexões Noturnas: Por que “Team Topologies” me fez repensar tudo sobre como a gente trabalha &lpar;e entrega valor&rpar;](https://dev.to/maicon_luizanschau_2ec1f/reflexoes-noturnas-por-que-team-topologies-me-fez-repensar-tudo-sobre-como-a-gente-trabalha-e-5cj8)
-- [The Deep Sophistication of a Plum Background](https://dev.to/smartdev72/the-deep-sophistication-of-a-plum-background-2o87)
-- [The Vibrant Blend of a Pink Orange Background](https://dev.to/smartdev72/the-vibrant-blend-of-a-pink-orange-background-4j8h)
+- [How to calculate your real GitHub Actions usage in minutes](https://dev.to/depot/how-to-calculate-your-real-github-actions-usage-in-minutes-nlb)
+- [Self hosted maps for &lpar;practically&rpar; free](https://dev.to/aaronblondeau/self-hosted-maps-for-practically-free-1i3n)
+- [How to Build a Web MRZ Scanner and Reader with HTML5 and JavaScript](https://dev.to/yushulx/how-to-build-a-web-mrz-scanner-and-reader-with-html5-and-javascript-137d)
+- [🔐 AppArmor and ROS2 – The Article I Tried Not to Write](https://dev.to/sebos/apparmor-and-ros2-the-article-i-tried-not-to-write-1fme)
+- [Make In A Day: Sudoku](https://dev.to/chigbeef_77/make-in-a-day-sudoku-36fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
