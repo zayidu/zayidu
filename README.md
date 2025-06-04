@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Review, Release, and Common Issues](https://dev.to/xhunmon/complete-guide-to-review-release-and-common-issues-3em2)
-- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
-- [Nginx location 匹配机制](https://dev.to/dragon72463399/nginx-location-pi-pei-ji-zhi-2p4a)
-- [Secrets Are Still Killing Pipelines: The Rise of Secretless DevOps](https://dev.to/kedster/secrets-are-still-killing-pipelines-the-rise-of-secretless-devops-16c1)
-- [🚀 From Manual Clicks to Code: My First Step into Terraform &lpar;And Why You Should Too&rpar;](https://dev.to/latchudevops/from-manual-clicks-to-code-my-first-step-into-terraform-and-why-you-should-too-4m7e)
+- [REST API vs SDK: Which is Best for eSignature Integration](https://dev.to/boldsign/rest-api-vs-sdk-which-is-best-for-esignature-integration-47fd)
+- [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
+- [WAF Checker: False Positive Test](https://dev.to/devh0us3/waf-checker-false-positive-test-pn5)
+- [Why POS Features Matter: A Guide to Choosing the Right POS System](https://dev.to/bhavesh_gangani_/why-pos-features-matter-a-guide-to-choosing-the-right-pos-system-32lg)
+- [🚀 Why Coders Deserve a Platform of Their Own — Not Just a GitHub Profile](https://dev.to/turtal_dbf597c266b8660251/why-coders-deserve-a-platform-of-their-own-not-just-a-github-profile-14l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
