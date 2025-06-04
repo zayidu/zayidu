@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [REST API vs SDK: Which is Best for eSignature Integration](https://dev.to/boldsign/rest-api-vs-sdk-which-is-best-for-esignature-integration-47fd)
-- [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
-- [WAF Checker: False Positive Test](https://dev.to/devh0us3/waf-checker-false-positive-test-pn5)
-- [Why POS Features Matter: A Guide to Choosing the Right POS System](https://dev.to/bhavesh_gangani_/why-pos-features-matter-a-guide-to-choosing-the-right-pos-system-32lg)
-- [🚀 Why Coders Deserve a Platform of Their Own — Not Just a GitHub Profile](https://dev.to/turtal_dbf597c266b8660251/why-coders-deserve-a-platform-of-their-own-not-just-a-github-profile-14l3)
+- [[Boost]](https://dev.to/badmonster0/-1f0a)
+- [Build Real-Time Knowledge Graphs from Documents Using CocoIndex + Kuzu &lpar;with LLMs &amp; Live Updates&rpar;](https://dev.to/cocoindex/build-real-time-knowledge-graphs-from-documents-using-cocoindex-kuzu-with-llms-live-updates-n1b)
+- [Day 14/30 - Git Reset: Soft, Hard, and Mixed - Undo Commits at Different Levels](https://dev.to/ruqaiya_beguwala/day-1430-git-reset-soft-hard-and-mixed-undo-commits-at-different-levels-4me4)
+- [A School Hub, My native PHP project!](https://dev.to/adham_hashem/a-shool-hub-my-native-php-project-206p)
+- [Ephemeral Design Manifesto](https://dev.to/hamajyotan/ephemeral-design-manifesto-1km7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
