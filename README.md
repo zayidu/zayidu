@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Git Commit Message Generator with Google Gemini](https://dev.to/muhammad_ghufran_3b9219d2/building-an-ai-powered-git-commit-message-generator-with-google-gemini-251d)
 - [Trusted Companions: Plugins Designers Swear By in 2025](https://dev.to/atforeveryoung/trusted-companions-plugins-designers-swear-by-in-2025-39i0)
 - [🐧 What’s in a Linux Desktop? A Beginner’s Guide to Ubuntu Applications](https://dev.to/1suleyman/whats-in-a-linux-desktop-a-beginners-guide-to-ubuntu-applications-2583)
 - [What Exactly Is Cloud Engineering?](https://dev.to/onlyfave/what-exactly-is-cloud-engineering-35h4)
 - [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-499o)
-- [The Evolution of the Web: From Static Pages to Decentralized Dreams 🌐](https://dev.to/ombima/the-evolution-of-the-web-from-static-pages-to-decentralized-dreams-19l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
