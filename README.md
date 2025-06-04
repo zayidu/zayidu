@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploying a Static Website with AWS under $1 per month](https://dev.to/pkkolla/deploying-a-static-website-with-aws-under-1-per-month-1m6e)
-- [Reglas administradas AWS WAF Owasp Top Ten](https://dev.to/cyb3rcloud8888/reglas-administradas-aws-waf-owasp-top-ten-3f7)
-- [Moving billboard event counting into a background job](https://dev.to/ben/moving-billboard-event-counting-into-a-background-job-85c)
-- [Security Starts With Developer Enablement: Lessons From PHP TEK 2025](https://dev.to/gitguardian/security-starts-with-developer-enablement-lessons-from-php-tek-2025-na5)
-- [Update: I ordered loops as a stop gap. Gotta start somewhere!](https://dev.to/jess/update-i-ordered-loops-as-a-stop-gap-gotta-start-somewhere-3n6e)
+- [Understanding ASP.NET Core Identity: A Guide to the Default Database Tables](https://dev.to/davinceleecode/understanding-aspnet-core-identity-a-guide-to-the-default-database-tables-12a7)
+- [5 Best Tax Secrets for Investing in Singapore RCR](https://dev.to/pingbanjo65/5-best-tax-secrets-for-investing-in-singapore-rcr-b88)
+- [NLWeb: Microsoft&#39;s Protocol for AI-Powered Website Search](https://dev.to/punkpeye/nlweb-microsofts-protocol-for-ai-powered-website-search-ng8)
+- [The Reimagined Citadel: Finding Soul in Structure with the Modular Monolith](https://dev.to/vaib/the-reimagined-citadel-finding-soul-in-structure-with-the-modular-monolith-n67)
+- [Task Management Effectively with Modern AI Tools](https://dev.to/extinctsion/task-management-effectively-with-modern-ai-tools-7kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
