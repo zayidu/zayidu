@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re so obsolete!](https://dev.to/baltasarq/youre-so-obsolete-1hgi)
-- [Hey, i&#39;m getting this error while publishing since yesterday, Whoops, something went wrong: status: 500 error: Internal Server Error Kindly solve this, @DevTo community team](https://dev.to/avinashvagh/hey-im-getting-this-error-while-publishing-since-yesterday-whoops-something-went-wrong-4e53)
-- [Exploring the Intersection of Functional and Object-Oriented Programming in JS](https://dev.to/omriluz1/exploring-the-intersection-of-functional-and-object-oriented-programming-in-js-3eac)
-- [A Modern Approach of Implementing Dark Mode](https://dev.to/renekaesler/a-modern-approach-of-implementing-dark-mode-20f8)
-- [This is very useful resources](https://dev.to/lelisa_yohanes_d6202ac89d/this-is-very-useful-resources-130b)
+- [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-41kn)
+- [Sony Confirms State of Play PlayStation Showcase for Tomorrow &lpar;June 4&rpar;, Will Last 40+ Minutes](https://dev.to/gg_news/sony-confirms-state-of-play-playstation-showcase-for-tomorrow-june-4-will-last-40-minutes-1g07)
+- [Researchers estimate that early humans began smoking meat to extend its shelf life as long as a million years ago.](https://dev.to/future_science/researchers-estimate-that-early-humans-began-smoking-meat-to-extend-its-shelf-life-as-long-as-a-3fg2)
+- [The Comfort Myths About AI Are Dead Wrong - Here&#39;s What the Data Actually Shows](https://dev.to/future_ai/the-comfort-myths-about-ai-are-dead-wrong-heres-what-the-data-actually-shows-33m)
+- [Steve Carell says he is worried about AI. Says his latest film &quot;Mountainhead&quot; is a society we might soon live in](https://dev.to/future_ai/steve-carell-says-he-is-worried-about-ai-says-his-latest-film-mountainhead-is-a-society-we-1oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
