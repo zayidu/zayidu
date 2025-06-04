@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ASP.NET Core Identity: A Guide to the Default Database Tables](https://dev.to/davinceleecode/understanding-aspnet-core-identity-a-guide-to-the-default-database-tables-12a7)
-- [5 Best Tax Secrets for Investing in Singapore RCR](https://dev.to/pingbanjo65/5-best-tax-secrets-for-investing-in-singapore-rcr-b88)
-- [NLWeb: Microsoft&#39;s Protocol for AI-Powered Website Search](https://dev.to/punkpeye/nlweb-microsofts-protocol-for-ai-powered-website-search-ng8)
-- [The Reimagined Citadel: Finding Soul in Structure with the Modular Monolith](https://dev.to/vaib/the-reimagined-citadel-finding-soul-in-structure-with-the-modular-monolith-n67)
-- [Task Management Effectively with Modern AI Tools](https://dev.to/extinctsion/task-management-effectively-with-modern-ai-tools-7kn)
+- [Inside the Agent Loop: The Core of Autonomous AI Systems](https://dev.to/rijultp/inside-the-agent-loop-the-core-of-autonomous-ai-systems-5902)
+- [The long journey of writing a C++ VLC alternative, Rose Player](https://dev.to/rosemediahouse/the-long-journey-of-writing-a-c-vlc-alternative-rose-player-50ie)
+- [The Ultimate SEO Guide: Built for Developers, by a Developer](https://dev.to/abubakardev/the-ultimate-seo-guide-built-for-developers-by-a-developer-58hj)
+- [Is Your Multi-Currency Payments Setup Heading for Disaster?](https://dev.to/flutterwaveeng/is-your-multi-currency-payments-setup-heading-for-disaster-3e4e)
+- [Backing up FoundationDB](https://dev.to/tigrisdata/backing-up-foundationdb-9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
