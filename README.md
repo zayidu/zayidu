@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
-- [The Latency Gap: Why Developers Should Care About the Fastest 5 Milliseconds](https://dev.to/alexnav/the-latency-gap-why-developers-should-care-about-the-fastest-5-milliseconds-nbo)
-- [JSONB DeTOASTing &lpar;read amplification&rpar;](https://dev.to/mongodb/jsonb-detoasting-read-amplification-4ikj)
-- [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-41kn)
-- [Sony Confirms State of Play PlayStation Showcase for Tomorrow &lpar;June 4&rpar;, Will Last 40+ Minutes](https://dev.to/gg_news/sony-confirms-state-of-play-playstation-showcase-for-tomorrow-june-4-will-last-40-minutes-1g07)
+- [Trusted Companions: Plugins Designers Swear By in 2025](https://dev.to/atforeveryoung/trusted-companions-plugins-designers-swear-by-in-2025-39i0)
+- [🐧 What’s in a Linux Desktop? A Beginner’s Guide to Ubuntu Applications](https://dev.to/1suleyman/whats-in-a-linux-desktop-a-beginners-guide-to-ubuntu-applications-2583)
+- [What Exactly Is Cloud Engineering?](https://dev.to/onlyfave/what-exactly-is-cloud-engineering-35h4)
+- [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-499o)
+- [The Evolution of the Web: From Static Pages to Decentralized Dreams 🌐](https://dev.to/ombima/the-evolution-of-the-web-from-static-pages-to-decentralized-dreams-19l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
