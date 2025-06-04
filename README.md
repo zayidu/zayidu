@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a WAF—and Why Your Web App Needs One](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-and-why-your-web-app-needs-one-32bg)
-- [Achieving Net-Zero Goals with Smart Building Technologies](https://dev.to/bridgegroupsolutions/achieving-net-zero-goals-with-smart-building-technologies-1mkm)
-- [readme](https://dev.to/armaankhan8270/readme-2fbd)
-- [Clean Code: The Art of Self-Documenting Code](https://dev.to/luke_tong_d4f228249f32d86/clean-code-the-art-of-self-documenting-code-509o)
-- [My Desktop Was a Mess — So I Wrote a Python Script!!](https://dev.to/enincy/my-desktop-was-a-mess-so-i-wrote-a-python-script-412d)
+- [How to Install and Run Chatterbox Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-chatterbox-locally-5fd2)
+- [Building Custom Magento Modules with Hyvä Compatibility in Mind](https://dev.to/sagar_panchal/building-custom-magento-modules-with-hyva-compatibility-in-mind-51f5)
+- [🛡️ Data Protection: Building Trust, Ensuring Compliance, and Driving Growth](https://dev.to/ashikur_rahmannazil93/data-protection-building-trust-ensuring-compliance-and-driving-growth-onc)
+- [Reportgen.io vs Html2pdf.app - Which PDF API Should You Use in 2025? ⚔️](https://dev.to/ethan_reportgen/reportgenio-vs-html2pdfapp-which-pdf-api-should-you-use-in-2025-357p)
+- [Transform Your Speech into Text with the Power of OpenAI and useWhisper](https://dev.to/chengsokdara/transform-your-speech-into-text-with-the-power-of-openai-and-usewhisper-5175)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
