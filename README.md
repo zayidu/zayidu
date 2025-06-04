@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deploying a Static Website with AWS under $1 per month](https://dev.to/pkkolla/deploying-a-static-website-with-aws-under-1-per-month-1m6e)
+- [Reglas administradas AWS WAF Owasp Top Ten](https://dev.to/cyb3rcloud8888/reglas-administradas-aws-waf-owasp-top-ten-3f7)
 - [Moving billboard event counting into a background job](https://dev.to/ben/moving-billboard-event-counting-into-a-background-job-85c)
 - [Security Starts With Developer Enablement: Lessons From PHP TEK 2025](https://dev.to/gitguardian/security-starts-with-developer-enablement-lessons-from-php-tek-2025-na5)
 - [Update: I ordered loops as a stop gap. Gotta start somewhere!](https://dev.to/jess/update-i-ordered-loops-as-a-stop-gap-gotta-start-somewhere-3n6e)
-- [Why Most AI in Language Learning Apps Is Just Flashy Garbage](https://dev.to/yaptech/why-most-ai-in-language-learning-apps-is-just-flashy-garbage-24b1)
-- [When Identity Becomes UI: Reflections on Ego, Skin, and the Invisible Code Between Us](https://dev.to/versiqcontent/when-identity-becomes-ui-reflections-on-ego-skin-and-the-invisible-code-between-us-4ndi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
