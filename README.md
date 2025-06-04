@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re so obsolete!](https://dev.to/baltasarq/youre-so-obsolete-1hgi)
 - [Hey, i&#39;m getting this error while publishing since yesterday, Whoops, something went wrong: status: 500 error: Internal Server Error Kindly solve this, @DevTo community team](https://dev.to/avinashvagh/hey-im-getting-this-error-while-publishing-since-yesterday-whoops-something-went-wrong-4e53)
 - [Exploring the Intersection of Functional and Object-Oriented Programming in JS](https://dev.to/omriluz1/exploring-the-intersection-of-functional-and-object-oriented-programming-in-js-3eac)
 - [A Modern Approach of Implementing Dark Mode](https://dev.to/renekaesler/a-modern-approach-of-implementing-dark-mode-20f8)
 - [This is very useful resources](https://dev.to/lelisa_yohanes_d6202ac89d/this-is-very-useful-resources-130b)
-- [I Just Saved 20 Hours a Week With This One Privacy Trick](https://dev.to/mehwish_malik_4f29ff7fb04/i-just-saved-20-hours-a-week-with-this-one-privacy-trick-9lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
