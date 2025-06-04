@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to calculate your real GitHub Actions usage in minutes](https://dev.to/depot/how-to-calculate-your-real-github-actions-usage-in-minutes-nlb)
-- [Self hosted maps for &lpar;practically&rpar; free](https://dev.to/aaronblondeau/self-hosted-maps-for-practically-free-1i3n)
-- [How to Build a Web MRZ Scanner and Reader with HTML5 and JavaScript](https://dev.to/yushulx/how-to-build-a-web-mrz-scanner-and-reader-with-html5-and-javascript-137d)
-- [🔐 AppArmor and ROS2 – The Article I Tried Not to Write](https://dev.to/sebos/apparmor-and-ros2-the-article-i-tried-not-to-write-1fme)
-- [Make In A Day: Sudoku](https://dev.to/chigbeef_77/make-in-a-day-sudoku-36fb)
+- [Complete Guide to Review, Release, and Common Issues](https://dev.to/xhunmon/complete-guide-to-review-release-and-common-issues-3em2)
+- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
+- [Nginx location 匹配机制](https://dev.to/dragon72463399/nginx-location-pi-pei-ji-zhi-2p4a)
+- [Secrets Are Still Killing Pipelines: The Rise of Secretless DevOps](https://dev.to/kedster/secrets-are-still-killing-pipelines-the-rise-of-secretless-devops-16c1)
+- [🚀 From Manual Clicks to Code: My First Step into Terraform &lpar;And Why You Should Too&rpar;](https://dev.to/latchudevops/from-manual-clicks-to-code-my-first-step-into-terraform-and-why-you-should-too-4m7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
