@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/badmonster0/-1f0a)
-- [Build Real-Time Knowledge Graphs from Documents Using CocoIndex + Kuzu &lpar;with LLMs &amp; Live Updates&rpar;](https://dev.to/cocoindex/build-real-time-knowledge-graphs-from-documents-using-cocoindex-kuzu-with-llms-live-updates-n1b)
-- [Day 14/30 - Git Reset: Soft, Hard, and Mixed - Undo Commits at Different Levels](https://dev.to/ruqaiya_beguwala/day-1430-git-reset-soft-hard-and-mixed-undo-commits-at-different-levels-4me4)
-- [A School Hub, My native PHP project!](https://dev.to/adham_hashem/a-shool-hub-my-native-php-project-206p)
-- [Ephemeral Design Manifesto](https://dev.to/hamajyotan/ephemeral-design-manifesto-1km7)
+- [What Is a WAF—and Why Your Web App Needs One](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-and-why-your-web-app-needs-one-32bg)
+- [Achieving Net-Zero Goals with Smart Building Technologies](https://dev.to/bridgegroupsolutions/achieving-net-zero-goals-with-smart-building-technologies-1mkm)
+- [readme](https://dev.to/armaankhan8270/readme-2fbd)
+- [Clean Code: The Art of Self-Documenting Code](https://dev.to/luke_tong_d4f228249f32d86/clean-code-the-art-of-self-documenting-code-509o)
+- [My Desktop Was a Mess — So I Wrote a Python Script!!](https://dev.to/enincy/my-desktop-was-a-mess-so-i-wrote-a-python-script-412d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
