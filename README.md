@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Translation API for Business Use](https://dev.to/colinreed/best-translation-api-for-business-use-3lf5)
+- [How to Generate an AI SBOM, and What Tools to Use](https://dev.to/jozu/how-to-generate-an-ai-sbom-and-what-tools-to-use-9gg)
+- [An overview of the security of lower-level TCP/IP protocols](https://dev.to/dima853/an-overview-of-the-security-of-lower-level-tcpip-protocols-4fnf)
 - [Why Language Learning Streaks Fail, and How Rewards Ignite Real Motivation](https://dev.to/yaptech/why-language-learning-streaks-fail-and-how-rewards-ignite-real-motivation-34c9)
 - [MCP + ADK with Privacy](https://dev.to/omanandswami2005/-29n9)
-- [🔐 ADK &amp; MCP: Your AI&#39;s Privacy Shield or Backdoor? What Indian Developers MUST Know!](https://dev.to/omanandswami2005/adk-mcp-your-ais-privacy-shield-or-backdoor-what-indian-developers-must-know-4pmj)
-- [Tidbit 01: How Does Event Loop Handle Promises?](https://dev.to/atapas/how-does-event-loop-handle-promises-ever-thought-57df)
-- [The First Rule of Shadow Tooling](https://dev.to/linkbenjamin/the-first-rule-of-shadow-tooling-3oki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
