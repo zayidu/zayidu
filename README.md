@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt for Comprehensive Codebase Exploration and Documentation from Multi-Perspective Analysis](https://dev.to/tonegabes/prompt-for-comprehensive-codebase-exploration-and-documentation-from-multi-perspective-analysis-1h55)
-- [Birth of StopLang – A Useless Language With a Very Specific Purpose](https://dev.to/snskarora/birth-of-stoplang-a-useless-language-with-a-very-specific-purpose-d2j)
-- [SQL for Everyone: The Ultimate Starter Guide](https://dev.to/_bhupeshk_/sql-for-everyone-the-ultimate-starter-guide-1h3d)
-- [GeoNetwork-ui custom applications made easy](https://dev.to/fgravin/geonetwork-ui-custom-applications-made-easy-33bj)
-- [$250 to Financial Freedom: My Real, Step-by-Step Journey](https://dev.to/senzy01/250-to-financial-freedom-my-real-step-by-step-journey-4p8b)
+- [The 12 Best Entity Component Systems for C++](https://dev.to/marcosplusplus/the-12-best-entity-component-systems-for-c-98h)
+- [Os 12 Melhores Entity Component System para C++](https://dev.to/marcosplusplus/os-12-melhores-entity-component-system-para-c-50p4)
+- [More Than Cleanliness: The Truth About OCD](https://dev.to/vitalhealthpsychiatry_846/more-than-cleanliness-the-truth-about-ocd-4n0f)
+- [Recuperando a soberania e a privacidade da sua comunicação pessoal e corporativa](https://dev.to/isafashiondev/recuperando-a-soberania-e-a-privacidade-da-sua-comunicacao-pessoal-e-corporativa-id3)
+- [Apache Helm Chart](https://dev.to/mahir_dasare_333/apache-helm-chart-294n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
