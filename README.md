@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt Hackathon Day 6/30: UI](https://dev.to/thankamatho/bolt-hackathon-day-630-ui-1ndk)
-- [From JVM to Native Compilation with Spring Boot: What It Means and Why It Matters](https://dev.to/jhonifaber/from-jvm-to-native-compilation-with-spring-boot-what-it-means-and-why-it-matters-3nk5)
-- [Subscription Intelligence Hub](https://dev.to/jasmin/subscription-intelligence-hub-3gcm)
-- [Personal milestone: 25,000 followers! Thank you!](https://dev.to/fmerian/personal-milestone-25000-followers-thank-you-2i5n)
-- [How Edge Computing and CDNs Supercharge Web Performance in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/how-edge-computing-and-cdns-supercharge-web-performance-in-2025-4gpl)
+- [Return to the World of AI Mechanics](https://dev.to/annaspies/return-to-the-world-of-ai-mechanics-43d4)
+- [🔤 Beginner-Friendly Guide to Solving &quot;Lexicographically Smallest Equivalent String&quot; | LeetCode 1061 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-lexicographically-smallest-equivalent-string-leetcode-1061-1jg9)
+- [0day RCE Vulnerability in Apusic Application Server via IIOP Deserialization](https://dev.to/sharon_42e16b8da44dabde6d/0day-rce-vulnerability-in-apusic-application-server-via-iiop-deserialization-4fl5)
+- [🧵 Thread vs Process in a nutshell](https://dev.to/sajidurshajib/thread-vs-process-in-a-nutshell-5bjp)
+- [Travel Itinerary Builder - AI-Powered Email-First Travel Organization](https://dev.to/axrisi/travel-itinerary-builder-ai-powered-email-first-travel-organization-1pop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
