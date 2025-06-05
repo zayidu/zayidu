@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Careless People by Sarah Wynn-Williams - Book Review](https://dev.to/wsvincent/careless-people-by-sarah-wynn-williams-book-review-1c3o)
+- [Terraform Installation Guide](https://dev.to/devopsplayground/terraform-installation-guide-492i)
+- [Using Discord Components v2 with Discord.js 🔥](https://dev.to/best_codes/using-discord-components-v2-with-discordjs-8f)
+- [Designing Distributed Systems: Sagas and Trade-Offs](https://dev.to/randazraik/designing-distributed-systems-sagas-and-trade-offs-2o0p)
 - [Best Translation API for Business Use](https://dev.to/colinreed/best-translation-api-for-business-use-3lf5)
-- [How to Generate an AI SBOM, and What Tools to Use](https://dev.to/jozu/how-to-generate-an-ai-sbom-and-what-tools-to-use-9gg)
-- [An overview of the security of lower-level TCP/IP protocols](https://dev.to/dima853/an-overview-of-the-security-of-lower-level-tcpip-protocols-4fnf)
-- [Why Language Learning Streaks Fail, and How Rewards Ignite Real Motivation](https://dev.to/yaptech/why-language-learning-streaks-fail-and-how-rewards-ignite-real-motivation-34c9)
-- [MCP + ADK with Privacy](https://dev.to/omanandswami2005/-29n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
