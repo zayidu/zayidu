@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing MCPX: A Gateway for Governing AI Agent Tool Usage](https://dev.to/esoloz/introducing-mcpx-a-gateway-for-governing-ai-agent-tool-usage-1ni)
+- [Choosing Your Developer Path Series: Don’t Wait for Permission to Grow](https://dev.to/tlorent/choosing-your-developer-path-series-dont-wait-for-permission-to-grow-3pma)
+- [10 Common React Mistakes New Developers Make &lpar;and How to Fix Them&rpar;](https://dev.to/harimanok/10-common-react-mistakes-new-developers-make-and-how-to-fix-them-ckb)
 - [The Domino Effect: How One Tiny Bug Can Kill Your Startup](https://dev.to/arbythecoder/the-domino-effect-how-one-tiny-bug-can-kill-your-startup-26a)
 - [Runtime-initialized variables in Rust](https://dev.to/nfrankel/runtime-initialized-variables-in-rust-bam)
-- [KS Wallet Explained: A Developer-Friendly Web3 Wallet Built for Scale](https://dev.to/kalpstudio/ks-wallet-explained-a-developer-friendly-web3-wallet-built-for-scale-3jkj)
-- [Showcase Your GitHub Repository’s Users in the README [&lt; 5 Mins]](https://dev.to/gouravkhunger/showcase-your-github-repositorys-users-in-the-readme-5-mins-16cn)
-- [Step-by-Step Guide to Run Llama 4 Locally with Tool Calling Enabled](https://dev.to/nodeshiftcloud/step-by-step-guide-to-run-llama-4-locally-with-tool-calling-enabled-jg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
