@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Arbitrary File Read Vulnerability in Vite &lpar;CVE-2025-31125&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/arbitrary-file-read-vulnerability-in-vite-cve-2025-31125-1p35)
 - [Return to the World of AI Mechanics](https://dev.to/annaspies/return-to-the-world-of-ai-mechanics-43d4)
 - [🔤 Beginner-Friendly Guide to Solving &quot;Lexicographically Smallest Equivalent String&quot; | LeetCode 1061 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-lexicographically-smallest-equivalent-string-leetcode-1061-1jg9)
 - [0day RCE Vulnerability in Apusic Application Server via IIOP Deserialization](https://dev.to/sharon_42e16b8da44dabde6d/0day-rce-vulnerability-in-apusic-application-server-via-iiop-deserialization-4fl5)
 - [🧵 Thread vs Process in a nutshell](https://dev.to/sajidurshajib/thread-vs-process-in-a-nutshell-5bjp)
-- [Travel Itinerary Builder - AI-Powered Email-First Travel Organization](https://dev.to/axrisi/travel-itinerary-builder-ai-powered-email-first-travel-organization-1pop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
