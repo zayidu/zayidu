@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing MCPX: A Gateway for Governing AI Agent Tool Usage](https://dev.to/esoloz/introducing-mcpx-a-gateway-for-governing-ai-agent-tool-usage-1ni)
-- [Choosing Your Developer Path Series: Don’t Wait for Permission to Grow](https://dev.to/tlorent/choosing-your-developer-path-series-dont-wait-for-permission-to-grow-3pma)
-- [10 Common React Mistakes New Developers Make &lpar;and How to Fix Them&rpar;](https://dev.to/harimanok/10-common-react-mistakes-new-developers-make-and-how-to-fix-them-ckb)
-- [The Domino Effect: How One Tiny Bug Can Kill Your Startup](https://dev.to/arbythecoder/the-domino-effect-how-one-tiny-bug-can-kill-your-startup-26a)
-- [Runtime-initialized variables in Rust](https://dev.to/nfrankel/runtime-initialized-variables-in-rust-bam)
+- [Why Language Learning Streaks Fail, and How Rewards Ignite Real Motivation](https://dev.to/yaptech/why-language-learning-streaks-fail-and-how-rewards-ignite-real-motivation-34c9)
+- [MCP + ADK with Privacy](https://dev.to/omanandswami2005/-29n9)
+- [🔐 ADK &amp; MCP: Your AI&#39;s Privacy Shield or Backdoor? What Indian Developers MUST Know!](https://dev.to/omanandswami2005/adk-mcp-your-ais-privacy-shield-or-backdoor-what-indian-developers-must-know-4pmj)
+- [Tidbit 01: How Does Event Loop Handle Promises?](https://dev.to/atapas/how-does-event-loop-handle-promises-ever-thought-57df)
+- [The First Rule of Shadow Tooling](https://dev.to/linkbenjamin/the-first-rule-of-shadow-tooling-3oki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
