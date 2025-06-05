@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nx Monorepo Guide: React &amp; Node Fullstack App](https://dev.to/mayallo/nx-monorepo-guide-react-node-fullstack-app-1bhe)
-- [The AI Revolution You Didn&#39;t See Coming: How &quot;Attention Is All You Need&quot; Changed Everything](https://dev.to/anurag_deo_83cb605e78d252/the-ai-revolution-you-didnt-see-coming-how-attention-is-all-you-need-changed-everything-42jh)
-- [Sharing Data Across Next.js Components Using Context API and Hooks &lpar;with REST API Example&rpar;](https://dev.to/bdhamithkumara/sharing-data-across-nextjs-components-using-context-api-and-hooks-with-rest-api-example-mma)
-- [What Is a DDoS Attack and How Can We Defend Against It?](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-ddos-attack-and-how-can-we-defend-against-it-p06)
-- [Next-Gen API Documentation: Game-Changing AI Trends for Developers by 2025🔥](https://dev.to/fallon_jimmy/the-future-of-api-documentation-revolutionary-trends-that-will-transform-development-by-2025-3cbf)
+- [40+ Beautiful CSS Buttons You Can Copy and Paste Instantly](https://dev.to/devshefali/40-beautiful-css-buttons-you-can-copy-and-paste-instantly-40ph)
+- [Beyond Projects: Why Every Developer Should Embrace the Product Mindset](https://dev.to/satyabrata_dd224dce47e7bc/beyond-projects-why-every-developer-should-embrace-the-product-mindset-i14)
+- [Inbox Innovation with Postmark: Presenting InboxNinja 🥷](https://dev.to/vivekthedev/inbox-innovation-with-postmark-presenting-inboxninja-2oma)
+- [I just wrote a simple tutorial showing how to build your own Python LLM web app using Streamlit from scratch! https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-2-streamlit-fsm-277g](https://dev.to/zachary62/i-just-wrote-a-simple-tutorial-showing-how-to-build-your-own-python-llm-web-app-using-streamlit-1ahp)
+- [SafeLine vs Cloudflare WAF: Which One Fits Your Web Security Needs?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-cloudflare-waf-which-one-fits-your-web-security-needs-1elp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
