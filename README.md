@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Your Guide to Terraform Variables](https://dev.to/terraformmonkey/your-guide-to-terraform-variables-27kb)
-- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/serina_8340/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29if)
-- [Docker কি জিনিস?](https://dev.to/emdadulislam/docker-ki-jinis-21ah)
-- [Kubernetes &lpar;K8s&rpar; কি জিনিস? আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kubernetes-k8s-ki-jinis-aaddddaay-shikhe-nii-30p5)
-- [কাফকা &lpar;Apache Kafka&rpar; কি জিনিস? বন্ধুদের আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kaaphkaa-apache-kafka-ki-jinis-bndhuder-aaddddaay-shikhe-nii-1o0o)
+- [Inbox in Discord](https://dev.to/vivekthedev/-38mo)
+- [Why Rate Limiting Is Critical for API Security](https://dev.to/sharon_42e16b8da44dabde6d/why-rate-limiting-is-critical-for-api-security-4gij)
+- [How to Install and Run Sarvam – M Locally?](https://dev.to/nodeshiftcloud/how-to-install-and-run-sarvam-m-locally-2b0i)
+- [🚀Top 10 MCP Servers for 2025 &lpar;Yes, GitHub’s Included!&rpar;](https://dev.to/fallon_jimmy/top-10-mcp-servers-for-2025-yes-githubs-included-15jg)
+- [Building Real-Time Text Streaming with SSE in Node.js](https://dev.to/axrisi/building-real-time-text-streaming-with-sse-in-nodejs-4d5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
