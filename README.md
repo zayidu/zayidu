@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RESTful CRUD Everything](https://dev.to/epigene/restful-crud-everything-i87)
-- [Abstraction in JavaScript: Washing Machine Style!&quot;](https://dev.to/atapas/abstraction-in-javascript-washing-machine-style-5cc2)
-- [Mastering MongoDB Aggregation for Real Projects: From Basics to Real-World Powerhouse](https://dev.to/raajaryan/mastering-mongodb-aggregation-for-real-projects-from-basics-to-real-world-powerhouse-2d14)
-- [5 Prompts That Cut My Development Time in Half](https://dev.to/bytesandvibes/5-prompts-that-cut-my-development-time-in-half-23g7)
-- [How I automated the LinkedIn Profile Extract and JSON Resume Building with Bright Data &amp; Google Gemini](https://dev.to/ranjancse/how-i-automated-the-linkedin-profile-extract-and-json-resume-building-with-bright-data-google-1o6j)
+- [Lemon Squeey React Next.js Payments](https://dev.to/shreyvijayvargiya/lemon-squeey-react-nextjs-payments-2k3a)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-58d6)
+- [How to Create an Animated Button with Hover Sound in React](https://dev.to/duythenight/how-to-create-an-animated-button-with-hover-sound-in-react-273p)
+- [There are so many challenges and hackathons live right now!](https://dev.to/devteam/there-are-so-many-challenges-and-hackathons-live-right-now-5eo7)
+- [10 Useful JavaScript Utility Functions Every Developer Should Know](https://dev.to/sudhanshudevelopers/10-useful-javascript-utility-functions-every-developer-should-know-1fmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
