@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [All Langfuse Product Features now Free Open-Source](https://dev.to/clemra/all-langfuse-product-features-now-free-open-source-4140)
+- [🔐 NookChat – A One-Time Encrypted, Anonymous Chat App &lpar;No Login Required&rpar;](https://dev.to/dharamgfx/nookchat-a-one-time-encrypted-anonymous-chat-app-no-login-required-3hog)
 - [How to Prevent AI Agents From Breaking in Production](https://dev.to/gerimate/how-to-prevent-ai-agents-from-breaking-in-production-24c3)
 - [How to Translate Document &amp; Keep the Formatting](https://dev.to/elenahartmann/how-to-translate-document-keep-the-formatting-35c8)
 - [I Built the Best Portfolio Ever 💼✨](https://dev.to/boluwatifeilerioluwa/i-built-the-best-portfolio-ever-2j5p)
-- [7 is the perfect number](https://dev.to/juanfrank77/7-is-the-perfect-number-35lf)
-- [How to Manually Install SafeLine WAF](https://dev.to/carrie_luo1/how-to-manually-install-safeline-waf-44ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
