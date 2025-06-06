@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How does ChatGPT generate human-like text?](https://dev.to/swarupinfotech1/how-does-chatgpt-generate-human-like-text-1mmo)
-- [Ming: A CQRS Experiment in Elixir](https://dev.to/actor-dev/ming-elixir-project-to-cqrs-1m8o)
-- [Easiest Way to Migrate SafeLine WAF Data &lpar;Works in Minutes&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/easiest-way-to-migrate-safeline-waf-data-works-in-minutes-94i)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-e3m)
-- [Inbox in Discord](https://dev.to/vivekthedev/-38mo)
+- [Building Secure Authentication in Angular with Supabase](https://dev.to/kingsley/building-secure-authentication-in-angular-with-supabase-2e1p)
+- [Make an Image drag and drop with CSS in React](https://dev.to/swarupinfotech1/make-an-image-drag-and-drop-with-css-in-react-3g5b)
+- [Top 10 React js interview questions.](https://dev.to/swarupinfotech1/top-10-react-js-interview-questions-1e19)
+- [Top 10 ES6 Features that Every Developer Should know](https://dev.to/swarupinfotech1/top-10-es6-features-that-every-developer-should-know-52pj)
+- [[Boost]](https://dev.to/pranesh_patel/-2fj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
