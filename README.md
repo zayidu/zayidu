@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building YAP’s Community: How I’m Leading the Charge and Why I’m the Best Fit](https://dev.to/yaptech/building-yaps-community-how-im-leading-the-charge-and-why-im-the-best-fit-26d5)
-- [Integrando Podcasts a Kiu: Cómo Construí un Agente Virtual Serverless con AWS Bedrock y Pinecone](https://dev.to/fernandosilvot/integrando-podcasts-a-kiu-como-construi-un-agente-virtual-serverless-con-aws-bedrock-y-pinecone-3l6e)
-- [Day 1 of getting my extension to 1,000 users](https://dev.to/arzuno/day-1-of-getting-my-extension-to-1000-users-42np)
-- [🚀 Mastering select_for_update&lpar;&rpar; in Django: Prevent Race Conditions the Right Way](https://dev.to/karaa1122/mastering-selectforupdate-in-django-prevent-race-conditions-the-right-way-4l56)
-- [An awesome event to get hands on experience with the Google Workspace Developer Relations team. Check it out and register!](https://dev.to/jpoehnelt/an-awesome-event-to-get-hands-on-experience-with-the-google-workspace-developer-relations-team-2em)
+- [Your Bundle is Lying to You: Hidden Costs of Tree-Shaking](https://dev.to/abhinavshinoy90/your-bundle-is-lying-to-you-hidden-costs-of-tree-shaking-15pd)
+- [🚀 Build a Custom Scheduling Page in Minutes with Cogency.io &lpar;No Code Needed&rpar;](https://dev.to/dailysandbox/build-a-custom-scheduling-page-in-minutes-with-cogencyio-no-code-needed-4fa8)
+- [Security news weekly round-up - 6th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-6th-june-2025-4118)
+- [How I Got Cited by ChatGPT, Perplexity, and Grok — Without Gaming the System](https://dev.to/blackblocksheep/how-i-got-cited-by-chatgpt-perplexity-and-grok-without-gaming-the-system-fg1)
+- [Learning Perl – Introduction](https://dev.to/lnation/learning-perl-introduction-3d1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
