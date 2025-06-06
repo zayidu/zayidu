@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Suggestions for my startup](https://dev.to/rohit_shukla_ed709c29220c/suggestions-for-my-startup-1n2n)
-- [Honoring National Donut Day 2025](https://dev.to/axrisi/honoring-national-donut-day-2025-f49)
-- [NextJS alternatives?](https://dev.to/gnrlbzik/nextjs-alternatives-1ggn)
-- [Scaffolding Elegance: Mastering `Microsoft.EntityFrameworkCore.Design` &lpar;v9.0.5&rpar; in ASP.NET Core Web API](https://dev.to/cristiansifuentes/scaffolding-elegance-mastering-microsoftentityframeworkcoredesign-v905-in-aspnet-core-web-nn3)
-- [React Testing Setup: Vitest + TypeScript + React Testing Library](https://dev.to/kevinccbsg/react-testing-setup-vitest-typescript-react-testing-library-42c8)
+- [What do you think about my Runner H challenge project? I’d love your thoughts!](https://dev.to/nachioflagos/what-do-you-think-about-my-runner-h-challenge-project-id-love-your-thoughts-5b7g)
+- [Building a Multimodal Deep Research Agent](https://dev.to/mixpeek/building-a-multimodal-deep-research-agent-ha6)
+- [Learning Xahau: Time as a Variable for Your Business](https://dev.to/ekiserrepe/learning-xahau-time-as-a-variable-for-your-business-2a6c)
+- [Stop Typing Interfaces Manually — This VSCode Extension Does It for You](https://dev.to/onedev/stop-typing-interfaces-manually-this-vscode-extension-does-it-for-you-1p8a)
+- [Laravel 12 Routing Features: A Comprehensive Guide with Examples](https://dev.to/techsolver94/laravel-12-routing-features-a-comprehensive-guide-with-examples-4ock)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
