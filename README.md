@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AI Testing Tools You Need In 2025](https://dev.to/therealmrmumba/top-10-ai-testing-tools-you-need-in-2025-3e7k)
-- [Power BI Tutorial: From Data to Dashboard in Minutes](https://dev.to/tpointtechblog/power-bi-tutorial-from-data-to-dashboard-in-minutes-1o6o)
-- [[Boost]](https://dev.to/anthonymax/-26c2)
-- [How to Implement JOIN Operations Between Tables from Different Databases with esProc?](https://dev.to/esproc_spl/how-to-implement-join-operations-between-tables-from-different-databases-with-esproc-1g32)
-- [🤖 Greedy Robot &amp; Lexicographically Smallest String | LeetCode 2434 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/greedy-robot-lexicographically-smallest-string-leetcode-2434-c-javascript-python-3k4)
+- [🧠 Your Guide to Terraform Variables](https://dev.to/terraformmonkey/your-guide-to-terraform-variables-27kb)
+- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/serina_8340/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29if)
+- [Docker কি জিনিস?](https://dev.to/emdadulislam/docker-ki-jinis-21ah)
+- [Kubernetes &lpar;K8s&rpar; কি জিনিস? আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kubernetes-k8s-ki-jinis-aaddddaay-shikhe-nii-30p5)
+- [কাফকা &lpar;Apache Kafka&rpar; কি জিনিস? বন্ধুদের আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kaaphkaa-apache-kafka-ki-jinis-bndhuder-aaddddaay-shikhe-nii-1o0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
