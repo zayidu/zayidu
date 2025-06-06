@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Bloomlog: Build a Journaling Habit in Just 1 Minute a Day](https://dev.to/bloomlog/introducing-bloomlog-build-a-journaling-habit-in-just-1-minute-a-day-36i5)
-- [Why Most Productivity and Mindfulness Apps Fail After Day Two](https://dev.to/bloomlog/why-most-productivity-and-mindfulness-apps-fail-after-day-two-1oii)
-- [Bolt Hackathon Day 7: Day Off](https://dev.to/thankamatho/bolt-hackathon-day-7-day-off-2lih)
-- [Story Hero - Dev Log - Day 7](https://dev.to/danielreiling/story-hero-dev-log-day-7-1dl6)
-- [How to Make ChatGPT Codex Work with PHP and Symfony](https://dev.to/javiereguiluz/how-to-make-chatgpt-codex-work-with-php-and-symfony-4lj8)
+- [If your app solves real problems, the frontend doesn&#39;t matter.](https://dev.to/boluwatifeilerioluwa/if-your-app-solves-real-problems-the-frontend-doesnt-matter-4gcl)
+- [My GitHub activity this year 💪💪](https://dev.to/boluwatifeilerioluwa/my-github-activity-this-year-4837)
+- [Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to Store Receipts Stapled Into Console&#39;s Box](https://dev.to/gg_news/nintendo-switch-2-screen-punctures-ruin-launch-day-for-fans-due-to-store-receipts-stapled-into-9ef)
+- [Rumour: Hunter Schafer is being eyed as Princess Zelda in the Zelda movie](https://dev.to/gg_news/rumour-hunter-schafer-is-being-eyed-as-princess-zelda-in-the-zelda-movie-5hb8)
+- [Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to GameStop Receipts Stapled Into Console&#39;s Box](https://dev.to/gg_news/nintendo-switch-2-screen-punctures-ruin-launch-day-for-fans-due-to-gamestop-receipts-stapled-into-3lmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
