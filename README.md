@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-2-bcc)
-- [Runner H Viral Content Factory Agent](https://dev.to/axrisi/runner-h-viral-content-factory-agent-chn)
-- [Resurgence of Software Design in 2025?](https://dev.to/epigene/resurgence-of-software-design-in-2025-af3)
-- [Lemon Squeey React Next.js Payments](https://dev.to/shreyvijayvargiya/lemon-squeey-react-nextjs-payments-2k3a)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-58d6)
+- [Building the Web with Rust: Here&#39;s Why It Matters](https://dev.to/leapcell/building-the-web-with-rust-heres-why-it-matters-3efk)
+- [10 VS Code Extensions I Can’t Live Without in 2025](https://dev.to/odqin/10-vs-code-extensions-i-cant-live-without-in-2025-35d6)
+- [EA admits that embracing AI could lead to fans losing confidence in the company and its brands.](https://dev.to/gg_news/ea-admits-that-embracing-ai-could-lead-to-fans-losing-confidence-in-the-company-and-its-brands-5eh0)
+- [Meta&#39;s reportedly shopping for exclusive Disney and A24 content on its upcoming ultralight XR headset](https://dev.to/future_arvr/metas-reportedly-shopping-for-exclusive-disney-and-a24-content-on-its-upcoming-ultralight-xr-8l9)
+- [OpenAI is storing deleted ChatGPT conversations as part of its NYT lawsuit](https://dev.to/future_ai/openai-is-storing-deleted-chatgpt-conversations-as-part-of-its-nyt-lawsuit-1m12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
