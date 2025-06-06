@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #237: RSC, TanStack, Storybook | Legacy Arch, Hermes N-API | TC39, Import Maps, Vite, Vitest...](https://dev.to/sebastienlorber/this-week-in-react-237-rsc-tanstack-storybook-legacy-arch-hermes-n-api-tc39-import-maps-4jl)
-- [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
-- [10 Cool CodePen Demos &lpar;May 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2025-557d)
-- [🌊 Master Gitflow Branching Strategy — Step-by-Step Guide with Hands-on HTML Project](https://dev.to/latchudevops/master-gitflow-branching-strategy-step-by-step-guide-with-hands-on-html-project-2m5e)
-- [This Week In React #236 : Remix, TanStack, RSC | ExecuTorch, Screens, FlashList, Reanimated, Expo, EAS, Radon...](https://dev.to/sebastienlorber/this-week-in-react-236-remix-tanstack-rsc-executorch-screens-flashlist-reanimated-expo-nk)
+- [How to Prevent AI Agents From Breaking in Production](https://dev.to/gerimate/how-to-prevent-ai-agents-from-breaking-in-production-24c3)
+- [How to Translate Document &amp; Keep the Formatting](https://dev.to/elenahartmann/how-to-translate-document-keep-the-formatting-35c8)
+- [I Built the Best Portfolio Ever 💼✨](https://dev.to/boluwatifeilerioluwa/i-built-the-best-portfolio-ever-2j5p)
+- [7 is the perfect number](https://dev.to/juanfrank77/7-is-the-perfect-number-35lf)
+- [How to Manually Install SafeLine WAF](https://dev.to/carrie_luo1/how-to-manually-install-safeline-waf-44ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
