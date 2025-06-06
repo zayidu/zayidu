@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What do you think about my Runner H challenge project? I’d love your thoughts!](https://dev.to/nachioflagos/what-do-you-think-about-my-runner-h-challenge-project-id-love-your-thoughts-5b7g)
-- [Building a Multimodal Deep Research Agent](https://dev.to/mixpeek/building-a-multimodal-deep-research-agent-ha6)
-- [Learning Xahau: Time as a Variable for Your Business](https://dev.to/ekiserrepe/learning-xahau-time-as-a-variable-for-your-business-2a6c)
-- [Stop Typing Interfaces Manually — This VSCode Extension Does It for You](https://dev.to/onedev/stop-typing-interfaces-manually-this-vscode-extension-does-it-for-you-1p8a)
-- [Laravel 12 Routing Features: A Comprehensive Guide with Examples](https://dev.to/techsolver94/laravel-12-routing-features-a-comprehensive-guide-with-examples-4ock)
+- [Building YAP’s Community: How I’m Leading the Charge and Why I’m the Best Fit](https://dev.to/yaptech/building-yaps-community-how-im-leading-the-charge-and-why-im-the-best-fit-26d5)
+- [Integrando Podcasts a Kiu: Cómo Construí un Agente Virtual Serverless con AWS Bedrock y Pinecone](https://dev.to/fernandosilvot/integrando-podcasts-a-kiu-como-construi-un-agente-virtual-serverless-con-aws-bedrock-y-pinecone-3l6e)
+- [Day 1 of getting my extension to 1,000 users](https://dev.to/arzuno/day-1-of-getting-my-extension-to-1000-users-42np)
+- [🚀 Mastering select_for_update&lpar;&rpar; in Django: Prevent Race Conditions the Right Way](https://dev.to/karaa1122/mastering-selectforupdate-in-django-prevent-race-conditions-the-right-way-4l56)
+- [An awesome event to get hands on experience with the Google Workspace Developer Relations team. Check it out and register!](https://dev.to/jpoehnelt/an-awesome-event-to-get-hands-on-experience-with-the-google-workspace-developer-relations-team-2em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
