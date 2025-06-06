@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Full-Scope Tests Passed! A Practical Guide to Apache DolphinScheduler 3.2.0 Single-Node Deployment and Verification](https://dev.to/chen_debra_3060b21d12b1b0/full-scope-tests-passed-a-practical-guide-to-apache-dolphinscheduler-320-single-node-deployment-1iba)
+- [Mastering Kubernetes Scheduling: A Comprehensive Guide to Taints and Tolerations](https://dev.to/mechcloud_academy/mastering-kubernetes-scheduling-a-comprehensive-guide-to-taints-and-tolerations-4bjd)
+- [What is Generative AI? Like I’m 10!](https://dev.to/kedark/what-is-generative-ai-like-im-10-1hdi)
+- [Daily JavaScript Challenge #JS-199: Find the Longest Increasing Subsequence](https://dev.to/dpc/daily-javascript-challenge-js-199-find-the-longest-increasing-subsequence-12m0)
 - [If your app solves real problems, the frontend doesn&#39;t matter.](https://dev.to/boluwatifeilerioluwa/if-your-app-solves-real-problems-the-frontend-doesnt-matter-4gcl)
-- [My GitHub activity this year 💪💪](https://dev.to/boluwatifeilerioluwa/my-github-activity-this-year-4837)
-- [Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to Store Receipts Stapled Into Console&#39;s Box](https://dev.to/gg_news/nintendo-switch-2-screen-punctures-ruin-launch-day-for-fans-due-to-store-receipts-stapled-into-9ef)
-- [Rumour: Hunter Schafer is being eyed as Princess Zelda in the Zelda movie](https://dev.to/gg_news/rumour-hunter-schafer-is-being-eyed-as-princess-zelda-in-the-zelda-movie-5hb8)
-- [Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to GameStop Receipts Stapled Into Console&#39;s Box](https://dev.to/gg_news/nintendo-switch-2-screen-punctures-ruin-launch-day-for-fans-due-to-gamestop-receipts-stapled-into-3lmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
