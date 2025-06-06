@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 AI Testing Tools You Need In 2025](https://dev.to/therealmrmumba/top-10-ai-testing-tools-you-need-in-2025-3e7k)
+- [Power BI Tutorial: From Data to Dashboard in Minutes](https://dev.to/tpointtechblog/power-bi-tutorial-from-data-to-dashboard-in-minutes-1o6o)
+- [[Boost]](https://dev.to/anthonymax/-26c2)
 - [How to Implement JOIN Operations Between Tables from Different Databases with esProc?](https://dev.to/esproc_spl/how-to-implement-join-operations-between-tables-from-different-databases-with-esproc-1g32)
 - [🤖 Greedy Robot &amp; Lexicographically Smallest String | LeetCode 2434 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/greedy-robot-lexicographically-smallest-string-leetcode-2434-c-javascript-python-3k4)
-- [Critical RCE Vulnerabilities Found in DataEase &lpar;CVE-2025-49001/49002&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-rce-vulnerabilities-found-in-dataease-cve-2025-4900149002-4bl4)
-- [Full-Scope Tests Passed! A Practical Guide to Apache DolphinScheduler 3.2.0 Single-Node Deployment and Verification](https://dev.to/chen_debra_3060b21d12b1b0/full-scope-tests-passed-a-practical-guide-to-apache-dolphinscheduler-320-single-node-deployment-1iba)
-- [Mastering Kubernetes Scheduling: A Comprehensive Guide to Taints and Tolerations](https://dev.to/mechcloud_academy/mastering-kubernetes-scheduling-a-comprehensive-guide-to-taints-and-tolerations-4bjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
