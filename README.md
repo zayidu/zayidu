@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Web with Rust: Here&#39;s Why It Matters](https://dev.to/leapcell/building-the-web-with-rust-heres-why-it-matters-3efk)
-- [10 VS Code Extensions I Can’t Live Without in 2025](https://dev.to/odqin/10-vs-code-extensions-i-cant-live-without-in-2025-35d6)
-- [EA admits that embracing AI could lead to fans losing confidence in the company and its brands.](https://dev.to/gg_news/ea-admits-that-embracing-ai-could-lead-to-fans-losing-confidence-in-the-company-and-its-brands-5eh0)
-- [Meta&#39;s reportedly shopping for exclusive Disney and A24 content on its upcoming ultralight XR headset](https://dev.to/future_arvr/metas-reportedly-shopping-for-exclusive-disney-and-a24-content-on-its-upcoming-ultralight-xr-8l9)
-- [OpenAI is storing deleted ChatGPT conversations as part of its NYT lawsuit](https://dev.to/future_ai/openai-is-storing-deleted-chatgpt-conversations-as-part-of-its-nyt-lawsuit-1m12)
+- [How Law Firms Are Using AI to Draft Faster and Work Smarter](https://dev.to/dalton_abreshears/how-law-firms-are-using-ai-to-draft-faster-and-work-smarter-12m1)
+- [Getting Started with Dependency Management in Rust Using Cargo.toml](https://dev.to/rijultp/getting-started-with-dependency-management-in-rust-using-cargotoml-54oo)
+- [It&#39;s a DONUT!](https://dev.to/axrisi/its-a-donut-3gkk)
+- [How Machines Learn Human Biases in Ethical AI](https://dev.to/williamoliver/how-machines-learn-human-biases-in-ethical-ai-4lfi)
+- [I have been sharing this week what I have learned over the past year, the series currently has ten posts covering the basics of XS. I hope you enjoy them in your own time.](https://dev.to/lnation/i-have-been-sharing-this-week-what-i-have-learned-over-the-past-year-the-series-currently-has-ten-417c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
