@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Image Apps with Gemini and Imagen on Vertex AI](https://dev.to/dataninsight/building-ai-powered-image-apps-with-gemini-and-imagen-on-vertex-ai-5d7f)
-- [SQL Vs NoSQL](https://dev.to/pooja_gujwar_bdcfc66105de/sql-vs-nosql-4m63)
-- [🚀 Roadmap to Becoming a Full Stack Developer in 2025](https://dev.to/mohitdecodes/roadmap-to-becoming-a-full-stack-developer-in-2025-1jf)
-- [How to Get a Transcript of a YouTube Lecture &lpar;Without Downloading Anything&rpar;](https://dev.to/shruti_saraswat_c258d5934/how-to-get-a-transcript-of-a-youtube-lecture-without-downloading-anything-apd)
-- [MailMap: Transforming Emails into Interactive Stories on Google Maps 📍📧](https://dev.to/prema_ananda/mailmap-transforming-emails-into-interactive-stories-on-google-maps-1f10)
+- [What Does a Front-End Developer Do?](https://dev.to/tarunfulera/what-does-a-front-end-developer-do-1jmi)
+- [Python Development](https://dev.to/bridgegroupsolutions/python-development-3ab5)
+- [Chapter 5: Final Touches &amp; Interactive Magic](https://dev.to/prasunchakra/chapter-5-final-touches-interactive-magic-1bdp)
+- [My first post in the community.](https://dev.to/ifeanyi_paul_olughu/my-first-post-in-the-community-580p)
+- [Why setState is delayed in React JS](https://dev.to/mern_dev/why-setstate-is-delayed-in-react-js-2m51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
