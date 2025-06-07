@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Design Assistant: How Codia is Transforming Creative Work](https://dev.to/atforeveryoung/your-ai-design-assistant-how-codia-is-transforming-creative-work-3f2m)
-- [VS2022 External tools in toolbar](https://dev.to/karenpayneoregon/vs2022-external-tools-in-toolbar-1kc3)
-- [🧠 A Beginner’s Guide to Git: What It Is, Why It Matters, and How to Use It.](https://dev.to/carsonbtw/a-beginners-guide-to-git-what-it-is-why-it-matters-and-how-to-use-it-4825)
-- [⚛️ When React Context API Turns Against You: A Late-Night Debugging Story](https://dev.to/juandadev/when-react-context-api-turns-against-you-a-late-night-debugging-story-3bkf)
-- [AutoML Might Be the Most Important Tool You’re Not Using Yet](https://dev.to/superorange0707/automl-might-be-the-most-important-tool-youre-not-using-yet-3pne)
+- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
+- [Let&#39;s GET perfy](https://dev.to/jswhisperer/lets-get-perfy-33ac)
+- [Use Cases for Lazy in AWS CDK](https://dev.to/aws-heroes/use-cases-for-lazy-in-aws-cdk-5g40)
+- [Day 17/30 - Git Revert --no-commit: Revert Multiple Commits Without Auto-Committing](https://dev.to/ruqaiya_beguwala/day-1730-git-revert-no-commit-revert-multiple-commits-without-auto-committing-3e8)
+- [用 Docker 快速架設 Node.js 靜態網站服務](https://dev.to/letswrite/yong-docker-kuai-su-jia-she-nodejs-jing-tai-wang-zhan-fu-wu-5k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
