@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does a Front-End Developer Do?](https://dev.to/tarunfulera/what-does-a-front-end-developer-do-1jmi)
-- [Python Development](https://dev.to/bridgegroupsolutions/python-development-3ab5)
-- [Chapter 5: Final Touches &amp; Interactive Magic](https://dev.to/prasunchakra/chapter-5-final-touches-interactive-magic-1bdp)
-- [My first post in the community.](https://dev.to/ifeanyi_paul_olughu/my-first-post-in-the-community-580p)
-- [Why setState is delayed in React JS](https://dev.to/mern_dev/why-setstate-is-delayed-in-react-js-2m51)
+- [Exploring the Limits of Asynchronous JavaScript with Fibers](https://dev.to/omriluz1/exploring-the-limits-of-asynchronous-javascript-with-fibers-md2)
+- [DNS records for Mail Server](https://dev.to/arifbasri/dns-records-for-mail-server-5ggb)
+- [What is Front Office BPO and How It Works?](https://dev.to/aashika_mehra_eb91362ad65/what-is-front-office-bpo-and-how-it-works-4oc5)
+- [Exploring QA Opportunities &amp; Challenges When Transition from HTMX to HMPL.js](https://dev.to/modalqa/exploring-qa-opportunities-challenges-when-transition-from-htmx-to-hmpljs-586k)
+- [AWS Amplify Evolution Timeline — 2017 to 2025](https://dev.to/aws-builders/aws-amplify-evolution-timeline-2017-to-2025-d83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
