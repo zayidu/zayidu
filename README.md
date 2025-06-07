@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalized Learning Coach](https://dev.to/dobrenteiistvan/personalized-learning-coach-4m1c)
-- [Memory MCP with Semantic Search Support](https://dev.to/mehrant/-k1o)
-- [PIDM — Python Internet Download Manager](https://dev.to/ericluckson1999/pidm-python-internet-download-manager-4ak9)
-- [Problem Solving Doesn’t Take a Break — Even on Eid-ul-Azha 2025](https://dev.to/mahmudulhaqueshawon/problem-solving-doesnt-take-a-break-even-on-eid-ul-azha-2025-4ajm)
-- [Ice Tea celebration in June](https://dev.to/ulrikedetective/ice-tea-celebration-in-june-p7k)
+- [Getting started with Expo and React Native 2025](https://dev.to/its_nish/getting-started-with-expo-and-react-native-2025-51bc)
+- [&quot;I Don’t Know&quot; is a Superpower: How Smart Prompt Engineering Fixes Missing Content in AI](https://dev.to/alex_aslam/i-dont-know-is-a-superpower-how-smart-prompt-engineering-fixes-missing-content-in-ai-1b78)
+- [Hidden Web APIs Developers Are Overlooking in 2025](https://dev.to/arkhan/hidden-web-apis-developers-are-overlooking-in-2025-4g14)
+- [Day2/180 of FrontendDev-What is HTML and Setting Up Your Development Environment](https://dev.to/code_2/day2180-of-frontenddev-what-is-html-and-setting-up-your-development-environment-47h5)
+- [Day2/180 of FrontendDev-What is HTML and Setting Up Your Development Environment](https://dev.to/code_2/day2180-of-frontenddev-what-is-html-and-setting-up-your-development-environment-2kdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
