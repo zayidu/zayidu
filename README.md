@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello dev community I am ZiBi Tech 👨‍💻, passionate about cyber security and coding, hope I am welcome here🚀](https://dev.to/zibeon_webuin_5dae4283061/hello-dev-community-i-am-zibi-tech-passionate-about-cyber-security-and-coding-hope-i-am-3602)
-- [LEDGR - Receipts In, Insights Out. Automatically.](https://dev.to/ayesha_imr/ledgr-receipts-in-insights-out-automatically-4ek2)
-- [Advanced JavaScript Asynchronous With Async.js](https://dev.to/writech/advanced-javascript-asynchronous-with-asyncjs-3gmm)
-- [🚀 How Warp AI Terminal Became an Essential Part of My Developer Workflow](https://dev.to/richardshaju/how-warp-ai-terminal-became-an-essential-part-of-my-developer-workflow-4hj1)
-- [Build a Cross-Platform Markdown Notes System with Syncthing, Neovim &amp; Markor &lpar;Offline, Fast &amp; Private&rpar;](https://dev.to/abreujp/build-a-cross-platform-markdown-notes-system-with-syncthing-neovim-markor-offline-fast--3gme)
+- [Terraform AWS multi-region deployments: region meta-argument in Beta](https://dev.to/aws-builders/terraform-aws-multi-region-deployments-region-meta-argument-in-beta-o76)
+- [🧠 Deep Dive into Solana’s Account Model: The Backbone of Solana’s Architecture](https://dev.to/ayxshsoni/deep-dive-into-solanas-account-model-the-backbone-of-solanas-architecture-22a2)
+- [🖥️ Linux Process Management for Beginners: A Day in the Life of a Junior Sysadmin](https://dev.to/ldwit/linux-process-management-for-beginners-a-day-in-the-life-of-a-junior-sysadmin-41fm)
+- [Implementing Domain-Driven Design with C# and Entity Framework](https://dev.to/chakewitz/implementing-domain-driven-design-with-c-and-entity-framework-1dm9)
+- [Intersection Observer API](https://dev.to/ubbaobada/intersection-observer-api-380o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
