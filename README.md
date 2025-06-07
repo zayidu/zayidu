@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with the problem statement and your mindset approach, then dive into the code journey.](https://dev.to/elhamnajeebullah/start-with-the-problem-statement-and-your-mindset-approach-then-dive-into-the-code-journey-4mm9)
-- [Research Experiment: Auto-Pricing SILVE via BNB on Binance Smart Chain](https://dev.to/quantum_shield1/research-experiment-auto-pricing-silve-via-bnb-on-binance-smart-chain-2mmn)
-- [How to install Tailwind v4 in a Vite project](https://dev.to/goldenekpendu/how-to-install-tailwind-v4-in-a-vite-project-g3d)
-- [DEV AI H CHALLENGE PARTICIPATION](https://dev.to/vihang_pagare_7d40bd32084/dev-ai-h-challenge-participation-4pfo)
-- [Apni Personality](https://dev.to/mo_tabrej_203f6186b5a3e2c/apni-personality-fo2)
+- [Migrating from Ingress to Gateway API: Lessons from the Trenches](https://dev.to/mrupguru/migrating-from-ingress-to-gateway-api-lessons-from-the-trenches-4mnl)
+- [Produce and consume Kafka message with samara and golang](https://dev.to/mossnana/produce-and-consume-kafka-message-with-samara-and-golang-5fh9)
+- [Zero-Config DB Setup with Drizzle ORM Using drizzle-setup CLI](https://dev.to/devgauravjatt/zero-config-db-setup-with-drizzle-orm-using-drizzle-setup-cli-4905)
+- [CI/CD with GitHub Actions Using AWS self-hosted Runner](https://dev.to/sainath_patil_bcb48cfb7b9/cicd-with-github-actions-using-aws-self-hosted-runner-1gap)
+- [I built a File Sharing App in Python &lpar;with Auto Discovery + Drag &amp; Drop&rpar;. Here is what I learned.](https://dev.to/asimbuilds/i-built-a-file-sharing-app-in-python-with-auto-discovery-drag-drop-here-is-what-i-learned-1dol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
