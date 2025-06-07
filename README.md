@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Expo and React Native 2025](https://dev.to/its_nish/getting-started-with-expo-and-react-native-2025-51bc)
-- [&quot;I Don’t Know&quot; is a Superpower: How Smart Prompt Engineering Fixes Missing Content in AI](https://dev.to/alex_aslam/i-dont-know-is-a-superpower-how-smart-prompt-engineering-fixes-missing-content-in-ai-1b78)
-- [Hidden Web APIs Developers Are Overlooking in 2025](https://dev.to/arkhan/hidden-web-apis-developers-are-overlooking-in-2025-4g14)
-- [Day2/180 of FrontendDev-What is HTML and Setting Up Your Development Environment](https://dev.to/code_2/day2180-of-frontenddev-what-is-html-and-setting-up-your-development-environment-47h5)
-- [Day2/180 of FrontendDev-What is HTML and Setting Up Your Development Environment](https://dev.to/code_2/day2180-of-frontenddev-what-is-html-and-setting-up-your-development-environment-2kdj)
+- [Code Smell 302 - Misleading Status Codes](https://dev.to/mcsee/code-smell-302-misleading-status-codes-10dd)
+- [# Understanding Event Listeners in JavaScript](https://dev.to/imoh_imohowo/-understanding-event-listeners-in-javascript-3063)
+- [🚀 Introducing QuickCode — A Free Platform to Practice Big Tech OA Questions + Help Recruiters Draft Problems Easily](https://dev.to/shubham_phogat_34d0c4a667/introducing-quickcode-a-free-platform-to-practice-big-tech-oa-questions-help-recruiters-draft-53fg)
+- [Best way to access Claude 4 Sonnet](https://dev.to/vijaykodam/best-way-to-access-claude-4-sonnet-2219)
+- [Node.js is not going anywhere.](https://dev.to/saqibtanveer-dev/nodejs-is-not-going-anywhere-31f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
