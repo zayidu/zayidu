@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building AI Agents with A2A and MCP Protocol: A Hands-on Implementation Guide](https://dev.to/vishalmysore/building-ai-agents-with-a2a-and-mcp-protocol-a-hands-on-implementation-guide-4fbl)
+- [🎉 Celebrating Festa Junina: Brazilian Tradition in Color and Motion](https://dev.to/jamesrmoro/celebrating-festa-junina-brazilian-tradition-in-color-and-motion-1f2k)
 - [Waterfall-Model software engineering. Does it still make sense nowadays?](https://dev.to/jeandevbr/waterfall-model-software-engineering-does-it-still-make-sense-nowadays-5dln)
 - [Using Svelte Runes in React](https://dev.to/trentbrew/using-svelte-runes-in-react-3g48)
 - [Minha implementação de Autenticação com JWT e Bcrypt](https://dev.to/marcelomagario/minha-implementacao-de-autenticacao-com-jwt-e-bcrypt-1a53)
-- [100 days of Coding! Day 8](https://dev.to/aaanishaaa/100-days-of-coding-day-8-3edg)
-- [Integrating Microsoft Teams Notifications &lpar;pt.4&rpar;](https://dev.to/wale_megbabi/integrating-microsoft-teams-notifications-pt4-3an1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
