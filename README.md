@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ The Real Role of Software Testing: It’s More Than Bug Hunting](https://dev.to/vaibhavkuls/the-real-role-of-software-testing-its-more-than-bug-hunting-22oa)
-- [🔗 Day 8 of Java Mastery: Concatenation in Java](https://dev.to/spyde/day-8-of-java-mastery-concatenation-in-java-omd)
-- [Start with DevOps in 3 simple steps 🐳](https://dev.to/larastewart_engdev/start-with-devops-in-3-simple-steps-2lli)
-- [Astranis Launches Four Satellites with SpaceX: A New Era in Broadband](https://dev.to/jetthoughts/astranis-launches-four-satellites-with-spacex-a-new-era-in-broadband-3ekf)
-- [AI Personal Staff for Everyone](https://dev.to/jetthoughts/ai-personal-staff-for-everyone-m93)
+- [Learning Go Interface Encapsulation from K8s](https://dev.to/leapcell/learning-go-interface-encapsulation-from-k8s-nnd)
+- [Am I good to go?](https://dev.to/boluwatifeilerioluwa/am-i-good-to-go-52m6)
+- [🎵 I Built the World&#39;s First Email Music Studio with Postmark](https://dev.to/1exer22/i-built-the-worlds-first-email-music-studio-with-postmark-l9l)
+- [Navigating the Landscape of Data-Modeling – A Comprehensive Guide](https://dev.to/chaets/navigating-the-landscape-of-data-modeling-a-comprehensive-guide-238j)
+- [Whats the difference b/w Path and Query in FastAPI?](https://dev.to/sarvesh42/whats-the-difference-bw-path-and-query-in-fastapi-1c3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
