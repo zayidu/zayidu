@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Hard Can It Be? Building a Photo Sharing App Is Easy 😓](https://dev.to/wimadev/how-hard-can-it-be-building-a-photo-sharing-app-is-easy-19mo)
-- [Sumrise: Personal Spend Analyzer](https://dev.to/shriji/sumrise-personal-spend-analyzer-1df5)
-- [10 Years on GitHub: What I’ve Learned](https://dev.to/mathiasfc/10-years-on-github-what-ive-learned-4h8e)
-- [Use Foresight.js with React.js for Smarter Optimization](https://dev.to/krish_kakadiya_5f0eaf6342/use-foresightjs-with-reactjs-for-smarter-optimization-202o)
-- [Getting Started With Local LLMs Using AnythingLLM](https://dev.to/samder/getting-started-with-local-llms-using-anythingllm-47gl)
+- [Personalized Learning Coach](https://dev.to/dobrenteiistvan/personalized-learning-coach-4m1c)
+- [Memory MCP with Semantic Search Support](https://dev.to/mehrant/-k1o)
+- [PIDM — Python Internet Download Manager](https://dev.to/ericluckson1999/pidm-python-internet-download-manager-4ak9)
+- [Problem Solving Doesn’t Take a Break — Even on Eid-ul-Azha 2025](https://dev.to/mahmudulhaqueshawon/problem-solving-doesnt-take-a-break-even-on-eid-ul-azha-2025-4ajm)
+- [Ice Tea celebration in June](https://dev.to/ulrikedetective/ice-tea-celebration-in-june-p7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
