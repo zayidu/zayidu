@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Ingress to Gateway API: Lessons from the Trenches](https://dev.to/mrupguru/migrating-from-ingress-to-gateway-api-lessons-from-the-trenches-4mnl)
-- [Produce and consume Kafka message with samara and golang](https://dev.to/mossnana/produce-and-consume-kafka-message-with-samara-and-golang-5fh9)
-- [Zero-Config DB Setup with Drizzle ORM Using drizzle-setup CLI](https://dev.to/devgauravjatt/zero-config-db-setup-with-drizzle-orm-using-drizzle-setup-cli-4905)
-- [CI/CD with GitHub Actions Using AWS self-hosted Runner](https://dev.to/sainath_patil_bcb48cfb7b9/cicd-with-github-actions-using-aws-self-hosted-runner-1gap)
-- [I built a File Sharing App in Python &lpar;with Auto Discovery + Drag &amp; Drop&rpar;. Here is what I learned.](https://dev.to/asimbuilds/i-built-a-file-sharing-app-in-python-with-auto-discovery-drag-drop-here-is-what-i-learned-1dol)
+- [Building AI-Powered Image Apps with Gemini and Imagen on Vertex AI](https://dev.to/dataninsight/building-ai-powered-image-apps-with-gemini-and-imagen-on-vertex-ai-5d7f)
+- [SQL Vs NoSQL](https://dev.to/pooja_gujwar_bdcfc66105de/sql-vs-nosql-4m63)
+- [🚀 Roadmap to Becoming a Full Stack Developer in 2025](https://dev.to/mohitdecodes/roadmap-to-becoming-a-full-stack-developer-in-2025-1jf)
+- [How to Get a Transcript of a YouTube Lecture &lpar;Without Downloading Anything&rpar;](https://dev.to/shruti_saraswat_c258d5934/how-to-get-a-transcript-of-a-youtube-lecture-without-downloading-anything-apd)
+- [MailMap: Transforming Emails into Interactive Stories on Google Maps 📍📧](https://dev.to/prema_ananda/mailmap-transforming-emails-into-interactive-stories-on-google-maps-1f10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
