@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏠 Mailo: AI Email Replies, Seamlessly Delivered](https://dev.to/shravzzv/mailo-ai-email-replies-seamlessly-delivered-2lg6)
-- [# 🚀 Introducing `listine`: A Custom Virtual Scroll Library for Angular with True Dynamic Height Support](https://dev.to/hrssh_gupta_4775022de1d44/-introducing-listine-a-custom-virtual-scroll-library-for-angular-with-true-dynamic-height-258i)
-- [Harmonyos Ark UI network request](https://dev.to/liu_yang_fc0e605820ac220c/harmonyos-ark-ui-network-request-3pnm)
-- [Unlock 1000+ DevOps &amp; Cloud Resources! 📚 - Gateway to a powerful library](https://dev.to/prodevopsguytech/unlock-1000-devops-cloud-resources-gateway-to-a-powerful-library-3dkg)
-- [Basic usage and tips of the HarmonyOS lightweight database DatabaseHelper](https://dev.to/liu_yang_fc0e605820ac220c/basic-usage-and-tips-of-the-harmonyos-lightweight-database-databasehelper-3oh0)
+- [100APIsOfCode : Day 3](https://dev.to/johns-dev-projects/100apisofcode-day-3-2k8p)
+- [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
+- [How I Automated My Tech Blog Workflow Using Runner H and AI](https://dev.to/extinctsion/how-i-automated-my-tech-blog-workflow-using-runner-h-and-ai-4h4)
+- [How to get AWS certification for beginners](https://dev.to/evolution25_4476ca8996573/how-to-get-aws-certification-for-beginners-4mnb)
+- [I Built Limgx, an Image Conversion Powerhouse, with FFmpeg.wasm!](https://dev.to/gagaisyou/i-built-limgx-an-image-conversion-powerhouse-with-ffmpegwasm-2jg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
