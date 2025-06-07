@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian AI model DESTROYS o3-mini, Google DeepSearch is open source, OpenAI&#39;s new models and TypeScript SDK, and more](https://dev.to/thisweekinaiengineering/indian-ai-model-destroys-o3-mini-google-deepsearch-is-open-source-openais-new-models-and-2ol1)
-- [Debugging Memory Leaks in Node.js: A Complete Guide to heapdump, clinic.js, and v8-tools](https://dev.to/crit3cal/debugging-memory-leaks-in-nodejs-a-complete-guide-to-heapdump-clinicjs-and-v8-tools-19b)
-- [api security](https://dev.to/bibek_bhowmick_0c26539651/api-security-1j64)
-- [💡You&#39;re Not Chatting With AI, You&#39;re Giving It a Job. Here&#39;s How](https://dev.to/idavidov13/youre-not-chatting-with-ai-youre-giving-it-a-job-heres-how-1k3n)
-- [The Definitive Guide to Digital Transformation in 2025](https://dev.to/williamoliver/the-definitive-guide-to-digital-transformation-1p55)
+- [How Hard Can It Be? Building a Photo Sharing App Is Easy 😓](https://dev.to/wimadev/how-hard-can-it-be-building-a-photo-sharing-app-is-easy-19mo)
+- [Sumrise: Personal Spend Analyzer](https://dev.to/shriji/sumrise-personal-spend-analyzer-1df5)
+- [10 Years on GitHub: What I’ve Learned](https://dev.to/mathiasfc/10-years-on-github-what-ive-learned-4h8e)
+- [Use Foresight.js with React.js for Smarter Optimization](https://dev.to/krish_kakadiya_5f0eaf6342/use-foresightjs-with-reactjs-for-smarter-optimization-202o)
+- [Getting Started With Local LLMs Using AnythingLLM](https://dev.to/samder/getting-started-with-local-llms-using-anythingllm-47gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
