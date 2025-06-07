@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ZewpolOS: a Linux-based secure OS for browsing the web](https://dev.to/zako_mako_9a4826822204c78/zewpolos-a-linux-based-secure-os-for-browsing-the-web-cj)
-- [Rails 8 authentication, via a React frontend.](https://dev.to/jbk2/rails-8-authentication-via-a-react-frontend-26fo)
-- [CRUD with JavaScript Fetch and the Platzi Fake Store API](https://dev.to/ahmed_niazy/crud-with-javascript-fetch-and-the-platzi-fake-store-api-142e)
-- [Exceptions for Control Flow are Slow](https://dev.to/alexandreaquiles/exceptions-for-control-flow-are-slow-41pa)
-- [Mastering JavaScript Date Formatting: From Native Methods to Modern Libraries](https://dev.to/ahmed_niazy/mastering-javascript-date-formatting-from-native-methods-to-modern-libraries-m4j)
+- [✅ The Real Role of Software Testing: It’s More Than Bug Hunting](https://dev.to/vaibhavkuls/the-real-role-of-software-testing-its-more-than-bug-hunting-22oa)
+- [🔗 Day 8 of Java Mastery: Concatenation in Java](https://dev.to/spyde/day-8-of-java-mastery-concatenation-in-java-omd)
+- [Start with DevOps in 3 simple steps 🐳](https://dev.to/larastewart_engdev/start-with-devops-in-3-simple-steps-2lli)
+- [Astranis Launches Four Satellites with SpaceX: A New Era in Broadband](https://dev.to/jetthoughts/astranis-launches-four-satellites-with-spacex-a-new-era-in-broadband-3ekf)
+- [AI Personal Staff for Everyone](https://dev.to/jetthoughts/ai-personal-staff-for-everyone-m93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
