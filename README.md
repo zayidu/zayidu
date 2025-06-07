@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform AWS multi-region deployments: region meta-argument in Beta](https://dev.to/aws-builders/terraform-aws-multi-region-deployments-region-meta-argument-in-beta-o76)
-- [🧠 Deep Dive into Solana’s Account Model: The Backbone of Solana’s Architecture](https://dev.to/ayxshsoni/deep-dive-into-solanas-account-model-the-backbone-of-solanas-architecture-22a2)
-- [🖥️ Linux Process Management for Beginners: A Day in the Life of a Junior Sysadmin](https://dev.to/ldwit/linux-process-management-for-beginners-a-day-in-the-life-of-a-junior-sysadmin-41fm)
-- [Implementing Domain-Driven Design with C# and Entity Framework](https://dev.to/chakewitz/implementing-domain-driven-design-with-c-and-entity-framework-1dm9)
-- [Intersection Observer API](https://dev.to/ubbaobada/intersection-observer-api-380o)
+- [ZewpolOS: a Linux-based secure OS for browsing the web](https://dev.to/zako_mako_9a4826822204c78/zewpolos-a-linux-based-secure-os-for-browsing-the-web-cj)
+- [Rails 8 authentication, via a React frontend.](https://dev.to/jbk2/rails-8-authentication-via-a-react-frontend-26fo)
+- [CRUD with JavaScript Fetch and the Platzi Fake Store API](https://dev.to/ahmed_niazy/crud-with-javascript-fetch-and-the-platzi-fake-store-api-142e)
+- [Exceptions for Control Flow are Slow](https://dev.to/alexandreaquiles/exceptions-for-control-flow-are-slow-41pa)
+- [Mastering JavaScript Date Formatting: From Native Methods to Modern Libraries](https://dev.to/ahmed_niazy/mastering-javascript-date-formatting-from-native-methods-to-modern-libraries-m4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
