@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
-- [Let&#39;s GET perfy](https://dev.to/jswhisperer/lets-get-perfy-33ac)
-- [Use Cases for Lazy in AWS CDK](https://dev.to/aws-heroes/use-cases-for-lazy-in-aws-cdk-5g40)
-- [Day 17/30 - Git Revert --no-commit: Revert Multiple Commits Without Auto-Committing](https://dev.to/ruqaiya_beguwala/day-1730-git-revert-no-commit-revert-multiple-commits-without-auto-committing-3e8)
-- [用 Docker 快速架設 Node.js 靜態網站服務](https://dev.to/letswrite/yong-docker-kuai-su-jia-she-nodejs-jing-tai-wang-zhan-fu-wu-5k0)
+- [Start with the problem statement and your mindset approach, then dive into the code journey.](https://dev.to/elhamnajeebullah/start-with-the-problem-statement-and-your-mindset-approach-then-dive-into-the-code-journey-4mm9)
+- [Research Experiment: Auto-Pricing SILVE via BNB on Binance Smart Chain](https://dev.to/quantum_shield1/research-experiment-auto-pricing-silve-via-bnb-on-binance-smart-chain-2mmn)
+- [How to install Tailwind v4 in a Vite project](https://dev.to/goldenekpendu/how-to-install-tailwind-v4-in-a-vite-project-g3d)
+- [DEV AI H CHALLENGE PARTICIPATION](https://dev.to/vihang_pagare_7d40bd32084/dev-ai-h-challenge-participation-4pfo)
+- [Apni Personality](https://dev.to/mo_tabrej_203f6186b5a3e2c/apni-personality-fo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
