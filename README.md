@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid These 3 Common Form Traps in React](https://dev.to/werliton/avoid-these-3-common-form-traps-in-react-4m3j)
-- [Game Engine Architecture: An Evolution of the ECS Paradigm](https://dev.to/geseey/game-engine-architecture-an-evolution-of-the-ecs-paradigm-27ap)
-- [The SaaS Sentinel: Automated Competitive Intelligence Analyst](https://dev.to/takitajwar17/the-saas-sentinel-automated-competitive-intelligence-analyst-10a3)
-- [Build a Policy-Based Access System in Python](https://dev.to/kuba_szw/build-a-policy-based-access-system-in-python-3k1i)
-- [A Recruiter&#39;s favourite tool: Powered by Postmark](https://dev.to/arndom/a-recruiters-favourite-tool-powered-by-postmark-k3k)
+- [Your AI Design Assistant: How Codia is Transforming Creative Work](https://dev.to/atforeveryoung/your-ai-design-assistant-how-codia-is-transforming-creative-work-3f2m)
+- [VS2022 External tools in toolbar](https://dev.to/karenpayneoregon/vs2022-external-tools-in-toolbar-1kc3)
+- [🧠 A Beginner’s Guide to Git: What It Is, Why It Matters, and How to Use It.](https://dev.to/carsonbtw/a-beginners-guide-to-git-what-it-is-why-it-matters-and-how-to-use-it-4825)
+- [⚛️ When React Context API Turns Against You: A Late-Night Debugging Story](https://dev.to/juandadev/when-react-context-api-turns-against-you-a-late-night-debugging-story-3bkf)
+- [AutoML Might Be the Most Important Tool You’re Not Using Yet](https://dev.to/superorange0707/automl-might-be-the-most-important-tool-youre-not-using-yet-3pne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
