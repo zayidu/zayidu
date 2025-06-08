@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Screw your favorite programming language](https://dev.to/danytulumidis/screw-your-favorite-programming-language-40c0)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-gbo)
-- [Mail-Guide-AI: AI-Powered Email Management with Postmark Integration](https://dev.to/contractorx/mail-guide-ai-ai-powered-email-management-with-postmark-integration-5dof)
-- [How I make my site searchable in 2 minutes](https://dev.to/technoph1le/how-i-make-my-site-searchable-in-2-minutes-48ok)
-- [defer](https://dev.to/liangtowang/defer-5330)
+- [June Celebrations: Pride In The Shadows, Still We Shine.](https://dev.to/tochi_/june-celebrations-pride-in-the-shadows-still-we-shine-40oi)
+- [Visualizing GPU Metrics with DCGM Exporter](https://dev.to/murajo/visualizing-gpu-metrics-with-dcgm-exporter-1268)
+- [Inbox Translator: Automatic Email Translation Made Easy](https://dev.to/adonaitechnologies/inbox-translator-automatic-email-translation-made-easy-2hc7)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-563k)
+- [How to Get a Cheap &lpar;but Legit&rpar; Windows 11 Key](https://dev.to/azzeddine_douche_7f365703/how-to-get-a-cheap-but-legit-windows-11-key-g56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
