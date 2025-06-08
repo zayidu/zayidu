@@ -194,7 +194,7 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB with AWS EnhancedClient v2.x - Schemas and data serialization made easy](https://dev.to/neeldev96/dynamodb-with-aws-enhancedclient-v2x-schemas-and-data-serialization-made-easy-307i)
+- [DynamoDB with Enhanced Client - Schemas and data serialization made easy](https://dev.to/neeldev96/dynamodb-with-aws-enhancedclient-v2x-schemas-and-data-serialization-made-easy-307i)
 - [🤖 The Sensational Machine](https://dev.to/j_t/the-sensational-machine-4164)
 - [CodeReview Mail - Collaborative Development via Email](https://dev.to/aniruddhaadak/codereview-mail-collaborative-development-via-email-4022)
 - [DSA Pattern — Finding Common Characters From Words](https://dev.to/dev-alamin/dsa-pattern-finding-common-characters-from-words-5a5e)
