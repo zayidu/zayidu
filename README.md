@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MailFleet - Fleet Management Through Email](https://dev.to/ai_agi/mailfleet-fleet-management-through-email-158o)
-- [Best Time to Visit Mount Abu and Udaipur Alone?](https://dev.to/rajasthan_tourismbureau_/best-time-to-visit-mount-abu-and-udaipur-alone-53g4)
-- [How I Built A Contrast Checker For Accessibility In JavaScript](https://dev.to/thesyntaxdude/how-i-built-a-contrast-checker-for-accessibility-in-javascript-2c6m)
-- [How to create a Popover using React and Tailwind CSS](https://dev.to/swarupinfotech1/how-to-create-a-popover-using-react-and-tailwind-css-40on)
-- [Chapter 6: Going Live! Deploying Your Portfolio to GitHub Pages](https://dev.to/prasunchakra/chapter-6-going-live-deploying-your-portfolio-to-github-pages-50hk)
+- [Help Me Test ShareShard!](https://dev.to/scarabdata/help-me-test-shareshard-1d4g)
+- [PropertyFlow Mail - Smart Property Management](https://dev.to/ariondev/propertyflow-mail-smart-property-management-5gnm)
+- [Decoding the World: An Introduction to Machine Learning Paradigms](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-world-an-introduction-to-machine-learning-paradigms-6i1)
+- [StudyFlow Mail - Educational Assignment Management](https://dev.to/ariondev/studyflow-mail-educational-assignment-management-2n3c)
+- [🏢 Multi-Tenant Image Uploads to S3 via a Generic API Gateway in NestJS](https://dev.to/abhivyaktii/multi-tenant-image-uploads-to-s3-via-a-generic-api-gateway-in-nestjs-1d97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
