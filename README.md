@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Dark theme &amp; Light theme in website](https://dev.to/capscode/add-dark-theme-light-theme-in-website-3lpl)
-- [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
-- [Building Reliable Protected Routes with React Router v7](https://dev.to/ra1nbow1/building-reliable-protected-routes-with-react-router-v7-1ka0)
-- [Using BullMQ to Power AI Workflows &lpar;with Observability in Mind&rpar;](https://dev.to/lbd/using-bullmq-to-power-ai-workflows-with-observability-in-mind-1ieh)
-- [LSM4K 1.0.0-Alpha released](https://dev.to/martinhaeusler/lsm4k-100-alpha-released-2lhe)
+- [A New Technology You Should Know: DeerFlow](https://dev.to/kpcofgs/a-new-technology-you-should-know-deerflow-36g1)
+- [🔐 June: Password Management Month – Strengthen Your Digital Locks](https://dev.to/amit_ambekar_c022e6732f8d/june-password-management-month-strengthen-your-digital-locks-21id)
+- [Mastering User Monitoring in Linux](https://dev.to/axisinfo_0a61830e06c3c950/mastering-user-monitoring-in-linux-4lk2)
+- [Linux vs. Windows: A Clear Comparison](https://dev.to/kpcofgs/linux-vs-windows-a-clear-comparison-3l9g)
+- [Senior developers cry too: What&#39;s next after you&#39;re &quot;Senior&quot;?](https://dev.to/senior-debugger/senior-developers-cry-too-whats-next-after-youre-senior-4ef1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
