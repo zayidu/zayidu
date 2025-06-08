@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workflows Are Not AI Agents: Selling Lies](https://dev.to/sfundomhlungu/workflows-are-not-ai-agents-selling-lies-8bg)
-- [How Do You See Yourself? A Coder or An Engineer.](https://dev.to/ayushhardeniya/how-do-you-see-yourself-a-coder-or-an-engineer-2dl4)
-- [my love for her](https://dev.to/wood_wood_a90e9a5fb3a1fc0/my-love-for-her-29de)
-- [AI-POWERED MARKET RESEARCH AND CONTENT GENERATION WITH RUNNER-H](https://dev.to/musasco4good/ai-powered-market-research-and-content-generation-with-runner-h-5f4c)
-- [Inbox Analytics - You’ve Got Mail… and Dashboards! 📊📬](https://dev.to/n_mani_4f5788ae1692dbbdc0/inbox-analytics-youve-got-mail-and-dashboards-340)
+- [Building a Strong Angular Portfolio: Beyond Code Samples](https://dev.to/karol_modelski/building-a-strong-angular-portfolio-beyond-code-samples-1bii)
+- [Building an AI Voice Assistant in 1 Minute &lpar;Mac Terminal&rpar;](https://dev.to/zuluana/building-an-ai-voice-assistant-in-1-minute-mac-terminal-3a5j)
+- [Day 18/30 - git stash --patch – Stash only specific changes interactively](https://dev.to/ruqaiya_beguwala/day-1830-git-stash-patch-stash-only-specific-changes-interactively-3ngp)
+- [How to deploy Kubernetes and Dapr together](https://dev.to/sirivarma/how-to-deploy-kubernetes-and-dapr-together-3ddn)
+- [Why You Should Never Commit Your .env File and How to Handle It Properly](https://dev.to/bdhamithkumara/why-you-should-never-commit-your-env-file-and-how-to-handle-it-properly-2p85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
