@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mission 5 Part One Meet for Coffee](https://dev.to/theoriginalbpc/mission-5-part-one-meet-for-coffee-2n6d)
-- [The GPU Hunger Games: My Epic Quest for Affordable Deep Learning Power &lpar;and a Jupyter Notebook That Just Works&rpar;](https://dev.to/rjvishwa/the-gpu-hunger-games-my-epic-quest-for-affordable-deep-learning-power-and-a-jupyter-notebook-that-2n5m)
-- [West Yorkshire Based Indie Locksmiths vs. Big National Locksmith Firms: A Comparison](https://dev.to/securityco371/west-yorkshire-based-indie-locksmiths-vs-big-national-locksmith-firms-a-comparison-1nkd)
-- [🚀 Just launched my new app: LinkList! 🔗📌](https://dev.to/ssekabirarobertsims/just-launched-my-new-app-linklist-8i0)
-- [Entendendo Javascript](https://dev.to/spinnafre/-5f5f)
+- [Screw your favorite programming language](https://dev.to/danytulumidis/screw-your-favorite-programming-language-40c0)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-gbo)
+- [Mail-Guide-AI: AI-Powered Email Management with Postmark Integration](https://dev.to/contractorx/mail-guide-ai-ai-powered-email-management-with-postmark-integration-5dof)
+- [How I make my site searchable in 2 minutes](https://dev.to/technoph1le/how-i-make-my-site-searchable-in-2-minutes-48ok)
+- [defer](https://dev.to/liangtowang/defer-5330)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
