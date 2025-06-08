@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of React Hooks: Revolutionizing State Management](https://dev.to/vjnvisakh/unleashing-the-power-of-react-hooks-revolutionizing-state-management-23n1)
-- [Web App Evolution in Java](https://dev.to/matin676/web-app-evolution-in-java-4628)
-- [Cursor vs Windsurf &lpar;2025&rpar;: A Deep-Dive Into the Two Fastest-Growing AI IDEs](https://dev.to/blamsa0mine/cursor-vs-windsurf-2025-a-deep-dive-into-the-two-fastest-growing-ai-ides-2112)
-- [Как да подобрим алгоритмичното си мислене &lpar;в 3 стъпки&rpar;](https://dev.to/dvt32/kak-da-podobrim-alghoritmichnoto-si-mislienie-v-3-stpki-4n3k)
-- [Why Laravel’s bcrypt Hashes Fail in Node.js and How to Fix It](https://dev.to/ssinghakshit/why-laravels-bcrypt-hashes-fail-in-nodejs-and-how-to-fix-it-52m9)
+- [Add Dark theme &amp; Light theme in website](https://dev.to/capscode/add-dark-theme-light-theme-in-website-3lpl)
+- [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
+- [Building Reliable Protected Routes with React Router v7](https://dev.to/ra1nbow1/building-reliable-protected-routes-with-react-router-v7-1ka0)
+- [Using BullMQ to Power AI Workflows &lpar;with Observability in Mind&rpar;](https://dev.to/lbd/using-bullmq-to-power-ai-workflows-with-observability-in-mind-1ieh)
+- [LSM4K 1.0.0-Alpha released](https://dev.to/martinhaeusler/lsm4k-100-alpha-released-2lhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
