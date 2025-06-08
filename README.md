@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Hope: A Two-Part AI Workflow to Conquer the Indonesian Job Market for Fresh Graduates](https://dev.to/stevv/automating-hope-a-two-part-ai-workflow-to-conquer-the-indonesian-job-market-for-fresh-graduates-ko0)
-- [Boosting Digital Literacy: The Role of Online Learning Platforms in Empowering Students](https://dev.to/ghummantech/boosting-digital-literacy-the-role-of-online-learning-platforms-in-empowering-students-2edj)
-- [Advanced Integration of JavaScript with Native Code via FFI](https://dev.to/omriluz1/advanced-integration-of-javascript-with-native-code-via-ffi-47hl)
-- [Array.Map vs For...loop](https://dev.to/abhishekgowda28/arraymap-vs-forloop-34b3)
-- [𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝗶𝗻 𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗨𝘀𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗧𝗲𝗮𝗺𝘀](https://dev.to/supraja_tangella_b7f0738e/-n70)
+- [Unleashing the Power of React Hooks: Revolutionizing State Management](https://dev.to/vjnvisakh/unleashing-the-power-of-react-hooks-revolutionizing-state-management-23n1)
+- [Web App Evolution in Java](https://dev.to/matin676/web-app-evolution-in-java-4628)
+- [Cursor vs Windsurf &lpar;2025&rpar;: A Deep-Dive Into the Two Fastest-Growing AI IDEs](https://dev.to/blamsa0mine/cursor-vs-windsurf-2025-a-deep-dive-into-the-two-fastest-growing-ai-ides-2112)
+- [Как да подобрим алгоритмичното си мислене &lpar;в 3 стъпки&rpar;](https://dev.to/dvt32/kak-da-podobrim-alghoritmichnoto-si-mislienie-v-3-stpki-4n3k)
+- [Why Laravel’s bcrypt Hashes Fail in Node.js and How to Fix It](https://dev.to/ssinghakshit/why-laravels-bcrypt-hashes-fail-in-nodejs-and-how-to-fix-it-52m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
