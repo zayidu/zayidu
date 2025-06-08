@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents with A2A and MCP Protocol: A Hands-on Implementation Guide](https://dev.to/vishalmysore/building-ai-agents-with-a2a-and-mcp-protocol-a-hands-on-implementation-guide-4fbl)
-- [🎉 Celebrating Festa Junina: Brazilian Tradition in Color and Motion](https://dev.to/jamesrmoro/celebrating-festa-junina-brazilian-tradition-in-color-and-motion-1f2k)
-- [Waterfall-Model software engineering. Does it still make sense nowadays?](https://dev.to/jeandevbr/waterfall-model-software-engineering-does-it-still-make-sense-nowadays-5dln)
-- [Using Svelte Runes in React](https://dev.to/trentbrew/using-svelte-runes-in-react-3g48)
-- [Minha implementação de Autenticação com JWT e Bcrypt](https://dev.to/marcelomagario/minha-implementacao-de-autenticacao-com-jwt-e-bcrypt-1a53)
+- [Weekly #23-2025: AI Pair Programming Pitfalls, Four-Day Workweek Wins, Stepping Back for Perspective,&#39;Who Cares&#39; Era](https://dev.to/weekly/weekly-23-2025-ai-pair-programming-pitfalls-four-day-workweek-wins-stepping-back-for-4j0e)
+- [Deploying a NestJS and VueJS App with Dokploy](https://dev.to/vince155/deploying-a-nestjs-and-vuejs-app-with-dokploy-odl)
+- [[Boost]](https://dev.to/kwame_mensah_031f40132829/-3fna)
+- [Daily JavaScript Challenge #JS-201: Check for Balanced Parentheses](https://dev.to/dpc/daily-javascript-challenge-js-201-check-for-balanced-parentheses-2ool)
+- [Dari Ngoding Jadi Masak: Algoritma Kehidupan ala Software Engineer](https://dev.to/chandrabachtiar/dari-ngoding-jadi-masak-algoritma-kehidupan-ala-software-engineer-3jj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
