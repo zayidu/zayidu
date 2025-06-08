@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an LLM Web App in Python from Scratch: Part 3 &lpar;FastAPI &amp; WebSockets&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-3-fastapi-websockets-1hp5)
-- [SnipMail - AI Powered Summary and Sentiment Inbox WebApp](https://dev.to/totorogendut/snipmail-ai-powered-summary-and-sentiment-inbox-webapp-chj)
-- [Weekly #23-2025: AI Pair Programming Pitfalls, Four-Day Workweek Wins, Stepping Back for Perspective,&#39;Who Cares&#39; Era](https://dev.to/weekly/weekly-23-2025-ai-pair-programming-pitfalls-four-day-workweek-wins-stepping-back-for-4j0e)
-- [Deploying a NestJS and VueJS App with Dokploy](https://dev.to/vince155/deploying-a-nestjs-and-vuejs-app-with-dokploy-odl)
-- [[Boost]](https://dev.to/kwame_mensah_031f40132829/-3fna)
+- [MailFleet - Fleet Management Through Email](https://dev.to/ai_agi/mailfleet-fleet-management-through-email-158o)
+- [Best Time to Visit Mount Abu and Udaipur Alone?](https://dev.to/rajasthan_tourismbureau_/best-time-to-visit-mount-abu-and-udaipur-alone-53g4)
+- [How I Built A Contrast Checker For Accessibility In JavaScript](https://dev.to/thesyntaxdude/how-i-built-a-contrast-checker-for-accessibility-in-javascript-2c6m)
+- [How to create a Popover using React and Tailwind CSS](https://dev.to/swarupinfotech1/how-to-create-a-popover-using-react-and-tailwind-css-40on)
+- [Chapter 6: Going Live! Deploying Your Portfolio to GitHub Pages](https://dev.to/prasunchakra/chapter-6-going-live-deploying-your-portfolio-to-github-pages-50hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
