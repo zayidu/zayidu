@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Override Records ToString](https://dev.to/karenpayneoregon/c-override-records-tostring-50e7)
-- [Fixing “exit code: 255” in AWS CodeBuild](https://dev.to/moyarich/fixing-exit-code-255-in-aws-codebuild-no7)
-- [How Solo Developers Can Launch and Market Their Own Apps](https://dev.to/thevisibilitylab/how-solo-developers-can-launch-and-market-their-own-apps-9bc)
-- [Runner H AI Agent Prompting challenge](https://dev.to/member_adf40bd5/runner-h-ai-agent-prompting-challenge-4lk)
-- [[Snowflake&#39;s New Feature]Cortex AISQL: Multimodal Data Analysis with SQL Commands](https://dev.to/sagara/snowflakes-new-featurecortex-aisql-multimodal-data-analysis-with-sql-commands-4n5m)
+- [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
+- [Debug Heroku Deployment Errors: Slay Asset Compilation &amp; Env Vars Dragons 🐉](https://dev.to/alex_aslam/debug-heroku-deployment-errors-slay-asset-compilation-env-vars-dragons-3pdk)
+- [Software Architecture Needs a Rethink &lpar;Because AI Isn&#39;t Waiting&rpar;](https://dev.to/enricopiovesan/software-architecture-needs-a-rethink-because-ai-isnt-waiting-31me)
+- [12 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
+- [Understanding DRAM Internals: How Channels, Banks, and DRAM Access Patterns Impact Performance](https://dev.to/sachin_tolay_052a7e539e57/understanding-dram-internals-how-channels-banks-and-dram-access-patterns-impact-performance-57ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
