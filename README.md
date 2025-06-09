@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 We&#39;re Hiring at Nexthink!](https://dev.to/ml318097/were-hiring-at-nexthink-2kg7)
-- [Developers, meet your new favorite feed](https://dev.to/ml318097/developers-meet-your-new-favorite-feed-21c6)
-- [⌨️ Boost Your Workflow with Keyboard Shortcuts! ⚡](https://dev.to/ml318097/boost-your-workflow-with-keyboard-shortcuts-33ka)
-- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
-- [[Boost]](https://dev.to/nikhil_sachapara/-4n57)
+- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
+- [🛣️ Complete React Roadmap – Become a React Superhero 💪](https://dev.to/coder_studios/complete-react-roadmap-become-a-react-superhero-k54)
+- [7 Strategies to Stay Sane in the Never-Ending Tech Hype Cycle](https://dev.to/canro91/7-strategies-to-stay-sane-in-the-never-ending-tech-hype-cycle-3ef3)
+- [Helper, Utility, Factory… or Something More Sinister?](https://dev.to/duplessisvanaswegen/helper-utility-factory-or-something-more-sinister-426e)
+- [📘 AWS IAM Explained Desi-Style — With Hall Passes, Principals &amp; Guest Lecturers! &lpar;Part 1&rpar;](https://dev.to/aws-builders/aws-iam-explained-desi-style-with-hall-passes-principals-guest-lecturers-part-1-f2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
