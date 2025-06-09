@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ Writing React? Avoid These Common Antipatterns!](https://dev.to/ml318097/writing-react-avoid-these-common-antipatterns-8h2)
-- [What are tracking pixels and how do they work?](https://dev.to/ml318097/what-are-tracking-pixels-and-how-do-they-work-2pfe)
-- [Let&#39;s talk about vibe coding.](https://dev.to/thetechpreneur/lets-talk-about-vibe-coding-5389)
-- [Stop What You&#39;re Doing: Angular 20&#39;s New Superpowers Will Change How You Code Forever](https://dev.to/codewithrajat/stop-what-youre-doing-angular-20s-new-superpowers-will-change-how-you-code-forever-54n6)
-- [TIL you can output `aws ecr describe-images` as a table](https://dev.to/benji011/til-you-can-output-aws-ecr-describe-images-as-a-table-3f4g)
+- [What I Learned by Looking Outside](https://dev.to/tuannvm/what-i-learned-by-looking-outside-59ep)
+- [This Month in Solid #14: New Content, Charts, and Failed Mascots 😎](https://dev.to/danieljcafonso/this-month-in-solid-14-new-content-charts-and-failed-mascots-4bl8)
+- [JavaScript Maps](https://dev.to/sundar_joseph_94059a3e7a6/javascript-maps-j2l)
+- [🏳️‍🌈 Pride RS: LGBTQ+ Flag Component for Rust Frontends](https://dev.to/wiseai/pride-rs-lgbtq-flag-component-for-rust-frontends-1e60)
+- [🚀 17 and Full-Stack: My Dev Journey So Far](https://dev.to/00rvn00/17-and-full-stack-my-dev-journey-so-far-1499)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
