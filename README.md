@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL COALESCE in Postgres: A Simple Guide](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl)
-- [&quot;Schema Later&quot; considered harmful 👉🏻 use schema validation in MongoDB](https://dev.to/franckpachot/schema-later-considered-harmful-use-schema-validation-in-mongodb-364o)
-- [[Boost]](https://dev.to/gzapico/-p9p)
-- [Ultimate Mobile App Testing Checklist for Developers &amp; Testers](https://dev.to/morrismoses149/ultimate-mobile-app-testing-checklist-for-developers-testers-2499)
-- [Desvendando a Comunicação com LLMs: O Poder da Engenharia de Prompts](https://dev.to/pachicodes/desvendando-a-comunicacao-com-llms-o-poder-da-engenharia-de-prompts-4406)
+- [Unlock Your DevOps Potential with KodeKloud Engineer](https://dev.to/odenyire/unlock-your-devops-potential-with-kodekloud-engineer-31gd)
+- [🚀 Exploring Serverless Architecture with AWS Lambda](https://dev.to/ahamed_ahnaf_84f1b6cdf9de/exploring-serverless-architecture-with-aws-lambda-353n)
+- [Practical FinOps Tips for AWS Cost Optimization](https://dev.to/kochereshchenko/practical-finops-tips-for-aws-cost-optimization-8ol)
+- [⛵Build a Collaborative App with Real-Time Comments &amp; @Mentions Using Velt, Clerk Auth, Prisma &amp; Radix UI🔑](https://dev.to/astrodevil/build-a-collaborative-app-with-real-time-comments-mentions-using-velt-clerk-auth-prisma--18ml)
+- [Claude 4 First Impressions: A Developer&#39;s Perspective](https://dev.to/forgecode/claude-4-first-impressions-a-developers-perspective-293d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
