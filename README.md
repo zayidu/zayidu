@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Your DevOps Potential with KodeKloud Engineer](https://dev.to/odenyire/unlock-your-devops-potential-with-kodekloud-engineer-31gd)
-- [🚀 Exploring Serverless Architecture with AWS Lambda](https://dev.to/ahamed_ahnaf_84f1b6cdf9de/exploring-serverless-architecture-with-aws-lambda-353n)
-- [Practical FinOps Tips for AWS Cost Optimization](https://dev.to/kochereshchenko/practical-finops-tips-for-aws-cost-optimization-8ol)
-- [⛵Build a Collaborative App with Real-Time Comments &amp; @Mentions Using Velt, Clerk Auth, Prisma &amp; Radix UI🔑](https://dev.to/astrodevil/build-a-collaborative-app-with-real-time-comments-mentions-using-velt-clerk-auth-prisma--18ml)
-- [Claude 4 First Impressions: A Developer&#39;s Perspective](https://dev.to/forgecode/claude-4-first-impressions-a-developers-perspective-293d)
+- [How to Install and Run Xiaomi MiMo-VL Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-xiaomi-mimo-vl-locally-4mpo)
+- [I Just Released My Personal Password Manager App — CyberSafe](https://dev.to/dducnv/i-just-released-my-personal-password-manager-app-cybersafe-kom)
+- [How to Monitor Network Traffic on Linux](https://dev.to/scorcism/how-to-monitor-network-traffic-on-linux-39ff)
+- [Versioned web components and micro front-ends](https://dev.to/sm3rta/versioned-web-components-and-micro-front-ends-1m40)
+- [The Complete Next.js Image Guide: 8 Production Patterns Every Developer Should Know](https://dev.to/ar-rashik/the-complete-nextjs-image-guide-8-production-patterns-every-developer-should-know-3k05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
