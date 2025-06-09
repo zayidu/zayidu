@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rawkode&#39;s Hands-on Intro to Fermyon Wasm Functions](https://dev.to/fermyon/rawkodes-hands-on-intro-to-fermyon-wasm-functions-1dca)
-- [🎙️ Email-to-Podcast RSS Feed Generator using Node.js, OpenAI, ElevenLabs &amp; Postmark](https://dev.to/tom_canfarotta_775a68254f/email-to-podcast-rss-feed-generator-using-nodejs-openai-elevenlabs-postmark-67l)
-- [A quick way to get started with Graphite](https://dev.to/brittneykernan/a-quick-way-to-get-started-with-graphite-5bb2)
-- [Yazılımcılar için 5 Pratik İpucu](https://dev.to/yunus_emremert_1756b71d3/yazilimcilar-icin-5-pratik-ipucu-h96)
-- [I Built a Python Hangman Game and Pushed My First Project to GitHub](https://dev.to/iixpreyliet/i-built-a-python-hangman-game-and-pushed-my-first-project-to-github-389d)
+- [Duolingo’s Shallow Learning Trap: Gamified Streaks, Harmful Habits](https://dev.to/yaptech/duolingos-shallow-learning-trap-gamified-streaks-harmful-habits-4134)
+- [How to Filter a Collection Using Streams in Java?](https://dev.to/adityabhuyan/how-to-filter-a-collection-using-streams-in-java-13np)
+- [Identity Attestation via Hiring Emails.](https://dev.to/fsegall/we-created-an-application-called-identity-attestation-via-hiring-emails-20nn)
+- [How to Make SVGs Accessible: A Short Guide](https://dev.to/accessibly_speaking/how-to-make-svgs-accessible-a-short-guide-1ope)
+- [Getting Started with Building AI Apps Using Vercel AI SDK](https://dev.to/elfrontend/getting-started-with-building-ai-apps-using-vercel-ai-sdk-2gn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
