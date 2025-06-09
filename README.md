@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Modern Frameworks Fail, These 6 Patterns Save the Day](https://dev.to/tawe/when-modern-frameworks-fail-these-6-patterns-save-the-day-bfg)
-- [A New Technology You Should Know: Seelen-UI](https://dev.to/kpcofgs/a-new-technology-you-should-know-seelen-ui-4cgi)
-- [How To Instantly Create Stunning Professional Diagrams From Hand-Drawn Sketches Online](https://dev.to/ybouane/how-to-instantly-create-stunning-professional-diagrams-from-hand-drawn-sketches-online-2oib)
-- [Best Bolt.new Alternatives](https://dev.to/violetbrown/best-boltnew-alternatives-253e)
-- [In this beginner-friendly series, we’ll go from “What is Docker?” to “I’m confidently using Docker in real-world projects.”](https://dev.to/ibrahimbagalwa/in-this-beginner-friendly-series-well-go-from-what-is-docker-to-im-confidently-using-docker-1g27)
+- [Meme Monday](https://dev.to/ben/meme-monday-g2o)
+- [Architecting a Scalable Voice Cloning Platform on AWS: A Case Study](https://dev.to/semperfitodd/architecting-a-scalable-voice-cloning-platform-on-aws-a-case-study-20e6)
+- [Harmonyos Next Cangjie Language Development Practical Tutorial: Store Detail Page](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-store-detail-page-24db)
+- [Python Dictionary Methods All in One](https://dev.to/theonlineaid/python-dictionary-methods-all-in-one-3n6o)
+- [Exhausted by Language Streaks? 7 Habits for Real Fluency](https://dev.to/yaptech/exhausted-by-language-streaks-7-habits-for-real-fluency-2gki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
