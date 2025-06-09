@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-g2o)
-- [Architecting a Scalable Voice Cloning Platform on AWS: A Case Study](https://dev.to/semperfitodd/architecting-a-scalable-voice-cloning-platform-on-aws-a-case-study-20e6)
-- [Harmonyos Next Cangjie Language Development Practical Tutorial: Store Detail Page](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-store-detail-page-24db)
-- [Python Dictionary Methods All in One](https://dev.to/theonlineaid/python-dictionary-methods-all-in-one-3n6o)
-- [Exhausted by Language Streaks? 7 Habits for Real Fluency](https://dev.to/yaptech/exhausted-by-language-streaks-7-habits-for-real-fluency-2gki)
+- [⚛️ Writing React? Avoid These Common Antipatterns!](https://dev.to/ml318097/writing-react-avoid-these-common-antipatterns-8h2)
+- [What are tracking pixels and how do they work?](https://dev.to/ml318097/what-are-tracking-pixels-and-how-do-they-work-2pfe)
+- [Let&#39;s talk about vibe coding.](https://dev.to/thetechpreneur/lets-talk-about-vibe-coding-5389)
+- [Stop What You&#39;re Doing: Angular 20&#39;s New Superpowers Will Change How You Code Forever](https://dev.to/codewithrajat/stop-what-youre-doing-angular-20s-new-superpowers-will-change-how-you-code-forever-54n6)
+- [TIL you can output `aws ecr describe-images` as a table](https://dev.to/benji011/til-you-can-output-aws-ecr-describe-images-as-a-table-3f4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
