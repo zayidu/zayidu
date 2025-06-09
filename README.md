@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Duolingo’s Shallow Learning Trap: Gamified Streaks, Harmful Habits](https://dev.to/yaptech/duolingos-shallow-learning-trap-gamified-streaks-harmful-habits-4134)
-- [How to Filter a Collection Using Streams in Java?](https://dev.to/adityabhuyan/how-to-filter-a-collection-using-streams-in-java-13np)
-- [Identity Attestation via Hiring Emails.](https://dev.to/fsegall/we-created-an-application-called-identity-attestation-via-hiring-emails-20nn)
-- [How to Make SVGs Accessible: A Short Guide](https://dev.to/accessibly_speaking/how-to-make-svgs-accessible-a-short-guide-1ope)
-- [Getting Started with Building AI Apps Using Vercel AI SDK](https://dev.to/elfrontend/getting-started-with-building-ai-apps-using-vercel-ai-sdk-2gn3)
+- [🚀 We&#39;re Hiring at Nexthink!](https://dev.to/ml318097/were-hiring-at-nexthink-2kg7)
+- [Developers, meet your new favorite feed](https://dev.to/ml318097/developers-meet-your-new-favorite-feed-21c6)
+- [⌨️ Boost Your Workflow with Keyboard Shortcuts! ⚡](https://dev.to/ml318097/boost-your-workflow-with-keyboard-shortcuts-33ka)
+- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
+- [[Boost]](https://dev.to/nikhil_sachapara/-4n57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
