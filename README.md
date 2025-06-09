@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Proxy vs WAF: What&#39;s the Real Difference?](https://dev.to/sharon_42e16b8da44dabde6d/reverse-proxy-vs-waf-whats-the-real-difference-m0j)
-- [Invoice Tracker - Automate Your Expense Monitoring Using Gmail, Gemini &amp; Postmark](https://dev.to/abhishek_satpathy_c5d1120/invoice-tracker-automate-your-expense-monitoring-using-gmail-gemini-postmark-gmd)
-- [VoiceMail: Your Inbox, Unchained by Voice](https://dev.to/anik2812/voicemail-your-inbox-unchained-by-voice-4a00)
-- [The Homework Genie: Just Email It!](https://dev.to/bhavna_b_baa952ae51dac930/the-homework-genie-just-email-it-44fd)
-- [Political.email: Holding Campaigns Accountable, One Inbox at a Time](https://dev.to/lumbroso/politicalemail-holding-campaigns-accountable-one-inbox-at-a-time-3ngg)
+- [Scop in Javascript with example](https://dev.to/swarupinfotech1/scop-in-javascript-with-example-5h47)
+- [Web Design Course in Kolkata: Build Effective Skills Today](https://dev.to/karlos_bajaj_5c38b902a9cd/web-design-course-in-kolkata-build-effective-skills-today-4o5e)
+- [How Blockchain Revolutionized the Gaming Industry](https://dev.to/lbm_solution/how-blockchain-revolutionized-the-gaming-industry-1gd)
+- [Why do AWS dashboards keep breaking — and is there a better way?](https://dev.to/maggy_renoux/why-do-aws-dashboards-keep-breaking-and-is-there-a-better-way-4a86)
+- [Scop in Javascript.](https://dev.to/swarupinfotech1/scop-in-javascript-5gnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
