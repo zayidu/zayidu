@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned by Looking Outside](https://dev.to/tuannvm/what-i-learned-by-looking-outside-59ep)
-- [This Month in Solid #14: New Content, Charts, and Failed Mascots 😎](https://dev.to/danieljcafonso/this-month-in-solid-14-new-content-charts-and-failed-mascots-4bl8)
-- [JavaScript Maps](https://dev.to/sundar_joseph_94059a3e7a6/javascript-maps-j2l)
-- [🏳️‍🌈 Pride RS: LGBTQ+ Flag Component for Rust Frontends](https://dev.to/wiseai/pride-rs-lgbtq-flag-component-for-rust-frontends-1e60)
-- [🚀 17 and Full-Stack: My Dev Journey So Far](https://dev.to/00rvn00/17-and-full-stack-my-dev-journey-so-far-1499)
+- [SQL COALESCE in Postgres: A Simple Guide](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl)
+- [&quot;Schema Later&quot; considered harmful 👉🏻 use schema validation in MongoDB](https://dev.to/franckpachot/schema-later-considered-harmful-use-schema-validation-in-mongodb-364o)
+- [[Boost]](https://dev.to/gzapico/-p9p)
+- [Ultimate Mobile App Testing Checklist for Developers &amp; Testers](https://dev.to/morrismoses149/ultimate-mobile-app-testing-checklist-for-developers-testers-2499)
+- [Desvendando a Comunicação com LLMs: O Poder da Engenharia de Prompts](https://dev.to/pachicodes/desvendando-a-comunicacao-com-llms-o-poder-da-engenharia-de-prompts-4406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
