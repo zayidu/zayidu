@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Architecture Design from K8s](https://dev.to/leapcell/learning-architecture-design-from-k8s-2dd9)
+- [Stop Overpaying: 3 Cheaper Alternatives to DigitalOcean VPS](https://dev.to/tuliocalil/stop-overpaying-3-cheaper-alternatives-to-digitalocean-vps-449)
+- [How to Install Qwen3 Embedding 8B: Best Model for RAG, Search, &amp; Multilingual Embeddings](https://dev.to/nodeshiftcloud/how-to-install-qwen3-embedding-8b-best-model-for-rag-search-multilingual-embeddings-4kb)
+- [MCP OAuth on AWS Lambda with WorkOS](https://dev.to/aws-builders/mcp-oauth-on-aws-lambda-with-workos-129)
 - [How to Install and Run Xiaomi MiMo-VL Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-xiaomi-mimo-vl-locally-4mpo)
-- [I Just Released My Personal Password Manager App — CyberSafe](https://dev.to/dducnv/i-just-released-my-personal-password-manager-app-cybersafe-kom)
-- [How to Monitor Network Traffic on Linux](https://dev.to/scorcism/how-to-monitor-network-traffic-on-linux-39ff)
-- [Versioned web components and micro front-ends](https://dev.to/sm3rta/versioned-web-components-and-micro-front-ends-1m40)
-- [The Complete Next.js Image Guide: 8 Production Patterns Every Developer Should Know](https://dev.to/ar-rashik/the-complete-nextjs-image-guide-8-production-patterns-every-developer-should-know-3k05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
