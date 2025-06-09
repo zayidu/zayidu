@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rust Renaissance: Why OpenAI and the Tech World Are Shifting from Node.js for High-Performance Tools](https://dev.to/platypus98/the-rust-renaissance-why-openai-and-the-tech-world-are-shifting-from-nodejs-for-high-performance-5561)
-- [How to Migrate a PostgreSQL Database to Another Server](https://dev.to/hostman_com/how-to-migrate-a-postgresql-database-to-another-server-56dj)
-- [Charts in CSS](https://dev.to/madsstoumann/charts-in-css-1di1)
-- [Lists, Tuples, Sets, and Dictionaries in Python](https://dev.to/khushii_34ceada974a6bfcc2/lists-tuples-sets-and-dictionaries-in-python-368j)
-- [Top 5 Local LLM Tools and Models in 2025](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2025-47o7)
+- [When Modern Frameworks Fail, These 6 Patterns Save the Day](https://dev.to/tawe/when-modern-frameworks-fail-these-6-patterns-save-the-day-bfg)
+- [A New Technology You Should Know: Seelen-UI](https://dev.to/kpcofgs/a-new-technology-you-should-know-seelen-ui-4cgi)
+- [How To Instantly Create Stunning Professional Diagrams From Hand-Drawn Sketches Online](https://dev.to/ybouane/how-to-instantly-create-stunning-professional-diagrams-from-hand-drawn-sketches-online-2oib)
+- [Best Bolt.new Alternatives](https://dev.to/violetbrown/best-boltnew-alternatives-253e)
+- [In this beginner-friendly series, we’ll go from “What is Docker?” to “I’m confidently using Docker in real-world projects.”](https://dev.to/ibrahimbagalwa/in-this-beginner-friendly-series-well-go-from-what-is-docker-to-im-confidently-using-docker-1g27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
