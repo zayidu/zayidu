@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laid Off](https://dev.to/conscious_coder/laid-off-3293)
-- [How Criminal Lawyers in Hayes Handle Drug Offenses and Their Legal Implications](https://dev.to/mooen_co_c0f09f4e87509ad0/how-criminal-lawyers-in-hayes-handle-drug-offenses-and-their-legal-implications-14ii)
-- [Todo lo nuevo que anunció AWS en FinOps X](https://dev.to/barbara_gaspar/todo-lo-nuevo-que-anuncio-aws-en-finops-x-49fo)
-- [Story Hero - Day 11 Update](https://dev.to/danielreiling/story-hero-day-11-update-3ief)
-- [OCR for Historical Documents and Unusual Fonts](https://dev.to/revisepdf/ocr-for-historical-documents-and-unusual-fonts-4d5g)
+- [C# Override Records ToString](https://dev.to/karenpayneoregon/c-override-records-tostring-50e7)
+- [Fixing “exit code: 255” in AWS CodeBuild](https://dev.to/moyarich/fixing-exit-code-255-in-aws-codebuild-no7)
+- [How Solo Developers Can Launch and Market Their Own Apps](https://dev.to/thevisibilitylab/how-solo-developers-can-launch-and-market-their-own-apps-9bc)
+- [Runner H AI Agent Prompting challenge](https://dev.to/member_adf40bd5/runner-h-ai-agent-prompting-challenge-4lk)
+- [[Snowflake&#39;s New Feature]Cortex AISQL: Multimodal Data Analysis with SQL Commands](https://dev.to/sagara/snowflakes-new-featurecortex-aisql-multimodal-data-analysis-with-sql-commands-4n5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
