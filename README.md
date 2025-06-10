@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100 days of Coding! Day 11](https://dev.to/aaanishaaa/100-days-of-coding-day-11-1117)
-- [Python Pattern Programs – A Beginner-Friendly Guide](https://dev.to/meenakshi052003/python-pattern-programs-a-beginner-friendly-guide-2c6h)
-- [Here are three ways Apple&#39;s rumored AI smart glasses could beat Meta Ray-Ban](https://dev.to/future_arvr/here-are-three-ways-apples-rumored-ai-smart-glasses-could-beat-meta-ray-ban-532i)
-- [Meta&#39;s reportedly shopping for exclusive Disney and A24 content on its upcoming ultralight XR headset](https://dev.to/future_arvr/metas-reportedly-shopping-for-exclusive-disney-and-a24-content-on-its-upcoming-ultralight-xr-4i62)
-- [🌱 Understanding Annotations, Beans, Spring Container &amp; Dependency Injection in Spring Boot](https://dev.to/vigneshwaralingam/understanding-annotations-beans-spring-container-dependency-injection-in-spring-boot-2hjh)
+- [A small guide how to start AWS Community Day from scratch](https://dev.to/aws-builders/a-small-guide-how-to-start-aws-community-day-from-scratch-3ehk)
+- [How Apps Run: Bare Metal, VMs, and Containers Compared](https://dev.to/rijultp/how-apps-run-bare-metal-vms-and-containers-compared-13ch)
+- [Why You Should Care About BuildContext in Flutter: The One Mistake That Cost Me Hours](https://dev.to/alaminkarno/why-you-should-care-about-buildcontext-in-flutter-the-one-mistake-that-cost-me-hours-5fn3)
+- [This kind of story gives new leaders permission to be thoughtful, not just efficient.](https://dev.to/themargauxs/this-kind-of-story-gives-new-leaders-permission-to-be-thoughtful-not-just-efficient-19d4)
+- [◼️34/100 Block-by-Block: Web3 domain services](https://dev.to/nocibambi/34100-block-by-block-web3-domain-services-489d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
