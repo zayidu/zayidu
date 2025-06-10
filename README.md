@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My personal website](https://dev.to/m__mdy__m/my-personal-website-5h20)
-- [Quickly Create Remote MCP Servers for APIs with Zuplo](https://dev.to/zuplo/quickly-create-remote-mcp-servers-for-apis-with-zuplo-18o6)
-- [How to Convert Images to PDF in Java Using the Cloud SDK](https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-convert-images-to-pdf-in-java-using-the-cloud-sdk-36e4)
-- [What is Tableau?](https://dev.to/satya_prakash_06/what-is-tableau-332n)
-- [Challenge: File Download](https://dev.to/travondatrack/challenge-file-download-17g9)
+- [Android Studio: Stockholm Syndrome Disguised as an IDE](https://dev.to/pranta/android-studio-stockholm-syndrome-disguised-as-an-ide-2llf)
+- [Js interview #1 : var, let, and const in JavaScript – What&#39;s the Difference?](https://dev.to/mahammadmansur95/js-interview-1-var-let-and-const-in-javascript-whats-the-difference-nhj)
+- [How to Get a Windows 11 Key for Less Than $10 &lpar;2025&rpar;](https://dev.to/azzeddine_douche_7f365703/how-to-get-a-windows-11-key-for-less-than-10-2025-4eij)
+- [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
+- [Your Ultimate Dev Server Setup: With Tailscale, Caddy, and Docker](https://dev.to/shrsv/your-ultimate-dev-server-setup-with-tailscale-caddy-and-docker-1laf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
