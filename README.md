@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Features I Wish MySQL Had but Postgres Already Has](https://dev.to/bytebase/features-i-wish-mysql-had-but-postgres-already-has-4986)
-- [The Unstoppable Rise of AI: A 2025 Perspective](https://dev.to/deepika0614/the-unstoppable-rise-of-ai-a-2025-perspective-9mn)
-- [The complete guide to building MCP Agents](https://dev.to/composiodev/the-complete-guide-to-building-mcp-agents-543m)
-- [Top 5 Full-Stack Development Companies in Sweden in 2025: A Developer’s Perspective](https://dev.to/farheen_56ec2dd2897def354/top-5-full-stack-development-companies-in-sweden-in-2025-a-developers-perspective-3pja)
-- [Title: Unveiling &quot;The Untold&quot;: A Deep Dive into Homelessness and Community Action](https://dev.to/rohith200589/title-unveiling-the-untold-a-deep-dive-into-homelessness-and-community-action-2n38)
+- [Pure Casual: Next.js, TypeScript, shadcn/ui &amp; Zustand E-Commerce](https://dev.to/saidmounaim/pure-casual-nextjs-typescript-shadcnui-zustand-e-commerce-2foj)
+- [[Boost]](https://dev.to/anthonymax/-2j64)
+- [Quantum Computing 101: Why Every Developer Should Pay Attention Right Now](https://dev.to/dct_technology/quantum-computing-101-why-every-developer-should-pay-attention-right-now-139k)
+- [Developers, Stop Guessing , Real Users Are Telling You What Works](https://dev.to/p_0c0278d/developers-stop-guessing-real-users-are-telling-you-what-works-4k3h)
+- [Biometric Security: MFA &amp; SSO Explained for Secure Access](https://dev.to/authx/biometric-security-mfa-sso-explained-for-secure-access-3kib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
