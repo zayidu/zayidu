@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Arrays – Part 1: What, Why &amp; How](https://dev.to/ananyakallankudlu/a-deep-dive-into-arrays-part-1-what-why-how-1oio)
-- [New to Flotiq? Here’s what you need to know before you register](https://dev.to/flotiq/new-to-flotiq-heres-what-you-need-to-know-before-you-register-4odp)
-- [Crap, is Node.js Dead? I Barely Warmed Up My Express App!](https://dev.to/tomastomas/crap-is-nodejs-dead-i-barely-warmed-up-my-express-app-2fof)
-- [Untitled](https://dev.to/lakhdar_kaddar_e80cf1d903/untitled-220o)
-- [Cookie Consent Banners: The UX Nightmare Every Developer Inherits &lpar;And How to Actually Fix It&rpar;](https://dev.to/mehwish_malik_4f29ff7fb04/cookie-consent-banners-the-ux-nightmare-every-developer-inherits-and-how-to-actually-fix-it-12cm)
+- [🔒 How HTTPS Works — Explained in a Comic! 🌈🎉🍕](https://dev.to/ml318097/how-https-works-explained-in-a-comic-2p8a)
+- [Tidbit 04: JavaScript Promise Chain vs No-Chain](https://dev.to/atapas/tidbit-04-javascript-promise-chain-vs-no-chain-339p)
+- [✨ Web3 Tribe: No Cap, Just Community 💎](https://dev.to/dhis_is_jj/web3-tribe-no-cap-just-community-4j7o)
+- [🚀 Zero-Config Database Setup with Drizzle ORM - From Zero to Hero in 30 Seconds](https://dev.to/devgauravjatt/zero-config-database-setup-with-drizzle-orm-from-zero-to-hero-in-30-seconds-4f2d)
+- [Active Job Continuations is now part of Rails!](https://dev.to/tsudhishnair/active-job-continuations-is-now-part-of-rails-1b84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
