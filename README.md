@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Most Difficult Thing You Ever Had to Code?](https://dev.to/anitaolsen/what-is-the-most-difficult-thing-you-ever-had-to-code-bfp)
-- [🚀 From Local Repo to GitHub – Your First Commit and Push](https://dev.to/1suleyman/from-local-repo-to-github-your-first-commit-and-push-26fe)
-- [I appreciate the fact that this didn’t try to fix everything with a list of tools. It’s deeper than that, and more useful because of it.](https://dev.to/dayologic/i-appreciate-the-fact-that-this-didnt-try-to-fix-everything-with-a-list-of-tools-its-deeper-than-mda)
-- [Is Burnout the Default Setting for Modern Developers?](https://dev.to/jliter/is-burnout-the-default-setting-for-modern-developers-4ooc)
-- [Cracking the Code: Best Wordle Starting Words](https://dev.to/andreita_bello_aa877b46c5/cracking-the-code-best-wordle-starting-words-42dj)
+- [The Moon Doesn’t Need Followers. It Needs Witnesses.](https://dev.to/versiqcontent/the-moon-doesnt-need-followers-it-needs-witnesses-2g24)
+- [Stop Writing Docs, Start Generating Them: How I Document My Code in Minutes with Syntax Scribe](https://dev.to/mrpatrickwright/stop-writing-docs-start-generating-them-how-i-document-my-code-in-minutes-with-syntax-scribe-174m)
+- [Surviving Extreme Programming: A Developer&#39;s Wild Ride](https://dev.to/sazardev/surviving-extreme-programming-a-developers-wild-ride-4m3a)
+- [Debugging Playwright Tests with AI: A Smarter, Faster Workflow](https://dev.to/playwright/debugging-playwright-tests-with-ai-a-smarter-faster-workflow-4501)
+- [🚀 Understanding The GitHub Flow: Your Blueprint for Collaborative Coding](https://dev.to/1suleyman/understanding-the-github-flow-your-blueprint-for-collaborative-coding-2pkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
