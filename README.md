@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔒 How HTTPS Works — Explained in a Comic! 🌈🎉🍕](https://dev.to/ml318097/how-https-works-explained-in-a-comic-2p8a)
-- [Tidbit 04: JavaScript Promise Chain vs No-Chain](https://dev.to/atapas/tidbit-04-javascript-promise-chain-vs-no-chain-339p)
-- [✨ Web3 Tribe: No Cap, Just Community 💎](https://dev.to/dhis_is_jj/web3-tribe-no-cap-just-community-4j7o)
-- [🚀 Zero-Config Database Setup with Drizzle ORM - From Zero to Hero in 30 Seconds](https://dev.to/devgauravjatt/zero-config-database-setup-with-drizzle-orm-from-zero-to-hero-in-30-seconds-4f2d)
-- [Active Job Continuations is now part of Rails!](https://dev.to/tsudhishnair/active-job-continuations-is-now-part-of-rails-1b84)
+- [How to Become a Blockchain Validator](https://dev.to/davidekete/how-to-become-a-blockchain-validator-4j7j)
+- [Test automation to accelerate the release of eLearning software without compromising quality](https://dev.to/pavel_novik/test-automation-to-accelerate-the-release-of-elearning-software-without-compromising-quality-51bg)
+- [Thor vs. Loki: A Sibling Rivalry for the Ages &lpar;and the Throne?&rpar;](https://dev.to/sia_negi21/thor-vs-loki-a-sibling-rivalry-for-the-ages-and-the-throne-3mbp)
+- [Billionaire Wealth vs National Economies: A Developer’s Perspective on Global Power](https://dev.to/alexnav/billionaire-wealth-vs-national-economies-a-developers-perspective-on-global-power-3og1)
+- [Custodial vs Self Custody vs MPC Wallets: Where KS Wallet Stands](https://dev.to/kalpstudio/custodial-vs-self-custody-vs-mpc-wallets-where-ks-wallet-stands-5g4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
