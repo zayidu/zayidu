@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Read This Before OOP-ing Your Project : The Curse of Inheritance.](https://dev.to/sfundomhlungu/read-this-before-oop-ing-your-project-the-curse-of-inheritance-52hi)
-- [Kubernetes Fundamentals: A Beginner’s Guide to Modern Container Orchestration](https://dev.to/sindhuja_ns_1e491ce1088d/kubernetes-fundamentals-a-beginners-guide-to-modern-container-orchestration-3002)
-- [Building High-Performance Web3 Infrastructure @ EvaCodes](https://dev.to/illia_kuzmenko_24d533cb0d/building-high-performance-web3-infrastructure-evacodes-436l)
-- [Optimize Your SaaS Funnel with AI Developer](https://dev.to/alex2002/optimize-your-saas-funnel-with-ai-developer-3hca)
-- [SelfDB – Ditch Supabase and Firebase Lock-In, Self-Host Simply](https://dev.to/selfdb_io/selfdb-ditch-supabase-and-firebase-lock-in-self-host-simply-53nb)
+- [Features I Wish MySQL Had but Postgres Already Has](https://dev.to/bytebase/features-i-wish-mysql-had-but-postgres-already-has-4986)
+- [The Unstoppable Rise of AI: A 2025 Perspective](https://dev.to/deepika0614/the-unstoppable-rise-of-ai-a-2025-perspective-9mn)
+- [The complete guide to building MCP Agents](https://dev.to/composiodev/the-complete-guide-to-building-mcp-agents-543m)
+- [Top 5 Full-Stack Development Companies in Sweden in 2025: A Developer’s Perspective](https://dev.to/farheen_56ec2dd2897def354/top-5-full-stack-development-companies-in-sweden-in-2025-a-developers-perspective-3pja)
+- [Title: Unveiling &quot;The Untold&quot;: A Deep Dive into Homelessness and Community Action](https://dev.to/rohith200589/title-unveiling-the-untold-a-deep-dive-into-homelessness-and-community-action-2n38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
