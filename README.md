@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
-- [Debug Heroku Deployment Errors: Slay Asset Compilation &amp; Env Vars Dragons 🐉](https://dev.to/alex_aslam/debug-heroku-deployment-errors-slay-asset-compilation-env-vars-dragons-3pdk)
-- [Software Architecture Needs a Rethink &lpar;Because AI Isn&#39;t Waiting&rpar;](https://dev.to/enricopiovesan/software-architecture-needs-a-rethink-because-ai-isnt-waiting-31me)
-- [12 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
-- [Understanding DRAM Internals: How Channels, Banks, and DRAM Access Patterns Impact Performance](https://dev.to/sachin_tolay_052a7e539e57/understanding-dram-internals-how-channels-banks-and-dram-access-patterns-impact-performance-57ng)
+- [🌟 Showcase Your APIs On AquaScript For Free 🚀](https://dev.to/hanzla-baig/showcase-your-apis-on-aquascript-for-free-49oe)
+- [Mi momento más humilde, o cómo inicié en FinOps &lpar;es lo mismo 🫠&rpar;](https://dev.to/barbara_gaspar/mi-momento-mas-humilde-o-como-inicie-en-finops-es-lo-mismo--2eko)
+- [Conditional Grouping — From SQL to SPL #37](https://dev.to/judith677/conditional-grouping-from-sql-to-spl-37-3nej)
+- [Apple&#39;s Foundation Models Framework: A Closer Look](https://dev.to/distalx/apples-foundation-models-framework-a-closer-look-jf2)
+- [How to Run Frontend &amp; Backend Together with One Command &lpar;No Docker Needed&rpar;](https://dev.to/sumonta056/how-to-run-frontend-backend-together-with-one-command-no-docker-needed-29nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
