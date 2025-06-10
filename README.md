@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A small guide how to start AWS Community Day from scratch](https://dev.to/aws-builders/a-small-guide-how-to-start-aws-community-day-from-scratch-3ehk)
-- [How Apps Run: Bare Metal, VMs, and Containers Compared](https://dev.to/rijultp/how-apps-run-bare-metal-vms-and-containers-compared-13ch)
-- [Why You Should Care About BuildContext in Flutter: The One Mistake That Cost Me Hours](https://dev.to/alaminkarno/why-you-should-care-about-buildcontext-in-flutter-the-one-mistake-that-cost-me-hours-5fn3)
-- [This kind of story gives new leaders permission to be thoughtful, not just efficient.](https://dev.to/themargauxs/this-kind-of-story-gives-new-leaders-permission-to-be-thoughtful-not-just-efficient-19d4)
-- [◼️34/100 Block-by-Block: Web3 domain services](https://dev.to/nocibambi/34100-block-by-block-web3-domain-services-489d)
+- [Goodbye, Mutexes: An Introduction to the C++ Actor Model with `qb`](https://dev.to/mbelhadi/goodbye-mutexes-an-introduction-to-the-c-actor-model-with-qb-4g2c)
+- [any facing playwright docker image issue as below](https://dev.to/raju_lingampalli_8813d86f/any-facing-playwright-docker-image-issue-as-below-3d55)
+- [Clerk Billing Live Demo + AMA](https://dev.to/arapp_clerkian/clerk-billing-live-demo-ama-d4o)
+- [[Boost]](https://dev.to/dessignnet/-116a)
+- [The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet](https://dev.to/snehapatil1/the-iloveyou-virus-when-the-first-social-engineering-attack-broke-the-internet-50i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
