@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Changing the Estate Planning Attorney’s Role](https://dev.to/dalton_abreshears/how-ai-is-changing-the-estate-planning-attorneys-role-2pb5)
-- [How i validated my MVP without investing any cents on it using cloudflared tunnel](https://dev.to/adamsnows/creating-your-own-vps-using-your-own-computer-and-cloudflare-tunnel-j8d)
-- [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
-- [LibreBlog — An in-browser Static Site Generator focused on content-rich blogs and news websites](https://dev.to/thiagogq/libreblog-an-in-browser-static-site-generator-focused-on-content-rich-blogs-and-news-websites-196n)
-- [Trying Out New Ideas](https://dev.to/allramest83/trying-out-new-ideas-4pjk)
+- [Xcode Build Phase 文件类型谜团](https://dev.to/yo1995/xcode-build-phase-wen-jian-lei-xing-mi-tuan-o03)
+- [The IntelliJ Settings I Always Change &lpar;Every. Single. Time.&rpar;](https://dev.to/tarcalia/the-intellij-settings-i-always-change-every-single-time-2oii)
+- [Story Hero - Day 12 Update](https://dev.to/danielreiling/story-hero-day-12-update-2p5c)
+- [Create a Java Microservice Using Spring Boot in Minutes with Maven](https://dev.to/amit_salvi_at_dev_to/create-a-java-microservice-using-spring-boot-in-minutes-with-maven-50p9)
+- [Compressing for Performance over Cost in Opensearch](https://dev.to/aayush/compressing-for-performance-over-cost-in-opensearch-2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
