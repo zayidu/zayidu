@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Showcase Your APIs On AquaScript For Free 🚀](https://dev.to/hanzla-baig/showcase-your-apis-on-aquascript-for-free-49oe)
-- [Mi momento más humilde, o cómo inicié en FinOps &lpar;es lo mismo 🫠&rpar;](https://dev.to/barbara_gaspar/mi-momento-mas-humilde-o-como-inicie-en-finops-es-lo-mismo--2eko)
-- [Conditional Grouping — From SQL to SPL #37](https://dev.to/judith677/conditional-grouping-from-sql-to-spl-37-3nej)
-- [Apple&#39;s Foundation Models Framework: A Closer Look](https://dev.to/distalx/apples-foundation-models-framework-a-closer-look-jf2)
-- [How to Run Frontend &amp; Backend Together with One Command &lpar;No Docker Needed&rpar;](https://dev.to/sumonta056/how-to-run-frontend-backend-together-with-one-command-no-docker-needed-29nd)
+- [🧮Beginner-Friendly Guide &quot;Maximum Difference Between Even and Odd Frequency I&quot; LeetCode 3442 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-difference-between-even-and-odd-frequency-i-leetcode-3442-c-5734)
+- [CVE-2025-29927: How a Header Bypass in Next.js Broke Auth for Some AI Apps](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-29927-how-a-header-bypass-in-nextjs-broke-auth-for-some-ai-apps-518p)
+- [Troubleshooting de redes em servidores cloud: como identifiquei um problema externo na conectividade](https://dev.to/marcos_vile/troubleshooting-de-redes-em-servidores-cloud-como-identifiquei-um-problema-externo-na-conectividade-122o)
+- [📊 New: Amazon CloudWatch Agent Now Supports Detailed EBS Performance Metrics &lpar;June 2025&rpar;](https://dev.to/latchudevops/new-amazon-cloudwatch-agent-now-supports-detailed-ebs-performance-metrics-june-2025-2lld)
+- [Shell for anxious developers](https://dev.to/augustohp/shell-primer-for-anxious-developers-38i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
