@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Session Manager but in Azure? Introducing Azure Bastion](https://dev.to/ppabis/aws-session-manager-but-in-azure-introducing-azure-bastion-2597)
-- [100+ Downloads in One Day!](https://dev.to/pjdeveloper896/100-downloads-in-one-day-1ggn)
-- [Java Inheritance](https://dev.to/prasanth362k/java-inheritance-1ha7)
-- [Top SaaS Trends in 2025: What Developers &amp; Startups Need to Know](https://dev.to/davidsadler/top-saas-trends-in-2025-what-developers-startups-need-to-know-3med)
-- [Customizing Phoenix LiveView’s Diffing and Rendering for Ultra-High Performance](https://dev.to/hexshift/customizing-phoenix-liveviews-diffing-and-rendering-for-ultra-high-performance-41db)
+- [Read This Before OOP-ing Your Project : The Curse of Inheritance.](https://dev.to/sfundomhlungu/read-this-before-oop-ing-your-project-the-curse-of-inheritance-52hi)
+- [Kubernetes Fundamentals: A Beginner’s Guide to Modern Container Orchestration](https://dev.to/sindhuja_ns_1e491ce1088d/kubernetes-fundamentals-a-beginners-guide-to-modern-container-orchestration-3002)
+- [Building High-Performance Web3 Infrastructure @ EvaCodes](https://dev.to/illia_kuzmenko_24d533cb0d/building-high-performance-web3-infrastructure-evacodes-436l)
+- [Optimize Your SaaS Funnel with AI Developer](https://dev.to/alex2002/optimize-your-saas-funnel-with-ai-developer-3hca)
+- [SelfDB – Ditch Supabase and Firebase Lock-In, Self-Host Simply](https://dev.to/selfdb_io/selfdb-ditch-supabase-and-firebase-lock-in-self-host-simply-53nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
