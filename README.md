@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become a Blockchain Validator](https://dev.to/davidekete/how-to-become-a-blockchain-validator-4j7j)
-- [Test automation to accelerate the release of eLearning software without compromising quality](https://dev.to/pavel_novik/test-automation-to-accelerate-the-release-of-elearning-software-without-compromising-quality-51bg)
-- [Thor vs. Loki: A Sibling Rivalry for the Ages &lpar;and the Throne?&rpar;](https://dev.to/sia_negi21/thor-vs-loki-a-sibling-rivalry-for-the-ages-and-the-throne-3mbp)
-- [Billionaire Wealth vs National Economies: A Developer’s Perspective on Global Power](https://dev.to/alexnav/billionaire-wealth-vs-national-economies-a-developers-perspective-on-global-power-3og1)
-- [Custodial vs Self Custody vs MPC Wallets: Where KS Wallet Stands](https://dev.to/kalpstudio/custodial-vs-self-custody-vs-mpc-wallets-where-ks-wallet-stands-5g4o)
+- [What is the Most Difficult Thing You Ever Had to Code?](https://dev.to/anitaolsen/what-is-the-most-difficult-thing-you-ever-had-to-code-bfp)
+- [🚀 From Local Repo to GitHub – Your First Commit and Push](https://dev.to/1suleyman/from-local-repo-to-github-your-first-commit-and-push-26fe)
+- [I appreciate the fact that this didn’t try to fix everything with a list of tools. It’s deeper than that, and more useful because of it.](https://dev.to/dayologic/i-appreciate-the-fact-that-this-didnt-try-to-fix-everything-with-a-list-of-tools-its-deeper-than-mda)
+- [Is Burnout the Default Setting for Modern Developers?](https://dev.to/jliter/is-burnout-the-default-setting-for-modern-developers-4ooc)
+- [Cracking the Code: Best Wordle Starting Words](https://dev.to/andreita_bello_aa877b46c5/cracking-the-code-best-wordle-starting-words-42dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
