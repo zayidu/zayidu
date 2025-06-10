@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Studio: Stockholm Syndrome Disguised as an IDE](https://dev.to/pranta/android-studio-stockholm-syndrome-disguised-as-an-ide-2llf)
-- [Js interview #1 : var, let, and const in JavaScript – What&#39;s the Difference?](https://dev.to/mahammadmansur95/js-interview-1-var-let-and-const-in-javascript-whats-the-difference-nhj)
-- [How to Get a Windows 11 Key for Less Than $10 &lpar;2025&rpar;](https://dev.to/azzeddine_douche_7f365703/how-to-get-a-windows-11-key-for-less-than-10-2025-4eij)
-- [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
-- [Your Ultimate Dev Server Setup: With Tailscale, Caddy, and Docker](https://dev.to/shrsv/your-ultimate-dev-server-setup-with-tailscale-caddy-and-docker-1laf)
+- [100 days of Coding! Day 11](https://dev.to/aaanishaaa/100-days-of-coding-day-11-1117)
+- [Python Pattern Programs – A Beginner-Friendly Guide](https://dev.to/meenakshi052003/python-pattern-programs-a-beginner-friendly-guide-2c6h)
+- [Here are three ways Apple&#39;s rumored AI smart glasses could beat Meta Ray-Ban](https://dev.to/future_arvr/here-are-three-ways-apples-rumored-ai-smart-glasses-could-beat-meta-ray-ban-532i)
+- [Meta&#39;s reportedly shopping for exclusive Disney and A24 content on its upcoming ultralight XR headset](https://dev.to/future_arvr/metas-reportedly-shopping-for-exclusive-disney-and-a24-content-on-its-upcoming-ultralight-xr-4i62)
+- [🌱 Understanding Annotations, Beans, Spring Container &amp; Dependency Injection in Spring Boot](https://dev.to/vigneshwaralingam/understanding-annotations-beans-spring-container-dependency-injection-in-spring-boot-2hjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
