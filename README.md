@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye, Mutexes: An Introduction to the C++ Actor Model with `qb`](https://dev.to/mbelhadi/goodbye-mutexes-an-introduction-to-the-c-actor-model-with-qb-4g2c)
-- [any facing playwright docker image issue as below](https://dev.to/raju_lingampalli_8813d86f/any-facing-playwright-docker-image-issue-as-below-3d55)
-- [Clerk Billing Live Demo + AMA](https://dev.to/arapp_clerkian/clerk-billing-live-demo-ama-d4o)
-- [[Boost]](https://dev.to/dessignnet/-116a)
-- [The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet](https://dev.to/snehapatil1/the-iloveyou-virus-when-the-first-social-engineering-attack-broke-the-internet-50i1)
+- [How AI Is Changing the Estate Planning Attorney’s Role](https://dev.to/dalton_abreshears/how-ai-is-changing-the-estate-planning-attorneys-role-2pb5)
+- [How i validated my MVP without investing any cents on it using cloudflared tunnel](https://dev.to/adamsnows/creating-your-own-vps-using-your-own-computer-and-cloudflare-tunnel-j8d)
+- [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
+- [LibreBlog — An in-browser Static Site Generator focused on content-rich blogs and news websites](https://dev.to/thiagogq/libreblog-an-in-browser-static-site-generator-focused-on-content-rich-blogs-and-news-websites-196n)
+- [Trying Out New Ideas](https://dev.to/allramest83/trying-out-new-ideas-4pjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
