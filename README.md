@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Moon Doesn’t Need Followers. It Needs Witnesses.](https://dev.to/versiqcontent/the-moon-doesnt-need-followers-it-needs-witnesses-2g24)
-- [Stop Writing Docs, Start Generating Them: How I Document My Code in Minutes with Syntax Scribe](https://dev.to/mrpatrickwright/stop-writing-docs-start-generating-them-how-i-document-my-code-in-minutes-with-syntax-scribe-174m)
-- [Surviving Extreme Programming: A Developer&#39;s Wild Ride](https://dev.to/sazardev/surviving-extreme-programming-a-developers-wild-ride-4m3a)
-- [Debugging Playwright Tests with AI: A Smarter, Faster Workflow](https://dev.to/playwright/debugging-playwright-tests-with-ai-a-smarter-faster-workflow-4501)
-- [🚀 Understanding The GitHub Flow: Your Blueprint for Collaborative Coding](https://dev.to/1suleyman/understanding-the-github-flow-your-blueprint-for-collaborative-coding-2pkf)
+- [My personal website](https://dev.to/m__mdy__m/my-personal-website-5h20)
+- [Quickly Create Remote MCP Servers for APIs with Zuplo](https://dev.to/zuplo/quickly-create-remote-mcp-servers-for-apis-with-zuplo-18o6)
+- [How to Convert Images to PDF in Java Using the Cloud SDK](https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-convert-images-to-pdf-in-java-using-the-cloud-sdk-36e4)
+- [What is Tableau?](https://dev.to/satya_prakash_06/what-is-tableau-332n)
+- [Challenge: File Download](https://dev.to/travondatrack/challenge-file-download-17g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
