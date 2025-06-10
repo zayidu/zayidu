@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧮Beginner-Friendly Guide &quot;Maximum Difference Between Even and Odd Frequency I&quot; LeetCode 3442 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-difference-between-even-and-odd-frequency-i-leetcode-3442-c-5734)
-- [CVE-2025-29927: How a Header Bypass in Next.js Broke Auth for Some AI Apps](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-29927-how-a-header-bypass-in-nextjs-broke-auth-for-some-ai-apps-518p)
-- [Troubleshooting de redes em servidores cloud: como identifiquei um problema externo na conectividade](https://dev.to/marcos_vile/troubleshooting-de-redes-em-servidores-cloud-como-identifiquei-um-problema-externo-na-conectividade-122o)
-- [📊 New: Amazon CloudWatch Agent Now Supports Detailed EBS Performance Metrics &lpar;June 2025&rpar;](https://dev.to/latchudevops/new-amazon-cloudwatch-agent-now-supports-detailed-ebs-performance-metrics-june-2025-2lld)
-- [Shell for anxious developers](https://dev.to/augustohp/shell-primer-for-anxious-developers-38i8)
+- [AWS Session Manager but in Azure? Introducing Azure Bastion](https://dev.to/ppabis/aws-session-manager-but-in-azure-introducing-azure-bastion-2597)
+- [100+ Downloads in One Day!](https://dev.to/pjdeveloper896/100-downloads-in-one-day-1ggn)
+- [Java Inheritance](https://dev.to/prasanth362k/java-inheritance-1ha7)
+- [Top SaaS Trends in 2025: What Developers &amp; Startups Need to Know](https://dev.to/davidsadler/top-saas-trends-in-2025-what-developers-startups-need-to-know-3med)
+- [Customizing Phoenix LiveView’s Diffing and Rendering for Ultra-High Performance](https://dev.to/hexshift/customizing-phoenix-liveviews-diffing-and-rendering-for-ultra-high-performance-41db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
