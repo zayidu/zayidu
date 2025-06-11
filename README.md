@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [quieressermisanvalentin](https://dev.to/andriwil_590ab7253167fb02/quieressermisanvalentin-4fcc)
-- [QuCode - 21DaysChallenge - Day 10](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-10-504m)
-- [Check Every Key Exists in a PHP Array with Arr::hasAll&lpar;&rpar;](https://dev.to/ashallendesign/check-every-key-exists-in-a-php-array-with-arrhasall-4hef)
-- [Spring Boot 3 Redis](https://dev.to/c4rlosc7/spring-boot-3-redis-l9g)
-- [Why the M16A1 Upper Is Still the Backbone of Precision AR Builds](https://dev.to/alexjames25/why-the-m16a1-upper-is-still-the-backbone-of-precision-ar-builds-nmg)
+- [Web Trendleri 2023: Geleceği Şekillendirenler](https://dev.to/yunus_emremert_1756b71d3/web-trendleri-2023-gelecegi-sekillendirenler-3376)
+- [Learning Code Readability from K8s](https://dev.to/leapcell/learning-code-readability-from-k8s-h90)
+- [Matrizes](https://dev.to/joaopedrov0/matrizes-i6a)
+- [Screenshot to React Code: AI Vision Transforms Any UI Instantly](https://dev.to/atforeveryoung/screenshot-to-react-code-ai-vision-transforms-any-ui-instantly-bk2)
+- [Why Blockchain Gaming Isn’t Here Yet &lpar;and What’s Needed to Get There&rpar;](https://dev.to/alpinedev/why-blockchain-gaming-isnt-here-yet-and-whats-needed-to-get-there-k87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
