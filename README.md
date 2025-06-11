@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Take Your Software Job?](https://dev.to/sfundomhlungu/will-ai-take-your-software-job-5gno)
-- [OLED vs LCD Screens](https://dev.to/bizbee/oled-vs-lcd-screens-4m53)
-- [How to Design a Spiral Sea Shell Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-sea-shell-using-3d-cad-software-4mbk)
-- [🚀 RazChatz – Real-Time Chat App](https://dev.to/mohammad_razak/razchatz-real-time-chat-app-15nl)
-- [Redroid](https://dev.to/avkr/redroid-o6n)
+- [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
+- [Your Guide to Cracking the EKS Architecture](https://dev.to/narravulamunisaiteja070/your-guide-to-cracking-the-eks-architecture-35jn)
+- [📊 Monitoring Systems and Services with Prometheus: Real-Time Insights for Modern Infrastructure](https://dev.to/sindhuja_ns_1e491ce1088d/monitoring-systems-and-services-with-prometheus-real-time-insights-for-modern-infrastructure-15k4)
+- [Building Teams for Digital Products: Essential Roles, Methods, and Real-World Advice](https://dev.to/byteminds_agency/building-teams-for-digital-products-essential-roles-methods-and-real-world-advice-2m0o)
+- [🔥 GhostOS ContentAI – Local Ollama + Persona-Based Content Generator](https://dev.to/ghostking314/ghostos-contentai-local-ollama-persona-based-content-generator-5doi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
