@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Family-Friendly Guide to Exploring Andaman](https://dev.to/muppidathiskyplanet_b9695/a-family-friendly-guide-to-exploring-andaman-59n1)
-- [How to Add Images to Existing PDF Documents](https://dev.to/revisepdf/how-to-add-images-to-existing-pdf-documents-29c4)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/puritynyaguthii/how-excel-is-used-in-real-world-data-analysis-40cd)
-- [When to Use Arc and Mutex in Rust](https://dev.to/sgchris/when-to-use-arc-and-mutex-in-rust-420j)
-- [Introduction to Cryptography: Basic Blocks](https://dev.to/dmytro_huz/introduction-to-cryptography-basic-blocks-3an7)
+- [Halo PS5 port reportedly added to 343&#39;s tracked API, claims very trusted leaker](https://dev.to/gg_news/halo-ps5-port-reportedly-added-to-343s-tracked-api-claims-very-trusted-leaker-325o)
+- [Switch 2 is Nintendo&#39;s biggest UK launch, but doesn&#39;t surpass PS5 or Xbox Series](https://dev.to/gg_news/switch-2-is-nintendos-biggest-uk-launch-but-doesnt-surpass-ps5-or-xbox-series-39b8)
+- [Nintendo Switch 2 Sells Over 3.5 Million Units Worldwide in First Four Days](https://dev.to/gg_news/nintendo-switch-2-sells-over-35-million-units-worldwide-in-first-four-days-4fjh)
+- [ChatGPT gets crushed at chess by a 1 MHz Atari 2600](https://dev.to/gg_news/chatgpt-gets-crushed-at-chess-by-a-1-mhz-atari-2600-3lkj)
+- [Japanese gacha game causes unprecedented sales of European 13th century classic Divine Comedy](https://dev.to/gg_news/japanese-gacha-game-causes-unprecedented-sales-of-european-13th-century-classic-divine-comedy-3mml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
