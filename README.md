@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
-- [Your Guide to Cracking the EKS Architecture](https://dev.to/narravulamunisaiteja070/your-guide-to-cracking-the-eks-architecture-35jn)
-- [📊 Monitoring Systems and Services with Prometheus: Real-Time Insights for Modern Infrastructure](https://dev.to/sindhuja_ns_1e491ce1088d/monitoring-systems-and-services-with-prometheus-real-time-insights-for-modern-infrastructure-15k4)
-- [Building Teams for Digital Products: Essential Roles, Methods, and Real-World Advice](https://dev.to/byteminds_agency/building-teams-for-digital-products-essential-roles-methods-and-real-world-advice-2m0o)
-- [🔥 GhostOS ContentAI – Local Ollama + Persona-Based Content Generator](https://dev.to/ghostking314/ghostos-contentai-local-ollama-persona-based-content-generator-5doi)
+- [June 11 2025](https://dev.to/liza_1978/june-11-2025-fc6)
+- [🧠 Letting AI Drive: A Month of Building with GitHub Copilot](https://dev.to/anchildress11/letting-ai-drive-a-month-of-building-with-github-copilot-4a94)
+- [Learn to Use Microsoft OneNote for Note-Taking Without Getting Overwhelmed — A Steady Start](https://dev.to/rushier/learn-to-use-microsoft-onenote-for-note-taking-without-getting-overwhelmed-a-steady-start-5dcb)
+- [Excel has changed my view on data and its analysis](https://dev.to/lesootia/excel-has-changed-my-view-on-data-and-its-analysis-4lk)
+- [Cracking Down on Cyber Scams: A Breakthrough in Email Threat Detection Using AI .](https://dev.to/saboorhamedi/cracking-down-on-cyber-scams-a-breakthrough-in-email-threat-detection-using-ai--4049)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
