@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Giant Viruses Discovered in the Ocean: A Hidden World of Microbial Power](https://dev.to/maurizio_morri_f7f4bd128c/giant-viruses-discovered-in-the-ocean-a-hidden-world-of-microbial-power-368p)
-- [DevLog 20250611: SFML Text Shaping](https://dev.to/methodoxdivooka/devlog-20250611-sfml-text-shaping-3m39)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/lilly_kiganya_31ded25bb2f/how-excel-is-used-in-real-world-data-analysis-i0i)
-- [Sustainable Living &amp; Environmental Impact Optimizer Agent](https://dev.to/ai_agi/sustainable-living-environmental-impact-optimizer-agent-5d90)
-- [Self-Sovereign Identity: The Missing Link for Web3](https://dev.to/vaib/self-sovereign-identity-the-missing-link-for-web3-c3m)
+- [I built &amp; launched AI headshot generator in 2 weeks](https://dev.to/codebucks/i-built-launched-ai-headshot-generator-in-2-weeks-ec2)
+- [This AI Tool Creates Professional Diagrams in 3 Seconds &lpar;You&#39;ll Definitely Love It!&rpar;](https://dev.to/connectalamin/this-ai-tool-creates-professional-diagrams-in-3-seconds-youll-definitely-love-it-75o)
+- [🚀 Parte 1: Fundamentos do Quarkus - Capítulo 2](https://dev.to/erf88/parte-1-fundamentos-do-quarkus-capitulo-2-c63)
+- [LLM and AI for Full-Stack Developers: A Practical Guide to Modern Development](https://dev.to/neeleshwark17/llm-and-ai-for-full-stack-developers-a-practical-guide-to-modern-development-30cg)
+- [Exporting AUDIT tables Using Oracle Data Pump](https://dev.to/vahidusefzadeh/exporting-audit-tables-using-oracle-data-pump-1ahj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
