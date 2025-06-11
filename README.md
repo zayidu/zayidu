@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix JSP Not Rendering in Spring Boot &lpar;MVC + IntelliJ Guide&rpar;](https://dev.to/madebawojo/fix-jsp-not-rendering-in-spring-boot-mvc-intellij-guide-nmd)
-- [Learning Perl - Prototypes](https://dev.to/lnationorg/learning-perl-prototypes-3ha8)
-- [Leveraging AI-Driven Predictive Analytics to Optimize Test Execution in Agile Environments](https://dev.to/ramamallika_kadali_49a08f/leveraging-ai-driven-predictive-analytics-to-optimize-test-execution-in-agile-environments-2nna)
-- [Rust for Kids](https://dev.to/antonds/rust-for-kids-m0n)
-- [Federated Learning: The Future of Private, Collaborative AI with Large Language Models](https://dev.to/vaib/federated-learning-the-future-of-private-collaborative-ai-with-large-language-models-1fhb)
+- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
+- [Karaoke Maker: From Music Video to KTV](https://dev.to/bigi/karaoke-maker-from-music-video-to-ktv-52op)
+- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
+- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
+- [This AI App Made My Trades Smarter — Try It FREE Before Everyone Else!](https://dev.to/juanemilio31323/this-ai-app-made-my-trades-smarter-try-it-free-before-everyone-else-o07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
