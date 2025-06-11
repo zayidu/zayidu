@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Series: Frontend Architecture in a Nutshell: Interface](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-interface-462h)
-- [DevLog 20250611: Audio API Design for Divooka Glaze!](https://dev.to/methodox/devlog-20250611-audio-api-design-for-divooka-glaze-5gi2)
-- [Future of Software Engineering when AI can code. What does students and new grads need to learn?](https://dev.to/paras_kavdikar_5606bf62e2/future-of-software-engineering-when-ai-can-code-what-does-students-and-new-grads-need-to-learn-5804)
-- [The Case of the Frozen Supabase/Prisma db push: Why Your Migrations Might Be Stuck](https://dev.to/geraldmuvengei06/the-case-of-the-frozen-supabaseprisma-db-push-why-your-migrations-might-be-stuck-75j)
-- [Series: Frontend Architecture in a Nutshell: Data](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-data-37bj)
+- [🏗️ DEMOLISH THE GIANT: OPENAI — The Cult of the Prompt Whisperer](https://dev.to/the_epyq/demolish-the-giant-openai-the-cult-of-the-prompt-whisperer-g1c)
+- [HTML AND CSS INTRODUCTION](https://dev.to/sabithasivaprakasam/html-and-css-introduction-152o)
+- [Today I learn Introduction of React...](https://dev.to/chithra_priya/today-i-learn-introduction-of-react-222a)
+- [Day 5/180 Frontend Dev: Mastering HTML Lists - Ordered, Unordered, and Description Lists](https://dev.to/code_2/day-5180-frontend-dev-mastering-html-lists-ordered-unordered-and-description-lists-4fik)
+- [How to Integrate Redux in React Native with the New Architecture](https://dev.to/amitkumar13/how-to-integrate-redux-in-react-native-with-the-new-architecture-4p8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
