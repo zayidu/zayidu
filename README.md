@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Interaction: Adding Tasks with Functions and Events](https://dev.to/prasunchakra/javascript-interaction-adding-tasks-with-functions-and-events-3ih1)
-- [Dynamic Memory Allocation in Real-Time Microcontroller Systems: Challenges, Implications, and Language Choices](https://dev.to/adityabhuyan/dynamic-memory-allocation-in-real-time-microcontroller-systems-challenges-implications-and-42j)
-- [Atomic State Management: Why Nucleux Stands Out from Jotai and Zustand](https://dev.to/martyroque/atomic-state-management-why-nucleux-stands-out-from-jotai-and-zustand-ih7)
-- [[Boost]](https://dev.to/rakeshv675/-28eo)
-- [🚀 Kubernetes v1.33&#39;s Image Volume β is on Fire! &quot;Code-Only&quot; Images are Changing the Game!](https://dev.to/kahirokunn/kubernetes-v133s-image-volume-b-is-on-fire-code-only-images-are-changing-the-game-2a4o)
+- [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
+- [Linear Issues to Google Calendar: MBTJ](https://dev.to/k-gopher/linear-issues-to-google-calendar-mbtj-22pl)
+- [Building a Fitness and Health App Based on HarmonyOS Next: Creating an Intelligent Health Data Tracking System](https://dev.to/linzhongxue/building-a-fitness-and-health-app-based-on-harmonyos-next-creating-an-intelligent-health-data-1m82)
+- [Developing a Fitness &amp; Health App on HarmonyOS Next: Heart Rate Monitoring and Health Reporting System](https://dev.to/linzhongxue/developing-a-fitness-health-app-on-harmonyos-next-heart-rate-monitoring-and-health-reporting-2931)
+- [🦀 Week 3 of Learning Rust: Match, Patterns, and the Power of Methods](https://dev.to/lymah/week-3-of-learning-rust-match-patterns-and-the-power-of-methods-3ed4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
