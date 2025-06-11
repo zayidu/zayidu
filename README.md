@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
-- [Linear Issues to Google Calendar: MBTJ](https://dev.to/k-gopher/linear-issues-to-google-calendar-mbtj-22pl)
-- [Building a Fitness and Health App Based on HarmonyOS Next: Creating an Intelligent Health Data Tracking System](https://dev.to/linzhongxue/building-a-fitness-and-health-app-based-on-harmonyos-next-creating-an-intelligent-health-data-1m82)
-- [Developing a Fitness &amp; Health App on HarmonyOS Next: Heart Rate Monitoring and Health Reporting System](https://dev.to/linzhongxue/developing-a-fitness-health-app-on-harmonyos-next-heart-rate-monitoring-and-health-reporting-2931)
-- [🦀 Week 3 of Learning Rust: Match, Patterns, and the Power of Methods](https://dev.to/lymah/week-3-of-learning-rust-match-patterns-and-the-power-of-methods-3ed4)
+- [🚀 Introducing AI Code Assistant – your smart companion for writing, reviewing, and improving code.](https://dev.to/zakkhassan97/introducing-ai-code-assistant-your-smart-companion-for-writing-reviewing-and-improving-code-4ll2)
+- [Meet `qb`: The High-Performance C++17 Actor Framework You&#39;ve Been Waiting For](https://dev.to/mbelhadi/meet-qb-the-high-performance-c17-actor-framework-youve-been-waiting-for-3h19)
+- [The Hidden Cost of Developer Context Switching](https://dev.to/pranesh_patel/the-hidden-cost-of-developer-context-switching-1jkp)
+- [The Hidden Cost of Developer Context Switching: Why IT Leaders Are Losing $50K Per Developer Annually](https://dev.to/teamcamp/the-hidden-cost-of-developer-context-switching-why-it-leaders-are-losing-50k-per-developer-1p2j)
+- [Unlocking True Parallelism: A Guide to Multi-Core C++ with `qb`](https://dev.to/mbelhadi/unlocking-true-parallelism-a-guide-to-multi-core-c-with-qb-51ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
