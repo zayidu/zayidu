@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [**The Use of Excel for Data Analysis in the Real World**](https://dev.to/elizabeth_munyao_e6b65682/the-use-of-excel-for-data-analysis-in-the-real-world-274l)
-- [Overwhelmed After Your 30-Day Sprint? Keep the Fire Alive with 5 Proven Language-Learning Habits](https://dev.to/yap2learn/overwhelmed-after-your-30-day-sprint-keep-the-fire-alive-with-5-proven-language-learning-habits-1fdn)
-- [🎉 I Completed the Standard Bank Software Engineering Simulation on Forage](https://dev.to/riska997/i-completed-the-standard-bank-software-engineering-simulation-on-forage-4fd1)
-- [Chafa Frontend](https://dev.to/boomboompower/chafa-frontend-4c1)
-- [I’m 16, almost finished GCSEs — this summer, I’m trying to earn my first £1k online](https://dev.to/vulcanwm/im-16-almost-finished-gcses-this-summer-im-trying-to-earn-my-first-ps1k-online-31fh)
+- [Untitled](https://dev.to/sayed_sami_fe929b6ce27237/untitled-19ge)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/giddybyt/how-excel-is-used-in-real-world-data-analysis-1j39)
+- [Untitled](https://dev.to/sayed_sami_fe929b6ce27237/untitled-4kei)
+- [MARVEL POSTER [CSS GRID]](https://dev.to/mahmoud_adel_e2115d5a60b7/marvel-poster-css-grid-263c)
+- [GSAP vs Anime.js_ A Comprehensive Guide](https://dev.to/ahmed_niazy/gsap-vs-animejs-a-comprehensive-guide-ncb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
