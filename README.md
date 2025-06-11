@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [June 11 2025](https://dev.to/liza_1978/june-11-2025-fc6)
-- [🧠 Letting AI Drive: A Month of Building with GitHub Copilot](https://dev.to/anchildress11/letting-ai-drive-a-month-of-building-with-github-copilot-4a94)
-- [Learn to Use Microsoft OneNote for Note-Taking Without Getting Overwhelmed — A Steady Start](https://dev.to/rushier/learn-to-use-microsoft-onenote-for-note-taking-without-getting-overwhelmed-a-steady-start-5dcb)
-- [Excel has changed my view on data and its analysis](https://dev.to/lesootia/excel-has-changed-my-view-on-data-and-its-analysis-4lk)
-- [Cracking Down on Cyber Scams: A Breakthrough in Email Threat Detection Using AI .](https://dev.to/saboorhamedi/cracking-down-on-cyber-scams-a-breakthrough-in-email-threat-detection-using-ai--4049)
+- [A Family-Friendly Guide to Exploring Andaman](https://dev.to/muppidathiskyplanet_b9695/a-family-friendly-guide-to-exploring-andaman-59n1)
+- [How to Add Images to Existing PDF Documents](https://dev.to/revisepdf/how-to-add-images-to-existing-pdf-documents-29c4)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/puritynyaguthii/how-excel-is-used-in-real-world-data-analysis-40cd)
+- [When to Use Arc and Mutex in Rust](https://dev.to/sgchris/when-to-use-arc-and-mutex-in-rust-420j)
+- [Introduction to Cryptography: Basic Blocks](https://dev.to/dmytro_huz/introduction-to-cryptography-basic-blocks-3an7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
