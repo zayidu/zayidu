@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The RAG Autonomy Spectrum: A Guide to Designing Smarter AI Systems](https://dev.to/duske/the-rag-autonomy-spectrum-a-guide-to-designing-smarter-ai-systems-5eg2)
-- [Serverless Full Stack: Is It the Future or Just a Hype?](https://dev.to/dct_technology/serverless-full-stack-is-it-the-future-or-just-a-hype-3fcp)
-- [Ultimate guide on setting up the MCP FHIR Server](https://dev.to/health_samurai/ultimate-guide-on-setting-up-the-mcp-fhir-server-48o7)
-- [Patent Translation Software: What to Know Before You Buy](https://dev.to/colinreed/patent-translation-software-what-to-know-before-you-buy-j9o)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-2d7n)
+- [Tolgee is the future of localization](https://dev.to/nazarii/tolgee-is-the-future-of-localization-2p72)
+- [Dictionary in Python - Continuation](https://dev.to/datatoinfinity/dictionary-in-python-continuation-1e15)
+- [Building a High-Performance HTML5 Game Aggregator: A Deep Dive with RiseQuestGame](https://dev.to/mufeng/building-a-high-performance-html5-game-aggregator-a-deep-dive-with-risequestgame-cia)
+- [Decentralized Finance &lpar;DeFi&rpar;: How It’s Shaping the Future of Finance](https://dev.to/oleksandr_popov_c4740a651/decentralized-finance-defi-how-its-shaping-the-future-of-finance-10c9)
+- [Designing a Scalable State Container in Vanilla JavaScript](https://dev.to/omriluz1/designing-a-scalable-state-container-in-vanilla-javascript-1mhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
