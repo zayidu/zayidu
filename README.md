@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing AI Code Assistant – your smart companion for writing, reviewing, and improving code.](https://dev.to/zakkhassan97/introducing-ai-code-assistant-your-smart-companion-for-writing-reviewing-and-improving-code-4ll2)
-- [Meet `qb`: The High-Performance C++17 Actor Framework You&#39;ve Been Waiting For](https://dev.to/mbelhadi/meet-qb-the-high-performance-c17-actor-framework-youve-been-waiting-for-3h19)
-- [The Hidden Cost of Developer Context Switching](https://dev.to/pranesh_patel/the-hidden-cost-of-developer-context-switching-1jkp)
-- [The Hidden Cost of Developer Context Switching: Why IT Leaders Are Losing $50K Per Developer Annually](https://dev.to/teamcamp/the-hidden-cost-of-developer-context-switching-why-it-leaders-are-losing-50k-per-developer-1p2j)
-- [Unlocking True Parallelism: A Guide to Multi-Core C++ with `qb`](https://dev.to/mbelhadi/unlocking-true-parallelism-a-guide-to-multi-core-c-with-qb-51ld)
+- [How to validate user input in Koval UI](https://dev.to/morewings/how-to-validate-user-input-in-koval-ui-10h0)
+- [🔥 Unlock Next-Level CSS Skills with scroll-driven-animations.style](https://dev.to/mdhassanpatwary/unlock-next-level-css-skills-with-scroll-driven-animationsstyle-4fka)
+- [Phoenix as an API Powerhouse: Architecting JSON-First Backends for Real-World Frontends](https://dev.to/hexshift/phoenix-as-an-api-powerhouse-architecting-json-first-backends-for-real-world-frontends-43bk)
+- [🚀 Benchmarks of Python 3.14b2 with --disable-gil](https://dev.to/basilemarchand/benchmarks-of-python-314b2-with-disable-gil-1ml3)
+- [Godot 3D MMO: Server and Network Infrastructure, Authentication and Security, Gameserver Sharding](https://dev.to/petervanderhook/godot-3d-mmo-server-and-network-infrastructure-authentication-and-security-gameserver-sharding-48kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
