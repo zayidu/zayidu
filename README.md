@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Halo PS5 port reportedly added to 343&#39;s tracked API, claims very trusted leaker](https://dev.to/gg_news/halo-ps5-port-reportedly-added-to-343s-tracked-api-claims-very-trusted-leaker-325o)
-- [Switch 2 is Nintendo&#39;s biggest UK launch, but doesn&#39;t surpass PS5 or Xbox Series](https://dev.to/gg_news/switch-2-is-nintendos-biggest-uk-launch-but-doesnt-surpass-ps5-or-xbox-series-39b8)
-- [Nintendo Switch 2 Sells Over 3.5 Million Units Worldwide in First Four Days](https://dev.to/gg_news/nintendo-switch-2-sells-over-35-million-units-worldwide-in-first-four-days-4fjh)
-- [ChatGPT gets crushed at chess by a 1 MHz Atari 2600](https://dev.to/gg_news/chatgpt-gets-crushed-at-chess-by-a-1-mhz-atari-2600-3lkj)
-- [Japanese gacha game causes unprecedented sales of European 13th century classic Divine Comedy](https://dev.to/gg_news/japanese-gacha-game-causes-unprecedented-sales-of-european-13th-century-classic-divine-comedy-3mml)
+- [Novidades do .NET MAUI no .NET 9: O Futuro do Desenvolvimento Multiplataforma](https://dev.to/daniloopinheiro/novidades-do-net-maui-no-net-9-o-futuro-do-desenvolvimento-multiplataforma-2o60)
+- [Novidades do C# 13: Recursos e Exemplos Práticos](https://dev.to/daniloopinheiro/novidades-do-c-13-recursos-e-exemplos-praticos-4g41)
+- [Top Kubernetes Interview Questions and Answers](https://dev.to/hostman_com/top-kubernetes-interview-questions-and-answers-202o)
+- [Git branch](https://dev.to/immanuel_joy_60fa98b6d1b3/git-branch-j0m)
+- [💼 Interviewing: The Most Profitable Skill You Can Learn](https://dev.to/ml318097/interviewing-the-most-profitable-skill-you-can-learn-1caj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
