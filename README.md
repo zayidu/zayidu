@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to validate user input in Koval UI](https://dev.to/morewings/how-to-validate-user-input-in-koval-ui-10h0)
-- [🔥 Unlock Next-Level CSS Skills with scroll-driven-animations.style](https://dev.to/mdhassanpatwary/unlock-next-level-css-skills-with-scroll-driven-animationsstyle-4fka)
-- [Phoenix as an API Powerhouse: Architecting JSON-First Backends for Real-World Frontends](https://dev.to/hexshift/phoenix-as-an-api-powerhouse-architecting-json-first-backends-for-real-world-frontends-43bk)
-- [🚀 Benchmarks of Python 3.14b2 with --disable-gil](https://dev.to/basilemarchand/benchmarks-of-python-314b2-with-disable-gil-1ml3)
-- [Godot 3D MMO: Server and Network Infrastructure, Authentication and Security, Gameserver Sharding](https://dev.to/petervanderhook/godot-3d-mmo-server-and-network-infrastructure-authentication-and-security-gameserver-sharding-48kh)
+- [The RAG Autonomy Spectrum: A Guide to Designing Smarter AI Systems](https://dev.to/duske/the-rag-autonomy-spectrum-a-guide-to-designing-smarter-ai-systems-5eg2)
+- [Serverless Full Stack: Is It the Future or Just a Hype?](https://dev.to/dct_technology/serverless-full-stack-is-it-the-future-or-just-a-hype-3fcp)
+- [Ultimate guide on setting up the MCP FHIR Server](https://dev.to/health_samurai/ultimate-guide-on-setting-up-the-mcp-fhir-server-48o7)
+- [Patent Translation Software: What to Know Before You Buy](https://dev.to/colinreed/patent-translation-software-what-to-know-before-you-buy-j9o)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-2d7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
