@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built &amp; launched AI headshot generator in 2 weeks](https://dev.to/codebucks/i-built-launched-ai-headshot-generator-in-2-weeks-ec2)
-- [This AI Tool Creates Professional Diagrams in 3 Seconds &lpar;You&#39;ll Definitely Love It!&rpar;](https://dev.to/connectalamin/this-ai-tool-creates-professional-diagrams-in-3-seconds-youll-definitely-love-it-75o)
-- [🚀 Parte 1: Fundamentos do Quarkus - Capítulo 2](https://dev.to/erf88/parte-1-fundamentos-do-quarkus-capitulo-2-c63)
-- [LLM and AI for Full-Stack Developers: A Practical Guide to Modern Development](https://dev.to/neeleshwark17/llm-and-ai-for-full-stack-developers-a-practical-guide-to-modern-development-30cg)
-- [Exporting AUDIT tables Using Oracle Data Pump](https://dev.to/vahidusefzadeh/exporting-audit-tables-using-oracle-data-pump-1ahj)
+- [**The Use of Excel for Data Analysis in the Real World**](https://dev.to/elizabeth_munyao_e6b65682/the-use-of-excel-for-data-analysis-in-the-real-world-274l)
+- [Overwhelmed After Your 30-Day Sprint? Keep the Fire Alive with 5 Proven Language-Learning Habits](https://dev.to/yap2learn/overwhelmed-after-your-30-day-sprint-keep-the-fire-alive-with-5-proven-language-learning-habits-1fdn)
+- [🎉 I Completed the Standard Bank Software Engineering Simulation on Forage](https://dev.to/riska997/i-completed-the-standard-bank-software-engineering-simulation-on-forage-4fd1)
+- [Chafa Frontend](https://dev.to/boomboompower/chafa-frontend-4c1)
+- [I’m 16, almost finished GCSEs — this summer, I’m trying to earn my first £1k online](https://dev.to/vulcanwm/im-16-almost-finished-gcses-this-summer-im-trying-to-earn-my-first-ps1k-online-31fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
