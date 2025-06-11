@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Trendleri 2023: Geleceği Şekillendirenler](https://dev.to/yunus_emremert_1756b71d3/web-trendleri-2023-gelecegi-sekillendirenler-3376)
-- [Learning Code Readability from K8s](https://dev.to/leapcell/learning-code-readability-from-k8s-h90)
-- [Matrizes](https://dev.to/joaopedrov0/matrizes-i6a)
-- [Screenshot to React Code: AI Vision Transforms Any UI Instantly](https://dev.to/atforeveryoung/screenshot-to-react-code-ai-vision-transforms-any-ui-instantly-bk2)
-- [Why Blockchain Gaming Isn’t Here Yet &lpar;and What’s Needed to Get There&rpar;](https://dev.to/alpinedev/why-blockchain-gaming-isnt-here-yet-and-whats-needed-to-get-there-k87)
+- [JavaScript Interaction: Adding Tasks with Functions and Events](https://dev.to/prasunchakra/javascript-interaction-adding-tasks-with-functions-and-events-3ih1)
+- [Dynamic Memory Allocation in Real-Time Microcontroller Systems: Challenges, Implications, and Language Choices](https://dev.to/adityabhuyan/dynamic-memory-allocation-in-real-time-microcontroller-systems-challenges-implications-and-42j)
+- [Atomic State Management: Why Nucleux Stands Out from Jotai and Zustand](https://dev.to/martyroque/atomic-state-management-why-nucleux-stands-out-from-jotai-and-zustand-ih7)
+- [[Boost]](https://dev.to/rakeshv675/-28eo)
+- [🚀 Kubernetes v1.33&#39;s Image Volume β is on Fire! &quot;Code-Only&quot; Images are Changing the Game!](https://dev.to/kahirokunn/kubernetes-v133s-image-volume-b-is-on-fire-code-only-images-are-changing-the-game-2a4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
