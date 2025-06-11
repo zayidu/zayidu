@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ DEMOLISH THE GIANT: OPENAI — The Cult of the Prompt Whisperer](https://dev.to/the_epyq/demolish-the-giant-openai-the-cult-of-the-prompt-whisperer-g1c)
-- [HTML AND CSS INTRODUCTION](https://dev.to/sabithasivaprakasam/html-and-css-introduction-152o)
-- [Today I learn Introduction of React...](https://dev.to/chithra_priya/today-i-learn-introduction-of-react-222a)
-- [Day 5/180 Frontend Dev: Mastering HTML Lists - Ordered, Unordered, and Description Lists](https://dev.to/code_2/day-5180-frontend-dev-mastering-html-lists-ordered-unordered-and-description-lists-4fik)
-- [How to Integrate Redux in React Native with the New Architecture](https://dev.to/amitkumar13/how-to-integrate-redux-in-react-native-with-the-new-architecture-4p8g)
+- [Giant Viruses Discovered in the Ocean: A Hidden World of Microbial Power](https://dev.to/maurizio_morri_f7f4bd128c/giant-viruses-discovered-in-the-ocean-a-hidden-world-of-microbial-power-368p)
+- [DevLog 20250611: SFML Text Shaping](https://dev.to/methodoxdivooka/devlog-20250611-sfml-text-shaping-3m39)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/lilly_kiganya_31ded25bb2f/how-excel-is-used-in-real-world-data-analysis-i0i)
+- [Sustainable Living &amp; Environmental Impact Optimizer Agent](https://dev.to/ai_agi/sustainable-living-environmental-impact-optimizer-agent-5d90)
+- [Self-Sovereign Identity: The Missing Link for Web3](https://dev.to/vaib/self-sovereign-identity-the-missing-link-for-web3-c3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
