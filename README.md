@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Novidades do .NET MAUI no .NET 9: O Futuro do Desenvolvimento Multiplataforma](https://dev.to/daniloopinheiro/novidades-do-net-maui-no-net-9-o-futuro-do-desenvolvimento-multiplataforma-2o60)
-- [Novidades do C# 13: Recursos e Exemplos Práticos](https://dev.to/daniloopinheiro/novidades-do-c-13-recursos-e-exemplos-praticos-4g41)
-- [Top Kubernetes Interview Questions and Answers](https://dev.to/hostman_com/top-kubernetes-interview-questions-and-answers-202o)
-- [Git branch](https://dev.to/immanuel_joy_60fa98b6d1b3/git-branch-j0m)
-- [💼 Interviewing: The Most Profitable Skill You Can Learn](https://dev.to/ml318097/interviewing-the-most-profitable-skill-you-can-learn-1caj)
+- [Series: Frontend Architecture in a Nutshell: Interface](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-interface-462h)
+- [DevLog 20250611: Audio API Design for Divooka Glaze!](https://dev.to/methodox/devlog-20250611-audio-api-design-for-divooka-glaze-5gi2)
+- [Future of Software Engineering when AI can code. What does students and new grads need to learn?](https://dev.to/paras_kavdikar_5606bf62e2/future-of-software-engineering-when-ai-can-code-what-does-students-and-new-grads-need-to-learn-5804)
+- [The Case of the Frozen Supabase/Prisma db push: Why Your Migrations Might Be Stuck](https://dev.to/geraldmuvengei06/the-case-of-the-frozen-supabaseprisma-db-push-why-your-migrations-might-be-stuck-75j)
+- [Series: Frontend Architecture in a Nutshell: Data](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-data-37bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
