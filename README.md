@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
-- [Karaoke Maker: From Music Video to KTV](https://dev.to/bigi/karaoke-maker-from-music-video-to-ktv-52op)
-- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
-- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
-- [This AI App Made My Trades Smarter — Try It FREE Before Everyone Else!](https://dev.to/juanemilio31323/this-ai-app-made-my-trades-smarter-try-it-free-before-everyone-else-o07)
+- [No Mailtrap, No Problem! &lpar;with Docker&rpar;](https://dev.to/nuzulfikrie/no-mailtrap-no-problem-with-docker-4e1m)
+- [My Journey with the Hyperlane Framework: From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-32nb)
+- [Review Qodana static code analysis and SCA/SBOM license audit](https://dev.to/dmo2000/review-qodana-static-code-analysis-and-scasbom-license-audit-ehf)
+- [[ object Object ]](https://dev.to/hookjs/-object-object--156f)
+- [Create a Parallax Navbar with Just HTML, CSS &amp; JavaScript](https://dev.to/matin676/create-a-parallax-navbar-with-just-html-css-javascript-bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
