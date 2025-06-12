@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Mailtrap, No Problem! &lpar;with Docker&rpar;](https://dev.to/nuzulfikrie/no-mailtrap-no-problem-with-docker-4e1m)
-- [My Journey with the Hyperlane Framework: From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-32nb)
-- [Review Qodana static code analysis and SCA/SBOM license audit](https://dev.to/dmo2000/review-qodana-static-code-analysis-and-scasbom-license-audit-ehf)
-- [[ object Object ]](https://dev.to/hookjs/-object-object--156f)
-- [Create a Parallax Navbar with Just HTML, CSS &amp; JavaScript](https://dev.to/matin676/create-a-parallax-navbar-with-just-html-css-javascript-bgi)
+- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
+- [My HTML Learning Journey](https://dev.to/praveena_2109/my-html-learning-journey-1k3c)
+- [Getting Started with Web Development: My First Day Learning HTML &amp; CSS](https://dev.to/megha_m_3acdfe3f62da7873f/getting-started-with-web-development-my-first-day-learning-html-css-5hhi)
+- [Creative coding like this is exactly the kind of work that reminds us tech can be both expressive and deeply human. Plus pure CSS for sky, stars, and aurora ✨](https://dev.to/sarahmatta/creative-coding-like-this-is-exactly-the-kind-of-work-that-reminds-us-tech-can-be-both-expressive-cm2)
+- [My First Post: I Built a Payment Template—Now Reality Check Me on KYC](https://dev.to/cloudhighfive/my-first-post-i-built-a-payment-template-now-reality-check-me-on-kyc-3l0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
