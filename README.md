@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Automate dev process with App Store Connect API](https://dev.to/softwaretechpro/wwdc-2025-automate-dev-process-with-app-store-connect-api-22f7)
-- [Landbase Raises $30M to Scale GTM-1 Omni – Reinforcement Learning Meets Go‑to‑Market](https://dev.to/landbasegtm/landbase-raises-30m-to-scale-gtm-1-omni-reinforcement-learning-meets-go-to-market-23km)
-- [WWDC 2025 - App Store server APIs for In-App Purchase](https://dev.to/softwaretechpro/wwdc-2025-app-store-server-apis-for-in-app-purchase-2l02)
-- [40+ MCP Search Tools](https://dev.to/charpie_searchcraft/40-mcp-search-tools-1dcj)
-- [When Illness Moves In and You Still Have to Ship Code](https://dev.to/versiqcontent/when-illness-moves-in-and-you-still-have-to-ship-code-4hgb)
+- [Web Performance Optimization in 2025](https://dev.to/free_programmers/web-performance-optimization-in-2025-28ko)
+- [Code Smell 303 - Breaking Changes](https://dev.to/mcsee/code-smell-303-breaking-changes-36hh)
+- [Web Performance Optimization in 2025: Build a Site Faster Than a Rocket!](https://dev.to/free_programmers/web-performance-optimization-in-2025-build-a-site-faster-than-a-rocket-1id1)
+- [Limitations of Google Patents Advanced Search for Invalidation: What IP Professionals Need to Know](https://dev.to/patentscanai/limitations-of-google-patents-advanced-search-for-invalidation-what-ip-professionals-need-to-know-3ep2)
+- [How to create a nginx web server with ansible](https://dev.to/said_olano/how-to-create-a-nginx-web-server-with-ansible-19nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
