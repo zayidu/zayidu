@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unstoppable Benefits of Fitness: Elevate Your Life Today!](https://dev.to/sia_negi21/the-unstoppable-benefits-of-fitness-elevate-your-life-today-1dbj)
-- [Upload File Using Fetch Method](https://dev.to/sabir_sheikh_cd49d4c419e3/upload-file-using-fetch-method-5nk)
-- [Umemura Farm Website – Devlog #3: Rebuilding My LP Structure from the Ground Up](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-3-2h4e)
-- [Upload file Node JS](https://dev.to/sabir_sheikh_cd49d4c419e3/upload-file-node-js-423e)
-- [Authoring an OpenRewrite recipe](https://dev.to/nfrankel/authoring-an-openrewrite-recipe-1li1)
+- [🧠 Automating My Day Like a Boss: My AI Assistant Setup with Runner H 🚀 Overview For the Runner H “AI Agent Prompting” Challenge, I wanted to create something powerful but practical — something that genuinely helps me manage my day as a busy student.](https://dev.to/bob_599e8420e1c/automating-my-day-like-a-boss-my-ai-assistant-setup-with-runner-h-overview-for-the-runner-h-a6c)
+- [🧠 Automating My Day Like a Boss: My AI Assistant Setup with Runner H](https://dev.to/bob_599e8420e1c/automating-my-day-like-a-boss-my-ai-assistant-setup-with-runner-h-3ffi)
+- [How Big Data and AI Work Together: The Future of Intelligent Systems](https://dev.to/rac/how-big-data-and-ai-work-together-the-future-of-intelligent-systems-4ppn)
+- [📘 Frontend Developer Structure: The Complete Learning Map](https://dev.to/lcrank/frontend-developer-structure-the-complete-learning-map-jg4)
+- [The Dos and Don’ts of Remote Employee Time Tracking - Common Pitfalls &amp; Practical Tips](https://dev.to/taskford/the-dos-and-donts-of-remote-employee-time-tracking-common-pitfalls-practical-tips-5ad8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
