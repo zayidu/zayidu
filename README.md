@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In 2025, the Government of Pakistan introduced a modernized version of the 8171 web portal to enhance the accessibility and transparency of the Benazir Income Support Program. https://balochistan.org.pk](https://dev.to/malik_umar_b8d6299b7f5eb9/in-2025-the-government-of-pakistan-introduced-a-modernized-version-of-the-8171-web-portal-to-406o)
-- [Meta Tutorial in War Robots: how it works and why it’s useful](https://dev.to/mygames/meta-tutorial-in-war-robots-how-it-works-and-why-its-useful-4kkm)
-- [How I Built a Bulk Email Sender with Python and Brevo API](https://dev.to/david_oyewole/how-i-built-a-bulk-email-sender-with-python-and-brevo-api-1p72)
-- [Why I Switched from WSL to Ubuntu for DevOps: A Personal Journey](https://dev.to/david_oyewole/why-i-switched-from-wsl-to-ubuntu-for-devops-a-personal-journey-44dp)
-- [A new OpenSource java decompiler](https://dev.to/neocanable/a-new-opensource-java-decompiler-4on9)
+- [Who Will Build the Future of Web3?](https://dev.to/martin_call/who-will-build-the-future-of-web3-i8d)
+- [Facebook Login in Angular 20 Using Standalone Components](https://dev.to/djamware_tutorial_eba1a61/facebook-login-in-angular-20-using-standalone-components-2m57)
+- [3 Features Every Debugging Tool Should Have](https://dev.to/tomjohnson3/3-features-every-debugging-tool-should-have-1kag)
+- [From Scratch to Kubernetes: My Full-Stack DevOps Project on a Local Machine](https://dev.to/david_oyewole/from-scratch-to-kubernetes-my-full-stack-devops-project-on-a-local-machine-1143)
+- [Mastering Flutter Animation: A Complete Guide to Bringing Your Apps to Life](https://dev.to/kalana250/mastering-flutter-animation-a-complete-guide-to-bringing-your-apps-to-life-4oe9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
