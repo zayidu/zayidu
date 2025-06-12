@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s the Only Way That Worked for Me to Level Up as a Frontend Developer](https://dev.to/biloustrike/heres-the-only-way-that-worked-for-me-to-level-up-as-a-frontend-developer-1djm)
-- [I wasn’t expecting much from an article about taxes, but this was smart, clear, and surprisingly motivating.](https://dev.to/rinaldiwmeanix/i-wasnt-expecting-much-from-an-article-about-taxes-but-this-was-smart-clear-and-surprisingly-28bl)
-- [Becoming an AI-native engineer](https://dev.to/rfitz/becoming-an-ai-native-engineer-25gb)
-- [When Code Reviews Go Too Far: Finding the Balance Between Quality and Velocity](https://dev.to/pullflow/when-code-reviews-go-too-far-finding-the-balance-between-quality-and-velocity-2n3o)
-- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-453a)
+- [Productivity with AI: A Double-Edged Boost](https://dev.to/jakubstetz/productivity-with-ai-a-double-edged-boost-3a9j)
+- [I learned introduction of React...](https://dev.to/mukilaperiyasamy/i-learned-introduction-of-react-n1o)
+- [The Booming Era of Energy Storage: EMS and SCADA integration in Hybrid Power Plants](https://dev.to/rubn_parra_7072a9d10485e/the-booming-era-of-energy-storage-ems-and-scada-integration-in-hybrid-power-plants-5e25)
+- [Understanding Prototypes in JavaScript](https://dev.to/toni_naumoski_mk/understanding-prototypes-in-javascript-460g)
+- [🌳 Vertical Order Traversal of a Binary Tree – Explained with Java, Python, and C++ Solutions](https://dev.to/virendra_jadhav_4559c5006/vertical-order-traversal-of-a-binary-tree-explained-with-java-python-and-c-solutions-50d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
