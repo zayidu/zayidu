@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Productivity with AI: A Double-Edged Boost](https://dev.to/jakubstetz/productivity-with-ai-a-double-edged-boost-3a9j)
-- [I learned introduction of React...](https://dev.to/mukilaperiyasamy/i-learned-introduction-of-react-n1o)
-- [The Booming Era of Energy Storage: EMS and SCADA integration in Hybrid Power Plants](https://dev.to/rubn_parra_7072a9d10485e/the-booming-era-of-energy-storage-ems-and-scada-integration-in-hybrid-power-plants-5e25)
-- [Understanding Prototypes in JavaScript](https://dev.to/toni_naumoski_mk/understanding-prototypes-in-javascript-460g)
-- [🌳 Vertical Order Traversal of a Binary Tree – Explained with Java, Python, and C++ Solutions](https://dev.to/virendra_jadhav_4559c5006/vertical-order-traversal-of-a-binary-tree-explained-with-java-python-and-c-solutions-50d6)
+- [How The ACME Protocol Automates HTTP Security](https://dev.to/shrsv/how-the-acme-protocol-automates-http-security-2232)
+- [Privileged Access Management Best Practices in Healthcare IT Systems](https://dev.to/kapusto/privileged-access-management-best-practices-in-healthcare-it-systems-aan)
+- [There is something very grounding about the way this article is written. It feels like a trusted conversation.](https://dev.to/giobvisco/there-is-something-very-grounding-about-the-way-this-article-is-written-it-feels-like-a-trusted-31ce)
+- [Surviving the Great Commoditizer: Stop Getting ‘Good’ at ChatGPT](https://dev.to/daedtech/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt-1gbd)
+- [Sometimes one thoughtful article is all it takes to start a new line of thinking. This was that for me.](https://dev.to/giobvisco/sometimes-one-thoughtful-article-is-all-it-takes-to-start-a-new-line-of-thinking-this-was-that-for-11ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
