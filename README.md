@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 No-Code Tools Tech Beginners Should Try in 2025](https://dev.to/metana/10-no-code-tools-tech-beginners-should-try-in-2025-456h)
-- [Follow as we build the HotDog App with bolt.new: Your Dog&#39;s Progress Journal](https://dev.to/anamaharjan/follow-as-we-build-the-hotdog-app-with-boltnew-your-dogs-progress-journal-16no)
-- [[03] Mastering Absolute Positioning in CSS: A Comprehensive Guide](https://dev.to/anikpaul/03-mastering-absolute-positioning-in-css-a-comprehensive-guide-2fgk)
-- [Address | Internet](https://dev.to/ibrahimsi/address-internet-462c)
-- [Arweave AO Lua Programming Guide](https://dev.to/arweavejp/arweave-ao-lua-programming-guide-3dg3)
+- [I Tried Manus AI — The &quot;Do-Everything&quot; Agent Everyone&#39;s Talking About](https://dev.to/abdelazizel7or/i-tried-manus-ai-the-do-everything-agent-everyones-talking-about-148m)
+- [Best eLearning Translation Software Features to Look for](https://dev.to/elenahartmann/best-elearning-translation-software-features-to-look-for-1aa9)
+- [Checkout the Dapr University Courses](https://dev.to/sirivarma/checkout-the-dapr-university-courses-4h6g)
+- [DevOps Trends to Watch in 2025](https://dev.to/zopdev/devops-trends-to-watch-in-2025-3cie)
+- [🧱 Trunk-Based Development — The Easiest Git Example You&#39;ll Ever See](https://dev.to/latchudevops/trunk-based-development-the-easiest-git-example-youll-ever-see-13p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
