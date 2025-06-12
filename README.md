@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An abstract about me regarding my career](https://dev.to/s_vasanth_183951c70f1bd52/an-abstract-about-me-regarding-my-career-2h95)
-- [Graph database v4.10 is out!](https://dev.to/falkordb/graph-database-v410-is-out-883)
-- [Blockchain Beyond Cryptocurrency: Opportunities for CSE Students](https://dev.to/solamalai_college/blockchain-beyond-cryptocurrency-opportunities-for-cse-students-15lm)
-- [How We Built our API Multimodal Summary Engine](https://dev.to/fidget_dan/how-we-built-our-api-multimodal-summary-engine-1oj4)
-- [From Red to Green: What I Learned Diving into Test-Driven Development &lpar;TDD&rpar;](https://dev.to/chandana_prabhakar/from-red-to-green-what-i-learned-diving-into-test-driven-development-tdd-1c6p)
+- [Here’s the Only Way That Worked for Me to Level Up as a Frontend Developer](https://dev.to/biloustrike/heres-the-only-way-that-worked-for-me-to-level-up-as-a-frontend-developer-1djm)
+- [I wasn’t expecting much from an article about taxes, but this was smart, clear, and surprisingly motivating.](https://dev.to/rinaldiwmeanix/i-wasnt-expecting-much-from-an-article-about-taxes-but-this-was-smart-clear-and-surprisingly-28bl)
+- [Becoming an AI-native engineer](https://dev.to/rfitz/becoming-an-ai-native-engineer-25gb)
+- [When Code Reviews Go Too Far: Finding the Balance Between Quality and Velocity](https://dev.to/pullflow/when-code-reviews-go-too-far-finding-the-balance-between-quality-and-velocity-2n3o)
+- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-453a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
