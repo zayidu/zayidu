@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PCK3R : Package manager [V1.0] Windows 10 X64](https://dev.to/amzyei/pck3r-package-manager-2pib)
-- [The Story Behind MultiDrive](https://dev.to/empiree/the-story-behind-multidrive-eo8)
-- [Bridging the Quantum Gap: A Guide to Hybrid Quantum-Classical Algorithms](https://dev.to/vaib/bridging-the-quantum-gap-a-guide-to-hybrid-quantum-classical-algorithms-343g)
-- [React Router Data Mode: Parte 6 – Actions, formularios y mutaciones](https://dev.to/kevinccbsg/react-router-data-mode-parte-6-actions-formularios-y-mutaciones-5354)
-- [So You Want to Be a Senior Engineer...](https://dev.to/goldennoodles/so-you-want-to-be-a-senior-engineer-2jl3)
+- [First Ever Images of the Sun’s Poles Open a New Frontier in Space Science &lpar;20250612-130651&rpar;](https://dev.to/maurizio_morri_f7f4bd128c/first-ever-images-of-the-suns-poles-open-a-new-frontier-in-space-science-20250612-130651-39be)
+- [🚀 How We Built Blazephone: An AI-Powered Cloud Phone System for Modern Teams](https://dev.to/rome_6eedb54bf1a030981110/how-we-built-blazephone-an-ai-powered-cloud-phone-system-for-modern-teams-595m)
+- [How to Implement No-Code OSS Use Cases in Telecom Operations](https://dev.to/santiagogonzalez/how-to-implement-no-code-oss-use-cases-in-telecom-operations-36k2)
+- [Automating Consul with Ansible: Infrastructure DNS for Devs](https://dev.to/lovestaco/automating-consul-with-ansible-infrastructure-dns-for-devs-54m9)
+- [Beyond Static Worlds: AI, PCG, and the Evolution of Game Engines](https://dev.to/vaib/beyond-static-worlds-ai-pcg-and-the-evolution-of-game-engines-4mci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
