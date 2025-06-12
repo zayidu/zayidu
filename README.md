@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Manus AI — The &quot;Do-Everything&quot; Agent Everyone&#39;s Talking About](https://dev.to/abdelazizel7or/i-tried-manus-ai-the-do-everything-agent-everyones-talking-about-148m)
-- [Best eLearning Translation Software Features to Look for](https://dev.to/elenahartmann/best-elearning-translation-software-features-to-look-for-1aa9)
-- [Checkout the Dapr University Courses](https://dev.to/sirivarma/checkout-the-dapr-university-courses-4h6g)
-- [DevOps Trends to Watch in 2025](https://dev.to/zopdev/devops-trends-to-watch-in-2025-3cie)
-- [🧱 Trunk-Based Development — The Easiest Git Example You&#39;ll Ever See](https://dev.to/latchudevops/trunk-based-development-the-easiest-git-example-youll-ever-see-13p9)
+- [[Boost]](https://dev.to/vijayr00/-4i3j)
+- [How to Speed Up Associations between Large Primary and Sub Tables with esProc](https://dev.to/esproc_spl/how-to-speed-up-associations-between-large-primary-and-sub-tables-with-esproc-aec)
+- [Learn SQL’s CAST Function for Clean Type Conversion](https://dev.to/dbvismarketing/learn-sqls-cast-function-for-clean-type-conversion-4cod)
+- [How to Golang: The Infra Darling.](https://dev.to/sfundomhlungu/how-to-golang-the-infra-darling-4cff)
+- [🔍 Understanding `Array.includes&lpar;&rpar;` in JavaScript – What Happens Under the Hood?](https://dev.to/vetriselvan_11/understanding-arrayincludes-in-javascript-what-happens-under-the-hood-43mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
