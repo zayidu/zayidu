@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Master JavaScript Objects: The Ultimate Guide with Real-World Examples!](https://dev.to/techsolver94/master-javascript-objects-the-ultimate-guide-with-real-world-examples-25c4)
-- [¡Blazor y .NET 9: Desbloqueando la Velocidad Extrema con Server-Side Rendering &lpar;SSR&rpar; Estático para tu Web!](https://dev.to/exavier_jaguileradev/blazor-y-net-9-desbloqueando-la-velocidad-extrema-con-server-side-rendering-ssr-estatico-para-5d4b)
-- [Hello DEV community](https://dev.to/aimee1980/hello-dev-community-2bc3)
-- [Model Context Protocol &lpar;MCP&rpar; is the React Moment for AI](https://dev.to/michael_watson_8780e10ad7/model-context-protocol-mcp-is-the-react-moment-for-ai-3nhg)
-- [PIDM - python internet download manager](https://dev.to/ericluckson1999/pidm-python-internet-download-manager-2hde)
+- [PCK3R : Package manager [V1.0] Windows 10 X64](https://dev.to/amzyei/pck3r-package-manager-2pib)
+- [The Story Behind MultiDrive](https://dev.to/empiree/the-story-behind-multidrive-eo8)
+- [Bridging the Quantum Gap: A Guide to Hybrid Quantum-Classical Algorithms](https://dev.to/vaib/bridging-the-quantum-gap-a-guide-to-hybrid-quantum-classical-algorithms-343g)
+- [React Router Data Mode: Parte 6 – Actions, formularios y mutaciones](https://dev.to/kevinccbsg/react-router-data-mode-parte-6-actions-formularios-y-mutaciones-5354)
+- [So You Want to Be a Senior Engineer...](https://dev.to/goldennoodles/so-you-want-to-be-a-senior-engineer-2jl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
