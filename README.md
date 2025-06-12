@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today I Learned Introduction of React...](https://dev.to/paviarunachalam/today-i-learned-introduction-of-react-44nf)
-- [[Boost]](https://dev.to/mr_aziz_92b920784e2afff96/-47g3)
-- [OAuth 2.0 Overview: How It Works and Why It Matters](https://dev.to/andyssojet/oauth-20-overview-how-it-works-and-why-it-matters-377e)
-- [Implementation Decisions: Replit&#39;s Approach vs. Technical Requirements](https://dev.to/sebs/implementation-decisions-replits-approach-vs-technical-requirements-b24)
-- [🚀 Istio Service Mesh Essentials: What You Need to Know](https://dev.to/sindhuja_ns_1e491ce1088d/istio-service-mesh-essentials-what-you-need-to-know-54i0)
+- [In 2025, the Government of Pakistan introduced a modernized version of the 8171 web portal to enhance the accessibility and transparency of the Benazir Income Support Program. https://balochistan.org.pk](https://dev.to/malik_umar_b8d6299b7f5eb9/in-2025-the-government-of-pakistan-introduced-a-modernized-version-of-the-8171-web-portal-to-406o)
+- [Meta Tutorial in War Robots: how it works and why it’s useful](https://dev.to/mygames/meta-tutorial-in-war-robots-how-it-works-and-why-its-useful-4kkm)
+- [How I Built a Bulk Email Sender with Python and Brevo API](https://dev.to/david_oyewole/how-i-built-a-bulk-email-sender-with-python-and-brevo-api-1p72)
+- [Why I Switched from WSL to Ubuntu for DevOps: A Personal Journey](https://dev.to/david_oyewole/why-i-switched-from-wsl-to-ubuntu-for-devops-a-personal-journey-44dp)
+- [A new OpenSource java decompiler](https://dev.to/neocanable/a-new-opensource-java-decompiler-4on9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
