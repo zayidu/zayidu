@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Ever Images of the Sun’s Poles Open a New Frontier in Space Science &lpar;20250612-130651&rpar;](https://dev.to/maurizio_morri_f7f4bd128c/first-ever-images-of-the-suns-poles-open-a-new-frontier-in-space-science-20250612-130651-39be)
-- [🚀 How We Built Blazephone: An AI-Powered Cloud Phone System for Modern Teams](https://dev.to/rome_6eedb54bf1a030981110/how-we-built-blazephone-an-ai-powered-cloud-phone-system-for-modern-teams-595m)
-- [How to Implement No-Code OSS Use Cases in Telecom Operations](https://dev.to/santiagogonzalez/how-to-implement-no-code-oss-use-cases-in-telecom-operations-36k2)
-- [Automating Consul with Ansible: Infrastructure DNS for Devs](https://dev.to/lovestaco/automating-consul-with-ansible-infrastructure-dns-for-devs-54m9)
-- [Beyond Static Worlds: AI, PCG, and the Evolution of Game Engines](https://dev.to/vaib/beyond-static-worlds-ai-pcg-and-the-evolution-of-game-engines-4mci)
+- [🌐 JavaScript: The Root, the Rise, and the Reality Behind the Web](https://dev.to/amitha_0706/javascript-the-root-the-rise-and-the-reality-behind-the-web-342b)
+- [Handling Validation Errors for Multiple Forms](https://dev.to/mmramadan496/handling-validation-errors-for-multiple-forms-1i9d)
+- [Customizing Pagination links and sliding window](https://dev.to/mmramadan496/customizing-pagination-links-and-sliding-window-1p29)
+- [[Hiring] ConsentKeys | REMOTE | OIDC Developer - Privacy-First Identity Platform](https://dev.to/jaskarandeogan/hiring-consentkeys-remote-oidc-developer-privacy-first-identity-platform-452h)
+- [SKALE AI and Modular Blockchain: A Match Made for AI](https://dev.to/collins_wayne_e84adf212dc/skale-ai-and-modular-blockchain-a-match-made-for-ai-2f1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
