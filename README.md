@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Will Build the Future of Web3?](https://dev.to/martin_call/who-will-build-the-future-of-web3-i8d)
-- [Facebook Login in Angular 20 Using Standalone Components](https://dev.to/djamware_tutorial_eba1a61/facebook-login-in-angular-20-using-standalone-components-2m57)
-- [3 Features Every Debugging Tool Should Have](https://dev.to/tomjohnson3/3-features-every-debugging-tool-should-have-1kag)
-- [From Scratch to Kubernetes: My Full-Stack DevOps Project on a Local Machine](https://dev.to/david_oyewole/from-scratch-to-kubernetes-my-full-stack-devops-project-on-a-local-machine-1143)
-- [Mastering Flutter Animation: A Complete Guide to Bringing Your Apps to Life](https://dev.to/kalana250/mastering-flutter-animation-a-complete-guide-to-bringing-your-apps-to-life-4oe9)
+- [An abstract about me regarding my career](https://dev.to/s_vasanth_183951c70f1bd52/an-abstract-about-me-regarding-my-career-2h95)
+- [Graph database v4.10 is out!](https://dev.to/falkordb/graph-database-v410-is-out-883)
+- [Blockchain Beyond Cryptocurrency: Opportunities for CSE Students](https://dev.to/solamalai_college/blockchain-beyond-cryptocurrency-opportunities-for-cse-students-15lm)
+- [How We Built our API Multimodal Summary Engine](https://dev.to/fidget_dan/how-we-built-our-api-multimodal-summary-engine-1oj4)
+- [From Red to Green: What I Learned Diving into Test-Driven Development &lpar;TDD&rpar;](https://dev.to/chandana_prabhakar/from-red-to-green-what-i-learned-diving-into-test-driven-development-tdd-1c6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
