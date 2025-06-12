@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
-- [My HTML Learning Journey](https://dev.to/praveena_2109/my-html-learning-journey-1k3c)
-- [Getting Started with Web Development: My First Day Learning HTML &amp; CSS](https://dev.to/megha_m_3acdfe3f62da7873f/getting-started-with-web-development-my-first-day-learning-html-css-5hhi)
-- [Creative coding like this is exactly the kind of work that reminds us tech can be both expressive and deeply human. Plus pure CSS for sky, stars, and aurora ✨](https://dev.to/sarahmatta/creative-coding-like-this-is-exactly-the-kind-of-work-that-reminds-us-tech-can-be-both-expressive-cm2)
-- [My First Post: I Built a Payment Template—Now Reality Check Me on KYC](https://dev.to/cloudhighfive/my-first-post-i-built-a-payment-template-now-reality-check-me-on-kyc-3l0d)
+- [Choosing the Right AI Agent Frameworks for Your Project](https://dev.to/lollypopdesign/choosing-the-right-ai-agent-frameworks-for-your-project-253a)
+- [🎯&quot;Maximum Difference Between Adjacent Elements in a Circular Array&quot; LeetCode 3423 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/maximum-difference-between-adjacent-elements-in-a-circular-array-leetcode-3423-c-javascript-282i)
+- [&#39;Factory-style hackers&#39; who manipulate rankings with macros... Real-life security story blocked with LIAPP](https://dev.to/liapp/factory-style-hackers-who-manipulate-rankings-with-macros-real-life-security-story-blocked-bdp)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-5hha)
+- [Building a Scalable Hypercasual Game Portal with Next.js: From Data to Deployment](https://dev.to/mufeng/building-a-scalable-hypercasual-game-portal-with-nextjs-from-data-to-deployment-2j14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
