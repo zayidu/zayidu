@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right AI Agent Frameworks for Your Project](https://dev.to/lollypopdesign/choosing-the-right-ai-agent-frameworks-for-your-project-253a)
-- [🎯&quot;Maximum Difference Between Adjacent Elements in a Circular Array&quot; LeetCode 3423 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/maximum-difference-between-adjacent-elements-in-a-circular-array-leetcode-3423-c-javascript-282i)
-- [&#39;Factory-style hackers&#39; who manipulate rankings with macros... Real-life security story blocked with LIAPP](https://dev.to/liapp/factory-style-hackers-who-manipulate-rankings-with-macros-real-life-security-story-blocked-bdp)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-5hha)
-- [Building a Scalable Hypercasual Game Portal with Next.js: From Data to Deployment](https://dev.to/mufeng/building-a-scalable-hypercasual-game-portal-with-nextjs-from-data-to-deployment-2j14)
+- [10 No-Code Tools Tech Beginners Should Try in 2025](https://dev.to/metana/10-no-code-tools-tech-beginners-should-try-in-2025-456h)
+- [Follow as we build the HotDog App with bolt.new: Your Dog&#39;s Progress Journal](https://dev.to/anamaharjan/follow-as-we-build-the-hotdog-app-with-boltnew-your-dogs-progress-journal-16no)
+- [[03] Mastering Absolute Positioning in CSS: A Comprehensive Guide](https://dev.to/anikpaul/03-mastering-absolute-positioning-in-css-a-comprehensive-guide-2fgk)
+- [Address | Internet](https://dev.to/ibrahimsi/address-internet-462c)
+- [Arweave AO Lua Programming Guide](https://dev.to/arweavejp/arweave-ao-lua-programming-guide-3dg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
