@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free APIs](https://dev.to/abigirlmuchineripi/free-apis-4fcb)
-- [When One Tweet Costs $3B: A Developer’s Look at Market Volatility and Infrastructure Design](https://dev.to/philip_crypto92/when-one-tweet-costs-3b-a-developers-look-at-market-volatility-and-infrastructure-design-7nb)
-- [The Technical Challenges of Remote Work &lpar;and How to Solve Them&rpar;](https://dev.to/sarahwilliams/the-technical-challenges-of-remote-work-and-how-to-solve-them-32hi)
-- [SEO for Devtools: Ranking When Your Audience Lives on GitHub, Not Google](https://dev.to/pavel_buyeu/seo-for-devtools-ranking-when-your-audience-lives-on-github-not-google-13od)
-- [How Small Businesses Benefit from Salesforce Managed Services Partners](https://dev.to/plumlogix/how-small-businesses-benefit-from-salesforce-managed-services-partners-m49)
+- [Apple&#39;s Liquid Glass Design](https://dev.to/anistark/apples-liquid-glass-design-1ol5)
+- [Balancing Transparency and Privacy in Blockchain](https://dev.to/amio13/balancing-transparency-and-privacy-in-blockchain-5go7)
+- [No Recursion, No Table, Still DP? My Shift From Brute Force to Intuition](https://dev.to/guna01/no-recursion-no-table-still-dp-my-shift-from-brute-force-to-intuition-5e6n)
+- [June 13 2025](https://dev.to/liza_1978/june-13-2025-e1o)
+- [Simple Website with SvelteKit](https://dev.to/somulo/simple-website-with-sveltekit-47p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
