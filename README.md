@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple&#39;s Liquid Glass Design](https://dev.to/anistark/apples-liquid-glass-design-1ol5)
-- [Balancing Transparency and Privacy in Blockchain](https://dev.to/amio13/balancing-transparency-and-privacy-in-blockchain-5go7)
-- [No Recursion, No Table, Still DP? My Shift From Brute Force to Intuition](https://dev.to/guna01/no-recursion-no-table-still-dp-my-shift-from-brute-force-to-intuition-5e6n)
-- [June 13 2025](https://dev.to/liza_1978/june-13-2025-e1o)
-- [Simple Website with SvelteKit](https://dev.to/somulo/simple-website-with-sveltekit-47p8)
+- [How AI Is Shaping Employment &amp; Labor Law: An Attorney’s Take](https://dev.to/dalton_abreshears/how-ai-is-shaping-employment-labor-law-an-attorneys-take-4mkl)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-445e)
+- [Deploying a Python Microservices App on AWS with EKS, Docker, Helm, and RabbitMQ](https://dev.to/ngozi_n/deploying-a-python-microservices-app-on-aws-with-eks-docker-helm-and-rabbitmq-2n3n)
+- [Just Started Coding, Learn Agile to Build Real-World Skills](https://dev.to/2021_cse_gayathrir_e733/just-started-coding-learn-agile-to-build-real-world-skills-4eme)
+- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-2d5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
