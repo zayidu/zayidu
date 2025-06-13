@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Shaping Employment &amp; Labor Law: An Attorney’s Take](https://dev.to/dalton_abreshears/how-ai-is-shaping-employment-labor-law-an-attorneys-take-4mkl)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-445e)
-- [Deploying a Python Microservices App on AWS with EKS, Docker, Helm, and RabbitMQ](https://dev.to/ngozi_n/deploying-a-python-microservices-app-on-aws-with-eks-docker-helm-and-rabbitmq-2n3n)
-- [Just Started Coding, Learn Agile to Build Real-World Skills](https://dev.to/2021_cse_gayathrir_e733/just-started-coding-learn-agile-to-build-real-world-skills-4eme)
-- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-2d5j)
+- [## 🚀 My Journey into React: From Basics to Building Blocks](https://dev.to/rajeshwari_rajeshwari_0e5/-my-journey-into-react-from-basics-to-building-blocks-42pi)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-2i7k)
+- [从零开始的Hyperlane框架学习之旅：一个大三学生的真实体验](https://dev.to/_95e41982c9ad08a13458d/cong-ling-kai-shi-de-hyperlanekuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-487a)
+- [Project of the Week: MapLibre](https://dev.to/pullflow/project-of-the-week-maplibre-564e)
+- [🌤️ Day 3 of #100DaysOfCode](https://dev.to/tushar_sabharwal_79588ef3/day-3-of-100daysofcode-297m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
