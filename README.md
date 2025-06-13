@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-a6a)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-3j89)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3g64)
-- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-1fnh)
-- [Hyperlane错误处理与调试指南：一个大三学生的实战总结](https://dev.to/_95e41982c9ad08a13458d/hyperlanecuo-wu-chu-li-yu-diao-shi-zhi-nan-ge-da-san-xue-sheng-de-shi-zhan-zong-jie-4h7b)
+- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-3b9j)
+- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-2ngg)
+- [🧠 Pieces AI Memory: Built for Real Developer Workflows](https://dev.to/nikl/pieces-ai-memory-built-for-real-developer-workflows-h0e)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-4fmb)
+- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-cfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
