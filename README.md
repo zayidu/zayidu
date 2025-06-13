@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-3ehb)
-- [What is Amazon Nova? An Inside Look at AWS Foundation Models](https://dev.to/aws-builders/what-is-amazon-nova-an-inside-look-at-aws-foundation-models-227e)
-- [从零开始的Hyperlane框架学习之旅：一个大三学生的真实体验](https://dev.to/_95e41982c9ad08a13458d/cong-ling-kai-shi-de-hyperlanekuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-bal)
-- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-2jg4)
-- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-4154)
+- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-13c3)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-38hi)
+- [Mastering the JavaScript Cache API: A Comprehensive Guide](https://dev.to/maximlogunov/mastering-the-javascript-cache-api-a-comprehensive-guide-d38)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3d5h)
+- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-4jji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
