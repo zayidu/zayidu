@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-3b9j)
-- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-2ngg)
-- [🧠 Pieces AI Memory: Built for Real Developer Workflows](https://dev.to/nikl/pieces-ai-memory-built-for-real-developer-workflows-h0e)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-4fmb)
-- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-cfh)
+- [SafeLine WAF Auto Sync Setup: High Availability in Minutes](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-auto-sync-setup-high-availability-in-minutes-578n)
+- [The Best URL Shorteners in 2025: Features, Use Cases, and a Hidden Gem](https://dev.to/aloklmp/the-best-url-shorteners-in-2025-features-use-cases-and-a-hidden-gem-2636)
+- [I made a robot that talks and changes color! 🤖✨ Try it live here](https://dev.to/badhon_roy_410fa5e9e4acf4/i-made-a-robot-that-talks-and-changes-color-try-it-live-here--2ll5)
+- [Mastering Kubernetes Deployments with Helm: A Namespace-Centric Guide](https://dev.to/nifelabs/mastering-kubernetes-deployments-with-helm-a-namespace-centric-guide-aof)
+- [second day in HTML class](https://dev.to/savareesan_k_3cc4589834/second-day-in-html-class-21dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
