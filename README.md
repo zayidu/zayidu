@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres is Too Good &lpar;And Why That&#39;s Actually a Problem&rpar;](https://dev.to/shayy/postgres-is-too-good-and-why-thats-actually-a-problem-4imc)
-- [Five mistakes that slowed me down in learning to code](https://dev.to/uzzy412_73/five-mistakes-that-slowed-me-down-in-learning-to-code-c6o)
-- [Exploring the Benefits of Immutability in JavaScript Performance](https://dev.to/omriluz1/exploring-the-benefits-of-immutability-in-javascript-performance-ied)
-- [Queer History Slideshow 🏳️‍🌈](https://dev.to/djleamen/queer-history-slideshow-nj4)
-- [AWS Transform para Mainframe: Una nueva era para la modernización de sistemas legacy](https://dev.to/aws-espanol/aws-transform-para-mainframe-una-nueva-era-para-la-modernizacion-de-sistemas-legacy-4fg0)
+- [Troubleshooting AI: How to Fix Bad AI-Generated Responses](https://dev.to/mikuiwai/troubleshooting-ai-how-to-fix-bad-ai-generated-responses-44od)
+- [Optimizing Cybersecurity: Integrating Lean Six Sigma with Risk Assessment and Infrastructure Management](https://dev.to/robertpurpose/optimizing-cybersecurity-integrating-lean-six-sigma-with-risk-assessment-and-infrastructure-12gb)
+- [Learning Web3 From the Ground Up: Understanding Selective Disclosure](https://dev.to/devsofmidnight/learning-web3-from-the-ground-up-understanding-selective-disclosure-4n7)
+- [Iterative Prompting: How to Refine AI Outputs with Follow-Up Questions](https://dev.to/mikuiwai/iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d)
+- [Title: Passwordless Authentication ROI: TCO &amp; Implementation Guide for Devs](https://dev.to/deepakgupta/title-passwordless-authentication-roi-tco-implementation-guide-for-devs-2o8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
