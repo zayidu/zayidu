@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [## 🚀 My Journey into React: From Basics to Building Blocks](https://dev.to/rajeshwari_rajeshwari_0e5/-my-journey-into-react-from-basics-to-building-blocks-42pi)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-2i7k)
-- [从零开始的Hyperlane框架学习之旅：一个大三学生的真实体验](https://dev.to/_95e41982c9ad08a13458d/cong-ling-kai-shi-de-hyperlanekuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-487a)
-- [Project of the Week: MapLibre](https://dev.to/pullflow/project-of-the-week-maplibre-564e)
-- [🌤️ Day 3 of #100DaysOfCode](https://dev.to/tushar_sabharwal_79588ef3/day-3-of-100daysofcode-297m)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-5g29)
+- [DuckDB to query MongoDB](https://dev.to/franckpachot/duckdb-to-query-mongodb-3lnk)
+- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-1c8m)
+- [🐜 HMPL.js: Small Template Language. Reduce the build size several times 📦](https://dev.to/hmpljs/hmpljs-small-template-language-reduce-the-build-size-several-times-k94)
+- [AI Agents Are Coming For Your APIs](https://dev.to/zuplo/ai-agents-are-coming-for-your-apis-13pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
