@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌤️ Building a Gemini-Powered Conversational Weather Agent with Maxim Logging](https://dev.to/akshitmadan/building-a-gemini-powered-conversational-weather-agent-with-maxim-logging-9nb)
-- [The Essential React Developer Toolchain for 2025: Must-Have Extensions, Linters, and DevTools](https://dev.to/oli_john_087e42c8f84/the-essential-react-developer-toolchain-for-2025-must-have-extensions-linters-and-devtools-1jd7)
-- [CI/CD: The Key to Faster, Stress-Free Software Development](https://dev.to/jeandevbr/cicd-the-key-to-faster-stress-free-software-development-4gmf)
-- [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
-- [Building Your First AI Agent Without Frameworks](https://dev.to/gerimate/building-your-first-ai-agent-without-frameworks-l5p)
+- [Free APIs](https://dev.to/abigirlmuchineripi/free-apis-4fcb)
+- [When One Tweet Costs $3B: A Developer’s Look at Market Volatility and Infrastructure Design](https://dev.to/philip_crypto92/when-one-tweet-costs-3b-a-developers-look-at-market-volatility-and-infrastructure-design-7nb)
+- [The Technical Challenges of Remote Work &lpar;and How to Solve Them&rpar;](https://dev.to/sarahwilliams/the-technical-challenges-of-remote-work-and-how-to-solve-them-32hi)
+- [SEO for Devtools: Ranking When Your Audience Lives on GitHub, Not Google](https://dev.to/pavel_buyeu/seo-for-devtools-ranking-when-your-audience-lives-on-github-not-google-13od)
+- [How Small Businesses Benefit from Salesforce Managed Services Partners](https://dev.to/plumlogix/how-small-businesses-benefit-from-salesforce-managed-services-partners-m49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
