@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Snippai: An AI-Powered Screenshot Tool to Replace Snagit, Snipaste, and ShareX](https://dev.to/ytx/snippai-an-ai-powered-screenshot-tool-to-replace-snagit-snipaste-and-sharex-299o)
-- [Introducing Punch Name](https://dev.to/lanceway/introducing-punch-name-19p7)
-- [Choosing Your Developer Path Series: Yes, You Can Lead and Still Write Code](https://dev.to/tlorent/choosing-your-developer-path-series-yes-you-can-lead-and-still-write-code-3ma2)
-- [Building My First Full-Stack App: Part 3 - Integrating the Database with PostgreSQL &amp; Knex.js](https://dev.to/abhinavan00/building-my-first-full-stack-app-part-3-integrating-the-database-with-postgresql-knexjs-2674)
-- [Common Interface Problems and Troubleshooting Ideas of Forlinx Embedded AM62x Development Board &lpar;Phase 1&rpar;](https://dev.to/ronnie_r_152dc2151d9449c6/common-interface-problems-and-troubleshooting-ideas-of-forlinx-embedded-am62x-development-board-4654)
+- [Cybersecurity Audit Checklist: The Risk of Free Online Tools](https://dev.to/liamcorwin/cybersecurity-audit-checklist-the-risk-of-free-online-tools-amj)
+- [eKilo – A super lightweight Vim alternative.](https://dev.to/antonio-foti/ekilo-a-super-lightweight-vim-alternative-1alf)
+- [打造你自己的虚拟定位神器：Linux Bash 脚本模拟 GPS NMEA 坐标](https://dev.to/ctkqiang/da-zao-ni-zi-ji-de-xu-ni-ding-wei-shen-qi-linux-bash-jiao-ben-mo-ni-gps-nmea-zuo-biao-5el3)
+- [Shallow Copy Vs Deep Copy](https://dev.to/pumpkin1996/shallow-copy-vs-deep-copy-o5p)
+- [Today I Learn Difference btwn JS &lpar;vs&rpar; JSX &amp; Library &lpar;vs&rpar; Framework...](https://dev.to/chithra_priya/today-i-learn-difference-btwn-js-vs-jsx-library-vs-framework-2nje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
