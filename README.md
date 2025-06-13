@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF Auto Sync Setup: High Availability in Minutes](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-auto-sync-setup-high-availability-in-minutes-578n)
-- [The Best URL Shorteners in 2025: Features, Use Cases, and a Hidden Gem](https://dev.to/aloklmp/the-best-url-shorteners-in-2025-features-use-cases-and-a-hidden-gem-2636)
-- [I made a robot that talks and changes color! 🤖✨ Try it live here](https://dev.to/badhon_roy_410fa5e9e4acf4/i-made-a-robot-that-talks-and-changes-color-try-it-live-here--2ll5)
-- [Mastering Kubernetes Deployments with Helm: A Namespace-Centric Guide](https://dev.to/nifelabs/mastering-kubernetes-deployments-with-helm-a-namespace-centric-guide-aof)
-- [second day in HTML class](https://dev.to/savareesan_k_3cc4589834/second-day-in-html-class-21dm)
+- [Python Packaging &amp; Distribution](https://dev.to/godofgeeks/python-packaging-distribution-8ca)
+- [Understanding Variables and Data Types in C++](https://dev.to/tpointtech/understanding-variables-and-data-types-in-c-45hp)
+- [10+ Stunning React Icon Library](https://dev.to/theme_selection/10-stunning-react-icon-library-16a2)
+- [Top 7 Git Commands Every Developer Must Know &lpar;with Real-World Examples&rpar;](https://dev.to/red9systech/top-7-git-commands-every-developer-must-know-with-real-world-examples-1lcl)
+- [Accessibility Testing Companies in the US](https://dev.to/accessiblemind_tech/accessibility-testing-companies-in-the-us-55lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
