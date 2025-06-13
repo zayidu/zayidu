@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubber Duck Debugging and the Power of Self-Reflection in Code](https://dev.to/rijultp/rubber-duck-debugging-and-the-power-of-self-reflection-in-code-4oek)
-- [[Boost]](https://dev.to/yorchperaza/-29c4)
-- [DevLog 20250613: Ol&#39;ista Web Framework](https://dev.to/methodox/devlog-20250612-olista-web-framework-16mf)
-- [Content Moderation in Node.js: Building a Scalable Image Moderation Pipeline with MinIO, BullMQ, ClamAV, DeepStack &amp; Hashing 🧬](https://dev.to/silentwatcher_95/content-moderation-in-nodejs-building-a-scalable-image-moderation-pipeline-with-minio-bullmq-f53)
-- [Flappy Bird Game using Amazon Q CLI 🎮](https://dev.to/afnan_khan/flappy-bird-game-using-amazon-q-cli-25c2)
+- [Postgres is Too Good &lpar;And Why That&#39;s Actually a Problem&rpar;](https://dev.to/shayy/postgres-is-too-good-and-why-thats-actually-a-problem-4imc)
+- [Five mistakes that slowed me down in learning to code](https://dev.to/uzzy412_73/five-mistakes-that-slowed-me-down-in-learning-to-code-c6o)
+- [Exploring the Benefits of Immutability in JavaScript Performance](https://dev.to/omriluz1/exploring-the-benefits-of-immutability-in-javascript-performance-ied)
+- [Queer History Slideshow 🏳️‍🌈](https://dev.to/djleamen/queer-history-slideshow-nj4)
+- [AWS Transform para Mainframe: Una nueva era para la modernización de sistemas legacy](https://dev.to/aws-espanol/aws-transform-para-mainframe-una-nueva-era-para-la-modernizacion-de-sistemas-legacy-4fg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
