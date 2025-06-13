@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting AI: How to Fix Bad AI-Generated Responses](https://dev.to/mikuiwai/troubleshooting-ai-how-to-fix-bad-ai-generated-responses-44od)
-- [Optimizing Cybersecurity: Integrating Lean Six Sigma with Risk Assessment and Infrastructure Management](https://dev.to/robertpurpose/optimizing-cybersecurity-integrating-lean-six-sigma-with-risk-assessment-and-infrastructure-12gb)
-- [Learning Web3 From the Ground Up: Understanding Selective Disclosure](https://dev.to/devsofmidnight/learning-web3-from-the-ground-up-understanding-selective-disclosure-4n7)
-- [Iterative Prompting: How to Refine AI Outputs with Follow-Up Questions](https://dev.to/mikuiwai/iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d)
-- [Title: Passwordless Authentication ROI: TCO &amp; Implementation Guide for Devs](https://dev.to/deepakgupta/title-passwordless-authentication-roi-tco-implementation-guide-for-devs-2o8k)
+- [Mastering GitOps at Scale: Strategies for Multi-Cloud, Hybrid, and Edge](https://dev.to/vaib/mastering-gitops-at-scale-strategies-for-multi-cloud-hybrid-and-edge-3oah)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-4nk4)
+- [How to Build Detailed Customer Personas Using AI](https://dev.to/mikuiwai/how-to-build-detailed-customer-personas-using-ai-l2n)
+- [How to Generate A/B Test Variations for Ads and Landing Pages with AI](https://dev.to/mikuiwai/how-to-generate-ab-test-variations-for-ads-and-landing-pages-with-ai-2idm)
+- [WWDC 2025 - Integrate privacy into your development](https://dev.to/softwaretechpro/wwdc-2025-integrate-privacy-into-your-development-45jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
