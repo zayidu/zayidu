@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-13c3)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-38hi)
-- [Mastering the JavaScript Cache API: A Comprehensive Guide](https://dev.to/maximlogunov/mastering-the-javascript-cache-api-a-comprehensive-guide-d38)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3d5h)
-- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-4jji)
+- [Rubber Duck Debugging and the Power of Self-Reflection in Code](https://dev.to/rijultp/rubber-duck-debugging-and-the-power-of-self-reflection-in-code-4oek)
+- [[Boost]](https://dev.to/yorchperaza/-29c4)
+- [DevLog 20250613: Ol&#39;ista Web Framework](https://dev.to/methodox/devlog-20250612-olista-web-framework-16mf)
+- [Content Moderation in Node.js: Building a Scalable Image Moderation Pipeline with MinIO, BullMQ, ClamAV, DeepStack &amp; Hashing 🧬](https://dev.to/silentwatcher_95/content-moderation-in-nodejs-building-a-scalable-image-moderation-pipeline-with-minio-bullmq-f53)
+- [Flappy Bird Game using Amazon Q CLI 🎮](https://dev.to/afnan_khan/flappy-bird-game-using-amazon-q-cli-25c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
