@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Packaging &amp; Distribution](https://dev.to/godofgeeks/python-packaging-distribution-8ca)
-- [Understanding Variables and Data Types in C++](https://dev.to/tpointtech/understanding-variables-and-data-types-in-c-45hp)
-- [10+ Stunning React Icon Library](https://dev.to/theme_selection/10-stunning-react-icon-library-16a2)
-- [Top 7 Git Commands Every Developer Must Know &lpar;with Real-World Examples&rpar;](https://dev.to/red9systech/top-7-git-commands-every-developer-must-know-with-real-world-examples-1lcl)
-- [Accessibility Testing Companies in the US](https://dev.to/accessiblemind_tech/accessibility-testing-companies-in-the-us-55lh)
+- [MySQL vs MongoDB - Visual Design with Real Data Models](https://dev.to/roxana_haidiner/mysql-vs-mongodb-visual-design-with-real-data-models-86l)
+- [Cloud Events: Standardizing the Future of Event-Driven Architectures](https://dev.to/actor-dev/cloud-events-standardizing-the-future-of-event-driven-architectures-5i5)
+- [Spring Boot Annotation Guide](https://dev.to/drsimplegraffiti/spring-boot-annotation-guide-4lef)
+- [Messaging Systems Explained | Point-to-Point vs Pub-Sub | Kafka Architecture Overview | Part -1](https://dev.to/sonunigam_bar_ddd6cad4f2c/messaging-systems-explained-point-to-point-vs-pub-sub-kafka-architecture-overview-part-1-33l7)
+- [Threat-Aware Automation: Making Security a First-Class Citizen in Your Test Suite](https://dev.to/gopinath_kathiresan_2f4b2/threat-aware-automation-making-security-a-first-class-citizen-in-your-test-suite-318k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
