@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a WebSocket server easily with Go: EasyWS makes everything simple](https://dev.to/whoami_v_7bf12869d3cda8c6/build-a-websocket-server-easily-with-go-easyws-makes-everything-simple-3k4c)
-- [My First HTML &amp; CSS Web Page learning](https://dev.to/2021_cse_gayathrir_e733/my-first-html-css-web-page-jid)
-- [GeoServer Hit by Critical SSRF and XXE Vulnerabilities — Patch Now!](https://dev.to/sharon_42e16b8da44dabde6d/geoserver-hit-by-critical-ssrf-and-xxe-vulnerabilities-patch-now-36j4)
-- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
-- [AWS CDK in Action — May 2025: Empowered Deployments, Governance, and Community](https://dev.to/aws/aws-cdk-in-action-may-2025-empowered-deployments-governance-and-community-1gdb)
+- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-a6a)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-3j89)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3g64)
+- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-1fnh)
+- [Hyperlane错误处理与调试指南：一个大三学生的实战总结](https://dev.to/_95e41982c9ad08a13458d/hyperlanecuo-wu-chu-li-yu-diao-shi-zhi-nan-ge-da-san-xue-sheng-de-shi-zhan-zong-jie-4h7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
