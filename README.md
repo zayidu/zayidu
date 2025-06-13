@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Audit Checklist: The Risk of Free Online Tools](https://dev.to/liamcorwin/cybersecurity-audit-checklist-the-risk-of-free-online-tools-amj)
-- [eKilo – A super lightweight Vim alternative.](https://dev.to/antonio-foti/ekilo-a-super-lightweight-vim-alternative-1alf)
-- [打造你自己的虚拟定位神器：Linux Bash 脚本模拟 GPS NMEA 坐标](https://dev.to/ctkqiang/da-zao-ni-zi-ji-de-xu-ni-ding-wei-shen-qi-linux-bash-jiao-ben-mo-ni-gps-nmea-zuo-biao-5el3)
-- [Shallow Copy Vs Deep Copy](https://dev.to/pumpkin1996/shallow-copy-vs-deep-copy-o5p)
-- [Today I Learn Difference btwn JS &lpar;vs&rpar; JSX &amp; Library &lpar;vs&rpar; Framework...](https://dev.to/chithra_priya/today-i-learn-difference-btwn-js-vs-jsx-library-vs-framework-2nje)
+- [🌤️ Building a Gemini-Powered Conversational Weather Agent with Maxim Logging](https://dev.to/akshitmadan/building-a-gemini-powered-conversational-weather-agent-with-maxim-logging-9nb)
+- [The Essential React Developer Toolchain for 2025: Must-Have Extensions, Linters, and DevTools](https://dev.to/oli_john_087e42c8f84/the-essential-react-developer-toolchain-for-2025-must-have-extensions-linters-and-devtools-1jd7)
+- [CI/CD: The Key to Faster, Stress-Free Software Development](https://dev.to/jeandevbr/cicd-the-key-to-faster-stress-free-software-development-4gmf)
+- [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
+- [Building Your First AI Agent Without Frameworks](https://dev.to/gerimate/building-your-first-ai-agent-without-frameworks-l5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
