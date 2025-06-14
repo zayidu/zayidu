@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1749938323059900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749938323059900-5e0o)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749937716787400）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749937716787400-7ll)
-- [The Poetry and Horizon of Code Framework（1749937113506600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749937113506600-4gc5)
-- [The Heartbeat of Modern Web Applications（1749936509773500）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749936509773500-12hp)
-- [100 days of Coding! Day 15](https://dev.to/aaanishaaa/100-days-of-coding-day-15-b82)
+- [The Critical Importance of Security in the Digital Age（1749941946306700）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749941946306700-1mbo)
+- [Teste with image](https://dev.to/xandongurgel/teste-with-image-hhh)
+- [Dropping this one here in case anyone who missed it might find it useful 🙌](https://dev.to/onedev/dropping-this-one-here-in-case-anyone-who-missed-it-might-find-it-useful-31ae)
+- [My Architectural Choices and Practical Experience（1749941342160200）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749941342160200-43cf)
+- [Peak Performance Understated Power（1749940736268800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749940736268800-2kmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
