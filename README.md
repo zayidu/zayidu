@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1749935303370300）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1749935303370300-4f0o)
-- [JavaScript Promises: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/smriti_4f19f53a3e55b45bcc/javascript-promises-all-vs-allsettled-and-race-vs-any-5h7b)
-- [Introducing netsec-analyzer: A DevOps-Friendly CLI to Scan Ports, Audit TLS, and Secure Linux](https://dev.to/raghavachellu/introducing-netsec-analyzer-a-devops-friendly-cli-to-scan-ports-audit-tls-and-secure-linux-29mh)
-- [The Poetry and Horizon of Code Framework（1749934700915400）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749934700915400-j3h)
-- [WWDC 2025 - Optimize SwiftUI performance with Instruments](https://dev.to/softwaretechpro/wwdc-2025-optimize-swiftui-performance-with-instruments-4o4j)
+- [My Journey with the Hyperlane Framework（1749938323059900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749938323059900-5e0o)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749937716787400）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749937716787400-7ll)
+- [The Poetry and Horizon of Code Framework（1749937113506600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749937113506600-4gc5)
+- [The Heartbeat of Modern Web Applications（1749936509773500）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749936509773500-12hp)
+- [100 days of Coding! Day 15](https://dev.to/aaanishaaa/100-days-of-coding-day-15-b82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
