@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions vs CircleCI: Which CI/CD Tool Should You Use in 2025?](https://dev.to/tedh1677/github-actions-vs-circleci-which-cicd-tool-should-you-use-in-2025-16c4)
-- [What I Learned in Tech: From Student to Full-Time Software Developer - Part 1/3](https://dev.to/arnavsharma2711/what-i-learned-in-tech-from-student-to-full-time-software-developer-part-13-2p14)
-- [What I Learned About Arrays While Grinding NeetCode 150](https://dev.to/derya_65464c085c63b3c0788/what-i-learned-about-arrays-while-grinding-neetcode-150-31pe)
-- [How do you protect your peace and mental health in an industry that never sleeps?](https://dev.to/theneverdone/how-do-you-protect-your-peace-and-mental-health-in-an-industry-that-never-sleeps-3dh0)
-- [Node.js Clustering vs. Worker Threads: When to Fork and When to Thread](https://dev.to/alex_aslam/nodejs-clustering-vs-worker-threads-when-to-fork-and-when-to-thread-fe4)
+- [Elevate Your Store: Remove Product Photo Backgrounds](https://dev.to/cole-waylet/elevate-your-store-remove-product-photo-backgrounds-3bk2)
+- [Viernes 13](https://dev.to/joaquin_ramirez_faa018844/viernes-13-p83)
+- [Understanding Functions vs Methods in Go &lpar;Golang&rpar; 🚀](https://dev.to/victorchiaka/understanding-functions-vs-methods-in-go-golang-j78)
+- [2566. Maximum Difference by Remapping a Digit](https://dev.to/mdarifulhaque/2566-maximum-difference-by-remapping-a-digit-25g7)
+- [Why Architecture Matters in Mobile App Development](https://dev.to/lukewon/why-architecture-matters-in-mobile-app-development-522b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
