@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏃‍♂️ Runner H &quot;AI Agent Prompting&quot; Challenge](https://dev.to/davinceleecode/runner-h-ai-agent-prompting-challenge-4bfo)
-- [JavaScript Interview Questions](https://dev.to/sundar_joseph_94059a3e7a6/javascript-interview-questions-3of8)
-- [The Heartbeat of Modern Web Applications（1749919579682200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749919579682200-3e0p)
-- [Day 8/180 of Frontend Dev: HTML Images and the Critical Role of Alt Attributes](https://dev.to/code_2/day-8180-of-frontend-dev-html-images-and-the-critical-role-of-alt-attributes-p3b)
-- [🎮 Reimagining Line 98 with Amazon Q CLI, React, and AWS](https://dev.to/linhdangdev/reimagining-line-98-with-amazon-q-cli-react-and-aws-58dd)
+- [Peak Performance Understated Power（1749924431942500）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749924431942500-4kg3)
+- [Inicio como Desenvolvedor](https://dev.to/juniorc027/inicio-como-desenvolvedor-3m1d)
+- [CSS Units Are Slowing Down Your Website - Here’s How to Fix It!](https://dev.to/werliton/css-units-throughput-how-units-impact-performance-293e)
+- [Serverless AI/ML: Building Scalable &amp; Cost-Effective Intelligent Applications](https://dev.to/vaib/serverless-aiml-building-scalable-cost-effective-intelligent-applications-ok7)
+- [Understanding Basic Data Types](https://dev.to/shrey1910/understanding-basic-data-types-1724)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
