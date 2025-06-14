@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1749924431942500）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749924431942500-4kg3)
-- [Inicio como Desenvolvedor](https://dev.to/juniorc027/inicio-como-desenvolvedor-3m1d)
-- [CSS Units Are Slowing Down Your Website - Here’s How to Fix It!](https://dev.to/werliton/css-units-throughput-how-units-impact-performance-293e)
-- [Serverless AI/ML: Building Scalable &amp; Cost-Effective Intelligent Applications](https://dev.to/vaib/serverless-aiml-building-scalable-cost-effective-intelligent-applications-ok7)
-- [Understanding Basic Data Types](https://dev.to/shrey1910/understanding-basic-data-types-1724)
+- [The New Generation of High-Performance Web Frameworks（1749927454431100）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749927454431100-n3c)
+- [AWS SSM Association - Schedule Stop and Start RDS &lpar;Power of AWS SSM - EP 1&rpar;](https://dev.to/aws-builders/aws-ssm-association-schedule-stop-and-start-rds-power-of-aws-ssm-ep-1-6g4)
+- [The Poetry and Horizon of Code Framework（1749926846557600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749926846557600-388i)
+- [Building an Interactive Resume: My Journey with React, Tailwind CSS, and Framer Motion ✨](https://dev.to/gojer16/building-an-interactive-resume-my-journey-with-react-tailwind-css-and-framer-motion-54ck)
+- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗢𝗽𝗲𝗻𝗔𝗣𝗜 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲: 𝗨𝘀𝗶𝗻𝗴 𝗦𝘄𝗮𝗴𝗴𝗲𝗿 𝗨𝗜, 𝗦𝗰𝗮𝗹𝗮𝗿, 𝗮𝗻𝗱 𝗦𝗽𝗲𝗰𝘁𝗿𝗮𝗹 𝗳𝗼𝗿 𝗕𝗲𝘁𝘁𝗲𝗿 𝗔𝗣𝗜 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁𝗶𝗻𝗴](https://dev.to/supraja_tangella_b7f0738e/--1e6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
