@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NAPS2: Open-Source Project Scanner Software](https://dev.to/naps2/naps2-open-source-project-scanner-software-534a)
-- [MCP vs Direct APIs: A Side-by-Side Example](https://dev.to/shettigarc/mcp-vs-direct-apis-a-side-by-side-example-1nkf)
-- [AI Document Translation: Complete FAQ &amp; Real-World Guide &lpar;2025&rpar;](https://dev.to/shruti_saraswat_c258d5934/ai-document-translation-complete-faq-real-world-guide-2025-1pc2)
-- [Stop Using Dumb Search Bars: Build Smart, AI-Powered Search with Azure + .NET](https://dev.to/mohammad_shoeb_8cf8645287/stop-using-dumb-search-bars-build-smart-ai-powered-search-with-azure-net-3p8l)
-- [KemLang is here to say “Kem cho, Developer?” 😄 Write code like a Gujarati thali – spicy, sweet, and satisfying! 👉 Live Demo: kemlang.vercel.app](https://dev.to/prit_patel_3847364eb3f973/kemlang-is-here-to-say-kem-cho-developer-write-code-like-a-gujarati-thali-spicy-sweet-2dl)
+- [🧠 How to Name Things in Code — 2025 Edition](https://dev.to/aleksei_aleinikov/how-to-name-things-in-code-2025-edition-onf)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-1k96)
+- [⚡ Keeping State Simple in 2025 &lpar;No Redux Required&rpar;](https://dev.to/aleksei_aleinikov/keeping-state-simple-in-2025-no-redux-required-21do)
+- [🚀 React Query in 2025: Fast Data Without Redux Bloat](https://dev.to/aleksei_aleinikov/react-query-in-2025-fast-data-without-redux-bloat-492m)
+- [Bridging in React Native with Turbo Native Modules New Architecture 0.79+: A Comprehensive Guide to Cross-Platform](https://dev.to/amitkumar13/bridging-in-react-native-with-turbo-native-modules-new-architecture-079-a-comprehensive-guide-to-19df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
