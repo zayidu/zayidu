@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence Evolved from Civilian Use to Military Superpower](https://dev.to/ashikur_rahmannazil93/artificial-intelligence-evolved-from-civilian-use-to-military-superpower-689)
-- [Why Every Junior Developer Should Learn Software Architecture Early](https://dev.to/techies_grow_28919d1972db/why-every-junior-developer-should-learn-software-architecture-early-97m)
-- [From Public AI to Military AI: Evolution, Ethics, and Implications](https://dev.to/ashikur_rahmannazil93/from-public-ai-to-military-ai-evolution-ethics-and-implications-3d71)
-- [Programming Differences Between a Normal Computer and a Supercomputer](https://dev.to/ashikur_rahmannazil93/programming-differences-between-a-normal-computer-and-a-supercomputer-5aoa)
-- [Introducción a Git: Aprende rápido](https://dev.to/crobf/introduccion-a-git-aprende-rapido-3cn5)
+- [Kevin Mitnick: The Life and Legacy of the World&#39;s Most Notorious Hacker](https://dev.to/ashikur_rahmannazil93/kevin-mitnick-the-life-and-legacy-of-the-worlds-most-notorious-hacker-55ea)
+- [我开发校园API的那些事儿：一个Rust新手的框架体验](https://dev.to/codeqwertyuiop/wo-kai-fa-xiao-yuan-apide-na-xie-shi-er-ge-rustxin-shou-de-kuang-jia-ti-yan-44fm)
+- [How to Build Collaborative Real-Time Interfaces in Phoenix LiveView with CRDTs](https://dev.to/hexshift/how-to-build-collaborative-real-time-interfaces-in-phoenix-liveview-with-crdts-2iop)
+- [从零开始的Web框架学习之旅：一个大三学生的真实体验](https://dev.to/codeqwertyuiop/cong-ling-kai-shi-de-webkuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-31m0)
+- [Rendering Methods in React: CSR vs SSR vs SSG vs ISR](https://dev.to/mdmohsanul/rendering-methods-in-react-csr-vs-ssr-vs-ssg-vs-isr-3hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
