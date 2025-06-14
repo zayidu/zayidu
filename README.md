@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gurukulkarni/-2a9e)
-- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-j6l)
-- [Code the Grid: Reimagining Tic-Tac-Toe with Just Chat Prompts ❌⭕⚡](https://dev.to/ayushi_kanwar_7e3baf8bb79/code-the-grid-reimagining-tic-tac-toe-with-just-chat-prompts-3385)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-4ggp)
-- [The Gem of a Github Action you never used](https://dev.to/raghavyuva/the-gem-of-a-github-action-you-never-used-11i6)
+- [Why Developers Should Care About Email Marketing](https://dev.to/alisongbs/why-developers-should-care-about-email-marketing-2icg)
+- [Printed Invoice Misaligned Compared to Print Preview – How to Fix?](https://dev.to/ajay_e65b5eaa4dfb69f9a04a/printed-invoice-misaligned-compared-to-print-preview-how-to-fix-1fm1)
+- [Elementor AI Site Planner Review and Tutorial 2025 – FREE AI TOOL](https://dev.to/blogkraft/elementor-ai-site-planner-review-and-tutorial-2025-free-ai-tool-3a9)
+- [How to Ace the 30 Most Common Project Defense Questions](https://dev.to/project_championz_9d9586c/how-to-ace-the-30-most-common-project-defense-questions-10kg)
+- [Completed All Two-Tier Application Deployment Series.](https://dev.to/devops_methodology_d2b67f/completed-all-two-tier-application-deployment-series-42a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
