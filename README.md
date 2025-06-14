@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Should Care About Email Marketing](https://dev.to/alisongbs/why-developers-should-care-about-email-marketing-2icg)
-- [Printed Invoice Misaligned Compared to Print Preview – How to Fix?](https://dev.to/ajay_e65b5eaa4dfb69f9a04a/printed-invoice-misaligned-compared-to-print-preview-how-to-fix-1fm1)
-- [Elementor AI Site Planner Review and Tutorial 2025 – FREE AI TOOL](https://dev.to/blogkraft/elementor-ai-site-planner-review-and-tutorial-2025-free-ai-tool-3a9)
-- [How to Ace the 30 Most Common Project Defense Questions](https://dev.to/project_championz_9d9586c/how-to-ace-the-30-most-common-project-defense-questions-10kg)
-- [Completed All Two-Tier Application Deployment Series.](https://dev.to/devops_methodology_d2b67f/completed-all-two-tier-application-deployment-series-42a7)
+- [Using AI for Predictive Trend Analysis in Your Market](https://dev.to/mikuiwai/using-ai-for-predictive-trend-analysis-in-your-market-4jcd)
+- [Freelancers vs Agencies: Which Web Developer Should You Pick?](https://dev.to/weberasolutions/freelancers-vs-agencies-which-web-developer-should-you-pick-2nhf)
+- [How to Turn Marketing Data into an Actionable Narrative with AI](https://dev.to/mikuiwai/how-to-turn-marketing-data-into-an-actionable-narrative-with-ai-3b5a)
+- [A Guide to AI-Powered Competitor Analysis for Marketers](https://dev.to/mikuiwai/a-guide-to-ai-powered-competitor-analysis-for-marketers-1f1l)
+- [Managing Alembic Migrations Across Multiple Environments](https://dev.to/al-chris/managing-alembic-migrations-across-multiple-environments-247m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
