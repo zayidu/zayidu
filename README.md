@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Web Frameworks（1749927454431100）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749927454431100-n3c)
-- [AWS SSM Association - Schedule Stop and Start RDS &lpar;Power of AWS SSM - EP 1&rpar;](https://dev.to/aws-builders/aws-ssm-association-schedule-stop-and-start-rds-power-of-aws-ssm-ep-1-6g4)
-- [The Poetry and Horizon of Code Framework（1749926846557600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749926846557600-388i)
-- [Building an Interactive Resume: My Journey with React, Tailwind CSS, and Framer Motion ✨](https://dev.to/gojer16/building-an-interactive-resume-my-journey-with-react-tailwind-css-and-framer-motion-54ck)
-- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗢𝗽𝗲𝗻𝗔𝗣𝗜 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲: 𝗨𝘀𝗶𝗻𝗴 𝗦𝘄𝗮𝗴𝗴𝗲𝗿 𝗨𝗜, 𝗦𝗰𝗮𝗹𝗮𝗿, 𝗮𝗻𝗱 𝗦𝗽𝗲𝗰𝘁𝗿𝗮𝗹 𝗳𝗼𝗿 𝗕𝗲𝘁𝘁𝗲𝗿 𝗔𝗣𝗜 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁𝗶𝗻𝗴](https://dev.to/supraja_tangella_b7f0738e/--1e6f)
+- [What the Heck Is a Viewport?](https://dev.to/inventoris/what-the-heck-is-a-viewport-453h)
+- [How We Slashed AWS Lambda Cold Starts by 90% with Node.js](https://dev.to/alex_aslam/how-we-slashed-aws-lambda-cold-starts-by-90-with-nodejs-1489)
+- [Unlocking the Immersive Internet with Generative AI](https://dev.to/vaib/unlocking-the-immersive-internet-with-generative-ai-b96)
+- [Advanced Concepts in Error Handling with Async/Await](https://dev.to/omriluz1/advanced-concepts-in-error-handling-with-asyncawait-3dc8)
+- [Peak Performance Understated Power（1749931078864500）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749931078864500-2jf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
