@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Desvendando a Mente das IAs: Um Guia Prático para Criar Prompts Eficazes no ChatGPT e Gemini - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/-desvendando-a-mente-das-ias-um-guia-pratico-para-criar-prompts-eficazes-no-chatgpt-e-gemini--1485)
-- [Deploying a Java App to AWS with Multiple CI/CD Tools](https://dev.to/devopsplayground/deploying-a-java-app-to-aws-with-multiple-cicd-tools-15ji)
-- [Mini course about git- João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/mini-course-about-git-joao-claudio-nunes-carvalho-3kfe)
-- [Hands-On AI for Beginners: Classifying Iris Flowers in Python](https://dev.to/vaib/hands-on-ai-for-beginners-classifying-iris-flowers-in-python-2j4h)
-- [Why I Analyzed 16,384 Bundle Combinations &lpar;And You Should Too&rpar;](https://dev.to/puruvj/why-i-analyzed-16384-bundle-combinations-and-you-should-too-4bc4)
+- [WHILE LOOP](https://dev.to/vignesh_m_4971f2f8dfa54/while-loop-3ig5)
+- [about LLM and DeepLearning](https://dev.to/woodyxin/about-llm-and-deeplearning-4685)
+- [10 Tools Every Developer Should Try in 2025](https://dev.to/samuelmiozz/10-tools-every-developer-should-try-in-2025-3bif)
+- [Mastering AWS Knowledge Bases with Bedrock: A Complete Guide](https://dev.to/cloudoku-training/mastering-aws-knowledge-bases-with-bedrock-a-complete-guide-4o35)
+- [What is the `DECIMAL` type in MySQL?](https://dev.to/shelner/what-is-the-decimal-in-mysql-20hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
