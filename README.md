@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI for Predictive Trend Analysis in Your Market](https://dev.to/mikuiwai/using-ai-for-predictive-trend-analysis-in-your-market-4jcd)
-- [Freelancers vs Agencies: Which Web Developer Should You Pick?](https://dev.to/weberasolutions/freelancers-vs-agencies-which-web-developer-should-you-pick-2nhf)
-- [How to Turn Marketing Data into an Actionable Narrative with AI](https://dev.to/mikuiwai/how-to-turn-marketing-data-into-an-actionable-narrative-with-ai-3b5a)
-- [A Guide to AI-Powered Competitor Analysis for Marketers](https://dev.to/mikuiwai/a-guide-to-ai-powered-competitor-analysis-for-marketers-1f1l)
-- [Managing Alembic Migrations Across Multiple Environments](https://dev.to/al-chris/managing-alembic-migrations-across-multiple-environments-247m)
+- [# Desvendando a Mente das IAs: Um Guia Prático para Criar Prompts Eficazes no ChatGPT e Gemini - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/-desvendando-a-mente-das-ias-um-guia-pratico-para-criar-prompts-eficazes-no-chatgpt-e-gemini--1485)
+- [Deploying a Java App to AWS with Multiple CI/CD Tools](https://dev.to/devopsplayground/deploying-a-java-app-to-aws-with-multiple-cicd-tools-15ji)
+- [Mini course about git- João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/mini-course-about-git-joao-claudio-nunes-carvalho-3kfe)
+- [Hands-On AI for Beginners: Classifying Iris Flowers in Python](https://dev.to/vaib/hands-on-ai-for-beginners-classifying-iris-flowers-in-python-2j4h)
+- [Why I Analyzed 16,384 Bundle Combinations &lpar;And You Should Too&rpar;](https://dev.to/puruvj/why-i-analyzed-16384-bundle-combinations-and-you-should-too-4bc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
