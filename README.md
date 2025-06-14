@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kevin Mitnick: The Life and Legacy of the World&#39;s Most Notorious Hacker](https://dev.to/ashikur_rahmannazil93/kevin-mitnick-the-life-and-legacy-of-the-worlds-most-notorious-hacker-55ea)
-- [我开发校园API的那些事儿：一个Rust新手的框架体验](https://dev.to/codeqwertyuiop/wo-kai-fa-xiao-yuan-apide-na-xie-shi-er-ge-rustxin-shou-de-kuang-jia-ti-yan-44fm)
-- [How to Build Collaborative Real-Time Interfaces in Phoenix LiveView with CRDTs](https://dev.to/hexshift/how-to-build-collaborative-real-time-interfaces-in-phoenix-liveview-with-crdts-2iop)
-- [从零开始的Web框架学习之旅：一个大三学生的真实体验](https://dev.to/codeqwertyuiop/cong-ling-kai-shi-de-webkuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-31m0)
-- [Rendering Methods in React: CSR vs SSR vs SSG vs ISR](https://dev.to/mdmohsanul/rendering-methods-in-react-csr-vs-ssr-vs-ssg-vs-isr-3hi)
+- [NAPS2: Open-Source Project Scanner Software](https://dev.to/naps2/naps2-open-source-project-scanner-software-534a)
+- [MCP vs Direct APIs: A Side-by-Side Example](https://dev.to/shettigarc/mcp-vs-direct-apis-a-side-by-side-example-1nkf)
+- [AI Document Translation: Complete FAQ &amp; Real-World Guide &lpar;2025&rpar;](https://dev.to/shruti_saraswat_c258d5934/ai-document-translation-complete-faq-real-world-guide-2025-1pc2)
+- [Stop Using Dumb Search Bars: Build Smart, AI-Powered Search with Azure + .NET](https://dev.to/mohammad_shoeb_8cf8645287/stop-using-dumb-search-bars-build-smart-ai-powered-search-with-azure-net-3p8l)
+- [KemLang is here to say “Kem cho, Developer?” 😄 Write code like a Gujarati thali – spicy, sweet, and satisfying! 👉 Live Demo: kemlang.vercel.app](https://dev.to/prit_patel_3847364eb3f973/kemlang-is-here-to-say-kem-cho-developer-write-code-like-a-gujarati-thali-spicy-sweet-2dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
