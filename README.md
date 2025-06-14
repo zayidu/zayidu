@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WHILE LOOP](https://dev.to/vignesh_m_4971f2f8dfa54/while-loop-3ig5)
-- [about LLM and DeepLearning](https://dev.to/woodyxin/about-llm-and-deeplearning-4685)
-- [10 Tools Every Developer Should Try in 2025](https://dev.to/samuelmiozz/10-tools-every-developer-should-try-in-2025-3bif)
-- [Mastering AWS Knowledge Bases with Bedrock: A Complete Guide](https://dev.to/cloudoku-training/mastering-aws-knowledge-bases-with-bedrock-a-complete-guide-4o35)
-- [What is the `DECIMAL` type in MySQL?](https://dev.to/shelner/what-is-the-decimal-in-mysql-20hn)
+- [How to A/B Test Your Prompts and Prove Their ROI](https://dev.to/mikuiwai/how-to-ab-test-your-prompts-and-prove-their-roi-2987)
+- [[Boost]](https://dev.to/anthonymax/-1jnk)
+- [From YAML to cable-harness SVG in 5 minutes](https://dev.to/octavelscx/from-yaml-to-cable-harness-svg-in-5-minutes-4e1j)
+- [How to Make AI an Expert on Your Business with Private Data](https://dev.to/mikuiwai/how-to-make-ai-an-expert-on-your-business-with-private-data-2391)
+- [The Seiko Speedtimer: A Legacy of Precision and Performance](https://dev.to/michal_mirko_79cea4a53f04/the-seiko-speedtimer-a-legacy-of-precision-and-performance-26e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
