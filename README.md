@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-mgh)
-- [Unveiling the Next-Generation Web Engine My In-Depth Experience with a Rust Framework and the Path to Performance Supremacy](https://dev.to/codeqwertyuiop/unveiling-the-next-generation-web-engine-my-in-depth-experience-with-a-rust-framework-and-the-path-23a3)
-- [JPA Naming Method Conventions: A Complete Guide for Developers](https://dev.to/devcorner/jpa-naming-method-conventions-a-complete-guide-for-developers-4p5)
-- [Goodbye Wait Wait Wait My Junior Year Adventure A Secret Weapon That Makes Code Fly](https://dev.to/codeqwertyuiop/goodbye-wait-wait-wait-my-junior-year-adventure-a-secret-weapon-that-makes-code-fly-c73)
-- [使用 Lumen AI 简化 Git Commit 信息生成](https://dev.to/xiaodao/shi-yong-lumen-ai-jian-hua-git-commit-xin-xi-sheng-cheng-439a)
+- [[Boost]](https://dev.to/gurukulkarni/-2a9e)
+- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-j6l)
+- [Code the Grid: Reimagining Tic-Tac-Toe with Just Chat Prompts ❌⭕⚡](https://dev.to/ayushi_kanwar_7e3baf8bb79/code-the-grid-reimagining-tic-tac-toe-with-just-chat-prompts-3385)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-4ggp)
+- [The Gem of a Github Action you never used](https://dev.to/raghavyuva/the-gem-of-a-github-action-you-never-used-11i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
