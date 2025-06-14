@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How to Name Things in Code — 2025 Edition](https://dev.to/aleksei_aleinikov/how-to-name-things-in-code-2025-edition-onf)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-1k96)
-- [⚡ Keeping State Simple in 2025 &lpar;No Redux Required&rpar;](https://dev.to/aleksei_aleinikov/keeping-state-simple-in-2025-no-redux-required-21do)
-- [🚀 React Query in 2025: Fast Data Without Redux Bloat](https://dev.to/aleksei_aleinikov/react-query-in-2025-fast-data-without-redux-bloat-492m)
-- [Bridging in React Native with Turbo Native Modules New Architecture 0.79+: A Comprehensive Guide to Cross-Platform](https://dev.to/amitkumar13/bridging-in-react-native-with-turbo-native-modules-new-architecture-079-a-comprehensive-guide-to-19df)
+- [Advanced Concurrency Patterns in Go](https://dev.to/godofgeeks/advanced-concurrency-patterns-in-go-2i88)
+- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-123i)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-fh1)
+- [The Pulse of Real-Time Interaction My &#39;Heartbeat Sync&#39; Journey with an Asynchronous Framework](https://dev.to/codeqwertyuiop/the-pulse-of-real-time-interaction-my-heartbeat-sync-journey-with-an-asynchronous-framework-4d8k)
+- [Stop using shady QR apps! Try this clean browser tool](https://dev.to/naman_sachdeva/stop-using-shady-qr-apps-try-this-clean-browser-tool-2i83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
