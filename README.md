@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your Store: Remove Product Photo Backgrounds](https://dev.to/cole-waylet/elevate-your-store-remove-product-photo-backgrounds-3bk2)
-- [Viernes 13](https://dev.to/joaquin_ramirez_faa018844/viernes-13-p83)
-- [Understanding Functions vs Methods in Go &lpar;Golang&rpar; 🚀](https://dev.to/victorchiaka/understanding-functions-vs-methods-in-go-golang-j78)
-- [2566. Maximum Difference by Remapping a Digit](https://dev.to/mdarifulhaque/2566-maximum-difference-by-remapping-a-digit-25g7)
-- [Why Architecture Matters in Mobile App Development](https://dev.to/lukewon/why-architecture-matters-in-mobile-app-development-522b)
+- [Artificial Intelligence Evolved from Civilian Use to Military Superpower](https://dev.to/ashikur_rahmannazil93/artificial-intelligence-evolved-from-civilian-use-to-military-superpower-689)
+- [Why Every Junior Developer Should Learn Software Architecture Early](https://dev.to/techies_grow_28919d1972db/why-every-junior-developer-should-learn-software-architecture-early-97m)
+- [From Public AI to Military AI: Evolution, Ethics, and Implications](https://dev.to/ashikur_rahmannazil93/from-public-ai-to-military-ai-evolution-ethics-and-implications-3d71)
+- [Programming Differences Between a Normal Computer and a Supercomputer](https://dev.to/ashikur_rahmannazil93/programming-differences-between-a-normal-computer-and-a-supercomputer-5aoa)
+- [Introducción a Git: Aprende rápido](https://dev.to/crobf/introduccion-a-git-aprende-rapido-3cn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
