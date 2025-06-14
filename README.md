@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks for this badge. I am proud to be a member of this great dev community!](https://dev.to/sinaezekiel/thanks-for-this-badge-i-am-proud-to-be-a-member-of-this-great-dev-community-16j)
-- [📬 Inbox Zero Butler – AI Agent for Smart Email Triage using Runner](https://dev.to/vishnu_rachapudi_75e73248/inbox-zero-butler-ai-agent-for-smart-email-triage-using-runner-5lc)
-- [My Journey Exploring Efficient Web Development Frameworks（1749917163660400）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749917163660400-1h87)
-- [Demystifying the Black Box: An Introduction to Explainable AI &lpar;XAI&rpar;](https://dev.to/vaib/demystifying-the-black-box-an-introduction-to-explainable-ai-xai-266h)
-- [◼️38/100 Block-by-Block: The fastest way to set up a blockchain node &lpar;II&rpar;](https://dev.to/nocibambi/38100-block-by-block-the-fastest-way-to-set-up-a-blockchain-node-ii-fk0)
+- [🏃‍♂️ Runner H &quot;AI Agent Prompting&quot; Challenge](https://dev.to/davinceleecode/runner-h-ai-agent-prompting-challenge-4bfo)
+- [JavaScript Interview Questions](https://dev.to/sundar_joseph_94059a3e7a6/javascript-interview-questions-3of8)
+- [The Heartbeat of Modern Web Applications（1749919579682200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749919579682200-3e0p)
+- [Day 8/180 of Frontend Dev: HTML Images and the Critical Role of Alt Attributes](https://dev.to/code_2/day-8180-of-frontend-dev-html-images-and-the-critical-role-of-alt-attributes-p3b)
+- [🎮 Reimagining Line 98 with Amazon Q CLI, React, and AWS](https://dev.to/linhdangdev/reimagining-line-98-with-amazon-q-cli-react-and-aws-58dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
