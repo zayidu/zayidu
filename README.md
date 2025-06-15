@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Juris: Object-First Web Development: A New Paradigm for Reactive User Interfaces](https://dev.to/resti_guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-opb)
-- [Implementing a Custom Polyfill for Future ECMAScript Features](https://dev.to/omriluz1/implementing-a-custom-polyfill-for-future-ecmascript-features-3079)
-- [Peak Performance Understated Power（1750017599133300）](https://dev.to/member_b06955cb/peak-performance-understated-power1750017599133300-1fj6)
-- [The Heartbeat of Modern Web Applications（1750017597437900）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750017597437900-kap)
-- [My Journey Exploring Efficient Web Development Frameworks（1750017295629700）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750017295629700-3g9h)
+- [The New Generation of High-Performance Web Frameworks（1750020953247500）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750020953247500-1d9f)
+- [The Poetry and Horizon of Code Framework（1750020649111700）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750020649111700-398i)
+- [My Journey with the Hyperlane Framework（1750020634810700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750020634810700-3gk2)
+- [A Duet of Performance and Safety（1750020344355200）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750020344355200-1o7e)
+- [The Critical Importance of Security in the Digital Age（1750020329538800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750020329538800-4k0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
