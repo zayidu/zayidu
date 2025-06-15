@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rusty Forge](https://dev.to/konni332/rusty-forge-k9a)
-- [My Journey with the Hyperlane Framework（1750025236572300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750025236572300-338g)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750025201178000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750025201178000-3136)
-- [The Data Lakehouse and Medallion Architecture: Unifying Data for BI and ML](https://dev.to/vaib/the-data-lakehouse-and-medallion-architecture-unifying-data-for-bi-and-ml-5014)
-- [My Journey Exploring Efficient Web Development Frameworks（1750024931941900）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750024931941900-27nn)
+- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
+- [How I created the fastest JavaScript Physics Engine.](https://dev.to/gabrielxyz/how-i-created-the-fastest-javascript-physics-engine-1375)
+- [The Poetry and Horizon of Code Framework（1750026451302400）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750026451302400-4i8i)
+- [The Heartbeat of Modern Web Applications（1750026416784000）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750026416784000-4ch5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
