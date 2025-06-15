@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Set Up Your Usual tmux Pane Layout](https://dev.to/teihenn/easily-set-up-your-usual-tmux-pane-layout-2m5g)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749989803812900）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749989803812900-5b1g)
-- [Efficient self-attention mechanism](https://dev.to/lewis_won/efficient-self-attention-mechanism-1p64)
-- [My Journey Exploring Efficient Web Development Frameworks（1749989500771700）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749989500771700-5b73)
-- [Leetcode 1432. Max Difference You Can Get From Changing an Integer](https://dev.to/rohithv07/leetcode-1432-max-difference-you-can-get-from-changing-an-integer-25g7)
+- [Weekly Challenge: Counting the discounts](https://dev.to/simongreennet/weekly-challenge-counting-the-discounts-313f)
+- [The Heartbeat of Modern Web Applications（1749992939248200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749992939248200-641)
+- [My Architectural Choices and Practical Experience（1749992842337800）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749992842337800-3lem)
+- [🌀 What is React Portal &lpar;And Why You Should Use It&rpar;](https://dev.to/afaq_shahid/what-is-react-portal-and-why-you-should-use-it-2acc)
+- [➗ Day 10 of Java Mastery: Arithmetic Operators in Java](https://dev.to/spyde/day-10-of-java-mastery-arithmetic-operators-in-java-o14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
