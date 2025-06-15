@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We “Hacked” an AI Service During the Global Hackathon &lpar;and Then Used the Same Trick on Others&rpar;](https://dev.to/theangmarcore/how-we-hacked-an-ai-service-during-the-global-hackathon-and-then-used-the-same-trick-on-others-gfp)
-- [Criando um article do App4](https://dev.to/xandongurgel/criando-um-article-do-app4-5bci)
-- [Unlocking Hyperautomation: The Transformative Power of RPA and Generative AI](https://dev.to/vaib/unlocking-hyperautomation-the-transformative-power-of-rpa-and-generative-ai-43dm)
-- [LangGraph + Gemini = Perplexity, But Smarter? &lpar;Free &amp; OpenSource&rpar;](https://dev.to/gaodalie_ai/langgraph-gemini-perplexity-but-smarter-free-opensource-24lh)
-- [Criando um article do App3](https://dev.to/xandongurgel/criando-um-article-do-app3-1je4)
+- [HTML X CSS](https://dev.to/saksham_ital/html-x-css-519k)
+- [From Confusion to Clarity: My AI Agent for Intern Prep in Big Tech](https://dev.to/sarthak_rana/from-confusion-to-clarity-my-ai-agent-for-intern-prep-in-big-tech-mep)
+- [What is Site Reliability Engineering? A Beginner’s Guide](https://dev.to/sanjay_vagle_195d9b30aefb/what-is-site-reliability-engineering-a-beginners-guide-41c0)
+- [How Do You Approach Building Scalable PHP Applications?](https://dev.to/thecodeliner/how-do-you-approach-building-scalable-php-applications-13lj)
+- [AI Prompt Beginner vs Pro](https://dev.to/larrydanny/ai-prompt-beginner-vs-pro-1o5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
