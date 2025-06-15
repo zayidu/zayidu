@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1749949075321800）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749949075321800-2ml9)
-- [A Duet of Performance and Safety（1749948770973900）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1749948770973900-48mi)
-- [My Architectural Choices and Practical Experience（1749948576216500）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749948576216500-50km)
-- [how to make a decision when have no enough experience](https://dev.to/woodyxin/how-to-make-a-decision-when-have-no-enough-experience-4md1)
-- [My Journey Exploring Efficient Web Development Frameworks（1749948272195000）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749948272195000-566e)
+- [鸿蒙运动开发实战：打造专属运动视频播放器](https://dev.to/smartbackme/hong-meng-yun-dong-kai-fa-shi-zhan-da-zao-zhuan-shu-yun-dong-shi-pin-bo-fang-qi-18ob)
+- [AI Internship Application Assistant &lpar;Built with Runner H&rpar;](https://dev.to/illona/ai-internship-application-assistant-built-with-runner-h-4b14)
+- [From Redundancy to Reusability: A Better Way to Manage Shared Records in Relational Databases](https://dev.to/galisetty_priyatham_c1a49/from-redundancy-to-reusability-a-better-way-to-manage-shared-records-in-relational-databases-2h4h)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749955657880800）](https://dev.to/sdhjfhdshjgfhdsgfhj/junior-year-self-study-notes-my-journey-with-the-framework1749955657880800-4i6m)
+- [My Architectural Choices and Practical Experience（1749955640429400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749955640429400-4kcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
