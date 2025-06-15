@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Counting the discounts](https://dev.to/simongreennet/weekly-challenge-counting-the-discounts-313f)
-- [The Heartbeat of Modern Web Applications（1749992939248200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749992939248200-641)
-- [My Architectural Choices and Practical Experience（1749992842337800）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749992842337800-3lem)
-- [🌀 What is React Portal &lpar;And Why You Should Use It&rpar;](https://dev.to/afaq_shahid/what-is-react-portal-and-why-you-should-use-it-2acc)
-- [➗ Day 10 of Java Mastery: Arithmetic Operators in Java](https://dev.to/spyde/day-10-of-java-mastery-arithmetic-operators-in-java-o14)
+- [Peak Performance Understated Power（1749995972805900）](https://dev.to/member_b06955cb/peak-performance-understated-power1749995972805900-1nde)
+- [The New Generation of High-Performance Web Frameworks（1749995968677000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749995968677000-1l76)
+- [🚀 From Student to Engineer: My Journey into Applied AI, Voice Assistants, and Beyond](https://dev.to/mohamed-riham/from-student-to-engineer-my-journey-into-applied-ai-voice-assistants-and-beyond-5djj)
+- [UI Design vs. Graphic Design: What’s the Difference?](https://dev.to/tintujoseph/ui-design-vs-graphic-design-whats-the-difference-2igb)
+- [Deploy a Linux VM on Azure with a Custom Startup Script using Terraform](https://dev.to/smallsun2025/deploy-a-linux-vm-on-azure-with-a-custom-startup-script-using-terraform-565e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
