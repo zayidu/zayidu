@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from Mentoring: How Teaching Others Made Me a Better Developer](https://dev.to/karol_modelski/lessons-from-mentoring-how-teaching-others-made-me-a-better-developer-349b)
-- [My First Dev.to Post 😁 | DSA, Projects &amp; Starting My Dev Journey](https://dev.to/prashant9700/my-first-devto-post-dsa-projects-starting-my-dev-journey-1dgp)
-- [Highly Effective 7 Habits for Developers](https://dev.to/sadekul_me/highly-effective-7-habits-for-developers-j3b)
-- [The Poetry and Horizon of Code Framework（1749969930267300）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749969930267300-555n)
-- [My Architectural Choices and Practical Experience（1749969626162800）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749969626162800-3730)
+- [Day 2 of Learning CSS](https://dev.to/vikasdotdev/day-2-of-learning-css-k08)
+- [My Journey with the Hyperlane Framework（1749974814678400）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749974814678400-2pb4)
+- [💻 Understanding Arrays in C++ Classes: A Student Score Program](https://dev.to/sana_khan_c4716d273e04120/understanding-arrays-in-c-classes-a-student-score-program-573l)
+- [The AI Revolution 2025: Breakthroughs, Ethics, and Future Visions](https://dev.to/deepika0614/the-ai-revolution-2025-breakthroughs-ethics-and-future-visions-4kdk)
+- [How to Design Customer Journeys as Workflows, and Let AI Handle the Rest](https://dev.to/svalync/how-to-design-customer-journeys-as-workflows-and-let-ai-handle-the-rest-1ce1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
