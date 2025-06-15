@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Web Frameworks（1750020953247500）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750020953247500-1d9f)
-- [The Poetry and Horizon of Code Framework（1750020649111700）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750020649111700-398i)
-- [My Journey with the Hyperlane Framework（1750020634810700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750020634810700-3gk2)
-- [A Duet of Performance and Safety（1750020344355200）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750020344355200-1o7e)
-- [The Critical Importance of Security in the Digital Age（1750020329538800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750020329538800-4k0k)
+- [Rusty Forge](https://dev.to/konni332/rusty-forge-k9a)
+- [My Journey with the Hyperlane Framework（1750025236572300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750025236572300-338g)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750025201178000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750025201178000-3136)
+- [The Data Lakehouse and Medallion Architecture: Unifying Data for BI and ML](https://dev.to/vaib/the-data-lakehouse-and-medallion-architecture-unifying-data-for-bi-and-ml-5014)
+- [My Journey Exploring Efficient Web Development Frameworks（1750024931941900）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750024931941900-27nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
