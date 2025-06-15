@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Google vs ChatGPT: Why I Stopped Googling Everything in 2025](https://dev.to/calmdigitalguy/-google-vs-chatgpt-why-i-stopped-googling-everything-in-2025-1l3e)
-- [The best testing strategy](https://dev.to/stebunovd/the-best-testing-strategy-10ci)
-- [The New Generation of High-Performance Web Frameworks（1750003597049000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750003597049000-4cb2)
-- [The New Generation of High-Performance Web Frameworks（1750003590414500）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750003590414500-3i4f)
-- [How to Combine Phoenix LiveView with GraphQL for Real-Time, Reactive Interfaces](https://dev.to/hexshift/how-to-combine-phoenix-liveview-with-graphql-for-real-time-reactive-interfaces-56cg)
+- [Get Instant WordPress Login Alerts in Telegram &lpar;with Login Telegram Notifier&rpar;](https://dev.to/iphil/get-instant-wordpress-login-alerts-in-telegram-with-login-telegram-notifier-4nm1)
+- [My Experience with Hyperlane（1750006347008900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750006347008900-3oni)
+- [The Critical Importance of Security in the Digital Age（1750006343643200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750006343643200-5425)
+- [Shallow Copy &amp; Deep Copy in Python &lpar;4&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-4-2h0a)
+- [The Art and Zen of Claude Code: Why Simplicity Always Wins](https://dev.to/ctrlshiftbryan/the-art-and-zen-of-claude-code-why-simplicity-always-wins-38ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
