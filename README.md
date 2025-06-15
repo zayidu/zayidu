@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Web Frameworks（1749978457913800）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749978457913800-19e4)
-- [&quot;I Built a Free [Format] Converter Tool - Here&#39;s Wh](https://dev.to/slot74246sleepy/i-built-a-free-format-converter-tool-heres-wh-nle)
-- [Linux 1](https://dev.to/ranjithsrt1/linux-1-pd2)
-- [Top 10 Most Asked JavaScript Interview Questions in 2025 &lpar;With Simple Answers + Code Examples&rpar;](https://dev.to/sid6398/top-10-most-asked-javascript-interview-questions-in-2025-with-simple-answers-code-examples-ddf)
-- [5 Surprising Developer Facts You Might Not Know](https://dev.to/otienorabin/5-surprising-developer-facts-you-might-not-know-23pn)
+- [A Duet of Performance and Safety（1749982096409700）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1749982096409700-22c1)
+- [Memahami logika Pearl](https://dev.to/dev_nazwashabrina/memahami-logika-pearl-26o7)
+- [Building a Google Docs Package in Go: From API Setup to Document Management](https://dev.to/mufthi_ryanda_84ea0d65262/building-a-google-docs-package-in-go-from-api-setup-to-document-management-2oka)
+- [Peak Performance Understated Power（1749981793985900）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749981793985900-1k98)
+- [How to create an interactive solar system using P5.js.](https://dev.to/hr21don/how-to-create-an-interactive-solar-system-using-p5js-4oi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
