@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙运动开发实战：打造专属运动视频播放器](https://dev.to/smartbackme/hong-meng-yun-dong-kai-fa-shi-zhan-da-zao-zhuan-shu-yun-dong-shi-pin-bo-fang-qi-18ob)
-- [AI Internship Application Assistant &lpar;Built with Runner H&rpar;](https://dev.to/illona/ai-internship-application-assistant-built-with-runner-h-4b14)
-- [From Redundancy to Reusability: A Better Way to Manage Shared Records in Relational Databases](https://dev.to/galisetty_priyatham_c1a49/from-redundancy-to-reusability-a-better-way-to-manage-shared-records-in-relational-databases-2h4h)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749955657880800）](https://dev.to/sdhjfhdshjgfhdsgfhj/junior-year-self-study-notes-my-journey-with-the-framework1749955657880800-4i6m)
-- [My Architectural Choices and Practical Experience（1749955640429400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749955640429400-4kcb)
+- [How We “Hacked” an AI Service During the Global Hackathon &lpar;and Then Used the Same Trick on Others&rpar;](https://dev.to/theangmarcore/how-we-hacked-an-ai-service-during-the-global-hackathon-and-then-used-the-same-trick-on-others-gfp)
+- [Criando um article do App4](https://dev.to/xandongurgel/criando-um-article-do-app4-5bci)
+- [Unlocking Hyperautomation: The Transformative Power of RPA and Generative AI](https://dev.to/vaib/unlocking-hyperautomation-the-transformative-power-of-rpa-and-generative-ai-43dm)
+- [LangGraph + Gemini = Perplexity, But Smarter? &lpar;Free &amp; OpenSource&rpar;](https://dev.to/gaodalie_ai/langgraph-gemini-perplexity-but-smarter-free-opensource-24lh)
+- [Criando um article do App3](https://dev.to/xandongurgel/criando-um-article-do-app3-1je4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
