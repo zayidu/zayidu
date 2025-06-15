@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of Learning CSS](https://dev.to/vikasdotdev/day-2-of-learning-css-k08)
-- [My Journey with the Hyperlane Framework（1749974814678400）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749974814678400-2pb4)
-- [💻 Understanding Arrays in C++ Classes: A Student Score Program](https://dev.to/sana_khan_c4716d273e04120/understanding-arrays-in-c-classes-a-student-score-program-573l)
-- [The AI Revolution 2025: Breakthroughs, Ethics, and Future Visions](https://dev.to/deepika0614/the-ai-revolution-2025-breakthroughs-ethics-and-future-visions-4kdk)
-- [How to Design Customer Journeys as Workflows, and Let AI Handle the Rest](https://dev.to/svalync/how-to-design-customer-journeys-as-workflows-and-let-ai-handle-the-rest-1ce1)
+- [The New Generation of High-Performance Web Frameworks（1749978457913800）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749978457913800-19e4)
+- [&quot;I Built a Free [Format] Converter Tool - Here&#39;s Wh](https://dev.to/slot74246sleepy/i-built-a-free-format-converter-tool-heres-wh-nle)
+- [Linux 1](https://dev.to/ranjithsrt1/linux-1-pd2)
+- [Top 10 Most Asked JavaScript Interview Questions in 2025 &lpar;With Simple Answers + Code Examples&rpar;](https://dev.to/sid6398/top-10-most-asked-javascript-interview-questions-in-2025-with-simple-answers-code-examples-ddf)
+- [5 Surprising Developer Facts You Might Not Know](https://dev.to/otienorabin/5-surprising-developer-facts-you-might-not-know-23pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
