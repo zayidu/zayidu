@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 Explore JavaScript Like Never Before](https://dev.to/ml318097/explore-javascript-like-never-before-4l47)
-- [Achieve Labubu freedom with AI](https://dev.to/yang_ella_f2a3e16ccb54550/achieve-labubu-freedom-with-ai-5og)
-- [Why your ECS tasks aren’t scaling](https://dev.to/aws-builders/why-your-ecs-tasks-arent-scaling-5c04)
-- [Why your site needs a sitemap?](https://dev.to/ritaly/why-your-site-needs-a-sitemap-23if)
-- [Peak Performance Understated Power（1749998728272800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749998728272800-15k6)
+- [# Google vs ChatGPT: Why I Stopped Googling Everything in 2025](https://dev.to/calmdigitalguy/-google-vs-chatgpt-why-i-stopped-googling-everything-in-2025-1l3e)
+- [The best testing strategy](https://dev.to/stebunovd/the-best-testing-strategy-10ci)
+- [The New Generation of High-Performance Web Frameworks（1750003597049000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750003597049000-4cb2)
+- [The New Generation of High-Performance Web Frameworks（1750003590414500）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750003590414500-3i4f)
+- [How to Combine Phoenix LiveView with GraphQL for Real-Time, Reactive Interfaces](https://dev.to/hexshift/how-to-combine-phoenix-liveview-with-graphql-for-real-time-reactive-interfaces-56cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
