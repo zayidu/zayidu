@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750010914269300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750010914269300-563i)
-- [My Experience with Hyperlane（1750010911488000）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750010911488000-4d96)
-- [Building the Name Match Memory Game: My Experience with Amazon Q CLI](https://dev.to/wardaliaqat01/building-the-name-match-memory-game-my-experience-with-amazon-q-cli-1982)
-- [Mitel Technologies Webinar: Exploring Servers, Xpert, and More!](https://dev.to/rutokevin/mitel-technologies-webinar-exploring-servers-xpert-and-more-1l9p)
-- [Customizing ERP Modules Using Python/Ruby](https://dev.to/jessica_wuttig_474838a626/customizing-erp-modules-using-pythonruby-4c0c)
+- [My Journey with the Hyperlane Framework（1750013954427000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750013954427000-8in)
+- [Fine-Tuning Whisper for Japanese-to-Chinese Speech Translation — A Lightweight Approach](https://dev.to/feng_jian_f8d0a9834be/fine-tuning-whisper-for-japanese-to-chinese-speech-translation-a-lightweight-approach-32if)
+- [The Critical Importance of Security in the Digital Age（1750013347362800）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750013347362800-51ai)
+- [Bulletproof Your APIs with Contract Testing](https://dev.to/levii07/bulletproof-your-apis-with-contract-testing-gaa)
+- [A Simple ECS + ECR Project for Beginners](https://dev.to/aws-builders/a-simple-ecs-ecr-project-for-beginners-4gc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
