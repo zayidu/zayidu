@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Instant WordPress Login Alerts in Telegram &lpar;with Login Telegram Notifier&rpar;](https://dev.to/iphil/get-instant-wordpress-login-alerts-in-telegram-with-login-telegram-notifier-4nm1)
-- [My Experience with Hyperlane（1750006347008900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750006347008900-3oni)
-- [The Critical Importance of Security in the Digital Age（1750006343643200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750006343643200-5425)
-- [Shallow Copy &amp; Deep Copy in Python &lpar;4&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-4-2h0a)
-- [The Art and Zen of Claude Code: Why Simplicity Always Wins](https://dev.to/ctrlshiftbryan/the-art-and-zen-of-claude-code-why-simplicity-always-wins-38ki)
+- [My Journey with the Hyperlane Framework（1750010914269300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750010914269300-563i)
+- [My Experience with Hyperlane（1750010911488000）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750010911488000-4d96)
+- [Building the Name Match Memory Game: My Experience with Amazon Q CLI](https://dev.to/wardaliaqat01/building-the-name-match-memory-game-my-experience-with-amazon-q-cli-1982)
+- [Mitel Technologies Webinar: Exploring Servers, Xpert, and More!](https://dev.to/rutokevin/mitel-technologies-webinar-exploring-servers-xpert-and-more-1l9p)
+- [Customizing ERP Modules Using Python/Ruby](https://dev.to/jessica_wuttig_474838a626/customizing-erp-modules-using-pythonruby-4c0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
