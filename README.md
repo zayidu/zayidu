@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750013954427000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750013954427000-8in)
-- [Fine-Tuning Whisper for Japanese-to-Chinese Speech Translation — A Lightweight Approach](https://dev.to/feng_jian_f8d0a9834be/fine-tuning-whisper-for-japanese-to-chinese-speech-translation-a-lightweight-approach-32if)
-- [The Critical Importance of Security in the Digital Age（1750013347362800）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750013347362800-51ai)
-- [Bulletproof Your APIs with Contract Testing](https://dev.to/levii07/bulletproof-your-apis-with-contract-testing-gaa)
-- [A Simple ECS + ECR Project for Beginners](https://dev.to/aws-builders/a-simple-ecs-ecr-project-for-beginners-4gc0)
+- [Juris: Object-First Web Development: A New Paradigm for Reactive User Interfaces](https://dev.to/resti_guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-opb)
+- [Implementing a Custom Polyfill for Future ECMAScript Features](https://dev.to/omriluz1/implementing-a-custom-polyfill-for-future-ecmascript-features-3079)
+- [Peak Performance Understated Power（1750017599133300）](https://dev.to/member_b06955cb/peak-performance-understated-power1750017599133300-1fj6)
+- [The Heartbeat of Modern Web Applications（1750017597437900）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750017597437900-kap)
+- [My Journey Exploring Efficient Web Development Frameworks（1750017295629700）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750017295629700-3g9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
