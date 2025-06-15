@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Duet of Performance and Safety（1749982096409700）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1749982096409700-22c1)
-- [Memahami logika Pearl](https://dev.to/dev_nazwashabrina/memahami-logika-pearl-26o7)
-- [Building a Google Docs Package in Go: From API Setup to Document Management](https://dev.to/mufthi_ryanda_84ea0d65262/building-a-google-docs-package-in-go-from-api-setup-to-document-management-2oka)
-- [Peak Performance Understated Power（1749981793985900）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749981793985900-1k98)
-- [How to create an interactive solar system using P5.js.](https://dev.to/hr21don/how-to-create-an-interactive-solar-system-using-p5js-4oi4)
+- [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749983968855800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749983968855800-46co)
+- [The New Generation of High-Performance Web Frameworks（1749983918181000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749983918181000-2dhl)
+- [My Journey with the Hyperlane Framework（1749983614138900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749983614138900-568i)
+- [GSoC Week 2 — Languages, UX &amp; 40 Failing Tests](https://dev.to/jatsuakayashvant/gsoc-week-2-languages-ux-40-failing-tests-5b72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
