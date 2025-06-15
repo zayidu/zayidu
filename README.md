@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1749995972805900）](https://dev.to/member_b06955cb/peak-performance-understated-power1749995972805900-1nde)
-- [The New Generation of High-Performance Web Frameworks（1749995968677000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749995968677000-1l76)
-- [🚀 From Student to Engineer: My Journey into Applied AI, Voice Assistants, and Beyond](https://dev.to/mohamed-riham/from-student-to-engineer-my-journey-into-applied-ai-voice-assistants-and-beyond-5djj)
-- [UI Design vs. Graphic Design: What’s the Difference?](https://dev.to/tintujoseph/ui-design-vs-graphic-design-whats-the-difference-2igb)
-- [Deploy a Linux VM on Azure with a Custom Startup Script using Terraform](https://dev.to/smallsun2025/deploy-a-linux-vm-on-azure-with-a-custom-startup-script-using-terraform-565e)
+- [📚 Explore JavaScript Like Never Before](https://dev.to/ml318097/explore-javascript-like-never-before-4l47)
+- [Achieve Labubu freedom with AI](https://dev.to/yang_ella_f2a3e16ccb54550/achieve-labubu-freedom-with-ai-5og)
+- [Why your ECS tasks aren’t scaling](https://dev.to/aws-builders/why-your-ecs-tasks-arent-scaling-5c04)
+- [Why your site needs a sitemap?](https://dev.to/ritaly/why-your-site-needs-a-sitemap-23if)
+- [Peak Performance Understated Power（1749998728272800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749998728272800-15k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
