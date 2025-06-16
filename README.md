@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning and connecting with Like minded individuals](https://dev.to/wittyke/learning-and-connecting-with-like-minded-individuals-592k)
-- [Designing the Conveyor CI Scheduling Mechanism](https://dev.to/jimjunior/designing-the-conveyor-ci-scheduling-mechanism-4f6j)
-- [Arithmetic Operations in Python – A Beginner-Friendly Guide](https://dev.to/shrey1910/arithmetic-operations-in-python-a-beginner-friendly-guide-2ejh)
-- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
-- [How to Install V-JEPA 2 by Meta: Enable Real-World Interaction in Robots &amp; AI Agents](https://dev.to/nodeshiftcloud/how-to-install-v-jepa-2-by-meta-enable-real-world-interaction-in-robots-ai-agents-2g84)
+- [How I Created and Published My Resume on GitHub Pages: Step-by-Step Guide for Beginners](https://dev.to/peter_samuel_052b9056e236/how-i-created-and-published-my-resume-on-github-pages-step-by-step-guide-for-beginners-2d8d)
+- [Small Business Customer Service &amp; Review Management Agent](https://dev.to/ai_agi/small-business-customer-service-review-management-agent-c59)
+- [You don’t need 10 years of experience to be a great developer.](https://dev.to/tahir_rafique/you-dont-need-10-years-of-experience-to-be-a-great-developer-357)
+- [Je viens de tomber sur cette super sélection d’outils open source pour développeurs. J’en connaissais quelques-uns, mais certains méritent vraiment d’être essayés ! ✅ À lire si vous cherchez à booster votre stack :](https://dev.to/diaahariri/je-viens-de-tomber-sur-cette-super-selection-doutils-open-source-pour-developpeurs-jen-4n5)
+- [Beyond the Black Box: Mastering Serverless Debugging and Observability](https://dev.to/vaib/beyond-the-black-box-mastering-serverless-debugging-and-observability-4o06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
