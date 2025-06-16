@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to learn tech after college step-by-step.](https://dev.to/mahakti/how-to-learn-tech-after-college-step-by-step-4lm2)
-- [HPE ProLiant DL380 Gen11: Powering the Future of Enterprise Computing](https://dev.to/roshan_karki_f2b61b26c3a8/hpe-proliant-dl380-gen11-powering-the-future-of-enterprise-computing-2fm1)
-- [My Journey Exploring Efficient Web Development Frameworks（1750057614497300）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750057614497300-32ki)
-- [My Architectural Choices and Practical Experience（1750057613172800）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750057613172800-4c05)
-- [How to Build Agentic RAG for any PDF in 10 minutes](https://dev.to/skeptrune/how-to-build-agentic-rag-for-any-pdf-in-10-minutes-1n5m)
+- [A Duet of Performance and Safety（1750061590075500）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750061590075500-o32)
+- [The Poetry and Horizon of Code Framework（1750061584578800）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750061584578800-54hi)
+- [Would You Prefer a Dark Mode or a Light Mode User Interface in the Year 2025?](https://dev.to/dellzo_limited_707d0a005e/would-you-prefer-a-dark-mode-or-a-light-mode-user-interface-in-the-year-2025-23dp)
+- [📺 Getting Started with Firebase Studio](https://dev.to/zenika/getting-started-with-firebase-studio-4150)
+- [Comprehensive Guide to Publishing Pure HarmonyOS Applications &lpar;2025 Edition&rpar;](https://dev.to/moyantianwang/comprehensive-guide-to-publishing-pure-harmonyos-applications-2025-edition-dln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
