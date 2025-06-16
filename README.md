@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1750064940729100）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750064940729100-41gd)
-- [The Poetry and Horizon of Code Framework（1750064930038900）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750064930038900-3a96)
-- [Why Everyone’s Talking About SafeLine — The Most Powerful Free WAF from Asia](https://dev.to/carrie_luo1/why-everyones-talking-about-safeline-the-most-powerful-free-waf-from-asia-51ne)
-- [Getting Started with LangChain: Build Smarter AI Apps with LLMs](https://dev.to/brains_behind_bots/getting-started-with-langchain-build-smarter-ai-apps-with-llms-53go)
-- [The Heartbeat of Modern Web Applications（1750064330497700）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750064330497700-4fga)
+- [Explore the hands-on guide to LangChain — the framework that lets you build real-world AI apps with memory, agents, tools &amp; RAG. Whether you&#39;re a beginner or builder, this is your roadmap. Dive in! #GenAI #LangChain #LLMs](https://dev.to/brains_behind_bots/explore-the-hands-on-guide-to-langchain-the-framework-that-lets-you-build-real-world-ai-apps-with-10ab)
+- [A Duet of Performance and Safety（1750068592857200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750068592857200-p3l)
+- [Building a game using Amazon Q CLI](https://dev.to/myl3s/building-a-game-using-amazon-q-cli-2h7a)
+- [Comprehensive Guide to Developing Native HarmonyOS Themes &lpar;2025 Edition&rpar;](https://dev.to/moyantianwang/comprehensive-guide-to-developing-native-harmonyos-themes-2025-edition-3c93)
+- [Did you know what DevOps Security &lpar;DS&rpar; is ??](https://dev.to/aakash_thetechenthusias/did-you-know-what-devops-security-ds-is--103g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
