@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
-- [How I created the fastest JavaScript Physics Engine.](https://dev.to/gabrielxyz/how-i-created-the-fastest-javascript-physics-engine-1375)
-- [The Poetry and Horizon of Code Framework（1750026451302400）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750026451302400-4i8i)
-- [The Heartbeat of Modern Web Applications（1750026416784000）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750026416784000-4ch5)
+- [My Experience with Hyperlane（1750036157725000）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750036157725000-1l8m)
+- [The Heartbeat of Modern Web Applications（1750036139050200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750036139050200-1m3k)
+- [Yazılım Güvenliğinde Yeni Trendler](https://dev.to/yunus_emremert_1756b71d3/yazilim-guvenliginde-yeni-trendler-4nd1)
+- [JSON Escape vs String Escape: Clear Differences Every Developer Should Know](https://dev.to/eaglepeak/json-escape-vs-string-escape-clear-differences-every-developer-should-know-i74)
+- [My Journey with the Hyperlane Framework（1750035853497000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750035853497000-5fk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
