@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore the hands-on guide to LangChain — the framework that lets you build real-world AI apps with memory, agents, tools &amp; RAG. Whether you&#39;re a beginner or builder, this is your roadmap. Dive in! #GenAI #LangChain #LLMs](https://dev.to/brains_behind_bots/explore-the-hands-on-guide-to-langchain-the-framework-that-lets-you-build-real-world-ai-apps-with-10ab)
-- [A Duet of Performance and Safety（1750068592857200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750068592857200-p3l)
-- [Building a game using Amazon Q CLI](https://dev.to/myl3s/building-a-game-using-amazon-q-cli-2h7a)
-- [Comprehensive Guide to Developing Native HarmonyOS Themes &lpar;2025 Edition&rpar;](https://dev.to/moyantianwang/comprehensive-guide-to-developing-native-harmonyos-themes-2025-edition-3c93)
-- [Did you know what DevOps Security &lpar;DS&rpar; is ??](https://dev.to/aakash_thetechenthusias/did-you-know-what-devops-security-ds-is--103g)
+- [My Architectural Choices and Practical Experience（1750071040093400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750071040093400-50nk)
+- [We&#39;ve Been Compiling Web Apps Wrong for a Decade](https://dev.to/professional_joe/weve-been-compiling-web-apps-wrong-for-a-decade-43aj)
+- [My Experience with Hyperlane（1750071023394900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750071023394900-1kbp)
+- [Python: Your Gateway to Versatile Programming](https://dev.to/sia_negi21/python-your-gateway-to-versatile-programming-3glf)
+- [The Web Revolution Happening Right Under Our Noses](https://dev.to/professional_joe/the-web-revolution-happening-right-under-our-noses-9b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
