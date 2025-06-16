@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A powerful AI Content Assistant for eBay and Aukro in a single HTML file. FREE](https://dev.to/covenant666/a-powerful-ai-content-assistant-for-ebay-and-aukro-in-a-single-html-file-free-354)
-- [I Built Git in JavaScript… and You Can Too! &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/alishirani/i-built-git-in-javascript-and-you-can-too-step-by-step-tutorial-28k5)
-- [From Events to APIs: Building a REST Layer on Event Sourcing](https://dev.to/alex_aslam/from-events-to-apis-building-a-rest-layer-on-event-sourcing-gko)
-- [Instantly Get WordPress Fatal Error Alerts in Telegram &lpar;with Fatal to Telegram&rpar;](https://dev.to/iphil/instantly-get-wordpress-fatal-error-alerts-in-telegram-with-fatal-to-telegram-fpe)
-- [From Notebook to Model: A Practical Guide to Jupyter for Machine Learning](https://dev.to/thelogicwarlock/from-notebook-to-model-a-practical-guide-to-jupyter-for-machine-learning-3dm5)
+- [Story Hero - Day 16 Update](https://dev.to/danielreiling/story-hero-day-16-update-f5l)
+- [Vue コンポーネント間 データ受渡し: 子 -&gt; 親](https://dev.to/nabbisen/vue-konponentojian-detashou-du-si-zi-qin-4p9a)
+- [Comunicação Rápida e Tipada com gRPC no .NET](https://dev.to/daniloopinheiro/comunicacao-rapida-e-tipada-com-grpc-no-net-2b65)
+- [Mobile performance testing for banking and payment apps](https://dev.to/vivian_astor_2ed76e342250/mobile-performance-testing-for-banking-and-payment-apps-d54)
+- [DDD com .NET: Separando Responsabilidades com Bounded Contexts](https://dev.to/daniloopinheiro/ddd-com-net-separando-responsabilidades-com-bounded-contexts-22ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
