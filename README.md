@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comunicação com ActiveMQ Usando .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-com-activemq-e-net-5dbj)
-- [Cracking the Code: What DSA Actually Taught Me Beyond Interviews](https://dev.to/milan_mishra_554c5e235edb/cracking-the-code-what-dsa-actually-taught-me-beyond-interviews-3kmh)
-- [Discussions with Devs about Secrets in Code be Like...](https://dev.to/thankssecurity/discussions-with-devs-about-secrets-in-code-be-like-4p0n)
-- [LeetCode: Problem 2016](https://dev.to/pascal_vorwerk/leetcode-problem-2016-kl5)
-- [Rethinking State Management in React — From a Dev, for Developers.](https://dev.to/karandeepsingh7070/rethinking-state-management-in-react-from-a-dev-for-developers-51bf)
+- [A powerful AI Content Assistant for eBay and Aukro in a single HTML file. FREE](https://dev.to/covenant666/a-powerful-ai-content-assistant-for-ebay-and-aukro-in-a-single-html-file-free-354)
+- [I Built Git in JavaScript… and You Can Too! &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/alishirani/i-built-git-in-javascript-and-you-can-too-step-by-step-tutorial-28k5)
+- [From Events to APIs: Building a REST Layer on Event Sourcing](https://dev.to/alex_aslam/from-events-to-apis-building-a-rest-layer-on-event-sourcing-gko)
+- [Instantly Get WordPress Fatal Error Alerts in Telegram &lpar;with Fatal to Telegram&rpar;](https://dev.to/iphil/instantly-get-wordpress-fatal-error-alerts-in-telegram-with-fatal-to-telegram-fpe)
+- [From Notebook to Model: A Practical Guide to Jupyter for Machine Learning](https://dev.to/thelogicwarlock/from-notebook-to-model-a-practical-guide-to-jupyter-for-machine-learning-3dm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
