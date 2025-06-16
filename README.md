@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1750079863883000）](https://dev.to/member_b06955cb/peak-performance-understated-power1750079863883000-4f9h)
-- [Squiggles](https://dev.to/tokopedia_care_6c7791d3d4/squiggles-19n)
-- [Enforcing Kubernetes Probes with a Custom Admission Webhook](https://dev.to/ashiqursuperfly/enforcing-kubernetes-probes-with-a-custom-admission-webhook-16o8)
-- [A go-to backend template for express](https://dev.to/rahil1202/a-go-to-backend-template-for-express-ci6)
-- [The Legal Landscape Is Evolving: How CLM and Generative AI Are Reshaping Legal Operations in 2025](https://dev.to/andrew_ethan_5e351ab1aeab/the-legal-landscape-is-evolving-how-clm-and-generative-ai-are-reshaping-legal-operations-in-2025-3926)
+- [What are your goals for the week? #131](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-131-3gbo)
+- [TanStack Form vs. React Hook Form](https://dev.to/logrocket/tanstack-form-vs-react-hook-form-6fb)
+- [Vue コンポーネント データ受渡し: 親 -&gt; 子](https://dev.to/nabbisen/vue-konponento-detashou-du-si-qin-zi-43oe)
+- [Off-Chain Influence: What Crypto Billionaires’ Spending Reveals About the Industry](https://dev.to/alexnav/off-chain-influence-what-crypto-billionaires-spending-reveals-about-the-industry-14i5)
+- [HTML Day6](https://dev.to/harish_sarangan_c0341e397/html-day6-310b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
