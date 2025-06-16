@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI&#39;s Ethical Imperative: Building Robust Data Governance Frameworks](https://dev.to/vaib/genais-ethical-imperative-building-robust-data-governance-frameworks-c99)
-- [Getting Started with Kubernetes](https://dev.to/shashankpalakurthi/getting-started-with-kubernetes-2nbe)
-- [🚀 Challenge Me!](https://dev.to/boluwatifeilerioluwa/challenge-me-1n08)
-- [CI Server for embedded systems based on Raspberry Pi](https://dev.to/thealbertdev/ci-server-for-embedded-systems-based-on-raspberry-pi-1jkk)
-- [Query caching using Nest.js and Typeorm](https://dev.to/debussyman/query-caching-using-nestjs-and-typeorm-4hfk)
+- [My posts](https://dev.to/zuri/my-posts-5ddj)
+- [trino istio](https://dev.to/etolbakov/trino-istio-4i1a)
+- [“Procuro Cofundador Técnico para App Emocional com Impacto Social &lpar;equity 15–25%&rpar;”](https://dev.to/eco_humano-human_echo/procuro-cofundador-tecnico-para-app-emocional-com-impacto-social-equity-15-25-2g48)
+- [What Tools Integrate Gen AI With Web Applications?](https://dev.to/shriyansh_iot_98734929139/what-tools-integrate-gen-ai-with-web-applications-108a)
+- [[Boost]](https://dev.to/mahdichaari01/-5b9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
