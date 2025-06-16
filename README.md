@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Animate Like a Pro: Creating a Reusable MotionDiv Using Motion](https://dev.to/sushilmagare10/animate-like-a-pro-creating-a-reusable-motiondiv-using-motion-1h7i)
-- [Enhancing Performance in Next.js Applications](https://dev.to/reckelton/enhancing-performance-in-nextjs-applications-51a6)
-- [How to Deploy a Node.js App to Vercel](https://dev.to/ilyasgaraad/how-to-deploy-a-nodejs-app-to-vercel-3ke9)
-- [Kubuntu might be the revive potion you are looking for your old laptop 🐦‍🔥](https://dev.to/elpidaguy/kubuntu-might-be-the-revive-potion-you-are-looking-for-your-old-laptop-8fk)
-- [`insecureHash` function in langchainjs source code.](https://dev.to/ramunarasinga-11/insecurehash-function-in-langchainjs-source-code-34e6)
+- [Learning and connecting with Like minded individuals](https://dev.to/wittyke/learning-and-connecting-with-like-minded-individuals-592k)
+- [Designing the Conveyor CI Scheduling Mechanism](https://dev.to/jimjunior/designing-the-conveyor-ci-scheduling-mechanism-4f6j)
+- [Arithmetic Operations in Python – A Beginner-Friendly Guide](https://dev.to/shrey1910/arithmetic-operations-in-python-a-beginner-friendly-guide-2ejh)
+- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
+- [How to Install V-JEPA 2 by Meta: Enable Real-World Interaction in Robots &amp; AI Agents](https://dev.to/nodeshiftcloud/how-to-install-v-jepa-2-by-meta-enable-real-world-interaction-in-robots-ai-agents-2g84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
