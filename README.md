@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 13 - 🚀 Laravel Category CRUD Với Form Request | Xây Dựng Chức Năng Quản Lý Danh Mục](https://dev.to/skipperhoa/13-laravel-category-crud-voi-form-request-xay-dung-chuc-nang-quan-ly-danh-muc-4ghd)
-- [My Experience with Hyperlane（1750054244921000）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750054244921000-2g3k)
-- [The Critical Importance of Security in the Digital Age（1750054239785100）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750054239785100-i19)
-- [[Boost]](https://dev.to/dehemi_fabio/-4gmi)
-- [Designing Technology for Public Safety: Lessons from Building Emergency Response Systems](https://dev.to/cyril_ajayi_67c25fb8beea1/designing-technology-for-public-safety-lessons-from-building-emergency-response-systems-nj8)
+- [How to learn tech after college step-by-step.](https://dev.to/mahakti/how-to-learn-tech-after-college-step-by-step-4lm2)
+- [HPE ProLiant DL380 Gen11: Powering the Future of Enterprise Computing](https://dev.to/roshan_karki_f2b61b26c3a8/hpe-proliant-dl380-gen11-powering-the-future-of-enterprise-computing-2fm1)
+- [My Journey Exploring Efficient Web Development Frameworks（1750057614497300）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750057614497300-32ki)
+- [My Architectural Choices and Practical Experience（1750057613172800）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750057613172800-4c05)
+- [How to Build Agentic RAG for any PDF in 10 minutes](https://dev.to/skeptrune/how-to-build-agentic-rag-for-any-pdf-in-10-minutes-1n5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
