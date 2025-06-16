@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750036157725000）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750036157725000-1l8m)
-- [The Heartbeat of Modern Web Applications（1750036139050200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750036139050200-1m3k)
-- [Yazılım Güvenliğinde Yeni Trendler](https://dev.to/yunus_emremert_1756b71d3/yazilim-guvenliginde-yeni-trendler-4nd1)
-- [JSON Escape vs String Escape: Clear Differences Every Developer Should Know](https://dev.to/eaglepeak/json-escape-vs-string-escape-clear-differences-every-developer-should-know-i74)
-- [My Journey with the Hyperlane Framework（1750035853497000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750035853497000-5fk1)
+- [My Journey Exploring Efficient Web Development Frameworks（1750043290526400）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750043290526400-29a6)
+- [A Duet of Performance and Safety（1750043290393500）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750043290393500-22d9)
+- [🔥 Front-End Technologies You Need to Know in 2025 to Stay Relevant in the Job Market](https://dev.to/er-raj-aryan/front-end-technologies-you-need-to-know-in-2025-to-stay-relevant-in-the-job-market-48bj)
+- [LM317 Voltage Regulator: Pinout, Equivalent, Circuits](https://dev.to/zheng2a2e5f5b/lm317-voltage-regulator-pinout-equivalent-circuits-286a)
+- [A Duet of Performance and Safety（1750042985329500）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750042985329500-o00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
