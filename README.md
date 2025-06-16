@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab Pipeline Annoyances](https://dev.to/feliciawalker/gitlab-pipeline-annoyances-11e4)
-- [My Experience with Hyperlane（1750050590846900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750050590846900-4f0j)
-- [The Poetry and Horizon of Code Framework（1750050586073700）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1750050586073700-36mh)
-- [Why Your MVP Is Taking Forever &lpar;And What to Do About It&rpar;](https://dev.to/thenewanglehq/why-your-mvp-is-taking-forever-and-what-to-do-about-it-ebi)
-- [Why Every Startup Needs a Virtual CTO &lpar;And How It Saves You Money&rpar;](https://dev.to/thenewanglehq/why-every-startup-needs-a-virtual-cto-and-how-it-saves-you-money-40i3)
+- [🔥 13 - 🚀 Laravel Category CRUD Với Form Request | Xây Dựng Chức Năng Quản Lý Danh Mục](https://dev.to/skipperhoa/13-laravel-category-crud-voi-form-request-xay-dung-chuc-nang-quan-ly-danh-muc-4ghd)
+- [My Experience with Hyperlane（1750054244921000）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750054244921000-2g3k)
+- [The Critical Importance of Security in the Digital Age（1750054239785100）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750054239785100-i19)
+- [[Boost]](https://dev.to/dehemi_fabio/-4gmi)
+- [Designing Technology for Public Safety: Lessons from Building Emergency Response Systems](https://dev.to/cyril_ajayi_67c25fb8beea1/designing-technology-for-public-safety-lessons-from-building-emergency-response-systems-nj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
