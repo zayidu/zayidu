@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750047250764600）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750047250764600-1gii)
-- [My Architectural Choices and Practical Experience（1750047247081100）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750047247081100-3mg4)
-- [MVC vs DDD: Go Language Architecture Deep Dive](https://dev.to/leapcell/mvc-vs-ddd-go-language-architecture-deep-dive-466f)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750046947943200）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750046947943200-415l)
-- [My Experience with Hyperlane（1750046944027600）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750046944027600-5ebj)
+- [GitLab Pipeline Annoyances](https://dev.to/feliciawalker/gitlab-pipeline-annoyances-11e4)
+- [My Experience with Hyperlane（1750050590846900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750050590846900-4f0j)
+- [The Poetry and Horizon of Code Framework（1750050586073700）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1750050586073700-36mh)
+- [Why Your MVP Is Taking Forever &lpar;And What to Do About It&rpar;](https://dev.to/thenewanglehq/why-your-mvp-is-taking-forever-and-what-to-do-about-it-ebi)
+- [Why Every Startup Needs a Virtual CTO &lpar;And How It Saves You Money&rpar;](https://dev.to/thenewanglehq/why-every-startup-needs-a-virtual-cto-and-how-it-saves-you-money-40i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
