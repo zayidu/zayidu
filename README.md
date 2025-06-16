@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Created and Published My Resume on GitHub Pages: Step-by-Step Guide for Beginners](https://dev.to/peter_samuel_052b9056e236/how-i-created-and-published-my-resume-on-github-pages-step-by-step-guide-for-beginners-2d8d)
-- [Small Business Customer Service &amp; Review Management Agent](https://dev.to/ai_agi/small-business-customer-service-review-management-agent-c59)
-- [You don’t need 10 years of experience to be a great developer.](https://dev.to/tahir_rafique/you-dont-need-10-years-of-experience-to-be-a-great-developer-357)
-- [Je viens de tomber sur cette super sélection d’outils open source pour développeurs. J’en connaissais quelques-uns, mais certains méritent vraiment d’être essayés ! ✅ À lire si vous cherchez à booster votre stack :](https://dev.to/diaahariri/je-viens-de-tomber-sur-cette-super-selection-doutils-open-source-pour-developpeurs-jen-4n5)
-- [Beyond the Black Box: Mastering Serverless Debugging and Observability](https://dev.to/vaib/beyond-the-black-box-mastering-serverless-debugging-and-observability-4o06)
+- [Comunicação com ActiveMQ Usando .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-com-activemq-e-net-5dbj)
+- [Cracking the Code: What DSA Actually Taught Me Beyond Interviews](https://dev.to/milan_mishra_554c5e235edb/cracking-the-code-what-dsa-actually-taught-me-beyond-interviews-3kmh)
+- [Discussions with Devs about Secrets in Code be Like...](https://dev.to/thankssecurity/discussions-with-devs-about-secrets-in-code-be-like-4p0n)
+- [LeetCode: Problem 2016](https://dev.to/pascal_vorwerk/leetcode-problem-2016-kl5)
+- [Rethinking State Management in React — From a Dev, for Developers.](https://dev.to/karandeepsingh7070/rethinking-state-management-in-react-from-a-dev-for-developers-51bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
