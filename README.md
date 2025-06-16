@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1750071040093400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750071040093400-50nk)
-- [We&#39;ve Been Compiling Web Apps Wrong for a Decade](https://dev.to/professional_joe/weve-been-compiling-web-apps-wrong-for-a-decade-43aj)
-- [My Experience with Hyperlane（1750071023394900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750071023394900-1kbp)
-- [Python: Your Gateway to Versatile Programming](https://dev.to/sia_negi21/python-your-gateway-to-versatile-programming-3glf)
-- [The Web Revolution Happening Right Under Our Noses](https://dev.to/professional_joe/the-web-revolution-happening-right-under-our-noses-9b5)
+- [What Are the Pros of Vibe Coding?](https://dev.to/jhk_info/what-are-the-pros-of-vibe-coding-4igf)
+- [Universal AI Job Hunter](https://dev.to/meet_gohel_9f2ee9a5349695/universal-ai-job-hunter-3k4o)
+- [Resident Evil Requiem Will Be Playable in Both First and Third-Person at Launch, Capcom Confirms](https://dev.to/gg_news/resident-evil-requiem-will-be-playable-in-both-first-and-third-person-at-launch-capcom-confirms-36kl)
+- [Summer Game Fest Viewership Jumps 89% to Record 50 Million Livestreams](https://dev.to/gg_news/summer-game-fest-viewership-jumps-89-to-record-50-million-livestreams-5b8e)
+- [&quot;Competition Pushes Us to Innovate&quot; Sony CEO says on Xbox&#39;s Potential Exit from Console Business](https://dev.to/gg_news/competition-pushes-us-to-innovate-sony-ceo-says-on-xboxs-potential-exit-from-console-business-1m47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
