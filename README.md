@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Exploring Efficient Web Development Frameworks（1750043290526400）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750043290526400-29a6)
-- [A Duet of Performance and Safety（1750043290393500）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750043290393500-22d9)
-- [🔥 Front-End Technologies You Need to Know in 2025 to Stay Relevant in the Job Market](https://dev.to/er-raj-aryan/front-end-technologies-you-need-to-know-in-2025-to-stay-relevant-in-the-job-market-48bj)
-- [LM317 Voltage Regulator: Pinout, Equivalent, Circuits](https://dev.to/zheng2a2e5f5b/lm317-voltage-regulator-pinout-equivalent-circuits-286a)
-- [A Duet of Performance and Safety（1750042985329500）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750042985329500-o00)
+- [My Experience with Hyperlane（1750047250764600）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750047250764600-1gii)
+- [My Architectural Choices and Practical Experience（1750047247081100）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750047247081100-3mg4)
+- [MVC vs DDD: Go Language Architecture Deep Dive](https://dev.to/leapcell/mvc-vs-ddd-go-language-architecture-deep-dive-466f)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750046947943200）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750046947943200-415l)
+- [My Experience with Hyperlane（1750046944027600）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750046944027600-5ebj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
