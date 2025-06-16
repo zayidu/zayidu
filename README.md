@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #131](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-131-3gbo)
-- [TanStack Form vs. React Hook Form](https://dev.to/logrocket/tanstack-form-vs-react-hook-form-6fb)
-- [Vue コンポーネント データ受渡し: 親 -&gt; 子](https://dev.to/nabbisen/vue-konponento-detashou-du-si-qin-zi-43oe)
-- [Off-Chain Influence: What Crypto Billionaires’ Spending Reveals About the Industry](https://dev.to/alexnav/off-chain-influence-what-crypto-billionaires-spending-reveals-about-the-industry-14i5)
-- [HTML Day6](https://dev.to/harish_sarangan_c0341e397/html-day6-310b)
+- [“I built and sold my first developer portfolio template with Tailwind — here’s what I learned”](https://dev.to/justcallmealek/i-built-and-sold-my-first-developer-portfolio-template-with-tailwind-heres-what-i-learned-4n6i)
+- [Ashkan Rajaee’s reflection on leadership during crisis is the kind of content I’ll come back to again.](https://dev.to/techtalk/ashkan-rajaees-reflection-on-leadership-during-crisis-is-the-kind-of-content-ill-come-back-to-461p)
+- [AWS EC2 + Nginx: Your First Web Server on Ubuntu](https://dev.to/_eve_/aws-ec2-nginx-your-first-web-server-on-ubuntu-j4n)
+- [ScholarRank Profile: 6885c502ed9efdca](https://dev.to/puddin1066/scholarrank-profile-6885c502ed9efdca-2g32)
+- [Wolfram&#39;s Automatas Explorer](https://dev.to/carban/wolframs-1d-cellular-automatas-bi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
