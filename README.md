@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ananya330/-25g4)
-- [Better Tips for Maintaining Good Health](https://dev.to/khalil_khan_9ea7e99741461/better-tips-for-maintaining-good-health-4ij6)
-- [Too Lazy to Click: How I Scraped a 400-Page Forum Thread with Python](https://dev.to/hexcreator/too-lazy-to-click-how-i-scraped-a-400-page-forum-thread-with-python-1ol5)
-- [[Boost]](https://dev.to/nikhil_sachapara/-2ae5)
-- [The Illusion of Thinking: Why Apple’s Findings Hold True for AI Code Reviews](https://dev.to/pantoai/the-illusion-of-thinking-why-apples-findings-hold-true-for-ai-code-reviews-5a3c)
+- [Changeish: Automate your changelog with AI](https://dev.to/itlackey/changeish-automate-your-changelog-with-ai-45kj)
+- [Why Your PHP App is Slowing Down and How Monitoring can Help?](https://dev.to/olivia_madison_b0ad7090ad/why-your-php-app-is-slowing-down-and-how-monitoring-can-help-2io3)
+- [Why AI Interview Assistants Are the Future of Job Hunting](https://dev.to/zy_li_d74fa193c2b190918be/why-ai-interview-assistants-are-the-future-of-job-hunting-1aof)
+- [MongoDB Tutorial: From Basics to Advanced Techniques](https://dev.to/suraj_kumar_fb57ae0928df2/mongodb-tutorial-from-basics-to-advanced-techniques-37pd)
+- [&quot;Understanding AWS Pricing Models – Simplified for Developers&quot;](https://dev.to/2021_cse_gayathrir_e733/understanding-aws-pricing-models-simplified-for-developers-138m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
