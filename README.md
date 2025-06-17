@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Instalando KVM para emulador Android no Deepin 15.8](https://dev.to/jeanmfdias/instalando-kvm-para-emulador-android-no-deepin-158-1aa7)
-- [Instalar Java 9 no Deepin](https://dev.to/jeanmfdias/instalar-java-9-no-deepin-4e85)
-- [Setup K8s with kubeadm](https://dev.to/cheulong/setup-k8s-with-kubeadm-2ndn)
-- [📝 React Forms Without the Pain](https://dev.to/ml318097/react-forms-without-the-pain-174b)
-- [Unlocking the Power of Modern PHP Development: Why Businesses Are Still Betting on PHP in 2025](https://dev.to/aayu_tech/unlocking-the-power-of-modern-php-development-why-businesses-are-still-betting-on-php-in-2025-1406)
+- [Capítulo 4: Configuração de Aplicações Quarkus](https://dev.to/erf88/capitulo-4-configuracao-de-aplicacoes-quarkus-3e6f)
+- [QuCode - 21DaysChallenge - Day 17](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-17-375b)
+- [From Side Hustles to Freelancing Full-Time: A Real Look at the Transition](https://dev.to/dayologic/from-side-hustles-to-freelancing-full-time-a-real-look-at-the-transition-1ppj)
+- [Are you letting the AI do the threat modeling?](https://dev.to/sydseter/are-you-letting-the-ai-do-the-threat-modeling-18o0)
+- [Managing Multiple GitHub/Git Accounts on One Machine &lpar;Personal + Work&rpar;](https://dev.to/surajkumar00/managing-multiple-githubgit-accounts-on-one-machine-personal-work-2n89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
