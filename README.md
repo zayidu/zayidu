@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Capítulo 4: Configuração de Aplicações Quarkus](https://dev.to/erf88/capitulo-4-configuracao-de-aplicacoes-quarkus-3e6f)
-- [QuCode - 21DaysChallenge - Day 17](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-17-375b)
-- [From Side Hustles to Freelancing Full-Time: A Real Look at the Transition](https://dev.to/dayologic/from-side-hustles-to-freelancing-full-time-a-real-look-at-the-transition-1ppj)
-- [Are you letting the AI do the threat modeling?](https://dev.to/sydseter/are-you-letting-the-ai-do-the-threat-modeling-18o0)
-- [Managing Multiple GitHub/Git Accounts on One Machine &lpar;Personal + Work&rpar;](https://dev.to/surajkumar00/managing-multiple-githubgit-accounts-on-one-machine-personal-work-2n89)
+- [The Leaderboard Illusion: Is Your Model Smart or Just Well-Studied?](https://dev.to/mhamadelitawi/the-leaderboard-illusion-is-your-model-smart-or-just-well-studied-1o9o)
+- [This hit at the right time for me. Bookmarking for when I need a mental reset.](https://dev.to/matteotech/this-hit-at-the-right-time-for-me-bookmarking-for-when-i-need-a-mental-reset-53d4)
+- [Passing Argument By Object Reference](https://dev.to/datatoinfinity/passing-argument-by-object-reference-15g2)
+- [Vue で SPA - ルーティング](https://dev.to/nabbisen/vue-de-spa-ruteingu-35e0)
+- [Making it Snappy: How NextBlock Intelligently Loads Scripts for Optimal Performance](https://dev.to/nextblockcms/making-it-snappy-how-nextblock-intelligently-loads-scripts-for-optimal-performance-14kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
