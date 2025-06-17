@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating AWS Infrastructure Provisioning with GitSync and CloudFormation](https://dev.to/aws-builders/automating-aws-infrastructure-provisioning-with-gitsync-and-cloudformation-3334)
-- [Building for SaaS Growth: Architecting Systems for 10 to 500 Customers](https://dev.to/deepakgupta/building-for-saas-growth-architecting-systems-for-10-to-500-customers-2h4p)
-- [Types of Cache Used in System Design and Architecture](https://dev.to/devscriptor/types-of-cache-used-in-system-design-and-architecture-4kha)
-- [💌 Build Your Own AI Email Manager with n8n, OpenAI &amp; Slack](https://dev.to/swayam_nakshane_aef87e228/build-your-own-ai-email-manager-with-n8n-openai-slack-9h4)
-- [Build Your Own Uptime Monitor in Python](https://dev.to/0x7b-shop/build-your-own-uptime-monitor-in-python-1b52)
+- [PostgreSQL 16 Installation with Ansible &lpar;and Custom Configs&rpar;](https://dev.to/lovestaco/postgresql-16-installation-with-ansible-and-custom-configs-1jle)
+- [Exploring the Relationship Between JavaScript and Functional Languages](https://dev.to/omriluz1/exploring-the-relationship-between-javascript-and-functional-languages-59kp)
+- [DiscoverAI - Intelligent Content Curation Platform](https://dev.to/ai_agi/discoverai-intelligent-content-curation-platform-3969)
+- [Player Announcer Tool](https://dev.to/pranavmunigala/player-announcer-tool-2nc)
+- [Event Sourcing vs. CRUD: When 1000 Database Writes Don’t Matter](https://dev.to/alex_aslam/event-sourcing-vs-crud-when-1000-database-writes-dont-matter-5bpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
