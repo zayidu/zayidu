@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 16 Installation with Ansible &lpar;and Custom Configs&rpar;](https://dev.to/lovestaco/postgresql-16-installation-with-ansible-and-custom-configs-1jle)
-- [Exploring the Relationship Between JavaScript and Functional Languages](https://dev.to/omriluz1/exploring-the-relationship-between-javascript-and-functional-languages-59kp)
-- [DiscoverAI - Intelligent Content Curation Platform](https://dev.to/ai_agi/discoverai-intelligent-content-curation-platform-3969)
-- [Player Announcer Tool](https://dev.to/pranavmunigala/player-announcer-tool-2nc)
-- [Event Sourcing vs. CRUD: When 1000 Database Writes Don’t Matter](https://dev.to/alex_aslam/event-sourcing-vs-crud-when-1000-database-writes-dont-matter-5bpj)
+- [Vue の状態管理](https://dev.to/nabbisen/vue-nozhuang-tai-guan-li-10la)
+- [Building an iOS App with Rust Using UniFFI](https://dev.to/almaju/building-an-ios-app-with-rust-using-uniffi-200a)
+- [Seven-Number Psychology Vector Beats Baseline Claude 12-1](https://dev.to/jonk/seven-number-psychology-vector-beats-baseline-claude-12-1-1gen)
+- [An inexpensive smart thermostat device using...ATtiny85](https://dev.to/adriano-repetti/an-inexpensive-smart-thermostat-device-usingattiny85-l8p)
+- [What is git? and what is .yml file](https://dev.to/kuhanraja_ar_1df623b8e2e/what-is-git-and-what-is-yml-file-3h7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
