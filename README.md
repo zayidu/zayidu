@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Locator – Handling Complex UI Elements with Ease](https://dev.to/quangto/playwright-locator-handling-complex-ui-elements-with-ease-2pj6)
-- [🚀 How I Successfully Passed the AWS Certified AI Practitioner &lpar;AIF-CO1&rpar;](https://dev.to/roay_line_6feb20f06ec2787/how-i-successfully-passed-the-aws-certified-ai-practitioner-aif-co1-26ge)
-- [10+ Best Next.js eCommerce Templates for 2025](https://dev.to/vinishbhaskar/10-best-nextjs-ecommerce-templates-for-2025-3cek)
-- [Day 9: Supercharge FastAPI with Async Programming](https://dev.to/awslearnerdaily/day-9-supercharge-fastapi-with-async-programming-3op4)
-- [What I Learned Today in React: useState, Spread Operator &amp; Map Function...](https://dev.to/a_ramesh/what-i-learned-today-in-react-usestate-spread-operator-map-function-2jm6)
+- [[Boost]](https://dev.to/ananya330/-25g4)
+- [Better Tips for Maintaining Good Health](https://dev.to/khalil_khan_9ea7e99741461/better-tips-for-maintaining-good-health-4ij6)
+- [Too Lazy to Click: How I Scraped a 400-Page Forum Thread with Python](https://dev.to/hexcreator/too-lazy-to-click-how-i-scraped-a-400-page-forum-thread-with-python-1ol5)
+- [[Boost]](https://dev.to/nikhil_sachapara/-2ae5)
+- [The Illusion of Thinking: Why Apple’s Findings Hold True for AI Code Reviews](https://dev.to/pantoai/the-illusion-of-thinking-why-apples-findings-hold-true-for-ai-code-reviews-5a3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
