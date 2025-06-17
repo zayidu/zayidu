@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m sure a lot of you can relate to this](https://dev.to/k41r0n/im-sure-a-lot-of-you-can-relate-to-this-49nb)
-- [Deploy a Secure EC2 Web Server with Terraform, Multi-AZ, and Remote State on AWS](https://dev.to/tejtandel/deploy-a-secure-ec2-web-server-with-terraform-multi-az-and-remote-state-on-aws-401g)
-- [Security in Voice AI: Safeguarding Cloned Voice Data and APIs with AWS Best Practices](https://dev.to/semperfitodd/security-in-voice-ai-safeguarding-cloned-voice-data-and-apis-with-aws-best-practices-3i7d)
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2f66)
-- [How the Upcoming Cloudflare Enforcement Order Change Impacts DEV and SEO](https://dev.to/bigbangsocial/how-the-upcoming-cloudflare-enforcement-order-change-impacts-dev-and-seo-mj3)
+- [From Design to Code: Our Journey Building ITConnect](https://dev.to/erzana_muharremi/from-design-to-code-our-journey-building-itconnect-5co6)
+- [From Figma to Development: The Challenge of Choosing the Right Technical Direction](https://dev.to/erzana_muharremi/from-figma-to-development-the-challenge-of-choosing-the-right-technical-direction-3kha)
+- [How I Discovered I Love Tech as a 26-Year-Old Sous Chef](https://dev.to/pcchef/how-i-got-into-tech-as-a-26-year-old-sous-chef-pa6)
+- [Designing ITConnect — Our Process in Figma](https://dev.to/erzana_muharremi/designing-itconnect-our-process-in-figma-2e91)
+- [ITConnect — A Platform That Connects Talent with Tech Companies](https://dev.to/erzana_muharremi/itconnect-a-platform-that-connects-talent-with-tech-companies-250c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
