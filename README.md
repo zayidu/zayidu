@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
-- [Building a Scalable Ride-Hailing App: Architecture Lessons from Real-World Implementation](https://dev.to/karim__sk/building-a-scalable-ride-hailing-app-architecture-lessons-from-real-world-implementation-4lbe)
-- [Microsoft 365 E5 &lpar;No Teams&rpar;: The Ultimate Enterprise Suite Without Collaboration Overhead](https://dev.to/aadarsh_/microsoft-365-e5-no-teams-the-ultimate-enterprise-suite-without-collaboration-overhead-50c5)
-- [Cost of Custom Web Application Development Services: What to Expect in 2025](https://dev.to/applogiq_it_services/cost-of-custom-web-application-development-services-what-to-expect-in-2025-1hh3)
-- [Copy and paste cool css mesh gradients // Built for Devs](https://dev.to/mike_andreuzza/copy-and-paste-cool-css-mesh-gradients-built-for-devs-4gk9)
+- [Instalando KVM para emulador Android no Deepin 15.8](https://dev.to/jeanmfdias/instalando-kvm-para-emulador-android-no-deepin-158-1aa7)
+- [Instalar Java 9 no Deepin](https://dev.to/jeanmfdias/instalar-java-9-no-deepin-4e85)
+- [Setup K8s with kubeadm](https://dev.to/cheulong/setup-k8s-with-kubeadm-2ndn)
+- [📝 React Forms Without the Pain](https://dev.to/ml318097/react-forms-without-the-pain-174b)
+- [Unlocking the Power of Modern PHP Development: Why Businesses Are Still Betting on PHP in 2025](https://dev.to/aayu_tech/unlocking-the-power-of-modern-php-development-why-businesses-are-still-betting-on-php-in-2025-1406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
