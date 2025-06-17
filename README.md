@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Changeish: Automate your changelog with AI](https://dev.to/itlackey/changeish-automate-your-changelog-with-ai-45kj)
-- [Why Your PHP App is Slowing Down and How Monitoring can Help?](https://dev.to/olivia_madison_b0ad7090ad/why-your-php-app-is-slowing-down-and-how-monitoring-can-help-2io3)
-- [Why AI Interview Assistants Are the Future of Job Hunting](https://dev.to/zy_li_d74fa193c2b190918be/why-ai-interview-assistants-are-the-future-of-job-hunting-1aof)
-- [MongoDB Tutorial: From Basics to Advanced Techniques](https://dev.to/suraj_kumar_fb57ae0928df2/mongodb-tutorial-from-basics-to-advanced-techniques-37pd)
-- [&quot;Understanding AWS Pricing Models – Simplified for Developers&quot;](https://dev.to/2021_cse_gayathrir_e733/understanding-aws-pricing-models-simplified-for-developers-138m)
+- [Setting up a Python project with CMake](https://dev.to/pikotutorial/setting-up-a-python-project-with-cmake-11ef)
+- [A CTO’s Guide to Open-Source Software: Answering the Top 10 FAQs](https://dev.to/chen_debra_3060b21d12b1b0/a-ctos-guide-to-open-source-software-answering-the-top-10-faqs-1kef)
+- [No-Code Visual Testing with AI: The Future of UI Validation is Here](https://dev.to/vaibhavkuls/no-code-visual-testing-with-ai-the-future-of-ui-validation-is-here-4i0b)
+- [Building a High-Performance UI with Tailwind CSS and Rust-powered WebAssembly](https://dev.to/hexshift/building-a-high-performance-ui-with-tailwind-css-and-rust-powered-webassembly-1c3m)
+- [The Myth of No-Code: Limitations and Real-World Applications](https://dev.to/dct_technology/the-myth-of-no-code-limitations-and-real-world-applications-40li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
