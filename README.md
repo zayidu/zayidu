@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Learning: Multi-device Adaptation for Phones, iPads, PCs, and Foldables](https://dev.to/xhunmon/harmonyos-learning-multi-device-adaptation-for-phones-ipads-pcs-and-foldables-3dfg)
-- [🥷 I Built a Procedural Ninja Stealth Game in Python – &quot;Openstate&quot; &lpar;with Amazon Q CLI&rpar;](https://dev.to/kshitij_gawankar_4ac27c99/i-built-a-procedural-ninja-stealth-game-in-python-openstate-with-amazon-q-cli-ffc)
-- [How to use a2a-python to Create and Connect Github Agent with Google&#39;s Agent-to-Agent &lpar;A2A&rpar; Protocol](https://dev.to/czmilo/how-to-use-a2a-python-to-create-and-connect-github-agent-with-googles-agent-to-agent-a2a-protocol-1623)
-- [Father of Robotics](https://dev.to/ashikur_rahmannazil93/father-of-robotics-4fl9)
-- [12 Accessibility Problems That Automated Tools Fail to Detect](https://dev.to/leeannamarshall225/12-accessibility-problems-that-automated-tools-fail-to-detect-1gof)
+- [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
+- [Building a Scalable Ride-Hailing App: Architecture Lessons from Real-World Implementation](https://dev.to/karim__sk/building-a-scalable-ride-hailing-app-architecture-lessons-from-real-world-implementation-4lbe)
+- [Microsoft 365 E5 &lpar;No Teams&rpar;: The Ultimate Enterprise Suite Without Collaboration Overhead](https://dev.to/aadarsh_/microsoft-365-e5-no-teams-the-ultimate-enterprise-suite-without-collaboration-overhead-50c5)
+- [Cost of Custom Web Application Development Services: What to Expect in 2025](https://dev.to/applogiq_it_services/cost-of-custom-web-application-development-services-what-to-expect-in-2025-1hh3)
+- [Copy and paste cool css mesh gradients // Built for Devs](https://dev.to/mike_andreuzza/copy-and-paste-cool-css-mesh-gradients-built-for-devs-4gk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
