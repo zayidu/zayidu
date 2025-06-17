@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4-Hour Focus Block: Advanced Deep Work Techniques for Senior Developers](https://dev.to/teamcamp/the-4-hour-focus-block-advanced-deep-work-techniques-for-senior-developers-4136)
-- [Why your open banking adoption might fail without strong KYC](https://dev.to/flutterwaveeng/why-your-open-banking-adoption-might-fail-without-strong-kyc-2e5f)
-- [How to Ignore Local Files in Git Without Modifying .gitignore](https://dev.to/petermf/how-to-ignore-local-files-in-git-without-modifying-gitignore-2ipi)
-- [𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝘁𝗼 𝗠𝗟: 𝗧𝗵𝗲 𝗦𝗵𝗶𝗳𝘁 𝗧𝗵𝗮𝘁 𝗡𝗼 𝗢𝗻𝗲 𝗪𝗮𝗿𝗻𝗲𝗱 𝗠𝗲 𝗔𝗯𝗼𝘂𝘁 🤯🧠](https://dev.to/ada-rsh-s/--2bk9)
-- [February’25 Updates: Accessibility Test Scheduling, Latest Features in SmartUI, Insights, and More! | LambdaTest](https://dev.to/lambdatest/february25-updates-accessibility-test-scheduling-latest-features-in-smartui-insights-and-more-4ijh)
+- [HarmonyOS Learning: Multi-device Adaptation for Phones, iPads, PCs, and Foldables](https://dev.to/xhunmon/harmonyos-learning-multi-device-adaptation-for-phones-ipads-pcs-and-foldables-3dfg)
+- [🥷 I Built a Procedural Ninja Stealth Game in Python – &quot;Openstate&quot; &lpar;with Amazon Q CLI&rpar;](https://dev.to/kshitij_gawankar_4ac27c99/i-built-a-procedural-ninja-stealth-game-in-python-openstate-with-amazon-q-cli-ffc)
+- [How to use a2a-python to Create and Connect Github Agent with Google&#39;s Agent-to-Agent &lpar;A2A&rpar; Protocol](https://dev.to/czmilo/how-to-use-a2a-python-to-create-and-connect-github-agent-with-googles-agent-to-agent-a2a-protocol-1623)
+- [Father of Robotics](https://dev.to/ashikur_rahmannazil93/father-of-robotics-4fl9)
+- [12 Accessibility Problems That Automated Tools Fail to Detect](https://dev.to/leeannamarshall225/12-accessibility-problems-that-automated-tools-fail-to-detect-1gof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
