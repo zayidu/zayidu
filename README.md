@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID - Guia Completo](https://dev.to/devarthurbarboza/solid-guia-completo-doe)
-- [New VMware ESXi Vulnerability Chain Enables VM Escape — Now Exploited in the Wild](https://dev.to/sharon_42e16b8da44dabde6d/new-vmware-esxi-vulnerability-chain-enables-vm-escape-now-exploited-in-the-wild-2kam)
-- [Netvue Achieves 52% Netvue Achieves 52% Reduction in GPU Costs using Automation](https://dev.to/cloudpilot-ai/netvue-achieves-52-netvue-achieves-52-reduction-in-gpu-costs-using-automation-9i2)
-- [Just Dropped: I&#39;m Now an Executive Contributor for Brainz Magazine](https://dev.to/ghostking314/just-dropped-im-now-an-executive-contributor-for-brainz-magazine-4ac9)
-- [Mastering Bug Reporting in Manual Testing](https://dev.to/anil_csimplifyit_905c/mastering-bug-reporting-in-manual-testing-40jp)
+- [Playwright Locator – Handling Complex UI Elements with Ease](https://dev.to/quangto/playwright-locator-handling-complex-ui-elements-with-ease-2pj6)
+- [🚀 How I Successfully Passed the AWS Certified AI Practitioner &lpar;AIF-CO1&rpar;](https://dev.to/roay_line_6feb20f06ec2787/how-i-successfully-passed-the-aws-certified-ai-practitioner-aif-co1-26ge)
+- [10+ Best Next.js eCommerce Templates for 2025](https://dev.to/vinishbhaskar/10-best-nextjs-ecommerce-templates-for-2025-3cek)
+- [Day 9: Supercharge FastAPI with Async Programming](https://dev.to/awslearnerdaily/day-9-supercharge-fastapi-with-async-programming-3op4)
+- [What I Learned Today in React: useState, Spread Operator &amp; Map Function...](https://dev.to/a_ramesh/what-i-learned-today-in-react-usestate-spread-operator-map-function-2jm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
