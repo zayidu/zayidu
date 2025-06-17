@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Missed last week&#39;s Project of the Week? Check out MapLibre&#39;s collaboration metrics!](https://dev.to/riyanapatel/missed-last-weeks-project-of-the-week-check-out-maplibres-collaboration-metrics-90)
-- [Building an AI Content Pipeline: From Newsletter Headlines to Viral LinkedIn Posts](https://dev.to/allanninal/stop-creating-linkedin-posts-manually-i-built-an-ai-system-that-turns-headlines-into-viral-content-45e4)
-- [How to Write ChatGPT Prompts: A Complete Guide](https://dev.to/saifa/how-to-write-chatgpt-prompts-a-complete-guide-2amb)
-- [Mastering Kubernetes Security: A Practical Guide to Hardening Your Clusters](https://dev.to/vaib/mastering-kubernetes-security-a-practical-guide-to-hardening-your-clusters-dp2)
-- [Setup SSL/TLS for PostgreSQL with Docker](https://dev.to/wimadev/setup-ssltls-for-postgresql-with-docker-g15)
+- [Jekyll auto posts from YouTube feeds](https://dev.to/solvecomputerscience/jekyll-auto-posts-from-youtube-feeds-h1k)
+- [How I Automated My Content Creation: From 4 Hours of Manual Work to 8 Minutes of AI Magic](https://dev.to/allanninal/how-i-automated-my-content-creation-from-4-hours-of-manual-work-to-8-minutes-of-ai-magic-2o9d)
+- [How to Install and Use reCaptcha by BestWebSoft &lpar;Pro Version&rpar;](https://dev.to/_1242322bc59de17c3faf6/how-to-install-and-use-recaptcha-by-bestwebsoft-pro-version-5blf)
+- [How I built Classic Pac-Man game using AmazonQ CLI](https://dev.to/aws-builders/how-i-built-classic-pac-man-game-using-amazonq-cli-4bfi)
+- [Go Coding with Asparagos: Tomato Discrimination in the Soup Queue](https://dev.to/asparagos/go-coding-with-asparagos-tomato-discrimination-in-the-soup-queue-4i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
