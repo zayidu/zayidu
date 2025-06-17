@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashkan Rajaee saw an opportunity to rebuild when others were shutting down. That vision matters.](https://dev.to/dominiquedvln/ashkan-rajaee-saw-an-opportunity-to-rebuild-when-others-were-shutting-down-that-vision-matters-ipe)
-- [You can tell this was written with care. It speaks to both beginners and people already in the game.](https://dev.to/dominiquedvln/you-can-tell-this-was-written-with-care-it-speaks-to-both-beginners-and-people-already-in-the-game-2eg1)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
-- [Flutter Authentication with Supabase](https://dev.to/djamware_tutorial_eba1a61/flutter-authentication-with-supabase-2mci)
-- [Next.js Forgot to Design APIs. Tirne Didn’t.](https://dev.to/yukinisihikawa/nextjs-forgot-to-design-apis-tirne-didnt-5bll)
+- [Missed last week&#39;s Project of the Week? Check out MapLibre&#39;s collaboration metrics!](https://dev.to/riyanapatel/missed-last-weeks-project-of-the-week-check-out-maplibres-collaboration-metrics-90)
+- [Building an AI Content Pipeline: From Newsletter Headlines to Viral LinkedIn Posts](https://dev.to/allanninal/stop-creating-linkedin-posts-manually-i-built-an-ai-system-that-turns-headlines-into-viral-content-45e4)
+- [How to Write ChatGPT Prompts: A Complete Guide](https://dev.to/saifa/how-to-write-chatgpt-prompts-a-complete-guide-2amb)
+- [Mastering Kubernetes Security: A Practical Guide to Hardening Your Clusters](https://dev.to/vaib/mastering-kubernetes-security-a-practical-guide-to-hardening-your-clusters-dp2)
+- [Setup SSL/TLS for PostgreSQL with Docker](https://dev.to/wimadev/setup-ssltls-for-postgresql-with-docker-g15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
