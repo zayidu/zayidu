@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My posts](https://dev.to/zuri/my-posts-5ddj)
-- [trino istio](https://dev.to/etolbakov/trino-istio-4i1a)
-- [“Procuro Cofundador Técnico para App Emocional com Impacto Social &lpar;equity 15–25%&rpar;”](https://dev.to/eco_humano-human_echo/procuro-cofundador-tecnico-para-app-emocional-com-impacto-social-equity-15-25-2g48)
-- [What Tools Integrate Gen AI With Web Applications?](https://dev.to/shriyansh_iot_98734929139/what-tools-integrate-gen-ai-with-web-applications-108a)
-- [[Boost]](https://dev.to/mahdichaari01/-5b9n)
+- [[Boost]](https://dev.to/lanoia/-3549)
+- [🔢 Count the Number of Arrays with K Matching Adjacent Elements LeetCode 3405 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/count-the-number-of-arrays-with-k-matching-adjacent-elements-leetcode-3405-c-python--1keo)
+- [🚀 Building Lightning-Fast Search with search-plus-ts: A Full-Stack TypeScript Solution](https://dev.to/devgauravjatt/building-lightning-fast-search-with-search-plus-ts-a-full-stack-typescript-solution-39f0)
+- [The new Indicator navigation point component in HarmonyOS API 15.](https://dev.to/waylau521/the-new-indicator-navigation-point-component-in-harmonyos-api-15-14bb)
+- [Democratizing AI: Building a RAG System with Gemma and LangChain](https://dev.to/saol/democratizing-ai-building-a-rag-system-with-gemma-and-langchain-50l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
