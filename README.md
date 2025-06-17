@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Leaderboard Illusion: Is Your Model Smart or Just Well-Studied?](https://dev.to/mhamadelitawi/the-leaderboard-illusion-is-your-model-smart-or-just-well-studied-1o9o)
-- [This hit at the right time for me. Bookmarking for when I need a mental reset.](https://dev.to/matteotech/this-hit-at-the-right-time-for-me-bookmarking-for-when-i-need-a-mental-reset-53d4)
-- [Passing Argument By Object Reference](https://dev.to/datatoinfinity/passing-argument-by-object-reference-15g2)
-- [Vue で SPA - ルーティング](https://dev.to/nabbisen/vue-de-spa-ruteingu-35e0)
-- [Making it Snappy: How NextBlock Intelligently Loads Scripts for Optimal Performance](https://dev.to/nextblockcms/making-it-snappy-how-nextblock-intelligently-loads-scripts-for-optimal-performance-14kl)
+- [Ashkan Rajaee saw an opportunity to rebuild when others were shutting down. That vision matters.](https://dev.to/dominiquedvln/ashkan-rajaee-saw-an-opportunity-to-rebuild-when-others-were-shutting-down-that-vision-matters-ipe)
+- [You can tell this was written with care. It speaks to both beginners and people already in the game.](https://dev.to/dominiquedvln/you-can-tell-this-was-written-with-care-it-speaks-to-both-beginners-and-people-already-in-the-game-2eg1)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
+- [Flutter Authentication with Supabase](https://dev.to/djamware_tutorial_eba1a61/flutter-authentication-with-supabase-2mci)
+- [Next.js Forgot to Design APIs. Tirne Didn’t.](https://dev.to/yukinisihikawa/nextjs-forgot-to-design-apis-tirne-didnt-5bll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
