@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a Python project with CMake](https://dev.to/pikotutorial/setting-up-a-python-project-with-cmake-11ef)
-- [A CTO’s Guide to Open-Source Software: Answering the Top 10 FAQs](https://dev.to/chen_debra_3060b21d12b1b0/a-ctos-guide-to-open-source-software-answering-the-top-10-faqs-1kef)
-- [No-Code Visual Testing with AI: The Future of UI Validation is Here](https://dev.to/vaibhavkuls/no-code-visual-testing-with-ai-the-future-of-ui-validation-is-here-4i0b)
-- [Building a High-Performance UI with Tailwind CSS and Rust-powered WebAssembly](https://dev.to/hexshift/building-a-high-performance-ui-with-tailwind-css-and-rust-powered-webassembly-1c3m)
-- [The Myth of No-Code: Limitations and Real-World Applications](https://dev.to/dct_technology/the-myth-of-no-code-limitations-and-real-world-applications-40li)
+- [Best Oracle Database Design Tools in 2025](https://dev.to/roxana_haidiner/best-oracle-database-design-tools-in-2025-2o26)
+- [Leveraging Generators for Coroutine-based Concurrency in JS](https://dev.to/omriluz1/leveraging-generators-for-coroutine-based-concurrency-in-js-1d7e)
+- [How Indian Startups Are Using AI to Scale Faster in 2025](https://dev.to/poojashukla/how-indian-startups-are-using-ai-to-scale-faster-in-2025-2mfn)
+- [OpenAI Codex as a native agent in your TypeScript &lpar;Node.js&rpar; app](https://dev.to/kachurun/openai-codex-as-a-native-agent-in-your-typescript-nodejs-app-kii)
+- [Codigger Redefining Digital Work with a Distributed Operating System](https://dev.to/codigger/codigger-redefining-digital-work-with-a-distributed-operating-system-22cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
