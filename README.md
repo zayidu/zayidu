@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue の状態管理](https://dev.to/nabbisen/vue-nozhuang-tai-guan-li-10la)
-- [Building an iOS App with Rust Using UniFFI](https://dev.to/almaju/building-an-ios-app-with-rust-using-uniffi-200a)
-- [Seven-Number Psychology Vector Beats Baseline Claude 12-1](https://dev.to/jonk/seven-number-psychology-vector-beats-baseline-claude-12-1-1gen)
-- [An inexpensive smart thermostat device using...ATtiny85](https://dev.to/adriano-repetti/an-inexpensive-smart-thermostat-device-usingattiny85-l8p)
-- [What is git? and what is .yml file](https://dev.to/kuhanraja_ar_1df623b8e2e/what-is-git-and-what-is-yml-file-3h7i)
+- [I&#39;m sure a lot of you can relate to this](https://dev.to/k41r0n/im-sure-a-lot-of-you-can-relate-to-this-49nb)
+- [Deploy a Secure EC2 Web Server with Terraform, Multi-AZ, and Remote State on AWS](https://dev.to/tejtandel/deploy-a-secure-ec2-web-server-with-terraform-multi-az-and-remote-state-on-aws-401g)
+- [Security in Voice AI: Safeguarding Cloned Voice Data and APIs with AWS Best Practices](https://dev.to/semperfitodd/security-in-voice-ai-safeguarding-cloned-voice-data-and-apis-with-aws-best-practices-3i7d)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2f66)
+- [How the Upcoming Cloudflare Enforcement Order Change Impacts DEV and SEO](https://dev.to/bigbangsocial/how-the-upcoming-cloudflare-enforcement-order-change-impacts-dev-and-seo-mj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
