@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Oracle Database Design Tools in 2025](https://dev.to/roxana_haidiner/best-oracle-database-design-tools-in-2025-2o26)
-- [Leveraging Generators for Coroutine-based Concurrency in JS](https://dev.to/omriluz1/leveraging-generators-for-coroutine-based-concurrency-in-js-1d7e)
-- [How Indian Startups Are Using AI to Scale Faster in 2025](https://dev.to/poojashukla/how-indian-startups-are-using-ai-to-scale-faster-in-2025-2mfn)
-- [OpenAI Codex as a native agent in your TypeScript &lpar;Node.js&rpar; app](https://dev.to/kachurun/openai-codex-as-a-native-agent-in-your-typescript-nodejs-app-kii)
-- [Codigger Redefining Digital Work with a Distributed Operating System](https://dev.to/codigger/codigger-redefining-digital-work-with-a-distributed-operating-system-22cj)
+- [The 4-Hour Focus Block: Advanced Deep Work Techniques for Senior Developers](https://dev.to/teamcamp/the-4-hour-focus-block-advanced-deep-work-techniques-for-senior-developers-4136)
+- [Why your open banking adoption might fail without strong KYC](https://dev.to/flutterwaveeng/why-your-open-banking-adoption-might-fail-without-strong-kyc-2e5f)
+- [How to Ignore Local Files in Git Without Modifying .gitignore](https://dev.to/petermf/how-to-ignore-local-files-in-git-without-modifying-gitignore-2ipi)
+- [𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝘁𝗼 𝗠𝗟: 𝗧𝗵𝗲 𝗦𝗵𝗶𝗳𝘁 𝗧𝗵𝗮𝘁 𝗡𝗼 𝗢𝗻𝗲 𝗪𝗮𝗿𝗻𝗲𝗱 𝗠𝗲 𝗔𝗯𝗼𝘂𝘁 🤯🧠](https://dev.to/ada-rsh-s/--2bk9)
+- [February’25 Updates: Accessibility Test Scheduling, Latest Features in SmartUI, Insights, and More! | LambdaTest](https://dev.to/lambdatest/february25-updates-accessibility-test-scheduling-latest-features-in-smartui-insights-and-more-4ijh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
