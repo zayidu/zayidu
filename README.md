@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Job Hunt Automation - From Search to Interview Scheduling](https://dev.to/ariondev/ai-powered-job-hunt-automation-from-search-to-interview-scheduling-47ek)
-- [Introducing NeuroTwin - your AI twin that attends meetings, writes, replies, and thinks like you.](https://dev.to/ak1531/introducing-neurotwin-your-ai-twin-that-attends-meetings-writes-replies-and-thinks-like-you-5ajm)
-- [🚨 Your Site Is Down Right Now &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/alexsofroniev/your-site-is-down-right-now-and-you-dont-even-know-it-3398)
-- [🏗️ DEMOLISH THE GIANT: META — The Metaverse That Never Was](https://dev.to/the_epyq/demolish-the-giant-meta-the-metaverse-that-never-was-5en4)
-- [CSS Container Queries Tutorial for Beginners](https://dev.to/mechcloud_academy/css-container-queries-tutorial-for-beginners-30em)
+- [Tesella, A Grid Generator](https://dev.to/miguelrodriguezp99/tesella-a-grid-generator-34kg)
+- [The Critical Importance of Security in the Digital Age（1750270201347900）](https://dev.to/member_e911e096/the-critical-importance-of-security-in-the-digital-age1750270201347900-3dl5)
+- [Building AI in Healthcare: From Idea to Deployment](https://dev.to/clickit_devops/building-ai-in-healthcare-from-idea-to-deployment-3l25)
+- [Email Pattern Matching with regex- NLP](https://dev.to/datatoinfinity/email-pattern-matching-with-regex-nlp-3jk9)
+- [DeveloperExperience（1750269820789800）](https://dev.to/member_a4f1642a/developerexperience1750269820789800-1ann)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
