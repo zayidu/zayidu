@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who is Mohammad Rifatujjaman?](https://dev.to/mohammad_rifatujjaman/who-is-mohammad-rifatujjaman-468a)
-- [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
-- [FastAPI: Your First Production-Ready API](https://dev.to/drxven/fastapi-your-first-production-ready-api-o6b)
-- [The Heartbeat of Modern Web Applications（1750272187612500）](https://dev.to/member_e911e096/the-heartbeat-of-modern-web-applications1750272187612500-33c5)
-- [Why Solving Small Problems Matters in Software Development](https://dev.to/mohammad_rifatujjaman/why-solving-small-problems-matters-in-software-development-4kbh)
+- [AG-UI: Bringing Any Agent to the Frontend](https://dev.to/copilotkit/ag-ui-bringing-any-agent-to-the-frontend-146l)
+- [Understanding Error Budget in Software Reliability Engineering](https://dev.to/kapusto/understanding-error-budget-in-software-reliability-engineering-54hk)
+- [Generative AI: The Double-Edged Sword in Cloud-Native Security](https://dev.to/vaib/generative-ai-the-double-edged-sword-in-cloud-native-security-4g38)
+- [The Real-World Test Automation Pyramid Explained](https://dev.to/iryna_k_d5aabe217736fefe7/the-real-world-test-automation-pyramid-explained-24im)
+- [NestJS Passport Strategies](https://dev.to/wakeup_flower_8591a6cb6a9/nestjs-passport-strategies-344d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
