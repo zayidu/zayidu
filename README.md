@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AG-UI: Bringing Any Agent to the Frontend](https://dev.to/copilotkit/ag-ui-bringing-any-agent-to-the-frontend-146l)
-- [Understanding Error Budget in Software Reliability Engineering](https://dev.to/kapusto/understanding-error-budget-in-software-reliability-engineering-54hk)
-- [Generative AI: The Double-Edged Sword in Cloud-Native Security](https://dev.to/vaib/generative-ai-the-double-edged-sword-in-cloud-native-security-4g38)
-- [The Real-World Test Automation Pyramid Explained](https://dev.to/iryna_k_d5aabe217736fefe7/the-real-world-test-automation-pyramid-explained-24im)
-- [NestJS Passport Strategies](https://dev.to/wakeup_flower_8591a6cb6a9/nestjs-passport-strategies-344d)
+- [Web Developer](https://dev.to/saifullah478/web-developer-1n0f)
+- [WWDC 2025 - What’s new in Apple Pay](https://dev.to/arshtechpro/wwdc-2025-whats-new-in-apple-pay-5e8m)
+- [How We Predicted Drug Quantities in Healthcare Using Machine Learning — And Why It Matters](https://dev.to/fishi/how-we-predicted-drug-quantities-in-healthcare-using-machine-learning-and-why-it-matters-3dbi)
+- [6 Reasons CLI Coding Agents Are the Future of Software Development](https://dev.to/pankaj_singh_1022ee93e755/6-reasons-cli-coding-agents-are-the-future-of-software-development-38n1)
+- [Vue の TypeScript 親和性](https://dev.to/nabbisen/vue-no-typescript-qin-he-xing-o5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
