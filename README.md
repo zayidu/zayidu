@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15: Getting Started with Node.js: My First Day Journey](https://dev.to/seenuvasan_p/day-15-getting-started-with-nodejs-my-first-day-journey-47gl)
-- [📈 Letting AI Drive: From Hell Loops to Happy Commits](https://dev.to/anchildress11/from-hell-loops-to-happy-commits-38c4)
-- [Software Architecture and Design Course: Building the Blueprint of Scalable Systems](https://dev.to/muhammad_mohsin_90446a84d/software-architecture-and-design-course-building-the-blueprint-of-scalable-systems-258i)
-- [What’s one lesser-known tech tool that improved your workflow?](https://dev.to/iamsachin/whats-one-lesser-known-tech-tool-that-improved-your-workflow-417m)
-- [Mastering Progressive Web Apps: Overcoming 2024 Development Challenges](https://dev.to/vaib/mastering-progressive-web-apps-overcoming-2024-development-challenges-34m4)
+- [I Built a Simple Budgeting App Called Budget Buddy](https://dev.to/voxdroid/i-built-a-simple-budgeting-app-called-budget-buddy-3nng)
+- [🐧 Meet Wally — Your Bilingual AI Penguin Buddy!](https://dev.to/julywu/meet-wally-your-bilingual-ai-penguin-buddy-50ge)
+- [Frontier Communications Login Account](https://dev.to/vladimirputinvp/frontier-communications-login-account-1nfd)
+- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
+- [A Guide to the Spring Framework with Examples](https://dev.to/galisetty_priyatham_c1a49/a-guide-to-the-spring-framework-with-examples-2e93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
