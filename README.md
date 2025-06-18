@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1750208906585500）](https://dev.to/member_f0ea35cc/my-architectural-choices-and-practical-experience1750208906585500-502d)
-- [The New Generation of High-Performance Web Frameworks（1750207694431600）](https://dev.to/member_f0ea35cc/the-new-generation-of-high-performance-web-frameworks1750207694431600-5aj)
-- [Advanced Go Concurrency: Channel Patterns for Real-World Problems](https://dev.to/jones_charles_ad50858dbc0/advanced-go-concurrency-channel-patterns-for-real-world-problems-33ce)
-- [My Journey with the Hyperlane Framework（1750207391683100）](https://dev.to/member_f0ea35cc/my-journey-with-the-hyperlane-framework1750207391683100-2hdf)
-- [Unveiling the Power of Simple Networks: Understanding Feedforward Neural Networks](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-power-of-simple-networks-understanding-feedforward-neural-networks-4193)
+- [Mempersiapkan Lingkungan Pengembangan Elixir](https://dev.to/muzhawir/mempersiapkan-lingkungan-pengembangan-elixir-247)
+- [AI in Software Testing: Actionable Advice for 2025](https://dev.to/anil_csimplifyit_905c/ai-in-software-testing-actionable-advice-for-2025-26m0)
+- [Check if Application is Installed](https://dev.to/flfljh/check-if-application-is-installed-38ia)
+- [System Boot Time Plugin](https://dev.to/flfljh/system-boot-time-plugin-4689)
+- [RSA Key Encapsulation](https://dev.to/flfljh/rsa-key-encapsulation-2jpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
