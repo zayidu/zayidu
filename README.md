@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [16-HarmonyOS5-VisionKit-VisionImageAnalyzer-Case](https://dev.to/zhousg/16-harmonyos5-visionkit-visionimageanalyzer-case-3ah2)
-- [I Was Frustrated Converting CSS to Tailwind — So I Built My Own Tool](https://dev.to/devshefali/i-was-frustrated-converting-css-to-tailwind-so-i-built-my-own-tool-5had)
-- [What If I Told You Prompt Engineering Could Make You a Better Leader?](https://dev.to/mohammed_husain/what-if-i-told-you-prompt-engineering-could-make-you-a-better-leader-2g9e)
-- [Next-Gen PWAs: AI and ML Drive Personalized &amp; Predictive Web Experiences](https://dev.to/vaib/next-gen-pwas-ai-and-ml-drive-personalized-predictive-web-experiences-2k34)
-- [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
+- [A Critical Look at the ChatGPT Fallback Issue based on &lpar;summary&rpar;dialogs with ChatGPT in English](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-with-summary-dialogs-with-chatgpt-in-english-5fa1)
+- [A Critical Look at the ChatGPT Fallback Issue](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-2ipm)
+- [How Crypto Leverage Trading Really Works &lpar;and Why It’s Risky&rpar;](https://dev.to/cryptoguru123/how-crypto-leverage-trading-really-works-and-why-its-risky-42jk)
+- [[Boost]](https://dev.to/aryan_panwala/-2c37)
+- [From EPROM to EEPROM: How Firmware Memory Evolved in Operating Systems and Modern PCs](https://dev.to/adityabhuyan/from-eprom-to-eeprom-how-firmware-memory-evolved-in-operating-systems-and-modern-pcs-1j5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
