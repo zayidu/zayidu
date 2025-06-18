@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Design to Code: Our Journey Building ITConnect](https://dev.to/erzana_muharremi/from-design-to-code-our-journey-building-itconnect-5co6)
-- [From Figma to Development: The Challenge of Choosing the Right Technical Direction](https://dev.to/erzana_muharremi/from-figma-to-development-the-challenge-of-choosing-the-right-technical-direction-3kha)
-- [How I Discovered I Love Tech as a 26-Year-Old Sous Chef](https://dev.to/pcchef/how-i-got-into-tech-as-a-26-year-old-sous-chef-pa6)
-- [Designing ITConnect — Our Process in Figma](https://dev.to/erzana_muharremi/designing-itconnect-our-process-in-figma-2e91)
-- [ITConnect — A Platform That Connects Talent with Tech Companies](https://dev.to/erzana_muharremi/itconnect-a-platform-that-connects-talent-with-tech-companies-250c)
+- [My Architectural Choices and Practical Experience（1750208906585500）](https://dev.to/member_f0ea35cc/my-architectural-choices-and-practical-experience1750208906585500-502d)
+- [The New Generation of High-Performance Web Frameworks（1750207694431600）](https://dev.to/member_f0ea35cc/the-new-generation-of-high-performance-web-frameworks1750207694431600-5aj)
+- [Advanced Go Concurrency: Channel Patterns for Real-World Problems](https://dev.to/jones_charles_ad50858dbc0/advanced-go-concurrency-channel-patterns-for-real-world-problems-33ce)
+- [My Journey with the Hyperlane Framework（1750207391683100）](https://dev.to/member_f0ea35cc/my-journey-with-the-hyperlane-framework1750207391683100-2hdf)
+- [Unveiling the Power of Simple Networks: Understanding Feedforward Neural Networks](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-power-of-simple-networks-understanding-feedforward-neural-networks-4193)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
