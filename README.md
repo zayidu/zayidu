@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Your First Laravel Project Using Composer — Quick and Easy!](https://dev.to/abhishekshakya/how-to-set-up-your-first-laravel-project-using-composer-quick-and-easy-19al)
-- [What I Learned from Converting My 6-Year-Old Create React App Personal Website to Next.js](https://dev.to/dwikbtn/what-i-learned-from-converting-my-6-year-old-create-react-app-personal-website-to-nextjs-2a4c)
-- [Query Your SQL Database In English](https://dev.to/benderv/query-your-sql-database-in-english-2lik)
-- [This isn’t just freelance advice. It’s life design. Ashkan Rajaee’s ideas around owning your time show up throughout.](https://dev.to/techtalk/this-isnt-just-freelance-advice-its-life-design-ashkan-rajaees-ideas-around-owning-your-time-17an)
-- [The Secret Sauce to IT Asset Management Strategy](https://dev.to/jennifer_devsamurai/the-secret-sauce-to-it-asset-management-strategy-34n7)
+- [Synthex AI: Just Launched and Already Transforming AI Training Data](https://dev.to/theaniketgiri/synthex-ai-just-launched-and-already-transforming-ai-training-data-568b)
+- [Essential Tools and Strategies for Phishing Protection in 2025](https://dev.to/forfend/essential-tools-and-strategies-for-phishing-protection-in-2025-4ej6)
+- [The Silent Navigators: How Artificial Intelligence Will Become the Universe&#39;s Ultimate Travelers](https://dev.to/ashikur_rahmannazil93/the-silent-navigators-how-artificial-intelligence-will-become-the-universes-ultimate-travelers-40ad)
+- [Digital Grit: Why Consistency Beats Virality in Long-Term Brand Growth](https://dev.to/molly_scott_0605/digital-grit-why-consistency-beats-virality-in-long-term-brand-growth-1eke)
+- [How to Create a Demat Account: Beginner’s Guide](https://dev.to/gauravkanabar/how-to-create-a-demat-account-beginners-guide-10db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
