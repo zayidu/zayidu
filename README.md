@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Developer](https://dev.to/ssemugabijames/frontend-developer-2m6j)
-- [Os 10 Melhores Livros da Coleção Deitel](https://dev.to/marcosplusplus/os-10-melhores-livros-da-colecao-deitel-40go)
-- [TypeScript で型安全](https://dev.to/nabbisen/typescript-dexing-an-quan-141e)
-- [A Deep Guide to HarmonyOS Next Permission Management](https://dev.to/liu_yang_fc0e605820ac220c/a-deep-guide-to-harmonyos-next-permission-management-15k4)
-- [HarmonyOS Learning: Developer Classroom](https://dev.to/xhunmon/harmonyos-learning-developer-classroom-39mc)
+- [Py compare script 2](https://dev.to/sachin_varghese_zele/py-compare-script-2-3ocg)
+- [This Beautiful Vue 3 Admin Template Took Me 900 Hours to Build](https://dev.to/daymychen/this-beautiful-vue-3-admin-template-took-me-900-hours-to-build-375d)
+- [What&#39;s new in ONLYOFFICE Docs 9.0: .md, redesigned interface, AI tools, and more](https://dev.to/onlyoffice/whats-new-in-onlyoffice-docs-90-md-redesigned-interface-ai-tools-and-more-1o4p)
+- [AI Resume Analyzer with Next.js 15, Tailwind CSS, and OpenAI](https://dev.to/saidmounaim/ai-resume-analyzer-with-nextjs-15-tailwind-css-and-openai-5bah)
+- [Best 15 Svelte UI Components &amp; Libraries for Enterprise-Grade Apps](https://dev.to/olga_tash/best-15-svelte-ui-components-libraries-for-enterprise-grade-apps-23gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
