@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Function Declaration &amp; Function Expression](https://dev.to/swetha67/function-declaration-function-expression-4m1d)
-- [Building a Tab Component with Tailwind CSS and React](https://dev.to/hexshift/building-a-tab-component-with-tailwind-css-and-react-3c4h)
-- [🐯 🚀 Timescale is now TigerData: Building the Modern PostgreSQL for the Analytical and Agentic Era](https://dev.to/tigerdata/timescale-is-now-tigerdata-building-the-modern-postgresql-for-the-analytical-and-agentic-era-3a51)
-- [Why I Left Building Services Engineering](https://dev.to/javaskr/why-i-left-building-services-engineering-5bi4)
-- [The Poetry and Horizon of Code Framework（1750262820415800）](https://dev.to/member_e911e096/the-poetry-and-horizon-of-code-framework1750262820415800-30nc)
+- [AI-Powered Job Hunt Automation - From Search to Interview Scheduling](https://dev.to/ariondev/ai-powered-job-hunt-automation-from-search-to-interview-scheduling-47ek)
+- [Introducing NeuroTwin - your AI twin that attends meetings, writes, replies, and thinks like you.](https://dev.to/ak1531/introducing-neurotwin-your-ai-twin-that-attends-meetings-writes-replies-and-thinks-like-you-5ajm)
+- [🚨 Your Site Is Down Right Now &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/alexsofroniev/your-site-is-down-right-now-and-you-dont-even-know-it-3398)
+- [🏗️ DEMOLISH THE GIANT: META — The Metaverse That Never Was](https://dev.to/the_epyq/demolish-the-giant-meta-the-metaverse-that-never-was-5en4)
+- [CSS Container Queries Tutorial for Beginners](https://dev.to/mechcloud_academy/css-container-queries-tutorial-for-beginners-30em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
