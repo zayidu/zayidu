@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Simple Budgeting App Called Budget Buddy](https://dev.to/voxdroid/i-built-a-simple-budgeting-app-called-budget-buddy-3nng)
-- [🐧 Meet Wally — Your Bilingual AI Penguin Buddy!](https://dev.to/julywu/meet-wally-your-bilingual-ai-penguin-buddy-50ge)
-- [Frontier Communications Login Account](https://dev.to/vladimirputinvp/frontier-communications-login-account-1nfd)
-- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
-- [A Guide to the Spring Framework with Examples](https://dev.to/galisetty_priyatham_c1a49/a-guide-to-the-spring-framework-with-examples-2e93)
+- [Frontend Developer](https://dev.to/ssemugabijames/frontend-developer-2m6j)
+- [Os 10 Melhores Livros da Coleção Deitel](https://dev.to/marcosplusplus/os-10-melhores-livros-da-colecao-deitel-40go)
+- [TypeScript で型安全](https://dev.to/nabbisen/typescript-dexing-an-quan-141e)
+- [A Deep Guide to HarmonyOS Next Permission Management](https://dev.to/liu_yang_fc0e605820ac220c/a-deep-guide-to-harmonyos-next-permission-management-15k4)
+- [HarmonyOS Learning: Developer Classroom](https://dev.to/xhunmon/harmonyos-learning-developer-classroom-39mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
