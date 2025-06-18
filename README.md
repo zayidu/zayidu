@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesella, A Grid Generator](https://dev.to/miguelrodriguezp99/tesella-a-grid-generator-34kg)
-- [The Critical Importance of Security in the Digital Age（1750270201347900）](https://dev.to/member_e911e096/the-critical-importance-of-security-in-the-digital-age1750270201347900-3dl5)
-- [Building AI in Healthcare: From Idea to Deployment](https://dev.to/clickit_devops/building-ai-in-healthcare-from-idea-to-deployment-3l25)
-- [Email Pattern Matching with regex- NLP](https://dev.to/datatoinfinity/email-pattern-matching-with-regex-nlp-3jk9)
-- [DeveloperExperience（1750269820789800）](https://dev.to/member_a4f1642a/developerexperience1750269820789800-1ann)
+- [Who is Mohammad Rifatujjaman?](https://dev.to/mohammad_rifatujjaman/who-is-mohammad-rifatujjaman-468a)
+- [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
+- [FastAPI: Your First Production-Ready API](https://dev.to/drxven/fastapi-your-first-production-ready-api-o6b)
+- [The Heartbeat of Modern Web Applications（1750272187612500）](https://dev.to/member_e911e096/the-heartbeat-of-modern-web-applications1750272187612500-33c5)
+- [Why Solving Small Problems Matters in Software Development](https://dev.to/mohammad_rifatujjaman/why-solving-small-problems-matters-in-software-development-4kbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
