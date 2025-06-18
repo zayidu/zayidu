@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer](https://dev.to/saifullah478/web-developer-1n0f)
-- [WWDC 2025 - What’s new in Apple Pay](https://dev.to/arshtechpro/wwdc-2025-whats-new-in-apple-pay-5e8m)
-- [How We Predicted Drug Quantities in Healthcare Using Machine Learning — And Why It Matters](https://dev.to/fishi/how-we-predicted-drug-quantities-in-healthcare-using-machine-learning-and-why-it-matters-3dbi)
-- [6 Reasons CLI Coding Agents Are the Future of Software Development](https://dev.to/pankaj_singh_1022ee93e755/6-reasons-cli-coding-agents-are-the-future-of-software-development-38n1)
-- [Vue の TypeScript 親和性](https://dev.to/nabbisen/vue-no-typescript-qin-he-xing-o5m)
+- [4 iOS UX Writing Secrets That Will Transform Your App&#39;s User Experience &lpar;Apple Insiders Reveal All&rpar;](https://dev.to/arshtechpro/4-ios-ux-writing-secrets-that-will-transform-your-apps-user-experience-apple-insiders-reveal-all-3d0f)
+- [My Architectural Choices and Practical Experience（1750282774876400）](https://dev.to/member_e911e096/my-architectural-choices-and-practical-experience1750282774876400-gef)
+- [Realtime（1750282675141300）](https://dev.to/member_e911e096/realtime1750282675141300-k85)
+- [AI Isn’t the Story. How We Work Together Is.](https://dev.to/wittycircuitry/ai-isnt-the-story-how-we-work-together-is-162c)
+- [Architecture（1750282272480500）](https://dev.to/member_a4f1642a/architecture1750282272480500-3l9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
