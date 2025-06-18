@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2bpm)
-- [Agent with Local, Remote MCP Tools using AWS Strands Agents 🧬 Bedrock, Nova, Fast API, Streamlit](https://dev.to/omerberatsezer/agent-with-local-remote-mcp-tools-using-aws-strands-agents-bedrock-nova-fast-api-streamlit-28e4)
-- [🚨 Still spending months building secure applications? What if you didn’t have to? Join us for a webinar on Vibe Coding Done Right: How to Build Secure Applications in Minutes, Not Months https://noumenadigital.com/webinar-vibe-coding-done-right-use-ai](https://dev.to/anoop-g/still-spending-months-building-secure-applications-what-if-you-didnt-have-to-join-us-for-a-3ca3)
-- [Scalable, Modern Forms in Django with Tailwind CSS](https://dev.to/hexshift/scalable-modern-forms-in-django-with-tailwind-css-4mfb)
-- [Leveraging Rust and WebAssembly for High-Performance Tailwind CSS UIs](https://dev.to/hexshift/leveraging-rust-and-webassembly-for-high-performance-tailwind-css-uis-fd1)
+- [How to Set Up Your First Laravel Project Using Composer — Quick and Easy!](https://dev.to/abhishekshakya/how-to-set-up-your-first-laravel-project-using-composer-quick-and-easy-19al)
+- [What I Learned from Converting My 6-Year-Old Create React App Personal Website to Next.js](https://dev.to/dwikbtn/what-i-learned-from-converting-my-6-year-old-create-react-app-personal-website-to-nextjs-2a4c)
+- [Query Your SQL Database In English](https://dev.to/benderv/query-your-sql-database-in-english-2lik)
+- [This isn’t just freelance advice. It’s life design. Ashkan Rajaee’s ideas around owning your time show up throughout.](https://dev.to/techtalk/this-isnt-just-freelance-advice-its-life-design-ashkan-rajaees-ideas-around-owning-your-time-17an)
+- [The Secret Sauce to IT Asset Management Strategy](https://dev.to/jennifer_devsamurai/the-secret-sauce-to-it-asset-management-strategy-34n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
