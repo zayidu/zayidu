@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Litlyx because I was done with all the other tools.](https://dev.to/litlyx/i-built-litlyx-because-i-was-done-with-all-the-other-tools-38co)
-- [Funções Genéricas Inteligentes](https://dev.to/iwilldev/funcoes-genericas-inteligentes-4oal)
-- [How to Fix Your Sender Reputation with Bulk Email Verification Tools](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-fix-your-sender-reputation-with-bulk-email-verification-tools-2al7)
-- [Behind the Click: The Untold Journey of a Payment Gateway](https://dev.to/sneha_a3489ef74e6d3589455/behind-the-click-the-untold-journey-of-a-payment-gateway-g5g)
-- [Senior Developer Interview Guide: Master Contentful with Confidence](https://dev.to/sadamkhan7679/senior-developer-interview-guide-master-contentful-with-confidence-5329)
+- [Day 15: Getting Started with Node.js: My First Day Journey](https://dev.to/seenuvasan_p/day-15-getting-started-with-nodejs-my-first-day-journey-47gl)
+- [📈 Letting AI Drive: From Hell Loops to Happy Commits](https://dev.to/anchildress11/from-hell-loops-to-happy-commits-38c4)
+- [Software Architecture and Design Course: Building the Blueprint of Scalable Systems](https://dev.to/muhammad_mohsin_90446a84d/software-architecture-and-design-course-building-the-blueprint-of-scalable-systems-258i)
+- [What’s one lesser-known tech tool that improved your workflow?](https://dev.to/iamsachin/whats-one-lesser-known-tech-tool-that-improved-your-workflow-417m)
+- [Mastering Progressive Web Apps: Overcoming 2024 Development Challenges](https://dev.to/vaib/mastering-progressive-web-apps-overcoming-2024-development-challenges-34m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
