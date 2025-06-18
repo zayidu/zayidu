@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mempersiapkan Lingkungan Pengembangan Elixir](https://dev.to/muzhawir/mempersiapkan-lingkungan-pengembangan-elixir-247)
-- [AI in Software Testing: Actionable Advice for 2025](https://dev.to/anil_csimplifyit_905c/ai-in-software-testing-actionable-advice-for-2025-26m0)
-- [Check if Application is Installed](https://dev.to/flfljh/check-if-application-is-installed-38ia)
-- [System Boot Time Plugin](https://dev.to/flfljh/system-boot-time-plugin-4689)
-- [RSA Key Encapsulation](https://dev.to/flfljh/rsa-key-encapsulation-2jpa)
+- [16-HarmonyOS5-VisionKit-VisionImageAnalyzer-Case](https://dev.to/zhousg/16-harmonyos5-visionkit-visionimageanalyzer-case-3ah2)
+- [I Was Frustrated Converting CSS to Tailwind — So I Built My Own Tool](https://dev.to/devshefali/i-was-frustrated-converting-css-to-tailwind-so-i-built-my-own-tool-5had)
+- [What If I Told You Prompt Engineering Could Make You a Better Leader?](https://dev.to/mohammed_husain/what-if-i-told-you-prompt-engineering-could-make-you-a-better-leader-2g9e)
+- [Next-Gen PWAs: AI and ML Drive Personalized &amp; Predictive Web Experiences](https://dev.to/vaib/next-gen-pwas-ai-and-ml-drive-personalized-predictive-web-experiences-2k34)
+- [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
