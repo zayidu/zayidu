@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Py compare script 2](https://dev.to/sachin_varghese_zele/py-compare-script-2-3ocg)
-- [This Beautiful Vue 3 Admin Template Took Me 900 Hours to Build](https://dev.to/daymychen/this-beautiful-vue-3-admin-template-took-me-900-hours-to-build-375d)
-- [What&#39;s new in ONLYOFFICE Docs 9.0: .md, redesigned interface, AI tools, and more](https://dev.to/onlyoffice/whats-new-in-onlyoffice-docs-90-md-redesigned-interface-ai-tools-and-more-1o4p)
-- [AI Resume Analyzer with Next.js 15, Tailwind CSS, and OpenAI](https://dev.to/saidmounaim/ai-resume-analyzer-with-nextjs-15-tailwind-css-and-openai-5bah)
-- [Best 15 Svelte UI Components &amp; Libraries for Enterprise-Grade Apps](https://dev.to/olga_tash/best-15-svelte-ui-components-libraries-for-enterprise-grade-apps-23gc)
+- [Function Declaration &amp; Function Expression](https://dev.to/swetha67/function-declaration-function-expression-4m1d)
+- [Building a Tab Component with Tailwind CSS and React](https://dev.to/hexshift/building-a-tab-component-with-tailwind-css-and-react-3c4h)
+- [🐯 🚀 Timescale is now TigerData: Building the Modern PostgreSQL for the Analytical and Agentic Era](https://dev.to/tigerdata/timescale-is-now-tigerdata-building-the-modern-postgresql-for-the-analytical-and-agentic-era-3a51)
+- [Why I Left Building Services Engineering](https://dev.to/javaskr/why-i-left-building-services-engineering-5bi4)
+- [The Poetry and Horizon of Code Framework（1750262820415800）](https://dev.to/member_e911e096/the-poetry-and-horizon-of-code-framework1750262820415800-30nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
