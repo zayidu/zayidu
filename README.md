@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Your Developer Path Series: Side Projects Are Free Coaching &lpar;or the side projects that helped me grow&rpar;](https://dev.to/tlorent/choosing-your-developer-path-series-side-projects-are-free-coaching-or-the-side-projects-that-2pg0)
-- [10 Tips for an Effective Software Asset Inventory for US Agencies](https://dev.to/jennifer_devsamurai/10-tips-for-an-effective-software-asset-inventory-for-us-agencies-26c9)
-- [A Practical Guide to Testing Custom React Routers](https://dev.to/zenika/a-practical-guide-to-testing-custom-react-routers-4j93)
-- [What Performance Really Means in Modern Storefronts &lpar;It is Not Just API Speed&rpar;](https://dev.to/aakanksha/what-performance-really-means-in-modern-storefronts-it-is-not-just-api-speed-4co2)
-- [Can GraphQL Call REST API?](https://dev.to/mayallo/can-graphql-call-rest-api-4h9h)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2bpm)
+- [Agent with Local, Remote MCP Tools using AWS Strands Agents 🧬 Bedrock, Nova, Fast API, Streamlit](https://dev.to/omerberatsezer/agent-with-local-remote-mcp-tools-using-aws-strands-agents-bedrock-nova-fast-api-streamlit-28e4)
+- [🚨 Still spending months building secure applications? What if you didn’t have to? Join us for a webinar on Vibe Coding Done Right: How to Build Secure Applications in Minutes, Not Months https://noumenadigital.com/webinar-vibe-coding-done-right-use-ai](https://dev.to/anoop-g/still-spending-months-building-secure-applications-what-if-you-didnt-have-to-join-us-for-a-3ca3)
+- [Scalable, Modern Forms in Django with Tailwind CSS](https://dev.to/hexshift/scalable-modern-forms-in-django-with-tailwind-css-4mfb)
+- [Leveraging Rust and WebAssembly for High-Performance Tailwind CSS UIs](https://dev.to/hexshift/leveraging-rust-and-webassembly-for-high-performance-tailwind-css-uis-fd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
