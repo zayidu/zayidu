@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Critical Look at the ChatGPT Fallback Issue based on &lpar;summary&rpar;dialogs with ChatGPT in English](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-with-summary-dialogs-with-chatgpt-in-english-5fa1)
-- [A Critical Look at the ChatGPT Fallback Issue](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-2ipm)
-- [How Crypto Leverage Trading Really Works &lpar;and Why It’s Risky&rpar;](https://dev.to/cryptoguru123/how-crypto-leverage-trading-really-works-and-why-its-risky-42jk)
-- [[Boost]](https://dev.to/aryan_panwala/-2c37)
-- [From EPROM to EEPROM: How Firmware Memory Evolved in Operating Systems and Modern PCs](https://dev.to/adityabhuyan/from-eprom-to-eeprom-how-firmware-memory-evolved-in-operating-systems-and-modern-pcs-1j5a)
+- [How to choose a good monitor for UI/UX Designers](https://dev.to/smartterss/how-to-choose-a-good-monitor-for-uiux-designers-5044)
+- [Critical SQL Injection Flaw Found in E-cology — RCE Possible](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-flaw-found-in-e-cology-rce-possible-3k75)
+- [Day 10: Exception Handling &amp; Custom Errors in FastAPI](https://dev.to/awslearnerdaily/day-10-exception-handling-custom-errors-in-fastapi-4m99)
+- [Exception Handling Overview](https://dev.to/tak089/exception-handling-overview-kde)
+- [🧪 Testing in Production: The Rise of Shift-Right Testing in Modern QA](https://dev.to/vaibhavkuls/testing-in-production-the-rise-of-shift-right-testing-in-modern-qa-4kmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
