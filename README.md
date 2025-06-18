@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to choose a good monitor for UI/UX Designers](https://dev.to/smartterss/how-to-choose-a-good-monitor-for-uiux-designers-5044)
-- [Critical SQL Injection Flaw Found in E-cology — RCE Possible](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-flaw-found-in-e-cology-rce-possible-3k75)
-- [Day 10: Exception Handling &amp; Custom Errors in FastAPI](https://dev.to/awslearnerdaily/day-10-exception-handling-custom-errors-in-fastapi-4m99)
-- [Exception Handling Overview](https://dev.to/tak089/exception-handling-overview-kde)
-- [🧪 Testing in Production: The Rise of Shift-Right Testing in Modern QA](https://dev.to/vaibhavkuls/testing-in-production-the-rise-of-shift-right-testing-in-modern-qa-4kmh)
+- [Choosing Your Developer Path Series: Side Projects Are Free Coaching &lpar;or the side projects that helped me grow&rpar;](https://dev.to/tlorent/choosing-your-developer-path-series-side-projects-are-free-coaching-or-the-side-projects-that-2pg0)
+- [10 Tips for an Effective Software Asset Inventory for US Agencies](https://dev.to/jennifer_devsamurai/10-tips-for-an-effective-software-asset-inventory-for-us-agencies-26c9)
+- [A Practical Guide to Testing Custom React Routers](https://dev.to/zenika/a-practical-guide-to-testing-custom-react-routers-4j93)
+- [What Performance Really Means in Modern Storefronts &lpar;It is Not Just API Speed&rpar;](https://dev.to/aakanksha/what-performance-really-means-in-modern-storefronts-it-is-not-just-api-speed-4co2)
+- [Can GraphQL Call REST API?](https://dev.to/mayallo/can-graphql-call-rest-api-4h9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
