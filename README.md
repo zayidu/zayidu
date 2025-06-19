@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750286901763400）](https://dev.to/member_e911e096/my-experience-with-hyperlane1750286901763400-17k8)
-- [NLWeb - Turn Your Website into an AI chat bot quickly](https://dev.to/agenticarch/nlweb-accelerate-agentic-ai-in-your-website-1j56)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750286598724400）](https://dev.to/member_a4f1642a/junior-year-self-study-notes-my-journey-with-the-framework1750286598724400-574o)
-- [Deploy WordPress Locally with Vagrant + LAMP Learn how to spin up a VM, set up Apache, MySQL, PHP, and install WordPress - all from scratch. 📘 Clean, beginner-friendly, and practical. Check it out.](https://dev.to/bluezeus/deploy-wordpress-locally-with-vagrant-lamp-learn-how-to-spin-up-a-vm-set-up-apache-mysql-php-pe)
-- [Scholar Profile - John Round](https://dev.to/puddin1066/scholar-profile-john-round-40oj)
+- [Building &quot;Yuh Hear Dem&quot;: A Parliamentary AI with Google&#39;s ADK and a Lesson in Agentic Design](https://dev.to/hammertoe/building-yuh-hear-dem-a-parliamentary-ai-with-googles-adk-and-a-lesson-in-agentic-design-247)
+- [Operator Pattern](https://dev.to/minwook/operator-pattern-3fin)
+- [Reference Types vs Primitive Types - Java](https://dev.to/camilozuluaga/reference-types-vs-primitive-types-java-km)
+- [My Experience with Hyperlane（1750292282289300）](https://dev.to/member_a4f1642a/my-experience-with-hyperlane1750292282289300-2j4b)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750291847979500）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291847979500-11a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
