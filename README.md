@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic &quot;Agile&quot;](https://dev.to/sebs/agentic-agile-4386)
-- [🚀 My 9 Most Useful SEO &amp; Web Insights — Collected in One Post](https://dev.to/fayzakseo/my-9-most-useful-seo-web-insights-collected-in-one-post-3ma8)
-- [Crypto-as-a-Service &lpar;CaaS&rpar;: How It Actually Works Under the Hood](https://dev.to/kaankaya/crypto-as-a-service-caas-how-it-actually-works-under-the-hood-gbl)
-- [C#](https://dev.to/prasanna_venkatesh/c-13ih)
-- [Peak Performance Understated Power（1750326526889300）](https://dev.to/member_a4f1642a/peak-performance-understated-power1750326526889300-5goh)
+- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
+- [The Joys of Modern Software Development: A Sarcastic Ode](https://dev.to/vaib/the-joys-of-modern-software-development-a-sarcastic-ode-4622)
+- [Architecture（1750330783854700）](https://dev.to/member_e911e096/architecture1750330783854700-3d6i)
+- [Performance（1750330008319200）](https://dev.to/member_e911e096/performance1750330008319200-5b60)
+- [AWS Fundamentals: Appsync](https://dev.to/devops_fundamental/aws-fundamentals-appsync-2p9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
