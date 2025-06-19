@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Know If You Have Product-Market Fit?](https://dev.to/shayy/how-do-you-know-if-you-have-product-market-fit-1fmh)
-- [TanStack Start vs. Next.js: Choosing the right full-stack React framework](https://dev.to/logrocket/tanstack-start-vs-nextjs-choosing-the-right-full-stack-react-framework-io5)
-- [Angular 20 Admin Template](https://dev.to/therichpost/angular-20-admin-template-cea)
-- [MAMR vs HAMR: The Battle for the Future of hard Drives](https://dev.to/dima853/mamr-vs-hamr-the-battle-for-the-future-of-hard-drives-4abd)
-- [🚀 Enabling GZIP Compression in Spring Boot for Faster Web Apps](https://dev.to/rock_win_c053fa5fb2399067/enabling-gzip-compression-in-spring-boot-for-faster-web-apps-3abe)
+- [Go should be more opinionated](https://dev.to/eminetto/go-should-be-more-opinionated-412b)
+- [Azure Fundamentals: Microsoft.Authorization](https://dev.to/devops_fundamental/azure-fundamentals-microsoftauthorization-3k7i)
+- [🕒 I built a weird little project: Buy and personalize any second in history](https://dev.to/chronomarks/i-built-a-weird-little-project-buy-and-personalize-any-second-in-history-5fhe)
+- [GCP Fundamentals: AdSense Platform API](https://dev.to/devops_fundamental/gcp-fundamentals-adsense-platform-api-22e3)
+- [🔁 Fixing Keycloak Auto-Redirect on Refresh: Persist Authentication in SPAs](https://dev.to/er-raj-aryan/fixing-keycloak-auto-redirect-on-refresh-persist-authentication-in-spas-pk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
