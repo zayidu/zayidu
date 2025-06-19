@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI vs Predictive AI: What are the differences?](https://dev.to/lollypopdesign/generative-ai-vs-predictive-ai-what-are-the-differences-332e)
-- [🔥 Shrink Your Flutter App Size by 60% — Pro Techniques to Build Leaner, Faster APKs &lpar;2025&rpar;](https://dev.to/alex_codex_dev/shrink-your-flutter-app-size-by-60-pro-techniques-to-build-leaner-faster-apks-2025-lfh)
-- [HarmonyOS FlutterEngineGroup Integration Guide](https://dev.to/flfljh/harmonyos-flutterenginegroup-integration-guide-4kof)
-- [System Screenshot Detection](https://dev.to/flfljh/system-screenshot-detection-133p)
-- [How to Use IEEE Xplore for Effective Prior Art Searches](https://dev.to/patentscanai/how-to-use-ieee-xplore-for-effective-prior-art-searches-515n)
+- [My Journey with the Hyperlane Framework（1750309156979600）](https://dev.to/member_e911e096/my-journey-with-the-hyperlane-framework1750309156979600-1n8p)
+- [HarmonyOS Application Development Practice with uni-app x](https://dev.to/zhao1743914721/harmonyos-application-development-practice-with-uni-app-x-1oi9)
+- [AWS Fundamentals: Amplifybackend](https://dev.to/devops_fundamental/aws-fundamentals-amplifybackend-3ii3)
+- [Vibe coding a simple STEM Game with Amazon Q CLI](https://dev.to/aws-builders/vibe-coding-a-simple-stem-game-with-amazon-q-cli-2m7j)
+- [Day 16: My First Round Node.js Interview Experience at Payilagam – Writing Round](https://dev.to/seenuvasan_p/day-15-my-first-round-nodejs-interview-experience-at-payilagam-writing-round-4pb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
