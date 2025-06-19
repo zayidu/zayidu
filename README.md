@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: API Discovery Service](https://dev.to/devops_fundamental/gcp-fundamentals-api-discovery-service-22h9)
-- [Unlock Your Flutter Potential: 20 Essential Resources You Need!](https://dev.to/vaib/unlock-your-flutter-potential-20-essential-resources-you-need-5ck7)
-- [Behind the Scenes of Netflix: Unpacking Its World-Class Infrastructure](https://dev.to/grenishrai/behind-the-scenes-of-netflix-unpacking-its-world-class-infrastructure-4748)
-- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
-- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
+- [Introducing Storyblok CLI v4](https://dev.to/storyblok/introducing-storyblok-cli-v4-2gdh)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-4kji)
+- [This gave me a lot to think about in terms of team culture and how we can make it stronger even without a physical office.](https://dev.to/jackied0minguez/this-gave-me-a-lot-to-think-about-in-terms-of-team-culture-and-how-we-can-make-it-stronger-even-5h9b)
+- [This reflection helped me think differently about remote work and how leaders should build for sustainability.](https://dev.to/jackied0minguez/this-reflection-helped-me-think-differently-about-remote-work-and-how-leaders-should-build-for-1bae)
+- [From Data to Delight: Using n8n and LLMs to Automate Insightful Weather Updates](https://dev.to/collardeau/from-data-to-delight-using-n8n-and-llms-to-automate-insightful-weather-updates-55m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
