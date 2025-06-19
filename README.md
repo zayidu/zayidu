@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [As a remote team lead, I found myself nodding through this whole post. Totally aligned.](https://dev.to/richards_l52689/as-a-remote-team-lead-i-found-myself-nodding-through-this-whole-post-totally-aligned-ihi)
-- [HarmonyOS Next Advanced Data Management Development Guide](https://dev.to/liu_yang_fc0e605820ac220c/harmonyos-next-advanced-data-management-development-guide-1kd3)
-- [Identiverse 2025: Trust, Delegation, and the Era of Continuous Identity](https://dev.to/dwayne_mcdaniel/identiverse-2025-trust-delegation-and-the-era-of-continuous-identity-30g0)
-- [🔍 Your .env file shouldn’t be a mystery box.](https://dev.to/suhel_withai_8db26993d99/your-env-file-shouldnt-be-a-mystery-box-5ij)
-- [Practical Development of Dynamic Styles and Themes in HarmonyOS Next](https://dev.to/liu_yang_fc0e605820ac220c/practical-development-of-dynamic-styles-and-themes-in-harmonyos-next-4oe2)
+- [Unleashing AI: Revolutionizing Digital Forensics and Incident Response](https://dev.to/vaib/unleashing-ai-revolutionizing-digital-forensics-and-incident-response-461l)
+- [Crafting Inclusive Web Experiences: Your Go-To Guide for HTML5 Semantics &amp; Accessibility](https://dev.to/vaib/crafting-inclusive-web-experiences-your-go-to-guide-for-html5-semantics-accessibility-1gkg)
+- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
+- [[Boost]](https://dev.to/bagaswibowo/-5f4k)
+- [Understanding CPU Cache Organization and Structure](https://dev.to/sachin_tolay_052a7e539e57/understanding-cpu-cache-organization-and-structure-4o1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
