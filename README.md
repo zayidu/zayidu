@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Hexagonal Architecture in Spring Boot Microservices: A Complete Guide with Folder Structure](https://dev.to/rock_win_c053fa5fb2399067/hexagonal-architecture-in-spring-boot-microservices-a-complete-guide-with-folder-structure-1jld)
-- [Security（1750301688751500）](https://dev.to/member_a4f1642a/security1750301688751500-4alg)
-- [Performance（1750301383673200）](https://dev.to/member_e911e096/performance1750301383673200-3baj)
-- [Domina CrewAI: Flow, Test y Train para flujos inteligentes y agentes cada vez más precisos](https://dev.to/exiadev/domina-crewai-flow-test-y-train-para-flujos-inteligentes-y-agentes-cada-vez-mas-precisos-2dg8)
-- [The Heartbeat of Modern Web Applications（1750300988230700）](https://dev.to/member_a4f1642a/the-heartbeat-of-modern-web-applications1750300988230700-18i6)
+- [Generative AI vs Predictive AI: What are the differences?](https://dev.to/lollypopdesign/generative-ai-vs-predictive-ai-what-are-the-differences-332e)
+- [🔥 Shrink Your Flutter App Size by 60% — Pro Techniques to Build Leaner, Faster APKs &lpar;2025&rpar;](https://dev.to/alex_codex_dev/shrink-your-flutter-app-size-by-60-pro-techniques-to-build-leaner-faster-apks-2025-lfh)
+- [HarmonyOS FlutterEngineGroup Integration Guide](https://dev.to/flfljh/harmonyos-flutterenginegroup-integration-guide-4kof)
+- [System Screenshot Detection](https://dev.to/flfljh/system-screenshot-detection-133p)
+- [How to Use IEEE Xplore for Effective Prior Art Searches](https://dev.to/patentscanai/how-to-use-ieee-xplore-for-effective-prior-art-searches-515n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
