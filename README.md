@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Brains. Bugs. Dopamine. how to trick yourself into loving code again](https://dev.to/devlinktips/brains-bugs-dopamine-how-to-trick-yourself-into-loving-code-again-4p7e)
-- [How AI Is Reshaping Urban Transport and Where eBikes Fit In](https://dev.to/badhonaub/how-ai-is-reshaping-urban-transport-and-where-ebikes-fit-in-11ea)
-- [Unlock Your Coding Superpowers: Essential VS Code Tools for Web Developers](https://dev.to/vaib/unlock-your-coding-superpowers-essential-vs-code-tools-for-web-developers-1c9n)
-- [Unleashing Edge AI with WebAssembly: Performance, Portability, and a Hands-On Guide](https://dev.to/vaib/unleashing-edge-ai-with-webassembly-performance-portability-and-a-hands-on-guide-p7o)
-- [🕹️ History of Game Consoles – A Visual Timeline Powered by Storyblok](https://dev.to/jamesrmoro/history-of-game-consoles-a-visual-timeline-powered-by-storyblok-2i0h)
+- [The &quot;never&quot; Type in PHP](https://dev.to/ashallendesign/the-never-type-in-php-49e1)
+- [Devops isn’t broken it just hurts more than we admit](https://dev.to/devlinktips/devops-isnt-broken-it-just-hurts-more-than-we-admit-3ge)
+- [Por que Acessibilidade Importa? Entenda o Essencial para Apps Mais Inclusivos](https://dev.to/gabrielteixeira44/por-que-acessibilidade-importa-entenda-o-essencial-para-apps-mais-inclusivos-4goh)
+- [How Bad Code and Product Flaws Killed Myspace A Developer’s Survival Guide](https://dev.to/devlinktips/how-bad-code-and-product-flaws-killed-myspace-a-developers-survival-guide-37i5)
+- [AWS Fundamentals: Bcm Data Exports](https://dev.to/devops_fundamental/aws-fundamentals-bcm-data-exports-5830)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
