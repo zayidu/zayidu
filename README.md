@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go should be more opinionated](https://dev.to/eminetto/go-should-be-more-opinionated-412b)
-- [Azure Fundamentals: Microsoft.Authorization](https://dev.to/devops_fundamental/azure-fundamentals-microsoftauthorization-3k7i)
-- [🕒 I built a weird little project: Buy and personalize any second in history](https://dev.to/chronomarks/i-built-a-weird-little-project-buy-and-personalize-any-second-in-history-5fhe)
-- [GCP Fundamentals: AdSense Platform API](https://dev.to/devops_fundamental/gcp-fundamentals-adsense-platform-api-22e3)
-- [🔁 Fixing Keycloak Auto-Redirect on Refresh: Persist Authentication in SPAs](https://dev.to/er-raj-aryan/fixing-keycloak-auto-redirect-on-refresh-persist-authentication-in-spas-pk3)
+- [Understanding the Impact of Garbage Collection on JS Performance](https://dev.to/omriluz1/understanding-the-impact-of-garbage-collection-on-js-performance-23jk)
+- [AI code reviews: where it shines, where it fails, and how to use it like a pro](https://dev.to/devlinktips/ai-code-reviews-where-it-shines-where-it-fails-and-how-to-use-it-like-a-pro-1id1)
+- [100 days of Coding! Day 20](https://dev.to/aaanishaaa/100-days-of-coding-day-20-16nm)
+- [MenuMaster - Restaurant Chain Content Platform](https://dev.to/aibughunter/menumaster-restaurant-chain-content-platform-21fm)
+- [Designing your own node-based visual programming language](https://dev.to/cosmomyzrailgorynych/designing-your-own-node-based-visual-programming-language-2mpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
