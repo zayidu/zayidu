@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building &quot;Yuh Hear Dem&quot;: A Parliamentary AI with Google&#39;s ADK and a Lesson in Agentic Design](https://dev.to/hammertoe/building-yuh-hear-dem-a-parliamentary-ai-with-googles-adk-and-a-lesson-in-agentic-design-247)
-- [Operator Pattern](https://dev.to/minwook/operator-pattern-3fin)
-- [Reference Types vs Primitive Types - Java](https://dev.to/camilozuluaga/reference-types-vs-primitive-types-java-km)
-- [My Experience with Hyperlane（1750292282289300）](https://dev.to/member_a4f1642a/my-experience-with-hyperlane1750292282289300-2j4b)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750291847979500）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291847979500-11a2)
+- [🧱 Hexagonal Architecture in Spring Boot Microservices: A Complete Guide with Folder Structure](https://dev.to/rock_win_c053fa5fb2399067/hexagonal-architecture-in-spring-boot-microservices-a-complete-guide-with-folder-structure-1jld)
+- [Security（1750301688751500）](https://dev.to/member_a4f1642a/security1750301688751500-4alg)
+- [Performance（1750301383673200）](https://dev.to/member_e911e096/performance1750301383673200-3baj)
+- [Domina CrewAI: Flow, Test y Train para flujos inteligentes y agentes cada vez más precisos](https://dev.to/exiadev/domina-crewai-flow-test-y-train-para-flujos-inteligentes-y-agentes-cada-vez-mas-precisos-2dg8)
+- [The Heartbeat of Modern Web Applications（1750300988230700）](https://dev.to/member_a4f1642a/the-heartbeat-of-modern-web-applications1750300988230700-18i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
