@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Impact of Garbage Collection on JS Performance](https://dev.to/omriluz1/understanding-the-impact-of-garbage-collection-on-js-performance-23jk)
-- [AI code reviews: where it shines, where it fails, and how to use it like a pro](https://dev.to/devlinktips/ai-code-reviews-where-it-shines-where-it-fails-and-how-to-use-it-like-a-pro-1id1)
-- [100 days of Coding! Day 20](https://dev.to/aaanishaaa/100-days-of-coding-day-20-16nm)
-- [MenuMaster - Restaurant Chain Content Platform](https://dev.to/aibughunter/menumaster-restaurant-chain-content-platform-21fm)
-- [Designing your own node-based visual programming language](https://dev.to/cosmomyzrailgorynych/designing-your-own-node-based-visual-programming-language-2mpg)
+- [[Boost]](https://dev.to/rhannequin/-4jpj)
+- [The Dev-First Playbook to MCP: Build smarter AI interfaces and actually make money](https://dev.to/devlinktips/the-dev-first-playbook-to-mcp-build-smarter-ai-interfaces-and-actually-make-money-1g68)
+- [[Boost]](https://dev.to/anthonymax/-1f93)
+- [[Boost]](https://dev.to/vaib/-hp0)
+- [Testing ITConnect Before Launch: Making Sure Everything Works Smoothly](https://dev.to/erzana_muharremi/testing-itconnect-before-launch-making-sure-everything-works-smoothly-190h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
