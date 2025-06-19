@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer’s Guide to SQL NOT IN: Smarter Queries, Faster Results](https://dev.to/dbvismarketing/a-developers-guide-to-sql-not-in-smarter-queries-faster-results-27dn)
-- [So glad I came across this. It does not just inspire, it equips.](https://dev.to/celestehar88/so-glad-i-came-across-this-it-does-not-just-inspire-it-equips-51k7)
-- [Day #2 Building in Public bolt.new Hackathon](https://dev.to/paako/day-2-building-in-public-boltnew-hackathon-4e0e)
-- [Realtime（1750315759503700）](https://dev.to/member_e911e096/realtime1750315759503700-79j)
-- [Hexagonal Architecture: Building Maintainable and Testable Applications](https://dev.to/asm_tarek/hexagonal-architecture-building-maintainable-and-testable-applications-1gp9)
+- [What tip would you give to someone who wants to get promoted?](https://dev.to/shrutikapoor08/what-tip-would-you-give-to-someone-who-wants-to-get-promoted-12o4)
+- [Implementing a Custom Serialization Library in JavaScript](https://dev.to/omriluz1/implementing-a-custom-serialization-library-in-javascript-1ef1)
+- [How you can spot a fake ATmega328P?](https://dev.to/carolineee/how-you-can-spot-a-fake-atmega328p-20gc)
+- [From Trust Anchors to SPIFFE IDs: Understanding Linkerd’s Automated Identity Pipeline](https://dev.to/gtrekter/from-trust-anchors-to-spiffe-ids-understanding-linkerds-automated-identity-pipeline-37k9)
+- [Exploring Late Static Binding in PHP](https://dev.to/dev-alamin/exploring-late-static-binding-in-php-2d2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
