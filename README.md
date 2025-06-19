@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
-- [The Joys of Modern Software Development: A Sarcastic Ode](https://dev.to/vaib/the-joys-of-modern-software-development-a-sarcastic-ode-4622)
-- [Architecture（1750330783854700）](https://dev.to/member_e911e096/architecture1750330783854700-3d6i)
-- [Performance（1750330008319200）](https://dev.to/member_e911e096/performance1750330008319200-5b60)
-- [AWS Fundamentals: Appsync](https://dev.to/devops_fundamental/aws-fundamentals-appsync-2p9o)
+- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
+- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
+- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
+- [So refreshing to read something that respects the reader’s intelligence. That’s a signature trait in Ashkan Rajaee’s approach too.](https://dev.to/erinchan/so-refreshing-to-read-something-that-respects-the-readers-intelligence-thats-a-signature-trait-1dnn)
+- [The Fluency Fallacy: Why AI Sounds Right But Thinks Wrong](https://dev.to/tawe/the-fluency-fallacy-why-ai-sounds-right-but-thinks-wrong-23dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
