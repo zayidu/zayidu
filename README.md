@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing AI: Revolutionizing Digital Forensics and Incident Response](https://dev.to/vaib/unleashing-ai-revolutionizing-digital-forensics-and-incident-response-461l)
-- [Crafting Inclusive Web Experiences: Your Go-To Guide for HTML5 Semantics &amp; Accessibility](https://dev.to/vaib/crafting-inclusive-web-experiences-your-go-to-guide-for-html5-semantics-accessibility-1gkg)
-- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
-- [[Boost]](https://dev.to/bagaswibowo/-5f4k)
-- [Understanding CPU Cache Organization and Structure](https://dev.to/sachin_tolay_052a7e539e57/understanding-cpu-cache-organization-and-structure-4o1o)
+- [Locking It Down with Redis ACLs: A Dev&#39;s Guide to Secure Access](https://dev.to/lovestaco/locking-it-down-with-redis-acls-a-devs-guide-to-secure-access-1935)
+- [AWS Fundamentals: Autoscaling Plans](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-plans-162o)
+- [Azure Fundamentals: Microsoft.ApiManagement](https://dev.to/devops_fundamental/azure-fundamentals-microsoftapimanagement-1dgj)
+- [Designing a Better String Utility - Part 2](https://dev.to/fluentfuture/designing-a-better-string-utility-4k49)
+- [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;2/2&rpar;](https://dev.to/zerohertz/code-review-deep-dive-into-vllms-architecture-and-implementation-analysis-of-openai-compatible-4cp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
