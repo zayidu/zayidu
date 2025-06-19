@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Storyblok CLI v4](https://dev.to/storyblok/introducing-storyblok-cli-v4-2gdh)
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-4kji)
-- [This gave me a lot to think about in terms of team culture and how we can make it stronger even without a physical office.](https://dev.to/jackied0minguez/this-gave-me-a-lot-to-think-about-in-terms-of-team-culture-and-how-we-can-make-it-stronger-even-5h9b)
-- [This reflection helped me think differently about remote work and how leaders should build for sustainability.](https://dev.to/jackied0minguez/this-reflection-helped-me-think-differently-about-remote-work-and-how-leaders-should-build-for-1bae)
-- [From Data to Delight: Using n8n and LLMs to Automate Insightful Weather Updates](https://dev.to/collardeau/from-data-to-delight-using-n8n-and-llms-to-automate-insightful-weather-updates-55m4)
+- [As a remote team lead, I found myself nodding through this whole post. Totally aligned.](https://dev.to/richards_l52689/as-a-remote-team-lead-i-found-myself-nodding-through-this-whole-post-totally-aligned-ihi)
+- [HarmonyOS Next Advanced Data Management Development Guide](https://dev.to/liu_yang_fc0e605820ac220c/harmonyos-next-advanced-data-management-development-guide-1kd3)
+- [Identiverse 2025: Trust, Delegation, and the Era of Continuous Identity](https://dev.to/dwayne_mcdaniel/identiverse-2025-trust-delegation-and-the-era-of-continuous-identity-30g0)
+- [🔍 Your .env file shouldn’t be a mystery box.](https://dev.to/suhel_withai_8db26993d99/your-env-file-shouldnt-be-a-mystery-box-5ij)
+- [Practical Development of Dynamic Styles and Themes in HarmonyOS Next](https://dev.to/liu_yang_fc0e605820ac220c/practical-development-of-dynamic-styles-and-themes-in-harmonyos-next-4oe2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
