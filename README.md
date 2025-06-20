@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wiremock + testcontainers + Algolia + Go = ❤️](https://dev.to/manomano-tech-team/wiremock-testcontainers-algolia-go--3hn7)
-- [Azure Fundamentals: Microsoft.BlockchainTokens](https://dev.to/devops_fundamental/azure-fundamentals-microsoftblockchaintokens-4i19)
-- [Understanding @layer and Cascade Layers in CSS](https://dev.to/mechcloud_academy/understanding-layer-and-cascade-layers-in-css-f2k)
-- [How to Build a Successful App Business from Scratch in 2025](https://dev.to/william_roberts_fc2bfc1dc/how-to-build-a-successful-app-business-from-scratch-in-2025-4k0k)
-- [Azure Fundamentals: Microsoft.Blockchain](https://dev.to/devops_fundamental/azure-fundamentals-microsoftblockchain-1jf)
+- [🧠 You&#39;re Trusting `localStorage`… You Shouldn’t 😬](https://dev.to/00rvn00/youre-trusting-localstorage-you-shouldnt-26g3)
+- [IBM Fundamentals: Ansible Collection Ibm](https://dev.to/devopsfundamentals/ibm-fundamentals-ansible-collection-ibm-1glk)
+- [Azure Fundamentals: Microsoft.CertificateRegistration](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcertificateregistration-56o1)
+- [🌟 Latest CSS Features in 2024-2025: What&#39;s New and Exciting?](https://dev.to/prathamisonline/latest-css-features-in-2024-2025-whats-new-and-exciting-3ojj)
+- [HUAWEI DevEco Kit Features](https://dev.to/hmosdevelopers/huawei-deveco-kit-features-3m3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
