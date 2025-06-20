@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to market tech startups. Week 1: TAM and SAM](https://dev.to/bellechase/how-to-market-tech-startups-week-1-tam-and-sam-295k)
-- [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://dev.to/gg_news/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-154g)
-- [Red Dead Redemption 2 May Soon Be Headed To New Platforms, According To Tease from John Marston&#39;s Voice Actor](https://dev.to/gg_news/red-dead-redemption-2-may-soon-be-headed-to-new-platforms-according-to-tease-from-john-marstons-5bm4)
-- [Onimusha: Way of the Sword Won&#39;t Be Open-World Or Souls-Like, Promises Director](https://dev.to/gg_news/onimusha-way-of-the-sword-wont-be-open-world-or-souls-like-promises-director-hfk)
-- [Borderlands 4 pre-orders open at $70, avoiding feared $80 price tag](https://dev.to/gg_news/borderlands-4-pre-orders-open-at-70-avoiding-feared-80-price-tag-kb5)
+- [Azure Fundamentals: Microsoft.DBforPostgreSQL](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdbforpostgresql-588)
+- [Meeting to Google Docs](https://dev.to/shravzzv/meeting-to-google-docs-a0g)
+- [Red Dead Redemption 2 May Soon Be Headed To New Platforms, According To Tease from John Marston&#39;s Voice Actor](https://dev.to/gg_news/red-dead-redemption-2-may-soon-be-headed-to-new-platforms-according-to-tease-from-john-marstons-4p80)
+- [Title: Why Getting a Software Developer Job in 2025 Sucks &lpar;But We Still Do It Anyway&rpar;](https://dev.to/pranta/title-why-getting-a-software-developer-job-in-2025-sucks-but-we-still-do-it-anyway-1el3)
+- [Nier creator Yoko Taro reveals the sad reality of modern AAA game development, “there&#39;s less weird people making games”](https://dev.to/gg_news/nier-creator-yoko-taro-reveals-the-sad-reality-of-modern-aaa-game-development-theres-less-weird-2313)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
