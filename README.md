@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;never&quot; Type in PHP](https://dev.to/ashallendesign/the-never-type-in-php-49e1)
-- [Devops isn’t broken it just hurts more than we admit](https://dev.to/devlinktips/devops-isnt-broken-it-just-hurts-more-than-we-admit-3ge)
-- [Por que Acessibilidade Importa? Entenda o Essencial para Apps Mais Inclusivos](https://dev.to/gabrielteixeira44/por-que-acessibilidade-importa-entenda-o-essencial-para-apps-mais-inclusivos-4goh)
-- [How Bad Code and Product Flaws Killed Myspace A Developer’s Survival Guide](https://dev.to/devlinktips/how-bad-code-and-product-flaws-killed-myspace-a-developers-survival-guide-37i5)
-- [AWS Fundamentals: Bcm Data Exports](https://dev.to/devops_fundamental/aws-fundamentals-bcm-data-exports-5830)
+- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（下）—— 实战应用](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-xia-shi-zhan-ying-yong-2j06)
+- [Lambda Fluid Simulation Series, Part 1: The Stability Paradox vs. Navier-Stokes](https://dev.to/miosyncmasa/lambda3-fluid-simulation-series-part-1-the-stability-paradox-vs-navier-stokes-57e1)
+- [📝 Beginner-Friendly Guide &quot;Maximum Manhattan Distance After K Changes&quot; LeetCode 3443 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-manhattan-distance-after-k-changes-leetcode-3443-c-python-1bjh)
+- [GCP Fundamentals: Admin SDK API](https://dev.to/devops_fundamental/gcp-fundamentals-admin-sdk-api-ibb)
+- [ShowDev: I built Hexto – a color converter &amp; accessibility tool for designers/devs](https://dev.to/elhoucine_ousidiali_fae35/showdev-i-built-hexto-a-color-converter-accessibility-tool-for-designersdevs-3fkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
