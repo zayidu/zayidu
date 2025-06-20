@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Manage &amp; Troubleshoot EKS Cluster Like a Pro Using kubectl-AI⚡](https://dev.to/aws-builders/manage-troubleshoot-eks-cluster-like-a-pro-using-kubectl-ai-5205)
-- [IBM Fundamentals: Cf Deployment Tracker Client Electron](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-electron-2mjd)
-- [AI Powered WebChat: Revolutionizing Web Browsing with an AI-Powered Chrome Extension](https://dev.to/anandsingh01/ai-powered-webchat-revolutionizing-web-browsing-with-an-ai-powered-chrome-extension-1la2)
-- [Snapshot Strategies: Optimizing Event Replays](https://dev.to/alex_aslam/snapshot-strategies-optimizing-event-replays-36oo)
-- [Zero Trust, One Router: Hardening Your Home Lab Like a Cyber Fortress.](https://dev.to/devlinktips/zero-trust-one-router-hardening-your-home-lab-like-a-cyber-fortress-492k)
+- [How Discord Uses Event Sourcing for Message History](https://dev.to/alex_aslam/how-discord-uses-event-sourcing-for-message-history-3n9h)
+- [IBM Fundamentals: Cf Deployment Tracker Client Node](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-node-145f)
+- [AWS Fundamentals: Codestar](https://dev.to/devopsfundamentals/aws-fundamentals-codestar-3l1)
+- [GCP Fundamentals: Cloud Billing API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-billing-api-ekc)
+- [# SandboxAQ Releases Massive Synthetic Molecule Dataset to Accelerate AI Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/-sandboxaq-releases-massive-synthetic-molecule-dataset-to-accelerate-ai-drug-discovery-4hf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
