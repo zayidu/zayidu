@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #239: ViewTransition, Suspense, use-mcp, Compiler, Intl-T | 0.80, Stable APIs, iOS prebuilds, shadcn, Expo...](https://dev.to/sebastienlorber/this-week-in-react-239-viewtransition-suspense-use-mcp-compiler-intl-t-080-stable-apis-4k8k)
-- [How to Produce Voice-Over Files for Articulate](https://dev.to/liamcorwin/how-to-produce-voice-over-files-for-articulate-47e7)
-- [Azure Fundamentals: Microsoft.Compute](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcompute-352b)
-- [Certified Cloud Native Platform Engineering Associate Exam: Know Before You Go](https://dev.to/muyidevops/certified-cloud-native-platform-engineering-associate-exam-know-before-you-go-4nh2)
-- [Hosteldelivery.html](https://dev.to/raymond3446/hosteldeliveryhtml-3pof)
+- [The Art of Saying No: Creating Boundaries and Systems as a Creative Freelancer](https://dev.to/codanyks/the-art-of-saying-no-creating-boundaries-and-systems-as-a-creative-freelancer-4ga4)
+- [The Heartbeat of Modern Web Applications（1750425506005500）](https://dev.to/member_c6d11ca9/the-heartbeat-of-modern-web-applications1750425506005500-1ha3)
+- [The Role of Cloud Security in a Digital Age](https://dev.to/mattylantz/the-role-of-cloud-security-in-a-digital-age-3i15)
+- [The Zen of Python Principles That Inspire Me as I Learn Python Programming for Cybersecurity](https://dev.to/ekennanna/the-zen-of-python-principles-that-inspire-me-as-i-learn-python-programming-for-cybersecurity-22ka)
+- [Advanced SwiftUI Animations &lpar;2025 Guide&rpar;](https://dev.to/swift_pal/advanced-swiftui-animations-2025-guide-2ekd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
