@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Getting Started with the KuCoin API Using kucoin-api &lpar;Node.js SDK&rpar;](https://dev.to/favee042/getting-started-with-the-kucoin-api-using-kucoin-api-nodejs-sdk-cfm)
-- [🚀 Building a Real-Time Notification Service with FastAPI, Redis Streams, and WebSockets](https://dev.to/geetnsh2k1/building-a-real-time-notification-service-with-fastapi-redis-streams-and-websockets-52ib)
-- [⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt](https://dev.to/nikita_rykhlov/go-tools-password-hashing-with-argon2-instead-of-bcrypt-38aj)
-- [GCP Fundamentals: Assured Workloads API](https://dev.to/devops_fundamental/gcp-fundamentals-assured-workloads-api-54cj)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `25`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-25-3817)
+- [This Week In React #239: ViewTransition, Suspense, use-mcp, Compiler, Intl-T | 0.80, Stable APIs, iOS prebuilds, shadcn, Expo...](https://dev.to/sebastienlorber/this-week-in-react-239-viewtransition-suspense-use-mcp-compiler-intl-t-080-stable-apis-4k8k)
+- [How to Produce Voice-Over Files for Articulate](https://dev.to/liamcorwin/how-to-produce-voice-over-files-for-articulate-47e7)
+- [Azure Fundamentals: Microsoft.Compute](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcompute-352b)
+- [Certified Cloud Native Platform Engineering Associate Exam: Know Before You Go](https://dev.to/muyidevops/certified-cloud-native-platform-engineering-associate-exam-know-before-you-go-4nh2)
+- [Hosteldelivery.html](https://dev.to/raymond3446/hosteldeliveryhtml-3pof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
