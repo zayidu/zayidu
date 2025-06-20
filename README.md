@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArtistAssistApp&#39;s June 2025 Update is Here!](https://dev.to/eugene-khyst/artistassistapps-june-2025-update-is-here-5hn3)
-- [The Turbo Way to Talk Native: React Native’s New Bridging System](https://dev.to/amitkumar13/the-turbo-way-to-talk-native-react-natives-new-bridging-system-2nh8)
-- [How I Deployed an EC2 Instance with Apache: A Step-by-Step Guide 🚀](https://dev.to/oluwatobiloba_oludare1/how-i-deployed-an-ec2-instance-with-apache-a-step-by-step-guide-39eh)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750445353992600）](https://dev.to/member_c6d11ca9/junior-year-self-study-notes-my-journey-with-the-framework1750445353992600-1jg)
-- [IBM Fundamentals: Bluemix Ti Board Starter](https://dev.to/devopsfundamentals/ibm-fundamentals-bluemix-ti-board-starter-4hni)
+- [Architecture（1750450141024900）](https://dev.to/member_c6d11ca9/architecture1750450141024900-4h2j)
+- [Understanding redis.conf: How to Configure Your Redis Server](https://dev.to/rijultp/understanding-redisconf-how-to-configure-your-redis-server-38lf)
+- [IBM Fundamentals: CRUD PHP Codeigniter Bluemix](https://dev.to/devopsfundamentals/ibm-fundamentals-crud-php-codeigniter-bluemix-4lag)
+- [Introduction to IAM in OCI](https://dev.to/vishnu_rachapudi_75e73248/introduction-to-iam-in-oci-1ffi)
+- [Azure Fundamentals: Microsoft.DataShare](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdatashare-489k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
