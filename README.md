@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（下）—— 实战应用](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-xia-shi-zhan-ying-yong-2j06)
-- [Lambda Fluid Simulation Series, Part 1: The Stability Paradox vs. Navier-Stokes](https://dev.to/miosyncmasa/lambda3-fluid-simulation-series-part-1-the-stability-paradox-vs-navier-stokes-57e1)
-- [📝 Beginner-Friendly Guide &quot;Maximum Manhattan Distance After K Changes&quot; LeetCode 3443 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-manhattan-distance-after-k-changes-leetcode-3443-c-python-1bjh)
-- [GCP Fundamentals: Admin SDK API](https://dev.to/devops_fundamental/gcp-fundamentals-admin-sdk-api-ibb)
-- [ShowDev: I built Hexto – a color converter &amp; accessibility tool for designers/devs](https://dev.to/elhoucine_ousidiali_fae35/showdev-i-built-hexto-a-color-converter-accessibility-tool-for-designersdevs-3fkc)
+- [Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models](https://dev.to/sharon_42e16b8da44dabde6d/ollama-exposed-unauthenticated-access-vulnerability-could-leak-your-llm-models-1dpo)
+- [Day 11 : FastAPI Auth: Login with JWT &amp; Route Protection](https://dev.to/awslearnerdaily/day-11-fastapi-auth-login-with-jwt-route-protection-3boe)
+- [Azure Fundamentals: Microsoft.AutonomousSystems](https://dev.to/devops_fundamental/azure-fundamentals-microsoftautonomoussystems-2in0)
+- [New Release: Lambda Bayesian Causality Detection &amp; Event Forecasting](https://dev.to/miosyncmasa/new-release-lambda3-bayesian-causality-detection-event-forecasting-52i2)
+- [[Boost]](https://dev.to/gillarohith/-3nkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
