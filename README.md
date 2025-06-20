@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Solve a Rubik’s Cube Using 3D CAD Software](https://dev.to/julia970/how-to-solve-a-rubiks-cube-using-3d-cad-software-258)
-- [Achieve Zero‑Downtime Deployment: Strategies and Best Practices](https://dev.to/zopdev/achieve-zero-downtime-deployment-strategies-and-best-practices-36ea)
-- [What Is Machine Learning Automation &lpar;AutoML&rpar;](https://dev.to/lambdatest/what-is-machine-learning-automation-automl-677)
-- [Merits of on-prem real device and real device cloud for mobile app testing](https://dev.to/keaganhaney/merits-of-on-prem-real-device-and-real-device-cloud-for-mobile-app-testing-fm)
-- [Top Cloud Platform Providers &lpar;2025&rpar;](https://dev.to/davinceleecode/top-cloud-platform-providers-2025-le1)
+- [Day #3 Bolt hackathon](https://dev.to/paako/day-3-bolt-hackathon-17cc)
+- [Beyond Code: Why I Build Apps with a Human Purpose](https://dev.to/dilip_kumardk_b41b9418/beyond-code-why-i-build-apps-with-a-human-purpose-59i7)
+- [Crafting Perfect Cold Messages: My AI-Powered Streamlit App Journey 🧊](https://dev.to/asutoshk_09/crafting-perfect-cold-messages-my-ai-powered-streamlit-app-journey-4i36)
+- [Data Comparison between Different Types of Databases-SPL Practice](https://dev.to/esproc_spl/data-comparison-between-different-types-of-databases-spl-practice-2g6h)
+- [The Dueling Titans: How the US and Japan Forge Their Distinct Paths in Tech Innovation](https://dev.to/ashikur_rahmannazil93/the-dueling-titans-how-the-us-and-japan-forge-their-distinct-paths-in-tech-innovation-57am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
