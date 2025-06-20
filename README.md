@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Saying No: Creating Boundaries and Systems as a Creative Freelancer](https://dev.to/codanyks/the-art-of-saying-no-creating-boundaries-and-systems-as-a-creative-freelancer-4ga4)
-- [The Heartbeat of Modern Web Applications（1750425506005500）](https://dev.to/member_c6d11ca9/the-heartbeat-of-modern-web-applications1750425506005500-1ha3)
-- [The Role of Cloud Security in a Digital Age](https://dev.to/mattylantz/the-role-of-cloud-security-in-a-digital-age-3i15)
-- [The Zen of Python Principles That Inspire Me as I Learn Python Programming for Cybersecurity](https://dev.to/ekennanna/the-zen-of-python-principles-that-inspire-me-as-i-learn-python-programming-for-cybersecurity-22ka)
-- [Advanced SwiftUI Animations &lpar;2025 Guide&rpar;](https://dev.to/swift_pal/advanced-swiftui-animations-2025-guide-2ekd)
+- [IBM Fundamentals: BigInsights On Apache Hadoop](https://dev.to/devopsfundamentals/ibm-fundamentals-biginsights-on-apache-hadoop-2gle)
+- [JavaScript Basics](https://dev.to/ramya_kamalasekaran/javascript-basics-41mh)
+- [GCP Fundamentals: BigLake API](https://dev.to/devopsfundamentals/gcp-fundamentals-biglake-api-2163)
+- [Why TSMC’s 2nm Process Node is Set to Reshape the Semiconductor Industry](https://dev.to/clioxie121/why-tsmcs-2nm-process-node-is-set-to-reshape-the-semiconductor-industry-4df9)
+- [🐦🐰 I Built Two Games in 4 Hours Using Amazon Q CLI !](https://dev.to/disha_t/i-built-two-games-in-4-hours-using-amazon-q-cli--24lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
