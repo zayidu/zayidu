@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecture（1750450141024900）](https://dev.to/member_c6d11ca9/architecture1750450141024900-4h2j)
-- [Understanding redis.conf: How to Configure Your Redis Server](https://dev.to/rijultp/understanding-redisconf-how-to-configure-your-redis-server-38lf)
-- [IBM Fundamentals: CRUD PHP Codeigniter Bluemix](https://dev.to/devopsfundamentals/ibm-fundamentals-crud-php-codeigniter-bluemix-4lag)
-- [Introduction to IAM in OCI](https://dev.to/vishnu_rachapudi_75e73248/introduction-to-iam-in-oci-1ffi)
-- [Azure Fundamentals: Microsoft.DataShare](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdatashare-489k)
+- [Stay Current Without the Overwhelm: Why The Download Should Be Your Go-To Tech Update ⚡️](https://dev.to/andreagriffiths11/stay-current-without-the-overwhelm-why-the-download-should-be-your-go-to-tech-update-5a36)
+- [🚀 Laravel Migration Generator – Now with PostgreSQL and MSSQL Support](https://dev.to/n3xt0r/laravel-migration-generator-now-with-postgresql-and-mssql-support-2m24)
+- [Security news weekly round-up - 20th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-20th-june-2025-ol3)
+- [Nomadic Infrastructure Design for AI Workloads](https://dev.to/tigrisdata/nomadic-infrastructure-design-for-ai-workloads-2aaf)
+- [Operations Order with Asynchronous JavaScript](https://dev.to/muszynov/console-log-order-with-asynchronous-javascript-43i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
