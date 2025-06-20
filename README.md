@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Juneteenth Freedom Day](https://dev.to/aniruddhaadak/juneteenth-freedom-day-1dj8)
-- [Azure Fundamentals: Microsoft.AzureData](https://dev.to/devops_fundamental/azure-fundamentals-microsoftazuredata-11i0)
-- [Laravel Mid-Level Interview Questions 2025](https://dev.to/laravel_dailytips_ff21cc/laravel-mid-level-interview-questions-2025-1j3m)
-- [How to Write an IT Asset Manager Job Description That Attracts Top Talent](https://dev.to/jennifer_devsamurai/how-to-write-an-it-asset-manager-job-description-that-attracts-top-talent-1b55)
-- [Хороший продукт не заставляет о себе говорить](https://dev.to/dmkjfs/khoroshii-produkt-nie-zastavliaiet-o-siebie-ghovorit-jpb)
+- [How to Solve a Rubik’s Cube Using 3D CAD Software](https://dev.to/julia970/how-to-solve-a-rubiks-cube-using-3d-cad-software-258)
+- [Achieve Zero‑Downtime Deployment: Strategies and Best Practices](https://dev.to/zopdev/achieve-zero-downtime-deployment-strategies-and-best-practices-36ea)
+- [What Is Machine Learning Automation &lpar;AutoML&rpar;](https://dev.to/lambdatest/what-is-machine-learning-automation-automl-677)
+- [Merits of on-prem real device and real device cloud for mobile app testing](https://dev.to/keaganhaney/merits-of-on-prem-real-device-and-real-device-cloud-for-mobile-app-testing-fm)
+- [Top Cloud Platform Providers &lpar;2025&rpar;](https://dev.to/davinceleecode/top-cloud-platform-providers-2025-le1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
