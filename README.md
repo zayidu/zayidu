@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.DBforPostgreSQL](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdbforpostgresql-588)
-- [Meeting to Google Docs](https://dev.to/shravzzv/meeting-to-google-docs-a0g)
-- [Red Dead Redemption 2 May Soon Be Headed To New Platforms, According To Tease from John Marston&#39;s Voice Actor](https://dev.to/gg_news/red-dead-redemption-2-may-soon-be-headed-to-new-platforms-according-to-tease-from-john-marstons-4p80)
-- [Title: Why Getting a Software Developer Job in 2025 Sucks &lpar;But We Still Do It Anyway&rpar;](https://dev.to/pranta/title-why-getting-a-software-developer-job-in-2025-sucks-but-we-still-do-it-anyway-1el3)
-- [Nier creator Yoko Taro reveals the sad reality of modern AAA game development, “there&#39;s less weird people making games”](https://dev.to/gg_news/nier-creator-yoko-taro-reveals-the-sad-reality-of-modern-aaa-game-development-theres-less-weird-2313)
+- [Implementing Log File Rotation in Go: Insights from logrus, zap, and slog](https://dev.to/leapcell/implementing-log-file-rotation-in-go-insights-from-logrus-zap-and-slog-5b9o)
+- [Bad Interview, Good Practice](https://dev.to/oculus42/bad-interview-good-practice-2pjm)
+- [World Sea Turtle Day](https://dev.to/aniruddhaadak/world-sea-turtle-day-4b4l)
+- [Security（1750441935790500）](https://dev.to/member_c6d11ca9/security1750441935790500-64l)
+- [Azure Fundamentals: Microsoft.DataBoxEdge](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdataboxedge-4cdi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
