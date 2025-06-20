@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Log File Rotation in Go: Insights from logrus, zap, and slog](https://dev.to/leapcell/implementing-log-file-rotation-in-go-insights-from-logrus-zap-and-slog-5b9o)
-- [Bad Interview, Good Practice](https://dev.to/oculus42/bad-interview-good-practice-2pjm)
-- [World Sea Turtle Day](https://dev.to/aniruddhaadak/world-sea-turtle-day-4b4l)
-- [Security（1750441935790500）](https://dev.to/member_c6d11ca9/security1750441935790500-64l)
-- [Azure Fundamentals: Microsoft.DataBoxEdge](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdataboxedge-4cdi)
+- [ArtistAssistApp&#39;s June 2025 Update is Here!](https://dev.to/eugene-khyst/artistassistapps-june-2025-update-is-here-5hn3)
+- [The Turbo Way to Talk Native: React Native’s New Bridging System](https://dev.to/amitkumar13/the-turbo-way-to-talk-native-react-natives-new-bridging-system-2nh8)
+- [How I Deployed an EC2 Instance with Apache: A Step-by-Step Guide 🚀](https://dev.to/oluwatobiloba_oludare1/how-i-deployed-an-ec2-instance-with-apache-a-step-by-step-guide-39eh)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750445353992600）](https://dev.to/member_c6d11ca9/junior-year-self-study-notes-my-journey-with-the-framework1750445353992600-1jg)
+- [IBM Fundamentals: Bluemix Ti Board Starter](https://dev.to/devopsfundamentals/ibm-fundamentals-bluemix-ti-board-starter-4hni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
