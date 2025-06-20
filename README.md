@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models](https://dev.to/sharon_42e16b8da44dabde6d/ollama-exposed-unauthenticated-access-vulnerability-could-leak-your-llm-models-1dpo)
-- [Day 11 : FastAPI Auth: Login with JWT &amp; Route Protection](https://dev.to/awslearnerdaily/day-11-fastapi-auth-login-with-jwt-route-protection-3boe)
-- [Azure Fundamentals: Microsoft.AutonomousSystems](https://dev.to/devops_fundamental/azure-fundamentals-microsoftautonomoussystems-2in0)
-- [New Release: Lambda Bayesian Causality Detection &amp; Event Forecasting](https://dev.to/miosyncmasa/new-release-lambda3-bayesian-causality-detection-event-forecasting-52i2)
-- [[Boost]](https://dev.to/gillarohith/-3nkj)
+- [Cada equipe tem a sua história e seu caminho. Onde possível, compartilhe.](https://dev.to/umovme/cada-equipe-tem-a-sua-historia-e-seu-caminho-onde-possivel-compartilhe-4c2n)
+- [Redis on AWS Made Easy: Compare, Choose, and Launch with ElastiCache for Free](https://dev.to/aarush07/redis-on-aws-made-easy-compare-choose-and-launch-with-elasticache-for-free-3mb5)
+- [Learn how Choreo could empower developer productivity.](https://dev.to/menakaj/-4jh9)
+- [Unlocking the AI Black Box: The Power of Time-Series Databases for Observability](https://dev.to/vaib/unlocking-the-ai-black-box-the-power-of-time-series-databases-for-observability-10k)
+- [Deep Learning NER: Your Essential Resource List for Named Entity Recognition in NLP](https://dev.to/vaib/deep-learning-ner-your-essential-resource-list-for-named-entity-recognition-in-nlp-11j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
