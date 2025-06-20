@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Syntax in SAP UI5](https://dev.to/lehonglong2411/amd-syntax-in-sap-ui5-4p7f)
-- [Trust Over Throttle: Leveraging o3-Pro for Accurate, Impactful AI](https://dev.to/qvfagundes/trust-over-throttle-leveraging-o3-pro-for-accurate-impactful-ai-3ack)
-- [ITIL &amp; PRINCE2: Making Service Management and Project Success Work Together](https://dev.to/borisgigovic/itil-prince2-making-service-management-and-project-success-work-together-53kb)
-- [CodePen #Challenge: Visualizing McDonald’s Menu with Free Pivot Grid Library 👩🏼‍💻📊🍔](https://dev.to/daria_filozop_bfe6aa68940/codepen-challenge-visualizing-mcdonalds-menu-with-free-pivot-grid-library-4nec)
-- [Comprehensive Guide to HarmonyOS ArkWeb Development](https://dev.to/moyantianwang/comprehensive-guide-to-harmonyos-arkweb-development-45aj)
+- [🧪 Getting Started with the KuCoin API Using kucoin-api &lpar;Node.js SDK&rpar;](https://dev.to/favee042/getting-started-with-the-kucoin-api-using-kucoin-api-nodejs-sdk-cfm)
+- [🚀 Building a Real-Time Notification Service with FastAPI, Redis Streams, and WebSockets](https://dev.to/geetnsh2k1/building-a-real-time-notification-service-with-fastapi-redis-streams-and-websockets-52ib)
+- [⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt](https://dev.to/nikita_rykhlov/go-tools-password-hashing-with-argon2-instead-of-bcrypt-38aj)
+- [GCP Fundamentals: Assured Workloads API](https://dev.to/devops_fundamental/gcp-fundamentals-assured-workloads-api-54cj)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `25`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-25-3817)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
