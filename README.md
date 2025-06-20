@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Current Without the Overwhelm: Why The Download Should Be Your Go-To Tech Update ⚡️](https://dev.to/andreagriffiths11/stay-current-without-the-overwhelm-why-the-download-should-be-your-go-to-tech-update-5a36)
-- [🚀 Laravel Migration Generator – Now with PostgreSQL and MSSQL Support](https://dev.to/n3xt0r/laravel-migration-generator-now-with-postgresql-and-mssql-support-2m24)
-- [Security news weekly round-up - 20th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-20th-june-2025-ol3)
-- [Nomadic Infrastructure Design for AI Workloads](https://dev.to/tigrisdata/nomadic-infrastructure-design-for-ai-workloads-2aaf)
-- [Operations Order with Asynchronous JavaScript](https://dev.to/muszynov/console-log-order-with-asynchronous-javascript-43i0)
+- [🛠️ Manage &amp; Troubleshoot EKS Cluster Like a Pro Using kubectl-AI⚡](https://dev.to/aws-builders/manage-troubleshoot-eks-cluster-like-a-pro-using-kubectl-ai-5205)
+- [IBM Fundamentals: Cf Deployment Tracker Client Electron](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-electron-2mjd)
+- [AI Powered WebChat: Revolutionizing Web Browsing with an AI-Powered Chrome Extension](https://dev.to/anandsingh01/ai-powered-webchat-revolutionizing-web-browsing-with-an-ai-powered-chrome-extension-1la2)
+- [Snapshot Strategies: Optimizing Event Replays](https://dev.to/alex_aslam/snapshot-strategies-optimizing-event-replays-36oo)
+- [Zero Trust, One Router: Hardening Your Home Lab Like a Cyber Fortress.](https://dev.to/devlinktips/zero-trust-one-router-hardening-your-home-lab-like-a-cyber-fortress-492k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
