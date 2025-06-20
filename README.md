@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cada equipe tem a sua história e seu caminho. Onde possível, compartilhe.](https://dev.to/umovme/cada-equipe-tem-a-sua-historia-e-seu-caminho-onde-possivel-compartilhe-4c2n)
-- [Redis on AWS Made Easy: Compare, Choose, and Launch with ElastiCache for Free](https://dev.to/aarush07/redis-on-aws-made-easy-compare-choose-and-launch-with-elasticache-for-free-3mb5)
-- [Learn how Choreo could empower developer productivity.](https://dev.to/menakaj/-4jh9)
-- [Unlocking the AI Black Box: The Power of Time-Series Databases for Observability](https://dev.to/vaib/unlocking-the-ai-black-box-the-power-of-time-series-databases-for-observability-10k)
-- [Deep Learning NER: Your Essential Resource List for Named Entity Recognition in NLP](https://dev.to/vaib/deep-learning-ner-your-essential-resource-list-for-named-entity-recognition-in-nlp-11j8)
+- [Juneteenth Freedom Day](https://dev.to/aniruddhaadak/juneteenth-freedom-day-1dj8)
+- [Azure Fundamentals: Microsoft.AzureData](https://dev.to/devops_fundamental/azure-fundamentals-microsoftazuredata-11i0)
+- [Laravel Mid-Level Interview Questions 2025](https://dev.to/laravel_dailytips_ff21cc/laravel-mid-level-interview-questions-2025-1j3m)
+- [How to Write an IT Asset Manager Job Description That Attracts Top Talent](https://dev.to/jennifer_devsamurai/how-to-write-an-it-asset-manager-job-description-that-attracts-top-talent-1b55)
+- [Хороший продукт не заставляет о себе говорить](https://dev.to/dmkjfs/khoroshii-produkt-nie-zastavliaiet-o-siebie-ghovorit-jpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
