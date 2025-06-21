@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 4 - You&#39;re not stuck, you just skipped the basics: Threads, processes and why your app “freezes”](https://dev.to/adamsnows/week-4-youre-not-stuck-you-just-skipped-the-basics-threads-processes-and-why-your-app-954)
-- [Azure Fundamentals: Microsoft.NotificationHubs](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftnotificationhubs-2fp6)
-- [Ubuntu Fundamentals: GRUB](https://dev.to/devopsfundamentals/ubuntu-fundamentals-grub-2j60)
-- [Kafka Fundamentals: kafka cluster](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cluster-56fp)
-- [NodeJS Fundamentals: side effect](https://dev.to/devopsfundamentals/nodejs-fundamentals-side-effect-1neo)
+- [GCP Fundamentals: Cloud Pub/Sub API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-pubsub-api-26kd)
+- [How to Install and Run MonkeyOCR Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-monkeyocr-locally-1k2e)
+- [VMware Fundamentals: Harbor Boshrelease](https://dev.to/devopsfundamentals/vmware-fundamentals-harbor-boshrelease-mg8)
+- [Python Fundamentals: :=](https://dev.to/devopsfundamentals/python-fundamentals--2fla)
+- [Ubuntu Fundamentals: systemd](https://dev.to/devopsfundamentals/ubuntu-fundamentals-systemd-459l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
