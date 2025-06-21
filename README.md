@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Sketchbook to meks.quest](https://dev.to/meksquest/from-sketchbook-to-meksquest-111p)
-- [Frustrated with Static Feedback? See How YAP Delivers Real-Time Results](https://dev.to/yap2learn/frustrated-with-static-feedback-see-how-yap-delivers-real-time-results-4458)
-- [EXCEL KEY ASPECTS FOR DATA ANALYSIS](https://dev.to/john_analytics/excel-key-aspects-for-data-analysis-375k)
-- [What is pure function?](https://dev.to/kittichanr/what-is-pure-function-518)
-- [NodeJS Fundamentals: Node.js](https://dev.to/devopsfundamentals/nodejs-fundamentals-nodejs-1hib)
+- [RunnerChallenge](https://dev.to/jeraldfelix/runnerchallenge-2959)
+- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/jimmyyouhei/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
+- [NodeJS Fundamentals: event loop](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-loop-5dgc)
+- [The Future of IT Operations: Self-Healing Systems with AIOps and Generative AI](https://dev.to/vaib/the-future-of-it-operations-self-healing-systems-with-aiops-and-generative-ai-gdi)
+- [Ultimate Minimal MVC Architecture in Flutter Using GetX — Modular, Fast &amp; Clean](https://dev.to/alex_codex_dev/ultimate-minimal-mvc-architecture-in-flutter-using-getx-modular-fast-clean-326b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
