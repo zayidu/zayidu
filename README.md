@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: let](https://dev.to/devopsfundamentals/nodejs-fundamentals-let-39km)
-- [We Built an AI Tool That Generates Full Backend Code from Plain English &lpar;Pipo360 v2&rpar;](https://dev.to/samuel_aondo_b3361b178e67/we-built-an-ai-tool-that-generates-full-backend-code-from-plain-english-pipo360-v2-34gn)
-- [Prototype Design Pattern](https://dev.to/zeeshanali0704/prototype-design-pattern-3i95)
-- [Why Lightweight Web Apps Still Matter in a Heavier Digital World](https://dev.to/seddek_britain_0c38299131/why-lightweight-web-apps-still-matter-in-a-heavier-digital-world-2i1n)
-- [Azure Fundamentals: Microsoft.ManagedServices](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmanagedservices-57c9)
+- [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
+- [Choosing the Best Linux Distribution for Embedded Systems](https://dev.to/clioxie121/choosing-the-best-linux-distribution-for-embedded-systems-5g01)
+- [Voxel Raycaster &lpar;Voxlap-style&rpar; with baked cubic PBS/PBR lighting C#](https://dev.to/joseph7f/voxel-raycaster-voxlap-style-with-baked-cubic-pbspbr-lighting-c-4m2d)
+- [Polyfill for a function to check if a value is a string!](https://dev.to/varadan13/polyfill-for-a-function-to-check-if-a-value-is-a-string-351d)
+- [Stack and Heap: Memory in Javascript](https://dev.to/indraphoton/stack-and-heap-memory-in-javascript-a25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
