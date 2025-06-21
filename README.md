@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.Maintenance](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmaintenance-2all)
-- [NodeJS Fundamentals: closure](https://dev.to/devopsfundamentals/nodejs-fundamentals-closure-3mhe)
-- [Unleashing the Power of Cloud Computing with Containers](https://dev.to/vjnvisakh/unleashing-the-power-of-cloud-computing-with-containers-c8m)
-- [Beginner&#39;s Guide to Deploying with Docker and GitHub Actions](https://dev.to/dhruvjoshi9/beginners-guide-to-deploying-with-docker-and-github-actions-41o)
-- [[Boost]](https://dev.to/justcallmealek/-54h8)
+- [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
+- [NodeJS Fundamentals: lexical scope](https://dev.to/devopsfundamentals/nodejs-fundamentals-lexical-scope-1mb4)
+- [Introducing Releasify Action — Announce GitHub Releases on Discord Effortlessly](https://dev.to/tene/introducing-releasify-action-announce-github-releases-on-discord-effortlessly-3132)
+- [IBM Fundamentals: Clouddatabases Helloworld Examples](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-helloworld-examples-4pfo)
+- [Modul Perulangan Dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/modul-perulangan-dalam-bahasa-earl-2pfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
