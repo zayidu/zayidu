@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Fundamentals: Microsoft.HanaOnAzure](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthanaonazure-251f)
+- [From React to SvelteKit: 3 &quot;Aha!&quot; Moments for a Skeptic](https://dev.to/lulumassagebh/from-react-to-sveltekit-3-aha-moments-for-a-skeptic-2dep)
 - [RunnerChallenge](https://dev.to/jeraldfelix/runnerchallenge-2959)
-- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/jimmyyouhei/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
+- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/skill-wanderer/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
 - [NodeJS Fundamentals: event loop](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-loop-5dgc)
-- [The Future of IT Operations: Self-Healing Systems with AIOps and Generative AI](https://dev.to/vaib/the-future-of-it-operations-self-healing-systems-with-aiops-and-generative-ai-gdi)
-- [Ultimate Minimal MVC Architecture in Flutter Using GetX — Modular, Fast &amp; Clean](https://dev.to/alex_codex_dev/ultimate-minimal-mvc-architecture-in-flutter-using-getx-modular-fast-clean-326b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
