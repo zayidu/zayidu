@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Switched from Framer Motion to GSAP](https://dev.to/worapon_jintajirakul/why-i-switched-from-framer-motion-to-gsap-597b)
-- [7 Essential English Vocabulary Words Every Developer Should Know &lpar;with Bengali Meaning&rpar;](https://dev.to/rafiqul_islamnoyon_be6/7-essential-english-vocabulary-words-every-developer-should-know-with-bengali-meaning-2gjh)
-- [VMware Fundamentals: Dscr For Vmware](https://dev.to/devopsfundamentals/vmware-fundamentals-dscr-for-vmware-4lbi)
-- [Building an AWS Summit Japan 2025 Mini Stage Schedule Viewer with Amazon Q CLI - Complete Implementation and Article Generation](https://dev.to/aws-builders/building-an-aws-summit-japan-2025-mini-stage-schedule-viewer-with-amazon-q-cli-complete-1ci7)
-- [IBM Fundamentals: Cloud Provider Vpc Controller](https://dev.to/devopsfundamentals/ibm-fundamentals-cloud-provider-vpc-controller-laj)
+- [Azure Fundamentals: Microsoft.Maintenance](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmaintenance-2all)
+- [NodeJS Fundamentals: closure](https://dev.to/devopsfundamentals/nodejs-fundamentals-closure-3mhe)
+- [Unleashing the Power of Cloud Computing with Containers](https://dev.to/vjnvisakh/unleashing-the-power-of-cloud-computing-with-containers-c8m)
+- [Beginner&#39;s Guide to Deploying with Docker and GitHub Actions](https://dev.to/dhruvjoshi9/beginners-guide-to-deploying-with-docker-and-github-actions-41o)
+- [[Boost]](https://dev.to/justcallmealek/-54h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
