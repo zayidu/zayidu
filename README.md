@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.Features](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftfeatures-3ki9)
-- [Mengenal Modul Fungsi: Cara Mendefinisikan dan Menjalankan Fungsi di Bahasa Earl](https://dev.to/dev_nazwashabrina/mengenal-modul-fungsi-cara-mendefinisikan-dan-menjalankan-fungsi-di-bahasa-earl-b6h)
-- [Developer Presence: The Underrated Skill for Focused &amp; Resilient Code](https://dev.to/tonystpierre/developer-presence-the-underrated-skill-for-focused-resilient-code-3nc4)
-- [Revolutionizing Cloud Cost Management: The Power of AI in FinOps](https://dev.to/vaib/revolutionizing-cloud-cost-management-the-power-of-ai-in-finops-3e2d)
-- [Unlocking Speed: Your Essential Guide to CDN Resources](https://dev.to/vaib/unlocking-speed-your-essential-guide-to-cdn-resources-3fli)
+- [From Sketchbook to meks.quest](https://dev.to/meksquest/from-sketchbook-to-meksquest-111p)
+- [Frustrated with Static Feedback? See How YAP Delivers Real-Time Results](https://dev.to/yap2learn/frustrated-with-static-feedback-see-how-yap-delivers-real-time-results-4458)
+- [EXCEL KEY ASPECTS FOR DATA ANALYSIS](https://dev.to/john_analytics/excel-key-aspects-for-data-analysis-375k)
+- [What is pure function?](https://dev.to/kittichanr/what-is-pure-function-518)
+- [NodeJS Fundamentals: Node.js](https://dev.to/devopsfundamentals/nodejs-fundamentals-nodejs-1hib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
