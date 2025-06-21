@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.HanaOnAzure](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthanaonazure-251f)
-- [From React to SvelteKit: 3 &quot;Aha!&quot; Moments for a Skeptic](https://dev.to/lulumassagebh/from-react-to-sveltekit-3-aha-moments-for-a-skeptic-2dep)
-- [RunnerChallenge](https://dev.to/jeraldfelix/runnerchallenge-2959)
-- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/skill-wanderer/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
-- [NodeJS Fundamentals: event loop](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-loop-5dgc)
+- [WWDC 2025 - Explore Swift and Java interoperability](https://dev.to/arshtechpro/wwdc-2025-explore-swift-and-java-interoperability-9j8)
+- [20+ Free React Admin Dashboard Templates](https://dev.to/wrap-pixel/20-free-react-admin-dashboard-templates-3ogm)
+- [WWDC 2025 - SwiftData iOS 26 - Class Inheritance &amp; Migration](https://dev.to/arshtechpro/wwdc-2025-swiftdata-ios-26-class-inheritance-migration-issues-30bh)
+- [Why .NET Maintains Strategic Relevance Amidst Java’s Open-Source Dominance](https://dev.to/thinh_nguyen_ecc6697b9d30/why-net-maintains-strategic-relevance-amidst-javas-open-source-dominance-hnb)
+- [Terraform Fundamentals: Amazon Q Business](https://dev.to/devopsfundamentals/terraform-fundamentals-amazon-q-business-218i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
