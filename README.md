@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Fundamentals: aioredis](https://dev.to/devopsfundamentals/python-fundamentals-aioredis-48li)
-- [GCP Fundamentals: Cloud Text-to-Speech API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-text-to-speech-api-3e2p)
-- [Azure Fundamentals: Microsoft.ServiceFabric](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftservicefabric-2jek)
-- [EventHub: The First 7 Weeks of Building Something Meaningful](https://dev.to/elmedina_sefedini_a405de4/eventhub-the-first-7-weeks-of-building-something-meaningful-ijo)
-- [Networking Fundamentals: Routing](https://dev.to/devopsfundamentals/networking-fundamentals-routing-28m0)
+- [Networking Fundamentals: Bridge](https://dev.to/devopsfundamentals/networking-fundamentals-bridge-23md)
+- [Python Fundamentals: any](https://dev.to/devopsfundamentals/python-fundamentals-any-3d3c)
+- [Ubuntu Fundamentals: dpkg-query](https://dev.to/devopsfundamentals/ubuntu-fundamentals-dpkg-query-2kfl)
+- [Networking Fundamentals: Switch](https://dev.to/devopsfundamentals/networking-fundamentals-switch-4702)
+- [Kafka Fundamentals: kafka controller](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-controller-njm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
