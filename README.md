@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Apps in der Immobilienbranche: Revolution für Investoren und Verwalter](https://dev.to/smartlandlord/mobile-apps-in-der-immobilienbranche-revolution-fur-investoren-und-verwalter-2a59)
-- [Online-Plattformen vs. traditionelle Makler: Die Disruption des Immobilienvertriebs](https://dev.to/smartlandlord/online-plattformen-vs-traditionelle-makler-die-disruption-des-immobilienvertriebs-2om0)
-- [NodeJS Fundamentals: call stack](https://dev.to/devopsfundamentals/nodejs-fundamentals-call-stack-17ed)
-- [Ubuntu Fundamentals: apt-get](https://dev.to/devopsfundamentals/ubuntu-fundamentals-apt-get-523h)
-- [VMware Fundamentals: Likewise Open](https://dev.to/devopsfundamentals/vmware-fundamentals-likewise-open-4h9e)
+- [SupportAI - Intelligent Customer Service Platform](https://dev.to/ariondev/supportai-intelligent-customer-service-platform-2jo9)
+- [Python Fundamentals: __getitem__](https://dev.to/devopsfundamentals/python-fundamentals-getitem-4hop)
+- [Azure Fundamentals: Microsoft.Relay](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftrelay-3lgl)
+- [NodeJS Fundamentals: event delegation](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-delegation-3ie0)
+- [IBM Fundamentals: Docs Services](https://dev.to/devopsfundamentals/ibm-fundamentals-docs-services-h4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
