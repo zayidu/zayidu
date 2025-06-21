@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Web API とは何か](https://dev.to/nabbisen/web-api-tohahe-ka-11li)
+- [Click on this Link](https://dev.to/umairshakoor/click-on-this-link-1a8n)
+- [5 ChatGPT Prompting Techniques That Boost Developer Productivity](https://dev.to/oluwawunmiadesewa/5-chatgpt-prompting-techniques-that-boost-developer-productivity-5aan)
+- [Understanding useSyncExternalStore Through Some Examples](https://dev.to/varadan13/understanding-usesyncexternalstore-through-some-examples-4m7c)
 - [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
-- [Choosing the Best Linux Distribution for Embedded Systems](https://dev.to/clioxie121/choosing-the-best-linux-distribution-for-embedded-systems-5g01)
-- [Voxel Raycaster &lpar;Voxlap-style&rpar; with baked cubic PBS/PBR lighting C#](https://dev.to/joseph7f/voxel-raycaster-voxlap-style-with-baked-cubic-pbspbr-lighting-c-4m2d)
-- [Polyfill for a function to check if a value is a string!](https://dev.to/varadan13/polyfill-for-a-function-to-check-if-a-value-is-a-string-351d)
-- [Stack and Heap: Memory in Javascript](https://dev.to/indraphoton/stack-and-heap-memory-in-javascript-a25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
