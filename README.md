@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Discord Uses Event Sourcing for Message History](https://dev.to/alex_aslam/how-discord-uses-event-sourcing-for-message-history-3n9h)
-- [IBM Fundamentals: Cf Deployment Tracker Client Node](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-node-145f)
-- [AWS Fundamentals: Codestar](https://dev.to/devopsfundamentals/aws-fundamentals-codestar-3l1)
-- [GCP Fundamentals: Cloud Billing API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-billing-api-ekc)
-- [# SandboxAQ Releases Massive Synthetic Molecule Dataset to Accelerate AI Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/-sandboxaq-releases-massive-synthetic-molecule-dataset-to-accelerate-ai-drug-discovery-4hf4)
+- [Azure Fundamentals: Microsoft.Features](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftfeatures-3ki9)
+- [Mengenal Modul Fungsi: Cara Mendefinisikan dan Menjalankan Fungsi di Bahasa Earl](https://dev.to/dev_nazwashabrina/mengenal-modul-fungsi-cara-mendefinisikan-dan-menjalankan-fungsi-di-bahasa-earl-b6h)
+- [Developer Presence: The Underrated Skill for Focused &amp; Resilient Code](https://dev.to/tonystpierre/developer-presence-the-underrated-skill-for-focused-resilient-code-3nc4)
+- [Revolutionizing Cloud Cost Management: The Power of AI in FinOps](https://dev.to/vaib/revolutionizing-cloud-cost-management-the-power-of-ai-in-finops-3e2d)
+- [Unlocking Speed: Your Essential Guide to CDN Resources](https://dev.to/vaib/unlocking-speed-your-essential-guide-to-cdn-resources-3fli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
