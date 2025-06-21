@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Just dropped a new glass variant in Crossbuild UI!](https://dev.to/gauravchadhry/just-dropped-a-new-glass-variant-in-crossbuild-ui-aj5)
-- [AWS Fundamentals: Cognito Sync](https://dev.to/devopsfundamentals/aws-fundamentals-cognito-sync-1chn)
-- [Terraform Fundamentals: App Runner](https://dev.to/devopsfundamentals/terraform-fundamentals-app-runner-681)
-- [⚙️ Vite vs Webpack – Modern Build Tools Compared &lpar;2025&rpar;](https://dev.to/mohitdecodes/vite-vs-webpack-modern-build-tools-compared-2025-26e)
-- [Restaurant &amp; Food Discovery App](https://dev.to/aniruddhaadak/restaurant-food-discovery-app-2eg3)
+- [Maximizing Education: Uncovering the Astonishing Benefits of Blended Learning in the Online Learning Landscape](https://dev.to/ghummantech/maximizing-education-uncovering-the-astonishing-benefits-of-blended-learning-in-the-online-5n8)
+- [Day 6: Coding with AI — A New Type of Pair Programmer](https://dev.to/nader_fh/day-6-coding-with-ai-a-new-type-of-pair-programmer-16al)
+- [AI-Powered IaC: Transforming Cloud Management with Intelligent Infrastructure](https://dev.to/vaib/ai-powered-iac-transforming-cloud-management-with-intelligent-infrastructure-2p85)
+- [Mastering Java Backend: 17 Essential Spring Boot Resources for Developers](https://dev.to/vaib/mastering-java-backend-17-essential-spring-boot-resources-for-developers-494b)
+- [IBM Fundamentals: Cloud Journey](https://dev.to/devopsfundamentals/ibm-fundamentals-cloud-journey-4aj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
