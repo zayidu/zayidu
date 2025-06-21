@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web API を操作してみよう](https://dev.to/nabbisen/web-api-wocao-zuo-sitemiyou-296d)
-- [IBM Fundamentals: Etcd Operator](https://dev.to/devopsfundamentals/ibm-fundamentals-etcd-operator-kke)
-- [Azure Fundamentals: Microsoft.Scheduler](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftscheduler-5ep2)
-- [GCP Fundamentals: Cloud TPU API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-tpu-api-2dea)
-- [Kafka Fundamentals: kafka consumer](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-consumer-3ad7)
+- [Python Fundamentals: aioredis](https://dev.to/devopsfundamentals/python-fundamentals-aioredis-48li)
+- [GCP Fundamentals: Cloud Text-to-Speech API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-text-to-speech-api-3e2p)
+- [Azure Fundamentals: Microsoft.ServiceFabric](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftservicefabric-2jek)
+- [EventHub: The First 7 Weeks of Building Something Meaningful](https://dev.to/elmedina_sefedini_a405de4/eventhub-the-first-7-weeks-of-building-something-meaningful-ijo)
+- [Networking Fundamentals: Routing](https://dev.to/devopsfundamentals/networking-fundamentals-routing-28m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
