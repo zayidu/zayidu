@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web API とは何か](https://dev.to/nabbisen/web-api-tohahe-ka-11li)
-- [Click on this Link](https://dev.to/umairshakoor/click-on-this-link-1a8n)
-- [5 ChatGPT Prompting Techniques That Boost Developer Productivity](https://dev.to/oluwawunmiadesewa/5-chatgpt-prompting-techniques-that-boost-developer-productivity-5aan)
-- [Understanding useSyncExternalStore Through Some Examples](https://dev.to/varadan13/understanding-usesyncexternalstore-through-some-examples-4m7c)
-- [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
+- [From student to full-time Platform Engineer at Appwrite](https://dev.to/chiragagg5k/from-student-to-full-time-platform-engineer-at-appwrite-49ci)
+- [Azure Fundamentals: Microsoft.Migrate](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmigrate-2daj)
+- [GCP Fundamentals: Cloud Life Sciences API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-life-sciences-api-4l1g)
+- [#3 Django Journey: Why I Added Slugs to My Product Model &lpar;And You Should Too&rpar;?](https://dev.to/purnima_chowrasia/3-django-journey-why-i-added-slugs-to-my-product-model-and-you-should-too-4067)
+- [A Claude Code SDK for cRUSTaceans 🦀](https://dev.to/bredmond1019/a-claude-code-sdk-for-crustaceans-3h7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
