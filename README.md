@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: Cloud Pub/Sub API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-pubsub-api-26kd)
-- [How to Install and Run MonkeyOCR Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-monkeyocr-locally-1k2e)
-- [VMware Fundamentals: Harbor Boshrelease](https://dev.to/devopsfundamentals/vmware-fundamentals-harbor-boshrelease-mg8)
-- [Python Fundamentals: :=](https://dev.to/devopsfundamentals/python-fundamentals--2fla)
-- [Ubuntu Fundamentals: systemd](https://dev.to/devopsfundamentals/ubuntu-fundamentals-systemd-459l)
+- [Azure Fundamentals: Microsoft.PowerBI](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftpowerbi-40k4)
+- [Kafka Fundamentals: kafka partition](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-partition-14j9)
+- [GCP Fundamentals: Cloud SQL Admin API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-sql-admin-api-f17)
+- [Deploying My WebApp on Cloud using Nginx](https://dev.to/sarthug/deploying-my-webapp-on-cloud-using-nginx-4jdd)
+- [Python Fundamentals: GraphQL](https://dev.to/devopsfundamentals/python-fundamentals-graphql-9i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
