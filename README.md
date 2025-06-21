@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SupportAI - Intelligent Customer Service Platform](https://dev.to/ariondev/supportai-intelligent-customer-service-platform-2jo9)
-- [Python Fundamentals: __getitem__](https://dev.to/devopsfundamentals/python-fundamentals-getitem-4hop)
-- [Azure Fundamentals: Microsoft.Relay](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftrelay-3lgl)
-- [NodeJS Fundamentals: event delegation](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-delegation-3ie0)
-- [IBM Fundamentals: Docs Services](https://dev.to/devopsfundamentals/ibm-fundamentals-docs-services-h4g)
+- [Web API を操作してみよう](https://dev.to/nabbisen/web-api-wocao-zuo-sitemiyou-296d)
+- [IBM Fundamentals: Etcd Operator](https://dev.to/devopsfundamentals/ibm-fundamentals-etcd-operator-kke)
+- [Azure Fundamentals: Microsoft.Scheduler](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftscheduler-5ep2)
+- [GCP Fundamentals: Cloud TPU API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-tpu-api-2dea)
+- [Kafka Fundamentals: kafka consumer](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-consumer-3ad7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
