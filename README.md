@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
-- [NodeJS Fundamentals: lexical scope](https://dev.to/devopsfundamentals/nodejs-fundamentals-lexical-scope-1mb4)
-- [Introducing Releasify Action — Announce GitHub Releases on Discord Effortlessly](https://dev.to/tene/introducing-releasify-action-announce-github-releases-on-discord-effortlessly-3132)
-- [IBM Fundamentals: Clouddatabases Helloworld Examples](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-helloworld-examples-4pfo)
-- [Modul Perulangan Dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/modul-perulangan-dalam-bahasa-earl-2pfo)
+- [NodeJS Fundamentals: let](https://dev.to/devopsfundamentals/nodejs-fundamentals-let-39km)
+- [We Built an AI Tool That Generates Full Backend Code from Plain English &lpar;Pipo360 v2&rpar;](https://dev.to/samuel_aondo_b3361b178e67/we-built-an-ai-tool-that-generates-full-backend-code-from-plain-english-pipo360-v2-34gn)
+- [Prototype Design Pattern](https://dev.to/zeeshanali0704/prototype-design-pattern-3i95)
+- [Why Lightweight Web Apps Still Matter in a Heavier Digital World](https://dev.to/seddek_britain_0c38299131/why-lightweight-web-apps-still-matter-in-a-heavier-digital-world-2i1n)
+- [Azure Fundamentals: Microsoft.ManagedServices](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmanagedservices-57c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
