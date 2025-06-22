@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Coding - a recap of my experience with Copilot Agent Mode](https://dev.to/jonasbn/ai-agent-coding-a-recap-of-my-experience-with-copilot-agent-mode-36lg)
+- [I’ve built a collection of 25+ free online developer tools — no ads, no login](https://dev.to/wynnt3o/ive-built-a-collection-of-25-free-online-developer-tools-no-ads-no-login-1e3m)
+- [Sample Project for Quartz.NET Tutorials](https://dev.to/manoj-kumar/sample-project-for-quartznet-tutorials-4oij)
+- [IBM Fundamentals: Github Traffic Stats](https://dev.to/devopsfundamentals/ibm-fundamentals-github-traffic-stats-1ml6)
 - [Top 5 Automation Tools 2025: The Ultimate Guide to Streamlining Your Workflow](https://dev.to/sushant_raj_420bacbb30d0c/top-5-automation-tools-2025-the-ultimate-guide-to-streamlining-your-workflow-3ni4)
-- [Python Fundamentals: asgi](https://dev.to/devopsfundamentals/python-fundamentals-asgi-1m67)
-- [Chess Meets Code: How I Created a Full-Stack Game Using React + MongoDB](https://dev.to/itxnargis/chess-meets-code-how-i-created-a-full-stack-game-using-react-mongodb-2610)
-- [A Sunday Reflection: Coding Apps &amp; New Opportunities](https://dev.to/dilip_kumardk_b41b9418/a-sunday-reflection-coding-apps-new-opportunities-22hp)
-- [Higher Order Functions in JavaScript – Map, Filter, Reduce Deep Dive](https://dev.to/mechcloud_academy/higher-order-functions-in-javascript-map-filter-reduce-deep-dive-3boi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
