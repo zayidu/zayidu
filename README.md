@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning a Language Model for Summarisation using LoRA](https://dev.to/sri_harikarthik_909342ac/fine-tuning-a-language-model-for-summarisation-using-lora-3lg)
-- [No More Boilerplate: Let AI Generate Your Express.js Endpoints](https://dev.to/ivanivanovv/no-more-boilerplate-let-ai-generate-your-expressjs-endpoints-3mo)
-- [Full stack Postgres](https://dev.to/kamaaaal/full-stack-postgres-1840)
-- [What is Linux and Why is Linux](https://dev.to/gaurav_sharma_sit/what-is-linux-and-why-is-linux-1046)
-- [How do signals in Angular 20 simplify reactive programming for me](https://dev.to/dhanushdevadiga/how-do-signals-in-angular-20-simplify-reactive-programming-for-me-a8d)
+- [A comprehensive guide to applying Network Security in our Azure environment](https://dev.to/christiana_orji/a-comprehensive-guide-to-applying-network-security-in-our-azure-environment-ijh)
+- [UI/UX - ユーザー視点デザイン](https://dev.to/nabbisen/uiux-yuzashi-dian-dezain-5cg5)
+- [🧠 Mom Mode – Let Runner H Nag You into a Better Life](https://dev.to/imkarthikeyan/mom-mode-let-runner-h-nag-you-into-a-better-life-34km)
+- [I made a new programming language for kids — real code, real fun!](https://dev.to/the_fox_project/i-made-a-new-programming-language-for-kids-real-code-real-fun-1b8p)
+- [RAG Made Simple: Demonstration and Analysis of Simplicity &lpar;Part 3&rpar;](https://dev.to/sri_harikarthik_909342ac/rag-made-simple-demonstration-and-analysis-of-simplicity-part-3-1cel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
