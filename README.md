@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Konsep dan Implementasi kelas di Bahasa Earl](https://dev.to/dev_nazwashabrina/konsep-dan-implementasi-kelas-di-bahasa-earl-548c)
-- [Hey guys, i&#39;am entering the API world now, testing some new things](https://dev.to/vini_feliciano/hey-guys-iam-entering-the-api-world-now-testing-some-new-things-4342)
-- [Error Budget Is All You Need - Part 2](https://dev.to/yairst/error-budget-is-all-you-need-part-2-3inb)
-- [Error Budget Is All You Need - Part 1](https://dev.to/yairst/error-budget-is-all-you-need-part-1-46ag)
-- [AI Meets No-Code/Low-Code: Revolutionizing Software Development](https://dev.to/vaib/ai-meets-no-codelow-code-revolutionizing-software-development-41j6)
+- [Top 5 Automation Tools 2025: The Ultimate Guide to Streamlining Your Workflow](https://dev.to/sushant_raj_420bacbb30d0c/top-5-automation-tools-2025-the-ultimate-guide-to-streamlining-your-workflow-3ni4)
+- [Python Fundamentals: asgi](https://dev.to/devopsfundamentals/python-fundamentals-asgi-1m67)
+- [Chess Meets Code: How I Created a Full-Stack Game Using React + MongoDB](https://dev.to/itxnargis/chess-meets-code-how-i-created-a-full-stack-game-using-react-mongodb-2610)
+- [A Sunday Reflection: Coding Apps &amp; New Opportunities](https://dev.to/dilip_kumardk_b41b9418/a-sunday-reflection-coding-apps-new-opportunities-22hp)
+- [Higher Order Functions in JavaScript – Map, Filter, Reduce Deep Dive](https://dev.to/mechcloud_academy/higher-order-functions-in-javascript-map-filter-reduce-deep-dive-3boi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
