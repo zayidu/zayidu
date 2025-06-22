@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FitFlow - Personalized Fitness Platform](https://dev.to/ai_agi/fitflow-personalized-fitness-platform-3mef)
-- [🔥 Exploring `@HostBinding&lpar;&rpar;` in Angular -- Decorator series -- 3](https://dev.to/vetriselvan_11/exploring-hostbinding-in-angular-decorator-series-3-44p6)
-- [Quantum gravity](https://dev.to/tyler_vanosdol_9c7f2e919/quantum-gravity-289p)
-- [[Boost]](https://dev.to/oludamilola/-1led)
-- [CONTAINERIZATION](https://dev.to/oludamilola/containerization-1-2h61)
+- [apimock-rs v4.3: Dynamic response generation support](https://dev.to/nabbisen/apimock-rs-v43-dynamic-response-generation-support-4f0i)
+- [Explain in 5 Levels of Difficulty: Vibe Coding](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-vibe-coding-4f77)
+- [How I Built a Smarter Link-in-Bio Setup Without a Full Website](https://dev.to/john_kami_62/how-i-built-a-smarter-link-in-bio-setup-without-a-full-website-2gk0)
+- [Why Is Game Mod Management Still So Cumbersome in 2025?](https://dev.to/subtixx/why-is-game-mod-management-still-so-cumbersome-in-2025-5c0)
+- [What Are Common Beginner Python Coding Questions in 2025?](https://dev.to/jordankeurope/what-are-common-beginner-python-coding-questions-in-2025-3j3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
