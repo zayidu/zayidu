@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof &amp; Completion – Dare Validation with AI](https://dev.to/fatlindosmanii/proof-completion-dare-validation-with-ai-37kd)
-- [WWDC 2025 - AdAttributionKit iOS 18.4: Essential Features for Modern App Attribution](https://dev.to/arshtechpro/wwdc-2025-adattributionkit-ios-184-essential-features-for-modern-app-attribution-2h5c)
-- [Making a server believe you&#39;re from somewhere else](https://dev.to/mikotian/making-a-server-believe-youre-from-somewhere-else-4n0h)
-- [Creating Dares – Our Custom Challenge Input](https://dev.to/fatlindosmanii/creating-dares-our-custom-challenge-input-m7e)
-- [🕸️ Web Scraping in Python: A Practical Guide for Data Scientists](https://dev.to/vikas_gulia/web-scraping-in-python-a-practical-guide-for-data-scientists-4012)
+- [🔐 Login Screen with Multiple Options](https://dev.to/bleart_hyseni_96e2f4b936c/login-screen-with-multiple-options-2i86)
+- [I want to buy a gtx 1080ti will it cause me problems if I buy this video card? or is it a good idea?](https://dev.to/spartans300_0d97d850e608b/i-want-to-buy-a-gtx-1080ti-will-it-cause-me-problems-if-i-buy-this-video-card-or-is-it-a-good-idea-3a43)
+- [🚀 DareMe Entry Point &amp; Logo Animation](https://dev.to/bleart_hyseni_96e2f4b936c/dareme-entry-point-logo-animation-3i4o)
+- [Tried Learning Data Analytics the Hard Way — Here’s What Finally Worked for Me](https://dev.to/vaibhav_tyagi_22/tried-learning-data-analytics-the-hard-way-heres-what-finally-worked-for-me-522o)
+- [🔐 Login Screen with Multiple Options](https://dev.to/bhhyseni/login-screen-with-multiple-options-498g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
