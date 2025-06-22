@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 From Prompt to Play: My Game Made with Amazon Q CLI](https://dev.to/jamesrmoro/from-prompt-to-play-my-game-made-with-amazon-q-cli-3clb)
-- [&quot;From Excitement to Disappointment – My Yesterday’s Story&quot;&lt;&lt;&lt;😃 😞](https://dev.to/chithra_priya/from-excitement-to-disappointment-my-yesterdays-story--a35)
-- [How to use Glowscript; The ultimate guide](https://dev.to/grayson_campbell_500515f0/how-to-use-glowscript-the-ultimate-guide-26p6)
-- [When the CDN Blinks: Endpoint Obfuscation, TTL Conflict, and Behavioral Web Architecture](https://dev.to/formantaudio/when-the-cdn-blinks-endpoint-obfuscation-ttl-conflict-and-behavioral-web-architecture-hkl)
-- [Umemura Farm Website – Devlog #13: When the Layout Looks “Okay” but Feels Empty](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-13-when-the-layout-looks-okay-but-feels-empty-204i)
+- [Konsep dan Implementasi kelas di Bahasa Earl](https://dev.to/dev_nazwashabrina/konsep-dan-implementasi-kelas-di-bahasa-earl-548c)
+- [Hey guys, i&#39;am entering the API world now, testing some new things](https://dev.to/vini_feliciano/hey-guys-iam-entering-the-api-world-now-testing-some-new-things-4342)
+- [Error Budget Is All You Need - Part 2](https://dev.to/yairst/error-budget-is-all-you-need-part-2-3inb)
+- [Error Budget Is All You Need - Part 1](https://dev.to/yairst/error-budget-is-all-you-need-part-1-46ag)
+- [AI Meets No-Code/Low-Code: Revolutionizing Software Development](https://dev.to/vaib/ai-meets-no-codelow-code-revolutionizing-software-development-41j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
