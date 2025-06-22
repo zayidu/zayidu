@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Login Screen with Multiple Options](https://dev.to/bleart_hyseni_96e2f4b936c/login-screen-with-multiple-options-2i86)
-- [I want to buy a gtx 1080ti will it cause me problems if I buy this video card? or is it a good idea?](https://dev.to/spartans300_0d97d850e608b/i-want-to-buy-a-gtx-1080ti-will-it-cause-me-problems-if-i-buy-this-video-card-or-is-it-a-good-idea-3a43)
-- [🚀 DareMe Entry Point &amp; Logo Animation](https://dev.to/bleart_hyseni_96e2f4b936c/dareme-entry-point-logo-animation-3i4o)
-- [Tried Learning Data Analytics the Hard Way — Here’s What Finally Worked for Me](https://dev.to/vaibhav_tyagi_22/tried-learning-data-analytics-the-hard-way-heres-what-finally-worked-for-me-522o)
-- [🔐 Login Screen with Multiple Options](https://dev.to/bhhyseni/login-screen-with-multiple-options-498g)
+- [Exploring Experimental ECMAScript Features in Production Code](https://dev.to/omriluz1/exploring-experimental-ecmascript-features-in-production-code-18mk)
+- [Routage avec RiotJS](https://dev.to/steeve/routage-avec-riotjs-19a)
+- [Your IDE is not your identity](https://dev.to/danytulumidis/your-ide-is-not-your-identity-2e7c)
+- [🤝 Team Collaboration via Google Meet](https://dev.to/bleart_hyseni_96e2f4b936c/team-collaboration-via-google-meet-4nod)
+- [💬 Comments on a Dare](https://dev.to/bleart_hyseni_96e2f4b936c/comments-on-a-dare-5dda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
