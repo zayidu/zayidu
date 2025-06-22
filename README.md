@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Standalone Components Changed My Angular Development Forever](https://dev.to/karol_modelski/how-standalone-components-changed-my-angular-development-forever-3jni)
-- [Hey Need help](https://dev.to/raghavendra_reddy_6d45132/hey-need-help-28k7)
-- [My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers](https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci)
-- [Scale APP using Dependency Inversion Principle](https://dev.to/jay818/scale-app-using-dependency-inversion-principle-bgi)
-- [Why NestJS is the Ideal Framework for Scaling Large JavaScript Projects](https://dev.to/tanvir_ahamed/why-nestjs-is-the-ideal-framework-for-scaling-large-javascript-projects-5cdk)
+- [Empowering Negotiation Skills: The Impact of Online Learning Platforms on Student Development](https://dev.to/ghummantech/empowering-negotiation-skills-the-impact-of-online-learning-platforms-on-student-development-130h)
+- [New Feature on Percy: Test Case Based Grouping](https://dev.to/anil_csimplifyit_905c/new-feature-on-percy-test-case-based-grouping-1eko)
+- [Programming Entry Level: project ideas oop](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-oop-kai)
+- [Programming Entry Level: how to compiler](https://dev.to/devopsfundamentals/programming-entry-level-how-to-compiler-404m)
+- [AI Just Blackmailed a Human in a Test — And It Wasn’t Even Sorry](https://dev.to/aniruddhagawali/ai-just-blackmailed-a-human-in-a-test-and-it-wasnt-even-sorry-5f91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
