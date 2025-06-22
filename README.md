@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking Fundamentals: Bridge](https://dev.to/devopsfundamentals/networking-fundamentals-bridge-23md)
-- [Python Fundamentals: any](https://dev.to/devopsfundamentals/python-fundamentals-any-3d3c)
-- [Ubuntu Fundamentals: dpkg-query](https://dev.to/devopsfundamentals/ubuntu-fundamentals-dpkg-query-2kfl)
-- [Networking Fundamentals: Switch](https://dev.to/devopsfundamentals/networking-fundamentals-switch-4702)
-- [Kafka Fundamentals: kafka controller](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-controller-njm)
+- [2138. Divide a String Into Groups of Size k](https://dev.to/mdarifulhaque/2138-divide-a-string-into-groups-of-size-k-229j)
+- [Ubuntu Fundamentals: Synaptic](https://dev.to/devopsfundamentals/ubuntu-fundamentals-synaptic-4lh)
+- [30-DAY CHALLENGE LEARNING SQL](https://dev.to/riettah/30-day-challenge-learning-sql-3k2p)
+- [[Boost]](https://dev.to/sharker3312/-4bhb)
+- [Is the software engineer the new farmer of the digital age?](https://dev.to/neilton_rocha_dev/the-software-engineer-is-the-new-farmer-of-the-digital-age-2d40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
