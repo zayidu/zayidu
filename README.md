@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
-- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
-- [Fixing Microservice Communication: From Fragile Calls to Resilient Systems](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-communication-from-fragile-calls-to-resilient-systems-2c17)
-- [Untitled](https://dev.to/sekak_seddik_6b74e689dd4c/untitled-2hi2)
-- [What is TypeScript?](https://dev.to/itsayu/what-is-typescript-gkj)
+- [Python Fundamentals: assert](https://dev.to/devopsfundamentals/python-fundamentals-assert-5f1b)
+- [Automation in Action: Scenarios with Proxmox and Ansible](https://dev.to/serafiev/automation-in-action-scenarios-with-proxmox-and-ansible-3dno)
+- [Outbox Pattern: RabbitMQ Publishing Strategies for High-Performance Systems](https://dev.to/eragoo/outbox-pattern-rabbitmq-publishing-strategies-for-high-performance-systems-3haf)
+- [Web NFC and Broadcast Audio URIs](https://dev.to/denladeside/web-nfc-and-broadcast-audio-uris-1oh5)
+- [Imgur Image Uploader](https://dev.to/boyquang/imgur-image-uploader-2onl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
