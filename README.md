@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [apimock-rs v4.3: Dynamic response generation support](https://dev.to/nabbisen/apimock-rs-v43-dynamic-response-generation-support-4f0i)
-- [Explain in 5 Levels of Difficulty: Vibe Coding](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-vibe-coding-4f77)
-- [How I Built a Smarter Link-in-Bio Setup Without a Full Website](https://dev.to/john_kami_62/how-i-built-a-smarter-link-in-bio-setup-without-a-full-website-2gk0)
-- [Why Is Game Mod Management Still So Cumbersome in 2025?](https://dev.to/subtixx/why-is-game-mod-management-still-so-cumbersome-in-2025-5c0)
-- [What Are Common Beginner Python Coding Questions in 2025?](https://dev.to/jordankeurope/what-are-common-beginner-python-coding-questions-in-2025-3j3h)
+- [Domain Password Audit Tool &lpar;DPAT&rpar;](https://dev.to/berilbbj/domain-password-audit-tool-dpat-3k7)
+- [How UK Founders Hire Artificial Intelligence Developers](https://dev.to/kamini_bisht_b566379d4b82/how-uk-founders-hire-artificial-intelligence-developers-l04)
+- [Red Dead Redemption star says he &quot;possibly misled some people&quot; but insists &quot;exciting&quot; news is still on the way](https://dev.to/gg_news/red-dead-redemption-star-says-he-possibly-misled-some-people-but-insists-exciting-news-is-still-2l6p)
+- [Amazon Prime Gaming gets six bonus ‘free&#39; games today, including Tomb Raider I-III Remastered](https://dev.to/gg_news/amazon-prime-gaming-gets-six-bonus-free-games-today-including-tomb-raider-i-iii-remastered-3450)
+- [Lies of P Has Sold Over 3 Million Units](https://dev.to/gg_news/lies-of-p-has-sold-over-3-million-units-282j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
