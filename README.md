@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2138. Divide a String Into Groups of Size k](https://dev.to/mdarifulhaque/2138-divide-a-string-into-groups-of-size-k-229j)
-- [Ubuntu Fundamentals: Synaptic](https://dev.to/devopsfundamentals/ubuntu-fundamentals-synaptic-4lh)
-- [30-DAY CHALLENGE LEARNING SQL](https://dev.to/riettah/30-day-challenge-learning-sql-3k2p)
-- [[Boost]](https://dev.to/sharker3312/-4bhb)
-- [Is the software engineer the new farmer of the digital age?](https://dev.to/neilton_rocha_dev/the-software-engineer-is-the-new-farmer-of-the-digital-age-2d40)
+- [🎮 From Prompt to Play: My Game Made with Amazon Q CLI](https://dev.to/jamesrmoro/from-prompt-to-play-my-game-made-with-amazon-q-cli-3clb)
+- [&quot;From Excitement to Disappointment – My Yesterday’s Story&quot;&lt;&lt;&lt;😃 😞](https://dev.to/chithra_priya/from-excitement-to-disappointment-my-yesterdays-story--a35)
+- [How to use Glowscript; The ultimate guide](https://dev.to/grayson_campbell_500515f0/how-to-use-glowscript-the-ultimate-guide-26p6)
+- [When the CDN Blinks: Endpoint Obfuscation, TTL Conflict, and Behavioral Web Architecture](https://dev.to/formantaudio/when-the-cdn-blinks-endpoint-obfuscation-ttl-conflict-and-behavioral-web-architecture-hkl)
+- [Umemura Farm Website – Devlog #13: When the Layout Looks “Okay” but Feels Empty](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-13-when-the-layout-looks-okay-but-feels-empty-204i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
