@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Suspense: আপনার React অ্যাপ্লিকেশনের লোডিং স্টেটকে সহজ ও সুন্দর করুন &lpar;বাংলায়&rpar;](https://dev.to/electra_nur/react-suspense-aapnaar-react-ayaaplikeshner-loddin-sttettke-shj-o-sundr-krun-baanlaay-4hf1)
-- [Generative AI](https://dev.to/prashant_rajpoot_0e51a2b4/generative-ai-iak)
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-4-2kj)
-- [Transforming IT Operations: The Power of AIOps and Generative AI](https://dev.to/vaib/transforming-it-operations-the-power-of-aiops-and-generative-ai-9i7)
-- [Unraveling the Power of REST APIs: A Comprehensive Guide](https://dev.to/vjnvisakh/unraveling-the-power-of-rest-apis-a-comprehensive-guide-12ba)
+- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
+- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
+- [Fixing Microservice Communication: From Fragile Calls to Resilient Systems](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-communication-from-fragile-calls-to-resilient-systems-2c17)
+- [Untitled](https://dev.to/sekak_seddik_6b74e689dd4c/untitled-2hi2)
+- [What is TypeScript?](https://dev.to/itsayu/what-is-typescript-gkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
