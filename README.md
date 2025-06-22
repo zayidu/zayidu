@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Coding - a recap of my experience with Copilot Agent Mode](https://dev.to/jonasbn/ai-agent-coding-a-recap-of-my-experience-with-copilot-agent-mode-36lg)
-- [I’ve built a collection of 25+ free online developer tools — no ads, no login](https://dev.to/wynnt3o/ive-built-a-collection-of-25-free-online-developer-tools-no-ads-no-login-1e3m)
-- [Sample Project for Quartz.NET Tutorials](https://dev.to/manoj-kumar/sample-project-for-quartznet-tutorials-4oij)
-- [IBM Fundamentals: Github Traffic Stats](https://dev.to/devopsfundamentals/ibm-fundamentals-github-traffic-stats-1ml6)
-- [Top 5 Automation Tools 2025: The Ultimate Guide to Streamlining Your Workflow](https://dev.to/sushant_raj_420bacbb30d0c/top-5-automation-tools-2025-the-ultimate-guide-to-streamlining-your-workflow-3ni4)
+- [How Standalone Components Changed My Angular Development Forever](https://dev.to/karol_modelski/how-standalone-components-changed-my-angular-development-forever-3jni)
+- [Hey Need help](https://dev.to/raghavendra_reddy_6d45132/hey-need-help-28k7)
+- [My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers](https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci)
+- [Scale APP using Dependency Inversion Principle](https://dev.to/jay818/scale-app-using-dependency-inversion-principle-bgi)
+- [Why NestJS is the Ideal Framework for Scaling Large JavaScript Projects](https://dev.to/tanvir_ahamed/why-nestjs-is-the-ideal-framework-for-scaling-large-javascript-projects-5cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
