@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Month with Supercode.sh: How I Learned to Stop Worrying and Love the Cursor agent](https://dev.to/john_p_wilson/a-month-with-supercodesh-how-i-learned-to-stop-worrying-and-love-the-cursor-agent-11ml)
-- [🎧 Introducing OpenSpot — Your Gateway to Limitless Music 🎶](https://dev.to/blackhatdevx/introducing-openspot-your-gateway-to-limitless-music-4ob9)
-- [TanStack Router: How to protect routes with an authentication guard](https://dev.to/this-is-learning/tanstack-router-how-to-protect-routes-with-an-authentication-guard-1laj)
-- [The One Productivity Tool You Didn&#39;t Know You Can&#39;t Live Without](https://dev.to/saarshechter/the-one-productivity-tool-you-didnt-know-you-cant-live-without-4378)
-- [A Minimal Yet Scalable React + TypeScript + styled-components Architecture](https://dev.to/blamsa0mine/a-minimal-yet-scalable-react-typescript-styled-components-architecture-106o)
+- [Creating a Smooth Experience with Custom Logic](https://dev.to/altin_deliu_979987a45b3dd/creating-a-smooth-experience-with-custom-logic-1bob)
+- [O que C# 3.0 não tem que C# 4.0 tem ?](https://dev.to/daniloopinheiro/o-que-c-30-nao-tem-que-c-40-tem--550k)
+- [Untitle](https://dev.to/josiel_domingo_da6849e37d/untitle-3e7c)
+- [🚀 Looking for a Co-Coder: Join Us in Building an E-Commerce Project for Our Portfolio](https://dev.to/nghimgiabo6/looking-for-a-co-coder-join-us-in-building-an-e-commerce-project-for-our-portfolio-5831)
+- [Designing the Experience of Creating a Dare](https://dev.to/altin_deliu_979987a45b3dd/designing-the-experience-of-creating-a-dare-4h28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
