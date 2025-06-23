@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Create an AWS Account: A Step-by-Step Guide for Beginners](https://dev.to/cloud_man/want-to-create-an-aws-account-a-step-by-step-guide-for-beginners-3geb)
-- [🚀 My Build2Learn Hackathon Experience at ThoughtWorks Technologies](https://dev.to/megha_m_3acdfe3f62da7873f/my-build2learn-hackathon-experience-at-thoughtworks-technologies-h39)
-- [🚀 My Build2Learn Hackathon Experience at ThoughtWorks Technologies](https://dev.to/megha_m_3acdfe3f62da7873f/my-build2learn-hackathon-experience-at-thoughtworks-technologies-57m8)
-- [🚀 Day 1 of 50 Days of Building a Small Language Model from Scratch](https://dev.to/lakhera2015/day-1-of-50-days-of-building-a-small-language-model-from-scratch-43ln)
-- [[Boost]](https://dev.to/unqlite_db/-34bn)
+- [🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖](https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa)
+- [Ashkan Rajaee’s story is a clear example of what it means to lead with both purpose and precision during uncertain times.](https://dev.to/alexbenshoof/ashkan-rajaees-story-is-a-clear-example-of-what-it-means-to-lead-with-both-purpose-and-precision-2bfg)
+- [MindsDB Made It Easy, I Made It Hard: Building an AI-Powered Knowledge Map](https://dev.to/priyanshuverma/mindsdb-made-it-easy-i-made-it-hard-building-an-ai-powered-knowledge-map-d0g)
+- [The Best ML Model Archiving Tool: Why Jozu and KitOps Are Built for the Job](https://dev.to/jozu/the-best-ml-model-archiving-tool-why-jozu-and-kitops-are-built-for-the-job-31op)
+- [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
