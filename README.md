@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I appreciated how the article shows Ashkan Rajaee prioritizing clarity over chaos while others were still reacting.](https://dev.to/kierwolf20/i-appreciated-how-the-article-shows-ashkan-rajaee-prioritizing-clarity-over-chaos-while-others-were-5d9l)
-- [What is an API? And Why Data Architecture Depends on Them](https://dev.to/alexmercedcoder/what-is-an-api-and-why-data-architecture-depends-on-them-53db)
-- [Quarkus 3 application on AWS Lambda- Part 6 Optimization strategies for the cold and warm starts](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-6-optimization-strategies-for-the-cold-and-warm-starts-588m)
-- [Engenharia de Prompt: A Arte de Conversar com a Inteligência Artificial no Ambiente de Negócio](https://dev.to/vinicius3w/engenharia-de-prompt-a-arte-de-conversar-com-a-inteligencia-artificial-no-ambiente-de-negocio-3mfj)
-- [The Role of AI and Compliance in Modern Risk Management: ShowMeCon 2025](https://dev.to/gitguardian/the-role-of-ai-and-compliance-in-modern-risk-management-showmecon-2025-22m)
+- [Want to Create an AWS Account: A Step-by-Step Guide for Beginners](https://dev.to/cloud_man/want-to-create-an-aws-account-a-step-by-step-guide-for-beginners-3geb)
+- [🚀 My Build2Learn Hackathon Experience at ThoughtWorks Technologies](https://dev.to/megha_m_3acdfe3f62da7873f/my-build2learn-hackathon-experience-at-thoughtworks-technologies-h39)
+- [🚀 My Build2Learn Hackathon Experience at ThoughtWorks Technologies](https://dev.to/megha_m_3acdfe3f62da7873f/my-build2learn-hackathon-experience-at-thoughtworks-technologies-57m8)
+- [🚀 Day 1 of 50 Days of Building a Small Language Model from Scratch](https://dev.to/lakhera2015/day-1-of-50-days-of-building-a-small-language-model-from-scratch-43ln)
+- [[Boost]](https://dev.to/unqlite_db/-34bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
