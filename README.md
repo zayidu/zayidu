@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UI/UX - CSS でスタイル定義](https://dev.to/nabbisen/uiux-css-desutairuding-yi-2adm)
-- [Automating EKS Auto Mode Pod Subnet Range Customization with EKS Node Classes, Karpenter Node Pools, and Terraform](https://dev.to/aws-builders/automating-eks-auto-mode-pod-subnet-range-customization-with-eks-node-classes-karpenter-node-4nkg)
-- [How to generate PDFs with Puppeteer](https://dev.to/pollop/how-to-generate-pdfs-with-puppeteer-3kpo)
-- [A Classic Reborn: How I Remastered 40 Puzzle Games with AI](https://dev.to/selfboot/a-classic-reborn-how-i-remastered-40-puzzle-games-with-ai-1kdk)
-- [MLOps for Voice Cloning: CI/CD and Model Management in an AWS Environment](https://dev.to/semperfitodd/mlops-for-voice-cloning-cicd-and-model-management-in-an-aws-environment-20pf)
+- [I appreciated how the article shows Ashkan Rajaee prioritizing clarity over chaos while others were still reacting.](https://dev.to/kierwolf20/i-appreciated-how-the-article-shows-ashkan-rajaee-prioritizing-clarity-over-chaos-while-others-were-5d9l)
+- [What is an API? And Why Data Architecture Depends on Them](https://dev.to/alexmercedcoder/what-is-an-api-and-why-data-architecture-depends-on-them-53db)
+- [Quarkus 3 application on AWS Lambda- Part 6 Optimization strategies for the cold and warm starts](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-6-optimization-strategies-for-the-cold-and-warm-starts-588m)
+- [Engenharia de Prompt: A Arte de Conversar com a Inteligência Artificial no Ambiente de Negócio](https://dev.to/vinicius3w/engenharia-de-prompt-a-arte-de-conversar-com-a-inteligencia-artificial-no-ambiente-de-negocio-3mfj)
+- [The Role of AI and Compliance in Modern Risk Management: ShowMeCon 2025](https://dev.to/gitguardian/the-role-of-ai-and-compliance-in-modern-risk-management-showmecon-2025-22m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
