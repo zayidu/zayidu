@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebooting After a Holiday: Smart Work Planning with Copilot &lpar;M365&rpar;](https://dev.to/balagmadhu/rebooting-after-a-holiday-smart-work-planning-with-copilot-m365-8go)
-- [The Dark Art of Safe Rebasing: Mastering &quot;Onto&quot; in IDEs and CLI](https://dev.to/jigargosar/the-dark-art-of-safe-rebasing-mastering-onto-in-ides-and-cli-30cd)
-- [☁️💻 Cloud, Code &amp; Conversations: My Journey of Innovation and Networking at AWS Community Day Ahmedabad 🚀🤝](https://dev.to/parmar_smit_983ce4648c148/cloud-code-conversations-my-journey-of-innovation-and-networking-at-aws-community-day-21d9)
-- [Website to track GitHub releases across several repositories](https://dev.to/feature_delivery_17318efb/website-to-track-github-releases-across-several-repositories-5dk6)
-- [☕️ Monday Motivation: Survive Monday in One Piece](https://dev.to/sroy8091/monday-motivation-survive-monday-in-one-piece-82p)
+- [SQL Injection Is Still a Big Deal — Here&#39;s How to Stop It](https://dev.to/sharon_42e16b8da44dabde6d/sql-injection-is-still-a-big-deal-heres-how-to-stop-it-30m3)
+- [&quot;5 Figma Shortcuts Every Designer Should Know 💻⚡&quot;](https://dev.to/swetty_sultania_834f90237/5-figma-shortcuts-every-designer-should-know--26i7)
+- [Top 5 DevRel as a Service Companies in 2025](https://dev.to/samlongbottom/top-5-devrel-as-a-service-companies-in-2025-2a3e)
+- [รู้หรือไม่ Next.js ใช้ SWC ด้วยนะ!](https://dev.to/c_nook4545/ruuhruueaim-nextjs-aich-swc-dwyna-52i2)
+- [TypeScript Fundamentals](https://dev.to/thecoollearner/typescript-fundamentals-42i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
