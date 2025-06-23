@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fundamentals: Dms](https://dev.to/devopsfundamentals/aws-fundamentals-dms-2ed6)
-- [[📝LeetCode #242] Valid Anagram](https://dev.to/shine7on/leetcode-242-valid-anagram-48on)
-- [[📝LeetCode #383] Ransom Note](https://dev.to/shine7on/leetcode-383-ransom-note-n9h)
-- [🚀CSS Secrets That Will Change How You Code Forever](https://dev.to/genildocs/css-secrets-that-will-change-how-you-code-forever-2bij)
-- [Technical Frontend Deep Dives for Web3 Developers](https://dev.to/jeffgat/technical-frontend-deep-dives-for-web3-developers-3elh)
+- [Clean Architecture in Go: A Practical Guide with go-clean-arch](https://dev.to/leapcell/clean-architecture-in-go-a-practical-guide-with-go-clean-arch-51h7)
+- [Cross-Language Model Inference Without Python: An Engineering Perspective](https://dev.to/e_b680bbca20c348/cross-language-model-inference-without-python-an-engineering-perspective-1i12)
+- [Umemura Farm Website – Devlog #14: Designing with Intuition And a Bit of Watercolor](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-14-designing-with-intuition-and-a-bit-of-watercolor-cdm)
+- [Escape from Lambda Function Name Hardcoding Hell: Type-Safe Serverless Development with sls_enum](https://dev.to/hayata_yamamoto/escape-from-lambda-function-name-hardcoding-hell-type-safe-serverless-development-with-slsenum-dl2)
+- [How to Find Prior Art in Foreign Patents: Expert Guide](https://dev.to/patentscanai/how-to-find-prior-art-in-foreign-patents-expert-guide-5amd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
