@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Know When It&#39;s Time to Leave a Job &lpar;In 8 Signs&rpar;](https://dev.to/canro91/how-to-know-when-its-time-to-leave-a-job-in-8-signs-i85)
-- [Deep Work vs Daily Standups: The Productivity Battle Every Dev Team Faces](https://dev.to/teamcamp/deep-work-vs-daily-standups-the-productivity-battle-every-dev-team-faces-4j5i)
-- [SQL JOIN Types and Differences Explained](https://dev.to/freyasky/sql-join-types-and-differences-explained-558k)
-- [🏛️ Stop Writing Brittle Tests: Your Blueprint for a Scalable TypeScript POM](https://dev.to/idavidov13/stop-writing-brittle-tests-your-blueprint-for-a-scalable-typescript-pom-3jm0)
-- [What do you think of this?](https://dev.to/harimanok/what-do-you-think-of-this-25n9)
+- [Rebooting After a Holiday: Smart Work Planning with Copilot &lpar;M365&rpar;](https://dev.to/balagmadhu/rebooting-after-a-holiday-smart-work-planning-with-copilot-m365-8go)
+- [The Dark Art of Safe Rebasing: Mastering &quot;Onto&quot; in IDEs and CLI](https://dev.to/jigargosar/the-dark-art-of-safe-rebasing-mastering-onto-in-ides-and-cli-30cd)
+- [☁️💻 Cloud, Code &amp; Conversations: My Journey of Innovation and Networking at AWS Community Day Ahmedabad 🚀🤝](https://dev.to/parmar_smit_983ce4648c148/cloud-code-conversations-my-journey-of-innovation-and-networking-at-aws-community-day-21d9)
+- [Website to track GitHub releases across several repositories](https://dev.to/feature_delivery_17318efb/website-to-track-github-releases-across-several-repositories-5dk6)
+- [☕️ Monday Motivation: Survive Monday in One Piece](https://dev.to/sroy8091/monday-motivation-survive-monday-in-one-piece-82p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
