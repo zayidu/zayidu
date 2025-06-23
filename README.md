@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Password Audit Tool &lpar;DPAT&rpar;](https://dev.to/berilbbj/domain-password-audit-tool-dpat-3k7)
-- [How UK Founders Hire Artificial Intelligence Developers](https://dev.to/kamini_bisht_b566379d4b82/how-uk-founders-hire-artificial-intelligence-developers-l04)
-- [Red Dead Redemption star says he &quot;possibly misled some people&quot; but insists &quot;exciting&quot; news is still on the way](https://dev.to/gg_news/red-dead-redemption-star-says-he-possibly-misled-some-people-but-insists-exciting-news-is-still-2l6p)
-- [Amazon Prime Gaming gets six bonus ‘free&#39; games today, including Tomb Raider I-III Remastered](https://dev.to/gg_news/amazon-prime-gaming-gets-six-bonus-free-games-today-including-tomb-raider-i-iii-remastered-3450)
-- [Lies of P Has Sold Over 3 Million Units](https://dev.to/gg_news/lies-of-p-has-sold-over-3-million-units-282j)
+- [AWS Fundamentals: Dms](https://dev.to/devopsfundamentals/aws-fundamentals-dms-2ed6)
+- [[📝LeetCode #242] Valid Anagram](https://dev.to/shine7on/leetcode-242-valid-anagram-48on)
+- [[📝LeetCode #383] Ransom Note](https://dev.to/shine7on/leetcode-383-ransom-note-n9h)
+- [🚀CSS Secrets That Will Change How You Code Forever](https://dev.to/genildocs/css-secrets-that-will-change-how-you-code-forever-2bij)
+- [Technical Frontend Deep Dives for Web3 Developers](https://dev.to/jeffgat/technical-frontend-deep-dives-for-web3-developers-3elh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
