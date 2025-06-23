@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UI/UX - 大規模な CSS への対応](https://dev.to/nabbisen/uiux-da-gui-mo-na-css-henodui-ying-3563)
-- [Text Compressing Introduction - Huffman Coding in Swift](https://dev.to/mia_koring_962598adda4663/text-compressing-introduction-huffman-coding-in-swift-1o97)
-- [CyberGuard AI](https://dev.to/fangmbeng/cyberguard-ai-107i)
-- [Build a sanctions check in 10 minutes with SanctionSnap API](https://dev.to/sigurdurb/build-a-sanctions-check-in-10-minutes-with-sanctionsnap-api-4moh)
-- [DevOps как по учебнику. Возможно ли? [RU]](https://dev.to/teruxz/devops-kak-po-uchiebniku-vozmozhno-li-ru-3jnb)
+- [How One Blog Post Became a Thread, Newsletter, and LinkedIn Post with Runner H](https://dev.to/protik_49/how-one-blog-post-became-a-thread-newsletter-and-linkedin-post-with-runner-h-n0o)
+- [Medical RAG Research with txtai](https://dev.to/neuml/medical-rag-research-with-txtai-2b35)
+- [Quando foi que a gente parou de fazer perguntas?](https://dev.to/analaura/quando-foi-que-a-gente-parou-de-fazer-perguntas-45hc)
+- [springboot.firststeps&lpar;P1&rpar;](https://dev.to/learnspringtools/springbootfirststepsp1-56na)
+- [springboot.firststeps&lpar;P2&rpar;](https://dev.to/learnspringtools/springbootfirststepsp2-4o52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
