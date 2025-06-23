@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Mobile App Testing Frameworks for Android and iOS](https://dev.to/lambdatest/best-mobile-app-testing-frameworks-for-android-and-ios-202m)
-- [Implementando o Padrão Outbox com SQLite e usando Brighter](https://dev.to/actor-dev/implementando-o-padrao-outbox-com-sqlite-e-usando-brighter-4i25)
-- [Implementing the Outbox Pattern with SQLite and using Brighter](https://dev.to/actor-dev/implementing-the-outbox-pattern-with-sqlite-and-using-brighter-15ha)
-- [Run MCP Servers In Seconds With Docker](https://dev.to/pradumnasaraf/run-mcp-servers-in-seconds-with-docker-1ik5)
-- [How to Set Up Config Auto Sync in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-config-auto-syncin-safeline-41c6)
+- [How to Translate a Lectora Course](https://dev.to/elenahartmann/how-to-translate-a-lectora-course-142a)
+- [Building a Scalable HTML5 Game Portal: Lessons from Rogue Game Labs](https://dev.to/mufeng/building-a-scalable-html5-game-portal-lessons-from-rogue-game-labs-1h82)
+- [The Hidden Cost of Test Inheritance](https://dev.to/pomidoroshev/the-hidden-cost-of-test-inheritance-1k5o)
+- [I Built a Chrome Extension to Save ChatGPT Chats — Here’s How and Why](https://dev.to/pratibha_mehta_c1171ca7f0/i-built-a-chrome-extension-to-save-chatgpt-chats-heres-how-and-why-4pnm)
+- [Most Underrated Dev habit for Smart Project Outcomes](https://dev.to/pranesh_patel/most-underrated-dev-habit-for-smart-project-outcomes-2mlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
