@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How One Blog Post Became a Thread, Newsletter, and LinkedIn Post with Runner H](https://dev.to/protik_49/how-one-blog-post-became-a-thread-newsletter-and-linkedin-post-with-runner-h-n0o)
-- [Medical RAG Research with txtai](https://dev.to/neuml/medical-rag-research-with-txtai-2b35)
-- [Quando foi que a gente parou de fazer perguntas?](https://dev.to/analaura/quando-foi-que-a-gente-parou-de-fazer-perguntas-45hc)
-- [springboot.firststeps&lpar;P1&rpar;](https://dev.to/learnspringtools/springbootfirststepsp1-56na)
-- [springboot.firststeps&lpar;P2&rpar;](https://dev.to/learnspringtools/springbootfirststepsp2-4o52)
+- [[AWS]Hands-on: Building a Simple Web Server with CodeBuild + CodeDeploy &lpar;Sphinx&rpar;](https://dev.to/masakiokuda/awshands-on-building-a-simple-web-server-with-codebuild-codedeploy-sphinx-3h7b)
+- [Build a local chatbot with React, openAI, and indexed DB &lpar;using Dexie.js&rpar;](https://dev.to/angeldavid218/build-a-local-chatbot-with-react-openai-and-indexed-db-using-dexiejs-16oo)
+- [WWDC 2025 - Get to know the ManagedApp Framework](https://dev.to/arshtechpro/wwdc-2025-get-to-know-the-managedapp-framework-17do)
+- [WWDC 2025 - SF Symbols 7: Advanced Animation and Rendering Techniques](https://dev.to/arshtechpro/wwdc-2025-sf-symbols-7-advanced-animation-and-rendering-techniques-f7m)
+- [How does a First Incident Report help in preventing future accidents?](https://dev.to/writegenic/how-does-a-first-incident-report-help-in-preventing-future-accidents-5cco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
