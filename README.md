@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Express vs NestJS: Which Framework Actually Delivers Better Performance? [2025]](https://dev.to/mahmoud-saeed/express-vs-nestjs-which-framework-actually-delivers-better-performance-2025-5fkm)
-- [How Atlassian’s Forge Quest Hackathon Helped Me Revive My Postman Doc App](https://dev.to/biomathcode/how-atlassians-forge-quest-hackathon-helped-me-revive-my-postman-doc-app-42en)
-- [This deserves a wider audience. Honest, helpful, and reflective of what Ashkan Rajaee advocates in the entrepreneurial journey.](https://dev.to/techtalk/this-deserves-a-wider-audience-honest-helpful-and-reflective-of-what-ashkan-rajaee-advocates-in-2cnk)
-- [The tone of this is what makes it work. No fluff, just grounded wisdom from someone who’s clearly been there.](https://dev.to/techtalk/the-tone-of-this-is-what-makes-it-work-no-fluff-just-grounded-wisdom-from-someone-whos-clearly-2pf5)
-- [How to Troubleshoot and Debug Ansible Playbooks](https://dev.to/spacelift/how-to-troubleshoot-and-debug-ansible-playbooks-1j79)
+- [UI/UX - CSS でスタイル定義](https://dev.to/nabbisen/uiux-css-desutairuding-yi-2adm)
+- [Automating EKS Auto Mode Pod Subnet Range Customization with EKS Node Classes, Karpenter Node Pools, and Terraform](https://dev.to/aws-builders/automating-eks-auto-mode-pod-subnet-range-customization-with-eks-node-classes-karpenter-node-4nkg)
+- [How to generate PDFs with Puppeteer](https://dev.to/pollop/how-to-generate-pdfs-with-puppeteer-3kpo)
+- [A Classic Reborn: How I Remastered 40 Puzzle Games with AI](https://dev.to/selfboot/a-classic-reborn-how-i-remastered-40-puzzle-games-with-ai-1kdk)
+- [MLOps for Voice Cloning: CI/CD and Model Management in an AWS Environment](https://dev.to/semperfitodd/mlops-for-voice-cloning-cicd-and-model-management-in-an-aws-environment-20pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
