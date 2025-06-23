@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Modular AWS Infrastructure with Terraform &lpar;IaC&rpar;](https://dev.to/mustkhim_inamdar/building-scalable-modular-aws-infrastructure-with-terraform-iac-340a)
-- [Easy Steps to Clear Chrome Net Internals DNS Error on Windows, macOS, and Linux](https://dev.to/tanya_k_b7e02af0edda9ff27/easy-steps-to-clear-chrome-net-internals-dns-error-on-windows-macos-and-linux-6ha)
-- [YAML Learning Guide - Complete Tutorial](https://dev.to/wymdev/yaml-learning-guide-complete-tutorial-3nlc)
-- [Gold badge in Java](https://dev.to/hirushi_nethmini_41168bb8/gold-badge-in-java-1nok)
-- [How to Pass the AZ‑104 – Microsoft Certified: Azure Administrator Associate](https://dev.to/dale-rose/how-to-pass-the-az-104-microsoft-certified-azure-administrator-associate-30dg)
+- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
+- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
+- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
+- [Getting Started with Infracost: Estimating Cloud Costs](https://dev.to/aws-builders/getting-started-with-infracost-estimating-cloud-costs-an4)
+- [From RAG to Multi-Agent AI for Job Matching](https://dev.to/reebow/from-rag-to-multi-agent-ai-for-job-matching-5d66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
