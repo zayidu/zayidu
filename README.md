@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3 : DX-First Thinking: Why I Added @EnableTenantIsolation to My Spring Boot Starter](https://dev.to/rahulsbhatt/day-3-dx-first-thinking-why-i-added-enabletenantisolation-to-my-spring-boot-starter-5fba)
-- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-1m5a)
-- [I Switched from Nginx to Caddy and I&#39;ll Never Go Back](https://dev.to/shayy/i-switched-from-nginx-to-caddy-and-ill-never-go-back-7dg)
-- [VoiceReach [Murf AI Coding Challenge 2]](https://dev.to/madhav_536a9fcf74159033ae/voicereach-murf-ai-coding-challenge-2-b5f)
-- [Build a backend with Cursor and Manifest in just 5 minutes 😱](https://dev.to/sebconejo/build-a-backend-with-cursor-and-manifest-in-just-5-minutes-3m74)
+- [The David vs. Goliath Playbook: How Small Teams Can Build Big Tech-Caliber AI Customer Experiences](https://dev.to/sonnia_okoye/the-david-vs-goliath-playbook-how-small-teams-can-build-big-tech-caliber-ai-customer-experiences-24p3)
+- [Test Drive Before You Buy: Your Guide to AI Code Assistant Trials in 2025](https://dev.to/bekahhw/test-drive-before-you-buy-your-guide-to-ai-code-assistant-trials-in-2025-14pk)
+- [🦀 Understanding Lifetimes, Traits, Enums, and Pattern Matching in Rust](https://dev.to/nyagooh/understanding-lifetimes-traits-enums-and-pattern-matching-in-rust-2dc7)
+- [Books That Found Me When I Wasn’t Looking](https://dev.to/wittycircuitry/books-that-found-me-when-i-wasnt-looking-26k3)
+- [Why is my CSV file messed up?](https://dev.to/yowise/why-is-my-csv-file-messed-up-gge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
