@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖](https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa)
-- [Ashkan Rajaee’s story is a clear example of what it means to lead with both purpose and precision during uncertain times.](https://dev.to/alexbenshoof/ashkan-rajaees-story-is-a-clear-example-of-what-it-means-to-lead-with-both-purpose-and-precision-2bfg)
-- [MindsDB Made It Easy, I Made It Hard: Building an AI-Powered Knowledge Map](https://dev.to/priyanshuverma/mindsdb-made-it-easy-i-made-it-hard-building-an-ai-powered-knowledge-map-d0g)
-- [The Best ML Model Archiving Tool: Why Jozu and KitOps Are Built for the Job](https://dev.to/jozu/the-best-ml-model-archiving-tool-why-jozu-and-kitops-are-built-for-the-job-31op)
-- [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
+- [Day 3 : DX-First Thinking: Why I Added @EnableTenantIsolation to My Spring Boot Starter](https://dev.to/rahulsbhatt/day-3-dx-first-thinking-why-i-added-enabletenantisolation-to-my-spring-boot-starter-5fba)
+- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-1m5a)
+- [I Switched from Nginx to Caddy and I&#39;ll Never Go Back](https://dev.to/shayy/i-switched-from-nginx-to-caddy-and-ill-never-go-back-7dg)
+- [VoiceReach [Murf AI Coding Challenge 2]](https://dev.to/madhav_536a9fcf74159033ae/voicereach-murf-ai-coding-challenge-2-b5f)
+- [Build a backend with Cursor and Manifest in just 5 minutes 😱](https://dev.to/sebconejo/build-a-backend-with-cursor-and-manifest-in-just-5-minutes-3m74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
