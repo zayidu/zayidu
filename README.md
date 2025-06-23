@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate a Lectora Course](https://dev.to/elenahartmann/how-to-translate-a-lectora-course-142a)
-- [Building a Scalable HTML5 Game Portal: Lessons from Rogue Game Labs](https://dev.to/mufeng/building-a-scalable-html5-game-portal-lessons-from-rogue-game-labs-1h82)
-- [The Hidden Cost of Test Inheritance](https://dev.to/pomidoroshev/the-hidden-cost-of-test-inheritance-1k5o)
-- [I Built a Chrome Extension to Save ChatGPT Chats — Here’s How and Why](https://dev.to/pratibha_mehta_c1171ca7f0/i-built-a-chrome-extension-to-save-chatgpt-chats-heres-how-and-why-4pnm)
-- [Most Underrated Dev habit for Smart Project Outcomes](https://dev.to/pranesh_patel/most-underrated-dev-habit-for-smart-project-outcomes-2mlp)
+- [Building Scalable Modular AWS Infrastructure with Terraform &lpar;IaC&rpar;](https://dev.to/mustkhim_inamdar/building-scalable-modular-aws-infrastructure-with-terraform-iac-340a)
+- [Easy Steps to Clear Chrome Net Internals DNS Error on Windows, macOS, and Linux](https://dev.to/tanya_k_b7e02af0edda9ff27/easy-steps-to-clear-chrome-net-internals-dns-error-on-windows-macos-and-linux-6ha)
+- [YAML Learning Guide - Complete Tutorial](https://dev.to/wymdev/yaml-learning-guide-complete-tutorial-3nlc)
+- [Gold badge in Java](https://dev.to/hirushi_nethmini_41168bb8/gold-badge-in-java-1nok)
+- [How to Pass the AZ‑104 – Microsoft Certified: Azure Administrator Associate](https://dev.to/dale-rose/how-to-pass-the-az-104-microsoft-certified-azure-administrator-associate-30dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
