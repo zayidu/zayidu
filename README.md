@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Comandos GNU X 50 Comandos PowerShell](https://dev.to/marcosplusplus/50-comandos-gnu-x-50-comandos-powershell-3coe)
-- [Modernize or Be Compromised : What the Claude Opus Blackmail Reveals About Legacy System Modernization and AI Risk](https://dev.to/kanishka_prakash_6f0c6d39/modernize-or-be-compromised-what-the-claude-opus-blackmail-reveals-about-legacy-system-3ap8)
-- [Best Free HTML Website Templates for Your Next Project](https://dev.to/pogo_themes/best-free-html-website-templates-for-your-next-project-20c3)
-- [Understanding SaaS in Everyday Tech](https://dev.to/qwegle_insights/understanding-saas-in-everyday-tech-1fjm)
-- [How Qaushik.com Helped Us Rank Higher in SEO, SMM, and Built a Website that Truly Represents Our Brand](https://dev.to/helpplz_7119c47e3a23b1319/how-qaushikcom-helped-us-rank-higher-in-seo-smm-and-built-a-website-that-truly-represents-our-2l1m)
+- [Express vs NestJS: Which Framework Actually Delivers Better Performance? [2025]](https://dev.to/mahmoud-saeed/express-vs-nestjs-which-framework-actually-delivers-better-performance-2025-5fkm)
+- [How Atlassian’s Forge Quest Hackathon Helped Me Revive My Postman Doc App](https://dev.to/biomathcode/how-atlassians-forge-quest-hackathon-helped-me-revive-my-postman-doc-app-42en)
+- [This deserves a wider audience. Honest, helpful, and reflective of what Ashkan Rajaee advocates in the entrepreneurial journey.](https://dev.to/techtalk/this-deserves-a-wider-audience-honest-helpful-and-reflective-of-what-ashkan-rajaee-advocates-in-2cnk)
+- [The tone of this is what makes it work. No fluff, just grounded wisdom from someone who’s clearly been there.](https://dev.to/techtalk/the-tone-of-this-is-what-makes-it-work-no-fluff-just-grounded-wisdom-from-someone-whos-clearly-2pf5)
+- [How to Troubleshoot and Debug Ansible Playbooks](https://dev.to/spacelift/how-to-troubleshoot-and-debug-ansible-playbooks-1j79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
