@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Injection Is Still a Big Deal — Here&#39;s How to Stop It](https://dev.to/sharon_42e16b8da44dabde6d/sql-injection-is-still-a-big-deal-heres-how-to-stop-it-30m3)
-- [&quot;5 Figma Shortcuts Every Designer Should Know 💻⚡&quot;](https://dev.to/swetty_sultania_834f90237/5-figma-shortcuts-every-designer-should-know--26i7)
-- [Top 5 DevRel as a Service Companies in 2025](https://dev.to/samlongbottom/top-5-devrel-as-a-service-companies-in-2025-2a3e)
-- [รู้หรือไม่ Next.js ใช้ SWC ด้วยนะ!](https://dev.to/c_nook4545/ruuhruueaim-nextjs-aich-swc-dwyna-52i2)
-- [TypeScript Fundamentals](https://dev.to/thecoollearner/typescript-fundamentals-42i0)
+- [Best Mobile App Testing Frameworks for Android and iOS](https://dev.to/lambdatest/best-mobile-app-testing-frameworks-for-android-and-ios-202m)
+- [Implementando o Padrão Outbox com SQLite e usando Brighter](https://dev.to/actor-dev/implementando-o-padrao-outbox-com-sqlite-e-usando-brighter-4i25)
+- [Implementing the Outbox Pattern with SQLite and using Brighter](https://dev.to/actor-dev/implementing-the-outbox-pattern-with-sqlite-and-using-brighter-15ha)
+- [Run MCP Servers In Seconds With Docker](https://dev.to/pradumnasaraf/run-mcp-servers-in-seconds-with-docker-1ik5)
+- [How to Set Up Config Auto Sync in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-config-auto-syncin-safeline-41c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
