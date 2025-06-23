@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
-- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
-- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
-- [Getting Started with Infracost: Estimating Cloud Costs](https://dev.to/aws-builders/getting-started-with-infracost-estimating-cloud-costs-an4)
-- [From RAG to Multi-Agent AI for Job Matching](https://dev.to/reebow/from-rag-to-multi-agent-ai-for-job-matching-5d66)
+- [50 Comandos GNU X 50 Comandos PowerShell](https://dev.to/marcosplusplus/50-comandos-gnu-x-50-comandos-powershell-3coe)
+- [Modernize or Be Compromised : What the Claude Opus Blackmail Reveals About Legacy System Modernization and AI Risk](https://dev.to/kanishka_prakash_6f0c6d39/modernize-or-be-compromised-what-the-claude-opus-blackmail-reveals-about-legacy-system-3ap8)
+- [Best Free HTML Website Templates for Your Next Project](https://dev.to/pogo_themes/best-free-html-website-templates-for-your-next-project-20c3)
+- [Understanding SaaS in Everyday Tech](https://dev.to/qwegle_insights/understanding-saas-in-everyday-tech-1fjm)
+- [How Qaushik.com Helped Us Rank Higher in SEO, SMM, and Built a Website that Truly Represents Our Brand](https://dev.to/helpplz_7119c47e3a23b1319/how-qaushikcom-helped-us-rank-higher-in-seo-smm-and-built-a-website-that-truly-represents-our-2l1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
