@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing &quot;Suspense&quot; with a simple Observable](https://dev.to/dariomannu/implementing-suspense-with-a-simple-observable-5ag2)
-- [🚀 Why Linux is the Backbone of DevOps](https://dev.to/sreekanth_kuruba_91721e5d/why-linux-is-the-backbone-of-devops-1dj7)
-- [Terraform Fundamentals: CloudWatch RUM](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-rum-4k6g)
-- [Using 4 AI Tools to Build a Real Project &lpar;Claude + Cursor + Windsurf + VS Code&rpar;](https://dev.to/agape_aurora_4b5303956dc6/using-4-ai-tools-to-build-a-real-project-claude-cursor-windsurf-vs-code-56ih)
-- [The URL Space is Bigger than the Universe](https://dev.to/kireji/the-url-space-is-bigger-than-the-universe-4dfg)
+- [The 90-Minute Code Sprint: Why Most Developers Get Deep Work Duration Wrong](https://dev.to/teamcamp/the-90-minute-code-sprint-why-most-developers-get-deep-work-duration-wrong-53n1)
+- [Search Bars](https://dev.to/trentpolack/search-bars-4om4)
+- [Building for the Next Decade: Infrastructure for Decentralized AI](https://dev.to/seaos_ai/building-for-the-next-decade-infrastructure-for-decentralized-ai-44op)
+- [我的 Vibe Coding 的第二个项目](https://dev.to/immerse/wo-de-vibe-coding-de-di-er-ge-xiang-mu-5f94)
+- [Nueva era, nuevas reglas: AEO y AIO como claves del posicionamiento](https://dev.to/erikson_daniel/nueva-era-nuevas-reglas-aeo-y-aio-como-claves-del-posicionamiento-lgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
