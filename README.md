@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Lifeforce&quot; at 40 | A sci-fi horror film only Cannon could have made](https://dev.to/popcorn_movies/lifeforce-at-40-a-sci-fi-horror-film-only-cannon-could-have-made-39jn)
-- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-579)
-- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-39ml)
-- [‘Sinners&#39; Sets Max Streaming Release Date - July 4](https://dev.to/popcorn_movies/sinners-sets-max-streaming-release-date-july-4-518p)
-- [James Cameron&#39;s The Abyss Pulled From Disney+ in the UK Because of Banned &#39;Rat Abuse&#39; Scene - IGN](https://dev.to/popcorn_movies/james-camerons-the-abyss-pulled-from-disney-in-the-uk-because-of-banned-rat-abuse-scene-ign-1jc4)
+- [This is how I created a game from scratch using AWS](https://dev.to/javitech_co/this-is-how-i-created-a-game-from-scratch-using-aws-5enb)
+- [🚀 Stepping into Dev++ | Let’s Build the Future with AI 🤖](https://dev.to/balram15/stepping-into-dev-lets-build-the-future-with-ai-33hf)
+- [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
+- [Styling Your First React Component — A Gentle Introduction](https://dev.to/elram_gavrieli_887f3d6046/styling-your-first-react-component-a-gentle-introduction-1c82)
+- [Day 1 dev setup: Installing Docker, WSL, Python, GitHub SSH &lpar;with some challenges &amp; solutions&rpar;](https://dev.to/zipporahmutanu04/day-1-dev-setup-installing-docker-wsl-python-github-ssh-with-some-challenges-oo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
