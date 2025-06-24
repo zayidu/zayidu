@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Angular 20&#39;s Signals Will Change Your Code Forever](https://dev.to/rohit4321/how-angular-20s-signals-will-change-your-code-forever-462d)
-- [NodeJS Fundamentals: fork](https://dev.to/devopsfundamentals/nodejs-fundamentals-fork-2fpm)
-- [Fortinet Under Fire: New Auth Bypass Bug Actively Exploited &lpar;CVE-2024-55591&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/fortinet-under-fire-new-auth-bypass-bug-actively-exploited-cve-2024-55591-bb0)
-- [Go Coding with Asparagos: Can oranges sow the seeds of discord in linear time?](https://dev.to/asparagos/go-coding-with-asparagos-can-oranges-sow-the-seeds-of-discord-in-linear-time-1643)
-- [Get Past the Robots](https://dev.to/thetechpreneur/get-past-the-robots-3d16)
+- [Reflecting on the Air India Tragedy — Lessons and Condolences](https://dev.to/sonmusui/reflecting-on-the-air-india-tragedy-lessons-and-condolences-1id8)
+- [I built an Event-Sourcing Database Engine, because I love Event-Driven Architectures: Meet Genesis DB](https://dev.to/patriceckhart/i-built-an-event-sourcing-database-engine-because-i-love-event-driven-architectures-meet-genesis-3me8)
+- [C programming notes - 001](https://dev.to/tamilvanan/c-programming-notes-001-176)
+- [The way we make sense of success.](https://dev.to/sonmusui/outliers-by-malcolm-gladwell-2d8e)
+- [Job Application Tip for Node.js Developers](https://dev.to/sonmusui/job-application-tip-for-nodejs-developers-70o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
