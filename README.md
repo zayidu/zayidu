@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Starting My DevOps + QA Automation Journey](https://dev.to/rishabh-lakhanpal/starting-my-devops-qa-automation-journey-3lhl)
-- [Best 10+ AI Tools in Marketing – Flatlogic List](https://dev.to/alesiaasirotka/best-10-ai-tools-in-marketing-flatlogic-list-di2)
-- [The Convergence Opportunity: How AI Coding Agents Are Reshaping Product Roles](https://dev.to/joshjhall/the-convergence-opportunity-how-ai-coding-agents-are-reshaping-product-roles-278c)
-- [Is GitHub a single point of failure?](https://dev.to/solvecomputerscience/github-is-a-single-point-of-failure-504h)
-- [I learned today: Props drilling, UseContext &lpar;in Hooks&rpar; &amp; discuss about yesterday&#39;s interview questions...](https://dev.to/chithra_priya/i-learned-today-props-drilling-usecontext-in-hooks-discuss-about-yesterdays-interview-431l)
+- [Pinning GitHub Actions and using ratchet](https://dev.to/jonasbn/pinning-github-actions-and-using-ratchet-3lmc)
+- [Frontend devs: Here’s how to get the most out of Cursor](https://dev.to/logrocket/frontend-devs-heres-how-to-get-the-most-out-of-cursor-k7j)
+- [Model Mondays S2E02 - AMA on Model Context Protocol](https://dev.to/azure/model-mondays-s2e02-ama-on-model-context-protocol-e9i)
+- [🧱 𝗙𝗿𝗼𝗺 𝗠𝗼𝗻𝗼𝗹𝗶𝘁𝗵 𝘁𝗼 𝗠𝗼𝗱𝘂𝗹𝗮𝗿 — 𝗘𝘅𝘁𝗲𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗶𝗻 .𝗡𝗘𝗧 𝟭𝟬](https://dev.to/yaseer_arafat/--16on)
+- [UPI কি? UPI কিভাবে কাজ করে?](https://dev.to/rironib/upi-ki-upi-kibhaabe-kaaj-kre-5fac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
