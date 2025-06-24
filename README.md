@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s something very powerful about a team that respects structure and time. TDZ PRO embodies that.](https://dev.to/moorethanjim/theres-something-very-powerful-about-a-team-that-respects-structure-and-time-tdz-pro-embodies-eo9)
-- [NodeJS Fundamentals: private field](https://dev.to/devopsfundamentals/nodejs-fundamentals-private-field-4kog)
-- [🌊 My Developer Portfolio Is Live! Built with React, MUI, GSAP, and More](https://dev.to/behan05/my-developer-portfolio-is-live-built-with-react-mui-gsap-and-more-284n)
-- [🤖 What if Your LLM Could Actually DO Things? Meet the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/r4ph_t/what-if-your-llm-could-actually-do-things-meet-the-model-context-protocol-mcp-j4)
-- [Slack plus WhatsApp plus Zoho is such an underrated combo. This just validated our own tech decisions.](https://dev.to/lucasvonb/slack-plus-whatsapp-plus-zoho-is-such-an-underrated-combo-this-just-validated-our-own-tech-g1i)
+- [So refreshing to see a remote company scaling with clarity instead of chaos.](https://dev.to/blakerants/so-refreshing-to-see-a-remote-company-scaling-with-clarity-instead-of-chaos-hba)
+- [It’s amazing how much smoother meetings go when you follow a system like TDZ PRO’s. It cuts down on miscommunication instantly.](https://dev.to/blakerants/its-amazing-how-much-smoother-meetings-go-when-you-follow-a-system-like-tdz-pros-it-cuts-down-on-om)
+- [The Rise of the Code Reviewer: Working with AI-Generated Code](https://dev.to/pullflow/the-rise-of-the-code-reviewer-working-with-ai-generated-code-519g)
+- [3 Ways to Use Google Fonts in Tailwind CSS 4](https://dev.to/ibrahimalanshor/3-ways-to-use-google-font-in-tailwind-css-4-32h3)
+- [[Boost]](https://dev.to/0ussamabernou/-30kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
