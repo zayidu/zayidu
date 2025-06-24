@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
-- [🔒 My EC2 Instance Froze — No SSH, No Web CLI. Here&#39;s What Caused It &lpar;and How I Fixed It&rpar;](https://dev.to/vishal_09/my-ec2-instance-froze-no-ssh-no-web-cli-heres-what-caused-it-and-how-i-fixed-it-1317)
-- [Everything you need to know about referrals](https://dev.to/severin_wiggenhorn/everything-you-need-to-know-about-referrals-1ki3)
-- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 2 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-2-read-the-full-article-4pcd)
-- [Job Searching: Interview preparation Tips](https://dev.to/neel_n_5ab496ca/job-searching-interview-preparation-tips-8p9)
+- [WWDC 2025 - iOS Power Optimization: Advanced Profiling Techniques](https://dev.to/arshtechpro/wwdc-2025-ios-power-optimization-advanced-profiling-techniques-that-actually-work-4a10)
+- [Zero ETL com Amazon Aurora PostgreSQL e Amazon Redshift: simplicidade, escalabilidade e dados em quase tempo real](https://dev.to/geoleal/zero-etl-com-amazon-aurora-postgresql-e-amazon-redshift-simplicidade-escalabilidade-e-dados-em-34bi)
+- [AI Memories, PHP Reachability, CVE Policies, and Benchmarking](https://dev.to/semgrep/ai-memories-php-reachability-cve-policies-and-benchmarking-3naj)
+- [Installing key components to kickstart a 20-day bootcamp for django](https://dev.to/almasiy/installing-key-components-to-kickstart-a-20-day-bootcamp-for-django-1d3a)
+- [✨ Everything You Need to Master the DOM](https://dev.to/anthonybanion/dom-manipulation-in-javascript-2hnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
