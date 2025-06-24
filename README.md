@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6G Connectivity: The Future of Wireless Communication](https://dev.to/azubuike_alexmmaghiri_9e/6g-connectivity-the-future-of-wireless-communication-28f1)
-- [Rust’s Approach to Memory and Performance](https://dev.to/obeej/rusts-approach-to-memory-and-performance-1m22)
-- [Just built my firts express app no laptop just my phone.](https://dev.to/raymond_pro_guy/just-built-my-firts-express-app-no-laptop-just-my-phone-4j5b)
-- [Hello World!](https://dev.to/tecco2233/hello-world-3e4e)
-- [Please help me with this, any developers. This has been my dream since I was a child.](https://dev.to/_pes_843e3c69f562a5/please-help-me-with-this-any-developers-this-has-been-my-dream-since-i-was-a-child-53ni)
+- [GCP Fundamentals: Contact Center AI Platform API](https://dev.to/devopsfundamentals/gcp-fundamentals-contact-center-ai-platform-api-5ld)
+- [A New Lightweight Framework for AI Training: Easy, Modular, Ray-Free](https://dev.to/labubu_donna/a-new-lightweight-framework-for-ai-training-easy-modular-ray-free-5gdm)
+- [Using a database in the Cangjie development language](https://dev.to/youlanjihua/using-a-database-in-the-cangjie-development-language-32pl)
+- [What Are HTTP Headers — And How Do They Keep Your Site Secure?](https://dev.to/sharon_42e16b8da44dabde6d/what-are-http-headers-and-how-do-they-keep-your-site-secure-513l)
+- [Amazing Breakdown of such a complex problem.](https://dev.to/thedeepseeker/amazing-breakdown-of-such-a-complex-problem-4m9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
