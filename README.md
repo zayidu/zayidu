@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Frontend Development: From HTML to React](https://dev.to/masood_vali_ce52d833c4f03/my-journey-into-frontend-development-from-html-to-react-3ncg)
-- [How to Troubleshoot SafeLine License Activation Issues](https://dev.to/sharon_42e16b8da44dabde6d/how-to-troubleshoot-safeline-license-activation-issues-pc6)
-- [OpenJDK vs. Oracle JDK: Key Differences and When to Use Each](https://dev.to/gunasantosh/openjdk-vs-oracle-jdk-key-differences-and-when-to-use-each-40ni)
-- [10 Game-Changing Platforms &amp; Assistants Every Engineering Team Needs in 2025](https://dev.to/entelligenceai/10-game-changing-platforms-assistants-every-engineering-team-needs-in-2025-2ig4)
-- [Will AI Replace Frontend Developers? Here’s My Take](https://dev.to/masood_vali_ce52d833c4f03/will-ai-replace-frontend-developers-heres-my-take-27n9)
+- [How Angular 20&#39;s Signals Will Change Your Code Forever](https://dev.to/rohit4321/how-angular-20s-signals-will-change-your-code-forever-462d)
+- [NodeJS Fundamentals: fork](https://dev.to/devopsfundamentals/nodejs-fundamentals-fork-2fpm)
+- [Fortinet Under Fire: New Auth Bypass Bug Actively Exploited &lpar;CVE-2024-55591&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/fortinet-under-fire-new-auth-bypass-bug-actively-exploited-cve-2024-55591-bb0)
+- [Go Coding with Asparagos: Can oranges sow the seeds of discord in linear time?](https://dev.to/asparagos/go-coding-with-asparagos-can-oranges-sow-the-seeds-of-discord-in-linear-time-1643)
+- [Get Past the Robots](https://dev.to/thetechpreneur/get-past-the-robots-3d16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
