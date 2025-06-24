@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS]Hands-on: Building a Simple Web Server with CodeBuild + CodeDeploy &lpar;Sphinx&rpar;](https://dev.to/masakiokuda/awshands-on-building-a-simple-web-server-with-codebuild-codedeploy-sphinx-3h7b)
-- [Build a local chatbot with React, openAI, and indexed DB &lpar;using Dexie.js&rpar;](https://dev.to/angeldavid218/build-a-local-chatbot-with-react-openai-and-indexed-db-using-dexiejs-16oo)
-- [WWDC 2025 - Get to know the ManagedApp Framework](https://dev.to/arshtechpro/wwdc-2025-get-to-know-the-managedapp-framework-17do)
-- [WWDC 2025 - SF Symbols 7: Advanced Animation and Rendering Techniques](https://dev.to/arshtechpro/wwdc-2025-sf-symbols-7-advanced-animation-and-rendering-techniques-f7m)
-- [How does a First Incident Report help in preventing future accidents?](https://dev.to/writegenic/how-does-a-first-incident-report-help-in-preventing-future-accidents-5cco)
+- [6G Connectivity: The Future of Wireless Communication](https://dev.to/azubuike_alexmmaghiri_9e/6g-connectivity-the-future-of-wireless-communication-28f1)
+- [Rust’s Approach to Memory and Performance](https://dev.to/obeej/rusts-approach-to-memory-and-performance-1m22)
+- [Just built my firts express app no laptop just my phone.](https://dev.to/raymond_pro_guy/just-built-my-firts-express-app-no-laptop-just-my-phone-4j5b)
+- [Hello World!](https://dev.to/tecco2233/hello-world-3e4e)
+- [Please help me with this, any developers. This has been my dream since I was a child.](https://dev.to/_pes_843e3c69f562a5/please-help-me-with-this-any-developers-this-has-been-my-dream-since-i-was-a-child-53ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
