@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐳 Swarm Mode: Docker&#39;s Built-In Orchestration Superpower](https://dev.to/sovannaro/swarm-mode-dockers-built-in-orchestration-superpower-2dpf)
-- [This is a test post](https://dev.to/ben/this-is-a-test-post-405h)
-- [Test testing!](https://dev.to/ben/test-testing-45jl)
-- [How I Serve 4.5 Million Star Wars API Requests for Free](https://dev.to/sivarampg/how-i-serve-45-million-star-wars-api-requests-for-free-4dk1)
-- [5 Must-Know Design Patterns Every Developer Should Master](https://dev.to/nishchay7pixels/5-must-know-design-patterns-every-developer-should-master-4fbk)
+- [🚀 Starting My DevOps + QA Automation Journey](https://dev.to/rishabh-lakhanpal/starting-my-devops-qa-automation-journey-3lhl)
+- [Best 10+ AI Tools in Marketing – Flatlogic List](https://dev.to/alesiaasirotka/best-10-ai-tools-in-marketing-flatlogic-list-di2)
+- [The Convergence Opportunity: How AI Coding Agents Are Reshaping Product Roles](https://dev.to/joshjhall/the-convergence-opportunity-how-ai-coding-agents-are-reshaping-product-roles-278c)
+- [Is GitHub a single point of failure?](https://dev.to/solvecomputerscience/github-is-a-single-point-of-failure-504h)
+- [I learned today: Props drilling, UseContext &lpar;in Hooks&rpar; &amp; discuss about yesterday&#39;s interview questions...](https://dev.to/chithra_priya/i-learned-today-props-drilling-usecontext-in-hooks-discuss-about-yesterdays-interview-431l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
