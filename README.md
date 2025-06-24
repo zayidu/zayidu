@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [```markdown](https://dev.to/mosininamdar/markdown-aab)
-- [🚀 Why choose C# and .NET as my programming language?](https://dev.to/iron-software/why-choose-c-and-net-as-my-programming-language-39m3)
-- [🇫🇷 From &quot;Vingt et Un&quot; to 21: Building a Lightning-Fast French Number Parser in Ruby](https://dev.to/fabijordgrimsson/from-vingt-et-un-to-21-building-a-lightning-fast-french-number-parser-in-ruby-2hn6)
-- [DAY 12-CSS SELECTORS](https://dev.to/asran_2025/day-12-css-selectors-4e69)
-- [How I Built a Chat-Triggered ChatOps Pipeline Using Teams, Logic Apps &amp; AWX](https://dev.to/grk1986/how-i-built-a-chat-triggered-gitops-pipeline-using-teams-logic-apps-awx-1pk9)
+- [Python Fundamentals: async](https://dev.to/devopsfundamentals/python-fundamentals-async-1e9f)
+- [How to Prompt an LLM to Write Angular Code: Straight from the Experts](https://dev.to/dhanushdevadiga/how-to-prompt-an-llm-to-write-angular-code-straight-from-the-experts-1po6)
+- [LiveHealthChecks - real time API Health Check monitoring](https://dev.to/veritassoftware/livehealthchecks-real-time-api-health-check-monitoring-4aid)
+- [[Boost]](https://dev.to/naik_sejal/-39mh)
+- [[Boost]](https://dev.to/pranesh_patel/-2eem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
