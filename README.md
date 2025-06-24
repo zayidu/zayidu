@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I just asked ChatGPT then I Built and Published My First React Native Component to npm - vietnam currency component](https://dev.to/tungcao_dev/i-just-asked-chatgpt-then-i-built-and-published-my-first-react-native-component-to-npm-vietnam-5c97)
-- [A step-by-step guide to building a personalized AI assistant from scratch using Python](https://dev.to/devopsvn/a-step-by-step-guide-to-building-a-personalized-ai-assistant-from-scratch-using-python-1bgd)
-- [&lpar;1&rpar; This Saturday on Github..](https://dev.to/aspxone-official/1-this-saturday-on-github-2pmi)
-- [Mastering Collaborative Coding: A Deep Dive into Git Branching and Merging for Teams](https://dev.to/adityabhuyan/mastering-collaborative-coding-a-deep-dive-into-git-branching-and-merging-for-teams-25kf)
-- [The Rise of Virtual Companionship: How Tech Is Shaping Casual Digital Encounters](https://dev.to/johannaatwood/the-rise-of-virtual-companionship-how-tech-is-shaping-casual-digital-encounters-1dc8)
+- [The Best ngrok alternative for Mac: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-mac-tunnelmole-open-source-255i)
+- [I published my first Desktop App after 6 months of work — Everything I learnt](https://dev.to/paul_freeman/i-published-my-first-desktop-app-after-6-months-of-work-everything-i-learnt-34m0)
+- [Here is my first article ever! I hope you&#39;ll enjoy reading it. I will be very happy to respond to any comments you may have. :&rpar;](https://dev.to/restray/here-is-my-first-article-ever-i-hope-youll-enjoy-reading-it-i-will-be-very-happy-to-respond-to-2oc)
+- [AI vs. AGI: Key Differences and Why It Matters and What You Need to Know](https://dev.to/abuhorairatarif/ai-vs-agi-key-differences-and-why-it-matters-and-what-you-need-to-know-n9k)
+- [Top 6 On-Premises API Management Tools for 2025: The Developer’s Guide](https://dev.to/apilover/top-6-on-premises-api-management-tools-for-2025-the-developers-guide-1lbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
