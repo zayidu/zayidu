@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on the Air India Tragedy — Lessons and Condolences](https://dev.to/sonmusui/reflecting-on-the-air-india-tragedy-lessons-and-condolences-1id8)
-- [I built an Event-Sourcing Database Engine, because I love Event-Driven Architectures: Meet Genesis DB](https://dev.to/patriceckhart/i-built-an-event-sourcing-database-engine-because-i-love-event-driven-architectures-meet-genesis-3me8)
-- [C programming notes - 001](https://dev.to/tamilvanan/c-programming-notes-001-176)
-- [The way we make sense of success.](https://dev.to/sonmusui/outliers-by-malcolm-gladwell-2d8e)
-- [Job Application Tip for Node.js Developers](https://dev.to/sonmusui/job-application-tip-for-nodejs-developers-70o)
+- [I just asked ChatGPT then I Built and Published My First React Native Component to npm - vietnam currency component](https://dev.to/tungcao_dev/i-just-asked-chatgpt-then-i-built-and-published-my-first-react-native-component-to-npm-vietnam-5c97)
+- [A step-by-step guide to building a personalized AI assistant from scratch using Python](https://dev.to/devopsvn/a-step-by-step-guide-to-building-a-personalized-ai-assistant-from-scratch-using-python-1bgd)
+- [&lpar;1&rpar; This Saturday on Github..](https://dev.to/aspxone-official/1-this-saturday-on-github-2pmi)
+- [Mastering Collaborative Coding: A Deep Dive into Git Branching and Merging for Teams](https://dev.to/adityabhuyan/mastering-collaborative-coding-a-deep-dive-into-git-branching-and-merging-for-teams-25kf)
+- [The Rise of Virtual Companionship: How Tech Is Shaping Casual Digital Encounters](https://dev.to/johannaatwood/the-rise-of-virtual-companionship-how-tech-is-shaping-casual-digital-encounters-1dc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
