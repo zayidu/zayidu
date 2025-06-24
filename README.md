@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This entire system is a reminder that professionalism doesn’t require fancy tools, just consistency and clear intent. TDZ PRO gets that.](https://dev.to/techtalk/this-entire-system-is-a-reminder-that-professionalism-doesnt-require-fancy-tools-just-consistency-mh)
-- [Writing Your First Automated Test Using Python &lpar;unittest Framework&rpar;](https://dev.to/testrig/writing-your-first-automated-test-using-python-unittest-framework-2n89)
-- [In crypto and fintech, you&#39;re either moving at speed or you&#39;re irrelevant](https://dev.to/iri_denis/in-crypto-and-fintech-youre-either-moving-at-speed-or-youre-irrelevant-2mne)
-- [Why More Developers Are Turning to Haskell in 2025](https://dev.to/haskell-jobs/why-more-developers-are-turning-to-haskell-in-2025-2d0k)
-- [I made a new OS](https://dev.to/cheese_king_e815378335419/i-made-a-new-os-4glk)
+- [There’s something very powerful about a team that respects structure and time. TDZ PRO embodies that.](https://dev.to/moorethanjim/theres-something-very-powerful-about-a-team-that-respects-structure-and-time-tdz-pro-embodies-eo9)
+- [NodeJS Fundamentals: private field](https://dev.to/devopsfundamentals/nodejs-fundamentals-private-field-4kog)
+- [🌊 My Developer Portfolio Is Live! Built with React, MUI, GSAP, and More](https://dev.to/behan05/my-developer-portfolio-is-live-built-with-react-mui-gsap-and-more-284n)
+- [🤖 What if Your LLM Could Actually DO Things? Meet the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/r4ph_t/what-if-your-llm-could-actually-do-things-meet-the-model-context-protocol-mcp-j4)
+- [Slack plus WhatsApp plus Zoho is such an underrated combo. This just validated our own tech decisions.](https://dev.to/lucasvonb/slack-plus-whatsapp-plus-zoho-is-such-an-underrated-combo-this-just-validated-our-own-tech-g1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
