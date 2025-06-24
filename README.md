@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best ngrok alternative for Mac: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-mac-tunnelmole-open-source-255i)
-- [I published my first Desktop App after 6 months of work — Everything I learnt](https://dev.to/paul_freeman/i-published-my-first-desktop-app-after-6-months-of-work-everything-i-learnt-34m0)
-- [Here is my first article ever! I hope you&#39;ll enjoy reading it. I will be very happy to respond to any comments you may have. :&rpar;](https://dev.to/restray/here-is-my-first-article-ever-i-hope-youll-enjoy-reading-it-i-will-be-very-happy-to-respond-to-2oc)
-- [AI vs. AGI: Key Differences and Why It Matters and What You Need to Know](https://dev.to/abuhorairatarif/ai-vs-agi-key-differences-and-why-it-matters-and-what-you-need-to-know-n9k)
-- [Top 6 On-Premises API Management Tools for 2025: The Developer’s Guide](https://dev.to/apilover/top-6-on-premises-api-management-tools-for-2025-the-developers-guide-1lbl)
+- [```markdown](https://dev.to/mosininamdar/markdown-aab)
+- [🚀 Why choose C# and .NET as my programming language?](https://dev.to/iron-software/why-choose-c-and-net-as-my-programming-language-39m3)
+- [🇫🇷 From &quot;Vingt et Un&quot; to 21: Building a Lightning-Fast French Number Parser in Ruby](https://dev.to/fabijordgrimsson/from-vingt-et-un-to-21-building-a-lightning-fast-french-number-parser-in-ruby-2hn6)
+- [DAY 12-CSS SELECTORS](https://dev.to/asran_2025/day-12-css-selectors-4e69)
+- [How I Built a Chat-Triggered ChatOps Pipeline Using Teams, Logic Apps &amp; AWX](https://dev.to/grk1986/how-i-built-a-chat-triggered-gitops-pipeline-using-teams-logic-apps-awx-1pk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
