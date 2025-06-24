@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Learning Is Dead—Long Live Human Meaning](https://dev.to/jinparkmida/human-learning-is-dead-long-live-human-meaning-4k78)
-- [Every application deserves a solid foundation](https://dev.to/bakewizard/every-application-deserves-a-solid-foundation-2l36)
-- [The 7 Tools I Use Every Day to Build My 5,000-User SaaS](https://dev.to/shayy/the-7-tools-i-use-every-day-to-build-my-5000-user-saas-12f3)
-- [Kickstart Your Python Dev Workflow: Git, Docker, WSL, &amp; GitHub SSH](https://dev.to/obonyodorice/kickstart-your-python-dev-workflow-git-docker-wsl-github-ssh-1ed1)
-- [🌍 Seeking International Opportunities | Expert Software Engineer with 8+ Years Experience Hello DEV Community 👋 I&#39;m Moise Donald NGUEKI, a passionate and results-driven Software Engineer with over 8 years of experience building and scaling robust digital](https://dev.to/moise_donaldngueki_6318b/seeking-international-opportunities-expert-software-engineer-with-8-years-experience-hello-dev-1pmb)
+- [&quot;Lifeforce&quot; at 40 | A sci-fi horror film only Cannon could have made](https://dev.to/popcorn_movies/lifeforce-at-40-a-sci-fi-horror-film-only-cannon-could-have-made-39jn)
+- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-579)
+- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-39ml)
+- [‘Sinners&#39; Sets Max Streaming Release Date - July 4](https://dev.to/popcorn_movies/sinners-sets-max-streaming-release-date-july-4-518p)
+- [James Cameron&#39;s The Abyss Pulled From Disney+ in the UK Because of Banned &#39;Rat Abuse&#39; Scene - IGN](https://dev.to/popcorn_movies/james-camerons-the-abyss-pulled-from-disney-in-the-uk-because-of-banned-rat-abuse-scene-ign-1jc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
