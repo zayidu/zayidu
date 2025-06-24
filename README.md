@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [So refreshing to see a remote company scaling with clarity instead of chaos.](https://dev.to/blakerants/so-refreshing-to-see-a-remote-company-scaling-with-clarity-instead-of-chaos-hba)
-- [It’s amazing how much smoother meetings go when you follow a system like TDZ PRO’s. It cuts down on miscommunication instantly.](https://dev.to/blakerants/its-amazing-how-much-smoother-meetings-go-when-you-follow-a-system-like-tdz-pros-it-cuts-down-on-om)
-- [The Rise of the Code Reviewer: Working with AI-Generated Code](https://dev.to/pullflow/the-rise-of-the-code-reviewer-working-with-ai-generated-code-519g)
-- [3 Ways to Use Google Fonts in Tailwind CSS 4](https://dev.to/ibrahimalanshor/3-ways-to-use-google-font-in-tailwind-css-4-32h3)
-- [[Boost]](https://dev.to/0ussamabernou/-30kp)
+- [🐳 Swarm Mode: Docker&#39;s Built-In Orchestration Superpower](https://dev.to/sovannaro/swarm-mode-dockers-built-in-orchestration-superpower-2dpf)
+- [This is a test post](https://dev.to/ben/this-is-a-test-post-405h)
+- [Test testing!](https://dev.to/ben/test-testing-45jl)
+- [How I Serve 4.5 Million Star Wars API Requests for Free](https://dev.to/sivarampg/how-i-serve-45-million-star-wars-api-requests-for-free-4dk1)
+- [5 Must-Know Design Patterns Every Developer Should Master](https://dev.to/nishchay7pixels/5-must-know-design-patterns-every-developer-should-master-4fbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
