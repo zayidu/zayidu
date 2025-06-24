@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Fundamentals: async](https://dev.to/devopsfundamentals/python-fundamentals-async-1e9f)
-- [How to Prompt an LLM to Write Angular Code: Straight from the Experts](https://dev.to/dhanushdevadiga/how-to-prompt-an-llm-to-write-angular-code-straight-from-the-experts-1po6)
-- [LiveHealthChecks - real time API Health Check monitoring](https://dev.to/veritassoftware/livehealthchecks-real-time-api-health-check-monitoring-4aid)
-- [[Boost]](https://dev.to/naik_sejal/-39mh)
-- [[Boost]](https://dev.to/pranesh_patel/-2eem)
+- [This entire system is a reminder that professionalism doesn’t require fancy tools, just consistency and clear intent. TDZ PRO gets that.](https://dev.to/techtalk/this-entire-system-is-a-reminder-that-professionalism-doesnt-require-fancy-tools-just-consistency-mh)
+- [Writing Your First Automated Test Using Python &lpar;unittest Framework&rpar;](https://dev.to/testrig/writing-your-first-automated-test-using-python-unittest-framework-2n89)
+- [In crypto and fintech, you&#39;re either moving at speed or you&#39;re irrelevant](https://dev.to/iri_denis/in-crypto-and-fintech-youre-either-moving-at-speed-or-youre-irrelevant-2mne)
+- [Why More Developers Are Turning to Haskell in 2025](https://dev.to/haskell-jobs/why-more-developers-are-turning-to-haskell-in-2025-2d0k)
+- [I made a new OS](https://dev.to/cheese_king_e815378335419/i-made-a-new-os-4glk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
