@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
-- [Building a Simple Email Spam Classifier in Rust with SmartCore](https://dev.to/devwonder01/building-a-simple-email-spam-classifier-in-rust-with-smartcore-4k3n)
-- [My passion? Building web apps that are both powerful and visually striking. Think robust Django backends, dynamic React frontends, and a design aesthetic that truly sets you apart. Ready for something different? hashtag#DjangoDeveloper hashtag#ReactDevelo](https://dev.to/highcenburg/my-passion-building-web-apps-that-are-both-powerful-and-visually-striking-think-robust-django-25en)
-- [Where is the Vibe in &quot;Vibe Coding&quot; and what happened to Music Monday?](https://dev.to/ingosteinke/where-is-the-vibe-in-vibe-coding-and-what-happened-to-music-monday-49ek)
-- [FRONTEND](https://dev.to/nebula_3108/frontend-l12)
+- [🛡️ Cybersecurity Review Guide for React &amp; Vite Applications](https://dev.to/satwik_nakhate_b990d49af3/cybersecurity-review-guide-for-react-vite-applications-23ag)
+- [Move and aptos ecosystem](https://dev.to/tech_journey_85208cd43521/move-and-aptos-ecosystem-3hl0)
+- [Troubleshooting Production with GitHub Copilot: The Guide for Real Humans &lpar;and Bots with Good Taste&rpar;](https://dev.to/anchildress11/troubleshooting-production-with-github-copilot-the-guide-for-real-humans-and-bots-with-good-taste-253o)
+- [Imitation Hema - Category Navigation List Pop up &lpar;16&rpar;](https://dev.to/whl15290959515/imitation-hema-category-navigation-list-pop-up-16-413h)
+- [Hey, great work on your project! 🙌 I noticed one of the links seems to be broken&lpar;https://codebeautify.org/jsoncompare&rpar;. If you&#39;re looking for a working JSON comparison tool, feel free to check out mine: https://formatjsononline.com/json-compare](https://dev.to/anil_c84dda16a00ec91d5057/hey-great-work-on-your-project-i-noticed-one-of-the-links-seems-to-be-171h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
