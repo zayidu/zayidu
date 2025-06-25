@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Tenant Analytics with Snowflake RBAC and Sigma Computing: Part 2](https://dev.to/qvfagundes/building-multi-tenant-analytics-with-snowflake-rbac-and-sigma-computing-part-2-1dlp)
-- [Hong Mong 5 Development Treasure Case Sharing Web Adaptation One More Development Practices](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-web-adaptation-one-more-development-practices-30dl)
-- [JavaScript Gotchas That Still Catch You Slipping &lpar;Even After Years&rpar;](https://dev.to/amitha_0706/javascript-gotchas-that-still-catch-you-slipping-even-after-years-16ab)
-- [Hong Mong 5 Development Treasure Case Sharing Wear Development Treasure Guide](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-wear-development-treasure-guide-1oi)
-- [Seems my anxiety is a zombie process: while&lpar;true&rpar; { try { await new Promise&lpar;&lpar;&rpar; =&gt; {}&rpar;; // waiting for meaning that never comes } catch { // nothing catches this searching and .............. } } // tried killing it several times const killAllProblems = &lpar;&rpar;](https://dev.to/milad_rtsar_e264d3e9f0fac/seems-my-anxiety-is-a-zombie-process-whiletrue-try-await-new-promise--kml)
+- [Rails on Jets: Serverless Active Record? Here’s What Broke](https://dev.to/alex_aslam/rails-on-jets-serverless-active-record-heres-what-broke-54am)
+- [Day 4: software engineering Insights &lpar;#4&rpar;](https://dev.to/milade/day-4-software-engineering-insights-4-4nc6)
+- [Building a Multi-Application Kubernetes Marketplace: TCP/UDP App Onboarding at Scale](https://dev.to/kahuna04/building-a-multi-application-kubernetes-marketplace-tcpudp-app-onboarding-at-scale-1i74)
+- [Day 3: software engineering Insights &lpar;#3&rpar;](https://dev.to/milade/day-3-software-engineering-insights-3-54mn)
+- [How I Built My Portfolio Website with HTML, CSS &amp; JS](https://dev.to/ridwan_raji_95adc3f4d5ee8/how-i-built-my-portfolio-website-with-html-css-js-125a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
