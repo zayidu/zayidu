@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Containers Are Here: Deploy Docker Globally with a Single Command](https://dev.to/sivarampg/cloudflare-containers-are-here-deploy-docker-globally-with-a-single-command-4e1m)
-- [HarmonyOS Native Development Notes: 03-The Whole Process of Meta Service Development](https://dev.to/shaohushuo/harmonyos-native-development-notes-03-the-whole-process-of-meta-service-development-3nee)
-- [Wear Engine Development](https://dev.to/hmosdevelopers/wear-engine-development-3b75)
-- [How have you approached your strategy to setup headless CMS?](https://dev.to/istealersn_dev/how-have-you-approached-your-strategy-to-setup-headless-cms-3n24)
-- [GCP Fundamentals: Container Analysis API](https://dev.to/devopsfundamentals/gcp-fundamentals-container-analysis-api-95d)
+- [VMware Fundamentals: Photon Checksum Generator](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-checksum-generator-1jln)
+- [Programing as a art - chapter 2](https://dev.to/pjdeveloper896/programing-as-a-art-chapter-2-5299)
+- [ติวสอบสัมภาษณ์งาน Java เบื้องต้น ฉบับ มือใหม่ [2]](https://dev.to/c_nook4545/tiwsbsamphaasn-java-ebuuengtn-chbab-muueaihm-2-1n76)
+- [I Wrote the S2E01 Recap for Model Mondays: Advanced Reasoning Session](https://dev.to/sharda_kaur/i-wrote-the-s2e01-recap-for-model-mondays-advanced-reasoning-session-o05)
+- [How to Generate QR Codes in Bulk—Fast](https://dev.to/alexandriawilson/how-to-generate-qr-codes-in-bulk-fast-3mme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
