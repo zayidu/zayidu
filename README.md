@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Architecture Styles : Monolith, Modulith, Micro-services, which option is better for you](https://dev.to/aharmaz/software-architecture-styles-monolith-modulith-micro-services-which-option-is-better-for-you-fad)
-- [🛠 The Tools That Power My Day-to-Day Workflow &lpar;as a MERN Stack Dev&rpar; in 2025](https://dev.to/realcw_bishop/the-tools-that-power-my-day-to-day-workflow-as-a-mern-stack-dev-in-2025-bg7)
-- [Ansible, What and Why?](https://dev.to/mateenzero/ansible-what-and-why-61n)
-- [🔒 Ensuring Compliance When Fine-Tuning AI Models with MultiMindSDK](https://dev.to/multimindsdk/ensuring-compliance-when-fine-tuning-ai-models-with-multimindsdk-a3c)
-- [📈🤖 Personalized AI Blueprint: Unleash Your True Potential 🔓✨](https://dev.to/dev_99718084404de/personalized-ai-blueprint-unleash-your-true-potential-2bjk)
+- [Building Multi-Tenant Analytics with Snowflake RBAC and Sigma Computing: Part 2](https://dev.to/qvfagundes/building-multi-tenant-analytics-with-snowflake-rbac-and-sigma-computing-part-2-1dlp)
+- [Hong Mong 5 Development Treasure Case Sharing Web Adaptation One More Development Practices](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-web-adaptation-one-more-development-practices-30dl)
+- [JavaScript Gotchas That Still Catch You Slipping &lpar;Even After Years&rpar;](https://dev.to/amitha_0706/javascript-gotchas-that-still-catch-you-slipping-even-after-years-16ab)
+- [Hong Mong 5 Development Treasure Case Sharing Wear Development Treasure Guide](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-wear-development-treasure-guide-1oi)
+- [Seems my anxiety is a zombie process: while&lpar;true&rpar; { try { await new Promise&lpar;&lpar;&rpar; =&gt; {}&rpar;; // waiting for meaning that never comes } catch { // nothing catches this searching and .............. } } // tried killing it several times const killAllProblems = &lpar;&rpar;](https://dev.to/milad_rtsar_e264d3e9f0fac/seems-my-anxiety-is-a-zombie-process-whiletrue-try-await-new-promise--kml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
