@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Gave Up on a Monolith and Built My AI with Microservices Instead](https://dev.to/rene_3e17dd52b0dfba8/why-i-gave-up-on-a-monolith-and-built-my-ai-with-microservices-instead-10kf)
-- [Mastering Access Audits and Credential Cleanups: Strengthening Your Security Posture](https://dev.to/apil_faterpekar_fa7adcfc0/mastering-access-audits-and-credential-cleanups-strengthening-your-security-posture-m3e)
-- [Zero Trust Security in Microsoft 365: Best Practices for 2025](https://dev.to/apil_faterpekar_fa7adcfc0/zero-trust-security-in-microsoft-365-best-practices-for-2025-lnc)
-- [How I Built a Multi-Theme System using New Tailwind CSS v4 &amp; React](https://dev.to/praveen-sripati/how-i-built-a-multi-theme-system-using-new-tailwind-css-v4-react-27j3)
-- [CVE-2025-0282: Remote Code Execution in Ivanti Connect Secure VPN](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-0282-remote-code-execution-in-ivanti-connect-secure-vpn-3ckd)
+- [Un loader UX-friendly en Angular avec cet utilitaire RxJS](https://dev.to/romain_geffrault_10d88369/un-loader-ux-friendly-en-angular-avec-cet-utilitaire-rxjs-1184)
+- [Give Your AI Agents Persistent Memory with Mem0](https://dev.to/abdibrokhim/give-your-ai-agents-persistent-memory-with-mem0-3eff)
+- [Day 10 - Building the Navigation System with a Workspace-Aware Sidebar](https://dev.to/nader_fh/day-10-building-the-navigation-system-with-a-workspace-aware-sidebar-2bco)
+- [Microsoft 365 Business Standard Security and Productivity Features: What You Get in 2025](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-business-standard-security-and-productivity-features-what-you-get-in-2025-fe)
+- [What is WordPress? Explained for Beginners &lpar;2025 Guide&rpar;](https://dev.to/champsoft/what-is-wordpress-explained-for-beginners-2025-guide-1do3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
