@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Understanding the JavaScript Event Loop &lpar;With Diagrams &amp; Code&rpar;](https://dev.to/webtechnology_tutorials_f/understanding-the-javascript-event-loop-with-diagrams-code-1en3)
-- [Cybersecurity Nightmare: 16 Billion Passwords Exposed in Data Breach](https://dev.to/tanya_k_b7e02af0edda9ff27/cybersecurity-nightmare-16-billion-passwords-exposed-in-data-breach-10lo)
-- [How to create an animated navigation on scroll with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-2lh6)
-- [How to Make an Amazon Clone](https://dev.to/david_beckam_df898f761b30/how-to-make-an-amazon-clone-2798)
-- [Why I Built My Own Founder HQ Instead of Just Another Portfolio](https://dev.to/abubeker_kasim_52f9970b26/why-i-built-my-own-founder-hq-instead-of-just-another-portfolio-4f56)
+- [NodeJS Fundamentals: spawn](https://dev.to/devopsfundamentals/nodejs-fundamentals-spawn-af1)
+- [The Ultimate Dynamics 365 Sales AI Guide: Features to Supercharge Your Revenue](https://dev.to/array_platforms/the-ultimate-dynamics-365-sales-ai-guide-features-to-supercharge-your-revenue-2nkd)
+- [It Begins...](https://dev.to/darkskiesinteractive/it-begins-ame)
+- [🚫 SiteBlocker – A Simple Website Blocker for Windows &lpar;Python + GUI + .exe&rpar;](https://dev.to/mahmud-r-farhan/siteblocker-a-simple-website-blocker-for-windows-python-gui-exe-bac)
+- [TypeScript Complete Roadmap &lpar;Beginner to Advanced&rpar; — 2025 Edition](https://dev.to/coder_studios/typescript-complete-roadmap-beginner-to-advanced-2025-edition-2ebb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
