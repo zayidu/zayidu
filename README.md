@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Go further with MapKit &amp; MapKit JavaScript](https://dev.to/arshtechpro/wwdc-2025-go-further-with-mapkit-mapkit-javascript-a5l)
-- [The Developer&#39;s Imperative: Surfing the AI Wave &lpar;Before it Swamps Your Stack&rpar;](https://dev.to/writerelliswilson/the-developers-imperative-surfing-the-ai-wave-before-it-swamps-your-stack-578l)
-- [Technical Interviews in the AI Era](https://dev.to/joacod/technical-interviews-in-the-ai-era-2phk)
-- [Day 15: HTML/CSS Dev Takes On Three Frontend Projects &lpar;What Could Go Wrong?&rpar;](https://dev.to/casperday11/day-15-htmlcss-dev-takes-on-three-frontend-projects-what-could-go-wrong-133j)
-- [🚀 AWS App Runner – The Easiest Way to Deploy Containers to the Cloud](https://dev.to/aws-builders/aws-app-runner-the-easiest-way-to-deploy-containers-to-the-cloud-5fbf)
+- [Spelling Checker - NLP](https://dev.to/datatoinfinity/spelling-checker-nlp-h53)
+- [Building a Real-World Context-Aware Movie Chatbot Using Amazon Bedrock - Nova Pro](https://dev.to/aws-builders/building-a-real-world-context-aware-movie-chatbot-using-amazon-bedrock-nova-pro-jge)
+- [How AI in Art Boosts, Not Replaces Creativity](https://dev.to/sebastian_reid999/how-ai-in-art-boosts-not-replaces-creativity-cb2)
+- [Confession: I’m a Developer Who Just Started Using Git Properly](https://dev.to/gaurikhanolkar1/some-git-notes-2jj7)
+- [🚀 Introducing MultiMind SDK: Fine-Tune, Build, and Deploy LLM](https://dev.to/multimindsdk/introducing-multimind-sdk-fine-tune-build-and-deploy-llm-powered-apps-like-a-pro-44e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
