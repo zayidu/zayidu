@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modernize to Maximize: How Applications Modernization Drives Business Agility](https://dev.to/crmsoftware361/modernize-to-maximize-how-applications-modernization-drives-business-agility-2j0j)
-- [Useful Array Methods Every Beginner Must Master](https://dev.to/giftintech/useful-array-methods-every-beginner-must-master-3omf)
-- [OpenAI vs Gemini War: Why Cloud Certifications Still Matter in 2025](https://dev.to/sarahmoz/openai-vs-gemini-war-why-cloud-certifications-still-matter-in-2025-41ah)
-- [How to automatically decrypt a LUKS LVM setup on boot with a USB](https://dev.to/filisko/how-to-automatically-decrypt-a-luks-lvm-setup-on-boot-with-a-usb-411i)
-- [The Second Raku Core Summit](https://dev.to/lizmat/the-second-raku-core-summit-f99)
+- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
+- [Building a Simple Email Spam Classifier in Rust with SmartCore](https://dev.to/devwonder01/building-a-simple-email-spam-classifier-in-rust-with-smartcore-4k3n)
+- [My passion? Building web apps that are both powerful and visually striking. Think robust Django backends, dynamic React frontends, and a design aesthetic that truly sets you apart. Ready for something different? hashtag#DjangoDeveloper hashtag#ReactDevelo](https://dev.to/highcenburg/my-passion-building-web-apps-that-are-both-powerful-and-visually-striking-think-robust-django-25en)
+- [Where is the Vibe in &quot;Vibe Coding&quot; and what happened to Music Monday?](https://dev.to/ingosteinke/where-is-the-vibe-in-vibe-coding-and-what-happened-to-music-monday-49ek)
+- [FRONTEND](https://dev.to/nebula_3108/frontend-l12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
