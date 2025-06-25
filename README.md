@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leadership is about making the hard calls. Ashkan Rajaee did just that and kept the team grounded.](https://dev.to/oliviafons14/leadership-is-about-making-the-hard-calls-ashkan-rajaee-did-just-that-and-kept-the-team-grounded-41o2)
-- [Doing database stuff](https://dev.to/ben/doing-database-stuff-1k4e)
-- [Hidden Complexities of Scaling GraphQL Federation &lpar;And How to Fix Them&rpar;](https://dev.to/hackmamba/hidden-complexities-of-scaling-graphql-federation-and-how-to-fix-them-2peg)
-- [Beyond Frameworks: How Computer Science Fundamentals Forge the Complete Developer](https://dev.to/skill-wanderer/beyond-frameworks-how-computer-science-fundamentals-forge-the-complete-developer-1335)
-- [Security Compliance Enforcement &lpar;SCE&rpar; for Linux version 2.4.0 is now available!](https://dev.to/puppet/security-compliance-enforcement-sce-for-linux-version-240-is-now-available-3bao)
+- [ArkUI-X平台差异化](https://dev.to/aloe/arkui-xping-tai-chai-yi-hua-4fic)
+- [Using PhantomData and Zero-Sized Types](https://dev.to/sgchris/using-phantomdata-and-zero-sized-types-1i2e)
+- [ArkUI-x跨平台Bridge最佳实践](https://dev.to/aloe/arkui-xkua-ping-tai-bridgezui-jia-shi-jian-2doo)
+- [ArkTS Multi-Layer Image Rendering Class Implementation &lpar;Part II&rpar;](https://dev.to/isoneheart/arkts-multi-layer-image-rendering-class-implementation-part-ii-13bg)
+- [From DevOps to DevSecOps](https://dev.to/phatsawut_duangkaew_f92ff/from-devops-to-devsecops-3nj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
