@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is how I created a game from scratch using AWS](https://dev.to/javitech_co/this-is-how-i-created-a-game-from-scratch-using-aws-5enb)
-- [🚀 Stepping into Dev++ | Let’s Build the Future with AI 🤖](https://dev.to/balram15/stepping-into-dev-lets-build-the-future-with-ai-33hf)
-- [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
-- [Styling Your First React Component — A Gentle Introduction](https://dev.to/elram_gavrieli_887f3d6046/styling-your-first-react-component-a-gentle-introduction-1c82)
-- [Day 1 dev setup: Installing Docker, WSL, Python, GitHub SSH &lpar;with some challenges &amp; solutions&rpar;](https://dev.to/zipporahmutanu04/day-1-dev-setup-installing-docker-wsl-python-github-ssh-with-some-challenges-oo1)
+- [Adapting Flutter Plugins for OpenHarmony &lpar;OHOS&rpar;](https://dev.to/flfljh/adapting-flutter-plugins-for-openharmony-ohos-1ek2)
+- [Frontend&#39;in Geleceği: En İyi Teknikler](https://dev.to/yunus_emremert_1756b71d3/frontendin-gelecegi-en-iyi-teknikler-4f3e)
+- [Cloudflare just released Containers: here&#39;s everything you need to know](https://dev.to/code42cate/cloudflare-just-released-containers-heres-everything-you-need-to-know-26fi)
+- [Why Rollup Changed the Bundler Game](https://dev.to/hayleycultrepo/why-rollup-changed-the-bundler-game-2ck9)
+- [Spring Batch Uma Visão Abrangente Sobre Componentes e Processos](https://dev.to/ikauedev/spring-batch-uma-visao-abrangente-componentes-processos-e-exemplos-praticos-4a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
