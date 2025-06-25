@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Un loader UX-friendly en Angular avec cet utilitaire RxJS](https://dev.to/romain_geffrault_10d88369/un-loader-ux-friendly-en-angular-avec-cet-utilitaire-rxjs-1184)
-- [Give Your AI Agents Persistent Memory with Mem0](https://dev.to/abdibrokhim/give-your-ai-agents-persistent-memory-with-mem0-3eff)
-- [Day 10 - Building the Navigation System with a Workspace-Aware Sidebar](https://dev.to/nader_fh/day-10-building-the-navigation-system-with-a-workspace-aware-sidebar-2bco)
-- [Microsoft 365 Business Standard Security and Productivity Features: What You Get in 2025](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-business-standard-security-and-productivity-features-what-you-get-in-2025-fe)
-- [What is WordPress? Explained for Beginners &lpar;2025 Guide&rpar;](https://dev.to/champsoft/what-is-wordpress-explained-for-beginners-2025-guide-1do3)
+- [Modernize to Maximize: How Applications Modernization Drives Business Agility](https://dev.to/crmsoftware361/modernize-to-maximize-how-applications-modernization-drives-business-agility-2j0j)
+- [Useful Array Methods Every Beginner Must Master](https://dev.to/giftintech/useful-array-methods-every-beginner-must-master-3omf)
+- [OpenAI vs Gemini War: Why Cloud Certifications Still Matter in 2025](https://dev.to/sarahmoz/openai-vs-gemini-war-why-cloud-certifications-still-matter-in-2025-41ah)
+- [How to automatically decrypt a LUKS LVM setup on boot with a USB](https://dev.to/filisko/how-to-automatically-decrypt-a-luks-lvm-setup-on-boot-with-a-usb-411i)
+- [The Second Raku Core Summit](https://dev.to/lizmat/the-second-raku-core-summit-f99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
