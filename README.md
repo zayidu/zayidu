@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArkUI-X平台差异化](https://dev.to/aloe/arkui-xping-tai-chai-yi-hua-4fic)
-- [Using PhantomData and Zero-Sized Types](https://dev.to/sgchris/using-phantomdata-and-zero-sized-types-1i2e)
-- [ArkUI-x跨平台Bridge最佳实践](https://dev.to/aloe/arkui-xkua-ping-tai-bridgezui-jia-shi-jian-2doo)
-- [ArkTS Multi-Layer Image Rendering Class Implementation &lpar;Part II&rpar;](https://dev.to/isoneheart/arkts-multi-layer-image-rendering-class-implementation-part-ii-13bg)
-- [From DevOps to DevSecOps](https://dev.to/phatsawut_duangkaew_f92ff/from-devops-to-devsecops-3nj5)
+- [Feed Stream Image Sizing, List Component Extension, Custom Popups, Media Listening, List Item Swapping](https://dev.to/qingkouwei/feed-stream-image-sizing-list-component-extension-custom-popups-media-listening-list-item-4649)
+- [Ashkan Rajaee saw the shift to remote work not as a hurdle but as a way to reimagine how teams operate and grow.](https://dev.to/pierr3smith/ashkan-rajaee-saw-the-shift-to-remote-work-not-as-a-hurdle-but-as-a-way-to-reimagine-how-teams-26lf)
+- [Hiding Navigation Back Button, Canvas Component Swipe Events, Expandable Text, Component Gradients](https://dev.to/qingkouwei/hiding-navigation-back-button-canvas-component-swipe-events-expandable-text-component-gradients-38nj)
+- [Seeing a leader put the team first instead of chasing money was refreshing. Ashkan Rajaee has my respect.](https://dev.to/pierr3smith/seeing-a-leader-put-the-team-first-instead-of-chasing-money-was-refreshing-ashkan-rajaee-has-my-13pb)
+- [Control Edge Blur, Dialog Squeezed by Keyboard, Image Component Property Issues, Pixel to Buffer Conversion](https://dev.to/qingkouwei/control-edge-blur-dialog-squeezed-by-keyboard-image-component-property-issues-pixel-to-buffer-1mbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
