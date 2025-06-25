@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adapting Flutter Plugins for OpenHarmony &lpar;OHOS&rpar;](https://dev.to/flfljh/adapting-flutter-plugins-for-openharmony-ohos-1ek2)
-- [Frontend&#39;in Geleceği: En İyi Teknikler](https://dev.to/yunus_emremert_1756b71d3/frontendin-gelecegi-en-iyi-teknikler-4f3e)
-- [Cloudflare just released Containers: here&#39;s everything you need to know](https://dev.to/code42cate/cloudflare-just-released-containers-heres-everything-you-need-to-know-26fi)
-- [Why Rollup Changed the Bundler Game](https://dev.to/hayleycultrepo/why-rollup-changed-the-bundler-game-2ck9)
-- [Spring Batch Uma Visão Abrangente Sobre Componentes e Processos](https://dev.to/ikauedev/spring-batch-uma-visao-abrangente-componentes-processos-e-exemplos-praticos-4a5k)
+- [Cloudflare Containers Are Here: Deploy Docker Globally with a Single Command](https://dev.to/sivarampg/cloudflare-containers-are-here-deploy-docker-globally-with-a-single-command-4e1m)
+- [HarmonyOS Native Development Notes: 03-The Whole Process of Meta Service Development](https://dev.to/shaohushuo/harmonyos-native-development-notes-03-the-whole-process-of-meta-service-development-3nee)
+- [Wear Engine Development](https://dev.to/hmosdevelopers/wear-engine-development-3b75)
+- [How have you approached your strategy to setup headless CMS?](https://dev.to/istealersn_dev/how-have-you-approached-your-strategy-to-setup-headless-cms-3n24)
+- [GCP Fundamentals: Container Analysis API](https://dev.to/devopsfundamentals/gcp-fundamentals-container-analysis-api-95d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
