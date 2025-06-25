@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Era of Code Quality: Beyond bugs and into legal license compliance and risk management](https://dev.to/lizzzzz/a-new-era-of-code-quality-beyond-bugs-and-into-legal-license-compliance-and-risk-management-5g8n)
-- [So you want to become better than 99% of programmers, right?](https://dev.to/satyabrata_dd224dce47e7bc/so-you-want-to-become-better-than-99-of-programmers-right-2731)
-- [Can AI Write Bars? I Tried 30+ Free Rap Lyric Tools &lpar;So You Don’t Have To&rpar;](https://dev.to/mukeshkdesigns/can-ai-write-bars-i-tried-30-free-rap-lyric-tools-so-you-dont-have-to-2pjc)
-- [No one should have to learn about transaction isolation levels.](https://dev.to/cainlevy/no-one-should-have-to-learn-about-transaction-isolation-levels-2jal)
-- [Effective Agent Instruction](https://dev.to/yysun/effective-agent-instruction-2k20)
+- [WWDC 2025 - Go further with MapKit &amp; MapKit JavaScript](https://dev.to/arshtechpro/wwdc-2025-go-further-with-mapkit-mapkit-javascript-a5l)
+- [The Developer&#39;s Imperative: Surfing the AI Wave &lpar;Before it Swamps Your Stack&rpar;](https://dev.to/writerelliswilson/the-developers-imperative-surfing-the-ai-wave-before-it-swamps-your-stack-578l)
+- [Technical Interviews in the AI Era](https://dev.to/joacod/technical-interviews-in-the-ai-era-2phk)
+- [Day 15: HTML/CSS Dev Takes On Three Frontend Projects &lpar;What Could Go Wrong?&rpar;](https://dev.to/casperday11/day-15-htmlcss-dev-takes-on-three-frontend-projects-what-could-go-wrong-133j)
+- [🚀 AWS App Runner – The Easiest Way to Deploy Containers to the Cloud](https://dev.to/aws-builders/aws-app-runner-the-easiest-way-to-deploy-containers-to-the-cloud-5fbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
