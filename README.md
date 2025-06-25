@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Photon Checksum Generator](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-checksum-generator-1jln)
-- [Programing as a art - chapter 2](https://dev.to/pjdeveloper896/programing-as-a-art-chapter-2-5299)
-- [ติวสอบสัมภาษณ์งาน Java เบื้องต้น ฉบับ มือใหม่ [2]](https://dev.to/c_nook4545/tiwsbsamphaasn-java-ebuuengtn-chbab-muueaihm-2-1n76)
-- [I Wrote the S2E01 Recap for Model Mondays: Advanced Reasoning Session](https://dev.to/sharda_kaur/i-wrote-the-s2e01-recap-for-model-mondays-advanced-reasoning-session-o05)
-- [How to Generate QR Codes in Bulk—Fast](https://dev.to/alexandriawilson/how-to-generate-qr-codes-in-bulk-fast-3mme)
+- [Top Visual Studio Code Shortcuts to Boost Your Productivity](https://dev.to/codeliner/top-visual-studio-code-shortcuts-to-boost-your-productivity-4k32)
+- [Further Understanding Cargo and Crates.io](https://dev.to/john_wilson/further-understanding-cargo-and-cratesio-gna)
+- [Proof Key for Code Exchange: A developer’s guide](https://dev.to/saif_shines/proof-key-for-code-exchange-a-developers-guide-pih)
+- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-3b21)
+- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-18mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
