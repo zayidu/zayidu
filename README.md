@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Cybersecurity Review Guide for React &amp; Vite Applications](https://dev.to/satwik_nakhate_b990d49af3/cybersecurity-review-guide-for-react-vite-applications-23ag)
-- [Move and aptos ecosystem](https://dev.to/tech_journey_85208cd43521/move-and-aptos-ecosystem-3hl0)
-- [Troubleshooting Production with GitHub Copilot: The Guide for Real Humans &lpar;and Bots with Good Taste&rpar;](https://dev.to/anchildress11/troubleshooting-production-with-github-copilot-the-guide-for-real-humans-and-bots-with-good-taste-253o)
-- [Imitation Hema - Category Navigation List Pop up &lpar;16&rpar;](https://dev.to/whl15290959515/imitation-hema-category-navigation-list-pop-up-16-413h)
-- [Hey, great work on your project! 🙌 I noticed one of the links seems to be broken&lpar;https://codebeautify.org/jsoncompare&rpar;. If you&#39;re looking for a working JSON comparison tool, feel free to check out mine: https://formatjsononline.com/json-compare](https://dev.to/anil_c84dda16a00ec91d5057/hey-great-work-on-your-project-i-noticed-one-of-the-links-seems-to-be-171h)
+- [A programmer yelling at the clouds about vibe coding](https://dev.to/daniel-octomind/a-programmer-yelling-at-the-clouds-about-vibe-coding-2m3j)
+- [The Grammar of Objectivity](https://dev.to/agustn_startari_0c8417a8/the-grammar-of-objectivity-2c16)
+- [Connect Your Agents to the MCP Server](https://dev.to/codanyks/connect-your-agents-to-the-mcp-server-28m)
+- [daily quizzz](https://dev.to/marrmorgan/daily-quizzz-1nh9)
+- [🧠 We Save Links, But We Don&#39;t Save Knowledge — Why I&#39;m Rethinking Web Reading](https://dev.to/sumitagarwal-i/we-save-links-but-we-dont-save-knowledge-why-im-rethinking-web-reading-5281)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
