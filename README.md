@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spelling Checker - NLP](https://dev.to/datatoinfinity/spelling-checker-nlp-h53)
-- [Building a Real-World Context-Aware Movie Chatbot Using Amazon Bedrock - Nova Pro](https://dev.to/aws-builders/building-a-real-world-context-aware-movie-chatbot-using-amazon-bedrock-nova-pro-jge)
-- [How AI in Art Boosts, Not Replaces Creativity](https://dev.to/sebastian_reid999/how-ai-in-art-boosts-not-replaces-creativity-cb2)
-- [Confession: I’m a Developer Who Just Started Using Git Properly](https://dev.to/gaurikhanolkar1/some-git-notes-2jj7)
-- [🚀 Introducing MultiMind SDK: Fine-Tune, Build, and Deploy LLM](https://dev.to/multimindsdk/introducing-multimind-sdk-fine-tune-build-and-deploy-llm-powered-apps-like-a-pro-44e2)
+- [Software Architecture Styles : Monolith, Modulith, Micro-services, which option is better for you](https://dev.to/aharmaz/software-architecture-styles-monolith-modulith-micro-services-which-option-is-better-for-you-fad)
+- [🛠 The Tools That Power My Day-to-Day Workflow &lpar;as a MERN Stack Dev&rpar; in 2025](https://dev.to/realcw_bishop/the-tools-that-power-my-day-to-day-workflow-as-a-mern-stack-dev-in-2025-bg7)
+- [Ansible, What and Why?](https://dev.to/mateenzero/ansible-what-and-why-61n)
+- [🔒 Ensuring Compliance When Fine-Tuning AI Models with MultiMindSDK](https://dev.to/multimindsdk/ensuring-compliance-when-fine-tuning-ai-models-with-multimindsdk-a3c)
+- [📈🤖 Personalized AI Blueprint: Unleash Your True Potential 🔓✨](https://dev.to/dev_99718084404de/personalized-ai-blueprint-unleash-your-true-potential-2bjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
