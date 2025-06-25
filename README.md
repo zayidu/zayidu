@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Visual Studio Code Shortcuts to Boost Your Productivity](https://dev.to/codeliner/top-visual-studio-code-shortcuts-to-boost-your-productivity-4k32)
-- [Further Understanding Cargo and Crates.io](https://dev.to/john_wilson/further-understanding-cargo-and-cratesio-gna)
-- [Proof Key for Code Exchange: A developer’s guide](https://dev.to/saif_shines/proof-key-for-code-exchange-a-developers-guide-pih)
-- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-3b21)
-- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-18mk)
+- [💡 Understanding the JavaScript Event Loop &lpar;With Diagrams &amp; Code&rpar;](https://dev.to/webtechnology_tutorials_f/understanding-the-javascript-event-loop-with-diagrams-code-1en3)
+- [Cybersecurity Nightmare: 16 Billion Passwords Exposed in Data Breach](https://dev.to/tanya_k_b7e02af0edda9ff27/cybersecurity-nightmare-16-billion-passwords-exposed-in-data-breach-10lo)
+- [How to create an animated navigation on scroll with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-2lh6)
+- [How to Make an Amazon Clone](https://dev.to/david_beckam_df898f761b30/how-to-make-an-amazon-clone-2798)
+- [Why I Built My Own Founder HQ Instead of Just Another Portfolio](https://dev.to/abubeker_kasim_52f9970b26/why-i-built-my-own-founder-hq-instead-of-just-another-portfolio-4f56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
