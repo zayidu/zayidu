@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Photon Docker Image](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-docker-image-58nl)
-- [Programming as a Art -chapter -5](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-5-556c)
-- [𝗜 𝘁𝗿𝗶𝗲𝗱 𝗢𝗹𝗹𝗮𝗺𝗮 𝘁𝗼 𝗿𝘂𝗻 𝗟𝗟𝗠𝘀 𝗹𝗼𝗰𝗮𝗹𝗹𝘆, 𝗮𝗻𝗱 𝗶𝘁&#39;𝘀 𝗮𝗺𝗮𝘇𝗶𝗻𝗴!](https://dev.to/richa-parekh/--2168)
-- [Programming as a Art - chapter- 4](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-4-807)
-- [Programming as a art -chapter - 3](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-3-5e61)
+- [How to Choose and Actually Finish an Online Course](https://dev.to/homayunmmdy/how-to-choose-and-actually-finish-an-online-course-4dnb)
+- [Making Sense of Cloud Costs with the FOCUS Framework](https://dev.to/navedrizv/making-sense-of-cloud-costs-with-the-focus-framework-3j52)
+- [AI in App Testing – How To Use It Effectively](https://dev.to/misterankit/ai-in-app-testing-how-to-use-it-effectively-495c)
+- [How AI Code Review Tools Are Transforming Code Quality and Developer Velocity](https://dev.to/pantoai/how-ai-code-review-tools-are-transforming-code-quality-and-developer-velocity-amj)
+- [Guide to Data Protection on Telegram](https://dev.to/theangmarcore/guide-to-data-protection-on-telegram-3849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
