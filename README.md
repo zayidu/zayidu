@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Plan Architect: Design Your Mastery Blueprint 🏗️🎯🤖🌠](https://dev.to/dev_99718084404de/learning-plan-architect-design-your-mastery-blueprint-3k1d)
-- [🎉 Philly Teens: Join Us for Flourish – A Social Coding Jam This Saturday!](https://dev.to/anvitha_vemula_fc40f81502/philly-teens-join-us-for-flourish-a-social-coding-jam-this-saturday-4ja3)
-- [Comparativo Profundo: Selenium, Playwright, Cypress e TestCafe para Testes Automatizados Web](https://dev.to/ikauedev/comparativo-profundo-selenium-playwright-cypress-e-testcafe-para-testes-automatizados-web-2o5k)
-- [Developer eXperience &lpar;DX&rpar; and LGBTQIAPN+ people, my first paper &lpar;ICSE-SEIS&rpar;](https://dev.to/edwassouf/developer-experience-dx-and-lgbtqiapn-people-my-first-paper-icse-seis-1m6b)
-- [Analysis of the DORA 4 Keys from the Perspective of the Toyota Production System &lpar;TPS&rpar;](https://dev.to/sean2121/analysis-of-the-dora-4-keys-from-the-perspective-of-the-toyota-production-system-tps-791)
+- [GCP Fundamentals: Content API for Shopping](https://dev.to/devopsfundamentals/gcp-fundamentals-content-api-for-shopping-466j)
+- [AyoSlap - The content creator that grew his page to over 200k followers](https://dev.to/ayoslap/ayoslap-the-content-creator-that-grew-his-page-to-over-200k-followers-328o)
+- [[Boost]](https://dev.to/tony04031234/-27n)
+- [From Polling to Partying: Writing Cooler Goroutines with sync.Cond](https://dev.to/2nguyenlong000k/from-polling-to-partying-writing-cooler-goroutines-with-synccond-1ld8)
+- [From Web to Mobile in 30 Seconds: The Zero-Config PWA Revolution](https://dev.to/tony04031234/from-web-to-mobile-in-30-seconds-the-zero-config-pwa-revolution-8i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
