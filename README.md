@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI in 2025: Transforming Enterprise Software for the Future](https://dev.to/qasim_blogs/generative-ai-in-2025-transforming-enterprise-software-for-the-future-3c89)
-- [Our internal tool](https://dev.to/aspxone-official/our-internal-tool-53og)
-- [🍰Top 10 Best Cake Shop Full-Stack Projects for Beginners in C#, ASP.NET, and .NET Core](https://dev.to/sapanapal6/top-10-best-cake-shop-full-stack-projects-for-beginners-in-c-aspnet-and-net-core-3c16)
-- [MEXC api](https://dev.to/zawhtutwin/mexc-api-53m9)
-- [Quality Assurance Testing Services: Ensuring Excellence in the Digital Era](https://dev.to/pv_vaisak/quality-assurance-testing-services-ensuring-excellence-in-the-digital-era-1l69)
+- [Playwright: Using Cognito to Log In for Your E2E Tests](https://dev.to/r0nunes/playwright-using-cognito-to-log-in-for-your-e2e-tests-3ap7)
+- [Building REST APIs with FastAPI: A Comprehensive Guide](https://dev.to/gautammanak1/building-rest-apis-with-fastapi-a-comprehensive-guide-45f8)
+- [Variables-Java](https://dev.to/sri_raam_8a9025855753313a/variables-java-54ok)
+- [Paracetamol.ts💊| #37: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-37-explica-este-codigo-typescript-14h7)
+- [𝗪𝗵𝘆 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀 𝗧𝗵𝗶𝗻𝗸 𝗧𝘄𝗶𝗰𝗲 𝗕𝗲𝗳𝗼𝗿𝗲 𝗔𝗱𝗼𝗽𝘁𝗶𝗻𝗴 𝗢𝗿𝗮𝗰𝗹𝗲 𝗚𝗼𝗹𝗱𝗲𝗻𝗚𝗮𝘁𝗲: 𝗧𝗼𝗽 𝗣𝗮𝗶𝗻 𝗣𝗼𝗶𝗻𝘁𝘀 𝗥𝗲𝘃𝗲𝗮𝗹𝗲𝗱](https://dev.to/pokhraj_das_oracle/-lon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
