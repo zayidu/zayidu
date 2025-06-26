@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Chatbot in Reverb Livewire with Laravel 12 Step-by-Step](https://dev.to/sureshramani/build-an-ai-chatbot-in-reverb-livewire-with-laravel-12-step-by-step-1lca)
-- [5 SEO Features Every Healthtech Platform Needs — And How to Implement Them](https://dev.to/remedo_clinitechpvtltd/5-seo-features-every-healthtech-platform-needs-and-how-to-implement-them-cl5)
-- [Universo and gettemplate: 2 new products](https://dev.to/shreyvijayvargiya/universo-and-gettemplate-2-new-products-2cmm)
-- [[Boost]](https://dev.to/bdussault/-403j)
-- [Redis Pattern Matching: How to Use KEYS and SCAN Effectively](https://dev.to/rijultp/redis-pattern-matching-how-to-use-keys-and-scan-effectively-5dkp)
+- [Day 16: The Human Connection in Code](https://dev.to/casperday11/day-16-the-human-connection-in-code-2nci)
+- [React Router Data Mode: Part 6 - Actions, forms and mutations](https://dev.to/kevinccbsg/react-router-data-mode-part-6-actions-forms-and-mutations-319a)
+- [React Router Data Mode: Part 5 - Refactor, useParams and NavLink](https://dev.to/kevinccbsg/react-router-data-mode-part-5-refactor-useparams-and-navlink-336j)
+- [Building a Weather App: A Complete Guide to Weather APIs and Data Visualization](https://dev.to/darshil89/building-a-weather-app-a-complete-guide-to-weather-apis-and-data-visualization-15mc)
+- [React Router Data Mode: Part 4 - Routes with parameters, useRouteLoaderData and useParams](https://dev.to/kevinccbsg/react-router-data-mode-part-4-routes-with-parameters-userouteloaderdata-and-useparams-1m63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
