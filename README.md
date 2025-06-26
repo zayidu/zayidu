@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Josephus Problem well explained for beginner](https://dev.to/thedeepseeker/josephus-problem-well-explained-for-beginner-22f5)
-- [Dijkstra&#39;s Algorithm Well explained for beginners](https://dev.to/thedeepseeker/dijkstras-algorithm-well-explained-for-beginners-5g6d)
-- [Leetcode 2311](https://dev.to/thedeepseeker/leetcode-2311-3mbd)
-- [🚦 Dijkstra&#39;s Algorithm Explained – A Beginner&#39;s Guide](https://dev.to/om_shree_0709/dijkstras-algorithm-explained-a-beginners-guide-2nha)
-- [🔁 Throwback Thursday: That Time I Thought I Understood Microservices](https://dev.to/sroy8091/throwback-thursday-that-time-i-thought-i-understood-microservices-582e)
+- [How to Save a Word Document as a PDF: A Simple Step-by-Step Guide](https://dev.to/jennamitchell/how-to-save-a-word-document-as-a-pdf-a-simple-step-by-step-guide-1572)
+- [Google&#39;s Making a Huge Move! Gemini CLI is Open-Source + Free, and You&#39;re Still Using Claude Code?](https://dev.to/platypus98/googles-making-a-huge-move-gemini-cli-is-open-source-free-and-youre-still-using-claude-code-534)
+- [最近创建的demo和坑](https://dev.to/woodyxin/zui-jin-chuang-jian-de-demohe-keng-2kep)
+- [💎 Bespoke Opportunity Forge: AI-Powered Job Concierge 📬](https://dev.to/dev_99718084404de/bespoke-opportunity-forge-ai-powered-job-concierge-2j3o)
+- [DAY 14-DEPLOYING VIA GIT](https://dev.to/asran_2025/day-14-deploying-via-git-gpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
