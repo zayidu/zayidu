@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16: The Human Connection in Code](https://dev.to/casperday11/day-16-the-human-connection-in-code-2nci)
-- [React Router Data Mode: Part 6 - Actions, forms and mutations](https://dev.to/kevinccbsg/react-router-data-mode-part-6-actions-forms-and-mutations-319a)
-- [React Router Data Mode: Part 5 - Refactor, useParams and NavLink](https://dev.to/kevinccbsg/react-router-data-mode-part-5-refactor-useparams-and-navlink-336j)
-- [Building a Weather App: A Complete Guide to Weather APIs and Data Visualization](https://dev.to/darshil89/building-a-weather-app-a-complete-guide-to-weather-apis-and-data-visualization-15mc)
-- [React Router Data Mode: Part 4 - Routes with parameters, useRouteLoaderData and useParams](https://dev.to/kevinccbsg/react-router-data-mode-part-4-routes-with-parameters-userouteloaderdata-and-useparams-1m63)
+- [The storytelling, the structure, the honesty. Ashkan Rajaee continues to raise the bar for leadership content.](https://dev.to/thetechstratos/the-storytelling-the-structure-the-honesty-ashkan-rajaee-continues-to-raise-the-bar-for-43e7)
+- [How AI Helped Me Build a CRM Integration 60% Faster: A Real Vue.js + CouchDB Case Study](https://dev.to/ivanrochacardoso/how-ai-helped-me-build-a-crm-integration-60-faster-a-real-vuejs-couchdb-case-study-39no)
+- [Run ef-core in a single file!](https://dev.to/sukkergris/run-ef-core-in-a-single-file-352o)
+- [Mastering URL Slugs: The Developer&#39;s Guide to SEO and User Experience](https://dev.to/mycko22/mastering-url-slugs-the-developers-guide-to-seo-and-user-experience-gf3)
+- [Python course: Functions](https://dev.to/costa86/python-course-functions-4jga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
