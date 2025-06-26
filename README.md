@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails on Jets: Serverless Active Record? Here’s What Broke](https://dev.to/alex_aslam/rails-on-jets-serverless-active-record-heres-what-broke-54am)
-- [Day 4: software engineering Insights &lpar;#4&rpar;](https://dev.to/milade/day-4-software-engineering-insights-4-4nc6)
-- [Building a Multi-Application Kubernetes Marketplace: TCP/UDP App Onboarding at Scale](https://dev.to/kahuna04/building-a-multi-application-kubernetes-marketplace-tcpudp-app-onboarding-at-scale-1i74)
-- [Day 3: software engineering Insights &lpar;#3&rpar;](https://dev.to/milade/day-3-software-engineering-insights-3-54mn)
-- [How I Built My Portfolio Website with HTML, CSS &amp; JS](https://dev.to/ridwan_raji_95adc3f4d5ee8/how-i-built-my-portfolio-website-with-html-css-js-125a)
+- [Learning Plan Architect: Design Your Mastery Blueprint 🏗️🎯🤖🌠](https://dev.to/dev_99718084404de/learning-plan-architect-design-your-mastery-blueprint-3k1d)
+- [🎉 Philly Teens: Join Us for Flourish – A Social Coding Jam This Saturday!](https://dev.to/anvitha_vemula_fc40f81502/philly-teens-join-us-for-flourish-a-social-coding-jam-this-saturday-4ja3)
+- [Comparativo Profundo: Selenium, Playwright, Cypress e TestCafe para Testes Automatizados Web](https://dev.to/ikauedev/comparativo-profundo-selenium-playwright-cypress-e-testcafe-para-testes-automatizados-web-2o5k)
+- [Developer eXperience &lpar;DX&rpar; and LGBTQIAPN+ people, my first paper &lpar;ICSE-SEIS&rpar;](https://dev.to/edwassouf/developer-experience-dx-and-lgbtqiapn-people-my-first-paper-icse-seis-1m6b)
+- [Analysis of the DORA 4 Keys from the Perspective of the Toyota Production System &lpar;TPS&rpar;](https://dev.to/sean2121/analysis-of-the-dora-4-keys-from-the-perspective-of-the-toyota-production-system-tps-791)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
