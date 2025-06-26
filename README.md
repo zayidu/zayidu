@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seth Rogen Wants Vin Diesel to Join ‘The Studio&#39; Season 2](https://dev.to/popcorn_tv/seth-rogen-wants-vin-diesel-to-join-the-studio-season-2-4oed)
-- [Brett Goldstein recalls showrunner not wanting him to play Louis: &#39;If you f--- it up, you kill Shrinking&#39;](https://dev.to/popcorn_tv/brett-goldstein-recalls-showrunner-not-wanting-him-to-play-louis-if-you-f-it-up-you-kill-36fp)
-- [JFK Jr.&#39;s Nephew Calls Ryan Murphy&#39;s Upcoming Series &#39;Grotesque,&#39; Says Family Wasn&#39;t Consulted](https://dev.to/popcorn_tv/jfk-jrs-nephew-calls-ryan-murphys-upcoming-series-grotesque-says-family-wasnt-consulted-3773)
-- [Carrie Coon only had 48 hours between filming &#39;White Lotus&#39; and &#39;Gilded Age&#39;](https://dev.to/popcorn_tv/carrie-coon-only-had-48-hours-between-filming-white-lotus-and-gilded-age-5f50)
-- [&#39;Cobra Kai&#39; villain Martin Kove kicked out of fan event after he allegedly bit costar Alicia Hannah-Kim.](https://dev.to/popcorn_tv/cobra-kai-villain-martin-kove-kicked-out-of-fan-event-after-he-allegedly-bit-costar-alicia-4004)
+- [This was incredibly validating. It’s comforting to know others are facing the same chaos and figuring it out too.](https://dev.to/thedenisegagnon/this-was-incredibly-validating-its-comforting-to-know-others-are-facing-the-same-chaos-and-nhh)
+- [The leadership lens that Ashkan Rajaee brings to topics like this is exactly why I follow his work.](https://dev.to/thedenisegagnon/the-leadership-lens-that-ashkan-rajaee-brings-to-topics-like-this-is-exactly-why-i-follow-his-work-3g1f)
+- [Blok Tales: A Visual Novel Made with Storyblok](https://dev.to/ansellmaximilian/blok-tales-a-visual-novel-made-with-storyblok-1d26)
+- [Understanding Callback Functions, Arrow Functions, and useEffect in React](https://dev.to/rajeshwari_rajeshwari_0e5/understanding-callback-functions-arrow-functions-and-useeffect-in-react-2jn7)
+- [Building Your First Kotlin Multiplatform App: From Setup to iOS App Store with Compose Multiplatform &lpar;2025 Guide&rpar;](https://dev.to/faisal_ahmed_bbca9d48d44d/building-your-first-kotlin-multiplatform-app-from-setup-to-ios-app-store-with-compose-3hf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
