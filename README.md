@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting Trigger.dev v4 using Kubernetes](https://dev.to/triggerdotdev/self-hosting-triggerdev-v4-using-kubernetes-58go)
-- [🔍 Tailored Hackathon Extraction &amp; Deep-Dive Blueprint ⚙️🏆](https://dev.to/dev_99718084404de/tailored-hackathon-extraction-deep-dive-blueprint-10mp)
-- [How to Backup &amp; Restore Apache Answer &lpar;Self-Hosted&rpar; with MariaDB](https://dev.to/lovestaco/how-to-backup-restore-apache-answer-self-hosted-with-mariadb-1f4c)
-- [Lightweight E-Ticketing System for Events Using React, FastAPI &amp; Paystack](https://dev.to/joshua_bubune/lightweight-e-ticketing-system-for-events-using-react-fastapi-paystack-4p7p)
-- [react](https://dev.to/isolcat/react-3879)
+- [Build an AI Chatbot in Reverb Livewire with Laravel 12 Step-by-Step](https://dev.to/sureshramani/build-an-ai-chatbot-in-reverb-livewire-with-laravel-12-step-by-step-1lca)
+- [5 SEO Features Every Healthtech Platform Needs — And How to Implement Them](https://dev.to/remedo_clinitechpvtltd/5-seo-features-every-healthtech-platform-needs-and-how-to-implement-them-cl5)
+- [Universo and gettemplate: 2 new products](https://dev.to/shreyvijayvargiya/universo-and-gettemplate-2-new-products-2cmm)
+- [[Boost]](https://dev.to/bdussault/-403j)
+- [Redis Pattern Matching: How to Use KEYS and SCAN Effectively](https://dev.to/rijultp/redis-pattern-matching-how-to-use-keys-and-scan-effectively-5dkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
