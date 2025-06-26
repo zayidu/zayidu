@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Init View Count – Accurate Post Views with REST API &amp; Custom Shortcodes](https://dev.to/brokensmile2103/init-view-count-accurate-post-views-with-rest-api-custom-shortcodes-2hpn)
-- [Engineered Addiction: How Silicon Valley Monetizes Emotion and Destroys Mental Health](https://dev.to/zain_ulabdeen_6b0c7f5e43/engineered-addiction-how-silicon-valley-monetizes-emotion-and-destroys-mental-health-39h2)
-- [🚀 Create a Multi-Service Multi-Node Web App with Docker Swarm](https://dev.to/sovannaro/create-a-multi-service-multi-node-web-app-with-docker-swarm-ngh)
-- [🔐 10 React Security Best Practices](https://dev.to/ml318097/10-react-security-best-practices-5e3c)
-- [Building a Unified Search Agent with LangGraph and MCP: From Intent Classification to Production Deployment](https://dev.to/meirk-codes/building-a-unified-search-agent-with-langgraph-and-mcp-from-intent-classification-to-production-5d3k)
+- [Self-hosting Trigger.dev v4 using Kubernetes](https://dev.to/triggerdotdev/self-hosting-triggerdev-v4-using-kubernetes-58go)
+- [🔍 Tailored Hackathon Extraction &amp; Deep-Dive Blueprint ⚙️🏆](https://dev.to/dev_99718084404de/tailored-hackathon-extraction-deep-dive-blueprint-10mp)
+- [How to Backup &amp; Restore Apache Answer &lpar;Self-Hosted&rpar; with MariaDB](https://dev.to/lovestaco/how-to-backup-restore-apache-answer-self-hosted-with-mariadb-1f4c)
+- [Lightweight E-Ticketing System for Events Using React, FastAPI &amp; Paystack](https://dev.to/joshua_bubune/lightweight-e-ticketing-system-for-events-using-react-fastapi-paystack-4p7p)
+- [react](https://dev.to/isolcat/react-3879)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
