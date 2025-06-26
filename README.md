@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵️ &quot;We Thought It Was Secure… Until It Wasn&#39;t.&quot;](https://dev.to/okoye_ndidiamaka_5e3b7d30/we-thought-it-was-secure-until-it-wasnt-18l2)
-- [Advanced Patterns for Event Handling in Browser Environments](https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4)
-- [Ng-News 25/25: &quot;Charted&quot; Coding, SSR &amp; Incremental Hydration](https://dev.to/this-is-angular/ng-news-2525-charted-coding-ssr-incremental-hydration-40ne)
-- [Odoo 101: View](https://dev.to/drownie/odoo-101-view-2c43)
-- [MySQL Basic Knowledge Points](https://dev.to/lanqi_gao/mysql-basic-knowledge-points-oa0)
+- [Why People Still Bother Installing Modded Apps on iOS in 2025](https://dev.to/1_king_0b1e1f8bfe6d1/why-people-still-bother-installing-modded-apps-on-ios-in-2025-24ga)
+- [Testing an OpenRewrite recipe](https://dev.to/nfrankel/testing-an-openrewrite-recipe-4l9a)
+- [Host Your Own Web Firewall with SafeLine — No Cloud Needed](https://dev.to/sharon_42e16b8da44dabde6d/host-your-own-web-firewall-with-safeline-no-cloud-needed-oia)
+- [Bro, My App Got Rejected… But I Didn’t Even Add Those Permissions!](https://dev.to/alaminkarno/bro-my-app-got-rejected-but-i-didnt-even-add-those-permissions-48o7)
+- [ISOBUS Plug-and-Play: Why This Standard Is Mandatory for EU Ag Machinery](https://dev.to/beidou/isobus-plug-and-play-why-this-standard-is-mandatory-for-eu-ag-machinery-5hmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
