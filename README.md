@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: Content API for Shopping](https://dev.to/devopsfundamentals/gcp-fundamentals-content-api-for-shopping-466j)
-- [AyoSlap - The content creator that grew his page to over 200k followers](https://dev.to/ayoslap/ayoslap-the-content-creator-that-grew-his-page-to-over-200k-followers-328o)
-- [[Boost]](https://dev.to/tony04031234/-27n)
-- [From Polling to Partying: Writing Cooler Goroutines with sync.Cond](https://dev.to/2nguyenlong000k/from-polling-to-partying-writing-cooler-goroutines-with-synccond-1ld8)
-- [From Web to Mobile in 30 Seconds: The Zero-Config PWA Revolution](https://dev.to/tony04031234/from-web-to-mobile-in-30-seconds-the-zero-config-pwa-revolution-8i0)
+- [VMware Fundamentals: Photon Docker Image](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-docker-image-58nl)
+- [Programming as a Art -chapter -5](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-5-556c)
+- [𝗜 𝘁𝗿𝗶𝗲𝗱 𝗢𝗹𝗹𝗮𝗺𝗮 𝘁𝗼 𝗿𝘂𝗻 𝗟𝗟𝗠𝘀 𝗹𝗼𝗰𝗮𝗹𝗹𝘆, 𝗮𝗻𝗱 𝗶𝘁&#39;𝘀 𝗮𝗺𝗮𝘇𝗶𝗻𝗴!](https://dev.to/richa-parekh/--2168)
+- [Programming as a Art - chapter- 4](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-4-807)
+- [Programming as a art -chapter - 3](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-3-5e61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
