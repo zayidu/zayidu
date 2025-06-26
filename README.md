@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential SQL Commands for Developers &lpar;With Code Samples&rpar;](https://dev.to/dbvismarketing/essential-sql-commands-for-developers-with-code-samples-52g8)
-- [How to create a sidebar navigation with Astro, Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-sidebar-navigation-with-astro-tailwind-css-and-javascript-2kg8)
-- [[Snowflake&#39;s New Feature]dbt Projects on Snowflake: Run Your Entire dbt Workflow Directly in Snowflake](https://dev.to/sagara/snowflakes-new-featuredbt-projects-on-snowflake-run-your-entire-dbt-workflow-directly-in-1j2l)
-- [Day-44 Understanding the useEffect Hook in React](https://dev.to/tamilselvan1812/day-44-understanding-the-useeffect-hook-in-react-2mgc)
-- [🚧 A Free &quot;Under Construction&quot; Page Template for Everyone!](https://dev.to/devaur03/a-free-under-construction-page-template-for-everyone-4llo)
+- [🕵️ &quot;We Thought It Was Secure… Until It Wasn&#39;t.&quot;](https://dev.to/okoye_ndidiamaka_5e3b7d30/we-thought-it-was-secure-until-it-wasnt-18l2)
+- [Advanced Patterns for Event Handling in Browser Environments](https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4)
+- [Ng-News 25/25: &quot;Charted&quot; Coding, SSR &amp; Incremental Hydration](https://dev.to/this-is-angular/ng-news-2525-charted-coding-ssr-incremental-hydration-40ne)
+- [Odoo 101: View](https://dev.to/drownie/odoo-101-view-2c43)
+- [MySQL Basic Knowledge Points](https://dev.to/lanqi_gao/mysql-basic-knowledge-points-oa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
