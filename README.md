@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mario Kart World producer: ‘It didn&#39;t seem necessary&#39; to add characters from other Nintendo games](https://dev.to/gg_news/mario-kart-world-producer-it-didnt-seem-necessary-to-add-characters-from-other-nintendo-games-1bhi)
-- [Games run faster on SteamOS than Windows 11, Ars testing finds](https://dev.to/gg_news/games-run-faster-on-steamos-than-windows-11-ars-testing-finds-1bj6)
-- [Exclusive: I tested Viture&#39;s next-gen AR glasses, and my eyes couldn&#39;t believe what they saw](https://dev.to/future_arvr/exclusive-i-tested-vitures-next-gen-ar-glasses-and-my-eyes-couldnt-believe-what-they-saw-49nk)
-- [Overfishing has caused cod to halve in body size since 1990s, study finds](https://dev.to/future_science/overfishing-has-caused-cod-to-halve-in-body-size-since-1990s-study-finds-b44)
-- [Sam Altman takes his ‘io&#39; trademark battle public](https://dev.to/future_ai/sam-altman-takes-his-io-trademark-battle-public-3e1h)
+- [7 Lessons From My First 6 Months as a Developer](https://dev.to/zerotomastery/7-lessons-from-my-first-6-months-as-a-developer-2h3i)
+- [June Celebration - From Sevastopol](https://dev.to/taylor_nguyen_743404e7fe5/june-celebration-from-sevastopol-4588)
+- [Geometry dash](https://dev.to/reda_trust_422062e3470218/geometry-dash-1d2p)
+- [SWE-bench Multimodal is the benchmark that JavaScript devs might explore](https://dev.to/refact/swe-bench-multimodal-is-the-benchmark-that-javascript-devs-might-explore-3550)
+- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-2hnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
