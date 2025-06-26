@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This was incredibly validating. It’s comforting to know others are facing the same chaos and figuring it out too.](https://dev.to/thedenisegagnon/this-was-incredibly-validating-its-comforting-to-know-others-are-facing-the-same-chaos-and-nhh)
-- [The leadership lens that Ashkan Rajaee brings to topics like this is exactly why I follow his work.](https://dev.to/thedenisegagnon/the-leadership-lens-that-ashkan-rajaee-brings-to-topics-like-this-is-exactly-why-i-follow-his-work-3g1f)
-- [Blok Tales: A Visual Novel Made with Storyblok](https://dev.to/ansellmaximilian/blok-tales-a-visual-novel-made-with-storyblok-1d26)
-- [Understanding Callback Functions, Arrow Functions, and useEffect in React](https://dev.to/rajeshwari_rajeshwari_0e5/understanding-callback-functions-arrow-functions-and-useeffect-in-react-2jn7)
-- [Building Your First Kotlin Multiplatform App: From Setup to iOS App Store with Compose Multiplatform &lpar;2025 Guide&rpar;](https://dev.to/faisal_ahmed_bbca9d48d44d/building-your-first-kotlin-multiplatform-app-from-setup-to-ios-app-store-with-compose-3hf3)
+- [Init View Count – Accurate Post Views with REST API &amp; Custom Shortcodes](https://dev.to/brokensmile2103/init-view-count-accurate-post-views-with-rest-api-custom-shortcodes-2hpn)
+- [Engineered Addiction: How Silicon Valley Monetizes Emotion and Destroys Mental Health](https://dev.to/zain_ulabdeen_6b0c7f5e43/engineered-addiction-how-silicon-valley-monetizes-emotion-and-destroys-mental-health-39h2)
+- [🚀 Create a Multi-Service Multi-Node Web App with Docker Swarm](https://dev.to/sovannaro/create-a-multi-service-multi-node-web-app-with-docker-swarm-ngh)
+- [🔐 10 React Security Best Practices](https://dev.to/ml318097/10-react-security-best-practices-5e3c)
+- [Building a Unified Search Agent with LangGraph and MCP: From Intent Classification to Production Deployment](https://dev.to/meirk-codes/building-a-unified-search-agent-with-langgraph-and-mcp-from-intent-classification-to-production-5d3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
