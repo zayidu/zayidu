@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose and Actually Finish an Online Course](https://dev.to/homayunmmdy/how-to-choose-and-actually-finish-an-online-course-4dnb)
-- [Making Sense of Cloud Costs with the FOCUS Framework](https://dev.to/navedrizv/making-sense-of-cloud-costs-with-the-focus-framework-3j52)
-- [AI in App Testing – How To Use It Effectively](https://dev.to/misterankit/ai-in-app-testing-how-to-use-it-effectively-495c)
-- [How AI Code Review Tools Are Transforming Code Quality and Developer Velocity](https://dev.to/pantoai/how-ai-code-review-tools-are-transforming-code-quality-and-developer-velocity-amj)
-- [Guide to Data Protection on Telegram](https://dev.to/theangmarcore/guide-to-data-protection-on-telegram-3849)
+- [Upgrade your notes with AI research](https://dev.to/sroy8091/upgrade-your-notes-with-ai-research-50b3)
+- [How to Document SQL Server Schemas Visually in 2025](https://dev.to/roxana_haidiner/how-to-document-sql-server-schemas-visually-in-2025-14lk)
+- [10+ Most Powerful GitHub Repos I Discovered in 2025 &lpar;You’ll Wish You Knew Sooner&rpar;](https://dev.to/forgecode/10-most-powerful-github-repos-i-discovered-in-2025-youll-wish-you-knew-sooner-1ll3)
+- [Comparing Qodo and GitHub Copilot 🕵️](https://dev.to/dev_kiran/comparing-qodo-and-github-copilot-4l2b)
+- [Gemini CLI tells: What Tools Do the Gemini CLI Use for AI Coding? Comparing Gemini, Claude, and Cursor](https://dev.to/javeedishaq/gemini-cli-tells-what-tools-do-the-gemini-cli-use-for-ai-coding-comparing-gemini-claude-and-416f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
