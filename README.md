@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright: Using Cognito to Log In for Your E2E Tests](https://dev.to/r0nunes/playwright-using-cognito-to-log-in-for-your-e2e-tests-3ap7)
-- [Building REST APIs with FastAPI: A Comprehensive Guide](https://dev.to/gautammanak1/building-rest-apis-with-fastapi-a-comprehensive-guide-45f8)
-- [Variables-Java](https://dev.to/sri_raam_8a9025855753313a/variables-java-54ok)
-- [Paracetamol.ts💊| #37: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-37-explica-este-codigo-typescript-14h7)
-- [𝗪𝗵𝘆 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀 𝗧𝗵𝗶𝗻𝗸 𝗧𝘄𝗶𝗰𝗲 𝗕𝗲𝗳𝗼𝗿𝗲 𝗔𝗱𝗼𝗽𝘁𝗶𝗻𝗴 𝗢𝗿𝗮𝗰𝗹𝗲 𝗚𝗼𝗹𝗱𝗲𝗻𝗚𝗮𝘁𝗲: 𝗧𝗼𝗽 𝗣𝗮𝗶𝗻 𝗣𝗼𝗶𝗻𝘁𝘀 𝗥𝗲𝘃𝗲𝗮𝗹𝗲𝗱](https://dev.to/pokhraj_das_oracle/-lon)
+- [Seth Rogen Wants Vin Diesel to Join ‘The Studio&#39; Season 2](https://dev.to/popcorn_tv/seth-rogen-wants-vin-diesel-to-join-the-studio-season-2-4oed)
+- [Brett Goldstein recalls showrunner not wanting him to play Louis: &#39;If you f--- it up, you kill Shrinking&#39;](https://dev.to/popcorn_tv/brett-goldstein-recalls-showrunner-not-wanting-him-to-play-louis-if-you-f-it-up-you-kill-36fp)
+- [JFK Jr.&#39;s Nephew Calls Ryan Murphy&#39;s Upcoming Series &#39;Grotesque,&#39; Says Family Wasn&#39;t Consulted](https://dev.to/popcorn_tv/jfk-jrs-nephew-calls-ryan-murphys-upcoming-series-grotesque-says-family-wasnt-consulted-3773)
+- [Carrie Coon only had 48 hours between filming &#39;White Lotus&#39; and &#39;Gilded Age&#39;](https://dev.to/popcorn_tv/carrie-coon-only-had-48-hours-between-filming-white-lotus-and-gilded-age-5f50)
+- [&#39;Cobra Kai&#39; villain Martin Kove kicked out of fan event after he allegedly bit costar Alicia Hannah-Kim.](https://dev.to/popcorn_tv/cobra-kai-villain-martin-kove-kicked-out-of-fan-event-after-he-allegedly-bit-costar-alicia-4004)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
