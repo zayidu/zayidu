@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save a Word Document as a PDF: A Simple Step-by-Step Guide](https://dev.to/jennamitchell/how-to-save-a-word-document-as-a-pdf-a-simple-step-by-step-guide-1572)
-- [Google&#39;s Making a Huge Move! Gemini CLI is Open-Source + Free, and You&#39;re Still Using Claude Code?](https://dev.to/platypus98/googles-making-a-huge-move-gemini-cli-is-open-source-free-and-youre-still-using-claude-code-534)
-- [最近创建的demo和坑](https://dev.to/woodyxin/zui-jin-chuang-jian-de-demohe-keng-2kep)
-- [💎 Bespoke Opportunity Forge: AI-Powered Job Concierge 📬](https://dev.to/dev_99718084404de/bespoke-opportunity-forge-ai-powered-job-concierge-2j3o)
-- [DAY 14-DEPLOYING VIA GIT](https://dev.to/asran_2025/day-14-deploying-via-git-gpd)
+- [Generative AI in 2025: Transforming Enterprise Software for the Future](https://dev.to/qasim_blogs/generative-ai-in-2025-transforming-enterprise-software-for-the-future-3c89)
+- [Our internal tool](https://dev.to/aspxone-official/our-internal-tool-53og)
+- [🍰Top 10 Best Cake Shop Full-Stack Projects for Beginners in C#, ASP.NET, and .NET Core](https://dev.to/sapanapal6/top-10-best-cake-shop-full-stack-projects-for-beginners-in-c-aspnet-and-net-core-3c16)
+- [MEXC api](https://dev.to/zawhtutwin/mexc-api-53m9)
+- [Quality Assurance Testing Services: Ensuring Excellence in the Digital Era](https://dev.to/pv_vaisak/quality-assurance-testing-services-ensuring-excellence-in-the-digital-era-1l69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
