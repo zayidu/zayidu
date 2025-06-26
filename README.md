@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Programming: A Beginner&#39;s Guide](https://dev.to/darshil89/go-programming-a-beginners-guide-58l1)
-- [⚙️ Model Client System, Universal Routing &amp; Fine-Tuning &lpar;Transformer + Non-Transformer&rpar; in MultiMind SDK](https://dev.to/multimindsdk/model-client-system-universal-routing-fine-tuning-transformer-non-transformer-in-2aii)
-- [Vite 7.0 Is Here: Rust-Powered Speed, Smarter Tooling &amp; a Cleaner Build Experience](https://dev.to/aggarwal_gaurav_1012/vite-70-is-here-rust-powered-speed-smarter-tooling-a-cleaner-build-experience-1k9j)
-- [Discover the Best AI Tools in One Place — Meet Add AI Directory](https://dev.to/addaidirectory/discover-the-best-ai-tools-in-one-place-meet-add-ai-directory-1nik)
-- [Why We Replaced Rails with Elixir &lpar;And Regretted It&rpar;](https://dev.to/alex_aslam/why-we-replaced-rails-with-elixir-and-regretted-it-458p)
+- [Mario Kart World producer: ‘It didn&#39;t seem necessary&#39; to add characters from other Nintendo games](https://dev.to/gg_news/mario-kart-world-producer-it-didnt-seem-necessary-to-add-characters-from-other-nintendo-games-1bhi)
+- [Games run faster on SteamOS than Windows 11, Ars testing finds](https://dev.to/gg_news/games-run-faster-on-steamos-than-windows-11-ars-testing-finds-1bj6)
+- [Exclusive: I tested Viture&#39;s next-gen AR glasses, and my eyes couldn&#39;t believe what they saw](https://dev.to/future_arvr/exclusive-i-tested-vitures-next-gen-ar-glasses-and-my-eyes-couldnt-believe-what-they-saw-49nk)
+- [Overfishing has caused cod to halve in body size since 1990s, study finds](https://dev.to/future_science/overfishing-has-caused-cod-to-halve-in-body-size-since-1990s-study-finds-b44)
+- [Sam Altman takes his ‘io&#39; trademark battle public](https://dev.to/future_ai/sam-altman-takes-his-io-trademark-battle-public-3e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
