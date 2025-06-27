@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Angular Error That Kept Scratching My Head: NG02100](https://dev.to/this-is-angular/the-angular-error-that-kept-scratching-my-head-ng02100-4obg)
-- [CLI Renaissance Alert: Meet oh-my-logo — Your Gemini CLI and Claude Code style Logo Generator](https://dev.to/shinshin86/cli-renaissance-alert-meet-oh-my-logo-your-gemini-cli-and-claude-code-style-logo-generator-2gp1)
-- [Backend&#39;in Gizli Dünyası](https://dev.to/yunus_emremert_1756b71d3/backendin-gizli-dunyasi-15i2)
-- [How to Banish Anxiety, Lower MTTR, and Stay on Budget During Incident Response](https://dev.to/johnjvester/how-to-banish-anxiety-lower-mttr-and-stay-on-budget-during-incident-response-2ig8)
-- [Flutter HarmonyOS Plugin Development Tutorial &lpar;Part 2&rpar;](https://dev.to/flfljh/flutter-harmonyos-plugin-development-tutorial-part-2-5165)
+- [⚙️ Scalable and Ordered Queueable Execution from Triggers in Salesforce](https://dev.to/rohit_maharashi_a25b8c6b6/scalable-and-ordered-queueable-execution-from-triggers-in-salesforce-1d44)
+- [A case of implementing a drawing board with the Cangjie development language in HarmonyOS NEXT](https://dev.to/youlanjihua/a-case-of-implementing-a-drawing-board-with-the-cangjie-development-language-in-harmonyos-next-4498)
+- [Understanding the System 3: Databases](https://dev.to/araldhafeeri/understanding-the-system-3-databases-3a86)
+- [一文就可搞清楚的HarmonyOS NEXT解锁模态页面的“真香”操作](https://dev.to/coderferi/wen-jiu-ke-gao-qing-chu-de-harmonyos-nextjie-suo-mo-tai-ye-mian-de-zhen-xiang-cao-zuo-13da)
+- [HarmonyOS5-NewsAPP-SystemShare](https://dev.to/zhousg/harmonyos5-newsapp-systemshare-3ep4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
