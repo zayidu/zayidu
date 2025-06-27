@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 27th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-27th-june-2025-4ckn)
-- [Heartfelt Review of The iN Crowd: Life, Legacy, Leadership – Rise Above Challenges with Kahlil Carter](https://dev.to/christopherfinkelstein/heartfelt-review-of-the-in-crowd-life-legacy-leadership-rise-above-challenges-with-kahlil-46jo)
-- [The Silent Killers in Node.js: uncaughtException and unhandledRejection 🐦](https://dev.to/silentwatcher_95/the-silent-killers-in-nodejs-uncaughtexception-and-unhandledrejection-1p9b)
-- [🚀 HexTo Just Got a Massive Upgrade: Harmonies, Tokens, Vision Sim, and More!](https://dev.to/elhoucine_ousidiali_fae35/hexto-just-got-a-massive-upgrade-harmonies-tokens-vision-sim-and-more-2304)
-- [Programming Entry Level: project ideas algorithms](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-algorithms-51na)
+- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-1chh)
+- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2je6)
+- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2jcm)
+- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-3jk9)
+- [Implementing Multi-tenancy with Keycloak and NestJS](https://dev.to/italoqueiroz/implementing-multi-tenancy-with-keycloak-and-nestjs-4oe6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
