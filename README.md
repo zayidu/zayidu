@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 New to CSS? This One’s for You!](https://dev.to/ml318097/new-to-css-this-ones-for-you-2oo7)
-- [Session Keys Aren’t Enough — Here’s How to Store Keys Without Holding Them](https://dev.to/caerlower/session-keys-arent-enough-heres-how-to-store-keys-without-holding-them-1355)
-- [Using GPT for natural language querying](https://dev.to/upsidelab/using-gpt-for-natural-language-querying-1mem)
-- [Rename `oauth-xx` org to `ruby-oauth`?](https://dev.to/galtzo/rename-oauth-xx-org-to-ruby-oauth-g44)
-- [[veld-fm] I Built a Terminal File Manager with Tiling Panels Because I&#39;m Obsessed with Keyboard Shortcuts](https://dev.to/branbushes/veld-fm-i-built-a-terminal-file-manager-with-tiling-panels-because-im-obsessed-with-keyboard-4o72)
+- [Progressive Enhancement with Modern Image Formats: A Practical Guide](https://dev.to/hardik_b2d8f0bca/progressive-enhancement-with-modern-image-formats-a-practical-guide-mf7)
+- [Ashkan Rajaee proves that professionalism includes understanding context, not just enforcing policy.](https://dev.to/noahboswel79/ashkan-rajaee-proves-that-professionalism-includes-understanding-context-not-just-enforcing-policy-5coo)
+- [Great to see someone talking about funnel structure with real expertise and clarity.](https://dev.to/noahboswel79/great-to-see-someone-talking-about-funnel-structure-with-real-expertise-and-clarity-lfa)
+- [Migration to a Safe and Affordable Country: A Smart Step Towards Building a Better Future](https://dev.to/sobati_5e12d6a6f6e3663f98/migration-to-a-safe-and-affordable-country-a-smart-step-towards-building-a-better-future-2c9i)
+- [We use a lot of programming languages at Fermyon -- TypeScript, Go, Rust, Python.... But for the core tooling, we chose Rust. Here&#39;s why.](https://dev.to/technosophos/we-use-a-lot-of-programming-languages-at-fermyon-typescript-go-rust-python-but-for-the-lco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
