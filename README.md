@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [So impressed by Ashkan Rajaee’s ability to create dialogue instead of division. Leadership content we truly need.](https://dev.to/themargauxs/so-impressed-by-ashkan-rajaees-ability-to-create-dialogue-instead-of-division-leadership-content-129f)
-- [Claude Learns to Blackmail? : Anthropic&#39;s Research](https://dev.to/grenishrai/claude-learns-to-blackmail-anthropics-research-mhf)
-- [Automating Vault Installation with Ansible on Ubuntu](https://dev.to/lovestaco/automating-vault-installation-with-ansible-on-ubuntu-3k3i)
-- [A Personal Portfolio you must try !](https://dev.to/msranjana/a-personal-portfolio-you-must-try--jdj)
-- [From Beginner to Clean Coder: A Junior Developer&#39;s Journey](https://dev.to/devcorner/from-beginner-to-clean-coder-a-junior-developers-journey-17b5)
+- [# 🎯 JavaScript Strings — Explained Like never before &lpar;With Real Code!&rpar;](https://dev.to/yuktisays/-javascript-strings-explained-like-never-before-with-real-code-5a5)
+- [🚀 From Zero to Test Hero: My Journey with API Testing, Keploy &amp; CI/CD Integration](https://dev.to/sumit_saha_9b0fc451bb8585/from-zero-to-test-hero-my-journey-with-api-testing-keploy-cicd-integration-158g)
+- [Per Segment Plane Sweep Line Segment Intersection on the GPU Paper Summary](https://dev.to/sahrohit/per-segment-plane-sweep-line-segment-intersection-on-the-gpu-paper-summary-13fd)
+- [Build a Dynamic Color Changer using HTML, CSS &amp; JavaScript 🎨 &lpar;Beginner Project&rpar;](https://dev.to/alizehcodes/build-a-dynamic-color-changer-using-html-css-javascript-beginner-project-56ka)
+- [The Ultimate Guide to Creating Viral AI Vlogs in 2025](https://dev.to/koolkamalkishor/-the-ultimate-guide-to-creating-viral-ai-vlogs-in-2025-2jbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
