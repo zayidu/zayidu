@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing AWS Lambda Layers Was a Nightmare Until I Did This](https://dev.to/aws-builders/managing-aws-lambda-layers-was-a-nightmare-until-i-did-this-4830)
-- [#1 Funtions in JavaScript](https://dev.to/m_arunkumar/1-funtions-in-javascript-13pg)
-- [How Many Portfolios Is Too Many? Asking for Myself.](https://dev.to/msranjana/how-many-portfolios-is-too-many-asking-for-myself-1hhi)
-- [Producer Perch: A React + AI Productivity App That Actually Cares](https://dev.to/nicholasamsler/producer-perch-a-react-ai-productivity-app-that-actually-cares-93e)
-- [The Googly way of Making AI Agents](https://dev.to/splintersword/the-googly-way-of-making-ai-agents-4g9l)
+- [The Human Side of Vue.js: How Learning Vue Changes Your Life as a Developer](https://dev.to/eleftheriabatsou/the-human-side-of-vuejs-how-learning-vue-changes-your-life-as-a-developer-1dij)
+- [This Week In React #240: Radix, shadcn/ui, Next.js, Apollo, Vercel, Recharts | Skia, WebGPU, Radon IDE...](https://dev.to/sebastienlorber/this-week-in-react-240-radix-shadcnui-nextjs-apollo-vercel-recharts-skia-webgpu-radon-305e)
+- [What&#39;s the First DevOps Tool You’d Ditch if You Had To?](https://dev.to/devopsdaily/whats-the-first-devops-tool-youd-ditch-if-you-had-to-1lf9)
+- [Why Vue.js is a Great Starting Point for New Coders](https://dev.to/eleftheriabatsou/why-vuejs-is-a-great-starting-point-for-new-coders-8l6)
+- [🚀 Production-Ready: 6 Advanced Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/advanced-techniques-to-supercharge-your-llmservice-1i40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
