@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Scalable and Ordered Queueable Execution from Triggers in Salesforce](https://dev.to/rohit_maharashi_a25b8c6b6/scalable-and-ordered-queueable-execution-from-triggers-in-salesforce-1d44)
-- [A case of implementing a drawing board with the Cangjie development language in HarmonyOS NEXT](https://dev.to/youlanjihua/a-case-of-implementing-a-drawing-board-with-the-cangjie-development-language-in-harmonyos-next-4498)
-- [Understanding the System 3: Databases](https://dev.to/araldhafeeri/understanding-the-system-3-databases-3a86)
-- [一文就可搞清楚的HarmonyOS NEXT解锁模态页面的“真香”操作](https://dev.to/coderferi/wen-jiu-ke-gao-qing-chu-de-harmonyos-nextjie-suo-mo-tai-ye-mian-de-zhen-xiang-cao-zuo-13da)
-- [HarmonyOS5-NewsAPP-SystemShare](https://dev.to/zhousg/harmonyos5-newsapp-systemshare-3ep4)
+- [How to Run AI Models Privately on Your AI PC with Model HQ; No Cloud, No Code](https://dev.to/llmware/how-to-run-ai-models-privately-on-your-ai-pc-with-model-hq-no-cloud-no-code-3o9k)
+- [VMware Fundamentals: Photon Linux](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-linux-3ilf)
+- [Building a Reliable Crypto Analysis Website: A Guide for Developers and Enthusiasts](https://dev.to/siddarth_1619_0ac9c0bd6fb/building-a-reliable-crypto-analysis-website-a-guide-for-developers-and-enthusiasts-2k63)
+- [What is Metaverse Explained: The Future of the Internet](https://dev.to/metana/what-is-metaverse-explained-the-future-of-the-internet-3f56)
+- [Drizzle ORM in Neon DB: The Ultimate Crash Course for Modern Web Development](https://dev.to/devjubr/drizzle-orm-in-neon-db-the-ultimate-crash-course-for-modern-web-development-2bo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
