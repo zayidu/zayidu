@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Human Side of Vue.js: How Learning Vue Changes Your Life as a Developer](https://dev.to/eleftheriabatsou/the-human-side-of-vuejs-how-learning-vue-changes-your-life-as-a-developer-1dij)
-- [This Week In React #240: Radix, shadcn/ui, Next.js, Apollo, Vercel, Recharts | Skia, WebGPU, Radon IDE...](https://dev.to/sebastienlorber/this-week-in-react-240-radix-shadcnui-nextjs-apollo-vercel-recharts-skia-webgpu-radon-305e)
-- [What&#39;s the First DevOps Tool You’d Ditch if You Had To?](https://dev.to/devopsdaily/whats-the-first-devops-tool-youd-ditch-if-you-had-to-1lf9)
-- [Why Vue.js is a Great Starting Point for New Coders](https://dev.to/eleftheriabatsou/why-vuejs-is-a-great-starting-point-for-new-coders-8l6)
-- [🚀 Production-Ready: 6 Advanced Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/advanced-techniques-to-supercharge-your-llmservice-1i40)
+- [Run Open-Source AI Models Locally with Docker Model Runner](https://dev.to/ialijr/run-open-source-ai-models-locally-with-docker-model-runner-md6)
+- [DAY 15-CSS POSITIONS](https://dev.to/asran_2025/day-15-css-positions-ogk)
+- [Building and Dockerizing a Django To-Do List API – My First Real Backend Project!](https://dev.to/nlankwei5/building-and-dockerizing-a-django-to-do-list-api-my-first-real-backend-project-1k4a)
+- [STOP Paying BuiltWith, SimilarTech &amp; Wappalyzer - My 2-Day Build Gives You Unlimited, Free, Community-Driven Tech-Stack Data](https://dev.to/axrisi/stop-paying-builtwith-similartech-wappalyzer-my-2-day-build-gives-you-unlimited-free-34i0)
+- [Chat &amp; Video Call Application Using Socket.IO &amp; WebRTC](https://dev.to/roycanales17/chat-video-call-application-using-socketio-webrtc-3e3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
