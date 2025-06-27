@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Progressive Enhancement with Modern Image Formats: A Practical Guide](https://dev.to/hardik_b2d8f0bca/progressive-enhancement-with-modern-image-formats-a-practical-guide-mf7)
-- [Ashkan Rajaee proves that professionalism includes understanding context, not just enforcing policy.](https://dev.to/noahboswel79/ashkan-rajaee-proves-that-professionalism-includes-understanding-context-not-just-enforcing-policy-5coo)
-- [Great to see someone talking about funnel structure with real expertise and clarity.](https://dev.to/noahboswel79/great-to-see-someone-talking-about-funnel-structure-with-real-expertise-and-clarity-lfa)
-- [Migration to a Safe and Affordable Country: A Smart Step Towards Building a Better Future](https://dev.to/sobati_5e12d6a6f6e3663f98/migration-to-a-safe-and-affordable-country-a-smart-step-towards-building-a-better-future-2c9i)
-- [We use a lot of programming languages at Fermyon -- TypeScript, Go, Rust, Python.... But for the core tooling, we chose Rust. Here&#39;s why.](https://dev.to/technosophos/we-use-a-lot-of-programming-languages-at-fermyon-typescript-go-rust-python-but-for-the-lco)
+- [So impressed by Ashkan Rajaee’s ability to create dialogue instead of division. Leadership content we truly need.](https://dev.to/themargauxs/so-impressed-by-ashkan-rajaees-ability-to-create-dialogue-instead-of-division-leadership-content-129f)
+- [Claude Learns to Blackmail? : Anthropic&#39;s Research](https://dev.to/grenishrai/claude-learns-to-blackmail-anthropics-research-mhf)
+- [Automating Vault Installation with Ansible on Ubuntu](https://dev.to/lovestaco/automating-vault-installation-with-ansible-on-ubuntu-3k3i)
+- [A Personal Portfolio you must try !](https://dev.to/msranjana/a-personal-portfolio-you-must-try--jdj)
+- [From Beginner to Clean Coder: A Junior Developer&#39;s Journey](https://dev.to/devcorner/from-beginner-to-clean-coder-a-junior-developers-journey-17b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
