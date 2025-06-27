@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unmasking the Shadows: Understanding and Mitigating Server Side Request Forgery &lpar;SSRF&rpar;](https://dev.to/vjnvisakh/unmasking-the-shadows-understanding-and-mitigating-server-side-request-forgery-ssrf-1lm5)
-- [SwiftUI Component Architecture Mastery: Professional Styling, Testing &amp; Performance &lpar;2025&rpar;](https://dev.to/swift_pal/swiftui-component-architecture-mastery-professional-styling-testing-performance-2025-1h5p)
-- [AI catching up 😁](https://dev.to/zawhtutwin/ai-catching-up-3p0g)
-- [How to Improve Machine Translation Quality](https://dev.to/colinreed/how-to-improve-machine-translation-quality-30fi)
-- [K6 + .NET Aspire: Seamless Load Testing](https://dev.to/foxminchan/k6-net-aspire-seamless-load-testing-12gm)
+- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
+- [Prompting Pixels: How Amazon Q Powered My Asteroids Homage](https://dev.to/farrukhkhalid/prompting-pixels-how-amazon-q-powered-my-asteroids-homage-2alp)
+- [Is JavaScript Fatigue Still a Real Thing in 2025?](https://dev.to/h_abbasi_02bdbc5b9bd/is-javascript-fatigue-still-a-real-thing-in-2025-3jom)
+- [Go Project Scaffolding Guide: A Choice That Earned My Team&#39;s Rave Reviews](https://dev.to/zhufuyi/go-project-scaffolding-guide-a-choice-that-earned-my-teams-rave-reviews-i03)
+- [AI Agent Architecture and the Autonomous Enterprise](https://dev.to/kapusto/ai-agent-architecture-and-the-autonomous-enterprise-215n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
