@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# 🎯 JavaScript Strings — Explained Like never before &lpar;With Real Code!&rpar;](https://dev.to/yuktisays/-javascript-strings-explained-like-never-before-with-real-code-5a5)
-- [🚀 From Zero to Test Hero: My Journey with API Testing, Keploy &amp; CI/CD Integration](https://dev.to/sumit_saha_9b0fc451bb8585/from-zero-to-test-hero-my-journey-with-api-testing-keploy-cicd-integration-158g)
-- [Per Segment Plane Sweep Line Segment Intersection on the GPU Paper Summary](https://dev.to/sahrohit/per-segment-plane-sweep-line-segment-intersection-on-the-gpu-paper-summary-13fd)
-- [Build a Dynamic Color Changer using HTML, CSS &amp; JavaScript 🎨 &lpar;Beginner Project&rpar;](https://dev.to/alizehcodes/build-a-dynamic-color-changer-using-html-css-javascript-beginner-project-56ka)
-- [The Ultimate Guide to Creating Viral AI Vlogs in 2025](https://dev.to/koolkamalkishor/-the-ultimate-guide-to-creating-viral-ai-vlogs-in-2025-2jbb)
+- [My Web Development Journey - The New Maze](https://dev.to/rinidh/my-web-development-journey-the-new-maze-4j5f)
+- [SSO Security Exposed: Real-World Attack Scenarios in 2025](https://dev.to/smdefencerabbit/sso-security-exposed-real-world-attack-scenarios-in-2025-2fo1)
+- [AI Won’t Replace You — But It Will Move You](https://dev.to/javaskr/ai-wont-replace-you-but-it-will-move-you-12nd)
+- [Here’s how i break down what job listings really mean](https://dev.to/thetechpreneur/heres-how-i-break-down-what-job-listings-really-mean-5blg)
+- [When You Lack Motivation, Do Something You “Shouldn’t Be Doing” Instead &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-you-lack-motivation-do-something-you-shouldnt-be-doing-instead-bite-size-article-17f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
