@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 What is Hoisting in JavaScript? | Explained with Examples &amp; Visuals](https://dev.to/webtechnology_tutorials_f/what-is-hoisting-in-javascript-explained-with-examples-visuals-4loe)
-- [SwiftUI Component Architecture Mastery: Generic Components &amp; Advanced State Management &lpar;2025&rpar;](https://dev.to/swift_pal/swiftui-component-architecture-mastery-generic-components-advanced-state-management-2025-4ok)
-- [From Trending Topics to Published Posts in Minutes—All with AI – Suhaib Bin Younis](https://dev.to/suhaibbinyounis/from-trending-topics-to-published-posts-in-minutes-all-with-ai-suhaib-bin-younis-o7i)
-- [Mind and Medicine: How Psychiatry and Primary Care Work Together](https://dev.to/thehealinghead2toe/mind-and-medicine-how-psychiatry-and-primary-care-work-together-4ne4)
-- [How to Make a Vue Component Work with v-model](https://dev.to/ibrahimalanshor/how-to-make-a-vue-component-work-with-v-model-5h2a)
+- [Building a Realistic CTF? Here&#39;s Why We Picked SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/building-a-realistic-ctf-heres-why-we-picked-safeline-waf-ndk)
+- [I&#39;ve launched my YouTube Channel 📹](https://dev.to/this-is-learning/ive-launched-my-youtube-channel-b01)
+- [Learn CSS - Skip link](https://dev.to/marcelinaredocindo14/learn-css-skip-link-2djk)
+- [Learn CSS - Flexbox - Intro](https://dev.to/marcelinaredocindo14/learn-css-flexbox-intro-2ipk)
+- [Setting SMART Goals for Digital Product Success](https://dev.to/byteminds/setting-smart-goals-for-digital-product-success-3ag7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
