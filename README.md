@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Lessons From My First 6 Months as a Developer](https://dev.to/zerotomastery/7-lessons-from-my-first-6-months-as-a-developer-2h3i)
-- [June Celebration - From Sevastopol](https://dev.to/taylor_nguyen_743404e7fe5/june-celebration-from-sevastopol-4588)
-- [Geometry dash](https://dev.to/reda_trust_422062e3470218/geometry-dash-1d2p)
-- [SWE-bench Multimodal is the benchmark that JavaScript devs might explore](https://dev.to/refact/swe-bench-multimodal-is-the-benchmark-that-javascript-devs-might-explore-3550)
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-2hnj)
+- [The Angular Error That Kept Scratching My Head: NG02100](https://dev.to/this-is-angular/the-angular-error-that-kept-scratching-my-head-ng02100-4obg)
+- [CLI Renaissance Alert: Meet oh-my-logo — Your Gemini CLI and Claude Code style Logo Generator](https://dev.to/shinshin86/cli-renaissance-alert-meet-oh-my-logo-your-gemini-cli-and-claude-code-style-logo-generator-2gp1)
+- [Backend&#39;in Gizli Dünyası](https://dev.to/yunus_emremert_1756b71d3/backendin-gizli-dunyasi-15i2)
+- [How to Banish Anxiety, Lower MTTR, and Stay on Budget During Incident Response](https://dev.to/johnjvester/how-to-banish-anxiety-lower-mttr-and-stay-on-budget-during-incident-response-2ig8)
+- [Flutter HarmonyOS Plugin Development Tutorial &lpar;Part 2&rpar;](https://dev.to/flfljh/flutter-harmonyos-plugin-development-tutorial-part-2-5165)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
