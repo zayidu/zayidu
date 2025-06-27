@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Open-Source AI Models Locally with Docker Model Runner](https://dev.to/ialijr/run-open-source-ai-models-locally-with-docker-model-runner-md6)
-- [DAY 15-CSS POSITIONS](https://dev.to/asran_2025/day-15-css-positions-ogk)
-- [Building and Dockerizing a Django To-Do List API – My First Real Backend Project!](https://dev.to/nlankwei5/building-and-dockerizing-a-django-to-do-list-api-my-first-real-backend-project-1k4a)
-- [STOP Paying BuiltWith, SimilarTech &amp; Wappalyzer - My 2-Day Build Gives You Unlimited, Free, Community-Driven Tech-Stack Data](https://dev.to/axrisi/stop-paying-builtwith-similartech-wappalyzer-my-2-day-build-gives-you-unlimited-free-34i0)
-- [Chat &amp; Video Call Application Using Socket.IO &amp; WebRTC](https://dev.to/roycanales17/chat-video-call-application-using-socketio-webrtc-3e3f)
+- [🎨 New to CSS? This One’s for You!](https://dev.to/ml318097/new-to-css-this-ones-for-you-2oo7)
+- [Session Keys Aren’t Enough — Here’s How to Store Keys Without Holding Them](https://dev.to/caerlower/session-keys-arent-enough-heres-how-to-store-keys-without-holding-them-1355)
+- [Using GPT for natural language querying](https://dev.to/upsidelab/using-gpt-for-natural-language-querying-1mem)
+- [Rename `oauth-xx` org to `ruby-oauth`?](https://dev.to/galtzo/rename-oauth-xx-org-to-ruby-oauth-g44)
+- [[veld-fm] I Built a Terminal File Manager with Tiling Panels Because I&#39;m Obsessed with Keyboard Shortcuts](https://dev.to/branbushes/veld-fm-i-built-a-terminal-file-manager-with-tiling-panels-because-im-obsessed-with-keyboard-4o72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
