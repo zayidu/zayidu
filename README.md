@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
-- [Prompting Pixels: How Amazon Q Powered My Asteroids Homage](https://dev.to/farrukhkhalid/prompting-pixels-how-amazon-q-powered-my-asteroids-homage-2alp)
-- [Is JavaScript Fatigue Still a Real Thing in 2025?](https://dev.to/h_abbasi_02bdbc5b9bd/is-javascript-fatigue-still-a-real-thing-in-2025-3jom)
-- [Go Project Scaffolding Guide: A Choice That Earned My Team&#39;s Rave Reviews](https://dev.to/zhufuyi/go-project-scaffolding-guide-a-choice-that-earned-my-teams-rave-reviews-i03)
-- [AI Agent Architecture and the Autonomous Enterprise](https://dev.to/kapusto/ai-agent-architecture-and-the-autonomous-enterprise-215n)
+- [Managing AWS Lambda Layers Was a Nightmare Until I Did This](https://dev.to/aws-builders/managing-aws-lambda-layers-was-a-nightmare-until-i-did-this-4830)
+- [#1 Funtions in JavaScript](https://dev.to/m_arunkumar/1-funtions-in-javascript-13pg)
+- [How Many Portfolios Is Too Many? Asking for Myself.](https://dev.to/msranjana/how-many-portfolios-is-too-many-asking-for-myself-1hhi)
+- [Producer Perch: A React + AI Productivity App That Actually Cares](https://dev.to/nicholasamsler/producer-perch-a-react-ai-productivity-app-that-actually-cares-93e)
+- [The Googly way of Making AI Agents](https://dev.to/splintersword/the-googly-way-of-making-ai-agents-4g9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
