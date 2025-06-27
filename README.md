@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RustConf in 2025: Exploring the Next Decade of Rust — Seattle, Sept 2-5](https://dev.to/rustfoundation/rustconf-in-2025-exploring-the-next-decade-of-rust-seattle-sept-2-5-lk2)
-- [[Boost]](https://dev.to/kanishk_gupta_bd1cf3858f4/-3n97)
-- [From Manual Grind to AI Power: My Journey with Keploy API Testing](https://dev.to/kanishk_gupta_bd1cf3858f4/from-manual-grind-to-ai-power-my-journey-with-keploy-api-testing-1ign)
-- [How I Went from 0% to 100% API Test Coverage in Minutes Using Keploy](https://dev.to/drashish987/how-i-went-from-0-to-100-api-test-coverage-in-minutes-using-keploy-10nn)
-- [An easy way to get started with MCP concepts!](https://dev.to/raptortilla/an-easy-way-to-get-started-with-mcp-concepts-3dhn)
+- [Extreme Left Shifting](https://dev.to/sebs/extreme-left-shifting-1lnm)
+- [Introducing Zenoscript](https://dev.to/wess/introducing-zenoscript-1aoc)
+- [Start here/About Me](https://dev.to/brigita/start-hereabout-me-5cp7)
+- [From Cloud Lag to GPU Speed: How Dedicated Servers Are Revolutionizing Remote Work and Development](https://dev.to/helloserver/from-cloud-lag-to-gpu-speed-how-dedicated-servers-are-revolutionizing-remote-work-and-development-2ehb)
+- [The Bug Was One Character Long: Lessons From My First Full Stack App](https://dev.to/trevorbrowning/the-bug-was-one-character-long-lessons-from-my-first-full-stack-app-439b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
