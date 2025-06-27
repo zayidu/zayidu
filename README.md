@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancements in Computer Science Learning: A Synthesis of Recent Research in AI and Machine Learning](https://dev.to/khanali21/advancements-in-computer-science-learning-a-synthesis-of-recent-research-in-ai-and-machine-learning-37cf)
-- [Advancing Artificial Intelligence: Safety, Personalization, and Practical Applications in Recent Research](https://dev.to/khanali21/advancing-artificial-intelligence-safety-personalization-and-practical-applications-in-recent-3oig)
-- [The Rise of Flutter Jobs in 2025: Why Now Is the Best Time to Be a Flutter Developer](https://dev.to/jobswithflutter/the-rise-of-flutter-jobs-in-2025-why-now-is-the-best-time-to-be-a-flutter-developer-4ik5)
-- [👋 Hello dev.to! My Journey into Full-Stack Web Development 🚀](https://dev.to/cwillam/hello-devto-my-journey-into-full-stack-web-development-4jbj)
-- [POSTGRESQL DATA TYPES FOR DATA ANALYSIS](https://dev.to/john_analytics/postgresql-data-types-for-data-analysis-1c5g)
+- [Unmasking the Shadows: Understanding and Mitigating Server Side Request Forgery &lpar;SSRF&rpar;](https://dev.to/vjnvisakh/unmasking-the-shadows-understanding-and-mitigating-server-side-request-forgery-ssrf-1lm5)
+- [SwiftUI Component Architecture Mastery: Professional Styling, Testing &amp; Performance &lpar;2025&rpar;](https://dev.to/swift_pal/swiftui-component-architecture-mastery-professional-styling-testing-performance-2025-1h5p)
+- [AI catching up 😁](https://dev.to/zawhtutwin/ai-catching-up-3p0g)
+- [How to Improve Machine Translation Quality](https://dev.to/colinreed/how-to-improve-machine-translation-quality-30fi)
+- [K6 + .NET Aspire: Seamless Load Testing](https://dev.to/foxminchan/k6-net-aspire-seamless-load-testing-12gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
