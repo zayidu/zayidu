@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extreme Left Shifting](https://dev.to/sebs/extreme-left-shifting-1lnm)
-- [Introducing Zenoscript](https://dev.to/wess/introducing-zenoscript-1aoc)
-- [Start here/About Me](https://dev.to/brigita/start-hereabout-me-5cp7)
-- [From Cloud Lag to GPU Speed: How Dedicated Servers Are Revolutionizing Remote Work and Development](https://dev.to/helloserver/from-cloud-lag-to-gpu-speed-how-dedicated-servers-are-revolutionizing-remote-work-and-development-2ehb)
-- [The Bug Was One Character Long: Lessons From My First Full Stack App](https://dev.to/trevorbrowning/the-bug-was-one-character-long-lessons-from-my-first-full-stack-app-439b)
+- [Security news weekly round-up - 27th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-27th-june-2025-4ckn)
+- [Heartfelt Review of The iN Crowd: Life, Legacy, Leadership – Rise Above Challenges with Kahlil Carter](https://dev.to/christopherfinkelstein/heartfelt-review-of-the-in-crowd-life-legacy-leadership-rise-above-challenges-with-kahlil-46jo)
+- [The Silent Killers in Node.js: uncaughtException and unhandledRejection 🐦](https://dev.to/silentwatcher_95/the-silent-killers-in-nodejs-uncaughtexception-and-unhandledrejection-1p9b)
+- [🚀 HexTo Just Got a Massive Upgrade: Harmonies, Tokens, Vision Sim, and More!](https://dev.to/elhoucine_ousidiali_fae35/hexto-just-got-a-massive-upgrade-harmonies-tokens-vision-sim-and-more-2304)
+- [Programming Entry Level: project ideas algorithms](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-algorithms-51na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
