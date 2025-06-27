@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run AI Models Privately on Your AI PC with Model HQ; No Cloud, No Code](https://dev.to/llmware/how-to-run-ai-models-privately-on-your-ai-pc-with-model-hq-no-cloud-no-code-3o9k)
-- [VMware Fundamentals: Photon Linux](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-linux-3ilf)
-- [Building a Reliable Crypto Analysis Website: A Guide for Developers and Enthusiasts](https://dev.to/siddarth_1619_0ac9c0bd6fb/building-a-reliable-crypto-analysis-website-a-guide-for-developers-and-enthusiasts-2k63)
-- [What is Metaverse Explained: The Future of the Internet](https://dev.to/metana/what-is-metaverse-explained-the-future-of-the-internet-3f56)
-- [Drizzle ORM in Neon DB: The Ultimate Crash Course for Modern Web Development](https://dev.to/devjubr/drizzle-orm-in-neon-db-the-ultimate-crash-course-for-modern-web-development-2bo4)
+- [Building a Simple To-Do List App with JavaScript](https://dev.to/muhammadatiflatif/building-a-simple-to-do-list-app-with-javascript-oc9)
+- [Understanding Promises in JavaScript: A Comprehensive Guide](https://dev.to/muhammadatiflatif/understanding-promises-in-javascript-a-comprehensive-guide-1220)
+- [How to Build a REST API with Node.js and Express](https://dev.to/muhammadatiflatif/how-to-build-a-rest-api-with-nodejs-and-express-1m39)
+- [Things Every JavaScript Engineer Knows—But Needs to Hear Again](https://dev.to/urbanisierung/things-every-javascript-engineer-knows-but-needs-to-hear-again-504b)
+- [Why Your Deadlines Are Wrong: Evidence-Based Estimation for Developers](https://dev.to/teamcamp/why-your-deadlines-are-wrong-evidence-based-estimation-for-developers-110d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
