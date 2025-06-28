@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Imitation Hema - Choose Coupon &lpar;59&rpar;](https://dev.to/whl15290959515/imitation-hema-choose-coupon-59-74p)
-- [Memory management with Flyweight Design Pattern](https://dev.to/shirin_monzavi_f3d63ff99d/memory-management-with-flyweight-design-pattern-1hf3)
-- [Imitation Hema - Get Coupons &lpar;56&rpar;](https://dev.to/whl15290959515/imitation-hema-get-coupons-56-3faf)
-- [Imitation Box Horse - Safety Lock Verification &lpar;55&rpar;](https://dev.to/whl15290959515/imitation-box-horse-safety-lock-verification-55-50ig)
-- [Imitation Box Horse - Retrieval and Withdrawal Record Query &lpar;54&rpar;](https://dev.to/whl15290959515/imitation-box-horse-retrieval-and-withdrawal-record-query-54-lhd)
+- [Soft Launching Instagram: Build Buzz Before the Big Reveal](https://dev.to/uisaleh/soft-launching-instagram-build-buzz-before-the-big-reveal-9ci)
+- [【Journey of HarmonyOS Next】DevEco Studio User Guide &lpar;25&rpar; -&gt; Business Introduction &lpar;2&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-deveco-studio-user-guide-25-business-introduction-2-36l3)
+- [【Journey of HarmonyOS Next】DevEco Studio User Guide &lpar;24&rpar; -&gt; Business Introduction &lpar;1&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-deveco-studio-user-guide-24-business-introduction-1-2de5)
+- [who want to vibe together](https://dev.to/open_efficiency/who-want-to-vibe-together-1nik)
+- [Dynamic Imports](https://dev.to/jay818/dynamic-imports-15i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
