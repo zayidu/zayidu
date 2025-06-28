@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Core Web Vitals: How Image Optimization Impacts Your Lighthouse Score](https://dev.to/hardik_b2d8f0bca/core-web-vitals-how-image-optimization-impacts-your-lighthouse-score-3407)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `33`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-33-2pa)
-- [【Journey of HarmonyOS Next】Installing DevEco Studio and Configuring the Environment](https://dev.to/zhzlm/journey-of-harmonyos-next-installing-deveco-studio-and-configuring-the-environment-3dim)
-- [Next Generation High Web Rust Based Solutions（1751090267260000）](https://dev.to/member_9f9a54c5/next-generation-high-web-rust-based-solutions1751090267260000-5abk)
-- [Spring Reusable Pagination and Sorting](https://dev.to/raevilman/spring-reusable-pagination-and-sorting-17ki)
+- [Front-end Security Best Practices](https://dev.to/godofgeeks/front-end-security-best-practices-2ki)
+- [📖 Closures in JavaScript — Unlocking Private Variables](https://dev.to/chaitanya_chopde_dd0642ed/day-2-closures-in-javascript-unlocking-private-variables-225)
+- [NodeJS Fundamentals: worker_threads](https://dev.to/devopsfundamentals/nodejs-fundamentals-workerthreads-mld)
+- [【Journey of HarmonyOS Next】HarmonyOS Development Basics &lpar;3&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-3-4bca)
+- [Child Mortality Analysis with SQL](https://dev.to/niffyspecial/child-mortality-analysis-with-sql-2j31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
