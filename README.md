@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scheme Launching App, List Refresh, Web File Download, Adaptive to Child Elements](https://dev.to/qingkouwei/web-scheme-launching-app-list-refresh-web-file-download-adaptive-to-child-elements-fk8)
-- [Handwriting Electronic Signature, Waterfall Layout String Height Acquisition, WaterFlow Crash, Web Scrolling Issues](https://dev.to/qingkouwei/handwriting-electronic-signature-waterfall-layout-string-height-acquisition-waterflow-crash-web-1ec4)
-- [Berpikir Netral di Era Noise Digital: Apakah Kita Masih Bisa Objektif?](https://dev.to/live_drawnihboss_55459a/berpikir-netral-di-era-noise-digital-apakah-kita-masih-bisa-objektif-38m7)
-- [🚀 JavaScript ES6 Features You Should Know in 2025](https://dev.to/manukumar07/javascript-es6-features-you-should-know-in-2025-5e1l)
-- [【Journey of HarmonyOS Next】Developing Based on ArkTS &lpar;2&rpar; - &gt; Common layouts for UI development](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-based-on-arkts-2-common-layouts-for-ui-development-1o9n)
+- [Detailed Explanation of HarmonyOS App.json5 Configuration](https://dev.to/mengr/detailed-explanation-of-harmonyos-appjson5-configuration-21aj)
+- [Routing Stack Issues, Image Rounding, Color Resource to Hex Conversion, Dataset Change Crash, Component Lifecycle](https://dev.to/qingkouwei/routing-stack-issues-image-rounding-color-resource-to-hex-conversion-dataset-change-crash-1kck)
+- [Like Animation Implementation, Grid Visible Items, Refresh Component, Code Specifications, State Variables](https://dev.to/qingkouwei/like-animation-implementation-grid-visible-items-refresh-component-code-specifications-state-llm)
+- [Open source: ImageKit, a Rust-based tool for batch image compression and watermarking.](https://dev.to/frr/open-source-imagekit-a-rust-based-tool-for-batch-image-compression-and-watermarking-2i5)
+- [Type Judgment, Notch Height, Privacy Popup, Swipe to Next Page Effect, Clear Cache](https://dev.to/qingkouwei/type-judgment-notch-height-privacy-popup-swipe-to-next-page-effect-clear-cache-16ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
