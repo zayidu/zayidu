@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Image Optimization: Lazy Loading and Beyond](https://dev.to/hardik_b2d8f0bca/angular-image-optimization-lazy-loading-and-beyond-he7)
-- [Python Trending Weekly #108：Will AI Replace Junior Developers?](https://dev.to/pythoncat/python-trending-weekly-108will-ai-replace-junior-developers-258e)
-- [Beyond Speed: A Smarter Framework for Measuring AI Developer Efficiency](https://dev.to/_vjk/beyond-speed-a-smarter-framework-for-measuring-ai-developer-efficiency-1bil)
-- [The Leaderboard Illusion: Is Your Model Smart or Just Well-Studied?](https://dev.to/mhamadelitawi/the-leaderboard-illusion-is-your-model-smart-or-just-well-studied-1ndo)
-- [ZewpolOS 2.2](https://dev.to/zako_mako_9a4826822204c78/zewpolos-22-1i6k)
+- [HarmonyOS Development: Understanding Desktop Cards in One Article](https://dev.to/abnerming888/harmonyos-development-understanding-desktop-cards-in-one-article-2enc)
+- [String in Python &lpar;3&rpar;](https://dev.to/hyperkai/string-in-python-3-4o25)
+- [JODANS SOLAR ENGINEERING SERVICES website](https://dev.to/orebanjo_olusesan_fac23e3/jodans-solar-engineering-services-website-80h)
+- [Efficient Reporting: Query Caching and Big Data Report Generation with Queues](https://dev.to/tahsin000/efficient-reporting-query-caching-and-big-data-report-generation-with-queues-ped)
+- [The string type in TypeScript.](https://dev.to/joyontokumar/the-string-type-in-typescript-2916)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
