@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memes only a DEV can relate to. &lpar;part 2&rpar;](https://dev.to/contractorx/memes-only-a-dev-can-relate-to-part-2-328c)
-- [2099. Find Subsequence of Length K With the Largest Sum](https://dev.to/mdarifulhaque/2099-find-subsequence-of-length-k-with-the-largest-sum-2a39)
-- [API Testing: From cURL to Click](https://dev.to/ranitmukherjee/from-curl-commands-to-clicks-my-first-five-minutes-with-ai-powered-api-testing-3opf)
-- [please who can help me on a project of c?? using the library gtk on ubuntu ??](https://dev.to/lyrian_nono_ada48afd39cac/please-who-can-help-me-on-a-project-of-c-using-the-library-gtk-on-ubuntu--3k75)
-- [A Beginner Guide to LLM Prompts](https://dev.to/corpcubite/prompt-engineering-in-ai-a-beginner-guide-to-llm-prompts-read-the-full-article-39dg)
+- [From Jupyter to Production: Operationalizing ML Models at Scale](https://dev.to/ramya_boorugula_eb8dcdbbc/from-jupyter-to-production-operationalizing-ml-models-at-scale-1de3)
+- [FastAPI: A Python Web Framework for NodeJS Developers](https://dev.to/raffycastillo/fastapi-a-python-web-framework-for-nodejs-developers-4klj)
+- [GCP Fundamentals: Data Labeling API](https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a)
+- [Automating Persistent AI On the Fly](https://dev.to/jmoncayopursuit/automating-persistent-ai-on-the-fly-1i0d)
+- [Alternative of &#39;for&#39; in Python](https://dev.to/akuad/alternative-of-for-in-python-3537)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
