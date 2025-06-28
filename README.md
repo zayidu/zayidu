@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Understanding Desktop Cards in One Article](https://dev.to/abnerming888/harmonyos-development-understanding-desktop-cards-in-one-article-2enc)
-- [String in Python &lpar;3&rpar;](https://dev.to/hyperkai/string-in-python-3-4o25)
-- [JODANS SOLAR ENGINEERING SERVICES website](https://dev.to/orebanjo_olusesan_fac23e3/jodans-solar-engineering-services-website-80h)
-- [Efficient Reporting: Query Caching and Big Data Report Generation with Queues](https://dev.to/tahsin000/efficient-reporting-query-caching-and-big-data-report-generation-with-queues-ped)
-- [The string type in TypeScript.](https://dev.to/joyontokumar/the-string-type-in-typescript-2916)
+- [The State Management Secret No One Told You About](https://dev.to/karandeepsingh7070/the-state-management-secret-no-one-told-you-about-3mcc)
+- [Imitation Hema - Improving the Logic of Shopping Cart Business &lpar;34&rpar;](https://dev.to/whl15290959515/imitation-hema-improving-the-logic-of-shopping-cart-business-34-eih)
+- [Imitation Box Horse - Order List Page &lpar;33&rpar;](https://dev.to/whl15290959515/imitation-box-horse-order-list-page-33-18g8)
+- [From Simple Reflex to Smart Learner: A Guide to AI Agent Types](https://dev.to/zane_5f4755a11fbe2755438a/from-simple-reflex-to-smart-learner-a-guide-to-ai-agent-types-54b9)
+- [【Journey of HarmonyOS Next】ArkTS-based Development &lpar;3&rpar; -&gt; JS-Compatible Web Development &lpar;4&rpar; -&gt; Common Components &lpar;1&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-arkts-based-development-3-js-compatible-web-development-4--1lp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
