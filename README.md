@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [pride_rainbow_css_art](https://dev.to/aniruddhaadak/priderainbowcssart-1i9c)
-- [Journey on linux](https://dev.to/audi_nathanael_2ebc067b3c/journey-on-linux-m5n)
-- [The 20-Minute Daily Review That Tripled My Code Quality &lpar;Git Data Proof&rpar;](https://dev.to/teamcamp/the-20-minute-daily-review-that-tripled-my-code-quality-git-data-proof-1b6g)
-- [The AI Revolution Is Here What It Means for Your Future](https://dev.to/user_12_16fa9736579e6bcec/the-ai-revolution-is-here-what-it-means-for-your-future-291l)
-- [How to Deploy a Laravel Application to a VPS: Complete Step-by-Step Guide](https://dev.to/aiferrydermawan/how-to-deploy-a-laravel-application-to-a-vps-complete-step-by-step-guide-3ba1)
+- [Core Web Vitals: How Image Optimization Impacts Your Lighthouse Score](https://dev.to/hardik_b2d8f0bca/core-web-vitals-how-image-optimization-impacts-your-lighthouse-score-3407)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `33`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-33-2pa)
+- [【Journey of HarmonyOS Next】Installing DevEco Studio and Configuring the Environment](https://dev.to/zhzlm/journey-of-harmonyos-next-installing-deveco-studio-and-configuring-the-environment-3dim)
+- [Next Generation High Web Rust Based Solutions（1751090267260000）](https://dev.to/member_9f9a54c5/next-generation-high-web-rust-based-solutions1751090267260000-5abk)
+- [Spring Reusable Pagination and Sorting](https://dev.to/raevilman/spring-reusable-pagination-and-sorting-17ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
