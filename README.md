@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Soft Launching Instagram: Build Buzz Before the Big Reveal](https://dev.to/uisaleh/soft-launching-instagram-build-buzz-before-the-big-reveal-9ci)
-- [【Journey of HarmonyOS Next】DevEco Studio User Guide &lpar;25&rpar; -&gt; Business Introduction &lpar;2&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-deveco-studio-user-guide-25-business-introduction-2-36l3)
-- [【Journey of HarmonyOS Next】DevEco Studio User Guide &lpar;24&rpar; -&gt; Business Introduction &lpar;1&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-deveco-studio-user-guide-24-business-introduction-1-2de5)
-- [who want to vibe together](https://dev.to/open_efficiency/who-want-to-vibe-together-1nik)
-- [Dynamic Imports](https://dev.to/jay818/dynamic-imports-15i6)
+- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
+- [[Boost]](https://dev.to/rakeshv675/-46go)
+- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
+- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
+- [Tutorial Lengkap: Membuat Laravel Backend Auth Menggunakan Sanctum &lpar;Laravel 9 &amp; MySQL&rpar;](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-laravel-backend-auth-menggunakan-sanctum-laravel-9-mysql-41pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
