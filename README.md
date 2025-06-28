@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ERC 1155 Token](https://dev.to/tech_journey_85208cd43521/erc-1155-token-41ka)
-- [Integrating Spring Boot with Angular](https://dev.to/tleipzig/integrating-spring-boot-with-angular-42kc)
-- [How to Generate an Array of Numbers in a Specific Range in JavaScript](https://dev.to/ibrahimalanshor/how-to-generate-an-array-of-numbers-in-a-specific-range-in-javascript-4j38)
-- [🔥 DeepSeek API is 100% FREE! &lpar;No Excuses Left&rpar; Build AI Apps &amp; Chatbots Easily 🚀](https://dev.to/ritesh2204/deepseek-api-is-100-free-no-excuses-left-build-ai-apps-chatbots-easily-6md)
-- [Chrome Extension for Summarizing YouTube Videos with AI](https://dev.to/ibrahimkamal/chrome-extension-for-summarizing-youtube-videos-with-ai-3mml)
+- [Angular Image Optimization: Lazy Loading and Beyond](https://dev.to/hardik_b2d8f0bca/angular-image-optimization-lazy-loading-and-beyond-he7)
+- [Python Trending Weekly #108：Will AI Replace Junior Developers?](https://dev.to/pythoncat/python-trending-weekly-108will-ai-replace-junior-developers-258e)
+- [Beyond Speed: A Smarter Framework for Measuring AI Developer Efficiency](https://dev.to/_vjk/beyond-speed-a-smarter-framework-for-measuring-ai-developer-efficiency-1bil)
+- [The Leaderboard Illusion: Is Your Model Smart or Just Well-Studied?](https://dev.to/mhamadelitawi/the-leaderboard-illusion-is-your-model-smart-or-just-well-studied-1ndo)
+- [ZewpolOS 2.2](https://dev.to/zako_mako_9a4826822204c78/zewpolos-22-1i6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
