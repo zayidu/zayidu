@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending to Status Bar, Global Storage Issues, State Variable Collaboration, Refresh Component Usage](https://dev.to/qingkouwei/extending-to-status-bar-global-storage-issues-state-variable-collaboration-refresh-component-21cm)
-- [Image Saving, Scrolling Issues, Dialog Page Effect, Child Components Throwing Custom Events to Parent Components](https://dev.to/qingkouwei/image-saving-scrolling-issues-dialog-page-effect-child-components-throwing-custom-events-to-1pl1)
-- [Status Bar Background Color, Global Page Grayscale, Close Pop-up on Blank Click, UI Component as Parameter](https://dev.to/qingkouwei/status-bar-background-color-global-page-grayscale-close-pop-up-on-blank-click-ui-component-as-c60)
-- [Relative Layout, High-Performance List Optimization, Text Centering, Control Size Acquisition, Click Callback](https://dev.to/qingkouwei/relative-layout-high-performance-list-optimization-text-centering-control-size-acquisition-3mfk)
-- [HarmonyOS Next Multiprocess Programming：Practice of Creating Child Processes and Inter Process Communication](https://dev.to/hmosasher/harmonyos-next-multiprocess-programmingpractice-of-creating-child-processes-and-inter-process-2ek0)
+- [ERC 1155 Token](https://dev.to/tech_journey_85208cd43521/erc-1155-token-41ka)
+- [Integrating Spring Boot with Angular](https://dev.to/tleipzig/integrating-spring-boot-with-angular-42kc)
+- [How to Generate an Array of Numbers in a Specific Range in JavaScript](https://dev.to/ibrahimalanshor/how-to-generate-an-array-of-numbers-in-a-specific-range-in-javascript-4j38)
+- [🔥 DeepSeek API is 100% FREE! &lpar;No Excuses Left&rpar; Build AI Apps &amp; Chatbots Easily 🚀](https://dev.to/ritesh2204/deepseek-api-is-100-free-no-excuses-left-build-ai-apps-chatbots-easily-6md)
+- [Chrome Extension for Summarizing YouTube Videos with AI](https://dev.to/ibrahimkamal/chrome-extension-for-summarizing-youtube-videos-with-ai-3mml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
