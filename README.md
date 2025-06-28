@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar; Servers For The Absolute Beginner](https://dev.to/thenjdevopsguy/model-context-protocol-mcp-servers-for-the-absolute-beginner-355o)
-- [🎤 The Voice Courier: Meet RTP](https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj)
-- [😎 What Every Developer Should Learn Before 2026](https://dev.to/resource_bunk_1077cab07da/what-every-developer-should-learn-before-2026-3i57)
-- [Async/Await in C# vs JavaScript: Same Hoodie, Different Superpowers](https://dev.to/pranta/asyncawait-in-c-vs-javascript-same-hoodie-different-superpowers-41jo)
-- [Few updates in Frontend](https://dev.to/shreyvijayvargiya/few-updates-in-frontend-1a6i)
+- [MindsDB Stress Test Knowledge Base - My Journey Creating App using MindsDB KB](https://dev.to/gungz/mindsdb-stress-test-knowledge-base-my-journey-creating-app-using-mindsdb-kb-3p4j)
+- [Vulnerability Assessment](https://dev.to/salman_khan_c31307505285e/vulnerability-assessment-14fl)
+- [Why I’m All In on Burnout Prevention and What I’m Building with DustOff Reset](https://dev.to/gaofenngwe_kabubi_9553d10/why-im-all-in-on-burnout-prevention-and-what-im-building-with-dustoff-reset-3cdh)
+- [Making AI Models Accessible Anywhere :: Scaling AI Traffic with Envoy AI Gateway](https://dev.to/mallagari_sri_datta/making-ai-models-accessible-anywhere-scaling-ai-traffic-with-envoy-ai-gateway-1bid)
+- [AnyCable vs. Action Cable: A Benchmark War](https://dev.to/alex_aslam/anycable-vs-action-cable-a-benchmark-war-4c3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
