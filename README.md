@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end Security Best Practices](https://dev.to/godofgeeks/front-end-security-best-practices-2ki)
-- [📖 Closures in JavaScript — Unlocking Private Variables](https://dev.to/chaitanya_chopde_dd0642ed/day-2-closures-in-javascript-unlocking-private-variables-225)
-- [NodeJS Fundamentals: worker_threads](https://dev.to/devopsfundamentals/nodejs-fundamentals-workerthreads-mld)
-- [【Journey of HarmonyOS Next】HarmonyOS Development Basics &lpar;3&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-3-4bca)
-- [Child Mortality Analysis with SQL](https://dev.to/niffyspecial/child-mortality-analysis-with-sql-2j31)
+- [Countdown Effect Implementation, Flex Properties, Foldable Screen Switching, Dynamic Import in Functions, UI Design Dimensions](https://dev.to/qingkouwei/countdown-effect-implementation-flex-properties-foldable-screen-switching-dynamic-import-in-2jjb)
+- [Build a Laravel + React CRUD Application with Inertia.js — Step-by-Step Guide](https://dev.to/darshanbelani/build-a-laravel-react-crud-application-with-inertiajs-step-by-step-guide-144f)
+- [Building Your Own DSL with @resultBuilder in Swift: HTML Builder](https://dev.to/swift_pal/building-your-own-dsl-with-resultbuilder-in-swift-html-builder-5chk)
+- [Batch API Calls in Javascript](https://dev.to/kavya1205/batch-api-calls-in-javascript-1i8i)
+- [Apple&#39;s Liquid Glass UI: A Revolutionary Leap into the Future of Design](https://dev.to/techike_5c6a28ecf8e7a10b2/apples-liquid-glass-ui-a-revolutionary-leap-into-the-future-of-design-aji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
