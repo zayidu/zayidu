@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-1chh)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2je6)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2jcm)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-3jk9)
-- [Implementing Multi-tenancy with Keycloak and NestJS](https://dev.to/italoqueiroz/implementing-multi-tenancy-with-keycloak-and-nestjs-4oe6)
+- [Memes only a DEV can relate to. &lpar;part 2&rpar;](https://dev.to/contractorx/memes-only-a-dev-can-relate-to-part-2-328c)
+- [2099. Find Subsequence of Length K With the Largest Sum](https://dev.to/mdarifulhaque/2099-find-subsequence-of-length-k-with-the-largest-sum-2a39)
+- [API Testing: From cURL to Click](https://dev.to/ranitmukherjee/from-curl-commands-to-clicks-my-first-five-minutes-with-ai-powered-api-testing-3opf)
+- [please who can help me on a project of c?? using the library gtk on ubuntu ??](https://dev.to/lyrian_nono_ada48afd39cac/please-who-can-help-me-on-a-project-of-c-using-the-library-gtk-on-ubuntu--3k75)
+- [A Beginner Guide to LLM Prompts](https://dev.to/corpcubite/prompt-engineering-in-ai-a-beginner-guide-to-llm-prompts-read-the-full-article-39dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
