@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Jupyter to Production: Operationalizing ML Models at Scale](https://dev.to/ramya_boorugula_eb8dcdbbc/from-jupyter-to-production-operationalizing-ml-models-at-scale-1de3)
-- [FastAPI: A Python Web Framework for NodeJS Developers](https://dev.to/raffycastillo/fastapi-a-python-web-framework-for-nodejs-developers-4klj)
-- [GCP Fundamentals: Data Labeling API](https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a)
-- [Automating Persistent AI On the Fly](https://dev.to/jmoncayopursuit/automating-persistent-ai-on-the-fly-1i0d)
-- [Alternative of &#39;for&#39; in Python](https://dev.to/akuad/alternative-of-for-in-python-3537)
+- [HarmonyOS Development: hvigorw, Compile and Build, Implement Command Packaging](https://dev.to/abnerming888/harmonyos-development-hvigorw-compile-and-build-implement-command-packaging-4n0p)
+- [HarmonyOS Development: hvigorw, an artifact you have to understand](https://dev.to/abnerming888/harmonyos-development-hvigorw-an-artifact-you-have-to-understand-51ii)
+- [How to use python pixi with ruff in vscode?](https://dev.to/nl_p_/how-to-use-python-pixi-with-ruff-in-vscode-15bc)
+- [HarmonyOS Development: I made a detailed summary of this interview.](https://dev.to/abnerming888/harmonyos-development-i-made-a-detailed-summary-of-this-interview-241f)
+- [Umemura Farm Website – Devlog #19: Organizing the Directory Before Building Seasonal Pages](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-19-organizing-the-directory-before-building-seasonal-pages-2kan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
