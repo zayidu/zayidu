@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The State Management Secret No One Told You About](https://dev.to/karandeepsingh7070/the-state-management-secret-no-one-told-you-about-3mcc)
-- [Imitation Hema - Improving the Logic of Shopping Cart Business &lpar;34&rpar;](https://dev.to/whl15290959515/imitation-hema-improving-the-logic-of-shopping-cart-business-34-eih)
-- [Imitation Box Horse - Order List Page &lpar;33&rpar;](https://dev.to/whl15290959515/imitation-box-horse-order-list-page-33-18g8)
-- [From Simple Reflex to Smart Learner: A Guide to AI Agent Types](https://dev.to/zane_5f4755a11fbe2755438a/from-simple-reflex-to-smart-learner-a-guide-to-ai-agent-types-54b9)
-- [【Journey of HarmonyOS Next】ArkTS-based Development &lpar;3&rpar; -&gt; JS-Compatible Web Development &lpar;4&rpar; -&gt; Common Components &lpar;1&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-arkts-based-development-3-js-compatible-web-development-4--1lp4)
+- [Imitation Hema - Choose Coupon &lpar;59&rpar;](https://dev.to/whl15290959515/imitation-hema-choose-coupon-59-74p)
+- [Memory management with Flyweight Design Pattern](https://dev.to/shirin_monzavi_f3d63ff99d/memory-management-with-flyweight-design-pattern-1hf3)
+- [Imitation Hema - Get Coupons &lpar;56&rpar;](https://dev.to/whl15290959515/imitation-hema-get-coupons-56-3faf)
+- [Imitation Box Horse - Safety Lock Verification &lpar;55&rpar;](https://dev.to/whl15290959515/imitation-box-horse-safety-lock-verification-55-50ig)
+- [Imitation Box Horse - Retrieval and Withdrawal Record Query &lpar;54&rpar;](https://dev.to/whl15290959515/imitation-box-horse-retrieval-and-withdrawal-record-query-54-lhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
