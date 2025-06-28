@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: hvigorw, Compile and Build, Implement Command Packaging](https://dev.to/abnerming888/harmonyos-development-hvigorw-compile-and-build-implement-command-packaging-4n0p)
-- [HarmonyOS Development: hvigorw, an artifact you have to understand](https://dev.to/abnerming888/harmonyos-development-hvigorw-an-artifact-you-have-to-understand-51ii)
-- [How to use python pixi with ruff in vscode?](https://dev.to/nl_p_/how-to-use-python-pixi-with-ruff-in-vscode-15bc)
-- [HarmonyOS Development: I made a detailed summary of this interview.](https://dev.to/abnerming888/harmonyos-development-i-made-a-detailed-summary-of-this-interview-241f)
-- [Umemura Farm Website – Devlog #19: Organizing the Directory Before Building Seasonal Pages](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-19-organizing-the-directory-before-building-seasonal-pages-2kan)
+- [pride_rainbow_css_art](https://dev.to/aniruddhaadak/priderainbowcssart-1i9c)
+- [Journey on linux](https://dev.to/audi_nathanael_2ebc067b3c/journey-on-linux-m5n)
+- [The 20-Minute Daily Review That Tripled My Code Quality &lpar;Git Data Proof&rpar;](https://dev.to/teamcamp/the-20-minute-daily-review-that-tripled-my-code-quality-git-data-proof-1b6g)
+- [The AI Revolution Is Here What It Means for Your Future](https://dev.to/user_12_16fa9736579e6bcec/the-ai-revolution-is-here-what-it-means-for-your-future-291l)
+- [How to Deploy a Laravel Application to a VPS: Complete Step-by-Step Guide](https://dev.to/aiferrydermawan/how-to-deploy-a-laravel-application-to-a-vps-complete-step-by-step-guide-3ba1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
