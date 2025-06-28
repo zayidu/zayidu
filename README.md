@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes a Project Management Tool Truly Work for Modern Teams](https://dev.to/parizad/what-makes-a-project-management-tool-truly-work-for-modern-teams-4ln2)
-- [Web Application Security Input Protection Common（1751108282582500）](https://dev.to/member_9f9a54c5/web-application-security-input-protection-common1751108282582500-68c)
-- [Embrace the Default: Let HTML and CSS Do the Work](https://dev.to/treagod/embrace-the-default-let-html-and-css-do-the-work-ejp)
-- [Announcing Sniffnet v1.4: introduced PCAP files import — it’s 2X faster than Wireshark!](https://dev.to/gyulyvgc/announcing-sniffnet-v14-introduced-pcap-files-import-its-2x-faster-than-wireshark-476l)
-- [I Needed Clean Exchange Rate Data, So I Built My Own API](https://dev.to/steven_777d5fbebbc30a9384/i-needed-clean-exchange-rate-data-so-i-built-my-own-api-1bap)
+- [Extending to Status Bar, Global Storage Issues, State Variable Collaboration, Refresh Component Usage](https://dev.to/qingkouwei/extending-to-status-bar-global-storage-issues-state-variable-collaboration-refresh-component-21cm)
+- [Image Saving, Scrolling Issues, Dialog Page Effect, Child Components Throwing Custom Events to Parent Components](https://dev.to/qingkouwei/image-saving-scrolling-issues-dialog-page-effect-child-components-throwing-custom-events-to-1pl1)
+- [Status Bar Background Color, Global Page Grayscale, Close Pop-up on Blank Click, UI Component as Parameter](https://dev.to/qingkouwei/status-bar-background-color-global-page-grayscale-close-pop-up-on-blank-click-ui-component-as-c60)
+- [Relative Layout, High-Performance List Optimization, Text Centering, Control Size Acquisition, Click Callback](https://dev.to/qingkouwei/relative-layout-high-performance-list-optimization-text-centering-control-size-acquisition-3mfk)
+- [HarmonyOS Next Multiprocess Programming：Practice of Creating Child Processes and Inter Process Communication](https://dev.to/hmosasher/harmonyos-next-multiprocess-programmingpractice-of-creating-child-processes-and-inter-process-2ek0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
