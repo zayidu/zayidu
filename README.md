@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly 0083](https://dev.to/kasuken/weekly-0083-50j5)
-- [WWDC 2025 - Enhancing your camera experience with capture controls](https://dev.to/arshtechpro/wwdc-2025-enhancing-your-camera-experience-with-capture-controls-3mfo)
-- [How to Solve dependencyFailedException on a Multi-Agent in AWS Bedrock](https://dev.to/aws-builders/how-to-solve-dependencyfailedexception-on-a-multi-agent-in-aws-bedrock-3fdi)
-- [PaperSense: Semantic arXiv Search &amp; Chat Built with MindsDB](https://dev.to/better-boy/papersense-semantic-arxiv-search-chat-built-with-mindsdb-1kfi)
-- [How I Fixed GitHub&#39;s Large File Warning with Git LFS for Auvra AI](https://dev.to/aldorax/how-i-fixed-githubs-large-file-warning-with-git-lfs-for-auvra-ai-3mo8)
+- [How Language Models Work: From Attention to Human Feedback](https://dev.to/cristiansifuentes/how-language-models-work-from-attention-to-human-feedback-pbm)
+- [Fix for missing Android UI Automator Viewer](https://dev.to/svendster/fix-for-missing-android-ui-automator-viewer-1eh2)
+- [TickEvent is a clean, minimal event-sharing and ticketing web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI.](https://dev.to/saidmounaim/tickevent-is-a-clean-minimal-event-sharing-and-ticketing-web-app-built-with-nextjs-prisma-ee6)
+- [Swift Officially Expands to Android: A New Era for Cross-Platform Development](https://dev.to/arshtechpro/swift-officially-expands-to-android-a-new-era-for-cross-platform-development-3hjd)
+- [My Unexpected Bug Hunt: How Debugging a Weird API Issue in Laravel Taught Me More Than Docs Ever Could](https://dev.to/achlacodes/my-unexpected-bug-hunt-how-debugging-a-weird-api-issue-in-laravel-taught-me-more-than-docs-ever-2f01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
