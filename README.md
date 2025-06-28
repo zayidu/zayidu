@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
-- [[Boost]](https://dev.to/rakeshv675/-46go)
-- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
-- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
-- [Tutorial Lengkap: Membuat Laravel Backend Auth Menggunakan Sanctum &lpar;Laravel 9 &amp; MySQL&rpar;](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-laravel-backend-auth-menggunakan-sanctum-laravel-9-mysql-41pe)
+- [Model Context Protocol &lpar;MCP&rpar; Servers For The Absolute Beginner](https://dev.to/thenjdevopsguy/model-context-protocol-mcp-servers-for-the-absolute-beginner-355o)
+- [🎤 The Voice Courier: Meet RTP](https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj)
+- [😎 What Every Developer Should Learn Before 2026](https://dev.to/resource_bunk_1077cab07da/what-every-developer-should-learn-before-2026-3i57)
+- [Async/Await in C# vs JavaScript: Same Hoodie, Different Superpowers](https://dev.to/pranta/asyncawait-in-c-vs-javascript-same-hoodie-different-superpowers-41jo)
+- [Few updates in Frontend](https://dev.to/shreyvijayvargiya/few-updates-in-frontend-1a6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
