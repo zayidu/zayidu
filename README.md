@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Rust Day 0](https://dev.to/supaluckn/my-rust-day-0-1ohk)
-- [The Stoic Developer Codex: Remove What Adds Noise](https://dev.to/tonystpierre/the-stoic-developer-codex-remove-what-adds-noise-4mmo)
-- [MY LINUX BOOT &amp; DRIVE ISSUES](https://dev.to/sourav_mahato_3900/my-linux-boot-drive-issues-4g12)
-- [Automating the Sales Funnel: A Practical Guide for Growing Teams](https://dev.to/shubhh1602/automating-the-sales-funnel-a-practical-guide-for-growing-teams-12db)
-- [An app that can do multiple tasks at the same time](https://dev.to/makeke_mahanetsa_d745b9c0/an-app-that-can-do-multiple-tasks-at-the-same-time-50e)
+- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
+- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
+- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
+- [Varta](https://dev.to/vynride/varta-4ijg)
+- [Track, Analyze, and Simplify: RedisTimeSeries for Real-Time Data](https://dev.to/rijultp/track-analyze-and-simplify-redistimeseries-for-real-time-data-1ikf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
