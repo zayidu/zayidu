@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Detect Digital Overload and Emotional Residue: A New Era of Proactive Digital Wellness](https://dev.to/gaofenngwe_kabubi_9553d10/how-we-detect-digital-overload-and-emotional-residue-a-new-era-of-proactive-digital-wellness-ei)
-- [Memory Safety Ultimate Performance Balance（1751176681301600）](https://dev.to/member_8d9a8f47/memory-safety-ultimate-performance-balance1751176681301600-5cm0)
-- [From Scratch to SaaS in 9 Days: A Dev&#39;s Journey + Free Insights](https://dev.to/shreyan_01/from-scratch-to-saas-in-9-days-a-devs-journey-free-insights-1lle)
-- [Devlog #1 ahhhhh it&#39;s a snake](https://dev.to/bain_8a987225b41e21618fcb/devlog-1-ahhhhh-its-a-snake-1gm8)
-- [Untitled](https://dev.to/prince_patni_5b5c473779e7/untitled-4bpc)
+- [System Call Overhead Analysis and Optimization Performance Cost of User Mode and Kernel Mode Switching（1751179621293900）](https://dev.to/member_f4f4c714/system-call-overhead-analysis-and-optimization-performance-cost-of-user-mode-and-kernel-mode-233a)
+- [BitcoinQuizFlow: AI-Powered Quiz Generation with Storyblok](https://dev.to/kafechew/bitcoinquizflow-ai-powered-quiz-generation-with-storyblok-5ghd)
+- [How to Create Content-Aware Animated Subtitles with Python](https://dev.to/francozanardi/how-to-create-content-aware-animated-subtitles-with-python-24dn)
+- [Deployment Automation and Continuous Integration Technical Implementation of Modern Software Delivery Process（1751179243762800）](https://dev.to/member_8d9a8f47/deployment-automation-and-continuous-integration-technical-implementation-of-modern-software-26fp)
+- [How to Create a game assets using Ai.](https://dev.to/amir_hassan_60/how-to-create-a-game-assets-using-ai-3jgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
