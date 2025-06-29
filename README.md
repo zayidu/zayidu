@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PermissionUtil, authorization related tool classes](https://dev.to/787107497/permissionutils-authorization-related-tool-classes-3935)
-- [Top 5 Zapier Recipes for Developers That Save Hours Weekly](https://dev.to/brook_051cd08713006b/top-5-zapier-recipes-for-developers-that-save-hours-weekly-5h1h)
-- [Is Blockchain Really Secure?](https://dev.to/gathangaelijah/is-blockchain-really-secure-f4e)
-- [Perfect Combination of Message Queue and Real Time Communication Distributed System Design Practice（1751184441449800）](https://dev.to/member_f4f4c714/perfect-combination-of-message-queue-and-real-time-communication-distributed-system-design-1haa)
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-5-1jo8)
+- [Exploring High Efficiency Web Analysis Results（1751186924150700）](https://dev.to/member_8d9a8f47/exploring-high-efficiency-web-analysis-results1751186924150700-343n)
+- [HarmonyOS NEXT project practice：Share content through QQ](https://dev.to/victordeng/harmonyos-next-project-practiceshare-content-through-qq-1man)
+- [Compose Multiplatform looks promising 🚀](https://dev.to/boryanz/compose-multiplatform-looks-promising-1gab)
+- [ResUtil, resource-related tool class](https://dev.to/787107497/resutils-resource-related-tool-class-3ilp)
+- [AWS SAA Cheat Sheet: 5 Things I Wish I Knew Before the Exam](https://dev.to/nageshrajcodes/aws-saa-cheat-sheet-5-things-i-wish-i-knew-before-the-exam-23lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
