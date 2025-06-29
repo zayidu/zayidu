@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Deliver age-appropriate experiences in your app](https://dev.to/arshtechpro/wwdc-2025-deliver-age-appropriate-experiences-in-your-app-4nc8)
-- [Get user secrets for projects](https://dev.to/karenpayneoregon/get-user-secrets-for-projects-3b0h)
-- [memory game](https://dev.to/dianaappinventor24_unica_/memory-game-544l)
-- [[Boost]](https://dev.to/anthonymax/-1e0i)
-- [Front-end Backrooms &lpar;CSS&rpar;](https://dev.to/ivorjetski/front-end-backrooms-css-1fkf)
+- [HarmonyOS Development: Filling the remaining space](https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5)
+- [HarmonyOS Development: Authorization Method of Rights Management](https://dev.to/abnerming888/harmonyos-development-authorization-method-of-rights-management-1e3)
+- [HarmonyOS Development: Authority Statement for Authority Management](https://dev.to/abnerming888/harmonyos-development-authority-statement-for-authority-management-4c5p)
+- [HarmonyOS Development: Understanding Application-Level Configuration Information](https://dev.to/abnerming888/harmonyos-development-understanding-application-level-configuration-information-g6i)
+- [WWDC 2025 - Enhance child safety with PermissionKit](https://dev.to/arshtechpro/wwdc-2025-enhance-child-safety-with-permissionkit-52jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
