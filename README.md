@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Based on the Latest API, How to Realize Component Operation](https://dev.to/abnerming888/harmonyos-development-based-on-the-latest-api-how-to-realize-component-operation-5dpf)
-- [Design Systems: The Secret Weapon of Scalable Frontend Development](https://dev.to/toni_naumoski_mk/design-systems-the-secret-weapon-of-scalable-frontend-development-4ood)
-- [Two weeks with the GitHub Coding Agent](https://dev.to/benmatselby/two-weeks-with-the-github-coding-agent-318p)
-- [HarmonyOS Development: Code Extraction in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-extraction-in-devecostudio-3jmo)
-- [mq: The Missing Link Between jq and Markdown](https://dev.to/harehare/mq-the-missing-link-between-jq-and-markdown-bge)
+- [This Is How I Mastered TypeScript Like I&#39;m 5 &lpar;Type Inference!&rpar;&lpar;7&rpar;](https://dev.to/wisdombits/this-is-how-i-mastered-typescript-like-im-5-type-inference7-4983)
+- [Day 19: Shipped the frontend, brain officially resigned](https://dev.to/casperday11/day-19-shipped-the-frontend-brain-officially-resigned-1ga5)
+- [Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular](https://dev.to/vetriselvan_11/exploring-replaysubject-in-rxjs-how-to-replay-past-values-in-angular-2eh5)
+- [HarmonyOS NEXT- project actual combat calendar, novice tutorial 2](https://dev.to/xiaoyaolihua/harmonyos-next-project-actual-combat-calendar-novice-tutorial-2-eib)
+- [Macros Explained for Java Developers](https://dev.to/rooted/macros-explained-for-java-developers-k70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
