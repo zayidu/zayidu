@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Dumb — And You Should Be Too &lpar;Here’s Why&rpar;](https://dev.to/m13ha/ai-is-dumb-and-you-should-be-too-heres-why-4e15)
-- [Why DigitalOcean Spaces Auto-Downloads Large PDFs - And How to Fix It](https://dev.to/tahsin000/why-digitalocean-spaces-auto-downloads-large-pdfs-and-how-to-fix-it-jh)
-- [Python course: Loops](https://dev.to/costa86/python-course-loops-40ed)
-- [Introduction to JavaScript Runtime Environments](https://dev.to/abhiraj007/introduction-to-javascript-runtime-environments-1a0m)
-- [Big Data Fundamentals: hadoop tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-hadoop-tutorial-1mhm)
+- [WWDC 2025 - Deliver age-appropriate experiences in your app](https://dev.to/arshtechpro/wwdc-2025-deliver-age-appropriate-experiences-in-your-app-4nc8)
+- [Get user secrets for projects](https://dev.to/karenpayneoregon/get-user-secrets-for-projects-3b0h)
+- [memory game](https://dev.to/dianaappinventor24_unica_/memory-game-544l)
+- [[Boost]](https://dev.to/anthonymax/-1e0i)
+- [Front-end Backrooms &lpar;CSS&rpar;](https://dev.to/ivorjetski/front-end-backrooms-css-1fkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
