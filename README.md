@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 5 Amazing CLI Tools🤯](https://dev.to/dev_kiran/top-5-amazing-cli-tools-38pj)
-- [I built an AI-powered npm dependency scanner – give it 30 seconds &amp; a package.json](https://dev.to/dark_king_bb7196f2b458f62/i-built-an-ai-powered-npm-dependency-scanner-give-it-30-seconds-a-packagejson-16ei)
-- [From Microservices to Fan-Out: Evolving Cross-Service Communication in Modern Systems](https://dev.to/gambhirsamarth/from-microservices-to-fan-out-evolving-cross-service-communication-in-modern-systems-e9p)
-- [Adding Sessions and Memory to Your AI Agent with Agent Development Kit &lpar;ADK&rpar;](https://dev.to/marianocodes/adding-sessions-and-memory-to-your-ai-agent-with-agent-development-kit-adk-31ap)
-- [【HarmonyOS 5】Detailed Explanation of Privacy Protection in HarmonyOS Applications](https://dev.to/georgegcs/harmonyos-5-detailed-explanation-of-privacy-protection-in-harmonyos-applications-4d3a)
+- [My Rust Day 0](https://dev.to/supaluckn/my-rust-day-0-1ohk)
+- [The Stoic Developer Codex: Remove What Adds Noise](https://dev.to/tonystpierre/the-stoic-developer-codex-remove-what-adds-noise-4mmo)
+- [MY LINUX BOOT &amp; DRIVE ISSUES](https://dev.to/sourav_mahato_3900/my-linux-boot-drive-issues-4g12)
+- [Automating the Sales Funnel: A Practical Guide for Growing Teams](https://dev.to/shubhh1602/automating-the-sales-funnel-a-practical-guide-for-growing-teams-12db)
+- [An app that can do multiple tasks at the same time](https://dev.to/makeke_mahanetsa_d745b9c0/an-app-that-can-do-multiple-tasks-at-the-same-time-50e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
