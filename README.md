@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype Cycle: A Deep Dive into Generative AI and its Architectural Shifts](https://dev.to/sniperkraken007/beyond-the-hype-cycle-a-deep-dive-into-generative-ai-and-its-architectural-shifts-1o82)
-- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751170582875600）](https://dev.to/member_f4f4c714/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-33ob)
-- [What is the intersection of software performance and human performance in developer world?](https://dev.to/thinesh_founder/what-is-the-intersection-of-software-performance-and-human-performance-in-developer-world-kfn)
-- [Laravel Tip: Clean Up Your Queries Using Conditional Clauses](https://dev.to/ibrahimalanshor/laravel-tip-clean-up-your-queries-using-conditional-clauses-1oji)
-- [Long Connection Management Challenges and Solutions Core Technologies of Modern Web Applications（1751169980568500）](https://dev.to/member_f4f4c714/long-connection-management-challenges-and-solutions-core-technologies-of-modern-web-46ol)
+- [kolkata history](https://dev.to/tech_journey_85208cd43521/kolkata-history-4ogn)
+- [Everything I Learned in My First Year as a Security Engineer](https://dev.to/hackrowdsec/everything-i-learned-in-my-first-year-as-a-security-engineer-47i0)
+- [Database Connection Pool and Transaction Management Data Consistency Guarantee in Distributed Environment（1751172388928200）](https://dev.to/member_f4f4c714/database-connection-pool-and-transaction-management-data-consistency-guarantee-in-distributed-31bc)
+- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751172200729800）](https://dev.to/member_8d9a8f47/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-2ni9)
+- [[📝LeetCode #1] Two Sum](https://dev.to/shine7on/leetcode-1-two-sum-2eea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
