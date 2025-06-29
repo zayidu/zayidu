@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Methodology of Continuous Learning How to Maintain Competitiveness in Rapidly Changing Technology Field（1751166967707500）](https://dev.to/member_f4f4c714/methodology-of-continuous-learning-how-to-maintain-competitiveness-in-rapidly-changing-technology-1an0)
-- [Performance First Web Rust Framework High Throughput（1751166441773800）](https://dev.to/member_8d9a8f47/performance-first-web-rust-framework-high-throughput1751166441773800-51pk)
-- [[memo]OminiControl: Minimal and Universal Control for Diffusion Transformer](https://dev.to/taniguchitakara/ominicontrol-minimal-and-universal-control-for-diffusion-transformer-31p3)
-- [Event Driven Architecture Design Pattern Application Practice in Modern Web Frameworks（1751166366203600）](https://dev.to/member_f4f4c714/event-driven-architecture-design-pattern-application-practice-in-modern-web-2ai5)
-- [FileUtil, file-related tool class](https://dev.to/787107497/fileutil-file-related-tool-class-51l1)
+- [Beyond the Hype Cycle: A Deep Dive into Generative AI and its Architectural Shifts](https://dev.to/sniperkraken007/beyond-the-hype-cycle-a-deep-dive-into-generative-ai-and-its-architectural-shifts-1o82)
+- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751170582875600）](https://dev.to/member_f4f4c714/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-33ob)
+- [What is the intersection of software performance and human performance in developer world?](https://dev.to/thinesh_founder/what-is-the-intersection-of-software-performance-and-human-performance-in-developer-world-kfn)
+- [Laravel Tip: Clean Up Your Queries Using Conditional Clauses](https://dev.to/ibrahimalanshor/laravel-tip-clean-up-your-queries-using-conditional-clauses-1oji)
+- [Long Connection Management Challenges and Solutions Core Technologies of Modern Web Applications（1751169980568500）](https://dev.to/member_f4f4c714/long-connection-management-challenges-and-solutions-core-technologies-of-modern-web-46ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
