@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [System Call Overhead Analysis and Optimization Performance Cost of User Mode and Kernel Mode Switching（1751179621293900）](https://dev.to/member_f4f4c714/system-call-overhead-analysis-and-optimization-performance-cost-of-user-mode-and-kernel-mode-233a)
-- [BitcoinQuizFlow: AI-Powered Quiz Generation with Storyblok](https://dev.to/kafechew/bitcoinquizflow-ai-powered-quiz-generation-with-storyblok-5ghd)
-- [How to Create Content-Aware Animated Subtitles with Python](https://dev.to/francozanardi/how-to-create-content-aware-animated-subtitles-with-python-24dn)
-- [Deployment Automation and Continuous Integration Technical Implementation of Modern Software Delivery Process（1751179243762800）](https://dev.to/member_8d9a8f47/deployment-automation-and-continuous-integration-technical-implementation-of-modern-software-26fp)
-- [How to Create a game assets using Ai.](https://dev.to/amir_hassan_60/how-to-create-a-game-assets-using-ai-3jgl)
+- [PermissionUtil, authorization related tool classes](https://dev.to/787107497/permissionutils-authorization-related-tool-classes-3935)
+- [Top 5 Zapier Recipes for Developers That Save Hours Weekly](https://dev.to/brook_051cd08713006b/top-5-zapier-recipes-for-developers-that-save-hours-weekly-5h1h)
+- [Is Blockchain Really Secure?](https://dev.to/gathangaelijah/is-blockchain-really-secure-f4e)
+- [Perfect Combination of Message Queue and Real Time Communication Distributed System Design Practice（1751184441449800）](https://dev.to/member_f4f4c714/perfect-combination-of-message-queue-and-real-time-communication-distributed-system-design-1haa)
+- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-5-1jo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
