@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Should Have Their Own Computers: Unlocking True Autonomy And Potential](https://dev.to/0xoracle/why-ai-agents-should-have-their-own-computers-unlocking-true-autonomy-and-potential-50bj)
-- [🧠Mastering the DOM: A Beginner’s Guide to Dynamic Web Pages](https://dev.to/vivgichure/mastering-the-dom-a-beginners-guide-to-dynamic-web-pages-59fh)
-- [💡Java Virtual Threads Explained: Continuations, Carrier Threads, and Scalable Concurrency](https://dev.to/24adithya/java-virtual-threads-explained-continuations-carrier-threads-and-scalable-concurrency-2dk5)
-- [[Boost]](https://dev.to/rakeshv675/-2no7)
-- [Farewell to Tedious Configuration Minimalist Philosophy of Starting Web Service with One Line of Code（1751202284581700）](https://dev.to/member_8d9a8f47/farewell-to-tedious-configuration-minimalist-philosophy-of-starting-web-service-with-one-line-of-2e5d)
+- [HarmonyOS Development: Based on the Latest API, How to Realize Component Operation](https://dev.to/abnerming888/harmonyos-development-based-on-the-latest-api-how-to-realize-component-operation-5dpf)
+- [Design Systems: The Secret Weapon of Scalable Frontend Development](https://dev.to/toni_naumoski_mk/design-systems-the-secret-weapon-of-scalable-frontend-development-4ood)
+- [Two weeks with the GitHub Coding Agent](https://dev.to/benmatselby/two-weeks-with-the-github-coding-agent-318p)
+- [HarmonyOS Development: Code Extraction in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-extraction-in-devecostudio-3jmo)
+- [mq: The Missing Link Between jq and Markdown](https://dev.to/harehare/mq-the-missing-link-between-jq-and-markdown-bge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
