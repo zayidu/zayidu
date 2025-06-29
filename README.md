@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Agents: Your Guide to Smarter Development](https://dev.to/eleftheriabatsou/llm-agents-your-guide-to-smarter-development-14a9)
-- [Animate a Button with CSS](https://dev.to/muhammadmedhat/animate-a-button-with-css-1o9n)
-- [Understanding the `woocommerce_product_query` Hook in WooCommerce](https://dev.to/muhammadmedhat/understanding-the-woocommerceproductquery-hook-in-woocommerce-4375)
-- [How to Set Up a Full Machine-Wide Tor Proxy &lpar;SOCKS5&rpar; on Kali Linux 🚀🧅](https://dev.to/dixitcoder/how-to-set-up-a-full-machine-wide-tor-proxy-socks5-on-kali-linux-1iej)
-- [🛠️ Inject Complex Data Types in Spring Boot Using @ConfigurationProperties](https://dev.to/realnamehidden1_61/inject-complex-data-types-in-spring-boot-using-configurationproperties-4i0l)
+- [Why AI Agents Should Have Their Own Computers: Unlocking True Autonomy And Potential](https://dev.to/0xoracle/why-ai-agents-should-have-their-own-computers-unlocking-true-autonomy-and-potential-50bj)
+- [🧠Mastering the DOM: A Beginner’s Guide to Dynamic Web Pages](https://dev.to/vivgichure/mastering-the-dom-a-beginners-guide-to-dynamic-web-pages-59fh)
+- [💡Java Virtual Threads Explained: Continuations, Carrier Threads, and Scalable Concurrency](https://dev.to/24adithya/java-virtual-threads-explained-continuations-carrier-threads-and-scalable-concurrency-2dk5)
+- [[Boost]](https://dev.to/rakeshv675/-2no7)
+- [Farewell to Tedious Configuration Minimalist Philosophy of Starting Web Service with One Line of Code（1751202284581700）](https://dev.to/member_8d9a8f47/farewell-to-tedious-configuration-minimalist-philosophy-of-starting-web-service-with-one-line-of-2e5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
