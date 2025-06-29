@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
-- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
-- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
-- [Varta](https://dev.to/vynride/varta-4ijg)
-- [Track, Analyze, and Simplify: RedisTimeSeries for Real-Time Data](https://dev.to/rijultp/track-analyze-and-simplify-redistimeseries-for-real-time-data-1ikf)
+- [Exploring the Nuances of JavaScript&#39;s &#39;this&#39; Keyword](https://dev.to/omriluz1/exploring-the-nuances-of-javascripts-this-keyword-2cck)
+- [🕵️‍♂️ Building a Cybersecurity CTF Game with Amazon Q Developer CLI](https://dev.to/vivek0712/building-a-cybersecurity-ctf-game-with-amazon-q-developer-cli-38of)
+- [Building SEO-Optimized Websites for Oral Surgeons — What Developers Must Know](https://dev.to/remedo_clinitechpvtltd/building-seo-optimized-websites-for-oral-surgeons-what-developers-must-know-2432)
+- [checklist](https://dev.to/dianaappinventor24_unica_/checklist-2l13)
+- [Voice Recording Demo](https://dev.to/preetha_vaishnavi_2b82358/voice-recording-demo-1k5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
