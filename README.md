@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Move Over LLaMA: Tencent&#39;s New Open LLM is Ready to Self-Host](https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73)
-- [HackThisSite Basic 7](https://dev.to/mjl004/hackthissite-basic-7-41dc)
-- [A full circle moment](https://dev.to/konni332/a-full-circle-moment-487b)
-- [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
-- [SwiftUI Simplified: Build iOS Apps by Describing What You Want](https://dev.to/atforeveryoung/swiftui-simplified-build-ios-apps-by-describing-what-you-want-2fd8)
+- [Methodology of Continuous Learning How to Maintain Competitiveness in Rapidly Changing Technology Field（1751166967707500）](https://dev.to/member_f4f4c714/methodology-of-continuous-learning-how-to-maintain-competitiveness-in-rapidly-changing-technology-1an0)
+- [Performance First Web Rust Framework High Throughput（1751166441773800）](https://dev.to/member_8d9a8f47/performance-first-web-rust-framework-high-throughput1751166441773800-51pk)
+- [[memo]OminiControl: Minimal and Universal Control for Diffusion Transformer](https://dev.to/taniguchitakara/ominicontrol-minimal-and-universal-control-for-diffusion-transformer-31p3)
+- [Event Driven Architecture Design Pattern Application Practice in Modern Web Frameworks（1751166366203600）](https://dev.to/member_f4f4c714/event-driven-architecture-design-pattern-application-practice-in-modern-web-2ai5)
+- [FileUtil, file-related tool class](https://dev.to/787107497/fileutil-file-related-tool-class-51l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
