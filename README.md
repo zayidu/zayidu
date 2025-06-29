@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
-- [Python course: Boolean logic](https://dev.to/costa86/python-course-boolean-logic-36cj)
-- [Developer Happiness Improvement Guide Modern Toolchain and Framework Selection Strategy（1751194078204900）](https://dev.to/member_f4f4c714/developer-happiness-improvement-guide-modern-toolchain-and-framework-selection-2gbj)
-- [gradual-rollout](https://dev.to/nebula_3108/gradual-rollout-1458)
-- [Cómo instalar y configurar Tailwind CSS 4 con React y Vite &lpar;paso a paso&rpar;](https://dev.to/iratxebarrio/como-instalar-y-configurar-tailwind-css-4-con-react-y-vite-paso-a-paso-3ngc)
+- [LLM Agents: Your Guide to Smarter Development](https://dev.to/eleftheriabatsou/llm-agents-your-guide-to-smarter-development-14a9)
+- [Animate a Button with CSS](https://dev.to/muhammadmedhat/animate-a-button-with-css-1o9n)
+- [Understanding the `woocommerce_product_query` Hook in WooCommerce](https://dev.to/muhammadmedhat/understanding-the-woocommerceproductquery-hook-in-woocommerce-4375)
+- [How to Set Up a Full Machine-Wide Tor Proxy &lpar;SOCKS5&rpar; on Kali Linux 🚀🧅](https://dev.to/dixitcoder/how-to-set-up-a-full-machine-wide-tor-proxy-socks5-on-kali-linux-1iej)
+- [🛠️ Inject Complex Data Types in Spring Boot Using @ConfigurationProperties](https://dev.to/realnamehidden1_61/inject-complex-data-types-in-spring-boot-using-configurationproperties-4i0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
