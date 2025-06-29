@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Success: The Power of Emotional Intelligence in Soft Skills](https://dev.to/vjnvisakh/unlocking-success-the-power-of-emotional-intelligence-in-soft-skills-414n)
-- [Base64Util, Base64 tool class](https://dev.to/787107497/base64util-base64-tool-class-57h)
-- [Building a Scalable Fan Out Architecture on AWS with SNS and SQS](https://dev.to/anish_ummenthala/building-a-scalable-fan-out-architecture-on-aws-with-sns-and-sqs-2cb5)
-- [Code Review and Refactoring Practice Systematic Methods and Tools for Improving Code Quality（1751191066949900）](https://dev.to/member_f4f4c714/code-review-and-refactoring-practice-systematic-methods-and-tools-for-improving-code-35k2)
-- [Linux from the developer&#39;s perspective. Part 1 - C language introduction](https://dev.to/lostghost/linux-from-the-developers-perspective-part-1-c-language-introduction-21lb)
+- [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
+- [Python course: Boolean logic](https://dev.to/costa86/python-course-boolean-logic-36cj)
+- [Developer Happiness Improvement Guide Modern Toolchain and Framework Selection Strategy（1751194078204900）](https://dev.to/member_f4f4c714/developer-happiness-improvement-guide-modern-toolchain-and-framework-selection-2gbj)
+- [gradual-rollout](https://dev.to/nebula_3108/gradual-rollout-1458)
+- [Cómo instalar y configurar Tailwind CSS 4 con React y Vite &lpar;paso a paso&rpar;](https://dev.to/iratxebarrio/como-instalar-y-configurar-tailwind-css-4-con-react-y-vite-paso-a-paso-3ngc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
