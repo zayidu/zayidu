@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows](https://dev.to/nagarakesh4/orchestrating-multi-agents-unifying-fragmented-tools-into-coordinated-workflows-37ph)
-- [Step-by-Step Amazon Clone Development](https://dev.to/david_beckam_df898f761b30/step-by-step-amazon-clone-development-k2m)
-- [Why Smart New Developers Are Skipping the Build Step: The Juris Advantage](https://dev.to/codeporn/why-smart-new-developers-are-skipping-the-build-step-the-juris-advantage-1ddd)
-- [Updating Multiple Environments Security Settings in the Power Platform](https://dev.to/wyattdave/updating-multiple-environments-security-settings-in-the-power-platform-ie4)
-- [[Boost]](https://dev.to/anthonymax/-46lo)
+- [Postgres SQL FILTER: A Smarter CASE and CTE Alternative](https://dev.to/mayallo/postgres-sql-filter-a-smarter-case-and-cte-alternative-2l63)
+- [20+ Free Nextjs Website Templates for Developers](https://dev.to/wrap-pixel/free-nextjs-website-templates-for-developers-nch)
+- [How to Add and Subtract Dates in SQL &lpar;MySQL, PostgreSQL, SQL Server&rpar;](https://dev.to/dbvismarketing/how-to-add-and-subtract-dates-in-sql-mysql-postgresql-sql-server-5a0j)
+- [storyblok ai builder](https://dev.to/shivam_agrawal_c2c3c80a06/storyblok-ai-builder-13hc)
+- [BlokLy AI: From space to site](https://dev.to/sarahokolo/blokly-ai-from-space-to-site-40kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
