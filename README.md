@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [在Termux中安装和使用Google Gemini CLI的完整指南](https://dev.to/ctkqiang/zai-termuxzhong-an-zhuang-he-shi-yong-google-gemini-clide-wan-zheng-zhi-nan-o4o)
-- [What is LLMOps and how its work&lpar;full explanation&rpar;](https://dev.to/sujeet_saxena_60b0b6a01e2/what-is-llmops-and-how-its-workfull-explanation-4ik4)
-- [Unpacking AI: A Guide for Tech Leaders and Innovators](https://dev.to/synergy_shock/unpacking-ai-a-guide-for-tech-leaders-and-innovators-4l2g)
-- [让Cloud code更加自动化的执行任务，减少授权请求](https://dev.to/dragon72463399/rang-cloud-codegeng-jia-zi-dong-hua-de-zhi-xing-ren-wu-jian-shao-shou-quan-qing-qiu-5h2)
-- [Tune LLM&lpar;Groq Model Tune Technique&#39;s&rpar;](https://dev.to/sujeet_saxena_60b0b6a01e2/tune-llmgroq-model-tune-techniques-4ma9)
+- [☕️ Monday Motivation: Debug Your Monday Blues 🐛](https://dev.to/sroy8091/monday-motivation-debug-your-monday-blues-mfi)
+- [🔍 Demystifying Node.js Core Modules: A Practical Dive into fs and path](https://dev.to/ayushssshhh/demystifying-nodejs-core-modules-a-practical-dive-into-fs-and-path-i0l)
+- [Bloom Filters and Cuckoo Filters](https://dev.to/vigneshm243/bloom-filters-and-cuckoo-filters-3hgl)
+- [Introducing DEV Education Tracks: Expert-Guided Tutorials for Learning New Skills and Earning Badges](https://dev.to/devteam/introducing-dev-education-tracks-expert-guided-tutorials-for-learning-new-skills-and-earning-badges-48oi)
+- [From Scratch to Restore: Automating PostgreSQL Setup &amp; Backups with Ansible](https://dev.to/lovestaco/from-scratch-to-restore-automating-postgresql-setup-backups-with-ansible-12h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
