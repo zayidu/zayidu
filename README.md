@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hide the Title from an Embedded YouTube Video](https://dev.to/dicky54putra/how-to-hide-the-title-from-an-embedded-youtube-video-89p)
-- [Understanding the GENIUS Act: How the U.S. Plans to Shape the Stablecoin Landscape](https://dev.to/golu12/understanding-the-genius-act-how-the-us-plans-to-shape-the-stablecoin-landscape-4ko5)
-- [Google Agent Development Kit : Core Concept](https://dev.to/zenika/google-agent-development-kit-core-concept-4phc)
-- [MovieMonk: An AI-Powered Movie Recommendation App Using MindsDB Knowledge Base + Agent](https://dev.to/sujankoirala021/moviemonk-an-ai-powered-movie-recommendation-app-using-mindsdb-knowledge-base-agent-2if)
-- [🚀 Building Your First React App with Vite: A Step-by-Step Guide](https://dev.to/manukumar07/building-your-first-react-app-with-vite-a-step-by-step-guide-2247)
+- [在Termux中安装和使用Google Gemini CLI的完整指南](https://dev.to/ctkqiang/zai-termuxzhong-an-zhuang-he-shi-yong-google-gemini-clide-wan-zheng-zhi-nan-o4o)
+- [What is LLMOps and how its work&lpar;full explanation&rpar;](https://dev.to/sujeet_saxena_60b0b6a01e2/what-is-llmops-and-how-its-workfull-explanation-4ik4)
+- [Unpacking AI: A Guide for Tech Leaders and Innovators](https://dev.to/synergy_shock/unpacking-ai-a-guide-for-tech-leaders-and-innovators-4l2g)
+- [让Cloud code更加自动化的执行任务，减少授权请求](https://dev.to/dragon72463399/rang-cloud-codegeng-jia-zi-dong-hua-de-zhi-xing-ren-wu-jian-shao-shou-quan-qing-qiu-5h2)
+- [Tune LLM&lpar;Groq Model Tune Technique&#39;s&rpar;](https://dev.to/sujeet_saxena_60b0b6a01e2/tune-llmgroq-model-tune-techniques-4ma9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
