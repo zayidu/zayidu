@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The First Time I Saw a Computer—A Bit of Nostalgia](https://dev.to/canro91/the-first-time-i-saw-a-computer-a-bit-of-nostalgia-4a8a)
-- [[Boost]](https://dev.to/pranesh_patel/-22a3)
-- [Documentation That Developers Actually Read: The Netflix Approach](https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i)
-- [HarmonyOS Development: Navigation Routing Component Uses from Complex to Simple](https://dev.to/abnerming888/harmonyos-development-navigation-routing-component-uses-from-complex-to-simple-3m2d)
-- [HarmonyOS Development: This article explores the Navigation routing component](https://dev.to/abnerming888/harmonyos-development-this-article-explores-the-navigation-routing-component-3f6c)
+- [Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows](https://dev.to/nagarakesh4/orchestrating-multi-agents-unifying-fragmented-tools-into-coordinated-workflows-37ph)
+- [Step-by-Step Amazon Clone Development](https://dev.to/david_beckam_df898f761b30/step-by-step-amazon-clone-development-k2m)
+- [Why Smart New Developers Are Skipping the Build Step: The Juris Advantage](https://dev.to/codeporn/why-smart-new-developers-are-skipping-the-build-step-the-juris-advantage-1ddd)
+- [Updating Multiple Environments Security Settings in the Power Platform](https://dev.to/wyattdave/updating-multiple-environments-security-settings-in-the-power-platform-ie4)
+- [[Boost]](https://dev.to/anthonymax/-46lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
