@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced mq Techniques: From Simple Queries to Complex Workflows](https://dev.to/harehare/advanced-mq-techniques-from-simple-queries-to-complex-workflows-2m4k)
-- [AWS Fundamentals: Ebs](https://dev.to/devopsfundamentals/aws-fundamentals-ebs-56jb)
-- [T](https://dev.to/samuel_silva_0ac7c8e33e7a/te-a-3pjj)
-- [in DINO, how does [CLS] token get to gather global information, unlike other patches, though under same attention mechanism?](https://dev.to/henri_wang_d48b1e9bc1ea79/in-dino-how-does-cls-token-get-to-gather-global-information-unlike-other-patches-though-under-39h6)
-- [🗽 Longest Harmonious Subsequence LeetCode 594 &lpar;C++ | JavaScript | Python &rpar;](https://dev.to/om_shree_0709/longest-harmonious-subsequence-leetcode-594-c-javascript-python--jpd)
+- [HarmonyOS App Dev with Uniapp Real-World Practice &amp; Tips](https://dev.to/lovehmos/harmonyos-app-dev-with-uniapp-real-world-practice-tips-2k92)
+- [🚀 Mastering Functional Programming Concepts in JavaScript](https://dev.to/manukumar07/mastering-functional-programming-concepts-in-javascript-gdm)
+- [HarmonyOS Amount Converter Dev Notes &amp; Pitfalls](https://dev.to/lovehmos/harmonyos-amount-converter-dev-notes-pitfalls-5gia)
+- [HarmonyOS AES Encryption Dev Notes &amp; Common Pitfalls](https://dev.to/lovehmos/harmonyos-aes-encryption-dev-notes-common-pitfalls-2gk4)
+- [Obfuscating an Entire .NET Assembly](https://dev.to/rustemsoft/obfuscating-an-entire-net-assembly-33pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
