@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GSoC 2025 – Week 4 with CircuitVerse 🧩](https://dev.to/senbo/gsoc-2025-week-4-with-circuitverse-312p)
-- [How Simple Animations Can Make a Big Impact on Your Website](https://dev.to/sushilmagare10/how-simple-animations-can-make-a-big-impact-on-your-website-34on)
-- [ChatGPT Shopping — Here’s What is and How to Use!](https://dev.to/_37bbf0c253c0b3edec531e/chatgpt-shopping-heres-what-is-and-how-to-use-g46)
-- [Welcome to MDX Editor](https://dev.to/imkarthikeyan/welcome-to-mdx-editor-3gdp)
-- [Why Laravel Developers Need to Think Like Hackers](https://dev.to/kamruljpi/why-laravel-developers-need-to-think-like-hackers-4aio)
+- [How to Hide the Title from an Embedded YouTube Video](https://dev.to/dicky54putra/how-to-hide-the-title-from-an-embedded-youtube-video-89p)
+- [Understanding the GENIUS Act: How the U.S. Plans to Shape the Stablecoin Landscape](https://dev.to/golu12/understanding-the-genius-act-how-the-us-plans-to-shape-the-stablecoin-landscape-4ko5)
+- [Google Agent Development Kit : Core Concept](https://dev.to/zenika/google-agent-development-kit-core-concept-4phc)
+- [MovieMonk: An AI-Powered Movie Recommendation App Using MindsDB Knowledge Base + Agent](https://dev.to/sujankoirala021/moviemonk-an-ai-powered-movie-recommendation-app-using-mindsdb-knowledge-base-agent-2if)
+- [🚀 Building Your First React App with Vite: A Step-by-Step Guide](https://dev.to/manukumar07/building-your-first-react-app-with-vite-a-step-by-step-guide-2247)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
