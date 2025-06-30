@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Daily HarmonyOS Next Knowledge] Opening Half-Screen via Routing, Custom Grid, Gestures, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-opening-half-screen-via-routing-custom-grid-gestures-etc-5314)
-- [[Daily HarmonyOS Next Knowledge] Video Playback Failure, Toggle Dragging, Image Cropping/Rotation, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-video-playback-failure-toggle-dragging-image-croppingrotation-1en4)
-- [[Daily HarmonyOS Next Knowledge] Custom Popup for Sharing, Badge Flicker Fix, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-custom-popup-for-sharing-badge-flicker-fix-etc-2dj2)
-- [How to Set Up Azure Virtual Machines in Multiple Availability Zones &lpar;Manual Failover Scenario&rpar;](https://dev.to/ezekiel_umesi_5bd2fa6069c/how-to-set-up-azure-virtual-machines-in-multiple-availability-zones-manual-failover-scenario-374k)
-- [[Daily HarmonyOS Next Knowledge] List Collapse Animation, Obfuscation Issue, bindPopup Problems, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-list-collapse-animation-obfuscation-issue-bindpopup-problems-175j)
+- [Mastering Your Digital Privacy: A Comprehensive Guide to Online Protection](https://dev.to/swayam_dc1eefb8839da110de/mastering-your-digital-privacy-a-comprehensive-guide-to-online-protection-43n5)
+- [Easy Water Level Indicator You Can Build – No Microcontroller Needed](https://dev.to/david_thomas/diy-water-level-alarm-with-buzzer-no-microcontroller-needed-4l37)
+- [🧭 React Router Too Verbose? Try This: File-Based Routing like Next.js — In Any React App!](https://dev.to/prasanthreact/react-router-too-verbose-try-this-file-based-routing-like-nextjs-in-any-react-app-1c69)
+- [How to back up files &lpar;from an android phone&rpar; on GCS](https://dev.to/gnsp/how-to-back-up-files-from-an-android-phone-on-gcs-1dlh)
+- [Jetpack Compose Revolution: Describe Your UI, Get Perfect Kotlin Code](https://dev.to/atforeveryoung/jetpack-compose-revolution-describe-your-ui-get-perfect-kotlin-code-3he5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
