@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Filling the remaining space](https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5)
-- [HarmonyOS Development: Authorization Method of Rights Management](https://dev.to/abnerming888/harmonyos-development-authorization-method-of-rights-management-1e3)
-- [HarmonyOS Development: Authority Statement for Authority Management](https://dev.to/abnerming888/harmonyos-development-authority-statement-for-authority-management-4c5p)
-- [HarmonyOS Development: Understanding Application-Level Configuration Information](https://dev.to/abnerming888/harmonyos-development-understanding-application-level-configuration-information-g6i)
-- [WWDC 2025 - Enhance child safety with PermissionKit](https://dev.to/arshtechpro/wwdc-2025-enhance-child-safety-with-permissionkit-52jb)
+- [Advanced mq Techniques: From Simple Queries to Complex Workflows](https://dev.to/harehare/advanced-mq-techniques-from-simple-queries-to-complex-workflows-2m4k)
+- [AWS Fundamentals: Ebs](https://dev.to/devopsfundamentals/aws-fundamentals-ebs-56jb)
+- [T](https://dev.to/samuel_silva_0ac7c8e33e7a/te-a-3pjj)
+- [in DINO, how does [CLS] token get to gather global information, unlike other patches, though under same attention mechanism?](https://dev.to/henri_wang_d48b1e9bc1ea79/in-dino-how-does-cls-token-get-to-gather-global-information-unlike-other-patches-though-under-39h6)
+- [🗽 Longest Harmonious Subsequence LeetCode 594 &lpar;C++ | JavaScript | Python &rpar;](https://dev.to/om_shree_0709/longest-harmonious-subsequence-leetcode-594-c-javascript-python--jpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
