@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Mastering Authentication in Bubble: A Complete Guide &lpar;with Social Login, Magic Links &amp; More&rpar;](https://dev.to/ebereplenty/mastering-authentication-in-bubble-a-complete-guide-with-social-login-magic-links-more-3e7p)
-- [Trends in the frontend tech stack in 2025: What you need to know for long-term growth](https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd)
-- [[Boost]](https://dev.to/phuc/-klp)
-- [Demystifying Django: How I Learned the Project Structure &lpar;Through My Own Debugging Lens&rpar;](https://dev.to/zabby/demystifying-django-how-i-learned-the-project-structure-through-my-own-debugging-lens-2929)
-- [Learn Bootstrap 5 by Building a Clean and Responsive Dashboard](https://dev.to/learncodewithalex/learn-bootstrap-5-by-building-a-clean-and-responsive-dashboard-48io)
+- [[Daily HarmonyOS Next Knowledge] Opening Half-Screen via Routing, Custom Grid, Gestures, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-opening-half-screen-via-routing-custom-grid-gestures-etc-5314)
+- [[Daily HarmonyOS Next Knowledge] Video Playback Failure, Toggle Dragging, Image Cropping/Rotation, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-video-playback-failure-toggle-dragging-image-croppingrotation-1en4)
+- [[Daily HarmonyOS Next Knowledge] Custom Popup for Sharing, Badge Flicker Fix, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-custom-popup-for-sharing-badge-flicker-fix-etc-2dj2)
+- [How to Set Up Azure Virtual Machines in Multiple Availability Zones &lpar;Manual Failover Scenario&rpar;](https://dev.to/ezekiel_umesi_5bd2fa6069c/how-to-set-up-azure-virtual-machines-in-multiple-availability-zones-manual-failover-scenario-374k)
+- [[Daily HarmonyOS Next Knowledge] List Collapse Animation, Obfuscation Issue, bindPopup Problems, etc.](https://dev.to/qingkouwei/daily-harmonyos-next-knowledge-list-collapse-animation-obfuscation-issue-bindpopup-problems-175j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
