@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Understand map, filter And reduce In JavaScript](https://dev.to/karo_io_/i-finally-understand-map-filter-and-reduce-in-javascript-5hm0)
-- [Tree List Use Case 4](https://dev.to/etohartman/tree-list-use-case-4-6if)
-- [How OpenAI uses Postgres at Scale](https://dev.to/itsjjpowell/how-openai-uses-postgres-at-scale-45c9)
-- [[Boost]](https://dev.to/versioncontrol/-2jfe)
-- [🚀 Tavrn Alpha Has Launched!](https://dev.to/tavrn/tavrn-alpha-has-launched-23j2)
+- [CSS Counters: Unlocking the Power of Stylish Numbering](https://dev.to/muhammadmedhat/css-counters-unlocking-the-power-of-stylish-numbering-2p4o)
+- [Use Case 5](https://dev.to/etohartman/use-case-5-100p)
+- [The Heap Memory](https://dev.to/suvijak_vinyunavan_1f9ff9/the-heap-memory-5ali)
+- [💥 That One Time globals.css Crashed My Next.js Build](https://dev.to/jvicmaina/that-one-time-globalscss-crashed-my-nextjs-build-5e2m)
+- [Free Tools for Developers — Built by Me &lpar;100+ Tools!&rpar;](https://dev.to/hamzaashkar/free-tools-for-developers-built-by-me-100-tools-26h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
