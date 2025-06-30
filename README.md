@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Counters: Unlocking the Power of Stylish Numbering](https://dev.to/muhammadmedhat/css-counters-unlocking-the-power-of-stylish-numbering-2p4o)
-- [Use Case 5](https://dev.to/etohartman/use-case-5-100p)
-- [The Heap Memory](https://dev.to/suvijak_vinyunavan_1f9ff9/the-heap-memory-5ali)
-- [💥 That One Time globals.css Crashed My Next.js Build](https://dev.to/jvicmaina/that-one-time-globalscss-crashed-my-nextjs-build-5e2m)
-- [Free Tools for Developers — Built by Me &lpar;100+ Tools!&rpar;](https://dev.to/hamzaashkar/free-tools-for-developers-built-by-me-100-tools-26h1)
+- [Why `h3` &lpar;from UnJS&rpar; Might Replace Express in the Modern Node.js Stack](https://dev.to/alex_aslam/why-h3-from-unjs-might-replace-express-in-the-modern-nodejs-stack-4kp2)
+- [Laravel Testing - A Beginner-Friendly Guide for Developers](https://dev.to/tahsin000/laravel-testing-a-beginner-friendly-guide-for-developers-1go4)
+- [Stimulus + TypeScript: A Love Story](https://dev.to/alex_aslam/stimulus-typescript-a-love-story-4jen)
+- [5 Boring Tasks I Gave to My AI Agent Today &lpar;That Saved Me Hours&rpar;](https://dev.to/blockopensource/5-boring-tasks-i-gave-to-my-ai-agent-today-that-saved-me-hours-45ef)
+- [Hello here](https://dev.to/aliyoo/hello-here-1p9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
