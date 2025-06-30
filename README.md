@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [☕️ Monday Motivation: Debug Your Monday Blues 🐛](https://dev.to/sroy8091/monday-motivation-debug-your-monday-blues-mfi)
-- [🔍 Demystifying Node.js Core Modules: A Practical Dive into fs and path](https://dev.to/ayushssshhh/demystifying-nodejs-core-modules-a-practical-dive-into-fs-and-path-i0l)
-- [Bloom Filters and Cuckoo Filters](https://dev.to/vigneshm243/bloom-filters-and-cuckoo-filters-3hgl)
-- [Introducing DEV Education Tracks: Expert-Guided Tutorials for Learning New Skills and Earning Badges](https://dev.to/devteam/introducing-dev-education-tracks-expert-guided-tutorials-for-learning-new-skills-and-earning-badges-48oi)
-- [From Scratch to Restore: Automating PostgreSQL Setup &amp; Backups with Ansible](https://dev.to/lovestaco/from-scratch-to-restore-automating-postgresql-setup-backups-with-ansible-12h6)
+- [Big Data Fundamentals: spark example](https://dev.to/devopsfundamentals/big-data-fundamentals-spark-example-475f)
+- [Devlog #3 ahhhhh it&#39;s SPELLTAIL](https://dev.to/bain_8a987225b41e21618fcb/devlog-3-ahhhhh-its-spelltail-1j08)
+- [Automation Use Case 2](https://dev.to/etohartman/automation-use-case-2-5g10)
+- [Force Make migrations in Django](https://dev.to/msnmongare/force-make-migrations-in-django-4nf7)
+- [DAY 4: Getting started with Django: Build your first project step by step](https://dev.to/zipporahmutanu04/day-4-getting-started-with-django-build-your-first-project-step-by-step-ani)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
