@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Esc1 and the Hidden Dangers of Poor API Key Management](https://dev.to/kapusto/esc1-and-the-hidden-dangers-of-poor-api-key-management-51c5)
-- [HarmonyOS PDF Kit: Dev Survival Guide &amp; Gotchas](https://dev.to/lovehmos/harmonyos-pdf-kit-dev-survival-guide-gotchas-1kbi)
-- [HarmonyOS HiLog: Real-World Logging Tips &amp; Pitfalls](https://dev.to/lovehmos/harmonyos-hilog-real-world-logging-tips-pitfalls-1mg2)
-- [ServBay 1.14.0 Update: Introducing New Developer Tools like MinIO and Typesense](https://dev.to/servbay/servbay-1140-update-introducing-new-developer-tools-like-minio-and-typesense-3n2g)
-- [🐍 Python isn’t just surviving—it’s thriving.](https://dev.to/jayesh_malviya_50f3081df5/python-isnt-just-surviving-its-thriving-2jij)
+- [🔐 Mastering Authentication in Bubble: A Complete Guide &lpar;with Social Login, Magic Links &amp; More&rpar;](https://dev.to/ebereplenty/mastering-authentication-in-bubble-a-complete-guide-with-social-login-magic-links-more-3e7p)
+- [Trends in the frontend tech stack in 2025: What you need to know for long-term growth](https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd)
+- [[Boost]](https://dev.to/phuc/-klp)
+- [Demystifying Django: How I Learned the Project Structure &lpar;Through My Own Debugging Lens&rpar;](https://dev.to/zabby/demystifying-django-how-i-learned-the-project-structure-through-my-own-debugging-lens-2929)
+- [Learn Bootstrap 5 by Building a Clean and Responsive Dashboard](https://dev.to/learncodewithalex/learn-bootstrap-5-by-building-a-clean-and-responsive-dashboard-48io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
