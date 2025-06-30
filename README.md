@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Death Stranding 2 On the Beach is Incredible - Review](https://dev.to/gg_news/death-stranding-2-on-the-beach-is-incredible-review-1ojk)
-- [You Won’t Believe These July Game Releases!](https://dev.to/gg_news/you-wont-believe-these-july-game-releases-39go)
-- [5 Tools That Helped Me Catch 70% More Bugs in the Codebase [Important!]](https://dev.to/entelligenceai/5-tools-that-helped-me-catch-70-more-bugs-in-the-codebase-important-3phk)
-- [Tricky javascript codes part 3](https://dev.to/md_ashraf_dev_to/tricky-javascript-codes-part-3-1mkh)
-- [Real World Project Case Study Campus Modern Web（1751293763527200）](https://dev.to/member_de57975b/real-world-project-case-study-campus-modern-web1751293763527200-10j3)
+- [GSoC 2025 – Week 4 with CircuitVerse 🧩](https://dev.to/senbo/gsoc-2025-week-4-with-circuitverse-312p)
+- [How Simple Animations Can Make a Big Impact on Your Website](https://dev.to/sushilmagare10/how-simple-animations-can-make-a-big-impact-on-your-website-34on)
+- [ChatGPT Shopping — Here’s What is and How to Use!](https://dev.to/_37bbf0c253c0b3edec531e/chatgpt-shopping-heres-what-is-and-how-to-use-g46)
+- [Welcome to MDX Editor](https://dev.to/imkarthikeyan/welcome-to-mdx-editor-3gdp)
+- [Why Laravel Developers Need to Think Like Hackers](https://dev.to/kamruljpi/why-laravel-developers-need-to-think-like-hackers-4aio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
