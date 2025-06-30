@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Media &amp; Entertainment | Lausanne TechVerdi](https://dev.to/qasim_blogs/ai-in-media-entertainment-lausanne-techverdi-3dgm)
-- [Introducing Perplexity AI Lookups for WordPress](https://dev.to/gbti-network/introducing-perplexity-ai-lookups-for-wordpress-3g7d)
-- [Adding Flavors to Your Flutter App: From One Codebase to Multiple Experiences](https://dev.to/faidterence/adding-flavors-to-your-flutter-app-from-one-codebase-to-multiple-experiences-1972)
-- [【HarmonyOS 5】Detailed Explanation of VisionKit Face Liveness Detection](https://dev.to/georgegcs/harmonyos-5-detailed-explanation-of-visionkit-face-liveness-detection-3b7m)
-- [ABP vNext Local Event Bus with Logging](https://dev.to/jaythawme/abp-vnext-local-event-bus-with-logging-3ocn)
+- [Death Stranding 2 On the Beach is Incredible - Review](https://dev.to/gg_news/death-stranding-2-on-the-beach-is-incredible-review-1ojk)
+- [You Won’t Believe These July Game Releases!](https://dev.to/gg_news/you-wont-believe-these-july-game-releases-39go)
+- [5 Tools That Helped Me Catch 70% More Bugs in the Codebase [Important!]](https://dev.to/entelligenceai/5-tools-that-helped-me-catch-70-more-bugs-in-the-codebase-important-3phk)
+- [Tricky javascript codes part 3](https://dev.to/md_ashraf_dev_to/tricky-javascript-codes-part-3-1mkh)
+- [Real World Project Case Study Campus Modern Web（1751293763527200）](https://dev.to/member_de57975b/real-world-project-case-study-campus-modern-web1751293763527200-10j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
