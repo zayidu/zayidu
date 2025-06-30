@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres SQL FILTER: A Smarter CASE and CTE Alternative](https://dev.to/mayallo/postgres-sql-filter-a-smarter-case-and-cte-alternative-2l63)
-- [20+ Free Nextjs Website Templates for Developers](https://dev.to/wrap-pixel/free-nextjs-website-templates-for-developers-nch)
-- [How to Add and Subtract Dates in SQL &lpar;MySQL, PostgreSQL, SQL Server&rpar;](https://dev.to/dbvismarketing/how-to-add-and-subtract-dates-in-sql-mysql-postgresql-sql-server-5a0j)
-- [storyblok ai builder](https://dev.to/shivam_agrawal_c2c3c80a06/storyblok-ai-builder-13hc)
-- [BlokLy AI: From space to site](https://dev.to/sarahokolo/blokly-ai-from-space-to-site-40kl)
+- [Getting Hammered by Bots? Rate Limit Your API Before It&#39;s Too Late](https://dev.to/sharon_42e16b8da44dabde6d/getting-hammered-by-bots-rate-limit-your-api-before-its-too-late-4g6c)
+- [What is `useSlots` in Vue?](https://dev.to/jacobandrewsky/what-is-useslots-in-vue-2hd)
+- [🧠 Mastering useCallback in React: Prevent Unnecessary Re-Renders and Boost Performance](https://dev.to/webtechnology_tutorials_f/mastering-usecallback-in-react-prevent-unnecessary-re-renders-and-boost-performance-5hmb)
+- [Memory Leak Terminator How Type Safety Saved My Graduation Project（1751270804677100）](https://dev.to/member_916383d5/memory-leak-terminator-how-type-safety-saved-my-graduation-project1751270804677100-4b7j)
+- [Modular Design Principles How to Build Maintainable Large Scale Web Application Systems（1751270704899700）](https://dev.to/member_6d3fad5b/modular-design-principles-how-to-build-maintainable-large-scale-web-application-28di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
