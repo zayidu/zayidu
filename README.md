@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: dynamic import](https://dev.to/devopsfundamentals/nodejs-fundamentals-dynamic-import-lbd)
-- [20 TypeScript Tricks Every Developer Should Know](https://dev.to/shayy/20-typescript-tricks-every-developer-should-know-94c)
-- [Tech, Talk &amp; Emotions – PostgreSQL Meetup Recap](https://dev.to/megha_m_3acdfe3f62da7873f/tech-talk-emotions-postgresql-meetup-recap-271a)
-- [[Boost]](https://dev.to/bagaswibowo/-57c9)
-- [Building QuantaCode: Our Bolt Hackathon Saga &lpar;and the AI Brainrot is Real!&rpar;](https://dev.to/aldorax/building-quantacode-our-bolt-hackathon-saga-and-the-ai-brainrot-is-real-5dh0)
+- [Unlock the Power of ForgeRock IDM Scripting](https://dev.to/iamdevbox/unlock-the-power-of-forgerock-idm-scripting-15l8)
+- [Code Evolution Strategies（1751381533403100）](https://dev.to/member_35db4d53/code-evolution-strategies1751381533403100-190k)
+- [⚡ Introducing CORE - open source, shareable, user-owned memory graph for LLMs](https://dev.to/heysolhq/introducing-core-open-source-shareable-user-owned-memory-graph-for-llms-570m)
+- [📈 TrendSage – An AI Agent That Tracks Trends So You Don’t Have To](https://dev.to/shravzzv/trendsage-an-ai-agent-that-tracks-trends-so-you-dont-have-to-1n0)
+- [MVT vs MVC Architecture](https://dev.to/mavoochie/mvt-vs-mvc-architecture-25ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
