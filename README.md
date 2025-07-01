@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best ngrok Alternative for Windows: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-windows-tunnelmole-open-source-5925)
-- [Key Steps in the Master Data Governance Process](https://dev.to/ruhi_072535d43bad1fbf183e/key-steps-in-the-master-data-governance-process-5c98)
-- [My Learning Today – JavaScript Promises, Async/Await, Fetch, and Axios](https://dev.to/seenuvasan_p/my-learning-today-javascript-promises-asyncawait-fetch-and-axios-1705)
-- [Mastering State Management: The Synergy of React and Redux in the Future of Web Apps](https://dev.to/vjnvisakh/mastering-state-management-the-synergy-of-react-and-redux-in-the-future-of-web-apps-5h0l)
-- [DEV.to Writer Agent](https://dev.to/gautammanak1/devto-writer-agent-mm5)
+- [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
+- [Bitcoin ETF Momentum: idcxs Analyzes $2.22B Weekly Surge and What It Means for Developers](https://dev.to/idcxs/bitcoin-etf-momentum-ubleu-analyzes-222b-weekly-surge-and-what-it-means-for-developers-4om0)
+- [🚀 I Missed the Hackathon Deadline—But I’m Still Releasing My Project for the People](https://dev.to/popcorn150/i-missed-the-hackathon-deadline-but-im-still-releasing-my-project-for-the-people-3h9m)
+- [MCP vs API: Simplifying AI Agent Integration with External Data](https://dev.to/giri_f_437ca53c03d2fffb79/mcp-vs-api-simplifying-ai-agent-integration-with-external-data-39ho)
+- [🧨 Stop manually pentesting. I built an AI that thinks like a red team — and it’s nearly ready.](https://dev.to/rhaast/stop-manually-pentestingi-built-an-ai-that-thinks-like-a-red-team-and-its-nearly-ready-2kpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
