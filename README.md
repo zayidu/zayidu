@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Digital Identity Verification with mdocs and Digital Credentials API](https://dev.to/arshtechpro/wwdc-2025-digital-identity-verification-with-mdocs-and-digital-credentials-api-fdb)
-- [Memory Safety Ultimate Performance Balance（1751343425871100）](https://dev.to/member_a5799784/memory-safety-ultimate-performance-balance1751343425871100-391k)
-- [Performance Profiling and Tuning（1751342982250900）](https://dev.to/member_de57975b/performance-profiling-and-tuning1751342982250900-5bpn)
-- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751342802662700）](https://dev.to/member_a5799784/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751342802662700-11hl)
-- [3330. Find the Original Typed String I](https://dev.to/mdarifulhaque/3330-find-the-original-typed-string-i-4a96)
+- [Debugger Mindset : how top developers Handle burnout like code issue](https://dev.to/pratham_naik_project_manager/debugger-mindset-how-top-developers-handle-burnout-like-code-issue-4hlo)
+- [The Debugger&#39;s Mindset: How Top Developers Handle Burnout Like Code Issues](https://dev.to/teamcamp/the-debuggers-mindset-how-top-developers-handle-burnout-like-code-issues-39oa)
+- [Middleware Magic Advanced Request Processing（1751346538064300）](https://dev.to/member_a5799784/middleware-magic-advanced-request-processing1751346538064300-1d8o)
+- [I just wrote a tutorial on the most overlooked part of building powerful LLM agents: the Action Space. https://dev.to/zachary62/llm-agents-arsenal-a-beginners-guide-to-the-action-space-n75](https://dev.to/zachary62/i-just-wrote-a-tutorial-on-the-most-overlooked-part-of-building-powerful-llm-agents-the-action-m49)
+- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems（1751345915693100）](https://dev.to/member_a5799784/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems1751345915693100-1alg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
