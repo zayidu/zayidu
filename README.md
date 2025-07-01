@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ne4)
-- [‘Cobra Kai&#39; Star Alicia Hannah-Kim Speaks Out on Martin Kove Biting Her: ‘Nobody Wants to Be Attacked at Work&#39;](https://dev.to/popcorn_tv/cobra-kai-star-alicia-hannah-kim-speaks-out-on-martin-kove-biting-her-nobody-wants-to-be-2pp3)
-- [Money problems: have we had enough of TV shows about rich people?](https://dev.to/popcorn_tv/money-problems-have-we-had-enough-of-tv-shows-about-rich-people-31pd)
-- [Jesse Eisenberg asked for a copy of his Modern Family episode with his scenes cut out](https://dev.to/popcorn_tv/jesse-eisenberg-asked-for-a-copy-of-his-modern-family-episode-with-his-scenes-cut-out-3m2g)
-- [‘The Office&#39; Star Rainn Wilson Says the Show Was a ‘Struggle&#39; After Steve Carell Left: ‘We Knew it Was Coming For a Long Time&#39;](https://dev.to/popcorn_tv/the-office-star-rainn-wilson-says-the-show-was-a-struggle-after-steve-carell-left-we-knew-it-3eb3)
+- [Building Intelligent IoT Applications with PostgreSQL: Time-Series + Semantic Search + Text-to-SQL](https://dev.to/matthewmctighe1/building-intelligent-iot-applications-with-postgresql-time-series-semantic-search-text-to-sql-4pbm)
+- [Automate GitHub like a pro: Build your own bot with TypeScript and Serverless](https://dev.to/alwil17/automate-github-like-a-pro-build-your-own-bot-with-typescript-and-serverless-58fg)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751399282688700）](https://dev.to/member_de57975b/event-driven-architecture-pattern-application-practice-in-web-frameworks1751399282688700-8ef)
+- [Scalability Trade-offs](https://dev.to/parulchaddha/scalability-trade-offs-52ll)
+- [💻🧠 &quot;I’m a Self-Taught Developer. Here’s My Truth.&quot;](https://dev.to/tinega_chris_6ef7a662728f/im-a-self-taught-developer-heres-my-truth-8km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
