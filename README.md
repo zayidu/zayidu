@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
-- [Bitcoin ETF Momentum: idcxs Analyzes $2.22B Weekly Surge and What It Means for Developers](https://dev.to/idcxs/bitcoin-etf-momentum-ubleu-analyzes-222b-weekly-surge-and-what-it-means-for-developers-4om0)
-- [🚀 I Missed the Hackathon Deadline—But I’m Still Releasing My Project for the People](https://dev.to/popcorn150/i-missed-the-hackathon-deadline-but-im-still-releasing-my-project-for-the-people-3h9m)
-- [MCP vs API: Simplifying AI Agent Integration with External Data](https://dev.to/giri_f_437ca53c03d2fffb79/mcp-vs-api-simplifying-ai-agent-integration-with-external-data-39ho)
-- [🧨 Stop manually pentesting. I built an AI that thinks like a red team — and it’s nearly ready.](https://dev.to/rhaast/stop-manually-pentestingi-built-an-ai-that-thinks-like-a-red-team-and-its-nearly-ready-2kpj)
+- [SQL Injection Attacks: What Developers Need to Know - A $8.7M Lesson](https://dev.to/zblack/sql-injection-attacks-what-developers-need-to-know-a-87m-lesson-197)
+- [Why Your Dev Portfolio is Your Digital Superpower &lpar;And How Not to Screw It Up&rpar; 🚀](https://dev.to/gabrielrovesti/why-your-dev-portfolio-is-your-digital-superpower-and-how-not-to-screw-it-up-21pk)
+- [You Built the Tool. Now Here’s Why It’s Not Closing](https://dev.to/ain_growthexpert_d63a608/you-built-the-tool-now-heres-why-its-not-closing-51h)
+- [Guest Post Open Call: Showcase Your Digital Expertise](https://dev.to/rezaidco/guest-post-open-call-showcase-your-digital-expertise-41lk)
+- [Community Building Strategies: How I Built 500+ Engaged Users Without Paid Advertising](https://dev.to/revisepdf/community-building-strategies-how-i-built-500-engaged-users-without-paid-advertising-2hi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
