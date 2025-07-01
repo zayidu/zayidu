@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure E-commerce Platform on AWS-Infrastructure](https://dev.to/isaac_obuor_4ec2278316110/secure-e-commerce-platform-on-aws-infrastructure-4791)
-- [Architectural Decision Making Real World Web Modern（1751406523483300）](https://dev.to/member_a5799784/architectural-decision-making-real-world-web-modern1751406523483300-3gdo)
-- [How Netflix, Stripe, and GitLab engineered Observability Culture](https://dev.to/sanket_dange_13d89163eaed/how-netflix-stripe-and-gitlab-engineered-observability-culture-307b)
-- [Playing with Stemming](https://dev.to/erikhatcher/playing-with-stemming-5cad)
-- [Starting a Basic Express App with Mongoose &amp; TypeScript](https://dev.to/alifa_ara_heya/starting-a-basic-express-app-with-mongoose-typescript-ja2)
+- [Control of spin qubits at near absolute zero a game changer for quantum computers](https://dev.to/future_quantum/control-of-spin-qubits-at-near-absolute-zero-a-game-changer-for-quantum-computers-3k86)
+- [Roundcube: CVE-2025-49113 Room | TryHackMe](https://dev.to/dhwanit25/roundcube-cve-2025-49113-room-tryhackme-4i3p)
+- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-4hei)
+- [0delay — The Best Diss Linux-to-Linux File Transfer System You Will Wanna Use.](https://dev.to/contractorx/0delay-the-best-diss-linux-to-linux-file-transfer-system-you-will-wanna-use-168j)
+- [‘Brokeback Mountain&#39; Co-Writer Knew the Film Would Lose Best Picture After Learning Clint Eastwood Hadn&#39;t Seen the Movie](https://dev.to/popcorn_movies/brokeback-mountain-co-writer-knew-the-film-would-lose-best-picture-after-learning-clint-eastwood-211k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
