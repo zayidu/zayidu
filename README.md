@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Projects That Taught Me Big Lessons in Web Development](https://dev.to/vadym_info_polus/small-projects-that-taught-me-big-lessons-in-web-development-1d6d)
-- [Architectural Decision Making Real World Web Modern（1751386144959800）](https://dev.to/member_14fef070/architectural-decision-making-real-world-web-modern1751386144959800-1p29)
-- [DAY 15-CSS FLEX](https://dev.to/asran_2025/day-15-css-flex-nad)
-- [Get the Syntax of a Hexadecimal Color for the Terminal &lpar;ANSI RGB&rpar;](https://dev.to/marcosplusplus/get-the-syntax-of-a-hexadecimal-color-for-the-terminal-ansi-rgb-3h42)
-- [🛡️ OWASP Top 10 &lpar;2021 Edition&rpar; — Explained](https://dev.to/davinceleecode/owasp-top-10-2021-edition-explained-4a6g)
+- [Пентестинг: основы, преимущества и применение](https://dev.to/cybersecpro_online/pientiestingh-osnovy-prieimushchiestva-i-primienieniie-1f93)
+- [Application and Evolution of Patterns in Programming ization of Classic Patterns（1751389106779200）](https://dev.to/member_35db4d53/application-and-evolution-of-patterns-in-programming-ization-of-classic-patterns1751389106779200-4kh3)
+- [How to Setup Gemma 3n in Minutes: Lightweight AI Model for Text, Image, Video &amp; Audio](https://dev.to/nodeshiftcloud/how-to-setup-gemma-3n-in-minutes-lightweight-ai-model-for-text-image-video-audio-477b)
+- [How to Get a Dev Job in the UK with Visa Sponsorship](https://dev.to/focus230/how-to-get-a-dev-job-in-the-uk-with-visa-sponsorship-419b)
+- [How Bolt.new Helped Me Go From Beginner to Builder in the World&#39;s Largest Hackathon](https://dev.to/firdavs_azimov/how-boltnew-helped-me-go-from-beginner-to-builder-in-the-worlds-largest-hackathon-4jni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
