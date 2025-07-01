@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Injection Attacks: What Developers Need to Know - A $8.7M Lesson](https://dev.to/zblack/sql-injection-attacks-what-developers-need-to-know-a-87m-lesson-197)
-- [Why Your Dev Portfolio is Your Digital Superpower &lpar;And How Not to Screw It Up&rpar; 🚀](https://dev.to/gabrielrovesti/why-your-dev-portfolio-is-your-digital-superpower-and-how-not-to-screw-it-up-21pk)
-- [You Built the Tool. Now Here’s Why It’s Not Closing](https://dev.to/ain_growthexpert_d63a608/you-built-the-tool-now-heres-why-its-not-closing-51h)
-- [Guest Post Open Call: Showcase Your Digital Expertise](https://dev.to/rezaidco/guest-post-open-call-showcase-your-digital-expertise-41lk)
-- [Community Building Strategies: How I Built 500+ Engaged Users Without Paid Advertising](https://dev.to/revisepdf/community-building-strategies-how-i-built-500-engaged-users-without-paid-advertising-2hi3)
+- [HTML Form Inspector: inspect and debug your forms online](https://dev.to/kilianvalkhof/html-form-inspector-inspect-and-debug-your-forms-online-m0p)
+- [AI Won’t Replace Quality Engineers — It Will Empower Us](https://dev.to/marivicdbp/ai-wont-replace-quality-engineers-it-will-empower-us-4p9l)
+- [ONLYOFFICE Docs 9.0 for developers: API updates](https://dev.to/onlyoffice/onlyoffice-docs-90-for-developers-api-updates-di8)
+- [AWS Cost Optimization- Identify Stale Resources using Lambda Function.](https://dev.to/abhishek_korde_31/aws-cost-optimization-using-lambda-function-20m1)
+- [Your AI&#39;s Best Friend for Perfect Data](https://dev.to/anshul_bhartiya_37e68ba7b/your-ais-best-friend-for-perfect-data-59g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
