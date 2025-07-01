@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugger Mindset : how top developers Handle burnout like code issue](https://dev.to/pratham_naik_project_manager/debugger-mindset-how-top-developers-handle-burnout-like-code-issue-4hlo)
-- [The Debugger&#39;s Mindset: How Top Developers Handle Burnout Like Code Issues](https://dev.to/teamcamp/the-debuggers-mindset-how-top-developers-handle-burnout-like-code-issues-39oa)
-- [Middleware Magic Advanced Request Processing（1751346538064300）](https://dev.to/member_a5799784/middleware-magic-advanced-request-processing1751346538064300-1d8o)
-- [I just wrote a tutorial on the most overlooked part of building powerful LLM agents: the Action Space. https://dev.to/zachary62/llm-agents-arsenal-a-beginners-guide-to-the-action-space-n75](https://dev.to/zachary62/i-just-wrote-a-tutorial-on-the-most-overlooked-part-of-building-powerful-llm-agents-the-action-m49)
-- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems（1751345915693100）](https://dev.to/member_a5799784/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems1751345915693100-1alg)
+- [Wallpy: A Wallpaper Changer for Linux Desktops 🌄](https://dev.to/jayantur13/wallpy-a-wallpaper-changer-for-linux-desktops-1khj)
+- [What is !important in CSS and Why You Shouldn’t Use It](https://dev.to/devshefali/what-is-important-in-css-and-why-you-shouldnt-use-it-52pl)
+- [Inside the Lab: Signal Integrity Testing Tools and Techniques](https://dev.to/fidus_systems/inside-the-lab-signal-integrity-testing-tools-and-techniques-15d1)
+- [Angular for beginner](https://dev.to/nooknookjobjob89/angular-for-beginner-i1m)
+- [Como a Inteligência Artificial Está Revolucionando o Ensino de Tecnologia e Programação em 2025](https://dev.to/l_sanana_b59467bcf1d65997/como-a-inteligencia-artificial-esta-revolucionando-o-ensino-de-tecnologia-e-programacao-em-2025-4816)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
