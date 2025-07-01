@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Form Inspector: inspect and debug your forms online](https://dev.to/kilianvalkhof/html-form-inspector-inspect-and-debug-your-forms-online-m0p)
-- [AI Won’t Replace Quality Engineers — It Will Empower Us](https://dev.to/marivicdbp/ai-wont-replace-quality-engineers-it-will-empower-us-4p9l)
-- [ONLYOFFICE Docs 9.0 for developers: API updates](https://dev.to/onlyoffice/onlyoffice-docs-90-for-developers-api-updates-di8)
-- [AWS Cost Optimization- Identify Stale Resources using Lambda Function.](https://dev.to/abhishek_korde_31/aws-cost-optimization-using-lambda-function-20m1)
-- [Your AI&#39;s Best Friend for Perfect Data](https://dev.to/anshul_bhartiya_37e68ba7b/your-ais-best-friend-for-perfect-data-59g8)
+- [NodeJS Fundamentals: dynamic import](https://dev.to/devopsfundamentals/nodejs-fundamentals-dynamic-import-lbd)
+- [20 TypeScript Tricks Every Developer Should Know](https://dev.to/shayy/20-typescript-tricks-every-developer-should-know-94c)
+- [Tech, Talk &amp; Emotions – PostgreSQL Meetup Recap](https://dev.to/megha_m_3acdfe3f62da7873f/tech-talk-emotions-postgresql-meetup-recap-271a)
+- [[Boost]](https://dev.to/bagaswibowo/-57c9)
+- [Building QuantaCode: Our Bolt Hackathon Saga &lpar;and the AI Brainrot is Real!&rpar;](https://dev.to/aldorax/building-quantacode-our-bolt-hackathon-saga-and-the-ai-brainrot-is-real-5dh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
