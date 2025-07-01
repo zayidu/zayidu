@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚢✨ Why GitOps Became the 2025 Standard: Argo CD in Action](https://dev.to/aleksei_aleinikov/why-gitops-became-the-2025-standard-argo-cd-in-action-4hib)
-- [Minecraft server status in readme/signature](https://dev.to/jayantur13/minecraft-server-status-in-readmesignature-48bm)
-- [Just-Rust](https://dev.to/0x23gj28/just-rust-11bm)
-- [Untitled](https://dev.to/ali_mido_ffcd59f08b7c1b02/untitled-3kh5)
-- [The Internet’s Full of Trash Info, So I Made Nexix. You’re Welcome 💅](https://dev.to/liemar90/the-internets-full-of-trash-info-so-i-made-nexix-youre-welcome-2amp)
+- [AI-Native Plugging in a Model](https://dev.to/seaos_ai/ai-native-plugging-in-a-model-5163)
+- [Understanding the Reflect API in Depth](https://dev.to/omriluz1/understanding-the-reflect-api-in-depth-30pg)
+- [How to calibrate a temperature sensor?](https://dev.to/carolineee/how-to-calibrate-a-temperature-sensor-4l67)
+- [My Journey Through Flask and Full-Stack Development](https://dev.to/bonifacesoftwaredev/my-journey-through-flask-and-full-stack-development-4ph1)
+- [Building a Modern Blog Platform with React 19, TypeScript, and shadcn/ui](https://dev.to/blamsa0mine/building-a-modern-blog-platform-with-react-19-typescript-and-shadcnui-3ao3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
