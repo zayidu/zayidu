@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Now available: Claude Code sessions in Depot](https://dev.to/depot/now-available-claude-code-sessions-in-depot-33kd)
-- [Reference Architecture for Team AI Productivity](https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi)
-- [Hey guess what but MTV are now bringing back 24/7 music videos ahead of 2025 VMAs](https://dev.to/popcorn_tv/hey-guess-what-but-mtv-are-now-bringing-back-247-music-videos-ahead-of-2025-vmas-15o2)
-- [Martin Kove Accused Of Sexual Harassment On &#39;Cobra Kai&#39; Set in 2024](https://dev.to/popcorn_tv/martin-kove-accused-of-sexual-harassment-on-cobra-kai-set-in-2024-1k4)
-- [‘The Bear&#39; Season 4 Is Better, but Not by Enough: TV Review](https://dev.to/popcorn_tv/the-bear-season-4-is-better-but-not-by-enough-tv-review-22el)
+- [Secure E-commerce Platform on AWS-Infrastructure](https://dev.to/isaac_obuor_4ec2278316110/secure-e-commerce-platform-on-aws-infrastructure-4791)
+- [Architectural Decision Making Real World Web Modern（1751406523483300）](https://dev.to/member_a5799784/architectural-decision-making-real-world-web-modern1751406523483300-3gdo)
+- [How Netflix, Stripe, and GitLab engineered Observability Culture](https://dev.to/sanket_dange_13d89163eaed/how-netflix-stripe-and-gitlab-engineered-observability-culture-307b)
+- [Playing with Stemming](https://dev.to/erikhatcher/playing-with-stemming-5cad)
+- [Starting a Basic Express App with Mongoose &amp; TypeScript](https://dev.to/alifa_ara_heya/starting-a-basic-express-app-with-mongoose-typescript-ja2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
