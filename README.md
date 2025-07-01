@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Blog Writing Guide（1751392155331900）](https://dev.to/member_14fef070/technical-blog-writing-guide1751392155331900-4ifa)
-- [Minimalist Web Service Philosophy（1751392150728800）](https://dev.to/member_de57975b/minimalist-web-service-philosophy1751392150728800-2b91)
-- [Claude 4 vs Gemini 2.5 Pro: A Developer&#39;s Deep Dive Comparison](https://dev.to/forgecode/claude-4-vs-gemini-25-pro-a-developers-deep-dive-comparison-52p4)
-- [5 Cheap Object Storage Providers](https://dev.to/wimadev/5-cheap-object-storage-providers-5hhh)
-- [Musk&#39;s attempts to politicize his Grok AI are bad for users and enterprises — here&#39;s why](https://dev.to/future_ai/musks-attempts-to-politicize-his-grok-ai-are-bad-for-users-and-enterprises-heres-why-32ch)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ne4)
+- [‘Cobra Kai&#39; Star Alicia Hannah-Kim Speaks Out on Martin Kove Biting Her: ‘Nobody Wants to Be Attacked at Work&#39;](https://dev.to/popcorn_tv/cobra-kai-star-alicia-hannah-kim-speaks-out-on-martin-kove-biting-her-nobody-wants-to-be-2pp3)
+- [Money problems: have we had enough of TV shows about rich people?](https://dev.to/popcorn_tv/money-problems-have-we-had-enough-of-tv-shows-about-rich-people-31pd)
+- [Jesse Eisenberg asked for a copy of his Modern Family episode with his scenes cut out](https://dev.to/popcorn_tv/jesse-eisenberg-asked-for-a-copy-of-his-modern-family-episode-with-his-scenes-cut-out-3m2g)
+- [‘The Office&#39; Star Rainn Wilson Says the Show Was a ‘Struggle&#39; After Steve Carell Left: ‘We Knew it Was Coming For a Long Time&#39;](https://dev.to/popcorn_tv/the-office-star-rainn-wilson-says-the-show-was-a-struggle-after-steve-carell-left-we-knew-it-3eb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
