@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Zen Wisdom: Abstraction](https://dev.to/latobibor/tech-zen-wisdom-abstraction-22po)
-- [Vibe coding a Perl interface to a C library - Part 1](https://dev.to/chrisarg/vibe-coding-a-perl-interface-to-a-c-library-part-1-54ca)
-- [Application and Evolution of Patterns in Programming ization of Classic Patterns（1751339322812300）](https://dev.to/member_35db4d53/application-and-evolution-of-patterns-in-programming-ization-of-classic-patterns1751339322812300-3in1)
-- [MODEL TRAINING AND EVALUATION](https://dev.to/o_mutwiri/model-training-and-evaluation-55kn)
-- [📌 Beyond Hello World: A Free 8-Week Generative AI Learning Series📌](https://dev.to/lakhera2015/beyond-hello-world-a-free-8-week-generative-ai-learning-series-ldg)
+- [WWDC 2025 - Digital Identity Verification with mdocs and Digital Credentials API](https://dev.to/arshtechpro/wwdc-2025-digital-identity-verification-with-mdocs-and-digital-credentials-api-fdb)
+- [Memory Safety Ultimate Performance Balance（1751343425871100）](https://dev.to/member_a5799784/memory-safety-ultimate-performance-balance1751343425871100-391k)
+- [Performance Profiling and Tuning（1751342982250900）](https://dev.to/member_de57975b/performance-profiling-and-tuning1751342982250900-5bpn)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751342802662700）](https://dev.to/member_a5799784/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751342802662700-11hl)
+- [3330. Find the Original Typed String I](https://dev.to/mdarifulhaque/3330-find-the-original-typed-string-i-4a96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
