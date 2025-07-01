@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wallpy: A Wallpaper Changer for Linux Desktops 🌄](https://dev.to/jayantur13/wallpy-a-wallpaper-changer-for-linux-desktops-1khj)
-- [What is !important in CSS and Why You Shouldn’t Use It](https://dev.to/devshefali/what-is-important-in-css-and-why-you-shouldnt-use-it-52pl)
-- [Inside the Lab: Signal Integrity Testing Tools and Techniques](https://dev.to/fidus_systems/inside-the-lab-signal-integrity-testing-tools-and-techniques-15d1)
-- [Angular for beginner](https://dev.to/nooknookjobjob89/angular-for-beginner-i1m)
-- [Como a Inteligência Artificial Está Revolucionando o Ensino de Tecnologia e Programação em 2025](https://dev.to/l_sanana_b59467bcf1d65997/como-a-inteligencia-artificial-esta-revolucionando-o-ensino-de-tecnologia-e-programacao-em-2025-4816)
+- [🚢✨ Why GitOps Became the 2025 Standard: Argo CD in Action](https://dev.to/aleksei_aleinikov/why-gitops-became-the-2025-standard-argo-cd-in-action-4hib)
+- [Minecraft server status in readme/signature](https://dev.to/jayantur13/minecraft-server-status-in-readmesignature-48bm)
+- [Just-Rust](https://dev.to/0x23gj28/just-rust-11bm)
+- [Untitled](https://dev.to/ali_mido_ffcd59f08b7c1b02/untitled-3kh5)
+- [The Internet’s Full of Trash Info, So I Made Nexix. You’re Welcome 💅](https://dev.to/liemar90/the-internets-full-of-trash-info-so-i-made-nexix-youre-welcome-2amp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
