@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Native Plugging in a Model](https://dev.to/seaos_ai/ai-native-plugging-in-a-model-5163)
-- [Understanding the Reflect API in Depth](https://dev.to/omriluz1/understanding-the-reflect-api-in-depth-30pg)
-- [How to calibrate a temperature sensor?](https://dev.to/carolineee/how-to-calibrate-a-temperature-sensor-4l67)
-- [My Journey Through Flask and Full-Stack Development](https://dev.to/bonifacesoftwaredev/my-journey-through-flask-and-full-stack-development-4ph1)
-- [Building a Modern Blog Platform with React 19, TypeScript, and shadcn/ui](https://dev.to/blamsa0mine/building-a-modern-blog-platform-with-react-19-typescript-and-shadcnui-3ao3)
+- [Understanding Space and Time Complexity in Software Development](https://dev.to/blackscripts/understanding-space-and-time-complexity-in-software-development-2k0g)
+- [Kubernetes Day 2: Pods, Deployments, ReplicaSets, &amp; DaemonSets: Your App&#39;s Superheroes\! 🦸‍♂️🦸‍♀️](https://dev.to/hritikraj8804/kubernetes-day-2-pods-deployments-replicasets-daemonsets-your-apps-superheroes-5hh5)
+- [Immersive Ticket Booking in WebXR with Three.js – View &amp; Hear Before You Book!](https://dev.to/vishnu_mr_42f070c97c98f1/immersive-ticket-booking-in-webxr-with-threejs-view-hear-before-you-book-397c)
+- [Day-47 Today I learned Fetch, Async/Await &amp; Axios in JavaScript](https://dev.to/tamilselvan1812/day-47-today-i-learned-fetch-asyncawait-axios-in-javascript-5ccb)
+- [✅ 10 React Best Practices Every Developer Should Know in 2025](https://dev.to/manukumar07/10-react-best-practices-every-developer-should-know-in-2025-2ojn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
