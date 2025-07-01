@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of ForgeRock IDM Scripting](https://dev.to/iamdevbox/unlock-the-power-of-forgerock-idm-scripting-15l8)
-- [Code Evolution Strategies（1751381533403100）](https://dev.to/member_35db4d53/code-evolution-strategies1751381533403100-190k)
-- [⚡ Introducing CORE - open source, shareable, user-owned memory graph for LLMs](https://dev.to/heysolhq/introducing-core-open-source-shareable-user-owned-memory-graph-for-llms-570m)
-- [📈 TrendSage – An AI Agent That Tracks Trends So You Don’t Have To](https://dev.to/shravzzv/trendsage-an-ai-agent-that-tracks-trends-so-you-dont-have-to-1n0)
-- [MVT vs MVC Architecture](https://dev.to/mavoochie/mvt-vs-mvc-architecture-25ma)
+- [Small Projects That Taught Me Big Lessons in Web Development](https://dev.to/vadym_info_polus/small-projects-that-taught-me-big-lessons-in-web-development-1d6d)
+- [Architectural Decision Making Real World Web Modern（1751386144959800）](https://dev.to/member_14fef070/architectural-decision-making-real-world-web-modern1751386144959800-1p29)
+- [DAY 15-CSS FLEX](https://dev.to/asran_2025/day-15-css-flex-nad)
+- [Get the Syntax of a Hexadecimal Color for the Terminal &lpar;ANSI RGB&rpar;](https://dev.to/marcosplusplus/get-the-syntax-of-a-hexadecimal-color-for-the-terminal-ansi-rgb-3h42)
+- [🛡️ OWASP Top 10 &lpar;2021 Edition&rpar; — Explained](https://dev.to/davinceleecode/owasp-top-10-2021-edition-explained-4a6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
