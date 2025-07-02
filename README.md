@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-3h3g)
-- [Production Deployment Strategies Docker Cloud High Web（1751436470417100）](https://dev.to/member_35db4d53/production-deployment-strategies-docker-cloud-high-web1751436470417100-3m4h)
-- [Start Loan Lending App Development](https://dev.to/david_beckam_df898f761b30/start-loan-lending-app-development-4enp)
-- [The Role of Data Engineers - AWS](https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j)
-- [Django Architecture: What I Wish I Knew About Django’s Architecture Sooner &quot;MVC vs MVT&quot; Explained;](https://dev.to/annnab2222/django-architecture-what-i-wish-i-knew-about-djangos-architecture-sooner-mvc-vs-mvt-explained-3e6i)
+- [Architectural Decision Making Real World Web Modern（1751439590003300）](https://dev.to/member_de57975b/architectural-decision-making-real-world-web-modern1751439590003300-4066)
+- [Needing advice on project](https://dev.to/pfi_ielts_7fd3ca569921f20/needing-advice-on-project-2fbe)
+- [Cache and Data Locality Optimization（1751438952033400）](https://dev.to/member_de57975b/cache-and-data-locality-optimization1751438952033400-2085)
+- [CVE-2024-38077: Critical RCE in Windows RDL Service](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-38077-critical-rce-in-windows-rdl-service-1imk)
+- [Yes, I&#39;m an SDE. No, I Didn&#39;t Know About WWW-Authenticate 😩](https://dev.to/thevaibhavmaurya/yes-im-an-sde-no-i-didnt-know-about-www-authenticate-2825)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
