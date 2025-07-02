@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with SafeLine: A Practical and Powerful Open Source WAF](https://dev.to/sharon_42e16b8da44dabde6d/my-journey-with-safeline-a-practical-and-powerful-open-source-waf-2l2d)
-- [Cloudwatch Monitoring](https://dev.to/muhirwajd/cloudwatch-monitoring-4o9b)
-- [[School Landing Page – Part 1, Section 4] Layout Planning &amp; Low-Fidelity Sketch](https://dev.to/umemarop/school-landing-page-part-1-section-4-layout-planning-low-fidelity-sketch-13ff)
-- [Compiling Linux Source Code for DEBIX Boards](https://dev.to/debix_sbc/compiling-linux-source-code-for-debix-boards-2f9i)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-21nn)
+- [The Best Free ngrok Alternative: Meet Tunnelmole &lpar;Open Source &amp; Easy to Use&rpar;](https://dev.to/robbiecahill/the-best-free-ngrok-alternative-meet-tunnelmole-open-source-easy-to-use-1apm)
+- [Coroutine Scheduler Implementation（1751450967547500）](https://dev.to/member_35db4d53/coroutine-scheduler-implementation1751450967547500-55ec)
+- [Freelancing Without Boundaries: Here’s What It Cost Me](https://dev.to/mr_nova/freelancing-without-boundaries-heres-what-it-cost-me-508j)
+- [Snapshots](https://dev.to/muhirwajd/snapshots-3boc)
+- [SAS Operators: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/sas-operators-a-complete-guide-for-beginners-4d4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
