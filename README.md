@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Free ngrok Alternative: Meet Tunnelmole &lpar;Open Source &amp; Easy to Use&rpar;](https://dev.to/robbiecahill/the-best-free-ngrok-alternative-meet-tunnelmole-open-source-easy-to-use-1apm)
-- [Coroutine Scheduler Implementation（1751450967547500）](https://dev.to/member_35db4d53/coroutine-scheduler-implementation1751450967547500-55ec)
-- [Freelancing Without Boundaries: Here’s What It Cost Me](https://dev.to/mr_nova/freelancing-without-boundaries-heres-what-it-cost-me-508j)
-- [Snapshots](https://dev.to/muhirwajd/snapshots-3boc)
-- [SAS Operators: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/sas-operators-a-complete-guide-for-beginners-4d4f)
+- [20+ Free &amp; Responsive React Website Templates to Use](https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi)
+- [Starting Small, Dreaming Big: My LN247 Talk on Building Tech Startups in Nigeria](https://dev.to/subair09/starting-small-dreaming-big-my-ln247-talk-on-building-tech-startups-in-nigeria-k42)
+- [TSWHZC Technical Deep Dive: Openpayd-Ripple Integration Architecture](https://dev.to/tswhzc/tswhzc-technical-deep-dive-openpayd-ripple-integration-architecture-gl8)
+- [Memory Leak Terminator How Type Safety Saved My Graduation Project（1751453256722600）](https://dev.to/member_35db4d53/memory-leak-terminator-how-type-safety-saved-my-graduation-project1751453256722600-194h)
+- [The Modern Developer&#39;s Guide to Online API Documentation](https://dev.to/apilover/the-modern-developers-guide-to-online-api-documentation-88n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
