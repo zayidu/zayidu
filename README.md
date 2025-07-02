@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a FAST AI Video agent&lpar;now with image generation&rpar; &lpar;vidduo.com&rpar;](https://dev.to/york_yarn_06a8425231ea3d9/i-built-a-fast-ai-video-agentnow-with-image-generation-vidduocom-2p47)
-- [Comprehensive Guide to VPN Connection Between Azure and GCP](https://dev.to/christiana_orji/comprehensive-guide-to-vpn-connection-between-azure-and-gcp-40h4)
-- [I Compared ChatGPT, Gemini, Claude, and DeepSeek for Coding – Here&#39;s What Surprised Me](https://dev.to/samirtahiri/i-compared-chatgpt-gemini-claude-and-deepseek-for-coding-heres-what-surprised-me-4n21)
-- [# How to Optimize Images to Improve Your Website’s SEO 🚀](https://dev.to/danielfilemon/-how-to-optimize-images-to-improve-your-websites-seo-5cag)
-- [Spell Checker-Predicting Correct Word by Editing two time-NLP](https://dev.to/datatoinfinity/spell-checker-predicting-correct-word-by-editing-two-time-nlp-6gj)
+- [🎓 Frontend Masters — Learn from Industry Experts, Go Beyond Senior Dev](https://dev.to/ml318097/frontend-masters-learn-from-industry-experts-go-beyond-senior-dev-1e7n)
+- [Microservices Architecture Design（1751467754153500）](https://dev.to/member_35db4d53/microservices-architecture-design1751467754153500-2p1p)
+- [KT142C Voice Chip: A Selection Solution for 6 - segment Music IO Control and Button - battery Power Supply](https://dev.to/ble_voice/kt142c-voice-chip-a-selection-solution-for-6-segment-music-io-control-and-button-battery-power-24do)
+- [Announcing the First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7)
+- [From prompt to deployed app in less than 2 minutes](https://dev.to/googleai/from-prompt-to-deployed-app-in-less-than-2-minutes-dh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
