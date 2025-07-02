@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Launched: WebDev Club – A Cozy Community for Web Developers](https://dev.to/krishna_kantsingh_e86e7d/just-launched-webdev-club-a-cozy-community-for-web-developers-g73)
-- [Learning AI/ML on Kaggle.](https://dev.to/riettah/learning-aiml-on-kaggle-2me2)
-- [How to Use Worker: Secure Job Execution Made Simple](https://dev.to/ehsaniara/how-to-use-worker-secure-job-execution-made-simple-559h)
-- [Join Our Newest Frontend Challenge: Office Edition! Sponsored by Axero with $3,000 in Prizes 💸](https://dev.to/devteam/join-our-newest-frontend-challenge-office-edition-sponsored-by-axero-with-3000-in-prizes-21ap)
-- [Devlog #5 Fantasy Overhaul](https://dev.to/bain_8a987225b41e21618fcb/devlog-5-fantasy-overhaul-i73)
+- [Pixel Perfect AI](https://dev.to/aniruddhaadak/pixel-perfect-ai-5fj)
+- [After the Hack: Living the Dream!](https://dev.to/warnerbell/after-the-hack-living-the-dream-3706)
+- [Technology Selection Wisdom（1751492993553600）](https://dev.to/member_35db4d53/technology-selection-wisdom1751492993553600-4kjn)
+- [Zero Copy Technology Application and Performance Improvement Strategies in Web Dev（1751492762760300）](https://dev.to/member_6bc7e52c/zero-copy-technology-application-and-performance-improvement-strategies-in-web-dev1751492762760300-3066)
+- [DevOps Engineer vs SRE Engineer](https://dev.to/safiya_k/devops-engineer-vs-sre-engineer-3mc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
