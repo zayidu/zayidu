@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Static Analysis Tools: Writing Bug-Free Code Before Execution](https://dev.to/patoliyainfotech/php-static-analysis-tools-writing-bug-free-code-before-execution-311k)
-- [Code Cascade Theme for the Notion Developer&#39;s Hub is Complete! Next Up: The Circuit Board!](https://dev.to/lux_seminare/code-cascade-theme-for-the-notion-developers-hub-is-complete-next-up-the-circuit-board-jbc)
-- [Code with Soul: Solaria &amp; Barva Themes for VS Code](https://dev.to/andriy_ovcharov_312ead391/code-with-soul-solaria-barva-themes-for-vs-code-2cd8)
-- [Mastering Asynchronous JavaScript: Promises, Async/Await, and Beyond](https://dev.to/alexeybashkirov/mastering-asynchronous-javascript-promises-asyncawait-and-beyond-3b0i)
-- [Open Innovation Series #1 : What If Innovation Didn&#39;t Need Secrets?](https://dev.to/jholic/why-im-writing-about-open-technology-and-sustainable-ai-4la8)
+- [I built a FAST AI Video agent&lpar;now with image generation&rpar; &lpar;vidduo.com&rpar;](https://dev.to/york_yarn_06a8425231ea3d9/i-built-a-fast-ai-video-agentnow-with-image-generation-vidduocom-2p47)
+- [Comprehensive Guide to VPN Connection Between Azure and GCP](https://dev.to/christiana_orji/comprehensive-guide-to-vpn-connection-between-azure-and-gcp-40h4)
+- [I Compared ChatGPT, Gemini, Claude, and DeepSeek for Coding – Here&#39;s What Surprised Me](https://dev.to/samirtahiri/i-compared-chatgpt-gemini-claude-and-deepseek-for-coding-heres-what-surprised-me-4n21)
+- [# How to Optimize Images to Improve Your Website’s SEO 🚀](https://dev.to/danielfilemon/-how-to-optimize-images-to-improve-your-websites-seo-5cag)
+- [Spell Checker-Predicting Correct Word by Editing two time-NLP](https://dev.to/datatoinfinity/spell-checker-predicting-correct-word-by-editing-two-time-nlp-6gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
