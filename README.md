@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;ll thank yourself for reading this](https://dev.to/lokesh_singh/youll-thank-yourself-for-reading-this-3g5e)
-- [🔥Want a 30 LPA Tech Job? These 48 Competitions Are Your Shortcut to Google, Meta, Amazon &amp; More!](https://dev.to/lokesh_singh/want-a-30-lpa-tech-job-these-48-competitions-are-your-shortcut-to-google-meta-amazon-more-13gi)
-- [Why Do Businesses Need Help with CRM?](https://dev.to/sneha_chavan_f18b3d64aabb/why-do-businesses-need-help-with-crm-4ofo)
-- [5 CSS Bugs That Aren’t Really Bugs. Just Poorly Explained](https://dev.to/tawe/5-css-bugs-that-arent-really-bugs-just-poorly-explained-7pk)
-- [Discover the Power of AllShadCN: A Comprehensive Resource Hub for Shadcn UI Components](https://dev.to/nandini_singh_aa047f6c3ce/discover-the-power-of-allshadcn-a-comprehensive-resource-hub-for-shadcn-ui-components-4k3j)
+- [PHP Static Analysis Tools: Writing Bug-Free Code Before Execution](https://dev.to/patoliyainfotech/php-static-analysis-tools-writing-bug-free-code-before-execution-311k)
+- [Code Cascade Theme for the Notion Developer&#39;s Hub is Complete! Next Up: The Circuit Board!](https://dev.to/lux_seminare/code-cascade-theme-for-the-notion-developers-hub-is-complete-next-up-the-circuit-board-jbc)
+- [Code with Soul: Solaria &amp; Barva Themes for VS Code](https://dev.to/andriy_ovcharov_312ead391/code-with-soul-solaria-barva-themes-for-vs-code-2cd8)
+- [Mastering Asynchronous JavaScript: Promises, Async/Await, and Beyond](https://dev.to/alexeybashkirov/mastering-asynchronous-javascript-promises-asyncawait-and-beyond-3b0i)
+- [Open Innovation Series #1 : What If Innovation Didn&#39;t Need Secrets?](https://dev.to/jholic/why-im-writing-about-open-technology-and-sustainable-ai-4la8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
