@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Control of spin qubits at near absolute zero a game changer for quantum computers](https://dev.to/future_quantum/control-of-spin-qubits-at-near-absolute-zero-a-game-changer-for-quantum-computers-3k86)
-- [Roundcube: CVE-2025-49113 Room | TryHackMe](https://dev.to/dhwanit25/roundcube-cve-2025-49113-room-tryhackme-4i3p)
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-4hei)
-- [0delay — The Best Diss Linux-to-Linux File Transfer System You Will Wanna Use.](https://dev.to/contractorx/0delay-the-best-diss-linux-to-linux-file-transfer-system-you-will-wanna-use-168j)
-- [‘Brokeback Mountain&#39; Co-Writer Knew the Film Would Lose Best Picture After Learning Clint Eastwood Hadn&#39;t Seen the Movie](https://dev.to/popcorn_movies/brokeback-mountain-co-writer-knew-the-film-would-lose-best-picture-after-learning-clint-eastwood-211k)
+- [Oculus co-founder Nate Mitchell joins AI glasses startup Sesame](https://dev.to/future_arvr/oculus-co-founder-nate-mitchell-joins-ai-glasses-startup-sesame-2g91)
+- [Mentra raises $8M for its open-source smartglasses OS — Should we do another AMA with them here ?!?](https://dev.to/future_arvr/mentra-raises-8m-for-its-open-source-smartglasses-os-should-we-do-another-ama-with-them-here--182o)
+- [REST vs gRPC in FastAPI: The Restaurant Analogy Every Developer Needs](https://dev.to/c_6b7a8e65d067ddc62/rest-vs-grpc-in-fastapi-the-restaurant-analogy-every-developer-needs-4f1i)
+- [Complete Guide to Teaching HTML, CSS, JavaScript, and GitHub: From Fundamentals to Professional Development](https://dev.to/nadim_ch0wdhury/complete-guide-to-teaching-html-css-javascript-and-github-from-fundamentals-to-professional-3i7i)
+- [AWS Fundamentals: Ec2 Instance Connect](https://dev.to/devopsfundamentals/aws-fundamentals-ec2-instance-connect-29m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
