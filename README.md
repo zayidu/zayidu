@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker For Developer](https://dev.to/dpvasani56/docker-for-developer-1cm5)
-- [Cross Platform Universal Applications（1751431894586200）](https://dev.to/member_35db4d53/cross-platform-universal-applications1751431894586200-3o92)
-- [The Future of IDEs](https://dev.to/tstark/the-future-of-ides-3lm6)
-- [Service Communication Patterns and Best Practice Guide Under Microservices（1751431296501400）](https://dev.to/member_de57975b/service-communication-patterns-and-best-practice-guide-under-microservices1751431296501400-346)
-- [Building Spokane Tech: Part 2](https://dev.to/spokanetech/building-spokane-tech-part-2-3j38)
+- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-3h3g)
+- [Production Deployment Strategies Docker Cloud High Web（1751436470417100）](https://dev.to/member_35db4d53/production-deployment-strategies-docker-cloud-high-web1751436470417100-3m4h)
+- [Start Loan Lending App Development](https://dev.to/david_beckam_df898f761b30/start-loan-lending-app-development-4enp)
+- [The Role of Data Engineers - AWS](https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j)
+- [Django Architecture: What I Wish I Knew About Django’s Architecture Sooner &quot;MVC vs MVT&quot; Explained;](https://dev.to/annnab2222/django-architecture-what-i-wish-i-knew-about-djangos-architecture-sooner-mvc-vs-mvt-explained-3e6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
