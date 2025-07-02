@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel Perfect AI](https://dev.to/aniruddhaadak/pixel-perfect-ai-5fj)
-- [After the Hack: Living the Dream!](https://dev.to/warnerbell/after-the-hack-living-the-dream-3706)
-- [Technology Selection Wisdom（1751492993553600）](https://dev.to/member_35db4d53/technology-selection-wisdom1751492993553600-4kjn)
-- [Zero Copy Technology Application and Performance Improvement Strategies in Web Dev（1751492762760300）](https://dev.to/member_6bc7e52c/zero-copy-technology-application-and-performance-improvement-strategies-in-web-dev1751492762760300-3066)
-- [DevOps Engineer vs SRE Engineer](https://dev.to/safiya_k/devops-engineer-vs-sre-engineer-3mc5)
+- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture（1751497744754500）](https://dev.to/member_57439f86/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-1glb)
+- [Next Generation High Web Rust Based Solutions（1751497162357700）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751497162357700-4bfi)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751497103333400）](https://dev.to/member_57439f86/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751497103333400-l6a)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-437a)
+- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751496533987200）](https://dev.to/member_6bc7e52c/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751496533987200-3fla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
