@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oculus co-founder Nate Mitchell joins AI glasses startup Sesame](https://dev.to/future_arvr/oculus-co-founder-nate-mitchell-joins-ai-glasses-startup-sesame-2g91)
-- [Mentra raises $8M for its open-source smartglasses OS — Should we do another AMA with them here ?!?](https://dev.to/future_arvr/mentra-raises-8m-for-its-open-source-smartglasses-os-should-we-do-another-ama-with-them-here--182o)
-- [REST vs gRPC in FastAPI: The Restaurant Analogy Every Developer Needs](https://dev.to/c_6b7a8e65d067ddc62/rest-vs-grpc-in-fastapi-the-restaurant-analogy-every-developer-needs-4f1i)
-- [Complete Guide to Teaching HTML, CSS, JavaScript, and GitHub: From Fundamentals to Professional Development](https://dev.to/nadim_ch0wdhury/complete-guide-to-teaching-html-css-javascript-and-github-from-fundamentals-to-professional-3i7i)
-- [AWS Fundamentals: Ec2 Instance Connect](https://dev.to/devopsfundamentals/aws-fundamentals-ec2-instance-connect-29m)
+- [Cache and Data Locality Optimization（1751425789967800）](https://dev.to/member_35db4d53/cache-and-data-locality-optimization1751425789967800-5271)
+- [How to Evaluate the Extensibility and Customization Capabilities of Open-Source Admin Dashboards? 6 Key Evaluation Dimensions](https://dev.to/nocobase/how-to-evaluate-the-extensibility-and-customization-capabilities-of-open-source-admin-dashboards-6-3b0j)
+- [String in Python &lpar;13&rpar;](https://dev.to/hyperkai/string-in-python-13-3bmp)
+- [IEx: Shell Interaktif Elixir](https://dev.to/muzhawir/iex-shell-interaktif-elixir-28cb)
+- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751425181589300）](https://dev.to/member_a5799784/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751425181589300-1n3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
