@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Web Write Once Run Rust Framework（1751471579347800）](https://dev.to/member_35db4d53/cross-platform-web-write-once-run-rust-framework1751471579347800-3elh)
-- [Functional programming](https://dev.to/rezaarka/functional-programming-2al)
-- [Mastering the static Keyword in Java: The Ultimate Guide](https://dev.to/mukeshb/mastering-the-static-keyword-in-java-the-ultimate-guide-33oc)
-- [WebSocket Real Time Communication Guide（1751471441457900）](https://dev.to/member_57439f86/websocket-real-time-communication-guide1751471441457900-pim)
-- [Rendering HEIC on the Web: How to Make Your Web App Handle iPhone Photos](https://dev.to/upsidelab/rendering-heic-on-the-web-how-to-make-your-web-app-handle-iphone-photos-pj1)
+- [Claude Code Hooks](https://dev.to/freeman_nomad/claude-code-hooks-n9j)
+- [Beginner’s Guide: How to Install Laravel and Set Up Local Dev Environment &lpar;2025&rpar;](https://dev.to/rohitdhiman/beginners-guide-how-to-install-laravel-and-set-up-local-dev-environment-2025-3lil)
+- [Strengthen Your Server with Automated Security Audits Using Ansible](https://dev.to/lovestaco/strengthen-your-server-with-automated-security-audits-using-ansible-301o)
+- [Redux Counter App Step by Step](https://dev.to/alifa_ara_heya/redux-counter-app-step-by-step-46gf)
+- [I&#39;ve just released my comprehensive document on System Design!](https://dev.to/link1905/ive-just-released-my-comprehensive-document-on-system-design-1hj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
