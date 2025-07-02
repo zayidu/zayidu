@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Flame Engine MCP Server to Build Flutter Games](https://dev.to/salihgueler/how-i-built-a-flame-engine-mcp-server-to-build-flutter-games-3ea2)
-- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4jao)
-- [Gemini-Powered AI app in Under 2 Minutes](https://dev.to/axrisi/gemini-powered-ai-app-in-under-2-minutes-3hcd)
-- [Hexagonal Architecture Implementation（1751485847648100）](https://dev.to/member_6bc7e52c/hexagonal-architecture-implementation1751485847648100-39me)
-- [Developers can be much more than just professionals who build! The ability to communicate with other professionals about other aspects instead of simply taking the Jira ticket and solving it will be a rare differential at this time.](https://dev.to/angelo_matias/developers-can-be-much-more-than-just-professionals-who-build-the-ability-to-communicate-with-2ph0)
+- [Just Launched: WebDev Club – A Cozy Community for Web Developers](https://dev.to/krishna_kantsingh_e86e7d/just-launched-webdev-club-a-cozy-community-for-web-developers-g73)
+- [Learning AI/ML on Kaggle.](https://dev.to/riettah/learning-aiml-on-kaggle-2me2)
+- [How to Use Worker: Secure Job Execution Made Simple](https://dev.to/ehsaniara/how-to-use-worker-secure-job-execution-made-simple-559h)
+- [Join Our Newest Frontend Challenge: Office Edition! Sponsored by Axero with $3,000 in Prizes 💸](https://dev.to/devteam/join-our-newest-frontend-challenge-office-edition-sponsored-by-axero-with-3000-in-prizes-21ap)
+- [Devlog #5 Fantasy Overhaul](https://dev.to/bain_8a987225b41e21618fcb/devlog-5-fantasy-overhaul-i73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
