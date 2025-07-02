@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache and Data Locality Optimization（1751425789967800）](https://dev.to/member_35db4d53/cache-and-data-locality-optimization1751425789967800-5271)
-- [How to Evaluate the Extensibility and Customization Capabilities of Open-Source Admin Dashboards? 6 Key Evaluation Dimensions](https://dev.to/nocobase/how-to-evaluate-the-extensibility-and-customization-capabilities-of-open-source-admin-dashboards-6-3b0j)
-- [String in Python &lpar;13&rpar;](https://dev.to/hyperkai/string-in-python-13-3bmp)
-- [IEx: Shell Interaktif Elixir](https://dev.to/muzhawir/iex-shell-interaktif-elixir-28cb)
-- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751425181589300）](https://dev.to/member_a5799784/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751425181589300-1n3a)
+- [How to Create a Local Chatbot Without Coding in Less Than 10 Minutes on AI PCs](https://dev.to/llmware/how-to-create-a-local-chatbot-without-coding-in-less-than-10-minutes-on-ai-pcs-2ajl)
+- [Cross Platform Web Write Once Run Rust Framework（1751429382152200）](https://dev.to/member_de57975b/cross-platform-web-write-once-run-rust-framework1751429382152200-2jmk)
+- [Web Design Hosting Services: Comparing All-in-One vs Modular Solutions &lpar;2025 Guide&rpar;](https://dev.to/renbdigital/web-design-hosting-services-comparing-all-in-one-vs-modular-solutions-2025-guide-4gm6)
+- [Welcome Thread - v333](https://dev.to/devteam/welcome-thread-v333-22mm)
+- [Cross-Platform Quality Assurance（1751428744578000）](https://dev.to/member_de57975b/cross-platform-quality-assurance1751428744578000-34ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
