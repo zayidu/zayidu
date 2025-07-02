@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Write Less, Do More: Supercharge Your Flutter Apps with Mplix Extensions](https://dev.to/taniksha_sharma_b4a11092f/flutter-write-less-do-more-supercharge-your-flutter-apps-with-mplix-extensions-4ik5)
-- [FastiQuran: A Distraction-Free Digital Companion for Your Spiritual Journey](https://dev.to/cas8398/fastiquran-a-distraction-free-digital-companion-for-your-spiritual-journey-2d30)
-- [[Boost]](https://dev.to/osiris8/-1anh)
-- [Garbage Collection and Weak References](https://dev.to/omriluz1/garbage-collection-and-weak-references-20ha)
-- [DAY 8 OF HTML](https://dev.to/raizo03/day-7-of-html-1f1c)
+- [My Journey with SafeLine: A Practical and Powerful Open Source WAF](https://dev.to/sharon_42e16b8da44dabde6d/my-journey-with-safeline-a-practical-and-powerful-open-source-waf-2l2d)
+- [Cloudwatch Monitoring](https://dev.to/muhirwajd/cloudwatch-monitoring-4o9b)
+- [[School Landing Page – Part 1, Section 4] Layout Planning &amp; Low-Fidelity Sketch](https://dev.to/umemarop/school-landing-page-part-1-section-4-layout-planning-low-fidelity-sketch-13ff)
+- [Compiling Linux Source Code for DEBIX Boards](https://dev.to/debix_sbc/compiling-linux-source-code-for-debix-boards-2f9i)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-21nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
