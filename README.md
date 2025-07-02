@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 1 of Building TaskVerse — The Ultimate Productivity Platform](https://dev.to/prateek2711/day-1-of-building-taskverse-the-ultimate-productivity-platform-2m1h)
-- [Untitled](https://dev.to/__471ba64bf6348a/untitled-3ggc)
-- [Real-Time Data Stream Processing（1751482074025900）](https://dev.to/member_6bc7e52c/real-time-data-stream-processing1751482074025900-4kgj)
-- [I Got Tired of Build Tools, So I Built a JS Framework for Instant UI Prototyping](https://dev.to/xzdes/i-got-tired-of-build-tools-so-i-built-a-js-framework-for-instant-ui-prototyping-19k2)
-- [What is SSO &lpar;Single Sign-On&rpar;? How SSO Works?](https://dev.to/debojyotichatterjee9/what-is-sso-single-sign-on-how-sso-works-4hn)
+- [How I Built a Flame Engine MCP Server to Build Flutter Games](https://dev.to/salihgueler/how-i-built-a-flame-engine-mcp-server-to-build-flutter-games-3ea2)
+- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4jao)
+- [Gemini-Powered AI app in Under 2 Minutes](https://dev.to/axrisi/gemini-powered-ai-app-in-under-2-minutes-3hcd)
+- [Hexagonal Architecture Implementation（1751485847648100）](https://dev.to/member_6bc7e52c/hexagonal-architecture-implementation1751485847648100-39me)
+- [Developers can be much more than just professionals who build! The ability to communicate with other professionals about other aspects instead of simply taking the Jira ticket and solving it will be a rare differential at this time.](https://dev.to/angelo_matias/developers-can-be-much-more-than-just-professionals-who-build-the-ability-to-communicate-with-2ph0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
