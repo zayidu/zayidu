@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎓 Frontend Masters — Learn from Industry Experts, Go Beyond Senior Dev](https://dev.to/ml318097/frontend-masters-learn-from-industry-experts-go-beyond-senior-dev-1e7n)
-- [Microservices Architecture Design（1751467754153500）](https://dev.to/member_35db4d53/microservices-architecture-design1751467754153500-2p1p)
-- [KT142C Voice Chip: A Selection Solution for 6 - segment Music IO Control and Button - battery Power Supply](https://dev.to/ble_voice/kt142c-voice-chip-a-selection-solution-for-6-segment-music-io-control-and-button-battery-power-24do)
-- [Announcing the First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7)
-- [From prompt to deployed app in less than 2 minutes](https://dev.to/googleai/from-prompt-to-deployed-app-in-less-than-2-minutes-dh3)
+- [Cross Platform Web Write Once Run Rust Framework（1751471579347800）](https://dev.to/member_35db4d53/cross-platform-web-write-once-run-rust-framework1751471579347800-3elh)
+- [Functional programming](https://dev.to/rezaarka/functional-programming-2al)
+- [Mastering the static Keyword in Java: The Ultimate Guide](https://dev.to/mukeshb/mastering-the-static-keyword-in-java-the-ultimate-guide-33oc)
+- [WebSocket Real Time Communication Guide（1751471441457900）](https://dev.to/member_57439f86/websocket-real-time-communication-guide1751471441457900-pim)
+- [Rendering HEIC on the Web: How to Make Your Web App Handle iPhone Photos](https://dev.to/upsidelab/rendering-heic-on-the-web-how-to-make-your-web-app-handle-iphone-photos-pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
