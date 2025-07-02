@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Decision Making Real World Web Modern（1751439590003300）](https://dev.to/member_de57975b/architectural-decision-making-real-world-web-modern1751439590003300-4066)
-- [Needing advice on project](https://dev.to/pfi_ielts_7fd3ca569921f20/needing-advice-on-project-2fbe)
-- [Cache and Data Locality Optimization（1751438952033400）](https://dev.to/member_de57975b/cache-and-data-locality-optimization1751438952033400-2085)
-- [CVE-2024-38077: Critical RCE in Windows RDL Service](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-38077-critical-rce-in-windows-rdl-service-1imk)
-- [Yes, I&#39;m an SDE. No, I Didn&#39;t Know About WWW-Authenticate 😩](https://dev.to/thevaibhavmaurya/yes-im-an-sde-no-i-didnt-know-about-www-authenticate-2825)
+- [Flutter Write Less, Do More: Supercharge Your Flutter Apps with Mplix Extensions](https://dev.to/taniksha_sharma_b4a11092f/flutter-write-less-do-more-supercharge-your-flutter-apps-with-mplix-extensions-4ik5)
+- [FastiQuran: A Distraction-Free Digital Companion for Your Spiritual Journey](https://dev.to/cas8398/fastiquran-a-distraction-free-digital-companion-for-your-spiritual-journey-2d30)
+- [[Boost]](https://dev.to/osiris8/-1anh)
+- [Garbage Collection and Weak References](https://dev.to/omriluz1/garbage-collection-and-weak-references-20ha)
+- [DAY 8 OF HTML](https://dev.to/raizo03/day-7-of-html-1f1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
