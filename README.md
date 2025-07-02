@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Local Chatbot Without Coding in Less Than 10 Minutes on AI PCs](https://dev.to/llmware/how-to-create-a-local-chatbot-without-coding-in-less-than-10-minutes-on-ai-pcs-2ajl)
-- [Cross Platform Web Write Once Run Rust Framework（1751429382152200）](https://dev.to/member_de57975b/cross-platform-web-write-once-run-rust-framework1751429382152200-2jmk)
-- [Web Design Hosting Services: Comparing All-in-One vs Modular Solutions &lpar;2025 Guide&rpar;](https://dev.to/renbdigital/web-design-hosting-services-comparing-all-in-one-vs-modular-solutions-2025-guide-4gm6)
-- [Welcome Thread - v333](https://dev.to/devteam/welcome-thread-v333-22mm)
-- [Cross-Platform Quality Assurance（1751428744578000）](https://dev.to/member_de57975b/cross-platform-quality-assurance1751428744578000-34ho)
+- [Docker For Developer](https://dev.to/dpvasani56/docker-for-developer-1cm5)
+- [Cross Platform Universal Applications（1751431894586200）](https://dev.to/member_35db4d53/cross-platform-universal-applications1751431894586200-3o92)
+- [The Future of IDEs](https://dev.to/tstark/the-future-of-ides-3lm6)
+- [Service Communication Patterns and Best Practice Guide Under Microservices（1751431296501400）](https://dev.to/member_de57975b/service-communication-patterns-and-best-practice-guide-under-microservices1751431296501400-346)
+- [Building Spokane Tech: Part 2](https://dev.to/spokanetech/building-spokane-tech-part-2-3j38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
