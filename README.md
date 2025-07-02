@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Hooks](https://dev.to/freeman_nomad/claude-code-hooks-n9j)
-- [Beginner’s Guide: How to Install Laravel and Set Up Local Dev Environment &lpar;2025&rpar;](https://dev.to/rohitdhiman/beginners-guide-how-to-install-laravel-and-set-up-local-dev-environment-2025-3lil)
-- [Strengthen Your Server with Automated Security Audits Using Ansible](https://dev.to/lovestaco/strengthen-your-server-with-automated-security-audits-using-ansible-301o)
-- [Redux Counter App Step by Step](https://dev.to/alifa_ara_heya/redux-counter-app-step-by-step-46gf)
-- [I&#39;ve just released my comprehensive document on System Design!](https://dev.to/link1905/ive-just-released-my-comprehensive-document-on-system-design-1hj0)
+- [🏆⏳ BlockMate AI: Your Automated Deep‑Work &amp; Accountability Buddy 🤖](https://dev.to/divyasinghdev/blockmate-ai-your-automated-deep-work-accountability-buddy-38oh)
+- [Async Programming Patterns（1751478503748500）](https://dev.to/member_57439f86/async-programming-patterns1751478503748500-go1)
+- [La cybersécurité et les mots de passe](https://dev.to/robin_boucher_4a5559d1b96/la-cybersecurite-et-les-mots-de-passe-4p3)
+- [From LLM to Action Agent: How We Gave ChatGPT Superpowers with ToolAgent &lpar;MultiMindSDK&rpar;](https://dev.to/niral_bhalodia/from-llm-to-action-agent-how-we-gave-chatgpt-superpowers-with-toolagent-multimindsdk-67c)
+- [🔔 How to Send Push Notifications in Laravel with Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/jeishanul/how-to-send-push-notifications-in-laravel-with-firebase-cloud-messaging-fcm-25de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
