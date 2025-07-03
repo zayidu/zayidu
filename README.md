@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UX Web Components: 101 for Frontend Developers &amp; Designers](https://dev.to/aharna/ux-web-components-101-for-frontend-developers-designers-532d)
-- [Build a SOC simulator using Google AI Studio](https://dev.to/yowise/build-a-soc-simulator-using-google-ai-studio-2ffk)
-- [Revolutionize Your IoT Management with Total.js IoT Platform: Simplify, Monitor, and Optimize](https://dev.to/palo/revolutionize-your-iot-management-with-totaljs-iot-platform-simplify-monitor-and-optimize-10pe)
-- [Cloud Native Application Deployment（1751564709606900）](https://dev.to/member_57439f86/cloud-native-application-deployment1751564709606900-5edn)
-- [LLM Agents &amp; Context: A Warrior&#39;s Guide to Navigating the Dungeon](https://dev.to/zachary62/llm-agents-context-a-warriors-guide-to-navigating-the-dungeon-4edk)
+- [# Introducing Helpothon: Leveraging Technology for Social Good](https://dev.to/helpothon/-introducing-helpothon-leveraging-technology-for-social-good-26ni)
+- [Technology Selection Wisdom（1751568581749700）](https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b)
+- [Real-Time Backend for Mobile Apps Without WebSockets: A Modern Pub/Sub Alternative](https://dev.to/vlad_kuiantsev/real-time-backend-for-mobile-apps-without-websockets-a-modern-pubsub-alternative-4327)
+- [JavaScript String Methods](https://dev.to/mukilaperiyasamy/javascript-string-methods-55k6)
+- [Open Source Community Values（1751568494483000）](https://dev.to/member_57439f86/open-source-community-values1751568494483000-1543)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
