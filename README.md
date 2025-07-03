@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: Webpack](https://dev.to/devopsfundamentals/nodejs-fundamentals-webpack-4dde)
-- [Cross-Platform Performance Optimization（1751551811006100）](https://dev.to/member_57439f86/cross-platform-performance-optimization1751551811006100-2kc9)
-- [Excited to share my developer journey! Just got listed on Wikidata as one of the youngest full-stack developers in India. See my full story and work here: https://sai-likhith-portfolio.vercel.app 🚀 #MERN #Developer #Wikidata #TechJourney](https://dev.to/sailikhith_gb_d4e7440980/excited-to-share-my-developer-journey-just-got-listed-on-wikidata-as-one-of-the-youngest-2po1)
-- [I deleted Windows &lpar;and my Bootloader&rpar;](https://dev.to/lsroot/i-deleted-windows-and-my-bootloader-299f)
-- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols（1751550748669400）](https://dev.to/member_6bc7e52c/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols1751550748669400-23mj)
+- [🕹️ Master Service Workers — The Fun Way](https://dev.to/ml318097/master-service-workers-the-fun-way-43o6)
+- [Docker Basics: Beginner&#39;s Introduction](https://dev.to/arcadebuilds/docker-basics-beginners-introduction-522e)
+- [Create Multi Architecture Images using Docker with Azure DevOps CICD](https://dev.to/harnoorpuniyani/create-multi-architecture-images-using-docker-with-azure-devops-cicd-4267)
+- [I Started Learning JavaScript Again—A Beginner-Friendly Guide to the Basics](https://dev.to/dumebii/i-started-learning-javascript-again-a-beginner-friendly-guide-to-the-basics-5f50)
+- [Day 4 :Building Models and Templates for Inventory and Orders Apps in My Django Store Manager](https://dev.to/silasochieng/building-models-and-templates-for-inventory-and-orders-apps-in-my-django-store-manager-7jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
