@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a News Feed System: Facebook and Twitter Architecture](https://dev.to/sgchris/designing-a-news-feed-system-facebook-and-twitter-architecture-5292)
-- [Building a Chat System Like WhatsApp: Real-time at Scale](https://dev.to/sgchris/building-a-chat-system-like-whatsapp-real-time-at-scale-1o2g)
-- [Designing URL Shortener Systems: From TinyURL to Bit.ly Scale](https://dev.to/sgchris/designing-url-shortener-systems-from-tinyurl-to-bitly-scale-1ip5)
-- [Broadcast devices&#39; name on the local network](https://dev.to/nfrankel/broadcast-devices-name-on-the-local-network-2no7)
-- [Recognizing SEMI OCR Font with Python and Dynamsoft Capture Vision SDK](https://dev.to/yushulx/recognizing-semi-ocr-font-with-python-and-dynamsoft-capture-vision-sdk-4n53)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-4m7b)
+- [6 Offline Practices for Sharper Coding and Design Thinking 💡](https://dev.to/manukumar07/6-offline-practices-for-sharper-coding-and-design-thinking-el6)
+- [How to Use ONNX Runtime in Delphi for Object Detection](https://dev.to/serge_pilko/how-to-use-onnx-runtime-in-delphi-for-object-detection-53hm)
+- [How to Fix err_ngrok_6024: The ngrok Splash Page Error &lpar;and Why Tunnelmole is Better&rpar;](https://dev.to/robbiecahill/how-to-fix-errngrok6024-the-ngrok-splash-page-error-and-why-tunnelmole-is-better-1pnk)
+- [I Don’t Understand: Why Do So Many Programmers Not Like Using AI to Assist in Coding?](https://dev.to/elfreda/i-dont-understand-why-do-so-many-programmers-not-like-using-ai-to-assist-in-coding-374g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
