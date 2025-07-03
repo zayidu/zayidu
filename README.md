@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [𝘠𝘰𝘶 𝘮𝘢𝘺 𝘥𝘦𝘭𝘢𝘺, 𝘣𝘶𝘵 𝘵𝘪𝘮𝘦 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵.](https://dev.to/sonmusui/--1k68)
-- [Why Now Is the Best Time to Start Freelance Web Development](https://dev.to/vjygour/why-now-is-the-best-time-to-start-freelance-web-development-2pm5)
-- [JavaScript Variable Naming: Rules You Can’t Ignore](https://dev.to/andriy_ovcharov_312ead391/javascript-variable-naming-rules-you-cant-ignore-593i)
-- [Containerized vs Traditional Deployment（1751519242763600）](https://dev.to/member_57439f86/containerized-vs-traditional-deployment1751519242763600-3084)
-- [Modular Design for Large-Scale Systems（1751519237254400）](https://dev.to/member_6bc7e52c/modular-design-for-large-scale-systems1751519237254400-3873)
+- [AI in the Vineyard: How Japanese Wine Producers Are Using Data to Grow Better Grapes 🧐🍇](https://dev.to/mark_morey_40465ceccddaa8/ai-in-the-vineyard-how-japanese-wine-producers-are-using-data-to-grow-better-grapes-4fp1)
+- [first post](https://dev.to/helpothon/first-post-2h0d)
+- [A Comprehensive Look at the iShares S&amp;P TSX 60 Index ETF](https://dev.to/elsa_rae_098/a-comprehensive-look-at-the-ishares-sp-tsx-60-index-etf-4b4g)
+- [Cross-Platform Compatibility Solutions（1751523027421400）](https://dev.to/member_57439f86/cross-platform-compatibility-solutions1751523027421400-1130)
+- [Suffrage Server app](https://dev.to/ogunsegun/suffrage-server-app-5629)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
