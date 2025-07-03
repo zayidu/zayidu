@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️🧠🕹️AWS Cloud Quest: Practitioner Mode &lpar;Retro Edition&rpar;🤖](https://dev.to/divyasinghdev/aws-cloud-quest-practitioner-mode-retro-edition-5b43)
-- [I&#39;m a complete beginner with no skills so far and I want to begin with DSA in java, can anyone suggest free platforms for that](https://dev.to/chhavi_joshi_ede276cfcc06/im-a-complete-beginner-with-no-skills-so-far-and-i-want-to-begin-with-dsa-can-anyone-suggest-free-4hje)
-- [Top 5 WordPress Security Plugins to Use for Site Safety 2025](https://dev.to/serveravatar/top-5-wordpress-security-plugins-to-use-for-site-safety-2025-5785)
-- [Polling Is So Last Year—Level Up with Real‑Time WebSockets in Node.js! 🚀](https://dev.to/saumyaaggarwal/polling-is-so-last-year-level-up-with-real-time-websockets-in-nodejs-4oi2)
-- [Next Generation High Web Rust Based Solutions（1751525403587200）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751525403587200-53ha)
+- [[Boost]](https://dev.to/sarahokolo/-4499)
+- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751529511681000）](https://dev.to/member_6bc7e52c/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751529511681000-4gg0)
+- [Middleware Magic Advanced Request Processing Techniques（1751528826827600）](https://dev.to/member_6bc7e52c/middleware-magic-advanced-request-processing-techniques1751528826827600-3fl9)
+- [A Developer&#39;s Guide to Unit Testing Nuxt 3 Server Routes](https://dev.to/doantrongnam/a-developers-guide-to-unit-testing-nuxt-3-server-routes-4f55)
+- [Access to Gemini Model](https://dev.to/olatunjiayodel9/access-to-gemini-model-3d84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
