@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕹️ Master Service Workers — The Fun Way](https://dev.to/ml318097/master-service-workers-the-fun-way-43o6)
-- [Docker Basics: Beginner&#39;s Introduction](https://dev.to/arcadebuilds/docker-basics-beginners-introduction-522e)
-- [Create Multi Architecture Images using Docker with Azure DevOps CICD](https://dev.to/harnoorpuniyani/create-multi-architecture-images-using-docker-with-azure-devops-cicd-4267)
-- [I Started Learning JavaScript Again—A Beginner-Friendly Guide to the Basics](https://dev.to/dumebii/i-started-learning-javascript-again-a-beginner-friendly-guide-to-the-basics-5f50)
-- [Day 4 :Building Models and Templates for Inventory and Orders Apps in My Django Store Manager](https://dev.to/silasochieng/building-models-and-templates-for-inventory-and-orders-apps-in-my-django-store-manager-7jm)
+- [Risk Identification and Analysis: A Cornerstone of Cybersecurity Strategy](https://dev.to/pelk/risk-identification-and-analysis-a-cornerstone-of-cybersecurity-strategy-1jk3)
+- [Understanding Throttle in JavaScript](https://dev.to/jakaria/understanding-throttle-in-javascript-3jba)
+- [Service Communication Patterns and Best Practice Guide Under Microservices（1751558983078800）](https://dev.to/member_6bc7e52c/service-communication-patterns-and-best-practice-guide-under-microservices1751558983078800-3hb4)
+- [Debiasing LLM Judges: Understanding and correcting AI Evaluation Bias](https://dev.to/gyani_s/debiasing-llm-judges-understanding-and-correcting-ai-evaluation-bias-2ce4)
+- [Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）](https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
