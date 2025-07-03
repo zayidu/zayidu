@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi, I’m Mohammad Rifatujjaman — Specializing in Software Development &amp; Android App Development](https://dev.to/mohammad_rifatujjaman/hi-im-mohammad-rifatujjaman-specializing-in-software-development-android-app-development-2hap)
-- [Indicators of Compromise &lpar;IoCs&rpar;](https://dev.to/pelk/indicators-of-compromise-iocs-1p77)
-- [Machine Learning Fundamentals: boosting project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-project-1638)
-- [Bye bye!](https://dev.to/terceranexus6/bye-bye-3d8p)
-- [Sending Emails Using Queues in Laravel](https://dev.to/techsolver94/sending-emails-using-queues-in-laravel-16n0)
+- [UX Web Components: 101 for Frontend Developers &amp; Designers](https://dev.to/aharna/ux-web-components-101-for-frontend-developers-designers-532d)
+- [Build a SOC simulator using Google AI Studio](https://dev.to/yowise/build-a-soc-simulator-using-google-ai-studio-2ffk)
+- [Revolutionize Your IoT Management with Total.js IoT Platform: Simplify, Monitor, and Optimize](https://dev.to/palo/revolutionize-your-iot-management-with-totaljs-iot-platform-simplify-monitor-and-optimize-10pe)
+- [Cloud Native Application Deployment（1751564709606900）](https://dev.to/member_57439f86/cloud-native-application-deployment1751564709606900-5edn)
+- [LLM Agents &amp; Context: A Warrior&#39;s Guide to Navigating the Dungeon](https://dev.to/zachary62/llm-agents-context-a-warriors-guide-to-navigating-the-dungeon-4edk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
