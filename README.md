@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Debt Management（1751548777698600）](https://dev.to/member_57439f86/technical-debt-management1751548777698600-429o)
-- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms（1751548691003600）](https://dev.to/member_6bc7e52c/art-of-system-integration-make-applications-run-seamlessly-across-different-1ohf)
-- [🧠 JavaScript Promises Explained — A Complete Guide for Beginners](https://dev.to/lokesh_keswani/javascript-promises-explained-a-complete-guide-for-beginners-gbe)
-- [Day 23: When Your Brain Runs on Dial-Up](https://dev.to/casperday11/day-23-when-your-brain-runs-on-dial-up-27pb)
-- [Why 72% of Magento Developers Prefer Hyvä](https://dev.to/navigate_commerce/why-72-of-magento-developers-prefer-hyva-3mg5)
+- [NodeJS Fundamentals: Webpack](https://dev.to/devopsfundamentals/nodejs-fundamentals-webpack-4dde)
+- [Cross-Platform Performance Optimization（1751551811006100）](https://dev.to/member_57439f86/cross-platform-performance-optimization1751551811006100-2kc9)
+- [Excited to share my developer journey! Just got listed on Wikidata as one of the youngest full-stack developers in India. See my full story and work here: https://sai-likhith-portfolio.vercel.app 🚀 #MERN #Developer #Wikidata #TechJourney](https://dev.to/sailikhith_gb_d4e7440980/excited-to-share-my-developer-journey-just-got-listed-on-wikidata-as-one-of-the-youngest-2po1)
+- [I deleted Windows &lpar;and my Bootloader&rpar;](https://dev.to/lsroot/i-deleted-windows-and-my-bootloader-299f)
+- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols（1751550748669400）](https://dev.to/member_6bc7e52c/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols1751550748669400-23mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
