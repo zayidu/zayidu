@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-3c53)
-- [How does an Incident Response Policy help in managing cybersecurity threats?](https://dev.to/writegenic/how-does-an-incident-response-policy-help-in-managing-cybersecurity-threats-55m6)
-- [Mastering Asynchronous Programming Patterns Task Modern Web（1751572283001800）](https://dev.to/member_57439f86/mastering-asynchronous-programming-patterns-task-modern-web1751572283001800-1021)
-- [HOW TO DEVREL: The Texas Sharpshooter](https://dev.to/adatole/how-to-devrel-the-texas-sharpshooter-41p5)
-- [🔥 GitHub Streak Card — Show Off Your Avatar, Top Language, Total Contributions, and Accurate Streaks!](https://dev.to/zainulabdeenofficial/github-streak-card-show-off-your-avatar-top-language-total-contributions-and-accurate-1029)
+- [TaskMaster el futuro del desarrollo con IA](https://dev.to/gersomsim/taskmaster-el-futuro-del-desarrollo-con-ia-k36)
+- [How Gen AI Differs from Traditional Machine Learning](https://dev.to/satp2000/how-gen-ai-differs-from-traditional-machine-learning-2ef1)
+- [By the way, maybe there is someone who can post HMPL in Ycombinator with a pumped up account in HN? It would be really cool, it would help us!](https://dev.to/anthonymax/by-the-way-maybe-there-is-someone-who-can-post-hmpl-in-ycombinator-with-a-pumped-up-account-in-hn-2d31)
+- [Git-Sensei: Where Coding Style Meets Anime Destiny](https://dev.to/sroy8091/git-sensei-where-coding-style-meets-anime-destiny-2l8l)
+- [Why Technical Cybersecurity Founders Struggle with Marketing &lpar;and How AI Is Changing the Game&rpar;](https://dev.to/deepakgupta/why-technical-cybersecurity-founders-struggle-with-marketing-and-how-ai-is-changing-the-game-1ncc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
