@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH Over Tor: Cool, Practical, or Just Tinfoil Hats?](https://dev.to/sebos/ssh-over-tor-cool-practical-or-just-tinfoil-hats-27lp)
-- [AI in Mental Health: Hope or a Hidden Risk?](https://dev.to/sebastian_reid999/ai-in-mental-health-hope-or-a-hidden-risk-2n8p)
-- [Algorithm Engineering Practice（1751500932463700）](https://dev.to/member_6bc7e52c/algorithm-engineering-practice1751500932463700-3le0)
-- [The Trainings and Guidelines, on how to understand Git and GitHub as a beginner.](https://dev.to/odinkemelu_innocent_3b2f5/the-trainings-and-guidelines-on-how-to-understand-git-and-github-as-a-beginner-4a46)
-- [SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑](https://dev.to/chandycraig/saas-friends-stop-reimplementing-messaging-features-53hb)
+- [Breaking Down RL2: Why We Built a Ray-Less RL Framework for AI Agents](https://dev.to/accioprocurement/breaking-down-rl2-why-we-built-a-ray-less-rl-framework-for-ai-agents-j00)
+- [How to create a storage account and configure basic settings for security and networking.](https://dev.to/onyemuche/how-to-create-a-storage-account-and-configure-basic-settings-for-security-and-networking-4fco)
+- [Model Mondays S2E03 - AMA on SLMs and Reasoning](https://dev.to/azure/model-mondays-s2e03-ama-on-slms-and-reasoning-25dg)
+- [GCP Fundamentals: Dataflow API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataflow-api-48on)
+- [CS Student Growth Trajectory（1751510912719100）](https://dev.to/member_57439f86/cs-student-growth-trajectory1751510912719100-52kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
