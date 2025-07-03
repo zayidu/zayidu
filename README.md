@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture（1751497744754500）](https://dev.to/member_57439f86/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-1glb)
-- [Next Generation High Web Rust Based Solutions（1751497162357700）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751497162357700-4bfi)
-- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751497103333400）](https://dev.to/member_57439f86/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751497103333400-l6a)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-437a)
-- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751496533987200）](https://dev.to/member_6bc7e52c/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751496533987200-3fla)
+- [SSH Over Tor: Cool, Practical, or Just Tinfoil Hats?](https://dev.to/sebos/ssh-over-tor-cool-practical-or-just-tinfoil-hats-27lp)
+- [AI in Mental Health: Hope or a Hidden Risk?](https://dev.to/sebastian_reid999/ai-in-mental-health-hope-or-a-hidden-risk-2n8p)
+- [Algorithm Engineering Practice（1751500932463700）](https://dev.to/member_6bc7e52c/algorithm-engineering-practice1751500932463700-3le0)
+- [The Trainings and Guidelines, on how to understand Git and GitHub as a beginner.](https://dev.to/odinkemelu_innocent_3b2f5/the-trainings-and-guidelines-on-how-to-understand-git-and-github-as-a-beginner-4a46)
+- [SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑](https://dev.to/chandycraig/saas-friends-stop-reimplementing-messaging-features-53hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
