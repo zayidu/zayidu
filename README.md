@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in the Vineyard: How Japanese Wine Producers Are Using Data to Grow Better Grapes 🧐🍇](https://dev.to/mark_morey_40465ceccddaa8/ai-in-the-vineyard-how-japanese-wine-producers-are-using-data-to-grow-better-grapes-4fp1)
-- [first post](https://dev.to/helpothon/first-post-2h0d)
-- [A Comprehensive Look at the iShares S&amp;P TSX 60 Index ETF](https://dev.to/elsa_rae_098/a-comprehensive-look-at-the-ishares-sp-tsx-60-index-etf-4b4g)
-- [Cross-Platform Compatibility Solutions（1751523027421400）](https://dev.to/member_57439f86/cross-platform-compatibility-solutions1751523027421400-1130)
-- [Suffrage Server app](https://dev.to/ogunsegun/suffrage-server-app-5629)
+- [☁️🧠🕹️AWS Cloud Quest: Practitioner Mode &lpar;Retro Edition&rpar;🤖](https://dev.to/divyasinghdev/aws-cloud-quest-practitioner-mode-retro-edition-5b43)
+- [I&#39;m a complete beginner with no skills so far and I want to begin with DSA in java, can anyone suggest free platforms for that](https://dev.to/chhavi_joshi_ede276cfcc06/im-a-complete-beginner-with-no-skills-so-far-and-i-want-to-begin-with-dsa-can-anyone-suggest-free-4hje)
+- [Top 5 WordPress Security Plugins to Use for Site Safety 2025](https://dev.to/serveravatar/top-5-wordpress-security-plugins-to-use-for-site-safety-2025-5785)
+- [Polling Is So Last Year—Level Up with Real‑Time WebSockets in Node.js! 🚀](https://dev.to/saumyaaggarwal/polling-is-so-last-year-level-up-with-real-time-websockets-in-nodejs-4oi2)
+- [Next Generation High Web Rust Based Solutions（1751525403587200）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751525403587200-53ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
