@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Storage Account with Security and Networking Settings](https://dev.to/cliffndee/creating-a-storage-account-with-security-and-networking-settings-2k84)
-- [[Adult Learning Log] C Language – Week 4 Review](https://dev.to/sankworks/adult-learning-log-c-language-week-4-review-c9p)
-- [Laravel Octane vs. PHP-FPM: A Deep Dive into Modern PHP Performance](https://dev.to/arasosman/laravel-octane-vs-php-fpm-a-deep-dive-into-modern-php-performance-4lf7)
-- [Open Source Community Values（1751515813278400）](https://dev.to/member_6bc7e52c/open-source-community-values1751515813278400-3g96)
-- [A Step-by-Step Guide to Deploying n8n on Oracle Cloud Free Tier](https://dev.to/dalenguyen/a-step-by-step-guide-to-deploying-n8n-on-oracle-cloud-free-tier-cjp)
+- [𝘠𝘰𝘶 𝘮𝘢𝘺 𝘥𝘦𝘭𝘢𝘺, 𝘣𝘶𝘵 𝘵𝘪𝘮𝘦 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵.](https://dev.to/sonmusui/--1k68)
+- [Why Now Is the Best Time to Start Freelance Web Development](https://dev.to/vjygour/why-now-is-the-best-time-to-start-freelance-web-development-2pm5)
+- [JavaScript Variable Naming: Rules You Can’t Ignore](https://dev.to/andriy_ovcharov_312ead391/javascript-variable-naming-rules-you-cant-ignore-593i)
+- [Containerized vs Traditional Deployment（1751519242763600）](https://dev.to/member_57439f86/containerized-vs-traditional-deployment1751519242763600-3084)
+- [Modular Design for Large-Scale Systems（1751519237254400）](https://dev.to/member_6bc7e52c/modular-design-for-large-scale-systems1751519237254400-3873)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
