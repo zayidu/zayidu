@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Taught My Smart Contract to Dream: AI-Generated Solidity Code](https://dev.to/dhis_is_jj/i-taught-my-smart-contract-to-dream-ai-generated-solidity-code-2ijh)
-- [AWS re:Invent: How I Finally Found My Sense of Belonging](https://dev.to/aws-builders/aws-reinvent-how-i-finally-found-my-sense-of-belonging-58n5)
-- [What&#39;s the difference between certified and registered contractor licenses in Florida?](https://dev.to/sonali_sharma_d2dc50066db/whats-the-difference-between-certified-and-registered-contractor-licenses-in-florida-4l7k)
-- [Day 11/100: Loop Control – break, continue, and pass](https://dev.to/therahul_gupta/day-11100-loop-control-break-continue-and-pass-jj4)
-- [How To Instantly Generate Unique YouTube Thumbnails Using AI Tools](https://dev.to/ybouane/how-to-instantly-generate-unique-youtube-thumbnails-using-ai-tools-3n9c)
+- [Technical Debt Management（1751548777698600）](https://dev.to/member_57439f86/technical-debt-management1751548777698600-429o)
+- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms（1751548691003600）](https://dev.to/member_6bc7e52c/art-of-system-integration-make-applications-run-seamlessly-across-different-1ohf)
+- [🧠 JavaScript Promises Explained — A Complete Guide for Beginners](https://dev.to/lokesh_keswani/javascript-promises-explained-a-complete-guide-for-beginners-gbe)
+- [Day 23: When Your Brain Runs on Dial-Up](https://dev.to/casperday11/day-23-when-your-brain-runs-on-dial-up-27pb)
+- [Why 72% of Magento Developers Prefer Hyvä](https://dev.to/navigate_commerce/why-72-of-magento-developers-prefer-hyva-3mg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
