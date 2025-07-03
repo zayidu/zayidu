@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Down RL2: Why We Built a Ray-Less RL Framework for AI Agents](https://dev.to/accioprocurement/breaking-down-rl2-why-we-built-a-ray-less-rl-framework-for-ai-agents-j00)
-- [How to create a storage account and configure basic settings for security and networking.](https://dev.to/onyemuche/how-to-create-a-storage-account-and-configure-basic-settings-for-security-and-networking-4fco)
-- [Model Mondays S2E03 - AMA on SLMs and Reasoning](https://dev.to/azure/model-mondays-s2e03-ama-on-slms-and-reasoning-25dg)
-- [GCP Fundamentals: Dataflow API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataflow-api-48on)
-- [CS Student Growth Trajectory（1751510912719100）](https://dev.to/member_57439f86/cs-student-growth-trajectory1751510912719100-52kj)
+- [Creating a Storage Account with Security and Networking Settings](https://dev.to/cliffndee/creating-a-storage-account-with-security-and-networking-settings-2k84)
+- [[Adult Learning Log] C Language – Week 4 Review](https://dev.to/sankworks/adult-learning-log-c-language-week-4-review-c9p)
+- [Laravel Octane vs. PHP-FPM: A Deep Dive into Modern PHP Performance](https://dev.to/arasosman/laravel-octane-vs-php-fpm-a-deep-dive-into-modern-php-performance-4lf7)
+- [Open Source Community Values（1751515813278400）](https://dev.to/member_6bc7e52c/open-source-community-values1751515813278400-3g96)
+- [A Step-by-Step Guide to Deploying n8n on Oracle Cloud Free Tier](https://dev.to/dalenguyen/a-step-by-step-guide-to-deploying-n8n-on-oracle-cloud-free-tier-cjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
