@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
-- [From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project &lpar;Part One&rpar;](https://dev.to/mbarcia/from-monolith-to-microservices-lessons-learned-migrating-the-csv-payments-processing-project-part-3p5m)
-- [What is Data Enrichment ＆ How AI Enhances Its Power](https://dev.to/powerdrill_ai/what-is-data-enrichment-how-ai-enhances-its-power-3m8m)
-- [How to Add Internationalization &lpar;i18n&rpar; to a React App Using i18next [2025 Edition]](https://dev.to/anilparmar/how-to-add-internationalization-i18n-to-a-react-app-using-i18next-2025-edition-3hkk)
-- [SIMD Vectorized Computing（1751539786112100）](https://dev.to/member_6bc7e52c/simd-vectorized-computing1751539786112100-3e4i)
+- [I Taught My Smart Contract to Dream: AI-Generated Solidity Code](https://dev.to/dhis_is_jj/i-taught-my-smart-contract-to-dream-ai-generated-solidity-code-2ijh)
+- [AWS re:Invent: How I Finally Found My Sense of Belonging](https://dev.to/aws-builders/aws-reinvent-how-i-finally-found-my-sense-of-belonging-58n5)
+- [What&#39;s the difference between certified and registered contractor licenses in Florida?](https://dev.to/sonali_sharma_d2dc50066db/whats-the-difference-between-certified-and-registered-contractor-licenses-in-florida-4l7k)
+- [Day 11/100: Loop Control – break, continue, and pass](https://dev.to/therahul_gupta/day-11100-loop-control-break-continue-and-pass-jj4)
+- [How To Instantly Generate Unique YouTube Thumbnails Using AI Tools](https://dev.to/ybouane/how-to-instantly-generate-unique-youtube-thumbnails-using-ai-tools-3n9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
