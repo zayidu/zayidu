@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Looking for Volunteer Judges &amp; Mentors for a Beginner-Friendly Low/No Code Hackathon! 🌟](https://dev.to/cwidusahan/looking-for-volunteer-judges-mentors-for-a-beginner-friendly-lowno-code-hackathon-mmb)
-- [AI in the Driver’s Seat: Evolution Never Stopped, It Just Advanced](https://dev.to/ethernmyth/ai-in-the-drivers-seat-evolution-never-stopped-it-just-advanced-p5)
-- [Para Sara](https://dev.to/jorge_chaconotero_a6b673/para-sara-2ka6)
-- [Single Core High Concurrency（1751579100957200）](https://dev.to/member_57439f86/single-core-high-concurrency1751579100957200-e4b)
-- [Cloud Architects vs Game Developers](https://dev.to/nigel10122/cloud-architects-vs-game-developers-13h8)
+- [Middleware Architecture Patterns Cross Cutting Web（1751582887257700）](https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea)
+- [Understanding Strategy Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-strategy-design-pattern-a-simple-guide-h2a)
+- [SVGs para ReactComponent com Plugin SWC - Minha Jornada com Rust e Um Pouco de Teimosia](https://dev.to/joao_neto/svgs-para-reactcomponent-com-plugin-swc-minha-jornada-com-rust-e-um-pouco-de-teimosia-212b)
+- [SVGs para ReactComponent com Plugin SWC - Minha Jornada com Rust e Um Pouco de Teimosia](https://dev.to/joao_neto/svgs-para-reactcomponent-com-plugin-swc-minha-jornada-com-rust-e-um-pouco-de-teimosia-3ai5)
+- [Unlocking Otel in WebAssembly - Wasm I/O 2025](https://dev.to/fermyon/unlocking-otel-in-webassembly-wasm-io-2025-1m8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
