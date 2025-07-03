@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Introducing Helpothon: Leveraging Technology for Social Good](https://dev.to/helpothon/-introducing-helpothon-leveraging-technology-for-social-good-26ni)
-- [Technology Selection Wisdom（1751568581749700）](https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b)
-- [Real-Time Backend for Mobile Apps Without WebSockets: A Modern Pub/Sub Alternative](https://dev.to/vlad_kuiantsev/real-time-backend-for-mobile-apps-without-websockets-a-modern-pubsub-alternative-4327)
-- [JavaScript String Methods](https://dev.to/mukilaperiyasamy/javascript-string-methods-55k6)
-- [Open Source Community Values（1751568494483000）](https://dev.to/member_57439f86/open-source-community-values1751568494483000-1543)
+- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-3c53)
+- [How does an Incident Response Policy help in managing cybersecurity threats?](https://dev.to/writegenic/how-does-an-incident-response-policy-help-in-managing-cybersecurity-threats-55m6)
+- [Mastering Asynchronous Programming Patterns Task Modern Web（1751572283001800）](https://dev.to/member_57439f86/mastering-asynchronous-programming-patterns-task-modern-web1751572283001800-1021)
+- [HOW TO DEVREL: The Texas Sharpshooter](https://dev.to/adatole/how-to-devrel-the-texas-sharpshooter-41p5)
+- [🔥 GitHub Streak Card — Show Off Your Avatar, Top Language, Total Contributions, and Accurate Streaks!](https://dev.to/zainulabdeenofficial/github-streak-card-show-off-your-avatar-top-language-total-contributions-and-accurate-1029)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
