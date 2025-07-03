@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Risk Identification and Analysis: A Cornerstone of Cybersecurity Strategy](https://dev.to/pelk/risk-identification-and-analysis-a-cornerstone-of-cybersecurity-strategy-1jk3)
-- [Understanding Throttle in JavaScript](https://dev.to/jakaria/understanding-throttle-in-javascript-3jba)
-- [Service Communication Patterns and Best Practice Guide Under Microservices（1751558983078800）](https://dev.to/member_6bc7e52c/service-communication-patterns-and-best-practice-guide-under-microservices1751558983078800-3hb4)
-- [Debiasing LLM Judges: Understanding and correcting AI Evaluation Bias](https://dev.to/gyani_s/debiasing-llm-judges-understanding-and-correcting-ai-evaluation-bias-2ce4)
-- [Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）](https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o)
+- [Hi, I’m Mohammad Rifatujjaman — Specializing in Software Development &amp; Android App Development](https://dev.to/mohammad_rifatujjaman/hi-im-mohammad-rifatujjaman-specializing-in-software-development-android-app-development-2hap)
+- [Indicators of Compromise &lpar;IoCs&rpar;](https://dev.to/pelk/indicators-of-compromise-iocs-1p77)
+- [Machine Learning Fundamentals: boosting project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-project-1638)
+- [Bye bye!](https://dev.to/terceranexus6/bye-bye-3d8p)
+- [Sending Emails Using Queues in Laravel](https://dev.to/techsolver94/sending-emails-using-queues-in-laravel-16n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
