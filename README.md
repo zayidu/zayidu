@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Power Validated Solutions For Cloud Foundation](https://dev.to/devopsfundamentals/vmware-fundamentals-power-validated-solutions-for-cloud-foundation-1o2m)
-- [TiKV Component GC &lpar;Physical Space Reclamation&rpar; Principles and Common Issues](https://dev.to/tidbcommunity/tikv-component-gc-physical-space-reclamation-principles-and-common-issues-33a1)
-- [Don&#39;t expose your database to the world](https://dev.to/michaelishri/dont-expose-your-database-to-the-world-3fke)
-- [Interactive 3D Office Desk](https://dev.to/member_01928ffe/interactive-3d-office-desk-1b4i)
-- [AI Is Just Another Excel: What the Spreadsheet Revolution Teaches Us About the Future of Work](https://dev.to/copyleftdev/ai-is-just-another-excel-what-the-spreadsheet-revolution-teaches-us-about-the-future-of-work-59cl)
+- [Learn Docker: A Beginner’s Guide to Containerization](https://dev.to/suraj_kumar_fb57ae0928df2/learn-docker-a-beginners-guide-to-containerization-ni5)
+- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
+- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
+- [🤬 Hidden Dangers of Modern Living: The Rise of New Diseases, Industrial Greed, and How to Protect Yourself](https://dev.to/zainulabdeenofficial/hidden-dangers-of-modern-living-the-rise-of-new-diseases-industrial-greed-and-how-to-protect-31f6)
+- [Building the Future: Career Paths in Agentic AI](https://dev.to/agami_tech_414cabb7522ea1/building-the-future-career-paths-in-agentic-ai-1ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
