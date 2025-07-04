@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy SafeLine WAF on a CyberPanel VPS](https://dev.to/carrie_luo1/how-to-deploy-safeline-waf-on-a-cyberpanel-vps-ina)
-- [A Test That No One Runs Is Worse Than No Test At All](https://dev.to/dct_technology/a-test-that-no-one-runs-is-worse-than-no-test-at-all-1k5f)
-- [🎉 Win 1 Month of Premium Access to Interview.study — Ace Your Next Interview!](https://dev.to/veloxium-cloud/win-1-month-of-premium-access-to-interviewstudy-ace-your-next-interview-1d52)
-- [🚢 Using Docker Registry with Swarm: Ship Your Images Like a Pro](https://dev.to/sovannaro/using-docker-registry-with-swarm-ship-your-images-like-a-pro-40gm)
-- [When Platforms Like LinkedIn Fail Developers, We Build Without Them](https://dev.to/00rvn00/when-platforms-like-linkedin-fail-developers-we-build-without-them-493i)
+- [How to Get a Public URL for Your Linux Virtual Machine with Tunnelmole](https://dev.to/robbiecahill/how-to-get-a-public-url-for-your-linux-virtual-machine-with-tunnelmole-12)
+- [How to Monetize Your Skills and Make Money as a Junior Backend Developer](https://dev.to/masteringbackend/how-to-monetize-your-skills-and-make-money-as-a-junior-backend-developer-2334)
+- [Port Forwarding Made Simple: How to Use Tunnelmole for Secure, Developer-Friendly Port Forwarding](https://dev.to/robbiecahill/port-forwarding-made-simple-how-to-use-tunnelmole-for-secure-developer-friendly-port-forwarding-18b4)
+- [How to Use Tunnelmole as a Reverse Proxy: The Open Source Approach](https://dev.to/robbiecahill/how-to-use-tunnelmole-as-a-reverse-proxy-the-open-source-approach-1iej)
+- [🌟 Kubernetes for Everyone: What, Why &amp; How It Compares to Docker Swarm](https://dev.to/sovannaro/kubernetes-for-everyone-what-why-how-it-compares-to-docker-swarm-40ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
