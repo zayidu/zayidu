@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Structure My FastAPI Projects for Clean, Scalable Code](https://dev.to/m_muhd8/how-i-structure-my-fastapi-projects-for-clean-scalable-code-594n)
+- [Programming Entry Level: learn linux](https://dev.to/devopsfundamentals/programming-entry-level-learn-linux-130i)
+- [🚀 Frontend Roadmap 2025 for Absolute Beginners &lpar;With Free Resources&rpar;](https://dev.to/yaldakhoshpey/frontend-roadmap-2025-for-absolute-beginners-with-free-resources-3c2o)
+- [How to Write a CV That Matches Today’s Hiring Standards](https://dev.to/david_jone/how-to-write-a-cv-that-matches-todays-hiring-standards-5889)
 - [Day night cycle](https://dev.to/waste_land_0202106205ae31/day-night-cycle-5ghp)
-- [iOS 26 Network Extension: URL Filtering Revolution for Enterprise and Consumer Apps](https://dev.to/arshtechpro/ios-26-network-extension-url-filtering-revolution-for-enterprise-and-consumer-apps-40ij)
-- [Warum Clean Code manchmal zu &#39;sauber&#39; ist 🧹](https://dev.to/ivo_sa/warum-clean-code-manchmal-zu-sauber-ist-oka)
-- [Code Smell 306 - AI External Comments](https://dev.to/mcsee/code-smell-306-ai-external-comments-4556)
-- [How to Easily Export an Entire Squarespace Site as Static HTML Files](https://dev.to/ybouane/how-to-easily-export-an-entire-squarespace-site-as-static-html-files-57jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
