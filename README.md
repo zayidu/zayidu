@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build app with no code and win big](https://dev.to/ticher216/build-app-with-no-code-and-win-big-3mc9)
-- [Creating AI Agents That Use Your MCP Server &lpar;Part 4/5&rpar;](https://dev.to/bredmond1019/creating-ai-agents-that-use-your-mcp-server-part-45-hpe)
-- [Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding &lpar;2025 Insight&rpar;](https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao)
-- [Day 18 – Building Smarter AI Chatbots with Dify and Prompt Engineering](https://dev.to/nader_fh/day-18-building-smarter-ai-chatbots-with-dify-and-prompt-engineering-413k)
-- [JavaScript&#39;s Asynchronous Execution: V8 and the Event Loop](https://dev.to/whyd_rf_4ed6d999aab0c3a48/javascripts-asynchronous-execution-v8-and-the-event-loop-4if5)
+- [Network Health Check &amp; Diagram for Families](https://dev.to/captredbeard/network-health-check-diagram-for-families-45bh)
+- [Top 5 Laravel SaaS Boilerplates to Launch Your Startup Faster 🚀](https://dev.to/qoraiche/top-5-laravel-saas-boilerplates-to-launch-your-startup-faster-352)
+- [Running Docker Containers on a Read‑Only Root File System](https://dev.to/mimahmed/running-docker-containers-on-a-read-only-root-file-system-4fa9)
+- [How Last Mile Delivery Works?](https://dev.to/shipeak/how-last-mile-delivery-works-1ifa)
+- [Devlog #7 A week of dev](https://dev.to/bain_8a987225b41e21618fcb/devlog-7-a-week-of-dev-1hdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
