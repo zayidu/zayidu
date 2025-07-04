@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding - Conversational Software Development - Part 1 Introduction](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41)
-- [A Multi-Part Series: Architecting a Giant - 17 Products Enhanced by AI](https://dev.to/khuepm/a-multi-part-series-architecting-a-giant-17-products-enhanced-by-ai-2cgm)
-- [Day 13/100: Variable Scope – Global vs Local in Python](https://dev.to/therahul_gupta/day-13100-variable-scope-global-vs-local-in-python-5882)
-- [AI-Driven Development: Code Smarter with Vue.js, Beginners-Friendly 2025](https://dev.to/eleftheriabatsou/ai-driven-development-code-smarter-with-vuejs-beginners-friendly-2025-3632)
-- [Email Template Tricks that Actually Work](https://dev.to/saltorgil/email-template-tricks-that-actually-work-15ol)
+- [Conventional Commits : un premier pas vers l’automatisation](https://dev.to/jpiazzal/conventional-commits-un-premier-pas-vers-lautomatisation-3l5d)
+- [Top 7 Open-Source Projects to Contribute to in 2025](https://dev.to/manukumar07/top-7-open-source-projects-to-contribute-to-in-2025-3f)
+- [Ng-News 25/26: DDD, Animations In/Out, Reflow Issues](https://dev.to/this-is-angular/ng-news-2526-ddd-animations-inout-reflow-issues-198m)
+- [Creating a Reusable Trait for Logging User Activities in Laravel Models](https://dev.to/happybananaworld/creating-a-reusable-trait-for-logging-user-activities-in-laravel-models-49ce)
+- [Fixing ChatGPT &quot;Lost First Key&quot; Bug in Firefox](https://dev.to/hopsayer/fixing-chatgpt-lost-first-key-bug-in-firefox-14g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
