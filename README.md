@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #241: Remix, Next.js, Turbopack | Nitro Week, Skia, App Generator, Swift, Kotlin...](https://dev.to/sebastienlorber/this-week-in-react-241-remix-nextjs-turbopack-nitro-week-skia-app-generator-swift-2l6n)
-- [Day 24: When Your Startup Title Sounds Cooler Than Your Actual Skills](https://dev.to/casperday11/day-24-when-your-startup-title-sounds-cooler-than-your-actual-skills-j4b)
-- [The Zen of a Programmer: &quot;Less Code — More Meaning&quot;](https://dev.to/andriy_ovcharov_312ead391/the-zen-of-a-programmer-less-code-more-meaning-3lh6)
-- [CSS Animations](https://dev.to/asran_2025/css-animations-1f9a)
-- [Understanding the TSX Completion Index: A Guide for Investors](https://dev.to/elsa_rae_098/understanding-the-tsx-completion-index-a-guide-for-investors-3ea1)
+- [Email Template Tricks that Actually Work](https://dev.to/saltorgil/email-template-tricks-that-actually-work-15ol)
+- [Drop Your Web App/API &amp; I’ll Run a Free Security Scan &lpar;pentesting&rpar; on It](https://dev.to/jigar_online/drop-your-web-appapi-ill-run-a-free-security-scan-pentesting-on-it-1moi)
+- [Growing with AI, a developer&#39;s perspective.](https://dev.to/zeze1020/growing-with-ai-a-developers-perspective-3bhc)
+- [Part 1: Building Zero-Knowledge Encryption That Actually Works](https://dev.to/alexsofroniev/part-1-building-zero-knowledge-encryption-that-actually-works-2ijf)
+- [Postgres on a Budget: 3 Free Solutions You Should Know](https://dev.to/engroso/postgres-on-a-budget-3-free-solutions-you-should-know-184h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
