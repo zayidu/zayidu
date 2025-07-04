@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hanadi/-37ap)
-- [FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](https://dev.to/taniguchitakara/flux1-kontext-flow-matching-for-in-context-imagegeneration-and-editing-in-latent-space-1bf4)
-- [🚗 Advanced Vehicle Counter](https://dev.to/christian_zigah_ee4fcbe3c/advanced-vehicle-counter-47om)
-- [Meet create‑devhub: Scaffold Full‑Stack Monorepos in Seconds](https://dev.to/saumyaaggarwal/meet-create-devhub-scaffold-full-stack-monorepos-in-seconds-agf)
-- [Context-Aware Search for Your Service: No GPUs, No Hassle](https://dev.to/kencho/context-aware-search-for-your-app-no-gpus-no-hassle-3npf)
+- [This Week In React #241: Remix, Next.js, Turbopack | Nitro Week, Skia, App Generator, Swift, Kotlin...](https://dev.to/sebastienlorber/this-week-in-react-241-remix-nextjs-turbopack-nitro-week-skia-app-generator-swift-2l6n)
+- [Day 24: When Your Startup Title Sounds Cooler Than Your Actual Skills](https://dev.to/casperday11/day-24-when-your-startup-title-sounds-cooler-than-your-actual-skills-j4b)
+- [The Zen of a Programmer: &quot;Less Code — More Meaning&quot;](https://dev.to/andriy_ovcharov_312ead391/the-zen-of-a-programmer-less-code-more-meaning-3lh6)
+- [CSS Animations](https://dev.to/asran_2025/css-animations-1f9a)
+- [Understanding the TSX Completion Index: A Guide for Investors](https://dev.to/elsa_rae_098/understanding-the-tsx-completion-index-a-guide-for-investors-3ea1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
