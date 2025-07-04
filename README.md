@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fundamentals: Ecr](https://dev.to/devopsfundamentals/aws-fundamentals-ecr-38hp)
-- [Building a Distributed Task Scheduler with etcd: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-distributed-task-scheduler-with-etcd-a-hands-on-guide-1eld)
-- [My experience with Fedora Atomic](https://dev.to/r0x0d/my-experience-with-fedora-atomic-3k2m)
-- [AI Is Collapsing the Front‑End / Back‑End Divide](https://dev.to/elfrontend/ai-is-collapsing-the-front-end-back-end-divide-lk2)
-- [Basics of Delegates](https://dev.to/elcatbot/basics-of-delegates-46fn)
+- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
+- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
+- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
+- [Get you anime avatar for github](https://dev.to/sroy8091/get-you-anime-avatar-for-github-1f98)
+- [CloudPilot AI vs Karpenter: Smarter Kubernetes Autoscaling, Lower Cloud Costs](https://dev.to/cloudpilot-ai/cloudpilot-ai-vs-karpenter-smarter-kubernetes-autoscaling-lower-cloud-costs-2b0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
