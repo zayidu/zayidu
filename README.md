@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
-- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
-- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
-- [Get you anime avatar for github](https://dev.to/sroy8091/get-you-anime-avatar-for-github-1f98)
-- [CloudPilot AI vs Karpenter: Smarter Kubernetes Autoscaling, Lower Cloud Costs](https://dev.to/cloudpilot-ai/cloudpilot-ai-vs-karpenter-smarter-kubernetes-autoscaling-lower-cloud-costs-2b0i)
+- [VMware Fundamentals: Power Validated Solutions For Cloud Foundation](https://dev.to/devopsfundamentals/vmware-fundamentals-power-validated-solutions-for-cloud-foundation-1o2m)
+- [TiKV Component GC &lpar;Physical Space Reclamation&rpar; Principles and Common Issues](https://dev.to/tidbcommunity/tikv-component-gc-physical-space-reclamation-principles-and-common-issues-33a1)
+- [Don&#39;t expose your database to the world](https://dev.to/michaelishri/dont-expose-your-database-to-the-world-3fke)
+- [Interactive 3D Office Desk](https://dev.to/member_01928ffe/interactive-3d-office-desk-1b4i)
+- [AI Is Just Another Excel: What the Spreadsheet Revolution Teaches Us About the Future of Work](https://dev.to/copyleftdev/ai-is-just-another-excel-what-the-spreadsheet-revolution-teaches-us-about-the-future-of-work-59cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
