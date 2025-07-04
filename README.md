@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding - Conversational Software Development - Part 1 Introduction](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41)
+- [A Multi-Part Series: Architecting a Giant - 17 Products Enhanced by AI](https://dev.to/khuepm/a-multi-part-series-architecting-a-giant-17-products-enhanced-by-ai-2cgm)
+- [Day 13/100: Variable Scope – Global vs Local in Python](https://dev.to/therahul_gupta/day-13100-variable-scope-global-vs-local-in-python-5882)
+- [AI-Driven Development: Code Smarter with Vue.js, Beginners-Friendly 2025](https://dev.to/eleftheriabatsou/ai-driven-development-code-smarter-with-vuejs-beginners-friendly-2025-3632)
 - [Email Template Tricks that Actually Work](https://dev.to/saltorgil/email-template-tricks-that-actually-work-15ol)
-- [Drop Your Web App/API &amp; I’ll Run a Free Security Scan &lpar;pentesting&rpar; on It](https://dev.to/jigar_online/drop-your-web-appapi-ill-run-a-free-security-scan-pentesting-on-it-1moi)
-- [Growing with AI, a developer&#39;s perspective.](https://dev.to/zeze1020/growing-with-ai-a-developers-perspective-3bhc)
-- [Part 1: Building Zero-Knowledge Encryption That Actually Works](https://dev.to/alexsofroniev/part-1-building-zero-knowledge-encryption-that-actually-works-2ijf)
-- [Postgres on a Budget: 3 Free Solutions You Should Know](https://dev.to/engroso/postgres-on-a-budget-3-free-solutions-you-should-know-184h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
