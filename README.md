@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A React Starter Template for the Impatient Developer](https://dev.to/paras594/a-react-starter-template-for-the-impatient-developer-455a)
-- [Two major shortcomings of Python in enterprise applications](https://dev.to/esproc_spl/two-major-shortcomings-of-python-in-enterprise-applications-1o9o)
-- [Building Secure CI/CD Pipelines: DevSecOps in Action](https://dev.to/bankai_infotech/building-secure-cicd-pipelines-devsecops-in-action-5367)
-- [🔄 Automate Linux Administration Tasks with Ansible](https://dev.to/sindhuja_ns_1e491ce1088d/automate-linux-administration-tasks-with-ansible-5aha)
-- [Guide: Create SSH keys for SFTP and SCP server auth](https://dev.to/viggoblum/guide-create-ssh-keys-for-sftp-and-scp-server-auth-2d29)
+- [The Side Project Paradox: Why 80% Fail and How to Be the 20%](https://dev.to/teamcamp/the-side-project-paradox-why-80-fail-and-how-to-be-the-20-39jn)
+- [Day-50 Understanding Destructuring in JavaScript](https://dev.to/tamilselvan1812/day-50-understanding-destructuring-in-javascript-gl3)
+- [How Signers Can Add Form Fields before eSigning a Document](https://dev.to/boldsign/how-signers-can-add-form-fields-before-esigning-a-document-3c9g)
+- [Create a Marketplace Like Amazon](https://dev.to/david_beckam_df898f761b30/create-a-marketplace-like-amazon-296f)
+- [Finally studying what I want](https://dev.to/pinkbear20056/finally-studying-what-i-want-4kkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
