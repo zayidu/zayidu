@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Docker: A Beginner’s Guide to Containerization](https://dev.to/suraj_kumar_fb57ae0928df2/learn-docker-a-beginners-guide-to-containerization-ni5)
-- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
-- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
-- [🤬 Hidden Dangers of Modern Living: The Rise of New Diseases, Industrial Greed, and How to Protect Yourself](https://dev.to/zainulabdeenofficial/hidden-dangers-of-modern-living-the-rise-of-new-diseases-industrial-greed-and-how-to-protect-31f6)
-- [Building the Future: Career Paths in Agentic AI](https://dev.to/agami_tech_414cabb7522ea1/building-the-future-career-paths-in-agentic-ai-1ja)
+- [A React Starter Template for the Impatient Developer](https://dev.to/paras594/a-react-starter-template-for-the-impatient-developer-455a)
+- [Two major shortcomings of Python in enterprise applications](https://dev.to/esproc_spl/two-major-shortcomings-of-python-in-enterprise-applications-1o9o)
+- [Building Secure CI/CD Pipelines: DevSecOps in Action](https://dev.to/bankai_infotech/building-secure-cicd-pipelines-devsecops-in-action-5367)
+- [🔄 Automate Linux Administration Tasks with Ansible](https://dev.to/sindhuja_ns_1e491ce1088d/automate-linux-administration-tasks-with-ansible-5aha)
+- [Guide: Create SSH keys for SFTP and SCP server auth](https://dev.to/viggoblum/guide-create-ssh-keys-for-sftp-and-scp-server-auth-2d29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
