@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Health Check &amp; Diagram for Families](https://dev.to/captredbeard/network-health-check-diagram-for-families-45bh)
-- [Top 5 Laravel SaaS Boilerplates to Launch Your Startup Faster 🚀](https://dev.to/qoraiche/top-5-laravel-saas-boilerplates-to-launch-your-startup-faster-352)
-- [Running Docker Containers on a Read‑Only Root File System](https://dev.to/mimahmed/running-docker-containers-on-a-read-only-root-file-system-4fa9)
-- [How Last Mile Delivery Works?](https://dev.to/shipeak/how-last-mile-delivery-works-1ifa)
-- [Devlog #7 A week of dev](https://dev.to/bain_8a987225b41e21618fcb/devlog-7-a-week-of-dev-1hdk)
+- [Escritura para desarrolladores en la era de la IA](https://dev.to/meyer-pidiache/escritura-para-desarrolladores-en-la-era-de-la-ia-1cn8)
+- [Security news weekly round-up - 4th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi)
+- [Automating SOP Content Creation with Runner H](https://dev.to/cybertica/automating-sop-content-creation-with-runner-h-5cnp)
+- [10 Best LeetCode Alternatives for Coding Practice and Interview Prep &lpar;2025&rpar;](https://dev.to/blasterzm/10-best-leetcode-alternatives-for-coding-practice-and-interview-prep-2025-1nk1)
+- [From “I don’t know a single line of code” to building my first AI-powered web app at the world’s largest hackathon](https://dev.to/yanleong1027/from-i-dont-know-a-single-line-of-code-to-building-my-first-ai-powered-web-app-at-the-worlds-4phe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
