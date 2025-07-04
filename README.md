@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware Architecture Patterns Cross Cutting Web（1751582887257700）](https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea)
-- [Understanding Strategy Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-strategy-design-pattern-a-simple-guide-h2a)
-- [SVGs para ReactComponent com Plugin SWC - Minha Jornada com Rust e Um Pouco de Teimosia](https://dev.to/joao_neto/svgs-para-reactcomponent-com-plugin-swc-minha-jornada-com-rust-e-um-pouco-de-teimosia-212b)
-- [SVGs para ReactComponent com Plugin SWC - Minha Jornada com Rust e Um Pouco de Teimosia](https://dev.to/joao_neto/svgs-para-reactcomponent-com-plugin-swc-minha-jornada-com-rust-e-um-pouco-de-teimosia-3ai5)
-- [Unlocking Otel in WebAssembly - Wasm I/O 2025](https://dev.to/fermyon/unlocking-otel-in-webassembly-wasm-io-2025-1m8n)
+- [AWS Fundamentals: Ecr](https://dev.to/devopsfundamentals/aws-fundamentals-ecr-38hp)
+- [Building a Distributed Task Scheduler with etcd: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-distributed-task-scheduler-with-etcd-a-hands-on-guide-1eld)
+- [My experience with Fedora Atomic](https://dev.to/r0x0d/my-experience-with-fedora-atomic-3k2m)
+- [AI Is Collapsing the Front‑End / Back‑End Divide](https://dev.to/elfrontend/ai-is-collapsing-the-front-end-back-end-divide-lk2)
+- [Basics of Delegates](https://dev.to/elcatbot/basics-of-delegates-46fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
