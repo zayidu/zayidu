@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Escritura para desarrolladores en la era de la IA](https://dev.to/meyer-pidiache/escritura-para-desarrolladores-en-la-era-de-la-ia-1cn8)
-- [Security news weekly round-up - 4th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi)
-- [Automating SOP Content Creation with Runner H](https://dev.to/cybertica/automating-sop-content-creation-with-runner-h-5cnp)
-- [10 Best LeetCode Alternatives for Coding Practice and Interview Prep &lpar;2025&rpar;](https://dev.to/blasterzm/10-best-leetcode-alternatives-for-coding-practice-and-interview-prep-2025-1nk1)
-- [From “I don’t know a single line of code” to building my first AI-powered web app at the world’s largest hackathon](https://dev.to/yanleong1027/from-i-dont-know-a-single-line-of-code-to-building-my-first-ai-powered-web-app-at-the-worlds-4phe)
+- [Day night cycle](https://dev.to/waste_land_0202106205ae31/day-night-cycle-5ghp)
+- [iOS 26 Network Extension: URL Filtering Revolution for Enterprise and Consumer Apps](https://dev.to/arshtechpro/ios-26-network-extension-url-filtering-revolution-for-enterprise-and-consumer-apps-40ij)
+- [Warum Clean Code manchmal zu &#39;sauber&#39; ist 🧹](https://dev.to/ivo_sa/warum-clean-code-manchmal-zu-sauber-ist-oka)
+- [Code Smell 306 - AI External Comments](https://dev.to/mcsee/code-smell-306-ai-external-comments-4556)
+- [How to Easily Export an Entire Squarespace Site as Static HTML Files](https://dev.to/ybouane/how-to-easily-export-an-entire-squarespace-site-as-static-html-files-57jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
