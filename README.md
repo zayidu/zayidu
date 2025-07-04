@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How The Builder Market Is Using AI to Fix a Broken Industry](https://dev.to/kenleighv/how-the-builder-market-is-using-ai-to-fix-a-broken-industry-3hof)
-- [Optimisation des performances web](https://dev.to/hassanioussama/optimisation-des-performances-web-aif)
-- [Serilog IDestructuringPolicy](https://dev.to/karenpayneoregon/serilog-idestructuringpolicy-9)
-- [JavaScript moderne : ES2024 et au-delà](https://dev.to/hassanioussama/javascript-moderne-es2024-et-au-dela-3djf)
-- [My Prompt: Student Assistant Bot](https://dev.to/zainab_tsx/my-prompt-student-assistant-bot-4b2g)
+- [Build app with no code and win big](https://dev.to/ticher216/build-app-with-no-code-and-win-big-3mc9)
+- [Creating AI Agents That Use Your MCP Server &lpar;Part 4/5&rpar;](https://dev.to/bredmond1019/creating-ai-agents-that-use-your-mcp-server-part-45-hpe)
+- [Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding &lpar;2025 Insight&rpar;](https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao)
+- [Day 18 – Building Smarter AI Chatbots with Dify and Prompt Engineering](https://dev.to/nader_fh/day-18-building-smarter-ai-chatbots-with-dify-and-prompt-engineering-413k)
+- [JavaScript&#39;s Asynchronous Execution: V8 and the Event Loop](https://dev.to/whyd_rf_4ed6d999aab0c3a48/javascripts-asynchronous-execution-v8-and-the-event-loop-4if5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
