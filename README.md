@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Excited to share StudentSphere from Bolt Hackathon! 🚀 We&#39;re revolutionizing student professional identity &amp; global opps!](https://dev.to/avamikoz/excited-to-share-studentsphere-from-bolt-hackathon-were-revolutionizing-student-professional-4gmc)
-- [ChatGPT Connectors: The Enterprise AI Game-Changer You&#39;ve Been Waiting For](https://dev.to/freeman_nomad/chatgpt-connectors-the-enterprise-ai-game-changer-youve-been-waiting-for-1n1h)
-- [Manga-Fy 90&#39;s style with Google Ai Studio!](https://dev.to/rajiv_sukhnandan_2edd6a79/manga-fy-90s-style-with-google-ai-studio-2b1g)
-- [What happens when OOP meets Real World™](https://dev.to/epigene/what-happens-when-oop-meets-real-world-57bn)
-- [I&#39;m building VoidCore, and ChatGPT is freaking out: &quot;Isn&#39;t this a self-evolving middleware editable by GUI?!?!&quot;](https://dev.to/charmpic/im-building-voidcore-and-chatgpt-is-freaking-out-isnt-this-a-self-evolving-middleware-editable-3jgo)
+- [🧠 EPYQ Week 6 /12: Failure as Feedback](https://dev.to/the_epyq/epyq-week-6-12-failure-as-feedback-1ih8)
+- [I Just Want to Make the AI-Translated World a Bit Simpler, Nyaa](https://dev.to/charmpic/i-just-want-to-make-the-ai-translated-world-a-bit-simpler-nyaa-lme)
+- [Build a Border Radius Generator with HTML, CSS &amp; JavaScript | Mini UI Project](https://dev.to/alizehcodes/build-a-border-radius-generator-with-html-css-javascript-mini-ui-project-3lad)
+- [Bitcoin Intelligence Daily Brief - Automated Market &amp; Industry Intelligence](https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp)
+- [Announce: Next-Gen Full Stack Framework For Go](https://dev.to/derstruct/announce-next-gen-web-ui-framework-for-go-59n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
