@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 EPYQ Week 6 /12: Failure as Feedback](https://dev.to/the_epyq/epyq-week-6-12-failure-as-feedback-1ih8)
-- [I Just Want to Make the AI-Translated World a Bit Simpler, Nyaa](https://dev.to/charmpic/i-just-want-to-make-the-ai-translated-world-a-bit-simpler-nyaa-lme)
-- [Build a Border Radius Generator with HTML, CSS &amp; JavaScript | Mini UI Project](https://dev.to/alizehcodes/build-a-border-radius-generator-with-html-css-javascript-mini-ui-project-3lad)
-- [Bitcoin Intelligence Daily Brief - Automated Market &amp; Industry Intelligence](https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp)
-- [Announce: Next-Gen Full Stack Framework For Go](https://dev.to/derstruct/announce-next-gen-web-ui-framework-for-go-59n)
+- [How The Builder Market Is Using AI to Fix a Broken Industry](https://dev.to/kenleighv/how-the-builder-market-is-using-ai-to-fix-a-broken-industry-3hof)
+- [Optimisation des performances web](https://dev.to/hassanioussama/optimisation-des-performances-web-aif)
+- [Serilog IDestructuringPolicy](https://dev.to/karenpayneoregon/serilog-idestructuringpolicy-9)
+- [JavaScript moderne : ES2024 et au-delà](https://dev.to/hassanioussama/javascript-moderne-es2024-et-au-dela-3djf)
+- [My Prompt: Student Assistant Bot](https://dev.to/zainab_tsx/my-prompt-student-assistant-bot-4b2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
