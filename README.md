@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the smartest AI tool you’ve actually built? I’ll go first — and I want to see yours.](https://dev.to/alifar/whats-the-smartest-ai-tool-youve-actually-built-ill-go-first-and-i-want-to-see-yours-144f)
-- [What’s the Coolest AI Tool You’ve Actually Built? I’ll Go First](https://dev.to/alifar/whats-the-coolest-ai-tool-youve-actually-built-ill-go-first-255l)
-- [Revolutionize Your DevOps Workflow with GitHub Actions](https://dev.to/vjnvisakh/revolutionize-your-devops-workflow-with-github-actions-3024)
-- [[Boost]](https://dev.to/lordbrainoferror/-3o7k)
-- [What Is Predictive Analytics? Definition, Features &amp; Use Cases](https://dev.to/powerdrill_ai/what-is-predictive-analytics-definition-features-use-cases-2gg4)
+- [[Boost]](https://dev.to/hanadi/-37ap)
+- [FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](https://dev.to/taniguchitakara/flux1-kontext-flow-matching-for-in-context-imagegeneration-and-editing-in-latent-space-1bf4)
+- [🚗 Advanced Vehicle Counter](https://dev.to/christian_zigah_ee4fcbe3c/advanced-vehicle-counter-47om)
+- [Meet create‑devhub: Scaffold Full‑Stack Monorepos in Seconds](https://dev.to/saumyaaggarwal/meet-create-devhub-scaffold-full-stack-monorepos-in-seconds-agf)
+- [Context-Aware Search for Your Service: No GPUs, No Hassle](https://dev.to/kencho/context-aware-search-for-your-app-no-gpus-no-hassle-3npf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
