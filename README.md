@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a Public URL for Your Linux Virtual Machine with Tunnelmole](https://dev.to/robbiecahill/how-to-get-a-public-url-for-your-linux-virtual-machine-with-tunnelmole-12)
-- [How to Monetize Your Skills and Make Money as a Junior Backend Developer](https://dev.to/masteringbackend/how-to-monetize-your-skills-and-make-money-as-a-junior-backend-developer-2334)
-- [Port Forwarding Made Simple: How to Use Tunnelmole for Secure, Developer-Friendly Port Forwarding](https://dev.to/robbiecahill/port-forwarding-made-simple-how-to-use-tunnelmole-for-secure-developer-friendly-port-forwarding-18b4)
-- [How to Use Tunnelmole as a Reverse Proxy: The Open Source Approach](https://dev.to/robbiecahill/how-to-use-tunnelmole-as-a-reverse-proxy-the-open-source-approach-1iej)
-- [🌟 Kubernetes for Everyone: What, Why &amp; How It Compares to Docker Swarm](https://dev.to/sovannaro/kubernetes-for-everyone-what-why-how-it-compares-to-docker-swarm-40ma)
+- [What’s the smartest AI tool you’ve actually built? I’ll go first — and I want to see yours.](https://dev.to/alifar/whats-the-smartest-ai-tool-youve-actually-built-ill-go-first-and-i-want-to-see-yours-144f)
+- [What’s the Coolest AI Tool You’ve Actually Built? I’ll Go First](https://dev.to/alifar/whats-the-coolest-ai-tool-youve-actually-built-ill-go-first-255l)
+- [Revolutionize Your DevOps Workflow with GitHub Actions](https://dev.to/vjnvisakh/revolutionize-your-devops-workflow-with-github-actions-3024)
+- [[Boost]](https://dev.to/lordbrainoferror/-3o7k)
+- [What Is Predictive Analytics? Definition, Features &amp; Use Cases](https://dev.to/powerdrill_ai/what-is-predictive-analytics-definition-features-use-cases-2gg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
