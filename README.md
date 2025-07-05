@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI Assistant for Smarter Search experience in Firefox](https://dev.to/dfumg_e7873759c4024089bc3/an-ai-assistant-for-smarter-search-experience-in-firefox-36b6)
-- [Junie uses Sonnet models](https://dev.to/ozkanpakdil/junie-uses-sonnet-models-2793)
-- [My Git Learning Journey: From git init to git rebase 🚀](https://dev.to/sahillearninglinux/my-git-learning-journey-from-git-init-to-git-rebase-1d91)
-- [Contextual chunking for Retrieval Augmented Generation](https://dev.to/lewis_won/contextual-chunking-for-retrieval-augmented-generation-3lha)
-- [Build and Deploy a Fullstack AI App with Flask, React, JWT, Neon Database, Mistral &amp; Groq Cloud – Project Milo Part 1 &lpar;Backend&rpar;](https://dev.to/osiris8/build-and-deploy-a-fullstack-ai-app-with-flask-react-jwt-neon-database-mistral-groq-cloud--42ce)
+- [Top Fractional CMO Agencies for Custom Software Development Firms](https://dev.to/danylo_fedirko_e38be56528/top-fractional-cmo-agencies-for-custom-software-development-firms-4071)
+- [🔐 How to Reset MySQL Root Password &lpar;Windows - Beginner Friendly&rpar;](https://dev.to/nuwandev/how-to-reset-mysql-root-password-windows-beginner-friendly-2006)
+- [TypeScript’s Most Important Concept, Made Stupidly Simple&lpar;Generics!&rpar;&lpar;11&rpar;](https://dev.to/wisdombits/typescripts-most-important-concept-made-stupidly-simplegenerics11-26hn)
+- [🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks](https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3)
+- [Stop Struggling with AI Prompts - This Agent Does the Heavy Lifting for You &lpar;Universal Agent Prompt Generator&rpar;](https://dev.to/ximet/stop-struggling-with-ai-prompts-this-agent-does-the-heavy-lifting-for-you-universal-agent-prompt-3c82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
