@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SyllabusBuddy: Free BCA/MCA Notes, Projects &amp; Papers for MSU, AKTU, CCSU &amp; UP Universities](https://dev.to/niveshbansal07/syllabusbuddy-free-bcamca-notes-projects-papers-for-msu-aktu-ccsu-up-universities-522k)
-- [🚀 The Future of Web Development in 2025: What&#39;s Hot, What&#39;s Not &amp; What&#39;s Next](https://dev.to/ar_87/the-future-of-web-development-in-2025-whats-hot-whats-not-whats-next-486n)
-- [SIMD Vectorized Computing](https://dev.to/member_a07758c4/simd-vectorized-computing-3jc3)
-- [CS Student Growth Trajectory](https://dev.to/member_4731f562/cs-student-growth-trajectory-5g59)
-- [The epicenter of innovation and excellence in the realm of mining and water well drilling equipment. With a legacy of empowering projects across the globe, we stand at the forefront of delivering precision, efficiency, and versatility to the drilling indus](https://dev.to/sam_f3a7fd0266fd3b13e6016/the-epicenter-of-innovation-and-excellence-in-the-realm-of-mining-and-water-well-drilling-51me)
+- [Code Readability Techniques](https://dev.to/member_4731f562/code-readability-techniques-453b)
+- [Function overloading](https://dev.to/chhavi_joshi_ede276cfcc06/function-overloading-4gf)
+- [Shopping List - A Must Know React Javascript problem for any Frontend Interview &lpar;Part 2&rpar;](https://dev.to/olumidesamuel_/shopping-list-a-must-know-react-javascript-problem-for-any-frontend-interview-part-2-2dnm)
+- [Shopping List - A Must Know Vanilla Javascript problem for any Frontend Interview &lpar;Part 1&rpar;](https://dev.to/olumidesamuel_/shopping-list-a-must-know-vanilla-javascript-problem-for-any-frontend-interview-part-1-8ik)
+- [Career Planning for CS Students](https://dev.to/member_a07758c4/career-planning-for-cs-students-4pn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
