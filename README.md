@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL Tutorial: From Basic Queries to Advanced Joins](https://dev.to/suraj_kumar_fb57ae0928df2/mysql-tutorial-from-basic-queries-to-advanced-joins-1an3)
-- [Environment Configuration Testing](https://dev.to/member_4731f562/environment-configuration-testing-5g8i)
-- [Private &lpar;Protected&rpar; and Public Routes in React Router v6 – with Real-Time MERN Stack Example](https://dev.to/nightfury/private-protected-and-public-routes-in-react-router-v6-with-real-time-mern-stack-example-3fmk)
-- [Student Project Management Guide](https://dev.to/member_a07758c4/student-project-management-guide-fb2)
-- [When Should You Use Server-Side Rendering &lpar;SSR&rpar;?](https://dev.to/akdevcraft/when-should-you-use-server-side-rendering-ssr-3a5a)
+- [SyllabusBuddy: Free BCA/MCA Notes, Projects &amp; Papers for MSU, AKTU, CCSU &amp; UP Universities](https://dev.to/niveshbansal07/syllabusbuddy-free-bcamca-notes-projects-papers-for-msu-aktu-ccsu-up-universities-522k)
+- [🚀 The Future of Web Development in 2025: What&#39;s Hot, What&#39;s Not &amp; What&#39;s Next](https://dev.to/ar_87/the-future-of-web-development-in-2025-whats-hot-whats-not-whats-next-486n)
+- [SIMD Vectorized Computing](https://dev.to/member_a07758c4/simd-vectorized-computing-3jc3)
+- [CS Student Growth Trajectory](https://dev.to/member_4731f562/cs-student-growth-trajectory-5g59)
+- [The epicenter of innovation and excellence in the realm of mining and water well drilling equipment. With a legacy of empowering projects across the globe, we stand at the forefront of delivering precision, efficiency, and versatility to the drilling indus](https://dev.to/sam_f3a7fd0266fd3b13e6016/the-epicenter-of-innovation-and-excellence-in-the-realm-of-mining-and-water-well-drilling-51me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
