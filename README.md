@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperlane Framework Learning Journey Basic Setup](https://dev.to/member_a07758c4/hyperlane-framework-learning-journey-basic-setup-24ei)
-- [Memory Pool Design Patterns](https://dev.to/member_4731f562/memory-pool-design-patterns-45ah)
-- [Laravel&#39;de Sentry Kullanımı: Hata İzleme ve Performans Monitörü için Kapsamlı Rehber](https://dev.to/arasosman/laravelde-sentry-kullanimi-hata-izleme-ve-performans-monitoru-icin-kapsamli-rehber-4hc5)
-- [Daily Calendar Optimization Workflow](https://dev.to/radiant1/daily-calendar-optimization-workflow-3l5l)
-- [Technical Blog Writing Guide](https://dev.to/member_a07758c4/technical-blog-writing-guide-34li)
+- [📋My own HLD designer - Darwin](https://dev.to/sroy8091/my-own-hld-designer-darwin-57np)
+- [Pandas Rename Column: The First Step to Cleaner, Smarter Data](https://dev.to/madison_taylor_1e66db05b5/pandas-rename-column-the-first-step-to-cleaner-smarter-data-3ib4)
+- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose](https://dev.to/member_a07758c4/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose-457m)
+- [Thread Smart, Process Hard: Mastering Python&#39;s Parallel Playbook](https://dev.to/moni121189/thread-smart-process-hard-mastering-pythons-parallel-playbook-45c1)
+- [GCP Fundamentals: Dataproc Metastore API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataproc-metastore-api-ema)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
