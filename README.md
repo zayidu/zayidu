@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📋My own HLD designer - Darwin](https://dev.to/sroy8091/my-own-hld-designer-darwin-57np)
-- [Pandas Rename Column: The First Step to Cleaner, Smarter Data](https://dev.to/madison_taylor_1e66db05b5/pandas-rename-column-the-first-step-to-cleaner-smarter-data-3ib4)
-- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose](https://dev.to/member_a07758c4/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose-457m)
-- [Thread Smart, Process Hard: Mastering Python&#39;s Parallel Playbook](https://dev.to/moni121189/thread-smart-process-hard-mastering-pythons-parallel-playbook-45c1)
-- [GCP Fundamentals: Dataproc Metastore API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataproc-metastore-api-ema)
+- [Web Development Learning Path](https://dev.to/member_a07758c4/web-development-learning-path-4bbj)
+- [Memory Safety in Web Rust System Zero Cost Secure](https://dev.to/member_4731f562/memory-safety-in-web-rust-system-zero-cost-secure-4g90)
+- [Umemura Farm Website – Devlog #26: Building a Purchase Section Structuring Flow with Clean UX and Scalable Structure](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-26-building-a-purchase-section-structuring-flow-with-clean-ux-and-eia)
+- [🪪 Understanding AWS IAM Roles, STS, and Trust Policies – With a Real-Life Analogy](https://dev.to/arun_jagtap_d40408a4d4b5e/understanding-aws-iam-roles-sts-and-trust-policies-with-a-real-life-analogy-50af)
+- [STEPS ON HOW TO LAUNCH AN APACHE WEB SERVER USING EC2 INSTANCE](https://dev.to/augustine_okwaraebuzie_4e/steps-on-how-to-launch-an-apache-web-server-using-ec2-instance-3i0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
