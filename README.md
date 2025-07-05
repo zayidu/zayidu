@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pencil Portrait App](https://dev.to/mdgreen18/pencil-portrait-app-4i1l)
-- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-42oh)
-- [Turn Text into Sound: A Simple &amp; Smart Way to Voice Your Words](https://dev.to/ahmed_azeem_85256e77952e6/turn-text-into-sound-a-simple-smart-way-to-voice-your-words-1oe5)
-- [Get your startup logo in seconds](https://dev.to/member_26847952/get-your-startup-logo-in-seconds-4kp5)
-- [O clean code não vai deixar sua aplicação mais veloz](https://dev.to/alexdlli/o-clean-code-nao-vai-deixar-sua-aplicacao-mais-veloz-293i)
+- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications](https://dev.to/member_a07758c4/event-stream-processing-architecture-pattern-best-practices-in-real-time-applications-3lm5)
+- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-3o8m)
+- [Customer Complaint Analyzer](https://dev.to/dmatheusccs/customer-complaint-analyzer-3aa3)
+- [MongoDB Transactions in Node.js: Complete Guide with Real Examples](https://dev.to/arnavsharma2711/mongodb-transactions-in-nodejs-complete-guide-with-real-examples-28fl)
+- [Plugin System Design How to Build Extensible Framework Core Architecture](https://dev.to/member_a07758c4/plugin-system-design-how-to-build-extensible-framework-core-architecture-3djd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
