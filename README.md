@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python - Methods, Variables &amp; Data structures.](https://dev.to/guhanathan/python-methods-variables-data-structures-35k7)
-- [Application and Evolution of Patterns in Programming ization of Classic Patterns](https://dev.to/member_a07758c4/application-and-evolution-of-patterns-in-programming-ization-of-classic-patterns-1bn8)
-- [Best AI Testing Tools](https://dev.to/tokyodal/best-ai-testing-tools-2ffm)
-- [The Top 7 AI Testing Tools Every Developer Should Know in 2025](https://dev.to/tokyodal/the-top-7-ai-testing-tools-every-developer-should-know-in-2025-4gjh)
-- [[Boost]](https://dev.to/rakeshv675/-3ha8)
+- [🚀 Building a Responsive Layout in 2025: CSS Grid vs Flexbox vs Container Queries](https://dev.to/smriti_webdev/building-a-responsive-layout-in-2025-css-grid-vs-flexbox-vs-container-queries-234m)
+- [🔐What, Why, How, Where, When of AWS CloudHSM...](https://dev.to/cloud_man/what-why-how-where-when-of-aws-cloudhsm-ik8)
+- [Why Teaching Our Kids About Their Tech Is More Important Than Ever](https://dev.to/jliter/why-teaching-our-kids-about-their-tech-is-more-important-than-ever-2485)
+- [DAY 4 OF CSS](https://dev.to/raizo03/day-4-of-css-1840)
+- [Begin with JMerter - J1](https://dev.to/tester_learn_testing/begin-with-jmerter-j1-he1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
