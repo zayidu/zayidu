@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Learning Path](https://dev.to/member_a07758c4/web-development-learning-path-4bbj)
-- [Memory Safety in Web Rust System Zero Cost Secure](https://dev.to/member_4731f562/memory-safety-in-web-rust-system-zero-cost-secure-4g90)
-- [Umemura Farm Website – Devlog #26: Building a Purchase Section Structuring Flow with Clean UX and Scalable Structure](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-26-building-a-purchase-section-structuring-flow-with-clean-ux-and-eia)
-- [🪪 Understanding AWS IAM Roles, STS, and Trust Policies – With a Real-Life Analogy](https://dev.to/arun_jagtap_d40408a4d4b5e/understanding-aws-iam-roles-sts-and-trust-policies-with-a-real-life-analogy-50af)
-- [STEPS ON HOW TO LAUNCH AN APACHE WEB SERVER USING EC2 INSTANCE](https://dev.to/augustine_okwaraebuzie_4e/steps-on-how-to-launch-an-apache-web-server-using-ec2-instance-3i0k)
+- [Meet HSTCalculator.Onl – Canada’s Free &amp; Private GST/HST Calculator](https://dev.to/hstcalculatoronl/meet-hstcalculatoronl-canadas-free-private-gsthst-calculator-3n6m)
+- [An Architectural Paradigm for Stateful, Learning, and Cost-Efficient AI](https://dev.to/tlrag/an-architectural-paradigm-for-stateful-learning-and-cost-efficient-ai-3jg3)
+- [Message Queue Architecture Patterns](https://dev.to/member_4731f562/message-queue-architecture-patterns-21c4)
+- [Computer Science Student Journey Web Expert](https://dev.to/member_4731f562/computer-science-student-journey-web-expert-5cm0)
+- [Know Your Dealer: npm&#39;s Security Features You&#39;re Not Using](https://dev.to/cordlesswool/know-your-dealer-npms-security-features-youre-not-using-466o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
