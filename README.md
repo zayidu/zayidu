@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet HSTCalculator.Onl – Canada’s Free &amp; Private GST/HST Calculator](https://dev.to/hstcalculatoronl/meet-hstcalculatoronl-canadas-free-private-gsthst-calculator-3n6m)
-- [An Architectural Paradigm for Stateful, Learning, and Cost-Efficient AI](https://dev.to/tlrag/an-architectural-paradigm-for-stateful-learning-and-cost-efficient-ai-3jg3)
-- [Message Queue Architecture Patterns](https://dev.to/member_4731f562/message-queue-architecture-patterns-21c4)
-- [Computer Science Student Journey Web Expert](https://dev.to/member_4731f562/computer-science-student-journey-web-expert-5cm0)
-- [Know Your Dealer: npm&#39;s Security Features You&#39;re Not Using](https://dev.to/cordlesswool/know-your-dealer-npms-security-features-youre-not-using-466o)
+- [Middleware Architecture Patterns Cross Cutting Web](https://dev.to/member_a07758c4/middleware-architecture-patterns-cross-cutting-web-2584)
+- [How to Create a React App with Vite and Tailwind &lpar;Beginner Guide&rpar;](https://dev.to/webtechnology_tutorials_f/how-to-create-a-react-app-with-vite-and-tailwind-beginner-guide-1l39)
+- [__getitem__ &amp; __setitem__ in Python &lpar;1&rpar;](https://dev.to/hyperkai/getitem-setitem-in-python-1-5lm)
+- [Memory Safety and Ultimate Performance Finding Perfect Balance in Rust](https://dev.to/member_4731f562/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust-2cko)
+- [Why Flutter Developers Are Replacing Android Studio with VS Code and Cursor 🚀](https://dev.to/zainulabdeenofficial/why-flutter-developers-are-replacing-android-studio-with-vs-code-and-cursor-nn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
