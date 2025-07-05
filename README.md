@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications](https://dev.to/member_a07758c4/event-stream-processing-architecture-pattern-best-practices-in-real-time-applications-3lm5)
-- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-3o8m)
-- [Customer Complaint Analyzer](https://dev.to/dmatheusccs/customer-complaint-analyzer-3aa3)
-- [MongoDB Transactions in Node.js: Complete Guide with Real Examples](https://dev.to/arnavsharma2711/mongodb-transactions-in-nodejs-complete-guide-with-real-examples-28fl)
-- [Plugin System Design How to Build Extensible Framework Core Architecture](https://dev.to/member_a07758c4/plugin-system-design-how-to-build-extensible-framework-core-architecture-3djd)
+- [Travel Agent](https://dev.to/julsr_mx/travel-agent-jlb)
+- [ShieldEye - Automated Vulnerability Scanner](https://dev.to/exiv703/shieldeye-automated-vulnerability-scanner-4ilm)
+- [One Checkbox to Cloud: Migrating from Tosca DEX Agents to E2G](https://dev.to/johnjvester/one-checkbox-to-cloud-migrating-from-tosca-dex-agents-to-e2g-43de)
+- [Memory Leak Terminator How Type Safety Saved My Graduation Project](https://dev.to/member_a07758c4/memory-leak-terminator-how-type-safety-saved-my-graduation-project-56nd)
+- [Ever wondered if it&#39;s possible to manipulate client-side JavaScript code &lpar;React, Vue, Angular, etc.&rpar; on the browser? The code is easily accessible in the &quot;Sources&quot; tab under the DevTools section. I&#39;ve written this blog after thorough research!](https://dev.to/hamdankhan364/ever-wondered-if-its-possible-to-manipulate-client-side-javascript-code-react-vue-angular-13bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
