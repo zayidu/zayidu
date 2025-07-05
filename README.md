@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
-- [Modern Web Architecture Type Safety Error Best](https://dev.to/member_a07758c4/modern-web-architecture-type-safety-error-best-2ioh)
-- [Routing System Philosophy Evolution from Static Matching to Dynamic Resolution](https://dev.to/member_a07758c4/routing-system-philosophy-evolution-from-static-matching-to-dynamic-resolution-3kjg)
-- [How to Connect to Amazon DocumentDB with Python &lpar;`pymongo`&rpar;](https://dev.to/dm8ry/how-to-connect-to-amazon-documentdb-with-python-pymongo-5e98)
-- [🧠 AI Tools Tracker Agent – Weekly Curator of the Newest AI Tools](https://dev.to/shaazy21/ai-tools-tracker-agent-weekly-curator-of-the-newest-ai-tools-4hai)
+- [Python - Methods, Variables &amp; Data structures.](https://dev.to/guhanathan/python-methods-variables-data-structures-35k7)
+- [Application and Evolution of Patterns in Programming ization of Classic Patterns](https://dev.to/member_a07758c4/application-and-evolution-of-patterns-in-programming-ization-of-classic-patterns-1bn8)
+- [Best AI Testing Tools](https://dev.to/tokyodal/best-ai-testing-tools-2ffm)
+- [The Top 7 AI Testing Tools Every Developer Should Know in 2025](https://dev.to/tokyodal/the-top-7-ai-testing-tools-every-developer-should-know-in-2025-4gjh)
+- [[Boost]](https://dev.to/rakeshv675/-3ha8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
