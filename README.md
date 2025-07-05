@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In Cursor, Context is King.](https://dev.to/gvegacl/in-cursor-context-is-king-3ai7)
-- [Cross Platform Universal Applications](https://dev.to/member_a07758c4/cross-platform-universal-applications-2i3o)
-- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-8kj)
-- [Java Architecture](https://dev.to/bharad_s/java-architecture-3n6h)
-- [Day 15/100: Lambda Functions – Python&#39;s Anonymous One-Liners](https://dev.to/therahul_gupta/day-15100-lambda-functions-pythons-anonymous-one-liners-1iio)
+- [🚀 Just launched our Android MVP for Reelora — a movie discovery app made with Flutter + Firebase. Key things we built:](https://dev.to/dilip_kumardk_b41b9418/just-launched-our-android-mvp-for-reelora-a-movie-discovery-app-made-with-flutter-firebase-2jnp)
+- [Storage Engines](https://dev.to/betelgeuseas/storage-engines-2loi)
+- [How to Troubleshoot AWS ACM Certificate CAA Errors with Third-Party DNS Providers](https://dev.to/aws-builders/how-to-troubleshoot-aws-acm-certificate-caa-errors-with-third-party-dns-providers-36ba)
+- [🚀Mastering the One-Month Trial of GitHub Copilot Pro: A Developer’s Power Guide](https://dev.to/allthingscoding/mastering-the-one-month-trial-of-github-copilot-pro-a-developers-power-guide-40gk)
+- [Continuous Learning in Tech Field](https://dev.to/member_a07758c4/continuous-learning-in-tech-field-30b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
