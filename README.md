@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Responsive Layout in 2025: CSS Grid vs Flexbox vs Container Queries](https://dev.to/smriti_webdev/building-a-responsive-layout-in-2025-css-grid-vs-flexbox-vs-container-queries-234m)
-- [🔐What, Why, How, Where, When of AWS CloudHSM...](https://dev.to/cloud_man/what-why-how-where-when-of-aws-cloudhsm-ik8)
-- [Why Teaching Our Kids About Their Tech Is More Important Than Ever](https://dev.to/jliter/why-teaching-our-kids-about-their-tech-is-more-important-than-ever-2485)
-- [DAY 4 OF CSS](https://dev.to/raizo03/day-4-of-css-1840)
-- [Begin with JMerter - J1](https://dev.to/tester_learn_testing/begin-with-jmerter-j1-he1)
+- [How to Refactor Chaotic JavaScript Code: A Step-by-Step Guide](https://dev.to/andriy_ovcharov_312ead391/how-to-refactor-chaotic-javascript-code-a-step-by-step-guide-56e9)
+- [NodeJS Fundamentals: Parcel](https://dev.to/devopsfundamentals/nodejs-fundamentals-parcel-3i5e)
+- [Functional Programming in Web](https://dev.to/member_a07758c4/functional-programming-in-web-1b7f)
+- [Must-Have Visual Studio Code Extensions for Every Developer](https://dev.to/mrcaption49/extension-3o1c)
+- [Fruit Sales Invoice Generator](https://dev.to/capjud95/fruit-sales-invoice-generator-runner-hackaton-ll6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
