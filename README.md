@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure My FastAPI Projects for Clean, Scalable Code](https://dev.to/m_muhd8/how-i-structure-my-fastapi-projects-for-clean-scalable-code-594n)
-- [Programming Entry Level: learn linux](https://dev.to/devopsfundamentals/programming-entry-level-learn-linux-130i)
-- [🚀 Frontend Roadmap 2025 for Absolute Beginners &lpar;With Free Resources&rpar;](https://dev.to/yaldakhoshpey/frontend-roadmap-2025-for-absolute-beginners-with-free-resources-3c2o)
-- [How to Write a CV That Matches Today’s Hiring Standards](https://dev.to/david_jone/how-to-write-a-cv-that-matches-todays-hiring-standards-5889)
-- [Day night cycle](https://dev.to/waste_land_0202106205ae31/day-night-cycle-5ghp)
+- [Hyperlane Framework Learning Journey Basic Setup](https://dev.to/member_a07758c4/hyperlane-framework-learning-journey-basic-setup-24ei)
+- [Memory Pool Design Patterns](https://dev.to/member_4731f562/memory-pool-design-patterns-45ah)
+- [Laravel&#39;de Sentry Kullanımı: Hata İzleme ve Performans Monitörü için Kapsamlı Rehber](https://dev.to/arasosman/laravelde-sentry-kullanimi-hata-izleme-ve-performans-monitoru-icin-kapsamli-rehber-4hc5)
+- [Daily Calendar Optimization Workflow](https://dev.to/radiant1/daily-calendar-optimization-workflow-3l5l)
+- [Technical Blog Writing Guide](https://dev.to/member_a07758c4/technical-blog-writing-guide-34li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
