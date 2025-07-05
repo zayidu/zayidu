@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Just launched our Android MVP for Reelora — a movie discovery app made with Flutter + Firebase. Key things we built:](https://dev.to/dilip_kumardk_b41b9418/just-launched-our-android-mvp-for-reelora-a-movie-discovery-app-made-with-flutter-firebase-2jnp)
-- [Storage Engines](https://dev.to/betelgeuseas/storage-engines-2loi)
-- [How to Troubleshoot AWS ACM Certificate CAA Errors with Third-Party DNS Providers](https://dev.to/aws-builders/how-to-troubleshoot-aws-acm-certificate-caa-errors-with-third-party-dns-providers-36ba)
-- [🚀Mastering the One-Month Trial of GitHub Copilot Pro: A Developer’s Power Guide](https://dev.to/allthingscoding/mastering-the-one-month-trial-of-github-copilot-pro-a-developers-power-guide-40gk)
-- [Continuous Learning in Tech Field](https://dev.to/member_a07758c4/continuous-learning-in-tech-field-30b5)
+- [Pencil Portrait App](https://dev.to/mdgreen18/pencil-portrait-app-4i1l)
+- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-42oh)
+- [Turn Text into Sound: A Simple &amp; Smart Way to Voice Your Words](https://dev.to/ahmed_azeem_85256e77952e6/turn-text-into-sound-a-simple-smart-way-to-voice-your-words-1oe5)
+- [Get your startup logo in seconds](https://dev.to/member_26847952/get-your-startup-logo-in-seconds-4kp5)
+- [O clean code não vai deixar sua aplicação mais veloz](https://dev.to/alexdlli/o-clean-code-nao-vai-deixar-sua-aplicacao-mais-veloz-293i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
