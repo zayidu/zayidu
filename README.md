@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Refactor Chaotic JavaScript Code: A Step-by-Step Guide](https://dev.to/andriy_ovcharov_312ead391/how-to-refactor-chaotic-javascript-code-a-step-by-step-guide-56e9)
-- [NodeJS Fundamentals: Parcel](https://dev.to/devopsfundamentals/nodejs-fundamentals-parcel-3i5e)
-- [Functional Programming in Web](https://dev.to/member_a07758c4/functional-programming-in-web-1b7f)
-- [Must-Have Visual Studio Code Extensions for Every Developer](https://dev.to/mrcaption49/extension-3o1c)
-- [Fruit Sales Invoice Generator](https://dev.to/capjud95/fruit-sales-invoice-generator-runner-hackaton-ll6)
+- [An AI Assistant for Smarter Search experience in Firefox](https://dev.to/dfumg_e7873759c4024089bc3/an-ai-assistant-for-smarter-search-experience-in-firefox-36b6)
+- [Junie uses Sonnet models](https://dev.to/ozkanpakdil/junie-uses-sonnet-models-2793)
+- [My Git Learning Journey: From git init to git rebase 🚀](https://dev.to/sahillearninglinux/my-git-learning-journey-from-git-init-to-git-rebase-1d91)
+- [Contextual chunking for Retrieval Augmented Generation](https://dev.to/lewis_won/contextual-chunking-for-retrieval-augmented-generation-3lha)
+- [Build and Deploy a Fullstack AI App with Flask, React, JWT, Neon Database, Mistral &amp; Groq Cloud – Project Milo Part 1 &lpar;Backend&rpar;](https://dev.to/osiris8/build-and-deploy-a-fullstack-ai-app-with-flask-react-jwt-neon-database-mistral-groq-cloud--42ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
