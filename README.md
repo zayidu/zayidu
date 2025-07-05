@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution in 2025: Top Trends Every Developer Should Know](https://dev.to/jeff_pegg_97454b18784a524/the-ai-revolution-in-2025-top-trends-every-developer-should-know-5e4l)
-- [The &quot;Agent&quot; in Agentic AI Is a Marketing Term](https://dev.to/jeff_pegg_97454b18784a524/the-agent-in-agentic-ai-is-a-marketing-term-379d)
-- [Next Generation High Web Rust Based Solutions](https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-40gi)
-- [AI Summarization Agent🧾 in 7 minutes! 🔥](https://dev.to/vamsidogiparthi/ai-summarization-agent-in-7-minutes-j14)
-- [Web Application Security Input Protection Common](https://dev.to/member_a07758c4/web-application-security-input-protection-common-4c00)
+- [🌱💻 Gemini’s Quiet Revolution: Transform Your Draft, Define Your Brand 🧩✨](https://dev.to/divyasinghdev/geminis-quiet-revolution-transform-your-draft-define-your-brand-1nci)
+- [PolicyPilotPro was built entirely using Bolt.new in less than 48 hours](https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc)
+- [A Deep Dive into Go&#39;s sync.Once](https://dev.to/leapcell/a-deep-dive-into-gos-synconce-3inn)
+- [The strategy evolves when the platform changes](https://dev.to/rafaelcg/the-strategy-evolves-when-the-platform-changes-5d48)
+- [WebSocket Real Time Communication Guide](https://dev.to/member_a07758c4/websocket-real-time-communication-guide-1klk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
