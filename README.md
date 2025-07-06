@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OmniVeo: Built Across Timezones, Fueled by Grit](https://dev.to/shannon_long_e095ea948f1f/omniveo-built-across-timezones-fueled-by-grit-4588)
-- [I built an AI agent that helps you improve your LLM apps — automatically.](https://dev.to/suzuki_yuto_786e3bc445acb/-gg3)
-- [Never Miss a Local Meetup Again! 🚀](https://dev.to/dirsebastian/never-miss-a-local-meetup-again-1imd)
-- [Welcome, The Future of Journalism Is Here: AI-Powered News Sentiment Agent](https://dev.to/diosamuel/welcome-the-future-of-journalism-is-here-ai-powered-news-sentiment-agent-4f66)
-- [How I Built a Witcher Character Creator in 2 Hours with Google AI Studio.](https://dev.to/jerrdasur/how-i-built-a-witcher-character-creator-in-2-hours-with-google-ai-studio-5018)
+- [Manage stock calculation product variation package in WP](https://dev.to/dicky54putra/manage-stock-calculation-product-variation-package-in-wp-3c5c)
+- [Deno 2.4 brings back deno bundle, GitHub Copilot Chat is now open source, Minecraft built in 100% CSS, and more](https://dev.to/thisweekinjavascript/deno-24-brings-back-deno-bundle-github-copilot-chat-is-now-open-source-minecraft-built-in-100-1o8d)
+- [14+ Open Source Tools Every Developer Should Know in 2025 🔥](https://dev.to/dev-arafat-alim/14-open-source-tools-every-developer-should-know-in-2025-5f6e)
+- [Next Generation High Web Rust Based Solutions](https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-cce)
+- [Вебинар | Пошаговое введение в Docs as Code с практическими примерами и личным опытом](https://dev.to/__c87c/viebinar-poshaghovoie-vviedieniie-v-docs-as-code-s-praktichieskimi-primierami-i-lichnym-opytom-3c7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
