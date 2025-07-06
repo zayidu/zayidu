@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Systematic Thinking Development](https://dev.to/member_a07758c4/systematic-thinking-development-49e1)
-- [JDK 24 Deep Dive - Part 3: Concurrency, I/O, and Migration Mastery](https://dev.to/code_performance/jdk-24-deep-dive-part-3-concurrency-io-and-migration-mastery-2ka0)
-- [JDK 24 Deep Dive - Part 2: Advanced APIs and Security Revolution](https://dev.to/code_performance/jdk-24-deep-dive-part-2-advanced-apis-and-security-revolution-2db7)
-- [2 Months of Startups Lab: The Journey So Far](https://dev.to/hardikgohilhlr/2-months-of-startups-lab-the-journey-so-far-ch0)
-- [Understanding Python Memory and Garbage Collection Through Hands-On Experiments](https://dev.to/kfir-g/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-4g0p)
+- [Блог | Руководство по быстрому освоению незнакомого приложения через системное тестирование](https://dev.to/__c87c/blogh-rukovodstvo-po-bystromu-osvoieniiu-nieznakomogho-prilozhieniia-chieriez-sistiemnoie-tiestirovaniie-20n1)
+- [Create Raw Loader Plugin for NX Angular Application Executor](https://dev.to/shhdharmen/create-raw-loader-plugin-for-nx-angular-application-executor-42hi)
+- [How I Mastered JavaScript – 4 Concepts That Shifted My Mindset](https://dev.to/saketh_behara_ba83067fd4a/how-i-mastered-javascript-4-concepts-that-shifted-my-mindset-2dnh)
+- [Code Evolution Strategies](https://dev.to/member_a07758c4/code-evolution-strategies-5fk0)
+- [I realy need help, it can make my life better.](https://dev.to/shaheen_amjed_41de8050d49/i-realy-need-help-it-can-make-my-life-better-4afn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
