@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Connection Management](https://dev.to/member_a07758c4/long-connection-management-3kg)
-- [How Browsers Parse and Render HTML: From Request to Paint](https://dev.to/ayush_maurya_/how-browsers-parse-and-render-html-from-request-to-paint-1ogp)
-- [Big Data Fundamentals: hive project](https://dev.to/devopsfundamentals/big-data-fundamentals-hive-project-1e27)
-- [Zero To Mastery AI Researcher &amp; Engineer &lpar;in development&rpar;](https://dev.to/vuk_rosic/zero-to-mastery-ai-researcher-engineer-in-development-amg)
-- [Top 5 Reasons This Anime Landing Page Built with React &amp; Framer Motion Will Blow Your Mind](https://dev.to/er-raj-aryan/top-5-reasons-this-anime-landing-page-built-with-react-framer-motion-will-blow-your-mind-h08)
+- [Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery](https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml)
+- [Is Node.js Single Threaded or Multithreaded?](https://dev.to/kiani0x01/is-nodejs-single-threaded-or-multithreaded-p8m)
+- [From SEO to Software: My Journey into Full-Stack Development](https://dev.to/mrsquid45/from-seo-to-software-my-journey-into-full-stack-development-522c)
+- [#1 Introduction to Python](https://dev.to/prakash_vinukonda_363ed4b/1-introduction-to-python-2651)
+- [🧑‍💻 New Portfolio Template Released!](https://dev.to/sathishk_dev/new-portfolio-template-released-1ghg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
