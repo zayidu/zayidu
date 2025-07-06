@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱💻 Gemini’s Quiet Revolution: Transform Your Draft, Define Your Brand 🧩✨](https://dev.to/divyasinghdev/geminis-quiet-revolution-transform-your-draft-define-your-brand-1nci)
-- [PolicyPilotPro was built entirely using Bolt.new in less than 48 hours](https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc)
-- [A Deep Dive into Go&#39;s sync.Once](https://dev.to/leapcell/a-deep-dive-into-gos-synconce-3inn)
-- [The strategy evolves when the platform changes](https://dev.to/rafaelcg/the-strategy-evolves-when-the-platform-changes-5d48)
-- [WebSocket Real Time Communication Guide](https://dev.to/member_a07758c4/websocket-real-time-communication-guide-1klk)
+- [Memory Pool Design Patterns](https://dev.to/member_a07758c4/memory-pool-design-patterns-2l70)
+- [🛡️ DigitalGuardian – AI Agent for Subscription Auditing &amp; Digital After-Life Planning](https://dev.to/sajjad_01/digitalguardian-ai-agent-for-subscription-auditing-digital-after-life-planning-5gei)
+- [AWS Fundamentals: Ecs](https://dev.to/devopsfundamentals/aws-fundamentals-ecs-441d)
+- [Java from JPEGs: How AI Turns App Screenshots into Android Code](https://dev.to/atforeveryoung/java-from-jpegs-how-ai-turns-app-screenshots-into-android-code-1nf3)
+- [Open Source Contribution Guide](https://dev.to/member_a07758c4/open-source-contribution-guide-3mde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
