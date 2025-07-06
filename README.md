@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Redis Multi-Cache: A Complete Guide](https://dev.to/devcorner/spring-boot-redis-multi-cache-a-complete-guide-1pff)
-- [🚧 Scope Will Creep - Your Job Is to Tame It, Not Eliminate It](https://dev.to/mohammad_ajouri/scope-will-creep-your-job-is-to-tame-it-not-eliminate-it-2p5n)
-- [Portfolio Gallary with Angular 20, Tailwind CSS 4, and Material Design](https://dev.to/prasunchakra/portfolio-gallary-with-angular-20-tailwind-css-4-and-material-design-1757)
-- [AI Menu Visualizer: Bringing Restaurant Menus to Life](https://dev.to/williamhatch/ai-menu-visualizer-bringing-restaurant-menus-to-life-1g76)
-- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4ce)
+- [Systematic Thinking Development](https://dev.to/member_a07758c4/systematic-thinking-development-49e1)
+- [JDK 24 Deep Dive - Part 3: Concurrency, I/O, and Migration Mastery](https://dev.to/code_performance/jdk-24-deep-dive-part-3-concurrency-io-and-migration-mastery-2ka0)
+- [JDK 24 Deep Dive - Part 2: Advanced APIs and Security Revolution](https://dev.to/code_performance/jdk-24-deep-dive-part-2-advanced-apis-and-security-revolution-2db7)
+- [2 Months of Startups Lab: The Journey So Far](https://dev.to/hardikgohilhlr/2-months-of-startups-lab-the-journey-so-far-ch0)
+- [Understanding Python Memory and Garbage Collection Through Hands-On Experiments](https://dev.to/kfir-g/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-4g0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
