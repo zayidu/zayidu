@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Блог | MailHog упрощает тестирование отправки email в .NET проектах без риска отправки реальных писем](https://dev.to/__c87c/blogh-mailhog-uproshchaiet-tiestirovaniie-otpravki-email-v-net-proiektakh-biez-riska-otpravki-riealnykh-ohk)
-- [Practice of Test Driven Development Strategy from Unit Testing to Integration Testing](https://dev.to/member_a07758c4/practice-of-test-driven-development-strategy-from-unit-testing-to-integration-testing-1g4m)
-- [A New Technology You Should Know: Sniffnet](https://dev.to/kpcofgs/-a-new-technology-you-should-know-sniffnet-1gg0)
-- [How I Would Learn System Design in 2025 &lpar;If I Had to Start Over&rpar;](https://dev.to/somadevtoo/how-i-would-learn-system-design-in-2025-if-i-had-to-start-over-2e00)
-- [Top Web3 Automation Tools in 2025 &lpar;Reviewed &amp; Compared&rpar;](https://dev.to/devonremote/top-web3-automation-tools-in-2025-reviewed-compared-147k)
+- [🧱 Would You Tell a Builder Where to Place the First Brick?](https://dev.to/ethernmyth/would-you-tell-a-builder-where-to-place-the-first-brick-3hk8)
+- [100K QPS Web Server Design](https://dev.to/member_a07758c4/100k-qps-web-server-design-4i0a)
+- [Calculator V3 – AI Edition 🧮🤖](https://dev.to/jothiganesh_guntu_/calculator-v3-ai-edition-2639)
+- [[Personal Project7 ] EURO Women&#39;s 2025: Round 1 Finished — Who Wins? Attack vs Defence](https://dev.to/ezeeyeyo/personal-project7-euro-womens-2025-round-1-finished-who-wins-attack-vs-defence-2jmf)
+- [Docker Chapter 1: A Beginner&#39;s Introduction to Containerization.](https://dev.to/wizcoderx/docker-chapter-1-a-beginners-introduction-to-containerization-1eaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
