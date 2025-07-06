@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How did an animator become a cloud engineer?](https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654)
-- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-1hhc)
-- [Inside GitHub Copilot&#39;s Architecture: How AI Code Generation Actually Works in Production](https://dev.to/codetirtho97/inside-github-copilots-architecture-how-ai-code-generation-actually-works-in-production-1b7a)
-- [I built LaunchPad AI](https://dev.to/ai_agi/i-built-launchpad-ai-2973)
-- [Arquiteturas de Software - Cronologia e Informações](https://dev.to/programadriano/arquiteturas-de-software-cronologia-e-informacoes-32)
+- [Is ChatGPT Now Listening? Everything About the New Record Mode](https://dev.to/jovin_george_733dcfc16291/is-chatgpt-now-listening-everything-about-the-new-record-mode-fj6)
+- [Why DevOps engineering ?.](https://dev.to/ifeoma_onyegbumark/why-devops-engineering--n0f)
+- [12 Products in 12 Months - Starting today](https://dev.to/jameshubert_com/12-products-in-12-months-starting-today-4b8j)
+- [PAPIT](https://dev.to/prathoseraaj_v_711b603e67/papit-5cah)
+- [🎯 Vibe Coding with AI Agents: What Actually Works](https://dev.to/sai_samineni/vibe-coding-with-ai-agents-what-actually-works-jnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
