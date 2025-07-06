@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Блог | Руководство по быстрому освоению незнакомого приложения через системное тестирование](https://dev.to/__c87c/blogh-rukovodstvo-po-bystromu-osvoieniiu-nieznakomogho-prilozhieniia-chieriez-sistiemnoie-tiestirovaniie-20n1)
-- [Create Raw Loader Plugin for NX Angular Application Executor](https://dev.to/shhdharmen/create-raw-loader-plugin-for-nx-angular-application-executor-42hi)
-- [How I Mastered JavaScript – 4 Concepts That Shifted My Mindset](https://dev.to/saketh_behara_ba83067fd4a/how-i-mastered-javascript-4-concepts-that-shifted-my-mindset-2dnh)
-- [Code Evolution Strategies](https://dev.to/member_a07758c4/code-evolution-strategies-5fk0)
-- [I realy need help, it can make my life better.](https://dev.to/shaheen_amjed_41de8050d49/i-realy-need-help-it-can-make-my-life-better-4afn)
+- [ORMs Are Annoying! Until You Try Living Without One](https://dev.to/gaurang847/orms-are-annoying-until-you-try-living-without-one-14d6)
+- [Monitor &amp; Alert: Notify Admins When Scheduled Power Automate Flows Are Deactivated &lpar;Using FetchXML&rpar;](https://dev.to/nikhildynamicsce/monitor-alert-notify-admins-when-scheduled-power-automate-flows-are-deactivated-using-fetchxml-5gne)
+- [.NET Learning Notes: Using MailHog with .NET for Email Testing](https://dev.to/alexleeeeeeeeee/net-learning-notes-using-mailhog-with-net-for-email-testing-op4)
+- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_a07758c4/poetry-and-horizon-code-design-future-vision-web-3kd7)
+- [Today i have build my first project...](https://dev.to/suman_07/today-i-have-build-my-first-project-1k79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
