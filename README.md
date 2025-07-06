@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I started tracking my dev journey daily — turns out, it changed everything.](https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g)
-- [Career Planning for CS Students](https://dev.to/member_a07758c4/career-planning-for-cs-students-55km)
-- [Unlock AI’s Hidden Power: The Ultimate Guide to Prompt Engineering](https://dev.to/gabrielhca/unlock-ais-hidden-power-the-ultimate-guide-to-prompt-engineering-c41)
-- [Standard vs Enhanced Data Models in Power Pages](https://dev.to/power365tips/standard-vs-enhanced-data-models-in-power-pages-5214)
-- [Building a Python Metronome with PyQt6: A Guide to Audio and GUI Development](https://dev.to/highcenburg/building-a-python-metronome-with-pyqt6-a-guide-to-audio-and-gui-development-4a0g)
+- [Spring Boot Redis Multi-Cache: A Complete Guide](https://dev.to/devcorner/spring-boot-redis-multi-cache-a-complete-guide-1pff)
+- [🚧 Scope Will Creep - Your Job Is to Tame It, Not Eliminate It](https://dev.to/mohammad_ajouri/scope-will-creep-your-job-is-to-tame-it-not-eliminate-it-2p5n)
+- [Portfolio Gallary with Angular 20, Tailwind CSS 4, and Material Design](https://dev.to/prasunchakra/portfolio-gallary-with-angular-20-tailwind-css-4-and-material-design-1757)
+- [AI Menu Visualizer: Bringing Restaurant Menus to Life](https://dev.to/williamhatch/ai-menu-visualizer-bringing-restaurant-menus-to-life-1g76)
+- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
