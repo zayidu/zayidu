@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is ChatGPT Now Listening? Everything About the New Record Mode](https://dev.to/jovin_george_733dcfc16291/is-chatgpt-now-listening-everything-about-the-new-record-mode-fj6)
-- [Why DevOps engineering ?.](https://dev.to/ifeoma_onyegbumark/why-devops-engineering--n0f)
-- [12 Products in 12 Months - Starting today](https://dev.to/jameshubert_com/12-products-in-12-months-starting-today-4b8j)
-- [PAPIT](https://dev.to/prathoseraaj_v_711b603e67/papit-5cah)
-- [🎯 Vibe Coding with AI Agents: What Actually Works](https://dev.to/sai_samineni/vibe-coding-with-ai-agents-what-actually-works-jnm)
+- [OmniVeo: Built Across Timezones, Fueled by Grit](https://dev.to/shannon_long_e095ea948f1f/omniveo-built-across-timezones-fueled-by-grit-4588)
+- [I built an AI agent that helps you improve your LLM apps — automatically.](https://dev.to/suzuki_yuto_786e3bc445acb/-gg3)
+- [Never Miss a Local Meetup Again! 🚀](https://dev.to/dirsebastian/never-miss-a-local-meetup-again-1imd)
+- [Welcome, The Future of Journalism Is Here: AI-Powered News Sentiment Agent](https://dev.to/diosamuel/welcome-the-future-of-journalism-is-here-ai-powered-news-sentiment-agent-4f66)
+- [How I Built a Witcher Character Creator in 2 Hours with Google AI Studio.](https://dev.to/jerrdasur/how-i-built-a-witcher-character-creator-in-2-hours-with-google-ai-studio-5018)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
