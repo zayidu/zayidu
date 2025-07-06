@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Pool Design Patterns](https://dev.to/member_a07758c4/memory-pool-design-patterns-2l70)
-- [🛡️ DigitalGuardian – AI Agent for Subscription Auditing &amp; Digital After-Life Planning](https://dev.to/sajjad_01/digitalguardian-ai-agent-for-subscription-auditing-digital-after-life-planning-5gei)
-- [AWS Fundamentals: Ecs](https://dev.to/devopsfundamentals/aws-fundamentals-ecs-441d)
-- [Java from JPEGs: How AI Turns App Screenshots into Android Code](https://dev.to/atforeveryoung/java-from-jpegs-how-ai-turns-app-screenshots-into-android-code-1nf3)
-- [Open Source Contribution Guide](https://dev.to/member_a07758c4/open-source-contribution-guide-3mde)
+- [First PHP Script..](https://dev.to/char1iedevos/first-php-script-3h19)
+- [Day-51 Missed My Payilagam Mock Interview – A Day of Unexpected Challenge](https://dev.to/tamilselvan1812/day-51-missed-my-payilagam-mock-interview-a-day-of-unexpected-challenge-4b2n)
+- [Memory Layout Optimization](https://dev.to/member_a07758c4/memory-layout-optimization-46gi)
+- [How to Identify and Heal Burnout from Work](https://dev.to/jelloeater/how-to-identify-and-heal-burnout-from-work-1gc0)
+- [Connecting the Future: Implementing an MCP Server Compatible with Clients like Claude and VSCode](https://dev.to/dylantv/connecting-the-future-implementing-an-mcp-server-compatible-with-clients-like-claude-and-vscode-n70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
