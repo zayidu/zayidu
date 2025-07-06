@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 DevRoadMap AI – Instantly Generate Your Developer Learning Path | Built With Google AI Studio🤖](https://dev.to/hanzla-baig/devroadmap-ai-instantly-generate-your-developer-learning-path-built-with-google-ai-studio-35bo)
-- [How to Build Your First Web Page from Scratch &lpar;No Frameworks Needed&rpar;](https://dev.to/coderpeterparker/how-to-build-your-first-web-page-from-scratch-no-frameworks-needed-3o5j)
-- [Pricing Strategies for Beginners: Hourly, Fixed, or Value-Based?](https://dev.to/vjygour/pricing-strategies-for-beginners-hourly-fixed-or-value-based-58o4)
-- [Functional Programming in Web](https://dev.to/member_a07758c4/functional-programming-in-web-2hl1)
-- [My Developemnt Environment](https://dev.to/harry_tanama_51571ebf90b6/my-developemnt-environment-5ekh)
+- [I started tracking my dev journey daily — turns out, it changed everything.](https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g)
+- [Career Planning for CS Students](https://dev.to/member_a07758c4/career-planning-for-cs-students-55km)
+- [Unlock AI’s Hidden Power: The Ultimate Guide to Prompt Engineering](https://dev.to/gabrielhca/unlock-ais-hidden-power-the-ultimate-guide-to-prompt-engineering-c41)
+- [Standard vs Enhanced Data Models in Power Pages](https://dev.to/power365tips/standard-vs-enhanced-data-models-in-power-pages-5214)
+- [Building a Python Metronome with PyQt6: A Guide to Audio and GUI Development](https://dev.to/highcenburg/building-a-python-metronome-with-pyqt6-a-guide-to-audio-and-gui-development-4a0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
