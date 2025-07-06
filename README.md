@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Would You Tell a Builder Where to Place the First Brick?](https://dev.to/ethernmyth/would-you-tell-a-builder-where-to-place-the-first-brick-3hk8)
-- [100K QPS Web Server Design](https://dev.to/member_a07758c4/100k-qps-web-server-design-4i0a)
-- [Calculator V3 – AI Edition 🧮🤖](https://dev.to/jothiganesh_guntu_/calculator-v3-ai-edition-2639)
-- [[Personal Project7 ] EURO Women&#39;s 2025: Round 1 Finished — Who Wins? Attack vs Defence](https://dev.to/ezeeyeyo/personal-project7-euro-womens-2025-round-1-finished-who-wins-attack-vs-defence-2jmf)
-- [Docker Chapter 1: A Beginner&#39;s Introduction to Containerization.](https://dev.to/wizcoderx/docker-chapter-1-a-beginners-introduction-to-containerization-1eaj)
+- [How did an animator become a cloud engineer?](https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654)
+- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-1hhc)
+- [Inside GitHub Copilot&#39;s Architecture: How AI Code Generation Actually Works in Production](https://dev.to/codetirtho97/inside-github-copilots-architecture-how-ai-code-generation-actually-works-in-production-1b7a)
+- [I built LaunchPad AI](https://dev.to/ai_agi/i-built-launchpad-ai-2973)
+- [Arquiteturas de Software - Cronologia e Informações](https://dev.to/programadriano/arquiteturas-de-software-cronologia-e-informacoes-32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
