@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PaperPulse—Your daily heartbeat on the latest research](https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko)
-- [Code Poetry Elegant Framework Design](https://dev.to/member_a07758c4/code-poetry-elegant-framework-design-3mal)
-- [How to Export a Webflow Site and Host It Anywhere Easily](https://dev.to/ybouane/how-to-export-a-webflow-site-and-host-it-anywhere-easily-1f1)
-- [🔐 CodeSentinel: The AI Agent That Audits GitHub Repos for Security Threats](https://dev.to/nikhilsahni7/codesentinel-the-ai-agent-that-audits-github-repos-for-security-threats-ded)
-- [Claude Code &lpar;MAX&rpar; is the best deal](https://dev.to/themuneebh/claude-code-max-is-the-best-deal-1a0h)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-3h62)
+- [Word bank automation](https://dev.to/subutai/word-bank-automation-dcg)
+- [Programming Entry Level: how to web development](https://dev.to/devopsfundamentals/programming-entry-level-how-to-web-development-2g08)
+- [Type Safety in Web Compile Time Error Robust Design](https://dev.to/member_a07758c4/type-safety-in-web-compile-time-error-robust-design-2jjp)
+- [Getting Started with Databases: SQL &amp; MySQL](https://dev.to/osugodbless/getting-started-with-databases-sql-mysql-39n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
