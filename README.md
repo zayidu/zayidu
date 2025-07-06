@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage stock calculation product variation package in WP](https://dev.to/dicky54putra/manage-stock-calculation-product-variation-package-in-wp-3c5c)
-- [Deno 2.4 brings back deno bundle, GitHub Copilot Chat is now open source, Minecraft built in 100% CSS, and more](https://dev.to/thisweekinjavascript/deno-24-brings-back-deno-bundle-github-copilot-chat-is-now-open-source-minecraft-built-in-100-1o8d)
-- [14+ Open Source Tools Every Developer Should Know in 2025 🔥](https://dev.to/dev-arafat-alim/14-open-source-tools-every-developer-should-know-in-2025-5f6e)
-- [Next Generation High Web Rust Based Solutions](https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-cce)
-- [Вебинар | Пошаговое введение в Docs as Code с практическими примерами и личным опытом](https://dev.to/__c87c/viebinar-poshaghovoie-vviedieniie-v-docs-as-code-s-praktichieskimi-primierami-i-lichnym-opytom-3c7l)
+- [Long Connection Management](https://dev.to/member_a07758c4/long-connection-management-3kg)
+- [How Browsers Parse and Render HTML: From Request to Paint](https://dev.to/ayush_maurya_/how-browsers-parse-and-render-html-from-request-to-paint-1ogp)
+- [Big Data Fundamentals: hive project](https://dev.to/devopsfundamentals/big-data-fundamentals-hive-project-1e27)
+- [Zero To Mastery AI Researcher &amp; Engineer &lpar;in development&rpar;](https://dev.to/vuk_rosic/zero-to-mastery-ai-researcher-engineer-in-development-amg)
+- [Top 5 Reasons This Anime Landing Page Built with React &amp; Framer Motion Will Blow Your Mind](https://dev.to/er-raj-aryan/top-5-reasons-this-anime-landing-page-built-with-react-framer-motion-will-blow-your-mind-h08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
