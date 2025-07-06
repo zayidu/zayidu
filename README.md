@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ORMs Are Annoying! Until You Try Living Without One](https://dev.to/gaurang847/orms-are-annoying-until-you-try-living-without-one-14d6)
-- [Monitor &amp; Alert: Notify Admins When Scheduled Power Automate Flows Are Deactivated &lpar;Using FetchXML&rpar;](https://dev.to/nikhildynamicsce/monitor-alert-notify-admins-when-scheduled-power-automate-flows-are-deactivated-using-fetchxml-5gne)
-- [.NET Learning Notes: Using MailHog with .NET for Email Testing](https://dev.to/alexleeeeeeeeee/net-learning-notes-using-mailhog-with-net-for-email-testing-op4)
-- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_a07758c4/poetry-and-horizon-code-design-future-vision-web-3kd7)
-- [Today i have build my first project...](https://dev.to/suman_07/today-i-have-build-my-first-project-1k79)
+- [Aggregator Platform Ideas](https://dev.to/shreyvijayvargiya/aggregator-platform-ideas-2kk4)
+- [AlgorithmO #6 — Кодиране на пермутации &lpar;намиране на номер в лексикографски ред на пермутация&rpar;](https://dev.to/dvt32/algorithmo-6-kodiranie-na-piermutatsii-namiranie-na-nomier-v-lieksikoghrafski-ried-na-piermutatsiia-34p7)
+- [📈 Real-Time Stock Movement Predictor using SVM + Streamlit](https://dev.to/noorbasha_shaik_b60dc0c85/real-time-stock-movement-predictor-using-svm-streamlit-ni5)
+- [Docker Essentials for Beginners: What I Learned Building My First Node.js App](https://dev.to/tejhagargi/docker-essentials-for-beginners-what-i-learned-building-my-first-nodejs-app-5606)
+- [SIMD Vectorized Computing](https://dev.to/member_a07758c4/simd-vectorized-computing-33j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
