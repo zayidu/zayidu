@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Train AI Model](https://dev.to/atifwattoo/how-to-train-ai-model-bd)
-- [Mission 7: Update Your Portfolio Part One](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-one-1eji)
-- [Building My First End-to-End Machine Learning Project](https://dev.to/anshikalohan/building-my-first-end-to-end-machine-learning-project-23a3)
-- [Never Miss a Hackathon Again: My Calendar-Driven Automation with Runner H](https://dev.to/bridget_amana/never-miss-a-hackathon-again-my-calendar-driven-automation-with-runner-h-33ag)
-- [Minimalist Programming Philosophy](https://dev.to/member_a07758c4/minimalist-programming-philosophy-2ggg)
+- [How To Guarantee Race Conditions When Integration Testing](https://dev.to/jonashdown/how-to-guarantee-race-conditions-when-integration-testing-234h)
+- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_a07758c4/cross-platform-tool-building-universal-web-applications-advanced-23kh)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks](https://dev.to/member_a07758c4/charm-of-method-chaining-fluent-interface-patterns-in-frameworks-3a3h)
+- [Devlog #9 Netflix and chill](https://dev.to/bain_8a987225b41e21618fcb/devlog-9-netflix-and-chill-55ll)
+- [Hexagonal Architecture Implementation](https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
