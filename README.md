@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RxJS for Beginners](https://dev.to/xrdev38/rxjs-for-beginners-45df)
-- [I&#39;m a .NET &amp; Blazor Developer — here’s my LinkedIn to connect &amp; explore projects](https://dev.to/sydusman/im-a-net-blazor-developer-heres-my-linkedin-to-connect-explore-projects-348i)
-- [Generated Title from Agent](https://dev.to/rishabh_f44817f762a2d83ea/generated-title-from-agent-k0j)
-- [Breaking Into Tech Writing in 2025: A Practical Guide for Beginners](https://dev.to/pramodgpt007/breaking-into-tech-writing-in-2025-a-practical-guide-for-beginners-4d77)
-- [From Crypto Rollercoaster to Vibecode Builder -Journeybook #1](https://dev.to/huecki/from-crypto-rollercoaster-to-vibecode-builder-journeybook-1-1bd7)
+- [I&#39;m Selling My Project: GameGift &lpar;£1000&rpar;](https://dev.to/vulcanwm/im-selling-my-project-gamegift-ps1000-3n1n)
+- [How to Start a SaaS Company with Zero Budget: A Practical Guide](https://dev.to/agami_tech_414cabb7522ea1/how-to-start-a-saas-company-with-zero-budget-a-practical-guide-4pb8)
+- [How to build an Agent with Laravel](https://dev.to/aprodilles/how-to-build-an-agent-with-laravel-mdi)
+- [Enterprise ML governance: Tracking AI lineage and risk with Unity Catalog](https://dev.to/danialgauhar/enterprise-ml-governance-tracking-ai-lineage-and-risk-with-unity-catalog-4069)
+- [🧵 Real-Time Chat App using Flutter + FastAPI &lpar;via WebSocket&rpar;](https://dev.to/parikshit_vermahoney_7/real-time-chat-app-using-flutter-fastapi-via-websocket-1kdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
