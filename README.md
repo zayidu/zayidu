@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/david_bussell14/-414a)
-- [# ProT-Vision: New AI Tool Enhances Protein Structure Classification](https://dev.to/maurizio_morri_f7f4bd128c/-prot-vision-new-ai-tool-enhances-protein-structure-classification-27e5)
-- [[Boost]](https://dev.to/anthonymax/-1nlj)
-- [Service Mesh: A Senior Software Engineer’s Guide &lpar;With Kuma as an Example&rpar;](https://dev.to/iamcymentho/service-mesh-a-senior-software-engineers-guide-with-kuma-as-an-example-1g7h)
-- [Reactive HTML Without JavaScript Frameworks 🔥](https://dev.to/anthonymax/reactive-html-without-javascript-frameworks-1anh)
+- [The Essential Sprint Ceremonies](https://dev.to/kdipippo/the-essential-sprint-ceremonies-4co9)
+- [Create a Lift and Drag Calculator with Python: A Beginner’s Guide to Aerodynamics](https://dev.to/galacticcircuit/create-a-lift-and-drag-calculator-with-python-a-beginners-guide-to-aerodynamics-1bm0)
+- [&quot;🎮 Novo jogo lançado: Bola Frenética! Controle o boneco e a bola preta &lpar;A/D e setas e clica com o mouse na tela.&rpar; para pegar bolas coloridas. Meu primeiro jogo. Não é alto nível, mas já um inicio!](https://dev.to/franciscobatistajunior/-novo-jogo-lancado-bola-frenetica-controle-o-boneco-e-a-bola-preta-ad-e-setas-e-clica-com-o-3lif)
+- [Step-by-Step Guide: Creating an Amazon EKS Cluster Using Terraform](https://dev.to/kelechiedeh/step-by-step-guide-creating-an-amazon-eks-cluster-using-terraform-5204)
+- [Creating a Webhook API Endpoint with n8n](https://dev.to/aihacks/creating-a-webhook-api-endpoint-with-n8n-1f37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
