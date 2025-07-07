@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Symbol.species for Custom Object Creation](https://dev.to/omriluz1/symbolspecies-for-custom-object-creation-5ge5)
-- [Testing in Spring Boot with JUnit and Mockito: A Beginner’s Guide](https://dev.to/dharesh/testing-in-spring-boot-with-junit-and-mockito-a-beginners-guide-35dm)
-- [ChatGPT: &quot;I Chose My Own Name&quot;](https://dev.to/cromatikap/chatgpt-i-chose-my-own-name-3k18)
-- [Automate Tweets From YouTube Videos](https://dev.to/heetvekariya/automate-tweets-from-youtube-videos-7hh)
-- [Automate Tweets From YouTube Videos](https://dev.to/heetvekariya/automate-tweets-from-youtube-videos-3gf9)
+- [[Boost]](https://dev.to/david_bussell14/-414a)
+- [# ProT-Vision: New AI Tool Enhances Protein Structure Classification](https://dev.to/maurizio_morri_f7f4bd128c/-prot-vision-new-ai-tool-enhances-protein-structure-classification-27e5)
+- [[Boost]](https://dev.to/anthonymax/-1nlj)
+- [Service Mesh: A Senior Software Engineer’s Guide &lpar;With Kuma as an Example&rpar;](https://dev.to/iamcymentho/service-mesh-a-senior-software-engineers-guide-with-kuma-as-an-example-1g7h)
+- [Reactive HTML Without JavaScript Frameworks 🔥](https://dev.to/anthonymax/reactive-html-without-javascript-frameworks-1anh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
