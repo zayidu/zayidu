@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hacked Together a Fully Functional Settings Page in Under 20 Minutes](https://dev.to/devfamdk/how-i-hacked-together-a-fully-functional-settings-page-in-under-20-minutes-21pc)
-- [Major Differences between ESLint v9 and Previous Versions:](https://dev.to/ambika_vaish_e5986546d9fe/major-differences-between-eslint-v9-and-previous-versions-4jj7)
-- [What are your goals for the week? #134](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-134-4ec9)
-- [LangChain and LangGraph: The Building Blocks for Modern AI Applications](https://dev.to/jps27cse/langchain-and-langgraph-the-building-blocks-for-modern-ai-applications-2ife)
-- [The main difference between `localStorage` and `sessionStorage`](https://dev.to/renukapatil/the-main-difference-between-localstorage-and-sessionstorage-gm4)
+- [Ringer Movies: The 10 Best Movies of the Year ... So Far | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-10-best-movies-of-the-year-so-far-the-big-picture-d0a)
+- [Ringer Movies: ‘After Hours&#39; with Bill Simmons and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-after-hours-with-bill-simmons-and-sean-fennessey-the-rewatchables-1fee)
+- [Ringer Movies: ‘Jurassic World Rebirth&#39; Does Not Find a Way. Plus: ‘The Odyssey&#39; Is Coming! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-jurassic-world-rebirth-does-not-find-a-way-plus-the-odyssey-is-coming-the-2np9)
+- [CinemaSins: Everything Wrong With The Land Before Time In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-land-before-time-in-15-minutes-or-less-356h)
+- [Rebuilding My Portfolio: A Week of React, Animations, and Testing](https://dev.to/albinotonnina/rebuilding-my-portfolio-a-week-of-react-animations-and-testing-43hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
