@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4 of the top 10 YouTube channels are AI-generated](https://dev.to/future_ai/4-of-the-top-10-youtube-channels-are-ai-generated-cil)
-- [IGN: Final Fantasy 9: 25th Anniversary - Special Movie Trailer](https://dev.to/gg_news/ign-final-fantasy-9-25th-anniversary-special-movie-trailer-4g99)
-- [Sam Altman Slams Meta&#39;s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://dev.to/future_ai/sam-altman-slams-metas-ai-talent-poaching-spree-missionaries-will-beat-mercenaries-d8h)
-- [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://dev.to/future_ai/laid-off-workers-should-use-ai-to-manage-their-emotions-says-xbox-exec-5c5h)
-- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-2nda)
+- [Python Data Types Explained – Beginner to Pro &lpar;Step-by-Step Guide&rpar;](https://dev.to/niveshbansal07/python-data-types-explained-beginner-to-pro-step-by-step-guide-5c22)
+- [Team Collaboration Best Practices](https://dev.to/member_a07758c4/team-collaboration-best-practices-nge)
+- [Day 5: I Built PyTorch&#39;s Autograd &lpar;And Finally Understood How AI Actually Learns&rpar;](https://dev.to/vivekjami/day-5-i-built-pytorchs-autograd-and-finally-understood-how-ai-actually-learns-k2n)
+- [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6)
+- [Behind the Underscores EP11: Callable Objects: __call__](https://dev.to/hevalhazalkurt/behind-the-underscores-ep11-callable-objects-call-22c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
