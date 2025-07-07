@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript to Go: Why does it really matter?](https://dev.to/kresohr/typescript-to-go-why-does-it-really-matter-10da)
-- [Is Mistral AI&#39;s Magistral the Key to Transparent and Multilingual AI Reasoning?](https://dev.to/jovin_george_733dcfc16291/is-mistral-ais-magistral-the-key-to-transparent-and-multilingual-ai-reasoning-4hgl)
-- [Significance of Python Virtual Environment](https://dev.to/magesh_narayanan_da14a227/significance-of-python-virtual-environment-aim)
-- [How to Build a Robust Design System in Flutter with Theming and Material 3 Support.](https://dev.to/nkusikevin/how-to-build-a-robust-design-system-in-flutter-with-theming-and-material-3-support-1g4o)
-- [Understanding Data Types in JavaScript: A Comprehensive Guide](https://dev.to/jslovers/understanding-data-types-in-javascript-a-comprehensive-guide-1n02)
+- [📘 My DSA Learning Journey – Day 1: JavaScript Basics Warm-Up &lpar;Akshay Saini Course&rpar;](https://dev.to/laxmann/my-dsa-learning-journey-day-1-javascript-basics-warm-up-akshay-saini-course-30j3)
+- [Moving forward on stack trace and symbols](https://dev.to/vhajsman/moving-forward-on-stack-trace-and-symbols-1g4f)
+- [EaaS: The Final Future of Work is Fractional](https://dev.to/wmsvserpguide/eaas-the-final-future-of-work-is-fractional-2c33)
+- [Host Your Own Q&amp;A Community Using Apache Answer &lpar;with Backups to S3&rpar;](https://dev.to/lovestaco/host-your-own-qa-community-using-apache-answer-with-backups-to-s3-438o)
+- [🧠 What I Learned from Spotify Wrapped’s UX Magic &lpar;and How I’d Build It&rpar;](https://dev.to/bhumica08/what-i-learned-from-spotify-wrappeds-ux-magic-and-how-id-build-it-40nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
