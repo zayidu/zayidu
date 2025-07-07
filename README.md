@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Coding Environment Developed with AI for AI to Enable High Efficiency](https://dev.to/hotjams09/a-coding-environment-developed-with-ai-for-ai-to-enable-high-efficiency-53mn)
-- [Ecosystem Integration Patterns Third Party Design](https://dev.to/member_a07758c4/ecosystem-integration-patterns-third-party-design-2433)
-- [Stop Gluing Data Infrastructure Tools: Build Multimodal AI Workloads and Application with One Declarative Python SDK](https://dev.to/pjlbrunelle/stop-gluing-data-infrastructure-tools-build-multimodal-ai-workloads-and-application-with-one-11pj)
-- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-4cge)
-- [Stop Manually Checking Rates: Automate Naira Exchange Alerts with Runner H🚀](https://dev.to/toyaab/stop-manually-checking-rates-automate-naira-exchange-alerts-with-runner-h-5128)
+- [Real Time Communication SSE Advanced Streaming Web](https://dev.to/member_a07758c4/real-time-communication-sse-advanced-streaming-web-1940)
+- [Where to Start Your Coding Career: Corporate, Tech, or Agency?](https://dev.to/canro91/where-to-start-your-coding-career-corporate-tech-or-agency-3ap6)
+- [Leveraging Runner H in job search: Jobhound.ai](https://dev.to/oxcryptic/leveraging-runner-h-in-job-search-jobhoundai-443m)
+- [Production Deployment Strategies Docker Cloud High Web](https://dev.to/member_a07758c4/production-deployment-strategies-docker-cloud-high-web-2g6j)
+- [full stack development](https://dev.to/garakrishna_vamsi_a8e9fe4/full-stack-development-194b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
