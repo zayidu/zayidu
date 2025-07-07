@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Mobile Device Management &lpar;MDM&rpar;?](https://dev.to/teresa_tran/what-is-mobile-device-management-mdm-3d4)
-- [What are some databases we use everyday?](https://dev.to/asim_roy_995291972b9d217d/what-are-some-databases-we-use-everyday-4h3o)
-- [IAM, CIAM, and IDaaS for Developers: Implementation Patterns and Practical Trade-offs](https://dev.to/deepakgupta/iam-ciam-and-idaas-for-developers-implementation-patterns-and-practical-trade-offs-gb8)
-- [Exploring the Wonders of Cambodia: My Journey, My Work, and the Magic of Travel](https://dev.to/tkmail_alerttt_c827339dbf/exploring-the-wonders-of-cambodia-my-journey-my-work-and-the-magic-of-travel-2e61)
-- [A Better Way to Build UI: Utility-First Techniques](https://dev.to/aistoryem/a-better-way-to-build-ui-utility-first-techniques-33k5)
+- [IRF530 MOSFET: Pinout, Equivalent, Applications and Circuit Diagram](https://dev.to/zheng2a2e5f5b/irf530-mosfet-pinout-equivalent-applications-and-circuit-diagram-253i)
+- [What Makes C# Developers Highly Sought After in Today’s Job Market](https://dev.to/c-sharp-jobs/what-makes-c-developers-highly-sought-after-in-todays-job-market-451g)
+- [Bidirectional Communication Protocols](https://dev.to/member_a07758c4/bidirectional-communication-protocols-3g4n)
+- [For Anyone Curious About How Companies Deploy Enterprise Projects](https://dev.to/mohamed_el_laithy/for-anyone-curious-about-how-companies-deploy-enterprise-projects-15j0)
+- [SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-docker-compose-breakdown-understanding-the-mgt-service-3kjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
