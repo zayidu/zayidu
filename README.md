@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Live Streaming System Architecture](https://dev.to/member_a07758c4/live-streaming-system-architecture-50kl)
-- [Google Ads Guide 2025: What It Is and How It Works](https://dev.to/agrowth_agency/google-ads-guide-2025-what-it-is-and-how-it-works-g0a)
-- [When Composer Met pnpm: The Birth of Pomposer](https://dev.to/hichemtab-tech/when-composer-met-pnpm-the-birth-of-pomposer-2igj)
-- [Cybr - Introduction to AWS Security](https://dev.to/kuljotbiring/cybr-introduction-to-aws-security-535n)
-- [I built a command-style search extension for Chrome — TypeGo](https://dev.to/hoseale/i-built-a-command-style-search-extension-for-chrome-typego-1p1)
+- [A Coding Environment Developed with AI for AI to Enable High Efficiency](https://dev.to/hotjams09/a-coding-environment-developed-with-ai-for-ai-to-enable-high-efficiency-53mn)
+- [Ecosystem Integration Patterns Third Party Design](https://dev.to/member_a07758c4/ecosystem-integration-patterns-third-party-design-2433)
+- [Stop Gluing Data Infrastructure Tools: Build Multimodal AI Workloads and Application with One Declarative Python SDK](https://dev.to/pjlbrunelle/stop-gluing-data-infrastructure-tools-build-multimodal-ai-workloads-and-application-with-one-11pj)
+- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-4cge)
+- [Stop Manually Checking Rates: Automate Naira Exchange Alerts with Runner H🚀](https://dev.to/toyaab/stop-manually-checking-rates-automate-naira-exchange-alerts-with-runner-h-5128)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
