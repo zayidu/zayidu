@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Time Communication SSE Advanced Streaming Web](https://dev.to/member_a07758c4/real-time-communication-sse-advanced-streaming-web-1940)
-- [Where to Start Your Coding Career: Corporate, Tech, or Agency?](https://dev.to/canro91/where-to-start-your-coding-career-corporate-tech-or-agency-3ap6)
-- [Leveraging Runner H in job search: Jobhound.ai](https://dev.to/oxcryptic/leveraging-runner-h-in-job-search-jobhoundai-443m)
-- [Production Deployment Strategies Docker Cloud High Web](https://dev.to/member_a07758c4/production-deployment-strategies-docker-cloud-high-web-2g6j)
-- [full stack development](https://dev.to/garakrishna_vamsi_a8e9fe4/full-stack-development-194b)
+- [Nacos Admin Interface RCE — SQLi to Full System Compromise](https://dev.to/sharon_42e16b8da44dabde6d/nacos-admin-interface-rce-sqli-to-full-system-compromise-1b37)
+- [Best Seasonal Anime Report Generator – Summer 2025 for Weebs](https://dev.to/splmdny/best-seasonal-anime-report-generator-summer-2025-for-weebs-3fi0)
+- [How to Track Savings in Power Automate](https://dev.to/wyattdave/how-to-track-savings-in-power-automate-1gp7)
+- [Top 5 Accent Filter Tools You Can&#39;t Miss!](https://dev.to/lucas_zhang_aeafe6d22a017/top-5-accent-filter-tools-you-cant-miss-50na)
+- [Memory Layout Optimization](https://dev.to/member_a07758c4/memory-layout-optimization-4dcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
