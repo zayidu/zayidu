@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
-- [How We Built a Fully Automated Content Marketing System Using Make &lpar;And Why You Should Too&rpar;](https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh)
-- [I Tested 50 DeFi Protocols: Here&#39;s Why Foundry Beats Hardhat Every Time](https://dev.to/dhis_is_jj/i-tested-50-defi-protocols-heres-why-foundry-beats-hardhat-every-time-4f3e)
-- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture](https://dev.to/member_a07758c4/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-architecture-2l51)
-- [5 Ways Artificial Intelligence UI is Revolutionizing User Experience in 2025](https://dev.to/blogseo_blogseo_72f5a470c/5-ways-artificial-intelligence-ui-is-revolutionizing-user-experience-in-2025-4f55)
+- [4 of the top 10 YouTube channels are AI-generated](https://dev.to/future_ai/4-of-the-top-10-youtube-channels-are-ai-generated-cil)
+- [IGN: Final Fantasy 9: 25th Anniversary - Special Movie Trailer](https://dev.to/gg_news/ign-final-fantasy-9-25th-anniversary-special-movie-trailer-4g99)
+- [Sam Altman Slams Meta&#39;s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://dev.to/future_ai/sam-altman-slams-metas-ai-talent-poaching-spree-missionaries-will-beat-mercenaries-d8h)
+- [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://dev.to/future_ai/laid-off-workers-should-use-ai-to-manage-their-emotions-says-xbox-exec-5c5h)
+- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-2nda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
