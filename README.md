@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Data Types Explained – Beginner to Pro &lpar;Step-by-Step Guide&rpar;](https://dev.to/niveshbansal07/python-data-types-explained-beginner-to-pro-step-by-step-guide-5c22)
-- [Team Collaboration Best Practices](https://dev.to/member_a07758c4/team-collaboration-best-practices-nge)
-- [Day 5: I Built PyTorch&#39;s Autograd &lpar;And Finally Understood How AI Actually Learns&rpar;](https://dev.to/vivekjami/day-5-i-built-pytorchs-autograd-and-finally-understood-how-ai-actually-learns-k2n)
-- [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6)
-- [Behind the Underscores EP11: Callable Objects: __call__](https://dev.to/hevalhazalkurt/behind-the-underscores-ep11-callable-objects-call-22c6)
+- [How I Hacked Together a Fully Functional Settings Page in Under 20 Minutes](https://dev.to/devfamdk/how-i-hacked-together-a-fully-functional-settings-page-in-under-20-minutes-21pc)
+- [Major Differences between ESLint v9 and Previous Versions:](https://dev.to/ambika_vaish_e5986546d9fe/major-differences-between-eslint-v9-and-previous-versions-4jj7)
+- [What are your goals for the week? #134](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-134-4ec9)
+- [LangChain and LangGraph: The Building Blocks for Modern AI Applications](https://dev.to/jps27cse/langchain-and-langgraph-the-building-blocks-for-modern-ai-applications-2ife)
+- [The main difference between `localStorage` and `sessionStorage`](https://dev.to/renukapatil/the-main-difference-between-localstorage-and-sessionstorage-gm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
