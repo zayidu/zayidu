@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms](https://dev.to/member_a07758c4/art-of-system-integration-make-applications-run-seamlessly-across-different-platforms-5222)
-- [Tillage fields Analysis and Alerts with Runner H](https://dev.to/kailera/tillage-fields-analysis-and-alerts-with-runner-h-1n5f)
-- [AWS Fundamentals: Eks](https://dev.to/devopsfundamentals/aws-fundamentals-eks-p0c)
-- [Hackathon scanner to spark your next big idea!](https://dev.to/julsr_mx/hackathon-scanner-to-spark-your-next-big-idea-3e1e)
-- [Study Group Connector: Automating Learning Community Discovery with Runner H](https://dev.to/amyxandra/study-group-connector-automating-learning-community-discovery-with-runner-h-3mg0)
+- [Live Streaming System Architecture](https://dev.to/member_a07758c4/live-streaming-system-architecture-50kl)
+- [Google Ads Guide 2025: What It Is and How It Works](https://dev.to/agrowth_agency/google-ads-guide-2025-what-it-is-and-how-it-works-g0a)
+- [When Composer Met pnpm: The Birth of Pomposer](https://dev.to/hichemtab-tech/when-composer-met-pnpm-the-birth-of-pomposer-2igj)
+- [Cybr - Introduction to AWS Security](https://dev.to/kuljotbiring/cybr-introduction-to-aws-security-535n)
+- [I built a command-style search extension for Chrome — TypeGo](https://dev.to/hoseale/i-built-a-command-style-search-extension-for-chrome-typego-1p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
