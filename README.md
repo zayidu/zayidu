@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IRF530 MOSFET: Pinout, Equivalent, Applications and Circuit Diagram](https://dev.to/zheng2a2e5f5b/irf530-mosfet-pinout-equivalent-applications-and-circuit-diagram-253i)
-- [What Makes C# Developers Highly Sought After in Today’s Job Market](https://dev.to/c-sharp-jobs/what-makes-c-developers-highly-sought-after-in-todays-job-market-451g)
-- [Bidirectional Communication Protocols](https://dev.to/member_a07758c4/bidirectional-communication-protocols-3g4n)
-- [For Anyone Curious About How Companies Deploy Enterprise Projects](https://dev.to/mohamed_el_laithy/for-anyone-curious-about-how-companies-deploy-enterprise-projects-15j0)
-- [SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-docker-compose-breakdown-understanding-the-mgt-service-3kjm)
+- [RxJS for Beginners](https://dev.to/xrdev38/rxjs-for-beginners-45df)
+- [I&#39;m a .NET &amp; Blazor Developer — here’s my LinkedIn to connect &amp; explore projects](https://dev.to/sydusman/im-a-net-blazor-developer-heres-my-linkedin-to-connect-explore-projects-348i)
+- [Generated Title from Agent](https://dev.to/rishabh_f44817f762a2d83ea/generated-title-from-agent-k0j)
+- [Breaking Into Tech Writing in 2025: A Practical Guide for Beginners](https://dev.to/pramodgpt007/breaking-into-tech-writing-in-2025-a-practical-guide-for-beginners-4d77)
+- [From Crypto Rollercoaster to Vibecode Builder -Journeybook #1](https://dev.to/huecki/from-crypto-rollercoaster-to-vibecode-builder-journeybook-1-1bd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
