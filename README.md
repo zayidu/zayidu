@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built CGMB: An MCP That Unifies Claude Code, Gemini CLI, and Gemini API](https://dev.to/ryoto_miyake/i-built-cgmb-an-mcp-that-unifies-claude-code-gemini-cli-and-gemini-api-3b0i)
-- [Why is an Information Security Policy important for organizations?](https://dev.to/writegenic/why-is-an-information-security-policy-important-for-organizations-56n7)
-- [How I Hack a Hacker](https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b)
-- [Using LlamaIndex.TS to Orchestrate MCP Servers](https://dev.to/azure/using-llamaindexts-to-orchestrate-mcp-servers-413k)
-- [Day 21: Backend Security – The Last Line of Defense](https://dev.to/nader_fh/day-21-backend-security-the-last-line-of-defense-3p1k)
+- [JavaScript Uncovered - A Simple Introduction](https://dev.to/s_vasanth_183951c70f1bd52/javascript-uncovered-a-simple-introduction-192j)
+- [🧠 AI vs. Human Intelligence: Are We Getting Smarter or Just Better at Asking ChatGPT?](https://dev.to/hmzas/ai-vs-human-intelligence-are-we-getting-smarter-or-just-better-at-asking-chatgpt-3i6p)
+- [Serverless A2A with Spin](https://dev.to/fermyon/serverless-a2a-with-spin-41lb)
+- [How to Build Beautiful GUIs in Golang : 3 Web UI Paths](https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm)
+- [The Golang Masterclass: Singleton Structs Will Save Your Project.](https://dev.to/sfundomhlungu/the-golang-masterclass-singleton-structs-will-save-your-project-g70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
