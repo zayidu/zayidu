@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-3h62)
-- [Word bank automation](https://dev.to/subutai/word-bank-automation-dcg)
-- [Programming Entry Level: how to web development](https://dev.to/devopsfundamentals/programming-entry-level-how-to-web-development-2g08)
-- [Type Safety in Web Compile Time Error Robust Design](https://dev.to/member_a07758c4/type-safety-in-web-compile-time-error-robust-design-2jjp)
-- [Getting Started with Databases: SQL &amp; MySQL](https://dev.to/osugodbless/getting-started-with-databases-sql-mysql-39n5)
+- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms](https://dev.to/member_a07758c4/art-of-system-integration-make-applications-run-seamlessly-across-different-platforms-5222)
+- [Tillage fields Analysis and Alerts with Runner H](https://dev.to/kailera/tillage-fields-analysis-and-alerts-with-runner-h-1n5f)
+- [AWS Fundamentals: Eks](https://dev.to/devopsfundamentals/aws-fundamentals-eks-p0c)
+- [Hackathon scanner to spark your next big idea!](https://dev.to/julsr_mx/hackathon-scanner-to-spark-your-next-big-idea-3e1e)
+- [Study Group Connector: Automating Learning Community Discovery with Runner H](https://dev.to/amyxandra/study-group-connector-automating-learning-community-discovery-with-runner-h-3mg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
