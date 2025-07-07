@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 10 Best Movies of the Year ... So Far | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-10-best-movies-of-the-year-so-far-the-big-picture-d0a)
-- [Ringer Movies: ‘After Hours&#39; with Bill Simmons and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-after-hours-with-bill-simmons-and-sean-fennessey-the-rewatchables-1fee)
-- [Ringer Movies: ‘Jurassic World Rebirth&#39; Does Not Find a Way. Plus: ‘The Odyssey&#39; Is Coming! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-jurassic-world-rebirth-does-not-find-a-way-plus-the-odyssey-is-coming-the-2np9)
-- [CinemaSins: Everything Wrong With The Land Before Time In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-land-before-time-in-15-minutes-or-less-356h)
-- [Rebuilding My Portfolio: A Week of React, Animations, and Testing](https://dev.to/albinotonnina/rebuilding-my-portfolio-a-week-of-react-animations-and-testing-43hl)
+- [I Built CGMB: An MCP That Unifies Claude Code, Gemini CLI, and Gemini API](https://dev.to/ryoto_miyake/i-built-cgmb-an-mcp-that-unifies-claude-code-gemini-cli-and-gemini-api-3b0i)
+- [Why is an Information Security Policy important for organizations?](https://dev.to/writegenic/why-is-an-information-security-policy-important-for-organizations-56n7)
+- [How I Hack a Hacker](https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b)
+- [Using LlamaIndex.TS to Orchestrate MCP Servers](https://dev.to/azure/using-llamaindexts-to-orchestrate-mcp-servers-413k)
+- [Day 21: Backend Security – The Last Line of Defense](https://dev.to/nader_fh/day-21-backend-security-the-last-line-of-defense-3p1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
