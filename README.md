@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built CommitPress Because I Was Tired of Complex Blog SystemsStop fighting complex blog systems CommitPress = Git + MDX + AI formatting Perfect for: 🎯 Startups needing quick content 🎯 Developers who love simplicity 🎯 Teams tired of CMS overhead](https://dev.to/muzaffar640/i-built-commitpress-because-i-was-tired-of-complex-blog-systemsstop-fighting-complex-blog-hij)
-- [Cloud Data Tools Simplified: AWS, Google Cloud, and Azure](https://dev.to/andrey_s/cloud-data-tools-simplified-aws-google-cloud-and-azure-1oa5)
-- [The AI Ethics Tightrope: As Developers, Where Do We Stand in 2025? ⚖️🤖](https://dev.to/cottancandy1217/the-ai-ethics-tightrope-as-developers-where-do-we-stand-in-2025-acg)
-- [🛠️ Why I Prefer Writing My Own Widgets Over Using Random Packages](https://dev.to/pintusingh28/why-i-prefer-writing-my-own-widgets-over-using-random-packages-3k3h)
-- [🛠️ Why I Prefer Writing My Own Widgets Over Using Random Packages](https://dev.to/pintusingh28/why-i-prefer-writing-my-own-widgets-over-using-random-packages-4b0b)
+- [AI Agents Are Rising: What’s Next?](https://dev.to/alifar/ai-agents-are-rising-whats-next-5h2m)
+- [💳 Build a Realistic Editable VISA Card UI with HTML, CSS &amp; JavaScript &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/learncodewithalex/build-a-realistic-editable-visa-card-ui-with-html-css-javascript-step-by-step-tutorial-3lf2)
+- [# Introducing Helpothon: A New Frontier in Social Good for Developers](https://dev.to/helpothon/-introducing-helpothon-a-new-frontier-in-social-good-for-developers-40c6)
+- [[Boost]](https://dev.to/surya2006/-2d34)
+- [The Little Knob That Tuned the Stars: Variable Resistors &amp; the Art of Balance](https://dev.to/ersajay/the-little-knob-that-tuned-the-stars-variable-resistors-the-art-of-balance-1kfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
