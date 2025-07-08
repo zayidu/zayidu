@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Choosing Rust and Go for Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-choosing-rust-and-go-for-backend-systems-meh)
-- [Next.js ওয়েবসাইট Hostinger VPS-এ ডিপ্লয় ডকুমেন্টেশন](https://dev.to/tariqul420/nextjs-oyebsaaitt-hostinger-vps-e-ddiply-ddkumentteshn-2pc)
-- [3 Issues That Remote MCP Developers Should Avoid](https://dev.to/portia-ai/3-issues-that-remote-mcp-developers-should-avoid-226o)
-- [Deployment Automation 1](https://dev.to/github-recommend/deployment-automation-1-1343)
-- [SceneCraft AI](https://dev.to/aniruddhaadak/scenecraft-ai-1214)
+- [🐍 My Python Journey: Week 3 – The Realm of Operators](https://dev.to/misspresidentcodes/my-python-journey-week-3-the-realm-of-operators-i2)
+- [Colour predictor](https://dev.to/red_star_0412c2cbf4aca263/colour-predictor-246f)
+- [Domain Mapping Architecture](https://dev.to/github-recommend/domain-mapping-architecture-43d7)
+- [🏗️ Real-World Backend Architecture Patterns You Should Know](https://dev.to/padie78/real-world-backend-architecture-patterns-you-should-know-17kd)
+- [Implementing the Repository Pattern with Mongoose in Node.js](https://dev.to/padie78/implementing-the-repository-pattern-with-mongoose-in-nodejs-2b4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
