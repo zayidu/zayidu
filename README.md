@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pesticides: Separating Fact from Fiction](https://dev.to/sysmaya/pesticides-separating-fact-from-fiction-355j)
-- [Anyone know when Dev++ members are able to claim the 2-month Warp Pro offer?](https://dev.to/p5n/anyone-know-when-dev-members-are-able-to-claim-the-2-month-warp-pro-offer-5ddi)
-- [Bronze Medal for Team Unibo at CyberChallenge.IT 2025](https://dev.to/ulisse/bronze-medal-for-team-unibo-at-cyberchallengeit-2025-16j0)
-- [Umemura Farm Website – Devlog #29: Lighthouse-Informed Refactoring and Optimization](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-29-lighthouse-informed-refactoring-and-optimization-512i)
-- [Zero to Production App in 22 Days?! 🤯](https://dev.to/seanmccurdy/zero-to-production-app-in-22-days-2kdk)
+- [WebGPU Engine from Scratch 1: Basic Rendering](https://dev.to/ndesmic/webgpu-engine-from-scratch-1-basic-rendering-51cl)
+- [Top 5 Mistakes to Avoid in Regression Testing](https://dev.to/misterankit/top-5-mistakes-to-avoid-in-regression-testing-5e7c)
+- [🔑 Amazon Bedrock API Keys: Autenticación Simplificada para Desarrolladores](https://dev.to/aws-espanol/amazon-bedrock-api-keys-autenticacion-simplificada-para-desarrolladores-41pg)
+- [Hello World, Hello Me. My Developer Archive](https://dev.to/morphlogy/hello-world-hello-me-my-developer-archive-42kj)
+- [Benchmark: How Well AI Models Handle Table Processing](https://dev.to/businessware/benchmark-how-well-ai-models-handle-table-processing-29kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
