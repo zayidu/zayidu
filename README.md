@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 My Python Journey: Week 3 – The Realm of Operators](https://dev.to/misspresidentcodes/my-python-journey-week-3-the-realm-of-operators-i2)
-- [Colour predictor](https://dev.to/red_star_0412c2cbf4aca263/colour-predictor-246f)
-- [Domain Mapping Architecture](https://dev.to/github-recommend/domain-mapping-architecture-43d7)
-- [🏗️ Real-World Backend Architecture Patterns You Should Know](https://dev.to/padie78/real-world-backend-architecture-patterns-you-should-know-17kd)
-- [Implementing the Repository Pattern with Mongoose in Node.js](https://dev.to/padie78/implementing-the-repository-pattern-with-mongoose-in-nodejs-2b4c)
+- [Great Vue example project](https://dev.to/dbavedb/great-vue-example-project-51g3)
+- [What is NER in NLP? Real-World Examples and Use Cases Using Python and spaCy](https://dev.to/datatoinfinity/what-is-ner-in-nlp-real-world-examples-and-use-cases-using-python-and-spacy-7ik)
+- [UGC vs. AIGC vs. AI-UGC](https://dev.to/synergy_shock/ugc-vs-aigc-vs-ai-ugc-3anm)
+- [AI-Powered Image Prompt Generator for Faster App Creation](https://dev.to/kakra/ai-powered-image-prompt-generator-for-faster-app-creation-408i)
+- [Enterprise AI feature development with LLMs](https://dev.to/sunny7899/enterprise-ai-feature-development-with-llms-3p5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
