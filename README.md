@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front End Language Feature Matrix](https://dev.to/gdotdesign/front-end-language-feature-matrix-n4b)
-- [Do you need to be a programmer to contribute to open source projects?](https://dev.to/szabgab/do-you-need-to-be-a-programmer-to-contribute-to-open-source-projects-29i9)
-- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-14fl)
-- [reddit mcp热门讨论集锦](https://dev.to/dragon72463399/reddit-mcpre-men-tao-lun-ji-jin-50m1)
-- [The Rise of WebAssembly &lpar;Wasm&rpar; in Full-Stack Web Development: 2025 and Beyond](https://dev.to/dimshat/the-rise-of-webassembly-wasm-in-full-stack-web-development-2025-and-beyond-1d9i)
+- [&#39;Cyberpunk: Edgerunners&#39; Season 2 Announced](https://dev.to/popcorn_tv/cyberpunk-edgerunners-season-2-announced-3kpj)
+- [Craig Robinson Makes Surprise Announcement: “I&#39;m Officially Quitting Comedy”](https://dev.to/popcorn_tv/craig-robinson-makes-surprise-announcement-im-officially-quitting-comedy-3c80)
+- [&#39;Tiny Chef Show&#39; “saved” after viral cancellation and fundraising efforts as creators confirm return](https://dev.to/popcorn_tv/tiny-chef-show-saved-after-viral-cancellation-and-fundraising-efforts-as-creators-confirm-return-1no3)
+- [Jennifer Aniston to Star in &#39;I&#39;m Glad My Mom Died&#39; Series at Apple TV+, Based on &#39;iCarly&#39; Star Jennette McCurdy&#39;s Memoir](https://dev.to/popcorn_tv/jennifer-aniston-to-star-in-im-glad-my-mom-died-series-at-apple-tv-based-on-icarly-star-2dg4)
+- [Sam Altman Slams Meta&#39;s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://dev.to/future_ai/sam-altman-slams-metas-ai-talent-poaching-spree-missionaries-will-beat-mercenaries-1lkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
