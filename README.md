@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First AI Agent &lpar;The Developer’s Quickstart Manual&rpar;](https://dev.to/alifar/how-to-build-your-first-ai-agent-the-developers-quickstart-manual-2b39)
-- [File Download Feature in Spring Boot](https://dev.to/nashmin_hasan/file-download-feature-in-spring-boot-co1)
-- [Build your own online code compiler](https://dev.to/pythonxi/build-your-own-online-code-compiler-5g61)
-- [Debugging a Washed-Out TFT Display: A Real-World RGB Interface Mismatch](https://dev.to/44bbe4c6408519/debugging-a-washed-out-tft-display-a-real-world-rgb-interface-mismatch-op5)
-- [Understanding REST Resources: A Guide for Developers with Django ViewSets](https://dev.to/vincenttommi/understanding-rest-resources-a-guide-for-developers-with-django-viewsets-53l2)
+- [Pipeline of Agents Pattern: Building Maintainable AI Workflows with LangGraph](https://dev.to/vitaliihonchar/pipeline-of-agents-pattern-building-maintainable-ai-workflows-with-langgraph-1e50)
+- [Vector Databases: Foundations, Function, and the Future of AI Retrieval](https://dev.to/cortexflow/vector-databases-foundations-function-and-the-future-of-ai-retrieval-5ga6)
+- [CSS Counting Magic: Converting Counter Values to Variables](https://dev.to/rezi/css-counting-magic-converting-counter-values-to-variables-e9m)
+- [Transforming AI Interaction Through Personalization](https://dev.to/agape_aurora_4b5303956dc6/transforming-ai-interaction-through-personalization-39m7)
+- [Introducing Deforge, the Visual, No-Code Builder](https://dev.to/deforge_io/introducing-deforge-the-visual-no-code-builder-dg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
