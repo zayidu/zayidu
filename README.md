@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate Subtitles for Professional Videos](https://dev.to/colinreed/how-to-translate-subtitles-for-professional-videos-28k0)
-- [Say Goodbye to Try-Catch: Smart Async Error Handling in Express 🚀](https://dev.to/dev-rashedin/say-goodbye-to-try-catch-smart-async-error-handling-in-express-33hi)
-- [5 Tips to Boost Your Productivity as a Developer](https://dev.to/jackson_misiocha_36e7ab5b/5-tips-to-boost-your-productivity-as-a-developer-4eo9)
-- [Here&#39;s something interesting... !](https://dev.to/ankit_rattan/heres-something-interesting--3n38)
-- [How to Train an AI Model to Understand Time, Date &amp; Location Requests](https://dev.to/olalekan_oladiran_d74b7a6/how-to-train-an-ai-model-to-understand-time-date-location-requests-1197)
+- [Using Vue&#39;s Single File Components &lpar;.vue&rpar; in the browser directly, no build step](https://dev.to/thejaredwilcurt/using-vues-single-file-components-vue-in-the-browser-directly-no-build-step-50j3)
+- [🚀 What is Ethereum? A Beginner-Friendly Overview](https://dev.to/binary-r/what-is-ethereum-a-beginner-friendly-overview-4loe)
+- [Understanding Rendering in Programming: From Code to Pixels](https://dev.to/chami/understanding-rendering-in-programming-from-code-to-pixels-358h)
+- [Train an obedient AI! I made a free AI prompt optimizer!](https://dev.to/gagaisyou/train-an-obedient-ai-i-made-a-free-ai-prompt-optimizer-38ln)
+- [Easy Finance AI](https://dev.to/capjud95/easy-finance-ai-10po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
