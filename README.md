@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [nullptr in C23](https://dev.to/pauljlucas/nullptr-in-c23-1cn6)
-- [Wayland, have you heard about it ?](https://dev.to/azwad_jahan/wayland-have-you-heard-about-it--3kjj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pi8)
-- [Unlock Go&#39;s HTTP Potential: See Our Performance Benchmarks ✨](https://dev.to/evilmagics/unlock-gos-http-potential-see-our-performance-benchmarks-3ooc)
-- [Is GPT-5 Arriving This Summer? What the AI World Is Whispering](https://dev.to/jovin_george_733dcfc16291/is-gpt-5-arriving-this-summer-what-the-ai-world-is-whispering-2e18)
+- [Web Developer Travis McCracken on Choosing Rust and Go for Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-choosing-rust-and-go-for-backend-systems-meh)
+- [Next.js ওয়েবসাইট Hostinger VPS-এ ডিপ্লয় ডকুমেন্টেশন](https://dev.to/tariqul420/nextjs-oyebsaaitt-hostinger-vps-e-ddiply-ddkumentteshn-2pc)
+- [3 Issues That Remote MCP Developers Should Avoid](https://dev.to/portia-ai/3-issues-that-remote-mcp-developers-should-avoid-226o)
+- [Deployment Automation 1](https://dev.to/github-recommend/deployment-automation-1-1343)
+- [SceneCraft AI](https://dev.to/aniruddhaadak/scenecraft-ai-1214)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
