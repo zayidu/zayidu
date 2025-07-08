@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Vue&#39;s Single File Components &lpar;.vue&rpar; in the browser directly, no build step](https://dev.to/thejaredwilcurt/using-vues-single-file-components-vue-in-the-browser-directly-no-build-step-50j3)
-- [🚀 What is Ethereum? A Beginner-Friendly Overview](https://dev.to/binary-r/what-is-ethereum-a-beginner-friendly-overview-4loe)
-- [Understanding Rendering in Programming: From Code to Pixels](https://dev.to/chami/understanding-rendering-in-programming-from-code-to-pixels-358h)
-- [Train an obedient AI! I made a free AI prompt optimizer!](https://dev.to/gagaisyou/train-an-obedient-ai-i-made-a-free-ai-prompt-optimizer-38ln)
-- [Easy Finance AI](https://dev.to/capjud95/easy-finance-ai-10po)
+- [Front End Language Feature Matrix](https://dev.to/gdotdesign/front-end-language-feature-matrix-n4b)
+- [Do you need to be a programmer to contribute to open source projects?](https://dev.to/szabgab/do-you-need-to-be-a-programmer-to-contribute-to-open-source-projects-29i9)
+- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-14fl)
+- [reddit mcp热门讨论集锦](https://dev.to/dragon72463399/reddit-mcpre-men-tao-lun-ji-jin-50m1)
+- [The Rise of WebAssembly &lpar;Wasm&rpar; in Full-Stack Web Development: 2025 and Beyond](https://dev.to/dimshat/the-rise-of-webassembly-wasm-in-full-stack-web-development-2025-and-beyond-1d9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
