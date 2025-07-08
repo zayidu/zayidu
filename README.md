@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3/100: Assembling the Toolkit on a Shoestring Budget 🛠️💰](https://dev.to/khuepm/day-3100-assembling-the-toolkit-on-a-shoestring-budget-3a45)
-- [How To Synchronize threads In Go.](https://dev.to/sfundomhlungu/how-to-synchronize-threads-in-go-1elo)
-- [Your First Claude Integration Using MCP-Style Tooling](https://dev.to/aun_aideveloper/your-first-claude-integration-using-mcp-style-tooling-3081)
-- [AI For Beginners](https://dev.to/ali_e97e4fa82de1024780940/-4273)
-- [Finding Your Niche in Tech: A Guide for the Confused but Curious](https://dev.to/gertrude_abagale/finding-your-niche-in-tech-a-guide-for-the-confused-but-curious-4m9e)
+- [How to Translate Subtitles for Professional Videos](https://dev.to/colinreed/how-to-translate-subtitles-for-professional-videos-28k0)
+- [Say Goodbye to Try-Catch: Smart Async Error Handling in Express 🚀](https://dev.to/dev-rashedin/say-goodbye-to-try-catch-smart-async-error-handling-in-express-33hi)
+- [5 Tips to Boost Your Productivity as a Developer](https://dev.to/jackson_misiocha_36e7ab5b/5-tips-to-boost-your-productivity-as-a-developer-4eo9)
+- [Here&#39;s something interesting... !](https://dev.to/ankit_rattan/heres-something-interesting--3n38)
+- [How to Train an AI Model to Understand Time, Date &amp; Location Requests](https://dev.to/olalekan_oladiran_d74b7a6/how-to-train-an-ai-model-to-understand-time-date-location-requests-1197)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
