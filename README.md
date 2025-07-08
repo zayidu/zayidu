@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Month into GSoC with AOSSIE: My Journey Building Perspective](https://dev.to/parag_ghatage_dev124/one-month-into-gsoc-with-aossie-my-journey-building-perspective-3j51)
-- [Grants to Investments Part 1: The Data](https://dev.to/sher213/grants-to-investments-part-1-the-data-334h)
-- [#1 School Paperwork](https://dev.to/maddiepst/1-school-paperwork-1fb8)
-- [How Node.js Differs from Other Server-Side Technologies](https://dev.to/kiani0x01/how-nodejs-differs-from-other-server-side-technologies-36oi)
-- [The most popular AI coding tools, according to devs](https://dev.to/gail_axelrod_03844667f64d/the-most-popular-ai-coding-tools-according-to-devs-28pf)
+- [React Design Pattern /Render Props Pattern](https://dev.to/kkr0423/react-design-pattern-render-props-pattern-mj6)
+- [Google AI Studio Review: Best Use Cases for AI Teams in 2025](https://dev.to/alifar/google-ai-studio-a-powerful-playground-for-prompting-but-at-what-cost-2hjm)
+- [Building iettnext - a next-gen, modern, feature-rich application for Istanbul&#39;s transportation.](https://dev.to/rednexie/building-iettnext-a-next-gen-modern-feature-rich-application-for-istanbuls-transportation-14bf)
+- [How I Hacked a Hacker – Part 2: The Hunt Begins &lpar;Real-Life Story&rpar;](https://dev.to/scofieldidehen/how-i-hacked-a-hacker-part-2-the-hunt-begins-real-life-story-1dkj)
+- [Simulating a United Nations Session with CAMEL Multi-Agent Systems](https://dev.to/jauhar/simulating-a-united-nations-session-with-camel-multi-agent-systems-5dhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
