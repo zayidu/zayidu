@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch 1: Basic Rendering](https://dev.to/ndesmic/webgpu-engine-from-scratch-1-basic-rendering-51cl)
-- [Top 5 Mistakes to Avoid in Regression Testing](https://dev.to/misterankit/top-5-mistakes-to-avoid-in-regression-testing-5e7c)
-- [🔑 Amazon Bedrock API Keys: Autenticación Simplificada para Desarrolladores](https://dev.to/aws-espanol/amazon-bedrock-api-keys-autenticacion-simplificada-para-desarrolladores-41pg)
-- [Hello World, Hello Me. My Developer Archive](https://dev.to/morphlogy/hello-world-hello-me-my-developer-archive-42kj)
-- [Benchmark: How Well AI Models Handle Table Processing](https://dev.to/businessware/benchmark-how-well-ai-models-handle-table-processing-29kl)
+- [Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/switch-between-installed-php-versions-on-linux-5752)
+- [How to Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/how-to-switch-between-installed-php-versions-on-linux-jga)
+- [Textractify: AI-Powered Receipt Processing in the Cloud](https://dev.to/omkarsharma2821/textractify-ai-powered-receipt-processing-in-the-cloud-d35)
+- [Terraform Fundamentals: Cognito Identity](https://dev.to/devopsfundamentals/terraform-fundamentals-cognito-identity-3bac)
+- [การปิด/เปิด graphic mode ของ rocky linux](https://dev.to/cross1308/kaarpidepid-graphic-mode-khng-rocky-linux-1mme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
