@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detox Week](https://dev.to/cargdev/detox-week-4k6h)
-- [Building a Slack AI Chatbot to Process PDF Content with n8n](https://dev.to/aihacks/building-a-slack-ai-chatbot-to-process-pdf-content-with-n8n-14hi)
-- [Built an AI Agent using Strands Agents SDK](https://dev.to/aws-builders/built-an-ai-agent-using-strands-agents-sdk-2o55)
-- [One-Stop Developer Guide to Prompt Engineering Across OpenAI, Anthropic, and Google](https://dev.to/kenangain/one-stop-developer-guide-to-prompt-engineering-across-openai-anthropic-and-google-4bfb)
-- [How to Build a Home Kubernetes Cluster With Raspberry Pi &lpar;2025 Guide&rpar;](https://dev.to/subnetsavy/how-to-build-a-home-kubernetes-cluster-with-raspberry-pi-2025-guide-204o)
+- [Pesticides: Separating Fact from Fiction](https://dev.to/sysmaya/pesticides-separating-fact-from-fiction-355j)
+- [Anyone know when Dev++ members are able to claim the 2-month Warp Pro offer?](https://dev.to/p5n/anyone-know-when-dev-members-are-able-to-claim-the-2-month-warp-pro-offer-5ddi)
+- [Bronze Medal for Team Unibo at CyberChallenge.IT 2025](https://dev.to/ulisse/bronze-medal-for-team-unibo-at-cyberchallengeit-2025-16j0)
+- [Umemura Farm Website – Devlog #29: Lighthouse-Informed Refactoring and Optimization](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-29-lighthouse-informed-refactoring-and-optimization-512i)
+- [Zero to Production App in 22 Days?! 🤯](https://dev.to/seanmccurdy/zero-to-production-app-in-22-days-2kdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
