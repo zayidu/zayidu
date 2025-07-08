@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Design Pattern /Render Props Pattern](https://dev.to/kkr0423/react-design-pattern-render-props-pattern-mj6)
-- [Google AI Studio Review: Best Use Cases for AI Teams in 2025](https://dev.to/alifar/google-ai-studio-a-powerful-playground-for-prompting-but-at-what-cost-2hjm)
-- [Building iettnext - a next-gen, modern, feature-rich application for Istanbul&#39;s transportation.](https://dev.to/rednexie/building-iettnext-a-next-gen-modern-feature-rich-application-for-istanbuls-transportation-14bf)
-- [How I Hacked a Hacker – Part 2: The Hunt Begins &lpar;Real-Life Story&rpar;](https://dev.to/scofieldidehen/how-i-hacked-a-hacker-part-2-the-hunt-begins-real-life-story-1dkj)
-- [Simulating a United Nations Session with CAMEL Multi-Agent Systems](https://dev.to/jauhar/simulating-a-united-nations-session-with-camel-multi-agent-systems-5dhi)
+- [Next.js: React&#39;s Glow-Up Era](https://dev.to/ana_almonte029/nextjs-reacts-glow-up-era-586c)
+- [From Code to Live in Minutes: Deploying My Astro Starlight Static Site on Vercel.](https://dev.to/uzukwu_michael_91a95b823b/from-code-to-live-in-minutes-deploying-my-astro-starlight-static-site-on-vercel-49ca)
+- [Hello Dev.to 👋 — I&#39;m Travis McCracken &lpar;Web Developer&rpar;](https://dev.to/travis-mccracken-dev/hello-devto-im-travis-mccracken-web-developer-dbc)
+- [# Building a Robust Neovim Format Autocommand](https://dev.to/voyeg3r/-building-a-robust-neovim-format-autocommand-9ii)
+- [Building MIA: A WhatsApp AI Assistant to Escape Subscription Hell](https://dev.to/pablo_pusiol_90007f459a22/building-mia-a-whatsapp-ai-assistant-to-escape-subscription-hell-51o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
