@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Rising: What’s Next?](https://dev.to/alifar/ai-agents-are-rising-whats-next-5h2m)
-- [💳 Build a Realistic Editable VISA Card UI with HTML, CSS &amp; JavaScript &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/learncodewithalex/build-a-realistic-editable-visa-card-ui-with-html-css-javascript-step-by-step-tutorial-3lf2)
-- [# Introducing Helpothon: A New Frontier in Social Good for Developers](https://dev.to/helpothon/-introducing-helpothon-a-new-frontier-in-social-good-for-developers-40c6)
-- [[Boost]](https://dev.to/surya2006/-2d34)
-- [The Little Knob That Tuned the Stars: Variable Resistors &amp; the Art of Balance](https://dev.to/ersajay/the-little-knob-that-tuned-the-stars-variable-resistors-the-art-of-balance-1kfn)
+- [How to Build Your First AI Agent &lpar;The Developer’s Quickstart Manual&rpar;](https://dev.to/alifar/how-to-build-your-first-ai-agent-the-developers-quickstart-manual-2b39)
+- [File Download Feature in Spring Boot](https://dev.to/nashmin_hasan/file-download-feature-in-spring-boot-co1)
+- [Build your own online code compiler](https://dev.to/pythonxi/build-your-own-online-code-compiler-5g61)
+- [Debugging a Washed-Out TFT Display: A Real-World RGB Interface Mismatch](https://dev.to/44bbe4c6408519/debugging-a-washed-out-tft-display-a-real-world-rgb-interface-mismatch-op5)
+- [Understanding REST Resources: A Guide for Developers with Django ViewSets](https://dev.to/vincenttommi/understanding-rest-resources-a-guide-for-developers-with-django-viewsets-53l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
