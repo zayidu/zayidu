@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My post on GenAI!!](https://dev.to/rishirajbal/my-post-on-genai-2jjj)
-- [[Personal Project #9] UEFA Women’s Euro 2025: Why Is Spain Dominating](https://dev.to/ezeeyeyo/personal-project-9-uefa-womens-euro-2025-why-is-spain-dominating-1f6d)
-- [The Security Checklist I Use for Every Website I Build](https://dev.to/arbythecoder/the-security-checklist-i-use-for-every-website-i-build-4321)
-- [Ulance, NothingNess; Expectance %%](https://dev.to/taste_crafter/ulance-nothingness-expectance--2k7k)
-- [Brevity](https://dev.to/oculus42/brevity-2ljp)
+- [The Science Behind Cognitive Overload](https://dev.to/a_belova/the-science-behind-cognitive-overload-39ga)
+- [Real Time Communication Modern Web Server Sent Events](https://dev.to/github-recommend/real-time-communication-modern-web-server-sent-events-3d69)
+- [Build an AI Food Ordering Agents with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-food-ordering-agents-with-n8n-read-the-full-article-57jj)
+- [My first day!](https://dev.to/darwintech/my-first-day-416b)
+- [Distributed Computing Framework](https://dev.to/github-recommend/distributed-computing-framework-3l9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
