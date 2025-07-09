@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Design Philosophy Patterns High Web](https://dev.to/github-recommend/context-design-philosophy-patterns-high-web-1b08)
-- [Code vs LLM in a simple planning poker agent example](https://dev.to/portia-ai/code-vs-llm-in-a-simple-planning-poker-agent-example-5dg0)
-- [How to Create an EC2 Instance on AWS](https://dev.to/dj_orchido/how-to-create-an-ec2-instance-on-aws-56gl)
-- [Pinterest Scraping in 2025: Why I Built a Production-Ready Scrapy Spider &lpar;And You Should Too&rpar;](https://dev.to/noorsimar/pinterest-scraping-in-2025-why-i-built-a-production-ready-scrapy-spider-and-you-should-too-4j0n)
-- [Locking Down Your Parse Server Schema in Production](https://dev.to/lovestaco/locking-down-your-parse-server-schema-in-production-2ke4)
+- [“Transforming Office Culture with a Vibrant Intranet Homepage — My Axero Challenge Build”](https://dev.to/praneet_biswal_d355dcff3c/transforming-office-culture-with-a-vibrant-intranet-homepage-my-axero-challenge-build-45n9)
+- [🐢 Slow is Smooth, Smooth is Fast](https://dev.to/cdownard/slow-is-smooth-smooth-is-fast-3mfe)
+- [IEx: Elixir&#39;s Interactive Shell](https://dev.to/muzhawir/iex-elixirs-interactive-shell-1hbk)
+- [🚀Building with Bolt: How I Created Smile2Earn](https://dev.to/shree_chavan_62c390737b6e/building-with-bolt-how-i-created-smile2earn-3e8g)
+- [🚀 Wrapping Up My GitLab CI/CD Journey with 2 Real Projects](https://dev.to/vishal_09/wrapping-up-my-gitlab-cicd-journey-with-2-real-projects-iog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
