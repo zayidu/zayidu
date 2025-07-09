@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [After the Hack: What Comes Next](https://dev.to/0xtommythomas/after-the-hack-what-comes-next-mbj)
-- [How to display the temperature and humidity from the DHT sensor on an LCD screen?](https://dev.to/carolineee/how-to-display-the-temperature-and-humidity-from-the-dht-sensor-on-an-lcd-screen-9i0)
-- [Beyond the Code: The Community That Made the Hackathon Unforgettable](https://dev.to/0xtommythomas/beyond-the-code-the-community-that-made-the-hackathon-unforgettable-3en6)
-- [Peak Performance Analysis Power Modern Web Studies](https://dev.to/github-recommend/peak-performance-analysis-power-modern-web-studies-o8i)
-- [Nuxt Joins Vercel. What This Means for the Future of Web Frameworks](https://dev.to/ahmedgmurtaza/nuxt-joins-vercel-what-this-means-for-the-future-of-web-frameworks-dc7)
+- [Scraping Twitter in 2025: A Developer&#39;s Guide to Surviving the API Apocalypse](https://dev.to/sivarampg/scraping-twitter-in-2025-a-developers-guide-to-surviving-the-api-apocalypse-5bbd)
+- [Why delaying your CMS Upgrade costs more than you think](https://dev.to/flotiq/why-delaying-your-cms-upgrade-costs-more-than-you-think-c1k)
+- [Devlog#1 SlideMD](https://dev.to/kongsakchai/devlog1-slidemd-422f)
+- [✨ Build Your Own Developer Avatar with Google AI Studio — My Submission for the DEV Education Track](https://dev.to/om_shree_0709/build-your-own-developer-avatar-with-google-ai-studio-my-submission-for-the-dev-education-track-3hj4)
+- [C++ with no classes?](https://dev.to/pvsdev/c-with-no-classes-4adm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
