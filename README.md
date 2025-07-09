@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use macOS 26 Beta Inside a VM Without Third-Party Apps](https://dev.to/belous/how-to-use-macos-26-beta-inside-a-vm-without-third-party-apps-4j21)
-- [Big Data Fundamentals: delta lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-project-1fak)
-- [🐧 Tech Support Series: Fixing a Slow Linux System](https://dev.to/daretechie/tech-support-series-fixing-a-slow-linux-system-3h9n)
-- [🚀 𝐓𝐡𝐞 𝐒𝐭𝐚𝐭𝐞 𝐨𝐟 𝐋𝐋𝐌𝐬 𝐢𝐧 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐢𝐧 𝟐𝟎𝟐𝟓](https://dev.to/idris_attal/-19f2)
-- [Devlog #11 Double day, Double feature](https://dev.to/bain_8a987225b41e21618fcb/devlog-11-double-day-double-feature-2912)
+- [AWS Beginners Learning Journey - A Technical Guide [Part-1]](https://dev.to/suvrajeet/aws-beginners-learning-journey-a-technical-guide-part-1-4hpg)
+- [# How to Investigate a Compromised Linux Server](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
+- [Top 5 Code-Level Techniques to Handle High Traffic in Spring Boot: Part 1](https://dev.to/abhijithzero/top-5-code-level-techniques-to-handle-high-traffic-in-spring-boot-part-1-29en)
+- [⏳Balancing the 9-to-5 While Building a CRM #03](https://dev.to/0xj0n1/balancing-the-9-to-5-while-building-a-crm-03-34jh)
+- [JavaScript Map - Explicação detalhada, casos e exemplos de uso](https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
