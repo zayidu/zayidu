@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“Transforming Office Culture with a Vibrant Intranet Homepage — My Axero Challenge Build”](https://dev.to/praneet_biswal_d355dcff3c/transforming-office-culture-with-a-vibrant-intranet-homepage-my-axero-challenge-build-45n9)
-- [🐢 Slow is Smooth, Smooth is Fast](https://dev.to/cdownard/slow-is-smooth-smooth-is-fast-3mfe)
-- [IEx: Elixir&#39;s Interactive Shell](https://dev.to/muzhawir/iex-elixirs-interactive-shell-1hbk)
-- [🚀Building with Bolt: How I Created Smile2Earn](https://dev.to/shree_chavan_62c390737b6e/building-with-bolt-how-i-created-smile2earn-3e8g)
-- [🚀 Wrapping Up My GitLab CI/CD Journey with 2 Real Projects](https://dev.to/vishal_09/wrapping-up-my-gitlab-cicd-journey-with-2-real-projects-iog)
+- [Big Data Fundamentals: delta lake example](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-example-3ncg)
+- [Tired of Static Figures? Blokees Lets You Build the Legends Yourself](https://dev.to/katherineboyarsky/tired-of-static-figures-blokees-lets-you-build-the-legends-yourself-5d3c)
+- [Shopify Development Tips That Increase Sales in 2025](https://dev.to/omatic_growth/shopify-development-tips-that-increase-sales-in-2025-4nn6)
+- [From Chaos to Control: GitHub Rule Sets and Workflows for Safer AWS Deployments](https://dev.to/domderrien/from-chaos-to-control-github-rule-sets-and-workflows-for-safer-aws-deployments-3jm0)
+- [🚀 Convert JSON to Clean HTML Instantly – Feedback Wanted!](https://dev.to/devops_aladin_3d1a9d005ab/convert-json-to-clean-html-instantly-feedback-wanted-486)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
