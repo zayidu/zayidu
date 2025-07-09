@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Probably Using curl Wrong with Your Google Apps Script Web App](https://dev.to/googleworkspace/youre-probably-using-curl-wrong-with-your-google-apps-script-web-app-1ed8)
-- [Building With Docker: Images, Containers, Multi-Stage builds &amp; Optimization](https://dev.to/arcadebuilds/building-with-docker-images-containers-multi-stage-builds-optimization-1blm)
-- [Cassandra vs PostgreSQL: A Developer’s Guide to Choose the Right Database](https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi)
-- [GitFlow Studio – All-in-One Git + Git Flow + GitHub, right in your terminal](https://dev.to/vision2030/gitflow-studio-all-in-one-git-git-flow-github-right-in-your-terminal-4g85)
-- [Developer Experience Revolution](https://dev.to/github-recommend/developer-experience-revolution-55d5)
+- [Context Design Philosophy Patterns High Web](https://dev.to/github-recommend/context-design-philosophy-patterns-high-web-1b08)
+- [Code vs LLM in a simple planning poker agent example](https://dev.to/portia-ai/code-vs-llm-in-a-simple-planning-poker-agent-example-5dg0)
+- [How to Create an EC2 Instance on AWS](https://dev.to/dj_orchido/how-to-create-an-ec2-instance-on-aws-56gl)
+- [Pinterest Scraping in 2025: Why I Built a Production-Ready Scrapy Spider &lpar;And You Should Too&rpar;](https://dev.to/noorsimar/pinterest-scraping-in-2025-why-i-built-a-production-ready-scrapy-spider-and-you-should-too-4j0n)
+- [Locking Down Your Parse Server Schema in Production](https://dev.to/lovestaco/locking-down-your-parse-server-schema-in-production-2ke4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
