@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Gemini Figure Out the Ultimate Question: 100 Men Versus a Gorilla — Who Would Win?](https://dev.to/ansellmaximilian/can-gemini-figure-out-the-ultimate-question-100-men-versus-a-gorilla-who-would-win-475h)
-- [Speed Up Your Next.js App: Optimizing S3 Images with Cloudflare Images](https://dev.to/u11d/speed-up-your-nextjs-app-optimizing-s3-images-with-cloudflare-images-1h67)
-- [Hello, World!](https://dev.to/lucaster/hello-world-2cjl)
-- [Benefits of Working From Home: Why Remote Work Is the Future of Productivity](https://dev.to/teamcamp/benefits-of-working-from-home-why-remote-work-is-the-future-of-productivity-16f2)
-- [hello](https://dev.to/kishan01/hello-nbm)
+- [After the Hack: What Comes Next](https://dev.to/0xtommythomas/after-the-hack-what-comes-next-mbj)
+- [How to display the temperature and humidity from the DHT sensor on an LCD screen?](https://dev.to/carolineee/how-to-display-the-temperature-and-humidity-from-the-dht-sensor-on-an-lcd-screen-9i0)
+- [Beyond the Code: The Community That Made the Hackathon Unforgettable](https://dev.to/0xtommythomas/beyond-the-code-the-community-that-made-the-hackathon-unforgettable-3en6)
+- [Peak Performance Analysis Power Modern Web Studies](https://dev.to/github-recommend/peak-performance-analysis-power-modern-web-studies-o8i)
+- [Nuxt Joins Vercel. What This Means for the Future of Web Frameworks](https://dev.to/ahmedgmurtaza/nuxt-joins-vercel-what-this-means-for-the-future-of-web-frameworks-dc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
