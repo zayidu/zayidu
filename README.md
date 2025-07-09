@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Should Think Like PMs](https://dev.to/dct_technology/why-developers-should-think-like-pms-2f0c)
-- [VPS Management made easy with Nixopus](https://dev.to/zhravan/vps-management-made-easy-with-nixopus-1fop)
-- [Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams](https://dev.to/pratham_naik_project_manager/-5ca8)
-- [Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams](https://dev.to/teamcamp/async-first-how-7-remote-dev-teams-ship-faster-than-office-teams-1jil)
-- [Development Environment Optimization](https://dev.to/github-recommend/development-environment-optimization-2650)
+- [Calling All NodeJS Wizards: What Would You Add to the Ultimate Boilerplate?](https://dev.to/anchildress11/calling-all-nodejs-wizards-what-would-you-add-to-the-ultimate-boilerplate-38aj)
+- [Cook, Connect, Collaborate: Top Group Cooking Activities for Teams](https://dev.to/sosparty/cook-connect-collaborate-top-group-cooking-activities-for-teams-5247)
+- [🧩 Discovering ERP: A Developer’s Journey into Small Business Needs](https://dev.to/amrahussein/discovering-erp-a-developers-journey-into-small-business-needs-3ipk)
+- [Learn Python 003](https://dev.to/tamilvanan/learn-python-003-29c4)
+- [Network Programming Guide](https://dev.to/github-recommend/network-programming-guide-2h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
