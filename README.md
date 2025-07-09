@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [dapper and EF core](https://dev.to/renukapatil/dapper-and-ef-core-579c)
-- [How to Create Any Google Veo 3 Video Styles with json format Hack](https://dev.to/therealmrmumba/how-to-create-any-google-veo-3-video-styles-with-json-format-hack-1ond)
-- [How To Master Databases and Data Systems with JavaScript Examples.](https://dev.to/sfundomhlungu/how-to-master-databases-and-data-systems-with-javascript-examples-2501)
-- [Understanding Bitcoin Market Patterns: AZETHIO&#39;s Technical Analysis Guide](https://dev.to/azethio/understanding-bitcoin-market-patterns-azethios-technical-analysis-guide-omd)
-- [Production Deployment Strategies Docker Cloud High Web](https://dev.to/github-recommend/production-deployment-strategies-docker-cloud-high-web-26h)
+- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/github-recommend/cross-platform-tool-building-universal-web-applications-advanced-3bhg)
+- [How to Design a Toilet Paper Roller Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-toilet-paper-roller-using-3d-cad-software-c4l)
+- [Practical approach to interface, delegate, events in Unity](https://dev.to/kwesikwaa/practical-approach-to-interface-delegate-events-in-unity-2d57)
+- [Top Agency Internships for Social Media Marketing Training](https://dev.to/techverdi/top-agency-internships-for-social-media-marketing-training-6oe)
+- [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
