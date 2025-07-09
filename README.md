@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Claude 4 API: A developer’s walkthrough](https://dev.to/logrocket/getting-started-with-claude-4-api-a-developers-walkthrough-1n1b)
-- [🚀 What’s New in Ruby 3.4 – The Language We Love Keeps Getting Sharper](https://dev.to/obaidaashfaq20/whats-new-in-ruby-34-the-language-we-love-keeps-getting-sharper-1e10)
-- [Building a Modern, Type-Safe Authentication System for Django REST Framework](https://dev.to/huynguyengl99/building-a-modern-type-safe-authentication-system-for-django-rest-framework-c42)
-- [Fun Operators of JavaScript – Compare &amp; Conquer!](https://dev.to/megha_m/fun-operators-of-javascript-compare-conquer-11hp)
-- [&quot;Operator overload? Not Anymore - JS Operators Made Easy!&quot;](https://dev.to/praveena_2109/operator-overload-not-anymore-js-operators-made-easy-3514)
+- [Ringer Movies: The 2025 Movie Auction Returns! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-2025-movie-auction-returns-the-big-picture-g2p)
+- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2ngi)
+- [CinemaSins: Is that REALLY the old-fashioned way? #roadhouse #cinemasins](https://dev.to/popcorn_movies/cinemasins-is-that-really-the-old-fashioned-way-roadhouse-cinemasins-3gba)
+- [CinemaSins: Disgusting! #austinpowers #cinemasins](https://dev.to/popcorn_movies/cinemasins-disgusting-austinpowers-cinemasins-31ha)
+- [CinemaSins: Remember the 2015 Super Bowl? #nimona #cinemasins](https://dev.to/popcorn_movies/cinemasins-remember-the-2015-super-bowl-nimona-cinemasins-5g1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
