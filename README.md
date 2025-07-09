@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: delta lake example](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-example-3ncg)
-- [Tired of Static Figures? Blokees Lets You Build the Legends Yourself](https://dev.to/katherineboyarsky/tired-of-static-figures-blokees-lets-you-build-the-legends-yourself-5d3c)
-- [Shopify Development Tips That Increase Sales in 2025](https://dev.to/omatic_growth/shopify-development-tips-that-increase-sales-in-2025-4nn6)
-- [From Chaos to Control: GitHub Rule Sets and Workflows for Safer AWS Deployments](https://dev.to/domderrien/from-chaos-to-control-github-rule-sets-and-workflows-for-safer-aws-deployments-3jm0)
-- [🚀 Convert JSON to Clean HTML Instantly – Feedback Wanted!](https://dev.to/devops_aladin_3d1a9d005ab/convert-json-to-clean-html-instantly-feedback-wanted-486)
+- [How to Use macOS 26 Beta Inside a VM Without Third-Party Apps](https://dev.to/belous/how-to-use-macos-26-beta-inside-a-vm-without-third-party-apps-4j21)
+- [Big Data Fundamentals: delta lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-project-1fak)
+- [🐧 Tech Support Series: Fixing a Slow Linux System](https://dev.to/daretechie/tech-support-series-fixing-a-slow-linux-system-3h9n)
+- [🚀 𝐓𝐡𝐞 𝐒𝐭𝐚𝐭𝐞 𝐨𝐟 𝐋𝐋𝐌𝐬 𝐢𝐧 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐢𝐧 𝟐𝟎𝟐𝟓](https://dev.to/idris_attal/-19f2)
+- [Devlog #11 Double day, Double feature](https://dev.to/bain_8a987225b41e21618fcb/devlog-11-double-day-double-feature-2912)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
