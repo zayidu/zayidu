@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/github-recommend/cross-platform-tool-building-universal-web-applications-advanced-3bhg)
-- [How to Design a Toilet Paper Roller Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-toilet-paper-roller-using-3d-cad-software-c4l)
-- [Practical approach to interface, delegate, events in Unity](https://dev.to/kwesikwaa/practical-approach-to-interface-delegate-events-in-unity-2d57)
-- [Top Agency Internships for Social Media Marketing Training](https://dev.to/techverdi/top-agency-internships-for-social-media-marketing-training-6oe)
-- [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
+- [I Lost All My App Data with One Line of Code — Here&#39;s What I Learned &lpar;Real JS Story&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/i-lost-all-my-app-data-with-one-line-of-code-heres-what-i-learned-real-js-story-p1c)
+- [How Satellite and Drone Image Annotation Powers Real-World AI](https://dev.to/max_will_79c3787d8128bc5d/how-satellite-and-drone-image-annotation-powers-real-world-ai-d7e)
+- [JECQ: Smart, Open-Source Compression for FAISS Users—6x Compression Ratio, 85% Accuracy](https://dev.to/janeasystems/jecq-smart-open-source-compression-for-faiss-users-6x-compression-ratio-85-accuracy-5a5n)
+- [How Logistics Companies Can Automate Freight Tracking Using APIs](https://dev.to/melika_ghasemifard_7676f5/how-logistics-companies-can-automate-freight-tracking-using-apis-1i0l)
+- [tmux Cheatsheet](https://dev.to/mss/tmux-cheatsheet-3m7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
