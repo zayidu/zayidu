@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling All NodeJS Wizards: What Would You Add to the Ultimate Boilerplate?](https://dev.to/anchildress11/calling-all-nodejs-wizards-what-would-you-add-to-the-ultimate-boilerplate-38aj)
-- [Cook, Connect, Collaborate: Top Group Cooking Activities for Teams](https://dev.to/sosparty/cook-connect-collaborate-top-group-cooking-activities-for-teams-5247)
-- [🧩 Discovering ERP: A Developer’s Journey into Small Business Needs](https://dev.to/amrahussein/discovering-erp-a-developers-journey-into-small-business-needs-3ipk)
-- [Learn Python 003](https://dev.to/tamilvanan/learn-python-003-29c4)
-- [Network Programming Guide](https://dev.to/github-recommend/network-programming-guide-2h0)
+- [Can Gemini Figure Out the Ultimate Question: 100 Men Versus a Gorilla — Who Would Win?](https://dev.to/ansellmaximilian/can-gemini-figure-out-the-ultimate-question-100-men-versus-a-gorilla-who-would-win-475h)
+- [Speed Up Your Next.js App: Optimizing S3 Images with Cloudflare Images](https://dev.to/u11d/speed-up-your-nextjs-app-optimizing-s3-images-with-cloudflare-images-1h67)
+- [Hello, World!](https://dev.to/lucaster/hello-world-2cjl)
+- [Benefits of Working From Home: Why Remote Work Is the Future of Productivity](https://dev.to/teamcamp/benefits-of-working-from-home-why-remote-work-is-the-future-of-productivity-16f2)
+- [hello](https://dev.to/kishan01/hello-nbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
