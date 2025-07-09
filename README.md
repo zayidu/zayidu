@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Beginners Learning Journey - A Technical Guide [Part-1]](https://dev.to/suvrajeet/aws-beginners-learning-journey-a-technical-guide-part-1-4hpg)
-- [# How to Investigate a Compromised Linux Server](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
-- [Top 5 Code-Level Techniques to Handle High Traffic in Spring Boot: Part 1](https://dev.to/abhijithzero/top-5-code-level-techniques-to-handle-high-traffic-in-spring-boot-part-1-29en)
-- [⏳Balancing the 9-to-5 While Building a CRM #03](https://dev.to/0xj0n1/balancing-the-9-to-5-while-building-a-crm-03-34jh)
-- [JavaScript Map - Explicação detalhada, casos e exemplos de uso](https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j)
+- [DiParrot: The Low-Maintenance Pet Skill](https://dev.to/owly/diparrot-the-low-maintenance-pet-skill-35hf)
+- [If Kubernetes Runs in F-16 Fighter Jets, Why Are You Still Scared to Use It in Your Business?](https://dev.to/donjay/if-kubernetes-runs-in-f-16-fighter-jets-why-are-you-still-scared-to-use-it-in-your-business-54ea)
+- [Build an AI Agent for Airbnb Hosting with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-agent-for-airbnb-hosting-with-n8n-read-the-full-article-29n6)
+- [Thanos TSDB: How Default Configurations Can Lead to Silent Data Loss](https://dev.to/julienlau/thanos-tsdb-how-default-configurations-can-lead-to-silent-data-loss-57jh)
+- [Welcome!](https://dev.to/maddiepst/welcome-3g5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
