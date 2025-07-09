@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DiParrot: The Low-Maintenance Pet Skill](https://dev.to/owly/diparrot-the-low-maintenance-pet-skill-35hf)
-- [If Kubernetes Runs in F-16 Fighter Jets, Why Are You Still Scared to Use It in Your Business?](https://dev.to/donjay/if-kubernetes-runs-in-f-16-fighter-jets-why-are-you-still-scared-to-use-it-in-your-business-54ea)
-- [Build an AI Agent for Airbnb Hosting with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-agent-for-airbnb-hosting-with-n8n-read-the-full-article-29n6)
-- [Thanos TSDB: How Default Configurations Can Lead to Silent Data Loss](https://dev.to/julienlau/thanos-tsdb-how-default-configurations-can-lead-to-silent-data-loss-57jh)
-- [Welcome!](https://dev.to/maddiepst/welcome-3g5l)
+- [Unlocking the Future: How the CBN Can Harness Blockchain Technology for Nigeria’s Economic Growth](https://dev.to/favebs/unlocking-the-future-how-the-cbn-can-harness-blockchain-technology-for-nigerias-economic-growth-cle)
+- [Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use](https://dev.to/tatcode/dashboard-template-with-html-css-js-bootstrap-5-clean-modular-ready-to-use-1do9)
+- [Build Your First Web Page](https://dev.to/joyobaidu/build-your-first-web-page-5hn8)
+- [9 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/9-open-source-tools-every-developer-should-know-25b2)
+- [Docker Deep Dive Workshop at WeAreDevelopers](https://dev.to/docker/docker-deep-dive-workshop-at-wearedevelopers-110c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
