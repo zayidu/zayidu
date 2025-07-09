@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Lost All My App Data with One Line of Code — Here&#39;s What I Learned &lpar;Real JS Story&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/i-lost-all-my-app-data-with-one-line-of-code-heres-what-i-learned-real-js-story-p1c)
-- [How Satellite and Drone Image Annotation Powers Real-World AI](https://dev.to/max_will_79c3787d8128bc5d/how-satellite-and-drone-image-annotation-powers-real-world-ai-d7e)
-- [JECQ: Smart, Open-Source Compression for FAISS Users—6x Compression Ratio, 85% Accuracy](https://dev.to/janeasystems/jecq-smart-open-source-compression-for-faiss-users-6x-compression-ratio-85-accuracy-5a5n)
-- [How Logistics Companies Can Automate Freight Tracking Using APIs](https://dev.to/melika_ghasemifard_7676f5/how-logistics-companies-can-automate-freight-tracking-using-apis-1i0l)
-- [tmux Cheatsheet](https://dev.to/mss/tmux-cheatsheet-3m7k)
+- [🔥 Ethereum Basics: From Wallets to Smart Contracts](https://dev.to/githaiga22/ethereum-basics-from-wallets-to-smart-contracts-2kd0)
+- [HTML in a Heartbeat: Instantly Export Figma Mockups to Web-Ready Code](https://dev.to/atforeveryoung/html-in-a-heartbeat-instantly-export-figma-mockups-to-web-ready-code-34eg)
+- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
+- [AI and Art: Bold New Canvas or Culture Clash?](https://dev.to/sebastian_reid999/ai-and-art-bold-new-canvas-or-culture-clash-17fm)
+- [Linus Torvalds – The Reluctant Revolutionary Who Changed Everything](https://dev.to/jliter/linus-torvalds-the-reluctant-revolutionary-who-changed-everything-9n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
