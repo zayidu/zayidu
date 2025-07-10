@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Reservoir Dogs,&#39; ‘Kill Bill&#39; and ‘Donnie Brasco&#39; actor Michael Madsen dies at age 67](https://dev.to/popcorn_movies/reservoir-dogs-kill-bill-and-donnie-brasco-actor-michael-madsen-dies-at-age-67-1ano)
-- [Activision pulls Call of Duty game after PC players are hacked](https://dev.to/gg_news/activision-pulls-call-of-duty-game-after-pc-players-are-hacked-3hdp)
-- [Xbox 1st party costs are not included in Gamepass so they can claim it&#39;s profitable.](https://dev.to/gg_news/xbox-1st-party-costs-are-not-included-in-gamepass-so-they-can-claim-its-profitable-322p)
-- [Romero Games now ‘completely closed&#39; following Microsoft cuts, it&#39;s claimed](https://dev.to/gg_news/romero-games-now-completely-closed-following-microsoft-cuts-its-claimed-2gd6)
-- [“Definitely Not”: Helldivers 2 Devs Confirm It Won&#39;t Ever Come To Xbox Game Pass](https://dev.to/gg_news/definitely-not-helldivers-2-devs-confirm-it-wont-ever-come-to-xbox-game-pass-2lo7)
+- [⚖️ Proof of Stake Explained: Ethereum’s Guardians of the Blockchain](https://dev.to/githaiga22/proof-of-stake-explained-ethereums-guardians-of-the-blockchain-fpn)
+- [The Rise of AI Testing in Modern QA](https://dev.to/ronika_kashyap/the-rise-of-ai-testing-in-modern-qa-db2)
+- [How to Scale Content Creation Without Hiring a Full Team](https://dev.to/dux-soup-coupons/how-to-scale-content-creation-without-hiring-a-full-team-43hp)
+- [Hello Mage rattaram yaluwe](https://dev.to/indunil/hello-mage-rattaram-yaluwe-5ef5)
+- [GPT-5 Is Coming And It Might Be Smarter Than Sam Altman](https://dev.to/iamprincejkc/gpt-5-is-coming-and-it-might-be-smarter-than-sam-altman-4bm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
