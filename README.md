@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [https://medium.com/@alex2020global/filesystem-navigation-in-linux-aabaa87e8029](https://dev.to/pingalex/httpsmediumcomalex2020globalfilesystem-navigation-in-linux-aabaa87e8029-lm6)
-- [If It Happens... Else Do This! Understanding Conditions in JavaScript](https://dev.to/megha_m/if-it-happens-else-do-this-understanding-conditions-in-javascript-4l9)
-- [Join the Algolia MCP Server Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-mcp-server-challenge-3000-in-prizes-1non)
-- [First task](https://dev.to/ishibak/first-task-2de1)
-- [The Real Reason We Call Them &#39;Constructors&#39; : Real life vs OOP](https://dev.to/quillofacoder/the-real-reason-we-call-them-constructors-real-life-vs-oop-36gn)
+- [YouTube channel mirror on Jekyll - part 4](https://dev.to/solvecomputerscience/youtube-channel-mirror-on-jekyll-part-4-4jbm)
+- [How API client automation can save you hours in development](https://dev.to/logrocket/how-api-client-automation-can-save-you-hours-in-development-3gbh)
+- [How to Bridge Networks in Docker Compose &lpar;`docker-compose.yml`&rpar;](https://dev.to/lovestaco/how-to-bridge-networks-in-docker-compose-docker-composeyml-1i03)
+- [How to Deploy a Windows Server 2022 Domain Controller with VirtualBox Manager](https://dev.to/ibrahimbioabu/how-to-deploy-a-windows-server-2022-domain-controller-with-virtualbox-manager-5dpn)
+- [Migrating from EC2 to Containers: What Teams Miss](https://dev.to/aws-builders/migrating-from-ec2-to-containers-what-teams-miss-4di5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
