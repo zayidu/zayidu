@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lucky-cyber3008/-170g)
-- [What is the purpose of jsconfig.json?](https://dev.to/xnivaxhzne/what-is-the-purpose-of-jsconfigjson-4ob0)
-- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
-- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
-- [Building Spokane Tech: Part 6](https://dev.to/spokanetech/building-spokane-tech-part-6-3jp1)
+- [10 Proven Ways to Improve JavaScript Performance in the Browser](https://dev.to/alexeybashkirov/10-proven-ways-to-improve-javascript-performance-in-the-browser-59p0)
+- [Write Like a Pro: 10 TypeScript Utilities You’re Probably Not Using Yet&lpar;Type Utilities!&rpar;&lpar;12&rpar;](https://dev.to/wisdombits/write-like-a-pro-10-typescript-utilities-youre-probably-not-using-yettype-utilities12-19m)
+- [Unlocking the Power of Azure Data Analytics Services for Modern Businesses](https://dev.to/jennifer608307/unlocking-the-power-of-azure-data-analytics-services-for-modern-businesses-3d10)
+- [NocoBase Weekly Updates: Support Custom Aggregation Variables](https://dev.to/nocobase/nocobase-weekly-updates-support-custom-aggregation-variables-2lf0)
+- [I Built a Blog Website in Minutes Using ChatGPT — Here&#39;s the Exact Workflow](https://dev.to/nitinfab/i-built-a-blog-website-in-minutes-using-chatgpt-heres-the-exact-workflow-388b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
