@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Proven Ways to Improve JavaScript Performance in the Browser](https://dev.to/alexeybashkirov/10-proven-ways-to-improve-javascript-performance-in-the-browser-59p0)
-- [Write Like a Pro: 10 TypeScript Utilities You’re Probably Not Using Yet&lpar;Type Utilities!&rpar;&lpar;12&rpar;](https://dev.to/wisdombits/write-like-a-pro-10-typescript-utilities-youre-probably-not-using-yettype-utilities12-19m)
-- [Unlocking the Power of Azure Data Analytics Services for Modern Businesses](https://dev.to/jennifer608307/unlocking-the-power-of-azure-data-analytics-services-for-modern-businesses-3d10)
-- [NocoBase Weekly Updates: Support Custom Aggregation Variables](https://dev.to/nocobase/nocobase-weekly-updates-support-custom-aggregation-variables-2lf0)
-- [I Built a Blog Website in Minutes Using ChatGPT — Here&#39;s the Exact Workflow](https://dev.to/nitinfab/i-built-a-blog-website-in-minutes-using-chatgpt-heres-the-exact-workflow-388b)
+- [What the terraform providers command tells you](https://dev.to/techielass/what-the-terraform-providers-command-tells-you-3j1)
+- [How to Use CASE to Sort an ENUM Column in MySQL](https://dev.to/ibrahimalanshor/how-to-use-case-to-sort-an-enum-column-in-mysql-3642)
+- [Why Your Data Fails You - and How a Data Platform Can Fix It](https://dev.to/andrey_s/why-your-data-fails-you-and-how-a-data-platform-can-fix-it-407h)
+- [[Boost]](https://dev.to/jeffdev03/-4ene)
+- [Using CASE to Sort ENUM Values in MySQL](https://dev.to/ibrahimalanshor/using-case-to-sort-enum-values-in-mysql-4okj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
