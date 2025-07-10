@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future: How the CBN Can Harness Blockchain Technology for Nigeria’s Economic Growth](https://dev.to/favebs/unlocking-the-future-how-the-cbn-can-harness-blockchain-technology-for-nigerias-economic-growth-cle)
-- [Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use](https://dev.to/tatcode/dashboard-template-with-html-css-js-bootstrap-5-clean-modular-ready-to-use-1do9)
-- [Build Your First Web Page](https://dev.to/joyobaidu/build-your-first-web-page-5hn8)
-- [9 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/9-open-source-tools-every-developer-should-know-25b2)
-- [Docker Deep Dive Workshop at WeAreDevelopers](https://dev.to/docker/docker-deep-dive-workshop-at-wearedevelopers-110c)
+- [How does the app generate encryption keystrings?](https://dev.to/liamloof_9d7b8c6dfc21b27a/how-does-the-app-generate-encryption-keystrings-1132)
+- [AWS Fundamentals: Elasticbeanstalk](https://dev.to/devopsfundamentals/aws-fundamentals-elasticbeanstalk-3mbk)
+- [[Boost]](https://dev.to/mohamed_arshath_b5ee96731/-1lek)
+- [We Built an AI That Catches Every Mental Thread You Drop!](https://dev.to/arina_graza/we-built-an-ai-that-catches-every-mental-thread-you-drop-1i4e)
+- [Week 6 - You&#39;re not stuck, you just skipped the basics: What is a real database?](https://dev.to/adamsnows/week-6-youre-not-stuck-you-just-skipped-the-basics-what-is-a-real-database-4ag5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
