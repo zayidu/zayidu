@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tornando as portas do DevContainer disponíveis localmente com forwardPorts](https://dev.to/videosdeti/tornando-as-portas-do-devcontainer-disponiveis-localmente-com-forwardports-453f)
-- [Today is my second day of Java full stack!](https://dev.to/rajeshkumar_vijayakumar_8/today-is-my-second-day-of-java-full-stack-18c9)
-- [Top Asynchronous JavaScript Interview Questions &lpar;2025&rpar;](https://dev.to/wynnt3o/top-asynchronous-javascript-interview-questions-2025-16ak)
-- [☣︎ Beginner-Friendly Guide: &quot;Reschedule Meetings for Maximum Free Time II&quot; – LeetCode 3440 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reschedule-meetings-for-maximum-free-time-ii-leetcode-3440-c--12me)
-- [The Builder Design Pattern in Java](https://dev.to/wkreuch/the-builder-design-pattern-in-java-167l)
+- [[Boost]](https://dev.to/lucky-cyber3008/-170g)
+- [What is the purpose of jsconfig.json?](https://dev.to/xnivaxhzne/what-is-the-purpose-of-jsconfigjson-4ob0)
+- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
+- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
+- [Building Spokane Tech: Part 6](https://dev.to/spokanetech/building-spokane-tech-part-6-3jp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
