@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop Monitoring and Performance Analysis](https://dev.to/omriluz1/event-loop-monitoring-and-performance-analysis-2n33)
-- [How I Built and Deployed My Portfolio Site From Scratch &lpar;With Failures, Fixes, and a Domain&rpar;](https://dev.to/econdev/how-i-built-and-deployed-my-portfolio-site-from-scratch-with-failures-fixes-and-a-domain-4166)
-- [Dynamic Dropdown Filtering in JSP Using AJAX and Custom Tags](https://dev.to/galisetty_priyatham_c1a49/dynamic-dropdown-filtering-in-jsp-using-ajax-and-custom-tags-55il)
-- [DevLog 20250710: Generics in Divooka](https://dev.to/methodox/devlog-20250710-generics-in-divooka-49e6)
-- [AutoFS in Red Hat Linux — Let Your System Mount Drives Without You Askin](https://dev.to/axisinfo_0a61830e06c3c950/autofs-in-red-hat-linux-let-your-system-mount-drives-without-you-askin-1b4j)
+- [SQL Server Stored Procedure Design for Flexible Record Lookup](https://dev.to/seanmdrew/sql-server-stored-procedure-design-for-flexible-record-lookup-2h97)
+- [🪙 Coin Change: Understanding the Problem with Two Dynamic Programming Approaches](https://dev.to/gaurikhanolkar1/coin-change-understanding-the-problem-with-two-dynamic-programming-approaches-3fn3)
+- [Pasos para desplegar aplicacion Flask con mod_wsgi y Apache.](https://dev.to/hpollack/pasos-para-desplegar-aplicacion-flask-con-modwsgi-y-apache-1f8d)
+- [Rust Query Builder for SQL an SurrealDB](https://dev.to/romaninsh/rust-query-builder-for-sql-an-surrealdb-32pf)
+- [Docker Offload: potência de nuvem com a simplicidade de sempre](https://dev.to/rflpazini/docker-offload-potencia-de-nuvem-com-a-simplicidade-de-sempre-3olk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
