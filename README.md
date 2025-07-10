@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How does the app generate encryption keystrings?](https://dev.to/liamloof_9d7b8c6dfc21b27a/how-does-the-app-generate-encryption-keystrings-1132)
-- [AWS Fundamentals: Elasticbeanstalk](https://dev.to/devopsfundamentals/aws-fundamentals-elasticbeanstalk-3mbk)
-- [[Boost]](https://dev.to/mohamed_arshath_b5ee96731/-1lek)
-- [We Built an AI That Catches Every Mental Thread You Drop!](https://dev.to/arina_graza/we-built-an-ai-that-catches-every-mental-thread-you-drop-1i4e)
-- [Week 6 - You&#39;re not stuck, you just skipped the basics: What is a real database?](https://dev.to/adamsnows/week-6-youre-not-stuck-you-just-skipped-the-basics-what-is-a-real-database-4ag5)
+- [Tornando as portas do DevContainer disponíveis localmente com forwardPorts](https://dev.to/videosdeti/tornando-as-portas-do-devcontainer-disponiveis-localmente-com-forwardports-453f)
+- [Today is my second day of Java full stack!](https://dev.to/rajeshkumar_vijayakumar_8/today-is-my-second-day-of-java-full-stack-18c9)
+- [Top Asynchronous JavaScript Interview Questions &lpar;2025&rpar;](https://dev.to/wynnt3o/top-asynchronous-javascript-interview-questions-2025-16ak)
+- [☣︎ Beginner-Friendly Guide: &quot;Reschedule Meetings for Maximum Free Time II&quot; – LeetCode 3440 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reschedule-meetings-for-maximum-free-time-ii-leetcode-3440-c--12me)
+- [The Builder Design Pattern in Java](https://dev.to/wkreuch/the-builder-design-pattern-in-java-167l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
