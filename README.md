@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Integration in VS Code Using MongoDB MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/mongodb-integration-in-vs-code-using-mongodb-mcp-a-step-by-step-tutorial-44p5)
-- [Day 30/180 of Frontend Dev: Understanding CSS Float and Clear Properties](https://dev.to/code_2/day-30180-of-frontend-dev-understanding-css-float-and-clear-properties-4o8b)
-- [INTRODUCTION OF CONDTIONAL STATEMENT](https://dev.to/arulak/introduction-of-condtional-statement-nc0)
-- [Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research](https://dev.to/lidianycs/using-the-dev-community-as-a-data-source-for-human-aspects-in-software-engineering-research-h56)
-- [De MassTransit para Wolverine: Uma alternativa moderna, leve e focada em performance](https://dev.to/lepton_tech/de-masstransit-para-wolverine-uma-alternativa-moderna-leve-e-focada-em-performance-35g4)
+- [Event Loop Monitoring and Performance Analysis](https://dev.to/omriluz1/event-loop-monitoring-and-performance-analysis-2n33)
+- [How I Built and Deployed My Portfolio Site From Scratch &lpar;With Failures, Fixes, and a Domain&rpar;](https://dev.to/econdev/how-i-built-and-deployed-my-portfolio-site-from-scratch-with-failures-fixes-and-a-domain-4166)
+- [Dynamic Dropdown Filtering in JSP Using AJAX and Custom Tags](https://dev.to/galisetty_priyatham_c1a49/dynamic-dropdown-filtering-in-jsp-using-ajax-and-custom-tags-55il)
+- [DevLog 20250710: Generics in Divooka](https://dev.to/methodox/devlog-20250710-generics-in-divooka-49e6)
+- [AutoFS in Red Hat Linux — Let Your System Mount Drives Without You Askin](https://dev.to/axisinfo_0a61830e06c3c950/autofs-in-red-hat-linux-let-your-system-mount-drives-without-you-askin-1b4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
