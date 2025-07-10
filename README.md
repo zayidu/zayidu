@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What the terraform providers command tells you](https://dev.to/techielass/what-the-terraform-providers-command-tells-you-3j1)
-- [How to Use CASE to Sort an ENUM Column in MySQL](https://dev.to/ibrahimalanshor/how-to-use-case-to-sort-an-enum-column-in-mysql-3642)
-- [Why Your Data Fails You - and How a Data Platform Can Fix It](https://dev.to/andrey_s/why-your-data-fails-you-and-how-a-data-platform-can-fix-it-407h)
-- [[Boost]](https://dev.to/jeffdev03/-4ene)
-- [Using CASE to Sort ENUM Values in MySQL](https://dev.to/ibrahimalanshor/using-case-to-sort-enum-values-in-mysql-4okj)
+- [6 Must-Try VS Code AI Tools Every Developer Should Know in 2025](https://dev.to/alifar/6-must-try-vs-code-ai-tools-every-developer-should-know-in-2025-bl6)
+- [Create ER Diagrams for PostgreSQL with a Free Design Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-postgresql-with-a-free-design-tool-4pjo)
+- [SQL REPLACE Function: Quick Guide with Real Examples](https://dev.to/dbvismarketing/sql-replace-function-quick-guide-with-real-examples-l6j)
+- [STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management](https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4)
+- [Behind Every High-Performing Magento Store Is an Invisible Dev Team](https://dev.to/navigate_commerce/behind-every-high-performing-magento-store-is-an-invisible-dev-team-569g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
