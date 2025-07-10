@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Server Stored Procedure Design for Flexible Record Lookup](https://dev.to/seanmdrew/sql-server-stored-procedure-design-for-flexible-record-lookup-2h97)
-- [🪙 Coin Change: Understanding the Problem with Two Dynamic Programming Approaches](https://dev.to/gaurikhanolkar1/coin-change-understanding-the-problem-with-two-dynamic-programming-approaches-3fn3)
-- [Pasos para desplegar aplicacion Flask con mod_wsgi y Apache.](https://dev.to/hpollack/pasos-para-desplegar-aplicacion-flask-con-modwsgi-y-apache-1f8d)
-- [Rust Query Builder for SQL an SurrealDB](https://dev.to/romaninsh/rust-query-builder-for-sql-an-surrealdb-32pf)
-- [Docker Offload: potência de nuvem com a simplicidade de sempre](https://dev.to/rflpazini/docker-offload-potencia-de-nuvem-com-a-simplicidade-de-sempre-3olk)
+- [Comparing 3 ways to Deploy a Face Mask Classifier: Tensorflow, AWS Canvas, and Rekognition](https://dev.to/alexretana/comparing-3-ways-to-deploy-a-face-mask-classifier-tensorflow-aws-canvas-and-rekognition-266d)
+- [The Real Issue:](https://dev.to/indunil/the-real-issue-o0i)
+- [OCR - ID Card Scanner &lpar;VLM&rpar;](https://dev.to/behicoytunsenkul/ocr-id-card-scanner-vlm-891)
+- [me check the current](https://dev.to/indunil/me-check-the-current-4085)
+- [How I Recovered from a Forex Scam: A Journey of Loss, Recovery, and Trust with Countwize](https://dev.to/cody_franko_6bcd794ab6f5b/how-i-recovered-from-a-forex-scam-a-journey-of-loss-recovery-and-trust-with-countwize-148g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
