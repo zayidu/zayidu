@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The DevEx Audit](https://dev.to/linkbenjamin/the-devex-audit-51b7)
-- [9 Killer Developer Tools You Should be Exploring Right Now 🔥🚀](https://dev.to/madza/9-killer-developer-tools-you-should-be-exploring-right-now-19il)
-- [Diary of an Elm Developer - From fields to forms](https://dev.to/dwayne/diary-of-an-elm-developer-from-fields-to-forms-5aab)
-- [How $10 Free Credits Turned Into a $50,000 Fraud Problem](https://dev.to/serveravatar/how-10-free-credits-turned-into-a-50000-fraud-problem-4geg)
-- [Designing Scalable AWS Infrastructure with VPC and Load Balancer](https://dev.to/omkarsharma2821/vpc-balanzia-aka-two-tier-infrastructure-1iff)
+- [Python Learning Progress for a Japanese Beginner](https://dev.to/tofu1216/python-learning-progress-for-a-japanese-beginner-1obg)
+- [Cloud Cost Optimization: FinOps Best Practices](https://dev.to/binyam/cloud-cost-optimization-finops-best-practices-1050)
+- [How I Fixed GitHub’s 14 Days Repo Traffic Graph](https://dev.to/m4xshen/how-i-fixed-githubs-14-days-repo-traffic-graph-59ji)
+- [Discord community; let&#39;s go](https://dev.to/trucktrek_trek_d7dcf92c7b/hello-everyone-51a5)
+- [[Boost]](https://dev.to/roman_chudov_aae89a53d641/-3779)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
