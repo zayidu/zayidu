@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚖️ Proof of Stake Explained: Ethereum’s Guardians of the Blockchain](https://dev.to/githaiga22/proof-of-stake-explained-ethereums-guardians-of-the-blockchain-fpn)
-- [The Rise of AI Testing in Modern QA](https://dev.to/ronika_kashyap/the-rise-of-ai-testing-in-modern-qa-db2)
-- [How to Scale Content Creation Without Hiring a Full Team](https://dev.to/dux-soup-coupons/how-to-scale-content-creation-without-hiring-a-full-team-43hp)
-- [Hello Mage rattaram yaluwe](https://dev.to/indunil/hello-mage-rattaram-yaluwe-5ef5)
-- [GPT-5 Is Coming And It Might Be Smarter Than Sam Altman](https://dev.to/iamprincejkc/gpt-5-is-coming-and-it-might-be-smarter-than-sam-altman-4bm8)
+- [https://medium.com/@alex2020global/filesystem-navigation-in-linux-aabaa87e8029](https://dev.to/pingalex/httpsmediumcomalex2020globalfilesystem-navigation-in-linux-aabaa87e8029-lm6)
+- [If It Happens... Else Do This! Understanding Conditions in JavaScript](https://dev.to/megha_m/if-it-happens-else-do-this-understanding-conditions-in-javascript-4l9)
+- [Join the Algolia MCP Server Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-mcp-server-challenge-3000-in-prizes-1non)
+- [First task](https://dev.to/ishibak/first-task-2de1)
+- [The Real Reason We Call Them &#39;Constructors&#39; : Real life vs OOP](https://dev.to/quillofacoder/the-real-reason-we-call-them-constructors-real-life-vs-oop-36gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
