@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asset Tracking: Knowing Where Everything Is](https://dev.to/prapti_b7389e1e574f41f40a/asset-tracking-knowing-where-everything-is-1ikd)
-- [Google Play Console Rejects Flutter App with targetSdkVersion 34](https://dev.to/flavdev23/google-play-console-rejects-flutter-app-with-targetsdkversion-34-1nno)
-- [Email API Integration Assistant](https://dev.to/emailguru/email-api-integration-assistant-3ah8)
-- [Asynchronous programming in Javascript](https://dev.to/bilal_haider_697f82e123f3/asynchronous-programming-in-javascript-32fl)
-- [🌐 Top 10 AI Web Agents in 2025 — Ranked by Usage &amp; Popularity &lpar;Free &amp; Paid&rpar;](https://dev.to/abhishek-nexgen-dev/top-10-ai-web-agents-in-2025-ranked-by-usage-popularity-free-paid-2nhe)
+- [The DevEx Audit](https://dev.to/linkbenjamin/the-devex-audit-51b7)
+- [9 Killer Developer Tools You Should be Exploring Right Now 🔥🚀](https://dev.to/madza/9-killer-developer-tools-you-should-be-exploring-right-now-19il)
+- [Diary of an Elm Developer - From fields to forms](https://dev.to/dwayne/diary-of-an-elm-developer-from-fields-to-forms-5aab)
+- [How $10 Free Credits Turned Into a $50,000 Fraud Problem](https://dev.to/serveravatar/how-10-free-credits-turned-into-a-50000-fraud-problem-4geg)
+- [Designing Scalable AWS Infrastructure with VPC and Load Balancer](https://dev.to/omkarsharma2821/vpc-balanzia-aka-two-tier-infrastructure-1iff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
