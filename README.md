@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into Google&#39;s Agent Development Kit &lpar;ADK&rpar; to build production-ready AI agents](https://dev.to/sayed_ali_alkamel/dive-into-googles-agent-development-kit-adk-to-build-production-ready-ai-agents-goa)
-- [Devs: Own your growth — or regret it later](https://dev.to/_ndeyefatoudiop/devs-own-your-growth-or-regret-it-later-ooj)
-- [Token Delegation and MCP server orchestration for multi-user AI systems](https://dev.to/stacklok/token-delegation-and-mcp-server-orchestration-for-multi-user-ai-systems-3gbi)
-- [The Downside of Poorly Designed Delivery Agent Apps: Slower, Inaccurate &amp; Inefficient](https://dev.to/cqlsystechnologies/the-downside-of-poorly-designed-delivery-agent-apps-slower-inaccurate-inefficient-1n72)
-- [The Next Evolution of BI: From Dashboards to Vibe Interfaces](https://dev.to/powerdrill_ai/the-next-evolution-of-bi-from-dashboards-to-vibe-interfaces-2b08)
+- [Asset Tracking: Knowing Where Everything Is](https://dev.to/prapti_b7389e1e574f41f40a/asset-tracking-knowing-where-everything-is-1ikd)
+- [Google Play Console Rejects Flutter App with targetSdkVersion 34](https://dev.to/flavdev23/google-play-console-rejects-flutter-app-with-targetsdkversion-34-1nno)
+- [Email API Integration Assistant](https://dev.to/emailguru/email-api-integration-assistant-3ah8)
+- [Asynchronous programming in Javascript](https://dev.to/bilal_haider_697f82e123f3/asynchronous-programming-in-javascript-32fl)
+- [🌐 Top 10 AI Web Agents in 2025 — Ranked by Usage &amp; Popularity &lpar;Free &amp; Paid&rpar;](https://dev.to/abhishek-nexgen-dev/top-10-ai-web-agents-in-2025-ranked-by-usage-popularity-free-paid-2nhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
