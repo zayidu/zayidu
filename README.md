@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java](https://dev.to/mukilaperiyasamy/introduction-to-java-4f52)
-- [Does Node.js Use Multiple Cores?](https://dev.to/kiani0x01/does-nodejs-use-multiple-cores-d75)
-- [Use import Instead of require](https://dev.to/kiani0x01/use-import-instead-of-require-9h8)
-- [Does Node.js Have Garbage Collection?](https://dev.to/kiani0x01/does-nodejs-have-garbage-collection-15a4)
-- [Node.js QR Code Generator with Logo](https://dev.to/kiani0x01/nodejs-qr-code-generator-with-logo-gb3)
+- [MongoDB Integration in VS Code Using MongoDB MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/mongodb-integration-in-vs-code-using-mongodb-mcp-a-step-by-step-tutorial-44p5)
+- [Day 30/180 of Frontend Dev: Understanding CSS Float and Clear Properties](https://dev.to/code_2/day-30180-of-frontend-dev-understanding-css-float-and-clear-properties-4o8b)
+- [INTRODUCTION OF CONDTIONAL STATEMENT](https://dev.to/arulak/introduction-of-condtional-statement-nc0)
+- [Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research](https://dev.to/lidianycs/using-the-dev-community-as-a-data-source-for-human-aspects-in-software-engineering-research-h56)
+- [De MassTransit para Wolverine: Uma alternativa moderna, leve e focada em performance](https://dev.to/lepton_tech/de-masstransit-para-wolverine-uma-alternativa-moderna-leve-e-focada-em-performance-35g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
