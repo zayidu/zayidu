@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creative Full-Screen Photography Slider](https://dev.to/creative_salahu/creative-full-screen-photography-slider-3155)
-- [Come ho creato TrovaMi.pro con l’AI &lpar;in 48 ore&rpar;](https://dev.to/drilonhametaj25/come-ho-creato-trovamipro-con-lai-in-48-ore-kbo)
-- [How did you manage to create graphs or visuals back in the day with limited resources like line printers and FORTRAN?](https://dev.to/adityabhuyan/how-did-you-manage-to-create-graphs-or-visuals-back-in-the-day-with-limited-resources-like-line-3ole)
-- [When Millions Need Answers: Building Sub-50ms Search for Unstructured Data](https://dev.to/schiffer_kate_18420bf9766/when-millions-need-answers-building-sub-50ms-search-for-unstructured-data-3p2k)
-- [📱 How Social Media Feed Algorithms Are Controlling Your Brain &lpar;And Your Dog Video Addiction&rpar;](https://dev.to/hmzas/how-social-media-feed-algorithms-are-controlling-your-brain-and-your-dog-video-addiction-bko)
+- [Dive into Google&#39;s Agent Development Kit &lpar;ADK&rpar; to build production-ready AI agents](https://dev.to/sayed_ali_alkamel/dive-into-googles-agent-development-kit-adk-to-build-production-ready-ai-agents-goa)
+- [Devs: Own your growth — or regret it later](https://dev.to/_ndeyefatoudiop/devs-own-your-growth-or-regret-it-later-ooj)
+- [Token Delegation and MCP server orchestration for multi-user AI systems](https://dev.to/stacklok/token-delegation-and-mcp-server-orchestration-for-multi-user-ai-systems-3gbi)
+- [The Downside of Poorly Designed Delivery Agent Apps: Slower, Inaccurate &amp; Inefficient](https://dev.to/cqlsystechnologies/the-downside-of-poorly-designed-delivery-agent-apps-slower-inaccurate-inefficient-1n72)
+- [The Next Evolution of BI: From Dashboards to Vibe Interfaces](https://dev.to/powerdrill_ai/the-next-evolution-of-bi-from-dashboards-to-vibe-interfaces-2b08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
