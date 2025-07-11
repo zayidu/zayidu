@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RGB Meets Sustainability: Backlit Keycaps Made with Recyclable Materials](https://dev.to/mysticcoder/rgb-meets-sustainability-backlit-keycaps-made-with-recyclable-materials-3j89)
-- [What I learned through the process of building a Crypto Payment Gateway?](https://dev.to/edwinjose2401/what-i-learned-through-the-process-of-building-a-crypto-payment-gateway-57bi)
-- [Day 3 of my Java Full Stack Learning Journey:HTML &amp; CSS](https://dev.to/dharshinieswaran/day-3-of-my-java-full-stack-learning-journeyhtml-css-6hf)
-- [Poetry and Horizon Code Design Future Vision Web4387](https://dev.to/member_d50fddd8/poetry-and-horizon-code-design-future-vision-web4387-2n7e)
-- [The Paper Problem at Taxi Ranks – And Why It’s Time We Fix It Digitally](https://dev.to/khulyso/the-paper-problem-at-taxi-ranks-and-why-its-time-we-fix-it-digitally-4438)
+- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-1d4b)
+- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-181d)
+- [Awesome DevTools — A Curated List of Tools for Developers](https://dev.to/devush/awesome-devtools-a-curated-list-of-tools-for-developers-4lkd)
+- [Car Batteries: The Magic Core of Electronics](https://dev.to/ersajay/car-batteries-the-magic-core-of-electronics-3fg5)
+- [🦄 Chasing Traces Like Unicorns: Implementing OpenTelemetry in Angular](https://dev.to/marialurdes_dehtiarenko_/chasing-traces-like-unicorns-implementing-opentelemetry-in-angular-233b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
