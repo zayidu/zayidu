@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Zapier’s Ultimate Guide to Remote Work](https://dev.to/ml318097/zapiers-ultimate-guide-to-remote-work-bmi)
-- [📘 Complete Docker Image Publishing CheatSheet 🐳🚀](https://dev.to/dpvasani56/complete-docker-image-publishing-cheatsheet-jo4)
-- [Using atomic design in Vue: The best approach for scalable component architecture](https://dev.to/senior-debugger/using-atomic-design-in-vue-the-best-approach-for-scalable-component-architecture-5cna)
-- [🧭 Docker Port Mapping &amp; CLI Flag CheatSheet](https://dev.to/dpvasani56/docker-port-mapping-cli-flag-cheatsheet-cm)
-- [De C# 10.0 a C# 11.0 — Produtividade, padrões poderosos e novas formas de expressar código limpo](https://dev.to/daniloopinheiro/de-c-100-a-c-110-produtividade-padroes-poderosos-e-novas-formas-de-expressar-codigo-limpo-2nf9)
+- [Learning Park: Built for Real Needs](https://dev.to/almir_3f9194d827f6629d42f/learning-park-built-for-real-needs-28j6)
+- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols5886](https://dev.to/member_d50fddd8/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols5886-4a0c)
+- [Serving a React app and Hono API Together with Bun](https://dev.to/falconz/serving-a-react-app-and-hono-api-together-with-bun-1gfg)
+- [Little adventure in pursuit of errors. The Battle for Wesnoth!](https://dev.to/pvsdev/little-adventure-in-pursuit-of-errors-the-battle-for-wesnoth-3cae)
+- [What was you win of the Week?](https://dev.to/ashishsimplecoder/what-was-you-win-of-the-week-2obp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
