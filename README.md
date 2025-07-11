@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How WazirX Is Setting a Legal Benchmark in Crypto Restructuring](https://dev.to/kianashekhar/how-wazirx-is-setting-a-legal-benchmark-in-crypto-restructuring-a6m)
-- [JAVA Script Operators](https://dev.to/visali_nedunchezhian_ee73/java-script-operators-1oi3)
-- [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
-- [🚀 Grok 4 Has Arrived: A New Era in AI Reasoning, Coding, and Real-Time Insight](https://dev.to/hmzas/grok-4-has-arrived-a-new-era-in-ai-reasoning-coding-and-real-time-insight-30e7)
-- [🐍 Setting Up a Python &amp; Django Dev Environment &lpar;Beginner Friendly&rpar;](https://dev.to/hmzas/setting-up-a-python-django-dev-environment-beginner-friendly-143g)
+- [No Laying Up Podcast: Northern Ireland: Royal Portrush, Royal County Down, and Belfast | NLU Pod, Ep 1037](https://dev.to/youtube_golf/no-laying-up-podcast-northern-ireland-royal-portrush-royal-county-down-and-belfast-nlu-pod-2plg)
+- [No Laying Up Podcast: The Booth Vol.22 | Trap Draw, Ep 349](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol22-trap-draw-ep-349-42bm)
+- [Golf.com: Bringing the Anthem to the PGA Tour: One Family&#39;s Story of Service](https://dev.to/youtube_golf/golfcom-bringing-the-anthem-to-the-pga-tour-one-familys-story-of-service-22i1)
+- [Golf.com: Jon Rahm and Tyrrell Hatton Unfiltered Range Session | Warming Up](https://dev.to/youtube_golf/golfcom-jon-rahm-and-tyrrell-hatton-unfiltered-range-session-warming-up-4o08)
+- [Peter Finch Golf: Can I make it through FINAL OPEN QUALIFYING? &lpar;every shot shown&rpar;](https://dev.to/youtube_golf/peter-finch-golf-can-i-make-it-through-final-open-qualifying-every-shot-shown-36ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
