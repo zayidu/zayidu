@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with MCP Desktop Extensions &lpar;DXT&rpar; in Claude Desktop](https://dev.to/om_shree_0709/getting-started-with-mcp-desktop-extensions-dxt-in-claude-desktop-40hj)
-- [# 🚀 Uniface call Statement: Executing Functions and ProcScript Modules](https://dev.to/zu2824/-uniface-call-statement-executing-functions-and-procscript-modules-3mkm)
-- [Getting Started with Playwright — Introduction to Web Testing Automation](https://dev.to/rodrigoobc/getting-started-with-playwright-introduction-to-web-testing-automation-1fdh)
-- [The Underrated Power of Consistency](https://dev.to/umairarshad-dev/the-underrated-power-of-consistency-11hf)
-- [Build an AI-Powered Agent for Dynamics 365 using Node.js and OpenAI](https://dev.to/deep_sharma/build-an-ai-powered-agent-for-dynamics-365-using-nodejs-and-openai-4dk5)
+- [Testing With The Builder Pattern](https://dev.to/jonashdown/testing-with-the-builder-pattern-33gn)
+- [Bulk GoHighLevel Email Template Deletion Tool](https://dev.to/samee-ullah/bulk-gohighlevel-email-template-deletion-tool-2m1g)
+- [From VPS to Home: How I Built My €90 Development Server That&#39;s Been Running for Almost a Year](https://dev.to/abdallahaho/from-vps-to-home-how-i-built-my-eu90-development-server-thats-been-running-for-almost-a-year-c8a)
+- [Hey ,](https://dev.to/mohamed_ramzy_b49de7b23d1/hey--2lkn)
+- [Day 2 — TastyHub Header, Tailwind Setup, and Real Frustration 😅](https://dev.to/brioleays/day-2-tastyhub-header-tailwind-setup-and-real-frustration-44nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
