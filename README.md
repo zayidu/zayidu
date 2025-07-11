@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of My 90-Day Frontend Journey: Why I’m Learning React &amp; Tailwind in Public](https://dev.to/brioleays/day-1-of-my-90-day-frontend-journey-why-im-learning-react-tailwind-in-public-34mh)
-- [Shortest Tour Problem &lpar;Udacity&rpar;](https://dev.to/char1iedevos/shortest-tour-problem-udacity-30j4)
-- [Custom Transformers Are the Secret to Making ML Pipelines Work in Practice](https://dev.to/apoorvtripathi1999/custom-transformers-are-the-secret-to-making-ml-pipelines-work-in-practice-i14)
-- [The art of guesstimating](https://dev.to/dejanualex/the-art-of-guesstimating-3ne4)
-- [Smartjump.io - Smart link shortening built in a few weeks](https://dev.to/compscitwilight/smartjumpio-smart-link-shortening-built-in-a-few-weeks-1p4e)
+- [When your home network lies to you](https://dev.to/czekaj/when-your-home-network-lies-to-you-28a6)
+- [Prompt Engineering: From Basic Principles to Science-Based Strategies](https://dev.to/cursedknowledge/prompt-engineering-from-basic-principles-to-science-based-strategies-41kd)
+- [When Versions Divide: The Break Isn&#39;t Always in the Code](https://dev.to/tonystpierre/when-versions-divide-the-break-isnt-always-in-the-code-24k6)
+- [String in Python &lpar;17&rpar;](https://dev.to/hyperkai/string-in-python-17-p3m)
+- [The way I see DDD &lpar;from a still-learning POV&rpar;](https://dev.to/leonardo_solisdark_astr/the-way-i-see-ddd-from-a-still-learning-pov-4nha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
