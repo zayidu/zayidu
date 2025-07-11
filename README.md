@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Northern Ireland: Royal Portrush, Royal County Down, and Belfast | NLU Pod, Ep 1037](https://dev.to/youtube_golf/no-laying-up-podcast-northern-ireland-royal-portrush-royal-county-down-and-belfast-nlu-pod-2plg)
-- [No Laying Up Podcast: The Booth Vol.22 | Trap Draw, Ep 349](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol22-trap-draw-ep-349-42bm)
-- [Golf.com: Bringing the Anthem to the PGA Tour: One Family&#39;s Story of Service](https://dev.to/youtube_golf/golfcom-bringing-the-anthem-to-the-pga-tour-one-familys-story-of-service-22i1)
-- [Golf.com: Jon Rahm and Tyrrell Hatton Unfiltered Range Session | Warming Up](https://dev.to/youtube_golf/golfcom-jon-rahm-and-tyrrell-hatton-unfiltered-range-session-warming-up-4o08)
-- [Peter Finch Golf: Can I make it through FINAL OPEN QUALIFYING? &lpar;every shot shown&rpar;](https://dev.to/youtube_golf/peter-finch-golf-can-i-make-it-through-final-open-qualifying-every-shot-shown-36ol)
+- [🎙️ “I Spoke to My Browser… And It Spoke Back with the Truth!”](https://dev.to/rajguru_yadav_56d13a7b8fc/i-spoke-to-my-browser-and-it-spoke-back-with-the-truth-2f8j)
+- [A Day in the Life of a DevOps Engineer](https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba)
+- [Why Numpy is faster than Pure Python: A Speed Comparison](https://dev.to/uwintwalijean/why-numpy-is-faster-than-pure-python-a-speed-comparison-57mj)
+- [How to Get the Best Out of Notion MCP Server with Cursor and Claude?](https://dev.to/composiodev/how-to-get-the-best-out-of-notion-mcp-server-with-cursor-and-claude-1lc9)
+- [Cash Flow Forecasting Mistakes to Avoid: Lessons from Real Businesses](https://dev.to/modelreef/cash-flow-forecasting-mistakes-to-avoid-lessons-from-real-businesses-3phj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
