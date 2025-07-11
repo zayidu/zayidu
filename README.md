@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-1d4b)
-- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-181d)
-- [Awesome DevTools — A Curated List of Tools for Developers](https://dev.to/devush/awesome-devtools-a-curated-list-of-tools-for-developers-4lkd)
-- [Car Batteries: The Magic Core of Electronics](https://dev.to/ersajay/car-batteries-the-magic-core-of-electronics-3fg5)
-- [🦄 Chasing Traces Like Unicorns: Implementing OpenTelemetry in Angular](https://dev.to/marialurdes_dehtiarenko_/chasing-traces-like-unicorns-implementing-opentelemetry-in-angular-233b)
+- [Flotiq Live Preview Plugin + Next.js: Complete Setup Guide](https://dev.to/flotiq/flotiq-live-preview-plugin-nextjs-complete-setup-guide-2kg3)
+- [Configuration Management Evolution7999](https://dev.to/member_d50fddd8/configuration-management-evolution7999-453n)
+- [The Passwordless Future: A Security Upgrade or a Costly Mistake?](https://dev.to/praveen-sripati/the-passwordless-future-a-security-upgrade-or-a-costly-mistake-207)
+- [Building Seamless User Journeys: Your Guide to React Onboarding with OnboardJS](https://dev.to/somafet/building-seamless-user-journeys-your-guide-to-react-onboarding-with-onboardjs-3og8)
+- [Effective Dependency Injection in Large-Scale Mobile Applications](https://dev.to/ameliajohnss/effective-dependency-injection-in-large-scale-mobile-applications-hoh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
