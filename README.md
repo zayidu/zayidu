@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: data lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-data-lake-project-1l71)
-- [Combining Action Goals and Outcome Goals to Keep Moving Forward &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/combining-action-goals-and-outcome-goals-to-keep-moving-forward-bite-size-article-cig)
-- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
-- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
-- [Building Quantum Maze with Amazon Q Developer CLI - My Build Games Challenge Journey](https://dev.to/j_49d950a33e76f1ee3e55449/building-quantum-maze-with-amazon-q-developer-cli-my-build-games-challenge-journey-4nf9)
+- [Next.js Performance Boost: 5s to 500ms Load Time](https://dev.to/dubeyrishabh108/nextjs-performance-boost-5s-to-500ms-load-time-43kl)
+- [Security Architecture: Secure Network Design Principles](https://dev.to/pelk/security-architecture-secure-network-design-principles-1oem)
+- [JSON-to-Struct with Uniface 10.4 jsonToStruct: A Practical Guide 📄⚡](https://dev.to/zu2824/json-to-struct-with-uniface-104-jsontostruct-a-practical-guide-d62)
+- [A Day In The Near Future?](https://dev.to/gamepill/a-day-in-the-near-future-3j5p)
+- [Let&#39;s find a new target audience!](https://dev.to/elias_djama_539903ef886ad/lets-find-a-new-target-audience-5e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
