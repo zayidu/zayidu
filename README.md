@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio - The Game of WAR!](https://dev.to/mccordinator/google-ai-studio-the-game-of-war-3fb8)
-- [What happens if a backdoored laptop is bought by the wrong person?](https://dev.to/adc/what-happens-if-a-backdoored-laptop-is-bought-by-the-wrong-person-3m31)
-- [How I Saved 2.7GB of Memory in Odoo by Skipping the ORM](https://dev.to/alesisjoan/how-i-saved-27gb-of-memory-in-odoo-by-skipping-the-orm-828)
-- [Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development](https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op)
-- [My First Day In JAVA, introduction and JDK, JRE, JVM and Features.](https://dev.to/seenuvasan_p/my-first-day-in-java-introduction-and-jdk-jre-jvm-and-features-4c8i)
+- [My First Day at Payilagam : Part 2 ...](https://dev.to/vigneshwaralingam/my-first-day-at-payilagam-part-2--46pa)
+- [Singleton vs Scoped vs Transient in .NET: Demystified!](https://dev.to/aaanishaaa/singleton-vs-scoped-vs-transient-in-net-demystified-2k4d)
+- [Taming LLMs: How to Get Structured Output Every Time &lpar;Even for Big Responses&rpar;](https://dev.to/shrsv/taming-llms-how-to-get-structured-output-every-time-even-for-big-responses-445c)
+- [&lpar;Attempting to&rpar; Engineer the chaos out of AI agents](https://dev.to/draward/attempting-to-engineer-the-chaos-out-of-ai-agents-1nje)
+- [Angular v20 Developer Event 2025](https://dev.to/learn-angular/angular-v20-developer-event-2025-4paf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
