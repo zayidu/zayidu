@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Performance Boost: 5s to 500ms Load Time](https://dev.to/dubeyrishabh108/nextjs-performance-boost-5s-to-500ms-load-time-43kl)
-- [Security Architecture: Secure Network Design Principles](https://dev.to/pelk/security-architecture-secure-network-design-principles-1oem)
-- [JSON-to-Struct with Uniface 10.4 jsonToStruct: A Practical Guide 📄⚡](https://dev.to/zu2824/json-to-struct-with-uniface-104-jsontostruct-a-practical-guide-d62)
-- [A Day In The Near Future?](https://dev.to/gamepill/a-day-in-the-near-future-3j5p)
-- [Let&#39;s find a new target audience!](https://dev.to/elias_djama_539903ef886ad/lets-find-a-new-target-audience-5e6)
+- [Getting started with MCP Desktop Extensions &lpar;DXT&rpar; in Claude Desktop](https://dev.to/om_shree_0709/getting-started-with-mcp-desktop-extensions-dxt-in-claude-desktop-40hj)
+- [# 🚀 Uniface call Statement: Executing Functions and ProcScript Modules](https://dev.to/zu2824/-uniface-call-statement-executing-functions-and-procscript-modules-3mkm)
+- [Getting Started with Playwright — Introduction to Web Testing Automation](https://dev.to/rodrigoobc/getting-started-with-playwright-introduction-to-web-testing-automation-1fdh)
+- [The Underrated Power of Consistency](https://dev.to/umairarshad-dev/the-underrated-power-of-consistency-11hf)
+- [Build an AI-Powered Agent for Dynamics 365 using Node.js and OpenAI](https://dev.to/deep_sharma/build-an-ai-powered-agent-for-dynamics-365-using-nodejs-and-openai-4dk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
