@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 The Digital Classroom: What We’ve Gained—and What We’ve Lost](https://dev.to/er-raj-aryan/the-digital-classroom-what-weve-gained-and-what-weve-lost-3a65)
-- [Umemura Farm Website – Devlog #32: Enhancing UX and Storytelling in My Farm Stay Project](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-32-enhancing-ux-and-storytelling-in-my-farm-stay-project-1cb)
-- [GCP Fundamentals: Display &amp; Video 360 API](https://dev.to/devopsfundamentals/gcp-fundamentals-display-video-360-api-3pka)
-- [How to provide private storage for internal company documents.](https://dev.to/onyemuche/how-to-provide-private-storage-for-internal-company-documents-2k53)
-- [DynamoDB in AWS](https://dev.to/aws_1_27d6cbc9e944aa228ef/dynamodb-in-aws-5851)
+- [&quot;Why Every Beginner Should Build Console-Based Projects Before Moving to Backend Frameworks&quot;](https://dev.to/pd230/why-every-beginner-should-build-console-based-projects-before-moving-to-backend-frameworks-1h3a)
+- [Quick overview of modern patterns in NodeJS](https://dev.to/urbanisierung/quick-overview-of-modern-patterns-in-nodejs-40md)
+- [Is Legally Non-Compliant Behavior a Security Vulnerability?](https://dev.to/irori_0125ad051fc310c119c/is-legally-non-compliant-behavior-a-security-vulnerability-b7a)
+- [Building Leaders, Shaping Futures: Uniting AWS Community Leaders in 2025](https://dev.to/kakacomputer-media/building-leaders-shaping-futures-uniting-aws-community-leaders-in-2025-2lgn)
+- [Day 3 of Learning Web Development: My Third Day learning HTML &amp; CSS](https://dev.to/vijayaraj_21/day-3-of-learning-web-development-my-third-day-learning-html-css-lj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
