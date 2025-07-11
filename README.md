@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend challenge](https://dev.to/soorajsnblaze333/frontend-challenge-8b1)
-- [NodeJS Fundamentals: XMLHttpRequest](https://dev.to/devopsfundamentals/nodejs-fundamentals-xmlhttprequest-4hi1)
-- [Database Connection Management2659](https://dev.to/member_d50fddd8/database-connection-management2659-32ao)
-- [Improve child to parent communication with xState 5](https://dev.to/gtodorov/improve-child-to-parent-communication-with-xstate-5-1onp)
-- [Game Dev Digest — Issue #289 - Tools, Small Gains, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-289-tools-small-gains-and-more-1c64)
+- [🌐 Zapier’s Ultimate Guide to Remote Work](https://dev.to/ml318097/zapiers-ultimate-guide-to-remote-work-bmi)
+- [📘 Complete Docker Image Publishing CheatSheet 🐳🚀](https://dev.to/dpvasani56/complete-docker-image-publishing-cheatsheet-jo4)
+- [Using atomic design in Vue: The best approach for scalable component architecture](https://dev.to/senior-debugger/using-atomic-design-in-vue-the-best-approach-for-scalable-component-architecture-5cna)
+- [🧭 Docker Port Mapping &amp; CLI Flag CheatSheet](https://dev.to/dpvasani56/docker-port-mapping-cli-flag-cheatsheet-cm)
+- [De C# 10.0 a C# 11.0 — Produtividade, padrões poderosos e novas formas de expressar código limpo](https://dev.to/daniloopinheiro/de-c-100-a-c-110-produtividade-padroes-poderosos-e-novas-formas-de-expressar-codigo-limpo-2nf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
