@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Day at Payilagam : Part 2 ...](https://dev.to/vigneshwaralingam/my-first-day-at-payilagam-part-2--46pa)
-- [Singleton vs Scoped vs Transient in .NET: Demystified!](https://dev.to/aaanishaaa/singleton-vs-scoped-vs-transient-in-net-demystified-2k4d)
-- [Taming LLMs: How to Get Structured Output Every Time &lpar;Even for Big Responses&rpar;](https://dev.to/shrsv/taming-llms-how-to-get-structured-output-every-time-even-for-big-responses-445c)
-- [&lpar;Attempting to&rpar; Engineer the chaos out of AI agents](https://dev.to/draward/attempting-to-engineer-the-chaos-out-of-ai-agents-1nje)
-- [Angular v20 Developer Event 2025](https://dev.to/learn-angular/angular-v20-developer-event-2025-4paf)
+- [Big Data Fundamentals: data lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-data-lake-project-1l71)
+- [Combining Action Goals and Outcome Goals to Keep Moving Forward &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/combining-action-goals-and-outcome-goals-to-keep-moving-forward-bite-size-article-cig)
+- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
+- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
+- [Building Quantum Maze with Amazon Q Developer CLI - My Build Games Challenge Journey](https://dev.to/j_49d950a33e76f1ee3e55449/building-quantum-maze-with-amazon-q-developer-cli-my-build-games-challenge-journey-4nf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
