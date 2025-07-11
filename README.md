@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Park: Built for Real Needs](https://dev.to/almir_3f9194d827f6629d42f/learning-park-built-for-real-needs-28j6)
-- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols5886](https://dev.to/member_d50fddd8/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols5886-4a0c)
-- [Serving a React app and Hono API Together with Bun](https://dev.to/falconz/serving-a-react-app-and-hono-api-together-with-bun-1gfg)
-- [Little adventure in pursuit of errors. The Battle for Wesnoth!](https://dev.to/pvsdev/little-adventure-in-pursuit-of-errors-the-battle-for-wesnoth-3cae)
-- [What was you win of the Week?](https://dev.to/ashishsimplecoder/what-was-you-win-of-the-week-2obp)
+- [Google AI Studio - The Game of WAR!](https://dev.to/mccordinator/google-ai-studio-the-game-of-war-3fb8)
+- [What happens if a backdoored laptop is bought by the wrong person?](https://dev.to/adc/what-happens-if-a-backdoored-laptop-is-bought-by-the-wrong-person-3m31)
+- [How I Saved 2.7GB of Memory in Odoo by Skipping the ORM](https://dev.to/alesisjoan/how-i-saved-27gb-of-memory-in-odoo-by-skipping-the-orm-828)
+- [Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development](https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op)
+- [My First Day In JAVA, introduction and JDK, JRE, JVM and Features.](https://dev.to/seenuvasan_p/my-first-day-in-java-introduction-and-jdk-jre-jvm-and-features-4c8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
