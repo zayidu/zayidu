@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing With The Builder Pattern](https://dev.to/jonashdown/testing-with-the-builder-pattern-33gn)
-- [Bulk GoHighLevel Email Template Deletion Tool](https://dev.to/samee-ullah/bulk-gohighlevel-email-template-deletion-tool-2m1g)
-- [From VPS to Home: How I Built My €90 Development Server That&#39;s Been Running for Almost a Year](https://dev.to/abdallahaho/from-vps-to-home-how-i-built-my-eu90-development-server-thats-been-running-for-almost-a-year-c8a)
-- [Hey ,](https://dev.to/mohamed_ramzy_b49de7b23d1/hey--2lkn)
-- [Day 2 — TastyHub Header, Tailwind Setup, and Real Frustration 😅](https://dev.to/brioleays/day-2-tastyhub-header-tailwind-setup-and-real-frustration-44nn)
+- [Tip: ask your agent to create a /debug page](https://dev.to/peter/tip-ask-your-agent-to-create-a-debug-page-57ek)
+- [21.7.2021](https://dev.to/ramas__18621f48f2602fbbc/2172021-3d08)
+- [I wrote up a post about how to easily build A2A-style agents. I also talk a bit about why I like A2A more than MCP.](https://dev.to/technosophos/i-wrote-up-a-post-about-how-to-easily-build-a2a-style-agents-i-also-talk-a-bit-about-why-i-like-j0j)
+- [Dev Setup - dbt Core 1.9.0 with Airflow 3.0 Orchestration](https://dev.to/sanjayio/dev-setup-dbt-core-190-with-airflow-30-orchestration-1fgf)
+- [Number Guessing Game](https://dev.to/ameh_mathias/number-guessing-game-107e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
