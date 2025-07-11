@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flotiq Live Preview Plugin + Next.js: Complete Setup Guide](https://dev.to/flotiq/flotiq-live-preview-plugin-nextjs-complete-setup-guide-2kg3)
-- [Configuration Management Evolution7999](https://dev.to/member_d50fddd8/configuration-management-evolution7999-453n)
-- [The Passwordless Future: A Security Upgrade or a Costly Mistake?](https://dev.to/praveen-sripati/the-passwordless-future-a-security-upgrade-or-a-costly-mistake-207)
-- [Building Seamless User Journeys: Your Guide to React Onboarding with OnboardJS](https://dev.to/somafet/building-seamless-user-journeys-your-guide-to-react-onboarding-with-onboardjs-3og8)
-- [Effective Dependency Injection in Large-Scale Mobile Applications](https://dev.to/ameliajohnss/effective-dependency-injection-in-large-scale-mobile-applications-hoh)
+- [Agent Driven Development &lpar;ADD&rpar;: The Next Paradigm Shift in Software Engineering](https://dev.to/remojansen/agent-driven-development-add-the-next-paradigm-shift-in-software-engineering-1jfg)
+- [How to attach files to a PDF in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-attach-files-to-a-pdf-in-java-tutorial-5gk6)
+- [Unit test CHILD component from PARENT component&#39;s test case](https://dev.to/md_ashraf_dev_to/unit-test-child-component-from-parent-components-test-case-od2)
+- [JWT, Tokens, and an Express App — My Fullstack Girly Era Unlocked &lpar;Part 01&rpar; 💅🏻🛠️](https://dev.to/khushimehappy/jwt-tokens-and-an-express-app-my-fullstack-girly-era-unlocked-part-01-524p)
+- [XPath in Power Automate - diagrams](https://dev.to/kkazala/xpath-in-power-automate-diagrams-4he7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
