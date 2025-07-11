@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When your home network lies to you](https://dev.to/czekaj/when-your-home-network-lies-to-you-28a6)
-- [Prompt Engineering: From Basic Principles to Science-Based Strategies](https://dev.to/cursedknowledge/prompt-engineering-from-basic-principles-to-science-based-strategies-41kd)
-- [When Versions Divide: The Break Isn&#39;t Always in the Code](https://dev.to/tonystpierre/when-versions-divide-the-break-isnt-always-in-the-code-24k6)
-- [String in Python &lpar;17&rpar;](https://dev.to/hyperkai/string-in-python-17-p3m)
-- [The way I see DDD &lpar;from a still-learning POV&rpar;](https://dev.to/leonardo_solisdark_astr/the-way-i-see-ddd-from-a-still-learning-pov-4nha)
+- [📚 The Digital Classroom: What We’ve Gained—and What We’ve Lost](https://dev.to/er-raj-aryan/the-digital-classroom-what-weve-gained-and-what-weve-lost-3a65)
+- [Umemura Farm Website – Devlog #32: Enhancing UX and Storytelling in My Farm Stay Project](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-32-enhancing-ux-and-storytelling-in-my-farm-stay-project-1cb)
+- [GCP Fundamentals: Display &amp; Video 360 API](https://dev.to/devopsfundamentals/gcp-fundamentals-display-video-360-api-3pka)
+- [How to provide private storage for internal company documents.](https://dev.to/onyemuche/how-to-provide-private-storage-for-internal-company-documents-2k53)
+- [DynamoDB in AWS](https://dev.to/aws_1_27d6cbc9e944aa228ef/dynamodb-in-aws-5851)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
