@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 4 is the #1 AI model, Google&#39;s new open source library, Mistral Devstral coding models, and more](https://dev.to/thisweekinaiengineering/grok-4-is-the-1-ai-model-googles-new-open-source-library-mistral-devstral-coding-models-and-29n3)
-- [Visualizing Decoder Layer Gradients](https://dev.to/kylepena/visualizing-decoder-layer-gradients-4nko)
-- [Context Management and Request Lifecycle Optimization&lpar;6541&rpar;](https://dev.to/member_bf115bc6/context-management-and-request-lifecycle-optimization6541-2d0j)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;2339&rpar;](https://dev.to/member_3bd028d5/ultimate-optimization-of-lightweight-server-architecture2339-ie4)
-- [Rust Async Web Framework Performance Breakthrough&lpar;5886&rpar;](https://dev.to/member_8a2272d3/rust-async-web-framework-performance-breakthrough5886-1mm7)
+- [Application of Async Programming in Web Development&lpar;4806&rpar;](https://dev.to/member_3bd028d5/application-of-async-programming-in-web-development4806-9b9)
+- [TCP Optimization Techniques for Web Server Performance&lpar;4913&rpar;](https://dev.to/member_bf115bc6/tcp-optimization-techniques-for-web-server-performance4913-1b0l)
+- [I Tried Learning Rust Through Building a Linear Regression Model](https://dev.to/nosegfault/i-tried-learning-rust-through-building-a-linear-regression-model-4m0b)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;2767&rpar;](https://dev.to/member_3bd028d5/latency-optimization-secrets-for-millisecond-response-times2767-31pd)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;1150&rpar;](https://dev.to/member_bf115bc6/production-deployment-strategies-for-high-performance-web-services1150-40ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
