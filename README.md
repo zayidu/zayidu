@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware Architecture Patterns for Request Processing&lpar;3755&rpar;](https://dev.to/member_fdfd31bf/middleware-architecture-patterns-for-request-processing3755-5g7c)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;3735&rpar;](https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6)
-- [How to Create A Telegram Bot with BuilderEngine.](https://dev.to/a_rjun_m/how-to-create-a-telegram-bot-with-builderengine-1716)
-- [High-Performance Routing System Design and Implementation&lpar;5600&rpar;](https://dev.to/member_3bd028d5/high-performance-routing-system-design-and-implementation5600-2o53)
-- [Rust Implementation for High Concurrency Processing&lpar;7508&rpar;](https://dev.to/member_bf115bc6/rust-implementation-for-high-concurrency-processing7508-2km8)
+- [Efficient WebSocket Server-Side Processing&lpar;2202&rpar;](https://dev.to/member_bf115bc6/efficient-websocket-server-side-processing2202-5fh9)
+- [Rust Async Web Framework Performance Breakthrough&lpar;2794&rpar;](https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough2794-1fei)
+- [Everything about ESM and treeshaking](https://dev.to/pouja/everything-about-esm-and-treeshaking-5f4l)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;0092&rpar;](https://dev.to/member_bb466cd7/concurrency-mastery-through-advanced-async-programming0092-2pf5)
+- [Java SQS Listener: A Minimal, High-Performance Library for Polling AWS SQS](https://dev.to/code_bodhi_39468a1347cb4f/java-sqs-listener-a-minimal-high-performance-library-for-polling-aws-sqs-2pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
