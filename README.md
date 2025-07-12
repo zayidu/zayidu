@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Fundamentals: Config](https://dev.to/devopsfundamentals/terraform-fundamentals-config-3jkf)
-- [LuCI on MGMT - Day 04](https://dev.to/projectlaguardia/luci-on-mgmt-day-04-10eh)
-- [Why Rockchip RK3566 Android SBC Is Gaining Attention in Industrial IoT](https://dev.to/tonyhe8688/why-rockchip-rk3566-android-sbc-is-gaining-attention-in-industrial-iot-2974)
-- [🔥 Blazing Fast Markdown Rendering for React – Benchmarked &amp; Battle-Tested](https://dev.to/mayank1513/blazing-fast-markdown-rendering-for-react-benchmarked-battle-tested-4748)
-- [String in Python &lpar;20&rpar;](https://dev.to/hyperkai/string-in-python-20-1cdb)
+- [The $2M Developer Productivity Crisis: How 5 IT Leaders Cut Wasted Time by 65%](https://dev.to/teamcamp/the-2m-developer-productivity-crisis-how-5-it-leaders-cut-wasted-time-by-65-5gfl)
+- [Choosing Between JavaScript and TypeScript: A Practical Guide](https://dev.to/manukumar07/choosing-between-javascript-and-typescript-a-practical-guide-48ai)
+- [Is it okay to start coding after +2 and get a degree later?](https://dev.to/ayisha_shiba_2d4c4b75c1bc/is-it-okay-to-start-coding-after-2-and-get-a-degree-later-ckd)
+- [https://medium.com/@alex2020global/file-editors-operations-in-linux-cdfa8cd7fbda](https://dev.to/pingalex/httpsmediumcomalex2020globalfile-editors-operations-in-linux-cdfa8cd7fbda-ki)
+- [https://medium.com/@alex2020global/file-viewing-inspection-8530aa17b64f](https://dev.to/pingalex/httpsmediumcomalex2020globalfile-viewing-inspection-8530aa17b64f-5h8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
