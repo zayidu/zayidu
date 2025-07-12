@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Revolution in Real-Time Communication&lpar;2827&rpar;](https://dev.to/member_c4991035/websocket-revolution-in-real-time-communication2827-29bd)
-- [Amazon Q CLI Games challenge - Flappy qUfo](https://dev.to/srgchrksv/amazon-q-cli-games-challenge-flappy-qufo-38ig)
-- [🚀 Integrating Video Calls in React Native with Jitsi Meet](https://dev.to/stephen_adebayo_df57fd4ea/integrating-video-calls-in-react-native-with-jitsi-meet-4907)
-- [Middleware Architecture Patterns for Request Processing&lpar;3991&rpar;](https://dev.to/member_c4991035/middleware-architecture-patterns-for-request-processing3991-297c)
-- [Convert DataTable to array, list and dictionary in UiPath](https://dev.to/0meow0/convert-datatable-to-array-list-and-dictionary-in-uipath-1n67)
+- [AutoBE, No-code agent for Backend Application, writing 100% compilable code &lpar;Open Source&rpar;](https://dev.to/samchon/autobe-no-code-agent-for-backend-application-writing-100-compilable-code-open-source-1oln)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4384&rpar;](https://dev.to/member_c4991035/memory-safety-meets-extreme-performance-in-web-servers4384-1gnk)
+- [Vue 3 + Wails3 Template Build Native Desktop Apps with Go and Web Tech](https://dev.to/jingong/vue-3-wails-template-build-native-desktop-apps-with-go-and-web-tech-1n1i)
+- [Minimal NRF24 Remote-Controlled Arduino Car with Obstacle Avoidance](https://dev.to/liam_desrosiers_938b2fc61/minimal-nrf24-remote-controlled-arduino-car-with-obstacle-avoidance-5aln)
+- [Safest Walk through the grid](https://dev.to/prashantrmishra/safest-walk-through-the-grid-2gj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
