@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KAI Scheduler](https://dev.to/minwook/kai-scheduler-22ih)
-- [I&#39;m Sorry Arch! Part 2](https://dev.to/darthmoomancer/im-sorry-arch-part-2-163h)
-- [Rust Implementation for High Concurrency Processing3319](https://dev.to/member_3bd028d5/rust-implementation-for-high-concurrency-processing3319-ga6)
-- [Bidirectional Communication Patterns in Modern Web Apps3315](https://dev.to/member_fdfd31bf/bidirectional-communication-patterns-in-modern-web-apps3315-48lj)
-- [Context Management and Request Lifecycle Optimization3322](https://dev.to/member_bf115bc6/context-management-and-request-lifecycle-optimization3322-3b12)
+- [NodeJS Fundamentals: dns](https://dev.to/devopsfundamentals/nodejs-fundamentals-dns-4739)
+- [An Introduction to Model Context Protocol &lpar;MCP&rpar;](https://dev.to/mohammedsafvan/an-introduction-to-model-context-protocol-mcp-jd6)
+- [DealMorph – Automate Telegram Bot](https://dev.to/omniradhanexus/dealmorph-automate-telegram-bot-7f3)
+- [What Is Vibe Coding🤔? Here&#39;s To Do It.](https://dev.to/soumyadeepdey/what-is-vibe-coding-how-to-do-it-4e9j)
+- [Microservices Architecture with Lightweight Framework Design&lpar;8637&rpar;](https://dev.to/member_3bd028d5/microservices-architecture-with-lightweight-framework-design8637-4dc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
