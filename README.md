@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.](https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add)
-- [Top 3 Free Hosting Alternatives in 2025](https://dev.to/grayson_campbell_500515f0/top-3-free-hosting-alternatives-in-2025-512p)
-- [QRTrust: Privacy-First QR Scanner with Phishing Detection](https://dev.to/mrmemory/qrtrust-privacy-first-qr-scanner-with-phishing-detection-94m)
-- [Designing Robust Rate Limiters for Multi-Agent AI Systems: Architectures, Challenges, and Best Practices](https://dev.to/satyam_chourasiya_99ea2e4/designing-robust-rate-limiters-for-multi-agent-ai-systems-architectures-challenges-and-best-48g7)
-- [survey: Prompting Large Language Models for Counterfactual Generation: An Empirical Study](https://dev.to/tutti/survey-prompting-large-language-models-for-counterfactual-generation-an-empirical-study-4fpk)
+- [DEV HELL: FRAUD OR F*CKING GENIUS](https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km)
+- [Remotely Access an IoT Device Instantly with Tunnelmole](https://dev.to/robbiecahill/remotely-access-an-iot-device-instantly-with-tunnelmole-4f4o)
+- [AWS IOT: How to get a public URL instantly using the open source Tunnelmole](https://dev.to/robbiecahill/aws-iot-how-to-get-a-public-url-instantly-using-the-open-source-tunnelmole-5ddc)
+- [Instantly expose a server behind cgnat with a public URL - Bypass cgnat port forwarding restrictions](https://dev.to/robbiecahill/instantly-expose-a-server-behind-cgnat-with-a-public-url-bypass-cgnat-port-forwarding-restrictions-33d7)
+- [Switch images in desktop and mobile views using CSS: Media queries](https://dev.to/md_ashraf_dev_to/switch-images-in-desktop-and-mobile-views-using-css-media-queries-3h8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
