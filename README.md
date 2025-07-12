@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The $2M Developer Productivity Crisis: How 5 IT Leaders Cut Wasted Time by 65%](https://dev.to/teamcamp/the-2m-developer-productivity-crisis-how-5-it-leaders-cut-wasted-time-by-65-5gfl)
-- [Choosing Between JavaScript and TypeScript: A Practical Guide](https://dev.to/manukumar07/choosing-between-javascript-and-typescript-a-practical-guide-48ai)
-- [Is it okay to start coding after +2 and get a degree later?](https://dev.to/ayisha_shiba_2d4c4b75c1bc/is-it-okay-to-start-coding-after-2-and-get-a-degree-later-ckd)
-- [https://medium.com/@alex2020global/file-editors-operations-in-linux-cdfa8cd7fbda](https://dev.to/pingalex/httpsmediumcomalex2020globalfile-editors-operations-in-linux-cdfa8cd7fbda-ki)
-- [https://medium.com/@alex2020global/file-viewing-inspection-8530aa17b64f](https://dev.to/pingalex/httpsmediumcomalex2020globalfile-viewing-inspection-8530aa17b64f-5h8n)
+- [KAI Scheduler](https://dev.to/minwook/kai-scheduler-22ih)
+- [I&#39;m Sorry Arch! Part 2](https://dev.to/darthmoomancer/im-sorry-arch-part-2-163h)
+- [Rust Implementation for High Concurrency Processing3319](https://dev.to/member_3bd028d5/rust-implementation-for-high-concurrency-processing3319-ga6)
+- [Bidirectional Communication Patterns in Modern Web Apps3315](https://dev.to/member_fdfd31bf/bidirectional-communication-patterns-in-modern-web-apps3315-48lj)
+- [Context Management and Request Lifecycle Optimization3322](https://dev.to/member_bf115bc6/context-management-and-request-lifecycle-optimization3322-3b12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
