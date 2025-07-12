@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Education: How Online Learning Platforms are Tailoring to Gen Z&#39;s Unique Needs](https://dev.to/ghummantech/revolutionizing-education-how-online-learning-platforms-are-tailoring-to-gen-zs-unique-needs-2iah)
-- [Efficient WebSocket Server-Side Processing&lpar;9961&rpar;](https://dev.to/member_3bd028d5/efficient-websocket-server-side-processing9961-112)
-- [New Choice for Cross-Platform Web Service Development&lpar;4620&rpar;](https://dev.to/member_8a2272d3/new-choice-for-cross-platform-web-service-development4620-2pj1)
-- [My 1-Day Prototype, 2-Week Launch: Building a Cross-Platform UML Editor with Tauri and Cursor](https://dev.to/hudy9x/my-1-day-prototype-2-week-launch-building-a-cross-platform-uml-editor-with-tauri-and-cursor-3np9)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;5116&rpar;](https://dev.to/member_fdfd31bf/ultimate-optimization-of-lightweight-server-architecture5116-4ad3)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;0446&rpar;](https://dev.to/member_bb466cd7/zero-dependency-architecture-for-maximum-performance0446-4if5)
+- [Warmwind OS](https://dev.to/bhuvaneshm_dev/warmwind-os-2fo9)
+- [How to kill the idea of Perfection](https://dev.to/redbugmilk/how-to-kill-the-idea-of-perfection-50c6)
+- [Modern Server-Side Event Implementation&lpar;3816&rpar;](https://dev.to/member_3bd028d5/modern-server-side-event-implementation3816-3bh8)
+- [Rust Implementation for High Concurrency Processing&lpar;2519&rpar;](https://dev.to/member_bf115bc6/rust-implementation-for-high-concurrency-processing2519-446g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
