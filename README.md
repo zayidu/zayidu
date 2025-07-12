@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SkylarkTV: Streaming Platform Built with Next.js and Skylark CMS](https://dev.to/jameswallis/skylarktv-streaming-platform-built-with-nextjs-and-skylark-cms-18gh)
-- [Terraform MCP Server: What It Is and Why Engineering Teams Are Adopting It](https://dev.to/mehul_budasana/terraform-mcp-server-what-it-is-and-why-engineering-teams-are-adopting-it-308h)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5345&rpar;](https://dev.to/member_3bd028d5/memory-safety-meets-extreme-performance-in-web-servers5345-4dla)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;6644&rpar;](https://dev.to/member_c4991035/ultimate-optimization-of-lightweight-server-architecture6644-524j)
-- [Rust Async Web Framework Performance Breakthrough&lpar;2807&rpar;](https://dev.to/member_bb466cd7/rust-async-web-framework-performance-breakthrough2807-3d12)
+- [Grok 4 is the #1 AI model, Google&#39;s new open source library, Mistral Devstral coding models, and more](https://dev.to/thisweekinaiengineering/grok-4-is-the-1-ai-model-googles-new-open-source-library-mistral-devstral-coding-models-and-29n3)
+- [Visualizing Decoder Layer Gradients](https://dev.to/kylepena/visualizing-decoder-layer-gradients-4nko)
+- [Context Management and Request Lifecycle Optimization&lpar;6541&rpar;](https://dev.to/member_bf115bc6/context-management-and-request-lifecycle-optimization6541-2d0j)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;2339&rpar;](https://dev.to/member_3bd028d5/ultimate-optimization-of-lightweight-server-architecture2339-ie4)
+- [Rust Async Web Framework Performance Breakthrough&lpar;5886&rpar;](https://dev.to/member_8a2272d3/rust-async-web-framework-performance-breakthrough5886-1mm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
