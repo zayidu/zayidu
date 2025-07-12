@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Idiomatic Go: What Makes It Different from Java and C#](https://dev.to/jjpinto/the-power-of-idiomatic-go-what-makes-it-different-from-java-and-c-529h)
-- [Context Management and Request Lifecycle Optimization&lpar;3134&rpar;](https://dev.to/member_8a2272d3/context-management-and-request-lifecycle-optimization3134-k2n)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;4994&rpar;](https://dev.to/member_8a2272d3/resource-management-and-memory-efficiency-in-web-servers4994-2lg9)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;8759&rpar;](https://dev.to/member_fdfd31bf/concurrency-mastery-through-advanced-async-programming8759-c1g)
-- [Elegant Middleware Architecture Implementation&lpar;1900&rpar;](https://dev.to/member_bb466cd7/elegant-middleware-architecture-implementation1900-25ek)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;8423&rpar;](https://dev.to/member_bf115bc6/design-philosophy-of-zero-dependency-web-framework8423-2942)
+- [🎨 Building UI architectures that last in 2025!](https://dev.to/aleksei_aleinikov/building-ui-architectures-that-last-in-2025-4gce)
+- [Rust Async Web Framework Performance Breakthrough&lpar;5390&rpar;](https://dev.to/member_3bd028d5/rust-async-web-framework-performance-breakthrough5390-5h48)
+- [How to Create a Virtual Environment with a Specific Python Version](https://dev.to/pi19404/how-to-create-a-virtual-environment-with-a-specific-python-version-linux-macos-4g3p)
+- [🐍💾 Django migrations in 2025 don’t have to be scary!](https://dev.to/aleksei_aleinikov/django-migrations-in-2025-dont-have-to-be-scary-924)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
