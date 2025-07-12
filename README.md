@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV HELL: FRAUD OR F*CKING GENIUS](https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km)
-- [Remotely Access an IoT Device Instantly with Tunnelmole](https://dev.to/robbiecahill/remotely-access-an-iot-device-instantly-with-tunnelmole-4f4o)
-- [AWS IOT: How to get a public URL instantly using the open source Tunnelmole](https://dev.to/robbiecahill/aws-iot-how-to-get-a-public-url-instantly-using-the-open-source-tunnelmole-5ddc)
-- [Instantly expose a server behind cgnat with a public URL - Bypass cgnat port forwarding restrictions](https://dev.to/robbiecahill/instantly-expose-a-server-behind-cgnat-with-a-public-url-bypass-cgnat-port-forwarding-restrictions-33d7)
-- [Switch images in desktop and mobile views using CSS: Media queries](https://dev.to/md_ashraf_dev_to/switch-images-in-desktop-and-mobile-views-using-css-media-queries-3h8f)
+- [Terraform Fundamentals: Config](https://dev.to/devopsfundamentals/terraform-fundamentals-config-3jkf)
+- [LuCI on MGMT - Day 04](https://dev.to/projectlaguardia/luci-on-mgmt-day-04-10eh)
+- [Why Rockchip RK3566 Android SBC Is Gaining Attention in Industrial IoT](https://dev.to/tonyhe8688/why-rockchip-rk3566-android-sbc-is-gaining-attention-in-industrial-iot-2974)
+- [🔥 Blazing Fast Markdown Rendering for React – Benchmarked &amp; Battle-Tested](https://dev.to/mayank1513/blazing-fast-markdown-rendering-for-react-benchmarked-battle-tested-4748)
+- [String in Python &lpar;20&rpar;](https://dev.to/hyperkai/string-in-python-20-1cdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
