@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I submitted a project for the new challenge #algoliachallenge Biased opinion: The best way to use Algolia MCP 👇 https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5](https://dev.to/axrisi/i-submitted-a-project-for-the-new-challenge-algoliachallenge-biased-opinion-the-best-way-to-1ho3)
-- [Self-Documenting MCP: One-Step Algolia Setup via MCP Server in Cursor IDE](https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5)
-- [Don’t Learn These Tech Skills in 2025 &lpar;Unless You Want to Stay Broke&rpar;](https://dev.to/arkhan/dont-learn-these-tech-skills-in-2025-unless-you-want-to-stay-broke-4cpn)
-- [The Context Update: We Finally Solved AI Memory Loss.](https://dev.to/rareniches/the-context-update-we-finally-solved-ai-memory-loss-117b)
-- [🚀 RinaWarp Terminal v1.0.9 Beta Access - NOW AVAILABLE!](https://dev.to/bigsgotchu/rinawarp-terminal-v109-beta-access-now-available-1gah)
+- [The Invisible Epidemic 😷: Facing the Silent Crisis of Burnout [with Sam Loeffler]](https://dev.to/sonika_onboardedhq/the-invisible-epidemic-facing-the-silent-crisis-of-burnout-with-sam-loeffler-19jp)
+- [Why HikariCP Throws Timeout &amp; How to Fix It](https://dev.to/anasanjaria/why-hikaricp-throws-timeout-how-to-fix-it-3p0f)
+- [🧠 Understanding the CAP Theorem – Through Alice’s Distributed Adventure 🚀](https://dev.to/sajidurshajib/understanding-the-cap-theorem-through-alices-distributed-adventure-pmp)
+- [What if your app could get what it needs—without building everything itself? That’s the magic of dependency injection in App.](https://dev.to/hiteshm_devapp/what-if-your-app-could-get-what-it-needs-without-building-everything-itself-thats-the-magic-of-3f6n)
+- [From Pain Point to Public Package: A Developer&#39;s Guide to Publishing on NPM](https://dev.to/itsaryanchauhan/from-pain-point-to-public-package-a-developers-guide-to-publishing-on-npm-1fio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
