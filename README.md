@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient WebSocket Server-Side Processing&lpar;2202&rpar;](https://dev.to/member_bf115bc6/efficient-websocket-server-side-processing2202-5fh9)
-- [Rust Async Web Framework Performance Breakthrough&lpar;2794&rpar;](https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough2794-1fei)
-- [Everything about ESM and treeshaking](https://dev.to/pouja/everything-about-esm-and-treeshaking-5f4l)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;0092&rpar;](https://dev.to/member_bb466cd7/concurrency-mastery-through-advanced-async-programming0092-2pf5)
-- [Java SQS Listener: A Minimal, High-Performance Library for Polling AWS SQS](https://dev.to/code_bodhi_39468a1347cb4f/java-sqs-listener-a-minimal-high-performance-library-for-polling-aws-sqs-2pc)
+- [I submitted a project for the new challenge #algoliachallenge Biased opinion: The best way to use Algolia MCP 👇 https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5](https://dev.to/axrisi/i-submitted-a-project-for-the-new-challenge-algoliachallenge-biased-opinion-the-best-way-to-1ho3)
+- [Self-Documenting MCP: One-Step Algolia Setup via MCP Server in Cursor IDE](https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5)
+- [Don’t Learn These Tech Skills in 2025 &lpar;Unless You Want to Stay Broke&rpar;](https://dev.to/arkhan/dont-learn-these-tech-skills-in-2025-unless-you-want-to-stay-broke-4cpn)
+- [The Context Update: We Finally Solved AI Memory Loss.](https://dev.to/rareniches/the-context-update-we-finally-solved-ai-memory-loss-117b)
+- [🚀 RinaWarp Terminal v1.0.9 Beta Access - NOW AVAILABLE!](https://dev.to/bigsgotchu/rinawarp-terminal-v109-beta-access-now-available-1gah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
