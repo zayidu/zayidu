@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;8423&rpar;](https://dev.to/member_bf115bc6/design-philosophy-of-zero-dependency-web-framework8423-2942)
-- [🎨 Building UI architectures that last in 2025!](https://dev.to/aleksei_aleinikov/building-ui-architectures-that-last-in-2025-4gce)
-- [Rust Async Web Framework Performance Breakthrough&lpar;5390&rpar;](https://dev.to/member_3bd028d5/rust-async-web-framework-performance-breakthrough5390-5h48)
-- [How to Create a Virtual Environment with a Specific Python Version](https://dev.to/pi19404/how-to-create-a-virtual-environment-with-a-specific-python-version-linux-macos-4g3p)
-- [🐍💾 Django migrations in 2025 don’t have to be scary!](https://dev.to/aleksei_aleinikov/django-migrations-in-2025-dont-have-to-be-scary-924)
+- [WebSocket Revolution in Real-Time Communication&lpar;2827&rpar;](https://dev.to/member_c4991035/websocket-revolution-in-real-time-communication2827-29bd)
+- [Amazon Q CLI Games challenge - Flappy qUfo](https://dev.to/srgchrksv/amazon-q-cli-games-challenge-flappy-qufo-38ig)
+- [🚀 Integrating Video Calls in React Native with Jitsi Meet](https://dev.to/stephen_adebayo_df57fd4ea/integrating-video-calls-in-react-native-with-jitsi-meet-4907)
+- [Middleware Architecture Patterns for Request Processing&lpar;3991&rpar;](https://dev.to/member_c4991035/middleware-architecture-patterns-for-request-processing3991-297c)
+- [Convert DataTable to array, list and dictionary in UiPath](https://dev.to/0meow0/convert-datatable-to-array-list-and-dictionary-in-uipath-1n67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
