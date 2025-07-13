@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5)
-- [Three-Fund Investment Portfolio](https://dev.to/preetha_vaishnavi_2b82358/three-fund-investment-portfolio-1d2)
-- [Design Patterns Simplified: Part 3 – Observer Pattern &lpar;a.k.a. “Don’t Call Me, I’ll Call You 📞”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-3-observer-pattern-aka-dont-call-me-ill-call-you--38m3)
-- [Swift program to convert an integer to a Roman numeral — a classic LeetCode problem: &quot;Integer to Roman&quot; &lpar;Problem #12&rpar;.](https://dev.to/harshpdev/swift-program-to-convert-an-integer-to-a-roman-numeral-a-classic-leetcode-problem-integer-to-33l9)
-- [Leetcode - 130. Surrounded Regions](https://dev.to/rakeshreddy512/leetcode-130-surrounded-regions-22md)
+- [How long does it usually take you to learn a new language? And practise it in real-life projects?](https://dev.to/dara01x/how-long-does-it-usually-take-you-to-learn-a-new-language-and-practise-it-in-real-life-projects-42oc)
+- [Your First Angular 20 Project: Step‑by‑Step for Absolute Beginners](https://dev.to/preethi_r_eecc1107f906ec6/your-first-angular-20-project-step-by-step-for-absolute-beginners-3mb1)
+- [Office Edition Animated Frontend HomePage for Axero](https://dev.to/volde/office-edition-animated-frontend-homepage-for-axero-333f)
+- [Sliding Window: A Simple Yet Powerful Technique](https://dev.to/sneha_grian_cfca240a95d41/sliding-window-a-simple-yet-powerful-technique-16hj)
+- [Lotus&lpar;Animation&rpar;](https://dev.to/preetha_vaishnavi_2b82358/lotusanimation-2bp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
