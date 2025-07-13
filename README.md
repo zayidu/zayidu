@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Second Experience at the JVM Code-On Program](https://dev.to/sabithasivaprakasam/my-second-experience-at-the-jvm-code-on-program-f4m)
-- [🔄 Mastering Database Transactions in Uniface: The commit Statement Explained](https://dev.to/petercode/mastering-database-transactions-in-uniface-the-commit-statement-explained-41l8)
-- [Linux cheat sheet for day-to-day actions...!!!](https://dev.to/shiva_beepeta/linux-cheat-sheet-for-day-to-day-actions-5507)
-- [CodeCrate—A Snippet Manager Built with Next.js and MongoDB](https://dev.to/duraidmustafa/codecrate-a-snippet-manager-built-with-nextjs-and-mongodb-3k9f)
-- [Leet Code Problem Solutions](https://dev.to/harshpdev/leet-code-problem-solutions-3gi9)
+- [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
+- [🚀 Introducing CodeWhiz: Your AI-Powered Code Commenting Sidekick for VS Code 🧠✨](https://dev.to/puneetkumar2010/introducing-codewhiz-your-ai-powered-code-commenting-sidekick-for-vs-code-1nhc)
+- [How to create a simple waitlist form in Next.js using Supabase to collect responses](https://dev.to/charanx/how-to-create-a-simple-waitlist-form-in-nextjs-using-supabase-to-collect-responses-4dpe)
+- [How to rate limit your Next.js APIs using Upstash](https://dev.to/charanx/how-to-rate-limit-your-nextjs-apis-using-upstash-1d82)
+- [Coding Interviews was HARD, until I learned these Patterns](https://dev.to/somadevtoo/coding-interviews-was-hard-until-i-learned-these-patterns-2ji7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
