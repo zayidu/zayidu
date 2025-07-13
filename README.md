@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: 50 Practical Tips In BOTW That Still Work On Switch 2](https://dev.to/gg_news/gamespot-50-practical-tips-in-botw-that-still-work-on-switch-2-2646)
-- [IGN: What GTA 6 Can Learn From GTA 4, AKA The Best GTA Game](https://dev.to/gg_news/ign-what-gta-6-can-learn-from-gta-4-aka-the-best-gta-game-3658)
-- [IGN: Of Ash and Steel Is a Charmingly Old-School Fantasy Adventure](https://dev.to/gg_news/ign-of-ash-and-steel-is-a-charmingly-old-school-fantasy-adventure-n3l)
-- [IGN: What The Surprise Character Who Called Superman A B!tch Means To The Future of James Gunn&#39;s DCU](https://dev.to/gg_news/ign-what-the-surprise-character-who-called-superman-a-btch-means-to-the-future-of-james-gunns-dcu-3a0c)
-- [IGN: Snyder vs. Gunn: Who Did Superman Best?](https://dev.to/gg_news/ign-snyder-vs-gunn-who-did-superman-best-km2)
+- [New Devs on Your Project? Here’s How to Onboard Them Without Losing Your Mind](https://dev.to/abubakersiddique771/new-devs-on-your-project-heres-how-to-onboard-them-without-losing-your-mind-fh4)
+- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
+- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
+- [Escalabilidade DE ZERO A MILHÕES DE USUÁRIOS](https://dev.to/fumagallilaura/escalabilidade-de-zero-a-milhoes-de-usuarios-452d)
+- [🔹 Peek: A Fast, Colorful, Tree-Based ls Alternative Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/peek-a-fast-colorful-tree-based-ls-alternative-built-in-rust-1pal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
