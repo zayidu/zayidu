@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Devs on Your Project? Here’s How to Onboard Them Without Losing Your Mind](https://dev.to/abubakersiddique771/new-devs-on-your-project-heres-how-to-onboard-them-without-losing-your-mind-fh4)
-- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
-- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
-- [Escalabilidade DE ZERO A MILHÕES DE USUÁRIOS](https://dev.to/fumagallilaura/escalabilidade-de-zero-a-milhoes-de-usuarios-452d)
-- [🔹 Peek: A Fast, Colorful, Tree-Based ls Alternative Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/peek-a-fast-colorful-tree-based-ls-alternative-built-in-rust-1pal)
+- [Deploy of Application from S3 Bucket Using AWS Amplify](https://dev.to/aws-builders/deploy-of-application-from-s3-bucket-using-aws-amplify-bpf)
+- [How Jekyll almost killed our vitepress docs](https://dev.to/raghavyuva/how-jkyll-almost-killed-our-vitepress-docs-3ph8)
+- [Help me fix the error code](https://dev.to/huy_nguyn_95e81095b82a7b/help-me-fix-the-error-code-2cp9)
+- [🎨 I Created My First VS Code Theme, Introducing VoidCore](https://dev.to/pranav89624/i-created-my-first-vs-code-theme-introducing-voidcore-1koa)
+- [🎨 I Created My First VS Code Theme, Introducing VoidCore](https://dev.to/pranav89624/i-created-my-first-vs-code-theme-introducing-voidcore-5fam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
