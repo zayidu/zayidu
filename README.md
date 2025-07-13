@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools, Resources, and URI Schemes in MCP](https://dev.to/om_shree_0709/tools-resources-and-uri-schemes-in-mcp-5b31)
-- [Join the DEV Community today](https://dev.to/vilo-time/join-the-dev-community-today-323)
-- [[memo]SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning](https://dev.to/taniguchitakara/memosafevla-towards-safety-alignment-of-visionlanguage-action-model-via-constrained-learning-4pf5)
-- [Hulo: Write clean, modern code that compiles to VBScript](https://dev.to/ansurfen/hulo-write-clean-modern-code-that-compiles-to-vbscript-532n)
-- [Dream Tour Management Backend Development – Part 1: Foundational Setup](https://dev.to/alifa_ara_heya/dreamtourmanagement-backend-part-1-progress-recap-nog)
+- [why this error? https://dev.to/nosytlabs/why-this-error-10hm](https://dev.to/nosytlabs/why-this-error-httpsdevtonosytlabswhy-this-error-10hm-1n55)
+- [Terraform Fundamentals: Connect](https://dev.to/devopsfundamentals/terraform-fundamentals-connect-5ff9)
+- [Understanding Go Slices: Why They Behave Unexpectedly](https://dev.to/anu_madhav_62b44758e55af7/understanding-go-slices-why-they-behave-unexpectedly-52db)
+- [Manual sencillo de SQL Server para principiantes &lpar;PDF incluido&rpar;](https://dev.to/mystic_digital21/aprendi-sql-sin-estres-y-converti-mi-experiencia-en-una-guia-paso-a-paso-en-pdf-8ep)
+- [Introduction to Java](https://dev.to/naveen2521/introduction-to-java-kb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
