@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The REST API Trick 95% of Developers Miss!](https://dev.to/alokoct21/the-rest-api-trick-95-of-developers-miss-41oj)
-- [CI/CD Meets Monitoring: My Full DevOps Stack with Node.js, Kubernetes, and GitHub Actions](https://dev.to/sayan_singh_dda15e0427c9d/cicd-meets-monitoring-my-full-devops-stack-with-nodejs-kubernetes-and-github-actions-3036)
-- [How I built JavaScript&#39;s fastest &quot;deep equals&quot; function](https://dev.to/ahrjarrett/how-i-built-javascripts-fastest-deep-equals-function-51n8)
-- [From URL to React: What Happens When You Type URL and Press Enter?](https://dev.to/shubham_ghule_e94e88f98ce/from-url-to-react-what-happens-when-you-press-enter-40n8)
-- [Day 3 of Java Full Stack Learning](https://dev.to/vidya_varshini/day-3-of-java-full-stack-learning-103p)
+- [Git and Version Control Systems: A Developer&#39;s Essential Guide](https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh)
+- [🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.](https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi)
+- [Why do you contribute to Open Source? What is your motivation?](https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo)
+- [Day 1 &amp; 2 of My Java Full Stack Journey:Starting with HTML &amp; CSS Basis](https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a)
+- [Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting](https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
