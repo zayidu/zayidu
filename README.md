@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter vs React Native vs Native 2025: Which is Better? &lpar;Salary &amp; Job Comparison&rpar;](https://dev.to/arshtechpro/flutter-vs-react-native-vs-native-2025-which-is-better-salary-job-comparison-3bpc)
-- [Automated Backup System from Dropbox to Google Drive using n8n](https://dev.to/aihacks/automated-backup-system-from-dropbox-to-google-drive-using-n8n-41aa)
-- [Boost Productivity with AI Gamification!](https://dev.to/sebastian_reid999/boost-productivity-with-ai-gamification-3lcd)
-- [From Code to Prompt: How Bolt.new Revolutionized My App Development Journey](https://dev.to/pr135t/from-code-to-prompt-how-boltnew-revolutionized-my-app-development-journey-54jd)
-- [Daily JavaScript Challenge #JS-225: Height Checker](https://dev.to/dpc/daily-javascript-challenge-js-225-height-checker-2igc)
+- [Tools, Resources, and URI Schemes in MCP](https://dev.to/om_shree_0709/tools-resources-and-uri-schemes-in-mcp-5b31)
+- [Join the DEV Community today](https://dev.to/vilo-time/join-the-dev-community-today-323)
+- [[memo]SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning](https://dev.to/taniguchitakara/memosafevla-towards-safety-alignment-of-visionlanguage-action-model-via-constrained-learning-4pf5)
+- [Hulo: Write clean, modern code that compiles to VBScript](https://dev.to/ansurfen/hulo-write-clean-modern-code-that-compiles-to-vbscript-532n)
+- [Dream Tour Management Backend Development – Part 1: Foundational Setup](https://dev.to/alifa_ara_heya/dreamtourmanagement-backend-part-1-progress-recap-nog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
