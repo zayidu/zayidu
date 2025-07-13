@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250713: Ease of Pain](https://dev.to/nfc-charles/devlog-20250713-ease-of-pain-570e)
-- [🧐 Why Does Java Give an Error for Uninitialized Variables, But C Just Runs?](https://dev.to/sandaruwan_wadiyage/why-does-java-give-an-error-for-uninitialized-variables-but-c-just-runs-38d9)
-- [📱 Mastering CSS Mobile Responsiveness: A Beginner’s Guide](https://dev.to/bibimbop123/mastering-css-mobile-responsiveness-a-beginners-guide-3jag)
-- [Step-by-Step Beginner Guide: Set Up Apache on AWS EC2 with Git Bash.](https://dev.to/chimdi_ucheeni/step-by-step-beginner-guide-set-up-apache-on-aws-ec2-with-git-bash-2knk)
-- [A Practical Guide to Python&#39;s @property Decorator &lpar;with Examples&rpar;](https://dev.to/amohgodwin/a-practical-guide-to-pythons-property-decorator-with-examples-26mo)
+- [Convention over configuration in the age of AI. &lpar; Happy accident ? &rpar;](https://dev.to/w3ndo/convention-over-configuration-in-the-age-of-ai-happy-accident--1b9j)
+- [Mission 7: Update Your Portfolio Part Two](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-two-4bkc)
+- [Understanding of Deep Copy and Shallow Copy in JavaScript](https://dev.to/kannan_ravi/understanding-of-deep-copy-and-shallow-copy-in-javascript-h3i)
+- [Why Your Flutter App Rebuilds Too Much — And How to Fix It](https://dev.to/alaminkarno/why-your-flutter-app-rebuilds-too-much-and-how-to-fix-it-bpi)
+- [🧠 10-Day JS Challenge: Arrays &amp; Array Methods Day-6](https://dev.to/smriti_webdev/10-day-js-challenge-arrays-array-methods-day-6-b3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
