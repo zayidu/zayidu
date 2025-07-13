@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Grok 4 to See if the Hype is Real: What I Found Will Surprise You](https://dev.to/blasterzm/i-tested-grok-4-to-see-if-the-hype-is-real-what-i-found-will-surprise-you-4il0)
-- [Setting Up Clerk Authentication with NestJS and Next.js](https://dev.to/satoshi_9a44c57cd2e96fbff/setting-up-clerk-authentication-with-nestjs-and-nextjs-3nai)
-- [How Do You Manage PHP Dependencies Effectively in Your Projects?](https://dev.to/thecodeliner/how-do-you-manage-php-dependencies-effectively-in-your-projects-2opj)
-- [Azure Landing Zone Deployment: Private VNETs, Self-Hosted Agents &amp; Service Connections](https://dev.to/florianlenz/azure-landing-zone-deployment-private-vnets-self-hosted-agents-service-connections-3ld5)
-- [🛠️ I built DevTool360 – A privacy-first toolbox for developers &lpar;GraphQL, Docker, API Testing &amp; more&rpar;](https://dev.to/devtool360_146dd3c2afd04c/i-built-devtool360-a-privacy-first-toolbox-for-developers-graphql-docker-api-testing-more-3a30)
+- [Getting Started with Rust in 2025: Why Now Is a Great Time to Learn Rust 🦀](https://dev.to/basfar/getting-started-with-rust-in-2025-why-now-is-a-great-time-to-learn-rust-1d89)
+- [Part 4: Real-time Blockchain Updates --- Listening for Smart Contract Events with web3.py](https://dev.to/divine_igbinoba_fb6de7207/part-4-real-time-blockchain-updates-listening-for-smart-contract-events-with-web3py-32dl)
+- [Milla Photo Image Carousel &lpar; Animation &rpar;](https://dev.to/online_zone76/milla-photo-image-carousel-animation--2agh)
+- [A Deep Dive into CSS Animations with keyframes](https://dev.to/mechcloud_academy/a-deep-dive-into-css-animations-with-keyframes-7n6)
+- [Progress update with pics!](https://dev.to/magipunk/progress-update-with-pics-1fio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
