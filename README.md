@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and Version Control Systems: A Developer&#39;s Essential Guide](https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh)
-- [🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.](https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi)
-- [Why do you contribute to Open Source? What is your motivation?](https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo)
-- [Day 1 &amp; 2 of My Java Full Stack Journey:Starting with HTML &amp; CSS Basis](https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a)
-- [Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting](https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg)
+- [NodeJS Fundamentals: domain](https://dev.to/devopsfundamentals/nodejs-fundamentals-domain-3b04)
+- [Kubernetes Workshop1 : Step10 : Service Loadbalancer](https://dev.to/cross1308/kubernetes-workshop1-step9-service-loadbalancer-565i)
+- [Breaking Circular Dependencies in Kotlin with the Mediator Pattern](https://dev.to/mikesplore/breaking-circular-dependencies-in-kotlin-with-the-mediator-pattern-136d)
+- [Understanding Tech Debt](https://dev.to/clifford_otieno/understanding-tech-debt-5e2f)
+- [Why Standalone Components and Signals Are Game-Changers for Angular Developers](https://dev.to/karol_modelski/why-standalone-components-and-signals-are-game-changers-for-angular-developers-5228)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
