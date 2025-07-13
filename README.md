@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How long does it usually take you to learn a new language? And practise it in real-life projects?](https://dev.to/dara01x/how-long-does-it-usually-take-you-to-learn-a-new-language-and-practise-it-in-real-life-projects-42oc)
-- [Your First Angular 20 Project: Step‑by‑Step for Absolute Beginners](https://dev.to/preethi_r_eecc1107f906ec6/your-first-angular-20-project-step-by-step-for-absolute-beginners-3mb1)
-- [Office Edition Animated Frontend HomePage for Axero](https://dev.to/volde/office-edition-animated-frontend-homepage-for-axero-333f)
-- [Sliding Window: A Simple Yet Powerful Technique](https://dev.to/sneha_grian_cfca240a95d41/sliding-window-a-simple-yet-powerful-technique-16hj)
-- [Lotus&lpar;Animation&rpar;](https://dev.to/preetha_vaishnavi_2b82358/lotusanimation-2bp5)
+- [My Second Experience at the JVM Code-On Program](https://dev.to/sabithasivaprakasam/my-second-experience-at-the-jvm-code-on-program-f4m)
+- [🔄 Mastering Database Transactions in Uniface: The commit Statement Explained](https://dev.to/petercode/mastering-database-transactions-in-uniface-the-commit-statement-explained-41l8)
+- [Linux cheat sheet for day-to-day actions...!!!](https://dev.to/shiva_beepeta/linux-cheat-sheet-for-day-to-day-actions-5507)
+- [CodeCrate—A Snippet Manager Built with Next.js and MongoDB](https://dev.to/duraidmustafa/codecrate-a-snippet-manager-built-with-nextjs-and-mongodb-3k9f)
+- [Leet Code Problem Solutions](https://dev.to/harshpdev/leet-code-problem-solutions-3gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
