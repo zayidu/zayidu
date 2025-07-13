@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Cryptocurrency Web App Using React or Next.js](https://dev.to/er-raj-aryan/build-a-cryptocurrency-web-app-using-react-or-nextjs-2m7)
-- [How to Add ESLint and prettier to an Angular Application](https://dev.to/extinctsion/how-to-add-eslint-and-prettier-to-an-angular-application-3oc3)
-- [✫ CodeCharm: VS Code Extension That Comments Your Code Like an AI Pro &lpar;With Emojis!&rpar;](https://dev.to/puneetkumar2010/codecharm-vs-code-extension-that-comments-your-code-like-an-ai-pro-with-emojis-2ko2)
-- [🚀 Docker Phần 3: Docker Compose, volume, network](https://dev.to/duytruong09/docker-phan-3-docker-compose-volume-network-3h7c)
-- [The Importance of Coding in the Human World](https://dev.to/david_786/the-importance-of-coding-in-the-human-world-1im0)
+- [DevLog 20250713: Ease of Pain](https://dev.to/nfc-charles/devlog-20250713-ease-of-pain-570e)
+- [🧐 Why Does Java Give an Error for Uninitialized Variables, But C Just Runs?](https://dev.to/sandaruwan_wadiyage/why-does-java-give-an-error-for-uninitialized-variables-but-c-just-runs-38d9)
+- [📱 Mastering CSS Mobile Responsiveness: A Beginner’s Guide](https://dev.to/bibimbop123/mastering-css-mobile-responsiveness-a-beginners-guide-3jag)
+- [Step-by-Step Beginner Guide: Set Up Apache on AWS EC2 with Git Bash.](https://dev.to/chimdi_ucheeni/step-by-step-beginner-guide-set-up-apache-on-aws-ec2-with-git-bash-2knk)
+- [A Practical Guide to Python&#39;s @property Decorator &lpar;with Examples&rpar;](https://dev.to/amohgodwin/a-practical-guide-to-pythons-property-decorator-with-examples-26mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
