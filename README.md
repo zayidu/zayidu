@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: domain](https://dev.to/devopsfundamentals/nodejs-fundamentals-domain-3b04)
-- [Kubernetes Workshop1 : Step10 : Service Loadbalancer](https://dev.to/cross1308/kubernetes-workshop1-step9-service-loadbalancer-565i)
-- [Breaking Circular Dependencies in Kotlin with the Mediator Pattern](https://dev.to/mikesplore/breaking-circular-dependencies-in-kotlin-with-the-mediator-pattern-136d)
-- [Understanding Tech Debt](https://dev.to/clifford_otieno/understanding-tech-debt-5e2f)
-- [Why Standalone Components and Signals Are Game-Changers for Angular Developers](https://dev.to/karol_modelski/why-standalone-components-and-signals-are-game-changers-for-angular-developers-5228)
+- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5)
+- [Three-Fund Investment Portfolio](https://dev.to/preetha_vaishnavi_2b82358/three-fund-investment-portfolio-1d2)
+- [Design Patterns Simplified: Part 3 – Observer Pattern &lpar;a.k.a. “Don’t Call Me, I’ll Call You 📞”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-3-observer-pattern-aka-dont-call-me-ill-call-you--38m3)
+- [Swift program to convert an integer to a Roman numeral — a classic LeetCode problem: &quot;Integer to Roman&quot; &lpar;Problem #12&rpar;.](https://dev.to/harshpdev/swift-program-to-convert-an-integer-to-a-roman-numeral-a-classic-leetcode-problem-integer-to-33l9)
+- [Leetcode - 130. Surrounded Regions](https://dev.to/rakeshreddy512/leetcode-130-surrounded-regions-22md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
