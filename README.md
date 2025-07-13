@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Is The GOAT — Part 4: Cross-Platform Powerhouse 🌍🖥️📱](https://dev.to/hmzas/c-is-the-goat-part-4-cross-platform-powerhouse-19of)
-- [C++ Is The GOAT — Part 3: The Multi-Paradigm Wizard 🧙‍♂️✨](https://dev.to/hmzas/c-is-the-goat-part-3-the-multi-paradigm-wizard-38k2)
-- [C++ Is The GOAT — Part 2: Memory Management Mastery 🧠💾](https://dev.to/hmzas/c-is-the-goat-part-2-memory-management-mastery-4hcc)
-- [Sharpen Your Front-End Skills: Quick HTML, CSS &amp; React Interview Challenges](https://dev.to/gouranga-das-khulna/sharpen-your-front-end-skills-quick-html-css-react-interview-challenges-5f2c)
-- [Gmail ochish bo‘yicha bosqichma-bosqich qo‘llanma &lpar;O‘zbek tilida&rpar;](https://dev.to/jasurkurbanov/gmail-ochish-boyicha-bosqichma-bosqich-qollanma-ozbek-tilida-4mn0)
+- [Tryhackme - Cyber Kill Chain](https://dev.to/hr21don/tryhackme-cyber-kill-chain-2ab5)
+- [🟢 How to Launch an Ubuntu EC2 Instance on AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/augustine_okwaraebuzie_4e/how-to-launch-an-ubuntu-ec2-instance-on-aws-step-by-step-guide-59al)
+- [How to Avoid TLE &lpar;Time Limit Exceeded&rpar; Errors in Coding Problems](https://dev.to/pratikshya_behera_/how-to-avoid-tle-time-limit-exceeded-errors-in-coding-problems-1df2)
+- [🧩 When to Use NoSQL and SQL?](https://dev.to/sajidurshajib/when-to-use-nosql-and-sql-a1m)
+- [[Boost]](https://dev.to/maradwan/-1mpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
