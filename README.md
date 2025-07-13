@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Rust in 2025: Why Now Is a Great Time to Learn Rust 🦀](https://dev.to/basfar/getting-started-with-rust-in-2025-why-now-is-a-great-time-to-learn-rust-1d89)
-- [Part 4: Real-time Blockchain Updates --- Listening for Smart Contract Events with web3.py](https://dev.to/divine_igbinoba_fb6de7207/part-4-real-time-blockchain-updates-listening-for-smart-contract-events-with-web3py-32dl)
-- [Milla Photo Image Carousel &lpar; Animation &rpar;](https://dev.to/online_zone76/milla-photo-image-carousel-animation--2agh)
-- [A Deep Dive into CSS Animations with keyframes](https://dev.to/mechcloud_academy/a-deep-dive-into-css-animations-with-keyframes-7n6)
-- [Progress update with pics!](https://dev.to/magipunk/progress-update-with-pics-1fio)
+- [C the right way to program part 2](https://dev.to/anshuman_khanna/c-the-right-way-to-program-part-2-1dep)
+- [Learning to Unlearn: The Superpower Developers Need in the AI Era](https://dev.to/hallar_ali_6df60db78e978a/learning-to-unlearn-the-superpower-developers-need-in-the-ai-era-40ga)
+- [How to Secure SSH Access with Short-Lived Certificates](https://dev.to/sebos/how-to-secure-ssh-access-with-short-lived-certificates-44a5)
+- [Building Spokane Tech: Part 7](https://dev.to/spokanetech/building-spokane-tech-part-7-1joa)
+- [India Has a Big f***ing Talent Problem’: What Runable’s Viral Hiring Post Means for Developers](https://dev.to/shiva_shanker_k/india-has-a-big-fing-talent-problem-what-runables-viral-hiring-post-means-for-developers-4cga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
