@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Secure Multi-Account AWS Environment with IAM and Identity Center](https://dev.to/sainticon/building-a-secure-multi-account-aws-environment-with-iam-and-identity-center-5c1g)
-- [A Single-Case Study: Using Grok 4 to Reframe a “Beauty Analysis” Prompt for ChatGPT o3](https://dev.to/farukalpay/a-single-case-study-using-grok-4-to-reframe-a-beauty-analysis-prompt-for-chatgpt-o3-5em4)
-- [🏴‍☠️ Introducing OnePiece Lang: Write Code Like a Pirate](https://dev.to/deeapaksarun/introducing-onepiece-lang-write-code-like-a-pirate-np2)
-- [Top ML Libraries Every Engineer Should Know](https://dev.to/satp2000/top-ml-libraries-every-engineer-should-know-2ik8)
-- [💸 AWS Compute Optimizer: Unlock Smarter Cloud Cost Savings with ML-Powered Insights 🚀](https://dev.to/cloud_man/aws-compute-optimizer-unlock-smarter-cloud-cost-savings-with-ml-powered-insights-1ecn)
+- [Vertical SaaS Explained: Tailored Software for Specific Industries](https://dev.to/lollypopdesign/vertical-saas-explained-tailored-software-for-specific-industries-4eld)
+- [Remote-Starting My Ford Maverick with Termux, Tailscale, and No Root](https://dev.to/mastershoe08/remote-starting-my-ford-maverick-with-termux-tailscale-and-no-root-38jd)
+- [FVM Explained: How Flutter Selects the Right Version 🚀](https://dev.to/iamapuneet/fvm-explained-how-flutter-selects-the-right-version-5f6l)
+- [Boost Your Web Performance: Mastering JavaScript Scheduling Methods](https://dev.to/codewithrajat/boost-your-web-performance-mastering-javascript-scheduling-methods-56eh)
+- [Giải Bài Candidate Management System – Java OOP &lpar;LAB211 – FPT&rpar;](https://dev.to/truongdevs/giai-bai-candidate-management-system-java-oop-lab211-fpt-143n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
