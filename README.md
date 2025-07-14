@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From side project idea to Hacker News front page: A 7,112 user retrospective](https://dev.to/skeptrune/from-side-project-idea-to-hacker-news-front-page-a-7112-user-retrospective-2p3i)
-- [🚀 Is Mojo Really 1,000,000x Faster Than Python3?](https://dev.to/hmzas/is-mojo-really-1000000x-faster-than-python3-5bnc)
-- [Why you should stick to one Code editor](https://dev.to/ezek-iel/why-you-should-stick-to-one-code-editor-2283)
-- [Interesting read!! ⭐](https://dev.to/zhravan/interesting-read-8bp)
-- [Scaling and Monetizing Amazon through Experimentation](https://dev.to/arjun_mullick_e734b4da656/scaling-and-monetizing-amazon-through-experimentation-15il)
+- [Docker Series: Learn Docker from Scratch](https://dev.to/pooja_bhavani/docker-series-learn-docker-from-scratch-57ad)
+- [How to Get Real IPs Through FRP with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-get-real-ips-through-frp-with-safeline-waf-hih)
+- [Asparagos vs Potato Bugs: Can He Detect the Cycle in O&lpar;1&rpar; Space?](https://dev.to/asparagos/asparagos-vs-potato-bugs-can-he-detect-the-cycle-in-o1-space-1dll)
+- [Seamlessly integrate strongly-typed primitives into your Umbraco apis](https://dev.to/d_inventor/seamlessly-integrate-strongly-typed-primitives-into-your-umbraco-apis-4jeb)
+- [Web Font Performance Checklist](https://dev.to/jacobandrewsky/web-font-performance-checklist-12i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
