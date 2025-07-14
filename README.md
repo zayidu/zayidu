@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vertical SaaS Explained: Tailored Software for Specific Industries](https://dev.to/lollypopdesign/vertical-saas-explained-tailored-software-for-specific-industries-4eld)
-- [Remote-Starting My Ford Maverick with Termux, Tailscale, and No Root](https://dev.to/mastershoe08/remote-starting-my-ford-maverick-with-termux-tailscale-and-no-root-38jd)
-- [FVM Explained: How Flutter Selects the Right Version 🚀](https://dev.to/iamapuneet/fvm-explained-how-flutter-selects-the-right-version-5f6l)
-- [Boost Your Web Performance: Mastering JavaScript Scheduling Methods](https://dev.to/codewithrajat/boost-your-web-performance-mastering-javascript-scheduling-methods-56eh)
-- [Giải Bài Candidate Management System – Java OOP &lpar;LAB211 – FPT&rpar;](https://dev.to/truongdevs/giai-bai-candidate-management-system-java-oop-lab211-fpt-143n)
+- [Why Your Development Team Is 40% Slower Than Your Competitors &lpar;And How to Fix It&rpar;](https://dev.to/teamcamp/why-your-development-team-is-40-slower-than-your-competitors-and-how-to-fix-it-7on)
+- [Prompting Techniques: How to Talk to AI &lpar;and Get What You Want&rpar;](https://dev.to/shanedsouza4/prompting-techniques-how-to-talk-to-ai-and-get-what-you-want-5f9e)
+- [Lessons Learned: Building Secure Pipelines in Practice](https://dev.to/domderrien/lessons-learned-building-secure-pipelines-in-practice-36ef)
+- [🔌 Building Resilient Database Operations with Aiobreaker + Async SQLAlchemy + FastAPI](https://dev.to/akarshan/building-resilient-database-operations-with-aiobreaker-async-sqlalchemy-fastapi-23dl)
+- [The Trust Challenge: Safe Infrastructure Previews in Forked Workflows](https://dev.to/domderrien/the-trust-challenge-safe-infrastructure-previews-in-forked-workflows-24pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
