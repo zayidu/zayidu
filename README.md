@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stress-Free Relocation to Tempe, AZ: Your Complete Guide](https://dev.to/mentorsmovingstorage/stress-free-relocation-to-tempe-az-your-complete-guide-4989)
-- [Supabase UI: Platform Kit](https://dev.to/supabase/supabase-ui-platform-kit-k12)
-- [🚀 Scaling GitOps on EKS with Helm + FluxCD: Lessons from the Field](https://dev.to/lbastet/scaling-gitops-on-eks-with-helm-fluxcd-lessons-from-the-field-5677)
-- [MCP Project Update &lpar;Part 2&rpar;: Ecosystem, Registries &amp; Governance](https://dev.to/om_shree_0709/mcp-project-update-part-2-ecosystem-registries-governance-38b9)
-- [MCP Project Update &lpar;Part 1&rpar;: Protocol Evolution &amp; Technical Insights](https://dev.to/om_shree_0709/mcp-project-update-part-1-protocol-evolution-technical-insights-5c0l)
+- [WebGPU Engine from Scratch Part 2: Geometry](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-2-geometry-553p)
+- [Is Node.js JavaScript?](https://dev.to/kiani0x01/is-nodejs-javascript-nll)
+- [Getting better](https://dev.to/ishibak/getting-better-4beg)
+- [Why I Switched from Supabase to Gadget for My Replit Projects](https://dev.to/nate_sharma_/why-i-switched-from-supabase-to-gadget-for-my-replit-projects-3pgi)
+- [Me vs the Rust Compiler: A Daily Ritual of Pain and Progress](https://dev.to/gaurav_sharma_84b39c2de6f/me-vs-the-rust-compiler-a-daily-ritual-of-pain-and-progress-4a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
