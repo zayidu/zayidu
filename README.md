@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Shane Lowry&#39;s Storybook Open: Royal Portrush, Revisited](https://dev.to/youtube_golf/golfcom-shane-lowrys-storybook-open-royal-portrush-revisited-5686)
-- [Grant Horvat: The Major Cut @ Royal Portrush](https://dev.to/youtube_golf/grant-horvat-the-major-cut-royal-portrush-304b)
-- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-1em9)
-- [IGN: The Best Gaming Keyboards &lpar;2025&rpar; - Budget to Best](https://dev.to/gg_news/ign-the-best-gaming-keyboards-2025-budget-to-best-5dl6)
-- [IGN: The Fantastic Four: First Steps - Official &#39;Girlfriend&#39; Trailer](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-girlfriend-trailer-58nf)
+- [Meet Kiro!](https://dev.to/aspittel/meet-kiro-4m0o)
+- [Implementasi Autoscaling VM di Azure](https://dev.to/bisacloud/implementasi-autoscaling-vm-di-azure-3kc1)
+- [Build a Real-Time Chat App with WebSockets](https://dev.to/gingermuffn/build-a-real-time-chat-app-with-websockets-1om8)
+- [Got Obsessed with AI Flower Backdrops — Then Prompt Chaos Hit Me](https://dev.to/junxiao_mai_6ebd738502862/got-obsessed-with-ai-flower-backdrops-then-prompt-chaos-hit-me-45go)
+- [From Disruptions to Opportunities: Failing and Emerging Businesses Under Climate-Induced Droughts](https://dev.to/mimran/from-disruptions-to-opportunities-failing-and-emerging-businesses-under-climate-induced-droughts-5bcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
