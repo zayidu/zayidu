@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Squash Like a Grand‑master](https://dev.to/carbontechnologies/how-to-squash-like-a-grand-master-5220)
-- [Today I learned Java class,Objtect and OOPS concept.](https://dev.to/kanaga_vimala_66acce9cf6e/today-i-learned-java-classobjtect-and-oops-concept-ne0)
-- [Venus Protocol: A Developer-Friendly Guide to DeFi Lending and Stablecoins](https://dev.to/cherri_underwood_90a69668/venus-protocol-a-developer-friendly-guide-to-defi-lending-and-stablecoins-1kjn)
-- [Embedded Rust on the ESP32 : Getting started - Setup](https://dev.to/vaishnav_sabari_girish/embedded-rust-on-the-esp32-getting-started-setup-28en)
-- [# 🎙️ Building Voice Agents: The Revolutionary Future of Customer Support is Here!](https://dev.to/pradipbhor/-building-voice-agents-the-revolutionary-future-of-customer-support-is-here-1pe)
+- [From side project idea to Hacker News front page: A 7,112 user retrospective](https://dev.to/skeptrune/from-side-project-idea-to-hacker-news-front-page-a-7112-user-retrospective-2p3i)
+- [🚀 Is Mojo Really 1,000,000x Faster Than Python3?](https://dev.to/hmzas/is-mojo-really-1000000x-faster-than-python3-5bnc)
+- [Why you should stick to one Code editor](https://dev.to/ezek-iel/why-you-should-stick-to-one-code-editor-2283)
+- [Interesting read!! ⭐](https://dev.to/zhravan/interesting-read-8bp)
+- [Scaling and Monetizing Amazon through Experimentation](https://dev.to/arjun_mullick_e734b4da656/scaling-and-monetizing-amazon-through-experimentation-15il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
