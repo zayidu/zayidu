@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Development Team Is 40% Slower Than Your Competitors &lpar;And How to Fix It&rpar;](https://dev.to/teamcamp/why-your-development-team-is-40-slower-than-your-competitors-and-how-to-fix-it-7on)
-- [Prompting Techniques: How to Talk to AI &lpar;and Get What You Want&rpar;](https://dev.to/shanedsouza4/prompting-techniques-how-to-talk-to-ai-and-get-what-you-want-5f9e)
-- [Lessons Learned: Building Secure Pipelines in Practice](https://dev.to/domderrien/lessons-learned-building-secure-pipelines-in-practice-36ef)
-- [🔌 Building Resilient Database Operations with Aiobreaker + Async SQLAlchemy + FastAPI](https://dev.to/akarshan/building-resilient-database-operations-with-aiobreaker-async-sqlalchemy-fastapi-23dl)
-- [The Trust Challenge: Safe Infrastructure Previews in Forked Workflows](https://dev.to/domderrien/the-trust-challenge-safe-infrastructure-previews-in-forked-workflows-24pf)
+- [Still copy-pasting from Notepad every time?](https://dev.to/slashitapp/still-copy-pasting-from-notepad-every-time-55c2)
+- [When I Thought Writing Everything in One File Was Smart &lpar;And Then It Hit Me...&rpar;](https://dev.to/achlacodes/when-i-thought-writing-everything-in-one-file-was-smart-and-then-it-hit-me-50ke)
+- [🐳 Docker for DevOps &amp; Microservices — Part 1: Demystifying Docker](https://dev.to/ayush_14189/docker-for-devops-microservices-part-1-demystifying-docker-22hh)
+- [Building a TikTok Clone: A Full-Stack Developer&#39;s Journey](https://dev.to/karim__sk/building-a-tiktok-clone-a-full-stack-developers-journey-4mj)
+- [We Write Code for Two Audiences—with Two Different Priorities](https://dev.to/canro91/we-write-code-for-two-audiences-with-two-different-priorities-l02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
