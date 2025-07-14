@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Shell, Real Power: A Developer’s Guide to SSH](https://dev.to/saumyaaggarwal/secure-shell-real-power-a-developers-guide-to-ssh-4dai)
-- [Injecting Environment Variables in a Frontend Rollup Build &lpar;with Docker&rpar;](https://dev.to/lovestaco/injecting-environment-variables-in-a-frontend-rollup-build-with-docker-1gpa)
-- [Introducing JWT Signing Keys](https://dev.to/supabase/introducing-jwt-signing-keys-4h3g)
-- [How I Got Started — Why We Shouldn&#39;t Give Up❗](https://dev.to/cristea_theodora_6200140b/how-i-got-started-why-we-shouldnt-give-up-1dl3)
-- [How to Set Up a High-Availability Azure Blob Storage for a Public Website &lpar;With Versioning &amp; Recovery&rpar;](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-a-high-availability-azure-blob-storage-for-a-public-website-with-versioning--4p7g)
+- [Stress-Free Relocation to Tempe, AZ: Your Complete Guide](https://dev.to/mentorsmovingstorage/stress-free-relocation-to-tempe-az-your-complete-guide-4989)
+- [Supabase UI: Platform Kit](https://dev.to/supabase/supabase-ui-platform-kit-k12)
+- [🚀 Scaling GitOps on EKS with Helm + FluxCD: Lessons from the Field](https://dev.to/lbastet/scaling-gitops-on-eks-with-helm-fluxcd-lessons-from-the-field-5677)
+- [MCP Project Update &lpar;Part 2&rpar;: Ecosystem, Registries &amp; Governance](https://dev.to/om_shree_0709/mcp-project-update-part-2-ecosystem-registries-governance-38b9)
+- [MCP Project Update &lpar;Part 1&rpar;: Protocol Evolution &amp; Technical Insights](https://dev.to/om_shree_0709/mcp-project-update-part-1-protocol-evolution-technical-insights-5c0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
