@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure by design !!!](https://dev.to/balagmadhu/secure-by-design--2an8)
-- [Cara pembayaran di ADAKAMI](https://dev.to/alo_alo_b5542eda750fd7968/cara-pembayaran-di-adakami-1937)
-- [Audience Engagement in Webinars: Why Real-Time Interaction Matters](https://dev.to/jack_davis_72eff1ff3e4afd/audience-engagement-in-webinars-why-real-time-interaction-matters-1g7f)
-- [Why Clean Flutter Apps Use Dependency Injection and Yours Should Too](https://dev.to/alaminkarno/why-clean-flutter-apps-use-dependency-injection-and-yours-should-too-3668)
-- [Launching IluPrompt: Open-Source AI Prompt Engineering Made Simple!](https://dev.to/dineshbastin/launching-iluprompt-open-source-ai-prompt-engineering-made-simple-48f7)
+- [Browser Tab Leader Pattern: Stop Wasting API Calls Across Browser Tabs](https://dev.to/smy/browser-tab-leader-pattern-stop-wasting-api-calls-across-browser-tabs-173k)
+- [JavaScript-Loops](https://dev.to/asran_2025/javascript-loops-55gg)
+- [Mastering JavaScript Functions &amp; DOM Manipulation: A Beginner-Friendly Deep Dive](https://dev.to/dumebii/mastering-javascript-functions-dom-manipulation-a-beginner-friendly-deep-dive-2935)
+- [15 Tiny Python Scripts to Supercharge Your Social Media Workflow](https://dev.to/xinjie_zou_d67d2805538130/15-tiny-python-scripts-to-supercharge-your-social-media-workflow-4l2a)
+- [Tailwind CSS – Utility-First CSS in Action](https://dev.to/letanure/tailwind-css-utility-first-css-in-action-4c0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
