@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Cloud Native ☁️](https://dev.to/riteshkokam/introduction-to-cloud-native-4i82)
-- [Time Data Series: Written In Our Stars](https://dev.to/adatole/time-data-series-written-in-our-stars-2f6d)
-- [When Machines Meet Meaning A Look at SEO’s Evolving Role](https://dev.to/aaliyah_connolly_e7a40e85/when-machines-meet-meaning-a-look-at-seos-evolving-role-32og)
-- [Building a Dumb Sensor Simulator in C &lpar;That Taught Me How I Took Python For Granted&rpar;](https://dev.to/asimbuilds/building-a-dumb-sensor-simulator-in-c-that-taught-me-how-i-took-python-for-granted-49f5)
-- [Easy logging in your small ruby scripts/apps](https://dev.to/oinak/easy-logging-in-your-small-ruby-scriptsapps-4ceg)
+- [Golf.com: Shane Lowry&#39;s Storybook Open: Royal Portrush, Revisited](https://dev.to/youtube_golf/golfcom-shane-lowrys-storybook-open-royal-portrush-revisited-5686)
+- [Grant Horvat: The Major Cut @ Royal Portrush](https://dev.to/youtube_golf/grant-horvat-the-major-cut-royal-portrush-304b)
+- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-1em9)
+- [IGN: The Best Gaming Keyboards &lpar;2025&rpar; - Budget to Best](https://dev.to/gg_news/ign-the-best-gaming-keyboards-2025-budget-to-best-5dl6)
+- [IGN: The Fantastic Four: First Steps - Official &#39;Girlfriend&#39; Trailer](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-girlfriend-trailer-58nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
