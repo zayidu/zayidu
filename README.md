@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Development on Termux – Complete Guide](https://dev.to/gokayburuc/react-development-on-termux-complete-guide-55ph)
-- [MovieMood is a React Native app built with Expo that lets you discover and explore movies using the TMDb API.](https://dev.to/saidmounaim/moviemood-is-a-react-native-app-built-with-expo-that-lets-you-discover-and-explore-movies-using-the-12cp)
-- [Axero Digital Workspace](https://dev.to/nebiyu_girma_007d227cbd12/this-is-a-submission-for-frontend-challenge-office-1ndd)
-- [Broken API Documentation: Why Developers Can&#39;t Integrate Successfully](https://dev.to/arbythecoder/broken-api-documentation-why-developers-cant-integrate-successfully-1cg)
-- [Programming Entry Level: how to error handling](https://dev.to/devopsfundamentals/programming-entry-level-how-to-error-handling-5593)
+- [Building a Secure Multi-Account AWS Environment with IAM and Identity Center](https://dev.to/sainticon/building-a-secure-multi-account-aws-environment-with-iam-and-identity-center-5c1g)
+- [A Single-Case Study: Using Grok 4 to Reframe a “Beauty Analysis” Prompt for ChatGPT o3](https://dev.to/farukalpay/a-single-case-study-using-grok-4-to-reframe-a-beauty-analysis-prompt-for-chatgpt-o3-5em4)
+- [🏴‍☠️ Introducing OnePiece Lang: Write Code Like a Pirate](https://dev.to/deeapaksarun/introducing-onepiece-lang-write-code-like-a-pirate-np2)
+- [Top ML Libraries Every Engineer Should Know](https://dev.to/satp2000/top-ml-libraries-every-engineer-should-know-2ik8)
+- [💸 AWS Compute Optimizer: Unlock Smarter Cloud Cost Savings with ML-Powered Insights 🚀](https://dev.to/cloud_man/aws-compute-optimizer-unlock-smarter-cloud-cost-savings-with-ml-powered-insights-1ecn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
