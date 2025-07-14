@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Framework Trap](https://dev.to/paoloap/the-ai-framework-trap-1mfd)
-- [Smart Day‑Starter: The Ultimate Office Dashboard](https://dev.to/axrisi/smart-day-starter-the-ultimate-office-dashboard-1fof)
-- [How I Built a Full Stack AI Chatbot Using GPT, React, and .NET 10 in a Weekend](https://dev.to/nikhilwagh/how-i-built-a-full-stack-ai-chatbot-using-gpt-react-and-net-10-in-a-weekend-4856)
-- [How to Choose the Best AI Development Company for Your Business](https://dev.to/devarticles/how-to-choose-the-best-ai-development-company-for-your-business-2692)
-- [Axero Frontend Challenge: Workplace Moodboard – CSS Art Edition](https://dev.to/axrisi/axero-frontend-challenge-workplace-moodboard-css-art-edition-4800)
+- [Yaya](https://dev.to/gabriel_furtado_07c82ac7f/yaya-4bd2)
+- [Imagine this as part of a ctf](https://dev.to/ieccles/imagine-this-as-part-of-a-ctf-30op)
+- [Turn Any File Into a Art Masterpiece!](https://dev.to/notreeceharris/turn-any-file-into-a-pixel-art-masterpiece-nl0)
+- [How I Built Fitgen: From React UI to Paying Users](https://dev.to/trip_one_81903e4e867ce984/how-i-built-fitgen-from-react-ui-to-paying-users-49e4)
+- [What Is a Heap? And Why You’ve Probably Used One Without Knowing](https://dev.to/onedev/what-is-a-heap-and-why-youve-probably-used-one-without-knowing-44kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
