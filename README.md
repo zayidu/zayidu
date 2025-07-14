@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Node.js app in Replit &amp; use s3 as static web hosting serving with CDN](https://dev.to/mizaniftee/build-nodejs-app-in-replit-use-s3-as-static-web-hosting-serving-with-cdn-4n83)
-- [Frago – A Django App for Secure, Resumable, Parallel Chunked Uploads](https://dev.to/albin_mathew_2e639a421ec4/frago-a-django-app-for-secure-resumable-parallel-chunked-uploads-213k)
-- [Understanding Code Vulnerabilities: Real-World Examples and How They’re Exploited](https://dev.to/ozee/understanding-code-vulnerabilities-real-world-examples-and-how-theyre-exploited-e6a)
-- [How to Run Automated E2E Tests with Stormkit and Browserless](https://dev.to/svedova/how-to-run-automated-e2e-tests-with-stormkit-and-browserless-2ne7)
-- [How to Remotely Access Your Raspberry Pi Server Outside Your Network with Tunnelmole](https://dev.to/robbiecahill/how-to-remotely-access-your-raspberry-pi-server-outside-your-network-with-tunnelmole-15df)
+- [Attributes in C23 and C++](https://dev.to/pauljlucas/attributes-in-c23-and-c-5eg)
+- [Deploy and Manage Policies for Multiple Clusters with RHACM](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-for-multiple-clusters-with-rhacm-5apn)
+- [Introducing Quart: A Modern Alternative to Flask &lpar;with Async Support&rpar;](https://dev.to/engrmark/introducing-quart-a-modern-alternative-to-flask-with-async-support-6n0)
+- [Day 34: When No Power Becomes Maximum Productivity &lpar;And Why That&#39;s Problematic&rpar;](https://dev.to/casperday11/day-34-when-no-power-becomes-maximum-productivity-and-why-thats-problematic-4kjl)
+- [Started Learning System Design Day 1.](https://dev.to/rachitsinghh/started-learning-system-design-day-1-136d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
