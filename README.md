@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dataverse Row Level Security](https://dev.to/wyattdave/dataverse-row-level-security-54if)
-- [Build Visual Workflows with n8n and Automate Everything](https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3)
-- [[Boost]](https://dev.to/srushti/-1aem)
-- [💰 From Side Project to Revenue: GMB Booking Monetization Journey](https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267)
-- [Fixing “The file is too large to render in Typora” by Increasing the File Size Limit](https://dev.to/l1u7/fixing-the-file-is-too-large-to-render-in-typora-by-increasing-the-file-size-limit-hnc)
+- [How to Squash Like a Grand‑master](https://dev.to/carbontechnologies/how-to-squash-like-a-grand-master-5220)
+- [Today I learned Java class,Objtect and OOPS concept.](https://dev.to/kanaga_vimala_66acce9cf6e/today-i-learned-java-classobjtect-and-oops-concept-ne0)
+- [Venus Protocol: A Developer-Friendly Guide to DeFi Lending and Stablecoins](https://dev.to/cherri_underwood_90a69668/venus-protocol-a-developer-friendly-guide-to-defi-lending-and-stablecoins-1kjn)
+- [Embedded Rust on the ESP32 : Getting started - Setup](https://dev.to/vaishnav_sabari_girish/embedded-rust-on-the-esp32-getting-started-setup-28en)
+- [# 🎙️ Building Voice Agents: The Revolutionary Future of Customer Support is Here!](https://dev.to/pradipbhor/-building-voice-agents-the-revolutionary-future-of-customer-support-is-here-1pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
