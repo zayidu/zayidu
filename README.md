@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Still copy-pasting from Notepad every time?](https://dev.to/slashitapp/still-copy-pasting-from-notepad-every-time-55c2)
-- [When I Thought Writing Everything in One File Was Smart &lpar;And Then It Hit Me...&rpar;](https://dev.to/achlacodes/when-i-thought-writing-everything-in-one-file-was-smart-and-then-it-hit-me-50ke)
-- [🐳 Docker for DevOps &amp; Microservices — Part 1: Demystifying Docker](https://dev.to/ayush_14189/docker-for-devops-microservices-part-1-demystifying-docker-22hh)
-- [Building a TikTok Clone: A Full-Stack Developer&#39;s Journey](https://dev.to/karim__sk/building-a-tiktok-clone-a-full-stack-developers-journey-4mj)
-- [We Write Code for Two Audiences—with Two Different Priorities](https://dev.to/canro91/we-write-code-for-two-audiences-with-two-different-priorities-l02)
+- [Dataverse Row Level Security](https://dev.to/wyattdave/dataverse-row-level-security-54if)
+- [Build Visual Workflows with n8n and Automate Everything](https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3)
+- [[Boost]](https://dev.to/srushti/-1aem)
+- [💰 From Side Project to Revenue: GMB Booking Monetization Journey](https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267)
+- [Fixing “The file is too large to render in Typora” by Increasing the File Size Limit](https://dev.to/l1u7/fixing-the-file-is-too-large-to-render-in-typora-by-increasing-the-file-size-limit-hnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
