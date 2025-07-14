@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Attributes in C23 and C++](https://dev.to/pauljlucas/attributes-in-c23-and-c-5eg)
-- [Deploy and Manage Policies for Multiple Clusters with RHACM](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-for-multiple-clusters-with-rhacm-5apn)
-- [Introducing Quart: A Modern Alternative to Flask &lpar;with Async Support&rpar;](https://dev.to/engrmark/introducing-quart-a-modern-alternative-to-flask-with-async-support-6n0)
-- [Day 34: When No Power Becomes Maximum Productivity &lpar;And Why That&#39;s Problematic&rpar;](https://dev.to/casperday11/day-34-when-no-power-becomes-maximum-productivity-and-why-thats-problematic-4kjl)
-- [Started Learning System Design Day 1.](https://dev.to/rachitsinghh/started-learning-system-design-day-1-136d)
+- [Introduction to Cloud Native ☁️](https://dev.to/riteshkokam/introduction-to-cloud-native-4i82)
+- [Time Data Series: Written In Our Stars](https://dev.to/adatole/time-data-series-written-in-our-stars-2f6d)
+- [When Machines Meet Meaning A Look at SEO’s Evolving Role](https://dev.to/aaliyah_connolly_e7a40e85/when-machines-meet-meaning-a-look-at-seos-evolving-role-32og)
+- [Building a Dumb Sensor Simulator in C &lpar;That Taught Me How I Took Python For Granted&rpar;](https://dev.to/asimbuilds/building-a-dumb-sensor-simulator-in-c-that-taught-me-how-i-took-python-for-granted-49f5)
+- [Easy logging in your small ruby scripts/apps](https://dev.to/oinak/easy-logging-in-your-small-ruby-scriptsapps-4ceg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
