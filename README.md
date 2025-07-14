@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Kiro!](https://dev.to/aspittel/meet-kiro-4m0o)
-- [Implementasi Autoscaling VM di Azure](https://dev.to/bisacloud/implementasi-autoscaling-vm-di-azure-3kc1)
-- [Build a Real-Time Chat App with WebSockets](https://dev.to/gingermuffn/build-a-real-time-chat-app-with-websockets-1om8)
-- [Got Obsessed with AI Flower Backdrops — Then Prompt Chaos Hit Me](https://dev.to/junxiao_mai_6ebd738502862/got-obsessed-with-ai-flower-backdrops-then-prompt-chaos-hit-me-45go)
-- [From Disruptions to Opportunities: Failing and Emerging Businesses Under Climate-Induced Droughts](https://dev.to/mimran/from-disruptions-to-opportunities-failing-and-emerging-businesses-under-climate-induced-droughts-5bcg)
+- [Secure Shell, Real Power: A Developer’s Guide to SSH](https://dev.to/saumyaaggarwal/secure-shell-real-power-a-developers-guide-to-ssh-4dai)
+- [Injecting Environment Variables in a Frontend Rollup Build &lpar;with Docker&rpar;](https://dev.to/lovestaco/injecting-environment-variables-in-a-frontend-rollup-build-with-docker-1gpa)
+- [Introducing JWT Signing Keys](https://dev.to/supabase/introducing-jwt-signing-keys-4h3g)
+- [How I Got Started — Why We Shouldn&#39;t Give Up❗](https://dev.to/cristea_theodora_6200140b/how-i-got-started-why-we-shouldnt-give-up-1dl3)
+- [How to Set Up a High-Availability Azure Blob Storage for a Public Website &lpar;With Versioning &amp; Recovery&rpar;](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-a-high-availability-azure-blob-storage-for-a-public-website-with-versioning--4p7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
