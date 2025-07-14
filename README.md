@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch Part 2: Geometry](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-2-geometry-553p)
-- [Is Node.js JavaScript?](https://dev.to/kiani0x01/is-nodejs-javascript-nll)
-- [Getting better](https://dev.to/ishibak/getting-better-4beg)
-- [Why I Switched from Supabase to Gadget for My Replit Projects](https://dev.to/nate_sharma_/why-i-switched-from-supabase-to-gadget-for-my-replit-projects-3pgi)
-- [Me vs the Rust Compiler: A Daily Ritual of Pain and Progress](https://dev.to/gaurav_sharma_84b39c2de6f/me-vs-the-rust-compiler-a-daily-ritual-of-pain-and-progress-4a5)
+- [Axero Frontend Challenge: Workplace Moodboard – CSS Art Edition](https://dev.to/axrisi/axero-frontend-challenge-workplace-moodboard-css-art-edition-4800)
+- [Data Culture in the Tech Era](https://dev.to/julsr_mx/data-culture-in-the-tech-era-54l5)
+- [Filtering Out Rows Using LEFT JOIN: A Clean Alternative to NOT IN](https://dev.to/drorata/filtering-out-rows-using-left-join-a-clean-alternative-to-not-in-2lk8)
+- [Kicking off another week featuring Excalidraw!](https://dev.to/riyanapatel/kicking-off-another-week-featuring-excalidraw-45fh)
+- [Reducing Risk, Fueling Growth: A Government-Backed Credit Scheme MSMEs Should Know About](https://dev.to/gov01/reducing-risk-fueling-growth-a-government-backed-credit-scheme-msmes-should-know-about-d2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
