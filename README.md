@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Changing Procurement &lpar;And Why It&#39;s More Interesting Than You Think&rpar;](https://dev.to/accioprocurement/how-ai-is-changing-procurement-and-why-its-more-interesting-than-you-think-24d2)
-- [Using whereRelation to Query Relationships in Laravel](https://dev.to/ibrahimalanshor/using-whererelation-to-query-relationships-in-laravel-2640)
-- [Best AI for Coding and AI Coding Assistants by Category &lpar;2025&rpar;](https://dev.to/pantoai/best-ai-for-coding-and-ai-coding-assistants-by-category-2025-oaf)
-- [Terraform Fundamentals: Control Tower](https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j)
-- [EduVerse](https://dev.to/imdeveloperjay/eduverse-3f87)
+- [How To Use ~ChatGPT Without Degrading](https://dev.to/framemuse/how-to-use-chatgpt-without-degrading-2do3)
+- [Day 2: Tailwind CSS Color System — Semantic, Scalable &amp; Simple](https://dev.to/ruqaiya_beguwala/day-2-tailwind-css-color-system-semantic-scalable-simple-19gk)
+- [Creating a Jenkins Pipeline for Python Applications: A Complete Guide](https://dev.to/caffinecoder54/creating-a-jenkins-pipeline-for-python-applications-a-complete-guide-35f6)
+- [The Zoom Fatigue Fix: How Top Remote Devs Run 90% Fewer Meetings](https://dev.to/teamcamp/the-zoom-fatigue-fix-how-top-remote-devs-run-90-fewer-meetings-20l9)
+- [Tired of Copy-Pasting the Same Code Snippets or Messages?](https://dev.to/aftabulsamudro/tired-of-copy-pasting-the-same-code-snippets-or-messages-32bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
