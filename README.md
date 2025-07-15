@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JPEG Conversion: A Developer&#39;s Complete Guide to Image Optimization](https://dev.to/urbandropzone_75222161405/jpeg-conversion-a-developers-complete-guide-to-image-optimization-3a1c)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;3390&rpar;](https://dev.to/member_02ee4941/server-side-events-implementation-for-real-time-applications3390-12ae)
-- [How to Keep Your Entire Supabase Database &lpar;policies, functions, triggers, cron&rpar; synced across envs](https://dev.to/faouzane_batiga_d9d321705/how-to-keep-your-entire-supabase-database-state-in-your-repository-3468)
-- [Using Hostinger, how to I solve a 403 file not found from a link problem?](https://dev.to/goldenbear/using-hostinger-how-to-i-solve-a-403-file-not-found-from-a-link-problem-5980)
-- [WebP: The Modern Image Format Every Developer Should Know About](https://dev.to/urbandropzone_75222161405/webp-the-modern-image-format-every-developer-should-know-about-1g8a)
+- [Enhancing Output Uniqueness in Large Language Models via Model Rotation, Temperature Tuning, and Embedding-Based Validation](https://dev.to/sushanth_tiruvaipati_9c06/enhancing-output-uniqueness-in-large-language-models-via-model-rotation-temperature-tuning-and-576)
+- [One Brain? Not Enough. How MultiMemory Makes AI Agents Smarter in MultiMindSDK!](https://dev.to/nikhil_multimind/one-brain-not-enough-how-multimemory-makes-ai-agents-smarter-in-multimindsdk-1l90)
+- [🚀 Calling All PHP Developers &amp; Open-Source Enthusiasts! 🚀](https://dev.to/yorchperaza/calling-all-php-developers-open-source-enthusiasts-2c48)
+- [Multi-Modal Content Processing with Strands Agent and just a few lines of code](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-just-a-few-lines-of-code-4hn4)
+- [🚀 Unlocking G Suite SSO in Your Chrome Extension: The Definitive Manifest V3 Guide](https://dev.to/jaymalli_programmer/unlocking-g-suite-sso-in-your-chrome-extension-the-definitive-manifest-v3-guide-2ghi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
