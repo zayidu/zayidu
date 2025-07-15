@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS in Parse Server: Making Cross-Origin Work Without the Headache](https://dev.to/lovestaco/cors-in-parse-server-making-cross-origin-work-without-the-headache-518g)
-- [Stripe-To-Postgres Sync Engine as standalone Library](https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd)
-- [Installing Tailwind CSS v4.0 with Vite 🚀](https://dev.to/tenelabs/installing-tailwind-css-v40-with-vite-24ih)
-- [SwiftUI’s property wrappers](https://dev.to/harshpdev/swiftuis-property-wrappers-2b4c)
-- [S3-Driven DevOps: Event-Driven Deployments Triggered Entirely by Object Storage](https://dev.to/jatin_goel_dac08bb6728f1e/s3-driven-devops-event-driven-deployments-triggered-entirely-by-object-storage-4bb0)
+- [JPEG Conversion: A Developer&#39;s Complete Guide to Image Optimization](https://dev.to/urbandropzone_75222161405/jpeg-conversion-a-developers-complete-guide-to-image-optimization-3a1c)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;3390&rpar;](https://dev.to/member_02ee4941/server-side-events-implementation-for-real-time-applications3390-12ae)
+- [How to Keep Your Entire Supabase Database &lpar;policies, functions, triggers, cron&rpar; synced across envs](https://dev.to/faouzane_batiga_d9d321705/how-to-keep-your-entire-supabase-database-state-in-your-repository-3468)
+- [Using Hostinger, how to I solve a 403 file not found from a link problem?](https://dev.to/goldenbear/using-hostinger-how-to-i-solve-a-403-file-not-found-from-a-link-problem-5980)
+- [WebP: The Modern Image Format Every Developer Should Know About](https://dev.to/urbandropzone_75222161405/webp-the-modern-image-format-every-developer-should-know-about-1g8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
