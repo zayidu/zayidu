@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Tested 6 Free WAFs. Here&#39;s How They Actually Perform.](https://dev.to/sharon_42e16b8da44dabde6d/we-tested-6-free-wafs-heres-how-they-actually-perform-14fd)
-- [GCP Fundamentals: Drive Activity API](https://dev.to/devopsfundamentals/gcp-fundamentals-drive-activity-api-5a2p)
-- [Why You Should Already Be Using an AI Agent in 2025](https://dev.to/ramasundaram_s/why-you-should-already-be-using-an-ai-agent-in-2025-4ipl)
-- [PDF Compression Guide - 7/15/2025](https://dev.to/revisepdf/pdf-compression-guide-7152025-50fl)
-- [Como fazer copy paste com nvim em conexão ssh](https://dev.to/renan_marquetti_9d8acb2b1/como-fazer-copy-paste-com-nvim-em-conexao-ssh-2aki)
+- [How AI is Changing Procurement &lpar;And Why It&#39;s More Interesting Than You Think&rpar;](https://dev.to/accioprocurement/how-ai-is-changing-procurement-and-why-its-more-interesting-than-you-think-24d2)
+- [Using whereRelation to Query Relationships in Laravel](https://dev.to/ibrahimalanshor/using-whererelation-to-query-relationships-in-laravel-2640)
+- [Best AI for Coding and AI Coding Assistants by Category &lpar;2025&rpar;](https://dev.to/pantoai/best-ai-for-coding-and-ai-coding-assistants-by-category-2025-oaf)
+- [Terraform Fundamentals: Control Tower](https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j)
+- [EduVerse](https://dev.to/imdeveloperjay/eduverse-3f87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
