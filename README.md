@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Output Uniqueness in Large Language Models via Model Rotation, Temperature Tuning, and Embedding-Based Validation](https://dev.to/sushanth_tiruvaipati_9c06/enhancing-output-uniqueness-in-large-language-models-via-model-rotation-temperature-tuning-and-576)
-- [One Brain? Not Enough. How MultiMemory Makes AI Agents Smarter in MultiMindSDK!](https://dev.to/nikhil_multimind/one-brain-not-enough-how-multimemory-makes-ai-agents-smarter-in-multimindsdk-1l90)
-- [🚀 Calling All PHP Developers &amp; Open-Source Enthusiasts! 🚀](https://dev.to/yorchperaza/calling-all-php-developers-open-source-enthusiasts-2c48)
-- [Multi-Modal Content Processing with Strands Agent and just a few lines of code](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-just-a-few-lines-of-code-4hn4)
-- [🚀 Unlocking G Suite SSO in Your Chrome Extension: The Definitive Manifest V3 Guide](https://dev.to/jaymalli_programmer/unlocking-g-suite-sso-in-your-chrome-extension-the-definitive-manifest-v3-guide-2ghi)
+- [&quot;Kiro&quot; Why This Name Perfectly Captures the AI Development Crossroads](https://dev.to/kirodotdev/the-kiro-meaning-why-this-name-perfectly-captures-the-ai-development-crossroads-4i5o)
+- [Protect your instances from attackers! Install Portsentry](https://dev.to/aws-builders/protect-your-instances-from-attackers-install-portsentry-2le4)
+- [Building RoamSense: AI-powered accommodation review analysis for Romania](https://dev.to/yowise/building-roamsense-ai-powered-accommodation-review-analysis-for-romania-3n6e)
+- [New Choice for Cross-Platform Web Service Development&lpar;3432&rpar;](https://dev.to/member_466da0bd/new-choice-for-cross-platform-web-service-development3432-97l)
+- [🛠️ Build Your First Chrome Extension &lpar;with a React Bonus&rpar;](https://dev.to/jaymalli_programmer/build-your-first-chrome-extension-with-a-react-bonus-2af9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
