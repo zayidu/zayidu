@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use ~ChatGPT Without Degrading](https://dev.to/framemuse/how-to-use-chatgpt-without-degrading-2do3)
-- [Day 2: Tailwind CSS Color System — Semantic, Scalable &amp; Simple](https://dev.to/ruqaiya_beguwala/day-2-tailwind-css-color-system-semantic-scalable-simple-19gk)
-- [Creating a Jenkins Pipeline for Python Applications: A Complete Guide](https://dev.to/caffinecoder54/creating-a-jenkins-pipeline-for-python-applications-a-complete-guide-35f6)
-- [The Zoom Fatigue Fix: How Top Remote Devs Run 90% Fewer Meetings](https://dev.to/teamcamp/the-zoom-fatigue-fix-how-top-remote-devs-run-90-fewer-meetings-20l9)
-- [Tired of Copy-Pasting the Same Code Snippets or Messages?](https://dev.to/aftabulsamudro/tired-of-copy-pasting-the-same-code-snippets-or-messages-32bc)
+- [ChatGPT Code Interpreter: The Future of Programming?](https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc)
+- [Top Polywork Alternatives in 2025](https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6)
+- [Kiro vs Copilot: This Could Change the Way You Code Forever](https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa)
+- [Anomaly Detection in Machine Learning: Finding What Doesn’t Belong](https://dev.to/bharathprasad/anomaly-detection-in-machine-learning-finding-what-doesnt-belong-2b08)
+- [Hack The Box Walkthrough: Cap &lpar;10.10.10.245&rpar;](https://dev.to/tamilvanan/hack-the-box-walkthrough-cap-101010245-3hj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
