@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a VPC with Public and Private Subnets, Multi-AZ, IGW, and NAT Gateway on AWS in Seconds](https://dev.to/rebase-ai/how-to-set-up-a-vpc-with-public-and-private-subnets-multi-az-igw-and-nat-gateway-on-aws-in-3h1g)
-- [🚀 Call for Collaborators: Help Bring a 2 and 3-Column Note-Taking App to Market &lpar;Flutter, Equity/Portfolio&rpar;](https://dev.to/phillip_young_467f5aa2cf7/call-for-collaborators-help-bring-a-2-and-3-column-note-taking-app-to-market-flutter-57f3)
-- [Unlocking the Future of AI: A Deep Dive into the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/hardiksankhla/unlocking-the-future-of-ai-a-deep-dive-into-the-model-context-protocol-mcp-1b1o)
-- [Programming Entry Level: project ideas terminal](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-terminal-2nbf)
-- [Yaya](https://dev.to/gabriel_furtado_07c82ac7f/yaya-4bd2)
+- [How to Integrate Google APIs in Your Next.js Project](https://dev.to/julimancan/how-to-integrate-google-apis-in-your-nextjs-project-gi4)
+- [What did I Learn from AWS Community Day Colombia 2025?](https://dev.to/sebastian_cerqueracarvaj/what-did-i-learn-from-aws-community-day-colombia-2025-435d)
+- [Supercharge Your CLI Workflow: Never Lose a Genius AI-Powered Idea Again with ai-cli-log](https://dev.to/alingse/supercharge-your-cli-workflow-never-lose-a-genius-ai-powered-idea-again-with-ai-cli-log-38pj)
+- [Advanced Use of Predicate, Function, Consumer, and Comparator in Java](https://dev.to/wkreuch/advanced-use-of-predicate-function-consumer-and-comparator-in-java-3dim)
+- [[Boost]](https://dev.to/elzaksspro/-1897)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
