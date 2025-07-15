@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hadil/-3jn4)
-- [Building Full-Stack Angular Applications with Analog](https://dev.to/pmbanugo/building-full-stack-angular-applications-with-analog-863)
-- [[AWS] We tried out the popular Kiro features, including applying rule files and implementing from an architecture diagram [KIRO]](https://dev.to/aws-builders/aws-we-tried-out-the-popular-kiro-features-including-applying-rule-files-and-implementing-from-54di)
-- [📢 Boosting Revenue with AI: 3 Smart Web Integration Strategies](https://dev.to/capjud95/boosting-revenue-with-ai-3-smart-web-integration-strategies-51im)
-- [📦 repository_backup: A DevOps-Friendly CLI for Safe, Modular Backups](https://dev.to/raymonepping/repositorybackup-a-devops-friendly-cli-for-safe-modular-backups-121c)
+- [Guia rápido e fácil para novos usuários de XMPP](https://dev.to/isafashiondev/guia-rapido-e-facil-para-novos-usuarios-de-xmpp-2b7o)
+- [📦 Tired of Backups That Don’t… Restore?](https://dev.to/raymonepping/tired-of-backups-that-dont-restore-3f1o)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;6962&rpar;](https://dev.to/member_466da0bd/resource-management-and-memory-efficiency-in-web-servers6962-4kh5)
+- [Top 7 Advantages and Disadvantages of R Programming](https://dev.to/markwayne/top-7-advantages-and-disadvantages-of-r-programming-j91)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;4392&rpar;](https://dev.to/member_02ee4941/latency-optimization-secrets-for-millisecond-response-times4392-10j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
