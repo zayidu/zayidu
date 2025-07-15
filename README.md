@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From JSON to BSON: The Data Format MongoDB Actually Uses](https://dev.to/rijultp/from-json-to-bson-the-data-format-mongodb-actually-uses-5bpe)
-- [JavaScript vs TypeScript: Complete Guide for Developers](https://dev.to/prachiguptaaaaaaaaaa/javascript-vs-typescript-complete-guide-for-developers-2dm9)
-- [Mastering JSX to Write Cleaner React Code](https://dev.to/abdelaziz_moustakim_45a4c/mastering-jsx-to-write-cleaner-react-code-59gc)
-- [Unraveling Code Changes: A Deep Dive into FOSS Diff Tools](https://dev.to/shrsv/unraveling-code-changes-a-deep-dive-into-foss-diff-tools-3jbc)
-- [iOS Interview Prep](https://dev.to/harshpdev/ios-interview-prep-38am)
+- [CORS in Parse Server: Making Cross-Origin Work Without the Headache](https://dev.to/lovestaco/cors-in-parse-server-making-cross-origin-work-without-the-headache-518g)
+- [Stripe-To-Postgres Sync Engine as standalone Library](https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd)
+- [Installing Tailwind CSS v4.0 with Vite 🚀](https://dev.to/tenelabs/installing-tailwind-css-v40-with-vite-24ih)
+- [SwiftUI’s property wrappers](https://dev.to/harshpdev/swiftuis-property-wrappers-2b4c)
+- [S3-Driven DevOps: Event-Driven Deployments Triggered Entirely by Object Storage](https://dev.to/jatin_goel_dac08bb6728f1e/s3-driven-devops-event-driven-deployments-triggered-entirely-by-object-storage-4bb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
