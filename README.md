@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in The Context of Learning](https://dev.to/muhammadazis/ai-in-the-context-of-learning-2jfa)
-- [Newsway.ai News Summary](https://dev.to/corywboris/newswayai-news-summary-11gm)
-- [📧 How to Validate Email Addresses in PHP: A Practical Guide](https://dev.to/lion_reach_01821425fd0125/how-to-validate-email-addresses-in-php-a-practical-guide-1i2f)
-- [Keyword,Return type,Method,Objects,Void&amp;Variables...](https://dev.to/paviarunachalam/keywordreturn-typemethodobjectsvoidvariables-31jn)
-- [Create a Supabase backend using Figma Make](https://dev.to/supabase/create-a-supabase-backend-using-figma-make-334o)
+- [From JSON to BSON: The Data Format MongoDB Actually Uses](https://dev.to/rijultp/from-json-to-bson-the-data-format-mongodb-actually-uses-5bpe)
+- [JavaScript vs TypeScript: Complete Guide for Developers](https://dev.to/prachiguptaaaaaaaaaa/javascript-vs-typescript-complete-guide-for-developers-2dm9)
+- [Mastering JSX to Write Cleaner React Code](https://dev.to/abdelaziz_moustakim_45a4c/mastering-jsx-to-write-cleaner-react-code-59gc)
+- [Unraveling Code Changes: A Deep Dive into FOSS Diff Tools](https://dev.to/shrsv/unraveling-code-changes-a-deep-dive-into-foss-diff-tools-3jbc)
+- [iOS Interview Prep](https://dev.to/harshpdev/ios-interview-prep-38am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
