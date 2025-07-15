@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing UI/UX in LLM Responses with Markdown Formatting Using Markdig and Bootstrap in C#](https://dev.to/auyeungdavid_2847435260/enhancing-uiux-in-llm-responses-with-markdown-formatting-using-markdig-and-bootstrap-in-c-18cc)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;7103&rpar;](https://dev.to/member_466da0bd/design-philosophy-of-zero-dependency-web-framework7103-l8l)
-- [How I Made My Micro-Frontend Load Faster with Just Two Techniques](https://dev.to/werliton/how-i-made-my-micro-frontend-load-faster-with-just-two-techniques-3okb)
-- [How to run Python code with admin privileges.](https://dev.to/avinash_tare_6d6e81721bb6/how-to-run-python-code-with-admin-privileges-2b2a)
-- [The Cost of Cleverness: Why Over-Engineering Hurts Hybrid Teams](https://dev.to/corporateone/the-cost-of-cleverness-why-over-engineering-hurts-hybrid-teams-20ji)
+- [[Boost]](https://dev.to/hadil/-3jn4)
+- [Building Full-Stack Angular Applications with Analog](https://dev.to/pmbanugo/building-full-stack-angular-applications-with-analog-863)
+- [[AWS] We tried out the popular Kiro features, including applying rule files and implementing from an architecture diagram [KIRO]](https://dev.to/aws-builders/aws-we-tried-out-the-popular-kiro-features-including-applying-rule-files-and-implementing-from-54di)
+- [📢 Boosting Revenue with AI: 3 Smart Web Integration Strategies](https://dev.to/capjud95/boosting-revenue-with-ai-3-smart-web-integration-strategies-51im)
+- [📦 repository_backup: A DevOps-Friendly CLI for Safe, Modular Backups](https://dev.to/raymonepping/repositorybackup-a-devops-friendly-cli-for-safe-modular-backups-121c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
