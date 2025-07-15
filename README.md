@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EP01: Getting Started with Dockerfile](https://dev.to/mirrorsan/ep01-getting-started-with-dockerfile-2jfj)
-- [Blockchain](https://dev.to/newcoder789/blockchain-16nl)
-- [How to Calculate Total Cost of Ownership &lpar;TCO&rpar;?](https://dev.to/teresa_tran/how-to-calculate-total-cost-of-ownership-tco-d6)
-- [Why I Ditched the &#39;Move Fast and Break Things&#39; Mentality for &#39;Move Fast and Save Users Money&#39;.](https://dev.to/ybeybeybe/why-i-ditched-the-move-fast-and-break-things-mentality-for-move-fast-and-save-users-money-32ic)
-- [PL SQL Tutorial: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/pl-sql-tutorial-a-complete-guide-for-beginners-2iib)
+- [The Importance of AI Ready Data for Effective AI Implementation](https://dev.to/kapusto/the-importance-of-ai-ready-data-for-effective-ai-implementation-24im)
+- [A practical guide to frontend System Design](https://dev.to/fahimulhaq/a-practical-guide-to-frontend-system-design-fnb)
+- [TOP-10 Most Common Resume Mistakes](https://dev.to/remoteteamleadership/top-10-most-common-resume-mistakes-1bkk)
+- [What are the system requirements for NAPS2?](https://dev.to/naps2/what-are-the-system-requirements-for-naps2-38i1)
+- [How to Build a Global Search Engine Using Vector Embeddings](https://dev.to/francis_chidoziem/how-to-build-a-global-search-engine-using-vector-embeddings-1cbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
