@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Google APIs in Your Next.js Project](https://dev.to/julimancan/how-to-integrate-google-apis-in-your-nextjs-project-gi4)
-- [What did I Learn from AWS Community Day Colombia 2025?](https://dev.to/sebastian_cerqueracarvaj/what-did-i-learn-from-aws-community-day-colombia-2025-435d)
-- [Supercharge Your CLI Workflow: Never Lose a Genius AI-Powered Idea Again with ai-cli-log](https://dev.to/alingse/supercharge-your-cli-workflow-never-lose-a-genius-ai-powered-idea-again-with-ai-cli-log-38pj)
-- [Advanced Use of Predicate, Function, Consumer, and Comparator in Java](https://dev.to/wkreuch/advanced-use-of-predicate-function-consumer-and-comparator-in-java-3dim)
-- [[Boost]](https://dev.to/elzaksspro/-1897)
+- [We Tested 6 Free WAFs. Here&#39;s How They Actually Perform.](https://dev.to/sharon_42e16b8da44dabde6d/we-tested-6-free-wafs-heres-how-they-actually-perform-14fd)
+- [GCP Fundamentals: Drive Activity API](https://dev.to/devopsfundamentals/gcp-fundamentals-drive-activity-api-5a2p)
+- [Why You Should Already Be Using an AI Agent in 2025](https://dev.to/ramasundaram_s/why-you-should-already-be-using-an-ai-agent-in-2025-4ipl)
+- [PDF Compression Guide - 7/15/2025](https://dev.to/revisepdf/pdf-compression-guide-7152025-50fl)
+- [Como fazer copy paste com nvim em conexão ssh](https://dev.to/renan_marquetti_9d8acb2b1/como-fazer-copy-paste-com-nvim-em-conexao-ssh-2aki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
