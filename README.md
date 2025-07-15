@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Enterprise Risk Management Must Include Secure Translation](https://dev.to/liamcorwin/why-enterprise-risk-management-must-include-secure-translation-17p5)
-- [5 Tips for Automating Blog Posts with Django – 12:44](https://dev.to/yagyaraj_sharma_6cd410179/5-tips-for-automating-blog-posts-with-django-1244-1bmb)
-- [5 Laravel Best Practices That Reduced My Bugs by 30%](https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn)
-- [ChatGPT Code Interpreter: The Future of Programming?](https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc)
-- [Top Polywork Alternatives in 2025](https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6)
+- [🐪 Perl: The Timeless Scripting Camel Still Marches On](https://dev.to/hmzas/perl-the-timeless-scripting-camel-still-marches-on-7pn)
+- [🧠 Part 10 — Why You Should Learn Ruby on Rails in 2025](https://dev.to/hmzas/part-10-why-you-should-learn-ruby-on-rails-in-2025-53l8)
+- [🚀 Part 9 — Deployment: Taking Your Rails App Live](https://dev.to/hmzas/part-9-deployment-taking-your-rails-app-live-1b2c)
+- [🧪 Part 8 — Testing in Rails: Built-in and Battle-Tested](https://dev.to/hmzas/part-8-testing-in-rails-built-in-and-battle-tested-33m7)
+- [🔐 Part 7 — Authentication &amp; Authorization in Rails](https://dev.to/hmzas/part-7-authentication-authorization-in-rails-5hm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
