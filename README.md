@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Playwright MCP Server in VS Code](https://dev.to/debs_obrien/install-playwright-mcp-server-in-vs-code-4o91)
-- [What Is a Trie? The Data Structure Behind Autocomplete](https://dev.to/onedev/what-is-a-trie-the-data-structure-behind-autocomplete-i99)
-- [How to Build Your Own AI Mascot in Golang.](https://dev.to/sfundomhlungu/how-to-build-your-own-ai-mascot-in-golang-38m0)
-- [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
-- [Modern Server-Side Event Implementation&lpar;7573&rpar;](https://dev.to/member_466da0bd/modern-server-side-event-implementation7573-25jk)
+- [Enhancing UI/UX in LLM Responses with Markdown Formatting Using Markdig and Bootstrap in C#](https://dev.to/auyeungdavid_2847435260/enhancing-uiux-in-llm-responses-with-markdown-formatting-using-markdig-and-bootstrap-in-c-18cc)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;7103&rpar;](https://dev.to/member_466da0bd/design-philosophy-of-zero-dependency-web-framework7103-l8l)
+- [How I Made My Micro-Frontend Load Faster with Just Two Techniques](https://dev.to/werliton/how-i-made-my-micro-frontend-load-faster-with-just-two-techniques-3okb)
+- [How to run Python code with admin privileges.](https://dev.to/avinash_tare_6d6e81721bb6/how-to-run-python-code-with-admin-privileges-2b2a)
+- [The Cost of Cleverness: Why Over-Engineering Hurts Hybrid Teams](https://dev.to/corporateone/the-cost-of-cleverness-why-over-engineering-hurts-hybrid-teams-20ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
