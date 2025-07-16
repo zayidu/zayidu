@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Larger Runners in GitHub Actions for Faster Workflows](https://dev.to/shayy/how-to-use-larger-runners-in-github-actions-for-faster-workflows-1df0)
-- [📁 Mastering File Operations in Uniface: A Complete Guide to fileload](https://dev.to/petercode/mastering-file-operations-in-uniface-a-complete-guide-to-fileload-1078)
-- [When You&#39;re The Entire Development Team 🤝](https://dev.to/shiva_shanker_k/when-youre-the-entire-development-team-4p70)
-- [📁 Mastering File Operations in Uniface: The filecopy Statement Deep Dive 🚀](https://dev.to/petercode/mastering-file-operations-in-uniface-the-filecopy-statement-deep-dive-25ed)
-- [Build a Chat app as a Google Workspace add-on with Apps Script](https://dev.to/googleworkspace/build-a-chat-app-as-a-google-workspace-add-on-with-apps-script-41la)
+- [🛒 Real-Life Data Lakehouse Use Case: Revolutionizing Retail Analytics](https://dev.to/qvfagundes/real-life-data-lakehouse-use-case-revolutionizing-retail-analytics-28bl)
+- [Dein größter Blocker ist nicht der Bug, sondern der Perfektionismus](https://dev.to/ivo_sa/dein-grosster-blocker-ist-nicht-der-bug-sondern-der-perfektionismus-3b2e)
+- [DevOps Roadmap](https://dev.to/harshintech/devops-roadmap-5139)
+- [My Honest Take of Kiro, AI IDE from AWS](https://dev.to/aws-builders/my-honest-take-of-kiro-ai-ide-from-aws-487f)
+- [QGIS DevTools plugin for easier plugin development](https://dev.to/karavanjo/qgis-devtools-plugin-for-easier-plugin-development-2ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
