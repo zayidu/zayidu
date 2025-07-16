@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 De‑constructing Cognition and Why LLMs Can’t Replicate It](https://dev.to/marcosomma/de-constructing-cognition-and-why-llms-cant-replicate-it-2e7a)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;6454&rpar;](https://dev.to/member_02ee4941/memory-safety-meets-extreme-performance-in-web-servers6454-17b3)
-- [A Raspberry Pi 5 Assistant using Gemini 2.5 Flash!](https://dev.to/kiamehr_eskandari/a-raspberry-pi-5-assistant-using-gemini-25-flash-dm0)
-- [How Rust Programming Is Shaping the Future of AI and ML](https://dev.to/shah_bhoomi_fc7f7c4305283/how-rust-programming-is-shaping-the-future-of-ai-and-ml-c6b)
-- [A2A Protocol Specification &lpar;Python&rpar;](https://dev.to/czmilo/a2a-protocol-specification-python-3i2f)
+- [GoLang 101: Getting Started with Go](https://dev.to/kazemmdev/golang-101-getting-started-with-go-383l)
+- [Efficient WebSocket Server-Side Processing&lpar;4084&rpar;](https://dev.to/member_02ee4941/efficient-websocket-server-side-processing4084-1hg3)
+- [17 Translation Solution Security Features to Look for](https://dev.to/elenahartmann/17-translation-solution-security-features-to-look-for-4470)
+- [🧠OrKa-ui show what is the benefit of having TTL at memory level in orka-reasoning](https://dev.to/marcosomma/orka-ui-show-what-is-the-benefit-of-having-ttl-at-memory-level-in-orka-reasoning-2hj8)
+- [Why Most AI Tools Waste Your Time &lpar;and How We Made Ours Work&rpar;](https://dev.to/wehadit/why-most-ai-tools-waste-your-time-and-how-we-made-ours-work-3bc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
