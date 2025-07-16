@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shouldn&#39;t mainly add . in the end of ALT tags](https://dev.to/devy/shouldnt-mainly-add-in-the-end-of-alt-tags-k88)
-- [Announcing Bixat Key Mouse: A Cross-Platform Dart Package for Keyboard and Mouse Simulation 🎉](https://dev.to/m97chahboun/announcing-bixat-key-mouse-a-cross-platform-dart-package-for-keyboard-and-mouse-simulation-2l1h)
-- [Provide shared file storage for the company offices](https://dev.to/adeyemo/provide-shared-file-storage-for-the-company-offices-opo)
-- [Provide shared file storage for the company offices](https://dev.to/adeyemo/provide-shared-file-storage-for-the-company-offices-3cjb)
-- [Procesamiento de Contenido Multimodal con Strands Agent y solo unas pocas líneas de código](https://dev.to/aws-espanol/procesamiento-de-contenido-multimodal-con-strands-agent-y-solo-unas-pocas-lineas-de-codigo-4mkk)
+- [Indie Game Dev Looking for Team Members](https://dev.to/tolongames/indie-game-dev-looking-for-team-members-20ko)
+- [Applicazione semplice ed immediata Project List](https://dev.to/montanasoftware2025/applicazione-semplice-ed-immediataproject-list-42e3)
+- [El Examen Final de la Humanidad &lpar;HLE&rpar;](https://dev.to/michelnovellino/el-examen-final-de-la-humanidad-hle-55ki)
+- [Frontend Challenge Solution: Office Edition – CoreSync Intranet Dashboard &lpar;HTML, CSS &amp; JS&rpar;](https://dev.to/graceo7/frontend-challenge-solution-office-edition-coresync-intranet-dashboard-html-css-js-4cjd)
+- [Why We&#39;re Betting on a Monorepo for NextBlock CMS](https://dev.to/nextblockcms/why-were-betting-on-a-monorepo-for-nextblock-cms-l6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
