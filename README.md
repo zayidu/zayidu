@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP Optimization Techniques for Web Server Performance&lpar;5027&rpar;](https://dev.to/member_466da0bd/tcp-optimization-techniques-for-web-server-performance5027-3h10)
-- [Graceful Goroutine Shutdowns in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/graceful-goroutine-shutdowns-in-go-a-practical-guide-2b9a)
-- [New Choice for Cross-Platform Web Service Development&lpar;5686&rpar;](https://dev.to/member_02ee4941/new-choice-for-cross-platform-web-service-development5686-4poj)
-- [How I’m Building a Permanent Blockchain Archive - Part 1](https://dev.to/lucascosta1996/how-im-building-a-permanent-blockchain-archive-1m3i)
-- [How to Make Your Django Website Load Faster in Production &lpar;The Smart Way&rpar;](https://dev.to/devmanjoe/how-to-make-your-django-website-load-faster-in-production-the-smart-way-387g)
+- [Microservices Architecture with Lightweight Framework Design&lpar;4238&rpar;](https://dev.to/member_02ee4941/microservices-architecture-with-lightweight-framework-design4238-5blf)
+- [How SafeLine WAF Fights Bots with Smart Rate Limiting](https://dev.to/sharon_42e16b8da44dabde6d/how-safeline-waf-fights-bots-with-smart-rate-limiting-mm9)
+- [What are the time complexity and applicability differences between binary and ternary search in Java?](https://dev.to/adityabhuyan/what-are-the-time-complexity-and-applicability-differences-between-binary-and-ternary-search-in-40a8)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;4531&rpar;](https://dev.to/member_02ee4941/design-philosophy-of-zero-dependency-web-framework4531-3i51)
+- [This Is What Treadmill Will Look In 10 Years&#39; Time](https://dev.to/dreammexico4/this-is-what-treadmill-will-look-in-10-years-time-2obd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
