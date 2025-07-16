@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mad Science of Image Optimization: My Journey into the Research Frontier](https://dev.to/urbandropzone_75222161405/the-mad-science-of-image-optimization-my-journey-into-the-research-frontier-22gk)
+- [Building a Smart Session Tracker for Your Mac&#39;s Menu Bar](https://dev.to/ravgeetdhillon/building-a-smart-session-tracker-for-your-macs-menu-bar-41km)
+- [Python Programming Fundamentals: A Complete Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/fonyuygita/python-programming-fundamentals-a-complete-beginners-guide-part-2-1k1j)
 - [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
 - [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
-- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
-- [Solving the Enter Key Frustration in AI Chat: &quot;Chat-Key-Changer&quot; Chrome Extension](https://dev.to/deer-hunt/solving-the-enter-key-frustration-in-ai-chat-chat-key-changer-chrome-extension-1o2o)
-- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-599l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
