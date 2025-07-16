@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring Remote Employees That Fit Your Culture: A Practical Playbook](https://dev.to/teamcamp/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-192o)
-- [Why Structured Data Is the Hidden Backbone of AI Search](https://dev.to/alifar/why-structured-data-is-the-hidden-backbone-of-ai-search-2l42)
-- [The Hidden Economics of Image Optimization: Why Your CDN Bill is Just the Beginning](https://dev.to/hardik_b2d8f0bca/the-hidden-economics-of-image-optimization-why-your-cdn-bill-is-just-the-beginning-4bl8)
-- [How to setup the Supabase authentication with Tanstack Router in Vite React.](https://dev.to/your-ehsan/how-to-setup-the-supabase-authentication-with-tanstack-router-in-vite-react-1bhf)
-- [🚀I’m excited to share the latest improvements in DevConnect!](https://dev.to/code__mancer/im-excited-to-share-the-latest-improvements-in-devconnect-358d)
+- [New Blocks Dropped: Stacked Lists](https://dev.to/ngmaterialdev/new-blocks-dropped-stacked-lists-4277)
+- [How to scrape YouTube using Python [2025 guide]](https://dev.to/crawlee/how-to-scrape-youtube-using-python-2025-guide-255o)
+- [How to Use IP API to Convert IP Address to Location](https://dev.to/rameshchauhan/how-to-use-ip-api-to-convert-ip-address-to-location-5af1)
+- [No algorithm has ever found claws better than this one.](https://dev.to/frank_vega_987689489099bf/no-algorithm-has-ever-found-claws-better-than-this-one-39f)
+- [SwiftUI List Complete Guide: Move, Delete, Pin &amp; Custom Actions &lpar;2025 Edition&rpar;](https://dev.to/swift_pal/swiftui-list-complete-guide-move-delete-pin-custom-actions-2025-edition-429o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
