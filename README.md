@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Blocks Dropped: Stacked Lists](https://dev.to/ngmaterialdev/new-blocks-dropped-stacked-lists-4277)
-- [How to scrape YouTube using Python [2025 guide]](https://dev.to/crawlee/how-to-scrape-youtube-using-python-2025-guide-255o)
-- [How to Use IP API to Convert IP Address to Location](https://dev.to/rameshchauhan/how-to-use-ip-api-to-convert-ip-address-to-location-5af1)
-- [No algorithm has ever found claws better than this one.](https://dev.to/frank_vega_987689489099bf/no-algorithm-has-ever-found-claws-better-than-this-one-39f)
-- [SwiftUI List Complete Guide: Move, Delete, Pin &amp; Custom Actions &lpar;2025 Edition&rpar;](https://dev.to/swift_pal/swiftui-list-complete-guide-move-delete-pin-custom-actions-2025-edition-429o)
+- [Unveiling AWS S3 Vector: Revolutionizing AI Data Storage and Retrieval for Developers](https://dev.to/satyam_chourasiya_99ea2e4/unveiling-aws-s3-vector-revolutionizing-ai-data-storage-and-retrieval-for-developers-1idg)
+- [AI Agent Builders Explained: From Zero-Code to Autonomous Workflows](https://dev.to/joinwithken/ai-agent-builders-explained-from-zero-code-to-autonomous-workflows-180)
+- [🎯 Build a Quiz App using HTML, CSS &amp; JavaScript – Step-by-Step for Beginners!](https://dev.to/saimanees/build-a-quiz-app-using-html-css-javascript-step-by-step-for-beginners-2dh2)
+- [How I Used ChatGPT to Send Emails with Mailgun in 3 Minutes](https://dev.to/emailguru/how-i-used-chatgpt-to-send-emails-with-mailgun-in-3-minutes-1711)
+- [🇩🇪 *Einbürgerungstest* / Naturalization Test — Made Easy](https://dev.to/alialp/einburgerungstest-naturalization-test-made-easy-436c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
