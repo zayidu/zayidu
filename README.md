@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9415&rpar;](https://dev.to/member_466da0bd/bidirectional-communication-patterns-in-modern-web-apps9415-41fe)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;9190&rpar;](https://dev.to/member_466da0bd/server-side-events-implementation-for-real-time-applications9190-237i)
-- [🦊 Lynx Keymap: Boost Your Productivity in VSCode... with Custom Shortcuts — &lpar; AI &rpar;](https://dev.to/bastndev/lynx-keymap-boost-your-productivity-in-vscode-with-custom-shortcuts-ai--3dj)
-- [Application of Async Programming in Web Development&lpar;7115&rpar;](https://dev.to/member_02ee4941/application-of-async-programming-in-web-development7115-ekm)
-- [From 30+ API Parameters to Natural Language: ZapCap MCP Server](https://dev.to/bogdan01m/from-30-api-parameters-to-natural-language-zapcap-mcp-server-3pf1)
+- [TCP Optimization Techniques for Web Server Performance&lpar;5027&rpar;](https://dev.to/member_466da0bd/tcp-optimization-techniques-for-web-server-performance5027-3h10)
+- [Graceful Goroutine Shutdowns in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/graceful-goroutine-shutdowns-in-go-a-practical-guide-2b9a)
+- [New Choice for Cross-Platform Web Service Development&lpar;5686&rpar;](https://dev.to/member_02ee4941/new-choice-for-cross-platform-web-service-development5686-4poj)
+- [How I’m Building a Permanent Blockchain Archive - Part 1](https://dev.to/lucascosta1996/how-im-building-a-permanent-blockchain-archive-1m3i)
+- [How to Make Your Django Website Load Faster in Production &lpar;The Smart Way&rpar;](https://dev.to/devmanjoe/how-to-make-your-django-website-load-faster-in-production-the-smart-way-387g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
