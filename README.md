@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React &amp; TypeScript: 10 patterns for writing better code](https://dev.to/logrocket/react-typescript-10-patterns-for-writing-better-code-224l)
-- [Treasure Hunt in the Classroom: How Aptitude Became an Adventure](https://dev.to/megha_m/treasure-hunt-in-the-classroom-how-aptitude-became-an-adventure-53e0)
-- [Solvaldr: The Sun Tyrant – Devlog &amp; Concept Showcase](https://dev.to/hejhdiss/solvaldr-the-sun-tyrant-devlog-concept-showcase-1860)
-- [Best practice for building an e-commerce system with React Native, Django Admin, and FastAPI](https://dev.to/axioray/best-practice-for-building-an-e-commerce-system-with-react-native-django-admin-and-fastapi-3l2g)
-- [Click to See How I Made PWAs in Next.js Stupidly Simple](https://dev.to/devfamdk/click-to-see-how-i-made-pwas-in-nextjs-stupidly-simple-5hji)
+- [‘Daredevil: Born Again&#39; Season 2 Wraps Filming](https://dev.to/popcorn_tv/daredevil-born-again-season-2-wraps-filming-4hg8)
+- [‘Harry Potter&#39;: Nick Frost Transforms Into Hagrid in New Look at HBO Series](https://dev.to/popcorn_tv/harry-potter-nick-frost-transforms-into-hagrid-in-new-look-at-hbo-series-4d69)
+- [Noah Wyle Scores First Emmy Nomination in 26 Years](https://dev.to/popcorn_tv/noah-wyle-scores-first-emmy-nomination-in-26-years-b2e)
+- [Nielsen: Disney&#39;s ‘Bluey&#39; Topped All Household TV Streaming in First Half of 2025 With 25 Billion Minutes](https://dev.to/popcorn_tv/nielsen-disneys-bluey-topped-all-household-tv-streaming-in-first-half-of-2025-with-25-billion-3llh)
+- [7 Habits That Quietly Made Me a 10x Developer &lpar;No, Not ChatGPT&rpar;](https://dev.to/abubakersiddique771/7-habits-that-quietly-made-me-a-10x-developer-no-not-chatgpt-13c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
