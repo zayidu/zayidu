@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Daredevil: Born Again&#39; Season 2 Wraps Filming](https://dev.to/popcorn_tv/daredevil-born-again-season-2-wraps-filming-4hg8)
-- [‘Harry Potter&#39;: Nick Frost Transforms Into Hagrid in New Look at HBO Series](https://dev.to/popcorn_tv/harry-potter-nick-frost-transforms-into-hagrid-in-new-look-at-hbo-series-4d69)
-- [Noah Wyle Scores First Emmy Nomination in 26 Years](https://dev.to/popcorn_tv/noah-wyle-scores-first-emmy-nomination-in-26-years-b2e)
-- [Nielsen: Disney&#39;s ‘Bluey&#39; Topped All Household TV Streaming in First Half of 2025 With 25 Billion Minutes](https://dev.to/popcorn_tv/nielsen-disneys-bluey-topped-all-household-tv-streaming-in-first-half-of-2025-with-25-billion-3llh)
-- [7 Habits That Quietly Made Me a 10x Developer &lpar;No, Not ChatGPT&rpar;](https://dev.to/abubakersiddique771/7-habits-that-quietly-made-me-a-10x-developer-no-not-chatgpt-13c4)
+- [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
+- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
+- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
+- [Solving the Enter Key Frustration in AI Chat: &quot;Chat-Key-Changer&quot; Chrome Extension](https://dev.to/deer-hunt/solving-the-enter-key-frustration-in-ai-chat-chat-key-changer-chrome-extension-1o2o)
+- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-599l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
