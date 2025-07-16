@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Building a Freelance Platform from Scratch](https://dev.to/rmohitjoe/my-experience-building-a-freelance-platform-from-scratch-4214)
-- [I Created a Website That Helps You Easily Generate ChatGPT Prompts for Blender Python API Code](https://dev.to/uni928/i-created-a-website-that-helps-you-easily-generate-chatgpt-prompts-for-blender-python-api-code-1f3h)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5085&rpar;](https://dev.to/member_466da0bd/memory-safety-meets-extreme-performance-in-web-servers5085-27kn)
-- [Untitled](https://dev.to/renaldi_saliko_65ec94b39d/untitled-10eo)
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;8320&rpar;](https://dev.to/member_02ee4941/bidirectional-communication-patterns-in-modern-web-apps8320-3mpa)
+- [🔥 De‑constructing Cognition and Why LLMs Can’t Replicate It](https://dev.to/marcosomma/de-constructing-cognition-and-why-llms-cant-replicate-it-2e7a)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;6454&rpar;](https://dev.to/member_02ee4941/memory-safety-meets-extreme-performance-in-web-servers6454-17b3)
+- [A Raspberry Pi 5 Assistant using Gemini 2.5 Flash!](https://dev.to/kiamehr_eskandari/a-raspberry-pi-5-assistant-using-gemini-25-flash-dm0)
+- [How Rust Programming Is Shaping the Future of AI and ML](https://dev.to/shah_bhoomi_fc7f7c4305283/how-rust-programming-is-shaping-the-future-of-ai-and-ml-c6b)
+- [A2A Protocol Specification &lpar;Python&rpar;](https://dev.to/czmilo/a2a-protocol-specification-python-3i2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
