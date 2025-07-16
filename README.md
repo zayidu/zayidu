@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛒 Real-Life Data Lakehouse Use Case: Revolutionizing Retail Analytics](https://dev.to/qvfagundes/real-life-data-lakehouse-use-case-revolutionizing-retail-analytics-28bl)
-- [Dein größter Blocker ist nicht der Bug, sondern der Perfektionismus](https://dev.to/ivo_sa/dein-grosster-blocker-ist-nicht-der-bug-sondern-der-perfektionismus-3b2e)
-- [DevOps Roadmap](https://dev.to/harshintech/devops-roadmap-5139)
-- [My Honest Take of Kiro, AI IDE from AWS](https://dev.to/aws-builders/my-honest-take-of-kiro-ai-ide-from-aws-487f)
-- [QGIS DevTools plugin for easier plugin development](https://dev.to/karavanjo/qgis-devtools-plugin-for-easier-plugin-development-2ib)
+- [From Zero to NPM: Building the React Component of My Dreams](https://dev.to/alishirani/from-zero-to-npm-building-the-react-component-of-my-dreams-59ma)
+- [Understanding SOLID once and for all | Part 02 - &lpar;OCP&rpar;](https://dev.to/rafahs/understanding-solid-once-and-for-all-part-02-ocp-1llc)
+- [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
+- [Log Viewer for Streamer.bot](https://dev.to/mmcleod/log-viewer-for-streamerbot-7n0)
+- [Criando um compilador em csharp: Parte 5](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-5-2hoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
