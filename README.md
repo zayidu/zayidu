@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Architecture with Lightweight Framework Design&lpar;4238&rpar;](https://dev.to/member_02ee4941/microservices-architecture-with-lightweight-framework-design4238-5blf)
-- [How SafeLine WAF Fights Bots with Smart Rate Limiting](https://dev.to/sharon_42e16b8da44dabde6d/how-safeline-waf-fights-bots-with-smart-rate-limiting-mm9)
-- [What are the time complexity and applicability differences between binary and ternary search in Java?](https://dev.to/adityabhuyan/what-are-the-time-complexity-and-applicability-differences-between-binary-and-ternary-search-in-40a8)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;4531&rpar;](https://dev.to/member_02ee4941/design-philosophy-of-zero-dependency-web-framework4531-3i51)
-- [This Is What Treadmill Will Look In 10 Years&#39; Time](https://dev.to/dreammexico4/this-is-what-treadmill-will-look-in-10-years-time-2obd)
+- [My Experience Building a Freelance Platform from Scratch](https://dev.to/rmohitjoe/my-experience-building-a-freelance-platform-from-scratch-4214)
+- [I Created a Website That Helps You Easily Generate ChatGPT Prompts for Blender Python API Code](https://dev.to/uni928/i-created-a-website-that-helps-you-easily-generate-chatgpt-prompts-for-blender-python-api-code-1f3h)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5085&rpar;](https://dev.to/member_466da0bd/memory-safety-meets-extreme-performance-in-web-servers5085-27kn)
+- [Untitled](https://dev.to/renaldi_saliko_65ec94b39d/untitled-10eo)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;8320&rpar;](https://dev.to/member_02ee4941/bidirectional-communication-patterns-in-modern-web-apps8320-3mpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
