@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN Stack Developer Roadmap 2025 ✨](https://dev.to/knareshkumar1910/mern-stack-developer-roadmap-2025-1mp5)
-- [Cross-Platform Web Development Without Compromise&lpar;4406&rpar;](https://dev.to/member_02ee4941/cross-platform-web-development-without-compromise4406-1b6j)
-- [Is Traditional Backend Development Still a Viable Career Path in 2025?](https://dev.to/shreebhandare/is-traditional-backend-development-still-a-viable-career-path-in-2025-70j)
-- [How to Improve Intuition: Effective Strategies to Trust Your Gut](https://dev.to/lifepurposeapp/how-to-improve-intuition-effective-strategies-to-trust-your-gut-3hhk)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;6223&rpar;](https://dev.to/member_02ee4941/zero-dependency-architecture-for-maximum-performance6223-2ppo)
+- [Mastering Type Assertion in TypeScript: Unleashing the Power of Type Safety](https://dev.to/vjnvisakh/mastering-type-assertion-in-typescript-unleashing-the-power-of-type-safety-364h)
+- [Redis Caching in NestJS](https://dev.to/mukesh_rajbanshi/implementing-redis-caching-in-nestjs-using-docker-and-keyvredis-1gmn)
+- [Thanks for the support. I will edit this with more details https://dev.to/sid_rdj_bc998504b31f86326/why-your-azure-sql-dtu-database-might-be-charging-you-for-more-than-24-hours-a-day-5ddg](https://dev.to/sid_rdj_bc998504b31f86326/thanks-for-the-support-i-will-edit-this-with-more-details-268p)
+- [I vibe coded an online visitors counter for my blog](https://dev.to/this-is-learning/i-vibe-coded-an-online-visitors-counter-for-my-blog-i31)
+- [Why Your Business Website Needs More Than Just a Pretty Design](https://dev.to/thinktoshare_94/why-your-business-website-needs-more-than-just-a-pretty-design-384i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
