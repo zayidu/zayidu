@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling AWS S3 Vector: Revolutionizing AI Data Storage and Retrieval for Developers](https://dev.to/satyam_chourasiya_99ea2e4/unveiling-aws-s3-vector-revolutionizing-ai-data-storage-and-retrieval-for-developers-1idg)
-- [AI Agent Builders Explained: From Zero-Code to Autonomous Workflows](https://dev.to/joinwithken/ai-agent-builders-explained-from-zero-code-to-autonomous-workflows-180)
-- [🎯 Build a Quiz App using HTML, CSS &amp; JavaScript – Step-by-Step for Beginners!](https://dev.to/saimanees/build-a-quiz-app-using-html-css-javascript-step-by-step-for-beginners-2dh2)
-- [How I Used ChatGPT to Send Emails with Mailgun in 3 Minutes](https://dev.to/emailguru/how-i-used-chatgpt-to-send-emails-with-mailgun-in-3-minutes-1711)
-- [🇩🇪 *Einbürgerungstest* / Naturalization Test — Made Easy](https://dev.to/alialp/einburgerungstest-naturalization-test-made-easy-436c)
+- [React &amp; TypeScript: 10 patterns for writing better code](https://dev.to/logrocket/react-typescript-10-patterns-for-writing-better-code-224l)
+- [Treasure Hunt in the Classroom: How Aptitude Became an Adventure](https://dev.to/megha_m/treasure-hunt-in-the-classroom-how-aptitude-became-an-adventure-53e0)
+- [Solvaldr: The Sun Tyrant – Devlog &amp; Concept Showcase](https://dev.to/hejhdiss/solvaldr-the-sun-tyrant-devlog-concept-showcase-1860)
+- [Best practice for building an e-commerce system with React Native, Django Admin, and FastAPI](https://dev.to/axioray/best-practice-for-building-an-e-commerce-system-with-react-native-django-admin-and-fastapi-3l2g)
+- [Click to See How I Made PWAs in Next.js Stupidly Simple](https://dev.to/devfamdk/click-to-see-how-i-made-pwas-in-nextjs-stupidly-simple-5hji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
