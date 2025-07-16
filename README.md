@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GoLang 101: Getting Started with Go](https://dev.to/kazemmdev/golang-101-getting-started-with-go-383l)
-- [Efficient WebSocket Server-Side Processing&lpar;4084&rpar;](https://dev.to/member_02ee4941/efficient-websocket-server-side-processing4084-1hg3)
-- [17 Translation Solution Security Features to Look for](https://dev.to/elenahartmann/17-translation-solution-security-features-to-look-for-4470)
-- [🧠OrKa-ui show what is the benefit of having TTL at memory level in orka-reasoning](https://dev.to/marcosomma/orka-ui-show-what-is-the-benefit-of-having-ttl-at-memory-level-in-orka-reasoning-2hj8)
-- [Why Most AI Tools Waste Your Time &lpar;and How We Made Ours Work&rpar;](https://dev.to/wehadit/why-most-ai-tools-waste-your-time-and-how-we-made-ours-work-3bc8)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;1183&rpar;](https://dev.to/member_02ee4941/resource-management-and-memory-efficiency-in-web-servers1183-5bl2)
+- [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
+- [NestJS Multi-tenancy API Key Authorization](https://dev.to/u11d/nestjs-multi-tenancy-api-key-authorization-4p7j)
+- [Step-by-Step Guide to Resolving SafeLine WAF License Errors](https://dev.to/sharon_42e16b8da44dabde6d/step-by-step-guide-to-resolving-safeline-waf-license-errors-21k9)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;0260&rpar;](https://dev.to/member_466da0bd/memory-safety-meets-extreme-performance-in-web-servers0260-5cgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
