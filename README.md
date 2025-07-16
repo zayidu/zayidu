@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indie Game Dev Looking for Team Members](https://dev.to/tolongames/indie-game-dev-looking-for-team-members-20ko)
-- [Applicazione semplice ed immediata Project List](https://dev.to/montanasoftware2025/applicazione-semplice-ed-immediataproject-list-42e3)
-- [El Examen Final de la Humanidad &lpar;HLE&rpar;](https://dev.to/michelnovellino/el-examen-final-de-la-humanidad-hle-55ki)
-- [Frontend Challenge Solution: Office Edition – CoreSync Intranet Dashboard &lpar;HTML, CSS &amp; JS&rpar;](https://dev.to/graceo7/frontend-challenge-solution-office-edition-coresync-intranet-dashboard-html-css-js-4cjd)
-- [Why We&#39;re Betting on a Monorepo for NextBlock CMS](https://dev.to/nextblockcms/why-were-betting-on-a-monorepo-for-nextblock-cms-l6c)
+- [📁 Mastering File Operations in Uniface: A Complete Guide to fileload](https://dev.to/petercode/mastering-file-operations-in-uniface-a-complete-guide-to-fileload-1078)
+- [When You&#39;re The Entire Development Team 🤝](https://dev.to/shiva_shanker_k/when-youre-the-entire-development-team-4p70)
+- [📁 Mastering File Operations in Uniface: The filecopy Statement Deep Dive 🚀](https://dev.to/petercode/mastering-file-operations-in-uniface-the-filecopy-statement-deep-dive-25ed)
+- [Build a Chat app as a Google Workspace add-on with Apps Script](https://dev.to/googleworkspace/build-a-chat-app-as-a-google-workspace-add-on-with-apps-script-41la)
+- [How to Create a Linux User with a Non-Interactive Shell](https://dev.to/anusha_kuppili/how-to-create-a-linux-user-with-a-non-interactive-shell-5bpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
