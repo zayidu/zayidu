@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulating Multiple-Layer Loop to Solve Logical Problems](https://dev.to/esproc_spl/simulating-multiple-layer-loop-to-solve-logical-problems-6cd)
-- [Why Your Agent Always Seems a Little Dumb](https://dev.to/maybe_ai/why-your-agent-always-seems-a-little-dumb-3of)
-- [halfvec: Half the Bits, Twice the speed?](https://dev.to/abhishek_gautam-01/halfvec-half-the-bits-twice-the-speed-3506)
-- [Deja de ser un becario](https://dev.to/evesan/deja-de-ser-un-becario-4g7n)
-- [Beyond the Hype: Rediscovering Why Containers Won](https://dev.to/unfor19/beyond-the-hype-rediscovering-why-containers-won-3k4l)
+- [Automate GitHub stats reporting with scheduled pipelines](https://dev.to/ravgeetdhillon/automate-github-stats-reporting-with-scheduled-pipelines-1jo3)
+- [Why Women in Tech isn&#39;t enough](https://dev.to/whitep4nth3r/why-women-in-tech-isnt-enough-2cah)
+- [Kiro or Amazon Q? How Amazon’s AI Strategy is Splitting for Devs and Ops](https://dev.to/alifar/kiro-or-amazon-q-how-amazons-ai-strategy-is-splitting-for-devs-and-ops-3f91)
+- [What are the key elements of a good Mission Statement?](https://dev.to/writegenic/what-are-the-key-elements-of-a-good-mission-statement-1f6d)
+- [Build A README-To-Comic Converter With Google AI Studio And Imagen](https://dev.to/professord/build-a-readme-to-comic-converter-with-google-ai-studio-and-imagen-cg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
