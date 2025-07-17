@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 12 Months Using 1,000+ AI Tools — These Are the Ones I Use the Most](https://dev.to/nitinfab/i-spent-12-months-using-1000-ai-tools-these-are-the-ones-i-use-the-most-ekl)
-- [Rust Implementation for High Concurrency Processing&lpar;4404&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4404-3ljd)
-- [Just Launched My Portfolio &amp; I&#39;d Love Your Feedback! 🙌](https://dev.to/preeti_yadav/just-launched-my-portfolio-id-love-your-feedback-4kcm)
-- [📊 Analyzing Cafe Rewards Offers with Looker Studio](https://dev.to/koinpoin/analyzing-cafe-rewards-offers-with-looker-studio-3982)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;7567&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services7567-1a11)
+- [cookie session threadlocal](https://dev.to/woodyxin/cookie-session-threadlocal-5bnb)
+- [My Journey: Discovering the Relationship Between Kali Linux and Black Arch](https://dev.to/kalyan-dev/my-journey-discovering-the-relationship-between-kali-linux-and-black-arch-4n88)
+- [Rust Series : Borrow Checker Part 5 | as Design Partner - Concurrency, Async, and Mastery](https://dev.to/triggerak/rust-series-borrow-checker-part-5-as-design-partner-concurrency-async-and-mastery-5h8n)
+- [4 Day Work week Experiment how 3 IT companies Boosted Developer output](https://dev.to/rajesh_patel/4-day-work-week-experiment-how-3-it-companies-boosted-developer-output-1jkn)
+- [How to create a storage with access to only those with specific keys and identities](https://dev.to/clinton_mbilitem_17fbf80c/how-to-create-a-storage-with-access-to-only-those-with-specific-keys-and-identities-2a00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
