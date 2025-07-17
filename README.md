@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GORM Magic: Go Database Made Easy ⚡](https://dev.to/tavernetech/gorm-magic-go-database-made-easy-1n98)
-- [Cross-Platform Web Development Without Compromise&lpar;8830&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise8830-2aik)
-- [From MVP to Product: How I Built a SaaS App Without Writing a Line of Code](https://dev.to/kunytskyi/from-mvp-to-product-how-i-built-a-saas-app-without-writing-a-line-of-code-9d3)
-- [Modern Server-Side Event Implementation&lpar;0077&rpar;](https://dev.to/member_aa44a2ae/modern-server-side-event-implementation0077-2mla)
-- [Rust Implementation for High Concurrency Processing&lpar;4770&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4770-3m76)
+- [Apache Iceberg Table Optimization #2: The Basics of Compaction — Bin Packing Your Data for Efficiency](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-2-the-basics-of-compaction-bin-packing-your-data-for-20oh)
+- [Apache Iceberg Table Optimization #1: The Cost of Neglect — How Apache Iceberg Tables Degrade Without Optimization](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-1-the-cost-of-neglect-how-apache-iceberg-tables-degrade-4mmk)
+- [New Choice for Cross-Platform Web Service Development&lpar;5643&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development5643-625)
+- [Rust Async Web Framework Performance Breakthrough&lpar;6768&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough6768-9hc)
+- [Cross-Platform Web Development Without Compromise&lpar;4632&rpar;](https://dev.to/member_214bcde5/cross-platform-web-development-without-compromise4632-2nl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
