@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Data Warehouse Benchmark: What BigQuery, Snowflake, and Others Don’t Tell You](https://dev.to/estuaryflow/2025-data-warehouse-benchmark-what-bigquery-snowflake-and-others-dont-tell-you-392a)
-- [Top 05 Software Companies Near Me in Lausanne – 2025 Edition](https://dev.to/theo_blogs/top-05-software-companies-near-me-in-lausanne-2025-edition-1bc8)
-- [Building a Stock Trading System: High-Frequency Trading Architecture](https://dev.to/sgchris/building-a-stock-trading-system-high-frequency-trading-architecture-e2f)
-- [Microservices Architecture with Lightweight Framework Design&lpar;0731&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design0731-30hc)
-- [Multinational Marketing: How to Improve Translations](https://dev.to/liamcorwin/multinational-marketing-how-to-improve-translations-49p9)
+- [Open Source Chatbot Interface Next.js Example for Scalable Web Projects](https://dev.to/devyani_patel_9061332e4da/open-source-chatbot-interface-nextjs-example-for-scalable-web-projects-p6f)
+- [Loosely coupled configuration for Home Assistant](https://dev.to/nfrankel/loosely-coupled-configuration-for-home-assistant-1noh)
+- [9 Powerful Time Management Techniques for 2025](https://dev.to/fluidwave/9-powerful-time-management-techniques-for-2025-5512)
+- [Elegant Middleware Architecture Implementation&lpar;4113&rpar;](https://dev.to/member_aa44a2ae/elegant-middleware-architecture-implementation4113-22o3)
+- [Advanced PDF Optimization Techniques - 1752741](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752741-5b7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
