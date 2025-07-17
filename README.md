@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-51da)
-- [When Not to Use Machine Learning &lpar;and Why It Matters&rpar;](https://dev.to/dm8ry/when-not-to-use-machine-learning-and-why-it-matters-297e)
-- [Golf With Aimee: What It Takes to Become a Tour Pro! | Match Against LPGA Winner Annie Park](https://dev.to/youtube_golf/golf-with-aimee-what-it-takes-to-become-a-tour-pro-match-against-lpga-winner-annie-park-29n1)
-- [Peter Finch Golf: Taking on THE FORGOTTEN Open Championship course &lpar;incredible!&rpar;](https://dev.to/youtube_golf/peter-finch-golf-taking-on-the-forgotten-open-championship-course-incredible-54h5)
-- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-4bg7)
+- [Starting new Journey as A Backend Learner from &quot;July 18 &quot;](https://dev.to/bigyanlogs/starting-new-journey-as-a-backend-learner-from-july-18--5hm1)
+- [How AI Is Transforming Mental Wellbeing at Work](https://dev.to/coach-nova/how-ai-is-transforming-mental-wellbeing-at-work-3mei)
+- [AI Agents: The New Vanguard of Intelligent Computing](https://dev.to/mattylantz/ai-agents-the-new-vanguard-of-intelligent-computing-4loj)
+- [Unlocking Site Reliability Engineering Tools for DevOps Incident Management](https://dev.to/pauclaver_zsh/unlocking-site-reliability-engineering-tools-for-devops-incident-management-750)
+- [I’m excited to share some 🔥 updates in DevConnect](https://dev.to/code__mancer/im-excited-to-share-some-updates-in-devconnect-5h6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
