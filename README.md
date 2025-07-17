@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Which AI IDE Is Revolutionizing Your Development Workflow in 2025?](https://dev.to/respect17/-which-ai-ide-is-revolutionizing-your-development-workflow-in-2025-1c20)
-- [What It’s Like to Co-Build With AI](https://dev.to/mr_hicksman_3747669cea09a/what-its-like-to-co-build-with-ai-2in3)
-- [Understanding Async Context Managers in Python](https://dev.to/hevalhazalkurt/understanding-async-context-managers-in-python-1928)
-- [Raspberry Pi Cooling: Does Fan Direction Matter? I Put It to the Test](https://dev.to/wlepczynski/raspberry-pi-cooling-does-fan-direction-matter-i-put-it-to-the-test-4ihl)
-- [upper, lower, casefold &amp; swapcase](https://dev.to/hyperkai/upper-lower-casefold-swapcase-5e77)
+- [Built My Portfolio Website;&rpar;](https://dev.to/compteccharan/built-my-portfolio-website-jad)
+- [Install Docker with Ansible on Ubuntu &lpar;Official Repo + Docker Compose&rpar;](https://dev.to/lovestaco/install-docker-with-ansible-on-ubuntu-official-repo-docker-compose-578b)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;0412&rpar;](https://dev.to/member_a26aac70/dynamic-routing-systems-for-scalable-web-applications0412-2547)
+- [Day 37: When Your Body Rebels Against Medical Advice](https://dev.to/casperday11/day-37-when-your-body-rebels-against-medical-advice-4iib)
+- [How YouTube Helped Me Become a Web Developer &lpar;No Paid Courses, No Bootcamps&rpar;](https://dev.to/indravathi_botcha_286347f/how-youtube-helped-me-become-a-web-developer-no-paid-courses-no-bootcamps-266o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
