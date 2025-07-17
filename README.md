@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How we automated GitHub Actions Runner updates with Claude](https://dev.to/depot/how-we-automated-github-actions-runner-updates-with-claude-3eo3)
-- [&quot;Confessions of Copilot: How Not to Lose at Chess Again&quot;](https://dev.to/ljvasquezr/confessions-of-copilot-how-not-to-lose-at-chess-again-5c73)
-- [My AI Pair Programmer is Better Than Yours: A Cursor, Kiro, &amp; Granite Showdown](https://dev.to/mgonzalezo/my-ai-pair-programmer-is-better-than-yours-a-cursor-kiro-granite-showdown-2kdj)
-- [Dealing with AI in the SWE hiring process](https://dev.to/wynteres/dealing-with-ai-in-the-swe-hiring-process-3n8l)
-- [Build a Reliable Hacker News Deep Research AI Agent](https://dev.to/dbos/build-a-reliable-hacker-news-deep-research-ai-agent-365a)
+- [What If Ruby Didn’t Have Syntactic Sugar?](https://dev.to/jessalejo/what-if-ruby-didnt-have-syntactic-sugar-4fm)
+- [IoT AI with Ioto](https://dev.to/embedthis/iot-ai-with-ioto-2jb0)
+- [The Future of IoT AI in 2025 and Beyond](https://dev.to/embedthis/the-future-of-iot-ai-in-2025-and-beyond-4j9)
+- [Rust Async Web Framework Performance Breakthrough&lpar;2461&rpar;](https://dev.to/member_aa44a2ae/rust-async-web-framework-performance-breakthrough2461-29o6)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4712&rpar;](https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers4712-pk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
