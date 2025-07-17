@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to NPM: Building the React Component of My Dreams](https://dev.to/alishirani/from-zero-to-npm-building-the-react-component-of-my-dreams-59ma)
-- [Understanding SOLID once and for all | Part 02 - &lpar;OCP&rpar;](https://dev.to/rafahs/understanding-solid-once-and-for-all-part-02-ocp-1llc)
-- [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
-- [Log Viewer for Streamer.bot](https://dev.to/mmcleod/log-viewer-for-streamerbot-7n0)
-- [Criando um compilador em csharp: Parte 5](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-5-2hoi)
+- [How we automated GitHub Actions Runner updates with Claude](https://dev.to/depot/how-we-automated-github-actions-runner-updates-with-claude-3eo3)
+- [&quot;Confessions of Copilot: How Not to Lose at Chess Again&quot;](https://dev.to/ljvasquezr/confessions-of-copilot-how-not-to-lose-at-chess-again-5c73)
+- [My AI Pair Programmer is Better Than Yours: A Cursor, Kiro, &amp; Granite Showdown](https://dev.to/mgonzalezo/my-ai-pair-programmer-is-better-than-yours-a-cursor-kiro-granite-showdown-2kdj)
+- [Dealing with AI in the SWE hiring process](https://dev.to/wynteres/dealing-with-ai-in-the-swe-hiring-process-3n8l)
+- [Build a Reliable Hacker News Deep Research AI Agent](https://dev.to/dbos/build-a-reliable-hacker-news-deep-research-ai-agent-365a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
