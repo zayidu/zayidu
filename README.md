@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [cookie session threadlocal](https://dev.to/woodyxin/cookie-session-threadlocal-5bnb)
-- [My Journey: Discovering the Relationship Between Kali Linux and Black Arch](https://dev.to/kalyan-dev/my-journey-discovering-the-relationship-between-kali-linux-and-black-arch-4n88)
-- [Rust Series : Borrow Checker Part 5 | as Design Partner - Concurrency, Async, and Mastery](https://dev.to/triggerak/rust-series-borrow-checker-part-5-as-design-partner-concurrency-async-and-mastery-5h8n)
-- [4 Day Work week Experiment how 3 IT companies Boosted Developer output](https://dev.to/rajesh_patel/4-day-work-week-experiment-how-3-it-companies-boosted-developer-output-1jkn)
-- [How to create a storage with access to only those with specific keys and identities](https://dev.to/clinton_mbilitem_17fbf80c/how-to-create-a-storage-with-access-to-only-those-with-specific-keys-and-identities-2a00)
+- [Simulating Multiple-Layer Loop to Solve Logical Problems](https://dev.to/esproc_spl/simulating-multiple-layer-loop-to-solve-logical-problems-6cd)
+- [Why Your Agent Always Seems a Little Dumb](https://dev.to/maybe_ai/why-your-agent-always-seems-a-little-dumb-3of)
+- [halfvec: Half the Bits, Twice the speed?](https://dev.to/abhishek_gautam-01/halfvec-half-the-bits-twice-the-speed-3506)
+- [Deja de ser un becario](https://dev.to/evesan/deja-de-ser-un-becario-4g7n)
+- [Beyond the Hype: Rediscovering Why Containers Won](https://dev.to/unfor19/beyond-the-hype-rediscovering-why-containers-won-3k4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
