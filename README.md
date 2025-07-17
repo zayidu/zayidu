@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manual Testing with AI: Using Playwright MCP for No-Code Testing](https://dev.to/debs_obrien/manual-testing-with-ai-using-playwright-mcp-for-no-code-testing-1f8h)
-- [What is an AMBU Bag? A Life-Saving Emergency Resuscitation Tool](https://dev.to/physio_shop_54dbe3d2995c9/what-is-an-ambu-bag-a-life-saving-emergency-resuscitation-tool-51pl)
-- [Inject Meme Into Your VsCode WorkSpace 🤪](https://dev.to/jayantur13/inject-meme-into-your-vscode-workspace-2g62)
-- [WebSocket Revolution in Real-Time Communication&lpar;2045&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication2045-2a48)
-- [Why Empathy Might Be the Most Underrated Skill in Engineering Leadership](https://dev.to/cdownard/why-empathy-might-be-the-most-underrated-skill-in-engineering-leadership-5250)
+- [ResearchFlow AI: Helping Students Navigate the Research Maze](https://dev.to/franpcode/researchflow-ai-helping-students-navigate-the-research-maze-2a41)
+- [&lpar;G&rpar;UI is Dead](https://dev.to/paulmojicatech/gui-is-dead-4g3b)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;0360&rpar;](https://dev.to/member_aa44a2ae/zero-dependency-architecture-for-maximum-performance0360-4ea8)
+- [Git MCP : The Origin](https://dev.to/thedeepseeker/git-mcp-the-origin-4eag)
+- [Amazing Story](https://dev.to/thedeepseeker/amazing-story-5h82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
