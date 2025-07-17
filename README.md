@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate GitHub stats reporting with scheduled pipelines](https://dev.to/ravgeetdhillon/automate-github-stats-reporting-with-scheduled-pipelines-1jo3)
-- [Why Women in Tech isn&#39;t enough](https://dev.to/whitep4nth3r/why-women-in-tech-isnt-enough-2cah)
-- [Kiro or Amazon Q? How Amazon’s AI Strategy is Splitting for Devs and Ops](https://dev.to/alifar/kiro-or-amazon-q-how-amazons-ai-strategy-is-splitting-for-devs-and-ops-3f91)
-- [What are the key elements of a good Mission Statement?](https://dev.to/writegenic/what-are-the-key-elements-of-a-good-mission-statement-1f6d)
-- [Build A README-To-Comic Converter With Google AI Studio And Imagen](https://dev.to/professord/build-a-readme-to-comic-converter-with-google-ai-studio-and-imagen-cg7)
+- [2025 Data Warehouse Benchmark: What BigQuery, Snowflake, and Others Don’t Tell You](https://dev.to/estuaryflow/2025-data-warehouse-benchmark-what-bigquery-snowflake-and-others-dont-tell-you-392a)
+- [Top 05 Software Companies Near Me in Lausanne – 2025 Edition](https://dev.to/theo_blogs/top-05-software-companies-near-me-in-lausanne-2025-edition-1bc8)
+- [Building a Stock Trading System: High-Frequency Trading Architecture](https://dev.to/sgchris/building-a-stock-trading-system-high-frequency-trading-architecture-e2f)
+- [Microservices Architecture with Lightweight Framework Design&lpar;0731&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design0731-30hc)
+- [Multinational Marketing: How to Improve Translations](https://dev.to/liamcorwin/multinational-marketing-how-to-improve-translations-49p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
