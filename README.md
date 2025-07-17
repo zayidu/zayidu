@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
-- [I Spent 40 Hours Writing Tests That Broke in 2 Weeks — A Confession Story](https://dev.to/atapas/i-spent-40-hours-writing-tests-that-broke-in-2-weeks-a-confession-story-5a3o)
-- [A Roadmap to Becoming a DevOps Engineer](https://dev.to/harsha_ktm/a-roadmap-to-becoming-a-devops-engineer-e62)
-- [New Choice for Cross-Platform Web Service Development&lpar;7361&rpar;](https://dev.to/member_214bcde5/new-choice-for-cross-platform-web-service-development7361-1bh8)
-- [Introducing TypedJSON: Instantly Convert JSON to TypeScript, Prisma, GraphQL, and More](https://dev.to/dev_bailey_90587305bf939e/introducing-typedjson-instantly-convert-json-to-typescript-prisma-graphql-and-more-1c2p)
+- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-51da)
+- [When Not to Use Machine Learning &lpar;and Why It Matters&rpar;](https://dev.to/dm8ry/when-not-to-use-machine-learning-and-why-it-matters-297e)
+- [Golf With Aimee: What It Takes to Become a Tour Pro! | Match Against LPGA Winner Annie Park](https://dev.to/youtube_golf/golf-with-aimee-what-it-takes-to-become-a-tour-pro-match-against-lpga-winner-annie-park-29n1)
+- [Peter Finch Golf: Taking on THE FORGOTTEN Open Championship course &lpar;incredible!&rpar;](https://dev.to/youtube_golf/peter-finch-golf-taking-on-the-forgotten-open-championship-course-incredible-54h5)
+- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-4bg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
