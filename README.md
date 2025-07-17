@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What If Ruby Didn’t Have Syntactic Sugar?](https://dev.to/jessalejo/what-if-ruby-didnt-have-syntactic-sugar-4fm)
-- [IoT AI with Ioto](https://dev.to/embedthis/iot-ai-with-ioto-2jb0)
-- [The Future of IoT AI in 2025 and Beyond](https://dev.to/embedthis/the-future-of-iot-ai-in-2025-and-beyond-4j9)
-- [Rust Async Web Framework Performance Breakthrough&lpar;2461&rpar;](https://dev.to/member_aa44a2ae/rust-async-web-framework-performance-breakthrough2461-29o6)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4712&rpar;](https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers4712-pk5)
+- [I Spent 12 Months Using 1,000+ AI Tools — These Are the Ones I Use the Most](https://dev.to/nitinfab/i-spent-12-months-using-1000-ai-tools-these-are-the-ones-i-use-the-most-ekl)
+- [Rust Implementation for High Concurrency Processing&lpar;4404&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4404-3ljd)
+- [Just Launched My Portfolio &amp; I&#39;d Love Your Feedback! 🙌](https://dev.to/preeti_yadav/just-launched-my-portfolio-id-love-your-feedback-4kcm)
+- [📊 Analyzing Cafe Rewards Offers with Looker Studio](https://dev.to/koinpoin/analyzing-cafe-rewards-offers-with-looker-studio-3982)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;7567&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services7567-1a11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
