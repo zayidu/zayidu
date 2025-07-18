@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fixup a Commit](https://dev.to/aerabi/how-to-fixup-a-commit-4ngk)
+- [🚨 Stop Using ChatGPT Agents Until You Read This First!](https://dev.to/alifar/stop-using-chatgpt-agents-until-you-read-this-first-5gab)
+- [“Fake It Till You Make It” vs. Building Real Tech](https://dev.to/js402/fake-it-till-you-make-it-vs-building-real-tech-50p8)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;5521&rpar;](https://dev.to/member_a26aac70/zero-dependency-architecture-for-maximum-performance5521-10gb)
 - [Dynamic Routing Systems for Scalable Web Applications&lpar;5918&rpar;](https://dev.to/member_aa44a2ae/dynamic-routing-systems-for-scalable-web-applications5918-1ipo)
-- [Microservices Architecture with Lightweight Framework Design&lpar;8868&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design8868-5a76)
-- [Context Management and Request Lifecycle Optimization&lpar;4284&rpar;](https://dev.to/member_a26aac70/context-management-and-request-lifecycle-optimization4284-1ka)
-- [Storage: 10x Larger Uploads, 3x Cheaper Cached Egress, and 2x Egress Quota](https://dev.to/supabase/storage-10x-larger-uploads-3x-cheaper-cached-egress-and-2x-egress-quota-46ed)
-- [Dump and Sync PostgreSQL Schema with Python &lpar;No Data, No BS&rpar;](https://dev.to/lovestaco/dump-and-sync-postgresql-schema-with-python-no-data-no-bs-3c1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
