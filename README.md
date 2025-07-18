@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `47`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-47-4jpl)
-- [I Tried Replacing JavaScript with Rust + WASM for Frontend. Here&#39;s What Happened.](https://dev.to/xinjie_zou_d67d2805538130/i-tried-replacing-javascript-with-rust-wasm-for-frontend-heres-what-happened-47f1)
-- [New Choice for Cross-Platform Web Service Development&lpar;9452&rpar;](https://dev.to/member_a26aac70/new-choice-for-cross-platform-web-service-development9452-3m9k)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;2070&rpar;](https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf)
-- [Advanced PDF Optimization Techniques - 1752828](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752828-1ga2)
+- [CSR vs SSR in Next.js](https://dev.to/khaledsaeed18/csr-vs-ssr-in-nextjs-34o8)
+- [Google Analytics not sending different pages aside from home page in ReactJS&lpar;Vite&rpar;](https://dev.to/highcenburg/google-analytics-not-sending-different-pages-aside-from-home-page-in-reactjsvite-4bpn)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;7633&rpar;](https://dev.to/member_214bcde5/server-side-events-implementation-for-real-time-applications7633-27pj)
+- [Catalangate and Pegasus: How technology was used to stop a referendum](https://dev.to/josep_miquel_3dbc331656de/catalangate-and-pegasus-how-technology-was-used-to-stop-a-referendum-51fj)
+- [Office Space: Actual Office Space](https://dev.to/ansellmaximilian/office-space-actual-office-space-23d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
