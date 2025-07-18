@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate share-worthy social media posts in seconds!](https://dev.to/mraces868/generate-share-worthy-social-media-posts-in-seconds-2j5j)
-- [The Ultimate Guide to Mastering Business Acumen, People Skills, and Sales Expertise](https://dev.to/devcorner/the-ultimate-guide-to-mastering-business-acumen-people-skills-and-sales-expertise-5ggj)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;1343&rpar;](https://dev.to/member_a26aac70/http-request-processing-with-zero-copy-optimization1343-3eg)
-- [Discover WaveRecon: Your Ultimate Web Reconnaissance Tool for Security Testing](https://dev.to/ronit_paikray_c98c5bf84b8/discover-waverecon-your-ultimate-web-reconnaissance-tool-for-security-testing-1im0)
-- [The Explosive Rise of Agentic AI in 2025: Trends That Will Redefine Your World](https://dev.to/farukalpay/the-explosive-rise-of-agentic-ai-in-2025-trends-that-will-redefine-your-world-147o)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;3661&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3661-4f78)
+- [What&#39;s Your Go-To Stack for Personal Projects in 2025?](https://dev.to/devopsdaily/whats-your-go-to-stack-for-personal-projects-in-2025-3pg2)
+- [Why No One Will Be Using JavaScript in 5 Years](https://dev.to/abubakersiddique761/why-no-one-will-be-using-javascript-in-5-years-2pec)
+- [The One Programming Skill That&#39;ll Be Obsolete by 2026](https://dev.to/abubakersiddique761/the-one-programming-skill-thatll-be-obsolete-by-2026-5f58)
+- [Rust Implementation for High Concurrency Processing&lpar;4734&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4734-1map)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
