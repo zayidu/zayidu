@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Mandatory Accounting Software Became the Gateway to Ukraine’s NotPetya Cyberattack](https://dev.to/davidgomesr/how-a-mandatory-accounting-software-became-the-gateway-to-ukraines-notpetya-cyberattack-4bm0)
-- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-4ak9)
-- [Golf.com: Rory McIlroy&#39;s Journey to Royal Portrush: A Hopeful Homecoming](https://dev.to/youtube_golf/golfcom-rory-mcilroys-journey-to-royal-portrush-a-hopeful-homecoming-4bbm)
-- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-5e8m)
-- [How to Send and Receive RCS Suggested Replies with Node.js](https://dev.to/vonagedev/how-to-send-and-receive-rcs-suggested-replies-with-nodejs-1dhk)
+- [‘Harry Potter&#39;: Nick Frost Transforms Into Hagrid in New Look at HBO Series](https://dev.to/popcorn_tv/harry-potter-nick-frost-transforms-into-hagrid-in-new-look-at-hbo-series-47ca)
+- [‘Invincible&#39; Gets Early Season 5 Renewal at Prime Video, Matthew Rhys Joins Season 4 Voice Cast](https://dev.to/popcorn_tv/invincible-gets-early-season-5-renewal-at-prime-video-matthew-rhys-joins-season-4-voice-cast-5b85)
+- [Joaquin Phoenix Says ‘I&#39;m So Sorry&#39; for ‘Horrible&#39; and ‘Uncomfortable&#39; Letterman Interview: ‘One of the Worst Nights of My Life&#39;](https://dev.to/popcorn_tv/joaquin-phoenix-says-im-so-sorry-for-horrible-and-uncomfortable-letterman-interview-one-of-iia)
+- [‘Harry Potter&#39; HBO Series Starts Filming, Reveals First Look at Dominic McLaughlin as Boy Wizard](https://dev.to/popcorn_tv/harry-potter-hbo-series-starts-filming-reveals-first-look-at-dominic-mclaughlin-as-boy-wizard-3mbn)
+- [Inside the $3 Billion ‘South Park&#39; Fight That May Blow Up Its Future](https://dev.to/popcorn_tv/inside-the-3-billion-south-park-fight-that-may-blow-up-its-future-26jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
