@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Choice for Cross-Platform Web Service Development&lpar;8681&rpar;](https://dev.to/member_a26aac70/new-choice-for-cross-platform-web-service-development8681-34nk)
-- [Turn Boring Features Into Customer Magnets](https://dev.to/viissgg/turn-boring-features-into-customer-magnets-4ope)
-- [Glassmorphism Card with Animated Shine](https://dev.to/musa379/glassmorphism-card-with-animated-shine-5e73)
-- [Google Cloud VMs and Networking](https://dev.to/lxmwaniky/google-cloud-vms-and-networking-1gl)
-- [Building a Text-to-SQL AI Assistant with lightweight LLM, and Semantic Kernel in C#: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/building-a-text-to-sql-ai-assistant-with-lightweight-llm-and-semantic-kernel-in-c-a-fun-3m4o)
+- [How a Mandatory Accounting Software Became the Gateway to Ukraine’s NotPetya Cyberattack](https://dev.to/davidgomesr/how-a-mandatory-accounting-software-became-the-gateway-to-ukraines-notpetya-cyberattack-4bm0)
+- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-4ak9)
+- [Golf.com: Rory McIlroy&#39;s Journey to Royal Portrush: A Hopeful Homecoming](https://dev.to/youtube_golf/golfcom-rory-mcilroys-journey-to-royal-portrush-a-hopeful-homecoming-4bbm)
+- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-5e8m)
+- [How to Send and Receive RCS Suggested Replies with Node.js](https://dev.to/vonagedev/how-to-send-and-receive-rcs-suggested-replies-with-nodejs-1dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
