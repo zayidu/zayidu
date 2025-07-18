@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
-- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
-- [Day 28/100: List Comprehensions in Python](https://dev.to/therahul_gupta/day-28100-list-comprehensions-in-python-1498)
-- [Gothic Lolita AI... okay, I&#39;m intrigued.](https://dev.to/benlin/gothic-lolita-ai-okay-im-intrigued-cmm)
-- [Send Excel Rows as Individual Emails Automatically](https://dev.to/sqlman/send-excel-rows-as-individual-emails-automatically-3595)
+- [50+ Tips For Big Unity Games](https://dev.to/dumboprogrammer/50-tips-for-big-unity-games-1lpa)
+- [Automate Like a Pro: Flutter Meets n8n for Real-Time Hacker News Search + Auto-Posting](https://dev.to/shamnad_sherief/automate-like-a-pro-flutter-meets-n8n-for-real-time-hacker-news-search-auto-posting-1hk0)
+- [Modern Server-Side Event Implementation&lpar;8259&rpar;](https://dev.to/member_214bcde5/modern-server-side-event-implementation8259-1b1p)
+- [🧩 Why Less Is More: The Power of Soft Interactions in Web Game Development](https://dev.to/tarif_hossain_4ce2d31e35c/why-less-is-more-the-power-of-soft-interactions-in-web-game-development-4oah)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;3594&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3594-4d3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
