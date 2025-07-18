@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Filter UX Design: Best Practices for SaaS Product Success](https://dev.to/lollypopdesign/filter-ux-design-best-practices-for-saas-product-success-5185)
-- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-1f40)
-- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-3o36)
-- [TCP Optimization Techniques for Web Server Performance&lpar;6225&rpar;](https://dev.to/member_214bcde5/tcp-optimization-techniques-for-web-server-performance6225-37mo)
-- [Unlock Your Garden’s Potential with the Grow A Garden Calculator](https://dev.to/_b782af2e088d898eaf5e5f/unlock-your-gardens-potential-with-the-grow-a-garden-calculator-3bl)
+- [How to Set Up LiteSpeed Cache Plugin for WordPress](https://dev.to/serveravatar/how-to-set-up-litespeed-cache-plugin-for-wordpress-4l4c)
+- [[Boost]](https://dev.to/hadil/-1e0)
+- [SQL Server 2025 - What’s New and How to Visualize the Schema](https://dev.to/roxana_haidiner/sql-server-2025-whats-new-and-how-to-visualize-the-schema-5951)
+- [Migrando para Brighter V10 com AWS SNS/SQS](https://dev.to/actor-dev/migrando-para-brighter-v10-com-aws-snssqs-595m)
+- [Migrating to Brighter V10 with AWS SNS/SQS](https://dev.to/actor-dev/migrating-to-brighter-v10-with-aws-snssqs-4f9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
