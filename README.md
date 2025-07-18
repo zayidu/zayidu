@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50+ Tips For Big Unity Games](https://dev.to/dumboprogrammer/50-tips-for-big-unity-games-1lpa)
-- [Automate Like a Pro: Flutter Meets n8n for Real-Time Hacker News Search + Auto-Posting](https://dev.to/shamnad_sherief/automate-like-a-pro-flutter-meets-n8n-for-real-time-hacker-news-search-auto-posting-1hk0)
-- [Modern Server-Side Event Implementation&lpar;8259&rpar;](https://dev.to/member_214bcde5/modern-server-side-event-implementation8259-1b1p)
-- [🧩 Why Less Is More: The Power of Soft Interactions in Web Game Development](https://dev.to/tarif_hossain_4ce2d31e35c/why-less-is-more-the-power-of-soft-interactions-in-web-game-development-4oah)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;3594&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3594-4d3a)
+- [The Importance of Choosing the Right Data Types for Database Optimization](https://dev.to/raxraj/the-importance-of-choosing-the-right-data-types-for-database-optimization-ch6)
+- [ChatGPT Agents Are Finally Here! But Are They Worth Paying For?](https://dev.to/alifar/chatgpt-agents-are-finally-here-but-are-they-worth-paying-for-3844)
+- [AI-Powered Quiz Generator - SyllabusQuiz](https://dev.to/niveshbansal07/ai-powered-quiz-generator-syllabusquiz-2oe2)
+- [Why Momentum and Progress Beat Perfection: Lessons from Real Startups](https://dev.to/pantoai/why-momentum-and-progress-beat-perfection-lessons-from-real-startups-nej)
+- [Elegant Middleware Architecture Implementation&lpar;6494&rpar;](https://dev.to/member_214bcde5/elegant-middleware-architecture-implementation6494-386)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
