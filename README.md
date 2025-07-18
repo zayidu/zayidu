@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg Table Optimization #2: The Basics of Compaction — Bin Packing Your Data for Efficiency](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-2-the-basics-of-compaction-bin-packing-your-data-for-20oh)
-- [Apache Iceberg Table Optimization #1: The Cost of Neglect — How Apache Iceberg Tables Degrade Without Optimization](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-1-the-cost-of-neglect-how-apache-iceberg-tables-degrade-4mmk)
-- [New Choice for Cross-Platform Web Service Development&lpar;5643&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development5643-625)
-- [Rust Async Web Framework Performance Breakthrough&lpar;6768&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough6768-9hc)
-- [Cross-Platform Web Development Without Compromise&lpar;4632&rpar;](https://dev.to/member_214bcde5/cross-platform-web-development-without-compromise4632-2nl2)
+- [Rust Implementation for High Concurrency Processing&lpar;3595&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing3595-53j8)
+- [Building the second project Resume using HTML AND CSS](https://dev.to/selvakumar_r_4bac08f5eaa6/building-the-second-project-resume-using-html-and-css-5184)
+- [New Choice for Cross-Platform Web Service Development&lpar;9282&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development9282-3b6j)
+- [Cross-Platform Web Development Without Compromise&lpar;1842&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise1842-8i6)
+- [WebSocket Revolution in Real-Time Communication&lpar;9861&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication9861-1eng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
