@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Choosing the Right Data Types for Database Optimization](https://dev.to/raxraj/the-importance-of-choosing-the-right-data-types-for-database-optimization-ch6)
-- [ChatGPT Agents Are Finally Here! But Are They Worth Paying For?](https://dev.to/alifar/chatgpt-agents-are-finally-here-but-are-they-worth-paying-for-3844)
-- [AI-Powered Quiz Generator - SyllabusQuiz](https://dev.to/niveshbansal07/ai-powered-quiz-generator-syllabusquiz-2oe2)
-- [Why Momentum and Progress Beat Perfection: Lessons from Real Startups](https://dev.to/pantoai/why-momentum-and-progress-beat-perfection-lessons-from-real-startups-nej)
-- [Elegant Middleware Architecture Implementation&lpar;6494&rpar;](https://dev.to/member_214bcde5/elegant-middleware-architecture-implementation6494-386)
+- [Amazon Bedrock’s AgentCore: How It Powers the Next Generation of AI Agents](https://dev.to/alifar/amazon-bedrocks-agentcore-how-it-powers-the-next-generation-of-ai-agents-2ea0)
+- [9 JavaScript Function Types You Should Know as a Beginner](https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad)
+- [Images from the Road: How Digital Nomadism Changed My Approach to Image Optimization](https://dev.to/hardik_b2d8f0bca/images-from-the-road-how-digital-nomadism-changed-my-approach-to-image-optimization-hjl)
+- [Rust Async Web Framework Performance Breakthrough&lpar;1606&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough1606-3831)
+- [The Ship of Theseus in Your CDN: Philosophical Questions That Image Optimization Forces Us to Ask](https://dev.to/hardik_b2d8f0bca/the-ship-of-theseus-in-your-cdn-philosophical-questions-that-image-optimization-forces-us-to-ask-23k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
