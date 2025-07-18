@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up LiteSpeed Cache Plugin for WordPress](https://dev.to/serveravatar/how-to-set-up-litespeed-cache-plugin-for-wordpress-4l4c)
-- [[Boost]](https://dev.to/hadil/-1e0)
-- [SQL Server 2025 - What’s New and How to Visualize the Schema](https://dev.to/roxana_haidiner/sql-server-2025-whats-new-and-how-to-visualize-the-schema-5951)
-- [Migrando para Brighter V10 com AWS SNS/SQS](https://dev.to/actor-dev/migrando-para-brighter-v10-com-aws-snssqs-595m)
-- [Migrating to Brighter V10 with AWS SNS/SQS](https://dev.to/actor-dev/migrating-to-brighter-v10-with-aws-snssqs-4f9f)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `47`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-47-4jpl)
+- [I Tried Replacing JavaScript with Rust + WASM for Frontend. Here&#39;s What Happened.](https://dev.to/xinjie_zou_d67d2805538130/i-tried-replacing-javascript-with-rust-wasm-for-frontend-heres-what-happened-47f1)
+- [New Choice for Cross-Platform Web Service Development&lpar;9452&rpar;](https://dev.to/member_a26aac70/new-choice-for-cross-platform-web-service-development9452-3m9k)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;2070&rpar;](https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf)
+- [Advanced PDF Optimization Techniques - 1752828](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752828-1ga2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
