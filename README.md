@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock’s AgentCore: How It Powers the Next Generation of AI Agents](https://dev.to/alifar/amazon-bedrocks-agentcore-how-it-powers-the-next-generation-of-ai-agents-2ea0)
-- [9 JavaScript Function Types You Should Know as a Beginner](https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad)
-- [Images from the Road: How Digital Nomadism Changed My Approach to Image Optimization](https://dev.to/hardik_b2d8f0bca/images-from-the-road-how-digital-nomadism-changed-my-approach-to-image-optimization-hjl)
-- [Rust Async Web Framework Performance Breakthrough&lpar;1606&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough1606-3831)
-- [The Ship of Theseus in Your CDN: Philosophical Questions That Image Optimization Forces Us to Ask](https://dev.to/hardik_b2d8f0bca/the-ship-of-theseus-in-your-cdn-philosophical-questions-that-image-optimization-forces-us-to-ask-23k6)
+- [Filter UX Design: Best Practices for SaaS Product Success](https://dev.to/lollypopdesign/filter-ux-design-best-practices-for-saas-product-success-5185)
+- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-1f40)
+- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-3o36)
+- [TCP Optimization Techniques for Web Server Performance&lpar;6225&rpar;](https://dev.to/member_214bcde5/tcp-optimization-techniques-for-web-server-performance6225-37mo)
+- [Unlock Your Garden’s Potential with the Grow A Garden Calculator](https://dev.to/_b782af2e088d898eaf5e5f/unlock-your-gardens-potential-with-the-grow-a-garden-calculator-3bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
