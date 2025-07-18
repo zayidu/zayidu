@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Zenhub Guide for Scrum Masters &lpar;Based on 100+ Sprints&rpar;](https://dev.to/gsauzande/a-practical-zenhub-guide-for-scrum-masters-based-on-100-sprints-41f9)
-- [Ruby: A New Journey](https://dev.to/kooltone/ruby-a-new-journey-3kc8)
-- [Security isn&#39;t a feature. It&#39;s a mindset.](https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5)
-- [Set custom configuration in AWS EKS CoreDNS Addon](https://dev.to/aws-builders/set-custom-configuration-in-aws-eks-coredns-addon-fh2)
-- [The Zero-Effort AI Millionaire Club: Membership Exploded in 2025!](https://dev.to/cemre_bks/the-zero-effort-ai-millionaire-club-membership-exploded-in-2025-1d7c)
+- [Provide private storage for internal company documents](https://dev.to/isaiah_izibili_7a39b7d627/provide-private-storage-for-internal-company-documents-3f1c)
+- [Top 10 Launches of Launch Week 15](https://dev.to/supabase/top-10-launches-of-launch-week-15-225n)
+- [How Aptos&#39; Quorum Store Unlocks True Scalability](https://dev.to/danielkestrel/how-aptos-quorum-store-unlocks-true-scalability-28l9)
+- [Avoiding Lifetime Annotations with Structs](https://dev.to/sgchris/avoiding-lifetime-annotations-with-structs-16ni)
+- [Building CLI Tools with clap and structopt](https://dev.to/sgchris/building-cli-tools-with-clap-and-structopt-62j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
