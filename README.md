@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First post and first learning tract](https://dev.to/rockshandy/first-post-and-first-learning-tract-4bg5)
-- [Building an Accessible School Management Portal: Lessons from My Web Dev Journey](https://dev.to/tayo4christ/building-an-accessible-school-management-portal-lessons-from-my-web-dev-journey-1023)
-- [Exploring Parameter Reduction in ResNeXt Architectures](https://dev.to/ramazanturan/exploring-parameter-reduction-in-resnext-architectures-3704)
-- [🔒 Understanding Uniface&#39;s Lock Statement: A Developer&#39;s Guide](https://dev.to/petercode/understanding-unifaces-lock-statement-a-developers-guide-ff7)
-- [Understanding Uniface lflush: Mastering File Management in ProcScript 🚀](https://dev.to/petercode/understanding-uniface-lflush-mastering-file-management-in-procscript-ddd)
+- [A Practical Zenhub Guide for Scrum Masters &lpar;Based on 100+ Sprints&rpar;](https://dev.to/gsauzande/a-practical-zenhub-guide-for-scrum-masters-based-on-100-sprints-41f9)
+- [Ruby: A New Journey](https://dev.to/kooltone/ruby-a-new-journey-3kc8)
+- [Security isn&#39;t a feature. It&#39;s a mindset.](https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5)
+- [Set custom configuration in AWS EKS CoreDNS Addon](https://dev.to/aws-builders/set-custom-configuration-in-aws-eks-coredns-addon-fh2)
+- [The Zero-Effort AI Millionaire Club: Membership Exploded in 2025!](https://dev.to/cemre_bks/the-zero-effort-ai-millionaire-club-membership-exploded-in-2025-1d7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
