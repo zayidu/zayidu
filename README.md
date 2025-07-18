@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSR vs SSR in Next.js](https://dev.to/khaledsaeed18/csr-vs-ssr-in-nextjs-34o8)
-- [Google Analytics not sending different pages aside from home page in ReactJS&lpar;Vite&rpar;](https://dev.to/highcenburg/google-analytics-not-sending-different-pages-aside-from-home-page-in-reactjsvite-4bpn)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;7633&rpar;](https://dev.to/member_214bcde5/server-side-events-implementation-for-real-time-applications7633-27pj)
-- [Catalangate and Pegasus: How technology was used to stop a referendum](https://dev.to/josep_miquel_3dbc331656de/catalangate-and-pegasus-how-technology-was-used-to-stop-a-referendum-51fj)
-- [Office Space: Actual Office Space](https://dev.to/ansellmaximilian/office-space-actual-office-space-23d4)
+- [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
+- [What makes Anvil so easy to learn?](https://dev.to/anvil/what-makes-anvil-so-easy-to-learn-3ggi)
+- [SoftoSync: The Leading Custom Software &amp; Flutter App Development Company](https://dev.to/softosync/softosync-the-leading-custom-software-flutter-app-development-company-4hkn)
+- [From Terminal to Transcendence: The Cyberpunk Future of Operating Systems](https://dev.to/voidos/from-terminal-to-transcendence-the-cyberpunk-future-of-operating-systems-4eip)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;6814&rpar;](https://dev.to/member_214bcde5/ultimate-optimization-of-lightweight-server-architecture6814-4i81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
