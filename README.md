@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Implementation for High Concurrency Processing&lpar;3595&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing3595-53j8)
-- [Building the second project Resume using HTML AND CSS](https://dev.to/selvakumar_r_4bac08f5eaa6/building-the-second-project-resume-using-html-and-css-5184)
-- [New Choice for Cross-Platform Web Service Development&lpar;9282&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development9282-3b6j)
-- [Cross-Platform Web Development Without Compromise&lpar;1842&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise1842-8i6)
-- [WebSocket Revolution in Real-Time Communication&lpar;9861&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication9861-1eng)
+- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
+- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
+- [Day 28/100: List Comprehensions in Python](https://dev.to/therahul_gupta/day-28100-list-comprehensions-in-python-1498)
+- [Gothic Lolita AI... okay, I&#39;m intrigued.](https://dev.to/benlin/gothic-lolita-ai-okay-im-intrigued-cmm)
+- [Send Excel Rows as Individual Emails Automatically](https://dev.to/sqlman/send-excel-rows-as-individual-emails-automatically-3595)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
