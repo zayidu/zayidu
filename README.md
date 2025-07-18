@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What is LDAP Port [A Complete Guide for Beginners]](https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp)
+- [Deploying Your First Smart Contract Using KID: Step-by-Step](https://dev.to/kalpstudio/deploying-your-first-smart-contract-using-kid-step-by-step-276p)
+- [Rust Implementation for High Concurrency Processing&lpar;9863&rpar;](https://dev.to/member_aa44a2ae/rust-implementation-for-high-concurrency-processing9863-3aof)
 - [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
 - [What makes Anvil so easy to learn?](https://dev.to/anvil/what-makes-anvil-so-easy-to-learn-3ggi)
-- [SoftoSync: The Leading Custom Software &amp; Flutter App Development Company](https://dev.to/softosync/softosync-the-leading-custom-software-flutter-app-development-company-4hkn)
-- [From Terminal to Transcendence: The Cyberpunk Future of Operating Systems](https://dev.to/voidos/from-terminal-to-transcendence-the-cyberpunk-future-of-operating-systems-4eip)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;6814&rpar;](https://dev.to/member_214bcde5/ultimate-optimization-of-lightweight-server-architecture6814-4i81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
