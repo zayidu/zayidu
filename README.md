@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Harry Potter&#39;: Nick Frost Transforms Into Hagrid in New Look at HBO Series](https://dev.to/popcorn_tv/harry-potter-nick-frost-transforms-into-hagrid-in-new-look-at-hbo-series-47ca)
-- [‘Invincible&#39; Gets Early Season 5 Renewal at Prime Video, Matthew Rhys Joins Season 4 Voice Cast](https://dev.to/popcorn_tv/invincible-gets-early-season-5-renewal-at-prime-video-matthew-rhys-joins-season-4-voice-cast-5b85)
-- [Joaquin Phoenix Says ‘I&#39;m So Sorry&#39; for ‘Horrible&#39; and ‘Uncomfortable&#39; Letterman Interview: ‘One of the Worst Nights of My Life&#39;](https://dev.to/popcorn_tv/joaquin-phoenix-says-im-so-sorry-for-horrible-and-uncomfortable-letterman-interview-one-of-iia)
-- [‘Harry Potter&#39; HBO Series Starts Filming, Reveals First Look at Dominic McLaughlin as Boy Wizard](https://dev.to/popcorn_tv/harry-potter-hbo-series-starts-filming-reveals-first-look-at-dominic-mclaughlin-as-boy-wizard-3mbn)
-- [Inside the $3 Billion ‘South Park&#39; Fight That May Blow Up Its Future](https://dev.to/popcorn_tv/inside-the-3-billion-south-park-fight-that-may-blow-up-its-future-26jh)
+- [Generate share-worthy social media posts in seconds!](https://dev.to/mraces868/generate-share-worthy-social-media-posts-in-seconds-2j5j)
+- [The Ultimate Guide to Mastering Business Acumen, People Skills, and Sales Expertise](https://dev.to/devcorner/the-ultimate-guide-to-mastering-business-acumen-people-skills-and-sales-expertise-5ggj)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;1343&rpar;](https://dev.to/member_a26aac70/http-request-processing-with-zero-copy-optimization1343-3eg)
+- [Discover WaveRecon: Your Ultimate Web Reconnaissance Tool for Security Testing](https://dev.to/ronit_paikray_c98c5bf84b8/discover-waverecon-your-ultimate-web-reconnaissance-tool-for-security-testing-1im0)
+- [The Explosive Rise of Agentic AI in 2025: Trends That Will Redefine Your World](https://dev.to/farukalpay/the-explosive-rise-of-agentic-ai-in-2025-trends-that-will-redefine-your-world-147o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
