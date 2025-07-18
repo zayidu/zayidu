@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resource Management and Memory Efficiency in Web Servers&lpar;3661&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3661-4f78)
-- [What&#39;s Your Go-To Stack for Personal Projects in 2025?](https://dev.to/devopsdaily/whats-your-go-to-stack-for-personal-projects-in-2025-3pg2)
-- [Why No One Will Be Using JavaScript in 5 Years](https://dev.to/abubakersiddique761/why-no-one-will-be-using-javascript-in-5-years-2pec)
-- [The One Programming Skill That&#39;ll Be Obsolete by 2026](https://dev.to/abubakersiddique761/the-one-programming-skill-thatll-be-obsolete-by-2026-5f58)
-- [Rust Implementation for High Concurrency Processing&lpar;4734&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4734-1map)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;5918&rpar;](https://dev.to/member_aa44a2ae/dynamic-routing-systems-for-scalable-web-applications5918-1ipo)
+- [Microservices Architecture with Lightweight Framework Design&lpar;8868&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design8868-5a76)
+- [Context Management and Request Lifecycle Optimization&lpar;4284&rpar;](https://dev.to/member_a26aac70/context-management-and-request-lifecycle-optimization4284-1ka)
+- [Storage: 10x Larger Uploads, 3x Cheaper Cached Egress, and 2x Egress Quota](https://dev.to/supabase/storage-10x-larger-uploads-3x-cheaper-cached-egress-and-2x-egress-quota-46ed)
+- [Dump and Sync PostgreSQL Schema with Python &lpar;No Data, No BS&rpar;](https://dev.to/lovestaco/dump-and-sync-postgresql-schema-with-python-no-data-no-bs-3c1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
