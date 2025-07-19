@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML: Why It Matters for SEO and Accessibility](https://dev.to/haseebmirza/semantic-html-why-it-matters-for-seo-and-accessibility-1924)
-- [Test: URL Tracking System](https://dev.to/pponali/test-url-tracking-system-1i3h)
-- [Explore Generative AI with the Gemini API in Vertex AI](https://dev.to/abinesh_m_3f4afdc983f8e3/explore-generative-ai-with-the-gemini-api-in-vertex-ai-a71)
-- [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG](https://dev.to/abinesh_m_3f4afdc983f8e3/inspect-rich-documents-with-gemini-multimodality-and-multimodal-rag-4a1b)
-- [Semantic HTML: Why It Matters for SEO and Accessibility](https://dev.to/gul_khanda/semantic-html-why-it-matters-for-seo-and-accessibility-e3o)
+- [Callforwards are actually not that bad!](https://dev.to/dariomannu/callforwards-are-actually-not-that-bad-475e)
+- [The Real Problem with AI Agents &lpar;and How We Built the Fix&rpar;](https://dev.to/contextspace_/the-real-problem-with-ai-agents-and-how-we-built-the-fix-p7o)
+- [Why Jumeirah Village Circle Is Gaining Popularity Among Investors](https://dev.to/john_connor_956c3b3934316/why-jumeirah-village-circle-is-gaining-popularity-among-investors-3292)
+- [Why Match &amp; Merge Behaves Differently in Cloud MDM &lpar;And What Most People Miss&rpar;](https://dev.to/inventmodel/why-match-merge-behaves-differently-in-cloud-mdm-and-what-most-people-miss-336n)
+- [Advanced PDF Optimization Techniques - 1752914](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752914-26ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
