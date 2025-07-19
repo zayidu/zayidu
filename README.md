@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Centralized vs Decentralized Identity tradeoffs: Twitter/X, YouTube, Mastodon, ActivityPub and NOSTR](https://dev.to/binaryigor/centralized-vs-decentralized-identity-tradeoffs-twitterx-youtube-mastodon-activitypub-and-nostr-3ab5)
 - [Why &quot;USED&quot; Condition Fails in eBay Inventory API &lpar;Action Figure Category&rpar;](https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6)
 - [My programming environment journey](https://dev.to/veer66/my-programming-environment-journey-5748)
 - [Conectando Backend e Frontend - Next Js + Nest Js](https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo)
 - [AWS Support: &quot;We&#39;re here to help&quot;](https://dev.to/bishal_cpgn/aws-support-were-here-to-help-2dhp)
-- [lertWise — Free Web Push Notifications for Websites &amp; Blogs](https://dev.to/alertwise_bfd760b9a52d098/lertwise-free-web-push-notifications-for-websites-blogs-1c00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
