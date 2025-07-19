@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navbar scroll event](https://dev.to/ifeanyichima/navbar-scroll-event-11do)
-- [AltSchool Of Engineering Tinyuka’24 Month 5 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-5-week-3-2mfo)
-- [My Experience with Defang: Exploring the Future of Safer Code](https://dev.to/piyushsahujtp/my-experience-with-defang-exploring-the-future-of-safer-code-4b0n)
-- [How Kiro Supercharged My NLP Project 🚀 kiro](https://dev.to/javier_juanalvarez_fd710/how-kiro-supercharged-my-nlp-project-kiro-39bb)
-- [Audit Tables | Triggers | Pragma Autonomous Transactions in Oracle](https://dev.to/mrcaption49/audit-tables-triggers-pragma-autonomous-transactions-in-oracle-39ng)
+- [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
+- [I Tested 5 CLI Coding Agents &amp; Here’s What Surprised Me!](https://dev.to/forgecode/i-tested-5-cli-coding-agents-heres-what-surprised-me-28i)
+- [20 Rules for Becoming THAT Manager &lpar;From a Principal Engineer’s Perspective&rpar;](https://dev.to/georgekobaidze/20-rules-for-becoming-that-manager-from-a-principal-engineers-perspective-58n3)
+- [Should I Encourage People to Learn Programming in 2025? I Don’t Think So.](https://dev.to/pranta/should-i-encourage-people-to-learn-programming-in-2025-i-dont-think-so-1a38)
+- [Horizon World Tutorial – Player Management – Part 1 – Server and Local Controller](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-1-server-and-local-controller-1k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
