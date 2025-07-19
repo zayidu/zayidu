@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fridge Recipe Wizard](https://dev.to/andrechen1985/fridge-recipe-wizard-hln)
-- [How is Cursor&#39;s High-Stakes Bet with Google and AI Leaders Reshaping Coding Tools?](https://dev.to/jovin_george_733dcfc16291/how-is-cursors-high-stakes-bet-with-google-and-ai-leaders-reshaping-coding-tools-436p)
-- [Next.js on Serverless: Scalability Without the Hassle](https://dev.to/abdullah034-dev/nextjs-on-serverless-scalability-without-the-hassle-48cd)
-- [Nitin Navik](https://dev.to/nitin-navik/nitin-navik-1618)
-- [Custom Software Solution for Composable Enterprises](https://dev.to/techverdi/custom-software-solution-for-composable-enterprises-3fg4)
+- [🚀 Acme Corp Intranet – A Clean &amp; Responsive Office Homepage | DEV Challenge](https://dev.to/makendrang/acme-corp-intranet-a-clean-responsive-office-homepage-dev-challenge-4g3l)
+- [Alice: Your AI Desktop Companion is Here!](https://dev.to/githubopensource/alice-your-ai-desktop-companion-is-here-ae1)
+- [Good to use](https://dev.to/mo3badah/good-to-use-jhd)
+- [Containerized Deployments: A Step-by-Step Guide to Deploying A Docker Image Using ECS and 2048 Game Application using EKS](https://dev.to/christiana_orji/containerized-deployments-a-step-by-step-guide-to-deploying-a-docker-image-using-ecs-and-2048-game-1me8)
+- [🏷️ commit_gh: Because Git Tags Shouldn&#39;t Be That Hard&quot;](https://dev.to/raymonepping/commitgh-because-git-tags-shouldnt-be-that-hard-17ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
