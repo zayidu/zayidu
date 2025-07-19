@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Callforwards are actually not that bad!](https://dev.to/dariomannu/callforwards-are-actually-not-that-bad-475e)
-- [The Real Problem with AI Agents &lpar;and How We Built the Fix&rpar;](https://dev.to/contextspace_/the-real-problem-with-ai-agents-and-how-we-built-the-fix-p7o)
-- [Why Jumeirah Village Circle Is Gaining Popularity Among Investors](https://dev.to/john_connor_956c3b3934316/why-jumeirah-village-circle-is-gaining-popularity-among-investors-3292)
-- [Why Match &amp; Merge Behaves Differently in Cloud MDM &lpar;And What Most People Miss&rpar;](https://dev.to/inventmodel/why-match-merge-behaves-differently-in-cloud-mdm-and-what-most-people-miss-336n)
-- [Advanced PDF Optimization Techniques - 1752914](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752914-26ip)
+- [Navbar scroll event](https://dev.to/ifeanyichima/navbar-scroll-event-11do)
+- [AltSchool Of Engineering Tinyuka’24 Month 5 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-5-week-3-2mfo)
+- [My Experience with Defang: Exploring the Future of Safer Code](https://dev.to/piyushsahujtp/my-experience-with-defang-exploring-the-future-of-safer-code-4b0n)
+- [How Kiro Supercharged My NLP Project 🚀 kiro](https://dev.to/javier_juanalvarez_fd710/how-kiro-supercharged-my-nlp-project-kiro-39bb)
+- [Audit Tables | Triggers | Pragma Autonomous Transactions in Oracle](https://dev.to/mrcaption49/audit-tables-triggers-pragma-autonomous-transactions-in-oracle-39ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
