@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Derivatives: The Slope of Change](https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f)
-- [Advanced PDF Optimization Techniques - 1752893](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752893-5h97)
-- [🎬 Introducing Ravgeek: Dev Concepts in 60 Seconds](https://dev.to/ravgeetdhillon/introducing-ravgeek-dev-concepts-in-60-seconds-54nj)
-- [Most people are using ChatGPT the wrong way. Here&#39;s how to learn any skill faster](https://dev.to/manasi_patil_/most-people-are-using-chatgpt-the-wrong-way-heres-how-to-learn-any-skill-faster-10bm)
-- [20 Go Performance Tricks I Learned the Hard Way](https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h)
+- [Why &quot;USED&quot; Condition Fails in eBay Inventory API &lpar;Action Figure Category&rpar;](https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6)
+- [My programming environment journey](https://dev.to/veer66/my-programming-environment-journey-5748)
+- [Conectando Backend e Frontend - Next Js + Nest Js](https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo)
+- [AWS Support: &quot;We&#39;re here to help&quot;](https://dev.to/bishal_cpgn/aws-support-were-here-to-help-2dhp)
+- [lertWise — Free Web Push Notifications for Websites &amp; Blogs](https://dev.to/alertwise_bfd760b9a52d098/lertwise-free-web-push-notifications-for-websites-blogs-1c00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
