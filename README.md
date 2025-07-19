@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Primer on Buffers in Node.js](https://dev.to/codeguage/a-quick-primer-on-buffers-in-nodejs-i30)
+- [Git Full Speed Ahead Part 1: Installing Git on Windows and Getting Started in No Time](https://dev.to/pawic/git-full-speed-ahead-part-1-installing-git-on-windows-and-getting-started-in-no-time-22ge)
+- [Stack Overflow Is Not Broken - Your Search Engine Is](https://dev.to/hexshift/stack-overflow-is-not-broken-your-search-engine-is-4ldc)
+- [Day 6: Mastering Responsive Typography in Tailwind CSS](https://dev.to/ruqaiya_beguwala/day-6-mastering-responsive-typography-in-tailwind-css-27np)
 - [Centralized vs Decentralized Identity tradeoffs: Twitter/X, YouTube, Mastodon, ActivityPub and NOSTR](https://dev.to/binaryigor/centralized-vs-decentralized-identity-tradeoffs-twitterx-youtube-mastodon-activitypub-and-nostr-3ab5)
-- [Why &quot;USED&quot; Condition Fails in eBay Inventory API &lpar;Action Figure Category&rpar;](https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6)
-- [My programming environment journey](https://dev.to/veer66/my-programming-environment-journey-5748)
-- [Conectando Backend e Frontend - Next Js + Nest Js](https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo)
-- [AWS Support: &quot;We&#39;re here to help&quot;](https://dev.to/bishal_cpgn/aws-support-were-here-to-help-2dhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
