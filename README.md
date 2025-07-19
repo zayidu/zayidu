@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got My First Dev Job. I Was Not Ready.](https://dev.to/rich_park/i-got-my-first-dev-job-i-was-not-ready-4171)
-- [Building an Open Floor Parrot Agent](https://dev.to/azettl/building-an-open-floor-parrot-agent-3e79)
-- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
-- [AI Ethics Prompt Engineering Java Cognitive Systems](https://dev.to/matheus_porto_52c105fca68/ai-ethics-prompt-engineering-java-cognitive-systems-5cp4)
-- [I’d like to hear from experts in chatbot development](https://dev.to/juanjefry23/id-like-to-hear-from-experts-in-chatbot-development-15h3)
+- [Understanding Derivatives: The Slope of Change](https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f)
+- [Advanced PDF Optimization Techniques - 1752893](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752893-5h97)
+- [🎬 Introducing Ravgeek: Dev Concepts in 60 Seconds](https://dev.to/ravgeetdhillon/introducing-ravgeek-dev-concepts-in-60-seconds-54nj)
+- [Most people are using ChatGPT the wrong way. Here&#39;s how to learn any skill faster](https://dev.to/manasi_patil_/most-people-are-using-chatgpt-the-wrong-way-heres-how-to-learn-any-skill-faster-10bm)
+- [20 Go Performance Tricks I Learned the Hard Way](https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
