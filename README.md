@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
-- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
-- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
-- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
-- [Why I’m Betting on BI, Compliance &amp; QA — Not AI Hype](https://dev.to/tamyrah/why-im-betting-on-bi-compliance-qa-not-ai-hype-i83)
+- [AWS Skill Builder: Is It Enough to Learn AWS for Free?](https://dev.to/komaldedaniya/aws-skill-builder-is-it-enough-to-learn-aws-for-free-gjd)
+- [🎮 dvd-pong: Retro Physics in the Browser!](https://dev.to/akbak/dvd-pong-retro-physics-in-the-browser-g65)
+- [AWS AI League: The Ultimate AI Showdown for Innovation and Skill Development](https://dev.to/aws-builders/aws-ai-league-the-ultimate-ai-showdown-for-innovation-and-skill-development-1pf5)
+- [The Hijab in Islam: A Practical Guide for Beginners](https://dev.to/yasminhana/the-hijab-in-islam-a-practical-guide-for-beginners-3bca)
+- [Day 1 of My 180-Day Developer Challenge: Rebuilding Git from Scratch](https://dev.to/mukesh_89c92348d548aeb227/day-1-of-my-180-day-developer-challenge-rebuilding-git-from-scratch-3ikj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
