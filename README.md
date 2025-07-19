@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Skill Builder: Is It Enough to Learn AWS for Free?](https://dev.to/komaldedaniya/aws-skill-builder-is-it-enough-to-learn-aws-for-free-gjd)
-- [🎮 dvd-pong: Retro Physics in the Browser!](https://dev.to/akbak/dvd-pong-retro-physics-in-the-browser-g65)
-- [AWS AI League: The Ultimate AI Showdown for Innovation and Skill Development](https://dev.to/aws-builders/aws-ai-league-the-ultimate-ai-showdown-for-innovation-and-skill-development-1pf5)
-- [The Hijab in Islam: A Practical Guide for Beginners](https://dev.to/yasminhana/the-hijab-in-islam-a-practical-guide-for-beginners-3bca)
-- [Day 1 of My 180-Day Developer Challenge: Rebuilding Git from Scratch](https://dev.to/mukesh_89c92348d548aeb227/day-1-of-my-180-day-developer-challenge-rebuilding-git-from-scratch-3ikj)
+- [ChatGPT Agent is FINALLY here, Kimi K2 just killed Claude, Perplexity&#39;s AI web browser, and more](https://dev.to/thisweekinaiengineering/chatgpt-agent-is-finally-here-kimi-k2-just-killed-claude-perplexitys-ai-web-browser-and-more-ffn)
+- [DhaScan: Level Up Your Web Security with AI 🛡️ - Think Like an Attacker, Defend Like a Pro.](https://dev.to/ronit_paikray_c98c5bf84b8/dhascan-level-up-your-web-security-with-ai-think-like-an-attacker-defend-like-a-pro-4d0f)
+- [🕵️‍♂️ Social Media First Post Finder](https://dev.to/akbak/social-media-first-post-finder-2jbp)
+- [🎭 Solivagus](https://dev.to/akbak/solivagus-1ld5)
+- [Comunicação entre a Camada Application e a API no .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-application-e-a-api-no-net-moderno-47oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
