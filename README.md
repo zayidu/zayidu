@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧥 1. Fashion-Forward: Kristin Juszczyk&#39;s “Off Season” Puffer Jackets](https://dev.to/sara_jason_39adc9490651ba/1-fashion-forward-kristin-juszczyks-off-season-puffer-jackets-12kh)
-- [🚀 My GSoC 2025 Journey - A Dream, A Twist &amp; A Lesson for Life 💔](https://dev.to/sharmaji21/my-gsoc-2025-journey-a-dream-a-twist-a-lesson-for-life-215f)
-- [What Testers Should Know About Specs ?](https://dev.to/tester_learn_testing/what-testers-should-know-about-specs--1dll)
-- [Your LLM is an Architect, Not a Coder](https://dev.to/xzdes/your-llm-is-an-architect-not-a-coder-p1n)
-- [Top 25 JavaScript Array Methods Every Developer Should Learn](https://dev.to/gouranga-das-khulna/top-25-javascript-array-methods-every-developer-should-learn-2jc1)
+- [Fridge Recipe Wizard](https://dev.to/andrechen1985/fridge-recipe-wizard-hln)
+- [How is Cursor&#39;s High-Stakes Bet with Google and AI Leaders Reshaping Coding Tools?](https://dev.to/jovin_george_733dcfc16291/how-is-cursors-high-stakes-bet-with-google-and-ai-leaders-reshaping-coding-tools-436p)
+- [Next.js on Serverless: Scalability Without the Hassle](https://dev.to/abdullah034-dev/nextjs-on-serverless-scalability-without-the-hassle-48cd)
+- [Nitin Navik](https://dev.to/nitin-navik/nitin-navik-1618)
+- [Custom Software Solution for Composable Enterprises](https://dev.to/techverdi/custom-software-solution-for-composable-enterprises-3fg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
