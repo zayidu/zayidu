@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Acme Corp Intranet – A Clean &amp; Responsive Office Homepage | DEV Challenge](https://dev.to/makendrang/acme-corp-intranet-a-clean-responsive-office-homepage-dev-challenge-4g3l)
-- [Alice: Your AI Desktop Companion is Here!](https://dev.to/githubopensource/alice-your-ai-desktop-companion-is-here-ae1)
-- [Good to use](https://dev.to/mo3badah/good-to-use-jhd)
-- [Containerized Deployments: A Step-by-Step Guide to Deploying A Docker Image Using ECS and 2048 Game Application using EKS](https://dev.to/christiana_orji/containerized-deployments-a-step-by-step-guide-to-deploying-a-docker-image-using-ecs-and-2048-game-1me8)
-- [🏷️ commit_gh: Because Git Tags Shouldn&#39;t Be That Hard&quot;](https://dev.to/raymonepping/commitgh-because-git-tags-shouldnt-be-that-hard-17ff)
+- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
+- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
+- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
+- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
+- [Why I’m Betting on BI, Compliance &amp; QA — Not AI Hype](https://dev.to/tamyrah/why-im-betting-on-bi-compliance-qa-not-ai-hype-i83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
