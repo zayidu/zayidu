@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSolve — Earn by Solving Code &amp; Selling Pre-Built Modules](https://dev.to/gulsher_50044cd38a2d9e954/devsolve-earn-by-solving-code-selling-pre-built-modules-1e95)
-- [Laravel Events and Listeners: Building Decoupled Applications](https://dev.to/arasosman/laravel-events-and-listeners-building-decoupled-applications-e91)
-- [30 Days Of Code- Day 3](https://dev.to/akshitaexe/30-days-of-code-day-3-4c9d)
-- [The best AI headshot generator - my personal and honest review](https://dev.to/laurentiu_raducu_27fc6f79/the-best-ai-headshot-generator-my-personal-and-honest-review-4lo1)
-- [Dez conselhos que eu gostaria de ter recebido no início da minha carreira em TI](https://dev.to/cristopher_jonas/dez-conselhos-que-eu-gostaria-de-ter-recebido-no-inicio-da-minha-carreira-em-ti-2e2b)
+- [Why Your Temperament Matters When Choosing a Legal Career](https://dev.to/dalton_abreshears/why-your-temperament-matters-when-choosing-a-legal-career-h26)
+- [How to Scrape Image Data From a Website Programmatically?](https://dev.to/cristianalex_17/how-to-scrape-image-data-from-a-website-programmatically-29o5)
+- [Construindo o Jogo Arkanoid em C++](https://dev.to/mrpunkdasilva/construindo-o-jogo-arkanoid-em-c-n5c)
+- [Leveling Up as a Developer in 2025 Isn’t Just About Code Anymore](https://dev.to/raimundos_marques/leveling-up-as-a-developer-in-2025-isnt-just-about-code-anymore-18l8)
+- [DEPLOY AZURE WEB APP](https://dev.to/habeeb_hameed_0753445424a/deploy-azure-web-app-adf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
