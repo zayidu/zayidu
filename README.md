@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
-- [I Tested 5 CLI Coding Agents &amp; Here’s What Surprised Me!](https://dev.to/forgecode/i-tested-5-cli-coding-agents-heres-what-surprised-me-28i)
-- [20 Rules for Becoming THAT Manager &lpar;From a Principal Engineer’s Perspective&rpar;](https://dev.to/georgekobaidze/20-rules-for-becoming-that-manager-from-a-principal-engineers-perspective-58n3)
-- [Should I Encourage People to Learn Programming in 2025? I Don’t Think So.](https://dev.to/pranta/should-i-encourage-people-to-learn-programming-in-2025-i-dont-think-so-1a38)
-- [Horizon World Tutorial – Player Management – Part 1 – Server and Local Controller](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-1-server-and-local-controller-1k2)
+- [🧥 1. Fashion-Forward: Kristin Juszczyk&#39;s “Off Season” Puffer Jackets](https://dev.to/sara_jason_39adc9490651ba/1-fashion-forward-kristin-juszczyks-off-season-puffer-jackets-12kh)
+- [🚀 My GSoC 2025 Journey - A Dream, A Twist &amp; A Lesson for Life 💔](https://dev.to/sharmaji21/my-gsoc-2025-journey-a-dream-a-twist-a-lesson-for-life-215f)
+- [What Testers Should Know About Specs ?](https://dev.to/tester_learn_testing/what-testers-should-know-about-specs--1dll)
+- [Your LLM is an Architect, Not a Coder](https://dev.to/xzdes/your-llm-is-an-architect-not-a-coder-p1n)
+- [Top 25 JavaScript Array Methods Every Developer Should Learn](https://dev.to/gouranga-das-khulna/top-25-javascript-array-methods-every-developer-should-learn-2jc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
