@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #2&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-2-55d0)
-- [Jekyll, Cloudflare Pages &amp; Workers: A Guide to Dynamic Image Compression &amp; Delivery &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/jekyll-cloudflare-pages-workers-a-guide-to-dynamic-image-compression-delivery-part-1-11ih)
-- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
-- [[EN] Granularity: The Art of Breaking the System into the Right Size](https://dev.to/renannrocha/en-granularity-the-art-of-breaking-the-system-into-the-right-size-1o01)
-- [My FastAPI template repo](https://dev.to/smenendez19/my-fastapi-template-repo-dc7)
+- [4.0-Inch TFT LCD for Smart Home Applications: A Perfect Fit for the 86 Box Standard](https://dev.to/jasonliu112/40-inch-tft-lcd-for-smart-home-applications-a-perfect-fit-for-the-86-box-standard-3oei)
+- [DevOps Journey – Week 6: Completed Shell Scripting with a Server Backup Automation Project&quot;](https://dev.to/azmatahmed/devops-journey-week-6-completed-shell-scripting-with-a-server-backup-automation-project-197j)
+- [Streamflow: From Vision to Velocity](https://dev.to/shastraa_430/built-streamflow-for-the-scaler-internship-challenge-from-vision-to-velocity-b1)
+- [Advanced PDF Optimization Techniques - 1752979](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752979-4okd)
+- [Decoupled by Design: A Developer’s Guide to Microservices](https://dev.to/rijultp/decoupled-by-design-a-developers-guide-to-microservices-4ep9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
