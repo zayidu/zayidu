@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔒 Why Secure User Management in Docker Matters?](https://dev.to/dpvasani56/why-secure-user-management-in-docker-matters-1hk2)
-- [🧱 What is a Multi-Stage Build in Docker?](https://dev.to/dpvasani56/what-is-a-multi-stage-build-in-docker-5cfl)
-- [[Boost]](https://dev.to/suavebajaj/-24gc)
-- [🧩 Docker Layer Caching](https://dev.to/dpvasani56/docker-layer-caching-2i84)
-- [The Microprocessor Revolution: Understanding the Fourth Generation of Computers and Its Lasting Impact](https://dev.to/adityabhuyan/the-microprocessor-revolution-understanding-the-fourth-generation-of-computers-and-its-lasting-5a6n)
+- [🚀 Looking for Feedback: Building a Self-Hosted n8n + LLM Setup with MCP &lpar;without Claude&rpar;](https://dev.to/neo457_eab636c701319c68ca/looking-for-feedback-building-a-self-hosted-n8n-llm-setup-with-mcp-without-claude-517h)
+- [[Boost]](https://dev.to/srushti/-1285)
+- [35 Free Platforms to Boost Your Startup’s SEO &amp; Visibility](https://dev.to/gokayburuc/35-free-platforms-to-boost-your-startups-seo-visibility-2275)
+- [Mastering Algorithm Analysis: Leveraging Lower Bounds in Java Searching Algorithms](https://dev.to/adityabhuyan/mastering-algorithm-analysis-leveraging-lower-bounds-in-java-searching-algorithms-1kpn)
+- [Advanced PDF Optimization Techniques - 1753001](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1753001-16an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
