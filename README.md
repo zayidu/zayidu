@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for Feedback: Building a Self-Hosted n8n + LLM Setup with MCP &lpar;without Claude&rpar;](https://dev.to/neo457_eab636c701319c68ca/looking-for-feedback-building-a-self-hosted-n8n-llm-setup-with-mcp-without-claude-517h)
-- [[Boost]](https://dev.to/srushti/-1285)
-- [35 Free Platforms to Boost Your Startup’s SEO &amp; Visibility](https://dev.to/gokayburuc/35-free-platforms-to-boost-your-startups-seo-visibility-2275)
-- [Mastering Algorithm Analysis: Leveraging Lower Bounds in Java Searching Algorithms](https://dev.to/adityabhuyan/mastering-algorithm-analysis-leveraging-lower-bounds-in-java-searching-algorithms-1kpn)
-- [Advanced PDF Optimization Techniques - 1753001](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1753001-16an)
+- [The Power of HTML - Part 4: Multimedia Magic: Embedding Audio, Video, and Images](https://dev.to/karthikeyans21/the-power-of-html-part-4-multimedia-magic-embedding-audio-video-and-images-49f)
+- [Why Use a Status Page Aggregator?](https://dev.to/isdown/why-use-a-status-page-aggregator-5670)
+- [Why I&#39;m Betting Against AI Agents in 2025 &lpar;Despite Building Them&rpar;](https://dev.to/ukanwat/why-im-betting-against-ai-agents-in-2025-despite-building-them-1c6m)
+- [Exploring Software Licensing Models: Costs, Flexibility, and Risks](https://dev.to/jennifer_devsamurai/exploring-software-licensing-models-costs-flexibility-and-risks-13mn)
+- [The Power of HTML - Part 3: Mastering HTML Forms: From Input to Submission](https://dev.to/karthikeyans21/the-power-of-html-part-3-mastering-html-forms-from-input-to-submission-2hb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
