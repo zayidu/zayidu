@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 9-to-Alive: The Intranet Homepage Reinvented with Axero’s Vision](https://dev.to/shreya111111/9-to-alive-the-intranet-homepage-reinvented-with-axeros-vision-43mj)
-- [CURD Operation in java using JDBC](https://dev.to/neelakandan_ravi/curd-operation-in-java-using-jdbc-3ll5)
-- [🚀 My Dev Journey Begins + Swapping Genders in SQL &lpar;LeetCode Problem&rpar;](https://dev.to/nithya_dharshini_a5a4075f/my-dev-journey-begins-swapping-genders-in-sql-leetcode-problem-3l5h)
-- [🚀 FlexLogger v1.1 Released – Smarter Android Logging](https://dev.to/goodluck3301/flexlogger-v11-released-smarter-android-logging-5887)
-- [[Boost]](https://dev.to/sayed_ali_alkamel/-4ch6)
+- [Kimi K2 is the BEST coding agent, Next.js 16 sneak peek, Nuxt 4.0 is here, and more](https://dev.to/thisweekinjavascript/kimi-k2-is-the-best-coding-agent-nextjs-16-sneak-peek-nuxt-40-is-here-and-more-22fm)
+- [How to Use minio-go for S3-Compatible Storage in Go](https://dev.to/lovestaco/how-to-use-minio-go-for-s3-compatible-storage-in-go-5eai)
+- [Navigating the React Jungle: A Deep Dive into Routing Types with Examples](https://dev.to/shrsv/navigating-the-react-jungle-a-deep-dive-into-routing-types-with-examples-1l01)
+- [From 0 to $1.5k MRR: lessons from our first year building BlackTwist](https://dev.to/ikoichi/from-0-to-15k-mrr-lessons-from-our-first-year-building-blacktwist-11id)
+- [✨ I created a beginner&#39;s guide to Terraform, Check it out: https://dev.to/aws-builders/getting-started-with-terraform-a-beginners-guide-5bj](https://dev.to/pravesh_sudha_3c2b0c2b5e0/i-created-a-beginners-guide-to-terraform-check-it-out-43kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
