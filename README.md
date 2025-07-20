@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding - Conversational Software Development - Part 2 In Practice](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-2-in-practice-2f9o)
-- [[Boost]](https://dev.to/little_coding_things/-2jn0)
-- [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
-- [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
-- [Imposter Syndrome Is Lying to You—Don’t Let It Run Your Career](https://dev.to/dalton_abreshears/imposter-syndrome-is-lying-to-you-dont-let-it-run-your-career-1af4)
+- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #2&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-2-55d0)
+- [Jekyll, Cloudflare Pages &amp; Workers: A Guide to Dynamic Image Compression &amp; Delivery &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/jekyll-cloudflare-pages-workers-a-guide-to-dynamic-image-compression-delivery-part-1-11ih)
+- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
+- [[EN] Granularity: The Art of Breaking the System into the Right Size](https://dev.to/renannrocha/en-granularity-the-art-of-breaking-the-system-into-the-right-size-1o01)
+- [My FastAPI template repo](https://dev.to/smenendez19/my-fastapi-template-repo-dc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
