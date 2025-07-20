@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of HTML - Part 4: Multimedia Magic: Embedding Audio, Video, and Images](https://dev.to/karthikeyans21/the-power-of-html-part-4-multimedia-magic-embedding-audio-video-and-images-49f)
-- [Why Use a Status Page Aggregator?](https://dev.to/isdown/why-use-a-status-page-aggregator-5670)
-- [Why I&#39;m Betting Against AI Agents in 2025 &lpar;Despite Building Them&rpar;](https://dev.to/ukanwat/why-im-betting-against-ai-agents-in-2025-despite-building-them-1c6m)
-- [Exploring Software Licensing Models: Costs, Flexibility, and Risks](https://dev.to/jennifer_devsamurai/exploring-software-licensing-models-costs-flexibility-and-risks-13mn)
-- [The Power of HTML - Part 3: Mastering HTML Forms: From Input to Submission](https://dev.to/karthikeyans21/the-power-of-html-part-3-mastering-html-forms-from-input-to-submission-2hb7)
+- [AI: Introduction to Ollama for local LLM launch](https://dev.to/setevoy/ai-introduction-to-ollama-for-local-llm-launch-41io)
+- [Terraform: data types, loops, indexes, and the &quot;resource must be replaced&quot; issue](https://dev.to/setevoy/terraform-data-types-loops-indexes-and-the-resource-must-be-replaced-issue-5ccl)
+- [Kubernetes: 503 errors with AWS ALB possible causes and solutions](https://dev.to/aws-builders/kubernetes-503-errors-with-aws-alb-possible-causes-and-solutions-1ddh)
+- [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
+- [🚀 The Complete Guide to Prompt Engineering: From Zero-Shot to AI Agents](https://dev.to/warayus/the-complete-guide-to-prompt-engineering-from-zero-shot-to-ai-agents-35bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
