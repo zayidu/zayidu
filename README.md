@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Basic Strands Agent with MCP Servers](https://dev.to/om_shree_0709/implementing-a-basic-strands-agent-with-mcp-servers-1269)
-- [Office Vibes – A Dev’s Desk Brought to Life in CSS](https://dev.to/dipanshu447/office-vibes-a-devs-desk-brought-to-life-in-css-31hh)
-- [Beyond Instructions: The Journey into Machine Learning](https://dev.to/alice_ngure/beyond-instructions-the-journey-into-machine-learning-2h28)
-- [Linux from the developer&#39;s perspective. Part 4 - strace and pmap](https://dev.to/lostghost/linux-from-the-developers-perspective-part-4-strace-and-pmap-1bph)
-- [From UI Images to React Components in a Snap](https://dev.to/atforeveryoung/from-ui-images-to-react-components-in-a-snap-2hh0)
+- [Week 4 of Hustle2Grand: Burnout, Freelancing, and a Mental Reset](https://dev.to/vulcanwm/week-4-of-hustle2grand-burnout-freelancing-and-a-mental-reset-a3o)
+- [Recreating the Windows Settings Page UI with Search – Pure HTML, CSS, and JavaScript](https://dev.to/melody_kelly_n/recreating-the-windows-settings-page-ui-with-search-pure-html-css-and-javascript-4m19)
+- [Why are there software bugs?](https://dev.to/devto-articles/why-are-there-software-bugs-43ci)
+- [You are the pilot: How to stand out in the vibe coding era](https://dev.to/neilton_rocha_dev/you-are-the-pilot-how-to-stand-out-in-the-vibe-coding-era-2n41)
+- [Why I Won&#39;t Pay to Train Your Model: A Developer&#39;s Farewell to Replit](https://dev.to/sebs/why-i-wont-pay-to-train-your-model-a-developers-farewell-to-replit-ih9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
