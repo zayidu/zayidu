@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve Shipped for Millions, But Can&#39;t Ship Myself Past ATS](https://dev.to/philipjohnbasile/ive-shipped-for-millions-but-cant-ship-myself-past-ats-lhl)
-- [How to Make Your First Chrome Extension with Manifest V3](https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do)
-- [Complete Azure Storage MCP Demo: Real-World Examples](https://dev.to/salim4n/complete-azure-storage-mcp-demo-real-world-examples-1gdc)
-- [1min.ai API Integration for Make.com: The Ultimate Custom App for AI Automation?](https://dev.to/jovin_george_733dcfc16291/1minai-api-integration-for-makecom-the-ultimate-custom-app-for-ai-automation-36jh)
-- [Journey of My JAVA FULL STACK Development Learning](https://dev.to/dinesh_g_909f4a82c67f5bbd/journey-of-my-java-full-stack-development-learning-4i8)
+- [Office Culture Through the Decades: A Pure CSS Time Machine 🕰️](https://dev.to/prateekk07/office-culture-through-the-decades-a-pure-css-time-machine-47e)
+- [Decoding No-Code: When to Let Go of the Code](https://dev.to/calderbughunter/decoding-no-code-when-to-let-go-of-the-code-5ap1)
+- [I Built the Advanced HTML Table Generator I Always Wished I Had](https://dev.to/samik-dev/i-built-the-advanced-html-table-generator-i-always-wished-i-had-49bi)
+- [AWS SQS service Expands IPv6 Support to VPC Endpoints](https://dev.to/nishath_jp/aws-sqs-service-expands-ipv6-support-to-vpc-endpoints-4d9l)
+- [Exploring the Functional Options Pattern in Go](https://dev.to/leapcell/exploring-the-functional-options-pattern-in-go-23dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
