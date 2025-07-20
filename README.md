@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4.0-Inch TFT LCD for Smart Home Applications: A Perfect Fit for the 86 Box Standard](https://dev.to/jasonliu112/40-inch-tft-lcd-for-smart-home-applications-a-perfect-fit-for-the-86-box-standard-3oei)
-- [DevOps Journey – Week 6: Completed Shell Scripting with a Server Backup Automation Project&quot;](https://dev.to/azmatahmed/devops-journey-week-6-completed-shell-scripting-with-a-server-backup-automation-project-197j)
-- [Streamflow: From Vision to Velocity](https://dev.to/shastraa_430/built-streamflow-for-the-scaler-internship-challenge-from-vision-to-velocity-b1)
-- [Advanced PDF Optimization Techniques - 1752979](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752979-4okd)
-- [Decoupled by Design: A Developer’s Guide to Microservices](https://dev.to/rijultp/decoupled-by-design-a-developers-guide-to-microservices-4ep9)
+- [I Built a Visual Roadmap Builder with a Twist – AI + Drag &amp; Drop Planning!](https://dev.to/bugblitz98/i-built-a-visual-roadmap-builder-with-a-twist-ai-drag-drop-planning-1217)
+- [Ranking Microsoft Windows versions - 2025 Edition](https://dev.to/visnalize/ranking-microsoft-windows-versions-2025-edition-14g0)
+- [I Built an Open-Source Alternative to Expensive Software Licensing Platforms 🚀](https://dev.to/vetheon/i-built-an-open-source-alternative-to-expensive-software-licensing-platforms-4561)
+- [How to Create a Fully-Featured ChatBot with Observability Tools to Monitor and Optimize your AI Models](https://dev.to/ajeetraina/how-to-create-ai-chatbot-from-scratch-using-docker-3kcf)
+- [PayGenius HR : Payslip Generator](https://dev.to/capjud95/paygenius-hr-payslip-generator-3l3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
