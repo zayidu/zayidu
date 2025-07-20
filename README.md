@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test-Driven Development &lpar;TDD&rpar; and Its Relevance to AI-Generated Code](https://dev.to/hazrat-ali9/test-driven-development-tdd-and-its-relevance-to-ai-generated-code-1l4f)
-- [Building an Interactive Story Generator with Google AI Studio](https://dev.to/onirestart/building-an-interactive-story-generator-with-google-ai-studio-4mk5)
-- [Hit 100 GitHub Followers — Thank You!](https://dev.to/vihanga_anuththara_0a402f/hit-100-github-followers-thank-you-5751)
-- [ChatGPT o3-mini vs DeepSeek R1 Which Performs Better? - Proje Defteri](https://dev.to/yunusemre/chatgpt-o3-mini-vs-deepseek-r1-which-performs-better-proje-defteri-4epj)
-- [The Perils of Over-Engineering in Technology](https://dev.to/ik5/the-perils-of-over-engineering-in-technology-23ad)
+- [Weekly #29-2025: Smarter Testing, Simple Solutions, Playful Coding, Age in Tech, &amp; SaaS Choices](https://dev.to/weekly/weekly-29-2025-smarter-testing-simple-solutions-playful-coding-age-in-tech-saas-choices-2iih)
+- [React DevTools: Debug Like a Pro!🛠️👨‍💻](https://dev.to/aman_kureshi_/react-devtools-debug-like-a-pro-852)
+- [Solving the Error - &quot;fatal: refusing to merge unrelated histories&quot;](https://dev.to/omesha/solving-the-error-fatal-refusing-to-merge-unrelated-histories-491h)
+- [Integration of Technical Indicators into the DCA Bot: RSI, SMA, and etc.](https://dev.to/zmey56/integration-of-technical-indicators-into-the-dca-bot-rsi-sma-and-etc-1pbf)
+- [Navigating Vim as a Beginner](https://dev.to/omesha/navigating-vim-as-a-beginner-4n1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
