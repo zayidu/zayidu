@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of HTML - Part 22: The Future of HTML: WebAssembly, AI Integration, and Predictions](https://dev.to/karthikeyans21/the-power-of-html-part-22-the-future-of-html-webassembly-ai-integration-and-predictions-4ngi)
-- [The Power of HTML - Part 21: HTML for AI Web Apps: Rendering Models and Data Viz](https://dev.to/karthikeyans21/the-power-of-html-part-21-html-for-ai-web-apps-rendering-models-and-data-viz-1km3)
-- [Office Culture Through the Decades: A Pure CSS Time Machine 🕰️](https://dev.to/prateekk07/office-culture-through-the-decades-a-pure-css-time-machine-lnh)
-- [The Power of HTML - Part 20: AI-Generated HTML: Tools and Best Practices](https://dev.to/karthikeyans21/the-power-of-html-part-20-ai-generated-html-tools-and-best-practices-3onf)
-- [Nexus Digital: A Stunning Intranet Homepage Built with React, Tailwind, and TypeScript](https://dev.to/walidadebayo/nexus-digital-a-stunning-intranet-homepage-built-with-react-tailwind-and-typescript-1aa3)
+- [From $50K to $150/Month: How I Stopped Getting Robbed by CDNs and Built My Own Damn Streaming Infra](https://dev.to/harsh_suthar_5a9a14772609/from-50k-to-150month-how-i-stopped-getting-robbed-by-cdns-and-built-my-own-damn-streaming-infra-hi6)
+- [Implementing Light/Dark Theme - My Struggles and Tips](https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon)
+- [How to Build a Real-time AI Multiplayer Quiz App with Flutter &amp; Firebase](https://dev.to/awsmasim/how-to-build-a-real-time-ai-multiplayer-quiz-app-with-flutter-firebase-2m39)
+- [Setting up a React Typescript Solution with Vite: A Practical Guide](https://dev.to/anuj_u/setting-up-react-typescript-solution-with-vite-1ndd)
+- [Final Hackops Writeup](https://dev.to/reva_revathatikonda_004b3/final-hackops-writeup-3n93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
