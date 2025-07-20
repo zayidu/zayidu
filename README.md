@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SAA-C03 Exam Traps That Almost Failed Me &lpar;And How to Dodge Them&rpar;](https://dev.to/nageshrajcodes/aws-saa-c03-exam-traps-that-almost-failed-me-and-how-to-dodge-them-45if)
-- [Understanding Chaos RAT: The Go-Based Malware Hitting Linux and Windows](https://dev.to/fus0g/understanding-chaos-rat-the-go-based-malware-hitting-linux-and-windows-b86)
-- [TechElevate Office – A Modern Intranet Dashboard for Hybrid Teams](https://dev.to/aishika3/techelevate-office-a-modern-intranet-dashboard-for-hybrid-teams-4j24)
-- [AWS Well-Architected Framework: Ultimate Cheat Sheet for Solutions Architect Associate 2025](https://dev.to/nageshrajcodes/aws-well-architected-framework-ultimate-cheat-sheet-for-solutions-architect-associate-2025-lhm)
-- [Split Changes into Multiple Commits](https://dev.to/bphogan/split-changes-into-multiple-commits-4pmi)
+- [I&#39;ve Shipped for Millions, But Can&#39;t Ship Myself Past ATS](https://dev.to/philipjohnbasile/ive-shipped-for-millions-but-cant-ship-myself-past-ats-lhl)
+- [How to Make Your First Chrome Extension with Manifest V3](https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do)
+- [Complete Azure Storage MCP Demo: Real-World Examples](https://dev.to/salim4n/complete-azure-storage-mcp-demo-real-world-examples-1gdc)
+- [1min.ai API Integration for Make.com: The Ultimate Custom App for AI Automation?](https://dev.to/jovin_george_733dcfc16291/1minai-api-integration-for-makecom-the-ultimate-custom-app-for-ai-automation-36jh)
+- [Journey of My JAVA FULL STACK Development Learning](https://dev.to/dinesh_g_909f4a82c67f5bbd/journey-of-my-java-full-stack-development-learning-4i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
