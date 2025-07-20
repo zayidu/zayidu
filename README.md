@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From $50K to $150/Month: How I Stopped Getting Robbed by CDNs and Built My Own Damn Streaming Infra](https://dev.to/harsh_suthar_5a9a14772609/from-50k-to-150month-how-i-stopped-getting-robbed-by-cdns-and-built-my-own-damn-streaming-infra-hi6)
-- [Implementing Light/Dark Theme - My Struggles and Tips](https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon)
-- [How to Build a Real-time AI Multiplayer Quiz App with Flutter &amp; Firebase](https://dev.to/awsmasim/how-to-build-a-real-time-ai-multiplayer-quiz-app-with-flutter-firebase-2m39)
-- [Setting up a React Typescript Solution with Vite: A Practical Guide](https://dev.to/anuj_u/setting-up-react-typescript-solution-with-vite-1ndd)
-- [Final Hackops Writeup](https://dev.to/reva_revathatikonda_004b3/final-hackops-writeup-3n93)
+- [Implementing a Basic Strands Agent with MCP Servers](https://dev.to/om_shree_0709/implementing-a-basic-strands-agent-with-mcp-servers-1269)
+- [Office Vibes – A Dev’s Desk Brought to Life in CSS](https://dev.to/dipanshu447/office-vibes-a-devs-desk-brought-to-life-in-css-31hh)
+- [Beyond Instructions: The Journey into Machine Learning](https://dev.to/alice_ngure/beyond-instructions-the-journey-into-machine-learning-2h28)
+- [Linux from the developer&#39;s perspective. Part 4 - strace and pmap](https://dev.to/lostghost/linux-from-the-developers-perspective-part-4-strace-and-pmap-1bph)
+- [From UI Images to React Components in a Snap](https://dev.to/atforeveryoung/from-ui-images-to-react-components-in-a-snap-2hh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
