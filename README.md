@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como cheguei até o padrão CQRS naturalmente?](https://dev.to/ortizdavid/como-cheguei-ate-o-padrao-cqrs-naturalmente-3c9c)
-- [Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation Practices #2](https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a)
-- [Could an AI Coach Actually Fix Rehab? Our Hackathon Experiment](https://dev.to/lukem94/could-an-ai-coach-actually-fix-rehab-our-hackathon-experiment-3lbi)
-- [🧠 Productivity Tips for Self-Taught Developers: Build Faster, Smarter, Stronger](https://dev.to/vjygour/productivity-tips-for-self-taught-developers-build-faster-smarter-stronger-4foh)
-- [Unpacking the EVM: Opcodes – The DNA of Ethereum Smart Contracts 🧬](https://dev.to/ouma_ouma/unpacking-the-evm-opcodes-the-dna-of-ethereum-smart-contracts-2fob)
+- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
+- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
+- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
+- [Design Style Slider](https://dev.to/alansdead/design-style-slider-3o56)
+- [Understand JOINs in MySQL Easily](https://dev.to/freyasky/understand-joins-in-mysql-easily-2df9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
