@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Jozu On-Premise: Architecture &amp; Workflow Overview](https://dev.to/jozu/deploying-jozu-on-premise-architecture-workflow-overview-50p7)
-- [Working on the sidebar that connects subforems — close to making this more of a first-class feature.](https://dev.to/ben/working-on-the-sidebar-that-connects-subforems-close-to-making-this-more-of-a-first-class-feature-42jn)
-- [Kiro vs Cursor: How Amazon’s AI IDE Is Redefining Developer Productivity](https://dev.to/aws-builders/kiro-vs-cursor-how-amazons-ai-ide-is-redefining-developer-productivity-3eg8)
-- [Golf.com: Scheffler Dominates Royal Portrush | Inside Scottie&#39;s Triumph at The Open](https://dev.to/youtube_golf/golfcom-scheffler-dominates-royal-portrush-inside-scotties-triumph-at-the-open-4gf7)
-- [How to Send Email Alerts for Failures in Spring Boot Using Prometheus and Alertmanager](https://dev.to/mspilari/how-to-send-email-alerts-for-circuit-breaker-failures-in-spring-boot-using-prometheus-and-dp2)
+- [What are your goals for the week? #136](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-136-3mj6)
+- [Fixing 421 Misdirected Request Errors on Multilingual WordPress Sites Using Apache &amp; NGINX](https://dev.to/mainulspace/fixing-421-misdirected-request-errors-on-multilingual-wordpress-sites-using-apache-nginx-3601)
+- [Ashkan Rajaee handles uncomfortable truths with precision and care. This piece is a great example of that.](https://dev.to/pierr3smith/ashkan-rajaee-handles-uncomfortable-truths-with-precision-and-care-this-piece-is-a-great-example-1ifa)
+- [How do I cancel a subscription from Dev++?](https://dev.to/hnq90/how-do-i-cancel-a-subscription-from-dev-mbe)
+- [The 13-Line Pattern That Eliminates Dependency Passing, &amp; Understanding How Effect Systems Work](https://dev.to/doeixd/the-13-line-pattern-that-eliminates-dependency-passing-understanding-how-effectts-works-3dl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
