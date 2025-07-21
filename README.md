@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Subarray Sum Divisible By K.](https://dev.to/umair01/subarray-sum-divisible-by-k-40ai)
-- [Give your AI agent superpowers with MCP](https://dev.to/diogodanielsoaresferreira/give-your-ai-agent-superpowers-with-mcp-2d4l)
-- [Why Tech Consulting Should Be the First Step in Your Digital Strategy](https://dev.to/cylsyssoftwaresolution/why-tech-consulting-should-be-the-first-step-in-your-digital-strategy-3mej)
-- [Max Consecutive Ones III](https://dev.to/umair01/max-consecutive-ones-iii-2nb0)
-- [Best Downdetector Alternatives for Outage Monitoring in 2025](https://dev.to/isdown/best-downdetector-alternatives-for-outage-monitoring-in-2025-4ck5)
+- [Why You Should Design for Feature Rollbacks &lpar;Not Just Rollouts&rpar;](https://dev.to/dct_technology/why-you-should-design-for-feature-rollbacks-not-just-rollouts-52dm)
+- [ByteEditor 4.0: Revolutionary Visual Website Design Builder for Umbraco Developers](https://dev.to/byteeditor/byteeditor-40-revolutionary-visual-website-design-builder-for-umbraco-developers-2i5h)
+- [Webinar Technology &amp; Analytics: Platforms, Integration, Metrics, Compliance, and AI Personalisation](https://dev.to/jack_davis_72eff1ff3e4afd/webinar-technology-analytics-platforms-integration-metrics-compliance-and-ai-f9m)
+- [From Trainee to Software Engineer: A 5 Year Journey Through Code, Growth, and AI](https://dev.to/jsandaruwan/from-trainee-to-software-engineer-a-5-year-journey-through-code-growth-and-ai-53f4)
+- [Firebase Project Setup: Your Complete Getting Started Guide 🔥](https://dev.to/this-is-learning/firebase-project-setup-your-complete-getting-started-guide-3k23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
