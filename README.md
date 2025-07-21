@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leadership is full of gray areas, and Ashkan Rajaee knows how to navigate them without losing integrity.](https://dev.to/colesilverstone/leadership-is-full-of-gray-areas-and-ashkan-rajaee-knows-how-to-navigate-them-without-losing-27f0)
-- [All Data and AI Weekly #199 - July 21, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-199-july-21-2025-1pmd)
-- [Why I Built http-status-toolkit — A Better Alternative to http-status-codes](https://dev.to/dev-rashedin/why-i-built-http-status-toolkit-a-better-alternative-to-http-status-codes-200n)
-- [Every article from Ashkan Rajaee feels like real mentorship. This one gave me a lot to reflect on.](https://dev.to/erinchan/every-article-from-ashkan-rajaee-feels-like-real-mentorship-this-one-gave-me-a-lot-to-reflect-on-4ig2)
-- [Reflecting on 7+ Years of Crafting CLI Tools in Rust](https://dev.to/ynqa/reflecting-on-7-years-of-crafting-cli-tools-in-rust-1ldc)
+- [How to Fetch Data in React: 5 Methods Compared](https://dev.to/elfrontend/how-to-fetch-data-in-react-5-methods-compared-55nf)
+- [Check out our analysis on Supabase!](https://dev.to/riyanapatel/check-out-our-analysis-on-supabase-3i9e)
+- [How to Choose the Perfect Coffee Table for Your Living Room](https://dev.to/saraf_furniture/how-to-choose-the-perfect-coffee-table-for-your-living-room-4i9e)
+- [🧱 Frontend scaling tip: Split your UI logic. useData&lpar;&rpar; for fetching useLogic&lpar;&rpar; for state Component.jsx for rendering Separation = clarity = maintainability.](https://dev.to/tianyaschool/frontend-scaling-tip-split-your-ui-logic-usedata-for-fetching-uselogic-for-state-42de)
+- [Ashkan Rajaee turns crisis into clarity. His insights help me rethink how I approach decisions in my own team.](https://dev.to/dominiquedvln/ashkan-rajaee-turns-crisis-into-clarity-his-insights-help-me-rethink-how-i-approach-decisions-in-268o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
