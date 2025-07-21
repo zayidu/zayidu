@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Cursor’s Journey: A Case Study in Developer-Focused AI Assistants](https://dev.to/hmzas/cursors-journey-a-case-study-in-developer-focused-ai-assistants-5cid)
-- [How Do Machines Learn? A Beginner-Friendly Breakdown](https://dev.to/cuongnp/how-do-machines-learn-a-beginner-friendly-breakdown-50l6)
-- [ChatGPT Agent Not Working? Here&#39;s How to Fix Common Issues](https://dev.to/alifar/chatgpt-agent-not-working-heres-how-to-fix-common-issues-9bm)
-- [🌌 Coding Among the Stars: How Software Engineering and AI Are Writing the Universe’s Next Chapter](https://dev.to/alireza_minagar_99f01ecb6/coding-among-the-stars-how-software-engineering-and-ai-are-writing-the-universes-next-chapter-3n52)
-- [THE JAVA TYPE CASTING BUG –YOU’VE PROBABLY OVERLOOKED](https://dev.to/sandaruwan_wadiyage/the-java-type-casting-bug-youve-probably-overlooked-h34)
+- [Subarray Sum Divisible By K.](https://dev.to/umair01/subarray-sum-divisible-by-k-40ai)
+- [Give your AI agent superpowers with MCP](https://dev.to/diogodanielsoaresferreira/give-your-ai-agent-superpowers-with-mcp-2d4l)
+- [Why Tech Consulting Should Be the First Step in Your Digital Strategy](https://dev.to/cylsyssoftwaresolution/why-tech-consulting-should-be-the-first-step-in-your-digital-strategy-3mej)
+- [Max Consecutive Ones III](https://dev.to/umair01/max-consecutive-ones-iii-2nb0)
+- [Best Downdetector Alternatives for Outage Monitoring in 2025](https://dev.to/isdown/best-downdetector-alternatives-for-outage-monitoring-in-2025-4ck5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
