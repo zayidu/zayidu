@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading and Writing RFID Cards with Raspberry Pi](https://dev.to/admantium/reading-and-writing-rfid-cards-with-raspberry-pi-9di)
-- [How I Built an AI-Powered Face Recognition App from Scratch](https://dev.to/wasihf/how-i-built-an-ai-powered-face-recognition-app-from-scratch-1k18)
-- [The Hacker Had a Playbook - So I Built My Own](https://dev.to/nullc0d3/the-hacker-had-a-playbook-so-i-built-my-own-1ong)
-- [How to Demotivate Your Development Team And Make Them Leave &lpar;Guaranteed Results&rpar;](https://dev.to/canro91/how-to-demotivate-your-development-team-and-make-them-leave-guaranteed-results-6ha)
-- [FACEIO: Facial Login &amp; Attendance for Modern Web Apps](https://dev.to/dev_kiran/faceio-facial-login-attendance-for-modern-web-apps-387l)
+- [Como cheguei até o padrão CQRS naturalmente?](https://dev.to/ortizdavid/como-cheguei-ate-o-padrao-cqrs-naturalmente-3c9c)
+- [Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation Practices #2](https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a)
+- [Could an AI Coach Actually Fix Rehab? Our Hackathon Experiment](https://dev.to/lukem94/could-an-ai-coach-actually-fix-rehab-our-hackathon-experiment-3lbi)
+- [🧠 Productivity Tips for Self-Taught Developers: Build Faster, Smarter, Stronger](https://dev.to/vjygour/productivity-tips-for-self-taught-developers-build-faster-smarter-stronger-4foh)
+- [Unpacking the EVM: Opcodes – The DNA of Ethereum Smart Contracts 🧬](https://dev.to/ouma_ouma/unpacking-the-evm-opcodes-the-dna-of-ethereum-smart-contracts-2fob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
