@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
-- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
-- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
-- [Design Style Slider](https://dev.to/alansdead/design-style-slider-3o56)
-- [Understand JOINs in MySQL Easily](https://dev.to/freyasky/understand-joins-in-mysql-easily-2df9)
+- [🧠 Cursor’s Journey: A Case Study in Developer-Focused AI Assistants](https://dev.to/hmzas/cursors-journey-a-case-study-in-developer-focused-ai-assistants-5cid)
+- [How Do Machines Learn? A Beginner-Friendly Breakdown](https://dev.to/cuongnp/how-do-machines-learn-a-beginner-friendly-breakdown-50l6)
+- [ChatGPT Agent Not Working? Here&#39;s How to Fix Common Issues](https://dev.to/alifar/chatgpt-agent-not-working-heres-how-to-fix-common-issues-9bm)
+- [🌌 Coding Among the Stars: How Software Engineering and AI Are Writing the Universe’s Next Chapter](https://dev.to/alireza_minagar_99f01ecb6/coding-among-the-stars-how-software-engineering-and-ai-are-writing-the-universes-next-chapter-3n52)
+- [THE JAVA TYPE CASTING BUG –YOU’VE PROBABLY OVERLOOKED](https://dev.to/sandaruwan_wadiyage/the-java-type-casting-bug-youve-probably-overlooked-h34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
