@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 20K+ Downloads in 141 Days — My Journey Building CosmoTalker 🌌](https://dev.to/bhuvaneshm_dev/-20k-downloads-in-141-days-my-journey-building-cosmotalker-433)
-- [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
-- [The 10 Most Common DevOps Mistakes &lpar;And How to Avoid Them in 2025&rpar;](https://dev.to/devopsdaily/the-10-most-common-devops-mistakes-and-how-to-avoid-them-in-2025-52gi)
-- [Building Custom Artisan Commands with Advanced Features](https://dev.to/addwebsolutionpvtltd/building-custom-artisan-commands-with-advanced-features-15cp)
-- [The Impact of Warranty Management Software on Supply Chain Operations](https://dev.to/digiwarr/the-impact-of-warranty-management-software-on-supply-chain-operations-2h6c)
+- [Supercharging Development with Kiro IDE: A Real-World Experience](https://dev.to/amit_pandey_63bfa9a4019b6/supercharging-development-with-kiro-ide-a-real-world-experience-46k2)
+- [How to Set Up a Raspberry Pi Tunnel for Remote Access](https://dev.to/lightningdev123/how-to-set-up-a-raspberry-pi-tunnel-for-remote-access-1fne)
+- [Fundamental concept in cloud computing](https://dev.to/u_oghenemaro/fundamental-concept-in-cloud-computing-5e99)
+- [How Cloud-Based GPU Virtualization Is Changing VDI for Developers](https://dev.to/nextgengpu/how-cloud-based-gpu-virtualization-is-changing-vdi-for-developers-5eaj)
+- [🎨 Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;: Teaching K8s New Tricks ✨](https://dev.to/hritikraj8804/kubernetes-custom-resource-definitions-crds-teaching-k8s-new-tricks-1gj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
