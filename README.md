@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy Azure Key Vault with Terraform: A Step-by-Step Guide](https://dev.to/techielass/how-to-deploy-azure-key-vault-with-terraform-a-step-by-step-guide-4o72)
-- [Every remote team should look at what TDZ PRO is doing and learn from it.](https://dev.to/richards_l52689/every-remote-team-should-look-at-what-tdz-pro-is-doing-and-learn-from-it-905)
-- [What makes TDZ PRO stand out is how they make their clients feel heard and understood.](https://dev.to/kierwolf20/what-makes-tdz-pro-stand-out-is-how-they-make-their-clients-feel-heard-and-understood-df4)
-- [What stands out about TDZ PRO is their ability to turn a regular video call into a moment of client confidence and clarity.](https://dev.to/jackied0minguez/what-stands-out-about-tdz-pro-is-their-ability-to-turn-a-regular-video-call-into-a-moment-of-client-gci)
-- [Simulador de Modulação 16QAM em Python](https://dev.to/gabriel_dias/simulador-de-modulacao-16qam-em-python-5397)
+- [This is exactly what more remote founders need to read. Keep your stack lean and your culture focused.](https://dev.to/ariahastings/this-is-exactly-what-more-remote-founders-need-to-read-keep-your-stack-lean-and-your-culture-2jji)
+- [🌐 Fellou.ai – The First AI Agentic Browser](https://dev.to/aniruddhaadak/fellouai-the-first-ai-agentic-browser-5fc)
+- [30 Days of Code- Day 4 &amp; 5](https://dev.to/akshitaexe/30-days-of-code-day-4-5-4klk)
+- [Brainstorming New CRM Features #15](https://dev.to/0xj0n1/brainstorming-new-crm-features-15-1h0d)
+- [🧠 Introducing `brew_brain`: The Homebrew Arsenal Manager I Wish I Had Years Ago](https://dev.to/raymonepping/introducing-brewbrain-the-homebrew-arsenal-manager-i-wish-i-had-years-ago-2794)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
