@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Ai Design &lpar;ChatGPT&rpar;](https://dev.to/egyptain_eng/beyond-ai-design-chatgpt-2oe5)
-- [Stay ahead in web development: latest news, tools, and insights #94](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-94-1627)
-- [Amazon S3 Vectors: Insert &amp; Query Embeddings with Indian Snacks &lpar;Titan + Bedrock Demo&rpar;](https://dev.to/aws-builders/amazon-s3-vectors-insert-query-embeddings-with-indian-snacks-titan-bedrock-demo-1mc3)
-- [How we Created a Simpsonize Yourself Service in 1 Week](https://dev.to/stargazermedia/how-we-created-a-simpsonize-yourself-service-in-1-week-18jf)
-- [🚀 Build AI Agents from a Prompt — Meet Nexent, the Open-Source Agent Platform](https://dev.to/nexent/build-ai-agents-from-a-prompt-meet-nexent-the-open-source-agent-platform-4029)
+- [Reading and Writing RFID Cards with Raspberry Pi](https://dev.to/admantium/reading-and-writing-rfid-cards-with-raspberry-pi-9di)
+- [How I Built an AI-Powered Face Recognition App from Scratch](https://dev.to/wasihf/how-i-built-an-ai-powered-face-recognition-app-from-scratch-1k18)
+- [The Hacker Had a Playbook - So I Built My Own](https://dev.to/nullc0d3/the-hacker-had-a-playbook-so-i-built-my-own-1ong)
+- [How to Demotivate Your Development Team And Make Them Leave &lpar;Guaranteed Results&rpar;](https://dev.to/canro91/how-to-demotivate-your-development-team-and-make-them-leave-guaranteed-results-6ha)
+- [FACEIO: Facial Login &amp; Attendance for Modern Web Apps](https://dev.to/dev_kiran/faceio-facial-login-attendance-for-modern-web-apps-387l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
