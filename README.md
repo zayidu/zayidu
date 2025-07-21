@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kinde Billing Actually Works](https://dev.to/sholajegede/how-kinde-billing-actually-works-8fc)
-- [Something I made to keep my extensions organized](https://dev.to/modcoretech/something-i-made-to-keep-my-extensions-organized-5fh9)
-- [Add Billing to Your SaaS in Under 10 Minutes &lpar;With Kinde&rpar;](https://dev.to/sholajegede/add-billing-to-your-saas-in-under-10-minutes-with-kinde-20md)
-- [Entering Web3: Build Your First dApp on Ethereum in 30 Minutes](https://dev.to/darkiepinkman/entering-web3-build-your-first-dapp-on-ethereum-in-30-minutes-1c2b)
-- [DevLog 20250720](https://dev.to/nfc-charles/devlog-20250720-4g3i)
+- [Serverless Scaling: Deploying Strands + MCP on AWS](https://dev.to/om_shree_0709/serverless-scaling-deploying-strands-mcp-on-aws-2o54)
+- [How to Interactively Retrieve Terminal History](https://dev.to/marcosplusplus/how-to-interactively-retrieve-terminal-history-3f6n)
+- [From Darkness to Light: How a Final Chance Reignited My Dream](https://dev.to/__8ffb969b14cef9/from-darkness-to-light-how-a-final-chance-reignited-my-dream-5e67)
+- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-5gk)
+- [Why Your Org Chart is About to Disappear](https://dev.to/seanmccurdy/why-your-org-chart-is-about-to-disappear-2hj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
