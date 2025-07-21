@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Release Unused Elastic IPs on AWS with One Prompt](https://dev.to/rebase-ai/how-to-release-unused-elastic-ips-on-aws-with-one-prompt-3hi8)
-- [Building a Sales Analytics Dashboard on Azure PostgreSQL + Azure Data Studio](https://dev.to/cli_tayo/building-a-sales-analytics-dashboard-on-azure-postgresql-azure-data-studio-1kd7)
-- [How to Run Payload CMS in Docker](https://dev.to/wimadev/how-to-run-payload-cms-in-docker-5gn1)
-- [Error code: Wsl/Service/AttachDisk/0x8007000f](https://dev.to/hardyweb/error-code-wslserviceattachdisk0x8007000f-2fem)
-- [Building a Real-Time Notification System in MediaWiki Using Extension Hooks and WebSockets](https://dev.to/hexshift/building-a-real-time-notification-system-in-mediawiki-using-extension-hooks-and-websockets-2jlg)
+- [🔥 Top 5 Emerging Trends in Smart Home AI for 2025](https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30)
+- [It is all about politics](https://dev.to/grzegorzgrzegorz/it-is-all-about-politics-2fgm)
+- [Demystifying DevOps](https://dev.to/paulanaekwe/demystifying-devops-mfh)
+- [Como integrar AWS Cognito com S3 usando IAM: segurança e performance para aplicações modernas](https://dev.to/ricardoproenca-dev/como-integrar-aws-cognito-com-s3-usando-iam-seguranca-e-performance-para-aplicacoes-modernas-j5i)
+- [[Boost]](https://dev.to/seyedahmaddv/-22d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
