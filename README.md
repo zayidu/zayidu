@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Socrates Deutschland 2025](https://dev.to/mbjelac/socrates-deutschland-2025-2h11)
+- [Install GE-Proton on Linux](https://dev.to/harry_tanama_51571ebf90b6/install-ge-proton-on-linux-1ejl)
+- [Rethinking Playwright MCP: From Chat Prompts to Feature Files](https://dev.to/mayur_waghela/rethinking-playwright-mcp-from-chat-prompts-to-feature-files-4237)
 - [🔥 Top 5 Emerging Trends in Smart Home AI for 2025](https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30)
 - [It is all about politics](https://dev.to/grzegorzgrzegorz/it-is-all-about-politics-2fgm)
-- [Demystifying DevOps](https://dev.to/paulanaekwe/demystifying-devops-mfh)
-- [Como integrar AWS Cognito com S3 usando IAM: segurança e performance para aplicações modernas](https://dev.to/ricardoproenca-dev/como-integrar-aws-cognito-com-s3-usando-iam-seguranca-e-performance-para-aplicacoes-modernas-j5i)
-- [[Boost]](https://dev.to/seyedahmaddv/-22d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
