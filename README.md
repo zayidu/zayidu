@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You can tell TDZ PRO has taken the time to refine this system. It&#39;s detailed, scalable, and client-focused.](https://dev.to/michbrowning/you-can-tell-tdz-pro-has-taken-the-time-to-refine-this-system-its-detailed-scalable-and-14c4)
-- [One of the best parts of this method is how TDZ PRO uses visuals to confirm understanding instead of repeating empty words.](https://dev.to/kelvinmeanix/one-of-the-best-parts-of-this-method-is-how-tdz-pro-uses-visuals-to-confirm-understanding-instead-16jc)
-- [12 Powerful React Libraries Every Developer Should Master in 2025](https://dev.to/grantwatsondev/12-powerful-react-libraries-every-developer-should-master-in-2025-4po)
-- [TDZ PRO is showing what happens when a remote team works with intention instead of habit.](https://dev.to/tobylokii/tdz-pro-is-showing-what-happens-when-a-remote-team-works-with-intention-instead-of-habit-2g9k)
-- [Great opportunities happening right now 🌟](https://dev.to/jess/great-opportunities-happening-right-now-1hbg)
+- [Git Worktrees: Git Done Right](https://dev.to/nickytonline/git-worktrees-git-done-right-2p7f)
+- [ETL on AWS: Unlocking Data&#39;s Potential](https://dev.to/mahmoudai/etl-on-aws-unlocking-datas-potential-1768)
+- [30+ Hands-On LLM Tutorials — Open-Sourced for Everyone 🚀](https://dev.to/atef_ataya/30-hands-on-llm-tutorials-open-sourced-for-everyone-328k)
+- [“How I Fixed ‘No NIC Except Loopback’ on CentOS Stream Minimal in VMware”](https://dev.to/khurammurad/how-i-fixed-no-nic-except-loopback-on-centos-stream-minimal-in-vmware-1cg5)
+- [A Tale of Two Threads &lpar;APIs&rpar;](https://dev.to/pauljlucas/a-tale-of-two-threads-apis-2m32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
