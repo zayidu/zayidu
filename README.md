@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Development with Kiro IDE: A Real-World Experience](https://dev.to/amit_pandey_63bfa9a4019b6/supercharging-development-with-kiro-ide-a-real-world-experience-46k2)
-- [How to Set Up a Raspberry Pi Tunnel for Remote Access](https://dev.to/lightningdev123/how-to-set-up-a-raspberry-pi-tunnel-for-remote-access-1fne)
-- [Fundamental concept in cloud computing](https://dev.to/u_oghenemaro/fundamental-concept-in-cloud-computing-5e99)
-- [How Cloud-Based GPU Virtualization Is Changing VDI for Developers](https://dev.to/nextgengpu/how-cloud-based-gpu-virtualization-is-changing-vdi-for-developers-5eaj)
-- [🎨 Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;: Teaching K8s New Tricks ✨](https://dev.to/hritikraj8804/kubernetes-custom-resource-definitions-crds-teaching-k8s-new-tricks-1gj6)
+- [Deploying Jozu On-Premise: Architecture &amp; Workflow Overview](https://dev.to/jozu/deploying-jozu-on-premise-architecture-workflow-overview-50p7)
+- [Working on the sidebar that connects subforems — close to making this more of a first-class feature.](https://dev.to/ben/working-on-the-sidebar-that-connects-subforems-close-to-making-this-more-of-a-first-class-feature-42jn)
+- [Kiro vs Cursor: How Amazon’s AI IDE Is Redefining Developer Productivity](https://dev.to/aws-builders/kiro-vs-cursor-how-amazons-ai-ide-is-redefining-developer-productivity-3eg8)
+- [Golf.com: Scheffler Dominates Royal Portrush | Inside Scottie&#39;s Triumph at The Open](https://dev.to/youtube_golf/golfcom-scheffler-dominates-royal-portrush-inside-scotties-triumph-at-the-open-4gf7)
+- [How to Send Email Alerts for Failures in Spring Boot Using Prometheus and Alertmanager](https://dev.to/mspilari/how-to-send-email-alerts-for-circuit-breaker-failures-in-spring-boot-using-prometheus-and-dp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
