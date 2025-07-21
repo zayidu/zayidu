@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Scaling: Deploying Strands + MCP on AWS](https://dev.to/om_shree_0709/serverless-scaling-deploying-strands-mcp-on-aws-2o54)
-- [How to Interactively Retrieve Terminal History](https://dev.to/marcosplusplus/how-to-interactively-retrieve-terminal-history-3f6n)
-- [From Darkness to Light: How a Final Chance Reignited My Dream](https://dev.to/__8ffb969b14cef9/from-darkness-to-light-how-a-final-chance-reignited-my-dream-5e67)
-- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-5gk)
-- [Why Your Org Chart is About to Disappear](https://dev.to/seanmccurdy/why-your-org-chart-is-about-to-disappear-2hj9)
+- [Serverless Scaling: Deploying Strands + MCP on AWS](https://dev.to/om_shree_0709/serverless-scaling-deploying-strands-mcp-on-aws-485o)
+- [Built by Subagents: A Collaborative API Playground for Kids](https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je)
+- [How to Distribute a Statically Linked Crystal Binary on macOS with GitHub Actions](https://dev.to/kojix2/how-to-distribute-a-statically-linked-crystal-binary-on-macos-with-github-actions-1gc6)
+- [The Future of Brand Design: Merging Creativity with AI Tools](https://dev.to/awaishashmi/the-future-of-brand-design-merging-creativity-with-ai-tools-2p1a)
+- [Advanced Angular Testing: 10+ Real-World Mocking Scenarios That Actually Work](https://dev.to/codewithrajat/advanced-angular-testing-10-real-world-mocking-scenarios-that-actually-work-1no4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
