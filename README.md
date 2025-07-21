@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is exactly what more remote founders need to read. Keep your stack lean and your culture focused.](https://dev.to/ariahastings/this-is-exactly-what-more-remote-founders-need-to-read-keep-your-stack-lean-and-your-culture-2jji)
-- [🌐 Fellou.ai – The First AI Agentic Browser](https://dev.to/aniruddhaadak/fellouai-the-first-ai-agentic-browser-5fc)
-- [30 Days of Code- Day 4 &amp; 5](https://dev.to/akshitaexe/30-days-of-code-day-4-5-4klk)
-- [Brainstorming New CRM Features #15](https://dev.to/0xj0n1/brainstorming-new-crm-features-15-1h0d)
-- [🧠 Introducing `brew_brain`: The Homebrew Arsenal Manager I Wish I Had Years Ago](https://dev.to/raymonepping/introducing-brewbrain-the-homebrew-arsenal-manager-i-wish-i-had-years-ago-2794)
+- [How to Release Unused Elastic IPs on AWS with One Prompt](https://dev.to/rebase-ai/how-to-release-unused-elastic-ips-on-aws-with-one-prompt-3hi8)
+- [Building a Sales Analytics Dashboard on Azure PostgreSQL + Azure Data Studio](https://dev.to/cli_tayo/building-a-sales-analytics-dashboard-on-azure-postgresql-azure-data-studio-1kd7)
+- [How to Run Payload CMS in Docker](https://dev.to/wimadev/how-to-run-payload-cms-in-docker-5gn1)
+- [Error code: Wsl/Service/AttachDisk/0x8007000f](https://dev.to/hardyweb/error-code-wslserviceattachdisk0x8007000f-2fem)
+- [Building a Real-Time Notification System in MediaWiki Using Extension Hooks and WebSockets](https://dev.to/hexshift/building-a-real-time-notification-system-in-mediawiki-using-extension-hooks-and-websockets-2jlg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
