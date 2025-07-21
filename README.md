@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Design for Feature Rollbacks &lpar;Not Just Rollouts&rpar;](https://dev.to/dct_technology/why-you-should-design-for-feature-rollbacks-not-just-rollouts-52dm)
-- [ByteEditor 4.0: Revolutionary Visual Website Design Builder for Umbraco Developers](https://dev.to/byteeditor/byteeditor-40-revolutionary-visual-website-design-builder-for-umbraco-developers-2i5h)
-- [Webinar Technology &amp; Analytics: Platforms, Integration, Metrics, Compliance, and AI Personalisation](https://dev.to/jack_davis_72eff1ff3e4afd/webinar-technology-analytics-platforms-integration-metrics-compliance-and-ai-f9m)
-- [From Trainee to Software Engineer: A 5 Year Journey Through Code, Growth, and AI](https://dev.to/jsandaruwan/from-trainee-to-software-engineer-a-5-year-journey-through-code-growth-and-ai-53f4)
-- [Firebase Project Setup: Your Complete Getting Started Guide 🔥](https://dev.to/this-is-learning/firebase-project-setup-your-complete-getting-started-guide-3k23)
+- [🚀 20K+ Downloads in 141 Days — My Journey Building CosmoTalker 🌌](https://dev.to/bhuvaneshm_dev/-20k-downloads-in-141-days-my-journey-building-cosmotalker-433)
+- [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
+- [The 10 Most Common DevOps Mistakes &lpar;And How to Avoid Them in 2025&rpar;](https://dev.to/devopsdaily/the-10-most-common-devops-mistakes-and-how-to-avoid-them-in-2025-52gi)
+- [Building Custom Artisan Commands with Advanced Features](https://dev.to/addwebsolutionpvtltd/building-custom-artisan-commands-with-advanced-features-15cp)
+- [The Impact of Warranty Management Software on Supply Chain Operations](https://dev.to/digiwarr/the-impact-of-warranty-management-software-on-supply-chain-operations-2h6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
