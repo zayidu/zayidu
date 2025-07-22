@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Sierra Leone to the World: My Dev Journey + Productivity App in Progress](https://dev.to/mattialavai/from-sierra-leone-to-the-world-my-dev-journey-productivity-app-in-progress-5bhj)
-- [Dependency Injection in Go: The Simple Way to More Testable Code](https://dev.to/ashukr22/dependency-injection-in-go-the-simple-way-to-more-testable-code-1ied)
-- [Pulse - The Living Workplace Dashboard](https://dev.to/vivek-aws/pulse-the-living-workplace-dashboard-5af2)
-- [How to Integrate OpenAI in a React App &lpar;Step-by-Step&rpar;](https://dev.to/aneeqakhan/how-to-integrate-openai-in-a-react-app-step-by-step-2k3)
-- [Understanding Statements vs. Expressions in JavaScript](https://dev.to/wisdomudo/understanding-statements-vs-expressions-in-javascript-3acn)
+- [Understanding Measures of Central Tendency and Their Importance in Data Science](https://dev.to/wanjirunjoroge/understanding-measures-of-central-tendency-and-their-importance-in-data-science-1e98)
+- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
+- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
+- [Routing in Laravel](https://dev.to/younes_nz/routing-in-laravel-1lk7)
+- [CLI vs IDE Coding Agents: Choose the Right One for 10x Productivity!](https://dev.to/forgecode/cli-vs-ide-coding-agents-choose-the-right-one-for-10x-productivity-5gkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
