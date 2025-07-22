@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Var vs Dynamic vs Object in c#](https://dev.to/shreyans_padmani/var-vs-dynamic-vs-object-in-c-1g30)
-- [Intro to OpenTelemetry Weaver](https://dev.to/sirivarma/intro-to-opentelemetry-weaver-4om1)
-- [How to Build a Resumable File Uploader in React with Node.js and resumable.js](https://dev.to/hackmack4772/how-to-build-a-resumable-file-uploader-in-react-with-nodejs-and-resumablejs-2m79)
-- [The AI era is really conducive to our independent development](https://dev.to/mkstudio/the-ai-era-is-really-conducive-to-our-independent-development-25h0)
-- [The 4 Most Common SSD Procurement Mistakes - And How to Avoid Them with Confidence](https://dev.to/ali_matt_acea81a3262a4b85/the-4-most-common-ssd-procurement-mistakes-and-how-to-avoid-them-with-confidence-4n6b)
+- [Solid list!](https://dev.to/jimmylin/solid-list-49e)
+- [I want to disable one field and enable another when selecting an option from the select. How can I do that with jQuery?](https://dev.to/joao_macondo/i-want-to-disable-one-field-and-enable-another-when-selecting-an-option-from-the-select-how-can-i-b8c)
+- [Day-62 Java BankAccount Program](https://dev.to/tamilselvan1812/day-62-java-bankaccount-program-4783)
+- [Understanding SSL Certificates and Domain Expiry](https://dev.to/netsi1964/understanding-ssl-certificates-and-domain-expiry-553f)
+- [Verified Mark Certificate Guide](https://dev.to/edenallen/verified-mark-certificate-guide-398)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
