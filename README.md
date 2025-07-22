@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Measures of Central Tendency and Their Importance in Data Science](https://dev.to/wanjirunjoroge/understanding-measures-of-central-tendency-and-their-importance-in-data-science-1e98)
-- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
-- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
-- [Routing in Laravel](https://dev.to/younes_nz/routing-in-laravel-1lk7)
-- [CLI vs IDE Coding Agents: Choose the Right One for 10x Productivity!](https://dev.to/forgecode/cli-vs-ide-coding-agents-choose-the-right-one-for-10x-productivity-5gkc)
+- [Building RideLink with Bolt.new: From Frustration to Functional App in One Month](https://dev.to/tiagohgl/building-ridelink-with-boltnew-from-frustration-to-functional-app-in-one-month-58me)
+- [How I Use AI to Run My Digital Nomad Business &lpar;While Traveling the World&rpar;](https://dev.to/jcberg/how-i-use-ai-to-run-my-digital-nomad-business-while-traveling-the-world-3gjo)
+- [Measures of central tendency and their significance in the field of data science](https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76)
+- [Teaching the Toaster: What We Get Wrong About AI &quot;Learning&quot;](https://dev.to/darcee/teaching-the-toaster-what-we-get-wrong-about-ai-learning-2ka8)
+- [Understanding LLMs: A Beginner’s Guide for Non-AI Folks](https://dev.to/madhumanti_majumdar_5dd94/understanding-llms-a-beginners-guide-for-non-ai-folks-4m7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
