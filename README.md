@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We raised $29M to make your agents stronger, smarter, and better](https://dev.to/composiodev/we-raised-29m-to-make-your-agents-stronger-smarter-and-better-3fa2)
-- [Mean, Median and Mode in Statistics](https://dev.to/makenakinyua/mean-median-and-mode-in-statistics-1clm)
-- [These TypeScript Bugs Look Innocent—But Cost Me Hours](https://dev.to/devshahrukh/these-typescript-bugs-look-innocent-but-cost-me-hours-p9h)
-- [Level Up Your Go Code: Must-Know Design Patterns for Cleaner, Scalable Apps](https://dev.to/shrsv/level-up-your-go-code-must-know-design-patterns-for-cleaner-scalable-apps-28g2)
-- [WORLD HACKATHON EXPERIENCE SERIES 1](https://dev.to/theneverdone/world-hackathon-experience-series-1-237)
+- [How AI Is Revolutionizing Industrial Automation &lpar;Faster Than You Think!&rpar;](https://dev.to/ab_devilliars365/how-ai-is-revolutionizing-industrial-automation-faster-than-you-think-93p)
+- [Building Real-Time Web Apps with WebTransport &lpar;Replacing WebSockets?&rpar;](https://dev.to/mukhilpadmanabhan/building-real-time-web-apps-with-webtransport-replacing-websockets-3348)
+- [How to Choose Career-Focused Degrees That Employers Want](https://dev.to/aspseo10/how-to-choose-career-focused-degrees-that-employers-want-lbg)
+- [Vector Databases for Data Scientists: What, Why, and When to Use Them](https://dev.to/fahad_dev/vector-databases-for-data-scientists-what-why-and-when-to-use-them-54m2)
+- [How to Install Docker Engine on Ubuntu &lpar;Debian&rpar;](https://dev.to/coder7475/how-to-install-docker-engine-on-ubuntu-debian-3nbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
