@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with Perfect Engineers](https://dev.to/remejuan/the-problem-with-perfect-engineers-3jbm)
-- [I made a website for my video game backlog](https://dev.to/samejima/i-made-a-website-for-my-video-game-backlog-5fci)
-- [What are the key components of a Portfolio Management Plan?](https://dev.to/writegenic/what-are-the-key-components-of-a-portfolio-management-plan-21j4)
-- [NativeMind vs LM Studio: Which One is Better?](https://dev.to/nativemind/nativemind-vs-lm-studio-which-one-is-better-2j4)
-- [Slowly Changing Dimensions: Strategies for Maintaining History and Integrity in Analytical Systems](https://dev.to/andrey_s/slowly-changing-dimensions-strategies-for-maintaining-history-and-integrity-in-analytical-systems-295l)
+- [Python Write JSON to File](https://dev.to/kiani0x01/python-write-json-to-file-587d)
+- [Building a Multiplayer Board Game with JavaScript and WebSockets](https://dev.to/krishanvijay/building-a-multiplayer-board-game-with-javascript-and-websockets-4fae)
+- [My Story of Moving From Confusion to Understanding: Selecting My Online MBA](https://dev.to/degreefyd_c3e52347094da8e/my-story-of-moving-from-confusion-to-understanding-selecting-my-online-mba-4npl)
+- [My Story of Moving From Confusion to Understanding: Selecting My Online MBA](https://dev.to/degreefyd_c3e52347094da8e/my-story-of-moving-from-confusion-to-understanding-selecting-my-online-mba-4p4k)
+- [🚀 Day 11 of #100DaysOfRust: Organizing Modules Across Files &amp; Intro to Common Collections](https://dev.to/subesh_yadav/day-11-of-100daysofrust-organizing-modules-across-files-intro-to-common-collections-jb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
