@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solid list!](https://dev.to/jimmylin/solid-list-49e)
-- [I want to disable one field and enable another when selecting an option from the select. How can I do that with jQuery?](https://dev.to/joao_macondo/i-want-to-disable-one-field-and-enable-another-when-selecting-an-option-from-the-select-how-can-i-b8c)
-- [Day-62 Java BankAccount Program](https://dev.to/tamilselvan1812/day-62-java-bankaccount-program-4783)
-- [Understanding SSL Certificates and Domain Expiry](https://dev.to/netsi1964/understanding-ssl-certificates-and-domain-expiry-553f)
-- [Verified Mark Certificate Guide](https://dev.to/edenallen/verified-mark-certificate-guide-398)
+- [The Problem with Perfect Engineers](https://dev.to/remejuan/the-problem-with-perfect-engineers-3jbm)
+- [I made a website for my video game backlog](https://dev.to/samejima/i-made-a-website-for-my-video-game-backlog-5fci)
+- [What are the key components of a Portfolio Management Plan?](https://dev.to/writegenic/what-are-the-key-components-of-a-portfolio-management-plan-21j4)
+- [NativeMind vs LM Studio: Which One is Better?](https://dev.to/nativemind/nativemind-vs-lm-studio-which-one-is-better-2j4)
+- [Slowly Changing Dimensions: Strategies for Maintaining History and Integrity in Analytical Systems](https://dev.to/andrey_s/slowly-changing-dimensions-strategies-for-maintaining-history-and-integrity-in-analytical-systems-295l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
