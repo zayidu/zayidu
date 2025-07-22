@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Refining Language Models Could Be A Smart Move](https://dev.to/gamepill/why-refining-language-models-could-be-a-smart-move-55lm)
-- [📊 Measures of Central Tendency: Foundations of Data Interpretation in Data Science](https://dev.to/godwill98/measures-of-central-tendency-foundations-of-data-interpretation-in-data-science-5393)
-- [Understanding Session Storage in Web Development: Pros, Cons, and Implementations](https://dev.to/elizabethsobiya/understanding-session-storage-in-web-development-pros-cons-and-implementations-2b48)
-- [Claude Code + Any AI Model = 90% Cost Savings &lpar;Introducing CCProxy&rpar;](https://dev.to/praneybehl/claude-code-any-ai-model-90-cost-savings-introducing-ccproxy-24al)
-- [useTransition !== debounced functions](https://dev.to/borzoomv/usetransition-debounced-functions-1igi)
+- [Guides To Python Web App on AWS Lightsail](https://dev.to/haroffcode/guides-to-python-web-app-on-aws-lightsail-i9a)
+- [Is your Vector Database Really Fast?](https://dev.to/redis/is-your-vector-database-really-fast-i62)
+- [Python is DEAD](https://dev.to/thetechpreneur/python-is-dead-58b0)
+- [Tailwind in Reality: Bringing CSS Classes to Life with AI Videos!](https://dev.to/alimobasheri/tailwind-in-reality-bringing-css-classes-to-life-with-ai-videos-40li)
+- [Fixing Clangd &quot;No Locations Found&quot; Error in Neovim for C++ Projects](https://dev.to/arunpal_/fixing-clangd-no-locations-found-error-in-neovim-for-c-projects-2pgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
