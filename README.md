@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: using import, and some hidden pitfalls](https://dev.to/setevoy/terraform-using-import-and-some-hidden-pitfalls-4348)
-- [My 2-Year-Old Built His First Video Game in 8 Minutes Using AI &lpar;Complete Setup Guide&rpar;](https://dev.to/raisingpixels/my-2-year-old-built-his-first-video-game-in-8-minutes-using-ai-complete-setup-guide-3amo)
-- [AWS Auto Scaling Groups: A Fundamental Mistake &lpar;Beginner Edition&rpar;](https://dev.to/deepaksonii/aws-auto-scaling-groups-a-fundamental-mistake-beginner-edition-13k9)
-- [Securing Your Internal Tools: Implementing Identity-Aware Proxy &lpar;IAP&rpar; for GKE Resources with CDKTF](https://dev.to/cloudiepad/securing-your-internal-tools-implementing-identity-aware-proxy-iap-for-gke-resources-with-cdktf-gm5)
-- [🚀 Day 15 - DSA Problem Solving: Generate Alternating Binary Triangle Pattern](https://dev.to/abhishek-nexgen-dev/day-15-dsa-problem-solving-generate-alternating-binary-triangle-pattern-4a94)
+- [Why I Built Imagen4 After 200 Failed AI Image Generations](https://dev.to/denardis_asquith_bd891d95/why-i-built-imagen4-after-200-failed-ai-image-generations-5cdk)
+- [SphereConnect: Creating Team Vibes for Axero&#39;s Intranet Challenge](https://dev.to/highflyer910/sphereconnect-creating-team-vibes-for-axeros-intranet-challenge-41jb)
+- [Has Alibaba&#39;s New Qwen3 AI Really Outperformed Kimi K2 and Claude 4 Opus While Being Open Source?](https://dev.to/jovin_george_733dcfc16291/has-alibabas-new-qwen3-ai-really-outperformed-kimi-k2-and-claude-4-opus-while-being-open-source-2e2b)
+- [What Is an AI Cyber Attack? Understanding Modern AI-Driven Threats](https://dev.to/cygeniq_ai_48d24820ff2bff/what-is-an-ai-cyber-attack-understanding-modern-ai-driven-threats-4o18)
+- [What Is Isaac Sim? Features, Use Cases &amp; Setup Guide](https://dev.to/thenexttech/what-is-isaac-sim-features-use-cases-setup-guide-3ke9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
