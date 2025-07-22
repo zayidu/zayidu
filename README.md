@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a medical chatbot using GraphRAG with SurrealDB + LangChain](https://dev.to/surrealdb/make-a-medical-chatbot-using-graphrag-with-surrealdb-langchain-2oa)
-- [What started as a wild idea in a hackathon has now become my mission. 🚫 Say goodbye to luxury fakes. 🔍 Say hello to GetFake.ai built with GPT-4 Vision to see beyond the human eye. Let’s build tools that actually protect people. #devchallenge #wlhc](https://dev.to/getappsai/what-started-as-a-wild-idea-in-a-hackathon-has-now-become-my-mission-say-goodbye-to-luxury-265h)
-- [Quick Tip: How I Compare Dates Properly in React &lpar;JavaScript Date Gotcha&rpar;](https://dev.to/prs-dev/quick-tip-how-i-compare-dates-properly-in-react-javascript-date-gotcha-4mg8)
-- [Environment Variables: A Guide to Configuration Management](https://dev.to/nasrulhazim/environment-variables-a-guide-to-configuration-management-469k)
-- [The most powerful LLMs are only as reliable as the documentation that shapes them.](https://dev.to/brii_toe_knee/the-most-powerful-llms-are-only-as-reliable-as-the-documentation-that-shapes-them-1293)
+- [Var vs Dynamic vs Object in c#](https://dev.to/shreyans_padmani/var-vs-dynamic-vs-object-in-c-1g30)
+- [Intro to OpenTelemetry Weaver](https://dev.to/sirivarma/intro-to-opentelemetry-weaver-4om1)
+- [How to Build a Resumable File Uploader in React with Node.js and resumable.js](https://dev.to/hackmack4772/how-to-build-a-resumable-file-uploader-in-react-with-nodejs-and-resumablejs-2m79)
+- [The AI era is really conducive to our independent development](https://dev.to/mkstudio/the-ai-era-is-really-conducive-to-our-independent-development-25h0)
+- [The 4 Most Common SSD Procurement Mistakes - And How to Avoid Them with Confidence](https://dev.to/ali_matt_acea81a3262a4b85/the-4-most-common-ssd-procurement-mistakes-and-how-to-avoid-them-with-confidence-4n6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
