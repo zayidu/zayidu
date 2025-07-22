@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building RideLink with Bolt.new: From Frustration to Functional App in One Month](https://dev.to/tiagohgl/building-ridelink-with-boltnew-from-frustration-to-functional-app-in-one-month-58me)
-- [How I Use AI to Run My Digital Nomad Business &lpar;While Traveling the World&rpar;](https://dev.to/jcberg/how-i-use-ai-to-run-my-digital-nomad-business-while-traveling-the-world-3gjo)
-- [Measures of central tendency and their significance in the field of data science](https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76)
-- [Teaching the Toaster: What We Get Wrong About AI &quot;Learning&quot;](https://dev.to/darcee/teaching-the-toaster-what-we-get-wrong-about-ai-learning-2ka8)
-- [Understanding LLMs: A Beginner’s Guide for Non-AI Folks](https://dev.to/madhumanti_majumdar_5dd94/understanding-llms-a-beginners-guide-for-non-ai-folks-4m7j)
+- [CVE-2025-49706: Microsoft SharePoint Improper Authentication Vulnerability](https://dev.to/freedom_coder/cve-2025-49706-microsoft-sharepoint-improper-authentication-vulnerability-1188)
+- [CVE-2025-49704: Microsoft SharePoint Code Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-49704-microsoft-sharepoint-code-injection-vulnerability-20kk)
+- [DevLog 20250722: &lpar;Special Project&rpar; Correct Physics Handling](https://dev.to/methodox/devlog-20250722-special-project-correct-physics-handling-36pk)
+- [97% drop in traffic. No code changes. Just added a package.](https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba)
+- [Navbar Update &amp; New Documents Feature &lpar;WIP&rpar; #16](https://dev.to/0xj0n1/navbar-update-new-documents-feature-wip-16-3gk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
