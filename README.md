@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guides To Python Web App on AWS Lightsail](https://dev.to/haroffcode/guides-to-python-web-app-on-aws-lightsail-i9a)
-- [Is your Vector Database Really Fast?](https://dev.to/redis/is-your-vector-database-really-fast-i62)
-- [Python is DEAD](https://dev.to/thetechpreneur/python-is-dead-58b0)
-- [Tailwind in Reality: Bringing CSS Classes to Life with AI Videos!](https://dev.to/alimobasheri/tailwind-in-reality-bringing-css-classes-to-life-with-ai-videos-40li)
-- [Fixing Clangd &quot;No Locations Found&quot; Error in Neovim for C++ Projects](https://dev.to/arunpal_/fixing-clangd-no-locations-found-error-in-neovim-for-c-projects-2pgl)
+- [We raised $29M to make your agents stronger, smarter, and better](https://dev.to/composiodev/we-raised-29m-to-make-your-agents-stronger-smarter-and-better-3fa2)
+- [Mean, Median and Mode in Statistics](https://dev.to/makenakinyua/mean-median-and-mode-in-statistics-1clm)
+- [These TypeScript Bugs Look Innocent—But Cost Me Hours](https://dev.to/devshahrukh/these-typescript-bugs-look-innocent-but-cost-me-hours-p9h)
+- [Level Up Your Go Code: Must-Know Design Patterns for Cleaner, Scalable Apps](https://dev.to/shrsv/level-up-your-go-code-must-know-design-patterns-for-cleaner-scalable-apps-28g2)
+- [WORLD HACKATHON EXPERIENCE SERIES 1](https://dev.to/theneverdone/world-hackathon-experience-series-1-237)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
