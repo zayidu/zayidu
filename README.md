@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Socrates Deutschland 2025](https://dev.to/mbjelac/socrates-deutschland-2025-2h11)
-- [Install GE-Proton on Linux](https://dev.to/harry_tanama_51571ebf90b6/install-ge-proton-on-linux-1ejl)
-- [Rethinking Playwright MCP: From Chat Prompts to Feature Files](https://dev.to/mayur_waghela/rethinking-playwright-mcp-from-chat-prompts-to-feature-files-4237)
-- [🔥 Top 5 Emerging Trends in Smart Home AI for 2025](https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30)
-- [It is all about politics](https://dev.to/grzegorzgrzegorz/it-is-all-about-politics-2fgm)
+- [Chapter 8 : Measuring Product Success and Learning from Outcomes](https://dev.to/taskframe/chapter-8-measuring-product-success-and-learning-from-outcomes-1p02)
+- [PixLab Vision Workspace - Best Productivity App](https://dev.to/unqlite_db/pixlab-vision-workspace-best-productivity-app-47el)
+- [Hackerrank - SQL - The PADS](https://dev.to/mrpunkdasilva/hackerrank-sql-the-pads-2ob6)
+- [Hackerrank - SQL - Select By ID](https://dev.to/mrpunkdasilva/hackerrank-sql-select-by-id-22oe)
+- [Planeje, abstraia e construa](https://dev.to/gmarkiin/planeje-abstraia-e-construa-a22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
