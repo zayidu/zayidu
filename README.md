@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 8 : Measuring Product Success and Learning from Outcomes](https://dev.to/taskframe/chapter-8-measuring-product-success-and-learning-from-outcomes-1p02)
-- [PixLab Vision Workspace - Best Productivity App](https://dev.to/unqlite_db/pixlab-vision-workspace-best-productivity-app-47el)
-- [Hackerrank - SQL - The PADS](https://dev.to/mrpunkdasilva/hackerrank-sql-the-pads-2ob6)
-- [Hackerrank - SQL - Select By ID](https://dev.to/mrpunkdasilva/hackerrank-sql-select-by-id-22oe)
-- [Planeje, abstraia e construa](https://dev.to/gmarkiin/planeje-abstraia-e-construa-a22)
+- [🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent](https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27)
+- [Dropping database column and Microservices](https://dev.to/adegiamb/dropping-database-column-and-microservices-1opk)
+- [The Physical Layer Playbook: Mastering Cable Troubleshooting](https://dev.to/andrew_despres/the-physical-layer-playbook-mastering-cable-troubleshooting-596d)
+- [Elegantblue digital clock with AI quotes and calendar](https://dev.to/emmanuel_griffith_17d8dd6/elegantblue-digital-clock-with-ai-quotes-and-calendar-9gl)
+- [Advanced PDF Optimization Techniques - 1753152](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1753152-41f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
