@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering for Developers: A Practical Guide](https://dev.to/dimagi_sihilel_0d6234fd02/prompt-engineering-for-developers-a-practical-guide-269f)
-- [Designing The Conveyor CI Pipeline Engine](https://dev.to/jimjunior/designing-the-conveyor-ci-pipeline-engine-22f1)
-- [Setting up a multi-factor dev environment for payment approvals](https://dev.to/flutterwaveeng/setting-up-a-multi-factor-dev-environment-for-payment-approvals-1blm)
-- [Data Privacy and Compliance Considerations in Webinar Marketing](https://dev.to/jack_davis_72eff1ff3e4afd/data-privacy-and-compliance-considerations-in-webinar-marketing-13gn)
-- [How to use Terraform to generate secrets](https://dev.to/techielass/how-to-use-terraform-to-generate-secrets-1loh)
+- [Terraform: using import, and some hidden pitfalls](https://dev.to/setevoy/terraform-using-import-and-some-hidden-pitfalls-4348)
+- [My 2-Year-Old Built His First Video Game in 8 Minutes Using AI &lpar;Complete Setup Guide&rpar;](https://dev.to/raisingpixels/my-2-year-old-built-his-first-video-game-in-8-minutes-using-ai-complete-setup-guide-3amo)
+- [AWS Auto Scaling Groups: A Fundamental Mistake &lpar;Beginner Edition&rpar;](https://dev.to/deepaksonii/aws-auto-scaling-groups-a-fundamental-mistake-beginner-edition-13k9)
+- [Securing Your Internal Tools: Implementing Identity-Aware Proxy &lpar;IAP&rpar; for GKE Resources with CDKTF](https://dev.to/cloudiepad/securing-your-internal-tools-implementing-identity-aware-proxy-iap-for-gke-resources-with-cdktf-gm5)
+- [🚀 Day 15 - DSA Problem Solving: Generate Alternating Binary Triangle Pattern](https://dev.to/abhishek-nexgen-dev/day-15-dsa-problem-solving-generate-alternating-binary-triangle-pattern-4a94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
