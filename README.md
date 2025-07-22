@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [USPTO to Launch AI Image-Based Prior-Art Search Tool for Design Patents in October 2025](https://dev.to/ytosko/uspto-to-launch-ai-image-based-prior-art-search-tool-for-design-patents-in-october-2025-26o6)
-- [Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors](https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8)
-- [Access Control](https://dev.to/cyberwizd/access-control-16nb)
-- [How to add loading spinner to Angular material button](https://dev.to/dhutaryan/how-to-add-loading-spinner-to-angular-material-button-1eok)
-- [🔁 How to Automate Everyday Tasks with Python – Part 2](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-3ej2)
+- [Why Refining Language Models Could Be A Smart Move](https://dev.to/gamepill/why-refining-language-models-could-be-a-smart-move-55lm)
+- [📊 Measures of Central Tendency: Foundations of Data Interpretation in Data Science](https://dev.to/godwill98/measures-of-central-tendency-foundations-of-data-interpretation-in-data-science-5393)
+- [Understanding Session Storage in Web Development: Pros, Cons, and Implementations](https://dev.to/elizabethsobiya/understanding-session-storage-in-web-development-pros-cons-and-implementations-2b48)
+- [Claude Code + Any AI Model = 90% Cost Savings &lpar;Introducing CCProxy&rpar;](https://dev.to/praneybehl/claude-code-any-ai-model-90-cost-savings-introducing-ccproxy-24al)
+- [useTransition !== debounced functions](https://dev.to/borzoomv/usetransition-debounced-functions-1igi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
