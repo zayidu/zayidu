@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Revolutionizing Industrial Automation &lpar;Faster Than You Think!&rpar;](https://dev.to/ab_devilliars365/how-ai-is-revolutionizing-industrial-automation-faster-than-you-think-93p)
-- [Building Real-Time Web Apps with WebTransport &lpar;Replacing WebSockets?&rpar;](https://dev.to/mukhilpadmanabhan/building-real-time-web-apps-with-webtransport-replacing-websockets-3348)
-- [How to Choose Career-Focused Degrees That Employers Want](https://dev.to/aspseo10/how-to-choose-career-focused-degrees-that-employers-want-lbg)
-- [Vector Databases for Data Scientists: What, Why, and When to Use Them](https://dev.to/fahad_dev/vector-databases-for-data-scientists-what-why-and-when-to-use-them-54m2)
-- [How to Install Docker Engine on Ubuntu &lpar;Debian&rpar;](https://dev.to/coder7475/how-to-install-docker-engine-on-ubuntu-debian-3nbp)
+- [From Sierra Leone to the World: My Dev Journey + Productivity App in Progress](https://dev.to/mattialavai/from-sierra-leone-to-the-world-my-dev-journey-productivity-app-in-progress-5bhj)
+- [Dependency Injection in Go: The Simple Way to More Testable Code](https://dev.to/ashukr22/dependency-injection-in-go-the-simple-way-to-more-testable-code-1ied)
+- [Pulse - The Living Workplace Dashboard](https://dev.to/vivek-aws/pulse-the-living-workplace-dashboard-5af2)
+- [How to Integrate OpenAI in a React App &lpar;Step-by-Step&rpar;](https://dev.to/aneeqakhan/how-to-integrate-openai-in-a-react-app-step-by-step-2k3)
+- [Understanding Statements vs. Expressions in JavaScript](https://dev.to/wisdomudo/understanding-statements-vs-expressions-in-javascript-3acn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
