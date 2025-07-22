@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Future of SEO: Strategy, Structure &amp; Search in 2025 and Beyond](https://dev.to/trixsec/the-future-of-seo-strategy-structure-search-in-2025-and-beyond-993)
-- [🚀 15+ Free &amp; Powerful Tools Every Developer, Hacker, and Tech Enthusiast Should Bookmark in 2025 💻✨](https://dev.to/trixsec/15-free-powerful-tools-every-developer-hacker-and-tech-enthusiast-should-bookmark-in-2025-bbb)
-- [مراحل کنترل پروژه و نقش آن در موفقیت پروژه‌های چابک](https://dev.to/parizad/mrhl-khntrl-prwjh-w-nqsh-an-dr-mwfqyt-prwjhhy-chbkh-5g08)
-- [A simple responsive navbar component with Juris](https://dev.to/artyprog/a-simple-responsive-navbar-component-with-juris-cn8)
-- [How to Build a Headless Shopify Store with React.js &amp; Next.js](https://dev.to/ryan_caldwell/how-to-build-a-headless-shopify-store-with-reactjs-nextjs-2lc7)
+- [USPTO to Launch AI Image-Based Prior-Art Search Tool for Design Patents in October 2025](https://dev.to/ytosko/uspto-to-launch-ai-image-based-prior-art-search-tool-for-design-patents-in-october-2025-26o6)
+- [Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors](https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8)
+- [Access Control](https://dev.to/cyberwizd/access-control-16nb)
+- [How to add loading spinner to Angular material button](https://dev.to/dhutaryan/how-to-add-loading-spinner-to-angular-material-button-1eok)
+- [🔁 How to Automate Everyday Tasks with Python – Part 2](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-3ej2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
