@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent](https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27)
-- [Dropping database column and Microservices](https://dev.to/adegiamb/dropping-database-column-and-microservices-1opk)
-- [The Physical Layer Playbook: Mastering Cable Troubleshooting](https://dev.to/andrew_despres/the-physical-layer-playbook-mastering-cable-troubleshooting-596d)
-- [Elegantblue digital clock with AI quotes and calendar](https://dev.to/emmanuel_griffith_17d8dd6/elegantblue-digital-clock-with-ai-quotes-and-calendar-9gl)
-- [Advanced PDF Optimization Techniques - 1753152](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1753152-41f5)
+- [The Complete Guide to Virtual Onboarding for Remote Employees](https://dev.to/kruti12/the-complete-guide-to-virtual-onboarding-for-remote-employees-5ao8)
+- [Supabase vs AWS: Database Pricing 🛢️💰 Comparison in 2025](https://dev.to/bytebase/supabase-vs-aws-database-pricing-comparison-in-2025-3ah3)
+- [The Complete Guide to Virtual Onboarding for Remote Employees](https://dev.to/devmakasana/the-complete-guide-to-virtual-onboarding-for-remote-employees-47ij)
+- [RAG Systems Model &lpar;MongoDB&rpar;](https://dev.to/charlie_barajas_353e28103/rag-systems-model-mongodb-3hl0)
+- [The Future of AI in Software Engineering: Transforming Development from Code Creation to Intelligent Orchestration](https://dev.to/dthiwanka/the-future-of-ai-in-software-engineering-transforming-development-from-code-creation-to-2kc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
