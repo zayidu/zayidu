@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the insert Method Works in This Java Linked List Functionality of insert](https://dev.to/neelakandan_ravi/how-the-insert-method-works-in-this-java-linked-list-functionality-of-insert-4kaf)
-- [Best Angular Icon Libraries](https://dev.to/masumparvej/best-angular-icon-libraries-1a84)
-- [WebSocket Revolution in Real-Time Communication&lpar;7201&rpar;](https://dev.to/member_8c78b76f/websocket-revolution-in-real-time-communication7201-504b)
-- [Rebuilding a Broken System — and Finding Our People Along the Way](https://dev.to/jgponce/rebuilding-a-broken-system-and-finding-our-people-along-the-way-589a)
-- [🚀 Building an AI-Powered Resume Optimizer with Angular, Node.js &amp; Gemini](https://dev.to/manthanank/building-an-ai-powered-resume-optimizer-with-angular-nodejs-gemini-44d8)
+- [Is Translation Software Worth Paying For?](https://dev.to/liamcorwin/is-translation-software-worth-paying-for-16oj)
+- [Passionate AI Enthusiast Seeking Opportunity to Join an AI Company | Open to Remote Work](https://dev.to/sb_shehab_e478d95091125d3/passionate-ai-enthusiast-seeking-opportunity-to-join-an-ai-company-open-to-remote-work-2c15)
+- [High-Performance Routing System Design and Implementation&lpar;9059&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation9059-c11)
+- [Choosing a financial charting library for your trading app: 7 things to look for](https://dev.to/devexperts/choosing-a-financial-charting-library-for-your-trading-app-7-things-to-look-for-4436)
+- [How to vectorize your code for faster performance 🚀](https://dev.to/absterdabster/how-to-vectorize-your-code-for-faster-performance-1flp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
