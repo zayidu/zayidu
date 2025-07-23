@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Netflix Clone App on EKS with Cloudformation and GitHub Actions](https://dev.to/ndzenyuy/deploy-netflix-clone-app-on-eks-with-cloudformation-and-github-actions-4m2o)
-- [Hackerrank - SQL - Weather Observation Station 3](https://dev.to/mrpunkdasilva/hackerrank-sql-weather-observation-station-3-3ngo)
-- [When Technical Excellence Meets Organizational Chaos: A Developer&#39;s Survival Guide](https://dev.to/aibnuhibban/when-technical-excellence-meets-organizational-chaos-a-developers-survival-guide-98j)
-- [Why Your Vibe-Coded App Will Fail &lpar;And How to Fix It&rpar;](https://dev.to/shayy/why-your-vibe-coded-app-will-fail-and-how-to-fix-it-369p)
-- [Construindo Minesweeper em C++](https://dev.to/mrpunkdasilva/construindo-minesweeper-em-c-45pg)
+- [Please Make Jarvis So I Don’t Have To – Vision from Kent C. Dodds](https://dev.to/om_shree_0709/please-make-jarvis-so-i-dont-have-to-vision-from-kent-c-dodds-564i)
+- [lynnx Theme Pro](https://dev.to/bastndev/lynnx-theme-pro-4gg5)
+- [Middleware Architecture Patterns for Request Processing&lpar;6044&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing6044-1h2n)
+- [A Simple Guide to Bash Commands for New Developers](https://dev.to/xiaoguang_/a-simple-guide-to-bash-commands-for-new-developers-314a)
+- [🛠️ FastAPI in Production: Build, Scale &amp; Deploy - Series B : Services, Queues &amp; Containers](https://dev.to/mrchike/fastapi-in-production-build-scale-deploy-series-b-services-queues-containers-2i08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
