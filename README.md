@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build with Veo 3, now available in the Gemini API](https://dev.to/googleai/build-with-veo-3-now-available-in-the-gemini-api-1klk)
-- [The Rise of Agents: Navigating the Future of Work in an Automated World](https://dev.to/aliabdeai/the-rise-of-agents-navigating-the-future-of-work-in-an-automated-world-14gl)
-- [The Flame to Conquer, The Desire to Create: Using Kiro IDE to Turn Mathematical Infinity into a Video Game](https://dev.to/josephsamijona/the-flame-to-conquer-the-desire-to-create-using-kiro-ide-to-turn-mathematical-infinity-into-a-m53)
-- [Solving Authentication Headaches: How WSO2 Identity Server Simplifies Single Sign-On &lpar;SSO&rpar;](https://dev.to/mohammed_musharraf/solving-authentication-headaches-how-wso2-identity-server-simplifies-single-sign-on-sso-5h7d)
-- [HQ Dashboard: A Modern Intranet for the DEV x Axero Challenge](https://dev.to/noelmarketing/hq-dashboard-a-modern-intranet-for-the-dev-x-axero-challenge-1ijm)
+- [AI Code Editors Are Having Their Main Character Moment in 2025](https://dev.to/humbleakh/ai-code-editors-are-having-their-main-character-moment-in-2025-13k9)
+- [Puppet Core 8.14 Released with Critical Security Patches and AI-powered Doc Search](https://dev.to/puppet/puppet-core-814-released-with-critical-security-patches-and-ai-powered-doc-search-2jn)
+- [A really good and comprehensive list of open source softwares!](https://dev.to/rinsama77/-3o2b)
+- [30 Days of Code- Day 7](https://dev.to/akshitaexe/30-days-of-code-day-7-4bln)
+- [ToDo Today - After the Hack](https://dev.to/lumo1987/todo-today-after-the-hack-1ggb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
