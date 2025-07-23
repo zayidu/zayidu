@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes Explained with docker-compose](https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f)
-- [Redux From the Ground Up &lpar;Elementary to Advanced&rpar;&quot;](https://dev.to/shrsv/redux-from-the-ground-up-elementary-to-advanced-2aec)
-- [Tracing the Internet — Part 1: ICMP, TTL, Ping &amp; Tracert](https://dev.to/kishi_/tracing-the-internet-part-1-icmp-ttl-ping-tracert-2dlj)
-- [How to Write Effective Comments in JavaScript Code](https://dev.to/wisdomudo/how-to-write-effective-comments-in-javascript-code-5emb)
-- [Cross-Platform Web Development Without Compromise&lpar;5445&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise5445-5h8f)
+- [Build with Veo 3, now available in the Gemini API](https://dev.to/googleai/build-with-veo-3-now-available-in-the-gemini-api-1klk)
+- [The Rise of Agents: Navigating the Future of Work in an Automated World](https://dev.to/aliabdeai/the-rise-of-agents-navigating-the-future-of-work-in-an-automated-world-14gl)
+- [The Flame to Conquer, The Desire to Create: Using Kiro IDE to Turn Mathematical Infinity into a Video Game](https://dev.to/josephsamijona/the-flame-to-conquer-the-desire-to-create-using-kiro-ide-to-turn-mathematical-infinity-into-a-m53)
+- [Solving Authentication Headaches: How WSO2 Identity Server Simplifies Single Sign-On &lpar;SSO&rpar;](https://dev.to/mohammed_musharraf/solving-authentication-headaches-how-wso2-identity-server-simplifies-single-sign-on-sso-5h7d)
+- [HQ Dashboard: A Modern Intranet for the DEV x Axero Challenge](https://dev.to/noelmarketing/hq-dashboard-a-modern-intranet-for-the-dev-x-axero-challenge-1ijm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
