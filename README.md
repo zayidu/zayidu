@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing AI Assistant Pro – An Open Source Chatbot with a Brain 🧠💬](https://dev.to/mahmud-r-farhan/introducing-ai-assistant-pro-an-open-source-chatbot-with-a-brain-3813)
-- [Rust 🦀 for JavaScript Developers: A Super Simple Guide.](https://dev.to/ihssmaheel/rust-for-javascript-developers-a-super-simple-guide-2a8a)
-- [Dissecting a Complex Patent Invalidation Search: A Case Study](https://dev.to/patentscanai/dissecting-a-complex-patent-invalidation-search-a-case-study-f5j)
-- [Web Developer Travis McCracken on Build Pipelines That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-build-pipelines-that-dont-suck-23dh)
-- [Secure Access with Token Auth, SSO &amp; Zero Trust Model](https://dev.to/authx/secure-access-with-token-auth-sso-zero-trust-model-29i)
+- [Using FireCrawl MCP Server with Claude for Web Scraping](https://dev.to/composiodev/using-firecrawl-mcp-server-with-claude-for-web-scraping-18ig)
+- [JavaScript Private Elements Trump Compile-Time Illusion](https://dev.to/itzsaga/javascript-private-elements-trump-compile-time-illusion-3k7a)
+- [GhostLayer - AI Text Humanization - My first app launching](https://dev.to/hectorta/ghostlayer-ai-text-humanization-my-first-app-launching-2ih1)
+- [Join the Redis AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-redis-ai-challenge-3000-in-prizes-3oj2)
+- [Building Offline Apps with Next.js and Serwist](https://dev.to/sukechris/building-offline-apps-with-nextjs-and-serwist-2cbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
