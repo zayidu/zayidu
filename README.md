@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A FREE and Open Source Airtable Alternative - How to Spin Up NocoDB Using Docker](https://dev.to/wimadev/a-free-and-open-source-airtable-alternative-how-to-spin-up-nocodb-using-docker-510a)
-- [Migração para Brighter V10 com MS SQL Server](https://dev.to/actor-dev/migracao-para-brighter-v10-com-ms-sql-server-3knb)
-- [Migrating to Brighter V10 with MS SQL](https://dev.to/actor-dev/migrating-to-brighter-v10-with-ms-sql-11mm)
-- [Excel for Asset Inventory: Why It’s Time for an Upgrade](https://dev.to/teresa_tran/excel-for-asset-inventory-why-its-time-for-an-upgrade-3jj2)
-- [DEK-KEK the industry standard to protect highly sensitive data &lpar;Part 1&rpar;](https://dev.to/anhp9669/dek-kek-the-industry-standard-to-protect-highly-sensitive-data-part-1-4910)
+- [How to Build a Smart RGB LED Strip Controller with a Raspberry Pi Zero W](https://dev.to/the_tea_drinker/how-to-build-a-smart-rgb-led-strip-controller-with-a-raspberry-pi-zero-w-1416)
+- [Top 5 Synthetic Dataset Generators 2025](https://dev.to/parv_0e38a5557cd6fa6ce756/top-5-synthetic-dataset-generators-2025-17ni)
+- [Your Device’s ID Cards: IP vs MAC with Real Life Analogies](https://dev.to/speedon_180_d811dcfdf0836/your-devices-id-cards-ip-vs-mac-with-real-life-analogies-3671)
+- [Cross-Platform Web Development Without Compromise&lpar;8237&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise8237-52k)
+- [5 Big Developer Problems Solved by Knowledge Management Tools](https://dev.to/parizad/5-big-developer-problems-solved-by-knowledge-management-tools-30c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
