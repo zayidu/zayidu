@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Content Editors Love In-Place Relation Editing](https://dev.to/flotiq/why-content-editors-love-in-place-relation-editing-amg)
-- [PHP 8.3 and What to Expect in PHP 8.4 – A Practical Developer Preview](https://dev.to/patoliyainfotech/php-83-and-what-to-expect-in-php-84-a-practical-developer-preview-526l)
-- [VictoriaMetrics: migrating VMSingle and VictoriaLogs data between Kubernetes clusters](https://dev.to/setevoy/victoriametrics-migrating-vmsingle-and-victorialogs-data-between-kubernetes-clusters-559f)
-- [🌍 How Global Teams Win at UX &lpar;&amp; the CSS Subgrid Power Move&rpar;](https://dev.to/adam/how-global-teams-win-at-ux-the-css-subgrid-power-move-2h3f)
-- [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
+- [🚀 AquaScript – Unlock Unlimited FREE JSON APIs for Your Projects | Fastest Mock Data, No Signup Ever 🌍](https://dev.to/hanzla-baig/aquascript-unlock-unlimited-free-json-apis-for-your-projects-fastest-mock-data-no-signup-26il)
+- [TIL: How to reset all files in one folder in git](https://dev.to/kummerer94/til-how-to-reset-all-files-in-one-folder-in-git-57ig)
+- [HTML Forms, features and benefits explained](https://dev.to/idrsolutions/html-forms-features-and-benefits-explained-3k4m)
+- [Will OpenTelemetry Slow Down Your .NET App? 🤔](https://dev.to/akshaybora09/will-opentelemetry-slow-down-your-net-app-2ebd)
+- [WireGuard vs OpenVPN — Which VPN Protocol Fits Your Self-Hosting Needs?](https://dev.to/lightningdev123/wireguard-vs-openvpn-which-vpn-protocol-fits-your-self-hosting-needs-2pop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
