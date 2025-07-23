@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is webhook ?](https://dev.to/abhishek_nayak_d40395ab36/what-is-webhook--4oc7)
-- [🚀 Seamless Agent Switching in Robots-AI – No More Restarting the Chat!](https://dev.to/wissam_metawee_c320c2e1d8/seamless-agent-switching-in-robots-ai-no-more-restarting-the-chat-2lfe)
-- [Reset Windows 10/11 Password Without USB or Reinstall](https://dev.to/jackscott7/reset-windows-1011-password-without-usb-or-reinstall-43m6)
-- [From Industrial Automation to AI-Powered Gift Magic: My Journey with Mago.Chat](https://dev.to/victor_manuel_3408c3ca9d2/from-industrial-automation-to-ai-powered-gift-magic-my-journey-with-magochat-30fl)
-- [Why I Built StyleXui](https://dev.to/richaadgigi/why-i-built-stylexui-4fed)
+- [why I moved from Supabase to Gadget for my Replit builds](https://dev.to/tyler_omalley__/why-i-moved-from-supabase-to-gadget-for-my-replit-builds-171o)
+- [Weekly Job Roundup ✨ July 24th Edition](https://dev.to/resume-matcher/weekly-job-roundup-july-24th-edition-2abd)
+- [AI Data Collection: Foundations and Strategies for Modern AI Systems](https://dev.to/kapusto/ai-data-collection-foundations-and-strategies-for-modern-ai-systems-4jg2)
+- [WWDC - AdAttributionKit Explained: Building on SKAdNetwork&#39;s Foundation](https://dev.to/arshtechpro/wwdc-adattributionkit-explained-building-on-skadnetworks-foundation-fl3)
+- [iOS 26 Public Beta Is Out – Share Your Thoughts](https://dev.to/vcloudtechinc/ios-26-public-beta-is-out-share-your-thoughts-10ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
