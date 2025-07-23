@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [why I moved from Supabase to Gadget for my Replit builds](https://dev.to/tyler_omalley__/why-i-moved-from-supabase-to-gadget-for-my-replit-builds-171o)
-- [Weekly Job Roundup ✨ July 24th Edition](https://dev.to/resume-matcher/weekly-job-roundup-july-24th-edition-2abd)
-- [AI Data Collection: Foundations and Strategies for Modern AI Systems](https://dev.to/kapusto/ai-data-collection-foundations-and-strategies-for-modern-ai-systems-4jg2)
-- [WWDC - AdAttributionKit Explained: Building on SKAdNetwork&#39;s Foundation](https://dev.to/arshtechpro/wwdc-adattributionkit-explained-building-on-skadnetworks-foundation-fl3)
-- [iOS 26 Public Beta Is Out – Share Your Thoughts](https://dev.to/vcloudtechinc/ios-26-public-beta-is-out-share-your-thoughts-10ae)
+- [Dreaming of Jupiter - Three.js](https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc)
+- [Building a TypeScript Library in 2025](https://dev.to/arshadyaseen/building-a-typescript-library-in-2025-2h0i)
+- [How I make teams productive](https://dev.to/bookofcooks/how-i-make-teams-productive-4603)
+- [WebGL Distortion Slider](https://dev.to/blancmonarch/webgl-distortion-slider-49f4)
+- [Complete Hummingbot Arbitrage Usage Guide](https://dev.to/einarcesar/complete-hummingbot-arbitrage-usage-guide-1g32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
