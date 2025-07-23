@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Code Editors Are Having Their Main Character Moment in 2025](https://dev.to/humbleakh/ai-code-editors-are-having-their-main-character-moment-in-2025-13k9)
-- [Puppet Core 8.14 Released with Critical Security Patches and AI-powered Doc Search](https://dev.to/puppet/puppet-core-814-released-with-critical-security-patches-and-ai-powered-doc-search-2jn)
-- [A really good and comprehensive list of open source softwares!](https://dev.to/rinsama77/-3o2b)
-- [30 Days of Code- Day 7](https://dev.to/akshitaexe/30-days-of-code-day-7-4bln)
-- [ToDo Today - After the Hack](https://dev.to/lumo1987/todo-today-after-the-hack-1ggb)
+- [Writing an OS in Rust](https://dev.to/feel_thefiya_b90e3648ad03/writing-an-os-in-rust-5bc)
+- [Building a Serverless CRUD API with AWS SAM, Lambda, API Gateway, and DynamoDB](https://dev.to/kevin_k/building-a-serverless-crud-api-with-aws-sam-lambda-api-gateway-and-dynamodb-45ji)
+- [Signal safety and why should you care](https://dev.to/serpent7776/signal-safety-and-why-should-you-care-4pe7)
+- [Arduino library has few delay function: 1. delay&lpar;&rpar; - as a parameter you should pass a value on milliseconds; 2. delayMicroseconds&lpar;&rpar; - as a parameter you should pass a value on microseconds. I see that really first time.](https://dev.to/snorri1986/arduino-library-has-few-delay-function-1-delay-as-a-parameter-you-should-pass-a-value-on-4m1i)
+- [Advices needed!](https://dev.to/p_abhi110249/advices-needed-4ifo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
