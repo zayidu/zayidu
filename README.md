@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 DevOps with Nginx – Phase 1: Getting Started with Nginx as a Web Server](https://dev.to/krisha_arya_55/devops-with-nginx-phase-1-getting-started-with-nginx-as-a-web-server-1njn)
-- [The Hidden Cost of LangChain: Why My Simple RAG System Cost 2.7x More Than Expected](https://dev.to/himanjan/the-hidden-cost-of-langchain-why-my-simple-rag-system-cost-27x-more-than-expected-4hk9)
-- [Why Just Scroll When You Can Build Your Dream Project—and Get Paid?](https://dev.to/vivaan_chauhan_f47fdf4740/why-just-scroll-when-you-can-build-your-dream-project-and-get-paid-50ng)
-- [Claude Code Tip: Claude Code pattern: &quot;Should I...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-pattern-should-i-1j6j)
-- [📢 New Docs: How We Revamped HMPL Documentation with Astro Starlight 🌌](https://dev.to/hmpljs/new-docs-how-we-revamped-hmpl-documentation-with-astro-starlight-19ce)
+- [Deploy Netflix Clone App on EKS with Cloudformation and GitHub Actions](https://dev.to/ndzenyuy/deploy-netflix-clone-app-on-eks-with-cloudformation-and-github-actions-4m2o)
+- [Hackerrank - SQL - Weather Observation Station 3](https://dev.to/mrpunkdasilva/hackerrank-sql-weather-observation-station-3-3ngo)
+- [When Technical Excellence Meets Organizational Chaos: A Developer&#39;s Survival Guide](https://dev.to/aibnuhibban/when-technical-excellence-meets-organizational-chaos-a-developers-survival-guide-98j)
+- [Why Your Vibe-Coded App Will Fail &lpar;And How to Fix It&rpar;](https://dev.to/shayy/why-your-vibe-coded-app-will-fail-and-how-to-fix-it-369p)
+- [Construindo Minesweeper em C++](https://dev.to/mrpunkdasilva/construindo-minesweeper-em-c-45pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
