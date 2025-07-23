@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing an OS in Rust](https://dev.to/feel_thefiya_b90e3648ad03/writing-an-os-in-rust-5bc)
-- [Building a Serverless CRUD API with AWS SAM, Lambda, API Gateway, and DynamoDB](https://dev.to/kevin_k/building-a-serverless-crud-api-with-aws-sam-lambda-api-gateway-and-dynamodb-45ji)
-- [Signal safety and why should you care](https://dev.to/serpent7776/signal-safety-and-why-should-you-care-4pe7)
-- [Arduino library has few delay function: 1. delay&lpar;&rpar; - as a parameter you should pass a value on milliseconds; 2. delayMicroseconds&lpar;&rpar; - as a parameter you should pass a value on microseconds. I see that really first time.](https://dev.to/snorri1986/arduino-library-has-few-delay-function-1-delay-as-a-parameter-you-should-pass-a-value-on-4m1i)
-- [Advices needed!](https://dev.to/p_abhi110249/advices-needed-4ifo)
+- [What is webhook ?](https://dev.to/abhishek_nayak_d40395ab36/what-is-webhook--4oc7)
+- [🚀 Seamless Agent Switching in Robots-AI – No More Restarting the Chat!](https://dev.to/wissam_metawee_c320c2e1d8/seamless-agent-switching-in-robots-ai-no-more-restarting-the-chat-2lfe)
+- [Reset Windows 10/11 Password Without USB or Reinstall](https://dev.to/jackscott7/reset-windows-1011-password-without-usb-or-reinstall-43m6)
+- [From Industrial Automation to AI-Powered Gift Magic: My Journey with Mago.Chat](https://dev.to/victor_manuel_3408c3ca9d2/from-industrial-automation-to-ai-powered-gift-magic-my-journey-with-magochat-30fl)
+- [Why I Built StyleXui](https://dev.to/richaadgigi/why-i-built-stylexui-4fed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
