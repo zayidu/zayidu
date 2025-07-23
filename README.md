@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AquaScript – Unlock Unlimited FREE JSON APIs for Your Projects | Fastest Mock Data, No Signup Ever 🌍](https://dev.to/hanzla-baig/aquascript-unlock-unlimited-free-json-apis-for-your-projects-fastest-mock-data-no-signup-26il)
-- [TIL: How to reset all files in one folder in git](https://dev.to/kummerer94/til-how-to-reset-all-files-in-one-folder-in-git-57ig)
-- [HTML Forms, features and benefits explained](https://dev.to/idrsolutions/html-forms-features-and-benefits-explained-3k4m)
-- [Will OpenTelemetry Slow Down Your .NET App? 🤔](https://dev.to/akshaybora09/will-opentelemetry-slow-down-your-net-app-2ebd)
-- [WireGuard vs OpenVPN — Which VPN Protocol Fits Your Self-Hosting Needs?](https://dev.to/lightningdev123/wireguard-vs-openvpn-which-vpn-protocol-fits-your-self-hosting-needs-2pop)
+- [Zup: The Self-Healing CLI That Automates Your Dev Environment](https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb)
+- [Wired for Innovation: Lessons from Bolt.New hackathon](https://dev.to/ecogetaway_b3a2518c89c057/wired-for-innovation-lessons-from-boltnew-hackathon-2nlo)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;3530&rpar;](https://dev.to/member_8c78b76f/latency-optimization-secrets-for-millisecond-response-times3530-4j5l)
+- [Claude Code Tip: Claude Code architecture tip: ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-architecture-tip--4ocb)
+- [Machine learning - the code that feels](https://dev.to/pjdeveloper896/machine-learning-the-code-that-feels-4fal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
