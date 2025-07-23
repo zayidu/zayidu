@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Events Implementation for Real-Time Applications&lpar;8587&rpar;](https://dev.to/member_8c78b76f/server-side-events-implementation-for-real-time-applications8587-4m29)
-- [🔄 Just published a new article on enhancing CLI experiences! 🚀 I recently worked on an interesting UX challenge in the JHipster Lite CLI: users were left staring at blank screens during operations, unsure if things were working or frozen. 🤔](https://dev.to/renanfranca/just-published-a-new-article-on-enhancing-cli-experiences-i-recently-worked-on-an-4mll)
-- [Stamp Signatures Made Easy: Sign DOCX Files in Java with Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/stamp-signatures-made-easy-sign-docx-files-in-java-with-cloud-rest-api-7bn)
-- [WWDC25: Meet Containerization | Apple](https://dev.to/the-modern-web/wwdc25-meet-containerization-apple-3km2)
-- [Why Should Antivirus Software Integrate Nmap-Level Scanning for Real Internet Security?](https://dev.to/hejhdiss/why-should-antivirus-software-integrate-nmap-level-scanning-for-real-internet-security-3d5p)
+- [Docker Volumes Explained with docker-compose](https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f)
+- [Redux From the Ground Up &lpar;Elementary to Advanced&rpar;&quot;](https://dev.to/shrsv/redux-from-the-ground-up-elementary-to-advanced-2aec)
+- [Tracing the Internet — Part 1: ICMP, TTL, Ping &amp; Tracert](https://dev.to/kishi_/tracing-the-internet-part-1-icmp-ttl-ping-tracert-2dlj)
+- [How to Write Effective Comments in JavaScript Code](https://dev.to/wisdomudo/how-to-write-effective-comments-in-javascript-code-5emb)
+- [Cross-Platform Web Development Without Compromise&lpar;5445&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise5445-5h8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
