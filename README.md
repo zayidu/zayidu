@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up and Manage APIs Using Kalp Studio’s API Gateway](https://dev.to/kalpstudio/how-to-set-up-and-manage-apis-using-kalp-studios-api-gateway-1me0)
-- [Middleware Architecture Patterns for Request Processing&lpar;1460&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing1460-46m4)
-- [Using Data Engineering to Track Food Prices and Inflation in Kenya from 2006 to 2025](https://dev.to/dkkinyua/using-data-engineering-to-track-food-prices-and-inflation-in-kenya-from-2006-to-2025-47ja)
-- [10+ Free and Open Source n8n Workflow Automation Templates to Boost Your Productivity](https://dev.to/creativetim_official/10-free-and-open-source-n8n-workflow-automation-templates-to-boost-your-productivity-18j9)
-- [## CodeHarmony](https://dev.to/asume21/-codeharmony-504k)
+- [Why Content Editors Love In-Place Relation Editing](https://dev.to/flotiq/why-content-editors-love-in-place-relation-editing-amg)
+- [PHP 8.3 and What to Expect in PHP 8.4 – A Practical Developer Preview](https://dev.to/patoliyainfotech/php-83-and-what-to-expect-in-php-84-a-practical-developer-preview-526l)
+- [VictoriaMetrics: migrating VMSingle and VictoriaLogs data between Kubernetes clusters](https://dev.to/setevoy/victoriametrics-migrating-vmsingle-and-victorialogs-data-between-kubernetes-clusters-559f)
+- [🌍 How Global Teams Win at UX &lpar;&amp; the CSS Subgrid Power Move&rpar;](https://dev.to/adam/how-global-teams-win-at-ux-the-css-subgrid-power-move-2h3f)
+- [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
