@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Thermal Design Crucial for DDR RAM—— Unveiling the Secrets of Memory Temperatures](https://dev.to/ali_matt_acea81a3262a4b85/why-is-thermal-design-crucial-for-ddr-ram-unveiling-the-secrets-of-memory-temperatures-53c0)
-- [This is super helpful! Especially breaking down the pricing considerations.](https://dev.to/johnbyrne/this-is-super-helpful-especially-breaking-down-the-pricing-considerations-3dg7)
-- [Untitled](https://dev.to/elisabethho1/untitled-4jp)
-- [How to handle a language-less main domain with SEO considerations in a Next.js + i18next environment](https://dev.to/dango0812/how-to-handle-a-language-less-main-domain-with-seo-considerations-in-a-nextjs-i18next-environment-2e5j)
-- [Efficient WebSocket Server-Side Processing&lpar;9620&rpar;](https://dev.to/member_8c78b76f/efficient-websocket-server-side-processing9620-30ok)
+- [A FREE and Open Source Airtable Alternative - How to Spin Up NocoDB Using Docker](https://dev.to/wimadev/a-free-and-open-source-airtable-alternative-how-to-spin-up-nocodb-using-docker-510a)
+- [Migração para Brighter V10 com MS SQL Server](https://dev.to/actor-dev/migracao-para-brighter-v10-com-ms-sql-server-3knb)
+- [Migrating to Brighter V10 with MS SQL](https://dev.to/actor-dev/migrating-to-brighter-v10-with-ms-sql-11mm)
+- [Excel for Asset Inventory: Why It’s Time for an Upgrade](https://dev.to/teresa_tran/excel-for-asset-inventory-why-its-time-for-an-upgrade-3jj2)
+- [DEK-KEK the industry standard to protect highly sensitive data &lpar;Part 1&rpar;](https://dev.to/anhp9669/dek-kek-the-industry-standard-to-protect-highly-sensitive-data-part-1-4910)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
