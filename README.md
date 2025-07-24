@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Server-Side Event Implementation&lpar;4424&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation4424-18dk)
-- [Write a Programming Language in a Weekend &lpar;Seriously&rpar; With Python](https://dev.to/devasservice/write-a-programming-language-in-a-weekend-seriously-with-python-3k70)
-- [XCTest: A Complete Guide](https://dev.to/grjoeay/xctest-a-complete-guide-b5e)
-- [NPX or NPM what to use?](https://dev.to/mohammad-umar-here/npx-or-npm-what-to-use-12o1)
-- [A Simple Way to Build a Progress Bar for Your Website’s Image Uploader Using Filestack](https://dev.to/ideradevtools/a-simple-way-to-build-a-progress-bar-for-your-websites-image-uploader-using-filestack-3ae7)
+- [Progressive Web Apps for eCommerce: A Game-Changer](https://dev.to/mitchelljhonson/progressive-web-apps-for-ecommerce-a-game-changer-4h9b)
+- [Web3 promised freedom. But why does it still feel broken?&quot;](https://dev.to/omniradhanexus/web3-promised-freedom-but-why-does-it-still-feel-broken-2f1i)
+- [Emotional Design: The Secret to Impactful Storytelling](https://dev.to/lollypopdesign/emotional-design-the-secret-to-impactful-storytelling-5gj2)
+- [Steps to Migrate to Google Play App Signing](https://dev.to/ayon_ssp/steps-to-migrate-to-google-play-app-signing-770)
+- [Pattern matching across different languages](https://dev.to/nfrankel/pattern-matching-across-different-languages-1c1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
