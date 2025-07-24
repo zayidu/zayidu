@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 [Open Source] SmoothMotion – Clean, Smooth Animations in Jetpack Compose](https://dev.to/abdullah_alhakimi/open-source-smoothmotion-clean-smooth-animations-in-jetpack-compose-1fa9)
-- [Benchmarking python JSON libraries](https://dev.to/kanakos01/benchmarking-python-json-libraries-33bb)
-- [Your Startup Doesn’t Need a Backend Dev - It Needs a Web3 Integrator!](https://dev.to/vadym_info_polus/your-startup-doesnt-need-a-backend-dev-it-needs-a-web3-integrator-5hn3)
-- [Rust Implementation for High Concurrency Processing&lpar;8616&rpar;](https://dev.to/member_8c78b76f/rust-implementation-for-high-concurrency-processing8616-nca)
-- [Built a low-cost hosting platform for AI-built sites like Lovable, Orchids &amp; v0 — tired of paying $20–$60/mo for simple exports.](https://dev.to/benjitech_/built-a-low-cost-hosting-platform-for-ai-built-sites-like-lovable-orchids-v0-tired-of-paying-4m57)
+- [Completed Linux for DevOps Beginners 🚀 #devops #linux #learninginpublic #resources](https://dev.to/upshivam786/completed-linux-for-devops-beginners-devops-linux-learninginpublic-resources-57j9)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;3621&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization3621-je2)
+- [🚀 How I Automated Laravel Deployments to Shared Hosting Using GitHub Actions + FTP](https://dev.to/jonathan_lamseck/how-i-automated-laravel-deployments-to-shared-hosting-using-github-actions-ftp-2go6)
+- [I Got Tired of App-Switching on Android — So I Built My Own All-in-One File Manager](https://dev.to/quoriath/i-got-tired-of-app-switching-on-android-so-i-built-my-own-all-in-one-file-manager-1ndg)
+- [MP3 Stream Shell](https://dev.to/max_kleiner_9d12e786b3ecc/mp3-stream-shell-1cod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
