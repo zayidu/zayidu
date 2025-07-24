@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Agentic AI is Revolutionizing Cybersecurity: The Dawn of Autonomous Digital Defense](https://dev.to/david_watson/how-agentic-ai-is-revolutionizing-cybersecurity-the-dawn-of-autonomous-digital-defense-4695)
-- [TCP Optimization Techniques for Web Server Performance&lpar;1391&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance1391-41l9)
-- [The Core Mindset of a Manual Tester](https://dev.to/tester_learn_testing/the-core-mindset-of-a-manual-tester-55am)
-- [Algolia-RoboCluster: AI-Powered Robot Management System](https://dev.to/prema_ananda/algolia-robocluster-ai-powered-robot-management-system-2c4k)
-- [Orka-Reasoning](https://dev.to/marcosomma/orka-reasoning-5fce)
+- [Quantum Root](https://dev.to/saintst/quantum-root-2nkc)
+- [Icon Font vs SVG : Which One Should You Use?](https://dev.to/masumparvej/icon-font-vs-svg-which-one-should-you-use-34d2)
+- [The Little Prince’s Ballast Resistor: Taming the Wild Electrons of the Stars](https://dev.to/ersajay/the-little-princes-ballast-resistor-taming-the-wild-electrons-of-the-stars-5ada)
+- [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/imranparthib/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
+- [HTTP Response Optimization and Streaming Techniques&lpar;1638&rpar;](https://dev.to/member_8c78b76f/http-response-optimization-and-streaming-techniques1638-1coi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
