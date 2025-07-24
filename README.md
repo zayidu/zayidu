@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Self-Updating AI Sales Agent for Using Perplexity Public Rooms](https://dev.to/alifar/how-i-built-a-self-updating-ai-sales-agent-for-using-perplexity-public-rooms-547h)
-- [Understanding Docker Buildx &amp; Builder: Modern Docker Builds with BuildKit](https://dev.to/lovestaco/understanding-docker-buildx-builder-modern-docker-builds-with-buildkit-1hd)
-- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
-- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
-- [Get started on building AI Automations in Salesforce with Agentforce](https://dev.to/hemantj/get-started-on-building-ai-automations-in-salesforce-with-agentforce-3oh6)
+- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4781)
+- [Mastering RESTful API Integration: Your Guide to Seamless Connections](https://dev.to/farlamo/mastering-restful-api-integration-your-guide-to-seamless-connections-1472)
+- [Multi-Modal Content Processing with strands agent and FAISS Memory](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-faiss-memory-39hg)
+- [Benefits and pitfalls of Vibe coding: navigating the AI-assisted era](https://dev.to/brudda345/benefits-and-pitfalls-of-vibe-coding-navigating-the-ai-assisted-era-246j)
+- [We tried to make a silly goose famous and fought bolt in the process](https://dev.to/pepperoxo/we-tried-to-make-a-silly-goose-famous-and-fought-bolt-in-the-process-kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
