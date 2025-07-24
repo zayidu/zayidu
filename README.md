@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Progressive Web Apps for eCommerce: A Game-Changer](https://dev.to/mitchelljhonson/progressive-web-apps-for-ecommerce-a-game-changer-4h9b)
-- [Web3 promised freedom. But why does it still feel broken?&quot;](https://dev.to/omniradhanexus/web3-promised-freedom-but-why-does-it-still-feel-broken-2f1i)
-- [Emotional Design: The Secret to Impactful Storytelling](https://dev.to/lollypopdesign/emotional-design-the-secret-to-impactful-storytelling-5gj2)
-- [Steps to Migrate to Google Play App Signing](https://dev.to/ayon_ssp/steps-to-migrate-to-google-play-app-signing-770)
-- [Pattern matching across different languages](https://dev.to/nfrankel/pattern-matching-across-different-languages-1c1n)
+- [FSCSS @fun Guide](https://dev.to/fscss/fscss-fun-guide-5de2)
+- [HTTP Response Optimization and Streaming Techniques&lpar;0639&rpar;](https://dev.to/member_8c78b76f/http-response-optimization-and-streaming-techniques0639-p3f)
+- [I spent 6 months creating something that already exists - but in better](https://dev.to/canyslypys/i-spent-6-months-creating-something-that-already-exists-but-in-better-1jjf)
+- [Asynchronous Programming Patterns for Web Development&lpar;8905&rpar;](https://dev.to/member_8c78b76f/asynchronous-programming-patterns-for-web-development8905-3556)
+- [How I Automated a Bitcoin-Based Betting Platform Using JavaScript](https://dev.to/lapixen/how-i-automated-a-bitcoin-based-betting-platform-using-javascript-2g0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
