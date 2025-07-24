@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rewriting the Same Content Over and Over](https://dev.to/slashitapp/stop-rewriting-the-same-content-over-and-over-1339)
-- [CI/CD Pipeline](https://dev.to/mahir_dasare_333/cicd-pipeline-project-22lp)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;7822&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers7822-2gf9)
-- [The Future of Cybersecurity Careers](https://dev.to/__52904/the-future-of-cybersecurity-careers-1i)
-- [playwright打开指定的CDP端口](https://dev.to/dragon72463399/playwrightda-kai-zhi-ding-de-cdpduan-kou-31he)
+- [Agentic AI: The Future of Autonomous Digital Intelligence in 2025](https://dev.to/agami_tech_414cabb7522ea1/agentic-ai-the-future-of-autonomous-digital-intelligence-in-2025-76)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;4884&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers4884-1dc7)
+- [How Web Browsers Work: A Developer&#39;s Deep Dive](https://dev.to/mohammad1105/how-web-browsers-work-a-developers-deep-dive-545d)
+- [🧠 When a System Notices Itself](https://dev.to/marcosomma/when-a-system-notices-itself-4acm)
+- [Why is .NET Core faster than ASP.NET? – An Interview Question That Taught Me Something Valuable](https://dev.to/ravipatil/why-is-net-core-faster-than-aspnet-an-interview-question-that-taught-me-something-valuable-2oo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
