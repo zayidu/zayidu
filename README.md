@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dreaming of Jupiter - Three.js](https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc)
-- [Building a TypeScript Library in 2025](https://dev.to/arshadyaseen/building-a-typescript-library-in-2025-2h0i)
-- [How I make teams productive](https://dev.to/bookofcooks/how-i-make-teams-productive-4603)
-- [WebGL Distortion Slider](https://dev.to/blancmonarch/webgl-distortion-slider-49f4)
-- [Complete Hummingbot Arbitrage Usage Guide](https://dev.to/einarcesar/complete-hummingbot-arbitrage-usage-guide-1g32)
+- [How MCP Inspector Works: A Simple Look at Its Architecture and Setup](https://dev.to/om_shree_0709/how-mcp-inspector-works-a-simple-look-at-its-architecture-and-setup-cgl)
+- [Rust Async Web Framework Performance Breakthrough&lpar;5501&rpar;](https://dev.to/member_8c78b76f/rust-async-web-framework-performance-breakthrough5501-3nhj)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;8338&rpar;](https://dev.to/member_8c78b76f/ultimate-optimization-of-lightweight-server-architecture8338-1jpb)
+- [Building Scalable Web Apps on AWS: My Hands-On Journey with ALBs, ASGs, and Custom VPCs](https://dev.to/deepaksonii/building-scalable-web-apps-on-aws-my-hands-on-journey-with-albs-asgs-and-custom-vpcs-58p7)
+- [High-Performance Routing System Design and Implementation&lpar;2041&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation2041-2k8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
