@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building APIs That Fail Silently: A Node.js Developer&#39;s Community Challenge](https://dev.to/arbythecoder/stop-building-apis-that-fail-silently-a-nodejs-developers-community-challenge-1moo)
-- [Creating a Credit Analysis API with Azure Functions in Java](https://dev.to/leandrofmarcos/creating-a-credit-analysis-api-with-azure-functions-in-java-28gm)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;4300&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers4300-fp7)
-- [Always Version-Control Your Lock Files](https://dev.to/fstrube/always-version-control-your-lock-files-k88)
-- [Fixing Blurry Text When Stopping CSS Transform Animations &lpar;The Data Attribute Hack&rpar;](https://dev.to/aleksandra_lando_/fixing-blurry-text-when-stopping-css-transform-animations-the-data-attribute-hack-50a5)
+- [🛠️ Setting Up Fusio as an API Gateway for CRM &amp; LLM Microservices](https://dev.to/hilqia_kenda_1650d2c780cc/setting-up-fusio-as-an-api-gateway-for-crm-llm-microservices-51l3)
+- [The Right to Be Human: Beyond AI and Optimization](https://dev.to/sammane1253/the-right-to-be-human-beyond-ai-and-optimization-kd9)
+- [Learning Express.js Basics](https://dev.to/imrancodes/learning-expressjs-basics-1oo0)
+- [Microservices Architecture with Lightweight Framework Design&lpar;2854&rpar;](https://dev.to/member_8c78b76f/microservices-architecture-with-lightweight-framework-design2854-22i)
+- [Dein Code ist brillant, aber deine Texte sind..](https://dev.to/ivo_sa/dein-code-ist-brillant-aber-deine-texte-sind-48pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
