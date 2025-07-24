@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CI/CD Pipelines: The Modern Way to Build and Deploy Software](https://dev.to/dehemi_fabio/understanding-cicd-pipelines-the-modern-way-to-build-and-deploy-software-30l1)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;4286&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization4286-3nko)
-- [The same supplier catalog issues, over and over again...](https://dev.to/irene_tsz/fixing-supplier-catalog-chaos-csvxlsxjson-with-yaml-cli-330)
-- [Interfaces, Abstract Classes, and DIMs in C#: A Real-World Developer’s Perspective](https://dev.to/abhinawkr/interfaces-abstract-classes-and-dims-in-c-a-real-world-developers-perspective-3moe)
-- [Monolith vs Microservices](https://dev.to/sanny10k_coders_4f9d0316d/monolith-vs-microservices-nf5)
+- [🚀 AquaScript – Supercharge Your Projects with the Fastest Free JSON APIs | No Signup, No Limits, Just Build! 🌐](https://dev.to/hanzla-baig/aquascript-supercharge-your-projects-with-the-fastest-free-json-apis-no-signup-no-limits-4e75)
+- [Our First Issue: Enhancing Queries With Sorting](https://dev.to/pbouillon/our-first-issue-enhancing-queries-with-sorting-3kh2)
+- [8 Lesser-Known AI Projects to Improve Your Developer Productivity ⚡️🔥](https://dev.to/madza/8-lesser-known-ai-projects-to-improve-your-developer-productivity-4bjb)
+- [5 Essential Frontend Tools I Learned At My Job](https://dev.to/surajondev/5-essential-frontend-tools-i-learned-at-job-127h)
+- [Building Venomous Vortex: A Life-Saving Toxin Education Platform with Bolt.new](https://dev.to/bharath_kumarj_d2d349d6c/building-venomous-vortex-a-life-saving-toxin-education-platform-with-boltnew-p74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
