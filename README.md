@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools That Apply to Jobs for You in 2025](https://dev.to/claradev32/best-ai-tools-that-apply-to-jobs-for-you-in-2025-akg)
-- [[Boost]](https://dev.to/binyam/-3ge4)
-- [Why Was My Localhost SSH Taking 3 Seconds? A Deep Dive.](https://dev.to/sysdiver/how-a-simple-ssh-to-localhost-taught-me-real-network-debugging-4p50)
-- [Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM](https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701)
-- [trap for beginners in C++](https://dev.to/snorri1986/trap-for-beginners-in-c-3k7f)
+- [Malicious Code Injection in Developer Tools: Anatomy and Impact of the July 2025 Amazon Q VS Code Extension Breach](https://dev.to/satyam_chourasiya_99ea2e4/malicious-code-injection-in-developer-tools-anatomy-and-impact-of-the-july-2025-amazon-q-vs-code-ihi)
+- [WebSocket Revolution in Real-Time Communication&lpar;2329&rpar;](https://dev.to/member_8c78b76f/websocket-revolution-in-real-time-communication2329-435j)
+- [Rethinking UI in Agent Driven Systems](https://dev.to/infoxicator/rethinking-ui-in-agent-driven-systems-10nd)
+- [AI Agents: From Tools to Teammates](https://dev.to/gamepill/ai-agents-from-tools-to-teammates-2c7h)
+- [How I Built a Global NGO Website on AWS S3 for Pennies – A Practical Step-by-Step Guide](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-global-ngo-website-on-aws-s3-for-pennies-a-practical-step-by-step-guide-256)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
