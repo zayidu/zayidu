@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Deepfake Threats in Cybersecurity](https://dev.to/__52904/the-rise-of-deepfake-threats-in-cybersecurity-1nm5)
-- [How to Protect an Application from Cyber Attacks](https://dev.to/carrie_luo1/how-to-protect-an-application-from-cyber-attacks-1j42)
-- [New 0day RCE in Apache OFBiz &lpar;CVE-2023-51467&rpar;: Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/new-0day-rce-in-apache-ofbiz-cve-2023-51467-patch-now-p53)
-- [Introducing marchat: A Real-Time Terminal-Based Chat App in Go](https://dev.to/cod-e-codes/introducing-marchat-a-real-time-terminal-based-chat-app-in-go-3188)
-- [Middleware Architecture Patterns for Request Processing&lpar;8315&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing8315-5d9j)
+- [Stop Rewriting the Same Content Over and Over](https://dev.to/slashitapp/stop-rewriting-the-same-content-over-and-over-1339)
+- [CI/CD Pipeline](https://dev.to/mahir_dasare_333/cicd-pipeline-project-22lp)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;7822&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers7822-2gf9)
+- [The Future of Cybersecurity Careers](https://dev.to/__52904/the-future-of-cybersecurity-careers-1i)
+- [playwright打开指定的CDP端口](https://dev.to/dragon72463399/playwrightda-kai-zhi-ding-de-cdpduan-kou-31he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
