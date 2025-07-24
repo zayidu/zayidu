@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/what-vibe-coding-actually-looks-like-for-a-senior-engineer-1jgl)
-- [How to Decide if Your Product Needs AI &lpar;or If You’re Just Chasing Trends&rpar;](https://dev.to/codelink/how-to-decide-if-your-product-needs-ai-or-if-youre-just-chasing-trends-n0h)
-- [The Ultimate Guide to Software Architecture in Next.js: From Monolith to Microservices](https://dev.to/shayan_saed/the-ultimate-guide-to-software-architecture-in-nextjs-from-monolith-to-microservices-i2c)
-- [How I replaced Obsidian and Emacs Org-mode with localStorage](https://dev.to/meistertigan/how-i-replaced-obsidian-and-emacs-org-mode-with-localstorage-2co3)
-- [Zed disable AI feature](https://dev.to/xwero/zed-disable-ai-feature-bn1)
+- [🚀 [Open Source] SmoothMotion – Clean, Smooth Animations in Jetpack Compose](https://dev.to/abdullah_alhakimi/open-source-smoothmotion-clean-smooth-animations-in-jetpack-compose-1fa9)
+- [Benchmarking python JSON libraries](https://dev.to/kanakos01/benchmarking-python-json-libraries-33bb)
+- [Your Startup Doesn’t Need a Backend Dev - It Needs a Web3 Integrator!](https://dev.to/vadym_info_polus/your-startup-doesnt-need-a-backend-dev-it-needs-a-web3-integrator-5hn3)
+- [Rust Implementation for High Concurrency Processing&lpar;8616&rpar;](https://dev.to/member_8c78b76f/rust-implementation-for-high-concurrency-processing8616-nca)
+- [Built a low-cost hosting platform for AI-built sites like Lovable, Orchids &amp; v0 — tired of paying $20–$60/mo for simple exports.](https://dev.to/benjitech_/built-a-low-cost-hosting-platform-for-ai-built-sites-like-lovable-orchids-v0-tired-of-paying-4m57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
