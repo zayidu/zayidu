@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Completed Linux for DevOps Beginners 🚀 #devops #linux #learninginpublic #resources](https://dev.to/upshivam786/completed-linux-for-devops-beginners-devops-linux-learninginpublic-resources-57j9)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;3621&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization3621-je2)
-- [🚀 How I Automated Laravel Deployments to Shared Hosting Using GitHub Actions + FTP](https://dev.to/jonathan_lamseck/how-i-automated-laravel-deployments-to-shared-hosting-using-github-actions-ftp-2go6)
-- [I Got Tired of App-Switching on Android — So I Built My Own All-in-One File Manager](https://dev.to/quoriath/i-got-tired-of-app-switching-on-android-so-i-built-my-own-all-in-one-file-manager-1ndg)
-- [MP3 Stream Shell](https://dev.to/max_kleiner_9d12e786b3ecc/mp3-stream-shell-1cod)
+- [How I Built a Self-Updating AI Sales Agent for Using Perplexity Public Rooms](https://dev.to/alifar/how-i-built-a-self-updating-ai-sales-agent-for-using-perplexity-public-rooms-547h)
+- [Understanding Docker Buildx &amp; Builder: Modern Docker Builds with BuildKit](https://dev.to/lovestaco/understanding-docker-buildx-builder-modern-docker-builds-with-buildkit-1hd)
+- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
+- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
+- [Get started on building AI Automations in Salesforce with Agentforce](https://dev.to/hemantj/get-started-on-building-ai-automations-in-salesforce-with-agentforce-3oh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
