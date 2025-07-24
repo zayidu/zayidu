@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FSCSS @fun Guide](https://dev.to/fscss/fscss-fun-guide-5de2)
-- [HTTP Response Optimization and Streaming Techniques&lpar;0639&rpar;](https://dev.to/member_8c78b76f/http-response-optimization-and-streaming-techniques0639-p3f)
-- [I spent 6 months creating something that already exists - but in better](https://dev.to/canyslypys/i-spent-6-months-creating-something-that-already-exists-but-in-better-1jjf)
-- [Asynchronous Programming Patterns for Web Development&lpar;8905&rpar;](https://dev.to/member_8c78b76f/asynchronous-programming-patterns-for-web-development8905-3556)
-- [How I Automated a Bitcoin-Based Betting Platform Using JavaScript](https://dev.to/lapixen/how-i-automated-a-bitcoin-based-betting-platform-using-javascript-2g0i)
+- [Understanding CI/CD Pipelines: The Modern Way to Build and Deploy Software](https://dev.to/dehemi_fabio/understanding-cicd-pipelines-the-modern-way-to-build-and-deploy-software-30l1)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;4286&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization4286-3nko)
+- [The same supplier catalog issues, over and over again...](https://dev.to/irene_tsz/fixing-supplier-catalog-chaos-csvxlsxjson-with-yaml-cli-330)
+- [Interfaces, Abstract Classes, and DIMs in C#: A Real-World Developer’s Perspective](https://dev.to/abhinawkr/interfaces-abstract-classes-and-dims-in-c-a-real-world-developers-perspective-3moe)
+- [Monolith vs Microservices](https://dev.to/sanny10k_coders_4f9d0316d/monolith-vs-microservices-nf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
