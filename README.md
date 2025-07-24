@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Malicious Code Injection in Developer Tools: Anatomy and Impact of the July 2025 Amazon Q VS Code Extension Breach](https://dev.to/satyam_chourasiya_99ea2e4/malicious-code-injection-in-developer-tools-anatomy-and-impact-of-the-july-2025-amazon-q-vs-code-ihi)
-- [WebSocket Revolution in Real-Time Communication&lpar;2329&rpar;](https://dev.to/member_8c78b76f/websocket-revolution-in-real-time-communication2329-435j)
-- [Rethinking UI in Agent Driven Systems](https://dev.to/infoxicator/rethinking-ui-in-agent-driven-systems-10nd)
-- [AI Agents: From Tools to Teammates](https://dev.to/gamepill/ai-agents-from-tools-to-teammates-2c7h)
-- [How I Built a Global NGO Website on AWS S3 for Pennies – A Practical Step-by-Step Guide](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-global-ngo-website-on-aws-s3-for-pennies-a-practical-step-by-step-guide-256)
+- [Stop Building APIs That Fail Silently: A Node.js Developer&#39;s Community Challenge](https://dev.to/arbythecoder/stop-building-apis-that-fail-silently-a-nodejs-developers-community-challenge-1moo)
+- [Creating a Credit Analysis API with Azure Functions in Java](https://dev.to/leandrofmarcos/creating-a-credit-analysis-api-with-azure-functions-in-java-28gm)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;4300&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers4300-fp7)
+- [Always Version-Control Your Lock Files](https://dev.to/fstrube/always-version-control-your-lock-files-k88)
+- [Fixing Blurry Text When Stopping CSS Transform Animations &lpar;The Data Attribute Hack&rpar;](https://dev.to/aleksandra_lando_/fixing-blurry-text-when-stopping-css-transform-animations-the-data-attribute-hack-50a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
