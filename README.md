@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Design Patterns in Solidity](https://dev.to/adaobilynda/exploring-design-patterns-in-solidity-2782)
-- [Meta prompt; Why your prompt alone may be limiting your LLM](https://dev.to/joshtom/meta-prompt-why-your-prompt-alone-may-be-limiting-your-llm-4co5)
-- [GitHub Spark Has Arrived - Dream It, See It, Ship It](https://dev.to/iampraveen/github-spark-has-arrived-dream-it-see-it-ship-it-2294)
-- [Azure Free Tier: What Can You Actually Build?](https://dev.to/skilltech/azure-free-tier-what-can-you-actually-build-3n3l)
-- [Application of Async Programming in Web Development&lpar;8530&rpar;](https://dev.to/member_8c78b76f/application-of-async-programming-in-web-development8530-238l)
+- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/what-vibe-coding-actually-looks-like-for-a-senior-engineer-1jgl)
+- [How to Decide if Your Product Needs AI &lpar;or If You’re Just Chasing Trends&rpar;](https://dev.to/codelink/how-to-decide-if-your-product-needs-ai-or-if-youre-just-chasing-trends-n0h)
+- [The Ultimate Guide to Software Architecture in Next.js: From Monolith to Microservices](https://dev.to/shayan_saed/the-ultimate-guide-to-software-architecture-in-nextjs-from-monolith-to-microservices-i2c)
+- [How I replaced Obsidian and Emacs Org-mode with localStorage](https://dev.to/meistertigan/how-i-replaced-obsidian-and-emacs-org-mode-with-localstorage-2co3)
+- [Zed disable AI feature](https://dev.to/xwero/zed-disable-ai-feature-bn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
