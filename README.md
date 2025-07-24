@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4781)
-- [Mastering RESTful API Integration: Your Guide to Seamless Connections](https://dev.to/farlamo/mastering-restful-api-integration-your-guide-to-seamless-connections-1472)
-- [Multi-Modal Content Processing with strands agent and FAISS Memory](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-faiss-memory-39hg)
-- [Benefits and pitfalls of Vibe coding: navigating the AI-assisted era](https://dev.to/brudda345/benefits-and-pitfalls-of-vibe-coding-navigating-the-ai-assisted-era-246j)
-- [We tried to make a silly goose famous and fought bolt in the process](https://dev.to/pepperoxo/we-tried-to-make-a-silly-goose-famous-and-fought-bolt-in-the-process-kg)
+- [Best AI Tools That Apply to Jobs for You in 2025](https://dev.to/claradev32/best-ai-tools-that-apply-to-jobs-for-you-in-2025-akg)
+- [[Boost]](https://dev.to/binyam/-3ge4)
+- [Why Was My Localhost SSH Taking 3 Seconds? A Deep Dive.](https://dev.to/sysdiver/how-a-simple-ssh-to-localhost-taught-me-real-network-debugging-4p50)
+- [Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM](https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701)
+- [trap for beginners in C++](https://dev.to/snorri1986/trap-for-beginners-in-c-3k7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
