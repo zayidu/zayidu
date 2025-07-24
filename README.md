@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Setting Up Fusio as an API Gateway for CRM &amp; LLM Microservices](https://dev.to/hilqia_kenda_1650d2c780cc/setting-up-fusio-as-an-api-gateway-for-crm-llm-microservices-51l3)
-- [The Right to Be Human: Beyond AI and Optimization](https://dev.to/sammane1253/the-right-to-be-human-beyond-ai-and-optimization-kd9)
-- [Learning Express.js Basics](https://dev.to/imrancodes/learning-expressjs-basics-1oo0)
-- [Microservices Architecture with Lightweight Framework Design&lpar;2854&rpar;](https://dev.to/member_8c78b76f/microservices-architecture-with-lightweight-framework-design2854-22i)
-- [Dein Code ist brillant, aber deine Texte sind..](https://dev.to/ivo_sa/dein-code-ist-brillant-aber-deine-texte-sind-48pa)
+- [How to Build a Skin Progress Monitoring App Using Python and Flutter](https://dev.to/karen_londres/how-to-build-a-skin-progress-monitoring-app-using-python-and-flutter-2773)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;0819&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers0819-1hb0)
+- [Reformas e Manutenções: Como Tornar Seu Projeto Prático, Seguro e Econômico](https://dev.to/pianocoat26/reformas-e-manutencoes-como-tornar-seu-projeto-pratico-seguro-e-economico-1og2)
+- [Modernização no Dia a Dia: Como a Aluguel de Máquinas Transforma Pequenos Trabalhos em Grandes Conquistas](https://dev.to/syrianerve09/modernizacao-no-dia-a-dia-como-a-aluguel-de-maquinas-transforma-pequenos-trabalhos-em-grandes-3a2d)
+- [Aluguel para Consultores Independentes: A Abordagem Inteligente que Moderniza Projetos e Reformas no Brasil](https://dev.to/honeyoffice1/aluguel-para-consultores-independentes-a-abordagem-inteligente-que-moderniza-projetos-e-reformas-1p99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
