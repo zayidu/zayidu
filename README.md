@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How MCP Inspector Works: A Simple Look at Its Architecture and Setup](https://dev.to/om_shree_0709/how-mcp-inspector-works-a-simple-look-at-its-architecture-and-setup-cgl)
-- [Rust Async Web Framework Performance Breakthrough&lpar;5501&rpar;](https://dev.to/member_8c78b76f/rust-async-web-framework-performance-breakthrough5501-3nhj)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;8338&rpar;](https://dev.to/member_8c78b76f/ultimate-optimization-of-lightweight-server-architecture8338-1jpb)
-- [Building Scalable Web Apps on AWS: My Hands-On Journey with ALBs, ASGs, and Custom VPCs](https://dev.to/deepaksonii/building-scalable-web-apps-on-aws-my-hands-on-journey-with-albs-asgs-and-custom-vpcs-58p7)
-- [High-Performance Routing System Design and Implementation&lpar;2041&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation2041-2k8a)
+- [The Rise of Deepfake Threats in Cybersecurity](https://dev.to/__52904/the-rise-of-deepfake-threats-in-cybersecurity-1nm5)
+- [How to Protect an Application from Cyber Attacks](https://dev.to/carrie_luo1/how-to-protect-an-application-from-cyber-attacks-1j42)
+- [New 0day RCE in Apache OFBiz &lpar;CVE-2023-51467&rpar;: Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/new-0day-rce-in-apache-ofbiz-cve-2023-51467-patch-now-p53)
+- [Introducing marchat: A Real-Time Terminal-Based Chat App in Go](https://dev.to/cod-e-codes/introducing-marchat-a-real-time-terminal-based-chat-app-in-go-3188)
+- [Middleware Architecture Patterns for Request Processing&lpar;8315&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing8315-5d9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
