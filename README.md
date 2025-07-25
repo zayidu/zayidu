@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/massoudstar/-16f7)
-- [Running PostgreSQL in Docker with Persistent Volume](https://dev.to/lovestaco/running-postgresql-in-docker-with-persistent-volume-4joe)
-- [Day 12 striver sheet](https://dev.to/kushal_jangra_1530f71f25c/day-11-striver-sheet-55gd)
-- [Embark on an Adventure: Your Exciting Roadmap to Mastering the KMP!](https://dev.to/redbugmilk/embark-on-an-adventure-your-exciting-roadmap-to-mastering-the-kmp-2b2j)
-- [Scoping Freelance Dev Projects with GPT: My Workflow](https://dev.to/johnschibelli/scoping-freelance-dev-projects-with-gpt-my-workflow-3onl)
+- [The Office Has Left Orbit – Only CSS Challenge.](https://dev.to/aurelien404/the-office-has-left-orbit-only-css-challenge-3hhf)
+- [🚀 We’re on Discord now! The dropzone for builders, learners &amp; doers. General-chat: https://discord.gg/d7MASj3Wfv hyderabad_events: https://discord.gg/gVRyp2Kq WA Channel: https://whatsapp.com/channel/0029Vb7dohRLI8YdaiqwVa3A](https://dev.to/draftr_hyd/were-on-discord-now-the-dropzone-for-builders-learners-doers-general-chat-2kio)
+- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
+- [Day 3 of My React Journey: Why Hooks Exist + Built a Counter App with useState](https://dev.to/usman_butt_dev/day-3-of-my-react-journey-why-hooks-exist-built-a-counter-app-with-usestate-19oj)
+- [Top 5 Python Libraries Every Control Engineer Should Know](https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
