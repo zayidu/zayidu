@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot for .NET: Ask Mode vs Agent Mode and How to Use Them](https://dev.to/morteza-jangjoo/copilot-for-net-ask-mode-vs-agent-mode-and-how-to-use-them-1j7a)
-- [How to Change Hostname on Linux](https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l)
-- [How Web3 Projects Plan to Challenge Big Tech in the AI Arms Race](https://dev.to/philip_crypto92/how-web3-projects-plan-to-challenge-big-tech-in-the-ai-arms-race-3d80)
-- [Managed Cloud Services: Your Secret Weapon or a Costly Mistake?](https://dev.to/ryan_foster/managed-cloud-services-your-secret-weapon-or-a-costly-mistake-293b)
-- [The Business of Bypassing &quot;I&#39;m not a robot&quot;: Who Profits From the War on CAPTCHA - Сomparison of CAPTCHA Solving Services](https://dev.to/markus009/the-business-of-bypassing-im-not-a-robot-who-profits-from-the-war-on-captcha-somparison-of-17a)
+- [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
+- [🧠 The Ultimate AI Showdown: Which Tools Actually Deliver in 2025?](https://dev.to/tahamjp/the-ultimate-ai-showdown-which-tools-actually-deliver-in-2025-45p3)
+- [✨ Automate Your ML Pipelines with MLFCrafter &lpar;Open Source&rpar;](https://dev.to/burakcvlk/automate-your-ml-pipelines-with-mlfcrafter-open-source-13p9)
+- [🚀 Join the Super Productivity Remote Mini Hackathon – Win €150!](https://dev.to/johannesjo/join-the-super-productivity-remote-mini-hackathon-win-eu150-221i)
+- [Top 5 Tools to Attach Human Feedback to Agent Runs](https://dev.to/kuldeep_paul/top-5-tools-to-attach-human-feedback-to-agent-runs-261j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
