@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Image Pipeline: From Upload to Optimization in 2025](https://dev.to/hardik_b2d8f0bca/building-a-modern-image-pipeline-from-upload-to-optimization-in-2025-219j)
-- [Filtering Lines with `grep` in Helix Editor](https://dev.to/gokayburuc/filtering-lines-with-grep-in-helix-editor-pnb)
-- [Why Go’s Simplicity Is Its Greatest Engineering Strength](https://dev.to/xinjie_zou_d67d2805538130/why-gos-simplicity-is-its-greatest-engineering-strength-33k)
-- [Your Money, Their Syntax: How LLMs Write Trust into Empty Crypto Promises](https://dev.to/agustin_v_startari/your-money-their-syntax-how-llms-write-trust-into-empty-crypto-promises-4bdg)
-- [Windows 11 Key Explained : Activation, Licensing, and Best Practices](https://dev.to/windows11key/windows-11-key-explained-activation-licensing-and-best-practices-30m0)
+- [Best Insurance Core Platforms in 2025](https://dev.to/openkoda/best-insurance-core-platforms-in-2025-1kfe)
+- [Stop Skimming Documentation](https://dev.to/kurealnum/stop-skimming-documentation-mbk)
+- [Massgrave Activation Scripts Deep Dive Origin Technology and Usage Guide](https://dev.to/windows11key/massgrave-activation-scripts-deep-dive-origin-technology-and-usage-guide-2oeb)
+- [How AI is Changing Mobile and Web Apps?](https://dev.to/alberthiltonn/how-ai-is-changing-mobile-and-web-apps-2e43)
+- [🚀 Amazon S3 Adds Native Vector Search — A Game-Changer for GenAI Builders &lpar;Especially Students&rpar;](https://dev.to/im_vishal_7f385279556073/amazon-s3-adds-native-vector-search-a-game-changer-for-genai-builders-especially-students-45mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
