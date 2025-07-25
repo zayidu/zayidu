@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📦 What is DBMS and Why You Should Care](https://dev.to/mushfiqurrahman/what-is-dbms-and-why-you-should-care-4077)
-- [Custom CUDA Kernels Outperforming cuBLAS: Deep Dive into GPU Memory Optimization for Small-Batch ML Workloads](https://dev.to/shreshth_kapai_2c604e9d4f/custom-cuda-kernels-outperforming-cublas-deep-dive-into-gpu-memory-optimization-for-small-batch-ml-57cb)
-- [Launching PROTOCORE Signals: A Lightweight System for Multilingual Knowledge Prompts](https://dev.to/sfnzai/launching-protocore-signals-a-lightweight-system-for-multilingual-knowledge-prompts-4e2o)
-- [Single bash script to install CUDA 12.8 on Ubuntu](https://dev.to/mc-nicbaughman/single-bash-script-to-install-cuda-128-on-ubuntu-3g1n)
-- [Lessons Learned from Building an MCP Client](https://dev.to/aws-builders/lessons-learned-from-building-an-mcp-client-30if)
+- [Here comes the troll &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656)
+- [Behind the Scenes of Microservices: Load Balancers &amp; API Gateways Explained](https://dev.to/omkarsharma2821/behind-the-scenes-of-microservices-load-balancers-api-gateways-explained-2cce)
+- [Build a Microservice to Monitor SSL](https://dev.to/ivanrochacardoso/build-a-microservice-to-monitor-ssl-1af)
+- [Merge 2 Sorted LinkedLists!](https://dev.to/spiderbird/merge-2-sorted-linkedlists-2414)
+- [I created a solution for AWS called Anomaly Guardian](https://dev.to/aws-builders/i-created-a-solution-for-aws-called-anomaly-guardian-3h9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
