@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Office Has Left Orbit – Only CSS Challenge.](https://dev.to/aurelien404/the-office-has-left-orbit-only-css-challenge-3hhf)
-- [🚀 We’re on Discord now! The dropzone for builders, learners &amp; doers. General-chat: https://discord.gg/d7MASj3Wfv hyderabad_events: https://discord.gg/gVRyp2Kq WA Channel: https://whatsapp.com/channel/0029Vb7dohRLI8YdaiqwVa3A](https://dev.to/draftr_hyd/were-on-discord-now-the-dropzone-for-builders-learners-doers-general-chat-2kio)
-- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
-- [Day 3 of My React Journey: Why Hooks Exist + Built a Counter App with useState](https://dev.to/usman_butt_dev/day-3-of-my-react-journey-why-hooks-exist-built-a-counter-app-with-usestate-19oj)
-- [Top 5 Python Libraries Every Control Engineer Should Know](https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl)
+- [📦 What is DBMS and Why You Should Care](https://dev.to/mushfiqurrahman/what-is-dbms-and-why-you-should-care-4077)
+- [Custom CUDA Kernels Outperforming cuBLAS: Deep Dive into GPU Memory Optimization for Small-Batch ML Workloads](https://dev.to/shreshth_kapai_2c604e9d4f/custom-cuda-kernels-outperforming-cublas-deep-dive-into-gpu-memory-optimization-for-small-batch-ml-57cb)
+- [Launching PROTOCORE Signals: A Lightweight System for Multilingual Knowledge Prompts](https://dev.to/sfnzai/launching-protocore-signals-a-lightweight-system-for-multilingual-knowledge-prompts-4e2o)
+- [Single bash script to install CUDA 12.8 on Ubuntu](https://dev.to/mc-nicbaughman/single-bash-script-to-install-cuda-128-on-ubuntu-3g1n)
+- [Lessons Learned from Building an MCP Client](https://dev.to/aws-builders/lessons-learned-from-building-an-mcp-client-30if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
