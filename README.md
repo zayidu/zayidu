@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Qwen3-MT the Game-Changing Translation Model We&#39;ve Been Waiting For?](https://dev.to/ashinno/is-qwen3-mt-the-game-changing-translation-model-weve-been-waiting-for-1k2m)
-- [NeuroStream - Real-Time Brain-Computer Interface Analytics Platform](https://dev.to/poowagg/neurostream-real-time-brain-computer-interface-analytics-platform-4o3g)
-- [Is it worth taking HashiCorp&#39;s Terraform Associate exam?](https://dev.to/smgestupa/is-it-worth-taking-hashicorps-terraform-associate-exam-4n2i)
-- [⚡ Optimize Like a Pro: Memoization, Suspense, and Beyond](https://dev.to/manukumar07/optimize-like-a-pro-memoization-suspense-and-beyond-4209)
-- [Remove Background API – Fast, Simple, and Ready to Integrate](https://dev.to/meetsohail/remove-background-api-fast-simple-and-ready-to-integrate-o4o)
+- [From a Vim Script to a New Programming Language: Introducing OSE V3](https://dev.to/codigger/from-a-vim-script-to-a-new-programming-language-introducing-ose-v3-36jk)
+- [Building a Configurable Rules Engine on Salesforce: A Modern Approach to Business Logic](https://dev.to/rohit_maharashi_a25b8c6b6/building-a-configurable-rules-engine-on-salesforce-a-modern-approach-to-business-logic-1eda)
+- [Beyond the Clock: Why Time Tracking Needs a Mindset Shift](https://dev.to/manojkumardev/beyond-the-clock-why-time-tracking-needs-a-mindset-shift-4n9c)
+- [OOP is the middle ages, FP is the enlightenment, FRP is impressionism, SOP is the modern minimalism](https://dev.to/dariomannu/oop-is-the-middle-ages-fp-is-the-enlightenment-frp-is-impressionism-sop-is-the-modern-minimalism-487j)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
