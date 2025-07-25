@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a useWindowSize Hook from Scratch](https://dev.to/childrentime/building-a-usewindowsize-hook-from-scratch-a0f)
-- [From Chaos to Control: How We Built Classent to Transform Car Wash Operations with Bolt](https://dev.to/jefftheuri/from-car-chaos-to-control-building-classent-on-bolt-for-the-future-of-auto-wash-operations-4m2k)
-- [Best AI Code Generators You Should Know If You Want To Stay Ahead🚀](https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k)
-- [Python Izoh](https://dev.to/muhamadayubuzbdev/python-izoh-181l)
-- [Camshaft Sensor: Hogwarts&#39; Engine Whisperer](https://dev.to/ersajay/camshaft-sensor-hogwarts-engine-whisperer-57nf)
+- [The Complete Company Landing Page - Holistic Webdev Challenge](https://dev.to/shinjithdev/the-complete-company-landing-page-holistic-webdev-challenge-2jaa)
+- [IC to EM Roadmap Series: Part 3: The Way of the Investigation – Agile &amp; Operations 💡🗓️](https://dev.to/mk_blogs/ic-to-em-roadmap-series-part-3-the-way-of-the-investigation-agile-operations-4l20)
+- [কিভাবে ডুয়েল বুট থেকে উবুন্টু রিমুভ করবেন?](https://dev.to/rironib/remove-ubuntu-from-dual-boot-with-windows-36of)
+- [Transforming Data with Logs: From Chaos to Clarity](https://dev.to/raj_tiwari_f987064d2f1827/transforming-data-with-logs-from-chaos-to-clarity-4olg)
+- [[Boost]](https://dev.to/david_oyewole/-4o1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
