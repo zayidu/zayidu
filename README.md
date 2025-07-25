@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of OLAP and OLTP in Data Management.](https://dev.to/erickaranja17/benefits-of-olap-and-oltp-in-data-management-26cl)
-- [We submitted the same app in the bolt Hackathon!](https://dev.to/davidos366/we-submitted-the-same-app-in-the-bolt-hackathon-2cgl)
-- [🚀 I Built My Own AI Voice Assistant with Jarvis Vibes &lpar;Using ChatGPT + Gemini + ElevenLabs&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/i-built-my-own-ai-voice-assistant-with-jarvis-vibes-using-chatgpt-gemini-elevenlabs-600)
-- [Control storage access](https://dev.to/zube/control-storage-access-4708)
-- [The Right Kind of Bond. Designing Avatars That Empower](https://dev.to/gamepill/the-right-kind-of-bond-designing-avatars-that-empower-3f78)
+- [[Boost]](https://dev.to/massoudstar/-16f7)
+- [Running PostgreSQL in Docker with Persistent Volume](https://dev.to/lovestaco/running-postgresql-in-docker-with-persistent-volume-4joe)
+- [Day 12 striver sheet](https://dev.to/kushal_jangra_1530f71f25c/day-11-striver-sheet-55gd)
+- [Embark on an Adventure: Your Exciting Roadmap to Mastering the KMP!](https://dev.to/redbugmilk/embark-on-an-adventure-your-exciting-roadmap-to-mastering-the-kmp-2b2j)
+- [Scoping Freelance Dev Projects with GPT: My Workflow](https://dev.to/johnschibelli/scoping-freelance-dev-projects-with-gpt-my-workflow-3onl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
