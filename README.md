@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From a Vim Script to a New Programming Language: Introducing OSE V3](https://dev.to/codigger/from-a-vim-script-to-a-new-programming-language-introducing-ose-v3-36jk)
-- [Building a Configurable Rules Engine on Salesforce: A Modern Approach to Business Logic](https://dev.to/rohit_maharashi_a25b8c6b6/building-a-configurable-rules-engine-on-salesforce-a-modern-approach-to-business-logic-1eda)
-- [Beyond the Clock: Why Time Tracking Needs a Mindset Shift](https://dev.to/manojkumardev/beyond-the-clock-why-time-tracking-needs-a-mindset-shift-4n9c)
-- [OOP is the middle ages, FP is the enlightenment, FRP is impressionism, SOP is the modern minimalism](https://dev.to/dariomannu/oop-is-the-middle-ages-fp-is-the-enlightenment-frp-is-impressionism-sop-is-the-modern-minimalism-487j)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
+- [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
+- [Breaking Down Epics into Actionable User Stories: A Step-by-Step Guide](https://dev.to/dct_technology/breaking-down-epics-into-actionable-user-stories-a-step-by-step-guide-4o2j)
+- [AI: No longer an exception. It is the norm.](https://dev.to/urbanisierung/ai-no-longer-an-exception-it-is-the-norm-99b)
+- [The 10 Best Context Engineering Open Source Projects in 2025](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94)
+- [Timestone: A Lightweight Java Library for Testing Time-Based Logic](https://dev.to/zetaplusae/timestone-a-lightweight-java-library-for-testing-time-based-logic-3bmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
