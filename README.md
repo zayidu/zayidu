@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎓 KnowledgeHut — Learn Tech Skills that Get You Job-Ready, Fast](https://dev.to/ml318097/knowledgehut-learn-tech-skills-that-get-you-job-ready-fast-mh6)
-- [SoloStack: The Toolkit for Solo Founders &lpar;Share Your Story with Us&rpar;](https://dev.to/yash_man/solostack-the-toolkit-for-solo-founders-share-your-story-with-us-40kf)
-- [Overriding in Java](https://dev.to/sundar_joseph_94059a3e7a6/overriding-in-java-l7f)
-- [On my way to Master ASP.Net Core](https://dev.to/abdullahhh/on-my-way-to-master-aspnet-core-2gci)
-- [When is it time to quit your job to start a business?](https://dev.to/squardtech/when-is-it-time-to-quit-your-job-to-start-a-business-5d13)
+- [Benefits of OLAP and OLTP in Data Management.](https://dev.to/erickaranja17/benefits-of-olap-and-oltp-in-data-management-26cl)
+- [We submitted the same app in the bolt Hackathon!](https://dev.to/davidos366/we-submitted-the-same-app-in-the-bolt-hackathon-2cgl)
+- [🚀 I Built My Own AI Voice Assistant with Jarvis Vibes &lpar;Using ChatGPT + Gemini + ElevenLabs&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/i-built-my-own-ai-voice-assistant-with-jarvis-vibes-using-chatgpt-gemini-elevenlabs-600)
+- [Control storage access](https://dev.to/zube/control-storage-access-4708)
+- [The Right Kind of Bond. Designing Avatars That Empower](https://dev.to/gamepill/the-right-kind-of-bond-designing-avatars-that-empower-3f78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
