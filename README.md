@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here comes the troll &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656)
-- [Behind the Scenes of Microservices: Load Balancers &amp; API Gateways Explained](https://dev.to/omkarsharma2821/behind-the-scenes-of-microservices-load-balancers-api-gateways-explained-2cce)
-- [Build a Microservice to Monitor SSL](https://dev.to/ivanrochacardoso/build-a-microservice-to-monitor-ssl-1af)
-- [Merge 2 Sorted LinkedLists!](https://dev.to/spiderbird/merge-2-sorted-linkedlists-2414)
-- [I created a solution for AWS called Anomaly Guardian](https://dev.to/aws-builders/i-created-a-solution-for-aws-called-anomaly-guardian-3h9j)
+- [Guidelines on Providing Storage for a New Company App Part 2](https://dev.to/aneneemmanuel_1/guidelines-on-providing-storage-for-a-new-company-app-part-2-1j37)
+- [Building and learning at lightning speed with Bolt!](https://dev.to/kirittanna/building-and-learning-at-lightning-speed-with-bolt-30jd)
+- [🚀 The Rise of Adapters: Reimagining JavaScript Tooling in 2025](https://dev.to/the-modern-web/the-rise-of-adapters-reimagining-javascript-tooling-in-2025-52el)
+- [SnippetSearch: Code Snippets Discovery Engine for Developers](https://dev.to/imkarthikeyan/snippetsearch-code-snippets-discovery-engine-for-developers-3gld)
+- [A Complete Guide to etcd: The Distributed Key-Value Store Powering Cloud Infrastructure](https://dev.to/jimjunior/a-complete-guide-to-etcd-the-distributed-key-value-store-powering-cloud-infrastructure-pif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
