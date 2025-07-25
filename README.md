@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines on Providing Storage for a New Company App Part 2](https://dev.to/aneneemmanuel_1/guidelines-on-providing-storage-for-a-new-company-app-part-2-1j37)
-- [Building and learning at lightning speed with Bolt!](https://dev.to/kirittanna/building-and-learning-at-lightning-speed-with-bolt-30jd)
-- [🚀 The Rise of Adapters: Reimagining JavaScript Tooling in 2025](https://dev.to/the-modern-web/the-rise-of-adapters-reimagining-javascript-tooling-in-2025-52el)
-- [SnippetSearch: Code Snippets Discovery Engine for Developers](https://dev.to/imkarthikeyan/snippetsearch-code-snippets-discovery-engine-for-developers-3gld)
-- [A Complete Guide to etcd: The Distributed Key-Value Store Powering Cloud Infrastructure](https://dev.to/jimjunior/a-complete-guide-to-etcd-the-distributed-key-value-store-powering-cloud-infrastructure-pif)
+- [Exploring Python 3.14&#39;s Zstandard Compression](https://dev.to/zeze1020/exploring-python-314s-zstandard-compression-59a)
+- [Modernizações com Estruturação Otimizado e Equipamentos Locados: A Fórmula Definitiva para Êxito Garantido](https://dev.to/syrianerve09/modernizacoes-com-estruturacao-otimizado-e-equipamentos-locados-a-formula-definitiva-para-exito-390f)
+- [Obra Enxuto: Como Realizar Reformas Mais Otimizadas e Econômicas através da Aluguel Estratégica de Ferramentas](https://dev.to/stovecollar29/obra-enxuto-como-realizar-reformas-mais-otimizadas-e-economicas-atraves-da-aluguel-estrategica-de-5eh3)
+- [Security news weekly round-up - 25th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5)
+- [LearnSync – A Unified Knowledge Explorer](https://dev.to/pulkitgovrani/learnsync-a-unified-knowledge-explorer-322k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
