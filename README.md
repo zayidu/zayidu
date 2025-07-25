@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Web3 from the Ground Up: Understanding Ethereum](https://dev.to/devsofmidnight/learning-web3-from-the-ground-up-understanding-ethereum-2hlb)
-- [Piano Chords in CSS](https://dev.to/madsstoumann/piano-chords-in-css-4jop)
-- [How to build better AI apps in React with MediaPipe’s latest APIs](https://dev.to/logrocket/how-to-build-better-ai-apps-in-react-with-mediapipes-latest-apis-8e3)
-- [Project of the Week: Clerk](https://dev.to/pullflow/project-of-the-week-clerk-cl8)
-- [Stop Saying &quot;It Just Works.&quot; Save Your Credibility as a Senior and Say This Instead](https://dev.to/medunes/stop-saying-it-just-works-save-your-credibility-as-a-senior-and-say-this-instead-1cpm)
+- [🎓 KnowledgeHut — Learn Tech Skills that Get You Job-Ready, Fast](https://dev.to/ml318097/knowledgehut-learn-tech-skills-that-get-you-job-ready-fast-mh6)
+- [SoloStack: The Toolkit for Solo Founders &lpar;Share Your Story with Us&rpar;](https://dev.to/yash_man/solostack-the-toolkit-for-solo-founders-share-your-story-with-us-40kf)
+- [Overriding in Java](https://dev.to/sundar_joseph_94059a3e7a6/overriding-in-java-l7f)
+- [On my way to Master ASP.Net Core](https://dev.to/abdullahhh/on-my-way-to-master-aspnet-core-2gci)
+- [When is it time to quit your job to start a business?](https://dev.to/squardtech/when-is-it-time-to-quit-your-job-to-start-a-business-5d13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
