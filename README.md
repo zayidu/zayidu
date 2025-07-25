@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📬 My First Waitlist: Lessons From a Side Project Experiment](https://dev.to/juandadev/my-first-waitlist-lessons-from-a-side-project-experiment-1c3)
-- [Enhancing Uber&#39;s Customer Experience Through Machine Learning: Insights from Harvard&#39;s Case Studies](https://dev.to/aliabdeai/enhancing-ubers-customer-experience-through-machine-learning-insights-from-harvards-case-studies-464f)
-- [What Remote Developers Are Using Right Now &lpar;Based on Our Platform Data&rpar;](https://dev.to/accioprocurement/what-remote-developers-are-using-right-now-based-on-our-platform-data-3k68)
-- [How to use the Slack MCP server with Claude flawlessly](https://dev.to/composiodev/how-to-use-the-slack-mcp-server-with-claude-flawlessly-2dao)
-- [Elegant Middleware Architecture Implementation&lpar;4257&rpar;](https://dev.to/member_8c78b76f/elegant-middleware-architecture-implementation4257-50pf)
+- [Is Qwen3-MT the Game-Changing Translation Model We&#39;ve Been Waiting For?](https://dev.to/ashinno/is-qwen3-mt-the-game-changing-translation-model-weve-been-waiting-for-1k2m)
+- [NeuroStream - Real-Time Brain-Computer Interface Analytics Platform](https://dev.to/poowagg/neurostream-real-time-brain-computer-interface-analytics-platform-4o3g)
+- [Is it worth taking HashiCorp&#39;s Terraform Associate exam?](https://dev.to/smgestupa/is-it-worth-taking-hashicorps-terraform-associate-exam-4n2i)
+- [⚡ Optimize Like a Pro: Memoization, Suspense, and Beyond](https://dev.to/manukumar07/optimize-like-a-pro-memoization-suspense-and-beyond-4209)
+- [Remove Background API – Fast, Simple, and Ready to Integrate](https://dev.to/meetsohail/remove-background-api-fast-simple-and-ready-to-integrate-o4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
