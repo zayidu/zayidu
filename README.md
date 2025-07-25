@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Skin Progress Monitoring App Using Python and Flutter](https://dev.to/karen_londres/how-to-build-a-skin-progress-monitoring-app-using-python-and-flutter-2773)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;0819&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers0819-1hb0)
-- [Reformas e Manutenções: Como Tornar Seu Projeto Prático, Seguro e Econômico](https://dev.to/pianocoat26/reformas-e-manutencoes-como-tornar-seu-projeto-pratico-seguro-e-economico-1og2)
-- [Modernização no Dia a Dia: Como a Aluguel de Máquinas Transforma Pequenos Trabalhos em Grandes Conquistas](https://dev.to/syrianerve09/modernizacao-no-dia-a-dia-como-a-aluguel-de-maquinas-transforma-pequenos-trabalhos-em-grandes-3a2d)
-- [Aluguel para Consultores Independentes: A Abordagem Inteligente que Moderniza Projetos e Reformas no Brasil](https://dev.to/honeyoffice1/aluguel-para-consultores-independentes-a-abordagem-inteligente-que-moderniza-projetos-e-reformas-1p99)
+- [📬 My First Waitlist: Lessons From a Side Project Experiment](https://dev.to/juandadev/my-first-waitlist-lessons-from-a-side-project-experiment-1c3)
+- [Enhancing Uber&#39;s Customer Experience Through Machine Learning: Insights from Harvard&#39;s Case Studies](https://dev.to/aliabdeai/enhancing-ubers-customer-experience-through-machine-learning-insights-from-harvards-case-studies-464f)
+- [What Remote Developers Are Using Right Now &lpar;Based on Our Platform Data&rpar;](https://dev.to/accioprocurement/what-remote-developers-are-using-right-now-based-on-our-platform-data-3k68)
+- [How to use the Slack MCP server with Claude flawlessly](https://dev.to/composiodev/how-to-use-the-slack-mcp-server-with-claude-flawlessly-2dao)
+- [Elegant Middleware Architecture Implementation&lpar;4257&rpar;](https://dev.to/member_8c78b76f/elegant-middleware-architecture-implementation4257-50pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
