@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
-- [Breaking Down Epics into Actionable User Stories: A Step-by-Step Guide](https://dev.to/dct_technology/breaking-down-epics-into-actionable-user-stories-a-step-by-step-guide-4o2j)
-- [AI: No longer an exception. It is the norm.](https://dev.to/urbanisierung/ai-no-longer-an-exception-it-is-the-norm-99b)
-- [The 10 Best Context Engineering Open Source Projects in 2025](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94)
-- [Timestone: A Lightweight Java Library for Testing Time-Based Logic](https://dev.to/zetaplusae/timestone-a-lightweight-java-library-for-testing-time-based-logic-3bmb)
+- [UNSUPERVISED LEARNING](https://dev.to/john_analytics/unsupervised-learning-4mb1)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-15fn)
+- [The Rise of Agentic AI: Frontend Dev Tools That Act for You in 2025](https://dev.to/rahucode/the-rise-of-agentic-ai-frontend-dev-tools-that-act-for-you-in-2025-23o3)
+- [How I deployed my first project for my devops portfolio: The HUNT &lpar;Infra and budget&rpar;](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-the-hunt-infra-and-budget-2jlf)
+- [Creating a Creative Logo Generator Using Google AI Studio &amp; Gemini](https://dev.to/onirestart/creating-a-creative-logo-generator-using-google-ai-studio-gemini-2d4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
