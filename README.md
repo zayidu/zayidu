@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UNSUPERVISED LEARNING](https://dev.to/john_analytics/unsupervised-learning-4mb1)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-15fn)
-- [The Rise of Agentic AI: Frontend Dev Tools That Act for You in 2025](https://dev.to/rahucode/the-rise-of-agentic-ai-frontend-dev-tools-that-act-for-you-in-2025-23o3)
-- [How I deployed my first project for my devops portfolio: The HUNT &lpar;Infra and budget&rpar;](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-the-hunt-infra-and-budget-2jlf)
-- [Creating a Creative Logo Generator Using Google AI Studio &amp; Gemini](https://dev.to/onirestart/creating-a-creative-logo-generator-using-google-ai-studio-gemini-2d4e)
+- [Building a useWindowSize Hook from Scratch](https://dev.to/childrentime/building-a-usewindowsize-hook-from-scratch-a0f)
+- [From Chaos to Control: How We Built Classent to Transform Car Wash Operations with Bolt](https://dev.to/jefftheuri/from-car-chaos-to-control-building-classent-on-bolt-for-the-future-of-auto-wash-operations-4m2k)
+- [Best AI Code Generators You Should Know If You Want To Stay Ahead🚀](https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k)
+- [Python Izoh](https://dev.to/muhamadayubuzbdev/python-izoh-181l)
+- [Camshaft Sensor: Hogwarts&#39; Engine Whisperer](https://dev.to/ersajay/camshaft-sensor-hogwarts-engine-whisperer-57nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
