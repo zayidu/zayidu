@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Company Landing Page - Holistic Webdev Challenge](https://dev.to/shinjithdev/the-complete-company-landing-page-holistic-webdev-challenge-2jaa)
-- [IC to EM Roadmap Series: Part 3: The Way of the Investigation – Agile &amp; Operations 💡🗓️](https://dev.to/mk_blogs/ic-to-em-roadmap-series-part-3-the-way-of-the-investigation-agile-operations-4l20)
-- [কিভাবে ডুয়েল বুট থেকে উবুন্টু রিমুভ করবেন?](https://dev.to/rironib/remove-ubuntu-from-dual-boot-with-windows-36of)
-- [Transforming Data with Logs: From Chaos to Clarity](https://dev.to/raj_tiwari_f987064d2f1827/transforming-data-with-logs-from-chaos-to-clarity-4olg)
-- [[Boost]](https://dev.to/david_oyewole/-4o1j)
+- [🚀 Qwen3‑Coder + Qwen Code CLI: A Powerful Open Source Alternative to Claude for Developers](https://dev.to/poojan_vig_0c5a3a104afc31/qwen3-coder-qwen-code-cli-a-powerful-open-source-alternative-to-claude-for-developers-2j45)
+- [Best Practices for Overcoming SIEM Integration and Security Challenges](https://dev.to/kapusto/best-practices-for-overcoming-siem-integration-and-security-challenges-531l)
+- [So Cool!](https://dev.to/assosam_ocr/so-cool-11ka)
+- [3487. Maximum Unique Subarray Sum After Deletion](https://dev.to/mdarifulhaque/3487-maximum-unique-subarray-sum-after-deletion-5d7g)
+- [Introduction to Grafana Cloud &amp; Account Creation](https://dev.to/srinivasuluparanduru/introduction-to-grafana-cloud-account-creation-514)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
