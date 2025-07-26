@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating Chrome&#39;s Classic: A Pixel-Perfect QR Code Generator Extension Built with WebAssembly](https://dev.to/liuliangsir/recreating-chromes-classic-a-pixel-perfect-qr-code-generator-extension-built-with-webassembly-3i9a)
-- [[Prompt] ND-ReRanker v 0.1](https://dev.to/neuron_dev/prompt-nd-reranker-v-01-494j)
-- [Cloning Users in Dynamics 365 CE Security App via Plugin](https://dev.to/nikhildynamicsce/cloning-users-in-dynamics-365-ce-security-app-via-plugin-cgf)
-- [Modern Bazel with Python-Module 5: Advanced Python Rules and Toolchains](https://dev.to/sushilbaligar/modern-bazel-with-python-module-5-advanced-python-rules-and-toolchains-1aep)
-- [From SMA to TEMA: Coding Technical Indicators in Python — Building stocksimpy 2](https://dev.to/suleyman_sade/from-sma-to-tema-coding-technical-indicators-in-python-building-stocksimpy-2-3162)
+- [The Polymath Tool for All Your Audio and Document Needs](https://dev.to/watninja68/the-polymath-tool-for-all-your-audio-and-document-needs-1ej)
+- [🐳 Docker Multi-Stage Build - Complete Documentation](https://dev.to/dpvasani56/docker-multi-stage-build-complete-documentation-4990)
+- [Notes &amp; Cheatsheet: “Dockerizing an App – CKA Series #2”](https://dev.to/dpvasani56/notes-cheatsheet-dockerizing-an-app-cka-series-2-mo6)
+- [Beyond Git: Tools That Make Senior Developers Insanely Productive](https://dev.to/dct_technology/beyond-git-tools-that-make-senior-developers-insanely-productive-1d6m)
+- [Error Handling in Express.js](https://dev.to/shruti_jain_98b67e0d65330/error-handling-in-expressjs-24ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
