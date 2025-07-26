@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clock In, Clock Out: Office Life through CSS Art](https://dev.to/pranamyark/clock-in-clock-out-office-life-through-css-art-3mmg)
-- [Design LinkedList](https://dev.to/prashantrmishra/design-linkedlist-4ih7)
-- [VibeCraft AI – Turn Your Mood Into a Moodboard](https://dev.to/trojanmocx/vibecraft-ai-turn-your-mood-into-a-moodboard-13m0)
-- [Beyond the Code: How the World&#39;s Largest Hackathon Transformed My Developer Community Experience](https://dev.to/ariondev/beyond-the-code-how-the-worlds-largest-hackathon-transformed-my-developer-community-experience-5c5o)
-- [A Lightweight 5-Star Rating System for PHP](https://dev.to/emleons/a-lightweight-5-star-rating-system-for-php-46ak)
+- [Why Bluebox Is the Cloud Storage You’ve Been Waiting For &lpar;15GB Free — Forever&rpar;](https://dev.to/alagba/why-bluebox-is-the-cloud-storage-youve-been-waiting-for-15gb-free-forever-2e6j)
+- [✨🎨 Pure CSS Magic: How to Build a Realistic 3D Office Experience 🏢💻🪑](https://dev.to/mohamednizzad/pure-css-magic-how-to-build-a-realistic-3d-office-experience-h76)
+- [Guide on Creating &amp; Connecting to an Azure Virtual Machine](https://dev.to/isaiah_izibili_7a39b7d627/guide-on-creating-connecting-to-an-azure-virtual-machine-1f2a)
+- [🔀 Maintaining a Linear Commit History in Git](https://dev.to/rashidpbi/maintaining-a-linear-commit-history-in-git-4gff)
+- [Introducing Bluebox: A Free Cloud Storage Built for Developers, by Developers](https://dev.to/alagba/introducing-bluebox-a-free-cloud-storage-built-for-developers-by-developers-4iba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
