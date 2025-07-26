@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with HTML Elements in TypeScript: A Complete Guide&lpar;13&rpar;](https://dev.to/wisdombits/working-with-html-elements-in-typescript-a-complete-guide13-1b3k)
-- [Understanding Browser Networking: CORS, Connections, and Security](https://dev.to/timmydee/understanding-browser-networking-cors-connections-and-security-54n)
-- [How Hybrid Testing Teams Balance Manual and Automation Seamlessly](https://dev.to/david_786/how-hybrid-testing-teams-balance-manual-and-automation-seamlessly-2g17)
-- [3 Microservices, 1 YAML File, 1 Command: The Power of Docker Compose](https://dev.to/sovannaro/3-microservices-1-yaml-file-1-command-the-power-of-docker-compose-p9)
-- [Inheritance in Java ;](https://dev.to/sundar_joseph_94059a3e7a6/inheritance-in-java--2bhj)
+- [Printing Characters via BIOS Using Inline Assembly in Wave](https://dev.to/lunastev/printing-characters-via-bios-using-inline-assembly-in-wave-19o8)
+- [The Complete DevOps Roadmap for 2025 🚀](https://dev.to/devopsdaily/the-complete-devops-roadmap-for-2025-4n1h)
+- [🔐 SmartKart Microservices Series](https://dev.to/siddharth_bhamare_8585/smartkart-microservices-series-4ob6)
+- [Vibe coding an Operating System chapter 1](https://dev.to/draculinio/vibe-coding-an-operating-system-chapter-1-4ilj)
+- [Docker-in-Docker &lpar;DinD&rpar;](https://dev.to/locnguyenpv/docker-in-docker-dind-1n18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
