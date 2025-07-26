@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up ESLint with Vite &lpar;React, React Hooks, and React Refresh&rpar;](https://dev.to/best_codes/set-up-eslint-with-vite-react-react-hooks-and-react-refresh-24pm)
-- [The Importance of Styling React Components](https://dev.to/hazrat-ali9/the-importance-of-styling-react-components-1ngm)
-- [🧑‍💻 HackerEarth for Developers — Let Your Code Do the Talking](https://dev.to/ml318097/hackerearth-for-developers-let-your-code-do-the-talking-43im)
-- [Beyond the Code - Community and Connections at WLH](https://dev.to/ariondev/beyond-the-code-community-and-connections-at-wlh-n88)
-- [Symfony Station Communiqué - Stardate: ✦ 25 July 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-25-july-2025-the-latest-symfony-drupal-typo3-and-php-2cm0)
+- [MCP Servers That I Use as a Technical Founder](https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6)
+- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-be0)
+- [Desvendando a Hierarquia de Títulos HTML: Fundamentos, Semântica e Melhores Práticas](https://dev.to/edalves/desvendando-a-hierarquia-de-titulos-html-fundamentos-semantica-e-melhores-praticas-5gcp)
+- [Who Built It? How Proof of Attribution Gives Credit Where It’s Due?](https://dev.to/joinwithken/who-built-it-how-proof-of-attribution-gives-credit-where-its-due-14ee)
+- [Learn any Language Faster with One Click](https://dev.to/willy1948/learn-any-language-faster-with-one-click-2611)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
