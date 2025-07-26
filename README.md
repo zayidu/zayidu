@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [git-mcp-server crashed my repository](https://dev.to/dasheck0/git-mcp-server-crashed-my-repository-1om4)
-- [Building a Modern Data Warehouse in SQL Server with Medallion Architecture](https://dev.to/samit_paudel_5d330ffcfb22/building-a-modern-data-warehouse-in-sql-server-with-medallion-architecture-1234)
-- [I Published My First Python Library: `rs-calculator`](https://dev.to/rasa8877/i-published-my-first-python-library-rs-calculator-b1i)
-- [Compilers and How They Work](https://dev.to/mohanseetha/compilers-and-how-they-work-4ol9)
-- [AlgorithmO #11 — Решето на Ератостен](https://dev.to/dvt32/algorithmo-11-rieshieto-na-ieratostien-79a)
+- [Working with HTML Elements in TypeScript: A Complete Guide&lpar;13&rpar;](https://dev.to/wisdombits/working-with-html-elements-in-typescript-a-complete-guide13-1b3k)
+- [Understanding Browser Networking: CORS, Connections, and Security](https://dev.to/timmydee/understanding-browser-networking-cors-connections-and-security-54n)
+- [How Hybrid Testing Teams Balance Manual and Automation Seamlessly](https://dev.to/david_786/how-hybrid-testing-teams-balance-manual-and-automation-seamlessly-2g17)
+- [3 Microservices, 1 YAML File, 1 Command: The Power of Docker Compose](https://dev.to/sovannaro/3-microservices-1-yaml-file-1-command-the-power-of-docker-compose-p9)
+- [Inheritance in Java ;](https://dev.to/sundar_joseph_94059a3e7a6/inheritance-in-java--2bhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
