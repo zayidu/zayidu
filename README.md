@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Servers That I Use as a Technical Founder](https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6)
-- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-be0)
-- [Desvendando a Hierarquia de Títulos HTML: Fundamentos, Semântica e Melhores Práticas](https://dev.to/edalves/desvendando-a-hierarquia-de-titulos-html-fundamentos-semantica-e-melhores-praticas-5gcp)
-- [Who Built It? How Proof of Attribution Gives Credit Where It’s Due?](https://dev.to/joinwithken/who-built-it-how-proof-of-attribution-gives-credit-where-its-due-14ee)
-- [Learn any Language Faster with One Click](https://dev.to/willy1948/learn-any-language-faster-with-one-click-2611)
+- [Clock In, Clock Out: Office Life through CSS Art](https://dev.to/pranamyark/clock-in-clock-out-office-life-through-css-art-3mmg)
+- [Design LinkedList](https://dev.to/prashantrmishra/design-linkedlist-4ih7)
+- [VibeCraft AI – Turn Your Mood Into a Moodboard](https://dev.to/trojanmocx/vibecraft-ai-turn-your-mood-into-a-moodboard-13m0)
+- [Beyond the Code: How the World&#39;s Largest Hackathon Transformed My Developer Community Experience](https://dev.to/ariondev/beyond-the-code-how-the-worlds-largest-hackathon-transformed-my-developer-community-experience-5c5o)
+- [A Lightweight 5-Star Rating System for PHP](https://dev.to/emleons/a-lightweight-5-star-rating-system-for-php-46ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
