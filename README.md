@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Python 3.14&#39;s Zstandard Compression](https://dev.to/zeze1020/exploring-python-314s-zstandard-compression-59a)
-- [Modernizações com Estruturação Otimizado e Equipamentos Locados: A Fórmula Definitiva para Êxito Garantido](https://dev.to/syrianerve09/modernizacoes-com-estruturacao-otimizado-e-equipamentos-locados-a-formula-definitiva-para-exito-390f)
-- [Obra Enxuto: Como Realizar Reformas Mais Otimizadas e Econômicas através da Aluguel Estratégica de Ferramentas](https://dev.to/stovecollar29/obra-enxuto-como-realizar-reformas-mais-otimizadas-e-economicas-atraves-da-aluguel-estrategica-de-5eh3)
-- [Security news weekly round-up - 25th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5)
-- [LearnSync – A Unified Knowledge Explorer](https://dev.to/pulkitgovrani/learnsync-a-unified-knowledge-explorer-322k)
+- [AlterLang InterCode: A Native Intercomprehension Paradigm in Programming, Powered by GuruDev](https://dev.to/guilhermemachadoceo/alterlang-intercode-a-native-intercomprehension-paradigm-in-programming-powered-by-gurudev-3h53)
+- [The Is Palindrome Algorithm](https://dev.to/rubenoalvarado/the-is-palindrome-algorithm-559i)
+- [Image Creator](https://dev.to/najeeaa/image-creator-4p9n)
+- [Master SMS Programming with PHP: From Zero to Hero Using Africastalking](https://dev.to/arseytech/master-sms-programming-with-php-from-zero-to-hero-using-africa-stalking-4gn4)
+- [Title: Google&#39;s New Web Guide Search Experiment: Organizing Search Results with AI](https://dev.to/yagyaraj_sharma_6cd410179/title-googles-new-web-guide-search-experiment-organizing-search-results-with-ai-17l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
