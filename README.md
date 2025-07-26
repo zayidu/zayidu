@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AlterLang InterCode: A Native Intercomprehension Paradigm in Programming, Powered by GuruDev](https://dev.to/guilhermemachadoceo/alterlang-intercode-a-native-intercomprehension-paradigm-in-programming-powered-by-gurudev-3h53)
-- [The Is Palindrome Algorithm](https://dev.to/rubenoalvarado/the-is-palindrome-algorithm-559i)
-- [Image Creator](https://dev.to/najeeaa/image-creator-4p9n)
-- [Master SMS Programming with PHP: From Zero to Hero Using Africastalking](https://dev.to/arseytech/master-sms-programming-with-php-from-zero-to-hero-using-africa-stalking-4gn4)
-- [Title: Google&#39;s New Web Guide Search Experiment: Organizing Search Results with AI](https://dev.to/yagyaraj_sharma_6cd410179/title-googles-new-web-guide-search-experiment-organizing-search-results-with-ai-17l0)
+- [Scaling in Microservices Architecture: Vertical vs Horizontal](https://dev.to/siswoyo/scaling-in-microservices-architecture-vertical-vs-horizontal-37ma)
+- [Gemini-Powered AI app in 3 prompts](https://dev.to/igorgbr/gemini-powered-ai-app-in-3-prompts-e48)
+- [Identificador Único Universal &lpar;UUID&rpar;: o que a pgcrypto e a sua mãe têm em comum...](https://dev.to/dominiquemorem/identificador-unico-universal-uuid-o-que-a-pgcrypto-e-a-sua-mae-tem-em-comum-3j37)
+- [GGDrop vs Farmskins: Which CS2 Case Opening Platform Is Safer?](https://dev.to/axelflorez/ggdrop-vs-farmskins-which-cs2-case-opening-platform-is-safer-5bc5)
+- [Coze 开源了！所有人都可以免费使用了](https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
