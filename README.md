@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Multiple Columns: Build Layouts Like a Magazine](https://dev.to/er-raj-aryan/css-multiple-columns-build-layouts-like-a-magazine-5c04)
-- [Skeleton loading with dynamic search results from API response](https://dev.to/alejandrobovino/skeleton-loading-with-dynamic-search-results-from-api-response-2cmm)
-- [From Cajon Jams to Code: Learning m3u8 and Subtitles with My Kids](https://dev.to/shinya_yoshida_640f423ef2/from-cajon-jams-to-code-learning-m3u8-and-subtitles-with-my-kids-1k78)
-- [Building Developer Tools for Context Engineering: What Manus Taught Us and What We&#39;re Building](https://dev.to/contextspace_/building-developer-tools-for-context-engineering-what-manus-taught-us-and-what-were-building-23pn)
-- [Great to be in this beautiful community. I am a newbie with humility, patience and the ability to learn. Thank you for having me here!](https://dev.to/anthony_babatunde_032e62b/great-to-be-in-this-beautiful-community-i-am-a-newbie-with-humility-patience-and-the-ability-to-5bcn)
+- [Assign Users to Teams and Queues in Power Automate Using Perform a Bound Action](https://dev.to/nikhildynamicsce/assign-users-to-teams-and-queues-in-power-automate-using-perform-a-bound-action-3k8d)
+- [Is Everything in JavaScript an Object?](https://dev.to/codebyturkan/is-everything-in-javascript-an-object-32k)
+- [Visualize Like a Pro: Unlocking the Power of Matplotlib in Python](https://dev.to/rishabhtpt/visualize-like-a-pro-unlocking-the-power-of-matplotlib-in-python-5d23)
+- [Beyond the Click: The Rise of Autonomous Software Testing in 2025](https://dev.to/vaibhavkuls/beyond-the-click-the-rise-of-autonomous-software-testing-in-2025-3l17)
+- [Matplotlib Explained: From Basics to Advanced Charts*](https://dev.to/suraj_kumar_fb57ae0928df2/matplotlib-explained-from-basics-to-advanced-charts-4f5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
