@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Polymath Tool for All Your Audio and Document Needs](https://dev.to/watninja68/the-polymath-tool-for-all-your-audio-and-document-needs-1ej)
-- [🐳 Docker Multi-Stage Build - Complete Documentation](https://dev.to/dpvasani56/docker-multi-stage-build-complete-documentation-4990)
-- [Notes &amp; Cheatsheet: “Dockerizing an App – CKA Series #2”](https://dev.to/dpvasani56/notes-cheatsheet-dockerizing-an-app-cka-series-2-mo6)
-- [Beyond Git: Tools That Make Senior Developers Insanely Productive](https://dev.to/dct_technology/beyond-git-tools-that-make-senior-developers-insanely-productive-1d6m)
-- [Error Handling in Express.js](https://dev.to/shruti_jain_98b67e0d65330/error-handling-in-expressjs-24ec)
+- [DevSecOps with Github Actions and ArgoCD](https://dev.to/subham_behera/devsecops-with-github-actions-and-argocd-48c6)
+- [Query Smarter, Not Harder](https://dev.to/yogi_rahul/query-smarter-not-harder-ci5)
+- [My Best Web Development and Design Resources for 2025](https://dev.to/shatlyk/my-best-web-development-and-design-resources-for-2025-n3c)
+- [Deploy Node.js app anywhere with TurboCloud](https://dev.to/turbocloud_dev/deploy-nodejs-app-anywhere-with-turbocloud-2pji)
+- [Um...... I don&#39;t know what to do with my hands.](https://dev.to/duck13/um-i-dont-know-what-to-do-with-my-hands-24o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
