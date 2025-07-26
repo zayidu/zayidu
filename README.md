@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Next.js Project with TypeScript and Tailwind CSS](https://dev.to/rhythmsaha/how-to-set-up-a-nextjs-project-with-typescript-and-tailwind-css-2hk7)
-- [RealtimeAI Assistant - Voice-Powered Semantic Search with Redis Vector Engine](https://dev.to/ariondev/realtimeai-assistant-voice-powered-semantic-search-with-redis-vector-engine-2k7d)
-- [🧠 AI-Powered Quote Finder – Discover the Wisdom of Your Favorite Characters](https://dev.to/imkarthikeyan/ai-powered-quote-finder-discover-the-wisdom-of-your-favorite-characters-k68)
-- [Python Trending Weekly #112: Welcoming the New Generation of AI-Era Programmers](https://dev.to/pythoncat/python-trending-weekly-112-welcoming-the-new-generation-of-ai-era-programmers-1ig4)
-- [How to get started with ricing on Linux?](https://dev.to/_frozen_infinity_/how-to-get-started-with-ricing-on-linux-1l9d)
+- [Set Up ESLint with Vite &lpar;React, React Hooks, and React Refresh&rpar;](https://dev.to/best_codes/set-up-eslint-with-vite-react-react-hooks-and-react-refresh-24pm)
+- [The Importance of Styling React Components](https://dev.to/hazrat-ali9/the-importance-of-styling-react-components-1ngm)
+- [🧑‍💻 HackerEarth for Developers — Let Your Code Do the Talking](https://dev.to/ml318097/hackerearth-for-developers-let-your-code-do-the-talking-43im)
+- [Beyond the Code - Community and Connections at WLH](https://dev.to/ariondev/beyond-the-code-community-and-connections-at-wlh-n88)
+- [Symfony Station Communiqué - Stardate: ✦ 25 July 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-25-july-2025-the-latest-symfony-drupal-typo3-and-php-2cm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
