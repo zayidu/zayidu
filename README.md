@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling in Microservices Architecture: Vertical vs Horizontal](https://dev.to/siswoyo/scaling-in-microservices-architecture-vertical-vs-horizontal-37ma)
-- [Gemini-Powered AI app in 3 prompts](https://dev.to/igorgbr/gemini-powered-ai-app-in-3-prompts-e48)
-- [Identificador Único Universal &lpar;UUID&rpar;: o que a pgcrypto e a sua mãe têm em comum...](https://dev.to/dominiquemorem/identificador-unico-universal-uuid-o-que-a-pgcrypto-e-a-sua-mae-tem-em-comum-3j37)
-- [GGDrop vs Farmskins: Which CS2 Case Opening Platform Is Safer?](https://dev.to/axelflorez/ggdrop-vs-farmskins-which-cs2-case-opening-platform-is-safer-5bc5)
-- [Coze 开源了！所有人都可以免费使用了](https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef)
+- [Creating a Secure Subnet for FTP Traffic in Azure — My First Network Task](https://dev.to/peter_samuel_052b9056e236/creating-a-secure-subnet-for-ftp-traffic-in-azure-my-first-network-task-2o6f)
+- [The Hidden Challenge of Contradictory Requirements in Development Projects](https://dev.to/accioprocurement/the-hidden-challenge-of-contradictory-requirements-in-development-projects-109f)
+- [Spring Boot Server Admin](https://dev.to/said_olano/spring-boot-server-admin-5f40)
+- [Best React Native Icon Libraries in 2025](https://dev.to/masumparvej/best-react-native-icon-libraries-in-2025-55m5)
+- [Automating YouTube Shorts with Python and AI](https://dev.to/gu1lh3rm3_x/automating-youtube-shorts-with-python-and-ai-4i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
