@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Bluebox Is the Cloud Storage You’ve Been Waiting For &lpar;15GB Free — Forever&rpar;](https://dev.to/alagba/why-bluebox-is-the-cloud-storage-youve-been-waiting-for-15gb-free-forever-2e6j)
-- [✨🎨 Pure CSS Magic: How to Build a Realistic 3D Office Experience 🏢💻🪑](https://dev.to/mohamednizzad/pure-css-magic-how-to-build-a-realistic-3d-office-experience-h76)
-- [Guide on Creating &amp; Connecting to an Azure Virtual Machine](https://dev.to/isaiah_izibili_7a39b7d627/guide-on-creating-connecting-to-an-azure-virtual-machine-1f2a)
-- [🔀 Maintaining a Linear Commit History in Git](https://dev.to/rashidpbi/maintaining-a-linear-commit-history-in-git-4gff)
-- [Introducing Bluebox: A Free Cloud Storage Built for Developers, by Developers](https://dev.to/alagba/introducing-bluebox-a-free-cloud-storage-built-for-developers-by-developers-4iba)
+- [Novalink System](https://dev.to/melody_kelly_n/novalink-system-jc2)
+- [Remote Team Collaboration Made Easy](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
+- [Precision Engineering in Lithography: Behind the Semiconductor Machines](https://dev.to/aleemalrazeetonoy/precision-engineering-in-lithography-behind-the-semiconductor-machines-2cg6)
+- [What I Wish I Knew Earlier About Clean Architecture &lpar;from a PHP/Laravel Dev&rpar;](https://dev.to/emimaldo/what-i-wish-i-knew-earlier-about-clean-architecture-from-a-phplaravel-dev-5hn6)
+- [As Heurísticas de Nielsen](https://dev.to/edalves/as-heuristicas-de-nielsen-41p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
