@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐳 Using docker for DL MLOps for the first time](https://dev.to/utk7arsh/using-docker-for-dl-mlops-for-the-first-time-1ihm)
-- [Mastering Consistency: Best Practices for Follow Consistent Naming Conventions](https://dev.to/vjnvisakh/mastering-consistency-best-practices-for-follow-consistent-naming-conventions-i9h)
-- [A mighty web application that devours English descriptions and spits out perfect regular expressions using AI!](https://dev.to/raj_nick_f876e59afa93931b/a-mighty-web-application-that-devours-english-descriptions-and-spits-out-perfect-regular-382g)
-- [Locally Weighted Linear Regression: When One Line Isn&#39;t Enough &lpar;and Why It&#39;s Non-Parametric!&rpar; ✨🗺️](https://dev.to/randhir_kumar_6ccab967a14/locally-weighted-linear-regression-when-one-line-isnt-enough-and-why-its-non-parametric-3kca)
-- [🔄 Introducing Galus: A Lightweight and Blazing-Fast Live Reload Tool for Go Developers](https://dev.to/aliftech/introducing-galus-a-lightweight-and-blazing-fast-live-reload-tool-for-go-developers-1glg)
+- [git-mcp-server crashed my repository](https://dev.to/dasheck0/git-mcp-server-crashed-my-repository-1om4)
+- [Building a Modern Data Warehouse in SQL Server with Medallion Architecture](https://dev.to/samit_paudel_5d330ffcfb22/building-a-modern-data-warehouse-in-sql-server-with-medallion-architecture-1234)
+- [I Published My First Python Library: `rs-calculator`](https://dev.to/rasa8877/i-published-my-first-python-library-rs-calculator-b1i)
+- [Compilers and How They Work](https://dev.to/mohanseetha/compilers-and-how-they-work-4ol9)
+- [AlgorithmO #11 — Решето на Ератостен](https://dev.to/dvt32/algorithmo-11-rieshieto-na-ieratostien-79a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
