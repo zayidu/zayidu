@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Printing Characters via BIOS Using Inline Assembly in Wave](https://dev.to/lunastev/printing-characters-via-bios-using-inline-assembly-in-wave-19o8)
-- [The Complete DevOps Roadmap for 2025 🚀](https://dev.to/devopsdaily/the-complete-devops-roadmap-for-2025-4n1h)
-- [🔐 SmartKart Microservices Series](https://dev.to/siddharth_bhamare_8585/smartkart-microservices-series-4ob6)
-- [Vibe coding an Operating System chapter 1](https://dev.to/draculinio/vibe-coding-an-operating-system-chapter-1-4ilj)
-- [Docker-in-Docker &lpar;DinD&rpar;](https://dev.to/locnguyenpv/docker-in-docker-dind-1n18)
+- [How to Set Up a Next.js Project with TypeScript and Tailwind CSS](https://dev.to/rhythmsaha/how-to-set-up-a-nextjs-project-with-typescript-and-tailwind-css-2hk7)
+- [RealtimeAI Assistant - Voice-Powered Semantic Search with Redis Vector Engine](https://dev.to/ariondev/realtimeai-assistant-voice-powered-semantic-search-with-redis-vector-engine-2k7d)
+- [🧠 AI-Powered Quote Finder – Discover the Wisdom of Your Favorite Characters](https://dev.to/imkarthikeyan/ai-powered-quote-finder-discover-the-wisdom-of-your-favorite-characters-k68)
+- [Python Trending Weekly #112: Welcoming the New Generation of AI-Era Programmers](https://dev.to/pythoncat/python-trending-weekly-112-welcoming-the-new-generation-of-ai-era-programmers-1ig4)
+- [How to get started with ricing on Linux?](https://dev.to/_frozen_infinity_/how-to-get-started-with-ricing-on-linux-1l9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
