@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Assign Users to Teams and Queues in Power Automate Using Perform a Bound Action](https://dev.to/nikhildynamicsce/assign-users-to-teams-and-queues-in-power-automate-using-perform-a-bound-action-3k8d)
-- [Is Everything in JavaScript an Object?](https://dev.to/codebyturkan/is-everything-in-javascript-an-object-32k)
-- [Visualize Like a Pro: Unlocking the Power of Matplotlib in Python](https://dev.to/rishabhtpt/visualize-like-a-pro-unlocking-the-power-of-matplotlib-in-python-5d23)
-- [Beyond the Click: The Rise of Autonomous Software Testing in 2025](https://dev.to/vaibhavkuls/beyond-the-click-the-rise-of-autonomous-software-testing-in-2025-3l17)
-- [Matplotlib Explained: From Basics to Advanced Charts*](https://dev.to/suraj_kumar_fb57ae0928df2/matplotlib-explained-from-basics-to-advanced-charts-4f5e)
+- [Recreating Chrome&#39;s Classic: A Pixel-Perfect QR Code Generator Extension Built with WebAssembly](https://dev.to/liuliangsir/recreating-chromes-classic-a-pixel-perfect-qr-code-generator-extension-built-with-webassembly-3i9a)
+- [[Prompt] ND-ReRanker v 0.1](https://dev.to/neuron_dev/prompt-nd-reranker-v-01-494j)
+- [Cloning Users in Dynamics 365 CE Security App via Plugin](https://dev.to/nikhildynamicsce/cloning-users-in-dynamics-365-ce-security-app-via-plugin-cgf)
+- [Modern Bazel with Python-Module 5: Advanced Python Rules and Toolchains](https://dev.to/sushilbaligar/modern-bazel-with-python-module-5-advanced-python-rules-and-toolchains-1aep)
+- [From SMA to TEMA: Coding Technical Indicators in Python — Building stocksimpy 2](https://dev.to/suleyman_sade/from-sma-to-tema-coding-technical-indicators-in-python-building-stocksimpy-2-3162)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
