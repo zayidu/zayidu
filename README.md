@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev containers not working? Check if you’re using Flatpak VS Code](https://dev.to/antek5421/dev-containers-not-working-check-if-youre-using-flatpak-vs-code-21c5)
-- [🚀 Criei uma biblioteca que gera tipos TypeScript automaticamente dos seus Models Laravel](https://dev.to/arnaldo_tomo_c5b15bebe222/criei-uma-biblioteca-que-gera-tipos-typescript-automaticamente-dos-seus-models-laravel-3c08)
-- [Reducing Deadhead Miles with AI: A Hidden Win for Emissions in Freight](https://dev.to/tyler_allen_aa0af477fae91/reducing-deadhead-miles-with-ai-a-hidden-win-for-emissions-in-freight-1n8a)
-- [Beyond the Code: My Hackathon Journey with MyMealMind at the World&#39;s Largest Hackathon](https://dev.to/devraiks/beyond-the-code-my-hackathon-journey-with-mymealmind-at-the-worlds-largest-hackathon-1126)
-- [Just-in-Time &lpar;JIT&rpar; SSH Access with a Bastion Host on Proxmox VE](https://dev.to/sebos/just-in-time-jit-ssh-access-with-a-bastion-host-on-proxmox-ve-274c)
+- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
+- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
+- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
+- [Da Beira para o Mundo: Minha Jornada como Desenvolvedor Fullstack](https://dev.to/arnaldo/da-beira-para-o-mundo-minha-jornada-como-desenvolvedor-fullstack-21p8)
+- [The Internals of Bidirectional Pagination in Relay: A Deep Dive](https://dev.to/ikjot2605/the-internals-of-bidirectional-pagination-in-relay-a-deep-dive-9f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
