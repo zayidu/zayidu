@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pivoting in Internal Networks](https://dev.to/godofgeeks/pivoting-in-internal-networks-26cg)
-- [State Management Showdown: Signals, NgRx, RxJS - What to Choose and Why](https://dev.to/karol_modelski/state-management-showdown-signals-ngrx-rxjs-what-to-choose-and-why-9g4)
-- [🤖Understanding systemctl: The Heartbeat of Modern Linux](https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5)
-- [🎓 7 Smart ChatGPT Prompts Every Student Should Be Using in 2025!](https://dev.to/manasi_patil_/7-smart-chatgpt-prompts-every-student-should-be-using-in-2025-25od)
-- [3 Groundbreaking AI Developer Tools That Are Redefining Software Automation](https://dev.to/modalqa/3-groundbreaking-ai-developer-tools-that-are-redefining-software-automation-1ng8)
+- [LazyCats Intranet Portal](https://dev.to/ivan_manernyi/lazycats-intranet-portal-5d72)
+- [“Build Features, Not Folders”: Scalable React Architecture](https://dev.to/siddhesh_shirdhankar_902f/build-features-not-folders-scalable-react-architecture-6ng)
+- [Programing in fast day](https://dev.to/soikot026/programing-in-fast-day-3i9n)
+- [As a coder who appreciates good documentation I wholeheartedly agree.](https://dev.to/grexe/as-a-coder-who-appreciates-good-documentation-i-wholeheartedly-agree-56nb)
+- [How to Build a High-Converting SEO Funnel for Luxury Travel Brands Introduction](https://dev.to/anthony_babatunde_032e62b/how-to-build-a-high-converting-seo-funnel-for-luxury-travel-brandsintroduction-4d3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
