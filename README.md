@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 47: When Everything Goes Wrong Despite Doing Everything Right](https://dev.to/casperday11/day-47-when-everything-goes-wrong-despite-doing-everything-right-2agk)
+- [Building a RESTful API with Node.js, Express, Sequelize &amp; PostgreSQL &lpar;2025 Update&rpar;](https://dev.to/djamware_tutorial_eba1a61/building-a-restful-api-with-nodejs-express-sequelize-postgresql-2025-update-5be3)
+- [Quick Update: My Bookmark Extension Hits 500 Users! 🎉](https://dev.to/sheep_/quick-update-my-bookmark-extension-hits-500-users-4f86)
 - [Which is better: Healthcare Software as a Service &lpar;SaaS&rpar; or a professional license?](https://dev.to/nzcares/which-is-better-healthcare-software-as-a-service-saas-or-a-professional-license-549d)
 - [Building IntelliCV: An AI Resume Tool That Actually Helps 🚀](https://dev.to/himanshujain112/building-intellicv-an-ai-resume-tool-that-actually-helps-1n7m)
-- [MCP - The &quot;USB-C Port&quot; for AI Apps](https://dev.to/ashishsimplecoder/mcp-the-usb-c-port-for-ai-apps-22pg)
-- [How I Went from Government Job to Global AI Voice &lpar;My Story&rpar;](https://dev.to/jaideepparashar/how-i-went-from-government-job-to-global-ai-voice-my-story-2mhj)
-- [Applying the Mediator Pattern in ASP.NET Core with MediatR](https://dev.to/adrianbailador/applying-the-mediator-pattern-in-aspnet-core-with-mediatr-la3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
