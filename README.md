@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use MCP Inspector with Remote or Cloud‑hosted MCP Servers](https://dev.to/om_shree_0709/how-to-use-mcp-inspector-with-remote-or-cloud-hosted-mcp-servers-5a2b)
-- [How a 60-GB ID Leak Proved: Don’t DIY What You Can Delegate to Professionals](https://dev.to/bravian1/how-a-60-gb-id-leak-proved-dont-diy-what-you-can-delegate-to-professionals-2679)
-- [Day 14: Animate on Hover with Tailwind CSS &lpar;Scale, Rotate, and More&rpar;](https://dev.to/ruqaiya_beguwala/day-14-animate-on-hover-with-tailwind-css-scale-rotate-and-more-2eip)
-- [Threat Advisory: Security Flaw Defense](https://dev.to/rafalw3bcraft/threat-advisory-security-flaw-defense-53h9)
-- [Your Guide to the Laws of the Spirit](https://dev.to/lifepurposeapp/your-guide-to-the-laws-of-the-spirit-11h2)
+- [🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge](https://dev.to/mohamednizzad/behind-the-build-nexusflow-and-my-journey-in-axeros-office-challenge-5gnk)
+- [WTF is Serverless Architecture?](https://dev.to/dailybugle33/wtf-is-serverless-architecture-2h82)
+- [Detecting Android Malware Using Only App Permissions: A Lightweight ML Approach](https://dev.to/naresh_82de734ade4c1c66d9/detecting-android-malware-using-only-app-permissions-a-lightweight-ml-approach-1cb9)
+- [How I Learned Data Analytics—And How You Can Too. Power BI Series](https://dev.to/chinemerem_okpara_9f0dbbc/how-i-learned-data-analytics-and-how-you-can-too-power-bi-series-1cmo)
+- [Basics of EDA](https://dev.to/raman_butta/basics-of-eda-11fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
