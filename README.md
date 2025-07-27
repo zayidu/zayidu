@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Nothing: Exploring Go&#39;s Empty Struct](https://dev.to/leapcell/the-power-of-nothing-exploring-gos-empty-struct-mj3)
-- [Beginner&#39;s Guide to SQL for Data Analysis](https://dev.to/nginacloud/beginners-guide-to-sql-for-data-analysis-27lg)
-- [great use of AI!](https://dev.to/techgirl1908/great-use-of-ai-6be)
-- [AI Hiring Bias: When Technology Perpetuates Inequality](https://dev.to/nour_elabed_998c5cf6add1/ai-hiring-bias-when-technology-perpetuates-inequality-3e9n)
-- [AI Hiring Bias: When Technology Perpetuates Inequality](https://dev.to/omar_charif_6e19c6fff8e2b/ai-hiring-bias-when-technology-perpetuates-inequality-321o)
+- [Dev containers not working? Check if you’re using Flatpak VS Code](https://dev.to/antek5421/dev-containers-not-working-check-if-youre-using-flatpak-vs-code-21c5)
+- [🚀 Criei uma biblioteca que gera tipos TypeScript automaticamente dos seus Models Laravel](https://dev.to/arnaldo_tomo_c5b15bebe222/criei-uma-biblioteca-que-gera-tipos-typescript-automaticamente-dos-seus-models-laravel-3c08)
+- [Reducing Deadhead Miles with AI: A Hidden Win for Emissions in Freight](https://dev.to/tyler_allen_aa0af477fae91/reducing-deadhead-miles-with-ai-a-hidden-win-for-emissions-in-freight-1n8a)
+- [Beyond the Code: My Hackathon Journey with MyMealMind at the World&#39;s Largest Hackathon](https://dev.to/devraiks/beyond-the-code-my-hackathon-journey-with-mymealmind-at-the-worlds-largest-hackathon-1126)
+- [Just-in-Time &lpar;JIT&rpar; SSH Access with a Bastion Host on Proxmox VE](https://dev.to/sebos/just-in-time-jit-ssh-access-with-a-bastion-host-on-proxmox-ve-274c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
