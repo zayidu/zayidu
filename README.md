@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vite for React SPA](https://dev.to/tak089/vite-for-react-spa-3do9)
-- [Why TypeScript Won &lpar;and You Should Just Give In Already&rpar;](https://dev.to/pranta/why-typescript-won-and-you-should-just-give-in-already-49k4)
-- [From Challenge to Comprehensive App, My Frontend Development Journey](https://dev.to/robot254/from-challenge-to-comprehensive-app-my-frontend-development-journey-54dp)
-- [How to Solve MySQL and Redis Cache Inconsistency Like a Pro](https://dev.to/xinjie_zou_d67d2805538130/how-to-solve-mysql-and-redis-cache-inconsistency-like-a-pro-2d7i)
-- [Microsoft Azure Static Web Apps: The Art of Sucking, Web App Horror Story](https://dev.to/ezhil_sivarajsr/microsoft-azure-static-web-apps-the-art-of-sucking-web-app-horror-story-4jg1)
+- [🎯 Pygame + Pymunk Collision Lab — tweak mass &amp; speed, watch the physics happen](https://dev.to/joseph_sen_794cde6a4dbccf/pygame-pymunk-collision-lab-tweak-mass-speed-watch-the-physics-happen-1fff)
+- [🧠 State of Mind: React useState Made Simple — Part 2](https://dev.to/srushti/state-of-mind-react-usestate-made-simple-part-2-5g1a)
+- [How to Fetch API Data in React Using useEffect](https://dev.to/briancheruiyot11/how-to-fetch-api-data-in-react-using-useeffect-4o8c)
+- [JavaScript’s Role in Web Development: A Comprehensive Introduction](https://dev.to/vandnakapoor19/javascripts-role-in-web-development-a-comprehensive-introduction-30ja)
+- [Clean Product Card with Add to Cart Button](https://dev.to/musa379/clean-product-card-with-add-to-cart-button-5a9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
