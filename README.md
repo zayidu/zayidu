@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients](https://dev.to/nganggurdev/how-to-set-colors-and-backgrounds-in-css-from-named-colors-to-gradients-2fgo)
-- [Your personal Blockchain tutor powered by AssemblyAI](https://dev.to/julsr_mx/your-personal-blockchain-tutor-powered-by-assemblyai-1dek)
-- [Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation](https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j)
-- [Hello, Dev Community — I’m Masum Billah &lpar;aka @billahdotdev&rpar;](https://dev.to/billahdotdev/hello-dev-community-im-masum-billah-aka-billahdotdev-5en2)
-- [How to manage virtual machine in Azure.](https://dev.to/onyemuche/how-to-manage-virtual-machine-in-azure-1hog)
+- [Cloud Resume Challenge &lpar;v1.0&rpar;](https://dev.to/harmoniouspath/cloud-resume-challenge-v10-569)
+- [AI-Powered Supply Chain Simulator &lpar;Open Source Tool&rpar;](https://dev.to/amelia_50710de4d77e068640/ai-powered-supply-chain-simulator-open-source-tool-3bdm)
+- [[AWS] How to do team development with Kiro SPEC &lpar;SPEC division, external implementation interruption&rpar; [Kiro]](https://dev.to/aws-builders/aws-how-to-do-team-development-with-kiro-spec-spec-division-external-implementation-1aan)
+- [How to Encrypt Files Online Securely: A Step-by-Step Guide](https://dev.to/trixsec/how-to-encrypt-files-online-securely-a-step-by-step-guide-423f)
+- [Introducing Jengo React Starter Kit – Build CI4 Apps with React &amp; Inertia.js Effortlessly](https://dev.to/gilads-otiannoh24/introducing-jengo-react-starter-kit-build-ci4-apps-with-react-inertiajs-effortlessly-p8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
