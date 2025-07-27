@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Show the Native Android Location Enable Popup in React Native &lpar;No Third-Party Libraries&rpar;](https://dev.to/freakflames29/how-to-show-the-native-android-location-enable-popup-in-react-native-no-third-party-libraries-51ep)
-- [Understanding Database Transaction Rollbacks: Resolving Conflicts for Data Integrity and Consistency](https://dev.to/adityabhuyan/understanding-database-transaction-rollbacks-resolving-conflicts-for-data-integrity-and-consistency-26if)
-- [Introducing DevToolbox – A Free Developer Toolkit for Fonts, Icons, Gradients &amp; More](https://dev.to/jatin_mehta_a7cccbd5b54ba/introducing-devtoolbox-a-free-developer-toolkit-for-fonts-icons-gradients-more-3id8)
-- [After the Hack: What Comes Next When the Build is Just the Beginning](https://dev.to/pr135t/after-the-hack-what-comes-next-when-the-build-is-just-the-beginning-4p29)
-- [🚀 Mastering Linux Package Management: From RPM&#39;s Roots to DNF&#39;s Modern Magic! ✨](https://dev.to/sahillearninglinux/mastering-linux-package-management-from-rpms-roots-to-dnfs-modern-magic-3ena)
+- [Pivoting in Internal Networks](https://dev.to/godofgeeks/pivoting-in-internal-networks-26cg)
+- [State Management Showdown: Signals, NgRx, RxJS - What to Choose and Why](https://dev.to/karol_modelski/state-management-showdown-signals-ngrx-rxjs-what-to-choose-and-why-9g4)
+- [🤖Understanding systemctl: The Heartbeat of Modern Linux](https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5)
+- [🎓 7 Smart ChatGPT Prompts Every Student Should Be Using in 2025!](https://dev.to/manasi_patil_/7-smart-chatgpt-prompts-every-student-should-be-using-in-2025-25od)
+- [3 Groundbreaking AI Developer Tools That Are Redefining Software Automation](https://dev.to/modalqa/3-groundbreaking-ai-developer-tools-that-are-redefining-software-automation-1ng8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
