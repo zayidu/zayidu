@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [simple ATM Project in Java-covering full CRUD &lpar;without DB, using console + Java basics&rpar;.](https://dev.to/neelakandan_ravi/simple-atm-project-in-java-covering-full-crud-without-db-using-console-java-basics-1mol)
-- [Why Everyone Is Talking About Edge Functions](https://dev.to/dumboprogrammer/why-everyone-is-talking-about-edge-functions-25bl)
-- [Retail Router: Prototype and Beyond](https://dev.to/sherry_brown/retail-router-vibe-coding-to-prototype-and-beyond-1dc4)
-- [⚖️ Chapter 4: Merits &amp; Demerits — The Duality of Intelligence](https://dev.to/pjdeveloper896/chapter-4-merits-demerits-the-duality-of-intelligence-4cng)
-- [The New Stack for AI Builders：Memory + Emotion + Context](https://dev.to/contextspace_/the-new-stack-for-ai-buildersmemory-emotion-context-2ldo)
+- [How to Show the Native Android Location Enable Popup in React Native &lpar;No Third-Party Libraries&rpar;](https://dev.to/freakflames29/how-to-show-the-native-android-location-enable-popup-in-react-native-no-third-party-libraries-51ep)
+- [Understanding Database Transaction Rollbacks: Resolving Conflicts for Data Integrity and Consistency](https://dev.to/adityabhuyan/understanding-database-transaction-rollbacks-resolving-conflicts-for-data-integrity-and-consistency-26if)
+- [Introducing DevToolbox – A Free Developer Toolkit for Fonts, Icons, Gradients &amp; More](https://dev.to/jatin_mehta_a7cccbd5b54ba/introducing-devtoolbox-a-free-developer-toolkit-for-fonts-icons-gradients-more-3id8)
+- [After the Hack: What Comes Next When the Build is Just the Beginning](https://dev.to/pr135t/after-the-hack-what-comes-next-when-the-build-is-just-the-beginning-4p29)
+- [🚀 Mastering Linux Package Management: From RPM&#39;s Roots to DNF&#39;s Modern Magic! ✨](https://dev.to/sahillearninglinux/mastering-linux-package-management-from-rpms-roots-to-dnfs-modern-magic-3ena)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
