@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Real Performance Bug I Found and Fixed — Step by Step](https://dev.to/czhoudev/a-real-performance-bug-i-found-and-fixed-step-by-step-348)
-- [Title: Nurturing Compassion: A Journey from Self-Care to Altruism](https://dev.to/yagyaraj_sharma_6cd410179/title-nurturing-compassion-a-journey-from-self-care-to-altruism-4a6a)
-- [Patreon Doesn’t Show Your Total Spending. So I Did.](https://dev.to/realvorl/patreon-doesnt-show-your-total-spending-so-i-did-1bo5)
-- [AI&#39;s Bold Future in Cybersecurity Threats](https://dev.to/sebastian_reid999/ais-bold-future-in-cybersecurity-threats-ed1)
-- [CSS Inheritance](https://dev.to/anthonybanion/css-inheritance-5de2)
+- [How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients](https://dev.to/nganggurdev/how-to-set-colors-and-backgrounds-in-css-from-named-colors-to-gradients-2fgo)
+- [Your personal Blockchain tutor powered by AssemblyAI](https://dev.to/julsr_mx/your-personal-blockchain-tutor-powered-by-assemblyai-1dek)
+- [Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation](https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j)
+- [Hello, Dev Community — I’m Masum Billah &lpar;aka @billahdotdev&rpar;](https://dev.to/billahdotdev/hello-dev-community-im-masum-billah-aka-billahdotdev-5en2)
+- [How to manage virtual machine in Azure.](https://dev.to/onyemuche/how-to-manage-virtual-machine-in-azure-1hog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
