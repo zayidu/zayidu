@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LazyCats Intranet Portal](https://dev.to/ivan_manernyi/lazycats-intranet-portal-5d72)
-- [“Build Features, Not Folders”: Scalable React Architecture](https://dev.to/siddhesh_shirdhankar_902f/build-features-not-folders-scalable-react-architecture-6ng)
-- [Programing in fast day](https://dev.to/soikot026/programing-in-fast-day-3i9n)
-- [As a coder who appreciates good documentation I wholeheartedly agree.](https://dev.to/grexe/as-a-coder-who-appreciates-good-documentation-i-wholeheartedly-agree-56nb)
-- [How to Build a High-Converting SEO Funnel for Luxury Travel Brands Introduction](https://dev.to/anthony_babatunde_032e62b/how-to-build-a-high-converting-seo-funnel-for-luxury-travel-brandsintroduction-4d3a)
+- [How to Use MCP Inspector with Remote or Cloud‑hosted MCP Servers](https://dev.to/om_shree_0709/how-to-use-mcp-inspector-with-remote-or-cloud-hosted-mcp-servers-5a2b)
+- [How a 60-GB ID Leak Proved: Don’t DIY What You Can Delegate to Professionals](https://dev.to/bravian1/how-a-60-gb-id-leak-proved-dont-diy-what-you-can-delegate-to-professionals-2679)
+- [Day 14: Animate on Hover with Tailwind CSS &lpar;Scale, Rotate, and More&rpar;](https://dev.to/ruqaiya_beguwala/day-14-animate-on-hover-with-tailwind-css-scale-rotate-and-more-2eip)
+- [Threat Advisory: Security Flaw Defense](https://dev.to/rafalw3bcraft/threat-advisory-security-flaw-defense-53h9)
+- [Your Guide to the Laws of the Spirit](https://dev.to/lifepurposeapp/your-guide-to-the-laws-of-the-spirit-11h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
