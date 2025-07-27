@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Resume Challenge &lpar;v1.0&rpar;](https://dev.to/harmoniouspath/cloud-resume-challenge-v10-569)
-- [AI-Powered Supply Chain Simulator &lpar;Open Source Tool&rpar;](https://dev.to/amelia_50710de4d77e068640/ai-powered-supply-chain-simulator-open-source-tool-3bdm)
-- [[AWS] How to do team development with Kiro SPEC &lpar;SPEC division, external implementation interruption&rpar; [Kiro]](https://dev.to/aws-builders/aws-how-to-do-team-development-with-kiro-spec-spec-division-external-implementation-1aan)
-- [How to Encrypt Files Online Securely: A Step-by-Step Guide](https://dev.to/trixsec/how-to-encrypt-files-online-securely-a-step-by-step-guide-423f)
-- [Introducing Jengo React Starter Kit – Build CI4 Apps with React &amp; Inertia.js Effortlessly](https://dev.to/gilads-otiannoh24/introducing-jengo-react-starter-kit-build-ci4-apps-with-react-inertiajs-effortlessly-p8i)
+- [simple ATM Project in Java-covering full CRUD &lpar;without DB, using console + Java basics&rpar;.](https://dev.to/neelakandan_ravi/simple-atm-project-in-java-covering-full-crud-without-db-using-console-java-basics-1mol)
+- [Why Everyone Is Talking About Edge Functions](https://dev.to/dumboprogrammer/why-everyone-is-talking-about-edge-functions-25bl)
+- [Retail Router: Prototype and Beyond](https://dev.to/sherry_brown/retail-router-vibe-coding-to-prototype-and-beyond-1dc4)
+- [⚖️ Chapter 4: Merits &amp; Demerits — The Duality of Intelligence](https://dev.to/pjdeveloper896/chapter-4-merits-demerits-the-duality-of-intelligence-4cng)
+- [The New Stack for AI Builders：Memory + Emotion + Context](https://dev.to/contextspace_/the-new-stack-for-ai-buildersmemory-emotion-context-2ldo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
