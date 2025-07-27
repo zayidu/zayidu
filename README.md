@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Long Day, Slow Progress – But Still Moving #21](https://dev.to/0xj0n1/long-day-slow-progress-but-still-moving-21-co0)
+- [Mission 8: Interview Prep Part Two](https://dev.to/theoriginalbpc/mission-8-interview-prep-part-two-2i0k)
+- [Building OfficeTeamBoard: A Modern Kanban Solution for Remote Teams](https://dev.to/ai_agi/building-officeteamboard-a-modern-kanban-solution-for-remote-teams-11ae)
 - [Building a Smart Recipe Discovery Platform with Algolia MCP Server](https://dev.to/ai_agi/building-a-smart-recipe-discovery-platform-with-algolia-mcp-server-4b70)
 - [View CSV Instantly — No Uploads, No Installs, Just Paste and See](https://dev.to/trixahub/view-csv-instantly-no-uploads-no-installs-just-paste-and-see-4kn3)
-- [VoiceFlow Pro: AI-Powered Real-Time Audio Processing and Analysis Agent](https://dev.to/ai_agi/voiceflow-pro-ai-powered-real-time-audio-processing-and-analysis-agent-57bp)
-- [Real-Time AI Code Review Assistant with Redis Vector Search](https://dev.to/ai_agi/real-time-ai-code-review-assistant-with-redis-vector-search-56an)
-- [YINI Parser Hits Beta - Human-Friendly, Modern Config Format with Minimal Syntax Noise](https://dev.to/marko_kseppnen_6250a7f/yini-parser-hits-beta-human-friendly-modern-config-format-with-minimal-syntax-noise-2goo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
