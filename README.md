@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aviator predictor](https://dev.to/red_star_0412c2cbf4aca263/aviator-predictor-paa)
-- [Revolutionizing Retail: A Blockchain-Powered Loyalty and Transaction System with FastAPI + Ethereum](https://dev.to/shushantrishav/revolutionizing-retail-a-blockchain-powered-loyalty-and-transaction-system-with-fastapi-ethereum-2i72)
-- [Enhance your Code Security with Amazon Inspector](https://dev.to/aws-builders/enhance-your-code-security-with-amazon-inspector-45no)
-- [Python](https://dev.to/yasir_landur_7300786d7c8c/python-46nc)
-- [Website Monitoring &lpar;Golang&rpar;](https://dev.to/pardnchiu/website-monitoring-system-golang-1lfo)
+- [Understanding Proxies: What, Why, and How to Build One in Go](https://dev.to/lovestaco/understanding-proxies-what-why-and-how-to-build-one-in-go-108d)
+- [How I Built MemoirVault: A Private Multimedia Autobiography App with Kiro &lpar;#kiro&rpar;](https://dev.to/enclaveprojects/how-i-built-memoirvault-a-private-multimedia-autobiography-app-with-kiro-kiro-1fgi)
+- [Axero Intranet Solution - Modern Workplace Portal](https://dev.to/agihtaws_581/axero-intranet-solution-modern-workplace-portal-46gi)
+- [VectorChat - Real-Time AI-Powered Customer Support with Redis Vector Search](https://dev.to/ariondev/vectorchat-real-time-ai-powered-customer-support-with-redis-vector-search-4kna)
+- [VoiceFlow Pro](https://dev.to/sreeganesh_jagatab_0368f2/voiceflow-pro-41nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
