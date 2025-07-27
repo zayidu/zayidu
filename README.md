@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSpace - A Focus-Driven Intranet for Introverted Developers](https://dev.to/pulkitgovrani/devspace-a-focus-driven-intranet-for-introverted-developers-2bjp)
-- [InCoder | JetBrains Plugin](https://dev.to/ddamno_f4be48b6d302c9491c/incoder-jetbrains-plugin-2jhp)
-- [Python Length of Array](https://dev.to/kiani0x01/python-length-of-array-3p6o)
-- [Top Platform Engineering Mistakes to Watch Out For](https://dev.to/mehul_budasana/top-platform-engineering-mistakes-to-watch-out-for-137)
-- [Frontend Challenge: Office Edition Submission](https://dev.to/aniruddhaadak/frontend-challenge-office-edition-submission-2m6l)
+- [Building a Smart Recipe Discovery Platform with Algolia MCP Server](https://dev.to/ai_agi/building-a-smart-recipe-discovery-platform-with-algolia-mcp-server-4b70)
+- [View CSV Instantly — No Uploads, No Installs, Just Paste and See](https://dev.to/trixahub/view-csv-instantly-no-uploads-no-installs-just-paste-and-see-4kn3)
+- [VoiceFlow Pro: AI-Powered Real-Time Audio Processing and Analysis Agent](https://dev.to/ai_agi/voiceflow-pro-ai-powered-real-time-audio-processing-and-analysis-agent-57bp)
+- [Real-Time AI Code Review Assistant with Redis Vector Search](https://dev.to/ai_agi/real-time-ai-code-review-assistant-with-redis-vector-search-56an)
+- [YINI Parser Hits Beta - Human-Friendly, Modern Config Format with Minimal Syntax Noise](https://dev.to/marko_kseppnen_6250a7f/yini-parser-hits-beta-human-friendly-modern-config-format-with-minimal-syntax-noise-2goo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
