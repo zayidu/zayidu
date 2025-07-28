@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ Turning Microsoft Teams Meetings into Actionable AI Reports with AssemblyAI 🧠💼](https://dev.to/aravind_d/turning-microsoft-teams-meetings-into-actionable-ai-reports-with-assemblyai-5dck)
-- [DAY 01 - I Setup my SDK Project and Created the Entry Point!](https://dev.to/estrolabz/day-01-i-setup-my-sdk-project-and-created-the-entry-point-1gnn)
-- [10 Real-World Problems I Solved Using Just ChatGPT Prompts](https://dev.to/jaideepparashar/10-real-world-problems-i-solved-using-just-chatgpt-prompts-4pcl)
-- [Introducing Vyoma UI. My own Component Library Built on top of shadcn/ui.](https://dev.to/srijanbaniyal/introducing-vyoma-ui-my-own-component-library-built-on-top-of-shadcnui-26kn)
-- [SafeLine vs. BunkerWeb: Which Open Source WAF Is Right for You?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-bunkerweb-which-open-source-waf-is-right-for-you-2522)
+- [ai agents making outbound sales calls: what works, what doesn&#39;t after building VocallQ](https://dev.to/takitajwar17/ai-agents-making-outbound-sales-calls-what-works-what-doesnt-after-building-vocallq-33go)
+- [What I&#39;ve Gained After 6 Years Blogging on dev.to](https://dev.to/canro91/what-ive-gained-after-6-years-blogging-on-devto-4ife)
+- [How I Built EduConnect Hub – My First Full Stack Project Using React and Node.js](https://dev.to/manisshh/how-i-built-educonnect-hub-my-first-full-stack-project-using-react-and-nodejs-3id7)
+- [Gotta Search &#39;Em All, MCP!!](https://dev.to/justin_mc/gotta-search-em-all-mcp-4662)
+- [Not Just Another Wrapper：The Engineering Behind Context Space](https://dev.to/contextspace_/not-just-another-wrapperthe-engineering-behind-context-space-3ppl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
