@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
-- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
-- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
-- [Avalanche Node Peculiarities and Benefits](https://dev.to/getblockapi/avalanche-node-peculiarities-and-benefits-50k)
-- [Hello from Make.com!](https://dev.to/sudheera_n_bc361cfbdb1df9/hello-from-makecom-2pjg)
+- [Infoscava Plugin Creator: Expanding Analysis Capabilities](https://dev.to/hejhdiss/infoscava-plugin-creator-expanding-analysis-capabilities-1bd9)
+- [2025 and NestJS: A Match Made for Modern Backend Needs](https://dev.to/leapcell/2025-and-nestjs-a-match-made-for-modern-backend-needs-51jm)
+- [Announcing NgRx v20: The Power of Events, Enhanced DX, and a Mature SignalStore!](https://dev.to/ngrx/announcing-ngrx-v20-the-power-of-events-enhanced-dx-and-a-mature-signalstore-2fdm)
+- [How AI and Machine Learning Can Boost Casino Game Monetization?](https://dev.to/arup_roy_76709f4e63af965c/how-ai-and-machine-learning-can-boost-casino-game-monetization-1eo0)
+- [Chiara Battaglia: la speaker che traduce l’AI per il pubblico radiofonico &lpar;e non solo&rpar;](https://dev.to/aimylife/chiara-battaglia-la-speaker-che-traduce-lai-per-il-pubblico-radiofonico-e-non-solo-526)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
