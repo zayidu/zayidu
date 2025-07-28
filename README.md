@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Portfolio: Weekend AI Projects You Need to Build! 🚀](https://dev.to/amira_bekhta_25/level-up-your-portfolio-weekend-ai-projects-you-need-to-build-2kbl)
-- [Why I Stopped Building UIs First And Started With the API](https://dev.to/vadym_info_polus/why-i-stopped-building-uis-first-and-started-with-the-api-a2o)
-- [Tamil Startup MeetUp For Tamil-AI](https://dev.to/elayaraj31/tamil-startup-meetup-for-tamil-ai-4779)
-- [MedGuardian – The Sassiest Disease Predictor AI](https://dev.to/trojanmocx/medguardian-the-sassiest-disease-predictor-ai-2l7j)
-- [🎨 CSS-Tricks — Your Go-To Resource for Frontend Development](https://dev.to/ml318097/css-tricks-your-go-to-resource-for-frontend-development-3k75)
+- [Building Scalable Authentication: The Smart Way to Handle Tokens with Redis and Database Storage](https://dev.to/harmanpreetsingh/building-scalable-authentication-the-smart-way-to-handle-tokens-with-redis-and-database-storage-1lcf)
+- [How To Get Quality Backlinks: 10 Ways That Really Work](https://dev.to/integrateit/how-to-get-quality-backlinks-10-ways-that-really-work-50ah)
+- [CVE-2025-20281: Cisco Identity Services Engine Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-20281-cisco-identity-services-engine-injection-vulnerability-3lbb)
+- [How to Set Up SSH Server on Termux — Remote Shell Access Made Easy](https://dev.to/terminaltools/how-to-set-up-ssh-server-on-termux-remote-shell-access-made-easy-5ci7)
+- [CVE-2025-20337: Cisco Identity Services Engine Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-20337-cisco-identity-services-engine-injection-vulnerability-58lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
