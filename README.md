@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Women in Digital Marketing: Bangalore’s Growing Community of Female Marketers](https://dev.to/jaya_k_4cae5ac236cdf6bf5a/women-in-digital-marketing-bangalores-growing-community-of-female-marketers-4ekn)
-- [Sensitive Teeth: Causes, Treatments and Effective Pain Relief Tips](https://dev.to/smilesatlds/sensitive-teeth-causes-treatments-and-effective-pain-relief-tips-1hb5)
-- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
-- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
-- [Provide Storage for IT Department Testing and Training](https://dev.to/biola_lawaljr_d5dc2882c89/provide-storage-for-it-department-testing-and-training-299e)
+- [Splitgate 2 ‘unlaunches,&#39; studio to cut staff ahead of 2026 rerelease](https://dev.to/gg_news/splitgate-2-unlaunches-studio-to-cut-staff-ahead-of-2026-rerelease-40ej)
+- [Nintendo re-wrote its patent, in the middle of its lawsuit against Palworld developer Pocketpair](https://dev.to/gg_news/nintendo-re-wrote-its-patent-in-the-middle-of-its-lawsuit-against-palworld-developer-pocketpair-3k6f)
+- [Microsoft concedes that &#39;The Outer Worlds 2&#39; retail price was too high, begins to issue refunds.](https://dev.to/gg_news/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high-begins-to-issue-refunds-1ii8)
+- [Gixel comes out of stealth with a new type of AR optical engine](https://dev.to/future_arvr/gixel-comes-out-of-stealth-with-a-new-type-of-ar-optical-engine-1e29)
+- [ALIBABA will announce its first AI Glasses this week: There&#39;s a version with display, and a version without](https://dev.to/future_arvr/alibaba-will-announce-its-first-ai-glasses-this-week-theres-a-version-with-display-and-a-version-2hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
