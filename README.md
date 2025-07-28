@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Infoscava Plugin Creator: Expanding Analysis Capabilities](https://dev.to/hejhdiss/infoscava-plugin-creator-expanding-analysis-capabilities-1bd9)
-- [2025 and NestJS: A Match Made for Modern Backend Needs](https://dev.to/leapcell/2025-and-nestjs-a-match-made-for-modern-backend-needs-51jm)
-- [Announcing NgRx v20: The Power of Events, Enhanced DX, and a Mature SignalStore!](https://dev.to/ngrx/announcing-ngrx-v20-the-power-of-events-enhanced-dx-and-a-mature-signalstore-2fdm)
-- [How AI and Machine Learning Can Boost Casino Game Monetization?](https://dev.to/arup_roy_76709f4e63af965c/how-ai-and-machine-learning-can-boost-casino-game-monetization-1eo0)
-- [Chiara Battaglia: la speaker che traduce l’AI per il pubblico radiofonico &lpar;e non solo&rpar;](https://dev.to/aimylife/chiara-battaglia-la-speaker-che-traduce-lai-per-il-pubblico-radiofonico-e-non-solo-526)
+- [Level Up Your Portfolio: Weekend AI Projects You Need to Build! 🚀](https://dev.to/amira_bekhta_25/level-up-your-portfolio-weekend-ai-projects-you-need-to-build-2kbl)
+- [Why I Stopped Building UIs First And Started With the API](https://dev.to/vadym_info_polus/why-i-stopped-building-uis-first-and-started-with-the-api-a2o)
+- [Tamil Startup MeetUp For Tamil-AI](https://dev.to/elayaraj31/tamil-startup-meetup-for-tamil-ai-4779)
+- [MedGuardian – The Sassiest Disease Predictor AI](https://dev.to/trojanmocx/medguardian-the-sassiest-disease-predictor-ai-2l7j)
+- [🎨 CSS-Tricks — Your Go-To Resource for Frontend Development](https://dev.to/ml318097/css-tricks-your-go-to-resource-for-frontend-development-3k75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
