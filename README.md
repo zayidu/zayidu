@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Authentication: The Smart Way to Handle Tokens with Redis and Database Storage](https://dev.to/harmanpreetsingh/building-scalable-authentication-the-smart-way-to-handle-tokens-with-redis-and-database-storage-1lcf)
-- [How To Get Quality Backlinks: 10 Ways That Really Work](https://dev.to/integrateit/how-to-get-quality-backlinks-10-ways-that-really-work-50ah)
-- [CVE-2025-20281: Cisco Identity Services Engine Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-20281-cisco-identity-services-engine-injection-vulnerability-3lbb)
-- [How to Set Up SSH Server on Termux — Remote Shell Access Made Easy](https://dev.to/terminaltools/how-to-set-up-ssh-server-on-termux-remote-shell-access-made-easy-5ci7)
-- [CVE-2025-20337: Cisco Identity Services Engine Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-20337-cisco-identity-services-engine-injection-vulnerability-58lk)
+- [Finding the Needle in the JSON Haystack: Why Your &#39;Ctrl+F&#39; is Failing You](https://dev.to/member_afa0fb52/finding-the-needle-in-the-json-haystack-why-your-ctrlf-is-failing-you-495b)
+- [Lightning Voice Commander - Ultra-Fast Real-Time Gaming Interface](https://dev.to/ariondev/lightning-voice-commander-ultra-fast-real-time-gaming-interface-1eaj)
+- [SearchFlow Intelligence - AI-Powered Enterprise Search with Algolia MCP](https://dev.to/ariondev/searchflow-intelligence-ai-powered-enterprise-search-with-algolia-mcp-2i2b)
+- [Crack the Code, Compete, Collaborate: AWS Jam Session with AWS User Group Toronto – July 25, 2025](https://dev.to/bansi2000/crack-the-code-compete-collaborate-aws-jam-session-with-aws-user-group-toronto-july-25-2025-30ae)
+- [La magia de un buen script: pequeños comandos, grandes resultados](https://dev.to/alejandromestizo27/la-magia-de-un-buen-script-pequenos-comandos-grandes-resultados-j0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
