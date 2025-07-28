@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Splitgate 2 ‘unlaunches,&#39; studio to cut staff ahead of 2026 rerelease](https://dev.to/gg_news/splitgate-2-unlaunches-studio-to-cut-staff-ahead-of-2026-rerelease-40ej)
-- [Nintendo re-wrote its patent, in the middle of its lawsuit against Palworld developer Pocketpair](https://dev.to/gg_news/nintendo-re-wrote-its-patent-in-the-middle-of-its-lawsuit-against-palworld-developer-pocketpair-3k6f)
-- [Microsoft concedes that &#39;The Outer Worlds 2&#39; retail price was too high, begins to issue refunds.](https://dev.to/gg_news/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high-begins-to-issue-refunds-1ii8)
-- [Gixel comes out of stealth with a new type of AR optical engine](https://dev.to/future_arvr/gixel-comes-out-of-stealth-with-a-new-type-of-ar-optical-engine-1e29)
-- [ALIBABA will announce its first AI Glasses this week: There&#39;s a version with display, and a version without](https://dev.to/future_arvr/alibaba-will-announce-its-first-ai-glasses-this-week-theres-a-version-with-display-and-a-version-2hkp)
+- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
+- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
+- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
+- [Avalanche Node Peculiarities and Benefits](https://dev.to/getblockapi/avalanche-node-peculiarities-and-benefits-50k)
+- [Hello from Make.com!](https://dev.to/sudheera_n_bc361cfbdb1df9/hello-from-makecom-2pjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
