@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ PayShield: The Voice-Powered Shield Against $2.4B Daily Invoice Fraud](https://dev.to/kareemblessed/payshield-the-voice-powered-shield-against-24b-daily-invoice-fraud-2o1o)
-- [CSS ART](https://dev.to/bridget_amana/css-art-285f)
-- [Scaling Image Processing from Startup to Enterprise: Lessons from Processing 50M+ Images Monthly](https://dev.to/hardik_b2d8f0bca/scaling-image-processing-from-startup-to-enterprise-lessons-from-processing-50m-images-monthly-38nf)
-- [A Developer&#39;s Guide to PostgreSQL Full Text Search](https://dev.to/dbvismarketing/a-developers-guide-to-postgresql-full-text-search-4me8)
-- [building a medical ai platform that doctors actually want to use](https://dev.to/takitajwar17/algolia-mcp-server-challenge-53oo)
+- [Why Cybersecurity Is Vital for Critical National Infrastructure in 2025?](https://dev.to/micromindercybersecurity/why-cybersecurity-is-vital-for-critical-national-infrastructure-in-2025-96b)
+- [Mastering AI-Assisted Software Development: From Prompts to Production-Ready Code](https://dev.to/dimeloper/mastering-ai-assisted-software-development-from-prompts-to-production-ready-code-54n8)
+- [🚀 Built a GPT-4 chatbot with MERN! Full guide: backend, API key, React UI — all step-by-step. 📖 https://medium.com/@sarmadmoin108/integrating-openai-apis-into-mern-stack-projects-a-step-by-step-guide-b9b1f06538e3 #MERN #OpenAI #GPT4 #JavaScript #React](https://dev.to/sarmad_syed20/built-a-gpt-4-chatbot-with-mern-full-guide-backend-api-key-react-ui-all-step-by-step-4g9h)
+- [Shifting Vector Database Workloads to Arm Neoverse: Performance and Cost Observations](https://dev.to/e_b680bbca20c348/shifting-vector-database-workloads-to-arm-neoverse-performance-and-cost-observations-470p)
+- [10 Open Source AI Tools Every Developer Should Know](https://dev.to/therealmrmumba/httpsdevtotariqdotdev10-open-source-ai-tools-every-developer-should-know-5cgk-1il9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
