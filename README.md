@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Code: The Human Story Behind Ouch! - Feel Every Dollar](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-ouch-feel-every-dollar-43bn)
-- [After the Hack: What&#39;s Next for Ouch! - Feel Every Dollar and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-ouch-feel-every-dollar-and-my-journey-3jhb)
-- [Building with Bolt: How I Created YoRival in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-yorival-in-record-time-5cg6)
-- [Beyond the Code: The Human Story Behind YoRival](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-yorival-3kl3)
-- [After the Hack: What&#39;s Next for YoRival and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-yorival-and-my-journey-3i9l)
+- [Building with Bolt: How I Created MadMonkey in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-madmonkey-in-record-time-3np0)
+- [The Identity Paradox: Why Decentralized IDs Need Privacy to Actually Work](https://dev.to/savvysid/the-identity-paradox-why-decentralized-ids-need-privacy-to-actually-work-53nm)
+- [It&#39;s not burnout, It&#39;s context-switching fatigue](https://dev.to/quely/its-not-burnout-its-context-switching-fatigue-16nn)
+- [Beyond the Code: The Human Story Behind MadMonkey](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-madmonkey-1ik6)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1490)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
