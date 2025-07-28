@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 What Are Terraform Variables? &lpar;And Why They Save Your Sanity at Scale&rpar;](https://dev.to/1suleyman/what-are-terraform-variables-and-why-they-save-your-sanity-at-scale-2j8g)
-- [Testrun](https://dev.to/moliap123/testrun-4cgj)
-- [.](https://dev.to/moh4med404/leveraging-chatgpt-in-blue-team-cybersecurity-operations-enhancing-defense-with-ai-2fh8)
-- [The TikTok Aftermath: How the West Just Lost the Economic War](https://dev.to/ryo_suwito/the-tiktok-aftermath-how-the-west-just-lost-the-economic-war-4bn5)
-- [Why TikTok&#39;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App](https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a)
+- [How SVG Became the Standard Icon Format](https://dev.to/masumparvej/how-svg-became-the-standard-icon-format-5ec2)
+- [Unleashing the Power of React with Custom Hooks](https://dev.to/vjnvisakh/unleashing-the-power-of-react-with-custom-hooks-5aof)
+- [Firebase Authentication: From Zero to Hero 🔐](https://dev.to/this-is-learning/firebase-authentication-from-zero-to-hero-4mj8)
+- [HTTP/3 &amp; QUIC: Faster Entry for Cross-Border Businesses in China](https://dev.to/ksea0309/http3-quic-faster-entry-for-cross-border-businesses-in-china-58l9)
+- [Co‑Marketing Through Partnered Webinars: A Smart Strategy for Expanding Reach and Building Trust](https://dev.to/jack_davis_72eff1ff3e4afd/co-marketing-through-partnered-webinars-a-smart-strategy-for-expanding-reach-and-building-trust-ae7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
