@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Legal Landmines For Creators to Dodge in 2025](https://dev.to/viralnoise/5-legal-landmines-for-creators-to-dodge-in-2025-k1c)
-- [🚀 WP-XPub v1.0.0 – A Clean Architecture Approach to Multi-Channel Publishing in WordPress](https://dev.to/n3xt0r/wp-xpub-v100-a-clean-architecture-approach-to-multi-channel-publishing-in-wordpress-8fc)
-- [React and typescript components lib, part 7: conclusion](https://dev.to/griseduardo/react-and-typescript-components-lib-part-7-conclusion-5881)
-- [Biblioteca de componentes React e typescript, parte 7: encerramento](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-7-encerramento-4h62)
-- [Introducing HruHruLauncher — a custom Minecraft launcher written in Python with PySide6](https://dev.to/krutoychel24/introducing-hruhrulauncher-a-custom-minecraft-launcher-written-in-python-with-pyside6-h2i)
+- [Hi guys](https://dev.to/anis_anas_d866db777348da4/hi-guys-5al8)
+- [# 🚀 Building Pagonic: A Modern WinRAR Alternative with AI-Powered Compression](https://dev.to/setrathexx/-building-pagonic-a-modern-winrar-alternative-with-ai-powered-compression-3k1b)
+- [How I built a simple burn rate calculator with shadcn components](https://dev.to/solidifydev/how-i-built-a-simple-burn-rate-calculator-with-shadcn-components-1j50)
+- [I Built a Command-Line Spy++ to Log Windows Messages. Here&#39;s How.](https://dev.to/bored123/i-built-a-command-line-spy-to-log-windows-messages-heres-how-4332)
+- [Convert Any Picture into a Spreadsheet with FileConvertFree &lpar;Image to Excel Tool&rpar;](https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
