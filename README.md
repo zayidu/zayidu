@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
-- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
-- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
-- [Da Beira para o Mundo: Minha Jornada como Desenvolvedor Fullstack](https://dev.to/arnaldo/da-beira-para-o-mundo-minha-jornada-como-desenvolvedor-fullstack-21p8)
-- [The Internals of Bidirectional Pagination in Relay: A Deep Dive](https://dev.to/ikjot2605/the-internals-of-bidirectional-pagination-in-relay-a-deep-dive-9f4)
+- [Build AI Chat Assistant App Using ReactJS &amp; NodeJS Within 15 Minutes Using Automated AI Coding SaaS API From Your Browser](https://dev.to/shanelarson/build-ai-chat-assistant-app-using-reactjs-nodejs-within-15-minutes-using-automated-ai-coding-saas-2p2f)
+- [Menu written in Objective-C, for GLtron.](https://dev.to/mprog10/menu-written-in-objective-c-for-gltron-ob7)
+- [Stock Search and Insights Using Algolia and n8n](https://dev.to/apoorv_dev07/stock-search-and-insights-using-algolia-and-n8n-569m)
+- [How I Beat the LeetCode Grind with Tiny Habits](https://dev.to/huynhnguyen/how-i-beat-the-leetcode-grind-with-tiny-habits-39mn)
+- [Whispers - A Voice Journaling App with Smart Memory Search &lpar;Algolia MCP&rpar;](https://dev.to/vaishakhvipin/whispers-a-voice-journaling-app-with-smart-memory-search-algolia-mcp-27mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
