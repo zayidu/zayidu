@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Black Lion Hospital Addis Ababa Ethiopia Leads In Patient Care](https://dev.to/manaakihealthcare/why-black-lion-hospital-addis-ababa-ethiopia-leads-in-patient-care-2ej4)
-- [🔥Try This Free JS Deobfuscator – Feedback Welcome!](https://dev.to/aksoonesec/try-this-free-js-deobfuscator-feedback-welcome-38e6)
-- [Beyond the Code: The Human Story Behind Needle &amp; Hay](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-needle-hay-445n)
-- [After the Hack: What&#39;s Next for Needle &amp; Hay and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-needle-hay-and-my-journey-174k)
-- [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
+- [Beyond the Code: The Human Story Behind Ouch! - Feel Every Dollar](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-ouch-feel-every-dollar-43bn)
+- [After the Hack: What&#39;s Next for Ouch! - Feel Every Dollar and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-ouch-feel-every-dollar-and-my-journey-3jhb)
+- [Building with Bolt: How I Created YoRival in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-yorival-in-record-time-5cg6)
+- [Beyond the Code: The Human Story Behind YoRival](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-yorival-3kl3)
+- [After the Hack: What&#39;s Next for YoRival and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-yorival-and-my-journey-3i9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
