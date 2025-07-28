@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build AI Chat Assistant App Using ReactJS &amp; NodeJS Within 15 Minutes Using Automated AI Coding SaaS API From Your Browser](https://dev.to/shanelarson/build-ai-chat-assistant-app-using-reactjs-nodejs-within-15-minutes-using-automated-ai-coding-saas-2p2f)
-- [Menu written in Objective-C, for GLtron.](https://dev.to/mprog10/menu-written-in-objective-c-for-gltron-ob7)
-- [Stock Search and Insights Using Algolia and n8n](https://dev.to/apoorv_dev07/stock-search-and-insights-using-algolia-and-n8n-569m)
-- [How I Beat the LeetCode Grind with Tiny Habits](https://dev.to/huynhnguyen/how-i-beat-the-leetcode-grind-with-tiny-habits-39mn)
-- [Whispers - A Voice Journaling App with Smart Memory Search &lpar;Algolia MCP&rpar;](https://dev.to/vaishakhvipin/whispers-a-voice-journaling-app-with-smart-memory-search-algolia-mcp-27mf)
+- [What is Tearing in React Concurrent Mode](https://dev.to/childrentime/what-is-tearing-in-react-concurrent-mode-ebn)
+- [🔍 ArtExplorer - An Interactive and Inspiring Way to Explore Works of Art](https://dev.to/jamesrmoro/artexplorer-an-interactive-and-inspiring-way-to-explore-works-of-art-4bjb)
+- [Joker Visual Coding IDE Update Log - July 27, 2025](https://dev.to/zhangchuanhui/joker-visual-coding-ide-update-log-july-27-2025-d5h)
+- [AI-Powered Real Estate Intelligence Platform](https://dev.to/aws-builders/ai-powered-real-estate-intelligence-platform-31ho)
+- [🚀 System Design Interview Vault: 75+ Must-Know Concepts &amp; Scenarios](https://dev.to/scalabrix/system-design-interview-vault-75-must-know-concepts-scenarios-53nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
