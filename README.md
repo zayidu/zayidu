@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How SVG Became the Standard Icon Format](https://dev.to/masumparvej/how-svg-became-the-standard-icon-format-5ec2)
-- [Unleashing the Power of React with Custom Hooks](https://dev.to/vjnvisakh/unleashing-the-power-of-react-with-custom-hooks-5aof)
-- [Firebase Authentication: From Zero to Hero 🔐](https://dev.to/this-is-learning/firebase-authentication-from-zero-to-hero-4mj8)
-- [HTTP/3 &amp; QUIC: Faster Entry for Cross-Border Businesses in China](https://dev.to/ksea0309/http3-quic-faster-entry-for-cross-border-businesses-in-china-58l9)
-- [Co‑Marketing Through Partnered Webinars: A Smart Strategy for Expanding Reach and Building Trust](https://dev.to/jack_davis_72eff1ff3e4afd/co-marketing-through-partnered-webinars-a-smart-strategy-for-expanding-reach-and-building-trust-ae7)
+- [Women in Digital Marketing: Bangalore’s Growing Community of Female Marketers](https://dev.to/jaya_k_4cae5ac236cdf6bf5a/women-in-digital-marketing-bangalores-growing-community-of-female-marketers-4ekn)
+- [Sensitive Teeth: Causes, Treatments and Effective Pain Relief Tips](https://dev.to/smilesatlds/sensitive-teeth-causes-treatments-and-effective-pain-relief-tips-1hb5)
+- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
+- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
+- [Provide Storage for IT Department Testing and Training](https://dev.to/biola_lawaljr_d5dc2882c89/provide-storage-for-it-department-testing-and-training-299e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
