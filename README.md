@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Did anyone else get this email](https://dev.to/mileswk/did-anyone-else-get-this-email-33ae)
-- [SSR VS CSR](https://dev.to/sushan/ssr-vs-csr-5hi0)
-- [Understanding OLAP and OLTP: When to Use Each Database System](https://dev.to/fredmunjogu/understanding-olap-and-oltp-when-to-use-each-database-system-2joh)
-- [Otimizando a Entrega de Projetos de TI com Microsoft Copilot + Jira + Power BI](https://dev.to/angelo_matias/otimizando-a-entrega-de-projetos-de-ti-com-microsoft-copilot-jira-power-bi-4g9)
-- [🦀 Day 18 of #100DaysOfRust: Deep Dive into Traits in Rust](https://dev.to/subesh_yadav/day-18-of-100daysofrust-deep-dive-into-traits-in-rust-4n04)
+- [No Laying Up Podcast: Lydia Ko | NLU Pod, Ep 1045](https://dev.to/youtube_golf/no-laying-up-podcast-lydia-ko-nlu-pod-ep-1045-38ak)
+- [No Laying Up Podcast: The 2025 Major Season Quiz Show | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-the-2025-major-season-quiz-show-nlu-pod-ep-1046-4ka4)
+- [No Laying Up Podcast: 3M, Lottie Woad, Happy Gilmore 2 Review | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-3m-lottie-woad-happy-gilmore-2-review-nlu-pod-ep-1046-4po8)
+- [No Laying Up Podcast: The Simpsons | Trap Draw, Ep 352](https://dev.to/youtube_golf/no-laying-up-podcast-the-simpsons-trap-draw-ep-352-4ea0)
+- [Golf.com: Overnight at Bethpage Black: Behind the scenes at golf&#39;s most sought-after muni](https://dev.to/youtube_golf/golfcom-overnight-at-bethpage-black-behind-the-scenes-at-golfs-most-sought-after-muni-3hgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
