@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why LLM Memory Still Fails - A Field Guide for Builders](https://dev.to/isaachagoel/why-llm-memory-still-fails-a-field-guide-for-builders-3d78)
-- [Supabase vs AWS: Feature 🔖 and Pricing 💰 Comparison &lpar;2025&rpar;](https://dev.to/bytebase/supabase-vs-aws-feature-and-pricing-comparison-2025-16id)
-- [Understanding DBMS: A Beginner&#39;s Guide to Databases and Their Management](https://dev.to/rishabhtpt/understanding-dbms-a-beginners-guide-to-databases-and-their-management-8o9)
-- [What’s the Most Underrated Use of AI You’ve Seen &lpar;or Built&rpar; That Actually Solves a Real Problem?](https://dev.to/iamsachin/whats-the-most-underrated-use-of-ai-youve-seen-or-built-that-actually-solves-a-real-problem-43c8)
-- [STARTING MY WEB DEV JOURNEY](https://dev.to/krish_tarwey_ac06b4fc7032/starting-my-web-dev-journey-16bl)
+- [Folding expressions in C++](https://dev.to/pikotutorial/folding-expressions-in-c-3h63)
+- [Visual Database Management &amp; Design Tool for IBM Db2](https://dev.to/roxana_haidiner/visual-database-management-design-tool-for-ibm-db2-1gbn)
+- [Games X Education: How EdTech Is Partnering with Game Devs to Redefine Learning](https://dev.to/red_apple_technologies/games-x-education-how-edtech-is-partnering-with-game-devs-to-redefine-learning-knc)
+- [Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️](https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3)
+- [Why Every Developer Needs 5-Minute Breaks &lpar;And My Favorite Stress-Buster Game!&rpar;](https://dev.to/ravinder_e30de87b53f67bdc/why-every-developer-needs-5-minute-breaks-and-my-favorite-stress-buster-game-31on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
