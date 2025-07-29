@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# algorithm](https://dev.to/abner_lopezruiz_5f448ef1/c-algorithm-6jo)
-- [Beat the Learning Curve with One-on-One Java Job Support](https://dev.to/rkit-labs/beat-the-learning-curve-with-one-on-one-java-job-support-1kol)
-- [Building Medical AI – Technical Architecture Lessons](https://dev.to/daya_shankar_01/building-medical-ai-technical-architecture-lessons-4naj)
-- [Getting Started with C# for Unity](https://dev.to/dumboprogrammer/c-for-unity-4l8m)
-- [HTTP Logging Middleware Tips That Actually Work in ASP.NET Core](https://dev.to/abhinawkr/http-logging-middleware-tips-that-actually-work-in-aspnet-core-1mid)
+- [Why LLM Memory Still Fails - A Field Guide for Builders](https://dev.to/isaachagoel/why-llm-memory-still-fails-a-field-guide-for-builders-3d78)
+- [Supabase vs AWS: Feature 🔖 and Pricing 💰 Comparison &lpar;2025&rpar;](https://dev.to/bytebase/supabase-vs-aws-feature-and-pricing-comparison-2025-16id)
+- [Understanding DBMS: A Beginner&#39;s Guide to Databases and Their Management](https://dev.to/rishabhtpt/understanding-dbms-a-beginners-guide-to-databases-and-their-management-8o9)
+- [What’s the Most Underrated Use of AI You’ve Seen &lpar;or Built&rpar; That Actually Solves a Real Problem?](https://dev.to/iamsachin/whats-the-most-underrated-use-of-ai-youve-seen-or-built-that-actually-solves-a-real-problem-43c8)
+- [STARTING MY WEB DEV JOURNEY](https://dev.to/krish_tarwey_ac06b4fc7032/starting-my-web-dev-journey-16bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
