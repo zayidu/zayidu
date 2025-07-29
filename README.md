@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [De la Programmation Orientée Objet vers la Programmation Orientée Données - Un guide pratique](https://dev.to/onepoint/de-la-programmation-orientee-objet-vers-la-programmation-orientee-donnees-un-guide-pratique-4bh2)
-- [DynamoDB Deep Dive: Understanding WCU, RCU, LSI, and GSI](https://dev.to/aws-builders/dynamodb-deep-dive-understanding-wcu-rcu-lsi-and-gsi-582g)
-- [How to Deploy KRC Tokens Using KID &lpar;KRC‑20, KRC‑721 &amp; KRC‑1155&rpar;](https://dev.to/kalpstudio/how-to-deploy-krc-tokens-using-kid-krc-20-krc-721-krc-1155-56eb)
-- [The five rules I would follow to find a startup idea in 2025](https://dev.to/alex_deg/the-five-rules-i-would-follow-to-find-a-startup-idea-in-2025-149d)
-- [AWS in 30 Days: Your Ultimate Cloud Skill Upgrade](https://dev.to/yash_sonawane25/aws-in-30-days-your-ultimate-cloud-skill-upgrade-32ii)
+- [Types of Employee Training Methods for Corporate Teams](https://dev.to/emilybrown1/types-of-employee-training-methods-for-corporate-teams-43ja)
+- [Google Student Ambassador Program 2025: Apply Now for Free Google Swags, Stipend &amp; Certificate](https://dev.to/avinash201199/google-student-ambassador-program-2025-apply-now-for-free-google-swags-stipend-certificate-4p39)
+- [Looking for a job. Please help me.](https://dev.to/sebastiandevelops/looking-for-a-job-please-help-me-5an7)
+- [How Computers Keep Track of Time: The Story of NTP](https://dev.to/faizanfirdousi/how-computers-keep-track-of-time-the-story-of-ntp-23i5)
+- [Meme Coin Tokenomics vs Traditional Token Models: Which Converts Better?](https://dev.to/shelly_jackson_c6aec6426b/meme-coin-tokenomics-vs-traditional-token-models-which-converts-better-2h9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
