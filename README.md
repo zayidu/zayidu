@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Folding expressions in C++](https://dev.to/pikotutorial/folding-expressions-in-c-3h63)
-- [Visual Database Management &amp; Design Tool for IBM Db2](https://dev.to/roxana_haidiner/visual-database-management-design-tool-for-ibm-db2-1gbn)
-- [Games X Education: How EdTech Is Partnering with Game Devs to Redefine Learning](https://dev.to/red_apple_technologies/games-x-education-how-edtech-is-partnering-with-game-devs-to-redefine-learning-knc)
-- [Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️](https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3)
-- [Why Every Developer Needs 5-Minute Breaks &lpar;And My Favorite Stress-Buster Game!&rpar;](https://dev.to/ravinder_e30de87b53f67bdc/why-every-developer-needs-5-minute-breaks-and-my-favorite-stress-buster-game-31on)
+- [I have something akin to writer&#39;s block. But it&#39;s not writer&#39;s block; it&#39;s a lack of inspiration. I want to write, but I have a huge lack of zeal or motivation to even try!! HELP!! 🥹](https://dev.to/dumebii/i-have-something-akin-to-writers-block-but-its-not-writers-block-its-a-lack-of-inspiration-i-1ogn)
+- [Best Machine Translation Software for Enterprises](https://dev.to/elenahartmann/best-machine-translation-software-for-enterprises-5bmk)
+- [We&#39;ve Been Hacked!](https://dev.to/monkeymonk/weve-been-hacked-4g1o)
+- [𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝘀 𝘁𝗿𝗶𝗺𝗺𝗶𝗻𝗴 𝗮𝗻𝗱 𝗡𝗮𝘁𝗶𝘃𝗲 𝗔𝗢𝗧](https://dev.to/supraja_tangella_b7f0738e/-5g74)
+- [Top 5 Free AI Tools You Must Try in 2025](https://dev.to/sajid_digital_life/top-5-free-ai-tools-you-must-try-in-2025-1mh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
