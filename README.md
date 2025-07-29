@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Employee Training Methods for Corporate Teams](https://dev.to/emilybrown1/types-of-employee-training-methods-for-corporate-teams-43ja)
-- [Google Student Ambassador Program 2025: Apply Now for Free Google Swags, Stipend &amp; Certificate](https://dev.to/avinash201199/google-student-ambassador-program-2025-apply-now-for-free-google-swags-stipend-certificate-4p39)
-- [Looking for a job. Please help me.](https://dev.to/sebastiandevelops/looking-for-a-job-please-help-me-5an7)
-- [How Computers Keep Track of Time: The Story of NTP](https://dev.to/faizanfirdousi/how-computers-keep-track-of-time-the-story-of-ntp-23i5)
-- [Meme Coin Tokenomics vs Traditional Token Models: Which Converts Better?](https://dev.to/shelly_jackson_c6aec6426b/meme-coin-tokenomics-vs-traditional-token-models-which-converts-better-2h9n)
+- [Opening the &quot;Black Box&quot;: A Journey into Vector Search and Spam Protection](https://dev.to/prema_ananda/opening-the-black-box-a-journey-into-vector-search-and-spam-protection-1kmd)
+- [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
+- [Top 20 Rising GitHub Projects with the Most Stars in 2025](https://dev.to/therealmrmumba/top-20-rising-github-projects-with-the-most-stars-in-2025-3idf)
+- [🧠 I Burned Out Trying to Balance Leetcode, OOP, and System Design — Here’s What Finally Worked](https://dev.to/huynhnguyen/i-burned-out-trying-to-balance-leetcode-oop-and-system-design-heres-what-finally-worked-c2j)
+- [OAuth Misconfiguration in Symfony Explained](https://dev.to/pentest_testing_corp/oauth-misconfiguration-in-symfony-explained-3pf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
