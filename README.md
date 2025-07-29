@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Middle-End Phase of the Go Compiler &lpar;Made Simple!&rpar;](https://dev.to/raymondmadara/understanding-the-middle-end-phase-of-the-go-compiler-made-simple-4j1j)
-- [Leveraging Assessment Data to Build Smarter Educational Tools](https://dev.to/amelia_brown04/leveraging-assessment-data-to-build-smarter-educational-tools-19m4)
-- [Xec - Write Once, Execute Anywhere: Universal Shell Commands in TypeScript](https://dev.to/luxquant/xec-write-once-execute-anywhere-universal-shell-commands-in-typescript-1lp4)
-- [Basic Linux command &lpar;tr&rpar;](https://dev.to/cheulong/basic-linux-command-tr-2c5p)
-- [The GO Compiler](https://dev.to/raymondmadara/the-go-compiler-cl7)
+- [Did anyone else get this email](https://dev.to/mileswk/did-anyone-else-get-this-email-33ae)
+- [SSR VS CSR](https://dev.to/sushan/ssr-vs-csr-5hi0)
+- [Understanding OLAP and OLTP: When to Use Each Database System](https://dev.to/fredmunjogu/understanding-olap-and-oltp-when-to-use-each-database-system-2joh)
+- [Otimizando a Entrega de Projetos de TI com Microsoft Copilot + Jira + Power BI](https://dev.to/angelo_matias/otimizando-a-entrega-de-projetos-de-ti-com-microsoft-copilot-jira-power-bi-4g9)
+- [🦀 Day 18 of #100DaysOfRust: Deep Dive into Traits in Rust](https://dev.to/subesh_yadav/day-18-of-100daysofrust-deep-dive-into-traits-in-rust-4n04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
