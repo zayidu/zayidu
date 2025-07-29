@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Fabric RTI MCP Server](https://dev.to/om_shree_0709/microsoft-fabric-rti-mcp-server-fc8)
-- [🔥 1BRC in Node.js: From 12 Minutes to 35 Seconds](https://dev.to/yuvraj2112/1brc-in-nodejs-from-12-minutes-to-35-seconds-15mp)
-- [Why I’m Learning Web3](https://dev.to/loading_blocks/why-im-learning-web3-4pnl)
-- [Is AI Vibe Coding Destroying Your Future?](https://dev.to/freepalestine/is-ai-vibe-coding-destroying-your-future-4llb)
-- [How to Control a Robot Vacuum Cleaner from Your Python App](https://dev.to/natalia_ruiz_420d9ae89633/how-to-control-a-robot-vacuum-cleaner-from-your-python-app-5hc3)
+- [Why I Code Better After 2 PM &lpar;and How I Stopped Fighting It&rpar;](https://dev.to/vadym_info_polus/why-i-code-better-after-2-pm-and-how-i-stopped-fighting-it-25i8)
+- [The compare&lpar;&rpar; method in Java](https://dev.to/charlie_barajas_353e28103/the-compare-method-in-java-2080)
+- [Power Up Your Go Apps: Using PostgreSQL as a Job Queue with River](https://dev.to/shrsv/power-up-your-go-apps-using-postgresql-as-a-job-queue-with-river-2e3g)
+- [Test for Attachment Style: Are You Anxious, Avoidant, Disorganized, or Secure?](https://dev.to/the_personaldevelopment/test-for-attachment-style-are-you-anxious-avoidant-disorganized-or-secure-48ko)
+- [Building a Multi-Model Real-Time Analytics Dashboard with Redis 8: Beyond Traditional Caching](https://dev.to/ha3k/building-a-multi-model-real-time-analytics-dashboard-with-redis-8-beyond-traditional-caching-1bfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
