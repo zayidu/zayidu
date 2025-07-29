@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Code Better After 2 PM &lpar;and How I Stopped Fighting It&rpar;](https://dev.to/vadym_info_polus/why-i-code-better-after-2-pm-and-how-i-stopped-fighting-it-25i8)
-- [The compare&lpar;&rpar; method in Java](https://dev.to/charlie_barajas_353e28103/the-compare-method-in-java-2080)
-- [Power Up Your Go Apps: Using PostgreSQL as a Job Queue with River](https://dev.to/shrsv/power-up-your-go-apps-using-postgresql-as-a-job-queue-with-river-2e3g)
-- [Test for Attachment Style: Are You Anxious, Avoidant, Disorganized, or Secure?](https://dev.to/the_personaldevelopment/test-for-attachment-style-are-you-anxious-avoidant-disorganized-or-secure-48ko)
-- [Building a Multi-Model Real-Time Analytics Dashboard with Redis 8: Beyond Traditional Caching](https://dev.to/ha3k/building-a-multi-model-real-time-analytics-dashboard-with-redis-8-beyond-traditional-caching-1bfe)
+- [How to Manage Tags and Locks in Azure](https://dev.to/arctaiwo/how-to-manage-tags-and-locks-in-azure-3dgm)
+- [How Can You Meet New People Online for Free? Here’s a 5-Step Guide That Actually Works](https://dev.to/tyler_barera_88e171d1b8b4/how-can-you-meet-new-people-online-for-free-heres-a-5-step-guide-that-actually-works-4mh2)
+- [How to Integrate Smart Thermostats with Home Automation Systems](https://dev.to/dev_tech/how-to-integrate-smart-thermostats-with-home-automation-systems-1822)
+- [Building a Multiplayer Game with Convex Over a Weekend](https://dev.to/efekrskl/building-a-multiplayer-game-with-convex-over-a-weekend-1o59)
+- [Why react component can return single jsx?](https://dev.to/safal_bhandari/why-react-component-can-return-single-jsx-26nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
