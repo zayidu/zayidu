@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Telegram Automation Workflows with n8n and Pinggy Webhooks](https://dev.to/lightningdev123/building-telegram-automation-workflows-with-n8n-and-pinggy-webhooks-12co)
-- [Protecting Against Open Source Malicious Packages: What Does &lpar;Not&rpar; Work](https://dev.to/xygenisecurity/protecting-against-open-source-malicious-packages-what-does-not-work-iaj)
-- [The Evolution of Large Language Models: From Rule-Based Systems to Modern AI](https://dev.to/anshuman_ojha_/the-evolution-of-large-language-models-from-rule-based-systems-to-modern-ai-2bnn)
-- [How I Built a Website for Daily TV Serial Updates Using WordPress](https://dev.to/mohit_yadav108/how-i-built-a-website-for-daily-tv-serial-updates-using-wordpress-a12)
-- [Deploy MySQL to Cloudflare](https://dev.to/lanqi_gao/deploy-mysql-to-cloudflare-47p3)
+- [Understanding the Middle-End Phase of the Go Compiler &lpar;Made Simple!&rpar;](https://dev.to/raymondmadara/understanding-the-middle-end-phase-of-the-go-compiler-made-simple-4j1j)
+- [Leveraging Assessment Data to Build Smarter Educational Tools](https://dev.to/amelia_brown04/leveraging-assessment-data-to-build-smarter-educational-tools-19m4)
+- [Xec - Write Once, Execute Anywhere: Universal Shell Commands in TypeScript](https://dev.to/luxquant/xec-write-once-execute-anywhere-universal-shell-commands-in-typescript-1lp4)
+- [Basic Linux command &lpar;tr&rpar;](https://dev.to/cheulong/basic-linux-command-tr-2c5p)
+- [The GO Compiler](https://dev.to/raymondmadara/the-go-compiler-cl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
