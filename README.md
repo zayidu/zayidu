@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Aerospike Graph Database 3.0: Faster, simpler, and built for the terabyte scale era](https://dev.to/aerospike/introducing-aerospike-graph-database-30-faster-simpler-and-built-for-the-terabyte-scale-era-4g2l)
-- [Bringing Your iOS App to Siri with Apple Intelligence](https://dev.to/arshtechpro/bringing-your-ios-app-to-siri-with-apple-intelligence-2ebp)
-- [How to Clean Up Resources in Azure](https://dev.to/arctaiwo/how-to-clean-up-resources-in-azure-47bn)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/fredy921/css-blossoming-flowers-at-magical-night-586e)
-- [Weekly update #2](https://dev.to/abytebybyte/weekly-update-2-p4h)
+- [🎮 I Built a Python Games Bundle — 3 Games + EXE + Mockups + Docs &lpar;Arabic &amp; English&rpar;](https://dev.to/codewithabdel/i-built-a-python-games-bundle-3-games-exe-mockups-docs-arabic-english-16cp)
+- [Modernizing Legacy Systems with AWS: Scalable, Secure &amp; AI-Ready](https://dev.to/emmao/modernizing-legacy-systems-with-aws-scalable-secure-ai-ready-403a)
+- [Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations](https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9)
+- [Take Out优化](https://dev.to/woodyxin/take-outyou-hua-19o9)
+- [Take Out](https://dev.to/woodyxin/take-out-5b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
