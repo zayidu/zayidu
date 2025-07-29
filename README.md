@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Lydia Ko | NLU Pod, Ep 1045](https://dev.to/youtube_golf/no-laying-up-podcast-lydia-ko-nlu-pod-ep-1045-38ak)
-- [No Laying Up Podcast: The 2025 Major Season Quiz Show | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-the-2025-major-season-quiz-show-nlu-pod-ep-1046-4ka4)
-- [No Laying Up Podcast: 3M, Lottie Woad, Happy Gilmore 2 Review | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-3m-lottie-woad-happy-gilmore-2-review-nlu-pod-ep-1046-4po8)
-- [No Laying Up Podcast: The Simpsons | Trap Draw, Ep 352](https://dev.to/youtube_golf/no-laying-up-podcast-the-simpsons-trap-draw-ep-352-4ea0)
-- [Golf.com: Overnight at Bethpage Black: Behind the scenes at golf&#39;s most sought-after muni](https://dev.to/youtube_golf/golfcom-overnight-at-bethpage-black-behind-the-scenes-at-golfs-most-sought-after-muni-3hgl)
+- [Microsoft Fabric RTI MCP Server](https://dev.to/om_shree_0709/microsoft-fabric-rti-mcp-server-fc8)
+- [🔥 1BRC in Node.js: From 12 Minutes to 35 Seconds](https://dev.to/yuvraj2112/1brc-in-nodejs-from-12-minutes-to-35-seconds-15mp)
+- [Why I’m Learning Web3](https://dev.to/loading_blocks/why-im-learning-web3-4pnl)
+- [Is AI Vibe Coding Destroying Your Future?](https://dev.to/freepalestine/is-ai-vibe-coding-destroying-your-future-4llb)
+- [How to Control a Robot Vacuum Cleaner from Your Python App](https://dev.to/natalia_ruiz_420d9ae89633/how-to-control-a-robot-vacuum-cleaner-from-your-python-app-5hc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
