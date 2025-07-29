@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Development Kit: Making it easy to build multi-agent applications](https://dev.to/googleai/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594)
-- [Injecting Environment Variables in Webpack Projects](https://dev.to/lovestaco/injecting-environment-variables-in-webpack-projects-2p2f)
-- [10 DevOps Tasks I’ve Stopped Doing Manually &lpar;Kudos to &#39;This&#39; CLI Agent&rpar;](https://dev.to/forgecode/10-devops-tasks-ive-stopped-doing-manually-kudos-to-this-cli-agent-1gc4)
-- [Hey Dev Community 👋 🚀 LaraCopilot is live on Product Hunt! Your AI Laravel engineer — turn plain English into full-stack MVPs. Show some love and upvote our launch ❤️ 👉 https://www.producthunt.com/products/laracopilot](https://dev.to/avinashvagh/hey-dev-community-laracopilot-is-live-on-product-hunt-your-ai-laravel-engineer-turn-16ok)
-- [Intorducing TracPad - A Smart Python Text Editor That Tracks Your Input](https://dev.to/zeroclick9039/intorducing-tracpad-a-smart-python-text-editor-that-tracks-your-input-2c55)
+- [Domine os livros de programação usando o NotebookLM do Google](https://dev.to/anabiscalchin/domine-os-livros-de-programacao-usando-o-notebooklm-do-google-413e)
+- [I made a tool which turns static SVG&#39;s into animations!](https://dev.to/nikhil_parmar_424124a9369/i-made-a-tool-which-turns-static-svgs-into-animations-3db0)
+- [🧠 Understanding the Difference Between IEnumerable and IQueryable in C#](https://dev.to/iamcymentho/understanding-the-difference-between-ienumerable-and-iqueryable-in-c-g4e)
+- [Automate Your Job Hunt 🚀 with n8n 🤖](https://dev.to/sroy8091/automate-your-job-hunt-with-n8n-1efp)
+- [The $170B Sprint: What Anthropic’s Valuation Tells Us About the New AI Game](https://dev.to/paultowers/the-170b-sprint-what-anthropics-valuation-tells-us-about-the-new-ai-game-4gc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
