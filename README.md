@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I have something akin to writer&#39;s block. But it&#39;s not writer&#39;s block; it&#39;s a lack of inspiration. I want to write, but I have a huge lack of zeal or motivation to even try!! HELP!! 🥹](https://dev.to/dumebii/i-have-something-akin-to-writers-block-but-its-not-writers-block-its-a-lack-of-inspiration-i-1ogn)
-- [Best Machine Translation Software for Enterprises](https://dev.to/elenahartmann/best-machine-translation-software-for-enterprises-5bmk)
-- [We&#39;ve Been Hacked!](https://dev.to/monkeymonk/weve-been-hacked-4g1o)
-- [𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝘀 𝘁𝗿𝗶𝗺𝗺𝗶𝗻𝗴 𝗮𝗻𝗱 𝗡𝗮𝘁𝗶𝘃𝗲 𝗔𝗢𝗧](https://dev.to/supraja_tangella_b7f0738e/-5g74)
-- [Top 5 Free AI Tools You Must Try in 2025](https://dev.to/sajid_digital_life/top-5-free-ai-tools-you-must-try-in-2025-1mh2)
+- [De la Programmation Orientée Objet vers la Programmation Orientée Données - Un guide pratique](https://dev.to/onepoint/de-la-programmation-orientee-objet-vers-la-programmation-orientee-donnees-un-guide-pratique-4bh2)
+- [DynamoDB Deep Dive: Understanding WCU, RCU, LSI, and GSI](https://dev.to/aws-builders/dynamodb-deep-dive-understanding-wcu-rcu-lsi-and-gsi-582g)
+- [How to Deploy KRC Tokens Using KID &lpar;KRC‑20, KRC‑721 &amp; KRC‑1155&rpar;](https://dev.to/kalpstudio/how-to-deploy-krc-tokens-using-kid-krc-20-krc-721-krc-1155-56eb)
+- [The five rules I would follow to find a startup idea in 2025](https://dev.to/alex_deg/the-five-rules-i-would-follow-to-find-a-startup-idea-in-2025-149d)
+- [AWS in 30 Days: Your Ultimate Cloud Skill Upgrade](https://dev.to/yash_sonawane25/aws-in-30-days-your-ultimate-cloud-skill-upgrade-32ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
