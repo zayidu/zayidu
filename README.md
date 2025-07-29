@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why bridges keep getting hacked &amp; Why Modular Interoperability is the way out](https://dev.to/doanlonghau/why-bridges-keep-getting-hacked-why-modular-interoperability-is-the-way-out-185p)
-- [Why Most Accounting Systems Suck &lpar;and How to Not Build One That Does&rpar;](https://dev.to/abyssalbalde110/why-most-accounting-systems-suck-and-how-to-not-build-one-that-does-16ho)
-- [Using GCP Load Balancer to Handle 301 Redirects to Other Domains](https://dev.to/charlottetowell/using-gcp-load-balancer-to-handle-301-redirects-to-other-domains-3go6)
-- [Is Data Science is machine learning?](https://dev.to/danyearl/is-data-science-is-machine-learning-262d)
-- [Title: Creating the Perfect Home Office: A Step-by-Step Guide &lpar;March 2025&rpar;](https://dev.to/yagyaraj_sharma_6cd410179/title-creating-the-perfect-home-office-a-step-by-step-guide-march-2025-f0k)
+- [Building an MCP Server/Client in Windows 11](https://dev.to/om_shree_0709/building-an-mcp-serverclient-in-windows-11-51f0)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/thedevcristian/first-contributions-learn-how-to-contribute-to-open-source-projects-d8a)
+- [ANN: omniauth-identity v3.1.4](https://dev.to/galtzo/ann-omniauth-identity-v314-2371)
+- [Demystifying the JS Event Loop: A ByteDance Interview Question to Deeply Understand async/await, Promise, and RAF](https://dev.to/childrentime/demystifying-the-js-event-loop-a-bytedance-interview-question-to-deeply-understand-asyncawait-326g)
+- [Open Source, Open Minds: My Participation in TOSSCON @ Menporul Manadu](https://dev.to/2021_cse_gayathrir_e733/open-source-open-minds-my-participation-in-tosscon-menporul-manadu-19jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
