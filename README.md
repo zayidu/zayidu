@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi guys](https://dev.to/anis_anas_d866db777348da4/hi-guys-5al8)
-- [# 🚀 Building Pagonic: A Modern WinRAR Alternative with AI-Powered Compression](https://dev.to/setrathexx/-building-pagonic-a-modern-winrar-alternative-with-ai-powered-compression-3k1b)
-- [How I built a simple burn rate calculator with shadcn components](https://dev.to/solidifydev/how-i-built-a-simple-burn-rate-calculator-with-shadcn-components-1j50)
-- [I Built a Command-Line Spy++ to Log Windows Messages. Here&#39;s How.](https://dev.to/bored123/i-built-a-command-line-spy-to-log-windows-messages-heres-how-4332)
-- [Convert Any Picture into a Spreadsheet with FileConvertFree &lpar;Image to Excel Tool&rpar;](https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9)
+- [Why bridges keep getting hacked &amp; Why Modular Interoperability is the way out](https://dev.to/doanlonghau/why-bridges-keep-getting-hacked-why-modular-interoperability-is-the-way-out-185p)
+- [Why Most Accounting Systems Suck &lpar;and How to Not Build One That Does&rpar;](https://dev.to/abyssalbalde110/why-most-accounting-systems-suck-and-how-to-not-build-one-that-does-16ho)
+- [Using GCP Load Balancer to Handle 301 Redirects to Other Domains](https://dev.to/charlottetowell/using-gcp-load-balancer-to-handle-301-redirects-to-other-domains-3go6)
+- [Is Data Science is machine learning?](https://dev.to/danyearl/is-data-science-is-machine-learning-262d)
+- [Title: Creating the Perfect Home Office: A Step-by-Step Guide &lpar;March 2025&rpar;](https://dev.to/yagyaraj_sharma_6cd410179/title-creating-the-perfect-home-office-a-step-by-step-guide-march-2025-f0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
