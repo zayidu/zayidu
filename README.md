@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Tags and Locks in Azure](https://dev.to/arctaiwo/how-to-manage-tags-and-locks-in-azure-3dgm)
-- [How Can You Meet New People Online for Free? Here’s a 5-Step Guide That Actually Works](https://dev.to/tyler_barera_88e171d1b8b4/how-can-you-meet-new-people-online-for-free-heres-a-5-step-guide-that-actually-works-4mh2)
-- [How to Integrate Smart Thermostats with Home Automation Systems](https://dev.to/dev_tech/how-to-integrate-smart-thermostats-with-home-automation-systems-1822)
-- [Building a Multiplayer Game with Convex Over a Weekend](https://dev.to/efekrskl/building-a-multiplayer-game-with-convex-over-a-weekend-1o59)
-- [Why react component can return single jsx?](https://dev.to/safal_bhandari/why-react-component-can-return-single-jsx-26nb)
+- [Agent Development Kit: Making it easy to build multi-agent applications](https://dev.to/googleai/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594)
+- [Injecting Environment Variables in Webpack Projects](https://dev.to/lovestaco/injecting-environment-variables-in-webpack-projects-2p2f)
+- [10 DevOps Tasks I’ve Stopped Doing Manually &lpar;Kudos to &#39;This&#39; CLI Agent&rpar;](https://dev.to/forgecode/10-devops-tasks-ive-stopped-doing-manually-kudos-to-this-cli-agent-1gc4)
+- [Hey Dev Community 👋 🚀 LaraCopilot is live on Product Hunt! Your AI Laravel engineer — turn plain English into full-stack MVPs. Show some love and upvote our launch ❤️ 👉 https://www.producthunt.com/products/laracopilot](https://dev.to/avinashvagh/hey-dev-community-laracopilot-is-live-on-product-hunt-your-ai-laravel-engineer-turn-16ok)
+- [Intorducing TracPad - A Smart Python Text Editor That Tracks Your Input](https://dev.to/zeroclick9039/intorducing-tracpad-a-smart-python-text-editor-that-tracks-your-input-2c55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
