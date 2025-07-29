@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP Server/Client in Windows 11](https://dev.to/om_shree_0709/building-an-mcp-serverclient-in-windows-11-51f0)
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/thedevcristian/first-contributions-learn-how-to-contribute-to-open-source-projects-d8a)
-- [ANN: omniauth-identity v3.1.4](https://dev.to/galtzo/ann-omniauth-identity-v314-2371)
-- [Demystifying the JS Event Loop: A ByteDance Interview Question to Deeply Understand async/await, Promise, and RAF](https://dev.to/childrentime/demystifying-the-js-event-loop-a-bytedance-interview-question-to-deeply-understand-asyncawait-326g)
-- [Open Source, Open Minds: My Participation in TOSSCON @ Menporul Manadu](https://dev.to/2021_cse_gayathrir_e733/open-source-open-minds-my-participation-in-tosscon-menporul-manadu-19jj)
+- [HTTP Logging Middleware Tips That Actually Work in ASP.NET Core](https://dev.to/abhinawkr/http-logging-middleware-tips-that-actually-work-in-aspnet-core-1mid)
+- [Setting Up Your Java Development Environment &lpar;JDK &amp; IDEs&rpar;: A Beginner’s Guide](https://dev.to/sharique_siddiqui_8242dad/setting-up-your-java-development-environment-jdk-ides-a-beginners-guide-4nmj)
+- [Entre lineas y latidos](https://dev.to/lyndesigng/entre-lineas-y-latidos-1dio)
+- [What is Java? Understanding Its Core Concepts and History](https://dev.to/sharique_siddiqui_8242dad/what-is-java-understanding-its-core-concepts-and-history-pkc)
+- [The Ultimate Fusion: Linux, Ubuntu, and Cybersecurity | by Faruk Ahmed | Jun, 2025](https://dev.to/cyberwebpen/the-ultimate-fusion-linux-ubuntu-and-cybersecurity-by-faruk-ahmed-jun-2025-3nef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
