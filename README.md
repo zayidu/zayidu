@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [C# algorithm](https://dev.to/abner_lopezruiz_5f448ef1/c-algorithm-6jo)
+- [Beat the Learning Curve with One-on-One Java Job Support](https://dev.to/rkit-labs/beat-the-learning-curve-with-one-on-one-java-job-support-1kol)
+- [Building Medical AI – Technical Architecture Lessons](https://dev.to/daya_shankar_01/building-medical-ai-technical-architecture-lessons-4naj)
+- [Getting Started with C# for Unity](https://dev.to/dumboprogrammer/c-for-unity-4l8m)
 - [HTTP Logging Middleware Tips That Actually Work in ASP.NET Core](https://dev.to/abhinawkr/http-logging-middleware-tips-that-actually-work-in-aspnet-core-1mid)
-- [Setting Up Your Java Development Environment &lpar;JDK &amp; IDEs&rpar;: A Beginner’s Guide](https://dev.to/sharique_siddiqui_8242dad/setting-up-your-java-development-environment-jdk-ides-a-beginners-guide-4nmj)
-- [Entre lineas y latidos](https://dev.to/lyndesigng/entre-lineas-y-latidos-1dio)
-- [What is Java? Understanding Its Core Concepts and History](https://dev.to/sharique_siddiqui_8242dad/what-is-java-understanding-its-core-concepts-and-history-pkc)
-- [The Ultimate Fusion: Linux, Ubuntu, and Cybersecurity | by Faruk Ahmed | Jun, 2025](https://dev.to/cyberwebpen/the-ultimate-fusion-linux-ubuntu-and-cybersecurity-by-faruk-ahmed-jun-2025-3nef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
