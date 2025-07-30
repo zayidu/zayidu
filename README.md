@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. Svelte: An Unbiased Look for New Developers in 2025](https://dev.to/rhythmsaha/react-vs-svelte-an-unbiased-look-for-new-developers-in-2025-4c04)
-- [🚀 How to Use FlyonUI Block with AI Tools?](https://dev.to/themeselection/how-to-use-flyonui-block-with-ai-tools-5b83)
-- [Developing Modules for Puppet and the Forge in 2025](https://dev.to/puppet/developing-modules-for-puppet-and-the-forge-in-2025-okc)
-- [My Beginner Journey into Web3 and Exploring Algolia’s MCP Server 🚀](https://dev.to/briamah/my-beginner-journey-into-web3-and-exploring-algolias-mcp-server-2i7o)
-- [Career Opportunities After Completing AI &amp; Data Science Degree](https://dev.to/solamalai_college/career-opportunities-after-completing-ai-data-science-degree-3am1)
+- [Building a Fast, Lightweight Web Server in Pure Ruby: A Complete Guide](https://dev.to/daviducolo/building-a-fast-lightweight-web-server-in-pure-ruby-a-complete-guide-2l57)
+- [[Boost]](https://dev.to/uliyahoo/-3d8m)
+- [Why Amazon S3 Is Ideal for Cloud Data Storage](https://dev.to/techcompass/why-amazon-s3-is-ideal-for-cloud-data-storage-2d1c)
+- [Introducing BLEEP: The Quantum-Secure, AI-Native, Self-Healing Blockchain](https://dev.to/mattahir/introducing-bleep-the-quantum-secure-ai-native-self-healing-blockchain-14ij)
+- [Day 50: When College Systems Work Against Students](https://dev.to/casperday11/day-50-when-college-systems-work-against-students-11d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
