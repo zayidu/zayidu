@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArkTS Best Practices: How to Build a Modular Theme Management System in 2025](https://dev.to/harmonyos/arkts-best-practices-how-to-build-a-modular-theme-management-system-in-2025-4e4p)
-- [The Two Generals’ Problem: A Fundamental Communication Paradox](https://dev.to/grenishrai/the-two-generals-problem-a-fundamental-communication-paradox-2oh8)
-- [Announcing APISIX Integration with AI/ML API](https://dev.to/apisix/announcing-apisix-integration-with-aiml-api-20gm)
-- [Introducing 2Perks: The collaborative perks platform for businesses](https://dev.to/aledb/introducing-2perks-the-collaborative-perks-platform-for-businesses-2m6n)
-- [What to do if Raspberry Pi won’t boot?](https://dev.to/carolineee/what-to-do-if-raspberry-pi-wont-boot-237k)
+- [🚀Top 25 Chrome Extensions for DEVs🧑‍💻](https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-27e)
+- [Laravel Filament Multipanel Starter - Build your app fast](https://dev.to/filamentmastery/laravel-filament-multipanel-starter-build-your-app-fast-1g73)
+- [Claude 4 Drops, AI Gets Scary Smart, and Why Your Next Job Interview Might Be Against a Bot](https://dev.to/shiva_shanker_k/claude-4-drops-ai-gets-scary-smart-and-why-your-next-job-interview-might-be-against-a-bot-3mfo)
+- [Building MCP Servers for Any Language &lpar;including Kotlin / Ruby / Rust / Java / Go / Typescript / Python / Swift / C# Based MCPs&rpar;](https://dev.to/yigit-konur/building-mcp-servers-for-any-language-including-kotlin-ruby-rust-java-go-typescript--2ofi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
