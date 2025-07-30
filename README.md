@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [simple python IP pinger](https://dev.to/notdonk/simple-python-ip-pinger-ffm)
-- [“Not everyone takes the traditional path into tech — and that’s okay &quot;.](https://dev.to/mezcode/not-everyone-takes-the-traditional-path-into-tech-and-thats-okay--2gjn)
-- [C++](https://dev.to/parshuram_singh/c-1hp1)
-- [AI ASMRVIDEO](https://dev.to/sports_gearaka_e6b1d9cc2/ai-asmrvideo-3n26)
-- [Top 5 Reasons Why AI Agents Can’t Replace Human Developers Yet](https://dev.to/therealmrmumba/top-5-reasons-why-ai-agents-cant-replace-human-developers-yet-1gbm)
+- [A Simple Cheat Sheet for JavaScript Developers Transitioning to Python](https://dev.to/distalx/a-simple-cheat-sheet-for-javascript-developers-transitioning-to-python-ecj)
+- [IGN: Reverse 1999 - Official Ezio Assassin&#39;s Creed Trailer](https://dev.to/gg_news/ign-reverse-1999-official-ezio-assassins-creed-trailer-776)
+- [IGN: Hell is Us - Official &#39;Diving into the Dungeons&#39; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-diving-into-the-dungeons-overview-trailer-2nef)
+- [IGN: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-review-3do)
+- [IGN: Plushes - Official Teaser Trailer](https://dev.to/gg_news/ign-plushes-official-teaser-trailer-1m77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
