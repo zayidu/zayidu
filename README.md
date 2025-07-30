@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Brokeback Mountain&#39; With Bill Simmons and Wesley Morris | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-brokeback-mountain-with-bill-simmons-and-wesley-morris-the-rewatchables-39kl)
-- [Ringer Movies: The 1990s Horror Movie Canon and The ‘KPop Demon Hunters&#39; Revolution | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-1990s-horror-movie-canon-and-the-kpop-demon-hunters-revolution-the-big-3j8k)
-- [CinemaSins: Everything Wrong With The Naked Gun: From the Files of Police Squad!](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-naked-gun-from-the-files-of-police-squad-30lk)
-- [What&#39;s the One DevOps &quot;Best Practice&quot; You Secretly Ignore &lpar;and Why&rpar;?](https://dev.to/devopsdaily/whats-the-one-devops-best-practice-you-secretly-ignore-and-why-2460)
-- [How OpenRouter Unlocked Our Workshop Strategy](https://dev.to/blockopensource/how-openrouter-unlocked-our-workshop-strategy-5082)
+- [simple python IP pinger](https://dev.to/notdonk/simple-python-ip-pinger-ffm)
+- [“Not everyone takes the traditional path into tech — and that’s okay &quot;.](https://dev.to/mezcode/not-everyone-takes-the-traditional-path-into-tech-and-thats-okay--2gjn)
+- [C++](https://dev.to/parshuram_singh/c-1hp1)
+- [AI ASMRVIDEO](https://dev.to/sports_gearaka_e6b1d9cc2/ai-asmrvideo-3n26)
+- [Top 5 Reasons Why AI Agents Can’t Replace Human Developers Yet](https://dev.to/therealmrmumba/top-5-reasons-why-ai-agents-cant-replace-human-developers-yet-1gbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
