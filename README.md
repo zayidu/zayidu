@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: Built a Lead Form Automation This Wednesday](https://dev.to/siima/day-4-built-a-lead-form-automation-this-wednesday-438d)
-- [Why TCS Is Letting Go of ~12,000 Employees: The Inside Story and What Comes Next](https://dev.to/nikhilwagh/why-tcs-is-letting-go-of-12000-employees-the-inside-story-and-what-comes-next-3jj4)
-- [How to Split a Python String into Characters](https://dev.to/kiani0x01/how-to-split-a-python-string-into-characters-18ej)
-- [Guide pratique pour sécuriser votre PME contre les cybermenaces](https://dev.to/robin_boucher_4a5559d1b96/guide-pratique-pour-securiser-votre-pme-contre-les-cybermenaces-2i0n)
-- [Deactivating Python venv](https://dev.to/kiani0x01/deactivating-python-venv-8ih)
+- [Llama-3.2 &amp; Tacos: A Hackathon Love Story](https://dev.to/rage/llama-32-tacos-a-hackathon-love-story-3i0j)
+- [Level Up Your Website with Malware Detection 🔥](https://dev.to/sonotommy/level-up-your-website-with-malware-detection-l2o)
+- [World’s Largest Hackathon Writing Challenge](https://dev.to/rage/worlds-largest-hackathon-writing-challenge-5go)
+- [How to Keep Your render or replit Projects Online 24/7 with hosting.aifordiscord.xyz](https://dev.to/cwkhan/how-to-keep-your-render-or-replit-projects-online-247-with-hostingaifordiscordxyz-4ddi)
+- [Criando um compilador em csharp: Parte 6](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-6-2ccm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
