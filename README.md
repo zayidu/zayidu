@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Baby Grok? Elon Musk&#39;s Safe AI Chatbot for Kids?](https://dev.to/jovin_george_733dcfc16291/what-is-baby-grok-elon-musks-safe-ai-chatbot-for-kids-2mio)
-- [Deploy Your First Web App with AWS App Runner: Fully Managed &amp; Container-Ready](https://dev.to/parimal5/deploy-your-first-web-app-with-aws-app-runner-fully-managed-container-ready-127g)
-- [I Thought React Was Clean, Then I Tried Vue](https://dev.to/bunmioye/i-thought-react-was-clean-then-i-tried-vue-1m5k)
-- [Dev Thought of the Day](https://dev.to/i_am_yaseen/dev-thought-of-the-day-1mh1)
-- [How AI Changed 3D Printing](https://dev.to/planke/how-ai-changed-3d-printing-1mi3)
+- [ArkTS Best Practices: How to Build a Modular Theme Management System in 2025](https://dev.to/harmonyos/arkts-best-practices-how-to-build-a-modular-theme-management-system-in-2025-4e4p)
+- [The Two Generals’ Problem: A Fundamental Communication Paradox](https://dev.to/grenishrai/the-two-generals-problem-a-fundamental-communication-paradox-2oh8)
+- [Announcing APISIX Integration with AI/ML API](https://dev.to/apisix/announcing-apisix-integration-with-aiml-api-20gm)
+- [Introducing 2Perks: The collaborative perks platform for businesses](https://dev.to/aledb/introducing-2perks-the-collaborative-perks-platform-for-businesses-2m6n)
+- [What to do if Raspberry Pi won’t boot?](https://dev.to/carolineee/what-to-do-if-raspberry-pi-wont-boot-237k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
