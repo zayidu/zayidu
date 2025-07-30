@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code’s Custom Agent Framework Changes Everything](https://dev.to/therealmrmumba/claude-codes-custom-agent-framework-changes-everything-4o4m)
-- [[Boost]](https://dev.to/alvaromontoro/-489a)
-- [WT Yandex map items v.2.0.5 Joomla module has been released](https://dev.to/sergeytolkachyov/wt-yandex-map-items-v205-joomla-module-has-been-released-1350)
-- [399. Evaluate Division](https://dev.to/rakeshreddy512/399-evaluate-division-20bg)
-- [From Diagnosis to Recovery: How AI is Enhancing the Patient Journey](https://dev.to/sanjay_serviots_08ee56986/from-diagnosis-to-recovery-how-ai-is-enhancing-the-patient-journey-4799)
+- [Take Control: Manage Hybrid Cloud Environment Using Azure Arc](https://dev.to/testree/take-control-manage-hybrid-cloud-environment-using-azure-arc-1m5l)
+- [Best Translation Software for PC](https://dev.to/colinreed/best-translation-software-for-pc-35ci)
+- [bbb](https://dev.to/armaankhan8270/bbb-14h)
+- [Build a Local Server to Sync Your Contacts and Calendars](https://dev.to/vihanga_anuththara_0a402f/build-a-local-server-to-sync-your-contacts-and-calendars-3aen)
+- [Halloween Costume Idea Generator](https://dev.to/annavi11arrea1/halloween-costume-idea-generator-4958)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
