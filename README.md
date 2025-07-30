@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama-3.2 &amp; Tacos: A Hackathon Love Story](https://dev.to/rage/llama-32-tacos-a-hackathon-love-story-3i0j)
-- [Level Up Your Website with Malware Detection 🔥](https://dev.to/sonotommy/level-up-your-website-with-malware-detection-l2o)
-- [World’s Largest Hackathon Writing Challenge](https://dev.to/rage/worlds-largest-hackathon-writing-challenge-5go)
-- [How to Keep Your render or replit Projects Online 24/7 with hosting.aifordiscord.xyz](https://dev.to/cwkhan/how-to-keep-your-render-or-replit-projects-online-247-with-hostingaifordiscordxyz-4ddi)
-- [Criando um compilador em csharp: Parte 6](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-6-2ccm)
+- [Desenvolvimento Assistido por IA: Explorando o Firebase Studio](https://dev.to/colatto/desenvolvimento-assistido-por-ia-explorando-o-firebase-studio-43kj)
+- [Measures of Central Tendency in Data Science](https://dev.to/maggyq/measures-of-central-tendency-in-data-science-2j6i)
+- [Cleaning Up the Feature Set #24](https://dev.to/0xj0n1/cleaning-up-the-feature-set-24-pa4)
+- [Sushihost.org: por qué el autoalojamiento sigue siendo relevante en 2025](https://dev.to/toufiq_b4073908fdc8953fd2/sushihostorg-por-que-el-autoalojamiento-sigue-siendo-relevante-en-2025-3o30)
+- [Building Scalable Support Ticket System with Node.js, Express &amp; MongoDB – Part 3](https://dev.to/abhijeet_sachan_34f5d10dc/building-scalable-support-ticket-system-with-nodejs-express-mongodb-part-3-1gak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
