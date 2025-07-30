@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JAVA Interfaces](https://dev.to/sudamsiths/understanding-java-interfaces-49ek)
-- [Overengineering OpenGraph image generation on Vercel](https://dev.to/topcat/overengineering-opengraph-image-generation-on-vercel-5fh)
-- [《Hotspot Event Analysis tool》--developed based on the LLM-enhanced approach](https://dev.to/zhangzib123/-developed-based-on-the-llm-enhanced-approach-1coc)
-- [🔧 Bitcoin Mining in 2025: Industrial Scale, Shrinking Margins, and a New Class of Players](https://dev.to/andylarkin677/bitcoin-mining-in-2025-industrial-scale-shrinking-margins-and-a-new-class-of-players-2m6j)
-- [Top 7 AI Headshot Generators &lpar;Tested &amp; Compared&rpar;](https://dev.to/nitinfab/top-7-ai-headshot-generators-tested-compared-g5o)
+- [React vs. Svelte: An Unbiased Look for New Developers in 2025](https://dev.to/rhythmsaha/react-vs-svelte-an-unbiased-look-for-new-developers-in-2025-4c04)
+- [🚀 How to Use FlyonUI Block with AI Tools?](https://dev.to/themeselection/how-to-use-flyonui-block-with-ai-tools-5b83)
+- [Developing Modules for Puppet and the Forge in 2025](https://dev.to/puppet/developing-modules-for-puppet-and-the-forge-in-2025-okc)
+- [My Beginner Journey into Web3 and Exploring Algolia’s MCP Server 🚀](https://dev.to/briamah/my-beginner-journey-into-web3-and-exploring-algolias-mcp-server-2i7o)
+- [Career Opportunities After Completing AI &amp; Data Science Degree](https://dev.to/solamalai_college/career-opportunities-after-completing-ai-data-science-degree-3am1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
