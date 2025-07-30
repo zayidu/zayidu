@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Top 25 Chrome Extensions for DEVs🧑‍💻](https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-27e)
-- [Laravel Filament Multipanel Starter - Build your app fast](https://dev.to/filamentmastery/laravel-filament-multipanel-starter-build-your-app-fast-1g73)
-- [Claude 4 Drops, AI Gets Scary Smart, and Why Your Next Job Interview Might Be Against a Bot](https://dev.to/shiva_shanker_k/claude-4-drops-ai-gets-scary-smart-and-why-your-next-job-interview-might-be-against-a-bot-3mfo)
-- [Building MCP Servers for Any Language &lpar;including Kotlin / Ruby / Rust / Java / Go / Typescript / Python / Swift / C# Based MCPs&rpar;](https://dev.to/yigit-konur/building-mcp-servers-for-any-language-including-kotlin-ruby-rust-java-go-typescript--2ofi)
+- [Understanding JAVA Interfaces](https://dev.to/sudamsiths/understanding-java-interfaces-49ek)
+- [Overengineering OpenGraph image generation on Vercel](https://dev.to/topcat/overengineering-opengraph-image-generation-on-vercel-5fh)
+- [《Hotspot Event Analysis tool》--developed based on the LLM-enhanced approach](https://dev.to/zhangzib123/-developed-based-on-the-llm-enhanced-approach-1coc)
+- [🔧 Bitcoin Mining in 2025: Industrial Scale, Shrinking Margins, and a New Class of Players](https://dev.to/andylarkin677/bitcoin-mining-in-2025-industrial-scale-shrinking-margins-and-a-new-class-of-players-2m6j)
+- [Top 7 AI Headshot Generators &lpar;Tested &amp; Compared&rpar;](https://dev.to/nitinfab/top-7-ai-headshot-generators-tested-compared-g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
