@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Cheat Sheet for JavaScript Developers Transitioning to Python](https://dev.to/distalx/a-simple-cheat-sheet-for-javascript-developers-transitioning-to-python-ecj)
-- [IGN: Reverse 1999 - Official Ezio Assassin&#39;s Creed Trailer](https://dev.to/gg_news/ign-reverse-1999-official-ezio-assassins-creed-trailer-776)
-- [IGN: Hell is Us - Official &#39;Diving into the Dungeons&#39; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-diving-into-the-dungeons-overview-trailer-2nef)
-- [IGN: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-review-3do)
-- [IGN: Plushes - Official Teaser Trailer](https://dev.to/gg_news/ign-plushes-official-teaser-trailer-1m77)
+- [WTF is Git Rebase &lpar;and Why It’s Both Magic and Chaos&rpar;](https://dev.to/namit2111/wtf-is-git-rebase-and-why-its-both-magic-and-chaos-1o04)
+- [How Meta&#39;s AI-Driven Interviews Are Transforming Software Engineering Recruitment](https://dev.to/jay_all_day/how-metas-ai-driven-interviews-are-transforming-software-engineering-recruitment-l0l)
+- [How Laravel Loads and Caches Translation Files in Localization](https://dev.to/yasserelgammal/how-laravel-loads-and-caches-translation-files-in-localization-4gk)
+- [Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years](https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4)
+- [Gareth David Studio: Effortlessly CONVERT Images to Greyscale In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-effortlessly-convert-images-to-greyscale-in-indesign-design-tutorial-37mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
