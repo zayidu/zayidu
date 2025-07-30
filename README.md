@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accomplishments and Lessons](https://dev.to/firstfruits41/accomplishments-and-lessons-1dlb)
-- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-214b)
-- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-41od)
-- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-2eib)
-- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-4pmg)
+- [Day 4: Built a Lead Form Automation This Wednesday](https://dev.to/siima/day-4-built-a-lead-form-automation-this-wednesday-438d)
+- [Why TCS Is Letting Go of ~12,000 Employees: The Inside Story and What Comes Next](https://dev.to/nikhilwagh/why-tcs-is-letting-go-of-12000-employees-the-inside-story-and-what-comes-next-3jj4)
+- [How to Split a Python String into Characters](https://dev.to/kiani0x01/how-to-split-a-python-string-into-characters-18ej)
+- [Guide pratique pour sécuriser votre PME contre les cybermenaces](https://dev.to/robin_boucher_4a5559d1b96/guide-pratique-pour-securiser-votre-pme-contre-les-cybermenaces-2i0n)
+- [Deactivating Python venv](https://dev.to/kiani0x01/deactivating-python-venv-8ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
