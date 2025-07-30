@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI helps you log into the server and locate and fix problems. It’s cool, but you need to pay attention to setting the rules!](https://dev.to/mkstudio/ai-helps-you-log-into-the-server-and-locate-and-fix-problems-its-cool-but-you-need-to-pay-3gkg)
-- [From Clunky Notes to Clean Markdown: I Built the Editor I Always Wanted](https://dev.to/emmanueln07/from-clunky-notes-to-clean-markdown-i-built-the-editor-i-always-wanted-3e15)
-- [Never Sleep Again: How I Built AwakeLock, a Robust, Multi-Layered Solution for Web Wake Locks](https://dev.to/emmanueln07/never-sleep-again-how-i-built-awakelock-a-robust-multi-layered-solution-for-web-wake-locks-o5i)
-- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #5&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-5-3o19)
-- [Mastering DOM Manipulation in Angular with Renderer2: A Complete Guide - Part 1](https://dev.to/vetriselvan_11/mastering-dom-manipulation-in-angular-with-renderer2-a-complete-guide-part-1-5e7d)
+- [Mastering Pointers in Doubly Linked Lists: Challenges and Solutions](https://dev.to/adityabhuyan/mastering-pointers-in-doubly-linked-lists-challenges-and-solutions-bo7)
+- [Mastering Git for Beginners – Start Your Dev Journey with Confidence!](https://dev.to/rohit_kumar_0193e4393f4bb/mastering-git-for-beginners-start-your-dev-journey-with-confidence-22dp)
+- [What is JSON.stringify&lpar;&rpar;? A Beginner’s Guide with Examples](https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn)
+- [Google Maps TMS Service Parameter Analysis](https://dev.to/yangholmes/google-maps-tms-service-parameter-analysis-1blb)
+- [Kubernetes App Slow? Fix DNS, Mesh &amp; Caching.Not Node Scaling](https://dev.to/ismailkovvuru/kubernetes-app-slow-fix-dns-mesh-cachingnot-node-scaling-4amj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
