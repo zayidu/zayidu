@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal Face Recognition Pipeline with CocoIndex: Real-Time Image and Vector Search](https://dev.to/cocoindex/multimodal-face-recognition-pipeline-with-cocoindex-real-time-image-and-vector-search-19hi)
-- [🎮 I Built a Python Games Bundle — 3 Games + EXE + Mockups + Docs &lpar;Arabic &amp; English&rpar;](https://dev.to/codewithabdel/i-built-a-python-games-bundle-3-games-exe-mockups-docs-arabic-english-16cp)
-- [Modernizing Legacy Systems with AWS: Scalable, Secure &amp; AI-Ready](https://dev.to/emmao/modernizing-legacy-systems-with-aws-scalable-secure-ai-ready-403a)
-- [Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations](https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9)
-- [Take Out优化](https://dev.to/woodyxin/take-outyou-hua-19o9)
+- [AI helps you log into the server and locate and fix problems. It’s cool, but you need to pay attention to setting the rules!](https://dev.to/mkstudio/ai-helps-you-log-into-the-server-and-locate-and-fix-problems-its-cool-but-you-need-to-pay-3gkg)
+- [From Clunky Notes to Clean Markdown: I Built the Editor I Always Wanted](https://dev.to/emmanueln07/from-clunky-notes-to-clean-markdown-i-built-the-editor-i-always-wanted-3e15)
+- [Never Sleep Again: How I Built AwakeLock, a Robust, Multi-Layered Solution for Web Wake Locks](https://dev.to/emmanueln07/never-sleep-again-how-i-built-awakelock-a-robust-multi-layered-solution-for-web-wake-locks-o5i)
+- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #5&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-5-3o19)
+- [Mastering DOM Manipulation in Angular with Renderer2: A Complete Guide - Part 1](https://dev.to/vetriselvan_11/mastering-dom-manipulation-in-angular-with-renderer2-a-complete-guide-part-1-5e7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
