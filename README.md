@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ EC2: AWS-Elastic Compute Cloud &lpar;Real-World Friendly &rpar;](https://dev.to/0xas1fsec404/ec2-aws-elastic-compute-cloud-real-world-friendly--1mk1)
-- [Cómo Instalar Deathmatch Classic de Steam en Manjaro, Arch y Otras Distribuciones](https://dev.to/juniormendoza3044/como-instalar-deathmatch-classic-de-steam-en-manjaro-arch-y-otras-distribuciones-50om)
-- [Características Técnicas del Sistema Operativo Linux CentOS](https://dev.to/juniormendoza3044/caracteristicas-tecnicas-del-sistema-operativo-linux-centos-3bn4)
-- [Untitled](https://dev.to/ms_kennedy_576288bcc6de88/untitled-1fd4)
-- [Two Writers. Two Documents. Two Very Different Reviews.](https://dev.to/scriptmuse/two-writers-two-documents-two-very-different-reviews-h56)
+- [Accomplishments and Lessons](https://dev.to/firstfruits41/accomplishments-and-lessons-1dlb)
+- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-214b)
+- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-41od)
+- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-2eib)
+- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
