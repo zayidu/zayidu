@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Assistido por IA: Explorando o Firebase Studio](https://dev.to/colatto/desenvolvimento-assistido-por-ia-explorando-o-firebase-studio-43kj)
-- [Measures of Central Tendency in Data Science](https://dev.to/maggyq/measures-of-central-tendency-in-data-science-2j6i)
-- [Cleaning Up the Feature Set #24](https://dev.to/0xj0n1/cleaning-up-the-feature-set-24-pa4)
-- [Sushihost.org: por qué el autoalojamiento sigue siendo relevante en 2025](https://dev.to/toufiq_b4073908fdc8953fd2/sushihostorg-por-que-el-autoalojamiento-sigue-siendo-relevante-en-2025-3o30)
-- [Building Scalable Support Ticket System with Node.js, Express &amp; MongoDB – Part 3](https://dev.to/abhijeet_sachan_34f5d10dc/building-scalable-support-ticket-system-with-nodejs-express-mongodb-part-3-1gak)
+- [Context engineering for production-grade web agents](https://dev.to/skarpoor12/context-engineering-for-production-grade-web-agents-150a)
+- [🧠 My Personal Bash Scripts Repository on GitHub](https://dev.to/seifeldienahmad/-my-personal-bash-scripts-repository-on-github-101o)
+- [🎬 CineFlow: A Self-Hosted Workflow to Automate Jellyfin + Jackett + Transmission](https://dev.to/sandor_szilagyi/cineflow-a-self-hosted-workflow-to-automate-jellyfin-jackett-transmission-2pmi)
+- [Common Challenges in Migration Projects and How to Overcome Them](https://dev.to/fred_rodrigues_996451110b/common-challenges-in-migration-projects-and-how-to-overcome-them-4k1n)
+- [Nostalgic web windows 95 portfolio](https://dev.to/yuteoctober/nostalgic-web-windows-95-portfolio-1b41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
