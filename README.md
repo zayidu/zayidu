@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Git Rebase &lpar;and Why It’s Both Magic and Chaos&rpar;](https://dev.to/namit2111/wtf-is-git-rebase-and-why-its-both-magic-and-chaos-1o04)
-- [How Meta&#39;s AI-Driven Interviews Are Transforming Software Engineering Recruitment](https://dev.to/jay_all_day/how-metas-ai-driven-interviews-are-transforming-software-engineering-recruitment-l0l)
-- [How Laravel Loads and Caches Translation Files in Localization](https://dev.to/yasserelgammal/how-laravel-loads-and-caches-translation-files-in-localization-4gk)
-- [Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years](https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4)
-- [Gareth David Studio: Effortlessly CONVERT Images to Greyscale In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-effortlessly-convert-images-to-greyscale-in-indesign-design-tutorial-37mj)
+- [☁️ EC2: AWS-Elastic Compute Cloud &lpar;Real-World Friendly &rpar;](https://dev.to/0xas1fsec404/ec2-aws-elastic-compute-cloud-real-world-friendly--1mk1)
+- [Cómo Instalar Deathmatch Classic de Steam en Manjaro, Arch y Otras Distribuciones](https://dev.to/juniormendoza3044/como-instalar-deathmatch-classic-de-steam-en-manjaro-arch-y-otras-distribuciones-50om)
+- [Características Técnicas del Sistema Operativo Linux CentOS](https://dev.to/juniormendoza3044/caracteristicas-tecnicas-del-sistema-operativo-linux-centos-3bn4)
+- [Untitled](https://dev.to/ms_kennedy_576288bcc6de88/untitled-1fd4)
+- [Two Writers. Two Documents. Two Very Different Reviews.](https://dev.to/scriptmuse/two-writers-two-documents-two-very-different-reviews-h56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
