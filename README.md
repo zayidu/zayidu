@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The 2025 Habits That Changed My Developer Journey](https://dev.to/abubakersiddique771/the-2025-habits-that-changed-my-developer-journey-91g)
-- [ROFL Is Live on Mainnet — Confidential Compute Meets Web3](https://dev.to/caerlower/rofl-is-live-on-mainnet-confidential-compute-meets-web3-4plk)
-- [Lessons Learned Shipping My First OSS Project with Next.js + shadcn](https://dev.to/ayberkyasa/lessons-learned-shipping-my-first-oss-project-with-nextjs-shadcn-492p)
-- [IGN: Marvel Tokon: Fighting Souls - Official Beginners Guide Overview](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-beginners-guide-overview-k8a)
-- [🏗️ Why 2026 Will Be the Year of Micro-SaaS](https://dev.to/resource_bunk_1077cab07da/why-2026-will-be-the-year-of-micro-saas-394l)
+- [Unlocking the Secrets to Production-Ready LLM Architectures: Overcoming Key Challenges](https://dev.to/jay_all_day/unlocking-the-secrets-to-production-ready-llm-architectures-overcoming-key-challenges-g2a)
+- [Valtio: The Proxy-Based State That Makes React State Management Feel Like Magic](https://dev.to/genildocs/valtio-the-proxy-based-state-that-makes-react-state-management-feel-like-magic-5c0l)
+- [Unbelievable: China Dominates Top 10 Open-Source Models on HuggingFace](https://dev.to/ndmckay/unbelievable-china-dominates-top-10-open-source-models-on-huggingface-4774)
+- [Predicting win probabilities of premier league teams based on last seasons performance using Python](https://dev.to/cherotich/predicting-win-probabilities-of-premier-league-teams-based-on-last-seasons-performance-using-python-73c)
+- [Chinese models pulling away](https://dev.to/ndmckay/chinese-models-pulling-away-1o8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
