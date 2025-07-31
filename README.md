@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👨‍💻 Teach Yourself CS — A Self-Taught Developer’s Roadmap to Computer Science](https://dev.to/ml318097/teach-yourself-cs-a-self-taught-developers-roadmap-to-computer-science-1p19)
-- [IGN: Yakuza Kiwami 1 &amp; Kiwami 2 - Official Nintendo Switch 2 Trailer | Nintendo Direct Partner Showcase](https://dev.to/gg_news/ign-yakuza-kiwami-1-kiwami-2-official-nintendo-switch-2-trailer-nintendo-direct-partner-51md)
-- [IGN: Hello Kitty Island Adventure - Official Wheatflour Wonderland DLC Reveal Trailer | Direct 2025](https://dev.to/gg_news/ign-hello-kitty-island-adventure-official-wheatflour-wonderland-dlc-reveal-trailer-direct-2025-339c)
-- [IGN: Ninja Gaiden: Ragebound - Official Launch Trailer](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-official-launch-trailer-3j57)
-- [IGN: The Conjuring: Last Rites Director on the End &lpar;and Future&rpar; of the Horror Franchise](https://dev.to/gg_news/ign-the-conjuring-last-rites-director-on-the-end-and-future-of-the-horror-franchise-1fl1)
+- [I hated React, so I created my own web framework, Nijor !](https://dev.to/debaxom/i-hated-react-so-i-created-my-own-web-framework-nijor--8cl)
+- [👋 What is SqueHub?](https://dev.to/squehub/what-is-squehub-100k)
+- [Securing REST APIs in Go &lpar;Echo Framework Edition&rpar;](https://dev.to/lovestaco/securing-rest-apis-in-go-echo-framework-edition-259g)
+- [React Native Storybook Toggle](https://dev.to/steckdev/react-native-storybook-toggle-44cp)
+- [What Happens After You Log a Bug? The QA Perspective](https://dev.to/qalogy/what-happens-after-you-log-a-bug-the-qa-perspective-ech)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
