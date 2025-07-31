@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Red Errors to Real Confidence](https://dev.to/daoistrose/from-red-errors-to-real-confidence-5jm)
-- [Notes and Takes from Computer Systems, A Programmer&#39;s Perspective - Chapter 1, from a Non-CS Grad](https://dev.to/lawson_ngole/notes-and-takes-from-computer-systems-a-programmers-perspective-chapter-1-from-a-non-cs-grad-8h2)
-- [Advanced Git Mastery – Second edition 2025](https://dev.to/laravel_dailytips/advanced-git-mastery-second-edition-2025-elp)
-- [Money Unveiled: A Journey from Barter to Cryptocurrencies! 🚀](https://dev.to/maria_ceciliaorlando_ade/money-unveiled-a-journey-from-barter-to-cryptocurrencies-5fnn)
-- [Advanced Git Mastery – First edition 2025](https://dev.to/laravel_dailytips/advanced-git-mastery-first-edition-2025-igm)
+- [👨‍💻 Teach Yourself CS — A Self-Taught Developer’s Roadmap to Computer Science](https://dev.to/ml318097/teach-yourself-cs-a-self-taught-developers-roadmap-to-computer-science-1p19)
+- [IGN: Yakuza Kiwami 1 &amp; Kiwami 2 - Official Nintendo Switch 2 Trailer | Nintendo Direct Partner Showcase](https://dev.to/gg_news/ign-yakuza-kiwami-1-kiwami-2-official-nintendo-switch-2-trailer-nintendo-direct-partner-51md)
+- [IGN: Hello Kitty Island Adventure - Official Wheatflour Wonderland DLC Reveal Trailer | Direct 2025](https://dev.to/gg_news/ign-hello-kitty-island-adventure-official-wheatflour-wonderland-dlc-reveal-trailer-direct-2025-339c)
+- [IGN: Ninja Gaiden: Ragebound - Official Launch Trailer](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-official-launch-trailer-3j57)
+- [IGN: The Conjuring: Last Rites Director on the End &lpar;and Future&rpar; of the Horror Franchise](https://dev.to/gg_news/ign-the-conjuring-last-rites-director-on-the-end-and-future-of-the-horror-franchise-1fl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
