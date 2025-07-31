@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I knew RSC was a rake but I stepped on it anyway](https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9)
-- [Title: XRP Price Analysis: Technical Surge and Short-Term Consolidation Risk](https://dev.to/yagyaraj_sharma_6cd410179/title-xrp-price-analysis-technical-surge-and-short-term-consolidation-risk-1hhp)
-- [Title: Goldman Sachs and BNY Mellon Partner to Launch Tokenized Money Market Funds](https://dev.to/yagyaraj_sharma_6cd410179/title-goldman-sachs-and-bny-mellon-partner-to-launch-tokenized-money-market-funds-10ig)
-- [What is Layout, Paint, Composite? and How Do They Affect Web Performance?](https://dev.to/timjat/what-is-layout-paint-composite-and-how-do-they-affect-web-performance-48ml)
-- [CodeBoarding: Interactive Diagrams for Codebases](https://dev.to/brovatten/codeboarding-interactive-diagrams-for-codebases-14fn)
+- [TIL - My First Dive into Ruby!](https://dev.to/arsalanbardsiri/til-my-first-dive-into-ruby-d28)
+- [Pick Up The Power Of Array Method &lpar;Part 1&rpar;](https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do)
+- [S3 vs EBS vs EFS – AWS Storage Simplified with Real-Life Use Cases 📦](https://dev.to/yash_sonawane25/s3-vs-ebs-vs-efs-aws-storage-simplified-with-real-life-use-cases-2o09)
+- [Untitled](https://dev.to/ms_kennedy_576288bcc6de88/untitled-415e)
+- [Boosting EF Core Performance with EF.CompileQuery](https://dev.to/morteza-jangjoo/boosting-ef-core-performance-with-efcompilequery-2532)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
