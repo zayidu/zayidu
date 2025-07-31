@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I hated React, so I created my own web framework, Nijor !](https://dev.to/debaxom/i-hated-react-so-i-created-my-own-web-framework-nijor--8cl)
-- [👋 What is SqueHub?](https://dev.to/squehub/what-is-squehub-100k)
-- [Securing REST APIs in Go &lpar;Echo Framework Edition&rpar;](https://dev.to/lovestaco/securing-rest-apis-in-go-echo-framework-edition-259g)
-- [React Native Storybook Toggle](https://dev.to/steckdev/react-native-storybook-toggle-44cp)
-- [What Happens After You Log a Bug? The QA Perspective](https://dev.to/qalogy/what-happens-after-you-log-a-bug-the-qa-perspective-ech)
+- [How I Automated My YouTube Intros with Just One Python Script!](https://dev.to/saint_vandora/how-i-automated-my-youtube-intros-with-just-one-python-script-2182)
+- [Stop Lying in Daily Standups](https://dev.to/supejuice/stop-lying-in-daily-standups-95k)
+- [Add Konami Codes with Stimulus](https://dev.to/railsdesigner/add-konami-codes-with-stimulus-4lo6)
+- [Mentores que não codam: dá pra confiar ou é cilada, Bino?](https://dev.to/filipi_firmino_dev/mentores-que-nao-codam-da-pra-confiar-ou-e-cilada-bino-311n)
+- [Intro](https://dev.to/daxesh_parmar_db718f57a2d/intro-185c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
