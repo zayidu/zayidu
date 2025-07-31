@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hadil/-45f6)
-- [Time Complexity &amp; Linear Search](https://dev.to/abhishek-nexgen-dev/time-complexity-linear-search-4f25)
-- [Daily Habit Tracker Guide: Why and How to Track Your Habits](https://dev.to/dailyhabittracker/daily-habit-tracker-guide-why-and-how-to-track-your-habits-1km8)
-- [Computer Vision Algorithms Led AI — Until Transformers Took Over](https://dev.to/krish2305/computer-vision-algorithms-led-ai-until-transformers-took-over-4l3h)
-- [Project KARL - AI](https://dev.to/theaniketraj/project-karl-ai-3580)
+- [The Complete React Native Styling Guide Every Developer Needs](https://dev.to/arsdev/the-complete-react-native-styling-guide-every-developer-needs-252a)
+- [Incorrect PFS Free Space Information Error in SQL Server: A DBA’s Guide](https://dev.to/arun555/incorrect-pfs-free-space-information-error-in-sql-server-a-dbas-guide-3kgk)
+- [When did we start piling up so many tools just to manage an interface?](https://dev.to/mamadou_diarraafrocodeu/when-did-we-start-piling-up-so-many-tools-just-to-manage-an-interface-3kk8)
+- [China&#39;s Market in a Macro Context: Opportunities and Challenges Coexist](https://dev.to/ksea0309/chinas-market-in-a-macro-context-opportunities-and-challenges-coexist-4pi9)
+- [PHP code for downloading douyin/tiktok videos without watermark](https://dev.to/martin_88d911ba8/php-code-for-downloading-douyintiktok-videos-without-watermark-23ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
