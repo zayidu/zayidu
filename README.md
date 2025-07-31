@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an App That Helped My Mom Sell Her Products Online And Here&#39;s What I Learned](https://dev.to/dhis_is_jj/i-built-an-app-that-helped-my-mom-sell-her-products-online-and-heres-what-i-learned-cn7)
-- [How to Prepare Your Data and Goals Before Building Anything with ML](https://dev.to/arbisoftcompany/how-to-prepare-your-data-and-goals-before-building-anything-with-ml-1dm7)
-- [Como Usar o GitHub Copilot pra Responder RFPs e Ganhar Mais Projetos](https://dev.to/angelo_matias/como-usar-o-github-copilot-pra-responder-rfps-e-ganhar-mais-projetos-1iio)
-- [Transforming Systems Operations Teams into a Unified Platform Team: The Cultural Change](https://dev.to/alvarolorentedev/transforming-systems-operations-teams-into-a-unified-platform-team-the-cultural-change-3p7g)
-- [The Role of Transparency in Leadership: How You can Build Trust and Healthy Chains of Command](https://dev.to/alvarolorentedev/the-role-of-transparency-in-leadership-how-you-can-build-trust-and-healthy-chains-of-command-14ci)
+- [Mastering AWS Networking: My Journey Begins!](https://dev.to/_eve_/mastering-aws-networking-my-journey-begins-1l3j)
+- [Ekubo: A Simple Guide to Decentralized Liquidity on Starknet](https://dev.to/cherri_underwood_90a69668/ekubo-a-simple-guide-to-decentralized-liquidity-on-starknet-3fmk)
+- [i want create a small website using html and css](https://dev.to/saloni_yangundi_d8fb1e759/i-want-create-a-small-website-using-html-and-css-1041)
+- [Embracing the Chaos of a Multi-Passionate Career](https://dev.to/lois_codes_diary/embracing-the-chaos-of-a-multi-passionate-career-42n0)
+- [From Zero to Telegram AI Bot: My Experience Building with Bolt and Gemini](https://dev.to/oleg_pydev/from-zero-to-telegram-ai-bot-my-experience-building-with-bolt-and-gemini-1kbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
