@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TrixaHub.com – Free Tools for Devs, Designers, Creators, and Curious Minds](https://dev.to/trixahub/trixahubcom-free-tools-for-devs-designers-creators-and-curious-minds-4hkj)
-- [Manage Your Large Laravel Application with Simplicity](https://dev.to/haseebmirza/manage-your-large-laravel-application-with-simplicity-3gfk)
-- [How to setup Vercel AI Function Streaming with CORS support](https://dev.to/samuelkarani/how-to-setup-vercel-ai-function-streaming-with-cors-support-39g9)
-- [How Scaling AI is Driving a New Energy Crisis: Are We Prepared?](https://dev.to/jay_all_day/how-scaling-ai-is-driving-a-new-energy-crisis-are-we-prepared-125o)
-- [Building a Mailbox Pattern in Spring Boot to Decouple Your Application Layers](https://dev.to/galisetty_priyatham_c1a49/building-a-mailbox-pattern-in-spring-boot-to-decouple-your-application-layers-50ec)
+- [🚀 The 2025 Habits That Changed My Developer Journey](https://dev.to/abubakersiddique771/the-2025-habits-that-changed-my-developer-journey-91g)
+- [ROFL Is Live on Mainnet — Confidential Compute Meets Web3](https://dev.to/caerlower/rofl-is-live-on-mainnet-confidential-compute-meets-web3-4plk)
+- [Lessons Learned Shipping My First OSS Project with Next.js + shadcn](https://dev.to/ayberkyasa/lessons-learned-shipping-my-first-oss-project-with-nextjs-shadcn-492p)
+- [IGN: Marvel Tokon: Fighting Souls - Official Beginners Guide Overview](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-beginners-guide-overview-k8a)
+- [🏗️ Why 2026 Will Be the Year of Micro-SaaS](https://dev.to/resource_bunk_1077cab07da/why-2026-will-be-the-year-of-micro-saas-394l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
