@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated My YouTube Intros with Just One Python Script!](https://dev.to/saint_vandora/how-i-automated-my-youtube-intros-with-just-one-python-script-2182)
-- [Stop Lying in Daily Standups](https://dev.to/supejuice/stop-lying-in-daily-standups-95k)
-- [Add Konami Codes with Stimulus](https://dev.to/railsdesigner/add-konami-codes-with-stimulus-4lo6)
-- [Mentores que não codam: dá pra confiar ou é cilada, Bino?](https://dev.to/filipi_firmino_dev/mentores-que-nao-codam-da-pra-confiar-ou-e-cilada-bino-311n)
-- [Intro](https://dev.to/daxesh_parmar_db718f57a2d/intro-185c)
+- [TrixaHub.com – Free Tools for Devs, Designers, Creators, and Curious Minds](https://dev.to/trixahub/trixahubcom-free-tools-for-devs-designers-creators-and-curious-minds-4hkj)
+- [Manage Your Large Laravel Application with Simplicity](https://dev.to/haseebmirza/manage-your-large-laravel-application-with-simplicity-3gfk)
+- [How to setup Vercel AI Function Streaming with CORS support](https://dev.to/samuelkarani/how-to-setup-vercel-ai-function-streaming-with-cors-support-39g9)
+- [How Scaling AI is Driving a New Energy Crisis: Are We Prepared?](https://dev.to/jay_all_day/how-scaling-ai-is-driving-a-new-energy-crisis-are-we-prepared-125o)
+- [Building a Mailbox Pattern in Spring Boot to Decouple Your Application Layers](https://dev.to/galisetty_priyatham_c1a49/building-a-mailbox-pattern-in-spring-boot-to-decouple-your-application-layers-50ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
