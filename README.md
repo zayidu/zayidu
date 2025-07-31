@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Generative Artificial Intelligence - Storyteller](https://dev.to/diosamuel/introduction-to-generative-artificial-intelligence-storyteller-1p36)
-- [I couldn’t come up with a title](https://dev.to/fredrick_oladipupo/i-couldnt-come-up-with-a-title-1887)
-- [Save time and focus on the right part with this hack](https://dev.to/sroy8091/save-time-and-focus-on-the-right-part-with-this-hack-5735)
-- [Gemini Live API: Cycle Tour 🚴🏽](https://dev.to/googleworkspace/gemini-live-api-cycle-tour-1kf2)
-- [How AI Technology is Impacting the Sales Process](https://dev.to/joywinter90/how-ai-technology-is-impacting-the-sales-process-62)
+- [AWS open source newsletter, #212](https://dev.to/aws/aws-open-source-newsletter-212-1l55)
+- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
+- [Choosing a UK Application Development Company in 2025](https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p)
+- [What is Schedule Variance in Project Management?](https://dev.to/oodlesplatform/what-is-schedule-variance-in-project-management-2oi8)
+- [The 2025 Developer&#39;s AI Stack: 15 Tools That Actually Save Time &lpar;With Real ROI Data&rpar;](https://dev.to/teamcamp/the-2025-developers-ai-stack-15-tools-that-actually-save-time-with-real-roi-data-598p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
