@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete React Native Styling Guide Every Developer Needs](https://dev.to/arsdev/the-complete-react-native-styling-guide-every-developer-needs-252a)
-- [Incorrect PFS Free Space Information Error in SQL Server: A DBA’s Guide](https://dev.to/arun555/incorrect-pfs-free-space-information-error-in-sql-server-a-dbas-guide-3kgk)
-- [When did we start piling up so many tools just to manage an interface?](https://dev.to/mamadou_diarraafrocodeu/when-did-we-start-piling-up-so-many-tools-just-to-manage-an-interface-3kk8)
-- [China&#39;s Market in a Macro Context: Opportunities and Challenges Coexist](https://dev.to/ksea0309/chinas-market-in-a-macro-context-opportunities-and-challenges-coexist-4pi9)
-- [PHP code for downloading douyin/tiktok videos without watermark](https://dev.to/martin_88d911ba8/php-code-for-downloading-douyintiktok-videos-without-watermark-23ba)
+- [Introduction to Generative Artificial Intelligence - Storyteller](https://dev.to/diosamuel/introduction-to-generative-artificial-intelligence-storyteller-1p36)
+- [I couldn’t come up with a title](https://dev.to/fredrick_oladipupo/i-couldnt-come-up-with-a-title-1887)
+- [Save time and focus on the right part with this hack](https://dev.to/sroy8091/save-time-and-focus-on-the-right-part-with-this-hack-5735)
+- [Gemini Live API: Cycle Tour 🚴🏽](https://dev.to/googleworkspace/gemini-live-api-cycle-tour-1kf2)
+- [How AI Technology is Impacting the Sales Process](https://dev.to/joywinter90/how-ai-technology-is-impacting-the-sales-process-62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
