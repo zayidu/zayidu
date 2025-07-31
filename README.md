@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #212](https://dev.to/aws/aws-open-source-newsletter-212-1l55)
-- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
-- [Choosing a UK Application Development Company in 2025](https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p)
-- [What is Schedule Variance in Project Management?](https://dev.to/oodlesplatform/what-is-schedule-variance-in-project-management-2oi8)
-- [The 2025 Developer&#39;s AI Stack: 15 Tools That Actually Save Time &lpar;With Real ROI Data&rpar;](https://dev.to/teamcamp/the-2025-developers-ai-stack-15-tools-that-actually-save-time-with-real-roi-data-598p)
+- [I Built an App That Helped My Mom Sell Her Products Online And Here&#39;s What I Learned](https://dev.to/dhis_is_jj/i-built-an-app-that-helped-my-mom-sell-her-products-online-and-heres-what-i-learned-cn7)
+- [How to Prepare Your Data and Goals Before Building Anything with ML](https://dev.to/arbisoftcompany/how-to-prepare-your-data-and-goals-before-building-anything-with-ml-1dm7)
+- [Como Usar o GitHub Copilot pra Responder RFPs e Ganhar Mais Projetos](https://dev.to/angelo_matias/como-usar-o-github-copilot-pra-responder-rfps-e-ganhar-mais-projetos-1iio)
+- [Transforming Systems Operations Teams into a Unified Platform Team: The Cultural Change](https://dev.to/alvarolorentedev/transforming-systems-operations-teams-into-a-unified-platform-team-the-cultural-change-3p7g)
+- [The Role of Transparency in Leadership: How You can Build Trust and Healthy Chains of Command](https://dev.to/alvarolorentedev/the-role-of-transparency-in-leadership-how-you-can-build-trust-and-healthy-chains-of-command-14ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
