@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL - My First Dive into Ruby!](https://dev.to/arsalanbardsiri/til-my-first-dive-into-ruby-d28)
-- [Pick Up The Power Of Array Method &lpar;Part 1&rpar;](https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do)
-- [S3 vs EBS vs EFS – AWS Storage Simplified with Real-Life Use Cases 📦](https://dev.to/yash_sonawane25/s3-vs-ebs-vs-efs-aws-storage-simplified-with-real-life-use-cases-2o09)
-- [Untitled](https://dev.to/ms_kennedy_576288bcc6de88/untitled-415e)
-- [Boosting EF Core Performance with EF.CompileQuery](https://dev.to/morteza-jangjoo/boosting-ef-core-performance-with-efcompilequery-2532)
+- [RFID &amp; NFC with ESP8266](https://dev.to/admantium/rfid-nfc-with-esp8266-29e9)
+- [“Why Learn C” Book Announcement](https://dev.to/pauljlucas/why-learn-c-book-announcement-4a01)
+- [IGN: Mario Kart World - Does Version 1.2.0 Fix Online Play? Patch Breakdown](https://dev.to/gg_news/ign-mario-kart-world-does-version-120-fix-online-play-patch-breakdown-4oaj)
+- [How My Procurement Experience Shaped My AI Career Path](https://dev.to/accioprocurement/how-my-procurement-experience-shaped-my-ai-career-path-3lep)
+- [Untitled](https://dev.to/ahmed_designer_7fe37cc882/untitled-5bo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
