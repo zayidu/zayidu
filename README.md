@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RFID &amp; NFC with ESP8266](https://dev.to/admantium/rfid-nfc-with-esp8266-29e9)
-- [“Why Learn C” Book Announcement](https://dev.to/pauljlucas/why-learn-c-book-announcement-4a01)
-- [IGN: Mario Kart World - Does Version 1.2.0 Fix Online Play? Patch Breakdown](https://dev.to/gg_news/ign-mario-kart-world-does-version-120-fix-online-play-patch-breakdown-4oaj)
-- [How My Procurement Experience Shaped My AI Career Path](https://dev.to/accioprocurement/how-my-procurement-experience-shaped-my-ai-career-path-3lep)
-- [Untitled](https://dev.to/ahmed_designer_7fe37cc882/untitled-5bo3)
+- [Stack Overflow: Vision, Features &amp; Developer Insights](https://dev.to/miccy/stack-overflow-vision-features-developer-insights-4ob0)
+- [AI&#39;s Architecture: Infrastructure Realities Behind the Hype | Electricity or Bubble?](https://dev.to/achal_tiwari/ais-architecture-infrastructure-realities-behind-the-hype-electricity-or-bubble-9h7)
+- [How to Create a TermBase File in Excel in 2025](https://dev.to/jennamitchell/how-to-create-a-termbase-file-in-excel-in-2025-5f3b)
+- [Difference Between Machine Maintenance Software and ITAM Software](https://dev.to/teresa_tran/difference-between-machine-maintenance-software-and-itam-software-182k)
+- [🔧 How to Debug containerd Like a Pro](https://dev.to/hexshift/how-to-debug-containerd-like-a-pro-254o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
