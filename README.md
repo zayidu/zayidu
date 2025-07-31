@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Context engineering for production-grade web agents](https://dev.to/skarpoor12/context-engineering-for-production-grade-web-agents-150a)
-- [🧠 My Personal Bash Scripts Repository on GitHub](https://dev.to/seifeldienahmad/-my-personal-bash-scripts-repository-on-github-101o)
-- [🎬 CineFlow: A Self-Hosted Workflow to Automate Jellyfin + Jackett + Transmission](https://dev.to/sandor_szilagyi/cineflow-a-self-hosted-workflow-to-automate-jellyfin-jackett-transmission-2pmi)
-- [Common Challenges in Migration Projects and How to Overcome Them](https://dev.to/fred_rodrigues_996451110b/common-challenges-in-migration-projects-and-how-to-overcome-them-4k1n)
-- [Nostalgic web windows 95 portfolio](https://dev.to/yuteoctober/nostalgic-web-windows-95-portfolio-1b41)
+- [I knew RSC was a rake but I stepped on it anyway](https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9)
+- [Title: XRP Price Analysis: Technical Surge and Short-Term Consolidation Risk](https://dev.to/yagyaraj_sharma_6cd410179/title-xrp-price-analysis-technical-surge-and-short-term-consolidation-risk-1hhp)
+- [Title: Goldman Sachs and BNY Mellon Partner to Launch Tokenized Money Market Funds](https://dev.to/yagyaraj_sharma_6cd410179/title-goldman-sachs-and-bny-mellon-partner-to-launch-tokenized-money-market-funds-10ig)
+- [What is Layout, Paint, Composite? and How Do They Affect Web Performance?](https://dev.to/timjat/what-is-layout-paint-composite-and-how-do-they-affect-web-performance-48ml)
+- [CodeBoarding: Interactive Diagrams for Codebases](https://dev.to/brovatten/codeboarding-interactive-diagrams-for-codebases-14fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
