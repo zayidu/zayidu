@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/gamespot-thq-nordic-digital-showcase-2025-2la0)
-- [IGN: The Fantastic Four: First Steps - Official &#39;Hold On&#39; Trailer &lpar;2025&rpar; Pedro Pascal, Vanessa Kirby](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-hold-on-trailer-2025-pedro-pascal-vanessa-kirby-56fe)
-- [IGN: No, Hideo Kojima Won&#39;t Be Playing Metal Gear Solid Delta Snake Eater - IGN Daily Fix](https://dev.to/gg_news/ign-no-hideo-kojima-wont-be-playing-metal-gear-solid-delta-snake-eater-ign-daily-fix-41mk)
-- [IGN: Donkey Kong Bananza - Every Forest Layer Fossil Location | Rare and Legendary](https://dev.to/gg_news/ign-donkey-kong-bananza-every-forest-layer-fossil-location-rare-and-legendary-4ghi)
-- [IGN: Nicktoons &amp; The Dice of Destiny - Official Extended Gameplay Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-extended-gameplay-reveal-trailer-2alc)
+- [Navigating the Identity Management Ecosystem: A Developer’s Deep Dive](https://dev.to/deepakgupta/navigating-the-identity-management-ecosystem-a-developers-deep-dive-460i)
+- [Laravel Scheduler Beyond Basics: Complex Patterns 2025](https://dev.to/arasosman/laravel-scheduler-beyond-basics-complex-patterns-2025-4dh4)
+- [Laravel Health Checks: Monitor App State in 2025](https://dev.to/arasosman/laravel-health-checks-monitor-app-state-in-2025-heb)
+- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
+- [3D Cosine Relationship Graph](https://dev.to/dan52242644dan/3d-cosine-relationship-graph-4l9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
