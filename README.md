@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Overflow: Vision, Features &amp; Developer Insights](https://dev.to/miccy/stack-overflow-vision-features-developer-insights-4ob0)
-- [AI&#39;s Architecture: Infrastructure Realities Behind the Hype | Electricity or Bubble?](https://dev.to/achal_tiwari/ais-architecture-infrastructure-realities-behind-the-hype-electricity-or-bubble-9h7)
-- [How to Create a TermBase File in Excel in 2025](https://dev.to/jennamitchell/how-to-create-a-termbase-file-in-excel-in-2025-5f3b)
-- [Difference Between Machine Maintenance Software and ITAM Software](https://dev.to/teresa_tran/difference-between-machine-maintenance-software-and-itam-software-182k)
-- [🔧 How to Debug containerd Like a Pro](https://dev.to/hexshift/how-to-debug-containerd-like-a-pro-254o)
+- [Tracking, Security, and Control: What the Referer Header Tells You](https://dev.to/ellapark/tracking-security-and-control-what-the-referer-header-tells-you-3ghj)
+- [The Evolution of React Exposure Tracking Components: A Frontend Engineer&#39;s Journey from Chaos to Elegance](https://dev.to/childrentime/the-evolution-of-react-exposure-tracking-components-a-frontend-engineers-journey-from-chaos-to-24b)
+- [. isn&#39;t needed at the end of ALT attributes](https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf)
+- [Charlex WebOS](https://dev.to/pyshwaa/charlex-webos-13hd)
+- [Regular Expressions &lpar;REGEX&rpar;: A Quick Refresher](https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
