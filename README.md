@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AWS Networking: My Journey Begins!](https://dev.to/_eve_/mastering-aws-networking-my-journey-begins-1l3j)
-- [Ekubo: A Simple Guide to Decentralized Liquidity on Starknet](https://dev.to/cherri_underwood_90a69668/ekubo-a-simple-guide-to-decentralized-liquidity-on-starknet-3fmk)
-- [i want create a small website using html and css](https://dev.to/saloni_yangundi_d8fb1e759/i-want-create-a-small-website-using-html-and-css-1041)
-- [Embracing the Chaos of a Multi-Passionate Career](https://dev.to/lois_codes_diary/embracing-the-chaos-of-a-multi-passionate-career-42n0)
-- [From Zero to Telegram AI Bot: My Experience Building with Bolt and Gemini](https://dev.to/oleg_pydev/from-zero-to-telegram-ai-bot-my-experience-building-with-bolt-and-gemini-1kbi)
+- [Gareth David Studio: The BEST Way to Organise Your Fonts! - Featuring FontBase](https://dev.to/design_youtube/gareth-david-studio-the-best-way-to-organise-your-fonts-featuring-fontbase-2df)
+- [No Laying Up Podcast: 3M, Lottie Woad, Happy Gilmore 2 Review | NLU Pod, Ep 1047](https://dev.to/youtube_golf/no-laying-up-podcast-3m-lottie-woad-happy-gilmore-2-review-nlu-pod-ep-1047-38c6)
+- [IGN: Gold Gold Adventure Gold - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-gold-gold-adventure-gold-official-early-access-launch-trailer-2o9d)
+- [IGN: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Review](https://dev.to/gg_news/ign-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-review-4mon)
+- [IGN: Monster Hunter Stories 3: Twisted Reflection - Official Announce Trailer | Nintendo Direct 2025](https://dev.to/gg_news/ign-monster-hunter-stories-3-twisted-reflection-official-announce-trailer-nintendo-direct-2025-hcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
