@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Secrets to Production-Ready LLM Architectures: Overcoming Key Challenges](https://dev.to/jay_all_day/unlocking-the-secrets-to-production-ready-llm-architectures-overcoming-key-challenges-g2a)
-- [Valtio: The Proxy-Based State That Makes React State Management Feel Like Magic](https://dev.to/genildocs/valtio-the-proxy-based-state-that-makes-react-state-management-feel-like-magic-5c0l)
-- [Unbelievable: China Dominates Top 10 Open-Source Models on HuggingFace](https://dev.to/ndmckay/unbelievable-china-dominates-top-10-open-source-models-on-huggingface-4774)
-- [Predicting win probabilities of premier league teams based on last seasons performance using Python](https://dev.to/cherotich/predicting-win-probabilities-of-premier-league-teams-based-on-last-seasons-performance-using-python-73c)
-- [Chinese models pulling away](https://dev.to/ndmckay/chinese-models-pulling-away-1o8d)
+- [GameSpot: THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/gamespot-thq-nordic-digital-showcase-2025-2la0)
+- [IGN: The Fantastic Four: First Steps - Official &#39;Hold On&#39; Trailer &lpar;2025&rpar; Pedro Pascal, Vanessa Kirby](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-hold-on-trailer-2025-pedro-pascal-vanessa-kirby-56fe)
+- [IGN: No, Hideo Kojima Won&#39;t Be Playing Metal Gear Solid Delta Snake Eater - IGN Daily Fix](https://dev.to/gg_news/ign-no-hideo-kojima-wont-be-playing-metal-gear-solid-delta-snake-eater-ign-daily-fix-41mk)
+- [IGN: Donkey Kong Bananza - Every Forest Layer Fossil Location | Rare and Legendary](https://dev.to/gg_news/ign-donkey-kong-bananza-every-forest-layer-fossil-location-rare-and-legendary-4ghi)
+- [IGN: Nicktoons &amp; The Dice of Destiny - Official Extended Gameplay Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-extended-gameplay-reveal-trailer-2alc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
