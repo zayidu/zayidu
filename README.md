@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Kinda Cleaning Services Can You Offer Using IoT Sensors?](https://dev.to/sofia_young_554e1e51fd6d0/what-kinda-cleaning-services-can-you-offer-using-iot-sensors-52nj)
-- [🔐 Understanding JWT &lpar;JSON Web Tokens&rpar;](https://dev.to/ankitchaurasiya84/understanding-jwt-json-web-tokens-33b2)
-- [My 6 month Amazon SDE internship interview experience!](https://dev.to/mehvish_fatima_7116146055/my-6-month-amazon-sde-internship-interview-experience-1ik3)
-- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
-- [☁️AWS Recap - July 2025: AI Agent, Global Cloud Expansion and Security Advancements](https://dev.to/nishath_jp/aws-recap-july-2025-ai-agent-global-cloud-expansion-and-security-advancements-1gik)
+- [Building Strands Agents with a few lines of code: Custom Tools and MCP Integration](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-custom-tools-and-mcp-integration-3c1c)
+- [QA Spotlight: Anastasia Engelhardt on How Photography Helped Her Become a Better QA](https://dev.to/qalogy/qa-spotlight-anastasia-engelhardt-on-how-photography-helped-her-become-a-better-qa-1j5l)
+- [3D Printing Nerd: 3D Printing FAST for Open Sauce!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-fast-for-open-sauce-4gl0)
+- [Tap Into Live Data with This Simple API Example &lpar;No Backend Required!&rpar;](https://dev.to/tamyrah/tap-into-live-data-with-this-simple-api-example-no-backend-required-3562)
+- [Golf.com: Punta Mita Golf Adventure: Tiger Tales, a Bucket List Par 3 &amp; Ryder Cup Stories](https://dev.to/youtube_golf/golfcom-punta-mita-golf-adventure-tiger-tales-a-bucket-list-par-3-ryder-cup-stories-4p81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
