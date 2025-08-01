@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI Reigns? GPT‑4, Claude, LLaMA, Perplexity &amp; AI Studio](https://dev.to/jenny_miller_c752792bfea9/which-ai-reigns-gpt-4-claude-llama-perplexity-ai-studio-1m9p)
-- [What Is a Foreign Key Constraint in SQL?](https://dev.to/roxana_haidiner/what-is-a-foreign-key-constraint-in-sql-2mj7)
-- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 3: Sonarqube](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-3-sonarqube-b7a)
-- [Building a React Todo App: Complete AbcD Guide..!](https://dev.to/nevil_bhayani_40d9b65421d/building-a-react-todo-app-complete-abcd-guide-1pid)
-- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 3&rpar; - Laying the Foundation with Packages](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-3-laying-the-foundation-nc6)
+- [5 Killer FREE Markdown Editors You Need in 2025](https://dev.to/markallen_123/5-killer-free-markdown-editors-you-need-in-2025-1k8a)
+- [JavaScript Weekly #25 – What Devs Loved This Week &lpar;Aug 01, 2025&rpar;](https://dev.to/jsdevspace/javascript-weekly-25-what-devs-loved-this-week-aug-01-2025-1i9b)
+- [Stop Overengineering. Start Shipping Faster.](https://dev.to/abubakersiddique771/stop-overengineering-start-shipping-faster-467f)
+- [I Quit Tutorials. Built a Startup Instead.](https://dev.to/abubakersiddique771/i-quit-tutorials-built-a-startup-instead-5bl6)
+- [🔥 The 2026 Developer’s Shortcut: Build Tools, Not Resume Lines](https://dev.to/resource_bunk_1077cab07da/the-2026-developers-shortcut-build-tools-not-resume-lines-3pbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
