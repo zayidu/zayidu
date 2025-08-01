@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Killer FREE Markdown Editors You Need in 2025](https://dev.to/markallen_123/5-killer-free-markdown-editors-you-need-in-2025-1k8a)
-- [JavaScript Weekly #25 – What Devs Loved This Week &lpar;Aug 01, 2025&rpar;](https://dev.to/jsdevspace/javascript-weekly-25-what-devs-loved-this-week-aug-01-2025-1i9b)
-- [Stop Overengineering. Start Shipping Faster.](https://dev.to/abubakersiddique771/stop-overengineering-start-shipping-faster-467f)
-- [I Quit Tutorials. Built a Startup Instead.](https://dev.to/abubakersiddique771/i-quit-tutorials-built-a-startup-instead-5bl6)
-- [🔥 The 2026 Developer’s Shortcut: Build Tools, Not Resume Lines](https://dev.to/resource_bunk_1077cab07da/the-2026-developers-shortcut-build-tools-not-resume-lines-3pbf)
+- [Masa Depan Manusia &amp; AI: Bukan Sci-Fi, tapi Realita Keren! ✨](https://dev.to/grayscale636/masa-depan-manusia-ai-bukan-sci-fi-tapi-realita-keren-3ga8)
+- [What I learned from the AI Showdown❤️](https://dev.to/nadinev/what-i-learned-from-the-ai-showdown-5963)
+- [Building a Poetry App with Google AI Studio: The Making of VerseForge](https://dev.to/lakshyaelite/building-a-poetry-app-with-google-ai-studio-the-making-of-verseforge-1a95)
+- [🤯 Komputer Kuantum: Masa Depan Komputasi Udah Dekat! 🚀](https://dev.to/grayscale636/komputer-kuantum-masa-depan-komputasi-udah-dekat-2ipd)
+- [Unit Testing in Zephyr RTOS Projects with Ceedling: A Developer’s Guide](https://dev.to/einfochips/unit-testing-in-zephyr-rtos-projects-with-ceedling-a-developers-guide-1o6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
