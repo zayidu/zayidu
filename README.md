@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Masa Depan Manusia &amp; AI: Bukan Sci-Fi, tapi Realita Keren! ✨](https://dev.to/grayscale636/masa-depan-manusia-ai-bukan-sci-fi-tapi-realita-keren-3ga8)
-- [What I learned from the AI Showdown❤️](https://dev.to/nadinev/what-i-learned-from-the-ai-showdown-5963)
-- [Building a Poetry App with Google AI Studio: The Making of VerseForge](https://dev.to/lakshyaelite/building-a-poetry-app-with-google-ai-studio-the-making-of-verseforge-1a95)
-- [🤯 Komputer Kuantum: Masa Depan Komputasi Udah Dekat! 🚀](https://dev.to/grayscale636/komputer-kuantum-masa-depan-komputasi-udah-dekat-2ipd)
-- [Unit Testing in Zephyr RTOS Projects with Ceedling: A Developer’s Guide](https://dev.to/einfochips/unit-testing-in-zephyr-rtos-projects-with-ceedling-a-developers-guide-1o6f)
+- [The Compliance Crisis: Why Your Enterprise Meeting Data is a Ticking Time Bomb](https://dev.to/zackriya/the-compliance-crisis-why-your-enterprise-meeting-data-is-a-ticking-time-bomb-5nl)
+- [Gemini Deep Think: The Future of AI Reasoning Systems](https://dev.to/jay_all_day/gemini-deep-think-the-future-of-ai-reasoning-systems-1abe)
+- [Day 40/100: Python math, random, and statistics Modules](https://dev.to/therahul_gupta/day-40100-python-math-random-and-statistics-modules-13jl)
+- [Pied Piper a AI Dorker v3.0 - Advanced OSINT Tool for AI Service Security Research](https://dev.to/toxy4ny/pied-piper-a-ai-dorker-v30-advanced-osint-tool-for-ai-service-security-research-mj7)
+- [Building Your First Ruby on Rails App: The Beginner’s Blueprint](https://dev.to/railsfactory_sedin/building-your-first-ruby-on-rails-app-the-beginners-blueprint-5aig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
