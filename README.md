@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom React Hooks for API Calls + Lazy Loading View-Based Data](https://dev.to/maurya-sachin/custom-react-hooks-for-api-calls-lazy-loading-view-based-data-33o1)
-- [Markdown Learning](https://dev.to/namikazemar/markdown-learning-h61)
-- [Unlocking Enterprise Efficiency: A Deep Dive into Windows 10/11 Enterprise E3](https://dev.to/asim_baral_30dc94383b418b/unlocking-enterprise-efficiency-a-deep-dive-into-windows-1011-enterprise-e3-3c4j)
-- [WTF is Supabase?](https://dev.to/dailybugle33/wtf-is-supabase-1o28)
-- [How I Deal With Burnout Before It Starts](https://dev.to/vadym_info_polus/how-i-deal-with-burnout-before-it-starts-40f1)
+- [Your Friday Retro Just Got a GIF Upgrade 🚀](https://dev.to/mattlewandowski93/your-friday-retro-just-got-a-gif-upgrade-4o6e)
+- [🩸Exposed: Google Is Indexing Private AI Conversations Here’s What You Should Know](https://dev.to/alifar/exposed-google-is-indexing-private-ai-conversations-heres-what-you-should-know-37m5)
+- [How to Evaluate Voice Agents: Frameworks, Metrics, and Modern Tools](https://dev.to/kuldeep_paul/how-to-evaluate-voice-agents-frameworks-metrics-and-modern-tools-51n0)
+- [A console that burns tokens ❄️](https://dev.to/martin_call/a-console-that-burns-tokens-2n0k)
+- [NPR Music: Sierra Hull: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-sierra-hull-tiny-desk-concert-1h5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
