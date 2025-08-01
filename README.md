@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Friday Retro Just Got a GIF Upgrade 🚀](https://dev.to/mattlewandowski93/your-friday-retro-just-got-a-gif-upgrade-4o6e)
-- [🩸Exposed: Google Is Indexing Private AI Conversations Here’s What You Should Know](https://dev.to/alifar/exposed-google-is-indexing-private-ai-conversations-heres-what-you-should-know-37m5)
-- [How to Evaluate Voice Agents: Frameworks, Metrics, and Modern Tools](https://dev.to/kuldeep_paul/how-to-evaluate-voice-agents-frameworks-metrics-and-modern-tools-51n0)
-- [A console that burns tokens ❄️](https://dev.to/martin_call/a-console-that-burns-tokens-2n0k)
-- [NPR Music: Sierra Hull: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-sierra-hull-tiny-desk-concert-1h5o)
+- [Which AI Reigns? GPT‑4, Claude, LLaMA, Perplexity &amp; AI Studio](https://dev.to/jenny_miller_c752792bfea9/which-ai-reigns-gpt-4-claude-llama-perplexity-ai-studio-1m9p)
+- [What Is a Foreign Key Constraint in SQL?](https://dev.to/roxana_haidiner/what-is-a-foreign-key-constraint-in-sql-2mj7)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 3: Sonarqube](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-3-sonarqube-b7a)
+- [Building a React Todo App: Complete AbcD Guide..!](https://dev.to/nevil_bhayani_40d9b65421d/building-a-react-todo-app-complete-abcd-guide-1pid)
+- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 3&rpar; - Laying the Foundation with Packages](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-3-laying-the-foundation-nc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
