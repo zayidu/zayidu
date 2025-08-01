@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Magic: Logistic Regression, Cross-Entropy, and Optimization](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-magic-logistic-regression-cross-entropy-and-optimization-3bkk)
-- [From Zero to Redis Hero: Your First Redis Container with Docker](https://dev.to/moni121189/from-zero-to-redis-hero-your-first-redis-container-with-docker-602)
-- [[Boost]](https://dev.to/yuvaraj_e761e05ea460fa203/-32d2)
-- [Are prompts dead? I think in the short term we still need professional prompts to achieve accurate vibes!](https://dev.to/mkstudio/are-prompts-dead-i-think-in-the-short-term-we-still-need-professional-prompts-to-achieve-accurate-3dce)
-- [DAY 03 - Few Days into My SDK in C++… and I&#39;m Already Switching to C](https://dev.to/estrolabz/day-03-few-days-into-my-sdk-in-c-and-im-already-switching-to-c-2p0c)
+- [Responsive and sustainable images in markdown &lpar;commonmark&rpar; using haskell MMark](https://dev.to/injeniero/responsive-and-sustainable-images-in-markdown-commonmark-using-haskell-mmark-1gjm)
+- [Creating a Docker Image from a Running Container](https://dev.to/kevin_suchetan_6f9d783b4f/creating-a-docker-image-from-a-running-container-4g13)
+- [Best Alternatives to RapidAPI](https://dev.to/leowood/best-alternatives-to-rapidapi-n7l)
+- [Build React Components with Conversational AI](https://dev.to/atforeveryoung/build-react-components-with-conversational-ai-1mgm)
+- [Bolt TechInnovators-Intranet](https://dev.to/ignaciah/bolt-techinnovators-intranet-92n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
