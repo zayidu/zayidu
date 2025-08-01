@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Naming Conventions in React: camelCase or snake_case?](https://dev.to/westernal/naming-conventions-in-react-camelcase-vs-snakecase-g5c)
-- [Roadmap for Bio AI Software Engineer role](https://dev.to/devonremote/roadmap-for-bio-ai-software-engineer-role-226a)
-- [10 Agentic AI Hidden Benefits No One Tells You](https://dev.to/dhruvjoshi9/10-agentic-ai-hidden-benefits-no-one-tells-you-400g)
-- [IGN: Donkey Kong Bananza: All Radiance Layer Challenge Rooms | Locations and Solutions](https://dev.to/gg_news/ign-donkey-kong-bananza-all-radiance-layer-challenge-rooms-locations-and-solutions-8ed)
-- [Plan of Action: MongoDB 8.0 - 3 Node Replica Set on Air-Gapped RHEL 8.9](https://dev.to/kaustubhyerkade/plan-of-action-mongodb-80-3-node-replica-set-on-air-gapped-rhel-89-17kc)
+- [Introducing hyperwiz: The Next-Generation TypeScript HTTP Client](https://dev.to/parth_tyagi_23a56c937be3c/introducing-hyperwiz-the-next-generation-typescript-http-client-28m2)
+- [How Bio AI Software Engineers Fit into Biotech Software Engineering](https://dev.to/devonremote/how-bio-ai-software-engineers-fit-into-biotech-software-engineering-1cb6)
+- [Non Disclosure Agreement vs Contract: Understanding the Legal Basics](https://dev.to/oodles-platform/non-disclosure-agreement-vs-contract-understanding-the-legal-basics-44d6)
+- [Wazuh 4.12 Telegram Alert Integration &lpar;with SSH Login Alerts&rpar;](https://dev.to/0xdolan/wazuh-412-telegram-alert-integration-with-ssh-login-alerts-4mbd)
+- [How I Built a Complete Invoice Management API with Spring Boot](https://dev.to/5026_mypatideepthi_9b6e44/how-i-built-a-complete-invoice-management-api-with-spring-boot-4e29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
