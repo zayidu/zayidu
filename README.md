@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Identity Management Ecosystem: A Developer’s Deep Dive](https://dev.to/deepakgupta/navigating-the-identity-management-ecosystem-a-developers-deep-dive-460i)
-- [Laravel Scheduler Beyond Basics: Complex Patterns 2025](https://dev.to/arasosman/laravel-scheduler-beyond-basics-complex-patterns-2025-4dh4)
-- [Laravel Health Checks: Monitor App State in 2025](https://dev.to/arasosman/laravel-health-checks-monitor-app-state-in-2025-heb)
-- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
-- [3D Cosine Relationship Graph](https://dev.to/dan52242644dan/3d-cosine-relationship-graph-4l9h)
+- [Decoding the Magic: Logistic Regression, Cross-Entropy, and Optimization](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-magic-logistic-regression-cross-entropy-and-optimization-3bkk)
+- [From Zero to Redis Hero: Your First Redis Container with Docker](https://dev.to/moni121189/from-zero-to-redis-hero-your-first-redis-container-with-docker-602)
+- [[Boost]](https://dev.to/yuvaraj_e761e05ea460fa203/-32d2)
+- [Are prompts dead? I think in the short term we still need professional prompts to achieve accurate vibes!](https://dev.to/mkstudio/are-prompts-dead-i-think-in-the-short-term-we-still-need-professional-prompts-to-achieve-accurate-3dce)
+- [DAY 03 - Few Days into My SDK in C++… and I&#39;m Already Switching to C](https://dev.to/estrolabz/day-03-few-days-into-my-sdk-in-c-and-im-already-switching-to-c-2p0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
