@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Compliance Crisis: Why Your Enterprise Meeting Data is a Ticking Time Bomb](https://dev.to/zackriya/the-compliance-crisis-why-your-enterprise-meeting-data-is-a-ticking-time-bomb-5nl)
-- [Gemini Deep Think: The Future of AI Reasoning Systems](https://dev.to/jay_all_day/gemini-deep-think-the-future-of-ai-reasoning-systems-1abe)
-- [Day 40/100: Python math, random, and statistics Modules](https://dev.to/therahul_gupta/day-40100-python-math-random-and-statistics-modules-13jl)
-- [Pied Piper a AI Dorker v3.0 - Advanced OSINT Tool for AI Service Security Research](https://dev.to/toxy4ny/pied-piper-a-ai-dorker-v30-advanced-osint-tool-for-ai-service-security-research-mj7)
-- [Building Your First Ruby on Rails App: The Beginner’s Blueprint](https://dev.to/railsfactory_sedin/building-your-first-ruby-on-rails-app-the-beginners-blueprint-5aig)
+- [INSTALLATION OF POSTGRESQL AND INTIAL SET UP ON A LINUX SERVER.](https://dev.to/shinyanzwa_5fb2a5691434db/installation-of-postgresql-and-intial-set-up-on-a-linux-server-14k9)
+- [Day 1 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-1-learning-devops-in-public-4dfg)
+- [The Midnight Community Board: Building *With* the Community, Not Just For It](https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo)
+- [How I Built an AI Agent That Turns Daily AI News Into a Commute-Sized Podcast](https://dev.to/portia-ai/how-i-built-an-ai-agent-that-turns-daily-ai-news-into-a-commute-sized-podcast-44pg)
+- [🍃 MongoDB in 2025: Beyond the NoSQL Hype](https://dev.to/hamidrazadev/mongodb-in-2025-beyond-the-nosql-hype-mn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
