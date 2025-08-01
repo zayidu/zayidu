@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsive and sustainable images in markdown &lpar;commonmark&rpar; using haskell MMark](https://dev.to/injeniero/responsive-and-sustainable-images-in-markdown-commonmark-using-haskell-mmark-1gjm)
-- [Creating a Docker Image from a Running Container](https://dev.to/kevin_suchetan_6f9d783b4f/creating-a-docker-image-from-a-running-container-4g13)
-- [Best Alternatives to RapidAPI](https://dev.to/leowood/best-alternatives-to-rapidapi-n7l)
-- [Build React Components with Conversational AI](https://dev.to/atforeveryoung/build-react-components-with-conversational-ai-1mgm)
-- [Bolt TechInnovators-Intranet](https://dev.to/ignaciah/bolt-techinnovators-intranet-92n)
+- [How Docker MCP helps discover containerized MCP serviers](https://dev.to/sirivarma/how-docker-mcp-helps-discover-containerized-mcp-serviers-394e)
+- [🚀 I’m Launching My First Startup — Biz Tracker &lpar;at 16!&rpar;](https://dev.to/pjdeveloper896/im-launching-my-first-startup-biz-tracker-at-16-3bl5)
+- [Could Qwen Be the Best Alternative to Claude Code for Developers?](https://dev.to/luc_36689a31b94d68d29f9e9/could-qwen-be-the-best-alternative-to-claude-code-for-developers-3024)
+- [SVGs rock!](https://dev.to/urbanisierung/svgs-rock-e5l)
+- [My Journey Building the Smart HVAC Optimizer for Data Centers in Kenya](https://dev.to/maina_murage/my-journey-building-the-smart-hvac-optimizer-for-data-centers-in-kenya-24jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
