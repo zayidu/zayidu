@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing hyperwiz: The Next-Generation TypeScript HTTP Client](https://dev.to/parth_tyagi_23a56c937be3c/introducing-hyperwiz-the-next-generation-typescript-http-client-28m2)
-- [How Bio AI Software Engineers Fit into Biotech Software Engineering](https://dev.to/devonremote/how-bio-ai-software-engineers-fit-into-biotech-software-engineering-1cb6)
-- [Non Disclosure Agreement vs Contract: Understanding the Legal Basics](https://dev.to/oodles-platform/non-disclosure-agreement-vs-contract-understanding-the-legal-basics-44d6)
-- [Wazuh 4.12 Telegram Alert Integration &lpar;with SSH Login Alerts&rpar;](https://dev.to/0xdolan/wazuh-412-telegram-alert-integration-with-ssh-login-alerts-4mbd)
-- [How I Built a Complete Invoice Management API with Spring Boot](https://dev.to/5026_mypatideepthi_9b6e44/how-i-built-a-complete-invoice-management-api-with-spring-boot-4e29)
+- [🧬 Generate Dart Models from JSON — Meet json_model_gen](https://dev.to/raagull100/generate-dart-models-from-json-meet-jsonmodelgen-21ko)
+- [IGN: Silent Hill f: What We Think After Playing 5 Hours](https://dev.to/gg_news/ign-silent-hill-f-what-we-think-after-playing-5-hours-1n96)
+- [Test creation methods on steroids with named parameters](https://dev.to/danrot90/test-creation-methods-on-steroids-with-named-parameters-5gn6)
+- [Lightweight Flutter Development Environment Setup for Beginners](https://dev.to/mr_nova/lightweight-flutter-development-environment-setup-for-beginners-411b)
+- [How can Developers 💪help💪 or 💥hurt💥 Sprint Planning?](https://dev.to/starkmapper/how-can-developers-help-or-hurt-sprint-planning-1m15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
