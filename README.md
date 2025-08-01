@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Strands Agents with a few lines of code: Custom Tools and MCP Integration](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-custom-tools-and-mcp-integration-3c1c)
-- [QA Spotlight: Anastasia Engelhardt on How Photography Helped Her Become a Better QA](https://dev.to/qalogy/qa-spotlight-anastasia-engelhardt-on-how-photography-helped-her-become-a-better-qa-1j5l)
-- [3D Printing Nerd: 3D Printing FAST for Open Sauce!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-fast-for-open-sauce-4gl0)
-- [Tap Into Live Data with This Simple API Example &lpar;No Backend Required!&rpar;](https://dev.to/tamyrah/tap-into-live-data-with-this-simple-api-example-no-backend-required-3562)
-- [Golf.com: Punta Mita Golf Adventure: Tiger Tales, a Bucket List Par 3 &amp; Ryder Cup Stories](https://dev.to/youtube_golf/golfcom-punta-mita-golf-adventure-tiger-tales-a-bucket-list-par-3-ryder-cup-stories-4p81)
+- [Detailed Explanation of Hashing](https://dev.to/dmitrevnik/detailed-explanation-of-hashing-310d)
+- [Need help with Carousel](https://dev.to/rafay_asif_b1a499b88403b5/need-help-with-carousel-1mle)
+- [How Do You Structure Complex Queries Using Laravel’s Query Builder?](https://dev.to/thecodeliner/how-do-you-structure-complex-queries-using-laravels-query-builder-ni2)
+- [Life’s Answers Are Only Visible in Hindsight &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/lifes-answers-are-only-visible-in-hindsight-bite-size-article-1po2)
+- [Implementation Guide for TEI XML Schema Combining RELAX NG and Schematron](https://dev.to/_1cdfa8d07c5ded0d81c41/implementation-guide-for-tei-xml-schema-combining-relax-ng-and-schematron-4gfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
