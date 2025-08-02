@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers Life](https://dev.to/techboss/developers-life-26ph)
-- [The Truth About Pointers and Arrays in C++ That No One Told Me](https://dev.to/shreedh/the-truth-about-pointers-and-arrays-in-c-that-no-one-told-me-3e4k)
-- [How to Build a Portfolio in 5 minutes](https://dev.to/gustav_albrektson/how-to-build-a-portfolio-in-5-minutes-3fki)
-- [Mastering React&#39;s useCallback Hook for Optimal Performance](https://dev.to/vjnvisakh/mastering-reacts-usecallback-hook-for-optimal-performance-20bb)
-- [Week 7: Docker Containerization Mastery - A DevOps Learning Journey 🐳](https://dev.to/dev_dave_26/week-7-docker-containerization-mastery-a-devops-learning-journey-2ca3)
+- [Day 53: React, Umbrellas, and Digital Nostalgia](https://dev.to/casperday11/day-53-react-umbrellas-and-digital-nostalgia-1kd7)
+- [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
+- [Expedition of Async Programming in JavaScript](https://dev.to/zhravan/expedition-of-async-programming-in-javascript-136a)
+- [Top 10 Python Libraries Every DevOps Engineer Should Master &lpar;With Use Cases &amp; Code&rpar;](https://dev.to/prodevopsguytech/top-10-python-libraries-every-devops-engineer-should-master-with-use-cases-code-kag)
+- [🦙 Introducing PyllamaUI – Python + Ollama + User Interface](https://dev.to/bhuvaneshm_dev/introducing-pyllamaui-python-ollama-user-interface-1p1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
