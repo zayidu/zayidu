@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What tech stacks do you guys use ?](https://dev.to/dumboprogrammer/what-tech-stacks-do-you-guys-use--5g85)
-- [InvoiceMint — A Blockchain-Backed Invoicing App Built with Python and Bulma](https://dev.to/pjdeveloper896/introducing-invoicemint-a-simple-powerful-invoicing-tool-for-solo-founders-84b)
-- [Kai&#39;on prime](https://dev.to/gee_stilo_03a5e2aeebb2636/untitled-29hd)
-- [What Is an ARM SBC and Why Is It Ideal for Embedded Design?](https://dev.to/tonyhe8688/what-is-an-arm-sbc-and-why-is-it-ideal-for-embedded-design-2me3)
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-3c4n)
+- [Introducing Niceshot - Turn your boring screenshots or images into stunning visuals](https://dev.to/bhataasim/introducing-niceshot-turn-your-boring-screenshots-or-images-into-stunning-visuals-44ic)
+- [Secure Your Android App with Biometric SDK in 5 Minutes 🔐 &lpar;Kotlin&rpar;](https://dev.to/noncoderf/secure-your-android-app-with-biometric-sdk-in-5-minutes-kotlin-4boh)
+- [Mastering the Scrum Framework: Roles, Events &amp; Artifacts](https://dev.to/dct_technology/mastering-the-scrum-framework-roles-events-artifacts-4556)
+- [The Silent War on Cash: Why We Must Fight for Our Right to Pay Anonymously](https://dev.to/jonasfroeller/the-silent-war-on-cash-why-we-must-fight-for-our-right-to-pay-anonymously-hlo)
+- [Stop Rewriting Address Logic Laravel Addressable](https://dev.to/awalhadi5/laravel-addressable-stop-rewriting-address-logic-273p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
