@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
-- [Oh, I have BIG news – Guess what I got yesterday? 🏆✨](https://dev.to/anchildress1/oh-i-have-big-news-guess-what-i-got-yesterday-1jca)
-- [Export AWS Untagged Resources to CSV for Analysis and Reporting](https://dev.to/dm8ry/export-aws-untagged-resources-to-csv-for-analysis-and-reporting-2960)
-- [Deep Dive into Mastering EBS Multi-Attach for Real-Time Applications.](https://dev.to/rollandfrancis1913/deep-dive-into-mastering-ebs-multi-attach-for-real-time-applications-57of)
-- [Protect Your Azure Storage with Enterprise-Grade Access Control Using Azure Active Directory &lpar;Azure AD&rpar;.](https://dev.to/aneneemmanuel_1/use-azure-active-directory-azure-ad-to-secure-your-storage-account-1k3f)
+- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
+- [From Silence to Sound: Fixing Audio on Samsung Galaxy Book running Ubuntu Linux](https://dev.to/topzyray/from-silence-to-sound-fixing-audio-on-samsung-galaxy-book-running-ubuntu-linux-4kgc)
+- [How to Launch a Scalable WordPress Site on AWS Lightsail in Under 10 Minutes](https://dev.to/fys/how-to-launch-a-scalable-wordpress-site-on-aws-lightsail-in-under-10-minutes-230p)
+- [How I Built a Chrome Extension That Connects Securely to a Flask Backend &lpar;with Google OAuth + Cloud Run&rpar;](https://dev.to/saloni28/how-i-built-a-chrome-extension-that-connects-securely-to-a-flask-backend-with-google-oauth-cloud-1307)
+- [AWS Cloud Path Week 11: AWS Networking Workshop Part 1 - Building Secure VPC Infrastructure](https://dev.to/aws-builders/aws-cloud-path-week-11-aws-networking-workshop-part-1-building-secure-vpc-infrastructure-4c5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
