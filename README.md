@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revival Hijacking: How Deleted PyPI Packages Become Threats](https://dev.to/protsenko/revival-hijacking-how-deleted-pypi-packages-become-threats-13jk)
-- [Warum Oreyka in Europa überzeugt: Natürliche Inhaltsstoffe und echte Erfahrungen](https://dev.to/orekya/warum-oreyka-in-europa-uberzeugt-naturliche-inhaltsstoffe-und-echte-erfahrungen-32f)
-- [Mark Rober: Can You Safely Drink Your Own Pee?](https://dev.to/maker_youtube/mark-rober-can-you-safely-drink-your-own-pee-4962)
-- [IGN: Marvel Tokon: Fighting Souls - Hands-On Impressions | EVO 2025](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-hands-on-impressions-evo-2025-491h)
-- [Exploring the Philosophical Impact of AI: ChatGPT&#39;s Influence on Human Thought](https://dev.to/ndmckay/exploring-the-philosophical-impact-of-ai-chatgpts-influence-on-human-thought-2327)
+- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
+- [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
+- [Interesting.](https://dev.to/mgks/interesting-2jmd)
+- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
+- [Why a Young AI Researcher Rejected a $1 Billion Offer from Meta&#39;s Zuckerberg](https://dev.to/ndmckay/why-a-young-ai-researcher-rejected-a-1-billion-offer-from-metas-zuckerberg-195k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
