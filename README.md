@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Niceshot - Turn your boring screenshots or images into stunning visuals](https://dev.to/bhataasim/introducing-niceshot-turn-your-boring-screenshots-or-images-into-stunning-visuals-44ic)
-- [Secure Your Android App with Biometric SDK in 5 Minutes 🔐 &lpar;Kotlin&rpar;](https://dev.to/noncoderf/secure-your-android-app-with-biometric-sdk-in-5-minutes-kotlin-4boh)
-- [Mastering the Scrum Framework: Roles, Events &amp; Artifacts](https://dev.to/dct_technology/mastering-the-scrum-framework-roles-events-artifacts-4556)
-- [The Silent War on Cash: Why We Must Fight for Our Right to Pay Anonymously](https://dev.to/jonasfroeller/the-silent-war-on-cash-why-we-must-fight-for-our-right-to-pay-anonymously-hlo)
-- [Stop Rewriting Address Logic Laravel Addressable](https://dev.to/awalhadi5/laravel-addressable-stop-rewriting-address-logic-273p)
+- [Deploy Applications Across Multiple Clusters with RHACM + GitOps](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-across-multiple-clusters-with-rhacm-gitops-1gff)
+- [From Zero to SEO: My Journey with Building a Live Satta King Result Site](https://dev.to/aara222/from-zero-to-seo-my-journey-with-building-a-live-satta-king-result-site-2ejk)
+- [One Bug, Many Faces: Understanding Every Type of Race Condition Vulnerability](https://dev.to/deoxys/one-bug-many-faces-understanding-every-type-of-race-condition-vulnerability-4po3)
+- [dual-personality AI chatbot](https://dev.to/gagan_gagan_2a1795fac0efc/dual-personality-ai-chatbot-2jnl)
+- [Visualizing Work with Kanban: A Lean Approach to Flow Efficiency](https://dev.to/dct_technology/visualizing-work-with-kanban-a-lean-approach-to-flow-efficiency-2158)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
