@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Flutter Responsive Design: 😎The Ultimate Screen Utility Class Guide](https://dev.to/hiteshm_devapp/master-flutter-responsive-design-the-ultimate-screen-utility-class-guide-1dmc)
-- [I built a clean, responsive HTML portfolio template for developers – free live demo + source!](https://dev.to/captainfu/i-built-a-clean-responsive-html-portfolio-template-for-developers-free-live-demo-source-1ojp)
-- [Mastering React Native with TypeScript: From Basics to Brilliance - Part 3](https://dev.to/rushikeshpandit/mastering-react-native-with-typescript-from-basics-to-brilliance-part-3-p0m)
-- [🔌 Build a Native Module in React Native &lpar;Battery Level Example for Android &amp; iOS&rpar;](https://dev.to/lav_pranjale_4cdd421d464d/build-a-native-module-in-react-native-battery-level-example-for-android-ios-46i4)
-- [How Pseudocode Programming Process Leveled Up My Software Engineering Skills](https://dev.to/bikodes/how-pseudocode-programming-process-leveled-up-my-software-engineering-skills-ob3)
+- [Adam Savage&#39;s Tested: Why Build Optimization Isn&#39;t Always the Answer](https://dev.to/maker_youtube/adam-savages-tested-why-build-optimization-isnt-always-the-answer-1n1a)
+- [GameSpot: Battlefield 6 Could Be The Successor To Battlefield 3 &amp; 4 The Series Needs | Hands-On Impressions](https://dev.to/gg_news/gamespot-battlefield-6-could-be-the-successor-to-battlefield-3-4-the-series-needs-hands-on-19d1)
+- [IGN: Top 10 Best Battlefield Games Ranked](https://dev.to/gg_news/ign-top-10-best-battlefield-games-ranked-55e0)
+- [IGN: Spider-Man: Brand New Day - Official Suit Reveal Teaser &lpar;2026&rpar; Tom Holland, Zendaya, Mark Ruffalo](https://dev.to/gg_news/ign-spider-man-brand-new-day-official-suit-reveal-teaser-2026-tom-holland-zendaya-mark-83a)
+- [# Temperature and Steam Logging with Python and Arduino](https://dev.to/bruce_silva_4c45baf29b318/-temperature-and-steam-logging-with-python-and-arduino-e1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
