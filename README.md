@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Platform That Respects You](https://dev.to/saynedbread/we-built-a-platform-that-respects-you-2n3j)
-- [Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE](https://dev.to/kirodotdev/building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn)
-- [How to grant access to Firebase Cloud Messaging &lpar;v1 API&rpar;](https://dev.to/seongbae/how-to-grant-access-to-firebase-cloud-messaging-v1-api-58ei)
-- [❤️ Beginners guide to &quot;Leetcode 2561: Rearranging Fruits&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-2561-rearranging-fruitsc-javascript-python-1on3)
-- [2561. Rearranging Fruits](https://dev.to/mdarifulhaque/2561-rearranging-fruits-cg9)
+- [How I Automated My Excel Workflow Using ChatGPT &lpar;And Wrote a Bestselling Book About It&rpar;](https://dev.to/jaideepparashar/how-i-automated-my-excel-workflow-using-chatgpt-and-wrote-a-bestselling-book-about-it-cmm)
+- [IGN: Ninja Gaiden: Ragebound | The First 20 Minutes of Gameplay | 4k 60FPS](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-the-first-20-minutes-of-gameplay-4k-60fps-451c)
+- [IGN: Killing Floor 3 - Official Gameplay Trailer](https://dev.to/gg_news/ign-killing-floor-3-official-gameplay-trailer-582p)
+- [Maybe the world first full level Vibe Coding agent for Backend Applications](https://dev.to/samchon/autobe-we-made-ai-friendly-compilers-for-vibe-coding-achieving-100-build-success-open-source-1ji1)
+- [Progressive Web App &lpar;PWA&rpar; vs Native: Which Wins for ROI in 2025?](https://dev.to/softosync/progressive-web-app-pwa-vs-native-which-wins-for-roi-in-2025-892)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
