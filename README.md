@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: Before You Hit a Bunker Shot, Do This &lpar;Takes 5 Seconds&rpar;](https://dev.to/youtube_golf/danny-maude-before-you-hit-a-bunker-shot-do-this-takes-5-seconds-2iom)
-- [Manual Testing Guide for Product Testing](https://dev.to/srinidhi_gowda_fa6e884617/manual-testing-guide-for-product-testing-522p)
-- [Voice News Summary - AI-Powered News Summaries Read Aloud in Seconds with Redis](https://dev.to/irwanphan/voice-news-summary-ai-powered-news-summaries-read-aloud-in-seconds-with-redis-1lhi)
-- [A Guide for Creating a Linux Server VM on Azure &amp; Installing PostgreSQL](https://dev.to/loi2008/a-guide-for-creating-a-linux-server-vm-on-azure-installing-postgresql-1dnh)
-- [How I Built a Real Estate Website That Earns Income While Solving a Local Problem](https://dev.to/abdulrahman_ottman_2dc012/how-i-built-a-real-estate-website-that-earns-income-while-solving-a-local-problem-b20)
+- [I&#39;m a dev who got tired of losing code snippets and AI prompts, so I built a tool for it. What features would you actually use?](https://dev.to/i_am_yaseen/im-a-dev-who-got-tired-of-losing-code-snippets-and-ai-prompts-so-i-built-a-tool-for-it-what-5eg4)
+- [My Journey to becoming a Professional Web developer](https://dev.to/manasseh_todd_53967522c44/my-journey-to-becoming-a-professional-web-developer-39nm)
+- [Agent Mode: The Smarter Way to Handle Procurement &lpar;Free Access Until Aug 31&rpar;](https://dev.to/accioprocurement/agent-mode-the-smarter-way-to-handle-procurement-free-access-until-aug-31-4k3a)
+- [Just built my portfolio with Django, Bootstrap &amp; some fun animations — would love your feedback!](https://dev.to/rushikesh_hodade_/just-built-my-portfolio-with-django-bootstrap-some-fun-animations-would-love-your-feedback-1378)
+- [How I Built 6 Android Apps Using Jetpack Compose &amp; Firebase](https://dev.to/nishant_8c32a4d5bdeca0ffc/title-how-i-engineered-6-real-world-android-apps-using-jetpack-compose-firebase-2d7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
