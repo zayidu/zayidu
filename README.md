@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Verizon is upping its fees again](https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0)
-- [Add AI features to your application with Genkit](https://dev.to/abukavictor/add-ai-features-to-your-application-with-genkit-28gn)
-- [API Security with Access Control: Best Practices for a Safer Backend](https://dev.to/lovestaco/api-security-with-access-control-best-practices-for-a-safer-backend-4fpf)
-- [Fake Hacker Simulation Screen](https://dev.to/ruaa201100svg/fake-hacker-simulation-screen-4261)
-- [Lightning-Fast Address Matching …Now with a Smart Hybrid &lpar;Deterministic + LLM&rpar; Engine: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/lightning-fast-address-matching-now-with-a-smart-hybrid-deterministic-llm-engine-a-fun-3f46)
+- [The AI Revolution Isn&#39;t Just Text: 3 Game-Changing Trends to Watch in 2025](https://dev.to/akhilesh_malthi_c905f9460/the-ai-revolution-isnt-just-text-3-game-changing-trends-to-watch-in-2025-483n)
+- [Unlocking Quantitative Analysis using Python](https://dev.to/sairaj_chowdhary_9bdc886a/unlocking-quantitative-analysis-using-python-nib)
+- [How I Built an AI System That Actually Measures Developer Impact &lpar;And Nearly Lost My Mind&rpar;](https://dev.to/vitamin33/how-i-built-an-ai-system-that-actually-measures-developer-impact-and-nearly-lost-my-mind-2ocm)
+- [Did my mother use ChatGPT to write me a text of support on the morning of my divorce?](https://dev.to/ndmckay/did-my-mother-use-chatgpt-to-write-me-a-text-of-support-on-the-morning-of-my-divorce-3obm)
+- [StackDAG Beta - Week 1 Update &lpar;August 2, 2025&rpar;](https://dev.to/javredstone/stackdag-beta-week-1-update-august-2-2025-1l43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
