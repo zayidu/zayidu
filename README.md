@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 GistFans Launch Countdown: Building the Future of Democratic Developer Communities](https://dev.to/black_white_aa77457b8e3c2/gistfans-launch-countdown-building-the-future-of-democratic-developer-communities-28al)
-- [Simple Java Project: Basic Contact Book &lpar;Console-Based&rpar; — Detailed Guide](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-basic-contact-book-console-based-detailed-guide-38j3)
-- [My First Dive into Real Payments Integration &lpar;with Paystack and Webhooks&rpar;](https://dev.to/dorcie-dee/my-first-dive-into-real-payments-integration-with-paystack-and-webhooks-3nmg)
-- [AIShoply: The Missing Link Between Automation Builders and Everyday Users](https://dev.to/prajwal_vv/aishoply-the-missing-link-between-automation-builders-and-everyday-users-4jhk)
-- [5 Surprising Facts About LocalStorage You Probably Didn’t Know](https://dev.to/gouranga-das-khulna/5-surprising-facts-about-localstorage-you-probably-didnt-know-33o0)
+- [The Rise of Real-Time Data: Why Batch Might Be Fading](https://dev.to/milcah03/the-rise-of-real-time-data-why-batch-might-be-fading-23j5)
+- [Build a Professional Harvard-Style Academic CV with This Open Source Jekyll Theme](https://dev.to/smirnoffmg/build-a-professional-harvard-style-academic-cv-with-this-open-source-jekyll-theme-1fg8)
+- [Help me find Datasets](https://dev.to/hassanalimali/help-me-find-datasets-59p3)
+- [Dart Lesson 2: operators and flow control. They act like a program&#39;s &quot;logic engine&quot;](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-2-operators-and-flow-control-they-act-like-a-programs-logic-engine-1lfk)
+- [Simple Java Project: Simple Banking System Simulation &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-simple-banking-system-simulation-with-detailed-explanation-lkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
