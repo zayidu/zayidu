@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a dev who got tired of losing code snippets and AI prompts, so I built a tool for it. What features would you actually use?](https://dev.to/i_am_yaseen/im-a-dev-who-got-tired-of-losing-code-snippets-and-ai-prompts-so-i-built-a-tool-for-it-what-5eg4)
-- [My Journey to becoming a Professional Web developer](https://dev.to/manasseh_todd_53967522c44/my-journey-to-becoming-a-professional-web-developer-39nm)
-- [Agent Mode: The Smarter Way to Handle Procurement &lpar;Free Access Until Aug 31&rpar;](https://dev.to/accioprocurement/agent-mode-the-smarter-way-to-handle-procurement-free-access-until-aug-31-4k3a)
-- [Just built my portfolio with Django, Bootstrap &amp; some fun animations — would love your feedback!](https://dev.to/rushikesh_hodade_/just-built-my-portfolio-with-django-bootstrap-some-fun-animations-would-love-your-feedback-1378)
-- [How I Built 6 Android Apps Using Jetpack Compose &amp; Firebase](https://dev.to/nishant_8c32a4d5bdeca0ffc/title-how-i-engineered-6-real-world-android-apps-using-jetpack-compose-firebase-2d7o)
+- [Developers Life](https://dev.to/techboss/developers-life-26ph)
+- [The Truth About Pointers and Arrays in C++ That No One Told Me](https://dev.to/shreedh/the-truth-about-pointers-and-arrays-in-c-that-no-one-told-me-3e4k)
+- [How to Build a Portfolio in 5 minutes](https://dev.to/gustav_albrektson/how-to-build-a-portfolio-in-5-minutes-3fki)
+- [Mastering React&#39;s useCallback Hook for Optimal Performance](https://dev.to/vjnvisakh/mastering-reacts-usecallback-hook-for-optimal-performance-20bb)
+- [Week 7: Docker Containerization Mastery - A DevOps Learning Journey 🐳](https://dev.to/dev_dave_26/week-7-docker-containerization-mastery-a-devops-learning-journey-2ca3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
