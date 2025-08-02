@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [javascript30 journey - day 1](https://dev.to/still_fatolu/javascript30-journey-day-1-2cl9)
-- [Is the Metaverse Dead? Why 2025 Marks a Sustainable Growth Phase](https://dev.to/ethermuse_7/is-the-metaverse-dead-why-2025-marks-a-sustainable-growth-phase-2ljb)
-- [Can everyone post the four best pictures they&#39;ve ever generated](https://dev.to/ndmckay/can-everyone-post-the-four-best-pictures-theyve-ever-generated-58db)
-- [3 Ways To Create Middleware In ASP.NET Core](https://dev.to/shiv_darshanrathore_402a/3-ways-to-create-middleware-in-aspnet-core-2703)
-- [Semantic / AI EAI Platform Proposal](https://dev.to/sebastian_samaruga_5306fb/semantic-ai-eai-proposal-4gph)
+- [Revival Hijacking: How Deleted PyPI Packages Become Threats](https://dev.to/protsenko/revival-hijacking-how-deleted-pypi-packages-become-threats-13jk)
+- [Warum Oreyka in Europa überzeugt: Natürliche Inhaltsstoffe und echte Erfahrungen](https://dev.to/orekya/warum-oreyka-in-europa-uberzeugt-naturliche-inhaltsstoffe-und-echte-erfahrungen-32f)
+- [Mark Rober: Can You Safely Drink Your Own Pee?](https://dev.to/maker_youtube/mark-rober-can-you-safely-drink-your-own-pee-4962)
+- [IGN: Marvel Tokon: Fighting Souls - Hands-On Impressions | EVO 2025](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-hands-on-impressions-evo-2025-491h)
+- [Exploring the Philosophical Impact of AI: ChatGPT&#39;s Influence on Human Thought](https://dev.to/ndmckay/exploring-the-philosophical-impact-of-ai-chatgpts-influence-on-human-thought-2327)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
