@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Why Build Optimization Isn&#39;t Always the Answer](https://dev.to/maker_youtube/adam-savages-tested-why-build-optimization-isnt-always-the-answer-1n1a)
-- [GameSpot: Battlefield 6 Could Be The Successor To Battlefield 3 &amp; 4 The Series Needs | Hands-On Impressions](https://dev.to/gg_news/gamespot-battlefield-6-could-be-the-successor-to-battlefield-3-4-the-series-needs-hands-on-19d1)
-- [IGN: Top 10 Best Battlefield Games Ranked](https://dev.to/gg_news/ign-top-10-best-battlefield-games-ranked-55e0)
-- [IGN: Spider-Man: Brand New Day - Official Suit Reveal Teaser &lpar;2026&rpar; Tom Holland, Zendaya, Mark Ruffalo](https://dev.to/gg_news/ign-spider-man-brand-new-day-official-suit-reveal-teaser-2026-tom-holland-zendaya-mark-83a)
-- [# Temperature and Steam Logging with Python and Arduino](https://dev.to/bruce_silva_4c45baf29b318/-temperature-and-steam-logging-with-python-and-arduino-e1m)
+- [Verizon is upping its fees again](https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0)
+- [Add AI features to your application with Genkit](https://dev.to/abukavictor/add-ai-features-to-your-application-with-genkit-28gn)
+- [API Security with Access Control: Best Practices for a Safer Backend](https://dev.to/lovestaco/api-security-with-access-control-best-practices-for-a-safer-backend-4fpf)
+- [Fake Hacker Simulation Screen](https://dev.to/ruaa201100svg/fake-hacker-simulation-screen-4261)
+- [Lightning-Fast Address Matching …Now with a Smart Hybrid &lpar;Deterministic + LLM&rpar; Engine: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/lightning-fast-address-matching-now-with-a-smart-hybrid-deterministic-llm-engine-a-fun-3f46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
