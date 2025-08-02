@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution Isn&#39;t Just Text: 3 Game-Changing Trends to Watch in 2025](https://dev.to/akhilesh_malthi_c905f9460/the-ai-revolution-isnt-just-text-3-game-changing-trends-to-watch-in-2025-483n)
-- [Unlocking Quantitative Analysis using Python](https://dev.to/sairaj_chowdhary_9bdc886a/unlocking-quantitative-analysis-using-python-nib)
-- [How I Built an AI System That Actually Measures Developer Impact &lpar;And Nearly Lost My Mind&rpar;](https://dev.to/vitamin33/how-i-built-an-ai-system-that-actually-measures-developer-impact-and-nearly-lost-my-mind-2ocm)
-- [Did my mother use ChatGPT to write me a text of support on the morning of my divorce?](https://dev.to/ndmckay/did-my-mother-use-chatgpt-to-write-me-a-text-of-support-on-the-morning-of-my-divorce-3obm)
-- [StackDAG Beta - Week 1 Update &lpar;August 2, 2025&rpar;](https://dev.to/javredstone/stackdag-beta-week-1-update-august-2-2025-1l43)
+- [javascript30 journey - day 1](https://dev.to/still_fatolu/javascript30-journey-day-1-2cl9)
+- [Is the Metaverse Dead? Why 2025 Marks a Sustainable Growth Phase](https://dev.to/ethermuse_7/is-the-metaverse-dead-why-2025-marks-a-sustainable-growth-phase-2ljb)
+- [Can everyone post the four best pictures they&#39;ve ever generated](https://dev.to/ndmckay/can-everyone-post-the-four-best-pictures-theyve-ever-generated-58db)
+- [3 Ways To Create Middleware In ASP.NET Core](https://dev.to/shiv_darshanrathore_402a/3-ways-to-create-middleware-in-aspnet-core-2703)
+- [Semantic / AI EAI Platform Proposal](https://dev.to/sebastian_samaruga_5306fb/semantic-ai-eai-proposal-4gph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
