@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
-- [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
-- [Interesting.](https://dev.to/mgks/interesting-2jmd)
-- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
-- [Why a Young AI Researcher Rejected a $1 Billion Offer from Meta&#39;s Zuckerberg](https://dev.to/ndmckay/why-a-young-ai-researcher-rejected-a-1-billion-offer-from-metas-zuckerberg-195k)
+- [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
+- [Oh, I have BIG news – Guess what I got yesterday? 🏆✨](https://dev.to/anchildress1/oh-i-have-big-news-guess-what-i-got-yesterday-1jca)
+- [Export AWS Untagged Resources to CSV for Analysis and Reporting](https://dev.to/dm8ry/export-aws-untagged-resources-to-csv-for-analysis-and-reporting-2960)
+- [Deep Dive into Mastering EBS Multi-Attach for Real-Time Applications.](https://dev.to/rollandfrancis1913/deep-dive-into-mastering-ebs-multi-attach-for-real-time-applications-57of)
+- [Protect Your Azure Storage with Enterprise-Grade Access Control Using Azure Active Directory &lpar;Azure AD&rpar;.](https://dev.to/aneneemmanuel_1/use-azure-active-directory-azure-ad-to-secure-your-storage-account-1k3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
