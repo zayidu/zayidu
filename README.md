@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 2025801: Procedural Context Type](https://dev.to/methodox/devlog-2025801-procedural-context-type-338k)
-- [Humanizing Visual Studio: A Call to Speak to Real People](https://dev.to/ljvasquezr/humanizing-visual-studio-a-call-to-speak-to-real-people-46i4)
-- [Network Basics for Security](https://dev.to/hills/network-basics-for-security-g1c)
-- [Understanding the KNN Algorithm: Finding Your Nearest Neighbors](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-knn-algorithm-finding-your-nearest-neighbors-1da9)
-- [Why Visual Studio Isn’t Just for Experts: A Gentle Invitation to New Developers.](https://dev.to/ljvasquezr/why-visual-studio-isnt-just-for-experts-a-gentle-invitation-to-new-developers-2520)
+- [We Built a Platform That Respects You](https://dev.to/saynedbread/we-built-a-platform-that-respects-you-2n3j)
+- [Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE](https://dev.to/kirodotdev/building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn)
+- [How to grant access to Firebase Cloud Messaging &lpar;v1 API&rpar;](https://dev.to/seongbae/how-to-grant-access-to-firebase-cloud-messaging-v1-api-58ei)
+- [❤️ Beginners guide to &quot;Leetcode 2561: Rearranging Fruits&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-2561-rearranging-fruitsc-javascript-python-1on3)
+- [2561. Rearranging Fruits](https://dev.to/mdarifulhaque/2561-rearranging-fruits-cg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
