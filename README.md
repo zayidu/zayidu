@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-446o)
-- [IGN: Invincible VS High-Level Gameplay | EVO 2025](https://dev.to/gg_news/ign-invincible-vs-high-level-gameplay-evo-2025-3f18)
-- [IGN: Mortal Kombat Legacy Kollection - Developer Interview | EVO 2025](https://dev.to/gg_news/ign-mortal-kombat-legacy-kollection-developer-interview-evo-2025-1o80)
-- [Unlocking AI Potential: How Contextualized Evaluations Transform Model Assessments](https://dev.to/jay_all_day/unlocking-ai-potential-how-contextualized-evaluations-transform-model-assessments-5d9i)
+- [Basic Exception Handling in Java Spring](https://dev.to/pablo_mora_9e40570a97f54e/basic-exception-handling-in-java-spring-56h4)
+- [Veo 3 now available in Gemini Pro](https://dev.to/amrs-tech/veo-3-now-available-in-gemini-pro-1c9m)
+- [AWS Cloud Path Week 16: AWS Networking Workshop Part 6 &lpar;Final&rpar; -Understanding AWS Gateway Load Balancer](https://dev.to/aws-builders/aws-cloud-path-week-16-aws-networking-workshop-part-6-final-understanding-aws-gateway-load-3df8)
+- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
+- [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
