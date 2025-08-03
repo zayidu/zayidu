@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best tips to learn music?](https://dev.to/thomasbnt/best-tips-to-learn-music-4e36)
-- [Laura Kampf: What can I make with the most boring chair in the world?](https://dev.to/maker_youtube/laura-kampf-what-can-i-make-with-the-most-boring-chair-in-the-world-27lc)
-- [Auth and Billing in One API Call: A Pattern Worth Betting On](https://dev.to/sholajegede/auth-and-billing-in-one-api-call-a-pattern-worth-betting-on-57jl)
-- [Adam Savage&#39;s Tested: How Adam Savage Is Good AND Bad at Prioritization](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-is-good-and-bad-at-prioritization-24dj)
-- [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2kjj)
+- [Nuking AWS Resources Safely with aws-nuke](https://dev.to/lovestaco/nuking-aws-resources-safely-with-aws-nuke-4ndd)
+- [HTML Lab: Create &amp; Style Div Elements, CSS Box Shadows, and Basic Structure](https://dev.to/labex/html-lab-create-style-div-elements-css-box-shadows-and-basic-structure-3me4)
+- [TypeScript 5.9 is here, GLM 4.5 is EPIC for Programming, Node.js 22.18 LTS, and more](https://dev.to/thisweekinjavascript/typescript-59-is-here-glm-45-is-epic-for-programming-nodejs-2218-lts-and-more-48h8)
+- [Tagasaurus, desktop ml photo search](https://dev.to/avmantzaris/tagasaurus-desktop-ml-photo-search-5ee7)
+- [Day 4 of #30DaysOfCode](https://dev.to/justacoder_0x/day-4-of-30daysofcode-1dek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
