@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
-- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
-- [How to Create a Secure Subnet and Network Security Group in Azure](https://dev.to/peter_samuel_052b9056e236/how-to-create-a-secure-subnet-and-network-security-group-in-azure-2g2b)
-- [🔄 Understanding the Reset Statement in Uniface ProcScript](https://dev.to/petercode/understanding-the-reset-statement-in-uniface-procscript-3lg4)
-- [Spring Boot 3.5.4 Security and MongoDB Authentication Web App with Thymeleaf and Bootstrap](https://dev.to/djamware_tutorial_eba1a61/spring-boot-354-security-and-mongodb-authentication-web-app-with-thymeleaf-and-bootstrap-3808)
+- [[Boost]](https://dev.to/pankaj_jainani_e2ef8fc5d9/-1cab)
+- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-31d)
+- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-2c91)
+- [How to efficiently compress image file size while maintaining image quality?](https://dev.to/kelen/how-to-efficiently-compress-image-file-size-while-maintaining-image-quality-3onl)
+- [Mock Interview Questions :](https://dev.to/vigneshwaralingam/mock-interview-questions--2p9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
