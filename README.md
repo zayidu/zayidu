@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Exception Handling in Java Spring](https://dev.to/pablo_mora_9e40570a97f54e/basic-exception-handling-in-java-spring-56h4)
-- [Veo 3 now available in Gemini Pro](https://dev.to/amrs-tech/veo-3-now-available-in-gemini-pro-1c9m)
-- [AWS Cloud Path Week 16: AWS Networking Workshop Part 6 &lpar;Final&rpar; -Understanding AWS Gateway Load Balancer](https://dev.to/aws-builders/aws-cloud-path-week-16-aws-networking-workshop-part-6-final-understanding-aws-gateway-load-3df8)
-- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
-- [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
+- [C# Excel sortable headers](https://dev.to/karenpayneoregon/c-excel-sortable-headers-pe1)
+- [Convert HTML Tables to CSV Instantly — Free, Fast, and Online](https://dev.to/trixahub/convert-html-tables-to-csv-instantly-free-fast-and-online-3eke)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-2ami)
+- [IGN: Street Fighter 6 - Official C. Viper Teaser Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-c-viper-teaser-trailer-2a5l)
+- [The Future of Machine Learning: Why CPUs, GPUs, NPUs, and TPUs Are Essential for AI Success](https://dev.to/jay_all_day/the-future-of-machine-learning-why-cpus-gpus-npus-and-tpus-are-essential-for-ai-success-47hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
