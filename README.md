@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda](https://dev.to/tapskuy/rahasia-efisiensi-ai-terungkap-ini-cara-llm-routing-memilih-llm-paling-cerdas-untuk-kebutuhan-anda-109o)
-- [The Importance of Exoskeletons in Medical Rehabilitation and Mobility for the Disabled](https://dev.to/mdmozammelhaquejasem/the-importance-of-exoskeletons-in-medical-rehabilitation-and-mobility-for-the-disabled-3ng2)
-- [Why .env and .env.local Files Are Crucial in Modern Development Projects](https://dev.to/nk2552003/why-env-and-envlocal-files-are-crucial-in-modern-development-projects-3jop)
-- [The Science Behind Nuclear Bombs: How the Most Powerful Weapons on Earth Work](https://dev.to/xbze3/the-science-behind-nuclear-bombs-how-the-most-powerful-weapons-on-earth-work-5d1n)
-- [Toward a Smarter Future: Why Guyana Needs Sector-Specific ICT Training](https://dev.to/xbze3/toward-a-smarter-future-why-guyana-needs-sector-specific-ict-training-1gmf)
+- [The Era Of Ai - Introduction To Vibe Coding -Chapter 5](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-5-49g6)
+- [How to Compile from Source Code in Linux](https://dev.to/harry_tanama_51571ebf90b6/how-to-compile-from-source-code-in-linux-36b6)
+- [Amazon Q Developer Custom Agents](https://dev.to/peepeepopapapeepeepo/amazon-q-developer-custom-agents-pbl)
+- [Dart Lesson 6: Advanced Functions - Higher-Order Functions and Closures](https://dev.to/jige2025/dart-lesson-6-advanced-functions-higher-order-functions-and-closures-3cmb)
+- [[Share Data / Python Lib] Thư viện chuẩn hóa &amp; chuyển đổi đơn vị hành chính Việt Nam](https://dev.to/tranngocminhhieu/share-data-python-lib-thu-vien-chuan-hoa-chuyen-doi-don-vi-hanh-chinh-viet-nam-k7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
