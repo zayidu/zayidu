@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workplace Ethics](https://dev.to/nandinishinduja/workplace-ethics-3e11)
-- [Revolutionize Your AI Projects: Harness the Power of the PEER Pattern for Multi-Agent Systems](https://dev.to/jay_all_day/revolutionize-your-ai-projects-harness-the-power-of-the-peer-pattern-for-multi-agent-systems-kc3)
-- [Accelerate Your React &amp; Next.js Development with Themedevhub: UI Kits, Tools &amp; Templates](https://dev.to/sh_sazib/accelerate-your-react-nextjs-development-with-themedevhub-ui-kits-tools-templates-58e0)
-- [Postman vs Apidog: Which One Deserves a Spot in Your Dev Toolkit?](https://dev.to/mahmud-r-farhan/postman-vs-apidog-which-one-deserves-a-spot-in-your-dev-toolkit-30na)
-- [I was tired of TypeScript&#39;s nested object hell, so I built ts-safe-path](https://dev.to/envindavsorg/i-was-tired-of-typescripts-nested-object-hell-so-i-built-ts-safe-path-ih)
+- [Ethereum vs NEAR: A Developer’s Architecture Deep-Dive](https://dev.to/eniorisada/ethereum-vs-near-a-developers-architecture-deep-dive-e8g)
+- [Dart Lesson 10: Null Safety &lpar;Part 1&rpar; — Why is Null Safety Needed?](https://dev.to/jige2025/dart-lesson-10-null-safety-part-1-why-is-null-safety-needed-5e5g)
+- [What Is a Test Environment and How Can it Be Useful?](https://dev.to/ann55/what-is-a-test-environment-and-how-can-it-be-useful-9dj)
+- [tips to solve errors/bugs](https://dev.to/nandinishinduja/tips-to-solve-errorsbugs-2iad)
+- [tips to not break production](https://dev.to/nandinishinduja/tips-to-not-break-production-43ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
