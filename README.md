@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trello for AI Coding: When the Autopilot Needs a Manual Gearbox](https://dev.to/roma_armstrong/trello-for-ai-coding-when-the-autopilot-needs-a-manual-gearbox-2alk)
-- [🔗 Mastering Uniface reconnect: Merging Disconnected Data with Live Components](https://dev.to/petercode/mastering-uniface-reconnect-merging-disconnected-data-with-live-components-3dg6)
-- [I&#39;ve built a LLM pre-processing toolbox and would love to hear your feedback](https://dev.to/hanan-weavium/ive-built-a-llm-pre-processing-toolbox-and-would-love-to-hear-your-feedback-23il)
-- [Our Communication No Longer Belongs to Us, Thoughts on How AI Could Create an Alternative to WhatsApp](https://dev.to/roma_armstrong/our-communication-no-longer-belongs-to-us-thoughts-on-how-ai-could-create-an-alternative-to-1lhb)
-- [Building Temperature Conversion APIs? Here&#39;s What Every Developer Should Know](https://dev.to/vacancybee/building-temperature-conversion-apis-heres-what-every-developer-should-know-23a8)
+- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
+- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
+- [How to Create a Secure Subnet and Network Security Group in Azure](https://dev.to/peter_samuel_052b9056e236/how-to-create-a-secure-subnet-and-network-security-group-in-azure-2g2b)
+- [🔄 Understanding the Reset Statement in Uniface ProcScript](https://dev.to/petercode/understanding-the-reset-statement-in-uniface-procscript-3lg4)
+- [Spring Boot 3.5.4 Security and MongoDB Authentication Web App with Thymeleaf and Bootstrap](https://dev.to/djamware_tutorial_eba1a61/spring-boot-354-security-and-mongodb-authentication-web-app-with-thymeleaf-and-bootstrap-3808)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
