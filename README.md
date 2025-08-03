@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing TourCompose: The Easiest Way to Add Interactive Tours to Your Android Compose App &lpar;Without Losing Your Sanity&rpar;](https://dev.to/tonyakitori/introducing-tourcompose-the-easiest-way-to-add-interactive-tours-to-your-android-compose-app-3k2j)
-- [Unlocking the Power of Support Vector Machines: Hyperplanes and Margin Maximization](https://dev.to/dev_patel_35864ca1db6093c/unlocking-the-power-of-support-vector-machines-hyperplanes-and-margin-maximization-4ag8)
-- [NotesChat](https://dev.to/hideaki_toro/noteschat-2fea)
-- [Problem of using GitHub Co-pilot](https://dev.to/ayushrajj/problem-of-using-github-co-pilot-2385)
-- [Dart Lesson 3:Collection Types &lpar;Part 1&rpar; — Using List and Set](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-3collection-types-part-1-using-list-and-set-59dp)
+- [Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda](https://dev.to/tapskuy/rahasia-efisiensi-ai-terungkap-ini-cara-llm-routing-memilih-llm-paling-cerdas-untuk-kebutuhan-anda-109o)
+- [The Importance of Exoskeletons in Medical Rehabilitation and Mobility for the Disabled](https://dev.to/mdmozammelhaquejasem/the-importance-of-exoskeletons-in-medical-rehabilitation-and-mobility-for-the-disabled-3ng2)
+- [Why .env and .env.local Files Are Crucial in Modern Development Projects](https://dev.to/nk2552003/why-env-and-envlocal-files-are-crucial-in-modern-development-projects-3jop)
+- [The Science Behind Nuclear Bombs: How the Most Powerful Weapons on Earth Work](https://dev.to/xbze3/the-science-behind-nuclear-bombs-how-the-most-powerful-weapons-on-earth-work-5d1n)
+- [Toward a Smarter Future: Why Guyana Needs Sector-Specific ICT Training](https://dev.to/xbze3/toward-a-smarter-future-why-guyana-needs-sector-specific-ict-training-1gmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
