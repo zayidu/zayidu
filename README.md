@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
-- [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
-- [🧱 Building a Modular ERP System with Laravel 10](https://dev.to/firexcore/building-a-modular-erp-system-with-laravel-10-1joc)
-- [Getting your product to the right people](https://dev.to/wdp/getting-your-product-to-the-right-people-5c90)
-- [Created a notion template for Detailed Software Engineering Notes](https://dev.to/mohitms007/created-a-notion-template-for-detailed-software-engineering-notes-1g1b)
+- [Adam Savage&#39;s Tested: How Adam Is Hansi But Martina Is Jamie &lpar;with @nerdforge!&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-adam-is-hansi-but-martina-is-jamie-with-nerdforge-13j6)
+- [OpenAI.fm! OpenAI&#39;s Newest Text-To-Speech Model - Proje Defteri](https://dev.to/projedefteri/openaifm-openais-newest-text-to-speech-model-proje-defteri-1gd5)
+- [Why Vast Data&#39;s $30 Billion Valuation Could Transform AI Infrastructure Investments](https://dev.to/jay_all_day/why-vast-datas-30-billion-valuation-could-transform-ai-infrastructure-investments-10d0)
+- [Why Every New Framework Feels the Same &lpar;And Why That’s a Good Thing&rpar;](https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4)
+- [Unlocking Git&#39;s Power: Go Beyond git push &amp; git pull](https://dev.to/rohit_kumar_0193e4393f4bb/unlocking-gits-power-go-beyond-git-push-git-pull-1fih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
