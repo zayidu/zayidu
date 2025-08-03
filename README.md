@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pankaj_jainani_e2ef8fc5d9/-1cab)
-- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-31d)
-- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-2c91)
-- [How to efficiently compress image file size while maintaining image quality?](https://dev.to/kelen/how-to-efficiently-compress-image-file-size-while-maintaining-image-quality-3onl)
-- [Mock Interview Questions :](https://dev.to/vigneshwaralingam/mock-interview-questions--2p9i)
+- [BST, the Find method and levelOrderForEach](https://dev.to/codecara/bst-the-find-method-and-levelorderforeach-2jko)
+- [find &amp; rfind in Python](https://dev.to/hyperkai/find-rfind-in-python-229h)
+- [Responsive Card Layout with CSS Grid: A Step-by-Step Guide](https://dev.to/m97chahboun/responsive-card-layout-with-css-grid-a-step-by-step-guide-3ej1)
+- [Designing Vector Embeddings: A Finding Nemo Journey Through Redis Vector Sets](https://dev.to/redis/designing-vector-embeddings-a-finding-nemo-journey-through-redis-vector-sets-3i9j)
+- [Top 10 Agentic AI Tools for Developers to Speed Up Coding](https://dev.to/dhruvjoshi9/top-10-agentic-ai-tools-for-developers-to-speed-up-coding-3a4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
