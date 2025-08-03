@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
-- [From Silence to Sound: Fixing Audio on Samsung Galaxy Book running Ubuntu Linux](https://dev.to/topzyray/from-silence-to-sound-fixing-audio-on-samsung-galaxy-book-running-ubuntu-linux-4kgc)
-- [How to Launch a Scalable WordPress Site on AWS Lightsail in Under 10 Minutes](https://dev.to/fys/how-to-launch-a-scalable-wordpress-site-on-aws-lightsail-in-under-10-minutes-230p)
-- [How I Built a Chrome Extension That Connects Securely to a Flask Backend &lpar;with Google OAuth + Cloud Run&rpar;](https://dev.to/saloni28/how-i-built-a-chrome-extension-that-connects-securely-to-a-flask-backend-with-google-oauth-cloud-1307)
-- [AWS Cloud Path Week 11: AWS Networking Workshop Part 1 - Building Secure VPC Infrastructure](https://dev.to/aws-builders/aws-cloud-path-week-11-aws-networking-workshop-part-1-building-secure-vpc-infrastructure-4c5c)
+- [Introducing TourCompose: The Easiest Way to Add Interactive Tours to Your Android Compose App &lpar;Without Losing Your Sanity&rpar;](https://dev.to/tonyakitori/introducing-tourcompose-the-easiest-way-to-add-interactive-tours-to-your-android-compose-app-3k2j)
+- [Unlocking the Power of Support Vector Machines: Hyperplanes and Margin Maximization](https://dev.to/dev_patel_35864ca1db6093c/unlocking-the-power-of-support-vector-machines-hyperplanes-and-margin-maximization-4ag8)
+- [NotesChat](https://dev.to/hideaki_toro/noteschat-2fea)
+- [Problem of using GitHub Co-pilot](https://dev.to/ayushrajj/problem-of-using-github-co-pilot-2385)
+- [Dart Lesson 3:Collection Types &lpar;Part 1&rpar; — Using List and Set](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-3collection-types-part-1-using-list-and-set-59dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
