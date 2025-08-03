@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum vs NEAR: A Developer’s Architecture Deep-Dive](https://dev.to/eniorisada/ethereum-vs-near-a-developers-architecture-deep-dive-e8g)
-- [Dart Lesson 10: Null Safety &lpar;Part 1&rpar; — Why is Null Safety Needed?](https://dev.to/jige2025/dart-lesson-10-null-safety-part-1-why-is-null-safety-needed-5e5g)
-- [What Is a Test Environment and How Can it Be Useful?](https://dev.to/ann55/what-is-a-test-environment-and-how-can-it-be-useful-9dj)
-- [tips to solve errors/bugs](https://dev.to/nandinishinduja/tips-to-solve-errorsbugs-2iad)
-- [tips to not break production](https://dev.to/nandinishinduja/tips-to-not-break-production-43ja)
+- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
+- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
+- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
+- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
+- [Redis-Powered Prayer Times App: Location-Aware Islamic Schedule](https://dev.to/siswoyo/redis-powered-prayer-times-app-location-aware-islamic-schedule-5al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
