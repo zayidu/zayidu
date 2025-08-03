@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: How Adam Is Hansi But Martina Is Jamie &lpar;with @nerdforge!&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-adam-is-hansi-but-martina-is-jamie-with-nerdforge-13j6)
-- [OpenAI.fm! OpenAI&#39;s Newest Text-To-Speech Model - Proje Defteri](https://dev.to/projedefteri/openaifm-openais-newest-text-to-speech-model-proje-defteri-1gd5)
-- [Why Vast Data&#39;s $30 Billion Valuation Could Transform AI Infrastructure Investments](https://dev.to/jay_all_day/why-vast-datas-30-billion-valuation-could-transform-ai-infrastructure-investments-10d0)
-- [Why Every New Framework Feels the Same &lpar;And Why That’s a Good Thing&rpar;](https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4)
-- [Unlocking Git&#39;s Power: Go Beyond git push &amp; git pull](https://dev.to/rohit_kumar_0193e4393f4bb/unlocking-gits-power-go-beyond-git-push-git-pull-1fih)
+- [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
+- [JavaScript isn’t the problem. Replacing the browser was.](https://dev.to/peterp/javascript-isnt-the-problem-replacing-the-browser-was-1ma7)
+- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
+- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
+- [🚀 August 2025 Developer Update: React 19, AI-Powered Tools, and Big Tech’s $155B AI Playbook](https://dev.to/jasgigli/august-2025-developer-update-react-19-ai-powered-tools-and-big-techs-155b-ai-playbook-4mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
