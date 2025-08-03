@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BST, the Find method and levelOrderForEach](https://dev.to/codecara/bst-the-find-method-and-levelorderforeach-2jko)
-- [find &amp; rfind in Python](https://dev.to/hyperkai/find-rfind-in-python-229h)
-- [Responsive Card Layout with CSS Grid: A Step-by-Step Guide](https://dev.to/m97chahboun/responsive-card-layout-with-css-grid-a-step-by-step-guide-3ej1)
-- [Designing Vector Embeddings: A Finding Nemo Journey Through Redis Vector Sets](https://dev.to/redis/designing-vector-embeddings-a-finding-nemo-journey-through-redis-vector-sets-3i9j)
-- [Top 10 Agentic AI Tools for Developers to Speed Up Coding](https://dev.to/dhruvjoshi9/top-10-agentic-ai-tools-for-developers-to-speed-up-coding-3a4n)
+- [Best tips to learn music?](https://dev.to/thomasbnt/best-tips-to-learn-music-4e36)
+- [Laura Kampf: What can I make with the most boring chair in the world?](https://dev.to/maker_youtube/laura-kampf-what-can-i-make-with-the-most-boring-chair-in-the-world-27lc)
+- [Auth and Billing in One API Call: A Pattern Worth Betting On](https://dev.to/sholajegede/auth-and-billing-in-one-api-call-a-pattern-worth-betting-on-57jl)
+- [Adam Savage&#39;s Tested: How Adam Savage Is Good AND Bad at Prioritization](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-is-good-and-bad-at-prioritization-24dj)
+- [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2kjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
