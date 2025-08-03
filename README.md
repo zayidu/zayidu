@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Era Of Ai - Introduction To Vibe Coding -Chapter 5](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-5-49g6)
-- [How to Compile from Source Code in Linux](https://dev.to/harry_tanama_51571ebf90b6/how-to-compile-from-source-code-in-linux-36b6)
-- [Amazon Q Developer Custom Agents](https://dev.to/peepeepopapapeepeepo/amazon-q-developer-custom-agents-pbl)
-- [Dart Lesson 6: Advanced Functions - Higher-Order Functions and Closures](https://dev.to/jige2025/dart-lesson-6-advanced-functions-higher-order-functions-and-closures-3cmb)
-- [[Share Data / Python Lib] Thư viện chuẩn hóa &amp; chuyển đổi đơn vị hành chính Việt Nam](https://dev.to/tranngocminhhieu/share-data-python-lib-thu-vien-chuan-hoa-chuyen-doi-don-vi-hanh-chinh-viet-nam-k7b)
+- [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
+- [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
+- [🧱 Building a Modular ERP System with Laravel 10](https://dev.to/firexcore/building-a-modular-erp-system-with-laravel-10-1joc)
+- [Getting your product to the right people](https://dev.to/wdp/getting-your-product-to-the-right-people-5c90)
+- [Created a notion template for Detailed Software Engineering Notes](https://dev.to/mohitms007/created-a-notion-template-for-detailed-software-engineering-notes-1g1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
