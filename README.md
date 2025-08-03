@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Andy Byron Coldplay incident](https://dev.to/nandinishinduja/the-andy-byron-coldplay-incident-4kph)
-- [Nicholas Renotte: How to Build a Stock Screener AGENT with LangGraph in 30 Minutes &lpar;LangGraph Crash Course&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-how-to-build-a-stock-screener-agent-with-langgraph-in-30-minutes-langgraph-crash-5dfe)
-- [Unlocking Nature&#39;s Secrets: How Ant Colonies Inspire Cutting-Edge AI Solutions](https://dev.to/jay_all_day/unlocking-natures-secrets-how-ant-colonies-inspire-cutting-edge-ai-solutions-bn5)
-- [Getting Started with Laravel: A Beginner&#39;s Guide](https://dev.to/mogenaidy/getting-started-with-laravel-a-beginners-guide-3onc)
-- [Weekly Challenge: I sent my date a letter](https://dev.to/simongreennet/weekly-challenge-i-sent-my-date-a-letter-1ppg)
+- [Workplace Ethics](https://dev.to/nandinishinduja/workplace-ethics-3e11)
+- [Revolutionize Your AI Projects: Harness the Power of the PEER Pattern for Multi-Agent Systems](https://dev.to/jay_all_day/revolutionize-your-ai-projects-harness-the-power-of-the-peer-pattern-for-multi-agent-systems-kc3)
+- [Accelerate Your React &amp; Next.js Development with Themedevhub: UI Kits, Tools &amp; Templates](https://dev.to/sh_sazib/accelerate-your-react-nextjs-development-with-themedevhub-ui-kits-tools-templates-58e0)
+- [Postman vs Apidog: Which One Deserves a Spot in Your Dev Toolkit?](https://dev.to/mahmud-r-farhan/postman-vs-apidog-which-one-deserves-a-spot-in-your-dev-toolkit-30na)
+- [I was tired of TypeScript&#39;s nested object hell, so I built ts-safe-path](https://dev.to/envindavsorg/i-was-tired-of-typescripts-nested-object-hell-so-i-built-ts-safe-path-ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
