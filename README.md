@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
-- [JavaScript isn’t the problem. Replacing the browser was.](https://dev.to/peterp/javascript-isnt-the-problem-replacing-the-browser-was-1ma7)
-- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
-- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
-- [🚀 August 2025 Developer Update: React 19, AI-Powered Tools, and Big Tech’s $155B AI Playbook](https://dev.to/jasgigli/august-2025-developer-update-react-19-ai-powered-tools-and-big-techs-155b-ai-playbook-4mk)
+- [The Andy Byron Coldplay incident](https://dev.to/nandinishinduja/the-andy-byron-coldplay-incident-4kph)
+- [Nicholas Renotte: How to Build a Stock Screener AGENT with LangGraph in 30 Minutes &lpar;LangGraph Crash Course&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-how-to-build-a-stock-screener-agent-with-langgraph-in-30-minutes-langgraph-crash-5dfe)
+- [Unlocking Nature&#39;s Secrets: How Ant Colonies Inspire Cutting-Edge AI Solutions](https://dev.to/jay_all_day/unlocking-natures-secrets-how-ant-colonies-inspire-cutting-edge-ai-solutions-bn5)
+- [Getting Started with Laravel: A Beginner&#39;s Guide](https://dev.to/mogenaidy/getting-started-with-laravel-a-beginners-guide-3onc)
+- [Weekly Challenge: I sent my date a letter](https://dev.to/simongreennet/weekly-challenge-i-sent-my-date-a-letter-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
