@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
-- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
-- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
-- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
-- [Redis-Powered Prayer Times App: Location-Aware Islamic Schedule](https://dev.to/siswoyo/redis-powered-prayer-times-app-location-aware-islamic-schedule-5al)
+- [Trello for AI Coding: When the Autopilot Needs a Manual Gearbox](https://dev.to/roma_armstrong/trello-for-ai-coding-when-the-autopilot-needs-a-manual-gearbox-2alk)
+- [🔗 Mastering Uniface reconnect: Merging Disconnected Data with Live Components](https://dev.to/petercode/mastering-uniface-reconnect-merging-disconnected-data-with-live-components-3dg6)
+- [I&#39;ve built a LLM pre-processing toolbox and would love to hear your feedback](https://dev.to/hanan-weavium/ive-built-a-llm-pre-processing-toolbox-and-would-love-to-hear-your-feedback-23il)
+- [Our Communication No Longer Belongs to Us, Thoughts on How AI Could Create an Alternative to WhatsApp](https://dev.to/roma_armstrong/our-communication-no-longer-belongs-to-us-thoughts-on-how-ai-could-create-an-alternative-to-1lhb)
+- [Building Temperature Conversion APIs? Here&#39;s What Every Developer Should Know](https://dev.to/vacancybee/building-temperature-conversion-apis-heres-what-every-developer-should-know-23a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
