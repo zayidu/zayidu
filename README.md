@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #732 - MetaCPAN Success Story](https://dev.to/szabgab/perl-weekly-732-metacpan-success-story-2p1h)
-- [If a Veteran Coder Is Skeptical About AI, We Shouldn&#39;t Worry About Our Coding Jobs](https://dev.to/canro91/if-a-veteran-coder-is-skeptical-about-ai-we-shouldnt-worry-about-our-coding-jobs-2hmg)
-- [lstrip in Python](https://dev.to/hyperkai/lstrip-in-python-49i5)
-- [🚀 Spring Boot Microservice Orchestration with Temporal](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-microservice-orchestration-with-temporal-hnp)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-5769)
+- [LLMs - Embeddings 01](https://dev.to/bellatrix/llms-embeddings-01-17ba)
+- [How I Built and Launched a Multi-Language SEO-Friendly Tools Website in One Week with AI](https://dev.to/victoryhub/how-i-built-and-launched-a-multi-language-seo-friendly-tools-website-in-one-week-with-ai-me7)
+- [🚀 I Just Launched *IntraVybe* — A Fresh Take on Social Media for Images, Audio, and Video!](https://dev.to/intra_vybe/i-just-launched-intravybe-a-fresh-take-on-social-media-for-images-audio-and-video-bhh)
+- [Learn React.js: A Beginner’s Guide to Building Dynamic Web Apps topic](https://dev.to/rishabhtpt/learn-reactjs-a-beginners-guide-to-building-dynamic-web-apps-topic-2m7j)
+- [What are Back links?](https://dev.to/e77/what-are-back-links-5e5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
