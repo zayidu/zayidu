@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
-- [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
-- [Is anyone interested in vibe coding on your phone?](https://dev.to/nickqiao/is-anyone-interested-in-vibe-coding-on-your-phone-5f3o)
-- [How Data Fetching Works in Next.js: Server vs Client Components](https://dev.to/sudiip__17/how-data-fetching-works-in-nextjs-server-vs-client-components-3779)
-- [How to use GitHub admonitions to make your markdown more readable](https://dev.to/mike_andreuzza/how-to-use-github-admonitions-to-make-your-markdown-more-readable-3oi6)
+- [Alec Steele: Turning a Picure into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picure-into-a-damascus-pattern-4922)
+- [Maker&#39;s Muse: 8 Things that RUIN 3D print accuracy &lpar;and how to fix it&rpar;](https://dev.to/maker_youtube/makers-muse-8-things-that-ruin-3d-print-accuracy-and-how-to-fix-it-5546)
+- [Adam Savage&#39;s Tested: How Adam Savage Organizes His Thoughts](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-organizes-his-thoughts-ndi)
+- [Built My First AI Agent Without Code Using SmythOS &lpar;Weaver is wild&rpar;](https://dev.to/moh_bright_e478f690f4a59f/built-my-first-ai-agent-without-code-using-smythos-weaver-is-wild-3kma)
+- [Mastering Soft Skills for Effective Leadership and Mentorship](https://dev.to/vjnvisakh/mastering-soft-skills-for-effective-leadership-and-mentorship-10fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
