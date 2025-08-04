@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That Actually Get Used](https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-actually-get-used-36fb)
-- [rjust in Python](https://dev.to/hyperkai/rjust-in-python-21kc)
-- [How to Become a Self-Taught ReactJS Developer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/krishm/how-to-become-a-self-taught-reactjs-developer-in-2025-step-by-step-guide-4fe)
-- [Building Custom Mods for Minecraft APK Using APIs](https://dev.to/whiteout_survival_281be02/building-custom-mods-for-minecraft-apk-using-apis-3n7a)
-- [ljust in Python](https://dev.to/hyperkai/ljust-in-python-1akc)
+- [Perl 🐪 Weekly #732 - MetaCPAN Success Story](https://dev.to/szabgab/perl-weekly-732-metacpan-success-story-2p1h)
+- [If a Veteran Coder Is Skeptical About AI, We Shouldn&#39;t Worry About Our Coding Jobs](https://dev.to/canro91/if-a-veteran-coder-is-skeptical-about-ai-we-shouldnt-worry-about-our-coding-jobs-2hmg)
+- [lstrip in Python](https://dev.to/hyperkai/lstrip-in-python-49i5)
+- [🚀 Spring Boot Microservice Orchestration with Temporal](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-microservice-orchestration-with-temporal-hnp)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-5769)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
