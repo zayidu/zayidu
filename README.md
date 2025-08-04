@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs - Embeddings 01](https://dev.to/bellatrix/llms-embeddings-01-17ba)
-- [How I Built and Launched a Multi-Language SEO-Friendly Tools Website in One Week with AI](https://dev.to/victoryhub/how-i-built-and-launched-a-multi-language-seo-friendly-tools-website-in-one-week-with-ai-me7)
-- [🚀 I Just Launched *IntraVybe* — A Fresh Take on Social Media for Images, Audio, and Video!](https://dev.to/intra_vybe/i-just-launched-intravybe-a-fresh-take-on-social-media-for-images-audio-and-video-bhh)
-- [Learn React.js: A Beginner’s Guide to Building Dynamic Web Apps topic](https://dev.to/rishabhtpt/learn-reactjs-a-beginners-guide-to-building-dynamic-web-apps-topic-2m7j)
-- [What are Back links?](https://dev.to/e77/what-are-back-links-5e5o)
+- [AI&#39;s Not Your Savior - It&#39;s a Wild Pantheon, and You&#39;re the High Priest. Here&#39;s How to Win by Mixing Gods and Tools.](https://dev.to/developia/ais-not-your-savior-its-a-wild-pantheon-and-youre-the-high-priest-heres-how-to-win-by-255k)
+- [How I learned to stop worrying and love edge computing](https://dev.to/nabilpatel4012/how-i-learned-to-stop-worrying-and-love-edge-computing-4965)
+- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
+- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
+- [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
