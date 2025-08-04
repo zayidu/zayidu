@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #138 back to school.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-v138-back-to-school-12ic)
-- [How I’m Using AI &lpar;as an AI Skeptic&rpar;](https://dev.to/kathryngrayson/how-im-using-ai-as-an-ai-skeptic-3j5m)
-- [One Small UX Fix That Actually Helps](https://dev.to/sholajegede/one-small-ux-fix-that-actually-helps-5551)
-- [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
-- [Building a User Interview Tracker in an Afternoon &lpar;with Gadget&rpar;](https://dev.to/nate_sharma_/building-a-user-interview-tracker-in-an-afternoon-with-gadget-5fom)
+- [🎨 Blender Basics: Essential Terminology for Beginners](https://dev.to/sabarish312/blender-basics-essential-terminology-for-beginners-5346)
+- [🖥️ Backend Development for Beginners: A Friendly Guide to Get Started](https://dev.to/sabarish312/backend-development-for-beginners-a-friendly-guide-to-get-started-2pp6)
+- [Online movie ticket booking web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/online-movie-ticket-booking-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-3gmf)
+- [Kali Linux Practical Guide: Setting Up Your Environment &amp; Starting PostgreSQL](https://dev.to/labex/kali-linux-practical-guide-setting-up-your-environment-starting-postgresql-57ja)
+- [JavaScript Local Storage](https://dev.to/visali_nedunchezhian_ee73/javascript-local-storage-35eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
