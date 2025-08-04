@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unboxing the Black Box: Understanding AI with Reverse Mechanistic Localization](https://dev.to/rijultp/unboxing-the-black-box-understanding-ai-with-reverse-mechanistic-localization-ac9)
-- [20 Questions to Ask an LLM About Your Codebase &lpar;That You Probably Won&#39;t Like the Answers To&rpar;](https://dev.to/sebs/20-questions-to-ask-an-llm-about-your-codebase-that-you-probably-wont-like-the-answers-to-2h9k)
-- [🎨 A Arte e Ciência da Arquitetura Front-end](https://dev.to/wanderleycabral-dev/a-arte-e-ciencia-da-arquitetura-front-end-419p)
-- [🍯 Riverpod Sugar: From Verbose to Revolutionary - How I Cut Flutter State Management Code by 80%](https://dev.to/mukhbit/riverpod-sugar-from-verbose-to-revolutionary-how-i-cut-flutter-state-management-code-by-80-41f2)
-- [🧠 Stop Building MVPs — Start With an MVA &lpar;Minimum Valuable Automation&rpar;](https://dev.to/snappy_tuts/stop-building-mvps-start-with-an-mva-minimum-valuable-automation-10p1)
+- [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
+- [3D Printing Nerd: Birthday Stream!](https://dev.to/maker_youtube/3d-printing-nerd-birthday-stream-54c3)
+- [Adam Savage&#39;s Tested: Adam Savage Examines Darth Vader&#39;s Original Lightsaber Prop!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-examines-darth-vaders-original-lightsaber-prop-2le2)
+- [COLORS: Gayathri Krishnan - Made It | A COLORS SHOW](https://dev.to/music_youtube/colors-gayathri-krishnan-made-it-a-colors-show-12ee)
+- [KEXP: Dean Wareham - Snowstorm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-wareham-snowstorm-live-on-kexp-2d7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
