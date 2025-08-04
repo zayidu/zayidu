@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Verify Git Commits on GitHub Using GPG Keychain Mac OS](https://dev.to/yasindehfuli/how-to-verify-git-commits-on-github-using-gpg-keychain-mac-os-272c)
-- [What NYT Crosswords Teach Us About Debugging](https://dev.to/abubakersiddique771/what-nyt-crosswords-teach-us-about-debugging-569)
-- [🧠 What “Biased Sports Fan” Taught Me About Pattern Recognition &lpar;Yes, From a NYT Crossword&rpar;](https://dev.to/abubakersiddique771/what-biased-sports-fan-taught-me-about-pattern-recognition-yes-from-a-nyt-crossword-230d)
-- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
-- [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
+- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
+- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
+- [Your Files Just Vanished... And Amazon S3 Could Have Saved You!](https://dev.to/stoicdavi/your-files-just-vanished-and-amazon-s3-could-have-saved-you-1dm6)
+- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-3mgo)
+- [Browser-based performance testing with K6](https://dev.to/m4rri4nne/browser-based-performance-testing-with-k6-1lob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
