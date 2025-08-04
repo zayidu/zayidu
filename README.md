@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stepping into JavaScript](https://dev.to/kavya_s/stepping-into-javascript-3j6p)
-- [Get rid of useEffect for Data: Why React Query is a Game Changer](https://dev.to/saijamii/get-rid-of-useeffect-for-data-why-react-query-is-a-game-changer-4bh5)
-- [🚀 OpenTofu 1.10 Released: OCI Registry, Simpler S3 State Locking, and AI-Friendly Infra as Code](https://dev.to/latchudevops/opentofu-110-released-oci-registry-simpler-s3-state-locking-and-ai-friendly-infra-as-code-3dm7)
-- [endswith in Python](https://dev.to/hyperkai/endswith-in-python-1e1p)
-- [How to Validate Request Body with express-validator](https://dev.to/arasosman/how-to-validate-request-body-with-express-validator-29lo)
+- [Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That Actually Get Used](https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-actually-get-used-36fb)
+- [rjust in Python](https://dev.to/hyperkai/rjust-in-python-21kc)
+- [How to Become a Self-Taught ReactJS Developer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/krishm/how-to-become-a-self-taught-reactjs-developer-in-2025-step-by-step-guide-4fe)
+- [Building Custom Mods for Minecraft APK Using APIs](https://dev.to/whiteout_survival_281be02/building-custom-mods-for-minecraft-apk-using-apis-3n7a)
+- [ljust in Python](https://dev.to/hyperkai/ljust-in-python-1akc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
