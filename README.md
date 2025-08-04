@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
-- [I Built a Cyberpunk Story About Meta&#39;s AI Future Using AI as My Pair Programmer](https://dev.to/bioinfo/i-built-a-cyberpunk-story-about-metas-ai-future-using-ai-as-my-pair-programmer-5c3m)
-- [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
-- [Why localhost:3000 Became the Home Base of Modern Web Development](https://dev.to/lightningdev123/why-localhost3000-became-the-home-base-of-modern-web-development-3i67)
-- [5 Ways Edge AI is Transforming Mobile App Performance and Privacy](https://dev.to/chrlie/5-ways-edge-ai-is-transforming-mobile-app-performance-and-privacy-1dd4)
+- [Design Patterns Simplified: Part 12 — Memento Pattern &lpar;a.k.a. “Your Object&#39;s Time Machine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-12-memento-pattern-aka-your-objects-time-machine-3d6g)
+- [What&#39;s Going On](https://dev.to/methodoxdivooka/whats-going-on-5en4)
+- [Client-Server Architecture: Basics of System Design Day 21](https://dev.to/vincenttommi/understanding-client-server-architecture-the-backbone-of-web-applications-system-basics-conpets-5gd6)
+- [Making Debugging Easier: Stacktrace Support in Logpoints](https://dev.to/mundianderi/making-debugging-easier-stacktrace-support-in-logpoints-5o8)
+- [quies](https://dev.to/armaankhan8270/quies-47el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
