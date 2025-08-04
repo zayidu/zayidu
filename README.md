@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns Simplified: Part 12 — Memento Pattern &lpar;a.k.a. “Your Object&#39;s Time Machine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-12-memento-pattern-aka-your-objects-time-machine-3d6g)
-- [What&#39;s Going On](https://dev.to/methodoxdivooka/whats-going-on-5en4)
-- [Client-Server Architecture: Basics of System Design Day 21](https://dev.to/vincenttommi/understanding-client-server-architecture-the-backbone-of-web-applications-system-basics-conpets-5gd6)
-- [Making Debugging Easier: Stacktrace Support in Logpoints](https://dev.to/mundianderi/making-debugging-easier-stacktrace-support-in-logpoints-5o8)
-- [quies](https://dev.to/armaankhan8270/quies-47el)
+- [We&#39;re removing the new sidebar from the compose flow to preserve the minimalism there.](https://dev.to/ben/were-removing-the-new-sidebar-from-the-compose-flow-to-preserve-the-minimalism-there-4ja5)
+- [Build a Signal Clone with React Native and Stream - Part One](https://dev.to/tropicolx/build-a-signal-clone-with-react-native-and-stream-part-one-5a47)
+- [Creating Log-Based Alerts with Grafana, Loki, and Promtail](https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo)
+- [[Boost]](https://dev.to/ben/-11g9)
+- [🧩 Diseño y Modelado: ¿son lo mismo?](https://dev.to/azunico/diseno-y-modelado-son-lo-mismo-50n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
