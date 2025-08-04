@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3 - Scaling the Outlet Pattern with Multiple Named Outlets in React](https://dev.to/talissoncosta/part-3-scaling-the-outlet-pattern-with-multiple-named-outlets-in-react-3nej)
-- [Deploy a Spring Boot app to EKS](https://dev.to/said_olano/deploy-a-spring-boot-app-to-eks-48ki)
-- [The Almighty PLAYWRIGHT-SCHEMA-VALIDATOR: The Unstoppable Triumvirate Playwright + AJV + Zod](https://dev.to/sebastianclavijo/the-almighty-playwright-schema-validator-the-unstoppable-triumvirate-playwright-ajv-zod-3jno)
-- [✨ Drive Efficiency and Consistency: The Benefits of a Design System](https://dev.to/ryarturogi/drive-efficiency-and-consistency-the-benefits-of-a-design-system-18gg)
-- [Part 2 - Applying the Outlet Pattern in Real-World UI Components](https://dev.to/talissoncosta/part-2-applying-the-outlet-pattern-in-real-world-ui-components-247f)
+- [Stepping into JavaScript](https://dev.to/kavya_s/stepping-into-javascript-3j6p)
+- [Get rid of useEffect for Data: Why React Query is a Game Changer](https://dev.to/saijamii/get-rid-of-useeffect-for-data-why-react-query-is-a-game-changer-4bh5)
+- [🚀 OpenTofu 1.10 Released: OCI Registry, Simpler S3 State Locking, and AI-Friendly Infra as Code](https://dev.to/latchudevops/opentofu-110-released-oci-registry-simpler-s3-state-locking-and-ai-friendly-infra-as-code-3dm7)
+- [endswith in Python](https://dev.to/hyperkai/endswith-in-python-1e1p)
+- [How to Validate Request Body with express-validator](https://dev.to/arasosman/how-to-validate-request-body-with-express-validator-29lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
