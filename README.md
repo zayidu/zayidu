@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Advance Git &amp; GitHub for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-13-advance-git-github-for-devops-engineers-22h1)
-- [Learning CS By Building A Computer #0 - An Intro](https://dev.to/nipunattri/relearning-cs-by-building-a-computer-0-an-intro-18b2)
-- [QEMU QAPI Client for Go — Native Code-Gen Straight from QEMU](https://dev.to/krjakbrjak/qemu-qapi-client-for-go-native-code-gen-straight-from-qemu-4m13)
-- [rpartition in Python](https://dev.to/hyperkai/rpartition-in-python-1me1)
-- [partition in Python](https://dev.to/hyperkai/partition-in-python-4gn3)
+- [Part 3 - Scaling the Outlet Pattern with Multiple Named Outlets in React](https://dev.to/talissoncosta/part-3-scaling-the-outlet-pattern-with-multiple-named-outlets-in-react-3nej)
+- [Deploy a Spring Boot app to EKS](https://dev.to/said_olano/deploy-a-spring-boot-app-to-eks-48ki)
+- [The Almighty PLAYWRIGHT-SCHEMA-VALIDATOR: The Unstoppable Triumvirate Playwright + AJV + Zod](https://dev.to/sebastianclavijo/the-almighty-playwright-schema-validator-the-unstoppable-triumvirate-playwright-ajv-zod-3jno)
+- [✨ Drive Efficiency and Consistency: The Benefits of a Design System](https://dev.to/ryarturogi/drive-efficiency-and-consistency-the-benefits-of-a-design-system-18gg)
+- [Part 2 - Applying the Outlet Pattern in Real-World UI Components](https://dev.to/talissoncosta/part-2-applying-the-outlet-pattern-in-real-world-ui-components-247f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
