@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Not Your Savior - It&#39;s a Wild Pantheon, and You&#39;re the High Priest. Here&#39;s How to Win by Mixing Gods and Tools.](https://dev.to/developia/ais-not-your-savior-its-a-wild-pantheon-and-youre-the-high-priest-heres-how-to-win-by-255k)
-- [How I learned to stop worrying and love edge computing](https://dev.to/nabilpatel4012/how-i-learned-to-stop-worrying-and-love-edge-computing-4965)
-- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
-- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
-- [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
+- [🔥 Firebase Storage: Easy Setup &amp; File Listing.](https://dev.to/ayushtiic/firebase-storage-easy-setup-file-listing-1l3i)
+- [Seeking Currency API for .NET Microservice Project](https://dev.to/kristykor/seeking-currency-api-for-net-microservice-project-oak)
+- [How to read data from I2C or SPI-based sensors?](https://dev.to/carolineee/how-to-read-data-from-i2c-or-spi-based-sensors-1l6f)
+- [Is my phone eavesdropping on me?](https://dev.to/jottyjohn/is-my-phone-eavesdropping-on-me-3h8k)
+- [SQL migration : SPL Lightweight Multisource Mixed Computation Practice #7](https://dev.to/esproc_spl/sql-migration-spl-lightweight-multisource-mixed-computation-practice-7-5815)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
