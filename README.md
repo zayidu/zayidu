@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
-- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
-- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
-- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
-- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
+- [Comparing BFS, DFS, Dijkstra, and A* algorithms on a practical maze solver example](https://dev.to/nemanjam/comparing-bfs-dfs-dijkstra-and-a-algorithms-on-a-practical-maze-solver-example-5ekl)
+- [Reducing Kubernetes costs using AWS EKS Auto Mode](https://dev.to/aws-builders/reducing-kubernetes-costs-using-aws-eks-auto-mode-1jl1)
+- [Iniciando Minha Transição de Carreira: De Líder de Projetos GLP para Programação](https://dev.to/esthevamnascimento/iniciando-minha-transicao-de-carreira-de-lider-de-projetos-glp-para-programacao-gc6)
+- [🧵 Understanding JavaScript Promises, Callbacks &amp; Handling Multiple Async Tasks](https://dev.to/rashidpbi/understanding-javascript-promises-callbacks-handling-multiple-async-tasks-4326)
+- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
