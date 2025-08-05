@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying GitHub Self-Hosted Runners on Your Home Kubernetes Cluster with ARC](https://dev.to/sahan/deploying-github-self-hosted-runners-on-your-home-kubernetes-cluster-with-arc-3gaj)
-- [How Legal Language Loses Responsibility When It Becomes Executable](https://dev.to/agustin_v_startari/how-legal-language-loses-responsibility-when-it-becomes-executable-4104)
-- [What is the interest of companies in Open Source?](https://dev.to/szabgab/what-is-the-interest-of-companies-in-open-source-5416)
-- [Living Interfaces: The Future of Web Components](https://dev.to/mihai_victor_1973/living-interfaces-the-future-of-web-components-pfh)
-- [How to Choose a Great Tech Hire: Beyond Algorithm Tests and Whiteboard Coding](https://dev.to/victoria/how-to-choose-a-great-tech-hire-beyond-algorithm-tests-and-whiteboard-coding-4mk9)
+- [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://dev.to/gg_news/ign-hit-by-layoffs-as-parent-company-ziff-davis-cuts-costs-2l47)
+- [Xbox Is Still Figuring Out How To Market Its PC Games, And Has Come Up With Another Pointless Name Change](https://dev.to/gg_news/xbox-is-still-figuring-out-how-to-market-its-pc-games-and-has-come-up-with-another-pointless-name-4f5e)
+- [Electronic Arts Sales Boom to $1.3 Billion, Earnings Expectations Smashed as ‘EA Sports,&#39; ‘Apex Legends&#39; Outperform](https://dev.to/gg_news/electronic-arts-sales-boom-to-13-billion-earnings-expectations-smashed-as-ea-sports-apex-4p47)
+- [Microsoft games made up most of PlayStation&#39;s top sellers in the US last quarter](https://dev.to/gg_news/microsoft-games-made-up-most-of-playstations-top-sellers-in-the-us-last-quarter-3c6o)
+- [After Devil May Cry 5 outsells Monster Hunter Wilds in Capcom&#39;s latest financial quarter, publisher&#39;s share prices tumble](https://dev.to/gg_news/after-devil-may-cry-5-outsells-monster-hunter-wilds-in-capcoms-latest-financial-quarter-fed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
