@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
-- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
-- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
-- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
-- [Is Cookie-Based Tracking Dying? Shift to Zero-Party Data](https://dev.to/mehwish_malik_4f29ff7fb04/is-cookie-based-tracking-dying-shift-to-zero-party-data-17le)
+- [Deploying GitHub Self-Hosted Runners on Your Home Kubernetes Cluster with ARC](https://dev.to/sahan/deploying-github-self-hosted-runners-on-your-home-kubernetes-cluster-with-arc-3gaj)
+- [How Legal Language Loses Responsibility When It Becomes Executable](https://dev.to/agustin_v_startari/how-legal-language-loses-responsibility-when-it-becomes-executable-4104)
+- [What is the interest of companies in Open Source?](https://dev.to/szabgab/what-is-the-interest-of-companies-in-open-source-5416)
+- [Living Interfaces: The Future of Web Components](https://dev.to/mihai_victor_1973/living-interfaces-the-future-of-web-components-pfh)
+- [How to Choose a Great Tech Hire: Beyond Algorithm Tests and Whiteboard Coding](https://dev.to/victoria/how-to-choose-a-great-tech-hire-beyond-algorithm-tests-and-whiteboard-coding-4mk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
