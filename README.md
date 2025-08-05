@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 DSA: The 8-Week Grind – Join Me in This Challenge! &lpar;Week 1, Day 1 Recap&rpar;](https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o)
-- [Playing to Win: Claude Code and the Art of AI-Controlled Development](https://dev.to/phil-whittaker/playing-to-win-claude-code-and-the-art-of-ai-controlled-development-34ag)
-- [IT Asset Allocation Models Explained](https://dev.to/teresa_tran/it-asset-allocation-models-explained-3b0l)
-- [Key Concepts - AZ-305: Designing Azure Solutions](https://dev.to/skilltech/key-concepts-az-305-designing-azure-solutions-2nk4)
-- [Understanding PHP Variables and Data Types: A Beginner&#39;s Guide with Examples](https://dev.to/rishabhtpt/understanding-php-variables-and-data-types-a-beginners-guide-with-examples-4g32)
+- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-5b5l)
+- [Building a Document Management App with Split, Merge, and PDF Export using HTML5 and JavaScript](https://dev.to/yushulx/building-a-document-management-app-with-split-merge-and-pdf-export-using-html5-and-javascript-54ec)
+- [EtherJs Functions working](https://dev.to/swatantra_goswami_8d33bee/etherjs-functions-working-4oab)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 5.2: Docker Hub Image Scanning with Trivy in GitLab CI/CD](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-52-docker-hub-image-scanning-with-hfn)
+- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
