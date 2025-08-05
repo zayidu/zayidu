@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
-- [Build a Livekit Telephony Agent](https://dev.to/drguthals/build-a-livekit-telephony-agent-3ibe)
-- [Machine Learning Fundamentals: Scikit-Learn, Model Selection, Pandas Bfill &amp; Kernel Ridge Regression](https://dev.to/labex/machine-learning-fundamentals-scikit-learn-model-selection-pandas-bfill-kernel-ridge-regression-54le)
-- [Finding My Way in Computer Science](https://dev.to/paritoshparashar/finding-my-way-in-computer-science-a-public-journey-begins-hpm)
-- [Day 56: When Your Nap Has Main Character Energy](https://dev.to/casperday11/day-56-when-your-nap-has-main-character-energy-26ep)
+- [Turbocharge Your Web App UI with Tailwind CSS: A Beginner&#39;s Guide](https://dev.to/ekwoster/turbocharge-your-web-app-ui-with-tailwind-css-a-beginners-guide-2f49)
+- [Crafting a High-Performance Dashboard with PostgreSQL Caching and Golang Scheduled Routines](https://dev.to/shrsv/crafting-a-high-performance-dashboard-with-postgresql-caching-and-golang-scheduled-routines-1bh6)
+- [vTSafeKernelInvoker: Lightweight .NET extension for Semantic Kernel. Features InvokePromptFunctionUsingCustomizedKernelAsync to cut AI token usage/costs by skipping unnecessary post-processing https://www.nuget.org/packages/vTSafeKernelInvoker/](https://dev.to/venuthomas/vtsafekernelinvoker-lightweight-net-extension-for-semantic-kernel-features-1ame)
+- [Generics Typescript](https://dev.to/matheusgondra/generics-typescript-2m1b)
+- [USER](https://dev.to/armaankhan8270/user-2dbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
