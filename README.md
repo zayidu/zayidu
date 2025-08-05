@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing BFS, DFS, Dijkstra, and A* algorithms on a practical maze solver example](https://dev.to/nemanjam/comparing-bfs-dfs-dijkstra-and-a-algorithms-on-a-practical-maze-solver-example-5ekl)
-- [Reducing Kubernetes costs using AWS EKS Auto Mode](https://dev.to/aws-builders/reducing-kubernetes-costs-using-aws-eks-auto-mode-1jl1)
-- [Iniciando Minha Transição de Carreira: De Líder de Projetos GLP para Programação](https://dev.to/esthevamnascimento/iniciando-minha-transicao-de-carreira-de-lider-de-projetos-glp-para-programacao-gc6)
-- [🧵 Understanding JavaScript Promises, Callbacks &amp; Handling Multiple Async Tasks](https://dev.to/rashidpbi/understanding-javascript-promises-callbacks-handling-multiple-async-tasks-4326)
-- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
+- [The curious case of ZionVPN](https://dev.to/idane/the-curious-case-of-zionvpn-22ji)
+- [Tutorial: Alpine Linux on Raspberry Pi 3 with Syncthing, OpenVPN and Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-on-raspberry-pi-3-with-syncthing-openvpn-and-docker-2932)
+- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
+- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
+- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
