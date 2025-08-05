@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗃️ What Is a Terraform Backend? &lpar;And Why State Locking Saves Your Infrastructure From Chaos&rpar;](https://dev.to/1suleyman/what-is-a-terraform-backend-and-why-state-locking-saves-your-infrastructure-from-chaos-3jj3)
-- [💻 What Is .gitignore in Terraform? &lpar;And Why You Should Care Before You Push to Git&rpar;](https://dev.to/1suleyman/what-is-gitignore-in-terraform-and-why-you-should-care-before-you-push-to-git-4o2h)
-- [Taming Eventual Consistency-Applying Principles of Structured Concurrency to Distributed Systems](https://dev.to/gabrielshanahan/taming-eventual-consistency-applying-principles-of-structured-concurrency-to-distributed-systems-57cj)
-- [Common Flutter Mistakes Beginners Make &lpar;And How to Avoid Them&rpar;](https://dev.to/bestaoui_aymen/common-flutter-mistakes-beginners-make-and-how-to-avoid-them-1djj)
-- [Multithreading in Java: A Detailed Beginner’s Guide](https://dev.to/sharique_siddiqui_8242dad/multithreading-in-java-a-detailed-beginners-guide-67e)
+- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
+- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
+- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
+- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
+- [Is Cookie-Based Tracking Dying? Shift to Zero-Party Data](https://dev.to/mehwish_malik_4f29ff7fb04/is-cookie-based-tracking-dying-shift-to-zero-party-data-17le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
