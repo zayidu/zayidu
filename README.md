@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to program an IoT system to monitor the lifespan of fences](https://dev.to/eliana_coleman_332/how-to-program-an-iot-system-to-monitor-the-lifespan-of-fences-h7b)
-- [Fun C++ project using linked list – Music Player](https://dev.to/wafaakhprog/fun-c-project-using-linked-list-music-player-219h)
-- [Adam Savage&#39;s Tested: Adam Savage Inspects a Mini Fractal Vise!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inspects-a-mini-fractal-vise-4do5)
-- [How Does Conversational AI Work?](https://dev.to/elinaozo/how-does-conversational-ai-work-3mg3)
-- [KEXP: Suzzallo - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-full-performance-live-on-kexp-1jgh)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
+- [Build a Livekit Telephony Agent](https://dev.to/drguthals/build-a-livekit-telephony-agent-3ibe)
+- [Machine Learning Fundamentals: Scikit-Learn, Model Selection, Pandas Bfill &amp; Kernel Ridge Regression](https://dev.to/labex/machine-learning-fundamentals-scikit-learn-model-selection-pandas-bfill-kernel-ridge-regression-54le)
+- [Finding My Way in Computer Science](https://dev.to/paritoshparashar/finding-my-way-in-computer-science-a-public-journey-begins-hpm)
+- [Day 56: When Your Nap Has Main Character Energy](https://dev.to/casperday11/day-56-when-your-nap-has-main-character-energy-26ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
