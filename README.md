@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ Qual Arquitetura Escolher para .NET: Monolito, Serviços Distribuídos ou Microsserviços?](https://dev.to/daniloopinheiro/qual-arquitetura-escolher-para-net-monolito-servicos-distribuidos-ou-microsservicos-lif)
-- [How I Built a Loan EMI SMS Notification System Using WordPress + SMS Gateway](https://dev.to/white_balanceai_fec50f9d/how-i-built-a-loan-emi-sms-notification-system-using-wordpress-sms-gateway-215e)
-- [Avoiding Common JWT Pitfalls in React Native Development](https://dev.to/iamdevbox/avoiding-common-jwt-pitfalls-in-react-native-development-538a)
-- [C# LeetCode 66: Plus One - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-66-plus-one-easy-5b0p)
-- [I Tried 5 Rising GitHub Tools for 2025 &lpar;Here&#39;s What Stood Out&rpar;](https://dev.to/pullflow/i-tried-5-rising-github-tools-for-2025-heres-what-stood-out-104g)
+- [How to program an IoT system to monitor the lifespan of fences](https://dev.to/eliana_coleman_332/how-to-program-an-iot-system-to-monitor-the-lifespan-of-fences-h7b)
+- [Fun C++ project using linked list – Music Player](https://dev.to/wafaakhprog/fun-c-project-using-linked-list-music-player-219h)
+- [Adam Savage&#39;s Tested: Adam Savage Inspects a Mini Fractal Vise!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inspects-a-mini-fractal-vise-4do5)
+- [How Does Conversational AI Work?](https://dev.to/elinaozo/how-does-conversational-ai-work-3mg3)
+- [KEXP: Suzzallo - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-full-performance-live-on-kexp-1jgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
