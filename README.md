@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Operators in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/types-of-operators-in-javascript-19bp)
-- [Getting Started with Quarkus and GraalVM Native Image](https://dev.to/jungledev/getting-started-with-quarkus-and-graalvm-native-image-575i)
-- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
-- [qureus](https://dev.to/armaankhan8270/qureus-o2g)
-- [React for Web Development in 2025: Advantages, Use Cases, and Top Examples](https://dev.to/nencywilliams/react-for-web-development-in-2025-advantages-use-cases-and-top-examples-226o)
+- [🚀 DSA: The 8-Week Grind – Join Me in This Challenge! &lpar;Week 1, Day 1 Recap&rpar;](https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o)
+- [Playing to Win: Claude Code and the Art of AI-Controlled Development](https://dev.to/phil-whittaker/playing-to-win-claude-code-and-the-art-of-ai-controlled-development-34ag)
+- [IT Asset Allocation Models Explained](https://dev.to/teresa_tran/it-asset-allocation-models-explained-3b0l)
+- [Key Concepts - AZ-305: Designing Azure Solutions](https://dev.to/skilltech/key-concepts-az-305-designing-azure-solutions-2nk4)
+- [Understanding PHP Variables and Data Types: A Beginner&#39;s Guide with Examples](https://dev.to/rishabhtpt/understanding-php-variables-and-data-types-a-beginners-guide-with-examples-4g32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
