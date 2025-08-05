@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-5b5l)
-- [Building a Document Management App with Split, Merge, and PDF Export using HTML5 and JavaScript](https://dev.to/yushulx/building-a-document-management-app-with-split-merge-and-pdf-export-using-html5-and-javascript-54ec)
-- [EtherJs Functions working](https://dev.to/swatantra_goswami_8d33bee/etherjs-functions-working-4oab)
-- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 5.2: Docker Hub Image Scanning with Trivy in GitLab CI/CD](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-52-docker-hub-image-scanning-with-hfn)
-- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
+- [A Developer’s Guide to Azure Data Protection Services](https://dev.to/oodles-platform/a-developers-guide-to-azure-data-protection-services-7of)
+- [7 Must-Have WordPress Plugins to Grow Your Site in 2025](https://dev.to/anonymous_c13b051b4dded8a/7-must-have-wordpress-plugins-to-grow-your-site-in-2025-1ong)
+- [DocumentFragment Upgaded: A Live, Reparentable DOM Primitive 🌱](https://dev.to/framemuse/documentfragment-upgaded-a-live-reparentable-dom-primitive-3bkh)
+- [Fetch Data with AWS Lambda](https://dev.to/misolainthecloud/fetch-data-with-aws-lambda-1526)
+- [Les erreurs fréquentes dans les devis au forfait](https://dev.to/corentin_teulet/les-erreurs-frequentes-dans-les-devis-au-forfait-1hh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
