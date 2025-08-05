@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m using Claude Code to manage my Neon projects locally now, and... it&#39;s working?](https://dev.to/composiodev/im-using-claude-code-to-manage-my-neon-projects-locally-now-and-its-working-228h)
-- [Hands-On Transformer Deep Dive: Part 2 — Multi-head Attention Variants with Code](https://dev.to/alabebop/hands-on-transformer-deep-dive-part-2-multi-head-attention-variants-with-code-4405)
-- [🚀 5 DevOps Habits That Changed How I Code &lpar;and Ship&rpar;](https://dev.to/samy_1592/5-devops-habits-that-changed-how-i-code-and-ship-53d6)
-- [LeetCode #66. Plus One](https://dev.to/desiato/leetcode-66-plus-one-oh0)
-- [Beyond the Prototype: 15 Hard-Earned Lessons to Ship Production-Ready AI Agents](https://dev.to/paoloap/beyond-the-prototype-15-hard-earned-lessons-to-ship-production-ready-ai-agents-4n2m)
+- [🏗️ Qual Arquitetura Escolher para .NET: Monolito, Serviços Distribuídos ou Microsserviços?](https://dev.to/daniloopinheiro/qual-arquitetura-escolher-para-net-monolito-servicos-distribuidos-ou-microsservicos-lif)
+- [How I Built a Loan EMI SMS Notification System Using WordPress + SMS Gateway](https://dev.to/white_balanceai_fec50f9d/how-i-built-a-loan-emi-sms-notification-system-using-wordpress-sms-gateway-215e)
+- [Avoiding Common JWT Pitfalls in React Native Development](https://dev.to/iamdevbox/avoiding-common-jwt-pitfalls-in-react-native-development-538a)
+- [C# LeetCode 66: Plus One - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-66-plus-one-easy-5b0p)
+- [I Tried 5 Rising GitHub Tools for 2025 &lpar;Here&#39;s What Stood Out&rpar;](https://dev.to/pullflow/i-tried-5-rising-github-tools-for-2025-heres-what-stood-out-104g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
