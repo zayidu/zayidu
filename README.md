@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://dev.to/gg_news/ign-hit-by-layoffs-as-parent-company-ziff-davis-cuts-costs-2l47)
-- [Xbox Is Still Figuring Out How To Market Its PC Games, And Has Come Up With Another Pointless Name Change](https://dev.to/gg_news/xbox-is-still-figuring-out-how-to-market-its-pc-games-and-has-come-up-with-another-pointless-name-4f5e)
-- [Electronic Arts Sales Boom to $1.3 Billion, Earnings Expectations Smashed as ‘EA Sports,&#39; ‘Apex Legends&#39; Outperform](https://dev.to/gg_news/electronic-arts-sales-boom-to-13-billion-earnings-expectations-smashed-as-ea-sports-apex-4p47)
-- [Microsoft games made up most of PlayStation&#39;s top sellers in the US last quarter](https://dev.to/gg_news/microsoft-games-made-up-most-of-playstations-top-sellers-in-the-us-last-quarter-3c6o)
-- [After Devil May Cry 5 outsells Monster Hunter Wilds in Capcom&#39;s latest financial quarter, publisher&#39;s share prices tumble](https://dev.to/gg_news/after-devil-may-cry-5-outsells-monster-hunter-wilds-in-capcoms-latest-financial-quarter-fed)
+- [I&#39;m using Claude Code to manage my Neon projects locally now, and... it&#39;s working?](https://dev.to/composiodev/im-using-claude-code-to-manage-my-neon-projects-locally-now-and-its-working-228h)
+- [Hands-On Transformer Deep Dive: Part 2 — Multi-head Attention Variants with Code](https://dev.to/alabebop/hands-on-transformer-deep-dive-part-2-multi-head-attention-variants-with-code-4405)
+- [🚀 5 DevOps Habits That Changed How I Code &lpar;and Ship&rpar;](https://dev.to/samy_1592/5-devops-habits-that-changed-how-i-code-and-ship-53d6)
+- [LeetCode #66. Plus One](https://dev.to/desiato/leetcode-66-plus-one-oh0)
+- [Beyond the Prototype: 15 Hard-Earned Lessons to Ship Production-Ready AI Agents](https://dev.to/paoloap/beyond-the-prototype-15-hard-earned-lessons-to-ship-production-ready-ai-agents-4n2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
