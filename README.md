@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The curious case of ZionVPN](https://dev.to/idane/the-curious-case-of-zionvpn-22ji)
-- [Tutorial: Alpine Linux on Raspberry Pi 3 with Syncthing, OpenVPN and Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-on-raspberry-pi-3-with-syncthing-openvpn-and-docker-2932)
-- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
-- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
-- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
+- [IGN: World of Warcraft: The War Within - Official Ghosts of K’aresh Launch Trailer](https://dev.to/gg_news/ign-world-of-warcraft-the-war-within-official-ghosts-of-karesh-launch-trailer-2dia)
+- [IGN: Battlefield 6 Gameplay: Breakthrough on Liberation Peak](https://dev.to/gg_news/ign-battlefield-6-gameplay-breakthrough-on-liberation-peak-383k)
+- [IGN: Minecraft x Sonic - Official Sonic Add-On Super Update Trailer](https://dev.to/gg_news/ign-minecraft-x-sonic-official-sonic-add-on-super-update-trailer-1ikm)
+- [What&#39;s New in C# 14: User-Defined Compound Assignments](https://dev.to/ivankahl/whats-new-in-c-14-user-defined-compound-assignments-5eb5)
+- [How I Built an Offline AI-Powered NPC System with Godot and Gemma 3n](https://dev.to/code-forge-temple/how-i-built-an-offline-ai-powered-npc-system-with-godot-and-gemma-3n-3n8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
