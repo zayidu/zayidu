@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Phase 2] Personal Portfolio - Analysis](https://dev.to/harushochiho/phase-2-personal-portfolio-analysis-1b91)
-- [Basic Server Hardening for Ubuntu/Debian: SSH Access and Firewall](https://dev.to/joaoprd/basic-server-hardening-for-ubuntudebian-ssh-access-and-firewall-g2e)
-- [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
-- [C# LeetCode 69: Sqrt&lpar;x&rpar;](https://dev.to/grantdotdev/c-leetcode-69-sqrtx-e8e)
-- [Hardening Básico de Servidor Ubuntu/Debian: Acesso SSH e Firewall](https://dev.to/joaoprd/hardening-basico-de-servidor-ubuntudebian-acesso-ssh-e-firewall-5lm)
+- [Understanding Decision Trees](https://dev.to/dev_patel_35864ca1db6093c/understanding-decision-trees-5l7)
+- [Archive Legacy Github Repos with Subtree](https://dev.to/tonymet/archive-legacy-github-repos-with-subtree-1dj3)
+- [SOC &lpar;Security Operations Center&rpar; Fundamentals: A Beginner’s Guide](https://dev.to/moh4med404/soc-security-operations-center-fundamentals-a-beginners-guide-3lf0)
+- [Deploy de funções AWS Lambda com GitHub Actions usando Organizations](https://dev.to/eudu4rdo/deploy-de-funcoes-aws-lambda-com-github-actions-usando-organizations-1p8a)
+- [Deploying your WeChat Mini Program](https://dev.to/karleeov/deploying-your-wechat-mini-program-1i03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
