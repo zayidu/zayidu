@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer’s Guide to Azure Data Protection Services](https://dev.to/oodles-platform/a-developers-guide-to-azure-data-protection-services-7of)
-- [7 Must-Have WordPress Plugins to Grow Your Site in 2025](https://dev.to/anonymous_c13b051b4dded8a/7-must-have-wordpress-plugins-to-grow-your-site-in-2025-1ong)
-- [DocumentFragment Upgaded: A Live, Reparentable DOM Primitive 🌱](https://dev.to/framemuse/documentfragment-upgaded-a-live-reparentable-dom-primitive-3bkh)
-- [Fetch Data with AWS Lambda](https://dev.to/misolainthecloud/fetch-data-with-aws-lambda-1526)
-- [Les erreurs fréquentes dans les devis au forfait](https://dev.to/corentin_teulet/les-erreurs-frequentes-dans-les-devis-au-forfait-1hh9)
+- [[CVE-2025-54424] Critical RCE Vulnerability in 1Panel Pro — Patch Now!](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-54424-critical-rce-vulnerability-in-1panel-pro-patch-now-37o0)
+- [The Rise of the Dog Robot: Man’s New Best Friend?](https://dev.to/benyathip_ccbc2665f3a0cd9/the-rise-of-the-dog-robot-mans-new-best-friend-5bcm)
+- [Weekly Dev Digest: OpenAI&#39;s $8.3B Round, Windows 11 Updates &amp; More](https://dev.to/shiva_shanker_k/weekly-dev-digest-openais-83b-round-windows-11-updates-more-n4p)
+- [[Boost]](https://dev.to/accioprocurement/-3cd8)
+- [News Activity Map with Redis](https://dev.to/shaikhhas/news-activity-map-with-redis-2og3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
