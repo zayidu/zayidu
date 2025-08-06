@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AI Design Thinking? Your Guide to Human-Centered AI](https://dev.to/lollypopdesign/what-is-ai-design-thinking-your-guide-to-human-centered-ai-2895)
-- [The Art of Talking to AI: Prompts That Actually Work for Coding](https://dev.to/extinctsion/the-art-of-talking-to-ai-prompts-that-actually-work-for-coding-4fpe)
-- [Choropleth Maps in R , still hold the importance check them out today!!](https://dev.to/dipti_m_2e7ba36c478d1a48a/choropleth-maps-in-r-still-hold-the-importance-check-them-out-today-28id)
-- [Gmail API developer intro: spotting chatty threads](https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp)
-- [[ForgeCode x OpenAI&#39;s Open Model]: Our First Impression with OpenAI’s GPT‑OSS Models](https://dev.to/forgecode/forgecode-x-openais-open-model-our-first-impression-with-openais-gpt-oss-models-48d2)
+- [6 recommendations on how to use GEO for your brand](https://dev.to/matt_iscanner/6-recommendations-on-how-to-use-geo-for-your-brand-6hg)
+- [Is ChatGPT Thinking While You Type? A Glitch, a Feature, or Something More 🧐](https://dev.to/alifar/is-chatgpt-thinking-while-you-type-a-glitch-a-feature-or-something-more-18i)
+- [5 Easy Steps to Deploy Your Node.js + MongoDB App to Vercel](https://dev.to/devshefali/5-easy-steps-to-deploy-your-nodejs-mongodb-app-to-vercel-2d7k)
+- [Modern Python Package Management with UV – A Practical Developer’s Guide Featuring an Airflow Project Demo](https://dev.to/grayhat/modern-python-package-management-with-uv-a-practical-developers-guide-featuring-an-airflow-3i0d)
+- [Environment variable management with Power Automate](https://dev.to/fernandaek/environment-variable-management-with-power-automate-352k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
