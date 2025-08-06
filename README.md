@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Building Diffuse: A Second Pair of Eyes for AI-Generated Mega PRs](https://dev.to/personofnote/im-building-diffuse-a-second-pair-of-eyes-for-ai-generated-mega-prs-56ap)
-- [C# LeetCode 112: Path Sum -&lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-112-path-sum-easy-3fad)
-- [Building Scalable CI/CD Pipelines with Azure DevOps, Docker, and Private NPM Packages](https://dev.to/vakul_keshav_46acdf8d9aaf/building-scalable-cicd-pipelines-with-azure-devops-docker-and-private-npm-packages-3m7f)
-- [Can OpenAI&#39;s gpt-oss-120b Outperform Llama 3, Mixtral, and Deepseek?](https://dev.to/jovin_george_733dcfc16291/can-openais-gpt-oss-120b-outperform-llama-3-mixtral-and-deepseek-1pj9)
-- [The Hacksmith: The LAST Multi-tool you&#39;ll ever need...](https://dev.to/maker_youtube/the-hacksmith-the-last-multi-tool-youll-ever-need-5941)
+- [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
+- [Need Help Integrating Bootstrap Frontend with CodeIgniter Backend](https://dev.to/najma_malik_edab94ba7b4a8/need-help-integrating-bootstrap-frontend-with-codeigniter-backend-1na7)
+- [Supervised Learning: Discriminant Analysis &amp; Pandas Bfill with Scikit-Learn Labs](https://dev.to/labex/supervised-learning-discriminant-analysis-pandas-bfill-with-scikit-learn-labs-3pmd)
+- [Most AI Agents Are Just Fancy If Statements and That’s Fine](https://dev.to/vadym_info_polus/most-ai-agents-are-just-fancy-if-statements-and-thats-fine-29jo)
+- [How a Python Script Saved Me from Move-Out Madness](https://dev.to/kora_pertenson_0d09b8e1be/how-a-python-script-saved-me-from-move-out-madness-1bne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
