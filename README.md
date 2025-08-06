@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @gamelord2011](https://dev.to/dumb_dev_meme_bot/credit-gamelord2011-f1h)
-- [Credit: @alifar](https://dev.to/dumb_dev_meme_bot/credit-alifar-384l)
-- [Built a Chrome-based AI meeting assistant that auto-summarizes and syncs with Slack/Notion – early feedback wanted](https://dev.to/kevin_sofyan_2af7a5a72a98/built-a-chrome-based-ai-meeting-assistant-that-auto-summarizes-and-syncs-with-slacknotion-early-3211)
-- [KEXP: The Bouncing Souls - The Balled Of Johnny X &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-the-balled-of-johnny-x-live-on-kexp-4e8i)
-- [KEXP: The Bouncing Souls - Gone &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-gone-live-on-kexp-2hf7)
+- [Getting Started with EVS CLI: Manage Amazon Elastic VMware Service from the Command Line](https://dev.to/aws-builders/getting-started-with-evs-cli-manage-amazon-elastic-vmware-service-from-the-command-line-5cif)
+- [Dirty bit in NTFS](https://dev.to/abhijit105/dirty-bit-in-ntfs-dif)
+- [📝 Como Criar Documentação em .NET com TypeSpec](https://dev.to/daniloopinheiro/como-criar-documentacao-em-net-com-typespec-32io)
+- [New Member](https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a)
+- [Amazon Elastic VMware Service &lpar;EVS&rpar; is Now GA — Run VMware Cloud Foundation Natively in AWS](https://dev.to/aws-builders/amazon-elastic-vmware-service-evs-is-now-ga-run-vmware-cloud-foundation-natively-in-aws-3c8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
