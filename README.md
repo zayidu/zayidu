@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mocks, Stubs, and Contract Testing: Explanation with Examples](https://dev.to/ann55/mocks-stubs-and-contract-testing-explanation-with-examples-51n0)
-- [How I Built an Infinite Scroll Photo Gallery with Vue 3 and the Unsplash API](https://dev.to/bunmioye/how-i-built-an-infinite-scroll-photo-gallery-with-vue-3-and-the-unsplash-api-21np)
-- [Customer Relationship Software for Small Businesses](https://dev.to/kazlauskas/customer-relationship-software-for-small-businesses-3d11)
-- [How I created and published a VS Code theme](https://dev.to/mike_andreuzza/how-i-created-and-published-a-vs-code-theme-3p5i)
-- [The Best React Native Resources Every Developer Should Know](https://dev.to/iredox10/the-best-react-native-resources-every-developer-should-know-lo1)
+- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
+- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
+- [📦 Understanding Props in React &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/himanayk/understanding-props-in-react-beginner-friendly-guide-1dbn)
+- [JavaScript Question Part 2](https://dev.to/shubhamkhatik/javascript-question-part-2-1km8)
+- [PKI With No Headache &lpar;Part 3&rpar;: Bits, Bytes, and Trust](https://dev.to/tarique-mirza/pki-with-no-headache-part-3-bits-bytes-and-trust-2f7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
