@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
-- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
-- [📦 Understanding Props in React &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/himanayk/understanding-props-in-react-beginner-friendly-guide-1dbn)
-- [JavaScript Question Part 2](https://dev.to/shubhamkhatik/javascript-question-part-2-1km8)
-- [PKI With No Headache &lpar;Part 3&rpar;: Bits, Bytes, and Trust](https://dev.to/tarique-mirza/pki-with-no-headache-part-3-bits-bytes-and-trust-2f7a)
+- [ใช้ Typhoon-OCR ดึงข้อความจาก PDF/รูปภาพด้วย Python](https://dev.to/ubinix_warun/aich-typhoon-ocr-duengkhkhwaamcchaak-pdfruupphaaphdwy-python-1g)
+- [Learn Basic CSS Media Queries: Build Responsive Layouts for Every Screen Size](https://dev.to/nganggurdev/learn-basic-css-media-queries-build-responsive-layouts-for-every-screen-size-k4g)
+- [🛠️ Fixing the &quot;Outdated WooCommerce Template Files&quot; Error in WordPress – A Step-by-Step Guide](https://dev.to/harshchaudhari/fixing-the-outdated-woocommerce-template-files-error-in-wordpress-a-step-by-step-guide-55ac)
+- [Getting Started: Deploying an MCP Server for Data Projects](https://dev.to/om_shree_0709/getting-started-deploying-an-mcp-server-for-data-projects-e1g)
+- [Day 57: The Reality Check I Needed](https://dev.to/casperday11/day-57-the-reality-check-i-needed-4ld8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
