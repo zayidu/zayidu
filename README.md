@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Traits](https://dev.to/jon49/html-traits-ea2)
-- [Unpacking Containers: CloudWatch’s Role in Docker Monitoring](https://dev.to/aarush07/unpacking-containers-cloudwatchs-role-in-docker-monitoring-12mi)
-- [Concrete Cracks: What Causes Them and How to Fix Them](https://dev.to/concretecontractors/concrete-cracks-what-causes-them-and-how-to-fix-them-140l)
-- [Steps Included To Develop Spicychat.ai Platform Cloning](https://dev.to/rajdeepsuffes/steps-included-to-develop-spicychatai-platform-cloning-3jej)
-- [Mastering Memory: Real-World Examples of Crucial Stack and Heap Management in C/C++](https://dev.to/adityabhuyan/mastering-memory-real-world-examples-of-crucial-stack-and-heap-management-in-cc-4j5g)
+- [Building AI-Powered Data Pipelines: Where Data Engineering Meets Machine Learning](https://dev.to/santosh_ronanki_9438d5944/building-ai-powered-data-pipelines-where-data-engineering-meets-machine-learning-30mc)
+- [I Host N8N in heroku and now I want to update n8n who I update n8n in heroku without losing data](https://dev.to/member_b807d9bf/i-host-n8n-in-heroku-and-now-i-want-to-update-n8n-who-i-update-n8n-in-heroku-without-losing-data-mkj)
+- [Why Home Elevators Aren’t Just For Mansions Anymore](https://dev.to/eurobuild_construction/why-home-elevators-arent-just-for-mansions-anymore-3fjf)
+- [How to add auth-flow between your webapp and extension](https://dev.to/agent_69/how-to-add-auth-flow-between-your-webapp-and-extension-242p)
+- [Wazuh 4.12 Slack Alert Integration](https://dev.to/0xdolan/wazuh-412-slack-alert-integration-3fm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
