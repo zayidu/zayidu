@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Thing I Wish All Tech Recruiters Understood](https://dev.to/rhythmsaha/the-one-thing-i-wish-all-tech-recruiters-understood-2hj3)
-- [&quot;Build Your First Portfolio with React: A Beginner&#39;s Ultimate Guide&quot;](https://dev.to/abdul_fadiga_1f402d165920/build-your-first-portfolio-with-react-a-beginners-ultimate-guide-490f)
-- [🔍 Introducing AI-Powered Semantic Search in `react-data-grid-lite`](https://dev.to/sharmaricky/introducing-ai-powered-semantic-search-in-react-data-grid-lite-2jf8)
-- [Combine Blazor WebAssembly Client and Server Logs: Two-way log streaming with NLog and SignalR](https://dev.to/stewartcelani/combine-blazor-webassembly-client-and-server-logs-two-way-log-streaming-with-nlog-and-signalr-1bd9)
-- [React Native, Right Now! &lpar;RNRN&rpar; — A Starter Kit to Build Faster, Cleaner React Native Apps](https://dev.to/petertoth-dev/react-native-right-now-rnrn-a-starter-kit-to-build-faster-cleaner-react-native-apps-55c4)
+- [Laravel Tinker: Your Best Friend for Testing, Learning, and Debugging](https://dev.to/rohitdhiman/laravel-tinker-your-best-friend-for-testing-learning-and-debugging-2mbb)
+- [The Testing Velocity Crisis: Why Your QA Process Can&#39;t Keep Up With Modern Development](https://dev.to/esha_suchana_3514f571649c/the-testing-velocity-crisis-why-your-qa-process-cant-keep-up-with-modern-development-23ne)
+- [5 Early Warning Signs Your Dev Team is Burning Out &lpar;And How to Fix It Before It&#39;s Too Late&rpar;](https://dev.to/teamcamp/5-early-warning-signs-your-dev-team-is-burning-out-and-how-to-fix-it-before-its-too-late-54f2)
+- [Open AI Releases Open Models](https://dev.to/francescoxx/open-ai-releases-open-models-1m19)
+- [Am I Getting Lazy with AI? A Software Engineer’s Honest Reflection](https://dev.to/luke_tong_d4f228249f32d86/am-i-getting-lazy-with-ai-a-software-engineers-honest-reflection-4c4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
