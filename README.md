@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 recommendations on how to use GEO for your brand](https://dev.to/matt_iscanner/6-recommendations-on-how-to-use-geo-for-your-brand-6hg)
-- [Is ChatGPT Thinking While You Type? A Glitch, a Feature, or Something More 🧐](https://dev.to/alifar/is-chatgpt-thinking-while-you-type-a-glitch-a-feature-or-something-more-18i)
-- [5 Easy Steps to Deploy Your Node.js + MongoDB App to Vercel](https://dev.to/devshefali/5-easy-steps-to-deploy-your-nodejs-mongodb-app-to-vercel-2d7k)
-- [Modern Python Package Management with UV – A Practical Developer’s Guide Featuring an Airflow Project Demo](https://dev.to/grayhat/modern-python-package-management-with-uv-a-practical-developers-guide-featuring-an-airflow-3i0d)
-- [Environment variable management with Power Automate](https://dev.to/fernandaek/environment-variable-management-with-power-automate-352k)
+- [Mocks, Stubs, and Contract Testing: Explanation with Examples](https://dev.to/ann55/mocks-stubs-and-contract-testing-explanation-with-examples-51n0)
+- [How I Built an Infinite Scroll Photo Gallery with Vue 3 and the Unsplash API](https://dev.to/bunmioye/how-i-built-an-infinite-scroll-photo-gallery-with-vue-3-and-the-unsplash-api-21np)
+- [Customer Relationship Software for Small Businesses](https://dev.to/kazlauskas/customer-relationship-software-for-small-businesses-3d11)
+- [How I created and published a VS Code theme](https://dev.to/mike_andreuzza/how-i-created-and-published-a-vs-code-theme-3p5i)
+- [The Best React Native Resources Every Developer Should Know](https://dev.to/iredox10/the-best-react-native-resources-every-developer-should-know-lo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
