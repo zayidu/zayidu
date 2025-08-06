@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Cluster Deployment &lpar;Mini DevOps Project&rpar;](https://dev.to/jioke/kubernetes-cluster-deployment-mini-devops-project-1kop)
-- [Proyectos base &lpar;Scaffolding&rpar; para Springboot, FastApi, React y Express](https://dev.to/luismalamoc/proyectos-base-scaffolding-para-springboot-fastapi-react-y-express-301)
-- [The Hacksmith: We Made a Knife that can CUT THROUGH ANYTHING!](https://dev.to/maker_youtube/the-hacksmith-we-made-a-knife-that-can-cut-through-anything-3jnc)
-- [How to Handle Form Data in AWS Lambda APIs with Powertools OpenAPI Support](https://dev.to/aws-builders/how-to-handle-form-data-in-aws-lambda-apis-with-powertools-openapi-support-4l40)
-- [Adam Savage&#39;s Tested: The Men in Black Neuralyzer: What You Never Noticed!](https://dev.to/maker_youtube/adam-savages-tested-the-men-in-black-neuralyzer-what-you-never-noticed-16cc)
+- [Understanding Goroutines, Concurrency, and Scheduling in Go](https://dev.to/ibtekar/understanding-goroutines-concurrency-and-scheduling-in-go-2ooe)
+- [How to Escape from a Container](https://dev.to/gustavosbarreto/how-to-escape-from-a-container-4p3i)
+- [OpenAI&#39;s GPT-OSS 120B &amp; 20B: A Dev &amp; Founder’s Guide to the Open-Weight Revolution](https://dev.to/kar_s/openais-gpt-oss-120b-20b-a-dev-founders-guide-to-the-open-weight-revolution-2h3b)
+- [Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields](https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc)
+- [The Psychology of Coding: Why Developers Avoid Planning &lpar;and How AI Planning Tools Like Continue Fix It&rpar;](https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
