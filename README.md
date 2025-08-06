@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with EVS CLI: Manage Amazon Elastic VMware Service from the Command Line](https://dev.to/aws-builders/getting-started-with-evs-cli-manage-amazon-elastic-vmware-service-from-the-command-line-5cif)
-- [Dirty bit in NTFS](https://dev.to/abhijit105/dirty-bit-in-ntfs-dif)
-- [📝 Como Criar Documentação em .NET com TypeSpec](https://dev.to/daniloopinheiro/como-criar-documentacao-em-net-com-typespec-32io)
-- [New Member](https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a)
-- [Amazon Elastic VMware Service &lpar;EVS&rpar; is Now GA — Run VMware Cloud Foundation Natively in AWS](https://dev.to/aws-builders/amazon-elastic-vmware-service-evs-is-now-ga-run-vmware-cloud-foundation-natively-in-aws-3c8o)
+- [I&#39;m Building Diffuse: A Second Pair of Eyes for AI-Generated Mega PRs](https://dev.to/personofnote/im-building-diffuse-a-second-pair-of-eyes-for-ai-generated-mega-prs-56ap)
+- [C# LeetCode 112: Path Sum -&lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-112-path-sum-easy-3fad)
+- [Building Scalable CI/CD Pipelines with Azure DevOps, Docker, and Private NPM Packages](https://dev.to/vakul_keshav_46acdf8d9aaf/building-scalable-cicd-pipelines-with-azure-devops-docker-and-private-npm-packages-3m7f)
+- [Can OpenAI&#39;s gpt-oss-120b Outperform Llama 3, Mixtral, and Deepseek?](https://dev.to/jovin_george_733dcfc16291/can-openais-gpt-oss-120b-outperform-llama-3-mixtral-and-deepseek-1pj9)
+- [The Hacksmith: The LAST Multi-tool you&#39;ll ever need...](https://dev.to/maker_youtube/the-hacksmith-the-last-multi-tool-youll-ever-need-5941)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
