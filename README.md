@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Goroutines, Concurrency, and Scheduling in Go](https://dev.to/ibtekar/understanding-goroutines-concurrency-and-scheduling-in-go-2ooe)
-- [How to Escape from a Container](https://dev.to/gustavosbarreto/how-to-escape-from-a-container-4p3i)
-- [OpenAI&#39;s GPT-OSS 120B &amp; 20B: A Dev &amp; Founder’s Guide to the Open-Weight Revolution](https://dev.to/kar_s/openais-gpt-oss-120b-20b-a-dev-founders-guide-to-the-open-weight-revolution-2h3b)
-- [Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields](https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc)
-- [The Psychology of Coding: Why Developers Avoid Planning &lpar;and How AI Planning Tools Like Continue Fix It&rpar;](https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083)
+- [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
+- [Amazon Bedrock with JavaScript: Text, Chat, Streaming &amp; Structured Output via SDK and REST](https://dev.to/dushmanta/amazon-bedrock-with-javascript-text-chat-streaming-structured-output-via-sdk-and-rest-38cm)
+- [AI-Generated Code in 2025: The Silent Security Crisis Developers Can’t Ignore](https://dev.to/arkhan/ai-generated-code-in-2025-the-silent-security-crisis-developers-cant-ignore-4de0)
+- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
+- [IGN: Eden - Official Trailer &lpar;2025&rpar; Jude Law, Ana de Armas, Vanessa Kirby](https://dev.to/gg_news/ign-eden-official-trailer-2025-jude-law-ana-de-armas-vanessa-kirby-4bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
