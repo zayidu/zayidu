@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
-- [Amazon Bedrock with JavaScript: Text, Chat, Streaming &amp; Structured Output via SDK and REST](https://dev.to/dushmanta/amazon-bedrock-with-javascript-text-chat-streaming-structured-output-via-sdk-and-rest-38cm)
-- [AI-Generated Code in 2025: The Silent Security Crisis Developers Can’t Ignore](https://dev.to/arkhan/ai-generated-code-in-2025-the-silent-security-crisis-developers-cant-ignore-4de0)
-- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
-- [IGN: Eden - Official Trailer &lpar;2025&rpar; Jude Law, Ana de Armas, Vanessa Kirby](https://dev.to/gg_news/ign-eden-official-trailer-2025-jude-law-ana-de-armas-vanessa-kirby-4bj)
+- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
+- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
+- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
+- [The AI Discovery Surge of 2025: SEO Rewritten](https://dev.to/kashif-mukhtar/the-ai-discovery-surge-of-2025-seo-rewritten-28ph)
+- [🧠 GenAI as a Backend Engineer: Part 1 - Model Serving](https://dev.to/yuvraj2112/genai-as-a-backend-engineer-part-1-model-serving-17ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
