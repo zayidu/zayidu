@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
-- [Need Help Integrating Bootstrap Frontend with CodeIgniter Backend](https://dev.to/najma_malik_edab94ba7b4a8/need-help-integrating-bootstrap-frontend-with-codeigniter-backend-1na7)
-- [Supervised Learning: Discriminant Analysis &amp; Pandas Bfill with Scikit-Learn Labs](https://dev.to/labex/supervised-learning-discriminant-analysis-pandas-bfill-with-scikit-learn-labs-3pmd)
-- [Most AI Agents Are Just Fancy If Statements and That’s Fine](https://dev.to/vadym_info_polus/most-ai-agents-are-just-fancy-if-statements-and-thats-fine-29jo)
-- [How a Python Script Saved Me from Move-Out Madness](https://dev.to/kora_pertenson_0d09b8e1be/how-a-python-script-saved-me-from-move-out-madness-1bne)
+- [Kubernetes Cluster Deployment &lpar;Mini DevOps Project&rpar;](https://dev.to/jioke/kubernetes-cluster-deployment-mini-devops-project-1kop)
+- [Proyectos base &lpar;Scaffolding&rpar; para Springboot, FastApi, React y Express](https://dev.to/luismalamoc/proyectos-base-scaffolding-para-springboot-fastapi-react-y-express-301)
+- [The Hacksmith: We Made a Knife that can CUT THROUGH ANYTHING!](https://dev.to/maker_youtube/the-hacksmith-we-made-a-knife-that-can-cut-through-anything-3jnc)
+- [How to Handle Form Data in AWS Lambda APIs with Powertools OpenAPI Support](https://dev.to/aws-builders/how-to-handle-form-data-in-aws-lambda-apis-with-powertools-openapi-support-4l40)
+- [Adam Savage&#39;s Tested: The Men in Black Neuralyzer: What You Never Noticed!](https://dev.to/maker_youtube/adam-savages-tested-the-men-in-black-neuralyzer-what-you-never-noticed-16cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
