@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Alive! Project KARL is Now Open Source.](https://dev.to/theaniketraj/its-alive-project-karl-is-now-open-source-4mpb)
-- [Self-Awareness Unlocked: Build a Better, Stronger You from Within](https://dev.to/jhanvi_shukla/self-awareness-unlocked-build-a-better-stronger-you-from-within-pfm)
-- [The CAP Theorem: A Guide for Developers Who Build Real-World Systems](https://dev.to/chetansingh63/the-cap-theorem-a-guide-for-developers-who-build-real-world-systems-2d74)
-- [SafeLine vs Reblaze: Smarter WAF for Modern Web Protection?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-reblaze-smarter-waf-for-modern-web-protection-3bnm)
-- [Do You Know The LATERAL JOIN In SQL?](https://dev.to/mayallo/do-you-know-the-lateral-join-in-sql-489l)
+- [What is AI Design Thinking? Your Guide to Human-Centered AI](https://dev.to/lollypopdesign/what-is-ai-design-thinking-your-guide-to-human-centered-ai-2895)
+- [The Art of Talking to AI: Prompts That Actually Work for Coding](https://dev.to/extinctsion/the-art-of-talking-to-ai-prompts-that-actually-work-for-coding-4fpe)
+- [Choropleth Maps in R , still hold the importance check them out today!!](https://dev.to/dipti_m_2e7ba36c478d1a48a/choropleth-maps-in-r-still-hold-the-importance-check-them-out-today-28id)
+- [Gmail API developer intro: spotting chatty threads](https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp)
+- [[ForgeCode x OpenAI&#39;s Open Model]: Our First Impression with OpenAI’s GPT‑OSS Models](https://dev.to/forgecode/forgecode-x-openais-open-model-our-first-impression-with-openais-gpt-oss-models-48d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
