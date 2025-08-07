@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IP Range Lookup Tool for Quick Security Checks](https://dev.to/aws-builders/aws-ip-range-lookup-tool-for-quick-security-checks-2cih)
-- [Taming Goroutines - Efficient Concurrency with a Worker Pool in Go](https://dev.to/gkoos/taming-goroutines-efficient-concurrency-with-a-worker-pool-in-go-jag)
-- [AI Agent Promised Me a Website in One Prompt. It Forgot to Mention the PTSD of Working on a Legacy Codebas](https://dev.to/biswa_rizal_10c60a4ef3c5b/ai-agent-promised-me-a-website-in-one-prompt-it-forgot-to-mention-the-ptsd-of-working-on-a-legacy-21g6)
-- [This is a great article on design systems.](https://dev.to/mustyy/this-is-a-great-article-on-design-systems-4343)
-- [How to Switch Between Node Versions Using NVM](https://dev.to/lucy1/how-to-switch-between-node-versions-using-nvm-5ac5)
+- [Go Beyond Globals: A Practical Guide to Dependency Injection](https://dev.to/cliffdoyle/go-beyond-globals-a-practical-guide-to-dependency-injection-3i67)
+- [Enhanced Autonomous Underwater Vehicle &lpar;AUV&rpar; Self-Repair via Predictive Damage Modeling &amp; Dynamic Task Re-allocation](https://dev.to/freederia-research/enhanced-autonomous-underwater-vehicle-auv-self-repair-via-predictive-damage-modeling-dynamic-2j4f)
+- [Decibel Meter with ArkTS](https://dev.to/harmonyos/decibel-meter-with-arkts-2b9l)
+- [Benign - TryHackMe](https://dev.to/forrestcaffray/benign-tryhackme-299h)
+- [Why FinTech Companies Should Embrace Talent from Non-Banking &amp; Diverse IT Backgrounds](https://dev.to/tracywhodoesnot/why-fintech-companies-should-embrace-talent-from-non-banking-diverse-it-backgrounds-1oe0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
