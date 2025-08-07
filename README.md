@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Beyond Globals: A Practical Guide to Dependency Injection](https://dev.to/cliffdoyle/go-beyond-globals-a-practical-guide-to-dependency-injection-3i67)
-- [Enhanced Autonomous Underwater Vehicle &lpar;AUV&rpar; Self-Repair via Predictive Damage Modeling &amp; Dynamic Task Re-allocation](https://dev.to/freederia-research/enhanced-autonomous-underwater-vehicle-auv-self-repair-via-predictive-damage-modeling-dynamic-2j4f)
-- [Decibel Meter with ArkTS](https://dev.to/harmonyos/decibel-meter-with-arkts-2b9l)
-- [Benign - TryHackMe](https://dev.to/forrestcaffray/benign-tryhackme-299h)
-- [Why FinTech Companies Should Embrace Talent from Non-Banking &amp; Diverse IT Backgrounds](https://dev.to/tracywhodoesnot/why-fintech-companies-should-embrace-talent-from-non-banking-diverse-it-backgrounds-1oe0)
+- [JavaScript Array Methods: Mutating vs Non-Mutating](https://dev.to/mohinsheikh/javascript-array-methods-mutating-vs-non-mutating-51d9)
+- [LeetCode #36. Valid Sudoku](https://dev.to/desiato/leetcode-36-valid-sudoku-3jmb)
+- [How I Built My 12.8 KB Terminal-Themed Portfolio Site &lpar;and Template&rpar;](https://dev.to/cod-e-codes/how-i-built-my-128-kb-terminal-themed-portfolio-site-and-template-52om)
+- [No title](https://dev.to/jack_higar_f9b07d182558d2/no-title-250d)
+- [Top 10 Custom Software Development Companies in 2025](https://dev.to/vrindasharma/top-10-custom-software-development-companies-in-2025-4md9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
