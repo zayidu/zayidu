@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Array Methods: Mutating vs Non-Mutating](https://dev.to/mohinsheikh/javascript-array-methods-mutating-vs-non-mutating-51d9)
-- [LeetCode #36. Valid Sudoku](https://dev.to/desiato/leetcode-36-valid-sudoku-3jmb)
-- [How I Built My 12.8 KB Terminal-Themed Portfolio Site &lpar;and Template&rpar;](https://dev.to/cod-e-codes/how-i-built-my-128-kb-terminal-themed-portfolio-site-and-template-52om)
-- [No title](https://dev.to/jack_higar_f9b07d182558d2/no-title-250d)
-- [Top 10 Custom Software Development Companies in 2025](https://dev.to/vrindasharma/top-10-custom-software-development-companies-in-2025-4md9)
+- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
+- [IGN: Mafia: The Old Country | The First 28 Minutes of Gameplay 4K 60FPS](https://dev.to/gg_news/ign-mafia-the-old-country-the-first-28-minutes-of-gameplay-4k-60fps-46ge)
+- [IGN: Disciples: Domination - Official Announcement Trailer](https://dev.to/gg_news/ign-disciples-domination-official-announcement-trailer-fmg)
+- [IGN: Wednesday Season 2: Part 1 Review](https://dev.to/gg_news/ign-wednesday-season-2-part-1-review-2m02)
+- [IGN: Grounded 2 Early Access Hits the Ground Running - Unlocked Clips](https://dev.to/gg_news/ign-grounded-2-early-access-hits-the-ground-running-unlocked-clips-3517)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
