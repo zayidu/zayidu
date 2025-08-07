@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Basics: How to Use Enums, Structs, and Interfaces Effectively](https://dev.to/lovestaco/go-basics-how-to-use-enums-structs-and-interfaces-effectively-2bi0)
-- [IGN: Glaciered - Official Nintendo Switch 2 Release Window Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-glaciered-official-nintendo-switch-2-release-window-trailer-nintendo-indie-world-2025-46ji)
-- [IGN: Content Warning - Official Nintendo Switch Announcement Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-content-warning-official-nintendo-switch-announcement-trailer-nintendo-indie-world-2025-5ap4)
-- [IGN: Winter Burrow - Official Release Window Reveal Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-winter-burrow-official-release-window-reveal-trailer-nintendo-indie-world-2025-15ik)
-- [IGN: THE HORROR SECTION: The Piano Killer - Official Trailer &lpar;2025&rpar; Eli Roth, Hailey Kittle](https://dev.to/gg_news/ign-the-horror-section-the-piano-killer-official-trailer-2025-eli-roth-hailey-kittle-3enp)
+- [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
+- [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
+- [🚀 My Developer Portfolio is Live!](https://dev.to/adufe775/my-developer-portfolio-is-live-2ain)
+- [The top_k and top_p Parameters Explained](https://dev.to/uhasker/the-topk-and-topp-parameters-explained-42ao)
+- [Quantifying Spin-Lattice Coupling Anomaly Detection via Bayesian Neural Field Analysis](https://dev.to/freederia-research/quantifying-spin-lattice-coupling-anomaly-detection-via-bayesian-neural-field-analysis-354m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
