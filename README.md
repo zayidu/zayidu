@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Raw C++ to “Plug-and-Play” AI: Why the Human Spark Is Still the Real Engine of the Future](https://dev.to/luisciber/from-raw-c-to-plug-and-play-ai-why-the-human-spark-is-still-the-real-engine-of-the-future-1e2m)
-- [Title: Cognition Announces Staff Exits and Buyout Options Following Windsurf Acquisition](https://dev.to/yagyaraj_sharma_6cd410179/title-cognition-announces-staff-exits-and-buyout-options-following-windsurf-acquisition-33c1)
-- [Advanced Git Commands: Master Rebase, Cherry-Pick &amp; Bisect](https://dev.to/arasosman/advanced-git-commands-master-rebase-cherry-pick-bisect-11nl)
-- [Git Hooks for Automated Code Quality Checks Guide 2025](https://dev.to/arasosman/git-hooks-for-automated-code-quality-checks-guide-2025-372f)
-- [PHP Attributes in Laravel: Complete Guide 2025](https://dev.to/arasosman/php-attributes-in-laravel-complete-guide-2025-3bh8)
+- [Day 4 of Javascript](https://dev.to/bhuvanasri/day-4-of-javascript-f92)
+- [Terbongkar! Rahasia Setup SSH Server Anti-Hack: Panduan Lengkap dari Nol yang Wajib Anda Tahu!](https://dev.to/dhandy_anadry_04a7448a767/terbongkar-rahasia-setup-ssh-server-anti-hack-panduan-lengkap-dari-nol-yang-wajib-anda-tahu-4m2c)
+- [What Exactly Are Import Attributes in JavaScript?](https://dev.to/codeguage/what-exactly-are-import-attributes-in-javascript-1n21)
+- [🏗️ Designing Your Modern Data Platform &lpar;Cloud-Native Edition&rpar;](https://dev.to/qvfagundes/designing-your-modern-data-platform-cloud-native-edition-23ea)
+- [Top 20 Open Source AI Projects with the Most GitHub Stars](https://dev.to/nocobase/top-20-open-source-ai-projects-with-the-most-github-stars-37k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
