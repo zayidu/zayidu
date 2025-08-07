@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Porting and Hands-On Guide for LVGL 8.2 on the OK3568-C Platform under Linux 4.19 Buildroot](https://dev.to/ronnie_r_152dc2151d9449c6/porting-and-hands-on-guide-for-lvgl-82-on-the-ok3568-c-platform-under-linux-419-buildroot-fpc)
+- [Supabase ⚡️ vs. Firebase 🔥: a Complete Comparison ⚔️ in 2025](https://dev.to/bytebase/supabase-vs-firebase-a-complete-comparison-in-2025-1k80)
+- [Peter Finch Golf: Peter Finch vs 6 PGA TOUR Pro Golfers!](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-6-pga-tour-pro-golfers-29mh)
+- [🚀🎯 Speak Your Logic, Get Hired: The AI-Powered DSA Prep Aid You Didn’t Know You Needed 🎙️🤖🔥](https://dev.to/divyasinghdev/speak-your-logic-get-hired-the-ai-powered-dsa-prep-aid-you-didnt-know-you-needed-3ioi)
 - [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
-- [At OWASP Cornucopia we have long stated that we will create more decks, and now we will!](https://dev.to/sydseter/at-owasp-cornucopia-we-have-long-stated-that-we-will-create-more-decks-and-now-we-will-4488)
-- [Learning intervals on the guitar](https://dev.to/highcenburg/learning-intervals-on-the-guitar-59k5)
-- [Automated Refractive Index Matching in Gels via Deep Learning Optimization](https://dev.to/freederia-research/automated-refractive-index-matching-in-gels-via-deep-learning-optimization-5ce0)
-- [AI-Driven Precision Agriculture Optimization via Dynamic Multi-Modal Data Fusion and Reinforcement Learning](https://dev.to/freederia-research/ai-driven-precision-agriculture-optimization-via-dynamic-multi-modal-data-fusion-and-reinforcement-59ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
