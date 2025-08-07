@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
-- [test1](https://dev.to/armaankhan8270/test1-3ep8)
-- [Understanding Constructors in Java: The House-Building Analogy](https://dev.to/sharique_siddiqui_8242dad/understanding-constructors-in-java-the-house-building-analogy-23oc)
-- [Adaptive Real-Time Current Limiting via Predictive Battery Degradation Modeling in Cordless Power Tools](https://dev.to/freederia-research/adaptive-real-time-current-limiting-via-predictive-battery-degradation-modeling-in-cordless-power-3933)
-- [Adding some AI hints to our documentation](https://dev.to/kinde/adding-some-ai-hints-to-our-documentation-1nhf)
+- [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
+- [At OWASP Cornucopia we have long stated that we will create more decks, and now we will!](https://dev.to/sydseter/at-owasp-cornucopia-we-have-long-stated-that-we-will-create-more-decks-and-now-we-will-4488)
+- [Learning intervals on the guitar](https://dev.to/highcenburg/learning-intervals-on-the-guitar-59k5)
+- [Automated Refractive Index Matching in Gels via Deep Learning Optimization](https://dev.to/freederia-research/automated-refractive-index-matching-in-gels-via-deep-learning-optimization-5ce0)
+- [AI-Driven Precision Agriculture Optimization via Dynamic Multi-Modal Data Fusion and Reinforcement Learning](https://dev.to/freederia-research/ai-driven-precision-agriculture-optimization-via-dynamic-multi-modal-data-fusion-and-reinforcement-59ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
