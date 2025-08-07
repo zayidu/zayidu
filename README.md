@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 of Javascript](https://dev.to/bhuvanasri/day-4-of-javascript-f92)
-- [Terbongkar! Rahasia Setup SSH Server Anti-Hack: Panduan Lengkap dari Nol yang Wajib Anda Tahu!](https://dev.to/dhandy_anadry_04a7448a767/terbongkar-rahasia-setup-ssh-server-anti-hack-panduan-lengkap-dari-nol-yang-wajib-anda-tahu-4m2c)
-- [What Exactly Are Import Attributes in JavaScript?](https://dev.to/codeguage/what-exactly-are-import-attributes-in-javascript-1n21)
-- [🏗️ Designing Your Modern Data Platform &lpar;Cloud-Native Edition&rpar;](https://dev.to/qvfagundes/designing-your-modern-data-platform-cloud-native-edition-23ea)
-- [Top 20 Open Source AI Projects with the Most GitHub Stars](https://dev.to/nocobase/top-20-open-source-ai-projects-with-the-most-github-stars-37k)
+- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
+- [Access Private ec2 instances without Public IP using Instance Connect Endpoint](https://dev.to/ashraf-minhaj/access-private-ec2-instances-without-public-ip-using-instance-connect-endpoint-274k)
+- [[Boost]](https://dev.to/rajesh_patel/-f7)
+- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
+- [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
