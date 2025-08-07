@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reimagining Physics Simulations with AI: An In-Depth Look at Rescale’s Platform](https://dev.to/nick_johnson/reimagining-physics-simulations-with-ai-an-in-depth-look-at-rescales-platform-4144)
-- [Vector Databases Under the Hood: Practical Insights from Automotive Data Implementation](https://dev.to/schiffer_kate_18420bf9766/vector-databases-under-the-hood-practical-insights-from-automotive-data-implementation-657)
-- [I Built an AI Tool That Reviews GitHub PRs — Would Love Your Feedback](https://dev.to/anhhpencil/i-built-an-ai-tool-that-reviews-github-prs-would-love-your-feedback-1ci1)
-- [OpenTelemetry Tracing on the JVM](https://dev.to/nfrankel/opentelemetry-tracing-on-the-jvm-2p1d)
-- [Advanced Centrifugal Pump Cavitation Mitigation via Real-Time Harmonic Resonance Control](https://dev.to/freederia-research/advanced-centrifugal-pump-cavitation-mitigation-via-real-time-harmonic-resonance-control-3hp4)
+- [Highcharts Full Circle SolidGauge Donut Chart with Multiple Segments](https://dev.to/dropways/highcharts-full-circle-solidgauge-donut-chart-with-multiple-segments-2df0)
+- [Fylgja 2.1 is Live: New Utilities, Performance Boosts, and More](https://dev.to/fylgja/fylgja-21-is-live-new-utilities-performance-boosts-and-more-477k)
+- [NPR Music: MIKE: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mike-tiny-desk-concert-64k)
+- [Roof Repair in Bellingham, WA: Protecting Homes from the Elements](https://dev.to/abeniabara8912/roof-repair-in-bellingham-wa-protecting-homes-from-the-elements-5fg6)
+- [Safe Exploration via Constrained Bayesian Optimization with Multi-Objective Reward Shaping](https://dev.to/freederia-research/safe-exploration-via-constrained-bayesian-optimization-with-multi-objective-reward-shaping-48ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
