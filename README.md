@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
-- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
-- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
-- [Testando com Monkey Patching](https://dev.to/_richardson_/testando-com-monkey-patching-10c8)
+- [Simone Giertz: What I’ve learned from 10 years on YouTube](https://dev.to/maker_youtube/simone-giertz-what-ive-learned-from-10-years-on-youtube-3i9o)
+- [GameSpot: Ninja Gaiden 4 Is Exactly The Ninja Gaiden Game You&#39;re Hoping It Will Be | Hands-On Impressions](https://dev.to/gg_news/gamespot-ninja-gaiden-4-is-exactly-the-ninja-gaiden-game-youre-hoping-it-will-be-hands-on-37h3)
+- [IGN: Dying Light: The Beast - Official Inside Bober&#39;s Safe Zone Live-Action Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-inside-bobers-safe-zone-live-action-trailer-305)
+- [IGN: Jurassic World Evolution 3 - Official &#39;Shaping Your Parks&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-shaping-your-parks-feature-trailer-o8c)
+- [IGN: Doom: The Dark Ages - Official Update 2 Launch Trailer](https://dev.to/gg_news/ign-doom-the-dark-ages-official-update-2-launch-trailer-2gpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
