@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
-- [IGN: Mafia: The Old Country | The First 28 Minutes of Gameplay 4K 60FPS](https://dev.to/gg_news/ign-mafia-the-old-country-the-first-28-minutes-of-gameplay-4k-60fps-46ge)
-- [IGN: Disciples: Domination - Official Announcement Trailer](https://dev.to/gg_news/ign-disciples-domination-official-announcement-trailer-fmg)
-- [IGN: Wednesday Season 2: Part 1 Review](https://dev.to/gg_news/ign-wednesday-season-2-part-1-review-2m02)
-- [IGN: Grounded 2 Early Access Hits the Ground Running - Unlocked Clips](https://dev.to/gg_news/ign-grounded-2-early-access-hits-the-ground-running-unlocked-clips-3517)
+- [Popular 1980s actor Loni Anderson of the hit TV series ‘WKRP in Cincinnati&#39; has died](https://dev.to/popcorn_tv/popular-1980s-actor-loni-anderson-of-the-hit-tv-series-wkrp-in-cincinnati-has-died-3f8m)
+- [‘Wednesday&#39; Season 2 Review: Jenna Ortega Gets Lost Amid Addams Family Mayhem in Overcrowded Netflix Return](https://dev.to/popcorn_tv/wednesday-season-2-review-jenna-ortega-gets-lost-amid-addams-family-mayhem-in-overcrowded-53a8)
+- [Alien: Earth is &#39;Andor for Alien&#39; — Review](https://dev.to/popcorn_tv/alien-earth-is-andor-for-alien-review-27n5)
+- [Marvel&#39;s &#39;Vision&#39; Series, Starring Paul Bettany, Wraps Filming](https://dev.to/popcorn_tv/marvels-vision-series-starring-paul-bettany-wraps-filming-221e)
+- [‘Alien: Earth&#39; Review: Noah Hawley&#39;s TV Spinoff Masterfully Expands Franchise&#39;s Exploration of Humanity](https://dev.to/popcorn_tv/alien-earth-review-noah-hawleys-tv-spinoff-masterfully-expands-franchises-exploration-of-kjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
