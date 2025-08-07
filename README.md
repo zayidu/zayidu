@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Porting and Hands-On Guide for LVGL 8.2 on the OK3568-C Platform under Linux 4.19 Buildroot](https://dev.to/ronnie_r_152dc2151d9449c6/porting-and-hands-on-guide-for-lvgl-82-on-the-ok3568-c-platform-under-linux-419-buildroot-fpc)
-- [Supabase ⚡️ vs. Firebase 🔥: a Complete Comparison ⚔️ in 2025](https://dev.to/bytebase/supabase-vs-firebase-a-complete-comparison-in-2025-1k80)
-- [Peter Finch Golf: Peter Finch vs 6 PGA TOUR Pro Golfers!](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-6-pga-tour-pro-golfers-29mh)
-- [🚀🎯 Speak Your Logic, Get Hired: The AI-Powered DSA Prep Aid You Didn’t Know You Needed 🎙️🤖🔥](https://dev.to/divyasinghdev/speak-your-logic-get-hired-the-ai-powered-dsa-prep-aid-you-didnt-know-you-needed-3ioi)
-- [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
+- [Reimagining Physics Simulations with AI: An In-Depth Look at Rescale’s Platform](https://dev.to/nick_johnson/reimagining-physics-simulations-with-ai-an-in-depth-look-at-rescales-platform-4144)
+- [Vector Databases Under the Hood: Practical Insights from Automotive Data Implementation](https://dev.to/schiffer_kate_18420bf9766/vector-databases-under-the-hood-practical-insights-from-automotive-data-implementation-657)
+- [I Built an AI Tool That Reviews GitHub PRs — Would Love Your Feedback](https://dev.to/anhhpencil/i-built-an-ai-tool-that-reviews-github-prs-would-love-your-feedback-1ci1)
+- [OpenTelemetry Tracing on the JVM](https://dev.to/nfrankel/opentelemetry-tracing-on-the-jvm-2p1d)
+- [Advanced Centrifugal Pump Cavitation Mitigation via Real-Time Harmonic Resonance Control](https://dev.to/freederia-research/advanced-centrifugal-pump-cavitation-mitigation-via-real-time-harmonic-resonance-control-3hp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
