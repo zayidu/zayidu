@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
-- [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
-- [🚀 My Developer Portfolio is Live!](https://dev.to/adufe775/my-developer-portfolio-is-live-2ain)
-- [The top_k and top_p Parameters Explained](https://dev.to/uhasker/the-topk-and-topp-parameters-explained-42ao)
-- [Quantifying Spin-Lattice Coupling Anomaly Detection via Bayesian Neural Field Analysis](https://dev.to/freederia-research/quantifying-spin-lattice-coupling-anomaly-detection-via-bayesian-neural-field-analysis-354m)
+- [Adobe Creative Cloud: Editing the Same Scenario 3 Different Ways Using Adobe Stock](https://dev.to/design_youtube/adobe-creative-cloud-editing-the-same-scenario-3-different-ways-using-adobe-stock-3gg0)
+- [IGN: Pokemon Unite - Official Latias Overview Trailer](https://dev.to/gg_news/ign-pokemon-unite-official-latias-overview-trailer-38o1)
+- [IGN: Fortnite - Official OG Season 5 &#39;Worlds Collide Again&#39; Launch Trailer](https://dev.to/gg_news/ign-fortnite-official-og-season-5-worlds-collide-again-launch-trailer-4bik)
+- [IGN: Composer Akira Yamaoka Reflects on Returning to Silent Hill 2 23 Years Later](https://dev.to/gg_news/ign-composer-akira-yamaoka-reflects-on-returning-to-silent-hill-2-23-years-later-17nl)
+- [The Complete Nginx Mastery Series: From Zero to Production Hero](https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
