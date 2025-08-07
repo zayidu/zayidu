@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multithreading in Java Explained: A Washing Machine Analogy](https://dev.to/sharique_siddiqui_8242dad/multithreading-in-java-explained-a-washing-machine-analogy-3g0g)
-- [The Ultimate C# Tutorial: Learn by Building Real Projects](https://dev.to/suraj_kumar_fb57ae0928df2/the-ultimate-c-tutorial-learn-by-building-real-projects-460c)
-- [DSA Tutorial: Learn Data Structures and Algorithms Step-by-Step](https://dev.to/rishabhtpt/dsa-tutorial-learn-data-structures-and-algorithms-step-by-step-4bnd)
-- [DSDM &lpar;Dynamic Systems Development Method&rpar;: Business-Centric Agile](https://dev.to/dct_technology/dsdm-dynamic-systems-development-method-business-centric-agile-10gd)
-- [Top 5 Interview Questions for Senior iOS Developers: A Tutorial Guide](https://dev.to/nandamochammad/top-5-interview-questions-for-senior-ios-developers-a-tutorial-guide-1aj6)
+- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
+- [test1](https://dev.to/armaankhan8270/test1-3ep8)
+- [Understanding Constructors in Java: The House-Building Analogy](https://dev.to/sharique_siddiqui_8242dad/understanding-constructors-in-java-the-house-building-analogy-23oc)
+- [Adaptive Real-Time Current Limiting via Predictive Battery Degradation Modeling in Cordless Power Tools](https://dev.to/freederia-research/adaptive-real-time-current-limiting-via-predictive-battery-degradation-modeling-in-cordless-power-3933)
+- [Adding some AI hints to our documentation](https://dev.to/kinde/adding-some-ai-hints-to-our-documentation-1nhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
