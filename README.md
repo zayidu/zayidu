@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
-- [Access Private ec2 instances without Public IP using Instance Connect Endpoint](https://dev.to/ashraf-minhaj/access-private-ec2-instances-without-public-ip-using-instance-connect-endpoint-274k)
-- [[Boost]](https://dev.to/rajesh_patel/-f7)
-- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
-- [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
+- [Multithreading in Java Explained: A Washing Machine Analogy](https://dev.to/sharique_siddiqui_8242dad/multithreading-in-java-explained-a-washing-machine-analogy-3g0g)
+- [The Ultimate C# Tutorial: Learn by Building Real Projects](https://dev.to/suraj_kumar_fb57ae0928df2/the-ultimate-c-tutorial-learn-by-building-real-projects-460c)
+- [DSA Tutorial: Learn Data Structures and Algorithms Step-by-Step](https://dev.to/rishabhtpt/dsa-tutorial-learn-data-structures-and-algorithms-step-by-step-4bnd)
+- [DSDM &lpar;Dynamic Systems Development Method&rpar;: Business-Centric Agile](https://dev.to/dct_technology/dsdm-dynamic-systems-development-method-business-centric-agile-10gd)
+- [Top 5 Interview Questions for Senior iOS Developers: A Tutorial Guide](https://dev.to/nandamochammad/top-5-interview-questions-for-senior-ios-developers-a-tutorial-guide-1aj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
