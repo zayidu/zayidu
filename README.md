@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Popular 1980s actor Loni Anderson of the hit TV series ‘WKRP in Cincinnati&#39; has died](https://dev.to/popcorn_tv/popular-1980s-actor-loni-anderson-of-the-hit-tv-series-wkrp-in-cincinnati-has-died-3f8m)
-- [‘Wednesday&#39; Season 2 Review: Jenna Ortega Gets Lost Amid Addams Family Mayhem in Overcrowded Netflix Return](https://dev.to/popcorn_tv/wednesday-season-2-review-jenna-ortega-gets-lost-amid-addams-family-mayhem-in-overcrowded-53a8)
-- [Alien: Earth is &#39;Andor for Alien&#39; — Review](https://dev.to/popcorn_tv/alien-earth-is-andor-for-alien-review-27n5)
-- [Marvel&#39;s &#39;Vision&#39; Series, Starring Paul Bettany, Wraps Filming](https://dev.to/popcorn_tv/marvels-vision-series-starring-paul-bettany-wraps-filming-221e)
-- [‘Alien: Earth&#39; Review: Noah Hawley&#39;s TV Spinoff Masterfully Expands Franchise&#39;s Exploration of Humanity](https://dev.to/popcorn_tv/alien-earth-review-noah-hawleys-tv-spinoff-masterfully-expands-franchises-exploration-of-kjc)
+- [How I Used AI Workflows + GitHub Copilot to Rapidly Build a Production-Ready iOS App](https://dev.to/deepanshu_maliyan/how-i-used-ai-workflows-github-copilot-to-rapidly-build-a-production-ready-ios-app-3lbf)
+- [Adam Savage&#39;s Tested: Adam Savage Wields Hacksmith&#39;s Titanium EDC Multi-Tool!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wields-hacksmiths-titanium-edc-multi-tool-1bcd)
+- [COLORS: Coco Jones - Other Side Of Love | A COLORS SHOW](https://dev.to/music_youtube/colors-coco-jones-other-side-of-love-a-colors-show-2k71)
+- [KEXP: fish narc - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-full-performance-live-on-kexp-2la3)
+- [IGN: Is This Seat Taken? - Official Launch Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-is-this-seat-taken-official-launch-trailer-nintendo-indie-world-2025-4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
