@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used AI Workflows + GitHub Copilot to Rapidly Build a Production-Ready iOS App](https://dev.to/deepanshu_maliyan/how-i-used-ai-workflows-github-copilot-to-rapidly-build-a-production-ready-ios-app-3lbf)
-- [Adam Savage&#39;s Tested: Adam Savage Wields Hacksmith&#39;s Titanium EDC Multi-Tool!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wields-hacksmiths-titanium-edc-multi-tool-1bcd)
-- [COLORS: Coco Jones - Other Side Of Love | A COLORS SHOW](https://dev.to/music_youtube/colors-coco-jones-other-side-of-love-a-colors-show-2k71)
-- [KEXP: fish narc - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-full-performance-live-on-kexp-2la3)
-- [IGN: Is This Seat Taken? - Official Launch Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-is-this-seat-taken-official-launch-trailer-nintendo-indie-world-2025-4p)
+- [Small Language Models: A better way to Agentic AI](https://dev.to/coralprotocol/small-language-models-a-better-way-to-agentic-ai-4o7)
+- [Why We Don’t Need Kubernetes for Services That Only Require a Couple of Servers](https://dev.to/tracywhodoesnot/why-we-dont-need-kubernetes-for-services-that-only-require-a-couple-of-servers-1o7k)
+- [GPT-5 Just Dropped. Here&#39;s Why Your Automation Stack Is Already Outdated](https://dev.to/alifar/gpt-5-just-dropped-heres-why-your-automation-stack-is-already-outdated-2lmj)
+- [Building an Intelligent Task Router for Multi-Model AI Systems with ML.NET](https://dev.to/auyeungdavid_2847435260/building-an-intelligent-task-router-for-multi-model-ai-systems-with-mlnet-hbo)
+- [5 Python Scripts That Taught Me Real-World Parsing and Automation](https://dev.to/1fahadshah/5-python-scripts-that-taught-me-real-world-parsing-and-automation-k9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
