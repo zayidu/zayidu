@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
-- [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
-- [Adaptive Lens Profile Generation via Multi-Modal Data Fusion &amp; Bayesian Optimization](https://dev.to/freederia-research/adaptive-lens-profile-generation-via-multi-modal-data-fusion-bayesian-optimization-39d3)
-- [Guía de activación de Windows 11](https://dev.to/pcsupport/guia-de-activacion-de-windows-11-592p)
-- [🎭 A CGAN Story: Three Attempts and an Incomplete Ending](https://dev.to/ertugrulmutlu/a-cgan-story-three-attempts-and-an-incomplete-ending-2a1b)
+- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
+- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
+- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
+- [Create API with NestJS using TDD approach, part 3!!](https://dev.to/joedev090/create-api-with-nestjs-using-tdd-approach-part-3-4j2a)
+- [Best Web Development Frameworks for 2026](https://dev.to/abubakersiddique761/best-web-development-frameworks-for-2026-3h0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
