@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5: The Dawn of a New Era in Artificial Intelligence](https://dev.to/srijan-xi/gpt-5-the-dawn-of-a-new-era-in-artificial-intelligence-m44)
-- [Originality, Creativity, Visibility: The Three Multipliers of Modern Success](https://dev.to/blackscripts/originality-creativity-visibility-the-three-multipliers-of-modern-success-1j8c)
-- [Best Practices for Creating Error Code Patterns](https://dev.to/siswoyo/best-practices-for-creating-error-code-patterns-25nk)
-- [📘 LAMP Stack Implementation on AWS &lpar;EC2&rpar; &gt; Linux | Apache | MySQL | PHP](https://dev.to/heritageolaleye/lamp-stack-implementation-on-aws-ec2-linux-apache-mysql-php-2k6d)
-- [cloud vs local tools?](https://dev.to/nikolas_dimitroulakis_d23/cloud-vs-local-tools-1d39)
+- [Following Concord&#39;s historic failure, Sony admits its live-service push is &quot;not entirely going smoothly”](https://dev.to/gg_news/following-concords-historic-failure-sony-admits-its-live-service-push-is-not-entirely-going-1ede)
+- [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-23ci)
+- [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-bhn)
+- [Valve point to Mastercard restrictions as the payment firm deny influencing adult game removals](https://dev.to/gg_news/valve-point-to-mastercard-restrictions-as-the-payment-firm-deny-influencing-adult-game-removals-31li)
+- [Baldur&#39;s Gate 3 Actor Thinks Video Game Performers Are Being &quot;Slept On&quot; In Film And TV Adaptations](https://dev.to/gg_news/baldurs-gate-3-actor-thinks-video-game-performers-are-being-slept-on-in-film-and-tv-adaptations-55gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
