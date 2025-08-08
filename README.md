@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Money Fast with gpt-oss AI](https://dev.to/abubakersiddique761/make-money-fast-with-gpt-oss-ai-p71)
-- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
-- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
-- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
-- [Create API with NestJS using TDD approach, part 3!!](https://dev.to/joedev090/create-api-with-nestjs-using-tdd-approach-part-3-4j2a)
+- [Day 41/180 of Frontend Dev: Styling Forms and Tables](https://dev.to/code_2/day-41180-of-frontend-dev-styling-forms-and-tables-56he)
+- [Data Science Resume Feedback and Semantic Job Recommendation System](https://dev.to/eric_mariasis_39a2ea00e17/data-science-resume-feedback-and-semantic-job-recommendation-system-3fma)
+- [Golf.com: We Found The Most Accurate Launch Monitor In Golf](https://dev.to/youtube_golf/golfcom-we-found-the-most-accurate-launch-monitor-in-golf-531d)
+- [GameSpot: Grounded 2: Early Access First Impressions &lpar;Everything I Think&rpar;](https://dev.to/gg_news/gamespot-grounded-2-early-access-first-impressions-everything-i-think-2e17)
+- [GameSpot: Why I Can&#39;t Stop Playing Elden Ring: Nightreign](https://dev.to/gg_news/gamespot-why-i-cant-stop-playing-elden-ring-nightreign-3mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
