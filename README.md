@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Tracked a Real-World Web Assailant Using Firebase + Cloudflare](https://dev.to/formantaudio/how-i-tracked-a-real-world-web-assailant-using-firebase-cloudflare-31h9)
-- [What are Ensemble Methods, Bagging, and Random Forests?](https://dev.to/dev_patel_35864ca1db6093c/what-are-ensemble-methods-bagging-and-random-forests-42j9)
-- [LLMs Crawled Me. Google Didn’t. What I Did Next](https://dev.to/engineeredai/llms-crawled-me-google-didnt-what-i-did-next-32n8)
-- [Why Your AI Tools Can’t Grasp Your Design Intent and What You Can Do About It](https://dev.to/jay_all_day/why-your-ai-tools-cant-grasp-your-design-intent-and-what-you-can-do-about-it-db7)
-- [🍲Beginners guide to &quot;Leetcode 808: Soup Serving&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-808-soup-servingc-javascript-python-405p)
+- [Starting My IT Journey](https://dev.to/ajayr18/starting-my-it-journey-286n)
+- [Kingdee ERP Zero-Day? ScpSupRegHandler File Upload Exploit Explained](https://dev.to/sharon_42e16b8da44dabde6d/kingdee-erp-zero-day-scpsupreghandler-file-upload-exploit-explained-1jen)
+- [How to Create Your First Lambda Function &lpar;No DevOps Needed&rpar; ⚡🧑‍💻](https://dev.to/yash_sonawane25/how-to-create-your-first-lambda-function-no-devops-needed-166h)
+- [Unsupervised machine learning: Kmeans &lpar;3 blobs&rpar;](https://dev.to/ashwani_kumar_a70ee558a2c/unsupervised-machine-learning-kmeans-3-blobs-a65)
+- [Mastering APP_INITIALIZER in Angular’s Standalone Architecture — With Real-World Example](https://dev.to/vetriselvan_11/mastering-appinitializer-in-angulars-standalone-architecture-with-real-world-example-55dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
