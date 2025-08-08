@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My IT Journey](https://dev.to/ajayr18/starting-my-it-journey-286n)
-- [Kingdee ERP Zero-Day? ScpSupRegHandler File Upload Exploit Explained](https://dev.to/sharon_42e16b8da44dabde6d/kingdee-erp-zero-day-scpsupreghandler-file-upload-exploit-explained-1jen)
-- [How to Create Your First Lambda Function &lpar;No DevOps Needed&rpar; ⚡🧑‍💻](https://dev.to/yash_sonawane25/how-to-create-your-first-lambda-function-no-devops-needed-166h)
-- [Unsupervised machine learning: Kmeans &lpar;3 blobs&rpar;](https://dev.to/ashwani_kumar_a70ee558a2c/unsupervised-machine-learning-kmeans-3-blobs-a65)
-- [Mastering APP_INITIALIZER in Angular’s Standalone Architecture — With Real-World Example](https://dev.to/vetriselvan_11/mastering-appinitializer-in-angulars-standalone-architecture-with-real-world-example-55dp)
+- [Program on while loop](https://dev.to/preethi_nandhagopal_6d075/program-on-while-loop-4bk0)
+- [What&#39;s New in GPT 5 That Benefits Developers?](https://dev.to/dhruvjoshi9/whats-new-in-gpt-5-that-benefits-developers-4kdn)
+- [Practical lessons from building production agentic systems](https://dev.to/urbanisierung/practical-lessons-from-building-production-agentic-systems-5ea6)
+- [AI-Powered Data Engineering Pipelines: Smarter, Faster, Scalable](https://dev.to/santosh_ronanki_9438d5944/ai-powered-data-engineering-pipelines-smarter-faster-scalable-l5e)
+- [𝗦𝗺𝗮𝗿𝘁 𝗔𝗹𝗲𝗿𝘁𝘀: 𝗘𝗺𝗮𝗶𝗹 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗜/𝗖𝗗 𝗙𝗮𝗶𝗹𝘂𝗿𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--6dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
