@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Strategy Behind Vennar Builds capes&#39; Bold New Identity by Creador Designs From a Name to a Brand: The Challenge](https://dev.to/creadoedesign_dc8b68907e86/the-strategy-behind-vennar-builds-capes-bold-new-identity-by-creador-designs-from-a-name-to-a-3mh5)
-- [String, StringBuilder and StringBuffer: An Analogy](https://dev.to/sharique_siddiqui_8242dad/string-stringbuilder-and-stringbuffer-an-analogy-ogh)
-- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
-- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
-- [[Boost]](https://dev.to/nikhil_sachapara/-3722)
+- [INSTALLING NODE.JS](https://dev.to/asran_2025/installing-nodejs-4ba0)
+- [Agile Unified Process &lpar;AUP&rpar;: Combining Agile with Unified Modeling](https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk)
+- [Practice#1: Regular Filtering and Grouping &amp; Aggregation](https://dev.to/esproc_spl/practice1-regular-filtering-and-grouping-aggregation-5e9n)
+- [Dapr support with Postgres](https://dev.to/sirivarma/dapr-support-with-postgres-1e3b)
+- [Tiranga Game: A Celebration of Patriotism and Unity](https://dev.to/lacy_marquez_dd4932035f06/tiranga-game-a-celebration-of-patriotism-and-unity-3275)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
