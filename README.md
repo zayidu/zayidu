@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 41/180 of Frontend Dev: Styling Forms and Tables](https://dev.to/code_2/day-41180-of-frontend-dev-styling-forms-and-tables-56he)
-- [Data Science Resume Feedback and Semantic Job Recommendation System](https://dev.to/eric_mariasis_39a2ea00e17/data-science-resume-feedback-and-semantic-job-recommendation-system-3fma)
-- [Golf.com: We Found The Most Accurate Launch Monitor In Golf](https://dev.to/youtube_golf/golfcom-we-found-the-most-accurate-launch-monitor-in-golf-531d)
-- [GameSpot: Grounded 2: Early Access First Impressions &lpar;Everything I Think&rpar;](https://dev.to/gg_news/gamespot-grounded-2-early-access-first-impressions-everything-i-think-2e17)
-- [GameSpot: Why I Can&#39;t Stop Playing Elden Ring: Nightreign](https://dev.to/gg_news/gamespot-why-i-cant-stop-playing-elden-ring-nightreign-3mi)
+- [Case Study – Automating an ETL Pipeline with MCP](https://dev.to/om_shree_0709/case-study-automating-an-etl-pipeline-with-mcp-55cp)
+- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
+- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
+- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
+- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
