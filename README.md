@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling to Millions: Proven System Design Strategies for High-Traffic Apps](https://dev.to/muhayminbinmehmood/scaling-to-millions-proven-system-design-strategies-for-high-traffic-apps-1c3a)
-- [The 4-Day Work Week for Developers: 12 Companies Sharing Real Data](https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl)
-- [Monitoring Your App with Prometheus and Grafana](https://dev.to/addwebsolutionpvtltd/monitoring-your-app-with-prometheus-and-grafana-3p97)
-- [Angular Signals + RxJS: объединяем два реактивных мира в одном стейт-менеджере](https://dev.to/del4k1/angular-signals-rxjs-obiediniaiem-dva-rieaktivnykh-mira-v-odnom-stieit-mieniedzhierie-4o3n)
-- [[Boost]](https://dev.to/davidongora/-16b6)
+- [How to Localize Checkout Flows for African Markets](https://dev.to/flutterwaveeng/how-to-localize-checkout-flows-for-african-markets-1p0p)
+- [Scrape YouTube videos in Python](https://dev.to/serpapi/scrape-youtube-videos-in-python-1p6d)
+- [CloudStroll - Redis Challenge](https://dev.to/ameysunu/cloudstroll-redis-challenge-en5)
+- [Your Guide to a Construction Management Plan](https://dev.to/microestimates/your-guide-to-a-construction-management-plan-58dp)
+- [A Beginner’s Guide to Smarter Tracking with Google Analytics 4](https://dev.to/anonymous_c13b051b4dded8a/a-beginners-guide-to-smarter-tracking-with-google-analytics-4-5020)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
