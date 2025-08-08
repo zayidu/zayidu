@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [INSTALLING NODE.JS](https://dev.to/asran_2025/installing-nodejs-4ba0)
-- [Agile Unified Process &lpar;AUP&rpar;: Combining Agile with Unified Modeling](https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk)
-- [Practice#1: Regular Filtering and Grouping &amp; Aggregation](https://dev.to/esproc_spl/practice1-regular-filtering-and-grouping-aggregation-5e9n)
-- [Dapr support with Postgres](https://dev.to/sirivarma/dapr-support-with-postgres-1e3b)
-- [Tiranga Game: A Celebration of Patriotism and Unity](https://dev.to/lacy_marquez_dd4932035f06/tiranga-game-a-celebration-of-patriotism-and-unity-3275)
+- [Scaling to Millions: Proven System Design Strategies for High-Traffic Apps](https://dev.to/muhayminbinmehmood/scaling-to-millions-proven-system-design-strategies-for-high-traffic-apps-1c3a)
+- [The 4-Day Work Week for Developers: 12 Companies Sharing Real Data](https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl)
+- [Monitoring Your App with Prometheus and Grafana](https://dev.to/addwebsolutionpvtltd/monitoring-your-app-with-prometheus-and-grafana-3p97)
+- [Angular Signals + RxJS: объединяем два реактивных мира в одном стейт-менеджере](https://dev.to/del4k1/angular-signals-rxjs-obiediniaiem-dva-rieaktivnykh-mira-v-odnom-stieit-mieniedzhierie-4o3n)
+- [[Boost]](https://dev.to/davidongora/-16b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
