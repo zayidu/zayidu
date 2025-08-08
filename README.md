@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning: Unlocking Precision and Performance in AI Models](https://dev.to/cyfutureai/fine-tuning-unlocking-precision-and-performance-in-ai-models-1l6d)
-- [Optimizing JVM Memory Footprint for High-Throughput Stream Processing Pipelines](https://dev.to/xuan_56087d315ff4f52254e6/optimizing-jvm-memory-footprint-for-high-throughput-stream-processing-pipelines-43f4)
-- [🕵️‍♂️ The Silent Bug That Wastes Hours — and How to Kill It](https://dev.to/rajguru_yadav_56d13a7b8fc/the-silent-bug-that-wastes-hours-and-how-to-kill-it-23kf)
-- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
-- [Numerology Based on Birthdate Your Personal Code](https://dev.to/lifepurposeapp/numerology-based-on-birthdate-your-personal-code-10j)
+- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
+- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
+- [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
+- [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
+- [FTSOv2: The Sub-2-Second Oracle That’s Killing DeFi’s Latency Problem](https://dev.to/kaushtubh_agrawal_ecb4f34/ftsov2-the-sub-2-second-oracle-thats-killing-defis-latency-problem-2097)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
