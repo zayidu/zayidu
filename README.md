@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apaixonado por desenvolvimento web e raciocínio lógico. Explorando HTML, CSS e JavaScript para criar experiências interativas. Curioso por ciência, som cinematográfico e nomes com significado. Sempre em busca de aprender e construir com propósito.](https://dev.to/almirante_orlandomoiane_/apaixonado-por-desenvolvimento-web-e-raciocinio-logico-explorando-html-css-e-javascript-para-1mpd)
-- [How to Deploy Your App with Docker on Render in 5 Minutes](https://dev.to/zedai00/how-to-deploy-your-app-with-docker-on-render-in-5-minutes-1fi3)
-- [3D Printing Nerd: BIG PRINTS on SMALL PLATES](https://dev.to/maker_youtube/3d-printing-nerd-big-prints-on-small-plates-f8a)
-- [High-Throughput, Solvent-Free Plasma Polymerization for Lithium-Ion Separator Coating Optimization](https://dev.to/freederia-research/high-throughput-solvent-free-plasma-polymerization-for-lithium-ion-separator-coating-optimization-3pm8)
-- [Mastering Go File Wizardry 🧙‍♂️📁](https://dev.to/tavernetech/mastering-go-file-wizardry-3nnc)
+- [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
+- [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
+- [Adaptive Lens Profile Generation via Multi-Modal Data Fusion &amp; Bayesian Optimization](https://dev.to/freederia-research/adaptive-lens-profile-generation-via-multi-modal-data-fusion-bayesian-optimization-39d3)
+- [Guía de activación de Windows 11](https://dev.to/pcsupport/guia-de-activacion-de-windows-11-592p)
+- [🎭 A CGAN Story: Three Attempts and an Incomplete Ending](https://dev.to/ertugrulmutlu/a-cgan-story-three-attempts-and-an-incomplete-ending-2a1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
