@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Program on while loop](https://dev.to/preethi_nandhagopal_6d075/program-on-while-loop-4bk0)
-- [What&#39;s New in GPT 5 That Benefits Developers?](https://dev.to/dhruvjoshi9/whats-new-in-gpt-5-that-benefits-developers-4kdn)
-- [Practical lessons from building production agentic systems](https://dev.to/urbanisierung/practical-lessons-from-building-production-agentic-systems-5ea6)
-- [AI-Powered Data Engineering Pipelines: Smarter, Faster, Scalable](https://dev.to/santosh_ronanki_9438d5944/ai-powered-data-engineering-pipelines-smarter-faster-scalable-l5e)
-- [𝗦𝗺𝗮𝗿𝘁 𝗔𝗹𝗲𝗿𝘁𝘀: 𝗘𝗺𝗮𝗶𝗹 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗜/𝗖𝗗 𝗙𝗮𝗶𝗹𝘂𝗿𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--6dc)
+- [The Strategy Behind Vennar Builds capes&#39; Bold New Identity by Creador Designs From a Name to a Brand: The Challenge](https://dev.to/creadoedesign_dc8b68907e86/the-strategy-behind-vennar-builds-capes-bold-new-identity-by-creador-designs-from-a-name-to-a-3mh5)
+- [String, StringBuilder and StringBuffer: An Analogy](https://dev.to/sharique_siddiqui_8242dad/string-stringbuilder-and-stringbuffer-an-analogy-ogh)
+- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
+- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
+- [[Boost]](https://dev.to/nikhil_sachapara/-3722)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
