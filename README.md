@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Future of Content Creation with AIGC 160: A Hub for Cutting-Edge AI Tools](https://dev.to/aigc160com/discover-the-future-of-content-creation-with-aigc-160-a-hub-for-cutting-edge-ai-tools-2pp0)
-- [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
-- [Python Essentials 1 – Completed! 🐍✨](https://dev.to/seifeldienahmad/python-essentials-1-completed-1n25)
-- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
-- [Blazing Toukon HTML! A Game Born from GPT-5&#39;s Magic and Deployed Worldwide via Firebase](https://dev.to/torifukukaiou/blazing-toukon-html-a-game-born-from-gpt-5s-magic-and-deployed-worldwide-via-firebase-3fdc)
+- [How I Tracked a Real-World Web Assailant Using Firebase + Cloudflare](https://dev.to/formantaudio/how-i-tracked-a-real-world-web-assailant-using-firebase-cloudflare-31h9)
+- [What are Ensemble Methods, Bagging, and Random Forests?](https://dev.to/dev_patel_35864ca1db6093c/what-are-ensemble-methods-bagging-and-random-forests-42j9)
+- [LLMs Crawled Me. Google Didn’t. What I Did Next](https://dev.to/engineeredai/llms-crawled-me-google-didnt-what-i-did-next-32n8)
+- [Why Your AI Tools Can’t Grasp Your Design Intent and What You Can Do About It](https://dev.to/jay_all_day/why-your-ai-tools-cant-grasp-your-design-intent-and-what-you-can-do-about-it-db7)
+- [🍲Beginners guide to &quot;Leetcode 808: Soup Serving&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-808-soup-servingc-javascript-python-405p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
