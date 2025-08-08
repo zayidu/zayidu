@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Localize Checkout Flows for African Markets](https://dev.to/flutterwaveeng/how-to-localize-checkout-flows-for-african-markets-1p0p)
-- [Scrape YouTube videos in Python](https://dev.to/serpapi/scrape-youtube-videos-in-python-1p6d)
-- [CloudStroll - Redis Challenge](https://dev.to/ameysunu/cloudstroll-redis-challenge-en5)
-- [Your Guide to a Construction Management Plan](https://dev.to/microestimates/your-guide-to-a-construction-management-plan-58dp)
-- [A Beginner’s Guide to Smarter Tracking with Google Analytics 4](https://dev.to/anonymous_c13b051b4dded8a/a-beginners-guide-to-smarter-tracking-with-google-analytics-4-5020)
+- [🌍 WCAG 2.1 Complete Guide for Developers – Practical Tips from Real Audits](https://dev.to/maurya-sachin/wcag-21-complete-guide-for-developers-practical-tips-from-real-audits-3l35)
+- [The Real Nutrition Power of Apples: A Developer&#39;s Guide to Healthy Snacking](https://dev.to/backbencher_buzz/the-real-nutrition-power-of-apples-a-developers-guide-to-healthy-snacking-5c55)
+- [Building a Communication Tool for People with Disabilities Using JavaScript and AI](https://dev.to/joe_boukhalil_a638efd870/building-a-communication-tool-for-people-with-disabilities-using-javascript-and-ai-13pl)
+- [Complete Beginner&#39;s Guide to use Midjourney API to Create AI Images with Python](https://dev.to/imaginepro/complete-beginners-guide-to-use-midjourney-api-to-create-ai-images-with-python-346l)
+- [⚡️10 Claude Code Subagents Every Developer Needs in 2025](https://dev.to/necatiozmen/10-claude-code-subagents-every-developer-needs-in-2025-2ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
