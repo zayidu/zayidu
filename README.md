@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-55h)
-- [Beginner&#39;s AWS Guide: Containers and Infrastructure as Code &lpar;Part 8&rpar;](https://dev.to/meshclan1/beginners-aws-guide-containers-and-infrastructure-as-code-part-8-1d19)
-- [Beginner&#39;s AWS Guide: Serverless and Modern Computing &lpar;Part 7&rpar;](https://dev.to/meshclan1/beginners-aws-guide-serverless-and-modern-computing-part-7-53lp)
-- [Beginner&#39;s AWS Guide: IAM and Security Fundamentals &lpar;Part 6&rpar;](https://dev.to/meshclan1/beginners-aws-guide-iam-and-security-fundamentals-part-6-2j1a)
-- [Beginner&#39;s AWS Guide: Databases &lpar;Part 5&rpar;](https://dev.to/meshclan1/beginners-aws-guide-databases-part-5-3663)
+- [Apaixonado por desenvolvimento web e raciocínio lógico. Explorando HTML, CSS e JavaScript para criar experiências interativas. Curioso por ciência, som cinematográfico e nomes com significado. Sempre em busca de aprender e construir com propósito.](https://dev.to/almirante_orlandomoiane_/apaixonado-por-desenvolvimento-web-e-raciocinio-logico-explorando-html-css-e-javascript-para-1mpd)
+- [How to Deploy Your App with Docker on Render in 5 Minutes](https://dev.to/zedai00/how-to-deploy-your-app-with-docker-on-render-in-5-minutes-1fi3)
+- [3D Printing Nerd: BIG PRINTS on SMALL PLATES](https://dev.to/maker_youtube/3d-printing-nerd-big-prints-on-small-plates-f8a)
+- [High-Throughput, Solvent-Free Plasma Polymerization for Lithium-Ion Separator Coating Optimization](https://dev.to/freederia-research/high-throughput-solvent-free-plasma-polymerization-for-lithium-ion-separator-coating-optimization-3pm8)
+- [Mastering Go File Wizardry 🧙‍♂️📁](https://dev.to/tavernetech/mastering-go-file-wizardry-3nnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
