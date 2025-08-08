@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 WCAG 2.1 Complete Guide for Developers – Practical Tips from Real Audits](https://dev.to/maurya-sachin/wcag-21-complete-guide-for-developers-practical-tips-from-real-audits-3l35)
-- [The Real Nutrition Power of Apples: A Developer&#39;s Guide to Healthy Snacking](https://dev.to/backbencher_buzz/the-real-nutrition-power-of-apples-a-developers-guide-to-healthy-snacking-5c55)
-- [Building a Communication Tool for People with Disabilities Using JavaScript and AI](https://dev.to/joe_boukhalil_a638efd870/building-a-communication-tool-for-people-with-disabilities-using-javascript-and-ai-13pl)
-- [Complete Beginner&#39;s Guide to use Midjourney API to Create AI Images with Python](https://dev.to/imaginepro/complete-beginners-guide-to-use-midjourney-api-to-create-ai-images-with-python-346l)
-- [⚡️10 Claude Code Subagents Every Developer Needs in 2025](https://dev.to/necatiozmen/10-claude-code-subagents-every-developer-needs-in-2025-2ho)
+- [Fine-Tuning: Unlocking Precision and Performance in AI Models](https://dev.to/cyfutureai/fine-tuning-unlocking-precision-and-performance-in-ai-models-1l6d)
+- [Optimizing JVM Memory Footprint for High-Throughput Stream Processing Pipelines](https://dev.to/xuan_56087d315ff4f52254e6/optimizing-jvm-memory-footprint-for-high-throughput-stream-processing-pipelines-43f4)
+- [🕵️‍♂️ The Silent Bug That Wastes Hours — and How to Kill It](https://dev.to/rajguru_yadav_56d13a7b8fc/the-silent-bug-that-wastes-hours-and-how-to-kill-it-23kf)
+- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
+- [Numerology Based on Birthdate Your Personal Code](https://dev.to/lifepurposeapp/numerology-based-on-birthdate-your-personal-code-10j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
