@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
-- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
-- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
-- [Aprendendo TI de Graça](https://dev.to/vitormours/aprendendo-ti-de-graca-34a2)
-- [Instagram&#39;s Friend Map: How Meta Just Taught Us Privacy Engineering 101 &lpar;The Hard Way&rpar;](https://dev.to/shiva_shanker_k/instagrams-friend-map-how-meta-just-taught-us-privacy-engineering-101-the-hard-way-55d2)
+- [WebSocket Authentication in NestJS: Handling JWT and Guards](https://dev.to/mouloud_hasrane_c99b0f49a/websocket-authentication-in-nestjs-handling-jwt-and-guards-4j27)
+- [From Healthcare, Sales &amp; Business Development to AWS/ Cloud Computing](https://dev.to/deeplomataws/from-healthcare-sales-business-development-to-aws-cloud-computing-17c0)
+- [OCR Integration in Web Apps: Google Document AI vs Tesseract](https://dev.to/acetoolz/ocr-integration-in-web-apps-google-document-ai-vs-tesseract-44od)
+- [One More Machine Learning Article: When Computers Start to Think for Themselves](https://dev.to/satyam_rana_f7aaadc8dcd5c/one-more-machine-learning-article-when-computers-start-to-think-for-themselves-2ihn)
+- [NextAuth.js v5 Guide: Migrating from v4 with Real Examples](https://dev.to/acetoolz/nextauthjs-v5-guide-migrating-from-v4-with-real-examples-50ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
