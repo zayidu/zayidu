@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My New Post](https://dev.to/gokul_nathan_b9552b3fb35b/my-new-post-33h)
-- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
-- [Securing Your Code with AWS Inspector: A Comprehensive Guide to Code Security Scanning](https://dev.to/aws-builders/securing-your-code-with-aws-inspector-a-comprehensive-guide-to-code-security-scanning-499n)
-- [Detailed on Manual Testing ,BVA,Decision Table Testing,Future Of Manual Testing in the Age of AI](https://dev.to/kn_m_0d1ed0f47501b32f0832/detailed-on-manual-testing-bvadecision-table-testingfuture-of-manual-testing-in-the-age-of-ai-23n3)
-- [Weekly Challenge #2 - StackDAG](https://dev.to/javredstone/weekly-challenge-2-stackdag-2cn0)
+- [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
+- [Are we overcomplicating web development?](https://dev.to/gods_wyll/are-we-overcomplicating-web-development-1bi7)
+- [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
+- [Unitree unveils A2 quadruped robot with front and rear lidar for enhanced terrain navigation](https://dev.to/ytosko/unitree-unveils-a2-quadruped-robot-with-front-and-rear-lidar-for-enhanced-terrain-navigation-1iko)
+- [NEAR vs. Solana: The Developer Reality Check Nobody Gave Me](https://dev.to/hopi4fx/near-vs-solana-the-developer-reality-check-nobody-gave-me-316b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
