@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: Why You Should Care About Data!!](https://dev.to/sanaipei001/part-3-why-you-should-care-about-data-5c6j)
-- [Part 2:The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
-- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
-- [Understanding useRef in React: What It Is and Why It’s Useful](https://dev.to/safal_bhandari/understanding-useref-in-react-what-it-is-and-why-its-useful-d3g)
-- [Part 1:What Exactly Is Data?](https://dev.to/sanaipei001/what-exactly-is-data-1le)
+- [Mastering LINQ Performance: Advanced Techniques for Senior Engineers](https://dev.to/shiv_darshanrathore_402a/mastering-linq-performance-advanced-techniques-for-senior-engineers-i98)
+- [Why Service Account Impersonation is Essential for Secure and Efficient Cloud Development](https://dev.to/hikikomorineko/why-service-account-impersonation-is-essential-for-secure-and-efficient-cloud-development-jea)
+- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
+- [Higher order functions in React &lpar;deep dive&rpar;](https://dev.to/matthew_ricci_0680a2a22c6/higher-order-functions-in-react-deep-dive-17p8)
+- [How an AI Chatbot Can Improve Care at Your Medspa](https://dev.to/kora_pertenson_0d09b8e1be/how-an-ai-chatbot-can-improve-care-at-your-medspa-47m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
