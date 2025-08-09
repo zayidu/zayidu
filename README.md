@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SuperClaude_Framework快捷键命令的使用技巧](https://dev.to/dragon72463399/superclaudeframeworkkuai-jie-jian-ming-ling-de-shi-yong-ji-qiao-3n58)
-- [Rust Tools That Made Our Dev Team Productive Again](https://dev.to/programmerraja/rust-tools-that-made-our-dev-team-productive-again-479)
-- [Create fast integration tests](https://dev.to/alexferreiradev/create-fast-integration-tests-52pa)
-- [Scroll Trigger Portfolio Template](https://dev.to/patrick_dunn_d0fcc74272b4/scroll-trigger-portfolio-template-32kb)
-- [tftargets: Extracting Terraform Plan/Apply Target Root Modules from Git Branch Diffs](https://dev.to/r_takaishi/tftargets-extracting-terraform-planapply-target-root-modules-from-git-branch-diffs-100)
+- [Prompt Templates for Every Department in a Business &lpar;Copy-Paste Collection&rpar;](https://dev.to/jaideepparashar/prompt-templates-for-every-department-in-a-business-copy-paste-collection-21kb)
+- [🔍 I recently attended a DevOps interview – here are the questions they asked me:](https://dev.to/iragani_vamsisai_5a349cc/i-recently-attended-a-devops-interview-here-are-the-questions-they-asked-me-3k25)
+- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/cloning-a-website-taught-me-more-than-tutorials-did-3bgg)
+- [Rick Shiels Golf: My Golf Improved!!!](https://dev.to/youtube_golf/rick-shiels-golf-my-golf-improved-4k4o)
+- [Cybersecurity Learning Journey: Reposting with Clarity](https://dev.to/hills/cybersecurity-learning-journey-reposting-with-clarity-50nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
