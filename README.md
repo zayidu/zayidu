@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Nested and Root Attributes Gracefully](https://dev.to/nasrulhazim/handling-nested-and-root-attributes-gracefully-4agh)
-- [How to setup Airtable MCP for effective work manahement 💻📊](https://dev.to/composiodev/how-to-setup-airtable-mcp-for-effective-work-manahement-1akm)
-- [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
-- [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
+- [How I Reduced ELB Access Log Analysis Time by 80% Using AWS Data Processing MCP Server](https://dev.to/aws-builders/how-i-reduced-elb-access-log-analysis-time-by-80-using-aws-data-processing-mcp-server-43co)
+- [Rick Beato: A Simple Twist Of Fate](https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go)
+- [AWS SES with a NestJS Backend to Send Email Verifications](https://dev.to/aws-builders/aws-ses-with-a-nestjs-backend-to-send-email-verifications-2l9h)
+- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 4&rpar; – Authentication Logic](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag)
+- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-iec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
