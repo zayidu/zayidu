@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a new approach to frontend web development. It&#39;s meant to be a React killer, as well as a killer of other frameworks.](https://dev.to/isumix/im-building-a-new-approach-to-frontend-web-development-its-meant-to-be-a-react-killer-as-well-152k)
-- [Oracle: The Bridge Between the Real World and the Blockchain](https://dev.to/loading_blocks/oracle-the-bridge-between-the-real-world-and-the-blockchain-4kea)
-- [📄 How to Write a PRD &lpar;Product Requirement Document&rpar; — and Why It’s Your Project’s Best Friend](https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2)
-- [Celebrating 1 Year of QAlogy: From Idea to Reality](https://dev.to/qalogy/celebrating-1-year-of-qalogy-from-idea-to-reality-2kp3)
-- [🚀 Understanding the Docker Lifecycle with a Simple App](https://dev.to/latchudevops/understanding-the-docker-lifecycle-with-a-simple-app-3a5e)
+- [Mastering Agile: Best Practices for Success](https://dev.to/vjnvisakh/mastering-agile-best-practices-for-success-2he2)
+- [Wear OS apps with Flutter &lpar;3/4&rpar;: Using Platform Channels to implement custom functionality &lpar;location &amp; user text input&rpar;](https://dev.to/shu8/wear-os-apps-with-flutter-34-using-platform-channels-to-implement-custom-functionality-2c4g)
+- [Implementing Offline-First Architecture in Flutter: Part 1 - Local Storage with Conflict Resolution](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-1-local-storage-with-conflict-resolution-4mdl)
+- [AI Agentic Kiro- Empowering Intelligent Agents](https://dev.to/adelinemakokha/ai-agentic-kiro-empowering-intelligent-agents-426h)
+- [Installation of Linux OS](https://dev.to/ajay_sundar_c3eb3bcf9f98d/installation-of-linux-os-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
