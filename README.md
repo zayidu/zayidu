@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
-- [Microsoft lança cursos Gratuitos sobre IA Generativa Para iniciantes e para desenvolvedores JavaScript](https://dev.to/sertaoseracloud/microsoft-lanca-cursos-gratuitos-sobre-ia-generativa-para-iniciantes-e-para-desenvolvedores-25ae)
-- [What are Ensemble Methods and Boosting?](https://dev.to/dev_patel_35864ca1db6093c/what-are-ensemble-methods-and-boosting-17pn)
-- [GPT5 or CLAUDE ARTIFACTS FOR BUILDING YOUR OWN SAAS](https://dev.to/ibrahimpima/you-can-just-build-your-own-stuff-instead-of-waiting-for-a-saas-to-solve-your-small-problems-1gpe)
-- [Coding at 2AM? These Tips Will Save Your Sanity 😅](https://dev.to/printode/coding-at-2am-these-tips-will-save-your-sanity-3ohk)
+- [SuperClaude_Framework快捷键命令的使用技巧](https://dev.to/dragon72463399/superclaudeframeworkkuai-jie-jian-ming-ling-de-shi-yong-ji-qiao-3n58)
+- [Rust Tools That Made Our Dev Team Productive Again](https://dev.to/programmerraja/rust-tools-that-made-our-dev-team-productive-again-479)
+- [Create fast integration tests](https://dev.to/alexferreiradev/create-fast-integration-tests-52pa)
+- [Scroll Trigger Portfolio Template](https://dev.to/patrick_dunn_d0fcc74272b4/scroll-trigger-portfolio-template-32kb)
+- [tftargets: Extracting Terraform Plan/Apply Target Root Modules from Git Branch Diffs](https://dev.to/r_takaishi/tftargets-extracting-terraform-planapply-target-root-modules-from-git-branch-diffs-100)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
