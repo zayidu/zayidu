@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced ELB Access Log Analysis Time by 80% Using AWS Data Processing MCP Server](https://dev.to/aws-builders/how-i-reduced-elb-access-log-analysis-time-by-80-using-aws-data-processing-mcp-server-43co)
-- [Rick Beato: A Simple Twist Of Fate](https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go)
-- [AWS SES with a NestJS Backend to Send Email Verifications](https://dev.to/aws-builders/aws-ses-with-a-nestjs-backend-to-send-email-verifications-2l9h)
-- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 4&rpar; – Authentication Logic](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag)
-- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-iec)
+- [Take me with you &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/take-me-with-you-my-ai-song-55ep)
+- [راهنمای جامع و کامل تنظیم پروژه در جیرا &lpar;Jira&rpar; از صفر تا صد](https://dev.to/parizad/rhnmy-jm-w-khml-tnzym-prwjh-dr-jyr-jira-z-sfr-t-sd-1hp8)
+- [Why Vibe Coding Isn&#39;t the AI Utopia You Think It Is](https://dev.to/hiruthicsha/why-vibe-coding-isnt-the-ai-utopia-you-think-it-is-1kf9)
+- [Optimize Next.js Performance with Smart Code Splitting: What to Load, When, and Why](https://dev.to/boopykiki/optimize-nextjs-performance-with-smart-code-splitting-what-to-load-when-and-why-9l1)
+- [[Boost]](https://dev.to/osiris8/-4n63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
