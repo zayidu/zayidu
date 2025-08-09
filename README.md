@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Authentication in NestJS: Handling JWT and Guards](https://dev.to/mouloud_hasrane_c99b0f49a/websocket-authentication-in-nestjs-handling-jwt-and-guards-4j27)
-- [From Healthcare, Sales &amp; Business Development to AWS/ Cloud Computing](https://dev.to/deeplomataws/from-healthcare-sales-business-development-to-aws-cloud-computing-17c0)
-- [OCR Integration in Web Apps: Google Document AI vs Tesseract](https://dev.to/acetoolz/ocr-integration-in-web-apps-google-document-ai-vs-tesseract-44od)
-- [One More Machine Learning Article: When Computers Start to Think for Themselves](https://dev.to/satyam_rana_f7aaadc8dcd5c/one-more-machine-learning-article-when-computers-start-to-think-for-themselves-2ihn)
-- [NextAuth.js v5 Guide: Migrating from v4 with Real Examples](https://dev.to/acetoolz/nextauthjs-v5-guide-migrating-from-v4-with-real-examples-50ad)
+- [My New Post](https://dev.to/gokul_nathan_b9552b3fb35b/my-new-post-33h)
+- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
+- [Securing Your Code with AWS Inspector: A Comprehensive Guide to Code Security Scanning](https://dev.to/aws-builders/securing-your-code-with-aws-inspector-a-comprehensive-guide-to-code-security-scanning-499n)
+- [Detailed on Manual Testing ,BVA,Decision Table Testing,Future Of Manual Testing in the Age of AI](https://dev.to/kn_m_0d1ed0f47501b32f0832/detailed-on-manual-testing-bvadecision-table-testingfuture-of-manual-testing-in-the-age-of-ai-23n3)
+- [Weekly Challenge #2 - StackDAG](https://dev.to/javredstone/weekly-challenge-2-stackdag-2cn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
