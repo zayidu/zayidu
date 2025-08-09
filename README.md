@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The Challenge of Installing Massive and Culturally Sensitive Artifacts &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-challenge-of-installing-massive-and-culturally-sensitive-artifacts-at-2969)
-- [Adam Savage&#39;s Tested: When Someone You Dislike Critiques You](https://dev.to/maker_youtube/adam-savages-tested-when-someone-you-dislike-critiques-you-406d)
-- [I Like To Make Stuff: How Can It Be This Easy?](https://dev.to/maker_youtube/i-like-to-make-stuff-how-can-it-be-this-easy-1bfg)
-- [Tech With Tim: The Next Step After Learning Python Basics](https://dev.to/vibe_youtube/tech-with-tim-the-next-step-after-learning-python-basics-jeg)
-- [Rick Shiels Golf: Worst Front 9 of My Life… Then This Happened](https://dev.to/youtube_golf/rick-shiels-golf-worst-front-9-of-my-life-then-this-happened-1llh)
+- [Part 3: Why You Should Care About Data!!](https://dev.to/sanaipei001/part-3-why-you-should-care-about-data-5c6j)
+- [Part 2:The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
+- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
+- [Understanding useRef in React: What It Is and Why It’s Useful](https://dev.to/safal_bhandari/understanding-useref-in-react-what-it-is-and-why-its-useful-d3g)
+- [Part 1:What Exactly Is Data?](https://dev.to/sanaipei001/what-exactly-is-data-1le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
