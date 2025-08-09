@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study – Automating an ETL Pipeline with MCP](https://dev.to/om_shree_0709/case-study-automating-an-etl-pipeline-with-mcp-55cp)
-- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
-- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
-- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
-- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
+- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
+- [Microsoft lança cursos Gratuitos sobre IA Generativa Para iniciantes e para desenvolvedores JavaScript](https://dev.to/sertaoseracloud/microsoft-lanca-cursos-gratuitos-sobre-ia-generativa-para-iniciantes-e-para-desenvolvedores-25ae)
+- [What are Ensemble Methods and Boosting?](https://dev.to/dev_patel_35864ca1db6093c/what-are-ensemble-methods-and-boosting-17pn)
+- [GPT5 or CLAUDE ARTIFACTS FOR BUILDING YOUR OWN SAAS](https://dev.to/ibrahimpima/you-can-just-build-your-own-stuff-instead-of-waiting-for-a-saas-to-solve-your-small-problems-1gpe)
+- [Coding at 2AM? These Tips Will Save Your Sanity 😅](https://dev.to/printode/coding-at-2am-these-tips-will-save-your-sanity-3ohk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
