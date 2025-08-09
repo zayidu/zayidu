@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering LINQ Performance: Advanced Techniques for Senior Engineers](https://dev.to/shiv_darshanrathore_402a/mastering-linq-performance-advanced-techniques-for-senior-engineers-i98)
-- [Why Service Account Impersonation is Essential for Secure and Efficient Cloud Development](https://dev.to/hikikomorineko/why-service-account-impersonation-is-essential-for-secure-and-efficient-cloud-development-jea)
-- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
-- [Higher order functions in React &lpar;deep dive&rpar;](https://dev.to/matthew_ricci_0680a2a22c6/higher-order-functions-in-react-deep-dive-17p8)
-- [How an AI Chatbot Can Improve Care at Your Medspa](https://dev.to/kora_pertenson_0d09b8e1be/how-an-ai-chatbot-can-improve-care-at-your-medspa-47m6)
+- [Local MongoDB Replica Set Cluster for Real-Time Container Apps &lpar;with Mongo Express&rpar;](https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi)
+- [Compiling Docker in RISC-V](https://dev.to/danielmx/compiling-docker-in-risc-v-5100)
+- [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
+- [100 Days of DevOps: Day 6](https://dev.to/wycliffealphus/100-days-of-devops-day-6-53hb)
+- [Understanding useState in React](https://dev.to/mitchel_gitau_47346390a98/understanding-usestate-in-react-4ech)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
