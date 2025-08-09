@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Agile: Best Practices for Success](https://dev.to/vjnvisakh/mastering-agile-best-practices-for-success-2he2)
-- [Wear OS apps with Flutter &lpar;3/4&rpar;: Using Platform Channels to implement custom functionality &lpar;location &amp; user text input&rpar;](https://dev.to/shu8/wear-os-apps-with-flutter-34-using-platform-channels-to-implement-custom-functionality-2c4g)
-- [Implementing Offline-First Architecture in Flutter: Part 1 - Local Storage with Conflict Resolution](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-1-local-storage-with-conflict-resolution-4mdl)
-- [AI Agentic Kiro- Empowering Intelligent Agents](https://dev.to/adelinemakokha/ai-agentic-kiro-empowering-intelligent-agents-426h)
-- [Installation of Linux OS](https://dev.to/ajay_sundar_c3eb3bcf9f98d/installation-of-linux-os-5fgm)
+- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
+- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
+- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
+- [Aprendendo TI de Graça](https://dev.to/vitormours/aprendendo-ti-de-graca-34a2)
+- [Instagram&#39;s Friend Map: How Meta Just Taught Us Privacy Engineering 101 &lpar;The Hard Way&rpar;](https://dev.to/shiva_shanker_k/instagrams-friend-map-how-meta-just-taught-us-privacy-engineering-101-the-hard-way-55d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
