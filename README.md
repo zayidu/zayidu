@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Switched from Windows to macOS: A Technical and Practical Evaluation](https://dev.to/tracywhodoesnot/why-i-switched-from-windows-to-macos-a-technical-and-practical-evaluation-10dg)
-- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
-- [Day 15 – Data Analytics Journey !](https://dev.to/ramyacse/day-15-data-analytics-journey--4bij)
-- [Get from Zero To Hero in Foundry - Part 1: Getting Started](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-1-getting-started-57h8)
-- [Software Success: Balancing Architecture and Behavior](https://dev.to/deepak_negi_f1d64e7393000/software-success-balancing-architecture-and-behavior-3p6a)
+- [Adam Savage&#39;s Tested: The Challenge of Installing Massive and Culturally Sensitive Artifacts &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-challenge-of-installing-massive-and-culturally-sensitive-artifacts-at-2969)
+- [Adam Savage&#39;s Tested: When Someone You Dislike Critiques You](https://dev.to/maker_youtube/adam-savages-tested-when-someone-you-dislike-critiques-you-406d)
+- [I Like To Make Stuff: How Can It Be This Easy?](https://dev.to/maker_youtube/i-like-to-make-stuff-how-can-it-be-this-easy-1bfg)
+- [Tech With Tim: The Next Step After Learning Python Basics](https://dev.to/vibe_youtube/tech-with-tim-the-next-step-after-learning-python-basics-jeg)
+- [Rick Shiels Golf: Worst Front 9 of My Life… Then This Happened](https://dev.to/youtube_golf/rick-shiels-golf-worst-front-9-of-my-life-then-this-happened-1llh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
