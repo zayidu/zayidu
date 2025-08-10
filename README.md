@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Reverse Routing: Playing The Old Course Backwards](https://dev.to/youtube_golf/golfcom-reverse-routing-playing-the-old-course-backwards-25pc)
-- [IGN: Captain Wayne: Vacation Desperation - Official Endless Demo Trailer](https://dev.to/gg_news/ign-captain-wayne-vacation-desperation-official-endless-demo-trailer-26ko)
-- [IGN: Fellowship - Official &#39;Meet Mara&#39; Trailer](https://dev.to/gg_news/ign-fellowship-official-meet-mara-trailer-3poi)
-- [🎯 LiveCaption AI: Real-Time Accessibility Platform with Redis-Powered Intelligence](https://dev.to/arya_koste_5845807df94776/livecaption-ai-real-time-accessibility-platform-with-redis-powered-intelligence-lbp)
-- [An Encryption Algorithm](https://dev.to/steammake3/an-encryption-algorithm-3bd6)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;0048&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework0048-ge6)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;1133&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1133-5a1e)
+- [Self-Hosting Rails Apps with Cloudflare Tunnels - Why I Ditched $17/Month Cloud Hosting for a $599 Mac Mini](https://dev.to/mark_holton/self-hosting-rails-apps-with-cloudflare-tunnels-why-i-ditched-17month-cloud-hosting-for-a-599-4epo)
+- [💬 From Rejection to Revolution: The Engineering Brilliance Behind WhatsApp](https://dev.to/alifa_ara_heya/from-rejection-to-revolution-the-engineering-brilliance-behind-whatsapp-1ij)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;1887&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers1887-3dhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
