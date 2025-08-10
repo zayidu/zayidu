@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Biggest Challenges in Unit Testing and How to Solve Them?](https://dev.to/alok_e75d0463248211c2ca56/what-are-the-biggest-challenges-in-unit-testing-and-how-to-solve-them-2i0k)
-- [Offline File Sharing for Developers — Why It Still Matters in 2025](https://dev.to/sheila_wkeith_822b28732/offline-file-sharing-for-developers-why-it-still-matters-in-2025-2n0k)
-- [Tuple Deconstruction in C#: A Complete Guide](https://dev.to/morteza-jangjoo/tuple-deconstruction-in-c-a-complete-guide-3l17)
-- [Exploring git cherry and git cherry-pick](https://dev.to/bdhamithkumara/exploring-git-cherry-and-git-cherry-pick-59gn)
-- [KeyPilot – Semantic API Gateway with Real-Time AI Routing &amp; Caching](https://dev.to/joeljaison394/keypilot-semantic-api-gateway-with-real-time-ai-routing-caching-2b94)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;7583&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development7583-1240)
+- [🧠OrKa onboarding: example suite, guided tour, and trace replay](https://dev.to/marcosomma/orka-onboarding-example-suite-guided-tour-and-trace-replay-2egf)
+- [From Punch Cards to AI Coders: The Unseen Journey of Software Creation](https://dev.to/arkhan/from-punch-cards-to-ai-coders-the-unseen-journey-of-software-creation-48g8)
+- [Essential Cybersecurity Practices for Small Businesses Without a Tech Team](https://dev.to/terminaltools/essential-cybersecurity-practices-for-small-businesses-without-a-tech-team-2blm)
+- [Rust Async Web Framework Performance Breakthrough&lpar;7140&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough7140-2063)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
