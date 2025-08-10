@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing DevOps with Ansible: The Future of Automated Infrastructure](https://dev.to/vjnvisakh/revolutionizing-devops-with-ansible-the-future-of-automated-infrastructure-de2)
-- [The Certificate Trap That&#39;s Killing Developer Careers in India 💀](https://dev.to/shiva_shanker_k/the-certificate-trap-thats-killing-developer-careers-in-india-ghd)
-- [High-Performance Routing System Design and Implementation&lpar;9173&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation9173-3h7j)
-- [Blockchain and Cryptocurrency Security: DeFi Protocol Analysis](https://dev.to/rafalw3bcraft/blockchain-and-cryptocurrency-security-defi-protocol-analysis-50f9)
-- [Supply Chain Security: Third-Party Risk Assessment Framework](https://dev.to/rafalw3bcraft/supply-chain-security-third-party-risk-assessment-framework-3jkm)
+- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
+- [_$t$ out of $n$_ with `dcipher` and without](https://dev.to/skaunov/t-out-of-n-with-dcipher-and-without-19he)
+- [🌟 Evolution in Tech: Moving from Monolith to Microservices 🚀](https://dev.to/varun_gor_d8556a6135dfcf5/evolution-in-tech-moving-from-monolith-to-microservices-37gm)
+- [claude code](https://dev.to/peak_tom_7fe2ed1d11aefd01/claude-code-o05)
+- [Excel’s Strengths and Weaknesses in Predictive Analysis and Its Role in Data-Driven Business Decisions](https://dev.to/dilan_bosire_c52bea0549cb/excels-strengths-and-weaknesses-in-predictive-analysis-and-its-role-in-data-driven-business-2189)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
