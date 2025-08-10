@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Kubestronaut Cloud Native Golden Way 😎](https://dev.to/giridharan_devops/kubestronaut-cloud-native-golden-way-2ae9)
-- [📢 Calling All Developers — We Need Your Insights](https://dev.to/adithya-balan/calling-all-developers-we-need-your-insights-1dje)
-- [Challenge the world](https://dev.to/yunusrabiu411/challenge-the-world-k7k)
-- [Part 12:Your First Data Project &lpar;A Step-by-Step Guide&rpar;](https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj)
-- [🚶Mentorship For Any Specific Domain #The Progressive Pathway🏃🏼](https://dev.to/giridharan_devops/mentorship-for-any-specific-domain-the-progressive-pathway-2bip)
+- [Zero-Bundle Angular: Exploring Standalone Components and Tree-Shaking Techniques](https://dev.to/karol_modelski/zero-bundle-angular-exploring-standalone-components-and-tree-shaking-techniques-2gfc)
+- [ESS Utumishi – Making Government Services Simple and Accessible](https://dev.to/zubizubi/ess-utumishi-making-government-services-simple-and-accessible-2nd1)
+- [How we created an addictive puzzle game that combines classic 2048 mechanics with delightful cupcake theming](https://dev.to/raymond_zhao_2270803eb9c8/how-we-created-an-addictive-puzzle-game-that-combines-classic-2048-mechanics-with-delightful-44dn)
+- [Launching the AWS Women User Group Abuja: From Research to Reality.](https://dev.to/ofonime1/launching-the-aws-women-user-group-abuja-from-research-to-reality-3kci)
+- [Creating a Bootstrap Loader in Angular Using APP_INITIALIZER](https://dev.to/vetriselvan_11/creating-a-bootstrap-loader-in-angular-using-appinitializer-2jji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
