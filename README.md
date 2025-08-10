@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Git Commands You Probably Don’t Know &lpar;But Should&rpar;](https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl)
-- [MY FAST PROGRAMMING , html,css,nextjs . and before python](https://dev.to/vivek_kumar_7590376/my-fast-programming-htmlcssnextjs-and-before-python-3lpk)
-- [INSTALL QEMU KVM On Linux &lpar;i.e. Debian/Ubuntu Like Distro&rpar;](https://dev.to/harry_tanama_51571ebf90b6/install-qemu-kvm-on-linux-ie-debianubuntu-like-distro-2816)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4dj0)
-- [BEST BLOGPOST ABOUT INTIALIZATION AND NORAMLIZATION I COULD FIND!!](https://dev.to/brokttv/best-blogpost-about-intialization-and-noramlization-i-could-find-2e27)
+- [🧠Kubestronaut Cloud Native Golden Way 😎](https://dev.to/giridharan_devops/kubestronaut-cloud-native-golden-way-2ae9)
+- [📢 Calling All Developers — We Need Your Insights](https://dev.to/adithya-balan/calling-all-developers-we-need-your-insights-1dje)
+- [Challenge the world](https://dev.to/yunusrabiu411/challenge-the-world-k7k)
+- [Part 12:Your First Data Project &lpar;A Step-by-Step Guide&rpar;](https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj)
+- [🚶Mentorship For Any Specific Domain #The Progressive Pathway🏃🏼](https://dev.to/giridharan_devops/mentorship-for-any-specific-domain-the-progressive-pathway-2bip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
