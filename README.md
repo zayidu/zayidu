@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
-- [Building DiskiPred: A Fullstack Football Match Prediction Platform](https://dev.to/master_ngunezi_c689b59032/building-diskipred-a-fullstack-football-match-prediction-platform-i7p)
-- [ChatGPT 5: Revolution or Threat for Web Developers ?](https://dev.to/capjud95/chatgpt-5-revolution-or-threat-for-web-developers--p3)
-- [Portfolio website using Tanstack start](https://dev.to/sref/-4dnf)
-- [Rust Implementation for High Concurrency Processing&lpar;9533&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing9533-4n1b)
+- [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
+- [Laura Kampf: Building an insanely big Storage Unit from Trash &lpar;Janitor of LA&rpar;](https://dev.to/maker_youtube/laura-kampf-building-an-insanely-big-storage-unit-from-trash-janitor-of-la-2i85)
+- [Application of Async Programming in Web Development&lpar;6623&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development6623-11eo)
+- [IGN: Warhammer 40,000 Expert Answers Your Questions](https://dev.to/gg_news/ign-warhammer-40000-expert-answers-your-questions-1ghe)
+- [Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar](https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
