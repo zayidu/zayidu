@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-2n8d)
-- [Does the edge need a new database?](https://dev.to/surrealdb/does-the-edge-need-a-new-database-2aic)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;9471&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance9471-j4o)
-- [Programming Fundamentals: What Every Beginner Must Know Before Coding](https://dev.to/arokoola_mayowa_4b95d61ed/programming-fundamentals-what-every-beginner-must-know-before-coding-m4n)
-- [FastMap: Real-Time IoT Anomaly Detection with Redis&#39;s Multi-Model Database](https://dev.to/jonamarkin/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-3bg5)
+- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
+- [Building DiskiPred: A Fullstack Football Match Prediction Platform](https://dev.to/master_ngunezi_c689b59032/building-diskipred-a-fullstack-football-match-prediction-platform-i7p)
+- [ChatGPT 5: Revolution or Threat for Web Developers ?](https://dev.to/capjud95/chatgpt-5-revolution-or-threat-for-web-developers--p3)
+- [Portfolio website using Tanstack start](https://dev.to/sref/-4dnf)
+- [Rust Implementation for High Concurrency Processing&lpar;9533&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing9533-4n1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
