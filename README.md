@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Resource Versioning in Conveyor CI](https://dev.to/jimjunior/implementing-resource-versioning-in-conveyor-ci-1pn2)
-- [Unlocking the Future: How AI-Powered Multi-Agent Research Pipelines Are Revolutionizing Insights](https://dev.to/jay_all_day/unlocking-the-future-how-ai-powered-multi-agent-research-pipelines-are-revolutionizing-insights-5cn2)
-- [Why Thailand Is the Go-To Source for Premium Frozen Chicken Exports](https://dev.to/thaipoultrygroup/why-thailand-is-the-go-to-source-for-premium-frozen-chicken-exports-kfc)
-- [🧠 MindMirror: Real-time Mental Health Analysis with RedisAI](https://dev.to/looneyrichie/mindmirror-real-time-mental-health-analysis-with-redisai-2c9p)
-- [How .aggregate&lpar;&rpar; Powered Our Learner &amp; Income Analytics in MongoDB](https://dev.to/dorcie-dee/how-aggregate-powered-our-learner-income-analytics-in-mongodb-jdg)
+- [AI Governance: Why It Matters Now More Than Ever for Our Digital Future](https://dev.to/jay_all_day/ai-governance-why-it-matters-now-more-than-ever-for-our-digital-future-f5c)
+- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-4l6j)
+- [How Technology Is Transforming Hospitality Careers: The Role of Online Platforms and AI in Job Matching](https://dev.to/israt_jahan_brisy/how-technology-is-transforming-hospitality-careers-the-role-of-online-platforms-and-ai-in-job-3m3h)
+- [Destroy Builds Device - UEFN verse](https://dev.to/kingcalc/destroy-builds-device-uefn-verse-51nk)
+- [PLEASE CHECKOUT MY NEW PROJECT &#39;GITMENTOR&#39;😭](https://dev.to/devvobiero/please-checkout-my-new-project-gitmentor-20m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
