@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
-- [Laura Kampf: Building an insanely big Storage Unit from Trash &lpar;Janitor of LA&rpar;](https://dev.to/maker_youtube/laura-kampf-building-an-insanely-big-storage-unit-from-trash-janitor-of-la-2i85)
-- [Application of Async Programming in Web Development&lpar;6623&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development6623-11eo)
-- [IGN: Warhammer 40,000 Expert Answers Your Questions](https://dev.to/gg_news/ign-warhammer-40000-expert-answers-your-questions-1ghe)
-- [Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar](https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l)
+- [Diabetes Detection On AWS](https://dev.to/naman_2004/diabetes-detection-on-aws-4fll)
+- [TCP Optimization Techniques for Web Server Performance&lpar;4939&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance4939-22o7)
+- [Part 2: Django REST Framework: When &lpar;and When Not&rpar; to Override Serializers and Viewsets](https://dev.to/soldatov-ss/part-2-django-rest-framework-when-and-when-not-to-override-serializers-and-viewsets-3j32)
+- [Part 1: Django REST Framework: When &lpar;and When Not&rpar; to Override Serializers and Viewsets](https://dev.to/soldatov-ss/part-1-django-rest-framework-when-and-when-not-to-override-serializers-and-viewsets-11a7)
+- [[Boost]](https://dev.to/alfredosalzillo/-40f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
