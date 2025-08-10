@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Bundle Angular: Exploring Standalone Components and Tree-Shaking Techniques](https://dev.to/karol_modelski/zero-bundle-angular-exploring-standalone-components-and-tree-shaking-techniques-2gfc)
-- [ESS Utumishi – Making Government Services Simple and Accessible](https://dev.to/zubizubi/ess-utumishi-making-government-services-simple-and-accessible-2nd1)
-- [How we created an addictive puzzle game that combines classic 2048 mechanics with delightful cupcake theming](https://dev.to/raymond_zhao_2270803eb9c8/how-we-created-an-addictive-puzzle-game-that-combines-classic-2048-mechanics-with-delightful-44dn)
-- [Launching the AWS Women User Group Abuja: From Research to Reality.](https://dev.to/ofonime1/launching-the-aws-women-user-group-abuja-from-research-to-reality-3kci)
-- [Creating a Bootstrap Loader in Angular Using APP_INITIALIZER](https://dev.to/vetriselvan_11/creating-a-bootstrap-loader-in-angular-using-appinitializer-2jji)
+- [Creating a Dice in TailwindCSS and ReactJs](https://dev.to/dakshim/creating-a-dice-in-tailwindcss-and-reactjs-2fgg)
+- [What’s New in GPT-5: Features, Updates &amp; Why It’s a Game-Changer](https://dev.to/codewithsimon/whats-new-in-gpt-5-features-updates-why-its-a-game-changer-2m50)
+- [HTML Structure: Elements, Tags, and Attributes](https://dev.to/sharique_siddiqui_8242dad/html-structure-elements-tags-and-attributes-a13)
+- [As a New Hire, I&#39;m Leading the Company Platform&#39;s Facial Authentication System Development](https://dev.to/wintrover/as-a-new-hire-im-leading-the-company-platforms-facial-authentication-system-development-1nfo)
+- [The 10-Second Morning Habit That Helps Me Code With More Focus](https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
