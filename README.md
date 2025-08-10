@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diabetes Detection On AWS](https://dev.to/naman_2004/diabetes-detection-on-aws-4fll)
-- [TCP Optimization Techniques for Web Server Performance&lpar;4939&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance4939-22o7)
-- [Part 2: Django REST Framework: When &lpar;and When Not&rpar; to Override Serializers and Viewsets](https://dev.to/soldatov-ss/part-2-django-rest-framework-when-and-when-not-to-override-serializers-and-viewsets-3j32)
-- [Part 1: Django REST Framework: When &lpar;and When Not&rpar; to Override Serializers and Viewsets](https://dev.to/soldatov-ss/part-1-django-rest-framework-when-and-when-not-to-override-serializers-and-viewsets-11a7)
-- [[Boost]](https://dev.to/alfredosalzillo/-40f7)
+- [Laravel Lusophone – Agora com Documentação Oficial](https://dev.to/arnaldo/laravel-lusophone-agora-com-documentacao-oficial-38me)
+- [Turn LLM-Generated HTML into Images Using PuppeteerSharp with .NET](https://dev.to/auyeungdavid_2847435260/turn-llm-generated-html-into-images-using-puppeteersharp-with-net-5hh8)
+- [Building a Real-Time System Health Dashboard with Powershell, HTML &amp; CSS](https://dev.to/kwamzdev/building-a-real-time-system-health-dashboard-with-powershell-html-css-j1l)
+- [How i struggle with exporting DeepSeek to PDF and make my own solution](https://dev.to/slava_bf6417e5f358b9de1e2/how-i-struggle-with-exporting-deepseek-to-pdf-and-make-my-own-solution-419p)
+- [Adam Savage&#39;s Tested: Why Adam Savage Loves His Ruler Tattoo &lpar;with @Nerdforge&rpar;](https://dev.to/maker_youtube/adam-savages-tested-why-adam-savage-loves-his-ruler-tattoo-with-nerdforge-5cd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
