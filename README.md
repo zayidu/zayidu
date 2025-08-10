@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SAS Token - Secure way](https://dev.to/uttamchaturvedi9/sas-token-secure-way-1kic)
-- [How I Built a Web Photo Booth with JavaScript, Canvas, and Filters](https://dev.to/bhavya_shukla_6e5b3b7741f/how-i-built-a-web-photo-booth-with-javascript-canvas-and-filters-387a)
-- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
-- [What concepts should I master to be a Data Engineer?](https://dev.to/kihoro_codes_c959f8c68a9c/what-concepts-should-i-master-to-be-a-data-engineer-1chp)
-- [AWS MSK IAM Authentication CLI commands](https://dev.to/aws-builders/aws-msk-iam-authentication-cli-commands-4il4)
+- [Golf.com: Reverse Routing: Playing The Old Course Backwards](https://dev.to/youtube_golf/golfcom-reverse-routing-playing-the-old-course-backwards-25pc)
+- [IGN: Captain Wayne: Vacation Desperation - Official Endless Demo Trailer](https://dev.to/gg_news/ign-captain-wayne-vacation-desperation-official-endless-demo-trailer-26ko)
+- [IGN: Fellowship - Official &#39;Meet Mara&#39; Trailer](https://dev.to/gg_news/ign-fellowship-official-meet-mara-trailer-3poi)
+- [🎯 LiveCaption AI: Real-Time Accessibility Platform with Redis-Powered Intelligence](https://dev.to/arya_koste_5845807df94776/livecaption-ai-real-time-accessibility-platform-with-redis-powered-intelligence-lbp)
+- [An Encryption Algorithm](https://dev.to/steammake3/an-encryption-algorithm-3bd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
