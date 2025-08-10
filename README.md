@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance: Why It Matters Now More Than Ever for Our Digital Future](https://dev.to/jay_all_day/ai-governance-why-it-matters-now-more-than-ever-for-our-digital-future-f5c)
-- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-4l6j)
-- [How Technology Is Transforming Hospitality Careers: The Role of Online Platforms and AI in Job Matching](https://dev.to/israt_jahan_brisy/how-technology-is-transforming-hospitality-careers-the-role-of-online-platforms-and-ai-in-job-3m3h)
-- [Destroy Builds Device - UEFN verse](https://dev.to/kingcalc/destroy-builds-device-uefn-verse-51nk)
-- [PLEASE CHECKOUT MY NEW PROJECT &#39;GITMENTOR&#39;😭](https://dev.to/devvobiero/please-checkout-my-new-project-gitmentor-20m)
+- [How to Use IAM Policies Like a Pro &lpar;With Examples&rpar; 🔐✨](https://dev.to/yash_sonawane25/how-to-use-iam-policies-like-a-pro-with-examples-pbh)
+- [Weekly #32-2025: From GPT-5 to DevOps Mastery — AI, Cloud, and Career Insights](https://dev.to/weekly/weekly-32-2025-from-gpt-5-to-devops-mastery-ai-cloud-and-career-insights-gel)
+- [Ship Retrospective Action Items Directly to GitHub Projects](https://dev.to/mattlewandowski93/ship-retrospective-action-items-directly-to-github-projects-bba)
+- [I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp)
+- [The Hidden Risks of AI in Gaming Age Checks: What Parents Must Know](https://dev.to/jay_all_day/the-hidden-risks-of-ai-in-gaming-age-checks-what-parents-must-know-4d2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
