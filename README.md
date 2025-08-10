@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use IAM Policies Like a Pro &lpar;With Examples&rpar; 🔐✨](https://dev.to/yash_sonawane25/how-to-use-iam-policies-like-a-pro-with-examples-pbh)
-- [Weekly #32-2025: From GPT-5 to DevOps Mastery — AI, Cloud, and Career Insights](https://dev.to/weekly/weekly-32-2025-from-gpt-5-to-devops-mastery-ai-cloud-and-career-insights-gel)
-- [Ship Retrospective Action Items Directly to GitHub Projects](https://dev.to/mattlewandowski93/ship-retrospective-action-items-directly-to-github-projects-bba)
-- [I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp)
-- [The Hidden Risks of AI in Gaming Age Checks: What Parents Must Know](https://dev.to/jay_all_day/the-hidden-risks-of-ai-in-gaming-age-checks-what-parents-must-know-4d2f)
+- [iOS 26 Liquid Glass in React Native](https://dev.to/candiesocean/ios-26-liquid-glass-in-react-native-28k1)
+- [https://youtu.be/hL2iLFu1gcI?si=obfgors9eDt2dkwB iOS 26 Liquid Glass in React Native](https://dev.to/candiesocean/httpsyoutubehl2ilfu1gcisiobfgors9edt2dkwbios-26-liquid-glass-in-react-native-5d8j)
+- [Adam Savage&#39;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor](https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg)
+- [productivity app](https://dev.to/akshay_mohan_3be14a36564c/productivity-app-48p8)
+- [Everyone is planning to build an AI based business, but rarely do people tell us what we need to build an AI business. Here are my top 5 learnings when I was building the ReThynk AI company from scratch.](https://dev.to/jaideepparashar/everyone-is-planning-to-build-an-ai-based-business-but-rarely-do-people-tell-us-what-we-need-to-4pid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
