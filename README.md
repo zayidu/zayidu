@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Personal Branding in an AI-Dominated Industry: How to Stay Irreplaceable](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-an-ai-dominated-industry-how-to-stay-irreplaceable-2fgj)
-- [RefPerSys inference engine project](https://dev.to/bstarynk/refpersys-inference-engine-project-4gan)
-- [🚀 My Enterprise React Boilerplate – Built from Lessons Learned in Real Projects](https://dev.to/hoang21099/my-enterprise-react-boilerplate-built-from-lessons-learned-in-real-projects-34p)
-- [CamSecure V2 – Advanced Web-Based Surveillance for Modern Security Needs](https://dev.to/mayankchawdhari/camsecure-v2-advanced-web-based-surveillance-for-modern-security-needs-o70)
-- [Serverless and Microservices Architecture](https://dev.to/shivam_malik_9dc6cb90e9e2/serverless-and-microservices-architecture-9fh)
+- [Revolutionizing DevOps with Ansible: The Future of Automated Infrastructure](https://dev.to/vjnvisakh/revolutionizing-devops-with-ansible-the-future-of-automated-infrastructure-de2)
+- [The Certificate Trap That&#39;s Killing Developer Careers in India 💀](https://dev.to/shiva_shanker_k/the-certificate-trap-thats-killing-developer-careers-in-india-ghd)
+- [High-Performance Routing System Design and Implementation&lpar;9173&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation9173-3h7j)
+- [Blockchain and Cryptocurrency Security: DeFi Protocol Analysis](https://dev.to/rafalw3bcraft/blockchain-and-cryptocurrency-security-defi-protocol-analysis-50f9)
+- [Supply Chain Security: Third-Party Risk Assessment Framework](https://dev.to/rafalw3bcraft/supply-chain-security-third-party-risk-assessment-framework-3jkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
