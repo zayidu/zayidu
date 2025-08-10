@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Excel&#39;s strengths and weaknesses in predictive analysis and the role 0fin making data-driven business decisions:](https://dev.to/anaya_manwa_cdff7d1921385/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-0fin-making-data-driven-1630)
-- [Elegant Middleware Architecture Implementation&lpar;0619&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation0619-35oi)
-- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
-- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
-- [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
+- [What Are the Biggest Challenges in Unit Testing and How to Solve Them?](https://dev.to/alok_e75d0463248211c2ca56/what-are-the-biggest-challenges-in-unit-testing-and-how-to-solve-them-2i0k)
+- [Offline File Sharing for Developers — Why It Still Matters in 2025](https://dev.to/sheila_wkeith_822b28732/offline-file-sharing-for-developers-why-it-still-matters-in-2025-2n0k)
+- [Tuple Deconstruction in C#: A Complete Guide](https://dev.to/morteza-jangjoo/tuple-deconstruction-in-c-a-complete-guide-3l17)
+- [Exploring git cherry and git cherry-pick](https://dev.to/bdhamithkumara/exploring-git-cherry-and-git-cherry-pick-59gn)
+- [KeyPilot – Semantic API Gateway with Real-Time AI Routing &amp; Caching](https://dev.to/joeljaison394/keypilot-semantic-api-gateway-with-real-time-ai-routing-caching-2b94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
