@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
-- [_$t$ out of $n$_ with `dcipher` and without](https://dev.to/skaunov/t-out-of-n-with-dcipher-and-without-19he)
-- [🌟 Evolution in Tech: Moving from Monolith to Microservices 🚀](https://dev.to/varun_gor_d8556a6135dfcf5/evolution-in-tech-moving-from-monolith-to-microservices-37gm)
-- [claude code](https://dev.to/peak_tom_7fe2ed1d11aefd01/claude-code-o05)
-- [Excel’s Strengths and Weaknesses in Predictive Analysis and Its Role in Data-Driven Business Decisions](https://dev.to/dilan_bosire_c52bea0549cb/excels-strengths-and-weaknesses-in-predictive-analysis-and-its-role-in-data-driven-business-2189)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-2n8d)
+- [Does the edge need a new database?](https://dev.to/surrealdb/does-the-edge-need-a-new-database-2aic)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;9471&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance9471-j4o)
+- [Programming Fundamentals: What Every Beginner Must Know Before Coding](https://dev.to/arokoola_mayowa_4b95d61ed/programming-fundamentals-what-every-beginner-must-know-before-coding-m4n)
+- [FastMap: Real-Time IoT Anomaly Detection with Redis&#39;s Multi-Model Database](https://dev.to/jonamarkin/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-3bg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
