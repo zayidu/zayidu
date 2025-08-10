@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Lusophone – Agora com Documentação Oficial](https://dev.to/arnaldo/laravel-lusophone-agora-com-documentacao-oficial-38me)
-- [Turn LLM-Generated HTML into Images Using PuppeteerSharp with .NET](https://dev.to/auyeungdavid_2847435260/turn-llm-generated-html-into-images-using-puppeteersharp-with-net-5hh8)
-- [Building a Real-Time System Health Dashboard with Powershell, HTML &amp; CSS](https://dev.to/kwamzdev/building-a-real-time-system-health-dashboard-with-powershell-html-css-j1l)
-- [How i struggle with exporting DeepSeek to PDF and make my own solution](https://dev.to/slava_bf6417e5f358b9de1e2/how-i-struggle-with-exporting-deepseek-to-pdf-and-make-my-own-solution-419p)
-- [Adam Savage&#39;s Tested: Why Adam Savage Loves His Ruler Tattoo &lpar;with @Nerdforge&rpar;](https://dev.to/maker_youtube/adam-savages-tested-why-adam-savage-loves-his-ruler-tattoo-with-nerdforge-5cd6)
+- [Excel&#39;s strengths and weaknesses in predictive analysis and the role 0fin making data-driven business decisions:](https://dev.to/anaya_manwa_cdff7d1921385/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-0fin-making-data-driven-1630)
+- [Elegant Middleware Architecture Implementation&lpar;0619&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation0619-35oi)
+- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
+- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
+- [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
