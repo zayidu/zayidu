@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Data Engineering Core Concepts Simplified](https://dev.to/walnold/15-data-engineering-core-concepts-simplified-5fo3)
-- [Cross-Platform Web Development Without Compromise&lpar;1462&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1462-3oi0)
-- [My Experience &lpar;and Struggles&rpar; with the Beelink ME Mini as a NAS](https://dev.to/sivachaitanya_sala_cb5aa/my-experience-and-struggles-with-the-beelink-me-mini-as-a-nas-26g3)
-- [GPT-5 Is Here: The Agentic Coding Model That Will Transform Dev Workflows](https://dev.to/nikhilwagh/gpt-5-is-here-the-agentic-coding-model-that-will-transform-dev-workflows-583f)
-- [IGN: Spider-Man: Brand New Day - Official ‘Day One on Set’ Featurette &lpar;2026&rpar; Tom Holland, Zendaya](https://dev.to/gg_news/ign-spider-man-brand-new-day-official-day-one-on-set-featurette-2026-tom-holland-zendaya-m7b)
+- [SAS Token - Secure way](https://dev.to/uttamchaturvedi9/sas-token-secure-way-1kic)
+- [How I Built a Web Photo Booth with JavaScript, Canvas, and Filters](https://dev.to/bhavya_shukla_6e5b3b7741f/how-i-built-a-web-photo-booth-with-javascript-canvas-and-filters-387a)
+- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
+- [What concepts should I master to be a Data Engineer?](https://dev.to/kihoro_codes_c959f8c68a9c/what-concepts-should-i-master-to-be-a-data-engineer-1chp)
+- [AWS MSK IAM Authentication CLI commands](https://dev.to/aws-builders/aws-msk-iam-authentication-cli-commands-4il4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
