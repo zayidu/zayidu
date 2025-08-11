@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Your API Login Helper to a Reusable Fixture in Playwright &lpar;JS Version&rpar;](https://dev.to/_codemify_b9533112d373/how-to-convert-your-api-login-helper-to-a-reusable-fixture-in-playwright-js-version-4oe)
-- [Built my own LangChain alternative for routing, analytics &amp; RAG](https://dev.to/darshan_harihar_1424b7787/built-my-own-langchain-alternative-for-routing-analytics-rag-2380)
-- [CFC: Context Flow Control – The Next Step Beyond MCP](https://dev.to/grenishrai/cfc-context-flow-control-the-next-step-beyond-mcp-1917)
-- [Rick Shiels Golf: One of the BEST USA public courses I’ve ever played!](https://dev.to/youtube_golf/rick-shiels-golf-one-of-the-best-usa-public-courses-ive-ever-played-5d0f)
-- [IGN: Henry Halfhead - Official Release Date Trailer](https://dev.to/gg_news/ign-henry-halfhead-official-release-date-trailer-1npa)
+- [Portia AI: Initial Thoughts on GPT-5](https://dev.to/portia-ai/portia-ai-initial-thoughts-on-gpt-5-4ik)
+- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
+- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
+- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
+- [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
