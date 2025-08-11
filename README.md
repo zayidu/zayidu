@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter V10 Release Candidate 2 - What is new?](https://dev.to/actor-dev/brighter-v10-release-candidate-v2-what-is-new-21n2)
-- [Brighter V10 RC2: Novos Recursos, Aperfeiçoamentos e Correções de Bugs](https://dev.to/actor-dev/brighter-v10-rc2-novos-recursos-aperfeicoamentos-e-correcoes-de-bugs-5cm6)
-- [TCP Optimization Techniques for Web Server Performance&lpar;8044&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance8044-1pb2)
-- [HTML to PDF API Tutorial – Generate Fillable PDFs from HTML in Minutes](https://dev.to/demetrat/html-to-pdf-api-tutorial-generate-fillable-pdfs-from-html-in-minutes-129n)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;0912&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90)
+- [📡 Built &quot;rundown&quot; — An AI-Powered RSS Reader at Railway Hackathon](https://dev.to/sbox/built-rundown-an-ai-powered-rss-reader-at-railway-hackathon-39o6)
+- [🚀 Mastering the LEMP Stack: Architecture, Use Cases, and Deployment in Modern Web Development](https://dev.to/princemaxi/mastering-the-lemp-stack-architecture-use-cases-and-deployment-in-modern-web-development-38d4)
+- [I decided to go back to using VS Code.](https://dev.to/ad7/i-decided-to-go-back-to-using-vs-code-2ihi)
+- [Verification vs Validation in Custom Software Development: The Differences, Tools &amp; Benefits](https://dev.to/betterhq/verification-vs-validation-in-custom-software-development-the-differences-tools-benefits-2n78)
+- [Why I Stopped Dreading My TODO List &lpar;An AI Surprise&rpar;](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-stopped-dreading-my-todo-list-an-ai-surprise-4n1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
