@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `57`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-57-2io6)
-- [High-Performance Routing System Design and Implementation&lpar;1534&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation1534-3m4k)
-- [Building an AI Wellness Coach with Redis 8: How Vector Search &amp; Semantic Caching Revolutionized My LLM App](https://dev.to/sanket80/building-an-ai-wellness-coach-with-redis-8-how-vector-search-semantic-caching-revolutionized-my-39an)
-- [Asguard – Blockchain-Powered Security &amp; Intelligence with Redis 8 AI 🛡️🤖](https://dev.to/asamaes/asguard-blockchain-powered-security-intelligence-with-redis-8-ai-48aa)
-- [Network Router Vs Layer 3 Switch, is layer 3 switch is eliminating the requirement of Network Router ?](https://dev.to/dhirendra_c8b2a40ed8cbeeb/network-router-vs-layer-3-switch-is-layer-3-switch-is-eliminating-the-requirement-of-network-ao0)
+- [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga)
+- [Perl 🐪 Weekly #733 - Perl using AI](https://dev.to/szabgab/perl-weekly-733-perl-using-ai-4kp0)
+- [SQL HAVING Explained: Filter Grouped Data With Ease](https://dev.to/dbvismarketing/sql-having-explained-filter-grouped-data-with-ease-5fjd)
+- [Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example](https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh)
+- [Why http://10.0.2.2 Works Instead of localhost in Android Emulator &lpar;React Native + Spring Boot&rpar;](https://dev.to/sathya7032/why-http10022-works-instead-of-localhost-in-android-emulator-react-native-spring-boot-519o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
