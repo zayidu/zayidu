@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Native Application and MSA](https://dev.to/juun_roh_3e5f7b7215c59f8b/cloud-native-application-and-msa-31kc)
-- [VitalSense: Real-Time Patient Triage on Redis &lpar;Streams • Search • JSON • TimeSeries&rpar;](https://dev.to/devinnicholson/vitalsense-real-time-patient-triage-on-redis-streams-search-json-timeseries-3eem)
-- [Stay ahead in web development: latest news, tools, and insights #97](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2)
-- [&quot;Build AI Agents FAST!&quot; Zero-Shot + OpenAI](https://dev.to/moni121189/build-ai-agents-fastzero-shot-openai-102i)
-- [What Is Server Management? Key Practices and Benefits](https://dev.to/serveravatar/what-is-server-management-key-practices-and-benefits-6kh)
+- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `57`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-57-2io6)
+- [High-Performance Routing System Design and Implementation&lpar;1534&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation1534-3m4k)
+- [Building an AI Wellness Coach with Redis 8: How Vector Search &amp; Semantic Caching Revolutionized My LLM App](https://dev.to/sanket80/building-an-ai-wellness-coach-with-redis-8-how-vector-search-semantic-caching-revolutionized-my-39an)
+- [Asguard – Blockchain-Powered Security &amp; Intelligence with Redis 8 AI 🛡️🤖](https://dev.to/asamaes/asguard-blockchain-powered-security-intelligence-with-redis-8-ai-48aa)
+- [Network Router Vs Layer 3 Switch, is layer 3 switch is eliminating the requirement of Network Router ?](https://dev.to/dhirendra_c8b2a40ed8cbeeb/network-router-vs-layer-3-switch-is-layer-3-switch-is-eliminating-the-requirement-of-network-ao0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
