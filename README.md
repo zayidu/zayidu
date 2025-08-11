@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;0048&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework0048-ge6)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;1133&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1133-5a1e)
-- [Self-Hosting Rails Apps with Cloudflare Tunnels - Why I Ditched $17/Month Cloud Hosting for a $599 Mac Mini](https://dev.to/mark_holton/self-hosting-rails-apps-with-cloudflare-tunnels-why-i-ditched-17month-cloud-hosting-for-a-599-4epo)
-- [💬 From Rejection to Revolution: The Engineering Brilliance Behind WhatsApp](https://dev.to/alifa_ara_heya/from-rejection-to-revolution-the-engineering-brilliance-behind-whatsapp-1ij)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;1887&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers1887-3dhp)
+- [Python&#39;s __mro__](https://dev.to/bharathvaj_ganesan/pythons-mro-4ghh)
+- [Modern Server-Side Event Implementation&lpar;2473&rpar;](https://dev.to/socket-use/modern-server-side-event-implementation2473-1e0d)
+- [Knowledge OS — Turning Any File into Instant, Cited Answers with Redis 8](https://dev.to/jcloud/knowledge-os-turning-any-file-into-instant-cited-answers-with-redis-8-3o1k)
+- [Title: The SWE-Lancer Benchmark: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://dev.to/yagyaraj_sharma_6cd410179/title-the-swe-lancer-benchmark-can-frontier-llms-earn-1-million-from-real-world-freelance-1e0f)
+- [Blog Article:](https://dev.to/yagyaraj_sharma_6cd410179/blog-article-1a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
