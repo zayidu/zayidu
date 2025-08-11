@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: I’ve Finally Had Success Aluminum Welding!](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-had-success-aluminum-welding-8ek)
-- [COLORS: Theo Croker - Wrapped in the Weight | A COLORS SHOW](https://dev.to/music_youtube/colors-theo-croker-wrapped-in-the-weight-a-colors-show-4mi5)
-- [Grant Horvat: The Major Cut @ Pebble Beach](https://dev.to/youtube_golf/grant-horvat-the-major-cut-pebble-beach-4nb7)
-- [Peter Finch Golf: I take on the LONGEST HITTERS in the world!](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-hitters-in-the-world-2hfb)
-- [IGN: Peak: The Mesa Update - Official Launch Trailer](https://dev.to/gg_news/ign-peak-the-mesa-update-official-launch-trailer-5141)
+- [Missing Data in R? Complete 2025 Guide to Imputation Techniques](https://dev.to/dipti_m_2e7ba36c478d1a48a/missing-data-in-r-complete-2025-guide-to-imputation-techniques-53g8)
+- [WebGPU Engine from Scratch Part 4: Updating the Pipeline](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-4-updating-the-pipeline-374m)
+- [Test](https://dev.to/ben/test-322n)
+- [Adding Elements to Python Sets](https://dev.to/kiani0x01/adding-elements-to-python-sets-51ej)
+- [Mastering Python Context Managers](https://dev.to/kiani0x01/mastering-python-context-managers-5016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
