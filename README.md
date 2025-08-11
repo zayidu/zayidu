@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Portia AI: Initial Thoughts on GPT-5](https://dev.to/portia-ai/portia-ai-initial-thoughts-on-gpt-5-4ik)
-- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
-- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
-- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
-- [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
+- [Generative AI](https://dev.to/1075213/generative-ai-11i)
+- [Checkout my latest blog! I explained how to design better hero sections and transform your boring hero section into a HeroMaxxed one.](https://dev.to/developeratul/checkout-my-latest-blog-i-explained-how-to-design-better-hero-sections-and-transform-your-boring-4e8)
+- [HTB - Bastion &lpar;Windows&rpar;](https://dev.to/sonyahack1/htb-bastion-windows-34ie)
+- [How to Handle Different Measurement Systems in Your Applications](https://dev.to/srawlins/how-to-handle-different-measurement-systems-in-your-applications-2bgm)
+- [🧬 Predicting Cancer Cells with Machine Learning: My Internship Project](https://dev.to/manognya_l_4c9cee046e761/predicting-cancer-cells-with-machine-learning-my-internship-project-1ll8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
