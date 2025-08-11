@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Missing Data in R? Complete 2025 Guide to Imputation Techniques](https://dev.to/dipti_m_2e7ba36c478d1a48a/missing-data-in-r-complete-2025-guide-to-imputation-techniques-53g8)
-- [WebGPU Engine from Scratch Part 4: Updating the Pipeline](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-4-updating-the-pipeline-374m)
-- [Test](https://dev.to/ben/test-322n)
-- [Adding Elements to Python Sets](https://dev.to/kiani0x01/adding-elements-to-python-sets-51ej)
-- [Mastering Python Context Managers](https://dev.to/kiani0x01/mastering-python-context-managers-5016)
+- [10 Comandos Modernos para seu Terminal](https://dev.to/marcosplusplus/10-comandos-modernos-para-seu-terminal-5bgp)
+- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
+- [IGN: Woochi the Wayfarer - Official Reveal Trailer &lpar;Korean Dub&rpar;](https://dev.to/gg_news/ign-woochi-the-wayfarer-official-reveal-trailer-korean-dub-27g)
+- [IGN: Digimon Story Time Stranger - Official DigiRide Trailer](https://dev.to/gg_news/ign-digimon-story-time-stranger-official-digiride-trailer-l9h)
+- [IGN: How Invincible VS Puts Its Own Unique Mark on the Tag Fighter Genre | Evo 2025](https://dev.to/gg_news/ign-how-invincible-vs-puts-its-own-unique-mark-on-the-tag-fighter-genre-evo-2025-4mjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
