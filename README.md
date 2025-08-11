@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hadil/-26c3)
-- [Mastering the Digital Frontier: Best Practices for Harnessing Version Control Effectively](https://dev.to/vjnvisakh/mastering-the-digital-frontier-best-practices-for-harnessing-version-control-effectively-5an8)
-- [Injecting Toukon &lpar;Self-Mastery Spirit&rpar; into Amazon Q CLI!?](https://dev.to/torifukukaiou/injecting-toukon-self-mastery-spirit-into-amazon-q-cli-3ddb)
-- [Electrical Measurements: Common Types, Tools, and Calculations](https://dev.to/candice88771483/electrical-measurements-common-types-tools-and-calculations-2l8d)
-- [Create 3D Game Worlds with AI](https://dev.to/chiragx309/create-3d-game-worlds-with-ai-5c5o)
+- [Excel’s Strengths and Weaknesses in Predictive Analysis and the Role of Excel in Making Data-Driven Business Decisions](https://dev.to/njeri_kimaru_07fe792621ff/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-of-excel-in-making-data-driven-12if)
+- [Generative AI and No-Code App Builders: Crafting the Next Generation of SEO-Driven Web Experiences](https://dev.to/ankit_baed43884a710a9241e/generative-ai-and-no-code-app-builders-crafting-the-next-generation-of-seo-driven-web-experiences-3k8)
+- [ProjekHarusJadi — Hari 2: Merakit UI Kit di Figma](https://dev.to/zidanpahrudin/projekharusjadi-hari-2-merakit-ui-kit-di-figma-4d58)
+- [Conectando Dois Bancos PostgreSQL com FDW &lpar;DataLink do Heroku&rpar;](https://dev.to/renatosuero/conectando-dois-bancos-postgresql-com-fdw-datalink-do-heroku-43kn)
+- [What Does the Claude 4.1 Drop Mean for Your Next Big Project?](https://dev.to/jovin_george_733dcfc16291/what-does-the-claude-41-drop-mean-for-your-next-big-project-1066)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
