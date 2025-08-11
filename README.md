@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
-- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
-- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
-- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
-- [Side Projects: React Digital Display - The End](https://dev.to/kamil7x/side-projects-react-digital-display-the-end-50o0)
+- [How to Convert Your API Login Helper to a Reusable Fixture in Playwright &lpar;JS Version&rpar;](https://dev.to/_codemify_b9533112d373/how-to-convert-your-api-login-helper-to-a-reusable-fixture-in-playwright-js-version-4oe)
+- [Built my own LangChain alternative for routing, analytics &amp; RAG](https://dev.to/darshan_harihar_1424b7787/built-my-own-langchain-alternative-for-routing-analytics-rag-2380)
+- [CFC: Context Flow Control – The Next Step Beyond MCP](https://dev.to/grenishrai/cfc-context-flow-control-the-next-step-beyond-mcp-1917)
+- [Rick Shiels Golf: One of the BEST USA public courses I’ve ever played!](https://dev.to/youtube_golf/rick-shiels-golf-one-of-the-best-usa-public-courses-ive-ever-played-5d0f)
+- [IGN: Henry Halfhead - Official Release Date Trailer](https://dev.to/gg_news/ign-henry-halfhead-official-release-date-trailer-1npa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
