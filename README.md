@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📡 Built &quot;rundown&quot; — An AI-Powered RSS Reader at Railway Hackathon](https://dev.to/sbox/built-rundown-an-ai-powered-rss-reader-at-railway-hackathon-39o6)
-- [🚀 Mastering the LEMP Stack: Architecture, Use Cases, and Deployment in Modern Web Development](https://dev.to/princemaxi/mastering-the-lemp-stack-architecture-use-cases-and-deployment-in-modern-web-development-38d4)
-- [I decided to go back to using VS Code.](https://dev.to/ad7/i-decided-to-go-back-to-using-vs-code-2ihi)
-- [Verification vs Validation in Custom Software Development: The Differences, Tools &amp; Benefits](https://dev.to/betterhq/verification-vs-validation-in-custom-software-development-the-differences-tools-benefits-2n78)
-- [Why I Stopped Dreading My TODO List &lpar;An AI Surprise&rpar;](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-stopped-dreading-my-todo-list-an-ai-surprise-4n1i)
+- [[Boost]](https://dev.to/hadil/-26c3)
+- [Mastering the Digital Frontier: Best Practices for Harnessing Version Control Effectively](https://dev.to/vjnvisakh/mastering-the-digital-frontier-best-practices-for-harnessing-version-control-effectively-5an8)
+- [Injecting Toukon &lpar;Self-Mastery Spirit&rpar; into Amazon Q CLI!?](https://dev.to/torifukukaiou/injecting-toukon-self-mastery-spirit-into-amazon-q-cli-3ddb)
+- [Electrical Measurements: Common Types, Tools, and Calculations](https://dev.to/candice88771483/electrical-measurements-common-types-tools-and-calculations-2l8d)
+- [Create 3D Game Worlds with AI](https://dev.to/chiragx309/create-3d-game-worlds-with-ai-5c5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
