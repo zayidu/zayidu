@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Comandos Modernos para seu Terminal](https://dev.to/marcosplusplus/10-comandos-modernos-para-seu-terminal-5bgp)
-- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
-- [IGN: Woochi the Wayfarer - Official Reveal Trailer &lpar;Korean Dub&rpar;](https://dev.to/gg_news/ign-woochi-the-wayfarer-official-reveal-trailer-korean-dub-27g)
-- [IGN: Digimon Story Time Stranger - Official DigiRide Trailer](https://dev.to/gg_news/ign-digimon-story-time-stranger-official-digiride-trailer-l9h)
-- [IGN: How Invincible VS Puts Its Own Unique Mark on the Tag Fighter Genre | Evo 2025](https://dev.to/gg_news/ign-how-invincible-vs-puts-its-own-unique-mark-on-the-tag-fighter-genre-evo-2025-4mjf)
+- [INTRODUCTION TO HTML, CSS AND JAVASCRIPT](https://dev.to/gustavo_assis_a7afc177e90/introduction-to-html-css-and-javascript-51gi)
+- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-3cbd)
+- [⚖️ Choosing Between Type I and Type II Errors](https://dev.to/datawithnaomi/choosing-between-type-i-and-type-ii-errors-58nk)
+- [Flutter Roadmap 2025: What You Should Learn to Stay Ahead](https://dev.to/bestaoui_aymen/flutter-roadmap-2025-what-you-should-learn-to-stay-ahead-3b18)
+- [Node.js Code Fix Required](https://dev.to/kinga_grubba_da81c3cef720/nodejs-code-fix-required-3jhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
