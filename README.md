@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Translation Management Tips for Better Efficiency](https://dev.to/colinreed/5-translation-management-tips-for-better-efficiency-462g)
-- [With the arrival of AI, authority building has become necessary for career growth. Writing a book is the most optimised way to build authority. Now, you can turn your expertise into a book with the help of AI. This article will guide you step by step.](https://dev.to/jaideepparashar/with-the-arrival-of-ai-authority-building-has-become-necessary-for-career-growth-writing-a-book-1pme)
-- [How to Turn Your Expertise into a Book with AI &lpar;Step-by-Step&rpar;](https://dev.to/jaideepparashar/how-to-turn-your-expertise-into-a-book-with-ai-step-by-step-13a0)
-- [Brane: The AI Brain for Next-Gen Data Intelligence](https://dev.to/aberthecreator/brane-the-ai-brain-for-next-gen-data-intelligence-3o5j)
-- [Building Scalable Systems](https://dev.to/datnm555_41/building-scalable-systems-27mb)
+- [Cloud Native Application and MSA](https://dev.to/juun_roh_3e5f7b7215c59f8b/cloud-native-application-and-msa-31kc)
+- [VitalSense: Real-Time Patient Triage on Redis &lpar;Streams • Search • JSON • TimeSeries&rpar;](https://dev.to/devinnicholson/vitalsense-real-time-patient-triage-on-redis-streams-search-json-timeseries-3eem)
+- [Stay ahead in web development: latest news, tools, and insights #97](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2)
+- [&quot;Build AI Agents FAST!&quot; Zero-Shot + OpenAI](https://dev.to/moni121189/build-ai-agents-fastzero-shot-openai-102i)
+- [What Is Server Management? Key Practices and Benefits](https://dev.to/serveravatar/what-is-server-management-key-practices-and-benefits-6kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
