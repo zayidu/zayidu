@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Excel’s Strengths and Weaknesses in Predictive Analysis and the Role of Excel in Making Data-Driven Business Decisions](https://dev.to/njeri_kimaru_07fe792621ff/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-of-excel-in-making-data-driven-12if)
-- [Generative AI and No-Code App Builders: Crafting the Next Generation of SEO-Driven Web Experiences](https://dev.to/ankit_baed43884a710a9241e/generative-ai-and-no-code-app-builders-crafting-the-next-generation-of-seo-driven-web-experiences-3k8)
-- [ProjekHarusJadi — Hari 2: Merakit UI Kit di Figma](https://dev.to/zidanpahrudin/projekharusjadi-hari-2-merakit-ui-kit-di-figma-4d58)
-- [Conectando Dois Bancos PostgreSQL com FDW &lpar;DataLink do Heroku&rpar;](https://dev.to/renatosuero/conectando-dois-bancos-postgresql-com-fdw-datalink-do-heroku-43kn)
-- [What Does the Claude 4.1 Drop Mean for Your Next Big Project?](https://dev.to/jovin_george_733dcfc16291/what-does-the-claude-41-drop-mean-for-your-next-big-project-1066)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;9075&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization9075-og1)
+- [[Boost]](https://dev.to/anishamalde/-3bj0)
+- [Traces at Scale: Head or Tail? Sampling Strategies &amp; Scaling the Collector](https://dev.to/taman9333/traces-at-scale-head-or-tail-sampling-strategies-scaling-the-collector-nk)
+- [How server location affects latency?](https://dev.to/serveravatar/how-server-location-affects-latency-4bg)
+- [Will Elon Musk&#39;s xAI Open Sourcing Grok 2 Chatbot Reshape AI Transparency?](https://dev.to/jovin_george_733dcfc16291/will-elon-musks-xai-open-sourcing-grok-2-chatbot-reshape-ai-transparency-3lnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
