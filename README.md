@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DNN CMS: Client Website Restoration Script](https://dev.to/hismightiness/dnn-cms-client-website-restoration-script-g76)
-- [Onionpipe — &quot;Onion Addresses for Anything&quot;](https://dev.to/byteknight/onionpipe-onion-addresses-for-anything-p3d)
-- [Why Learn React in 2025?](https://dev.to/a1guy/why-learn-react-in-2025-35e9)
-- [Modern React Deep Dives: The Patterns and Performance Tricks Every Developer Needs](https://dev.to/a1guy/modern-react-deep-dives-the-patterns-and-performance-tricks-every-developer-needs-4c3h)
-- [CompTIA Labs: Bash Hello World, Linux File Management &amp; Rapid Threat Detection](https://dev.to/labex/comptia-labs-bash-hello-world-linux-file-management-rapid-threat-detection-3g7k)
+- [I Like To Make Stuff: I’ve Finally Had Success Aluminum Welding!](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-had-success-aluminum-welding-8ek)
+- [COLORS: Theo Croker - Wrapped in the Weight | A COLORS SHOW](https://dev.to/music_youtube/colors-theo-croker-wrapped-in-the-weight-a-colors-show-4mi5)
+- [Grant Horvat: The Major Cut @ Pebble Beach](https://dev.to/youtube_golf/grant-horvat-the-major-cut-pebble-beach-4nb7)
+- [Peter Finch Golf: I take on the LONGEST HITTERS in the world!](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-hitters-in-the-world-2hfb)
+- [IGN: Peak: The Mesa Update - Official Launch Trailer](https://dev.to/gg_news/ign-peak-the-mesa-update-official-launch-trailer-5141)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
