@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [INTRODUCTION TO HTML, CSS AND JAVASCRIPT](https://dev.to/gustavo_assis_a7afc177e90/introduction-to-html-css-and-javascript-51gi)
-- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-3cbd)
-- [⚖️ Choosing Between Type I and Type II Errors](https://dev.to/datawithnaomi/choosing-between-type-i-and-type-ii-errors-58nk)
-- [Flutter Roadmap 2025: What You Should Learn to Stay Ahead](https://dev.to/bestaoui_aymen/flutter-roadmap-2025-what-you-should-learn-to-stay-ahead-3b18)
-- [Node.js Code Fix Required](https://dev.to/kinga_grubba_da81c3cef720/nodejs-code-fix-required-3jhi)
+- [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
+- [Peter Finch Golf: Scratch Golfer Vs LONGEST DRIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-drivers-in-the-world-peter-finch-vs-martin-borgmeier-4kjh)
+- [IGN: Dungeon Stalkers - Official Launch Story Trailer](https://dev.to/gg_news/ign-dungeon-stalkers-official-launch-story-trailer-1749)
+- [IGN: Don&#39;t Miss These Awesome Indie Fighting Games From Evo 2025 - Indie Game Roundup](https://dev.to/gg_news/ign-dont-miss-these-awesome-indie-fighting-games-from-evo-2025-indie-game-roundup-403i)
+- [IGN: NVIDIA RTX Remix Contest Adds Ray Tracing, DLSS, &amp; Overhauled Assets to These PC Classics](https://dev.to/gg_news/ign-nvidia-rtx-remix-contest-adds-ray-tracing-dlss-overhauled-assets-to-these-pc-classics-8l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
