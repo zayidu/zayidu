@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI](https://dev.to/1075213/generative-ai-11i)
-- [Checkout my latest blog! I explained how to design better hero sections and transform your boring hero section into a HeroMaxxed one.](https://dev.to/developeratul/checkout-my-latest-blog-i-explained-how-to-design-better-hero-sections-and-transform-your-boring-4e8)
-- [HTB - Bastion &lpar;Windows&rpar;](https://dev.to/sonyahack1/htb-bastion-windows-34ie)
-- [How to Handle Different Measurement Systems in Your Applications](https://dev.to/srawlins/how-to-handle-different-measurement-systems-in-your-applications-2bgm)
-- [🧬 Predicting Cancer Cells with Machine Learning: My Internship Project](https://dev.to/manognya_l_4c9cee046e761/predicting-cancer-cells-with-machine-learning-my-internship-project-1ll8)
+- [DNN CMS: Client Website Restoration Script](https://dev.to/hismightiness/dnn-cms-client-website-restoration-script-g76)
+- [Onionpipe — &quot;Onion Addresses for Anything&quot;](https://dev.to/byteknight/onionpipe-onion-addresses-for-anything-p3d)
+- [Why Learn React in 2025?](https://dev.to/a1guy/why-learn-react-in-2025-35e9)
+- [Modern React Deep Dives: The Patterns and Performance Tricks Every Developer Needs](https://dev.to/a1guy/modern-react-deep-dives-the-patterns-and-performance-tricks-every-developer-needs-4c3h)
+- [CompTIA Labs: Bash Hello World, Linux File Management &amp; Rapid Threat Detection](https://dev.to/labex/comptia-labs-bash-hello-world-linux-file-management-rapid-threat-detection-3g7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
