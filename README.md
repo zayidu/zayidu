@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Organize My Microsoft Teams Chats &lpar;Without Losing My Mind&rpar;](https://dev.to/this-is-learning/how-i-organize-my-microsoft-teams-chats-without-losing-my-mind-2hbm)
-- [How to Hire a Human Translator for Your Company](https://dev.to/liamcorwin/how-to-hire-a-human-translator-for-your-company-20bd)
-- [Week 9 DevOps: Terraform on AWS — Remote State, Modular Code &amp; Best Practices](https://dev.to/azmatahmed/week-9-devops-terraform-on-aws-remote-state-modular-code-best-practices-cdn)
-- [Image Size Inspector v1.0](https://dev.to/dakshu_007/image-size-inspector-v10-hid)
-- [OpenTofu at Scale: 4 Strategies &amp; Scaling Best Practices](https://dev.to/spacelift/opentofu-at-scale-4-strategies-scaling-best-practices-4flk)
+- [Python Flask: Hello World](https://dev.to/szabgab/python-flask-hello-world-jbn)
+- [VinotesApp: A Simple and Practical Online Sticky Notes](https://dev.to/ketutdana/vinotesapp-a-simple-and-practical-online-sticky-notes-14ec)
+- [NPR Music: Mekons: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mekons-tiny-desk-concert-5cjh)
+- [Golf.com: How The Old Course Was Originally Played](https://dev.to/youtube_golf/golfcom-how-the-old-course-was-originally-played-352l)
+- [Peter Finch Golf: Peter Finch vs LONGEST DRIVERS in the WORLD! &lpar;Martin Borgmeier &amp; Cassandra Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-longest-drivers-in-the-world-martin-borgmeier-cassandra-meyer-57pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
