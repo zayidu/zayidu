@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Flask: Hello World](https://dev.to/szabgab/python-flask-hello-world-jbn)
-- [VinotesApp: A Simple and Practical Online Sticky Notes](https://dev.to/ketutdana/vinotesapp-a-simple-and-practical-online-sticky-notes-14ec)
-- [NPR Music: Mekons: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mekons-tiny-desk-concert-5cjh)
-- [Golf.com: How The Old Course Was Originally Played](https://dev.to/youtube_golf/golfcom-how-the-old-course-was-originally-played-352l)
-- [Peter Finch Golf: Peter Finch vs LONGEST DRIVERS in the WORLD! &lpar;Martin Borgmeier &amp; Cassandra Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-longest-drivers-in-the-world-martin-borgmeier-cassandra-meyer-57pg)
+- [Build a Serverless Distance Calculator on AWS &lpar;Amplify, Lambda, API Gateway &amp; DynamoDB&rpar;](https://dev.to/aws-builders/build-a-serverless-distance-calculator-on-aws-amplify-lambda-api-gateway-dynamodb-2jdn)
+- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
+- [Build tools:- Vite ~ Webpack &amp; Deploy the Dist Folder](https://dev.to/ashutoshsarangi/build-tools-vite-webpack-deploy-the-dist-folder-50kb)
+- [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
+- [The Importance of Technical Writing Services in the Digital Age](https://dev.to/essentialdata/the-importance-of-technical-writing-services-in-the-digital-age-2g3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
