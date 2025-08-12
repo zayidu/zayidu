@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Real-Time Financial and Geopolitical News into Make.com Workflows with finlight](https://dev.to/jubeiargh/integrate-real-time-financial-and-geopolitical-news-into-makecom-workflows-with-finlight-2fec)
-- [Truth About Data Engineering Myths in 2025](https://dev.to/prepzee/truth-about-data-engineering-myths-in-2025-3dkc)
-- [How to Choose the Perfect Embedded SBC for Your Next Project: 5 Essential Factors](https://dev.to/lauraaa/how-to-choose-the-perfect-embedded-sbc-for-your-next-project-5-essential-factors-5fbb)
-- [AI in Everyday Objects: The Coming Wave of Ambient Intelligence](https://dev.to/koolkamalkishor/ai-in-everyday-objects-the-coming-wave-of-ambient-intelligence-d9)
-- [MOD-CSS v4 — Now Fully Compatible with React &lpar;and Most Modern JS/TS Frameworks&rpar; 🚀](https://dev.to/dev_geos/mod-css-v4-now-fully-compatible-with-react-and-most-modern-jsts-frameworks-2o7a)
+- [How I Organize My Microsoft Teams Chats &lpar;Without Losing My Mind&rpar;](https://dev.to/this-is-learning/how-i-organize-my-microsoft-teams-chats-without-losing-my-mind-2hbm)
+- [How to Hire a Human Translator for Your Company](https://dev.to/liamcorwin/how-to-hire-a-human-translator-for-your-company-20bd)
+- [Week 9 DevOps: Terraform on AWS — Remote State, Modular Code &amp; Best Practices](https://dev.to/azmatahmed/week-9-devops-terraform-on-aws-remote-state-modular-code-best-practices-cdn)
+- [Image Size Inspector v1.0](https://dev.to/dakshu_007/image-size-inspector-v10-hid)
+- [OpenTofu at Scale: 4 Strategies &amp; Scaling Best Practices](https://dev.to/spacelift/opentofu-at-scale-4-strategies-scaling-best-practices-4flk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
