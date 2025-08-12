@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Second Round Interview Experience at Flextronics](https://dev.to/seenuvasan_p/my-second-round-interview-experience-at-flextronics-4970)
-- [Company Overview: Hubstry &amp; GuruDev®](https://dev.to/guilhermemachadoceo/company-overview-hubstry-gurudevr-4ep2)
-- [De Kotlin e Go para Clojure: uma jornada de 8 meses no Nubank.](https://dev.to/fernandosvrosa/de-kotlin-e-go-para-clojure-uma-jornada-de-8-meses-no-nubank-e-o-prazer-de-codificar-de-um-jeito-1m34)
-- [Title: Bitcoin Mining Profitability Surges to Record Highs in July, JPMorgan Report](https://dev.to/yagyaraj_sharma_6cd410179/title-bitcoin-mining-profitability-surges-to-record-highs-in-july-jpmorgan-report-2703)
-- [Building a Zoom Meeting Bot in 2025 on AWS](https://dev.to/atsimabistov/building-a-zoom-meeting-bot-in-2025-on-aws-2k4h)
+- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
+- [The Rise of E-commerce in Dubai](https://dev.to/willoff_7e960ef913c40b873/the-rise-of-e-commerce-in-dubai-1mpd)
+- [Building Fault-Tolerant Systems: Lessons and Strategies](https://dev.to/vulfh/building-fault-tolerant-systems-lessons-and-strategies-1p7k)
+- [He vuelto, mi comienzo como desarrollador](https://dev.to/darito/he-vuelto-mi-comienzo-como-desarrollador-16fp)
+- [100+ Rejections, No FAANG Internship, and Still a Senior SWE — Here’s How She Did It](https://dev.to/codeharman/100-rejections-no-faang-internship-and-still-a-senior-swe-heres-how-she-did-it-419e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
