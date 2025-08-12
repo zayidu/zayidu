@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Christopher Nolan&#39;s &#39;The Odyssey&#39; Wraps Filming](https://dev.to/popcorn_movies/christopher-nolans-the-odyssey-wraps-filming-47g2)
-- [Alan Tudyk Says He Got Dropped From ‘I, Robot&#39; Publicity After Testing Higher Than Will Smith With Test Screening Audiences](https://dev.to/popcorn_movies/alan-tudyk-says-he-got-dropped-from-i-robot-publicity-after-testing-higher-than-will-smith-with-2ie5)
-- [Ramy Youssef Exits Will Ferrell&#39;s Netflix Golf Comedy Over Creative Differences; Molly Shannon Joins Cast](https://dev.to/popcorn_tv/ramy-youssef-exits-will-ferrells-netflix-golf-comedy-over-creative-differences-molly-shannon-5ak8)
-- [The TVLine Performer of the Week: Alan Tudyk &lpar;&quot;Resident Alien&quot;&rpar;](https://dev.to/popcorn_tv/the-tvline-performer-of-the-week-alan-tudyk-resident-alien-30m6)
-- [Miranda Cosgrove shares &#39;exciting&#39; update on iCarly movie: &#39;It looks like it&#39;s happening&#39;](https://dev.to/popcorn_tv/miranda-cosgrove-shares-exciting-update-on-icarly-movie-it-looks-like-its-happening-202g)
+- [ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS](https://dev.to/edersonbrilhante/forgemt-github-actions-at-scale-with-security-and-multi-tenancy-on-aws-3no9)
+- [From 0 to 500 GitHub Stars in 60 Days: Fixing RAG Hallucination with a Symbolic Layer](https://dev.to/onestardao/from-0-to-500-github-stars-in-60-days-fixing-rag-hallucination-with-a-symbolic-layer-2h3e)
+- [Day 63: When Constraints Force Clarity](https://dev.to/casperday11/day-63-when-constraints-force-clarity-4h9m)
+- [📘 Cracking the Coding Interview — Master Technical Interviews](https://dev.to/ml318097/cracking-the-coding-interview-master-technical-interviews-2439)
+- [&quot;exceptions are for exceptional behavior&quot; makes no sense. People realize that &quot;exceptional&quot; means &quot;uncommon&quot;, right? If you find out people rarely use a particular feature, you go in and change the code path to an exception, and vice versa? I hope not.](https://dev.to/thescottyjam/exceptions-are-for-exceptional-behavior-makes-no-sense-people-realize-that-exceptional-means-5d0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
