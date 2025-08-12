@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conjuntos numéricos](https://dev.to/bussularf/conjuntos-numericos-199d)
-- [Understanding the Key Metrics in Performance Testing: What Should You Measure](https://dev.to/misterankit/understanding-the-key-metrics-in-performance-testing-what-should-you-measure-562)
-- [Wait a minute, where&#39;s this week&#39;s Meme Monday post?! 😱](https://dev.to/fyodorio/wait-a-minute-wheres-this-weeks-meme-monday-post-2cmh)
-- [Virtualization for Large Lists](https://dev.to/maurya-sachin/virtualization-for-large-lists-in8)
-- [Top 12 Companies Using Vite JS](https://dev.to/nube_colectiva_nc/top-12-companies-using-vite-js-4mh1)
+- [From Prototype to Production: Estimating the Cost of AI Scaling](https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo)
+- [Nested if and syntax , Debug Point and Constructor](https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e)
+- [AI Weekend Projects That Slash Repetitive Work](https://dev.to/hiruthicsha/ai-weekend-projects-that-slash-repetitive-work-5727)
+- [5 VS Code Extensions That Boost My Productivity as a Developer](https://dev.to/falcon_trackersqatar_dae/5-vs-code-extensions-that-boost-my-productivity-as-a-developer-1p7j)
+- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-28o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
