@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine learning](https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6)
-- [From Doubts to Done - How I hosted my first fullstack webapp](https://dev.to/bolaji-writes/from-doubts-to-done-how-i-hosted-my-first-fullstack-webapp-44b4)
-- [How Junior and Senior Developers Use Git: A Story of Two Mindsets](https://dev.to/er-raj-aryan/how-junior-and-senior-developers-use-git-a-story-of-two-mindsets-2g4j)
-- [This &quot;Clean&quot; Java Code Hides a Bug! 🐛](https://dev.to/code_crafter_14/this-clean-java-code-hides-a-bug-24if)
-- [🐳 Docker Explained with a Food Truck 🍔](https://dev.to/code_crafter_14/docker-explained-with-a-food-truck-4jck)
+- [I Like To Make Stuff: I Can FINALLY WELD ALUMINUM!!](https://dev.to/maker_youtube/i-like-to-make-stuff-i-can-finally-weld-aluminum-1d1j)
+- [Golf.com: Travis Kelce’s Lost Putter, NFL Bombshells &amp; Fantasy Sleepers | Ian Rapoport](https://dev.to/youtube_golf/golfcom-travis-kelces-lost-putter-nfl-bombshells-fantasy-sleepers-ian-rapoport-576p)
+- [Rick Shiels Golf: How to hit MORE fairways……It’s Easier Than You Think](https://dev.to/youtube_golf/rick-shiels-golf-how-to-hit-more-fairwaysits-easier-than-you-think-4mf4)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-5261)
+- [IGN: Magic: The Gathering x Avatar: The Last Airbender - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-avatar-the-last-airbender-official-trailer-5a20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
