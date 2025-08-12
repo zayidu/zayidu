@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Serverless Distance Calculator on AWS &lpar;Amplify, Lambda, API Gateway &amp; DynamoDB&rpar;](https://dev.to/aws-builders/build-a-serverless-distance-calculator-on-aws-amplify-lambda-api-gateway-dynamodb-2jdn)
-- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
-- [Build tools:- Vite ~ Webpack &amp; Deploy the Dist Folder](https://dev.to/ashutoshsarangi/build-tools-vite-webpack-deploy-the-dist-folder-50kb)
-- [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
-- [The Importance of Technical Writing Services in the Digital Age](https://dev.to/essentialdata/the-importance-of-technical-writing-services-in-the-digital-age-2g3p)
+- [Spring Boot Logging to File with Pattern Layout, Package-specific Levels, and Rolling Policies](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-logging-to-file-with-pattern-layout-package-specific-levels-and-rolling-policies-e4a)
+- [The Dark Side of Vibe-Coding: Debugging, Technical Debt &amp; Security Risks](https://dev.to/arbisoftcompany/the-dark-side-of-vibe-coding-debugging-technical-debt-security-risks-9ef)
+- [AI Business Landing Page | GSAP &amp; Tailwind](https://dev.to/devmastermind/ai-business-landing-page-gsap-tailwind-44og)
+- [🚀 Vonage Developer Newsletter, July 2025: RCS, AI, and Network APIs!](https://dev.to/vonagedev/vonage-developer-newsletter-july-2025-rcs-ai-and-network-apis-ed0)
+- [150 lines of AI Web Search Agent](https://dev.to/shreyvijayvargiya/150-lines-of-ai-web-search-agent-5e42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
