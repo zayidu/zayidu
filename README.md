@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Azure Communication Services &lpar;ACS&rpar; with Terraform](https://dev.to/techielass/deploy-azure-communication-services-acs-with-terraform-3jdd)
-- [Japanglish Tech Talk #6 Presentation Introduction](https://dev.to/tamtam0829/japanglish-tech-talk-6-presentation-introduction-1bkg)
-- [The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀](https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4)
-- [Motorcycle Battery: The Little Prince’s Tiny Power Star](https://dev.to/ersajay/motorcycle-battery-the-little-princes-tiny-power-star-cpo)
-- [The Best Full Stack Development Courses You Can Take in 2025](https://dev.to/ankita_singh_hob/the-best-full-stack-development-courses-you-can-take-in-2025-2p9n)
+- [Integrate Real-Time Financial and Geopolitical News into Make.com Workflows with finlight](https://dev.to/jubeiargh/integrate-real-time-financial-and-geopolitical-news-into-makecom-workflows-with-finlight-2fec)
+- [Truth About Data Engineering Myths in 2025](https://dev.to/prepzee/truth-about-data-engineering-myths-in-2025-3dkc)
+- [How to Choose the Perfect Embedded SBC for Your Next Project: 5 Essential Factors](https://dev.to/lauraaa/how-to-choose-the-perfect-embedded-sbc-for-your-next-project-5-essential-factors-5fbb)
+- [AI in Everyday Objects: The Coming Wave of Ambient Intelligence](https://dev.to/koolkamalkishor/ai-in-everyday-objects-the-coming-wave-of-ambient-intelligence-d9)
+- [MOD-CSS v4 — Now Fully Compatible with React &lpar;and Most Modern JS/TS Frameworks&rpar; 🚀](https://dev.to/dev_geos/mod-css-v4-now-fully-compatible-with-react-and-most-modern-jsts-frameworks-2o7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
