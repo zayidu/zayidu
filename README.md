@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Prototype to Production: Estimating the Cost of AI Scaling](https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo)
-- [Nested if and syntax , Debug Point and Constructor](https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e)
-- [AI Weekend Projects That Slash Repetitive Work](https://dev.to/hiruthicsha/ai-weekend-projects-that-slash-repetitive-work-5727)
-- [5 VS Code Extensions That Boost My Productivity as a Developer](https://dev.to/falcon_trackersqatar_dae/5-vs-code-extensions-that-boost-my-productivity-as-a-developer-1p7j)
-- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-28o6)
+- [Deploy Azure Communication Services &lpar;ACS&rpar; with Terraform](https://dev.to/techielass/deploy-azure-communication-services-acs-with-terraform-3jdd)
+- [Japanglish Tech Talk #6 Presentation Introduction](https://dev.to/tamtam0829/japanglish-tech-talk-6-presentation-introduction-1bkg)
+- [The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀](https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4)
+- [Motorcycle Battery: The Little Prince’s Tiny Power Star](https://dev.to/ersajay/motorcycle-battery-the-little-princes-tiny-power-star-cpo)
+- [The Best Full Stack Development Courses You Can Take in 2025](https://dev.to/ankita_singh_hob/the-best-full-stack-development-courses-you-can-take-in-2025-2p9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
