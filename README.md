@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Brands Join &lpar;and Leave&rpar; Shopify?](https://dev.to/rafaelcg/why-brands-join-and-leave-shopify-31gn)
-- [The Sneaky JavaScript Bug That Hides in Plain Sight — A 0 That Broke My Code](https://dev.to/hijazi313/the-sneaky-javascript-bug-that-hides-in-plain-sight-a-0-that-broke-my-code-461c)
-- [🚀 How I Built an AI Agent That Generates Structured Test Cases in Minutes](https://dev.to/dasha_tsion_31379cfb51dd7/how-i-built-an-ai-agent-that-generates-structured-test-cases-in-minutes-1h0g)
-- [Why React and Django Make a Powerful Full-Stack Duo?](https://dev.to/mumbere_darius_ed30fc85dc/why-react-and-django-make-a-powerful-full-stack-duo-3l3k)
-- [Beyond Automation: The Role of AI and Gen AI in Modern Software Testing](https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1)
+- [GameSpot: Marvel Tokon Looks Set To Become The Next Big Fighting Game | Hands-On Impressions](https://dev.to/gg_news/gamespot-marvel-tokon-looks-set-to-become-the-next-big-fighting-game-hands-on-impressions-2n31)
+- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-5blp)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-3elf)
+- [IGN: VR Games Showcase - August 2025](https://dev.to/gg_news/ign-vr-games-showcase-august-2025-4gl9)
+- [IGN: Baki Hanma: Blood Arena - Official Release Date Trailer](https://dev.to/gg_news/ign-baki-hanma-blood-arena-official-release-date-trailer-5cg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
