@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give this read, it is inspiring, raw and honest!](https://dev.to/batunpc/give-this-read-it-is-inspiring-raw-and-honest-1ac9)
-- [Create training job for YOLO model on Amazon SageMaker with AWS Lambda](https://dev.to/aws-builders/create-training-job-for-yolo-model-on-amazon-sagemaker-with-aws-lambda-1n51)
-- [Why Developers Should Care About Context Switching](https://dev.to/ethan_chase_83bddbb637304/why-developers-should-care-about-context-switching-2lg5)
-- [Instalando e Utilizando o Windows Subsystem for Android &lpar;WSA&rpar; com Root](https://dev.to/vncsmnl/transforme-seu-windows-em-um-android-turbinado-guia-completo-para-instalar-o-wsa-com-root-1i5)
-- [NEAR vs Polkadot: Real Dev Shit You Gotta Know &lpar;Before You Lose Your Hair&rpar;](https://dev.to/dilopani7/near-vs-polkadot-real-dev-shit-you-gotta-know-before-you-lose-your-hair-3mnp)
+- [Machine learning](https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6)
+- [From Doubts to Done - How I hosted my first fullstack webapp](https://dev.to/bolaji-writes/from-doubts-to-done-how-i-hosted-my-first-fullstack-webapp-44b4)
+- [How Junior and Senior Developers Use Git: A Story of Two Mindsets](https://dev.to/er-raj-aryan/how-junior-and-senior-developers-use-git-a-story-of-two-mindsets-2g4j)
+- [This &quot;Clean&quot; Java Code Hides a Bug! 🐛](https://dev.to/code_crafter_14/this-clean-java-code-hides-a-bug-24if)
+- [🐳 Docker Explained with a Food Truck 🍔](https://dev.to/code_crafter_14/docker-explained-with-a-food-truck-4jck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
