@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: I Can FINALLY WELD ALUMINUM!!](https://dev.to/maker_youtube/i-like-to-make-stuff-i-can-finally-weld-aluminum-1d1j)
-- [Golf.com: Travis Kelce’s Lost Putter, NFL Bombshells &amp; Fantasy Sleepers | Ian Rapoport](https://dev.to/youtube_golf/golfcom-travis-kelces-lost-putter-nfl-bombshells-fantasy-sleepers-ian-rapoport-576p)
-- [Rick Shiels Golf: How to hit MORE fairways……It’s Easier Than You Think](https://dev.to/youtube_golf/rick-shiels-golf-how-to-hit-more-fairwaysits-easier-than-you-think-4mf4)
-- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-5261)
-- [IGN: Magic: The Gathering x Avatar: The Last Airbender - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-avatar-the-last-airbender-official-trailer-5a20)
+- [Why Brands Join &lpar;and Leave&rpar; Shopify?](https://dev.to/rafaelcg/why-brands-join-and-leave-shopify-31gn)
+- [The Sneaky JavaScript Bug That Hides in Plain Sight — A 0 That Broke My Code](https://dev.to/hijazi313/the-sneaky-javascript-bug-that-hides-in-plain-sight-a-0-that-broke-my-code-461c)
+- [🚀 How I Built an AI Agent That Generates Structured Test Cases in Minutes](https://dev.to/dasha_tsion_31379cfb51dd7/how-i-built-an-ai-agent-that-generates-structured-test-cases-in-minutes-1h0g)
+- [Why React and Django Make a Powerful Full-Stack Duo?](https://dev.to/mumbere_darius_ed30fc85dc/why-react-and-django-make-a-powerful-full-stack-duo-3l3k)
+- [Beyond Automation: The Role of AI and Gen AI in Modern Software Testing](https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
