@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We&#39;re Building a Decentralized App Store for AI Agents on Web3](https://dev.to/jneums/how-were-building-a-decentralized-app-store-for-ai-agents-on-web3-2dh2)
-- [Event Day&rpar;&rpar;](https://dev.to/ajayr18/event-day-3dho)
-- [Building Virtual Agents with Amazon Nova Sonic S2S](https://dev.to/aws/building-virtual-agents-with-amazon-nova-sonic-s2s-23m7)
-- [Simple Chunking Approaches: Fixed-Size and Recursive Methods](https://dev.to/uhasker/simple-chunking-approaches-fixed-size-and-recursive-methods-i0p)
-- [Build a Simple Chat Character Gallery like Character AI Tutorial](https://dev.to/jte0711/build-a-simple-chat-character-gallery-like-character-ai-tutorial-4da6)
+- [COLORS: Lila Iké - Scatter | A COLORS MOMENT](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-moment-2mab)
+- [Linus Tech Tips &lpar;LTT&rpar;: Linus REALLY Should have Been Here… AMD $5000 Ultimate Tech Upgrade](https://dev.to/future_youtube/linus-tech-tips-ltt-linus-really-should-have-been-here-amd-5000-ultimate-tech-upgrade-ne8)
+- [IGN: Marty Supreme - Official Trailer &lpar;2025&rpar; Timothée Chalamet, Gwyneth Paltrow, Odessa A&#39;zion](https://dev.to/gg_news/ign-marty-supreme-official-trailer-2025-timothee-chalamet-gwyneth-paltrow-odessa-azion-1e1o)
+- [IGN: Marvel Rivals - Official Cloak and Dagger Polarity Bond Costume Reveal Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-cloak-and-dagger-polarity-bond-costume-reveal-trailer-59h4)
+- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-5ebe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
