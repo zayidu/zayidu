@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Variables &amp; Memory: The Deep-Dive Every Beginner Needs](https://dev.to/anik_sikder_313/python-variables-memory-the-deep-dive-every-beginner-needs-425h)
-- [Docker is exactly the same everywhere... wait, not quite!](https://dev.to/boutell/docker-is-exactly-the-same-everywhere-wait-not-quite-21c7)
-- [How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀](https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm)
-- [How to setup Trello MCP server with Claude and Cursor for efficient task tracking](https://dev.to/aakash67/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-4c60)
-- [Assurance voyage pour digital nomades : le guide complet 2025](https://dev.to/maroc_assistance_international/assurance-voyage-pour-digital-nomades-le-guide-complet-2025-31k2)
+- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
+- [COLORS: Lila Iké - Scatter | A COLORS SHOW](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-show-4okb)
+- [KEXP: The Wedding Present - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-full-performance-live-on-kexp-ojh)
+- [Tech With Tim: Advanced Vibe Coding Tutorial w/ Warp &lpar;Build &amp; Deploy Apps&rpar;](https://dev.to/vibe_youtube/tech-with-tim-advanced-vibe-coding-tutorial-w-warp-build-deploy-apps-178j)
+- [IGN: Red Sonja: Exclusive Clip &lpar;2025&rpar; Matilda Lutz, Robert Sheehan](https://dev.to/gg_news/ign-red-sonja-exclusive-clip-2025-matilda-lutz-robert-sheehan-2ja7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
