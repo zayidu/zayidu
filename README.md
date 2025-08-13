@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Server-Side Event Implementation&lpar;6178&rpar;](https://dev.to/member_fa85c472/modern-server-side-event-implementation6178-3nnk)
-- [How I Built a Python CLI for Blazing-Fast Crypto Exchange Price Notifications](https://dev.to/imlucky883/how-i-built-a-python-cli-for-blazing-fast-crypto-exchange-price-notifications-20dp)
-- [Thunder Client’s Collections paywall? Move Your Projects to EchoAPI Effortlessly!](https://dev.to/lazyasscoder/thunder-clients-collections-paywall-move-your-projects-to-echoapi-effortlessly-lkf)
-- [Krish Naik: Everyday AI: Automate Your Social Media with AI &lpar;Live Demo + Setup Guide&rpar;](https://dev.to/vibe_youtube/krish-naik-everyday-ai-automate-your-social-media-with-ai-live-demo-setup-guide-4djh)
-- [Best Practices for Managing Multiple Vendor Dependencies](https://dev.to/isdown/best-practices-for-managing-multiple-vendor-dependencies-555a)
+- [Python Variables &amp; Memory: The Deep-Dive Every Beginner Needs](https://dev.to/anik_sikder_313/python-variables-memory-the-deep-dive-every-beginner-needs-425h)
+- [Docker is exactly the same everywhere... wait, not quite!](https://dev.to/boutell/docker-is-exactly-the-same-everywhere-wait-not-quite-21c7)
+- [How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀](https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm)
+- [How to setup Trello MCP server with Claude and Cursor for efficient task tracking](https://dev.to/aakash67/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-4c60)
+- [Assurance voyage pour digital nomades : le guide complet 2025](https://dev.to/maroc_assistance_international/assurance-voyage-pour-digital-nomades-le-guide-complet-2025-31k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
