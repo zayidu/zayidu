@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://dev.to/techielass/how-to-use-terraform-refresh-only-to-prevent-state-drift-and-ensure-accurate-resource-management-23n7)
-- [Unicode-Gen: TypeScript Library for Random Emoji Generation](https://dev.to/jqueryscript/unicode-gen-typescript-library-for-random-emoji-generation-30kc)
-- [7 Tech Pain Points Every Startup Faces While Working With A Software Development Agency](https://dev.to/betterhq/7-tech-pain-points-every-startup-faces-while-working-with-a-software-development-agency-2g0o)
-- [Building a Ragnarok Online Server in Elixir - Part 2](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-2-4pn5)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;3086&rpar;](https://dev.to/member_fa85c472/server-side-events-implementation-for-real-time-applications3086-5fj4)
+- [IoT platform — Total.js](https://dev.to/palo/iot-platform-totaljs-41p4)
+- [Angular Addicts #40: Angular 20.1, NgRx 20, Zoneless testing, Native Federation &amp; more](https://dev.to/this-is-angular/angular-addicts-40-angular-201-ngrx-20-zoneless-testing-native-federation-more-3cob)
+- [Fostering a Growth Mindset: The Unexpected Benefits of Online Learning for Students](https://dev.to/ghummantech/fostering-a-growth-mindset-the-unexpected-benefits-of-online-learning-for-students-56n6)
+- [Stop using React hooks for every things](https://dev.to/david_poulain/stop-using-react-hooks-for-every-things-p73)
+- [Custom Software Development – Build Solutions That Fit Your Needs](https://dev.to/prashant_ba8e01191938c7fc/custom-software-development-build-solutions-that-fit-your-needs-3i47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
