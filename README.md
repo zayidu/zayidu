@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT platform — Total.js](https://dev.to/palo/iot-platform-totaljs-41p4)
-- [Angular Addicts #40: Angular 20.1, NgRx 20, Zoneless testing, Native Federation &amp; more](https://dev.to/this-is-angular/angular-addicts-40-angular-201-ngrx-20-zoneless-testing-native-federation-more-3cob)
-- [Fostering a Growth Mindset: The Unexpected Benefits of Online Learning for Students](https://dev.to/ghummantech/fostering-a-growth-mindset-the-unexpected-benefits-of-online-learning-for-students-56n6)
-- [Stop using React hooks for every things](https://dev.to/david_poulain/stop-using-react-hooks-for-every-things-p73)
-- [Custom Software Development – Build Solutions That Fit Your Needs](https://dev.to/prashant_ba8e01191938c7fc/custom-software-development-build-solutions-that-fit-your-needs-3i47)
+- [More Than Code: The Friendships You’ll Build at FriendlyRB](https://dev.to/lucianghinda/more-than-code-the-friendships-youll-build-at-friendlyrb-589k)
+- [My Internship Experience at Oasis Infobyte – A Milestone in My Second Year of B.Tech](https://dev.to/suryvardhan_mishra_272997/my-internship-experience-at-oasis-infobyte-a-milestone-in-my-second-year-of-btech-43df)
+- [HTTP Response Optimization and Streaming Techniques&lpar;1071&rpar;](https://dev.to/member_fa85c472/http-response-optimization-and-streaming-techniques1071-19fj)
+- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
+- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
