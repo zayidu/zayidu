@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI-Powered Finance Tools That Reduce Manual Work for SaaS Businesses](https://dev.to/joywinter90/top-ai-powered-finance-tools-that-reduce-manual-work-for-saas-businesses-11l2)
-- [CRA and Open Source](https://dev.to/lizmat/cra-and-open-source-4ljm)
-- [How To Secure Laravel API Authentication with Sanctum — Complete Security Guide](https://dev.to/nganggurdev/how-to-secure-laravel-api-authentication-with-sanctum-complete-security-guide-541n)
-- [From Data to Decisions: How Predictive Analytics Shapes Winning Business Strategies](https://dev.to/arbisoftcompany/from-data-to-decisions-how-predictive-analytics-shapes-winning-business-strategies-26e5)
-- [🚀 Python for DevOps Week 2 &amp; Week 3: Automating Daily Ops &amp; Containerizing with Docker](https://dev.to/techwithhari/python-for-devops-week-2-week-3-automating-daily-ops-containerizing-with-docker-4cea)
+- [Flask: testing hello world](https://dev.to/szabgab/flask-testing-hello-world-ej)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
+- [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
+- [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
+- [Parasite SEO vs. Traditional SEO: Which Is Better for Fast Results in 2025?](https://dev.to/bloggrai/parasite-seo-vs-traditional-seo-which-is-better-for-fast-results-in-2025-1388)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
