@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 64: When Professors Forget They&#39;re Teachers, Not Gatekeepers](https://dev.to/casperday11/day-64-when-professors-forget-theyre-teachers-not-gatekeepers-e58)
-- [Great article!](https://dev.to/wisedev-pstach/great-article-51nj)
-- [Automating Quality Control Queries with AI Assistance](https://dev.to/gabrielmateo/automating-quality-control-queries-with-ai-assistance-3jm1)
-- [My Journey from Data Confusion to Data Mastery: A Personal Reflection on the Data Science Revolution](https://dev.to/gowtham_pps_c485763158a84/my-journey-from-data-confusion-to-data-mastery-a-personal-reflection-on-the-data-science-revolution-59k0)
-- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-e7l)
+- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
+- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
+- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
+- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
+- [Managing Multiple Environments in AWS SAM &lpar;dev/prod&rpar;](https://dev.to/a-k-0047/managing-multiple-environments-in-aws-sam-devprod-4o6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
