@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
-- [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
-- [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
-- [Testing post](https://dev.to/openaicookbook/testing-post-59ml)
-- [To Summarize: AI is still A WORK IN PROGRESS!! With that understanding, lets see how far it takes us. MJ DeYoung](https://dev.to/newb21/to-summarize-ai-is-still-a-work-in-progress-with-that-understanding-lets-see-how-far-it-takes-3l09)
+- [Dipping Your Toes into AI? Here&#39;s What You Should Read.](https://dev.to/happycoding753/dipping-your-toes-into-ai-heres-what-you-should-read-c65)
+- [Elegant Middleware Architecture Implementation&lpar;2545&rpar;](https://dev.to/member_fa85c472/elegant-middleware-architecture-implementation2545-5124)
+- [5 Signs You’re Ready to Apply for Coding Jobs &lpar;Even if You Don’t Feel Ready&rpar;](https://dev.to/beyond-code/5-signs-youre-ready-to-apply-for-coding-jobs-even-if-you-dont-feel-ready-4ngp)
+- [OOP - Abstract Classes](https://dev.to/carlbeattie2000/oop-abstract-classes-bf)
+- [Using Redis with Nuxt on Windows](https://dev.to/ibz786/using-redis-with-nuxt-on-windows-56d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
