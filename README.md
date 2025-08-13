@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
-- [Dev Log 04](https://dev.to/asx/dev-log-04-49dg)
-- [This Open Source Python Tool Replaces Your $2,000/Month Portfolio Tracker](https://dev.to/fintechwarrior/how-i-created-a-24000-bloomberg-terminal-for-free-open-source-381l)
-- [Building the Next Generation of AI-Enabled Recruitment and a Talent Relationship Platform](https://dev.to/delaine_grace/building-the-next-generation-of-ai-enabled-recruitment-and-a-talent-relationship-platform-10bn)
-- [The brink of new AI standard](https://dev.to/aloisseckar/the-brink-of-new-ai-standard-1a1i)
+- [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
+- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
+- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4cdc)
+- [IGN: Car Park Capital - Official Announcement Trailer](https://dev.to/gg_news/ign-car-park-capital-official-announcement-trailer-3hem)
+- [IGN: Another Major Game Is Ending PS4, Xbox One Support - IGN Daily Fix](https://dev.to/gg_news/ign-another-major-game-is-ending-ps4-xbox-one-support-ign-daily-fix-2h5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
