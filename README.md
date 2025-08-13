@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Traceroute](https://dev.to/andrew_markhai_27ffd3a6b8/php-traceroute-216i)
-- [📢 Neuro-Symbolic AI Summer School 2025 | Online Event | Aug 14 - 15](https://dev.to/canmingir/neuro-symbolic-ai-summer-school-2025-online-event-2fh8)
-- [A Technical Deep-Dive for the Security-Conscious](https://dev.to/jahboukie/a-technical-deep-dive-for-the-security-conscious-4mn6)
-- [Alias Alchemy - Instant Bash Setup!](https://dev.to/ra101/-4h2n)
-- [How to handle Large File/Files Streams in Next.js 13+ using busboy/multer](https://dev.to/grimshinigami/how-to-handle-large-filefiles-streams-in-nextjs-13-using-busboymulter-25gb)
+- [Turning Your &quot;Braindumps&quot; Into Trackable Tasks](https://dev.to/aronsonben/turning-your-braindumps-into-trackable-tasks-4bf5)
+- [How to Master the art of prompting?](https://dev.to/paradox_07/how-to-master-the-art-of-prompting-2p2e)
+- [Golf.com: Warming Up with Dustin Johnson](https://dev.to/youtube_golf/golfcom-warming-up-with-dustin-johnson-2hgi)
+- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-5aa4)
+- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-46li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
