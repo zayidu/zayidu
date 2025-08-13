@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways to Fix Misrepresentation Google Merchant Center Suspended](https://dev.to/me_bhavesh/7-ways-to-fix-misrepresentation-google-merchant-center-suspended-4fc2)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;7060&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7060-1dao)
-- [Top 10 Features in Chrome DevTools Every Web Developer Should Know](https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51)
-- [Role of Excel in Making Data-Driven Business Decisions.](https://dev.to/emanuel88/role-of-excel-in-making-data-driven-business-decisions-i5n)
-- [High-Performance Routing System Design and Implementation&lpar;5488&rpar;](https://dev.to/member_fa85c472/high-performance-routing-system-design-and-implementation5488-noi)
+- [Asynchronous Programming Patterns for Web Development&lpar;1841&rpar;](https://dev.to/member_fa85c472/asynchronous-programming-patterns-for-web-development1841-1fgb)
+- [Why Some Packages Like Google Sign-In or Razorpay Don’t Work in Expo — And How to Fix It](https://dev.to/sathya7032/why-some-packages-like-google-sign-in-or-razorpay-dont-work-in-expo-and-how-to-fix-it-45bm)
+- [Fire and Safety Courses in kerala: Building Skills for a Safer Tomorrow](https://dev.to/techshore_seo_/fire-and-safety-courses-in-kerala-building-skills-for-a-safer-tomorrow-2eb3)
+- [Memory Matters: Boost Performance with Cache-Friendly Access 🏎️](https://dev.to/andresjcorrea/memory-mysteries-where-your-variables-actually-live-fim)
+- [Structured Logging in .NET: Why You Should Avoid String Interpolation](https://dev.to/mariemoalla/structured-logging-in-net-why-you-should-avoid-string-interpolation-4ddn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
