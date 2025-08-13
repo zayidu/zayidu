@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming Patterns for Web Development&lpar;1841&rpar;](https://dev.to/member_fa85c472/asynchronous-programming-patterns-for-web-development1841-1fgb)
-- [Why Some Packages Like Google Sign-In or Razorpay Don’t Work in Expo — And How to Fix It](https://dev.to/sathya7032/why-some-packages-like-google-sign-in-or-razorpay-dont-work-in-expo-and-how-to-fix-it-45bm)
-- [Fire and Safety Courses in kerala: Building Skills for a Safer Tomorrow](https://dev.to/techshore_seo_/fire-and-safety-courses-in-kerala-building-skills-for-a-safer-tomorrow-2eb3)
-- [Memory Matters: Boost Performance with Cache-Friendly Access 🏎️](https://dev.to/andresjcorrea/memory-mysteries-where-your-variables-actually-live-fim)
-- [Structured Logging in .NET: Why You Should Avoid String Interpolation](https://dev.to/mariemoalla/structured-logging-in-net-why-you-should-avoid-string-interpolation-4ddn)
+- [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://dev.to/techielass/how-to-use-terraform-refresh-only-to-prevent-state-drift-and-ensure-accurate-resource-management-23n7)
+- [Unicode-Gen: TypeScript Library for Random Emoji Generation](https://dev.to/jqueryscript/unicode-gen-typescript-library-for-random-emoji-generation-30kc)
+- [7 Tech Pain Points Every Startup Faces While Working With A Software Development Agency](https://dev.to/betterhq/7-tech-pain-points-every-startup-faces-while-working-with-a-software-development-agency-2g0o)
+- [Building a Ragnarok Online Server in Elixir - Part 2](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-2-4pn5)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;3086&rpar;](https://dev.to/member_fa85c472/server-side-events-implementation-for-real-time-applications3086-5fj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
