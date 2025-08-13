@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [More Than Code: The Friendships You’ll Build at FriendlyRB](https://dev.to/lucianghinda/more-than-code-the-friendships-youll-build-at-friendlyrb-589k)
-- [My Internship Experience at Oasis Infobyte – A Milestone in My Second Year of B.Tech](https://dev.to/suryvardhan_mishra_272997/my-internship-experience-at-oasis-infobyte-a-milestone-in-my-second-year-of-btech-43df)
-- [HTTP Response Optimization and Streaming Techniques&lpar;1071&rpar;](https://dev.to/member_fa85c472/http-response-optimization-and-streaming-techniques1071-19fj)
-- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
-- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
+- [Day 64: When Professors Forget They&#39;re Teachers, Not Gatekeepers](https://dev.to/casperday11/day-64-when-professors-forget-theyre-teachers-not-gatekeepers-e58)
+- [Great article!](https://dev.to/wisedev-pstach/great-article-51nj)
+- [Automating Quality Control Queries with AI Assistance](https://dev.to/gabrielmateo/automating-quality-control-queries-with-ai-assistance-3jm1)
+- [My Journey from Data Confusion to Data Mastery: A Personal Reflection on the Data Science Revolution](https://dev.to/gowtham_pps_c485763158a84/my-journey-from-data-confusion-to-data-mastery-a-personal-reflection-on-the-data-science-revolution-59k0)
+- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-e7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
