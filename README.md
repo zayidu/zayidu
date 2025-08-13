@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
-- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
-- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
-- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
-- [Managing Multiple Environments in AWS SAM &lpar;dev/prod&rpar;](https://dev.to/a-k-0047/managing-multiple-environments-in-aws-sam-devprod-4o6k)
+- [Top AI-Powered Finance Tools That Reduce Manual Work for SaaS Businesses](https://dev.to/joywinter90/top-ai-powered-finance-tools-that-reduce-manual-work-for-saas-businesses-11l2)
+- [CRA and Open Source](https://dev.to/lizmat/cra-and-open-source-4ljm)
+- [How To Secure Laravel API Authentication with Sanctum — Complete Security Guide](https://dev.to/nganggurdev/how-to-secure-laravel-api-authentication-with-sanctum-complete-security-guide-541n)
+- [From Data to Decisions: How Predictive Analytics Shapes Winning Business Strategies](https://dev.to/arbisoftcompany/from-data-to-decisions-how-predictive-analytics-shapes-winning-business-strategies-26e5)
+- [🚀 Python for DevOps Week 2 &amp; Week 3: Automating Daily Ops &amp; Containerizing with Docker](https://dev.to/techwithhari/python-for-devops-week-2-week-3-automating-daily-ops-containerizing-with-docker-4cea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
