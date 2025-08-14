@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
-- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
-- [Arnaldo Tomo – Engenheiro de Software, Criador do Laravel Lusophone](https://dev.to/arnaldo/arnaldo-tomo-engenheiro-de-software-criador-do-laravel-lusophone-48j8)
-- [🌟 Laravel Lusophone: Moçambique no mapa da comunidade Laravel 🚀](https://dev.to/arnaldo/laravel-lusophone-mocambique-no-mapa-da-comunidade-laravel-4ckp)
-- [🚀 Laravel Lusophone: o pacote que colocou Moçambique no mapa da comunidade Laravel 🌍](https://dev.to/arnaldo/laravel-lusophone-o-pacote-que-colocou-mocambique-no-mapa-da-comunidade-laravel-1bgi)
+- [We’re Still In the Augmentation Era and That’s Not a Bad Thing](https://dev.to/agape_aurora_4b5303956dc6/were-still-in-the-augmentation-era-and-thats-not-a-bad-thing-4f8i)
+- [Building a Unified AI Safety Platform](https://dev.to/sgriffiths/building-a-unified-ai-safety-platform-53l1)
+- [Build a Real-World IROPS Re-accommodation Workflow with KaibanJS](https://dev.to/kaibanjs/build-a-real-world-irops-re-accommodation-workflow-with-kaibanjs-i3n)
+- [Demi: Building a Language From the Metal Up](https://dev.to/bobrossrtx/demi-building-a-language-from-the-metal-up-5ahc)
+- [Beyond skeleton pipelines: who owns your software pipeline?](https://dev.to/mattallford/beyond-skeleton-pipelines-who-owns-your-software-pipeline-3dn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
