@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
-- [IGN: Crosswind - Official Early Access Announcement Trailer](https://dev.to/gg_news/ign-crosswind-official-early-access-announcement-trailer-90p)
-- [IGN: Kristala - Official Dev Diary #1: The Fractured World of Ailur Video](https://dev.to/gg_news/ign-kristala-official-dev-diary-1-the-fractured-world-of-ailur-video-4l9k)
-- [IGN: Nobody 2 Review](https://dev.to/gg_news/ign-nobody-2-review-2gm9)
-- [OASIS INTERNSHIP](https://dev.to/aditya2410119/oasis-internship-5g7n)
+- [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
+- [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
+- [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
+- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/vincenzo_bianco_2a3b1e91d/introducing-steelthread-evals-observability-for-reliable-agents-5ebe)
+- [🚀 Supercharge Your Kubernetes Workflow with These AI Co-pilots! 🤖](https://dev.to/insertlines/supercharge-your-kubernetes-workflow-with-these-ai-co-pilots-1cj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
