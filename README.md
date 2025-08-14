@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Omar: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-omar-tiny-desk-concert-57hk)
-- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-nk7)
-- [JavaScript’s Most Misunderstood Feature: The Event Loop Isn’t What You Think](https://dev.to/idioseph/javascripts-most-misunderstood-feature-the-event-loop-isnt-what-you-think-4n15)
-- [Hilirisasi Fiber di PHP dapat Membuka 19 juta Lapangan Lambo](https://dev.to/hibiscusht/hilirisasi-fiber-di-php-dapat-membuka-19-juta-lapangan-lambo-44p7)
-- [Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration](https://dev.to/zediot/building-scalable-ai-workflows-with-n8n-dify-and-custom-agent-integration-3epp)
+- [The Hidden Costs of Poor Project Tracking: Why 70% of Dev Agencies Fail in Year Two](https://dev.to/teamcamp/the-hidden-costs-of-poor-project-tracking-why-70-of-dev-agencies-fail-in-year-two-1faf)
+- [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
+- [Introducing WtfCode.dev: Learn from the Worst Code Examples](https://dev.to/cavewebs/introducing-wtfcodedev-learn-from-the-worst-code-examples-58o8)
+- [KDE Gear 25.08 Released with Key Improvements](https://dev.to/neerajlovecyber/kde-gear-2508-released-with-key-improvements-5hln)
+- [AI Agent Pricing Models for Developers: Subscription vs Usage-Based vs Outcome-Based &lpar;With Implementation Tips&rpar;](https://dev.to/johnsaas/ai-agent-pricing-models-for-developers-subscription-vs-usage-based-vs-outcome-based-with-4a9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
