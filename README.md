@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of Poor Project Tracking: Why 70% of Dev Agencies Fail in Year Two](https://dev.to/teamcamp/the-hidden-costs-of-poor-project-tracking-why-70-of-dev-agencies-fail-in-year-two-1faf)
-- [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
-- [Introducing WtfCode.dev: Learn from the Worst Code Examples](https://dev.to/cavewebs/introducing-wtfcodedev-learn-from-the-worst-code-examples-58o8)
-- [KDE Gear 25.08 Released with Key Improvements](https://dev.to/neerajlovecyber/kde-gear-2508-released-with-key-improvements-5hln)
-- [AI Agent Pricing Models for Developers: Subscription vs Usage-Based vs Outcome-Based &lpar;With Implementation Tips&rpar;](https://dev.to/johnsaas/ai-agent-pricing-models-for-developers-subscription-vs-usage-based-vs-outcome-based-with-4a9f)
+- [¿Cuál es tu estilo de crianza?](https://dev.to/el_amordetvida_c4e199/cual-es-tu-estilo-de-crianza-1d4m)
+- [The 90/20 Rule for Devs: Why It Works](https://dev.to/vadym_info_polus/the-9020-rule-for-devs-why-it-works-5epl)
+- [How to Pick the Best LLM Gateway in 2025](https://dev.to/debmckinney/how-to-pick-the-best-llm-gateway-in-2025-189d)
+- [Offshore Software Testing: Everything You Need to Know](https://dev.to/jeni860/offshore-software-testing-everything-you-need-to-know-1ded)
+- [n8n vs. Manus AI: Workflow Automation vs. Automation Agents?](https://dev.to/ciphernutz/n8n-vs-manus-ai-workflow-automation-vs-automation-agents-4oel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
