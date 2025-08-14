@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Productivity with the GTD Method](https://dev.to/johannesjo/super-productivity-with-the-gtd-method-44go)
-- [What is JWKS? JSON Web Key Set — Short Guide](https://dev.to/fung-authgear/what-is-jwks-json-web-key-set-short-guide-3j9m)
-- [How to Prevent Screenshots on a Specific Page in HarmonyOS Next](https://dev.to/harmonyos/how-to-prevent-screenshots-on-a-specific-page-in-harmonyos-next-2e4l)
-- [🔍 Web3 in 2025 — The Signals Developers Shouldn’t Ignore](https://dev.to/digitaldime/web3-in-2025-the-signals-developers-shouldnt-ignore-4p4i)
-- [Day 28: GraphQL in System Design – A Beginner-Friendly Guide](https://dev.to/vincenttommi/day-28-graphql-in-system-design-a-beginner-friendly-guide-l6h)
+- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
+- [IGN: Crosswind - Official Early Access Announcement Trailer](https://dev.to/gg_news/ign-crosswind-official-early-access-announcement-trailer-90p)
+- [IGN: Kristala - Official Dev Diary #1: The Fractured World of Ailur Video](https://dev.to/gg_news/ign-kristala-official-dev-diary-1-the-fractured-world-of-ailur-video-4l9k)
+- [IGN: Nobody 2 Review](https://dev.to/gg_news/ign-nobody-2-review-2gm9)
+- [OASIS INTERNSHIP](https://dev.to/aditya2410119/oasis-internship-5g7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
