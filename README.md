@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Still In the Augmentation Era and That’s Not a Bad Thing](https://dev.to/agape_aurora_4b5303956dc6/were-still-in-the-augmentation-era-and-thats-not-a-bad-thing-4f8i)
-- [Building a Unified AI Safety Platform](https://dev.to/sgriffiths/building-a-unified-ai-safety-platform-53l1)
-- [Build a Real-World IROPS Re-accommodation Workflow with KaibanJS](https://dev.to/kaibanjs/build-a-real-world-irops-re-accommodation-workflow-with-kaibanjs-i3n)
-- [Demi: Building a Language From the Metal Up](https://dev.to/bobrossrtx/demi-building-a-language-from-the-metal-up-5ahc)
-- [Beyond skeleton pipelines: who owns your software pipeline?](https://dev.to/mattallford/beyond-skeleton-pipelines-who-owns-your-software-pipeline-3dn9)
+- [Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome](https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d)
+- [JavaScript Interview Question: Compute the Sum of a List of Numbers, Recursively](https://dev.to/codeguage/javascript-interview-question-compute-the-sum-of-a-list-of-numbers-recursively-1fml)
+- [Snowflake RBAC 101 – Episode 2: Role Hierarchies &amp; Least Privilege](https://dev.to/qvfagundes/snowflake-rbac-101-episode-2-role-hierarchies-least-privilege-4fge)
+- [Bridging the Gap Between LLMs and Enterprise APIs using FastMCP: How to Auto-Generate AI Tools from OpenAPI Specs](https://dev.to/sreeni5018/bridging-the-gap-between-llms-and-enterprise-apis-using-fastmcp-how-to-auto-generate-ai-tools-from-4cf9)
+- [Creating &amp; Visualizing Neural Network in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/creating-visualizing-neural-network-in-r-39h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
