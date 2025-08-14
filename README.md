@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vectors in AI: A Bridge Between Code and Business](https://dev.to/instancian/vectors-in-ai-a-bridge-between-code-and-business-11h2)
-- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
-- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
-- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
-- [🚀 Advanced Implementation and Production Excellence](https://dev.to/abdelrahman_adnan/advanced-implementation-and-production-excellence-4619)
+- [IGN: Sherman Commander - Official Announcement Trailer](https://dev.to/gg_news/ign-sherman-commander-official-announcement-trailer-43o2)
+- [IGN: LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past -- Official Trailer &lpar;2025&rpar; Gaten Matarazzo](https://dev.to/gg_news/ign-lego-star-wars-rebuild-the-galaxy-pieces-of-the-past-official-trailer-2025-gaten-4f0g)
+- [IGN: Borderlands 4 - Official Character Short: Amon &lpar;Demons&rpar; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-character-short-amon-demons-trailer-jo2)
+- [IGN: Shinobi: Art of Vengeance - Official Desert Stage Introduction Trailer](https://dev.to/gg_news/ign-shinobi-art-of-vengeance-official-desert-stage-introduction-trailer-1pkh)
+- [Iterable unpacking in Python &lpar;2&rpar;](https://dev.to/hyperkai/iterable-unpacking-in-python-2-19ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
