@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data-Driven Testing with Java and MongoDB](https://dev.to/mongodb_guests/introduction-to-data-driven-testing-with-java-and-mongodb-h9a)
-- [How to use the Aspire Dashboard with a legacy WinForms application](https://dev.to/volkmarr/how-to-use-the-aspire-dashboard-with-a-legacy-winforms-application-igf)
-- [GPT-Native Referencing : GNR Is The New Frontier of Visibility in the Age of AI](https://dev.to/stephane_hamlin_19e7cc71/gpt-native-referencing-gnr-is-the-new-frontier-of-visibility-in-the-age-of-ai-3bgm)
-- [How AI Can Make You a 10x Software Engineer](https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje)
-- [Killing cold starts with Lambda SnapStart](https://dev.to/aws-builders/killing-cold-starts-with-lambda-snapstart-1h77)
+- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
+- [IGN: Neo Berlin 2087 - Official Gamescom 2025 Gameplay Trailer](https://dev.to/gg_news/ign-neo-berlin-2087-official-gamescom-2025-gameplay-trailer-4bmc)
+- [¿Qué es el Sistema Operativo Ubuntu?](https://dev.to/juniormendoza3044/que-es-el-sistema-operativo-ubuntu-352n)
+- [I Built an Honest AI Agent to Fight Hallucinations. Here&#39;s How It Works.](https://dev.to/xzdes/i-built-an-honest-ai-agent-to-fight-hallucinations-heres-how-it-works-2p7e)
+- [From Cluttered to Clean: A Developer&#39;s Guide to a Professional Email Signature](https://dev.to/shivharigadekar/from-cluttered-to-clean-a-developers-guide-to-a-professional-email-signature-3edb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
