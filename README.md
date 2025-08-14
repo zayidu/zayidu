@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
-- [IGN: Neo Berlin 2087 - Official Gamescom 2025 Gameplay Trailer](https://dev.to/gg_news/ign-neo-berlin-2087-official-gamescom-2025-gameplay-trailer-4bmc)
-- [¿Qué es el Sistema Operativo Ubuntu?](https://dev.to/juniormendoza3044/que-es-el-sistema-operativo-ubuntu-352n)
-- [I Built an Honest AI Agent to Fight Hallucinations. Here&#39;s How It Works.](https://dev.to/xzdes/i-built-an-honest-ai-agent-to-fight-hallucinations-heres-how-it-works-2p7e)
-- [From Cluttered to Clean: A Developer&#39;s Guide to a Professional Email Signature](https://dev.to/shivharigadekar/from-cluttered-to-clean-a-developers-guide-to-a-professional-email-signature-3edb)
+- [ACC Cards Generator with Google AI Studio](https://dev.to/alegonzales/acc-cards-generator-with-google-ai-studio-2ig8)
+- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
+- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
+- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
+- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
