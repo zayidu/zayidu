@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Content Writing Internship Out There: My Journey with WeDidIt](https://dev.to/emotionalbutok/the-best-content-writing-internship-out-there-my-journey-with-wedidit-49n)
-- [The 12 Best AI Tools for Project Management in 2025](https://dev.to/therealmrmumba/the-12-best-ai-tools-for-project-management-in-2025-20p9)
-- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-2ea8)
-- [What is a hearing aid, and how does it work? A hearing aid is a small electronic device designed to help people with hearing loss by amplifying sounds. It consists of a microphone, amplifier, and speaker that work together to make sounds louder and clearer](https://dev.to/vinay_kumar_a8b33d69593f4/what-is-a-hearing-aid-and-how-does-it-work-a-hearing-aid-is-a-small-electronic-device-designed-2fhl)
-- [Reflection on Indian Law for a Common Man by Sree Krishna Seelam](https://dev.to/emotionalbutok/reflection-on-indian-law-for-a-common-man-by-sree-krishna-seelam-546)
+- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
+- [Simplifying SQL Date Data Types with Practical Tips](https://dev.to/dbvismarketing/simplifying-sql-date-data-types-with-practical-tips-528p)
+- [Building Four Dog Paws: the story, the code, the challenges, and the roadmap](https://dev.to/urbanpawspecialist/building-four-dog-paws-the-story-the-code-the-challenges-and-the-roadmap-43gn)
+- [Schedule Override: The Safety Valve Your Cloud Automation Has Been Missing](https://dev.to/zopdev/schedule-override-the-safety-valve-your-cloud-automation-has-been-missing-4njl)
+- [Spring AI with Amazon Bedrock - Part 1 Introduction and the sample application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
