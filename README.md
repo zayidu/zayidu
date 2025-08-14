@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Simple Math Game for My Kid, Thought I&#39;d Share!](https://dev.to/thom_57bce87de8181cf6b0ce/i-built-a-simple-math-game-for-my-kid-thought-id-share-5bpc)
-- [The Dev Workflow That Fixes Itself](https://dev.to/leena_malhotra_355340d89c/the-dev-workflow-that-fixes-itself-4nf4)
-- [What Is GitHub Copilot and How Can It Boost Your Productivity?](https://dev.to/codewithsimon/what-is-github-copilot-and-how-can-it-boost-your-productivity-14gg)
-- [Convert Audio to Mind Maps Instantly with MindMap AI](https://dev.to/vithursiya_sivagi_1ebd3a2/convert-audio-to-mind-maps-instantly-with-mindmap-ai-397d)
-- [How I Built ArchonCLI: A Free, Lightweight AI Coding CLI Tool for Developers on a Budget](https://dev.to/bitzdev/how-i-built-archoncli-a-free-lightweight-ai-coding-cli-tool-for-developers-on-a-budget-k0i)
+- [The Best Content Writing Internship Out There: My Journey with WeDidIt](https://dev.to/emotionalbutok/the-best-content-writing-internship-out-there-my-journey-with-wedidit-49n)
+- [The 12 Best AI Tools for Project Management in 2025](https://dev.to/therealmrmumba/the-12-best-ai-tools-for-project-management-in-2025-20p9)
+- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-2ea8)
+- [What is a hearing aid, and how does it work? A hearing aid is a small electronic device designed to help people with hearing loss by amplifying sounds. It consists of a microphone, amplifier, and speaker that work together to make sounds louder and clearer](https://dev.to/vinay_kumar_a8b33d69593f4/what-is-a-hearing-aid-and-how-does-it-work-a-hearing-aid-is-a-small-electronic-device-designed-2fhl)
+- [Reflection on Indian Law for a Common Man by Sree Krishna Seelam](https://dev.to/emotionalbutok/reflection-on-indian-law-for-a-common-man-by-sree-krishna-seelam-546)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
