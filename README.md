@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Domain State Sharing: From Hacks to Real-Time Sync](https://dev.to/adrai/cross-domain-state-sharing-from-hacks-to-real-time-sync-1k5g)
+- [The Rise of Specialized AI Agents: How to Architect, Deploy, and Manage Them on AWS](https://dev.to/tarunsinghofficial/the-rise-of-specialized-ai-agents-how-to-architect-deploy-and-manage-them-on-aws-2hm7)
+- [ADA Title II Adopting The WCAG 2.1 AA Standard](https://dev.to/thetanweerali/ada-title-ii-adopting-the-wcag-21-aa-standard-pjj)
+- [Unlocking SEO Success: 5 Essential Tools for Better Rankings](https://dev.to/mdkawsharul_islamroyal_/unlocking-seo-success-5-essential-tools-for-better-rankings-11bn)
 - [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
-- [Simplifying SQL Date Data Types with Practical Tips](https://dev.to/dbvismarketing/simplifying-sql-date-data-types-with-practical-tips-528p)
-- [Building Four Dog Paws: the story, the code, the challenges, and the roadmap](https://dev.to/urbanpawspecialist/building-four-dog-paws-the-story-the-code-the-challenges-and-the-roadmap-43gn)
-- [Schedule Override: The Safety Valve Your Cloud Automation Has Been Missing](https://dev.to/zopdev/schedule-override-the-safety-valve-your-cloud-automation-has-been-missing-4njl)
-- [Spring AI with Amazon Bedrock - Part 1 Introduction and the sample application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
