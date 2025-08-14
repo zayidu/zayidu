@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Render.com Latency Fix](https://dev.to/shubham_bhilare_3611/rendercom-latency-fix-ipd)
-- [Dev, Test, Stage, Prod: How Applications Are Deployed in the Real World](https://dev.to/ephraimx/dev-test-stage-prod-how-applications-are-deployed-in-the-real-world-5c28)
-- [Let&#39;s Make Noise: Obfuscate Your Browsing Traffic Data and Protect Against Sniffing Attacks For Journalists](https://dev.to/muhammad_riley_a1cbfe6c89/lets-make-noise-obfuscate-your-browsing-traffic-data-and-protect-against-sniffing-attacks-for-5a)
-- [What is the Perplexity vs Cloudflare Dispute Over AI Web Scraping Rights?](https://dev.to/jovin_george_733dcfc16291/what-is-the-perplexity-vs-cloudflare-dispute-over-ai-web-scraping-rights-13mh)
-- [Forlinx OK-MX9352-C Development Board Linux 6.1.33 System GDB Debugging Tutorial](https://dev.to/ronnie_r_152dc2151d9449c6/forlinx-ok-mx9352-c-development-board-linux-6133-system-gdb-debugging-tutorial-35dh)
+- [NPR Music: Omar: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-omar-tiny-desk-concert-57hk)
+- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-nk7)
+- [JavaScript’s Most Misunderstood Feature: The Event Loop Isn’t What You Think](https://dev.to/idioseph/javascripts-most-misunderstood-feature-the-event-loop-isnt-what-you-think-4n15)
+- [Hilirisasi Fiber di PHP dapat Membuka 19 juta Lapangan Lambo](https://dev.to/hibiscusht/hilirisasi-fiber-di-php-dapat-membuka-19-juta-lapangan-lambo-44p7)
+- [Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration](https://dev.to/zediot/building-scalable-ai-workflows-with-n8n-dify-and-custom-agent-integration-3epp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
