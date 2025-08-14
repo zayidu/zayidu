@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2e4g)
-- [Free SafeLine WAF — Initial Review](https://dev.to/carrie_luo1/free-safeline-waf-initial-review-o5e)
-- [Build Better Date Pickers with ShadCN/UI Components](https://dev.to/jqueryscript/build-better-date-pickers-with-shadcnui-components-91p)
-- [Embedded SBC vs Industrial PC: A Developer’s Practical Guide](https://dev.to/lauraaa/embedded-sbc-vs-industrial-pc-a-developers-practical-guide-3g42)
-- [Building the “Hybrid Huggingface+”: How OpenCSG Is Redefining the LLMOps &amp; Agent Ecosystem](https://dev.to/opencsg/building-the-hybrid-huggingface-how-opencsg-is-redefining-the-llmops-agent-ecosystem-472e)
+- [I Built a Simple Math Game for My Kid, Thought I&#39;d Share!](https://dev.to/thom_57bce87de8181cf6b0ce/i-built-a-simple-math-game-for-my-kid-thought-id-share-5bpc)
+- [The Dev Workflow That Fixes Itself](https://dev.to/leena_malhotra_355340d89c/the-dev-workflow-that-fixes-itself-4nf4)
+- [What Is GitHub Copilot and How Can It Boost Your Productivity?](https://dev.to/codewithsimon/what-is-github-copilot-and-how-can-it-boost-your-productivity-14gg)
+- [Convert Audio to Mind Maps Instantly with MindMap AI](https://dev.to/vithursiya_sivagi_1ebd3a2/convert-audio-to-mind-maps-instantly-with-mindmap-ai-397d)
+- [How I Built ArchonCLI: A Free, Lightweight AI Coding CLI Tool for Developers on a Budget](https://dev.to/bitzdev/how-i-built-archoncli-a-free-lightweight-ai-coding-cli-tool-for-developers-on-a-budget-k0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
