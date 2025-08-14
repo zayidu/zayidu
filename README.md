@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Sherman Commander - Official Announcement Trailer](https://dev.to/gg_news/ign-sherman-commander-official-announcement-trailer-43o2)
-- [IGN: LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past -- Official Trailer &lpar;2025&rpar; Gaten Matarazzo](https://dev.to/gg_news/ign-lego-star-wars-rebuild-the-galaxy-pieces-of-the-past-official-trailer-2025-gaten-4f0g)
-- [IGN: Borderlands 4 - Official Character Short: Amon &lpar;Demons&rpar; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-character-short-amon-demons-trailer-jo2)
-- [IGN: Shinobi: Art of Vengeance - Official Desert Stage Introduction Trailer](https://dev.to/gg_news/ign-shinobi-art-of-vengeance-official-desert-stage-introduction-trailer-1pkh)
-- [Iterable unpacking in Python &lpar;2&rpar;](https://dev.to/hyperkai/iterable-unpacking-in-python-2-19ie)
+- [Introduction to Data-Driven Testing with Java and MongoDB](https://dev.to/mongodb_guests/introduction-to-data-driven-testing-with-java-and-mongodb-h9a)
+- [How to use the Aspire Dashboard with a legacy WinForms application](https://dev.to/volkmarr/how-to-use-the-aspire-dashboard-with-a-legacy-winforms-application-igf)
+- [GPT-Native Referencing : GNR Is The New Frontier of Visibility in the Age of AI](https://dev.to/stephane_hamlin_19e7cc71/gpt-native-referencing-gnr-is-the-new-frontier-of-visibility-in-the-age-of-ai-3bgm)
+- [How AI Can Make You a 10x Software Engineer](https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje)
+- [Killing cold starts with Lambda SnapStart](https://dev.to/aws-builders/killing-cold-starts-with-lambda-snapstart-1h77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
