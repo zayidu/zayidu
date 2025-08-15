@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
-- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-2d3c)
-- [Introducing Dashy Simple: Your Private, Modern, and Browser-Based Start Page](https://dev.to/kingyou/introducing-dashy-simple-your-private-modern-and-browser-based-start-page-c62)
-- [My Internship Experience at Oasis Infobyte 🚀](https://dev.to/rinkukumar79/my-internship-experience-at-oasis-infobyte-2ama)
-- [The Transformative Role of Generative AI in Software Development.](https://dev.to/champsoft/the-transformative-role-of-generative-ai-in-software-development-58j2)
+- [Mastering Azure Resource Graph: Query &amp; Analyse Tags with KQL](https://dev.to/techielass/mastering-azure-resource-graph-query-analyse-tags-with-kql-39pp)
+- [I Built the Smoothest Countdown Timer in Angular](https://dev.to/brianmtreese/i-built-the-smoothest-countdown-timer-in-angular-2noh)
+- [Burn down the town &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/burn-down-the-town-original-song-ingredient-2ea6)
+- [The Memory Architects - Chapter 11: The Infinite Garden](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-memory-architects-chapter-11-the-infinite-garden-19l)
+- [Why I Founded Cognix: Creating Reliable AI Tools](https://dev.to/cognix-dev/why-i-founded-cognix-creating-reliable-ai-tools-1be5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
