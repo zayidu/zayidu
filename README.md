@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Security Headers for Backend APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-security-headers-for-backend-apis-3pbf)
-- [5 tools we wish were on the Awesome AI Tools list](https://dev.to/portia-ai/5-tools-we-wish-were-on-the-awesome-ai-tools-list-576m)
-- [Why I Moved from bare &lt;img&gt; to &lt;picture&gt; with &lt;img&gt; – A Better Approach](https://dev.to/raheelshan/why-i-moved-from-bare-to-with-a-better-approach-1iof)
-- [CIEM vs PAM: Key Differences, Benefits, and Use Cases in Modern Security](https://dev.to/clouddefenseai/ciem-vs-pam-key-differences-benefits-and-use-cases-in-modern-security-4ac7)
-- [KEXP: Sunflower Bean - Sunshine &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-sunshine-live-on-kexp-2df9)
+- [Founding full stack engineer](https://dev.to/timalb/founding-full-stack-engineer-43da)
+- [From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI](https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj)
+- [Why Developers Still Choose Python, Even If It’s “Slow”](https://dev.to/grenishrai/why-developers-still-choose-python-even-if-its-slow-2hlc)
+- [From Code Reviews to Culture Reviews: Leadership Lessons for Dev Teams](https://dev.to/joe_anthony_c718780b8bf32/from-code-reviews-to-culture-reviews-leadership-lessons-for-dev-teams-5h76)
+- [Understanding JavaScript Rest and Spread Operators](https://dev.to/wisdomudo/understanding-javascript-rest-and-spread-operators-583l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
