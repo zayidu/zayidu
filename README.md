@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Always Up-to-Date API Docs Are Real &lpar;And No, It’s Not AI&rpar;](https://dev.to/tsv1/always-up-to-date-api-docs-are-real-and-no-its-not-ai-256g)
-- [Introducing Threat Intelligence Enrichment – A Powerful Web-Based Threat Intelligence Tool](https://dev.to/shresth_paul_40a5d9458a32/introducing-threat-intelligence-enrichment-a-powerful-web-based-threat-intelligence-tool-12pe)
-- [Laravel CRUD Like a Pro—Part 2: The End of Redundant Forms with findOrNew&lpar;&rpar; + old&lpar;&rpar;](https://dev.to/raheelshan/laravel-crud-like-a-pro-part-2-the-end-of-redundant-forms-with-findornew-old-4do)
-- [My Hackathon Experience: Learning Java CSV and Database Connectivity....](https://dev.to/a_ramesh/my-hackathon-experience-learning-java-csv-and-database-connectivity-17jj)
-- [30 Days of Code- Day 22](https://dev.to/akshitaexe/30-days-of-code-day-21-1i5h)
+- [Grokking with ChatGPT - The &quot;Triple Sum Close to Target&quot; algorithm, explained.](https://dev.to/heatherp/grokking-with-chatgpt-the-triple-sum-close-to-target-algorithm-explained-h5a)
+- [Boost Your Azure VM: A Step-by-Step Guide to Adding a Data Disk in Microsoft Azure](https://dev.to/arctaiwo/boost-your-azure-vm-a-step-by-step-guide-to-adding-a-data-disk-in-microsoft-azure-2a6o)
+- [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45)
+- [So You Want to Build Your Own Data Center](https://dev.to/sarah-railway/so-you-want-to-build-your-own-data-center-1fo8)
+- [Day 1/100 of styling](https://dev.to/ffff0000h/day-1100-of-styling-31gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
