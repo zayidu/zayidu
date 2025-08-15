@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Hackathon to Production: Shipping Under Pressure Without Burning Out](https://dev.to/vadym_info_polus/from-hackathon-to-production-shipping-under-pressure-without-burning-out-1ppf)
-- [The Spirit of 15th August at Payilagam](https://dev.to/kirubagaran_k_438a86c991/the-spirit-of-15th-august-at-payilagam-10pi)
-- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
-- [IGN: Steel Ark - Official Gameplay Debut Trailer](https://dev.to/gg_news/ign-steel-ark-official-gameplay-debut-trailer-4g9)
-- [IGN: REANIMAL – The First 13 Minutes of the Mystery Horror Adventure &lpar;Exclusive Gameplay&rpar;](https://dev.to/gg_news/ign-reanimal-the-first-13-minutes-of-the-mystery-horror-adventure-exclusive-gameplay-1kn2)
+- [Always Up-to-Date API Docs Are Real &lpar;And No, It’s Not AI&rpar;](https://dev.to/tsv1/always-up-to-date-api-docs-are-real-and-no-its-not-ai-256g)
+- [Introducing Threat Intelligence Enrichment – A Powerful Web-Based Threat Intelligence Tool](https://dev.to/shresth_paul_40a5d9458a32/introducing-threat-intelligence-enrichment-a-powerful-web-based-threat-intelligence-tool-12pe)
+- [Laravel CRUD Like a Pro—Part 2: The End of Redundant Forms with findOrNew&lpar;&rpar; + old&lpar;&rpar;](https://dev.to/raheelshan/laravel-crud-like-a-pro-part-2-the-end-of-redundant-forms-with-findornew-old-4do)
+- [My Hackathon Experience: Learning Java CSV and Database Connectivity....](https://dev.to/a_ramesh/my-hackathon-experience-learning-java-csv-and-database-connectivity-17jj)
+- [30 Days of Code- Day 22](https://dev.to/akshitaexe/30-days-of-code-day-21-1i5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
