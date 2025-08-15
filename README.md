@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
-- [I Gave My LLM a Promotion: Now It Delegates Its Own Work](https://dev.to/xzdes/i-gave-my-llm-a-promotion-now-it-delegates-its-own-work-2loe)
-- [Security news weekly round-up - 15th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-15th-august-2025-446i)
-- [fsMate A modular collection of file system utilities for Node.js](https://dev.to/indianmodassir/fsmate-a-modular-collection-of-file-system-utilities-for-nodejs-172g)
-- [Install and Setup Oh My Zsh](https://dev.to/harry_tanama_51571ebf90b6/install-and-setup-oh-my-zsh-2079)
+- [GameSpot: VR Games Showcase | August 2025 &lpar;Full Presentation&rpar;](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-full-presentation-4670)
+- [IGN: Delta Force: 9 Minutes of PS5 Gameplay](https://dev.to/gg_news/ign-delta-force-9-minutes-of-ps5-gameplay-24b2)
+- [IGN: Call of Duty: Black Ops 7 Release Date Leaked - IGN Daily Fix](https://dev.to/gg_news/ign-call-of-duty-black-ops-7-release-date-leaked-ign-daily-fix-3g43)
+- [IGN: Borderlands 4 - Official Designing Amon: Beyond The Borderlands #8 Video](https://dev.to/gg_news/ign-borderlands-4-official-designing-amon-beyond-the-borderlands-8-video-51a6)
+- [Microservices or Micro-progress? The Perils of Pre-Scaling Too Soon](https://dev.to/mtsammy40/microservices-or-micro-progress-the-perils-of-pre-scaling-too-soon-1049)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
