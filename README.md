@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Founding full stack engineer](https://dev.to/timalb/founding-full-stack-engineer-43da)
-- [From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI](https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj)
-- [Why Developers Still Choose Python, Even If It’s “Slow”](https://dev.to/grenishrai/why-developers-still-choose-python-even-if-its-slow-2hlc)
-- [From Code Reviews to Culture Reviews: Leadership Lessons for Dev Teams](https://dev.to/joe_anthony_c718780b8bf32/from-code-reviews-to-culture-reviews-leadership-lessons-for-dev-teams-5h76)
-- [Understanding JavaScript Rest and Spread Operators](https://dev.to/wisdomudo/understanding-javascript-rest-and-spread-operators-583l)
+- [CinePlex - ReactJs + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
+- [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
+- [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
+- [GameSpot: Pokemon Legends Z-A - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-the-biggest-pokemon-shake-up-in-decades-3bp8)
+- [IGN: Crimson Desert - 13 Minutes of Gameplay](https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
