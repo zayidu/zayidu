@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iframes: Embedding Other Webpages](https://dev.to/sharique_siddiqui_8242dad/iframes-embedding-other-webpages-5eai)
-- [Canvas and SVG: Graphics and Animation](https://dev.to/sharique_siddiqui_8242dad/canvas-and-svg-graphics-and-animation-1p16)
-- [Advanced Forms: Validation, Input Types, and Attributes](https://dev.to/sharique_siddiqui_8242dad/advanced-forms-validation-input-types-and-attributes-2cbp)
-- [Get familiar with Rust, Python, and TypeScript!](https://dev.to/urbanisierung/get-familiar-with-rust-python-and-typescript-7e8)
-- [Responsive Layouts: Meta Tags, Viewport, and Basic Responsiveness](https://dev.to/sharique_siddiqui_8242dad/responsive-layouts-meta-tags-viewport-and-basic-responsiveness-k0m)
+- [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
+- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-2d3c)
+- [Introducing Dashy Simple: Your Private, Modern, and Browser-Based Start Page](https://dev.to/kingyou/introducing-dashy-simple-your-private-modern-and-browser-based-start-page-c62)
+- [My Internship Experience at Oasis Infobyte 🚀](https://dev.to/rinkukumar79/my-internship-experience-at-oasis-infobyte-2ama)
+- [The Transformative Role of Generative AI in Software Development.](https://dev.to/champsoft/the-transformative-role-of-generative-ai-in-software-development-58j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
