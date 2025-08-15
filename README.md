@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Ai Studio to create Crypto News &amp; Blog websites](https://dev.to/kunlexcity42/using-ai-studio-to-create-crypto-news-blog-websites-38kj)
-- [🔔How to send notifications to user while app is running on background?🔔](https://dev.to/harmonyos/how-to-send-notifications-to-user-while-app-is-running-on-background-1a8i)
-- [Copy &amp; Paste PostgreSQL Query Results into Google Sheets &lpar;No CSV Needed&rpar;](https://dev.to/montells/copy-paste-postgresql-query-results-into-google-sheets-no-csv-needed-3omb)
-- [SASE vs. SSE: What Is the Difference?](https://dev.to/clouddefenseai/sase-vs-sse-what-is-the-difference-2h8o)
-- [Migration from Pocket and Hatena Bookmark to Raindrop.io &lpar;and Creating helm-raindrop.el&rpar;](https://dev.to/masutaka/migration-from-pocket-and-hatena-bookmark-to-raindropio-and-creating-helm-raindropel-5f76)
+- [Web Developer Travis McCracken on Security Headers for Backend APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-security-headers-for-backend-apis-3pbf)
+- [5 tools we wish were on the Awesome AI Tools list](https://dev.to/portia-ai/5-tools-we-wish-were-on-the-awesome-ai-tools-list-576m)
+- [Why I Moved from bare &lt;img&gt; to &lt;picture&gt; with &lt;img&gt; – A Better Approach](https://dev.to/raheelshan/why-i-moved-from-bare-to-with-a-better-approach-1iof)
+- [CIEM vs PAM: Key Differences, Benefits, and Use Cases in Modern Security](https://dev.to/clouddefenseai/ciem-vs-pam-key-differences-benefits-and-use-cases-in-modern-security-4ac7)
+- [KEXP: Sunflower Bean - Sunshine &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-sunshine-live-on-kexp-2df9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
