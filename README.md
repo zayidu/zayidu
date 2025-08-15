@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grokking with ChatGPT - The &quot;Triple Sum Close to Target&quot; algorithm, explained.](https://dev.to/heatherp/grokking-with-chatgpt-the-triple-sum-close-to-target-algorithm-explained-h5a)
-- [Boost Your Azure VM: A Step-by-Step Guide to Adding a Data Disk in Microsoft Azure](https://dev.to/arctaiwo/boost-your-azure-vm-a-step-by-step-guide-to-adding-a-data-disk-in-microsoft-azure-2a6o)
-- [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45)
-- [So You Want to Build Your Own Data Center](https://dev.to/sarah-railway/so-you-want-to-build-your-own-data-center-1fo8)
-- [Day 1/100 of styling](https://dev.to/ffff0000h/day-1100-of-styling-31gd)
+- [Using SBOMs to detect possible Dependency Confusion](https://dev.to/protsenko/using-sboms-to-detect-possible-dependency-confusion-5846)
+- [Alec Steele: Making a Mini Knob](https://dev.to/maker_youtube/alec-steele-making-a-mini-knob-58e5)
+- [LiteSpeed ওয়েব সার্ভার কী এবং কিভাবে এটি ওয়েবসাইটকে ফাস্ট করে?](https://dev.to/bytes_vibe/litespeed-oyeb-saarbhaar-kii-ebn-kibhaabe-etti-oyebsaaittke-phaastt-kre-37mf)
+- [3D Printing Nerd: Fix ANYTHING with 3D Printing – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-fix-anything-with-3d-printing-how-to-design-41gc)
+- [Veritasium: The Perfect Battery Material Is DANGEROUS](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-23dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
