@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ACC Cards Generator with Google AI Studio](https://dev.to/alegonzales/acc-cards-generator-with-google-ai-studio-2ig8)
-- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
-- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
-- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
-- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
+- [Memory Alignment in Go: A Practical Guide to Faster, Leaner Code](https://dev.to/jones_charles_ad50858dbc0/memory-alignment-in-go-a-practical-guide-to-faster-leaner-code-ko3)
+- [Simplify AWS Lambda Deployments Using GitHub Actions](https://dev.to/aws-builders/simplify-aws-lambda-deployments-using-github-actions-43om)
+- [Lets Encrypt DNS Challenge with Traefik and AWS Route 53](https://dev.to/kasundsilva/lets-encrypt-dns-challenge-with-traefik-and-aws-route-53-1312)
+- [Let&#39;s Encrypt DNS Challenge with Traefik and AWS Route 53](https://dev.to/kasundsilva/lets-encrypt-dns-challenge-with-traefik-and-aws-route-53-3b5e)
+- [Exploring Generative AI for Personal Growth and Care](https://dev.to/ujjavala/exploring-generative-ai-for-personal-growth-and-care-be8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
