@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips &lpar;LTT&rpar;: Building a Gamer Living Room on a Budget - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-building-a-gamer-living-room-on-a-budget-scrapyard-wars-x-home-theater-4j7c)
-- [IGN: Ghost of Yōtei - Official Yari Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-yari-gameplay-trailer-5f93)
-- [🏁🍭Lollypop Designathon 2025 - The Ultimate 24-hour UI/UX Design Competition is BACK!](https://dev.to/lollypopdesign/lollypop-designathon-2025-the-ultimate-24-hour-uiux-design-competition-is-back-ng7)
-- [The Role of ICT Testers in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8)
-- [An Introduction to Agentic Workflows You Need To Know](https://dev.to/lollypopdesign/an-introduction-to-agentic-workflows-you-need-to-know-25ef)
+- [Using Ai Studio to create Crypto News &amp; Blog websites](https://dev.to/kunlexcity42/using-ai-studio-to-create-crypto-news-blog-websites-38kj)
+- [🔔How to send notifications to user while app is running on background?🔔](https://dev.to/harmonyos/how-to-send-notifications-to-user-while-app-is-running-on-background-1a8i)
+- [Copy &amp; Paste PostgreSQL Query Results into Google Sheets &lpar;No CSV Needed&rpar;](https://dev.to/montells/copy-paste-postgresql-query-results-into-google-sheets-no-csv-needed-3omb)
+- [SASE vs. SSE: What Is the Difference?](https://dev.to/clouddefenseai/sase-vs-sse-what-is-the-difference-2h8o)
+- [Migration from Pocket and Hatena Bookmark to Raindrop.io &lpar;and Creating helm-raindrop.el&rpar;](https://dev.to/masutaka/migration-from-pocket-and-hatena-bookmark-to-raindropio-and-creating-helm-raindropel-5f76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
