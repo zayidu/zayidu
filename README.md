@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Log001 - 008/ From Ubuntu to Debian journey.](https://dev.to/aka_artem_dd17be93c/log001-008-from-ubuntu-to-debian-journey-3m4m)
-- [Solving Balanced Binary Tree - Leetcode problem](https://dev.to/ajithmanmu/solving-balanced-binary-tree-leetcode-problem-d0b)
-- [🔒 The Future of Authentication Is Coming](https://dev.to/thesilentknight/the-future-of-authentication-is-coming-7k0)
-- [Solving the JavaScript Execution Order Challenge](https://dev.to/ajithmanmu/solving-the-javascript-execution-order-challenge-4adp)
-- [How to think like a product designer](https://dev.to/egledigital/how-to-think-like-a-product-designer-2001)
+- [First App Journey &lpar;Learned the Hard Way About WatchConnectivity&rpar;](https://dev.to/cloutboi/first-app-journey-learned-the-hard-way-about-watchconnectivity-2d4b)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Objects at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-objects-at-smithsonians-airandspace-57b1)
+- [COLORS: Isabella Lovestory - Telenovela | A COLORS SHOW](https://dev.to/music_youtube/colors-isabella-lovestory-telenovela-a-colors-show-h9g)
+- [KEXP: Sunflower Bean - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-full-performance-live-on-kexp-1366)
+- [Tech With Tim: Python programming roadmap - what skills should you learn first](https://dev.to/vibe_youtube/tech-with-tim-python-programming-roadmap-what-skills-should-you-learn-first-2j2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
