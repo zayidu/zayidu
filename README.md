@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Azure Resource Graph: Query &amp; Analyse Tags with KQL](https://dev.to/techielass/mastering-azure-resource-graph-query-analyse-tags-with-kql-39pp)
-- [I Built the Smoothest Countdown Timer in Angular](https://dev.to/brianmtreese/i-built-the-smoothest-countdown-timer-in-angular-2noh)
-- [Burn down the town &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/burn-down-the-town-original-song-ingredient-2ea6)
-- [The Memory Architects - Chapter 11: The Infinite Garden](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-memory-architects-chapter-11-the-infinite-garden-19l)
-- [Why I Founded Cognix: Creating Reliable AI Tools](https://dev.to/cognix-dev/why-i-founded-cognix-creating-reliable-ai-tools-1be5)
+- [VPS For Frontend Engineer - Part 1](https://dev.to/joseph42a/vps-for-frontend-engineer-part-1-2lja)
+- [Accessibility in React and Angular: How to Build Apps That Everyone Can Use](https://dev.to/okoye_ndidiamaka_5e3b7d30/accessibility-in-react-and-angular-how-to-build-apps-that-everyone-can-use-mia)
+- [Don’t Choose the Wrong Development Team — How to Find the Right Experts for Your Project](https://dev.to/haseebmirza/dont-choose-the-wrong-development-team-how-to-find-the-right-experts-for-your-project-1284)
+- [Top 18 Open Source AI Agent Projects with the Most GitHub Stars](https://dev.to/nocobase/top-18-open-source-ai-agent-projects-with-the-most-github-stars-4no0)
+- [Question: How to do advanced state management with url search parameter in a transparent manner?](https://dev.to/darktrick/question-how-to-do-advanced-state-management-with-url-search-parameter-in-a-transparent-manner-2a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
