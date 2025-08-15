@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinePlex - ReactJs + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
-- [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
-- [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
-- [GameSpot: Pokemon Legends Z-A - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-the-biggest-pokemon-shake-up-in-decades-3bp8)
-- [IGN: Crimson Desert - 13 Minutes of Gameplay](https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9)
+- [Log001 - 008/ From Ubuntu to Debian journey.](https://dev.to/aka_artem_dd17be93c/log001-008-from-ubuntu-to-debian-journey-3m4m)
+- [Solving Balanced Binary Tree - Leetcode problem](https://dev.to/ajithmanmu/solving-balanced-binary-tree-leetcode-problem-d0b)
+- [🔒 The Future of Authentication Is Coming](https://dev.to/thesilentknight/the-future-of-authentication-is-coming-7k0)
+- [Solving the JavaScript Execution Order Challenge](https://dev.to/ajithmanmu/solving-the-javascript-execution-order-challenge-4adp)
+- [How to think like a product designer](https://dev.to/egledigital/how-to-think-like-a-product-designer-2001)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
