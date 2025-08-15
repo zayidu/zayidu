@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: VR Games Showcase | August 2025 &lpar;Full Presentation&rpar;](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-full-presentation-4670)
-- [IGN: Delta Force: 9 Minutes of PS5 Gameplay](https://dev.to/gg_news/ign-delta-force-9-minutes-of-ps5-gameplay-24b2)
-- [IGN: Call of Duty: Black Ops 7 Release Date Leaked - IGN Daily Fix](https://dev.to/gg_news/ign-call-of-duty-black-ops-7-release-date-leaked-ign-daily-fix-3g43)
-- [IGN: Borderlands 4 - Official Designing Amon: Beyond The Borderlands #8 Video](https://dev.to/gg_news/ign-borderlands-4-official-designing-amon-beyond-the-borderlands-8-video-51a6)
-- [Microservices or Micro-progress? The Perils of Pre-Scaling Too Soon](https://dev.to/mtsammy40/microservices-or-micro-progress-the-perils-of-pre-scaling-too-soon-1049)
+- [AI Assistant ChatBot — Full Control: My WordPress Plugin](https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5)
+- [Connecting AI to the Real World: Understanding Model Context Protocol &lpar;MCP&rpar; by Anthropic](https://dev.to/iamfaham/connecting-ai-to-the-real-world-understanding-model-context-protocol-mcp-by-anthropic-39hd)
+- [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
+- [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
+- [Your Java App Is DYING! This One Thread Pool Mistake KILLS Performance.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-dying-this-one-thread-pool-mistake-kills-performance-2i34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
