@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
-- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
-- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4ko5)
-- [No Laying Up Podcast: Chop Session | Trap Draw, Ep 354](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-trap-draw-ep-354-54p1)
+- [Iframes: Embedding Other Webpages](https://dev.to/sharique_siddiqui_8242dad/iframes-embedding-other-webpages-5eai)
+- [Canvas and SVG: Graphics and Animation](https://dev.to/sharique_siddiqui_8242dad/canvas-and-svg-graphics-and-animation-1p16)
+- [Advanced Forms: Validation, Input Types, and Attributes](https://dev.to/sharique_siddiqui_8242dad/advanced-forms-validation-input-types-and-attributes-2cbp)
+- [Get familiar with Rust, Python, and TypeScript!](https://dev.to/urbanisierung/get-familiar-with-rust-python-and-typescript-7e8)
+- [Responsive Layouts: Meta Tags, Viewport, and Basic Responsiveness](https://dev.to/sharique_siddiqui_8242dad/responsive-layouts-meta-tags-viewport-and-basic-responsiveness-k0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
