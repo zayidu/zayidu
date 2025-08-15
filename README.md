@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Alignment in Go: A Practical Guide to Faster, Leaner Code](https://dev.to/jones_charles_ad50858dbc0/memory-alignment-in-go-a-practical-guide-to-faster-leaner-code-ko3)
-- [Simplify AWS Lambda Deployments Using GitHub Actions](https://dev.to/aws-builders/simplify-aws-lambda-deployments-using-github-actions-43om)
-- [Lets Encrypt DNS Challenge with Traefik and AWS Route 53](https://dev.to/kasundsilva/lets-encrypt-dns-challenge-with-traefik-and-aws-route-53-1312)
-- [Let&#39;s Encrypt DNS Challenge with Traefik and AWS Route 53](https://dev.to/kasundsilva/lets-encrypt-dns-challenge-with-traefik-and-aws-route-53-3b5e)
-- [Exploring Generative AI for Personal Growth and Care](https://dev.to/ujjavala/exploring-generative-ai-for-personal-growth-and-care-be8)
+- [Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach](https://dev.to/sharon_42e16b8da44dabde6d/citrix-netscaler-adcgateway-session-token-leak-patch-now-or-risk-a-breach-kgb)
+- [The Flexibility Trap: How Remote Work Destroyed My Most Productive Team](https://dev.to/michealwilhite/the-flexibility-trap-how-remote-work-destroyed-my-most-productive-team-31g1)
+- [Junior vs Senior Developers: How They Use ChatGPT for Coding](https://dev.to/er-raj-aryan/junior-vs-senior-developers-how-they-use-chatgpt-for-coding-38ci)
+- [Steering KIRO to Completion Less Effort, Less Stress](https://dev.to/truger/steering-kiro-to-completion-less-effort-less-stress-o27)
+- [Embedded Displays: The Core of Modern Industrial and Commercial Devices](https://dev.to/dora_001/embedded-displays-the-core-of-modern-industrial-and-commercial-devices-1723)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
