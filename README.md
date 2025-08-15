@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach](https://dev.to/sharon_42e16b8da44dabde6d/citrix-netscaler-adcgateway-session-token-leak-patch-now-or-risk-a-breach-kgb)
-- [The Flexibility Trap: How Remote Work Destroyed My Most Productive Team](https://dev.to/michealwilhite/the-flexibility-trap-how-remote-work-destroyed-my-most-productive-team-31g1)
-- [Junior vs Senior Developers: How They Use ChatGPT for Coding](https://dev.to/er-raj-aryan/junior-vs-senior-developers-how-they-use-chatgpt-for-coding-38ci)
-- [Steering KIRO to Completion Less Effort, Less Stress](https://dev.to/truger/steering-kiro-to-completion-less-effort-less-stress-o27)
-- [Embedded Displays: The Core of Modern Industrial and Commercial Devices](https://dev.to/dora_001/embedded-displays-the-core-of-modern-industrial-and-commercial-devices-1723)
+- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
+- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
+- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4ko5)
+- [No Laying Up Podcast: Chop Session | Trap Draw, Ep 354](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-trap-draw-ep-354-54p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
