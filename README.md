@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Design Pattern in Laravel: Complete Guide 2025](https://dev.to/arasosman/strategy-design-pattern-in-laravel-complete-guide-2025-3ccg)
-- [The Game Theorists: 🔴What WAS the True Secret of the Mimic? | Ft. @Dawko @FuhNaff @RyeToast @HyperDroid @IDsFantasy](https://dev.to/gg_news/the-game-theorists-what-was-the-true-secret-of-the-mimic-ft-dawko-fuhnaff-ryetoast-fg2)
-- [The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us?](https://dev.to/devtechinsights/the-looming-threat-of-ai-powered-malware-could-machines-out-hack-us-2pec)
-- [Cilium CIDR overlap issue](https://dev.to/dhyanioo/cilium-cidr-overlap-issue-54d)
-- [🎯 Cracking Cyfrin&#39;s NFT Challenge: Guessing Pseudo-Randomness Like a Pro](https://dev.to/kode-n-rolla/cracking-cyfrins-nft-challenge-guessing-pseudo-randomness-like-a-pro-1mp5)
+- [Understanding APIs: The Beginner’s Complete Guide](https://dev.to/maurice_ombewa_21d073ef7a/understanding-apis-the-beginners-complete-guide-54gl)
+- [Dijkstra&#39;s Algorithm C++: Story](https://dev.to/harshm03/dijkstras-algorithm-c-story-1h40)
+- [Bellman-Ford Algorithm C++: Story](https://dev.to/harshm03/bellman-ford-algorithm-c-story-53hj)
+- [Beyond Prompt Engineering: Envision a Framework for Interactive AI-Assisted Development](https://dev.to/ziv_kfir_aa0a372cec2e1e4b/beyond-prompt-engineering-envision-a-framework-for-interactive-ai-assisted-development-34oj)
+- [Day 26: Jenkins Declarative Pipeline](https://dev.to/udoh_deborah_b1e484c474bf/day-26-jenkins-declarative-pipeline-25kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
