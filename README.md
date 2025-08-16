@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
-- [Burn down the town &lpar;My AI song&rpar;](https://dev.to/jacklehamster/burn-down-the-town-my-ai-song-1b76)
-- [Understanding AtomFamily in Recoil](https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-4pd0)
-- [🚀 Thrilled to kick off my SECOND year as an IBM Z Student Ambassador!](https://dev.to/retro788/thrilled-to-kick-off-my-second-year-as-an-ibm-z-student-ambassador-38pd)
-- [How Does iOS 18–26 Integrate ChatGPT and Why is xAI Planning to Sue Apple?](https://dev.to/jovin_george_733dcfc16291/how-does-ios-18-26-integrate-chatgpt-and-why-is-xai-planning-to-sue-apple-3n47)
+- [How to Properly Clean Up Docker &lpar;and Save Your Sanity&rpar;](https://dev.to/agasta/how-to-properly-clean-up-docker-and-save-your-sanity-4662)
+- [Rive vs Lottie: Which Animation Tool Should You Use in 2025?](https://dev.to/uianimation/rive-vs-lottie-which-animation-tool-should-you-use-in-2025-p4m)
+- [Danny Maude: This One Move Takes You from Amateur to Pro Ball Striking in 5 minutes](https://dev.to/youtube_golf/danny-maude-this-one-move-takes-you-from-amateur-to-pro-ball-striking-in-5-minutes-3ae3)
+- [ARC AGI 3 Preview Competition — My Journey](https://dev.to/dhana_abhiraj_a1374a071a5/arc-agi-3-preview-competition-my-journey-3nmb)
+- [Understanding React’s Component Lifecycle &lpar;Hooks Way&rpar;](https://dev.to/a1guy/understanding-reacts-component-lifecycle-hooks-way-4bja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
