@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How IoT-Based Solutions Will Revolutionize the Plastic Manufacturing Sector](https://dev.to/tim_ferriss_ce5fc283850e6/how-iot-based-solutions-will-revolutionize-the-plastic-manufacturing-sector-2m02)
-- [Building Production RAG in 2024: Lessons from 50+ Deployments](https://dev.to/hamidomarov/building-production-rag-in-2024-lessons-from-50-deployments-5fh9)
-- [Generate QR Codes for Free in C#: A Step-by-Step Guide](https://dev.to/auyeungdavid_2847435260/generate-qr-codes-for-free-in-c-a-step-by-step-guide-4h9d)
-- [Record Companion: Simple Builder Pattern for Java Records](https://dev.to/agavrilov76/record-companion-simple-builder-pattern-for-java-records-4h9f)
-- [Windows 11 Battery Drain Overnight: Detailed Causes, Fixes, and Prevention](https://dev.to/techlasi/windows-11-battery-drain-overnight-detailed-causes-fixes-and-prevention-1k9n)
+- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/noodle/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-405k)
+- [Week 9: DevOps Meets Cloud – AWS Skills for Modern Engineering](https://dev.to/dev_dave_26/week-9-devops-meets-cloud-aws-skills-for-modern-engineering-1b7h)
+- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
+- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
+- [Log011 - UFW, nginx and a dream.](https://dev.to/aka_artem_dd17be93c/log011-ufw-nginx-and-a-dream-4j5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
