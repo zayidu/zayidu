@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use Generic vs Non-Generic Collections in C#](https://dev.to/mariemoalla/when-to-use-generic-vs-non-generic-collections-in-c-ocb)
-- [Implementing Offline-First Architecture in Flutter: Part 2 - Building Sync Mechanisms and Handling Connectivity Changes](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-2-building-sync-mechanisms-and-handling-4mb1)
-- [JavaScript Variables &amp; Memory: The Secret Life Behind the Scenes](https://dev.to/anik_sikder_313/javascript-variables-memory-the-secret-life-behind-the-scenes-4j21)
-- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
-- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
+- [How IoT-Based Solutions Will Revolutionize the Plastic Manufacturing Sector](https://dev.to/tim_ferriss_ce5fc283850e6/how-iot-based-solutions-will-revolutionize-the-plastic-manufacturing-sector-2m02)
+- [Building Production RAG in 2024: Lessons from 50+ Deployments](https://dev.to/hamidomarov/building-production-rag-in-2024-lessons-from-50-deployments-5fh9)
+- [Generate QR Codes for Free in C#: A Step-by-Step Guide](https://dev.to/auyeungdavid_2847435260/generate-qr-codes-for-free-in-c-a-step-by-step-guide-4h9d)
+- [Record Companion: Simple Builder Pattern for Java Records](https://dev.to/agavrilov76/record-companion-simple-builder-pattern-for-java-records-4h9f)
+- [Windows 11 Battery Drain Overnight: Detailed Causes, Fixes, and Prevention](https://dev.to/techlasi/windows-11-battery-drain-overnight-detailed-causes-fixes-and-prevention-1k9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
