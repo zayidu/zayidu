@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Assistant ChatBot — Full Control: My WordPress Plugin](https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5)
-- [Connecting AI to the Real World: Understanding Model Context Protocol &lpar;MCP&rpar; by Anthropic](https://dev.to/iamfaham/connecting-ai-to-the-real-world-understanding-model-context-protocol-mcp-by-anthropic-39hd)
-- [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
-- [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
-- [Your Java App Is DYING! This One Thread Pool Mistake KILLS Performance.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-dying-this-one-thread-pool-mistake-kills-performance-2i34)
+- [Deploying an Private ALB to LocalStack](https://dev.to/darkedges/deploying-an-alb-to-localstack-4b01)
+- [Day 17 - Render Dynamic Content in HTML Template](https://dev.to/railsstudent/day-17-render-dynamic-content-in-html-template-3c28)
+- [Dicas práticas e lições da minha jornada até a certificação AWS Cloud Practitioner](https://dev.to/jonathasrochadesouza/dicas-praticas-e-licoes-da-minha-jornada-ate-a-certificacao-aws-cloud-practitioner-5294)
+- [Latest AI Updates: Stay Ahead in the AI Revolution](https://dev.to/jesus_camacho_f51a6edbd4f/latest-ai-updates-stay-ahead-in-the-ai-revolution-3n7j)
+- [Mengenal Earl: Bahasa Pemrograman Berbasis Bahasa Indonesia untuk Pemula](https://dev.to/dev_nazwashabrina/mengenal-earl-bahasa-pemrograman-berbasis-bahasa-indonesia-untuk-pemula-aeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
