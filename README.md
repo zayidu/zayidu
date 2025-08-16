@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding APIs: The Beginner’s Complete Guide](https://dev.to/maurice_ombewa_21d073ef7a/understanding-apis-the-beginners-complete-guide-54gl)
-- [Dijkstra&#39;s Algorithm C++: Story](https://dev.to/harshm03/dijkstras-algorithm-c-story-1h40)
-- [Bellman-Ford Algorithm C++: Story](https://dev.to/harshm03/bellman-ford-algorithm-c-story-53hj)
-- [Beyond Prompt Engineering: Envision a Framework for Interactive AI-Assisted Development](https://dev.to/ziv_kfir_aa0a372cec2e1e4b/beyond-prompt-engineering-envision-a-framework-for-interactive-ai-assisted-development-34oj)
-- [Day 26: Jenkins Declarative Pipeline](https://dev.to/udoh_deborah_b1e484c474bf/day-26-jenkins-declarative-pipeline-25kl)
+- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n)
+- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-46b3)
+- [Note API: Authentication, Authorization &amp; CRUD](https://dev.to/imrancodes/note-api-authentication-authorization-crud-2gki)
+- [Projetos de impacto: o trabalho de Arnaldo Tomo na comunidade Laravel e mobile](https://dev.to/arnaldo/projetos-de-impacto-o-trabalho-de-arnaldo-tomo-na-comunidade-laravel-e-mobile-3h4k)
+- [Control Flow in Swift: Using if, guard, and switch the Right Way](https://dev.to/jacop_dev/control-flow-in-swift-using-if-guard-and-switch-the-right-way-3gcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
