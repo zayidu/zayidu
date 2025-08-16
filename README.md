@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Properly Clean Up Docker &lpar;and Save Your Sanity&rpar;](https://dev.to/agasta/how-to-properly-clean-up-docker-and-save-your-sanity-4662)
-- [Rive vs Lottie: Which Animation Tool Should You Use in 2025?](https://dev.to/uianimation/rive-vs-lottie-which-animation-tool-should-you-use-in-2025-p4m)
-- [Danny Maude: This One Move Takes You from Amateur to Pro Ball Striking in 5 minutes](https://dev.to/youtube_golf/danny-maude-this-one-move-takes-you-from-amateur-to-pro-ball-striking-in-5-minutes-3ae3)
-- [ARC AGI 3 Preview Competition — My Journey](https://dev.to/dhana_abhiraj_a1374a071a5/arc-agi-3-preview-competition-my-journey-3nmb)
-- [Understanding React’s Component Lifecycle &lpar;Hooks Way&rpar;](https://dev.to/a1guy/understanding-reacts-component-lifecycle-hooks-way-4bja)
+- [Next.js HTTPS on Localhost: The Easy Way for Secure Development](https://dev.to/robbiecahill/nextjs-https-on-localhost-the-easy-way-for-secure-development-2id5)
+- [What is Executive Function? Improve Focus &amp; Planning Today](https://dev.to/fluidwave/what-is-executive-function-improve-focus-planning-today-2n93)
+- [Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server](https://dev.to/robbiecahill/localhost-https-3-easy-ways-to-secure-your-local-development-server-35i7)
+- [🌟 Today I Learned: Basics of Generative AI &lpar;Gen AI&rpar; with Groq Cloud and Prompting](https://dev.to/abhishek-nexgen-dev/today-i-learned-basics-of-generative-ai-gen-ai-with-groq-cloud-and-prompting-4a10)
+- [Understanding atomFamily in Recoil with a Todo Example](https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-with-a-todo-example-18d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
