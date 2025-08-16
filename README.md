@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an Private ALB to LocalStack](https://dev.to/darkedges/deploying-an-alb-to-localstack-4b01)
-- [Day 17 - Render Dynamic Content in HTML Template](https://dev.to/railsstudent/day-17-render-dynamic-content-in-html-template-3c28)
-- [Dicas práticas e lições da minha jornada até a certificação AWS Cloud Practitioner](https://dev.to/jonathasrochadesouza/dicas-praticas-e-licoes-da-minha-jornada-ate-a-certificacao-aws-cloud-practitioner-5294)
-- [Latest AI Updates: Stay Ahead in the AI Revolution](https://dev.to/jesus_camacho_f51a6edbd4f/latest-ai-updates-stay-ahead-in-the-ai-revolution-3n7j)
-- [Mengenal Earl: Bahasa Pemrograman Berbasis Bahasa Indonesia untuk Pemula](https://dev.to/dev_nazwashabrina/mengenal-earl-bahasa-pemrograman-berbasis-bahasa-indonesia-untuk-pemula-aeg)
+- [Battling the Silent Threat: A Practical Guide to Preventing CSRF Attacks](https://dev.to/freedom-coder/battling-the-silent-threat-a-practical-guide-to-preventing-csrf-attacks-1ked)
+- [Managing Large Repositories with Git LFS and Sparse-Checkout](https://dev.to/arasosman/managing-large-repositories-with-git-lfs-and-sparse-checkout-2ek7)
+- [How to Deploy a Dockerized App on ECS &lpar;with Fargate&rpar; 🚢🔥](https://dev.to/yash_sonawane25/how-to-deploy-a-dockerized-app-on-ecs-with-fargate-7g8)
+- [Install and configure Zabbix 7 with Apache and MySQL for Ubuntu 24.04 LTS](https://dev.to/chittrmahto/install-and-configure-zabbix-7-with-apache-and-mysql-for-ubuntu-2404-lts-17p2)
+- [How to Build Your First AI Agent with Semantic Kernel &amp; DeepSeek R1 Locally with Ollama](https://dev.to/codestreet/how-to-build-your-first-ai-agent-with-semantic-kernel-deepseek-r1-locally-with-ollama-1c3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
