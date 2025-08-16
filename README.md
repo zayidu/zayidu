@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is an ultimate platform for DevOps to show their work and get the attention of big companies, including MAANG+AI. Don&#39;t leave your code to chance; showcase directly to Executives and CXOs.](https://dev.to/jaideepparashar/twitter-is-an-ultimate-platform-for-devops-to-show-their-work-and-get-the-attention-of-big-4kma)
-- [IA en las aulas y mundo laboral](https://dev.to/erickvasm/ia-en-las-aulas-y-mundo-laboral-3l0l)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4lah)
-- [7 Twitter Prompts That Grew My AI Audience](https://dev.to/jaideepparashar/7-twitter-prompts-that-grew-my-ai-audience-5g01)
-- [The Testing Paradox: Why 90% of IT Projects Are Late and How to Break the Cycle](https://dev.to/esha_suchana_3514f571649c/the-testing-paradox-why-90-of-it-projects-are-late-and-how-to-break-the-cycle-4ah4)
+- [Discovering yle.fi: What I Found](https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh)
+- [Vanilla JavaScript and JavaScript Frameworks](https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa)
+- [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
+- [Building True Micro-Frontends: Beyond iFrames with Module Federation](https://dev.to/abdebek/building-true-micro-frontends-beyond-iframes-with-module-federation-3jen)
+- [Adam Optimizer in Deep Learning – A Beginner’s Guide](https://dev.to/bharathprasad/adam-optimizer-in-deep-learning-a-beginners-guide-26i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
