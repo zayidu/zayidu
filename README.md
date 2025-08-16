@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
-- [Trackable Flask API using EventSource](https://dev.to/adrianluong/trackable-flask-api-using-eventsource-365f)
-- [Understanding Map in JavaScript &lpar;The Underestimated Data Structure&rpar;](https://dev.to/oyewadkar/understanding-map-in-javascript-the-underestimated-data-structure-3k5)
-- [Deploy Dragonfly Replication](https://dev.to/arman-shafiei/deploy-dragonfly-replication-i6i)
-- [Building an Azure VM Sizer for LLMs — with Codex Doing 90% of the Work](https://dev.to/frankiey/building-an-azure-vm-sizer-for-llms-with-codex-doing-90-of-the-work-7kn)
+- [Threat Modelling with Threat Dragon](https://dev.to/markblandford/threat-modelling-with-threat-dragon-3nda)
+- [🐧Week 1 of my Cloud Journey - Building a Strong Linux Foundation](https://dev.to/asimmakes/week-1-of-my-cloud-journey-building-a-strong-linux-foundation-55dh)
+- [AWS VPC to ECS – Day 3: IAM Roles, SSM &amp; ECS Cluster](https://dev.to/aws-builders/aws-vpc-to-ecs-day-3-iam-roles-ssm-ecs-cluster-26ka)
+- [Stop Importing React This Way - Switch to the Wrapper Pattern Instead](https://dev.to/gouranga-das-khulna/stop-importing-react-this-way-switch-to-the-wrapper-pattern-instead-4l86)
+- [📝Github Notes - a browser extension for adding private notes to GitHub](https://dev.to/zjkal/github-notes-a-browser-extension-for-adding-private-notes-to-github-1c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
