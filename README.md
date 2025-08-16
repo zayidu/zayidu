@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing C++ Compilation and Run Button Issues in VS Code on Windows](https://dev.to/devjubr/fixing-c-compilation-and-run-button-issues-in-vs-code-on-windows-1koc)
+- [No More “How to Create Pytest HTML Reports or how to email test reports&quot;](https://dev.to/kevi019/no-more-how-to-create-pytest-html-reports-or-how-to-send-email-55j2)
+- [I Built My Developer Portfolio with Next.js 15 + Tailwind — Here’s How](https://dev.to/nishuldhakar/i-built-my-developer-portfolio-with-nextjs-15-tailwind-heres-how-35j7)
+- [Harnessing `atomFamily` and `selectorFamily` in Recoil for Dynamic Async State](https://dev.to/safal_bhandari/harnessing-atomfamily-and-selectorfamily-in-recoil-for-dynamic-async-state-2cob)
 - [Next.js HTTPS on Localhost: The Easy Way for Secure Development](https://dev.to/robbiecahill/nextjs-https-on-localhost-the-easy-way-for-secure-development-2id5)
-- [What is Executive Function? Improve Focus &amp; Planning Today](https://dev.to/fluidwave/what-is-executive-function-improve-focus-planning-today-2n93)
-- [Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server](https://dev.to/robbiecahill/localhost-https-3-easy-ways-to-secure-your-local-development-server-35i7)
-- [🌟 Today I Learned: Basics of Generative AI &lpar;Gen AI&rpar; with Groq Cloud and Prompting](https://dev.to/abhishek-nexgen-dev/today-i-learned-basics-of-generative-ai-gen-ai-with-groq-cloud-and-prompting-4a10)
-- [Understanding atomFamily in Recoil with a Todo Example](https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-with-a-todo-example-18d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
