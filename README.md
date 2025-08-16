@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workload Identity Federation Explained in 2 Minutes &lpar;with a School Trip Analogy&rpar;](https://dev.to/mmk4mmk/workload-identity-federation-explained-in-2-minutes-with-a-school-trip-analogy-hdf)
-- [React 19 useReducer Deep Dive — From Basics to Complex State Patterns](https://dev.to/a1guy/react-19-usereducer-deep-dive-from-basics-to-complex-state-patterns-3fpi)
-- [Python Behind the Scenes - Understanding Code Execution Flow](https://dev.to/prakash_vinukonda_363ed4b/python-behind-the-scenes-understanding-code-execution-flow-1o07)
-- [Building a smart, agentic email assistant](https://dev.to/dsense/building-a-smart-agentic-email-assistant-4m70)
-- [Make In A Day: Hovertank One](https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn)
+- [Adam Savage&#39;s Tested: This Myth Generated the Most Personal Backlash Against Adam Savage and Jamie](https://dev.to/maker_youtube/adam-savages-tested-this-myth-generated-the-most-personal-backlash-against-adam-savage-and-jamie-292a)
+- [Burke Holland: GPT-5 Mini is a good model....if you like orbs](https://dev.to/vibe_youtube/burke-holland-gpt-5-mini-is-a-good-modelif-you-like-orbs-32do)
+- [Veritasium: The Perfect Battery Material Is Dangerous](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-48ap)
+- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
+- [Secure Node.js File Uploads in Minutes with Pompelmi](https://dev.to/sonotommy/secure-nodejs-file-uploads-in-minutes-with-pompelmi-3jfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
