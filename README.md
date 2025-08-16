@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Battling the Silent Threat: A Practical Guide to Preventing CSRF Attacks](https://dev.to/freedom-coder/battling-the-silent-threat-a-practical-guide-to-preventing-csrf-attacks-1ked)
-- [Managing Large Repositories with Git LFS and Sparse-Checkout](https://dev.to/arasosman/managing-large-repositories-with-git-lfs-and-sparse-checkout-2ek7)
-- [How to Deploy a Dockerized App on ECS &lpar;with Fargate&rpar; 🚢🔥](https://dev.to/yash_sonawane25/how-to-deploy-a-dockerized-app-on-ecs-with-fargate-7g8)
-- [Install and configure Zabbix 7 with Apache and MySQL for Ubuntu 24.04 LTS](https://dev.to/chittrmahto/install-and-configure-zabbix-7-with-apache-and-mysql-for-ubuntu-2404-lts-17p2)
-- [How to Build Your First AI Agent with Semantic Kernel &amp; DeepSeek R1 Locally with Ollama](https://dev.to/codestreet/how-to-build-your-first-ai-agent-with-semantic-kernel-deepseek-r1-locally-with-ollama-1c3i)
+- [The BEST Code Editor for Everything — Honest Comparison for 2025](https://dev.to/tahamjp/the-best-code-editor-for-everything-honest-comparison-for-2025-3co7)
+- [🎯 Event Delegation in JavaScript: A Complete Beginner-to-Advanced Guide](https://dev.to/rohit_singh_ee84e64941db7/event-delegation-in-javascript-a-complete-beginner-to-advanced-guide-2aj1)
+- [Using PgBouncer to improve performance and reduce the load on PostgreSQL](https://dev.to/chittrmahto/using-pgbouncer-to-improve-performance-and-reduce-the-load-on-postgresql-216j)
+- [1323. Maximum 69 Number](https://dev.to/mdarifulhaque/1323-maximum-69-number-a96)
+- [💎 .NET 9 Hidden Gems: 7 Power Features Most Developers Are Missing](https://dev.to/iamprincejkc/net-9-hidden-gems-7-power-features-most-developers-are-missing-26hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
