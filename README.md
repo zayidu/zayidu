@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/noodle/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-405k)
-- [Week 9: DevOps Meets Cloud – AWS Skills for Modern Engineering](https://dev.to/dev_dave_26/week-9-devops-meets-cloud-aws-skills-for-modern-engineering-1b7h)
-- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
-- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
-- [Log011 - UFW, nginx and a dream.](https://dev.to/aka_artem_dd17be93c/log011-ufw-nginx-and-a-dream-4j5l)
+- [The Three Generations of AI Coding Tools: A Look Into 2025’s Developer Future](https://dev.to/arkhan/the-three-generations-of-ai-coding-tools-a-look-into-2025s-developer-future-ke6)
+- [The Journey of Web: Web1.0 to Web3.0](https://dev.to/kutt27/the-journey-of-web-web10-to-web30-1hkb)
+- [30 Days of code- Day 23](https://dev.to/akshitaexe/30-days-of-code-day-23-chg)
+- [Linus Tech Tips &lpar;LTT&rpar;: My Haters will Hate this](https://dev.to/future_youtube/linus-tech-tips-ltt-my-haters-will-hate-this-396p)
+- [The Game Theorists: Game Theory: FNAF, Did Fazbear REALLY Steal Everything?](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-did-fazbear-really-steal-everything-gen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
