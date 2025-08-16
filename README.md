@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Modelling with Threat Dragon](https://dev.to/markblandford/threat-modelling-with-threat-dragon-3nda)
-- [🐧Week 1 of my Cloud Journey - Building a Strong Linux Foundation](https://dev.to/asimmakes/week-1-of-my-cloud-journey-building-a-strong-linux-foundation-55dh)
-- [AWS VPC to ECS – Day 3: IAM Roles, SSM &amp; ECS Cluster](https://dev.to/aws-builders/aws-vpc-to-ecs-day-3-iam-roles-ssm-ecs-cluster-26ka)
-- [Stop Importing React This Way - Switch to the Wrapper Pattern Instead](https://dev.to/gouranga-das-khulna/stop-importing-react-this-way-switch-to-the-wrapper-pattern-instead-4l86)
-- [📝Github Notes - a browser extension for adding private notes to GitHub](https://dev.to/zjkal/github-notes-a-browser-extension-for-adding-private-notes-to-github-1c8)
+- [Workload Identity Federation Explained in 2 Minutes &lpar;with a School Trip Analogy&rpar;](https://dev.to/mmk4mmk/workload-identity-federation-explained-in-2-minutes-with-a-school-trip-analogy-hdf)
+- [React 19 useReducer Deep Dive — From Basics to Complex State Patterns](https://dev.to/a1guy/react-19-usereducer-deep-dive-from-basics-to-complex-state-patterns-3fpi)
+- [Python Behind the Scenes - Understanding Code Execution Flow](https://dev.to/prakash_vinukonda_363ed4b/python-behind-the-scenes-understanding-code-execution-flow-1o07)
+- [Building a smart, agentic email assistant](https://dev.to/dsense/building-a-smart-agentic-email-assistant-4m70)
+- [Make In A Day: Hovertank One](https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
