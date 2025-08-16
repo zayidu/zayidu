@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: This Myth Generated the Most Personal Backlash Against Adam Savage and Jamie](https://dev.to/maker_youtube/adam-savages-tested-this-myth-generated-the-most-personal-backlash-against-adam-savage-and-jamie-292a)
-- [Burke Holland: GPT-5 Mini is a good model....if you like orbs](https://dev.to/vibe_youtube/burke-holland-gpt-5-mini-is-a-good-modelif-you-like-orbs-32do)
-- [Veritasium: The Perfect Battery Material Is Dangerous](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-48ap)
-- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
-- [Secure Node.js File Uploads in Minutes with Pompelmi](https://dev.to/sonotommy/secure-nodejs-file-uploads-in-minutes-with-pompelmi-3jfe)
+- [When to Use Generic vs Non-Generic Collections in C#](https://dev.to/mariemoalla/when-to-use-generic-vs-non-generic-collections-in-c-ocb)
+- [Implementing Offline-First Architecture in Flutter: Part 2 - Building Sync Mechanisms and Handling Connectivity Changes](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-2-building-sync-mechanisms-and-handling-4mb1)
+- [JavaScript Variables &amp; Memory: The Secret Life Behind the Scenes](https://dev.to/anik_sikder_313/javascript-variables-memory-the-secret-life-behind-the-scenes-4j21)
+- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
+- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
