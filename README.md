@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 1](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-1-30g6)
-- [Understanding Server-Sent Events &lpar;SSE&rpar; and Why HTTP/2 Matters](https://dev.to/abhivyaktii/understanding-server-sent-events-sse-and-why-http2-matters-1cj7)
-- [How to Run a Very Large SQL Script Without Opening It in SSMS](https://dev.to/morteza-jangjoo/how-to-run-a-very-large-sql-script-without-opening-it-in-ssms-150b)
-- [Component-Based Design in Software Architecture](https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf)
-- [Building AI Agents with smolagents and a Gaia Node](https://dev.to/gaiaai/building-ai-agents-with-smolagents-and-a-gaia-node-5ak5)
+- [Beyond Chatbots: How Multi-Agent AI Systems Are Revolutionizing Software Engineering](https://dev.to/atharva_ralegankar_810842/beyond-chatbots-how-multi-agent-ai-systems-are-revolutionizing-software-engineering-26ka)
+- [𝗪𝗵𝘆 𝗺𝗮𝗻𝘆 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝘀 𝗿𝘂𝗻 𝗼𝗻 𝗘𝘃𝗲𝗻𝘁-𝗗𝗿𝗶𝘃𝗲𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 &lpar;𝗘𝗗𝗔&rpar; 🚀](https://dev.to/isreal_urephu/--2gi2)
+- [Unlocking the Magic: My First ML Project – Handwritten Digit Recognition with MNIST ✨](https://dev.to/itsaryanchauhan/unlocking-the-magic-my-first-ml-project-handwritten-digit-recognition-with-mnist-349g)
+- [Interviewing in tech changed drastically after 2022 — here’s what I learned trying to navigate it](https://dev.to/london804/interviewing-in-tech-changed-drastically-after-2022-heres-what-i-learned-trying-to-navigate-it-3l05)
+- [Ruby](https://dev.to/arsalanbardsiri/ruby-4p7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
