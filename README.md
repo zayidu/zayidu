@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laura Kampf: I invited 400 people to my shop and sold EVERYTHING](https://dev.to/maker_youtube/laura-kampf-i-invited-400-people-to-my-shop-and-sold-everything-1o7k)
-- [HTTP Response Optimization and Streaming Techniques&lpar;1023&rpar;](https://dev.to/ltpp_universe/http-response-optimization-and-streaming-techniques1023-26ae)
-- [Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning](https://dev.to/tutti/enhancing-domain-specific-knowledge-graph-reasoning-via-metapath-based-large-model-prompt-learning-4cog)
-- [WebSocket Revolution in Real-Time Communication&lpar;9388&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication9388-d95)
-- [OpenAI SDK vs Direct API Calls: What 6 Months of Building AI Agents Taught Me](https://dev.to/dpelleri/openai-sdk-vs-direct-api-calls-what-6-months-of-building-ai-agents-taught-me-15bd)
+- [从 COBOL 到汇编：用个税计算器带你扒光 60 年老古董语言](https://dev.to/ctkqiang/cong-cobol-dao-hui-bian-yong-ge-shui-ji-suan-qi-dai-ni-ba-guang-60-nian-lao-gu-dong-yu-yan-ga9)
+- [Showcasing My Portfolio: A Full Stack Portfolio Built with Next.js](https://dev.to/monirhrabby/building-my-portfolio-v5-a-full-stack-developers-journey-with-nextjs-tailwind-css-28l8)
+- [Context Management and Request Lifecycle Optimization&lpar;1355&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization1355-349e)
+- [Dev Log 06](https://dev.to/asx/dev-log-06-5d0d)
+- [V8, the engine behind Chrome &amp; Node.js, just made JSON.stringify more than twice as fast! This is a huge win for web performance.](https://dev.to/figsify/v8-the-engine-behind-chrome-nodejs-just-made-jsonstringify-more-than-twice-as-fast-this-is-a-46bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
