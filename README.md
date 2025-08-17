@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [مدیریت پروژه چابک در عمل: ۷ درسی که هر تیم توسعه باید بدونه](https://dev.to/parizad/mdyryt-prwjh-chbkh-dr-ml-7-drsy-khh-hr-tym-twsh-byd-bdwnh-2b0a)
-- [Handling Async State with useRecoilValueLoadable and useRecoilStateLoadable in Recoil](https://dev.to/safal_bhandari/handling-async-state-with-userecoilvalueloadable-and-userecoilstateloadable-in-recoil-4a3)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;0857&rpar;](https://dev.to/ltpp_universe/http-request-processing-with-zero-copy-optimization0857-51c2)
-- [Technical SEO: Best Practices for Site Speed and Indexing](https://dev.to/mdkawsharul_islamroyal_/technical-seo-best-practices-for-site-speed-and-indexing-3jco)
-- [Solidity variable and data type](https://dev.to/loading_blocks/solidity-variable-and-data-type-5ghb)
+- [From Pain Points to Productivity: Overcoming Angular Team Challenges](https://dev.to/karol_modelski/from-pain-points-to-productivity-overcoming-angular-team-challenges-3gk0)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4151&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers4151-54mj)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;0026&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj)
+- [Vibe Coding and the MVP Revolution: Buy Back Your Time, Impress Investors](https://dev.to/yadellopez/vibe-coding-and-the-mvp-revolution-buy-back-your-time-impress-investors-1749)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;7981&rpar;](https://dev.to/ltpp_universe/zero-dependency-architecture-for-maximum-performance7981-1ac3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
