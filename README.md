@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Blade Icons in Laravel Projects](https://dev.to/masumparvej/how-to-use-blade-icons-in-laravel-projects-3ga9)
-- [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
-- [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
-- [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
-- [It&#39;s the ideal time to start building your AI business, even if you don&#39;t come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
+- [مدیریت پروژه چابک در عمل: ۷ درسی که هر تیم توسعه باید بدونه](https://dev.to/parizad/mdyryt-prwjh-chbkh-dr-ml-7-drsy-khh-hr-tym-twsh-byd-bdwnh-2b0a)
+- [Handling Async State with useRecoilValueLoadable and useRecoilStateLoadable in Recoil](https://dev.to/safal_bhandari/handling-async-state-with-userecoilvalueloadable-and-userecoilstateloadable-in-recoil-4a3)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;0857&rpar;](https://dev.to/ltpp_universe/http-request-processing-with-zero-copy-optimization0857-51c2)
+- [Technical SEO: Best Practices for Site Speed and Indexing](https://dev.to/mdkawsharul_islamroyal_/technical-seo-best-practices-for-site-speed-and-indexing-3jco)
+- [Solidity variable and data type](https://dev.to/loading_blocks/solidity-variable-and-data-type-5ghb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
