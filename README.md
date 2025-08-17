@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Why Most Refactors Fail — And How to Fix Them](https://dev.to/amirsaeed_skomjani/why-most-refactors-fail-and-how-to-fix-them-3adj)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;7776&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications7776-3483)
-- [Complete Guide: Installing and Configuring Neovim on macOS](https://dev.to/ajtech0001/complete-guide-installing-and-configuring-neovim-on-macos-4a9e)
-- [React 19 useMemo Explained How to Make React Remember Stuff &lpar;and When Not To&rpar;](https://dev.to/a1guy/react-19-usememo-explained-how-to-make-react-remember-stuff-and-when-not-to-335k)
-- [AWS ALB vs NLB vs CLB – Load Balancers Explained with Use Cases ⚖️☁️](https://dev.to/yash_sonawane25/aws-alb-vs-nlb-vs-clb-load-balancers-explained-with-use-cases-1fln)
+- [Mastering the Project Outline Format for Success](https://dev.to/fluidwave/mastering-the-project-outline-format-for-success-56b8)
+- [What have you been listening to lately?](https://dev.to/highcenburg/what-have-you-been-listening-to-lately-2d37)
+- [Solidity arithmetic and type conversion](https://dev.to/loading_blocks/solidity-arithmetic-and-type-conversion-5bc3)
+- [[Boost]](https://dev.to/ryszardo303/-5d7l)
+- [Baby AI Videos: The New Craze in Digital Creativity](https://dev.to/aaronyu/baby-ai-videos-the-new-craze-in-digital-creativity-2852)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
