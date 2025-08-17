@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Blade Icons in Laravel Projects](https://dev.to/masumparvej/how-to-use-blade-icons-in-laravel-projects-3ga9)
 - [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
 - [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
 - [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
 - [It&#39;s the ideal time to start building your AI business, even if you don&#39;t come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
-- [Why 2 Lines of Code Can Be Worse Than 100](https://dev.to/mehta0007/why-2-lines-of-code-can-be-worse-than-100-33k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
