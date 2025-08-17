@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Try-Catch Blocks Forever!](https://dev.to/andreas_nicolaou_b3b60f17/say-goodbye-to-try-catch-blocks-forever-1em4)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8758&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers8758-lh)
-- [Stop using CSS Class Selectors in Jasmine Tests: Here&#39;s a Better Way](https://dev.to/andreas_nicolaou_b3b60f17/stop-using-css-class-selectors-in-jasmine-tests-heres-a-better-way-37jd)
-- [How I Built VolunteerManiac with Kiro](https://dev.to/hongtran/how-i-built-volunteermaniac-with-kiro-186o)
-- [Transform DevOps with AI: Practical MLOps and Generative AI Pipeline Strategies](https://dev.to/srinivasamcjf/transform-devops-with-ai-practical-mlops-and-generative-ai-pipeline-strategies-gb1)
+- [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
+- [A Guide to the World of Version Control Systems &lpar;VCS&rpar;](https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23)
+- [Hey Recruiters 👋, I Broke the Resume. Then I Rebuilt It with AI.](https://dev.to/frosty_fucker_7d06058f3d8/hey-recruiters-i-broke-the-resume-then-i-rebuilt-it-with-ai-1cd3)
+- [QR Codes: Static vs Dynamic — Which do you actually use?](https://dev.to/valentin_mirchev_4eab18ee/qr-codes-static-vs-dynamic-which-do-you-actually-use-c7p)
+- [How to See Console.WriteLine Output in Visual Studio 2022](https://dev.to/pexlkeys/how-to-see-consolewriteline-output-in-visual-studio-2022-o4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
