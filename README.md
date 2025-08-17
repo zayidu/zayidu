@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Events Implementation for Real-Time Applications&lpar;8279&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications8279-1dhe)
-- [Is Business Intelligence not enough anymore?](https://dev.to/talin/is-business-intelligence-not-enough-anymore-1im4)
-- [I&#39;m trying to start learning webdev but I don&#39;t know if it&#39;s too late.](https://dev.to/eric_flores_eba19048116e5/im-trying-to-start-learning-webdev-but-i-dont-know-if-its-too-late-2713)
-- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
-- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
+- [How to Set Up Laravel with PostgreSQL &lpar;Step-by-Step Guide&rpar;](https://dev.to/emmanuel_sofs/how-to-set-up-laravel-with-postgresql-step-by-step-guide-2gn0)
+- [WebSocket Revolution in Real-Time Communication&lpar;8269&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication8269-55of)
+- [IGN: Guilty Gear Strive - Official Lucy Starter Guide Overview Trailer](https://dev.to/gg_news/ign-guilty-gear-strive-official-lucy-starter-guide-overview-trailer-50o)
+- [IGN: Delta Force - Official Console Launch Overview Trailer](https://dev.to/gg_news/ign-delta-force-official-console-launch-overview-trailer-447d)
+- [IGN: Destiny: Rising - Official Gwynn Character Trailer](https://dev.to/gg_news/ign-destiny-rising-official-gwynn-character-trailer-569)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
