@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
-- [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
-- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
-- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
-- [Fixing Bluetooth Issues in Kali Linux](https://dev.to/sivolko/fixing-bluetooth-issues-in-kali-linux-3enn)
+- [AI-Powered Note Taker &amp; Summarizer I Built From Scratch](https://dev.to/prs-dev/ai-powered-note-taker-summarizer-i-built-from-scratch-1ap2)
+- [RunPod Cloud Computing: The Ultimate Guide for AI/ML Developers](https://dev.to/vishva_murthy_4480fcb3d83/runpod-cloud-computing-the-ultimate-guide-for-aiml-developers-40j)
+- [Function Visibility AND a changeable state modifier](https://dev.to/loading_blocks/function-visibility-and-a-changeable-state-modifier-4l9b)
+- [গুগলের ৭ টি অতিগুরুত্বপূর্ণ সেটিংস যা না করলে একাউন্ট হ্যাক হতে পারে](https://dev.to/rironib/seven-google-settings-to-prevent-account-hacking-4ne3)
+- [WFGY 2.0 — An Open-Source 7-Step Reasoning Engine You Can Paste Anywhere &lpar;Eye-Visible Results&rpar;](https://dev.to/onestardao/wfgy-20-an-open-source-7-step-reasoning-engine-you-can-paste-anywhere-eye-visible-results-1648)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
