@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Project Outline Format for Success](https://dev.to/fluidwave/mastering-the-project-outline-format-for-success-56b8)
-- [What have you been listening to lately?](https://dev.to/highcenburg/what-have-you-been-listening-to-lately-2d37)
-- [Solidity arithmetic and type conversion](https://dev.to/loading_blocks/solidity-arithmetic-and-type-conversion-5bc3)
-- [[Boost]](https://dev.to/ryszardo303/-5d7l)
-- [Baby AI Videos: The New Craze in Digital Creativity](https://dev.to/aaronyu/baby-ai-videos-the-new-craze-in-digital-creativity-2852)
+- [5 Things I Wish I Knew Earlier When Self-Studying Programming &lpar;Especially #5&rpar;](https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n)
+- [The Definitive React 19 useCallback Guide — Patterns, Pitfalls, and Performance Wins](https://dev.to/a1guy/the-definitive-react-19-usecallback-guide-patterns-pitfalls-and-performance-wins-ce4)
+- [Context Management and Request Lifecycle Optimization&lpar;5664&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5664-3gi9)
+- [&quot;Container&quot; with OCI runtime](https://dev.to/kination/container-with-oci-runtime-1m3g)
+- [Primum nil nocere in PHP: First, Do No Harm](https://dev.to/dobrenteiistvan/primum-nil-nocere-in-php-first-do-no-harm-46pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
