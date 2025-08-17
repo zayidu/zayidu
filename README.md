@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
-- [A Guide to the World of Version Control Systems &lpar;VCS&rpar;](https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23)
-- [Hey Recruiters 👋, I Broke the Resume. Then I Rebuilt It with AI.](https://dev.to/frosty_fucker_7d06058f3d8/hey-recruiters-i-broke-the-resume-then-i-rebuilt-it-with-ai-1cd3)
-- [QR Codes: Static vs Dynamic — Which do you actually use?](https://dev.to/valentin_mirchev_4eab18ee/qr-codes-static-vs-dynamic-which-do-you-actually-use-c7p)
-- [How to See Console.WriteLine Output in Visual Studio 2022](https://dev.to/pexlkeys/how-to-see-consolewriteline-output-in-visual-studio-2022-o4n)
+- [1 RN Thing a Day – Day 8: Trivyignore](https://dev.to/ola_1313/1-rn-thing-a-day-day-8-trivyignore-343d)
+- [[Boost]](https://dev.to/mehulimukherjee/-5hel)
+- [Question-based web performance analysis using rsdoctor/mcp-server.](https://dev.to/husdev/question-based-web-performance-analysis-using-rsdoctormcp-server-325a)
+- [Why You Should Choose Next.js Over React.js for Your Next Project](https://dev.to/ofodile/why-you-should-choose-nextjs-over-reactjs-for-your-next-project-2a6m)
+- [Advanced AI-Powered Trading &amp; Insights- Portfolio Intelligence Pro](https://dev.to/anandsingh01/advanced-ai-powered-trading-insights-portfolio-intelligence-pro-35l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
