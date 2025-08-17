@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Note Taker &amp; Summarizer I Built From Scratch](https://dev.to/prs-dev/ai-powered-note-taker-summarizer-i-built-from-scratch-1ap2)
-- [RunPod Cloud Computing: The Ultimate Guide for AI/ML Developers](https://dev.to/vishva_murthy_4480fcb3d83/runpod-cloud-computing-the-ultimate-guide-for-aiml-developers-40j)
-- [Function Visibility AND a changeable state modifier](https://dev.to/loading_blocks/function-visibility-and-a-changeable-state-modifier-4l9b)
-- [গুগলের ৭ টি অতিগুরুত্বপূর্ণ সেটিংস যা না করলে একাউন্ট হ্যাক হতে পারে](https://dev.to/rironib/seven-google-settings-to-prevent-account-hacking-4ne3)
-- [WFGY 2.0 — An Open-Source 7-Step Reasoning Engine You Can Paste Anywhere &lpar;Eye-Visible Results&rpar;](https://dev.to/onestardao/wfgy-20-an-open-source-7-step-reasoning-engine-you-can-paste-anywhere-eye-visible-results-1648)
+- [Untitled](https://dev.to/_nnnot_931f4db4f2e/untitled-4nbf)
+- [Seeking Advice for Building an Android App Using Prompt-Driven AI Agents](https://dev.to/ahmed_zaoui_0667f609d4493/seeking-advice-for-building-an-android-app-using-prompt-driven-ai-agents-558p)
+- [PURL Support](https://dev.to/lizmat/purl-support-4m8h)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;7083&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers7083-4043)
+- [12-Factor App Principle #9: Disposability](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-9-disposability-1b48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
