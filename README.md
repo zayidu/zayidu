@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Wish I Knew Earlier When Self-Studying Programming &lpar;Especially #5&rpar;](https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n)
-- [The Definitive React 19 useCallback Guide — Patterns, Pitfalls, and Performance Wins](https://dev.to/a1guy/the-definitive-react-19-usecallback-guide-patterns-pitfalls-and-performance-wins-ce4)
-- [Context Management and Request Lifecycle Optimization&lpar;5664&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5664-3gi9)
-- [&quot;Container&quot; with OCI runtime](https://dev.to/kination/container-with-oci-runtime-1m3g)
-- [Primum nil nocere in PHP: First, Do No Harm](https://dev.to/dobrenteiistvan/primum-nil-nocere-in-php-first-do-no-harm-46pg)
+- [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
+- [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
+- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
+- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
+- [Fixing Bluetooth Issues in Kali Linux](https://dev.to/sivolko/fixing-bluetooth-issues-in-kali-linux-3enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
