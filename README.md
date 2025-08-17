@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [从 COBOL 到汇编：用个税计算器带你扒光 60 年老古董语言](https://dev.to/ctkqiang/cong-cobol-dao-hui-bian-yong-ge-shui-ji-suan-qi-dai-ni-ba-guang-60-nian-lao-gu-dong-yu-yan-ga9)
-- [Showcasing My Portfolio: A Full Stack Portfolio Built with Next.js](https://dev.to/monirhrabby/building-my-portfolio-v5-a-full-stack-developers-journey-with-nextjs-tailwind-css-28l8)
-- [Context Management and Request Lifecycle Optimization&lpar;1355&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization1355-349e)
-- [Dev Log 06](https://dev.to/asx/dev-log-06-5d0d)
-- [V8, the engine behind Chrome &amp; Node.js, just made JSON.stringify more than twice as fast! This is a huge win for web performance.](https://dev.to/figsify/v8-the-engine-behind-chrome-nodejs-just-made-jsonstringify-more-than-twice-as-fast-this-is-a-46bp)
+- [Adam Savage&#39;s Tested: Adam Savage Is Bad at Random](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-is-bad-at-random-2cn4)
+- [COLORS: Rodney Chrome | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-a-colors-show-4knn)
+- [Building Reactive Interfaces with Formik and React: A Comprehensive Guide](https://dev.to/ekwoster/building-reactive-interfaces-with-formik-and-react-a-comprehensive-guide-2i0a)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;3845&rpar;](https://dev.to/ltpp_universe/production-deployment-strategies-for-high-performance-web-services3845-2ped)
+- [Translating Business Needs into Technical Solutions](https://dev.to/igorfragadev/translating-business-needs-into-technical-solutions-3gld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
