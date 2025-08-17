@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Chatbots: How Multi-Agent AI Systems Are Revolutionizing Software Engineering](https://dev.to/atharva_ralegankar_810842/beyond-chatbots-how-multi-agent-ai-systems-are-revolutionizing-software-engineering-26ka)
-- [𝗪𝗵𝘆 𝗺𝗮𝗻𝘆 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝘀 𝗿𝘂𝗻 𝗼𝗻 𝗘𝘃𝗲𝗻𝘁-𝗗𝗿𝗶𝘃𝗲𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 &lpar;𝗘𝗗𝗔&rpar; 🚀](https://dev.to/isreal_urephu/--2gi2)
-- [Unlocking the Magic: My First ML Project – Handwritten Digit Recognition with MNIST ✨](https://dev.to/itsaryanchauhan/unlocking-the-magic-my-first-ml-project-handwritten-digit-recognition-with-mnist-349g)
-- [Interviewing in tech changed drastically after 2022 — here’s what I learned trying to navigate it](https://dev.to/london804/interviewing-in-tech-changed-drastically-after-2022-heres-what-i-learned-trying-to-navigate-it-3l05)
-- [Ruby](https://dev.to/arsalanbardsiri/ruby-4p7h)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;8279&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications8279-1dhe)
+- [Is Business Intelligence not enough anymore?](https://dev.to/talin/is-business-intelligence-not-enough-anymore-1im4)
+- [I&#39;m trying to start learning webdev but I don&#39;t know if it&#39;s too late.](https://dev.to/eric_flores_eba19048116e5/im-trying-to-start-learning-webdev-but-i-dont-know-if-its-too-late-2713)
+- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
+- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
