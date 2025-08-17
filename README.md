@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Is Bad at Random](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-is-bad-at-random-2cn4)
-- [COLORS: Rodney Chrome | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-a-colors-show-4knn)
-- [Building Reactive Interfaces with Formik and React: A Comprehensive Guide](https://dev.to/ekwoster/building-reactive-interfaces-with-formik-and-react-a-comprehensive-guide-2i0a)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;3845&rpar;](https://dev.to/ltpp_universe/production-deployment-strategies-for-high-performance-web-services3845-2ped)
-- [Translating Business Needs into Technical Solutions](https://dev.to/igorfragadev/translating-business-needs-into-technical-solutions-3gld)
+- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 1](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-1-30g6)
+- [Understanding Server-Sent Events &lpar;SSE&rpar; and Why HTTP/2 Matters](https://dev.to/abhivyaktii/understanding-server-sent-events-sse-and-why-http2-matters-1cj7)
+- [How to Run a Very Large SQL Script Without Opening It in SSMS](https://dev.to/morteza-jangjoo/how-to-run-a-very-large-sql-script-without-opening-it-in-ssms-150b)
+- [Component-Based Design in Software Architecture](https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf)
+- [Building AI Agents with smolagents and a Gaia Node](https://dev.to/gaiaai/building-ai-agents-with-smolagents-and-a-gaia-node-5ak5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
