@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#004: Textual Magic – Strings, Template Literals &amp; String Methods in JavaScript 📝✨](https://dev.to/h_savani/004-textual-magic-strings-template-literals-string-methods-in-javascript-4k9h)
-- [Jurit Multi Select Demo](https://dev.to/artyprog/jurit-multi-select-demo-588a)
-- [The Weirdest Syntax in Programming Languages &lpar;And Why It Exists&rpar;](https://dev.to/grenishrai/the-weirdest-syntax-in-programming-languages-and-why-it-exists-c45)
-- [Meme Monday](https://dev.to/ben/meme-monday-2ido)
-- [Fluent Bit + OpenObserve: The Ultimate Guide to Log Ingestion &amp; Visualization](https://dev.to/mirzabilal/fluent-bit-openobserve-the-ultimate-guide-to-log-ingestion-visualization-4onl)
+- [How to Set Up GitHub Copilot in Your IDE &lpar;Step-by-Step Guide&rpar;](https://dev.to/codewithsimon/how-to-set-up-github-copilot-in-your-ide-step-by-step-guide-14im)
+- [Local Meeting Notes with Whisper Transcription + Ollama Summaries &lpar;Gemma3n, LLaMA, Mistral&rpar; — Meetily AI](https://dev.to/zackriya/local-meeting-notes-with-whisper-transcription-ollama-summaries-gemma3n-llama-mistral--2i3n)
+- [The Future of Dev Workflows in Web3](https://dev.to/vadym_info_polus/the-future-of-dev-workflows-in-web3-12n5)
+- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-1a55)
+- [Cloud App Journey - Ep. 2: Publishing My Frontend to the Cloud](https://dev.to/osvaldofa/cloud-app-journey-ep-3-publishing-my-frontend-to-the-cloud-18nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
