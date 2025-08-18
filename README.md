@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10 AI-Powered VSCode Extensions That Changed My Workflow](https://dev.to/ilsa_shaikh_089e2bfab0bf4/10-ai-powered-vscode-extensions-that-changed-my-workflow-4959)
-- [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
-- [Using Custom Metadata in Apex to Replace Hardcoded Configuration Values](https://dev.to/this8/using-custom-metadata-in-apex-to-replace-hardcoded-configuration-values-506f)
-- [🌗 Dark Mode is Dead? The Shift to Adaptive Theme Design](https://dev.to/ilsa_shaikh_089e2bfab0bf4/dark-mode-is-dead-the-shift-to-adaptive-theme-design-56la)
-- [Should Education Be Free in the Age of AI?](https://dev.to/kalinijabo/should-education-be-free-in-the-age-of-ai-1g8o)
+- [#004: Textual Magic – Strings, Template Literals &amp; String Methods in JavaScript 📝✨](https://dev.to/h_savani/004-textual-magic-strings-template-literals-string-methods-in-javascript-4k9h)
+- [Jurit Multi Select Demo](https://dev.to/artyprog/jurit-multi-select-demo-588a)
+- [The Weirdest Syntax in Programming Languages &lpar;And Why It Exists&rpar;](https://dev.to/grenishrai/the-weirdest-syntax-in-programming-languages-and-why-it-exists-c45)
+- [Meme Monday](https://dev.to/ben/meme-monday-2ido)
+- [Fluent Bit + OpenObserve: The Ultimate Guide to Log Ingestion &amp; Visualization](https://dev.to/mirzabilal/fluent-bit-openobserve-the-ultimate-guide-to-log-ingestion-visualization-4onl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
