@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1 RN Thing a Day – Day 8: Trivyignore](https://dev.to/ola_1313/1-rn-thing-a-day-day-8-trivyignore-343d)
-- [[Boost]](https://dev.to/mehulimukherjee/-5hel)
-- [Question-based web performance analysis using rsdoctor/mcp-server.](https://dev.to/husdev/question-based-web-performance-analysis-using-rsdoctormcp-server-325a)
-- [Why You Should Choose Next.js Over React.js for Your Next Project](https://dev.to/ofodile/why-you-should-choose-nextjs-over-reactjs-for-your-next-project-2a6m)
-- [Advanced AI-Powered Trading &amp; Insights- Portfolio Intelligence Pro](https://dev.to/anandsingh01/advanced-ai-powered-trading-insights-portfolio-intelligence-pro-35l4)
+- [PixiJS: Implementing Core Gaming Concepts](https://dev.to/rubemfsv/pixijs-implementing-core-gaming-concepts-438j)
+- [DevOps Setting](https://dev.to/operarioribeiro/devops-setting-4lc0)
+- [Building Progressive Web Apps with Advanced HTML Features](https://dev.to/sharique_siddiqui_8242dad/building-progressive-web-apps-with-advanced-html-features-4h88)
+- [HTML Debugging &amp; Validation Tools: Ensuring Clean, Error-Free Web Development](https://dev.to/sharique_siddiqui_8242dad/html-debugging-validation-tools-ensuring-clean-error-free-web-development-1bcc)
+- [The weekly roundup is live! We&#39;ve got the latest in dev &amp; design, including some cool new AI tools, free design assets, and fresh articles. Find all the resources at https://www.jqueryscript.net/blog/Weekly-Web-Design-Development-News-Collective-618.html](https://dev.to/jqueryscript/the-weekly-roundup-is-live-weve-got-the-latest-in-dev-design-including-some-cool-new-ai-tools-4pa9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
