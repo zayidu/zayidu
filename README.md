@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Building a Real‑Time Collaborative Form Editing System with Django Channels, WebSockets &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/building-a-real-time-collaborative-form-editing-system-with-django-channels-websockets-redis-2egl)
-- [How I stay immersed with Data science every day?🔎](https://dev.to/amira_bekhta_25/how-i-stay-immersed-with-data-science-every-day-1348)
-- [Day 69: When Excitement Literally Makes You Punch Walls](https://dev.to/casperday11/day-69-when-excitement-literally-makes-you-punch-walls-816)
-- [Database Indexing in .NET with EF Core – Boost Your Query Performance](https://dev.to/adrianbailador/database-indexing-in-net-with-ef-core-boost-your-query-performance-4m3c)
-- [Most developers write code. But fewer developers actually ship products.](https://dev.to/asifonthecode/most-developers-write-code-but-fewer-developers-actually-ship-products-5a5h)
+- [A beginner&#39;s guide to the Qwen3-235b-A22b-Instruct-2507 model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-235b-a22b-instruct-2507-model-by-qwen-on-replicate-47jc)
+- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 11–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-11-17-2025-2adj)
+- [Java Basics: Writing your first program](https://dev.to/cal_afun_2475adb4b562023b/java-basics-writing-your-first-program-fb5)
+- [Netlify Site + HCP Terraform Remote State](https://dev.to/benn1440/netlify-site-hcp-terraform-remote-state-19i0)
+- [COLORS: Rodney Chrome - BBL | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-bbl-a-colors-show-5df6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
