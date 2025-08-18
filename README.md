@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
-- [🚀 Building My First SQL Project: Employee Attendance &amp; Leave Management System](https://dev.to/yogaraj/building-my-first-sql-project-employee-attendance-leave-management-system-30m4)
-- [JavaScript Crash Course Series](https://dev.to/aberthecreator/javascript-crash-course-series-92d)
-- [What I Learned While Turning an Automation Platform into a True AI Agent](https://dev.to/onlineproxy/what-i-learned-while-turning-an-automation-platform-into-a-true-ai-agent-26e)
-- [Adam Savage&#39;s Tested: Restoring the Iconic Space Shuttle Countdown Clock &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-restoring-the-iconic-space-shuttle-countdown-clock-at-airandspace-22eh)
+- [⚡ Building a Real‑Time Collaborative Form Editing System with Django Channels, WebSockets &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/building-a-real-time-collaborative-form-editing-system-with-django-channels-websockets-redis-2egl)
+- [How I stay immersed with Data science every day?🔎](https://dev.to/amira_bekhta_25/how-i-stay-immersed-with-data-science-every-day-1348)
+- [Day 69: When Excitement Literally Makes You Punch Walls](https://dev.to/casperday11/day-69-when-excitement-literally-makes-you-punch-walls-816)
+- [Database Indexing in .NET with EF Core – Boost Your Query Performance](https://dev.to/adrianbailador/database-indexing-in-net-with-ef-core-boost-your-query-performance-4m3c)
+- [Most developers write code. But fewer developers actually ship products.](https://dev.to/asifonthecode/most-developers-write-code-but-fewer-developers-actually-ship-products-5a5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
