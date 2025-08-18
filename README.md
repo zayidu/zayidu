@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 16 pg_basebackup and Point in Time Recovery](https://dev.to/chittrmahto/postgresql-16-pgbasebackup-and-point-in-time-recovery-42p8)
-- [&quot;Introducing BNL: A New Meta-Language for Programming&quot;](https://dev.to/pjdeveloper896/introducing-bnl-a-new-meta-language-for-programming-4fdo)
-- [100 Days of DevOps: Day 15](https://dev.to/wycliffealphus/100-days-of-devops-day-15-1ck4)
-- [Discover Qwen Image — Next-Level AI Text-to-Image Mastery](https://dev.to/carol_ryman/discover-qwen-image-next-level-ai-text-to-image-mastery-2j9d)
-- [Will AI Replace Developers?](https://dev.to/sushrutkm/will-ai-replace-developers-340e)
+- [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
+- [A Blog Has Been Better for My Career Than a Portfolio](https://dev.to/canro91/a-blog-has-been-better-for-my-career-than-a-portfolio-41gd)
+- [Perl 🐪 Weekly #734 - CPAN Day](https://dev.to/szabgab/perl-weekly-734-cpan-day-op6)
+- [GPU Costs Melting Your Budget](https://dev.to/sathish/gpu-costs-melting-your-budget-3n03)
+- [Token Trading Agent with Recall](https://dev.to/gaiaai/token-trading-agent-with-recall-1ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
