@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch Part 5: More Pipeline Improvements](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-5-more-pipeline-improvements-370j)
-- [I will show you how to reduce AI hallucination and get the best result from your agent](https://dev.to/connectalamin/i-will-show-you-how-to-reduce-ai-hallucination-and-get-the-best-result-from-your-agent-5fdc)
-- [Dev Setup on Autopilot](https://dev.to/deadlock/dev-setup-on-autopilot-3ok0)
-- [Why did I build a transparent, account-free, open-source URL shortener?](https://dev.to/anwitars/why-did-i-build-a-transparent-account-free-open-source-url-shortener-45cm)
-- [NEAR vs Ethereum: Why I Almost Gave Up on Blockchain Development &lpar;But Didn&#39;t&rpar; 😤](https://dev.to/herra_k/near-vs-ethereum-why-i-almost-gave-up-on-blockchain-development-but-didnt-4iad)
+- [1 RN Thing a Day – Day 9: Animated API](https://dev.to/ola_1313/1-rn-thing-a-day-day-9-animated-api-2i72)
+- [How to Automate Installing Windows Apps](https://dev.to/ahmedaidev/how-to-automate-installing-windows-apps-4kp8)
+- [GeometryReader in SwiftUI: From UIKit Frames to Declarative Layouts](https://dev.to/arshtechpro/geometryreader-in-swiftui-from-uikit-frames-to-declarative-layouts-2kip)
+- [The Python Learning Journey: From Beginner Confusion to Advanced Mastery](https://dev.to/jason_dev/the-python-learning-journey-from-beginner-confusion-to-advanced-mastery-1hj3)
+- [Stop Misusing Eloquent: get&lpar;&rpar; vs all&lpar;&rpar; - When to Use Which &lpar;and Why&rpar;](https://dev.to/tahsin000/stop-misusing-eloquent-get-vs-all-when-to-use-which-and-why-10cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
