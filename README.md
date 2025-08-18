@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
-- [A Blog Has Been Better for My Career Than a Portfolio](https://dev.to/canro91/a-blog-has-been-better-for-my-career-than-a-portfolio-41gd)
-- [Perl 🐪 Weekly #734 - CPAN Day](https://dev.to/szabgab/perl-weekly-734-cpan-day-op6)
-- [GPU Costs Melting Your Budget](https://dev.to/sathish/gpu-costs-melting-your-budget-3n03)
-- [Token Trading Agent with Recall](https://dev.to/gaiaai/token-trading-agent-with-recall-1ane)
+- [RK3588S2: A High-Performance ARM SoC](https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l)
+- [Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill Simmons, Van Lathan &amp; Wesley Morris](https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4)
+- [Building Command-Line Tools with C# and System.CommandLine](https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7)
+- [Using LangGraph.js SDK to create Agents](https://dev.to/buildandcodewithraman/using-langgraphjs-sdk-to-create-agents-494n)
+- [Building Your Own AI Companion: Combining Gaia Node with Jina Embeddings v4 with Late Chunking](https://dev.to/gaiaai/building-your-own-ai-companion-combining-gaia-node-with-jina-embeddings-v4-with-late-chunking-1fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
