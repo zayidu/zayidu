@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Privacy and Vibe Coding](https://dev.to/az19eth/data-privacy-and-vibe-coding-150c)
-- [5 Marketing Strategies That Actually Work in B2B Tech Sales](https://dev.to/blogger_shree_844e6eb4b36/5-marketing-strategies-that-actually-work-in-b2b-tech-sales-3cmh)
-- [Trying Out Short AI: My Experience with an AI-Powered Clip Maker](https://dev.to/sophie_bella_5f438de0c1c3/trying-out-short-ai-my-experience-with-an-ai-powered-clip-maker-1ang)
-- [How process.nextTick&lpar;&rpar; Starves the Event Loop &lpar;A Node.js Pitfall&rpar;](https://dev.to/hluf/how-processnexttick-starves-the-event-loop-a-nodejs-pitfall-1ab1)
-- [How Do You Identify and Classify Project Stakeholders?](https://dev.to/writegenic/how-do-you-identify-and-classify-project-stakeholders-29nm)
+- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
+- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
+- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
+- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
+- [How to Integrate Jira and Asana &lpar;DEV-Friendly Guide&rpar;](https://dev.to/renata_getint/how-to-integrate-jira-and-asana-dev-friendly-guide-4j94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
