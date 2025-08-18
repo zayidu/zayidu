@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Parameters Decoded: From Confusion to Clarity](https://dev.to/anik_sikder_313/python-parameters-decoded-from-confusion-to-clarity-1136)
-- [Os desafios de atualizar o Angular da versão 12 para a 17 em um monorepo Nx](https://dev.to/henriquealmeida/os-desafios-de-atualizar-o-angular-da-versao-12-para-a-17-em-um-monorepo-nx-1ad6)
-- [Code changes and Improvements for neural web](https://dev.to/okerew/code-changes-and-improvements-for-neural-web-f0p)
-- [What are your goals for the week? #140](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-140-4dhh)
-- [SaaS &lpar;Software as a Service&rpar;](https://dev.to/programadriano/saas-software-as-a-service-32o4)
+- [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
+- [🚀 Building My First SQL Project: Employee Attendance &amp; Leave Management System](https://dev.to/yogaraj/building-my-first-sql-project-employee-attendance-leave-management-system-30m4)
+- [JavaScript Crash Course Series](https://dev.to/aberthecreator/javascript-crash-course-series-92d)
+- [What I Learned While Turning an Automation Platform into a True AI Agent](https://dev.to/onlineproxy/what-i-learned-while-turning-an-automation-platform-into-a-true-ai-agent-26e)
+- [Adam Savage&#39;s Tested: Restoring the Iconic Space Shuttle Countdown Clock &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-restoring-the-iconic-space-shuttle-countdown-clock-at-airandspace-22eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
