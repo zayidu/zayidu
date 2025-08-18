@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Qwen3-235b-A22b-Instruct-2507 model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-235b-a22b-instruct-2507-model-by-qwen-on-replicate-47jc)
-- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 11–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-11-17-2025-2adj)
-- [Java Basics: Writing your first program](https://dev.to/cal_afun_2475adb4b562023b/java-basics-writing-your-first-program-fb5)
-- [Netlify Site + HCP Terraform Remote State](https://dev.to/benn1440/netlify-site-hcp-terraform-remote-state-19i0)
-- [COLORS: Rodney Chrome - BBL | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-bbl-a-colors-show-5df6)
+- [WebGPU Engine from Scratch Part 5: More Pipeline Improvements](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-5-more-pipeline-improvements-370j)
+- [I will show you how to reduce AI hallucination and get the best result from your agent](https://dev.to/connectalamin/i-will-show-you-how-to-reduce-ai-hallucination-and-get-the-best-result-from-your-agent-5fdc)
+- [Dev Setup on Autopilot](https://dev.to/deadlock/dev-setup-on-autopilot-3ok0)
+- [Why did I build a transparent, account-free, open-source URL shortener?](https://dev.to/anwitars/why-did-i-build-a-transparent-account-free-open-source-url-shortener-45cm)
+- [NEAR vs Ethereum: Why I Almost Gave Up on Blockchain Development &lpar;But Didn&#39;t&rpar; 😤](https://dev.to/herra_k/near-vs-ethereum-why-i-almost-gave-up-on-blockchain-development-but-didnt-4iad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
