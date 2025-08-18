@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apa Rasanya Pertama Kali Ikut AWS Summit Jakarta 2025?](https://dev.to/aws-builders/apa-rasanya-pertama-kali-ikut-aws-summit-jakarta-2025-3cpc)
-- [CosmoTalker Wins Best Project at TASS from YASSC 🎉](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i0g)
-- [IGN: WW1: Gallipoli – Official Reveal Trailer](https://dev.to/gg_news/ign-ww1-gallipoli-official-reveal-trailer-3gp2)
-- [IGN: Billie Bust Up: Official Pirate Queen Cutscene](https://dev.to/gg_news/ign-billie-bust-up-official-pirate-queen-cutscene-35a7)
+- [Python Parameters Decoded: From Confusion to Clarity](https://dev.to/anik_sikder_313/python-parameters-decoded-from-confusion-to-clarity-1136)
+- [Os desafios de atualizar o Angular da versão 12 para a 17 em um monorepo Nx](https://dev.to/henriquealmeida/os-desafios-de-atualizar-o-angular-da-versao-12-para-a-17-em-um-monorepo-nx-1ad6)
+- [Code changes and Improvements for neural web](https://dev.to/okerew/code-changes-and-improvements-for-neural-web-f0p)
+- [What are your goals for the week? #140](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-140-4dhh)
+- [SaaS &lpar;Software as a Service&rpar;](https://dev.to/programadriano/saas-software-as-a-service-32o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
