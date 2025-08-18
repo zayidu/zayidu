@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PixiJS: Implementing Core Gaming Concepts](https://dev.to/rubemfsv/pixijs-implementing-core-gaming-concepts-438j)
-- [DevOps Setting](https://dev.to/operarioribeiro/devops-setting-4lc0)
-- [Building Progressive Web Apps with Advanced HTML Features](https://dev.to/sharique_siddiqui_8242dad/building-progressive-web-apps-with-advanced-html-features-4h88)
-- [HTML Debugging &amp; Validation Tools: Ensuring Clean, Error-Free Web Development](https://dev.to/sharique_siddiqui_8242dad/html-debugging-validation-tools-ensuring-clean-error-free-web-development-1bcc)
-- [The weekly roundup is live! We&#39;ve got the latest in dev &amp; design, including some cool new AI tools, free design assets, and fresh articles. Find all the resources at https://www.jqueryscript.net/blog/Weekly-Web-Design-Development-News-Collective-618.html](https://dev.to/jqueryscript/the-weekly-roundup-is-live-weve-got-the-latest-in-dev-design-including-some-cool-new-ai-tools-4pa9)
+- [Are You a Boiling Frog? 🐸](https://dev.to/ayush_kumawat_72c6f9b7225/are-you-a-boiling-frog-l8b)
+- [🧊 Snowflake RBAC 101 – Episode 3: Ongoing Access Management](https://dev.to/qvfagundes/snowflake-rbac-101-episode-3-ongoing-access-management-4pmi)
+- [Concurrency Duel: Async Web Crawling in Ruby vs Elixir](https://dev.to/hungle00/concurrency-duel-async-web-crawling-in-ruby-vs-elixir-c3e)
+- [Build a Netflix-Style Website with S3, CloudFront &amp; Lambda\@Edge 🎬⚡](https://dev.to/yash_sonawane25/build-a-netflix-style-website-with-s3-cloudfront-lambdaedge-2lil)
+- [Desbloquea el Desarrollo de Software: Los 6 Pilares Fundamentales para Construir Cualquier Aplicación 🚀](https://dev.to/joedev090/desbloquea-el-desarrollo-de-software-los-6-pilares-fundamentales-para-construir-cualquier-453o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
