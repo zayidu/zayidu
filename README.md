@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You a Boiling Frog? 🐸](https://dev.to/ayush_kumawat_72c6f9b7225/are-you-a-boiling-frog-l8b)
-- [🧊 Snowflake RBAC 101 – Episode 3: Ongoing Access Management](https://dev.to/qvfagundes/snowflake-rbac-101-episode-3-ongoing-access-management-4pmi)
-- [Concurrency Duel: Async Web Crawling in Ruby vs Elixir](https://dev.to/hungle00/concurrency-duel-async-web-crawling-in-ruby-vs-elixir-c3e)
-- [Build a Netflix-Style Website with S3, CloudFront &amp; Lambda\@Edge 🎬⚡](https://dev.to/yash_sonawane25/build-a-netflix-style-website-with-s3-cloudfront-lambdaedge-2lil)
-- [Desbloquea el Desarrollo de Software: Los 6 Pilares Fundamentales para Construir Cualquier Aplicación 🚀](https://dev.to/joedev090/desbloquea-el-desarrollo-de-software-los-6-pilares-fundamentales-para-construir-cualquier-453o)
+- [PostgreSQL 16 pg_basebackup and Point in Time Recovery](https://dev.to/chittrmahto/postgresql-16-pgbasebackup-and-point-in-time-recovery-42p8)
+- [&quot;Introducing BNL: A New Meta-Language for Programming&quot;](https://dev.to/pjdeveloper896/introducing-bnl-a-new-meta-language-for-programming-4fdo)
+- [100 Days of DevOps: Day 15](https://dev.to/wycliffealphus/100-days-of-devops-day-15-1ck4)
+- [Discover Qwen Image — Next-Level AI Text-to-Image Mastery](https://dev.to/carol_ryman/discover-qwen-image-next-level-ai-text-to-image-mastery-2j9d)
+- [Will AI Replace Developers?](https://dev.to/sushrutkm/will-ai-replace-developers-340e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
