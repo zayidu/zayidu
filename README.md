@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
-- [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
-- [React 19 Concurrency Deep Dive — Mastering `useTransition` and `startTransition` for Smoother UIs](https://dev.to/a1guy/react-19-concurrency-deep-dive-mastering-usetransition-and-starttransition-for-smoother-uis-51eo)
-- [React 19 Server Components Deep Dive — What They Are, How They Work, and When to Use Them](https://dev.to/a1guy/react-19-server-components-deep-dive-what-they-are-how-they-work-and-when-to-use-them-2h2e)
-- [Claude 4.1 en Amazon Bedrock: La Evolución Definitiva para AI Engineers](https://dev.to/joseph_arriola/claude-41-en-amazon-bedrock-la-evolucion-definitiva-para-ai-engineers-36mo)
+- [Data Privacy and Vibe Coding](https://dev.to/az19eth/data-privacy-and-vibe-coding-150c)
+- [5 Marketing Strategies That Actually Work in B2B Tech Sales](https://dev.to/blogger_shree_844e6eb4b36/5-marketing-strategies-that-actually-work-in-b2b-tech-sales-3cmh)
+- [Trying Out Short AI: My Experience with an AI-Powered Clip Maker](https://dev.to/sophie_bella_5f438de0c1c3/trying-out-short-ai-my-experience-with-an-ai-powered-clip-maker-1ang)
+- [How process.nextTick&lpar;&rpar; Starves the Event Loop &lpar;A Node.js Pitfall&rpar;](https://dev.to/hluf/how-processnexttick-starves-the-event-loop-a-nodejs-pitfall-1ab1)
+- [How Do You Identify and Classify Project Stakeholders?](https://dev.to/writegenic/how-do-you-identify-and-classify-project-stakeholders-29nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
