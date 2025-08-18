@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up GitHub Copilot in Your IDE &lpar;Step-by-Step Guide&rpar;](https://dev.to/codewithsimon/how-to-set-up-github-copilot-in-your-ide-step-by-step-guide-14im)
-- [Local Meeting Notes with Whisper Transcription + Ollama Summaries &lpar;Gemma3n, LLaMA, Mistral&rpar; — Meetily AI](https://dev.to/zackriya/local-meeting-notes-with-whisper-transcription-ollama-summaries-gemma3n-llama-mistral--2i3n)
-- [The Future of Dev Workflows in Web3](https://dev.to/vadym_info_polus/the-future-of-dev-workflows-in-web3-12n5)
-- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-1a55)
-- [Cloud App Journey - Ep. 2: Publishing My Frontend to the Cloud](https://dev.to/osvaldofa/cloud-app-journey-ep-3-publishing-my-frontend-to-the-cloud-18nl)
+- [Apa Rasanya Pertama Kali Ikut AWS Summit Jakarta 2025?](https://dev.to/aws-builders/apa-rasanya-pertama-kali-ikut-aws-summit-jakarta-2025-3cpc)
+- [CosmoTalker Wins Best Project at TASS from YASSC 🎉](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i0g)
+- [IGN: WW1: Gallipoli – Official Reveal Trailer](https://dev.to/gg_news/ign-ww1-gallipoli-official-reveal-trailer-3gp2)
+- [IGN: Billie Bust Up: Official Pirate Queen Cutscene](https://dev.to/gg_news/ign-billie-bust-up-official-pirate-queen-cutscene-35a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
