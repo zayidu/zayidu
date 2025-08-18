@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching My Open-Source Blog App](https://dev.to/kiraaziz/launching-my-open-source-blog-app-4dej)
+- [Building InboxHiiv: Event-Driven Podcast Processing with Firebase Functions and Gemini AI](https://dev.to/akhilcjacob/building-inboxhiiv-event-driven-podcast-processing-with-firebase-functions-and-gemini-ai-53ff)
+- [CSS Blossoming Flowers at Magical Night](https://dev.to/immanol_jhuniorbaltazar/css-blossoming-flowers-at-magical-night-5600)
+- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
 - [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
-- [IGN: Arctic Awakening - Official Release Date Trailer](https://dev.to/gg_news/ign-arctic-awakening-official-release-date-trailer-1l0o)
-- [IGN: Bleach Rebirth of Souls - Official Retsu Unohana Reveal Trailer](https://dev.to/gg_news/ign-bleach-rebirth-of-souls-official-retsu-unohana-reveal-trailer-52h0)
-- [[Boost]](https://dev.to/carlosdamota/-1n18)
-- [E-mails de verificação com AWS SES + Lambda &lpar;Node.js&rpar; e Terraform — do zero ao envio](https://dev.to/sertaoseracloud/e-mails-de-verificacao-com-aws-ses-lambda-nodejs-e-terraform-do-zero-ao-envio-20fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
