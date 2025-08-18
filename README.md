@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RK3588S2: A High-Performance ARM SoC](https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l)
-- [Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill Simmons, Van Lathan &amp; Wesley Morris](https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4)
-- [Building Command-Line Tools with C# and System.CommandLine](https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7)
-- [Using LangGraph.js SDK to create Agents](https://dev.to/buildandcodewithraman/using-langgraphjs-sdk-to-create-agents-494n)
-- [Building Your Own AI Companion: Combining Gaia Node with Jina Embeddings v4 with Late Chunking](https://dev.to/gaiaai/building-your-own-ai-companion-combining-gaia-node-with-jina-embeddings-v4-with-late-chunking-1fm)
+- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
+- [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
+- [React 19 Concurrency Deep Dive — Mastering `useTransition` and `startTransition` for Smoother UIs](https://dev.to/a1guy/react-19-concurrency-deep-dive-mastering-usetransition-and-starttransition-for-smoother-uis-51eo)
+- [React 19 Server Components Deep Dive — What They Are, How They Work, and When to Use Them](https://dev.to/a1guy/react-19-server-components-deep-dive-what-they-are-how-they-work-and-when-to-use-them-2h2e)
+- [Claude 4.1 en Amazon Bedrock: La Evolución Definitiva para AI Engineers](https://dev.to/joseph_arriola/claude-41-en-amazon-bedrock-la-evolucion-definitiva-para-ai-engineers-36mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
