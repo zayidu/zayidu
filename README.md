@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grant Horvat: Can We Break a Public Course Record? &lpar;Frustrating&rpar;](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-public-course-record-frustrating-nl6)
-- [Rick Shiels Golf: Can I beat Ian Poulter if i start -10 Par &lpar;The Rematch&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-can-i-beat-ian-poulter-if-i-start-10-par-the-rematch-49g6)
-- [GameSpot: Call of Duty: Black Ops 7 | Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-official-gameplay-reveal-trailer-53il)
-- [GameSpot: Warhammer 40k: Dawn of War 4 - Official Cinematic Announcement Trailer](https://dev.to/gg_news/gamespot-warhammer-40k-dawn-of-war-4-official-cinematic-announcement-trailer-4efc)
-- [GameSpot: Onimusha: Way of the Sword - The Genma Experiments Gameplay Trailer](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-the-genma-experiments-gameplay-trailer-1oc)
+- [Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?](https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n)
+- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-1edh)
+- [BootstrapVueNext: strengths, limitations, and adoption](https://dev.to/marxon/bootstrapvuenext-strengths-limitations-and-adoption-2p27)
+- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975)
+- [Day 19 of #30DaysOfCode](https://dev.to/justacoder_0x/day-19-of-30daysofcode-3h90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
