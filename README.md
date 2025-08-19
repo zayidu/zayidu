@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching My Open-Source Blog App](https://dev.to/kiraaziz/launching-my-open-source-blog-app-4dej)
-- [Building InboxHiiv: Event-Driven Podcast Processing with Firebase Functions and Gemini AI](https://dev.to/akhilcjacob/building-inboxhiiv-event-driven-podcast-processing-with-firebase-functions-and-gemini-ai-53ff)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/immanol_jhuniorbaltazar/css-blossoming-flowers-at-magical-night-5600)
-- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
-- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
+- [Flask Subdomains](https://dev.to/itsarreguin/flask-subdomains-2265)
+- [Redis vs. Memcached: How to Choose Your NoSQL Champion](https://dev.to/lamri_abdellahramdane_15/redis-vs-memcached-how-to-choose-your-nosql-champion-pfg)
+- [Setup GenieACS under Ubuntu24.04](https://dev.to/chenchih/setup-genieacs-under-ubuntu2404-44oi)
+- [Minha Jornada de Aprendizado em T.I.: Do Módulo de Mercado à Lógica de Programação](https://dev.to/leandroamaro/minha-jornada-de-aprendizado-em-ti-do-modulo-de-mercado-a-logica-de-programacao-1el5)
+- [Studying Software Quality Engineering](https://dev.to/natanael_marques_8c027f05/studying-software-quality-engineering-616)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
