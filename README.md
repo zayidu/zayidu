@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
-- [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
-- [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
-- [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
-- [Agentic AI: How Autonomous Agents Are Transforming Enterprise Workflows](https://dev.to/koolkamalkishor/agentic-ai-how-autonomous-agents-are-transforming-enterprise-workflows-4oi6)
+- [Next JS + Express + Mongo + AI stack](https://dev.to/shubhamtiwari909/next-js-express-mongo-ai-stack-4epj)
+- [Go Coding with Asparagos: Sunflowers and the Speaking Challenge](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
+- [Remember to set the frequency for replication to Litestream!](https://dev.to/lucianghinda/remember-to-set-the-frequency-for-replication-to-litestream-3foj)
+- [Ethernet Adapters for Nintendo Switch and Switch 2](https://dev.to/arthurleo01/ethernet-adapters-for-nintendo-switch-and-switch-2-1b95)
+- [Günlük Yemek Bedeli İyileştirmesi: Çalışan Memnuniyetine ve İş Verimliliğine Katkı](https://dev.to/berfin_uygas_ac34e03fe7f8/gunluk-yemek-bedeli-iyilestirmesi-calisan-memnuniyetine-ve-is-verimliligine-katki-2a2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
