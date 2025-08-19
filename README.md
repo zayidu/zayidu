@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flask Subdomains](https://dev.to/itsarreguin/flask-subdomains-2265)
-- [Redis vs. Memcached: How to Choose Your NoSQL Champion](https://dev.to/lamri_abdellahramdane_15/redis-vs-memcached-how-to-choose-your-nosql-champion-pfg)
-- [Setup GenieACS under Ubuntu24.04](https://dev.to/chenchih/setup-genieacs-under-ubuntu2404-44oi)
-- [Minha Jornada de Aprendizado em T.I.: Do Módulo de Mercado à Lógica de Programação](https://dev.to/leandroamaro/minha-jornada-de-aprendizado-em-ti-do-modulo-de-mercado-a-logica-de-programacao-1el5)
-- [Studying Software Quality Engineering](https://dev.to/natanael_marques_8c027f05/studying-software-quality-engineering-616)
+- [Building a PDF Chatbot with LangChain, Ollama, and Chroma: A Step-by-Step Tutorial](https://dev.to/jamesbmour/building-a-pdf-chatbot-with-langchain-ollama-and-chroma-a-step-by-step-tutorial-30hd)
+- [命令行神器 The Fuck，敲错命令的后悔药](https://dev.to/immerse/ming-ling-xing-shen-qi-the-fuckqiao-cuo-ming-ling-de-hou-hui-yao-45og)
+- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
+- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
+- [Building Code Retrieval for Claude Code from Scratch](https://dev.to/chen_zhang_bac430bc7f6b95/building-code-retrieval-for-claude-code-from-scratch-3n8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
