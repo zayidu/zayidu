@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
-- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
-- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
-- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
-- [Object-Oriented Programming in Python: Complete Crash Course](https://dev.to/arslanyousaf12/object-oriented-programming-in-python-complete-crash-course-210o)
+- [Why Every Tech Problem Feels Like Fighting a Final Boss](https://dev.to/pranta/why-every-tech-problem-feels-like-fighting-a-final-boss-25dj)
+- [Version Control](https://dev.to/aryantkumar/version-control-136i)
+- [Adam Savage&#39;s Tested: How Star Wars Control Panels Were Made for Filming!](https://dev.to/maker_youtube/adam-savages-tested-how-star-wars-control-panels-were-made-for-filming-1865)
+- [KEXP: Blondshell - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-full-performance-live-on-kexp-2e6o)
+- [Rick Beato: This Record Label Is Trying To SILENCE Me](https://dev.to/music_youtube/rick-beato-this-record-label-is-trying-to-silence-me-84a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
