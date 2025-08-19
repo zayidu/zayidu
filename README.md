@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
-- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
-- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
-- [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
-- [The Best Minimal Chrome To-Do List Extension You’ll Ever Need](https://dev.to/rohan2596/the-best-minimal-chrome-to-do-list-extension-youll-ever-need-2cgk)
+- [Grant Horvat: Can We Break a Public Course Record? &lpar;Frustrating&rpar;](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-public-course-record-frustrating-nl6)
+- [Rick Shiels Golf: Can I beat Ian Poulter if i start -10 Par &lpar;The Rematch&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-can-i-beat-ian-poulter-if-i-start-10-par-the-rematch-49g6)
+- [GameSpot: Call of Duty: Black Ops 7 | Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-official-gameplay-reveal-trailer-53il)
+- [GameSpot: Warhammer 40k: Dawn of War 4 - Official Cinematic Announcement Trailer](https://dev.to/gg_news/gamespot-warhammer-40k-dawn-of-war-4-official-cinematic-announcement-trailer-4efc)
+- [GameSpot: Onimusha: Way of the Sword - The Genma Experiments Gameplay Trailer](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-the-genma-experiments-gameplay-trailer-1oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
