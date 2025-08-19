@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
-- [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
-- [Live Examples - Modern Angular Patterns &lpar;2025&rpar;: Signals, NgRx, RxJS, Web Components, A11y &amp; Performance Testing](https://dev.to/jdavissoftware/live-examples-modern-angular-patterns-2025-signals-ngrx-rxjs-web-components-a11y--53em)
-- [Running AI Models with Docker Compose](https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng)
-- [Day 70: When Your First Hater Becomes Your Best Motivator](https://dev.to/casperday11/day-70-when-your-first-hater-becomes-your-best-motivator-38kj)
+- [The Hidden Life of a URL: From Browser to Server and Back](https://dev.to/kristiyanvelkov/the-hidden-life-of-a-url-from-browser-to-server-and-back-2cnn)
+- [Smart Stable Monitoring System for Premium Remote Horse Care](https://dev.to/sciforce/smart-stable-monitoring-system-for-premium-remote-horse-care-25oi)
+- [Supercharging AI Apps with LLMCache: Smarter, Faster &amp; Cheaper](https://dev.to/witcher_1001/supercharging-ai-apps-with-llmcache-smarter-faster-cheaper-3mi2)
+- [NEAR vs BNB Chain: My Brutal Honest Take After Building on Both 💀](https://dev.to/cboms8/near-vs-bnb-chain-my-brutal-honest-take-after-building-on-both-2cd5)
+- [AI Performance Marketing: Transforming Digital Campaigns for Maximum ROI](https://dev.to/leadmetrics_1af926eefe0fe/ai-performance-marketing-transforming-digital-campaigns-for-maximum-roi-3e3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
