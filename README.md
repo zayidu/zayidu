@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
-- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
-- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
-- [How to Test Database Schema Changes in Sandboxes](https://dev.to/signadot/how-to-test-database-schema-changes-in-sandboxes-dh4)
+- [Using Webhooks for Instant Automation Workflows &lpar;with Code Example&rpar;](https://dev.to/keith_mark_441c6f16e803a6/using-webhooks-for-instant-automation-workflows-with-code-example-38pj)
+- [Automated Testing for Web Apps with Cypress](https://dev.to/keith_mark_441c6f16e803a6/automated-testing-for-web-apps-with-cypress-2omb)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
+- [COLORS: Venna | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-a-colors-encore-11e3)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-mh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
