@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your AI Agents Reliable: A Comprehensive Guide for Developers](https://dev.to/kuldeep_paul/how-to-make-your-ai-agents-reliable-a-comprehensive-guide-for-developers-i5p)
-- [Tableau Sales Dashboard Performance &lpar;Updated for 2025&rpar;](https://dev.to/vamshi_e_eebe5a6287a27142/tableau-sales-dashboard-performance-updated-for-2025-2099)
-- [LeetCode #242. Valid Anagram](https://dev.to/desiato/leetcode-242-valid-anagram-2868)
-- [Scraping JavaScript-Rendered Web Pages with Python](https://dev.to/bdilip48/scraping-javascript-rendered-web-pages-with-python-1e95)
-- [Brochure Translation Software Features to Look for [2025]](https://dev.to/colinreed/brochure-translation-software-features-to-look-for-2025-1bg7)
+- [From Idea to Laravel App in Minutes &lpar;No Coding Required&rpar;](https://dev.to/avinashvagh/from-idea-to-laravel-app-in-minutes-no-coding-required-5b0h)
+- [How to Write a Soulbound Token Smart Contract in Go with KALP SDK](https://dev.to/kalpstudio/how-to-write-a-soulbound-token-smart-contract-in-go-with-kalp-sdk-2m0l)
+- [KEXP: Blondshell - Event Of A Fire &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-event-of-a-fire-live-on-kexp-5a21)
+- [KEXP: Blondshell - Toy &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-toy-live-on-kexp-1enm)
+- [KEXP: Blondshell - T&amp;A &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-ta-live-on-kexp-286h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
