@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next JS + Express + Mongo + AI stack](https://dev.to/shubhamtiwari909/next-js-express-mongo-ai-stack-4epj)
-- [Go Coding with Asparagos: Sunflowers and the Speaking Challenge](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
-- [Remember to set the frequency for replication to Litestream!](https://dev.to/lucianghinda/remember-to-set-the-frequency-for-replication-to-litestream-3foj)
-- [Ethernet Adapters for Nintendo Switch and Switch 2](https://dev.to/arthurleo01/ethernet-adapters-for-nintendo-switch-and-switch-2-1b95)
-- [Günlük Yemek Bedeli İyileştirmesi: Çalışan Memnuniyetine ve İş Verimliliğine Katkı](https://dev.to/berfin_uygas_ac34e03fe7f8/gunluk-yemek-bedeli-iyilestirmesi-calisan-memnuniyetine-ve-is-verimliligine-katki-2a2d)
+- [Database Management Systems for SaaS: A Comprehensive Guide](https://dev.to/guepardrun/database-management-systems-for-saas-a-comprehensive-guide-b13)
+- [Speed Up Your Visual Content with PhotoCollageMaker.io 🎨](https://dev.to/juddiy/speed-up-your-visual-content-with-photocollagemakerio-164p)
+- [Introducing Pomora: a minimal, focused Pomodoro timer &lpar;Next.js + Tailwind + shadcn/ui&rpar;](https://dev.to/shravzzv/introducing-pomora-a-minimal-focused-pomodoro-timer-nextjs-tailwind-shadcnui-255d)
+- [Boring Cybersecurity Theory: Playbook and Zero-day attack](https://dev.to/dharbachou/boring-cybersecurity-theory-playbook-and-zero-day-attack-1l03)
+- [Hello, World!](https://dev.to/kyusunpark/hello-world-4ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
