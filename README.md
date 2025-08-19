@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏁Lollypop Designathon 2025 – Where Design Bridges Technology to Users](https://dev.to/lollypopdesign/lollypop-designathon-2025-where-design-bridges-technology-to-users-4gb7)
-- [Prompt engineering is a mindset, a way of thinking that allows you to translate human needs into clear instructions AI can understand. Even if you don’t code, you can think like a prompt engineer and unlock 10x better results with AI. Here’s how.](https://dev.to/jaideepparashar/prompt-engineering-is-a-mindset-a-way-of-thinking-that-allows-you-to-translate-human-needs-into-476i)
-- [How to Think Like a Prompt Engineer &lpar;Even Without Coding&rpar;](https://dev.to/jaideepparashar/how-to-think-like-a-prompt-engineer-even-without-coding-769)
-- [SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-the-self-hosted-firewall-every-homelab-needs-3peo)
-- [Automating FHIR Bulk Updates with a JSON Patch CLI](https://dev.to/narges_4cf63a8105eb0e56e1/automating-fhir-bulk-updates-with-a-json-patch-cli-24f9)
+- [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
+- [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
+- [Live Examples - Modern Angular Patterns &lpar;2025&rpar;: Signals, NgRx, RxJS, Web Components, A11y &amp; Performance Testing](https://dev.to/jdavissoftware/live-examples-modern-angular-patterns-2025-signals-ngrx-rxjs-web-components-a11y--53em)
+- [Running AI Models with Docker Compose](https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng)
+- [Day 70: When Your First Hater Becomes Your Best Motivator](https://dev.to/casperday11/day-70-when-your-first-hater-becomes-your-best-motivator-38kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
