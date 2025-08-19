@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?](https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n)
-- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-1edh)
-- [BootstrapVueNext: strengths, limitations, and adoption](https://dev.to/marxon/bootstrapvuenext-strengths-limitations-and-adoption-2p27)
-- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975)
-- [Day 19 of #30DaysOfCode](https://dev.to/justacoder_0x/day-19-of-30daysofcode-3h90)
+- [GameSpot: Black Myth: Zhong Kui - Cinematic Teaser Trailer &lpar;English Dub&rpar;](https://dev.to/gg_news/gamespot-black-myth-zhong-kui-cinematic-teaser-trailer-english-dub-173p)
+- [GameSpot: Best Gamescom Opening Night Live Trailers 2025](https://dev.to/gg_news/gamespot-best-gamescom-opening-night-live-trailers-2025-11hl)
+- [GameSpot: Resident Evil Requiem &lpar;RE9&rpar; - Official Gamescom Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-resident-evil-requiem-re9-official-gamescom-gameplay-reveal-trailer-2b64)
+- [GameSpot: Opening Night Live 2025 in 52 Minutes | Gamescom 2025](https://dev.to/gg_news/gamespot-opening-night-live-2025-in-52-minutes-gamescom-2025-302h)
+- [IGN: World of Warcraft: Midnight - Official Opening Cinematic Trailer | gamescom 2025](https://dev.to/gg_news/ign-world-of-warcraft-midnight-official-opening-cinematic-trailer-gamescom-2025-2kk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
