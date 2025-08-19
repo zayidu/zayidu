@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Tech Problem Feels Like Fighting a Final Boss](https://dev.to/pranta/why-every-tech-problem-feels-like-fighting-a-final-boss-25dj)
-- [Version Control](https://dev.to/aryantkumar/version-control-136i)
-- [Adam Savage&#39;s Tested: How Star Wars Control Panels Were Made for Filming!](https://dev.to/maker_youtube/adam-savages-tested-how-star-wars-control-panels-were-made-for-filming-1865)
-- [KEXP: Blondshell - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-full-performance-live-on-kexp-2e6o)
-- [Rick Beato: This Record Label Is Trying To SILENCE Me](https://dev.to/music_youtube/rick-beato-this-record-label-is-trying-to-silence-me-84a)
+- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
+- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
+- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
+- [How to Test Database Schema Changes in Sandboxes](https://dev.to/signadot/how-to-test-database-schema-changes-in-sandboxes-dh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
