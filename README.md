@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
-- [Building an Advanced AI Agent: A Step-by-Step Guide to Integrating MCP Servers with LangGraph](https://dev.to/amol_kavitkar/building-an-advanced-ai-agent-a-step-by-step-guide-to-integrating-mcp-servers-with-langgraph-4ocf)
-- [Unlocking Hidden Cloud Superpowers: GKE Topology Manager GA &amp; Node Swap — DevOps Game Changers You Haven’t Tried](https://dev.to/lakshmikanth_reddy/unlocking-hidden-cloud-superpowers-gke-topology-manager-ga-node-swap-devops-game-changers-you-3d1g)
-- [React 19 `use` Hook Deep Dive — Using Promises Directly in Your Components](https://dev.to/a1guy/react-19-use-hook-deep-dive-using-promises-directly-in-your-components-1plp)
-- [Vibecoders Aren’t Engineers — They’re Walking Data Breaches](https://dev.to/mjlynch123/vibecoders-arent-engineers-theyre-walking-data-breaches-2e4n)
+- [Building an AI-Powered Video Ad Creator with AWS Nova and Strands Agents](https://dev.to/debadattap/building-an-ai-powered-video-ad-creator-with-aws-nova-and-strands-agents-2ogn)
+- [College vs Skills — Student POV](https://dev.to/waqar_akhtar_f4a1df2340f1/college-vs-skills-student-pov-13pi)
+- [How to Read a Circuit Diagram: Insights from a Senior Engineer](https://dev.to/frank_1871bc3c55f35370df3/how-to-read-a-circuit-diagram-insights-from-a-senior-engineer-5756)
+- [Online ticket booking web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/online-ticket-booking-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-2icp)
+- [Tutorial Screen Mirror Android via Website](https://dev.to/diosamuel/tutorial-screen-mirror-android-via-website-3aii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
