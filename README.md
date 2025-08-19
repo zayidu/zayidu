@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Black Myth: Zhong Kui - Cinematic Teaser Trailer &lpar;English Dub&rpar;](https://dev.to/gg_news/gamespot-black-myth-zhong-kui-cinematic-teaser-trailer-english-dub-173p)
-- [GameSpot: Best Gamescom Opening Night Live Trailers 2025](https://dev.to/gg_news/gamespot-best-gamescom-opening-night-live-trailers-2025-11hl)
-- [GameSpot: Resident Evil Requiem &lpar;RE9&rpar; - Official Gamescom Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-resident-evil-requiem-re9-official-gamescom-gameplay-reveal-trailer-2b64)
-- [GameSpot: Opening Night Live 2025 in 52 Minutes | Gamescom 2025](https://dev.to/gg_news/gamespot-opening-night-live-2025-in-52-minutes-gamescom-2025-302h)
-- [IGN: World of Warcraft: Midnight - Official Opening Cinematic Trailer | gamescom 2025](https://dev.to/gg_news/ign-world-of-warcraft-midnight-official-opening-cinematic-trailer-gamescom-2025-2kk9)
+- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
+- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
+- [ん, and?](https://dev.to/yowise/n-and-3mn1)
+- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
+- [How I Built an AI Photo Enhancer That Makes Your Selfies Less Tragic &lpar;Using Google Gemini &amp; Python&rpar;](https://dev.to/abdellahhallou/how-i-built-an-ai-photo-enhancer-that-makes-your-selfies-less-tragic-using-google-gemini-python-1c40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
