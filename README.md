@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
-- [Paradigm Shifters – The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4g57)
-- [Discover the Exciting Stories of the IT Industry - 1990s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-in-the-1990s-3fbg)
-- [Discover the Exciting Stories of the IT Industry - 1980s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1980s-50g4)
-- [Discover the Exciting Stories of the IT Industry - 1970s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1970s-5hd7)
+- [Few projects up. I&#39;m in the process of finding all projects I&#39;ve done since 2018. From Ghost Production to Coding Course Creation, Automation, Shopify Web Development, Webflow Web Development and Mixing Engineering https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-im-in-the-process-of-finding-all-projects-ive-done-since-2018-from-ghost-328g)
+- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
+- [Few projects up https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-httpsvicentereyesorgworks-3jik)
+- [AI-Powered Data Engineering &amp; Analytics Solutions for Enterprises](https://dev.to/razorpod_seo_0a69ce36e98f/ai-powered-data-engineering-analytics-solutions-for-enterprises-p8l)
+- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
