@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Microservices: Designing Scalable and Maintainable Back-End Architectures](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-microservices-designing-scalable-and-maintainable-back-end-architectures-43o9)
-- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
-- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
-- [Real-Time Email Notifications in .NET Using Microsoft Graph API](https://dev.to/madusanka_bandara/real-time-email-notifications-in-net-using-microsoft-graph-api-3f71)
-- [Running KittenTTS in the Browser: A Deep Dive into WASM and ONNX](https://dev.to/soasme/running-kittentts-in-the-browser-a-deep-dive-into-wasm-and-onnx-18hk)
+- [Copy Design Docs to Avoid Waiting For Indexes to be Built](https://dev.to/moremaddy/copy-design-docs-to-avoid-waiting-for-indexes-to-be-built-3a8i)
+- [Expose your localhost with 1 command line!](https://dev.to/gustavoisensee/expose-your-localhost-with-1-command-line-7d3)
+- [The Ultimate Software Engineering Roles Guide](https://dev.to/bibimbop123/the-ultimate-software-engineering-roles-guide-4mbf)
+- [IT Asset Management Certifications That Employers Look For](https://dev.to/jennifer_devsamurai/it-asset-management-certifications-that-employers-look-for-5024)
+- [Great for beginner!!! 🚀](https://dev.to/brokylabs/great-for-beginner-1dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
