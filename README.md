@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
-- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
-- [Build an AR React App](https://dev.to/murcoder/build-an-ar-react-app-17i5)
-- [A series that is hype free, optimistic and cautious, but most of all written accessibly no matter your current level. All things dev&#39;s should understand about #ai fast. Thanks Dev. This should be a book &amp; course next. @dev_patel_35864ca1db6093c](https://dev.to/leogopal/a-series-that-is-hype-free-optimistic-and-cautious-but-most-of-all-written-accessibly-no-matter-1mi5)
-- [Deploy your application on Vercel with GitHub Actions](https://dev.to/octolab/deploy-your-application-on-vercel-with-github-actions-1lh2)
+- [Adam Savage&#39;s Tested: National Treasures: Where America’s Historical Artifacts Are Being Preserved &lpar;Well ... For Now&rpar;](https://dev.to/maker_youtube/adam-savages-tested-national-treasures-where-americas-historical-artifacts-are-being-preserved-1o62)
+- [Linus Tech Tips &lpar;LTT&rpar;: The Most Important GPU Review of the Year &lpar;serious&rpar;](https://dev.to/future_youtube/linus-tech-tips-ltt-the-most-important-gpu-review-of-the-year-serious-42ei)
+- [Marques Brownlee &lpar;MKBHD&rpar;: Google Pixel 10/Pro/Fold Impressions: Magnets!](https://dev.to/future_youtube/marques-brownlee-mkbhd-google-pixel-10profold-impressions-magnets-3m9m)
+- [GameSpot: Come visit McDonaldland with me!!”#mcdonalds #ad](https://dev.to/gg_news/gamespot-come-visit-mcdonaldland-with-memcdonalds-ad-2h5p)
+- [IGN: Freestyle Football 2 - World Premiere Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-freestyle-football-2-world-premiere-trailer-xbox-gamescom-2025-51o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
