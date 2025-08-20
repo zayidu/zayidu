@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Few projects up. I&#39;m in the process of finding all projects I&#39;ve done since 2018. From Ghost Production to Coding Course Creation, Automation, Shopify Web Development, Webflow Web Development and Mixing Engineering https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-im-in-the-process-of-finding-all-projects-ive-done-since-2018-from-ghost-328g)
-- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
-- [Few projects up https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-httpsvicentereyesorgworks-3jik)
-- [AI-Powered Data Engineering &amp; Analytics Solutions for Enterprises](https://dev.to/razorpod_seo_0a69ce36e98f/ai-powered-data-engineering-analytics-solutions-for-enterprises-p8l)
-- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
+- [Web Developer Travis McCracken on Building Dev Tools for Backend Engineers](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-3g1m)
+- [n8n vs AI Agent Platforms: Which One Wins?](https://dev.to/ciphernutz/n8n-vs-ai-agent-platforms-which-one-wins-ng8)
+- [How to Remove a Directory in Linux: A Simple Guide](https://dev.to/rash_samy_79f0b386b9d7d2c/how-to-remove-a-directory-in-linux-1ngo)
+- [How I Built a Chrome Extension That Parses Any Job Site Without Scraping](https://dev.to/galihm/how-i-built-a-chrome-extension-that-parses-any-job-site-without-scraping-3ng)
+- [Brahma-JS: Ultra-Low Latency JS Runtime Powered by Rust](https://dev.to/shayam_murali_df5e02abc08/brahma-js-ultra-low-latency-js-runtime-powered-by-rust-hco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
