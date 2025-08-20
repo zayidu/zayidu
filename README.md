@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
-- [Python tips and tricks](https://dev.to/mcheremnov/python-tips-and-tricks-13bj)
-- [Why Most AI Startups Will Fail in 2025 — And What the Survivors Will Have in Common](https://dev.to/koolkamalkishor/why-most-ai-startups-will-fail-in-2025-and-what-the-survivors-will-have-in-common-242c)
-- [Two new Ruby podcasts from Rails Foundation and Ruby Central](https://dev.to/lucianghinda/two-new-ruby-podcasts-from-rails-foundation-and-ruby-central-207m)
-- [Why Your AI Chatbot is Dumb — And How to Fix It with AutoGPT Agents](https://dev.to/ekwoster/why-your-ai-chatbot-is-dumb-and-how-to-fix-it-with-autogpt-agents-1kep)
+- [Mastering Self-Consistency Prompting](https://dev.to/abhishek_gautam-01/mastering-self-consistency-prompting-h7c)
+- [What Most Consultants Miss About AI &lpar;And What Still Actually Works&rpar;](https://dev.to/remotebranch/what-most-consultants-miss-about-ai-and-what-still-actually-works-1be7)
+- [DocWire SDK 2025.08.xx Released – GPT-5 Now Fully Integrated, New Default Model](https://dev.to/novitzmann/docwire-sdk-202508xx-released-gpt-5-now-fully-integrated-new-default-model-3l3b)
+- [🎯 SIP Responses: Talking Back](https://dev.to/sip_games/sip-responses-talking-back-5ca8)
+- [Blockchain Food Traceability: Building Trust in the Global Food Supply Chain](https://dev.to/manavbhati25/blockchain-food-traceability-building-trust-in-the-global-food-supply-chain-3lo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
