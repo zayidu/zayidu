@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Self-Consistency Prompting](https://dev.to/abhishek_gautam-01/mastering-self-consistency-prompting-h7c)
-- [What Most Consultants Miss About AI &lpar;And What Still Actually Works&rpar;](https://dev.to/remotebranch/what-most-consultants-miss-about-ai-and-what-still-actually-works-1be7)
-- [DocWire SDK 2025.08.xx Released – GPT-5 Now Fully Integrated, New Default Model](https://dev.to/novitzmann/docwire-sdk-202508xx-released-gpt-5-now-fully-integrated-new-default-model-3l3b)
-- [🎯 SIP Responses: Talking Back](https://dev.to/sip_games/sip-responses-talking-back-5ca8)
-- [Blockchain Food Traceability: Building Trust in the Global Food Supply Chain](https://dev.to/manavbhati25/blockchain-food-traceability-building-trust-in-the-global-food-supply-chain-3lo6)
+- [Survey with text input example](https://dev.to/ben/survey-with-text-input-example-142p)
+- [How do I separate myself from most entry level devs?](https://dev.to/ej_salga_af7c7ffbf288c3d7/how-do-i-separate-myself-from-most-entry-level-devs-20m0)
+- [KotlinLesson 2: Kotlin Basic Syntax: Mastering Variables, Data Types, and Operators](https://dev.to/jige2025/kotlinlesson-2-kotlin-basic-syntax-mastering-variables-data-types-and-operators-4hej)
+- [Pivoting from Auth0 to PHP Symfony](https://dev.to/browsely_a899a03e6654ba38/pivoting-from-auth0-to-php-symfony-39h)
+- [How to Secure Your TanStack React Start App with Light-Auth](https://dev.to/mimetis/how-to-secure-your-tanstack-react-start-app-with-light-auth-12o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
