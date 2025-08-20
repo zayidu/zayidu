@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey with text input example](https://dev.to/ben/survey-with-text-input-example-142p)
-- [How do I separate myself from most entry level devs?](https://dev.to/ej_salga_af7c7ffbf288c3d7/how-do-i-separate-myself-from-most-entry-level-devs-20m0)
-- [KotlinLesson 2: Kotlin Basic Syntax: Mastering Variables, Data Types, and Operators](https://dev.to/jige2025/kotlinlesson-2-kotlin-basic-syntax-mastering-variables-data-types-and-operators-4hej)
-- [Pivoting from Auth0 to PHP Symfony](https://dev.to/browsely_a899a03e6654ba38/pivoting-from-auth0-to-php-symfony-39h)
-- [How to Secure Your TanStack React Start App with Light-Auth](https://dev.to/mimetis/how-to-secure-your-tanstack-react-start-app-with-light-auth-12o0)
+- [Exploring the Advantages and Applications of Flexible PCBs in Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/exploring-the-advantages-and-applications-of-flexible-pcbs-in-modern-electronics-14k1)
+- [Adam Savage&#39;s Tested: Adam Savage Visits the @NationalParkService Museum Conservation Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-visits-the-nationalparkservice-museum-conservation-lab-4jlo)
+- [Build a College Database in Oracle LiveSQL – Step-by-Step Guide](https://dev.to/pranav_aadithya_36edf63cb/build-a-college-database-in-oracle-livesql-step-by-step-guide-281l)
+- [COLORS: Venna - Wind Walker Freestyle | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-wind-walker-freestyle-a-colors-encore-l07)
+- [KEXP: Barrington Levy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-full-performance-live-on-kexp-mfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
