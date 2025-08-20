@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Replace Data Analysts?](https://dev.to/kapusto/will-ai-replace-data-analysts-48ic)
-- [Anypoint MQ: Enabling Robust Messaging for Modern Integration](https://dev.to/kapusto/anypoint-mq-enabling-robust-messaging-for-modern-integration-360)
-- [Why Pure Functions Are the Secret Weapon of Scalable Code in 2025](https://dev.to/arkhan/why-pure-functions-are-the-secret-weapon-of-scalable-code-in-2025-4h41)
-- [Running Managed Apache Flink with Java 17: Why Your Job Fails &lpar;and How to Fix It&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/running-managed-apache-flink-with-java-17-why-your-job-fails-and-how-to-fix-it-2j0a)
-- [Testing Kafka Workflows Without Kafka — With Playwright &amp; Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-kafka-workflows-without-kafka-with-playwright-mokapi-29l1)
+- [IGN: Little Nightmares 3 - Official &#39;The Carnevale&#39; Commented Gameplay Trailer | gamescom 2025](https://dev.to/gg_news/ign-little-nightmares-3-official-the-carnevale-commented-gameplay-trailer-gamescom-2025-1kla)
+- [IGN: Band of Crusaders - Official Gameplay Trailer](https://dev.to/gg_news/ign-band-of-crusaders-official-gameplay-trailer-1ggp)
+- [IGN: Path of Exile 2: The Third Edict - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-path-of-exile-2-the-third-edict-official-trailer-gamescom-2025-2d2k)
+- [IGN: 1348 Ex Voto - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-1348-ex-voto-official-reveal-trailer-gamescom-2025-1pji)
+- [IGN: Lost Hellden - Official Gameplay Trailer | gamescom 2025](https://dev.to/gg_news/ign-lost-hellden-official-gameplay-trailer-gamescom-2025-4a8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
