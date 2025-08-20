@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy Design Docs to Avoid Waiting For Indexes to be Built](https://dev.to/moremaddy/copy-design-docs-to-avoid-waiting-for-indexes-to-be-built-3a8i)
-- [Expose your localhost with 1 command line!](https://dev.to/gustavoisensee/expose-your-localhost-with-1-command-line-7d3)
-- [The Ultimate Software Engineering Roles Guide](https://dev.to/bibimbop123/the-ultimate-software-engineering-roles-guide-4mbf)
-- [IT Asset Management Certifications That Employers Look For](https://dev.to/jennifer_devsamurai/it-asset-management-certifications-that-employers-look-for-5024)
-- [Great for beginner!!! 🚀](https://dev.to/brokylabs/great-for-beginner-1dp4)
+- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
+- [Paradigm Shifters – The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4g57)
+- [Discover the Exciting Stories of the IT Industry - 1990s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-in-the-1990s-3fbg)
+- [Discover the Exciting Stories of the IT Industry - 1980s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1980s-50g4)
+- [Discover the Exciting Stories of the IT Industry - 1970s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1970s-5hd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
