@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of General Graphics Interface &lpar;GGI&rpar; in Enabling Portable and Secure Graphics Applications](https://dev.to/abhijith_rs_04018cf67d112/the-role-of-general-graphics-interface-ggi-in-enabling-portable-and-secure-graphics-applications-3c9p)
-- [Time Complexity &lpar;Big-O Notation&rpar; in Algorithms](https://dev.to/davinceleecode/time-complexity-big-o-notation-in-algorithms-22lf)
-- [How to secure your Azure Storage with Microsoft Defender for Storage](https://dev.to/techielass/how-to-secure-your-azure-storage-with-microsoft-defender-for-storage-2h4h)
-- [Latest Trends in Mobile App Test Automation for 2025](https://dev.to/maria_bueno/latest-trends-in-mobile-app-test-automation-for-2025-2o6d)
-- [Understanding Database Indexes: A Comprehensive Guide day 33 of sytem design basics](https://dev.to/vincenttommi/understanding-database-indexes-a-comprehensive-guide-day-33-of-sytem-design-basics-5dea)
+- [Building Microservices: Designing Scalable and Maintainable Back-End Architectures](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-microservices-designing-scalable-and-maintainable-back-end-architectures-43o9)
+- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
+- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
+- [Real-Time Email Notifications in .NET Using Microsoft Graph API](https://dev.to/madusanka_bandara/real-time-email-notifications-in-net-using-microsoft-graph-api-3f71)
+- [Running KittenTTS in the Browser: A Deep Dive into WASM and ONNX](https://dev.to/soasme/running-kittentts-in-the-browser-a-deep-dive-into-wasm-and-onnx-18hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
