@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
-- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
-- [ん, and?](https://dev.to/yowise/n-and-3mn1)
-- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
-- [How I Built an AI Photo Enhancer That Makes Your Selfies Less Tragic &lpar;Using Google Gemini &amp; Python&rpar;](https://dev.to/abdellahhallou/how-i-built-an-ai-photo-enhancer-that-makes-your-selfies-less-tragic-using-google-gemini-python-1c40)
+- [frontend](https://dev.to/devnyang/frontend-49m9)
+- [What is the Bias-Variance Trade-off?](https://dev.to/dev_patel_35864ca1db6093c/what-is-the-bias-variance-trade-off-1bkn)
+- [Building DeFi Apps: Why I Switched from NEAR to Hyperliquid &lpar;And What You Should Know&rpar;](https://dev.to/rdbwood2/building-defi-apps-why-i-switched-from-near-to-hyperliquid-and-what-you-should-know-4f3d)
+- [AWS Lambda with Go - How to Build, Deploy, and Invoke](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o)
+- [5 Keys to Acing Your Coding Interview &lpar;That Have Nothing to Do With Code&rpar;](https://dev.to/beyond-code/5-keys-to-acing-your-coding-interview-that-have-nothing-to-do-with-code-4dkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
