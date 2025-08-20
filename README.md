@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [frontend](https://dev.to/devnyang/frontend-49m9)
-- [What is the Bias-Variance Trade-off?](https://dev.to/dev_patel_35864ca1db6093c/what-is-the-bias-variance-trade-off-1bkn)
-- [Building DeFi Apps: Why I Switched from NEAR to Hyperliquid &lpar;And What You Should Know&rpar;](https://dev.to/rdbwood2/building-defi-apps-why-i-switched-from-near-to-hyperliquid-and-what-you-should-know-4f3d)
-- [AWS Lambda with Go - How to Build, Deploy, and Invoke](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o)
-- [5 Keys to Acing Your Coding Interview &lpar;That Have Nothing to Do With Code&rpar;](https://dev.to/beyond-code/5-keys-to-acing-your-coding-interview-that-have-nothing-to-do-with-code-4dkb)
+- [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
+- [第3章：Qlib监督学习模型](https://dev.to/henry_lin_3ac6363747f45b4/di-3zhang-qlibjian-du-xue-xi-mo-xing-38cg)
+- [Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/dont-panic-yet-breaking-down-the-latest-apache-solr-rce-vulnerability-51k4)
+- [Why does IoT Pose Challenges for User Data Privacy?](https://dev.to/shriyansh_iot_98734929139/why-does-iot-pose-challenges-for-user-data-privacy-3cj3)
+- [I was losing my mind switching branches with Claude Code, so I built this](https://dev.to/davidcreador/i-was-losing-my-mind-switching-branches-with-claude-code-so-i-built-this-5e5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
