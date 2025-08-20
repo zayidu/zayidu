@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Advantages and Applications of Flexible PCBs in Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/exploring-the-advantages-and-applications-of-flexible-pcbs-in-modern-electronics-14k1)
-- [Adam Savage&#39;s Tested: Adam Savage Visits the @NationalParkService Museum Conservation Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-visits-the-nationalparkservice-museum-conservation-lab-4jlo)
-- [Build a College Database in Oracle LiveSQL – Step-by-Step Guide](https://dev.to/pranav_aadithya_36edf63cb/build-a-college-database-in-oracle-livesql-step-by-step-guide-281l)
-- [COLORS: Venna - Wind Walker Freestyle | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-wind-walker-freestyle-a-colors-encore-l07)
-- [KEXP: Barrington Levy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-full-performance-live-on-kexp-mfm)
+- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
+- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
+- [Build an AR React App](https://dev.to/murcoder/build-an-ar-react-app-17i5)
+- [A series that is hype free, optimistic and cautious, but most of all written accessibly no matter your current level. All things dev&#39;s should understand about #ai fast. Thanks Dev. This should be a book &amp; course next. @dev_patel_35864ca1db6093c](https://dev.to/leogopal/a-series-that-is-hype-free-optimistic-and-cautious-but-most-of-all-written-accessibly-no-matter-1mi5)
+- [Deploy your application on Vercel with GitHub Actions](https://dev.to/octolab/deploy-your-application-on-vercel-with-github-actions-1lh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
