@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: National Treasures: Where America’s Historical Artifacts Are Being Preserved &lpar;Well ... For Now&rpar;](https://dev.to/maker_youtube/adam-savages-tested-national-treasures-where-americas-historical-artifacts-are-being-preserved-1o62)
-- [Linus Tech Tips &lpar;LTT&rpar;: The Most Important GPU Review of the Year &lpar;serious&rpar;](https://dev.to/future_youtube/linus-tech-tips-ltt-the-most-important-gpu-review-of-the-year-serious-42ei)
-- [Marques Brownlee &lpar;MKBHD&rpar;: Google Pixel 10/Pro/Fold Impressions: Magnets!](https://dev.to/future_youtube/marques-brownlee-mkbhd-google-pixel-10profold-impressions-magnets-3m9m)
-- [GameSpot: Come visit McDonaldland with me!!”#mcdonalds #ad](https://dev.to/gg_news/gamespot-come-visit-mcdonaldland-with-memcdonalds-ad-2h5p)
-- [IGN: Freestyle Football 2 - World Premiere Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-freestyle-football-2-world-premiere-trailer-xbox-gamescom-2025-51o1)
+- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
+- [The Divide Between AI-Fluent and AI-Resistant Developers](https://dev.to/cdownard/the-divide-between-ai-fluent-and-ai-resistant-developers-58l5)
+- [Solving the N+1 Query Bottleneck: A Practical Guide with Go &amp; SQL](https://dev.to/isthisrishi/solving-the-n1-query-bottleneck-a-practical-guide-with-go-sql-4kfg)
+- [Why I Love Coding &amp; Storytelling Together](https://dev.to/brute/why-i-love-coding-storytelling-together-340j)
+- [Demystifying Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
