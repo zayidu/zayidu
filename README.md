@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
-- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
-- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
-- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
-- [Why Your n8n HTTP Request Fails—and How to Debug Like a Pro](https://dev.to/brains_behind_bots/why-your-n8n-http-request-fails-and-how-to-debug-like-a-pro-4pk1)
+- [The Role of General Graphics Interface &lpar;GGI&rpar; in Enabling Portable and Secure Graphics Applications](https://dev.to/abhijith_rs_04018cf67d112/the-role-of-general-graphics-interface-ggi-in-enabling-portable-and-secure-graphics-applications-3c9p)
+- [Time Complexity &lpar;Big-O Notation&rpar; in Algorithms](https://dev.to/davinceleecode/time-complexity-big-o-notation-in-algorithms-22lf)
+- [How to secure your Azure Storage with Microsoft Defender for Storage](https://dev.to/techielass/how-to-secure-your-azure-storage-with-microsoft-defender-for-storage-2h4h)
+- [Latest Trends in Mobile App Test Automation for 2025](https://dev.to/maria_bueno/latest-trends-in-mobile-app-test-automation-for-2025-2o6d)
+- [Understanding Database Indexes: A Comprehensive Guide day 33 of sytem design basics](https://dev.to/vincenttommi/understanding-database-indexes-a-comprehensive-guide-day-33-of-sytem-design-basics-5dea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
