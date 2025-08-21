@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My ALX Vision Board: Visualizing the Next 4 Months](https://dev.to/thecodepath/my-alx-vision-board-visualizing-the-next-4-months-1ga0)
-- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3fhc)
-- [How I manage my Google Chrome tabs and you should too](https://dev.to/zdunecki/how-i-manage-my-google-chrome-tabs-and-you-should-too-1cg0)
-- [AI for everyone: Who’s Leading the AI race — ChatGPT, Gemini, Claude, Copilot and More?](https://dev.to/josepico/ai-for-everyone-whos-leading-the-ai-race-chatgpt-gemini-claude-copilot-and-more-3lif)
-- [Conference Chatter: What, You Too?](https://dev.to/linkbenjamin/conference-chatter-what-you-too-523a)
+- [🌼 Learning Out Loud: My First Steps in Web Development](https://dev.to/akshathashivakumar/learning-out-loud-my-first-steps-in-web-development-4okn)
+- [Understanding the Conditional &lpar;Ternary&rpar; Operator in Java](https://dev.to/cal_afun_2475adb4b562023b/understanding-the-conditional-ternary-operator-in-java-4l4f)
+- [Solidity Arrays](https://dev.to/loading_blocks/solidity-arrays-4in)
+- [Closure em React na prática: criando um useDebounce em 15 linhas](https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo)
+- [Integrating Push Notifications in Android &amp; iOS in 10 Minutes](https://dev.to/literally/integrating-push-notifications-in-android-ios-in-10-minutes-5ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
