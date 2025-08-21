@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
-- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
-- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
-- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
-- [Is Hello Interview Worth It? An Honest Take for Developers Preparing for Tech Interviews](https://dev.to/stack_overflowed/is-hello-interview-worth-it-an-honest-take-for-developers-preparing-for-tech-interviews-2k4b)
+- [Why Shipping Vibe-Coded Prototypes to Production Breaks Products](https://dev.to/arbisoftcompany/why-shipping-vibe-coded-prototypes-to-production-breaks-products-6hk)
+- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
+- [Building Fun with Data: A Technical Look at RicePurityTest.life](https://dev.to/rickalbertnohan/building-fun-with-data-a-technical-look-at-ricepuritytestlife-4ihf)
+- [IGN: Borderlands 4 Gameplay &lpar;RTX 5090, 4K 60FPS&rpar;](https://dev.to/gg_news/ign-borderlands-4-gameplay-rtx-5090-4k-60fps-2m7b)
+- [APIの作り方：アイデアからデプロイまでのステップ](https://dev.to/waterlily_0f365e5fadded0f/apinozuo-rifang-aideakaradepuroimadenosutetupu-15m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
