@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌼 Learning Out Loud: My First Steps in Web Development](https://dev.to/akshathashivakumar/learning-out-loud-my-first-steps-in-web-development-4okn)
-- [Understanding the Conditional &lpar;Ternary&rpar; Operator in Java](https://dev.to/cal_afun_2475adb4b562023b/understanding-the-conditional-ternary-operator-in-java-4l4f)
-- [Solidity Arrays](https://dev.to/loading_blocks/solidity-arrays-4in)
-- [Closure em React na prática: criando um useDebounce em 15 linhas](https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo)
-- [Integrating Push Notifications in Android &amp; iOS in 10 Minutes](https://dev.to/literally/integrating-push-notifications-in-android-ios-in-10-minutes-5ei)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-4654)
+- [GameSpot: Onimusha Way of the Sword Ganryu Boss Fight | gamescom 2025](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-ganryu-boss-fight-gamescom-2025-k0g)
+- [GameSpot: Phantom Blade 0 Hardest Difficulty Gameplay | gamescom 2025](https://dev.to/gg_news/gamespot-phantom-blade-0-hardest-difficulty-gameplay-gamescom-2025-53op)
+- [IGN: Why You Should be Excited About Crimson Desert&#39;s Open World | gamescom 2025](https://dev.to/gg_news/ign-why-you-should-be-excited-about-crimson-deserts-open-world-gamescom-2025-507l)
+- [IGN: Pokemon Legends: Z-A - Official &#39;The Case of the Sweet Scent Incident&#39; Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-the-case-of-the-sweet-scent-incident-trailer-44gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
