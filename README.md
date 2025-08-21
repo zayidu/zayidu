@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Sales &amp; Presales 101: The very basics](https://dev.to/lukasniessen/technical-sales-presales-101-the-very-basics-49nh)
-- [Simple Website Using HTML and CSS Only – Step by Step Tutorial &lpar;With Code&rpar;](https://dev.to/alizehcodes/simple-website-using-html-and-css-only-step-by-step-tutorial-with-code-1645)
-- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
-- [Peter Finch Golf: Can I BREAK 60 with Iona Stephen?!](https://dev.to/youtube_golf/peter-finch-golf-can-i-break-60-with-iona-stephen-1fd0)
-- [Linus Tech Tips &lpar;LTT&rpar;: The Final Form of this Case Looks AMAZING](https://dev.to/future_youtube/linus-tech-tips-ltt-the-final-form-of-this-case-looks-amazing-5gle)
+- [Linus Tech Tips &lpar;LTT&rpar;: It&#39;s Finally Complete! And it only took 45 days...](https://dev.to/future_youtube/linus-tech-tips-ltt-its-finally-complete-and-it-only-took-45-days-h5n)
+- [IGN: Battlestar Galactica: Scattered Hopes Aims to Deliver an FTL-Like Roguelike](https://dev.to/gg_news/ign-battlestar-galactica-scattered-hopes-aims-to-deliver-an-ftl-like-roguelike-3dm1)
+- [IGN: World of Warcraft is Finally Getting Player Housing, Here&#39;s How it Works | gamescom 2025](https://dev.to/gg_news/ign-world-of-warcraft-is-finally-getting-player-housing-heres-how-it-works-gamescom-2025-26g3)
+- [IGN: Warhammer 40,000 Mechanicus 2 - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-warhammer-40000-mechanicus-2-official-gameplay-overview-trailer-2e0l)
+- [IGN: Directive 8020 - Official 13 Minutes of Prologue Gameplay | gamescom 2025](https://dev.to/gg_news/ign-directive-8020-official-13-minutes-of-prologue-gameplay-gamescom-2025-hoj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
