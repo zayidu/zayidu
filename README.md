@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Shipping Vibe-Coded Prototypes to Production Breaks Products](https://dev.to/arbisoftcompany/why-shipping-vibe-coded-prototypes-to-production-breaks-products-6hk)
-- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
-- [Building Fun with Data: A Technical Look at RicePurityTest.life](https://dev.to/rickalbertnohan/building-fun-with-data-a-technical-look-at-ricepuritytestlife-4ihf)
-- [IGN: Borderlands 4 Gameplay &lpar;RTX 5090, 4K 60FPS&rpar;](https://dev.to/gg_news/ign-borderlands-4-gameplay-rtx-5090-4k-60fps-2m7b)
-- [APIの作り方：アイデアからデプロイまでのステップ](https://dev.to/waterlily_0f365e5fadded0f/apinozuo-rifang-aideakaradepuroimadenosutetupu-15m7)
+- [13 Most Common HTTP Status Codes You Should Know As A Developer](https://dev.to/devshefali/13-most-common-http-status-codes-you-should-know-as-a-developer-3def)
+- [KCDC 2025](https://dev.to/nfrankel/kcdc-2025-247b)
+- [Boring Cybersecurity Theory: Main disciplines &lpar;Time to select your own way&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-main-disciplines-time-to-select-your-own-way-4oph)
+- [My Journey Into System Design &lpar;Starting with Uber&rpar;](https://dev.to/moobarrac/my-journey-into-system-design-starting-with-uber-56a4)
+- [Microsoft Sentinel: Advanced Cloud-Native SIEM and SOAR for Multicloud Cybersecurity](https://dev.to/ibbus/microsoft-sentinel-advanced-cloud-native-siem-and-soar-for-multicloud-cybersecurity-15bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
