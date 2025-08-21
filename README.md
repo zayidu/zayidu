@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Building a Smart Fence Cost Estimator Using Node.js](https://dev.to/emily_johnson_dev/step-by-step-guide-building-a-smart-fence-cost-estimator-using-nodejs-507)
-- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-530b)
-- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
-- [Hacking Hidden Paths with ffuf - Web Fuzzing Made Simple](https://dev.to/jadijadi/hacking-hidden-paths-with-ffuf-web-fuzzing-made-simple-4ne)
+- [2025 Complete Guide: ByteDance Seed-OSS-36B Open Source LLM In-Depth Analysis](https://dev.to/czmilo/2025-complete-guide-bytedance-seed-oss-36b-open-source-llm-in-depth-analysis-1bo7)
+- [Diving Deep: Understanding the Mechanics](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-understanding-the-mechanics-453c)
+- [Smart Contracts Showdown: NEAR vs. Ethereum, Who’s Got the Edge?](https://dev.to/success_65769608047ae3b47/smart-contracts-showdown-near-vs-ethereum-whos-got-the-edge-50f0)
+- [How I Built a Social Network with AI &lpar;and a 3-Person Team&rpar;](https://dev.to/sampseiol1/how-i-built-a-social-network-with-ai-and-a-3-person-team-2cnk)
+- [What happens inside the computer when you run your Go server](https://dev.to/turjoc120/what-happens-inside-the-computer-when-you-run-your-go-server-165n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
