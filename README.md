@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing “Did you mean ...?” Suggestions](https://dev.to/pauljlucas/implementing-did-you-mean-suggestions-52ek)
-- [Real-World Use Cases: Smart Home &amp; Industrial IoT with MCP](https://dev.to/om_shree_0709/real-world-use-cases-smart-home-industrial-iot-with-mcp-2ahm)
-- [Adam Savage&#39;s Tested: Adam Savage Finds a Hidden Leak With a Sound Beacon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-finds-a-hidden-leak-with-a-sound-beacon-17bk)
-- [KEXP: Khu éex&#39; - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-full-performance-live-on-kexp-h6e)
-- [Noisey: Where British Music Begins: Inside the Community That Shaped Ezra Collective’s Femi Koleoso](https://dev.to/music_youtube/noisey-where-british-music-begins-inside-the-community-that-shaped-ezra-collectives-femi-koleoso-1i4h)
+- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
+- [Peter Finch Golf: Can I BREAK 60 with Iona Stephen?!](https://dev.to/youtube_golf/peter-finch-golf-can-i-break-60-with-iona-stephen-1fd0)
+- [Linus Tech Tips &lpar;LTT&rpar;: The Final Form of this Case Looks AMAZING](https://dev.to/future_youtube/linus-tech-tips-ltt-the-final-form-of-this-case-looks-amazing-5gle)
+- [GameSpot: Dead As Disco Is Probably The Most Fun Game At Gamescom 2025](https://dev.to/gg_news/gamespot-dead-as-disco-is-probably-the-most-fun-game-at-gamescom-2025-40hd)
+- [GameSpot: 44 Minutes of High On Life 2 Gameplay from gamescom 2025](https://dev.to/gg_news/gamespot-44-minutes-of-high-on-life-2-gameplay-from-gamescom-2025-5e93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
