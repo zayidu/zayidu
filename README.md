@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-4654)
-- [GameSpot: Onimusha Way of the Sword Ganryu Boss Fight | gamescom 2025](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-ganryu-boss-fight-gamescom-2025-k0g)
-- [GameSpot: Phantom Blade 0 Hardest Difficulty Gameplay | gamescom 2025](https://dev.to/gg_news/gamespot-phantom-blade-0-hardest-difficulty-gameplay-gamescom-2025-53op)
-- [IGN: Why You Should be Excited About Crimson Desert&#39;s Open World | gamescom 2025](https://dev.to/gg_news/ign-why-you-should-be-excited-about-crimson-deserts-open-world-gamescom-2025-507l)
-- [IGN: Pokemon Legends: Z-A - Official &#39;The Case of the Sweet Scent Incident&#39; Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-the-case-of-the-sweet-scent-incident-trailer-44gh)
+- [Think You Know the DOM? Prove It With These 10 Exercises!](https://dev.to/codeguage/think-you-know-the-dom-prove-it-with-these-10-exercises-19gh)
+- [🎨 Code Meets Design — The Portfolio of Amelia Wattenberger](https://dev.to/ml318097/code-meets-design-the-portfolio-of-amelia-wattenberger-5843)
+- [Building an Autonomous Token Deployment Agent on Celo](https://dev.to/gaiaai/building-an-autonomous-token-deployment-agent-on-celo-30c1)
+- [What cookie consent libraries do you use? 🍪 Looking for something easy to integrate, multi-language, customizable, and GDPR-friendly. Do you prefer big tools like Cookiebot/OneTrust or lightweight open-source solutions?](https://dev.to/kunytskyi/what-cookie-consent-libraries-do-you-use-looking-for-something-easy-to-integrate-gnb)
+- [The 2025 Guide to Building Scalable React Apps](https://dev.to/bhavendra/the-2025-guide-to-building-scalable-react-apps-b5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
