@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation That Scales: Building Knowledge Systems for Growing Dev Agencies](https://dev.to/teamcamp/documentation-that-scales-building-knowledge-systems-for-growing-dev-agencies-5685)
-- [Optimizing HTML for Performance and Security](https://dev.to/sharique_siddiqui_8242dad/optimizing-html-for-performance-and-security-i3d)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-1c77)
-- [GameSpot: Zero Parades: First Impressions &lpar;The Disco Elysium Sequel&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-the-disco-elysium-sequel-4p32)
-- [Part-17: 🚀Google Cloud Compute Engine - Graphic Process Unit and Machine Families](https://dev.to/latchudevops/part-17-google-cloud-compute-engine-graphic-process-unit-and-machine-families-2k27)
+- [Great read!](https://dev.to/linkin/great-read-551d)
+- [COLLEGE STUDENT &amp; COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL](https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a)
+- [Serverless Deployment of a Simple Item Manager](https://dev.to/antai/serverless-deployment-of-a-simple-item-manager-bic)
+- [Mastering React: A Complete Guide for Developers](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-react-a-complete-guide-for-developers-11j9)
+- [🚀Top 15 API Marketplaces Revealed—Find Out Where Developers Are Monetizing Big](https://dev.to/fallon_jimmy/top-15-api-marketplaces-revealed-find-out-where-developers-are-monetizing-big-502g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
