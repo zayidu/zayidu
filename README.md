@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Most Common HTTP Status Codes You Should Know As A Developer](https://dev.to/devshefali/13-most-common-http-status-codes-you-should-know-as-a-developer-3def)
-- [KCDC 2025](https://dev.to/nfrankel/kcdc-2025-247b)
-- [Boring Cybersecurity Theory: Main disciplines &lpar;Time to select your own way&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-main-disciplines-time-to-select-your-own-way-4oph)
-- [My Journey Into System Design &lpar;Starting with Uber&rpar;](https://dev.to/moobarrac/my-journey-into-system-design-starting-with-uber-56a4)
-- [Microsoft Sentinel: Advanced Cloud-Native SIEM and SOAR for Multicloud Cybersecurity](https://dev.to/ibbus/microsoft-sentinel-advanced-cloud-native-siem-and-soar-for-multicloud-cybersecurity-15bo)
+- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
+- [GameSpot: Kirby Air Riders City Trial Meta Knight Gameplay &lpar;Off Screen Filmed Footage&rpar;](https://dev.to/gg_news/gamespot-kirby-air-riders-city-trial-meta-knight-gameplay-off-screen-filmed-footage-218f)
+- [IGN: Hollow Knight: Silksong Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-gameplay-off-screen-gamescom-2025-2nem)
+- [IGN: Hollow Knight: Silksong - We&#39;ve Played It! | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-weve-played-it-gamescom-2025-2ol1)
+- [IGN: gamescom studio Tag 2 Livestream 2025: The Outer Worlds 2, Replaced und vieles mehr](https://dev.to/gg_news/ign-gamescom-studio-tag-2-livestream-2025-the-outer-worlds-2-replaced-und-vieles-mehr-1d2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
