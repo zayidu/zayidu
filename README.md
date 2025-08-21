@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Great read!](https://dev.to/linkin/great-read-551d)
-- [COLLEGE STUDENT &amp; COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL](https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a)
-- [Serverless Deployment of a Simple Item Manager](https://dev.to/antai/serverless-deployment-of-a-simple-item-manager-bic)
-- [Mastering React: A Complete Guide for Developers](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-react-a-complete-guide-for-developers-11j9)
-- [🚀Top 15 API Marketplaces Revealed—Find Out Where Developers Are Monetizing Big](https://dev.to/fallon_jimmy/top-15-api-marketplaces-revealed-find-out-where-developers-are-monetizing-big-502g)
+- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
+- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
+- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
+- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
+- [Is Hello Interview Worth It? An Honest Take for Developers Preparing for Tech Interviews](https://dev.to/stack_overflowed/is-hello-interview-worth-it-an-honest-take-for-developers-preparing-for-tech-interviews-2k4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
