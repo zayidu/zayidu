@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m)
-- [IGN: Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025](https://dev.to/gg_news/ign-replaced-is-a-beautiful-brilliant-25d-cyberpunk-thriller-gamescom-2025-2b3h)
-- [IGN: Mount &amp; Blade 2: Bannerlord - War Sails - Official Introducing the Nords Trailer | gamescom 2025](https://dev.to/gg_news/ign-mount-blade-2-bannerlord-war-sails-official-introducing-the-nords-trailer-gamescom-1oc7)
-- [SQL Joins Explained - INNER, LEFT, RIGHT, FULL](https://dev.to/roxana_haidiner/sql-joins-explained-inner-left-right-full-1ofc)
-- [Creating an AI Agent in Claude Code to Control my Smartphone](https://dev.to/tiagodanin/creating-an-ai-agent-in-claude-code-to-control-my-smartphone-1e3e)
+- [3D Printing Nerd: WORLDS LARGEST Transparent LTT Screwdriver is 3D PRINTED!](https://dev.to/maker_youtube/3d-printing-nerd-worlds-largest-transparent-ltt-screwdriver-is-3d-printed-4gji)
+- [IGN: Borderlands 4 - Official Harlowe Gameplay Overview Trailer](https://dev.to/gg_news/ign-borderlands-4-official-harlowe-gameplay-overview-trailer-22k2)
+- [IGN: Gods, Death &amp; Reapers - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-gods-death-reapers-official-reveal-trailer-gamescom-2025-4lpf)
+- [IGN: Sonic Racing: CrossWorlds - Official Animated Teaser Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-animated-teaser-trailer-4nnp)
+- [Security news weekly round-up - 22nd August 2025](https://dev.to/ziizium/security-news-weekly-round-up-22nd-august-2025-3a7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
