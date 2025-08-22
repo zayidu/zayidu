@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟🔥 The Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf)
-- [🌍✨ Welcome to the DEV Community – WhatsApp Edition](https://dev.to/hanzla-baig/welcome-to-the-dev-community-whatsapp-edition-2gf8)
-- [🚀✨ Welcome to DEV Community on WhatsApp!](https://dev.to/hanzla-baig/welcome-to-dev-community-on-whatsapp-2f6o)
-- [Does Claude Generate Accessible Apps](https://dev.to/eevajonnapanula/does-claude-generate-accessible-apps-5759)
-- [KEXP: The Might Be Giants - Doctor Worm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-doctor-worm-live-on-kexp-2g4l)
+- [🌍🚀 Welcome to the Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/welcome-to-the-ultimate-dev-community-on-whatsapp-2e5)
+- [3D Printing Nerd: 3D Printing the WORLDS LARGEST LTT Transparent Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-ltt-transparent-screwdriver-3b3g)
+- [KEXP: They Might Be Giants - The Darlings Of Lumberland &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-the-darlings-of-lumberland-live-on-kexp-16pj)
+- [KEXP: They Might Be Giants - Particle Man &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-particle-man-live-on-kexp-1ia3)
+- [&quot;I Won&#39;t Use Algorithms in My Job&quot;](https://dev.to/sebastiandevelops/i-wont-use-algorithms-in-my-job-2n8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
