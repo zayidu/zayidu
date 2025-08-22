@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%](https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb)
-- [Part-19: GCE Ops Agent: Logging &amp; Monitoring in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-19-gce-ops-agent-logging-monitoring-in-google-cloud-platform-gcp-59ml)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1ack)
-- [90% people make vague prompts and are not using the full capacity of ChatGPT. ChatGPT has the capabilities to help the entire devops community, whether you are looking new idea, a creative approach, or a sustainable solution.](https://dev.to/jaideepparashar/90-people-make-vague-prompts-and-are-not-using-the-full-capacity-of-chatgpt-chatgpt-has-the-252h)
-- [5 Mistakes People Make with ChatGPT Prompts](https://dev.to/jaideepparashar/5-mistakes-people-make-with-chatgpt-prompts-1627)
+- [Inspect and edit any website 3x faster and export changes effortlessly](https://dev.to/mdanassaif/inspect-and-edit-any-website-3x-faster-and-export-changes-effortlessly-4cal)
+- [My 2025 Roundup of Must-Know MCP Servers](https://dev.to/therealmrmumba/my-2025-roundup-of-must-know-mcp-services-3146)
+- [Essential Adjacent References](https://dev.to/esproc_spl/essential-adjacent-references-53e7)
+- [AI Fiesta Exposed: Scam or Smart Budget Alternative to Abacus.AI?](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-fiesta-exposed-scam-or-smart-budget-alternative-to-abacusai-2214)
+- [The Open-Source App Builder That Ate SaaS: Dyad + Ollama Setup](https://dev.to/nodeshiftcloud/the-open-source-app-builder-that-ate-saas-dyad-ollama-setup-47o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
