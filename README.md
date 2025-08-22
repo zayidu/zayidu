@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Anaconda on Ubuntu Server in the Cloud &lpar;Azure VM for Team Collaboration&rpar;](https://dev.to/grayhat/deploying-anaconda-on-ubuntu-server-in-the-cloud-azure-vm-for-team-collaboration-52k)
-- [Capitalization is not a scoreboard: lessons from WhiteBIT’s CEO](https://dev.to/martin_call/capitalization-is-not-a-scoreboard-lessons-from-whitebits-ceo-197a)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-2flb)
-- [GameSpot: Metal Gear Solid Delta Gameplay: Snake Eater Guy Savage Snake&#39;s Nightmare](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-gameplay-snake-eater-guy-savage-snakes-nightmare-4kd5)
-- [GameSpot: Metal Gear Solid Delta: Snake Eater Review](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-snake-eater-review-19kh)
+- [NPR Music: Questlove is charting the history of America through its music | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-questlove-is-charting-the-history-of-america-through-its-music-amplify-with-lara-downes-1hpm)
+- [IGN: Metal Gear Solid Delta: Snake Eater - All New Secret Theater 8mm Films](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-all-new-secret-theater-8mm-films-3a77)
+- [IGN: gamescom studio Tag 3 Livestream 2025: Vampire: The Masquerade - Bloodlines 2 &amp; mehr!](https://dev.to/gg_news/ign-gamescom-studio-tag-3-livestream-2025-vampire-the-masquerade-bloodlines-2-mehr-2a1e)
+- [What is a Webhook API? A Deep Dive for Developers](https://dev.to/robbiecahill/what-is-a-webhook-api-a-deep-dive-for-developers-580a)
+- [How to Use Slack Webhooks: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-use-slack-webhooks-a-developers-guide-3dcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
