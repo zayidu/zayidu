@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evening I Chose Code Over a Match😂](https://dev.to/fonyuygita/the-evening-i-chose-code-over-a-match-3h9e)
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Hands-On With Star Trek Klingon Battlecruiser Model!](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-hands-on-with-star-trek-klingon-battlecruiser-model-56b)
-- [No Laying Up Podcast: Seamsters Union: Brew Crew On Top | Trap Draw, Ep 355](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-brew-crew-on-top-trap-draw-ep-355-4002)
-- [Golf.com: Behind Closed Doors: The Olympic Club&#39;s Two Homes](https://dev.to/youtube_golf/golfcom-behind-closed-doors-the-olympic-clubs-two-homes-2bo3)
-- [Veritasium: This is the natural disaster to worry about](https://dev.to/future_youtube/veritasium-this-is-the-natural-disaster-to-worry-about-49gc)
+- [Linus Tech Tips &lpar;LTT&rpar;: Who can Build the Best $1000 Gaming PC?](https://dev.to/future_youtube/linus-tech-tips-ltt-who-can-build-the-best-1000-gaming-pc-2n5h)
+- [The Game Theorists: Game Theory: Mario Kart World Should NOT Exist…](https://dev.to/gg_news/the-game-theorists-game-theory-mario-kart-world-should-not-exist-4pgg)
+- [GameSpot: 25 Minutes of Valor Mortis Gameplay with Boss Fight | gamescom 2025](https://dev.to/gg_news/gamespot-25-minutes-of-valor-mortis-gameplay-with-boss-fight-gamescom-2025-1me7)
+- [IGN: Just How BIG is gamescom? Let&#39;s Find Out | gamescom 2025](https://dev.to/gg_news/ign-just-how-big-is-gamescom-lets-find-out-gamescom-2025-5hl2)
+- [🚀 LeetCode 3197: Covering All Ones with 3 Rectangles &lpar;C++, Python &amp; Java&rpar;🚀](https://dev.to/om_shree_0709/leetcode-3197-covering-all-ones-with-3-rectangles-c-python-java-40fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
