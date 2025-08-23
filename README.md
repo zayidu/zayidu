@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evening I Chose Code Over a Match😂](https://dev.to/fonyuygita/the-evening-i-chose-code-over-a-match-3h9e)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Hands-On With Star Trek Klingon Battlecruiser Model!](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-hands-on-with-star-trek-klingon-battlecruiser-model-56b)
 - [No Laying Up Podcast: Seamsters Union: Brew Crew On Top | Trap Draw, Ep 355](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-brew-crew-on-top-trap-draw-ep-355-4002)
 - [Golf.com: Behind Closed Doors: The Olympic Club&#39;s Two Homes](https://dev.to/youtube_golf/golfcom-behind-closed-doors-the-olympic-clubs-two-homes-2bo3)
 - [Veritasium: This is the natural disaster to worry about](https://dev.to/future_youtube/veritasium-this-is-the-natural-disaster-to-worry-about-49gc)
-- [IGN: Vampire: The Masquerade - Bloodlines 2&#39;s Romance is Not What You Expect | gamescom 2025](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2s-romance-is-not-what-you-expect-gamescom-2025-ak9)
-- [IGN: High On Life 2: Skateboarding, Bible Adventures &amp; Why They Couldn&#39;t Get Danny DeVito | gamescom 2025](https://dev.to/gg_news/ign-high-on-life-2-skateboarding-bible-adventures-why-they-couldnt-get-danny-devito--3bmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
