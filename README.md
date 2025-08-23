@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building GitNarrative: How I Parse Git History with Python to Extract Development Patterns](https://dev.to/grudged/building-gitnarrative-how-i-parse-git-history-with-python-to-extract-development-patterns-52lm)
+- [According to a recent MIT report, 95% Gen AI businesses are failing now. If you really want to create wealth with AI, then lead with vision and execute with passion. The world doesn&#39;t need more AI apps, it needs sustainable solutions for real problems.](https://dev.to/jaideepparashar/according-to-a-recent-mit-report-95-gen-ai-businesses-are-failing-now-if-you-really-want-to-1lc8)
+- [Introduction to Mutual Funds](https://dev.to/madgan95/introduction-to-mutual-funds-1n4c)
+- [Creating Wealth with AI: Vision vs. Execution](https://dev.to/jaideepparashar/creating-wealth-with-ai-vision-vs-execution-2adb)
 - [AI Can Do More Than You Think — The Most Practical Ways to Use AI Every Day](https://dev.to/nitinfab/ai-can-do-more-than-you-think-the-most-practical-ways-to-use-ai-every-day-4g62)
-- [Real-Time Tracking Without the Drama](https://dev.to/sathish/real-time-tracking-without-the-drama-4j56)
-- [🌟📱 Introducing the Official DEV Community WhatsApp Channel](https://dev.to/hanzla-baig/introducing-the-official-dev-community-whatsapp-channel-4lgo)
-- [🌟💻 Welcome to DEV Community – WhatsApp Channel Revolution](https://dev.to/hanzla-baig/welcome-to-dev-community-whatsapp-channel-revolution-14h4)
-- [🛳️ Docker Series: Episode 1 — Why Docker? &lpar;And Why It’s About to Be Your Best Friend&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-1-why-docker-and-why-its-about-to-be-your-best-friend-389f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
