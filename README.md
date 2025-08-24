@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Hide API Endpoints in Next.js](https://dev.to/bdhamithkumara/how-to-hide-api-endpoints-in-nextjs-4iij)
 - [Day 1: LangChain Basics - My First Chat with Claude and Titan](https://dev.to/aws-builders/day-1-langchain-basics-my-first-chat-with-claude-and-titan-3h1f)
+- [developer lazy life](https://dev.to/nimo_ali_32c59d919d206c35/developer-lazy-life-12ee)
 - [Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve.](https://dev.to/elliot_brenya/sync-obsidian-across-your-devices-for-free-with-github-and-a-bit-of-nerve-4hdm)
 - [Running n8n Locally Without Regrets.](https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55)
-- [Most people start their AI journey by asking the wrong question. Which tool should I use? And that’s exactly why they burn out. Because tools change. Systems don’t. The faster you learn it, the better it will be for your growth.](https://dev.to/jaideepparashar/most-people-start-their-ai-journey-by-asking-the-wrong-question-which-tool-should-i-use-and-1m9d)
-- [Why Your AI Journey Needs a System, Not Just Tools](https://dev.to/jaideepparashar/why-your-ai-journey-needs-a-system-not-just-tools-3m85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
