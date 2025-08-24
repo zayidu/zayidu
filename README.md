@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS IAM Roles Anywhere Demo](https://dev.to/johnmccuk/aws-iam-roles-anywhere-demo-3gl4)
+- [🧑‍🏫 Tutorial: How to Build a Searchable Dropdown Component in React](https://dev.to/shahjalalbu/tutorial-how-to-build-a-searchable-dropdown-component-in-react-3fi4)
+- [A Beginner’s Guide to Channels in WiFi Scanning](https://dev.to/rijultp/a-beginners-guide-to-channels-in-wifi-scanning-1648)
 - [GitNarrative Update: Added GitLab, Azure DevOps, and Bitbucket OAuth Integration](https://dev.to/grudged/gitnarrative-update-added-gitlab-azure-devops-and-bitbucket-oauth-integration-282l)
 - [GameSpot: Romeo Is A Dead Man Is Grasshopper Manufacture Firing On All Cylinders](https://dev.to/gg_news/gamespot-romeo-is-a-dead-man-is-grasshopper-manufacture-firing-on-all-cylinders-4dcf)
-- [IGN: Metal Gear Solid 3: The Complicated History of All 5 Versions Explained](https://dev.to/gg_news/ign-metal-gear-solid-3-the-complicated-history-of-all-5-versions-explained-lc)
-- [IGN: Did Sony Just Nerf Its PS5 Lifetime Sales? - Next-Gen Console Watch | gamescom 2025](https://dev.to/gg_news/ign-did-sony-just-nerf-its-ps5-lifetime-sales-next-gen-console-watch-gamescom-2025-253p)
-- [IGN: Denshattack! - Official Meet The Crew Trailer](https://dev.to/gg_news/ign-denshattack-official-meet-the-crew-trailer-593b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
