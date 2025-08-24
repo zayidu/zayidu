@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Origin of Why 🤔](https://dev.to/dhaval_agrvat_6e65394a83/the-origin-of-why-52dk)
-- [I Tried 20+ Python Courses on Udemy: Here are 5 Courses I recommend](https://dev.to/somadevtoo/i-tried-20-python-courses-on-udemy-here-are-5-courses-i-recommend-1pba)
-- [Neural Network in R](https://dev.to/thedatageek/neural-network-in-r-4lki)
-- [The Pain of Building My Own Fully-Featured Locally Hosted ChatGPT Out of Open Source Tools And a Franken Laptop](https://dev.to/ghotet/the-pain-of-building-my-own-fully-featured-locally-hosted-chatgpt-out-of-open-source-tools-and-a-4dca)
-- [How Hackers Trick AI: The Hidden World of Prompt Injections and Jailbreaks](https://dev.to/praneet_gogoi_beastsoul/how-hackers-trick-ai-the-hidden-world-of-prompt-injections-and-jailbreaks-4nge)
+- [Tech With Tim: How to Build an Advanced AI Agent with Search &lpar;LangGraph, Python, Bright Data &amp; More&rpar;](https://dev.to/vibe_youtube/tech-with-tim-how-to-build-an-advanced-ai-agent-with-search-langgraph-python-bright-data-more-9g5)
+- [IGN: The Biggest Game Releases of September 2025](https://dev.to/gg_news/ign-the-biggest-game-releases-of-september-2025-6f5)
+- [IGN: gamescom studio Day 4 Livestream 2025](https://dev.to/gg_news/ign-gamescom-studio-day-4-livestream-2025-4oo2)
+- [Mr Sunday Movies: ANAKIN vs. OBI WAN Star Wars: Revenge of the Sith - 16 Bit Scenes](https://dev.to/popcorn_movies/mr-sunday-movies-anakin-vs-obi-wan-star-wars-revenge-of-the-sith-16-bit-scenes-33ga)
+- [Create Custom Themes in Tailwind CSS v4 – @custom-variant &lpar;1/2&rpar;](https://dev.to/vrauuss_softwares/-create-custom-themes-in-tailwind-css-v4-custom-variant-12-2nf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
