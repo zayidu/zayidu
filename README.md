@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Performance Optimization: Best Practices for Faster Websites](https://dev.to/lovestaco/frontend-performance-optimization-best-practices-for-faster-websites-3aji)
-- [When Code Starts Talking Back: A Love-Hate Story](https://dev.to/trojanmocx/when-code-starts-talking-back-a-love-hate-story-3ml)
-- [I’m 16 and starting a 2-year challenge to make £100k before uni](https://dev.to/vulcanwm/im-16-and-starting-a-2-year-challenge-to-make-ps100k-before-uni-2i6h)
-- [GitHub Copilot&#39;s Latest Game-Changers: What Developers Need to Know Right Now](https://dev.to/gangatharan_gurusamy_22fb/github-copilots-latest-game-changers-what-developers-need-to-know-right-now-1i42)
-- [Adam Savage&#39;s Tested: The Fabrication Process Adam Savage Is Terrified to Do in His Shop &lpar;with @Nerdforge&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-fabrication-process-adam-savage-is-terrified-to-do-in-his-shop-with-29di)
+- [GitNarrative Update: Added GitLab, Azure DevOps, and Bitbucket OAuth Integration](https://dev.to/grudged/gitnarrative-update-added-gitlab-azure-devops-and-bitbucket-oauth-integration-282l)
+- [GameSpot: Romeo Is A Dead Man Is Grasshopper Manufacture Firing On All Cylinders](https://dev.to/gg_news/gamespot-romeo-is-a-dead-man-is-grasshopper-manufacture-firing-on-all-cylinders-4dcf)
+- [IGN: Metal Gear Solid 3: The Complicated History of All 5 Versions Explained](https://dev.to/gg_news/ign-metal-gear-solid-3-the-complicated-history-of-all-5-versions-explained-lc)
+- [IGN: Did Sony Just Nerf Its PS5 Lifetime Sales? - Next-Gen Console Watch | gamescom 2025](https://dev.to/gg_news/ign-did-sony-just-nerf-its-ps5-lifetime-sales-next-gen-console-watch-gamescom-2025-253p)
+- [IGN: Denshattack! - Official Meet The Crew Trailer](https://dev.to/gg_news/ign-denshattack-official-meet-the-crew-trailer-593b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
