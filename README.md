@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden in Plain Sight - Steganography](https://dev.to/michi/hidden-in-plain-sight-5hc3)
+- [Getting Started with Network Probing using Bettercap](https://dev.to/rijultp/getting-started-with-network-probing-using-bettercap-2gd3)
+- [I built Kostudy - An AI-first, fully-featured, open source, universal education web app](https://dev.to/youssefimlyhen/i-built-kostudy-an-ai-first-fully-featured-open-source-universal-education-web-app-lc5)
 - [Day 76: When Your Brain Runs on 2% Battery But You Keep Coding](https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf)
 - [Agentic AI news round‑up &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-news-round-up-aug-17-23-2025-27k6)
-- [10 AI Tools That Took My SaaS Website from Zero to Launch!](https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0)
-- [Snowflake Cortex Completion API + LaunchDarkly SDK Integration](https://dev.to/launchdarkly/snowflake-cortex-completion-api-launchdarkly-sdk-integration-5021)
-- [Rick Beato: The Beatles&#39; 1965 Songwriting Blueprint Explained](https://dev.to/music_youtube/rick-beato-the-beatles-1965-songwriting-blueprint-explained-hm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
