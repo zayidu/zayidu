@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: High on Life 2: Everything Great About the First But Better | Hands-On Impressions](https://dev.to/gg_news/gamespot-high-on-life-2-everything-great-about-the-first-but-better-hands-on-impressions-2ck0)
-- [GameSpot: Borderlands 4: I Haven&#39;t Been This Excited Since Borderlands 2 | Hands-On Impressions](https://dev.to/gg_news/gamespot-borderlands-4-i-havent-been-this-excited-since-borderlands-2-hands-on-impressions-4eia)
-- [GameSpot: Silent Hill F: Slow-paced Horror that Packs a Punch | Hands-On Impressions](https://dev.to/gg_news/gamespot-silent-hill-f-slow-paced-horror-that-packs-a-punch-hands-on-impressions-284n)
-- [GameSpot: Valor Mortis: This First-Person Soulslike Has Great Potential | Hands-On Impressions](https://dev.to/gg_news/gamespot-valor-mortis-this-first-person-soulslike-has-great-potential-hands-on-impressions-3m4)
-- [GameSpot: Vampire: The Masquerade Bloodlines 2 Is Almost Here | Hands-On Impressions](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-is-almost-here-hands-on-impressions-dak)
+- [Here is the list of AI tools I wish every IT employee, coder, and developer should know.](https://dev.to/jaideepparashar/here-is-the-list-of-ai-tools-i-wish-every-it-employee-coder-and-developer-should-know-19db)
+- [My AI Stack for 2025 &lpar;Full Breakdown&rpar;](https://dev.to/jaideepparashar/my-ai-stack-for-2025-full-breakdown-4ej5)
+- [GameSpot: Romeo Is A Dead Man Is Grasshopper Manufacture Firing On All Cylinders | Hands-On Impressions](https://dev.to/gg_news/gamespot-romeo-is-a-dead-man-is-grasshopper-manufacture-firing-on-all-cylinders-hands-on-4mn0)
+- [🛳️ Docker Series: Episode 3 — Images vs Containers &lpar;Explained with Tiffin Boxes &amp; Chai&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-3-images-vs-containers-explained-with-tiffin-boxes-chai-cio)
+- [Part-22: 🔐Google Cloud KMS &lpar;Key Management Service&rpar; – Create &amp; Use Keys](https://dev.to/latchudevops/part-22-google-cloud-kms-key-management-service-create-use-keys-3k7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
