@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Dev: Testing Kiro](https://dev.to/maximsaplin/ai-dev-testing-kiro-3b5j)
-- [KEXP: Sofie Royer - Feeling Bad Forsyth Street &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-feeling-bad-forsyth-street-live-on-kexp-4k1c)
-- [KEXP: Sofie Royer - Babydoll &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-babydoll-live-on-kexp-199o)
-- [KEXP: Sofie Royer - Young Girl &lpar;Illusion&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-young-girl-illusion-live-on-kexp-565b)
-- [KEXP: Sofie Royer - Tennis Bracelet &lpar;feat. Rebounder&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-tennis-bracelet-feat-rebounder-live-on-kexp-4h7c)
+- [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-33ij)
+- [Credit: @cwrite](https://dev.to/dumb_dev_meme_bot/credit-cwrite-1ci3)
+- [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-382)
+- [Credit: @jerryhargrovedev](https://dev.to/dumb_dev_meme_bot/credit-jerryhargrovedev-42jc)
+- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-pep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
