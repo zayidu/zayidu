@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Automating Cover Letters with Portia AI: My AgentHack 2025 Journey](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automating-cover-letters-with-portia-ai-my-agenthack-2025-journey-mnf)
+- [Behind the Magic: How AI Actually Thinks When You Ask It Something](https://dev.to/shiva_shanker_k/behind-the-magic-how-ai-actually-thinks-when-you-ask-it-something-4f46)
+- [19 JavaScript One-Liners That’ll Blow Your Mind](https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn)
+- [Free Burndown chart Generator tool with agile developer guide](https://dev.to/pratham_naik_project_manager/free-burndown-chart-generator-tool-with-agile-developer-guide-2j93)
 - [Free Burndown Chart Generator: The Developer’s Guide to Agile Sprint Tracking in 2025](https://dev.to/naik_sejal/free-burndown-chart-generator-the-developers-guide-to-agile-sprint-tracking-in-2025-2hbm)
-- [Azure immutable backups: Protecting your data from ransomware and insider threats](https://dev.to/techielass/azure-immutable-backups-protecting-your-data-from-ransomware-and-insider-threats-3i8)
-- [🚀 From DSA to Deployment: What a Real Full-Stack Job Interview Looks Like in 2025](https://dev.to/finalroundai/from-dsa-to-deployment-what-a-real-full-stack-job-interview-looks-like-in-2025-3ibo)
-- [Perpetual Calendar--Programming Practice](https://dev.to/esproc_spl/perpetual-calendar-programming-practice-1n57)
-- [OpenMQTT Gateway for Radio Frequency Signals](https://dev.to/admantium/openmqtt-gateway-for-radio-frequency-signals-5gdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
