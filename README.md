@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
-- [TODO or not TODO / Stop spamming the code with useless comments](https://dev.to/juliashevchenko/todo-or-not-todo-stop-spamming-the-code-with-useless-comments-4lo4)
-- [COLORS: Oblivion&#39;s Mighty Trash - NAZARIO | A COLORS SHOW](https://dev.to/music_youtube/colors-oblivions-mighty-trash-nazario-a-colors-show-4jap)
-- [KEXP: Sofie Royer - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-full-performance-live-on-kexp-575)
-- [Go’s unsafe: Unlocking Performance Hacks with a Risk](https://dev.to/leapcell/gos-unsafe-unlocking-performance-hacks-with-a-risk-4dgl)
+- [Snowflake Cortex Completion API + LaunchDarkly SDK Integration](https://dev.to/launchdarkly/snowflake-cortex-completion-api-launchdarkly-sdk-integration-5021)
+- [Rick Beato: The Beatles&#39; 1965 Songwriting Blueprint Explained](https://dev.to/music_youtube/rick-beato-the-beatles-1965-songwriting-blueprint-explained-hm4)
+- [Golf.com: The Future Of LIV Duels: Grant Horvat And Bryan Bros Talk Exciting Developments](https://dev.to/youtube_golf/golfcom-the-future-of-liv-duels-grant-horvat-and-bryan-bros-talk-exciting-developments-369c)
+- [Peter Finch Golf: Peter Finch 🇬🇧 vs 🇺🇸 Garrett Clark &lpar;GM GOLF&rpar; | Stroke Play](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-garrett-clark-gm-golf-stroke-play-1hie)
+- [IGN: Borderlands 4&#39;s Kairos Booth &amp; Game Story Overview | gamescom 2025](https://dev.to/gg_news/ign-borderlands-4s-kairos-booth-game-story-overview-gamescom-2025-2adf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
