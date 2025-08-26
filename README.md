@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Building AI Agents with UiPath is More Robust Than Using Low-Code Tools by David Malick Dieng](https://dev.to/davidmalickdieng/why-building-ai-agents-with-uipath-is-more-robust-than-using-low-code-toolsby-david-malick-dieng-4pk3)
-- [I Turned My Portfolio Into a Newspaper 📰 &lpar;With Mini-Games!&rpar;](https://dev.to/talha_rizwan_a1a797dab610/i-turned-my-portfolio-into-a-newspaper-with-mini-games-1mk4)
-- [Being a Developer in the Vibe Coding Era](https://dev.to/andychiare/being-a-developer-in-the-vibe-coding-era-3me8)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_74898956/security-is-not-a-feature-its-a-foundation-86p)
-- [💡JavaScript Shortcuts You Wish You Knew Sooner](https://dev.to/ilsa_shaikh_089e2bfab0bf4/javascript-shortcuts-you-wish-you-knew-sooner-41o7)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250?!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-46f1)
+- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
+- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
+- [No Laying Up Podcast: BallKnowers: 2025 NFL Season Preview | Trap Draw, Ep 356](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-2025-nfl-season-preview-trap-draw-ep-356-22mc)
+- [Rick Shiels Golf: Follow this video and NEVER 3 putt again!](https://dev.to/youtube_golf/rick-shiels-golf-follow-this-video-and-never-3-putt-again-1icl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
