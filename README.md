@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The support and engagement from this community have been incredible — so today, I want to turn the spotlight on you. I’m opening this thread as an Ask Me Anything &lpar;AMA&rpar;. You can drop any question: AI, Business, Career, etc.](https://dev.to/jaideepparashar/the-support-and-engagement-from-this-community-have-been-incredible-so-today-i-want-to-turn-the-4i00)
-- [Ask Me Anything: AI, Prompting &amp; Writing](https://dev.to/jaideepparashar/ask-me-anything-ai-prompting-writing-3ab7)
-- [On my elm-knobs Elm package](https://dev.to/agj/on-my-elm-knobs-elm-package-162g)
-- [College Student &amp; Course Management System](https://dev.to/krithikraja_fcc802ca9bb16/college-student-course-management-system-2am0)
-- [Kimi K2: The Game-Changing Open-Source AI That&#39;s Rewriting the Rules of Intelligent Development](https://dev.to/yashddesai/kimi-k2-the-game-changing-open-source-ai-thats-rewriting-the-rules-of-intelligent-development-2jka)
+- [AI-Powered Code Review Action – Automated PR Reviews Using AI &lpar;OpenAI, Gemini, ...&rpar;](https://dev.to/quanlegia/ai-powered-code-review-action-automated-pr-reviews-using-ai-openai-gemini--3a35)
+- [What Is Medication Software? A Complete Guide for 2025](https://dev.to/nencywilliams/what-is-medication-software-a-complete-guide-for-2025-59gc)
+- [My AI Blog](https://dev.to/twisha_gami_f310d22de9a0e/my-ai-blog-14mp)
+- [Keystore Lost = App Dead? Not Anymore. Here’s the Play Store Fix You Need in 2025](https://dev.to/vaibhav_shakya_e6b352bfc4/keystore-lost-app-dead-not-anymore-heres-the-play-store-fix-you-need-in-2025-12ok)
+- [Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You](https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
