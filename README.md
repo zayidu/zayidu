@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Heap Memory and Garbage Collector Algorithm in Go Language](https://dev.to/seyedahmaddv/exploring-heap-memory-and-garbage-collector-algorithm-in-go-language-145f)
-- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
-- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
-- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
-- [Angular 19 — What’s up with Signals?](https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80)
+- [Pyramid Generator With Javascript! 100%!](https://dev.to/shurwood_840b883d3a1ae4a2/pyramid-generator-with-javascript-100-50em)
+- [How to Use PydanticAI for Multimodal LLMs](https://dev.to/stephenc222/how-to-use-pydanticai-for-multimodal-llms-2l9p)
+- [Introduction to Docker and Docker Compose: Beginners Guide](https://dev.to/walnold/introduction-to-docker-and-docker-compose-beginners-guide-3k2h)
+- [Open Source RN Animated Glows, highly performant, with 20+ free presets](https://dev.to/steven_baltay_fe45cb6047b/open-source-rn-animated-glows-highly-performant-with-20-free-presets-48bl)
+- [I’m glad to share that I have successfully completed the main technical track of the Cybersecurity Academy scholarship](https://dev.to/seifeldienahmad/im-glad-to-share-that-i-have-successfully-completed-the-main-technical-track-of-the-cybersecurity-3d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
