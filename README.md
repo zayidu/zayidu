@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Beast: The Outbox Pattern for Reliable Event Publishing](https://dev.to/alex_aslam/taming-the-beast-the-outbox-pattern-for-reliable-event-publishing-299g)
-- [Why I Rolled My Own Blog &lpar;and Shipped It in a Weekend&rpar;](https://dev.to/coder_b/why-i-rolled-my-own-blog-and-shipped-it-in-a-weekend-1g29)
-- [🚀 Struggling with long response times in your app?](https://dev.to/olcayhan/struggling-with-long-response-times-in-your-app-4i08)
-- [Student-Teacher Distillation: A Complete Guide for Model Compression](https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed)
-- [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
+- [Exploring Heap Memory and Garbage Collector Algorithm in Go Language](https://dev.to/seyedahmaddv/exploring-heap-memory-and-garbage-collector-algorithm-in-go-language-145f)
+- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
+- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
+- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
+- [Angular 19 — What’s up with Signals?](https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
