@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Paradox: Why AI Agents Shine in Demos But Stumble in Production](https://dev.to/lukehinds/the-agent-paradox-why-ai-agents-shine-in-demos-but-stumble-in-production-1he1)
-- [Guepard File System: Rethinking Database-Per-Tenant Architecture](https://dev.to/guepardrun/guepard-file-system-rethinking-database-per-tenant-architecture-4hbo)
-- [Getting Started with Python — Part 2](https://dev.to/chinyereunamba/getting-started-with-python-part-2-3km5)
-- [Supercharge Your i18next Workflow with a Real-Time, Persistent Cache](https://dev.to/adrai/supercharge-your-i18next-workflow-with-a-real-time-persistent-cache-32eb)
-- [Favorece composición sobre herencia](https://dev.to/elias404/favorece-composicion-sobre-herencia-11ie)
+- [The Ghost in the machine.](https://dev.to/bionicdreams/the-ghost-in-the-machine-1n6o)
+- [Understanding Arrow Functions in JavaScript](https://dev.to/janetmutua/understanding-arrow-functions-in-javascript-1ih0)
+- [Learn the Different Options to Deploy Microsoft Azure Red Hat OpenShift Clusters and Prepare Your Environment](https://dev.to/sindhuja_ns_1e491ce1088d/learn-the-different-options-to-deploy-microsoft-azure-red-hat-openshift-clusters-and-prepare-your-16ip)
+- [From Old-School to AI-Driven: Creating Professional React Code from Figma](https://dev.to/bitloops/from-old-school-to-ai-driven-creating-professional-react-code-from-figma-2139)
+- [How We Built a PaaS with Go, Kubernetes, and React](https://dev.to/pavel-hostim/how-we-built-a-paas-with-go-kubernetes-and-react-2edl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
