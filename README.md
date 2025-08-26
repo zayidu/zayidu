@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Random Background Color Changer with JavaScript](https://dev.to/megha_m/build-a-random-background-color-changer-with-javascript-380k)
-- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
-- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
-- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
-- [The Complete Guide to AI-SEO in 2026](https://dev.to/shubhamkhatik/the-complete-guide-to-ai-seo-in-2026-1j54)
+- [The Agent Paradox: Why AI Agents Shine in Demos But Stumble in Production](https://dev.to/lukehinds/the-agent-paradox-why-ai-agents-shine-in-demos-but-stumble-in-production-1he1)
+- [Guepard File System: Rethinking Database-Per-Tenant Architecture](https://dev.to/guepardrun/guepard-file-system-rethinking-database-per-tenant-architecture-4hbo)
+- [Getting Started with Python — Part 2](https://dev.to/chinyereunamba/getting-started-with-python-part-2-3km5)
+- [Supercharge Your i18next Workflow with a Real-Time, Persistent Cache](https://dev.to/adrai/supercharge-your-i18next-workflow-with-a-real-time-persistent-cache-32eb)
+- [Favorece composición sobre herencia](https://dev.to/elias404/favorece-composicion-sobre-herencia-11ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
