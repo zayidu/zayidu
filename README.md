@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250?!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-46f1)
-- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
-- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
-- [No Laying Up Podcast: BallKnowers: 2025 NFL Season Preview | Trap Draw, Ep 356](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-2025-nfl-season-preview-trap-draw-ep-356-22mc)
-- [Rick Shiels Golf: Follow this video and NEVER 3 putt again!](https://dev.to/youtube_golf/rick-shiels-golf-follow-this-video-and-never-3-putt-again-1icl)
+- [This week&#39;s ship: Expensely 🪙](https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f)
+- [My honest take a year into building AI copilots for top YC startups](https://dev.to/jesseliii/my-honest-take-a-year-into-building-ai-copilots-for-top-yc-startups-1o7l)
+- [is RAG dead? nope—it learned to drive](https://dev.to/prkskrs/is-rag-dead-nope-it-learned-to-drive-1kih)
+- [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
+- [Mobile Application Security Testing](https://dev.to/radia2025/mobile-application-security-testing-2ben)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
