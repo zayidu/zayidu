@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Headless CMS Guide 2025, Part 1: What it is and why it matters](https://dev.to/flotiq/headless-cms-guide-2025-part-1-what-it-is-and-why-it-matters-210h)
-- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 2](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-2-2haf)
-- [My Talk @ Empower Hacks 3.0 — Why Social Impact Drives Innovation](https://dev.to/arjun_mullick_e734b4da656/my-talk-empower-hacks-30-why-social-impact-drives-innovation-3nf3)
-- [Day-84 Understanding String, StringBuffer, and StringBuilder in Java](https://dev.to/tamilselvan1812/day-84-understanding-string-stringbuffer-and-stringbuilder-in-java-5852)
-- [Installatiebedrijf Breda: Hoe werkt het offerteproces bij een installatiebedrijf in Breda?](https://dev.to/nourloodgietersbedrijf/installatiebedrijf-breda-hoe-werkt-het-offerteproces-bij-een-installatiebedrijf-in-breda-4p33)
+- [[Boost]](https://dev.to/hadil/-4a8e)
+- [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
+- [Angular 20 Is Here: Signals, Zoneless, and the Future of Web Development ⚡](https://dev.to/koolkamalkishor/angular-20-is-here-signals-zoneless-and-the-future-of-web-development-1eoe)
+- [What Can You Create with Particle Animation in HarmonyOS?](https://dev.to/harmonyos/what-can-you-create-with-particle-animation-in-harmonyos-4j82)
+- [Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow](https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
