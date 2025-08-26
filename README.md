@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Apps to Use Instead of Doomscrolling on Your Phone](https://dev.to/zara_bibikhan_872ba39cab/8-apps-to-use-instead-of-doomscrolling-on-your-phone-2ace)
-- [First Project after restarting my learning journey](https://dev.to/leocoding0326/first-project-after-restarting-my-learning-journey-4p3g)
-- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
-- [Maximizing AI Efficiency: Building Hybrid Workflows with Qwen Code and Gemini CLI](https://dev.to/samestrin/maximizing-ai-efficiency-building-hybrid-workflows-with-qwen-code-and-gemini-cli-l4c)
-- [The Bug That Taught Me More Than Any Tutorial](https://dev.to/amoreno/the-bug-that-taught-me-more-than-any-tutorial-284g)
+- [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
+- [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
+- [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
+- [Visualize XML Files with JSON Viewer Tool](https://dev.to/bugblitz98/visualize-xml-files-with-json-viewer-tool-24nl)
+- [From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups](https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
