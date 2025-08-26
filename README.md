@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rolling Forward: The Future of Seamless Deployments with DevOps and Rolling Updates](https://dev.to/vjnvisakh/rolling-forward-the-future-of-seamless-deployments-with-devops-and-rolling-updates-1bej)
-- [Best Free Digital Business Cards in 2025: Top Platforms Compared](https://dev.to/joywinter90/best-free-digital-business-cards-in-2025-top-platforms-compared-l3a)
-- [Array Methods Every Programmer Should Know](https://dev.to/lourdesyang1023/array-methods-every-programmer-should-know-3b5o)
-- [How Much Code Do You Actually Own? 🤔](https://dev.to/umang_suthar_9bad6f345a8a/how-much-code-do-you-actually-own-30il)
-- [I Rebuilt the Ergast F1 Database with Live Data &lpar;and Here&#39;s What I Learned&rpar;](https://dev.to/raceoptidata/i-rebuilt-the-ergast-f1-database-with-live-data-and-heres-what-i-learned-4bnj)
+- [Build a Random Background Color Changer with JavaScript](https://dev.to/megha_m/build-a-random-background-color-changer-with-javascript-380k)
+- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
+- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
+- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
+- [The Complete Guide to AI-SEO in 2026](https://dev.to/shubhamkhatik/the-complete-guide-to-ai-seo-in-2026-1j54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
