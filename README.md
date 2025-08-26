@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
-- [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
-- [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
-- [Visualize XML Files with JSON Viewer Tool](https://dev.to/bugblitz98/visualize-xml-files-with-json-viewer-tool-24nl)
-- [From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups](https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0)
+- [The support and engagement from this community have been incredible — so today, I want to turn the spotlight on you. I’m opening this thread as an Ask Me Anything &lpar;AMA&rpar;. You can drop any question: AI, Business, Career, etc.](https://dev.to/jaideepparashar/the-support-and-engagement-from-this-community-have-been-incredible-so-today-i-want-to-turn-the-4i00)
+- [Ask Me Anything: AI, Prompting &amp; Writing](https://dev.to/jaideepparashar/ask-me-anything-ai-prompting-writing-3ab7)
+- [On my elm-knobs Elm package](https://dev.to/agj/on-my-elm-knobs-elm-package-162g)
+- [College Student &amp; Course Management System](https://dev.to/krithikraja_fcc802ca9bb16/college-student-course-management-system-2am0)
+- [Kimi K2: The Game-Changing Open-Source AI That&#39;s Rewriting the Rules of Intelligent Development](https://dev.to/yashddesai/kimi-k2-the-game-changing-open-source-ai-thats-rewriting-the-rules-of-intelligent-development-2jka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
