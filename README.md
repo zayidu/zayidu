@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This week&#39;s ship: Expensely 🪙](https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f)
-- [My honest take a year into building AI copilots for top YC startups](https://dev.to/jesseliii/my-honest-take-a-year-into-building-ai-copilots-for-top-yc-startups-1o7l)
-- [is RAG dead? nope—it learned to drive](https://dev.to/prkskrs/is-rag-dead-nope-it-learned-to-drive-1kih)
-- [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
-- [Mobile Application Security Testing](https://dev.to/radia2025/mobile-application-security-testing-2ben)
+- [Hands-On with MongoDB Atlas: Storing, Querying, and Analyzing Data](https://dev.to/rakesh_pranavks23cb037/hands-on-with-mongodb-atlas-storing-querying-and-analyzing-data-2i7p)
+- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
+- [Observability Part 2 – Metrics &amp; Dashboards with Prometheus and Grafana](https://dev.to/jungledev/observability-part-2-metrics-dashboards-with-prometheus-and-grafana-fib)
+- [Google Gemini 2.5 Flash-Image: How Google Is Pushing AI Boundaries](https://dev.to/alifar/google-gemini-25-flash-image-how-google-is-pushing-ai-boundaries-2dkh)
+- [Grant Horvat: Grant Horvat Vs Dude Perfect &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/grant-horvat-grant-horvat-vs-dude-perfect-stroke-play-m6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
