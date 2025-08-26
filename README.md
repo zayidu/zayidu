@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with MongoDB Atlas: Storing, Querying, and Analyzing Data](https://dev.to/rakesh_pranavks23cb037/hands-on-with-mongodb-atlas-storing-querying-and-analyzing-data-2i7p)
-- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
-- [Observability Part 2 – Metrics &amp; Dashboards with Prometheus and Grafana](https://dev.to/jungledev/observability-part-2-metrics-dashboards-with-prometheus-and-grafana-fib)
-- [Google Gemini 2.5 Flash-Image: How Google Is Pushing AI Boundaries](https://dev.to/alifar/google-gemini-25-flash-image-how-google-is-pushing-ai-boundaries-2dkh)
-- [Grant Horvat: Grant Horvat Vs Dude Perfect &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/grant-horvat-grant-horvat-vs-dude-perfect-stroke-play-m6g)
+- [Taming the Beast: The Outbox Pattern for Reliable Event Publishing](https://dev.to/alex_aslam/taming-the-beast-the-outbox-pattern-for-reliable-event-publishing-299g)
+- [Why I Rolled My Own Blog &lpar;and Shipped It in a Weekend&rpar;](https://dev.to/coder_b/why-i-rolled-my-own-blog-and-shipped-it-in-a-weekend-1g29)
+- [🚀 Struggling with long response times in your app?](https://dev.to/olcayhan/struggling-with-long-response-times-in-your-app-4i08)
+- [Student-Teacher Distillation: A Complete Guide for Model Compression](https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed)
+- [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
