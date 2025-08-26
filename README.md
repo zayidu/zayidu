@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Live Demo] Automate a Viral Newsletter Using n8n + Real-Time Web Data](https://dev.to/n8n/live-demo-automate-a-viral-newsletter-using-n8n-real-time-web-data-34jc)
-- [Laravel Project Backup to Azure Blob with Bash Script](https://dev.to/edgaras/laravel-project-backup-to-azure-blob-with-bash-script-3ke)
-- [How to Use Weak Pointers in Go 1.24](https://dev.to/leapcell/how-to-use-weak-pointers-in-go-124-2i6j)
-- [Mutiny is Live: Where Ideas Find Their People and Capital Finds Its Purpose](https://dev.to/casperday11/mutiny-is-live-where-ideas-find-their-people-and-capital-finds-its-purpose-5e05)
-- [The Hidden UIKit: SwiftUI Components Under the Hood in iOS 16+](https://dev.to/arshtechpro/the-hidden-uikit-swiftui-components-under-the-hood-in-ios-16-2oj6)
+- [8 Apps to Use Instead of Doomscrolling on Your Phone](https://dev.to/zara_bibikhan_872ba39cab/8-apps-to-use-instead-of-doomscrolling-on-your-phone-2ace)
+- [First Project after restarting my learning journey](https://dev.to/leocoding0326/first-project-after-restarting-my-learning-journey-4p3g)
+- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
+- [Maximizing AI Efficiency: Building Hybrid Workflows with Qwen Code and Gemini CLI](https://dev.to/samestrin/maximizing-ai-efficiency-building-hybrid-workflows-with-qwen-code-and-gemini-cli-l4c)
+- [The Bug That Taught Me More Than Any Tutorial](https://dev.to/amoreno/the-bug-that-taught-me-more-than-any-tutorial-284g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
