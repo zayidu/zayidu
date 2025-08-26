@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Seed to Blossom — A Journey Through Email Campaigns](https://dev.to/mdkawsharul_islamroyal_/from-seed-to-blossom-a-journey-through-email-campaigns-4meh)
-- [AI as the Ultimate Teacher- Learn Any Subject from A Master](https://dev.to/gamepill/ai-as-the-ultimate-teacher-learn-any-subject-from-a-master-1jed)
-- [Type casting](https://dev.to/rajan_s_494d2a0d7bb0860ef/type-casting-2nli)
-- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
-- [Scale your ML deployments with open source](https://dev.to/jwilliamsr/-2040)
+- [Why Building AI Agents with UiPath is More Robust Than Using Low-Code Tools by David Malick Dieng](https://dev.to/davidmalickdieng/why-building-ai-agents-with-uipath-is-more-robust-than-using-low-code-toolsby-david-malick-dieng-4pk3)
+- [I Turned My Portfolio Into a Newspaper 📰 &lpar;With Mini-Games!&rpar;](https://dev.to/talha_rizwan_a1a797dab610/i-turned-my-portfolio-into-a-newspaper-with-mini-games-1mk4)
+- [Being a Developer in the Vibe Coding Era](https://dev.to/andychiare/being-a-developer-in-the-vibe-coding-era-3me8)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_74898956/security-is-not-a-feature-its-a-foundation-86p)
+- [💡JavaScript Shortcuts You Wish You Knew Sooner](https://dev.to/ilsa_shaikh_089e2bfab0bf4/javascript-shortcuts-you-wish-you-knew-sooner-41o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
