@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the machine.](https://dev.to/bionicdreams/the-ghost-in-the-machine-1n6o)
-- [Understanding Arrow Functions in JavaScript](https://dev.to/janetmutua/understanding-arrow-functions-in-javascript-1ih0)
-- [Learn the Different Options to Deploy Microsoft Azure Red Hat OpenShift Clusters and Prepare Your Environment](https://dev.to/sindhuja_ns_1e491ce1088d/learn-the-different-options-to-deploy-microsoft-azure-red-hat-openshift-clusters-and-prepare-your-16ip)
-- [From Old-School to AI-Driven: Creating Professional React Code from Figma](https://dev.to/bitloops/from-old-school-to-ai-driven-creating-professional-react-code-from-figma-2139)
-- [How We Built a PaaS with Go, Kubernetes, and React](https://dev.to/pavel-hostim/how-we-built-a-paas-with-go-kubernetes-and-react-2edl)
+- [From Seed to Blossom — A Journey Through Email Campaigns](https://dev.to/mdkawsharul_islamroyal_/from-seed-to-blossom-a-journey-through-email-campaigns-4meh)
+- [AI as the Ultimate Teacher- Learn Any Subject from A Master](https://dev.to/gamepill/ai-as-the-ultimate-teacher-learn-any-subject-from-a-master-1jed)
+- [Type casting](https://dev.to/rajan_s_494d2a0d7bb0860ef/type-casting-2nli)
+- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
+- [Scale your ML deployments with open source](https://dev.to/jwilliamsr/-2040)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
