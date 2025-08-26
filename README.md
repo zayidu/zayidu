@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Code Review Action – Automated PR Reviews Using AI &lpar;OpenAI, Gemini, ...&rpar;](https://dev.to/quanlegia/ai-powered-code-review-action-automated-pr-reviews-using-ai-openai-gemini--3a35)
-- [What Is Medication Software? A Complete Guide for 2025](https://dev.to/nencywilliams/what-is-medication-software-a-complete-guide-for-2025-59gc)
-- [My AI Blog](https://dev.to/twisha_gami_f310d22de9a0e/my-ai-blog-14mp)
-- [Keystore Lost = App Dead? Not Anymore. Here’s the Play Store Fix You Need in 2025](https://dev.to/vaibhav_shakya_e6b352bfc4/keystore-lost-app-dead-not-anymore-heres-the-play-store-fix-you-need-in-2025-12ok)
-- [Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You](https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6)
+- [Why Kubernetes is the Safety Net for Your AI Circus ?](https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12)
+- [Blocking Suspected DDoS IPs with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38)
+- [Mastering Binary Tree Views and Traversals in Java](https://dev.to/rock_win_c053fa5fb2399067/mastering-binary-tree-views-and-traversals-in-java-3jbl)
+- [How AI Agents Are Revolutionizing Workflow Automation](https://dev.to/onlineproxy/how-ai-agents-are-revolutionizing-workflow-automation-alb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
