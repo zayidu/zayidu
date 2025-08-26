@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
-- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
-- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
-- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
-- [Go Coding with Asparagos: The Smartest Peanut in the Neighborhood](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
+- [Headless CMS Guide 2025, Part 1: What it is and why it matters](https://dev.to/flotiq/headless-cms-guide-2025-part-1-what-it-is-and-why-it-matters-210h)
+- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 2](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-2-2haf)
+- [My Talk @ Empower Hacks 3.0 — Why Social Impact Drives Innovation](https://dev.to/arjun_mullick_e734b4da656/my-talk-empower-hacks-30-why-social-impact-drives-innovation-3nf3)
+- [Day-84 Understanding String, StringBuffer, and StringBuilder in Java](https://dev.to/tamilselvan1812/day-84-understanding-string-stringbuffer-and-stringbuilder-in-java-5852)
+- [Installatiebedrijf Breda: Hoe werkt het offerteproces bij een installatiebedrijf in Breda?](https://dev.to/nourloodgietersbedrijf/installatiebedrijf-breda-hoe-werkt-het-offerteproces-bij-een-installatiebedrijf-in-breda-4p33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
