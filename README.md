@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What can make AI companies pay for data instead of scraping?](https://dev.to/imajus/what-can-make-ai-companies-pay-for-data-instead-of-scraping-g9p)
-- [Puertas bajo control: cómo reducir excursiones térmicas y consumo eléctrico](https://dev.to/central_detelemetra_027/puertas-bajo-control-como-reducir-excursiones-termicas-y-consumo-electrico-oe2)
-- [Cómo incorporar IA generativa de manera estratégica: metodología para transformar ideas en resultados reales](https://dev.to/aws-builders/como-incorporar-ia-generativa-de-manera-estrategica-metodologia-para-transformar-ideas-en-1od0)
-- [How much money is your business losing on Black Friday and Cyber Monday](https://dev.to/davedavies/how-much-money-is-your-business-losing-on-black-friday-and-cyber-monday-137f)
-- [TDD is Dead &lpar;Again&rpar;. Long Live Design-First Development](https://dev.to/alex_aslam/tdd-is-dead-again-long-live-design-first-development-3oe4)
+- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
+- [When the Creator Becomes the Target: A Human Tale in the Age of AI](https://dev.to/singhrahulbly123/when-the-creator-becomes-the-target-a-human-tale-in-the-age-of-ai-27gc)
+- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
+- [How to Add Real-Time Comments to Your Tiptap Editor with Velt and v0🔥](https://dev.to/astrodevil/how-to-add-real-time-comments-to-your-tiptap-editor-with-velt-and-v0-329e)
+- [Why S3 Intelligent-Tiering Should Be Your Default Storage Class for Large-Scale Buckets?](https://dev.to/aws-builders/why-s3-intelligent-tiering-should-be-your-default-storage-class-for-large-scale-buckets-417m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
