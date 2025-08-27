@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/farukh/theres-something-off-in-the-dev-with-ai-or-die-narrative-4j77)
-- [[Boost]](https://dev.to/bdougieyo/-3eda)
-- [How to Set Up an AWS Application Load Balancer for Your EC2 Instances](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-an-aws-application-load-balancer-for-your-ec2-instances-8fo)
-- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
-- [Table-Driven Method: How Tchaca Stopped Suffering from if and switch in React](https://dev.to/werliton/table-driven-method-how-tchaca-stopped-suffering-from-if-and-switch-in-react-535c)
+- [IA e Segurança de Software: Automação ou Novo Vetor de Ataques?](https://dev.to/targanski/ia-e-seguranca-de-software-automacao-ou-novo-vetor-de-ataques-1l99)
+- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/programadriano/event-driven-architecture-eda-arquitetura-orientada-a-eventos-5ckb)
+- [O que é Clean Architecture?](https://dev.to/nathanndos/o-que-e-clean-architecture-36h4)
+- [Vibe coding agents- good or bad?](https://dev.to/peteteaa/vibe-coding-agents-good-or-bad-5cf0)
+- [Galene - a Simple Videoconferencing Server. Installation on VPS](https://dev.to/sledov/galene-a-simple-videoconferencing-server-installation-on-vps-g4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
