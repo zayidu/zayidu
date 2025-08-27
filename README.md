@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free android lint perf](https://dev.to/charlietap/free-android-lint-perf-103p)
-- [Adam Savage&#39;s Tested: Adam Savage Builds an Evil Dead Necronomicon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-an-evil-dead-necronomicon-4io8)
-- [Bryan Bros Golf: We Played Golf At #1 Course In World!](https://dev.to/youtube_golf/bryan-bros-golf-we-played-golf-at-1-course-in-world-1g0n)
-- [Noclip: The Origins of MachineGames &lpar;Riddick, The Darkness&rpar; - Noclip Documentary](https://dev.to/gg_news/noclip-the-origins-of-machinegames-riddick-the-darkness-noclip-documentary-2bm9)
-- [GameSpot: Kingdom Come: Deliverance 2&#39;s DLC Lets You Be A Dentist By Punching A Guy&#39;s Tooth Out | Hands-On](https://dev.to/gg_news/gamespot-kingdom-come-deliverance-2s-dlc-lets-you-be-a-dentist-by-punching-a-guys-tooth-out--4hng)
+- [Vibe Coding a Simple Feature Took 3 Hours. Here&#39;s Why.](https://dev.to/js402/vibe-coding-a-simple-feature-took-3-hours-heres-why-4f7m)
+- [The Silent Threat of Overusing Libraries in Programming](https://dev.to/devtechinsights/the-silent-threat-of-overusing-libraries-in-programming-51m9)
+- [DevOps Made Simple: A Step-by-Step Guide to Starting in 2025](https://dev.to/mrigankwastaken/devops-made-simple-a-step-by-step-guide-to-starting-in-2025-594m)
+- [Unlock Your Audience: The Ultimate Guide to SEO-Driven Content Creation 🚀](https://dev.to/rohith200589/unlock-your-audience-the-ultimate-guide-to-seo-driven-content-creation-2eif)
+- [3 Things I Learned Building a Database from Scratch &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/pauletart/3-things-i-learned-building-a-database-from-scratch-and-what-id-do-differently-339m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
