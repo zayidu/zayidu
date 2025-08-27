@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: How Fine Leather Bags Are Handmade In Great Britain](https://dev.to/maker_youtube/alec-steele-how-fine-leather-bags-are-handmade-in-great-britain-1oc3)
-- [Rick Beato: Am I The Only One Who Gives A Sh*t?](https://dev.to/music_youtube/rick-beato-am-i-the-only-one-who-gives-a-sht-4b5n)
-- [Agentic Coding Boilerplate: Next.js Starter Kit for AI Apps](https://dev.to/jqueryscript/agentic-coding-boilerplate-nextjs-starter-kit-for-ai-apps-142a)
-- [GameSpot: Come Visit McDonaldland in Fortnite LIVE with Dagwummy](https://dev.to/gg_news/gamespot-come-visit-mcdonaldland-in-fortnite-live-with-dagwummy-2f8j)
-- [IGN: Sonic Racing: CrossWorlds - Official Open Network Test Primer Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-open-network-test-primer-trailer-10f5)
+- [Evolution of Honda Acty HA8 &amp; HA9 &lpar;2009–2022&rpar;: What’s Changed Under the Hood](https://dev.to/evan_cheng_8287682f4d5df9/evolution-of-honda-acty-ha8-ha9-2009-2022-whats-changed-under-the-hood-1plf)
+- [Part-28: Google Compute Engine Disk Images](https://dev.to/latchudevops/part-28-google-compute-engine-disk-images-4271)
+- [Visualise your Certifications with the Exam Timeline Project](https://dev.to/techielass/visualise-your-certifications-with-the-exam-timeline-project-2o3e)
+- [The cost of serverless application development on AWS: A Collector&#39;s Platform case study](https://dev.to/u11d/the-cost-of-serverless-application-development-on-aws-a-collectors-platform-case-study-27m9)
+- [[Boost]](https://dev.to/mikelrisyad/-4a5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
