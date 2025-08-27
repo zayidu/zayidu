@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Your Own Search Agent Using LangChain](https://dev.to/developeraromal/how-to-create-your-own-search-agent-using-langchain-5g6c)
-- [10 years of building Web Components: the story of &lt;vaadin-combo-box&gt;](https://dev.to/webpadawan/10-years-of-building-web-components-the-story-of-91d)
-- [Top 10 React js interview questions.](https://dev.to/barrujamisrg/top-10-react-js-interview-questions-pp8)
-- [CNCF [Cloud Native Computing Foundation]: Deaf and Hard of Hearing WG Meeting - 2025-08-26](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-deaf-and-hard-of-hearing-wg-meeting-2025-08-26-3jpi)
-- [Best Crypto APIs for Developers in 2025](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2025-25lh)
+- [Ownership and Borrowing: My Journey Into Rust’s Unique Memory System](https://dev.to/agecoder/ownership-and-borrowing-my-journey-into-rusts-unique-memory-system-3nbm)
+- [Solving cold start in AWS Lambda with intelligent distributed Cache](https://dev.to/aws-builders/solving-cold-start-in-aws-lambda-with-intelligent-distributed-cache-3g6n)
+- [Day 78: When Your Brain Refuses to Rest](https://dev.to/casperday11/day-78-when-your-brain-refuses-to-rest-2lf0)
+- [Building Custom Platform Channels in Flutter: A Complete Guide to Native Integration](https://dev.to/anurag_dev/building-custom-platform-channels-in-flutter-a-complete-guide-to-native-integration-2m5g)
+- [Join the Heroku &quot;Back to School&quot; AI Challenge: $3,000 in Prizes, just for students!](https://dev.to/devteam/join-the-heroku-back-to-school-ai-challenge-3000-in-prizes-just-for-students-2me4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
