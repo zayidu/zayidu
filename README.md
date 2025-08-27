@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language Processing in Artificial Intelligence Explained – Applify](https://dev.to/manpreet27/natural-language-processing-in-artificial-intelligence-explained-applify-7n3)
-- [How i made Qt + VTK based 3d-dicom-viewer - open-source instrument for creating 3d models from raw DICOM series](https://dev.to/ft290008buchok/how-i-made-qt-vtk-based-3d-dicom-viewer-open-source-instrument-for-creating-3d-models-from-raw-2kj7)
-- [The C# Feature That Saves You Thousands… But No One Talks About](https://dev.to/mohammad_shoeb_8cf8645287/the-c-feature-that-saves-you-thousands-but-no-one-talks-about-10d4)
-- [WinRAR 0-Day Exploit](https://dev.to/intelligence_x/winrar-0-day-exploit-148c)
-- [What is Zod and what does it bring over typescript type definitions](https://dev.to/websilvercraft/what-is-zod-and-what-does-it-bring-over-typescript-type-definitions-a94)
+- [Solving Distributed ID Challenges with Snowflake IDs in TypeScript](https://dev.to/shahrad/solving-distributed-id-challenges-with-snowflake-ids-in-typescript-3910)
+- [Smooth, Jank-Free Animations with CSS and JavaScript: Performance Best Practices](https://dev.to/anisubhra_sarkar/smooth-jank-free-animations-with-css-and-javascript-performance-best-practices-46ff)
+- [How Time Series Reveal the Future: An Introduction to the ARIMA Model](https://dev.to/moubarakmohame4/how-time-series-reveal-the-future-an-introduction-to-the-arima-model-2k81)
+- [You Don’t Know the Depth of Your Passion Until You Step Away](https://dev.to/officialepicquotes/you-dont-know-the-depth-of-your-passion-until-you-step-away-351p)
+- [Bitwise Operation](https://dev.to/safal_bhandari/bitwise-operation-211b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
