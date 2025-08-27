@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use JSON Patch to Resolve Conflicts](https://dev.to/neighbourhoodie/use-json-patch-to-resolve-conflicts-3coa)
-- [Building Chrome Dinosaur Game in Pygame &lpar;Part 1: Code init &amp; startup&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-1-code-init-startup-4f4j)
-- [HTML isn’t just code. Done right, it’s your strongest SEO weapon.](https://dev.to/web_dev-usman/html-isnt-just-code-done-right-its-your-strongest-seo-weapon-14og)
-- [Understanding WebSockets: A Beginner’s Guide to Real-Time Web Communication day 38 of system design basics](https://dev.to/vincenttommi/understanding-websockets-a-beginners-guide-to-real-time-web-communication-day-38-of-system-design-2m5m)
-- [Yggdrasil Network — Join the Global Mesh](https://dev.to/byteknight/yggdrasil-network-join-the-global-mesh-1kcc)
+- [The 5 Rules for using ARIA](https://dev.to/laura-wissiak/the-5-rules-for-using-aria-2f0)
+- [Fundamentos modernos y primera interacción con IA. Parte 2](https://dev.to/aperezl/fundamentos-modernos-y-primera-interaccion-con-ia-parte-2-3b4e)
+- [NPR Music: MILCK: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-milck-field-recordings-x-aspen-ideas-festival-2ihk)
+- [Why Learn Computer Science in 2025](https://dev.to/olatejuthedev/why-learn-computer-science-in-2025-4410)
+- [Decision Matrix To Navigate Technology Choices](https://dev.to/meet08/decision-matrix-to-navigate-technology-choices-4ojn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
