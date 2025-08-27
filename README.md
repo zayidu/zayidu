@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Vulnerability Alert: Weaver e-Office Remote Code Execution &lpar;RCE&rpar; – Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-vulnerability-alert-weaver-e-office-remote-code-execution-rce-patch-now-10d8)
-- [FOSSAI: An Open-Source Manifesto Against Digital Inequality — v0.1](https://dev.to/paladini/fossai-an-open-source-manifesto-against-digital-inequality-v01-4jlk)
-- [🛳️ Docker Series: Episode 5 — Docker CLI Cheat Sheet: 15 Commands You’ll Actually Use](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-lke)
-- [async - await](https://dev.to/tkouleris/async-await-1e2)
-- [🚀 কিভাবে আমি ৩টি সফটওয়্যার প্রোজেক্ট দিয়ে বাস্তব সমস্যার সমাধান করেছি](https://dev.to/noor_shahbaj/kibhaabe-aami-3tti-sphttoyyyaar-projektt-diyye-baastb-smsyaar-smaadhaan-krechi-4gia)
+- [Code 101: Rat in a Maze](https://dev.to/garvit_khamesra/code-101-rat-in-a-maze-9j)
+- [Gold as Investment](https://dev.to/madgan95/gold-as-investment-17ba)
+- [Code 101: Sort a Stack using Recursion](https://dev.to/garvit_khamesra/code-101-sort-a-stack-using-recursion-157p)
+- [Code 101: Sort an Array using Recursion](https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79)
+- [Mining Data Out of Minecraft](https://dev.to/mateusriff/mining-data-out-of-minecraft-541f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
