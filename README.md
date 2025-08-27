@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
-- [When the Creator Becomes the Target: A Human Tale in the Age of AI](https://dev.to/singhrahulbly123/when-the-creator-becomes-the-target-a-human-tale-in-the-age-of-ai-27gc)
-- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
-- [How to Add Real-Time Comments to Your Tiptap Editor with Velt and v0🔥](https://dev.to/astrodevil/how-to-add-real-time-comments-to-your-tiptap-editor-with-velt-and-v0-329e)
-- [Why S3 Intelligent-Tiering Should Be Your Default Storage Class for Large-Scale Buckets?](https://dev.to/aws-builders/why-s3-intelligent-tiering-should-be-your-default-storage-class-for-large-scale-buckets-417m)
+- [PostgreSQL JSONB Size Limits to Prevent TOAST Slicing](https://dev.to/franckpachot/postgresql-jsonb-size-limits-to-prevent-toast-slicing-9e8)
+- [Bryan Bros Golf: Golf Match @ #1 Public Course In The World!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-1-public-course-in-the-world-b7f)
+- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2041)
+- [IGN: Alien: Earth - After Ep. 4&#39;s Big Revelation, Is It Time to Bail?](https://dev.to/gg_news/ign-alien-earth-after-ep-4s-big-revelation-is-it-time-to-bail-2hfi)
+- [When the Creator Becomes the Target: A Human Tale in the Age of AI](https://dev.to/member_3713c6eb/when-the-creator-becomes-the-target-a-human-tale-in-the-age-of-ai-4n9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
