@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code 101: Rat in a Maze](https://dev.to/garvit_khamesra/code-101-rat-in-a-maze-9j)
-- [Gold as Investment](https://dev.to/madgan95/gold-as-investment-17ba)
-- [Code 101: Sort a Stack using Recursion](https://dev.to/garvit_khamesra/code-101-sort-a-stack-using-recursion-157p)
-- [Code 101: Sort an Array using Recursion](https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79)
-- [Mining Data Out of Minecraft](https://dev.to/mateusriff/mining-data-out-of-minecraft-541f)
+- [Utilizando o módulo Motor Fan L9110 com Arduino](https://dev.to/yuricosta/utilizando-o-modulo-motor-fan-l9110-com-arduino-498p)
+- [When I talk to small business owners, I often hear the same thing: “AI sounds great, but isn’t it only for big companies with tech teams?” Here are 7 Ways Small Businesses Can Use AI Today, and a giveaway for DEV Community!](https://dev.to/jaideepparashar/when-i-talk-to-small-business-owners-i-often-hear-the-same-thing-ai-sounds-great-but-isnt-453d)
+- [Optique: Type-Safe CLI Parser Combinators](https://dev.to/hongminhee/optique-type-safe-cli-parser-combinators-39md)
+- [Decoding MongoDB Metrics: A Practical Guide for DBAs, Developers and DevOps Engineers](https://dev.to/herjean7/decoding-mongodb-metrics-a-practical-guide-for-dbas-developers-and-devops-engineers-e3n)
+- [Constructors in thread and Thread priority](https://dev.to/chhavi_joshi_ede276cfcc06/constructors-in-thread-and-thread-priority-30a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
