@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-gag)
-- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
-- [How I Turned My YouTube Frustrations into MyTubes/sideproject](https://dev.to/shaulbendavid/how-i-turned-my-youtube-frustrations-into-mytubessideproject-3cbf)
-- [Prevent Wrong Account Operations — AWS Official Header Color Feature Now Available](https://dev.to/aws-builders/prevent-wrong-account-operations-aws-official-header-color-feature-now-available-1lgc)
-- [Turning Complex Algorithms into Interactive Visual Stories: My Journey](https://dev.to/abidit_shrestha_fefae4cee/turning-complex-algorithms-into-interactive-visual-stories-my-journey-3l0j)
+- [How to Create Your Own Search Agent Using LangChain](https://dev.to/developeraromal/how-to-create-your-own-search-agent-using-langchain-5g6c)
+- [10 years of building Web Components: the story of &lt;vaadin-combo-box&gt;](https://dev.to/webpadawan/10-years-of-building-web-components-the-story-of-91d)
+- [Top 10 React js interview questions.](https://dev.to/barrujamisrg/top-10-react-js-interview-questions-pp8)
+- [CNCF [Cloud Native Computing Foundation]: Deaf and Hard of Hearing WG Meeting - 2025-08-26](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-deaf-and-hard-of-hearing-wg-meeting-2025-08-26-3jpi)
+- [Best Crypto APIs for Developers in 2025](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2025-25lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
