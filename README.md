@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building PoC Agents in Minutes](https://dev.to/nghidanh2005/building-poc-agents-in-minutes-23cl)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-1l7g)
-- [What is Agile Project Management?](https://dev.to/stan8086/what-is-agile-project-management-7mk)
-- [The best platform to learn programming for beginners, builders, and career changers](https://dev.to/stack_overflowed/the-best-platform-to-learn-programming-for-beginners-builders-and-career-changers-1a1e)
-- [Oracle SQL Plan Management - 23ai features backported to 19.22](https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51)
+- [Use JSON Patch to Resolve Conflicts](https://dev.to/neighbourhoodie/use-json-patch-to-resolve-conflicts-3coa)
+- [Building Chrome Dinosaur Game in Pygame &lpar;Part 1: Code init &amp; startup&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-1-code-init-startup-4f4j)
+- [HTML isn’t just code. Done right, it’s your strongest SEO weapon.](https://dev.to/web_dev-usman/html-isnt-just-code-done-right-its-your-strongest-seo-weapon-14og)
+- [Understanding WebSockets: A Beginner’s Guide to Real-Time Web Communication day 38 of system design basics](https://dev.to/vincenttommi/understanding-websockets-a-beginners-guide-to-real-time-web-communication-day-38-of-system-design-2m5m)
+- [Yggdrasil Network — Join the Global Mesh](https://dev.to/byteknight/yggdrasil-network-join-the-global-mesh-1kcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
