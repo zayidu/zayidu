@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizando o módulo Motor Fan L9110 com Arduino](https://dev.to/yuricosta/utilizando-o-modulo-motor-fan-l9110-com-arduino-498p)
-- [When I talk to small business owners, I often hear the same thing: “AI sounds great, but isn’t it only for big companies with tech teams?” Here are 7 Ways Small Businesses Can Use AI Today, and a giveaway for DEV Community!](https://dev.to/jaideepparashar/when-i-talk-to-small-business-owners-i-often-hear-the-same-thing-ai-sounds-great-but-isnt-453d)
-- [Optique: Type-Safe CLI Parser Combinators](https://dev.to/hongminhee/optique-type-safe-cli-parser-combinators-39md)
-- [Decoding MongoDB Metrics: A Practical Guide for DBAs, Developers and DevOps Engineers](https://dev.to/herjean7/decoding-mongodb-metrics-a-practical-guide-for-dbas-developers-and-devops-engineers-e3n)
-- [Constructors in thread and Thread priority](https://dev.to/chhavi_joshi_ede276cfcc06/constructors-in-thread-and-thread-priority-30a)
+- [How Bots Killed My WooCommerce Site Until I Automated WP Rocket Filter Caching](https://dev.to/trueqap/how-bots-killed-my-woocommerce-site-until-i-automated-wp-rocket-filter-caching-1ba0)
+- [DOCKER](https://dev.to/datawithsarah/docker-3pk0)
+- [Preparing for your upcoming System Design interview? This guide will get you hired.](https://dev.to/fahimulhaq/preparing-for-your-upcoming-system-design-interview-this-guide-will-get-you-hired-18ha)
+- [Automating Complex Workflows with N8n: A Practical Guide for Regular Users](https://dev.to/onlineproxy/automating-complex-workflows-with-n8n-a-practical-guide-for-regular-users-479f)
+- [Google’s Secret Sauce: Privacy-Safe AI That Amplifies Rare Signals](https://dev.to/aiwithapex/googles-secret-sauce-privacy-safe-ai-that-amplifies-rare-signals-2mce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
