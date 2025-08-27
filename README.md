@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding a Simple Feature Took 3 Hours. Here&#39;s Why.](https://dev.to/js402/vibe-coding-a-simple-feature-took-3-hours-heres-why-4f7m)
-- [The Silent Threat of Overusing Libraries in Programming](https://dev.to/devtechinsights/the-silent-threat-of-overusing-libraries-in-programming-51m9)
-- [DevOps Made Simple: A Step-by-Step Guide to Starting in 2025](https://dev.to/mrigankwastaken/devops-made-simple-a-step-by-step-guide-to-starting-in-2025-594m)
-- [Unlock Your Audience: The Ultimate Guide to SEO-Driven Content Creation 🚀](https://dev.to/rohith200589/unlock-your-audience-the-ultimate-guide-to-seo-driven-content-creation-2eif)
-- [3 Things I Learned Building a Database from Scratch &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/pauletart/3-things-i-learned-building-a-database-from-scratch-and-what-id-do-differently-339m)
+- [What can make AI companies pay for data instead of scraping?](https://dev.to/imajus/what-can-make-ai-companies-pay-for-data-instead-of-scraping-g9p)
+- [Puertas bajo control: cómo reducir excursiones térmicas y consumo eléctrico](https://dev.to/central_detelemetra_027/puertas-bajo-control-como-reducir-excursiones-termicas-y-consumo-electrico-oe2)
+- [Cómo incorporar IA generativa de manera estratégica: metodología para transformar ideas en resultados reales](https://dev.to/aws-builders/como-incorporar-ia-generativa-de-manera-estrategica-metodologia-para-transformar-ideas-en-1od0)
+- [How much money is your business losing on Black Friday and Cyber Monday](https://dev.to/davedavies/how-much-money-is-your-business-losing-on-black-friday-and-cyber-monday-137f)
+- [TDD is Dead &lpar;Again&rpar;. Long Live Design-First Development](https://dev.to/alex_aslam/tdd-is-dead-again-long-live-design-first-development-3oe4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
