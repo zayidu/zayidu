@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From HTML to 3D: Why I Rebuild My Portfolio with React, Vite, Tailwind &amp; FrontQL](https://dev.to/rtnjt_bot/from-html-to-3d-why-i-rebuild-my-portfolio-with-react-vite-tailwind-frontql-a4m)
-- [The death of cloud centralization: Last decade’s internet had a gravity problem](https://dev.to/dev_tips/the-death-of-cloud-centralization-last-decades-internet-had-a-gravity-problem-28pf)
-- [Keep your system healthy with 20 cron jobs every DevOps engineer needs.](https://dev.to/dev_tips/keep-your-system-healthy-with-20-cron-jobs-every-devops-engineer-needs-5ec)
-- [[Boost]](https://dev.to/developia/-3hbl)
-- [Dynamically Switch Between Values and Functions — Without if Statements](https://dev.to/tsuruko12/dynamically-switch-between-values-and-functions-without-if-statements-7m9)
+- [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/navedha_sadhan_caaa090549/revamping-real-time-data-ingestion-for-scalable-media-intelligence-15gc)
+- [Tech With Tim: Python is Changing – Here’s What’s Coming](https://dev.to/vibe_youtube/tech-with-tim-python-is-changing-heres-whats-coming-5bb4)
+- [GameSpot: Pokemon Legends: Z-A | Hawlucha vs. Machamp FULL MATCH | Cinematic Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-hawlucha-vs-machamp-full-match-cinematic-trailer-41pj)
+- [GameSpot: Helldivers 2 - Dust Devils Warbond Gameplay Trailer](https://dev.to/gg_news/gamespot-helldivers-2-dust-devils-warbond-gameplay-trailer-1onj)
+- [The Rust Journey of a JavaScript Developer • Day 3](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-3-f3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
