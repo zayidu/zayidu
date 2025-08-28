@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Create ETL pipeline service skeleton](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd)
-- [check out this tutorial on building your own full-stack AI web app to analyze travel images!](https://dev.to/taiwocodes/check-out-this-tutorial-on-building-your-own-full-stack-ai-web-app-to-analyze-travel-images-300p)
-- [Task:Set up project structure and core infrastructure](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-project-structure-and-core-infrastructure-1l71)
-- [Building Travel Lens AI: Image Analysis With Flask + Gemini on Google Cloud Shell](https://dev.to/taiwocodes/build-a-full-stack-travel-lens-ai-with-gemini-vertex-on-cloud-shell-1mjd)
-- [Guia de python PT-BR #1: Print,Input,Type e classes de variaveis.](https://dev.to/vgermanndev/guia-de-python-1-printinputtype-e-classes-de-variaveis-33ek)
+- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
+- [Building a Multi-Agent Airline Seat Reassignment System with KaibanJS](https://dev.to/kaibanjs/building-a-multi-agent-airline-seat-reassignment-system-with-kaibanjs-4kd8)
+- [How AI Agents Are Revolutionizing Webflow Development in 2025](https://dev.to/224industries/how-ai-agents-are-revolutionizing-webflow-development-in-2025-kp8)
+- [Happy accident with diamond shaped borders](https://dev.to/berilbbj/happy-accident-with-diamond-shaped-borders-18mm)
+- [Did Nano Banana Just Kill Flux Kontext for Quick Edits?](https://dev.to/kevin_garcia_a0fda39cd91e/did-nano-banana-just-kill-flux-kontext-for-quick-edits-126d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
