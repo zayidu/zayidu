@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “All-in-One” Productivity Tools Fail &lpar;and What Actually Works&rpar;](https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7)
-- [Top 7 WordPress Icon Plugins You Should Try](https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed)
-- [Understanding Classification in Supervised Learning](https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e)
-- [Docker Explained: How It Really Works Under the Hood](https://dev.to/itsabhiyan/docker-explained-how-it-really-works-under-the-hood-56np)
-- [Task:Create equipment predictive maintenance models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-equipment-predictive-maintenance-models-4imo)
+- [Reverse Engineering Malware for Pen Testers](https://dev.to/godofgeeks/reverse-engineering-malware-for-pen-testers-1npo)
+- [Use alasql to use sql feature in web](https://dev.to/huaian/use-alasql-to-use-sql-feature-in-web-3plj)
+- [LK21: The Colloportus of Factory Doors 🛡️](https://dev.to/ersajay/lk21-the-colloportus-of-factory-doors-29l8)
+- [The Coding Calendar](https://dev.to/tatjana_kleshnina/the-coding-calendar-5c7k)
+- [Liquefaction: A Paradigm Shift For Programmable Control Of Digital Assets](https://dev.to/dc600/liquefaction-a-paradigm-shift-for-programmable-control-of-digital-assets-5e76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
