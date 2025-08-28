@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-30: Google Compute Engine Persistent Disk Snapshots in GCP](https://dev.to/latchudevops/google-compute-enginepersistent-disk-snapshots-in-gcp-1g0p)
-- [Introducing jsonvx: The Most Customisable JSON Parser, Querier &amp; Formatter for Go](https://dev.to/gbubemi_attah_8220489db16/introducing-jsonvx-the-most-customisable-json-parser-querier-formatter-for-go-52ja)
-- [Task:Create vector database integration for RAG system](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-vector-database-integration-for-rag-system-jdf)
-- [Task:Implement data lake storage with Apache Iceberg](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-data-lake-storage-with-apache-iceberg-2ii5)
-- [Zero-Downtime Deployments on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/kazeem_mohammed/zero-downtime-deployments-on-kubernetes-step-by-step-10c)
+- [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
+- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
+- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
+- [🚀 Node.js + TypeScript dev](https://dev.to/dcdeploy/nodejs-typescript-dev-44m6)
+- [[SOLVED] &quot;evm: execution reverted&quot; Error](https://dev.to/metana/solved-evm-execution-reverted-error-d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
