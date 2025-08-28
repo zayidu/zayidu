@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering Malware for Pen Testers](https://dev.to/godofgeeks/reverse-engineering-malware-for-pen-testers-1npo)
-- [Use alasql to use sql feature in web](https://dev.to/huaian/use-alasql-to-use-sql-feature-in-web-3plj)
-- [LK21: The Colloportus of Factory Doors 🛡️](https://dev.to/ersajay/lk21-the-colloportus-of-factory-doors-29l8)
-- [The Coding Calendar](https://dev.to/tatjana_kleshnina/the-coding-calendar-5c7k)
-- [Liquefaction: A Paradigm Shift For Programmable Control Of Digital Assets](https://dev.to/dc600/liquefaction-a-paradigm-shift-for-programmable-control-of-digital-assets-5e76)
+- [What lens has the least distortion?](https://dev.to/towin/what-lens-has-the-least-distortion-185b)
+- [Recruter un développeur en 2025 : guide complet pour les entreprises tech et non-tech](https://dev.to/beranto_rafalinjanahary_a/recruter-un-developpeur-en-2025-guide-complet-pour-les-entreprises-tech-et-non-tech-27lm)
+- [Why We Built Confidence Scoring Into Our Date Parser &lpar;And Why Every API Should&rpar;](https://dev.to/tomjstone/why-we-built-confidence-scoring-into-our-date-parser-and-why-every-api-should-4k3o)
+- [Embroidery Digitizing Made Easy / Learn the Basics and Beyond](https://dev.to/nasir_e2b7117700a5a655151/embroidery-digitizing-made-easy-learn-the-basics-and-beyond-4cof)
+- [MAX1659ESA: Low-Dropout Linear Regulator for Efficient Power Management](https://dev.to/etei/max1659esa-low-dropout-linear-regulator-for-efficient-power-management-1705)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
