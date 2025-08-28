@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 open-source MCP servers that make AI agents actually learn stuff](https://dev.to/dev_tips/7-open-source-mcp-servers-that-make-ai-agents-actually-learn-stuff-4bch)
-- [Complete Walkthrough Guide: File Integrity Monitoring &lpar;FIM&rpar; on Windows](https://dev.to/samueladeduntan/complete-walkthrough-guide-file-integrity-monitoring-fim-on-windows-1mnl)
-- [DeFAI is Coming: How AI Agents Will Reshape DeFi &lpar;And Why They Need Privacy&rpar;](https://dev.to/savvysid/defai-is-coming-how-ai-agents-will-reshape-defi-and-why-they-need-privacy-3gki)
-- [SOLID Principles In 2025 In Practice With Python And UML Examples](https://dev.to/alinsky/solid-principles-in-2025-in-practice-with-python-and-uml-examples-34l6)
-- [SEMANTIC HTML](https://dev.to/zakayo_mepetu_ded34b09bb1/semantic-html-2cig)
+- [Scaling Bedrock&#39;s Nova Pro Model for High-Traffic Workloads](https://dev.to/aaron_rose_0787cc8b4775a0/scaling-bedrocks-nova-pro-model-for-high-traffic-workloads-2l6k)
+- [Strengthening Libre: Security and Optimization Updates](https://dev.to/libre_anti_social/strengthening-libre-security-and-optimization-updates-5hb2)
+- [LangGraph: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8)
+- [You don’t need 20 tools. Just use Postgres &lpar;seriously!&rpar;](https://dev.to/dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-4be7)
+- [AI AI Sales Agent with Real-Time Data IntegrationSales Agent with Real-Time Data Integration](https://dev.to/paulo_abbcba03b4df70572fc/ai-ai-sales-agent-with-real-time-data-integrationsales-agent-with-real-time-data-integration-154a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
