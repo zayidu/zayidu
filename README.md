@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What lens has the least distortion?](https://dev.to/towin/what-lens-has-the-least-distortion-185b)
-- [Recruter un développeur en 2025 : guide complet pour les entreprises tech et non-tech](https://dev.to/beranto_rafalinjanahary_a/recruter-un-developpeur-en-2025-guide-complet-pour-les-entreprises-tech-et-non-tech-27lm)
-- [Why We Built Confidence Scoring Into Our Date Parser &lpar;And Why Every API Should&rpar;](https://dev.to/tomjstone/why-we-built-confidence-scoring-into-our-date-parser-and-why-every-api-should-4k3o)
-- [Embroidery Digitizing Made Easy / Learn the Basics and Beyond](https://dev.to/nasir_e2b7117700a5a655151/embroidery-digitizing-made-easy-learn-the-basics-and-beyond-4cof)
-- [MAX1659ESA: Low-Dropout Linear Regulator for Efficient Power Management](https://dev.to/etei/max1659esa-low-dropout-linear-regulator-for-efficient-power-management-1705)
+- [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
+- [What Is IT Asset Discovery? The First Step in Preventing IT Asset Loss](https://dev.to/teresa_tran/what-is-it-asset-discovery-the-first-step-in-preventing-it-asset-loss-1ae8)
+- [📌 Day 18: The **Greedy Pattern** &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-18-the-greedy-pattern-amazon-interview-series-357b)
+- [🚀 Day 17: Trie &amp; String Matching Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-17-trie-string-matching-pattern-amazon-interview-series-2kkk)
+- [🚀 Day 16: Matrix Traversal Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-16-matrix-traversal-pattern-amazon-interview-series-55hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
