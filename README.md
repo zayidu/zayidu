@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
-- [What Is IT Asset Discovery? The First Step in Preventing IT Asset Loss](https://dev.to/teresa_tran/what-is-it-asset-discovery-the-first-step-in-preventing-it-asset-loss-1ae8)
-- [📌 Day 18: The **Greedy Pattern** &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-18-the-greedy-pattern-amazon-interview-series-357b)
-- [🚀 Day 17: Trie &amp; String Matching Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-17-trie-string-matching-pattern-amazon-interview-series-2kkk)
-- [🚀 Day 16: Matrix Traversal Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-16-matrix-traversal-pattern-amazon-interview-series-55hl)
+- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
+- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
+- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
+- [Good work George](https://dev.to/grayhat/good-work-george-4a2k)
+- [Will AI Take Developer Jobs?](https://dev.to/donadams50/will-ai-take-developer-jobs-cg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
