@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“Stop Putting login.js in the Wrong Place — Here’s the Industry Standard”](https://dev.to/nikhil_1x/stop-putting-loginjs-in-the-wrong-place-heres-the-industry-standard-3pm3)
-- [Part-32: Google Compute Engine Local SSD in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-32-google-compute-engine-local-ssd-in-google-cloud-platform-gcp-lmo)
-- [5 Testing Patterns That Will Save Your Startup&#39;s Budget](https://dev.to/atechajay/5-testing-patterns-that-will-save-your-startups-budget-4phg)
-- [Have you created one yet ? Here&#39;s a simple tutorial for you to Start Now](https://dev.to/masterdevsabith/have-you-created-one-yet-heres-a-simple-tutorial-for-you-to-start-now-ndm)
-- [How to create a CLI tool in Python](https://dev.to/masterdevsabith/how-to-create-a-cli-tool-in-python-2f52)
+- [From HTML to 3D: Why I Rebuild My Portfolio with React, Vite, Tailwind &amp; FrontQL](https://dev.to/rtnjt_bot/from-html-to-3d-why-i-rebuild-my-portfolio-with-react-vite-tailwind-frontql-a4m)
+- [The death of cloud centralization: Last decade’s internet had a gravity problem](https://dev.to/dev_tips/the-death-of-cloud-centralization-last-decades-internet-had-a-gravity-problem-28pf)
+- [Keep your system healthy with 20 cron jobs every DevOps engineer needs.](https://dev.to/dev_tips/keep-your-system-healthy-with-20-cron-jobs-every-devops-engineer-needs-5ec)
+- [[Boost]](https://dev.to/developia/-3hbl)
+- [Dynamically Switch Between Values and Functions — Without if Statements](https://dev.to/tsuruko12/dynamically-switch-between-values-and-functions-without-if-statements-7m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
