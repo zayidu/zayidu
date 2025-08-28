@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
-- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
-- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
-- [Good work George](https://dev.to/grayhat/good-work-george-4a2k)
-- [Will AI Take Developer Jobs?](https://dev.to/donadams50/will-ai-take-developer-jobs-cg3)
+- [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
+- [Part 2 — Training model on Raspberry Pi Pico for Edge AI Trend Alarm](https://dev.to/ertugrulmutlu/part-2-training-model-on-raspberry-pi-pico-for-edge-ai-trend-alarm-9gf)
+- [The dev’s AI vault: A 7-part series on mastering ChatGPT as a developer &lpar;400+ real coding use cases&rpar;](https://dev.to/dev_tips/the-devs-ai-vault-a-7-part-series-on-mastering-chatgpt-as-a-developer-400-real-coding-use-cases-19a4)
+- [The complete guide to Docker Offload. Beta mode was just launched.](https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8)
+- [📚 My Python Roadmap Journey #1 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-i9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
