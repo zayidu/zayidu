@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
-- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
-- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
-- [🚀 Node.js + TypeScript dev](https://dev.to/dcdeploy/nodejs-typescript-dev-44m6)
-- [[SOLVED] &quot;evm: execution reverted&quot; Error](https://dev.to/metana/solved-evm-execution-reverted-error-d2)
+- [What is n8n? A Complete Beginner’s Guide to Workflow Automation](https://dev.to/snehalkadwe/what-is-n8n-a-complete-beginners-guide-to-workflow-automation-1jg8)
+- [Kenya Crops Data: A Dashboard-Driven Analysis of Agricultural Performance](https://dev.to/g_well/kenya-crops-data-a-dashboard-driven-analysis-of-agricultural-performance-1bfk)
+- [🧠 Born to Learn: A Neural Network&#39;s Guide to Growing Up Human](https://dev.to/sreeni5018/born-to-learn-a-neural-networks-guide-to-growing-up-human-46m3)
+- [Tap a City Generate an Image &lpar;Next.js API + Expo&rpar;](https://dev.to/cathylai/tap-a-city-generate-an-image-nextjs-api-expo-506p)
+- [3446. Sort Matrix by Diagonals](https://dev.to/mdarifulhaque/3446-sort-matrix-by-diagonals-1o3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
