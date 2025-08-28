@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Colin Furze: Secret Garage Part 7 The Most Amazing Door!](https://dev.to/maker_youtube/colin-furze-secret-garage-part-7-the-most-amazing-door-59i6)
-- [File Integrity Monitoring with Wazuh SIEM Tool](https://dev.to/samueladeduntan/file-integrity-monitoring-with-wazuh-siem-tool-5c98)
-- [Adam Savage&#39;s Tested: How Adam Savage&#39;s R2D2 Was Prepared for Display at Smithsonian](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savages-r2d2-was-prepared-for-display-at-smithsonian-3a1b)
-- [Part 1: Why Your Million-Dollar GPU Cluster is 80% Idle and how to fix it](https://dev.to/shohams/part-1-why-your-million-dollar-gpu-cluster-is-80-idle-and-how-to-fix-it-ij0)
-- [GameSpot: Silent Hill f - 10 Minutes of NEW Gameplay](https://dev.to/gg_news/gamespot-silent-hill-f-10-minutes-of-new-gameplay-1f9j)
+- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
+- [Why Human APIs fail as MCP tools &lpar;and how to fix them&rpar;](https://dev.to/arman08/why-human-apis-fail-as-mcp-tools-and-how-to-fix-them-10hm)
+- [Distributed Business Logic with Laravel Observers: Let Models Mind Their Own Business](https://dev.to/raheelshan/distributed-business-logic-with-laravel-observers-let-models-mind-their-own-business-2837)
+- [Building High-Performance Time Series on SQLite with Go: UUIDv7, sqlc, and libSQL](https://dev.to/zanzythebar/building-high-performance-time-series-on-sqlite-with-go-uuidv7-sqlc-and-libsql-3ejb)
+- [Django Signals: The Hidden Superpower Nobody Talks About](https://dev.to/jawadulhadicc/django-signals-the-hidden-superpower-nobody-talks-about-d6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
