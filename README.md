@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem 101: Balancing Consistency, Availability &amp; Partition Tolerance](https://dev.to/manas_tole_039/cap-theorem-101-balancing-consistency-availability-partition-tolerance-2c7f)
-- [Istio in Simple English: Imagine Your Apps Living in a Smart City 🚦🏙️](https://dev.to/hstiwana/istio-in-simple-english-imagine-your-apps-living-in-a-smart-city-h55)
-- [L&#39;IA dans l&#39;industrie agroalimentaire : Focus sur les PME mondiales &lpar;FR VERSION&rpar;](https://dev.to/vendkura/lia-dans-lindustrie-alimentaire-version-francaise-34gh)
-- [Google&#39;s Guardrailed-AMIE: Human-Guarded AI That Clinicians Trust](https://dev.to/aiwithapex/googles-guardrailed-amie-human-guarded-ai-that-clinicians-trust-mbp)
-- [AI in Food Industry &amp; Hospitality: Global SME Focus &lpar;ENG VERSION&rpar;](https://dev.to/vendkura/ai-in-food-industry-hospitality-global-sme-focus-eng-version-1mga)
+- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
+- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
+- [IGN: Honkai: Nexus Anima - Official &#39;Side by Side&#39; Teaser Trailer](https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22)
+- [Saving Plans e Instancias Reservadas en AWS](https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef)
+- [Introducing ConnectOnion: The Simplest Way to Build AI Agents with Python Functions](https://dev.to/dongi/introducing-connectonion-the-simplest-way-to-build-ai-agents-with-python-functions-39f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
