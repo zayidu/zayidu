@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
-- [CVE-2023-42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data](https://dev.to/sharon_42e16b8da44dabde6d/cve-2023-42442-jumpserver-session-replay-leak-could-expose-sensitive-ops-data-2f64)
-- [Breaking Down Tokenization in LLMs: How AI read your words](https://dev.to/aivantuquero/breaking-down-tokenization-in-llms-how-ai-read-your-words-38a2)
-- [SOP:Grafana Dashboard Demo - Windows 11 SOP &amp; Scripts](https://dev.to/yc_lee_53e583a776a9c56e3/sopgrafana-dashboard-demo-windows-11-sop-scripts-5dd3)
-- [Custom WordPress Plugin Development for Ultra High Purity Gas Delivery System Website &lpar;Jewellok&rpar;](https://dev.to/emmaharper20/custom-wordpress-plugin-development-for-ultra-high-purity-gas-delivery-system-website-jewellok-4e9i)
+- [Unblocking Halo Uploads with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/unblocking-halo-uploads-with-safeline-waf-4mam)
+- [Escaping Your Java Habits in Python: Writing Clean, Pythonic Code](https://dev.to/aaronsteers/escaping-your-java-habits-in-python-writing-clean-pythonic-code-2en)
+- [DIY Local AI Stack: Who’s Interested?](https://dev.to/ghotet/diy-local-ai-stack-whos-interested-48bc)
+- [🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes](https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak)
+- [🎨 Prompt Engineering for Beginners: How to Get Better AI Images](https://dev.to/raksbisht/prompt-engineering-for-beginners-how-to-get-better-ai-images-35c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
