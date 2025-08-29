@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Polymorphism in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-polymorphism-in-javascript-i7n)
-- [Integrating Still.js into Next.js: A Hands-On Guide to Remote Microfrontend Components - Architecture Series](https://dev.to/nakassony_bernardo_1d8896/integrating-stilljs-into-nextjs-a-hands-on-guide-to-remote-microfrontend-components--agj)
-- [Day 8 · Retriever looks fine, answers still collapse 〔No.6 Logic Collapse〕](https://dev.to/onestardao/day-8-retriever-looks-fine-answers-still-collapse-no6-logic-collapse-1ecf)
-- [Conectar via ssh con Metasploitable 2](https://dev.to/mister_keto/conectar-via-ssh-con-metasploitable-2-3i80)
-- [Pen Testing Your Mobile Application &lpar;and Its API&rpar;](https://dev.to/jrap/pen-testing-your-mobile-application-and-its-api-4hf2)
+- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
+- [CVE-2023-42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data](https://dev.to/sharon_42e16b8da44dabde6d/cve-2023-42442-jumpserver-session-replay-leak-could-expose-sensitive-ops-data-2f64)
+- [Breaking Down Tokenization in LLMs: How AI read your words](https://dev.to/aivantuquero/breaking-down-tokenization-in-llms-how-ai-read-your-words-38a2)
+- [SOP:Grafana Dashboard Demo - Windows 11 SOP &amp; Scripts](https://dev.to/yc_lee_53e583a776a9c56e3/sopgrafana-dashboard-demo-windows-11-sop-scripts-5dd3)
+- [Custom WordPress Plugin Development for Ultra High Purity Gas Delivery System Website &lpar;Jewellok&rpar;](https://dev.to/emmaharper20/custom-wordpress-plugin-development-for-ultra-high-purity-gas-delivery-system-website-jewellok-4e9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
