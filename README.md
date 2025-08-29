@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [overflow-x: clip &gt; overflow-x: hidden](https://dev.to/avcat/overflow-x-clip-overflow-x-hidden-1eml)
-- [Building High-Performance Apps with Angular v20 and .NET 9](https://dev.to/jamalalsofy/building-high-performance-apps-with-angular-v20-and-net-9-3hjd)
-- [Level Up Your Shaders: Shader Academy Adds WebGPU Compute Challenges, Raymarching &amp; More - 100+ Free Challenges!](https://dev.to/martini002/level-up-your-shaders-shader-academy-adds-webgpu-compute-challenges-raymarching-more-100-l66)
-- [Learn FastAPI the Interactive Way — A Hands-On Tutorial Platform](https://dev.to/stamigos/learn-fastapi-the-interactive-way-a-hands-on-tutorial-platform-lnn)
-- [Create robust CLI apps with Bashly](https://dev.to/meleu/create-robust-cli-apps-with-bashly-5gb0)
+- [GameSpot: 28 Minutes of Phantom Blade 0 Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-28-minutes-of-phantom-blade-0-gameplay-gamescom-2025-demo-1jfd)
+- [GameSpot: Honkai: Nexus Anima - Nexus Bond Teaser Trailer | Side by Side](https://dev.to/gg_news/gamespot-honkai-nexus-anima-nexus-bond-teaser-trailer-side-by-side-3di4)
+- [IGN: Lost Soul Aside: First 26 Minutes of PS5 Pro Gameplay | 4K 60fps](https://dev.to/gg_news/ign-lost-soul-aside-first-26-minutes-of-ps5-pro-gameplay-4k-60fps-3e71)
+- [IGN: Yooka-Replaylee - Official Release Date Trailer | The MIX Fall Game Showcase 2025](https://dev.to/gg_news/ign-yooka-replaylee-official-release-date-trailer-the-mix-fall-game-showcase-2025-4laf)
+- [IGN: Wolfhound - Official Gameplay Trailer | The MIX Fall Game Showcase 2025](https://dev.to/gg_news/ign-wolfhound-official-gameplay-trailer-the-mix-fall-game-showcase-2025-a4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
