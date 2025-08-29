@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
-- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
-- [I Built a 6-Headed AI Intelligence System &lpar;No Subscriptions Required!&rpar;](https://dev.to/jcloud/i-built-a-6-headed-ai-intelligence-system-no-subscriptions-required-a89)
-- [JavaScript One-Liners That Actually Slap 🚀 &lpar;And One That Doesn&#39;t 👀&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6)
-- [A &#39;feature&#39; of AI can become a &#39;nightmare&#39; for an organisation - Here&#39;s how.](https://dev.to/tilakupadhyay/a-feature-of-ai-can-become-a-nightmare-for-an-organisation-heres-how-h4a)
+- [COLORS: Mei Semones - Tora Moyo | A COLORS SHOW](https://dev.to/music_youtube/colors-mei-semones-tora-moyo-a-colors-show-pmf)
+- [IGN: Metal Gear Solid Delta - Where to Find the Thermal Goggles &lpar;All Locations&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-where-to-find-the-thermal-goggles-all-locations-1l1f)
+- [Shared States in React Have Never Been Easier ;&rpar;](https://dev.to/hichemtab-tech/shared-states-in-react-have-never-been-easier--2m6p)
+- [Build a Context-Retaining Chatbot with Langchain-Python](https://dev.to/tapobanray/build-a-context-retaining-chatbot-with-langchain-python-6k7)
+- [Why Signal to Noise Ratio Matters When Building Audio Features on the Web](https://dev.to/rijultp/why-signal-to-noise-ratio-matters-when-building-audio-features-on-the-web-3oi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
