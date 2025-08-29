@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Colin Furze: Have I made the most AMAZING Door](https://dev.to/maker_youtube/colin-furze-have-i-made-the-most-amazing-door-2025)
-- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-f9d)
-- [IGN: Goosebumps: Terror in Little Creek - Official Launch Trailer](https://dev.to/gg_news/ign-goosebumps-terror-in-little-creek-official-launch-trailer-1m41)
-- [Fluent Brighter: A new way to setup Brighter V10](https://dev.to/actor-dev/fluent-brighter-a-new-way-to-setup-brighter-v10s-4jc6)
-- [Fluent Brighter: Uma Nova Forma de Configurar o Brighter V10](https://dev.to/actor-dev/fluent-brighter-uma-nova-forma-de-configurar-o-brighter-v10-3el0)
+- [MY SUMMER INTERNSHIP](https://dev.to/aditya_patel_b7274d71f7c6/my-summer-internship-12h2)
+- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-5ln)
+- [Beyond the Chatbot: How We Scaled an AI Agent to Handle 5X Traffic on AWS](https://dev.to/binyam/beyond-the-chatbot-how-we-scaled-an-ai-agent-to-handle-5x-traffic-on-aws-1eme)
+- [How to Provide Light and Dark Theme Color Variants in PWA](https://dev.to/fedtti/how-to-provide-light-and-dark-theme-color-variants-in-pwa-1mml)
+- [Code is Dead. Long Live Context! Introducing AOKL — The Lingua Franca for the Human+AI Development Era](https://dev.to/evpolov/code-is-dead-long-live-context-introducing-aokl-the-lingua-franca-for-the-humanai-development-2g46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
