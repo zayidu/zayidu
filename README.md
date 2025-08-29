@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16: Halfway Point Victory - Production-Ready CI/CD with Strategic Browser Testing](https://dev.to/clayroach/day-16-halfway-point-victory-production-ready-cicd-with-strategic-browser-testing-2824)
-- [🧠 Using Deductive Reasoning in Programming: Debugging, Design, and Data Logic](https://dev.to/mzunairtariq/using-deductive-reasoning-in-programming-debugging-design-and-data-logic-18hd)
-- [A Dev&#39;s Reflections on AI](https://dev.to/jeffotoni/a-devs-reflections-on-ai-1dp1)
-- [Ética em Inteligência Artificial ?](https://dev.to/jeffotoni/etica-em-inteligencia-artificial--5agl)
-- [Snippet: How to handle non-issue &lpar;client&rpar; exceptions in spring boot](https://dev.to/sineaggi/mini-thought-how-to-handle-non-issue-clinet-exceptions-in-spring-boot-5ccb)
+- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
+- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
+- [I Built a 6-Headed AI Intelligence System &lpar;No Subscriptions Required!&rpar;](https://dev.to/jcloud/i-built-a-6-headed-ai-intelligence-system-no-subscriptions-required-a89)
+- [JavaScript One-Liners That Actually Slap 🚀 &lpar;And One That Doesn&#39;t 👀&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6)
+- [A &#39;feature&#39; of AI can become a &#39;nightmare&#39; for an organisation - Here&#39;s how.](https://dev.to/tilakupadhyay/a-feature-of-ai-can-become-a-nightmare-for-an-organisation-heres-how-h4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
