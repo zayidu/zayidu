@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unblocking Halo Uploads with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/unblocking-halo-uploads-with-safeline-waf-4mam)
-- [Escaping Your Java Habits in Python: Writing Clean, Pythonic Code](https://dev.to/aaronsteers/escaping-your-java-habits-in-python-writing-clean-pythonic-code-2en)
-- [DIY Local AI Stack: Who’s Interested?](https://dev.to/ghotet/diy-local-ai-stack-whos-interested-48bc)
-- [🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes](https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak)
-- [🎨 Prompt Engineering for Beginners: How to Get Better AI Images](https://dev.to/raksbisht/prompt-engineering-for-beginners-how-to-get-better-ai-images-35c9)
+- [When people hear I’ve written 40+ books on AI in just over a year, the first question is always: “How do you write so much without burning out?” The answer isn’t coffee or late nights. It’s systems + AI. Here’s my exact behind-the-scenes workflow:](https://dev.to/jaideepparashar/when-people-hear-ive-written-40-books-on-ai-in-just-over-a-year-the-first-question-is-always-11m3)
+- [No Laying Up Podcast: 1063: Mic&#39;d up with Matt Ryan at the Creator Classic](https://dev.to/youtube_golf/no-laying-up-podcast-1063-micd-up-with-matt-ryan-at-the-creator-classic-49b9)
+- [How I Write 2,000+ Words a Day with AI](https://dev.to/jaideepparashar/how-i-write-2000-words-a-day-with-ai-2l30)
+- [A2A &lpar;Agent to Agent&rpar;: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/a2a-agent-to-agent-core-concepts-2gp2)
+- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-3ajh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
