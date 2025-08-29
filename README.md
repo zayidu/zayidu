@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
-- [Angular Migrate To New Control Flow Syntax](https://dev.to/nagarlalit/angular-migrate-to-new-control-flow-syntax-421n)
-- [From Side Project to Full-Fledged Platform: Lessons from Building Modeldraw](https://dev.to/martin-staufcik/from-side-project-to-full-fledged-platform-lessons-from-building-modeldraw-1ep1)
-- [Deploy SvelteKit node servers with docker](https://dev.to/lukehagar/deploy-sveltekit-node-servers-with-docker-1ep7)
-- [Spec-Driven Development: Stop &quot;Vibe Coding&quot; and Start Building Software That Actually Makes Sense](https://dev.to/yijohnhuang/spec-driven-development-stop-vibe-coding-and-start-building-software-that-actually-makes-sense-3h1d)
+- [Day 16: Halfway Point Victory - Production-Ready CI/CD with Strategic Browser Testing](https://dev.to/clayroach/day-16-halfway-point-victory-production-ready-cicd-with-strategic-browser-testing-2824)
+- [🧠 Using Deductive Reasoning in Programming: Debugging, Design, and Data Logic](https://dev.to/mzunairtariq/using-deductive-reasoning-in-programming-debugging-design-and-data-logic-18hd)
+- [A Dev&#39;s Reflections on AI](https://dev.to/jeffotoni/a-devs-reflections-on-ai-1dp1)
+- [Ética em Inteligência Artificial ?](https://dev.to/jeffotoni/etica-em-inteligencia-artificial--5agl)
+- [Snippet: How to handle non-issue &lpar;client&rpar; exceptions in spring boot](https://dev.to/sineaggi/mini-thought-how-to-handle-non-issue-clinet-exceptions-in-spring-boot-5ccb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
