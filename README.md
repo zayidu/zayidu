@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MY SUMMER INTERNSHIP](https://dev.to/aditya_patel_b7274d71f7c6/my-summer-internship-12h2)
-- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-5ln)
-- [Beyond the Chatbot: How We Scaled an AI Agent to Handle 5X Traffic on AWS](https://dev.to/binyam/beyond-the-chatbot-how-we-scaled-an-ai-agent-to-handle-5x-traffic-on-aws-1eme)
-- [How to Provide Light and Dark Theme Color Variants in PWA](https://dev.to/fedtti/how-to-provide-light-and-dark-theme-color-variants-in-pwa-1mml)
-- [Code is Dead. Long Live Context! Introducing AOKL — The Lingua Franca for the Human+AI Development Era](https://dev.to/evpolov/code-is-dead-long-live-context-introducing-aokl-the-lingua-franca-for-the-humanai-development-2g46)
+- [Why Serverless is the Secret Weapon Every SaaS Founder Wishes They Knew About Sooner](https://dev.to/saifiimuhammad/why-serverless-is-the-secret-weapon-every-saas-founder-wishes-they-knew-about-sooner-578c)
+- [Super Apps Under Scrutiny: Regulatory and Risk Challenges](https://dev.to/foxdata/super-apps-under-scrutiny-regulatory-and-risk-challenges-4m8n)
+- [Solving the Classic Two Sum Problem &lpar;FAANG-Style&rpar;](https://dev.to/khouloudzaiter/solving-the-classic-two-sum-problem-faang-style-4kd5)
+- [How I Built a Free Shopify Products Scraper Using ElectronJS](https://dev.to/startupnoon/how-i-built-a-free-shopify-products-scraper-using-electronjs-p3m)
+- [Demystifying Promises, Async, and Await in JavaScript/TypeScript with Playwright and Cypress](https://dev.to/anirseven/demystifying-promises-async-and-await-in-javascripttypescript-with-playwright-and-cypress-2g3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
