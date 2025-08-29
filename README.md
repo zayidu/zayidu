@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Balancing Type I and Type II Errors in Medical Decisions: A Kenyan Perspective](https://dev.to/loryne_joy/balancing-type-i-and-type-ii-errors-in-medical-decisions-a-kenyan-perspective-2adn)
-- [Your app isn’t IPv6-ready: a 30-minute checklist](https://dev.to/dev_tips/your-app-isnt-ipv6-ready-a-30-minute-checklist-1n2d)
-- [PHP: When to Enum?](https://dev.to/spo0q/php-when-to-enum-45me)
-- [&lt;3 RSS for learning](https://dev.to/johntellsall/3-rss-for-learning-720)
-- [Implementing Semantic HTML Effectively](https://dev.to/stateman_7/implementing-semantic-html-effectively-2jg1)
+- [Zero-touch Firebase SDKs with one command and CI magic](https://dev.to/dev_tips/zero-touch-firebase-sdks-with-one-command-and-ci-magic-3hd8)
+- [Log013 - AWS, Debian 13, Fail2ban, Logrotate, Docker, AlmaLinux, Apache, AWS S3, CloudFront, AWS CLI.](https://dev.to/aka_artem_dd17be93c/log013-aws-debian-13-fail2ban-logrotate-docker-almalinux-apache-aws-s3-cloudfront-aws-34j)
+- [The System Didn’t Ask, It Just Made You Comply](https://dev.to/agustin_v_startari/the-system-didnt-ask-it-just-made-you-comply-2h69)
+- [IGN: Metal Gear Solid Delta Plays It Safer Than RE4 Remake, Here’s Why That Makes Sense - Beyond Clips](https://dev.to/gg_news/ign-metal-gear-solid-delta-plays-it-safer-than-re4-remake-heres-why-that-makes-sense-beyond-ige)
+- [IGN: Street Fighter 6 x Monster Hunter Wilds - Official Collab Event Announcement Trailer](https://dev.to/gg_news/ign-street-fighter-6-x-monster-hunter-wilds-official-collab-event-announcement-trailer-49gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
