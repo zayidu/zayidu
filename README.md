@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Phantom Blade 0 - 29 Minutes of Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-phantom-blade-0-29-minutes-of-gameplay-gamescom-2025-demo-3fjf)
-- [🔥 Stop Writing Boilerplate! How Formik + React Hooks Can Save You 500 Hours This Year 🔥](https://dev.to/ekwoster/stop-writing-boilerplate-how-formik-react-hooks-can-save-you-500-hours-this-year-480c)
-- [AI just killed the coding interview: Why LeetCode won’t get you hired anymore](https://dev.to/dev_tips/ai-just-killed-the-coding-interview-why-leetcode-wont-get-you-hired-anymore-1fd)
-- [This is a submission for the [Midnight Network &quot;Privacy First&quot; Challenge]](https://dev.to/davinceleecode/this-is-a-submission-for-the-midnight-network-privacy-first-challenge-41m1)
-- [IGN: Why You Should Check Out SHINOBI: Art of Vengeance](https://dev.to/gg_news/ign-why-you-should-check-out-shinobi-art-of-vengeance-21ff)
+- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
+- [Angular Migrate To New Control Flow Syntax](https://dev.to/nagarlalit/angular-migrate-to-new-control-flow-syntax-421n)
+- [From Side Project to Full-Fledged Platform: Lessons from Building Modeldraw](https://dev.to/martin-staufcik/from-side-project-to-full-fledged-platform-lessons-from-building-modeldraw-1ep1)
+- [Deploy SvelteKit node servers with docker](https://dev.to/lukehagar/deploy-sveltekit-node-servers-with-docker-1ep7)
+- [Spec-Driven Development: Stop &quot;Vibe Coding&quot; and Start Building Software That Actually Makes Sense](https://dev.to/yijohnhuang/spec-driven-development-stop-vibe-coding-and-start-building-software-that-actually-makes-sense-3h1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
