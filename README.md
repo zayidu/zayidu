@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: Solving a Storage Problem with Junk!](https://dev.to/maker_youtube/i-like-to-make-stuff-solving-a-storage-problem-with-junk-8ok)
-- [Rick Beato: This Changes How You See the Entire Guitar Neck](https://dev.to/music_youtube/rick-beato-this-changes-how-you-see-the-entire-guitar-neck-9ng)
-- [Why Sample Rate Matters When Building Audio Features in the Browser](https://dev.to/rijultp/why-sample-rate-matters-when-building-audio-features-in-the-browser-4982)
-- [Creating a dynamic website in 45mins using HTML, CSS and Javascript](https://dev.to/jay-x/creating-a-dynamic-website-in-45mins-using-html-css-and-javascript-21m4)
-- [Generative AI for Business: Beyond ChatGPT - Innovation, Compliance &amp; Use Cases](https://dev.to/zestminds_technologies_c1/generative-ai-for-business-beyond-chatgpt-innovation-compliance-use-cases-34od)
+- [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
+- [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
+- [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
+- [How to Protect/secure Your Callback &amp; Webhook Endpoints](https://dev.to/msnmongare/how-to-protectsecure-your-callback-webhook-endpoints-oi2)
+- [&quot;Rust and TypeScript&quot;](https://dev.to/gautammanak1/rust-and-typescript-4h3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
