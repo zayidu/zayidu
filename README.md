@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
-- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
-- [⚛️ React Native Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/adeoti_israel_78eb9cfa5ac/react-native-changed-the-way-i-build-it-can-change-yours-too-in-2025-2aja)
-- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: Price Is Right!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-price-is-right-2l6f)
-- [I Like To Make Stuff: Yard Sale Junk to ULTIMATE Gear Storage!](https://dev.to/maker_youtube/i-like-to-make-stuff-yard-sale-junk-to-ultimate-gear-storage-l0b)
+- [Fishing World - Devlog #0](https://dev.to/doormatt_/fishing-world-devlog-0-daj)
+- [My Tactics With Research Projects](https://dev.to/jimw/my-tactics-with-research-projects-2nf3)
+- [Here&#39;s where e-waste recycling is now—and how Canada &lpar;and Québec&rpar; is doing.](https://dev.to/expertise_enviropass_0155/heres-where-e-waste-recycling-is-now-and-how-canada-and-quebec-is-doing-221a)
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
+- [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
