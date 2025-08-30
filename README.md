@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: The Conjuring Universe Timeline in Chronological Order &lpar;2025 Edition&rpar;](https://dev.to/gg_news/ign-the-conjuring-universe-timeline-in-chronological-order-2025-edition-1adn)
-- [IGN: Comix Zero - 26 Minutes of Gameplay](https://dev.to/gg_news/ign-comix-zero-26-minutes-of-gameplay-4b97)
-- [Implement keyboard shortcuts in your react app](https://dev.to/lalitkhu/implement-keyboard-shortcuts-in-your-react-app-475c)
-- [Continuous Feedback with Digma: How to Enhance Your Development in IntelliJ IDEA](https://dev.to/janmejay_swain/continuous-feedback-with-digma-how-to-enhance-your-development-in-intellij-idea-17gn)
-- [Day 80: The Keyboard Rebellion &amp; The Weight of &quot;Enough&quot;](https://dev.to/casperday11/day-80-the-keyboard-rebellion-the-weight-of-enough-4ccm)
+- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
+- [5 Signs It&#39;s Time to Replace Your PC Instead of Upgrading to Windows 11](https://dev.to/theitserviceblog/5-signs-its-time-to-replace-your-pc-instead-of-upgrading-to-windows-11-3k53)
+- [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
+- [[Boost]](https://dev.to/bekbrace/-51m9)
+- [Compliance in the Cloud Isn’t a Checkbox](https://dev.to/myram/compliance-in-the-cloud-isnt-a-checkbox-29f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
