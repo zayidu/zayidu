@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
-- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
-- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
-- [Milieu vriendelijke matrassen: Hoe ze passen binnen een duurzaam inkoopbeleid](https://dev.to/bremafa/milieu-vriendelijke-matrassen-hoe-ze-passen-binnen-een-duurzaam-inkoopbeleid-3d0e)
-- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
+- [Design System Data Driven: como coletar métricas e transformar código em decisões](https://dev.to/victor-assis/design-system-data-driven-como-coletar-metricas-e-transformar-codigo-em-decisoes-22n5)
+- [Introducing Flexi-Cache : The Redis-Like In-Memory Cache for Node.js](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-the-redis-lite-in-memory-cache-for-nodejs-3do3)
+- [Easily Create an XLSX Output by Using Only HTML Table Component](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
+- [30 Days of Code - Day 29:](https://dev.to/akshitaexe/30-days-of-code-day-29-12ob)
+- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
