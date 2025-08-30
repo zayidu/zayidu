@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When we&#39;re together &lpar;Original&rpar;](https://dev.to/jacklehamster/when-were-together-original-22gp)
-- [Migrating EC2 Instances Across Accounts &amp; Regions Using AMI Sharing](https://dev.to/aws-builders/migrating-ec2-instances-across-accounts-regions-using-ami-sharing-44j3)
-- [The Future of Personal Branding in Tech: 3 Predictions You Can’t Afford to Ignore](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-tech-3-predictions-you-cant-afford-to-ignore-1gli)
-- [OTEL Observability with Langfuse for Strands Agents](https://dev.to/aws-builders/otel-observability-with-langfuse-for-strands-agents-3eon)
-- [Top Online Python Compilers to Practice and Learn Python](https://dev.to/suraj_kumar_fb57ae0928df2/top-online-python-compilers-to-practice-and-learn-python-6d6)
+- [Danny Maude: One Move To Help You Pure Every Iron &amp; Hybrid Shot You Hit](https://dev.to/youtube_golf/danny-maude-one-move-to-help-you-pure-every-iron-hybrid-shot-you-hit-7of)
+- [I built an app for travelers to explore dishes from around the world. Would love feedback!](https://dev.to/slim_bold/i-built-an-app-for-travelers-to-explore-dishes-from-around-the-world-would-love-feedback-2i66)
+- [Industry 4.0 for SMEs: Making Digital Transformation Affordable](https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc)
+- [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
+- [Will Blockchain Shape the Future of Mobile App Development?](https://dev.to/williamsj04/will-blockchain-shape-the-future-of-mobile-app-development-nod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
