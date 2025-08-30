@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌳 Blog 1 — Height &amp; Depth Pattern &lpar;Deep dive + Java code for classic problems&rpar;](https://dev.to/devcorner/blog-1-height-depth-pattern-deep-dive-java-code-for-classic-problems-3ng0)
-- [🔥 One Loop Traversal &lpar;Preorder, Inorder, Postorder Together&rpar;](https://dev.to/devcorner/one-loop-traversal-preorder-inorder-postorder-together-169h)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `71`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-71-2d29)
-- [Why in person teams 31% less Productive? Here in article discuss some remote agency paradox](https://dev.to/pratham_naik_project_manager/why-in-person-teams-31-less-productive-here-in-article-discuss-some-remote-agency-paradox-296i)
-- [Create Awesome Link Effect](https://dev.to/masterdevsabith/create-awesome-link-effect-4o92)
+- [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
+- [Axios vs Fetch: Understanding the Differences in JavaScript HTTP Requests](https://dev.to/safal_bhandari/axios-vs-fetch-understanding-the-differences-in-javascript-http-requests-97d)
+- [Finite States Machines &lpar;in C&rpar;](https://dev.to/rdentato/finite-states-machines-in-c-129n)
+- [Why Caching Is Both a Savior and a Trouble-Maker](https://dev.to/dct_technology/why-caching-is-both-a-savior-and-a-trouble-maker-52aj)
+- [IGN: Helldivers 2 Review Update - Now on Xbox](https://dev.to/gg_news/ign-helldivers-2-review-update-now-on-xbox-5fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
