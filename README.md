@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of the Meta: Weaving JavaScript&#39;s Runtime Tapestry with Proxies, Reflect, and Decorators](https://dev.to/alex_aslam/the-art-of-the-meta-weaving-javascripts-runtime-tapestry-with-proxies-reflect-and-decorators-5km)
-- [Speed-run a SvelteKit app with the MOTA starter](https://dev.to/rastislavcore/speed-run-a-sveltekit-app-with-the-mota-starter-2ggc)
-- [Clean MVC Architecture in Node.js Without Express - A Laravel Inspired Approach](https://dev.to/alamin_php/clean-mvc-architecture-in-nodejs-without-express-a-laravel-inspired-approach-2oig)
-- [🛠️ 7 Mistakes I Made Writing My First Spring Boot APIs &lpar;And What I Do Differently Now&rpar;](https://dev.to/ashishsaranshakya/7-mistakes-i-made-writing-my-first-spring-boot-apis-and-what-i-do-differently-now-287)
-- [I built a Backend web Framework from Scratch in C++](https://dev.to/hamzahassanain0/i-built-a-backend-web-framework-from-scratch-in-c-41n8)
+- [Daily DSA and System Design Journal - 3](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-3-2ech)
+- [Find the Next Instagram Stars Before They Explode: AI-Powered Growth Predictor](https://dev.to/vec21/find-the-next-instagram-stars-before-they-explode-ai-powered-growth-predictor-4f7c)
+- [Horizon World Tutorial - Maze Runner - Part 2 - Game and Player Controller](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-2-game-and-player-controller-fo7)
+- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-4-5057)
+- [Animating Pixel Art Fabric with Unity Shader](https://dev.to/sarasol/animating-pixel-art-fabric-with-unity-shader-6f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
