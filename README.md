@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
-- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
-- [AnyProxy: Redirect Network Requests Without Server Modifications](https://dev.to/youngluo/anyproxy-redirect-network-requests-without-server-modifications-8np)
-- [Retries, Dead Letter Queues &amp; Parking Lot: API Integration Essentials](https://dev.to/dakshim/retries-dead-letter-queues-parking-lot-api-integration-essentials-2g8d)
-- [Are We Reaching The Limit Of AI Reliability?](https://dev.to/stephanie_ozor_1e7b693226/are-we-reaching-the-limit-of-ai-reliability-58g7)
+- [How to Find a Job in Tech: Practical Advice for Navigating a Tough Market](https://dev.to/miasalazar/how-to-find-a-job-in-tech-practical-advice-for-navigating-a-tough-market-219h)
+- [Symfony as JWT provider](https://dev.to/browsely_a899a03e6654ba38/symfony-as-jwt-provider-28a4)
+- [Cashie Budget Planner](https://dev.to/pixeljuggernaut/cashie-budget-planner-34ij)
+- [From Web to Mobile: Completing My React Native Journey with Maximilian Schwarzmüller](https://dev.to/sidharth_sangelia/from-web-to-mobile-completing-my-react-native-journey-with-maximilian-schwarzmuller-4l)
+- [LinkedIn Profile Deep Research with Insights + Bright Data Agent Analysis + n8n with Google Gemini](https://dev.to/ranjancse/linkedin-profile-deep-research-with-insights-bright-data-agent-analysis-n8n-with-google-gemini-3i7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
