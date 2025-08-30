@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clean Code: How Refactoring Beats Callback Hell](https://dev.to/emiderex/from-chaos-to-clean-code-how-refactoring-beats-callback-hell-36l7)
-- [aidiscord.bot – Bring Your Documentation Directly Into Discord](https://dev.to/aidiscordbot/aidiscordbot-bring-your-documentation-directly-into-discord-mm)
-- [Best CSS Tutorial: Roadmap, Tips, and Common Mistakes to Avoid](https://dev.to/tpointtechblog/best-css-tutorial-roadmap-tips-and-common-mistakes-to-avoid-1982)
-- [SECURITY ALERT: Hacker Used AI to Automate $500K Cybercrime Spree - Every Developer Needs to Read This](https://dev.to/shiva_shanker_k/security-alert-hacker-used-ai-to-automate-500k-cybercrime-spree-every-developer-needs-to-read-34ea)
-- [Microsoft Teams Just Dropped 26 Game-Changing Features - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-teams-just-dropped-26-game-changing-features-heres-what-developers-need-to-know-8c4)
+- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
+- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
+- [AnyProxy: Redirect Network Requests Without Server Modifications](https://dev.to/youngluo/anyproxy-redirect-network-requests-without-server-modifications-8np)
+- [Retries, Dead Letter Queues &amp; Parking Lot: API Integration Essentials](https://dev.to/dakshim/retries-dead-letter-queues-parking-lot-api-integration-essentials-2g8d)
+- [Are We Reaching The Limit Of AI Reliability?](https://dev.to/stephanie_ozor_1e7b693226/are-we-reaching-the-limit-of-ai-reliability-58g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
