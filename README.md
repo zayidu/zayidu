@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design System Data Driven: como coletar métricas e transformar código em decisões](https://dev.to/victor-assis/design-system-data-driven-como-coletar-metricas-e-transformar-codigo-em-decisoes-22n5)
-- [Introducing Flexi-Cache : The Redis-Like In-Memory Cache for Node.js](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-the-redis-lite-in-memory-cache-for-nodejs-3do3)
-- [Easily Create an XLSX Output by Using Only HTML Table Component](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
-- [30 Days of Code - Day 29:](https://dev.to/akshitaexe/30-days-of-code-day-29-12ob)
-- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
+- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
+- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
+- [⚛️ React Native Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/adeoti_israel_78eb9cfa5ac/react-native-changed-the-way-i-build-it-can-change-yours-too-in-2025-2aja)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: Price Is Right!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-price-is-right-2l6f)
+- [I Like To Make Stuff: Yard Sale Junk to ULTIMATE Gear Storage!](https://dev.to/maker_youtube/i-like-to-make-stuff-yard-sale-junk-to-ultimate-gear-storage-l0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
