@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Instagram Identify Abnormal Environments by Detecting Browser Plugins, Extensions, or Debugging Tools](https://dev.to/kagome/does-instagram-identify-abnormal-environments-by-detecting-browser-plugins-extensions-or-4gbd)
-- [Integrating BDD with Microservices Testing: A Practical, Human-First Walkthrough](https://dev.to/ronika_kashyap/integrating-bdd-with-microservices-testing-a-practical-human-first-walkthrough-598c)
-- [Step-by-Step Guide to Bypass SSL Pinning with Frida](https://dev.to/r0x5r/step-by-step-guide-to-bypass-ssl-pinning-with-frida-3bpl)
-- [AyeWatch - AI Internet Monitor Agent, for any sources or website with custom alert rules](https://dev.to/raj_savaliya/ayewatch-ai-internet-monitor-scrape-and-monitor-data-from-any-sources-or-website-reliably-at-213e)
-- [Solving Parenting Pain Points with Generative AI — A Potty-Training Support Device Built with Kiro and M5Stack](https://dev.to/aws-builders/solving-parenting-pain-points-with-generative-ai-a-potty-training-support-device-built-with-kiro-3e2o)
+- [From Chaos to Clean Code: How Refactoring Beats Callback Hell](https://dev.to/emiderex/from-chaos-to-clean-code-how-refactoring-beats-callback-hell-36l7)
+- [aidiscord.bot – Bring Your Documentation Directly Into Discord](https://dev.to/aidiscordbot/aidiscordbot-bring-your-documentation-directly-into-discord-mm)
+- [Best CSS Tutorial: Roadmap, Tips, and Common Mistakes to Avoid](https://dev.to/tpointtechblog/best-css-tutorial-roadmap-tips-and-common-mistakes-to-avoid-1982)
+- [SECURITY ALERT: Hacker Used AI to Automate $500K Cybercrime Spree - Every Developer Needs to Read This](https://dev.to/shiva_shanker_k/security-alert-hacker-used-ai-to-automate-500k-cybercrime-spree-every-developer-needs-to-read-34ea)
+- [Microsoft Teams Just Dropped 26 Game-Changing Features - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-teams-just-dropped-26-game-changing-features-heres-what-developers-need-to-know-8c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
