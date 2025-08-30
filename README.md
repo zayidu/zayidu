@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Operates Hacksmith&#39;s Fallout Power Armor Hand!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-operates-hacksmiths-fallout-power-armor-hand-25ac)
-- [KEXP: Valerie June - All I Really Wanna Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-all-i-really-wanna-do-live-on-kexp-3pbo)
-- [KEXP: Valerie June - Endless Tree &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-endless-tree-live-on-kexp-1l7j)
-- [KEXP: Valerie June - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-full-performance-live-on-kexp-lfj)
-- [Golf.com: How Cypress Point Stays Perfect | Super Secrets At The Walker Cup](https://dev.to/youtube_golf/golfcom-how-cypress-point-stays-perfect-super-secrets-at-the-walker-cup-5a25)
+- [🌳 Blog 1 — Height &amp; Depth Pattern &lpar;Deep dive + Java code for classic problems&rpar;](https://dev.to/devcorner/blog-1-height-depth-pattern-deep-dive-java-code-for-classic-problems-3ng0)
+- [🔥 One Loop Traversal &lpar;Preorder, Inorder, Postorder Together&rpar;](https://dev.to/devcorner/one-loop-traversal-preorder-inorder-postorder-together-169h)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `71`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-71-2d29)
+- [Why in person teams 31% less Productive? Here in article discuss some remote agency paradox](https://dev.to/pratham_naik_project_manager/why-in-person-teams-31-less-productive-here-in-article-discuss-some-remote-agency-paradox-296i)
+- [Create Awesome Link Effect](https://dev.to/masterdevsabith/create-awesome-link-effect-4o92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
