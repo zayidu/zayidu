@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find a Job in Tech: Practical Advice for Navigating a Tough Market](https://dev.to/miasalazar/how-to-find-a-job-in-tech-practical-advice-for-navigating-a-tough-market-219h)
-- [Symfony as JWT provider](https://dev.to/browsely_a899a03e6654ba38/symfony-as-jwt-provider-28a4)
-- [Cashie Budget Planner](https://dev.to/pixeljuggernaut/cashie-budget-planner-34ij)
-- [From Web to Mobile: Completing My React Native Journey with Maximilian Schwarzmüller](https://dev.to/sidharth_sangelia/from-web-to-mobile-completing-my-react-native-journey-with-maximilian-schwarzmuller-4l)
-- [LinkedIn Profile Deep Research with Insights + Bright Data Agent Analysis + n8n with Google Gemini](https://dev.to/ranjancse/linkedin-profile-deep-research-with-insights-bright-data-agent-analysis-n8n-with-google-gemini-3i7p)
+- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
+- [Leetcode - 52. N-Queens II](https://dev.to/rakeshreddy512/leetcode-52-n-queens-ii-2m7k)
+- [Master n8n: The Developer&#39;s Automation Superpower 🚀](https://dev.to/devsj17/master-n8n-the-developers-automation-superpower-2hfe)
+- [ConsciousCoin: When Consciousness Becomes Its Own Proof](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciouscoin-when-consciousness-becomes-its-own-proof-5dla)
+- [Understanding `@State` in SwiftUI: How It Works Under the Hood](https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
