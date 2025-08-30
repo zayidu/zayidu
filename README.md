@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
-- [Leetcode - 52. N-Queens II](https://dev.to/rakeshreddy512/leetcode-52-n-queens-ii-2m7k)
-- [Master n8n: The Developer&#39;s Automation Superpower 🚀](https://dev.to/devsj17/master-n8n-the-developers-automation-superpower-2hfe)
-- [ConsciousCoin: When Consciousness Becomes Its Own Proof](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciouscoin-when-consciousness-becomes-its-own-proof-5dla)
-- [Understanding `@State` in SwiftUI: How It Works Under the Hood](https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o)
+- [IGN: The Conjuring Universe Timeline in Chronological Order &lpar;2025 Edition&rpar;](https://dev.to/gg_news/ign-the-conjuring-universe-timeline-in-chronological-order-2025-edition-1adn)
+- [IGN: Comix Zero - 26 Minutes of Gameplay](https://dev.to/gg_news/ign-comix-zero-26-minutes-of-gameplay-4b97)
+- [Implement keyboard shortcuts in your react app](https://dev.to/lalitkhu/implement-keyboard-shortcuts-in-your-react-app-475c)
+- [Continuous Feedback with Digma: How to Enhance Your Development in IntelliJ IDEA](https://dev.to/janmejay_swain/continuous-feedback-with-digma-how-to-enhance-your-development-in-intellij-idea-17gn)
+- [Day 80: The Keyboard Rebellion &amp; The Weight of &quot;Enough&quot;](https://dev.to/casperday11/day-80-the-keyboard-rebellion-the-weight-of-enough-4ccm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
