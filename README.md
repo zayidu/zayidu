@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
-- [5 Signs It&#39;s Time to Replace Your PC Instead of Upgrading to Windows 11](https://dev.to/theitserviceblog/5-signs-its-time-to-replace-your-pc-instead-of-upgrading-to-windows-11-3k53)
-- [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
-- [[Boost]](https://dev.to/bekbrace/-51m9)
-- [Compliance in the Cloud Isn’t a Checkbox](https://dev.to/myram/compliance-in-the-cloud-isnt-a-checkbox-29f2)
+- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
+- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
+- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
+- [Milieu vriendelijke matrassen: Hoe ze passen binnen een duurzaam inkoopbeleid](https://dev.to/bremafa/milieu-vriendelijke-matrassen-hoe-ze-passen-binnen-een-duurzaam-inkoopbeleid-3d0e)
+- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
