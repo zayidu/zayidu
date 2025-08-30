@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Assinando arquivos PDF com certificado digital em Go](https://dev.to/alexsetta/assinando-arquivos-pdf-com-certificado-digital-em-go-haf)
-- [222](https://dev.to/alikolahdoozan/222-17df)
-- [Create your own personal website for free — A guide to using GitHub Pages](https://dev.to/cat_dogrunning_in_the_s/create-your-own-personal-website-for-free-a-guide-to-using-github-pages-1f7a)
-- [揭秘 Nano Banana新玩法：Google 的 AI 图像编辑新王炸](https://dev.to/yang_ella_f2a3e16ccb54550/jie-mi-nano-bananaxin-wan-fa-google-de-ai-tu-xiang-bian-ji-xin-wang-zha-42ml)
-- [Can Minimal APIs use trusted connections?](https://dev.to/rodf/can-minimal-apis-use-trusted-connections-lia)
+- [Day 17: Building Topology Visualization with AI-Assisted Health Monitoring](https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id)
+- [🧭 Master Roadmap to Problem Identification](https://dev.to/devcorner/master-roadmap-to-problem-identification-5c1)
+- [How to Identify Recursion Problems in Coding Interviews](https://dev.to/devcorner/how-to-identify-recursion-problems-in-coding-interviews-5d03)
+- [Recursion vs Dynamic Programming: How to Identify the Right Approach](https://dev.to/devcorner/recursion-vs-dynamic-programming-how-to-identify-the-right-approach-3f60)
+- [GameSpot: Phantom Blade 0 - Hard Mode, Combat, And More Explained](https://dev.to/gg_news/gamespot-phantom-blade-0-hard-mode-combat-and-more-explained-36mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
