@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
-- [Axios vs Fetch: Understanding the Differences in JavaScript HTTP Requests](https://dev.to/safal_bhandari/axios-vs-fetch-understanding-the-differences-in-javascript-http-requests-97d)
-- [Finite States Machines &lpar;in C&rpar;](https://dev.to/rdentato/finite-states-machines-in-c-129n)
-- [Why Caching Is Both a Savior and a Trouble-Maker](https://dev.to/dct_technology/why-caching-is-both-a-savior-and-a-trouble-maker-52aj)
-- [IGN: Helldivers 2 Review Update - Now on Xbox](https://dev.to/gg_news/ign-helldivers-2-review-update-now-on-xbox-5fid)
+- [When we&#39;re together &lpar;Original&rpar;](https://dev.to/jacklehamster/when-were-together-original-22gp)
+- [Migrating EC2 Instances Across Accounts &amp; Regions Using AMI Sharing](https://dev.to/aws-builders/migrating-ec2-instances-across-accounts-regions-using-ami-sharing-44j3)
+- [The Future of Personal Branding in Tech: 3 Predictions You Can’t Afford to Ignore](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-tech-3-predictions-you-cant-afford-to-ignore-1gli)
+- [OTEL Observability with Langfuse for Strands Agents](https://dev.to/aws-builders/otel-observability-with-langfuse-for-strands-agents-3eon)
+- [Top Online Python Compilers to Practice and Learn Python](https://dev.to/suraj_kumar_fb57ae0928df2/top-online-python-compilers-to-practice-and-learn-python-6d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
