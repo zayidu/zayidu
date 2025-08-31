@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Figma-to-n8n “Ninja Move”: Zero-Touch Asset Sync &lpar;with Chat Commands + AI Quality Checks&rpar;](https://dev.to/benbenjamin/the-figma-to-n8n-ninja-move-zero-touch-asset-sync-with-chat-commands-ai-quality-checks-50m8)
-- [5 Things I Wish I Knew Before Studying for CompTIA Security+](https://dev.to/leonardkachi/5-things-i-wish-i-knew-before-studying-for-comptia-security-19i)
-- [Unsupervised machine learning: K-Means &lpar;Delivery Fleet Driver dataset&rpar;](https://dev.to/ashwani_kumar_a70ee558a2c/unsupervised-machine-learning-k-means-delivery-fleet-driver-dataset-2h24)
-- [Purelymail – The Most Cost-Effective Email Provider for Custom Domains](https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56)
-- [DePIN: The Web3 Movement Bringing Blockchain Into the Real World](https://dev.to/digitaldime/depin-the-web3-movement-bringing-blockchain-into-the-real-world-1h0c)
+- [How to Test Github Actions Locally Without Third-Party Tools](https://dev.to/fedtti/how-to-test-github-actions-locally-without-third-party-tools-4mka)
+- [Learning n8n by Doing: First Case Study - Slack to Dev.to](https://dev.to/youvandraf/learning-n8n-by-doing-first-case-study-slack-to-devto-5cc8)
+- [🔍⭐What is a JOIN operation? What’s the difference between INNER JOIN and LEFT JOIN?](https://dev.to/rencberakman/what-is-a-join-operation-whats-the-difference-between-inner-join-and-left-join-2917)
+- [C++ Templates: From Code Duplication to Generic Programming](https://dev.to/bashtech1/c-templates-from-code-duplication-to-generic-programming-h2o)
+- [Fixing User Input Issue in VS Code &lpar;Java&rpar;](https://dev.to/aasik_20409e3305686b324ec/cannot-edit-in-read-only-editor-vs-code-23l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
