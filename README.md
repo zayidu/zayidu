@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 81: The Productivity Paradox and Backend Dreams](https://dev.to/casperday11/day-81-the-productivity-paradox-and-backend-dreams-5dl7)
-- [Running a Validator Node on The Root Network &lpar;TRN&rpar; with AWS](https://dev.to/aws-builders/running-a-validator-node-on-the-root-network-trn-with-aws-520f)
-- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
-- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
-- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
+- [How GPUs Organize Work: Or What are GPU Warps](https://dev.to/shrsv/how-gpus-organize-work-or-what-are-gpu-warps-2k4p)
+- [Topological Sort](https://dev.to/khushi2488/topological-sort-1hm3)
+- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
+- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
+- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
