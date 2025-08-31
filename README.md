@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mono in Spring Boot Explained with Simple Examples](https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5)
-- [Building My First React Portfolio: Challenges, Learning, and Growth](https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l)
-- [Model Context Protocol &lpar;MCP&rpar; Explained in 20 Minutes](https://dev.to/shyam_sundermittal_4242c/model-context-protocol-mcp-explained-in-20-minutes-o17)
-- [Introduction to Loans](https://dev.to/madgan95/introduction-to-loans-2n1a)
-- [From Python Developer to SaaS Founder: My Next Move](https://dev.to/code_2/from-python-developer-to-saas-founder-my-next-move-n90)
+- [Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management](https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0)
+- [MonoGuard: Making Monorepo Management Less Painful](https://dev.to/yu_chihwei_0481c8e2b679d/monoguard-making-monorepo-management-less-painful-2739)
+- [Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations](https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3)
+- [RankGap: Multi-Agent Amazon SEO &amp; Product Visibility Analyzer](https://dev.to/better-boy/rankgap-multi-agent-amazon-seo-product-visibility-analyzer-2h81)
+- [Furniture Image Classification Using TypeScript + BilberryDB SDK vs. No-Code Approach](https://dev.to/ravinthiran_partheepan_4e/furniture-image-classification-using-typescript-bilberrydb-sdk-vs-no-code-approach-2a4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
