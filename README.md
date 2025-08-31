@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-driven cookie manager for the modern web.](https://dev.to/indianmodassir/event-driven-cookie-manager-for-the-modern-web-2pab)
-- [The Future of Decision-Making: AI Agent That Predicts Trends &amp; Profits](https://dev.to/revis047/stop-scrolling-this-ai-agent-delivers-the-news-whats-next-2ea6)
-- [Your Android Phone Is Secretly Tracking You: A Developer&#39;s Guide to Real Privacy](https://dev.to/martijn_assie_12a2d3b1833/your-android-phone-is-secretly-tracking-you-a-developers-guide-to-real-privacy-480a)
-- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
-- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
+- [My React Journey: Day 3 – Rendering Lists with Angular @for and React .map&lpar;&rpar;](https://dev.to/michelemalagnini/my-react-journey-day-3-rendering-lists-with-angular-for-and-react-map-p1n)
+- [The SEO Alchemist: How I Built an AI Agent to Turn Raw Web Data into Content Gold](https://dev.to/inforeole/the-seo-alchemist-how-i-built-an-ai-agent-to-turn-raw-web-data-into-content-gold-5ej6)
+- [The Unstoppable Lead Generation Engine: A Multi-Agent AI Workflow with n8n &amp; Bright Data](https://dev.to/inforeole/the-unstoppable-lead-generation-engine-a-multi-agent-ai-workflow-with-n8n-bright-data-4k3j)
+- [🚀 Internship Job Finder Companion n8n &amp; Bright Data Challenge – AI-Powered Internship Discovery](https://dev.to/gihan_chinthaka_b55a3536d/internship-job-finder-companionn8n-bright-data-challenge-ai-powered-internship-discovery-26op)
+- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
