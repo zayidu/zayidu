@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laura Kampf: Can One Clever Hack Save A $1000 Coffee Machine?](https://dev.to/maker_youtube/laura-kampf-can-one-clever-hack-save-a-1000-coffee-machine-38h0)
-- [marchat v0.5.0-beta.2 Release Announcement](https://dev.to/cod-e-codes/marchat-v050-beta2-release-announcement-27dg)
-- [Reddit Scraper AI Agent: ThreadLens](https://dev.to/agastya_khati_f72c89077c8/reddit-scraper-ai-agent-threadlens-34mp)
-- [How to Set Up Remote MCP on Claude iOS/Android Mobile Apps](https://dev.to/zhizhiarv/how-to-set-up-remote-mcp-on-claude-iosandroid-mobile-apps-3ce3)
-- [Hosting Remote MCP Server on AWS Lambda for Nearly Free](https://dev.to/zhizhiarv/hosting-remote-mcp-server-on-aws-lambda-for-nearly-free-2h8j)
+- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
+- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
+- [Trading Guide: Crypto, Forex, &amp; Saham untuk Pemula](https://dev.to/andinugroho/trading-guide-crypto-forex-saham-untuk-pemula-2lnh)
+- [AI in Software Development: Boosting or Slowing Your Productivity](https://dev.to/empiree/ai-in-software-development-boosting-or-slowing-your-productivity-fkl)
+- [Exciting Project Launch: Swagger MCP Adapter!](https://dev.to/serifcolakel/exciting-project-launch-swagger-mcp-adapter-2peb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
