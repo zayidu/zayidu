@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How GPUs Organize Work: Or What are GPU Warps](https://dev.to/shrsv/how-gpus-organize-work-or-what-are-gpu-warps-2k4p)
-- [Topological Sort](https://dev.to/khushi2488/topological-sort-1hm3)
-- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
-- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
-- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
+- [Event-driven cookie manager for the modern web.](https://dev.to/indianmodassir/event-driven-cookie-manager-for-the-modern-web-2pab)
+- [The Future of Decision-Making: AI Agent That Predicts Trends &amp; Profits](https://dev.to/revis047/stop-scrolling-this-ai-agent-delivers-the-news-whats-next-2ea6)
+- [Your Android Phone Is Secretly Tracking You: A Developer&#39;s Guide to Real Privacy](https://dev.to/martijn_assie_12a2d3b1833/your-android-phone-is-secretly-tracking-you-a-developers-guide-to-real-privacy-480a)
+- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
+- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
