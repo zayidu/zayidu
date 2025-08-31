@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Github Actions Locally Without Third-Party Tools](https://dev.to/fedtti/how-to-test-github-actions-locally-without-third-party-tools-4mka)
-- [Learning n8n by Doing: First Case Study - Slack to Dev.to](https://dev.to/youvandraf/learning-n8n-by-doing-first-case-study-slack-to-devto-5cc8)
-- [🔍⭐What is a JOIN operation? What’s the difference between INNER JOIN and LEFT JOIN?](https://dev.to/rencberakman/what-is-a-join-operation-whats-the-difference-between-inner-join-and-left-join-2917)
-- [C++ Templates: From Code Duplication to Generic Programming](https://dev.to/bashtech1/c-templates-from-code-duplication-to-generic-programming-h2o)
-- [Fixing User Input Issue in VS Code &lpar;Java&rpar;](https://dev.to/aasik_20409e3305686b324ec/cannot-edit-in-read-only-editor-vs-code-23l1)
+- [Super WhatsApp Agent 🤖📱](https://dev.to/amira_adel_e032821d5c75c5/super-whatsapp-agent-4mo4)
+- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
+- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
+- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
+- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
