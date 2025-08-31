@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [International Debt Analysis - Exploring PostgreSQL](https://dev.to/loi2008/international-debt-analysis-exploring-postgresql-2k5o)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `72`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-72-47bh)
-- [I Forbid You to Use Margin](https://dev.to/protonselijah/i-forbid-you-to-use-margin-3dgj)
-- [Why Learn Svelte in 2025? The Value Proposition &amp; Svelte vs React &amp; Vue](https://dev.to/a1guy/why-learn-svelte-in-2025-the-value-proposition-svelte-vs-react-vue-1bhc)
-- [Stop leaking .env files - try Secretsnap &lpar;free CLI&rpar;](https://dev.to/neil_okikiolu/stop-leaking-env-files-try-secretsnap-free-cli-4cko)
+- [The Figma-to-n8n “Ninja Move”: Zero-Touch Asset Sync &lpar;with Chat Commands + AI Quality Checks&rpar;](https://dev.to/benbenjamin/the-figma-to-n8n-ninja-move-zero-touch-asset-sync-with-chat-commands-ai-quality-checks-50m8)
+- [5 Things I Wish I Knew Before Studying for CompTIA Security+](https://dev.to/leonardkachi/5-things-i-wish-i-knew-before-studying-for-comptia-security-19i)
+- [Unsupervised machine learning: K-Means &lpar;Delivery Fleet Driver dataset&rpar;](https://dev.to/ashwani_kumar_a70ee558a2c/unsupervised-machine-learning-k-means-delivery-fleet-driver-dataset-2h24)
+- [Purelymail – The Most Cost-Effective Email Provider for Custom Domains](https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56)
+- [DePIN: The Web3 Movement Bringing Blockchain Into the Real World](https://dev.to/digitaldime/depin-the-web3-movement-bringing-blockchain-into-the-real-world-1h0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
