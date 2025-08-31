@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management](https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0)
-- [MonoGuard: Making Monorepo Management Less Painful](https://dev.to/yu_chihwei_0481c8e2b679d/monoguard-making-monorepo-management-less-painful-2739)
-- [Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations](https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3)
-- [RankGap: Multi-Agent Amazon SEO &amp; Product Visibility Analyzer](https://dev.to/better-boy/rankgap-multi-agent-amazon-seo-product-visibility-analyzer-2h81)
-- [Furniture Image Classification Using TypeScript + BilberryDB SDK vs. No-Code Approach](https://dev.to/ravinthiran_partheepan_4e/furniture-image-classification-using-typescript-bilberrydb-sdk-vs-no-code-approach-2a4g)
+- [International Debt Analysis - Exploring PostgreSQL](https://dev.to/loi2008/international-debt-analysis-exploring-postgresql-2k5o)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `72`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-72-47bh)
+- [I Forbid You to Use Margin](https://dev.to/protonselijah/i-forbid-you-to-use-margin-3dgj)
+- [Why Learn Svelte in 2025? The Value Proposition &amp; Svelte vs React &amp; Vue](https://dev.to/a1guy/why-learn-svelte-in-2025-the-value-proposition-svelte-vs-react-vue-1bhc)
+- [Stop leaking .env files - try Secretsnap &lpar;free CLI&rpar;](https://dev.to/neil_okikiolu/stop-leaking-env-files-try-secretsnap-free-cli-4cko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
