@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
-- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
-- [Trading Guide: Crypto, Forex, &amp; Saham untuk Pemula](https://dev.to/andinugroho/trading-guide-crypto-forex-saham-untuk-pemula-2lnh)
-- [AI in Software Development: Boosting or Slowing Your Productivity](https://dev.to/empiree/ai-in-software-development-boosting-or-slowing-your-productivity-fkl)
-- [Exciting Project Launch: Swagger MCP Adapter!](https://dev.to/serifcolakel/exciting-project-launch-swagger-mcp-adapter-2peb)
+- [Day 81: The Productivity Paradox and Backend Dreams](https://dev.to/casperday11/day-81-the-productivity-paradox-and-backend-dreams-5dl7)
+- [Running a Validator Node on The Root Network &lpar;TRN&rpar; with AWS](https://dev.to/aws-builders/running-a-validator-node-on-the-root-network-trn-with-aws-520f)
+- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
+- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
+- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
