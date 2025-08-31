@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 3 – Rendering Lists with Angular @for and React .map&lpar;&rpar;](https://dev.to/michelemalagnini/my-react-journey-day-3-rendering-lists-with-angular-for-and-react-map-p1n)
-- [The SEO Alchemist: How I Built an AI Agent to Turn Raw Web Data into Content Gold](https://dev.to/inforeole/the-seo-alchemist-how-i-built-an-ai-agent-to-turn-raw-web-data-into-content-gold-5ej6)
-- [The Unstoppable Lead Generation Engine: A Multi-Agent AI Workflow with n8n &amp; Bright Data](https://dev.to/inforeole/the-unstoppable-lead-generation-engine-a-multi-agent-ai-workflow-with-n8n-bright-data-4k3j)
-- [🚀 Internship Job Finder Companion n8n &amp; Bright Data Challenge – AI-Powered Internship Discovery](https://dev.to/gihan_chinthaka_b55a3536d/internship-job-finder-companionn8n-bright-data-challenge-ai-powered-internship-discovery-26op)
-- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
+- [Alec Steele: I finally did it!](https://dev.to/maker_youtube/alec-steele-i-finally-did-it-446d)
+- [How I Turned My RxJS Headaches Into Rimmel.js](https://dev.to/dariomannu/how-i-turned-my-rxjs-headaches-into-rimmeljs-1kjo)
+- [WYKRA: Web You Know, Real-time Analysis](https://dev.to/olgabraginskaya/wykra-web-you-know-real-time-analysis-20i3)
+- [Why existing React color pickers frustrated me &lpar;and what I built instead&rpar;](https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg)
+- [What Building My Own ISP Simulation Taught Me About CGNAT and the Internet&#39;s Hidden Backbone](https://dev.to/hassamdev/what-building-my-own-isp-simulation-taught-me-about-cgnat-and-the-internets-hidden-backbone-46d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
