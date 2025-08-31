@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t put off until tomorrow what you can do today](https://dev.to/elliot_brenya/dont-put-off-until-tomorrow-what-you-can-do-today-a25)
-- [Just Launched My Portfolio – Looking for Feedback from Dev Community](https://dev.to/mdhassanpatwary/just-launched-my-portfolio-looking-for-feedback-from-dev-community-28bc)
-- [Maker&#39;s Muse: 12 years of 3D printing advice in 30 minutes.](https://dev.to/maker_youtube/makers-muse-12-years-of-3d-printing-advice-in-30-minutes-jf5)
-- [Unearth Your Code’s Hidden TODOs &amp; Supercharge Your Workflow with comment-todo!](https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8)
-- [Android’s Hidden Spy: Why You Should Stop “System Intelligence” Today](https://dev.to/martijn_assie_12a2d3b1833/androids-hidden-spy-why-you-should-stop-system-intelligence-today-2fe)
+- [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
+- [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
+- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-18fl)
+- [✨ From Groceries to Game Arcs ✨](https://dev.to/cutieyunnytech/from-groceries-to-game-arcs-41fp)
+- [How I Built My SaaS MVP in 20 Days &lpar;Lessons Learned&rpar;](https://dev.to/asim786521/how-i-built-my-saas-mvp-in-20-days-lessons-learned-4gic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
