@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Time as an Intern. How Do You Make the Most of It?](https://dev.to/rkadriu/first-time-as-an-intern-how-do-you-make-the-most-of-it-1244)
-- [[Boost]](https://dev.to/asem_algably_8de47fab2ee3/-1021)
-- [Stop Your Phone From Listening on You: Two Apps to Disable Now](https://dev.to/martijn_assie_12a2d3b1833/stop-your-phone-from-listening-on-you-two-apps-to-disable-now-1cp)
-- [Virtual Machines vs. Docker: A Beginner-Friendly Guide](https://dev.to/emmanuel_sofs/virtual-machines-vs-docker-a-beginner-friendly-guide-58h9)
-- [Hello](https://dev.to/alain_alvarezcaignet_148/hello-peg)
+- [YouTube Privacy Guide: How to Stop Hidden Tracking Across Samsung, Xiaomi, and Pixel Devices](https://dev.to/martijn_assie_12a2d3b1833/youtube-privacy-warning-critical-settings-you-should-turn-off-today-10pm)
+- [The Boom, the Bust, and the Quiet Survivors](https://dev.to/iampaulonu/the-boom-the-bust-and-the-quiet-survivors-1kf9)
+- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
+- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
+- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
