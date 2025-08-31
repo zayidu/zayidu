@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI Agent That reveals Wall Street Sentiment in seconds](https://dev.to/indika_wimalasuriya/i-built-an-ai-agent-that-reveals-wall-street-sentiment-in-seconds-4ma2)
-- [TechPulse AI - Automated LinkedIn Tech News Agent - Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/techpulse-ai-automated-linkedin-tech-news-agent-powered-by-n8n-bright-data-37p0)
-- [August 2025 At Releem - Recommendations Impact &amp; Redundant Index Detection](https://dev.to/drupaladmin/august-2025-at-releem-recommendations-impact-redundant-index-detection-2cp5)
-- [Engineering Lifecycle: Circuits vs Software](https://dev.to/wale1202/engineering-lifecycle-circuits-vs-software-oeb)
-- [Go 1.25 JSON v2: Benchmarks, Raptor Escapes, and a 1.8 Speedup](https://dev.to/ryansgi/go-125-json-v2-benchmarks-raptor-escapes-and-a-18-speedup-5cf3)
+- [First Time as an Intern. How Do You Make the Most of It?](https://dev.to/rkadriu/first-time-as-an-intern-how-do-you-make-the-most-of-it-1244)
+- [[Boost]](https://dev.to/asem_algably_8de47fab2ee3/-1021)
+- [Stop Your Phone From Listening on You: Two Apps to Disable Now](https://dev.to/martijn_assie_12a2d3b1833/stop-your-phone-from-listening-on-you-two-apps-to-disable-now-1cp)
+- [Virtual Machines vs. Docker: A Beginner-Friendly Guide](https://dev.to/emmanuel_sofs/virtual-machines-vs-docker-a-beginner-friendly-guide-58h9)
+- [Hello](https://dev.to/alain_alvarezcaignet_148/hello-peg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
