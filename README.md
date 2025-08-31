@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
-- [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
-- [Simplify OTP Generation with one-time-pass 🔑](https://dev.to/haikelfazzani/simplify-otp-generation-with-one-time-pass-1dbj)
-- [ChatGPT vs. My System Cleanup Script: Who&#39;s Winning?](https://dev.to/elliot_brenya/chatgpt-vs-my-system-cleanup-script-whos-winning-fek)
-- [Recent Platform Engineer Interview Questions](https://dev.to/flopi/recent-platform-engineer-interview-questions-g3o)
+- [Don&#39;t put off until tomorrow what you can do today](https://dev.to/elliot_brenya/dont-put-off-until-tomorrow-what-you-can-do-today-a25)
+- [Just Launched My Portfolio – Looking for Feedback from Dev Community](https://dev.to/mdhassanpatwary/just-launched-my-portfolio-looking-for-feedback-from-dev-community-28bc)
+- [Maker&#39;s Muse: 12 years of 3D printing advice in 30 minutes.](https://dev.to/maker_youtube/makers-muse-12-years-of-3d-printing-advice-in-30-minutes-jf5)
+- [Unearth Your Code’s Hidden TODOs &amp; Supercharge Your Workflow with comment-todo!](https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8)
+- [Android’s Hidden Spy: Why You Should Stop “System Intelligence” Today](https://dev.to/martijn_assie_12a2d3b1833/androids-hidden-spy-why-you-should-stop-system-intelligence-today-2fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
