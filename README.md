@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [**Computer Architecture Classification:**](https://dev.to/mujahida_joynab_64c7407d8/computer-architecture-classification-1ogg)
-- [**Computer Architecture vs. Computer Organization**](https://dev.to/mujahida_joynab_64c7407d8/computer-architecture-vs-computer-organization-2gg2)
-- [Bangun &quot;OpenAI Versi Internal&quot; dengan Dedicated AI Cluster](https://dev.to/ezzeddinp/bangun-openai-versi-internal-dengan-dedicated-ai-cluster-d5e)
-- [Object-Oriented Programming in Java: An Academic Perspective](https://dev.to/khan1203/object-oriented-programming-in-java-an-academic-perspective-1d3m)
-- [Phase of Compiler](https://dev.to/mujahida_joynab_64c7407d8/phase-of-compiler-5hbj)
+- [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
+- [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
+- [Simplify OTP Generation with one-time-pass 🔑](https://dev.to/haikelfazzani/simplify-otp-generation-with-one-time-pass-1dbj)
+- [ChatGPT vs. My System Cleanup Script: Who&#39;s Winning?](https://dev.to/elliot_brenya/chatgpt-vs-my-system-cleanup-script-whos-winning-fek)
+- [Recent Platform Engineer Interview Questions](https://dev.to/flopi/recent-platform-engineer-interview-questions-g3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
