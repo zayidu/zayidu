@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Super WhatsApp Agent 🤖📱](https://dev.to/amira_adel_e032821d5c75c5/super-whatsapp-agent-4mo4)
-- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
-- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
-- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
-- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
+- [First Post on Dev.to!](https://dev.to/taiseidev26/first-post-on-devto-3j36)
+- [Top 5 Tools to Simulate and Observe AI Agents at Scale](https://dev.to/kuldeep_paul/top-5-tools-to-simulate-and-observe-ai-agents-at-scale-5b0m)
+- [Beyond the Prompt: How Gemini 2.5 Flash Image is Refactoring AI-Powered Creativity](https://dev.to/stellan/beyond-text-to-image-how-googles-gemini-25-flash-is-redefining-ai-powered-creation-4chd)
+- [Semantic HTML for SEO and Accessibility](https://dev.to/weddy/semantic-html-for-seo-and-accessibility-oig)
+- [The Psychology of Document Translation: Why Structure Shapes Trust](https://dev.to/lily_wilson_1374db3726315/the-psychology-of-document-translation-why-structure-shapes-trust-2hio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
