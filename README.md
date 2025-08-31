@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
-- [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
-- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-18fl)
-- [✨ From Groceries to Game Arcs ✨](https://dev.to/cutieyunnytech/from-groceries-to-game-arcs-41fp)
-- [How I Built My SaaS MVP in 20 Days &lpar;Lessons Learned&rpar;](https://dev.to/asim786521/how-i-built-my-saas-mvp-in-20-days-lessons-learned-4gic)
+- [Mono in Spring Boot Explained with Simple Examples](https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5)
+- [Building My First React Portfolio: Challenges, Learning, and Growth](https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l)
+- [Model Context Protocol &lpar;MCP&rpar; Explained in 20 Minutes](https://dev.to/shyam_sundermittal_4242c/model-context-protocol-mcp-explained-in-20-minutes-o17)
+- [Introduction to Loans](https://dev.to/madgan95/introduction-to-loans-2n1a)
+- [From Python Developer to SaaS Founder: My Next Move](https://dev.to/code_2/from-python-developer-to-saas-founder-my-next-move-n90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
