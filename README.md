@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Django App to Production in 2025](https://dev.to/piko/how-to-deploy-a-django-app-to-production-in-2025-5df6)
-- [Transaction Numbers in a System](https://dev.to/siswoyo/transaction-numbers-in-a-system-20n8)
-- [What I Am Available For](https://dev.to/jessica_taylor_57f692d5f6/what-i-am-available-for-4c04)
-- [Split Keyboards are fun!](https://dev.to/rorixrebel/split-keyboards-are-fun-49aa)
-- [InfoQ: AR’s Hardest Problem? The Engineering Lesson from Google Maps](https://dev.to/scale_youtube/infoq-ars-hardest-problem-the-engineering-lesson-from-google-maps-bl2)
+- [The Secret Weapon: AI as a &quot;Meta-Tool&quot; and Firebase Studio](https://dev.to/progressiveprogrammer/the-secret-weapon-ai-as-a-meta-tool-and-firebase-studio-2phb)
+- [Fixing ARC/eARC Handshakes &amp; Lip-Sync &lpar;Without Losing Your Mind&rpar;](https://dev.to/tiberius1023/fixing-arcearc-handshakes-lip-sync-without-losing-your-mind-5gl5)
+- [Got some code in on the holiday — which I kind of love. No disruptions, etc. Not everybody has to love to code when everyone is offline, but it can be cathartic!](https://dev.to/ben/got-some-code-in-on-the-holiday-which-i-kind-of-love-no-disruptions-etc-not-everybody-has-to-1bo7)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;1/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-15-4goh)
+- [WebGPU Engine from Scratch Part 7: Specular Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-7-specular-lighting-4i8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
