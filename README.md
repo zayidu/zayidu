@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The One-Hour Rule for Developers - How Short, Focused Sprints Can Unblock Stalled Projects](https://dev.to/vadym_info_polus/the-one-hour-rule-for-developers-how-short-focused-sprints-can-unblock-stalled-projects-517o)
-- [Template Your Own Precise Boilerplate Code: No AI, No Wallet Drain. Part 1 – Microsoft’s Implementation](https://dev.to/georgekobaidze/template-your-own-precise-boilerplate-code-no-ai-no-wallet-drain-part-1-microsofts-lkh)
-- [Mastering Semantic HTML: SEO &amp; Accessibility Benefits for Developers](https://dev.to/lewis_nganga_ed1e01bbd7/mastering-semantic-html-seo-accessibility-benefits-for-developers-n96)
-- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
-- [Tracking outbound API calls from your application: why, what worked &lpar;and what didn’t&rpar;](https://dev.to/gaw/tracking-outbound-api-calls-from-your-application-why-what-worked-and-what-didnt-13ii)
+- [Days 18-19: Weekend Reflection - Our Responsibility to Recent CS Graduates](https://dev.to/clayroach/days-18-19-weekend-reflection-our-responsibility-to-recent-cs-graduates-13hf)
+- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka)
+- [Unsupervised learning: Clustering](https://dev.to/sumeya/unsupervised-learning-clustering-3k61)
+- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-5hda)
+- [Series: From Zero to Hero – DevOps Workflow on Termux](https://dev.to/terminaltools/series-from-zero-to-hero-devops-workflow-on-termux-mcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
