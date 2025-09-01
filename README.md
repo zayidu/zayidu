@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Github](https://dev.to/theoriginalbpc/working-with-github-34mm)
-- [Spring AI with Amazon Bedrock - Part 3 Exploring Model Context Protocol SSE transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah)
-- [Django vs Flask vs FastAPI](https://dev.to/atifwattoo/django-vs-flask-vs-fastapi-37n4)
-- [Turn Your Photos into String Art with Code and Creativity 🎨🧵](https://dev.to/_a4789b89e909d6bcb171e/turn-your-photos-into-string-art-with-code-and-creativity-acb)
-- [Creating bouncing animations using Sine waves &lpar;Kotlin + Jetpack Compose&rpar;: Part 2](https://dev.to/agusioma/creating-bouncing-animations-using-sine-waves-kotlin-jetpack-compose-part-2-2371)
+- [Multidimensional Embedding Comparison with “diemsim”](https://dev.to/boddu_sripavan_5b6c8d66d4/multidimensional-embedding-comparison-with-diemsim-3ohc)
+- [The $3 That Broke Crypto UX &lpar;And How Kora Fixed It&rpar;](https://dev.to/stelmitchay/the-3-that-broke-crypto-ux-and-how-kora-fixed-it-1422)
+- [7 Breakthrough Blockchain Technologies Reshaping Our Digital Future](https://dev.to/testlolrandomsilson/7-breakthrough-blockchain-technologies-reshaping-our-digital-future-431m)
+- [How to Install &amp; Run Qwen Image](https://dev.to/nodeshiftcloud/how-to-install-run-qwen-image-1pjd)
+- [Guide Complet : Déployer une API NestJS avec PostgreSQL sur AWS Lightsail](https://dev.to/georges_heloussato_d6ff14/guide-complet-deployer-une-api-nestjs-avec-postgresql-sur-aws-lightsail-56je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
