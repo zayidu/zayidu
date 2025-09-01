@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multidimensional Embedding Comparison with “diemsim”](https://dev.to/boddu_sripavan_5b6c8d66d4/multidimensional-embedding-comparison-with-diemsim-3ohc)
-- [The $3 That Broke Crypto UX &lpar;And How Kora Fixed It&rpar;](https://dev.to/stelmitchay/the-3-that-broke-crypto-ux-and-how-kora-fixed-it-1422)
-- [7 Breakthrough Blockchain Technologies Reshaping Our Digital Future](https://dev.to/testlolrandomsilson/7-breakthrough-blockchain-technologies-reshaping-our-digital-future-431m)
-- [How to Install &amp; Run Qwen Image](https://dev.to/nodeshiftcloud/how-to-install-run-qwen-image-1pjd)
-- [Guide Complet : Déployer une API NestJS avec PostgreSQL sur AWS Lightsail](https://dev.to/georges_heloussato_d6ff14/guide-complet-deployer-une-api-nestjs-avec-postgresql-sur-aws-lightsail-56je)
+- [Setup and Configure SSH on Ubuntu 22.04](https://dev.to/divyanshutiwari_13/setup-and-configure-ssh-on-ubuntu-2204-5d6e)
+- [USE OF SEMANTIC HTML](https://dev.to/iamimani/use-of-semantic-html-1lm)
+- [JavaScript Object Methods — Quick Revision ✨](https://dev.to/usama_dev/javascript-object-methods-quick-revision-588b)
+- [🏰 Легенда о пяти рыцарях SOLID](https://dev.to/easycat/lieghienda-o-piati-rytsariakh-solid-lj2)
+- [IMPLEMENTING SEMANTIC HTML](https://dev.to/iamimani/implementing-semantic-html-1m8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
