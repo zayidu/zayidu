@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Weapon: AI as a &quot;Meta-Tool&quot; and Firebase Studio](https://dev.to/progressiveprogrammer/the-secret-weapon-ai-as-a-meta-tool-and-firebase-studio-2phb)
-- [Fixing ARC/eARC Handshakes &amp; Lip-Sync &lpar;Without Losing Your Mind&rpar;](https://dev.to/tiberius1023/fixing-arcearc-handshakes-lip-sync-without-losing-your-mind-5gl5)
-- [Got some code in on the holiday — which I kind of love. No disruptions, etc. Not everybody has to love to code when everyone is offline, but it can be cathartic!](https://dev.to/ben/got-some-code-in-on-the-holiday-which-i-kind-of-love-no-disruptions-etc-not-everybody-has-to-1bo7)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;1/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-15-4goh)
-- [WebGPU Engine from Scratch Part 7: Specular Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-7-specular-lighting-4i8j)
+- [Firefox&#39;s On-Device AI Just Got 10x Faster - Here&#39;s How Mozilla Did It](https://dev.to/shiva_shanker_k/firefoxs-on-device-ai-just-got-10x-faster-heres-how-mozilla-did-it-29om)
+- [Blockchain e o Futuro do Sistema Financeiro Brasileiro: entre o Drex, Smart Contracts e a Nuvem da AWS](https://dev.to/thiagosagara/blockchain-e-o-futuro-do-sistema-financeiro-brasileiro-entre-o-drex-smart-contracts-e-a-nuvem-da-1eng)
+- [Semantic HTML](https://dev.to/estherngaire/semantic-html-4108)
+- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
+- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
