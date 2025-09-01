@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup and Configure SSH on Ubuntu 22.04](https://dev.to/divyanshutiwari_13/setup-and-configure-ssh-on-ubuntu-2204-5d6e)
-- [USE OF SEMANTIC HTML](https://dev.to/iamimani/use-of-semantic-html-1lm)
-- [JavaScript Object Methods — Quick Revision ✨](https://dev.to/usama_dev/javascript-object-methods-quick-revision-588b)
-- [🏰 Легенда о пяти рыцарях SOLID](https://dev.to/easycat/lieghienda-o-piati-rytsariakh-solid-lj2)
-- [IMPLEMENTING SEMANTIC HTML](https://dev.to/iamimani/implementing-semantic-html-1m8o)
+- [How to Deploy a Django App to Production in 2025](https://dev.to/piko/how-to-deploy-a-django-app-to-production-in-2025-5df6)
+- [Transaction Numbers in a System](https://dev.to/siswoyo/transaction-numbers-in-a-system-20n8)
+- [What I Am Available For](https://dev.to/jessica_taylor_57f692d5f6/what-i-am-available-for-4c04)
+- [Split Keyboards are fun!](https://dev.to/rorixrebel/split-keyboards-are-fun-49aa)
+- [InfoQ: AR’s Hardest Problem? The Engineering Lesson from Google Maps](https://dev.to/scale_youtube/infoq-ars-hardest-problem-the-engineering-lesson-from-google-maps-bl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
