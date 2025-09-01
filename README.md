@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Power Automate Flows like a Genius](https://dev.to/wyattdave/managing-power-automate-flows-like-a-genius-5965)
-- [AI Job Matching Agent That Reads Your Resume &lpar;n8n + Bright Data Challenge&rpar;](https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf)
-- [Generate a Barcode with Text in Java Using ZXing](https://dev.to/yarivanovsky/generate-a-barcode-with-text-in-java-using-zxing-39g8)
-- [We built Meku to help devs go from idea to production-ready React + Tailwind apps in minutes. Excited to be part of the future of AI web app builders - your feedback means a lot 🚀](https://dev.to/meku/we-built-meku-to-help-devs-go-from-idea-to-production-ready-react-tailwind-apps-in-minutes-3kih)
-- [Catch up on your favorite Youtube&amp;Tiktok videos](https://dev.to/waptik/catch-up-on-your-favorite-youtubetiktok-videos-lng)
+- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
+- [Underfoot: The ChatPot for Hidden Places &lpar;and Why I Don’t Do Hackathons&rpar;](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684)
+- [White Label Telemedicine App: Build Care Faster, Safer, and Under Your Brand](https://dev.to/silvio_dante/white-label-telemedicine-app-build-care-faster-safer-and-under-your-brand-38b)
+- [Brand Perception Monitoring &amp; Sentiment Analysisℹ️](https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1)
+- [BrightMentions: Building a 24/7 Brand Monitoring AI Agent with n8n and Bright Data](https://dev.to/mehdi/brightmentions-building-a-247-brand-monitoring-ai-agent-with-n8n-and-bright-data-3gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
