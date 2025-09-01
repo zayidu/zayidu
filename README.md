@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Lead Generation &amp; Cold Email Automation Agent](https://dev.to/deepesh_tolani_3fefa9d872/complete-lead-generation-cold-email-automation-agent-1g39)
-- [The Deepfake Apocalypse Is Here...But It&#39;s Sneakier Than You Think!](https://dev.to/arvind_rajan/the-deepfake-apocalypse-is-herebut-its-sneakier-than-you-think-4pg3)
-- [WICK-A11Y v2.2.0 x CYPRESS v15: Parabellum for Axe-ssibility Barriers](https://dev.to/sebastianclavijo/wick-a11y-v220-x-cypress-v15-parabellum-for-axe-essibility-barriers-2fam)
-- [They&#39;re Not Real! The Sneaky New AI That&#39;s About to Change Everything You Think You Know About Video](https://dev.to/arvind_rajan/theyre-not-real-the-sneaky-new-ai-thats-about-to-change-everything-you-think-you-know-about-video-4bki)
-- [AI Solves Taxes? How Neuro-Symbolic Systems Are Revolutionizing Financial Reasoning](https://dev.to/arvind_rajan/ai-solves-taxes-how-neuro-symbolic-systems-are-revolutionizing-financial-reasoning-1aa)
+- [RCE Risk in Yonyou U8Cloud: ServiceDispatcher Deserialization Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/rce-risk-in-yonyou-u8cloud-servicedispatcher-deserialization-vulnerability-40ae)
+- [Getting Started with Web Scraping in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/getting-started-with-web-scraping-in-r-1ic9)
+- [🛳️ Docker Series: Episode 10 — Dockerize Your Own Project: Step-by-Step Help for Your Tech Stack](https://dev.to/yash_sonawane25/docker-series-episode-10-dockerize-your-own-project-step-by-step-help-for-your-tech-stack-3mfi)
+- [H3ravel: Bringing Laravel’s Elegance to the JavaScript Ecosystem](https://dev.to/3m1n3nc3/h3ravel-bringing-laravels-elegance-to-the-javascript-ecosystem-26n)
+- [JavaScript - String](https://dev.to/dharshinieswaran/javascript-string-bma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
