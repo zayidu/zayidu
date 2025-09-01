@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Blog 3: 2D Grid DP &lpar;Matrix Problems&rpar;](https://dev.to/devcorner/blog-3-2d-grid-dp-matrix-problems-1k8b)
-- [Top 20 Matplotlib Mastery Questions &lpar;Beginner to Pro&rpar;](https://dev.to/niveshbansal07/top-20-matplotlib-mastery-questions-beginner-to-pro-1cla)
-- [📝 Blog 2: 1D DP Patterns – Linear Problems](https://dev.to/devcorner/blog-2-1d-dp-patterns-linear-problems-3omd)
-- [Design Pattern #10: Breaking the Chain of Irresponsibility](https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g)
-- [A Beginner’s Guide to the Linux File System Hierarchy](https://dev.to/chethanblgs99/a-beginners-guide-to-the-linux-file-system-hierarchy-7oo)
+- [One month after my game release, Android Edition](https://dev.to/erickzanardo/one-month-after-my-game-release-android-edition-3ncn)
+- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
+- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
+- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
+- [KEXP: Optometry - Star Crossed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
