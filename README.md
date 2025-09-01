@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox&#39;s On-Device AI Just Got 10x Faster - Here&#39;s How Mozilla Did It](https://dev.to/shiva_shanker_k/firefoxs-on-device-ai-just-got-10x-faster-heres-how-mozilla-did-it-29om)
-- [Blockchain e o Futuro do Sistema Financeiro Brasileiro: entre o Drex, Smart Contracts e a Nuvem da AWS](https://dev.to/thiagosagara/blockchain-e-o-futuro-do-sistema-financeiro-brasileiro-entre-o-drex-smart-contracts-e-a-nuvem-da-1eng)
-- [Semantic HTML](https://dev.to/estherngaire/semantic-html-4108)
-- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
-- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
+- [The One-Hour Rule for Developers - How Short, Focused Sprints Can Unblock Stalled Projects](https://dev.to/vadym_info_polus/the-one-hour-rule-for-developers-how-short-focused-sprints-can-unblock-stalled-projects-517o)
+- [Template Your Own Precise Boilerplate Code: No AI, No Wallet Drain. Part 1 – Microsoft’s Implementation](https://dev.to/georgekobaidze/template-your-own-precise-boilerplate-code-no-ai-no-wallet-drain-part-1-microsofts-lkh)
+- [Mastering Semantic HTML: SEO &amp; Accessibility Benefits for Developers](https://dev.to/lewis_nganga_ed1e01bbd7/mastering-semantic-html-seo-accessibility-benefits-for-developers-n96)
+- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
+- [Tracking outbound API calls from your application: why, what worked &lpar;and what didn’t&rpar;](https://dev.to/gaw/tracking-outbound-api-calls-from-your-application-why-what-worked-and-what-didnt-13ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
