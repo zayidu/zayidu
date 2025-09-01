@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Privacy Guide: How to Stop Hidden Tracking Across Samsung, Xiaomi, and Pixel Devices](https://dev.to/martijn_assie_12a2d3b1833/youtube-privacy-warning-critical-settings-you-should-turn-off-today-10pm)
-- [The Boom, the Bust, and the Quiet Survivors](https://dev.to/iampaulonu/the-boom-the-bust-and-the-quiet-survivors-1kf9)
-- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
-- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
-- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
+- [Complete Lead Generation &amp; Cold Email Automation Agent](https://dev.to/deepesh_tolani_3fefa9d872/complete-lead-generation-cold-email-automation-agent-1g39)
+- [The Deepfake Apocalypse Is Here...But It&#39;s Sneakier Than You Think!](https://dev.to/arvind_rajan/the-deepfake-apocalypse-is-herebut-its-sneakier-than-you-think-4pg3)
+- [WICK-A11Y v2.2.0 x CYPRESS v15: Parabellum for Axe-ssibility Barriers](https://dev.to/sebastianclavijo/wick-a11y-v220-x-cypress-v15-parabellum-for-axe-essibility-barriers-2fam)
+- [They&#39;re Not Real! The Sneaky New AI That&#39;s About to Change Everything You Think You Know About Video](https://dev.to/arvind_rajan/theyre-not-real-the-sneaky-new-ai-thats-about-to-change-everything-you-think-you-know-about-video-4bki)
+- [AI Solves Taxes? How Neuro-Symbolic Systems Are Revolutionizing Financial Reasoning](https://dev.to/arvind_rajan/ai-solves-taxes-how-neuro-symbolic-systems-are-revolutionizing-financial-reasoning-1aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
