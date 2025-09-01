@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervised Learning, Explained Through Classification](https://dev.to/mwangide/supervised-learning-explained-through-classification-5201)
-- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
-- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
-- [How I put clouds in my portfolio and why?](https://dev.to/akashleo/how-i-put-clouds-in-my-portfolio-and-why-b9m)
-- [AWS re/Start – My Week 3 Experience](https://dev.to/ijay/aws-restart-my-week-3-experience-5d6l)
+- [How to Survive AI as a Programmer](https://dev.to/chrismbah/how-to-survive-ai-as-a-programmer-5hp)
+- [SQL for Data Professionals: From Basics to Advanced Analytics](https://dev.to/datalens/sql-for-data-professionals-from-basics-to-advanced-analytics-2nd1)
+- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
+- [Getting Started with SvelteKit: Setup, Project Structure &amp; First App](https://dev.to/a1guy/getting-started-with-sveltekit-setup-project-structure-first-app-2jea)
+- [GameSpot: Hell Is Us Review](https://dev.to/gg_news/gamespot-hell-is-us-review-ppm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
