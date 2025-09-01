@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog 2: Subset &amp; Power Set Pattern](https://dev.to/devcorner/blog-2-subset-power-set-pattern-4k1m)
-- [Hash Indices](https://dev.to/lordsnow/hash-indices-3f75)
-- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
-- [Rust changed my &lpar;superficial&rpar; way of thinking](https://dev.to/mateitudose/rust-changed-my-superficial-way-of-thinking-495i)
-- [Why Resorts Are the New Work-from-Home Spots](https://dev.to/go_stayresorts_/why-resorts-are-the-new-work-from-home-spots-3i6c)
+- [📝 Blog 3: 2D Grid DP &lpar;Matrix Problems&rpar;](https://dev.to/devcorner/blog-3-2d-grid-dp-matrix-problems-1k8b)
+- [Top 20 Matplotlib Mastery Questions &lpar;Beginner to Pro&rpar;](https://dev.to/niveshbansal07/top-20-matplotlib-mastery-questions-beginner-to-pro-1cla)
+- [📝 Blog 2: 1D DP Patterns – Linear Problems](https://dev.to/devcorner/blog-2-1d-dp-patterns-linear-problems-3omd)
+- [Design Pattern #10: Breaking the Chain of Irresponsibility](https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g)
+- [A Beginner’s Guide to the Linux File System Hierarchy](https://dev.to/chethanblgs99/a-beginners-guide-to-the-linux-file-system-hierarchy-7oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
