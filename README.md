@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Test Automation: Strategies, Tools, and Best Practices](https://dev.to/sophielane/what-is-test-automation-strategies-tools-and-best-practices-3cmh)
-- [💥 Day 2 of My Pygame Journey](https://dev.to/cutieyunnytech/day-2-of-my-pygame-journey-1hg)
-- [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
-- [Array In JavaScript](https://dev.to/bhuvanasri/array-in-javascript-387c)
-- [Mark Cuban: AI Implementation Challenges Create Opportunities for Gen Z Innovators](https://dev.to/max_mayer/mark-cuban-ai-implementation-challenges-create-opportunities-for-gen-z-innovators-281g)
+- [Best AI Web App Builders](https://dev.to/pimjo/best-ai-web-app-builders-5a83)
+- [AI-Powered Social Media Engagement Manager](https://dev.to/sheeba_mulungi_ae8c80af0d/ai-powered-social-media-engagement-manager-2fo0)
+- [Now Is the Best Time to Learn Programming &lpar;It&#39;s Not Too Late&rpar;](https://dev.to/canro91/now-is-the-best-time-to-learn-programming-its-not-too-late-1i72)
+- [Apple App Store Optimization &lpar;ASO&rpar;](https://dev.to/junyu_fang_a216509a97501d/apple-app-store-optimization-aso-3kjp)
+- [Understanding DOM Selection Methods in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/understanding-dom-selection-methods-in-javascript-3kj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
