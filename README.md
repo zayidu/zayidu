@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ClassAssists&lpar;formerly PrepIQ&rpar;](https://dev.to/opeyemidjavu/introducing-classassistsformerly-prepiq-2c0)
-- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
-- [Enhancing Git Security and Workflow: A Comprehensive Guide to Signed Commits and a Linear History](https://dev.to/it-wibrc/enhancing-git-security-and-workflow-a-comprehensive-guide-to-signed-commits-and-a-linear-history-4ih0)
-- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
-- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
+- [Blog 2: Subset &amp; Power Set Pattern](https://dev.to/devcorner/blog-2-subset-power-set-pattern-4k1m)
+- [Hash Indices](https://dev.to/lordsnow/hash-indices-3f75)
+- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
+- [Rust changed my &lpar;superficial&rpar; way of thinking](https://dev.to/mateitudose/rust-changed-my-superficial-way-of-thinking-495i)
+- [Why Resorts Are the New Work-from-Home Spots](https://dev.to/go_stayresorts_/why-resorts-are-the-new-work-from-home-spots-3i6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
