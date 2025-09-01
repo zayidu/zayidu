@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RCE Risk in Yonyou U8Cloud: ServiceDispatcher Deserialization Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/rce-risk-in-yonyou-u8cloud-servicedispatcher-deserialization-vulnerability-40ae)
-- [Getting Started with Web Scraping in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/getting-started-with-web-scraping-in-r-1ic9)
-- [🛳️ Docker Series: Episode 10 — Dockerize Your Own Project: Step-by-Step Help for Your Tech Stack](https://dev.to/yash_sonawane25/docker-series-episode-10-dockerize-your-own-project-step-by-step-help-for-your-tech-stack-3mfi)
-- [H3ravel: Bringing Laravel’s Elegance to the JavaScript Ecosystem](https://dev.to/3m1n3nc3/h3ravel-bringing-laravels-elegance-to-the-javascript-ecosystem-26n)
-- [JavaScript - String](https://dev.to/dharshinieswaran/javascript-string-bma)
+- [What Is Test Automation: Strategies, Tools, and Best Practices](https://dev.to/sophielane/what-is-test-automation-strategies-tools-and-best-practices-3cmh)
+- [💥 Day 2 of My Pygame Journey](https://dev.to/cutieyunnytech/day-2-of-my-pygame-journey-1hg)
+- [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
+- [Array In JavaScript](https://dev.to/bhuvanasri/array-in-javascript-387c)
+- [Mark Cuban: AI Implementation Challenges Create Opportunities for Gen Z Innovators](https://dev.to/max_mayer/mark-cuban-ai-implementation-challenges-create-opportunities-for-gen-z-innovators-281g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
