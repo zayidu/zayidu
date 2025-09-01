@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
-- [Underfoot: The ChatPot for Hidden Places &lpar;and Why I Don’t Do Hackathons&rpar;](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684)
-- [White Label Telemedicine App: Build Care Faster, Safer, and Under Your Brand](https://dev.to/silvio_dante/white-label-telemedicine-app-build-care-faster-safer-and-under-your-brand-38b)
-- [Brand Perception Monitoring &amp; Sentiment Analysisℹ️](https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1)
-- [BrightMentions: Building a 24/7 Brand Monitoring AI Agent with n8n and Bright Data](https://dev.to/mehdi/brightmentions-building-a-247-brand-monitoring-ai-agent-with-n8n-and-bright-data-3gg)
+- [How to calculate the best days for planetary observation](https://dev.to/rhannequin/how-to-calculate-the-best-days-for-planetary-observation-28k)
+- [Building Components: From Boring Buttons to Receipt-Chomping Cards](https://dev.to/klasniyparen/building-components-from-boring-buttons-to-receipt-chomping-cards-36n1)
+- [Day-88 Memory Management in Java](https://dev.to/tamilselvan1812/day-88-memory-management-in-java-3jd5)
+- [Go 1.25: The Container-Native Release](https://dev.to/klaus82/go-125-the-container-native-release-5dfd)
+- [🔍⭐What is a Primary Key and a Foreign Key in a Database?](https://dev.to/rencberakman/what-is-a-primary-key-and-a-foreign-key-in-a-database-1mmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
