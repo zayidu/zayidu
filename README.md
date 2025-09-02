@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
-- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
-- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
-- [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
-- [Midnight Shield: Protect That Data prompt](https://dev.to/muhammad_zeeshan_6499a22a/midnight-shield-protect-that-data-prompt-1pc3)
+- [The Hidden Backbone of the Internet: How DNS Actually Works](https://dev.to/naval_kishorupadhyay_3e9/the-hidden-backbone-of-the-internet-how-dns-actually-works-27k9)
+- [WebAssembly 基础（二）](https://dev.to/yangholmes/webassembly-ji-chu-er--5chd)
+- [TAssist](https://dev.to/sohail2721/tassist-3ec4)
+- [Set Up SSH Keys on Windows: A Step-by-Step Guide](https://dev.to/duubemmm/set-up-ssh-keys-on-windows-a-step-by-step-guide-43d5)
+- [Software Engineering is Reality Engineering](https://dev.to/kiddo4lyf/software-engineering-is-reality-engineering-2cdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
