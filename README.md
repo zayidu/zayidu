@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover SQL Server Database After Backup Corruption](https://dev.to/nisargupadhyay87/how-to-recover-sql-server-database-after-backup-corruption-46i6)
-- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
-- [Test Init Debug](https://dev.to/ahmed_richdale_33038aaed4/test-init-debug-21hi)
-- [Build a Responsive NavBar in React with Chakra UI v3](https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb)
-- [NDC Conferences: Launch of Trumf Pay – Seamless payment and bonuses with your mobile - Bodil Ibrahim](https://dev.to/scale_youtube/ndc-conferences-launch-of-trumf-pay-seamless-payment-and-bonuses-with-your-mobile-bodil-ibrahim-314f)
+- [Building React Apps with Bun: A Modern Development Experience](https://dev.to/pmbanugo/building-react-apps-with-bun-a-modern-development-experience-3gn2)
+- [Data Extraction in Automated Workflows: The Competitive Edge](https://dev.to/alifar/data-extraction-in-automated-workflows-the-competitive-edge-5c5i)
+- [GPT-5 vs GPT-4: Why Awareness Beats Accuracy](https://dev.to/dev-rashedin/gpt-5-vs-gpt-4-why-awareness-beats-accuracy-348m)
+- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-55gb)
+- [The Power of Digital Marketing: Key Strategies for Success](https://dev.to/emma_smith_7ae61c01187e24/the-power-of-digital-marketing-key-strategies-for-success-1bg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
