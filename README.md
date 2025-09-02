@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrent Programming in Android - Part II](https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io)
-- [Why You Shouldn’t Ignore Early-Stage Projects](https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp)
-- [How Solana Token Development Bridges Blockchain and Real-World Assets](https://dev.to/glenn_phillips_fe2122fd39/how-solana-token-development-bridges-blockchain-and-real-world-assets-3h6c)
-- [How to Choose the Right Open-Source Headless CMS for Your Project](https://dev.to/hardeepsingh01/how-to-choose-the-right-open-source-headless-cms-for-your-project-2in1)
-- [Why is Turbo C++ still being used in Indian schools and colleges?](https://dev.to/sommukhopadhyay/why-is-turbo-c-still-being-used-in-indian-schools-and-colleges-3inf)
+- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
+- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
+- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
+- [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
+- [Midnight Shield: Protect That Data prompt](https://dev.to/muhammad_zeeshan_6499a22a/midnight-shield-protect-that-data-prompt-1pc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
