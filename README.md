@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eventual Consistency: The CRITICAL Data Loss Trap NO ONE Talks About!](https://dev.to/xuan_56087d315ff4f52254e6/eventual-consistency-the-critical-data-loss-trap-no-one-talks-about-2hon)
-- [IGN: Astro Bot - Official Joyful Limited Edition DualSense Controller Reveal Trailer](https://dev.to/gg_news/ign-astro-bot-official-joyful-limited-edition-dualsense-controller-reveal-trailer-3fhh)
-- [Create a minimal site with Elucid8](https://dev.to/finanalyst/create-a-minimal-site-with-elucid8-1gf8)
-- [Learn Bash Scripting With Me 🚀 - Day 1](https://dev.to/babsarena/learn-bash-scripting-with-me-day-1-1ekd)
-- [Horizon World Tutorial - Maze Runner - Part 4 - Randomly generated mazes](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-4-randomly-generated-mazes-3lob)
+- [Introducing THOAD, High Order Derivatives for PyTorch Graphs](https://dev.to/mntsx/introducing-thoad-high-order-derivatives-for-pytorch-graphs-5a1j)
+- [PromptOp – Your AI Lab in One Platform](https://dev.to/mourad_baazi_99a44ccf44e5/promptop-your-ai-lab-in-one-platform-2ani)
+- [Making Historical Context Easily Discoverable from Slack with AI - Building slack-explorer-mcp](https://dev.to/shibayu36/making-historical-context-easily-discoverable-from-slack-with-ai-building-slack-explorer-mcp-54jj)
+- [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
+- [Monitoring the Cloud: Learning CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
