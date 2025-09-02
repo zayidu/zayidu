@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Embeddings: The Hidden Power Behind AI &amp; Search](https://dev.to/dev_kiran/embeddings-the-hidden-power-behind-ai-search-21eb)
-- [🚀 From Console.log Chaos to Production-Ready Logging: A Frontend Developer&#39;s Journey](https://dev.to/rio14/from-consolelog-chaos-to-production-ready-logging-a-frontend-developers-journey-1c0k)
-- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
-- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
-- [Rust Data Structures - Red-Black Tree](https://dev.to/arichy/rust-data-structures-red-black-tree-pf4)
+- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
+- [ChatGPT Safety: Parental Controls, GPT-5 Routing, and Crisis Handling](https://dev.to/alifar/chatgpt-safety-parental-controls-gpt-5-routing-and-crisis-handling-57n4)
+- [🧪 Test Automation Meetup – September 2025 Karate Beyond API Testing &amp; RPA in Test Automation](https://dev.to/testomatio/test-automation-meetup-september-2025karate-beyond-api-testing-rpa-in-test-automation-136h)
+- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
