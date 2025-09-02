@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of GRC: AI, Automation, and the Engineering Mindset](https://dev.to/doneal-grc/the-future-of-grc-ai-automation-and-the-engineering-mindset-22fn)
-- [GitHub Stars program](https://dev.to/sunny7899/github-stars-program-2bg2)
-- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
-- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
-- [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
+- [🔥Embeddings: The Hidden Power Behind AI &amp; Search](https://dev.to/dev_kiran/embeddings-the-hidden-power-behind-ai-search-21eb)
+- [🚀 From Console.log Chaos to Production-Ready Logging: A Frontend Developer&#39;s Journey](https://dev.to/rio14/from-consolelog-chaos-to-production-ready-logging-a-frontend-developers-journey-1c0k)
+- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
+- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
+- [Rust Data Structures - Red-Black Tree](https://dev.to/arichy/rust-data-structures-red-black-tree-pf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
