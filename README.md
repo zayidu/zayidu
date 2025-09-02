@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize SQL Queries in High-Traffic Applications](https://dev.to/dixitgurv/how-to-optimize-sql-queries-in-high-traffic-applications-52d9)
-- [🔒 Configuring Secure Access to Workloads with Azure Firewall](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-firewall-4elg)
-- [Agentic AI News Digest for August 25-29](https://dev.to/alexmercedcoder/agentic-ai-news-digest-for-august-25-29-2agj)
-- [Adam Savage&#39;s Tested: Adam Savage Bathes a 157-Year-Old Newspaper! &lpar;at @NationalParkService Museum Conservation Lab&rpar;](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-bathes-a-157-year-old-newspaper-at-nationalparkservice-museum-54p5)
-- [KEXP: Samantha Crain - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-full-performance-live-on-kexp-fdg)
+- [The Future of GRC: AI, Automation, and the Engineering Mindset](https://dev.to/doneal-grc/the-future-of-grc-ai-automation-and-the-engineering-mindset-22fn)
+- [GitHub Stars program](https://dev.to/sunny7899/github-stars-program-2bg2)
+- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
+- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
+- [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
