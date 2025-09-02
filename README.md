@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
-- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
-- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
-- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
-- [BeeAI Framework A2A Service Implementation Guide](https://dev.to/czmilo/beeai-framework-a2a-service-implementation-guide-45ag)
+- [How to Recover SQL Server Database After Backup Corruption](https://dev.to/nisargupadhyay87/how-to-recover-sql-server-database-after-backup-corruption-46i6)
+- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
+- [Test Init Debug](https://dev.to/ahmed_richdale_33038aaed4/test-init-debug-21hi)
+- [Build a Responsive NavBar in React with Chakra UI v3](https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb)
+- [NDC Conferences: Launch of Trumf Pay – Seamless payment and bonuses with your mobile - Bodil Ibrahim](https://dev.to/scale_youtube/ndc-conferences-launch-of-trumf-pay-seamless-payment-and-bonuses-with-your-mobile-bodil-ibrahim-314f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
