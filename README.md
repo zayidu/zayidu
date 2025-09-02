@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [テトリス Untitled](https://dev.to/_7848d33420a38c40d/tetorisu-untitled-449)
-- [The tyranny of google page speed insights](https://dev.to/street-air-5461/the-tyranny-of-google-page-speed-insights-54b)
-- [The Core Principles of Web Internationalization](https://dev.to/xfq/the-core-principles-of-web-internationalization-4gal)
-- [Struggling with Data Structures &amp; Algorithms? We Built a Solution](https://dev.to/nick_chima_5c15eeef065fbd/struggling-with-data-structures-algorithms-we-built-a-solution-4d3e)
-- [AWS Control Tower Landing Zone Setup: Troubleshooting Account Limits and KMS Policies](https://dev.to/aws-builders/aws-control-tower-landing-zone-setup-troubleshooting-account-limits-and-kms-policies-45me)
+- [Node-API Part-10: Loading ArkTS Modules Dynamically in HarmonyOS Using Node-API](https://dev.to/harmonyos/node-api-part-10-loading-arkts-modules-dynamically-in-harmonyos-using-node-api-58h6)
+- [Set Up Free Custom Domain Email Using CloudFlare](https://dev.to/moefqy/set-up-free-custom-domain-email-using-cloudflare-38ea)
+- [Stop Hoarding Junk Code! Your Algorithm Learning Bible Awaits](https://dev.to/mysterious_xuanwu_5a00815/stop-hoarding-junk-code-your-algorithm-learning-bible-awaits-26hj)
+- [Node-API Part-11 : Passing Prioritised Work from Native C++ to ArkTS — a Step‑by‑Step Guide](https://dev.to/harmonyos/node-api-part-11-passing-prioritised-work-from-native-c-to-arkts-a-step-by-step-guide-3an1)
+- [Creating Custom Elements and Web Components: A Guide for Modern Web Development](https://dev.to/sharique_siddiqui_8242dad/creating-custom-elements-and-web-components-a-guide-for-modern-web-development-4f0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
