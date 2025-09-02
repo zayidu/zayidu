@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Backbone of the Internet: How DNS Actually Works](https://dev.to/naval_kishorupadhyay_3e9/the-hidden-backbone-of-the-internet-how-dns-actually-works-27k9)
-- [WebAssembly 基础（二）](https://dev.to/yangholmes/webassembly-ji-chu-er--5chd)
-- [TAssist](https://dev.to/sohail2721/tassist-3ec4)
-- [Set Up SSH Keys on Windows: A Step-by-Step Guide](https://dev.to/duubemmm/set-up-ssh-keys-on-windows-a-step-by-step-guide-43d5)
-- [Software Engineering is Reality Engineering](https://dev.to/kiddo4lyf/software-engineering-is-reality-engineering-2cdn)
+- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
+- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
+- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
+- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
+- [BeeAI Framework A2A Service Implementation Guide](https://dev.to/czmilo/beeai-framework-a2a-service-implementation-guide-45ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
