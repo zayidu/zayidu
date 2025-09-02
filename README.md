@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Washes a 157-Year-Old Newspaper at ⁨@NationalParkService⁩ Museum Conservation Lab](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-washes-a-157-year-old-newspaper-at-nationalparkservice-museum-2a36)
-- [Golf.com: GOLF Made in Florida: 48 Hours at Cabot Citrus Farms](https://dev.to/youtube_golf/golfcom-golf-made-in-florida-48-hours-at-cabot-citrus-farms-1075)
-- [IGN: Republic of Pirates - Official Console Gameplay Overview Trailer](https://dev.to/gg_news/ign-republic-of-pirates-official-console-gameplay-overview-trailer-21pf)
-- [IGN: Bad Cheese - Official Launch Trailer](https://dev.to/gg_news/ign-bad-cheese-official-launch-trailer-4mgo)
-- [IGN: State of Play September 2025 – 007 First Light Gameplay](https://dev.to/gg_news/ign-state-of-play-september-2025-007-first-light-gameplay-kd9)
+- [Python ile basit bir MCP Sunucu-İstemci örneği](https://dev.to/aciklab/python-ile-basit-bir-mcp-sunucu-istemci-ornegi-7a8)
+- [Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race](https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5)
+- [The Art of Hacky Code: From Clean to Compressed Through AI Prompting](https://dev.to/mdabir1203/the-art-of-hacky-code-from-clean-to-compressed-through-ai-prompting-48i5)
+- [Hello world!](https://dev.to/jimmybillz/hello-world-5gcn)
+- [cursor + openai codex: quick wins, quick fails &lpar;this week&rpar;](https://dev.to/prkskrs/cursor-openai-codex-quick-wins-quick-fails-this-week-1e5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
