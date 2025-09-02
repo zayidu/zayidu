@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing MCP vs LangChain/ReAct for Chatbots](https://dev.to/om_shree_0709/comparing-mcp-vs-langchainreact-for-chatbots-4ci5)
-- [Copiar só parte de um repositório](https://dev.to/dwildt/copiar-so-parte-de-um-repositorio-3b3b)
-- [Literally Everything You Need to Know About System Design](https://dev.to/zorous/literally-everything-you-need-to-know-about-system-design-3a8)
-- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
-- [Send emails with Vercel and Mailtrap](https://dev.to/ketbostoganashvili/send-emails-with-vercel-and-mailtrap-3m57)
+- [GameSpot: Final Fantasy Tactics - The Ivalice Chronicles Hands on Impressions](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-hands-on-impressions-2p72)
+- [IGN: Helldivers 2 - Official &#39;Into the Unjust&#39; Update Launch Trailer](https://dev.to/gg_news/ign-helldivers-2-official-into-the-unjust-update-launch-trailer-5dd0)
+- [Reliable Puppeteer Container Setup for PDF Generation](https://dev.to/cordlesswool/reliable-puppeteer-container-setup-for-pdf-generation-198h)
+- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
+- [Compile-Time and Runtime Polymorphism in Java](https://dev.to/arun_kumar_98/compile-time-and-runtime-polymorphism-in-java-1bch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
