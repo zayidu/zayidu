@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IT Vendor Spend Analysis](https://dev.to/dipti_moryani_08e62702314/it-vendor-spend-analysis-43a2)
-- [EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ](https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf)
-- [Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-how-your-passwords-are-cracked-in-2025-5egk)
-- [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
-- [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
+- [JSON.parse&lpar;&rpar; kept failing with Ollama responses on localhost - spent 3 hours debugging, here&#39;s what worked 💪](https://dev.to/manish169/jsonparse-kept-failing-with-ollama-responses-on-localhost-spent-3-hours-debugging-heres-what-1o79)
+- [Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x](https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna)
+- [The Role of Infrastructure Automation in Cloud and Multi-Cloud Environments](https://dev.to/dhruvseo16/the-role-of-infrastructure-automation-in-cloud-and-multi-cloud-environments-19in)
+- [Mastering Access Tokens &amp; Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
+- [Flexbox Centering](https://dev.to/jyotiux/flexbox-centering-1a7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
