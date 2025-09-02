@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
-- [ChatGPT Safety: Parental Controls, GPT-5 Routing, and Crisis Handling](https://dev.to/alifar/chatgpt-safety-parental-controls-gpt-5-routing-and-crisis-handling-57n4)
-- [🧪 Test Automation Meetup – September 2025 Karate Beyond API Testing &amp; RPA in Test Automation](https://dev.to/testomatio/test-automation-meetup-september-2025karate-beyond-api-testing-rpa-in-test-automation-136h)
-- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
+- [Adam Savage&#39;s Tested: Adam Savage Washes a 157-Year-Old Newspaper at ⁨@NationalParkService⁩ Museum Conservation Lab](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-washes-a-157-year-old-newspaper-at-nationalparkservice-museum-2a36)
+- [Golf.com: GOLF Made in Florida: 48 Hours at Cabot Citrus Farms](https://dev.to/youtube_golf/golfcom-golf-made-in-florida-48-hours-at-cabot-citrus-farms-1075)
+- [IGN: Republic of Pirates - Official Console Gameplay Overview Trailer](https://dev.to/gg_news/ign-republic-of-pirates-official-console-gameplay-overview-trailer-21pf)
+- [IGN: Bad Cheese - Official Launch Trailer](https://dev.to/gg_news/ign-bad-cheese-official-launch-trailer-4mgo)
+- [IGN: State of Play September 2025 – 007 First Light Gameplay](https://dev.to/gg_news/ign-state-of-play-september-2025-007-first-light-gameplay-kd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
