@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Launch: Find-Your-ERP – ERP pre-selection in just 6 minutes with neuro-symbolic AI](https://dev.to/sectorlens/launch-find-your-erp-erp-pre-selection-in-just-6-minutes-with-neuro-symbolic-ai-3604)
-- [KEXP: Samantha Crain - Gumshoe &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-gumshoe-live-on-kexp-aag)
-- [KEXP: Samantha Crain - Dragonfly &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dragonfly-live-on-kexp-p2l)
-- [KEXP: Samantha Crain - Dart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dart-live-on-kexp-1f32)
-- [KEXP: Samantha Crain - B-Attitudes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-b-attitudes-live-on-kexp-50dl)
+- [Comparing MCP vs LangChain/ReAct for Chatbots](https://dev.to/om_shree_0709/comparing-mcp-vs-langchainreact-for-chatbots-4ci5)
+- [Copiar só parte de um repositório](https://dev.to/dwildt/copiar-so-parte-de-um-repositorio-3b3b)
+- [Literally Everything You Need to Know About System Design](https://dev.to/zorous/literally-everything-you-need-to-know-about-system-design-3a8)
+- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
+- [Send emails with Vercel and Mailtrap](https://dev.to/ketbostoganashvili/send-emails-with-vercel-and-mailtrap-3m57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
