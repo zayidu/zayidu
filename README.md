@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica Java: Variáveis de Ambiente #010](https://dev.to/oigorrudel/dica-java-variaveis-de-ambiente-010-5ckk)
-- [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
-- [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
-- [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
-- [Standardizing API Responses in Django REST Framework with a Custom Response Wrapper](https://dev.to/vincenttommi/standardizing-api-responses-in-django-rest-framework-with-a-custom-response-wrapper-8ii)
+- [テトリス Untitled](https://dev.to/_7848d33420a38c40d/tetorisu-untitled-449)
+- [The tyranny of google page speed insights](https://dev.to/street-air-5461/the-tyranny-of-google-page-speed-insights-54b)
+- [The Core Principles of Web Internationalization](https://dev.to/xfq/the-core-principles-of-web-internationalization-4gal)
+- [Struggling with Data Structures &amp; Algorithms? We Built a Solution](https://dev.to/nick_chima_5c15eeef065fbd/struggling-with-data-structures-algorithms-we-built-a-solution-4d3e)
+- [AWS Control Tower Landing Zone Setup: Troubleshooting Account Limits and KMS Policies](https://dev.to/aws-builders/aws-control-tower-landing-zone-setup-troubleshooting-account-limits-and-kms-policies-45me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
