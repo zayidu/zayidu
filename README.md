@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON.parse&lpar;&rpar; kept failing with Ollama responses on localhost - spent 3 hours debugging, here&#39;s what worked 💪](https://dev.to/manish169/jsonparse-kept-failing-with-ollama-responses-on-localhost-spent-3-hours-debugging-heres-what-1o79)
-- [Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x](https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna)
-- [The Role of Infrastructure Automation in Cloud and Multi-Cloud Environments](https://dev.to/dhruvseo16/the-role-of-infrastructure-automation-in-cloud-and-multi-cloud-environments-19in)
-- [Mastering Access Tokens &amp; Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
-- [Flexbox Centering](https://dev.to/jyotiux/flexbox-centering-1a7a)
+- [Concurrent Programming in Android - Part II](https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io)
+- [Why You Shouldn’t Ignore Early-Stage Projects](https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp)
+- [How Solana Token Development Bridges Blockchain and Real-World Assets](https://dev.to/glenn_phillips_fe2122fd39/how-solana-token-development-bridges-blockchain-and-real-world-assets-3h6c)
+- [How to Choose the Right Open-Source Headless CMS for Your Project](https://dev.to/hardeepsingh01/how-to-choose-the-right-open-source-headless-cms-for-your-project-2in1)
+- [Why is Turbo C++ still being used in Indian schools and colleges?](https://dev.to/sommukhopadhyay/why-is-turbo-c-still-being-used-in-indian-schools-and-colleges-3inf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
