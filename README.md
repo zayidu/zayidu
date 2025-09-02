@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node-API Part-10: Loading ArkTS Modules Dynamically in HarmonyOS Using Node-API](https://dev.to/harmonyos/node-api-part-10-loading-arkts-modules-dynamically-in-harmonyos-using-node-api-58h6)
-- [Set Up Free Custom Domain Email Using CloudFlare](https://dev.to/moefqy/set-up-free-custom-domain-email-using-cloudflare-38ea)
-- [Stop Hoarding Junk Code! Your Algorithm Learning Bible Awaits](https://dev.to/mysterious_xuanwu_5a00815/stop-hoarding-junk-code-your-algorithm-learning-bible-awaits-26hj)
-- [Node-API Part-11 : Passing Prioritised Work from Native C++ to ArkTS — a Step‑by‑Step Guide](https://dev.to/harmonyos/node-api-part-11-passing-prioritised-work-from-native-c-to-arkts-a-step-by-step-guide-3an1)
-- [Creating Custom Elements and Web Components: A Guide for Modern Web Development](https://dev.to/sharique_siddiqui_8242dad/creating-custom-elements-and-web-components-a-guide-for-modern-web-development-4f0l)
+- [IT Vendor Spend Analysis](https://dev.to/dipti_moryani_08e62702314/it-vendor-spend-analysis-43a2)
+- [EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ](https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf)
+- [Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-how-your-passwords-are-cracked-in-2025-5egk)
+- [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
+- [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
