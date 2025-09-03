@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing GitHub Authentication Error: &quot;erase operation not supported&quot; and &quot;Invalid username or token&quot;](https://dev.to/nutan_mishra_95d0a3808a4d/fixing-github-authentication-error-erase-operation-not-supported-and-invalid-username-or-token-47jp)
-- [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
-- [Understanding Localhost:1313 - The Heart of Hugo Development](https://dev.to/lightningdev123/understanding-localhost1313-the-heart-of-hugo-development-30g6)
-- [100 Days of DevOps: Day 31](https://dev.to/wycliffealphus/100-days-of-devops-day-31-2c4f)
-- [Oops... I Locked Myself Out with UFW — Here&#39;s How I Fixed It](https://dev.to/mosesmorris/oops-i-locked-myself-out-with-ufw-heres-how-i-fixed-it-5bk2)
+- [ZKVote: The Invisible Ballot That Could Unite the World.](https://dev.to/revis047/zkvote-the-invisible-ballot-that-could-unite-the-world-3p5m)
+- [My Breakup Letter to JavaScript: A Developer&#39;s Journey to Moving On](https://dev.to/thedevankit/my-breakup-letter-to-javascript-a-developers-journey-to-moving-on-4af0)
+- [Laravel Cache Tip: Avoid Redundant has/missing Calls](https://dev.to/tegos/laravel-cache-tip-avoid-redundant-hasmissing-calls-4hi1)
+- [Pocket-Sized Performance: Building a Network Sentinel with Reservoir Computing on a Pi by Arvind Sundararajan](https://dev.to/arvindsundararajan/pocket-sized-performance-building-a-network-sentinel-with-reservoir-computing-on-a-pi-by-arvind-2bh4)
+- [Inside an agent’s brain: Why AI Needs Open Orchestration](https://dev.to/genai-works/inside-an-agents-brain-why-ai-needs-open-orchestration-69j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
