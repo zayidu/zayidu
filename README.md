@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One way to solve the Screen Rotation problem while dealing with Android Asynctask](https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d)
-- [Rust for Beginners: 8 Practical Tips to Get Started](https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd)
-- [&quot;Starting Small, Dreaming Big : My Web Dev Dairy&quot;](https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d)
-- [GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream](https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil)
-- [IGN: Mewgenics - 50-Minute Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-mewgenics-50-minute-developer-gameplay-commentary-video-286)
+- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
+- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
+- [C++ 20 - concurrency - stop_token in jthread - politely interrupting the thread...](https://dev.to/sommukhopadhyay/c-20-concurrency-stoptoken-in-jthread-politely-interrupting-the-thread-79j)
+- [⚡ Automating Workflows with n8n and AI](https://dev.to/techstuff/automating-workflows-with-n8n-and-ai-4j3e)
+- [Builder Design Pattern implemented using Python...](https://dev.to/sommukhopadhyay/builder-design-pattern-implemented-using-python-52hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
