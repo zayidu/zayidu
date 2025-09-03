@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Just Broke the Internet: Tesla Robots Worth More Than Cars](https://dev.to/shiva_shanker_k/elon-just-broke-the-internet-tesla-robots-worth-more-than-cars-46ll)
-- [🚨 Tech Chaos: August 2025&#39;s Most INSANE Stories](https://dev.to/shiva_shanker_k/tech-chaos-august-2025s-most-insane-stories-1ii5)
-- [NPM v/s NPX](https://dev.to/anuradha9712/npm-vs-npx-1lj0)
-- [Building Your First Full-Stack CRUD App with FastAPI and React.js](https://dev.to/gilly7/building-your-first-full-stack-crud-app-with-fastapi-and-reactjs-3i1n)
-- [When Wi-Fi Becomes the Weakest Link in Zero Trust](https://dev.to/leonardkachi/when-wi-fi-becomes-the-weakest-link-in-zero-trust-2cib)
+- [No “resume” in Codex CLI, so I built one: quickly “continue” with `codex-history-list`](https://dev.to/shinshin86/no-resume-in-codex-cli-so-i-built-one-quickly-continue-with-codex-history-list-50be)
+- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
+- [Building an Enterprise-Grade Tags Input Component with ShadCN UI + React](https://dev.to/muhammadaqib86/building-an-enterprise-grade-tags-input-component-with-shadcn-ui-react-39la)
+- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
+- [From Pixel to Perfection: Instant 3D Models from Single Images by Arvind Sundararajan](https://dev.to/arvindsundararajan/from-pixel-to-perfection-instant-3d-models-from-single-images-by-arvind-sundararajan-12n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
