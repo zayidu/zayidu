@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Tropical Fuck Storm - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-full-performance-live-on-kexp-1lbi)
-- [No more wasting time...](https://dev.to/masterdevsabith/no-more-wasting-time-3nj6)
-- [GameSpot: Cronos: The New Dawn Review](https://dev.to/gg_news/gamespot-cronos-the-new-dawn-review-9if)
-- [IGN: 28 Years Later: The Bone Temple - Official Trailer &lpar;2026&rpar; Ralph Fiennes, Jack O&#39;Connell,](https://dev.to/gg_news/ign-28-years-later-the-bone-temple-official-trailer-2026-ralph-fiennes-jack-oconnell-4nki)
-- [IGN: Cronos: The New Dawn Survival Guide – 12 Tips You NEED to Know](https://dev.to/gg_news/ign-cronos-the-new-dawn-survival-guide-12-tips-you-need-to-know-nii)
+- [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
+- [Not Just Scraping: OSINTGraph Turns Your Target’s Instagram Network into an Investigable Graph with an Integrated AI Agent](https://dev.to/justin_lol_a756619fd64361/not-just-scraping-osintgraph-turns-your-targets-instagram-network-into-an-investigable-graph-with-241l)
+- [HTTP Status Codes: A Developer&#39;s Real-World Guide🚦](https://dev.to/sidharth_sangelia/http-status-codes-a-developers-real-world-guide-3gd4)
+- [Make RAG Provable: Page + BBox Citations for All Extracted Data](https://dev.to/tensorlake/make-rag-provable-page-bbox-citations-for-all-extracted-data-4ipc)
+- [React Context APIs, State sharing and Zustand](https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
