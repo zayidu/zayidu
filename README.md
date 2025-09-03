@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
-- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
-- [C++ 20 - concurrency - stop_token in jthread - politely interrupting the thread...](https://dev.to/sommukhopadhyay/c-20-concurrency-stoptoken-in-jthread-politely-interrupting-the-thread-79j)
-- [⚡ Automating Workflows with n8n and AI](https://dev.to/techstuff/automating-workflows-with-n8n-and-ai-4j3e)
-- [Builder Design Pattern implemented using Python...](https://dev.to/sommukhopadhyay/builder-design-pattern-implemented-using-python-52hb)
+- [Translation vs. Localization: What&#39;s the Difference?](https://dev.to/elenahartmann/translation-vs-localization-whats-the-difference-5e5)
+- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/techstuff/flowiseai-the-open-source-visual-builder-for-ai-agents-1b74)
+- [You are 1 post away...](https://dev.to/masterdevsabith/you-are-1-post-away-1kdf)
+- [AI-Powered Ghosts: Securing Your Smart Factory&#39;s IP](https://dev.to/arvindsundararajan/ai-powered-ghosts-securing-your-smart-factorys-ip-3ndj)
+- [Why API tooling needs a reset &lpar;and what we&#39;re doing about it&rpar;](https://dev.to/kiselitza/why-api-tooling-needs-a-reset-and-what-were-doing-about-it-3dn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
