@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Tropical Fuck Storm - You Let My Tyres Down &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-you-let-my-tyres-down-live-on-kexp-1k2m)
-- [KEXP: Tropical Fuck Storm - Braindrops &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-braindrops-live-on-kexp-232b)
-- [KEXP: Tropical Fuck Storm - Irukandji Syndrome &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-irukandji-syndrome-live-on-kexp-2ecm)
-- [KEXP: Tropical Fuck Storm - Bloodsport &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-bloodsport-live-on-kexp-2k6n)
-- [The 67-Second OpenTelemetry Problem](https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b)
+- [Apostrophe 4.21.0: Effortless Image Uploads and Strategic Platform Enhancements](https://dev.to/apostrophetechnologies/apostrophe-4210-effortless-image-uploads-and-strategic-platform-enhancements-33m5)
+- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
+- [A small checklist for Elementor users](https://dev.to/elliemiguel/a-small-checklist-for-elementor-users-28c8)
+- [Deploy Your Own AI Video Ad Generator on AWS &lpar;Using Nova / Poly / ECS / Streamlit&rpar;](https://dev.to/debadattap/deploy-your-own-ai-video-ad-generator-on-aws-using-nova-poly-ecs-streamlit-1833)
+- [[Boost]](https://dev.to/davinceleecode/-1096)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
