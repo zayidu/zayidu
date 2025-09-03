@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
-- [Why Writing Efficient Code Still Matters &lpar;Even in the Age of AI&rpar; ?](https://dev.to/yogi_rahul/why-writing-efficient-code-still-matters-even-in-the-age-of-ai--3528)
-- [Secure Data Sharing: AWS Lambda Writing to S3 Across Accounts](https://dev.to/rajesh_gundeti/secure-data-sharing-aws-lambda-writing-to-s3-across-accounts-5h1)
-- [Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI](https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod)
-- [Helpful Settings When Running RSpec with parallel_tests](https://dev.to/hamajyotan/helpful-settings-when-running-rspec-with-paralleltests-25mh)
+- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
+- [Angular in 2025- Still Relevant?](https://dev.to/metana/angular-in-2025-still-relevant-2kg3)
+- [The Art of Beautiful Functions in TypeScript](https://dev.to/xtareq/the-art-of-beautiful-functions-in-typescript-1eb7)
+- [How to Deploy Karpenter on Google Cloud](https://dev.to/cloudpilot-ai/how-to-deploy-karpenter-on-google-cloud-44fd)
+- [Docker Series: Episode 12 — Docker Security — Protect Your Images, Containers &amp; Secrets 🔒](https://dev.to/yash_sonawane25/docker-series-episode-12-docker-security-protect-your-images-containers-secrets-5gfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
