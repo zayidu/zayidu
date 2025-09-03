@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Resource Server &amp; Symfony Client Bundle](https://dev.to/sebk69/small-resource-server-symfony-client-bundle-1481)
-- [Amazon Bedrock AgentCore Runtime - Part 3 AgentCore Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-3-agentcore-observability-f08)
-- [How I Built a Free Google News Sitemap Generator Plugin for WordPress &lpar;with Full Code&rpar;](https://dev.to/harshitkumar/how-i-built-a-free-google-news-sitemap-generator-plugin-for-wordpress-with-full-code-41ip)
-- [Enriching Learning Session ✨](https://dev.to/aruna_arun_0cda4eb425bb0f/enriching-learning-session-16od)
-- [Simplifying Workload Communication with Azure Private DNS Zones](https://dev.to/peter_samuel_052b9056e236/simplifying-workload-communication-with-azure-private-dns-zones-5fo2)
+- [IGN: Marvel Rivals - Official Season 4: Heart of The Dragon Overview](https://dev.to/gg_news/ign-marvel-rivals-official-season-4-heart-of-the-dragon-overview-op8)
+- [WordPress vs Next.js: A Developer&#39;s Technical Decision Framework for 2025](https://dev.to/n9ka/wordpress-vs-nextjs-a-developers-technical-decision-framework-for-2025-16i6)
+- [Daily DSA and System Design Journal - 6](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-6-2h8c)
+- [Turning Entire Blogs into Short Summaries: Map-Reduce for LLMs](https://dev.to/grzegorz_dubiel_db99203fe/turning-entire-blogs-into-short-summaries-map-reduce-for-llms-66j)
+- [Ever asked a model “where did you get that?” Citations for document parsing solve that exact trust gap. Fewer hallucinations. More trust. Reliable workflows. Read the article, watch the video, try the notebook 👇](https://dev.to/drguthals/ever-asked-a-model-where-did-you-get-that-citations-for-document-parsing-solve-that-exact-27i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
