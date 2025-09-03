@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
-- [Angular in 2025- Still Relevant?](https://dev.to/metana/angular-in-2025-still-relevant-2kg3)
-- [The Art of Beautiful Functions in TypeScript](https://dev.to/xtareq/the-art-of-beautiful-functions-in-typescript-1eb7)
-- [How to Deploy Karpenter on Google Cloud](https://dev.to/cloudpilot-ai/how-to-deploy-karpenter-on-google-cloud-44fd)
-- [Docker Series: Episode 12 — Docker Security — Protect Your Images, Containers &amp; Secrets 🔒](https://dev.to/yash_sonawane25/docker-series-episode-12-docker-security-protect-your-images-containers-secrets-5gfo)
+- [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
+- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
+- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
+- [Day 13 – Multi-agent Chaos in AI Pipelines &lpar;ProblemMap No.13&rpar;](https://dev.to/onestardao/day-13-multi-agent-chaos-in-ai-pipelines-problemmap-no13-33fa)
+- [Lessons from Building a Global AI Brand from Scratch](https://dev.to/jaideepparashar/lessons-from-building-a-global-ai-brand-from-scratch-f1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
