@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apostrophe 4.21.0: Effortless Image Uploads and Strategic Platform Enhancements](https://dev.to/apostrophetechnologies/apostrophe-4210-effortless-image-uploads-and-strategic-platform-enhancements-33m5)
-- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
-- [A small checklist for Elementor users](https://dev.to/elliemiguel/a-small-checklist-for-elementor-users-28c8)
-- [Deploy Your Own AI Video Ad Generator on AWS &lpar;Using Nova / Poly / ECS / Streamlit&rpar;](https://dev.to/debadattap/deploy-your-own-ai-video-ad-generator-on-aws-using-nova-poly-ecs-streamlit-1833)
-- [[Boost]](https://dev.to/davinceleecode/-1096)
+- [KEXP: Tropical Fuck Storm - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-full-performance-live-on-kexp-1lbi)
+- [No more wasting time...](https://dev.to/masterdevsabith/no-more-wasting-time-3nj6)
+- [GameSpot: Cronos: The New Dawn Review](https://dev.to/gg_news/gamespot-cronos-the-new-dawn-review-9if)
+- [IGN: 28 Years Later: The Bone Temple - Official Trailer &lpar;2026&rpar; Ralph Fiennes, Jack O&#39;Connell,](https://dev.to/gg_news/ign-28-years-later-the-bone-temple-official-trailer-2026-ralph-fiennes-jack-oconnell-4nki)
+- [IGN: Cronos: The New Dawn Survival Guide – 12 Tips You NEED to Know](https://dev.to/gg_news/ign-cronos-the-new-dawn-survival-guide-12-tips-you-need-to-know-nii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
