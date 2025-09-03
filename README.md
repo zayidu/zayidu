@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No “resume” in Codex CLI, so I built one: quickly “continue” with `codex-history-list`](https://dev.to/shinshin86/no-resume-in-codex-cli-so-i-built-one-quickly-continue-with-codex-history-list-50be)
-- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
-- [Building an Enterprise-Grade Tags Input Component with ShadCN UI + React](https://dev.to/muhammadaqib86/building-an-enterprise-grade-tags-input-component-with-shadcn-ui-react-39la)
-- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
-- [From Pixel to Perfection: Instant 3D Models from Single Images by Arvind Sundararajan](https://dev.to/arvindsundararajan/from-pixel-to-perfection-instant-3d-models-from-single-images-by-arvind-sundararajan-12n2)
+- [Fixing GitHub Authentication Error: &quot;erase operation not supported&quot; and &quot;Invalid username or token&quot;](https://dev.to/nutan_mishra_95d0a3808a4d/fixing-github-authentication-error-erase-operation-not-supported-and-invalid-username-or-token-47jp)
+- [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
+- [Understanding Localhost:1313 - The Heart of Hugo Development](https://dev.to/lightningdev123/understanding-localhost1313-the-heart-of-hugo-development-30g6)
+- [100 Days of DevOps: Day 31](https://dev.to/wycliffealphus/100-days-of-devops-day-31-2c4f)
+- [Oops... I Locked Myself Out with UFW — Here&#39;s How I Fixed It](https://dev.to/mosesmorris/oops-i-locked-myself-out-with-ufw-heres-how-i-fixed-it-5bk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
