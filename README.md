@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up RAG Locally with Ollama: A Beginner-Friendly Guide](https://dev.to/the_aayush_mishra/setting-up-rag-locally-with-ollama-a-beginner-friendly-guide-428m)
-- [Como aceleramos em 90% a execução das nossas migrações em Rails](https://dev.to/v360/como-aceleramos-em-90-a-execucao-das-nossas-migracoes-em-rails-1kdn)
-- [How we sped up our rails migration setup in 90%](https://dev.to/v360/how-we-sped-up-our-rails-migration-setup-in-90-8be)
-- [Call Center Flow Editor — now updated with Angular 20 &amp; Signals 🚀](https://dev.to/shuzarevich/call-center-flow-editor-now-updated-with-angular-20-signals-56hh)
-- [Mastering Bash: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-a-complete-guide-1n8m)
+- [The Database Isn&#39;t Magic: Why Indexing Matters](https://dev.to/usmanzahidcode/the-database-isnt-magic-why-indexing-matters-1cef)
+- [Your Java App Is Leaking Memory! The Hidden Classloader Trap You&#39;re Missing.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-leaking-memory-the-hidden-classloader-trap-youre-missing-3obj)
+- [IGN: Xbox Wireless Controller - Official Breaker Special Edition Series Trailer](https://dev.to/gg_news/ign-xbox-wireless-controller-official-breaker-special-edition-series-trailer-n86)
+- [Two Years of Microsoft Fabric: Game Changer or Still Leveling Up? 🚀](https://dev.to/narayan_f8f2c91c99dfd33e6/two-years-of-microsoft-fabric-game-changer-or-still-leveling-up-165e)
+- [When Small Method Choices Cascade Into Big Performance Wins](https://dev.to/jetthoughts/when-small-method-choices-cascade-into-big-performance-wins-1e87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
