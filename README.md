@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OCI-MCP Integration: Connecting Oracle Cloud with AI](https://dev.to/dinesh_marimuthu_659d25d6/oci-mcp-integration-connecting-oracle-cloud-with-ai-35jl)
-- [Arduino Project 05](https://dev.to/cecilionavarro/arduino-project-05-5ebg)
-- [Study: 89% of Dev Agencies Use the Wrong Pricing Model &lpar;Data from 500+ Agencies&rpar;](https://dev.to/teamcamp/study-89-of-dev-agencies-use-the-wrong-pricing-model-data-from-500-agencies-5112)
-- [Oracle Database 23ai: Key Features and MCP Integration](https://dev.to/dinesh_marimuthu_659d25d6/oracle-database-23ai-key-features-and-mcp-integration-3bk6)
-- [🚀 Introducing AI-DBUG](https://dev.to/workwithnk/introducing-ai-dbug-21p0)
+- [One way to solve the Screen Rotation problem while dealing with Android Asynctask](https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d)
+- [Rust for Beginners: 8 Practical Tips to Get Started](https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd)
+- [&quot;Starting Small, Dreaming Big : My Web Dev Dairy&quot;](https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d)
+- [GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream](https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil)
+- [IGN: Mewgenics - 50-Minute Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-mewgenics-50-minute-developer-gameplay-commentary-video-286)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
