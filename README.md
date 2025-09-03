@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
-- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
-- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
-- [Day 13 – Multi-agent Chaos in AI Pipelines &lpar;ProblemMap No.13&rpar;](https://dev.to/onestardao/day-13-multi-agent-chaos-in-ai-pipelines-problemmap-no13-33fa)
-- [Lessons from Building a Global AI Brand from Scratch](https://dev.to/jaideepparashar/lessons-from-building-a-global-ai-brand-from-scratch-f1g)
+- [OCI-MCP Integration: Connecting Oracle Cloud with AI](https://dev.to/dinesh_marimuthu_659d25d6/oci-mcp-integration-connecting-oracle-cloud-with-ai-35jl)
+- [Arduino Project 05](https://dev.to/cecilionavarro/arduino-project-05-5ebg)
+- [Study: 89% of Dev Agencies Use the Wrong Pricing Model &lpar;Data from 500+ Agencies&rpar;](https://dev.to/teamcamp/study-89-of-dev-agencies-use-the-wrong-pricing-model-data-from-500-agencies-5112)
+- [Oracle Database 23ai: Key Features and MCP Integration](https://dev.to/dinesh_marimuthu_659d25d6/oracle-database-23ai-key-features-and-mcp-integration-3bk6)
+- [🚀 Introducing AI-DBUG](https://dev.to/workwithnk/introducing-ai-dbug-21p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
