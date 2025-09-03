@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing THOAD, High Order Derivatives for PyTorch Graphs](https://dev.to/mntsx/introducing-thoad-high-order-derivatives-for-pytorch-graphs-5a1j)
-- [PromptOp – Your AI Lab in One Platform](https://dev.to/mourad_baazi_99a44ccf44e5/promptop-your-ai-lab-in-one-platform-2ani)
-- [Making Historical Context Easily Discoverable from Slack with AI - Building slack-explorer-mcp](https://dev.to/shibayu36/making-historical-context-easily-discoverable-from-slack-with-ai-building-slack-explorer-mcp-54jj)
-- [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
-- [Monitoring the Cloud: Learning CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
+- [I Built an AI That Judges Your Drawings](https://dev.to/adzhydra/i-built-an-ai-that-judges-your-drawings-44o4)
+- [Optimize Your Go Code: Mastering `string` and `[]byte` Conversions](https://dev.to/jones_charles_ad50858dbc0/optimize-your-go-code-mastering-string-and-byte-conversions-3k5)
+- [Tencent Hunyuan Translation Model Complete Guide: The New Benchmark for Open-Source AI Translation in 2025](https://dev.to/czmilo/tencent-hunyuan-translation-model-complete-guide-the-new-benchmark-for-open-source-ai-translation-4ab)
+- [Inside the Portfolio: How Stocksimpy Tracks Trades and Value](https://dev.to/suleyman_sade/inside-the-portfolio-how-stocksimpy-tracks-trades-and-value-15b0)
+- [You May Need an Anti-Corruption Layer](https://dev.to/jesterxl/you-may-need-an-anti-corruption-layer-52pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
