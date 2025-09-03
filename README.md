@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Database Isn&#39;t Magic: Why Indexing Matters](https://dev.to/usmanzahidcode/the-database-isnt-magic-why-indexing-matters-1cef)
-- [Your Java App Is Leaking Memory! The Hidden Classloader Trap You&#39;re Missing.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-leaking-memory-the-hidden-classloader-trap-youre-missing-3obj)
-- [IGN: Xbox Wireless Controller - Official Breaker Special Edition Series Trailer](https://dev.to/gg_news/ign-xbox-wireless-controller-official-breaker-special-edition-series-trailer-n86)
-- [Two Years of Microsoft Fabric: Game Changer or Still Leveling Up? 🚀](https://dev.to/narayan_f8f2c91c99dfd33e6/two-years-of-microsoft-fabric-game-changer-or-still-leveling-up-165e)
-- [When Small Method Choices Cascade Into Big Performance Wins](https://dev.to/jetthoughts/when-small-method-choices-cascade-into-big-performance-wins-1e87)
+- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
+- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
+- [Enhance the Ecosystem: npm package to initialize react app with midnight lace wallet connection.](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
+- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
+- [My Open Source Journey Begins with GitHub &amp; Magic Enum](https://dev.to/elsad_humbetli_0971c995ce/my-open-source-journey-begins-with-github-magic-enum-46g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
