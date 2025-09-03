@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Judges Your Drawings](https://dev.to/adzhydra/i-built-an-ai-that-judges-your-drawings-44o4)
-- [Optimize Your Go Code: Mastering `string` and `[]byte` Conversions](https://dev.to/jones_charles_ad50858dbc0/optimize-your-go-code-mastering-string-and-byte-conversions-3k5)
-- [Tencent Hunyuan Translation Model Complete Guide: The New Benchmark for Open-Source AI Translation in 2025](https://dev.to/czmilo/tencent-hunyuan-translation-model-complete-guide-the-new-benchmark-for-open-source-ai-translation-4ab)
-- [Inside the Portfolio: How Stocksimpy Tracks Trades and Value](https://dev.to/suleyman_sade/inside-the-portfolio-how-stocksimpy-tracks-trades-and-value-15b0)
-- [You May Need an Anti-Corruption Layer](https://dev.to/jesterxl/you-may-need-an-anti-corruption-layer-52pm)
+- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
+- [Why Writing Efficient Code Still Matters &lpar;Even in the Age of AI&rpar; ?](https://dev.to/yogi_rahul/why-writing-efficient-code-still-matters-even-in-the-age-of-ai--3528)
+- [Secure Data Sharing: AWS Lambda Writing to S3 Across Accounts](https://dev.to/rajesh_gundeti/secure-data-sharing-aws-lambda-writing-to-s3-across-accounts-5h1)
+- [Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI](https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod)
+- [Helpful Settings When Running RSpec with parallel_tests](https://dev.to/hamajyotan/helpful-settings-when-running-rspec-with-paralleltests-25mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
