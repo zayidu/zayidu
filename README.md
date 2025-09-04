@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Plough: How to Thrive When AI Rewrites the Job](https://dev.to/black-ib/beyond-the-plough-how-to-thrive-when-ai-rewrites-the-job-3p33)
+- [The Philosophical Choice Between SQLite and DuckDB for Flutter Developers](https://dev.to/sayed_ali_alkamel/the-philosophical-choice-between-sqlite-and-duckdb-for-flutter-developers-43hj)
+- [CompTIA Network+ N10-009 Notes: A Simple Guide to IPv4](https://dev.to/andrew_despres/comptia-network-n10-009-notes-a-simple-guide-to-ipv4-3mad)
+- [More Adventures in Vibe Coding...](https://dev.to/themindfulmerge/more-adventures-in-vibe-coding-1ggp)
 - [GameSpot: Marvel Rivals - Angela Character Gameplay Reveal Trailer | The Hand of Heven Descends](https://dev.to/gg_news/gamespot-marvel-rivals-angela-character-gameplay-reveal-trailer-the-hand-of-heven-descends-3c80)
-- [IGN: RoadCraft - Official Rebuild Expansion Trailer](https://dev.to/gg_news/ign-roadcraft-official-rebuild-expansion-trailer-44ae)
-- [IGN: For Honor - Official Year 9 Season 3 Downfall Gameplay Trailer](https://dev.to/gg_news/ign-for-honor-official-year-9-season-3-downfall-gameplay-trailer-3jf1)
-- [IGN: The Dino Run 2 - Official Early Access Kickstarter Trailer](https://dev.to/gg_news/ign-the-dino-run-2-official-early-access-kickstarter-trailer-483p)
-- [IGN: Hollow Knight: Silksong - Bell Beast Boss Gameplay &lpar;4K 60FPS&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-bell-beast-boss-gameplay-4k-60fps-46oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
