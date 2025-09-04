@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
-- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
-- [Why Every Developer Should Master Async/Await and Promises](https://dev.to/code_2/why-every-developer-should-master-asyncawait-and-promises-370k)
-- [Understanding SwiftUI Stacks: HStack, VStack, and ZStack - A Deep Dive](https://dev.to/arshtechpro/understanding-swiftui-stacks-hstack-vstack-and-zstack-a-deep-dive-3m3c)
-- [Building a Well-Known Token Registry](https://dev.to/rastislavcore/building-a-well-known-token-registry-38k3)
+- [How to send Filament database notifications to a specific queue](https://dev.to/filamentmastery/how-to-send-filament-database-notifications-to-a-specific-queue-1e91)
+- [Your UI is Not Part of Security: The Reality of BOLA](https://dev.to/alvacoder/your-ui-is-not-part-of-security-the-reality-of-bola-52jn)
+- [Get Your Go Package on pkg.go.dev: A Simple Guide](https://dev.to/anuchito/get-your-go-package-on-pkggodev-a-simple-guide-3k5d)
+- [How Code Becomes Software: Execution Models Explained](https://dev.to/naval_upadhyay/how-code-becomes-software-execution-models-explained-2dfe)
+- [Smarter Database DevOps with AI: From Changelogs to Intelligent Pipelines](https://dev.to/sonichigo/smarter-database-devops-with-ai-from-changelogs-to-intelligent-pipelines-1642)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
