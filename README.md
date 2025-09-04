@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Roadmap: Beginner to Advanced](https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8)
-- [Supabase Roadmap: Beginner to Advanced](https://dev.to/kyl67899/supabase-roadmap-beginner-to-advanced-363c)
-- [Next.js Roadmap: Beginner to Advanced](https://dev.to/kyl67899/nextjs-roadmap-beginner-to-advanced-58g3)
-- [Simulando navegação por teclado com as novas teclas do comando cy.press na versão 15.1.0 do Cypress](https://dev.to/talking-about-testing/simulando-navegacao-por-teclado-com-as-novas-teclas-do-comando-cypress-na-versao-1510-do-cypress-1ind)
-- [Whispurr&#39;s Moonhouse &lpar;A Cozy, Emotional Mystery&rpar;WIP](https://dev.to/cutieyunnytech/whispurrs-moonhouse-a-cozy-emotional-mysterywip-4ol2)
+- [How to Convert 3ds Max Files to Cinema 4D?](https://dev.to/irender_gpu_cloud/how-to-convert-3ds-max-files-to-cinema-4d-4oli)
+- [Understanding Encapsulation in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-encapsulation-in-javascript-29d3)
+- [An Enum Alternative to the Factory Pattern: The Pros, Cons, and Hidden Dangers &lpar;in the voice of Rita Skeeter&rpar;](https://dev.to/ketkiambekar/an-enum-alternative-to-the-factory-pattern-the-pros-cons-and-hidden-dangers-in-the-voice-of-boj)
+- [Deploy using Slot](https://dev.to/sandeep_chauhan_f5476f312/deploy-using-slot-3gjf)
+- [What serverless developers need to know about the 12 Factors](https://dev.to/aws-heroes/what-serverless-developers-need-to-know-about-the-12-factors-22fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
