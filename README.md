@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Linux Permissions: A Beginner-Friendly Guide for DevOps 🚀](https://dev.to/chethanblgs99/understanding-linux-permissions-a-beginner-friendly-guide-for-devops-3mbj)
-- [Getting Started with Gaia: A Developer&#39;s Guide to Building AI Agents with Gaia](https://dev.to/gaiaai/getting-started-with-gaia-a-developers-guide-to-building-ai-agents-4ji8)
-- [Ada Lovelace and the Story of the World&#39;s First Algorithm](https://dev.to/toviszsolt/ada-lovelace-and-the-story-of-the-worlds-first-algorithm-39f7)
-- [How do I make my Shopify cookie banner less annoying but still compliant?](https://dev.to/mehwish_malik_4f29ff7fb04/how-do-i-make-my-shopify-cookie-banner-less-annoying-but-still-compliant-3o3d)
-- [9 Practical Online Resources to Learn Coding in 2025 📚👨‍💻](https://dev.to/madza/9-practical-online-resources-to-learn-coding-in-2025-30m3)
+- [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Automated Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-automated-testing-24h6)
+- [Build your own Posthog - PART 2](https://dev.to/infms/build-your-own-posthog-part-2-4a3c)
+- [How QR Codes Work &lpar;and How to Make Your Own in Python&rpar;](https://dev.to/devasservice/how-qr-codes-work-and-how-to-make-your-own-in-python-39f7)
+- [Deploying Agents on Windows &amp; Linux Without SSH Using AWS SSM and Parameter Store](https://dev.to/durrello/deploying-agents-on-windows-linux-without-ssh-using-aws-ssm-and-parameter-store-472g)
+- [Web Servers and Hosting Fundamentals: From Static Pages to Dynamic Applications](https://dev.to/naval_upadhyay/web-servers-and-hosting-fundamentals-from-static-pages-to-dynamic-applications-3347)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
