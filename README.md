@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the deal with GraphQL?](https://dev.to/mcheremnov/whats-the-deal-with-graphql-475j)
-- [Flutter Apps and Android&#39;s 16KB Page Size Requirement: A Complete Developer Guide](https://dev.to/mikeyolang/flutter-apps-and-androids-16kb-page-size-requirement-a-complete-developer-guide-1p71)
-- [[Google AI Studio Multimodal Challenge] Whispurr the ghost diner](https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch)
-- [How Does SeaTunnel Perform &quot;Precise Sharding&quot; for MySQL Tables?](https://dev.to/seatunnel/how-does-seatunnel-perform-precise-sharding-for-mysql-tables-c94)
-- [The Role of Service Maps in Optimizing PHP Application Performance](https://dev.to/olivia_madison_b0ad7090ad/the-role-of-service-maps-in-optimizing-php-application-performance-1hja)
+- [Bryan Bros Golf: Can We Break a Course Record at the Cheapest Public Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-a-course-record-at-the-cheapest-public-course-2mg9)
+- [GameSpot: 007 First Light Preview: License to Thrill](https://dev.to/gg_news/gamespot-007-first-light-preview-license-to-thrill-548e)
+- [IGN: James Gunn Announces Man of Tomorrow as the Next Superman Saga Film - IGN Daily Fix](https://dev.to/gg_news/ign-james-gunn-announces-man-of-tomorrow-as-the-next-superman-saga-film-ign-daily-fix-3o3n)
+- [IGN: Witchspire - Official Announcement Trailer](https://dev.to/gg_news/ign-witchspire-official-announcement-trailer-50pd)
+- [IGN: Wuthering Heights - Official Teaser Trailer &lpar;2026&rpar; Margot Robbie, Jacob Elordi](https://dev.to/gg_news/ign-wuthering-heights-official-teaser-trailer-2026-margot-robbie-jacob-elordi-gn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
