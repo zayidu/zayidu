@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
-- [5 Absolutely Free Web Tools Every Developer Should Bookmark](https://dev.to/web_dev-usman/5-absolutely-free-web-tools-every-developer-should-bookmark-38jn)
-- [Juris.js: Debug What You Wrote](https://dev.to/professional_joe/jurisjs-debug-what-you-wrote-3dmj)
-- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
-- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
+- [How Are Tokenized Stocks Changing the Game for Young Digital Investors?](https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k)
+- [Troubleshooting Broken Function Level Authorization](https://dev.to/zuplo/troubleshooting-broken-function-level-authorization-3d9p)
+- [Troubleshooting Broken Object Level Authorization](https://dev.to/zuplo/troubleshooting-broken-object-level-authorization-44f1)
+- [An Explicit Approach to Async Reactivity](https://dev.to/tobi_augenstein/an-explicit-approach-to-async-reactivity-45h9)
+- [How to Harden Your API for Better Security](https://dev.to/zuplo/how-to-harden-your-api-for-better-security-3njc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
