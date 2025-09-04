@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Flexible MCP Tools with GraphQL and Rust](https://dev.to/om_shree_0709/building-flexible-mcp-tools-with-graphql-and-rust-386d)
-- [VoIP NAT Traversal – Getting Through the Maze](https://dev.to/sip_games/voip-nat-traversal-getting-through-the-maze-2d0m)
-- [I&#39;m building a text based, online TUI-RPG in Rust](https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc)
-- [AI LinkedIn Profile Generator](https://dev.to/aniruddhaadak/ai-linkedin-profile-generator-40b2)
-- [Understanding High Availability day 44 of system design basics](https://dev.to/vincenttommi/understanding-high-availability-14he)
+- [These are really cool!](https://dev.to/eastermukora/these-are-really-cool-kjc)
+- [Andrew Huang: 4 PRODUCERS FLIP THE SAME SAMPLE w/ JP Waksman, nyco nemesis, Haphaz7ard](https://dev.to/music_youtube/andrew-huang-4-producers-flip-the-same-sample-w-jp-waksman-nyco-nemesis-haphaz7ard-57gh)
+- [COLORS: Amie Blu - legs | A COLORS SHOW](https://dev.to/music_youtube/colors-amie-blu-legs-a-colors-show-34id)
+- [DevOps Lifecycle](https://dev.to/suvrajeet/devops-lifecycle-5dgp)
+- [IGN: Ghost of Yotei - Official Odachi Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-odachi-gameplay-trailer-49nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
