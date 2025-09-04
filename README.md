@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering useState in React](https://dev.to/_415106f79fc340972925f/mastering-usestate-in-react-31lc)
-- [Building a Custom Hook in React: Why and How](https://dev.to/safal_bhandari/building-a-custom-hook-in-react-why-and-how-58do)
-- [KEXP: Yuma Abe - Let&#39;s Dream &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-lets-dream-live-on-kexp-53l0)
-- [KEXP: Yuma Abe - That Feels Good &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-that-feels-good-live-on-kexp-3ae0)
-- [KEXP: Yuma Abe - Omaemo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-omaemo-live-on-kexp-27d0)
+- [Understanding Linux Permissions: A Beginner-Friendly Guide for DevOps 🚀](https://dev.to/chethanblgs99/understanding-linux-permissions-a-beginner-friendly-guide-for-devops-3mbj)
+- [Getting Started with Gaia: A Developer&#39;s Guide to Building AI Agents with Gaia](https://dev.to/gaiaai/getting-started-with-gaia-a-developers-guide-to-building-ai-agents-4ji8)
+- [Ada Lovelace and the Story of the World&#39;s First Algorithm](https://dev.to/toviszsolt/ada-lovelace-and-the-story-of-the-worlds-first-algorithm-39f7)
+- [How do I make my Shopify cookie banner less annoying but still compliant?](https://dev.to/mehwish_malik_4f29ff7fb04/how-do-i-make-my-shopify-cookie-banner-less-annoying-but-still-compliant-3o3d)
+- [9 Practical Online Resources to Learn Coding in 2025 📚👨‍💻](https://dev.to/madza/9-practical-online-resources-to-learn-coding-in-2025-30m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
