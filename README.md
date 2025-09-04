@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
-- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
-- [Enhance the Ecosystem: npm package to initialize react app with midnight lace wallet connection.](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
-- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
-- [My Open Source Journey Begins with GitHub &amp; Magic Enum](https://dev.to/elsad_humbetli_0971c995ce/my-open-source-journey-begins-with-github-magic-enum-46g8)
+- [AWS Roadmap: Beginner to Advanced](https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8)
+- [Supabase Roadmap: Beginner to Advanced](https://dev.to/kyl67899/supabase-roadmap-beginner-to-advanced-363c)
+- [Next.js Roadmap: Beginner to Advanced](https://dev.to/kyl67899/nextjs-roadmap-beginner-to-advanced-58g3)
+- [Simulando navegação por teclado com as novas teclas do comando cy.press na versão 15.1.0 do Cypress](https://dev.to/talking-about-testing/simulando-navegacao-por-teclado-com-as-novas-teclas-do-comando-cypress-na-versao-1510-do-cypress-1ind)
+- [Whispurr&#39;s Moonhouse &lpar;A Cozy, Emotional Mystery&rpar;WIP](https://dev.to/cutieyunnytech/whispurrs-moonhouse-a-cozy-emotional-mysterywip-4ol2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
