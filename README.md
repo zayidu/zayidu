@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to send Filament database notifications to a specific queue](https://dev.to/filamentmastery/how-to-send-filament-database-notifications-to-a-specific-queue-1e91)
-- [Your UI is Not Part of Security: The Reality of BOLA](https://dev.to/alvacoder/your-ui-is-not-part-of-security-the-reality-of-bola-52jn)
-- [Get Your Go Package on pkg.go.dev: A Simple Guide](https://dev.to/anuchito/get-your-go-package-on-pkggodev-a-simple-guide-3k5d)
-- [How Code Becomes Software: Execution Models Explained](https://dev.to/naval_upadhyay/how-code-becomes-software-execution-models-explained-2dfe)
-- [Smarter Database DevOps with AI: From Changelogs to Intelligent Pipelines](https://dev.to/sonichigo/smarter-database-devops-with-ai-from-changelogs-to-intelligent-pipelines-1642)
+- [Expo: The Swiss Army Knife of React Native &lpar;And How to Test Your App Everywhere&rpar;](https://dev.to/klasniyparen/expo-the-swiss-army-knife-of-react-native-and-how-to-test-your-app-everywhere-b3p)
+- [Wrote a new blog!](https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c)
+- [New Features We Find Exciting in the Kubernetes 1.34 Release](https://dev.to/metalbear/new-features-we-find-exciting-in-the-kubernetes-134-release-2mhl)
+- [My Path in the Frontend](https://dev.to/aleksandr_ryzhikov/my-path-in-the-frontend-39fn)
+- [Two Days, One App: How AI Turned Me into an Under‑8 Tennis Umpire](https://dev.to/cfarrugia/two-days-one-app-how-ai-turned-me-into-an-under-8-tennis-umpire-op9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
