@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test AI Applications and ML Software: Best Practices Guide](https://dev.to/testfort_inc/how-to-test-ai-applications-and-ml-software-best-practices-guide-5g37)
-- [KEXP: Yuma Abe - Friends &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-friends-live-on-kexp-1jpn)
-- [KEXP: Yuma Abe - Sayonara &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-sayonara-live-on-kexp-c0c)
-- [KEXP: Yuma Abe - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-full-performance-live-on-kexp-4h9p)
-- [GameSpot: Octopath Traveler 0 Looks Massive, Even By Octopath Standards](https://dev.to/gg_news/gamespot-octopath-traveler-0-looks-massive-even-by-octopath-standards-25on)
+- [Building Flexible MCP Tools with GraphQL and Rust](https://dev.to/om_shree_0709/building-flexible-mcp-tools-with-graphql-and-rust-386d)
+- [VoIP NAT Traversal – Getting Through the Maze](https://dev.to/sip_games/voip-nat-traversal-getting-through-the-maze-2d0m)
+- [I&#39;m building a text based, online TUI-RPG in Rust](https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc)
+- [AI LinkedIn Profile Generator](https://dev.to/aniruddhaadak/ai-linkedin-profile-generator-40b2)
+- [Understanding High Availability day 44 of system design basics](https://dev.to/vincenttommi/understanding-high-availability-14he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
