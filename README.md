@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Are Tokenized Stocks Changing the Game for Young Digital Investors?](https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k)
-- [Troubleshooting Broken Function Level Authorization](https://dev.to/zuplo/troubleshooting-broken-function-level-authorization-3d9p)
-- [Troubleshooting Broken Object Level Authorization](https://dev.to/zuplo/troubleshooting-broken-object-level-authorization-44f1)
-- [An Explicit Approach to Async Reactivity](https://dev.to/tobi_augenstein/an-explicit-approach-to-async-reactivity-45h9)
-- [How to Harden Your API for Better Security](https://dev.to/zuplo/how-to-harden-your-api-for-better-security-3njc)
+- [What&#39;s the deal with GraphQL?](https://dev.to/mcheremnov/whats-the-deal-with-graphql-475j)
+- [Flutter Apps and Android&#39;s 16KB Page Size Requirement: A Complete Developer Guide](https://dev.to/mikeyolang/flutter-apps-and-androids-16kb-page-size-requirement-a-complete-developer-guide-1p71)
+- [[Google AI Studio Multimodal Challenge] Whispurr the ghost diner](https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch)
+- [How Does SeaTunnel Perform &quot;Precise Sharding&quot; for MySQL Tables?](https://dev.to/seatunnel/how-does-seatunnel-perform-precise-sharding-for-mysql-tables-c94)
+- [The Role of Service Maps in Optimizing PHP Application Performance](https://dev.to/olivia_madison_b0ad7090ad/the-role-of-service-maps-in-optimizing-php-application-performance-1hja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
