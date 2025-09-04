@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert 3ds Max Files to Cinema 4D?](https://dev.to/irender_gpu_cloud/how-to-convert-3ds-max-files-to-cinema-4d-4oli)
-- [Understanding Encapsulation in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-encapsulation-in-javascript-29d3)
-- [An Enum Alternative to the Factory Pattern: The Pros, Cons, and Hidden Dangers &lpar;in the voice of Rita Skeeter&rpar;](https://dev.to/ketkiambekar/an-enum-alternative-to-the-factory-pattern-the-pros-cons-and-hidden-dangers-in-the-voice-of-boj)
-- [Deploy using Slot](https://dev.to/sandeep_chauhan_f5476f312/deploy-using-slot-3gjf)
-- [What serverless developers need to know about the 12 Factors](https://dev.to/aws-heroes/what-serverless-developers-need-to-know-about-the-12-factors-22fp)
+- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
+- [🚀 Day 4 of My DevOps Journey: Bash Scripting for DevOps](https://dev.to/dankbhardwaj/day-4-of-my-devops-journey-bash-scripting-for-devops-49go)
+- [🚀 StackOpsys: Part 3-Automating Kubernetes Infrastructure on Proxmox with Packer, Terraform and Ansible](https://dev.to/rtaparay/stackopsys-part-3-automating-kubernetes-infrastructure-on-proxmox-with-packer-terraform-5fl2)
+- [DaemonSet vs Deployment in Kubernetes: Key Differences Explained with Docker](https://dev.to/moni121189/daemonset-vs-deployment-in-kubernetes-key-differences-explained-with-docker-57n7)
+- [From Scratch: How to Develop a File Search Tool Rivaling &quot;Everything&quot; Using Pure C#](https://dev.to/ldotjdot/from-scratch-how-to-develop-a-file-search-tool-rivaling-everything-using-pure-c-3egj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
