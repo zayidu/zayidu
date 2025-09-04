@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 AI Tools That Actually Save Me Hours &lpar;Sept Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-that-actually-save-me-hours-sept-edition-1c95)
-- [Bridging the Digital Divide—What I Learned from Teaching Tech to Seniors](https://dev.to/ernesto_guzman_2ae6c20c7c/bridging-the-digital-divide-what-i-learned-from-teaching-tech-to-seniors-5a2i)
-- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
-- [The N+1 Query Hangover: Curing Your Laravel Database Woes](https://dev.to/usmanzahidcode/the-n1-query-hangover-curing-your-laravel-database-woes-4oda)
-- [Learn with Daily Mastery - From AI Generation to Email Delivery](https://dev.to/dalenguyen/learn-with-daily-mastery-from-ai-generation-to-email-delivery-1jk1)
+- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
+- [5 Absolutely Free Web Tools Every Developer Should Bookmark](https://dev.to/web_dev-usman/5-absolutely-free-web-tools-every-developer-should-bookmark-38jn)
+- [Juris.js: Debug What You Wrote](https://dev.to/professional_joe/jurisjs-debug-what-you-wrote-3dmj)
+- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
+- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
