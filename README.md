@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Automated Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-automated-testing-24h6)
-- [Build your own Posthog - PART 2](https://dev.to/infms/build-your-own-posthog-part-2-4a3c)
-- [How QR Codes Work &lpar;and How to Make Your Own in Python&rpar;](https://dev.to/devasservice/how-qr-codes-work-and-how-to-make-your-own-in-python-39f7)
-- [Deploying Agents on Windows &amp; Linux Without SSH Using AWS SSM and Parameter Store](https://dev.to/durrello/deploying-agents-on-windows-linux-without-ssh-using-aws-ssm-and-parameter-store-472g)
-- [Web Servers and Hosting Fundamentals: From Static Pages to Dynamic Applications](https://dev.to/naval_upadhyay/web-servers-and-hosting-fundamentals-from-static-pages-to-dynamic-applications-3347)
+- [Why Turbopack in Next.js 15 Feels Like Cheating &lpar;in a Good Way&rpar;](https://dev.to/shubhradev/why-turbopack-in-nextjs-15-feels-like-cheating-in-a-good-way-ob1)
+- [Why Your Best Programming Mentor Might Be in Pajamas](https://dev.to/pullflow/why-your-best-programming-mentor-might-be-in-pajamas-4lah)
+- [The Human Truths of Database Migration](https://dev.to/codelink/the-human-truths-of-database-migration-cml)
+- [How to Standardize Commit Messages with Commitlint and Custom Rules](https://dev.to/werliton/how-to-standardize-commit-messages-with-commitlint-and-custom-rules-4l64)
+- [AI in Healthcare: How LLMs are Transforming Medical Documentation and Decision Making](https://dev.to/aun_aideveloper/ai-in-healthcare-how-llms-are-transforming-medical-documentation-and-decision-m-4615)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
