@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Break a Course Record at the Cheapest Public Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-a-course-record-at-the-cheapest-public-course-2mg9)
-- [GameSpot: 007 First Light Preview: License to Thrill](https://dev.to/gg_news/gamespot-007-first-light-preview-license-to-thrill-548e)
-- [IGN: James Gunn Announces Man of Tomorrow as the Next Superman Saga Film - IGN Daily Fix](https://dev.to/gg_news/ign-james-gunn-announces-man-of-tomorrow-as-the-next-superman-saga-film-ign-daily-fix-3o3n)
-- [IGN: Witchspire - Official Announcement Trailer](https://dev.to/gg_news/ign-witchspire-official-announcement-trailer-50pd)
-- [IGN: Wuthering Heights - Official Teaser Trailer &lpar;2026&rpar; Margot Robbie, Jacob Elordi](https://dev.to/gg_news/ign-wuthering-heights-official-teaser-trailer-2026-margot-robbie-jacob-elordi-gn7)
+- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
+- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
+- [Why Every Developer Should Master Async/Await and Promises](https://dev.to/code_2/why-every-developer-should-master-asyncawait-and-promises-370k)
+- [Understanding SwiftUI Stacks: HStack, VStack, and ZStack - A Deep Dive](https://dev.to/arshtechpro/understanding-swiftui-stacks-hstack-vstack-and-zstack-a-deep-dive-3m3c)
+- [Building a Well-Known Token Registry](https://dev.to/rastislavcore/building-a-well-known-token-registry-38k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
