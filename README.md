@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
-- [🚀 Day 4 of My DevOps Journey: Bash Scripting for DevOps](https://dev.to/dankbhardwaj/day-4-of-my-devops-journey-bash-scripting-for-devops-49go)
-- [🚀 StackOpsys: Part 3-Automating Kubernetes Infrastructure on Proxmox with Packer, Terraform and Ansible](https://dev.to/rtaparay/stackopsys-part-3-automating-kubernetes-infrastructure-on-proxmox-with-packer-terraform-5fl2)
-- [DaemonSet vs Deployment in Kubernetes: Key Differences Explained with Docker](https://dev.to/moni121189/daemonset-vs-deployment-in-kubernetes-key-differences-explained-with-docker-57n7)
-- [From Scratch: How to Develop a File Search Tool Rivaling &quot;Everything&quot; Using Pure C#](https://dev.to/ldotjdot/from-scratch-how-to-develop-a-file-search-tool-rivaling-everything-using-pure-c-3egj)
+- [3 AI Tools That Actually Save Me Hours &lpar;Sept Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-that-actually-save-me-hours-sept-edition-1c95)
+- [Bridging the Digital Divide—What I Learned from Teaching Tech to Seniors](https://dev.to/ernesto_guzman_2ae6c20c7c/bridging-the-digital-divide-what-i-learned-from-teaching-tech-to-seniors-5a2i)
+- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
+- [The N+1 Query Hangover: Curing Your Laravel Database Woes](https://dev.to/usmanzahidcode/the-n1-query-hangover-curing-your-laravel-database-woes-4oda)
+- [Learn with Daily Mastery - From AI Generation to Email Delivery](https://dev.to/dalenguyen/learn-with-daily-mastery-from-ai-generation-to-email-delivery-1jk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
