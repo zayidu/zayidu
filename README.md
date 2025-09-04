@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting Your Site Behind G Cloud CDN, an unapologetically detailed, how-to](https://dev.to/lovestaco/putting-your-site-behind-g-cloud-cdn-an-unapologetically-detailed-how-to-xd-44cn)
-- [Debugging My Sanity: One Console Log at a Time](https://dev.to/usmanzahidcode/debugging-my-sanity-one-console-log-at-a-time-1b3p)
-- [In a stupid defence of human-crafted content](https://dev.to/alesanchez/in-a-stupid-defence-of-human-crafted-content-3foa)
-- [Memory Management in PHP](https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10)
-- [How to Enable Autocomplete in Laravel Blade Views and Partials](https://dev.to/raheelshan/how-to-enable-autocomplete-in-blade-partials-3ik9)
+- [DNS Spoofing Explained: How Hackers Trick the Internet’s Phonebook](https://dev.to/rijultp/dns-spoofing-explained-how-hackers-trick-the-internets-phonebook-38nd)
+- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-4g6j)
+- [Stop Obsessing Over the Perfect Stack](https://dev.to/alexcloudstar/stop-obsessing-over-the-perfect-stack-59m6)
+- [Redis Explained: What It Is, Why You Need It, and How to Install It the Easy Way](https://dev.to/lamri_abdellahramdane_15/redis-explained-what-it-is-why-you-need-it-and-how-to-install-it-the-easy-way-2hmf)
+- [Prompt Engineer shouldn&#39;t be a job title.](https://dev.to/melvyn_sopacua_afcf30b58a/prompt-engineer-shouldnt-be-a-job-title-4427)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
