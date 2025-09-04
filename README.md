@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [These are really cool!](https://dev.to/eastermukora/these-are-really-cool-kjc)
-- [Andrew Huang: 4 PRODUCERS FLIP THE SAME SAMPLE w/ JP Waksman, nyco nemesis, Haphaz7ard](https://dev.to/music_youtube/andrew-huang-4-producers-flip-the-same-sample-w-jp-waksman-nyco-nemesis-haphaz7ard-57gh)
-- [COLORS: Amie Blu - legs | A COLORS SHOW](https://dev.to/music_youtube/colors-amie-blu-legs-a-colors-show-34id)
-- [DevOps Lifecycle](https://dev.to/suvrajeet/devops-lifecycle-5dgp)
-- [IGN: Ghost of Yotei - Official Odachi Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-odachi-gameplay-trailer-49nc)
+- [Putting Your Site Behind G Cloud CDN, an unapologetically detailed, how-to](https://dev.to/lovestaco/putting-your-site-behind-g-cloud-cdn-an-unapologetically-detailed-how-to-xd-44cn)
+- [Debugging My Sanity: One Console Log at a Time](https://dev.to/usmanzahidcode/debugging-my-sanity-one-console-log-at-a-time-1b3p)
+- [In a stupid defence of human-crafted content](https://dev.to/alesanchez/in-a-stupid-defence-of-human-crafted-content-3foa)
+- [Memory Management in PHP](https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10)
+- [How to Enable Autocomplete in Laravel Blade Views and Partials](https://dev.to/raheelshan/how-to-enable-autocomplete-in-blade-partials-3ik9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
