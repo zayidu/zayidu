@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prototype Design Pattern in Python...](https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei)
-- [✨ Advanced Tips and Tricks for GitHub Gists &lpar;Part 1: Unlocking the Power of Gists&rpar;](https://dev.to/this-is-learning/advanced-tips-and-tricks-for-github-gists-part-1-unlocking-the-power-of-gists-22h5)
-- [IGN: Hell is Us Review](https://dev.to/gg_news/ign-hell-is-us-review-104l)
-- [IGN: How to Get The Crest of Wanderer in Hollow Knight: Silksong](https://dev.to/gg_news/ign-how-to-get-the-crest-of-wanderer-in-hollow-knight-silksong-5c82)
-- [Postage calculation --SPL Programming Practice](https://dev.to/esproc_spl/postage-calculation-spl-programming-practice-320f)
+- [The Template Method Design Pattern...](https://dev.to/sommukhopadhyay/the-template-method-design-pattern-1c82)
+- [Building a Secure SFTP Server on a Linode Public Subnet](https://dev.to/joojodontoh/building-a-secure-sftp-server-on-a-linode-public-subnet-3b0j)
+- [Modern Angular Animations: Ditch the DSL, Keep the Power](https://dev.to/brianmtreese/modern-angular-animations-ditch-the-dsl-keep-the-power-76d)
+- [Command Pattern in Rust - absolutely driven by intrinsic motivation...](https://dev.to/sommukhopadhyay/command-pattern-in-rust-absolutely-driven-by-intrinsic-motivation-2gk2)
+- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
