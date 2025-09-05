@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, Computer Vision, and Deep Learning: Seeing the World Through Algorithms](https://dev.to/barak_codes/ai-computer-vision-and-deep-learning-seeing-the-world-through-algorithms-3om6)
-- [AI 时代的技术能力大洗牌：当架构师门槛被大幅降低](https://dev.to/tuo_cheng_68980dbefbe1e75/aishi-dai-de-ji-zhu-neng-li-da-xi-pai-dang-jia-gou-shi-men-jian-bei-da-fu-jiang-di-53jb)
-- [AI Music Generators: Transforming Creativity &amp; Dev Workflows in 2025](https://dev.to/thedeepseeker/ai-music-generators-transforming-creativity-dev-workflows-in-2025-1o5l)
-- [Bulletproof Email Buttons for Outlook: VML + Accessible HTML](https://dev.to/aulate/bulletproof-email-buttons-for-outlook-vml-accessible-html-4424)
-- [Why Side Hustles Are Becoming Essential in a Global Downturn &lpar;and Why Content Creation Is a Smart Bet&rpar;](https://dev.to/walker876/why-side-hustles-are-becoming-essential-in-a-global-downturn-and-why-content-creation-is-a-smart-3687)
+- [How I Built a Content Creation Side Hustle Using AI and Made $5,000 in a Month](https://dev.to/walker876/how-i-built-a-content-creation-side-hustle-using-ai-and-made-5000-in-a-month-ofb)
+- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
+- [Agentic AI vs Infrastructure as Code: The Future of DevOps](https://dev.to/mechcloud_academy/agentic-ai-vs-infrastructure-as-code-the-future-of-devops-2kki)
+- [Docker Series — Episode 14: Docker Networking Deep Dive &lpar;Bridge, Host, Overlay&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78)
+- [My first AI-assisted web game: PuzzlePave](https://dev.to/_8d31359a797ee088ecde8/my-first-ai-assisted-web-game-puzzlepave-486e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
