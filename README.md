@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️VerifiedVoices: Truth Without Fear, Trust Without Compromise -Powered by Midnight🌑🔥](https://dev.to/ria29108/verifiedvoices-truth-without-fear-trust-without-compromise-powered-by-midnight-12oe)
-- [UNSUPERVISED ML](https://dev.to/raymond_79cf41a94e682b4a3/unsupervised-ml-e0a)
-- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
-- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
-- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
+- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
+- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
+- [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
+- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Official Enhanced Opening Movie](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-official-enhanced-opening-movie-2kbd)
+- [IGN: Jurassic World Evolution 3 - Official &#39;A Global Campaign&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-a-global-campaign-feature-trailer-766)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
