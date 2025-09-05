@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Feature Factory to Problem Solver: How I Actually Learned to Think Like a Senior Developer](https://dev.to/nirmitkotadiya/from-feature-factory-to-problem-solver-how-i-actually-learned-to-think-like-a-senior-developer-453c)
-- [Day 84: When Your Alarm Clock Becomes Your Enemy](https://dev.to/casperday11/day-84-when-your-alarm-clock-becomes-your-enemy-1973)
-- [Day 1 - Setting up the Scanner](https://dev.to/lahari_tenneti_4a8a082e9c/day-1-setting-up-the-scanner-45l2)
-- [Weekly Code Reviews: How a 15-Minute Friday Habit Can 3x Your Development Speed](https://dev.to/teamcamp/weekly-code-reviews-how-a-15-minute-friday-habit-can-3x-your-development-speed-1l96)
-- [The Four Point framework, which I use in every AI project I run, whether it’s coding, content, business strategy, or learning, and I wish every CEO would use. It’s not just theory; this is the backbone behind my books, projects, and success.](https://dev.to/jaideepparashar/the-four-point-framework-i-use-in-every-ai-project-i-run-whether-its-coding-content-business-53d8)
+- [Prototype Design Pattern in Python...](https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei)
+- [✨ Advanced Tips and Tricks for GitHub Gists &lpar;Part 1: Unlocking the Power of Gists&rpar;](https://dev.to/this-is-learning/advanced-tips-and-tricks-for-github-gists-part-1-unlocking-the-power-of-gists-22h5)
+- [IGN: Hell is Us Review](https://dev.to/gg_news/ign-hell-is-us-review-104l)
+- [IGN: How to Get The Crest of Wanderer in Hollow Knight: Silksong](https://dev.to/gg_news/ign-how-to-get-the-crest-of-wanderer-in-hollow-knight-silksong-5c82)
+- [Postage calculation --SPL Programming Practice](https://dev.to/esproc_spl/postage-calculation-spl-programming-practice-320f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
