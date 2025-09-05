@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
-- [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
-- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
-- [My AI Journey](https://dev.to/visualcookie/my-ai-journey-3921)
-- [AWS Services Every Frontend Developer Should Know](https://dev.to/vishwark/aws-services-every-frontend-developer-should-know-50kd)
+- [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
+- [Unlocking JavaScript: A Deep Dive into ES and ES6 Standards](https://dev.to/adrahi/unlocking-javascript-a-deep-dive-into-es-and-es6-standards-19c5)
+- [NFTs beyond art: 5 industries feeling the shift](https://dev.to/martin_call/nfts-beyond-art-5-industries-feeling-the-shift-2dce)
+- [Skellar Dev Log #2: Backpack System](https://dev.to/ridcorix/skellar-dev-log-2-backpack-system-494e)
+- [Event-Driven Architectures on AWS: Beyond Lambda](https://dev.to/nidhi_0105/event-driven-architectures-on-aws-beyond-lambda-295a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
