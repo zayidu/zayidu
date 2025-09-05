@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
-- [Unlocking JavaScript: A Deep Dive into ES and ES6 Standards](https://dev.to/adrahi/unlocking-javascript-a-deep-dive-into-es-and-es6-standards-19c5)
-- [NFTs beyond art: 5 industries feeling the shift](https://dev.to/martin_call/nfts-beyond-art-5-industries-feeling-the-shift-2dce)
-- [Skellar Dev Log #2: Backpack System](https://dev.to/ridcorix/skellar-dev-log-2-backpack-system-494e)
-- [Event-Driven Architectures on AWS: Beyond Lambda](https://dev.to/nidhi_0105/event-driven-architectures-on-aws-beyond-lambda-295a)
+- [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
+- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers &lpar;$6,400 Prize Pool&rpar;](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
+- [NPR Music: PinkPantheress: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pinkpantheress-tiny-desk-concert-4iof)
+- [System Design Interviews were HARD, until I learned these Concepts](https://dev.to/somadevtoo/system-design-interviews-were-hard-until-i-learned-these-concepts-5c7d)
+- [IGN: Exploring the AI features on the Samsung Galaxy S25 Ultra Camera](https://dev.to/gg_news/ign-exploring-the-ai-features-on-the-samsung-galaxy-s25-ultra-camera-3bhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
