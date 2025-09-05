@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Web Apps with Pure Go &lpar;No JavaScript Required!&rpar;](https://dev.to/hasan_gursoy_7b08ccc8f799/build-web-apps-with-pure-go-no-javascript-required-4icj)
-- [A Factory Reset on Factory Functions](https://dev.to/senken18/a-factory-reset-on-factory-functions-22nl)
-- [Carbonyl: Forking Chromium to Render Live in a Terminal](https://dev.to/mrpunkdasilva/carbonyl-forking-chromium-to-render-live-in-a-terminal-2j9o)
-- [Building a Video-to-MP3 Converter with FastAPI Microservices](https://dev.to/fury17/building-a-video-to-mp3-converter-with-fastapi-microservices-57bm)
-- [Tempo.xyz: A Time-First Productivity Platform Rethinking How We Work](https://dev.to/mrpunkdasilva/tempoxyz-a-time-first-productivity-platform-rethinking-how-we-work-105c)
+- [From Feature Factory to Problem Solver: How I Actually Learned to Think Like a Senior Developer](https://dev.to/nirmitkotadiya/from-feature-factory-to-problem-solver-how-i-actually-learned-to-think-like-a-senior-developer-453c)
+- [Day 84: When Your Alarm Clock Becomes Your Enemy](https://dev.to/casperday11/day-84-when-your-alarm-clock-becomes-your-enemy-1973)
+- [Day 1 - Setting up the Scanner](https://dev.to/lahari_tenneti_4a8a082e9c/day-1-setting-up-the-scanner-45l2)
+- [Weekly Code Reviews: How a 15-Minute Friday Habit Can 3x Your Development Speed](https://dev.to/teamcamp/weekly-code-reviews-how-a-15-minute-friday-habit-can-3x-your-development-speed-1l96)
+- [The Four Point framework, which I use in every AI project I run, whether it’s coding, content, business strategy, or learning, and I wish every CEO would use. It’s not just theory; this is the backbone behind my books, projects, and success.](https://dev.to/jaideepparashar/the-four-point-framework-i-use-in-every-ai-project-i-run-whether-its-coding-content-business-53d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
