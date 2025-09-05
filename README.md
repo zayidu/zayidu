@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal AI: Beyond Single-Mode Intelligence](https://dev.to/srijan-xi/multimodal-ai-beyond-single-mode-intelligence-27ob)
-- [Configuring domain networking for scalable container services.](https://dev.to/usmanzahidcode/configuring-domain-networking-for-scalable-container-services-23gj)
-- [Automated security testing prevents common vulnerabilities in cloud applications.](https://dev.to/usmanzahidcode/automated-security-testing-prevents-common-vulnerabilities-in-cloud-applications-4826)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-3m16)
-- [Getting Started with rsync: The Smarter Way to Copy Files](https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol)
+- [Inside React Query: What’s Really Going On](https://dev.to/mohamad_msalme_38f2508ea2/inside-react-query-whats-really-going-on-31md)
+- [RC4: From Ubiquity to Collapse — and What It Taught Us About Trust](https://dev.to/dmytro_huz/rc4-from-ubiquity-to-collapse-and-what-it-taught-us-about-trust-45ld)
+- [Running Machine Learning Models in the Browser Using onnxruntime-web](https://dev.to/dinakajoy/running-machine-learning-models-in-the-browser-using-onnxruntime-web-3klc)
+- [Open Source? Open Mind!](https://dev.to/jongwan93/open-source-open-mind-2k6d)
+- [I&#39;ve built a collapsible ASCII tree generator](https://dev.to/mfilipovic/ive-built-a-collapsible-ascii-tree-generator-11m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
