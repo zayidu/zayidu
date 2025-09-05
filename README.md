@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
-- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
-- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
-- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
-- [Svelte Events &amp; Bindings Tutorial: Master Parent-Child Communication](https://dev.to/a1guy/svelte-events-bindings-tutorial-master-parent-child-communication-4o5o)
+- [The Brutal &lpar;and Rewarding&rpar; Reality of Solo SaaS founder](https://dev.to/web5lab_938e9096be8dc3e78/the-brutal-and-rewarding-reality-of-solo-saas-founder-1lk3)
+- [This article works](https://dev.to/divyansh_pratapsingh_a47/this-article-works-3845)
+- [Backend Implementation: From &#39;It Works on My Machine&#39; to Production-Ready API](https://dev.to/klasniyparen/backend-implementation-from-it-works-on-my-machine-to-production-ready-api-f36)
+- [From Google Maps to OpenStreetMap: A Journey of Trade-offs in Location Services](https://dev.to/crimson206/from-google-maps-to-openstreetmap-a-journey-of-trade-offs-in-location-services-1cfm)
+- [KEXP: Crumb - Ice Melt &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ice-melt-live-on-kexp-4h11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
