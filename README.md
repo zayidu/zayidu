@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Template Method Design Pattern...](https://dev.to/sommukhopadhyay/the-template-method-design-pattern-1c82)
-- [Building a Secure SFTP Server on a Linode Public Subnet](https://dev.to/joojodontoh/building-a-secure-sftp-server-on-a-linode-public-subnet-3b0j)
-- [Modern Angular Animations: Ditch the DSL, Keep the Power](https://dev.to/brianmtreese/modern-angular-animations-ditch-the-dsl-keep-the-power-76d)
-- [Command Pattern in Rust - absolutely driven by intrinsic motivation...](https://dev.to/sommukhopadhyay/command-pattern-in-rust-absolutely-driven-by-intrinsic-motivation-2gk2)
-- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
+- [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
+- [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
+- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
+- [My AI Journey](https://dev.to/visualcookie/my-ai-journey-3921)
+- [AWS Services Every Frontend Developer Should Know](https://dev.to/vishwark/aws-services-every-frontend-developer-should-know-50kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
