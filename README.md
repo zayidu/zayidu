@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Wildcard SSL Setup is a Security Nightmare &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/certkit/your-wildcard-ssl-setup-is-a-security-nightmare-and-you-dont-even-know-it-317c)
-- [Understanding MongoDB $lookup performance](https://dev.to/lusqua/understanding-mongodb-lookup-performance-1l15)
-- [DevOps from the Driver&#39;s seat part 1](https://dev.to/robert_scott_339c35174a4d/devops-from-the-drivers-seat-part-1-k60)
-- [Exploring the Magic of Python’s dataclass Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-dataclass-module-20mf)
-- [IGN: The COOLEST Tabletop Games and Accessories | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-tabletop-games-and-accessories-pax-west-2025-4fc0)
+- [AI, Computer Vision, and Deep Learning: Seeing the World Through Algorithms](https://dev.to/barak_codes/ai-computer-vision-and-deep-learning-seeing-the-world-through-algorithms-3om6)
+- [AI 时代的技术能力大洗牌：当架构师门槛被大幅降低](https://dev.to/tuo_cheng_68980dbefbe1e75/aishi-dai-de-ji-zhu-neng-li-da-xi-pai-dang-jia-gou-shi-men-jian-bei-da-fu-jiang-di-53jb)
+- [AI Music Generators: Transforming Creativity &amp; Dev Workflows in 2025](https://dev.to/thedeepseeker/ai-music-generators-transforming-creativity-dev-workflows-in-2025-1o5l)
+- [Bulletproof Email Buttons for Outlook: VML + Accessible HTML](https://dev.to/aulate/bulletproof-email-buttons-for-outlook-vml-accessible-html-4424)
+- [Why Side Hustles Are Becoming Essential in a Global Downturn &lpar;and Why Content Creation Is a Smart Bet&rpar;](https://dev.to/walker876/why-side-hustles-are-becoming-essential-in-a-global-downturn-and-why-content-creation-is-a-smart-3687)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
