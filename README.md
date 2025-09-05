@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
-- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
-- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
-- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
-- [IGN: Silksong Is Out Now - NVC Clips](https://dev.to/gg_news/ign-silksong-is-out-now-nvc-clips-2k16)
+- [Introducing Codepit: A Minimal Platform to Share Code Snippets](https://dev.to/jiordiviera/introducing-codepit-a-minimal-platform-to-share-code-snippets-10bc)
+- [MCP-UI + TanStack: The React Stack That&#39;s Changing Everything](https://dev.to/shiva_shanker_k/mcp-ui-tanstack-the-react-stack-thats-changing-everything-8ah)
+- [Tipos Primitivos X Classes Wrappers em Java](https://dev.to/cassius_rocha/tipos-primitivos-x-classes-wrappers-em-java-224c)
+- [Microsoft Just Open-Sourced the Original 6502 BASIC Interpreter](https://dev.to/shiva_shanker_k/microsoft-just-open-sourced-the-original-6502-basic-interpreter-559o)
+- [Arrays, Objects, and Tuple‑Like Thinking in JavaScript](https://dev.to/anik_sikder_313/arrays-objects-and-tuple-like-thinking-in-javascript-3opi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
