@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
-- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers &lpar;$6,400 Prize Pool&rpar;](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
-- [NPR Music: PinkPantheress: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pinkpantheress-tiny-desk-concert-4iof)
-- [System Design Interviews were HARD, until I learned these Concepts](https://dev.to/somadevtoo/system-design-interviews-were-hard-until-i-learned-these-concepts-5c7d)
-- [IGN: Exploring the AI features on the Samsung Galaxy S25 Ultra Camera](https://dev.to/gg_news/ign-exploring-the-ai-features-on-the-samsung-galaxy-s25-ultra-camera-3bhg)
+- [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
+- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
+- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
+- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
+- [Svelte Events &amp; Bindings Tutorial: Master Parent-Child Communication](https://dev.to/a1guy/svelte-events-bindings-tutorial-master-parent-child-communication-4o5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
