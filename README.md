@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One more test](https://dev.to/ben/one-more-test-4p3j)
-- [Unlocking the Power of Agentic AI with Apache Iceberg and Dremio](https://dev.to/alexmercedcoder/unlocking-the-power-of-agentic-ai-with-apache-iceberg-and-dremio-5be0)
-- [This is a test!!](https://dev.to/ben/this-is-a-test-47p2)
-- [Sveltos vs Terraform: Friends, Not Rivals, in the Cloud-Native World](https://dev.to/simone_morellato/sveltos-vs-terraform-friends-not-rivals-in-the-cloud-native-world-8jk)
-- [KEXP: Crumb - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-full-performance-live-on-kexp-901)
+- [🛡️VerifiedVoices: Truth Without Fear, Trust Without Compromise -Powered by Midnight🌑🔥](https://dev.to/ria29108/verifiedvoices-truth-without-fear-trust-without-compromise-powered-by-midnight-12oe)
+- [UNSUPERVISED ML](https://dev.to/raymond_79cf41a94e682b4a3/unsupervised-ml-e0a)
+- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
+- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
+- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
