@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Plough: How to Thrive When AI Rewrites the Job](https://dev.to/black-ib/beyond-the-plough-how-to-thrive-when-ai-rewrites-the-job-3p33)
-- [The Philosophical Choice Between SQLite and DuckDB for Flutter Developers](https://dev.to/sayed_ali_alkamel/the-philosophical-choice-between-sqlite-and-duckdb-for-flutter-developers-43hj)
-- [CompTIA Network+ N10-009 Notes: A Simple Guide to IPv4](https://dev.to/andrew_despres/comptia-network-n10-009-notes-a-simple-guide-to-ipv4-3mad)
-- [More Adventures in Vibe Coding...](https://dev.to/themindfulmerge/more-adventures-in-vibe-coding-1ggp)
-- [GameSpot: Marvel Rivals - Angela Character Gameplay Reveal Trailer | The Hand of Heven Descends](https://dev.to/gg_news/gamespot-marvel-rivals-angela-character-gameplay-reveal-trailer-the-hand-of-heven-descends-3c80)
+- [Your Wildcard SSL Setup is a Security Nightmare &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/certkit/your-wildcard-ssl-setup-is-a-security-nightmare-and-you-dont-even-know-it-317c)
+- [Understanding MongoDB $lookup performance](https://dev.to/lusqua/understanding-mongodb-lookup-performance-1l15)
+- [DevOps from the Driver&#39;s seat part 1](https://dev.to/robert_scott_339c35174a4d/devops-from-the-drivers-seat-part-1-k60)
+- [Exploring the Magic of Python’s dataclass Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-dataclass-module-20mf)
+- [IGN: The COOLEST Tabletop Games and Accessories | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-tabletop-games-and-accessories-pax-west-2025-4fc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
