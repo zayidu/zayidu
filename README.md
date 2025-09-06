@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8)
-- [3 Errors in the Front-End Architecture that Slow Down Your Projects](https://dev.to/aleksandr_ryzhikov/3-errors-in-the-front-end-architecture-that-slow-down-your-projects-2edl)
-- [AI Rules files for Angular Material](https://dev.to/ngmaterialdev/rules-files-for-angular-material-19ni)
-- [Tame Impala - Loser &lpar;Official Video&rpar;](https://dev.to/highcenburg/tame-impala-loser-official-video-3m6l)
-- [Sushify - A New Free &amp; Essential Tool For AI App Developers](https://dev.to/isaachagoel/sushify-a-new-free-essential-tool-for-ai-app-developers-45n6)
+- [From Warehouses to Libraries: Understanding Data on AWS the Easy Way](https://dev.to/jatin_goel_dac08bb6728f1e/from-warehouses-to-libraries-understanding-data-on-aws-the-easy-way-4kmi)
+- [Benchmarking PostgreSQL Drivers in Node.js: node-postgres vs postgres.js](https://dev.to/nigrosimone/benchmarking-postgresql-drivers-in-nodejs-node-postgres-vs-postgresjs-17kl)
+- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh)
+- [Difference Between JDK, JRE, and JVM in Java for Developers](https://dev.to/codepractice/difference-between-jdk-jre-and-jvm-in-java-for-developers-4nke)
+- [JavaScript Array Methods: A Guide with Examples](https://dev.to/mohammedtaysser/javascript-array-methods-a-guide-with-examples-3a16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
