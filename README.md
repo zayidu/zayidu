@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WHY I STARTED LEETCODE!!](https://dev.to/yashir934/why-i-started-leetcode-gkm)
-- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/er_arpit_garg/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
-- [Danny Maude: This Technique Makes Fairway Woods &amp; Hybrids So Easy!](https://dev.to/youtube_golf/danny-maude-this-technique-makes-fairway-woods-hybrids-so-easy-371e)
-- [When Not to Use useEffect in React](https://dev.to/ayako_yk/when-not-to-use-useeffect-in-react-210o)
-- [🐱💻 Compiler Warnings: The Schrödinger’s Cat of Software Quality](https://dev.to/abdulosman/compiler-warnings-the-schrodingers-cat-of-software-quality-3j1o)
+- [Bash Aliases in examples for Ubuntu: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-aliases-in-ubuntu-a-complete-guide-198p)
+- [Understanding Foundation Model](https://dev.to/shajam/understanding-foundation-model-1o0g)
+- [One-Day Builds: From Stagnation to Skill Mastery](https://dev.to/th3n0m4d/one-day-builds-from-stagnation-to-skill-mastery-igc)
+- [Passed the Hackviser CAPT Certification – My Module-by-Module Experience 🎯](https://dev.to/prateek_pulastya_9975efac/passed-the-hackviser-capt-certification-my-module-by-module-experience-1877)
+- [CrashLoopBackOff: Warrom Je Pods Blijven Crashen?](https://dev.to/shubhcloud/crashloopbackoff-warrom-je-pods-blijven-crashen-3imn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
