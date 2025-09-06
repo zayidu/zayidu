@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
-- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
-- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
-- [Best Practices for Mastering Cloud Security on AWS](https://dev.to/muhammad_zeeshan_6499a22a/best-practices-for-mastering-cloud-security-on-aws-512h)
-- [Looking for feedback on my Portfolio!](https://dev.to/kamleshbaheti/looking-for-feedback-on-my-portfolio-2edm)
+- [The Index Problem: When You Need to Know Where You Are in Your Stream](https://dev.to/arashariani/the-index-problem-when-you-need-to-know-where-you-are-in-your-stream-4a3a)
+- [IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer](https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3)
+- [Paralelismo em Python para Engenharia de Dados: O Segredo das Tarefas I/O-Bound](https://dev.to/_richardson_/paralelismo-em-python-para-engenharia-de-dados-o-segredo-das-tarefas-io-bound-4edi)
+- [Managing Multiple Xcode Versions with Xcodes.app](https://dev.to/markkazakov/managing-multiple-xcode-versions-with-xcodesapp-3ini)
+- [Laravel Blade, But Smarter: Autocomplete and DTO Discipline with ViewModels and Strict Access](https://dev.to/raheelshan/laravel-blade-but-smarter-autocomplete-and-dto-discipline-with-viewmodels-and-strict-access-pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
