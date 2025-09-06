@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Rendering: SSR, CSR, SSG, and SPA](https://dev.to/mohamedsamirdev/understanding-web-rendering-ssr-csr-ssg-and-spa-26n7)
-- [Good practices for Just: no &#39;../&#39; in pathes.](https://dev.to/amarao/good-practices-for-just-no-in-pathes-3b2c)
-- [The Syntax Scroll by Maria: A Developer&#39;s Weekly Digest](https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l)
-- [Notes on Using wabt](https://dev.to/yangholmes/notes-on-using-wabt-1ag0)
-- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/vanichitkara/building-personaprep-an-ai-personality-coach-with-kiro-2f62)
+- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
+- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
+- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
+- [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
+- [10 Lessons From 10 Years of iOS Development &lpar;That I Wish I Knew Earlier&rpar;](https://dev.to/bismasaeed/10-lessons-from-10-years-of-ios-development-that-i-wish-i-knew-earlier-2302)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
