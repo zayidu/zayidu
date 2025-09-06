@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
-- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e)
-- [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p)
-- [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed)
-- [Complete Seaborn Tutorial &lpar;Day 01 &amp; Day 02&rpar; — Master Data Visualization with Python, Data Analytics, AI &amp; Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2)
+- [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
+- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
+- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
+- [Best Practices for Mastering Cloud Security on AWS](https://dev.to/muhammad_zeeshan_6499a22a/best-practices-for-mastering-cloud-security-on-aws-512h)
+- [Looking for feedback on my Portfolio!](https://dev.to/kamleshbaheti/looking-for-feedback-on-my-portfolio-2edm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
