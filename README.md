@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fake That Makes Us Real: How GANs Are Rewiring Imagination](https://dev.to/naresh_82de734ade4c1c66d9/the-fake-that-makes-us-real-how-gans-are-rewiring-imagination-3kam)
-- [TRAVEL360 : Explore, Selfie, Share — Boosted by Gemini Nano Banana](https://dev.to/amine_zamani_c29c02303ef9/travel360-by-amine-zamani-4m6p)
-- [Your Database is Your API: Auto-generate a FastAPI Backend in Seconds](https://dev.to/yrrrrrf/your-database-is-your-api-auto-generate-a-fastapi-backend-in-seconds-2hip)
-- [Deploying A Dockerized Golang App To AWS App Runner](https://dev.to/aws-builders/deploying-a-dockerized-golang-app-to-aws-app-runner-1hnn)
-- [Animalette, nature&#39;s palettes, reimagined.](https://dev.to/arefvc/animalette-natures-palettes-reimagined-4f0j)
+- [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
+- [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
+- [Before Kamal: How to Set Up a VM, Domain, and Dockerfile the Easy Way](https://dev.to/kevinluo201/before-kamal-how-to-set-up-a-vm-domain-and-dockerfile-the-easy-way-3ih7)
+- [🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification](https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1)
+- [Hollow Knight: Silksong derruba as lojas digitais e até combate a pirataria com preço justo](https://dev.to/iamthiago/hollow-knight-silksong-derruba-as-lojas-digitais-e-ate-combate-a-pirataria-com-preco-justo-2d4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
