@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Compiling Linux Kernel Module: A Hands-On Guide](https://dev.to/samar_lass_27db28cecec23c/cross-compiling-linux-kernel-module-a-hands-on-guide-b7d)
-- [Coding vs Programming: Key Differences for Beginners](https://dev.to/roghaye_mohammadi_84/coding-vs-programming-key-differences-for-beginners-22gf)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;2/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-25-28je)
-- [Building a Heart Risk Detector from Scratch with NumPy - Lessons in Overfitting &amp; Neural Networks](https://dev.to/sreehari_sj_1d3d883c0f6b/building-a-heart-risk-detector-from-scratch-with-numpy-lessons-in-overfitting-neural-networks-5fki)
-- [Follower count](https://dev.to/masterdevsabith/follower-count-3j82)
+- [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
+- [Building an AI-Powered Expense Tracker with Spring Boot, Spring AI, and Google Gemini](https://dev.to/swapniltake1/building-an-ai-powered-expense-tracker-with-spring-boot-spring-ai-and-google-gemini-5f48)
+- [🚀 AWS August 2025 Recap: AI Guardrails, VMware on AWS, Marketplace in India &amp; Prime Day Scale](https://dev.to/nishath_jp/aws-august-2025-recap-ai-guardrails-vmware-on-aws-marketplace-in-india-prime-day-scale-43a4)
+- [🚀 Mini Monitoring App in Go with Prometheus, Grafana &amp; CI/CD](https://dev.to/negin/mini-monitoring-app-in-go-with-prometheus-grafana-cicd-f50)
+- [Dependency Injection in Angular: A Complete Guide with Use Cases](https://dev.to/rohit_singh_ee84e64941db7/dependency-injection-in-angular-a-complete-guide-with-use-cases-3ec8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
