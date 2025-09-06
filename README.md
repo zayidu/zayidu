@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Horizon Worlds Hackathon](https://dev.to/chrislally/meta-horizon-worlds-hackathon-1952)
 - [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
 - [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
-- [Before Kamal: How to Set Up a VM, Domain, and Dockerfile the Easy Way](https://dev.to/kevinluo201/before-kamal-how-to-set-up-a-vm-domain-and-dockerfile-the-easy-way-3ih7)
-- [🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification](https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1)
-- [Hollow Knight: Silksong derruba as lojas digitais e até combate a pirataria com preço justo](https://dev.to/iamthiago/hollow-knight-silksong-derruba-as-lojas-digitais-e-ate-combate-a-pirataria-com-preco-justo-2d4a)
+- [Pare agora mesmo de utilizar alinhamento justificado!](https://dev.to/niagalves_/pare-agora-mesmo-de-utilizar-alinhamento-justificado-5cp1)
+- [Scaffold React &amp; Angular Apps in Minutes — Meet polyfront scaffold 🚀](https://dev.to/nirmalsamaranayaka/scaffold-react-angular-apps-in-minutes-meet-polyfront-scaffold-160i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
