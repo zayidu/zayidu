@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
-- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
-- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
-- [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
-- [10 Lessons From 10 Years of iOS Development &lpar;That I Wish I Knew Earlier&rpar;](https://dev.to/bismasaeed/10-lessons-from-10-years-of-ios-development-that-i-wish-i-knew-earlier-2302)
+- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8)
+- [3 Errors in the Front-End Architecture that Slow Down Your Projects](https://dev.to/aleksandr_ryzhikov/3-errors-in-the-front-end-architecture-that-slow-down-your-projects-2edl)
+- [AI Rules files for Angular Material](https://dev.to/ngmaterialdev/rules-files-for-angular-material-19ni)
+- [Tame Impala - Loser &lpar;Official Video&rpar;](https://dev.to/highcenburg/tame-impala-loser-official-video-3m6l)
+- [Sushify - A New Free &amp; Essential Tool For AI App Developers](https://dev.to/isaachagoel/sushify-a-new-free-essential-tool-for-ai-app-developers-45n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
