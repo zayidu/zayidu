@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Aliases in examples for Ubuntu: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-aliases-in-ubuntu-a-complete-guide-198p)
-- [Understanding Foundation Model](https://dev.to/shajam/understanding-foundation-model-1o0g)
-- [One-Day Builds: From Stagnation to Skill Mastery](https://dev.to/th3n0m4d/one-day-builds-from-stagnation-to-skill-mastery-igc)
-- [Passed the Hackviser CAPT Certification – My Module-by-Module Experience 🎯](https://dev.to/prateek_pulastya_9975efac/passed-the-hackviser-capt-certification-my-module-by-module-experience-1877)
-- [CrashLoopBackOff: Warrom Je Pods Blijven Crashen?](https://dev.to/shubhcloud/crashloopbackoff-warrom-je-pods-blijven-crashen-3imn)
+- [Understanding Web Rendering: SSR, CSR, SSG, and SPA](https://dev.to/mohamedsamirdev/understanding-web-rendering-ssr-csr-ssg-and-spa-26n7)
+- [Good practices for Just: no &#39;../&#39; in pathes.](https://dev.to/amarao/good-practices-for-just-no-in-pathes-3b2c)
+- [The Syntax Scroll by Maria: A Developer&#39;s Weekly Digest](https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l)
+- [Notes on Using wabt](https://dev.to/yangholmes/notes-on-using-wabt-1ag0)
+- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/vanichitkara/building-personaprep-an-ai-personality-coach-with-kiro-2f62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
