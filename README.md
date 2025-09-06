@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Warehouses to Libraries: Understanding Data on AWS the Easy Way](https://dev.to/jatin_goel_dac08bb6728f1e/from-warehouses-to-libraries-understanding-data-on-aws-the-easy-way-4kmi)
-- [Benchmarking PostgreSQL Drivers in Node.js: node-postgres vs postgres.js](https://dev.to/nigrosimone/benchmarking-postgresql-drivers-in-nodejs-node-postgres-vs-postgresjs-17kl)
-- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh)
-- [Difference Between JDK, JRE, and JVM in Java for Developers](https://dev.to/codepractice/difference-between-jdk-jre-and-jvm-in-java-for-developers-4nke)
-- [JavaScript Array Methods: A Guide with Examples](https://dev.to/mohammedtaysser/javascript-array-methods-a-guide-with-examples-3a16)
+- [How to Create &amp; Self-Publish a Children&#39;s Book on Amazon KDP Using AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
+- [barK: A Lightweight Logging Library for Android](https://dev.to/ivangarzab/bark-a-lightweight-logging-library-for-android-49i6)
+- [Island Ghost Midnight tools for the XRPL Community](https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min)
+- [FlashAttention by hand](https://dev.to/lewis_won/flashattention-by-hand-34im)
+- [FLEX — The Visual Flexbox Cheat Sheet](https://dev.to/ml318097/flex-the-visual-flexbox-cheat-sheet-1jlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
