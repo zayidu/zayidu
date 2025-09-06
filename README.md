@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Index Problem: When You Need to Know Where You Are in Your Stream](https://dev.to/arashariani/the-index-problem-when-you-need-to-know-where-you-are-in-your-stream-4a3a)
-- [IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer](https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3)
-- [Paralelismo em Python para Engenharia de Dados: O Segredo das Tarefas I/O-Bound](https://dev.to/_richardson_/paralelismo-em-python-para-engenharia-de-dados-o-segredo-das-tarefas-io-bound-4edi)
-- [Managing Multiple Xcode Versions with Xcodes.app](https://dev.to/markkazakov/managing-multiple-xcode-versions-with-xcodesapp-3ini)
-- [Laravel Blade, But Smarter: Autocomplete and DTO Discipline with ViewModels and Strict Access](https://dev.to/raheelshan/laravel-blade-but-smarter-autocomplete-and-dto-discipline-with-viewmodels-and-strict-access-pj1)
+- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
+- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
+- [How to Create a Linux Virtual Machine in Azure Portal](https://dev.to/jic/how-to-create-a-linux-virtual-machine-in-azure-portal-2482)
+- [Introducing node-hooker: WordPress Hooks for Your Node.js App](https://dev.to/mamedul_islam/introducing-node-hooker-wordpress-hooks-for-your-nodejs-app-2bn7)
+- [Why You Can’t Master Kubernetes Without Understanding Applications, Systems, and Microservices](https://dev.to/srinivasamcjf/why-you-cant-master-kubernetes-without-understanding-applications-systems-and-microservices-1h21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
