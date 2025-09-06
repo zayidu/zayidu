@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create &amp; Self-Publish a Children&#39;s Book on Amazon KDP Using AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
-- [barK: A Lightweight Logging Library for Android](https://dev.to/ivangarzab/bark-a-lightweight-logging-library-for-android-49i6)
-- [Island Ghost Midnight tools for the XRPL Community](https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min)
-- [FlashAttention by hand](https://dev.to/lewis_won/flashattention-by-hand-34im)
-- [FLEX — The Visual Flexbox Cheat Sheet](https://dev.to/ml318097/flex-the-visual-flexbox-cheat-sheet-1jlc)
+- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
+- [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
+- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
+- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
+- [Fashion Time Traveler](https://dev.to/pranathi_013/fashion-time-traveler-1gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
