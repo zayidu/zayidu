@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
-- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
-- [How to Create a Linux Virtual Machine in Azure Portal](https://dev.to/jic/how-to-create-a-linux-virtual-machine-in-azure-portal-2482)
-- [Introducing node-hooker: WordPress Hooks for Your Node.js App](https://dev.to/mamedul_islam/introducing-node-hooker-wordpress-hooks-for-your-nodejs-app-2bn7)
-- [Why You Can’t Master Kubernetes Without Understanding Applications, Systems, and Microservices](https://dev.to/srinivasamcjf/why-you-cant-master-kubernetes-without-understanding-applications-systems-and-microservices-1h21)
+- [Running Your Expo App on a Real Device for Testing](https://dev.to/andrewchaa/running-your-expo-app-on-a-real-device-for-testing-3ci)
+- [My Hackintosh Journey: macOS on a ThinkPad T480s](https://dev.to/jmschl96/my-hackintosh-journey-macos-on-a-thinkpad-t480s-249k)
+- [Must read](https://dev.to/drmikecrowe/must-read-1m1o)
+- [👋 Hello, new community member here](https://dev.to/alexey0511/hello-new-community-member-here-nl0)
+- [The Hard Truth About DevOps Learning: Practical Experience Over Presentations](https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
