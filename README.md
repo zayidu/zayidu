@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
-- [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
-- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
-- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
-- [Fashion Time Traveler](https://dev.to/pranathi_013/fashion-time-traveler-1gfc)
+- [Cross-Compiling Linux Kernel Module: A Hands-On Guide](https://dev.to/samar_lass_27db28cecec23c/cross-compiling-linux-kernel-module-a-hands-on-guide-b7d)
+- [Coding vs Programming: Key Differences for Beginners](https://dev.to/roghaye_mohammadi_84/coding-vs-programming-key-differences-for-beginners-22gf)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;2/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-25-28je)
+- [Building a Heart Risk Detector from Scratch with NumPy - Lessons in Overfitting &amp; Neural Networks](https://dev.to/sreehari_sj_1d3d883c0f6b/building-a-heart-risk-detector-from-scratch-with-numpy-lessons-in-overfitting-neural-networks-5fki)
+- [Follower count](https://dev.to/masterdevsabith/follower-count-3j82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
