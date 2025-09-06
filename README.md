@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏆⚛️React Roadmap Guide for Beginners 2025 &lpar;Updated&rpar;](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2025-updated-2050)
-- [How to Work with Files in Python &lpar;Read, Write, Append&rpar; 📂🐍](https://dev.to/menocode/how-to-work-with-files-in-python-read-write-append-2c9i)
-- [Hetzner Alternatives for 2025 &lpar;DigitalOcean, Linode, Vultr, OVHcloud&rpar;](https://dev.to/alakkadshaw/hetzner-alternatives-for-2025-digitalocean-linode-vultr-ovhcloud-5936)
-- [Subsets of AI - AI, Machine Learning, Deep Learning &amp; Gen AI](https://dev.to/shajam/subsets-of-ai-ai-machine-learning-deep-learning-gen-ai-4c2l)
-- [Event Bubbling and Capturing in JavaScript: The Complete Guide](https://dev.to/ishanbagchi/event-bubbling-and-capturing-in-javascript-the-complete-guide-14bh)
+- [The Fake That Makes Us Real: How GANs Are Rewiring Imagination](https://dev.to/naresh_82de734ade4c1c66d9/the-fake-that-makes-us-real-how-gans-are-rewiring-imagination-3kam)
+- [TRAVEL360 : Explore, Selfie, Share — Boosted by Gemini Nano Banana](https://dev.to/amine_zamani_c29c02303ef9/travel360-by-amine-zamani-4m6p)
+- [Your Database is Your API: Auto-generate a FastAPI Backend in Seconds](https://dev.to/yrrrrrf/your-database-is-your-api-auto-generate-a-fastapi-backend-in-seconds-2hip)
+- [Deploying A Dockerized Golang App To AWS App Runner](https://dev.to/aws-builders/deploying-a-dockerized-golang-app-to-aws-app-runner-1hnn)
+- [Animalette, nature&#39;s palettes, reimagined.](https://dev.to/arefvc/animalette-natures-palettes-reimagined-4f0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
