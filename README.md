@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
-- [100 Days of DevOps, Day 1: Understanding Linux User Management and Shells](https://dev.to/olymahmud/100-days-of-devops-day-1-understanding-linux-user-management-and-shells-4f8n)
-- [Install pgAdmin on Ubuntu And connect RDS with pgAdmin](https://dev.to/tech_2e11d899e5893ff/install-pgadmin-on-ubuntu-and-connect-rds-with-pgadmin-enj)
-- [Expo + Maestro CI Pipeline Overviews &lpar;EAS Custom Builds, Maestro Cloud&rpar;](https://dev.to/isaacaddis/expo-maestro-ci-pipeline-overviews-eas-custom-builds-maestro-cloud-142n)
-- [Self-Hosted Analytics with Rybbit: A Game-Changer for Privacy-Conscious Developers](https://dev.to/jaskarandeogan/self-hosted-analytics-with-rybbit-a-game-changer-for-privacy-conscious-developers-34ff)
+- [WHY I STARTED LEETCODE!!](https://dev.to/yashir934/why-i-started-leetcode-gkm)
+- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/er_arpit_garg/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
+- [Danny Maude: This Technique Makes Fairway Woods &amp; Hybrids So Easy!](https://dev.to/youtube_golf/danny-maude-this-technique-makes-fairway-woods-hybrids-so-easy-371e)
+- [When Not to Use useEffect in React](https://dev.to/ayako_yk/when-not-to-use-useeffect-in-react-210o)
+- [🐱💻 Compiler Warnings: The Schrödinger’s Cat of Software Quality](https://dev.to/abdulosman/compiler-warnings-the-schrodingers-cat-of-software-quality-3j1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
