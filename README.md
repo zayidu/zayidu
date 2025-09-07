@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Certificates and Digital Trust: Why the Web Believes a Website](https://dev.to/naval_upadhyay/certificates-and-digital-trust-why-the-web-believes-a-website-4771)
-- [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
-- [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
-- [Why I Switched From Google Fonts CDN to Self-Hosting &lpar;and Never Looked Back&rpar;](https://dev.to/web_dev-usman/why-i-switched-from-google-fonts-cdn-to-self-hosting-and-never-looked-back-3fbh)
-- [Anatomy Illustrator AI](https://dev.to/ha3k/anatomy-illustrator-ai-2a9e)
+- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
+- [Midnight ZK Circuit Playground: Web-based IDE to understand Midnight Network](https://dev.to/itsashita/midnight-zk-circuit-playground-web-based-ide-to-understand-midnight-network-3f6a)
+- [Dataverse internals: how to get the Sitemap of a given Model Driven App 🤔](https://dev.to/_neronotte/dataverse-internals-how-to-get-the-sitemap-of-a-given-model-driven-app-3j99)
+- [🔍 Mastering Change Detection in Angular: Best Practices for Performance Optimisation](https://dev.to/rohit_singh_ee84e64941db7/mastering-change-detection-in-angular-best-practices-for-performance-optimisation-3fci)
+- [Deploying a Simple App on K3S in AWS EC2 with GitHub Actions &amp; ECR](https://dev.to/mahinshanazeer/deploying-a-simple-app-on-k3s-in-aws-ec2-with-github-actions-ecr-520j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
