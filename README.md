@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Episode 16: Docker Compose — Multi-Container Applications](https://dev.to/yash_sonawane25/episode-16-docker-compose-multi-container-applications-354i)
+- [Controller, useControlller&lpar;&rpar;, and register&lpar;&rpar; in react-hook-form](https://dev.to/algoorgoal/controller-usecontrolller-and-register-in-react-hook-form-ajh)
+- [The Go Paradox: Why Fewer Features Create a Better Language for Senior Developers](https://dev.to/adityabhuyan/the-go-paradox-why-fewer-features-create-a-better-language-for-senior-developers-20gi)
 - [Building a Crypto Portfolio Tracker with PyQt6](https://dev.to/kolyaiks/building-a-simple-crypto-portfolio-tracker-with-pyqt6-1mbk)
 - [[Boost]](https://dev.to/mahinshanazeer/-9gl)
-- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-5d4n)
-- [One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”](https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk)
-- [My 3-Step Workflow for Turning Ideas into Articles with AI](https://dev.to/jaideepparashar/my-3-step-workflow-for-turning-ideas-into-articles-with-ai-2ja5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
