@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng)
-- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859)
-- [Article 1 : Intro to Gen AI ,LLMS and LangChain Frameworks&lpar;Part B&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-b-1f84)
-- [IGN: Hollow Knight: Silksong - How to Get the Crest of Beast | Savage Beastfly Boss Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-crest-of-beast-savage-beastfly-boss-guide-k4h)
-- [I Realized I Spend 30% of My Terminal Time in Chrome Tabs](https://dev.to/alen_mangattu_24317d21636/i-realized-i-spend-30-of-my-terminal-time-in-chrome-tabs-1001)
+- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-5d4n)
+- [One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”](https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk)
+- [My 3-Step Workflow for Turning Ideas into Articles with AI](https://dev.to/jaideepparashar/my-3-step-workflow-for-turning-ideas-into-articles-with-ai-2ja5)
+- [Weekly Reflection: Small Wins, Big Growth](https://dev.to/akshathashivakumar/weekly-reflection-small-wins-big-growth-5a61)
+- [Tutorial on Advanced P-adic Structures with Clojure: Monadic and Parallel Enhancements.](https://dev.to/p_pumulo/tutorial-on-advanced-p-adic-structures-with-clojure-monadic-and-parallel-enhancements-a4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
