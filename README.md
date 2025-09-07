@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
-- [Midnight ZK Circuit Playground: Web-based IDE to understand Midnight Network](https://dev.to/itsashita/midnight-zk-circuit-playground-web-based-ide-to-understand-midnight-network-3f6a)
-- [Dataverse internals: how to get the Sitemap of a given Model Driven App 🤔](https://dev.to/_neronotte/dataverse-internals-how-to-get-the-sitemap-of-a-given-model-driven-app-3j99)
-- [🔍 Mastering Change Detection in Angular: Best Practices for Performance Optimisation](https://dev.to/rohit_singh_ee84e64941db7/mastering-change-detection-in-angular-best-practices-for-performance-optimisation-3fci)
-- [Deploying a Simple App on K3S in AWS EC2 with GitHub Actions &amp; ECR](https://dev.to/mahinshanazeer/deploying-a-simple-app-on-k3s-in-aws-ec2-with-github-actions-ecr-520j)
+- [My FIRST EVER PORTFOLIO website](https://dev.to/wleahk98/my-first-ever-portfolio-website-2na2)
+- [WordPress admin menu editor - Control Dashboard - No Plugin](https://dev.to/jemeeroy/wordpress-admin-menu-editor-2peb)
+- [What I Learned Building Taco Empleos](https://dev.to/sebastian_arielbonetti_8/what-i-learned-building-taco-empleos-p7d)
+- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
+- [Source Fidelity Playbook — Catch AI&#39;s Fake Citations in 90 Seconds](https://dev.to/viablemedia/source-fidelity-playbook-catch-ais-fake-citations-in-90-seconds-2jen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
