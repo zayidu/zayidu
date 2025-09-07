@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
-- [【Vite Error Resolution】How to Fix the “vite-tsconfig-paths Not Found” Issue](https://dev.to/kazutora_hattori_66972c88/vite-error-resolution-how-to-fix-the-vite-tsconfig-paths-not-found-issue-492p)
-- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
-- [How I help a huge enterprise React project run dev 5x times faster](https://dev.to/tuannq/how-i-help-a-huge-enterprise-react-project-run-dev-5x-times-faster-2mj4)
-- [DevOps Beyond Pipelines: Why System, Application, and Design Engineering Are the Real Superpowers in the Cloud Era”](https://dev.to/srinivasamcjf/devops-beyond-pipelines-why-system-application-and-design-engineering-are-the-real-superpowers-58kk)
+- [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
+- [Promise, Callback Hell, Synchronous and Asynchronous in Javascript](https://dev.to/vidya_varshini/promise-callback-hell-synchronous-and-asynchronous-in-javascript-21lm)
+- [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
+- [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
+- [🧠Loop of Truth: From Loose Tricks to Structured Reasoning](https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
