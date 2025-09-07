@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj)
-- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
-- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np)
-- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d)
-- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj)
+- [Facade Design Pattern in Python...](https://dev.to/sommukhopadhyay/facade-design-pattern-in-python-29bi)
+- [Use of Gaussian Filter to remove noise from Image](https://dev.to/sommukhopadhyay/use-of-gaussian-filter-to-remove-noise-from-image-4g6d)
+- [FFT based simple Spectrum Analyzer with Source Code](https://dev.to/sommukhopadhyay/fft-based-simple-spectrum-analyzer-with-source-code-98p)
+- [The State Design pattern in C++ using timer and notification](https://dev.to/sommukhopadhyay/the-state-design-pattern-in-c-using-timer-and-notification-bod)
+- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
