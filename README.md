@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a Local Multi-Agent Travel System to AWS Bedrock AgentCore&lpar;Part 3&rpar;](https://dev.to/hvmathan/migrating-a-local-multi-agent-travel-system-to-aws-bedrock-agentcorepart-3-45eh)
-- [Manage your n8n workflows and API directly from PHP](https://dev.to/usmanzahidcode/manage-your-n8n-workflows-and-api-directly-from-php-no3)
-- [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
-- [All about Big O Notation](https://dev.to/extinctsion/all-about-big-o-notation-20j8)
-- [AWS Toronto Summit 2025 - My Experience at DEV202 session](https://dev.to/aws-builders/aws-toronto-summit-2025-my-experience-at-dev202-session-29pd)
+- [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g)
+- [Token Payout based on Private Information: Golf Barbecue Coin &lpar;GBC&rpar;](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5)
+- [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0)
+- [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp)
+- [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
