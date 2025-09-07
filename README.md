@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Building a Genesis Masterpiece: A Layer-by-Layer Track Analysis](https://dev.to/music_youtube/rick-beato-building-a-genesis-masterpiece-a-layer-by-layer-track-analysis-3h38)
-- [Irish-Name-Repo 2 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-1kn)
-- [Why Apache Airflow is the Cornerstone of Modern Data Engineering](https://dev.to/augo_amos/why-apache-airflow-is-the-cornerstone-of-modern-data-engineering-bhh)
-- [Look &amp; Learn: a Google AI Multimodal Challenge Entry](https://dev.to/_bigblind/look-learn-a-google-ai-multimodal-challenge-entry-34lk)
-- [Malik&#39;s experience with code](https://dev.to/malik_daliet/maliks-experience-with-code-1oh0)
+- [AWS Blogs by Hasan Poonawala](https://dev.to/hasanp87/aws-blogs-by-hasan-poonawala-2h60)
+- [The Guide to Safe &amp; Modern C Memory Allocation Strategy](https://dev.to/lwdjohari/the-guide-to-safe-modern-c-memory-allocation-strategy-1akn)
+- [gemini-cli: el nuevo aliado para l@s devs](https://dev.to/iblancasa/gemini-cli-el-nuevo-aliado-para-ls-devs-2hf4)
+- [Setting Up Shopify App + NestJS Backend: A Step-by-Step Local Development Guide](https://dev.to/georges_heloussato_d6ff14/setting-up-shopify-app-nestjs-backend-a-step-by-step-local-development-guide-2ca9)
+- [Enhance the ecosystem with CompactSee: Real-Time Contract State Visualization for Midnight Blockchain](https://dev.to/george_thoppil_d0e4d9dafa/compactsee-real-time-contract-state-visualization-for-midnight-blockchain-mkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
