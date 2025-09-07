@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Facade Design Pattern in Python...](https://dev.to/sommukhopadhyay/facade-design-pattern-in-python-29bi)
-- [Use of Gaussian Filter to remove noise from Image](https://dev.to/sommukhopadhyay/use-of-gaussian-filter-to-remove-noise-from-image-4g6d)
-- [FFT based simple Spectrum Analyzer with Source Code](https://dev.to/sommukhopadhyay/fft-based-simple-spectrum-analyzer-with-source-code-98p)
-- [The State Design pattern in C++ using timer and notification](https://dev.to/sommukhopadhyay/the-state-design-pattern-in-c-using-timer-and-notification-bod)
-- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
+- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
+- [【Vite Error Resolution】How to Fix the “vite-tsconfig-paths Not Found” Issue](https://dev.to/kazutora_hattori_66972c88/vite-error-resolution-how-to-fix-the-vite-tsconfig-paths-not-found-issue-492p)
+- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
+- [How I help a huge enterprise React project run dev 5x times faster](https://dev.to/tuannq/how-i-help-a-huge-enterprise-react-project-run-dev-5x-times-faster-2mj4)
+- [DevOps Beyond Pipelines: Why System, Application, and Design Engineering Are the Real Superpowers in the Cloud Era”](https://dev.to/srinivasamcjf/devops-beyond-pipelines-why-system-application-and-design-engineering-are-the-real-superpowers-58kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
