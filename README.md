@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 16: Docker Compose — Multi-Container Applications](https://dev.to/yash_sonawane25/episode-16-docker-compose-multi-container-applications-354i)
-- [Controller, useControlller&lpar;&rpar;, and register&lpar;&rpar; in react-hook-form](https://dev.to/algoorgoal/controller-usecontrolller-and-register-in-react-hook-form-ajh)
-- [The Go Paradox: Why Fewer Features Create a Better Language for Senior Developers](https://dev.to/adityabhuyan/the-go-paradox-why-fewer-features-create-a-better-language-for-senior-developers-20gi)
-- [Building a Crypto Portfolio Tracker with PyQt6](https://dev.to/kolyaiks/building-a-simple-crypto-portfolio-tracker-with-pyqt6-1mbk)
-- [[Boost]](https://dev.to/mahinshanazeer/-9gl)
+- [From AI User to AI Builder: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
+- [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
+- [Github&#39;s Missing Feature : Folder Download](https://dev.to/fact_king_2b3f0de5ca7b3d3/githubs-missing-feature-folder-download-4g6n)
+- [Smart Logging in .NET with Serilog](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
+- [Handling Massive Excel Files in Angular: From Upload to IndexedDB with Lightning-Fast Search](https://dev.to/aniruddha_deb_ng/handling-massive-excel-files-in-angular-from-upload-to-indexeddb-with-lightning-fast-search-p8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
