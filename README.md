@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
-- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
-- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
-- [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
-- [Deploying GPU-Enabled ECS EC2 Instances with Auto Scaling Groups and Launch Templates](https://dev.to/bikash119/deploying-gpu-enabled-ecs-ec2-instances-with-auto-scaling-groups-and-launch-templates-569l)
+- [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m)
+- [Will Vibe Coding Kill LowCode](https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37)
+- [Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j)
+- [Introduction to Bonds](https://dev.to/madgan95/introduction-to-bonds-3816)
+- [Distributed Systems Without the Buzzwords](https://dev.to/sibasishm/distributed-systems-without-the-buzzwords-5d8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
