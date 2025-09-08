@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Data quality, SQL, duckdb and http_client on CI🦆](https://dev.to/adriens/data-quality-sql-duckdb-and-httpclient-on-ci-22)
-- [Monitoring in the Age of Complexity: 5 Assumptions CIOs Need to Rethink](https://dev.to/catchpoint/monitoring-in-the-age-of-complexity-5-assumptions-cios-need-to-rethink-1gh4)
-- [Agent Diary: Sep 8, 2025 - The Great Sequel: Return of the Nothing &lpar;Director&#39;s Cut&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-8-2025-the-great-sequel-return-of-the-nothing-directors-cut-2oif)
-- [Apache Kafka Deep Dive: Concepts, Applications, and Production](https://dev.to/walnold/apache-kafka-deep-dive-concepts-applications-and-production-5f15)
-- [🔥 10 NPM Packages That Will Save You Hours in Backend Development](https://dev.to/manukumar07/10-npm-packages-that-will-save-you-hours-in-backend-development-26ba)
+- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
+- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
+- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
+- [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
+- [Deploying GPU-Enabled ECS EC2 Instances with Auto Scaling Groups and Launch Templates](https://dev.to/bikash119/deploying-gpu-enabled-ecs-ec2-instances-with-auto-scaling-groups-and-launch-templates-569l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
