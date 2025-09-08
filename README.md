@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Preview: The GPT-5.0 Impact Report Series — A Quiet Creator Speaks&quot;](https://dev.to/hanamaruki_ai/preview-the-gpt-50-impact-report-series-a-quiet-creator-speaks-3i3f)
-- [[Boost]](https://dev.to/ferryops/-3c09)
-- [Modelling weapons, spells and enchantments](https://dev.to/magipunk/still-modelling-out-the-backend-137i)
-- [Everything You Need to Know About 800G/1.6T Optical Transceiver and Co-Package Module](https://dev.to/lsolink/everything-you-need-to-know-about-800g16t-optical-transceiver-and-co-package-module-1m6o)
-- [Are tag follows not used for the home page feeds?](https://dev.to/_bigblind/are-tag-follows-not-used-for-the-home-page-feeds-288k)
+- [🛡️ Data quality, SQL, duckdb and http_client on CI🦆](https://dev.to/adriens/data-quality-sql-duckdb-and-httpclient-on-ci-22)
+- [Monitoring in the Age of Complexity: 5 Assumptions CIOs Need to Rethink](https://dev.to/catchpoint/monitoring-in-the-age-of-complexity-5-assumptions-cios-need-to-rethink-1gh4)
+- [Agent Diary: Sep 8, 2025 - The Great Sequel: Return of the Nothing &lpar;Director&#39;s Cut&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-8-2025-the-great-sequel-return-of-the-nothing-directors-cut-2oif)
+- [Apache Kafka Deep Dive: Concepts, Applications, and Production](https://dev.to/walnold/apache-kafka-deep-dive-concepts-applications-and-production-5f15)
+- [🔥 10 NPM Packages That Will Save You Hours in Backend Development](https://dev.to/manukumar07/10-npm-packages-that-will-save-you-hours-in-backend-development-26ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
