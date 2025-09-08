@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Brittany Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-full-performance-live-on-kexp-4adl)
-- [IGN: Ghost of Yotei - Official &#39;Journey Through The Edge of Japan&#39; Flyover](https://dev.to/gg_news/ign-ghost-of-yotei-official-journey-through-the-edge-of-japan-flyover-fmp)
-- [IGN: Digimon Story Time Stranger: Our Thoughts After Playing 4 Hours](https://dev.to/gg_news/ign-digimon-story-time-stranger-our-thoughts-after-playing-4-hours-59ec)
-- [IGN: War Mechanic - Official Re-reveal Trailer](https://dev.to/gg_news/ign-war-mechanic-official-re-reveal-trailer-2id2)
-- [IGN: Voidling Bound - Official Splicing Feature Trailer](https://dev.to/gg_news/ign-voidling-bound-official-splicing-feature-trailer-1mac)
+- [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
+- [Why Self-Hosting made me a better engineer](https://dev.to/mvaldes/why-self-hosting-made-me-a-better-engineer-4d3b)
+- [Chef Tips and Tricks](https://dev.to/mvaldes/chef-tips-and-tricks-3kj8)
+- [Xcode Yerine Cursor: macOS Varsayılan Editör Değiştirme](https://dev.to/yemreak/xcode-yerine-cursor-macos-varsayilan-editor-degistirme-58f6)
+- [My SaaS Infrastructure as a Solo Founder](https://dev.to/shayy/my-saas-infrastructure-as-a-solo-founder-2ghl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
