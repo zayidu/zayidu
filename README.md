@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First Complete Login System in React Native with Expo and Clerk](https://dev.to/aaronksaunders/your-first-complete-login-system-in-react-native-with-expo-and-clerk-3696)
-- [Bryan Bros Golf: Can George &amp; Linkin Park Beat Wesley? &lpar;3v1&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-george-linkin-park-beat-wesley-3v1-5f1b)
-- [IGN: Destiny 2: Renegades and Ash &amp; Iron Reveal Livestream](https://dev.to/gg_news/ign-destiny-2-renegades-and-ash-iron-reveal-livestream-2c3)
-- [IGN: Recur - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-recur-official-gameplay-overview-trailer-42he)
-- [IGN: Wake Up Dead Man: A Knives Out Mystery - Official Teaser Trailer &lpar;2026&rpar; Daniel Craig, Mila Kunis](https://dev.to/gg_news/ign-wake-up-dead-man-a-knives-out-mystery-official-teaser-trailer-2026-daniel-craig-mila-2c8p)
+- [What Are AI Hallucinations and Why Do They Happen?](https://dev.to/shieldstring/what-are-ai-hallucinations-and-why-do-they-happen-1l3m)
+- [My Tech Stack for IG Exporter Chrome Extension](https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51)
+- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1e25)
+- [Dark Patterns in Modern Web UX: The Subtle Manipulations We Fall For Every Day](https://dev.to/ishanbagchi/dark-patterns-in-modern-web-ux-the-subtle-manipulations-we-fall-for-every-day-54pi)
+- [Apigee Logger Shared Flow - Implementation Guide](https://dev.to/mahmoudsayed96/apigee-logger-shared-flow-implementation-guide-3cbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
