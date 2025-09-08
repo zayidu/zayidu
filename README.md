@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch Part 8: Physically Based Lighting &lpar;PBR&rpar;](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-8-physically-based-lighting-pbr-5gpf)
-- [[Boost]](https://dev.to/ben/-3p32)
-- [Day 89: When the Universe Decides to Test Your Multitasking Skills](https://dev.to/casperday11/day-89-when-the-universe-decides-to-test-your-multitasking-skills-1lhi)
-- [Using Docker + Traefik + WordPress on Hostinger VPS](https://dev.to/gu1lh3rm3_x/using-docker-traefik-wordpress-on-hostinger-vps-1jfb)
-- [Designing BackupScout: Scan Your Server for Critical Data &lpar;Part 1&rpar;](https://dev.to/shrsv/designing-backupscout-scan-your-server-for-critical-data-part-1-4jm3)
+- [Your First Complete Login System in React Native with Expo and Clerk](https://dev.to/aaronksaunders/your-first-complete-login-system-in-react-native-with-expo-and-clerk-3696)
+- [Bryan Bros Golf: Can George &amp; Linkin Park Beat Wesley? &lpar;3v1&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-george-linkin-park-beat-wesley-3v1-5f1b)
+- [IGN: Destiny 2: Renegades and Ash &amp; Iron Reveal Livestream](https://dev.to/gg_news/ign-destiny-2-renegades-and-ash-iron-reveal-livestream-2c3)
+- [IGN: Recur - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-recur-official-gameplay-overview-trailer-42he)
+- [IGN: Wake Up Dead Man: A Knives Out Mystery - Official Teaser Trailer &lpar;2026&rpar; Daniel Craig, Mila Kunis](https://dev.to/gg_news/ign-wake-up-dead-man-a-knives-out-mystery-official-teaser-trailer-2026-daniel-craig-mila-2c8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
