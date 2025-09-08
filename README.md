@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking JavaScript&#39;s Built-in Object Power](https://dev.to/adrahi/unlocking-javascripts-built-in-object-power-65c)
-- [From Dev to PM to Multimodal Explorer: My Gemini Challenge Entries](https://dev.to/svet_62385e9/from-dev-to-pm-to-multimodal-explorer-my-gemini-challenge-entries-19fd)
-- [The Looming Quantum Computing Threat: Why Everyone Should Be Paying Attention to Post-Quantum Security](https://dev.to/benjamin_martins_6db63dfd/the-looming-quantum-computing-threat-why-everyone-should-be-paying-attention-to-post-quantum-55d7)
-- [A Beginner’s Guide to Svelte Stores &lpar;Writable, Readable, and Derived&rpar;](https://dev.to/a1guy/state-management-in-svelte-stores-context-and-async-data-5c6f)
-- [NPR Music: Michael Mayo: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-michael-mayo-tiny-desk-concert-1a5j)
+- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
+- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
+- [Surfing with FP Java - Mastering Function&lt;T, R&gt;](https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf)
+- [Global Product Security Strategy: A Multi-Layered Framework &lpar;I.P. developed&rpar;](https://dev.to/d3one/global-product-security-strategy-a-multi-layered-framework-ip-developed-cb1)
+- [Effective Handling of Geospatial Data in DynamoDB](https://dev.to/ianbrumby/effective-handling-of-geospatial-data-in-dynamodb-1hmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
