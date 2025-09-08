@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
-- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
-- [Prompt Engineering](https://dev.to/shajam/prompt-engineering-2kne)
-- [🚀 Docker as a Smart Contract | What This Means for Developers](https://dev.to/umang_suthar_9bad6f345a8a/docker-as-a-smart-contract-what-this-means-for-developers-1co9)
-- [Securing Workloads with AWS KMS and Encryption Best Practices](https://dev.to/sudoconsultants/securing-workloads-with-aws-kms-and-encryption-best-practices-2lh1)
+- [Unlocking JavaScript&#39;s Built-in Object Power](https://dev.to/adrahi/unlocking-javascripts-built-in-object-power-65c)
+- [From Dev to PM to Multimodal Explorer: My Gemini Challenge Entries](https://dev.to/svet_62385e9/from-dev-to-pm-to-multimodal-explorer-my-gemini-challenge-entries-19fd)
+- [The Looming Quantum Computing Threat: Why Everyone Should Be Paying Attention to Post-Quantum Security](https://dev.to/benjamin_martins_6db63dfd/the-looming-quantum-computing-threat-why-everyone-should-be-paying-attention-to-post-quantum-55d7)
+- [A Beginner’s Guide to Svelte Stores &lpar;Writable, Readable, and Derived&rpar;](https://dev.to/a1guy/state-management-in-svelte-stores-context-and-async-data-5c6f)
+- [NPR Music: Michael Mayo: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-michael-mayo-tiny-desk-concert-1a5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
