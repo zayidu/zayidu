@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6)
-- [Subqueries vs. CTEs vs. Stored Procedures in SQL — Explained Simply 🚀](https://dev.to/mercy_musyoka_/subqueries-vs-ctes-vs-stored-procedures-in-sql-explained-simply-1phe)
-- [🎭 DreamLens – Turn Any Story Into a Mini Movie What I Built](https://dev.to/rohit_mane_0c56c05bfdcc75/dreamlens-turn-any-story-into-a-mini-moviewhat-i-built-45b5)
-- [KEXP: Brittany Davis - Sun And Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe)
-- [KEXP: Brittany Davis - Black Thunder &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7)
+- [Understanding the Differences Between Subqueries, CTEs, and Stored Procedures](https://dev.to/patrickkinoti/understanding-the-differences-between-subqueries-ctes-and-stored-procedures-3b75)
+- [🛠️ Was tired of duct-taping APIs and breaking ETL pipelines… RavenDB just dropped an AI Agent Creator inside the database. Finally feels like AI that won’t collapse on me.](https://dev.to/thedeepseeker/was-tired-of-duct-taping-apis-and-breaking-etl-pipelines-ravendb-just-dropped-an-ai-agent-5c06)
+- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
+- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
+- [Root Cause Analysis &lpar;RCA&rpar;: entendendo a causa raiz de incidentes](https://dev.to/marcos_vile/root-cause-analysis-rca-entendendo-a-causa-raiz-de-incidentes-37pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
