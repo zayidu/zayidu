@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing Dynamic Environment Variables Between GitLab CI Matrix Jobs: AWS OIDC Example](https://dev.to/u11d/passing-dynamic-environment-variables-between-gitlab-ci-matrix-jobs-aws-oidc-example-1h9c)
-- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
-- [Kubernetes Workload Types: When to Use What](https://dev.to/shohams/kubernetes-workload-types-when-to-use-what-292h)
-- [PrivJob: ZK-Verified Job Board](https://dev.to/abraham_root/privjob-zk-verified-job-board-1k66)
-- [Вопрос к Ai : Будет ли равнозначным ответ нейросети на промпт, одинаковый по смыслу, составленный на русском и английском языках](https://dev.to/iliya_koltsov_f723b606aaf/vopros-k-ai-budiet-li-ravnoznachnym-otviet-nieirosieti-na-prompt-odinakovyi-po-smyslu-sostavliennyi-3dp5)
+- [Custom Store Features in NgRx Signal Store](https://dev.to/duskoperic/custom-store-features-in-ngrx-signal-store-3pam)
+- [🚀 Docker in DevOps – Node.js Deployment on AWS EC2 &lpar;Week 12 Journey&rpar;](https://dev.to/azmatahmed/docker-in-devops-nodejs-deployment-on-aws-ec2-week-12-journey-4b1e)
+- [Java Virtual Threads Tutorial](https://dev.to/sadiul_hakim/java-virtual-threads-tutorial-2919)
+- [Made a Arduino Location Tracker using SIM800L GSM Module and NEO-6M GPS Module](https://dev.to/david_thomas/made-a-arduino-location-tracker-using-sim800l-gsm-module-and-neo-6m-gps-module-17p1)
+- [WICK-A11Y v2.3.0: A Dazzling New Report, WCAG 2.2 AAA, and More Goodies](https://dev.to/sebastianclavijo/wick-a11y-v230-a-dazzling-new-report-wcag-22-aaa-and-more-goodies-hd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
