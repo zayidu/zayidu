@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your Goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3a98)
-- [13 CSS Best Practices and Accessibility Tips for Developers](https://dev.to/devshefali/13-css-best-practices-and-accessibility-tips-for-developers-540p)
-- [Amazon Bedrock AgentCore Runtime - Part 4 Using Custom Agent with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-4-using-custom-agent-with-strands-agents-sdk-201o)
-- [Usando múltiplas chaves SSH para diferentes contas Git &lpar;pessoal e trabalho&rpar; sem dor de cabeça](https://dev.to/tuliocalil/usando-multiplas-chaves-ssh-para-diferentes-contas-git-pessoal-e-trabalho-sem-dor-de-cabeca-56fp)
-- [Context API: simple, but dangerous?](https://dev.to/matheusmcz/context-api-simple-but-dangerous-51e4)
+- [KEXP: Brittany Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-full-performance-live-on-kexp-4adl)
+- [IGN: Ghost of Yotei - Official &#39;Journey Through The Edge of Japan&#39; Flyover](https://dev.to/gg_news/ign-ghost-of-yotei-official-journey-through-the-edge-of-japan-flyover-fmp)
+- [IGN: Digimon Story Time Stranger: Our Thoughts After Playing 4 Hours](https://dev.to/gg_news/ign-digimon-story-time-stranger-our-thoughts-after-playing-4-hours-59ec)
+- [IGN: War Mechanic - Official Re-reveal Trailer](https://dev.to/gg_news/ign-war-mechanic-official-re-reveal-trailer-2id2)
+- [IGN: Voidling Bound - Official Splicing Feature Trailer](https://dev.to/gg_news/ign-voidling-bound-official-splicing-feature-trailer-1mac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
