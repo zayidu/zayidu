@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-1-5-2025-1dnd)
-- [10 Lightweight Python Tools Every Developer Should Know ✨🐍](https://dev.to/fullstackgada/10-lightweight-python-tools-every-developer-should-know-2jl9)
-- [Your data is your responsibility, not your vendor’s](https://dev.to/tilaa/your-data-is-your-responsibility-not-your-vendors-19d4)
-- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
-- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
+- [What are your Goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3a98)
+- [13 CSS Best Practices and Accessibility Tips for Developers](https://dev.to/devshefali/13-css-best-practices-and-accessibility-tips-for-developers-540p)
+- [Amazon Bedrock AgentCore Runtime - Part 4 Using Custom Agent with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-4-using-custom-agent-with-strands-agents-sdk-201o)
+- [Usando múltiplas chaves SSH para diferentes contas Git &lpar;pessoal e trabalho&rpar; sem dor de cabeça](https://dev.to/tuliocalil/usando-multiplas-chaves-ssh-para-diferentes-contas-git-pessoal-e-trabalho-sem-dor-de-cabeca-56fp)
+- [Context API: simple, but dangerous?](https://dev.to/matheusmcz/context-api-simple-but-dangerous-51e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
