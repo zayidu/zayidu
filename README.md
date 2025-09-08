@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Security in Apps Script](https://dev.to/googleworkspace/enhancing-security-in-apps-script-5ii)
-- [How React/Next.js Developers Can Defend Against Inline Style Exfiltration &lpar;ISE&rpar;](https://dev.to/kreshby/how-reactnextjs-developers-can-defend-against-inline-style-exfiltration-ise-1hlo)
-- [COLORS: DC3 - Bake Off | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-bake-off-a-colors-show-3j1)
-- [GameSpot: Destiny 2: Renegades + Ash &amp; Iron Update | Developer Livestream](https://dev.to/gg_news/gamespot-destiny-2-renegades-ash-iron-update-developer-livestream-3dnk)
-- [IGN: Winnie-the-Pooh: Black Honey - Official Announcement Trailer](https://dev.to/gg_news/ign-winnie-the-pooh-black-honey-official-announcement-trailer-12ea)
+- [WebGPU Engine from Scratch Part 8: Physically Based Lighting &lpar;PBR&rpar;](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-8-physically-based-lighting-pbr-5gpf)
+- [[Boost]](https://dev.to/ben/-3p32)
+- [Day 89: When the Universe Decides to Test Your Multitasking Skills](https://dev.to/casperday11/day-89-when-the-universe-decides-to-test-your-multitasking-skills-1lhi)
+- [Using Docker + Traefik + WordPress on Hostinger VPS](https://dev.to/gu1lh3rm3_x/using-docker-traefik-wordpress-on-hostinger-vps-1jfb)
+- [Designing BackupScout: Scan Your Server for Critical Data &lpar;Part 1&rpar;](https://dev.to/shrsv/designing-backupscout-scan-your-server-for-critical-data-part-1-4jm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
