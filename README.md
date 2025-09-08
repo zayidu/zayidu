@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Store Features in NgRx Signal Store](https://dev.to/duskoperic/custom-store-features-in-ngrx-signal-store-3pam)
-- [🚀 Docker in DevOps – Node.js Deployment on AWS EC2 &lpar;Week 12 Journey&rpar;](https://dev.to/azmatahmed/docker-in-devops-nodejs-deployment-on-aws-ec2-week-12-journey-4b1e)
-- [Java Virtual Threads Tutorial](https://dev.to/sadiul_hakim/java-virtual-threads-tutorial-2919)
-- [Made a Arduino Location Tracker using SIM800L GSM Module and NEO-6M GPS Module](https://dev.to/david_thomas/made-a-arduino-location-tracker-using-sim800l-gsm-module-and-neo-6m-gps-module-17p1)
-- [WICK-A11Y v2.3.0: A Dazzling New Report, WCAG 2.2 AAA, and More Goodies](https://dev.to/sebastianclavijo/wick-a11y-v230-a-dazzling-new-report-wcag-22-aaa-and-more-goodies-hd0)
+- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
+- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
+- [Prompt Engineering](https://dev.to/shajam/prompt-engineering-2kne)
+- [🚀 Docker as a Smart Contract | What This Means for Developers](https://dev.to/umang_suthar_9bad6f345a8a/docker-as-a-smart-contract-what-this-means-for-developers-1co9)
+- [Securing Workloads with AWS KMS and Encryption Best Practices](https://dev.to/sudoconsultants/securing-workloads-with-aws-kms-and-encryption-best-practices-2lh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
