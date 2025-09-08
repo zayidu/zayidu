@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m)
-- [Will Vibe Coding Kill LowCode](https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37)
-- [Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j)
-- [Introduction to Bonds](https://dev.to/madgan95/introduction-to-bonds-3816)
-- [Distributed Systems Without the Buzzwords](https://dev.to/sibasishm/distributed-systems-without-the-buzzwords-5d8o)
+- [Passing Dynamic Environment Variables Between GitLab CI Matrix Jobs: AWS OIDC Example](https://dev.to/u11d/passing-dynamic-environment-variables-between-gitlab-ci-matrix-jobs-aws-oidc-example-1h9c)
+- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
+- [Kubernetes Workload Types: When to Use What](https://dev.to/shohams/kubernetes-workload-types-when-to-use-what-292h)
+- [PrivJob: ZK-Verified Job Board](https://dev.to/abraham_root/privjob-zk-verified-job-board-1k66)
+- [Вопрос к Ai : Будет ли равнозначным ответ нейросети на промпт, одинаковый по смыслу, составленный на русском и английском языках](https://dev.to/iliya_koltsov_f723b606aaf/vopros-k-ai-budiet-li-ravnoznachnym-otviet-nieirosieti-na-prompt-odinakovyi-po-smyslu-sostavliennyi-3dp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
