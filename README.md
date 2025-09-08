@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
-- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
-- [🚀 From 2–5 Minutes to &lt; 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j)
-- [Laura Kampf: A Carry On Suitcase Made From Trash &lpar;ONE DAY BUILD&rpar;](https://dev.to/maker_youtube/laura-kampf-a-carry-on-suitcase-made-from-trash-one-day-build-knk)
-- [IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer](https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g)
+- [&quot;Preview: The GPT-5.0 Impact Report Series — A Quiet Creator Speaks&quot;](https://dev.to/hanamaruki_ai/preview-the-gpt-50-impact-report-series-a-quiet-creator-speaks-3i3f)
+- [[Boost]](https://dev.to/ferryops/-3c09)
+- [Modelling weapons, spells and enchantments](https://dev.to/magipunk/still-modelling-out-the-backend-137i)
+- [Everything You Need to Know About 800G/1.6T Optical Transceiver and Co-Package Module](https://dev.to/lsolink/everything-you-need-to-know-about-800g16t-optical-transceiver-and-co-package-module-1m6o)
+- [Are tag follows not used for the home page feeds?](https://dev.to/_bigblind/are-tag-follows-not-used-for-the-home-page-feeds-288k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
