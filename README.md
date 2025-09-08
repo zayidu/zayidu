@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
-- [Why Self-Hosting made me a better engineer](https://dev.to/mvaldes/why-self-hosting-made-me-a-better-engineer-4d3b)
-- [Chef Tips and Tricks](https://dev.to/mvaldes/chef-tips-and-tricks-3kj8)
-- [Xcode Yerine Cursor: macOS Varsayılan Editör Değiştirme](https://dev.to/yemreak/xcode-yerine-cursor-macos-varsayilan-editor-degistirme-58f6)
-- [My SaaS Infrastructure as a Solo Founder](https://dev.to/shayy/my-saas-infrastructure-as-a-solo-founder-2ghl)
+- [Enhancing Security in Apps Script](https://dev.to/googleworkspace/enhancing-security-in-apps-script-5ii)
+- [How React/Next.js Developers Can Defend Against Inline Style Exfiltration &lpar;ISE&rpar;](https://dev.to/kreshby/how-reactnextjs-developers-can-defend-against-inline-style-exfiltration-ise-1hlo)
+- [COLORS: DC3 - Bake Off | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-bake-off-a-colors-show-3j1)
+- [GameSpot: Destiny 2: Renegades + Ash &amp; Iron Update | Developer Livestream](https://dev.to/gg_news/gamespot-destiny-2-renegades-ash-iron-update-developer-livestream-3dnk)
+- [IGN: Winnie-the-Pooh: Black Honey - Official Announcement Trailer](https://dev.to/gg_news/ign-winnie-the-pooh-black-honey-official-announcement-trailer-12ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
