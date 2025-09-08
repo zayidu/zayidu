@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
-- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
-- [Surfing with FP Java - Mastering Function&lt;T, R&gt;](https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf)
-- [Global Product Security Strategy: A Multi-Layered Framework &lpar;I.P. developed&rpar;](https://dev.to/d3one/global-product-security-strategy-a-multi-layered-framework-ip-developed-cb1)
-- [Effective Handling of Geospatial Data in DynamoDB](https://dev.to/ianbrumby/effective-handling-of-geospatial-data-in-dynamodb-1hmn)
+- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6)
+- [Subqueries vs. CTEs vs. Stored Procedures in SQL — Explained Simply 🚀](https://dev.to/mercy_musyoka_/subqueries-vs-ctes-vs-stored-procedures-in-sql-explained-simply-1phe)
+- [🎭 DreamLens – Turn Any Story Into a Mini Movie What I Built](https://dev.to/rohit_mane_0c56c05bfdcc75/dreamlens-turn-any-story-into-a-mini-moviewhat-i-built-45b5)
+- [KEXP: Brittany Davis - Sun And Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe)
+- [KEXP: Brittany Davis - Black Thunder &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
