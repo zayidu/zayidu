@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Differences Between Subqueries, CTEs, and Stored Procedures](https://dev.to/patrickkinoti/understanding-the-differences-between-subqueries-ctes-and-stored-procedures-3b75)
-- [🛠️ Was tired of duct-taping APIs and breaking ETL pipelines… RavenDB just dropped an AI Agent Creator inside the database. Finally feels like AI that won’t collapse on me.](https://dev.to/thedeepseeker/was-tired-of-duct-taping-apis-and-breaking-etl-pipelines-ravendb-just-dropped-an-ai-agent-5c06)
-- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
-- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
-- [Root Cause Analysis &lpar;RCA&rpar;: entendendo a causa raiz de incidentes](https://dev.to/marcos_vile/root-cause-analysis-rca-entendendo-a-causa-raiz-de-incidentes-37pp)
+- [Apache Iceberg dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-1-5-2025-1dnd)
+- [10 Lightweight Python Tools Every Developer Should Know ✨🐍](https://dev.to/fullstackgada/10-lightweight-python-tools-every-developer-should-know-2jl9)
+- [Your data is your responsibility, not your vendor’s](https://dev.to/tilaa/your-data-is-your-responsibility-not-your-vendors-19d4)
+- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
+- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
