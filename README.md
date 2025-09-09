@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
-- [Understanding in simple terms: symfony lock versus symfony semaphore](https://dev.to/jeandevbr/understanding-in-simple-terms-symfony-lock-versus-symfony-semaphore-2h5d)
-- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
-- [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
+- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e)
+- [How to Build Scalable Headless WordPress Sites With React &amp; GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1)
+- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17)
+- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
+- [Introducing react-night-toggle - A Simple Dark/Light Mode Switch for React](https://dev.to/praveenskg/introducing-react-night-toggle-a-simple-darklight-mode-switch-for-react-2da3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
