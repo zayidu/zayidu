@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RK3588: A SoC for next-gen SBCs, but we&#39;re waiting for RK3688](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-a-soc-for-next-gen-sbcs-but-were-waiting-for-rk3688-2hig)
-- [CSS Container Queries Complete Guide: Say Goodbye to Media Query Pain Points](https://dev.to/blues-2025/css-container-queries-complete-guide-say-goodbye-to-media-query-pain-points-3m9m)
-- [Javascript - arrow function](https://dev.to/dharshinieswaran/javascript-arrow-function-13mb)
-- [My LFX Mentorship journey.](https://dev.to/ajaysingh1/my-lfx-mentorship-journey-5bil)
-- [🚀 Day 9 of My DevOps Journey: Dockerfiles &amp; Image Building](https://dev.to/dankbhardwaj/day-9-of-my-devops-journey-dockerfiles-image-building-18mc)
+- [Give it a try](https://dev.to/dirsebastian/give-it-a-try-4o1d)
+- [Experiment with gopls MCP: Improving Agent Context for Go Development](https://dev.to/calvinmclean/experiment-with-gopls-mcp-improving-agent-context-for-go-development-37bo)
+- [Building Clipboard Manager Pro: Lessons From a Side Project](https://dev.to/quangpl/building-clipboard-manager-pro-lessons-from-a-side-project-oja)
+- [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
+- [🚀 Starting My Cybersecurity Journey: Why I Chose This Path](https://dev.to/mehramjot_kaur_4ec1bfe123/starting-my-cybersecurity-journey-why-i-chose-this-path-5eob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
