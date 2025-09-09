@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e)
-- [How to Build Scalable Headless WordPress Sites With React &amp; GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1)
-- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17)
-- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
-- [Introducing react-night-toggle - A Simple Dark/Light Mode Switch for React](https://dev.to/praveenskg/introducing-react-night-toggle-a-simple-darklight-mode-switch-for-react-2da3)
+- [Spring AI: How to use Generative AI and applied RAG?](https://dev.to/bereczki/spring-ai-how-to-use-generative-ai-and-applied-rag-2hje)
+- [Create Custom Post Captions with Glama AI Automation feature: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/create-custom-post-captions-with-glama-ai-automation-feature-a-step-by-step-tutorial-cep)
+- [Undemanding pending state handling in React](https://dev.to/axtk/undemanding-pending-state-handling-in-react-6d0)
+- [Building a Free AI Email Response Generator: A Complete Guide](https://dev.to/allanninal/building-a-free-ai-email-response-generator-a-complete-guide-1n86)
+- [Secure Software Development: Build It Right, From the Start!](https://dev.to/cliffordisaboke/secure-software-development-build-it-right-from-the-start-53cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
