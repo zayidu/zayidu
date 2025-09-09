@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulldog Behavior Interpreter](https://dev.to/rob_marcarelli_29748f27f0/bulldog-behavior-interpreter-4k7)
-- [Meet Iconshelf.com: Your New Go-To Hub for Free Open Source SVG Icons](https://dev.to/goonlinetools/meet-iconshelfcom-your-new-go-to-hub-for-free-open-source-svg-icons-29fc)
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 1](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-1-3b8c)
-- [Mau Jadi Front-End Developer? Kenalan Dulu Sama React biar Jadi Idaman HRD!](https://dev.to/mumtazhere/mau-jadi-front-end-developer-kenalan-dulu-sama-react-biar-jadi-idaman-hrd-3cc)
-- [KEXP: Gyedu-Blay Ambolley - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-full-performance-live-on-kexp-393d)
+- [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
+- [Edge Computing with AWS: From CloudFront to Lambda@Edge Wizardry](https://dev.to/muhammad_zeeshan_6499a22a/edge-computing-with-aws-from-cloudfront-to-lambdaedge-wizardry-i8)
+- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
+- [Stop Wasting Time on Backend Boilerplate: Meet create-node-spark](https://dev.to/talhabilaldev/stop-wasting-time-on-backend-boilerplate-meet-create-node-spark-kng)
+- [JavaScript Error Handling Patterns You Must Know &lpar;With Examples &amp; Best Practices&rpar;](https://dev.to/rohit_singh_ee84e64941db7/javascript-error-handling-patterns-you-must-know-with-examples-best-practices-4kig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
