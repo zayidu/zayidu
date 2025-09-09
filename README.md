@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘The Legend of Billie Jean’ With Bill Simmons and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-legend-of-billie-jean-with-bill-simmons-and-chris-ryan-the-rewatchables-32pl)
-- [First Steps: Securing Your New Company&#39;s Laptop.](https://dev.to/mdcyberluv/first-steps-securing-your-new-companys-laptop-1did)
-- [Centry: Building a Fraud Detection Engine for Ghana’s Mobile Money Future](https://dev.to/the_spartan_dev/centry-building-a-fraud-detection-engine-for-ghanas-mobile-money-future-5gh5)
-- [How to Create an AI MVP: A Full Development Guide](https://dev.to/raftlabs/how-to-create-an-ai-mvp-a-full-development-guide-19hb)
-- [Building Semantic Search That Actually Works: Beyond Basic Vector Similarity](https://dev.to/mrdubey/building-semantic-search-that-actually-works-beyond-basic-vector-similarity-1a62)
+- [A Self-Destructing Inbox — Discover the Magic of TempMail3.com](https://dev.to/walker876/a-self-destructing-inbox-discover-the-magic-of-tempmail3com-10bo)
+- [From Analog to Digital: Signal Simulation](https://dev.to/simon_chauveau_27459e6bb5/from-analog-to-digital-signal-simulation-1hm0)
+- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
+- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
+- [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
