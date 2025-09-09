@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
-- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
-- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
-- [How to proxy Flutter&#39;s network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b)
-- [Data Silos: Why Teams Keep Drowning in Their Own Information](https://dev.to/aaron_rose_0787cc8b4775a0/data-silos-why-teams-keep-drowning-in-their-own-information-j7h)
+- [RK3588: A SoC for next-gen SBCs, but we&#39;re waiting for RK3688](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-a-soc-for-next-gen-sbcs-but-were-waiting-for-rk3688-2hig)
+- [CSS Container Queries Complete Guide: Say Goodbye to Media Query Pain Points](https://dev.to/blues-2025/css-container-queries-complete-guide-say-goodbye-to-media-query-pain-points-3m9m)
+- [Javascript - arrow function](https://dev.to/dharshinieswaran/javascript-arrow-function-13mb)
+- [My LFX Mentorship journey.](https://dev.to/ajaysingh1/my-lfx-mentorship-journey-5bil)
+- [🚀 Day 9 of My DevOps Journey: Dockerfiles &amp; Image Building](https://dev.to/dankbhardwaj/day-9-of-my-devops-journey-dockerfiles-image-building-18mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
