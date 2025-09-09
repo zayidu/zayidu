@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t delegate too much to Claude Code.](https://dev.to/crimson206/dont-delegate-too-much-to-claude-code-1dpo)
-- [Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update](https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332)
-- [I Built a Micro-SaaS Directory with a &quot;Boring&quot; Stack, and It&#39;s Awesome.](https://dev.to/pedromodular/i-built-a-micro-saas-directory-with-a-boring-stack-and-its-awesome-fo3)
-- [While Everyone’s Chasing AI Jobs, I Found 89 Supply Chain Security Roles That Can’t Get Filled](https://dev.to/arbythecoder/while-everyones-chasing-ai-jobs-i-found-89-supply-chain-security-roles-that-cant-get-filled-1de8)
-- [Your Own Private Internet with Nanocl and WireGuard](https://dev.to/0xle0ne/your-own-private-internet-with-nanocl-and-wireguard-541c)
+- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
+- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
+- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
+- [How to proxy Flutter&#39;s network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b)
+- [Data Silos: Why Teams Keep Drowning in Their Own Information](https://dev.to/aaron_rose_0787cc8b4775a0/data-silos-why-teams-keep-drowning-in-their-own-information-j7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
