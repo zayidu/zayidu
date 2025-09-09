@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About Overemployment What Your Boss Doesn&#39;t Want You to Know](https://dev.to/thetechpreneur/the-truth-about-overemployment-what-your-boss-doesnt-want-you-to-know-3fjl)
-- [Congested Mind vs. Fresh Mind: The Hidden Factor in Problem Solving](https://dev.to/muhammedshafeeque/congested-mind-vs-fresh-mind-the-hidden-factor-in-problem-solving-4lcm)
-- [Beyond the Hype: Building Production-Ready AI for Helplines with DistilBERT Fine-Tuning](https://dev.to/rogendo/beyond-the-hype-building-production-ready-ai-for-helplines-with-distilbert-fine-tuning-2onb)
-- [Recursion vs Backtracking – Complete Guide](https://dev.to/gaurbprajapati/recursion-vs-backtracking-complete-guide-521g)
-- [Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente &lpar;A2A&rpar;](https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk)
+- [Do I need HDMI 2.1 for PS5/Xbox &lpar;4K/120, VRR, ALLM&rpar;?](https://dev.to/tiberius1023/do-i-need-hdmi-21-for-ps5xbox-4k120-vrr-allm-1c71)
+- [Cooking with Google AI](https://dev.to/ulrikedetective/cooking-with-google-ai-3fmn)
+- [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
+- [Lightweight pending state handling in React](https://dev.to/axtk/lightweight-pending-state-handling-in-react-42e4)
+- [Journey into Collaborative Innovation](https://dev.to/tajudeen_abdulgafar_e0363/journey-into-collaborative-innovation-33g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
