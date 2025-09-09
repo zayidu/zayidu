@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do I need HDMI 2.1 for PS5/Xbox &lpar;4K/120, VRR, ALLM&rpar;?](https://dev.to/tiberius1023/do-i-need-hdmi-21-for-ps5xbox-4k120-vrr-allm-1c71)
-- [Cooking with Google AI](https://dev.to/ulrikedetective/cooking-with-google-ai-3fmn)
-- [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
-- [Lightweight pending state handling in React](https://dev.to/axtk/lightweight-pending-state-handling-in-react-42e4)
-- [Journey into Collaborative Innovation](https://dev.to/tajudeen_abdulgafar_e0363/journey-into-collaborative-innovation-33g5)
+- [From SysOps to CloudOps : Breaking Down the New SOA-C03 Exam from AWS](https://dev.to/aws-heroes/from-sysops-to-cloudops-breaking-down-the-new-soa-c03-exam-from-aws-518c)
+- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
+- [Bash Solutions: NUF and process substitutions](https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2)
+- [จากไม่มีบ้านสู่การสร้างบ้านให้คนทั้งประเทศ: บทเรียนธุรกิจและชีวิตจาก CK](https://dev.to/pskclub/cchaakaimmiibaansuukaarsraangbaanaihkhnthangpraeths-btheriiynthurkicchaelachiiwitcchaak-ck-3n9f)
+- [Eyes Wide Shut](https://dev.to/masih_maafi_579688ae132b9/eyes-wide-shut-4cpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
