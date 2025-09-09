@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give it a try](https://dev.to/dirsebastian/give-it-a-try-4o1d)
-- [Experiment with gopls MCP: Improving Agent Context for Go Development](https://dev.to/calvinmclean/experiment-with-gopls-mcp-improving-agent-context-for-go-development-37bo)
-- [Building Clipboard Manager Pro: Lessons From a Side Project](https://dev.to/quangpl/building-clipboard-manager-pro-lessons-from-a-side-project-oja)
-- [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
-- [🚀 Starting My Cybersecurity Journey: Why I Chose This Path](https://dev.to/mehramjot_kaur_4ec1bfe123/starting-my-cybersecurity-journey-why-i-chose-this-path-5eob)
+- [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
+- [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
+- [Structured Concurrency](https://dev.to/sadiul_hakim/what-is-structured-concurrency-21al)
+- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
+- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
