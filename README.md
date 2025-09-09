@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Balancing personal projects with learning and growth](https://dev.to/blesinhub/balancing-personal-projects-with-learning-and-growth-4eel)
-- [Simple steps to Multi-Tenant Architecture Design](https://dev.to/naimulkarim/simple-steps-to-multi-tenant-architecture-design-3l95)
-- [Rick Beato: The Les Claypool Interview: Primus, South Park, And The Art Of Weird Bass](https://dev.to/music_youtube/rick-beato-the-les-claypool-interview-primus-south-park-and-the-art-of-weird-bass-24m2)
-- [Echte Fotos vs. KI-Bilder: Ein Webentwickler-Dilemma mit überraschenden Lösungen](https://dev.to/ivo_sa/echte-fotos-vs-ki-bilder-ein-webentwickler-dilemma-mit-uberraschenden-losungen-57c6)
-- [IaC for Startups: Terraform + AWS in a Weekend](https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji)
+- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
+- [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
+- [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
+- [Day 46: Set-up CloudWatch alarms and SNS topics on AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-46-set-up-cloudwatch-alarms-and-sns-topics-on-aws-173b)
+- [How to Integrate and Consume an API in Laravel &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-integrate-and-consume-an-api-in-laravel-step-by-step-guide-26ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
