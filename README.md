@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Self-Destructing Inbox — Discover the Magic of TempMail3.com](https://dev.to/walker876/a-self-destructing-inbox-discover-the-magic-of-tempmail3com-10bo)
-- [From Analog to Digital: Signal Simulation](https://dev.to/simon_chauveau_27459e6bb5/from-analog-to-digital-signal-simulation-1hm0)
-- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
-- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
-- [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
+- [Testando Componentes com React Hook Form + Zod](https://dev.to/vitorrios1001/testando-componentes-com-react-hook-form-zod-13nk)
+- [Stop Writing Messy UI: How to Build Reusable React Components the Right Way ⚛️](https://dev.to/tahamjp/stop-writing-messy-ui-how-to-build-reusable-react-components-the-right-way-212g)
+- [Beyond the Buzzwords: How Generative AI Really Works](https://dev.to/bereczki/beyond-the-buzzwords-how-generative-ai-really-works-bac)
+- [Um Guia Prático com Quarkus, SAM e GraalVM - Parte 1 Criando o projeto Quarkus e fazendo deploy com SAM](https://dev.to/pdrhp_/um-guia-pratico-com-quarkus-sam-e-graalvm-parte-1-criando-o-projeto-quarkus-e-fazendo-deploy-com-35mg)
+- [My free AI trick to turn podcasts into actionable life lessons](https://dev.to/fabiothiroki/my-free-ai-trick-to-turn-podcasts-into-actionable-life-lessons-3m3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
