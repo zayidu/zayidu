@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe](https://dev.to/scofieldidehen/the-npm-supply-chain-attack-what-happened-why-it-matters-and-how-to-stay-safe-39fc)
-- [Golf.com: How to Master the 50 Yard Pitch Shot](https://dev.to/youtube_golf/golfcom-how-to-master-the-50-yard-pitch-shot-1n2j)
-- [Jeff Su: 5 iPhone AI Habits The Top 1% Use](https://dev.to/future_ai/jeff-su-5-iphone-ai-habits-the-top-1-use-44an)
-- [IGN: Unyielder - Official Release Date Trailer](https://dev.to/gg_news/ign-unyielder-official-release-date-trailer-3ho6)
-- [IGN: The Smashing Machine - Official Trailer #2 &lpar;2025&rpar; Dwayne Johnson, Emily Blunt.](https://dev.to/gg_news/ign-the-smashing-machine-official-trailer-2-2025-dwayne-johnson-emily-blunt-phi)
+- [Bootstrapping vs Funding: Which Path Fits 2025?](https://dev.to/gov01/bootstrapping-vs-funding-which-path-fits-2025-3adm)
+- [One Chart That Explains the Power of AI-Driven Development](https://dev.to/pppp606/one-chart-that-explains-the-power-of-ai-driven-development-5gbo)
+- [Incidents Often Come in Pairs](https://dev.to/jonasbn/incidents-often-come-in-pairs-3gok)
+- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
+- [Protegendo segredos com HashiCorp Vault em um cluster Kubernetes da Magalu Cloud](https://dev.to/magalucloud/protegendo-segredos-com-hashicorp-vault-em-um-cluster-kubernetes-da-magalu-cloud-2fl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
