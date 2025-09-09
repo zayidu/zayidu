@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testando Componentes com React Hook Form + Zod](https://dev.to/vitorrios1001/testando-componentes-com-react-hook-form-zod-13nk)
-- [Stop Writing Messy UI: How to Build Reusable React Components the Right Way ⚛️](https://dev.to/tahamjp/stop-writing-messy-ui-how-to-build-reusable-react-components-the-right-way-212g)
-- [Beyond the Buzzwords: How Generative AI Really Works](https://dev.to/bereczki/beyond-the-buzzwords-how-generative-ai-really-works-bac)
-- [Um Guia Prático com Quarkus, SAM e GraalVM - Parte 1 Criando o projeto Quarkus e fazendo deploy com SAM](https://dev.to/pdrhp_/um-guia-pratico-com-quarkus-sam-e-graalvm-parte-1-criando-o-projeto-quarkus-e-fazendo-deploy-com-35mg)
-- [My free AI trick to turn podcasts into actionable life lessons](https://dev.to/fabiothiroki/my-free-ai-trick-to-turn-podcasts-into-actionable-life-lessons-3m3e)
+- [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
+- [Understanding in simple terms: symfony lock versus symfony semaphore](https://dev.to/jeandevbr/understanding-in-simple-terms-symfony-lock-versus-symfony-semaphore-2h5d)
+- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
+- [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
+- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
