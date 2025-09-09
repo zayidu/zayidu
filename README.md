@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
-- [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
-- [Structured Concurrency](https://dev.to/sadiul_hakim/what-is-structured-concurrency-21al)
-- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
-- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
+- [Hyouji &lpar;表示&rpar;: Streamline Your GitHub Label Management with This Powerful CLI Tool](https://dev.to/0xkoji/hyouji-biao-shi-streamline-your-github-label-management-with-this-powerful-cli-tool-1cl)
+- [Chapter 2: Architecting Cloak UI —Monorepos, Turborepo, and Frontend Patterns](https://dev.to/shagunsharma6677/chapter-2-architecting-cloak-ui-monorepos-turborepo-and-frontend-patterns-5bj7)
+- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
+- [Prompt Engineering for Software Engineers](https://dev.to/araldhafeeri/prompt-engineering-for-software-engineers-59e6)
+- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
