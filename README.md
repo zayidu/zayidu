@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From SysOps to CloudOps : Breaking Down the New SOA-C03 Exam from AWS](https://dev.to/aws-heroes/from-sysops-to-cloudops-breaking-down-the-new-soa-c03-exam-from-aws-518c)
-- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
-- [Bash Solutions: NUF and process substitutions](https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2)
-- [จากไม่มีบ้านสู่การสร้างบ้านให้คนทั้งประเทศ: บทเรียนธุรกิจและชีวิตจาก CK](https://dev.to/pskclub/cchaakaimmiibaansuukaarsraangbaanaihkhnthangpraeths-btheriiynthurkicchaelachiiwitcchaak-ck-3n9f)
-- [Eyes Wide Shut](https://dev.to/masih_maafi_579688ae132b9/eyes-wide-shut-4cpb)
+- [Balancing personal projects with learning and growth](https://dev.to/blesinhub/balancing-personal-projects-with-learning-and-growth-4eel)
+- [Simple steps to Multi-Tenant Architecture Design](https://dev.to/naimulkarim/simple-steps-to-multi-tenant-architecture-design-3l95)
+- [Rick Beato: The Les Claypool Interview: Primus, South Park, And The Art Of Weird Bass](https://dev.to/music_youtube/rick-beato-the-les-claypool-interview-primus-south-park-and-the-art-of-weird-bass-24m2)
+- [Echte Fotos vs. KI-Bilder: Ein Webentwickler-Dilemma mit überraschenden Lösungen](https://dev.to/ivo_sa/echte-fotos-vs-ki-bilder-ein-webentwickler-dilemma-mit-uberraschenden-losungen-57c6)
+- [IaC for Startups: Terraform + AWS in a Weekend](https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
