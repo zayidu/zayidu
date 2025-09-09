@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile development best practices](https://dev.to/claranet/mobile-development-best-practices-24on)
-- [The Developer’s Roadmap to Building and Deploying AI Models](https://dev.to/kamruljpi/the-developers-roadmap-to-building-and-deploying-ai-models-4oin)
-- [Angular&#39;s Game-Changer: Why output&lpar;&rpar; is Replacing EventEmitter in 2025](https://dev.to/codewithrajat/angulars-game-changer-why-output-is-replacing-eventemitter-in-2025-5002)
-- [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
-- [Shipaton: Do0ne Journal #1 - Project Setup &amp; First Build Complete](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-journal-1-project-setup-first-build-complete-309l)
+- [Ringer Movies: ‘The Legend of Billie Jean’ With Bill Simmons and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-legend-of-billie-jean-with-bill-simmons-and-chris-ryan-the-rewatchables-32pl)
+- [First Steps: Securing Your New Company&#39;s Laptop.](https://dev.to/mdcyberluv/first-steps-securing-your-new-companys-laptop-1did)
+- [Centry: Building a Fraud Detection Engine for Ghana’s Mobile Money Future](https://dev.to/the_spartan_dev/centry-building-a-fraud-detection-engine-for-ghanas-mobile-money-future-5gh5)
+- [How to Create an AI MVP: A Full Development Guide](https://dev.to/raftlabs/how-to-create-an-ai-mvp-a-full-development-guide-19hb)
+- [Building Semantic Search That Actually Works: Beyond Basic Vector Similarity](https://dev.to/mrdubey/building-semantic-search-that-actually-works-beyond-basic-vector-similarity-1a62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
