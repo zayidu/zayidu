@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
-- [Edge Computing with AWS: From CloudFront to Lambda@Edge Wizardry](https://dev.to/muhammad_zeeshan_6499a22a/edge-computing-with-aws-from-cloudfront-to-lambdaedge-wizardry-i8)
-- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
-- [Stop Wasting Time on Backend Boilerplate: Meet create-node-spark](https://dev.to/talhabilaldev/stop-wasting-time-on-backend-boilerplate-meet-create-node-spark-kng)
-- [JavaScript Error Handling Patterns You Must Know &lpar;With Examples &amp; Best Practices&rpar;](https://dev.to/rohit_singh_ee84e64941db7/javascript-error-handling-patterns-you-must-know-with-examples-best-practices-4kig)
+- [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm)
+- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
+- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
+- [IGN: Top 25 Best PS1 Games of All Time](https://dev.to/gg_news/ign-top-25-best-ps1-games-of-all-time-4adh)
+- [IGN: Nioh 3 - 19 Minutes of Open Exploration Gameplay - IGN First](https://dev.to/gg_news/ign-nioh-3-19-minutes-of-open-exploration-gameplay-ign-first-j8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
