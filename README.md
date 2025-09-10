@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
-- [The Most Frequently Asked Flutter Engineer Interview Questions&lpar;2025&rpar;](https://dev.to/huangli_huang_12f4a0530eb/the-most-frequently-asked-flutter-engineer-interview-questions2025-45ee)
-- [Kinde monthly office hours](https://dev.to/kinde/kinde-monthly-office-hours-1a1n)
-- [Understanding Web Rendering Strategies](https://dev.to/anthonybanion/understanding-web-rendering-strategies-2j56)
-- [Numbee &lpar;Number Arrange Puzzle&rpar;](https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1)
+- [Part 1: The 5-Minute Setup That Turns ChatGPT Into Your Real Assistant](https://dev.to/semiautomatix/part-1-the-5-minute-setup-that-turns-chatgpt-into-your-real-assistant-5gai)
+- [Building Scalable Enterprise Angular Applications with Nx](https://dev.to/sergeik/building-scalable-enterprise-angular-applications-with-nx-5a17)
+- [Day 23: LLM Manager Service Layer Refactor - Consolidating Multi-Model AI Integration](https://dev.to/clayroach/day-23-llm-manager-service-layer-refactor-consolidating-multi-model-ai-integration-1k29)
+- [Implementing OWIN Authentication with Microsoft Entra ID in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-with-microsoft-entra-id-in-aspnet-framework-5g4i)
+- [Visualize XML Data Online with Ease — No Setup Required](https://dev.to/bugblitz98/visualize-xml-data-online-with-ease-no-setup-required-2kni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
