@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: THIS WILL DESTROY YOU - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-full-performance-live-on-kexp-25i6)
-- [LangChain + Supabase Vector Store &lpar;pgvector&rpar; - A Beginner‑Friendly Guide](https://dev.to/gautam_kumar_d3daad738680/langchain-supabase-vector-store-pgvector-a-beginner-friendly-guide-5h33)
-- [Waving the Red Flag: Avoiding a 9-to-5 Nightmare, pt. 1](https://dev.to/jessangelo/waving-the-red-flag-avoiding-a-9-to-5-nightmare-pt-1-2n57)
-- [The Ultimate Guide to Self-Hosting n8n for Free using Render and Nhost](https://dev.to/singhamandeep007/the-ultimate-guide-to-self-hosting-n8n-for-free-using-render-and-nhost-2d69)
-- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-sub-5683)
+- [TDD and AI-enabled engineering](https://dev.to/bain_forge/tdd-and-ai-enabled-engineering-chl)
+- [How to Provide a Swagger UI Interface in Plain HTML That Works](https://dev.to/fedtti/how-to-provide-a-swagger-ui-interface-in-plain-html-that-works-3lll)
+- [The Backwards Way to $10K MRR: Build SEO First, Product Second](https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82)
+- [Building an Amazon EKS Cluster with raw Terraform Resources](https://dev.to/aws-builders/building-an-amazon-eks-cluster-with-raw-terraform-resources-1gj0)
+- [Weekly Update #8](https://dev.to/abytebybyte/weekly-update-8-4gck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
