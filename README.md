@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Link in Cloud Learning: Experience](https://dev.to/yoga0022/the-missing-link-in-cloud-learning-experience-1ibk)
-- [Queues, Buses, and Streams](https://dev.to/aws-builders/queues-buses-and-streams-49g2)
-- [AI-Powered SEO Research Agent with OpenAI &amp; SerpApi](https://dev.to/james_collins/ai-powered-seo-research-agent-with-openai-serpapi-390g)
-- [AI is amazing — but let&#39;s keep our critical thinking on](https://dev.to/shaman-apprentice/ai-is-amazing-but-lets-keep-our-critical-thinking-on-10b1)
-- [The $50 Article That Sparked My Research on CTEs](https://dev.to/pascal_cescato_692b7a8a20/the-50-article-that-sparked-my-research-on-ctes-1e0j)
+- [IGN: Every Mainline Borderlands Review... So Far](https://dev.to/gg_news/ign-every-mainline-borderlands-review-so-far-2p91)
+- [IGN: SunderBound - Official Reveal Trailer](https://dev.to/gg_news/ign-sunderbound-official-reveal-trailer-4mnh)
+- [IGN: LEGO Voyagers - Official Developer Diary](https://dev.to/gg_news/ign-lego-voyagers-official-developer-diary-3g1d)
+- [IGN: Pokemon Legends: Z-A - Official Mega Malamar Reveal Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-mega-malamar-reveal-trailer-1h10)
+- [SVG Path Editor – Draw and Edit SVGs Easily 🚀](https://dev.to/frontendtoolstech/svg-path-editor-draw-and-edit-svgs-easily-1boi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
