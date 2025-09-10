@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
-- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
-- [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
-- [TikTok API](https://dev.to/george_cojocaru_809bc6b2e/tiktok-api-386o)
-- [Man-in-the-Middle Attacks Explained &lpar;And How to Stay Safe&rpar;](https://dev.to/terminaltools/man-in-the-middle-attacks-explained-and-how-to-stay-safe-1h7e)
+- [KEXP: THIS WILL DESTROY YOU - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-full-performance-live-on-kexp-25i6)
+- [LangChain + Supabase Vector Store &lpar;pgvector&rpar; - A Beginner‑Friendly Guide](https://dev.to/gautam_kumar_d3daad738680/langchain-supabase-vector-store-pgvector-a-beginner-friendly-guide-5h33)
+- [Waving the Red Flag: Avoiding a 9-to-5 Nightmare, pt. 1](https://dev.to/jessangelo/waving-the-red-flag-avoiding-a-9-to-5-nightmare-pt-1-2n57)
+- [The Ultimate Guide to Self-Hosting n8n for Free using Render and Nhost](https://dev.to/singhamandeep007/the-ultimate-guide-to-self-hosting-n8n-for-free-using-render-and-nhost-2d69)
+- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-sub-5683)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
