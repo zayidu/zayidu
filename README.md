@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
-- [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
-- [Opening Modals with Hash Listeners: A Simple JavaScript Pattern](https://dev.to/emrahg/opening-modals-with-hash-listeners-a-simple-javascript-pattern-2b77)
-- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
-- [The Future of Work: 5 Jobs AI Will Redefine by 2030](https://dev.to/jaideepparashar/the-future-of-work-5-jobs-ai-will-redefine-by-2030-me3)
+- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
+- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
+- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1)
+- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice &amp; Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan)
+- [I Used Autogen GraphFlow and Qwen3 Coder to Solve Math Problems — And It Worked](https://dev.to/qtalen/i-used-autogen-graphflow-and-qwen3-coder-to-solve-math-problems-and-it-worked-1f7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
