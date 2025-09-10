@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
-- [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
-- [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
-- [Day 46: Set-up CloudWatch alarms and SNS topics on AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-46-set-up-cloudwatch-alarms-and-sns-topics-on-aws-173b)
-- [How to Integrate and Consume an API in Laravel &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-integrate-and-consume-an-api-in-laravel-step-by-step-guide-26ki)
+- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
+- [The Most Frequently Asked Flutter Engineer Interview Questions&lpar;2025&rpar;](https://dev.to/huangli_huang_12f4a0530eb/the-most-frequently-asked-flutter-engineer-interview-questions2025-45ee)
+- [Kinde monthly office hours](https://dev.to/kinde/kinde-monthly-office-hours-1a1n)
+- [Understanding Web Rendering Strategies](https://dev.to/anthonybanion/understanding-web-rendering-strategies-2j56)
+- [Numbee &lpar;Number Arrange Puzzle&rpar;](https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
