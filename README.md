@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
-- [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
-- [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
-- [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
-- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
+- [7 Windows Development Tools You Might Not Have Heard Of](https://dev.to/lamri_abdellahramdane_15/7-windows-development-tools-you-might-not-have-heard-of-93i)
+- [AI Search Analytics: Tracking Brand Visibility in AI Search](https://dev.to/alifar/ai-search-analytics-tracking-brand-visibility-in-ai-search-23ig)
+- [COLORS: Anik Khan - Infinite NETIC &lpar;ft. Netic&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-anik-khan-infinite-netic-ft-netic-a-colors-show-l7l)
+- [Peter Finch Golf: Even the pros CAN&#39;T break par at this course!](https://dev.to/youtube_golf/peter-finch-golf-even-the-pros-cant-break-par-at-this-course-468a)
+- [GameSpot: HyperYuki: Snowboard Syndicate – Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-hyperyuki-snowboard-syndicate-official-gameplay-reveal-trailer-27lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
