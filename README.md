@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Every Mainline Borderlands Review... So Far](https://dev.to/gg_news/ign-every-mainline-borderlands-review-so-far-2p91)
-- [IGN: SunderBound - Official Reveal Trailer](https://dev.to/gg_news/ign-sunderbound-official-reveal-trailer-4mnh)
-- [IGN: LEGO Voyagers - Official Developer Diary](https://dev.to/gg_news/ign-lego-voyagers-official-developer-diary-3g1d)
-- [IGN: Pokemon Legends: Z-A - Official Mega Malamar Reveal Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-mega-malamar-reveal-trailer-1h10)
-- [SVG Path Editor – Draw and Edit SVGs Easily 🚀](https://dev.to/frontendtoolstech/svg-path-editor-draw-and-edit-svgs-easily-1boi)
+- [AI Undressing Underage Girls - A Billion Dollar Industry](https://dev.to/scofieldidehen/ai-undressing-underage-girls-a-billion-dollar-industry-3384)
+- [smithery.yaml in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/smitheryyaml-in-mcp-mermaid-codebase-1hpg)
+- [Surfing with FP Java - Mastering Supplier&lt;T&gt;](https://dev.to/borba/surfing-with-fp-java-mastering-supplier-5fjg)
+- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
+- [Decoding XRP Ledger: How Protocol Requirements Shape the Network &lpar;September 2025 Update&rpar;](https://dev.to/enchstyle/decoding-xrp-ledger-how-protocol-requirements-shape-the-network-september-2025-update-280c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
