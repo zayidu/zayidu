@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
-- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
-- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
-- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
-- [How to Make Your Data Science Project the Beyoncé of the Boardroom](https://dev.to/eram/how-to-make-your-data-science-project-the-beyonce-of-the-boardroom-47kj)
+- [Getting Started with HTTP/3 in Python](https://dev.to/abibeh/getting-started-with-http3-in-python-6ag)
+- [NPR Music: Turnstile: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-turnstile-tiny-desk-concert-26p4)
+- [Revolutionizing React Integration Testing with Jest and Enzyme](https://dev.to/vjnvisakh/revolutionizing-react-integration-testing-with-jest-and-enzyme-3ckk)
+- [Protect Your Node.js API: Rate Limiting with Fixed Window, Sliding Window, and Token Bucket](https://dev.to/odunayo_dada/protect-your-nodejs-api-rate-limiting-with-fixed-window-sliding-window-and-token-bucket-4278)
+- [Docker Best Practices: Reduce Image Size + Common Interview Questions](https://dev.to/suavebajaj/docker-best-practices-reduce-image-size-common-interview-questions-4hen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
