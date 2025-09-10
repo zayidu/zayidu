@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Series: Episode 19 — Docker Volumes &amp; Persistent Storage Deep Dive](https://dev.to/yash_sonawane25/docker-series-episode-19-docker-volumes-persistent-storage-deep-dive-kcp)
-- [Getting Started with Meilisearch: Fast Search for Your Apps](https://dev.to/rijultp/getting-started-with-meilisearch-fast-search-for-your-apps-3o40)
-- [27 Rust-based alternatives to classic CLI apps](https://dev.to/lingodotdev/27-rust-based-alternatives-to-classic-cli-apps-2350)
-- [From Theory to Practice: A Complete Guide to Kubernetes In-Place Pod Resizing](https://dev.to/cloudpilot-ai/from-theory-to-practice-a-complete-guide-to-kubernetes-in-place-pod-resizing-4glk)
-- [Vibe Coding Best Practices](https://dev.to/jolanglinais/vibe-coding-best-practices-4go7)
+- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
+- [Jeff Su: These 5 iPhone AI Tips Changed How I Work](https://dev.to/future_ai/jeff-su-these-5-iphone-ai-tips-changed-how-i-work-i2l)
+- [How One Phishing Email Just Compromised 2.6 Billion NPM Downloads &lpar;And Why Every Dev Should Care&rpar;](https://dev.to/shiva_shanker_k/how-one-phishing-email-just-compromised-26-billion-npm-downloads-and-why-every-dev-should-care-3g0h)
+- [GameSpot: Play Acclaim Showcase Livestream](https://dev.to/gg_news/gamespot-play-acclaim-showcase-livestream-21ng)
+- [IGN: Among Us - Official New Viper Role Trailer](https://dev.to/gg_news/ign-among-us-official-new-viper-role-trailer-39in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
