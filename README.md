@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: The 5-Minute Setup That Turns ChatGPT Into Your Real Assistant](https://dev.to/semiautomatix/part-1-the-5-minute-setup-that-turns-chatgpt-into-your-real-assistant-5gai)
-- [Building Scalable Enterprise Angular Applications with Nx](https://dev.to/sergeik/building-scalable-enterprise-angular-applications-with-nx-5a17)
-- [Day 23: LLM Manager Service Layer Refactor - Consolidating Multi-Model AI Integration](https://dev.to/clayroach/day-23-llm-manager-service-layer-refactor-consolidating-multi-model-ai-integration-1k29)
-- [Implementing OWIN Authentication with Microsoft Entra ID in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-with-microsoft-entra-id-in-aspnet-framework-5g4i)
-- [Visualize XML Data Online with Ease — No Setup Required](https://dev.to/bugblitz98/visualize-xml-data-online-with-ease-no-setup-required-2kni)
+- [Docker Series: Episode 19 — Docker Volumes &amp; Persistent Storage Deep Dive](https://dev.to/yash_sonawane25/docker-series-episode-19-docker-volumes-persistent-storage-deep-dive-kcp)
+- [Getting Started with Meilisearch: Fast Search for Your Apps](https://dev.to/rijultp/getting-started-with-meilisearch-fast-search-for-your-apps-3o40)
+- [27 Rust-based alternatives to classic CLI apps](https://dev.to/lingodotdev/27-rust-based-alternatives-to-classic-cli-apps-2350)
+- [From Theory to Practice: A Complete Guide to Kubernetes In-Place Pod Resizing](https://dev.to/cloudpilot-ai/from-theory-to-practice-a-complete-guide-to-kubernetes-in-place-pod-resizing-4glk)
+- [Vibe Coding Best Practices](https://dev.to/jolanglinais/vibe-coding-best-practices-4go7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
