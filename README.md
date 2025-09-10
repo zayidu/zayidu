@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desacoplando lógicas com PublishEvent + EventHandler no Spring Boot](https://dev.to/ledsonsilva/desacoplando-logicas-com-publishevent-eventhandler-no-spring-boot-57h5)
-- [🚀 Day 12 of My Python Learning Journey](https://dev.to/_adii3107/day-12-of-my-python-learning-journey-36a5)
-- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-4450)
-- [The Largest NPM Supply Chain Attack of 2025: A Deep Dive into the Compromise of Billions of Downloads](https://dev.to/om_shree_0709/the-largest-npm-supply-chain-attack-of-2025-a-deep-dive-into-the-compromise-of-billions-of-3f45)
-- [Agent As Code : BMAD-METHOD™](https://dev.to/vishalmysore/agent-as-code-bmad-method-4no9)
+- [The Missing Link in Cloud Learning: Experience](https://dev.to/yoga0022/the-missing-link-in-cloud-learning-experience-1ibk)
+- [Queues, Buses, and Streams](https://dev.to/aws-builders/queues-buses-and-streams-49g2)
+- [AI-Powered SEO Research Agent with OpenAI &amp; SerpApi](https://dev.to/james_collins/ai-powered-seo-research-agent-with-openai-serpapi-390g)
+- [AI is amazing — but let&#39;s keep our critical thinking on](https://dev.to/shaman-apprentice/ai-is-amazing-but-lets-keep-our-critical-thinking-on-10b1)
+- [The $50 Article That Sparked My Research on CTEs](https://dev.to/pascal_cescato_692b7a8a20/the-50-article-that-sparked-my-research-on-ctes-1e0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
