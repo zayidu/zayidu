@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forms in SvelteKit — Actions, Validation &amp; Progressive Enhancement](https://dev.to/a1guy/forms-in-sveltekit-actions-validation-progressive-enhancement-3leh)
-- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/sudoconsultants/q-the-future-enterprise-productivity-with-aws-q-business-156m)
-- [Edge Device OTA with real world example](https://dev.to/minwook/edge-device-ota-with-real-world-example-1df5)
-- [One tool for both registration and editing! Basic Techniques for Reusing Forms in React](https://dev.to/kazutora_hattori_66972c88/one-tool-for-both-registration-and-editing-basic-techniques-for-reusing-forms-in-react-5f81)
-- [Release - CherryPick 3.x](https://dev.to/pese/release-cherrypick-3x-1jga)
+- [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
+- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
+- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
+- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
+- [How to Make Your Data Science Project the Beyoncé of the Boardroom](https://dev.to/eram/how-to-make-your-data-science-project-the-beyonce-of-the-boardroom-47kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
