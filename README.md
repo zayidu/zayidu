@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
-- [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
-- [Touchscreen Surface Treatments: Why They Matter for Industrial and Outdoor Applications](https://dev.to/tonyhe8688/touchscreen-surface-treatments-why-they-matter-for-industrial-and-outdoor-applications-1o1m)
-- [I Built 50+ Free Font &amp; Color Tools—And Here&#39;s the Code](https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3)
-- [Architech Dream, Your AI Architectural Visionary](https://dev.to/aniruddhaadak/architech-dream-your-ai-architectural-visionary-120c)
+- [Forms in SvelteKit — Actions, Validation &amp; Progressive Enhancement](https://dev.to/a1guy/forms-in-sveltekit-actions-validation-progressive-enhancement-3leh)
+- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/sudoconsultants/q-the-future-enterprise-productivity-with-aws-q-business-156m)
+- [Edge Device OTA with real world example](https://dev.to/minwook/edge-device-ota-with-real-world-example-1df5)
+- [One tool for both registration and editing! Basic Techniques for Reusing Forms in React](https://dev.to/kazutora_hattori_66972c88/one-tool-for-both-registration-and-editing-basic-techniques-for-reusing-forms-in-react-5f81)
+- [Release - CherryPick 3.x](https://dev.to/pese/release-cherrypick-3x-1jga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
