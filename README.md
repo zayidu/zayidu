@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
-- [Jeff Su: These 5 iPhone AI Tips Changed How I Work](https://dev.to/future_ai/jeff-su-these-5-iphone-ai-tips-changed-how-i-work-i2l)
-- [How One Phishing Email Just Compromised 2.6 Billion NPM Downloads &lpar;And Why Every Dev Should Care&rpar;](https://dev.to/shiva_shanker_k/how-one-phishing-email-just-compromised-26-billion-npm-downloads-and-why-every-dev-should-care-3g0h)
-- [GameSpot: Play Acclaim Showcase Livestream](https://dev.to/gg_news/gamespot-play-acclaim-showcase-livestream-21ng)
-- [IGN: Among Us - Official New Viper Role Trailer](https://dev.to/gg_news/ign-among-us-official-new-viper-role-trailer-39in)
+- [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
+- [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
+- [Opening Modals with Hash Listeners: A Simple JavaScript Pattern](https://dev.to/emrahg/opening-modals-with-hash-listeners-a-simple-javascript-pattern-2b77)
+- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
+- [The Future of Work: 5 Jobs AI Will Redefine by 2030](https://dev.to/jaideepparashar/the-future-of-work-5-jobs-ai-will-redefine-by-2030-me3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
