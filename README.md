@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
-- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
-- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1)
-- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice &amp; Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan)
-- [I Used Autogen GraphFlow and Qwen3 Coder to Solve Math Problems — And It Worked](https://dev.to/qtalen/i-used-autogen-graphflow-and-qwen3-coder-to-solve-math-problems-and-it-worked-1f7f)
+- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
+- [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
+- [Touchscreen Surface Treatments: Why They Matter for Industrial and Outdoor Applications](https://dev.to/tonyhe8688/touchscreen-surface-treatments-why-they-matter-for-industrial-and-outdoor-applications-1o1m)
+- [I Built 50+ Free Font &amp; Color Tools—And Here&#39;s the Code](https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3)
+- [Architech Dream, Your AI Architectural Visionary](https://dev.to/aniruddhaadak/architech-dream-your-ai-architectural-visionary-120c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
