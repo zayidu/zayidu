@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apprenticeship and the Importance of Community](https://dev.to/jakesvoid/apprenticeship-and-the-importance-of-community-1phc)
-- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-5bph)
-- [IGN: Spinal Tap React to the Greatest Rock &amp; Roll Moments In Movie History](https://dev.to/gg_news/ign-spinal-tap-react-to-the-greatest-rock-roll-moments-in-movie-history-87e)
-- [IGN: Little Nightmares 3: The Final Preview](https://dev.to/gg_news/ign-little-nightmares-3-the-final-preview-eb2)
-- [AI in the Office: What Every Worker Needs in 2024](https://dev.to/summone/ai-in-the-office-what-every-worker-needs-in-2024-1n3d)
+- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
+- [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
+- [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
+- [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
+- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
