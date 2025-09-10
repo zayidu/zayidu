@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma Variables vs Tokens Studio: Why Both Matter](https://dev.to/quintonjason/figma-variables-vs-tokens-studio-why-both-matter-2md7)
-- [CloudFront ECDSA Signed URLs: 91% Faster Generation, 55% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
-- [Networking - What it is and Why You Need to Know It?](https://dev.to/kojo_ben1/networking-what-it-is-and-why-you-need-to-know-it-3k04)
-- [GameSpot: ELDEN RING NIGHTREIGN | Deep of Night Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-elden-ring-nightreign-deep-of-night-gameplay-overview-trailer-45jk)
-- [IGN: Chainsaw Man - The Movie: Reze Arc - Official Trailer #2 &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-the-movie-reze-arc-official-trailer-2-sub-2kaj)
+- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
+- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
+- [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
+- [TikTok API](https://dev.to/george_cojocaru_809bc6b2e/tiktok-api-386o)
+- [Man-in-the-Middle Attacks Explained &lpar;And How to Stay Safe&rpar;](https://dev.to/terminaltools/man-in-the-middle-attacks-explained-and-how-to-stay-safe-1h7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
