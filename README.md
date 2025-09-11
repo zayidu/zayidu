@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Portfolio while you Chat: My TamboHack Project](https://dev.to/fudailzafar/building-a-portfolio-while-you-chat-my-tambohack-project-14m3)
-- [Redis Hands-On: Master Hashes, Persistence, Lua, &amp; HyperLogLog with 5 Practical Labs](https://dev.to/labex/redis-hands-on-master-hashes-persistence-lua-hyperloglog-with-5-practical-labs-47li)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production](https://dev.to/dgaro/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-513m)
-- [Cracking the Code: A Senior&#39;s Guide to Advanced JavaScript Interviews](https://dev.to/jackm_345442a09fb53b/cracking-the-code-a-seniors-guide-to-advanced-javascript-interviews-2mc9)
-- [Day 3 of My Quantum Computing Journey: When Physics Meets Computing Reality](https://dev.to/keshabkjha/day-3-of-my-quantum-computing-journey-when-physics-meets-computing-reality-13mn)
+- [🧃 Juice Oracle: The AI That Judges Your Soul Through Your Beverages](https://dev.to/jcloud/juice-oracle-the-ai-that-judges-your-soul-through-your-beverages-3k6l)
+- [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12)
+- [KEXP: Sea Lemon - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-full-performance-live-on-kexp-320g)
+- [IGN: Borderlands 4 – 9 Things You NEED To Do First](https://dev.to/gg_news/ign-borderlands-4-9-things-you-need-to-do-first-j0f)
+- [IGN: Delta Force - Official ‘Fault’ Warfare Map Reveal Trailer](https://dev.to/gg_news/ign-delta-force-official-fault-warfare-map-reveal-trailer-3ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
