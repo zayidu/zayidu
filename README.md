@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
-- [⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀](https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d)
-- [Stop Writing Walls of Text: Build Video Newsletters with AI](https://dev.to/walker876/stop-writing-walls-of-text-build-video-newsletters-with-ai-311m)
-- [How I Log ESPHome Device Data to CSV with Python &lpar;and Why You Should Too&rpar;](https://dev.to/devasservice/how-i-log-esphome-device-data-to-csv-with-python-and-why-you-should-too-467p)
-- [The Developer’s Learning Journey: When Study Methods Evolve Over Time](https://dev.to/saribeg/the-developers-learning-journey-when-study-methods-evolve-over-time-55i5)
+- [Causal LLM or splitting LLM](https://dev.to/anonch/causal-llm-or-splitting-llm-3n2n)
+- [React Hook Form Summary: How to Easily Manage Forms Even for Beginners](https://dev.to/kazutora_hattori_66972c88/react-hook-form-summary-how-to-easily-manage-forms-even-for-beginners-m1)
+- [Get More Done with Better Contact Center Software](https://dev.to/deepijatelecom1/get-more-done-with-better-contact-center-software-985)
+- [How Do You Fix the Missing Texture Error in Blender &lpar;2025 Guide&rpar;?](https://dev.to/irender_gpu_cloud/how-do-you-fix-the-missing-texture-error-in-blender-2025-guide-1100)
+- [A Complete Picture to Make Laravel Blade Files Alive](https://dev.to/raheelshan/a-complete-picture-to-make-laravel-blade-files-alive-4go3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
