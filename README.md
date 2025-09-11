@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tadpole Charts: Clarity in Change](https://dev.to/datastudies/tadpole-charts-clarity-in-change-1co0)
-- [Network Reconnaissance with Nmap: The Complete Guide](https://dev.to/caffinecoder54/network-reconnaissance-with-nmap-the-complete-guide-4jp7)
-- [Open Source vs. Commercial AI Prior Art Tools: PQAI and Alternatives](https://dev.to/patentscanai/open-source-vs-commercial-ai-prior-art-tools-pqai-and-alternatives-na2)
-- [KEXP: you, infinite &lpar;THIS WILL DESTROY YOU&rpar; - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-this-will-destroy-you-throughlines-live-on-kexp-2098)
-- [SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-hands-on-the-free-security-tool-you-didnt-know-you-needed-2o4j)
+- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
+- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
+- [Using IP2Location Dart in console project](https://dev.to/ip2location/using-ip2location-dart-in-console-project-f0n)
+- [The 30-Second Problem That Took Me 3 Weeks to Solve](https://dev.to/thatonearab/the-30-second-problem-that-took-me-3-weeks-to-solve-1odf)
+- [Productivity Hacks for Busy Creators](https://dev.to/whoozit_in_82812c2fd22a09/productivity-hacks-for-busy-creators-1g32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
