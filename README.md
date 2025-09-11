@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 92: Authentication, Insomnia, and Life Decisions](https://dev.to/casperday11/day-92-authentication-insomnia-and-life-decisions-32go)
-- [Best AI Coding Tools for Rust Projects: IDEs vs Terminals](https://dev.to/shuttle/best-ai-coding-tools-for-rust-projects-ides-vs-terminals-3md2)
-- [Design Patterns by Purpose: The Command Pattern in Frontend Life &lpar;Part 4&rpar;](https://dev.to/sagi0312/design-patterns-by-purpose-the-command-pattern-in-frontend-life-part-4-2f35)
-- [GameSpot: Borderlands 4 Opening Cinematic](https://dev.to/gg_news/gamespot-borderlands-4-opening-cinematic-10gb)
-- [IGN: Borderlands 4: The First 29 Minutes of Gameplay](https://dev.to/gg_news/ign-borderlands-4-the-first-29-minutes-of-gameplay-1pp8)
+- [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
+- [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
+- [📦 How JavaScript Imports Really Work &lpar;and Why It Matters for Scalable Code&rpar;](https://dev.to/anik_sikder_313/how-javascript-imports-really-work-and-why-it-matters-for-scalable-code-3fpm)
+- [How I Built a Storytelling App That Turns Drawings into Tales with Gemini 2.5 Flash](https://dev.to/chilupa/how-i-built-a-storytelling-app-that-turns-drawings-into-tales-with-gemini-25-flash-298e)
+- [Mastering CRUD with Spring Boot and MongoDB: A Step-by-Step Guide](https://dev.to/altairlage/mastering-crud-with-spring-boot-and-mongodb-a-step-by-step-guide-36ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
