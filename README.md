@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
-- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
-- [Using IP2Location Dart in console project](https://dev.to/ip2location/using-ip2location-dart-in-console-project-f0n)
-- [The 30-Second Problem That Took Me 3 Weeks to Solve](https://dev.to/thatonearab/the-30-second-problem-that-took-me-3-weeks-to-solve-1odf)
-- [Productivity Hacks for Busy Creators](https://dev.to/whoozit_in_82812c2fd22a09/productivity-hacks-for-busy-creators-1g32)
+- [How do you keep async communication clear without making everyone write essays?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-keep-async-communication-clear-without-making-everyone-write-essays-3ack)
+- [Text Base64 Encoder – Encode Your Text Online Effortlessly](https://dev.to/frontendtoolstech/text-base64-encoder-encode-your-text-online-effortlessly-11ce)
+- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j)
+- [Compile-Time vs Runtime Safety in React &lpar;TSX&rpar;: The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
+- [Ng-News 25/36: Q&amp;A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
