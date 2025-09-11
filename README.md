@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
-- [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
-- [📦 How JavaScript Imports Really Work &lpar;and Why It Matters for Scalable Code&rpar;](https://dev.to/anik_sikder_313/how-javascript-imports-really-work-and-why-it-matters-for-scalable-code-3fpm)
-- [How I Built a Storytelling App That Turns Drawings into Tales with Gemini 2.5 Flash](https://dev.to/chilupa/how-i-built-a-storytelling-app-that-turns-drawings-into-tales-with-gemini-25-flash-298e)
-- [Mastering CRUD with Spring Boot and MongoDB: A Step-by-Step Guide](https://dev.to/altairlage/mastering-crud-with-spring-boot-and-mongodb-a-step-by-step-guide-36ee)
+- [Disposable Doesn&#39;t Have to Mean Disastrous: Smarter Design for &#39;Smart&#39; Packaging](https://dev.to/arvindsundararajan/disposable-doesnt-have-to-mean-disastrous-smarter-design-for-smart-packaging-2e8h)
+- [Opencode + Grok Code Fast 1: A Powerful Free Combo for Terminal-Based AI Coding](https://dev.to/einarcesar/opencode-grok-code-fast-1-a-powerful-free-combo-for-terminal-based-ai-coding-4hfa)
+- [Monitoring Laravel Livewire Components](https://dev.to/inspector/monitoring-livewire-components-2hfa)
+- [Building AutonoLab - an all-in-one AI platform that solves YouTube growth, need your feedback!](https://dev.to/youssefimlyhen/building-autonolab-an-all-in-one-ai-platform-that-solves-youtube-growth-need-your-feedback-101m)
+- [IGN: Borderlands 4 - Which Character &lpar;or Class&rpar; Should You Choose?](https://dev.to/gg_news/ign-borderlands-4-which-character-or-class-should-you-choose-10i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
