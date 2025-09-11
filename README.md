@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
-- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
-- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
-- [5 Common Performance Pitfalls in Mobile Apps &lpar;And How to Fix Them&rpar;](https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h)
-- [Master MERN Stack Development with CoderCrafter: Building a User Authentication System](https://dev.to/himanshu_anand_b6a7606f82/master-mern-stack-development-with-codercrafter-building-a-user-authentication-system-3873)
+- [[Boost]](https://dev.to/kathryngrayson/-3511)
+- [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
+- [What&#39;s New in C# 14: Null-Conditional Assignments](https://dev.to/ivankahl/whats-new-in-c-14-null-conditional-assignments-2oj4)
+- [Google Cloud Storage : Le guide du débutant pour maîtriser vos fichiers](https://dev.to/laformulenuagique/google-cloud-storage-le-guide-du-debutant-pour-maitriser-vos-fichiers-281a)
+- [The Adventures of Blink S4e2: Blink vs. The Setup Script](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e2-blink-vs-the-setup-script-46a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
