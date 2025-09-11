@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
-- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
-- [How to create an Oracle Autonomous Database@Google Cloud](https://dev.to/farisdurrani/how-to-create-an-oracle-autonomous-databasegoogle-cloud-380o)
-- [How to Build Sales Battlecards Your Reps Will Actually Use &lpar;and Win With&rpar;](https://dev.to/paultowers/how-to-build-sales-battlecards-your-reps-will-actually-use-and-win-with-573a)
-- [From Burnout to Breakthrough: Building Mirae with Modern Tools and Fresh Perspective](https://dev.to/runtime_renegade/from-burnout-to-breakthrough-building-mirae-with-modern-tools-and-fresh-perspective-1496)
+- [🥊 MMA Coach Assistant - AI-Powered Fight Analysis](https://dev.to/paulo_abbcba03b4df70572fc/mma-coach-assistant-ai-powered-fight-analysis-124j)
+- [GameSpot: Borderlands 4 | Things I Wish I Knew Before Playing](https://dev.to/gg_news/gamespot-borderlands-4-things-i-wish-i-knew-before-playing-1np8)
+- [IGN: Arena Breakout: Infinite - Official Full Release Update Overview Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-full-release-update-overview-trailer-3he7)
+- [IGN: Hollow Knight: Silksong Boss Fight - Fourth Chorus &lpar;Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-fourth-chorus-far-fields-m1k)
+- [IGN: Dying Light: The Beast - Official Part 3: Monsters Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-part-3-monsters-trailer-40i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
