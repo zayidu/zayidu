@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you keep async communication clear without making everyone write essays?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-keep-async-communication-clear-without-making-everyone-write-essays-3ack)
-- [Text Base64 Encoder – Encode Your Text Online Effortlessly](https://dev.to/frontendtoolstech/text-base64-encoder-encode-your-text-online-effortlessly-11ce)
-- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j)
-- [Compile-Time vs Runtime Safety in React &lpar;TSX&rpar;: The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
-- [Ng-News 25/36: Q&amp;A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
+- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
+- [⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀](https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d)
+- [Stop Writing Walls of Text: Build Video Newsletters with AI](https://dev.to/walker876/stop-writing-walls-of-text-build-video-newsletters-with-ai-311m)
+- [How I Log ESPHome Device Data to CSV with Python &lpar;and Why You Should Too&rpar;](https://dev.to/devasservice/how-i-log-esphome-device-data-to-csv-with-python-and-why-you-should-too-467p)
+- [The Developer’s Learning Journey: When Study Methods Evolve Over Time](https://dev.to/saribeg/the-developers-learning-journey-when-study-methods-evolve-over-time-55i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
