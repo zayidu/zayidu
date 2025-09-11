@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LearnSphere: Transforming Every Syllabus into a Personalized Learning Journey 📚🚀✨](https://dev.to/divyasinghdev/learnsphere-transforming-every-syllabus-into-a-personalized-learning-journey-4ghp)
-- [🕷️ How I Built My First Open Source Project: Spider.css &lpar;and What I Learned&rpar;](https://dev.to/pjdeveloper896/how-i-built-my-first-open-source-project-spidercss-and-what-i-learned-1hc3)
-- [Inside the Hacker’s Playbook &lpar;Part 2&rpar;: The Advanced Stuff Nobody Talks About](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-part-2-the-advanced-stuff-nobody-talks-about-d1l)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2j9l)
-- [The Rise of the Vibe Coder &lpar;and Why It Should Make You Better, Not Bitter&rpar;](https://dev.to/duplessisvanaswegen/the-rise-of-the-vibe-coder-and-why-it-should-make-you-better-not-bitter-jeh)
+- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
+- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
+- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
+- [Effective Java &lpar;3rd Edition&rpar; - Chapter 2: Creating and Destroying Objects with Java and Kotlin](https://dev.to/inajar/effective-java-3rd-edition-chapter-2-creating-and-destroying-objects-with-java-and-kotlin-5965)
+- [Why the Principle of Least Privilege Is Critical for Non-Human Identities](https://dev.to/gitguardian/why-the-principle-of-least-privilege-is-critical-for-non-human-identities-3kg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
