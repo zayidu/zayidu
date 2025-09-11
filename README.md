@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conversations That Mattered: My Journey Mentoring a Senior into Leadership](https://dev.to/berlin-tech-blog/conversations-that-mattered-my-journey-mentoring-a-senior-into-leadership-2p4m)
-- [Types vs Interfaces in TypeScript: A Clear Guide for Developers](https://dev.to/rijultp/types-vs-interfaces-in-typescript-a-clear-guide-for-developers-13kf)
-- [Stop Writing SQL by Hand: Building My MVP to Chat With Databases](https://dev.to/arseniydev/stop-writing-sql-by-hand-building-my-mvp-to-chat-with-databases-3fhg)
-- [Job board Platform](https://dev.to/alain_kwishima/job-board-platform-28pc)
-- [I wrote a book, but I don’t know how to make it look professional. What should I do?](https://dev.to/celestia_noa_414a28b49eb3/i-wrote-a-book-but-i-dont-know-how-to-make-it-look-professional-what-should-i-do-4c50)
+- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
+- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
+- [How to create an Oracle Autonomous Database@Google Cloud](https://dev.to/farisdurrani/how-to-create-an-oracle-autonomous-databasegoogle-cloud-380o)
+- [How to Build Sales Battlecards Your Reps Will Actually Use &lpar;and Win With&rpar;](https://dev.to/paultowers/how-to-build-sales-battlecards-your-reps-will-actually-use-and-win-with-573a)
+- [From Burnout to Breakthrough: Building Mirae with Modern Tools and Fresh Perspective](https://dev.to/runtime_renegade/from-burnout-to-breakthrough-building-mirae-with-modern-tools-and-fresh-perspective-1496)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
