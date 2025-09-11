@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I Structure Projects for Scalability](https://dev.to/aleksandr_ryzhikov/how-do-i-structure-projects-for-scalability-4ppo)
-- [Google AI Studio Multimodal Challenge: Free-Tier My A$$](https://dev.to/ghotet/google-ai-studio-multimodal-challenge-free-tier-my-a-150a)
-- [Hello everyone!](https://dev.to/esdk/hello-everyone-165f)
-- [GameSpot: Hollow Knight: Silksong 7 Things I Wish I Knew](https://dev.to/gg_news/gamespot-hollow-knight-silksong-7-things-i-wish-i-knew-5d25)
-- [IGN: GTA 6 Delay Wasn&#39;t Bad for Everyone - IGN Daily Fix](https://dev.to/gg_news/ign-gta-6-delay-wasnt-bad-for-everyone-ign-daily-fix-2e5e)
+- [AI and Art: How Creators Can Navigate the Evolving Landscape](https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4)
+- [The biggest opportunities in 2025 won’t go to those who can write the most prompts. They’ll go to those who can turn prompts into products, systems, and sustainable business models.](https://dev.to/jaideepparashar/the-biggest-opportunities-in-2025-wont-go-to-those-who-can-write-the-most-prompts-theyll-go-to-4obe)
+- [How I Use AI to Build Real Business Models &lpar;Not Just Content&rpar;](https://dev.to/jaideepparashar/how-i-use-ai-to-build-real-business-models-not-just-content-1n66)
+- [Quick Fix: My MCP Tools Were Showing as Write Tools in ChatGPT Dev Mode](https://dev.to/nickytonline/quick-fix-my-mcp-tools-were-showing-as-write-tools-in-chatgpt-dev-mode-3id9)
+- [KEXP: you, infinite - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-throughlines-live-on-kexp-5flb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
