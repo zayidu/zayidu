@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Disposable Doesn&#39;t Have to Mean Disastrous: Smarter Design for &#39;Smart&#39; Packaging](https://dev.to/arvindsundararajan/disposable-doesnt-have-to-mean-disastrous-smarter-design-for-smart-packaging-2e8h)
-- [Opencode + Grok Code Fast 1: A Powerful Free Combo for Terminal-Based AI Coding](https://dev.to/einarcesar/opencode-grok-code-fast-1-a-powerful-free-combo-for-terminal-based-ai-coding-4hfa)
-- [Monitoring Laravel Livewire Components](https://dev.to/inspector/monitoring-livewire-components-2hfa)
-- [Building AutonoLab - an all-in-one AI platform that solves YouTube growth, need your feedback!](https://dev.to/youssefimlyhen/building-autonolab-an-all-in-one-ai-platform-that-solves-youtube-growth-need-your-feedback-101m)
-- [IGN: Borderlands 4 - Which Character &lpar;or Class&rpar; Should You Choose?](https://dev.to/gg_news/ign-borderlands-4-which-character-or-class-should-you-choose-10i4)
+- [Building a Portfolio while you Chat: My TamboHack Project](https://dev.to/fudailzafar/building-a-portfolio-while-you-chat-my-tambohack-project-14m3)
+- [Redis Hands-On: Master Hashes, Persistence, Lua, &amp; HyperLogLog with 5 Practical Labs](https://dev.to/labex/redis-hands-on-master-hashes-persistence-lua-hyperloglog-with-5-practical-labs-47li)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production](https://dev.to/dgaro/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-513m)
+- [Cracking the Code: A Senior&#39;s Guide to Advanced JavaScript Interviews](https://dev.to/jackm_345442a09fb53b/cracking-the-code-a-seniors-guide-to-advanced-javascript-interviews-2mc9)
+- [Day 3 of My Quantum Computing Journey: When Physics Meets Computing Reality](https://dev.to/keshabkjha/day-3-of-my-quantum-computing-journey-when-physics-meets-computing-reality-13mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
