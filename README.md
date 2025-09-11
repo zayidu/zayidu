@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kathryngrayson/-3511)
-- [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
-- [What&#39;s New in C# 14: Null-Conditional Assignments](https://dev.to/ivankahl/whats-new-in-c-14-null-conditional-assignments-2oj4)
-- [Google Cloud Storage : Le guide du débutant pour maîtriser vos fichiers](https://dev.to/laformulenuagique/google-cloud-storage-le-guide-du-debutant-pour-maitriser-vos-fichiers-281a)
-- [The Adventures of Blink S4e2: Blink vs. The Setup Script](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e2-blink-vs-the-setup-script-46a6)
+- [LearnSphere: Transforming Every Syllabus into a Personalized Learning Journey 📚🚀✨](https://dev.to/divyasinghdev/learnsphere-transforming-every-syllabus-into-a-personalized-learning-journey-4ghp)
+- [🕷️ How I Built My First Open Source Project: Spider.css &lpar;and What I Learned&rpar;](https://dev.to/pjdeveloper896/how-i-built-my-first-open-source-project-spidercss-and-what-i-learned-1hc3)
+- [Inside the Hacker’s Playbook &lpar;Part 2&rpar;: The Advanced Stuff Nobody Talks About](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-part-2-the-advanced-stuff-nobody-talks-about-d1l)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2j9l)
+- [The Rise of the Vibe Coder &lpar;and Why It Should Make You Better, Not Bitter&rpar;](https://dev.to/duplessisvanaswegen/the-rise-of-the-vibe-coder-and-why-it-should-make-you-better-not-bitter-jeh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
