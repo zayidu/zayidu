@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Almost Got Pwned - A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong](https://dev.to/dalenguyen/how-i-almost-got-pwned-a-tale-of-supply-chain-attacks-and-github-actions-gone-wrong-56oh)
-- [Gaussian Blur](https://dev.to/ikhwanal/gaussian-blur-4nnd)
-- [🚀 Day 12 of My DevOps Journey: Ansible — Configuration Management Made Simple ⚙️](https://dev.to/dankbhardwaj/day-12-of-my-devops-journey-ansible-configuration-management-made-simple-23pe)
-- [How to Join a PC to Active Directory—My Lazy Guide](https://dev.to/fakestandard/how-to-join-a-pc-to-active-directory-my-lazy-guide-5eee)
-- [What is Shadow DOM and How It’s Used in Chrome Extensions](https://dev.to/learcise_health/what-is-shadow-dom-and-how-its-used-in-chrome-extensions-5e7e)
+- [Docker Series: Episode 21 — Docker Logging &amp; Monitoring Essentials 📊](https://dev.to/yash_sonawane25/docker-series-episode-21-docker-logging-monitoring-essentials-4f4k)
+- [Thoughts on Codecademy?](https://dev.to/crissortacodes/thoughts-on-codecademy-5d)
+- [Introducing db.nvim: Your Database Companion in Neovim](https://dev.to/praem90/introducing-dbnvim-your-database-companion-in-neovim-12lh)
+- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
+- [Hiring: Full-Stack Developer – Remote, 6+ Month Contract &lpar;$10–$15/hr&rpar;](https://dev.to/dev_vd_7144a5b0f61f5ce9de/hiring-full-stack-developer-remote-6-month-contract-10-15hr-409g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
