@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WorryBox](https://dev.to/gigaelk/worrybox-2hmp)
-- [IndexTTS2 Comprehensive Review: In-Depth Analysis of 2025&#39;s Most Powerful Emotional Speech Synthesis Model](https://dev.to/czmilo/indextts2-comprehensive-review-in-depth-analysis-of-2025s-most-powerful-emotional-speech-1m9e)
-- [How to reduce costs for Third party API hits](https://dev.to/naimulkarim/how-to-reduce-costs-for-third-party-api-hits-341b)
-- [Garbage Collection in Go: From Reference Counting to Tri-Color to Green Tea](https://dev.to/gkoos/garbage-collection-in-go-from-reference-counting-to-tri-color-to-green-tea-4f87)
-- [Hello World 👋 My First Step into Software Development](https://dev.to/irmanw/hello-world-my-first-step-into-software-development-jfd)
+- [How I Almost Got Pwned - A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong](https://dev.to/dalenguyen/how-i-almost-got-pwned-a-tale-of-supply-chain-attacks-and-github-actions-gone-wrong-56oh)
+- [Gaussian Blur](https://dev.to/ikhwanal/gaussian-blur-4nnd)
+- [🚀 Day 12 of My DevOps Journey: Ansible — Configuration Management Made Simple ⚙️](https://dev.to/dankbhardwaj/day-12-of-my-devops-journey-ansible-configuration-management-made-simple-23pe)
+- [How to Join a PC to Active Directory—My Lazy Guide](https://dev.to/fakestandard/how-to-join-a-pc-to-active-directory-my-lazy-guide-5eee)
+- [What is Shadow DOM and How It’s Used in Chrome Extensions](https://dev.to/learcise_health/what-is-shadow-dom-and-how-its-used-in-chrome-extensions-5e7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
