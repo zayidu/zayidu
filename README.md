@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/varshithvhegde/-48pg)
-- [How to deploy Spring Boot Application on Google Cloud Run using Cloud Build - ANIL LALAM](https://dev.to/anil_lalam_2cee9c52a20a39/how-to-deploy-spring-boot-application-on-google-cloud-run-using-cloud-build-anil-lalam-8lc)
-- [Is it fair to fear AI?](https://dev.to/wdp/is-it-fair-to-fear-ai-22pn)
-- [IGN: Hollow Knight: Silksong Battle Arena/Locked Room - Birds Fight &lpar;Greymoor&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-battle-arenalocked-room-birds-fight-greymoor-188o)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2d93)
+- [New Here](https://dev.to/oxygen002/new-here-4n6l)
+- [# EP 6 — Why Multi-Agent Orchestration Collapses &lpar;Deadlocks, Infinite Loops, and Memory Overwrites in AI Pipelines&rpar;](https://dev.to/onestardao/-ep-6-why-multi-agent-orchestration-collapses-deadlocks-infinite-loops-and-memory-overwrites-1e52)
+- [Implementing Security in Front-End Applications &lpar;React&rpar;](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
+- [🏢 Enterprise Design Patterns: From Fowler’s Catalog to Real Code](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-from-fowlers-catalog-to-real-code-58d8)
+- [ParaThinker: AI Breaks Through with Parallel Thought](https://dev.to/aiwithapex/parathinker-ai-breaks-through-with-parallel-thought-3hic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
