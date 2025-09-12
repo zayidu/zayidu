@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-1j92)
-- [VeoVerse Studio](https://dev.to/onirestart/veoverse-studio-ad5)
-- [[Boost]](https://dev.to/0e59dced4eac71e/-2mji)
-- [Choosing the Best Screenshot API in 2025: A Developer’s Guide](https://dev.to/mukul_sharma/choosing-the-best-screenshot-api-in-2025-a-developers-guide-79)
-- [Bug in CloudFront&#39;s Continuous Deployment Feature](https://dev.to/aws-builders/bug-in-cloudfronts-continuous-deployment-features-47ok)
+- [TestSprite Review: AI-Powered Testing Tool — Promise vs. Reality](https://dev.to/govinda_s/testsprite-review-ai-powered-testing-tool-promise-vs-reality-58k8)
+- [WebSocket vs Web Push vs Server-Sent Events: When to Use What?](https://dev.to/ayushsrtv/websocket-vs-web-push-vs-server-sent-events-when-to-use-what-3214)
+- [SSV Network — Distributed Validator Technology for Ethereum Staking](https://dev.to/kevin_zhang_3828fe216a384/ssv-network-distributed-validator-technology-for-ethereum-staking-56me)
+- [🐞 Troubleshooting 16 KB Page Size Issues](https://dev.to/dainyjose/troubleshooting-16-kb-page-size-issues-2pfe)
+- [Check out this Article on Propensity Score Matching in R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-propensity-score-matching-in-r-2025-edition-2a3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
