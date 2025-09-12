@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
-- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
-- [IGN: Borderlands 4 - Official &#39;Claptrap Needs Friends&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-claptrap-needs-friends-trailer-306d)
-- [Create a sample resume and Push to GitHub Pages.](https://dev.to/onyemuche/create-a-sample-resume-and-push-to-github-pages-3l2h)
-- [Veri v0.4.0 – Multi-Tenancy Update for the Rails Authentication Gem](https://dev.to/njk42/veri-v040-multi-tenancy-update-for-the-rails-authentication-gem-3nb2)
+- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
+- [Shout out to those who come into my life along the way and make me the most brilliant gem puji diri sendiri wpon cheater genius](https://dev.to/cutieyunnytech/shout-out-to-those-who-come-into-my-life-along-the-way-and-make-me-the-most-brilliant-gem-puji-diri-4j44)
+- [Title: Breaking the Norm: “Rojakness of Nadhirah” – My Indie Dev Journey](https://dev.to/cutieyunnytech/title-breaking-the-norm-rojakness-of-nadhirah-my-indie-dev-journey-6jk)
+- [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
+- [Something against norm](https://dev.to/cutieyunnytech/something-against-norm-3pl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
