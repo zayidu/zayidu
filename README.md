@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
-- [Creating a market-viable app in less than Week](https://dev.to/brian_mk/creating-a-market-viable-app-in-less-than-week-gc7)
-- [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
-- [Forging Data Symphonies: The Art of the ETL Pipeline in Rails](https://dev.to/alex_aslam/forging-data-symphonies-the-art-of-the-etl-pipeline-in-rails-5bno)
-- [Filtering and Searching Transactions](https://dev.to/hermitcommitscode/filtering-and-searching-transactions-2eaf)
+- [WorryBox](https://dev.to/gigaelk/worrybox-2hmp)
+- [IndexTTS2 Comprehensive Review: In-Depth Analysis of 2025&#39;s Most Powerful Emotional Speech Synthesis Model](https://dev.to/czmilo/indextts2-comprehensive-review-in-depth-analysis-of-2025s-most-powerful-emotional-speech-1m9e)
+- [How to reduce costs for Third party API hits](https://dev.to/naimulkarim/how-to-reduce-costs-for-third-party-api-hits-341b)
+- [Garbage Collection in Go: From Reference Counting to Tri-Color to Green Tea](https://dev.to/gkoos/garbage-collection-in-go-from-reference-counting-to-tri-color-to-green-tea-4f87)
+- [Hello World 👋 My First Step into Software Development](https://dev.to/irmanw/hello-world-my-first-step-into-software-development-jfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
