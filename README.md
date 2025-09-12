@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Dev Fascination](https://dev.to/renuo/small-dev-fascination-303d)
-- [[For Beginners] Quickly Fix Jest Crashing with import.meta in Vite+React+TypeScript &lpar;Supabase Compatible&rpar;](https://dev.to/kazutora_hattori_66972c88/for-beginners-quickly-fix-jest-crashing-with-importmeta-in-vitereacttypescript-supabase-4b0g)
-- [MVC vs MVVM: what&#39;s the difference? &lpar;C# example&rpar;](https://dev.to/dimension-zero/mvc-vs-mvvm-whats-the-difference-c-example-45ah)
-- [⚡ DMG – Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/dmg-round-1-javascript-knd)
-- [I interviewed for 6 random jobs before the one I really wanted. Here’s what I did wrong.](https://dev.to/fahimulhaq/i-interviewed-for-6-random-jobs-before-the-one-i-really-wanted-heres-what-i-did-wrong-hn1)
+- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-1j92)
+- [VeoVerse Studio](https://dev.to/onirestart/veoverse-studio-ad5)
+- [[Boost]](https://dev.to/0e59dced4eac71e/-2mji)
+- [Choosing the Best Screenshot API in 2025: A Developer’s Guide](https://dev.to/mukul_sharma/choosing-the-best-screenshot-api-in-2025-a-developers-guide-79)
+- [Bug in CloudFront&#39;s Continuous Deployment Feature](https://dev.to/aws-builders/bug-in-cloudfronts-continuous-deployment-features-47ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
