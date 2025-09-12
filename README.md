@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
-- [Unlocking Crypto Market Insights: A Practical Guide to Building Real-time Trading Signals with the LunarCrush API SDK](https://dev.to/dbatson/unlocking-crypto-market-insights-a-practical-guide-to-building-real-time-trading-signals-with-the-1bm1)
-- [Portfolio + Booking: The Freelancer’s Secret to Steady Income](https://dev.to/kamruljpi/portfolio-booking-the-freelancers-secret-to-steady-income-3e4l)
-- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
-- [GameSpot: Donkey Kong Bananza - DK Island and Emerald Rush Launch Trailer](https://dev.to/gg_news/gamespot-donkey-kong-bananza-dk-island-and-emerald-rush-launch-trailer-1lc4)
+- [I wish we could use a filter on job boards: &quot;companies that use Gather Town&quot; 😪](https://dev.to/ferdaousbouzaiene/i-wish-we-could-use-a-filter-on-job-boards-companies-that-use-gather-town-1f91)
+- [# Master Node.js Stream Types in 10 Minutes](https://dev.to/sudiip__17/-master-nodejs-stream-types-in-10-minutes-4ef1)
+- [# Why Node.js Streams Will Save Your Server&#39;s Memory](https://dev.to/sudiip__17/-why-nodejs-streams-will-save-your-servers-memory-4ced)
+- [Informative](https://dev.to/mingzhao/informative-392p)
+- [Note de présentation du projet : L&#39;imagination en action](https://dev.to/khadidja_bounadja_21df7d2/note-de-presentation-du-projet-limagination-en-action-4hek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
