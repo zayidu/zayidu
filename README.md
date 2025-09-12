@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Avoid Becoming Dependent on One Model](https://dev.to/leena_malhotra/how-to-avoid-becoming-dependent-on-one-model-68j)
-- [Unlocking Team Superpowers: The Secret Language of Spatial Harmony by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-team-superpowers-the-secret-language-of-spatial-harmony-by-arvind-sundararajan-540a)
-- [JuiceFS Writeback: The Write Acceleration Mechanism and Its Applicable Scenarios](https://dev.to/daswu/juicefs-writeback-the-write-acceleration-mechanism-and-its-applicable-scenarios-4787)
-- [❌ Stop Using Kubernetes for Simple Apps](https://dev.to/abdelghani_alhijawi_499197ca/stop-using-kubernetes-for-simple-apps-2if3)
-- [Why Data Partitioning Is Harder Than It Looks](https://dev.to/dct_technology/why-data-partitioning-is-harder-than-it-looks-4hc9)
+- [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
+- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
+- [Traceroute Command: Diagnose Network Issues Fast](https://dev.to/serveravatar/traceroute-command-diagnose-network-issues-fast-1kcn)
+- [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
+- [Lessons &amp; Practices for Building and Optimizing Multi-Agent RAG Systems with DSPy and GEPA](https://dev.to/sky_yv_11b3d5d44877d27276/lessons-practices-for-building-and-optimizing-multi-agent-rag-systems-with-dspy-and-gepa-2lh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
