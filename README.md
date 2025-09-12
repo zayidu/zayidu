@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 4](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-4-481f)
-- [Enabling Dynamics 365 Outlook App](https://dev.to/nikhildynamicsce/enabling-dynamics-365-outlook-app-5cpl)
-- [Best Workouts for Developers Who Sit All Day](https://dev.to/alexahayes/best-workouts-for-developers-who-sit-all-day-20jm)
-- [Ruby Argentina September Meetup](https://dev.to/sinaptia_dev/ruby-argentina-september-meetup-3fg)
-- [From Rules to Router: Teaching AI Your Language, Not Laws](https://dev.to/yemreak/from-rules-to-router-teaching-ai-your-language-not-laws-5cj2)
+- [From SQL to Python: Uniting Stored Power with Functional Flexibility](https://dev.to/loi2008/from-sql-to-python-uniting-stored-power-with-functional-flexibility-icf)
+- [James Forrest Blog: Lessons From a Life Spent Climbing Higher](https://dev.to/blogsmagazine/james-forrest-blog-lessons-from-a-life-spent-climbing-higher-509c)
+- [Toggle This: Feature Flags in Angular](https://dev.to/mthobis41586080/toggle-this-feature-flags-in-angular-34jj)
+- [No Laying Up Podcast: Seamsters Union - Heading for Home | Trap Draw, Ep 358](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-heading-for-home-trap-draw-ep-358-508c)
+- [Bryan Bros Golf: Golf Match w/ Linkin Park!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-w-linkin-park-2kgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
