@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250912: Issues with Azure DevOp](https://dev.to/nfc-charles/devlog-20250912-issues-with-azure-devop-1eam)
-- [Web Design and Development Chicago – Experts Web Designs](https://dev.to/experts_webdesigns_06080/web-design-and-development-chicago-experts-web-designs-4l1m)
-- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
-- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
-- [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
+- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
+- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
+- [IGN: Borderlands 4 - Official &#39;Claptrap Needs Friends&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-claptrap-needs-friends-trailer-306d)
+- [Create a sample resume and Push to GitHub Pages.](https://dev.to/onyemuche/create-a-sample-resume-and-push-to-github-pages-3l2h)
+- [Veri v0.4.0 – Multi-Tenancy Update for the Rails Authentication Gem](https://dev.to/njk42/veri-v040-multi-tenancy-update-for-the-rails-authentication-gem-3nb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
