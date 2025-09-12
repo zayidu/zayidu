@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: Is SINNERS a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-1n95)
-- [IGN: One Piece: Pirate Warriors 4 - Official Next Gen Update Trailer | Nintendo Direct](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-next-gen-update-trailer-nintendo-direct-2fab)
-- [IGN: Nintendo Switch 2 Enhanced Games Montage - EA FC 26, Persona 3 Reload, and More! | Nintendo Direct](https://dev.to/gg_news/ign-nintendo-switch-2-enhanced-games-montage-ea-fc-26-persona-3-reload-and-more-nintendo-2h1h)
-- [IGN: Everything Announced at the Nintendo Direct &lpar;September 2025&rpar;](https://dev.to/gg_news/ign-everything-announced-at-the-nintendo-direct-september-2025-47pa)
-- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-trailer-2-2025-elizabeth-olsen-paul-rudd-3emc)
+- [DevLog 20250912: Issues with Azure DevOp](https://dev.to/nfc-charles/devlog-20250912-issues-with-azure-devop-1eam)
+- [Web Design and Development Chicago – Experts Web Designs](https://dev.to/experts_webdesigns_06080/web-design-and-development-chicago-experts-web-designs-4l1m)
+- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
+- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
+- [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
