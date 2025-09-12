@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
-- [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
-- [Noclip: Announcing /noclip&#39;s Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2)
-- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9)
-- [GameSpot: Every Announcement from the Nintendo Direct September 2025](https://dev.to/gg_news/gamespot-every-announcement-from-the-nintendo-direct-september-2025-mhi)
+- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
+- [Extension Members: My New Favourite Feature in C# 14](https://dev.to/grantdotdev/extension-members-my-new-favourite-feature-in-c-14-23f1)
+- [Learn Bash Scripting With Me 🚀 - Day 3](https://dev.to/babsarena/learn-bash-scripting-with-me-day-3-4kib)
+- [🔄 LIFO in Java](https://dev.to/mohamad_mhana/lifo-in-java-1mkf)
+- [Building a Mobile App with Ionic, Vue, and Clerk](https://dev.to/aaronksaunders/building-a-mobile-app-with-ionic-vue-and-clerk-1dkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
