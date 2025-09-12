@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Here](https://dev.to/oxygen002/new-here-4n6l)
-- [# EP 6 — Why Multi-Agent Orchestration Collapses &lpar;Deadlocks, Infinite Loops, and Memory Overwrites in AI Pipelines&rpar;](https://dev.to/onestardao/-ep-6-why-multi-agent-orchestration-collapses-deadlocks-infinite-loops-and-memory-overwrites-1e52)
-- [Implementing Security in Front-End Applications &lpar;React&rpar;](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
-- [🏢 Enterprise Design Patterns: From Fowler’s Catalog to Real Code](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-from-fowlers-catalog-to-real-code-58d8)
-- [ParaThinker: AI Breaks Through with Parallel Thought](https://dev.to/aiwithapex/parathinker-ai-breaks-through-with-parallel-thought-3hic)
+- [How to Avoid Becoming Dependent on One Model](https://dev.to/leena_malhotra/how-to-avoid-becoming-dependent-on-one-model-68j)
+- [Unlocking Team Superpowers: The Secret Language of Spatial Harmony by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-team-superpowers-the-secret-language-of-spatial-harmony-by-arvind-sundararajan-540a)
+- [JuiceFS Writeback: The Write Acceleration Mechanism and Its Applicable Scenarios](https://dev.to/daswu/juicefs-writeback-the-write-acceleration-mechanism-and-its-applicable-scenarios-4787)
+- [❌ Stop Using Kubernetes for Simple Apps](https://dev.to/abdelghani_alhijawi_499197ca/stop-using-kubernetes-for-simple-apps-2if3)
+- [Why Data Partitioning Is Harder Than It Looks](https://dev.to/dct_technology/why-data-partitioning-is-harder-than-it-looks-4hc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
