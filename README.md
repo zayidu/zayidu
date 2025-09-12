@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TestSprite Review: AI-Powered Testing Tool — Promise vs. Reality](https://dev.to/govinda_s/testsprite-review-ai-powered-testing-tool-promise-vs-reality-58k8)
-- [WebSocket vs Web Push vs Server-Sent Events: When to Use What?](https://dev.to/ayushsrtv/websocket-vs-web-push-vs-server-sent-events-when-to-use-what-3214)
-- [SSV Network — Distributed Validator Technology for Ethereum Staking](https://dev.to/kevin_zhang_3828fe216a384/ssv-network-distributed-validator-technology-for-ethereum-staking-56me)
-- [🐞 Troubleshooting 16 KB Page Size Issues](https://dev.to/dainyjose/troubleshooting-16-kb-page-size-issues-2pfe)
-- [Check out this Article on Propensity Score Matching in R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-propensity-score-matching-in-r-2025-edition-2a3i)
+- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
+- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
+- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
+- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
+- [EdgeBERT: I Built My Own Neural Network Inference Engine in Rust](https://dev.to/olafur_aron/edgebert-i-built-my-own-neural-network-inference-engine-in-rust-3l29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
