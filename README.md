@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
-- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
-- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
-- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
-- [EdgeBERT: I Built My Own Neural Network Inference Engine in Rust](https://dev.to/olafur_aron/edgebert-i-built-my-own-neural-network-inference-engine-in-rust-3l29)
+- [Web Developer Travis McCracken on Fast File Upload APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-file-upload-apis-with-go-2a9i)
+- [Pi-hole v6: How to actually set a password and login properly?](https://dev.to/yoshi_homelab/pi-hole-v6-how-to-actually-set-a-password-and-login-properly-n9k)
+- [KEXP: Japanese Breakfast - My Baby &lpar;Got Nothing At All&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3)
+- [KEXP: Japanese Breakfast - Honey Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d)
+- [KEXP: Japanese Breakfast - Picture Window &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
