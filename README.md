@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
-- [Extension Members: My New Favourite Feature in C# 14](https://dev.to/grantdotdev/extension-members-my-new-favourite-feature-in-c-14-23f1)
-- [Learn Bash Scripting With Me 🚀 - Day 3](https://dev.to/babsarena/learn-bash-scripting-with-me-day-3-4kib)
-- [🔄 LIFO in Java](https://dev.to/mohamad_mhana/lifo-in-java-1mkf)
-- [Building a Mobile App with Ionic, Vue, and Clerk](https://dev.to/aaronksaunders/building-a-mobile-app-with-ionic-vue-and-clerk-1dkl)
+- [Polyphonic: Is SINNERS a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-1n95)
+- [IGN: One Piece: Pirate Warriors 4 - Official Next Gen Update Trailer | Nintendo Direct](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-next-gen-update-trailer-nintendo-direct-2fab)
+- [IGN: Nintendo Switch 2 Enhanced Games Montage - EA FC 26, Persona 3 Reload, and More! | Nintendo Direct](https://dev.to/gg_news/ign-nintendo-switch-2-enhanced-games-montage-ea-fc-26-persona-3-reload-and-more-nintendo-2h1h)
+- [IGN: Everything Announced at the Nintendo Direct &lpar;September 2025&rpar;](https://dev.to/gg_news/ign-everything-announced-at-the-nintendo-direct-september-2025-47pa)
+- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-trailer-2-2025-elizabeth-olsen-paul-rudd-3emc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
