@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
-- [Project of the Week: Chainguard](https://dev.to/pullflow/project-of-the-week-chainguard-37cm)
-- [Struggling to Connect with Developers? Copywriting Can Transform Your Results Today! &lpar;with Practical Examples&rpar;](https://dev.to/werliton/struggling-to-connect-with-developers-copywriting-can-transform-your-results-today-with-4a3)
-- [Forward Networks - Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/forward-networks-round-1-javascript-310k)
-- [Securing AWS IAM Groups and RDS Permissions: Step-by-Step Policy Guide](https://dev.to/darko_kostovski_2744e790a/securing-aws-iam-groups-and-rds-permissions-step-by-step-policy-guide-hfg)
+- [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
+- [Unlocking Crypto Market Insights: A Practical Guide to Building Real-time Trading Signals with the LunarCrush API SDK](https://dev.to/dbatson/unlocking-crypto-market-insights-a-practical-guide-to-building-real-time-trading-signals-with-the-1bm1)
+- [Portfolio + Booking: The Freelancer’s Secret to Steady Income](https://dev.to/kamruljpi/portfolio-booking-the-freelancers-secret-to-steady-income-3e4l)
+- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
+- [GameSpot: Donkey Kong Bananza - DK Island and Emerald Rush Launch Trailer](https://dev.to/gg_news/gamespot-donkey-kong-bananza-dk-island-and-emerald-rush-launch-trailer-1lc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
