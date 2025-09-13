@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
-- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
-- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
-- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
-- [Mastering Svelte Custom Stores](https://dev.to/a1guy/mastering-svelte-custom-stores-5c1g)
+- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
+- [Proving God with JavaScript? A React &amp; TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m)
+- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd)
+- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6)
+- [Async Web Scraping with scrapy_cffi](https://dev.to/strange_funny_ca3065432c5/async-web-scraping-with-scrapycffi-1em3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
