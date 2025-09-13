@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no tex](https://dev.to/om_prakashprajapat_0d92f/using-the-nano-banana-model-create-a-17-scale-commercialized-figurine-of-the-characters-in-the-2agp)
-- [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
-- [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
-- [🚀 Day 13 of My DevOps Journey: Jenkins — Powering CI/CD Pipelines ⚙️](https://dev.to/dankbhardwaj/day-13-of-my-devops-journey-jenkins-powering-cicd-pipelines-1icc)
-- [Building Contextr: A CLI Tool to Package Repository Context for LLMs](https://dev.to/dharam_ghevariya_0d946c37/building-contextr-a-cli-tool-to-package-repository-context-for-llms-j9g)
+- [Polyphonic: Is &quot;Sinners&quot; a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-5a5a)
+- [IGN: Hollow Knight: Silksong Boss Fight - Last Judge &lpar;Blasted Steps&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-last-judge-blasted-steps-4p6i)
+- [IGN: Malevilent - Official Cinematic Reveal Trailer](https://dev.to/gg_news/ign-malevilent-official-cinematic-reveal-trailer-1kl9)
+- [IGN: NLH 26 Review](https://dev.to/gg_news/ign-nlh-26-review-3aob)
+- [IGN: Donkey Kong Bananza: DK Island The First 30 Minutes](https://dev.to/gg_news/ign-donkey-kong-bananza-dk-island-the-first-30-minutes-291d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
