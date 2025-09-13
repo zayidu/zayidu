@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka - Uber-Style Trip Event Pipeline Example](https://dev.to/zeeshanali0704/kafka-uber-style-trip-event-pipeline-4kc2)
-- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
-- [How I Send SMS From My React App Using My Own Phone and SIM Card](https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p)
-- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
-- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
+- [Danny Maude: To Hit Driver Straight Always Do This Before Every Swing](https://dev.to/youtube_golf/danny-maude-to-hit-driver-straight-always-do-this-before-every-swing-265i)
+- [IGN: Is Xbox Game Pass Hurting Developers? - Unlocked Clips](https://dev.to/gg_news/ign-is-xbox-game-pass-hurting-developers-unlocked-clips-17cm)
+- [IGN: The Biggest Games Still to Come in 2025 - Fall Update Edition](https://dev.to/gg_news/ign-the-biggest-games-still-to-come-in-2025-fall-update-edition-28d5)
+- [CI/CD Setup for Node.js on Shared Hosting &lpar;cPanel&rpar;](https://dev.to/msnmongare/cicd-setup-for-nodejs-on-shared-hosting-cpanel-551j)
+- [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
