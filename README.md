@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
-- [Oracle Performance Views](https://dev.to/mrcaption49/oracle-performance-views-45ed)
-- [Building an Interactive Counter with Kotlin &amp; Jetpack Compose: Animations, State Management &amp; UX Excellence](https://dev.to/blamsa0mine/building-an-interactive-counter-with-kotlin-jetpack-compose-animations-state-management-ux-1kjb)
-- [AI First Aid Assistant](https://dev.to/rogerio_lima_72d949a1fe47/ai-first-aid-assistant-18gd)
-- [Virtual Studio AI: The End of the Photoshoot](https://dev.to/naresh1511/virtual-studio-ai-the-end-of-the-photoshoot-1l3i)
+- [Learn Bash Scripting With Me 🚀 - Day 4](https://dev.to/babsarena/learn-bash-scripting-with-me-day-4-fo7)
+- [Why I&#39;m Starting to Share My Developer Journey](https://dev.to/navidreza80/why-im-starting-to-share-my-developer-journey-3lah)
+- [MCP Servers Made Simple: Why Model Context Protocol Matters for AI](https://dev.to/snehalkadwe/mcp-servers-made-simple-why-model-context-protocol-matters-for-ai-1ppf)
+- [🚀 Gemini 2.5 “Nano Banana 🍌 ”: Ultra-Light Linux Image for Banana Pi M2 Zero &amp; NanoPi Neo Air](https://dev.to/hemant_007/gemini-25-nano-banana-ultra-light-linux-image-for-banana-pi-m2-zero-nanopi-neo-air-4bj2)
+- [Creating and Publishing Your First NPM Package 📦](https://dev.to/raksbisht/creating-and-publishing-your-first-npm-package-27ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
