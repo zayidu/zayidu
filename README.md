@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
-- [Proving God with JavaScript? A React &amp; TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m)
-- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd)
-- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6)
-- [Async Web Scraping with scrapy_cffi](https://dev.to/strange_funny_ca3065432c5/async-web-scraping-with-scrapycffi-1em3)
+- [Building Rock-Solid Express.js Middleware: A Guide That Actually Works in Production](https://dev.to/sisproid/building-rock-solid-expressjs-middleware-a-guide-that-actually-works-in-production-25oh)
+- [Country Flags Widget](https://dev.to/joel_streich_646bdeadb455/country-flags-widget-23e)
+- [USA’s Leading Laravel Development Companies You Can Trust](https://dev.to/zubairpateljiwala/usas-leading-laravel-development-companies-you-can-trust-558h)
+- [Day 4/365 Days of Full Stack Challenge: Bringing Your Page to Life - Inserting Images in HTML](https://dev.to/code_2/day-4365-days-of-full-stack-challenge-bringing-your-page-to-life-inserting-images-in-html-1j3p)
+- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
