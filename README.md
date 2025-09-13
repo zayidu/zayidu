@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [pgdbtemplate – fast PostgreSQL test databases in Go using templates](https://dev.to/andrei-polukhin/pgdbtemplate-fast-postgresql-test-databases-in-go-using-templates-138n)
-- [Day 35 of My Data Analytics Journey !](https://dev.to/ramyacse/day-35-of-my-data-analytics-journey--32mm)
-- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501)
-- [🚀 Day 14 of My Python Learning Journey](https://dev.to/_adii3107/day-14-of-my-python-learning-journey-50nh)
-- [Hands-On Exploitation with Metasploitable2: From Scanning to Mitigation](https://dev.to/seifeldienahmad/hands-on-exploitation-with-metasploitable2-from-scanning-to-mitigation-2h5k)
+- [Kafka - Uber-Style Trip Event Pipeline Example](https://dev.to/zeeshanali0704/kafka-uber-style-trip-event-pipeline-4kc2)
+- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
+- [How I Send SMS From My React App Using My Own Phone and SIM Card](https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p)
+- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
+- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
