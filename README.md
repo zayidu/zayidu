@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Rock-Solid Express.js Middleware: A Guide That Actually Works in Production](https://dev.to/sisproid/building-rock-solid-expressjs-middleware-a-guide-that-actually-works-in-production-25oh)
-- [Country Flags Widget](https://dev.to/joel_streich_646bdeadb455/country-flags-widget-23e)
-- [USA’s Leading Laravel Development Companies You Can Trust](https://dev.to/zubairpateljiwala/usas-leading-laravel-development-companies-you-can-trust-558h)
-- [Day 4/365 Days of Full Stack Challenge: Bringing Your Page to Life - Inserting Images in HTML](https://dev.to/code_2/day-4365-days-of-full-stack-challenge-bringing-your-page-to-life-inserting-images-in-html-1j3p)
-- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
+- [Did you know your database schema might be leaking through error messages and stack traces?](https://dev.to/amirsaeed_skomjani/did-you-know-your-database-schema-might-be-leaking-through-error-messages-and-stack-traces-2pe0)
+- [Blog 4](https://dev.to/riva_gada_328cee0b2ec207c/blog-4-16gg)
+- [Mecha Morph Gundam Genesis](https://dev.to/aniruddhaadak/mecha-morph-gundam-genesis-3h0f)
+- [Release 0.1 - Go?](https://dev.to/andersontsai/release-01-go-1ijj)
+- [The Top Benefits of Using Cross Dex for Multi-Chain Traders](https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
