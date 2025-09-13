@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Did you know your database schema might be leaking through error messages and stack traces?](https://dev.to/amirsaeed_skomjani/did-you-know-your-database-schema-might-be-leaking-through-error-messages-and-stack-traces-2pe0)
-- [Blog 4](https://dev.to/riva_gada_328cee0b2ec207c/blog-4-16gg)
-- [Mecha Morph Gundam Genesis](https://dev.to/aniruddhaadak/mecha-morph-gundam-genesis-3h0f)
-- [Release 0.1 - Go?](https://dev.to/andersontsai/release-01-go-1ijj)
-- [The Top Benefits of Using Cross Dex for Multi-Chain Traders](https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm)
+- [Developer Tooling #006](https://dev.to/patinthehat/developer-tooling-006-4g55)
+- [วิธีแก้ git conflict เบื้องต้นใน Virtual Studio Code](https://dev.to/teampat/withiiaek-git-conflict-ebuuengtnain-vs-code-3325)
+- [AI Assistants and Data Privacy: Who Trains on Your Data, Who Doesn’t](https://dev.to/alifar/ai-assistants-and-data-privacy-who-trains-on-your-data-who-doesnt-njj)
+- [Introducing db2lake: A Lightweight and Powerful ETL Framework for Node.js](https://dev.to/bahador_r/introducing-db2lake-a-lightweight-and-powerful-etl-framework-for-nodejs-12b6)
+- [Оптимизация конверсии SMB: как AI и автоматизация меняют правила игры для малого бизнеса](https://dev.to/cambocom/optimizatsiia-konviersii-smb-kak-ai-i-avtomatizatsiia-mieniaiut-pravila-ighry-dlia-malogho-bizniesa-1e25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
