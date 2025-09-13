@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Bash Scripting With Me 🚀 - Day 4](https://dev.to/babsarena/learn-bash-scripting-with-me-day-4-fo7)
-- [Why I&#39;m Starting to Share My Developer Journey](https://dev.to/navidreza80/why-im-starting-to-share-my-developer-journey-3lah)
-- [MCP Servers Made Simple: Why Model Context Protocol Matters for AI](https://dev.to/snehalkadwe/mcp-servers-made-simple-why-model-context-protocol-matters-for-ai-1ppf)
-- [🚀 Gemini 2.5 “Nano Banana 🍌 ”: Ultra-Light Linux Image for Banana Pi M2 Zero &amp; NanoPi Neo Air](https://dev.to/hemant_007/gemini-25-nano-banana-ultra-light-linux-image-for-banana-pi-m2-zero-nanopi-neo-air-4bj2)
-- [Creating and Publishing Your First NPM Package 📦](https://dev.to/raksbisht/creating-and-publishing-your-first-npm-package-27ih)
+- [The Shadow Empire: How Haowang Guarantee Became Telegram&#39;s $27 Billion Scam Superhub](https://dev.to/dhis_is_jj/the-shadow-empire-how-haowang-guarantee-became-telegrams-27-billion-scam-superhub-3a86)
+- [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8)
+- [How to Add GitHub Secrets Easily &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-add-github-secrets-easily-step-by-step-guide-3cmh)
+- [NutriLens AI: Personalized Nutrition Analyzer Using Gemini&#39;s Multimodal Magic 🍎✨](https://dev.to/anish_deokate_c6d085d7da3/nutrilens-ai-personalized-nutrition-analyzer-using-geminis-multimodal-magic-published-true-43i)
+- [Missing Reports in Nightwatch with GGR + Selenoid](https://dev.to/will_drygla/missing-reports-in-nightwatch-with-ggr-selenoid-378)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
