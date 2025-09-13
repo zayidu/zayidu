@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS [Week-4]](https://dev.to/suvrajeet/aws-week-4-15h0)
-- [FastAPI, Furious Tests: The Need for Speed](https://dev.to/polakshahar/fastapi-furious-tests-the-need-for-speed-11oi)
-- [🚀 Building &amp; Running Multiple Services with Docker Compose](https://dev.to/devcorner/building-running-multiple-services-with-docker-compose-59ba)
-- [Unlock Lightning-Fast Voice AI: Rethinking Neural Network Hardware](https://dev.to/pannalabs/unlock-lightning-fast-voice-ai-rethinking-neural-network-hardware-1e77)
-- [Driftless makes apps “offline-first” without painful boilerplate](https://dev.to/learneradarsh/driftless-makes-apps-offline-first-without-painful-boilerplate-2l5p)
+- [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
+- [Oracle Performance Views](https://dev.to/mrcaption49/oracle-performance-views-45ed)
+- [Building an Interactive Counter with Kotlin &amp; Jetpack Compose: Animations, State Management &amp; UX Excellence](https://dev.to/blamsa0mine/building-an-interactive-counter-with-kotlin-jetpack-compose-animations-state-management-ux-1kjb)
+- [AI First Aid Assistant](https://dev.to/rogerio_lima_72d949a1fe47/ai-first-aid-assistant-18gd)
+- [Virtual Studio AI: The End of the Photoshoot](https://dev.to/naresh1511/virtual-studio-ai-the-end-of-the-photoshoot-1l3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
