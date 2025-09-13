@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shadow Empire: How Haowang Guarantee Became Telegram&#39;s $27 Billion Scam Superhub](https://dev.to/dhis_is_jj/the-shadow-empire-how-haowang-guarantee-became-telegrams-27-billion-scam-superhub-3a86)
-- [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8)
-- [How to Add GitHub Secrets Easily &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-add-github-secrets-easily-step-by-step-guide-3cmh)
-- [NutriLens AI: Personalized Nutrition Analyzer Using Gemini&#39;s Multimodal Magic 🍎✨](https://dev.to/anish_deokate_c6d085d7da3/nutrilens-ai-personalized-nutrition-analyzer-using-geminis-multimodal-magic-published-true-43i)
-- [Missing Reports in Nightwatch with GGR + Selenoid](https://dev.to/will_drygla/missing-reports-in-nightwatch-with-ggr-selenoid-378)
+- [Exploring Gemini 2.5 Flash Lite: A Fast and Affordable AI Model for Developers](https://dev.to/rijultp/exploring-gemini-25-flash-lite-a-fast-and-affordable-ai-model-for-developers-282h)
+- [The Game Theorists: Game Theory: The Internet is DEAD…](https://dev.to/gg_news/the-game-theorists-game-theory-the-internet-is-dead-196c)
+- [GameSpot: Borderlands 4 and the Art of Playing It Safe](https://dev.to/gg_news/gamespot-borderlands-4-and-the-art-of-playing-it-safe-49pe)
+- [GameSpot: Dying Light: The Beast Everything To Know](https://dev.to/gg_news/gamespot-dying-light-the-beast-everything-to-know-35n0)
+- [IGN: NHL 26 Review](https://dev.to/gg_news/ign-nhl-26-review-1ll9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
