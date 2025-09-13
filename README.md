@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiro: the good, bad and ugly part in my personal experience](https://dev.to/fikuri/kiro-the-good-bad-and-ugly-part-in-my-personal-experience-1neh)
-- [Tired of Generic Visuals? 5 AI Tools Everybody Should Be Using Today](https://dev.to/werliton/tired-of-generic-visuals-5-ai-tools-everybody-should-be-using-today-4c9m)
-- [Card Beam Animation](https://dev.to/ist-github/card-beam-animation-4lpo)
-- [&lpar;4/4&rpar; LLM: In-Context Learning, Hype, and the Road Ahead](https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229)
-- [🧪 LiteWorkspace: Minimal Context Loading for Faster Spring Tests](https://dev.to/our16/liteworkspace-minimal-context-loading-for-faster-spring-tests-4ad1)
+- [AWS [Week-4]](https://dev.to/suvrajeet/aws-week-4-15h0)
+- [FastAPI, Furious Tests: The Need for Speed](https://dev.to/polakshahar/fastapi-furious-tests-the-need-for-speed-11oi)
+- [🚀 Building &amp; Running Multiple Services with Docker Compose](https://dev.to/devcorner/building-running-multiple-services-with-docker-compose-59ba)
+- [Unlock Lightning-Fast Voice AI: Rethinking Neural Network Hardware](https://dev.to/pannalabs/unlock-lightning-fast-voice-ai-rethinking-neural-network-hardware-1e77)
+- [Driftless makes apps “offline-first” without painful boilerplate](https://dev.to/learneradarsh/driftless-makes-apps-offline-first-without-painful-boilerplate-2l5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
