@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16)
-- [How to Evaluate ROI on AI Tools Before You Buy](https://dev.to/kapusto/how-to-evaluate-roi-on-ai-tools-before-you-buy-1if1)
-- [💡 Ideias de SaaS Baseadas nas Tendências: vasco, volta redonda x criciúma, nelson wilians](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-vasco-volta-redonda-x-criciuma-nelson-wilians-1jpi)
-- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a)
-- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54)
+- [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
+- [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
+- [🚀 Day 13 of My DevOps Journey: Jenkins — Powering CI/CD Pipelines ⚙️](https://dev.to/dankbhardwaj/day-13-of-my-devops-journey-jenkins-powering-cicd-pipelines-1icc)
+- [Building Contextr: A CLI Tool to Package Repository Context for LLMs](https://dev.to/dharam_ghevariya_0d946c37/building-contextr-a-cli-tool-to-package-repository-context-for-llms-j9g)
+- [I wish every young businessperson could learn this...](https://dev.to/jaideepparashar/i-wish-every-young-businessperson-could-learn-this-21f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
