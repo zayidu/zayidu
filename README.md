@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Vector Digitizing vs. Raster Graphics: Why Quality Matters in Embroidery](https://dev.to/solution_punch_7577c3f491/-vector-digitizing-vs-raster-graphics-why-quality-matters-in-embroidery-22m0)
-- [AI Test Case Generator](https://dev.to/tructran1911/ai-test-case-generator-1ddp)
-- [AI Itasha Studio](https://dev.to/aniruddhaadak/ai-itasha-studio-p7i)
-- [Nitro Enclaves: Your Cloud&#39;s Ultimate Digital Clean Room](https://dev.to/leonardkachi/nitro-enclaves-your-clouds-ultimate-digital-clean-room-34gd)
-- [10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes](https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795)
+- [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
+- [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
+- [Handle WebDAV as JSON: A One-File Self-Hosted API WebDAVJSON &lpar;PHP/Node.js&rpar;](https://dev.to/uber_95d81a06792ac5/handle-webdav-as-json-a-one-file-self-hosted-api-webdavjson-phpnodejs-19do)
+- [MeridianDB Architecting for Scale and Developer Experience](https://dev.to/araldhafeeri/meridiandb-architecting-for-scale-29go)
+- [Crystal Vision AI](https://dev.to/arunavmaitra/crystal-vision-ai-50hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
