@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My 3-Day Hackathon Journey: Building a CI/CD Pipeline from Scratch](https://dev.to/hasan_ashab/my-3-day-hackathon-journey-building-a-cicd-pipeline-from-scratch-4ifp)
-- [Kubernetes cluster marathon!](https://dev.to/robert_scott_339c35174a4d/kubernetes-cluster-marathon-2m70)
-- [Part-53: 🚀Google Cloud VPC Firewall Rules with Target as Service Account](https://dev.to/latchudevops/part-53-google-cloud-vpc-firewall-rules-with-target-as-service-account-4eke)
-- [Concurrency is a pattern, not execution.](https://dev.to/lbvf50mobile/concurrency-is-a-pattern-not-execution-5b7e)
-- [Baidu Unveils ERNIE-4.5-21B: A Compact AI Model Built for Deep Reasoning](https://dev.to/aiwithapex/baidu-unveils-ernie-45-21b-a-compact-ai-model-built-for-deep-reasoning-3kan)
+- [Best UI Animation Libraries &amp; Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f)
+- [Referenceable: Generate Unique Laravel Model References the](https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n)
+- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg)
+- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55)
+- [Git &amp; GitHub: Theoretical concepts](https://dev.to/tapobanray/git-github-theoretical-concepts-3974)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
