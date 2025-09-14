@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7)
-- [Why You Need to Know How a Database Works Internally?](https://dev.to/deepak_negi_f1d64e7393000/why-you-need-to-know-how-a-database-works-internally-5g6a)
-- [Learning Scala with chess #1 - Color and coordinates](https://dev.to/kaiba78987_4/learning-scala-with-chess-1-color-and-coordinates-gdj)
-- [Introducing Clprolf: a New Programming Language for Clear OOP](https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk)
-- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
+- [UiPath vs Power Platform: Same Goals, Different Soap Opera](https://dev.to/consolatacleah/uipath-vs-power-platform-same-goals-different-soap-opera-3207)
+- [SelfSprite Maze Game---------Take a selfie, and become an animated playable character in the game](https://dev.to/firevibe/selfsprite-maze-game-take-a-selfie-and-become-an-animated-playable-character-in-the-game-3h2h)
+- [Predictive Motion: Guiding Robots with Learned Flow Fields by Arvind Sundararajan](https://dev.to/arvindsundararajan/predictive-motion-guiding-robots-with-learned-flow-fields-by-arvind-sundararajan-44ak)
+- [Turning Music Into Art — Building a Synesthesia Simulator with Gemini](https://dev.to/sarthak_bhardwaj_05aba55d/turning-music-into-art-building-a-synesthesia-simulator-with-gemini-3459)
+- [Let Ai speak with money](https://dev.to/pavan_kumargr_aa10283b91/let-ai-speak-with-money-29ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
