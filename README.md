@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Mastered SwiftUI After Years of Jetpack Compose: Tips for Android Devs](https://dev.to/ibtiikhhn/how-i-mastered-swiftui-after-years-of-jetpack-compose-tips-for-android-devs-307n)
-- [Spooky Smart AI That Designs Your Halloween Look](https://dev.to/robot254/spooky-smart-ai-that-designs-your-halloween-look-2dil)
-- [Cracking the Wireless Code: Essential CompTIA Network+ N10-009 Insights for Smarter Networking](https://dev.to/andrew_despres/cracking-the-wireless-code-essential-comptia-network-n10-009-insights-for-smarter-networking-3d4a)
-- [AI Storyline Generator](https://dev.to/adityawaslost/ai-storyline-generator-3flp)
-- [The Trials and Tribulations of Counting Visitors in the Cloud Resume Challenge](https://dev.to/sashalapommeray/the-trials-and-tribulations-of-counting-visitors-in-the-cloud-resume-challenge-5dpi)
+- [Building a Modular Search Engine: The Struggles I’m Still Facing](https://dev.to/devdami/building-a-modular-search-engine-the-struggles-im-still-facing-pf8)
+- [💎 ANN: oauth2 v2.0.15 &amp; v2.0.16 w/ full E2E example](https://dev.to/galtzo/ann-oauth2-v2015-v2016-w-full-e2e-example-4f74)
+- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
+- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-m9)
+- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
