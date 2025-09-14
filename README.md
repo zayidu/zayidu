@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BrandSight - AI Brand Monitoring](https://dev.to/eric_chung_57abfc96a45806/brandsight-ai-brand-monitoring-1cc1)
-- [Docker Series: Episode 23 — Docker Swarm Advanced: Services, Secrets &amp; Configs 🔐](https://dev.to/yash_sonawane25/docker-series-episode-23-docker-swarm-advanced-services-secrets-configs-44b0)
-- [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
-- [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
-- [🚀 Day 14 of My DevOps Journey: GitHub Actions — CI/CD Made Easy in the Cloud ☁️](https://dev.to/dankbhardwaj/day-14-of-my-devops-journey-github-actions-cicd-made-easy-in-the-cloud-4hjn)
+- [Turning Nepal’s Wasted Hydropower into Digital Gold](https://dev.to/sudan_pudasaini_fbf2a274c/turning-nepals-wasted-hydropower-into-digital-gold-4pl2)
+- [In 2025, I have 65k followers on LinkedIn and 30,000 subscribers to my newsletter, and I drive my maximum business from LinkedIn. So, if you’re not building your brand on LinkedIn in 2025, you’re leaving opportunities on the table.](https://dev.to/jaideepparashar/in-2025-i-have-65k-followers-on-linkedin-and-30000-subscribers-to-my-newsletter-and-i-drive-my-4fp8)
+- [7 Prompts to Supercharge Your LinkedIn Strategy](https://dev.to/jaideepparashar/7-prompts-to-supercharge-your-linkedin-strategy-53dh)
+- [Design Principles of Software: Building Maintainable and Scalable Applications](https://dev.to/luzkalidgm/design-principles-of-software-building-maintainable-and-scalable-applications-2mc6)
+- [Qwen Code Just Got Smarter: Key Features in v0.0.10 &amp; v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
