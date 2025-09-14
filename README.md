@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [hello business world.](https://dev.to/pattee_green_write/hello-business-world-21m5)
-- [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
-- [🎉 YINI Parser v1.2.0-beta Released](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v120-beta-released-ef2)
-- [👩‍🔧 How to Check License Compatibility](https://dev.to/galtzo/how-to-check-license-compatibility-41h0)
-- [Unlocking LLM Power: Secure and Cost-Effective Inference for Everyone by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-llm-power-secure-and-cost-effective-inference-for-everyone-by-arvind-sundararajan-l70)
+- [[Boost]](https://dev.to/jordanadair/-l6n)
+- [Private LLM Inference: Democratizing AI with Ciphertext Computations](https://dev.to/arvindsundararajan/private-llm-inference-democratizing-ai-with-ciphertext-computations-3k43)
+- [Vision Stock-Financial Applet](https://dev.to/shakarpg/vision-stock-financial-applet-2hc6)
+- [From ASTs to RakuAST to ASTQuery](https://dev.to/fco/from-asts-to-rakuast-to-astquery-c3f)
+- [Laravel Real-time](https://dev.to/ashrakt_amin/laravel-real-time-5g48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
