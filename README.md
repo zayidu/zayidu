@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
-- [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
-- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
-- [Machine Learning: Transforming Data into Intelligent Decisions](https://dev.to/hadi_ahad_524f44ef9d635ee/machine-learning-transforming-data-into-intelligent-decisions-5fmh)
+- [Albania Just Deployed the World&#39;s First AI Government Minister — Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/albania-just-deployed-the-worlds-first-ai-government-minister-heres-what-developers-need-to-know-1f13)
+- [Article 1 : Chapter F: Practical LangChain Demo with Google Gemini &amp; DuckDuckGo](https://dev.to/raunaklallala/article-1-chapter-f-practical-langchain-demo-with-google-gemini-duckduckgo-1a58)
+- [Article 1 : Chapter E: Introduction to LangChain &amp; LangGraph](https://dev.to/raunaklallala/article-1-chapter-e-introduction-to-langchain-langgraph-agn)
+- [Amazon SDE2 OA/Interview Sept 2025 – The Great Cutoff Conspiracy Thread](https://dev.to/trojanmocx/amazon-sde2-oainterview-sept-2025-the-great-cutoff-conspiracy-thread-2564)
+- [Article 1 : Chapter D: Transition from Gen AI to Agentic AI](https://dev.to/raunaklallala/article-1-chapter-d-transition-from-gen-ai-to-agentic-ai-1k68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
