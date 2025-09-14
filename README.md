@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firstruits Haze Calculator](https://dev.to/firstfruits41/firstruits-haze-calculator-36pp)
-- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
-- [Sample EU AI Act checkist](https://dev.to/vishalendu/sample-eu-ai-act-checkist-pgg)
-- [Rock, Paper, Scissors Python Tutorial 2025](https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf)
-- [🎮 New Prototype: School Syndicate Mystery](https://dev.to/cutieyunnytech/new-prototype-school-syndicate-mystery-26io)
+- [The Silent Symphony of Success: Decoding Spatial Intelligence in Teams](https://dev.to/arvindsundararajan/the-silent-symphony-of-success-decoding-spatial-intelligence-in-teams-30m6)
+- [My Experience Participating in the AWS KIRO Hackathon](https://dev.to/lulu3202/my-experience-participating-in-the-aws-kiro-hackathon-578f)
+- [比官方便宜一半以上！OpenAI Responses API 教程](https://dev.to/qingcai_cui_9bdd9dbd584b8/bi-guan-fang-bian-yi-ban-yi-shang-openai-responses-api-jiao-cheng-418j)
+- [Part-56: Google Cloud VPC Firewall Policy – Apply Rules Across Multiple VPC Networks in GCP Cloud](https://dev.to/latchudevops/part-56-google-cloud-vpc-firewall-policy-apply-rules-across-multiple-vpc-networks-in-gcp-cloud-h13)
+- [The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance](https://dev.to/gagreatprogrammer/the-silent-intruder-mastering-the-art-of-lateral-movement-and-network-reconnaissance-302c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
