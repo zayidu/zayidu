@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
-- [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
-- [Handle WebDAV as JSON: A One-File Self-Hosted API WebDAVJSON &lpar;PHP/Node.js&rpar;](https://dev.to/uber_95d81a06792ac5/handle-webdav-as-json-a-one-file-self-hosted-api-webdavjson-phpnodejs-19do)
-- [MeridianDB Architecting for Scale and Developer Experience](https://dev.to/araldhafeeri/meridiandb-architecting-for-scale-29go)
-- [Crystal Vision AI](https://dev.to/arunavmaitra/crystal-vision-ai-50hg)
+- [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
+- [How to build reactive voice avatars in React with GlasatarJS](https://dev.to/jimhill/how-to-build-reactive-voice-avatars-in-react-with-glasatarjs-4pjm)
+- [Retrieval Augmented Generation &lpar;RAG&rpar; for Dummies](https://dev.to/sharon_otieno/retrieval-augmented-generation-rag-for-dummies-2lc2)
+- [🚀 Zoneless Change Detection in Angular: The Future of High-Performance Apps](https://dev.to/rohit_singh_ee84e64941db7/zoneless-change-detection-in-angular-the-future-of-high-performance-apps-4j00)
+- [Sharing my PH Tax Calculator + Salary Converter 🇵🇭 🇵🇭 🇵🇭](https://dev.to/kyboat/sharing-my-ph-tax-calculator-salary-converter-gmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
