@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
-- [How to build reactive voice avatars in React with GlasatarJS](https://dev.to/jimhill/how-to-build-reactive-voice-avatars-in-react-with-glasatarjs-4pjm)
-- [Retrieval Augmented Generation &lpar;RAG&rpar; for Dummies](https://dev.to/sharon_otieno/retrieval-augmented-generation-rag-for-dummies-2lc2)
-- [🚀 Zoneless Change Detection in Angular: The Future of High-Performance Apps](https://dev.to/rohit_singh_ee84e64941db7/zoneless-change-detection-in-angular-the-future-of-high-performance-apps-4j00)
-- [Sharing my PH Tax Calculator + Salary Converter 🇵🇭 🇵🇭 🇵🇭](https://dev.to/kyboat/sharing-my-ph-tax-calculator-salary-converter-gmb)
+- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 1](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-1-eb0)
+- [Use SVG Sprites to Make Your React App Load Faster](https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a)
+- [Resume Crafting Guide - PLSQL dev](https://dev.to/mrcaption49/resume-crafting-guide-plsql-dev-2gk8)
+- [concat&lpar;&rpar; vs Group_concat&lpar;&rpar;](https://dev.to/ashok_kumar_564581944e3ef/concat-vs-groupconcat-4nj6)
+- [Decoding Team Synergy: How Spatial Intelligence Predicts Project Success by Arvind Sundararajan](https://dev.to/arvindsundararajan/decoding-team-synergy-how-spatial-intelligence-predicts-project-success-by-arvind-sundararajan-3pog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
