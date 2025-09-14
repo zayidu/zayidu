@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools, and Real-World Implementation Strategies](https://dev.to/joy_akinyi_115689d7dff92f/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-22bm)
-- [AI can be a great augmentation tool, for code-review or AI-assisted coding, but all engineers need to have strong critical thinking skills, in my opinion. In this post, I share how I&#39;m using it along with my own opinions so far.](https://dev.to/bolt04/ai-can-be-a-great-augmentation-tool-for-code-review-or-ai-assisted-coding-but-all-engineers-need-22lj)
-- [Meet Embedible: Your AI Hardware Copilot Microcontrollers](https://dev.to/denys_malykhin/meet-embedible-your-ai-hardware-copilot-microcontrollers-2214)
-- [Becoming augmented by AI](https://dev.to/bolt04/becoming-augmented-by-ai-3f1)
-- [Predicting Heartbeats: AI&#39;s Glimpse into Cardiac Dynamics](https://dev.to/arvindsundararajan/predicting-heartbeats-ais-glimpse-into-cardiac-dynamics-2in9)
+- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
+- [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
+- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
+- [Machine Learning: Transforming Data into Intelligent Decisions](https://dev.to/hadi_ahad_524f44ef9d635ee/machine-learning-transforming-data-into-intelligent-decisions-5fmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
