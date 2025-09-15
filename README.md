@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Full-Featured React Chat App in Minutes &lpar;Open-Source Starter&rpar;](https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h)
-- [Emoji php - emoticons in your project](https://dev.to/deniskorbakov/emoji-php-emoticons-in-your-project-346a)
-- [Procedures for Deploying .NET 9 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/nelson_akpa01/procedures-for-deploying-net-9-app-to-azure-kubernetes-service-aks-ge5)
-- [How to conduct a useful technical interview &lpar;based on my personal experience &lpar;subjective opinion&rpar;&rpar;](https://dev.to/arenukvern/how-to-conduct-a-useful-technical-interview-based-on-my-personal-experience-subjective-opinion-4h3c)
-- [When Dinosaurs Survived the Meteor: From Python to Deno](https://dev.to/jjghali/when-dinosaurs-survived-the-meteor-from-python-to-deno-2oga)
+- [🌀 Radius Agent – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/radius-agent-round-2-javascript-4m1n)
+- [Building Impromptu - Kiro Hackathon](https://dev.to/siddharthasen99/building-impromptu-kiro-hackathon-lgb)
+- [Agentic AI digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-8-12-2025-3d5m)
+- [AWS EBS types SSD &amp; HDD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-ebs-types-ssd-hdd-21hk)
+- [No Laying Up Podcast: Favorite Phil Stories and Weekly Recaps | NLU Pod, Ep 1069](https://dev.to/youtube_golf/no-laying-up-podcast-favorite-phil-stories-and-weekly-recaps-nlu-pod-ep-1069-481i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
