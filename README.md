@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌀 Radius Agent – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/radius-agent-round-2-javascript-4m1n)
-- [Building Impromptu - Kiro Hackathon](https://dev.to/siddharthasen99/building-impromptu-kiro-hackathon-lgb)
-- [Agentic AI digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-8-12-2025-3d5m)
-- [AWS EBS types SSD &amp; HDD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-ebs-types-ssd-hdd-21hk)
-- [No Laying Up Podcast: Favorite Phil Stories and Weekly Recaps | NLU Pod, Ep 1069](https://dev.to/youtube_golf/no-laying-up-podcast-favorite-phil-stories-and-weekly-recaps-nlu-pod-ep-1069-481i)
+- [Why I Started Building One Backend Project Every Day &lpar;And You Should Too&rpar;](https://dev.to/currycoder/why-i-started-building-one-backend-project-every-day-and-you-should-too-506f)
+- [Building Ambitus Purus – A Clean-Earth App to Make Rubbish History 🌍](https://dev.to/jt_omoniyi_bb9482d0074bb0/building-ambitus-purus-a-clean-earth-app-to-make-rubbish-history-55e4)
+- [Taking Screenshots in Selenium with Python](https://dev.to/guzmanojero/taking-screenshots-in-selenium-with-python-132g)
+- [From Vision to Reality: Building a Custom E-commerce Platform with AWS Kiro](https://dev.to/nsk_nitheesh/from-vision-to-reality-building-a-custom-e-commerce-platform-with-aws-kiro-1gde)
+- [Driving Insights: Building an Uber Data Lake with MinIO](https://dev.to/oliver_samuel_028c6f65ad6/driving-insights-building-an-uber-data-lake-with-minio-1ega)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
