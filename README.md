@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
-- [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
-- [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
-- [IGN: Halo: Reach - Official &#39;A Monument to Legends&#39; 15th Anniversary Trailer](https://dev.to/gg_news/ign-halo-reach-official-a-monument-to-legends-15th-anniversary-trailer-42i2)
-- [IGN: Cronos: The New Dawn - Official Accolades Trailer](https://dev.to/gg_news/ign-cronos-the-new-dawn-official-accolades-trailer-4da7)
+- [Here&#39;s what ISO 27001 Is - and Why You Should Care About Your Data Security](https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb)
+- [Implemented User Auth, OTP verification, Audio Recording w BG, SMS, Cloud Integration.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/implemented-user-auth-otp-verification-audio-recording-w-bg-sms-cloud-integration-23n5)
+- [Kiro Agent Orchestration Patterns](https://dev.to/member_7b664256/asdfadsf-2cie)
+- [Segundo fim de semana de Preptember 2025: GitFichas trilingüe](https://dev.to/jesstemporal/segundo-fim-de-semana-de-preptember-2025-gitfichas-trilingue-71b)
+- [Caffeinated Commits- Day 3](https://dev.to/shri-dharshini/caffeinated-commits-day3-30af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
