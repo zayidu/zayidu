@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
-- [“Assign to Copilot” Explained: What GitHub’s Coding Agent Actually Does](https://dev.to/thelogicwarlock/assign-to-copilot-explained-what-githubs-coding-agent-actually-does-59g9)
-- [IGN: Pioner - Official &#39;Frontier&#39; Gameplay Trailer](https://dev.to/gg_news/ign-pioner-official-frontier-gameplay-trailer-2j64)
-- [IGN: Heavy as Stone - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-heavy-as-stone-official-teaser-trailer-critical-reflex-direct-2025-4i6p)
-- [IGN: SCP: Valravn - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-scp-valravn-official-teaser-trailer-critical-reflex-direct-2025-m3d)
+- [📦 My DevOps Journey: Part 4 — Archiving, Scheduling, Remote Access &amp; System Administration Essentials](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-4-archiving-scheduling-remote-access-system-administration-5apf)
+- [What I Learned from Studying SEO: Notes, Checklist, and Developer Takeaways](https://dev.to/_945813d63f317d087894d/what-i-learned-from-studying-seo-notes-checklist-and-developer-takeaways-3ej6)
+- [Xcode 26 Key Features for Developers](https://dev.to/arshtechpro/xcode-26-release-notes-summary-key-features-for-developers-5ck0)
+- [Flores Amarillas para my best friend luhana](https://dev.to/diego_franciscolopezasp/flores-amarillas-para-my-best-friend-luhana-li7)
+- [What Artifact’s Failure Can Teach You About Scaling AI Successfully](https://dev.to/talweezy/what-artifacts-failure-can-teach-you-about-scaling-ai-successfully-3nbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
