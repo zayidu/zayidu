@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started Building One Backend Project Every Day &lpar;And You Should Too&rpar;](https://dev.to/currycoder/why-i-started-building-one-backend-project-every-day-and-you-should-too-506f)
-- [Building Ambitus Purus – A Clean-Earth App to Make Rubbish History 🌍](https://dev.to/jt_omoniyi_bb9482d0074bb0/building-ambitus-purus-a-clean-earth-app-to-make-rubbish-history-55e4)
-- [Taking Screenshots in Selenium with Python](https://dev.to/guzmanojero/taking-screenshots-in-selenium-with-python-132g)
-- [From Vision to Reality: Building a Custom E-commerce Platform with AWS Kiro](https://dev.to/nsk_nitheesh/from-vision-to-reality-building-a-custom-e-commerce-platform-with-aws-kiro-1gde)
-- [Driving Insights: Building an Uber Data Lake with MinIO](https://dev.to/oliver_samuel_028c6f65ad6/driving-insights-building-an-uber-data-lake-with-minio-1ega)
+- [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
+- [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
+- [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
+- [IGN: Halo: Reach - Official &#39;A Monument to Legends&#39; 15th Anniversary Trailer](https://dev.to/gg_news/ign-halo-reach-official-a-monument-to-legends-15th-anniversary-trailer-42i2)
+- [IGN: Cronos: The New Dawn - Official Accolades Trailer](https://dev.to/gg_news/ign-cronos-the-new-dawn-official-accolades-trailer-4da7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
