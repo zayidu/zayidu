@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Cost of Technical Debt: Why Your Spring Apps May be Holding You Back &lpar;and What to Do About it&rpar;](https://dev.to/michelle_sebek_/the-real-cost-of-technical-debt-why-your-spring-apps-may-be-holding-you-back-and-what-to-do-about-1226)
-- [My journey with LEGATO ---dun dun dunnnnnnn](https://dev.to/emmanuel_appah_8f0d1e6903/my-journey-with-legato-dun-dun-dunnnnnnn-1hhj)
-- [Unused Imports - The Hidden Performance Tax](https://dev.to/vivekjami/unused-imports-the-hidden-performance-tax-3340)
-- [KEXP: Kevin Kaarl - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8)
-- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk)
+- [WebGPU Engine from Scratch Part 9: Shadow Maps](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-9-shadow-maps-11d9)
+- [Beyond Code Checkout: Optimizing DevOps Deployments for Performance, Cost, and Sustainability](https://dev.to/srinivasamcjf/beyond-code-checkout-optimizing-devops-deployments-for-performance-cost-and-sustainability-37d0)
+- [How Kiro Supercharged the Development of My AI-Powered Health Coach App](https://dev.to/49_pips_2c2d69a412fd4d922/how-kiro-supercharged-the-development-of-my-ai-powered-health-coach-app-14i6)
+- [The prompt I used to have ChatGPT act as my Python tutor](https://dev.to/bredscc/the-prompt-i-used-to-have-chatgpt-act-as-my-python-tutor-4n84)
+- [How to Stay Motivated When Learning to Code Alone](https://dev.to/sami_ammar_fb38e674b4a49e/how-to-stay-motivated-when-learning-to-code-alone-4d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
