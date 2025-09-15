@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
-- [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
-- [The Triple-Peak Trap: Using M365 Copilot to Visualize and Optimize My Workday](https://dev.to/balagmadhu/the-triple-peak-trap-using-m365-copilot-to-visualize-and-optimize-my-workday-3dn3)
-- [Primary Key vs. Foreign Key in SQL: Explained with Examples](https://dev.to/dbvismarketing/primary-key-vs-foreign-key-in-sql-explained-with-examples-4078)
-- [Nari : Woman Health App | Detect Breast Cancer](https://dev.to/saurabh_singh_2d5dca83cbf/nari-woman-health-app-detect-breast-cancer-3j60)
+- [&quot;as const&quot; vs &quot;readonly&quot; in TypeScript: What’s the Difference?](https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac)
+- [Clprolf Documentation &lpar;1/6&rpar; — Declensions Explained](https://dev.to/charles_koffler_bcabc582b/clprolf-documentation-16-declensions-explained-54mm)
+- [Stocks that have risen by 9.5% for three consecutive days--SPL Programming Practice](https://dev.to/esproc_spl/stocks-that-have-risen-by-95-for-three-consecutive-days-spl-programming-practice-4kan)
+- [Technical Best Practices for MDM Software Deployment](https://dev.to/vantage-mdm/technical-best-practices-for-mdm-software-deployment-3ojp)
+- [System Calls and Interactions in Linux](https://dev.to/naval_upadhyay/system-calls-and-interactions-in-linux-207j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
