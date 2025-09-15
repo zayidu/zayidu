@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Horizontal Scaling Mistakes I’ve Made](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-horizontal-scaling-mistakes-ive-made-3e7)
-- [🚀 Introducing Pebble: A Tiny New Programming Language](https://dev.to/rasa8877/introducing-pebble-a-tiny-new-programming-language-2di7)
-- [Who Is Responsible When Algorithms Rule? Reintroducing Human Accountability in Executable Governance](https://dev.to/agustin_v_startari/who-is-responsible-when-algorithms-rule-reintroducing-human-accountability-in-executable-governance-476i)
-- [Meme Monday](https://dev.to/ben/meme-monday-1546)
-- [Creating a Platform Game with TCJSGame v3: Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-platform-game-with-tcjsgame-v3-step-by-step-tutorial-1h17)
+- [How to Build a Full-Featured React Chat App in Minutes &lpar;Open-Source Starter&rpar;](https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h)
+- [Emoji php - emoticons in your project](https://dev.to/deniskorbakov/emoji-php-emoticons-in-your-project-346a)
+- [Procedures for Deploying .NET 9 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/nelson_akpa01/procedures-for-deploying-net-9-app-to-azure-kubernetes-service-aks-ge5)
+- [How to conduct a useful technical interview &lpar;based on my personal experience &lpar;subjective opinion&rpar;&rpar;](https://dev.to/arenukvern/how-to-conduct-a-useful-technical-interview-based-on-my-personal-experience-subjective-opinion-4h3c)
+- [When Dinosaurs Survived the Meteor: From Python to Deno](https://dev.to/jjghali/when-dinosaurs-survived-the-meteor-from-python-to-deno-2oga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
