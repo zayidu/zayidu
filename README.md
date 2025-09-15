@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn)
-- [✨ Gemini Facets: Forge a Digital Soul 🤖💬🎨](https://dev.to/auraforgehq/gemini-facets-forge-a-digital-soul-1o1o)
-- [Learning things with projects](https://dev.to/yuktisays/learning-things-with-projects-37ih)
-- [Demystifying React Hooks with a Fun Password Generator](https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g)
-- [Project Management Systems for Small Businesses: Real Needs from Reddit Users](https://dev.to/nocobase/project-management-systems-for-small-businesses-real-needs-from-reddit-users-31pj)
+- [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
+- [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
+- [The Triple-Peak Trap: Using M365 Copilot to Visualize and Optimize My Workday](https://dev.to/balagmadhu/the-triple-peak-trap-using-m365-copilot-to-visualize-and-optimize-my-workday-3dn3)
+- [Primary Key vs. Foreign Key in SQL: Explained with Examples](https://dev.to/dbvismarketing/primary-key-vs-foreign-key-in-sql-explained-with-examples-4078)
+- [Nari : Woman Health App | Detect Breast Cancer](https://dev.to/saurabh_singh_2d5dca83cbf/nari-woman-health-app-detect-breast-cancer-3j60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
