@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Gitcom: How Kiro&#39;s AI Pair-Programmer Helped Me Ship My First Kiro/VS Code Extension](https://dev.to/blessingtutka/building-gitcom-how-kiros-ai-pair-programmer-helped-me-ship-my-first-kirovs-code-extension-4l9d)
-- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
-- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
-- [Unlocking the Future: Top 50 DevOps Interview Questions You Must Know](https://dev.to/vjnvisakh/unlocking-the-future-top-50-devops-interview-questions-you-must-know-25gi)
-- [DEBIX SOM A Testing TSN Clock Synchronization with PTP](https://dev.to/debix_computers/debix-som-a-testing-tsn-clock-synchronization-with-ptp-1eln)
+- [Building Production-Ready AI Agents with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/danilop/building-production-ready-ai-agents-with-strands-agents-and-amazon-bedrock-agentcore-3dg0)
+- [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
+- [The OCI Developer&#39;s Workflow: Bridging Your Mac and Local VM with a Shared Folder](https://dev.to/smyekh/the-oci-developers-workflow-bridging-your-mac-and-local-vm-with-a-shared-folder-34ic)
+- [Bringing Open JTalk to Elixir/Nerves: Make Your Pi Speak Japanese 🇯🇵](https://dev.to/mnishiguchi/bringing-open-jtalk-to-elixirnerves-make-your-pi-speak-japanese-ml3)
+- [Corporate Upskilling in the AI Era: What Indian Companies Need to Know](https://dev.to/donazacharias/corporate-upskilling-in-the-ai-era-what-indian-companies-need-to-know-2g0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
