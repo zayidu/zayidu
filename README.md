@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do WiFi Range Extenders Really Work? A Complete Guide](https://dev.to/theknowledgenest/do-wifi-range-extenders-really-work-a-complete-guide-ckj)
-- [Veo3 im: A Deep Dive into AI-Powered Video Generation for Developers](https://dev.to/juddiy/veo3-im-a-deep-dive-into-ai-powered-video-generation-for-developers-516e)
-- [OSD600: First step](https://dev.to/jongwan93/osd600-first-step-p02)
-- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
-- [Kiwi Pi Pro 5: Just another SBC?](https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5)
+- [Bonus Kavod Management System](https://dev.to/firstfruits41/bonus-kavod-management-system-1d9k)
+- [Interactive Data Visualization: Streamlit, Dash, and Bokeh](https://dev.to/diegocastillo12/interactive-data-visualization-streamlit-dash-and-bokeh-13ba)
+- [Why Following the Test Pyramid Improves Software Quality and Delivery Speed](https://dev.to/misterankit/why-following-the-test-pyramid-improves-software-quality-and-delivery-speed-3ff7)
+- [Kinetix Fitness AI](https://dev.to/aortega/kinetix-fitness-ai-1d63)
+- [Google’s Agent-to-Agent &lpar;A2A&rpar; Protocol is here—Now Let’s Make it Observable](https://dev.to/catchpoint/googles-agent-to-agent-a2a-protocol-is-here-now-lets-make-it-observable-5gh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
