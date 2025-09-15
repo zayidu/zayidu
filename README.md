@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Architecture for Small Teams: A Guide for Managers and Startup Founders](https://dev.to/aleksandr_ryzhikov/frontend-architecture-for-small-teams-a-guide-for-managers-and-startup-founders-1924)
-- [Finding Amount of Clusters](https://dev.to/carlosrambles/finding-amount-of-clusters-4hfp)
-- [Graceful Motion: Learning to Flow with AI by Arvind Sundararajan](https://dev.to/arvindsundararajan/graceful-motion-learning-to-flow-with-ai-by-arvind-sundararajan-36p3)
-- [Building High-Performance Caching in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-high-performance-caching-in-go-a-practical-guide-137)
-- [Build Your Own Infinite Carousel in React &lpar;with a Custom Hook&rpar;❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
+- [Do WiFi Range Extenders Really Work? A Complete Guide](https://dev.to/theknowledgenest/do-wifi-range-extenders-really-work-a-complete-guide-ckj)
+- [Veo3 im: A Deep Dive into AI-Powered Video Generation for Developers](https://dev.to/juddiy/veo3-im-a-deep-dive-into-ai-powered-video-generation-for-developers-516e)
+- [OSD600: First step](https://dev.to/jongwan93/osd600-first-step-p02)
+- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
+- [Kiwi Pi Pro 5: Just another SBC?](https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
