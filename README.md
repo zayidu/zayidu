@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s what ISO 27001 Is - and Why You Should Care About Your Data Security](https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb)
-- [Implemented User Auth, OTP verification, Audio Recording w BG, SMS, Cloud Integration.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/implemented-user-auth-otp-verification-audio-recording-w-bg-sms-cloud-integration-23n5)
-- [Kiro Agent Orchestration Patterns](https://dev.to/member_7b664256/asdfadsf-2cie)
-- [Segundo fim de semana de Preptember 2025: GitFichas trilingüe](https://dev.to/jesstemporal/segundo-fim-de-semana-de-preptember-2025-gitfichas-trilingue-71b)
-- [Caffeinated Commits- Day 3](https://dev.to/shri-dharshini/caffeinated-commits-day3-30af)
+- [The Real Cost of Technical Debt: Why Your Spring Apps May be Holding You Back &lpar;and What to Do About it&rpar;](https://dev.to/michelle_sebek_/the-real-cost-of-technical-debt-why-your-spring-apps-may-be-holding-you-back-and-what-to-do-about-1226)
+- [My journey with LEGATO ---dun dun dunnnnnnn](https://dev.to/emmanuel_appah_8f0d1e6903/my-journey-with-legato-dun-dun-dunnnnnnn-1hhj)
+- [Unused Imports - The Hidden Performance Tax](https://dev.to/vivekjami/unused-imports-the-hidden-performance-tax-3340)
+- [KEXP: Kevin Kaarl - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8)
+- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
