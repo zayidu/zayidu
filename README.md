@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modular Search Engine: The Struggles I’m Still Facing](https://dev.to/devdami/building-a-modular-search-engine-the-struggles-im-still-facing-pf8)
-- [💎 ANN: oauth2 v2.0.15 &amp; v2.0.16 w/ full E2E example](https://dev.to/galtzo/ann-oauth2-v2015-v2016-w-full-e2e-example-4f74)
-- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
-- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-m9)
-- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
+- [Frontend Architecture for Small Teams: A Guide for Managers and Startup Founders](https://dev.to/aleksandr_ryzhikov/frontend-architecture-for-small-teams-a-guide-for-managers-and-startup-founders-1924)
+- [Finding Amount of Clusters](https://dev.to/carlosrambles/finding-amount-of-clusters-4hfp)
+- [Graceful Motion: Learning to Flow with AI by Arvind Sundararajan](https://dev.to/arvindsundararajan/graceful-motion-learning-to-flow-with-ai-by-arvind-sundararajan-36p3)
+- [Building High-Performance Caching in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-high-performance-caching-in-go-a-practical-guide-137)
+- [Build Your Own Infinite Carousel in React &lpar;with a Custom Hook&rpar;❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
