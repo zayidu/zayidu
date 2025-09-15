@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bonus Kavod Management System](https://dev.to/firstfruits41/bonus-kavod-management-system-1d9k)
-- [Interactive Data Visualization: Streamlit, Dash, and Bokeh](https://dev.to/diegocastillo12/interactive-data-visualization-streamlit-dash-and-bokeh-13ba)
-- [Why Following the Test Pyramid Improves Software Quality and Delivery Speed](https://dev.to/misterankit/why-following-the-test-pyramid-improves-software-quality-and-delivery-speed-3ff7)
-- [Kinetix Fitness AI](https://dev.to/aortega/kinetix-fitness-ai-1d63)
-- [Google’s Agent-to-Agent &lpar;A2A&rpar; Protocol is here—Now Let’s Make it Observable](https://dev.to/catchpoint/googles-agent-to-agent-a2a-protocol-is-here-now-lets-make-it-observable-5gh7)
+- [15 Takeaways From &quot;Breaking in the Mindset That Gets You Hired&quot; With ALX Community](https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei)
+- [Python Multiprocessing: Start Methods, Pools, and Communication](https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d)
+- [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
+- [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
+- [Stay ahead in web development: latest news, tools, and insights #102](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-102-56ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
