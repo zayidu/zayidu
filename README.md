@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;as const&quot; vs &quot;readonly&quot; in TypeScript: What’s the Difference?](https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac)
-- [Clprolf Documentation &lpar;1/6&rpar; — Declensions Explained](https://dev.to/charles_koffler_bcabc582b/clprolf-documentation-16-declensions-explained-54mm)
-- [Stocks that have risen by 9.5% for three consecutive days--SPL Programming Practice](https://dev.to/esproc_spl/stocks-that-have-risen-by-95-for-three-consecutive-days-spl-programming-practice-4kan)
-- [Technical Best Practices for MDM Software Deployment](https://dev.to/vantage-mdm/technical-best-practices-for-mdm-software-deployment-3ojp)
-- [System Calls and Interactions in Linux](https://dev.to/naval_upadhyay/system-calls-and-interactions-in-linux-207j)
+- [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
+- [How to Receive Inbound Emails with Amazon SES and Store Them in Amazon S3](https://dev.to/rahul_gupta_01438cd605043/how-to-receive-inbound-emails-with-amazon-ses-and-store-them-in-amazon-s3-3m73)
+- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
+- [The Ultimate Guide to API Integration: Benefits, Types, and Best Practices](https://dev.to/jennysmith7/the-ultimate-guide-to-api-integration-benefits-types-and-best-practices-55ce)
+- [The Workforce of Tomorrow: Skills Needed for the Solar + AI Energy Revolution](https://dev.to/fozlurrayhan98/the-workforce-of-tomorrow-skills-needed-for-the-solar-ai-energy-revolution-6eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
