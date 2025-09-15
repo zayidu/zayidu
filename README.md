@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📦 My DevOps Journey: Part 4 — Archiving, Scheduling, Remote Access &amp; System Administration Essentials](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-4-archiving-scheduling-remote-access-system-administration-5apf)
-- [What I Learned from Studying SEO: Notes, Checklist, and Developer Takeaways](https://dev.to/_945813d63f317d087894d/what-i-learned-from-studying-seo-notes-checklist-and-developer-takeaways-3ej6)
-- [Xcode 26 Key Features for Developers](https://dev.to/arshtechpro/xcode-26-release-notes-summary-key-features-for-developers-5ck0)
-- [Flores Amarillas para my best friend luhana](https://dev.to/diego_franciscolopezasp/flores-amarillas-para-my-best-friend-luhana-li7)
-- [What Artifact’s Failure Can Teach You About Scaling AI Successfully](https://dev.to/talweezy/what-artifacts-failure-can-teach-you-about-scaling-ai-successfully-3nbf)
+- [ASML’s $1.5B Bet on Mistral AI: Europe’s OpenAI Challenger Emerges](https://dev.to/axrisi/asmls-15b-bet-on-mistral-ai-europes-openai-challenger-emerges-4pb6)
+- [GameSpot: Game Devs of Color Expo Direct 2025 Livestream &lpar;Indie Games Showcase&rpar;](https://dev.to/gg_news/gamespot-game-devs-of-color-expo-direct-2025-livestream-indie-games-showcase-530f)
+- [GameSpot: Six One Indie Showcase Livestream &lpar;September 18th, 2025&rpar;](https://dev.to/gg_news/gamespot-six-one-indie-showcase-livestream-september-18th-2025-4b11)
+- [IGN: Hollow Knight: Silksong Boss Fight - Double Moss Mother &lpar;Weavenest Atla&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-double-moss-mother-weavenest-atla-3igi)
+- [IGN: The Last Time a Game Truly Surprised Us - Game Scoop! Clip](https://dev.to/gg_news/ign-the-last-time-a-game-truly-surprised-us-game-scoop-clip-5ame)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
