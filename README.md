@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch Part 9: Shadow Maps](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-9-shadow-maps-11d9)
-- [Beyond Code Checkout: Optimizing DevOps Deployments for Performance, Cost, and Sustainability](https://dev.to/srinivasamcjf/beyond-code-checkout-optimizing-devops-deployments-for-performance-cost-and-sustainability-37d0)
-- [How Kiro Supercharged the Development of My AI-Powered Health Coach App](https://dev.to/49_pips_2c2d69a412fd4d922/how-kiro-supercharged-the-development-of-my-ai-powered-health-coach-app-14i6)
-- [The prompt I used to have ChatGPT act as my Python tutor](https://dev.to/bredscc/the-prompt-i-used-to-have-chatgpt-act-as-my-python-tutor-4n84)
-- [How to Stay Motivated When Learning to Code Alone](https://dev.to/sami_ammar_fb38e674b4a49e/how-to-stay-motivated-when-learning-to-code-alone-4d9l)
+- [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
+- [“Assign to Copilot” Explained: What GitHub’s Coding Agent Actually Does](https://dev.to/thelogicwarlock/assign-to-copilot-explained-what-githubs-coding-agent-actually-does-59g9)
+- [IGN: Pioner - Official &#39;Frontier&#39; Gameplay Trailer](https://dev.to/gg_news/ign-pioner-official-frontier-gameplay-trailer-2j64)
+- [IGN: Heavy as Stone - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-heavy-as-stone-official-teaser-trailer-critical-reflex-direct-2025-4i6p)
+- [IGN: SCP: Valravn - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-scp-valravn-official-teaser-trailer-critical-reflex-direct-2025-m3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
