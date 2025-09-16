@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
-- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
-- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
-- [[Boost]](https://dev.to/uliyahoo/-ng7)
-- [The Security Vulnerabilities Hiding in Your MCP Servers](https://dev.to/leomarsh/the-security-vulnerabilities-hiding-in-your-mcp-servers-4m2)
+- [afterRenderEffect, afterNextRender, afterEveryRender &amp; Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o)
+- [How I made Dental APIs less painful than the dentist](https://dev.to/lake22traillady/how-i-made-dental-apis-less-painful-than-the-dentist-14ki)
+- [🚀 Exploring GitHub Models &lpar;Public Preview&rpar; for AI in Development Workflows🚀](https://dev.to/shanbasu/exploring-github-models-public-preview-for-ai-in-development-workflows-1e6o)
+- [SEO for Developers: A Technical Guide](https://dev.to/stasxreal/seo-for-developers-a-technical-guide-2com)
+- [How Large Language Models &lpar;LLMs&rpar; Work: A Complete Overview](https://dev.to/stasxreal/how-large-language-models-llms-work-a-complete-overview-4gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
