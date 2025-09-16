@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Just Find the Leak, Fix the Root Cause: A Modern Approach to Memory Analysis](https://dev.to/jillthornhill/dont-just-find-the-leak-fix-the-root-cause-a-modern-approach-to-memory-analysis-17gi)
-- [All About Change Data Capture CDC](https://dev.to/prudiec/all-about-change-data-capture-cdc-3apn)
-- [A quick guide on the Python and R](https://dev.to/anshuman_816f8012be0c9b6c/a-quick-guide-on-the-python-and-r-45ih)
-- [cloud computing.](https://dev.to/nyandiatech/cloud-computing-53oe)
-- [How to Stay Motivated When Preparing for a Cloud Certification?](https://dev.to/abdelino17/how-to-stay-motivated-when-preparing-for-a-cloud-certification-2pch)
+- [CMK: The Master Key to Your AWS Encryption Kingdom](https://dev.to/leonardkachi/cmk-the-master-key-to-your-aws-encryption-kingdom-47j7)
+- [AWS re/Start – My Week 5 Experience](https://dev.to/ijay/aws-restart-my-week-5-experience-29ih)
+- [Building a Legal Document Intelligence Platform with BigQuery AI: 99% Efficiency Implementation Guide](https://dev.to/jaycrys/building-a-legal-document-intelligence-platform-with-bigquery-ai-99-efficiency-implementation-5ajo)
+- [Clprolf Docs #2 — A QuickSort Example: Java vs. Clprolf](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-2-a-quicksort-example-java-vs-clprolf-2ha1)
+- [CDN Cache Mastery: an engineer’s checklist you can ship with](https://dev.to/t2c/cdn-cache-mastery-an-engineers-checklist-you-can-ship-with-5078)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
