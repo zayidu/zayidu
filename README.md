@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris](https://dev.to/micah_lee_53896c7cc68ceb9/tetris-3ife)
-- [MCP Fundamentals: Your First Java Client in 30 Lines of Code](https://dev.to/gazolla/mcp-fundamentals-your-first-java-client-in-30-lines-of-code-e0c)
-- [A Pod with Public IP](https://dev.to/abhijeetmohanan/a-pod-with-public-ip-59m7)
-- [From Zero to CRUD - A Tiny Spring Boot H2 Boilerplate You’ll Actually Use](https://dev.to/boiler_agents/from-zero-to-crud-a-tiny-spring-boot-h2-boilerplate-youll-actually-use-15k6)
-- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
+- [Shift Left Security Practices Developers Like](https://dev.to/fatihkoc/shift-left-security-practices-developers-like-5f16)
+- [What is in the Internet&#39;s Traffic Jam? A Story of TCP and UDP on a Shared Wireless Lane](https://dev.to/ksujan/what-is-in-the-internets-traffic-jam-a-story-of-tcp-and-udp-on-a-shared-wireless-lane-8j0)
+- [COLORS: Bashy | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-a-colors-encore-ef3)
+- [8-Bit Music Theory: TOP 5 Koji Kondo One-Offs](https://dev.to/music_youtube/8-bit-music-theory-top-5-koji-kondo-one-offs-3kj3)
+- [IGN: EVE Vanguard - Official 2025 Gameplay Trailer](https://dev.to/gg_news/ign-eve-vanguard-official-2025-gameplay-trailer-4ja0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
