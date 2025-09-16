@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Biometric fingerprint authentication on SmartCard Chips](https://dev.to/juliofcv/biometric-fingerprint-authentication-on-smartcard-chips-5hcm)
-- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #379646](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-379646-2ml7)
-- [The Ultimate Cross-Framework Storage Solution](https://dev.to/eveningwater/the-ultimate-cross-framework-storage-solution-513m)
-- [Typescript : Generic Data Fetch](https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48)
-- [Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM](https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p)
+- [Cloudflare&#39;s Self-DDoS Outage: How a Simple React Bug Knocked Out the Dashboard](https://dev.to/pantoai/cloudflares-self-ddos-outage-how-a-simple-react-bug-knocked-out-the-dashboard-2onc)
+- [Stop Memorizing, Start Scripting: My Journey to cli-bits](https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h)
+- [GB/s Level Editable DOM JSON Engine: The Architectural Philosophy Behind LJSON](https://dev.to/lengjingzju/gbs-level-editable-dom-json-engine-the-architectural-philosophy-behind-ljson-4gdb)
+- [Mastering BDD with Cucumber &amp; Java for Test Automation](https://dev.to/jignect-technologies/mastering-bdd-with-cucumber-java-for-test-automation-4dh3)
+- [Productionizing AWS’s Retail Sample App with GitOps on EKS](https://dev.to/hasan_ashab/productionizing-awss-retail-sample-app-with-gitops-on-eks-22f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
