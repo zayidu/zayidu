@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON prompts bring more control to vibe coding](https://dev.to/tj-ldc/json-prompts-bring-more-control-to-vibe-coding-25cm)
-- [Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS](https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f)
-- [Removing 11,005 Lines: Why We Replaced Our Custom LLM Manager with Portkey](https://dev.to/clayroach/removing-11005-lines-why-we-replaced-our-custom-llm-manager-with-portkey-bhn)
-- [📝 Understanding State in React: A Beginner’s Guide](https://dev.to/mona_fakhri_98b07b8a1fd66/understanding-state-in-react-a-beginners-guide-2076)
-- [How to Develop and Deploy an AWS metrics Slack bot using Bedrock Agents and Terraform](https://dev.to/amlana24/how-to-develop-and-deploy-an-aws-metrics-slack-bot-using-bedrock-agents-and-terraform-5egh)
+- [Hosting Migration: A Complete Guide for Businesses](https://dev.to/aprizal_ali_28336d8fc6739/hosting-migration-a-complete-guide-for-businesses-5908)
+- [React is winning by default and slowing innovation](https://dev.to/technoblogger14o3/react-is-winning-by-default-and-slowing-innovation-5enl)
+- [Types of CSS: Inline, Embedded, and External](https://dev.to/sharique_siddiqui_8242dad/types-of-css-inline-embedded-and-external-56b3)
+- [ShannonBase — The Next-Gen HTAP Database for the AI Era](https://dev.to/shannonbase/shannonbase-the-next-gen-htap-database-for-the-ai-era-305)
+- [Docker Series: Episode 25 — Docker Troubleshooting &amp; Debugging: Common Issues &amp; Fixes 🛠️](https://dev.to/yash_sonawane25/docker-series-episode-25-docker-troubleshooting-debugging-common-issues-fixes-3i8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
