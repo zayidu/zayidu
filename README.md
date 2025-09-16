@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Linux Commands](https://dev.to/roshan_sharma_617a6e70ff5/top-10-linux-commands-56m7)
-- [KEXP: Gouge Away - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-full-performance-live-on-kexp-5d41)
-- [Securing Agentic AI Systems](https://dev.to/aws-builders/securing-agentic-ai-systems-2i93)
-- [IGN: The Lift - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-the-lift-official-gameplay-overview-trailer-4gam)
-- [IGN: Dispatch - Official PC and PS5 Release Date Trailer &lpar;ft. Aaron Paul, Jeffrey Wright&rpar;](https://dev.to/gg_news/ign-dispatch-official-pc-and-ps5-release-date-trailer-ft-aaron-paul-jeffrey-wright-3g54)
+- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
+- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
+- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
+- [[Boost]](https://dev.to/uliyahoo/-ng7)
+- [The Security Vulnerabilities Hiding in Your MCP Servers](https://dev.to/leomarsh/the-security-vulnerabilities-hiding-in-your-mcp-servers-4m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
