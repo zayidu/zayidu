@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a Team Plan: Pricing, Growth, Pain Relief, and How-To](https://dev.to/soasme/shipping-a-team-plan-pricing-growth-pain-relief-and-how-to-8k1)
-- [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
-- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
-- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
-- [Kubernetes: Kubernetes API, API groups, CRDs, and the etcd](https://dev.to/setevoy/kubernetes-kubernetes-api-api-groups-crds-and-the-etcd-1can)
+- [JSON prompts bring more control to vibe coding](https://dev.to/tj-ldc/json-prompts-bring-more-control-to-vibe-coding-25cm)
+- [Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS](https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f)
+- [Removing 11,005 Lines: Why We Replaced Our Custom LLM Manager with Portkey](https://dev.to/clayroach/removing-11005-lines-why-we-replaced-our-custom-llm-manager-with-portkey-bhn)
+- [📝 Understanding State in React: A Beginner’s Guide](https://dev.to/mona_fakhri_98b07b8a1fd66/understanding-state-in-react-a-beginners-guide-2076)
+- [How to Develop and Deploy an AWS metrics Slack bot using Bedrock Agents and Terraform](https://dev.to/amlana24/how-to-develop-and-deploy-an-aws-metrics-slack-bot-using-bedrock-agents-and-terraform-5egh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
