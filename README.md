@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting Migration: A Complete Guide for Businesses](https://dev.to/aprizal_ali_28336d8fc6739/hosting-migration-a-complete-guide-for-businesses-5908)
-- [React is winning by default and slowing innovation](https://dev.to/technoblogger14o3/react-is-winning-by-default-and-slowing-innovation-5enl)
-- [Types of CSS: Inline, Embedded, and External](https://dev.to/sharique_siddiqui_8242dad/types-of-css-inline-embedded-and-external-56b3)
-- [ShannonBase — The Next-Gen HTAP Database for the AI Era](https://dev.to/shannonbase/shannonbase-the-next-gen-htap-database-for-the-ai-era-305)
-- [Docker Series: Episode 25 — Docker Troubleshooting &amp; Debugging: Common Issues &amp; Fixes 🛠️](https://dev.to/yash_sonawane25/docker-series-episode-25-docker-troubleshooting-debugging-common-issues-fixes-3i8i)
+- [Agricultural Quantum AI: Predicting Crop Yields with Subatomic Precision](https://dev.to/kushvanth_chowdarynagabh/agricultural-quantum-ai-predicting-crop-yields-with-subatomic-precision-59l3)
+- [Async Await Delay](https://dev.to/elshoddev/async-await-delay-gh7)
+- [Introduction to US Stock Market](https://dev.to/madgan95/introduction-to-us-stock-market-5g32)
+- [🎮 Fun Fact from My AR Mini-Game Experiment](https://dev.to/cutieyunnytech/fun-fact-from-my-ar-mini-game-experiment-5f6l)
+- [Top 10 Most Commonly Used Pandas Functions in Playwright Test Automation Scripts](https://dev.to/arun_dhole_c877fddec2131d/top-10-most-commonly-used-pandas-functions-in-playwright-test-automation-scripts-1a0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
