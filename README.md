@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log 20 - The Grind](https://dev.to/asx/dev-log-20-the-grind-1k4c)
-- [🚀 Matters AI &lpar;Prev. OptIQ&rpar; – Round 2 JavaScript Interview](https://dev.to/ml318097/matters-ai-prev-optiq-round-2-javascript-interview-3c63)
-- [Free-First Anime Release: My Idea for Maximizing Reach and Revenue](https://dev.to/hejhdiss/free-first-anime-release-my-idea-for-maximizing-reach-and-revenue-30a3)
-- [Deploy a Secure Containerised WebDAV Server with Docker in Minutes](https://dev.to/vaggeliskls/deploy-a-secure-containerised-webdav-server-with-docker-in-minutes-20d6)
-- [Spring Batch Tutorial Part #6](https://dev.to/sadiul_hakim/spring-batch-tutorial-part-6-597n)
+- [Solving Elm Router &quot;Double Update&quot; Problem](https://dev.to/rinn7e/solving-elm-router-double-update-problem-dde)
+- [Masking Sensitive Data in CloudWatch Logs for APIs &lpar;and keeping your secrets safe!&rpar;](https://dev.to/bijay_singhdeo_5c434a04a/masking-sensitive-data-in-cloudwatch-logs-for-apis-and-keeping-your-secrets-safe-49dk)
+- [Building a CLI for the Ecosyste.ms API](https://dev.to/sebs/building-a-cli-for-the-ecosystems-api-1d4a)
+- [Lightroom Mod APK: Exploring Features, Risks, and Safer Choices for Developers and Creators](https://dev.to/jackson_alban_515fef53c1c/lightroom-mod-apk-exploring-features-risks-and-safer-choices-for-developers-and-creators-9p)
+- [Thank you for sharing the Conventional Branch.](https://dev.to/shenxianpeng/thank-you-for-sharing-the-conventional-branch-2pfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
