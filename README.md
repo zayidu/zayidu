@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC Video Review](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-video-review-2k74)
-- [🚀 Day 17 of My Python Learning Journey](https://dev.to/_adii3107/day-17-of-my-python-learning-journey-4ckn)
-- [Semicolon-First: A Psychotic Yet Interesting Way of Writing Code!](https://dev.to/aliaryani-security/semicolon-first-a-psychotic-yet-interesting-way-of-writing-code-52j8)
-- [What&#39;s Trending in Healthcare Projects](https://dev.to/freshtech/whats-trending-in-healthcare-projects-538o)
-- [Here’s how far I’ve come after 7 days of grinding on system design.](https://dev.to/navidreza80/heres-how-far-ive-come-after-7-days-of-grinding-on-system-design-55j3)
+- [My Rage, My Remedy](https://dev.to/magazine_peony_dddd3732da/my-rage-my-remedy-22ld)
+- [Top Dependency Scanners: A Comprehensive Guide](https://dev.to/samlan/top-dependency-scanners-a-comprehensive-guide-2kf)
+- [Here&#39;s How To Build Fullstack Agent Apps &lpar;Gemini, CopilotKit &amp; LangGraph&rpar;](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
+- [react.dev](https://dev.to/reza_dress_a04a7b3910b90d/reactdev-41j0)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
