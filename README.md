@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
-- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o)
-- [It helps beginners in ML not just preprocess data &lpar;missing values, encoding, scaling, outliers&rpar; but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-37c2)
-- [DSA Tutorial: A Beginner’s Guide to Data Structures and Algorithms](https://dev.to/suraj_kumar_fb57ae0928df2/dsa-tutorial-a-beginners-guide-to-data-structures-and-algorithms-3n3e)
+- [Git - Fun Facts](https://dev.to/rubansi/git-fun-fact-45de)
+- [Angular Signal-Based Forms: Why They&#39;re About to Change Everything You Know About Form Handling](https://dev.to/codewithrajat/angular-signal-based-forms-why-theyre-about-to-change-everything-you-know-about-form-handling-5an3)
+- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
+- [Auto Embeddings in Manticore Search: AI-Powered Search Made Simple](https://dev.to/sanikolaev/auto-embeddings-in-manticore-search-ai-powered-search-made-simple-op2)
+- [Why Testing Multi-Agent AI Systems is Hard &lpar;and Why It Matters&rpar;](https://dev.to/radoslawsz/why-testing-multi-agent-ai-systems-is-hard-and-why-it-matters-2d3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
