@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
-- [Why Distributed Caches Can Become Single Points of Failure](https://dev.to/dct_technology/why-distributed-caches-can-become-single-points-of-failure-5a88)
-- [When Machines Learn to Delete: An 8-Week Experiment in AI Autonomy](https://dev.to/jetthoughts/when-machines-learn-to-delete-an-8-week-experiment-in-ai-autonomy-2ak)
-- [&quot;Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App&quot;](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
-- [Best Rich Text Editor for react in 2025](https://dev.to/codeideal/best-rich-text-editor-for-react-in-2025-3cdb)
+- [Dev Log 20 - The Grind](https://dev.to/asx/dev-log-20-the-grind-1k4c)
+- [🚀 Matters AI &lpar;Prev. OptIQ&rpar; – Round 2 JavaScript Interview](https://dev.to/ml318097/matters-ai-prev-optiq-round-2-javascript-interview-3c63)
+- [Free-First Anime Release: My Idea for Maximizing Reach and Revenue](https://dev.to/hejhdiss/free-first-anime-release-my-idea-for-maximizing-reach-and-revenue-30a3)
+- [Deploy a Secure Containerised WebDAV Server with Docker in Minutes](https://dev.to/vaggeliskls/deploy-a-secure-containerised-webdav-server-with-docker-in-minutes-20d6)
+- [Spring Batch Tutorial Part #6](https://dev.to/sadiul_hakim/spring-batch-tutorial-part-6-597n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
