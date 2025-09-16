@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shift Left Security Practices Developers Like](https://dev.to/fatihkoc/shift-left-security-practices-developers-like-5f16)
-- [What is in the Internet&#39;s Traffic Jam? A Story of TCP and UDP on a Shared Wireless Lane](https://dev.to/ksujan/what-is-in-the-internets-traffic-jam-a-story-of-tcp-and-udp-on-a-shared-wireless-lane-8j0)
-- [COLORS: Bashy | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-a-colors-encore-ef3)
-- [8-Bit Music Theory: TOP 5 Koji Kondo One-Offs](https://dev.to/music_youtube/8-bit-music-theory-top-5-koji-kondo-one-offs-3kj3)
-- [IGN: EVE Vanguard - Official 2025 Gameplay Trailer](https://dev.to/gg_news/ign-eve-vanguard-official-2025-gameplay-trailer-4ja0)
+- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
+- [Loops avançados e recursividade](https://dev.to/andresdossantos/loops-avancados-e-recursividade-4afp)
+- [Mastering Slicing and Indexing in Python: Access Data with Precision](https://dev.to/aaron_rose_0787cc8b4775a0/mastering-slicing-and-indexing-in-python-access-data-with-precision-4alp)
+- [#DAY 10: Retrospective &amp; Tuning](https://dev.to/samueladeduntan/day-10-retrospective-tuning-3obg)
+- [Sleuths and Sweets - irisCTF](https://dev.to/davidonlinearchive/sleuths-and-sweets-irisctf-2dc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
