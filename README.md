@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git - Fun Facts](https://dev.to/rubansi/git-fun-fact-45de)
-- [Angular Signal-Based Forms: Why They&#39;re About to Change Everything You Know About Form Handling](https://dev.to/codewithrajat/angular-signal-based-forms-why-theyre-about-to-change-everything-you-know-about-form-handling-5an3)
-- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
-- [Auto Embeddings in Manticore Search: AI-Powered Search Made Simple](https://dev.to/sanikolaev/auto-embeddings-in-manticore-search-ai-powered-search-made-simple-op2)
-- [Why Testing Multi-Agent AI Systems is Hard &lpar;and Why It Matters&rpar;](https://dev.to/radoslawsz/why-testing-multi-agent-ai-systems-is-hard-and-why-it-matters-2d3l)
+- [Don&#39;t Just Find the Leak, Fix the Root Cause: A Modern Approach to Memory Analysis](https://dev.to/jillthornhill/dont-just-find-the-leak-fix-the-root-cause-a-modern-approach-to-memory-analysis-17gi)
+- [All About Change Data Capture CDC](https://dev.to/prudiec/all-about-change-data-capture-cdc-3apn)
+- [A quick guide on the Python and R](https://dev.to/anshuman_816f8012be0c9b6c/a-quick-guide-on-the-python-and-r-45ih)
+- [cloud computing.](https://dev.to/nyandiatech/cloud-computing-53oe)
+- [How to Stay Motivated When Preparing for a Cloud Certification?](https://dev.to/abdelino17/how-to-stay-motivated-when-preparing-for-a-cloud-certification-2pch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
