@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resize Disk on VM Proxmox Non-LVM](https://dev.to/seno21/resize-disk-on-vm-proxmox-non-lvm-24oo)
-- [Deploy Vaultwarden on Nanocl](https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1)
-- [Is That Painting Real? Unveiling the Magic of Generative AI for Beginners](https://dev.to/karthik_n/is-that-painting-real-unveiling-the-magic-of-generative-ai-for-beginners-1cah)
-- [Top ServiceNow Trends for 2025: What’s Worth Your Time &lpar;and What’s Just Hype&rpar;](https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe)
-- [Beyond Translation: Mastering Localization Strategies to Win in Global Markets](https://dev.to/okoye_ndidiamaka_5e3b7d30/beyond-translation-mastering-localization-strategies-to-win-in-global-markets-3imh)
+- [think about my self with confident](https://dev.to/ttho7902/think-about-my-self-with-confident-14b0)
+- [How to Create and Customize Your GitHub Profile Repository](https://dev.to/aopstudio/how-to-create-and-customize-your-github-profile-repository-144o)
+- [A Summary of User Interactions in React Testing Library &lpar;fireEvent / userEvent&rpar;](https://dev.to/kazutora_hattori_66972c88/a-summary-of-user-interactions-in-react-testing-library-fireevent-userevent-8nl)
+- [I built a MAANG mock interview agent with my brother. We still can’t believe how well it works.](https://dev.to/fahimulhaq/i-built-a-maang-mock-interview-agent-with-my-brother-we-still-cant-believe-how-well-it-works-51n1)
+- [Code, Collaborate, Create: My Circuits are Buzzing for HackSpire’25!🎯🚀](https://dev.to/debaditya_saha_5b45172210/code-collaborate-create-my-circuits-are-buzzing-for-hackspire25-5oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
