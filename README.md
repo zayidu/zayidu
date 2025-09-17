@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Payload Jobs on Vercel &lpar;Serverless&rpar; — Step‑by‑Step Migration](https://dev.to/aaronksaunders/run-payload-jobs-on-vercel-serverless-step-by-step-migration-aj9)
-- [Typology of Prediction &amp; Forecasting Projects - A Technical Guide](https://dev.to/bigdexter/typology-of-prediction-forecasting-projects-a-technical-guide-1402)
-- [PWC 339 Max Diff: Sorting for the win](https://dev.to/boblied/pwc-339-max-diff-sorting-for-the-win-43c8)
-- [What is an AI Trust Framework? Top 3 Pillars of Macaron&#39;s Governance Model in 2025](https://dev.to/sande_isido_5f25353ee9e68/what-is-an-ai-trust-framework-top-3-pillars-of-macarons-governance-model-in-2025-3383)
-- [Classification in a Nutshell](https://dev.to/vaishakhvipin/classification-in-a-nutshell-4b5g)
+- [COLORS: Bashy - Lost In Dreams | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-lost-in-dreams-a-colors-encore-252)
+- [10 Must-Join Medical Coding Communities That Will Skyrocket Your Career](https://dev.to/khushi_dixit_bf540d2e1fc9/10-must-join-medical-coding-communities-that-will-skyrocket-your-career-4nol)
+- [Golf.com: Sneaking Onto Bethpage | Keegan Bradley’s Remarkable Ryder Cup Redemption](https://dev.to/youtube_golf/golfcom-sneaking-onto-bethpage-keegan-bradleys-remarkable-ryder-cup-redemption-2977)
+- [Peter Finch Golf: I play the FIRST EVER Ryder Cup Course!](https://dev.to/youtube_golf/peter-finch-golf-i-play-the-first-ever-ryder-cup-course-2llk)
+- [GameSpot: Battlefield 6 - Operation Firestorm &amp; Escalation Hands-On Preview](https://dev.to/gg_news/gamespot-battlefield-6-operation-firestorm-escalation-hands-on-preview-10c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
