@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Bashy - Lost In Dreams | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-lost-in-dreams-a-colors-encore-252)
-- [10 Must-Join Medical Coding Communities That Will Skyrocket Your Career](https://dev.to/khushi_dixit_bf540d2e1fc9/10-must-join-medical-coding-communities-that-will-skyrocket-your-career-4nol)
-- [Golf.com: Sneaking Onto Bethpage | Keegan Bradley’s Remarkable Ryder Cup Redemption](https://dev.to/youtube_golf/golfcom-sneaking-onto-bethpage-keegan-bradleys-remarkable-ryder-cup-redemption-2977)
-- [Peter Finch Golf: I play the FIRST EVER Ryder Cup Course!](https://dev.to/youtube_golf/peter-finch-golf-i-play-the-first-ever-ryder-cup-course-2llk)
-- [GameSpot: Battlefield 6 - Operation Firestorm &amp; Escalation Hands-On Preview](https://dev.to/gg_news/gamespot-battlefield-6-operation-firestorm-escalation-hands-on-preview-10c9)
+- [Web Transition: Part 4 of 4 — The Return to Simplicity](https://dev.to/raheelshan/web-transition-part-4-of-4-the-return-to-simplicity-h)
+- [Web Transition: Part 1 of 4 — The Original Web](https://dev.to/raheelshan/web-transition-part-1-of-4-the-original-web-3of4)
+- [Web Transition: Part 2 of 4—The AJAX &amp; jQuery Awakening](https://dev.to/raheelshan/web-transition-part-2-of-4-the-ajax-jquery-awakening-2lee)
+- [Web Transition: Part 3 of 4—The SPA Takeover](https://dev.to/raheelshan/web-transition-part-3-of-4-the-spa-takeover-jmj)
+- [Building Your Own Load Balancer in Node.js](https://dev.to/colocohen/building-your-own-load-balancer-in-nodejs-on4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
