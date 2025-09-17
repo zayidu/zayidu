@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The Nick Raskulinecz Interview: Crafting The Sounds Of Deftones, Foo Fighters, AIC and Rush](https://dev.to/music_youtube/rick-beato-the-nick-raskulinecz-interview-crafting-the-sounds-of-deftones-foo-fighters-aic-and-477m)
-- [IGN: Warborne Above Ashes - Official Trailer](https://dev.to/gg_news/ign-warborne-above-ashes-official-trailer-2ok2)
-- [IGN: WWE 2K25 - Official Attitude Era Superstars DLC 4 Trailer](https://dev.to/gg_news/ign-wwe-2k25-official-attitude-era-superstars-dlc-4-trailer-8f3)
-- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
-- [IGN: Nicktoons &amp; The Dice of Destiny - Official Jimmy Neutron Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-jimmy-neutron-reveal-trailer-2pdo)
+- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
+- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
+- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
+- [Why Everyone Says .NET Can’t Handle High Concurrency &lpar;And Why That’s Outdated&rpar;](https://dev.to/lamri_abdellahramdane_15/why-everyone-says-net-cant-handle-high-concurrency-and-why-thats-outdated-14m7)
+- [Growing Great Engineering Teams Starts With Leadership](https://dev.to/jonathan_steve_406dc6a0ab/growing-great-engineering-teams-starts-with-leadership-452b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
