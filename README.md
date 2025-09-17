@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [think about my self with confident](https://dev.to/ttho7902/think-about-my-self-with-confident-14b0)
-- [How to Create and Customize Your GitHub Profile Repository](https://dev.to/aopstudio/how-to-create-and-customize-your-github-profile-repository-144o)
-- [A Summary of User Interactions in React Testing Library &lpar;fireEvent / userEvent&rpar;](https://dev.to/kazutora_hattori_66972c88/a-summary-of-user-interactions-in-react-testing-library-fireevent-userevent-8nl)
-- [I built a MAANG mock interview agent with my brother. We still can’t believe how well it works.](https://dev.to/fahimulhaq/i-built-a-maang-mock-interview-agent-with-my-brother-we-still-cant-believe-how-well-it-works-51n1)
-- [Code, Collaborate, Create: My Circuits are Buzzing for HackSpire’25!🎯🚀](https://dev.to/debaditya_saha_5b45172210/code-collaborate-create-my-circuits-are-buzzing-for-hackspire25-5oh)
+- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
+- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
+- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
+- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
+- [City Simulation with LLMs — Predicting Traffic &amp; Generating Natural-Language Reports](https://dev.to/preetkamal_singh_a2fe7281/city-simulation-with-llms-predicting-traffic-generating-natural-language-3f4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
