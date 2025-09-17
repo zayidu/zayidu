@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI outlines new initiatives to enhance teen safety, freedom, and privacy on its platform](https://dev.to/ytosko/openai-outlines-new-initiatives-to-enhance-teen-safety-freedom-and-privacy-on-its-platform-2dmb)
-- [IGN: Dying Light: The Beast – 8 Things It Doesn’t Tell You](https://dev.to/gg_news/ign-dying-light-the-beast-8-things-it-doesnt-tell-you-34n4)
-- [IGN: Anaconda - Official Trailer &lpar;2025&rpar; Jack Black, Paul Rudd, Steve Zahn](https://dev.to/gg_news/ign-anaconda-official-trailer-2025-jack-black-paul-rudd-steve-zahn-3ich)
-- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
-- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
+- [Authentication in Express with Mongoose &lpar;Step-by-Step Guide&rpar;](https://dev.to/suraj_kushwaha_009beb0a4a/authentication-in-express-with-mongoose-step-by-step-guide-1c1j)
+- [How to Build Your Own AI Agent with Conversation in 2025](https://dev.to/kniev_lenka_7d8ceefc4e93b/how-to-build-your-own-ai-agent-with-conversation-in-2025-3gnp)
+- [🚀 Scaffolder-Toolkit &lpar;dk&rpar;: Your Universal CLI for Professional Development](https://dev.to/it-wibrc/scaffolder-toolkit-dk-your-universal-cli-for-professional-development-52ap)
+- [Introducing: the pipeline framework](https://dev.to/mbarcia/introducing-the-pipeline-framework-44i)
+- [Composable Analytics with Agents: Leveraging Virtual Datasets and the Semantic Layer](https://dev.to/alexmercedcoder/composable-analytics-with-agents-leveraging-virtual-datasets-and-the-semantic-layer-535h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
