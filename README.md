@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/grexe/-4e46)
-- [🚀 How to Redesign Your Website Without Losing SEO &lpar;With a Little AI Help&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-to-redesign-your-website-without-losing-seo-with-a-little-ai-help-2lb2)
-- [IGN: Hollow Knight: Silksong Review](https://dev.to/gg_news/ign-hollow-knight-silksong-review-1efg)
-- [Understanding URLs, URIs, and URNs: A Beginner’s Guide to Web Identifiers](https://dev.to/mcheremnov/understanding-urls-uris-and-urns-a-beginners-guide-to-web-identifiers-1nfe)
-- [Managing Users and Access Rights in Odoo &lpar;for New Admins&rpar;](https://dev.to/midlaj_cybrosys_ab8a268cb/managing-users-and-access-rights-in-odoo-for-new-admins-4k8e)
+- [Resize Disk on VM Proxmox Non-LVM](https://dev.to/seno21/resize-disk-on-vm-proxmox-non-lvm-24oo)
+- [Deploy Vaultwarden on Nanocl](https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1)
+- [Is That Painting Real? Unveiling the Magic of Generative AI for Beginners](https://dev.to/karthik_n/is-that-painting-real-unveiling-the-magic-of-generative-ai-for-beginners-1cah)
+- [Top ServiceNow Trends for 2025: What’s Worth Your Time &lpar;and What’s Just Hype&rpar;](https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe)
+- [Beyond Translation: Mastering Localization Strategies to Win in Global Markets](https://dev.to/okoye_ndidiamaka_5e3b7d30/beyond-translation-mastering-localization-strategies-to-win-in-global-markets-3imh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
