@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh](https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed)
-- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-3h15)
-- [[Boost]](https://dev.to/clsource/-1k7p)
-- [Authentication Using Better-Auth &lpar;Basics Tutorial&rpar;](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1)
-- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea)
+- [My Top 5 Productivity Hacks That Will Seriously Change Your Workflow](https://dev.to/chapple_stallones_42e6e48/my-top-5-productivity-hacks-that-will-seriously-change-your-workflow-36m4)
+- [How Transcription Tools Supercharged My Learning and Content Workflow](https://dev.to/chapple_stallones_42e6e48/how-transcription-tools-supercharged-my-learning-and-content-workflow-8e5)
+- [How I Research YouTube Ads: Tools, APIs, and Workflows](https://dev.to/billy_byers_aa10922b91e0e/how-i-research-youtube-ads-tools-apis-and-workflows-2cha)
+- [Bill Split Calculator](https://dev.to/pikafenger/bill-split-calculator-5h78)
+- [SQL Server Ledger Tables: Complete Guide with Banking Example](https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
