@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Top 5 Productivity Hacks That Will Seriously Change Your Workflow](https://dev.to/chapple_stallones_42e6e48/my-top-5-productivity-hacks-that-will-seriously-change-your-workflow-36m4)
-- [How Transcription Tools Supercharged My Learning and Content Workflow](https://dev.to/chapple_stallones_42e6e48/how-transcription-tools-supercharged-my-learning-and-content-workflow-8e5)
-- [How I Research YouTube Ads: Tools, APIs, and Workflows](https://dev.to/billy_byers_aa10922b91e0e/how-i-research-youtube-ads-tools-apis-and-workflows-2cha)
-- [Bill Split Calculator](https://dev.to/pikafenger/bill-split-calculator-5h78)
-- [SQL Server Ledger Tables: Complete Guide with Banking Example](https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65)
+- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
+- [Descubriendo Supabase: mi mejor aliada para proyectos pequeños — en Flik](https://dev.to/barrerasaezgonzalo/descubriendo-supabase-mi-mejor-aliada-para-proyectos-pequenos-en-flik-31o2)
+- [Inside RISC-V Verification – A Hands-On Look at RISC-V Verification for Next-Gen Designs Using Synopsys’ Flow](https://dev.to/alpinumblogs/inside-risc-v-verification-a-hands-on-look-at-risc-v-verification-for-next-gen-designs-using-l1g)
+- [Lazy Loading Images and Its Impact on SEO](https://dev.to/ivanjarkov/lazy-loading-images-and-its-impact-on-seo-3fd3)
+- [Openfire Admin Console Auth Bypass &lpar;CVE-2023-32315&rpar; — From Path Traversal to RCE](https://dev.to/sharon_42e16b8da44dabde6d/openfire-admin-console-auth-bypass-cve-2023-32315-from-path-traversal-to-rce-131a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
