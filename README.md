@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
-- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
-- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
-- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
-- [City Simulation with LLMs — Predicting Traffic &amp; Generating Natural-Language Reports](https://dev.to/preetkamal_singh_a2fe7281/city-simulation-with-llms-predicting-traffic-generating-natural-language-3f4d)
+- [Budget Controls for AWS: Automatically Manage Your Cloud Costs](https://dev.to/namlahai9/budget-controls-for-aws-automatically-manage-your-cloud-costs-4m1d)
+- [NPR Music: Luiza Brina: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-luiza-brina-tiny-desk-concert-38j6)
+- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
+- [PromptCraft: Mini AI Prompt Generator App Spring AI and Spring Boot](https://dev.to/masteringbackend/promptcraft-mini-ai-prompt-generator-app-spring-ai-and-spring-boot-58dc)
+- [Unleashing the Power of Python File Handling: A Deep Dive into Reading and Writing Files](https://dev.to/vjnvisakh/unleashing-the-power-of-python-file-handling-a-deep-dive-into-reading-and-writing-files-41m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
