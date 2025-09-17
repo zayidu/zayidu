@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
-- [Descubriendo Supabase: mi mejor aliada para proyectos pequeños — en Flik](https://dev.to/barrerasaezgonzalo/descubriendo-supabase-mi-mejor-aliada-para-proyectos-pequenos-en-flik-31o2)
-- [Inside RISC-V Verification – A Hands-On Look at RISC-V Verification for Next-Gen Designs Using Synopsys’ Flow](https://dev.to/alpinumblogs/inside-risc-v-verification-a-hands-on-look-at-risc-v-verification-for-next-gen-designs-using-l1g)
-- [Lazy Loading Images and Its Impact on SEO](https://dev.to/ivanjarkov/lazy-loading-images-and-its-impact-on-seo-3fd3)
-- [Openfire Admin Console Auth Bypass &lpar;CVE-2023-32315&rpar; — From Path Traversal to RCE](https://dev.to/sharon_42e16b8da44dabde6d/openfire-admin-console-auth-bypass-cve-2023-32315-from-path-traversal-to-rce-131a)
+- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC - 37 Minutes of 4K Ultra Gameplay](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-37-minutes-of-4k-ultra-gameplay-59gf)
+- [The Invisible Price of AI: What Nobody Talks About 🤯](https://dev.to/ayusharpcoder/the-invisible-price-of-ai-what-nobody-talks-about-19io)
+- [Welcome Thread - v343](https://dev.to/devteam/welcome-thread-v343-2h5f)
+- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
+- [How to Search Electronic Components and Where to Find Them](https://dev.to/dongpei_liao_8092a14d7c50/how-to-search-electronic-components-and-where-to-find-them-2apk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
