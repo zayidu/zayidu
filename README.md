@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
-- [Why I’m Back to Web Components and Why You Should Be Too](https://dev.to/fedtti/why-im-back-to-web-components-and-why-you-should-be-too-n5h)
-- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
-- [How AI Can Predict the Success of Your Business Using Data from Google Maps](https://dev.to/noraina_nordin/how-ai-can-predict-the-success-of-your-business-using-data-from-google-maps-3821)
-- [Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️](https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j)
+- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-53ko)
+- [🚀 Day 18 of My Python Learning Journey](https://dev.to/_adii3107/day-18-of-my-python-learning-journey-2agb)
+- [DeepFabric is a Game Changer: 🚀 Build ⛓️-of-💭 Reasoning Datasets in Minutes Using Natural Prompts 💬](https://dev.to/sahilkapoordev/deepfabric-is-a-game-changer-build-of-reasoning-datasets-in-minutes-using-natural-prompts-5hee)
+- [「設計ミス」の社会を再編する：AIと共創する未来の働き方とシステム思考](https://dev.to/_6b2664c123f822f62319/she-ji-misu-noshe-hui-wozai-bian-suruaitogong-chuang-suruwei-lai-nodong-kifang-tosisutemusi-kao-2i8i)
+- [KEXP: Gold Celeste - Grand New Spin &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-grand-new-spin-live-on-kexp-18o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
