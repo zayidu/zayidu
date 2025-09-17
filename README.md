@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication in Express with Mongoose &lpar;Step-by-Step Guide&rpar;](https://dev.to/suraj_kushwaha_009beb0a4a/authentication-in-express-with-mongoose-step-by-step-guide-1c1j)
-- [How to Build Your Own AI Agent with Conversation in 2025](https://dev.to/kniev_lenka_7d8ceefc4e93b/how-to-build-your-own-ai-agent-with-conversation-in-2025-3gnp)
-- [🚀 Scaffolder-Toolkit &lpar;dk&rpar;: Your Universal CLI for Professional Development](https://dev.to/it-wibrc/scaffolder-toolkit-dk-your-universal-cli-for-professional-development-52ap)
-- [Introducing: the pipeline framework](https://dev.to/mbarcia/introducing-the-pipeline-framework-44i)
-- [Composable Analytics with Agents: Leveraging Virtual Datasets and the Semantic Layer](https://dev.to/alexmercedcoder/composable-analytics-with-agents-leveraging-virtual-datasets-and-the-semantic-layer-535h)
+- [My VPC Journey: Hosting a Website in a Multi-AZ Production Environment](https://dev.to/aditya_bhatt_0d5d74efea37/my-vpc-journey-hosting-a-website-in-a-multi-az-production-environment-4830)
+- [Context Window, explain like i&#39;m five](https://dev.to/koha/context-window-explain-like-im-five-2c92)
+- [KEXP: Gold Celeste - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-full-performance-live-on-kexp-3ano)
+- [Access Control in Web Apps: Backend + Frontend](https://dev.to/gzamann/access-control-in-web-apps-backend-frontend-5fc8)
+- [GameSpot: 20 Minutes of Battlefield 6 Operation Firestorm Gameplay](https://dev.to/gg_news/gamespot-20-minutes-of-battlefield-6-operation-firestorm-gameplay-14h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
