@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Business Intelligence Fundamentals Part 1: Roles and Tools](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-1-roles-and-tools-2d8e)
-- [Parámetro de seguridad/estabilidad con PNPM](https://dev.to/cris7ianj/parametro-de-seguridadestabilidad-con-pnpm-1om9)
-- [Smart Contract Upgradeability Patterns: A Developer&#39;s Guide](https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo)
-- [🔎 Kubernetes Architecture Demystified: A Beginner-Friendly Guide](https://dev.to/abhishek_korde_31/understanding-kubernetes-architecture-a-complete-guide-h7n)
-- [Exploring Discrete-Time Signals with MATLAB](https://dev.to/sajibpra/exploring-discrete-time-signals-with-matlab-6j)
+- [Rick Beato: The Nick Raskulinecz Interview: Crafting The Sounds Of Deftones, Foo Fighters, AIC and Rush](https://dev.to/music_youtube/rick-beato-the-nick-raskulinecz-interview-crafting-the-sounds-of-deftones-foo-fighters-aic-and-477m)
+- [IGN: Warborne Above Ashes - Official Trailer](https://dev.to/gg_news/ign-warborne-above-ashes-official-trailer-2ok2)
+- [IGN: WWE 2K25 - Official Attitude Era Superstars DLC 4 Trailer](https://dev.to/gg_news/ign-wwe-2k25-official-attitude-era-superstars-dlc-4-trailer-8f3)
+- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
+- [IGN: Nicktoons &amp; The Dice of Destiny - Official Jimmy Neutron Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-jimmy-neutron-reveal-trailer-2pdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
