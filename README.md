@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Attribute to Prevent Data Loss: How EF Core&#39;s `[Timestamp]` Saves Your Data](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
-- [Wishlist Button Web Component for Shopify 🛍️](https://dev.to/sebbanfa/wishlist-button-web-component-for-shopify-57nc)
-- [White Box Testing: The Complete Guide for Software Teams](https://dev.to/alok_e75d0463248211c2ca56/white-box-testing-the-complete-guide-for-software-teams-41no)
-- [Top Banking software development companies in 2025](https://dev.to/ma_verbilo_0299821842/top-banking-software-development-companies-in-2025-2l9g)
-- [How Haowang Used Telegram to Run a $27B Scam Empire for 5 Years](https://dev.to/scofieldidehen/how-haowang-used-telegram-to-run-a-27b-scam-empire-for-5-years-3ep5)
+- [OpenAI outlines new initiatives to enhance teen safety, freedom, and privacy on its platform](https://dev.to/ytosko/openai-outlines-new-initiatives-to-enhance-teen-safety-freedom-and-privacy-on-its-platform-2dmb)
+- [IGN: Dying Light: The Beast – 8 Things It Doesn’t Tell You](https://dev.to/gg_news/ign-dying-light-the-beast-8-things-it-doesnt-tell-you-34n4)
+- [IGN: Anaconda - Official Trailer &lpar;2025&rpar; Jack Black, Paul Rudd, Steve Zahn](https://dev.to/gg_news/ign-anaconda-official-trailer-2025-jack-black-paul-rudd-steve-zahn-3ich)
+- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
+- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
