@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Transition: Part 4 of 4 — The Return to Simplicity](https://dev.to/raheelshan/web-transition-part-4-of-4-the-return-to-simplicity-h)
-- [Web Transition: Part 1 of 4 — The Original Web](https://dev.to/raheelshan/web-transition-part-1-of-4-the-original-web-3of4)
-- [Web Transition: Part 2 of 4—The AJAX &amp; jQuery Awakening](https://dev.to/raheelshan/web-transition-part-2-of-4-the-ajax-jquery-awakening-2lee)
-- [Web Transition: Part 3 of 4—The SPA Takeover](https://dev.to/raheelshan/web-transition-part-3-of-4-the-spa-takeover-jmj)
-- [Building Your Own Load Balancer in Node.js](https://dev.to/colocohen/building-your-own-load-balancer-in-nodejs-on4)
+- [Introducing ts-base: A Modern TypeScript Library Template](https://dev.to/bgub/introducing-ts-base-a-modern-typescript-library-template-5g9n)
+- [IGN: Hyrule Warriors: Age of Imprisonment - Official &#39;Fight the Epic Imprisoning War&#39; Trailer](https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne)
+- [IGN: Arkheron - Official Reveal Trailer](https://dev.to/gg_news/ign-arkheron-official-reveal-trailer-416)
+- [IGN: Marvel Rivals - Official Technically Speaking Vol. 01](https://dev.to/gg_news/ign-marvel-rivals-official-technically-speaking-vol-01-1go3)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 12 - &#39;The Royal Tenenbaums’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-12-the-royal-tenenbaums-31gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
