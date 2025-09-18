@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Microbenchmark Harness&lpar;JMH&rpar;: StringBuilder vs String - quando performance importa](https://dev.to/soncastro/java-microbenchmark-harnessjmh-stringbuilder-vs-string-quando-performance-importa-5ad8)
-- [Java Web Services Tutorial: A Beginner’s Guide to Building APIs](https://dev.to/suraj_kumar_fb57ae0928df2/java-web-services-tutorial-a-beginners-guide-to-building-apis-lnp)
-- [Mastering JavaScript Break: A Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-break-a-complete-guide-with-examples-best-practices-38f2)
-- [Don&#39;t turn Right: journey through the monkeyverse](https://dev.to/dont_turnright_46e237bb77/dont-turn-right-journey-through-the-monkeyverse-4n3k)
-- [Buscador de Estatus Becas Benito Juárez 2025 &lpar;Actualizado&rpar;](https://dev.to/ilyas_khan_14e88f67b6657a/buscador-de-estatus-becas-benito-juarez-2025-actualizado-168m)
+- [Service Asset and Configuration Management Explained Simply](https://dev.to/teresa_tran/service-asset-and-configuration-management-explained-simply-nce)
+- [MySQL Shutdown Unexpectedly: Causes and Fixes for Developers](https://dev.to/dbvismarketing/mysql-shutdown-unexpectedly-causes-and-fixes-for-developers-2775)
+- [How to Program STM32 with STM32CubeIDE - The Complete Guide](https://dev.to/alexmo/how-to-program-stm32-with-stm32cubeide-the-complete-guide-ihc)
+- [Best Translation Software for Consulting Firms](https://dev.to/testjace/best-translation-software-for-consulting-firms-4ob)
+- [Understanding Security Concerns with Generative AI](https://dev.to/shajam/understanding-security-concerns-with-generative-ai-1pd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
