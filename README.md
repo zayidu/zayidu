@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/promyklunafreya_blackel/-fb4)
-- [CATALYST AI #GEMINI #AI #ART #TOOLS](https://dev.to/promyklunafreya_blackel/catalyst-ai-gemini-ai-art-tools-4n9m)
-- [The Game Theorists: Game Theory: Which CANON Marvel Rivals Team Is The Strongest?](https://dev.to/gg_news/the-game-theorists-game-theory-which-canon-marvel-rivals-team-is-the-strongest-10hd)
-- [GameSpot: Silent Hill f - Everything To Know](https://dev.to/gg_news/gamespot-silent-hill-f-everything-to-know-lhe)
-- [IGN: Ratatan - Official Early Access Cinematic Launch Trailer](https://dev.to/gg_news/ign-ratatan-official-early-access-cinematic-launch-trailer-mfo)
+- [Flores amarillas](https://dev.to/brian_ramirez_189536455f1/flores-amarillas-54e9)
+- [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
+- [Mechanised Learning — When the Plough Gives Way to Precision Gears, What Harvest Will the Mind Yield?](https://dev.to/black-ib/mechanised-learning-when-the-plough-gives-way-to-precision-gears-what-harvest-will-the-mind-dfa)
+- [6 .NET ORM Frameworks Worth Bookmarking](https://dev.to/lamri_abdellahramdane_15/6-net-orm-frameworks-worth-bookmarking-d3e)
+- [IA Generativa: Un Nuevo Paradigma en la Inteligencia Artificial](https://dev.to/franciscojeg78/ia-generativa-un-nuevo-paradigma-en-la-inteligencia-artificial-ck4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
