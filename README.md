@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clprolf Docs #4 — Interfaces in Clprolf: A Complete Overview](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-4-interfaces-in-clprolf-a-complete-overview-3d2e)
-- [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
-- [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
-- [Prompt Engineering vs Prompt Tuning : where does the real power lie?](https://dev.to/snehaup1997/prompt-engineering-vs-prompt-tuning-where-does-the-real-power-lie-2d97)
-- [Mastering Whitespace and Newlines in Django Templates: The Ultimate Guide 🎯](https://dev.to/bharat_solanke_8e45411fa6/mastering-whitespace-and-newlines-in-django-templates-the-ultimate-guide-5eii)
+- [Amazon ElastiCache Redis as a Vector Embeddings Storage for Semantic Search in AWS Community Blog posts](https://dev.to/aws-builders/amazon-elasticache-redis-as-a-vector-embeddings-storage-for-semantic-search-in-aws-community-blog-4igj)
+- [Advances in Radio Engineering: Insights from Dr. Alexey Bashkirov, PhD](https://dev.to/alexeybashkirov/advances-in-radio-engineering-insights-from-dr-alexey-bashkirov-phd-1bgj)
+- [Break Through Data Silos: Practices of Multi-cloud Observability Integration Based on Object Storage Service &lpar;OSS&rpar;](https://dev.to/observabilityguy/break-through-data-silos-practices-of-multi-cloud-observability-integration-based-on-object-5abo)
+- [Comparing transitive dependency version resolution in Rust and Java](https://dev.to/nfrankel/comparing-transitive-dependency-version-resolution-in-rust-and-java-5h1h)
+- [Outil de Cybersécurité du Jour - Sep 18, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-18-2025-nnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
