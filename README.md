@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
-- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
-- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
-- [Why Everyone Says .NET Can’t Handle High Concurrency &lpar;And Why That’s Outdated&rpar;](https://dev.to/lamri_abdellahramdane_15/why-everyone-says-net-cant-handle-high-concurrency-and-why-thats-outdated-14m7)
-- [Growing Great Engineering Teams Starts With Leadership](https://dev.to/jonathan_steve_406dc6a0ab/growing-great-engineering-teams-starts-with-leadership-452b)
+- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
+- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
+- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0)
+- [Today I Learned: Layouts and the Z-Index Trap in React](https://dev.to/minoosh/today-i-learned-layouts-and-the-z-index-trap-in-react-366f)
+- [The next step in privacy: A messenger that doesn&#39;t send data and doesn&#39;t keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
