@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ShatterRush - Pre-Alpha Gameplay Trailer](https://dev.to/gg_news/gamespot-shatterrush-pre-alpha-gameplay-trailer-271i)
-- [IGN: EA Sports FC 26 - Official &#39;The Club is Yours&#39; Launch Trailer](https://dev.to/gg_news/ign-ea-sports-fc-26-official-the-club-is-yours-launch-trailer-pgp)
-- [IGN: The Carpenter&#39;s Son - Official Teaser Trailer &lpar;2025&rpar; Nicolas Cage, FKA twigs, Noah Jupe](https://dev.to/gg_news/ign-the-carpenters-son-official-teaser-trailer-2025-nicolas-cage-fka-twigs-noah-jupe-h2k)
-- [IGN: Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles 2 - Official Muzan Kibutsuji Trailer](https://dev.to/gg_news/ign-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-official-muzan-kibutsuji-trailer-1072)
-- [IGN: Vampire: The Masquerade - Bloodlines 2 - Official Malkavian Fabien Gameplay Trailer](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-official-malkavian-fabien-gameplay-trailer-42d4)
+- [🎨 Tailwind CSS: The Utility-First Approach Explained](https://dev.to/kaif_zaki_c96b5d3db7a801f/tailwind-css-the-utility-first-approach-explained-4gdf)
+- [🚀 CI/CD real en AWS con Terraform y despliegue Blue/Green](https://dev.to/karlos_eduardocetina_715/cicd-real-en-aws-con-terraform-y-despliegue-bluegreen-o34)
+- [Python&#39;s Most Famous Gotcha: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/pythons-most-famous-gotcha-the-mutable-default-argument-jfo)
+- [⚛️ Getting Started with React + TypeScript: A Beginner’s Guide](https://dev.to/kaif_zaki_c96b5d3db7a801f/getting-started-with-react-typescript-a-beginners-guide-3n3b)
+- [Guía de Estudio: Conceptos Fundamentales y Aplicados de IA en AWS](https://dev.to/franciscojeg78/guia-de-estudio-conceptos-fundamentales-y-aplicados-de-ia-en-aws-18i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
