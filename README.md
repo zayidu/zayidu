@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
-- [🔁 RingCentral – Round 2: Implement `JSON.stringify&lpar;&rpar;` from scratch](https://dev.to/ml318097/ringcentral-round-2-implement-jsonstringify-from-scratch-6hn)
-- [From Meeting Sprawl to ROI: Overtime Alerts &amp; “Land the Plane”](https://dev.to/nikita_kutafiev_c087adc8d/from-meeting-sprawl-to-roi-overtime-alerts-land-the-plane-5do8)
-- [Achieving Work-Life Balance in the Digital Age](https://dev.to/mattylantz/achieving-work-life-balance-in-the-digital-age-181a)
-- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools and Real-world Implementation Strategies](https://dev.to/emwirigi/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-feg)
+- [Enterprise Software Vendors: Drive Compliance &amp; Customer Insights with MindsDB Knowledge Bases + Hybrid Search](https://dev.to/mindsdb/enterprise-software-vendors-drive-compliance-customer-insights-with-mindsdb-knowledge-bases--3afo)
+- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
+- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
+- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
+- [IGN: How GTA 6 Could Take Over Pop Culture - Unlocked Clips](https://dev.to/gg_news/ign-how-gta-6-could-take-over-pop-culture-unlocked-clips-15k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
