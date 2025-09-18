@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Learning Code the Slow Way. Here&#39;s My AI Playbook to Learn 5x Faster](https://dev.to/nhi_ng/stop-learning-code-the-slow-way-heres-my-ai-playbook-to-learn-5x-faster-4ide)
-- [Independent development of side hustles](https://dev.to/junyu_fang_a216509a97501d/independent-development-of-side-hustles-2kef)
-- [Step 5: Design a Rate Limiter - Algorithm and Technique](https://dev.to/zeeshanali0704/step-5-design-a-rate-limiter-algorithm-and-technique-3hbo)
-- [🚀 Supercharge Your FastAPI WebSockets with Channel Layers &amp; Group Messaging](https://dev.to/huynguyengl99/supercharge-your-fastapi-websockets-with-channel-layers-group-messaging-19kb)
-- [🚀 How I Built an AI SaaS Product Description Generator with Next.js + OpenAI](https://dev.to/soasme/how-i-built-an-ai-saas-product-description-generator-with-nextjs-openai-596d)
+- [My First Steps in Competitive Programming](https://dev.to/skr0411/my-first-steps-in-competitive-programming-34jl)
+- [The DevOps Engineer&#39;s Guide to AWS Cost Explorer](https://dev.to/sreekanth_kuruba_91721e5d/the-devops-engineers-guide-to-aws-cost-explorer-4npa)
+- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
+- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
+- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
