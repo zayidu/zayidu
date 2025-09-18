@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
-- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
-- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0)
-- [Today I Learned: Layouts and the Z-Index Trap in React](https://dev.to/minoosh/today-i-learned-layouts-and-the-z-index-trap-in-react-366f)
-- [The next step in privacy: A messenger that doesn&#39;t send data and doesn&#39;t keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4)
+- [Stop Learning Code the Slow Way. Here&#39;s My AI Playbook to Learn 5x Faster](https://dev.to/nhi_ng/stop-learning-code-the-slow-way-heres-my-ai-playbook-to-learn-5x-faster-4ide)
+- [Independent development of side hustles](https://dev.to/junyu_fang_a216509a97501d/independent-development-of-side-hustles-2kef)
+- [Step 5: Design a Rate Limiter - Algorithm and Technique](https://dev.to/zeeshanali0704/step-5-design-a-rate-limiter-algorithm-and-technique-3hbo)
+- [🚀 Supercharge Your FastAPI WebSockets with Channel Layers &amp; Group Messaging](https://dev.to/huynguyengl99/supercharge-your-fastapi-websockets-with-channel-layers-group-messaging-19kb)
+- [🚀 How I Built an AI SaaS Product Description Generator with Next.js + OpenAI](https://dev.to/soasme/how-i-built-an-ai-saas-product-description-generator-with-nextjs-openai-596d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
