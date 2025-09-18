@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
-- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
-- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
-- [AWS Networking, End to End: a production blueprint with diagrams and checklists](https://dev.to/t2c/aws-networking-end-to-end-a-production-blueprint-with-diagrams-and-checklists-3gmo)
-- [Should You Partner with KOLs or KOCs? A Solopreneur’s Guide to Influencer Campaigns](https://dev.to/uspeedoai/should-you-partner-with-kols-or-kocs-a-solopreneurs-guide-to-influencer-campaigns-1pij)
+- [Day 4 - The Parser!](https://dev.to/lahari_tenneti_4a8a082e9c/day-4-the-parser-582l)
+- [Harnessing the Future of Data Centers: A Definitive Examination of the Cisco QDD-400G-LR8-S Transceiver](https://dev.to/etechbuy/harnessing-the-future-of-data-centers-a-definitive-examination-of-the-cisco-qdd-400g-lr8-s-50aa)
+- [3 AM Wake-Up Calls Made Me Realize IT Support is Broken. Here&#39;s My AI Fix.](https://dev.to/francis_ngari/3-am-wake-up-calls-made-me-realize-it-support-is-broken-heres-my-ai-fix-2ho1)
+- [Web Developer Travis McCracken on Rust Macros That Save Me Time](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-macros-that-save-me-time-4gob)
+- [showDirectoryPicker&lpar;&rpar; open](https://dev.to/bhushan_harpade_e5b0d9849/showdirectorypicker-open-3fe9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
