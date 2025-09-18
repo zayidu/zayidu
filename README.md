@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 - The Parser!](https://dev.to/lahari_tenneti_4a8a082e9c/day-4-the-parser-582l)
-- [Harnessing the Future of Data Centers: A Definitive Examination of the Cisco QDD-400G-LR8-S Transceiver](https://dev.to/etechbuy/harnessing-the-future-of-data-centers-a-definitive-examination-of-the-cisco-qdd-400g-lr8-s-50aa)
-- [3 AM Wake-Up Calls Made Me Realize IT Support is Broken. Here&#39;s My AI Fix.](https://dev.to/francis_ngari/3-am-wake-up-calls-made-me-realize-it-support-is-broken-heres-my-ai-fix-2ho1)
-- [Web Developer Travis McCracken on Rust Macros That Save Me Time](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-macros-that-save-me-time-4gob)
-- [showDirectoryPicker&lpar;&rpar; open](https://dev.to/bhushan_harpade_e5b0d9849/showdirectorypicker-open-3fe9)
+- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
+- [🔁 RingCentral – Round 2: Implement `JSON.stringify&lpar;&rpar;` from scratch](https://dev.to/ml318097/ringcentral-round-2-implement-jsonstringify-from-scratch-6hn)
+- [From Meeting Sprawl to ROI: Overtime Alerts &amp; “Land the Plane”](https://dev.to/nikita_kutafiev_c087adc8d/from-meeting-sprawl-to-roi-overtime-alerts-land-the-plane-5do8)
+- [Achieving Work-Life Balance in the Digital Age](https://dev.to/mattylantz/achieving-work-life-balance-in-the-digital-age-181a)
+- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools and Real-world Implementation Strategies](https://dev.to/emwirigi/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-feg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
