@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Competitive Programming](https://dev.to/skr0411/my-first-steps-in-competitive-programming-34jl)
-- [The DevOps Engineer&#39;s Guide to AWS Cost Explorer](https://dev.to/sreekanth_kuruba_91721e5d/the-devops-engineers-guide-to-aws-cost-explorer-4npa)
-- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
-- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
-- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
+- [Top Next.js Shadcn UI Templates for Websites and Admin Dashboards](https://dev.to/isanjayjoshi/top-nextjs-shadcn-ui-templates-for-websites-and-admin-dashboards-6m6)
+- [How to use an background or reference image in Blender](https://dev.to/irender_gpu_cloud/how-to-use-an-background-or-reference-image-in-blender-p65)
+- [IGN: Town to City - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-town-to-city-official-early-access-launch-trailer-5al2)
+- [IGN: Tank Havoc - Official Announcement Trailer](https://dev.to/gg_news/ign-tank-havoc-official-announcement-trailer-286b)
+- [🚀 Translate 10,000 messages in under 100 seconds — easy, fast, lightweight with Laravel GeoGenius](https://dev.to/devrabiul/translate-10000-messages-in-under-100-seconds-easy-fast-lightweight-with-laravel-geogenius-336a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
