@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 React Tips That Will Make You a Better Developer](https://dev.to/jay_sarvaiya_f85e7148bb57/7-react-tips-that-will-make-you-a-better-developer-1a64)
-- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
-- [JavaScript DOM Manipulation: How to Change Website Content Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-change-website-content-dynamically-1d5d)
-- [Set Up AWS Alerts to catch Cost Spikes and Security Risks](https://dev.to/secesther/set-up-aws-alerts-to-catch-cost-spikes-and-security-risks-54o3)
-- [✨ When a Community Event Turns Into a Festival of Learning – AWS Community Day Vadodara 2025](https://dev.to/aricpandya_security/when-a-community-event-turns-into-a-festival-of-learning-aws-community-day-vadodara-2025-4k8a)
+- [Java Microbenchmark Harness&lpar;JMH&rpar;: StringBuilder vs String - quando performance importa](https://dev.to/soncastro/java-microbenchmark-harnessjmh-stringbuilder-vs-string-quando-performance-importa-5ad8)
+- [Java Web Services Tutorial: A Beginner’s Guide to Building APIs](https://dev.to/suraj_kumar_fb57ae0928df2/java-web-services-tutorial-a-beginners-guide-to-building-apis-lnp)
+- [Mastering JavaScript Break: A Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-break-a-complete-guide-with-examples-best-practices-38f2)
+- [Don&#39;t turn Right: journey through the monkeyverse](https://dev.to/dont_turnright_46e237bb77/dont-turn-right-journey-through-the-monkeyverse-4n3k)
+- [Buscador de Estatus Becas Benito Juárez 2025 &lpar;Actualizado&rpar;](https://dev.to/ilyas_khan_14e88f67b6657a/buscador-de-estatus-becas-benito-juarez-2025-actualizado-168m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
