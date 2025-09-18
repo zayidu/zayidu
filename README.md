@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
-- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
-- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
-- [Self-Signed TLS ile Private Docker Registry Kurulumu ve Rancher Entegrasyonu](https://dev.to/erenalpteksen/self-signed-tls-ile-private-docker-registry-kurulumu-ve-rancher-entegrasyonu-1ppc)
-- [Open-source portfolio tracker – looking for 5–7 minute beta feedback](https://dev.to/pocketportfolio/open-source-portfolio-tracker-looking-for-5-7-minute-beta-feedback-jac)
+- [Cercle: Two Lanes - Signs of Change &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-two-lanes-signs-of-change-live-version-cercle-odyssey-4ng0)
+- [Introducing: Clips Open-Source AI Clipping Tool for Every Creator](https://dev.to/samyaksgupta/introducing-clips-open-source-ai-clipping-tool-for-every-creator-3jhk)
+- [Golf.com: The Ultimate Golf Pilgrimage: 3 Legendary English Courses in A Day](https://dev.to/youtube_golf/golfcom-the-ultimate-golf-pilgrimage-3-legendary-english-courses-in-a-day-3poh)
+- [GameSpot: Dying Light The Beast Review](https://dev.to/gg_news/gamespot-dying-light-the-beast-review-3pdp)
+- [IGN: Ghost of Yotei - Official &#39;The Hunt Begins&#39; Cinematic Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-the-hunt-begins-cinematic-trailer-kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
