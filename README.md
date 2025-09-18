@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Recaptcha V3 on Flutter | Flutter Recaptcha V3](https://dev.to/vatana7/implementing-recaptcha-v3-on-flutter-flutter-recaptcha-v3-144d)
-- [OLAP vs OLTP — What Every Beginner Should Know](https://dev.to/arindam-sahoo/olap-vs-oltp-what-every-beginner-should-know-k3j)
-- [🔥 The Hidden Superpowers of TinyGo: How to Run Go Code on Microcontrollers and Beyond!](https://dev.to/ekwoster/the-hidden-superpowers-of-tinygo-how-to-run-go-code-on-microcontrollers-and-beyond-130j)
-- [Dev Log 21 - Drag And Drop](https://dev.to/asx/dev-log-21-drag-and-drop-3a53)
-- [Understanding Variables and Data Types for Beginners](https://dev.to/roghaye_mohammadi_84/understanding-variables-and-data-types-for-beginners-9g7)
+- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
+- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
+- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
+- [Self-Signed TLS ile Private Docker Registry Kurulumu ve Rancher Entegrasyonu](https://dev.to/erenalpteksen/self-signed-tls-ile-private-docker-registry-kurulumu-ve-rancher-entegrasyonu-1ppc)
+- [Open-source portfolio tracker – looking for 5–7 minute beta feedback](https://dev.to/pocketportfolio/open-source-portfolio-tracker-looking-for-5-7-minute-beta-feedback-jac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
