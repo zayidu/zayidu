@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Tailwind CSS: The Utility-First Approach Explained](https://dev.to/kaif_zaki_c96b5d3db7a801f/tailwind-css-the-utility-first-approach-explained-4gdf)
-- [🚀 CI/CD real en AWS con Terraform y despliegue Blue/Green](https://dev.to/karlos_eduardocetina_715/cicd-real-en-aws-con-terraform-y-despliegue-bluegreen-o34)
-- [Python&#39;s Most Famous Gotcha: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/pythons-most-famous-gotcha-the-mutable-default-argument-jfo)
-- [⚛️ Getting Started with React + TypeScript: A Beginner’s Guide](https://dev.to/kaif_zaki_c96b5d3db7a801f/getting-started-with-react-typescript-a-beginners-guide-3n3b)
-- [Guía de Estudio: Conceptos Fundamentales y Aplicados de IA en AWS](https://dev.to/franciscojeg78/guia-de-estudio-conceptos-fundamentales-y-aplicados-de-ia-en-aws-18i0)
+- [[Boost]](https://dev.to/promyklunafreya_blackel/-fb4)
+- [CATALYST AI #GEMINI #AI #ART #TOOLS](https://dev.to/promyklunafreya_blackel/catalyst-ai-gemini-ai-art-tools-4n9m)
+- [The Game Theorists: Game Theory: Which CANON Marvel Rivals Team Is The Strongest?](https://dev.to/gg_news/the-game-theorists-game-theory-which-canon-marvel-rivals-team-is-the-strongest-10hd)
+- [GameSpot: Silent Hill f - Everything To Know](https://dev.to/gg_news/gamespot-silent-hill-f-everything-to-know-lhe)
+- [IGN: Ratatan - Official Early Access Cinematic Launch Trailer](https://dev.to/gg_news/ign-ratatan-official-early-access-cinematic-launch-trailer-mfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
