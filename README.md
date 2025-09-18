@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon ElastiCache Redis as a Vector Embeddings Storage for Semantic Search in AWS Community Blog posts](https://dev.to/aws-builders/amazon-elasticache-redis-as-a-vector-embeddings-storage-for-semantic-search-in-aws-community-blog-4igj)
-- [Advances in Radio Engineering: Insights from Dr. Alexey Bashkirov, PhD](https://dev.to/alexeybashkirov/advances-in-radio-engineering-insights-from-dr-alexey-bashkirov-phd-1bgj)
-- [Break Through Data Silos: Practices of Multi-cloud Observability Integration Based on Object Storage Service &lpar;OSS&rpar;](https://dev.to/observabilityguy/break-through-data-silos-practices-of-multi-cloud-observability-integration-based-on-object-5abo)
-- [Comparing transitive dependency version resolution in Rust and Java](https://dev.to/nfrankel/comparing-transitive-dependency-version-resolution-in-rust-and-java-5h1h)
-- [Outil de Cybersécurité du Jour - Sep 18, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-18-2025-nnm)
+- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
+- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
+- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
+- [Left my Product Director Job and created a Product Learning app &lpar;Like Duolingo&rpar;. WDYT?](https://dev.to/andrea_mezzadra/left-my-product-director-job-and-created-a-product-learning-app-like-duolingo-wdyt-4jg9)
+- [ElevenLabs &amp; proxies: essential integration guide](https://dev.to/astro-official/elevenlabs-proxies-essential-integration-guide-2nh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
