@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Pro Tip: Mastering *args and **kwargs &lpar;Argument Packing Explained&rpar; 🎁](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-mastering-args-and-kwargs-argument-packing-explained-3iii)
-- [TCJSGame: A Complete JavaScript Game Engine Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-a-complete-javascript-game-engine-reference-guide-2f70)
-- [API Rate Limiting Explained: How to Use Free APIs Without Getting Blocked &lpar;2025&rpar;](https://dev.to/kraizy_amy_a80dacf26d203d/api-rate-limiting-explained-how-to-use-free-apis-without-getting-blocked-2025-4iap)
-- [IGN: My Status as an Assassin Obviously Exceeds the Hero’s - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-my-status-as-an-assassin-obviously-exceeds-the-heros-official-trailer-english-subtitles-5dn4)
-- [IGN: Trails in the Sky 1st Chapter - The First 20 Minutes of Gameplay](https://dev.to/gg_news/ign-trails-in-the-sky-1st-chapter-the-first-20-minutes-of-gameplay-1d3n)
+- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
+- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
+- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
+- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
+- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
