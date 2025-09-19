@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
-- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
-- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
-- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
-- [Is This The New Scam on Dev?](https://dev.to/scofieldidehen/is-this-the-new-scam-on-dev-302k)
+- [KEXP: Mei Semones - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-full-performance-live-on-kexp-35en)
+- [GameSpot: HYPERFUNK - Official Teaser Trailer](https://dev.to/gg_news/gamespot-hyperfunk-official-teaser-trailer-9c9)
+- [IGN: Magic: The Gathering | Marvel&#39;s Spider-Man - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-marvels-spider-man-official-trailer-34n6)
+- [IGN: Baby Steps - Official &#39;A Very Unprofessional&#39; Developer Overview Video](https://dev.to/gg_news/ign-baby-steps-official-a-very-unprofessional-developer-overview-video-1lni)
+- [IGN: Jump Space: Official Early Access Launch Trailer](https://dev.to/gg_news/ign-jump-space-official-early-access-launch-trailer-4f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
