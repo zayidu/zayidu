@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Remote Access with AWS Verified Access](https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9)
-- [JavaScript DOM: A Beginner’s Guide to Changing Styles and Classes](https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-changing-styles-and-classes-32b)
-- [The Battle of Real-Time Databases: Firebase vs Supabase vs Postgres](https://dev.to/dct_technology/the-battle-of-real-time-databases-firebase-vs-supabase-vs-postgres-3gfc)
-- [Best Platform to Learn Google Cloud Platform: A Dev’s Take](https://dev.to/stack_overflowed/best-platform-to-learn-google-cloud-platform-a-devs-take-4027)
-- [Pick a Translation API Without Regrets in 2025](https://dev.to/naitsirhc/pick-a-translation-api-without-regrets-in-2025-3fa6)
+- [Embedded SBCs in Industrial Automation: Roles and Challenges](https://dev.to/lauraaa/embedded-sbcs-in-industrial-automation-roles-and-challenges-2fc2)
+- [Supermaker ai: The AI Tool for Streamlining Creative Work](https://dev.to/juddiy/supermaker-ai-the-ai-tool-for-streamlining-creative-work-fbc)
+- [Teleport a Component in Angular &lpar;and Keep Its State&rpar;](https://dev.to/brianmtreese/teleport-a-component-in-angular-and-keep-its-state-590e)
+- [Bugs wear data. Let&#39;s check Apache NiFi](https://dev.to/pvsdev/bugs-wear-data-lets-check-apache-nifi-2ehk)
+- [Shad cn vue Like Nuxt/Vue Librarys :fire:](https://dev.to/leamsigc/shad-cn-vue-like-nuxtvue-librarys-fire-23k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
