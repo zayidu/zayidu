@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mocking APIs Made Simple: Pain Points, Solutions &amp; Best Practices with EchoAPI](https://dev.to/eleanor_fairfax_5ce95399d/mocking-apis-made-simple-pain-points-solutions-best-practices-with-echoapi-i2d)
-- [How Accent Conversion Software is Transforming Communication in Contact Centers?](https://dev.to/allandermot/how-accent-conversion-software-is-transforming-communication-in-contact-centers-2ipe)
-- [[Boost]](https://dev.to/pravesh_sudha_3c2b0c2b5e0/-1eb7)
-- [Let’s find out the best FREE WordPress Form plugin](https://dev.to/faisalahammad/lets-find-out-the-best-free-wordpress-form-plugin-dj9)
-- [What is Laravel MCP?](https://dev.to/ethanleetech/what-is-laravel-mcp-3jg5)
+- [Java Concurrency Model - Part II - CountDownLatch](https://dev.to/sommukhopadhyay/java-concurrency-model-part-ii-countdownlatch-4cke)
+- [The Command Pattern in Python...](https://dev.to/sommukhopadhyay/the-command-pattern-in-python-3hco)
+- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
+- [IGN: It’s Expensive Being a Nintendo Fan in 2025 - NVC Clips](https://dev.to/gg_news/ign-its-expensive-being-a-nintendo-fan-in-2025-nvc-clips-lni)
+- [IGN: Goddess of Victory: Nikke x Resident Evil - Official Reborn Evil Trailer](https://dev.to/gg_news/ign-goddess-of-victory-nikke-x-resident-evil-official-reborn-evil-trailer-2i10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
