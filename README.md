@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux - File Commands](https://dev.to/aravinlinux/linux-file-commands-4n66)
-- [Introduction to Gonyx](https://dev.to/abibeh/introduction-to-gonyx-4jd7)
-- [Why Every Web Developer Builds a To-Do App &lpar;And Why You Should Too!&rpar;](https://dev.to/manikanta_ketha_bf00556e9/why-every-web-developer-builds-a-to-do-app-and-why-you-should-too-9f0)
-- [NPR Music: Lido Pimienta: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-lido-pimienta-tiny-desk-concert-21oj)
-- [DevSecOps FAQs](https://dev.to/lynxfelony1/devsecops-faqs-39af)
+- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
+- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
+- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
+- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
+- [Duffel vs Amadeus: Which Works Better for Modern API-First Integration?](https://dev.to/ravi_makhija/duffel-vs-amadeus-which-works-better-for-modern-api-first-integration-49p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
