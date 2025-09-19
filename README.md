@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
-- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
-- [Release 0.1](https://dev.to/kkrishnan10/release-01-2eo0)
-- [The Hidden Empire of AI Grammar: Power Without Politicians](https://dev.to/agustin_v_startari/the-hidden-empire-of-ai-grammar-power-without-politicians-4on8)
-- [Python Pro Tip: Unpack Your Variables Like a Boss](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-unpack-your-variables-like-a-boss-4j4b)
+- [Python Pro Tip: Mastering *args and **kwargs &lpar;Argument Packing Explained&rpar; 🎁](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-mastering-args-and-kwargs-argument-packing-explained-3iii)
+- [TCJSGame: A Complete JavaScript Game Engine Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-a-complete-javascript-game-engine-reference-guide-2f70)
+- [API Rate Limiting Explained: How to Use Free APIs Without Getting Blocked &lpar;2025&rpar;](https://dev.to/kraizy_amy_a80dacf26d203d/api-rate-limiting-explained-how-to-use-free-apis-without-getting-blocked-2025-4iap)
+- [IGN: My Status as an Assassin Obviously Exceeds the Hero’s - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-my-status-as-an-assassin-obviously-exceeds-the-heros-official-trailer-english-subtitles-5dn4)
+- [IGN: Trails in the Sky 1st Chapter - The First 20 Minutes of Gameplay](https://dev.to/gg_news/ign-trails-in-the-sky-1st-chapter-the-first-20-minutes-of-gameplay-1d3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
