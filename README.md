@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔬 PF–AI Simulation Lab: How I Built a Full-Stack AI Research Platform to Accelerate Pulmonary Fibrosis Discovery](https://dev.to/ghostking314/pf-ai-simulation-lab-how-i-built-a-full-stack-ai-research-platform-to-accelerate-pulmonary-1hk6)
-- [COLORS: Ray Lozano - HiYA | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-hiya-a-colors-show-59a)
-- [Trash Theory: The 7 Songs To Blame For Stomp Clap Hey](https://dev.to/music_youtube/trash-theory-the-7-songs-to-blame-for-stomp-clap-hey-dg0)
-- [8-Bit Music Theory: Live Transcribe Stean Gardens from Super Mario Odyssey](https://dev.to/music_youtube/8-bit-music-theory-live-transcribe-stean-gardens-from-super-mario-odyssey-2jc2)
-- [GameSpot: Ghost of Yotei Everything To Know](https://dev.to/gg_news/gamespot-ghost-of-yotei-everything-to-know-55na)
+- [WIP is waste](https://dev.to/jonasbn/wip-is-waste-208n)
+- [The Repo Packager: My OSD600 CLI That Helps Me Learn Faster](https://dev.to/oleksandrakordonets/the-repo-packager-my-osd600-cli-that-helps-me-learn-faster-213i)
+- [Installing Openshift: The hard way!](https://dev.to/andre_rocha_b9cf185456d05/installing-openshift-the-hard-way-4oie)
+- [Supercharge Your AI Agents with a Custom RAG Pipeline Powered by Live Web Data](https://dev.to/extractdata/supercharge-your-ai-agents-with-a-custom-rag-pipeline-powered-by-live-web-data-57fl)
+- [Behavioral interview Preparation](https://dev.to/ashutoshsarangi/behavioral-interview-preparation-93e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
