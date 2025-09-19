@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino IDE Configuration for ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/arduino-ide-configuration-for-esp32-c3-devkitm-1-rust-1-5d99)
-- [C++ 20 multi threaded programming - the introduction of std::atomic...](https://dev.to/sommukhopadhyay/c-20-multi-threaded-programming-the-introduction-of-stdatomic-1cog)
-- [Mastering Laravel 12 Events: How to Define and Control Listener Execution Order with O&lpar;1&rpar; Complexity](https://dev.to/cmmishra9/mastering-laravel-12-events-how-to-define-and-control-listener-execution-order-with-o1-complexity-4id2)
-- [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
-- [Modernize Open Source Bootstrap 5 Admin Dashboard Template](https://dev.to/vaibhavg/modernize-open-source-bootstrap-5-admin-dashboard-template-bao)
+- [Secure Remote Access with AWS Verified Access](https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9)
+- [JavaScript DOM: A Beginner’s Guide to Changing Styles and Classes](https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-changing-styles-and-classes-32b)
+- [The Battle of Real-Time Databases: Firebase vs Supabase vs Postgres](https://dev.to/dct_technology/the-battle-of-real-time-databases-firebase-vs-supabase-vs-postgres-3gfc)
+- [Best Platform to Learn Google Cloud Platform: A Dev’s Take](https://dev.to/stack_overflowed/best-platform-to-learn-google-cloud-platform-a-devs-take-4027)
+- [Pick a Translation API Without Regrets in 2025](https://dev.to/naitsirhc/pick-a-translation-api-without-regrets-in-2025-3fa6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
