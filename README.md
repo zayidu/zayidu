@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Mei Semones - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-full-performance-live-on-kexp-35en)
-- [GameSpot: HYPERFUNK - Official Teaser Trailer](https://dev.to/gg_news/gamespot-hyperfunk-official-teaser-trailer-9c9)
-- [IGN: Magic: The Gathering | Marvel&#39;s Spider-Man - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-marvels-spider-man-official-trailer-34n6)
-- [IGN: Baby Steps - Official &#39;A Very Unprofessional&#39; Developer Overview Video](https://dev.to/gg_news/ign-baby-steps-official-a-very-unprofessional-developer-overview-video-1lni)
-- [IGN: Jump Space: Official Early Access Launch Trailer](https://dev.to/gg_news/ign-jump-space-official-early-access-launch-trailer-4f2)
+- [From Zero to Java: Day 2 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-2-of-my-backend-development-journey-4go6)
+- [Manual Testing in the AI Era](https://dev.to/pooja_shyam_643fff420b3a8/manual-testing-in-the-ai-era-2273)
+- [Virtualization vs. Containerization: The Ultimate Showdown](https://dev.to/raj_singhal/virtualization-vs-containerization-the-ultimate-showdown-gij)
+- [The Evolution of AI Technology: Opportunities, Challenges, and the Road Ahead](https://dev.to/keya_khatun_b0884129bc101/the-evolution-of-ai-technology-opportunities-challenges-and-the-road-ahead-1a89)
+- [Hello DEV Community! 👋](https://dev.to/miteshdhabekar/hello-dev-community-1bno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
