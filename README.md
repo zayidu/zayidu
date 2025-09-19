@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded SBCs in Industrial Automation: Roles and Challenges](https://dev.to/lauraaa/embedded-sbcs-in-industrial-automation-roles-and-challenges-2fc2)
-- [Supermaker ai: The AI Tool for Streamlining Creative Work](https://dev.to/juddiy/supermaker-ai-the-ai-tool-for-streamlining-creative-work-fbc)
-- [Teleport a Component in Angular &lpar;and Keep Its State&rpar;](https://dev.to/brianmtreese/teleport-a-component-in-angular-and-keep-its-state-590e)
-- [Bugs wear data. Let&#39;s check Apache NiFi](https://dev.to/pvsdev/bugs-wear-data-lets-check-apache-nifi-2ehk)
-- [Shad cn vue Like Nuxt/Vue Librarys :fire:](https://dev.to/leamsigc/shad-cn-vue-like-nuxtvue-librarys-fire-23k8)
+- [Blueprints and X-Rays: A Guide to OOP and Reflection in OSE](https://dev.to/codigger/blueprints-and-x-rays-a-guide-to-oop-and-reflection-in-ose-2n0a)
+- [Building Production-Ready Serverless Applications with AWS Lambda and API Gateway](https://dev.to/muhammad_usman_35b52e4f04/building-production-ready-serverless-applications-with-aws-lambda-and-api-gateway-42d)
+- [VSCode の拡張機能のバージョンを固定し、指定以外を無効化する方法](https://dev.to/fmtweisszwerg/vscode-nokuo-zhang-ji-neng-nobaziyonwogu-ding-si-zhi-ding-yi-wai-wowu-xiao-hua-surufang-fa-2f3n)
+- [4 Surprising Truths About AI on Social Media &lpar;And Why the Future is Smaller Than You Think&rpar;](https://dev.to/web4/4-surprising-truths-about-ai-on-social-media-and-why-the-future-is-smaller-than-you-think-2lim)
+- [The Era of Choosing RAG — Learning Cognitive Load and Architecture Design from GPT-5’s Failures](https://dev.to/_768dd7ab130016ab8b0a/the-era-of-choosing-rag-learning-cognitive-load-and-architecture-design-from-gpt-5s-failures-5dl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
