@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Search with Laravel &amp; Alpine.js: The Simple Approach](https://dev.to/manukminasyan/real-time-search-with-laravel-alpinejs-the-simple-approach-42e2)
-- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Teaser Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-teaser-trailer-2-2025-elizabeth-olsen-paul-5db1)
-- [IGN: Hyperfunk - Official Teaser Trailer](https://dev.to/gg_news/ign-hyperfunk-official-teaser-trailer-298a)
-- [IGN: Mushoku Tensei: Jobless Reincarnation Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-mushoku-tensei-jobless-reincarnation-season-3-official-trailer-english-subtitles-3fng)
-- [Unleashing Creativity: Gemini Image Generation with Angular](https://dev.to/gioboa/unleashing-creativity-gemini-image-generation-with-angular-4ola)
+- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
+- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
+- [Release 0.1](https://dev.to/kkrishnan10/release-01-2eo0)
+- [The Hidden Empire of AI Grammar: Power Without Politicians](https://dev.to/agustin_v_startari/the-hidden-empire-of-ai-grammar-power-without-politicians-4on8)
+- [Python Pro Tip: Unpack Your Variables Like a Boss](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-unpack-your-variables-like-a-boss-4j4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
