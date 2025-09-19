@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blueprints and X-Rays: A Guide to OOP and Reflection in OSE](https://dev.to/codigger/blueprints-and-x-rays-a-guide-to-oop-and-reflection-in-ose-2n0a)
-- [Building Production-Ready Serverless Applications with AWS Lambda and API Gateway](https://dev.to/muhammad_usman_35b52e4f04/building-production-ready-serverless-applications-with-aws-lambda-and-api-gateway-42d)
-- [VSCode の拡張機能のバージョンを固定し、指定以外を無効化する方法](https://dev.to/fmtweisszwerg/vscode-nokuo-zhang-ji-neng-nobaziyonwogu-ding-si-zhi-ding-yi-wai-wowu-xiao-hua-surufang-fa-2f3n)
-- [4 Surprising Truths About AI on Social Media &lpar;And Why the Future is Smaller Than You Think&rpar;](https://dev.to/web4/4-surprising-truths-about-ai-on-social-media-and-why-the-future-is-smaller-than-you-think-2lim)
-- [The Era of Choosing RAG — Learning Cognitive Load and Architecture Design from GPT-5’s Failures](https://dev.to/_768dd7ab130016ab8b0a/the-era-of-choosing-rag-learning-cognitive-load-and-architecture-design-from-gpt-5s-failures-5dl3)
+- [Enhance more features. It’s guardrails.](https://dev.to/codebrainr/enhance-more-features-its-guardrails-34nm)
+- [What is AI as a Service &lpar;AIaaS&rpar;?](https://dev.to/aria_quinn_5ef92b2811fdf8/what-is-ai-as-a-service-aiaas-30lp)
+- [How to Improve Forecasting Accuracy: Top Strategies to Succeed](https://dev.to/microestimates/how-to-improve-forecasting-accuracy-top-strategies-to-succeed-16o7)
+- [Learning JS in 30 Days - Day 1](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-1-2ac3)
+- [Python Basic __init__ , __pycache__ &amp; PIP](https://dev.to/ashutoshsarangi/python-basic-init-pycache-pip-3dkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
