@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrency Model - Part II - CountDownLatch](https://dev.to/sommukhopadhyay/java-concurrency-model-part-ii-countdownlatch-4cke)
-- [The Command Pattern in Python...](https://dev.to/sommukhopadhyay/the-command-pattern-in-python-3hco)
-- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
-- [IGN: It’s Expensive Being a Nintendo Fan in 2025 - NVC Clips](https://dev.to/gg_news/ign-its-expensive-being-a-nintendo-fan-in-2025-nvc-clips-lni)
-- [IGN: Goddess of Victory: Nikke x Resident Evil - Official Reborn Evil Trailer](https://dev.to/gg_news/ign-goddess-of-victory-nikke-x-resident-evil-official-reborn-evil-trailer-2i10)
+- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
+- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
+- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
+- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
+- [Is This The New Scam on Dev?](https://dev.to/scofieldidehen/is-this-the-new-scam-on-dev-302k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
