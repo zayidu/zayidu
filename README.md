@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: NLU Personal Golf Spotlight: Big Randy | NLU Pod, Ep 1071](https://dev.to/youtube_golf/no-laying-up-podcast-nlu-personal-golf-spotlight-big-randy-nlu-pod-ep-1071-4ah2)
-- [IGN: Hollow Knight Silksong - How to Get the Double Jump &lpar;Faydown Cloak&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-double-jump-faydown-cloak-2oo7)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
-- [From Fat Models to Clean Code: 5 Practical Design Patterns in Ruby on Rails](https://dev.to/pratiksha_palkar_1626564e/from-fat-models-to-clean-code-5-practical-design-patterns-in-ruby-on-rails-1n98)
-- [Playwright: A Modern Framework for Web Automation Testing](https://dev.to/the_wise_06d8114f1ee73fe8/playwright-a-modern-framework-for-web-automation-testing-4iak)
+- [Arduino IDE Configuration for ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/arduino-ide-configuration-for-esp32-c3-devkitm-1-rust-1-5d99)
+- [C++ 20 multi threaded programming - the introduction of std::atomic...](https://dev.to/sommukhopadhyay/c-20-multi-threaded-programming-the-introduction-of-stdatomic-1cog)
+- [Mastering Laravel 12 Events: How to Define and Control Listener Execution Order with O&lpar;1&rpar; Complexity](https://dev.to/cmmishra9/mastering-laravel-12-events-how-to-define-and-control-listener-execution-order-with-o1-complexity-4id2)
+- [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
+- [Modernize Open Source Bootstrap 5 Admin Dashboard Template](https://dev.to/vaibhavg/modernize-open-source-bootstrap-5-admin-dashboard-template-bao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
