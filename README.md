@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
-- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
-- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
-- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
-- [Duffel vs Amadeus: Which Works Better for Modern API-First Integration?](https://dev.to/ravi_makhija/duffel-vs-amadeus-which-works-better-for-modern-api-first-integration-49p4)
+- [How AI is Simplifying Pharma Compliance](https://dev.to/xccelerance_technologies_/how-ai-is-simplifying-pharma-compliance-3jjc)
+- [Building Trust in a Digital World: Why Transparency is Your Greatest Asset](https://dev.to/remotly/building-trust-in-a-digital-world-why-transparency-is-your-greatest-asset-4k3a)
+- [Fintech Security: Best Practices for Fintech Apps](https://dev.to/flutterwaveeng/fintech-security-best-practices-for-fintech-apps-4k2i)
+- [The Bid Feedback Paradox](https://dev.to/bid_solution/the-bid-feedback-paradox-3caj)
+- [Building a Simple Bank App API with Spring Boot and Spring Data JPA](https://dev.to/m_muhd8/building-a-simple-bank-app-api-with-spring-boot-and-jpa-4h9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
