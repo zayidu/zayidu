@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Part-65: 🛰️ Demystifying Google Cloud DNS – A Simple Guide](https://dev.to/latchudevops/part-65-demystifying-google-cloud-dns-a-simple-guide-137l)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2fom)
+- [Concurrent programming in Java: ThreadPoolExecutor](https://dev.to/chanhlt/concurrent-programming-in-java-threadpoolexecutor-9e2)
 - [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
 - [Excel Grid: jQuery Plugin for Interactive Data Table](https://dev.to/jqueryscript/excel-grid-jquery-plugin-for-interactive-data-table-5ahn)
-- [Introducción a las GANs](https://dev.to/victorojedaok/introduccion-a-las-gans-22ff)
-- [How to scrape Tripadvisor &lpar;2025 Tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-tripadvisor-2025-tutorial-57o0)
-- [Awesome Robots Digest - Issue #4 - September 19, 2025](https://dev.to/bobjiang/awesome-robots-digest-issue-4-september-19-2025-1hmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
