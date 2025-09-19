@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You’re Already a Narrative Designer &lpar;Even If You Don’t Feel Like One&rpar;](https://dev.to/mitch-narrativeflow/youre-already-a-narrative-designer-even-if-you-dont-feel-like-one-1jb0)
-- [Connecting to LLMs: Building a Simple HTTP Client for AI Integration](https://dev.to/gazolla/connecting-to-llms-building-a-simple-http-client-for-ai-integration-p4o)
-- [A guide to using Graphite&#39;s stacked PRs for GitHub users](https://dev.to/semgrep/a-guide-to-using-graphites-stacked-prs-for-github-users-5c47)
-- [Ultimate AI Writing Tools for Content Creators 2025](https://dev.to/coding180/ultimate-ai-writing-tools-for-content-creators-2025-42gd)
-- [IGN: Tencent Defends Horizon Clone, Claiming Sony Copied Ninja Theory First - IGN Daily Fix](https://dev.to/gg_news/ign-tencent-defends-horizon-clone-claiming-sony-copied-ninja-theory-first-ign-daily-fix-3j9a)
+- [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
+- [Excel Grid: jQuery Plugin for Interactive Data Table](https://dev.to/jqueryscript/excel-grid-jquery-plugin-for-interactive-data-table-5ahn)
+- [Introducción a las GANs](https://dev.to/victorojedaok/introduccion-a-las-gans-22ff)
+- [How to scrape Tripadvisor &lpar;2025 Tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-tripadvisor-2025-tutorial-57o0)
+- [Awesome Robots Digest - Issue #4 - September 19, 2025](https://dev.to/bobjiang/awesome-robots-digest-issue-4-september-19-2025-1hmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
