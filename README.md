@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
-- [From SVG to PNG: Copy &amp; Download with Konva.js](https://dev.to/lovestaco/from-svg-to-png-copy-download-with-konvajs-1ab2)
-- [The Unseen Conductor: Orchestrating App Notifications with EventBus](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
-- [How I Transformed My Old Gaming PC into a Powerful Home Server](https://dev.to/kushagrakasbi/how-i-transformed-my-old-gaming-pc-into-a-powerful-home-server-12gn)
-- [Building Language Tech for Meghalaya: Lessons from Tokenizing Khasi and Garo with Modern LLMs](https://dev.to/b_nyalang/building-language-tech-for-meghalaya-lessons-from-tokenizing-khasi-and-garo-with-modern-llms-599p)
+- [Nardwuar the Human Serviette: Nardwuar vs. Shai Gilgeous-Alexander](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-shai-gilgeous-alexander-25op)
+- [IGN: Revelation of Decay - Official Trailer](https://dev.to/gg_news/ign-revelation-of-decay-official-trailer-51b7)
+- [IGN: Endless Legend 2 - Official Faction Asymmetry Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-faction-asymmetry-trailer-25em)
+- [Git &amp; GitHub: A Beginner’s Complete Guide](https://dev.to/tapobanray/git-github-a-complete-beginners-guide-47on)
+- [Text Joiner – Join Texts with Delimiter](https://dev.to/tadatools/text-joiner-join-texts-with-delimiter-pha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
