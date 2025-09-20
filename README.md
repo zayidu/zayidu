@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Научи се кога да СПРЕШ с проучването и търсенето на решения, когато програмираш!](https://dev.to/dvt32/nauchi-sie-kogha-da-spriesh-s-prouchvanieto-i-trsienieto-na-rieshieniia-koghato-proghramirash-3gk5)
-- [Client-Side Storage: Types and Usage](https://dev.to/the_realteckyguy/client-side-storage-types-and-usage-10c1)
-- [Coding Challenge Practice - Question 11](https://dev.to/tomivan/coding-challenge-practice-question-11-gfl)
-- [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-45d3)
-- [Leveraging AI Analytics for Better NAAC and NBA Accreditation Outcomes](https://dev.to/manasi_ab1bbf439689947947/leveraging-ai-analytics-for-better-naac-and-nba-accreditation-outcomes-24bj)
+- [👻 Ghostty&#39;s Option+Backspace Not Working? Fixed!](https://dev.to/tdkn/ghosttys-optionbackspace-not-working-fixed-kgm)
+- [Edge Computing: The Complete Technical Guide to Distributed Intelligence](https://dev.to/mohitdecodes/edge-computing-the-complete-technical-guide-to-distributed-intelligence-3nm)
+- [Para T ✨](https://dev.to/20tempest23/para-t-42o9)
+- [IA dans le BIM : La Révolution de la Construction Intelligente](https://dev.to/vendkura/ia-dans-le-bim-la-revolution-de-la-construction-intelligente-ojh)
+- [Building an AI Chat Rate Limiter with Node.js, Express, and Vercel AI SDK](https://dev.to/fahimahammed/building-an-ai-chat-rate-limiter-with-nodejs-express-and-vercel-ai-sdk-5240)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
