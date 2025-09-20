@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/jatin_mehta_a7cccbd5b54ba/first-contributions-learn-how-to-contribute-to-open-source-projects-3db9)
-- [FFmpeg video Playback in Native WGPU](https://dev.to/the_lone_engineer/ffmpeg-video-playback-in-native-wgpu-552a)
-- [Understanding Python’s rules for hashing](https://dev.to/vivis_dev/understanding-pythons-rules-for-hashing-3jl)
-- [Understanding Context Window Size in LLMs](https://dev.to/jiminlee/understanding-context-window-size-in-llms-3aof)
-- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://dev.to/technoblogger14o3/less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks-1j2p)
+- [IGN: Sonic Racing: CrossWorlds - Blazing Fast Super Sonic and Hatsune Miku Gameplay](https://dev.to/gg_news/ign-sonic-racing-crossworlds-blazing-fast-super-sonic-and-hatsune-miku-gameplay-5h7m)
+- [IGN: Nintendo Switch 2’s First 100 Days Report Card - Next-Gen Console Watch](https://dev.to/gg_news/ign-nintendo-switch-2s-first-100-days-report-card-next-gen-console-watch-aod)
+- [IGN: Hollow Knight: Silksong - How to Make It Through Bilewater](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-make-it-through-bilewater-1n17)
+- [IGN: Is Nintendo Switch 2 Off to a Good Start? - NVC Clips](https://dev.to/gg_news/ign-is-nintendo-switch-2-off-to-a-good-start-nvc-clips-3j0a)
+- [Networking Without Borders: How Digital Portfolios Break Geography Barriers](https://dev.to/imtaslim/networking-without-borders-how-digital-portfolios-break-geography-barriers-38jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
