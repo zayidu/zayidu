@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Variables: A Complete Beginner&#39;s Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2)
-- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2)
-- [Python Comments: The Ultimate Guide to Writing Clean, Effective Code](https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi)
-- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
-- [Things to do when bored for seniors without internet](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-seniors-without-internet-3h0o)
+- [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
+- [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
+- [Understanding Deaf-Blindness](https://dev.to/a11ynews/understanding-deaf-blindness-3eep)
+- [Understanding Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jiminlee/mixture-of-experts-moe-l4o)
+- [What is Zero-Knowledge Proof: Complete Guide to ZKPs, zk-SNARKs, and zk-STARKs](https://dev.to/saira_zeeshan_35fc05971fd/what-is-zero-knowledge-proof-complete-guide-to-zkps-zk-snarks-and-zk-starks-1ndp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
