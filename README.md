@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k)
-- [The NKTm Unit in the NKTg Law &lpar;Varying Inertia&rpar;](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6)
-- [Engineering for Longevity: How to Build Software That Survives Hype Cycles](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-for-longevity-how-to-build-software-that-survives-hype-cycles-mdk)
-- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b)
-- [IGN: GTA 6 and Witcher 4 Prove the Console Wars Are Over, Base PS5 Won.](https://dev.to/gg_news/ign-gta-6-and-witcher-4-prove-the-console-wars-are-over-base-ps5-won-4mjp)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/jatin_mehta_a7cccbd5b54ba/first-contributions-learn-how-to-contribute-to-open-source-projects-3db9)
+- [FFmpeg video Playback in Native WGPU](https://dev.to/the_lone_engineer/ffmpeg-video-playback-in-native-wgpu-552a)
+- [Understanding Python’s rules for hashing](https://dev.to/vivis_dev/understanding-pythons-rules-for-hashing-3jl)
+- [Understanding Context Window Size in LLMs](https://dev.to/jiminlee/understanding-context-window-size-in-llms-3aof)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://dev.to/technoblogger14o3/less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks-1j2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
