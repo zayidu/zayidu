@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👻 Ghostty&#39;s Option+Backspace Not Working? Fixed!](https://dev.to/tdkn/ghosttys-optionbackspace-not-working-fixed-kgm)
-- [Edge Computing: The Complete Technical Guide to Distributed Intelligence](https://dev.to/mohitdecodes/edge-computing-the-complete-technical-guide-to-distributed-intelligence-3nm)
-- [Para T ✨](https://dev.to/20tempest23/para-t-42o9)
-- [IA dans le BIM : La Révolution de la Construction Intelligente](https://dev.to/vendkura/ia-dans-le-bim-la-revolution-de-la-construction-intelligente-ojh)
-- [Building an AI Chat Rate Limiter with Node.js, Express, and Vercel AI SDK](https://dev.to/fahimahammed/building-an-ai-chat-rate-limiter-with-nodejs-express-and-vercel-ai-sdk-5240)
+- [Import your first investment CSV into Pocket Portfolio &lpar;5-minute guide&rpar;](https://dev.to/pocketportfolio/import-your-first-investment-csv-into-pocket-portfolio-5-minute-guide-4o7p)
+- [AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments](https://dev.to/johnbulla/alloydb-omni-postgresql-optimized-for-hybrid-and-multicloud-environments-4991)
+- [How I Built a Serverless Data Analytics Pipeline for Customer Churn with S3, Glue, Athena, and QuickSight](https://dev.to/ajithmanmu/how-i-built-a-serverless-data-analytics-pipeline-for-customer-churn-with-s3-glue-athena-and-bfk)
+- [Next-Gen Auditing: Unlocking AWS CloudTrail with MCP Server](https://dev.to/aws-builders/next-gen-auditing-unlocking-aws-cloudtrail-with-mcp-server-5dll)
+- [Nushell: paradigm shift in shells](https://dev.to/mcheremnov/nushell-paradigm-shift-in-shells-pna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
