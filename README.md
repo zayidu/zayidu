@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nardwuar the Human Serviette: Nardwuar vs. Shai Gilgeous-Alexander](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-shai-gilgeous-alexander-25op)
-- [IGN: Revelation of Decay - Official Trailer](https://dev.to/gg_news/ign-revelation-of-decay-official-trailer-51b7)
-- [IGN: Endless Legend 2 - Official Faction Asymmetry Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-faction-asymmetry-trailer-25em)
-- [Git &amp; GitHub: A Beginner’s Complete Guide](https://dev.to/tapobanray/git-github-a-complete-beginners-guide-47on)
-- [Text Joiner – Join Texts with Delimiter](https://dev.to/tadatools/text-joiner-join-texts-with-delimiter-pha)
+- [How to make loops in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-make-loops-in-common-business-oriented-language-cobol-13hl)
+- [Aprende lógica de programación: la base para convertirte en programador](https://dev.to/johnserranodev/aprende-logica-de-programacion-la-base-para-convertirte-en-programador-1674)
+- [CardDOM in C++: Ownership, Cycles, and Smart Pointers](https://dev.to/karol11/carddom-in-c-ownership-cycles-and-smart-pointers-5fdj)
+- [Object-Oriented JavaScript: A Practical Guide with Examples](https://dev.to/hellonehha/object-oriented-javascript-a-practical-guide-with-examples-10d)
+- [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
