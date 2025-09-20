@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
-- [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
-- [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
-- [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
-- [“My First Step in C++: Hello World!” “Journey from Beginner to C++ Programmer: My First Code”](https://dev.to/asp0766/my-first-step-in-c-hello-worldjourney-from-beginner-to-c-programmer-my-first-code-4l5l)
+- [100 Ways to Earn Extra Cash as a Developer 💰](https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk)
+- [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
+- [Configuring AWS Vault with the Wincred Backend for Secure Credential Management on Windows](https://dev.to/jajera/configuring-aws-vault-with-the-wincred-backend-for-secure-credential-management-on-windows-2d05)
+- [Navigating RAG System Architecture: Trade-offs and Best Practices for Scalable, Reliable AI Applications](https://dev.to/satyam_chourasiya_99ea2e4/navigating-rag-system-architecture-trade-offs-and-best-practices-for-scalable-reliable-ai-3ppm)
+- [Days 1–3 | 50 Projects in 50 Days](https://dev.to/augusta08/days-1-3-50-projects-in-50-days-3n3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
