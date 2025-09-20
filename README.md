@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
-- [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
-- [Understanding Deaf-Blindness](https://dev.to/a11ynews/understanding-deaf-blindness-3eep)
-- [Understanding Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jiminlee/mixture-of-experts-moe-l4o)
-- [What is Zero-Knowledge Proof: Complete Guide to ZKPs, zk-SNARKs, and zk-STARKs](https://dev.to/saira_zeeshan_35fc05971fd/what-is-zero-knowledge-proof-complete-guide-to-zkps-zk-snarks-and-zk-starks-1ndp)
+- [🍳 From Convex&#39;s Kitchen to OpenRouter&#39;s Gateway: My Journey Integrating 200+ AI Models into Chef](https://dev.to/axrisi/from-convexs-kitchen-to-openrouters-gateway-my-journey-integrating-200-ai-models-into-chef-1ihl)
+- [The Future is Private: 5 Revelations About Owning Your Own Social Network](https://dev.to/web4/the-future-is-private-5-revelations-about-owning-your-own-social-network-509p)
+- [Should You Work at a Startup?](https://dev.to/ponikar/should-you-work-at-a-startup-5f33)
+- [We Architected CockroachDB the Wrong Way &lpar;And It Works](https://dev.to/omnarayan/we-architected-cockroachdb-the-wrong-way-and-it-works-28fm)
+- [Danny Maude: Strike Your Irons Pure - Do This Before You Swing](https://dev.to/youtube_golf/danny-maude-strike-your-irons-pure-do-this-before-you-swing-1di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
