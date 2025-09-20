@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
-- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
-- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
-- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
-- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
+- [Building My Own CLI Tool: A Better Way to Share Code with LLMs](https://dev.to/jongwan93/building-my-own-cli-tool-a-better-way-to-share-code-with-llms-1708)
+- [How to Contribute a Feature to Someone Else&#39;s Repository](https://dev.to/whyang9701/how-to-contribute-a-feature-to-someone-elses-repository-2lo)
+- [Type of changing software](https://dev.to/kittichanr/type-of-changing-software-16km)
+- [[Boost]](https://dev.to/miss_mrf7/-n58)
+- [Anyone Know anything about rawdrawandroid or c bionic for #Android as I would Like to build for Android without using #java?](https://dev.to/1negroup/anyone-know-anything-about-rawdrawandroid-or-c-bionic-for-android-as-i-would-like-to-build-for-360o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
