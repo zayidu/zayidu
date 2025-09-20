@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
-- [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
-- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
-- [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
-- [Why Every Engineering Team Needs a Technical Writer &lpar;Even Small Ones&rpar;](https://dev.to/sandrameshack/why-every-engineering-team-needs-a-technical-writer-even-small-ones-5319)
+- [Python Variables: A Complete Beginner&#39;s Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2)
+- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2)
+- [Python Comments: The Ultimate Guide to Writing Clean, Effective Code](https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi)
+- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
+- [Things to do when bored for seniors without internet](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-seniors-without-internet-3h0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
