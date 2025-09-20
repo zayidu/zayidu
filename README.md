@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🍳 From Convex&#39;s Kitchen to OpenRouter&#39;s Gateway: My Journey Integrating 200+ AI Models into Chef](https://dev.to/axrisi/from-convexs-kitchen-to-openrouters-gateway-my-journey-integrating-200-ai-models-into-chef-1ihl)
-- [The Future is Private: 5 Revelations About Owning Your Own Social Network](https://dev.to/web4/the-future-is-private-5-revelations-about-owning-your-own-social-network-509p)
-- [Should You Work at a Startup?](https://dev.to/ponikar/should-you-work-at-a-startup-5f33)
-- [We Architected CockroachDB the Wrong Way &lpar;And It Works](https://dev.to/omnarayan/we-architected-cockroachdb-the-wrong-way-and-it-works-28fm)
-- [Danny Maude: Strike Your Irons Pure - Do This Before You Swing](https://dev.to/youtube_golf/danny-maude-strike-your-irons-pure-do-this-before-you-swing-1di7)
+- [Building Scalable Frontend Teams: Lessons Learned](https://dev.to/aleksandr_ryzhikov/building-scalable-frontend-teams-lessons-learned-124i)
+- [How to Setup Secure Email Server](https://dev.to/firatkiral/how-to-setup-secure-email-server-2i1p)
+- [Apache Kafka &amp; Amazon MSK: The Beating Heart of Real-Time Data](https://dev.to/leonardkachi/apache-kafka-amazon-msk-the-beating-heart-of-real-time-data-4e95)
+- [Proxy Design Pattern in Java: Your Middleman for Performance &amp; Security!](https://dev.to/priyankbhardwaj1199/proxy-design-pattern-in-java-your-middleman-for-performance-security-3ch9)
+- [🥗Taurus Pan: A Smart Recipe Explorer Built with KendoReact](https://dev.to/vero-code/taurus-pan-a-smart-recipe-explorer-built-with-kendoreact-17k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
