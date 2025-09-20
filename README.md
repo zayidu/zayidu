@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make loops in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-make-loops-in-common-business-oriented-language-cobol-13hl)
-- [Aprende lógica de programación: la base para convertirte en programador](https://dev.to/johnserranodev/aprende-logica-de-programacion-la-base-para-convertirte-en-programador-1674)
-- [CardDOM in C++: Ownership, Cycles, and Smart Pointers](https://dev.to/karol11/carddom-in-c-ownership-cycles-and-smart-pointers-5fdj)
-- [Object-Oriented JavaScript: A Practical Guide with Examples](https://dev.to/hellonehha/object-oriented-javascript-a-practical-guide-with-examples-10d)
-- [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
+- [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
+- [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
+- [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
+- [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
+- [“My First Step in C++: Hello World!” “Journey from Beginner to C++ Programmer: My First Code”](https://dev.to/asp0766/my-first-step-in-c-hello-worldjourney-from-beginner-to-c-programmer-my-first-code-4l5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
