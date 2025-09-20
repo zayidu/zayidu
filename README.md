@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own CLI Tool: A Better Way to Share Code with LLMs](https://dev.to/jongwan93/building-my-own-cli-tool-a-better-way-to-share-code-with-llms-1708)
-- [How to Contribute a Feature to Someone Else&#39;s Repository](https://dev.to/whyang9701/how-to-contribute-a-feature-to-someone-elses-repository-2lo)
-- [Type of changing software](https://dev.to/kittichanr/type-of-changing-software-16km)
-- [[Boost]](https://dev.to/miss_mrf7/-n58)
-- [Anyone Know anything about rawdrawandroid or c bionic for #Android as I would Like to build for Android without using #java?](https://dev.to/1negroup/anyone-know-anything-about-rawdrawandroid-or-c-bionic-for-android-as-i-would-like-to-build-for-360o)
+- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
+- [Beyond the Firewall: Why Every Developer Needs an Adversarial Mindset](https://dev.to/gnomeman4201/beyond-the-firewall-why-every-developer-needs-an-adversarial-mindset-3hk)
+- [Serial Spotter – Because I’m Tired of Hunting COM Ports 😅](https://dev.to/0xlama/serial-spotter-because-im-tired-of-hunting-com-ports-4acl)
+- [Repository Context Packager v0.0.1 Release](https://dev.to/tajudeen_abdulgafar_e0363/repository-context-packager-v001-release-emp)
+- [⚓ Day 20 of My DevOps Journey: Docker — Containerization Made Simple 🚀](https://dev.to/dankbhardwaj/day-20-of-my-devops-journey-docker-containerization-made-simple-37gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
