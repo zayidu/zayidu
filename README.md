@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1)
-- [🔒 How Platforms Detect Fake Accounts &amp; Inflated Likes 📊 Instagram, YouTube, Facebook Explained 👀](https://dev.to/ahmed_kadiwala/how-platforms-detect-fake-accounts-inflated-likes-instagram-youtube-facebook-explained-1fh8)
-- [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 2](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-2-3pf1)
-- [First look to store manager](https://dev.to/george-hernz/first-look-to-store-manager-cep)
-- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g)
+- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
+- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
+- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
+- [Geeks for Geeks MERN Full Stack Web Development course](https://dev.to/harsh_jain_db0c27cf5e18ff/geeks-for-geeks-mern-full-stack-web-development-course-cd9)
+- [Observability on Amazon EKS Cluster: A Complete Guide to Prometheus and Grafana with Helm](https://dev.to/aws-builders/observability-on-amazon-eks-cluster-a-complete-guide-to-prometheus-and-grafana-with-helm-5d4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
