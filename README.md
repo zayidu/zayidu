@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Major Announcement!](https://dev.to/music_youtube/rick-beato-major-announcement-4d9c)
-- [Resourcing Plan: Aligning People and Resources for Project Success](https://dev.to/writegenic/resourcing-plan-aligning-people-and-resources-for-project-success-1k9e)
-- [To Cache or Not to Cache: A Practical Decision Tree for Engineers](https://dev.to/zaheetdev/to-cache-or-not-to-cache-a-practical-decision-tree-for-engineers-2pfi)
-- [Four Disaster Recovery &lpar;DR&rpar; strategies in AWS explained](https://dev.to/wakeup_flower_8591a6cb6a9/four-disaster-recovery-dr-strategies-in-aws-explained-22ph)
-- [Getting Started with Python](https://dev.to/willwritescode/getting-started-with-python-2o9f)
+- [Engineering a Geospatial Caching Solution When Google Maps Became Expensive](https://dev.to/ramiyakoub/engineering-a-geospatial-caching-solution-when-google-maps-became-expensive-2e31)
+- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
+- [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
+- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
+- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
