@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
-- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
-- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
-- [Geeks for Geeks MERN Full Stack Web Development course](https://dev.to/harsh_jain_db0c27cf5e18ff/geeks-for-geeks-mern-full-stack-web-development-course-cd9)
-- [Observability on Amazon EKS Cluster: A Complete Guide to Prometheus and Grafana with Helm](https://dev.to/aws-builders/observability-on-amazon-eks-cluster-a-complete-guide-to-prometheus-and-grafana-with-helm-5d4l)
+- [What is NLP? How Does it Work?](https://dev.to/priyanshukumarsinha/what-is-nlp-how-does-it-work-4gmh)
+- [What is Generative AI? A Comprehensive Beginner’s Guide](https://dev.to/priyanshukumarsinha/what-is-generative-ai-a-comprehensive-beginners-guide-37mf)
+- [Is Your Node.js App Ready for Millions of Users? Uncover Scalable Strategies for High-Traffic Succes.](https://dev.to/priyanshukumarsinha/is-your-nodejs-app-ready-for-millions-of-users-uncover-scalable-strategies-for-high-traffic-din)
+- [Database Indexing: The Hidden Key to Application Speed](https://dev.to/devtechinsights/database-indexing-the-hidden-key-to-application-speed-58ia)
+- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
