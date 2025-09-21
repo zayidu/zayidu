@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is NLP? How Does it Work?](https://dev.to/priyanshukumarsinha/what-is-nlp-how-does-it-work-4gmh)
-- [What is Generative AI? A Comprehensive Beginner’s Guide](https://dev.to/priyanshukumarsinha/what-is-generative-ai-a-comprehensive-beginners-guide-37mf)
-- [Is Your Node.js App Ready for Millions of Users? Uncover Scalable Strategies for High-Traffic Succes.](https://dev.to/priyanshukumarsinha/is-your-nodejs-app-ready-for-millions-of-users-uncover-scalable-strategies-for-high-traffic-din)
-- [Database Indexing: The Hidden Key to Application Speed](https://dev.to/devtechinsights/database-indexing-the-hidden-key-to-application-speed-58ia)
-- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
+- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
+- [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
+- [Show HN: AI-Powered Email Verification API with ML Risk Scoring + 50% Off for RapidAPI Users](https://dev.to/rehaanhassan/show-hn-ai-powered-email-verification-api-with-ml-risk-scoring-50-off-for-rapidapi-users-4p6f)
+- [LeetCode 8: String to Integer &lpar;atoi&rpar; - Medium](https://dev.to/grantdotdev/leetcode-8-string-to-integer-atoi-medium-33om)
+- [Big O Notation: Examples](https://dev.to/talaamm/big-o-notation-examples-4ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
