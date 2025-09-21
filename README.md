@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Modern Personal Finance Dashboard with KendoReact &amp; AI Assistant](https://dev.to/vineprkl/i-built-a-modern-personal-finance-dashboard-with-kendoreact-ai-assistant-3233)
-- [Exploring Programming Language Paradigms](https://dev.to/adrahi/exploring-programming-language-paradigms-403a)
-- [Building Aliō: How I Shipped an App with AI Tools](https://dev.to/molozhenko/building-alio-how-i-shipped-an-app-with-ai-tools-1659)
-- [Return;](https://dev.to/fern_d3v/return-l27)
-- [Return;](https://dev.to/fern_d3v/return-57mn)
+- [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
+- [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
+- [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
+- [Comparison of ZXing QR Code Generator Alternatives to IronQR](https://dev.to/mohammedibrahimlj/comparison-of-zxing-qr-code-generator-alternatives-to-ironqr-3376)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
