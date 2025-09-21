@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bat-KV: Lightweight Key-Value Store for Windows Batch](https://dev.to/water_run_305f6dfd401fdaf/bat-kv-lightweight-key-value-store-for-windows-batch-5f2f)
-- [Building Next-Gen MVNO Platforms: From Legacy BSS to API-Driven Telecom](https://dev.to/abdul_shamim/building-next-gen-mvno-platforms-from-legacy-bss-to-api-driven-telecom-4bfb)
-- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-4l3m)
-- [What is an internal Developer Platforms?](https://dev.to/e77/what-is-an-internal-developer-platforms-17o9)
-- [3D Printing Nerd: New career in 3D Printing unlocked!](https://dev.to/maker_youtube/3d-printing-nerd-new-career-in-3d-printing-unlocked-56l6)
+- [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
+- [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
+- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
+- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
+- [The Hijacked Promise of Smart Manufacturing](https://dev.to/opensourceadvocate/the-hijacked-promise-of-smart-manufacturing-1988)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
