@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Responsive Web Applications: A Modern Developer&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/building-responsive-web-applications-a-modern-developers-guide-38lk)
-- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-518b)
-- [# ☁️ Cloud Engineer vs 🔄 DevOps Engineer: Which Path Should You Take?](https://dev.to/jimmybillz/-cloud-engineer-vs-devops-engineer-which-path-should-you-take-211o)
-- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn)
-- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e)
+- [Beyond Functional: Writing Professional and Performant SQL Queries](https://dev.to/gregory42266270/beyond-functional-writing-professional-and-performant-sql-queries-11ac)
+- [How to Get The GIMP Working With macOS Tahoe &lpar;and What Happened&rpar;](https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k)
+- [Day 53: CI/CD pipeline on AWS pt 4](https://dev.to/udoh_deborah_b1e484c474bf/day-53-cicd-pipeline-on-aws-pt-4-ejc)
+- [Single Element Loaders: Going 3D with CSS](https://dev.to/er-raj-aryan/single-element-loaders-going-3d-with-css-ikd)
+- [iFixit iPhone Air teardown](https://dev.to/technoblogger14o3/ifixit-iphone-air-teardown-1e03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
