@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flores amarillas](https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg)
-- [Master tmux Like a Pro: Boost Your Terminal Workflow 🚀](https://dev.to/masoomjethwa/master-tmux-like-a-pro-boost-your-terminal-workflow-5a4a)
-- [Setting Up a Scalable JupyterHub Classroom on Debian 12 LTS with DockerSpawner](https://dev.to/masoomjethwa/setting-up-a-scalable-jupyterhub-classroom-on-debian-12-lts-with-dockerspawner-2k9f)
-- [Modulax Launch Blueprint: Building with Purpose from Day One](https://dev.to/modulaxorg/modulax-launch-blueprint-building-with-purpose-from-day-one-ko1)
-- [Why Node.js Keeps Winning: The Backend Beast Everyone Loves to Hire](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
+- [I Built a Modern Personal Finance Dashboard with KendoReact &amp; AI Assistant](https://dev.to/vineprkl/i-built-a-modern-personal-finance-dashboard-with-kendoreact-ai-assistant-3233)
+- [Exploring Programming Language Paradigms](https://dev.to/adrahi/exploring-programming-language-paradigms-403a)
+- [Building Aliō: How I Shipped an App with AI Tools](https://dev.to/molozhenko/building-alio-how-i-shipped-an-app-with-ai-tools-1659)
+- [Return;](https://dev.to/fern_d3v/return-l27)
+- [Return;](https://dev.to/fern_d3v/return-57mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
