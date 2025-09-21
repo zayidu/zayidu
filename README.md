@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
-- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
-- [Turning Free Users into Paying Customers &lpar;With Code-Like Thinking&rpar;](https://dev.to/soasme/turning-free-users-into-paying-customers-with-code-like-thinking-2fjb)
-- [🎉 Thank You for 4K Followers on Dev.to 🚀](https://dev.to/pjdeveloper896/thank-you-for-4k-followers-on-devto-9jj)
-- [2025 Voice AI Guide: How to Make Your Own Real-Time Voice Agent &lpar;Part-1&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-1-45hl)
+- [The feature flags](https://dev.to/umangmittal/the-feature-flags-39c6)
+- [Kiro Did It! – From Prompt to Customer API Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil)
+- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh)
+- [🎭✨ Bringing Interfaces to Life with Theatre.js ✨🎭](https://dev.to/dmsmenula/bringing-interfaces-to-life-with-theatrejs-3apm)
+- [Part-74: Implement a Regional External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-74-implement-a-regional-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-5a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
