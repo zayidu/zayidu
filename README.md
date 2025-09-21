@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Ways to Earn Extra Cash as a Developer 💰](https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk)
-- [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
-- [Configuring AWS Vault with the Wincred Backend for Secure Credential Management on Windows](https://dev.to/jajera/configuring-aws-vault-with-the-wincred-backend-for-secure-credential-management-on-windows-2d05)
-- [Navigating RAG System Architecture: Trade-offs and Best Practices for Scalable, Reliable AI Applications](https://dev.to/satyam_chourasiya_99ea2e4/navigating-rag-system-architecture-trade-offs-and-best-practices-for-scalable-reliable-ai-3ppm)
-- [Days 1–3 | 50 Projects in 50 Days](https://dev.to/augusta08/days-1-3-50-projects-in-50-days-3n3a)
+- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 4: Standalone Components, Angular Elements &amp; Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g)
+- [My vscode theme based on Monokai](https://dev.to/adriantaf/my-vscode-theme-based-on-monokai-19b2)
+- [How to Render Emojis and International Text on Images with Python](https://dev.to/francozanardi/how-to-render-emojis-and-international-text-on-images-with-python-31ok)
+- [I Nearly Lost All My Users to 30-Second Database Queries](https://dev.to/asadk/how-i-fixed-my-analytics-database-before-it-killed-my-side-project-33ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
