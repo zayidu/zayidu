@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
-- [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
-- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
-- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
-- [The Hijacked Promise of Smart Manufacturing](https://dev.to/opensourceadvocate/the-hijacked-promise-of-smart-manufacturing-1988)
+- [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1)
+- [🔒 How Platforms Detect Fake Accounts &amp; Inflated Likes 📊 Instagram, YouTube, Facebook Explained 👀](https://dev.to/ahmed_kadiwala/how-platforms-detect-fake-accounts-inflated-likes-instagram-youtube-facebook-explained-1fh8)
+- [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 2](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-2-3pf1)
+- [First look to store manager](https://dev.to/george-hernz/first-look-to-store-manager-cep)
+- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
