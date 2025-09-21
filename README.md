@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top VR, AR, and XR News Sites to Follow &lpar;2025 Edition&rpar;](https://dev.to/zheng_huasheng/top-vr-ar-and-xr-news-sites-to-follow-2025-edition-3bop)
-- [How does a browser work under the hood?](https://dev.to/mstsurnalyakter/how-does-a-browser-work-under-the-hood-jkb)
-- [How I Built an Automated Social Media Workflow with LangGraph](https://dev.to/piyush_choudhari_a5b29f7f/how-i-built-an-automated-social-media-workflow-with-langgraph-58jp)
-- [AI and surveillance capitalism are undermining democracy](https://dev.to/technoblogger14o3/ai-and-surveillance-capitalism-are-undermining-democracy-5h8g)
-- [IGN: Danganronpa 2x2 - Official Teaser Trailer](https://dev.to/gg_news/ign-danganronpa-2x2-official-teaser-trailer-2igj)
+- [If We Break an Image Into Waves, Can We Truly Put It Back Together?](https://dev.to/angyokosaka/if-we-break-an-image-into-waves-can-we-truly-put-it-back-together-204c)
+- [Backend](https://dev.to/asp0766/backend-p23)
+- [How I Saved My System Through Peak Season](https://dev.to/lowkey_dev_591/how-i-saved-my-system-through-peak-season-3m79)
+- [My Journey to the Ideal Operating System: From Ubuntu to Manjaro](https://dev.to/krikri2025/my-journey-to-the-ideal-operating-system-from-ubuntu-to-manjaro-1pej)
+- [Zendesk Too Complicated? How Nexi Bloom Chat Offers Simplicity and Efficiency](https://dev.to/jaybarker/zendesk-too-complicated-how-nexi-bloom-chat-offers-simplicity-and-efficiency-3b7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
