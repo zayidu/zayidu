@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como implementar um Ledger em sístemas distribuídos](https://dev.to/dvorlandi/como-implementar-um-ledger-em-sistemas-distribuidos-1kbo)
-- [Comparing RDS PostgreSQL, Athena on S3 JSON, and QuickSight for Scalable Dashboards](https://dev.to/antek8/comparing-rds-postgresql-athena-on-s3-json-and-quicksight-for-scalable-dashboards-2ceb)
-- [Beyond Git: Features Every Young Professional Should Know in 2025](https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb)
-- [🎯 Master the Move Zeros Algorithm:](https://dev.to/mohamad_mhana/master-the-move-zeros-algorithm-46aa)
-- [Deep Web vs Dark Web - What&#39;s Real and What&#39;s Myth?](https://dev.to/mohamed_essam_27afebce427/deep-web-vs-dark-web-whats-real-and-whats-myth-415a)
+- [Bat-KV: Lightweight Key-Value Store for Windows Batch](https://dev.to/water_run_305f6dfd401fdaf/bat-kv-lightweight-key-value-store-for-windows-batch-5f2f)
+- [Building Next-Gen MVNO Platforms: From Legacy BSS to API-Driven Telecom](https://dev.to/abdul_shamim/building-next-gen-mvno-platforms-from-legacy-bss-to-api-driven-telecom-4bfb)
+- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-4l3m)
+- [What is an internal Developer Platforms?](https://dev.to/e77/what-is-an-internal-developer-platforms-17o9)
+- [3D Printing Nerd: New career in 3D Printing unlocked!](https://dev.to/maker_youtube/3d-printing-nerd-new-career-in-3d-printing-unlocked-56l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
