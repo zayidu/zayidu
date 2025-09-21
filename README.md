@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If We Break an Image Into Waves, Can We Truly Put It Back Together?](https://dev.to/angyokosaka/if-we-break-an-image-into-waves-can-we-truly-put-it-back-together-204c)
-- [Backend](https://dev.to/asp0766/backend-p23)
-- [How I Saved My System Through Peak Season](https://dev.to/lowkey_dev_591/how-i-saved-my-system-through-peak-season-3m79)
-- [My Journey to the Ideal Operating System: From Ubuntu to Manjaro](https://dev.to/krikri2025/my-journey-to-the-ideal-operating-system-from-ubuntu-to-manjaro-1pej)
-- [Zendesk Too Complicated? How Nexi Bloom Chat Offers Simplicity and Efficiency](https://dev.to/jaybarker/zendesk-too-complicated-how-nexi-bloom-chat-offers-simplicity-and-efficiency-3b7i)
+- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
+- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
+- [Turning Free Users into Paying Customers &lpar;With Code-Like Thinking&rpar;](https://dev.to/soasme/turning-free-users-into-paying-customers-with-code-like-thinking-2fjb)
+- [🎉 Thank You for 4K Followers on Dev.to 🚀](https://dev.to/pjdeveloper896/thank-you-for-4k-followers-on-devto-9jj)
+- [2025 Voice AI Guide: How to Make Your Own Real-Time Voice Agent &lpar;Part-1&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-1-45hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
