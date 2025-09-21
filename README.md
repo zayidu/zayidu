@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f)
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 4: Standalone Components, Angular Elements &amp; Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g)
-- [My vscode theme based on Monokai](https://dev.to/adriantaf/my-vscode-theme-based-on-monokai-19b2)
-- [How to Render Emojis and International Text on Images with Python](https://dev.to/francozanardi/how-to-render-emojis-and-international-text-on-images-with-python-31ok)
-- [I Nearly Lost All My Users to 30-Second Database Queries](https://dev.to/asadk/how-i-fixed-my-analytics-database-before-it-killed-my-side-project-33ff)
+- [Top VR, AR, and XR News Sites to Follow &lpar;2025 Edition&rpar;](https://dev.to/zheng_huasheng/top-vr-ar-and-xr-news-sites-to-follow-2025-edition-3bop)
+- [How does a browser work under the hood?](https://dev.to/mstsurnalyakter/how-does-a-browser-work-under-the-hood-jkb)
+- [How I Built an Automated Social Media Workflow with LangGraph](https://dev.to/piyush_choudhari_a5b29f7f/how-i-built-an-automated-social-media-workflow-with-langgraph-58jp)
+- [AI and surveillance capitalism are undermining democracy](https://dev.to/technoblogger14o3/ai-and-surveillance-capitalism-are-undermining-democracy-5h8g)
+- [IGN: Danganronpa 2x2 - Official Teaser Trailer](https://dev.to/gg_news/ign-danganronpa-2x2-official-teaser-trailer-2igj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
