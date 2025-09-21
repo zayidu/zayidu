@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics](https://dev.to/gagreatprogrammer/the-psychology-of-social-engineering-a-deep-dive-into-modern-manipulation-tactics-3bid)
-- [[Boost]](https://dev.to/amrosama57/-59di)
-- [Dokploy is such a breath of fresh air in the overcrowded cloud hosting space. perfect for small projects that don&#39;t need the scale up-front.](https://dev.to/squishy/dokploy-is-such-a-breath-of-fresh-air-in-the-overcrowded-cloud-hosting-space-perfect-for-small-26le)
-- [Python Operators: The Ultimate Guide for Beginners &amp; Beyond](https://dev.to/satyam_gupta_0d1ff2152dcc/python-operators-the-ultimate-guide-for-beginners-beyond-3eh6)
-- [System Design Interview Playbook — Clear Steps to Shine](https://dev.to/robort-gabriel/system-design-interview-playbook-clear-steps-to-shine-a2o)
+- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
+- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
+- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
+- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
+- [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
