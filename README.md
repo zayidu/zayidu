@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
-- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
-- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
-- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
-- [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
+- [Building Responsive Web Applications: A Modern Developer&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/building-responsive-web-applications-a-modern-developers-guide-38lk)
+- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-518b)
+- [# ☁️ Cloud Engineer vs 🔄 DevOps Engineer: Which Path Should You Take?](https://dev.to/jimmybillz/-cloud-engineer-vs-devops-engineer-which-path-should-you-take-211o)
+- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn)
+- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
