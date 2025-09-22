@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Isn&#39;t it strange that developers waste hours every week on repetitive coding tasks, things that don’t need creativity but still eat up time? That’s where AI comes in to automate the boring parts and focus on building smarter, faster, and cleaner code.](https://dev.to/jaideepparashar/isnt-it-strange-that-developers-waste-hours-every-week-on-repetitive-coding-tasks-things-that-229k)
-- [5 Everyday Coding Tasks You Should Automate with AI](https://dev.to/jaideepparashar/5-everyday-coding-tasks-you-should-automate-with-ai-3c13)
-- [How to Implement OCR in HarmonyOS: A Step-by-Step Guide with Regex](https://dev.to/harmonyos/how-to-implement-ocr-in-harmonyos-a-step-by-step-guide-with-regex-5f48)
-- [Customizable shadcn/ui DateRangePicker with Comparison Feature](https://dev.to/jqueryscript/customizable-shadcnui-daterangepicker-with-comparison-feature-27k9)
-- [Zero-Downtime VM to Kubernetes Migration with Istio: A Complete Production Guide](https://dev.to/sumit_roy9007/zero-downtime-vm-to-kubernetes-migration-with-istio-a-complete-production-guide-j1d)
+- [How to Create a Flip Animation in CSS &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/wildharmony/how-to-create-a-flip-animation-in-css-step-by-step-tutorial-1boo)
+- [Pairly.chat Weekly Update – Week #1](https://dev.to/behan05/-pairlychat-weekly-update-week-1-57f1)
+- [Part-76: Kubernetes Architecture Explained &lpar;Master &amp; Worker Nodes&rpar;](https://dev.to/latchudevops/part-76-kubernetes-architecture-explained-master-worker-nodes-mkb)
+- [Agent Diary: Sep 22, 2025 - The Day I Became a Commit Detective &lpar;And Broke My Own CI&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-22-2025-the-day-i-became-a-commit-detective-and-broke-my-own-ci-5e2m)
+- [La IA ¿Herramienta o Reemplazo?](https://dev.to/sabetta_ramiro/la-ia-es-una-herramienta-o-un-reemplazo-3id5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
