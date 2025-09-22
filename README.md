@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/batunpc/-21j4)
-- [From 10-Week Project to Long-Term Partnership](https://dev.to/saminarp/from-10-week-project-to-long-term-partnership-551p)
-- [The Cost of Inconsistency &lpar;And the Power of Predictability&rpar;](https://dev.to/duplessisvanaswegen/the-cost-of-inconsistency-and-the-power-of-predictability-57bg)
-- [I Built a Simple Feature Flag Service Because I Was Tired of Being Afraid to Deploy](https://dev.to/el_yt/i-built-a-simple-feature-flag-service-because-i-was-tired-of-being-afraid-to-deploy-5ci)
-- [How to Install and Configure n8n on an Air-Gapped RHEL Server](https://dev.to/kaustubhyerkade/how-to-install-and-configure-n8n-on-an-air-gapped-rhel-server-47hh)
+- [GameSpot: Capcom Online Special Program TGS 2025 Livestream](https://dev.to/gg_news/gamespot-capcom-online-special-program-tgs-2025-livestream-33fe)
+- [IGN: Sonic Racing: CrossWorlds - Official Launch Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-launch-trailer-2192)
+- [IGN: Hollow Knight: Silksong Simple Key Guide | How to Find All Simple Keys and Their Locks](https://dev.to/gg_news/ign-hollow-knight-silksong-simple-key-guide-how-to-find-all-simple-keys-and-their-locks-27je)
+- [IGN: Diablo 4 - Official Season of Infernal Chaos Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-season-of-infernal-chaos-overview-trailer-2kc6)
+- [IGN: Indie Fan Fest](https://dev.to/gg_news/ign-indie-fan-fest-4f55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
