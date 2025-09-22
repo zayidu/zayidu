@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn)
-- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e)
-- [Self-Hosting Listmonk with Coolify: Your Own Newsletter Platform in Minutes](https://dev.to/jaskarandeogan/self-hosting-listmonk-with-coolify-your-own-newsletter-platform-in-minutes-50j1)
-- [Stop the Code Chaos: Git Stash Checkpoints for Claude Code](https://dev.to/ztor2/prevent-claude-code-from-destroying-your-project-setting-up-a-git-stash-based-checkpoint-1721)
-- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2)
+- [Isn&#39;t it strange that developers waste hours every week on repetitive coding tasks, things that don’t need creativity but still eat up time? That’s where AI comes in to automate the boring parts and focus on building smarter, faster, and cleaner code.](https://dev.to/jaideepparashar/isnt-it-strange-that-developers-waste-hours-every-week-on-repetitive-coding-tasks-things-that-229k)
+- [5 Everyday Coding Tasks You Should Automate with AI](https://dev.to/jaideepparashar/5-everyday-coding-tasks-you-should-automate-with-ai-3c13)
+- [How to Implement OCR in HarmonyOS: A Step-by-Step Guide with Regex](https://dev.to/harmonyos/how-to-implement-ocr-in-harmonyos-a-step-by-step-guide-with-regex-5f48)
+- [Customizable shadcn/ui DateRangePicker with Comparison Feature](https://dev.to/jqueryscript/customizable-shadcnui-daterangepicker-with-comparison-feature-27k9)
+- [Zero-Downtime VM to Kubernetes Migration with Istio: A Complete Production Guide](https://dev.to/sumit_roy9007/zero-downtime-vm-to-kubernetes-migration-with-istio-a-complete-production-guide-j1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
