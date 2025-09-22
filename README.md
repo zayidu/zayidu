@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-4i68)
-- [Building an AI Sales Infrastructure with Claude, n8n, and Apollo](https://dev.to/alifar/building-an-ai-sales-infrastructure-with-claude-n8n-and-apollo-4jih)
-- [What Is a Weak Pointer in Rust &lpar;and Why It Matters&rpar;?](https://dev.to/masteringbackend/what-is-a-weak-pointer-in-rust-and-why-it-matters-29m5)
-- [Máquina de hielo tubular comercial, ¿por qué elegir primero un modelo integrado?](https://dev.to/maqhielotubos/maquina-de-hielo-tubular-comercial-por-que-elegir-primero-un-modelo-integrado-4mdm)
-- [Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7)
+- [New in EasyAdmin: Custom Admin Routes](https://dev.to/javiereguiluz/new-in-easyadmin-custom-admin-routes-1176)
+- [Oracle Autonomous Database Management: User Administration, Elastic Pools, and Cloning Strategies](https://dev.to/derrickryangiggs/oracle-autonomous-database-management-user-administration-elastic-pools-and-cloning-strategies-594d)
+- [Baggget - beta test per il mio diario di bilancio personale](https://dev.to/alemicieli/baggget-beta-test-per-il-mio-diario-di-bilancio-personale-7b9)
+- [Achieving TB-Level Aggregate Bandwidth: How JuiceFS Optimized Distributed Cache Network](https://dev.to/daswu/achieving-tb-level-aggregate-bandwidth-how-juicefs-optimized-distributed-cache-network-207j)
+- [How to get and use free PVS-Studio license. Part 1: Preparing and getting started](https://dev.to/pvsdev/how-to-get-and-use-free-pvs-studio-license-part-1-preparing-and-getting-started-1kdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
