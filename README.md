@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering a Geospatial Caching Solution When Google Maps Became Expensive](https://dev.to/ramiyakoub/engineering-a-geospatial-caching-solution-when-google-maps-became-expensive-2e31)
-- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
-- [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
-- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
-- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
+- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn)
+- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e)
+- [Self-Hosting Listmonk with Coolify: Your Own Newsletter Platform in Minutes](https://dev.to/jaskarandeogan/self-hosting-listmonk-with-coolify-your-own-newsletter-platform-in-minutes-50j1)
+- [Stop the Code Chaos: Git Stash Checkpoints for Claude Code](https://dev.to/ztor2/prevent-claude-code-from-destroying-your-project-setting-up-a-git-stash-based-checkpoint-1721)
+- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
