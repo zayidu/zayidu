@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building E-commerce: Smart Shopping Assistant on GKE](https://dev.to/iklabs/building-e-commerce-smart-shopping-assistant-on-gke-5ci3)
-- [Lazy Loading in Angular &lpar;Modules &amp; Standalone&rpar;](https://dev.to/xrdev38/lazy-loading-in-angular-modules-standalone-3ic4)
-- [The Unbeatable Workhorse: Why Your Desk Needs a Monochrome Laser Printer](https://dev.to/jyoti_eb2834cf419b8c283b3/the-unbeatable-workhorse-why-your-desk-needs-a-monochrome-laser-printer-34p3)
-- [Why People Need to Learn Project Management in the Era of AI](https://dev.to/srijan-xi/why-people-need-to-learn-project-management-in-the-era-of-ai-23ei)
-- [Stop Overthinking It: The Real &quot;Laser Printer Meaning&quot; for Developers](https://dev.to/jyoti_eb2834cf419b8c283b3/stop-overthinking-it-the-real-laser-printer-meaning-for-developers-30m1)
+- [Building a Chat Interface: From Components to Conversation](https://dev.to/gazolla/building-a-chat-interface-from-components-to-conversation-53jc)
+- [Grant Horvat: Can I Beat Max Homa if I Start 5 Under Par?](https://dev.to/youtube_golf/grant-horvat-can-i-beat-max-homa-if-i-start-5-under-par-i91)
+- [GameSpot: SILENT HILL f | Official Launch Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-launch-trailer-2cj0)
+- [GameSpot: Top Hat Studios&#39; TGS Fall Showcase 2025](https://dev.to/gg_news/gamespot-top-hat-studios-tgs-fall-showcase-2025-20hc)
+- [GameSpot: Indie Fan Fest Fall 2025](https://dev.to/gg_news/gamespot-indie-fan-fest-fall-2025-4bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
