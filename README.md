@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We, Coders, Often Don&#39;t Get To Solve Problems—And That&#39;s Boring](https://dev.to/canro91/we-coders-often-dont-get-to-solve-problems-and-thats-boring-8jb)
-- [🧠GraphScout: Self-Discovering Paths in OrKA](https://dev.to/marcosomma/graphscout-self-discovering-paths-in-orka-348k)
-- [Stay ahead in web development: latest news, tools, and insights #103](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-103-2p39)
-- [Building Powerful APIs in Symfony: A Complete Guide for Modern Frontend Integration](https://dev.to/addwebsolutionpvtltd/building-powerful-apis-in-symfony-a-complete-guide-for-modern-frontend-integration-59am)
-- [Latency, Logic, and LLMs:Server-Side Logic Strategies](https://dev.to/balagmadhu/latency-logic-and-llmsserver-side-logic-strategies-4k6d)
+- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
+- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf)
+- [Beginner’s Guide to Making Money with Google AdSense](https://dev.to/abdaat/beginners-guide-to-making-money-with-google-adsense-1i96)
+- [AWS OpenSearch Full Documents Reindexing: When? Why? How?](https://dev.to/aws-builders/aws-opensearch-full-documents-reindexing-when-why-how-20c3)
+- [AWS-nuke controlled resources cleanup in multiple aws accounts](https://dev.to/aws-builders/aws-nuke-controlled-resources-cleanup-in-multiple-aws-accounts-313d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
