@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
-- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
-- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
-- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
-- [¿El panel de control de la máquina de hielo tubular tiene muchas funciones?](https://dev.to/hielotubo_tec/el-panel-de-control-de-la-maquina-de-hielo-tubular-tiene-muchas-funciones-2nc0)
+- [Web Developer Travis McCracken on Why I Use Rust for Stateless Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-use-rust-for-stateless-microservices-2g6p)
+- [How to Set Up Ollama: Install, Download Models, and Run LLMs Locally](https://dev.to/sophyia/how-to-set-up-ollama-install-download-models-and-run-llms-locally-2542)
+- [Consensus as Computation | A Developer’s View](https://dev.to/umang_suthar_9bad6f345a8a/consensus-as-computation-a-developers-view-1o24)
+- [On Fear of Friday Deployments](https://dev.to/_steve_fenton_/on-fear-of-friday-deployments-5h28)
+- [KEXP: Cardiel - Skaterock México &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-skaterock-mexico-live-on-kexp-37bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
