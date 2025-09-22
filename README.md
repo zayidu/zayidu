@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Simple Python Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-functions-2bg5)
-- [Wörtilizer](https://dev.to/idosius/wortilizer-10l2)
-- [Why SPAs Still Struggle with SEO &lpar;And What Developers Can Actually Do in 2025&rpar;](https://dev.to/arkhan/why-spas-still-struggle-with-seo-and-what-developers-can-actually-do-in-2025-237b)
-- [IGN: Capcom Online Program - Tokyo Game Show Livestream](https://dev.to/gg_news/ign-capcom-online-program-tokyo-game-show-livestream-4jkl)
-- [IGN: Exploring The Fastest Growing Games](https://dev.to/gg_news/ign-exploring-the-fastest-growing-games-5cgj)
+- [[Boost]](https://dev.to/batunpc/-21j4)
+- [From 10-Week Project to Long-Term Partnership](https://dev.to/saminarp/from-10-week-project-to-long-term-partnership-551p)
+- [The Cost of Inconsistency &lpar;And the Power of Predictability&rpar;](https://dev.to/duplessisvanaswegen/the-cost-of-inconsistency-and-the-power-of-predictability-57bg)
+- [I Built a Simple Feature Flag Service Because I Was Tired of Being Afraid to Deploy](https://dev.to/el_yt/i-built-a-simple-feature-flag-service-because-i-was-tired-of-being-afraid-to-deploy-5ci)
+- [How to Install and Configure n8n on an Air-Gapped RHEL Server](https://dev.to/kaustubhyerkade/how-to-install-and-configure-n8n-on-an-air-gapped-rhel-server-47hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
