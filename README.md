@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone will be replaced...](https://dev.to/zenoshubh/everyone-will-be-replaced-4855)
-- [When ECharts Refused to Scroll: My Hacky but Beautiful Fix](https://dev.to/shubhamsapkal/when-echarts-refused-to-scroll-my-hacky-but-beautiful-fix-3nfo)
-- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
-- [[Boost]](https://dev.to/jatniel/-5dp9)
-- [Solidity Libraries](https://dev.to/loading_blocks/solidity-libraries-4ceo)
+- [The Real Reason Your &quot;Computer and Mobile&quot; Strategy is Failing &lpar;And It’s Not What You Think&rpar;](https://dev.to/jyoti_eb2834cf419b8c283b3/the-real-reason-your-computer-and-mobile-strategy-is-failing-and-its-not-what-you-think-4fgm)
+- [New React Components Library from SVAR](https://dev.to/olga_tash/new-react-components-library-from-svar-40mm)
+- [🔥 Stop Wasting Time with APIs — Build a Full Backend in Minutes using Supabase &amp; React!](https://dev.to/ekwoster/stop-wasting-time-with-apis-build-a-full-backend-in-minutes-using-supabase-react-2b28)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/augo_amos/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-23op)
+- [🚀 Spring Boot + OpenAPI Generator: Type-Safe Generic API Clients Without Boilerplate](https://dev.to/barissayli/spring-boot-openapi-generator-type-safe-generic-api-clients-without-boilerplate-3a8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
