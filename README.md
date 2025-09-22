@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerization Without the Cloud: Running Docker Locally for Fun and Speed](https://dev.to/bennay1990/containerization-without-the-cloud-running-docker-locally-for-fun-and-speed-53dl)
-- [What the COW? Understanding Docker&#39;s Smart Storage Secret](https://dev.to/harsh_raj_934dd76b12195ee/what-the-cow-understanding-dockers-smart-storage-secret-37k0)
-- [Critical Infrastructure Protection Program: A Comprehensive Guide](https://dev.to/kapusto/critical-infrastructure-protection-program-a-comprehensive-guide-146d)
-- [Enterprise IoT Security: Best Practices for Protecting Connected Devices](https://dev.to/kapusto/enterprise-iot-security-best-practices-for-protecting-connected-devices-46c0)
-- [I am trying to find the best prompt testing framework for a project I am working on, and have narrowed down the options to Promptfoo, LangSmith, and PromptPex. Does anyone have any experience on which might be the best option? #testing #promptengineering](https://dev.to/bytesofash/i-am-trying-to-find-the-best-prompt-testing-framework-for-a-project-i-am-working-on-and-have-h51)
+- [The Art of Simple Python Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-functions-2bg5)
+- [Wörtilizer](https://dev.to/idosius/wortilizer-10l2)
+- [Why SPAs Still Struggle with SEO &lpar;And What Developers Can Actually Do in 2025&rpar;](https://dev.to/arkhan/why-spas-still-struggle-with-seo-and-what-developers-can-actually-do-in-2025-237b)
+- [IGN: Capcom Online Program - Tokyo Game Show Livestream](https://dev.to/gg_news/ign-capcom-online-program-tokyo-game-show-livestream-4jkl)
+- [IGN: Exploring The Fastest Growing Games](https://dev.to/gg_news/ign-exploring-the-fastest-growing-games-5cgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
