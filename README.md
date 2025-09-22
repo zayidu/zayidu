@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
-- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf)
-- [Beginner’s Guide to Making Money with Google AdSense](https://dev.to/abdaat/beginners-guide-to-making-money-with-google-adsense-1i96)
-- [AWS OpenSearch Full Documents Reindexing: When? Why? How?](https://dev.to/aws-builders/aws-opensearch-full-documents-reindexing-when-why-how-20c3)
-- [AWS-nuke controlled resources cleanup in multiple aws accounts](https://dev.to/aws-builders/aws-nuke-controlled-resources-cleanup-in-multiple-aws-accounts-313d)
+- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
+- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-1im7)
+- [MySQL ALTER TABLE: A Developer’s Guide to Schema Changes](https://dev.to/dbvismarketing/mysql-alter-table-a-developers-guide-to-schema-changes-3b2l)
+- [100 Days of DevOps: Day 50](https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
