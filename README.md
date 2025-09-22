@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Why I Use Rust for Stateless Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-use-rust-for-stateless-microservices-2g6p)
-- [How to Set Up Ollama: Install, Download Models, and Run LLMs Locally](https://dev.to/sophyia/how-to-set-up-ollama-install-download-models-and-run-llms-locally-2542)
-- [Consensus as Computation | A Developer’s View](https://dev.to/umang_suthar_9bad6f345a8a/consensus-as-computation-a-developers-view-1o24)
-- [On Fear of Friday Deployments](https://dev.to/_steve_fenton_/on-fear-of-friday-deployments-5h28)
-- [KEXP: Cardiel - Skaterock México &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-skaterock-mexico-live-on-kexp-37bp)
+- [AI and the Game Developer: Partner or Replacement?](https://dev.to/guardingpearsoftware/ai-and-the-game-developer-partner-or-replacement-59lj)
+- [Looking for someone to help with your C++ project without breaking the bank? I bring 10+ years of experience developing fast, reliable, multi-threaded applications, and I’m passionate about optimizing algorithms, managing memory efficiently, and solving to](https://dev.to/tom_millan_1137ea98223207/looking-for-someone-to-help-with-your-c-project-without-breaking-the-bank-i-bring-10-years-of-2ofo)
+- [Denshya Proton.js Joins Hacktoberfest 2025 🎉](https://dev.to/framemuse/denshya-protonjs-joins-hacktoberfest-2025-4ed7)
+- [Go devs just got React-level superpowers](https://dev.to/derstruct/go-devs-just-got-react-level-superpowers-26kp)
+- [How To Hide Secrets &amp; Exe Payloads In Images &lpar;Guide&rpar;](https://dev.to/scofieldidehen/how-to-hide-secrets-exe-payloads-in-images-guide-294k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
