@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
-- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
-- [The Game Theorists: Game Theory: What is Minecraft&#39;s Suspicious Stew?](https://dev.to/gg_news/the-game-theorists-game-theory-what-is-minecrafts-suspicious-stew-39d0)
-- [IGN: Fatal Fury: City of the Wolves - Official Joe Higashi Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-joe-higashi-trailer-54g2)
-- [IGN: Endless Legend 2 - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-early-access-launch-trailer-45d3)
+- [Everyone will be replaced...](https://dev.to/zenoshubh/everyone-will-be-replaced-4855)
+- [When ECharts Refused to Scroll: My Hacky but Beautiful Fix](https://dev.to/shubhamsapkal/when-echarts-refused-to-scroll-my-hacky-but-beautiful-fix-3nfo)
+- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
+- [[Boost]](https://dev.to/jatniel/-5dp9)
+- [Solidity Libraries](https://dev.to/loading_blocks/solidity-libraries-4ceo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
