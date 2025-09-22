@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Reason Your &quot;Computer and Mobile&quot; Strategy is Failing &lpar;And It’s Not What You Think&rpar;](https://dev.to/jyoti_eb2834cf419b8c283b3/the-real-reason-your-computer-and-mobile-strategy-is-failing-and-its-not-what-you-think-4fgm)
-- [New React Components Library from SVAR](https://dev.to/olga_tash/new-react-components-library-from-svar-40mm)
-- [🔥 Stop Wasting Time with APIs — Build a Full Backend in Minutes using Supabase &amp; React!](https://dev.to/ekwoster/stop-wasting-time-with-apis-build-a-full-backend-in-minutes-using-supabase-react-2b28)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/augo_amos/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-23op)
-- [🚀 Spring Boot + OpenAPI Generator: Type-Safe Generic API Clients Without Boilerplate](https://dev.to/barissayli/spring-boot-openapi-generator-type-safe-generic-api-clients-without-boilerplate-3a8f)
+- [Building E-commerce: Smart Shopping Assistant on GKE](https://dev.to/iklabs/building-e-commerce-smart-shopping-assistant-on-gke-5ci3)
+- [Lazy Loading in Angular &lpar;Modules &amp; Standalone&rpar;](https://dev.to/xrdev38/lazy-loading-in-angular-modules-standalone-3ic4)
+- [The Unbeatable Workhorse: Why Your Desk Needs a Monochrome Laser Printer](https://dev.to/jyoti_eb2834cf419b8c283b3/the-unbeatable-workhorse-why-your-desk-needs-a-monochrome-laser-printer-34p3)
+- [Why People Need to Learn Project Management in the Era of AI](https://dev.to/srijan-xi/why-people-need-to-learn-project-management-in-the-era-of-ai-23ei)
+- [Stop Overthinking It: The Real &quot;Laser Printer Meaning&quot; for Developers](https://dev.to/jyoti_eb2834cf419b8c283b3/stop-overthinking-it-the-real-laser-printer-meaning-for-developers-30m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
