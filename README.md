@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and the Game Developer: Partner or Replacement?](https://dev.to/guardingpearsoftware/ai-and-the-game-developer-partner-or-replacement-59lj)
-- [Looking for someone to help with your C++ project without breaking the bank? I bring 10+ years of experience developing fast, reliable, multi-threaded applications, and I’m passionate about optimizing algorithms, managing memory efficiently, and solving to](https://dev.to/tom_millan_1137ea98223207/looking-for-someone-to-help-with-your-c-project-without-breaking-the-bank-i-bring-10-years-of-2ofo)
-- [Denshya Proton.js Joins Hacktoberfest 2025 🎉](https://dev.to/framemuse/denshya-protonjs-joins-hacktoberfest-2025-4ed7)
-- [Go devs just got React-level superpowers](https://dev.to/derstruct/go-devs-just-got-react-level-superpowers-26kp)
-- [How To Hide Secrets &amp; Exe Payloads In Images &lpar;Guide&rpar;](https://dev.to/scofieldidehen/how-to-hide-secrets-exe-payloads-in-images-guide-294k)
+- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
+- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
+- [The Game Theorists: Game Theory: What is Minecraft&#39;s Suspicious Stew?](https://dev.to/gg_news/the-game-theorists-game-theory-what-is-minecrafts-suspicious-stew-39d0)
+- [IGN: Fatal Fury: City of the Wolves - Official Joe Higashi Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-joe-higashi-trailer-54g2)
+- [IGN: Endless Legend 2 - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-early-access-launch-trailer-45d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
