@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a voice AI agent to clean my emails, meetings, and Slack DMs &lpar;Composio, Vapi, OpenAI TTS&rpar; 🪄](https://dev.to/composiodev/i-built-a-voice-ai-agent-to-clean-my-emails-meetings-and-slack-dms-composio-vapi-openai-tts-472b)
-- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
-- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
-- [اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI](https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci)
-- [Optimizing Video in B2B Lead Gen: Trends Formats and Tips](https://dev.to/leo_johnson_e34af4a6d9bd9/optimizing-video-in-b2b-lead-gen-trends-formats-and-tips-1kil)
+- [How I prepared for Frontend interviews in 2 weeks &lpar;And how you can too&rpar;](https://dev.to/swastikyadav/how-i-prepared-for-frontend-interviews-in-2-weeks-and-how-you-can-too-jmd)
+- [Making this Hugo-built blog multilingual](https://dev.to/masutaka/making-this-hugo-built-blog-multilingual-l9b)
+- [8 Useful Developer Tools That You Will Be Amazed to Discover 🧙‍♂️🤩](https://dev.to/madza/8-useful-developer-tools-that-you-will-be-amazed-to-discover-4cm9)
+- [Handling Distributed Transactions with Orchestrator Pattern &lpar;Withdrawal &amp; Deposit Example&rpar;](https://dev.to/mahmoudabbasi/handling-distributed-transactions-with-orchestrator-pattern-withdrawal-deposit-example-dap)
+- [KEXP: Rosali - Change Is In The Form &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-change-is-in-the-form-live-on-kexp-2a9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
