@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Pluggable Cache: A Low-Level Design Walkthrough](https://dev.to/nk_sk_6f24fdd730188b284bf/building-a-pluggable-cache-a-low-level-design-walkthrough-3glm)
-- [Your Top 10 Claude Code Subagents for Instant Productivity](https://dev.to/necatiozmen/your-top-10-claude-code-subagents-for-instant-productivity-4nh3)
-- [ACID vs. BASE: The Ultimate Showdown for Database Reliability](https://dev.to/leonardkachi/acid-vs-base-the-ultimate-showdown-for-database-reliability-500c)
-- [AWS re/Start – My Week 6 Experience](https://dev.to/ijay/aws-restart-my-week-6-experience-heo)
-- [Building a Proactive AI Travel Agent on AWS Bedrock AgentCore &lpar;Final Part &rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-bedrock-agentcore-final-part--p5n)
+- [¿Cuáles son las fábricas de máquinas de hielo tubular con una producción diaria de 5 toneladas?](https://dev.to/maqhielotubo_digital/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-de-5-toneladas-56pb)
+- [Building AI-Powered Flutter Apps with Claude](https://dev.to/teephilz/building-ai-powered-flutter-apps-with-claude-55d6)
+- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
+- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
+- [Preptember 2025 week 3: Color schemes and Copilot improvements in GitFichas](https://dev.to/jesstemporal/preptember-2025-week-3-color-schemes-and-copilot-improvements-in-gitfichas-59kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
