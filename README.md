@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: How to Encrypt and Decrypt with AES](https://dev.to/ankitmalikg/python-how-to-encrypt-and-decrypt-with-aes-4h1k)
-- [Introduction to Python Module Two Part Two Best Practices](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-two-best-practices-336b)
-- [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm)
-- [Three.js: How to determine if a point is inside a box?](https://dev.to/handsometan/threejs-how-to-determine-if-a-point-is-inside-a-box-1fpi)
-- [Ask Your Video: Build a Containerized RAG Application for Visual and Audio Analysis](https://dev.to/aws/ask-your-video-build-a-containerized-rag-application-for-visual-and-audio-analysis-58bg)
+- [Top 3 Pillars of a Trustworthy AI Governance Framework for 2025](https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210)
+- [How to Build a Privacy-First AI Agent: The 2025 Engineering Blueprint](https://dev.to/boyte_conwa_60f60127bd416/how-to-build-a-privacy-first-ai-agent-the-2025-engineering-blueprint-4ic5)
+- [How to set up Interconnect / FastConnect between GCP and OCI](https://dev.to/farisdurrani/how-to-set-up-interconnect-fastconnect-between-gcp-and-oci-4813)
+- [Why ETL Becomes ELT or Even LET?](https://dev.to/esproc_spl/why-etl-becomes-elt-or-even-let-56a6)
+- [First&lpar;&rpar; and FirstOrDefaut](https://dev.to/rgbos/first-and-firstordefaut-3bji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
