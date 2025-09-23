@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to the Latest ZoomEye Search Syntax](https://dev.to/stark_zhuang_df5076f35c68/a-complete-guide-to-the-latest-zoomeye-search-syntax-4loo)
-- [การใช้ `netcat` เปิดพอร์ตรับข้อความแบบง่ายๆ](https://dev.to/anuchito/kaaraich-netcat-epidphrtrabkhkhwaamaebbngaay-4bmo)
-- [IGN: OD - &#39;Knock&#39; Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333)
-- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f)
-- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45)
+- [Learning Principles to Help You Learn Faster and Smarter if You Want to Become a Dev in the AI Age](https://dev.to/the_mj_super/learning-principles-to-help-you-learn-faster-and-smarter-if-you-want-to-become-a-dev-in-the-ai-age-4lam)
+- [AI Testing Tools for Enterprises: Most Recommended](https://dev.to/ronika_kashyap/ai-testing-tools-for-enterprises-most-recommended-nka)
+- [¿Cuáles son los mejores proveedores de máquinas de hielo tubular con buen diseño?](https://dev.to/maqhielotubo_digital/cuales-son-los-mejores-proveedores-de-maquinas-de-hielo-tubular-con-buen-diseno-20h3)
+- [Top Content and Automation Tools to Boost Crypto Marketing](https://dev.to/martin_deniyal_07aa225fc5/top-content-and-automation-tools-to-boost-crypto-marketing-2h0p)
+- [¿Cuáles son las fábricas de máquinas de hielo tubular fáciles de mantener que son mejores?](https://dev.to/tubohielo_comercial/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-faciles-de-mantener-que-son-mejores-38gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
