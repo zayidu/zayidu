@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nanobot by Obot.ai: Architecting Real MCP Agents with MCP-UI, Stateful Threads &amp; Agent-to-Agent Patterns](https://dev.to/om_shree_0709/nanobot-by-obotai-architecting-real-mcp-agents-with-mcp-ui-stateful-threads-agent-to-agent-477d)
-- [I just finished a beginner project combining a BMI calculator, a live clock, and a GitHub profile card using the GitHub API.](https://dev.to/sufalthakre/i-just-finished-a-beginner-project-combining-a-bmi-calculator-a-live-clock-and-a-github-profile-1629)
-- [AdminWind: Free Admin Dashboard Template + 10 More TailwindCSS Templates You Need in 2025](https://dev.to/saim_t8/adminwind-free-admin-dashboard-template-10-more-tailwindcss-templates-you-need-in-2025-5f0g)
-- [The C-Suite API: 5 Endpoints for Writing B2B Content That Gets a 200 OK](https://dev.to/michaelaiglobal/the-c-suite-api-5-endpoints-for-writing-b2b-content-that-gets-a-200-ok-418o)
-- [When AI Writes Medical Records, the Patient Disappears](https://dev.to/agustin_v_startari/when-ai-writes-medical-records-the-patient-disappears-4ki6)
+- [Streamlining MCP Management: Bundle Multiple Servers with FastMCP Proxies](https://dev.to/alexretana/streamlining-mcp-management-bundle-multiple-servers-with-fastmcp-proxies-n3i)
+- [Como Integrar Chainlink Data Feeds em Go para Múltiplos Tokens](https://dev.to/dev-araujo/como-integrar-chainlink-data-feeds-em-go-para-multiplos-tokens-ekb)
+- [Node.js Multi-Threading with Worker Threads](https://dev.to/dushmanta/nodejs-multi-threading-with-worker-threads-1nmj)
+- [Complete Ansible Guide](https://dev.to/mcheremnov/complete-ansible-guide-omf)
+- [Unlock More FPS with Object Pooling](https://dev.to/rahul_barate_e965377330fe/unlock-more-fps-with-object-pooling-3e3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
