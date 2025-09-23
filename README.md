@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture of AI Workflows: Designing Beyond the Model Layer](https://dev.to/leena_malhotra/the-architecture-of-ai-workflows-designing-beyond-the-model-layer-45ld)
-- [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
-- [Amazon QuickSight: la bolita mágica que revela las tendencias de los platillos mexicanos 🔮🍴](https://dev.to/bgalicia/amazon-quicksight-la-bolita-magica-que-revela-las-tendencias-de-los-platillos-mexicanos-117m)
-- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
-- [Global Exception Handling in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/global-exception-handling-in-net-web-api-3aln)
+- [A Complete Guide to the Latest ZoomEye Search Syntax](https://dev.to/stark_zhuang_df5076f35c68/a-complete-guide-to-the-latest-zoomeye-search-syntax-4loo)
+- [การใช้ `netcat` เปิดพอร์ตรับข้อความแบบง่ายๆ](https://dev.to/anuchito/kaaraich-netcat-epidphrtrabkhkhwaamaebbngaay-4bmo)
+- [IGN: OD - &#39;Knock&#39; Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333)
+- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f)
+- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
