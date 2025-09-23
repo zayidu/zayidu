@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Principles to Help You Learn Faster and Smarter if You Want to Become a Dev in the AI Age](https://dev.to/the_mj_super/learning-principles-to-help-you-learn-faster-and-smarter-if-you-want-to-become-a-dev-in-the-ai-age-4lam)
-- [AI Testing Tools for Enterprises: Most Recommended](https://dev.to/ronika_kashyap/ai-testing-tools-for-enterprises-most-recommended-nka)
-- [¿Cuáles son los mejores proveedores de máquinas de hielo tubular con buen diseño?](https://dev.to/maqhielotubo_digital/cuales-son-los-mejores-proveedores-de-maquinas-de-hielo-tubular-con-buen-diseno-20h3)
-- [Top Content and Automation Tools to Boost Crypto Marketing](https://dev.to/martin_deniyal_07aa225fc5/top-content-and-automation-tools-to-boost-crypto-marketing-2h0p)
-- [¿Cuáles son las fábricas de máquinas de hielo tubular fáciles de mantener que son mejores?](https://dev.to/tubohielo_comercial/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-faciles-de-mantener-que-son-mejores-38gd)
+- [Real-Time Fraud Detection Using Apache Flink](https://dev.to/mahmoudabbasi/real-time-fraud-detection-using-apache-flink-4l2a)
+- [Perplexity Email Assistant: Smarter Inbox Automation That Works](https://dev.to/alifar/perplexity-email-assistant-smarter-inbox-automation-that-works-ocl)
+- [Proxmox VM Templates and Cloud-Init](https://dev.to/codecave_pro/proxmox-vm-templates-and-cloud-init-1364)
+- [What Are Design Tokens, and Why Should You Care?](https://dev.to/fylgja/what-are-design-tokens-and-why-should-you-care-289c)
+- [Kiro: Primeras impresiones y configuración de MCPs](https://dev.to/aws-espanol/kiro-primeras-impresiones-y-configuracion-de-mcps-4nfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
