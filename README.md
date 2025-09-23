@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Review Therapy: How to Give Feedback Without Breaking Hearts &lpar;or Code&rpar;💔](https://dev.to/pullflow/code-review-therapy-how-to-give-feedback-without-breaking-hearts-or-code-4dm8)
-- [[Boost]](https://dev.to/anakin_developer/-1699)
-- [Introduction to Prisma: An ORM for Type-Safe and Efficient Database Operations](https://dev.to/learcise_health/introduction-to-prisma-an-orm-for-type-safe-and-efficient-database-operations-4334)
-- [Access Wi-Fi password from a PC](https://dev.to/noorejannatnafia/access-wi-fi-password-from-a-pc-k1e)
-- [12 Developer Tools That Keep My Workflow Smooth](https://dev.to/therealmrmumba/12-developer-tools-that-keep-my-workflow-smooth-268k)
+- [KEXP: Rosali - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-full-performance-live-on-kexp-3hgi)
+- [Golf.com: The Unsolved Mystery Behind Bethpage Black&#39;s Famous Warning Sign](https://dev.to/youtube_golf/golfcom-the-unsolved-mystery-behind-bethpage-blacks-famous-warning-sign-1njl)
+- [IGN: Fortnite x Daft Punk Experience - Official Trailer](https://dev.to/gg_news/ign-fortnite-x-daft-punk-experience-official-trailer-4g04)
+- [IGN: Stalker 2: Heart of Chornobyl - Official &#39;Night of the Hunter Update&#39; Update 1.6 Trailer](https://dev.to/gg_news/ign-stalker-2-heart-of-chornobyl-official-night-of-the-hunter-update-update-16-trailer-1idm)
+- [Day 6 of Complete JavaScript in 17 days | Visual Series📚✨](https://dev.to/azaan_suhail/day-6-of-complete-javascript-in-17-days-visual-series-4o0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
