@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Framework That Shows Systems Can&#39;t Detect Their Own Delusions](https://dev.to/casey_evans_44d8bc7d7706a/i-built-a-framework-that-shows-systems-cant-detect-their-own-delusions-26cn)
-- [React and the Philosopher&#39;s Component](https://dev.to/sagi0312/react-and-the-philosophers-component-4dnk)
-- [Big O Made Simple: My First Encounter with Performance in C#](https://dev.to/brunompp/big-o-made-simple-my-first-encounter-with-performance-in-c-l6n)
-- [The Only Roadmap You Need to Become an AI/ML Engineer](https://dev.to/stutipatel/the-only-roadmap-you-need-to-become-an-aiml-engineer-3eo)
-- [Azure Networking: Expanding Subnets with Multiple Prefixes without Downtime.](https://dev.to/omiossec/azure-networking-expanding-subnets-with-multiple-prefixes-without-downtime-34lg)
+- [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
+- [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
+- [Performance Tuning for Nginx: 7 Tips to Slash TTFB and Boost Speed](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nginx-7-tips-to-slash-ttfb-and-boost-speed-4moa)
+- [Evergreen Content: Warum deine Tech-Inhalte auch in 5 Jahren noch rocken sollten](https://dev.to/ivo_sa/evergreen-content-warum-deine-tech-inhalte-auch-in-5-jahren-noch-rocken-sollten-12io)
+- [🔍 Applying Flawfinder: A Lightweight SAST Tool to Secure C/C++ Codebases](https://dev.to/jefferson_rosas/applying-flawfinder-a-lightweight-sast-tool-to-secure-cc-codebases-p50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
