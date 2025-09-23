@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Post 0/10 — Foundations: Zero to Base Setup](https://dev.to/cloud-sky-ops/post-010-foundations-zero-to-base-setup-58ni)
-- [⚓ Day 21 of My DevOps Journey: Kubernetes — Orchestrating Containers at Scale 🚀](https://dev.to/dankbhardwaj/day-21-of-my-devops-journey-kubernetes-orchestrating-containers-at-scale-27ge)
-- [[Boost]](https://dev.to/varundeva/-469k)
-- [I Gave AIs &quot;Hands&quot;. Now They Can Build Their Own Software.](https://dev.to/michael_alexander_4bcb07c/i-gave-ais-hands-now-they-can-build-their-own-software-5hgg)
-- [It&#39;s a fascinating yet unsettling phenomenon - AI algorithms](https://dev.to/drcarlosruizviquez/its-a-fascinating-yet-unsettling-phenomenon-ai-algorithms-2c5e)
+- [How to Build an AI-Powered Code Review Bot with GitHub Action, Slack, and LLMs](https://dev.to/cuongnp/how-to-build-an-ai-powered-code-review-bot-with-github-action-slack-and-llms-3iik)
+- [Do you use codex? Don&#39;t forget this:](https://dev.to/daslavcl/do-you-use-codex-dont-forget-this-2jm8)
+- [GameSpot: ANANTA - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-ananta-official-gameplay-reveal-trailer-1nmd)
+- [IGN: Ananta - Official Gameplay Trailer #2](https://dev.to/gg_news/ign-ananta-official-gameplay-trailer-2-2jj5)
+- [La IA no reemplazará a los desarrolladores de software](https://dev.to/boceto1/la-ia-no-reemplazara-a-los-desarrolladores-de-software-13ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
