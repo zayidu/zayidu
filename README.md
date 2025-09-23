@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 3 Pillars of a Trustworthy AI Governance Framework for 2025](https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210)
-- [How to Build a Privacy-First AI Agent: The 2025 Engineering Blueprint](https://dev.to/boyte_conwa_60f60127bd416/how-to-build-a-privacy-first-ai-agent-the-2025-engineering-blueprint-4ic5)
-- [How to set up Interconnect / FastConnect between GCP and OCI](https://dev.to/farisdurrani/how-to-set-up-interconnect-fastconnect-between-gcp-and-oci-4813)
-- [Why ETL Becomes ELT or Even LET?](https://dev.to/esproc_spl/why-etl-becomes-elt-or-even-let-56a6)
-- [First&lpar;&rpar; and FirstOrDefaut](https://dev.to/rgbos/first-and-firstordefaut-3bji)
+- [Post 0/10 — Foundations: Zero to Base Setup](https://dev.to/cloud-sky-ops/post-010-foundations-zero-to-base-setup-58ni)
+- [⚓ Day 21 of My DevOps Journey: Kubernetes — Orchestrating Containers at Scale 🚀](https://dev.to/dankbhardwaj/day-21-of-my-devops-journey-kubernetes-orchestrating-containers-at-scale-27ge)
+- [[Boost]](https://dev.to/varundeva/-469k)
+- [I Gave AIs &quot;Hands&quot;. Now They Can Build Their Own Software.](https://dev.to/michael_alexander_4bcb07c/i-gave-ais-hands-now-they-can-build-their-own-software-5hgg)
+- [It&#39;s a fascinating yet unsettling phenomenon - AI algorithms](https://dev.to/drcarlosruizviquez/its-a-fascinating-yet-unsettling-phenomenon-ai-algorithms-2c5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
