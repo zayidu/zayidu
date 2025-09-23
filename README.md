@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cuáles son las fábricas de máquinas de hielo tubular con una producción diaria de 5 toneladas?](https://dev.to/maqhielotubo_digital/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-de-5-toneladas-56pb)
-- [Building AI-Powered Flutter Apps with Claude](https://dev.to/teephilz/building-ai-powered-flutter-apps-with-claude-55d6)
-- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
-- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
-- [Preptember 2025 week 3: Color schemes and Copilot improvements in GitFichas](https://dev.to/jesstemporal/preptember-2025-week-3-color-schemes-and-copilot-improvements-in-gitfichas-59kk)
+- [I built a voice AI agent to clean my emails, meetings, and Slack DMs &lpar;Composio, Vapi, OpenAI TTS&rpar; 🪄](https://dev.to/composiodev/i-built-a-voice-ai-agent-to-clean-my-emails-meetings-and-slack-dms-composio-vapi-openai-tts-472b)
+- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
+- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
+- [اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI](https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci)
+- [Optimizing Video in B2B Lead Gen: Trends Formats and Tips](https://dev.to/leo_johnson_e34af4a6d9bd9/optimizing-video-in-b2b-lead-gen-trends-formats-and-tips-1kil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
