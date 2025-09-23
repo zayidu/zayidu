@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI-Powered Code Review Bot with GitHub Action, Slack, and LLMs](https://dev.to/cuongnp/how-to-build-an-ai-powered-code-review-bot-with-github-action-slack-and-llms-3iik)
-- [Do you use codex? Don&#39;t forget this:](https://dev.to/daslavcl/do-you-use-codex-dont-forget-this-2jm8)
-- [GameSpot: ANANTA - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-ananta-official-gameplay-reveal-trailer-1nmd)
-- [IGN: Ananta - Official Gameplay Trailer #2](https://dev.to/gg_news/ign-ananta-official-gameplay-trailer-2-2jj5)
-- [La IA no reemplazará a los desarrolladores de software](https://dev.to/boceto1/la-ia-no-reemplazara-a-los-desarrolladores-de-software-13ed)
+- [The Architecture of AI Workflows: Designing Beyond the Model Layer](https://dev.to/leena_malhotra/the-architecture-of-ai-workflows-designing-beyond-the-model-layer-45ld)
+- [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
+- [Amazon QuickSight: la bolita mágica que revela las tendencias de los platillos mexicanos 🔮🍴](https://dev.to/bgalicia/amazon-quicksight-la-bolita-magica-que-revela-las-tendencias-de-los-platillos-mexicanos-117m)
+- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
+- [Global Exception Handling in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/global-exception-handling-in-net-web-api-3aln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
