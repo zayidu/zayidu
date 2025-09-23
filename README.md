@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating Synthetic RTL OCR Data for Donut with SynthDoG-RTL](https://dev.to/aiviewz_team/generating-synthetic-rtl-ocr-data-for-donut-with-synthdog-rtl-3ghi)
-- [Top Search Engines Explained and How Some Depend on the Bigger Players](https://dev.to/rijultp/top-search-engines-explained-and-how-some-depend-on-the-bigger-players-3b02)
-- [From Megabytes to Kilobytes: A Dev’s Guide to Practical Image Compression](https://dev.to/nobaab/from-megabytes-to-kilobytes-a-devs-guide-to-practical-image-compression-35l)
-- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
-- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
+- [I Built a Framework That Shows Systems Can&#39;t Detect Their Own Delusions](https://dev.to/casey_evans_44d8bc7d7706a/i-built-a-framework-that-shows-systems-cant-detect-their-own-delusions-26cn)
+- [React and the Philosopher&#39;s Component](https://dev.to/sagi0312/react-and-the-philosophers-component-4dnk)
+- [Big O Made Simple: My First Encounter with Performance in C#](https://dev.to/brunompp/big-o-made-simple-my-first-encounter-with-performance-in-c-l6n)
+- [The Only Roadmap You Need to Become an AI/ML Engineer](https://dev.to/stutipatel/the-only-roadmap-you-need-to-become-an-aiml-engineer-3eo)
+- [Azure Networking: Expanding Subnets with Multiple Prefixes without Downtime.](https://dev.to/omiossec/azure-networking-expanding-subnets-with-multiple-prefixes-without-downtime-34lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
