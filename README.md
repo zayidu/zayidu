@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Simple Python Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-lists-2e6m)
-- [Dynamic Theming in React Using Context API: Multi-Brand 🎨](https://dev.to/yorgie7/dynamic-theming-in-react-using-context-api-multi-brand-56l1)
-- [Java para Iniciantes: Começe a Programar em 2025](https://dev.to/gustavohenriquej/java-para-iniciantes-comece-a-programar-em-2025-3dh)
-- [AWS IoT Core Starter with Esp32, MQTT, Rust &amp; Terraform](https://dev.to/rammaths/aws-iot-core-starter-with-esp32-mqtt-rust-terraform-2bb)
-- [7 Tips for Securing Nginx with TLS and Fail2Ban on Production Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-fail2ban-on-production-servers-31ph)
+- [Generating Synthetic RTL OCR Data for Donut with SynthDoG-RTL](https://dev.to/aiviewz_team/generating-synthetic-rtl-ocr-data-for-donut-with-synthdog-rtl-3ghi)
+- [Top Search Engines Explained and How Some Depend on the Bigger Players](https://dev.to/rijultp/top-search-engines-explained-and-how-some-depend-on-the-bigger-players-3b02)
+- [From Megabytes to Kilobytes: A Dev’s Guide to Practical Image Compression](https://dev.to/nobaab/from-megabytes-to-kilobytes-a-devs-guide-to-practical-image-compression-35l)
+- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
+- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
