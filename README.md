@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Vanity URLs for Oracle APEX on OCI](https://dev.to/farisdurrani/deploying-vanity-urls-for-oracle-apex-on-oci-100l)
+- [One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform](https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk)
+- [The Hidden Revenue Leak in Manual QA](https://dev.to/radha_4c842d8e4362a7cdd9c/the-hidden-revenue-leak-in-manual-qa-3po7)
+- [How to Use Huawei Core-Speech Kit for English and Japanese Text-to-Speech &lpar;TTS&rpar;](https://dev.to/harmonyos/how-to-use-huawei-core-speech-kit-for-english-and-japanese-text-to-speech-tts-1nk6)
 - [billboard.js 3.17.0: ✨ New Axis Customization, Label Styling &amp; Image Labels!](https://dev.to/netil/billboardjs-3170-new-axis-customization-label-styling-image-labels-5ao7)
-- [Rails Admin panel with Avo: a booking application](https://dev.to/erozas/rails-admin-panel-with-avo-a-booking-application-4h0h)
-- [Bruno vs Postman: Which API Client Should You Choose?](https://dev.to/abhijith_p_subash/bruno-vs-postman-which-api-client-should-you-choose-6kf)
-- [Serverless Dashboard Architecture Using AWS Lambda, API Gateway, and GitHub Actions](https://dev.to/asimmakes/serverless-dashboard-architecture-using-aws-lambda-api-gateway-and-github-actions-3enn)
-- [Markov chains are the original language models](https://dev.to/technoblogger14o3/markov-chains-are-the-original-language-models-2a65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
