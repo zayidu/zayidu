@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a FastAPI App with MongoDB: A Step-by-Step Guide](https://dev.to/sarbajitacharjee/how-i-built-a-fastapi-app-with-mongodb-a-step-by-step-guide-3a80)
-- [API Platform Con 2025 - Day 2](https://dev.to/sensiolabs/api-platform-con-2025-day-2-ebd)
-- [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
-- [The conspiracy is so blatant it almost looks like a case study in corruption. How did the courts even allow this to go unchecked?](https://dev.to/edwardvinke/the-conspiracy-is-so-blatant-it-almost-looks-like-a-case-study-in-corruption-how-did-the-courts-2pdg)
-- [Risk Assessment Plan in Project Management](https://dev.to/writegenic/risk-assessment-plan-in-project-management-5d62)
+- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
+- [Prometheus &amp; Grafana: The Art and Science of System Insight](https://dev.to/leonardkachi/prometheus-grafana-the-art-and-science-of-system-insight-4gea)
+- [Introducing a Game-Changer: Docling and IBM Cloud Code Engine Join Forces](https://dev.to/aairom/introducing-a-game-changer-docling-and-ibm-cloud-code-engine-join-forces-1pgj)
+- [What is data modernization and why is it critical for enterprises?](https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf)
+- [How to Migrate ECR Docker Images Between Repositories &lpar;with Automation&rpar;](https://dev.to/aws-builders/how-to-migrate-ecr-docker-images-between-repositories-with-automation-441h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
