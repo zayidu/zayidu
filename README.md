@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
-- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
-- [Day 01 Theory behind java](https://dev.to/rohit_juyal_c93b63c3dcf9c/day-01-theory-behind-java-59id)
-- [A new lesson from my recent interview experience](https://dev.to/manikandan_a8f99e0153ef77/a-new-lesson-from-my-recent-interview-experience-1dhn)
-- [Kubernetes Debug Container](https://dev.to/s_raj07/kubernetes-debug-container-5cdg)
+- [Informe-Tutorial: Instalación y Compilación de u2vpodcast en una VM Oracle Linux &lpar;ARM64&rpar;](https://dev.to/ivajofranc/informe-tutorial-instalacion-y-compilacion-de-u2vpodcast-en-una-vm-oracle-linux-arm64-41pj)
+- [IGN: Hollow Knight: Silksong Boss Fight - Savage Beastfly &lpar;Grand Hunt, Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-savage-beastfly-grand-hunt-far-fields-5138)
+- [IGN: Star Trek: Voyager - Across the Unknown - Official Gameplay Trailer | Indie Fan Fest Fall 2025](https://dev.to/gg_news/ign-star-trek-voyager-across-the-unknown-official-gameplay-trailer-indie-fan-fest-fall-2025-49bi)
+- [IGN: Silly Polly Beast - Official Release Window Trailer | Top Hat Showcase 2025](https://dev.to/gg_news/ign-silly-polly-beast-official-release-window-trailer-top-hat-showcase-2025-348g)
+- [IGN: Cyberpunk 2077: Ultimate Edition - Official ‘New Ways to Play’ Nintendo Switch 2 Trailer](https://dev.to/gg_news/ign-cyberpunk-2077-ultimate-edition-official-new-ways-to-play-nintendo-switch-2-trailer-1319)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
