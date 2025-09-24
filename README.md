@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, Kubernetes, and GitOps](https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8)
-- [How to Create Groups Efficiently in Tableau](https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f)
-- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
-- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi)
-- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60)
+- [API Gateways &lpar;Kong, Tyk, etc.&rpar;](https://dev.to/godofgeeks/api-gateways-kong-tyk-etc-2473)
+- [React redux](https://dev.to/mitchel_gitau_47346390a98/react-redux-5bjo)
+- [What’s Your Go-To Framework for Web Development?](https://dev.to/daniel_76f4e96b2e971bda84/whats-your-go-to-framework-for-web-development-1l4f)
+- [🚀 The Rise of Agentic AI: A Complete Guide from Basics to Future](https://dev.to/techstuff/the-rise-of-agentic-ai-a-complete-guide-from-basics-to-future-17d7)
+- [From Side Project to Profitable Niche: How I Monetized My Home Decor Blog Using Developer Skills](https://dev.to/hardik_b2d8f0bca/from-side-project-to-profitable-niche-how-i-monetized-my-home-decor-blog-using-developer-skills-5d32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
