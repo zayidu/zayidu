@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Needs a Portfolio in 2026](https://dev.to/aureathemes/why-every-developer-needs-a-portfolio-in-2026-40f)
-- [**Unlocking the Power of Reinforcement Learning: Discovering](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-reinforcement-learning-discovering-l82)
-- [How to prompt Gemini CLI to improve your Dockerfile](https://dev.to/shipyard/how-to-prompt-gemini-cli-to-improve-your-dockerfile-2ofg)
-- [**Boosting Cybersecurity Effectiveness with AI: The Power of](https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo)
-- [Introducing fastapi-bgtasks-dashboard : One-liner integration on your FastAPI application](https://dev.to/harshil_jani/introducing-fastapi-bgtasks-dashboard-one-liner-integration-on-your-fastapi-application-343i)
+- [Error Handling and logging policy helper for neverthrow](https://dev.to/caverar/error-handling-and-logging-policy-helper-for-neverthrow-5d2j)
+- [Simple Habit Tracker – From Idea to Scale-Ready &lpar;Frontend + Backend&rpar;](https://dev.to/ariansj/simple-habit-tracker-from-idea-to-scale-ready-frontend-backend-280j)
+- [K-Means Clustering Exposed: What the Textbooks Leave Out](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
+- [Bryan Bros Golf: We Challenged the US Junior Champion to a Match!](https://dev.to/youtube_golf/bryan-bros-golf-we-challenged-the-us-junior-champion-to-a-match-46pn)
+- [GameSpot: Saros Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-saros-gameplay-reveal-trailer-8bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
