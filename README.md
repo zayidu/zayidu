@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Data Standards for Seamless Collaboration and Integrity](https://dev.to/agustinusnathaniel/a-practical-guide-to-data-standards-for-seamless-collaboration-and-integrity-138k)
-- [🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender &lpar;Java&rpar;](https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm)
-- [The Coming Shift From AI Models to AI Infrastructure](https://dev.to/leena_malhotra/the-coming-shift-from-ai-models-to-ai-infrastructure-4p2g)
-- [MiMo-Audio: Voice and Language Just Merged](https://dev.to/aiwithapex/mimo-audio-voice-and-language-just-merged-3727)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1lf9)
+- [Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, Kubernetes, and GitOps](https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8)
+- [How to Create Groups Efficiently in Tableau](https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f)
+- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
+- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi)
+- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
