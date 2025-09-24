@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
-- [IA para escritores independentes: transforme sua escrita com inteligência artificial](https://dev.to/no_codestartup/ia-para-escritores-independentes-transforme-sua-escrita-com-inteligencia-artificial-4mfd)
-- [Build an Ollama LLM software engineering language bot](https://dev.to/austincunningham/build-an-ollama-llm-software-engineering-language-bot-292k)
-- [🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+](https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a)
-- [Launch in Weeks, Not Months: How Boilerplates Change the Game](https://dev.to/jigar_online/launch-in-weeks-not-months-how-boilerplates-change-the-game-37l6)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-full-performance-live-on-kexp-5anp)
+- [Golf.com: The Mystery Of Bethpage Black’s Unique Warning Sign](https://dev.to/youtube_golf/golfcom-the-mystery-of-bethpage-blacks-unique-warning-sign-p4f)
+- [GameSpot: Hades 2 Review](https://dev.to/gg_news/gamespot-hades-2-review-3dp7)
+- [GameSpot: Hotel Barcelona - Suda51&#39;s Cheeseburger Launch Trailer](https://dev.to/gg_news/gamespot-hotel-barcelona-suda51s-cheeseburger-launch-trailer-3mah)
+- [GameSpot: Monster Hunter Wilds - Free Title Update 3: Final Fantasy XIV Special Collaboration Trailer](https://dev.to/gg_news/gamespot-monster-hunter-wilds-free-title-update-3-final-fantasy-xiv-special-collaboration-4ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
