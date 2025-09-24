@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Kaizen to Wabi-Sabi: What Japanese Developers Taught Me About Writing Code That Lasts](https://dev.to/dev_tips/from-kaizen-to-wabi-sabi-what-japanese-developers-taught-me-about-writing-code-that-lasts-mjl)
-- [Go vs. C#: Which Language Uses Memory More Efficiently?](https://dev.to/lamri_abdellahramdane_15/go-vs-c-which-language-uses-memory-more-efficiently-pk5)
-- [Forget Meta Ray-Ban Glasses. The Neural Band Is the Real Platform &lpar;If Devs Get In&rpar;](https://dev.to/dev_tips/forget-meta-ray-ban-glasses-the-neural-band-is-the-real-platform-if-devs-get-in-gl5)
-- [I&#39;ve been drifting, here is my line in the sand.](https://dev.to/regalman/ive-been-drifting-here-is-my-line-in-the-sand-b3a)
-- [Are you still calling yourself DevOps? That role won’t exist in 2026.](https://dev.to/dev_tips/are-you-still-calling-yourself-devops-that-role-wont-exist-in-2026-4pk6)
+- [billboard.js 3.17.0: ✨ New Axis Customization, Label Styling &amp; Image Labels!](https://dev.to/netil/billboardjs-3170-new-axis-customization-label-styling-image-labels-5ao7)
+- [Rails Admin panel with Avo: a booking application](https://dev.to/erozas/rails-admin-panel-with-avo-a-booking-application-4h0h)
+- [Bruno vs Postman: Which API Client Should You Choose?](https://dev.to/abhijith_p_subash/bruno-vs-postman-which-api-client-should-you-choose-6kf)
+- [Serverless Dashboard Architecture Using AWS Lambda, API Gateway, and GitHub Actions](https://dev.to/asimmakes/serverless-dashboard-architecture-using-aws-lambda-api-gateway-and-github-actions-3enn)
+- [Markov chains are the original language models](https://dev.to/technoblogger14o3/markov-chains-are-the-original-language-models-2a65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
