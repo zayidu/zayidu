@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Gateways &lpar;Kong, Tyk, etc.&rpar;](https://dev.to/godofgeeks/api-gateways-kong-tyk-etc-2473)
-- [React redux](https://dev.to/mitchel_gitau_47346390a98/react-redux-5bjo)
-- [What’s Your Go-To Framework for Web Development?](https://dev.to/daniel_76f4e96b2e971bda84/whats-your-go-to-framework-for-web-development-1l4f)
-- [🚀 The Rise of Agentic AI: A Complete Guide from Basics to Future](https://dev.to/techstuff/the-rise-of-agentic-ai-a-complete-guide-from-basics-to-future-17d7)
-- [From Side Project to Profitable Niche: How I Monetized My Home Decor Blog Using Developer Skills](https://dev.to/hardik_b2d8f0bca/from-side-project-to-profitable-niche-how-i-monetized-my-home-decor-blog-using-developer-skills-5d32)
+- [How I Built a FastAPI App with MongoDB: A Step-by-Step Guide](https://dev.to/sarbajitacharjee/how-i-built-a-fastapi-app-with-mongodb-a-step-by-step-guide-3a80)
+- [API Platform Con 2025 - Day 2](https://dev.to/sensiolabs/api-platform-con-2025-day-2-ebd)
+- [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
+- [The conspiracy is so blatant it almost looks like a case study in corruption. How did the courts even allow this to go unchecked?](https://dev.to/edwardvinke/the-conspiracy-is-so-blatant-it-almost-looks-like-a-case-study-in-corruption-how-did-the-courts-2pdg)
+- [Risk Assessment Plan in Project Management](https://dev.to/writegenic/risk-assessment-plan-in-project-management-5d62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
