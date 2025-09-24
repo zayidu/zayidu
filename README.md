@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
-- [Prometheus &amp; Grafana: The Art and Science of System Insight](https://dev.to/leonardkachi/prometheus-grafana-the-art-and-science-of-system-insight-4gea)
-- [Introducing a Game-Changer: Docling and IBM Cloud Code Engine Join Forces](https://dev.to/aairom/introducing-a-game-changer-docling-and-ibm-cloud-code-engine-join-forces-1pgj)
-- [What is data modernization and why is it critical for enterprises?](https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf)
-- [How to Migrate ECR Docker Images Between Repositories &lpar;with Automation&rpar;](https://dev.to/aws-builders/how-to-migrate-ecr-docker-images-between-repositories-with-automation-441h)
+- [How to Pass the AWS Certified Data Engineer – Associate Exam](https://dev.to/camille_chang/how-to-pass-the-aws-certified-data-engineer-associate-exam-e01)
+- [D-FlipFlip circuit model with signals and Dart](https://dev.to/daniel_vh/d-flipflip-circuit-model-with-signals-and-dart-53eo)
+- [Mastering Python Arrays: A Comprehensive Guide for Beginners &amp; Beyond](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-python-arrays-a-comprehensive-guide-for-beginners-beyond-3kd7)
+- [No Laying Up Podcast: BallKnowers with Bob Sturm | Trap Draw, Ep 360](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-with-bob-sturm-trap-draw-ep-360-5ef8)
+- [How to Clear Logs of a Docker Container?](https://dev.to/ankit01oss/how-to-clear-logs-of-a-docker-container-2pa3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
