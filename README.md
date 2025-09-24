@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Vanity URLs for Oracle APEX on OCI](https://dev.to/farisdurrani/deploying-vanity-urls-for-oracle-apex-on-oci-100l)
-- [One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform](https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk)
-- [The Hidden Revenue Leak in Manual QA](https://dev.to/radha_4c842d8e4362a7cdd9c/the-hidden-revenue-leak-in-manual-qa-3po7)
-- [How to Use Huawei Core-Speech Kit for English and Japanese Text-to-Speech &lpar;TTS&rpar;](https://dev.to/harmonyos/how-to-use-huawei-core-speech-kit-for-english-and-japanese-text-to-speech-tts-1nk6)
-- [billboard.js 3.17.0: ✨ New Axis Customization, Label Styling &amp; Image Labels!](https://dev.to/netil/billboardjs-3170-new-axis-customization-label-styling-image-labels-5ao7)
+- [What Just Happened to RubyGems?](https://dev.to/cseeman/what-just-happened-to-rubygems-31n9)
+- [Just finished Head First Python, super beginner-friendly and hands-on. Loved the visual style and projects. Moves fast sometimes, but perfect if you’re starting!](https://dev.to/roshan_sharma_7deae5e0742/just-finished-head-first-python-super-beginner-friendly-and-hands-on-loved-the-visual-style-and-5d7o)
+- [Vision AI and Human-in-the-Loop Distillation: Building Trustworthy and Scalable Systems](https://dev.to/rithindattag/vision-ai-and-human-in-the-loop-distillation-building-trustworthy-and-scalable-systems-4m30)
+- [GameSpot: Yakuza Kiwami 3 Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-trailer-rgg-summit-2025-c76)
+- [Tool of the week: Free WYSIWYG Editor with QuillJS](https://dev.to/timthewebmaster/tool-of-the-week-free-wysiwyg-editor-with-quilljs-5hf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
