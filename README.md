@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
-- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
-- [6 New Gemini AI Prompts for Viral Nano Banana Photos of Men](https://dev.to/artificialintelligenceee/6-new-gemini-ai-prompts-for-viral-nano-banana-photos-of-men-6cb)
-- [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
-- [40 years in tech… and I feel like I’m just getting started. 😉](https://dev.to/aaronksaunders/40-years-in-tech-and-i-feel-like-im-just-getting-started-349n)
+- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
+- [Workspace on Demand in i3wm](https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki)
+- [Bryan Bros Golf: We Played With the #1 Junior Golfer in the Country](https://dev.to/youtube_golf/bryan-bros-golf-we-played-with-the-1-junior-golfer-in-the-country-2k6k)
+- [Peter Finch Golf: I’ve wanted to play here all my life...](https://dev.to/youtube_golf/peter-finch-golf-ive-wanted-to-play-here-all-my-life-2fbl)
+- [GameSpot: Resident Evil Requiem Gameplay Overview | Capcom Online Program TGS 2025](https://dev.to/gg_news/gamespot-resident-evil-requiem-gameplay-overview-capcom-online-program-tgs-2025-33ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
