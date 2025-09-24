@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-full-performance-live-on-kexp-5anp)
-- [Golf.com: The Mystery Of Bethpage Black’s Unique Warning Sign](https://dev.to/youtube_golf/golfcom-the-mystery-of-bethpage-blacks-unique-warning-sign-p4f)
-- [GameSpot: Hades 2 Review](https://dev.to/gg_news/gamespot-hades-2-review-3dp7)
-- [GameSpot: Hotel Barcelona - Suda51&#39;s Cheeseburger Launch Trailer](https://dev.to/gg_news/gamespot-hotel-barcelona-suda51s-cheeseburger-launch-trailer-3mah)
-- [GameSpot: Monster Hunter Wilds - Free Title Update 3: Final Fantasy XIV Special Collaboration Trailer](https://dev.to/gg_news/gamespot-monster-hunter-wilds-free-title-update-3-final-fantasy-xiv-special-collaboration-4ak)
+- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
+- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
+- [6 New Gemini AI Prompts for Viral Nano Banana Photos of Men](https://dev.to/artificialintelligenceee/6-new-gemini-ai-prompts-for-viral-nano-banana-photos-of-men-6cb)
+- [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
+- [40 years in tech… and I feel like I’m just getting started. 😉](https://dev.to/aaronksaunders/40-years-in-tech-and-i-feel-like-im-just-getting-started-349n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
