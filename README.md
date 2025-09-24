@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
-- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
-- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
-- [Tired of Passwords? Biometric Authentication is Knocking at Your Door!](https://dev.to/karthik_n/tired-of-passwords-biometric-authentication-is-knocking-at-your-door-3omh)
+- [Phoenix Cockpit Is Online: Command Your Swarm](https://dev.to/matrixswarm/phoenix-cockpit-is-online-command-your-swarm-1934)
+- [From Prompt to Production: A Developer&#39;s Guide to Deploying LLM Applications](https://dev.to/code_2/from-prompt-to-production-a-developers-guide-to-deploying-llm-applications-3c77)
+- [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878)
+- [Building a Practical DevSecOps Pipeline: From Basic Security to Enterprise-Style Protection](https://dev.to/eklavvya/building-a-practical-devsecops-pipeline-from-basic-security-to-enterprise-style-protection-2b9k)
+- [How to Monitor Data Pipelines in Rust Using OpenTelemetry and Shuttle](https://dev.to/shuttle/how-to-monitor-data-pipelines-in-rust-using-opentelemetry-and-shuttle-53en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
