@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
-- [Workspace on Demand in i3wm](https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki)
-- [Bryan Bros Golf: We Played With the #1 Junior Golfer in the Country](https://dev.to/youtube_golf/bryan-bros-golf-we-played-with-the-1-junior-golfer-in-the-country-2k6k)
-- [Peter Finch Golf: I’ve wanted to play here all my life...](https://dev.to/youtube_golf/peter-finch-golf-ive-wanted-to-play-here-all-my-life-2fbl)
-- [GameSpot: Resident Evil Requiem Gameplay Overview | Capcom Online Program TGS 2025](https://dev.to/gg_news/gamespot-resident-evil-requiem-gameplay-overview-capcom-online-program-tgs-2025-33ii)
+- [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
+- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
+- [Day 01 Theory behind java](https://dev.to/rohit_juyal_c93b63c3dcf9c/day-01-theory-behind-java-59id)
+- [A new lesson from my recent interview experience](https://dev.to/manikandan_a8f99e0153ef77/a-new-lesson-from-my-recent-interview-experience-1dhn)
+- [Kubernetes Debug Container](https://dev.to/s_raj07/kubernetes-debug-container-5cdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
