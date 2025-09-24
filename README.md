@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Versioning in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/api-versioning-in-net-web-api-39ma)
-- [🧠 Basic Algorithm Structures](https://dev.to/mzunairtariq/basic-algorithm-structures-42ib)
-- [👋 Hello Dev Community — First Post!](https://dev.to/meganpropps/hello-dev-community-first-post-40hg)
-- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
-- [Day 009 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-009-on-my-journey-to-becoming-a-css-pro-with-keith-grant-1o15)
+- [From Kaizen to Wabi-Sabi: What Japanese Developers Taught Me About Writing Code That Lasts](https://dev.to/dev_tips/from-kaizen-to-wabi-sabi-what-japanese-developers-taught-me-about-writing-code-that-lasts-mjl)
+- [Go vs. C#: Which Language Uses Memory More Efficiently?](https://dev.to/lamri_abdellahramdane_15/go-vs-c-which-language-uses-memory-more-efficiently-pk5)
+- [Forget Meta Ray-Ban Glasses. The Neural Band Is the Real Platform &lpar;If Devs Get In&rpar;](https://dev.to/dev_tips/forget-meta-ray-ban-glasses-the-neural-band-is-the-real-platform-if-devs-get-in-gl5)
+- [I&#39;ve been drifting, here is my line in the sand.](https://dev.to/regalman/ive-been-drifting-here-is-my-line-in-the-sand-b3a)
+- [Are you still calling yourself DevOps? That role won’t exist in 2026.](https://dev.to/dev_tips/are-you-still-calling-yourself-devops-that-role-wont-exist-in-2026-4pk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
