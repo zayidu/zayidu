@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs AGI: Understanding the Future of Intelligence in Simple Words](https://dev.to/amttawsik/ai-vs-agi-understanding-the-future-of-intelligence-in-simple-words-cj7)
-- [NgRx Signal Store Event API: A Modern Take on Event-Driven Architecture](https://dev.to/duskoperic/ngrx-signal-store-event-api-a-modern-take-on-event-driven-architecture-189m)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Direne Direne &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-direne-direne-live-on-kexp-5db7)
-- [GameSpot: Pokemon Legends: Z-A Takes The Series In A Bold Direction](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-takes-the-series-in-a-bold-direction-mld)
-- [GameSpot: Pokemon Legends: Z-A - 22 Biggest Changes](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-22-biggest-changes-55ef)
+- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
+- [IA para escritores independentes: transforme sua escrita com inteligência artificial](https://dev.to/no_codestartup/ia-para-escritores-independentes-transforme-sua-escrita-com-inteligencia-artificial-4mfd)
+- [Build an Ollama LLM software engineering language bot](https://dev.to/austincunningham/build-an-ollama-llm-software-engineering-language-bot-292k)
+- [🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+](https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a)
+- [Launch in Weeks, Not Months: How Boilerplates Change the Game](https://dev.to/jigar_online/launch-in-weeks-not-months-how-boilerplates-change-the-game-37l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
