@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass the AWS Certified Data Engineer – Associate Exam](https://dev.to/camille_chang/how-to-pass-the-aws-certified-data-engineer-associate-exam-e01)
-- [D-FlipFlip circuit model with signals and Dart](https://dev.to/daniel_vh/d-flipflip-circuit-model-with-signals-and-dart-53eo)
-- [Mastering Python Arrays: A Comprehensive Guide for Beginners &amp; Beyond](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-python-arrays-a-comprehensive-guide-for-beginners-beyond-3kd7)
-- [No Laying Up Podcast: BallKnowers with Bob Sturm | Trap Draw, Ep 360](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-with-bob-sturm-trap-draw-ep-360-5ef8)
-- [How to Clear Logs of a Docker Container?](https://dev.to/ankit01oss/how-to-clear-logs-of-a-docker-container-2pa3)
+- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
+- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
+- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
+- [Tired of Passwords? Biometric Authentication is Knocking at Your Door!](https://dev.to/karthik_n/tired-of-passwords-biometric-authentication-is-knocking-at-your-door-3omh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
