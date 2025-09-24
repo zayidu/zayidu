@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling and logging policy helper for neverthrow](https://dev.to/caverar/error-handling-and-logging-policy-helper-for-neverthrow-5d2j)
-- [Simple Habit Tracker – From Idea to Scale-Ready &lpar;Frontend + Backend&rpar;](https://dev.to/ariansj/simple-habit-tracker-from-idea-to-scale-ready-frontend-backend-280j)
-- [K-Means Clustering Exposed: What the Textbooks Leave Out](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
-- [Bryan Bros Golf: We Challenged the US Junior Champion to a Match!](https://dev.to/youtube_golf/bryan-bros-golf-we-challenged-the-us-junior-champion-to-a-match-46pn)
-- [GameSpot: Saros Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-saros-gameplay-reveal-trailer-8bn)
+- [Building a Scalable AI-Powered Fintech Platform: Architecture with Java Spring Boot and Amazon Bedrock](https://dev.to/shiv-centcapital/building-a-scalable-ai-powered-fintech-platform-architecture-with-java-spring-boot-and-amazon-25kl)
+- [Built a Discord Bot to transform your community into business value and promote your socials](https://dev.to/romo_ivaldy_49821ae91768/built-a-discord-bot-to-transform-your-community-into-business-value-and-promote-your-socials-2p1p)
+- [**Unlocking the World of Artificial Intelligence: Agents and](https://dev.to/drcarlosruizviquez/unlocking-the-world-of-artificial-intelligence-agents-and-5hl4)
+- [Cómo los perfiles JSON me ayudaron a que la IA me entendiera](https://dev.to/iblancasa/como-los-perfiles-json-me-ayudaron-a-que-la-ia-me-entendiera-12)
+- [Why I Don’t Trust Default Firewall Rules on Linux Servers | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-dont-trust-default-firewall-rules-on-linux-servers-by-faruk-ahmed-sep-2025-4f4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
