@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Informe-Tutorial: Instalación y Compilación de u2vpodcast en una VM Oracle Linux &lpar;ARM64&rpar;](https://dev.to/ivajofranc/informe-tutorial-instalacion-y-compilacion-de-u2vpodcast-en-una-vm-oracle-linux-arm64-41pj)
-- [IGN: Hollow Knight: Silksong Boss Fight - Savage Beastfly &lpar;Grand Hunt, Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-savage-beastfly-grand-hunt-far-fields-5138)
-- [IGN: Star Trek: Voyager - Across the Unknown - Official Gameplay Trailer | Indie Fan Fest Fall 2025](https://dev.to/gg_news/ign-star-trek-voyager-across-the-unknown-official-gameplay-trailer-indie-fan-fest-fall-2025-49bi)
-- [IGN: Silly Polly Beast - Official Release Window Trailer | Top Hat Showcase 2025](https://dev.to/gg_news/ign-silly-polly-beast-official-release-window-trailer-top-hat-showcase-2025-348g)
-- [IGN: Cyberpunk 2077: Ultimate Edition - Official ‘New Ways to Play’ Nintendo Switch 2 Trailer](https://dev.to/gg_news/ign-cyberpunk-2077-ultimate-edition-official-new-ways-to-play-nintendo-switch-2-trailer-1319)
+- [Why Every Developer Needs a Portfolio in 2026](https://dev.to/aureathemes/why-every-developer-needs-a-portfolio-in-2026-40f)
+- [**Unlocking the Power of Reinforcement Learning: Discovering](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-reinforcement-learning-discovering-l82)
+- [How to prompt Gemini CLI to improve your Dockerfile](https://dev.to/shipyard/how-to-prompt-gemini-cli-to-improve-your-dockerfile-2ofg)
+- [**Boosting Cybersecurity Effectiveness with AI: The Power of](https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo)
+- [Introducing fastapi-bgtasks-dashboard : One-liner integration on your FastAPI application](https://dev.to/harshil_jani/introducing-fastapi-bgtasks-dashboard-one-liner-integration-on-your-fastapi-application-343i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
