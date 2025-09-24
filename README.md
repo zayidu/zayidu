@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Phoenix Cockpit Is Online: Command Your Swarm](https://dev.to/matrixswarm/phoenix-cockpit-is-online-command-your-swarm-1934)
-- [From Prompt to Production: A Developer&#39;s Guide to Deploying LLM Applications](https://dev.to/code_2/from-prompt-to-production-a-developers-guide-to-deploying-llm-applications-3c77)
-- [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878)
-- [Building a Practical DevSecOps Pipeline: From Basic Security to Enterprise-Style Protection](https://dev.to/eklavvya/building-a-practical-devsecops-pipeline-from-basic-security-to-enterprise-style-protection-2b9k)
-- [How to Monitor Data Pipelines in Rust Using OpenTelemetry and Shuttle](https://dev.to/shuttle/how-to-monitor-data-pipelines-in-rust-using-opentelemetry-and-shuttle-53en)
+- [JavaScript Countdown Gotcha: Why Date.now&lpar;&rpar; Depends on the User’s Clock](https://dev.to/brinobruno/javascript-countdown-gotcha-why-datenow-depends-on-the-users-clock-2gl9)
+- [Debugging Device Issues in the Field: Lessons from Zebra Deployments](https://dev.to/gauri_bhosale_f7398ef7373/debugging-device-issues-in-the-field-lessons-from-zebra-deployments-201i)
+- [How to use crypto library in Nodejs](https://dev.to/devangular/how-to-use-crypto-library-in-nodejs-327p)
+- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
+- [Lazy vs Eager Evaluation in JavaScript: Performance Trade-offs](https://dev.to/patoliyainfotech/lazy-vs-eager-evaluation-in-javascript-performance-trade-offs-3m7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
