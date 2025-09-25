@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🍲 Part 3: Advanced Iteration Tricks](https://dev.to/anik_sikder_313/part-3-advanced-iteration-tricks-2d6k)
-- [How to Create an EC2 VM in AWS &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ibrahimbioabu/how-to-create-an-ec2-vm-in-aws-step-by-step-guide-for-beginners-481)
-- [Apache Kafka — Deep Dive: Core Concepts, Data-Engineering Applications, and Real-World Production Practices](https://dev.to/kemboijebby/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1il3)
-- [How to Insert Sound in HTML](https://dev.to/udanielnogueira/how-to-insert-sound-in-html-3edg)
-- [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
+- [🌐 IP Addressing: The Cities &amp; Houses of the Internet](https://dev.to/mehramjot_kaur_4ec1bfe123/ip-addressing-the-cities-houses-of-the-internet-543o)
+- [Fewer Clicks, More Bookings: A Practical Hotel Site Playbook with Tejal](https://dev.to/avry_mcgarvey_9c5eded0525/fewer-clicks-more-bookings-a-practical-hotel-site-playbook-with-tejal-4lhl)
+- [🚀 My First Microservice Deployment Journey: Lessons from Amplify + Next.js](https://dev.to/techwithhari/my-first-microservice-deployment-journey-lessons-from-amplify-nextjs-3o9i)
+- [&quot;RAG systems just reached new heights! Researchers have succ](https://dev.to/drcarlosruizviquez/rag-systems-just-reached-new-heights-researchers-have-succ-30gp)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-20h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
