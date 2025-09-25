@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to View Docker Container Logs - A Complete Step-by-Step Guide](https://dev.to/signoz/untitled-article-37ap)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-57im)
-- [7 Tips for Hardening Nginx: TLS, Fail2Ban, and WAF Configuration](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-tls-fail2ban-and-waf-configuration-3kfg)
-- [BEAM: In Plain English](https://dev.to/adamanq/beam-in-plain-english-2n1o)
-- [BEAM: Простыми словами](https://dev.to/adamanq/beam-prostymi-slovami-3104)
+- [Aiogram - Asynchronous Telegram Bot Framework](https://dev.to/imrrobot/aiogram-asynchronous-telegram-bot-framework-2fkp)
+- [P — Pick the Job Story &amp; Metric](https://dev.to/codebrainr/p-pick-the-job-story-metric-2a8k)
+- [qrcode - Generate QR Codes in Python](https://dev.to/imrrobot/qrcode-generate-qr-codes-in-python-22jl)
+- [Jenkins on EKS using EFS](https://dev.to/santhosh_004/jenkins-on-eks-using-efs-21ci)
+- [tqdm - Progress Bars for Python Loops](https://dev.to/imrrobot/tqdm-progress-bars-for-python-loops-78i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
