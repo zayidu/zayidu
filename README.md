@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless applications with Java and Aurora DSQL - Part 2 Using Aurora DSQL JDBC Connector](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-2-using-aurora-dsql-jdbc-connector-eaa)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-52ee)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-1m3l)
-- [IGN: World War Z - Official Heavy Ordnance Update Trailer](https://dev.to/gg_news/ign-world-war-z-official-heavy-ordnance-update-trailer-1npo)
-- [IGN: Age of Mythology: Retold - Heavenly Spear Launch Trailer | TGS 2025](https://dev.to/gg_news/ign-age-of-mythology-retold-heavenly-spear-launch-trailer-tgs-2025-1an4)
+- [🍲 Part 3: Advanced Iteration Tricks](https://dev.to/anik_sikder_313/part-3-advanced-iteration-tricks-2d6k)
+- [How to Create an EC2 VM in AWS &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ibrahimbioabu/how-to-create-an-ec2-vm-in-aws-step-by-step-guide-for-beginners-481)
+- [Apache Kafka — Deep Dive: Core Concepts, Data-Engineering Applications, and Real-World Production Practices](https://dev.to/kemboijebby/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1il3)
+- [How to Insert Sound in HTML](https://dev.to/udanielnogueira/how-to-insert-sound-in-html-3edg)
+- [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
