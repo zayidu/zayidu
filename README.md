@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokenization and Blockchain Building the Architecture of Future Trade Finance Infrastructure](https://dev.to/albert_beckles_a6207bb8e1/tokenization-and-blockchain-building-the-architecture-of-future-trade-finance-infrastructure-6i)
-- [Understanding Callback Functions in JavaScript](https://dev.to/rowleks/understanding-callback-functions-in-javascript-1fk0)
-- [10 Mistakes I Made Early in My Full-Stack Career &lpar;And What You Can Learn From Them](https://dev.to/sandeeppall/10-mistakes-i-made-early-in-my-full-stack-career-and-what-you-can-learn-from-them-481c)
-- [Tips for Growing Your Career as a Remote Data Scientist](https://dev.to/daniel_martin_82a44024fe2/tips-for-growing-your-career-as-a-remote-data-scientist-5d69)
-- [How I Still Partition My Drives for Streamlined Backup, Migration, and Failure Recovery](https://dev.to/pchemguy/how-i-still-partition-my-drives-for-streamlined-backup-migration-and-failure-recovery-3pj7)
+- [Serverless applications with Java and Aurora DSQL - Part 2 Using Aurora DSQL JDBC Connector](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-2-using-aurora-dsql-jdbc-connector-eaa)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-52ee)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-1m3l)
+- [IGN: World War Z - Official Heavy Ordnance Update Trailer](https://dev.to/gg_news/ign-world-war-z-official-heavy-ordnance-update-trailer-1npo)
+- [IGN: Age of Mythology: Retold - Heavenly Spear Launch Trailer | TGS 2025](https://dev.to/gg_news/ign-age-of-mythology-retold-heavenly-spear-launch-trailer-tgs-2025-1an4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
