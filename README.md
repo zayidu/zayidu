@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [11+ Best Replit AI Alternatives in 2025](https://dev.to/vinishbhaskar/best-replit-ai-alternatives-175h)
-- [What is object](https://dev.to/2021_cse_gayathrir_e733/what-is-object-3pd0)
-- [REST vs GraphQL: Side-by-Side Analysis with Real-World Examples &amp; Proven Best Practices](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
-- [What is CSS](https://dev.to/2021_cse_gayathrir_e733/what-is-css-477)
-- [What is HTML](https://dev.to/2021_cse_gayathrir_e733/what-is-html-2a7p)
+- [How I fixed the Chakra UI List component not found error by updating to the latest version.](https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg)
+- [Electric Border ⚡ &lpar;SVG seed thrashing&rpar;](https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo)
+- [AI for Coding Interviews: How It’s Changing the Way We Prepare](https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg)
+- [Mastering Celery: A Complete Guide to Task Management, Database Connections, and Scaling](https://dev.to/sizan_mahmud0_e7c3fd0cb68/mastering-celery-a-complete-guide-to-task-management-database-connections-and-scaling-34gi)
+- [Dark Web Monitoring: How Password Managers Detect Compromised Credentials](https://dev.to/rahul_sharma_15bd129bc69e/dark-web-monitoring-how-password-managers-detect-compromised-credentials-332a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
