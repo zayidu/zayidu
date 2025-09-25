@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl)
-- [GDPR in 2025 - Why It Still Matters and How to Stay Updated](https://dev.to/heyjoshlee/gdpr-in-2025-why-it-still-matters-and-how-to-stay-updated-190p)
-- [From $820 to $92: How A Startup Cut Cloud Costs by 88%](https://dev.to/hasan_ashab/from-820-to-92-how-a-startup-cut-cloud-costs-by-88-2mne)
-- [The Ultimate Guide to Open Table Formats: Iceberg, Delta Lake, Hudi, Paimon, and DuckLake](https://dev.to/alexmercedcoder/the-ultimate-guide-to-open-table-formats-iceberg-delta-lake-hudi-paimon-and-ducklake-dnk)
-- [For those looking to build portfolio and gain collaborative experience: GirlHacks is running the Innovate Series 2025, a multi-week program focused on building innovative tech solutions in teams. https://www.girlhacks.net/events/innovate-series-2025](https://dev.to/shuchi_agarwal_b24d7792cc/for-those-looking-to-build-portfolio-and-gain-collaborative-experience-girlhacks-is-running-the-48om)
+- [Why Data Sanitization is a Must-Have for Ethical AI](https://dev.to/naveen_kolli_a8501e4633c5/why-data-sanitization-is-a-must-have-for-ethical-ai-32ko)
+- [A Process killer CLI project using Java Process API](https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi)
+- [Coding Agent Template: A Template for Building AI Coding Agents](https://dev.to/jqueryscript/coding-agent-template-a-template-for-building-ai-coding-agents-56m2)
+- [How to Use AI to Generate Unit Tests &lpar;That Actually Work&rpar;](https://dev.to/jaideepparashar/how-to-use-ai-to-generate-unit-tests-that-actually-work-35pf)
+- [Quicksort explained IKEA-style](https://dev.to/technoblogger14o3/quicksort-explained-ikea-style-31p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
