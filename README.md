@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 IP Addressing: The Cities &amp; Houses of the Internet](https://dev.to/mehramjot_kaur_4ec1bfe123/ip-addressing-the-cities-houses-of-the-internet-543o)
-- [Fewer Clicks, More Bookings: A Practical Hotel Site Playbook with Tejal](https://dev.to/avry_mcgarvey_9c5eded0525/fewer-clicks-more-bookings-a-practical-hotel-site-playbook-with-tejal-4lhl)
-- [🚀 My First Microservice Deployment Journey: Lessons from Amplify + Next.js](https://dev.to/techwithhari/my-first-microservice-deployment-journey-lessons-from-amplify-nextjs-3o9i)
-- [&quot;RAG systems just reached new heights! Researchers have succ](https://dev.to/drcarlosruizviquez/rag-systems-just-reached-new-heights-researchers-have-succ-30gp)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-20h3)
+- [Evolução da linguagem Java &lpar;parte 2&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-2-mff)
+- [5 Website Mistakes That Cost Plumbing Companies New Customers](https://dev.to/abdul_rehmandev/5-website-mistakes-that-cost-plumbing-companies-new-customers-5gc9)
+- [How I Built a Lightning-Fast Excel-Like Spreadsheet in React &lpar;That Renders 100,000+ Cells!&rpar;](https://dev.to/sojinantony01/how-i-built-a-lightning-fast-excel-like-spreadsheet-in-react-that-renders-100000-cells-1jkk)
+- [What is Power BI?](https://dev.to/e77/what-is-power-bi-ifp)
+- [How Structured Logging with AWS CloudWatch &amp; Sentry Changed the Way I Debug Laravel Apps](https://dev.to/vikaschandrab/how-structured-logging-with-aws-cloudwatch-sentry-changed-the-way-i-debug-laravel-apps-khg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
