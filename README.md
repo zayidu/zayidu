@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using `localStorage` for Everything – Here&#39;s What to Use Instead](https://dev.to/dmsmenula/stop-using-localstorage-for-everything-heres-what-to-use-instead-5f59)
-- [What is promise in Javascript](https://dev.to/2021_cse_gayathrir_e733/what-is-promise-in-javascript-48n7)
-- [Managing Climbing Partnerships: Communication Tips by Avid Mountaineers including Cesar Alcantara Chula Vista](https://dev.to/cesar12/managing-climbing-partnerships-communication-tips-by-avid-mountaineers-including-cesar-alcantara-571k)
-- [What is react](https://dev.to/2021_cse_gayathrir_e733/what-is-react-44ji)
-- [Note to Self: Reflecting on My Git Workflow](https://dev.to/tori10cocco/note-to-self-reflecting-on-my-git-workflow-1mba)
+- [11+ Best Replit AI Alternatives in 2025](https://dev.to/vinishbhaskar/best-replit-ai-alternatives-175h)
+- [What is object](https://dev.to/2021_cse_gayathrir_e733/what-is-object-3pd0)
+- [REST vs GraphQL: Side-by-Side Analysis with Real-World Examples &amp; Proven Best Practices](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
+- [What is CSS](https://dev.to/2021_cse_gayathrir_e733/what-is-css-477)
+- [What is HTML](https://dev.to/2021_cse_gayathrir_e733/what-is-html-2a7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
