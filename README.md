@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/wakeup_flower_8591a6cb6a9/aws-storage-gateway-cached-volumes-or-stored-volumes--2a81)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-3f96)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-52nc)
-- [KEXP: Thee Marloes - Not Today &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-not-today-live-on-kexp-1167)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-47pn)
+- [[Boost]](https://dev.to/praneetaprakash/-2nfe)
+- [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
+- [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
+- [From Chaos to Clarity: How I Built CrammAI, the AI Study Copilot I Wish I Had in University](https://dev.to/kareemblessed/from-chaos-to-clarity-how-i-built-crammai-the-ai-study-copilot-i-wish-i-had-in-university-64m)
+- [Stategraph: Terraform state as a distributed systems problem](https://dev.to/josh_pollara_2f8bb369b3f3/stategraph-terraform-state-as-a-distributed-systems-problem-hlm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
