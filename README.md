@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design an Engaging Splash Page with Practical Examples](https://dev.to/lollypopdesign/how-to-design-an-engaging-splash-page-with-practical-examples-528j)
-- [NPR Music: Chuwi: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-chuwi-tiny-desk-concert-1koo)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-50cb)
-- [Agentic AI Observability with Amazon CloudWatch: Transforming Enterprise AI Monitoring](https://dev.to/acmopm/agentic-ai-observability-with-amazon-cloudwatch-transforming-enterprise-ai-monitoring-for-the-28k6)
-- [Translation KPIs for Translation Management Success](https://dev.to/colinreed/translation-kpis-for-translation-management-success-511a)
+- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
+- [Experimenting with Terraform in YAML](https://dev.to/totegamma/experimenting-with-terraform-in-yaml-1h37)
+- [Building coding education that actually works for Arabic speakers](https://dev.to/lubab/building-coding-education-that-actually-works-for-arabic-speakers-nmc)
+- [Video and Audio Automation: A Complete Guide with Descript + n8n](https://dev.to/alifar/video-and-audio-automation-a-complete-guide-with-descript-n8n-o6d)
+- [Implementing a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot with LangChain, Firebase, and Pinecone](https://dev.to/tejhagargi/implementing-a-retrieval-augmented-generation-rag-chatbot-with-langchain-firebase-and-pinecone-3pm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
