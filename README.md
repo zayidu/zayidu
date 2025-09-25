@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aiogram - Asynchronous Telegram Bot Framework](https://dev.to/imrrobot/aiogram-asynchronous-telegram-bot-framework-2fkp)
-- [P — Pick the Job Story &amp; Metric](https://dev.to/codebrainr/p-pick-the-job-story-metric-2a8k)
-- [qrcode - Generate QR Codes in Python](https://dev.to/imrrobot/qrcode-generate-qr-codes-in-python-22jl)
-- [Jenkins on EKS using EFS](https://dev.to/santhosh_004/jenkins-on-eks-using-efs-21ci)
-- [tqdm - Progress Bars for Python Loops](https://dev.to/imrrobot/tqdm-progress-bars-for-python-loops-78i)
+- [Best WordPress Image Optimization Plugins for 2025](https://dev.to/andreialba/best-wordpress-image-optimization-plugins-for-2025-46ci)
+- [Privacy for subdomains: the problem](https://dev.to/nfrankel/privacy-for-subdomains-the-problem-18ek)
+- [Master React :](https://dev.to/dev_abdulhaseeb/master-react--23lk)
+- [Rust Send and Sync in Simple terms](https://dev.to/masteringbackend/rust-send-and-sync-in-simple-terms-2njp)
+- [CI/CD is Dead. Platform Engineering Killed It.](https://dev.to/leonardkachi/cicd-is-dead-platform-engineering-killed-it-bmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
