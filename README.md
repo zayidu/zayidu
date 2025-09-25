@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Collab Project](https://dev.to/fetterollie/collab-project-3j0l)
-- [TCJSGame Movement Utilities: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utilities-complete-reference-guide-30o5)
-- [Enhancing quantum factorization through adaptive period finding](https://dev.to/stevenrugg/enhancing-quantum-factorization-through-adaptive-period-finding-4dil)
-- [🚀 Building a Sandbox Data Warehouse with Snowflake + GitHub Actions &lpar;Part 2&rpar;](https://dev.to/qvfagundes/building-a-sandbox-data-warehouse-with-snowflake-github-actions-part-2-51dn)
-- [AI-RateMyProfessors App](https://dev.to/tohmze/ai-ratemyprofessors-app-nfp)
+- [Stop Using `localStorage` for Everything – Here&#39;s What to Use Instead](https://dev.to/dmsmenula/stop-using-localstorage-for-everything-heres-what-to-use-instead-5f59)
+- [What is promise in Javascript](https://dev.to/2021_cse_gayathrir_e733/what-is-promise-in-javascript-48n7)
+- [Managing Climbing Partnerships: Communication Tips by Avid Mountaineers including Cesar Alcantara Chula Vista](https://dev.to/cesar12/managing-climbing-partnerships-communication-tips-by-avid-mountaineers-including-cesar-alcantara-571k)
+- [What is react](https://dev.to/2021_cse_gayathrir_e733/what-is-react-44ji)
+- [Note to Self: Reflecting on My Git Workflow](https://dev.to/tori10cocco/note-to-self-reflecting-on-my-git-workflow-1mba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
