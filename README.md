@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I fixed the Chakra UI List component not found error by updating to the latest version.](https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg)
-- [Electric Border ⚡ &lpar;SVG seed thrashing&rpar;](https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo)
-- [AI for Coding Interviews: How It’s Changing the Way We Prepare](https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg)
-- [Mastering Celery: A Complete Guide to Task Management, Database Connections, and Scaling](https://dev.to/sizan_mahmud0_e7c3fd0cb68/mastering-celery-a-complete-guide-to-task-management-database-connections-and-scaling-34gi)
-- [Dark Web Monitoring: How Password Managers Detect Compromised Credentials](https://dev.to/rahul_sharma_15bd129bc69e/dark-web-monitoring-how-password-managers-detect-compromised-credentials-332a)
+- [How to View Docker Container Logs - A Complete Step-by-Step Guide](https://dev.to/signoz/untitled-article-37ap)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-57im)
+- [7 Tips for Hardening Nginx: TLS, Fail2Ban, and WAF Configuration](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-tls-fail2ban-and-waf-configuration-3kfg)
+- [BEAM: In Plain English](https://dev.to/adamanq/beam-in-plain-english-2n1o)
+- [BEAM: Простыми словами](https://dev.to/adamanq/beam-prostymi-slovami-3104)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
