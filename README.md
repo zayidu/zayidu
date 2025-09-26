@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Multi-Nível com FusionCache em Aplicações .NET 8](https://dev.to/obrusilva/cache-multi-nivel-com-fusioncache-em-aplicacoes-net-8-4hdo)
-- [Enhancing Open-Source Security &amp; Education with AI and Gamification — OWASP BLT GSoC 2025 Highlights](https://dev.to/donnieblt/enhancing-open-source-security-education-with-ai-and-gamification-owasp-blt-gsoc-2025-highlights-22lc)
-- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d)
-- [IGN: Greenland 2: Migration - Official Trailer &lpar;2025&rpar; Gerard Butler](https://dev.to/gg_news/ign-greenland-2-migration-official-trailer-2025-gerard-butler-4h55)
-- [C++ References Tutorial: Complete Guide to Aliases, Performance, and Modern C++ &lpar;2025&rpar;](https://dev.to/bashtech1/c-references-tutorial-complete-guide-to-aliases-performance-and-modern-c-2025-509h)
+- [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
+- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
+- [Pipetype: TypeScript Unions Bitwise Operators, and My Favorite Failed Experiment](https://dev.to/overthemike/pipetype-typescript-unions-bitwise-operators-and-my-favorite-failed-experiment-1cbk)
+- [K8s VPA: Limitations, Best Practices, and the Future of Pod Rightsizing](https://dev.to/cloudpilot-ai/k8s-vpa-limitations-best-practices-and-the-future-of-pod-rightsizing-28h3)
+- [Holiday Product Bundles That Sell—Even When You’re Lean on Resources](https://dev.to/sustern/holiday-product-bundles-that-sell-even-when-youre-lean-on-resources-hm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
