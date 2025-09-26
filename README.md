@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3gk4)
-- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-4g77)
+- [From JSONB to Bitmasks: Faster Flags &amp; Cleaner RLS in Postgres with Go/TS](https://dev.to/ryansgi/from-jsonb-to-bitmasks-faster-flags-cleaner-rls-in-postgres-with-gots-29o2)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
+- [🃏 A Tiny Card Game in Java](https://dev.to/mohamad_mhana/a-tiny-card-game-in-java-4gih)
+- [Handling types in JavaScript](https://dev.to/brendon_oneill__/handling-types-in-javascript-1cg)
+- [Why do we depend on slack for user story and backlog item context? Doesn&#39;t it make more sense to keep it in the story or backlog item? https://imdone.io](https://dev.to/saxmanjes/why-do-we-depend-on-slack-for-user-story-and-backlog-item-context-doesnt-it-make-more-sense-to-308)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
