@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0)
-- [Anix: A Streamlined Platform for Anime Enthusiasts](https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m)
-- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9)
-- [Factory Method in Clprolf: Clear Rules for Object Creation](https://dev.to/charles_koffler_bcabc582b/factory-method-in-clprolf-clear-rules-for-object-creation-4ga)
-- [This case needs to be on the radar of the DOJ and IRS. Fraud of this magnitude cannot be swept under the rug.](https://dev.to/dayologic/this-case-needs-to-be-on-the-radar-of-the-doj-and-irs-fraud-of-this-magnitude-cannot-be-swept-59ph)
+- [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
+- [Python Access Modifiers Explained for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/python-access-modifiers-explained-for-beginners-i3o)
+- [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
+- [PVS-Studio team invites you to share examples of errors related to vibe coding](https://dev.to/pvsdev/pvs-studio-team-invites-you-to-share-examples-of-errors-related-to-vibe-coding-2ha5)
+- [MLPerf Storage v2.0: JuiceFS Leads in Bandwidth Utilization and Scalability for AI Training](https://dev.to/daswu/mlperf-storage-v20-juicefs-leads-in-bandwidth-utilization-and-scalability-for-ai-training-1021)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
