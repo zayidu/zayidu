@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-16om)
-- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-5gfn)
-- [KEXP: Nation of Language - Under The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-under-the-water-live-on-kexp-4l56)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-50ak)
-- [KEXP: Nation of Language - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-full-performance-live-on-kexp-21ng)
+- [How to connect Figma MCP to KIRO IDE](https://dev.to/preshnwoko/how-to-connect-figma-mcp-to-kiro-ide-2fhl)
+- [Automate Your Complex Workflows with Sub-Recipes in goose](https://dev.to/blockopensource/automate-your-complex-workflows-with-sub-recipes-in-goose-23bd)
+- [The best &lpar;free - cheap&rpar; AI friendly Cli and Coding environments](https://dev.to/soulentheo/the-best-free-cheap-ai-friendly-cli-and-coding-environments-16m6)
+- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
+- [Evolução da linguagem Java &lpar;parte 3&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-3-2koo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
