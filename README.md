@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If You’re New to Web3, Start Here](https://dev.to/thekarlesi/if-youre-new-to-web3-start-here-1jni)
-- [How rfgrep Achieves Hardware Acceleration - SIMD-Optimized String Matching](https://dev.to/kherld/how-rfgrep-achieves-hardware-acceleration-simd-optimized-string-matching-1cdd)
-- [Quarkus: Revolutionizing Java Development for the Cloud-Native Era](https://dev.to/rajkundalia/quarkus-revolutionizing-java-development-for-the-cloud-native-era-3c13)
-- [Web Dev Cybersecurity: Securing Login Flows Beyond ZAP’s Reach.](https://dev.to/piyush_bhadane/web-dev-x-cybersecurity-securing-login-flows-beyond-zaps-reach-6co)
-- [7 Tips for Optimizing Docker Images and Build Times on CI/CD Pipelines](https://dev.to/ramer2b58cbe46bc8/7-tips-for-optimizing-docker-images-and-build-times-on-cicd-pipelines-54g8)
+- [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
+- [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-169a)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3jo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
