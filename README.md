@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How does Blockchain work?](https://dev.to/humbertoromanojr/how-does-blockchain-work-4dhi)
-- [Collaborating with Claude on docs](https://dev.to/torielstrom/collaborating-with-claude-on-docs-1p37)
-- [Top 10 Codex CLI Tips Every Developer Should Know](https://dev.to/therealmrmumba/top-10-codex-cli-tips-every-developer-should-know-2340)
-- [使用 pm2.web 建立免費 PM2 監控系統](https://dev.to/letswrite/shi-yong-pm2web-jian-li-mian-fei-pm2-jian-kong-xi-tong-5dim)
-- [IoT Smart Irrigation: Boost Yields &amp; Cut Water Waste](https://dev.to/nirav_panchal_e531c758f1d/iot-smart-irrigation-boost-yields-cut-water-waste-309c)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3gk4)
+- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-4g77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
