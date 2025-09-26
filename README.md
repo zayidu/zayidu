@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
-- [Python Access Modifiers Explained for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/python-access-modifiers-explained-for-beginners-i3o)
-- [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
-- [PVS-Studio team invites you to share examples of errors related to vibe coding](https://dev.to/pvsdev/pvs-studio-team-invites-you-to-share-examples-of-errors-related-to-vibe-coding-2ha5)
-- [MLPerf Storage v2.0: JuiceFS Leads in Bandwidth Utilization and Scalability for AI Training](https://dev.to/daswu/mlperf-storage-v20-juicefs-leads-in-bandwidth-utilization-and-scalability-for-ai-training-1021)
+- [How to Write AI Prompts That Actually Work &lpar;And Make Your Images Look Amazing&rpar;](https://dev.to/jennifer_z_1a474facd8e031/how-to-write-ai-prompts-that-actually-work-and-make-your-images-look-amazing-4og3)
+- [Integrating Books, Clocks and Code ⏰](https://dev.to/cloutboi/integrating-books-clocks-and-code-699)
+- [15 Tips for Enhancing Signup/Login UX](https://dev.to/hashbyt/15-tips-for-enhancing-signuplogin-ux-5di7)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1edb)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1omk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
