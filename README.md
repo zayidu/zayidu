@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
-- [Lists as Function Interfaces: *args, Mutable Defaults, and the One-Liner Power](https://dev.to/aaron_rose_0787cc8b4775a0/lists-as-function-interfaces-args-mutable-defaults-and-the-one-liner-power-3d9h)
-- [Why I Use Cold Backups Instead of Relying Only on Snapshots | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-use-cold-backups-instead-of-relying-only-on-snapshots-by-faruk-ahmed-sep-2025-3fb)
-- [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
-- [Why Gyms Need AI Personal Trainers: The Future of Fitness Coaching](https://dev.to/drcarlosruizviquez/why-gyms-need-ai-personal-trainers-the-future-of-fitness-coaching-56l7)
+- [Cache Multi-Nível com FusionCache em Aplicações .NET 8](https://dev.to/obrusilva/cache-multi-nivel-com-fusioncache-em-aplicacoes-net-8-4hdo)
+- [Enhancing Open-Source Security &amp; Education with AI and Gamification — OWASP BLT GSoC 2025 Highlights](https://dev.to/donnieblt/enhancing-open-source-security-education-with-ai-and-gamification-owasp-blt-gsoc-2025-highlights-22lc)
+- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d)
+- [IGN: Greenland 2: Migration - Official Trailer &lpar;2025&rpar; Gerard Butler](https://dev.to/gg_news/ign-greenland-2-migration-official-trailer-2025-gerard-butler-4h55)
+- [C++ References Tutorial: Complete Guide to Aliases, Performance, and Modern C++ &lpar;2025&rpar;](https://dev.to/bashtech1/c-references-tutorial-complete-guide-to-aliases-performance-and-modern-c-2025-509h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
