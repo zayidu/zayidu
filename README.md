@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
-- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
-- [A TypeScript Journey: When Type Safety Feels Like a Safety Harness… and Sometimes a 10 kg Stone on Your Feet](https://dev.to/nadkarnigaurav/a-typescript-journey-when-type-safety-feels-like-a-safety-harness-and-sometimes-a-10-kg-stone-on-35kn)
-- [Useful MYSQL functions](https://dev.to/sadiul_hakim/useful-mysql-functions-4gl9)
-- [Understanding Uniface xmlsave: Exporting Data to XML Streams 🚀](https://dev.to/petercode/understanding-uniface-xmlsave-exporting-data-to-xml-streams-5h7j)
+- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0)
+- [Anix: A Streamlined Platform for Anime Enthusiasts](https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m)
+- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9)
+- [Factory Method in Clprolf: Clear Rules for Object Creation](https://dev.to/charles_koffler_bcabc582b/factory-method-in-clprolf-clear-rules-for-object-creation-4ga)
+- [This case needs to be on the radar of the DOJ and IRS. Fraud of this magnitude cannot be swept under the rug.](https://dev.to/dayologic/this-case-needs-to-be-on-the-radar-of-the-doj-and-irs-fraud-of-this-magnitude-cannot-be-swept-59ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
