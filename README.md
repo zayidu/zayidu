@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delete Local Branch Git: The Complete Guide to Cleaning Up Your Repositories](https://dev.to/keploy/delete-local-branch-git-the-complete-guide-to-cleaning-up-your-repositories-oo8)
-- [Automating Data Pipelines with Bright Data, n8n, and Airtable](https://dev.to/alifar/automating-data-pipelines-with-bright-data-n8n-and-airtable-126h)
-- [Top 10 JavaScript Frameworks That Will Rule 2026](https://dev.to/coco_junk_e2afc9395cfe1f0/top-10-javascript-frameworks-that-will-rule-2026-5k5)
-- [Beyond Bitcoin: How Crypto Shapes Culture, Sports, and Business](https://dev.to/tanelith/beyond-bitcoin-how-crypto-shapes-culture-sports-and-business-3pc7)
-- [Understanding static, final, super, super&lpar;&rpar;, this&lpar;&rpar; and this](https://dev.to/masteringbackend/understanding-static-final-super-super-this-and-this-lco)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-23kd)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-4j7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
