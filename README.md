@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
-- [Part-85: 🔹Kubernetes GKE ReplicaSet: Reliability, Load Balancing &amp; Scaling in GCP Cloud](https://dev.to/latchudevops/part-85-kubernetes-gke-replicaset-reliability-load-balancing-scaling-in-gcp-cloud-aea)
-- [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
-- [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
-- [Building a Secure Gmail CLI: From Development to Production 🚀](https://dev.to/vishwaraja_pathivishwa/building-a-secure-gmail-cli-from-development-to-production-1g17)
+- [This Week In React #251: TanStack, React Router, RSC | Nitro Modules, Expo Workflows, Live Activity | CSS, HTML](https://dev.to/sebastienlorber/this-week-in-react-251-tanstack-react-router-rsc-nitro-modules-expo-workflows-live-activity-1g8g)
+- [MySQL Database Partitioning Tutorial](https://dev.to/sadiul_hakim/mysql-database-partitioning-tutorial-20db)
+- [AWS Bedrock Pricing Guide: Compare Amazon, OpenAI, and Anthropic](https://dev.to/jerrywarrenfc/aws-bedrock-pricing-guide-compare-amazon-openai-and-anthropic-5ao)
+- [Discover the Mystical World of Tarot with Python](https://dev.to/ricardo_casais_a0960543e6/discover-the-mystical-world-of-tarot-with-python-11ih)
+- [Event handling in playwright](https://dev.to/the_wise_06d8114f1ee73fe8/event-handling-in-playwright-3h1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
