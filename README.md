@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #251: TanStack, React Router, RSC | Nitro Modules, Expo Workflows, Live Activity | CSS, HTML](https://dev.to/sebastienlorber/this-week-in-react-251-tanstack-react-router-rsc-nitro-modules-expo-workflows-live-activity-1g8g)
-- [MySQL Database Partitioning Tutorial](https://dev.to/sadiul_hakim/mysql-database-partitioning-tutorial-20db)
-- [AWS Bedrock Pricing Guide: Compare Amazon, OpenAI, and Anthropic](https://dev.to/jerrywarrenfc/aws-bedrock-pricing-guide-compare-amazon-openai-and-anthropic-5ao)
-- [Discover the Mystical World of Tarot with Python](https://dev.to/ricardo_casais_a0960543e6/discover-the-mystical-world-of-tarot-with-python-11ih)
-- [Event handling in playwright](https://dev.to/the_wise_06d8114f1ee73fe8/event-handling-in-playwright-3h1p)
+- [How does Blockchain work?](https://dev.to/humbertoromanojr/how-does-blockchain-work-4dhi)
+- [Collaborating with Claude on docs](https://dev.to/torielstrom/collaborating-with-claude-on-docs-1p37)
+- [Top 10 Codex CLI Tips Every Developer Should Know](https://dev.to/therealmrmumba/top-10-codex-cli-tips-every-developer-should-know-2340)
+- [使用 pm2.web 建立免費 PM2 監控系統](https://dev.to/letswrite/shi-yong-pm2web-jian-li-mian-fei-pm2-jian-kong-xi-tong-5dim)
+- [IoT Smart Irrigation: Boost Yields &amp; Cut Water Waste](https://dev.to/nirav_panchal_e531c758f1d/iot-smart-irrigation-boost-yields-cut-water-waste-309c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
