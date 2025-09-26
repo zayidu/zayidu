@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
-- [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-169a)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3jo4)
+- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
+- [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
+- [Deploying a MedusaJS 2.0 Store on AN AWS EC2 Instance.](https://dev.to/israeldotcom/deploying-a-medusajs-20-store-on-an-aws-ec2-instance-5ba5)
+- [Developing Two Features at Once with Git Branches. &lpar;merge&rpar;](https://dev.to/jongwan93/developing-two-features-at-once-with-git-branches-merge-2l0m)
+- [Which models dominate churn prediction? Insights from 240 ML/DL studies &lpar;2020–2024&rpar;](https://dev.to/mehdi_imani_9f3d4495c0572/which-models-dominate-churn-prediction-insights-from-240-mldl-studies-2020-2024-247a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
