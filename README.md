@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1bbm)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1313)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-ij4)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-3cd2)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-1jc8)
+- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
+- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
+- [A TypeScript Journey: When Type Safety Feels Like a Safety Harness… and Sometimes a 10 kg Stone on Your Feet](https://dev.to/nadkarnigaurav/a-typescript-journey-when-type-safety-feels-like-a-safety-harness-and-sometimes-a-10-kg-stone-on-35kn)
+- [Useful MYSQL functions](https://dev.to/sadiul_hakim/useful-mysql-functions-4gl9)
+- [Understanding Uniface xmlsave: Exporting Data to XML Streams 🚀](https://dev.to/petercode/understanding-uniface-xmlsave-exporting-data-to-xml-streams-5h7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
