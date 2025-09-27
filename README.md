@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5f02)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-j8e)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11a6)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-3ghc)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-oci)
+- [From Googling Errors to Solving Them Like a Pro](https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh)
+- [List , ArrayList and Methods](https://dev.to/preethi_nandhagopal_6d075/list-arraylist-and-methods-3moe)
+- [UX for AI Agents: Designing Interfaces That Machines, Not Humans, Use](https://dev.to/dct_technology/ux-for-ai-agents-designing-interfaces-that-machines-not-humans-use-1epa)
+- [From SEO to AEO: How AI Engines Are Rewriting the Rules of Visibility](https://dev.to/mukul_sharma/from-seo-to-aeo-how-ai-engines-are-rewriting-the-rules-of-visibility-3ko8)
+- [A week with Claude Code: lessons, surprises and smarter workflows](https://dev.to/ujjavala/a-week-with-claude-code-lessons-surprises-and-smarter-workflows-23ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
