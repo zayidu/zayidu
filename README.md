@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Web Hosting and Domain Success in Startups 2025](https://dev.to/ramer2b58cbe46bc8/7-tips-for-web-hosting-and-domain-success-in-startups-2025-300)
-- [Gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-20pk)
-- [Understanding GitLab Scheduled Pipelines and YAML Configuration](https://dev.to/mrcaption49/understanding-gitlab-scheduled-pipelines-and-yaml-configuration-4ch3)
-- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
-- [Part-88: 🔄 Kubernetes Deployment Updates &amp; Rollout Verification in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-88-kubernetes-deployment-updates-rollout-verification-in-gcp-google-kubernetes-engine-1920)
+- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-20jn)
+- [CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-1be6)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5fo4)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-26d3)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-123h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
