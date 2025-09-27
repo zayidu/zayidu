@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AI Agent Development with LangChain &amp; LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2)
-- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59)
-- [#DAY 2: Deploying the Monitoring Dashboard - Uptime Kuma](https://dev.to/samueladeduntan/day-2-deploying-the-monitoring-dashboard-uptime-kuma-4996)
-- [Stop Getting Blocked: How a Simple Design Pattern Unlocks Your Project&#39;s Complex Logic](https://dev.to/trent_best_ca8617e4911baf/stop-getting-blocked-how-a-simple-design-pattern-unlocks-your-projects-complex-logic-1420)
-- [GNU Screen vs Tmux: The Ultimate Terminal Multiplexer Showdown&quot; - A Hilarious Yet Comprehensive Guide](https://dev.to/davidcanhelp/gnu-screen-vs-tmux-the-ultimate-terminal-multiplexer-showdown-a-hilarious-yet-comprehensive-1kcd)
+- [📰 Major Tech News: September 26, 2025](https://dev.to/om_shree_0709/major-tech-news-september-26-2025-3e9n)
+- [Construyendo un Sistema RAG para Derecho Laboral Paraguayo](https://dev.to/jesus_oviedoriquelme_084/construyendo-un-sistema-rag-para-derecho-laboral-paraguayo-3ik2)
+- [Lab 3: OSD600](https://dev.to/kkrishnan10/lab-3-osd600-pg8)
+- [Mastering URLs in Django: From Setup to Dynamic Routing](https://dev.to/kihuni/mastering-urls-in-django-from-setup-to-dynamic-routing-44i3)
+- [Unveiling AI&#39;s Hidden Sculptor: From Neurons to Stunning 3D Art](https://dev.to/arvind_sundararajan/unveiling-ais-hidden-sculptor-from-neurons-to-stunning-3d-art-n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
