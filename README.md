@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-cah)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3dk1)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-4b0o)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-38l3)
-- [GameSpot: PC Gaming Show Tokyo Direct 2025 Livestream](https://dev.to/gg_news/gamespot-pc-gaming-show-tokyo-direct-2025-livestream-ope)
+- [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
+- [Why Stable E2E and Integration Tests Matter — and How to Achieve It with Docker and a Slim Database Copy](https://dev.to/artur_benagraph_fb74d5fd9/why-stable-e2e-and-integration-tests-matter-and-how-to-achieve-it-with-docker-and-a-slim-database-88h)
+- [Why the US-100 Sensor Belongs in Your Next Arduino or ESP32 Project](https://dev.to/julia12/introducing-the-us-100-ultrasonic-ranging-module-2-cm-45-m-440)
+- [💪🧠How to Boost your Brain for Free &lpar;Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-to-boost-your-brain-for-free-muscle-brain-534h)
+- [Web Scraping in 2025: A Python Survival Story](https://dev.to/webdev-mohdamir/web-scraping-in-2025-a-python-survival-story-544n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
