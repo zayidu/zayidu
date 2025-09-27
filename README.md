@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting to the Ethereum Blockchain](https://dev.to/loading_blocks/connecting-to-the-ethereum-blockchain-3cl0)
-- [Tally: The Liveability Dashboard](https://dev.to/richk21/tally-the-liveability-dashboard-4ha8)
-- [6. CSS Properties](https://dev.to/avery_/6-css-properties-8hp)
-- [From Messy to Modular: A Better Way to Write Production-Ready Terraform - Part 1](https://dev.to/aws-builders/from-messy-to-modular-a-better-way-to-write-production-ready-terraform-for-aws-part-1-39b8)
-- [I must have wasted at least 20 minutes hunting around slack for info on a Jira item yesterday.](https://dev.to/saxmanjes/i-must-have-wasted-at-least-10-minutes-hunting-around-slack-for-info-on-a-jira-item-yesterday-458e)
+- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/narednra_reddyyadama_d64/aws-storage-gateway-cached-volumes-or-stored-volumes--3mab)
+- [I Like To Make Stuff: Yes, I Made a Giant Noodle Grabber...](https://dev.to/maker_youtube/i-like-to-make-stuff-yes-i-made-a-giant-noodle-grabber-21ae)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ddm)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1jee)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
