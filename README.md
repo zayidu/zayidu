@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
-- [GameSpot: Hollow Knight: Silksong Review](https://dev.to/gg_news/gamespot-hollow-knight-silksong-review-56pg)
-- [Good Practices Now That Your Future Senior Self Will Thank You For](https://dev.to/amoreno/good-practices-now-that-your-future-senior-self-will-thank-you-for-3p3a)
-- [AI Sees the Forest for the Trees: Revolutionizing Plant Counting for a Greener Future](https://dev.to/arvind_sundararajan/ai-sees-the-forest-for-the-trees-revolutionizing-plant-counting-for-a-greener-future-3oh4)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-20i5)
+- [Getting Started with AI Agent Development with LangChain &amp; LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2)
+- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59)
+- [#DAY 2: Deploying the Monitoring Dashboard - Uptime Kuma](https://dev.to/samueladeduntan/day-2-deploying-the-monitoring-dashboard-uptime-kuma-4996)
+- [Stop Getting Blocked: How a Simple Design Pattern Unlocks Your Project&#39;s Complex Logic](https://dev.to/trent_best_ca8617e4911baf/stop-getting-blocked-how-a-simple-design-pattern-unlocks-your-projects-complex-logic-1420)
+- [GNU Screen vs Tmux: The Ultimate Terminal Multiplexer Showdown&quot; - A Hilarious Yet Comprehensive Guide](https://dev.to/davidcanhelp/gnu-screen-vs-tmux-the-ultimate-terminal-multiplexer-showdown-a-hilarious-yet-comprehensive-1kcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
