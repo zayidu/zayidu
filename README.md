@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gek)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1fll)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-553a)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-101m)
+- [How to Store Persistent Data Across Workflows Executions in n8n](https://dev.to/fedtti/how-to-store-persistent-data-across-workflows-executions-in-n8n-1fan)
+- [The Beauty of Programming &lpar;2001&rpar;](https://dev.to/technoblogger14o3/the-beauty-of-programming-2001-4c6p)
+- [Free Cryptocurrency Price APIs: Complete Guide 2025](https://dev.to/saira_zeeshan_35fc05971fd/free-cryptocurrency-price-apis-complete-guide-2025-430c)
+- [Mastering RestTemplate in Spring Boot](https://dev.to/pallavi_kamble_07/mastering-resttemplate-in-spring-boot-2i84)
+- [The Complete Guide to Archiving and Compression in Linux: `tar` &amp; `zip`](https://dev.to/devcorner/the-complete-guide-to-archiving-and-compression-in-linux-tar-zip-1199)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
