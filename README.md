@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4kfj)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5hkd)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3gmc)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-n51)
-- [Why I Prefer to Work Alone on My Personal Projects](https://dev.to/marcantondahmen/why-i-prefer-to-work-alone-on-my-personal-projects-46md)
+- [The best climate tech that cuts greenhouse gases—what works now &lpar;and what’s next&rpar;](https://dev.to/expertise_enviropass_0155/the-best-climate-tech-that-cuts-greenhouse-gases-what-works-now-and-whats-next-10kb)
+- [Django Project &amp; App Structure Explained](https://dev.to/gopal_ghate_5bda01b730e45/django-project-app-structure-explained-353p)
+- [NeoComp: new framework with a new paradigm](https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f)
+- [Test Automation Meets AI — Smarter QA with Playwright + LLMs](https://dev.to/soumikdhar/test-automation-meets-ai-smarter-qa-with-playwright-llms-50f0)
+- [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
