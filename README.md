@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
-- [Why Stable E2E and Integration Tests Matter — and How to Achieve It with Docker and a Slim Database Copy](https://dev.to/artur_benagraph_fb74d5fd9/why-stable-e2e-and-integration-tests-matter-and-how-to-achieve-it-with-docker-and-a-slim-database-88h)
-- [Why the US-100 Sensor Belongs in Your Next Arduino or ESP32 Project](https://dev.to/julia12/introducing-the-us-100-ultrasonic-ranging-module-2-cm-45-m-440)
-- [💪🧠How to Boost your Brain for Free &lpar;Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-to-boost-your-brain-for-free-muscle-brain-534h)
-- [Web Scraping in 2025: A Python Survival Story](https://dev.to/webdev-mohdamir/web-scraping-in-2025-a-python-survival-story-544n)
+- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gek)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1fll)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-553a)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-101m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
