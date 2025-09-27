@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Building a Portfolio Clone with HTML, CSS, JavaScript, and GSAP](https://dev.to/sufalthakre/building-a-portfolio-clone-with-html-css-javascript-and-gsap-5f84)
+- [Building a Privacy-First Code Formatter: My Architecture Decisions](https://dev.to/jeanlinux/building-a-privacy-first-code-formatter-my-architecture-decisions-4fap)
+- [Tech News 26th Sept](https://dev.to/thedeepseeker/tech-news-26th-sept-271j)
 - [📰 Major Tech News: September 26, 2025](https://dev.to/om_shree_0709/major-tech-news-september-26-2025-3e9n)
 - [Construyendo un Sistema RAG para Derecho Laboral Paraguayo](https://dev.to/jesus_oviedoriquelme_084/construyendo-un-sistema-rag-para-derecho-laboral-paraguayo-3ik2)
-- [Lab 3: OSD600](https://dev.to/kkrishnan10/lab-3-osd600-pg8)
-- [Mastering URLs in Django: From Setup to Dynamic Routing](https://dev.to/kihuni/mastering-urls-in-django-from-setup-to-dynamic-routing-44i3)
-- [Unveiling AI&#39;s Hidden Sculptor: From Neurons to Stunning 3D Art](https://dev.to/arvind_sundararajan/unveiling-ais-hidden-sculptor-from-neurons-to-stunning-3d-art-n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
