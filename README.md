@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [REST API](https://dev.to/octviodemos/rest-api-5h7b)
-- [Git Basic commands and use](https://dev.to/rupeshdarimisetti/git-basic-commands-and-use-1m2k)
-- [How to Use the CSS aspect-ratio Property for Responsive Layouts](https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd)
-- [Dev Log 26 - Weather System Overhaul](https://dev.to/asx/dev-log-26-weather-system-overhaul-3e1)
-- [PACX: Lightweight, command line-based, PluginRegistrationTool](https://dev.to/_neronotte/pacx-lightweight-command-line-based-pluginregistrationtool-3hif)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2hdo)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-hfd)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3lee)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-bk0)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3hhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
