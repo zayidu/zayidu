@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
-- [I Built a Complete Desktop Banking System with Electron and Node.js](https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p)
-- [The function not dispatched](https://dev.to/omanfk/the-function-not-dispatched-548a)
-- [AI That Thinks and Reasons: A Deep Dive into Neuro-Symbolic AI](https://dev.to/naresh_82de734ade4c1c66d9/ai-that-thinks-and-reasons-a-deep-dive-into-neuro-symbolic-ai-37dh)
-- [What is Tableau?](https://dev.to/e77/what-is-tableau-3m5h)
+- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc)
+- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
