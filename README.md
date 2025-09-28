@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Model Optimization at Scale: From Theory to Production](https://dev.to/rikinptl/machine-learning-model-optimization-at-scale-from-theory-to-production-2al2)
-- [Mastering Ubuntu: The Essential Commands You Need to Know](https://dev.to/isaiah_izibili_7a39b7d627/mastering-ubuntu-the-essential-commands-you-need-to-know-5097)
-- [What’s the one online utility you use most often? I&#39;m curious to know what other small tools people would love to see added.](https://dev.to/asifnawaz1220/whats-the-one-online-utility-you-use-most-often-im-curious-to-know-what-other-small-tools-259c)
-- [Your New Pair Programmer: The AI Assistant](https://dev.to/rgbos/your-new-pair-programmer-the-ai-assistant-4e98)
-- [Adam Savage&#39;s Tested: This KITT From Knight Rider Actually Transforms!](https://dev.to/maker_youtube/adam-savages-tested-this-kitt-from-knight-rider-actually-transforms-2c8p)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-44d5)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3o5i)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1aa6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4cng)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4cik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
