@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-44d5)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3o5i)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1aa6)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4cng)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4cik)
+- [When Out-of-the-Box Email-to-Case Isn’t Enough in Dynamics 365 CE](https://dev.to/nikhildynamicsce/when-out-of-the-box-email-to-case-isnt-enough-in-dynamics-365-ce-5d26)
+- [🚀 Understanding the $about Function in Uniface 10.4: Get System Information Like a Pro](https://dev.to/petercode/understanding-the-about-function-in-uniface-104-get-system-information-like-a-pro-5cd8)
+- [📊 Understanding the Uniface $abs Function: Getting Absolute Values Made Simple](https://dev.to/petercode/understanding-the-uniface-abs-function-getting-absolute-values-made-simple-2jo1)
+- [Automating Scalable Web Infrastructure with AWD Cloudformation](https://dev.to/hajixhayjhay/automating-scalable-web-infrastructure-with-awd-cloudformation-3c78)
+- [🔢 Understanding the $acos Function in Uniface 10.4: A Developer&#39;s Guide](https://dev.to/petercode/understanding-the-acos-function-in-uniface-104-a-developers-guide-31hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
