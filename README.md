@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go &lpar;Golang&rpar; - Data Types and Variables](https://dev.to/andidev30/go-golang-data-types-and-variables-29gk)
-- [Self-Hosting a Password Manager on a Pi Zero 2W](https://dev.to/priyanshuverma/self-hosting-a-password-manager-on-a-pi-zero-2w-1c79)
-- [How to Decide the Size and Dimensions of Memoization or DP Arrays](https://dev.to/devcorner/how-to-decide-the-size-and-dimensions-of-memoization-or-dp-arrays-3en5)
-- [Hacktoberfest 2025 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2025-with-ghostfolio-2hah)
-- [[Boost]](https://dev.to/lntr/-13f5)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4gel)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-a9c)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2na3)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-242i)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-ffd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
