@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Failed My First Software Engineering Interview — And Here’s What I Learned](https://dev.to/nulfacedesigner/i-failed-my-first-software-engineering-interview-and-heres-what-i-learned-10h4)
-- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-23n3)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-pmn)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1k30)
+- [Building a Real-Time Binance Data Pipeline with Kafka and PostgreSQL](https://dev.to/augo_amos/building-a-real-time-binance-data-pipeline-with-kafka-and-postgresql-5bj8)
+- [Privacy Risks of Autonomous AI Agents](https://dev.to/shieldstring/privacy-risks-of-autonomous-ai-agents-3jki)
+- [OSD600 Lab 3: Git merges and parallel branches + Some 0.2 updates](https://dev.to/david_rivera_8d845b35931e/osd600-lab-3-git-merges-and-parallel-branches-3e5b)
+- [AI-Powered Teacher Assistant: Revolutionizing Lesson Planning for Educators](https://dev.to/victor_lakra_e1910abe17fc/ai-powered-teacher-assistant-revolutionizing-lesson-planning-for-educators-56dj)
+- [Success Story: Lorenzo Limongi&#39;s Learning Journey with 101 Blockchains - 101 Blockchains #061915](https://dev.to/calgo_62400343865ec0ae72a/success-story-lorenzo-limongis-learning-journey-with-101-blockchains-101-blockchains-061915-4pij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
