@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1m4o)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-276j)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3a3b)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3g24)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-3mja)
+- [CompTIA Network+ N10-009 5.3 Study Guide: Routing, Switching, and IP Issues](https://dev.to/andrew_despres/comptia-network-n10-009-53-study-guide-routing-switching-and-ip-issues-28i6)
+- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
+- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
+- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
+- [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
