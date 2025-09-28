@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best LLM Gateways for Scaling AI Applications in 2025](https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh)
-- [Phoenix Panels and the Swarm: Building a Living NPC Simulator](https://dev.to/matrixswarm/phoenix-panels-and-the-swarm-building-a-living-npc-simulator-32j2)
-- [🧠Unleashing AI Agents with Node.js: Build an Autonomous GPT-Powered Web Scraper in 50 Lines!](https://dev.to/ekwoster/unleashing-ai-agents-with-nodejs-build-an-autonomous-gpt-powered-web-scraper-in-50-lines-1bj9)
-- [Adam Savage&#39;s Tested: Did MythBusters Strain Adam&#39;s Relationship With Jamie?](https://dev.to/maker_youtube/adam-savages-tested-did-mythbusters-strain-adams-relationship-with-jamie-214e)
-- [Escuchar Primero, Programar Después: Case Study de una App Odontológica](https://dev.to/zendev2112/escuchar-primero-programar-despues-case-study-de-una-app-odontologica-248o)
+- [KendoReact Free Components Challenge Entry, Invoice Dashboard](https://dev.to/hazel79/kendoreact-free-components-challenge-entry-invoice-dashboard-ee0)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-28no)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3oil)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-537g)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4l65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
