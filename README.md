@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-109k)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-20g8)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-1eci)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-5bbj)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-4mkh)
+- [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
+- [I Built a Complete Desktop Banking System with Electron and Node.js](https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p)
+- [The function not dispatched](https://dev.to/omanfk/the-function-not-dispatched-548a)
+- [AI That Thinks and Reasons: A Deep Dive into Neuro-Symbolic AI](https://dev.to/naresh_82de734ade4c1c66d9/ai-that-thinks-and-reasons-a-deep-dive-into-neuro-symbolic-ai-37dh)
+- [What is Tableau?](https://dev.to/e77/what-is-tableau-3m5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
