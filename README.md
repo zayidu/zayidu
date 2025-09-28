@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc)
-- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77)
+- [🚀 Launching on Product Hunt — October 3rd!](https://dev.to/alexey_sokolov_10deecd763/launching-on-product-hunt-october-3rd-9h1)
+- [Ultimate Guide to Laravel Scopes: Local, Global, Dynamic &amp; Best Practices](https://dev.to/devtalk94/ultimate-guide-to-laravel-scopes-local-global-dynamic-best-practices-127g)
+- [Decoy-Hunter: Technical Enhancement for Verifiable Evidence and Stateful Protocol Probes.](https://dev.to/antonio_socorro_95e3ff086/decoy-hunter-technical-enhancement-for-verifiable-evidence-and-stateful-protocol-probes-2pi4)
+- [Cloud HPC: How Google Scales High-Performance Computing](https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922)
+- [Why Your Database Gives Up When Traffic Spikes &lpar;And What to Do About It&rpar;](https://dev.to/sangyog2058/database-connection-pooling-the-complete-guide-to-scaling-your-applications-160e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
