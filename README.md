@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
-- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
-- [Por qué los Desarrolladores Deberían Prestar Atención a las Inversiones en Cripto en 2025](https://dev.to/paddy_e4d3d274ebc7/por-que-los-desarrolladores-deberian-prestar-atencion-a-las-inversiones-en-cripto-en-2025-m0i)
-- [Bessere On-Ramps bauen: Warum entwicklerfreundliche Tools die Krypto-Adoption prägen könnten](https://dev.to/piwa_lin_8b3155c3dd85f0f9/bessere-on-ramps-bauen-warum-entwicklerfreundliche-tools-die-krypto-adoption-pragen-konnten-2km8)
-- [Kendo React Crypto Tracker](https://dev.to/sandromirr/kendo-react-crypto-tracker-4250)
+- [Using AI for Secure Coding: Avoiding Common Vulnerabilities](https://dev.to/jaideepparashar/using-ai-for-secure-coding-avoiding-common-vulnerabilities-26g5)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1o2i)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-59i6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-l00)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-o82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
