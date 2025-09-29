@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
-- [What is a Network Topology? &lpar;Explained Like You&#39;re Five… But Cooler&rpar;](https://dev.to/araiznaqvi/what-is-a-network-topology-explained-like-youre-five-but-cooler-3pep)
-- [Shuttering Sheltah](https://dev.to/hmcodes/final-thoughts-a3h)
-- [There is no prompt; we are gonna try to make this interesting.](https://dev.to/francis_galarza_3f4d79a87/there-is-no-prompt-we-are-gonna-try-to-make-this-interesting-38fp)
-- [Next.js 배포할 때, CloudFront + S3 vs ECS 뭐가 다를까?](https://dev.to/maya_lee/nextjs-baepohal-ddae-cloudfront-s3-vs-ecs-mweoga-dareulgga-2kl7)
+- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
+- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
+- [Por qué los Desarrolladores Deberían Prestar Atención a las Inversiones en Cripto en 2025](https://dev.to/paddy_e4d3d274ebc7/por-que-los-desarrolladores-deberian-prestar-atencion-a-las-inversiones-en-cripto-en-2025-m0i)
+- [Bessere On-Ramps bauen: Warum entwicklerfreundliche Tools die Krypto-Adoption prägen könnten](https://dev.to/piwa_lin_8b3155c3dd85f0f9/bessere-on-ramps-bauen-warum-entwicklerfreundliche-tools-die-krypto-adoption-pragen-konnten-2km8)
+- [Kendo React Crypto Tracker](https://dev.to/sandromirr/kendo-react-crypto-tracker-4250)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
