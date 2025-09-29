@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamically Generating Videos in Node.js with Cloudinary](https://dev.to/jacobandrewsky/dynamically-generating-videos-in-nodejs-with-cloudinary-522n)
-- [Why Small Businesses Can’t Afford to Keep an In-House IT Department](https://dev.to/vilengyltd/why-small-businesses-cant-afford-to-keep-an-in-house-it-department-3jc7)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4f1h)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1893)
-- [How to Keep the Swipe-Back Gesture Working with Custom Navigation Buttons in SwiftUI](https://dev.to/akash_kottil/how-to-keep-the-swipe-back-gesture-working-with-custom-navigation-buttons-in-swiftui-4dhj)
+- [Build Portfolio Website in Seconds](https://dev.to/shubham_bhilare_3611/build-portfolio-website-in-seconds-4agg)
+- [🚀 Evaluasi dan Analisis Sistem: Kunci Menguasai Sistem IT Modern](https://dev.to/ahmadasroni38/evaluasi-dan-analisis-sistem-kunci-menguasai-sistem-it-modern-2a6i)
+- [How to meaure resistance on a microcontroller?](https://dev.to/carolineee/how-to-meaure-resistance-on-a-microcontroller-4cjk)
+- [Outil de Cybersécurité du Jour - Sep 29, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-29-2025-3lj5)
+- [AWS re/Start – My Week 7 Experience](https://dev.to/ijay/aws-restart-my-week-7-experience-3a6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
