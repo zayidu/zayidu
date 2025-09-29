@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hell Clock - Official Update 1.1: Clockmaker&#39;s Tools Overview Trailer](https://dev.to/gg_news/ign-hell-clock-official-update-11-clockmakers-tools-overview-trailer-3p92)
-- [IGN: Call of Duty Next Showcase Livestream](https://dev.to/gg_news/ign-call-of-duty-next-showcase-livestream-41fg)
-- [IGN: Titan Quest 2 - Official Northern Beaches Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-titan-quest-2-official-northern-beaches-gameplay-deep-dive-trailer-50a0)
-- [IGN: The Horror Game Awards Halloween Showcase 2025 Livestream](https://dev.to/gg_news/ign-the-horror-game-awards-halloween-showcase-2025-livestream-4ba0)
-- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Best Abilities to Learn First](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-best-abilities-to-learn-first-32lm)
+- [✨ New on Code-Tree.dev — Discover Suggested Profiles!](https://dev.to/trukes/new-on-code-treedev-discover-suggested-profiles-133d)
+- [Automating AWS Lambda Deployment using GitHub Actions](https://dev.to/olamyde/automating-aws-lambda-deployment-using-github-actions-1f43)
+- [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
+- [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
+- [CSS Pseudo-Elements: Enhance Your Projects with Style!](https://dev.to/michaellarocca/css-pseudo-elements-enhance-your-projects-with-style-2gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
