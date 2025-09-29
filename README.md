@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-184l)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-21kg)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-8ch)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-1d73)
-- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-55mb)
+- [[Boost]](https://dev.to/samyak112/-paf)
+- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
+- [Email Testing Made Simple: AI Tools Every Developer Should Know](https://dev.to/atechajay/email-testing-made-simple-ai-tools-every-developer-should-know-50m1)
+- [Conversion Rate Optimization Using a Maturity Model: A Deep-Dive with Case Studies](https://dev.to/dipti_moryani_185c244d578/conversion-rate-optimization-using-a-maturity-model-a-deep-dive-with-case-studies-4m3d)
+- [Amazon Bedrock AgentCore Runtime - Part 6 Using AgentCore short-term Memory with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-6-using-agentcore-short-term-memory-with-strands-agents-sdk-55d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
