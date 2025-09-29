@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-544l)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8nm)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-12nl)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f65)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-gb3)
+- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
+- [From Sheets to Quizzes: Automating Google Forms Like a Pro](https://dev.to/rajinh24/from-sheets-to-quizzes-automating-google-forms-like-a-pro-5gbj)
+- [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
+- [[Boost]](https://dev.to/trukes/-2nam)
+- [DeepSeek-V3.2-Exp Complete Analysis: 2025 AI Model Breakthrough and In-Depth Analysis of Sparse Attention Technology](https://dev.to/czmilo/deepseek-v32-exp-complete-analysis-2025-ai-model-breakthrough-and-in-depth-analysis-of-sparse-3gcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
