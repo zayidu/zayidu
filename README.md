@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI for Secure Coding: Avoiding Common Vulnerabilities](https://dev.to/jaideepparashar/using-ai-for-secure-coding-avoiding-common-vulnerabilities-26g5)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1o2i)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-59i6)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-l00)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-o82)
+- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
+- [[Boost]](https://dev.to/naik_sejal/-1pnl)
+- [The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)
+- [3 Tool Rule To Avoid Context Switching](https://dev.to/pratham_naik_project_manager/3-tool-rule-to-avoid-context-switching-4m9k)
+- [The 3-Tool Rule: How Senior Devs Eliminate Tool Switching and Boost Focus Time](https://dev.to/teamcamp/the-3-tool-rule-how-senior-devs-eliminate-tool-switching-and-boost-focus-time-4a8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
