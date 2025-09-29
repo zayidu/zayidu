@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a VS Code Extension That Stops Me From Writing Terrible AI Prompts &lpar;and it&#39;s kinda working&rpar;](https://dev.to/ntanwir10/i-built-a-vs-code-extension-that-stops-me-from-writing-terrible-ai-prompts-and-its-kinda-working-529i)
-- [Shipping Fast, Not Perfect](https://dev.to/thekarlesi/shipping-fast-not-perfect-18ef)
-- [The Specialized Archives: defaultdict, Counter, and OrderedDict](https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah)
-- [Navigating the AI Revolution: Coping with Job Stress and Uncertainty](https://dev.to/rgbos/navigating-the-ai-revolution-coping-with-job-stress-and-uncertainty-1c73)
-- [UX/UI and some industrial design for an air quality sensor](https://dev.to/liberiam/uxui-and-some-industrial-design-for-an-air-quality-sensor-16)
+- [IGN: Hell Clock - Official Update 1.1: Clockmaker&#39;s Tools Overview Trailer](https://dev.to/gg_news/ign-hell-clock-official-update-11-clockmakers-tools-overview-trailer-3p92)
+- [IGN: Call of Duty Next Showcase Livestream](https://dev.to/gg_news/ign-call-of-duty-next-showcase-livestream-41fg)
+- [IGN: Titan Quest 2 - Official Northern Beaches Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-titan-quest-2-official-northern-beaches-gameplay-deep-dive-trailer-50a0)
+- [IGN: The Horror Game Awards Halloween Showcase 2025 Livestream](https://dev.to/gg_news/ign-the-horror-game-awards-halloween-showcase-2025-livestream-4ba0)
+- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Best Abilities to Learn First](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-best-abilities-to-learn-first-32lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
