@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My understanding of microservices was totally wrong](https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9)
-- [How to future-proof your web app&#39;s password authentication](https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3)
-- [Why End-to-End Encryption Makes Password Managers Truly Secure](https://dev.to/rahul_sharma_15bd129bc69e/why-end-to-end-encryption-makes-password-managers-truly-secure-13ca)
-- [Beyond “opens”: what signals show a doc actually landed?](https://dev.to/howard_shaw_3c36a3a6cb900/beyond-opens-what-signals-show-a-doc-actually-landed-4a7)
-- [🚀 AI-Powered Project Management Dashboard with KendoReact &amp; Nuclia RAG](https://dev.to/juliodiaz0209/ai-powered-project-management-dashboard-with-kendoreact-nuclia-rag-1p44)
+- [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
+- [How I Stopped Worrying About RAM and Learned to Love Vim](https://dev.to/joybtw/how-i-stopped-worrying-about-ram-and-learned-to-love-vim-2c07)
+- [Langchain and LangGraph](https://dev.to/ashutoshsarangi/langchain-and-langgraph-1678)
+- [Create a Simple Game with Python and JavaScript](https://dev.to/sanjaynaker/create-a-simple-game-with-python-and-javascript-4gb6)
+- [The Effect of AI on Me](https://dev.to/joybtw/the-effect-of-ai-on-me-26b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
