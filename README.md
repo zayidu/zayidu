@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4png)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1lna)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-bl)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-14n1)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-3kfa)
+- [I Built a VS Code Extension That Stops Me From Writing Terrible AI Prompts &lpar;and it&#39;s kinda working&rpar;](https://dev.to/ntanwir10/i-built-a-vs-code-extension-that-stops-me-from-writing-terrible-ai-prompts-and-its-kinda-working-529i)
+- [Shipping Fast, Not Perfect](https://dev.to/thekarlesi/shipping-fast-not-perfect-18ef)
+- [The Specialized Archives: defaultdict, Counter, and OrderedDict](https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah)
+- [Navigating the AI Revolution: Coping with Job Stress and Uncertainty](https://dev.to/rgbos/navigating-the-ai-revolution-coping-with-job-stress-and-uncertainty-1c73)
+- [UX/UI and some industrial design for an air quality sensor](https://dev.to/liberiam/uxui-and-some-industrial-design-for-an-air-quality-sensor-16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
