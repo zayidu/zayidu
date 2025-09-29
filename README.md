@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
-- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
-- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
-- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
-- [Real-World AI Application: Netflix Recommendation System](https://dev.to/dksh_71/real-world-ai-application-netflix-recommendation-system-fkg)
+- [Cloud, Edge, or Local: Choosing the Right Architecture for Smart Security Cameras](https://dev.to/dyrok/cloud-edge-or-local-choosing-the-right-architecture-for-smart-security-cameras-2ej4)
+- [Comparing Dijkstra&#39;s Algorithm in iGraph vs networkX: Which One Should You Use?](https://dev.to/whoakarsh/comparing-dijkstras-algorithm-in-igraph-vs-networkx-which-one-should-you-use-4d82)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5dh)
+- [I made a real-time Mafia game you can play with strangers – no signups&lpar;pt3&rpar;](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signupspt3-3nf7)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-16jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
