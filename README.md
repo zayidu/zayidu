@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
-- [[Boost]](https://dev.to/naik_sejal/-1pnl)
-- [The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)
-- [3 Tool Rule To Avoid Context Switching](https://dev.to/pratham_naik_project_manager/3-tool-rule-to-avoid-context-switching-4m9k)
-- [The 3-Tool Rule: How Senior Devs Eliminate Tool Switching and Boost Focus Time](https://dev.to/teamcamp/the-3-tool-rule-how-senior-devs-eliminate-tool-switching-and-boost-focus-time-4a8f)
+- [My understanding of microservices was totally wrong](https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9)
+- [How to future-proof your web app&#39;s password authentication](https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3)
+- [Why End-to-End Encryption Makes Password Managers Truly Secure](https://dev.to/rahul_sharma_15bd129bc69e/why-end-to-end-encryption-makes-password-managers-truly-secure-13ca)
+- [Beyond “opens”: what signals show a doc actually landed?](https://dev.to/howard_shaw_3c36a3a6cb900/beyond-opens-what-signals-show-a-doc-actually-landed-4a7)
+- [🚀 AI-Powered Project Management Dashboard with KendoReact &amp; Nuclia RAG](https://dev.to/juliodiaz0209/ai-powered-project-management-dashboard-with-kendoreact-nuclia-rag-1p44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
