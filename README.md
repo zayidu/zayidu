@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Binance Data Pipeline with Kafka and PostgreSQL](https://dev.to/augo_amos/building-a-real-time-binance-data-pipeline-with-kafka-and-postgresql-5bj8)
-- [Privacy Risks of Autonomous AI Agents](https://dev.to/shieldstring/privacy-risks-of-autonomous-ai-agents-3jki)
-- [OSD600 Lab 3: Git merges and parallel branches + Some 0.2 updates](https://dev.to/david_rivera_8d845b35931e/osd600-lab-3-git-merges-and-parallel-branches-3e5b)
-- [AI-Powered Teacher Assistant: Revolutionizing Lesson Planning for Educators](https://dev.to/victor_lakra_e1910abe17fc/ai-powered-teacher-assistant-revolutionizing-lesson-planning-for-educators-56dj)
-- [Success Story: Lorenzo Limongi&#39;s Learning Journey with 101 Blockchains - 101 Blockchains #061915](https://dev.to/calgo_62400343865ec0ae72a/success-story-lorenzo-limongis-learning-journey-with-101-blockchains-101-blockchains-061915-4pij)
+- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
+- [What is a Network Topology? &lpar;Explained Like You&#39;re Five… But Cooler&rpar;](https://dev.to/araiznaqvi/what-is-a-network-topology-explained-like-youre-five-but-cooler-3pep)
+- [Shuttering Sheltah](https://dev.to/hmcodes/final-thoughts-a3h)
+- [There is no prompt; we are gonna try to make this interesting.](https://dev.to/francis_galarza_3f4d79a87/there-is-no-prompt-we-are-gonna-try-to-make-this-interesting-38fp)
+- [Next.js 배포할 때, CloudFront + S3 vs ECS 뭐가 다를까?](https://dev.to/maya_lee/nextjs-baepohal-ddae-cloudfront-s3-vs-ecs-mweoga-dareulgga-2kl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
