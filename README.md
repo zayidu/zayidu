@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud, Edge, or Local: Choosing the Right Architecture for Smart Security Cameras](https://dev.to/dyrok/cloud-edge-or-local-choosing-the-right-architecture-for-smart-security-cameras-2ej4)
-- [Comparing Dijkstra&#39;s Algorithm in iGraph vs networkX: Which One Should You Use?](https://dev.to/whoakarsh/comparing-dijkstras-algorithm-in-igraph-vs-networkx-which-one-should-you-use-4d82)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5dh)
-- [I made a real-time Mafia game you can play with strangers – no signups&lpar;pt3&rpar;](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signupspt3-3nf7)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-16jc)
+- [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
+- [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
+- [Setting Up PostgreSQL in Docker on Hetzner with SSL Certificates from Certbot](https://dev.to/damir_maham/setting-up-postgresql-in-docker-on-hetzner-with-ssl-certificates-from-certbot-3le3)
+- [Mastering BeautifulSoup: Parsing, Navigating, and Extracting Data Like a Pro](https://dev.to/nelson_orina_a538ba52e9ed/mastering-beautifulsoup-parsing-navigating-and-extracting-data-like-a-pro-enl)
+- [Using the Free Version of CodeAcademy](https://dev.to/magicrani35/using-the-free-version-of-codeacademy-11db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
