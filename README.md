@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Mentor&#39;s Contact form challenge built with Elm](https://dev.to/dwayne/frontend-mentors-contact-form-challenge-built-with-elm-47ig)
-- [RustyBoot-RISCV - A bare metal Boot-loader in Rust](https://dev.to/kushalmeghani1644/rustyboot-riscv-a-bare-metal-boot-loader-in-rust-171g)
-- [Integrating Groq with Google ADK using LiteLLM](https://dev.to/mmtq/integrating-groq-with-google-adk-using-litellm-50me)
-- [Benefits of Neem: Nature’s Gift for Healthy Skin](https://dev.to/lilymin_organic_762ebc085/benefits-of-neem-natures-gift-for-healthy-skin-26b7)
-- [I Built an AI Meme Generator to Be Cheaper and Faster with a Frontend Hack](https://dev.to/hemant_manwani_4a460bde7a/i-built-an-ai-meme-generator-to-be-cheaper-and-faster-with-a-frontend-hack-3ggn)
+- [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
+- [How to Build a Web Monitoring Workflow with Python, n8n &amp; Docker using Telegram Alerts](https://dev.to/jesulayomi/how-to-build-a-web-monitoring-workflow-with-python-n8n-docker-using-telegram-alerts-22la)
+- [Eternal September: Learning for the Life of it](https://dev.to/davesommerville/eternal-september-learning-for-the-life-of-it-i6i)
+- [Introducing Meku: AI Web Apps Builder for Developers](https://dev.to/meku/introducing-meku-ai-web-apps-builder-for-developers-4cii)
+- [‎Writing Blog Posts That Demonstrate Your Problem-Solving Skills ‎ ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-blog-posts-that-demonstrate-your-problem-solving-skills-1cgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
