@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-a6a)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-496j)
-- [A — Assess the Metric &lpar;decide the next move&rpar;](https://dev.to/codebrainr/a-assess-the-metric-decide-the-next-move-43mg)
-- [KEXP: Cory Hanson - Bird On A Swing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bird-on-a-swing-live-on-kexp-1898)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-5hfl)
+- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
+- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
+- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
+- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
+- [Real-World AI Application: Netflix Recommendation System](https://dev.to/dksh_71/real-world-ai-application-netflix-recommendation-system-fkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
