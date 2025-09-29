@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/samyak112/-paf)
-- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
-- [Email Testing Made Simple: AI Tools Every Developer Should Know](https://dev.to/atechajay/email-testing-made-simple-ai-tools-every-developer-should-know-50m1)
-- [Conversion Rate Optimization Using a Maturity Model: A Deep-Dive with Case Studies](https://dev.to/dipti_moryani_185c244d578/conversion-rate-optimization-using-a-maturity-model-a-deep-dive-with-case-studies-4m3d)
-- [Amazon Bedrock AgentCore Runtime - Part 6 Using AgentCore short-term Memory with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-6-using-agentcore-short-term-memory-with-strands-agents-sdk-55d4)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-a6a)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-496j)
+- [A — Assess the Metric &lpar;decide the next move&rpar;](https://dev.to/codebrainr/a-assess-the-metric-decide-the-next-move-43mg)
+- [KEXP: Cory Hanson - Bird On A Swing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bird-on-a-swing-live-on-kexp-1898)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-5hfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
