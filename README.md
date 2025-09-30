@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
-- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
-- [Beyond YAML: Logic Compression for 50%+ LLM Cost &amp; Latency Reduction](https://dev.to/_768dd7ab130016ab8b0a/beyond-yaml-logic-compression-for-50-llm-cost-latency-reduction-2h48)
-- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
-- [Shallow copy &amp; Deep copy in Python &lpar;11&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-11-4ib)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-4knd)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-5cgb)
+- [KEXP: Fishbone - Ma And Pa &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-ma-and-pa-live-on-kexp-37pe)
+- [KEXP: Fishbone - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-full-performance-live-on-kexp-1fe0)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3lai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
