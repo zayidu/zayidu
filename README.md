@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-4knd)
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-5cgb)
-- [KEXP: Fishbone - Ma And Pa &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-ma-and-pa-live-on-kexp-37pe)
-- [KEXP: Fishbone - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-full-performance-live-on-kexp-1fe0)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3lai)
+- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
+- [Business value &gt; Shiny tech](https://dev.to/sylwia-lask/business-value-shiny-tech-5egj)
+- [Over the last 9 months, I built a generative video model that can take any image and build a playable world around it ✨](https://dev.to/lilshake/over-the-last-9-months-i-built-a-generative-video-model-that-can-take-any-image-and-build-a-452p)
+- [Post‑Evaluation Action Plan for AI Agents](https://dev.to/kamya_shah_e69d5dd78f831c/post-evaluation-action-plan-for-ai-agents-4ee6)
+- [Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary](https://dev.to/cloudinary/clara-denari-and-the-mysterious-transformations-a-new-way-to-explore-cloudinary-57od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
