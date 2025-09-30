@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a self-healing distributed Service on Kubernetes](https://dev.to/lizabethwordp/designing-a-self-healing-distributed-service-on-kubernetes-2eoh)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2mcp)
-- [Coopera Sharp - Chamadas em Sequência](https://dev.to/wsantosdev/coopera-sharp-chamadas-em-sequencia-2hh)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-99p)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-4n5n)
+- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
+- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
+- [Beyond YAML: Logic Compression for 50%+ LLM Cost &amp; Latency Reduction](https://dev.to/_768dd7ab130016ab8b0a/beyond-yaml-logic-compression-for-50-llm-cost-latency-reduction-2h48)
+- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
+- [Shallow copy &amp; Deep copy in Python &lpar;11&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-11-4ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
