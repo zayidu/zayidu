@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ New on Code-Tree.dev — Discover Suggested Profiles!](https://dev.to/trukes/new-on-code-treedev-discover-suggested-profiles-133d)
-- [Automating AWS Lambda Deployment using GitHub Actions](https://dev.to/olamyde/automating-aws-lambda-deployment-using-github-actions-1f43)
-- [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
-- [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
-- [CSS Pseudo-Elements: Enhance Your Projects with Style!](https://dev.to/michaellarocca/css-pseudo-elements-enhance-your-projects-with-style-2gf8)
+- [Unlocking the Power of Developer Tools: Transforming Your Workflow with Modern Solutions](https://dev.to/mikeover/unlocking-the-power-of-developer-tools-transforming-your-workflow-with-modern-solutions-21d5)
+- [Slack Relay Agent — Swarm Alerts to Slack](https://dev.to/matrixswarm/slack-relay-agent-swarm-alerts-to-slack-1dp5)
+- [Radiomics in Breast Cancer – Part 1: Exploring the CBIS-DDSM Dataset](https://dev.to/helloerika__/radiomics-in-breast-cancer-part-1-exploring-the-cbis-ddsm-dataset-1ece)
+- [“Understanding REST APIs in Simple Terms”](https://dev.to/george_hany_899df0785b4fe/understanding-rest-apis-in-simple-terms-1129)
+- [Alpacon: Network Access and Resource Management &lpar;Part 1&rpar;](https://dev.to/baek/alpacon-network-access-and-resource-management-part-1-coo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
