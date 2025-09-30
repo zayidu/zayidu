@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3ch8)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-239)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-big)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-3am7)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-4joa)
+- [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
+- [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
+- [I Tried Kombai in My IDE: Here’s Why It Outperforms Cursor, Claude, and Copilot for Frontend](https://dev.to/envitab/i-tried-kombai-in-my-ide-heres-why-it-outperforms-cursor-claude-and-copilot-for-frontend-26cg)
+- [The AI Revolution in Development Is Here: Introducing the AI-Driven Development &lpar;AIDD&rpar; Course](https://dev.to/chiara_porcelli_df7ef20dc/the-ai-revolution-in-development-is-here-introducing-the-ai-driven-development-aidd-course-5829)
+- [Filling Out Forms with Playwright: Choosing Between `fill&lpar;&rpar;` and `pressSequentially&lpar;&rpar;`](https://dev.to/nocnica/filling-out-forms-with-playwright-choosing-between-fill-and-presssequentially-3m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
