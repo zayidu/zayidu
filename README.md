@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Used a Data Gateway to Connect On-Prem SQL with Microsoft Fabric](https://dev.to/prachibhende/why-we-used-a-data-gateway-to-connect-on-prem-sql-with-microsoft-fabric-4i08)
-- [The Rise of Open-Source Data Catalogs: New Opportunities For Implementing Data Mesh](https://dev.to/jurgitamotus/the-rise-of-open-source-data-catalogs-new-opportunities-for-implementing-data-mesh-107n)
-- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
-- [Stop Guessing, Start Proving: A Developer&#39;s Guide to Calculating Content Marketing ROI](https://dev.to/michaelaiglobal/stop-guessing-start-proving-a-developers-guide-to-calculating-content-marketing-roi-1gdj)
-- [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
+- [Why Small Language Models &lpar;SLM&rpar; Are the Secret Weapon of Scalable AI?](https://dev.to/aiwaaligirl/why-small-language-models-slm-are-the-secret-weapon-of-scalable-ai-3k8f)
+- [ALB &amp; SNI &lpar;Server Name Indication&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/alb-sni-server-name-indication-n54)
+- [Don’t Let Cyber Risk Kill Your GenAI Vibe: A Developer’s Guide](https://dev.to/mkdev/dont-let-cyber-risk-kill-your-genai-vibe-a-developers-guide-1lbf)
+- [Combating Dual Diagnosis: How Moriah Behavioral Health Treats Mood &amp; Substance Disorders Simultaneously](https://dev.to/moriah_behavioralhealth_/combating-dual-diagnosis-how-moriah-behavioral-health-treats-mood-substance-disorders-44in)
+- [EventBridge asynchronously decouple a SaaS application](https://dev.to/wakeup_flower_8591a6cb6a9/eventbridge-asynchronously-decouple-a-saas-application-1j81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
