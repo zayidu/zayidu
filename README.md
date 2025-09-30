@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Tableau Without Getting Lost: A Practical Guide to Data Visualization](https://dev.to/thedatageek/mastering-tableau-without-getting-lost-a-practical-guide-to-data-visualization-3di7)
-- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
-- [Strategic Assessment of myHerb&#39;s Eco-Innovation and Sustainability Guidance Platform](https://dev.to/myherb/strategic-assessment-of-myherbs-eco-innovation-and-sustainability-guidance-platform-28ma)
-- [10 Reasons Why Python is Still the Best Programming Language in 2025 &lpar;and Beyond&rpar;](https://dev.to/brentwash35/10-reasons-why-python-is-still-the-best-programming-language-in-2025-and-beyond-442d)
-- [Why Mining Industry Why Mining Industry Software Solutions Are Essential](https://dev.to/dits_marketing_5a30d3f55f/why-mining-industry-why-mining-industry-software-solutions-are-essential-4a9l)
+- [Every time I read about this case, I think of the employees who lost their work. Over 132 projects gone because Joshua Lintz and Tyler Davis decided to raid servers.](https://dev.to/raffalmaster/every-time-i-read-about-this-case-i-think-of-the-employees-who-lost-their-work-over-132-projects-120e)
+- [This is what happens when fraud meets public corruption. Tyler Davis and Kerri Williams-Horn are tied to one of the ugliest schemes against the U.S. Treasury.](https://dev.to/raffalmaster/this-is-what-happens-when-fraud-meets-public-corruption-tyler-davis-and-kerri-williams-horn-are-1o4k)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-25l0)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1p26)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-pdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
