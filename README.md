@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2lmm)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-1ik4)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2olc)
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-29ae)
-- [KEXP: Fishbone - Dog Eat Dog &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-dog-eat-dog-live-on-kexp-1o5m)
+- [From Zero to .glb: Building a Serverless 3D Asset Pipeline in with Rust and Cloudflare](https://dev.to/abraham_thomas_674162cfda/from-zero-to-glb-building-a-serverless-3d-asset-pipeline-in-with-rust-and-cloudflare-454l)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3mn0)
+- [🌱 Environment Variables: The Secret Sauce of Modern Apps](https://dev.to/charan_gutti_cf60c6185074/environment-variables-the-secret-sauce-of-modern-apps-59i8)
+- [Your Sealed Class Cookbook: 3 Production-Ready Android Recipes](https://dev.to/kavearhasi_viswanathan/your-sealed-class-cookbook-3-production-ready-android-recipes-2l3o)
+- [EZ Mother Devlog #2](https://dev.to/longchau/ez-mother-devlog-2-30n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
