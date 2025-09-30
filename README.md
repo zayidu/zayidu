@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
-- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
-- [Understanding Laravel Blade Components and Slots](https://dev.to/addwebsolutionpvtltd/understanding-laravel-blade-components-and-slots-5fbd)
-- [Why HackSpire&#39;25 Has Me Buzzing with Excitement! 🎯](https://dev.to/debaditya_saha_5b45172210/why-hackspire25-has-me-buzzing-with-excitement-22jd)
-- [Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications](https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ob8)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1f1g)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48o5)
+- [NPR Music: Adrian Quesada: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-adrian-quesada-tiny-desk-concert-2jod)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-24k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
