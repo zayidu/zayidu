@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
-- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
-- [How to Leave Breadcrumbs for Your Future Self &lpar;and Teammates&rpar; in Code](https://dev.to/saxmanjes/how-to-leave-breadcrumbs-for-your-future-self-and-teammates-in-code-4979)
-- [How to build Personal Blog Application Using React | TailwindCSS | TypeScript](https://dev.to/codewithsadee/how-to-build-personal-blog-application-using-react-tailwindcss-typescript-3c3e)
-- [🎯 The Challenge: Processing TBs of S3 Data Without Breaking the Bank](https://dev.to/qvfagundes/the-challenge-processing-tbs-of-s3-data-without-breaking-the-bank-bfl)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2lmm)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-1ik4)
+- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2olc)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-29ae)
+- [KEXP: Fishbone - Dog Eat Dog &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-dog-eat-dog-live-on-kexp-1o5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
