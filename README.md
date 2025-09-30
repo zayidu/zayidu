@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-551f)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-4aij)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-d4e)
+- [Mastering Tableau Without Getting Lost: A Practical Guide to Data Visualization](https://dev.to/thedatageek/mastering-tableau-without-getting-lost-a-practical-guide-to-data-visualization-3di7)
+- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
+- [Strategic Assessment of myHerb&#39;s Eco-Innovation and Sustainability Guidance Platform](https://dev.to/myherb/strategic-assessment-of-myherbs-eco-innovation-and-sustainability-guidance-platform-28ma)
+- [10 Reasons Why Python is Still the Best Programming Language in 2025 &lpar;and Beyond&rpar;](https://dev.to/brentwash35/10-reasons-why-python-is-still-the-best-programming-language-in-2025-and-beyond-442d)
+- [Why Mining Industry Why Mining Industry Software Solutions Are Essential](https://dev.to/dits_marketing_5a30d3f55f/why-mining-industry-why-mining-industry-software-solutions-are-essential-4a9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
