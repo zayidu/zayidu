@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Small Language Models &lpar;SLM&rpar; Are the Secret Weapon of Scalable AI?](https://dev.to/aiwaaligirl/why-small-language-models-slm-are-the-secret-weapon-of-scalable-ai-3k8f)
-- [ALB &amp; SNI &lpar;Server Name Indication&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/alb-sni-server-name-indication-n54)
-- [Don’t Let Cyber Risk Kill Your GenAI Vibe: A Developer’s Guide](https://dev.to/mkdev/dont-let-cyber-risk-kill-your-genai-vibe-a-developers-guide-1lbf)
-- [Combating Dual Diagnosis: How Moriah Behavioral Health Treats Mood &amp; Substance Disorders Simultaneously](https://dev.to/moriah_behavioralhealth_/combating-dual-diagnosis-how-moriah-behavioral-health-treats-mood-substance-disorders-44in)
-- [EventBridge asynchronously decouple a SaaS application](https://dev.to/wakeup_flower_8591a6cb6a9/eventbridge-asynchronously-decouple-a-saas-application-1j81)
+- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
+- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
+- [How to Leave Breadcrumbs for Your Future Self &lpar;and Teammates&rpar; in Code](https://dev.to/saxmanjes/how-to-leave-breadcrumbs-for-your-future-self-and-teammates-in-code-4979)
+- [How to build Personal Blog Application Using React | TailwindCSS | TypeScript](https://dev.to/codewithsadee/how-to-build-personal-blog-application-using-react-tailwindcss-typescript-3c3e)
+- [🎯 The Challenge: Processing TBs of S3 Data Without Breaking the Bank](https://dev.to/qvfagundes/the-challenge-processing-tbs-of-s3-data-without-breaking-the-bank-bfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
