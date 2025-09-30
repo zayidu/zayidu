@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every time I read about this case, I think of the employees who lost their work. Over 132 projects gone because Joshua Lintz and Tyler Davis decided to raid servers.](https://dev.to/raffalmaster/every-time-i-read-about-this-case-i-think-of-the-employees-who-lost-their-work-over-132-projects-120e)
-- [This is what happens when fraud meets public corruption. Tyler Davis and Kerri Williams-Horn are tied to one of the ugliest schemes against the U.S. Treasury.](https://dev.to/raffalmaster/this-is-what-happens-when-fraud-meets-public-corruption-tyler-davis-and-kerri-williams-horn-are-1o4k)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-25l0)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1p26)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-pdh)
+- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
+- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
+- [Understanding Laravel Blade Components and Slots](https://dev.to/addwebsolutionpvtltd/understanding-laravel-blade-components-and-slots-5fbd)
+- [Why HackSpire&#39;25 Has Me Buzzing with Excitement! 🎯](https://dev.to/debaditya_saha_5b45172210/why-hackspire25-has-me-buzzing-with-excitement-22jd)
+- [Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications](https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
