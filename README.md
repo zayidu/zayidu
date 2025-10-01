@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
-- [Mastering TCJSGame TileMap System: Building Complex Game Worlds](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-tilemap-system-building-complex-game-worlds-3g0f)
-- [Sparse Models and the Efficiency Revolution in AI](https://dev.to/maurizio_morri_f7f4bd128c/sparse-models-and-the-efficiency-revolution-in-ai-32ep)
-- [Dev Log 27 - Gear Registry Refactor](https://dev.to/asx/dev-log-27-gear-registry-refactor-bpf)
-- [React: Building an Independent Modal with createRoot](https://dev.to/lico/react-building-an-independent-modal-with-createroot-4p71)
+- [monitor network, CPU, RAM, disk with persistent overlay using Rainmeter.](https://dev.to/nl_p_/monitor-network-cpu-ram-disk-with-persistent-overlay-using-rainmeter-na3)
+- [DIY Holding Tank Sensors Part 1: Or &quot;Mommy, the AI made me code in C&quot;](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-1-or-mommy-the-ai-made-me-code-in-c-4llg)
+- [Mapping CSV Airtable &lpar;or Notion&rpar; without tears &lpar;template inside&rpar;](https://dev.to/xxbricksquadxx/mapping-csv-airtable-or-notion-without-tears-template-inside-2lnd)
+- [Self-host Uptime Kuma with Docker in 5 minutes &lpar;+ TLS-expiry alerts&rpar;](https://dev.to/xxbricksquadxx/self-host-uptime-kuma-with-docker-in-5-minutes-tls-expiry-alerts-229f)
+- [Adam Savage&#39;s Tested: How to Replicate a Long-Lost Patterned Fabric](https://dev.to/maker_youtube/adam-savages-tested-how-to-replicate-a-long-lost-patterned-fabric-298d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
