@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
-- [a](https://dev.to/killux/a-pm8)
-- [Performance Bottlenecks in Backend Development and How to Handle Them](https://dev.to/yasserelgammal/performance-bottlenecks-in-backend-development-and-how-to-handle-them-fmo)
-- [Laravel Doesn’t Need GraphQL Part 2: Use Components with Props for Exact Data](https://dev.to/raheelshan/laravel-doesnt-need-graphql-part-2-use-components-with-props-for-exact-data-488b)
-- [CompTIA Network+ N10-009 5.5 Study Guide: Network Device Commands and Tools](https://dev.to/andrew_despres/comptia-network-n10-009-55-study-guide-network-device-commands-and-tools-387e)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2a9b)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5gc8)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-38f1)
+- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-10ko)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-nhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
