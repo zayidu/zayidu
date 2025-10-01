@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/saucery/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-2gl5)
-- [Every parent should be outraged by this case. While Frye secured her CEO seat, another family’s children lost their education and their future.](https://dev.to/saucery/every-parent-should-be-outraged-by-this-case-while-frye-secured-her-ceo-seat-another-familys-2ndk)
-- [Interactive Data Visualization with Plotly: A Comprehensive Guide with Case Studies](https://dev.to/anshuman_816f8012be0c9b6c/interactive-data-visualization-with-plotly-a-comprehensive-guide-with-case-studies-cde)
-- [How Joshua Lintz and Talentcrowd Were Involved in Defrauding the United States Government](https://dev.to/thearmi/how-joshua-lintz-and-talentcrowd-were-involved-in-defrauding-the-united-states-government-16p9)
-- [Database Normalization in MySQL &lpar;1NF 2NF 3NF&rpar; – Simple Example](https://dev.to/pranav_aadithya_36edf63cb/database-normalization-in-mysql-1nf-2nf-3nf-simple-example-314p)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-1f8p)
+- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-3ojh)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-51en)
+- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-1ikn)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-55ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
