@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FFmpeg Tutorial: Creating Professional Videos with Advanced Filtering and GPU Acceleration](https://dev.to/vuhung16au/ffmpeg-tutorial-creating-professional-videos-with-advanced-filtering-and-gpu-acceleration-3h6)
-- [Data &amp; Art : How do they mix?](https://dev.to/l_zia_l/data-art-how-do-they-mix-3pfc)
-- [Host Your Own TimeTracker on a Raspberry Pi in 10 Minutes](https://dev.to/drytrix/host-your-own-timetracker-on-a-raspberry-pi-in-10-minutes-340m)
-- [Blind 75 LeetCode: The Ultimate Guide to Smarter Interview Prep with AI](https://dev.to/alex_hunter_44f4c9ed6671e/blind-75-leetcode-the-ultimate-guide-to-smarter-interview-prepwith-ai-24oh)
-- [How Much Should We Lean on AI?](https://dev.to/marikinyo/how-much-should-we-lean-on-ai-73p)
+- [From Pocket to Wallabag: A Self-Hosted Migration Story](https://dev.to/pascal_cescato_692b7a8a20/from-pocket-to-wallabag-a-self-hosted-migration-story-2df7)
+- [How Can I Write a Movie Script?](https://dev.to/studiovity_production/how-can-i-write-a-movie-script-3f0g)
+- [Sleutel vergeten in huis: Praktische oplossingen zonder schade](https://dev.to/slotenmakerhulp-locksmith/sleutel-vergeten-in-huis-praktische-oplossingen-zonder-schade-2lld)
+- [How AI Is Transforming B2B Lead Generation and Account Targeting](https://dev.to/noah_jones_vm/how-ai-is-transforming-b2b-lead-generation-and-account-targeting-30mm)
+- [Script Writing Software: Why Studiovity Stands Out for Writers &amp; Filmmakers](https://dev.to/studiovity_production/script-writing-software-why-studiovity-stands-out-for-writers-filmmakers-4b0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
