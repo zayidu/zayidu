@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-30ek)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3kac)
-- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-8j2)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2fi8)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-d5k)
+- [China&#39;s K Visa: A New Option for Software Developers in 2025](https://dev.to/cannan_david_974c14021725/chinas-k-visa-a-new-option-for-software-developers-in-2025-7ml)
+- [Windows-Like RDP on a Linux Core? Yes, Please! 🤯](https://dev.to/voxihost_nexus/windows-like-rdp-on-a-linux-core-yes-please-15ih)
+- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
+- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
+- [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
