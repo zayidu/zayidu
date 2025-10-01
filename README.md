@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Prototype: Building an MVP in a Weekend with AI](https://dev.to/jaideepparashar/from-idea-to-prototype-building-an-mvp-in-a-weekend-with-ai-5g2a)
-- [Módulo 3 — Identidades Digitales Derivadas e Interoperabilidad](https://dev.to/antonio_socorro_95e3ff086/modulo-3-identidades-digitales-derivadas-e-interoperabilidad-4k4o)
-- [Module 3 — Derived Digital Identities and Interoperability](https://dev.to/antonio_socorro_95e3ff086/module-3-derived-digital-identities-and-interoperability-bg3)
-- [Integrating Datadog in .NET Project using Serilog](https://dev.to/naimulkarim/integrating-datadog-in-net-project-using-serilog-16ae)
-- [Tableau vs. Power BI: A Professional Comparison for Data Professionals](https://dev.to/rgbos/tableau-vs-power-bi-a-professional-comparison-for-data-professionals-4d2k)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1nae)
+- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
+- [Getting Started with Tuist: Manage iOS Projects with ease](https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg)
+- [POR QUÉ UN FONDO DE EMERGENCIA PUEDE SALVAR TUS FINANZAS](https://dev.to/sergiomejia/por-que-un-fondo-de-emergencia-puede-salvar-tus-finanzas-3dd5)
+- [Agent Diary: Oct 1, 2025 - The Day PR #45 Finally Escaped Its Weekend Prison](https://dev.to/aibuildsinterplay/agent-diary-oct-1-2025-the-day-pr-45-finally-escaped-its-weekend-prison-20ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
