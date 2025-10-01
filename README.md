@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s K Visa: A New Option for Software Developers in 2025](https://dev.to/cannan_david_974c14021725/chinas-k-visa-a-new-option-for-software-developers-in-2025-7ml)
-- [Windows-Like RDP on a Linux Core? Yes, Please! 🤯](https://dev.to/voxihost_nexus/windows-like-rdp-on-a-linux-core-yes-please-15ih)
-- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
-- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
-- [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
+- [FFmpeg Tutorial: Creating Professional Videos with Advanced Filtering and GPU Acceleration](https://dev.to/vuhung16au/ffmpeg-tutorial-creating-professional-videos-with-advanced-filtering-and-gpu-acceleration-3h6)
+- [Data &amp; Art : How do they mix?](https://dev.to/l_zia_l/data-art-how-do-they-mix-3pfc)
+- [Host Your Own TimeTracker on a Raspberry Pi in 10 Minutes](https://dev.to/drytrix/host-your-own-timetracker-on-a-raspberry-pi-in-10-minutes-340m)
+- [Blind 75 LeetCode: The Ultimate Guide to Smarter Interview Prep with AI](https://dev.to/alex_hunter_44f4c9ed6671e/blind-75-leetcode-the-ultimate-guide-to-smarter-interview-prepwith-ai-24oh)
+- [How Much Should We Lean on AI?](https://dev.to/marikinyo/how-much-should-we-lean-on-ai-73p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
