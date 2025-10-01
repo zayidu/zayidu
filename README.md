@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Pocket to Wallabag: A Self-Hosted Migration Story](https://dev.to/pascal_cescato_692b7a8a20/from-pocket-to-wallabag-a-self-hosted-migration-story-2df7)
-- [How Can I Write a Movie Script?](https://dev.to/studiovity_production/how-can-i-write-a-movie-script-3f0g)
-- [Sleutel vergeten in huis: Praktische oplossingen zonder schade](https://dev.to/slotenmakerhulp-locksmith/sleutel-vergeten-in-huis-praktische-oplossingen-zonder-schade-2lld)
-- [How AI Is Transforming B2B Lead Generation and Account Targeting](https://dev.to/noah_jones_vm/how-ai-is-transforming-b2b-lead-generation-and-account-targeting-30mm)
-- [Script Writing Software: Why Studiovity Stands Out for Writers &amp; Filmmakers](https://dev.to/studiovity_production/script-writing-software-why-studiovity-stands-out-for-writers-filmmakers-4b0p)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-41do)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-51d5)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-55np)
+- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-338)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-5c4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
