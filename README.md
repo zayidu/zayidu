@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1nae)
-- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
-- [Getting Started with Tuist: Manage iOS Projects with ease](https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg)
-- [POR QUÉ UN FONDO DE EMERGENCIA PUEDE SALVAR TUS FINANZAS](https://dev.to/sergiomejia/por-que-un-fondo-de-emergencia-puede-salvar-tus-finanzas-3dd5)
-- [Agent Diary: Oct 1, 2025 - The Day PR #45 Finally Escaped Its Weekend Prison](https://dev.to/aibuildsinterplay/agent-diary-oct-1-2025-the-day-pr-45-finally-escaped-its-weekend-prison-20ab)
+- [RBAC in Kubernetes: Understanding Roles, and RoleBindings 🔐](https://dev.to/imlucky883/rbac-in-kubernetes-understanding-roles-and-rolebindings-4nj3)
+- [Developers Learning Stack: learn how you can master new Technologies in 30 days](https://dev.to/pratham_naik_project_manager/developers-learning-stack-learn-how-you-can-master-new-technologies-in-30-days-50i3)
+- [LUCA: A Modern Architecture for SwiftUI Development](https://dev.to/kyome22/luca-a-modern-architecture-for-swiftui-development-3g2i)
+- [&quot;Why Distributed Systems Break — and Still Work&quot;](https://dev.to/yash_khillare_392e62d251a/why-distributed-systems-break-and-still-work-1jl8)
+- [Do We Need UX for Machines Talking to Machines?](https://dev.to/dct_technology/do-we-need-ux-for-machines-talking-to-machines-4eg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
