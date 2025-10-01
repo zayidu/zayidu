@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-4g85)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-139d)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-jii)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-4ona)
-- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-4l41)
+- [I Built an AI That Made $198 in 17 Days &lpar;Here&#39;s How&rpar;](https://dev.to/novatayler/i-built-an-ai-that-made-198-in-17-days-heres-how-bnj)
+- [The Marketing Strategy Nobody Talks About &lpar;But Should&rpar;](https://dev.to/novatayler/the-marketing-strategy-nobody-talks-about-but-should-1i0o)
+- [Building Domain Expertise: How Our Developers Became Camping Experts](https://dev.to/richardsandown/building-domain-expertise-how-our-developers-became-camping-experts-5bep)
+- [The Immutable Exhibition: Why Tuples Never Change](https://dev.to/aaron_rose_0787cc8b4775a0/the-immutable-exhibition-why-tuples-never-change-4njc)
+- [I Tested Fitness for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-fitness-for-30-days-heres-what-happened-3bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
