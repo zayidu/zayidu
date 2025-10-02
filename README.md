@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-anf)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-4hnp)
-- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-c9a)
-- [🔥 Beyond PHP: How Laravel 11 Is Quietly Revolutionizing Backend Development in 2024](https://dev.to/ekwoster/beyond-php-how-laravel-11-is-quietly-revolutionizing-backend-development-in-2024-16jl)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-23og)
+- [My First Open Source PR — Done During Hacktoberfest 2025!](https://dev.to/tpmsh/my-first-open-source-pr-done-during-hacktoberfest-2025-14p6)
+- [Report-Tutorial: Installing and Compiling u2vpodcast on an Oracle Linux VM &lpar;ARM64&rpar;](https://dev.to/ivajofranc/report-tutorial-installing-and-compiling-u2vpodcast-on-an-oracle-linux-vm-arm64-c15)
+- [Java language evolution &lpar;part 1&rpar;](https://dev.to/cesarpaulomp/java-language-evolution-part-1-52gh)
+- [ChatGPT Prompt Engineering for Developers](https://dev.to/ankur_bansal_d7487ae561e7/chatgpt-prompt-engineering-for-developers-28ha)
+- [Using Tailwind CSS with React.js](https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
