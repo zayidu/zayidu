@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Tron: Ares - Official &#39;The Evolution&#39; Trailer &lpar;2025&rpar; Jared Leto, Jeff Bridges, Greta Lee](https://dev.to/gg_news/ign-tron-ares-official-the-evolution-trailer-2025-jared-leto-jeff-bridges-greta-lee-3mka)
-- [IGN: Mewgenics - Developer Gameplay Commentary #2](https://dev.to/gg_news/ign-mewgenics-developer-gameplay-commentary-2-1apm)
-- [IGN: Ghost of Yotei: 9 Combat Tips to Master Samurai Fighting](https://dev.to/gg_news/ign-ghost-of-yotei-9-combat-tips-to-master-samurai-fighting-3fj8)
-- [IGN: EA Just Went Private - Unlocked Clips](https://dev.to/gg_news/ign-ea-just-went-private-unlocked-clips-280p)
-- [IGN: Super Mario Galaxy 1 - Enhanced Switch 2 Gameplay 4K 60FPS](https://dev.to/gg_news/ign-super-mario-galaxy-1-enhanced-switch-2-gameplay-4k-60fps-4n5)
+- [🥊 What if mutual combat law was legal again? Would trolls still talk tough if they could be subpoenaed to fight in the gym? 👀 Check out the latest Straight From Da Chair Podcast reel 👉 https://youtube.com/shorts/PLrMsO4WxhY](https://dev.to/bricedavis/what-if-mutual-combat-law-was-legal-again-would-trolls-still-talk-tough-if-they-could-be-2934)
+- [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
+- [Mastering Cypress Retries: How to Efficiently Re-Run Only Failed Tests with Mochawesome &amp; Dynamic…](https://dev.to/mohamedsaidibrahim/mastering-cypress-retries-how-to-efficiently-re-run-only-failed-tests-with-mochawesome-dynamic-1o6p)
+- [JSON Schema with AJV: Implementation Deep Dive ⚡](https://dev.to/vishdevwork/json-schema-with-ajv-implementation-deep-dive-1cnn)
+- [Unmasking the Ghost in the Machine: How a Translation API Error Nearly Broke Our Cypress E2E Tests](https://dev.to/mohamedsaidibrahim/unmasking-the-ghost-in-the-machine-how-a-translation-api-error-nearly-broke-our-cypress-e2e-tests-2fa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
