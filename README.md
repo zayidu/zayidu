@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eyes on change: Building a Custom Watcher With Async Notifications](https://dev.to/nabindebnath/eyes-on-change-building-a-custom-watcher-with-async-notifications-3nph)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ml4)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-ibb)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-170e)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-anh)
+- [🚀 Launching My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/launching-my-ai-data-mastery-journey-from-python-to-generative-ai-4gc4)
+- [The 7 Most Essential Frontend Development Tools in 2025](https://dev.to/hashbyt/the-7-most-essential-frontend-development-tools-in-2025-2bi2)
+- [Stop Spaghetti SQL: Simplify Complex Queries with Postgres CTEs in Supabase](https://dev.to/ivankahl/stop-spaghetti-sql-simplify-complex-queries-with-postgres-ctes-in-supabase-1f8h)
+- [🚀 Day 32 of My Data Journey](https://dev.to/_adii3107/day-32-of-my-data-journey-5bl1)
+- [My first E commerce website](https://dev.to/iftikhar_ali_2c143d37aeb0/my-first-e-commerce-website-19b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
