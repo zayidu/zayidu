@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Open Source PR — Done During Hacktoberfest 2025!](https://dev.to/tpmsh/my-first-open-source-pr-done-during-hacktoberfest-2025-14p6)
-- [Report-Tutorial: Installing and Compiling u2vpodcast on an Oracle Linux VM &lpar;ARM64&rpar;](https://dev.to/ivajofranc/report-tutorial-installing-and-compiling-u2vpodcast-on-an-oracle-linux-vm-arm64-c15)
-- [Java language evolution &lpar;part 1&rpar;](https://dev.to/cesarpaulomp/java-language-evolution-part-1-52gh)
-- [ChatGPT Prompt Engineering for Developers](https://dev.to/ankur_bansal_d7487ae561e7/chatgpt-prompt-engineering-for-developers-28ha)
-- [Using Tailwind CSS with React.js](https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41)
+- [TypeScript RPC Error Handling and Result&lt;Ok, Err&gt;](https://dev.to/dj_nuo/typescript-rpc-error-handling-and-resultok-err-17ka)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3jd2)
+- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-1fc0)
+- [Vue Theme for VS Code — Now with More Language Support and Improvements](https://dev.to/mariorodeghiero/vue-theme-for-vs-code-now-with-more-language-support-and-improvements-37fa)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-4029)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
