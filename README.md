@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey](https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1)
-- [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
-- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
-- [RDS for Oracle is not RDS Custom for Oracle](https://dev.to/wakeup_flower_8591a6cb6a9/rds-for-oracle-is-not-rds-custom-for-oracle-4i6k)
+- [IGN: Tron: Ares - Official &#39;The Evolution&#39; Trailer &lpar;2025&rpar; Jared Leto, Jeff Bridges, Greta Lee](https://dev.to/gg_news/ign-tron-ares-official-the-evolution-trailer-2025-jared-leto-jeff-bridges-greta-lee-3mka)
+- [IGN: Mewgenics - Developer Gameplay Commentary #2](https://dev.to/gg_news/ign-mewgenics-developer-gameplay-commentary-2-1apm)
+- [IGN: Ghost of Yotei: 9 Combat Tips to Master Samurai Fighting](https://dev.to/gg_news/ign-ghost-of-yotei-9-combat-tips-to-master-samurai-fighting-3fj8)
+- [IGN: EA Just Went Private - Unlocked Clips](https://dev.to/gg_news/ign-ea-just-went-private-unlocked-clips-280p)
+- [IGN: Super Mario Galaxy 1 - Enhanced Switch 2 Gameplay 4K 60FPS](https://dev.to/gg_news/ign-super-mario-galaxy-1-enhanced-switch-2-gameplay-4k-60fps-4n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
