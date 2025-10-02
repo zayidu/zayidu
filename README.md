@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-full-performance-live-on-kexp-3ke2)
-- [NPR Music: Rubio: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-rubio-tiny-desk-concert-3bme)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-bn0)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-51kh)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-49p3)
+- [Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey](https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1)
+- [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
+- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
+- [RDS for Oracle is not RDS Custom for Oracle](https://dev.to/wakeup_flower_8591a6cb6a9/rds-for-oracle-is-not-rds-custom-for-oracle-4i6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
