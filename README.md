@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS Bedrock AgentCore &lpar;preview&rpar;](https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km)
-- [Большой миф разработки](https://dev.to/phonty29/bolshoi-mif-razrabotki-477j)
-- [My Journey Fixing Authentication and Customizing UI in Blazor](https://dev.to/smaphaba/my-journey-fixing-authentication-and-customizing-ui-in-blazor-3ifc)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3j0h)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-68a)
+- [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
+- [Python &lpar;I&rpar;](https://dev.to/elferrer/python-i-4cp6)
+- [Claude Code: Unix Philosophy Makes AI Coding Better](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-ai-coding-better-5323)
+- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
+- [Building a Custom NLP Model from Scratch: From Idea to Real-World Impact](https://dev.to/sunny7899/building-a-custom-nlp-model-from-scratch-from-idea-to-real-world-impact-1ojl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
