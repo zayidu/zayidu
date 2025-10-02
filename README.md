@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Movement-events on Mini Micro &lpar;part 1&rpar;](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2cb1)
-- [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-p58)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2p5j)
+- [SE 371 Assignment 2](https://dev.to/mthom2141/se-371-assignment-2-4i2d)
+- [Alpacon: Identity, Automation, and Auditing &lpar;Part 2&rpar;](https://dev.to/baek/alpacon-identity-automation-and-auditing-part-2-43ln)
+- [Cloud Architects are Movie Directors: An OCI IAM Story](https://dev.to/smyekh/cloud-architects-are-movie-directors-an-oci-iam-story-4lni)
+- [Automate EC2 Backups on AWS with Lambda, EventBridge, and Terraform](https://dev.to/hasan_ashab/automate-ec2-backups-on-aws-with-lambda-eventbridge-and-terraform-k4n)
+- [How to serve Markdown to AI agents: Making your docs more AI-friendly](https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
