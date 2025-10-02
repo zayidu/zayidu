@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Android: End Data Tracking Now](https://dev.to/dev-blogg/android-end-data-tracking-now-2dh9)
-- [Regex in CSS](https://dev.to/sejutaimpian/regex-in-css-4428)
-- [Hosting WordPress España: Máximo Rendimiento Garantizado](https://dev.to/ideidevhosting/hosting-wordpress-espana-maximo-rendimiento-garantizado-kie)
-- [The future of full-stack development is AI. Full-stack development doesn’t have to mean exhaustion. It means rewarding and fast delivery.](https://dev.to/jaideepparashar/the-future-of-full-stack-development-is-ai-full-stack-development-doesnt-have-to-mean-exhaustion-in6)
-- [How to Build a Responsive CSS Grid from Scratch &lpar;And When to Just Use a Template&rpar;](https://dev.to/mrk_/how-to-build-a-responsive-css-grid-from-scratch-and-when-to-just-use-a-template-if0)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1bl4)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-2d0f)
+- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-4k01)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-58nj)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3f7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
