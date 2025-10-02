@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--1ppn)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-5ajc)
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-3gl6)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-20p4)
-- [IGN: Ghost of Yotei - PS5 vs PS5 Pro Graphics Comparison | 4K 60 FPS](https://dev.to/gg_news/ign-ghost-of-yotei-ps5-vs-ps5-pro-graphics-comparison-4k-60-fps-agl)
+- [My Battle Tested React Hooks Are Now Open Source](https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-ek9)
+- [My Monthly 1:1 Formula: 4 Health Checks + PM Feedback](https://dev.to/razoorka/my-monthly-11-formula-4-health-checks-pm-feedback-4c19)
+- [How to Use Binance &amp; Coinbase APIs for Automated Crypto Trading: Complete Step-by-Step Guide](https://dev.to/hamd_writer_8c77d9c88c188/how-to-use-binance-coinbase-apis-for-automated-crypto-trading-complete-step-by-step-guide-2jj)
+- [Replicability crisis in science](https://dev.to/leon_lin_s/replicability-crisis-in-science-240e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
