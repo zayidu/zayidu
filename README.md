@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Launching My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/launching-my-ai-data-mastery-journey-from-python-to-generative-ai-4gc4)
-- [The 7 Most Essential Frontend Development Tools in 2025](https://dev.to/hashbyt/the-7-most-essential-frontend-development-tools-in-2025-2bi2)
-- [Stop Spaghetti SQL: Simplify Complex Queries with Postgres CTEs in Supabase](https://dev.to/ivankahl/stop-spaghetti-sql-simplify-complex-queries-with-postgres-ctes-in-supabase-1f8h)
-- [🚀 Day 32 of My Data Journey](https://dev.to/_adii3107/day-32-of-my-data-journey-5bl1)
-- [My first E commerce website](https://dev.to/iftikhar_ali_2c143d37aeb0/my-first-e-commerce-website-19b1)
+- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--1ppn)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-5ajc)
+- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-3gl6)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-20p4)
+- [IGN: Ghost of Yotei - PS5 vs PS5 Pro Graphics Comparison | 4K 60 FPS](https://dev.to/gg_news/ign-ghost-of-yotei-ps5-vs-ps5-pro-graphics-comparison-4k-60-fps-agl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
