@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1bl4)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-2d0f)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-4k01)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-58nj)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3f7p)
+- [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
+- [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
+- [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
+- [How developers document like Project managers](https://dev.to/bhavy_k_5a3b6c88887b58c92/how-developers-document-like-project-managers-dfg)
+- [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
