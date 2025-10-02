@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
-- [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
-- [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
-- [How developers document like Project managers](https://dev.to/bhavy_k_5a3b6c88887b58c92/how-developers-document-like-project-managers-dfg)
-- [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
+- [Getting Started with AWS Bedrock AgentCore &lpar;preview&rpar;](https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km)
+- [Большой миф разработки](https://dev.to/phonty29/bolshoi-mif-razrabotki-477j)
+- [My Journey Fixing Authentication and Customizing UI in Blazor](https://dev.to/smaphaba/my-journey-fixing-authentication-and-customizing-ui-in-blazor-3ifc)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3j0h)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-68a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
