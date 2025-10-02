@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SE 371 Assignment 2](https://dev.to/mthom2141/se-371-assignment-2-4i2d)
-- [Alpacon: Identity, Automation, and Auditing &lpar;Part 2&rpar;](https://dev.to/baek/alpacon-identity-automation-and-auditing-part-2-43ln)
-- [Cloud Architects are Movie Directors: An OCI IAM Story](https://dev.to/smyekh/cloud-architects-are-movie-directors-an-oci-iam-story-4lni)
-- [Automate EC2 Backups on AWS with Lambda, EventBridge, and Terraform](https://dev.to/hasan_ashab/automate-ec2-backups-on-aws-with-lambda-eventbridge-and-terraform-k4n)
-- [How to serve Markdown to AI agents: Making your docs more AI-friendly](https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn)
+- [UTC vs GMT: What&#39;s the Difference and Which Should You Use?](https://dev.to/luke_bowers/utc-vs-gmt-whats-the-difference-and-which-should-you-use-5g4f)
+- [[Boost]](https://dev.to/naamiahmed/-251d)
+- [Why I Still Use Emacs in 2025](https://dev.to/breno/why-i-still-use-emacs-in-2025-3oj9)
+- [Deploying My First NGINX Web Server on AWS EC2: A Beginner-Friendly Walkthrough](https://dev.to/odinkemelu_innocent_3b2f5/deploying-my-first-nginx-web-server-on-aws-ec2-a-beginner-friendly-walkthrough-3h03)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-50l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
