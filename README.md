@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Senior Engineer&#39;s Guide to Sending EVM Transactions in Python](https://dev.to/onlineproxy/a-senior-engineers-guide-to-sending-evm-transactions-in-python-2p0f)
-- [Adding TOML Config Support to a CLI Tool](https://dev.to/oleksandrakordonets/adding-toml-config-support-to-a-cli-tool-556)
-- [How Does a Website Actually Load in Your Browser?](https://dev.to/parthi_rp/how-does-a-website-actually-load-in-your-browser-2483)
-- [Untitled](https://dev.to/sl_suddabot_757323936cc4/untitled-3opj)
-- [Client Portal: The No-Code Solution to Your Financial Needs](https://dev.to/rapyd/client-portal-the-no-code-solution-to-your-financial-needs-mmm)
+- [KEXP: strongboi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-full-performance-live-on-kexp-3ke2)
+- [NPR Music: Rubio: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-rubio-tiny-desk-concert-3bme)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-bn0)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-51kh)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-49p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
