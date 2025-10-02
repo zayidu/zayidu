@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gmm)
-- [Custom Property Wrappers in SwiftUI](https://dev.to/arshtechpro/custom-property-wrappers-in-swiftui-213c)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-5h03)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2970)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-4g0b)
+- [OpenAI&#39;s SORA 2 Release Pattern: What It Means for AI Video](https://dev.to/klement_gunndu_e16216829c/openais-sora-2-release-pattern-what-it-means-for-ai-video-17hg)
+- [Protect IT Gear with Anti-Theft Asset Tags](https://dev.to/jennifer_devsamurai/protect-it-gear-with-anti-theft-asset-tags-3aii)
+- [Privacy for subdomains: the solution](https://dev.to/nfrankel/privacy-for-subdomains-the-solution-3gbc)
+- [Outil de Cybersécurité du Jour - Oct 2, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-2-2025-2agf)
+- [How to Hire Backend Developers in 2025: A Comprehensive Guide](https://dev.to/masteringbackend/how-to-hire-backend-developers-in-2025-a-comprehensive-guide-25ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
