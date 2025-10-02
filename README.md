@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
-- [The Great AI Productivity Paradox: Are We Actually Coding Faster](https://dev.to/pullflow/the-great-ai-productivity-paradox-are-we-actually-coding-faster-ede)
-- [Yacht Owner Representation and Why It Matters for Owners, Projects, and Day to Day Life](https://dev.to/yacht_crewtraining_cba1e/yacht-owner-representation-and-why-it-matters-for-owners-projects-and-day-to-day-life-2lho)
-- [Converting TensorFlow Models to TensorFlow Lite: A Step-by-Step Guide](https://dev.to/jayita_gulati_654f0451382/converting-tensorflow-models-to-tensorflow-lite-a-step-by-step-guide-3ikm)
-- [Laravel Eloquent on Steroids: From 3s to 300ms](https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc)
+- [Eyes on change: Building a Custom Watcher With Async Notifications](https://dev.to/nabindebnath/eyes-on-change-building-a-custom-watcher-with-async-notifications-3nph)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ml4)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-ibb)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-170e)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-anh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
