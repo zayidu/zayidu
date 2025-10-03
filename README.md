@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
-- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
-- [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
-- [Learning Rust with Dev Containers and Rustlings](https://dev.to/florianheringa/learning-rust-with-dev-containers-and-rustlings-2g1p)
-- [Ethics &amp; AI: Why It’s Not Optional](https://dev.to/synergy_shock/ethics-ai-why-its-not-optional-1ifb)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2703)
+- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-24pn)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-157h)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4op8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
