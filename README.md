@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should a web development beginner focus on building a complete project or learn individual technologies?](https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5)
-- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
-- [AI Trends You Must Know in 2025](https://dev.to/golamkibria/ai-trends-you-must-know-in-2025-2g4p)
-- [Build an Aspire API Using Microsoft OpenAI, Scalar, OpenRouter, Structured Output, and Custom Headers](https://dev.to/victorioberra/build-an-aspire-api-using-microsoft-openai-scalar-openrouter-structured-output-and-custom-3a6)
-- [Platform Engineering: Easy to Use, Hard to Mess Up](https://dev.to/sleepingpotato/platform-engineering-easy-to-use-hard-to-mess-up-471o)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-54l2)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-540i)
+- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-1hdp)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-19fj)
+- [How Encrisoft Achieved 20x Speedup Without More Hardware](https://dev.to/vincentayorinde/how-encrisoft-achieved-20x-speedup-without-more-hardware-1657)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
