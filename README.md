@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby and Cybersecurity: Essential Security Practices for Modern Applications](https://dev.to/daviducolo/ruby-and-cybersecurity-essential-security-practices-for-modern-applications-4166)
-- [Animation Start/Done? Dead. Long Live CSS + DOM Events](https://dev.to/brianmtreese/animation-startdone-dead-long-live-css-dom-events-47hj)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4oah)
-- [Master Process Management with PM2: A Complete Guide for Node.js Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-process-management-with-pm2-a-complete-guide-for-nodejs-developers-20l7)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-7li)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-1453)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-6mo)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-40ma)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1lej)
+- [KEXP: strongboi - honey thighs &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-honey-thighs-live-on-kexp-2b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
