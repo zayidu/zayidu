@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-54l2)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-540i)
-- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-1hdp)
-- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-19fj)
-- [How Encrisoft Achieved 20x Speedup Without More Hardware](https://dev.to/vincentayorinde/how-encrisoft-achieved-20x-speedup-without-more-hardware-1657)
+- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
+- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
+- [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
+- [Learning Rust with Dev Containers and Rustlings](https://dev.to/florianheringa/learning-rust-with-dev-containers-and-rustlings-2g1p)
+- [Ethics &amp; AI: Why It’s Not Optional](https://dev.to/synergy_shock/ethics-ai-why-its-not-optional-1ifb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
