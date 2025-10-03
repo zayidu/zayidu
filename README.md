@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating AWS Neptune Graph with AI](https://dev.to/aws-builders/navigating-aws-neptune-graph-with-ai-55cm)
+- [What is React? A Beginner&#39;s Guide to the Most Popular UI Library](https://dev.to/dehemi_fabio/what-is-react-a-beginners-guide-to-the-most-popular-ui-library-3bgl)
+- [🧐 Do You Really Need Redux?](https://dev.to/mourya_modugula/do-you-really-need-redux-nig)
 - [Github Draft Pull Request is Interesting](https://dev.to/whyang9701/github-draft-pull-request-is-interesting-216d)
 - [# Tamper-Evident Ledger Systems for National Budget Transparency](https://dev.to/trinly01/-tamper-evident-ledger-systems-for-national-budget-transparency-nl1)
-- [How GitHub Copilot Made My Life Easier](https://dev.to/shiney_stanislaus_c7016b5/how-github-copilot-made-my-life-easier-14km)
-- [Check a list of IP addresses for proxies using IP2Proxy Dart](https://dev.to/ip2location/check-a-list-of-ip-addresses-for-proxies-using-ip2proxy-dart-1jck)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-ek5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
