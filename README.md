@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up an Express TypeScript Server: A Step-by-Step Guide](https://dev.to/justwonder/setting-up-an-express-typescript-server-a-step-by-step-guide-gic)
-- [Is Excel Still Relevant in the Era of Power BI and Python? &lpar;Spoiler: It&#39;s Complicated&rpar;](https://dev.to/mercy_muema/is-excel-still-relevant-in-the-era-of-power-bi-and-python-spoiler-its-complicated-3im0)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_f8c307c5/files-are-not-just-data-a-guide-to-robust-file-handling-138o)
-- [El arte de dar vida a tu web: Guía completa de animaciones con CSS](https://dev.to/aprendivzaje/el-arte-de-dar-vida-a-tu-web-guia-completa-de-animaciones-con-css-24mc)
-- [Hacktoberfest Contribution: README Creation](https://dev.to/oleksandrakordonets/hacktoberfest-contribution-readme-creation-4l24)
+- [Github Draft Pull Request is Interesting](https://dev.to/whyang9701/github-draft-pull-request-is-interesting-216d)
+- [# Tamper-Evident Ledger Systems for National Budget Transparency](https://dev.to/trinly01/-tamper-evident-ledger-systems-for-national-budget-transparency-nl1)
+- [How GitHub Copilot Made My Life Easier](https://dev.to/shiney_stanislaus_c7016b5/how-github-copilot-made-my-life-easier-14km)
+- [Check a list of IP addresses for proxies using IP2Proxy Dart](https://dev.to/ip2location/check-a-list-of-ip-addresses-for-proxies-using-ip2proxy-dart-1jck)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-ek5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
