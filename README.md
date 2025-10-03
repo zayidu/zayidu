@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-244k)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-3ilh)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-29g1)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-4i85)
-- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-2m4j)
+- [Should a web development beginner focus on building a complete project or learn individual technologies?](https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5)
+- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
+- [AI Trends You Must Know in 2025](https://dev.to/golamkibria/ai-trends-you-must-know-in-2025-2g4p)
+- [Build an Aspire API Using Microsoft OpenAI, Scalar, OpenRouter, Structured Output, and Custom Headers](https://dev.to/victorioberra/build-an-aspire-api-using-microsoft-openai-scalar-openrouter-structured-output-and-custom-3a6)
+- [Platform Engineering: Easy to Use, Hard to Mess Up](https://dev.to/sleepingpotato/platform-engineering-easy-to-use-hard-to-mess-up-471o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
