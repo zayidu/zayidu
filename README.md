@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Text Cleaning in Python](https://dev.to/nazanin_ashrafi/text-cleaning-in-python-3ogf)
-- [Quest about Suspense](https://dev.to/rajib18197/quest-about-suspense-41n7)
-- [ACID Properties with SQL Transactions in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/acid-properties-with-sql-transactions-in-dbms-4lpa)
-- [What Exactly Is Product Management? A Simple Guide for Everyone](https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4)
-- [git init ~/repos/cathedral](https://dev.to/bwfiq/git-init-reposcathedral-4efe)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-32l5)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-5hcl)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3j69)
+- [We’ve made a game, General!](https://dev.to/nickkeepkind/weve-made-a-game-general-2n7g)
+- [IGN: Disney Twisted-Wonderland: The Animation - Official &#39;Episode of Heartslabyul&#39; Trailer &lpar;English Sub&rpar;](https://dev.to/gg_news/ign-disney-twisted-wonderland-the-animation-official-episode-of-heartslabyul-trailer-english-2f3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
