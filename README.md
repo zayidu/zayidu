@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2703)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-24pn)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-157h)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4op8)
+- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
+- [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
+- [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
+- [Adding a New TOML Feature, using Git Remotes and Merges on a repository.](https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn)
+- [DIY Holding Tank Sensors Part 2: &quot;The React Native App&quot;](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-2-the-react-native-app-496n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
