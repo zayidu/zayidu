@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Dream Project to Portfolio Piece: How My &#39;Failed&#39; Game Became My Biggest Asset](https://dev.to/yousef0m/from-dream-project-to-portfolio-piece-how-my-failed-game-became-my-biggest-asset-1hpe)
-- [Where can I download a Markdown document editor for free?](https://dev.to/shruti_mishra_c510cc7d673/where-can-i-download-a-markdown-document-editor-for-free-2mdf)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2faf)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-3h4o)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-h5h)
+- [Persisting data in Rust with Heave](https://dev.to/kate_korsaro/persisting-data-in-rust-with-heave-3h3d)
+- [Chrome Web Store Rejection Codes](https://dev.to/bdilip48/chrome-web-store-rejection-codes-4hfj)
+- [Is Your Job Safe from AI? Careers That Will Thrive in an AI World](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/is-your-job-safe-from-ai-careers-that-will-thrive-in-an-ai-world-aod)
+- [When Things Start Working — The First Signs of Real Progress](https://dev.to/isme_kastrati_76f4b128b63/when-things-start-working-when-things-start-working-the-first-signs-of-real-progress-386)
+- [AI Compliance-by-Design: A CTO Guide to Model Inventory, RAG Sources, and Decision Logging under the EU AI Act](https://dev.to/rylko_roman_965498de23cd8/ai-compliance-by-design-a-cto-guide-to-model-inventory-rag-sources-and-decision-logging-under-12pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
