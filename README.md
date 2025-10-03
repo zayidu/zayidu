@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Integrating Crypto Today Could Be Your Company’s Competitive Edge](https://dev.to/alexnav/why-integrating-crypto-today-could-be-your-companys-competitive-edge-1n3l)
-- [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
-- [We made an opensource project, check it out!](https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc)
-- [Tired of Rewriting Web3 Integrations? Help us grow M3S, the New Modular Open-Source Standard](https://dev.to/gunner_andersen_36e65c71e/tired-of-rewriting-web3-integrations-help-us-grow-m3s-the-new-modular-open-source-standard-bkj)
-- [Rising AI Workloads Are Reshaping Asia Pacific Data Centers](https://dev.to/michael_keller_9d83ef0ce5/rising-ai-workloads-are-reshaping-asia-pacific-data-centers-48km)
+- [From Dream Project to Portfolio Piece: How My &#39;Failed&#39; Game Became My Biggest Asset](https://dev.to/yousef0m/from-dream-project-to-portfolio-piece-how-my-failed-game-became-my-biggest-asset-1hpe)
+- [Where can I download a Markdown document editor for free?](https://dev.to/shruti_mishra_c510cc7d673/where-can-i-download-a-markdown-document-editor-for-free-2mdf)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2faf)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-3h4o)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-h5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
