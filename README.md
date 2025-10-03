@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-6n8)
-- [Stop Writing Messy Spiders. The Professional Way with Scrapy-Poet](https://dev.to/zyte/stop-writing-messy-spiders-the-professional-way-with-scrapy-poet-6og)
-- [GameSpot: Ghost of Yotei - Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-stylish-armor-combinations-22d)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-21i6)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26gc)
+- [Text Cleaning in Python](https://dev.to/nazanin_ashrafi/text-cleaning-in-python-3ogf)
+- [Quest about Suspense](https://dev.to/rajib18197/quest-about-suspense-41n7)
+- [ACID Properties with SQL Transactions in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/acid-properties-with-sql-transactions-in-dbms-4lpa)
+- [What Exactly Is Product Management? A Simple Guide for Everyone](https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4)
+- [git init ~/repos/cathedral](https://dev.to/bwfiq/git-init-reposcathedral-4efe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
