@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-32l5)
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-5hcl)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3j69)
-- [We’ve made a game, General!](https://dev.to/nickkeepkind/weve-made-a-game-general-2n7g)
-- [IGN: Disney Twisted-Wonderland: The Animation - Official &#39;Episode of Heartslabyul&#39; Trailer &lpar;English Sub&rpar;](https://dev.to/gg_news/ign-disney-twisted-wonderland-the-animation-official-episode-of-heartslabyul-trailer-english-2f3h)
+- [🔒 Node.js Security Best Practices](https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d)
+- [Hindsight at Bethpage: The Principles Keegan Looked Past](https://dev.to/ben/hindsight-at-bethpage-the-principles-keegan-usa-looked-past-j8k)
+- [Tired of AI Hallucinations? I Built a RAG App to Keep My Research Grounded.](https://dev.to/noel_alex_b235542c0cfc62a/tired-of-ai-hallucinations-i-built-a-rag-app-to-keep-my-research-grounded-40k3)
+- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-27d6)
+- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-46gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
