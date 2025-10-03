@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f39)
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-1co7)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-n3p)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2c7f)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-69m)
+- [Why Integrating Crypto Today Could Be Your Company’s Competitive Edge](https://dev.to/alexnav/why-integrating-crypto-today-could-be-your-companys-competitive-edge-1n3l)
+- [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
+- [We made an opensource project, check it out!](https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc)
+- [Tired of Rewriting Web3 Integrations? Help us grow M3S, the New Modular Open-Source Standard](https://dev.to/gunner_andersen_36e65c71e/tired-of-rewriting-web3-integrations-help-us-grow-m3s-the-new-modular-open-source-standard-bkj)
+- [Rising AI Workloads Are Reshaping Asia Pacific Data Centers](https://dev.to/michael_keller_9d83ef0ce5/rising-ai-workloads-are-reshaping-asia-pacific-data-centers-48km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
