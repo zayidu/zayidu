@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Metro: The KMP DI Framework You Never Knew You Needed](https://dev.to/mastrgamr/metro-the-kmp-di-framework-you-never-knew-you-needed-64f)
-- [CRUD Operations in MongoDB](https://dev.to/nethra_loganathan_98e5233/crud-operations-in-mongodb-3810)
-- [Unleash AI Agents with Real Time MCP Data: The Ultimate Guide to Real-Time Crypto Insights](https://dev.to/dbatson/unleash-ai-agents-with-real-time-mcp-data-the-ultimate-guide-to-real-time-crypto-insights-31kn)
-- [Understanding Linear Guides in Modern Engineering](https://dev.to/danie_brooks_dc7a891322b3/understanding-linear-guides-in-modern-engineering-nk5)
-- [Indexing, Hashing &amp; Query Optimization in liveSQL](https://dev.to/boopathys_8ff57c77ea5a5e/indexing-hashing-query-optimization-in-livesql-1682)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-2d96)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-10ie)
+- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-323g)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-pao)
+- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-3ndd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
