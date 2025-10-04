@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mexican Ninja - Official Demo Launch Teaser Trailer](https://dev.to/gg_news/ign-mexican-ninja-official-demo-launch-teaser-trailer-14ga)
-- [IGN: Kaiju No. 8 The Game - Official Soshiro Hoshina Character Trailer](https://dev.to/gg_news/ign-kaiju-no-8-the-game-official-soshiro-hoshina-character-trailer-3f0n)
-- [IGN: R.L. Stine&#39;s Pumpkinhead - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-rl-stines-pumpkinhead-official-trailer-2025-77a)
-- [IGN: Liminal Point - Official Gameplay Trailer](https://dev.to/gg_news/ign-liminal-point-official-gameplay-trailer-1pmo)
-- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-1khh)
+- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
+- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
+- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
+- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
+- [Configuring Multi-Language Website SEO with Hugo](https://dev.to/rosgluk/configuring-multi-language-website-seo-with-hugo-50ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
