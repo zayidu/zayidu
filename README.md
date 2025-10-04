@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
-- [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
-- [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
-- [Adding a New TOML Feature, using Git Remotes and Merges on a repository.](https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn)
-- [DIY Holding Tank Sensors Part 2: &quot;The React Native App&quot;](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-2-the-react-native-app-496n)
+- [Mastering Routing in Express with TypeScript](https://dev.to/justwonder/mastering-routing-in-express-with-typescript-4el7)
+- [Building on LangChain, FAISS, and Next.js, I turned my mother‑in‑law’s Mexican recipes into SazónBot—a bilingual AI chef that scales dishes, offers substitutions, and even embeds cooking videos. Check out the journey!](https://dev.to/yosolita1978/building-on-langchain-faiss-and-nextjs-i-turned-my-mother-in-laws-mexican-recipes-into-pmg)
+- [Unlocking Productivity: How to Leverage AI Tools for Enhanced Development Workflows](https://dev.to/mikeover/unlocking-productivity-how-to-leverage-ai-tools-for-enhanced-development-workflows-4ng2)
+- [Building SazónBot: A Journey from Family Recipes to AI Chatbot](https://dev.to/yosolita1978/building-sazonbot-a-journey-from-family-recipes-to-ai-chatbot-3096)
+- [Ovi - Generate Videos With Audio Like VEO 3 or SORA 2 - Run Locally - Open Source for Free](https://dev.to/furkangozukara/ovi-generate-videos-with-audio-like-veo-3-or-sora-2-run-locally-open-source-for-free-564)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
