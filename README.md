@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3j1c)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4l8g)
+- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
+- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jerlin_vanessavincentpa/indexing-hashing-query-optimization-in-dbms-61m)
+- [Excel in the Era of Power BI &amp; Python](https://dev.to/maureenmuthonihue/excel-in-the-era-of-power-bi-python-o1a)
+- [Running Goose in Containers &lpar;Without Losing Your Mind&rpar;](https://dev.to/agasta/running-goose-in-containers-without-losing-your-mind-3m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
