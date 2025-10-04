@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
-- [How to Sell Services Directly from Your Portfolio Without Third-Party Platforms](https://dev.to/imtaslim/how-to-sell-services-directly-from-your-portfolio-without-third-party-platforms-4mnf)
-- [Understanding Google Maps Grounding with ADK &lpar;Part 2/5&rpar;](https://dev.to/greyisheepai/understanding-google-maps-grounding-with-adk-part-25-476)
-- [DBMS – Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/sugesh_appu_54958a343aaf5/dbms-transactions-deadlocks-log-based-recovery-3c4j)
-- [🚀 Day 34 of My Data Journey](https://dev.to/_adii3107/day-34-of-my-data-journey-55a0)
+- [IGN: Mexican Ninja - Official Demo Launch Teaser Trailer](https://dev.to/gg_news/ign-mexican-ninja-official-demo-launch-teaser-trailer-14ga)
+- [IGN: Kaiju No. 8 The Game - Official Soshiro Hoshina Character Trailer](https://dev.to/gg_news/ign-kaiju-no-8-the-game-official-soshiro-hoshina-character-trailer-3f0n)
+- [IGN: R.L. Stine&#39;s Pumpkinhead - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-rl-stines-pumpkinhead-official-trailer-2025-77a)
+- [IGN: Liminal Point - Official Gameplay Trailer](https://dev.to/gg_news/ign-liminal-point-official-gameplay-trailer-1pmo)
+- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-1khh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
