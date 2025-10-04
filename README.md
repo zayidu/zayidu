@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-2d96)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-10ie)
-- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-323g)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-pao)
-- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-3ndd)
+- [How to sync iOS build numbers &lpar;Expo + EAS + App Store Connect&rpar;](https://dev.to/cathylai/how-to-sync-ios-build-numbers-expo-eas-app-store-connect-2ldg)
+- [What is a Cronjob and understanding syntax](https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p)
+- [How Nexy Makes Sure Nothing Slips Through the Cracks](https://dev.to/nexy/how-nexy-makes-sure-nothing-slips-through-the-cracks-lpk)
+- [Day 3 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-3-of-100-days-dsa-coding-challenge-3280)
+- [The Secret Bottleneck Blocking Enterprise AI Agents—And the Surprising Fix](https://dev.to/aiwithapex/the-secret-bottleneck-blocking-enterprise-ai-agents-and-the-surprising-fix-2jph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
