@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-mej)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2f8d)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-cn)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-44de)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2ag7)
+- [My DevOps Journey: Part 7 - Mastering Networking for DevOps Engineers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-7-mastering-networking-for-devops-engineers-3eo8)
+- [Building a Complete AWS VPC with Load Balancer: A Step-by-Step Journey](https://dev.to/deepanshub09/building-a-complete-aws-vpc-with-load-balancer-a-step-by-step-journey-2oj8)
+- [Managing Prompts Without the Chaos: Simplifying AI Agent Development with Dakora](https://dev.to/mihai_lucianandrone_7564/managing-prompts-without-the-chaos-simplifying-ai-agent-development-with-dakora-l3n)
+- [Ingest data with a pipeline in Microsoft Fabric](https://dev.to/lotanna_obianefo/ingest-data-with-a-pipeline-in-microsoft-fabric-2cfo)
+- [#DAY 10:Adding an API JSON Query Monitor in Uptime Kuma](https://dev.to/samueladeduntan/day-10adding-an-api-json-query-monitor-in-uptime-kuma-5ggm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
