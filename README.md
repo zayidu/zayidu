@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying Out Arm&#39;s Scalable Matrix Extension with Apple M4 or QEMU](https://dev.to/aratamizuki/trying-out-arms-scalable-matrix-extension-with-apple-m4-or-qemu-1cgh)
-- [The Local Data Regeneration Paradigm: Ontological Shift from Data Transmission to Synchronous State Discovery](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)
-- [Join Me in Building the Ultimate C++ Telegram Bot Framework!](https://dev.to/oasispioneer/join-me-in-building-the-ultimate-c-telegram-bot-framework-nkh)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-1a86)
-- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-49ig)
+- [💡 Curious about Power Apps, Power Automate, Power BI, and Power Pages? I just published a beginner-friendly guide on why Microsoft Power Platform is reshaping the future of work. Check it out 👉](https://dev.to/phylis/-45pd)
+- [Why Everyone Is Talking About Microsoft Power Platform](https://dev.to/phylis/why-everyone-is-talking-about-microsoft-power-platform-4fjj)
+- [Node.js &amp; Type Script: A Match Made for Modern Web Development](https://dev.to/satyam_gupta_0d1ff2152dcc/nodejs-type-script-a-match-made-for-modern-web-development-hnk)
+- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
+- [Build Powerful CLI Tools with Node.js: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/build-powerful-cli-tools-with-nodejs-a-complete-guide-for-developers-56k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
