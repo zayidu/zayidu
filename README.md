@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1)
-- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj)
+- [Build a Perfect Blog with FastAPI: Comment System](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-comment-system-d90)
+- [My Reading Journey: Jul-Sep 2025](https://dev.to/ericbl3/my-reading-journey-jul-sep-2025-4g2)
+- [Why Feature Flags Shouldn’t Be an Enterprise-Only Tool](https://dev.to/koreflags/why-feature-flags-shouldnt-be-an-enterprise-only-tool-51il)
+- [[Boost]](https://dev.to/jasper_go/-38b7)
+- [Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/transactions-deadlocks-log-based-recovery-in-sql-42nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
