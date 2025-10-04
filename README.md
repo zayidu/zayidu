@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Curious about Power Apps, Power Automate, Power BI, and Power Pages? I just published a beginner-friendly guide on why Microsoft Power Platform is reshaping the future of work. Check it out 👉](https://dev.to/phylis/-45pd)
-- [Why Everyone Is Talking About Microsoft Power Platform](https://dev.to/phylis/why-everyone-is-talking-about-microsoft-power-platform-4fjj)
-- [Node.js &amp; Type Script: A Match Made for Modern Web Development](https://dev.to/satyam_gupta_0d1ff2152dcc/nodejs-type-script-a-match-made-for-modern-web-development-hnk)
-- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
-- [Build Powerful CLI Tools with Node.js: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/build-powerful-cli-tools-with-nodejs-a-complete-guide-for-developers-56k)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3cn1)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3c32)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2f2k)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-mhn)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-57bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
