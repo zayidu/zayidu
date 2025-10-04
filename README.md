@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Routing in Express with TypeScript](https://dev.to/justwonder/mastering-routing-in-express-with-typescript-4el7)
-- [Building on LangChain, FAISS, and Next.js, I turned my mother‑in‑law’s Mexican recipes into SazónBot—a bilingual AI chef that scales dishes, offers substitutions, and even embeds cooking videos. Check out the journey!](https://dev.to/yosolita1978/building-on-langchain-faiss-and-nextjs-i-turned-my-mother-in-laws-mexican-recipes-into-pmg)
-- [Unlocking Productivity: How to Leverage AI Tools for Enhanced Development Workflows](https://dev.to/mikeover/unlocking-productivity-how-to-leverage-ai-tools-for-enhanced-development-workflows-4ng2)
-- [Building SazónBot: A Journey from Family Recipes to AI Chatbot](https://dev.to/yosolita1978/building-sazonbot-a-journey-from-family-recipes-to-ai-chatbot-3096)
-- [Ovi - Generate Videos With Audio Like VEO 3 or SORA 2 - Run Locally - Open Source for Free](https://dev.to/furkangozukara/ovi-generate-videos-with-audio-like-veo-3-or-sora-2-run-locally-open-source-for-free-564)
+- [Git is powerful, but it’s also a pain point for many developers. Here is how I use ChatGPT to manage my Git Workflows:](https://dev.to/jaideepparashar/git-is-powerful-but-its-also-a-pain-point-for-many-developers-here-is-how-i-use-chatgpt-to-44g8)
+- [How I Use AI to Manage Version Control &amp; Git Workflows](https://dev.to/jaideepparashar/how-i-use-ai-to-manage-version-control-git-workflows-bf3)
+- [Using Predictive Maintenance to Improve Efficiency in Smart Factories](https://dev.to/mdtoukiryeasirtaimun/using-predictive-maintenance-to-improve-efficiency-in-smart-factories-3a7d)
+- [Understanding ACID Properties with SQL Transactions](https://dev.to/boopathys_8ff57c77ea5a5e/understanding-acid-properties-with-sql-transactions-43k5)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4647)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
