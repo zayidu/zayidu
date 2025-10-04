@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4el2)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-5187)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-35kj)
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-58ld)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-50da)
+- [Cursor + Trigger in MySQL](https://dev.to/atheeba_parveenja24cb0/cursor-trigger-in-mysql-1epg)
+- [🧾 Transactions, Deadlocks &amp; Log-Based Recovery in DBMS – A Practical Guide](https://dev.to/deepana_ee9087276132ad19f/transactions-deadlocks-log-based-recovery-in-dbms-a-practical-guide-22j1)
+- [AI in Retail: How to Forecast Demand and Reduce Dead Stock](https://dev.to/alepilot/ai-in-retail-how-to-forecast-demand-and-reduce-dead-stock-6nl)
+- [Observer Design Pattern](https://dev.to/alamfatima1999/observer-design-pattern-2kak)
+- [Strategy Design Pattern](https://dev.to/alamfatima1999/strategy-design-pattern-29jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
