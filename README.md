@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor + Trigger in MySQL](https://dev.to/atheeba_parveenja24cb0/cursor-trigger-in-mysql-1epg)
-- [🧾 Transactions, Deadlocks &amp; Log-Based Recovery in DBMS – A Practical Guide](https://dev.to/deepana_ee9087276132ad19f/transactions-deadlocks-log-based-recovery-in-dbms-a-practical-guide-22j1)
-- [AI in Retail: How to Forecast Demand and Reduce Dead Stock](https://dev.to/alepilot/ai-in-retail-how-to-forecast-demand-and-reduce-dead-stock-6nl)
-- [Observer Design Pattern](https://dev.to/alamfatima1999/observer-design-pattern-2kak)
-- [Strategy Design Pattern](https://dev.to/alamfatima1999/strategy-design-pattern-29jo)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1)
+- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
