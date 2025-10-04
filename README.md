@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Perfect Blog with FastAPI: Comment System](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-comment-system-d90)
-- [My Reading Journey: Jul-Sep 2025](https://dev.to/ericbl3/my-reading-journey-jul-sep-2025-4g2)
-- [Why Feature Flags Shouldn’t Be an Enterprise-Only Tool](https://dev.to/koreflags/why-feature-flags-shouldnt-be-an-enterprise-only-tool-51il)
-- [[Boost]](https://dev.to/jasper_go/-38b7)
-- [Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/transactions-deadlocks-log-based-recovery-in-sql-42nm)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-mej)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2f8d)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-cn)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-44de)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2ag7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
