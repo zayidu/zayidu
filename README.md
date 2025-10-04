@@ -194,11 +194,16 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3cn1)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3c32)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2f2k)
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-mhn)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-57bj)
+- [Example Online Postgre – Rune + RedBean CLI Application](https://dev.to/anwarachilles/example-online-postgre-rune-redbean-cli-application-5b0p)
+- [Find the Maximum Area possible given different vertical lines on X-Axis &lpar;Leetcode Problem Analysis&rpar;](https://dev.to/bjorndonald_bassey_c126c/find-the-maximum-area-possible-given-different-vertical-lines-on-x-axis-leetcode-problem-analysis-2h9o)
+- [Never asked JavaScript interview question 🤪
+How will you create an object of class from other object 
+Normal way - 
+const jack = new Person&lpar;&rpar;; //using class name
+
+find a way to create tom object without using class name Person](https://dev.to/randhavevaibhav/never-asked-javascript-interview-question-how-will-you-create-an-object-of-class-from-other-37pb)
+- [NORMALIZATION](https://dev.to/sriram_pg_91a5c6c4af2ce74/normalization-58kd)
+- [🔑 NestJS Expert Series &lpar;Part 3&rpar;: Authentication &amp; Authorization with JWT and Guards your](https://dev.to/devto_with_yog/nestjs-expert-series-part-3-authentication-authorization-with-jwt-and-guards-your-1cgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
