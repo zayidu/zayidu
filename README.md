@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Subscription Tracker in 14 Days Using Angular 20 &lpar;And Made $0… Yet&rpar;](https://dev.to/karol_modelski/i-built-a-subscription-tracker-in-14-days-using-angular-20-and-made-0-yet-2hid)
-- [📖 Understanding Uniface 10.4 Help Texts: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-help-texts-a-simple-guide-1g62)
-- [Reflections on Designing a Search Autocomplete System](https://dev.to/andersontsai/reflections-on-designing-a-search-autocomplete-system-2j87)
-- [📝 Working with Messages in Uniface 10.4: A Simple Guide](https://dev.to/petercode/working-with-messages-in-uniface-104-a-simple-guide-5h72)
-- [📝 Understanding Messages in Uniface 10.4: Building Multilingual Applications](https://dev.to/petercode/understanding-messages-in-uniface-104-building-multilingual-applications-1m4d)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2fgb)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2058)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-55l8)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2cf5)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-gl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
