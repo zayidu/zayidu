@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2276)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4b4f)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4koe)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1jpf)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-10jk)
+- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
+- [From LLMs to Liability: How Agents Grow Up](https://dev.to/narednra_reddyyadama_d64/from-llms-to-liability-how-agents-grow-up-3ndi)
+- [Working with Cursors and Triggers in Oracle Live SQL](https://dev.to/lohita_blue_d6409977eec4c/working-with-cursors-and-triggers-in-oracle-live-sql-i72)
+- [&quot;this&quot; Key word in java script](https://dev.to/arokiya_kithiyon_1f2bad36/this-key-word-in-java-script-gda)
+- [GitHub with Git: The Dynamic Duo of Developer Dreams 🚀](https://dev.to/manishpcp/github-with-git-the-dynamic-duo-of-developer-dreams-5055)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
