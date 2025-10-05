@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Made Simple: How Your Browser Talks to Servers](https://dev.to/parthi_rp/http-made-simple-how-your-browser-talks-to-servers-2f60)
-- [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
-- [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
-- [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
-- [Wtf is Docker🐳?](https://dev.to/erlan_akbar/wtf-is-docker-2bej)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4cdb)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1ig1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
