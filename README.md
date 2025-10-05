@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Sanity&#39;s Portable Text - Here&#39;s How to Use Markdown Instead](https://dev.to/setasena_randata_1cfa30f4/stop-fighting-sanitys-portable-text-heres-how-to-use-markdown-instead-47cb)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/reshma_devi_ba32b2f54397d/indexing-hashing-query-optimization-in-dbms-965)
-- [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
-- [The Trust-First Playbook for Web3 Communications &lpar;That Actually Works&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-playbook-for-web3-communications-that-actually-works-54ih)
-- [The Password is Dead. Long Live the Password? A Look at FIDO2, Passkeys, and the Post-SMS Future](https://dev.to/yanix_yanix_d22423595186a/the-password-is-dead-long-live-the-password-a-look-at-fido2-passkeys-and-the-post-sms-future-5fnk)
+- [happy birthday 🩷](https://dev.to/sanvi_0424fec9c7a19/happy-birthday-210n)
+- [Web Developer Travis McCracken on Load Testing Rust APIs with K6](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-load-testing-rust-apis-with-k6-5084)
+- [Introduce myself](https://dev.to/gitenghar/introduce-myself-4mka)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
