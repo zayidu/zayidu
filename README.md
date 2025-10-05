@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4cdb)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1ig1)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/indexing-hashing-query-optimization-in-sql-2cnn)
+- [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
+- [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
+- [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
+- [SvelteKit RPC with Hono](https://dev.to/tolu/sveltekit-rpc-with-hono-mje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
