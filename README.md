@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful JavaScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-javascript-snippets-59on)
-- [AWS Security Token Service STS and usage](https://dev.to/wakeup_flower_8591a6cb6a9/aws-security-token-service-sts-and-usage-4f3c)
-- [AI Dealers: When Technology Meets Human Intuition](https://dev.to/vvvnetwork/ai-dealers-when-technology-meets-human-intuition-k4d)
-- [Devoxx: Investing for geeks v1.1.0 by Foivos Zakkak](https://dev.to/scale_youtube/devoxx-investing-for-geeks-v110-by-foivos-zakkak-2h1f)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-f44)
+- [ASP .NET Core FluentValidation](https://dev.to/karenpayneoregon/aspnet-core-fluentvalidation-16nc)
+- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he)
+- [Hack&#39;spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco)
+- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi)
+- [Explorando o Java 25: O Que Há de Novo na Última Versão LTS do Java](https://dev.to/ikauedev/explorando-o-java-25-o-que-ha-de-novo-na-ultima-versao-lts-do-java-50gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
