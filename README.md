@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
-- [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3mal)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3861)
+- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
+- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
+- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
+- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
+- [Simple College Student Schema](https://dev.to/mbewe_catherine24cb068_6/simple-college-student-schema-3egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
