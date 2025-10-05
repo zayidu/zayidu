@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-5bld)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-3ibi)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-no0)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4bke)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-397a)
+- [I Built a Subscription Tracker in 14 Days Using Angular 20 &lpar;And Made $0… Yet&rpar;](https://dev.to/karol_modelski/i-built-a-subscription-tracker-in-14-days-using-angular-20-and-made-0-yet-2hid)
+- [📖 Understanding Uniface 10.4 Help Texts: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-help-texts-a-simple-guide-1g62)
+- [Reflections on Designing a Search Autocomplete System](https://dev.to/andersontsai/reflections-on-designing-a-search-autocomplete-system-2j87)
+- [📝 Working with Messages in Uniface 10.4: A Simple Guide](https://dev.to/petercode/working-with-messages-in-uniface-104-a-simple-guide-5h72)
+- [📝 Understanding Messages in Uniface 10.4: Building Multilingual Applications](https://dev.to/petercode/understanding-messages-in-uniface-104-building-multilingual-applications-1m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
