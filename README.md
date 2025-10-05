@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2fgb)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2058)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-55l8)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2cf5)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-gl3)
+- [Diffium found 4 great Golang contributors during Hacktoberfest!](https://dev.to/kubeden/diffium-found-4-great-golang-contributors-during-hacktoberfest-2f94)
+- [1000+ Free APIs For Developers](https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc)
+- [Project Ideas](https://dev.to/muhammad_ammar_42be750b7c/project-ideas-12cb)
+- [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 1&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)
+- [Review and Secure a Lambda Function with an IAM Least Privilege Based Security Policy: CloudTrail and Athena Approach](https://dev.to/aws-builders/review-and-secure-a-lambda-function-with-an-iam-least-privilege-based-security-policy-cloudtrail-adm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
