@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-44hc)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-24ea)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-m5d)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-m63)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4486)
+- [Check it out](https://dev.to/masterdevsabith/check-it-out-18kg)
+- [🔁 Idempotency in System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/idempotency-in-system-design-2jcj)
+- [Custom AI Solutions vs Off-the-Shelf AI: Which Is Right for You?](https://dev.to/nayeem79/custom-ai-solutions-vs-off-the-shelf-ai-which-is-right-for-you-5ffj)
+- [#DAY 11: High Availability – Deploying a Reverse Proxy &lpar;Nginx&rpar;](https://dev.to/samueladeduntan/day-11-high-availability-deploying-a-reverse-proxy-nginx-mn4)
+- [Hands-On MongoDB CRUD Operations with a College Student Sche](https://dev.to/pjn_b_e25b30362b3f8ceef1d/hands-on-mongodb-crud-operations-with-a-college-student-sche-1gg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
