@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
-- [From LLMs to Liability: How Agents Grow Up](https://dev.to/narednra_reddyyadama_d64/from-llms-to-liability-how-agents-grow-up-3ndi)
-- [Working with Cursors and Triggers in Oracle Live SQL](https://dev.to/lohita_blue_d6409977eec4c/working-with-cursors-and-triggers-in-oracle-live-sql-i72)
-- [&quot;this&quot; Key word in java script](https://dev.to/arokiya_kithiyon_1f2bad36/this-key-word-in-java-script-gda)
-- [GitHub with Git: The Dynamic Duo of Developer Dreams 🚀](https://dev.to/manishpcp/github-with-git-the-dynamic-duo-of-developer-dreams-5055)
+- [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
+- [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3mal)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3861)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
