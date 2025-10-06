@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Building Dev Tools for Backend Engineers](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-2m67)
-- [Convex - an alternative to Firebase and Supabase](https://dev.to/noyan_alim/convex-an-alternative-to-firebase-and-supabase-3n9e)
-- [The Stack Unpacked Episode 4: to Query or Not to Query](https://dev.to/shaq_attack/the-stack-unpacked-episode-4-to-query-or-not-to-query-4jcp)
-- [[Question] Is Dev.to banned at Reddit?](https://dev.to/aregtech/question-is-devto-banned-at-reddit-4jkd)
-- [My Journey with Pipecat + Attendee &lpar;And Hacking the Infrastructure&rpar;](https://dev.to/angad_2002/my-journey-with-pipecat-attendee-and-hacking-the-infrastructure-3cea)
+- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
+- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
+- [🟠 Bitcoin Breaks New ATH &lpar;$125,700+&rpar; Over the Weekend — What Does It Mean for the Market?](https://dev.to/dan_keller/bitcoin-breaks-new-ath-125700-over-the-weekend-what-does-it-mean-for-the-market-5np)
+- [Self-Adapting Data Pipelines: The Intelligent Future of Data Engineering](https://dev.to/devnotes/self-adapting-data-pipelines-the-intelligent-future-of-data-engineering-b3d)
+- [AI and Attorney-Client Privilege: Hidden Cloud Risks and How to Keep Confidentiality Safe](https://dev.to/heyjoshlee/ai-and-attorney-client-privilege-hidden-cloud-risks-and-how-to-keep-confidentiality-safe-2dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
