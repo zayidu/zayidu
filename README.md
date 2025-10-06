@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How MedAI Will Transform Hospitals and Patient Care by 2035: My Predictions](https://dev.to/canro91/how-medai-will-transform-hospitals-and-patient-care-by-2035-my-predictions-3e1a)
-- [💥 Myth #13: You must model everything in detail](https://dev.to/tmorin/myth-13-you-must-model-everything-in-detail-10c5)
-- [ACID Properties in Database](https://dev.to/harish_t_aa27d59c9c2493a5/acid-properties-in-database-27be)
-- [Day 02 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-02-of-my-ai-data-mastery-journey-from-python-to-generative-ai-30lk)
-- [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
+- [Day 5 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-5-of-100-days-dsa-coding-challenge-2h59)
+- [What is Apache Kafka? A Beginner’s Guide](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-apache-kafka-a-beginners-guide-4p4m)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a7c)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
