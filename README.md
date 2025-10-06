@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
-- [Developer advice should be accessible to everyone](https://dev.to/tlorent/developer-advice-should-be-accessible-to-everyone-1npa)
-- [Cursor &amp; Trigger in DBMS](https://dev.to/rithika07032007/cursor-trigger-in-dbms-3haa)
-- [ACID Properties with SQL Transactions in DBMS](https://dev.to/madhumitha_ganesan_/acid-properties-with-sql-transactions-in-dbms-3766)
-- [ASP.NET Core Middleware Order Explained: Why app.UseAuthentication&lpar;&rpar; Must Come Before app.UseAuthorization&lpar;&rpar;](https://dev.to/sachin_ghatage/aspnet-core-middleware-order-explained-why-appuseauthentication-must-come-before-26je)
+- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eo0)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4b5j)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2b5p)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-575m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
