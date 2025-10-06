@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat with Apps in ChatGPT: The Future of Connected Work](https://dev.to/alifar/chat-with-apps-in-chatgpt-the-future-of-connected-work-1ja2)
-- [CVE-2021-22555: Linux Kernel Heap Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2021-22555-linux-kernel-heap-out-of-bounds-write-vulnerability-4po8)
-- [WebGPU Engine from Scratch Part 10: Markup Language and Scene Graph](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-10-markup-language-1n2g)
-- [Setup Production Sederhana yang Aman dan Efisien](https://dev.to/naandan/setup-production-sederhana-yang-aman-dan-efisien-3cna)
-- [All Data and AI Weekly #210: 6 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-210-6-oct-2025-17pe)
+- [KEXP: NewDad - Pretty &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-pretty-live-on-kexp-1f0)
+- [KEXP: NewDad - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-full-performance-live-on-kexp-1d70)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1hib)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3g8g)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-nkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
