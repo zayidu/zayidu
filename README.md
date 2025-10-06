@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-31ha)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5e4)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-30b2)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1pa0)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5akb)
+- [How MedAI Will Transform Hospitals and Patient Care by 2035: My Predictions](https://dev.to/canro91/how-medai-will-transform-hospitals-and-patient-care-by-2035-my-predictions-3e1a)
+- [💥 Myth #13: You must model everything in detail](https://dev.to/tmorin/myth-13-you-must-model-everything-in-detail-10c5)
+- [ACID Properties in Database](https://dev.to/harish_t_aa27d59c9c2493a5/acid-properties-in-database-27be)
+- [Day 02 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-02-of-my-ai-data-mastery-journey-from-python-to-generative-ai-30lk)
+- [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
