@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Weeks of Learning: Week 3](https://dev.to/akshitaexe/5-weeks-of-learning-week-3-46id)
+- [Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use](https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f)
+- [💬 Waaku: Manage Multiple WhatsApp Sessions with One Dashboard](https://dev.to/ilhamsabir/waaku-manage-multiple-whatsapp-sessions-with-one-dashboard-1d54)
+- [Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/codies-cognitive-chronicals-3kd8)
 - [CSS Sizing Units: The Complete Guide to Numbers, Percentages, and Relative Lengths](https://dev.to/er-raj-aryan/css-sizing-units-the-complete-guide-to-numbers-percentages-and-relative-lengths-14dl)
-- [Devoxx: Investing for geeks v1.1.0 by Foivos Zakkak](https://dev.to/scale_youtube/devoxx-investing-for-geeks-v110-by-foivos-zakkak-4hf3)
-- [Fire destroys S. Korean government&#39;s cloud storage system, no backups available](https://dev.to/technoblogger14o3/fire-destroys-s-korean-governments-cloud-storage-system-no-backups-available-32bj)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-49nj)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1i0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
