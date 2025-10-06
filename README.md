@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Apache Airflow](https://dev.to/mutindakioko/introduction-to-apache-airflow-1735)
-- [Add custom badges on Shopify products without app](https://dev.to/saadsaif97/add-custom-badges-on-shopify-products-without-app-hnh)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-27el)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-ee5)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-18cj)
+- [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
+- [Developer advice should be accessible to everyone](https://dev.to/tlorent/developer-advice-should-be-accessible-to-everyone-1npa)
+- [Cursor &amp; Trigger in DBMS](https://dev.to/rithika07032007/cursor-trigger-in-dbms-3haa)
+- [ACID Properties with SQL Transactions in DBMS](https://dev.to/madhumitha_ganesan_/acid-properties-with-sql-transactions-in-dbms-3766)
+- [ASP.NET Core Middleware Order Explained: Why app.UseAuthentication&lpar;&rpar; Must Come Before app.UseAuthorization&lpar;&rpar;](https://dev.to/sachin_ghatage/aspnet-core-middleware-order-explained-why-appuseauthentication-must-come-before-26je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
