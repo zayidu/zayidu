@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Outbox Pattern: A Love Letter to Eventual Consistency](https://dev.to/igornosatov_15/the-outbox-pattern-a-love-letter-to-eventual-consistency-3ch3)
-- [Weekly Recap: Our Charts Collection is Now Complete!](https://dev.to/ngmaterialdev/weekly-recap-our-charts-collection-is-now-complete-4dd8)
-- [What Are AI Agents? 🤖](https://dev.to/utopiality/what-are-ai-agents-1igd)
-- [Best MariaDB Clients in 2025](https://dev.to/dbvismarketing/best-mariadb-clients-in-2025-41fl)
-- [Quark&#39;s Outlines: Python Mappings](https://dev.to/mike-vincent/quarks-outlines-python-mappings-oe0)
+- [Introduction to Apache Airflow](https://dev.to/mutindakioko/introduction-to-apache-airflow-1735)
+- [Add custom badges on Shopify products without app](https://dev.to/saadsaif97/add-custom-badges-on-shopify-products-without-app-hnh)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-27el)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-ee5)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-18cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
