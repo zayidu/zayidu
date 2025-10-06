@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3pbj)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3in8)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1n7l)
-- [How I Rendered Mermaid Diagrams in React &lpar;and Built a Library for It&rpar;](https://dev.to/navdeepm20/how-i-rendered-mermaid-diagrams-in-react-and-built-a-library-for-it-c4d)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4n7k)
+- [**Unlocking the Power of Personalization: How Netflix&#39;s AI D](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-personalization-how-netflixs-ai-d-403j)
+- [🔹 CRUD Operations in MongoDB – A Hands-on College Student Example](https://dev.to/deepana_ee9087276132ad19f/crud-operations-in-mongodb-a-hands-on-college-student-example-3gjg)
+- [⚠️ **Overfitting to Data with Temporal Correlations: A Perva](https://dev.to/drcarlosruizviquez/overfitting-to-data-with-temporal-correlations-a-perva-6g1)
+- [My DevOps Journey: Part 8 - Network Security and DevSecOps: Protecting What Connects](https://dev.to/sheershsinha/my-devops-journey-part-8-network-security-and-devsecops-protecting-what-connects-3gna)
+- [Bootstrapped my own Link-in-Bio](https://dev.to/omarambat/bootstrapped-my-own-link-in-bio-hj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
