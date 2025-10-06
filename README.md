@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [**Unlocking the Power of Personalization: How Netflix&#39;s AI D](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-personalization-how-netflixs-ai-d-403j)
-- [🔹 CRUD Operations in MongoDB – A Hands-on College Student Example](https://dev.to/deepana_ee9087276132ad19f/crud-operations-in-mongodb-a-hands-on-college-student-example-3gjg)
-- [⚠️ **Overfitting to Data with Temporal Correlations: A Perva](https://dev.to/drcarlosruizviquez/overfitting-to-data-with-temporal-correlations-a-perva-6g1)
-- [My DevOps Journey: Part 8 - Network Security and DevSecOps: Protecting What Connects](https://dev.to/sheershsinha/my-devops-journey-part-8-network-security-and-devsecops-protecting-what-connects-3gna)
-- [Bootstrapped my own Link-in-Bio](https://dev.to/omarambat/bootstrapped-my-own-link-in-bio-hj0)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1104)
+- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1clb)
+- [KEXP: NewDad - Misery &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-misery-live-on-kexp-43pm)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5cfe)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
