@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eo0)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4b5j)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2b5p)
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-575m)
+- [Deconstructing the B2B Webinar: A Developer&#39;s Checklist for High-Signal Lead Gen](https://dev.to/michaelaiglobal/deconstructing-the-b2b-webinar-a-developers-checklist-for-high-signal-lead-gen-4e57)
+- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
+- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
+- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
+- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
