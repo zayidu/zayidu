@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1104)
-- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1clb)
-- [KEXP: NewDad - Misery &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-misery-live-on-kexp-43pm)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5cfe)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3h4b)
+- [Chat with Apps in ChatGPT: The Future of Connected Work](https://dev.to/alifar/chat-with-apps-in-chatgpt-the-future-of-connected-work-1ja2)
+- [CVE-2021-22555: Linux Kernel Heap Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2021-22555-linux-kernel-heap-out-of-bounds-write-vulnerability-4po8)
+- [WebGPU Engine from Scratch Part 10: Markup Language and Scene Graph](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-10-markup-language-1n2g)
+- [Setup Production Sederhana yang Aman dan Efisien](https://dev.to/naandan/setup-production-sederhana-yang-aman-dan-efisien-3cna)
+- [All Data and AI Weekly #210: 6 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-210-6-oct-2025-17pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
