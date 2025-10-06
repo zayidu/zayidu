@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: NewDad - Misery &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-misery-live-on-kexp-2ml9)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-230)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-33l4)
-- [Arquitetura Hexagonal: Exemplo com JS/TS](https://dev.to/vitorrios1001/arquitetura-hexagonal-exemplo-com-jsts-5flh)
-- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-3fbf)
+- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
+- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
+- [React: Effective UI Practices - State Management](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
+- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
+- [Geolocating History with AI: How Large Language Models are Mapping Colonial Virginia Land Grants](https://dev.to/shifa_noorulain_2c5f713e9/geolocating-history-with-ai-how-large-language-models-are-mapping-colonial-virginia-land-grants-2ol4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
