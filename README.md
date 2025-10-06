@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
-- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
-- [🟠 Bitcoin Breaks New ATH &lpar;$125,700+&rpar; Over the Weekend — What Does It Mean for the Market?](https://dev.to/dan_keller/bitcoin-breaks-new-ath-125700-over-the-weekend-what-does-it-mean-for-the-market-5np)
-- [Self-Adapting Data Pipelines: The Intelligent Future of Data Engineering](https://dev.to/devnotes/self-adapting-data-pipelines-the-intelligent-future-of-data-engineering-b3d)
-- [AI and Attorney-Client Privilege: Hidden Cloud Risks and How to Keep Confidentiality Safe](https://dev.to/heyjoshlee/ai-and-attorney-client-privilege-hidden-cloud-risks-and-how-to-keep-confidentiality-safe-2dh)
+- [KEXP: NewDad - Misery &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-misery-live-on-kexp-2ml9)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-230)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-33l4)
+- [Arquitetura Hexagonal: Exemplo com JS/TS](https://dev.to/vitorrios1001/arquitetura-hexagonal-exemplo-com-jsts-5flh)
+- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-3fbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
