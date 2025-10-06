@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-5-of-100-days-dsa-coding-challenge-2h59)
-- [What is Apache Kafka? A Beginner’s Guide](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-apache-kafka-a-beginners-guide-4p4m)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a7c)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4)
+- [The Outbox Pattern: A Love Letter to Eventual Consistency](https://dev.to/igornosatov_15/the-outbox-pattern-a-love-letter-to-eventual-consistency-3ch3)
+- [Weekly Recap: Our Charts Collection is Now Complete!](https://dev.to/ngmaterialdev/weekly-recap-our-charts-collection-is-now-complete-4dd8)
+- [What Are AI Agents? 🤖](https://dev.to/utopiality/what-are-ai-agents-1igd)
+- [Best MariaDB Clients in 2025](https://dev.to/dbvismarketing/best-mariadb-clients-in-2025-41fl)
+- [Quark&#39;s Outlines: Python Mappings](https://dev.to/mike-vincent/quarks-outlines-python-mappings-oe0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
