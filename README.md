@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
-- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
-- [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
-- [How to Deploy n8n with Defang](https://dev.to/toki_hossain/how-to-deploy-n8n-with-defang-34n5)
-- [Devoxx: Hello &lpar;Virtual&rpar; World by Keren Kenzi](https://dev.to/scale_youtube/devoxx-hello-virtual-world-by-keren-kenzi-1jn0)
+- [Your 2025 AI Upgrade, Minus the Noise](https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2078)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-50g2)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1e36)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2m0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
