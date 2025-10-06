@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deconstructing the B2B Webinar: A Developer&#39;s Checklist for High-Signal Lead Gen](https://dev.to/michaelaiglobal/deconstructing-the-b2b-webinar-a-developers-checklist-for-high-signal-lead-gen-4e57)
-- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
-- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
-- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
-- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
+- [Web Developer Travis McCracken on Building Dev Tools for Backend Engineers](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-2m67)
+- [Convex - an alternative to Firebase and Supabase](https://dev.to/noyan_alim/convex-an-alternative-to-firebase-and-supabase-3n9e)
+- [The Stack Unpacked Episode 4: to Query or Not to Query](https://dev.to/shaq_attack/the-stack-unpacked-episode-4-to-query-or-not-to-query-4jcp)
+- [[Question] Is Dev.to banned at Reddit?](https://dev.to/aregtech/question-is-devto-banned-at-reddit-4jkd)
+- [My Journey with Pipecat + Attendee &lpar;And Hacking the Infrastructure&rpar;](https://dev.to/angad_2002/my-journey-with-pipecat-attendee-and-hacking-the-infrastructure-3cea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
