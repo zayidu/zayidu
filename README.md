@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chronos Vault Trinity Protocol Now Live on Testnet: Revolutionizing Multi-Chain Security](https://dev.to/chronosvault/chronos-vault-trinity-protocol-now-live-on-testnet-revolutionizing-multi-chain-security-4ak5)
-- [Truth and documentation build trust. The Talentcrowd filings remind us that openness is the best protection against misinformation.](https://dev.to/regalroyale/truth-and-documentation-build-trust-the-talentcrowd-filings-remind-us-that-openness-is-the-best-16om)
-- [Transparent AI for SMBs: Why Explainability Isn’t Just Nice-to-Have — It’s Mission-Critical](https://dev.to/artyom_mukhopad_a9444ed6d/transparent-ai-for-smbs-why-explainability-isnt-just-nice-to-have-its-mission-critical-52c6)
-- [电报数据库：信息安全与数据结构的深度解析](https://dev.to/tgdatabase3/dian-bao-shu-ju-ku-xin-xi-an-quan-yu-shu-ju-jie-gou-de-shen-du-jie-xi-183p)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2jca)
+- [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
+- [We built Scout QA - an AI Quality Companion for AI-native developers &lpar;and just launched on Product Hunt&rpar;](https://dev.to/huy_tieu/we-built-scout-qa-an-ai-quality-companion-for-ai-native-developers-and-just-launched-on-product-23bh)
+- [Redesignr.ai: Instantly Upgrade Your Website Design with AI](https://dev.to/web5lab_938e9096be8dc3e78/redesignrai-instantly-upgrade-your-website-design-with-ai-1e62)
+- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
+- [The Freelancer’s Secret: Automating Follow-Ups with VisitFolio Tools](https://dev.to/imtaslim/the-freelancers-secret-automating-follow-ups-with-visitfolio-tools-55lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
