@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-o93)
-- [How to Add a Wishlist Count Bubble to Your Shopify Theme &lpar;No JavaScript Needed&rpar;?](https://dev.to/sebbanfa/how-to-add-a-wishlist-count-bubble-to-your-shopify-theme-no-javascript-needed-3ej9)
+- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g)
+- [The 3 C# PDF Libraries Every Developer Must Know](https://dev.to/antonmartyniuk/the-3-c-pdf-libraries-every-developer-must-know-30de)
+- [Supervising an AI Engineer: Lessons from 212 Sessions](https://dev.to/razoorka/supervising-an-ai-engineer-lessons-from-212-sessions-4gaa)
+- [Refactoring 034 - Reify Parameters](https://dev.to/mcsee/refactoring-034-reify-parameters-49ml)
+- [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
