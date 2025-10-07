@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-43h5)
-- [The Anti-Corruption Layer: Your Application&#39;s Bouncer Against Legacy Chaos](https://dev.to/igornosatov_15/the-anti-corruption-layer-your-applications-bouncer-against-legacy-chaos-14l3)
-- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-moj)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-pih)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4jf3)
+- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
+- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
+- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
+- [Day 03 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-03-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3c6f)
+- [L&#39;outil IA pour trouver un nom de projet rapidement](https://dev.to/nazario/loutil-ia-pour-trouver-un-nom-de-projet-rapidement-1gfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
