@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-2n2a)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-dd4)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2lg2)
-- [Top Social Media Trends in 2025: What Every Brand Needs to Know](https://dev.to/orvian-tech/top-social-media-trends-in-2025-what-every-brand-needs-to-know-2gc9)
-- [🤯 This One Feature in React Native Will Make You Rethink Mobile Development!](https://dev.to/ekwoster/this-one-feature-in-react-native-will-make-you-rethink-mobile-development-6lm)
+- [A Medium-Rare Brain Understanding the Essential Tools of Modern Cryptography Part 1](https://dev.to/ayda_ma04a645d96526b/a-medium-rare-brain-understanding-the-essential-tools-of-modern-cryptography-part-1-2nc8)
+- [Stop Writing &quot;fix bug&quot;. Clean Up Your Commits With This VS Code Extension](https://dev.to/prismcoder/stop-writing-fix-bug-clean-up-your-commits-with-this-vs-code-extension-jof)
+- [El Futuro de la Mensajería Privada | Análisis Completo y Guía de Uso](https://dev.to/oliverholiveros/el-futuro-de-la-mensajeria-privada-analisis-completo-y-guia-de-uso-3b84)
+- [Quick Debugging Techniques for Playwright Tests](https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg)
+- [please give it a read](https://dev.to/guna01/please-give-it-a-read-3n8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
