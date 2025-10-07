@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to M-Pesa STK Push in React Native with Daraja API](https://dev.to/james_mugambi_494c7da2b07/step-by-step-guide-to-m-pesa-stk-push-in-react-native-with-daraja-api-1ao7)
-- [IGN: Daemons of the Shadow Realm - Official Trailer 2 &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-daemons-of-the-shadow-realm-official-trailer-2-english-subtitles-4gng)
-- [IGN: Dragon Raja 2: The Mourner&#39;s Eyes - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dragon-raja-2-the-mourners-eyes-official-trailer-english-subtitles-23dp)
-- [Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?](https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl)
-- [From Research to Reality: Bridging the Gap with AI Index 2025 Insights for Practical Application](https://dev.to/shifa_noorulain_2c5f713e9/from-research-to-reality-bridging-the-gap-with-ai-index-2025-insights-for-practical-application-gih)
+- [What happened after I posted Daffodil&#39;s Show HN Post](https://dev.to/damienwebdev/what-happened-after-i-posted-daffodils-show-hn-post-4d5o)
+- [A Beginner&#39;s GAN Adventure with Digits](https://dev.to/anikchand461/a-beginners-gan-adventure-with-digits-54g4)
+- [How Do You Actually Send an EVM Write Transaction? Building a Robust Client for ABI Encoding, Gas &lpar;EIP‑1559&rpar;, and Verification](https://dev.to/onlineproxy/how-do-you-actually-send-an-evm-write-transaction-building-a-robust-client-for-abi-encoding-gas-1pp8)
+- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-4aj9)
+- [Kusto Query Language &lpar;KQL&rpar; — A Practical, No‑BS Guide for Engineers &lpar;with SQL mapping, recipes, and gotchas&rpar;](https://dev.to/cristiansifuentes/kusto-query-language-kql-a-practical-no-bs-guide-for-engineers-with-sql-mapping-recipes-and-n81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
