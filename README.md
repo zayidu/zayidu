@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4i6h)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-26n)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f7p)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1dhi)
-- [GKE Pricing Demystified: Autopilot vs Standard Mode](https://dev.to/mechcloud_academy/gke-pricing-demystified-autopilot-vs-standard-mode-1441)
+- [How Game Simulations are Reshaping Military Strategy](https://dev.to/gamepill/how-game-simulations-are-reshaping-military-strategy-5h7i)
+- [How MySQL Actually Works: A Deep Dive into Database Internals](https://dev.to/mush1e/how-mysql-actually-works-a-deep-dive-into-database-internals-4o16)
+- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
+- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
+- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
