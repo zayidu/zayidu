@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
-- [We built Scout QA - an AI Quality Companion for AI-native developers &lpar;and just launched on Product Hunt&rpar;](https://dev.to/huy_tieu/we-built-scout-qa-an-ai-quality-companion-for-ai-native-developers-and-just-launched-on-product-23bh)
-- [Redesignr.ai: Instantly Upgrade Your Website Design with AI](https://dev.to/web5lab_938e9096be8dc3e78/redesignrai-instantly-upgrade-your-website-design-with-ai-1e62)
-- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
-- [The Freelancer’s Secret: Automating Follow-Ups with VisitFolio Tools](https://dev.to/imtaslim/the-freelancers-secret-automating-follow-ups-with-visitfolio-tools-55lh)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-o93)
+- [How to Add a Wishlist Count Bubble to Your Shopify Theme &lpar;No JavaScript Needed&rpar;?](https://dev.to/sebbanfa/how-to-add-a-wishlist-count-bubble-to-your-shopify-theme-no-javascript-needed-3ej9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
