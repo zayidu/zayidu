@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-26ih)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3cfj)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-36g3)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3bca)
-- [Academic-Scheduler.com: Revolutionary School Management System - Transform Your Institution Today!](https://dev.to/muhammad-huzaifa/academic-schedulercom-revolutionary-school-management-system-transform-your-institution-today-292c)
+- [Docker in a Nutshell: Containers Made Simple](https://dev.to/leesha_lois/docker-in-a-nutshell-containers-made-simple-2fa7)
+- [MLZC25-09. Preparación de Datos: La Fundación de Todo Modelo Exitoso](https://dev.to/jesus_oviedoriquelme_084/mlzc25-09-preparacion-de-datos-la-fundacion-de-todo-modelo-exitoso-272e)
+- [Golang Dependency Inversion — A Java Developer&#39;s Point of View](https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4)
+- [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
+- [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
