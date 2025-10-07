@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What AI Taught Me About Sharing Context With Humans](https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jnc)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4hcg)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4kn1)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Carousel &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-carousel-live-on-kexp-1h1o)
+- [Bun-ffi - Getting started with C++ and Bun](https://dev.to/calumk/bun-ffi-getting-started-with-c-and-bun-47ea)
+- [Stop Wasting Hours: Docker Skills Every Front-End Engineer Needs](https://dev.to/devflex-pro/stop-wasting-hours-docker-skills-every-front-end-engineer-needs-2779)
+- [The unreasonable effectiveness of Postgres range types](https://dev.to/mcadariu/the-unreasonable-effectiveness-of-postgres-range-types-1ine)
+- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
+- [Saving Game Data in Unity — Part 1: PlayerPrefs](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-1-playerprefs-22hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
