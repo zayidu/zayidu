@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 8: Monitoring, Logs &amp; Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d)
-- [#DAY 7: Users &amp; Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm)
-- [#DAY 6: Security Profiles: Web Filtering &amp; Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j)
-- [#DAY 5: Firewall Policies, NAT &amp; Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj)
-- [#DAY 4: Interfaces &amp; Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176)
+- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
+- [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
+- [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
+- [Who owns Express VPN, Nord, Surfshark? VPN relationships explained &lpar;2024&rpar;](https://dev.to/technoblogger14o3/who-owns-express-vpn-nord-surfshark-vpn-relationships-explained-2024-36o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
