@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g)
-- [The 3 C# PDF Libraries Every Developer Must Know](https://dev.to/antonmartyniuk/the-3-c-pdf-libraries-every-developer-must-know-30de)
-- [Supervising an AI Engineer: Lessons from 212 Sessions](https://dev.to/razoorka/supervising-an-ai-engineer-lessons-from-212-sessions-4gaa)
-- [Refactoring 034 - Reify Parameters](https://dev.to/mcsee/refactoring-034-reify-parameters-49ml)
-- [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
+- [What AI Taught Me About Sharing Context With Humans](https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jnc)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4hcg)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4kn1)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Carousel &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-carousel-live-on-kexp-1h1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
