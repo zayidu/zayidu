@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker in a Nutshell: Containers Made Simple](https://dev.to/leesha_lois/docker-in-a-nutshell-containers-made-simple-2fa7)
-- [MLZC25-09. Preparación de Datos: La Fundación de Todo Modelo Exitoso](https://dev.to/jesus_oviedoriquelme_084/mlzc25-09-preparacion-de-datos-la-fundacion-de-todo-modelo-exitoso-272e)
-- [Golang Dependency Inversion — A Java Developer&#39;s Point of View](https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4)
-- [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
-- [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
+- [Step-by-Step Guide to M-Pesa STK Push in React Native with Daraja API](https://dev.to/james_mugambi_494c7da2b07/step-by-step-guide-to-m-pesa-stk-push-in-react-native-with-daraja-api-1ao7)
+- [IGN: Daemons of the Shadow Realm - Official Trailer 2 &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-daemons-of-the-shadow-realm-official-trailer-2-english-subtitles-4gng)
+- [IGN: Dragon Raja 2: The Mourner&#39;s Eyes - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dragon-raja-2-the-mourners-eyes-official-trailer-english-subtitles-23dp)
+- [Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?](https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl)
+- [From Research to Reality: Bridging the Gap with AI Index 2025 Insights for Practical Application](https://dev.to/shifa_noorulain_2c5f713e9/from-research-to-reality-bridging-the-gap-with-ai-index-2025-insights-for-practical-application-gih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
