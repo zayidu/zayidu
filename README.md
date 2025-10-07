@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hands-On Experience with Network Monitoring Using PRTG](https://dev.to/samueladeduntan/my-hands-on-experience-with-network-monitoring-using-prtg-3j1m)
-- [Inspiring Google Developers video retrospective](https://dev.to/wescpy/inspiring-google-developers-video-retrospective-4c15)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--4k1d)
-- [Mastering TCJSGame Audio System: Creating Immersive Soundscapes](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-audio-system-creating-immersive-soundscapes-og2)
-- [The Rust Advantage: Building Bulletproof Systems When AI Writes Half Your Code](https://dev.to/masteringbackend/the-rust-advantage-building-bulletproof-systems-when-ai-writes-half-your-code-2e74)
+- [#DAY 8: Monitoring, Logs &amp; Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d)
+- [#DAY 7: Users &amp; Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm)
+- [#DAY 6: Security Profiles: Web Filtering &amp; Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j)
+- [#DAY 5: Firewall Policies, NAT &amp; Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj)
+- [#DAY 4: Interfaces &amp; Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
