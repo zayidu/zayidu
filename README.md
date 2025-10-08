@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2gd6)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-2k8p)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3448)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-1iih)
-- [IGN: Ghost of Yotei - Official Director Modes Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-director-modes-trailer-53om)
+- [Beyond Autocomplete: A practical guide to AI-Assisted Development](https://dev.to/jackmarchant/beyond-autocomplete-a-practical-guide-to-ai-assisted-development-ldb)
+- [🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.](https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po)
+- [TCJSGame Advanced Architecture: Building Scalable, Maintainable Games](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k)
+- [Understanding From and Into Traits in Rust](https://dev.to/masteringbackend/understanding-from-and-into-traits-in-rust-2mgi)
+- [From Quote to Shipment in Business Central: Are You Being Replaced?](https://dev.to/insight_works/from-quote-to-shipment-in-business-central-are-you-being-replaced-4i21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
