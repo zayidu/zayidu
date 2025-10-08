@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j4g)
-- [Xperience Community: Essentials](https://dev.to/vhugogarcia/xperience-community-essentials-2e9p)
-- [KEXP: Babe Rainbow - What is ashwagandha &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-52hp)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4dgj)
+- [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
+- [CRUD &lpar;Create, Read, Update, Delete&rpar; operations in MongoDB using a simple college student schema.](https://dev.to/lohita_blue_d6409977eec4c/crud-create-read-update-delete-operations-in-mongodb-using-a-simple-college-student-schema-4lj8)
+- [Sealed Classes in Java 21 – Controlling Class Hierarchies](https://dev.to/adrian_nowosielski_7bd282/sealed-classes-in-java-21-controlling-class-hierarchies-1moo)
+- [AWS CloudFront Security Implementation Guide](https://dev.to/harshhp/aws-cloudfront-security-implementation-guide-bjm)
+- [Thinking to return on dev.to](https://dev.to/sehgalspandan/thinking-to-return-on-devto-3jlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
