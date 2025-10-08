@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-4h17)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4apb)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-418p)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-1ebe)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-1kal)
+- [Creating Python Libraries &amp; Reusable Modules](https://dev.to/godofgeeks/creating-python-libraries-reusable-modules-1mbi)
+- [React Router](https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah)
+- [Vibe Coding Meets AI Testing - How I Ship With Confidence](https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81)
+- [A Dive into Apache Iceberg™&#39;s Metadata](https://dev.to/thedanicafine/a-dive-into-apache-icebergs-metadata-gpp)
+- [The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity](https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
