@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
-- [Sora 2 / Sora 2 Pro Python CLI](https://dev.to/abdibrokhim/sora-2-sora-2-pro-python-cli-4iim)
-- [Deploying An Azure Virtual Machine Scale Set Using Terraform And Pushing It To GitHub.](https://dev.to/nelson_akpa01/deploying-an-azure-virtual-machine-scale-set-using-terraform-and-pushing-it-to-github-2kh4)
-- [Ensuring Quality Control in Mechanical Manufacturing: Best Practices](https://dev.to/ayesha-diaz/ensuring-quality-control-in-mechanical-manufacturing-best-practices-23hn)
-- [From Crypto Mining to Folding@Home: Using GPU Power for Something Good](https://dev.to/michal_cichon/from-crypto-mining-to-foldinghome-using-gpu-power-for-something-good-3321)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-3h9)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5c1m)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-22b9)
+- [IGN: Yooka-Replaylee Review](https://dev.to/gg_news/ign-yooka-replaylee-review-1fhp)
+- [IGN: Radu Jude&#39;s Dracula - Exclusive Trailer &lpar;2025&rpar; Adonis Tanța, Oana Maria Zaharia](https://dev.to/gg_news/ign-radu-judes-dracula-exclusive-trailer-2025-adonis-tanta-oana-maria-zaharia-3270)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
