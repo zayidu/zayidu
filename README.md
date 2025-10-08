@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura Monolítica](https://dev.to/yuripeixinho/arquitetura-monolitica-3d1o)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-2aai)
-- [Beyond Speed: Why Quality Code is as Critical as Efficiency in Software Development](https://dev.to/rgbos/beyond-speed-why-quality-code-is-as-critical-as-efficiency-in-software-development-4ajj)
-- [🚀 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐂𝐡𝐚𝐭𝐊𝐢𝐭 𝐰𝐢𝐭𝐡 𝐅𝐚𝐬𝐭𝐀𝐏𝐈: 𝐀 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐡𝐚𝐭 𝐀𝐠𝐞𝐧𝐭𝐬](https://dev.to/rajeev_3ce9f280cbae73b234/--3hhn)
-- [AI-Driven Data Engineering: Building Real-Time Intelligence Pipelines](https://dev.to/harsh9410/ai-driven-data-engineering-building-real-time-intelligence-pipelines-5an6)
+- [HackSpire&#39;25: Igniting Innovation, Forging Futures 🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-igniting-innovation-forging-futures-1ann)
+- [Designing Simplicity: How Developers Can Bridge the UX Gap in Crypto](https://dev.to/chikieabby/designing-simplicity-how-developers-can-bridge-the-ux-gap-in-crypto-j1a)
+- [Arquitetura em Camadas &lpar;Layered architecture&rpar;](https://dev.to/yuripeixinho/arquitetura-em-camadas-layered-architecture-a68)
+- [Code Reviews with AI: Making Feedback Fast, Fair, and Effective](https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8)
+- [RISC-V Lockstep Co-Simulation: Retirement-Level Step-and-Compare for Faster Verification &amp; Debug](https://dev.to/alpinumblogs/risc-v-lockstep-co-simulation-retirement-level-step-and-compare-for-faster-verification-debug-gpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
