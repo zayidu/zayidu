@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fully Configurable Open Source Audio Spectrum Analyzer](https://dev.to/sylwekkominek/fully-configurable-open-source-audio-spectrum-analyzer-25h5)
-- [Cloud Run Full Screen Test](https://dev.to/ben/cloud-run-full-screen-test-2ee0)
-- [Guía rápida SDKMAN!](https://dev.to/gekyzo/sdkman-ioe)
-- [Stacking PRs &amp; Squashing Merges](https://dev.to/sleepingpotato/stacking-prs-squashing-merges-4ogg)
-- [The Hidden Parallels Between Office Licensing and Web App Authentication](https://dev.to/_eb7ede481eac3d7c3/the-hidden-parallels-between-office-licensing-and-web-app-authentication-3f60)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2gd6)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-2k8p)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3448)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-1iih)
+- [IGN: Ghost of Yotei - Official Director Modes Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-director-modes-trailer-53om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
