@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Mastering MongoDB CRUD Operations — A Hands-on Student Database Example 🎓](https://dev.to/prian_ss24cb042_1006e0f/mastering-mongodb-crud-operations-a-hands-on-student-database-example-1m9k)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-8ag)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-39n1)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-1gc7)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-47p0)
+- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
+- [Sora 2 / Sora 2 Pro Python CLI](https://dev.to/abdibrokhim/sora-2-sora-2-pro-python-cli-4iim)
+- [Deploying An Azure Virtual Machine Scale Set Using Terraform And Pushing It To GitHub.](https://dev.to/nelson_akpa01/deploying-an-azure-virtual-machine-scale-set-using-terraform-and-pushing-it-to-github-2kh4)
+- [Ensuring Quality Control in Mechanical Manufacturing: Best Practices](https://dev.to/ayesha-diaz/ensuring-quality-control-in-mechanical-manufacturing-best-practices-23hn)
+- [From Crypto Mining to Folding@Home: Using GPU Power for Something Good](https://dev.to/michal_cichon/from-crypto-mining-to-foldinghome-using-gpu-power-for-something-good-3321)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
