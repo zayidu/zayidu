@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-3h9)
-- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5c1m)
-- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-22b9)
-- [IGN: Yooka-Replaylee Review](https://dev.to/gg_news/ign-yooka-replaylee-review-1fhp)
-- [IGN: Radu Jude&#39;s Dracula - Exclusive Trailer &lpar;2025&rpar; Adonis Tanța, Oana Maria Zaharia](https://dev.to/gg_news/ign-radu-judes-dracula-exclusive-trailer-2025-adonis-tanta-oana-maria-zaharia-3270)
+- [How to Use ChatGPT to Build AI Voice Agents Effectively](https://dev.to/marksantiago02/how-to-use-chatgpt-to-build-ai-voice-agents-effectively-jd9)
+- [ACID PROPERTIES WITH SQL TRNSACTIONS](https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8)
+- [I Built an Offline Voice Typing App for Linux - Speak to AI](https://dev.to/ashbuk/i-built-an-offline-voice-typing-app-for-linux-speak-to-ai-3ab5)
+- [Why Developers Should Care About AI Workflow Automation in 2025](https://dev.to/amanda_brooks_62bc9e0d44d/why-developers-should-care-about-ai-workflow-automation-in-2025-5g5a)
+- [Weekly Update #12](https://dev.to/abytebybyte/weekly-update-12-2d65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
