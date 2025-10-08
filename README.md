@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-ln0)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-1n10)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-3g23)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-187c)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3aod)
+- [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
+- [n8n and OpenAI API: Creating Simple Text Processing Automations](https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f)
+- [How Vijil built a trust layer for my first AI agent](https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki)
+- [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
+- [Ultimate Laravel Migrations Guide 2025](https://dev.to/laracopilot/what-is-laravel-migrations-2cbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
