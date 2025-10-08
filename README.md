@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Agent Framework: Combining Semantic Kernel + Autogen for Advanced AI Agents](https://dev.to/sreeni5018/microsoft-agent-framework-combining-semantic-kernel-autogen-for-advanced-ai-agents-2i4i)
-- [🚀 Hello DEV Community! I’m Thiyagarajan Varadharajan – Python Full Stack Developer | AI Enthusiast](https://dev.to/thiyagu26v/hello-dev-community-im-thiyagarajan-varadharajan-python-full-stack-developer-ai-enthusiast-eb7)
-- [Nvidia&#39;s AI Chips: A Geopolitical Dilemma](https://dev.to/yagyaraj_sharma_6cd410179/nvidias-ai-chips-a-geopolitical-dilemma-4nom)
-- [Pictera.co — Generate clean Open Graph images for your links](https://dev.to/hamza_chebbah_0fe9e67a52a/picteraco-generate-clean-open-graph-images-for-your-links-150f)
-- [Adam Neely: Sungazer - Whisky and Mes [Bass Playthrough]](https://dev.to/music_youtube/adam-neely-sungazer-whisky-and-mes-bass-playthrough-1359)
+- [Arquitetura Monolítica](https://dev.to/yuripeixinho/arquitetura-monolitica-3d1o)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-2aai)
+- [Beyond Speed: Why Quality Code is as Critical as Efficiency in Software Development](https://dev.to/rgbos/beyond-speed-why-quality-code-is-as-critical-as-efficiency-in-software-development-4ajj)
+- [🚀 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐂𝐡𝐚𝐭𝐊𝐢𝐭 𝐰𝐢𝐭𝐡 𝐅𝐚𝐬𝐭𝐀𝐏𝐈: 𝐀 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐡𝐚𝐭 𝐀𝐠𝐞𝐧𝐭𝐬](https://dev.to/rajeev_3ce9f280cbae73b234/--3hhn)
+- [AI-Driven Data Engineering: Building Real-Time Intelligence Pipelines](https://dev.to/harsh9410/ai-driven-data-engineering-building-real-time-intelligence-pipelines-5an6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
