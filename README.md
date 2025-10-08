@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bug-Free Multithreading: How Areg SDK Transforms Concurrency in C++](https://dev.to/aregtech/bug-free-multithreading-how-areg-sdk-transforms-concurrency-in-c-4m1d)
-- [The Relevance of Excel in the Era of Power Bi and Python](https://dev.to/raphson/the-relevance-of-excel-in-the-era-of-power-bi-and-python-31gi)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-33a2)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4b1c)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-4gie)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_40446303/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4he7)
+- [Hello i am new here.](https://dev.to/jaykintan/hello-i-am-new-here-2mja)
+- [Decoding the &#39;Invalid Color Space&#39; Error: A Dive into an FFmpeg 7 Bug](https://dev.to/andrewchaa/decoding-the-invalid-color-space-error-a-dive-into-an-ffmpeg-7-bug-2636)
+- [Optimize Website Performance for 2025 Sales Boost](https://dev.to/addalign/optimize-website-performance-for-2025-sales-boost-31o7)
+- [Gaming in 2025 and Beyond: Innovation, Culture, and the Next Frontier](https://dev.to/andrzeja_latkowska_c2d792/gaming-in-2025-and-beyond-innovation-culture-and-the-next-frontier-138l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
