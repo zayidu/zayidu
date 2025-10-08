@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Python Libraries &amp; Reusable Modules](https://dev.to/godofgeeks/creating-python-libraries-reusable-modules-1mbi)
-- [React Router](https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah)
-- [Vibe Coding Meets AI Testing - How I Ship With Confidence](https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81)
-- [A Dive into Apache Iceberg™&#39;s Metadata](https://dev.to/thedanicafine/a-dive-into-apache-icebergs-metadata-gpp)
-- [The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity](https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog)
+- [Bug-Free Multithreading: How Areg SDK Transforms Concurrency in C++](https://dev.to/aregtech/bug-free-multithreading-how-areg-sdk-transforms-concurrency-in-c-4m1d)
+- [The Relevance of Excel in the Era of Power Bi and Python](https://dev.to/raphson/the-relevance-of-excel-in-the-era-of-power-bi-and-python-31gi)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-33a2)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4b1c)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-4gie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
