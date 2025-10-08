@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
-- [n8n and OpenAI API: Creating Simple Text Processing Automations](https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f)
-- [How Vijil built a trust layer for my first AI agent](https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki)
-- [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
-- [Ultimate Laravel Migrations Guide 2025](https://dev.to/laracopilot/what-is-laravel-migrations-2cbe)
+- [What Devs Are Actually Learning in 2025 &lpar;Stack Overflow + DORA Insights&rpar;](https://dev.to/dhruvjoshi9/what-devs-are-actually-learning-in-2025-stack-overflow-dora-insights-17j3)
+- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j)
+- [Dictionary in Python &lpar;3&rpar;](https://dev.to/hyperkai/dictionary-in-python-3-42e8)
+- [How to choose between the four types of safety levels and the two types of safety levels for safety curtains?](https://dev.to/daidisike/how-to-choose-between-the-four-types-of-safety-levels-and-the-two-types-of-safety-levels-for-safety-2gp7)
+- [GitHub Copilot Chat Modes: From Chaos to Command 🎛️](https://dev.to/anchildress1/github-copilot-chat-modes-from-chaos-to-command-54k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
