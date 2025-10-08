@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-5d94)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-57e9)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4g1i)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-5gag)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-3kbi)
+- [TRANSACTION](https://dev.to/balaji_5384626fc05c543d2f/transaction-3c82)
+- [JavaScript &lpar;Datatype and variable&rpar;](https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6)
+- [Building Smart Workflows with the Microsoft Agent Framework-Part -I](https://dev.to/sreeni5018/building-smart-workflows-with-the-microsoft-agent-framework-part-i-2fej)
+- [Mastering DBMS: A Practical Guide to Indexing, Hashing, and Query Optimization](https://dev.to/haresh_511/mastering-dbms-a-practical-guide-to-indexing-hashing-and-query-optimization-35p4)
+- [AI-Powered Incident Resolution Assistant: Reducing MTTR and Elevating ServiceNow Operations](https://dev.to/sip_mjb/ai-powered-incident-resolution-assistant-reducing-mttr-and-elevating-servicenow-operations-9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
