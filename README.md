@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide](https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd)
-- [Practical AI Use Cases That Are Actually Transforming Law Firms With Real Examples and Measurable ROI](https://dev.to/heyjoshlee/practical-ai-use-cases-that-are-actually-transforming-law-firms-with-real-examples-and-measurable-31og)
-- [Devlog: Building the **Price Pipeline Health** Card &lpar;so you know when data is fresh or fallback&rpar;](https://dev.to/pocketportfolioapp/devlog-building-the-price-pipeline-health-card-so-you-know-when-data-is-fresh-or-fallback-57p2)
-- [How to Find, Prevent And Solve Java.lang.NullPointerException in Mobile Apps](https://dev.to/shubham_joshi_expert/how-to-find-prevent-and-solve-javalangnullpointerexception-in-mobile-apps-4304)
-- [From Plain Functions to Reactive Streams: a mindset change with a thousand benefits](https://dev.to/dariomannu/from-plain-functions-to-reactive-streams-a-mindset-change-with-a-thousand-benefits-aoa)
+- [💻 Mastering MongoDB CRUD Operations — A Hands-on Student Database Example 🎓](https://dev.to/prian_ss24cb042_1006e0f/mastering-mongodb-crud-operations-a-hands-on-student-database-example-1m9k)
+- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-8ag)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-39n1)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-1gc7)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-47p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
