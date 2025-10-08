@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use ChatGPT to Build AI Voice Agents Effectively](https://dev.to/marksantiago02/how-to-use-chatgpt-to-build-ai-voice-agents-effectively-jd9)
-- [ACID PROPERTIES WITH SQL TRNSACTIONS](https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8)
-- [I Built an Offline Voice Typing App for Linux - Speak to AI](https://dev.to/ashbuk/i-built-an-offline-voice-typing-app-for-linux-speak-to-ai-3ab5)
-- [Why Developers Should Care About AI Workflow Automation in 2025](https://dev.to/amanda_brooks_62bc9e0d44d/why-developers-should-care-about-ai-workflow-automation-in-2025-5g5a)
-- [Weekly Update #12](https://dev.to/abytebybyte/weekly-update-12-2d65)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j4g)
+- [Xperience Community: Essentials](https://dev.to/vhugogarcia/xperience-community-essentials-2e9p)
+- [KEXP: Babe Rainbow - What is ashwagandha &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-52hp)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4dgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
