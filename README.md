@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3pgo)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-4ela)
-- [The Data Science Tech Stack you must master in 2025](https://dev.to/hew/the-data-science-tech-stack-you-must-master-in-2025-1fkd)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1iep)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-21p3)
+- [PR-01 at Hacktoberfest: Google Maps E2E Testing — for hackathon-starter](https://dev.to/andersontsai/pr-01-at-hacktoberfest-google-maps-e2e-testing-for-hackathon-starter-15dk)
+- [Letting go PHP database migrations](https://dev.to/xwero/letting-go-php-database-migrations-5cpa)
+- [TCJSGame Speed.js: The 60 FPS Game Loop Revolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-speedjs-the-60-fps-game-loop-revolution-1ffo)
+- [My Journey As A Data Analyst](https://dev.to/oluwole_akinyele_/my-journey-as-a-data-analyst-37nj)
+- [How to Sync Git Repositories: A Complete Guide to Syncing Between Different Remote Repositories](https://dev.to/knitesh/how-to-sync-git-repositories-a-complete-guide-to-syncing-between-different-remote-repositories-2m0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
