@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4me2)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-1l3c)
-- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-9em)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4174)
-- [KEXP: Hunx and His Punx - Mud In Your Eyes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-mud-in-your-eyes-live-on-kexp-5b22)
+- [How Does MODPA&#39;s Approach to Sensitive Data Differ from Other State Laws?](https://dev.to/mehwish_malik_4f29ff7fb04/how-does-modpas-approach-to-sensitive-data-differ-from-other-state-laws-35ej)
+- [Typing the untypable: generating Python .pyi stubs](https://dev.to/art_vasilyev/typing-the-untypable-generating-python-pyi-stubs-23ci)
+- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
+- [Your Complete Event Sourcing Toolkit: The Genesis DB VS Code Extension](https://dev.to/patriceckhart/your-complete-event-sourcing-toolkit-the-genesis-db-vs-code-extension-36d2)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_06022d8b/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-ife)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
