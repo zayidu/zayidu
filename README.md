@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4ip9)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-31h)
-- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-4fm4)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4jbp)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5eg5)
+- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
+- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
+- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
+- [5 Essential Command-Line Tools for Cybersecurity Beginners](https://dev.to/orioninsist/5-essential-command-line-tools-for-cybersecurity-beginners-4nh3)
+- [🚀 Blinter The Linter - A Cross Platform Batch Script Linter](https://dev.to/tboy1337/blinter-the-linter-a-cross-platform-batch-script-linter-158b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
