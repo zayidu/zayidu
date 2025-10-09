@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does MODPA&#39;s Approach to Sensitive Data Differ from Other State Laws?](https://dev.to/mehwish_malik_4f29ff7fb04/how-does-modpas-approach-to-sensitive-data-differ-from-other-state-laws-35ej)
-- [Typing the untypable: generating Python .pyi stubs](https://dev.to/art_vasilyev/typing-the-untypable-generating-python-pyi-stubs-23ci)
-- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
-- [Your Complete Event Sourcing Toolkit: The Genesis DB VS Code Extension](https://dev.to/patriceckhart/your-complete-event-sourcing-toolkit-the-genesis-db-vs-code-extension-36d2)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_06022d8b/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-ife)
+- [@LazySorted - Collections that optimize themselves. How useful?](https://dev.to/tao_dad_6e07b6dbc1fda07bd/lazysorted-collections-that-optimize-themselves-how-useful-33pm)
+- [Tired of TypeScript? Why ReScript Finally Clicked for Me &lpar;Narrative&rpar;](https://dev.to/cristiansifuentes/tired-of-typescript-why-rescript-finally-clicked-for-me-narrative-2d27)
+- [API-Led Connectivity - Practical Questions Answered](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-35ik)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-55o9)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
