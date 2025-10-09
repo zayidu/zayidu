@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pair programming with AI isn’t about outsourcing your thinking; it’s about enhancing your creativity.
-
-It gives you more mental bandwidth to focus on architecture, design, and problem-solving while automating the boring parts.](https://dev.to/jaideepparashar/pair-programming-with-ai-isnt-about-outsourcing-your-thinking-its-about-enhancing-your-3llg)
-- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
-- [Envisioning SagaV: a Tarot-Themed Mocktail Brand](https://dev.to/paaaarv/envisioning-sagav-a-tarot-themed-mocktail-brand-1dkp)
-- [Cursor +Trigger](https://dev.to/mugiil_b_dc9b71601cba396/cursor-trigger-2b55)
-- [The Hidden Backdoor in Your App: Fixing API Security Before It&#39;s Too Late](https://dev.to/vaibhav_shakya_e6b352bfc4/the-hidden-backdoor-in-your-app-fixing-api-security-before-its-too-late-15gd)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-o8p)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4im9)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-1n29)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-d58)
+- [Python Selenium Architecture](https://dev.to/roshan_rumaiza/python-selenium-architecture-26h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
