@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-4b43)
-- [Organizando testes com clareza: a técnica do Unfolding Tests](https://dev.to/augustohub-br/pt-br-organizando-testes-com-clareza-a-tecnica-do-unfolding-tests-26d3)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jhp)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-52k1)
-- [KEXP: Babe Rainbow - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-full-performance-live-on-kexp-3m06)
+- [How I Built a Nationwide Bowling Directory with Replit, Next.js, and AI](https://dev.to/gbae420/how-i-built-a-nationwide-bowling-directory-with-replit-nextjs-and-ai-3968)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_40446303/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-5h6)
+- [The Python Web Stack You&#39;ve Never Heard Of: Building Apps Without Frontend Code](https://dev.to/daisyauma/the-python-web-stack-youve-never-heard-of-building-apps-without-frontend-code-4oj5)
+- [Hi everyone, 
+
+I&#39;m Siddarth, and I&#39;m new here. I&#39;m currently learning DevOps tools and, as an enthusiast, looking to contribute to a few open-source projects. Could anyone please recommend some projects to me here?](https://dev.to/siddarthareddy_chitiki_c2/hi-everyone-im-siddarth-and-im-new-here-im-currently-learning-devops-tools-and-as-an-1cpi)
+- [💸 $200 Free Credits for GPT-5, Claude Sonnet 4.5 &amp; GLM-4+ APIs – No Card Needed!](https://dev.to/agentrouter/200-free-credits-for-gpt-5-claude-sonnet-45-glm-4-apis-no-card-needed-50of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
