@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
-- [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
-- [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
-- [Parametric and Non-Parametric tests](https://dev.to/roy_b5001e0ff9a27dea39641/parametric-and-non-parametric-tests-c40)
-- [Angular Interpolation Guide: Master Data Binding in Templates](https://dev.to/satyam_gupta_0d1ff2152dcc/angular-interpolation-guide-master-data-binding-in-templates-3g7a)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-4b43)
+- [Organizando testes com clareza: a técnica do Unfolding Tests](https://dev.to/augustohub-br/pt-br-organizando-testes-com-clareza-a-tecnica-do-unfolding-tests-26d3)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jhp)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-52k1)
+- [KEXP: Babe Rainbow - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-full-performance-live-on-kexp-3m06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
