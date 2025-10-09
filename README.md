@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smartwatch vs Fitness Tracker: Making the Right Choice](https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2)
-- [🚀 Rive Presentation Mode — The Smart Fix for Embed Hosting 🎥](https://dev.to/uianimation/rive-presentation-mode-the-smart-fix-for-embed-hosting-2jje)
-- [AWS IAM ACCESS ANALYSIS &amp; REPORTS](https://dev.to/ntsezenelvis/aws-iam-access-analysis-reports-31pc)
-- [Vector&#39;s VRL introduction &lpar;chapter 1&rpar;](https://dev.to/amarao/vectors-vrl-introduction-chapter-1-30p1)
-- [LinkedIn SDE Virtual Onsite Experience: Acing Medium-Level Questions + Efficient Prep Tips](https://dev.to/net_programhelp_e160eef28/linkedin-sde-virtual-onsite-experience-acing-medium-level-questions-efficient-prep-tips-1250)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4ip9)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-31h)
+- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-4fm4)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4jbp)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5eg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
