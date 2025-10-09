@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-234l)
-- [Building Vajra: My Journey Creating an AI Coding Assistant](https://dev.to/ashish_sharda_a540db2e50e/building-vajra-my-journey-creating-an-ai-coding-assistant-4i08)
-- [I Create Classic CSS Framework 🎉 🎉](https://dev.to/we-the-developers/i-create-classic-css-framework-l00)
-- [From Intelligence Expert to AI Business Leader: A Surprising Path](https://dev.to/adam-knitli/from-intelligence-expert-to-ai-business-leader-a-surprising-path-4gj7)
-- [How I created a Java e-commerce platform when I just wanted to help my brother](https://dev.to/ruslan5t/how-i-created-a-java-e-commerce-platform-when-i-just-wanted-to-help-my-brother-3pmo)
+- [Building a source-inspired game engine from scratch in C++ – Project32](https://dev.to/retroboi64/building-a-source-inspired-game-engine-from-scratch-in-c-project32-2k93)
+- [🏢 Why Spring Boot, Kafka, Oracle, and Tomcat Still Power the Enterprise in 2025](https://dev.to/steven_nguyen/why-spring-boot-kafka-oracle-and-tomcat-still-power-the-enterprise-in-2025-2pie)
+- [AI&#39;s Rapid Evolution: Models, Markets, and Mounting Ethical Concerns](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-evolution-models-markets-and-mounting-ethical-concerns-2hj5)
+- [How Technical SEO Shapes SaaS Growth in 2025](https://dev.to/zhngryn/how-technical-seo-shapes-saas-growth-in-2025-6d)
+- [Setting up Automatic Deployment from one repository to another](https://dev.to/tousifizaz/setting-up-automatic-deployment-from-one-repository-to-another-33ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
