@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
-- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
-- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
-- [5 Essential Command-Line Tools for Cybersecurity Beginners](https://dev.to/orioninsist/5-essential-command-line-tools-for-cybersecurity-beginners-4nh3)
-- [🚀 Blinter The Linter - A Cross Platform Batch Script Linter](https://dev.to/tboy1337/blinter-the-linter-a-cross-platform-batch-script-linter-158b)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3pgo)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-4ela)
+- [The Data Science Tech Stack you must master in 2025](https://dev.to/hew/the-data-science-tech-stack-you-must-master-in-2025-1fkd)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1iep)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-21p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
