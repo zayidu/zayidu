@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a source-inspired game engine from scratch in C++ – Project32](https://dev.to/retroboi64/building-a-source-inspired-game-engine-from-scratch-in-c-project32-2k93)
-- [🏢 Why Spring Boot, Kafka, Oracle, and Tomcat Still Power the Enterprise in 2025](https://dev.to/steven_nguyen/why-spring-boot-kafka-oracle-and-tomcat-still-power-the-enterprise-in-2025-2pie)
-- [AI&#39;s Rapid Evolution: Models, Markets, and Mounting Ethical Concerns](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-evolution-models-markets-and-mounting-ethical-concerns-2hj5)
-- [How Technical SEO Shapes SaaS Growth in 2025](https://dev.to/zhngryn/how-technical-seo-shapes-saas-growth-in-2025-6d)
-- [Setting up Automatic Deployment from one repository to another](https://dev.to/tousifizaz/setting-up-automatic-deployment-from-one-repository-to-another-33ce)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-54kd)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-12e3)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-3136)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-622)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-53ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
