@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Preparing Your IoT Fleet for T-Mobile’s LTE Phase-Out](https://dev.to/applekoiot/preparing-your-iot-fleet-for-t-mobiles-lte-phase-out-3p6b)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2a56)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-33f4)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-i5a)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4idi)
+- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://dev.to/yos/what-is-web3-attribution-how-to-build-an-onchain-attribution-system-3j3e)
+- [The Latest in Railroad Industry News: Updates and Analysis](https://dev.to/ayesha-diaz/the-latest-in-railroad-industry-news-updates-and-analysis-37k2)
+- [Why Most African Websites Fail — And How to Succeed in 2025](https://dev.to/service_maxsell_64ece3f66/why-most-african-websites-fail-and-how-to-succeed-in-2025-e53)
+- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
+- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
