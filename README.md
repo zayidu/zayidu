@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Autocomplete: A practical guide to AI-Assisted Development](https://dev.to/jackmarchant/beyond-autocomplete-a-practical-guide-to-ai-assisted-development-ldb)
-- [🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.](https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po)
-- [TCJSGame Advanced Architecture: Building Scalable, Maintainable Games](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k)
-- [Understanding From and Into Traits in Rust](https://dev.to/masteringbackend/understanding-from-and-into-traits-in-rust-2mgi)
-- [From Quote to Shipment in Business Central: Are You Being Replaced?](https://dev.to/insight_works/from-quote-to-shipment-in-business-central-are-you-being-replaced-4i21)
+- [Track your TODO list from the Command Line: Taskwarrior](https://dev.to/kelpopko/track-your-todo-list-from-the-command-line-taskwarrior-2ngc)
+- [AI&#39;s Rapid Ascent: Breakthroughs, Market Dynamics, and Ethical Crossroads](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-ascent-breakthroughs-market-dynamics-and-ethical-crossroads-4a1g)
+- [Automate Your Google Workspace with Apps Script Triggers](https://dev.to/googleworkspace/automate-your-google-workspace-with-apps-script-triggers-5090)
+- [第 10 课：Freqtrade交易对选择与测试](https://dev.to/henry_lin_3ac6363747f45b4/di-10-ke-freqtradejiao-yi-dui-xuan-ze-yu-ce-shi-3198)
+- [第 9 课：Freqtrade时间范围测试](https://dev.to/henry_lin_3ac6363747f45b4/di-9-ke-freqtradeshi-jian-fan-wei-ce-shi-1l7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
