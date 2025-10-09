@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Track your TODO list from the Command Line: Taskwarrior](https://dev.to/kelpopko/track-your-todo-list-from-the-command-line-taskwarrior-2ngc)
-- [AI&#39;s Rapid Ascent: Breakthroughs, Market Dynamics, and Ethical Crossroads](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-ascent-breakthroughs-market-dynamics-and-ethical-crossroads-4a1g)
-- [Automate Your Google Workspace with Apps Script Triggers](https://dev.to/googleworkspace/automate-your-google-workspace-with-apps-script-triggers-5090)
-- [第 10 课：Freqtrade交易对选择与测试](https://dev.to/henry_lin_3ac6363747f45b4/di-10-ke-freqtradejiao-yi-dui-xuan-ze-yu-ce-shi-3198)
-- [第 9 课：Freqtrade时间范围测试](https://dev.to/henry_lin_3ac6363747f45b4/di-9-ke-freqtradeshi-jian-fan-wei-ce-shi-1l7e)
+- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-234l)
+- [Building Vajra: My Journey Creating an AI Coding Assistant](https://dev.to/ashish_sharda_a540db2e50e/building-vajra-my-journey-creating-an-ai-coding-assistant-4i08)
+- [I Create Classic CSS Framework 🎉 🎉](https://dev.to/we-the-developers/i-create-classic-css-framework-l00)
+- [From Intelligence Expert to AI Business Leader: A Surprising Path](https://dev.to/adam-knitli/from-intelligence-expert-to-ai-business-leader-a-surprising-path-4gj7)
+- [How I created a Java e-commerce platform when I just wanted to help my brother](https://dev.to/ruslan5t/how-i-created-a-java-e-commerce-platform-when-i-just-wanted-to-help-my-brother-3pmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
