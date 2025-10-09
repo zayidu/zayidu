@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [@LazySorted - Collections that optimize themselves. How useful?](https://dev.to/tao_dad_6e07b6dbc1fda07bd/lazysorted-collections-that-optimize-themselves-how-useful-33pm)
-- [Tired of TypeScript? Why ReScript Finally Clicked for Me &lpar;Narrative&rpar;](https://dev.to/cristiansifuentes/tired-of-typescript-why-rescript-finally-clicked-for-me-narrative-2d27)
-- [API-Led Connectivity - Practical Questions Answered](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-35ik)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-55o9)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-a3)
+- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
+- [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
+- [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
+- [Parametric and Non-Parametric tests](https://dev.to/roy_b5001e0ff9a27dea39641/parametric-and-non-parametric-tests-c40)
+- [Angular Interpolation Guide: Master Data Binding in Templates](https://dev.to/satyam_gupta_0d1ff2152dcc/angular-interpolation-guide-master-data-binding-in-templates-3g7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
