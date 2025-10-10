@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Don’t Think About It&quot;: Why the Brain Thinks the Opposite &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/dont-think-about-it-why-the-brain-thinks-the-opposite-bite-size-article-1ah6)
-- [The Solo Developer&#39;s Product Stack: 4 Things I Wish I&#39;d Set Up From Day One](https://dev.to/shayy/the-solo-developers-product-stack-4-things-i-wish-id-set-up-from-day-one-158j)
-- [Book Review — The Creative Act: A Way of Being by Rick Rubin](https://dev.to/aileenvl/book-review-the-creative-act-a-way-of-being-by-rick-rubin-5eeb)
-- [Data in Everyday Life](https://dev.to/mubby042/data-in-everyday-life-15j1)
-- [🐼 Pandas DataFrame Selection, Filtering &amp; Cleaning — Hands-on Practice.](https://dev.to/ashok_kumar_564581944e3ef/pandas-dataframe-selection-filtering-cleaning-hands-on-practice-309i)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-52no)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-381l)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-265l)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-16ln)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
