@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-5e74)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-58e7)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3ckm)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4nd2)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-no5)
+- [Setting up &lpar;vite+react&rpar; project with shadcn ui.](https://dev.to/limoh653/setting-up-vitereact-project-with-shadcn-ui-2hmn)
+- [The &#39;Lift-and-Shift&#39; Trap: 5 Reasons Your Cloud Migration Is Doomed Before Day One](https://dev.to/jerrywarrenfc/the-lift-and-shift-trap-5-reasons-your-cloud-migration-is-doomed-before-day-one-59o3)
+- [Intelligence-Driven QA: Building Trust in the Digital Age](https://dev.to/qentelli/intelligence-driven-qa-building-trust-in-the-digital-age-jeh)
+- [It’s Never Too Early to Think About Performance](https://dev.to/mrkoubi/its-never-too-early-to-think-about-performance-18ac)
+- [From Hours to Minutes: How Dmall Cuts Data Integration Costs to 1/3 with Apache SeaTunnel?](https://dev.to/seatunnel/from-hours-to-minutes-how-dmall-cuts-data-integration-costs-to-13-with-apache-seatunnel-6ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
