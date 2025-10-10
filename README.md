@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From CAP to GAP?](https://dev.to/omanfk/from-cap-to-gap-269h)
-- [Make Any Angular List Draggable in Minutes](https://dev.to/brianmtreese/make-any-angular-list-draggable-in-minutes-3fmb)
-- [Building Production-Ready AI Agents with Amazon Bedrock AgentCore.](https://dev.to/kraisorn_prasoetsang/building-production-ready-ai-agents-with-amazon-bedrock-agentcore-hdn)
-- [Every Line of Code Is a Philosophy in Disguise](https://dev.to/rohit_gavali_0c2ad84fe4e0/every-line-of-code-is-a-philosophy-in-disguise-51lf)
-- [Quillion - Python Web Framework for Backend Developers](https://dev.to/idk_286a588368add3573523c/quillion-python-web-framework-for-backend-developers-1k29)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-5e74)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-58e7)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3ckm)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4nd2)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-no5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
