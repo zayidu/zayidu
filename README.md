@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Faster Development Feedback with LocalStack: Lessons from the Software Development Lifecycle](https://dev.to/kiwimike/enabling-faster-development-feedback-with-localstack-lessons-from-the-software-development-m2l)
-- [Excited to Contribute](https://dev.to/hankvscode2024/excited-to-contribute-4626)
-- [Builders&#39; Challenge v3](https://dev.to/nosana/builders-challenge-v3-2979)
-- [Apache ZooKeeper: The Unsung Hero of Distributed Systems](https://dev.to/zhangwei42/apache-zookeeper-the-unsung-hero-of-distributed-systems-4h1g)
-- [SQL is King, But is it Your Only Ruler? A Developer&#39;s Guide to NoSQL](https://dev.to/kallileiser/sql-is-king-but-is-it-your-only-ruler-a-developers-guide-to-nosql-22la)
+- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
+- [End-to-End YouTube Channel Analytics Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/end-to-end-youtube-channel-analytics-pipeline-4b6n)
+- [🛡️ OCTAL ACCESS RIGHTS IN LINUX: A COMPLETE GUIDE](https://dev.to/dima853/octal-access-rights-in-linux-a-complete-guide-3kj0)
+- [That Harmless QR Code Could Be Your Next Breach.](https://dev.to/akuson/that-harmless-qr-code-could-be-your-next-breach-59dd)
+- [I Built a Real-Time Analytics Platform to Track MrBeast’s YouTube Channel](https://dev.to/augo_amos/building-a-real-time-youtube-analytics-platform-with-airflow-postgresql-grafana-1k12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
