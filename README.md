@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 React’s Dirty Secret: How React Re-Renders Are Destroying Your App Performance &lpar;And How to Fix It!&rpar;](https://dev.to/ekwoster/reacts-dirty-secret-how-react-re-renders-are-destroying-your-app-performance-and-how-to-fix-3k61)
-- [Mastering Java Output: A Complete Guide to System.out, Files, and More](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-java-output-a-complete-guide-to-systemout-files-and-more-3jge)
-- [Key Insights on Google Gemini Enterprise](https://dev.to/gruve_abby_2bb4e7e1499283/key-insights-on-google-gemini-enterprise-3mk1)
-- [Local Storage: From Cookies to Web Storage and IndexedDB](https://dev.to/jackm_345442a09fb53b/local-storage-from-cookies-to-web-storage-and-indexeddb-1af7)
-- [Your First Step into Coding: A Beginner&#39;s Guide to Getting Started with Java](https://dev.to/satyam_gupta_0d1ff2152dcc/your-first-step-into-coding-a-beginners-guide-to-getting-started-with-java-1693)
+- [🚀 Week 3 – Spring Data JPA &amp; CRUD Operations in Spring Boot](https://dev.to/tejasvi_urkande/week-3-spring-data-jpa-crud-operations-in-spring-boot-26bg)
+- [Building a Task Management MCP Server with Laravel](https://dev.to/blamsa0mine/building-a-task-management-mcp-server-with-laravel-1eed)
+- [AWS EC2 Series](https://dev.to/ntsezenelvis/aws-ec2-series-53i5)
+- [What is a Large Language Model &lpar;LLM&rpar;](https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca)
+- [Building a Production-Ready LMS Platform: A Complete Guide to Modern EdTech Architecture](https://dev.to/nadim_ch0wdhury/building-a-production-ready-lms-platform-a-complete-guide-to-modern-edtech-architecture-16ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
