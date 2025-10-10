@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
-- [End-to-End YouTube Channel Analytics Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/end-to-end-youtube-channel-analytics-pipeline-4b6n)
-- [🛡️ OCTAL ACCESS RIGHTS IN LINUX: A COMPLETE GUIDE](https://dev.to/dima853/octal-access-rights-in-linux-a-complete-guide-3kj0)
-- [That Harmless QR Code Could Be Your Next Breach.](https://dev.to/akuson/that-harmless-qr-code-could-be-your-next-breach-59dd)
-- [I Built a Real-Time Analytics Platform to Track MrBeast’s YouTube Channel](https://dev.to/augo_amos/building-a-real-time-youtube-analytics-platform-with-airflow-postgresql-grafana-1k12)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-447k)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-44p1)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3bg9)
+- [Wallet-as-a-Service: The Secret Weapon Web3 Founders Can’t Ignore](https://dev.to/k_wilson/wallet-as-a-service-the-secret-weapon-web3-founders-cant-ignore-43m2)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-lej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
