@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
-- [How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide](https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm)
-- [Building Scalable Multi-Tenant Integrations: Lessons from Real-World SaaS Projects](https://dev.to/genesis_technologies/building-scalable-multi-tenant-integrations-lessons-from-real-world-saas-projects-43cl)
-- [An AI Literally Attempted Murder To Avoid Shutdown:](https://dev.to/dehemi_fabio/an-ai-literally-attempted-murder-to-avoid-shutdown-716)
-- [How to Create and Configure Virtual Networks in Azure](https://dev.to/adeyemo/how-to-create-and-configure-virtual-networks-in-azure-2ga6)
+- [Enabling Faster Development Feedback with LocalStack: Lessons from the Software Development Lifecycle](https://dev.to/kiwimike/enabling-faster-development-feedback-with-localstack-lessons-from-the-software-development-m2l)
+- [Excited to Contribute](https://dev.to/hankvscode2024/excited-to-contribute-4626)
+- [Builders&#39; Challenge v3](https://dev.to/nosana/builders-challenge-v3-2979)
+- [Apache ZooKeeper: The Unsung Hero of Distributed Systems](https://dev.to/zhangwei42/apache-zookeeper-the-unsung-hero-of-distributed-systems-4h1g)
+- [SQL is King, But is it Your Only Ruler? A Developer&#39;s Guide to NoSQL](https://dev.to/kallileiser/sql-is-king-but-is-it-your-only-ruler-a-developers-guide-to-nosql-22la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
