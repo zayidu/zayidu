@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/analysis-attention-is-all-you-need-i9i)
-- [In-Depth Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/in-depth-analysis-attention-is-all-you-need-267n)
-- [🧠 Como criar uma Fluent API no TypeORM &lpar;igual ao Entity Framework&rpar;](https://dev.to/jhonesgoncalves/como-criar-uma-fluent-api-no-typeorm-igual-ao-entity-framework-5ed)
-- [8 Mistakes New Freelance Engineers Make and How to Fix Them](https://dev.to/remotebranch/8-mistakes-new-freelance-engineers-make-and-how-to-fix-them-1ng2)
-- [Sorting encrypted data without decryption: a practical trick](https://dev.to/artabramov/sorting-encrypted-data-without-decryption-a-practical-trick-1118)
+- [🔥 React’s Dirty Secret: How React Re-Renders Are Destroying Your App Performance &lpar;And How to Fix It!&rpar;](https://dev.to/ekwoster/reacts-dirty-secret-how-react-re-renders-are-destroying-your-app-performance-and-how-to-fix-3k61)
+- [Mastering Java Output: A Complete Guide to System.out, Files, and More](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-java-output-a-complete-guide-to-systemout-files-and-more-3jge)
+- [Key Insights on Google Gemini Enterprise](https://dev.to/gruve_abby_2bb4e7e1499283/key-insights-on-google-gemini-enterprise-3mk1)
+- [Local Storage: From Cookies to Web Storage and IndexedDB](https://dev.to/jackm_345442a09fb53b/local-storage-from-cookies-to-web-storage-and-indexeddb-1af7)
+- [Your First Step into Coding: A Beginner&#39;s Guide to Getting Started with Java](https://dev.to/satyam_gupta_0d1ff2152dcc/your-first-step-into-coding-a-beginners-guide-to-getting-started-with-java-1693)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
