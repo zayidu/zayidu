@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is DevRel Just About Events, or Something Deeper?](https://dev.to/pratikmahalle/is-devrel-just-about-events-or-something-deeper-40fc)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-5hfl)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-569p)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4co9)
+- [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
+- [How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide](https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm)
+- [Building Scalable Multi-Tenant Integrations: Lessons from Real-World SaaS Projects](https://dev.to/genesis_technologies/building-scalable-multi-tenant-integrations-lessons-from-real-world-saas-projects-43cl)
+- [An AI Literally Attempted Murder To Avoid Shutdown:](https://dev.to/dehemi_fabio/an-ai-literally-attempted-murder-to-avoid-shutdown-716)
+- [How to Create and Configure Virtual Networks in Azure](https://dev.to/adeyemo/how-to-create-and-configure-virtual-networks-in-azure-2ga6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
