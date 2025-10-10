@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `&#39;PropsWithChildren&#39;` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie)
-- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c)
-- [Refactoring My Code and Rewriting Git History](https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e)
-- [Architectural vs Transport Asynchrony: What Most Engineers Get Wrong About Async Systems](https://dev.to/komelgman/architectural-vs-transport-asynchrony-what-most-engineers-get-wrong-about-async-systems-5dkj)
-- [What is Dependency Injection in Laravel?](https://dev.to/laracopilot/what-is-dependency-injection-in-laravel-2fp)
+- [smartsence - siddhi](https://dev.to/sidatgithubcode/smartsence-siddhi-4cgo)
+- [Converting HEIC image extension in Node.js with the sharp library](https://dev.to/ilyasa1211/converting-heic-image-extension-in-nodejs-with-the-sharp-library-39mg)
+- [My Journey Refactoring Code and Rebase with Git](https://dev.to/hsachdeva9/my-journey-refactoring-code-and-rebase-with-git-3hek)
+- [Postman vs EchoAPI：AIとノーコードでアサーションをもっとラクにした話](https://dev.to/waterlily_0f365e5fadded0f/postman-vs-echoapiaitonokododeasasiyonwomotutorakunisitahua-4k24)
+- [In 2025, your resume is not for humans.](https://dev.to/jnelken/in-2025-your-resume-is-not-for-humans-1od0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
