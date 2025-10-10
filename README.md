@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with Hardware: HWID Spoofers and BANS!](https://dev.to/mina_tremblay_9ae0fef8e42/my-experience-with-hardware-hwid-spoofers-and-bans-59g4)
-- [Database Normalization: From 1NF to 3NF](https://dev.to/nahuleswaran_s24cb031_b4/database-normalization-from-1nf-to-3nf-1mog)
-- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
-- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
-- [Why QA Should Be Involved Early in the Software Development Lifecycle](https://dev.to/misterankit/why-qa-should-be-involved-early-in-the-software-development-lifecycle-169g)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
