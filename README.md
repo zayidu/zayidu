@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Embedded Devices with TFT LCDs and Android SBCs](https://dev.to/lauraaa/building-smarter-embedded-devices-with-tft-lcds-and-android-sbcs-25ke)
-- [🚀 Building a Serverless TODO App with AWS + Vercel — My First AWS Project](https://dev.to/balaji_sivakumar_e7a4b07a/building-a-serverless-todo-app-with-aws-vercel-my-first-aws-project-1h1m)
-- [From Script Chaos to AI-Powered Efficiency: How EchoAPI Transforms Dynamic Variable Generation in API Testing](https://dev.to/eleanor_fairfax_5ce95399d/from-script-chaos-to-ai-powered-efficiency-how-echoapi-transforms-dynamic-variable-generation-in-37k4)
-- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
-- [Postmanの限界を越えて：EchoAPIで体験するAIドキュメント生成のフルプロセス](https://dev.to/waterlily_0f365e5fadded0f/postmannoxian-jie-woyue-eteechoapideti-yan-suruaidokiyumentosheng-cheng-nohurupurosesu-284g)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-a2m)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2b3o)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-50e7)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-531g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
