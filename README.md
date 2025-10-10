@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-52no)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-381l)
-- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-265l)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-16ln)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4jg)
+- [ZKP](https://dev.to/nairsreya/zkp-2o8j)
+- [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
+- [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
+- [LatamBoard: Building Open, Transparent AI Evaluation for Latin America](https://dev.to/mauro_ibaez_f9e7f91f932a/latamboard-building-open-transparent-ai-evaluation-for-latin-america-2kp7)
+- [Reduce Variability and Optimize Routing Accuracy in Business Central](https://dev.to/insight_works/reduce-variability-and-optimize-routing-accuracy-in-business-central-4kdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
