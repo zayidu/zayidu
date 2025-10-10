@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-33f2)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2f4o)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-410l)
-- [KEXP: Wet Leg - CPR &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-cpr-live-on-kexp-2d82)
-- [KEXP: Wet Leg - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-full-performance-live-on-kexp-2gkb)
+- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
+- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
+- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
+- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
+- [Automatiser le rebalancement de portefeuille avec une API &lpar;exemple pratique&rpar;](https://dev.to/joachimdi/automatiser-le-rebalancement-de-portefeuille-avec-une-api-exemple-pratique-56ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
