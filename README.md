@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ZKP](https://dev.to/nairsreya/zkp-2o8j)
-- [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
-- [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
-- [LatamBoard: Building Open, Transparent AI Evaluation for Latin America](https://dev.to/mauro_ibaez_f9e7f91f932a/latamboard-building-open-transparent-ai-evaluation-for-latin-america-2kp7)
-- [Reduce Variability and Optimize Routing Accuracy in Business Central](https://dev.to/insight_works/reduce-variability-and-optimize-routing-accuracy-in-business-central-4kdb)
+- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-33f2)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2f4o)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-410l)
+- [KEXP: Wet Leg - CPR &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-cpr-live-on-kexp-2d82)
+- [KEXP: Wet Leg - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-full-performance-live-on-kexp-2gkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
