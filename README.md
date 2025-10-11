@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Persistent Solana Docker Environment on Windows &lpar;Without WSL&rpar;](https://dev.to/heyradcode/building-a-persistent-solana-docker-environment-on-windows-without-wsl-388l)
-- [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
-- [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
-- [From Development to Deployment: How DevOps Automation Is Speeding Up Software Releases](https://dev.to/ryan-mathews/from-development-to-deployment-how-devops-automation-is-speeding-up-software-releases-59d1)
-- [Untitled](https://dev.to/jayson_wang_10f488e99ba30/untitled-g7o)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2af)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-21jn)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-2cjm)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5d9k)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-58dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
