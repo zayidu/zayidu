@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using SSH Keys in GitHub Actions &lpar;Here&#39;s What to Use Instead&rpar;](https://dev.to/alpacax/stop-using-ssh-keys-in-github-actions-heres-what-to-use-instead-1mbe)
-- [How to Set Up NativeWind &lpar;Tailwind CSS&rpar; in Your Expo React Native App](https://dev.to/cathylai/how-to-set-up-nativewind-tailwind-css-in-your-expo-react-native-app-5g23)
-- [Refactoring Code &amp;&amp; Git Rebase](https://dev.to/elsad_humbetli_0971c995ce/refactoring-code-git-rebase-2kpm)
-- [Onion Architecture &lpar;Arquitetura Cebola&rpar;](https://dev.to/yuripeixinho/onion-architecture-arquitetura-cebola-3e2a)
-- [Title: Harnessing Nuclear Energy for Bitcoin Mining: A French Parliamentary Proposal](https://dev.to/yagyaraj_sharma_6cd410179/title-harnessing-nuclear-energy-for-bitcoin-mining-a-french-parliamentary-proposal-3i8c)
+- [St Clements Education and Prof. Dr. Bilal Semih Bozdemir](https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi)
+- [🐳 Enterprise-Grade Containerization for Node.js Backends](https://dev.to/it-wibrc/enterprise-grade-containerization-for-nodejs-backends-38bg)
+- [Maggie Rhyming Time Book for Preschoolers: A Fun Learning Journey](https://dev.to/teri_farrari_c04176ee67da/maggie-rhyming-time-book-for-preschoolers-a-fun-learning-journey-2pdg)
+- [itertools in Python &lpar;10&rpar;](https://dev.to/hyperkai/itertools-in-python-10-19kg)
+- [Daily Artificial Intelligence Digest - Oct 11, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-11-2025-549m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
