@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modernize Open Source Nuxt.js Admin Dashboard: A Comprehensive Overview](https://dev.to/vaibhavg/modernize-open-source-nuxtjs-admin-dashboard-a-comprehensive-overview-2j19)
-- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia)
-- [Data Analysis Pandas/Numpy Notes](https://dev.to/raja_sekaran_a1319259e6f1/data-analysis-pandasnumpy-notes-41d6)
-- [Introducing Honey Nudger, and Why We&#39;re Launching with a Founder&#39;s Circle](https://dev.to/honeynudger/introducing-honey-nudger-and-why-were-launching-with-a-founders-circle-2o1c)
-- [Wild and Dangling Pointers in C](https://dev.to/godinhojoao/wild-and-dangling-pointers-in-c-3kj5)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-26eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
