@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4bi0)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1bdg)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1hb1)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-38n4)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-n55)
+- [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
+- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
+- [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
+- [Selectorless Components in Angular 20+: The Secret Agents of the Modern Framework](https://dev.to/nurrehman/selectorless-components-in-angular-20-the-secret-agents-of-the-modern-framework-4dfk)
+- [Add composer package using path for development](https://dev.to/orfeo/add-composer-package-using-path-for-development-795)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
