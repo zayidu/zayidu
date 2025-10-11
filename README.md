@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3jn1)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4c1)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aie)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-55g5)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-5b0a)
+- [Redis: The Unsung Hero of Modern Software Architecture](https://dev.to/igornosatov_15/redis-the-unsung-hero-of-modern-software-architecture-1866)
+- [Review of the Substack platform in 2019](https://dev.to/leon_lin_s/review-of-the-substack-platform-in-2019-59pe)
+- [HOW EMBEDDINGS POWER DAILY SYSTEMS](https://dev.to/geo-hack/how-embeddings-power-daily-systems-1jnb)
+- [Day 2: Starting of MERN stack journey from the prerequisites &lpar;CSS&rpar;](https://dev.to/niladri_banerjee_98/day-2-starting-of-mern-stack-journey-from-the-prerequisites-css-4i7e)
+- [LLM&#39;ler neyi yapmakta iyiler?](https://dev.to/cihad/llmler-neyi-yapmakta-iyiler-4k7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
