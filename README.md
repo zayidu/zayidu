@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
-- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
-- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
-- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
-- [Automatiser le rebalancement de portefeuille avec une API &lpar;exemple pratique&rpar;](https://dev.to/joachimdi/automatiser-le-rebalancement-de-portefeuille-avec-une-api-exemple-pratique-56ji)
+- [Stop Using SSH Keys in GitHub Actions &lpar;Here&#39;s What to Use Instead&rpar;](https://dev.to/alpacax/stop-using-ssh-keys-in-github-actions-heres-what-to-use-instead-1mbe)
+- [How to Set Up NativeWind &lpar;Tailwind CSS&rpar; in Your Expo React Native App](https://dev.to/cathylai/how-to-set-up-nativewind-tailwind-css-in-your-expo-react-native-app-5g23)
+- [Refactoring Code &amp;&amp; Git Rebase](https://dev.to/elsad_humbetli_0971c995ce/refactoring-code-git-rebase-2kpm)
+- [Onion Architecture &lpar;Arquitetura Cebola&rpar;](https://dev.to/yuripeixinho/onion-architecture-arquitetura-cebola-3e2a)
+- [Title: Harnessing Nuclear Energy for Bitcoin Mining: A French Parliamentary Proposal](https://dev.to/yagyaraj_sharma_6cd410179/title-harnessing-nuclear-energy-for-bitcoin-mining-a-french-parliamentary-proposal-3i8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
