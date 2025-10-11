@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [St Clements Education and Prof. Dr. Bilal Semih Bozdemir](https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi)
-- [🐳 Enterprise-Grade Containerization for Node.js Backends](https://dev.to/it-wibrc/enterprise-grade-containerization-for-nodejs-backends-38bg)
-- [Maggie Rhyming Time Book for Preschoolers: A Fun Learning Journey](https://dev.to/teri_farrari_c04176ee67da/maggie-rhyming-time-book-for-preschoolers-a-fun-learning-journey-2pdg)
-- [itertools in Python &lpar;10&rpar;](https://dev.to/hyperkai/itertools-in-python-10-19kg)
-- [Daily Artificial Intelligence Digest - Oct 11, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-11-2025-549m)
+- [Building a Persistent Solana Docker Environment on Windows &lpar;Without WSL&rpar;](https://dev.to/heyradcode/building-a-persistent-solana-docker-environment-on-windows-without-wsl-388l)
+- [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
+- [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
+- [From Development to Deployment: How DevOps Automation Is Speeding Up Software Releases](https://dev.to/ryan-mathews/from-development-to-deployment-how-devops-automation-is-speeding-up-software-releases-59d1)
+- [Untitled](https://dev.to/jayson_wang_10f488e99ba30/untitled-g7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
