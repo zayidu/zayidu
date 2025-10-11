@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
-- [[Boost]](https://dev.to/fmerian/-n16)
-- [Leveling Up in Back-End Development with Meta’s Coursera Course 🚀](https://dev.to/thiyagu26v/leveling-up-in-back-end-development-with-metas-coursera-course-37h0)
-- [Simplifiez vos workflows DevOps avec Task, le &quot;Makefile&quot; moderne](https://dev.to/laformulenuagique/simplifiez-vos-workflows-devops-avec-task-le-makefile-moderne-1coa)
-- [The Sculptor&#39;s Studio: YAGNI, KISSS, and DRY as Tools of the Trade](https://dev.to/alex_aslam/the-sculptors-studio-yagni-kisss-and-dry-as-tools-of-the-trade-ekm)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4kl1)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-27kf)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-5ejl)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-i03)
+- [IGN: Tekken 8 - Armor King Early Look and Starter Guide](https://dev.to/gg_news/ign-tekken-8-armor-king-early-look-and-starter-guide-22n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
