@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stopping Bad Actors: Inside 1Password’s Security Model](https://dev.to/edeckers/stopping-bad-actors-inside-1passwords-security-model-14c)
-- [🌐 Understanding Container Networking: Podman, Docker, and the CNI Model](https://dev.to/it-wibrc/understanding-container-networking-podman-docker-and-the-cni-model-3208)
-- [Agile برای تازه‌کارها: ساده‌تر از چیزی که فکر می‌کنید](https://dev.to/parizad/agile-bry-tzhkhrh-sdhtr-z-chyzy-khh-fkhr-mykhnyd-439p)
-- [The Ecosystem Imperative: How Kenyan Tech Must Shift from Building Products to Weaving Intelligent Platforms](https://dev.to/kennedy01crypto/the-ecosystem-imperative-how-kenyan-tech-must-shift-from-building-products-to-weaving-intelligent-bd2)
-- [A tangled web of deals stokes AI bubble fears in Silicon Valley](https://dev.to/mabualzait/a-tangled-web-of-deals-stokes-ai-bubble-fears-in-silicon-valley-1ll4)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3jn1)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4c1)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aie)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-55g5)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-5b0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
