@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4)
-- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f)
-- [How I Stay Productive and Keep Learning as a Software Engineer &lpar;Even Without a Full-Time Job&rpar;](https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373)
+- [Stopping Bad Actors: Inside 1Password’s Security Model](https://dev.to/edeckers/stopping-bad-actors-inside-1passwords-security-model-14c)
+- [🌐 Understanding Container Networking: Podman, Docker, and the CNI Model](https://dev.to/it-wibrc/understanding-container-networking-podman-docker-and-the-cni-model-3208)
+- [Agile برای تازه‌کارها: ساده‌تر از چیزی که فکر می‌کنید](https://dev.to/parizad/agile-bry-tzhkhrh-sdhtr-z-chyzy-khh-fkhr-mykhnyd-439p)
+- [The Ecosystem Imperative: How Kenyan Tech Must Shift from Building Products to Weaving Intelligent Platforms](https://dev.to/kennedy01crypto/the-ecosystem-imperative-how-kenyan-tech-must-shift-from-building-products-to-weaving-intelligent-bd2)
+- [A tangled web of deals stokes AI bubble fears in Silicon Valley](https://dev.to/mabualzait/a-tangled-web-of-deals-stokes-ai-bubble-fears-in-silicon-valley-1ll4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
