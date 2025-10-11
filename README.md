@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4kl1)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-27kf)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-5ejl)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-i03)
-- [IGN: Tekken 8 - Armor King Early Look and Starter Guide](https://dev.to/gg_news/ign-tekken-8-armor-king-early-look-and-starter-guide-22n3)
+- [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
+- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
+- [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
+- [Basic Linux Command Using Ubuntu terminal environment.](https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie)
+- [Tome in the Valley](https://dev.to/shepherd_1ec15ed8e8d85ced/tome-in-the-valley-2f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
