@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-i53)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2mkf)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3fg4)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52k1)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-3f43)
+- [Built Vitality — An AI Wellness App That Actually Feels Useful](https://dev.to/kapillamba4/built-vitality-an-ai-wellness-app-that-actually-feels-useful-3m99)
+- [PSHCkS ARTICLES BY FLEXI DEV STUDIO ;TRUTH HACKS](https://dev.to/flexi_dev_4c0ce990523a164/pshcks-articles-by-flexi-dev-studio-truth-hacks-ill)
+- [FlexGlance; The weather reimagined✨](https://dev.to/flexi_dev_4c0ce990523a164/flexglance-the-weather-reimagined-36a)
+- [When I tell people I&#39;ve written 42 AI books using ChatGPT as my co-pilot, their first reaction is usually:
+
+“Which tool did you use?”
+
+But here’s the truth: &quot;The tool doesn’t matter. The prompting system does.&quot;](https://dev.to/jaideepparashar/when-i-tell-people-ive-written-42-ai-books-using-chatgpt-as-my-co-pilot-their-first-reaction-is-3cn7)
+- [I Wrote 42 Books Using ChatGPT: Here&#39;s What I Learned About Prompting](https://dev.to/jaideepparashar/i-wrote-42-books-using-chatgpt-heres-what-i-learned-about-prompting-5fc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
