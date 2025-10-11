@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
-- [Battle-Tested Coroutines: Advanced Tactics &amp; Common Traps](https://dev.to/kavearhasi_viswanathan/battle-tested-coroutines-advanced-tactics-common-traps-31e9)
-- [From Dashboards to Decisions: Building Self Service BI That Scales with AI](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica)
-- [Understanding Callbacks in JavaScript: A Beginner’s Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-callbacks-in-javascript-a-beginners-guide-to-asynchronous-programming-5hb6)
-- [[Boost]](https://dev.to/dyfet/-626)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-i53)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2mkf)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3fg4)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52k1)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-3f43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
