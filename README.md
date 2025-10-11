@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-35h4)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-1p0e)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-5c9)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-1pha)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-k24)
+- [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
+- [[Boost]](https://dev.to/fmerian/-n16)
+- [Leveling Up in Back-End Development with Meta’s Coursera Course 🚀](https://dev.to/thiyagu26v/leveling-up-in-back-end-development-with-metas-coursera-course-37h0)
+- [Simplifiez vos workflows DevOps avec Task, le &quot;Makefile&quot; moderne](https://dev.to/laformulenuagique/simplifiez-vos-workflows-devops-avec-task-le-makefile-moderne-1coa)
+- [The Sculptor&#39;s Studio: YAGNI, KISSS, and DRY as Tools of the Trade](https://dev.to/alex_aslam/the-sculptors-studio-yagni-kisss-and-dry-as-tools-of-the-trade-ekm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
