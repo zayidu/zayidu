@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
-- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
-- [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
-- [Selectorless Components in Angular 20+: The Secret Agents of the Modern Framework](https://dev.to/nurrehman/selectorless-components-in-angular-20-the-secret-agents-of-the-modern-framework-4dfk)
-- [Add composer package using path for development](https://dev.to/orfeo/add-composer-package-using-path-for-development-795)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52ej)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3mci)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-1k1c)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-52hm)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4fc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
