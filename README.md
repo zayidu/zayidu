@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
-- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
-- [Day 29 of python code series..](https://dev.to/momina_raheelmoona_c59/day-29-of-python-code-series-5die)
-- [Is Your Fridge About To Order Groceries For You? Demystifying the Metaverse&#39;s Sibling: The Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-sibling-the-internet-525d)
-- [What I Learned from Digging into the SolidCache Gem](https://dev.to/alisepehri/what-i-learned-from-digging-into-the-solidcache-gem-c1l)
+- [Understanding React Hooks: Simplifying State and Logic &lpar;Without Losing Your Mind&rpar;](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4o30)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-16pa)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-fja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
