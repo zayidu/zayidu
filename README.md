@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1cbi)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-21ep)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3ifk)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-25m7)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2fd8)
+- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
+- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
+- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
+- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
+- [Day 1 — Understanding Generative AI: A Simple Start for Beginners](https://dev.to/shiv_darshanrathore_402a/day-1-understanding-generative-ai-a-simple-start-for-beginners-539c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
