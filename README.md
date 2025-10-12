@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
-- [From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming](https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg)
-- [range in Python &lpar;2&rpar;](https://dev.to/hyperkai/range-in-python-2-12g6)
-- [Fully-Typed HTTP Router for AWS Lambda with Middy and Zod](https://dev.to/silviuglv/fully-typed-http-router-for-aws-lambda-with-middy-and-zod-3ch6)
-- [Ultimate Media Downloader: Download from 1000+ Platforms with One Command](https://dev.to/nitish_b1395fcf408eb8b30e/ultimate-media-downloader-download-from-1000-platforms-with-one-command-29h)
+- [Systems As Mirrors](https://dev.to/interstelios/systems-as-mirrors-3g5n)
+- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-49cf)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-502)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
