@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks: Simplifying State and Logic &lpar;Without Losing Your Mind&rpar;](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4o30)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-16pa)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-fja)
+- [Why Wikipedia cannot claim the Earth is not flat](https://dev.to/technoblogger14o3/why-wikipedia-cannot-claim-the-earth-is-not-flat-27ij)
+- [I Built a Terraform Reference Repository &lpar;So You Don&#39;t Have to Bang Your Head Against the Wall&rpar;](https://dev.to/chafroudtarek/i-built-a-terraform-reference-repository-so-you-dont-have-to-bang-your-head-against-the-wall-3po1)
+- [50 Most Useful Vue.js Snippets](https://dev.to/softwaredeveloper01/50-most-useful-vuejs-snippets-17bh)
+- [🧱 The SOLID Principles Explained &lpar;Like You’re a Developer Who Actually Writes Code&rpar;](https://dev.to/charan_gutti_cf60c6185074/the-solid-principles-explained-like-youre-a-developer-who-actually-writes-code-4jon)
+- [From Shelves to Pixels: Library Aesthetic Prompts for AI Art Creators](https://dev.to/graphicstrees/from-shelves-to-pixels-library-aesthetic-prompts-for-ai-art-creators-1hc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
