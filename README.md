@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Compass](https://dev.to/frosty_fucker_7d06058f3d8/compass-3mnm)
-- [WTF is WebRTC?](https://dev.to/dailybugle33/wtf-is-webrtc-53e1)
-- [Software Safety Consent Declaration – A simple security standard for developers](https://dev.to/yahiagaming495/software-safety-consent-declaration-a-simple-security-standard-for-developers-6bn)
-- [Why “Not Enough” Kills SaaS Growth](https://dev.to/sonu_goswami/why-not-enough-kills-saas-growth-374g)
-- [Simply Order &lpar;Part 4&rpar; — Reliable Events with the Outbox Pattern &lpar;Concepts&rpar;](https://dev.to/hassan314159/simply-order-part-4-reliable-events-with-the-outbox-pattern-concepts-55ko)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-30ci)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-ki2)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-mc6)
+- [IGN: So, Does Bubsy 4D Scatch an Itch or Choke on a Hairball? We Played it to Find Out](https://dev.to/gg_news/ign-so-does-bubsy-4d-scatch-an-itch-or-choke-on-a-hairball-we-played-it-to-find-out-5j)
+- [IGN: Ghost of Yotei Post-Game Guide: Endgame, NG+, and What to Do After the Credits](https://dev.to/gg_news/ign-ghost-of-yotei-post-game-guide-endgame-ng-and-what-to-do-after-the-credits-4m5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
