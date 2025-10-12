@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-30ci)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-ki2)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-mc6)
-- [IGN: So, Does Bubsy 4D Scatch an Itch or Choke on a Hairball? We Played it to Find Out](https://dev.to/gg_news/ign-so-does-bubsy-4d-scatch-an-itch-or-choke-on-a-hairball-we-played-it-to-find-out-5j)
-- [IGN: Ghost of Yotei Post-Game Guide: Endgame, NG+, and What to Do After the Credits](https://dev.to/gg_news/ign-ghost-of-yotei-post-game-guide-endgame-ng-and-what-to-do-after-the-credits-4m5g)
+- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
+- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
+- [Day 29 of python code series..](https://dev.to/momina_raheelmoona_c59/day-29-of-python-code-series-5die)
+- [Is Your Fridge About To Order Groceries For You? Demystifying the Metaverse&#39;s Sibling: The Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-sibling-the-internet-525d)
+- [What I Learned from Digging into the SolidCache Gem](https://dev.to/alisepehri/what-i-learned-from-digging-into-the-solidcache-gem-c1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
