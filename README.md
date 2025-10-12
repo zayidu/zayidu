@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-27p9)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-26p7)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-48ie)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3n30)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-25mb)
+- [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
+- [From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming](https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg)
+- [range in Python &lpar;2&rpar;](https://dev.to/hyperkai/range-in-python-2-12g6)
+- [Fully-Typed HTTP Router for AWS Lambda with Middy and Zod](https://dev.to/silviuglv/fully-typed-http-router-for-aws-lambda-with-middy-and-zod-3ch6)
+- [Ultimate Media Downloader: Download from 1000+ Platforms with One Command](https://dev.to/nitish_b1395fcf408eb8b30e/ultimate-media-downloader-download-from-1000-platforms-with-one-command-29h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
