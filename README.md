@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1ei2)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-565e)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-17pp)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-589p)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1d8m)
+- [Security Roadmap: Building a Strategic Path to Cyber Resilience](https://dev.to/writegenic/security-roadmap-building-a-strategic-path-to-cyber-resilience-51ng)
+- [🪙 Day 12 of #30DaysOfSolidity — Build Your Own ERC-20 Token using Foundry](https://dev.to/sauravkumar8178/day-12-of-30daysofsolidity-build-your-own-erc-20-token-using-foundry-51l9)
+- [Mastering Go Project Structure: Build Scalable &amp; Maintainable Go Apps](https://dev.to/ctrix/mastering-go-project-structure-build-scalable-maintainable-go-apps-30i5)
+- [I Spent $127K on AWS Before Realizing We Could Run on $8/Month](https://dev.to/vision2030/i-spent-127k-on-aws-before-realizing-we-could-run-on-8month-1313)
+- [What are Core Web Vitals?](https://dev.to/lovestaco/what-are-core-web-vitals-3a20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
