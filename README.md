@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Roadmap: Building a Strategic Path to Cyber Resilience](https://dev.to/writegenic/security-roadmap-building-a-strategic-path-to-cyber-resilience-51ng)
-- [🪙 Day 12 of #30DaysOfSolidity — Build Your Own ERC-20 Token using Foundry](https://dev.to/sauravkumar8178/day-12-of-30daysofsolidity-build-your-own-erc-20-token-using-foundry-51l9)
-- [Mastering Go Project Structure: Build Scalable &amp; Maintainable Go Apps](https://dev.to/ctrix/mastering-go-project-structure-build-scalable-maintainable-go-apps-30i5)
-- [I Spent $127K on AWS Before Realizing We Could Run on $8/Month](https://dev.to/vision2030/i-spent-127k-on-aws-before-realizing-we-could-run-on-8month-1313)
-- [What are Core Web Vitals?](https://dev.to/lovestaco/what-are-core-web-vitals-3a20)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ogl)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-nmb)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-467d)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-21kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
