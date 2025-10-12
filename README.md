@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb)
-- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
-
-That’s the difference between regular ChatGPT users &amp; Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla)
-- [The 9 Best CLIs with Artificial Intelligence](https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim)
-- [The Hidden Power of ChatGPT Prompts Nobody Talks About](https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f)
-- [Rust for C Programmers: What I Wish I Knew from Day One](https://dev.to/lospaccabit/rust-for-c-programmers-what-i-wish-i-knew-from-day-one-k76)
+- [Python 3.14 Has Arrived: A Deep Dive into the New Features](https://dev.to/mechcloud_academy/python-314-has-arrived-a-deep-dive-into-the-new-features-56pn)
+- [Backwards Clock Fever Dream](https://dev.to/orvillechomer/backwards-clock-fever-dream-4g7m)
+- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://dev.to/technoblogger14o3/microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year-92l)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4pfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
