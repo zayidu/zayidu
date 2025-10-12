@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlocking Productivity: AI Tools Every Angular Developer Should Know](https://dev.to/karol_modelski/unlocking-productivity-ai-tools-every-angular-developer-should-know-1fj)
-- [Parallel PHP SOAP Client Requests](https://dev.to/andreistsiapanau/parallel-php-soap-client-requests-5glg)
-- [Evaluating Network Security With Amazon VPC Network Access Analyzer](https://dev.to/aws-builders/evaluating-network-security-with-amazon-vpc-network-access-analyzer-2h41)
-- [🚀 From Excel to Web App: How I Built a Smart Assignment Management System for 125 Students](https://dev.to/anticoder03/from-excel-to-web-app-how-i-built-a-smart-assignment-management-system-for-125-students-3jac)
-- [🌿 How My Winter Garden Inspires Better UI Design](https://dev.to/shubhradev/how-my-winter-garden-inspires-better-ui-design-4b48)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-45km)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3gki)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-c8f)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4c63)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-ki0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
