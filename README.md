@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Wikipedia cannot claim the Earth is not flat](https://dev.to/technoblogger14o3/why-wikipedia-cannot-claim-the-earth-is-not-flat-27ij)
-- [I Built a Terraform Reference Repository &lpar;So You Don&#39;t Have to Bang Your Head Against the Wall&rpar;](https://dev.to/chafroudtarek/i-built-a-terraform-reference-repository-so-you-dont-have-to-bang-your-head-against-the-wall-3po1)
-- [50 Most Useful Vue.js Snippets](https://dev.to/softwaredeveloper01/50-most-useful-vuejs-snippets-17bh)
-- [🧱 The SOLID Principles Explained &lpar;Like You’re a Developer Who Actually Writes Code&rpar;](https://dev.to/charan_gutti_cf60c6185074/the-solid-principles-explained-like-youre-a-developer-who-actually-writes-code-4jon)
-- [From Shelves to Pixels: Library Aesthetic Prompts for AI Art Creators](https://dev.to/graphicstrees/from-shelves-to-pixels-library-aesthetic-prompts-for-ai-art-creators-1hc7)
+- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-4ee7)
+- [CinemaSins: Everything Wrong With Lilo &amp; Stitch &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-lilo-stitch-2025-in-17-minutes-or-less-1di4)
+- [Mr Sunday Movies: Tron - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-52nl)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-1jfi)
+- [80 Days, 80 Python Challenges: The Project That Will Turn Me Into a Better Coder! 🐍 &lpar;My First Post&rpar;](https://dev.to/shahrouzlogs/80-days-80-python-challenges-the-project-that-will-turn-me-into-a-better-coder-my-first-post-3mo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
