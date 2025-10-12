@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-45km)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3gki)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-c8f)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4c63)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-ki0)
+- [Compass](https://dev.to/frosty_fucker_7d06058f3d8/compass-3mnm)
+- [WTF is WebRTC?](https://dev.to/dailybugle33/wtf-is-webrtc-53e1)
+- [Software Safety Consent Declaration – A simple security standard for developers](https://dev.to/yahiagaming495/software-safety-consent-declaration-a-simple-security-standard-for-developers-6bn)
+- [Why “Not Enough” Kills SaaS Growth](https://dev.to/sonu_goswami/why-not-enough-kills-saas-growth-374g)
+- [Simply Order &lpar;Part 4&rpar; — Reliable Events with the Outbox Pattern &lpar;Concepts&rpar;](https://dev.to/hassan314159/simply-order-part-4-reliable-events-with-the-outbox-pattern-concepts-55ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
