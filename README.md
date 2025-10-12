@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4dg5)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-7lp)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-54il)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-323b)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-bh)
+- [From Local Laptop to Team Collaboration: How Remote Git Repositories Work](https://dev.to/swathi_macha/from-local-laptop-to-team-collaboration-how-remote-git-repositories-work-21mk)
+- [The Growing Relevance of Operating Systems in Today’s Tech Landscape 💻✨](https://dev.to/karthikkorrayi/the-growing-relevance-of-operating-systems-in-todays-tech-landscape-2o09)
+- [Building a Web Search Workflow Using Microsoft Agent Framework &lpar;Without Any AI Services&rpar; -Part II](https://dev.to/sreeni5018/building-a-web-search-workflow-using-microsoft-agent-framework-without-any-ai-services-part-ii-50l3)
+- [Сюрприз](https://dev.to/__ddbc9bfd19c5/siurpriz-4neb)
+- [Why HackSpire’25 Is the Event I’m Most Excited About](https://dev.to/debkanta_dey_09b98f7eebb9/why-hackspire25-is-the-event-im-most-excited-about-54o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
