@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 How a Simple Idea Turned Into One of the Most Important Projects of My Journey — The Story Behind Backend Challenges](https://dev.to/wesleybertipaglia/how-a-simple-idea-turned-into-one-of-the-most-important-projects-of-my-journey-the-story-133n)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5c89)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3jbk)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-2ce)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-36in)
+- [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
+- [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
+- [The Functional Toolkit: Map, Filter, and Reduce](https://dev.to/aaron_rose_0787cc8b4775a0/the-functional-toolkit-map-filter-and-reduce-2c4f)
+- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
+- [The Invisible Orchestra: Is Serverless the Conductor We&#39;ve Been Waiting For?](https://dev.to/alex_aslam/the-invisible-orchestra-is-serverless-the-conductor-weve-been-waiting-for-9pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
