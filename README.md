@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Myth #15: Internal priorities are all that matter](https://dev.to/tmorin/myth-15-internal-priorities-are-all-that-matter-2ea2)
-- [3 Code Reading Techniques No Course Will Teach You](https://dev.to/canro91/3-code-reading-techniques-no-course-will-teach-you-12in)
-- [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
-- [Revisiting an Old Project — and the Endless Spiral of Dependencies](https://dev.to/olegelantsev/revisiting-an-old-project-and-the-endless-spiral-of-dependencies-4gf6)
-- [The AI Workflow Hack That Saves Agencies 15 Hours Per Week](https://dev.to/teamcamp/the-ai-workflow-hack-that-saves-agencies-15-hours-per-week-5208)
+- [How Midgen AI&#39;s &#39;Show, Don&#39;t Tell&#39; Converter Elevates Storytelling](https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4)
+- [Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility](https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-19mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
