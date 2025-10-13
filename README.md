@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
-- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
-- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
-- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
-- [Day 1 — Understanding Generative AI: A Simple Start for Beginners](https://dev.to/shiv_darshanrathore_402a/day-1-understanding-generative-ai-a-simple-start-for-beginners-539c)
+- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
+Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn)
+- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
+Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows.](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-j89)
+- [Reimagine Libraries management as Apps using Agentic Executable framework](https://dev.to/arenukvern/reimagine-libraries-management-as-apps-using-agentic-executable-framework-ami)
+- [10 ChatGPT Prompt Templates That Saved Me 100+ Hours of Work](https://dev.to/jaideepparashar/10-chatgpt-prompt-templates-that-saved-me-100-hours-of-work-1n2g)
+- [00. AI in Bioinformatics](https://dev.to/charlie_bushman_b844b155f/00-ai-in-bioinformatics-1f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
