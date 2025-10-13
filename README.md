@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-43ef)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3536)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-57jn)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-560j)
-- [🚀 Introducing G$HIT-Django: Build Django Apps Instantly — No Setup, No Stress](https://dev.to/gshit/introducing-ghit-django-build-django-apps-instantly-no-setup-no-stress-141f)
+- [Integrate eSignatures into your Java apps with the BoldSign Java SDK](https://dev.to/boldsign/integrate-esignatures-into-your-java-apps-with-the-boldsign-java-sdk-47kd)
+- [[Boost]](https://dev.to/0e59dced4eac71e/-4804)
+- [Big Data Analytics in Healthcare: The Secret Hospitals Don’t Talk About](https://dev.to/naya_parker_3520ea7dcc462/big-data-analytics-in-healthcare-the-secret-hospitals-dont-talk-about-2c6)
+- [From Guidance to Growth: My Hacktoberfest 2025 Journey](https://dev.to/leslie_fernando_4e70b4c7b/from-guidance-to-growth-my-hacktoberfest-2025-journey-94g)
+- [Mall Customer Segmentation using ML — A Step-by-Step Tutorial](https://dev.to/naman_2004/-mall-customer-segmentation-streamlit-app-a-step-by-step-tutorial-4pm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
