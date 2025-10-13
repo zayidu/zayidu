@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using resize! You Might Be Missing Out on ResizeObserver](https://dev.to/jamie_wang_5a76e661ad80fa/stop-using-resize-you-might-be-missing-out-on-resizeobserver-4b0g)
-- [Mastering Optional in Java: Avoid NullPointerExceptions with Best Practices](https://dev.to/munaf_badarpura_3811f0ab1/mastering-optional-in-java-avoid-nullpointerexceptions-with-best-practices-3bnf)
-- [Why Engineers Try HTTP for Streaming — And Where It Breaks](https://dev.to/__354f265b41dafa0d901b/why-engineers-try-http-for-streaming-and-where-it-breaks-1blg)
-- [Python Packages &amp; Sub Packages](https://dev.to/srinivasuluparanduru/python-packages-sub-packages-3bff)
-- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
+- [🤖 The Super Contributor Ascent: Code, Commitment, and the Chronicle of 13 Days](https://dev.to/ngtduc693/the-super-contributor-ascent-code-commitment-and-the-chronicle-of-13-days-8gn)
+- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
+- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
+- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
+- [Understand __name__==&#39;main&#39; with two python files](https://dev.to/srinivasuluparanduru/understand-namemain-with-two-python-files-141d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
