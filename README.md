@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Yii MVC Architecture Streamlines Web Application Development](https://dev.to/alberthiltonn/how-yii-mvc-architecture-streamlines-web-application-development-31pd)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-38fo)
-- [NPR Music: Gloria Estefan: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-gloria-estefan-tiny-desk-concert-3ome)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4jje)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2778)
+- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
+- [When you can&#39;t use serverless DMS](https://dev.to/wakeup_flower_8591a6cb6a9/when-you-cant-use-serverless-dms-430j)
+- [Daily Artificial Intelligence Digest - Oct 13, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-13-2025-d6c)
+- [Ad targeting myths](https://dev.to/leon_lin_s/ad-targeting-myths-2lcf)
+- [Why load testing matters to performance engineers](https://dev.to/gatling/why-load-testing-matters-to-performance-engineers-47n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
