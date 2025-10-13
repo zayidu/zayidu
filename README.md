@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Analytics: Key Challenges, Use Cases &amp; How to Unlock Onchain Growth](https://dev.to/yos/web3-analytics-key-challenges-use-cases-how-to-unlock-onchain-growth-25hh)
-- [The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`](https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23)
-- [AI and the UK Workforce: Navigating the &quot;Job-pocalypse&quot; with Purpose](https://dev.to/sanjaynaker/ai-and-the-uk-workforce-navigating-the-job-pocalypse-with-purpose-5gka)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-3g3k)
-- [Unlock Hidden Insights: How YouTube Transcript Extraction Reveals Audience Sentiment and Brand Perception](https://dev.to/mcatee/unlock-hidden-insights-how-youtube-transcript-extraction-reveals-audience-sentiment-and-brand-2dag)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-43ef)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3536)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-57jn)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-560j)
+- [🚀 Introducing G$HIT-Django: Build Django Apps Instantly — No Setup, No Stress](https://dev.to/gshit/introducing-ghit-django-build-django-apps-instantly-no-setup-no-stress-141f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
