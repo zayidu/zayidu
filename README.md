@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
-- [When you can&#39;t use serverless DMS](https://dev.to/wakeup_flower_8591a6cb6a9/when-you-cant-use-serverless-dms-430j)
-- [Daily Artificial Intelligence Digest - Oct 13, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-13-2025-d6c)
-- [Ad targeting myths](https://dev.to/leon_lin_s/ad-targeting-myths-2lcf)
-- [Why load testing matters to performance engineers](https://dev.to/gatling/why-load-testing-matters-to-performance-engineers-47n2)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-lp)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-31go)
+- [🔥 How I Built a High-Performance AI-Powered Chatbot with Deno and No Frameworks &lpar;Seriously!&rpar; 👨‍💻🤯](https://dev.to/ekwoster/how-i-built-a-high-performance-ai-powered-chatbot-with-deno-and-no-frameworks-seriously-5h4g)
+- [🌎 “i18n Demystified: How to Make Your App Speak Any Language Effortlessly”](https://dev.to/charan_gutti_cf60c6185074/i18n-demystified-how-to-make-your-app-speak-any-language-effortlessly-2bl8)
+- [Know the History of AI: Build Your Own Rule-Based Expert System in C#](https://dev.to/auyeungdavid_2847435260/know-the-history-of-ai-build-your-own-rule-based-expert-system-in-c-490a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
