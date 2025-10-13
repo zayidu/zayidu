@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate eSignatures into your Java apps with the BoldSign Java SDK](https://dev.to/boldsign/integrate-esignatures-into-your-java-apps-with-the-boldsign-java-sdk-47kd)
-- [[Boost]](https://dev.to/0e59dced4eac71e/-4804)
-- [Big Data Analytics in Healthcare: The Secret Hospitals Don’t Talk About](https://dev.to/naya_parker_3520ea7dcc462/big-data-analytics-in-healthcare-the-secret-hospitals-dont-talk-about-2c6)
-- [From Guidance to Growth: My Hacktoberfest 2025 Journey](https://dev.to/leslie_fernando_4e70b4c7b/from-guidance-to-growth-my-hacktoberfest-2025-journey-94g)
-- [Mall Customer Segmentation using ML — A Step-by-Step Tutorial](https://dev.to/naman_2004/-mall-customer-segmentation-streamlit-app-a-step-by-step-tutorial-4pm2)
+- [Stop Using resize! You Might Be Missing Out on ResizeObserver](https://dev.to/jamie_wang_5a76e661ad80fa/stop-using-resize-you-might-be-missing-out-on-resizeobserver-4b0g)
+- [Mastering Optional in Java: Avoid NullPointerExceptions with Best Practices](https://dev.to/munaf_badarpura_3811f0ab1/mastering-optional-in-java-avoid-nullpointerexceptions-with-best-practices-3bnf)
+- [Why Engineers Try HTTP for Streaming — And Where It Breaks](https://dev.to/__354f265b41dafa0d901b/why-engineers-try-http-for-streaming-and-where-it-breaks-1blg)
+- [Python Packages &amp; Sub Packages](https://dev.to/srinivasuluparanduru/python-packages-sub-packages-3bff)
+- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
