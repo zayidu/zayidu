@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn)
-- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows.](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-j89)
-- [Reimagine Libraries management as Apps using Agentic Executable framework](https://dev.to/arenukvern/reimagine-libraries-management-as-apps-using-agentic-executable-framework-ami)
-- [10 ChatGPT Prompt Templates That Saved Me 100+ Hours of Work](https://dev.to/jaideepparashar/10-chatgpt-prompt-templates-that-saved-me-100-hours-of-work-1n2g)
-- [00. AI in Bioinformatics](https://dev.to/charlie_bushman_b844b155f/00-ai-in-bioinformatics-1f6)
+- [Building a Reliable USB-to-UART Bridge for Your Embedded Projects with FT232HQ-REEL](https://dev.to/xecor_company/building-a-reliable-usb-to-uart-bridge-for-your-embedded-projects-with-ft232hq-reel-436g)
+- [Unlocking Low-Frequency RFID Magic: Integrating ATA5577M1330C-DDB into Your IoT Projects](https://dev.to/censtry/unlocking-low-frequency-rfid-magic-integrating-ata5577m1330c-ddb-into-your-iot-projects-1nf1)
+- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
+- [TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh)
+- [AdapTive-LeArning Speculator System &lpar;ATLAS&rpar;: Faster LLM inference](https://dev.to/technoblogger14o3/adaptive-learning-speculator-system-atlas-faster-llm-inference-468h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
