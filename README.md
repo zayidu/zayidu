@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-2f1d)
-- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-4d7n)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-23j0)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5cgj)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-12mg)
+- [Week 1 — My First Open-Source Contribution &lpar;Hacktoberfest 2025&rpar;](https://dev.to/kkrishnan10/week-1-my-first-open-source-contribution-hacktoberfest-2025-28pk)
+- [Python basics - Day 05](https://dev.to/ian_b838138a27a917398d181/python-basics-day-05-37i7)
+- [The Anonymous Workers: Lambda Functions Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-anonymous-workers-lambda-functions-explained-3m9f)
+- [Unlocking the Oracle ACE Program: From Contribution to Recognition](https://dev.to/demasy/unlocking-the-oracle-ace-program-from-contribution-to-recognition-4731)
+- [AWS Cost Reporting: Why Parquet Data Doesn&#39;t Match Your Console &lpar;And How to Fix It&rpar;](https://dev.to/gurudev_prasadteketi/aws-cost-reporting-why-parquet-data-doesnt-match-your-console-and-how-to-fix-it-5dlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
