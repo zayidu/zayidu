@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Djangonaut][first PR] Week 1 ~ 2 &lpar;9.29 ~ 10.10&rpar;](https://dev.to/_e6641d4181e2ba2945d1f/djangonautfirst-pr-week-1-2-929-1010-2ah2)
-- [Migrating to &lt;template&gt; tag](https://dev.to/ijlee2/migrating-to-tag-39on)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-l9g)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4cn5)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-46lc)
+- [HACKTOBERFEST - A journey for Open-Source](https://dev.to/anshumanjadiya1102/hacktoberfest-a-journey-for-open-source-4p43)
+- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
+- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
+- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
+- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
