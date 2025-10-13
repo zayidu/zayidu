@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HACKTOBERFEST - A journey for Open-Source](https://dev.to/anshumanjadiya1102/hacktoberfest-a-journey-for-open-source-4p43)
-- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
-- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
-- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
-- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
+- [How Yii MVC Architecture Streamlines Web Application Development](https://dev.to/alberthiltonn/how-yii-mvc-architecture-streamlines-web-application-development-31pd)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-38fo)
+- [NPR Music: Gloria Estefan: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-gloria-estefan-tiny-desk-concert-3ome)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4jje)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2778)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
