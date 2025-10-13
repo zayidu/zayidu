@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 The Super Contributor Ascent: Code, Commitment, and the Chronicle of 13 Days](https://dev.to/ngtduc693/the-super-contributor-ascent-code-commitment-and-the-chronicle-of-13-days-8gn)
-- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
-- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
-- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
-- [Understand __name__==&#39;main&#39; with two python files](https://dev.to/srinivasuluparanduru/understand-namemain-with-two-python-files-141d)
+- [[Djangonaut][first PR] Week 1 ~ 2 &lpar;9.29 ~ 10.10&rpar;](https://dev.to/_e6641d4181e2ba2945d1f/djangonautfirst-pr-week-1-2-929-1010-2ah2)
+- [Migrating to &lt;template&gt; tag](https://dev.to/ijlee2/migrating-to-tag-39on)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-l9g)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4cn5)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-46lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
