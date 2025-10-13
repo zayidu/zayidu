@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 1 — My First Open-Source Contribution &lpar;Hacktoberfest 2025&rpar;](https://dev.to/kkrishnan10/week-1-my-first-open-source-contribution-hacktoberfest-2025-28pk)
-- [Python basics - Day 05](https://dev.to/ian_b838138a27a917398d181/python-basics-day-05-37i7)
-- [The Anonymous Workers: Lambda Functions Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-anonymous-workers-lambda-functions-explained-3m9f)
-- [Unlocking the Oracle ACE Program: From Contribution to Recognition](https://dev.to/demasy/unlocking-the-oracle-ace-program-from-contribution-to-recognition-4731)
-- [AWS Cost Reporting: Why Parquet Data Doesn&#39;t Match Your Console &lpar;And How to Fix It&rpar;](https://dev.to/gurudev_prasadteketi/aws-cost-reporting-why-parquet-data-doesnt-match-your-console-and-how-to-fix-it-5dlh)
+- [🧑‍💻 How a Simple Idea Turned Into One of the Most Important Projects of My Journey — The Story Behind Backend Challenges](https://dev.to/wesleybertipaglia/how-a-simple-idea-turned-into-one-of-the-most-important-projects-of-my-journey-the-story-133n)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5c89)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3jbk)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-2ce)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-36in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
