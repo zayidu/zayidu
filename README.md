@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Black Phone 2 Review](https://dev.to/gg_news/ign-black-phone-2-review-phm)
-- [IGN: Send Help - Official Trailer &lpar;2026&rpar; Rachel McAdams, Dylan O&#39;Brien](https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-5318)
-- [Bridging Worlds: AI&#39;s Breakthrough in Nepali Sign Language](https://dev.to/arvind_sundararajan/bridging-worlds-ais-breakthrough-in-nepali-sign-language-2c5l)
-- [Dynamic Styling with calc&lpar;&rpar; in TailwindCSS](https://dev.to/devarshishimpi/dynamic-styling-with-calc-in-tailwindcss-5pp)
-- [Ringer Movies: ‘Sneakers’ With Bill Simmons, Kyle Brandt, and Joanna Robinson](https://dev.to/popcorn_movies/ringer-movies-sneakers-with-bill-simmons-kyle-brandt-and-joanna-robinson-3hd1)
+- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
+- [The Art of the Map: Navigating the Modern ORM Landscape](https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc)
+- [Sharing TypeScript Types in a Monorepo/BFF](https://dev.to/wantedhorizon1/sharing-typescript-types-in-a-monorepobff-2k8a)
+- [The Artisan&#39;s Journey: Sculpting JSON in Rails](https://dev.to/alex_aslam/the-artisans-journey-sculpting-json-in-rails-32ei)
+- [Building a Redis Clone in Zig—Part 2](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-2-49of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
