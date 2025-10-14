@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hacked My Reading Habits: Remembering More and Forgetting Less](https://dev.to/derek_fowler_8efe8716c3fe/how-i-hacked-my-reading-habits-remembering-more-and-forgetting-less-17h6)
-- [What’s your favorite underrated productivity app?](https://dev.to/clariti_22_6e89b280ccd102/whats-your-favorite-underrated-productivity-app-1lff)
-- [How I Built a Lightweight Live Sports &amp; TV Streaming App for Android](https://dev.to/markbotlar/how-i-built-a-lightweight-live-sports-tv-streaming-app-for-android-52i9)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_7be3cb2a/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-7hi)
-- [How Custom Software Makes Hospitals Run Smoother](https://dev.to/champsoft/how-custom-software-makes-hospitals-run-smoother-4m4e)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-cn0)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-40an)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-19fn)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-pc)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-n1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
