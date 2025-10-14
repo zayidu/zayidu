@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-hdl)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4p4i)
-- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-54j8)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-1j9c)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4c7c)
+- [How I Hacked My Reading Habits: Remembering More and Forgetting Less](https://dev.to/derek_fowler_8efe8716c3fe/how-i-hacked-my-reading-habits-remembering-more-and-forgetting-less-17h6)
+- [What’s your favorite underrated productivity app?](https://dev.to/clariti_22_6e89b280ccd102/whats-your-favorite-underrated-productivity-app-1lff)
+- [How I Built a Lightweight Live Sports &amp; TV Streaming App for Android](https://dev.to/markbotlar/how-i-built-a-lightweight-live-sports-tv-streaming-app-for-android-52i9)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_7be3cb2a/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-7hi)
+- [How Custom Software Makes Hospitals Run Smoother](https://dev.to/champsoft/how-custom-software-makes-hospitals-run-smoother-4m4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
