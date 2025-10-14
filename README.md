@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
-- [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
-- [The Functional Toolkit: Map, Filter, and Reduce](https://dev.to/aaron_rose_0787cc8b4775a0/the-functional-toolkit-map-filter-and-reduce-2c4f)
-- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
-- [The Invisible Orchestra: Is Serverless the Conductor We&#39;ve Been Waiting For?](https://dev.to/alex_aslam/the-invisible-orchestra-is-serverless-the-conductor-weve-been-waiting-for-9pm)
+- [Mastering Distributed Machine Learning: How to 10X Your PyTorch Training Speed with Ray &amp; DDP](https://dev.to/m-a-h-b-u-b/mastering-distributed-machine-learning-how-to-10x-your-pytorch-training-speed-with-ray-ddp-5hgg)
+- [Barebones metadata for page sharing](https://dev.to/ovidem/barebones-metadata-for-page-sharing-3o8p)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_fafe1668/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-11f2)
+- [💎 ANN: omniauth-identity v3.1.5 &lpar;Hanami/ROM Support&rpar;](https://dev.to/galtzo/ann-omniauth-identity-v315-hanamirom-support-4ha3)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3288)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
