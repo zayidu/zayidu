@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optional Packages &amp; Features](https://dev.to/pauljlucas/optional-packages-features-59pp)
-- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3dm4)
-- [🧠 Help Us Name Our Creative Tech Agency!](https://dev.to/we-the-developers/help-us-name-our-creative-tech-agency-490a)
-- [A Quick Note About Hexagonal Architecture](https://dev.to/stan_somov/a-quick-note-about-hexagonal-architecture-477)
-- [Unlocking Seamless Authentication with ForgeRock AM and Security Token Service &lpar;STS&rpar;](https://dev.to/iamdevbox/unlocking-seamless-authentication-with-forgerock-am-and-security-token-service-sts-5dia)
+- [TinyGo Magic: Build Lightning-Fast IoT Apps with Only 512KB RAM!](https://dev.to/ekwoster/tinygo-magic-build-lightning-fast-iot-apps-with-only-512kb-ram-29im)
+- [RealFi is the financial revolution we need](https://dev.to/bydotun/realfi-is-the-financial-revolution-we-need-4ad6)
+- [The AI Industry&#39;s Trillion-Dollar Infrastructure Problem](https://dev.to/techsparklive/the-ai-industrys-trillion-dollar-infrastructure-problem-17h9)
+- [Private Graphs, Public Insights: Feature Propagation with a Twist by Arvind Sundararajan](https://dev.to/arvind_sundararajan/private-graphs-public-insights-feature-propagation-with-a-twist-by-arvind-sundararajan-1065)
+- [Building Event-Driven Architectures on AWS: A Modern Approach to Scalability and Decoupling](https://dev.to/brayanarrieta/building-event-driven-architectures-on-aws-a-modern-approach-to-scalability-and-decoupling-50lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
