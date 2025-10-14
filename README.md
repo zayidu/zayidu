@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Engine 3 — A Shell for Visual Game Programming in Python](https://dev.to/artyom7777/game-engine-3-a-shell-for-visual-game-programming-in-python-3497)
-- [Understanding APIs: A Beginner&#39;s Guide to Making Your First API Call](https://dev.to/bellagirlmaker/understanding-apis-a-beginners-guide-to-making-your-first-api-call-4ab5)
-- [💥 Polars vs. Pandas: Why Your Next ETL Pipeline Should Run on Rust &lpar;Part 1/5&rpar;](https://dev.to/narayan_f8f2c91c99dfd33e6/polars-vs-pandas-why-your-next-etl-pipeline-should-run-on-rust-part-15-536o)
-- [How YouTube Tracks Your Location Even with GPS and History Turned Off](https://dev.to/aman_kumar_bdd40f1b711c15/how-youtube-tracks-your-location-even-with-gps-and-history-turned-off-1gk)
-- [What is Hoisting in JavaScript? Explained for Beginners](https://dev.to/saurav_dev_2022/what-is-hoisting-in-javascript-explained-for-beginners-1147)
+- [IGN: Black Phone 2 Review](https://dev.to/gg_news/ign-black-phone-2-review-phm)
+- [IGN: Send Help - Official Trailer &lpar;2026&rpar; Rachel McAdams, Dylan O&#39;Brien](https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-5318)
+- [Bridging Worlds: AI&#39;s Breakthrough in Nepali Sign Language](https://dev.to/arvind_sundararajan/bridging-worlds-ais-breakthrough-in-nepali-sign-language-2c5l)
+- [Dynamic Styling with calc&lpar;&rpar; in TailwindCSS](https://dev.to/devarshishimpi/dynamic-styling-with-calc-in-tailwindcss-5pp)
+- [Ringer Movies: ‘Sneakers’ With Bill Simmons, Kyle Brandt, and Joanna Robinson](https://dev.to/popcorn_movies/ringer-movies-sneakers-with-bill-simmons-kyle-brandt-and-joanna-robinson-3hd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
