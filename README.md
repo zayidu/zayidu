@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Flask Email API on Render](https://dev.to/joshuakaranja/deploying-a-flask-email-api-on-render-1olj)
-- [Improving your coding workflow with Claude Code Plugins](https://dev.to/composiodev/improving-your-coding-workflow-with-claude-code-plugins-7i8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-787)
-- [What’s the Difference Between a Traditional Backlink Generator and an AI-Powered One?](https://dev.to/mai_vyly_ee49a19af579f4d/whats-the-difference-between-a-traditional-backlink-generator-and-an-ai-powered-one-4ca8)
+- [Optional Packages &amp; Features](https://dev.to/pauljlucas/optional-packages-features-59pp)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3dm4)
+- [🧠 Help Us Name Our Creative Tech Agency!](https://dev.to/we-the-developers/help-us-name-our-creative-tech-agency-490a)
+- [A Quick Note About Hexagonal Architecture](https://dev.to/stan_somov/a-quick-note-about-hexagonal-architecture-477)
+- [Unlocking Seamless Authentication with ForgeRock AM and Security Token Service &lpar;STS&rpar;](https://dev.to/iamdevbox/unlocking-seamless-authentication-with-forgerock-am-and-security-token-service-sts-5dia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
