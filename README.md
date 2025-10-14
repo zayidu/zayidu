@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TinyGo Magic: Build Lightning-Fast IoT Apps with Only 512KB RAM!](https://dev.to/ekwoster/tinygo-magic-build-lightning-fast-iot-apps-with-only-512kb-ram-29im)
-- [RealFi is the financial revolution we need](https://dev.to/bydotun/realfi-is-the-financial-revolution-we-need-4ad6)
-- [The AI Industry&#39;s Trillion-Dollar Infrastructure Problem](https://dev.to/techsparklive/the-ai-industrys-trillion-dollar-infrastructure-problem-17h9)
-- [Private Graphs, Public Insights: Feature Propagation with a Twist by Arvind Sundararajan](https://dev.to/arvind_sundararajan/private-graphs-public-insights-feature-propagation-with-a-twist-by-arvind-sundararajan-1065)
-- [Building Event-Driven Architectures on AWS: A Modern Approach to Scalability and Decoupling](https://dev.to/brayanarrieta/building-event-driven-architectures-on-aws-a-modern-approach-to-scalability-and-decoupling-50lg)
+- [Pawn Appétit: Professional Chess Analysis, Zero Cost](https://dev.to/gaspar_limarc_f1e8bca9ee/pawn-appetit-professional-chess-analysis-zero-cost-1c6d)
+- [Compiler for &quot;Easy&quot; language from &quot;Etudes for Programmers&quot; book &lpar;1978&rpar;](https://dev.to/begoon/compiler-for-easy-language-from-etudes-for-programmers-book-1978-4nb1)
+- [Master Node.js &amp; Express.js: A Comprehensive Collection of Coding Challenges](https://dev.to/mohinsheikh/master-nodejs-expressjs-a-comprehensive-collection-of-coding-challenges-4aba)
+- [From Raw Leads to Predictive Insights: My Logistic Regression Assignment Journey](https://dev.to/vinanoliefo/from-raw-leads-to-predictive-insights-my-logistic-regression-assignment-journey-4dm2)
+- [Welcome to Parenting!](https://dev.to/jess/welcome-to-parenting-4afm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
