@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FlashFuzz ⚡Quick URL Fuzzing &amp; Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-50eo)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54he)
+- [eBPF Tutorial: Energy Monitoring for Process-Level Power Analysis](https://dev.to/yunwei37/ebpf-tutorial-energy-monitoring-for-process-level-power-analysis-3082)
+- [Threat Hunting: Strategies &amp; Tools](https://dev.to/godofgeeks/threat-hunting-strategies-tools-2m0f)
+- [Destiny 2 HWID Ban: What It Means &amp; Next Steps](https://dev.to/hng_khng_8253b9de3df1/destiny-2-hwid-ban-what-it-means-next-steps-14lk)
+- [Delta Force HWID Ban Exposed: What Players Need to Know](https://dev.to/hng_khng_8253b9de3df1/delta-force-hwid-ban-exposed-what-players-need-to-know-4kjk)
+- [[UE] GameMode, GameState, Player State, Player Controller, Pawn](https://dev.to/seongcheoljeon/ue-gamemode-gamestate-player-state-player-controller-pawn-54d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
