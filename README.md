@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Arenadata’s Engineering Team: Growth Story from the Inside](https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia)
-- [AutoAgents – a Rust-Based Multi-Agent Framework for LLM-Powered Intelligence](https://dev.to/saivishwak/autoagents-a-rust-based-multi-agent-framework-for-llm-powered-intelligence-27h2)
-- [Tree Shaking in JavaScript - A Practical Guide](https://dev.to/md_isfaruddin_65557809e/tree-shaking-in-javascript-a-practical-guide-4bk7)
-- [Named Params in C](https://dev.to/jmatth11/named-params-in-c-2a2n)
-- [Your Website Speaks to Humans, But Does AI Understand It? A Deep Dive into the Dual Web Strategy](https://dev.to/thedavestack/your-website-speaks-to-humans-but-does-ai-understand-it-a-deep-dive-into-the-dual-web-strategy-4bp1)
+- [Some notes about the right usage of memoization in Python](https://dev.to/xba/some-notes-about-the-right-usage-of-memoization-in-python-1pdp)
+- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-446p)
+- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-d12)
+- [How to build your own file-system MCP server &lpar;A step-by-step guide&rpar;](https://dev.to/jefreesujit/how-to-build-your-own-file-system-mcp-server-a-step-by-step-guide-5g07)
+- [Expose the Kubernetes Load Balancer on Bare Metal using MetalLB](https://dev.to/cheulong/expose-the-kubernetes-load-balancer-on-bare-metal-using-metallb-9hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
