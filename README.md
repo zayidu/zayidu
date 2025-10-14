@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pawn Appétit: Professional Chess Analysis, Zero Cost](https://dev.to/gaspar_limarc_f1e8bca9ee/pawn-appetit-professional-chess-analysis-zero-cost-1c6d)
-- [Compiler for &quot;Easy&quot; language from &quot;Etudes for Programmers&quot; book &lpar;1978&rpar;](https://dev.to/begoon/compiler-for-easy-language-from-etudes-for-programmers-book-1978-4nb1)
-- [Master Node.js &amp; Express.js: A Comprehensive Collection of Coding Challenges](https://dev.to/mohinsheikh/master-nodejs-expressjs-a-comprehensive-collection-of-coding-challenges-4aba)
-- [From Raw Leads to Predictive Insights: My Logistic Regression Assignment Journey](https://dev.to/vinanoliefo/from-raw-leads-to-predictive-insights-my-logistic-regression-assignment-journey-4dm2)
-- [Welcome to Parenting!](https://dev.to/jess/welcome-to-parenting-4afm)
+- [Building Arenadata’s Engineering Team: Growth Story from the Inside](https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia)
+- [AutoAgents – a Rust-Based Multi-Agent Framework for LLM-Powered Intelligence](https://dev.to/saivishwak/autoagents-a-rust-based-multi-agent-framework-for-llm-powered-intelligence-27h2)
+- [Tree Shaking in JavaScript - A Practical Guide](https://dev.to/md_isfaruddin_65557809e/tree-shaking-in-javascript-a-practical-guide-4bk7)
+- [Named Params in C](https://dev.to/jmatth11/named-params-in-c-2a2n)
+- [Your Website Speaks to Humans, But Does AI Understand It? A Deep Dive into the Dual Web Strategy](https://dev.to/thedavestack/your-website-speaks-to-humans-but-does-ai-understand-it-a-deep-dive-into-the-dual-web-strategy-4bp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
