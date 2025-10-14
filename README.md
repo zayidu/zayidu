@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made My Website 200% Faster Using Just One Line of Code](https://dev.to/mridudixit15/how-i-made-my-website-200-faster-using-just-one-line-of-code-6ip)
-- [Why Model-First and where the Truth lives](https://dev.to/_555c69ff310ebfa46b/why-model-first-and-where-the-truth-lives-2l9c)
-- [Copy Trading vs Independent Analysis: Building Hybrid Strategies for Crypto Trading](https://dev.to/tradelinkpro/copy-trading-vs-independent-analysis-building-hybrid-strategies-for-crypto-trading-ma4)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_02ee41d0/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-12mb)
-- [AI Driven Daily Sales Report Generator](https://dev.to/sabbschow/ai-driven-daily-sales-report-generator-2oe1)
+- [LLM&#39;ler &quot;Soru Cevaplama&quot; konusunda kabiliyetlidirler](https://dev.to/cihad/an-example-about-structuring-data-progress-by-ai-1en8)
+- [Essential Strategies for Building Accessible Web Applications That Welcome All Users](https://dev.to/aaravjoshi/essential-strategies-for-building-accessible-web-applications-that-welcome-all-users-3hfd)
+- [Best Time Tracking Software to Stay Productive](https://dev.to/tmetric_timer_2b3a575fc8b/best-time-tracking-software-to-stay-productive-5h97)
+- [🚀 Introducing JPlus – The Java Superset Language You&#39;ve Been Waiting For!](https://dev.to/cheol_jeon_9e29b98fdb7e1e/introducing-jplus-the-java-superset-language-youve-been-waiting-for-248)
+- [Polymorphic Todo App](https://dev.to/abdullah_ayasrah_4c9195da/polymorphic-todo-app-26g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
