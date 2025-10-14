@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some notes about the right usage of memoization in Python](https://dev.to/xba/some-notes-about-the-right-usage-of-memoization-in-python-1pdp)
-- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-446p)
-- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-d12)
-- [How to build your own file-system MCP server &lpar;A step-by-step guide&rpar;](https://dev.to/jefreesujit/how-to-build-your-own-file-system-mcp-server-a-step-by-step-guide-5g07)
-- [Expose the Kubernetes Load Balancer on Bare Metal using MetalLB](https://dev.to/cheulong/expose-the-kubernetes-load-balancer-on-bare-metal-using-metallb-9hh)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3i6f)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3470)
+- [Micronaut Native vs JAR: How Going Native Saves Costs and Improves Scalability on AWS](https://dev.to/artem_peshkov_3366f0e871b/micronaut-native-vs-jar-how-going-native-saves-costs-and-improves-scalability-on-aws-1ng1)
+- [Interacting with EVM Networks in Python: From RPC Node to Smart Contract Calls](https://dev.to/onlineproxy/interacting-with-evm-networks-in-python-from-rpc-node-to-smart-contract-calls-4n7j)
+- [Como Automatizei a Publicação de Pacotes no GitHub Packages](https://dev.to/marcos_vile/como-automatizei-a-publicacao-de-pacotes-no-github-packages-10ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
