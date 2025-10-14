@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 2: Troubleshooting Real-World Issues](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-2-troubleshooting-real-world-429d)
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 1: Complete Setup Guide](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-1-complete-setup-guide-lgd)
-- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
-- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
-- [Modern Warfare 2 HWID Spoofer: DON&#39;T Use One Before You Read This!](https://dev.to/tun_hunh_6164f4c1d2daf6/modern-warfare-2-hwid-spoofer-dont-use-one-before-you-read-this-f9o)
+- [How I Made My Website 200% Faster Using Just One Line of Code](https://dev.to/mridudixit15/how-i-made-my-website-200-faster-using-just-one-line-of-code-6ip)
+- [Why Model-First and where the Truth lives](https://dev.to/_555c69ff310ebfa46b/why-model-first-and-where-the-truth-lives-2l9c)
+- [Copy Trading vs Independent Analysis: Building Hybrid Strategies for Crypto Trading](https://dev.to/tradelinkpro/copy-trading-vs-independent-analysis-building-hybrid-strategies-for-crypto-trading-ma4)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_02ee41d0/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-12mb)
+- [AI Driven Daily Sales Report Generator](https://dev.to/sabbschow/ai-driven-daily-sales-report-generator-2oe1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
