@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Course in Telugu: Build Your First Project with Confidence](https://dev.to/padmaja_ch_f19982ca2d7e6b/vibe-coding-course-in-telugu-build-your-first-project-with-confidence-522o)
-- [🩺 Best Varicose Vein Treatment in Delhi: Discover Advanced Vascular Care with Dr. Tapish Sahu](https://dev.to/vascularcareindia/best-varicose-vein-treatment-in-delhi-discover-advanced-vascular-care-with-dr-tapish-sahu-19h9)
-- [Why ‘Pulses’ Beat Channels: Rethinking Digital Collaboration from the Ground Up](https://dev.to/nexy/why-pulses-beat-channels-rethinking-digital-collaboration-from-the-ground-up-2da9)
-- [Round TFT LCDs: What They Are and Why Designers Are Choosing Them](https://dev.to/liz_chen_8b314fa53cedea52/round-tft-lcds-what-they-are-and-why-designers-are-choosing-them-2f90)
-- [AI Video Conferencing Tools – Revolutionizing Remote Work](https://dev.to/theaisurf_422fbd7a2613901/ai-video-conferencing-tools-revolutionizing-remote-work-1906)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-46p0)
+- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-3ih8)
+- [KEXP: Indigo De Souza - Always &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-always-live-on-kexp-14k6)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-1l61)
+- [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://dev.to/prahladyeri/i-am-a-programmer-not-a-rubber-stamp-that-approves-copilot-generated-code-39a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
