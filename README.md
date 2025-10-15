@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
-- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
-- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
-- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
-- [🦋 Design with intent. Emotionally smart colours in your UI.](https://dev.to/adam/design-with-intent-emotionally-smart-colours-in-your-ui-2oaj)
+- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb)
+- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g)
+- [What is Agentic Commerce and How Macaron&#39;s AI-Powered Checkout Can Transform E-Commerce in 2025](https://dev.to/banelygalan/what-is-agentic-commerce-and-how-macarons-ai-powered-checkout-can-transform-e-commerce-in-2025-12h3)
+- [10 Tricks to Write Super Clean Code in TypeScript](https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9)
+- [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
