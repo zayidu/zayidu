@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Code Chrome Extension Builder: Create Extensions in Seconds](https://dev.to/kromio/no-code-chrome-extension-builder-create-extensions-in-seconds-54n1)
-- [The Complete Guide to Testing React &amp; Next.js Applications with Cypress](https://dev.to/mohamedsaidibrahim/the-complete-guide-to-testing-react-nextjs-applications-with-cypress-1e05)
-- [Core Technical Topics to Master in Cypress for Effective E2E Testing](https://dev.to/mohamedsaidibrahim/core-technical-topics-to-master-in-cypress-for-effective-e2e-testing-25fm)
-- [Common Mistakes I Made as a Junior Backend Developer](https://dev.to/salah_elbouhlali_66fa9a7/common-mistakes-i-made-as-a-junior-backend-developer-l61)
-- [Conquering Cypress Test Failures: A Comprehensive Guide to Common Errors &amp; Automated Reporting](https://dev.to/mohamedsaidibrahim/conquering-cypress-test-failures-a-comprehensive-guide-to-common-errors-automated-reporting-8ah)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3h7e)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-a7)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2i58)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-bap)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2ano)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
