@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
-- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
-- [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
-- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
-- [📷Building a Face Recognition Attendance System with Next.js, TypeScript, face-api.js, and Supabase](https://dev.to/ferryops/building-a-face-recognition-attendance-system-with-nextjs-typescript-face-apijs-and-supabase-41jp)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-535k)
+- [KEXP: Indigo De Souza - Always &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-always-live-on-kexp-9d1)
+- [KEXP: Indigo De Souza - Heartthrob &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-heartthrob-live-on-kexp-32gm)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-moc)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1nn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
