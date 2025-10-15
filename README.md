@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Github Actions Locally??](https://dev.to/bupd/how-to-run-github-actions-locally-398c)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-132b)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3po5)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-564)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-5gjl)
+- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
+- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
+- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
+- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [🦋 Design with intent. Emotionally smart colours in your UI.](https://dev.to/adam/design-with-intent-emotionally-smart-colours-in-your-ui-2oaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
