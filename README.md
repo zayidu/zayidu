@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
-- [The Art of the Map: Navigating the Modern ORM Landscape](https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc)
-- [Sharing TypeScript Types in a Monorepo/BFF](https://dev.to/wantedhorizon1/sharing-typescript-types-in-a-monorepobff-2k8a)
-- [The Artisan&#39;s Journey: Sculpting JSON in Rails](https://dev.to/alex_aslam/the-artisans-journey-sculpting-json-in-rails-32ei)
-- [Building a Redis Clone in Zig—Part 2](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-2-49of)
+- [Exploring Brazilian E-commerce with Spark on Databricks Free Edition](https://dev.to/jackson_freitas_42cbeaf74/exploring-brazilian-e-commerce-with-spark-on-databricks-free-edition-4lb6)
+- [How to Build AI-Powered Tools Without Writing Code](https://dev.to/jaideepparashar/how-to-build-ai-powered-tools-without-writing-code-d37)
+- [Pagonic: My 10-Month Journey to Build a WinRAR Alternative](https://dev.to/setrathexx/pagonic-my-10-month-journey-to-build-a-winrar-alternative-5436)
+- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid)
+- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
