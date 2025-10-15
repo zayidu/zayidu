@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3jo1)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-3haa)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4kn0)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3c1b)
-- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-1o9f)
+- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
+- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
+- [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
+- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
+- [📷Building a Face Recognition Attendance System with Next.js, TypeScript, face-api.js, and Supabase](https://dev.to/ferryops/building-a-face-recognition-attendance-system-with-nextjs-typescript-face-apijs-and-supabase-41jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
