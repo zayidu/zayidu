@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4g07)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-55oh)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-578l)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-414)
+- [DevOps Days Philadelphia 2025: Security As A Control Loop, Resilience, Runtime Risks, And How AI Is Changing It](https://dev.to/gitguardian/devops-days-philadelphia-2025-security-as-a-control-loop-resilience-runtime-risks-and-how-ai-is-404g)
+- [Explore Chrome 140: Modern CSS Counters, Variable Fonts &amp; Popover Events](https://dev.to/raviranjan98210/explore-chrome-140-modern-css-counters-variable-fonts-popover-events-57ii)
+- [Kotlin Coroutines Cheat Sheet](https://dev.to/bpivoto/kotlin-coroutines-cheat-sheet-a95)
+- [Serving the World: Why CDNs Are Essential for Global Audiences](https://dev.to/rijultp/serving-the-world-why-cdns-are-essential-for-global-audiences-4meb)
+- [How I Learned to Love the Legacy Dental PMS: A Developer&#39;s Guide](https://dev.to/lake22traillady/how-i-learned-to-love-the-legacy-dental-pms-a-developers-guide-372k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
