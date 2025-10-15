@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Brazilian E-commerce with Spark on Databricks Free Edition](https://dev.to/jackson_freitas_42cbeaf74/exploring-brazilian-e-commerce-with-spark-on-databricks-free-edition-4lb6)
-- [How to Build AI-Powered Tools Without Writing Code](https://dev.to/jaideepparashar/how-to-build-ai-powered-tools-without-writing-code-d37)
-- [Pagonic: My 10-Month Journey to Build a WinRAR Alternative](https://dev.to/setrathexx/pagonic-my-10-month-journey-to-build-a-winrar-alternative-5436)
-- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid)
-- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d)
+- [Unpacking the Math: Building a Custom Miniature-Style DoF in UE with HLSL](https://dev.to/taku25/unpacking-the-math-building-a-custom-miniature-style-dof-in-ue-with-hlsl-2118)
+- [Cut our Next.js Docker image by 60%+](https://dev.to/phattnh/cut-our-nextjs-docker-image-by-60-43jh)
+- [Reverse Methods for Obtaining Phone Numbers and Preventive Measures](https://dev.to/lunarecho/reverse-methods-for-obtaining-phone-numbers-and-preventive-measures-2oj7)
+- [WTH is openFGA and implementing Role-Based Access Control in GO servers.](https://dev.to/yashraj10/wth-is-openfga-and-implementing-role-based-access-control-in-go-servers-5ahj)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-n5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
