@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Feature Flag Tool &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/el_yt/i-built-a-feature-flag-tool-heres-what-i-learned-3n5e)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-n0n)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-ipc)
-- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38m6)
-- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-3oe3)
+- [Software Becomes Disposable?How AI Is Changing the Way We Architect Code](https://dev.to/weimeilin/software-becomes-disposablehow-ai-is-changing-the-way-we-architect-code-4870)
+- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-3elb)
+- [No More Clock-Turning – Why Europe Still Clings to Daylight Saving Time While Others Move On](https://dev.to/thomasdelfing_de/no-more-clock-turning-why-europe-still-clings-to-daylight-saving-time-while-others-move-on-4dlb)
+- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
+- [Learning OpenGL Part 3:](https://dev.to/noticeablesmeh/opengl-part-3-4f05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
