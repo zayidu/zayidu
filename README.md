@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-535k)
-- [KEXP: Indigo De Souza - Always &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-always-live-on-kexp-9d1)
-- [KEXP: Indigo De Souza - Heartthrob &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-heartthrob-live-on-kexp-32gm)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-moc)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1nn5)
+- [Vibe Coding Course in Telugu: Build Your First Project with Confidence](https://dev.to/padmaja_ch_f19982ca2d7e6b/vibe-coding-course-in-telugu-build-your-first-project-with-confidence-522o)
+- [🩺 Best Varicose Vein Treatment in Delhi: Discover Advanced Vascular Care with Dr. Tapish Sahu](https://dev.to/vascularcareindia/best-varicose-vein-treatment-in-delhi-discover-advanced-vascular-care-with-dr-tapish-sahu-19h9)
+- [Why ‘Pulses’ Beat Channels: Rethinking Digital Collaboration from the Ground Up](https://dev.to/nexy/why-pulses-beat-channels-rethinking-digital-collaboration-from-the-ground-up-2da9)
+- [Round TFT LCDs: What They Are and Why Designers Are Choosing Them](https://dev.to/liz_chen_8b314fa53cedea52/round-tft-lcds-what-they-are-and-why-designers-are-choosing-them-2f90)
+- [AI Video Conferencing Tools – Revolutionizing Remote Work](https://dev.to/theaisurf_422fbd7a2613901/ai-video-conferencing-tools-revolutionizing-remote-work-1906)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
