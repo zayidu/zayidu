@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking the Math: Building a Custom Miniature-Style DoF in UE with HLSL](https://dev.to/taku25/unpacking-the-math-building-a-custom-miniature-style-dof-in-ue-with-hlsl-2118)
-- [Cut our Next.js Docker image by 60%+](https://dev.to/phattnh/cut-our-nextjs-docker-image-by-60-43jh)
-- [Reverse Methods for Obtaining Phone Numbers and Preventive Measures](https://dev.to/lunarecho/reverse-methods-for-obtaining-phone-numbers-and-preventive-measures-2oj7)
-- [WTH is openFGA and implementing Role-Based Access Control in GO servers.](https://dev.to/yashraj10/wth-is-openfga-and-implementing-role-based-access-control-in-go-servers-5ahj)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-n5h)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3jo1)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-3haa)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4kn0)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3c1b)
+- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-1o9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
