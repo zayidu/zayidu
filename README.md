@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-46p0)
-- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-3ih8)
-- [KEXP: Indigo De Souza - Always &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-always-live-on-kexp-14k6)
-- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-1l61)
-- [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://dev.to/prahladyeri/i-am-a-programmer-not-a-rubber-stamp-that-approves-copilot-generated-code-39a1)
+- [Set systems, rather than relying on goals or motivations](https://dev.to/pierre/set-systems-rather-than-relying-on-goals-or-motivations-1nkl)
+- [Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration](https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1)
+- [Using zstandard on-the-fly &lpar;de&rpar;compression in Elixir](https://dev.to/ndrean/using-zstandard-on-the-fly-decompression-in-elixir-84k)
+- [Orchestrating and Observing Data Pipelines with Airflow, PostgreSQL, and Polar](https://dev.to/ctrix/orchestrating-and-observing-data-pipelines-with-airflow-postgresql-and-polar-nig)
+- [Unlocking the Power of AI in Software Development: A Comprehensive Guide](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-a-comprehensive-guide-7n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
