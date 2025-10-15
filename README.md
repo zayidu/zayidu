@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3h7e)
-- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-a7)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2i58)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-bap)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2ano)
+- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
+- [How to Import Excel Files to Matlab in 2025?](https://dev.to/nigelsilonero/how-to-import-excel-files-to-matlab-in-2025-5477)
+- [Coding Challenge Practice - Question 28](https://dev.to/tomivan/coding-challenge-practice-question-28-584j)
+- [Roast My Code: IA que revisa tu código con humor y brutalidad](https://dev.to/barrerasaezgonzalo/roast-my-code-ia-que-revisa-tu-codigo-con-humor-y-brutalidad-27fn)
+- [Getting Started with Strands Agents: A Simple Guide to Building AI Agents the Easy Way](https://dev.to/abhinav_2510/getting-started-with-strands-agents-a-simple-guide-to-building-ai-agents-the-easy-way-976)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
