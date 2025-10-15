@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
-- [MCP for WordPress: Write and Publish Posts from Your AI Assistant](https://dev.to/rnaga/mcp-for-wordpress-write-and-publish-posts-from-your-ai-assistant-lmb)
-- [Why Self-Hosting Automation Tools Like n8n Costs More](https://dev.to/alifar/why-self-hosting-automation-tools-like-n8n-costs-more-1aba)
-- [The Linux Programming Interface - Time](https://dev.to/cangulmez/the-linux-programming-interface-time-2hbk)
-- [Entity Framework Code-First Σχέσεις οντοτήτων μοντελοποίηση και Queries.](https://dev.to/__b63657/entity-framework-code-first-skheseis-ontoteton-kai-montelopoiese-5bh3)
+- [I Built a Feature Flag Tool &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/el_yt/i-built-a-feature-flag-tool-heres-what-i-learned-3n5e)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-n0n)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-ipc)
+- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38m6)
+- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-3oe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
