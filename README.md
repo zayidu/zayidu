@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb)
-- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g)
-- [What is Agentic Commerce and How Macaron&#39;s AI-Powered Checkout Can Transform E-Commerce in 2025](https://dev.to/banelygalan/what-is-agentic-commerce-and-how-macarons-ai-powered-checkout-can-transform-e-commerce-in-2025-12h3)
-- [10 Tricks to Write Super Clean Code in TypeScript](https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9)
-- [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7)
+- [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
+- [MCP for WordPress: Write and Publish Posts from Your AI Assistant](https://dev.to/rnaga/mcp-for-wordpress-write-and-publish-posts-from-your-ai-assistant-lmb)
+- [Why Self-Hosting Automation Tools Like n8n Costs More](https://dev.to/alifar/why-self-hosting-automation-tools-like-n8n-costs-more-1aba)
+- [The Linux Programming Interface - Time](https://dev.to/cangulmez/the-linux-programming-interface-time-2hbk)
+- [Entity Framework Code-First Σχέσεις οντοτήτων μοντελοποίηση και Queries.](https://dev.to/__b63657/entity-framework-code-first-skheseis-ontoteton-kai-montelopoiese-5bh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
