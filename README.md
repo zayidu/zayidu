@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitorea Tus Agentes en Tiempo Real: Implementando Observabilidad con LangFuse en Strands Agents](https://dev.to/aws-espanol/monitorea-tus-agentes-en-tiempo-real-implementando-observabilidad-con-langfuse-en-strands-agents-412)
-- [12 Billion Parameters vs One Shoe: Taming FLUX.1 Kontext AI for E-commerce](https://dev.to/igornosatov_15/12-billion-parameters-vs-one-shoe-taming-flux1-kontext-ai-for-e-commerce-4b24)
-- [🤖 Convert XML to JSON Instantly — Because Who Has Time for Angle Brackets? ⚙️](https://dev.to/akashbijwe/convert-xml-to-json-instantly-because-who-has-time-for-angle-brackets-554j)
-- [What is a Backlink Tracking Tool and Why is it Important for SEO?](https://dev.to/anadil_khalil_977fa4834cf/what-is-a-backlink-tracking-tool-and-why-is-it-important-for-seo-4pjh)
-- [How Recursion Actually Works](https://dev.to/aditi_deshmukh/how-recursion-actually-works-1bn)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4g07)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-55oh)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-578l)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-414)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
