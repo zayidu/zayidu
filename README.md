@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3k8c)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-4hf0)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-2ono)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-3lfo)
-- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-2dc5)
+- [No Code Chrome Extension Builder: Create Extensions in Seconds](https://dev.to/kromio/no-code-chrome-extension-builder-create-extensions-in-seconds-54n1)
+- [The Complete Guide to Testing React &amp; Next.js Applications with Cypress](https://dev.to/mohamedsaidibrahim/the-complete-guide-to-testing-react-nextjs-applications-with-cypress-1e05)
+- [Core Technical Topics to Master in Cypress for Effective E2E Testing](https://dev.to/mohamedsaidibrahim/core-technical-topics-to-master-in-cypress-for-effective-e2e-testing-25fm)
+- [Common Mistakes I Made as a Junior Backend Developer](https://dev.to/salah_elbouhlali_66fa9a7/common-mistakes-i-made-as-a-junior-backend-developer-l61)
+- [Conquering Cypress Test Failures: A Comprehensive Guide to Common Errors &amp; Automated Reporting](https://dev.to/mohamedsaidibrahim/conquering-cypress-test-failures-a-comprehensive-guide-to-common-errors-automated-reporting-8ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
