@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Set systems, rather than relying on goals or motivations](https://dev.to/pierre/set-systems-rather-than-relying-on-goals-or-motivations-1nkl)
-- [Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration](https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1)
-- [Using zstandard on-the-fly &lpar;de&rpar;compression in Elixir](https://dev.to/ndrean/using-zstandard-on-the-fly-decompression-in-elixir-84k)
-- [Orchestrating and Observing Data Pipelines with Airflow, PostgreSQL, and Polar](https://dev.to/ctrix/orchestrating-and-observing-data-pipelines-with-airflow-postgresql-and-polar-nig)
-- [Unlocking the Power of AI in Software Development: A Comprehensive Guide](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-a-comprehensive-guide-7n9)
+- [How to Run Github Actions Locally??](https://dev.to/bupd/how-to-run-github-actions-locally-398c)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-132b)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3po5)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-564)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-5gjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
