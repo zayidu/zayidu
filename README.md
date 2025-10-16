@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 2](https://dev.to/ccscaesar/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-2-3521)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-232j)
-- [Mengembangkan Bahasa Pemrograman Baru, Apakah Masih Relevan Saat Ini?](https://dev.to/ketutdana/mengembangkan-bahasa-pemrograman-baru-apakah-masih-relevan-saat-ini-13o7)
-- [The Complete SORA 2 Guide: iOS, Web, API &amp; Automation &lpar;October 2025&rpar;](https://dev.to/aabyzov/the-complete-sora-2-guide-ios-web-api-automation-october-2025-15hc)
-- [Mina Rich Editor – A Block-Based Rich Text Editor Built With shadcn/ui and Tailwind CSS](https://dev.to/jqueryscript/mina-rich-editor-a-block-based-rich-text-editor-built-with-shadcnui-and-tailwind-css-3ig6)
+- [Building a Fantasy Football Team Name Generator with Next.js](https://dev.to/wwx516/building-a-fantasy-football-team-name-generator-with-nextjs-3f7g)
+- [Inside the Code: Building Scalable Casino Game Engines for the Modern Web](https://dev.to/bob_packer_7c9018a4d1a1f1/inside-the-code-building-scalable-casino-game-engines-for-the-modern-web-3ij9)
+- [Beyond REST: Microservices, Resilience, and Real-World Teamwork](https://dev.to/cathylai/beyond-rest-microservices-resilience-and-real-world-teamwork-478)
+- [Playdate-Inspired Portfolio Template Using Next.js and TypeScript](https://dev.to/jqueryscript/playdate-inspired-portfolio-template-using-nextjs-and-typescript-3nhj)
+- [Native Mapping in .NET: Take Control with Extension Methods](https://dev.to/joaooliveiratech/native-mapping-in-net-take-control-with-extension-methods-21dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
