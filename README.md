@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
-- [From Manual API to AI Agent: Automating High-Stakes Art Storage Brokerage](https://dev.to/stockage-oeuvres-dart/from-manual-api-to-ai-agent-automating-high-stakes-art-storage-brokerage-203m)
-- [Built UtilCraft: 15+ Free Web Tools in One Place](https://dev.to/fullmoon_a4b52e10aed483d/built-utilcraft-15-free-web-tools-in-one-place-24ik)
-- [Unlocking the Power of AI in Modern Development: A Deep Dive into Practical Applications](https://dev.to/mikeover/unlocking-the-power-of-ai-in-modern-development-a-deep-dive-into-practical-applications-5h68)
-- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/guia-de-implementacion-de-flavors-en-flutter-para-proyectos-multicliente-1cjo)
+- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 2](https://dev.to/ccscaesar/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-2-3521)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-232j)
+- [Mengembangkan Bahasa Pemrograman Baru, Apakah Masih Relevan Saat Ini?](https://dev.to/ketutdana/mengembangkan-bahasa-pemrograman-baru-apakah-masih-relevan-saat-ini-13o7)
+- [The Complete SORA 2 Guide: iOS, Web, API &amp; Automation &lpar;October 2025&rpar;](https://dev.to/aabyzov/the-complete-sora-2-guide-ios-web-api-automation-october-2025-15hc)
+- [Mina Rich Editor – A Block-Based Rich Text Editor Built With shadcn/ui and Tailwind CSS](https://dev.to/jqueryscript/mina-rich-editor-a-block-based-rich-text-editor-built-with-shadcnui-and-tailwind-css-3ig6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
