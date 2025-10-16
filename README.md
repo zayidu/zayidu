@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just launched AroraBuild &lpar;https://arorabuild.site/&rpar; — a platform helping devs get real help for their tech doubts.](https://dev.to/venkatesh_eedupuganti_6b9/just-launched-arorabuild-httpsarorabuildsite-a-platform-helping-devs-get-real-help-for-5895)
-- [Building a Secure WebRTC P2P Network with Advanced ECDH, DTLS, and SAS Verification](https://dev.to/securebitchat/building-a-secure-webrtc-p2p-network-with-advanced-ecdh-dtls-and-sas-verification-27p7)
-- [How I Built a Blog for SynkPay with Next.js and BlogNow &lpar;and Went from 85 to 100 on PageSpeed&rpar;](https://dev.to/nagendra402/how-i-built-a-blog-for-synkpay-with-nextjs-and-blognow-and-went-from-85-to-100-on-pagespeed-2ie8)
-- [How Much Do We Really Lose to Video Game Piracy?](https://dev.to/guardingpearsoftware/how-much-do-we-really-lose-to-video-game-piracy-b22)
-- [Personal Wallet Warning Signal – Stopping Crypto Scams Before They Happen](https://dev.to/umirzokabduraxmanov606dotcom/personal-wallet-warning-signal-stopping-crypto-scams-before-they-happen-go7)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2i6p)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-51ag)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-3eeo)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-86h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
