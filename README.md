@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-9gi)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4he7)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3473)
-- [NPR Music: Silvana Estrada: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-silvana-estrada-tiny-desk-concert-4636)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1io5)
+- [A Docker Trick I Wish I Knew Sooner](https://dev.to/joybtw/a-docker-trick-i-wish-i-knew-sooner-23of)
+- [💥 Myth #16: Technical constraints are decided later](https://dev.to/tmorin/myth-16-technical-constraints-are-decided-later-28ha)
+- [Day 15 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-15-of-100-days-dsa-coding-challenge-36aj)
+- [Day 10 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-10-of-my-ai-data-mastery-journey-from-python-to-generative-ai-287)
+- [My personal blog built with Go and React](https://dev.to/joybtw/my-personal-blog-built-with-go-and-react-1pg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
