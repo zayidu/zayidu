@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Silent API Failures in Production](https://dev.to/trackjs/the-hidden-cost-of-silent-api-failures-in-production-1gg5)
-- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
-- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
-- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
-- [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
+- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-397g)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-518o)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-1hig)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2mn4)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3dgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
