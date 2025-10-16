@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-guia-completa-de-implementacion-para-proyectos-multicliente-en-android-e-ios-1409)
-- [Micronaut 4 application on AWS Lambda- Part 5 Measuring Lambda cold and warm starts with GraalVM Native Image](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-5-measuring-lambda-cold-and-warm-starts-with-graalvm-3ci8)
-- [New Release: Visual Studio Code Plugin For All the Busy Devs](https://dev.to/dev-tngsh/new-release-visual-studio-code-plugin-for-all-the-busy-devs-4bek)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2jp0)
-- [Mastering Redux Toolkit: The Modern Way to Manage State in React](https://dev.to/lawrenceagles/mastering-redux-toolkit-the-modern-way-to-manage-state-in-react-2i5i)
+- [The Hidden Cost of Silent API Failures in Production](https://dev.to/trackjs/the-hidden-cost-of-silent-api-failures-in-production-1gg5)
+- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
+- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
+- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
+- [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
