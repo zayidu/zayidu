@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
-- [How to Import Excel Files to Matlab in 2025?](https://dev.to/nigelsilonero/how-to-import-excel-files-to-matlab-in-2025-5477)
-- [Coding Challenge Practice - Question 28](https://dev.to/tomivan/coding-challenge-practice-question-28-584j)
-- [Roast My Code: IA que revisa tu código con humor y brutalidad](https://dev.to/barrerasaezgonzalo/roast-my-code-ia-que-revisa-tu-codigo-con-humor-y-brutalidad-27fn)
-- [Getting Started with Strands Agents: A Simple Guide to Building AI Agents the Easy Way](https://dev.to/abhinav_2510/getting-started-with-strands-agents-a-simple-guide-to-building-ai-agents-the-easy-way-976)
+- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
+- [From Manual API to AI Agent: Automating High-Stakes Art Storage Brokerage](https://dev.to/stockage-oeuvres-dart/from-manual-api-to-ai-agent-automating-high-stakes-art-storage-brokerage-203m)
+- [Built UtilCraft: 15+ Free Web Tools in One Place](https://dev.to/fullmoon_a4b52e10aed483d/built-utilcraft-15-free-web-tools-in-one-place-24ik)
+- [Unlocking the Power of AI in Modern Development: A Deep Dive into Practical Applications](https://dev.to/mikeover/unlocking-the-power-of-ai-in-modern-development-a-deep-dive-into-practical-applications-5h68)
+- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/guia-de-implementacion-de-flavors-en-flutter-para-proyectos-multicliente-1cjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
