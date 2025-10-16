@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Caching Pyramid: A Sculptor&#39;s Guide to Performance](https://dev.to/alex_aslam/the-caching-pyramid-a-sculptors-guide-to-performance-3m6p)
-- [Coding Challenge Practice - Question 29](https://dev.to/tomivan/coding-challenge-practice-question-29-45pn)
-- [&quot;Learning by Doing: The auto_uploader Experience&quot;](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
-- [Requirements for M-Pesa Online Payment Setup in Kenya &lpar;2025 Guide&rpar;](https://dev.to/eric_muturi/requirements-for-m-pesa-online-payment-setup-in-kenya-2025-guide-2bjl)
-- [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
+- [IGN: Crimson Desert: How the Golden Star Dragon Boss Was Created](https://dev.to/gg_news/ign-crimson-desert-how-the-golden-star-dragon-boss-was-created-2d4h)
+- [IGN: Arena Breakout: Infinite - Official Forgotten Clan Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-forgotten-clan-trailer-1np8)
+- [IGN: Pokemon Legends: Z-A - How to Get a Guaranteed Shiny Mareep!](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-get-a-guaranteed-shiny-mareep-2a0l)
+- [IGN: Pokemon Legends: Z-A - How to Find the Revitalizing Twig for Fennekin](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-find-the-revitalizing-twig-for-fennekin-1bdn)
+- [IGN: Path of Exile: Keepers of the Flame - Official Announcement Teaser Trailer](https://dev.to/gg_news/ign-path-of-exile-keepers-of-the-flame-official-announcement-teaser-trailer-142c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
