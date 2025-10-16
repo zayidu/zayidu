@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Crimson Desert: How the Golden Star Dragon Boss Was Created](https://dev.to/gg_news/ign-crimson-desert-how-the-golden-star-dragon-boss-was-created-2d4h)
-- [IGN: Arena Breakout: Infinite - Official Forgotten Clan Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-forgotten-clan-trailer-1np8)
-- [IGN: Pokemon Legends: Z-A - How to Get a Guaranteed Shiny Mareep!](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-get-a-guaranteed-shiny-mareep-2a0l)
-- [IGN: Pokemon Legends: Z-A - How to Find the Revitalizing Twig for Fennekin](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-find-the-revitalizing-twig-for-fennekin-1bdn)
-- [IGN: Path of Exile: Keepers of the Flame - Official Announcement Teaser Trailer](https://dev.to/gg_news/ign-path-of-exile-keepers-of-the-flame-official-announcement-teaser-trailer-142c)
+- [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
+- [Day 1252 : Flush](https://dev.to/dwane/day-1252-flush-hao)
+- [🎮 Introducing Pixalo — A Lightweight, Developer-Friendly 2D Game Engine for JavaScript](https://dev.to/salarizadi/introducing-pixalo-a-lightweight-developer-friendly-2d-game-engine-for-javascript-3e73)
+- [Tools Make the Dev: 9 Python Productivity Tools You Shouldn’t Miss](https://dev.to/lamri_abdellahramdane_15/tools-make-the-dev-9-python-productivity-tools-you-shouldnt-miss-1d4p)
+- [The Role of Cybersecurity in Digital Transformation by Highly Skilled IT Professionals such as Jeremy Nevins](https://dev.to/jnevins1/the-role-of-cybersecurity-in-digital-transformation-by-highly-skilled-it-professionals-such-as-2jca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
