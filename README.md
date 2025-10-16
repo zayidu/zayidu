@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ AWS GameDay: From Breach to Fix](https://dev.to/lokesh_vangari_a671430724/aws-gameday-from-breach-to-fix-3o9c)
-- [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
-- [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
-- [Java Data Types](https://dev.to/lakshmi_g_74c225d5ca0b272/java-data-types-21km)
-- [Salesforce - Lightning Locker and io.Connect platform connected components - Standalone](https://dev.to/interopio/salesforce-lightning-locker-and-ioconnect-platform-connected-components-standalone-1mjp)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-816)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-2119)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-5dac)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-85e)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-41d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
