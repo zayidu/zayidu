@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with the SQL STUFF Function in SQL Server](https://dev.to/dbvismarketing/working-with-the-sql-stuff-function-in-sql-server-5e75)
-- [Complete Guide to Jest.spyOn for Unit Testing](https://dev.to/devin-rosario/complete-guide-to-jestspyon-for-unit-testing-4io6)
-- [Design Patterns for a Multi-Agent Future](https://dev.to/rohit_gavali_0c2ad84fe4e0/design-patterns-for-a-multi-agent-future-3jpe)
-- [Java Architecture](https://dev.to/dharshinieswaran/java-architecture-81l)
-- [How I Built My Website for Free Using GitHub Pages](https://dev.to/inzammam_ulhaq_794681107/how-i-built-my-website-for-free-using-github-pages-56ed)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4221)
+- [Pixel to pixel: Checking the PixiEditor project](https://dev.to/pvsdev/pixel-to-pixel-checking-the-pixieditor-project-9be)
+- [From Contributor to Connector: What Hacktoberfest 2025 Taught Me](https://dev.to/saxenaaman628/from-contributor-to-connector-what-hacktoberfest-2025-taught-me-5ec0)
+- [Mr Sunday Movies: Tron - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-2lb6)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3lk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
