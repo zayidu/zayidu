@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-816)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-2119)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-5dac)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-85e)
-- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-41d)
+- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
+- [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
+- [Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed](https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962)
+- [🎬 VORAvideo: How We Turn Text, Images &amp; Speech Into Cinematic Videos](https://dev.to/nico_hayes_f441fd59f0b0ff/voravideo-how-we-turn-text-images-speech-into-cinematic-videos-6l5)
+- [20 AI Coding Assistants: Smarter, Faster, More Secure](https://dev.to/roobia/20-ai-coding-assistants-smarter-faster-more-secure-24be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
