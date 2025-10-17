@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Export for Instagram: Simplifying Data Management with the Instagram Export Tool](https://dev.to/mirfa_zainab_8b97d351bc0f/the-best-export-for-instagram-simplifying-data-management-with-the-instagram-export-tool-73h)
-- [🧠🤖 LangGraph4j Deep Agents &lpar;Agent 2.0&rpar;](https://dev.to/bsorrentino/langgraph4j-deep-agents-agent-20-1d74)
-- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
-- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
-- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3mjc)
+- [Long Long Ago — The History of Generative AI](https://dev.to/neha/long-long-ago-the-history-of-generative-ai-5dmm)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1h8k)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4l19)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-5f4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
