@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Friday Links #30 — JavaScript Updates, Tools, and Inspiration](https://dev.to/jsdevspace/friday-links-30-javascript-updates-tools-and-inspiration-1akf)
-- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-3omm)
-- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-5bpg)
-- [Як технології лазертаг-систем змінюють військову підготовку: від тренажера до реального бою](https://dev.to/__a30219617ce/iak-tiekhnologhiyi-laziertagh-sistiem-zminiuiut-viiskovu-pidghotovku-vid-trienazhiera-do-riealnogho-boiu-h84)
-- [Web Scraping with n8n | Part 1: Build Your First Web Scraper](https://dev.to/extractdata/web-scraping-with-n8n-part-1-build-your-first-web-scraper-37cf)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4pl7)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mnh)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-4m5f)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3ni2)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-5f8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
