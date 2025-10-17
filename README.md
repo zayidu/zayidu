@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3mjc)
-- [Long Long Ago — The History of Generative AI](https://dev.to/neha/long-long-ago-the-history-of-generative-ai-5dmm)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1h8k)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4l19)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-5f4n)
+- [Inglorious Store: a Redux-compatible state manager inspired by ECS](https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0)
+- [Microkernel Architecture — Design Pattern](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-n79)
+- [Updates in Python 3.14 Every Developer Should Know](https://dev.to/daya_r1/updates-in-python-314-every-developer-should-know-4on2)
+- [Can I Download Instagram Images in Bulk?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-i-download-instagram-images-in-bulk-4780)
+- [What Type of Data Can I Download from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/what-type-of-data-can-i-download-from-instagram-187l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
