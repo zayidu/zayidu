@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
-- [I Just Started Learning to Code — Here&#39;s How I Built My First ‘Vibe Project’](https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847)
-- [The Symphony of One: Conducting Node.js Monorepos with Lerna, Nx, and Turborepo](https://dev.to/alex_aslam/the-symphony-of-one-conducting-nodejs-monorepos-with-lerna-nx-and-turborepo-53pf)
-- [Hitting the Ground Running with HNG Backend Stage 0 🚀](https://dev.to/joshteflon/hitting-the-ground-running-with-hng-backend-stage-0-2a0m)
-- [The Sculptor&#39;s Studio: Carving Modularity from the Rails Monolith](https://dev.to/alex_aslam/the-sculptors-studio-carving-modularity-from-the-rails-monolith-bdf)
+- [IGN: Vampire: The Masquerade - Bloodlines 2: First 12 Minutes of Gameplay](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-first-12-minutes-of-gameplay-4nh4)
+- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-4hn1)
+- [Unlocking Model Fusion: Sharper Merges Through Subspace Purification](https://dev.to/arvind_sundararajan/unlocking-model-fusion-sharper-merges-through-subspace-purification-29o9)
+- [Why I Rewrote Nocta CLI in Rust &lpar;Even Though I Didn&#39;t Need To&rpar;](https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd)
+- [Moving a Domain to Another Registrar](https://dev.to/djangotricks/moving-a-domain-to-another-registrar-e5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
