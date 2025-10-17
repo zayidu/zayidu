@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-1g4g)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1kk3)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-fe3)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-57p1)
-- [IGN: LEGO Disney Frozen: Operation Puffins - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-lego-disney-frozen-operation-puffins-official-trailer-2025-2npj)
+- [Librephone: The Free Software Foundation’s Plan to Reclaim Mobile Freedom](https://dev.to/karan51ngh/librephone-the-free-software-foundations-plan-to-reclaim-mobile-freedom-1le5)
+- [11 Best Express.js Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-expressjs-courses-to-learn-in-2026-1g5a)
+- [Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine](https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa)
+- [Excelize 2.10.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-4pb7)
+- [Day 11 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-11-of-my-ai-data-mastery-journey-from-python-to-generative-ai-395m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
