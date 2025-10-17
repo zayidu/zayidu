@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠OrKa docs grew up: a YAML-first reference for Agents, Nodes, and Tools](https://dev.to/marcosomma/orka-docs-grew-up-a-yaml-first-reference-for-agents-nodes-and-tools-51ed)
-- [Building a Robust Express API with TypeScript and express-validator](https://dev.to/justwonder/building-a-robust-express-api-with-typescript-and-express-validator-3i75)
-- [What’s in a Name? Fuzzy Matching for Real-World Data](https://dev.to/azure/whats-in-a-name-fuzzy-matching-for-real-world-data-5b5o)
-- [🧭System Design Roadmap for Data Engineers](https://dev.to/sajjadrahman56/system-design-roadmap-for-data-engineers-36h7)
-- [Title: Debugging a Python Code: Why Won&#39;t It Return a 3-Digit Number?](https://dev.to/yagyaraj_sharma_6cd410179/title-debugging-a-python-code-why-wont-it-return-a-3-digit-number-916)
+- [Building with LLMs at Scale: Part 1 - The Pain Points](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-1-the-pain-points-3c0o)
+- [Building a Smart Home with AppDaemon: From Baby Monitors to Language Learning](https://dev.to/laurent_charignon/building-a-smart-home-with-appdaemon-from-baby-monitors-to-language-learning-4jg6)
+- [Extract Text from Word in C# &lpar;No Office&rpar; | Free Tool Guide](https://dev.to/codingco/extract-text-from-word-in-c-no-office-free-tool-guide-53da)
+- [Revolutionize Manufacturing: Conquering Inventory Management Challenges](https://dev.to/jennifer_devsamurai/revolutionize-manufacturing-conquering-inventory-management-challenges-4dhk)
+- [I Ran a Full Node.js Server in My Browser. Here&#39;s How It Works.](https://dev.to/weboont/i-ran-a-full-nodejs-server-in-my-browser-heres-how-it-works-2m96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
