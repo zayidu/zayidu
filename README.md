@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Concurrency Made Simple and Safe in Go with go-pool](https://dev.to/rubengp99/concurrency-made-simple-and-safe-in-go-with-go-pool-2i59)
-- [3 Easy Geotargeting Options In SFMC &lpar;Including Postal Code Radius&rpar;](https://dev.to/ampscript-ninja/3-ridiculously-easy-ways-to-geotarget-in-sfmc-4n5k)
-- [Handling Large Payloads in Event-Driven Architectures on AWS &lpar;with CDK + TypeScript&rpar;](https://dev.to/andreparis/handling-large-payloads-in-event-driven-architectures-on-aws-with-cdk-typescript-1hck)
-- [Building with LLMs at Scale: Part 2 - Ergonomics and Observability](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-2-ergonomics-and-observability-1521)
-- [Smart Watch API 6 How to solve the issue of the reason for dynamic permissions not being displayed on Watch4 smartwatches?](https://dev.to/harmonyos/smart-watch-api-6-how-to-solve-the-issue-of-the-reason-for-dynamic-permissions-not-being-displayed-45o8)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-1g4g)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1kk3)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-fe3)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-57p1)
+- [IGN: LEGO Disney Frozen: Operation Puffins - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-lego-disney-frozen-operation-puffins-official-trailer-2025-2npj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
