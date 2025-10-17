@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙ Handling Nulls the Smart Way in Java](https://dev.to/yash_agarwal_4faf140fcd68/handling-nulls-the-smart-way-in-java-4ehm)
-- [Beyond Parent/Child: Navigating the DOM Tree Fluently with XPathy](https://dev.to/volta_jebaprashanth_ac7af/beyond-parentchild-navigating-the-dom-tree-fluently-with-xpathy-5f89)
-- [How to Write Clean, Readable, and Maintainable Java Code](https://dev.to/yash_agarwal_4faf140fcd68/how-to-write-clean-readable-and-maintainable-java-code-3klg)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-32d)
-- [🧩 Day 16 of #30DaysOfSolidity — Building a Modular Profile System for Web3 Games with `delegatecall`](https://dev.to/sauravkumar8178/day-16-of-30daysofsolidity-building-a-modular-profile-system-for-web3-games-with-delegatecall-35e1)
+- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
+- [How I Fixed Lighthouse Score Drops Caused by Google Tag Manager &amp; Analytics](https://dev.to/lovestaco/how-i-fixed-lighthouse-score-drops-caused-by-google-tag-manager-analytics-2anm)
+- [e o tal do Microserviço?](https://dev.to/gabriela_mendes_428db6bb6/e-o-tal-do-microservico-51fa)
+- [Raw XPath is Dead: How XPathy&#39;s Fluent API Solves Your Flaky Test Problem](https://dev.to/volta_jebaprashanth_ac7af/raw-xpath-is-dead-how-xpathys-fluent-api-solves-your-flaky-test-problem-4h7g)
+- [Why January 1, 1970 Is the Most Important Date in programming &lpar;And You&#39;ve Probably Never Heard of It&rpar;](https://dev.to/abrahambishopcodes/why-january-1-1970-is-the-most-important-date-in-programming-and-youve-probably-never-heard-of-414i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
