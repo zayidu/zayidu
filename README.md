@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
-- [Day 1252 : Flush](https://dev.to/dwane/day-1252-flush-hao)
-- [🎮 Introducing Pixalo — A Lightweight, Developer-Friendly 2D Game Engine for JavaScript](https://dev.to/salarizadi/introducing-pixalo-a-lightweight-developer-friendly-2d-game-engine-for-javascript-3e73)
-- [Tools Make the Dev: 9 Python Productivity Tools You Shouldn’t Miss](https://dev.to/lamri_abdellahramdane_15/tools-make-the-dev-9-python-productivity-tools-you-shouldnt-miss-1d4p)
-- [The Role of Cybersecurity in Digital Transformation by Highly Skilled IT Professionals such as Jeremy Nevins](https://dev.to/jnevins1/the-role-of-cybersecurity-in-digital-transformation-by-highly-skilled-it-professionals-such-as-2jca)
+- [🧠OrKa docs grew up: a YAML-first reference for Agents, Nodes, and Tools](https://dev.to/marcosomma/orka-docs-grew-up-a-yaml-first-reference-for-agents-nodes-and-tools-51ed)
+- [Building a Robust Express API with TypeScript and express-validator](https://dev.to/justwonder/building-a-robust-express-api-with-typescript-and-express-validator-3i75)
+- [What’s in a Name? Fuzzy Matching for Real-World Data](https://dev.to/azure/whats-in-a-name-fuzzy-matching-for-real-world-data-5b5o)
+- [🧭System Design Roadmap for Data Engineers](https://dev.to/sajjadrahman56/system-design-roadmap-for-data-engineers-36h7)
+- [Title: Debugging a Python Code: Why Won&#39;t It Return a 3-Digit Number?](https://dev.to/yagyaraj_sharma_6cd410179/title-debugging-a-python-code-why-wont-it-return-a-3-digit-number-916)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
