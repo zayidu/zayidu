@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reading Speed Secret That Helps You Remember Jiu Jitsu Moves](https://dev.to/brain_athlete/the-reading-speed-secret-that-helps-you-remember-jiu-jitsu-moves-1d1p)
-- [The 10 Best Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
-- [Cause and solution for &quot;Too many re-renders&quot; in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
-- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-311o)
-- [Qlib - 下载数据实操 Download data](https://dev.to/mangoquant/qlib-xia-zai-shu-ju-shi-cao-download-data-52gh)
+- [Built a CLI app to automate complex daily GIT workflows](https://dev.to/rafmardev/built-a-cli-app-to-automate-complex-daily-git-workflows-2437)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
+- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-1hj6)
+- [KEXP: Jorja Smith - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-94j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
