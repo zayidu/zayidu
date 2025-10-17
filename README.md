@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Log Monitoring and Alerting System on AWS Using Terraform](https://dev.to/copubah/building-a-real-time-log-monitoring-and-alerting-system-on-aws-using-terraform-4kdd)
-- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-1ngg)
-- [Build a Real-Time ESP32 GPS Tracker with SIM800L and NEO-6M Module](https://dev.to/messin_tom/build-a-real-time-esp32-gps-tracker-with-sim800l-and-neo-6m-module-58lm)
-- [Why S3, NFS, and EFS Are Not Block Storage](https://dev.to/mohideen_sahib_79f5f9e8de/why-s3-nfs-and-efs-are-not-block-storage-3512)
-- [Draw and edit network‑snapped tracks in OpenLayers with edittrack](https://dev.to/camptocamp-geo/draw-and-edit-network-snapped-tracks-in-openlayers-with-edittrack-pbl)
+- [Friday Links #30 — JavaScript Updates, Tools, and Inspiration](https://dev.to/jsdevspace/friday-links-30-javascript-updates-tools-and-inspiration-1akf)
+- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-3omm)
+- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-5bpg)
+- [Як технології лазертаг-систем змінюють військову підготовку: від тренажера до реального бою](https://dev.to/__a30219617ce/iak-tiekhnologhiyi-laziertagh-sistiem-zminiuiut-viiskovu-pidghotovku-vid-trienazhiera-do-riealnogho-boiu-h84)
+- [Web Scraping with n8n | Part 1: Build Your First Web Scraper](https://dev.to/extractdata/web-scraping-with-n8n-part-1-build-your-first-web-scraper-37cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
