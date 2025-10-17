@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Cloud-Native Apps with Effective Kubernetes Deployment Strategies](https://dev.to/supratipb/optimizing-cloud-native-apps-with-effective-kubernetes-deployment-strategies-1gfi)
-- [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
-- [Level Up Your Website: Diving into Immersive Experiences with WebXR](https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j)
-- [C# for the Web: How Microsoft is Reshaping Modern Web Development](https://dev.to/iteyonikservices/c-for-the-web-how-microsoft-is-reshaping-modern-web-development-bfc)
-- [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
+- [Building a Real-Time Log Monitoring and Alerting System on AWS Using Terraform](https://dev.to/copubah/building-a-real-time-log-monitoring-and-alerting-system-on-aws-using-terraform-4kdd)
+- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-1ngg)
+- [Build a Real-Time ESP32 GPS Tracker with SIM800L and NEO-6M Module](https://dev.to/messin_tom/build-a-real-time-esp32-gps-tracker-with-sim800l-and-neo-6m-module-58lm)
+- [Why S3, NFS, and EFS Are Not Block Storage](https://dev.to/mohideen_sahib_79f5f9e8de/why-s3-nfs-and-efs-are-not-block-storage-3512)
+- [Draw and edit network‑snapped tracks in OpenLayers with edittrack](https://dev.to/camptocamp-geo/draw-and-edit-network-snapped-tracks-in-openlayers-with-edittrack-pbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
