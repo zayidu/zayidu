@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a CLI app to automate complex daily GIT workflows](https://dev.to/rafmardev/built-a-cli-app-to-automate-complex-daily-git-workflows-2437)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
-- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-1hj6)
-- [KEXP: Jorja Smith - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-94j)
+- [12 Productive tips for Backend Developers](https://dev.to/masteringbackend/12-productive-tips-for-backend-developers-353f)
+- [From Local to Global: How Portfolios Help You Get International Clients](https://dev.to/imtaslim/from-local-to-global-how-portfolios-help-you-get-international-clients-1k2j)
+- [Understanding Truthy and Falsy Values in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k)
+- [Java Modifiers Explained: A Deep Dive into Access &amp; Non-Access Specifiers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-modifiers-explained-a-deep-dive-into-access-non-access-specifiers-114)
+- [What to Do When Your GitHub Scraper Breaks Due to Instagram Changes](https://dev.to/mirfa_zainab_8b97d351bc0f/what-to-do-when-your-github-scraper-breaks-due-to-instagram-changes-5792)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
