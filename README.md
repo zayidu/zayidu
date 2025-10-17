@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3nca)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3l6i)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2of3)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1nhj)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-2ml)
+- [Optimizing Cloud-Native Apps with Effective Kubernetes Deployment Strategies](https://dev.to/supratipb/optimizing-cloud-native-apps-with-effective-kubernetes-deployment-strategies-1gfi)
+- [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
+- [Level Up Your Website: Diving into Immersive Experiences with WebXR](https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j)
+- [C# for the Web: How Microsoft is Reshaping Modern Web Development](https://dev.to/iteyonikservices/c-for-the-web-how-microsoft-is-reshaping-modern-web-development-bfc)
+- [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
