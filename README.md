@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inglorious Store: a Redux-compatible state manager inspired by ECS](https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0)
-- [Microkernel Architecture — Design Pattern](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-n79)
-- [Updates in Python 3.14 Every Developer Should Know](https://dev.to/daya_r1/updates-in-python-314-every-developer-should-know-4on2)
-- [Can I Download Instagram Images in Bulk?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-i-download-instagram-images-in-bulk-4780)
-- [What Type of Data Can I Download from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/what-type-of-data-can-i-download-from-instagram-187l)
+- [⚙ Handling Nulls the Smart Way in Java](https://dev.to/yash_agarwal_4faf140fcd68/handling-nulls-the-smart-way-in-java-4ehm)
+- [Beyond Parent/Child: Navigating the DOM Tree Fluently with XPathy](https://dev.to/volta_jebaprashanth_ac7af/beyond-parentchild-navigating-the-dom-tree-fluently-with-xpathy-5f89)
+- [How to Write Clean, Readable, and Maintainable Java Code](https://dev.to/yash_agarwal_4faf140fcd68/how-to-write-clean-readable-and-maintainable-java-code-3klg)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-32d)
+- [🧩 Day 16 of #30DaysOfSolidity — Building a Modular Profile System for Web3 Games with `delegatecall`](https://dev.to/sauravkumar8178/day-16-of-30daysofsolidity-building-a-modular-profile-system-for-web3-games-with-delegatecall-35e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
