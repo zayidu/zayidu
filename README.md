@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Productive tips for Backend Developers](https://dev.to/masteringbackend/12-productive-tips-for-backend-developers-353f)
-- [From Local to Global: How Portfolios Help You Get International Clients](https://dev.to/imtaslim/from-local-to-global-how-portfolios-help-you-get-international-clients-1k2j)
-- [Understanding Truthy and Falsy Values in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k)
-- [Java Modifiers Explained: A Deep Dive into Access &amp; Non-Access Specifiers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-modifiers-explained-a-deep-dive-into-access-non-access-specifiers-114)
-- [What to Do When Your GitHub Scraper Breaks Due to Instagram Changes](https://dev.to/mirfa_zainab_8b97d351bc0f/what-to-do-when-your-github-scraper-breaks-due-to-instagram-changes-5792)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3nca)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3l6i)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2of3)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1nhj)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-2ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
