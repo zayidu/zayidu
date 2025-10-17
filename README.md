@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2754)
-- [IGN: Call of Duty vs. Battlefield: The Last Great Gaming Rivalry](https://dev.to/gg_news/ign-call-of-duty-vs-battlefield-the-last-great-gaming-rivalry-4lod)
-- [Swarm Intelligence: Unlocking AI Understanding Through Mimicry](https://dev.to/arvind_sundararajan/swarm-intelligence-unlocking-ai-understanding-through-mimicry-ei3)
-- [Build an AI Concierge App in ChatGPT](https://dev.to/gabeb03/build-an-ai-concierge-app-in-chatgpt-4gei)
-- [Understanding SSL and TLS Certificates, Verification, and Exportable Certificates](https://dev.to/rijultp/understanding-ssl-and-tls-certificates-verification-and-exportable-certificates-4k4i)
+- [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
+- [I Just Started Learning to Code — Here&#39;s How I Built My First ‘Vibe Project’](https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847)
+- [The Symphony of One: Conducting Node.js Monorepos with Lerna, Nx, and Turborepo](https://dev.to/alex_aslam/the-symphony-of-one-conducting-nodejs-monorepos-with-lerna-nx-and-turborepo-53pf)
+- [Hitting the Ground Running with HNG Backend Stage 0 🚀](https://dev.to/joshteflon/hitting-the-ground-running-with-hng-backend-stage-0-2a0m)
+- [The Sculptor&#39;s Studio: Carving Modularity from the Rails Monolith](https://dev.to/alex_aslam/the-sculptors-studio-carving-modularity-from-the-rails-monolith-bdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
