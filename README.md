@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-1fkm)
+- [The Reading Speed Secret That Helps You Remember Jiu Jitsu Moves](https://dev.to/brain_athlete/the-reading-speed-secret-that-helps-you-remember-jiu-jitsu-moves-1d1p)
+- [The 10 Best Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
+- [Cause and solution for &quot;Too many re-renders&quot; in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
+- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-311o)
+- [Qlib - 下载数据实操 Download data](https://dev.to/mangoquant/qlib-xia-zai-shu-ju-shi-cao-download-data-52gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
