@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with LLMs at Scale: Part 1 - The Pain Points](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-1-the-pain-points-3c0o)
-- [Building a Smart Home with AppDaemon: From Baby Monitors to Language Learning](https://dev.to/laurent_charignon/building-a-smart-home-with-appdaemon-from-baby-monitors-to-language-learning-4jg6)
-- [Extract Text from Word in C# &lpar;No Office&rpar; | Free Tool Guide](https://dev.to/codingco/extract-text-from-word-in-c-no-office-free-tool-guide-53da)
-- [Revolutionize Manufacturing: Conquering Inventory Management Challenges](https://dev.to/jennifer_devsamurai/revolutionize-manufacturing-conquering-inventory-management-challenges-4dhk)
-- [I Ran a Full Node.js Server in My Browser. Here&#39;s How It Works.](https://dev.to/weboont/i-ran-a-full-nodejs-server-in-my-browser-heres-how-it-works-2m96)
+- [🚀 Concurrency Made Simple and Safe in Go with go-pool](https://dev.to/rubengp99/concurrency-made-simple-and-safe-in-go-with-go-pool-2i59)
+- [3 Easy Geotargeting Options In SFMC &lpar;Including Postal Code Radius&rpar;](https://dev.to/ampscript-ninja/3-ridiculously-easy-ways-to-geotarget-in-sfmc-4n5k)
+- [Handling Large Payloads in Event-Driven Architectures on AWS &lpar;with CDK + TypeScript&rpar;](https://dev.to/andreparis/handling-large-payloads-in-event-driven-architectures-on-aws-with-cdk-typescript-1hck)
+- [Building with LLMs at Scale: Part 2 - Ergonomics and Observability](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-2-ergonomics-and-observability-1521)
+- [Smart Watch API 6 How to solve the issue of the reason for dynamic permissions not being displayed on Watch4 smartwatches?](https://dev.to/harmonyos/smart-watch-api-6-how-to-solve-the-issue-of-the-reason-for-dynamic-permissions-not-being-displayed-45o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
