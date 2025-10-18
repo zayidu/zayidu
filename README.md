@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2f7p)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4co7)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-30mo)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-57b8)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-ne3)
+- [Has anyone tried Scaleway cloud serverless offerings &lpar;db/functions&rpar;? What are your thoughts if so?](https://dev.to/valeriavg/has-anyone-tried-scaleway-cloud-serverless-offerings-dbfunctions-what-are-your-thoughts-if-so-m2)
+- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
+- [🐱 I Built a Profile API That Returns Random Cat Facts](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
+- [Why Do Content Creators Choose Sora 2 or Veo 3.1 for Social Clips?](https://dev.to/jovin_george_733dcfc16291/why-do-content-creators-choose-sora-2-or-veo-31-for-social-clips-3p1b)
+- [Series Week 5/52 — TAB in Action: Preventing Patching Pitfalls](https://dev.to/nabhaas/series-week-552-tab-in-action-preventing-patching-pitfalls-nm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
