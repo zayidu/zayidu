@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper](https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a)
-- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
-- [What I self host](https://dev.to/fredrikmeyer/what-i-self-host-ani)
-- [Signs you’ve been coding for too long &lpar;and maybe need a nap 😅&rpar;](https://dev.to/sylwia-lask/signs-youve-been-coding-for-too-long-and-maybe-need-a-nap--2n4l)
-- [Network Scanning with Python: ARP, Port, and DNS Scanner](https://dev.to/jaiminchovatia/network-scanning-with-python-arp-port-and-dns-scanner-20bh)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4age)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-ipe)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-6le)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-57na)
+- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-onk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
