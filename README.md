@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying Object Relational Mapping &lpar;ORM&rpar; on a C# .NET application](https://dev.to/raziq_din_bd0274cc2ac748b/applying-object-relational-mapping-orm-on-a-c-net-application-54g1)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-53l0)
-- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-57hd)
-- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-573)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2c9o)
+- [Hourglass Concord — Scientific Hypothesis](https://dev.to/it_junior_theory_new/hourglass-concord-scientific-hypothesis-4o11)
+- [Linear regression Algorithm](https://dev.to/codeneuron/classification-of-machine-learning-algorithms-53ac)
+- [How I Built My Developer Portfolio — Step by Step](https://dev.to/fabianlou1s/how-i-built-my-developer-portfolio-step-by-step-21kc)
+- [AI Checkout and Agent Commerce: The Future of How We Shop](https://dev.to/gruve_abby_2bb4e7e1499283/ai-checkout-and-agent-commerce-the-future-of-how-we-shop-4a45)
+- [Beyond the Follow: 5 Surprising Truths About Building a True Brand Community](https://dev.to/web4/beyond-the-follow-5-surprising-truths-about-building-a-true-brand-community-4cil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
