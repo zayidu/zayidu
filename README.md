@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Rooster Fighter - Official Anime Opening &lpar;What&#39;s a Hero? by Daruma ROLLIN&#39;&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4b4p)
-- [Can My Ex Still See My Photos After I Deleted Them?](https://dev.to/yogsec/can-my-ex-still-see-my-photos-after-i-deleted-them-15o9)
-- [Turning a 10.1&quot; netbook to a somewhat usable PC.](https://dev.to/joepornillos/turning-a-101-netbook-to-a-somewhat-usable-pc-3mb)
-- [Flexbox &amp; Grid Playground – Master CSS Layouts Visually in 2025](https://dev.to/frontendtoolstech/flexbox-grid-playground-master-css-layouts-visually-in-2025-1l4h)
+- [Children with Autism: Powerful Ways to Support Them](https://dev.to/junecool/children-with-autism-powerful-ways-to-support-them-4kgj)
+- [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
+- [How DRBench Stress-Tests AI Agents for Real-World Enterprise Research](https://dev.to/aiwithapex/how-drbench-stress-tests-ai-agents-for-real-world-enterprise-research-d9)
+- [Day 17 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-17-of-100-days-dsa-coding-challenge-36be)
+- [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
