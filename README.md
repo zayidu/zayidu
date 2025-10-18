@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nahre Sol: how to engineer nostalgia in music &lpar;studio ghibli style&rpar;](https://dev.to/music_youtube/nahre-sol-how-to-engineer-nostalgia-in-music-studio-ghibli-style-36mc)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5dj3)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-37n)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3c92)
-- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-46je)
+- [I built &quot;recipeshare&quot; using nextjs - would love feedback](https://dev.to/vivekvemula21/i-built-recipeshare-using-nextjs-would-love-feedback-go0)
+- [LimeDB: Streamlined Deployment with New Docker Configurations for Dev &amp; Prod](https://dev.to/namanvashistha/limedb-streamlined-deployment-with-new-docker-configurations-for-dev-prod-7gh)
+- [Why curl and Your Browser Sometimes See Different Results](https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l)
+- [Building a Self-Healing Parking Detection System: MLOps on Autopilot 🚗](https://dev.to/kareemblessed/building-a-self-healing-parking-detection-system-mlops-on-autopilot-2gd8)
+- [🏆Sure AI — Winning the Meta Track at FutureStack GenAI Hackathon by WeMakeDevs](https://dev.to/hibino_reddy/sure-ai-winning-the-meta-track-at-futurestack-genai-hackathon-by-wemakedevs-5h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
