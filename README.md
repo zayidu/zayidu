@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Has anyone tried Scaleway cloud serverless offerings &lpar;db/functions&rpar;? What are your thoughts if so?](https://dev.to/valeriavg/has-anyone-tried-scaleway-cloud-serverless-offerings-dbfunctions-what-are-your-thoughts-if-so-m2)
-- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
-- [🐱 I Built a Profile API That Returns Random Cat Facts](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
-- [Why Do Content Creators Choose Sora 2 or Veo 3.1 for Social Clips?](https://dev.to/jovin_george_733dcfc16291/why-do-content-creators-choose-sora-2-or-veo-31-for-social-clips-3p1b)
-- [Series Week 5/52 — TAB in Action: Preventing Patching Pitfalls](https://dev.to/nabhaas/series-week-552-tab-in-action-preventing-patching-pitfalls-nm1)
+- [Applying Object Relational Mapping &lpar;ORM&rpar; on a C# .NET application](https://dev.to/raziq_din_bd0274cc2ac748b/applying-object-relational-mapping-orm-on-a-c-net-application-54g1)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-53l0)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-57hd)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-573)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2c9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
