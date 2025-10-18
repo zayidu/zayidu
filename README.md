@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Финальный тест обложки 987654321](https://dev.to/api_troll/finalnyi-tiest-oblozhki-987654321-368k)
-- [Frontend Developer Survival Kit 2025: Tools, Skills &amp; Trends You Need](https://dev.to/frontendtoolstech/frontend-developer-survival-kit-2025-tools-skills-trends-you-need-1bn3)
-- [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
-- [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
-- [Running a Redis Sandbox Entirely in Your Browser](https://dev.to/weboont/running-a-redis-sandbox-entirely-in-your-browser-36l4)
+- [Nahre Sol: how to engineer nostalgia in music &lpar;studio ghibli style&rpar;](https://dev.to/music_youtube/nahre-sol-how-to-engineer-nostalgia-in-music-studio-ghibli-style-36mc)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5dj3)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-37n)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3c92)
+- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-46je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
