@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O Que É NGINX e Como Ele Funciona?](https://dev.to/ikauedev/o-que-e-nginx-e-como-ele-funciona-1727)
-- [The Future Isn&#39;t Machines. It&#39;s Algorithms](https://dev.to/marikinyo/the-future-isnt-machines-its-algorithms-3d74)
-- [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
-- [Untitled](https://dev.to/dennis_bc46e72066dfbe72a4/untitled-5om)
-- [Why Darkweb Marketplace Reviews Cannot Always Be Trusted](https://dev.to/tor_bbb/why-darkweb-marketplace-reviews-cannot-always-be-trusted-dga)
+- [3003. Maximize the Number of Partitions After Operations](https://dev.to/mdarifulhaque/3003-maximize-the-number-of-partitions-after-operations-2dl5)
+- [Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills](https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6)
+- [How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools](https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5)
+- [Title: Figure Technology Solutions Submits Confidential IPO Filing to US Securities and Exchange Commission](https://dev.to/yagyaraj_sharma_6cd410179/title-figure-technology-solutions-submits-confidential-ipo-filing-to-us-securities-and-exchange-2n4p)
+- [DB Mysql/Postgres on AWS vs Hetzner](https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
