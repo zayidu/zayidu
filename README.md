@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3003. Maximize the Number of Partitions After Operations](https://dev.to/mdarifulhaque/3003-maximize-the-number-of-partitions-after-operations-2dl5)
-- [Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills](https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6)
-- [How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools](https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5)
-- [Title: Figure Technology Solutions Submits Confidential IPO Filing to US Securities and Exchange Commission](https://dev.to/yagyaraj_sharma_6cd410179/title-figure-technology-solutions-submits-confidential-ipo-filing-to-us-securities-and-exchange-2n4p)
-- [DB Mysql/Postgres on AWS vs Hetzner](https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43)
+- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
+- [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
+- [Enforcing API Correctness: Automated Contract Testing with OpenAPI and Dredd](https://dev.to/r3d_cr0wn/enforcing-api-correctness-automated-contract-testing-with-openapi-and-dredd-2212)
+- [Building Roblox Games with Kiro: A Spec-Driven Development Approach](https://dev.to/kirodotdev/building-roblox-games-with-kiro-a-spec-driven-development-approach-3c8p)
+- [Understanding OLED Displays: How They Work and Why They Matter in Modern Devices](https://dev.to/kevinzhang109/understanding-oled-displays-how-they-work-and-why-they-matter-in-modern-devices-5j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
