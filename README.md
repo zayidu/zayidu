@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
-- [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
-- [Enforcing API Correctness: Automated Contract Testing with OpenAPI and Dredd](https://dev.to/r3d_cr0wn/enforcing-api-correctness-automated-contract-testing-with-openapi-and-dredd-2212)
-- [Building Roblox Games with Kiro: A Spec-Driven Development Approach](https://dev.to/kirodotdev/building-roblox-games-with-kiro-a-spec-driven-development-approach-3c8p)
-- [Understanding OLED Displays: How They Work and Why They Matter in Modern Devices](https://dev.to/kevinzhang109/understanding-oled-displays-how-they-work-and-why-they-matter-in-modern-devices-5j9)
+- [Redis vs Memcached: The Complete Guide to Choosing the Right Caching Solution for Your Project](https://dev.to/sizan_mahmud0_e7c3fd0cb68/redis-vs-memcached-the-complete-guide-to-choosing-the-right-caching-solution-for-your-project-4p31)
+- [UnOfficial Implementation of Angular&#39;s Selectorless Components](https://dev.to/wszgrcy/unofficial-implementation-of-angulars-selectorless-components-1o2i)
+- [Building a High-Performance Text Embedding API with Rust, Axum, and ONNX](https://dev.to/mayu2008/building-a-high-performance-text-embedding-api-with-rust-axum-and-onnx-12j4)
+- [My Tech &amp; Coding Journey](https://dev.to/ekopteach/my-tech-coding-journey-1ad3)
+- [🗂️ Accessing Remote Files Seamlessly with SSHFS](https://dev.to/ernesto_malave_285068a60e/accessing-remote-files-seamlessly-with-sshfs-46bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
