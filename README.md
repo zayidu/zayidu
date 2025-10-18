@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis vs Memcached: The Complete Guide to Choosing the Right Caching Solution for Your Project](https://dev.to/sizan_mahmud0_e7c3fd0cb68/redis-vs-memcached-the-complete-guide-to-choosing-the-right-caching-solution-for-your-project-4p31)
-- [UnOfficial Implementation of Angular&#39;s Selectorless Components](https://dev.to/wszgrcy/unofficial-implementation-of-angulars-selectorless-components-1o2i)
-- [Building a High-Performance Text Embedding API with Rust, Axum, and ONNX](https://dev.to/mayu2008/building-a-high-performance-text-embedding-api-with-rust-axum-and-onnx-12j4)
-- [My Tech &amp; Coding Journey](https://dev.to/ekopteach/my-tech-coding-journey-1ad3)
-- [🗂️ Accessing Remote Files Seamlessly with SSHFS](https://dev.to/ernesto_malave_285068a60e/accessing-remote-files-seamlessly-with-sshfs-46bl)
+- [IGN: Rooster Fighter - Official Anime Opening &lpar;What&#39;s a Hero? by Daruma ROLLIN&#39;&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4b4p)
+- [Can My Ex Still See My Photos After I Deleted Them?](https://dev.to/yogsec/can-my-ex-still-see-my-photos-after-i-deleted-them-15o9)
+- [Turning a 10.1&quot; netbook to a somewhat usable PC.](https://dev.to/joepornillos/turning-a-101-netbook-to-a-somewhat-usable-pc-3mb)
+- [Flexbox &amp; Grid Playground – Master CSS Layouts Visually in 2025](https://dev.to/frontendtoolstech/flexbox-grid-playground-master-css-layouts-visually-in-2025-1l4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
