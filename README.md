@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Children with Autism: Powerful Ways to Support Them](https://dev.to/junecool/children-with-autism-powerful-ways-to-support-them-4kgj)
-- [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
-- [How DRBench Stress-Tests AI Agents for Real-World Enterprise Research](https://dev.to/aiwithapex/how-drbench-stress-tests-ai-agents-for-real-world-enterprise-research-d9)
-- [Day 17 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-17-of-100-days-dsa-coding-challenge-36be)
-- [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2f7p)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4co7)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-30mo)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-57b8)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-ne3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
