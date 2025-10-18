@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About Machine Learning Most Experts Won&#39;t Tell You](https://dev.to/vikramlingam/the-truth-about-machine-learning-most-experts-wont-tell-you-n2j)
-- [Building Better YouTube Scripts: A Structured Prompt for AI Writing Assistants](https://dev.to/huizhudev/building-better-youtube-scripts-a-structured-prompt-for-ai-writing-assistants-3eb6)
-- [🚀 Building a Dynamic Profile API — My HNG Backend Internship Stage 0 Experience](https://dev.to/queen_codes/building-a-dynamic-profile-api-my-hng-backend-internship-stage-0-experience-2e9c)
-- [A Token of My Affliction: The Hidden Pain Behind Every LLM](https://dev.to/learnwithadvi/a-token-of-my-affliction-the-hidden-pain-behind-every-llm-3ecl)
-- [Andrej Karpathy – It will take a decade to work through the issues with agents](https://dev.to/technoblogger14o3/andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents-315a)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-1j9m)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-47k9)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-3a0f)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-26fl)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2884)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
