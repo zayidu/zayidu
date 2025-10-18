@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes Were Made](https://dev.to/johannesmogashoa/mistakes-were-made-2p8n)
-- [Implementing a Language Server with Language Server Protocol - Basic Completion &lpar;Part 5&rpar;](https://dev.to/mistrysamvid/implementing-a-language-server-with-language-server-protocol-basic-completion-part-5-2apd)
-- [The Talent War Myth: Why Great IT Recruiters Are Building Communities, Not Hunting Candidates](https://dev.to/alex-john/the-talent-war-myth-why-great-it-recruiters-are-building-communities-not-hunting-candidates-527)
-- [Beyond the Layer: Unveiling the Power of a Well-Chosen Men&#39;s Coat](https://dev.to/keira_henry/beyond-the-layer-unveiling-the-power-of-a-well-chosen-mens-coat-327e)
-- [How Your Website Updates Automatically When You Push to GitHub](https://dev.to/designndev/how-your-website-updates-automatically-when-you-push-to-github-2hmc)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-200m)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3io9)
+- [Creare una PWA con Laravel e Bootstrap | Building a PWA with Laravel and Bootstrap](https://dev.to/roberto_celano/creare-una-pwa-con-laravel-e-bootstrap-building-a-pwa-with-laravel-and-bootstrap-5epe)
+- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-540l)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-3e2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
