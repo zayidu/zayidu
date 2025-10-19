@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4k88)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1aea)
+- [Debugging in Go with Delve](https://dev.to/migsarnavarro/debugging-in-go-with-delve-32a3)
+- [GPT-5 সম্পর্কে সংক্ষিপ্ত তথ্য:👇](https://dev.to/younus_devto/gpt-5-smprke-snkssipt-tthy-59l)
+- [A Handy All-in-One Web Tool That Makes Daily File and Image Tasks Super Easy](https://dev.to/foxpink/a-handy-all-in-one-web-tool-that-makes-daily-file-and-image-tasks-super-easy-2bdi)
+- [Building a Dynamic Profile API in ASP.NET Core for HNGi Stage 0 🐱💻](https://dev.to/michealanazodo/building-a-dynamic-profile-api-in-aspnet-core-for-hngi-stage-0-12pc)
+- [Can tube ice machines reduce costs through better ice size uniformity?](https://dev.to/maqhielotubo_port/can-tube-ice-machines-reduce-costs-through-better-ice-size-uniformity-596g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
