@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
-
-The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb)
-- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
-- [** &quot;Ian Khan - Top Keynote Speaker in Belo Horizonte, Brazil](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-belo-horizonte-brazil-1anj)
-- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
-- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4)
+- [Simulador do Setun, o computador Soviético Ternário Balanceado](https://dev.to/robsoncassiano-software/simulador-do-setun-o-computador-sovietico-ternario-balanceado-3j7b)
+- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
+- [When you opened a screen shot of a video in Paint, the video was playing in it](https://dev.to/technoblogger14o3/when-you-opened-a-screen-shot-of-a-video-in-paint-the-video-was-playing-in-it-2g2j)
+- [Understanding the Event Loop and Concurrency in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-event-loop-and-concurrency-in-javascript-beginners-guide-5ob)
+- [Laughing Through the Code: Dev&#39;s Guide to October 19&#39;s Tech Qwirks](https://dev.to/om_shree_0709/laughing-through-the-code-devs-guide-to-october-19s-tech-qwirks-1h1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
