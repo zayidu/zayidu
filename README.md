@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building an open-source AI ATC for flight sims &lpar;and looking for like-minded devs&rpar;](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5)
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8)
-- [Conversational Architecture with LLM Intelligence — SemanticCue v1](https://dev.to/ganeshn/conversational-architecture-with-llm-intelligence-semanticcue-v1-2ak9)
-- [Migrating VMware Workloads from VMWare to AWS – A Smarter, Future-Ready Approach](https://dev.to/kishore_karumanchi_acbc18/migrating-vmware-workloads-from-vmware-to-aws-a-smarter-future-ready-approach-4agd)
-- [Creating the Pinnacle of Niche Software: Consume Squidex Headless CMS Api&#39;s in ELM!](https://dev.to/sukkergris/creating-the-pinnacle-of-niche-software-consume-squidex-headless-cms-apis-in-elm-59i7)
+- [SEO untuk Developer: Panduan Lengkap dari Nol](https://dev.to/jeremy_defoe_7ad3a5492490/seo-untuk-developer-panduan-lengkap-dari-nol-595e)
+- [The Naive Bayes Classifier](https://dev.to/carlosrambles/the-naive-bayes-classifier-30kl)
+- [Αρχές Ομαδικής Συνεργασίας και Προϋποθέσεις Προσωπικής Συμμετοχής: Ενίσχυση της Ομαδικότητας και της Αυτοβελτίωσης](https://dev.to/__b63657/arkhes-omadikes-sunergasias-kai-proupotheseis-prosopikes-summetokhes-eniskhuse-tes-omadikotetas-kai-ege)
+- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
+- [Learning Chinese Philosophy the Tech Way: A Practical Approach to the I Ching &lpar;易經&rpar; - Concepts, Culture, and a C# Console App3](https://dev.to/auyeungdavid_2847435260/learning-chinese-philosophy-the-tech-way-a-practical-approach-to-the-i-ching-yi-jing-concepts-4f5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
