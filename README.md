@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-d82)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-14hj)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4ni0)
-- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-5hl2)
-- [Making CUPS Classes Work for You](https://dev.to/sebos/making-cups-classes-work-for-you-26no)
+- [SREday SF 2025: Human Centered SRE In An AI World](https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k)
+- [Web Development Discord Server](https://dev.to/faraba2000_8c9cacc0f8d3ae/web-development-discord-server-4m0j)
+- [Generated Content](https://dev.to/iankhanfuturist/generated-content-44b1)
+- [Multi-Agent Systems with Strands Agents](https://dev.to/aws/multi-agent-systems-with-strands-agents-from-theory-to-swarm-intelligence-1nm6)
+- [The AI Era: New Prompt Engineering is Just the Start: The Real Skill Developers Need is AI Product Leadership](https://dev.to/marikinyo/the-ai-era-new-prompt-engineering-is-just-the-start-the-real-skill-developers-need-is-ai-product-41jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
