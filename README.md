@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging in Go with Delve](https://dev.to/migsarnavarro/debugging-in-go-with-delve-32a3)
-- [GPT-5 সম্পর্কে সংক্ষিপ্ত তথ্য:👇](https://dev.to/younus_devto/gpt-5-smprke-snkssipt-tthy-59l)
-- [A Handy All-in-One Web Tool That Makes Daily File and Image Tasks Super Easy](https://dev.to/foxpink/a-handy-all-in-one-web-tool-that-makes-daily-file-and-image-tasks-super-easy-2bdi)
-- [Building a Dynamic Profile API in ASP.NET Core for HNGi Stage 0 🐱💻](https://dev.to/michealanazodo/building-a-dynamic-profile-api-in-aspnet-core-for-hngi-stage-0-12pc)
-- [Can tube ice machines reduce costs through better ice size uniformity?](https://dev.to/maqhielotubo_port/can-tube-ice-machines-reduce-costs-through-better-ice-size-uniformity-596g)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-d82)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-14hj)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4ni0)
+- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-5hl2)
+- [Making CUPS Classes Work for You](https://dev.to/sebos/making-cups-classes-work-for-you-26no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
