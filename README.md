@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-dj9)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-neb)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a70)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-2941)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1ppp)
+- [🚫 Dopamine Detox - How I Rewired My Brain for Focus 💻](https://dev.to/nurthedev/dopamine-detox-how-i-rewired-my-brain-for-focus-553j)
+- [Trump&#39;s Surreal AI Video Sparks Debate on Deepfake Limitations](https://dev.to/mabualzait/trumps-surreal-ai-video-sparks-debate-on-deepfake-limitations-54jh)
+- [Praying to the Machines: How AI is Redefining Faith and Code](https://dev.to/mabualzait/praying-to-the-machines-how-ai-is-redefining-faith-and-code-55jb)
+- [How to optimize tube ice machine industrial innovation for better productivity?](https://dev.to/tubofrio_plus/how-to-optimize-tube-ice-machine-industrial-innovation-for-better-productivity-4g86)
+- [** &quot;Ian Khan - Top Keynote Speaker in Casablanca, Morocco](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-casablanca-morocco-m87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
