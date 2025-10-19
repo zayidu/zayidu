@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulador do Setun, o computador Soviético Ternário Balanceado](https://dev.to/robsoncassiano-software/simulador-do-setun-o-computador-sovietico-ternario-balanceado-3j7b)
-- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
-- [When you opened a screen shot of a video in Paint, the video was playing in it](https://dev.to/technoblogger14o3/when-you-opened-a-screen-shot-of-a-video-in-paint-the-video-was-playing-in-it-2g2j)
-- [Understanding the Event Loop and Concurrency in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-event-loop-and-concurrency-in-javascript-beginners-guide-5ob)
-- [Laughing Through the Code: Dev&#39;s Guide to October 19&#39;s Tech Qwirks](https://dev.to/om_shree_0709/laughing-through-the-code-devs-guide-to-october-19s-tech-qwirks-1h1f)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-dj9)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-neb)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a70)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-2941)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1ppp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
