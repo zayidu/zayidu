@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume AI Creator: Building an Intelligent Resume Platform with MCP and Auth0](https://dev.to/uratmangun/resume-ai-creator-building-an-intelligent-resume-platform-with-mcp-and-auth0-4039)
-- [Deep dive Tainted Grail [3] - Medusa - blazing fast cliffs rendering](https://dev.to/kamilvdono/deep-dive-tainted-grail-3-medusa-blazing-fast-cliffs-rendering-4pi1)
-- [Chinese Love Story &lpar;Part 1&rpar; — To Know Each Other Yet Be Unable to Fall in Love: What a Pain It Is](https://dev.to/tripcat/chinese-love-story-part-1-to-know-each-other-yet-be-unable-to-fall-in-love-what-a-pain-it-is-1hem)
-- [I Built 50+ Free SEO Tools in 1 Week - Here&#39;s What I Learned](https://dev.to/dev_coder91/i-built-50-free-seo-tools-in-1-week-heres-what-i-learned-3h1k)
-- [Ubuntuでイヤフォン、スピーカーから音が出ない](https://dev.to/kiyamk/ubuntudeiyahuon-supikakarayin-gachu-nai-37g5)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3o9i)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-13nf)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-p85)
+- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-5np)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-353f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
