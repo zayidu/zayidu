@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💻Building and Deploying My First Express API - HNG Stage 0 Task](https://dev.to/fiona_nyadero_0b288495ccc/building-and-deploying-my-first-express-api-hng-stage-0-task-1h6e)
-- [From Web Developer to AI + IoT Research Engineer: My Transition Journey Begins](https://dev.to/rhjoyofficial/from-web-developer-to-ai-iot-research-engineer-my-transition-journey-begins-2nb5)
-- [Building Smart TV Apps Just Got Easier](https://dev.to/foridpathan/building-smart-tv-apps-just-got-easier-2lae)
-- [Why migrate from SAP Hybris to Adobe Commerce?](https://dev.to/ziffity_solutionsllc_353/why-migrate-from-sap-hybris-to-adobe-commerce-1ah7)
-- [Day 6 of My Web Dev Journey – Exploring HTML Tags](https://dev.to/bblackwind/day-6-of-my-web-dev-journey-exploring-html-tags-g9h)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-5904)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-5b9a)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-474p)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-5ajf)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-37ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
