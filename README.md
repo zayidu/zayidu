@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Fundamentals: Understanding Containers and the Docker Ecosystem 🐳](https://dev.to/techwithhari/docker-fundamentals-understanding-containers-and-the-docker-ecosystem-3oe6)
-- [# Clara 4.0 – Community Edition: Framework open source para asistentes de IA 🚀](https://dev.to/carmenmanzanoestshipit/-clara-40-community-edition-framework-open-source-para-asistentes-de-ia-fpl)
-- [Who’s Who in Cybersecurity: Understanding the Different Types of Threat Actors](https://dev.to/ciberconscientes/whos-who-in-cybersecurity-understanding-the-different-types-of-threat-actors-26o5)
-- [Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.](https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d)
-- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-2dh3)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4k88)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1aea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
