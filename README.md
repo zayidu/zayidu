@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh)
+- [AngularJS to Angular: A Guide for Hassle-free Migration](https://dev.to/hashbyt/angularjs-to-angular-a-guide-for-hassle-free-migration-57mg)
+- [Day 26 - Alert Component Part 5 - Extract logic and component from Alert Bar](https://dev.to/railsstudent/day-26-alert-component-part-4-extract-logic-and-component-from-alert-bar-1in5)
+- [Code Yourself](https://dev.to/glen_talking_cat/code-yourself-1071)
+- [What are Vector Embeddings?](https://dev.to/olafur_aron/what-are-vector-embeddings-1bag)
+- [Code, Coffee &amp; Chaos: How I Built and Launched My Angular Micro SaaS MVP](https://dev.to/karol_modelski/code-coffee-chaos-how-i-built-and-launched-my-angular-micro-saas-mvp-1fdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
