@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
-- [How to Check If Random Forests Work for Your Dataset](https://dev.to/codeneuron/how-to-check-if-random-forests-work-for-your-dataset-23e0)
-- [Level Up Your Coding: Build Your Own AI Assistant!](https://dev.to/karthik_n/level-up-your-coding-build-your-own-ai-assistant-33f2)
-- [Building My First Backend API: A Dynamic Profile Endpoint HNG 13](https://dev.to/iyktech22/building-my-first-backend-api-a-dynamic-profile-endpoint-hng-13-3mjm)
-- [Getting Started with Blazor WebAssembly in ASP.NET Core 10](https://dev.to/djamware_tutorial_eba1a61/getting-started-with-blazor-webassembly-in-aspnet-core-10-40a0)
+- [I&#39;m building an open-source AI ATC for flight sims &lpar;and looking for like-minded devs&rpar;](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8)
+- [Conversational Architecture with LLM Intelligence — SemanticCue v1](https://dev.to/ganeshn/conversational-architecture-with-llm-intelligence-semanticcue-v1-2ak9)
+- [Migrating VMware Workloads from VMWare to AWS – A Smarter, Future-Ready Approach](https://dev.to/kishore_karumanchi_acbc18/migrating-vmware-workloads-from-vmware-to-aws-a-smarter-future-ready-approach-4agd)
+- [Creating the Pinnacle of Niche Software: Consume Squidex Headless CMS Api&#39;s in ELM!](https://dev.to/sukkergris/creating-the-pinnacle-of-niche-software-consume-squidex-headless-cms-apis-in-elm-59i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
