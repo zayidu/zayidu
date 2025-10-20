@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-329n)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5hg7)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ajo)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-53oi)
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-5fda)
+- [从Hyperliquid获取交易数据，计算Sharpe 和 Profit Factor](https://dev.to/dragon72463399/cong-hyperliquidhuo-qu-jiao-yi-shu-ju-ji-suan-sharpe-he-profit-factor-3f3m)
+- [Building a Dynamic Profile API with FastAPI: My HNG Stage 0 Experience](https://dev.to/afeh/building-a-dynamic-profile-api-with-fastapi-my-hng-stage-0-experience-4an4)
+- [🐝 Why Hive Exists - And Why Its Complexity Is Actually Necessary](https://dev.to/mohhddhassan/why-hive-exists-and-why-its-complexity-is-actually-necessary-n92)
+- [[Boost]](https://dev.to/devall/-5695)
+- [🚀 AI Roadmap Visualizer — turning engineering plans into pixel-perfect art](https://dev.to/kasiakab/ai-roadmap-visualizer-turning-engineering-plans-into-pixel-perfect-art-1f7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
