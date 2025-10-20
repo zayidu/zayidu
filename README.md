@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-568d)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a9i)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5213)
-- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-2g7l)
+- [The Great AWS Outage of October 2025: When the Internet&#39;s Backbone Buckled](https://dev.to/1geek/the-great-aws-outage-of-october-2025-when-the-internets-backbone-buckled-207n)
+- [👋 Hey devs!](https://dev.to/msbala007/hey-devs-3h2j)
+- [Future AI Cryptocurrency](https://dev.to/ashikur_rahmannazil93/future-ai-cryptocurrency-gn)
+- [Why Public AI Tools Like ChatGPT Are Dangerous for Sensitive Legal Work and How Law Firms Can Protect Client Data](https://dev.to/heyjoshlee/why-public-ai-tools-like-chatgpt-are-dangerous-for-sensitive-legal-work-and-how-law-firms-can-344b)
+- [Así se construye un futuro digital más seguro gracias a las telecomunicaciones](https://dev.to/cdi_euroamericano_f47712c/asi-se-construye-un-futuro-digital-mas-seguro-gracias-a-las-telecomunicaciones-3n63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
