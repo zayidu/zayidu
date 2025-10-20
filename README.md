@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great AWS Outage of October 2025: When the Internet&#39;s Backbone Buckled](https://dev.to/1geek/the-great-aws-outage-of-october-2025-when-the-internets-backbone-buckled-207n)
-- [👋 Hey devs!](https://dev.to/msbala007/hey-devs-3h2j)
-- [Future AI Cryptocurrency](https://dev.to/ashikur_rahmannazil93/future-ai-cryptocurrency-gn)
-- [Why Public AI Tools Like ChatGPT Are Dangerous for Sensitive Legal Work and How Law Firms Can Protect Client Data](https://dev.to/heyjoshlee/why-public-ai-tools-like-chatgpt-are-dangerous-for-sensitive-legal-work-and-how-law-firms-can-344b)
-- [Así se construye un futuro digital más seguro gracias a las telecomunicaciones](https://dev.to/cdi_euroamericano_f47712c/asi-se-construye-un-futuro-digital-mas-seguro-gracias-a-las-telecomunicaciones-3n63)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2da4)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-21a7)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-5hj9)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5g73)
+- [Awesome Claude Skills](https://dev.to/with_attitude/awesome-claude-skills-4mi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
