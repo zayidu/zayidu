@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [connect-two-laptop](https://dev.to/irshad_alam_4416767d67e74/connect-two-laptop-1fng)
-- [Tuya SDK App Migration Guide 2025: How to Move from Tuya OEM App to a Custom SDK App](https://dev.to/zediot/tuya-sdk-app-migration-guide-2025-how-to-move-from-tuya-oem-app-to-a-custom-sdk-app-16jp)
-- [Building a real-time sports data pipeline with AWS Fargate and AppSync](https://dev.to/dobeerman/building-a-real-time-sports-data-pipeline-with-aws-fargate-and-appsync-4hee)
-- [Amazon Bedrock AgentCore Identity - Part 1 Introduction and overview](https://dev.to/aws-heroes/amazon-bedrock-agentcore-identity-part-1-introduction-and-overview-di1)
-- [Automating Word Document Creation with Python: A Practical Guide](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-creation-with-python-a-practical-guide-21lf)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-49il)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-4f8l)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3k3d)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4o55)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-cn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
