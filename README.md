@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2da4)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-21a7)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-5hj9)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5g73)
-- [Awesome Claude Skills](https://dev.to/with_attitude/awesome-claude-skills-4mi3)
+- [Navigating the .NET Ecosystem: My Take on a Practical Roadmap](https://dev.to/eli77rhm/navigating-the-net-ecosystem-my-take-on-a-practical-roadmap-463o)
+- [Selenium Navigation and Page Interaction](https://dev.to/hasdata_com/selenium-navigation-and-page-interaction-5a3f)
+- [🧠 System Design: Foundations, Scaling Strategies, and Resilience Patterns](https://dev.to/matheusgomes062/system-design-foundations-scaling-strategies-and-resilience-patterns-1b79)
+- [[MATERIAL]- Taller Manos a la obra con git y github](https://dev.to/doncarmone/material-taller-manos-a-la-obra-con-git-y-github-4hfj)
+- [Longest amount of time on any project?](https://dev.to/raddevus/longest-amount-of-time-on-any-project-420c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
