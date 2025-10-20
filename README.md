@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly #2 — Thanks for the Feedback!](https://dev.to/pascal_cescato_692b7a8a20/ai-weekly-2-thanks-for-the-feedback-3gn1)
-- [How I Deployed WordPress on GCP Cloud Run for 30-60% Cheaper Than Managed Hostin](https://dev.to/tohid_/how-i-deployed-wordpress-on-gcp-cloud-run-for-30-60-cheaper-than-managed-hostin-178c)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1g0p)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1onj)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-c2o)
+- [Navigating Flyway&#39;s Unexpected Behavior in Database Evolution](https://dev.to/ijuren/navigating-flyways-unexpected-behavior-in-database-evolution-12cf)
+- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
+- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
+- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
+- [Unlocking the Market: The Rise and Rationale of AI White-labels #ai #saas #webdev #startup](https://dev.to/lester_mbunga_0f0d35d7f5c/unlocking-the-market-the-rise-and-rationale-of-ai-white-labelsai-saas-webdev-startup-3c7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
