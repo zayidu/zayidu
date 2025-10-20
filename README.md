@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-5h32)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-997)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2e8c)
-- [[Boost]](https://dev.to/shinomontaz/-25de)
-- [🌍 From Campus to Community: My Unexpected Journey into Tech Leadership](https://dev.to/pavan_kumarmukkera_527ab/from-campus-to-community-my-unexpected-journey-into-tech-leadership-4g3)
+- [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
+- [**Unlocking Efficiency: AI-Powered Predictive Maintenance at](https://dev.to/drcarlosruizviquez/unlocking-efficiency-ai-powered-predictive-maintenance-at-2535)
+- [**Approach Showdown: Modular vs](https://dev.to/drcarlosruizviquez/approach-showdown-modular-vs-19ao)
+- [The prospect of AI-powered cybersecurity systems combating i](https://dev.to/drcarlosruizviquez/the-prospect-of-ai-powered-cybersecurity-systems-combating-i-719)
+- [**Unlock the Power of Customized Text Generation with T5X**](https://dev.to/drcarlosruizviquez/unlock-the-power-of-customized-text-generation-with-t5x-485i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
