@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering 102: Understanding Transactions, ACID, and Isolation in PostgreSQL](https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm)
-- [3 Best AI UGC Ad Generators of 2025](https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p)
+- [connect-two-laptop](https://dev.to/irshad_alam_4416767d67e74/connect-two-laptop-1fng)
+- [Tuya SDK App Migration Guide 2025: How to Move from Tuya OEM App to a Custom SDK App](https://dev.to/zediot/tuya-sdk-app-migration-guide-2025-how-to-move-from-tuya-oem-app-to-a-custom-sdk-app-16jp)
+- [Building a real-time sports data pipeline with AWS Fargate and AppSync](https://dev.to/dobeerman/building-a-real-time-sports-data-pipeline-with-aws-fargate-and-appsync-4hee)
+- [Amazon Bedrock AgentCore Identity - Part 1 Introduction and overview](https://dev.to/aws-heroes/amazon-bedrock-agentcore-identity-part-1-introduction-and-overview-di1)
+- [Automating Word Document Creation with Python: A Practical Guide](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-creation-with-python-a-practical-guide-21lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
