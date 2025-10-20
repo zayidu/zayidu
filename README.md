@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Being Agile in AI-Native Software Development](https://dev.to/ankudear/being-agile-in-ai-native-software-development-1mhj)
-- [Die Zukunft von Krypto entscheidet sich über UX — nicht über den nächsten Bullrun](https://dev.to/piwa_lin_8b3155c3dd85f0f9/die-zukunft-von-krypto-entscheidet-sich-uber-ux-nicht-uber-den-nachsten-bullrun-4abl)
-- [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
-- [Gbit Framework](https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa)
-- [De User Story a Test Case en minutos: microservicio IA &lpar;FastAPI + Gemini + Langfuse&rpar; para QA](https://dev.to/stevenayal/de-user-story-a-test-case-en-minutos-microservicio-ia-fastapi-gemini-langfuse-para-qa-3l14)
+- [Why Choose Go for Development?](https://dev.to/hugohenrick/why-choose-go-for-development-3kj0)
+- [How I Built a Dynamic Profile API with Live Cat Facts](https://dev.to/towbee98/how-i-built-a-dynamic-profile-api-with-live-cat-facts-12p5)
+- [Authentication &amp; Security: Keeping Bad Guys Out Without Annoying Users](https://dev.to/shaq_attack/authentication-security-keeping-bad-guys-out-without-annoying-users-2443)
+- [Mastering Go’s Network I/O: Build Scalable, High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/mastering-gos-network-io-build-scalable-high-performance-apps-579o)
+- [Modularity in Circuits and Software](https://dev.to/wale1202/modularity-in-circuits-and-software-4e66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
