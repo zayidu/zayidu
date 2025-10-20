@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
-- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
-- [Day 68 — Scaling with Terraform](https://dev.to/udoh_deborah_b1e484c474bf/day-68-scaling-with-terraform-4ig1)
-- [Why Clean Code Matters: Lessons from Uncle Bob](https://dev.to/dionarodrigues/why-clean-code-matters-lessons-from-uncle-bob-137l)
-- [Kan [கண்] is an intelligent eye health monitoring application](https://dev.to/qainsights/kan-knn-is-an-intelligent-eye-health-monitoring-application-3mic)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-568d)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a9i)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5213)
+- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-2g7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
