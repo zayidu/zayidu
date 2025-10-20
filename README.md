@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)
-- [A simple web simulator about chance, mortality, and waiting](https://dev.to/c58_akf_b7c9df8ae6d4c5bc9/a-simple-web-simulator-about-chance-mortality-and-waiting-1dk)
-- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-23il)
-- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
-- [External Storage Sanitization: Verified Sector-Level Wipe for Secure Disposal](https://dev.to/owly/external-storage-sanitization-verified-sector-level-wipe-for-secure-disposal-3791)
+- [HashCodex — Building a Distributed, Secure Code Execution Platform Like LeetCode](https://dev.to/shahrohit/hashcodex-building-a-distributed-secure-code-execution-platform-like-leetcode-2gpp)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3582)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-58o3)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-m45)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-298j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
