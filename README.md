@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-2fgh)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4741)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-knp)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-fho)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-4jjd)
+- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
+- [Cultivating Psychological Safety in Distributed Engineering Teams](https://dev.to/stormdjent/cultivating-psychological-safety-in-distributed-engineering-teams-1kjf)
+- [Idempotence in System Design: Full example](https://dev.to/lukasniessen/idempotence-in-system-design-full-example-2acb)
+- [Turning Financial Goals into Smart Mutual Fund Recommendations](https://dev.to/emilp/turning-financial-goals-into-smart-mutual-fund-recommendations-18ig)
+- [Ekinox: Build Production-Ready AI Agent Workflows in Minutes](https://dev.to/elreco_/ekinox-build-production-ready-ai-agent-workflows-in-minutes-33k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
