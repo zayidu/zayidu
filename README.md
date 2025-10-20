@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Choose Go for Development?](https://dev.to/hugohenrick/why-choose-go-for-development-3kj0)
-- [How I Built a Dynamic Profile API with Live Cat Facts](https://dev.to/towbee98/how-i-built-a-dynamic-profile-api-with-live-cat-facts-12p5)
-- [Authentication &amp; Security: Keeping Bad Guys Out Without Annoying Users](https://dev.to/shaq_attack/authentication-security-keeping-bad-guys-out-without-annoying-users-2443)
-- [Mastering Go’s Network I/O: Build Scalable, High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/mastering-gos-network-io-build-scalable-high-performance-apps-579o)
-- [Modularity in Circuits and Software](https://dev.to/wale1202/modularity-in-circuits-and-software-4e66)
+- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)
+- [A simple web simulator about chance, mortality, and waiting](https://dev.to/c58_akf_b7c9df8ae6d4c5bc9/a-simple-web-simulator-about-chance-mortality-and-waiting-1dk)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-23il)
+- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
+- [External Storage Sanitization: Verified Sector-Level Wipe for Secure Disposal](https://dev.to/owly/external-storage-sanitization-verified-sector-level-wipe-for-secure-disposal-3791)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
