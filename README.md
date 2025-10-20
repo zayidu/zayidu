@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServeSense — Windows SFTP/FTPS/FTP Server with Least-Privilege Setup &lpar;No Admin Needed&rpar;](https://dev.to/ngtduc693/servesense-windows-sftpftpsftp-server-with-least-privilege-setup-no-admin-needed-6k)
-- [Meet Hector: A Declarative AI Agent Platform in Go &lpar;Built on A2A&rpar;](https://dev.to/kadir_pekel_3277e6819e5b9/meet-hector-a-declarative-ai-agent-platform-in-go-40j2)
-- [The One Lesson I Wish I&#39;d Known 10 Years Ago to Become a Better Developer](https://dev.to/canro91/the-one-lesson-i-wish-id-known-10-years-ago-to-become-a-better-developer-5a8b)
-- [Using a Non-Deterministic System to Find Climate Patterns](https://dev.to/bcornils/using-a-non-deterministic-system-to-find-climate-patterns-4l43)
-- [One Dev, Infinite Agents: The Final Sprint](https://dev.to/p3ngu1nzz/one-dev-infinite-agents-the-final-sprint-2i2l)
+- [Data Engineering 102: Understanding Transactions, ACID, and Isolation in PostgreSQL](https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm)
+- [3 Best AI UGC Ad Generators of 2025](https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
