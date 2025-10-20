@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
-- [Cultivating Psychological Safety in Distributed Engineering Teams](https://dev.to/stormdjent/cultivating-psychological-safety-in-distributed-engineering-teams-1kjf)
-- [Idempotence in System Design: Full example](https://dev.to/lukasniessen/idempotence-in-system-design-full-example-2acb)
-- [Turning Financial Goals into Smart Mutual Fund Recommendations](https://dev.to/emilp/turning-financial-goals-into-smart-mutual-fund-recommendations-18ig)
-- [Ekinox: Build Production-Ready AI Agent Workflows in Minutes](https://dev.to/elreco_/ekinox-build-production-ready-ai-agent-workflows-in-minutes-33k8)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3fll)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-16ah)
+- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-e25)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-40m4)
+- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-3fca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
