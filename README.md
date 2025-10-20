@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #743 - Writing Perl with LLMs](https://dev.to/szabgab/perl-weekly-743-writing-perl-with-llms-3d7o)
-- [Fundamentals of Document Databases](https://dev.to/danielphilipjohnson/fundamentals-of-document-databases-41dk)
-- [Manage Multiple Terraform Versions with tfswitch](https://dev.to/sahithi_v_ea2d0f17149bf0a/manage-multiple-terraform-versions-with-tfswitch-339n)
-- [From Linear to Systems Thinking: Solving Complex Tech Challenges](https://dev.to/danielphilipjohnson/from-linear-to-systems-thinking-solving-complex-tech-challenges-4nik)
-- [Cooking Without Burning: My DevOps Doings in the Past Few Years](https://dev.to/aws-builders/cooking-without-burning-my-devops-doings-in-the-past-few-years-34)
+- [AI Weekly #2 — Thanks for the Feedback!](https://dev.to/pascal_cescato_692b7a8a20/ai-weekly-2-thanks-for-the-feedback-3gn1)
+- [How I Deployed WordPress on GCP Cloud Run for 30-60% Cheaper Than Managed Hostin](https://dev.to/tohid_/how-i-deployed-wordpress-on-gcp-cloud-run-for-30-60-cheaper-than-managed-hostin-178c)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1g0p)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1onj)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-c2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
