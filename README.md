@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Flyway&#39;s Unexpected Behavior in Database Evolution](https://dev.to/ijuren/navigating-flyways-unexpected-behavior-in-database-evolution-12cf)
-- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
-- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
-- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
-- [Unlocking the Market: The Rise and Rationale of AI White-labels #ai #saas #webdev #startup](https://dev.to/lester_mbunga_0f0d35d7f5c/unlocking-the-market-the-rise-and-rationale-of-ai-white-labelsai-saas-webdev-startup-3c7a)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-329n)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5hg7)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ajo)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-53oi)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-5fda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
