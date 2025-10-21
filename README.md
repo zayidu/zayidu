@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of DevOps: Day 74](https://dev.to/wycliffealphus/100-days-of-devops-day-74-1a3o)
-- [⚡10 JavaScript Concepts You Thought You Knew &lpar;But Didn’t&rpar;](https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb)
-- [[Boost]](https://dev.to/bekalu_adane_20c3cc020599/-1c0k)
-- [Understanding the Arduino IDE build process](https://dev.to/embeddedk8/understanding-the-arduino-ide-build-process-step-by-step-g61)
-- [AI can transform the way we developers think, build, and grow.](https://dev.to/jaideepparashar/ai-can-transform-the-way-we-developers-think-build-and-grow-3a5m)
+- [FTC Safeguards Rule: MFA Compliance for Non-Bank Financial Institutions](https://dev.to/corbado/ftc-safeguards-rule-mfa-compliance-for-non-bank-financial-institutions-3koe)
+- [The Only SaaS Metrics That Actually Matter &lpar;and How to Track Them Right&rpar;](https://dev.to/sonu_goswami/the-only-saas-metrics-that-actually-matter-and-how-to-track-them-right-3mk5)
+- [Why Personal Trainers Need a Website With Booking Tools in 2025](https://dev.to/kamruljpi/why-personal-trainers-need-a-website-with-booking-tools-in-2025-5hc7)
+- [Article 3: 🛠️ Starting from Scratch! A Detailed Guide to the Freqtrade `download-data` Command and Docker Usage](https://dev.to/itrade_icu_ae8778833e3e8c/article-3-starting-from-scratch-a-detailed-guide-to-the-freqtrade-download-data-command-and-2b8d)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-hcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
