@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Words to Intelligence: Understanding NLP and BERT — The Model That Changed Language AI](https://dev.to/sanjida_rezarafa_680f56a/from-words-to-intelligence-understanding-nlp-and-bert-the-model-that-changed-language-ai-373f)
-- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
-- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
-- [Writing Your First LLVM Plugin Pass: Counting Add Instructions](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
-- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
+- [I Just Published My Book: Docker and Kubernetes Security](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2jh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
