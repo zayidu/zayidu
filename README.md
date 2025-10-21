@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Dean Johnson - Before You Hit The Ground &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-johnson-before-you-hit-the-ground-live-on-kexp-3jkl)
-- [KEXP: Dean Johnson - Faraway Skies &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-johnson-faraway-skies-live-on-kexp-416b)
-- [KEXP: Dean Johnson - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-johnson-full-performance-live-on-kexp-1e0a)
-- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-4gek)
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-5blp)
+- [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
+- [Analyzing the Best Diagramming Tools for the LLM Age Based on Token Efficiency](https://dev.to/_768dd7ab130016ab8b0a/analyzing-the-best-diagramming-tools-for-the-llm-age-based-on-token-efficiency-5891)
+- [Choosing Tech Stack in 2025: A Practical Guide](https://dev.to/dimeloper/choosing-tech-stack-in-2025-a-practical-guide-4gll)
+- [Understanding Docker: The Solution to Developer Conflicts](https://dev.to/karthikkorrayi/understanding-docker-the-solution-to-developer-conflicts-ona)
+- [🔥 Complete Shopify Theme Development Course in Hindi &amp; Urdu &lpar;Beginner to Advanced&rpar;](https://dev.to/saadsaif97/complete-shopify-theme-development-course-in-hindi-urdu-beginner-to-advanced-3hld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
