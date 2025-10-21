@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/jair_figueroa_bfbc2fb355e/untitled-1n0l)
-- [Génération de Leads pour Startups Africaines : Pourquoi notre pipeline n&#39;a pas besoin de Salesforce et repose sur WhatsApp](https://dev.to/maxime_dossou_77bbeb5bcc4/generation-de-leads-pour-startups-africaines-pourquoi-notre-pipeline-na-pas-besoin-de-salesforce-1mmf)
-- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
-- [Learning OpenGL Part 5: Lighting](https://dev.to/noticeablesmeh/learning-opengl-part-5-lightinting-2be7)
-- [When AWS Went Down: Lessons in Cloud Resilience from the Real World](https://dev.to/chioma_nwosu_99d57862fb18/when-aws-went-down-lessons-in-cloud-resilience-from-the-real-world-1a4k)
+- [An Exploration of the Commercial Iceberg Catalog Ecosystem](https://dev.to/alexmercedcoder/an-exploration-of-the-commercial-iceberg-catalog-ecosystem-4a1i)
+- [Simply Order &lpar;Part 5&rpar; — Hands-On: Building the Outbox Pattern for Reliable Event](https://dev.to/hassan314159/simply-order-part-5-hands-on-building-the-outbox-pattern-for-reliable-event-60n)
+- [Automata Alchemists: Transmuting Reinforcement Learning into State Machines by Arvind Sundararajan](https://dev.to/arvind_sundararajan/automata-alchemists-transmuting-reinforcement-learning-into-state-machines-by-arvind-sundararajan-4pjd)
+- [Configurar un CDN gratuito con GitHub y jsDelivr](https://dev.to/gekyzo/configurar-un-cdn-gratuito-con-github-y-jsdelivr-28al)
+- [FastMCP + Claude Desktop: When Optional[X] Type Hints Break Validation](https://dev.to/scott_raisbeck_24ea5fbc1e/fastmcp-claude-desktop-when-optionalx-type-hints-break-validation-3bmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
