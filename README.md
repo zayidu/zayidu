@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-439j)
-- [KEXP: Adrian Quesada - El Muchacho De Los Ojos Tristes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-el-muchacho-de-los-ojos-tristes-live-on-kexp-20jb)
-- [KEXP: Adrian Quesada - Puedes Decir De Mi &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-puedes-decir-de-mi-live-on-kexp-1h2i)
-- [KEXP: Adrian Quesada - Hoy Que Llueve &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-hoy-que-llueve-live-on-kexp-3el9)
-- [KEXP: Adrian Quesada - No Juego/ Ídolo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-no-juego-idolo-live-on-kexp-2c3h)
+- [From Words to Intelligence: Understanding NLP and BERT — The Model That Changed Language AI](https://dev.to/sanjida_rezarafa_680f56a/from-words-to-intelligence-understanding-nlp-and-bert-the-model-that-changed-language-ai-373f)
+- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
+- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
+- [Writing Your First LLVM Plugin Pass: Counting Add Instructions](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
+- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
