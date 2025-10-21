@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Adrian Quesada - No Juego/ Ídolo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-no-juego-idolo-live-on-kexp-3bp6)
-- [The Architectural Shift of the Model Context Protocol](https://dev.to/onlineproxy/the-architectural-shift-of-the-model-context-protocol-1ao2)
-- [Untitled](https://dev.to/eren_ymrk_07a82a9fca5164c/untitled-4ah8)
-- [Step-by-Step Guide to Capture Heap Snapshots in Node.js on Kubernetes](https://dev.to/alessandro-grosselle/step-by-step-guide-to-capture-heap-snapshots-in-nodejs-on-kubernetes-1i2h)
-- [Actions, Not Just Chat](https://dev.to/philrez/actions-not-just-chat-14n4)
+- [Untitled](https://dev.to/jair_figueroa_bfbc2fb355e/untitled-1n0l)
+- [Génération de Leads pour Startups Africaines : Pourquoi notre pipeline n&#39;a pas besoin de Salesforce et repose sur WhatsApp](https://dev.to/maxime_dossou_77bbeb5bcc4/generation-de-leads-pour-startups-africaines-pourquoi-notre-pipeline-na-pas-besoin-de-salesforce-1mmf)
+- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
+- [Learning OpenGL Part 5: Lighting](https://dev.to/noticeablesmeh/learning-opengl-part-5-lightinting-2be7)
+- [When AWS Went Down: Lessons in Cloud Resilience from the Real World](https://dev.to/chioma_nwosu_99d57862fb18/when-aws-went-down-lessons-in-cloud-resilience-from-the-real-world-1a4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
