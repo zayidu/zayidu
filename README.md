@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
-- [**Unlocking Efficiency: AI-Powered Predictive Maintenance at](https://dev.to/drcarlosruizviquez/unlocking-efficiency-ai-powered-predictive-maintenance-at-2535)
-- [**Approach Showdown: Modular vs](https://dev.to/drcarlosruizviquez/approach-showdown-modular-vs-19ao)
-- [The prospect of AI-powered cybersecurity systems combating i](https://dev.to/drcarlosruizviquez/the-prospect-of-ai-powered-cybersecurity-systems-combating-i-719)
-- [**Unlock the Power of Customized Text Generation with T5X**](https://dev.to/drcarlosruizviquez/unlock-the-power-of-customized-text-generation-with-t5x-485i)
+- [[Boost]](https://dev.to/ben/-1l4n)
+- [The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State](https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50)
+- [Dabs dev](https://dev.to/drake_bourque_36281e691a4/dabs-dev-4kif)
+- [🧠 Bringing AI to One Keystroke](https://dev.to/louis7/bringing-ai-to-one-keystroke-5kn)
+- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystal-pure-water-company-business-plan-development-1157)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
