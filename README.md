@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC Safeguards Rule: MFA Compliance for Non-Bank Financial Institutions](https://dev.to/corbado/ftc-safeguards-rule-mfa-compliance-for-non-bank-financial-institutions-3koe)
-- [The Only SaaS Metrics That Actually Matter &lpar;and How to Track Them Right&rpar;](https://dev.to/sonu_goswami/the-only-saas-metrics-that-actually-matter-and-how-to-track-them-right-3mk5)
-- [Why Personal Trainers Need a Website With Booking Tools in 2025](https://dev.to/kamruljpi/why-personal-trainers-need-a-website-with-booking-tools-in-2025-5hc7)
-- [Article 3: 🛠️ Starting from Scratch! A Detailed Guide to the Freqtrade `download-data` Command and Docker Usage](https://dev.to/itrade_icu_ae8778833e3e8c/article-3-starting-from-scratch-a-detailed-guide-to-the-freqtrade-download-data-command-and-2b8d)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-hcb)
+- [My Phone Does My Work Now — Ai Termux Automation Story 😏](https://dev.to/saadmaqsood/my-phone-does-my-work-now-ai-termux-automation-story-ca9)
+- [I Built FRIDAY on My Phone to Stop Me From Scrolling. Devlog #1](https://dev.to/jackalgoespro/i-built-friday-on-my-phone-to-stop-me-from-scrolling-devlog-1-49fm)
+- [Ho visto abbastanza per capire che mi mancava un pezzo](https://dev.to/francesca_d_ami/ho-visto-abbastanza-per-capire-che-mi-mancava-un-pezzo-4322)
+- [AWS re/Start – My Week 10 Experience](https://dev.to/ijay/aws-restart-my-week-10-experience-12jb)
+- [What is Adobe Experience Manager &lpar;AEM&rpar;?](https://dev.to/viktorlazar/what-is-adobe-experience-manager-aem-316i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
