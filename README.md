@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3k2n)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1l3p)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-40b0)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-179j)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4lie)
+- [100 Days of DevOps: Day 74](https://dev.to/wycliffealphus/100-days-of-devops-day-74-1a3o)
+- [⚡10 JavaScript Concepts You Thought You Knew &lpar;But Didn’t&rpar;](https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb)
+- [[Boost]](https://dev.to/bekalu_adane_20c3cc020599/-1c0k)
+- [Understanding the Arduino IDE build process](https://dev.to/embeddedk8/understanding-the-arduino-ide-build-process-step-by-step-g61)
+- [AI can transform the way we developers think, build, and grow.](https://dev.to/jaideepparashar/ai-can-transform-the-way-we-developers-think-build-and-grow-3a5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
