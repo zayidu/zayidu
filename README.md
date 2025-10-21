@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React, Nextjs Website Templates 7 in 1](https://dev.to/shreyvijayvargiya/react-nextjs-website-templates-7-in-1-5hej)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-56od)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-3f7k)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-31k8)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1lld)
+- [The Real Cost of Web3 — What They Don’t Tell You](https://dev.to/digitaldime/the-real-cost-of-web3-what-they-dont-tell-you-10l8)
+- [How I built a CLI tool to simplify my daily terminal workflow](https://dev.to/emanuelestrazzullo/how-i-built-a-cli-tool-to-simplify-my-daily-terminal-workflow-1m28)
+- [How to Tackle Numpy Matrix Operations in 2025?](https://dev.to/rociogarciavf/how-to-tackle-numpy-matrix-operations-in-2025-35g6)
+- [Common Naming Case Types](https://dev.to/michael-gokey/common-naming-case-types-14bo)
+- [A Straightforward Guide for B+Trees](https://dev.to/eyochen/a-straightforward-guide-for-btrees-33h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
