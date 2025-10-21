@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Just Published My Book: Docker and Kubernetes Security](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2jh3)
+- [MCP server: A step-by-step guide to building from scratch](https://dev.to/chaitrali_kakde/mcp-server-a-step-by-step-guide-to-building-from-scratch-349h)
+- [人为何不能躺平](https://dev.to/woodyxin/ren-wei-he-bu-neng-tang-ping-1ohp)
+- [AWS : une panne « mondiale » ?](https://dev.to/aws-builders/aws-une-panne-mondiale--37n3)
+- [Build a Discord bot to expose Raindrop.io instances](https://dev.to/gregholmes/build-a-discord-bot-to-expose-raindropio-instances-2079)
+- [⚡ Qdrant: The Engine Powering Smart Search and Production-Ready AI](https://dev.to/charan_gutti_cf60c6185074/qdrant-the-engine-powering-smart-search-and-production-ready-ai-ebn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
