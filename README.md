@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1pop)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gko)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-24h)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-cec)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-lf9)
+- [Beyond the Pod: Why wasmCloud and WebAssembly Might Be the Next Evolution of the Platform](https://dev.to/ipt/beyond-the-pod-why-wasmcloud-and-webassembly-might-be-the-next-evolution-of-the-platform-1i3e)
+- [React Server Components Are Breaking Production Apps &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/elvissautet/react-server-components-are-breaking-production-apps-and-nobodys-talking-about-it-1dme)
+- [The Philosophy of Vim](https://dev.to/ash_ketchum_ab8cd8dbbf2fe/the-philosophy-of-vim-5i0)
+- [Hacktoberfest 2025: My Open Source Story as an AI Developer](https://dev.to/aniruddhaadak/hacktoberfest-2025-my-open-source-story-as-an-ai-developer-54aa)
+- [Kickstarting Our DSA Journey: Learning and Growing Together](https://dev.to/we_are_broken_compilers/kickstarting-our-dsa-journey-learning-and-growing-together-2pf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
