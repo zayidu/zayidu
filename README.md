@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-1l4n)
-- [The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State](https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50)
-- [Dabs dev](https://dev.to/drake_bourque_36281e691a4/dabs-dev-4kif)
-- [🧠 Bringing AI to One Keystroke](https://dev.to/louis7/bringing-ai-to-one-keystroke-5kn)
-- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystal-pure-water-company-business-plan-development-1157)
+- [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
+- [10 XAML Binding Pitfalls That Trip Up Even Experienced .NET Developers](https://dev.to/uno-platform/10-xaml-binding-pitfalls-that-trip-up-even-experienced-net-developers-3d3p)
+- [🚀 From DevOps Executors to Platform Enablers](https://dev.to/danielschmidtdo/from-devops-executors-to-platform-enablers-2l0l)
+- [Terraform with AI and Github Copilot](https://dev.to/zloeber/terraform-with-ai-and-github-copilot-2n39)
+- [CSS Grid Layout: Building Two-Dimensional Web Layouts with Ease](https://dev.to/sharique_siddiqui_8242dad/css-grid-layout-building-two-dimensional-web-layouts-with-ease-4knj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
