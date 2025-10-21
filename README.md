@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-28c7)
-- [Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔](https://dev.to/azure/serverless-mcp-agent-with-langchainjs-v1-burgers-tools-and-traces-25oo)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2mj6)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-58ec)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1p2p)
+- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
+- [SimpleW](https://dev.to/stratdev_99e0066103e51dc1/simplew-fog)
+- [How to Build a Thread-Safe Rate Limiter with FastAPI and Atomic Redis](https://dev.to/aris_georgatos/how-to-build-a-thread-safe-rate-limiter-with-fastapi-and-atomic-redis-454f)
+- [Build a Physics-Based RagDoll with Pixalo Engine](https://dev.to/salarizadi/build-a-physics-based-ragdoll-with-pixalo-engine-38ng)
+- [My Top Cursor Tips &lpar;Oct 2025&rpar;](https://dev.to/heymarkkop/my-top-cursor-tips-oct-2025-3bi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
