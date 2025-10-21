@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
-- [SimpleW](https://dev.to/stratdev_99e0066103e51dc1/simplew-fog)
-- [How to Build a Thread-Safe Rate Limiter with FastAPI and Atomic Redis](https://dev.to/aris_georgatos/how-to-build-a-thread-safe-rate-limiter-with-fastapi-and-atomic-redis-454f)
-- [Build a Physics-Based RagDoll with Pixalo Engine](https://dev.to/salarizadi/build-a-physics-based-ragdoll-with-pixalo-engine-38ng)
-- [My Top Cursor Tips &lpar;Oct 2025&rpar;](https://dev.to/heymarkkop/my-top-cursor-tips-oct-2025-3bi2)
+- [KEXP: Dean Johnson - Before You Hit The Ground &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-johnson-before-you-hit-the-ground-live-on-kexp-3jkl)
+- [KEXP: Dean Johnson - Faraway Skies &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-johnson-faraway-skies-live-on-kexp-416b)
+- [KEXP: Dean Johnson - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-johnson-full-performance-live-on-kexp-1e0a)
+- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-4gek)
+- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-5blp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
