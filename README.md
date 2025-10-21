@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Exploration of the Commercial Iceberg Catalog Ecosystem](https://dev.to/alexmercedcoder/an-exploration-of-the-commercial-iceberg-catalog-ecosystem-4a1i)
-- [Simply Order &lpar;Part 5&rpar; — Hands-On: Building the Outbox Pattern for Reliable Event](https://dev.to/hassan314159/simply-order-part-5-hands-on-building-the-outbox-pattern-for-reliable-event-60n)
-- [Automata Alchemists: Transmuting Reinforcement Learning into State Machines by Arvind Sundararajan](https://dev.to/arvind_sundararajan/automata-alchemists-transmuting-reinforcement-learning-into-state-machines-by-arvind-sundararajan-4pjd)
-- [Configurar un CDN gratuito con GitHub y jsDelivr](https://dev.to/gekyzo/configurar-un-cdn-gratuito-con-github-y-jsdelivr-28al)
-- [FastMCP + Claude Desktop: When Optional[X] Type Hints Break Validation](https://dev.to/scott_raisbeck_24ea5fbc1e/fastmcp-claude-desktop-when-optionalx-type-hints-break-validation-3bmp)
+- [The `concerns/` Folder: A Loom of Architecture or a Digital Junk Drawer?](https://dev.to/alex_aslam/the-concerns-folder-a-loom-of-architecture-or-a-digital-junk-drawer-293p)
+- [🚀 Leveling Up with Supabase RPC — My “Sell Honey” Transaction Journey](https://dev.to/workfromhome130/leveling-up-with-supabase-rpc-my-sell-honey-transaction-journey-24l0)
+- [Methods and Functions in Java](https://dev.to/masteringbackend/methods-and-functions-in-java-5fo9)
+- [It&#39;s Okay If Your Biggest Hobby Isn&#39;t Coding](https://dev.to/_boweii/its-okay-if-your-biggest-hobby-isnt-coding-4bk2)
+- [Crea tu propio chat con Claude en AWS Bedrock usando AWS CDK &lpar;guía paso a paso para principiantes&rpar;](https://dev.to/chainiz/crea-tu-propio-chat-con-claude-en-aws-bedrock-usando-aws-cdk-guia-paso-a-paso-para-principiantes-20ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
