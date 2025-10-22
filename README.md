@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como construí um Sistema de Controle Financeiro usando APENAS S3 &lpar;sem PostgreSQL!&rpar;](https://dev.to/mcruvinel/como-construi-um-sistema-de-controle-financeiro-usando-apenas-s3-sem-postgresql-2iec)
-- [Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search](https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-4g2o)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-311m)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1opg)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-59ic)
+- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
+- [The Artisan&#39;s Trail: Maintaining a Legacy Node.js Monolith with the Boy Scout Rule](https://dev.to/alex_aslam/the-artisans-trail-maintaining-a-legacy-nodejs-monolith-with-the-boy-scout-rule-pnd)
+- [Building Streaky: A GitHub Streak Guardian &lpar;Part 1 - The Journey&rpar;](https://dev.to/0xrelogic/building-streaky-a-github-streak-guardian-part-1-the-journey-40ek)
+- [Isotope in just 60 lines...](https://dev.to/jhvanderschee/isotope-in-just-60-lines-3flh)
+- [How I Improved My Form Handling, Validation, and EmailJS in React](https://dev.to/minoosh/how-i-improved-my-form-handling-validation-and-emailjs-in-react-55e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
