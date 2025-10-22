@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral](https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n)
-- [Calico Node Readiness Probe Failed Issues](https://dev.to/abirk/calico-node-readiness-probe-failed-issues-42i8)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm)
-- [🎥 I Built a Professional YouTube Downloader with Python - Here&#39;s How!](https://dev.to/dusmamud/i-built-a-professional-youtube-downloader-with-python-heres-how-p4b)
-- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l)
+- [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
+- [Modules, and Java, and Windows, Oh My!](https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94)
+- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
+- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-40fb)
+- [Building Custom Elementor Widgets with React &amp; the WordPress REST API — a Practical Guide](https://dev.to/nimafadaei/building-custom-elementor-widgets-with-react-the-wordpress-rest-api-a-practical-guide-3m2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
