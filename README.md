@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create systemd unit timers](https://dev.to/agonza05/create-systemd-unit-timers-3ble)
-- [Why Application Performance Monitoring &lpar;APM&rpar; Should Be Your DevOps Priority?](https://dev.to/olivia_madison_b0ad7090ad/why-application-performance-monitoring-apm-should-be-your-devops-priority-51oi)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2j83)
-- [how i built a remote linux dev environment [homelab series p1]](https://dev.to/ashercarneiro/how-i-built-a-remote-linux-dev-environment-homelab-series-p1-114f)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-394p)
+- [Automating MySQL Backups and Imports in Laravel with Artisan Commands](https://dev.to/edgaras/automating-mysql-backups-and-imports-in-laravel-with-artisan-commands-1fcn)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
+- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
+- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
+- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
