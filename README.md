@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe)
-- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67)
-- [#2 Lexical Scoping &amp;&amp; Closure in JavaScript --](https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa)
-- [Translating Requirements into Test Plan &amp; Strategy: My HNGi13 QA Journey](https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc)
-- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-235j)
+- [Microservices with Node.js](https://dev.to/godofgeeks/microservices-with-nodejs-56ce)
+- [Why Skipping Frontend Tests Always Backfires](https://dev.to/miasalazar/why-skipping-frontend-tests-always-backfires-2527)
+- [First Steps: Sharding in CouchDB](https://dev.to/neighbourhoodie/first-steps-sharding-in-couchdb-g57)
+- [𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/zamirul_kabir/-2j60)
+- [Shipping products fast should be the #1 tech leaders&#39; priority. Why?](https://dev.to/meirdavv/shipping-products-fast-should-be-the-1-tech-leaders-prioritywhy-1o0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
