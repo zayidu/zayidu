@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
-- [Going Beyond Accuracy: Understanding the Balanced Accuracy, Precision, Recall and F1-score.](https://dev.to/juniorcl/going-beyond-accuracy-understanding-the-balanced-accuracy-precision-recall-and-f1-score-4kl2)
-- [Beyond the Hype: 5 Counter-Intuitive Truths About AI from Andrej Karpathy](https://dev.to/amananandrai/beyond-the-hype-5-counter-intuitive-truths-about-ai-from-andrej-karpathy-afk)
-- [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-395)
+- [AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral](https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n)
+- [Calico Node Readiness Probe Failed Issues](https://dev.to/abirk/calico-node-readiness-probe-failed-issues-42i8)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm)
+- [🎥 I Built a Professional YouTube Downloader with Python - Here&#39;s How!](https://dev.to/dusmamud/i-built-a-professional-youtube-downloader-with-python-heres-how-p4b)
+- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
