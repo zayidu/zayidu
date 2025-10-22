@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Rust&#39;s Binary Protection Actually Matters &lpar;Yes, Even For You&rpar;](https://dev.to/dev-tngsh/why-rusts-binary-protection-actually-matters-yes-even-for-you-4f8g)
-- [Frontend architecture. Introduction.](https://dev.to/nefedov-dm/frontend-architecture-introduction-408f)
-- [Building Reproducible n8n Environments with CLI-Based Configuration Management](https://dev.to/alexretana/building-reproducible-n8n-environments-with-cli-based-configuration-management-2hi)
-- [The Best Vegetarian Sources of Protein](https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp)
-- [Servo: The Exp Web Browser Engine Written in Rust](https://dev.to/lovestaco/servo-the-exp-web-browser-engine-written-in-rust-4ehe)
+- [Como construí um Sistema de Controle Financeiro usando APENAS S3 &lpar;sem PostgreSQL!&rpar;](https://dev.to/mcruvinel/como-construi-um-sistema-de-controle-financeiro-usando-apenas-s3-sem-postgresql-2iec)
+- [Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search](https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-4g2o)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-311m)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1opg)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-59ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
