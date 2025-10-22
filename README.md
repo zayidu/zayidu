@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: The Rise of AI-First Coding Paradigms](https://dev.to/softwaredeveloper01/vibe-coding-the-rise-of-ai-first-coding-paradigms-4ab8)
-- [TCP Programming in Go: Build Reliable Network Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/tcp-programming-in-go-build-reliable-network-apps-with-ease-2bgb)
-- [Test Plan and Non-Functional Requirements &lpar;NFR&rpar; Document](https://dev.to/loveline/test-plan-and-non-functional-requirements-nfr-document-519j)
-- [Unlocking the Power of Developer Communities: What Reddit Can Teach Us About Collaboration](https://dev.to/mikeover/unlocking-the-power-of-developer-communities-what-reddit-can-teach-us-about-collaboration-1nj5)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_4890a1e6/your-error-handling-is-a-mess-and-its-costing-you--471d)
+- [🏗️ Vector Database Architecture: How to Structure Your Data for Production RAG Systems](https://dev.to/qvfagundes/vector-database-architecture-how-to-structure-your-data-for-production-rag-systems-2f4a)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
+- [Evolution of Processing: SPL One-Click Acceleration for Log-to-Metric Conversion](https://dev.to/observabilityguy/evolution-of-processing-spl-one-click-acceleration-for-log-to-metric-conversion-2g5j)
+- [Day 4: Inserting Data and Basic CRUD Operations](https://dev.to/hardik_kanajariya/day-4-inserting-data-and-basic-crud-operations-3h04)
+- [database](https://dev.to/jumptotech/database-3k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
