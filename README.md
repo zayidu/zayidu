@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Chrome Extensions: A Developer&#39;s Guide to Manifest V3](https://dev.to/javediqbal8381/understanding-chrome-extensions-a-developers-guide-to-manifest-v3-233l)
-- [C#: Split Excel Worksheet into Multiple Files](https://dev.to/yahey/c-split-excel-worksheet-into-multiple-files-4gk4)
-- [Convert PDF to Excel Using Python: The Smart Way to Automate Data Extraction](https://dev.to/jelizaveta/convert-pdf-to-excel-using-python-the-smart-way-to-automate-data-extraction-229m)
-- [How to build CLI AI Agent with OpenAI Responses API + Zapier MCP](https://dev.to/abdibrokhim/how-to-build-cli-ai-agent-with-openai-responses-api-zapier-mcp-3nnj)
-- [BlackRock Quant Interview Guide: Full Breakdown + Tips to Avoid Mistakes](https://dev.to/net_programhelp_e160eef28/blackrock-quant-interview-guide-jk5)
+- [Create systemd unit timers](https://dev.to/agonza05/create-systemd-unit-timers-3ble)
+- [Why Application Performance Monitoring &lpar;APM&rpar; Should Be Your DevOps Priority?](https://dev.to/olivia_madison_b0ad7090ad/why-application-performance-monitoring-apm-should-be-your-devops-priority-51oi)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2j83)
+- [how i built a remote linux dev environment [homelab series p1]](https://dev.to/ashercarneiro/how-i-built-a-remote-linux-dev-environment-homelab-series-p1-114f)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-394p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
