@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
-- [Optimistic Superposition: A Quantum Leap for AI?](https://dev.to/arvind_sundararajan/optimistic-superposition-a-quantum-leap-for-ai-4me3)
-- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
-- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
-- [Banana Pi — Como Habilitar o SSH no Raspbian](https://dev.to/henriqueotogami/banana-pi-como-habilitar-o-ssh-no-raspbian-15n9)
+- [Blockchain et Développement Sécurisé : Pourquoi les Développeurs Deviennent les Nouveaux Gardiens de la Confiance Numérique](https://dev.to/nicomiayo/blockchain-et-developpement-securise-pourquoi-les-developpeurs-deviennent-les-nouveaux-gardiens-4gjg)
+- [A Beginner’s Guide to Building a Complete Application: From Idea to Deployment](https://dev.to/mahmud-r-farhan/a-beginners-guide-to-building-a-complete-application-from-idea-to-deployment-mbb)
+- [Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://dev.to/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)
+- [Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity](https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh)
+- [Simplifying API Testing — Why Sometimes You Don’t Need Postman](https://dev.to/javediqbal8381/simplifying-api-testing-why-sometimes-you-dont-need-postman-598g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
