@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain et Développement Sécurisé : Pourquoi les Développeurs Deviennent les Nouveaux Gardiens de la Confiance Numérique](https://dev.to/nicomiayo/blockchain-et-developpement-securise-pourquoi-les-developpeurs-deviennent-les-nouveaux-gardiens-4gjg)
-- [A Beginner’s Guide to Building a Complete Application: From Idea to Deployment](https://dev.to/mahmud-r-farhan/a-beginners-guide-to-building-a-complete-application-from-idea-to-deployment-mbb)
-- [Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://dev.to/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)
-- [Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity](https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh)
-- [Simplifying API Testing — Why Sometimes You Don’t Need Postman](https://dev.to/javediqbal8381/simplifying-api-testing-why-sometimes-you-dont-need-postman-598g)
+- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe)
+- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67)
+- [#2 Lexical Scoping &amp;&amp; Closure in JavaScript --](https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa)
+- [Translating Requirements into Test Plan &amp; Strategy: My HNGi13 QA Journey](https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc)
+- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-235j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
