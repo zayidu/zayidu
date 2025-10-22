@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React &lt;Activity /&gt; component](https://dev.to/sensorario/react-component-26h3)
-- [8 Things You Should Know About Responsive Web Design](https://dev.to/rafsan-jany-ratul/8-things-you-should-know-about-responsive-web-design-34g2)
-- [Learning](https://dev.to/maccus440/learning-2i14)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4nfj)
-- [Spring Boot Database Connection — From JDBC to Production Best Practices](https://dev.to/gaurbprajapati/spring-boot-database-connection-from-jdbc-to-production-best-practices-3n07)
+- [Why Rust&#39;s Binary Protection Actually Matters &lpar;Yes, Even For You&rpar;](https://dev.to/dev-tngsh/why-rusts-binary-protection-actually-matters-yes-even-for-you-4f8g)
+- [Frontend architecture. Introduction.](https://dev.to/nefedov-dm/frontend-architecture-introduction-408f)
+- [Building Reproducible n8n Environments with CLI-Based Configuration Management](https://dev.to/alexretana/building-reproducible-n8n-environments-with-cli-based-configuration-management-2hi)
+- [The Best Vegetarian Sources of Protein](https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp)
+- [Servo: The Exp Web Browser Engine Written in Rust](https://dev.to/lovestaco/servo-the-exp-web-browser-engine-written-in-rust-4ehe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
