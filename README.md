@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
-- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
-- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-2oal)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-l7h)
-- [Goliat Dashboard: Mi nueva aventura en la gestión de recursos Cloud](https://dev.to/danieljsaldana/goliat-dashboard-mi-nueva-aventura-en-la-gestion-de-recursos-cloud-27gc)
+- [Understanding Chrome Extensions: A Developer&#39;s Guide to Manifest V3](https://dev.to/javediqbal8381/understanding-chrome-extensions-a-developers-guide-to-manifest-v3-233l)
+- [C#: Split Excel Worksheet into Multiple Files](https://dev.to/yahey/c-split-excel-worksheet-into-multiple-files-4gk4)
+- [Convert PDF to Excel Using Python: The Smart Way to Automate Data Extraction](https://dev.to/jelizaveta/convert-pdf-to-excel-using-python-the-smart-way-to-automate-data-extraction-229m)
+- [How to build CLI AI Agent with OpenAI Responses API + Zapier MCP](https://dev.to/abdibrokhim/how-to-build-cli-ai-agent-with-openai-responses-api-zapier-mcp-3nnj)
+- [BlackRock Quant Interview Guide: Full Breakdown + Tips to Avoid Mistakes](https://dev.to/net_programhelp_e160eef28/blackrock-quant-interview-guide-jk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
