@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating MySQL Backups and Imports in Laravel with Artisan Commands](https://dev.to/edgaras/automating-mysql-backups-and-imports-in-laravel-with-artisan-commands-1fcn)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
-- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
-- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
-- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
+- [The Return of Assembly: When LLMs No Longer Need High-Level Languages](https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak)
+- [DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4)
+- [Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk)
+- [# Self-Hosted Push Notifications Part-8](https://dev.to/bunty9/-self-hosted-push-notifications-part-8-f0g)
+- [# Self-Hosted Push Notifications Part-7](https://dev.to/bunty9/-self-hosted-push-notifications-part-7-2f82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
