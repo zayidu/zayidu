@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices with Node.js](https://dev.to/godofgeeks/microservices-with-nodejs-56ce)
-- [Why Skipping Frontend Tests Always Backfires](https://dev.to/miasalazar/why-skipping-frontend-tests-always-backfires-2527)
-- [First Steps: Sharding in CouchDB](https://dev.to/neighbourhoodie/first-steps-sharding-in-couchdb-g57)
-- [𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/zamirul_kabir/-2j60)
-- [Shipping products fast should be the #1 tech leaders&#39; priority. Why?](https://dev.to/meirdavv/shipping-products-fast-should-be-the-1-tech-leaders-prioritywhy-1o0i)
+- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
+- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
+- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-2oal)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-l7h)
+- [Goliat Dashboard: Mi nueva aventura en la gestión de recursos Cloud](https://dev.to/danieljsaldana/goliat-dashboard-mi-nueva-aventura-en-la-gestion-de-recursos-cloud-27gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
