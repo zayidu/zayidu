@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ Vector Database Architecture: How to Structure Your Data for Production RAG Systems](https://dev.to/qvfagundes/vector-database-architecture-how-to-structure-your-data-for-production-rag-systems-2f4a)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
-- [Evolution of Processing: SPL One-Click Acceleration for Log-to-Metric Conversion](https://dev.to/observabilityguy/evolution-of-processing-spl-one-click-acceleration-for-log-to-metric-conversion-2g5j)
-- [Day 4: Inserting Data and Basic CRUD Operations](https://dev.to/hardik_kanajariya/day-4-inserting-data-and-basic-crud-operations-3h04)
-- [database](https://dev.to/jumptotech/database-3k9)
+- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
+- [Optimistic Superposition: A Quantum Leap for AI?](https://dev.to/arvind_sundararajan/optimistic-superposition-a-quantum-leap-for-ai-4me3)
+- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
+- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
+- [Banana Pi — Como Habilitar o SSH no Raspbian](https://dev.to/henriqueotogami/banana-pi-como-habilitar-o-ssh-no-raspbian-15n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
