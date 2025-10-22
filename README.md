@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
-- [Rowboat: The open-source alternative to Notion&#39;s new custom agents with native MCP support](https://dev.to/arjun_m_10e75b369465a68b7/the-open-source-alternative-to-notions-new-custom-agents-with-native-mcp-support-2og2)
-- [Marketing Forecasting Methods for 2025: Budgeting and ROI](https://dev.to/ryansiney1/marketing-forecasting-methods-for-2025-budgeting-and-roi-2jf5)
-- [[Help] How to collect multi-platform game pricing data &lpar;Steam, PlayStation, Nintendo eShop&rpar;](https://dev.to/hyeongkeun_park_1da913a46/help-how-to-collect-multi-platform-game-pricing-data-steam-playstation-nintendo-eshop-je9)
-- [Understanding Time vs Space Complexity: Why You Can’t Always Optimise Both](https://dev.to/giftintech/understanding-time-vs-space-complexity-why-you-cant-always-optimise-both-2k5i)
+- [How I added Parallel Routing to React Router v6 — Introducing parallel-router 🚀](https://dev.to/imsalekin/how-i-added-parallel-routing-to-react-router-v6-introducing-parallel-router-30aj)
+- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-49o5)
+- [From Dev to DevOps](https://dev.to/leading-edje/from-dev-to-devops-ib2)
+- [Monólito vs Microsserviços: Quando Usar Cada Arquitetura](https://dev.to/alexnicolascode/monolito-vs-microsservicos-quando-usar-cada-arquitetura-o0n)
+- [Python basics - Day 12](https://dev.to/ian_b838138a27a917398d181/python-basics-day-12-53kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
