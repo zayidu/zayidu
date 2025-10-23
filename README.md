@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python bytearray](https://dev.to/sengseng/python-bytearray-51cc)
-- [The key to picking your first language &lpar;without the stress&rpar;](https://dev.to/fahimulhaq/the-key-to-picking-your-first-language-without-the-stress-38jc)
-- [fast-json-format: Format JSON Without Data Loss](https://dev.to/jqueryscript/fast-json-format-format-json-without-data-loss-33cj)
-- [11 Best iOS Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
+- [Check out the guide on - Building Regression Models in R using Support Vector Regression &lpar;SVR&rpar;](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n)
+- [100 Days of DevOps: Day 76](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7)
+- [How AI Noise Cancellation for Call Centers Builds Real-Time Voice Fluency and Harmonization?](https://dev.to/allandermot/how-ai-noise-cancellation-for-call-centers-builds-real-time-voice-fluency-and-harmonization-5cfc)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
