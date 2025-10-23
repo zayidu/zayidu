@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Dangers of Smart Devices: Understanding IoT Vulnerabilities and Security Risks](https://dev.to/kapusto/the-hidden-dangers-of-smart-devices-understanding-iot-vulnerabilities-and-security-risks-220l)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-219e)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4ehj)
-- [We need to adjust quickie posts to properly not count full URLs for characters. I know Twitter traditionally capped these at 17 chars regardless of length — we&#39;ll want to do something similar along those lines.](https://dev.to/ben/we-need-to-adjust-quickie-posts-to-properly-not-count-full-urls-for-characters-i-know-twitter-j76)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-ie4)
+- [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
+- [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
+- [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
+- [Supercomputers: The Giants of Computation Driving Our Future](https://dev.to/sergio_snchezfuentes_6a/supercomputers-the-giants-of-computation-driving-our-future-m43)
+- [Git Branch Comparison — A Senior Dev’s Playbook &lpar;Concise Expert&rpar;](https://dev.to/cristiansifuentes/git-branch-comparison-a-senior-devs-playbook-concise-expert-2bbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
