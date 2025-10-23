@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [: 🚀 What Is SEO for Developers and Why It Matters](https://dev.to/alexpeteray/-what-is-seo-for-developers-and-why-it-matters-1nng)
-- [React, Git[Hub], and VS Code for Beginners - Video 3](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-3-32bj)
-- [10 Free AI Tools That Saved Me 20 Hours This Week](https://dev.to/avantek/10-free-ai-tools-that-saved-me-20-hours-this-week-1549)
-- [Made a Hacktoberfest 2025 repo](https://dev.to/xaypanya/made-a-hacktoberfest-2025-repo-321f)
-- [React, Git[Hub], and VS Code for Beginners - Video 2](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g)
+- [AI Gone Wild: When Images Trick Machines Into Hilarious Mistakes](https://dev.to/arvind_sundararajan/ai-gone-wild-when-images-trick-machines-into-hilarious-mistakes-17d5)
+- [Dr. Barbara Knox Explains 5 Common Myths About Child Abuse](https://dev.to/barbaraknoxmd/dr-barbara-knox-explains-5-common-myths-about-child-abuse-5en)
+- [Show/Hide Form Fields Conditionally with Form Show If Component](https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph)
+- [S3 fileExists &lpar;HeadObject&rpar; fails only in Alpine Docker &lpar;PHP-FPM&rpar; with &quot;Error parsing XML&quot;, but GetObject works](https://dev.to/nidhin_np_3149cf667964a3c/s3-fileexists-headobject-fails-only-in-alpine-docker-php-fpm-with-error-parsing-xml-but-176m)
+- [Create a PROMPT.md](https://dev.to/ydnaklementine/create-a-promptmd-e2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
