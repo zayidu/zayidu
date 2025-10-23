@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Enthusiast 1.4: AI Agents Meet E-commerce Workflows](https://dev.to/chrisywz/announcing-enthusiast-14-ai-agents-meet-e-commerce-workflows-3gkk)
-- [Web Scrapping Project](https://dev.to/makenakinyua/web-scrapping-project-3bnb)
-- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
-- [The Present of Lodash](https://dev.to/benjaminblack/the-present-of-lodash-1ek3)
-- [Open Source Reflections – Hacktoberfest 2025](https://dev.to/mdarifulhaque/open-source-reflections-hacktoberfest-2025-260h)
+- [The Retail Revolution: How AI Is Quietly Rebuilding the Shopping Experience](https://dev.to/yallogroup/the-retail-revolution-how-ai-is-quietly-rebuilding-the-shopping-experience-5453)
+- [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-44fp)
+- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
+- [Erase and Evolve: Selective Amnesia for Ethical Graph Neural Networks by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-and-evolve-selective-amnesia-for-ethical-graph-neural-networks-by-arvind-sundararajan-pcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
