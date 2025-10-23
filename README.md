@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 mistakes I made as a first-time solo founder](https://dev.to/techwood/10-mistakes-i-made-as-a-first-time-solo-founder-4i58)
-- [How to Build a Payment App Like PayPal: Features, Security &amp; Development Guide](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-build-a-payment-app-like-paypal-features-security-development-guide-fcj)
-- [TASK](https://dev.to/vignesh_m_4971f2f8dfa54/task-56cc)
-- [Top Scale AI Competitors and Alternatives for 2025](https://dev.to/sohan_lal_241c2d80b2705e7/top-scale-ai-competitors-and-alternatives-for-2025-59pc)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-30fe)
+- [iOS App Store Optimization: Growth, Engagement &amp; Localization &lpar;Part 3&rpar;](https://dev.to/arshtechpro/ios-app-store-optimization-growth-engagement-localization-part-3-2hlh)
+- [Team Management Plan: A Complete Guide to Building Effective Teams](https://dev.to/writegenic/team-management-plan-a-complete-guide-to-building-effective-teams-fj5)
+- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
+- [Exception Handling in java &lpar;try, catch &amp; finally&rpar;](https://dev.to/masteringbackend/exception-handling-in-java-try-catch-finally-1paa)
+- [🧠 Git Learning — My Structured Handbook for Mastering Git](https://dev.to/kurtpetrola/git-learning-my-structured-handbook-for-mastering-git-2cp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
