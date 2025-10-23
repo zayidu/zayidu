@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Gone Wild: When Images Trick Machines Into Hilarious Mistakes](https://dev.to/arvind_sundararajan/ai-gone-wild-when-images-trick-machines-into-hilarious-mistakes-17d5)
-- [Dr. Barbara Knox Explains 5 Common Myths About Child Abuse](https://dev.to/barbaraknoxmd/dr-barbara-knox-explains-5-common-myths-about-child-abuse-5en)
-- [Show/Hide Form Fields Conditionally with Form Show If Component](https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph)
-- [S3 fileExists &lpar;HeadObject&rpar; fails only in Alpine Docker &lpar;PHP-FPM&rpar; with &quot;Error parsing XML&quot;, but GetObject works](https://dev.to/nidhin_np_3149cf667964a3c/s3-fileexists-headobject-fails-only-in-alpine-docker-php-fpm-with-error-parsing-xml-but-176m)
-- [Create a PROMPT.md](https://dev.to/ydnaklementine/create-a-promptmd-e2f)
+- [Python bytearray](https://dev.to/sengseng/python-bytearray-51cc)
+- [The key to picking your first language &lpar;without the stress&rpar;](https://dev.to/fahimulhaq/the-key-to-picking-your-first-language-without-the-stress-38jc)
+- [fast-json-format: Format JSON Without Data Loss](https://dev.to/jqueryscript/fast-json-format-format-json-without-data-loss-33cj)
+- [11 Best iOS Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho)
+- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
