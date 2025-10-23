@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [a introduction to deepseek API](https://dev.to/sengseng/a-introduction-to-deepseek-api-b92)
-- [LLM evaluation: a quick overview of Stax](https://dev.to/lethargicpanda/llm-evaluation-a-quick-overview-of-stax-51km)
-- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk)
-- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0)
-- [3D Game Scene with Raylib](https://dev.to/justaguyfrombr/3d-game-scene-with-raylib-9d3)
+- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
+- [Android Serial Control Screens: The Smart HMI Solution for Modern Devices](https://dev.to/tonyhe8688/android-serial-control-screens-the-smart-hmi-solution-for-modern-devices-2kn4)
+- [Taming the Wild West of Dental PMS APIs](https://dev.to/lake22traillady/taming-the-wild-west-of-dental-pms-apis-hgc)
+- [Navigasi Lanskap Framework 2025: Dari Tren Terkini, Tantangan, hingga Strategi Memilih Tumpukan &lpar;Stack&rpar; yang Tepat](https://dev.to/dilsdev/navigasi-lanskap-framework-2025-dari-tren-terkini-tantangan-hingga-strategi-memilih-tumpukan-49mg)
+- [What can I do with the MERN Stack by itself?](https://dev.to/ibrohimbek-dev/what-can-i-do-with-the-mern-stack-by-itself-453h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
