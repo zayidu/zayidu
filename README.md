@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Enterprise-Level Monitoring: From Prometheus to Grafana Dashboards](https://dev.to/cyberscoper/building-enterprise-level-monitoring-from-prometheus-to-grafana-dashboards-3pge)
-- [Next Greater Element &lpar;Right&rpar; using Stack](https://dev.to/we_are_broken_compilers/next-greater-element-right-using-stack-3ngn)
-- [Missing files in your Packer built image? You might be skipping graceful shutdowns](https://dev.to/u11d/missing-files-in-your-packer-built-image-you-might-be-skipping-graceful-shutdowns-4ccj)
-- [Implementing Intersite Connectivity in Azure: Seamless Communication Across Virtual Networks](https://dev.to/sudaisib/implementing-intersite-connectivity-in-azure-seamless-communication-across-virtual-networks-2jhh)
-- [LitmusChaos Community Highlights - September 2025 Recap](https://dev.to/priteshkiri/litmuschaos-community-highlights-september-2025-recap-e0c)
+- [The out Parameter in Turbine: A Markdown-like Scripting Language](https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab)
+- [Zshell [My Dev Environment]](https://dev.to/pkorsch/zshell-my-dev-environment-1mcl)
+- [Why Edge-Native MVNOs Are Critical for IoT Success: A Developer’s Perspective](https://dev.to/hassham_1_f5926bd173cb1a5/why-edge-native-mvnos-are-critical-for-iot-success-a-developers-perspective-43fb)
+- [From Beginner to Codex CLI Pro](https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3)
+- [Developers Spend Just 1% of Coding Time Using VS Code&#39;s Debugger &lpar;11,805 Sessions Analyzed&rpar;](https://dev.to/floustate/developers-spend-just-1-of-coding-time-using-vs-codes-debugger-11805-sessions-analyzed-2b84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
