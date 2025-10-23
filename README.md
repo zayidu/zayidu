@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem](https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2)
-- [I Built an AI Resume Butler That Actually Gets You Interviews &lpar;Auth0 Made It Possible&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d)
-- [A marketer&#39;s hour of hell: What I finally get about slow builds](https://dev.to/depot/a-marketers-hour-of-hell-what-i-finally-get-about-slow-builds-4jg4)
-- [🧠10 Semantic &amp; Practical Frontend Tips Every Developer Should Know in 2025](https://dev.to/priyanshu_buley/10-semantic-practical-frontend-tips-every-developer-should-know-in-2025-5e8m)
-- [Unlock Real-Time AI Art: Smarter Caching for Diffusion Models](https://dev.to/arvind_sundararajan/unlock-real-time-ai-art-smarter-caching-for-diffusion-models-984)
+- [We Rebuilt Our Onboarding Around MCP: The Result, 3X SDK Installs](https://dev.to/devcycle/we-rebuilt-our-onboarding-around-mcp-the-result-3x-sdk-installs-1hem)
+- [Building My First Web3 Application: A Journey into Decentralized Message Signing](https://dev.to/kumar111222rohit/building-my-first-web3-application-a-journey-into-decentralized-message-signing-1352)
+- [Music Moodboard Assistant &lpar; Auth0 AI + Spotify &rpar;](https://dev.to/akashb5/music-moodboard-assistant-auth0-ai-spotify--2apm)
+- [Centralizing SVG Handling in Angular Applications](https://dev.to/yshashi30/centralizing-svg-handling-in-angular-applications-1jno)
+- [Speed Up Your Frontend Work: AI-Powered n8n Workflows That Write Code and Save You Time](https://dev.to/yahav10/speed-up-your-frontend-work-ai-powered-n8n-workflows-that-write-code-and-save-you-time-4c7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
