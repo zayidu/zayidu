@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
-- [The Artisan&#39;s Trail: Maintaining a Legacy Node.js Monolith with the Boy Scout Rule](https://dev.to/alex_aslam/the-artisans-trail-maintaining-a-legacy-nodejs-monolith-with-the-boy-scout-rule-pnd)
-- [Building Streaky: A GitHub Streak Guardian &lpar;Part 1 - The Journey&rpar;](https://dev.to/0xrelogic/building-streaky-a-github-streak-guardian-part-1-the-journey-40ek)
-- [Isotope in just 60 lines...](https://dev.to/jhvanderschee/isotope-in-just-60-lines-3flh)
-- [How I Improved My Form Handling, Validation, and EmailJS in React](https://dev.to/minoosh/how-i-improved-my-form-handling-validation-and-emailjs-in-react-55e9)
+- [a introduction to deepseek API](https://dev.to/sengseng/a-introduction-to-deepseek-api-b92)
+- [LLM evaluation: a quick overview of Stax](https://dev.to/lethargicpanda/llm-evaluation-a-quick-overview-of-stax-51km)
+- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk)
+- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0)
+- [3D Game Scene with Raylib](https://dev.to/justaguyfrombr/3d-game-scene-with-raylib-9d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
