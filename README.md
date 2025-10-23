@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out the guide on - Building Regression Models in R using Support Vector Regression &lpar;SVR&rpar;](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n)
-- [100 Days of DevOps: Day 76](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7)
-- [How AI Noise Cancellation for Call Centers Builds Real-Time Voice Fluency and Harmonization?](https://dev.to/allandermot/how-ai-noise-cancellation-for-call-centers-builds-real-time-voice-fluency-and-harmonization-5cfc)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll)
+- [From Idea to Action: Building Practical AI Agents on AWS-Chapter-1](https://dev.to/saitejab/from-idea-to-action-building-practical-ai-agents-on-aws-chapter-1-37n)
+- [PostgreSQL: How to Show Tables Using PSQL or SQL Queries](https://dev.to/dbvismarketing/postgresql-how-to-show-tables-using-psql-or-sql-queries-2mni)
+- [Level Up Your Dev Flow with These Tools That Make Coding Fun Again](https://dev.to/badass_tech-ae2025/level-up-your-dev-flow-with-these-tools-that-make-coding-fun-again-1ndg)
+- [🧩 Two Minor UI Glitches I Came Across on DEV 🙂](https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2)
+- [Check out the guide on - Tableau for Marketing: Become a Segmentation Sniper](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-tableau-for-marketing-become-a-segmentation-sniper-531g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
