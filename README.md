@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FlakyHunter: Revolutionizing How You Detect and Fix Flaky Tests](https://dev.to/n3on/flakyhunter-revolutionizing-how-you-detect-and-fix-flaky-tests-41c9)
-- [RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation](https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58)
-- [Building Digital Sovereignty in the Philippines: Open-Source Solutions for Transparent, Secure Government](https://dev.to/alvinveroy/building-digital-sovereignty-in-the-philippines-open-source-solutions-for-transparent-secure-23c9)
-- [🧩 Testing Feature Support for Modern CSS — The Smart Developer’s Guide](https://dev.to/er-raj-aryan/testing-feature-support-for-modern-css-the-smart-developers-guide-56h4)
-- [**Revolutionizing Entertainment: The Rise of AI-Powered &#39;Dre](https://dev.to/drcarlosruizviquez/revolutionizing-entertainment-the-rise-of-ai-powered-dre-228m)
+- [Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem](https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2)
+- [I Built an AI Resume Butler That Actually Gets You Interviews &lpar;Auth0 Made It Possible&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d)
+- [A marketer&#39;s hour of hell: What I finally get about slow builds](https://dev.to/depot/a-marketers-hour-of-hell-what-i-finally-get-about-slow-builds-4jg4)
+- [🧠10 Semantic &amp; Practical Frontend Tips Every Developer Should Know in 2025](https://dev.to/priyanshu_buley/10-semantic-practical-frontend-tips-every-developer-should-know-in-2025-5e8m)
+- [Unlock Real-Time AI Art: Smarter Caching for Diffusion Models](https://dev.to/arvind_sundararajan/unlock-real-time-ai-art-smarter-caching-for-diffusion-models-984)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
