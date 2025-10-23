@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39oe)
-- [T-Shaped engineers: the blueprint for building with AI](https://dev.to/rockandnull/t-shaped-engineers-the-blueprint-for-building-with-ai-2d2a)
-- [Transforming AI Monetization: The Future of LLM-Powered Applications](https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-4jpf)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-1fmd)
-- [How I Finally Made TailwindCSS Work Inside the Shadow DOM &lpar;A Real Case Study&rpar;](https://dev.to/dhirajarya01/how-i-finally-made-tailwindcss-work-inside-the-shadow-dom-a-real-case-study-5gkl)
+- [Announcing Enthusiast 1.4: AI Agents Meet E-commerce Workflows](https://dev.to/chrisywz/announcing-enthusiast-14-ai-agents-meet-e-commerce-workflows-3gkk)
+- [Web Scrapping Project](https://dev.to/makenakinyua/web-scrapping-project-3bnb)
+- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
+- [The Present of Lodash](https://dev.to/benjaminblack/the-present-of-lodash-1ek3)
+- [Open Source Reflections – Hacktoberfest 2025](https://dev.to/mdarifulhaque/open-source-reflections-hacktoberfest-2025-260h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
