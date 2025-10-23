@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Rebuilt Our Onboarding Around MCP: The Result, 3X SDK Installs](https://dev.to/devcycle/we-rebuilt-our-onboarding-around-mcp-the-result-3x-sdk-installs-1hem)
-- [Building My First Web3 Application: A Journey into Decentralized Message Signing](https://dev.to/kumar111222rohit/building-my-first-web3-application-a-journey-into-decentralized-message-signing-1352)
-- [Music Moodboard Assistant &lpar; Auth0 AI + Spotify &rpar;](https://dev.to/akashb5/music-moodboard-assistant-auth0-ai-spotify--2apm)
-- [Centralizing SVG Handling in Angular Applications](https://dev.to/yshashi30/centralizing-svg-handling-in-angular-applications-1jno)
-- [Speed Up Your Frontend Work: AI-Powered n8n Workflows That Write Code and Save You Time](https://dev.to/yahav10/speed-up-your-frontend-work-ai-powered-n8n-workflows-that-write-code-and-save-you-time-4c7c)
+- [The Hidden Dangers of Smart Devices: Understanding IoT Vulnerabilities and Security Risks](https://dev.to/kapusto/the-hidden-dangers-of-smart-devices-understanding-iot-vulnerabilities-and-security-risks-220l)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-219e)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4ehj)
+- [We need to adjust quickie posts to properly not count full URLs for characters. I know Twitter traditionally capped these at 17 chars regardless of length — we&#39;ll want to do something similar along those lines.](https://dev.to/ben/we-need-to-adjust-quickie-posts-to-properly-not-count-full-urls-for-characters-i-know-twitter-j76)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-ie4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
