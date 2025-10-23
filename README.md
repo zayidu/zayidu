@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-533l)
-- [How to Implement Dynamic Island for iOS — and Live Notifications + Now Bar on Android](https://dev.to/forge-stackobea/how-to-implement-dynamic-island-for-ios-and-live-notifications-now-bar-on-android-155b)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-576b)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-47m9)
-- [Day 12: Rediscovering the Longest Word Without `len&lpar;&rpar;`](https://dev.to/shahrouzlogs/day-12-rediscovering-the-longest-word-without-len-55h2)
+- [Building Enterprise-Level Monitoring: From Prometheus to Grafana Dashboards](https://dev.to/cyberscoper/building-enterprise-level-monitoring-from-prometheus-to-grafana-dashboards-3pge)
+- [Next Greater Element &lpar;Right&rpar; using Stack](https://dev.to/we_are_broken_compilers/next-greater-element-right-using-stack-3ngn)
+- [Missing files in your Packer built image? You might be skipping graceful shutdowns](https://dev.to/u11d/missing-files-in-your-packer-built-image-you-might-be-skipping-graceful-shutdowns-4ccj)
+- [Implementing Intersite Connectivity in Azure: Seamless Communication Across Virtual Networks](https://dev.to/sudaisib/implementing-intersite-connectivity-in-azure-seamless-communication-across-virtual-networks-2jhh)
+- [LitmusChaos Community Highlights - September 2025 Recap](https://dev.to/priteshkiri/litmuschaos-community-highlights-september-2025-recap-e0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
