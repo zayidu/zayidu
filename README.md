@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS App Store Optimization: Growth, Engagement &amp; Localization &lpar;Part 3&rpar;](https://dev.to/arshtechpro/ios-app-store-optimization-growth-engagement-localization-part-3-2hlh)
-- [Team Management Plan: A Complete Guide to Building Effective Teams](https://dev.to/writegenic/team-management-plan-a-complete-guide-to-building-effective-teams-fj5)
-- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
-- [Exception Handling in java &lpar;try, catch &amp; finally&rpar;](https://dev.to/masteringbackend/exception-handling-in-java-try-catch-finally-1paa)
-- [🧠 Git Learning — My Structured Handbook for Mastering Git](https://dev.to/kurtpetrola/git-learning-my-structured-handbook-for-mastering-git-2cp5)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-533l)
+- [How to Implement Dynamic Island for iOS — and Live Notifications + Now Bar on Android](https://dev.to/forge-stackobea/how-to-implement-dynamic-island-for-ios-and-live-notifications-now-bar-on-android-155b)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-576b)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-47m9)
+- [Day 12: Rediscovering the Longest Word Without `len&lpar;&rpar;`](https://dev.to/shahrouzlogs/day-12-rediscovering-the-longest-word-without-len-55h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
