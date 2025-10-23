@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Action: Building Practical AI Agents on AWS-Chapter-1](https://dev.to/saitejab/from-idea-to-action-building-practical-ai-agents-on-aws-chapter-1-37n)
-- [PostgreSQL: How to Show Tables Using PSQL or SQL Queries](https://dev.to/dbvismarketing/postgresql-how-to-show-tables-using-psql-or-sql-queries-2mni)
-- [Level Up Your Dev Flow with These Tools That Make Coding Fun Again](https://dev.to/badass_tech-ae2025/level-up-your-dev-flow-with-these-tools-that-make-coding-fun-again-1ndg)
-- [🧩 Two Minor UI Glitches I Came Across on DEV 🙂](https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2)
-- [Check out the guide on - Tableau for Marketing: Become a Segmentation Sniper](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-tableau-for-marketing-become-a-segmentation-sniper-531g)
+- [10 mistakes I made as a first-time solo founder](https://dev.to/techwood/10-mistakes-i-made-as-a-first-time-solo-founder-4i58)
+- [How to Build a Payment App Like PayPal: Features, Security &amp; Development Guide](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-build-a-payment-app-like-paypal-features-security-development-guide-fcj)
+- [TASK](https://dev.to/vignesh_m_4971f2f8dfa54/task-56cc)
+- [Top Scale AI Competitors and Alternatives for 2025](https://dev.to/sohan_lal_241c2d80b2705e7/top-scale-ai-competitors-and-alternatives-for-2025-59pc)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-30fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
