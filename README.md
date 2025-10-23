@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Retail Revolution: How AI Is Quietly Rebuilding the Shopping Experience](https://dev.to/yallogroup/the-retail-revolution-how-ai-is-quietly-rebuilding-the-shopping-experience-5453)
-- [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-44fp)
-- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
-- [Erase and Evolve: Selective Amnesia for Ethical Graph Neural Networks by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-and-evolve-selective-amnesia-for-ethical-graph-neural-networks-by-arvind-sundararajan-pcf)
+- [FlakyHunter: Revolutionizing How You Detect and Fix Flaky Tests](https://dev.to/n3on/flakyhunter-revolutionizing-how-you-detect-and-fix-flaky-tests-41c9)
+- [RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation](https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58)
+- [Building Digital Sovereignty in the Philippines: Open-Source Solutions for Transparent, Secure Government](https://dev.to/alvinveroy/building-digital-sovereignty-in-the-philippines-open-source-solutions-for-transparent-secure-23c9)
+- [🧩 Testing Feature Support for Modern CSS — The Smart Developer’s Guide](https://dev.to/er-raj-aryan/testing-feature-support-for-modern-css-the-smart-developers-guide-56h4)
+- [**Revolutionizing Entertainment: The Rise of AI-Powered &#39;Dre](https://dev.to/drcarlosruizviquez/revolutionizing-entertainment-the-rise-of-ai-powered-dre-228m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
