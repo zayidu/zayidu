@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ERC-8004: Building Trustless Autonomous Agents with TEEs](https://dev.to/caerlower/erc-8004-building-trustless-autonomous-agents-with-tees-3iea)
-- [How Fingerprints Identify You: The Algorithm Beneath the Biometric](https://dev.to/iste-vit/how-fingerprints-identify-you-the-algorithm-beneath-the-biometric-3gg1)
-- [A Usabilidade no Back-End](https://dev.to/dev-araujo/a-usabilidade-no-back-end-12ll)
-- [The Best FREE AI App Builder? FREE Lovable AI Alternative](https://dev.to/proflead/the-best-free-ai-app-builder-free-lovable-ai-alternative-21nm)
-- [Oasis Launches “TEE Break Challenge”, One Bitcoin Bounty for Breaking Their Secure Enclave](https://dev.to/caerlower/oasis-launches-tee-break-challenge-one-bitcoin-bounty-for-breaking-their-secure-enclave-2ea8)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39oe)
+- [T-Shaped engineers: the blueprint for building with AI](https://dev.to/rockandnull/t-shaped-engineers-the-blueprint-for-building-with-ai-2d2a)
+- [Transforming AI Monetization: The Future of LLM-Powered Applications](https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-4jpf)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-1fmd)
+- [How I Finally Made TailwindCSS Work Inside the Shadow DOM &lpar;A Real Case Study&rpar;](https://dev.to/dhirajarya01/how-i-finally-made-tailwindcss-work-inside-the-shadow-dom-a-real-case-study-5gkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
