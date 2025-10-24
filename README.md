@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI](https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c)
-- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-30b0)
-- [How Crypto Payment Gateways Work: A Developer’s Deep Dive](https://dev.to/jason_mitchell_ee24ceae69/how-crypto-payment-gateways-work-a-developers-deep-dive-2eo3)
-- [the best way to learn react](https://dev.to/ashedm/the-best-way-to-learn-react-46f1)
-- [HadisKu: Membawa Perpustakaan Hadits ke Era Digital](https://dev.to/cas8398/hadisku-membawa-perpustakaan-hadits-ke-era-digital-2419)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5bje)
+- [“The Movement is not a chain — it’s a living ecosystem.”
+
+The Movement Network is built not just to connect chains, but to connect purpose.
+Each builder is a heartbeat. Each node, a breath.
+Our ecosystem thrives on collaboration, not control.](https://dev.to/kokyat/the-movement-is-not-a-chain-its-a-living-ecosystem-the-movement-network-is-built-not-just-to-4jj7)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-kk4)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1l1f)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-25g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
