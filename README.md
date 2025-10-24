@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your business needs a Bespoke Application](https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna)
-- [Why Your Mac Software Installation is Broken &lpar;And How to Fix It in 10 Minutes&rpar;](https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d)
-- [Oracle AI Database 26ai: RESETTABLE Clause](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho)
-- [Meet the AI Voice Agent That Actually Gets Your Customers](https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3e06)
+- [How To Use An SPF Record Generator To Protect Your Domain](https://dev.to/inspireme_labs_e6af6b7b69/how-to-use-an-spf-record-generator-to-protect-your-domain-4f3k)
+- [I Deleted Half My Code When I Switched to Signal Forms](https://dev.to/brianmtreese/i-deleted-half-my-code-when-i-switched-to-signal-forms-3737)
+- [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-32ef)
+- [Top 9 Game-Changing Features in React 19 You Need to Know](https://dev.to/hashbyt/top-9-game-changing-features-in-react-19-you-need-to-know-3c7b)
+- [Build a Blazing-Fast TCP Server in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
