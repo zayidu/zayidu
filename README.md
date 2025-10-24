@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Software Career So Far: An Unapologetic Recap](https://dev.to/anonymousdev/my-software-career-so-far-an-unapologetic-recap-40k4)
-- [MySQL commands](https://dev.to/jumptotech/mysql-commands-g53)
-- [How to Create a One-Time Payment Link and Secure Webhook Integration with Stripe](https://dev.to/canhamzacode/how-to-create-a-one-time-payment-link-and-secure-webhook-integration-with-stripe-2l4d)
-- [Inside AWS&#39;s outage - and What it teaches Developers.](https://dev.to/shimork/inside-awss-outage-and-what-it-teaches-developers-3h8a)
-- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg)
+- [Five Games for the Halloween Season 🎃](https://dev.to/gem_hell/five-games-for-the-halloween-season-47mh)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3of1)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
+- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-m7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
