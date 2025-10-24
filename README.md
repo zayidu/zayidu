@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Games for the Halloween Season 🎃](https://dev.to/gem_hell/five-games-for-the-halloween-season-47mh)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3of1)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
-- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-m7n)
+- [Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content](https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92)
+- [[Boost]](https://dev.to/rodcordeiro/-h3j)
+- [The Library Method: Understanding Context Managers](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-context-managers-4cdp)
+- [List and Tuples are Compound Data types](https://dev.to/onaolapo11/list-and-tuples-are-compound-data-types-34lg)
+- [Why I Built a Free Security Scanner That Makes Sense](https://dev.to/jmogaming/why-i-built-a-free-security-scanner-that-makes-sense-2cn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
