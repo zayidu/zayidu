@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenStreetMap&#39;s software ecosystem and tools](https://dev.to/tylerlwsmith/openstreetmaps-software-ecosystem-and-tools-m09)
-- [💡 Discovering `CustomMultiChildLayout` in Flutter: A Personal Journey](https://dev.to/artkinx/discovering-custommultichildlayout-in-flutter-a-personal-journey-1fi5)
-- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0)
-- [Tool Calling dando mãos e olhos aos modelos de linguagem &lpar;LLMs&rpar;](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b)
-- [The GitHub Actions Documentation Problem: Managing Multiple Actions &lpar;And How to Fix It&rpar;](https://dev.to/reakaleek/the-github-actions-documentation-problem-managing-multiple-actions-and-how-to-fix-it-3910)
+- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-59cg)
+- [Day 6: Aggregation Functions and GROUP BY](https://dev.to/hardik_kanajariya/day-6-aggregation-functions-and-group-by-20ni)
+- [How ChatGPT Apps Really Work: Inside the OpenAI Apps SDK](https://dev.to/zach_park_8558d8374a08a58/how-chatgpt-apps-really-work-inside-the-openai-apps-sdk-2k83)
+- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5h0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
