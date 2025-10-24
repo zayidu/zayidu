@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Artisan&#39;s Forge: Extending Node.js with the Power of Native Addons](https://dev.to/alex_aslam/the-artisans-forge-extending-nodejs-with-the-power-of-native-addons-5hk1)
-- [Web Design in the AI Era &lpar;2025&rpar;: Trends, Tools &amp; How We Can Help](https://dev.to/badhonaub/web-design-in-the-ai-era-2025-trends-tools-how-we-can-help-102o)
-- [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
-- [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
-- [I vibe-coded a 30 chapter book on regex](https://dev.to/davidcanhelp/i-vibe-coded-a-30-chapter-book-on-regex-2l59)
+- [OpenStreetMap&#39;s software ecosystem and tools](https://dev.to/tylerlwsmith/openstreetmaps-software-ecosystem-and-tools-m09)
+- [💡 Discovering `CustomMultiChildLayout` in Flutter: A Personal Journey](https://dev.to/artkinx/discovering-custommultichildlayout-in-flutter-a-personal-journey-1fi5)
+- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0)
+- [Tool Calling dando mãos e olhos aos modelos de linguagem &lpar;LLMs&rpar;](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b)
+- [The GitHub Actions Documentation Problem: Managing Multiple Actions &lpar;And How to Fix It&rpar;](https://dev.to/reakaleek/the-github-actions-documentation-problem-managing-multiple-actions-and-how-to-fix-it-3910)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
