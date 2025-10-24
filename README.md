@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-59cg)
-- [Day 6: Aggregation Functions and GROUP BY](https://dev.to/hardik_kanajariya/day-6-aggregation-functions-and-group-by-20ni)
-- [How ChatGPT Apps Really Work: Inside the OpenAI Apps SDK](https://dev.to/zach_park_8558d8374a08a58/how-chatgpt-apps-really-work-inside-the-openai-apps-sdk-2k83)
-- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5h0n)
+- [.NET 9 dropped Swashbuckle — but you can still keep Swagger UI backed by OpenAPI](https://dev.to/imzihad21/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3)
+- [📰 Major Tech News: Oct 24th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-24th-2025-4o78)
+- [Protege tu aplicación web On-Premises con AWS WAF: Guía paso a paso](https://dev.to/cbecerra/protege-tu-aplicacion-web-on-premises-con-aws-waf-guia-paso-a-paso-11pj)
+- [Protect Your On-Premises Web Application with AWS WAF: A Step-by-Step Guide](https://dev.to/cbecerra/protect-your-on-premises-web-application-with-aws-waf-a-step-by-step-guide-50om)
+- [DeepSeek-OCR: The New &#39;Black Tech&#39; in AI, How It&#39;s Changing Our Interaction with AI Models?](https://dev.to/baboon/deepseek-ocr-the-new-black-tech-in-ai-how-its-changing-our-interaction-with-ai-models-15mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
