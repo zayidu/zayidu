@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
-- [How Hackers Target Small Businesses — And How to Fight Back](https://dev.to/shivakshi_rawat_e69cf6990/how-hackers-target-small-businesses-and-how-to-fight-back-2il6)
-- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
-- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
-- [Auth0 AI Agent](https://dev.to/sipho_motau_4b58f8ae6caa1/auth0-ai-agent-25kg)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4jdn)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-39a1)
+- [👨‍💻 Meu Projeto ~/.dotfiles](https://dev.to/paulofachini/meu-projeto-dotfiles-23fn)
+- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-24o5)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-pm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
