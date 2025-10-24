@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the AI Shift in Software Development: Rearchitecting for Trust](https://dev.to/justinsaran/navigating-the-ai-shift-in-software-development-rearchitecting-for-trust-1o7)
-- [How End-to-End Payment Tracking Helps Institutions Tackle Fraud and Regulatory Risks](https://dev.to/nikunjgundaniya/how-end-to-end-payment-tracking-helps-institutions-tackle-fraud-and-regulatory-risks-3dbo)
-- [#1 A small app which use OpenAI API](https://dev.to/koichi_yoshikawa_dbd33319/1-a-small-app-which-use-openai-api-5dbh)
-- [Why Consistent Practice Beats Perfect Strategy](https://dev.to/soasme/why-consistent-practice-beats-perfect-strategy-31km)
-- [Best API Testing Tools to Use in 2025](https://dev.to/alexai/best-api-testing-tools-to-use-in-2025-4a90)
+- [What is Basic of Prompt Engineering?](https://dev.to/e77/what-is-basic-of-prompt-engineering-21om)
+- [How to Integrate AI Voice Commerce Into Your E-commerce Platform](https://dev.to/phyniks/how-to-integrate-ai-voice-commerce-into-your-e-commerce-platform-1pip)
+- [Microsoft Intune: Unified Endpoint Management Overview](https://dev.to/ibbus/microsoft-intune-unified-endpoint-management-overview-8f)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-477g)
+- [checkout this article on Optimization of Conversion Rate Using a Maturity Model](https://dev.to/dipti26810/checkout-this-article-on-optimization-of-conversion-rate-using-a-maturity-model-13ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
