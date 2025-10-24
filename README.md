@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TPUs Hit Peak Performance: A Decade of Fine-Tuning AI&#39;s Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)
-- [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
-- [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
-- [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
-- [Java Architecture](https://dev.to/swetha_palani_1547914a082/java-architecture-174d)
+- [Why your business needs a Bespoke Application](https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna)
+- [Why Your Mac Software Installation is Broken &lpar;And How to Fix It in 10 Minutes&rpar;](https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d)
+- [Oracle AI Database 26ai: RESETTABLE Clause](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho)
+- [Meet the AI Voice Agent That Actually Gets Your Customers](https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3e06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
