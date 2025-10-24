@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What the F**k is Git](https://dev.to/jeffrey_payne_19b04db1d78/what-the-fk-is-git-5ch3)
-- [Identity in AI Agents](https://dev.to/codingcatdev/identity-in-ai-agents-1ipo)
-- [Player Demographics and Platform Evolution: What Every Dev Should Know](https://dev.to/guardingpearsoftware/player-demographics-and-platform-evolution-what-every-dev-should-know-2m02)
-- [Rick Shiels Golf: Our FUNNIEST Golf Match EVER!](https://dev.to/youtube_golf/rick-shiels-golf-our-funniest-golf-match-ever-8gc)
-- [Going from Senior to Staff](https://dev.to/mapoulos/going-from-senior-to-staff-2d0f)
+- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
+- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
+- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
+- [Gang of Three: Pragmatic Operations Design Patterns](https://dev.to/rosesecurity/gang-of-three-pragmatic-operations-design-patterns-a40)
+- [Open Source Reflections: Hacktoberfest 2025](https://dev.to/dipika_vamankantappapoo/open-source-reflections-hacktoberfest-2025-5b3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
