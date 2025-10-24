@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify POS Extensions: Connecting the Backend Securely](https://dev.to/dchueri/shopify-pos-extensions-connecting-the-backend-securely-5fld)
-- [Advanced Patterns for Symfony HttpClient: Streaming, Retry, and Resilience](https://dev.to/mattleads/advanced-patterns-for-symfony-httpclient-streaming-retry-and-resilience-2dg)
-- [Introducing Solana Instruction MCP — A Game-Changing Tool for Solana Developers](https://dev.to/0xlivian2581919/introducing-solana-instruction-mcp-a-game-changing-tool-for-solana-developers-336e)
-- [👋 Hey DEV community! I&#39;m a Full Stack Developer from Lahore 🇵🇰 with 12+ years in PHP, JS, and WordPress. Currently exploring Python &amp; ML. Excited to share my experiences and learn from you all! 🚀](https://dev.to/muzammildev/hey-dev-community-im-a-full-stack-developer-from-lahore-with-12-years-in-php-js-and-297a)
-- [Shopify POS Extensions: Conectando o Backend com Segurança](https://dev.to/dchueri/shopify-pos-extensions-conectando-o-backend-com-seguranca-2ljm)
+- [What the F**k is Git](https://dev.to/jeffrey_payne_19b04db1d78/what-the-fk-is-git-5ch3)
+- [Identity in AI Agents](https://dev.to/codingcatdev/identity-in-ai-agents-1ipo)
+- [Player Demographics and Platform Evolution: What Every Dev Should Know](https://dev.to/guardingpearsoftware/player-demographics-and-platform-evolution-what-every-dev-should-know-2m02)
+- [Rick Shiels Golf: Our FUNNIEST Golf Match EVER!](https://dev.to/youtube_golf/rick-shiels-golf-our-funniest-golf-match-ever-8gc)
+- [Going from Senior to Staff](https://dev.to/mapoulos/going-from-senior-to-staff-2d0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
