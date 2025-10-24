@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4jdn)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-39a1)
-- [👨‍💻 Meu Projeto ~/.dotfiles](https://dev.to/paulofachini/meu-projeto-dotfiles-23fn)
-- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-24o5)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-pm2)
+- [The Tech Behind Successful Brand Activations Sydney Campaigns: How Data and Digital Tools Drive Engagement](https://dev.to/amelia_brown04/the-tech-behind-successful-brand-activations-sydney-campaigns-how-data-and-digital-tools-drive-cg6)
+- [Top 5 Zendesk Chat Alternatives in 2025: Features, Pricing, and Use Cases](https://dev.to/vamsi_mullapudi_0bd8d1a49/top-5-zendesk-chat-alternatives-in-2025-features-pricing-and-use-cases-85a)
+- [The Semantic Gap in Data Quality: Why Your Monitoring is Lying to You](https://dev.to/vivekjami/the-semantic-gap-in-data-quality-why-your-monitoring-is-lying-to-you-af4)
+- [Debian Technical Committee overrides systemd change](https://dev.to/technoblogger14o3/debian-technical-committee-overrides-systemd-change-1k4m)
+- [Mastering Kubernetes Step by Step Part 2 Pods and Containers Explained](https://dev.to/ridwaneelfilali/mastering-kubernetes-step-by-step-part-2-pods-and-containers-explained-1pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
