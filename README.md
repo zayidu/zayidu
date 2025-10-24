@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Productivity](https://dev.to/johannesjo/productivity-56ic)
-- [The Journey #2 - networking](https://dev.to/wbartlomiej/the-journey-2-networking-3690)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-26k2)
-- [Why Developers Can’t Stop Talking About PHP 8.5’s New Pipe Operator?
-
-https://medium.com/@pixicstudio/why-developers-cant-stop-talking-about-php-8-5-s-new-pipe-operator-9aaa0a6062d2](https://dev.to/web_dev-usman/why-developers-cant-stop-talking-about-php-85s-new-pipe-operator-32dn)
-- [The salesperson with the highest sales during the promotion period--SPL Programming Practice](https://dev.to/esproc_spl/the-salesperson-with-the-highest-sales-during-the-promotion-period-spl-programming-practice-3io2)
+- [Navigating the AI Shift in Software Development: Rearchitecting for Trust](https://dev.to/justinsaran/navigating-the-ai-shift-in-software-development-rearchitecting-for-trust-1o7)
+- [How End-to-End Payment Tracking Helps Institutions Tackle Fraud and Regulatory Risks](https://dev.to/nikunjgundaniya/how-end-to-end-payment-tracking-helps-institutions-tackle-fraud-and-regulatory-risks-3dbo)
+- [#1 A small app which use OpenAI API](https://dev.to/koichi_yoshikawa_dbd33319/1-a-small-app-which-use-openai-api-5dbh)
+- [Why Consistent Practice Beats Perfect Strategy](https://dev.to/soasme/why-consistent-practice-beats-perfect-strategy-31km)
+- [Best API Testing Tools to Use in 2025](https://dev.to/alexai/best-api-testing-tools-to-use-in-2025-4a90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
