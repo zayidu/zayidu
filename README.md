@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-48jd)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-2o09)
-- [Entendendo Interfaces em Java: O Modelo Que Garante Ordem no Seu Código](https://dev.to/a_audrey/entendendo-interfaces-em-java-o-modelo-que-garante-ordem-no-seu-codigo-4jdp)
-- [📌 What you&#39;ll learn: 
-- ⚙️ Why micro-frontends created scaling chaos 
-- 🧩 The tradeoffs teams didn’t expect 
-- 🚀 What’s replacing them in 2025 
-- 💡 Real-world lessons from production apps](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-created-scaling-chaos-the-tradeoffs-teams-41o)
-- [Dice UI: Advanced &amp; Accessible Components for shadcn/ui](https://dev.to/jqueryscript/dice-ui-advanced-accessible-components-for-shadcnui-3ibl)
+- [TPUs Hit Peak Performance: A Decade of Fine-Tuning AI&#39;s Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)
+- [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
+- [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
+- [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
+- [Java Architecture](https://dev.to/swetha_palani_1547914a082/java-architecture-174d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
