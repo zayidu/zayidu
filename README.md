@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration](https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd)
-- [The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172)
-- [S3 aws guide](https://dev.to/sachin841/s3-aws-guide-45e1)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke)
+- [Why Use Google Cloud Run for Your MVP?](https://dev.to/ynwd/why-use-google-cloud-run-for-your-mvp-4476)
+- [How to Design and Develop a Bidding App for Mobile and Web](https://dev.to/aartijangid23/how-to-design-and-develop-a-bidding-app-for-mobile-and-web-4lip)
+- [Haunted Halloween | Frontend Challenge](https://dev.to/deepak_singh_fa1c5e26bd82/haunted-halloween-frontend-challenge-4e92)
+- [ChatGPT Atlas: The Beginning of AI-Powered Browsing](https://dev.to/ibne_sabidsaikat_1443282/chatgpt-atlas-the-beginning-of-ai-powered-browsing-498d)
+- [Understanding the Difference Between “window.addEventListener” and “document.addEventListener”](https://dev.to/natarajan_c_k/understanding-the-difference-between-windowaddeventlistener-and-documentaddeventlistener-3066)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
