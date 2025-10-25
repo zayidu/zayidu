@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What makes SkillWint’s training different from other platforms?](https://dev.to/nikolai_6b/what-makes-skillwints-training-different-from-other-platforms-16og)
-- [Let&#39;s find Peace](https://dev.to/lets_findpeace_7f21c25c/lets-find-peace-5fi9)
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-21gp)
-- [The Man Who Thought He Was Smarter Than Time](https://dev.to/nirajkvinit1/the-man-who-thought-he-was-smarter-than-time-38hp)
-- [Sometimes small ideas teach you the biggest lessons.](https://dev.to/satyam_shree_087caef77512/sometimes-small-ideas-teach-you-the-biggest-lessons-356m)
+- [Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration](https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd)
+- [The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172)
+- [S3 aws guide](https://dev.to/sachin841/s3-aws-guide-45e1)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
