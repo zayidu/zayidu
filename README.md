@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Objects with PHP 🐘 Step-By-Step Guide](https://dev.to/pierre/compare-objects-in-php-6pa)
-- [Crafting Effective Prompts for AI Language Models](https://dev.to/john_turek_72fcb983f41420/crafting-effective-prompts-for-ai-language-models-1pph)
-- [I founded ReThynk AI to make Artificial Intelligence simple, ethical, and accessible.
-What began as an idea in a small room became a company with a global audience through books, lectures, podcasts, and the ReThynk AI Magazine.](https://dev.to/jaideepparashar/i-founded-rethynk-ai-to-make-artificial-intelligence-simple-ethical-and-accessible-what-began-43o6)
-- [TIL - How to Fix Flaky macOS Screen Capture on OBS](https://dev.to/bwfiq/til-how-to-fix-flaky-macos-screen-capture-on-obs-46dg)
-- [From Skipping Dinners to Global Influence: My Journey With Books &amp; AI](https://dev.to/jaideepparashar/from-skipping-dinners-to-global-influence-my-journey-with-books-ai-1b4b)
+- [Dolphin switches from .directory to extended attributes](https://dev.to/svhl/dolphin-switches-from-directory-to-extended-attributes-jpj)
+- [Your Own Workflow Engine in C#: Designing Flexible E-Shop Systems](https://dev.to/auyeungdavid_2847435260/your-own-workflow-engine-in-c-designing-flexible-e-shop-systems-2n1c)
+- [Hacktoberfest 2025: A Journey Through Multiple Perspectives](https://dev.to/mcruvinel/hacktoberfest-2025-a-journey-through-multiple-perspectives-51l6)
+- [📰 Major Tech News: Oct 25th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-25th-2025-3pc2)
+- [3 مسیر ورود به اقتصاد خالقان محتوا](https://dev.to/dorify/3-msyr-wrwd-bh-qtsd-khlqn-mhtw-2b0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
