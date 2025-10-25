@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-iko)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2jd)
-- [AI Agents 2026: Top Trends, Use Cases &amp; Ethical Automation Guide](https://dev.to/giyeon_kim_f31b30e77be04d/ai-agents-2026-top-trends-use-cases-ethical-automation-guide-28g7)
-- [Qué es el Sistema Operativo OpenBSD](https://dev.to/juniormendoza3044/que-es-el-sistema-operativo-openbsd-3mp4)
+- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-4-41le)
+- [Daily DSA and System Design Journal - 11](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-11-51m0)
+- [StateFlow vs. SharedFlow: Thinking in &quot;State&quot; vs. &quot;Event&quot;](https://dev.to/kavearhasi_viswanathan/stateflow-vs-sharedflow-thinking-in-state-vs-event-2jdb)
+- [🔥 JavaScript Interview Series&lpar;9&rpar;: Working with Arrays and Objects Like a Pro](https://dev.to/jackm_345442a09fb53b/javascript-interview-series9-working-with-arrays-and-objects-like-a-pro-5c5i)
+- [C# Record Type](https://dev.to/gulsenkeskin/c-record-type-bne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
