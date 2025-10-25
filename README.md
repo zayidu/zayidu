@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e93)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3ab1)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2if)
-- [Day 2: Back to Heaven &lpar;aka My Terminal&rpar;](https://dev.to/casperday11/day-2-back-to-heaven-aka-my-terminal-23ka)
-- [The Hidden Gap Between Good Developers and Great Architects -EP 2](https://dev.to/devhoangkien/the-hidden-gap-between-good-developers-and-great-architects-ep-2-50nk)
+- [Things to do when bored for students during a power outage](https://dev.to/tien_loc_8ef583855288ab1c/things-to-do-when-bored-for-students-during-a-power-outage-3n38)
+- [Things to do when bored for parents on a weekend](https://dev.to/tien_loc_8ef583855288ab1c/things-to-do-when-bored-for-parents-on-a-weekend-4d23)
+- [GDG on Campus, Graphic Era Dehradun](https://dev.to/gdg-geu/gdg-on-campus-graphic-era-dehradun-570j)
+- [How to fix Ubuntu 24.04 NVIDIA RTX 4050 graphics driver issue in ASUS TUF A15](https://dev.to/shaikhalamin/how-to-fix-ubuntu-2404-nvidia-4050-graphics-driver-issue-in-asus-tuf-a15-34ic)
+- [Container Networking Demystified: A Deep Dive into Linux Network Namespaces](https://dev.to/ajinkya_singh_2c02bd40423/container-networking-demystified-a-deep-dive-into-linux-network-namespaces-3gll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
