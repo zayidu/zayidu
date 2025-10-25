@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Google Cloud Run for Your MVP?](https://dev.to/ynwd/why-use-google-cloud-run-for-your-mvp-4476)
-- [How to Design and Develop a Bidding App for Mobile and Web](https://dev.to/aartijangid23/how-to-design-and-develop-a-bidding-app-for-mobile-and-web-4lip)
-- [Haunted Halloween | Frontend Challenge](https://dev.to/deepak_singh_fa1c5e26bd82/haunted-halloween-frontend-challenge-4e92)
-- [ChatGPT Atlas: The Beginning of AI-Powered Browsing](https://dev.to/ibne_sabidsaikat_1443282/chatgpt-atlas-the-beginning-of-ai-powered-browsing-498d)
-- [Understanding the Difference Between “window.addEventListener” and “document.addEventListener”](https://dev.to/natarajan_c_k/understanding-the-difference-between-windowaddeventlistener-and-documentaddeventlistener-3066)
+- [Building Gulf Heritage AI Studio: A Serverless GenAI Experience](https://dev.to/aws-builders/building-gulf-heritage-ai-studio-a-serverless-genai-experience-o48)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-24ml)
+- [Check out the guide on - How to Perform Hierarchical Clustering in R: A Complete Guide with Real-World Case Studies](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-how-to-perform-hierarchical-clustering-in-r-a-complete-guide-with-j2)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4f6j)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4j45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
