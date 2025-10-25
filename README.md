@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
-- [Fun, simple, NOT scalable background worker based on Django Cache](https://dev.to/climentea/fun-simple-not-scalable-background-worker-based-on-django-cache-7f5)
-- [Modern JavaScript Concurrency - 2025 Edition](https://dev.to/gkoos/modern-javascript-concurrency-2025-edition-h84)
-- [New in Vue - October 2025](https://dev.to/aloisseckar/new-in-vue-october-2025-6i7)
-- [Learning to Code like Crafting in an MMORPG](https://dev.to/skriptmonkey/learning-to-code-like-crafting-in-an-mmorpg-1ckl)
+- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-4bda)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-9d7)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hdl)
+- [AI&#39;s Microscopic Eye: Seeing the Unseen in Manufacturing](https://dev.to/arvind_sundararajan/ais-microscopic-eye-seeing-the-unseen-in-manufacturing-51g3)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4ep0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
