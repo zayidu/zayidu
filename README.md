@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
-- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
-- [Span και Memory](https://dev.to/__b63657/span-kai-memory-181c)
-- [Unlocking free WiFi on British Airways](https://dev.to/technoblogger14o3/unlocking-free-wifi-on-british-airways-28e)
-- [Securely Deleting Data on Linux: rm, shred, blkdiscard, and hdparm Secure Erase Explained](https://dev.to/lovestaco/securely-deleting-data-on-linux-rm-shred-blkdiscard-and-hdparm-secure-erase-explained-3ofi)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e93)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3ab1)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2if)
+- [Day 2: Back to Heaven &lpar;aka My Terminal&rpar;](https://dev.to/casperday11/day-2-back-to-heaven-aka-my-terminal-23ka)
+- [The Hidden Gap Between Good Developers and Great Architects -EP 2](https://dev.to/devhoangkien/the-hidden-gap-between-good-developers-and-great-architects-ep-2-50nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
