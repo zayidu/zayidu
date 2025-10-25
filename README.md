@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content](https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92)
-- [[Boost]](https://dev.to/rodcordeiro/-h3j)
-- [The Library Method: Understanding Context Managers](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-context-managers-4cdp)
-- [List and Tuples are Compound Data types](https://dev.to/onaolapo11/list-and-tuples-are-compound-data-types-34lg)
-- [Why I Built a Free Security Scanner That Makes Sense](https://dev.to/jmogaming/why-i-built-a-free-security-scanner-that-makes-sense-2cn7)
+- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
+- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
+- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f)
+- [an introduction to Dask](https://dev.to/sengseng/an-introduction-to-dask-4kgi)
+- [New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams](https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
