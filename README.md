@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
-- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
-- [10 Essential AI Prompts Every SEO Needs to Master](https://dev.to/natepatel/10-essential-ai-prompts-every-seo-needs-to-master-bpn)
-- [Top 10 SaaS Development Companies in 2025](https://dev.to/technource/top-10-saas-development-companies-in-2025-4153)
-- [🚀 Optimizing Meta Data Retrieval with ThingsDB 1.7.6](https://dev.to/joente/optimizing-meta-data-retrieval-with-thingsdb-176-205k)
+- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp)
+- [Jason Brown on the Real Superpower in the Age of AI: Becoming a Relentless Learner](https://dev.to/jason_brown/jason-brown-on-the-real-superpower-in-the-age-of-ai-becoming-a-relentless-learner-28ma)
+- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-356a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
