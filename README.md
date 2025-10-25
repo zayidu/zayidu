@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-4bda)
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-9d7)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hdl)
-- [AI&#39;s Microscopic Eye: Seeing the Unseen in Manufacturing](https://dev.to/arvind_sundararajan/ais-microscopic-eye-seeing-the-unseen-in-manufacturing-51g3)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4ep0)
+- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_3bfe2e68/files-are-not-just-data-a-guide-to-robust-file-handling-5f30)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_083ff294/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-14ld)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-3oeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
