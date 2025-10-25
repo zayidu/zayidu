@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Gulf Heritage AI Studio: A Serverless GenAI Experience](https://dev.to/aws-builders/building-gulf-heritage-ai-studio-a-serverless-genai-experience-o48)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-24ml)
-- [Check out the guide on - How to Perform Hierarchical Clustering in R: A Complete Guide with Real-World Case Studies](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-how-to-perform-hierarchical-clustering-in-r-a-complete-guide-with-j2)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4f6j)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4j45)
+- [✨ [29] - 🔥 Setup Auto Login &lpar;Token Auth&rpar; and Cart API with Redux Saga in React Native](https://dev.to/skipperhoa/29-setup-auto-login-token-auth-and-cart-api-with-redux-saga-in-react-native-1f67)
+- [The XSLT Debugging Problem for Logic Apps Developers](https://dev.to/imdj/the-xslt-debugging-problem-for-logic-apps-developers-nba)
+- [The Future of Laravel and PHP: Navigating Challenges and Opportunities in 2025](https://dev.to/alnahian2003/the-future-of-laravel-and-php-navigating-challenges-and-opportunities-in-2025-370j)
+- [TCS34725 RGB Color Sensor: Precision Color Detection for IoT &amp; Embedded Systems](https://dev.to/graham_ad39d948da72c53e4a/tcs34725-rgb-color-sensor-precision-color-detection-for-iot-embedded-systems-42p2)
+- [How We Handle Concurrency Control in Financial Systems](https://dev.to/harry_do/how-we-handle-concurrency-control-in-financial-systems-3cd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
