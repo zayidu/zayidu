@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
-- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
-- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f)
-- [an introduction to Dask](https://dev.to/sengseng/an-introduction-to-dask-4kgi)
-- [New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams](https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h)
+- [Comparing Objects with PHP 🐘 Step-By-Step Guide](https://dev.to/pierre/compare-objects-in-php-6pa)
+- [Crafting Effective Prompts for AI Language Models](https://dev.to/john_turek_72fcb983f41420/crafting-effective-prompts-for-ai-language-models-1pph)
+- [I founded ReThynk AI to make Artificial Intelligence simple, ethical, and accessible.
+What began as an idea in a small room became a company with a global audience through books, lectures, podcasts, and the ReThynk AI Magazine.](https://dev.to/jaideepparashar/i-founded-rethynk-ai-to-make-artificial-intelligence-simple-ethical-and-accessible-what-began-43o6)
+- [TIL - How to Fix Flaky macOS Screen Capture on OBS](https://dev.to/bwfiq/til-how-to-fix-flaky-macos-screen-capture-on-obs-46dg)
+- [From Skipping Dinners to Global Influence: My Journey With Books &amp; AI](https://dev.to/jaideepparashar/from-skipping-dinners-to-global-influence-my-journey-with-books-ai-1b4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
