@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Things to do when bored for students during a power outage](https://dev.to/tien_loc_8ef583855288ab1c/things-to-do-when-bored-for-students-during-a-power-outage-3n38)
-- [Things to do when bored for parents on a weekend](https://dev.to/tien_loc_8ef583855288ab1c/things-to-do-when-bored-for-parents-on-a-weekend-4d23)
-- [GDG on Campus, Graphic Era Dehradun](https://dev.to/gdg-geu/gdg-on-campus-graphic-era-dehradun-570j)
-- [How to fix Ubuntu 24.04 NVIDIA RTX 4050 graphics driver issue in ASUS TUF A15](https://dev.to/shaikhalamin/how-to-fix-ubuntu-2404-nvidia-4050-graphics-driver-issue-in-asus-tuf-a15-34ic)
-- [Container Networking Demystified: A Deep Dive into Linux Network Namespaces](https://dev.to/ajinkya_singh_2c02bd40423/container-networking-demystified-a-deep-dive-into-linux-network-namespaces-3gll)
+- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-iko)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2jd)
+- [AI Agents 2026: Top Trends, Use Cases &amp; Ethical Automation Guide](https://dev.to/giyeon_kim_f31b30e77be04d/ai-agents-2026-top-trends-use-cases-ethical-automation-guide-28g7)
+- [Qué es el Sistema Operativo OpenBSD](https://dev.to/juniormendoza3044/que-es-el-sistema-operativo-openbsd-3mp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
