@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1704)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-en6)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5fg7)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-en3)
-- [🎨 Mood Gradient Generator: Colors &amp; Quotes That Match Your Feelings](https://dev.to/naman_sachdeva/mood-gradient-generator-colors-quotes-that-match-your-feelings-57g4)
+- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
+- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
+- [10 Essential AI Prompts Every SEO Needs to Master](https://dev.to/natepatel/10-essential-ai-prompts-every-seo-needs-to-master-bpn)
+- [Top 10 SaaS Development Companies in 2025](https://dev.to/technource/top-10-saas-development-companies-in-2025-4153)
+- [🚀 Optimizing Meta Data Retrieval with ThingsDB 1.7.6](https://dev.to/joente/optimizing-meta-data-retrieval-with-thingsdb-176-205k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
