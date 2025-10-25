@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ [29] - 🔥 Setup Auto Login &lpar;Token Auth&rpar; and Cart API with Redux Saga in React Native](https://dev.to/skipperhoa/29-setup-auto-login-token-auth-and-cart-api-with-redux-saga-in-react-native-1f67)
-- [The XSLT Debugging Problem for Logic Apps Developers](https://dev.to/imdj/the-xslt-debugging-problem-for-logic-apps-developers-nba)
-- [The Future of Laravel and PHP: Navigating Challenges and Opportunities in 2025](https://dev.to/alnahian2003/the-future-of-laravel-and-php-navigating-challenges-and-opportunities-in-2025-370j)
-- [TCS34725 RGB Color Sensor: Precision Color Detection for IoT &amp; Embedded Systems](https://dev.to/graham_ad39d948da72c53e4a/tcs34725-rgb-color-sensor-precision-color-detection-for-iot-embedded-systems-42p2)
-- [How We Handle Concurrency Control in Financial Systems](https://dev.to/harry_do/how-we-handle-concurrency-control-in-financial-systems-3cd9)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1704)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-en6)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5fg7)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-en3)
+- [🎨 Mood Gradient Generator: Colors &amp; Quotes That Match Your Feelings](https://dev.to/naman_sachdeva/mood-gradient-generator-colors-quotes-that-match-your-feelings-57g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
