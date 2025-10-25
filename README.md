@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
-- [ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0](https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l)
+- [Wait, Why Are Devs Still Invisible Online?](https://dev.to/brilliantmakanju/wait-why-are-devs-still-invisible-online-37p9)
+- [IELTS 7.5 until step-by-step](https://dev.to/elshoddev/ielts-75-until-step-by-step-1ld)
+- [AWS Strands Multi-Agent Patterns for the Enterprise Part-I](https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna)
+- [Why I Built an Audit Tool for Developers Who Care](https://dev.to/buildwithnumen/why-i-built-an-audit-tool-for-developers-who-care-2ik9)
+- [Mistakes to Avoid When Monetizing a Mobile App](https://dev.to/emilia-novak/mistakes-to-avoid-when-monetizing-a-mobile-app-dpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
