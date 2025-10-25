@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp)
-- [Jason Brown on the Real Superpower in the Age of AI: Becoming a Relentless Learner](https://dev.to/jason_brown/jason-brown-on-the-real-superpower-in-the-age-of-ai-becoming-a-relentless-learner-28ma)
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-356a)
+- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
+- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
+- [Span και Memory](https://dev.to/__b63657/span-kai-memory-181c)
+- [Unlocking free WiFi on British Airways](https://dev.to/technoblogger14o3/unlocking-free-wifi-on-british-airways-28e)
+- [Securely Deleting Data on Linux: rm, shred, blkdiscard, and hdparm Secure Erase Explained](https://dev.to/lovestaco/securely-deleting-data-on-linux-rm-shred-blkdiscard-and-hdparm-secure-erase-explained-3ofi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
