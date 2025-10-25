@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wait, Why Are Devs Still Invisible Online?](https://dev.to/brilliantmakanju/wait-why-are-devs-still-invisible-online-37p9)
-- [IELTS 7.5 until step-by-step](https://dev.to/elshoddev/ielts-75-until-step-by-step-1ld)
-- [AWS Strands Multi-Agent Patterns for the Enterprise Part-I](https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna)
-- [Why I Built an Audit Tool for Developers Who Care](https://dev.to/buildwithnumen/why-i-built-an-audit-tool-for-developers-who-care-2ik9)
-- [Mistakes to Avoid When Monetizing a Mobile App](https://dev.to/emilia-novak/mistakes-to-avoid-when-monetizing-a-mobile-app-dpf)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-gde)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-58j9)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-ea7)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1pg1)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2ha1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
