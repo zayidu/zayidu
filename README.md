@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-1a65)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-44a4)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-4h4d)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-35ah)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-11im)
+- [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
+- [Aliasing and Cloning can be carried out with list](https://dev.to/onaolapo11/aliasing-and-cloning-can-be-carried-out-with-list-43ad)
+- [Top 5 Privacy-Focused Alternatives to Facebook](https://dev.to/destinytch001/top-5-privacy-focused-alternatives-to-facebook-mpl)
+- [Mastering Lock-Free Data Structures in Go: Ring Buffers, Queues, and Performance Optimization](https://dev.to/aaravjoshi/mastering-lock-free-data-structures-in-go-ring-buffers-queues-and-performance-optimization-2f2d)
+- [Ship Small, Learn Big—Staged Rollouts Strengthen Your Product](https://dev.to/tom-takeru/ship-small-learn-big-staged-rollouts-strengthen-your-product-4ip9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
