@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Just Launched Our Chrome Extension – And It&#39;s Completely Free! 🎉](https://dev.to/wordcounterplusapp/we-just-launched-our-chrome-extension-and-its-completely-free-4f06)
-- [Security Considerations for Multi-Cluster Cloud Architecture &lpar;HA EKS with Databases&rpar;](https://dev.to/aws-builders/security-considerations-for-multi-cluster-cloud-architecture-ha-eks-with-databases-1edp)
-- [Phantom.Coin – an absolutely deterministic, rule-based L1 &lpar;DAG + aBFT, eUTXO&rpar;. First building block of an open ecosystem.](https://dev.to/hakan_onder/phantomcoin-an-absolutely-deterministic-rule-based-l1-dag-abft-eutxo-first-building-block-1id5)
-- [Looking for a Startup-Oriented Teammate for Microsoft Imagine Cup 2026](https://dev.to/mlwithharsh/looking-for-a-startup-oriented-teammate-for-microsoft-imagine-cup-2026-1b9k)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5j1)
+- [Test Automation Architecture: Data Management, Execution &amp; Orchestration in Hybrid Environments - Part 4 of 4](https://dev.to/hariomlabs/test-automation-architecture-data-management-execution-orchestration-in-hybrid-environments--217h)
+- [Running a Strands Agent on Lambda to Tag Product Reviews](https://dev.to/aws-builders/running-a-strands-agent-on-lambda-to-tag-product-reviews-131o)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4bna)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1bd8)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-42gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
