@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)
-- [How to Write Clean DTO &amp; Entity Mappers in Java &lpar;with Spring Boot&rpar;](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-32dj)
-- [Visualize Tailscale Network Flow Logs with New Relic](https://dev.to/pnvnd/visualize-tailscale-network-flow-logs-with-new-relic-1mfg)
-- [Why New Businesses Should Build Their Websites with Next.js](https://dev.to/shoyayeb/why-new-businesses-should-build-their-websites-with-nextjs-4ek4)
+- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
+- [String Analysis RESTful API](https://dev.to/ameh_mathias/string-analysis-restful-api-1fgp)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_3bfe2e68/your-projects-a-mess-its-not-you-its-your-frameworks-fault-404j)
+- [LLMZ25-6 Review : Propuesta de Integración con LangChain para lus-laboris-py](https://dev.to/jesus_oviedoriquelme_084/llmz25-6-review-propuesta-de-integracion-con-langchain-para-lus-laboris-py-3b8b)
+- [LLMZ25-5 Review : Arquitectura RAG del Proyecto Ziweidoushu](https://dev.to/jesus_oviedoriquelme_084/llmz25-5-review-arquitectura-rag-del-proyecto-ziweidoushu-5cck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
