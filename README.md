@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolving Battlefield: AI vs. AI in Network Security by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-evolving-battlefield-ai-vs-ai-in-network-security-by-arvind-sundararajan-3pmd)
-- [Policy-Bound Personas in SaijinOS — How AI Grows Through Boundaries](https://dev.to/kato_masato_c5593c81af5c6/policy-bound-personas-in-saijinos-how-ai-grows-through-boundaries-432l)
-- [java ArrayList Guide: Your Ultimate Handbook for Dynamic Data](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraylist-guide-your-ultimate-handbook-for-dynamic-data-1np8)
-- [I Built A Free Developer Toolkit with 20+ Developer Tools](https://dev.to/technical_leap_53b6f15370/i-built-a-free-developer-toolkit-with-20-developer-tools-1k9a)
-- [How Software Architects Choose the Right Technology Stack](https://dev.to/adityathearchitect/how-software-architects-choose-the-right-technology-stack-54i1)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8nj)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-2i97)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1ofl)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-epi)
+- [Lazy Loading Like a Pro: Angular&#39;s Secrets to Blazing Performance](https://dev.to/karol_modelski/lazy-loading-like-a-pro-angulars-secrets-to-blazing-performance-423m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
