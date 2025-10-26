@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Draw a Spiral with JavaScript](https://dev.to/codingdudecom/how-to-draw-a-spiral-with-javascript-4n9a)
-- [How a Freelance Graphic Designer Streamlined Her Business Operations with Free Digital Tools](https://dev.to/royalaccount_24fe3bccf48d/how-a-freelance-graphic-designer-streamlined-her-business-operations-with-free-digital-tools-cec)
-- [&quot;It’s easy to get discouraged when your projects feel small. But here’s the secret: those small projects are not wasted time. They’re your grind. They’re your XP.&quot;](https://dev.to/dejavuudev/its-easy-to-get-discouraged-when-your-projects-feel-small-but-heres-the-secret-those-small-2efd)
-- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
-- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-5310)
+- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)
+- [How to Write Clean DTO &amp; Entity Mappers in Java &lpar;with Spring Boot&rpar;](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-32dj)
+- [Visualize Tailscale Network Flow Logs with New Relic](https://dev.to/pnvnd/visualize-tailscale-network-flow-logs-with-new-relic-1mfg)
+- [Why New Businesses Should Build Their Websites with Next.js](https://dev.to/shoyayeb/why-new-businesses-should-build-their-websites-with-nextjs-4ek4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
