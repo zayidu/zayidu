@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kuku FM se 499 cut jaaye to kya Karen](https://dev.to/munna_kumar_a4c97c55d2ee2/kuku-fm-se-499-cut-jaaye-to-kya-karen-ldp)
-- [How to upload the object in S3 | How to public the object | How to access the object](https://dev.to/sachin841/how-to-upload-the-object-in-s3-how-to-public-the-object-how-to-access-the-object-5g8h)
-- [Master Your Social Media Marketing Strategy in 2025: The Ultimate Guide](https://dev.to/gooday_marlon_5cf7e1f4841/master-your-social-media-marketing-strategy-in-2025-the-ultimate-guide-44m8)
-- [IELTS step-by-step](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-step-by-step-kaa)
-- [Book Reading vs AI](https://dev.to/jaideepparashar/book-reading-vs-ai-4i9n)
+- [Build Your First Movie Recommendation Engine in Python](https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585)
+- [Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, and ViewSets](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-432o)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-1cga)
+- [Agentic AI and OpenAI SDK](https://dev.to/aqsagull99/agentic-ai-and-openai-sdk-3o42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
