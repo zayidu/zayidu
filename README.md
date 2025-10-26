@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Tree UIs: A Deep Dive into Legoblock&#39;s Headless Renderer](https://dev.to/pappijx/building-smarter-tree-uis-a-deep-dive-into-legoblocks-headless-renderer-22gp)
-- [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
-- [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
-- [DeepSeek-OCR: When a Picture Is Actually Worth 10 Fewer Tokens](https://dev.to/0xrelogic/deepseek-ocr-when-a-picture-is-actually-worth-10x-fewer-tokens-19p6)
-- [Optimizing Cloud Infrastructure Performance Through Open-Source Innovation](https://dev.to/kapusto/optimizing-cloud-infrastructure-performance-through-open-source-innovation-f9p)
+- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-1a65)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-44a4)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-4h4d)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-35ah)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-11im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
