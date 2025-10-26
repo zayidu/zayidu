@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1f2f)
-- [AWS EKS Enterprise Deployment: Real-Time Data Streaming Platform - 1 Million Events/Sec](https://dev.to/vijaya_bhaskarv_ba95adf9/aws-eks-enterprise-deployment-real-time-data-streaming-platform-1-million-eventssec-p2g)
-- [[Boost]](https://dev.to/tu_nguyenquang_074177947/-4506)
-- [One Package, Two Formats: Publishing npm Libraries with Nx](https://dev.to/sudokar/one-package-two-formats-publishing-npm-libraries-with-nx-3hho)
-- [#1: Stop Doing Chores: AI-Powered Automation for DevOps Beginners](https://dev.to/karthik_n/1-stop-doing-chores-ai-powered-automation-for-devops-beginners-4gcc)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2heo)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1b99)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-35cj)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2805)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-3bk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
