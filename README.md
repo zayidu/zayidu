@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
-- [String Analysis RESTful API](https://dev.to/ameh_mathias/string-analysis-restful-api-1fgp)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_3bfe2e68/your-projects-a-mess-its-not-you-its-your-frameworks-fault-404j)
-- [LLMZ25-6 Review : Propuesta de Integración con LangChain para lus-laboris-py](https://dev.to/jesus_oviedoriquelme_084/llmz25-6-review-propuesta-de-integracion-con-langchain-para-lus-laboris-py-3b8b)
-- [LLMZ25-5 Review : Arquitectura RAG del Proyecto Ziweidoushu](https://dev.to/jesus_oviedoriquelme_084/llmz25-5-review-arquitectura-rag-del-proyecto-ziweidoushu-5cck)
+- [🏡 Why I Built My Own Homelab to Run Kubernetes](https://dev.to/hkhelil/why-i-built-my-own-homelab-to-run-kubernetes-ke9)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-16ha)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-3baa)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mba)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-2h6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
