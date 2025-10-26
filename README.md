@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-16ic)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-311)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-226)
-- [BINFLOW ML Cloud Synergy Flow — Ava &lpar;GCP&rpar; Noah &lpar;AWS&rpar; Sage &lpar;Observer&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/binflow-ml-cloud-synergy-flow-ava-gcp-x-noah-aws-x-sage-observer-2455)
-- [The Assessor&#39;s Gambit: A Deep Dive into White, Gray, and Black Box Penetration Testing](https://dev.to/gagreatprogrammer/the-assessors-gambit-a-deep-dive-into-white-gray-and-black-box-penetration-testing-100n)
+- [We Just Launched Our Chrome Extension – And It&#39;s Completely Free! 🎉](https://dev.to/wordcounterplusapp/we-just-launched-our-chrome-extension-and-its-completely-free-4f06)
+- [Security Considerations for Multi-Cluster Cloud Architecture &lpar;HA EKS with Databases&rpar;](https://dev.to/aws-builders/security-considerations-for-multi-cluster-cloud-architecture-ha-eks-with-databases-1edp)
+- [Phantom.Coin – an absolutely deterministic, rule-based L1 &lpar;DAG + aBFT, eUTXO&rpar;. First building block of an open ecosystem.](https://dev.to/hakan_onder/phantomcoin-an-absolutely-deterministic-rule-based-l1-dag-abft-eutxo-first-building-block-1id5)
+- [Looking for a Startup-Oriented Teammate for Microsoft Imagine Cup 2026](https://dev.to/mlwithharsh/looking-for-a-startup-oriented-teammate-for-microsoft-imagine-cup-2026-1b9k)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
