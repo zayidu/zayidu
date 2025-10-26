@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Auralink: Where Sound Learns to Breathe](https://dev.to/p_thabiwa_0ca34c2f83/auralink-where-sound-learns-to-breathe-4jlc)
-- [🔥 JavaScript Interview Series&lpar;11&rpar;: Deep vs Shallow Copy — Hidden Traps &amp; Best Practices](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-deep-vs-shallow-copy-hidden-traps-best-practices-4gck)
-- [UnityMind: The Bridge Between Brain and Cloud](https://dev.to/p_thabiwa_0ca34c2f83/unitymind-the-bridge-between-brain-and-cloud-2d5f)
-- [MemoryLoom: Reconstructing the Past in Real-Time](https://dev.to/p_thabiwa_0ca34c2f83/memoryloom-reconstructing-the-past-in-real-time-5c72)
-- [BioFlow: The Human Body as Data Stream](https://dev.to/p_thabiwa_0ca34c2f83/bioflow-the-human-body-as-data-stream-1of3)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-43ph)
+- [Sessions and cookies in Node.js](https://dev.to/lucaspereiradesouzat/sessions-and-cookies-in-nodejs-5cic)
+- [Sessões e cookies no Node.js](https://dev.to/lucaspereiradesouzat/sessoes-e-cookies-no-nodejs-2gpi)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1pbm)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-21ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
