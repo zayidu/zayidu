@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault CLI Part 1: Initialization, Authentication &amp; Plugin Management](https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl)
-- [Why I Replaced My Dev Stack With One AI Workspace](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-replaced-my-dev-stack-with-one-ai-workspace-e2f)
-- [Pandas Task:](https://dev.to/ashok_kumar_564581944e3ef/pandas-task-14h)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-209)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ed9)
+- [Quark’s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-classes-kk9)
+- [Paywall Optimization: How Better Design Drives Higher Subscription Conversion](https://dev.to/paywallpro/paywall-optimization-how-better-design-drives-higher-subscription-conversion-4moo)
+- [Assistant0 - Secure AI Personal Assistant](https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11)
+- [What The Pack - AI Mission Control for D2C Logistics](https://dev.to/rokimiftah/what-the-pack-ai-mission-control-for-d2c-logistics-13a6)
+- [🤖Custom Embeddable Secure Agentic Chatbot for SaaS Applications](https://dev.to/sarahokolo/custom-embeddable-secure-agentic-chatbot-for-saas-applications-2hga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
