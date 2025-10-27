@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Hallucinations in 2025: Causes, Impact, and Solutions for Trustworthy AI](https://dev.to/navyashipsit/ai-hallucinations-in-2025-causes-impact-and-solutions-for-trustworthy-ai-4mga)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-21gp)
-- [Problem-Solving in Software Engineering](https://dev.to/epklein/problem-solving-in-software-engineering-3il9)
-- [Just a mom](https://dev.to/karrie_bundyhahn_1c06b/just-a-mom-178d)
-- [Manga Studio x MindFly — End-to-End Simulation](https://dev.to/p_thabiwa_0ca34c2f83/manga-studio-x-mindfly-end-to-end-simulation-33j9)
+- [Slot](https://dev.to/rk_hacker_7bcabab8c4349c4/slot-29m1)
+- [When Cron Jobs Fail in Cloud: How I Solved It in Azure App Service](https://dev.to/techwithhari/when-cron-jobs-fail-in-cloud-how-i-solved-it-in-azure-app-service-5873)
+- [🧾 Building “Listo” — My Grocery List App &lpar;Work in Progress&rpar;](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
+- [Listing methods for HarmonyOS Apps](https://dev.to/harmonyos/listing-methods-for-harmonyos-apps-1hk)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4kea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
