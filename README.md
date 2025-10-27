@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Module Three Part Two: Loops](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-two-loops-klk)
-- [Swift SDK for Android is Here: Build Native Android Apps with Swift](https://dev.to/arshtechpro/swift-sdk-for-android-is-here-build-native-android-apps-with-swift-1372)
-- [The Dangers of Dynamic Method Calls in PHP](https://dev.to/ashallendesign/the-dangers-of-dynamic-method-calls-in-php-5amn)
-- [Front End Meta Course](https://dev.to/hughbenmoore/front-end-meta-course-4d1p)
-- [Les développeurs au cœur de la révolution blockchain : du code à la confiance](https://dev.to/nicomiayo/les-developpeurs-au-coeur-de-la-revolution-blockchain-du-code-a-la-confiance-alm)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3c72)
+- [🎯 Day 54 of My Data Analytics Journey](https://dev.to/ramyacse/day-54-of-my-data-analytics-journey-7dp)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_083ff294/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-4n75)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4eea)
+- [The First Step Toward a Real Problem Worth Solving](https://dev.to/yashpandav/the-first-step-toward-a-real-problem-worth-solving-5f3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
