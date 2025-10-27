@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned After 8 Days of Living Inside a Digital Twin](https://dev.to/vishwa_anuj_ec6acd59f8670/what-i-learned-after-8-days-of-living-inside-a-digital-twin-16b8)
-- [Nano Banana vs. Seedream 4.0: The Full-Stack Showdown – Which AI Image API Wins for Your Next SaaS Application?](https://dev.to/prashant_sharma_2558e2093/nano-banana-vs-seedream-40-the-full-stack-showdown-which-ai-image-api-wins-for-your-next-saas-k30)
-- [Build Tasks for Network Devices Faster with Code Assistance and Puppet Edge](https://dev.to/puppet/build-tasks-for-network-devices-faster-with-code-assistance-and-puppet-edge-2e8e)
-- [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
-- [MongoDB aggregation Pipelines simplified](https://dev.to/keshav___dev/mongodb-aggregation-pipelines-simplified-53mp)
+- [Unifying Enterprise Knowledge Search with MindsDB](https://dev.to/prasanna_fdb846e8c3a99074/unifying-enterprise-knowledge-search-with-mindsdb-2cho)
+- [🧠 The Death of Manual Email Campaigns: Automating Newsletters with AI](https://dev.to/surajai/the-death-of-manual-email-campaigns-automating-newsletters-with-ai-n74)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-44di)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8ca)
+- [When to Use OpenAI + Tools vs a Workflow Runtime](https://dev.to/js402/when-to-use-openai-tools-vs-a-workflow-runtime-1n6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
