@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔁 Logic App Resubmission Behaviour Explained with clientTrackingId and sourceHistoryName](https://dev.to/imdj/logic-app-resubmission-behaviour-explained-with-clienttrackingid-and-sourcehistoryname-22m5)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-535f)
-- [Sprint Workflow: A Beginner&#39;s Guide to Agile Development](https://dev.to/michaellarocca/sprint-workflow-a-beginners-guide-to-agile-development-22pi)
-- [Top AI 7 Agent Supervision Platforms in 2025](https://dev.to/aryankargwal/top-ai-7-agent-supervision-platforms-in-2025-2767)
-- [Swagger: Resumindo minha visão](https://dev.to/oigorrudel/swagger-resumindo-minha-visao-4o1d)
+- [Part 1: Training a Neural Network to Detect Coffee First Crack from Audio - An Agentic Development Journey with Warp](https://dev.to/syamaner/part-1-training-a-neural-network-to-detect-coffee-first-crack-from-audio-an-agentic-development-1jei)
+- [GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](https://dev.to/paperium/gyroswin-5d-surrogates-for-gyrokinetic-plasma-turbulence-simulations-27i8)
+- [Async Programming in C#](https://dev.to/eli77rhm/async-programming-in-c-13jg)
+- [I created a website to learn Morse code in a simple way. I hope its helpful](https://dev.to/palmaner_7d9672e05163ac85/i-created-a-website-to-learn-morse-code-in-a-simple-way-i-hope-its-helpful-7hb)
+- [Proper Key Derivation and Cryptographic Session Setup: Best Practices for Secure Communication](https://dev.to/securebitchat/proper-key-derivation-and-cryptographic-session-setup-best-practices-for-secure-communication-he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
