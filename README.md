@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [S3](https://dev.to/jumptotech/s3-1mp7)
+- [My favourite Web API - Webgl](https://dev.to/justin_mayhew_eb3e90b50bc/my-favourite-web-api-webgl-519c)
+- [2WHAV: The Executable Prompting Framework Built on LLM-First Principles](https://dev.to/francesco_marconi_282058b/2whav-the-executable-prompting-framework-built-on-llm-first-principles-3760)
+- [Code Analysis - Repomix](https://dev.to/elsad_humbetli_0971c995ce/code-analysis-repomix-3pbg)
 - [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fji)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-pkd)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4o65)
-- [Instalación de Brave en Parrot/Kali/Linux](https://dev.to/mister_keto/instalacion-de-brave-en-parrotlinux-4kkn)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-1l1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
