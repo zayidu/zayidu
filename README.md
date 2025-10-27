@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Fatigue:](https://dev.to/cheetah100/full-stack-fatigue-22de)
-- [SERP AI Agent Search with Thordata + OpenAI GPT-4.1-mini in n8n](https://dev.to/ranjancse/serp-ai-agent-search-with-thordata-openai-gpt-41-mini-in-n8n-3lh7)
-- [How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p)
-- [Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3)
-- [PROJECT TITLE: BlueFlow — MindsEye Device Automation Protocol &lpar;MDAP&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/project-title-blueflow-mindseye-device-automation-protocol-mdap-1dom)
+- [AI Hallucinations in 2025: Causes, Impact, and Solutions for Trustworthy AI](https://dev.to/navyashipsit/ai-hallucinations-in-2025-causes-impact-and-solutions-for-trustworthy-ai-4mga)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-21gp)
+- [Problem-Solving in Software Engineering](https://dev.to/epklein/problem-solving-in-software-engineering-3il9)
+- [Just a mom](https://dev.to/karrie_bundyhahn_1c06b/just-a-mom-178d)
+- [Manga Studio x MindFly — End-to-End Simulation](https://dev.to/p_thabiwa_0ca34c2f83/manga-studio-x-mindfly-end-to-end-simulation-33j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
