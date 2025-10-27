@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Developer Revenue: The Dual-Earning Path for AI and LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-path-for-ai-and-llm-apps-1nnf)
-- [Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs](https://dev.to/paperium/learning-to-route-llms-from-bandit-feedback-one-policy-many-trade-offs-266d)
-- [From Binary to Brilliance: How Compilers Learned to Write Compilers a.k.a Bootstrapping](https://dev.to/biswasprasana001/from-binary-to-brilliance-how-compilers-learned-to-write-compilers-aka-bootstrapping-3ef3)
-- [Day 26 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-26-of-100-days-dsa-coding-challenge-3lp4)
-- [How my day went](https://dev.to/devmarsh/how-my-day-went-1poh)
+- [Introduction to Python Module Three Part Two: Loops](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-two-loops-klk)
+- [Swift SDK for Android is Here: Build Native Android Apps with Swift](https://dev.to/arshtechpro/swift-sdk-for-android-is-here-build-native-android-apps-with-swift-1372)
+- [The Dangers of Dynamic Method Calls in PHP](https://dev.to/ashallendesign/the-dangers-of-dynamic-method-calls-in-php-5amn)
+- [Front End Meta Course](https://dev.to/hughbenmoore/front-end-meta-course-4d1p)
+- [Les développeurs au cœur de la révolution blockchain : du code à la confiance](https://dev.to/nicomiayo/les-developpeurs-au-coeur-de-la-revolution-blockchain-du-code-a-la-confiance-alm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
