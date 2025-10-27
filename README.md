@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
-- [Aliasing and Cloning can be carried out with list](https://dev.to/onaolapo11/aliasing-and-cloning-can-be-carried-out-with-list-43ad)
-- [Top 5 Privacy-Focused Alternatives to Facebook](https://dev.to/destinytch001/top-5-privacy-focused-alternatives-to-facebook-mpl)
-- [Mastering Lock-Free Data Structures in Go: Ring Buffers, Queues, and Performance Optimization](https://dev.to/aaravjoshi/mastering-lock-free-data-structures-in-go-ring-buffers-queues-and-performance-optimization-2f2d)
-- [Ship Small, Learn Big—Staged Rollouts Strengthen Your Product](https://dev.to/tom-takeru/ship-small-learn-big-staged-rollouts-strengthen-your-product-4ip9)
+- [Full Stack Fatigue:](https://dev.to/cheetah100/full-stack-fatigue-22de)
+- [SERP AI Agent Search with Thordata + OpenAI GPT-4.1-mini in n8n](https://dev.to/ranjancse/serp-ai-agent-search-with-thordata-openai-gpt-41-mini-in-n8n-3lh7)
+- [How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p)
+- [Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3)
+- [PROJECT TITLE: BlueFlow — MindsEye Device Automation Protocol &lpar;MDAP&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/project-title-blueflow-mindseye-device-automation-protocol-mdap-1dom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
