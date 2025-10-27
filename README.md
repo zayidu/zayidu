@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
-- [⚛️ Master React, The Pure Way](https://dev.to/ml318097/master-react-the-pure-way-49l7)
-- [Serverless vs. Containers: Picking the Right Tech for Your 2025 Project](https://dev.to/karthik_n/serverless-vs-containers-picking-the-right-tech-for-your-2025-project-1mdn)
-- [How to Use ClamAV and Malware Scanners on Your Server](https://dev.to/serveravatar/how-to-use-clamav-and-malware-scanners-on-your-server-28hg)
-- [Understanding the Basics of Web Application Architecture](https://dev.to/momen_hq/understanding-the-basics-of-web-application-architecture-9ma)
+- [Using Cursor with apps built with Lovable, and hosting without Lovable Cloud](https://dev.to/diploi/using-cursor-with-apps-built-with-lovable-and-hosting-without-lovable-cloud-1m43)
+- [Why Your Claude Skills Deserve Better: Escape the Sandbox with MCP Skill Hub](https://dev.to/sualeh/why-your-claude-skills-deserve-better-escape-the-sandbox-with-mcp-skill-hub-ffh)
+- [They grow up so fast: donating your open source project to a foundation &lpar;or: the CloudNativePG story&rpar;](https://dev.to/floord/they-grow-up-so-fast-donating-your-open-source-project-to-a-foundation-or-the-cloudnativepg-1999)
+- [Can AI hype Drive Real Policy Change?](https://dev.to/jay_all_day/can-ai-hype-drive-real-policy-change-27pi)
+- [How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
