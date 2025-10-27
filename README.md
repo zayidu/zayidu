@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🖥️ Which OS Is Better for Web Development and Why?](https://dev.to/hamidrazadev/which-os-is-better-for-web-development-and-why-50oc)
-- [How to Optimize Mobile Apps for Performance and Battery Life](https://dev.to/lacey_glenn_e95da24922778/how-to-optimize-mobile-apps-for-performance-and-battery-life-14hk)
-- [React Suspense - Me too I can throw Promises if I want...](https://dev.to/isaaacdotdev/react-suspense-me-too-i-can-throw-promises-if-i-want-p1h)
-- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
-- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
+- [Unlocking Developer Revenue: The Dual-Earning Path for AI and LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-path-for-ai-and-llm-apps-1nnf)
+- [Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs](https://dev.to/paperium/learning-to-route-llms-from-bandit-feedback-one-policy-many-trade-offs-266d)
+- [From Binary to Brilliance: How Compilers Learned to Write Compilers a.k.a Bootstrapping](https://dev.to/biswasprasana001/from-binary-to-brilliance-how-compilers-learned-to-write-compilers-aka-bootstrapping-3ef3)
+- [Day 26 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-26-of-100-days-dsa-coding-challenge-3lp4)
+- [How my day went](https://dev.to/devmarsh/how-my-day-went-1poh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
