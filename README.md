@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unifying Enterprise Knowledge Search with MindsDB](https://dev.to/prasanna_fdb846e8c3a99074/unifying-enterprise-knowledge-search-with-mindsdb-2cho)
-- [🧠 The Death of Manual Email Campaigns: Automating Newsletters with AI](https://dev.to/surajai/the-death-of-manual-email-campaigns-automating-newsletters-with-ai-n74)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-44di)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8ca)
-- [When to Use OpenAI + Tools vs a Workflow Runtime](https://dev.to/js402/when-to-use-openai-tools-vs-a-workflow-runtime-1n6f)
+- [Claude.ai Has Built-In Superpowers &lpar;And You Probably Didn&#39;t Know&rpar;](https://dev.to/nunc/claudeai-has-built-in-superpowers-and-you-probably-didnt-know-1haa)
+- [Claude Code Skills vs Subagents - When to Use What?](https://dev.to/nunc/claude-code-skills-vs-subagents-when-to-use-what-4d12)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_ece4a271/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-m57)
+- [Why Business Literacy Matters for DevRel &lpar;And Why You Can&#39;t Skip This Step&rpar;](https://dev.to/mattstratton/why-business-literacy-matters-for-devrel-and-why-you-cant-skip-this-step-30p1)
+- [Maintaining Arch Linux AUR Packages: Update for python-zfec](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-update-for-python-zfec-2kko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
