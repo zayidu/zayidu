@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing react-state-custom: A Hook-First State Management Library](https://dev.to/vothanhdat/introducing-react-state-custom-a-hook-first-state-management-library-13g8)
-- [Seamless Data Transformation: Converting CSV to Excel and Excel to CSV in Java](https://dev.to/lu_liu_e3fc806354d9a952b7/seamless-data-transformation-converting-csv-to-excel-and-excel-to-csv-in-java-2e85)
-- [#java](https://dev.to/saraswathi_p_d12f8b88b244/java-3pop)
-- [When async design meets rhythm-driven feedback](https://dev.to/koni_jang/when-async-design-meets-rhythm-driven-feedback-4ihc)
-- [How to Set Paragraph Spacing Before and After in C#](https://dev.to/yahey/how-to-set-paragraph-spacing-before-and-after-in-c-5g5g)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-2bcl)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-lc2)
+- [React 19.2’s &lt;Activity /&gt;: Because ‘display: none’ Shouldn’t Mean ‘Memory Loss’](https://dev.to/i_abhiseka/react-192s-because-display-none-shouldnt-mean-memory-loss-12o)
+- [🔐 Cyber Awareness Month Special: Why Security is Everyone’s Responsibility! Beyond Roles and Job Titles...](https://dev.to/amit_ambekar_c022e6732f8d/cyber-awareness-month-special-why-security-is-everyones-responsibility-beyond-roles-and-job-1ic4)
+- [Unlocking the Power of Soft Skills: Mastering Communication in the Digital Age](https://dev.to/vjnvisakh/unlocking-the-power-of-soft-skills-mastering-communication-in-the-digital-age-88c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
