@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude.ai Has Built-In Superpowers &lpar;And You Probably Didn&#39;t Know&rpar;](https://dev.to/nunc/claudeai-has-built-in-superpowers-and-you-probably-didnt-know-1haa)
-- [Claude Code Skills vs Subagents - When to Use What?](https://dev.to/nunc/claude-code-skills-vs-subagents-when-to-use-what-4d12)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_ece4a271/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-m57)
-- [Why Business Literacy Matters for DevRel &lpar;And Why You Can&#39;t Skip This Step&rpar;](https://dev.to/mattstratton/why-business-literacy-matters-for-devrel-and-why-you-cant-skip-this-step-30p1)
-- [Maintaining Arch Linux AUR Packages: Update for python-zfec](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-update-for-python-zfec-2kko)
+- [🔁 Logic App Resubmission Behaviour Explained with clientTrackingId and sourceHistoryName](https://dev.to/imdj/logic-app-resubmission-behaviour-explained-with-clienttrackingid-and-sourcehistoryname-22m5)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-535f)
+- [Sprint Workflow: A Beginner&#39;s Guide to Agile Development](https://dev.to/michaellarocca/sprint-workflow-a-beginners-guide-to-agile-development-22pi)
+- [Top AI 7 Agent Supervision Platforms in 2025](https://dev.to/aryankargwal/top-ai-7-agent-supervision-platforms-in-2025-2767)
+- [Swagger: Resumindo minha visão](https://dev.to/oigorrudel/swagger-resumindo-minha-visao-4o1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
