@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Learned in My First Week of TypeScript](https://dev.to/mashayeakh_islam_2666f2c3/5-things-i-learned-in-my-first-week-of-typescript-51md)
-- [Teaching OWASP Top 10 Through Frankenstein: When Creation Without Control Becomes Security Failure](https://dev.to/narnaiezzsshaa_truong/teaching-owasp-top-10-through-frankenstein-when-creation-without-control-becomes-security-failure-15no)
-- [🧠 AI Breakthroughs Reshaping 2025: What’s New This Week in Artificial Intelligence](https://dev.to/pratik_12b3f8bf3b50e48bae/ai-breakthroughs-reshaping-2025-whats-new-this-week-in-artificial-intelligence-3mpn)
-- [Effortless Vue.js Deployment with Firebase Hosting and GitHub Actions &lpar;No firebase-tools&rpar;](https://dev.to/udara_dananjaya/effortless-vuejs-deployment-with-firebase-hosting-and-github-actions-no-firebase-tools-4b7a)
-- [How to deploy my vscode to my servers](https://dev.to/yalem_brhane_33ef226af44b/how-to-deploy-my-vscode-to-my-servers-dja)
+- [Hashicorp Vault CLI Part 1: Initialization, Authentication &amp; Plugin Management](https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl)
+- [Why I Replaced My Dev Stack With One AI Workspace](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-replaced-my-dev-stack-with-one-ai-workspace-e2f)
+- [Pandas Task:](https://dev.to/ashok_kumar_564581944e3ef/pandas-task-14h)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-209)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ed9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
