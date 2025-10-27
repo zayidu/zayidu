@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Cursor with apps built with Lovable, and hosting without Lovable Cloud](https://dev.to/diploi/using-cursor-with-apps-built-with-lovable-and-hosting-without-lovable-cloud-1m43)
-- [Why Your Claude Skills Deserve Better: Escape the Sandbox with MCP Skill Hub](https://dev.to/sualeh/why-your-claude-skills-deserve-better-escape-the-sandbox-with-mcp-skill-hub-ffh)
-- [They grow up so fast: donating your open source project to a foundation &lpar;or: the CloudNativePG story&rpar;](https://dev.to/floord/they-grow-up-so-fast-donating-your-open-source-project-to-a-foundation-or-the-cloudnativepg-1999)
-- [Can AI hype Drive Real Policy Change?](https://dev.to/jay_all_day/can-ai-hype-drive-real-policy-change-27pi)
-- [How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)
+- [🖥️ Which OS Is Better for Web Development and Why?](https://dev.to/hamidrazadev/which-os-is-better-for-web-development-and-why-50oc)
+- [How to Optimize Mobile Apps for Performance and Battery Life](https://dev.to/lacey_glenn_e95da24922778/how-to-optimize-mobile-apps-for-performance-and-battery-life-14hk)
+- [React Suspense - Me too I can throw Promises if I want...](https://dev.to/isaaacdotdev/react-suspense-me-too-i-can-throw-promises-if-i-want-p1h)
+- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
+- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
