@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark’s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-classes-kk9)
-- [Paywall Optimization: How Better Design Drives Higher Subscription Conversion](https://dev.to/paywallpro/paywall-optimization-how-better-design-drives-higher-subscription-conversion-4moo)
-- [Assistant0 - Secure AI Personal Assistant](https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11)
-- [What The Pack - AI Mission Control for D2C Logistics](https://dev.to/rokimiftah/what-the-pack-ai-mission-control-for-d2c-logistics-13a6)
-- [🤖Custom Embeddable Secure Agentic Chatbot for SaaS Applications](https://dev.to/sarahokolo/custom-embeddable-secure-agentic-chatbot-for-saas-applications-2hga)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3cm7)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-hnh)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-f47)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-5aj5)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5f0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
