@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Society need tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/society-need-tecnology-5gp5)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1i4e)
-- [Web Developer Travis McCracken on Building a Private API with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-private-api-with-rust-j0o)
-- [What are the most common development and security pitfalls when launching a centralized exchange and how to avoid them?](https://dev.to/zara_fernandes_b02180aa0b/what-are-the-most-common-development-and-security-pitfalls-when-launching-a-centralized-exchange-1e5k)
-- [Usando o Oh My Zsh!](https://dev.to/kbdemiranda/usando-o-oh-my-zsh-489l)
+- [Artbitrator Launches!](https://dev.to/adzhydra/artbitrator-launches-2lk7)
+- [Why Your Product Team ‘Knows What to Do’ But Still Fails to Deliver &lpar;The ChatGPT Outage Lesson&rpar;](https://dev.to/yaseen_tech/why-your-product-team-knows-what-to-do-but-still-fails-to-deliver-the-chatgpt-outage-lesson-1eha)
+- [FlashVSR: Real-Time Video Super-Resolution Made Simple](https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-3h9l)
+- [What kind of ORM engine does a low-code platform need? &lpar;2&rpar;](https://dev.to/canonical/what-kind-of-orm-engine-does-a-low-code-platform-need-2-mfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
