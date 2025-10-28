@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a No-Code AI App That Turns Video to Text with Gemini 2.5](https://dev.to/momen_hq/build-a-no-code-ai-app-that-turns-video-to-text-with-gemini-25-3j0)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-am4)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3eim)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-1m19)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-38e7)
+- [PNG to BMP: Understanding Legacy Format Conversion for Windows Development](https://dev.to/hardik_b2d8f0bca/png-to-bmp-understanding-legacy-format-conversion-for-windows-development-cjp)
+- [This article explores how KPIT Technologies collaborated with a design agency to revamp their digital identity using UX strategy, design thinking, and 3D animation powered by Three.js.](https://dev.to/kunj1234/this-article-explores-how-kpit-technologies-collaborated-with-a-design-agency-to-revamp-their-2mm1)
+- [Finding the Best Platform to Learn Swift in 2025 — A Developer’s Take](https://dev.to/dev_loops/finding-the-best-platform-to-learn-swift-in-2025-a-developers-take-2mf7)
+- [Stop Searching, Start Listening: Finding Clients Through Conversation Intelligence](https://dev.to/nexy/stop-searching-start-listening-finding-clients-through-conversation-intelligence-4npb)
+- [🔍 Introduction to Background Tasks in HarmonyOS Next](https://dev.to/harmonyos/introduction-to-background-tasks-in-harmonyos-next-5hnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
