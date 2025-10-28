@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Bluesky for AI Agents — AT Protocol Bot](https://dev.to/p3ngu1nzz/automating-bluesky-for-ai-agents-at-protocol-bot-44k1)
-- [Field Mapping vs. Canonical Data Model — Which One Wins in Integrations?](https://dev.to/asiryi/field-mapping-vs-canonical-data-model-which-one-wins-in-integrations-2oj0)
-- [Why We Moved API Authentication from the Gateway to Our Microservices](https://dev.to/tchekda/why-we-moved-api-authentication-from-the-gateway-to-our-microservices-d4n)
-- [FastiQuran: Ketika Kesederhanaan Bertemu Tujuan](https://dev.to/cas8398/fastiquran-ketika-kesederhanaan-bertemu-tujuan-292)
-- [FastiQuran: When Simplicity Meets Purpose](https://dev.to/cas8398/fastiquran-when-simplicity-meets-purpose-188c)
+- [🧩 Building a Complete Learning Path for Generative AI Engineers — From Python to AI Agents](https://dev.to/jaime_lucenaprez_3f7722/building-a-complete-learning-path-for-generative-ai-engineers-from-python-to-ai-agents-4i79)
+- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
+- [Leanding page](https://dev.to/ari_wardanilubis_09c6801/leanding-page-fpo)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4onl)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-i56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
