@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4pli)
-- [Stop writing authorization code for your FHIR-based app](https://dev.to/health_samurai/stop-writing-authorization-code-for-your-fhir-based-app-3flo)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-6ca)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4i72)
-- [Building an Enterprise DAL: Automated Auditing for Data Integrity](https://dev.to/gigaherz/building-an-enterprise-dal-automated-auditing-for-data-integrity-1oj9)
+- [Automating Bluesky for AI Agents — AT Protocol Bot](https://dev.to/p3ngu1nzz/automating-bluesky-for-ai-agents-at-protocol-bot-44k1)
+- [Field Mapping vs. Canonical Data Model — Which One Wins in Integrations?](https://dev.to/asiryi/field-mapping-vs-canonical-data-model-which-one-wins-in-integrations-2oj0)
+- [Why We Moved API Authentication from the Gateway to Our Microservices](https://dev.to/tchekda/why-we-moved-api-authentication-from-the-gateway-to-our-microservices-d4n)
+- [FastiQuran: Ketika Kesederhanaan Bertemu Tujuan](https://dev.to/cas8398/fastiquran-ketika-kesederhanaan-bertemu-tujuan-292)
+- [FastiQuran: When Simplicity Meets Purpose](https://dev.to/cas8398/fastiquran-when-simplicity-meets-purpose-188c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
