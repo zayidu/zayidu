@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone&#39;s welcome on the journey 🔥
-This product will be unique, bouncing between high performance, high quality, and output!](https://dev.to/yorchperaza/everyones-welcome-on-the-journey-this-product-will-be-unique-bouncing-between-high-3o65)
-- [# 🌌 Núcleo da Imaginação: Quando o Código Vira Poesia](https://dev.to/juan_carlos_5865da63bdd8a/-nucleo-da-imaginacao-quando-o-codigo-vira-poesia-1n70)
-- [Large Scale Diffusion Distillation via Score-Regularized Continuous-TimeConsistency](https://dev.to/paperium/large-scale-diffusion-distillation-via-score-regularized-continuous-timeconsistency-375i)
-- [🏢 Enterprise Design Patterns: Building Scalable Systems with Fowler’s Patterns in Go](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-building-scalable-systems-with-fowlers-patterns-in-go-2ckk)
-- [⚡ Stop Explaining Your Project to AI — Let It Learn with Vibe Kit](https://dev.to/nolrm/stop-explaining-your-project-to-ai-let-it-learn-with-vibe-kit-40fh)
+- [The Sun Wukong Framework: Encoding Escalation, Evasion, and Strategic Containment in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-sun-wukong-framework-encoding-escalation-evasion-and-strategic-containment-in-cybersecurity-9do)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-m7l)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
+- [Unlocking User Value in SaaS by Triggering the Aha Moment](https://dev.to/lollypopdesign/unlocking-user-value-in-saas-by-triggering-the-aha-moment-42ee)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-4f5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
