@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Added a Chat Interface to My LLM Training Tool &lpar;And You Can Try It Now&rpar;](https://dev.to/theaniketgiri/i-added-a-chat-interface-to-my-llm-training-tool-and-you-can-try-it-now-1kck)
-- [💡 Productivity and Security Tips for Developers](https://dev.to/beeinbox/productivity-and-security-tips-for-developers-2hjb)
-- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
-- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
-- [Putting It All Together: Speaking Business as a DevRel Professional](https://dev.to/mattstratton/putting-it-all-together-speaking-business-as-a-devrel-professional-2kfj)
+- [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
+- [API Development: Building the Foundation of Modern Software in 2025](https://dev.to/hamd_writer_8c77d9c88c188/api-development-building-the-foundation-of-modern-software-in-2025-hkp)
+- [StatDeck](https://dev.to/splotdev/statdeck-5021)
+- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
+- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
