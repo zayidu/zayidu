@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sun Wukong Framework: Encoding Escalation, Evasion, and Strategic Containment in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-sun-wukong-framework-encoding-escalation-evasion-and-strategic-containment-in-cybersecurity-9do)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-m7l)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
-- [Unlocking User Value in SaaS by Triggering the Aha Moment](https://dev.to/lollypopdesign/unlocking-user-value-in-saas-by-triggering-the-aha-moment-42ee)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-4f5b)
+- [OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modelingand LLM Alignment](https://dev.to/paperium/openrubrics-towards-scalable-synthetic-rubric-generation-for-reward-modelingand-llm-alignment-4nkf)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-542o)
+- [The Package Architecture: Building Importable Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-package-architecture-building-importable-code-263)
+- [I Tried This New AI Art Generator… The Results Left Me Speechless!](https://dev.to/mrpraise/i-tried-this-new-ai-art-generator-the-results-left-me-speechless-4in5)
+- [Hoe Hassan Lammou Talent Omzet In Echte Game-Intelligentie](https://dev.to/hassanlammou/hoe-hassan-lammou-talent-omzet-in-echte-game-intelligentie-47bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
