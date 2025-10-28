@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚦 Can You Trust an LLM to Manage Traffic on a Monday Morning?](https://dev.to/pracode_2503/can-you-trust-an-llm-to-manage-traffic-on-a-monday-morning-65d)
-- [What are Chunks?](https://dev.to/e77/what-are-chunks-19o0)
-- [How Difficult Is Makalu Base Camp Trek 2026](https://dev.to/chithru_lal_430b4d140d224/how-difficult-is-makalu-base-camp-trek-2026-f2o)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hbo)
-- [Turn your GeoJSON data into interactive maps — visualize Points, Routes, and Isolines in Leaflet with Geoapify.](https://dev.to/geoapify/turn-your-geojson-data-into-interactive-maps-visualize-points-routes-and-isolines-in-leaflet-5dmc)
+- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
+- [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
+- [The Digital Detox Trend: What Developers Can Learn from Slowing Down Through Tarcutta Tourist Activities](https://dev.to/amelia_brown04/the-digital-detox-trend-what-developers-can-learn-from-slowing-down-through-tarcutta-tourist-259k)
+- [Step-by-Step Guide to Configure OneLogin for SSO in BoldSign](https://dev.to/boldsign/step-by-step-guide-to-configure-onelogin-for-sso-in-boldsign-e62)
+- [Is Your CI/CD Pipeline a Security Risk? &lpar;And How to Fix It!&rpar;](https://dev.to/karthik_n/is-your-cicd-pipeline-a-security-risk-and-how-to-fix-it-57in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
