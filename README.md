@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Wave: Breakthrough AI Model Launched in 2025 - ChatGPT Atlas and Beyond](https://dev.to/shubham_joshi_expert/the-next-wave-breakthrough-ai-model-launched-in-2025-chatgpt-atlas-and-beyond-40ee)
-- [Designing Deployable Voice-AI Playbooks &lpar;p95 &lt; 300 ms, preflight blue/green&rpar;](https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh)
-- [Automating the Employee Journey: A Guide to Managing the Hire-to-Retire Lifecycle with Power Automate](https://dev.to/shubhojeet2001/automating-the-employee-journey-a-guide-to-managing-the-hire-to-retire-lifecycle-with-power-1iml)
-- [New AI Agent Example](https://dev.to/necatiozmen/new-ai-agent-example-f8i)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-44la)
+- [🚦 Can You Trust an LLM to Manage Traffic on a Monday Morning?](https://dev.to/pracode_2503/can-you-trust-an-llm-to-manage-traffic-on-a-monday-morning-65d)
+- [What are Chunks?](https://dev.to/e77/what-are-chunks-19o0)
+- [How Difficult Is Makalu Base Camp Trek 2026](https://dev.to/chithru_lal_430b4d140d224/how-difficult-is-makalu-base-camp-trek-2026-f2o)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hbo)
+- [Turn your GeoJSON data into interactive maps — visualize Points, Routes, and Isolines in Leaflet with Geoapify.](https://dev.to/geoapify/turn-your-geojson-data-into-interactive-maps-visualize-points-routes-and-isolines-in-leaflet-5dmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
