@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modelingand LLM Alignment](https://dev.to/paperium/openrubrics-towards-scalable-synthetic-rubric-generation-for-reward-modelingand-llm-alignment-4nkf)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-542o)
-- [The Package Architecture: Building Importable Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-package-architecture-building-importable-code-263)
-- [I Tried This New AI Art Generator… The Results Left Me Speechless!](https://dev.to/mrpraise/i-tried-this-new-ai-art-generator-the-results-left-me-speechless-4in5)
-- [Hoe Hassan Lammou Talent Omzet In Echte Game-Intelligentie](https://dev.to/hassanlammou/hoe-hassan-lammou-talent-omzet-in-echte-game-intelligentie-47bj)
+- [Build a No-Code AI App That Turns Video to Text with Gemini 2.5](https://dev.to/momen_hq/build-a-no-code-ai-app-that-turns-video-to-text-with-gemini-25-3j0)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-am4)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3eim)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-1m19)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-38e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
