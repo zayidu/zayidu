@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Begin a Speech Confidently: Expert Techniques for 2025](https://dev.to/chakshu_gupta_07/how-to-begin-a-speech-confidently-expert-techniques-for-2025-239a)
-- [SPF Permerror Solutions: Ensure Your Emails Are Delivered Safely](https://dev.to/inspireme_labs_e6af6b7b69/spf-permerror-solutions-ensure-your-emails-are-delivered-safely-47k2)
-- [Day 17: Converting Numeric Grades to Letters with Robustness and Clarity](https://dev.to/shahrouzlogs/day-17-converting-numeric-grades-to-letters-with-robustness-and-clarity-eal)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-3jnm)
-- [Puppeteer C# vs IronPDF: Best PDF Library for .NET Developers &lpar;With Code Examples&rpar;](https://dev.to/mohammedibrahimlj/puppeteer-c-vs-ironpdf-best-pdf-library-for-net-developers-with-code-examples-4m8e)
+- [The Next Wave: Breakthrough AI Model Launched in 2025 - ChatGPT Atlas and Beyond](https://dev.to/shubham_joshi_expert/the-next-wave-breakthrough-ai-model-launched-in-2025-chatgpt-atlas-and-beyond-40ee)
+- [Designing Deployable Voice-AI Playbooks &lpar;p95 &lt; 300 ms, preflight blue/green&rpar;](https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh)
+- [Automating the Employee Journey: A Guide to Managing the Hire-to-Retire Lifecycle with Power Automate](https://dev.to/shubhojeet2001/automating-the-employee-journey-a-guide-to-managing-the-hire-to-retire-lifecycle-with-power-1iml)
+- [New AI Agent Example](https://dev.to/necatiozmen/new-ai-agent-example-f8i)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-44la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
