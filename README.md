@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
-- [API Development: Building the Foundation of Modern Software in 2025](https://dev.to/hamd_writer_8c77d9c88c188/api-development-building-the-foundation-of-modern-software-in-2025-hkp)
-- [StatDeck](https://dev.to/splotdev/statdeck-5021)
-- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
-- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
+- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
+- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
+- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
+- [Beyond the Hype: Are AI Agents Just Fancy State Machines?](https://dev.to/arvind_sundararajan/beyond-the-hype-are-ai-agents-just-fancy-state-machines-4gma)
+- [Redis: The Key to Performance and Scalability in Modern Applications](https://dev.to/alexnicolascode/redis-the-key-to-performance-and-scalability-in-modern-applications-1h25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
