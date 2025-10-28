@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable AWS Multi-Account Environment with Control Tower, Terraform AFT, and SCP Guardrails](https://dev.to/santanu_das/building-a-scalable-aws-multi-account-environment-with-control-tower-terraform-aft-and-scp-2kf8)
-- [MCUboot: Firmware Application Image Format](https://dev.to/ripan030/mcuboot-firmware-application-image-format-3084)
-- [CloudFront and AWS global accelerator](https://dev.to/jumptotech/cloudfront-and-aws-global-accelerator-48fl)
-- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
-- [Classic solutions architecture discussions](https://dev.to/jumptotech/classic-solutions-architecture-discussions-15bb)
+- [Building Autonomous AI Agents in C#: Tips from Real-World Applications](https://dev.to/lofcz/building-autonomous-ai-agents-in-c-tips-from-real-world-applications-4f74)
+- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
+- [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
+- [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
+- [Building a Production Kubernetes Cluster for $15/Month In Four Days](https://dev.to/araldhafeeri/building-a-production-kubernetes-cluster-for-15month-in-four-days-5ehf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
