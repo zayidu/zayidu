@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Maintainer to Contributor - Building, Collaborating, and Reflecting this Hacktoberfest 🌿](https://dev.to/eccentriccoder01/from-maintainer-to-contributor-building-collaborating-and-reflecting-this-hacktoberfest-2oih)
-- [Por qué los desarrolladores que pasan a tech lead fracasan…](https://dev.to/bezael/por-que-los-desarrolladores-que-pasan-a-tech-lead-fracasan-305k)
-- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-12mo)
-- [🚫 Divs Are Not Buttons , Here’s Why &lpar;and How to Fix It&rpar;](https://dev.to/homayunmmdy/divs-are-not-buttons-heres-why-and-how-to-fix-it-48lh)
-- [[Boost]](https://dev.to/deftoexplore/-3gb)
+- [Building CloudWise: Why AWS Cost Tools Failed Startups &lpar;And How We Fixed It&rpar;](https://dev.to/cloudwiseteam/building-cloudwise-why-aws-cost-tools-failed-startups-and-how-we-fixed-it-4pmn)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-1pgn)
+- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-22e0)
+- [Harnessing the Power of Analytics to Revolutionize Your Licensing Strategy](https://dev.to/soraco_technologies_85385/harnessing-the-power-of-analytics-to-revolutionize-your-licensing-strategy-3759)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2cgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
