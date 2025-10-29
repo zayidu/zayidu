@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Autonomous AI Agents in C#: Tips from Real-World Applications](https://dev.to/lofcz/building-autonomous-ai-agents-in-c-tips-from-real-world-applications-4f74)
-- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
-- [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
-- [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
-- [Building a Production Kubernetes Cluster for $15/Month In Four Days](https://dev.to/araldhafeeri/building-a-production-kubernetes-cluster-for-15month-in-four-days-5ehf)
+- [Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-58pi)
+- [🚀 Launch Announcement — SQAToolBox is Now Live](https://dev.to/sqaesabbir/launch-announcement-sqatoolbox-is-now-live-4ib7)
+- [The Circular Import Problem: Breaking Dependency Cycles](https://dev.to/aaron_rose_0787cc8b4775a0/the-circular-import-problem-breaking-dependency-cycles-4i56)
+- [Go UDP Programming: A Beginner-Friendly Guide to Building Fast, Real-Time Apps](https://dev.to/jones_charles_ad50858dbc0/go-udp-programming-a-beginner-friendly-guide-to-building-fast-real-time-apps-4ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
