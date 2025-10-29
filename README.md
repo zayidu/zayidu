@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
-- [Code Review Best Practices: When &lpar;and When Not&rpar; to Use &quot;Request Changes&quot;](https://dev.to/garaujodev/code-review-best-practices-when-and-when-not-to-use-request-changes-p04)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5dp1)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2774)
-- [Agile Seaway: Το Scrum μέσα από τη Θάλασσα](https://dev.to/__b63657/agile-seaway-to-scrum-mesa-apo-te-thalassa-4dlo)
+- [JPlus – &lpar;Intellij Plugin Demo&rpar; Bringing Modern Language Features to Java Without Leaving Java](https://dev.to/cheol_jeon_9e29b98fdb7e1e/jplus-intellij-plugin-demo-bringing-modern-language-features-to-java-without-leaving-java-27ga)
+- [The Hidden Monopolies That Could Break the Tech World](https://dev.to/vaibhav0460/the-hidden-monopolies-that-could-break-the-tech-world-283i)
+- [What is Compiler?](https://dev.to/aj_arul/what-is-compiler-4hf8)
+- [Weekly Update #15](https://dev.to/abytebybyte/weekly-update-15-4a72)
+- [How I Generated $600k From My First 5 Clients With Content](https://dev.to/remotebranch/how-i-generated-600k-from-my-first-5-clients-with-content-223n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
