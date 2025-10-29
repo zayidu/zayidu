@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-58pi)
-- [🚀 Launch Announcement — SQAToolBox is Now Live](https://dev.to/sqaesabbir/launch-announcement-sqatoolbox-is-now-live-4ib7)
-- [The Circular Import Problem: Breaking Dependency Cycles](https://dev.to/aaron_rose_0787cc8b4775a0/the-circular-import-problem-breaking-dependency-cycles-4i56)
-- [Go UDP Programming: A Beginner-Friendly Guide to Building Fast, Real-Time Apps](https://dev.to/jones_charles_ad50858dbc0/go-udp-programming-a-beginner-friendly-guide-to-building-fast-real-time-apps-4ik)
+- [Cybercrime Trends 2025 &amp; How to Shield Your Startup...](https://dev.to/himantha_bandara/cybercrime-trends-2025-how-to-shield-your-startup-gi2)
+- [Open Compute Project’s Universal D2D Link Layer with UCIe Enables Silicon Diversity in AI Clusters](https://dev.to/alpinumblogs/open-compute-projects-universal-d2d-link-layer-with-ucie-enables-silicon-diversity-in-ai-clusters-2k6e)
+- [The Anansi Protocol: Encoding Metadata Drift and Ambient Surveillance Through West African Storytelling](https://dev.to/narnaiezzsshaa_truong/the-anansi-protocol-encoding-metadata-drift-and-ambient-surveillance-through-west-african-37p2)
+- [Why I Built lrok — A Simple, Free Tunneling Service with Custom Subdomains](https://dev.to/ethank/why-i-built-lrok-a-simple-free-tunneling-service-with-custom-subdomains-10ld)
+- [3 Easy Ways to Protect WordPress Media Files](https://dev.to/medha_bhatt_21b7dc4cc53e7/3-easy-ways-to-protect-wordpress-media-files-2daa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
