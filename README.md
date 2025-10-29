@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Resume Format That Finally Gets You Past the ATS Filter](https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco)
-- [WebAssembly 3.0 and the Infrastructure We Actually Need](https://dev.to/aronchick/webassembly-30-and-the-infrastructure-we-actually-need-3joa)
-- [WASM&#39;s &quot;Identity Crisis&quot; Is Actually Its Superpower](https://dev.to/aronchick/wasms-identity-crisis-is-actually-its-superpower-16m3)
-- [NPR Music: The Beaches: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-the-beaches-tiny-desk-concert-187)
-- [Asupixel](https://dev.to/samuel_asuse10chimela_/asupixel-4ki2)
+- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
+- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
+- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
+- [The Unreal Arbitrage: 100x Opportunity in the Age of Instant Intelligence](https://dev.to/ankk98/the-unreal-arbitrage-100x-opportunity-in-the-age-of-instant-intelligence-2bf9)
+- [How Does React&#39;s useContext Really Work?](https://dev.to/ctrix/how-does-reacts-usecontext-really-work-32gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
