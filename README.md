@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4fd1)
-- [Why DevSecOps Isn&#39;t a Role. It&#39;s a Responsibility](https://dev.to/anderson_leite/why-devsecops-isnt-a-role-its-a-responsibility-69m)
-- [🛡️ What Makes Linux Secure &lpar;and Where It&#39;s Weak - Plus How to Fix It&rpar;](https://dev.to/secbyshresth/what-makes-linux-secure-and-where-its-weak-plus-how-to-fix-it-2kpi)
-- [🪙 Day 29 of #30DaysOfSolidity — Building a Collateral-Backed Stablecoin in Solidity — Step-by-Step Guide](https://dev.to/sauravkumar8178/day-29-of-30daysofsolidity-building-a-collateral-backed-stablecoin-in-solidity-step-by-step-6dd)
-- [From Confusion to Creation: My Ongoing Journey in Tech](https://dev.to/bishopkbb/from-confusion-to-creation-my-ongoing-journey-in-tech-36h0)
+- [Save YouTube Videos Without Losing Quality](https://dev.to/gerrit_cole/save-youtube-videos-without-losing-quality-535j)
+- [Update: 485 downloads in 48 hrs - wild! Drop a comment if you&#39;re using it.](https://dev.to/bright_agyemang_d609f542f/update-485-downloads-in-48-hrs-wild-drop-a-comment-if-youre-using-it-4eah)
+- [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
+- [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
+- [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
