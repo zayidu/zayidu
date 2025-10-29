@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Evaluation Metrics: A Practical Guide for Measuring Retrieval-Augmented Generation with Maxim AI](https://dev.to/debmckinney/rag-evaluation-metrics-a-practical-guide-for-measuring-retrieval-augmented-generation-with-maxim-ai-2dkj)
-- [Healing with Heart: The Inspiring Journey of Dr. Rachna Buxani](https://dev.to/rachna_buxani_141bd2c6f1b/healing-with-heart-the-inspiring-journey-of-dr-rachna-buxani-167l)
-- [Automate React App Deployment with AWS CodePipeline &amp; S3 🚀](https://dev.to/julien_muke_af812ff28d550/automate-react-app-deployment-with-aws-codepipeline-s3-4o17)
-- [The Silent Breach: Why SaaS Security Fails Between Release](https://dev.to/jigar_online/the-silent-breach-why-saas-security-fails-between-release-163j)
-- [Is Your Business Prepared? A Deep Dive into Cyber Risk Management](https://dev.to/sagar_sajwan_a91beb41c861/is-your-business-prepared-a-deep-dive-into-cyber-risk-management-4394)
+- [How to Design a Spiral Spring Toy using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-spring-toy-using-3d-cad-software-15jo)
+- [The Odyssey of an E-Commerce Order](https://dev.to/bias/the-odyssey-of-an-e-commerce-order-o09)
+- [Web3 PR That Doesn’t Waste Anyone’s Time](https://dev.to/sonia_bobrik_1939cdddd79d/web3-pr-that-doesnt-waste-anyones-time-5be)
+- [Credibility Over Noise: How “Boring” Products Win When Everyone Else Is Shouting](https://dev.to/sonia_bobrik_1939cdddd79d/credibility-over-noise-how-boring-products-win-when-everyone-else-is-shouting-5g11)
+- [Trust-First Growth for Crypto Tech: A Developer’s Playbook](https://dev.to/sonia_bobrik_1939cdddd79d/trust-first-growth-for-crypto-tech-a-developers-playbook-5gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
