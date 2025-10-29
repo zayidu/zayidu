@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stop Your AI from Making Things Up: A Guide to Grounding LLM Responses in Data](https://dev.to/duplys/how-to-stop-your-ai-from-making-things-up-a-guide-to-grounding-llm-responses-in-data-2joc)
-- [What’s the best way to test and secure a blockchain solution before launch?](https://dev.to/zara_fernandes_b02180aa0b/whats-the-best-way-to-test-and-secure-a-blockchain-solution-before-launch-4h6g)
-- [🧠 Mastering Data Structures in Java — Part 6: HashSet](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-6-hashset-4c0c)
-- [HNG stage 2 task, we go harder](https://dev.to/ujunwa27/hng-stage-2-task-we-go-harder-3l29)
-- [Wix vs Shopify: Which is the Best Platform for Your Online Store?](https://dev.to/api_troll/wix-vs-shopify-which-is-the-best-platform-for-your-online-store-44bi)
+- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
+- [Code Review Best Practices: When &lpar;and When Not&rpar; to Use &quot;Request Changes&quot;](https://dev.to/garaujodev/code-review-best-practices-when-and-when-not-to-use-request-changes-p04)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5dp1)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2774)
+- [Agile Seaway: Το Scrum μέσα από τη Θάλασσα](https://dev.to/__b63657/agile-seaway-to-scrum-mesa-apo-te-thalassa-4dlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
