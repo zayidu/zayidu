@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Helps Litigators See the Full Picture: An AI Timeline Generator Built With No Code](https://dev.to/momen_hq/how-ai-helps-litigators-see-the-full-picture-an-ai-timeline-generator-built-with-no-code-4hdh)
-- [Great resource for build awesome projects](https://dev.to/isaactony/great-resource-for-build-awesome-projects-2e2o)
-- [Building a Production-Ready AI Image Generator with Nano Banana and No-Code](https://dev.to/momen_hq/building-a-production-ready-ai-image-generator-with-nano-banana-and-no-code-n72)
-- [From Boredom to Breakthrough: How Curiosity Fuels Learning](https://dev.to/tlorent/from-boredom-to-breakthrough-how-curiosity-fuels-learning-39jf)
-- [Mobile App Development for Regulated Industries: Compliance with HIPAA, GDPR &amp; CCPA](https://dev.to/iprogrammer_solutionspvt/mobile-app-development-for-regulated-industries-compliance-with-hipaa-gdpr-ccpa-2do0)
+- [From Chaos to Clarity: How We Realized We Needed a Design System](https://dev.to/denis_bratchikov/from-chaos-to-clarity-how-we-realized-we-needed-a-design-system-3964)
+- [Top 5 Rust Frameworks &lpar;2025&rpar;](https://dev.to/masteringbackend/top-5-rust-frameworks-2025-3jnc)
+- [Explainability integrity. Anchoring model/input/output hashes on-chain gives verifiable provenance. Are you planning ZK attestations for “f&lpar;x&rpar;=y” without revealing x or f?](https://dev.to/mahima_chhatwani_e8d6fd3f/explainability-integrity-anchoring-modelinputoutput-hashes-on-chain-gives-verifiable-591j)
+- [Technique Avancée d&#39;OpenRewrite : Orchestrer des refactorings complexes avec les `ScanningRecipe`](https://dev.to/onepoint/technique-avancee-dopenrewrite-orchestrer-des-refactorings-complexes-avec-les-scanningrecipe-2onf)
+- [Good Things &lpar;Compression&rpar; Take Time!](https://dev.to/ijuren/good-things-compression-take-time-1aed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
