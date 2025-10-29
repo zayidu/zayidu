@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a Spiral Spring Toy using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-spring-toy-using-3d-cad-software-15jo)
-- [The Odyssey of an E-Commerce Order](https://dev.to/bias/the-odyssey-of-an-e-commerce-order-o09)
-- [Web3 PR That Doesn’t Waste Anyone’s Time](https://dev.to/sonia_bobrik_1939cdddd79d/web3-pr-that-doesnt-waste-anyones-time-5be)
-- [Credibility Over Noise: How “Boring” Products Win When Everyone Else Is Shouting](https://dev.to/sonia_bobrik_1939cdddd79d/credibility-over-noise-how-boring-products-win-when-everyone-else-is-shouting-5g11)
-- [Trust-First Growth for Crypto Tech: A Developer’s Playbook](https://dev.to/sonia_bobrik_1939cdddd79d/trust-first-growth-for-crypto-tech-a-developers-playbook-5gh)
+- [How to Stop Your AI from Making Things Up: A Guide to Grounding LLM Responses in Data](https://dev.to/duplys/how-to-stop-your-ai-from-making-things-up-a-guide-to-grounding-llm-responses-in-data-2joc)
+- [What’s the best way to test and secure a blockchain solution before launch?](https://dev.to/zara_fernandes_b02180aa0b/whats-the-best-way-to-test-and-secure-a-blockchain-solution-before-launch-4h6g)
+- [🧠 Mastering Data Structures in Java — Part 6: HashSet](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-6-hashset-4c0c)
+- [HNG stage 2 task, we go harder](https://dev.to/ujunwa27/hng-stage-2-task-we-go-harder-3l29)
+- [Wix vs Shopify: Which is the Best Platform for Your Online Store?](https://dev.to/api_troll/wix-vs-shopify-which-is-the-best-platform-for-your-online-store-44bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
