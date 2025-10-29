@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
-- [**Unlocking Efficient Media Processing with Domain Knowledge](https://dev.to/drcarlosruizviquez/unlocking-efficient-media-processing-with-domain-knowledge-3jj7)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3hk6)
+- [I Think Game Dev Isn’t My Thing &lpar;And That’s Okay&rpar;](https://dev.to/vulcanwm/i-think-game-dev-isnt-my-thing-and-thats-okay-3h5j)
+- [⏳geol, the cli to efficiently manage EOLs like a boss](https://dev.to/adriens/geol-the-cli-to-efficiently-manage-eols-like-a-boss-3hne)
+- [48 hours date with Kiro IDE](https://dev.to/nishtha_8ff779c03ba37e7d4/48-hours-date-with-kiro-ide-20f7)
+- [🗳️ Day 28 of #30DaysOfSolidity — Build a DAO Voting System &lpar;Decentralized Governance&rpar;](https://dev.to/sauravkumar8178/day-28-of-30daysofsolidity-build-a-dao-voting-system-decentralized-governance-3kg1)
+- [Why the Model Context Protocol is the Future of AI Integration](https://dev.to/onlineproxy/why-the-model-context-protocol-is-the-future-of-ai-integration-4f3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
