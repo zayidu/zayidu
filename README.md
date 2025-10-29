@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
-- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
-- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
-- [The Unreal Arbitrage: 100x Opportunity in the Age of Instant Intelligence](https://dev.to/ankk98/the-unreal-arbitrage-100x-opportunity-in-the-age-of-instant-intelligence-2bf9)
-- [How Does React&#39;s useContext Really Work?](https://dev.to/ctrix/how-does-reacts-usecontext-really-work-32gg)
+- [How AI Helps Litigators See the Full Picture: An AI Timeline Generator Built With No Code](https://dev.to/momen_hq/how-ai-helps-litigators-see-the-full-picture-an-ai-timeline-generator-built-with-no-code-4hdh)
+- [Great resource for build awesome projects](https://dev.to/isaactony/great-resource-for-build-awesome-projects-2e2o)
+- [Building a Production-Ready AI Image Generator with Nano Banana and No-Code](https://dev.to/momen_hq/building-a-production-ready-ai-image-generator-with-nano-banana-and-no-code-n72)
+- [From Boredom to Breakthrough: How Curiosity Fuels Learning](https://dev.to/tlorent/from-boredom-to-breakthrough-how-curiosity-fuels-learning-39jf)
+- [Mobile App Development for Regulated Industries: Compliance with HIPAA, GDPR &amp; CCPA](https://dev.to/iprogrammer_solutionspvt/mobile-app-development-for-regulated-industries-compliance-with-hipaa-gdpr-ccpa-2do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
