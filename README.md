@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: How We Realized We Needed a Design System](https://dev.to/denis_bratchikov/from-chaos-to-clarity-how-we-realized-we-needed-a-design-system-3964)
-- [Top 5 Rust Frameworks &lpar;2025&rpar;](https://dev.to/masteringbackend/top-5-rust-frameworks-2025-3jnc)
-- [Explainability integrity. Anchoring model/input/output hashes on-chain gives verifiable provenance. Are you planning ZK attestations for “f&lpar;x&rpar;=y” without revealing x or f?](https://dev.to/mahima_chhatwani_e8d6fd3f/explainability-integrity-anchoring-modelinputoutput-hashes-on-chain-gives-verifiable-591j)
-- [Technique Avancée d&#39;OpenRewrite : Orchestrer des refactorings complexes avec les `ScanningRecipe`](https://dev.to/onepoint/technique-avancee-dopenrewrite-orchestrer-des-refactorings-complexes-avec-les-scanningrecipe-2onf)
-- [Good Things &lpar;Compression&rpar; Take Time!](https://dev.to/ijuren/good-things-compression-take-time-1aed)
+- [How to Debug Applications Running in Docker Containers](https://dev.to/addwebsolutionpvtltd/how-to-debug-applications-running-in-docker-containers-4ego)
+- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-4n5b)
+- [Building Semantica: An AI-Powered Academic Search Platform with MindsDB](https://dev.to/better-boy/building-semantica-an-ai-powered-academic-search-platform-with-mindsdb-596n)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-3enn)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-52ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
