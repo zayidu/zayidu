@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Success: Your Ultimate Guide to Shopify Ecommerce](https://dev.to/api_troll/unlocking-success-your-ultimate-guide-to-shopify-ecommerce-1e04)
-- [Master YAML in 2024: Complete Learning Guide for DevOps Engineers](https://dev.to/yuvrajkarna/master-yaml-in-2024-complete-learning-guide-for-devops-engineers-4f4e)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-c61)
-- [How to Create Product Demos &lpar;Even Without a Video Team&rpar;](https://dev.to/sachindas246/how-to-create-product-demos-even-without-a-video-team-4b9n)
-- [10 Tips for Making Better Decisions](https://dev.to/diogodanielsoaresferreira/10-tips-for-making-better-decisions-hp4)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
+- [**Unlocking Efficient Media Processing with Domain Knowledge](https://dev.to/drcarlosruizviquez/unlocking-efficient-media-processing-with-domain-knowledge-3jj7)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3hk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
