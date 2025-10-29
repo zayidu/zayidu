@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-50ga)
-- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
-- [Why JWT login breaks in WooCommerce — and how to fix it cleanly](https://dev.to/maysker/why-jwt-login-breaks-in-woocommerce-and-how-to-fix-it-cleanly-5m2)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-534o)
+- [Hugo: remove accents from anchors](https://dev.to/spo0q/hugo-remove-accents-from-anchors-3786)
+- [JavaScript - Things](https://dev.to/facubotta/javascript-things-2obf)
+- [Boosting Goose Performance on Windows — Real Benchmarks, Power Tweaks, and Results](https://dev.to/mohammed_thaha/boosting-goose-performance-on-windows-real-benchmarks-power-tweaks-and-results-54gf)
+- [httprecon3: The Ultimate Stealthy Recon Tool for Bug Bounty Hunters and Pentesters](https://dev.to/l0n3ly/httprecon3-the-ultimate-stealthy-recon-tool-for-bug-bounty-hunters-and-pentesters-5k4)
+- [Introduction to HTTP3. The future of web, with implementation in Rust Axum.](https://dev.to/mayu2008/introduction-to-http3-the-future-of-web-with-implementation-in-rust-axum-51j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
