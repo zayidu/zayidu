@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JPlus – &lpar;Intellij Plugin Demo&rpar; Bringing Modern Language Features to Java Without Leaving Java](https://dev.to/cheol_jeon_9e29b98fdb7e1e/jplus-intellij-plugin-demo-bringing-modern-language-features-to-java-without-leaving-java-27ga)
-- [The Hidden Monopolies That Could Break the Tech World](https://dev.to/vaibhav0460/the-hidden-monopolies-that-could-break-the-tech-world-283i)
-- [What is Compiler?](https://dev.to/aj_arul/what-is-compiler-4hf8)
-- [Weekly Update #15](https://dev.to/abytebybyte/weekly-update-15-4a72)
-- [How I Generated $600k From My First 5 Clients With Content](https://dev.to/remotebranch/how-i-generated-600k-from-my-first-5-clients-with-content-223n)
+- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-50ga)
+- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
+- [Why JWT login breaks in WooCommerce — and how to fix it cleanly](https://dev.to/maysker/why-jwt-login-breaks-in-woocommerce-and-how-to-fix-it-cleanly-5m2)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-534o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
