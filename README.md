@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybercrime Trends 2025 &amp; How to Shield Your Startup...](https://dev.to/himantha_bandara/cybercrime-trends-2025-how-to-shield-your-startup-gi2)
-- [Open Compute Project’s Universal D2D Link Layer with UCIe Enables Silicon Diversity in AI Clusters](https://dev.to/alpinumblogs/open-compute-projects-universal-d2d-link-layer-with-ucie-enables-silicon-diversity-in-ai-clusters-2k6e)
-- [The Anansi Protocol: Encoding Metadata Drift and Ambient Surveillance Through West African Storytelling](https://dev.to/narnaiezzsshaa_truong/the-anansi-protocol-encoding-metadata-drift-and-ambient-surveillance-through-west-african-37p2)
-- [Why I Built lrok — A Simple, Free Tunneling Service with Custom Subdomains](https://dev.to/ethank/why-i-built-lrok-a-simple-free-tunneling-service-with-custom-subdomains-10ld)
-- [3 Easy Ways to Protect WordPress Media Files](https://dev.to/medha_bhatt_21b7dc4cc53e7/3-easy-ways-to-protect-wordpress-media-files-2daa)
+- [Gathering User Requirements Through Prototyping: Why It Works](https://dev.to/yusdirman/gathering-user-requirements-through-prototyping-why-it-works-2go8)
+- [Why You Should Use 310,000+ Iterations with PBKDF2 in 2025](https://dev.to/securebitchat/why-you-should-use-310000-iterations-with-pbkdf2-in-2025-3o1e)
+- [Part 1: The Classic Order Services on Your Hands](https://dev.to/yisusvii_crt_5e9a4aec07da/part-1-the-classic-order-services-on-your-hands-3iml)
+- [Welcome Thread - v349](https://dev.to/devteam/welcome-thread-v349-446k)
+- [The Patchbay Principle: How Audio Engineering Taught Me to Code](https://dev.to/calebstein1/the-patchbay-principle-how-audio-engineering-taught-me-to-code-1haf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
