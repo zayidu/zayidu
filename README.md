@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3)
-- [The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n)
-- [Automate Resume Parsing with n8n, Thordata Universal API &amp; OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5)
-- [Title: The Fierce Hockey Mom Who Took to the Ice to Protest Her Son&#39;s Team](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fierce-hockey-mom-who-took-to-the-ice-to-protest-her-sons-team-3b33)
-- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-5gc4)
+- [Yet Another AWS AI Certification Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
+- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
+- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
+- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C 2.0](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-20-32pp)
+- [The Tri-Glyph Protocol: Chim Lac, Kitsune, and Anansi in AI/ML Collapse and Editorial Defense](https://dev.to/narnaiezzsshaa_truong/the-tri-glyph-protocol-chim-lac-kitsune-and-anansi-in-aiml-collapse-and-editorial-defense-2l4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
