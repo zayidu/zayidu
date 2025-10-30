@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Superhuman Classification: Train on Positives Alone by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-superhuman-classification-train-on-positives-alone-by-arvind-sundararajan-1mb9)
-- [Day 8 – CSS Basics Explained: Styling Your First Webpage](https://dev.to/bblackwind/day-8-css-basics-explained-styling-your-first-webpage-2a9f)
-- [Making React Work on Smart TVs: Behind the Scenes of the Sportworld App](https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi)
-- [Quantum Beetle: Making Marketing Smarter with AI](https://dev.to/prerna_gogoi_68aa23d70588/quantum-beetle-making-marketing-smarter-with-ai-3a44)
-- [Building a Cloud-Native Booking System with GCP OAuth, Calendar &amp; Meet APIs](https://dev.to/blackie360/building-a-cloud-native-booking-system-with-gcp-oauth-calendar-meet-apis-23dp)
+- [There is no one-size-fits-all solution to API testing tools](https://dev.to/tomjohnson3/there-is-no-one-size-fits-all-solution-to-api-testing-tools-3238)
+- [**Measuring AI-driven Ad Success: Unlocking the Power of Inc](https://dev.to/drcarlosruizviquez/measuring-ai-driven-ad-success-unlocking-the-power-of-inc-3e6o)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-19h8)
+- [Artificial intelligence &lpar;AI&rpar; is revolutionizing the field of](https://dev.to/drcarlosruizviquez/artificial-intelligence-ai-is-revolutionizing-the-field-of-38m1)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3aap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
