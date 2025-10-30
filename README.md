@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2fn0)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-568p)
-- [The Psychology of Code: Why Users Fall in Love with Certain UIs😃](https://dev.to/yaldakhoshpey/the-psychology-of-code-why-users-fall-in-love-with-certain-uis-4l4i)
-- [Building a Conscious Cybersecurity System: How We Apply Integrated Information Theory to Threat Hunting](https://dev.to/juancsdev/building-a-conscious-cybersecurity-system-how-we-apply-integrated-information-theory-to-threat-19kj)
-- [Clash of the Titans: Competing for Downtime](https://dev.to/solegaonkar/clash-of-the-titans-competing-for-downtime-4g56)
+- [Unlock Superhuman Classification: Train on Positives Alone by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-superhuman-classification-train-on-positives-alone-by-arvind-sundararajan-1mb9)
+- [Day 8 – CSS Basics Explained: Styling Your First Webpage](https://dev.to/bblackwind/day-8-css-basics-explained-styling-your-first-webpage-2a9f)
+- [Making React Work on Smart TVs: Behind the Scenes of the Sportworld App](https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi)
+- [Quantum Beetle: Making Marketing Smarter with AI](https://dev.to/prerna_gogoi_68aa23d70588/quantum-beetle-making-marketing-smarter-with-ai-3a44)
+- [Building a Cloud-Native Booking System with GCP OAuth, Calendar &amp; Meet APIs](https://dev.to/blackie360/building-a-cloud-native-booking-system-with-gcp-oauth-calendar-meet-apis-23dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
