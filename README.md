@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-25pd)
-- [🧠 ClickHouse LEFT JOINs: Why join_use_nulls Matters](https://dev.to/ranjbaryshahab/clickhouse-left-joins-why-joinusenulls-matters-1h9f)
-- [The Rise of AI PaaS: What Business Leaders Need to Know](https://dev.to/nicholaswinst14/the-rise-of-ai-paas-what-business-leaders-need-to-know-1bji)
-- [How to Choose the Right GPU for Your Machine Learning Projects](https://dev.to/nextgengpu/how-to-choose-the-right-gpu-for-your-machine-learning-projects-14mm)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-adj)
+- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://dev.to/shankar_t/setting-up-gitops-with-flux-on-a-kubernetes-cluster-5d8l)
+- [10 Claude Skills that actually changed how I work &lpar;no fluff&rpar;](https://dev.to/varshith_krishna_f772000d/10-claude-skills-that-actually-changed-how-i-work-no-fluff-3ein)
+- [Diagnosing layer sensitivity during post training quantization](https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g)
+- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
+- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
