@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 19: Python Vowel Counter – Build a Simple Function to Count Vowels in Any Text](https://dev.to/shahrouzlogs/day-19-python-vowel-counter-build-a-simple-function-to-count-vowels-in-any-text-5a5k)
-- [Python Frontier: What Every Dev Needs to Learn Now](https://dev.to/sanjaynaker/python-frontier-what-every-dev-needs-to-learn-now-1ppd)
-- [Pure CSS Pumpkin Patch - Sanjay Naker](https://dev.to/sanjaynaker/pure-css-pumpkin-patch-sanjay-naker-137o)
-- [The Hardest Bug to Fix Is a Misaligned Mindset](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-hardest-bug-to-fix-is-a-misaligned-mindset-h54)
-- [Conversion Optimization: How to Build a Subscription Page That Actually Converts](https://dev.to/paywallpro/conversion-optimization-how-to-build-a-subscription-page-that-actually-converts-2c6a)
+- [gRPC vs REST](https://dev.to/nikodyring/grpc-vs-rest-1jh9)
+- [How to build your first web project like a Pro](https://dev.to/rafsan-jany-ratul/how-to-build-your-first-web-project-like-a-pro-44gl)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-47md)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-5gd2)
+- [Beyond the Training Data: Why RAG is the AI Superpower You Need](https://dev.to/danial_razi/beyond-the-training-data-why-rag-is-the-ai-superpower-you-need-3474)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
