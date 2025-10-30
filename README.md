@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet Another AWS AI Certification Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
-- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
-- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
-- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C 2.0](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-20-32pp)
-- [The Tri-Glyph Protocol: Chim Lac, Kitsune, and Anansi in AI/ML Collapse and Editorial Defense](https://dev.to/narnaiezzsshaa_truong/the-tri-glyph-protocol-chim-lac-kitsune-and-anansi-in-aiml-collapse-and-editorial-defense-2l4l)
+- [Kubernetes-Style Scan Scheduling Comes to Security Tools &lpar;JMo Security v0.8.0&rpar;](https://dev.to/jmogaming/kubernetes-style-scan-scheduling-comes-to-security-tools-jmo-security-v080-1je1)
+- [Single Points of Failure - Example Case Study](https://dev.to/zeeshanali0704/single-points-of-failure-example-case-study-2ia6)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-5akp)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4pjk)
+- [Understanding the LlmTornado Codebase: Multi-Provider AI Integration](https://dev.to/lofcz/understanding-the-llmtornado-codebase-multi-provider-ai-integration-582f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
