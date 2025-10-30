@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://dev.to/shankar_t/setting-up-gitops-with-flux-on-a-kubernetes-cluster-5d8l)
-- [10 Claude Skills that actually changed how I work &lpar;no fluff&rpar;](https://dev.to/varshith_krishna_f772000d/10-claude-skills-that-actually-changed-how-i-work-no-fluff-3ein)
-- [Diagnosing layer sensitivity during post training quantization](https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g)
-- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
-- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
+- [What I See When I Watch You Build](https://dev.to/dev-tngsh/what-i-see-when-i-watch-you-build-2j4g)
+- [HappyTravel 🌍 — Helping Tourists Find Their Way Comfortably](https://dev.to/d399def9/happytravel-helping-tourists-find-their-way-comfortably-4kb0)
+- [Merge K Sorted Lists](https://dev.to/we_are_broken_compilers/merge-k-sorted-lists-3ah7)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-45e2)
+- [How Google Mistook My Sui Node for a Bitcoin Farm &lpar;And Banned Me&rpar; &lpar;again&rpar;](https://dev.to/simon_morley/how-google-mistook-my-sui-node-for-a-bitcoin-farm-and-banned-me-again-3883)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
