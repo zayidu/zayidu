@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There is no one-size-fits-all solution to API testing tools](https://dev.to/tomjohnson3/there-is-no-one-size-fits-all-solution-to-api-testing-tools-3238)
-- [**Measuring AI-driven Ad Success: Unlocking the Power of Inc](https://dev.to/drcarlosruizviquez/measuring-ai-driven-ad-success-unlocking-the-power-of-inc-3e6o)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-19h8)
-- [Artificial intelligence &lpar;AI&rpar; is revolutionizing the field of](https://dev.to/drcarlosruizviquez/artificial-intelligence-ai-is-revolutionizing-the-field-of-38m1)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3aap)
+- [My Hacktoberfest Journey: From &quot;Maybe Later&quot; to &quot;Merge Successful!&quot;](https://dev.to/sheefa_nigarsyed_61642e7/my-hacktoberfest-journey-from-maybe-later-to-merge-successful-40hd)
+- [How to Connect with the HubSpot API](https://dev.to/apideck/how-to-connect-with-the-hubspot-api-8hk)
+- [How to deploy PocketBase on AWS with Docker](https://dev.to/fabienmartin/how-to-deploy-pocketbase-on-aws-with-docker-1o6g)
+- [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-49bn)
+- [Exploring the new SurrealDB integration with Agno](https://dev.to/surrealdb/exploring-the-new-surrealdb-integration-with-agno-2pid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
