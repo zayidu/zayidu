@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3eap)
-- [🔐 Advanced IAM for the AWS Solutions Architect – Associate &lpar;SAA-C03&rpar; Exam](https://dev.to/nishath_jp/advanced-iam-for-the-aws-solutions-architect-associate-saa-c03-exam-4m8)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4pho)
+- [Αρχιτεκτονική Ανάλυση του MySchool System: Από Μονολιθική Προσέγγιση σε Microservices](https://dev.to/__b63657/arkhitektonike-analuse-tou-myschool-system-apo-monolithike-proseggise-se-microservices-33cf)
+- [Leveling with cluster analysis in Python](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p)
+- [I Built my own UI Library on Top of shadcn/ui](https://dev.to/akshaywritescode/i-built-my-own-ui-library-on-top-of-shadcnui-2d05)
+- [The data lakehouse evolution](https://dev.to/apachedoris/the-data-lakehouse-evolution-3a7e)
+- [Built AI Agents That Think Like Geopolitical Masters at FinceptTerminal](https://dev.to/rudra_sheth_aeda76ad708e0/built-ai-agents-that-think-like-geopolitical-masters-at-finceptterminal-2kj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
