@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Home Automation Just Arrived: 1X Technologies NEO Humanoid Robot](https://dev.to/shiva_shanker_k/the-future-of-home-automation-just-arrived-1x-technologies-neo-humanoid-robot-266k)
-- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
-- [Using a WebWorker in the browser to create a plug-in architecture](https://dev.to/tracygjg/using-a-webworker-in-the-browser-to-create-a-plug-in-architecture-2i41)
-- [Codex JS: Where Express gets discipline, and Nest loses its chains.](https://dev.to/c1ancy/codex-js-where-express-gets-discipline-and-nest-loses-its-chains-2dec)
-- [Building Prepzilla: How I Made CEED Exam Practice Free for Everyone &lpar;And What I Learned&rpar;](https://dev.to/randomchikbum/building-prepzilla-how-i-made-ceed-exam-practice-free-for-everyone-and-what-i-learned-4n12)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1209)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1132)
+- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
+- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
+- [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
