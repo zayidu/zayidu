@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest Journey: From &quot;Maybe Later&quot; to &quot;Merge Successful!&quot;](https://dev.to/sheefa_nigarsyed_61642e7/my-hacktoberfest-journey-from-maybe-later-to-merge-successful-40hd)
-- [How to Connect with the HubSpot API](https://dev.to/apideck/how-to-connect-with-the-hubspot-api-8hk)
-- [How to deploy PocketBase on AWS with Docker](https://dev.to/fabienmartin/how-to-deploy-pocketbase-on-aws-with-docker-1o6g)
-- [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-49bn)
-- [Exploring the new SurrealDB integration with Agno](https://dev.to/surrealdb/exploring-the-new-surrealdb-integration-with-agno-2pid)
+- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3eap)
+- [🔐 Advanced IAM for the AWS Solutions Architect – Associate &lpar;SAA-C03&rpar; Exam](https://dev.to/nishath_jp/advanced-iam-for-the-aws-solutions-architect-associate-saa-c03-exam-4m8)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4pho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
