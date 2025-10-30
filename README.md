@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1209)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1132)
-- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
-- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
-- [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
+- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
+- [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
+- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
+- [The Context Variable Vault: Advanced Patterns and Framework Integration](https://dev.to/aaron_rose_0787cc8b4775a0/the-context-variable-vault-advanced-patterns-and-framework-integration-5foj)
+- [How AI Turned Me from a Copy-Paste Coder into a Confident Full-Stack Developer](https://dev.to/sufian/how-ai-turned-me-from-a-copy-paste-coder-into-a-confident-full-stack-developer-3l36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
