@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Save YouTube Videos Without Losing Quality](https://dev.to/gerrit_cole/save-youtube-videos-without-losing-quality-535j)
-- [Update: 485 downloads in 48 hrs - wild! Drop a comment if you&#39;re using it.](https://dev.to/bright_agyemang_d609f542f/update-485-downloads-in-48-hrs-wild-drop-a-comment-if-youre-using-it-4eah)
-- [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
-- [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
+- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3)
+- [The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n)
+- [Automate Resume Parsing with n8n, Thordata Universal API &amp; OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5)
+- [Title: The Fierce Hockey Mom Who Took to the Ice to Protest Her Son&#39;s Team](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fierce-hockey-mom-who-took-to-the-ice-to-protest-her-sons-team-3b33)
+- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-5gc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
