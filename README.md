@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I See When I Watch You Build](https://dev.to/dev-tngsh/what-i-see-when-i-watch-you-build-2j4g)
-- [HappyTravel 🌍 — Helping Tourists Find Their Way Comfortably](https://dev.to/d399def9/happytravel-helping-tourists-find-their-way-comfortably-4kb0)
-- [Merge K Sorted Lists](https://dev.to/we_are_broken_compilers/merge-k-sorted-lists-3ah7)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-45e2)
-- [How Google Mistook My Sui Node for a Bitcoin Farm &lpar;And Banned Me&rpar; &lpar;again&rpar;](https://dev.to/simon_morley/how-google-mistook-my-sui-node-for-a-bitcoin-farm-and-banned-me-again-3883)
+- [I Built a Podcast Script Prompt That Actually Works—Here&#39;s the Complete Template](https://dev.to/huizhudev/i-built-a-podcast-script-prompt-that-actually-works-heres-the-complete-template-23h1)
+- [Mangroves Near Digha – A Hidden Green Paradise](https://dev.to/dip_mondal_2dd6ea5a70ef6c/mangroves-near-digha-a-hidden-green-paradise-20fb)
+- [HTTP, REST Principles, and API Design Fundamentals](https://dev.to/kennedy01crypto/http-rest-principles-and-api-design-fundamentals-2coe)
+- [Tutorial Lengkap: Membuat Aplikasi Laravel 10 dengan CRUD dan Basic Authentication](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-aplikasi-laravel-10-dengan-crud-dan-basic-authentication-3p66)
+- [Part 1: Implementing JWT Authentication in Rust with Axum.](https://dev.to/bittokks/part-1-implementing-jwt-authentication-in-rust-with-axum-1892)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
