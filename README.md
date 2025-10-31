@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wife&#39;s Cognitive Challenge](https://dev.to/tempuskg/my-wifes-cognitive-challenge-174h)
-- [Building a Full-Stack E-Commerce Site with Lovable: From Zero to Production](https://dev.to/cathylai/building-a-full-stack-e-commerce-site-with-lovable-from-zero-to-production-2hm8)
-- [Tool as Prompt: From LLM-First Docs to Teaching LLMs Domain Knowledge On The Fly](https://dev.to/francesco_marconi_282058b/from-llm-first-docs-to-teaching-llms-domain-knowledge-on-the-fly-5dma)
-- [Stop Doing Business Logic in Webhook Endpoints. I Don&#39;t Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0)
-- [5 Best Go Libraries for Uploading Files to MinIO &lpar;Without Losing Your Mind&rpar;](https://dev.to/lamri_abdellahramdane_15/5-best-go-libraries-for-uploading-files-to-minio-without-losing-your-mind-5616)
+- [RK3568: New Look](https://dev.to/dongpei_liao_8092a14d7c50/rk3568-new-look-2m4h)
+- [How Data Science Shapes Political Campaigns: Inside Modern Party Strategy](https://dev.to/nomidlseo/how-data-science-shapes-political-campaigns-inside-modern-party-strategy-1l39)
+- [Reflection on my Contribution to Open Source in 2025 Hacktoberfest](https://dev.to/laikokwui/reflection-on-my-contribution-to-open-source-in-2025-hacktoberfest-47bm)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--1hhe)
+- [The Hybrid Thinking](https://dev.to/muzammildev/the-hybrid-thinking-mjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
