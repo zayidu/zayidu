@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 20 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-20-of-my-ai-data-mastery-journey-from-python-to-generative-ai-551n)
-- [How to Use TipTap Editor with Vue 3](https://dev.to/jsandaruwan/how-to-use-tiptap-editor-with-vue-3-4n3l)
-- [Building Smarter Apps: The Rise of AI Agent Frameworks in 2025](https://dev.to/ganesh_tidake/building-smarter-apps-the-rise-of-ai-agent-frameworks-in-2025-293a)
-- [BGP - The Guy Who Knows Every Shortcut on the Internet](https://dev.to/arjunshajitech/bgp-the-guy-who-knows-every-shortcut-on-the-internet-26c6)
-- [Jio 18-25 Offer: Unlock Free Google Gemini AI Pro on ₹349+ Plans](https://dev.to/yoga0022/jio-18-25-offer-unlock-free-google-gemini-ai-pro-on-349-plans-16pp)
+- [The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-47bm)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2gck)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5di3)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-20f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
