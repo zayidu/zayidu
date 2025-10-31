@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strands Multi-Agent Systems: Graph](https://dev.to/aws/strands-multi-agent-systems-graph-4h7f)
-- [Frontend System Design: CSS, CSSOM, and DOM Rendering in Browser](https://dev.to/zeeshanali0704/frontend-system-design-css-cssom-and-dom-rendering-in-browser-3fjm)
-- [Hacktoberfest 2025](https://dev.to/lowla/hacktoberfest-2025-9fj)
-- [**Breaking Free from Bias: AI Revolution Heats Up!** 🚀 The](https://dev.to/drcarlosruizviquez/breaking-free-from-bias-ai-revolution-heats-up-the-5a4g)
-- [7 AWS Architecture Mistakes That Cost My Enterprise Clients $200K+](https://dev.to/carlosinfantes/7-aws-architecture-mistakes-that-cost-my-enterprise-clients-200k-5b8f)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e)
+- [Building Privacy-Safe Attribution Pipelines: A Marketer’s Engineering Approach](https://dev.to/saka_satish_661/building-privacy-safe-attribution-pipelines-a-marketers-engineering-approach-578l)
+- [Why DFS Topological Sort Writes Nodes on Backtracking](https://dev.to/haris_abdullah_b8fc481573/why-dfs-topological-sort-writes-nodes-on-backtracking-2p34)
+- [Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I](https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
