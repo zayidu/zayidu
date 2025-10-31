@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
-- [Goodbye FormArray. Hello Signal Forms.](https://dev.to/brianmtreese/goodbye-formarray-hello-signal-forms-2haa)
-- [How the Linux Kernel Expands Its List of Display Vendors](https://dev.to/jasonliu112/how-the-linux-kernel-expands-its-list-of-display-vendors-31e1)
-- [Understanding Primary Keys in Relational Databases: A Key to Data Integrity and Fast Lookups](https://dev.to/pdobadb/understanding-primary-keys-in-relational-databases-a-key-to-data-integrity-and-fast-lookups-2cka)
-- [Managing Goose Configurations Across Multiple Projects: A Practical Guide](https://dev.to/vietbui1999ru/managing-goose-configurations-across-multiple-projects-a-practical-guide-48ei)
+- [Rethinking Observability Costs: How Structured Logging Can Save You Thousands](https://dev.to/anderson_leite/rethinking-observability-costs-how-structured-logging-can-save-you-thousands-54bh)
+- [Writing Tests for Larger Font Sizes with Compose: Scrolling and Text Truncation](https://dev.to/eevajonnapanula/writing-tests-for-larger-font-sizes-with-compose-scrolling-and-text-truncation-1l0)
+- [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://dev.to/paperium/internsvg-towards-unified-svg-tasks-with-multimodal-large-language-models-19ol)
+- [Should I Hire a WP Speed Consultant or Just Install a Caching Plugin?](https://dev.to/biancarus/-should-i-hire-a-wp-speed-consultant-or-just-install-a-caching-plugin-2nke)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-3j3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
