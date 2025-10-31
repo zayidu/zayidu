@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Registrars, Name Servers, and DNS Records: How They All Work Together to Serve Your Page](https://dev.to/rijultp/registrars-name-servers-and-dns-records-how-they-all-work-together-to-serve-your-page-5hdo)
-- [From YAML to Glory: Mastering Infrastructure as Code 🎯](https://dev.to/tavernetech/from-yaml-to-glory-mastering-infrastructure-as-code-3eob)
-- [**Caution: Synthetic Data Oversight - Overfitting to Noise**](https://dev.to/drcarlosruizviquez/caution-synthetic-data-oversight-overfitting-to-noise-2m0b)
-- [First contribution in hacktoberfest](https://dev.to/slyang08/first-contribution-in-hacktoberfest-5eh7)
-- [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2j95)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-314f)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1n67)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33pg)
+- [Day 1262 : Mind Playing Tricks On Me](https://dev.to/dwane/day-1262-mind-playing-tricks-on-me-2gch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
