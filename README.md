@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of healthcare is undergoing a paradigm shift, dri](https://dev.to/drcarlosruizviquez/the-future-of-healthcare-is-undergoing-a-paradigm-shift-dri-293b)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-da8)
-- [🌳 Mastering Data Structures in Java — Part 8: TreeMap](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-8-treemap-1mb)
-- [Drowning in AI Code Review Noise? A Framework to Measure Signal vs. Noise](https://dev.to/jet_xu/drowning-in-ai-code-review-noise-a-framework-to-measure-signal-vs-noise-304e)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1n08)
+- [Strands Multi-Agent Systems: Graph](https://dev.to/aws/strands-multi-agent-systems-graph-4h7f)
+- [Frontend System Design: CSS, CSSOM, and DOM Rendering in Browser](https://dev.to/zeeshanali0704/frontend-system-design-css-cssom-and-dom-rendering-in-browser-3fjm)
+- [Hacktoberfest 2025](https://dev.to/lowla/hacktoberfest-2025-9fj)
+- [**Breaking Free from Bias: AI Revolution Heats Up!** 🚀 The](https://dev.to/drcarlosruizviquez/breaking-free-from-bias-ai-revolution-heats-up-the-5a4g)
+- [7 AWS Architecture Mistakes That Cost My Enterprise Clients $200K+](https://dev.to/carlosinfantes/7-aws-architecture-mistakes-that-cost-my-enterprise-clients-200k-5b8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
