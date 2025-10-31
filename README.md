@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Worker Pools in Go: The Minimal Pattern I Use for High-Efficiency Concurrency](https://dev.to/evgeny_pantela/worker-pools-in-go-the-minimal-pattern-i-use-for-high-efficiency-concurrency-ein)
-- [A Dashboard About Scammers, Telemarketers, My Cellphone, and Who Annoys Me Most](https://dev.to/caldas/a-dashboard-about-scammers-telemarketers-my-cellphone-and-who-annoys-me-most-2dml)
-- [Understanding E Supply Chain Components: A Complete Guide for Modern Businesses](https://dev.to/pujagothi/understanding-e-supply-chain-components-a-complete-guide-for-modern-businesses-35gd)
-- [ServiceNow Roles and Responsibilities: Complete Guide for 2025](https://dev.to/morrismoses149/servicenow-roles-and-responsibilities-complete-guide-for-2025-4ioa)
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-277e)
+- [New Feature Alert: Cost Tracker](https://dev.to/cloudwiseteam/new-feature-alert-cost-tracker-1370)
+- [Returning HTTP 404 Responses Instead of 403 for Unauthorised Access](https://dev.to/ashallendesign/returning-http-404-responses-instead-of-403-for-unauthorised-access-22ba)
+- [PET Scan Price in Delhi – Affordable and Transparent](https://dev.to/molecularit_13f33107d8ad1/pet-scan-price-in-delhi-affordable-and-transparent-2f86)
+- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
+- [Modern C# Development: Target-Typed `new`](https://dev.to/lovelacecoding/modern-c-development-target-typed-new-468k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
