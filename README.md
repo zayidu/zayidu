@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ETF Basics for Engineers: A No-Jargon Guide to Long-Term Investing](https://dev.to/adamcooper/etf-basics-for-engineers-a-no-jargon-guide-to-long-term-investing-12ol)
-- [Building the Future of Entertainment Tech: Inside Wimberly Media’s Innovation Culture](https://dev.to/dennis_wimberly_b8aa3c8aa/building-the-future-of-entertainment-tech-inside-wimberly-medias-innovation-culture-dh)
-- [Why Guest Contributions Are the Future of Digital Storytelling](https://dev.to/kunal_das_f99b9304444a708/why-guest-contributions-are-the-future-of-digital-storytelling-46jm)
-- [The Developer’s Focus Problem: Why Your To-Do App Is Failing You &lpar;and What Actually Works&rpar;](https://dev.to/johannesjo/the-developers-focus-problem-why-your-to-do-app-is-failing-you-and-what-actually-works-go0)
-- [Προσθήκη Fluent Validator step by step](https://dev.to/__b63657/prostheke-fluent-validator-step-by-step-1pg7)
+- [Worker Pools in Go: The Minimal Pattern I Use for High-Efficiency Concurrency](https://dev.to/evgeny_pantela/worker-pools-in-go-the-minimal-pattern-i-use-for-high-efficiency-concurrency-ein)
+- [A Dashboard About Scammers, Telemarketers, My Cellphone, and Who Annoys Me Most](https://dev.to/caldas/a-dashboard-about-scammers-telemarketers-my-cellphone-and-who-annoys-me-most-2dml)
+- [Understanding E Supply Chain Components: A Complete Guide for Modern Businesses](https://dev.to/pujagothi/understanding-e-supply-chain-components-a-complete-guide-for-modern-businesses-35gd)
+- [ServiceNow Roles and Responsibilities: Complete Guide for 2025](https://dev.to/morrismoses149/servicenow-roles-and-responsibilities-complete-guide-for-2025-4ioa)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-277e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
