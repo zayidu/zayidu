@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4ie7)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4nll)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17ml)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-35cj)
-- [Differences between ArrayList and LinkedList in Java](https://dev.to/realnamehidden1_61/differences-between-arraylist-and-linkedlist-in-java-37mn)
+- [[Boost]](https://dev.to/ben/-34g2)
+- [Why index.html? The Unexpected Story Behind the Web&#39;s Most Famous Default File](https://dev.to/varshithvhegde/why-indexhtml-the-unexpected-story-behind-the-webs-most-famous-default-file-34f5)
+- [Headless CMS Integration: Building Flexible, API-Driven Digital Infrastructures](https://dev.to/thetechinsight/headless-cms-integration-building-flexible-api-driven-digital-infrastructures-n67)
+- [Aurora DSQL, una alternativa a PostgreSQL](https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25)
+- [Contribution Chronicles: My Epic Hacktoberfest 2025 Adventure 🚀](https://dev.to/aniruddhaadak/contribution-chronicles-my-epic-hacktoberfest-2025-adventure-4i5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
