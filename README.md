@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0)
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e)
-- [Building Privacy-Safe Attribution Pipelines: A Marketer’s Engineering Approach](https://dev.to/saka_satish_661/building-privacy-safe-attribution-pipelines-a-marketers-engineering-approach-578l)
-- [Why DFS Topological Sort Writes Nodes on Backtracking](https://dev.to/haris_abdullah_b8fc481573/why-dfs-topological-sort-writes-nodes-on-backtracking-2p34)
-- [Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I](https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1)
+- [ROS2 Publisher Node.](https://dev.to/naguballa77/ros2-publisher-node-4758)
+- [How to Stop Time from Expanding: The Real Lesson Behind Parkinson’s Law &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-stop-time-from-expanding-the-real-lesson-behind-parkinsons-law-bite-size-article-51l4)
+- [Battle Scars from the Cloud Front](https://dev.to/cheetah100/battle-scars-from-the-cloud-front-34g8)
+- [Luxury Birthday Presents for Boyfriend UK: Elevate His Day with Style &amp; Sentiment](https://dev.to/smithwilliam/luxury-birthday-presents-for-boyfriend-uk-elevate-his-day-with-style-sentiment-179i)
+- [Why Data-Driven Monetization Systems Are the Future of SaaS Growth](https://dev.to/kapusto/why-data-driven-monetization-systems-are-the-future-of-saas-growth-488d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
