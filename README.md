@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ROS2 Publisher Node.](https://dev.to/naguballa77/ros2-publisher-node-4758)
-- [How to Stop Time from Expanding: The Real Lesson Behind Parkinson’s Law &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-stop-time-from-expanding-the-real-lesson-behind-parkinsons-law-bite-size-article-51l4)
-- [Battle Scars from the Cloud Front](https://dev.to/cheetah100/battle-scars-from-the-cloud-front-34g8)
-- [Luxury Birthday Presents for Boyfriend UK: Elevate His Day with Style &amp; Sentiment](https://dev.to/smithwilliam/luxury-birthday-presents-for-boyfriend-uk-elevate-his-day-with-style-sentiment-179i)
-- [Why Data-Driven Monetization Systems Are the Future of SaaS Growth](https://dev.to/kapusto/why-data-driven-monetization-systems-are-the-future-of-saas-growth-488d)
+- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-47ke)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-522c)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-44jl)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5elc)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2o4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
