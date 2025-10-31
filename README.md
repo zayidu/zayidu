@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RK3568: New Look](https://dev.to/dongpei_liao_8092a14d7c50/rk3568-new-look-2m4h)
-- [How Data Science Shapes Political Campaigns: Inside Modern Party Strategy](https://dev.to/nomidlseo/how-data-science-shapes-political-campaigns-inside-modern-party-strategy-1l39)
-- [Reflection on my Contribution to Open Source in 2025 Hacktoberfest](https://dev.to/laikokwui/reflection-on-my-contribution-to-open-source-in-2025-hacktoberfest-47bm)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--1hhe)
-- [The Hybrid Thinking](https://dev.to/muzammildev/the-hybrid-thinking-mjo)
+- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-4gm2)
+- [Which APIs or SDKs Work Best for Connecting AI Models with RPA Tools Like UiPath or Automation Anywhere?](https://dev.to/smit_gohel/which-apis-or-sdks-work-best-for-connecting-ai-models-with-rpa-tools-like-uipath-or-automation-2mlc)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-2fg5)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2dpj)
+- [How to Build Real-Time Video Chat Applications with WebRTC](https://dev.to/softheartengineer/how-to-build-real-time-video-chat-applications-with-webrtc-471n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
