@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1)
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-47bm)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2gck)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5di3)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-20f2)
+- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
+- [Goodbye FormArray. Hello Signal Forms.](https://dev.to/brianmtreese/goodbye-formarray-hello-signal-forms-2haa)
+- [How the Linux Kernel Expands Its List of Display Vendors](https://dev.to/jasonliu112/how-the-linux-kernel-expands-its-list-of-display-vendors-31e1)
+- [Understanding Primary Keys in Relational Databases: A Key to Data Integrity and Fast Lookups](https://dev.to/pdobadb/understanding-primary-keys-in-relational-databases-a-key-to-data-integrity-and-fast-lookups-2cka)
+- [Managing Goose Configurations Across Multiple Projects: A Practical Guide](https://dev.to/vietbui1999ru/managing-goose-configurations-across-multiple-projects-a-practical-guide-48ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
