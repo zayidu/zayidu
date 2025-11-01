@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I bind OLSRT to Node.js?](https://dev.to/javadinteger/how-can-i-bind-olsrt-to-nodejs-352m)
-- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
-- [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
-- [Graph Diffusion Transformers are In-Context Molecular Designers](https://dev.to/paperium/graph-diffusion-transformers-are-in-context-molecular-designers-3h0g)
-- [Infrastructure as Code: Terraform Magic Unleashed ⚡](https://dev.to/tavernetech/infrastructure-as-code-terraform-magic-unleashed-887)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2jn5)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ha3)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-232e)
+- [Excalidraw - Browser based app for hand drawn like diagrams](https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m)
+- [A Laravel website not proper render on desktop but fine in mobile](https://dev.to/magic_ofit_5656bd6b1eef2/a-laravel-website-not-proper-render-on-desktop-but-fine-in-mobile-2113)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
