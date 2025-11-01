@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-5be0)
-- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-455e)
-- [A Complete Guide to Rust Variables, Ownership, Lifetimes, and Memory Management](https://dev.to/amritsingh183/a-complete-guide-to-rust-ownership-lifetimes-and-memory-management-4j2a)
-- [Rust vs. Go: Type-Safe State Machines Explained Through Star Wars](https://dev.to/amritsingh183/rust-vs-go-type-safe-state-machines-explained-through-star-wars-4eib)
-- [Linked Lists in Rust 1.90.0: A Comprehensive Technical Guide](https://dev.to/amritsingh183/linked-lists-in-rust-1900-a-comprehensive-technical-guide-3965)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4pme)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-34pf)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4ok9)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1kmp)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-18n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
