@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5e92)
-- [AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management](https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13)
-- [Why AI Needs a Face: Building Dew, My Duolingo-Inspired AI Character](https://dev.to/uianimation/why-ai-needs-a-face-building-dew-my-duolingo-inspired-ai-character-43go)
-- [What&#39;s Hot in Hiring: Using AI to Predict Your Next Interview Questions](https://dev.to/mectora-official/whats-hot-in-hiring-using-ai-to-predict-your-next-interview-questions-4904)
-- [Building modern Flutter UIs with Hux: A comprehensive guide to Hux widgets](https://dev.to/zoegilbert/building-modern-flutter-uis-with-hux-a-comprehensive-guide-to-hux-widgets-bbg)
+- [Daily DSA and System Design Journal - 16](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-16-286n)
+- [Reflections on Open Source — Hacktoberfest 2025](https://dev.to/paulofreitas_py/2025-hacktoberfest-writing-challeng-146o)
+- [Open Source Is Our Operating System](https://dev.to/my_god_4ca6d407c2a1fb6cca/open-source-is-our-operating-system-djn)
+- [Myths and Facts about Thread Pool in Node.js](https://dev.to/boika_boy/myths-and-facts-about-thread-pool-in-nodejs-3dl5)
+- [Evaluating the success of generative AI often involves a cru](https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
