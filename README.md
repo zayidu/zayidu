@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2jn5)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ha3)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-232e)
-- [Excalidraw - Browser based app for hand drawn like diagrams](https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m)
-- [A Laravel website not proper render on desktop but fine in mobile](https://dev.to/magic_ofit_5656bd6b1eef2/a-laravel-website-not-proper-render-on-desktop-but-fine-in-mobile-2113)
+- [AI as Mathematical Muse: Unlocking the Universe&#39;s Secrets Together](https://dev.to/arvind_sundararajan/ai-as-mathematical-muse-unlocking-the-universes-secrets-together-4ccc)
+- [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
+- [iPlusCode - a small Chrome extension to make Codeforces a bit nicer](https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme)
+- [JavaScript Did not Crash. That Does not Mean It is Fine.](https://dev.to/intelgreatnez/-javascript-didnt-crash-that-doesnt-mean-its-fine-5cnd)
+- [The Digital Inheritance Crisis: A Technical Guide to Passing Crypto Assets &lpar;2026&rpar;](https://dev.to/glorioustechs/the-digital-inheritance-crisis-a-technical-guide-to-passing-crypto-assets-2026-7di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
