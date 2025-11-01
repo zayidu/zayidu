@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
-- [Build a Telegram Bot with ESP32-CAM for Remote Image &amp; Video Capture](https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-273d)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2pmd)
+- [AWS 2025 Retirements: Charting the Course Through Service Sunsets and Seamless Migrations](https://dev.to/muhammad_zeeshan_6499a22a/aws-2025-retirements-charting-the-course-through-service-sunsets-and-seamless-migrations-n3l)
+- [Master the Java charAt&lpar;&rpar; Method: Your Ultimate Guide with Examples &amp; Use Cases](https://dev.to/satyam_gupta_0d1ff2152dcc/master-the-java-charat-method-your-ultimate-guide-with-examples-use-cases-3742)
+- [Master Java String Methods: The Ultimate Guide with Real-World Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-string-methods-the-ultimate-guide-with-real-world-examples-2ej1)
+- [🧠 Soft Architecture &lpar;Part B&rpar;: Emotional Timers and the Code of Care &lpar;Part 5 of the SaijinOS series&rpar;](https://dev.to/kato_masato_c5593c81af5c6/soft-architecture-part-b-emotional-timers-and-the-code-of-carepart-5-of-the-saijinos-series-25b)
+- [Why 0.1 + 0.2 0.3 in JavaScript: The Truth About Floating-Point Numbers](https://dev.to/zaidrehman/why-01-02-03-in-javascript-the-truth-about-floating-point-numbers-550e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
