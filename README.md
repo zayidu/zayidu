@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-15)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5bm0)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-545e)
-- [Hacktoberfest participation: Event Server](https://dev.to/cynthia_f/hacktoberfest-participation-event-server-3932)
-- [🚀Master the Basics of Git in Minutes!](https://dev.to/omsaidesaii/master-the-basics-of-git-in-minutes-4l7l)
+- [Learn SQL the Smart Way: My Complete Dev Setup in Docker &amp; VS Code - Part 2](https://dev.to/arasruislam/learn-sql-the-smart-way-my-complete-dev-setup-in-docker-vs-code-part-2-48gg)
+- [Day 21: Turn-Based FizzBuzz Game – Player vs Machine in Python](https://dev.to/shahrouzlogs/day-21-turn-based-fizzbuzz-game-player-vs-machine-in-python-314c)
+- [Azure Data Factory — The Conveyor Belt of Data in the Cloud](https://dev.to/dotnetfullstackdev/azure-data-factory-the-conveyor-belt-of-data-in-the-cloud-2d9d)
+- [The Importance of Recovery: Why Rest Days Are Just as Crucial as Workouts](https://dev.to/tehreem_seorankhive_6c6ea/the-importance-of-recovery-why-rest-days-are-just-as-crucial-as-workouts-556l)
+- [The Surprising Reason ETHWomen’s U.S. Playbook Is Reshaping Web3 &lpar;and Why Old Inclusion Models Are Failing&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-reason-ethwomens-us-playbook-is-reshaping-web3-and-why-old-inclusion-models-are-all)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
