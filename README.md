@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking the Musical Secrets of Ancient Civilizations: The](https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2)
-- [MCP Security](https://dev.to/barak_codes/mcp-security-45o8)
-- [📰 Major Tech News: Oct 31, 2025 : Big Tech&#39;s AI Spending Surge, Nvidia&#39;s Chip Partnerships, and OpenAI&#39;s Security Innovation](https://dev.to/om_shree_0709/major-tech-news-oct-31-2025-big-techs-ai-spending-surge-nvidias-chip-partnerships-and-3884)
-- [🎓 &quot;Amodal Completion&quot; in Computer Vision: Unveiling the Powe](https://dev.to/drcarlosruizviquez/amodal-completion-in-computer-vision-unveiling-the-powe-3bpp)
-- [MCP Security: Navigating the Exploit Playbook for Agent](https://dev.to/om_shree_0709/mcp-security-navigating-the-exploit-playbook-for-agent-56m7)
+- [I Skipped the Frontend Team. Here’s the 3,800-Character Prompt That Built My Startup&#39;s UI.](https://dev.to/pump_web_c125a746e2ec6f19/i-skipped-the-frontend-team-heres-the-3800-character-prompt-that-built-my-startups-ui-4107)
+- [The Rise of Agentic AI: Transforming Workflows in C# Development](https://dev.to/lofcz/the-rise-of-agentic-ai-transforming-workflows-in-c-development-2ki0)
+- [Hacktoberfest Recap](https://dev.to/kphero/hacktoberfest-recap-218n)
+- [Experiences in Hacktoberfest 2025](https://dev.to/slyang08/experiences-in-hacktoberfest-2025-pal)
+- [The Radical Shift That Could Triple Web3 Inclusion: Inside ETHWomen’s Zero-Cost U.S. Expansion](https://dev.to/paul_allen_ccfde9d33a48d5/the-radical-shift-that-could-triple-web3-inclusion-inside-ethwomens-zero-cost-us-expansion-5733)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
