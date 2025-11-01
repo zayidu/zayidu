@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS 2025 Retirements: Charting the Course Through Service Sunsets and Seamless Migrations](https://dev.to/muhammad_zeeshan_6499a22a/aws-2025-retirements-charting-the-course-through-service-sunsets-and-seamless-migrations-n3l)
-- [Master the Java charAt&lpar;&rpar; Method: Your Ultimate Guide with Examples &amp; Use Cases](https://dev.to/satyam_gupta_0d1ff2152dcc/master-the-java-charat-method-your-ultimate-guide-with-examples-use-cases-3742)
-- [Master Java String Methods: The Ultimate Guide with Real-World Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-string-methods-the-ultimate-guide-with-real-world-examples-2ej1)
-- [🧠 Soft Architecture &lpar;Part B&rpar;: Emotional Timers and the Code of Care &lpar;Part 5 of the SaijinOS series&rpar;](https://dev.to/kato_masato_c5593c81af5c6/soft-architecture-part-b-emotional-timers-and-the-code-of-carepart-5-of-the-saijinos-series-25b)
-- [Why 0.1 + 0.2 0.3 in JavaScript: The Truth About Floating-Point Numbers](https://dev.to/zaidrehman/why-01-02-03-in-javascript-the-truth-about-floating-point-numbers-550e)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-15kf)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4431)
+- [Build Your Own AI Chatbot Like ChatGPT — A Practical Guide with Code](https://dev.to/rajni_ai/build-your-own-ai-chatbot-like-chatgpt-a-practical-guide-with-code-573n)
+- [How To Make Emoticons With Your Keyboard](https://dev.to/emoticonhub/how-to-make-emoticons-with-your-keyboard-kn)
+- [How to Install Gemini CLI](https://dev.to/pritish_academy/how-to-install-gemini-cli-4744)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
