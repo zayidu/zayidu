@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using Vercel &lpar;And Built My Own Setup Instead&rpar;](https://dev.to/lotfijb/why-i-stopped-using-vercel-and-built-my-own-setup-instead-4b0g)
-- [My First Open Source Journey](https://dev.to/harshaabhi/my-first-open-source-journey-841)
-- [प्रारम्भिक वैदिक काल की राजनीतिक एवं आर्थिक परिस्थितियों का विश्लेषण](https://dev.to/04anilr/praarmbhik-vaidik-kaal-kii-raajniitik-evn-aarthik-pristhitiyon-kaa-vishlessnn-3fja)
-- [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
-- [Emma Mattress Discount Code UK – Huge Savings on Premium Sleep Solutions!](https://dev.to/john_matteo_0e50c378b8155/emma-mattress-discount-code-uk-huge-savings-on-premium-sleep-solutions-1f48)
+- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
+- [Build a Telegram Bot with ESP32-CAM for Remote Image &amp; Video Capture](https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-273d)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2pmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
