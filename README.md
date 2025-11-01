@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI as Mathematical Muse: Unlocking the Universe&#39;s Secrets Together](https://dev.to/arvind_sundararajan/ai-as-mathematical-muse-unlocking-the-universes-secrets-together-4ccc)
-- [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
-- [iPlusCode - a small Chrome extension to make Codeforces a bit nicer](https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme)
-- [JavaScript Did not Crash. That Does not Mean It is Fine.](https://dev.to/intelgreatnez/-javascript-didnt-crash-that-doesnt-mean-its-fine-5cnd)
-- [The Digital Inheritance Crisis: A Technical Guide to Passing Crypto Assets &lpar;2026&rpar;](https://dev.to/glorioustechs/the-digital-inheritance-crisis-a-technical-guide-to-passing-crypto-assets-2026-7di)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
+- [Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM](https://dev.to/prasadkjose/keeping-linux-responsive-taming-the-oom-killer-with-earlyoom-14ef)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2ai)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4p1m)
+- [Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
