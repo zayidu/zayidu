@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
-- [Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM](https://dev.to/prasadkjose/keeping-linux-responsive-taming-the-oom-killer-with-earlyoom-14ef)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2ai)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4p1m)
-- [Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c)
+- [Will Developers Survive AI Takeover? Part 3: What Happens If You Stay Old School?](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-3-what-happens-if-you-stay-old-school-4p5g)
+- [Sistema de Control de Jobs en Tiempo Real con Channels y Background Services en .NET](https://dev.to/isaacojeda/sistema-de-control-de-jobs-en-tiempo-real-con-channels-y-background-services-en-net-529e)
+- [Building Elegant Batch Jobs in Laravel with Clean Architecture](https://dev.to/eashigaev/building-elegant-batch-jobs-in-laravel-with-clean-architecture-431d)
+- [Covering index for $group/$sum in MongoDB aggregation &lpar;with hint&rpar;](https://dev.to/franckpachot/covering-index-for-group-in-mongodb-aggregation-with-hint-4e6m)
+- [Unlock Dual Revenue Streams: Monetizing Your LLM Apps with AI Conversations](https://dev.to/monetzly/unlock-dual-revenue-streams-monetizing-your-llm-apps-with-ai-conversations-476d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
