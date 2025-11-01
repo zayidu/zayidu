@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Skipped the Frontend Team. Here’s the 3,800-Character Prompt That Built My Startup&#39;s UI.](https://dev.to/pump_web_c125a746e2ec6f19/i-skipped-the-frontend-team-heres-the-3800-character-prompt-that-built-my-startups-ui-4107)
-- [The Rise of Agentic AI: Transforming Workflows in C# Development](https://dev.to/lofcz/the-rise-of-agentic-ai-transforming-workflows-in-c-development-2ki0)
-- [Hacktoberfest Recap](https://dev.to/kphero/hacktoberfest-recap-218n)
-- [Experiences in Hacktoberfest 2025](https://dev.to/slyang08/experiences-in-hacktoberfest-2025-pal)
-- [The Radical Shift That Could Triple Web3 Inclusion: Inside ETHWomen’s Zero-Cost U.S. Expansion](https://dev.to/paul_allen_ccfde9d33a48d5/the-radical-shift-that-could-triple-web3-inclusion-inside-ethwomens-zero-cost-us-expansion-5733)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-15)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5bm0)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-545e)
+- [Hacktoberfest participation: Event Server](https://dev.to/cynthia_f/hacktoberfest-participation-event-server-3932)
+- [🚀Master the Basics of Git in Minutes!](https://dev.to/omsaidesaii/master-the-basics-of-git-in-minutes-4l7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
