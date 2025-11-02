@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Major Tech News: November 1st, 2025 — Nvidia&#39;s Korean AI Surge, Energy Pressures Mount, and Video AI Takes Center Stage](https://dev.to/om_shree_0709/major-tech-news-november-1st-2025-nvidias-korean-ai-surge-energy-pressures-mount-and-video-592g)
-- [Looking forward to this when it comes out on streaming. I saw the original in the theatres when I was a kid and was hooked. Loved the second one mostly because of Daft Punk’s score &lpar;and cameo&rpar;—so fitting. And this one is scored by NIN! https://youtu.be/ILu](https://dev.to/mikeydorje/looking-forward-to-this-when-it-comes-out-on-streaming-i-saw-the-original-in-the-theatres-when-i-2adg)
-- [🌀 Brent&#39;s Algorithm Explained – Faster Cycle Detection for Beginners](https://dev.to/om_shree_0709/brents-algorithm-explained-faster-cycle-detection-for-beginners-1j5k)
-- [AndesVL Technical Report: An Efficient Mobile-side Multimodal Large LanguageModel](https://dev.to/paperium/andesvl-technical-report-an-efficient-mobile-side-multimodal-large-languagemodel-3n1c)
-- [life is a meme!](https://dev.to/bibimbop123/life-is-a-meme-43fm)
+- [Auditing All Shared Files in Google Drive with Apps Script](https://dev.to/terryds/auditing-all-shared-files-in-google-drive-with-apps-script-4c98)
+- [The Shift Toward Reactive Programming in Modern Web Development](https://dev.to/softwaredeveloper01/the-shift-toward-reactive-programming-in-modern-web-development-10dd)
+- [GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded](https://dev.to/abdelrahman_elsaheir_11d8/gmx-v1-exploit-analysis-how-a-42m-classic-reentrancy-attack-unfolded-9o1)
+- [How to Create and Publish a Flutter Package on pub.dev](https://dev.to/mouayed_amr_91537efe31bb8/how-to-create-and-publish-a-flutter-package-on-pubdev-1dmh)
+- [¿Qué Son los Genéricos?](https://dev.to/fiedric/notas-conceptuales-que-son-los-genericos-5bdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
