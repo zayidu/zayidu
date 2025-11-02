@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-4c8j)
-- [Managing Terraform Modules with Nx Monorepo](https://dev.to/slashgear_/managing-terraform-modules-with-nx-monorepo-4jfa)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-43j)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3hhg)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4db0)
+- [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
+- [Building a Data-Driven Advantage in Commercial Insurance](https://dev.to/kapusto/building-a-data-driven-advantage-in-commercial-insurance-3od2)
+- [Helios Engine v0.3.4](https://dev.to/ammar-alnagar/helios-engine-v034-30pn)
+- [Deep Integration and the Convergence of Model Architecture and Hardware in AI](https://dev.to/maurizio_morri_f7f4bd128c/deep-integration-and-the-convergence-of-model-architecture-and-hardware-in-ai-4265)
+- [Strengthening Active Directory Security Through Continuous Monitoring and Rapid Recovery](https://dev.to/kapusto/strengthening-active-directory-security-through-continuous-monitoring-and-rapid-recovery-2487)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
