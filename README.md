@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anamaria/-3dom)
-- [Criar Builds de App RN](https://dev.to/henriquepablo/criar-builds-de-app-rn-27bg)
-- [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully OpenMLLMs](https://dev.to/paperium/bee-a-high-quality-corpus-and-full-stack-suite-to-unlock-advanced-fully-openmllms-478o)
-- [The Last Four PRs for 2025](https://dev.to/gracieamser/the-last-four-prs-for-2025-389j)
-- [Unicorn Platform Streamlines Web Development with Next-Level AI Assistance](https://dev.to/unicornsblog/unicorn-platform-streamlines-web-development-with-next-level-ai-assistance-9ej)
+- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-40b5)
+- [HacktoberFest: Return to Animation](https://dev.to/jarvisscript/hacktoberfest-return-to-animation-i1d)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-22p9)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2op4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
