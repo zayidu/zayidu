@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FlashWorld: High-quality 3D Scene Generation within Seconds](https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk)
-- [Everything You Need to Know About AI — In One Repository](https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5)
-- [Flutter Development Setup for WSL2 + Windows Android Studio &lpar;Complete Guide&rpar;](https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3am3)
-- [Is Microsoft Recall Worth Using in 2025?](https://dev.to/nodminger/is-microsoft-recall-worth-using-in-2025-2m4l)
+- [Deep Dive into Scala 3 Macros: Building a Custom String Interpolator](https://dev.to/depa_reddy_5e0e3025aa6eed/deep-dive-into-scala-3-macros-building-a-custom-string-interpolator-354j)
+- [Smart_Store API Guide: Exporting and Importing with Confidence](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-api-guide-exporting-and-importing-with-confidence-21d5)
+- [Climbing the Ranks: My CSSBattle #37 Journey 🏁](https://dev.to/jitheshpoojari/climbing-the-ranks-my-cssbattle-37-journey-3p90)
+- [Glyph Catalog Launches on Product Hunt 🚀](https://dev.to/jitheshpoojari/glyph-catalog-launches-on-product-hunt-4fj2)
+- [A Quick Guide to Uniface&#39;s `lineartime` Data Type ⏱️](https://dev.to/petercode/a-quick-guide-to-unifaces-lineartime-data-type-4b3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
