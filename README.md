@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cells, Queries, and Chaos: The Game of Life in SQL!](https://dev.to/hetarth02/cells-queries-and-chaos-the-game-of-life-in-sql-49ab)
-- [AI SDLC Transformation — Part 1: Where to Start?](https://dev.to/ogasimov/ai-sdlc-transformation-part-1-where-to-start-1jm1)
-- [Two Simple Tools to Convert Between PDF and PNG — 100% Free and Online](https://dev.to/owen_ae938ccb2150fbe7f689/two-simple-tools-to-convert-between-pdf-and-png-100-free-and-online-5af6)
-- [Day 19 of Documenting my learning Journey](https://dev.to/james_kabuga/day-19-of-documenting-my-learning-journey-4mg1)
-- [AI-Powered Customer Insights: Turning Data into Strategy](https://dev.to/bell_drailing_96a7e7c0b5c/ai-powered-customer-insights-turning-data-into-strategy-31bd)
+- [Part 2: Building MCP Servers to Control a Home Coffee Roaster - An Agentic Development Journey with Warp Agent](https://dev.to/syamaner/part-2-building-mcp-servers-to-control-a-home-coffee-roaster-an-agentic-development-journey-with-58ik)
+- [The biggest pitfall of React Context - Unwanted re-render](https://dev.to/rdd_d9d31a9bee259e6c/the-biggest-pitfall-of-react-context-unwanted-re-render-2ok0)
+- [AI in Email Marketing: How Artificial Intelligence Is Redefining Customer Communication](https://dev.to/babahakka/ai-in-email-marketing-how-artificial-intelligence-is-redefining-customer-communication-1f53)
+- [How I Crushed Timestamp Storage by 56% with Bit Packing](https://dev.to/danexcodr/how-i-crushed-timestamp-storage-by-56-with-bit-packing-555k)
+- [How I Built My Developer Portfolio with Vite, React, and Bun — Fast, Modern &amp; Fully Customizable](https://dev.to/dainyjose/how-i-built-my-developer-portfolio-with-vite-react-and-bun-fast-modern-fully-customizable-410b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
