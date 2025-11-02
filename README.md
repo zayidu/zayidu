@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Building MCP Servers to Control a Home Coffee Roaster - An Agentic Development Journey with Warp Agent](https://dev.to/syamaner/part-2-building-mcp-servers-to-control-a-home-coffee-roaster-an-agentic-development-journey-with-58ik)
-- [The biggest pitfall of React Context - Unwanted re-render](https://dev.to/rdd_d9d31a9bee259e6c/the-biggest-pitfall-of-react-context-unwanted-re-render-2ok0)
-- [AI in Email Marketing: How Artificial Intelligence Is Redefining Customer Communication](https://dev.to/babahakka/ai-in-email-marketing-how-artificial-intelligence-is-redefining-customer-communication-1f53)
-- [How I Crushed Timestamp Storage by 56% with Bit Packing](https://dev.to/danexcodr/how-i-crushed-timestamp-storage-by-56-with-bit-packing-555k)
-- [How I Built My Developer Portfolio with Vite, React, and Bun — Fast, Modern &amp; Fully Customizable](https://dev.to/dainyjose/how-i-built-my-developer-portfolio-with-vite-react-and-bun-fast-modern-fully-customizable-410b)
+- [Java&#39;s Agentic Framework Boom is a Code Smell](https://dev.to/avoguru/javas-agentic-framework-boom-is-a-code-smell-5eni)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-33g3)
+- [pygitzen : a Python TUI Git client inspired by LazyGit!](https://dev.to/sunny_tamang_a2bce7dea658/pygitzen-a-python-tui-git-client-inspired-by-lazygit-5a1g)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2702)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-17ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
