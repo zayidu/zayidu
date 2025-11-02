@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-j93)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-39ll)
-- [Navigating the Future: Mastering Dijkstra&#39;s Algorithm with Data Structures](https://dev.to/vjnvisakh/navigating-the-future-mastering-dijkstras-algorithm-with-data-structures-2618)
-- [No One Has This Problem? Just Me? OK.](https://dev.to/realvorl/no-one-has-this-problem-just-me-ok-3oon)
-- [Open Deep Research Internals: A Step-by-Step Architecture Guide](https://dev.to/bolshchikov/open-deep-research-internals-a-step-by-step-architecture-guide-2ibk)
+- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
+- [PHP vs Node.js: A Real-World Performance Comparison](https://dev.to/sureshr/php-vs-nodejs-a-real-world-performance-comparison-l2)
+- [🚀 Hello, Kubernetes! A Hands-On Guide to Deploying Your First App on GKE description](https://dev.to/jay_sheth/hello-kubernetes-a-hands-on-guide-to-deploying-your-first-app-on-gke-description-28gi)
+- [Level Up Your Code: How AI is Changing the Development Game](https://dev.to/karthik_n/level-up-your-code-how-ai-is-changing-the-development-game-2f7f)
+- [Why AI Needs Human Oversight for Architecture: A Real Refactoring Story](https://dev.to/heyradcode/why-ai-needs-human-oversight-for-architecture-a-real-refactoring-story-4l3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
