@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java&#39;s Agentic Framework Boom is a Code Smell](https://dev.to/avoguru/javas-agentic-framework-boom-is-a-code-smell-5eni)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-33g3)
-- [pygitzen : a Python TUI Git client inspired by LazyGit!](https://dev.to/sunny_tamang_a2bce7dea658/pygitzen-a-python-tui-git-client-inspired-by-lazygit-5a1g)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2702)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-17ao)
+- [[Boost]](https://dev.to/anamaria/-3dom)
+- [Criar Builds de App RN](https://dev.to/henriquepablo/criar-builds-de-app-rn-27bg)
+- [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully OpenMLLMs](https://dev.to/paperium/bee-a-high-quality-corpus-and-full-stack-suite-to-unlock-advanced-fully-openmllms-478o)
+- [The Last Four PRs for 2025](https://dev.to/gracieamser/the-last-four-prs-for-2025-389j)
+- [Unicorn Platform Streamlines Web Development with Next-Level AI Assistance](https://dev.to/unicornsblog/unicorn-platform-streamlines-web-development-with-next-level-ai-assistance-9ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
