@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [birthday Sahya Noa](https://dev.to/setiyowen/birthday-15mp)
-- [AI&#39;s $1B Problem: Can Human Labor Be Replaced for Profit?](https://dev.to/mabualzait/ais-1b-problem-can-human-labor-be-replaced-for-profit-4p8a)
-- [Hello](https://dev.to/safal_bhandari/hello-2dne)
-- [Project 2](https://dev.to/johnphan2408/project-2-7c9)
-- [Why Are Data Quality and Governance the Real Foundations for Agentic AI Success?](https://dev.to/jay_all_day/why-are-data-quality-and-governance-the-real-foundations-for-agentic-ai-success-7kj)
+- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a)
+- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-51fd)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2928)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
