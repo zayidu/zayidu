@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Auditing All Shared Files in Google Drive with Apps Script](https://dev.to/terryds/auditing-all-shared-files-in-google-drive-with-apps-script-4c98)
-- [The Shift Toward Reactive Programming in Modern Web Development](https://dev.to/softwaredeveloper01/the-shift-toward-reactive-programming-in-modern-web-development-10dd)
-- [GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded](https://dev.to/abdelrahman_elsaheir_11d8/gmx-v1-exploit-analysis-how-a-42m-classic-reentrancy-attack-unfolded-9o1)
-- [How to Create and Publish a Flutter Package on pub.dev](https://dev.to/mouayed_amr_91537efe31bb8/how-to-create-and-publish-a-flutter-package-on-pubdev-1dmh)
-- [¿Qué Son los Genéricos?](https://dev.to/fiedric/notas-conceptuales-que-son-los-genericos-5bdd)
+- [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4o6a)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1okm)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-hgd)
+- [Arrays: What you should know](https://dev.to/vernoc_bom_afdcd3801d494d/arrays-what-you-should-know-fp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
