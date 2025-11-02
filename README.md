@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Scala 3 Macros: Building a Custom String Interpolator](https://dev.to/depa_reddy_5e0e3025aa6eed/deep-dive-into-scala-3-macros-building-a-custom-string-interpolator-354j)
-- [Smart_Store API Guide: Exporting and Importing with Confidence](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-api-guide-exporting-and-importing-with-confidence-21d5)
-- [Climbing the Ranks: My CSSBattle #37 Journey 🏁](https://dev.to/jitheshpoojari/climbing-the-ranks-my-cssbattle-37-journey-3p90)
-- [Glyph Catalog Launches on Product Hunt 🚀](https://dev.to/jitheshpoojari/glyph-catalog-launches-on-product-hunt-4fj2)
-- [A Quick Guide to Uniface&#39;s `lineartime` Data Type ⏱️](https://dev.to/petercode/a-quick-guide-to-unifaces-lineartime-data-type-4b3p)
+- [Cells, Queries, and Chaos: The Game of Life in SQL!](https://dev.to/hetarth02/cells-queries-and-chaos-the-game-of-life-in-sql-49ab)
+- [AI SDLC Transformation — Part 1: Where to Start?](https://dev.to/ogasimov/ai-sdlc-transformation-part-1-where-to-start-1jm1)
+- [Two Simple Tools to Convert Between PDF and PNG — 100% Free and Online](https://dev.to/owen_ae938ccb2150fbe7f689/two-simple-tools-to-convert-between-pdf-and-png-100-free-and-online-5af6)
+- [Day 19 of Documenting my learning Journey](https://dev.to/james_kabuga/day-19-of-documenting-my-learning-journey-4mg1)
+- [AI-Powered Customer Insights: Turning Data into Strategy](https://dev.to/bell_drailing_96a7e7c0b5c/ai-powered-customer-insights-turning-data-into-strategy-31bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
