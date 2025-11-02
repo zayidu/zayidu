@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From QA to Indie Dev: My Two Years in Hacktoberfest](https://dev.to/ivan_oranciuc_06d81e3a2ac/from-qa-to-indie-dev-my-two-years-in-hacktoberfest-4e6d)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-46d5)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2baf)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4m2)
-- [Your Web App Keeps Running in Hidden Tabs — Here’s the Fix](https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h)
+- [Introducing Realm9: Solving Enterprise Environment Chaos with AI](https://dev.to/prasadp/introducing-realm9-solving-enterprise-environment-chaos-with-ai-2ke1)
+- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
+- [I built a WAF in Golang](https://dev.to/1rhino2/i-built-a-waf-in-golang-3i9e)
+- [Secrets in .NET: Why Strings Are Not Safe &lpar;and What to Do Instead&rpar;](https://dev.to/bwi/secrets-in-net-why-strings-are-not-safe-and-what-to-do-instead-3g3p)
+- [ForkQuest - Zork, but you fork the universe](https://dev.to/datadr1ven/forkquest-zork-but-you-fork-the-universe-2n37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
