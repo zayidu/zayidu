@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Understood This Magic CSS Snippet](https://dev.to/alok38/i-finally-understood-this-magic-css-snippet-5237)
-- [Build Your Own Forum with FastAPI: Step 9 - Upload Images](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-9-upload-images-46of)
-- [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
-- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
-- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [Can We Trust AI Browsers?](https://dev.to/abdelghani_alhijawi_499197ca/can-we-trust-ai-browsers-36hk)
+- [🚀 Understanding $sys\_charset in Uniface 10.4](https://dev.to/petercode/understanding-syscharset-in-uniface-104-f13)
+- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-4bm4)
+- [🔍 Understanding the $syntax Function in Uniface 10.4](https://dev.to/petercode/understanding-the-syntax-function-in-uniface-104-4kjg)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4dd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
