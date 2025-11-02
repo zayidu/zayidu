@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Developers Survive AI Takeover? Part 3: What Happens If You Stay Old School?](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-3-what-happens-if-you-stay-old-school-4p5g)
-- [Sistema de Control de Jobs en Tiempo Real con Channels y Background Services en .NET](https://dev.to/isaacojeda/sistema-de-control-de-jobs-en-tiempo-real-con-channels-y-background-services-en-net-529e)
-- [Building Elegant Batch Jobs in Laravel with Clean Architecture](https://dev.to/eashigaev/building-elegant-batch-jobs-in-laravel-with-clean-architecture-431d)
-- [Covering index for $group/$sum in MongoDB aggregation &lpar;with hint&rpar;](https://dev.to/franckpachot/covering-index-for-group-in-mongodb-aggregation-with-hint-4e6m)
-- [Unlock Dual Revenue Streams: Monetizing Your LLM Apps with AI Conversations](https://dev.to/monetzly/unlock-dual-revenue-streams-monetizing-your-llm-apps-with-ai-conversations-476d)
+- [📰 Major Tech News: November 1st, 2025 — Nvidia&#39;s Korean AI Surge, Energy Pressures Mount, and Video AI Takes Center Stage](https://dev.to/om_shree_0709/major-tech-news-november-1st-2025-nvidias-korean-ai-surge-energy-pressures-mount-and-video-592g)
+- [Looking forward to this when it comes out on streaming. I saw the original in the theatres when I was a kid and was hooked. Loved the second one mostly because of Daft Punk’s score &lpar;and cameo&rpar;—so fitting. And this one is scored by NIN! https://youtu.be/ILu](https://dev.to/mikeydorje/looking-forward-to-this-when-it-comes-out-on-streaming-i-saw-the-original-in-the-theatres-when-i-2adg)
+- [🌀 Brent&#39;s Algorithm Explained – Faster Cycle Detection for Beginners](https://dev.to/om_shree_0709/brents-algorithm-explained-faster-cycle-detection-for-beginners-1j5k)
+- [AndesVL Technical Report: An Efficient Mobile-side Multimodal Large LanguageModel](https://dev.to/paperium/andesvl-technical-report-an-efficient-mobile-side-multimodal-large-languagemodel-3n1c)
+- [life is a meme!](https://dev.to/bibimbop123/life-is-a-meme-43fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
