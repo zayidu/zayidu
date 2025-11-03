@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
-- [Build a Website Application for Free in 2 Hours with Vibe Coding](https://dev.to/jackynote/build-a-website-application-for-free-in-2-hours-with-vibe-coding-16ci)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
-- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
+- [Real-Time Crypto Data Pipeline with Change Data Capture &lpar;CDC&rpar; Using PostgreSQL, Kafka, Cassandra, and Grafana](https://dev.to/augo_amos/real-time-crypto-data-pipeline-with-change-data-capture-cdc-using-postgresql-kafka-cassandra-3ip7)
+- [Laravel Validation after&lpar;&rpar; - After What, Exactly?](https://dev.to/tegos/laravel-validation-after-after-what-exactly-28fa)
+- [Beyond Brute Force: AI That Thinks Like an Engineer by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-brute-force-ai-that-thinks-like-an-engineer-by-arvind-sundararajan-2dcl)
+- [Agent conversation context with AWS Bedrock AgentCore Memory](https://dev.to/szymonszym/agent-conversation-context-with-aws-bedrock-agentcore-memory-252c)
+- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
