@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4dha)
-- [🤖 Gemini dans votre terminal avec Gemini CLI](https://dev.to/zenika/gemini-dans-votre-terminal-avec-gemini-cli-1b6i)
-- [5 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Cloud &amp; Υποδομή.](https://dev.to/__b63657/5-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-cloud--2dfm)
-- [5 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Θεμελιώδεις Αρχές Αρχιτεκτονικής.](https://dev.to/__b63657/5-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-themeliodeis-3cog)
-- [Ever spent a full day rebuilding something your users will never notice? I just did. And it was absolutely worth it.](https://dev.to/howard_shaw_3c36a3a6cb900/ever-spent-a-full-day-rebuilding-something-your-users-will-never-notice-i-just-did-and-it-was-2hm5)
+- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
+- [An Engineering Manifesto](https://dev.to/bitfootco/an-engineering-manifesto-mdk)
+- [What is Load Factor and Initial Capacity in HashMap?](https://dev.to/realnamehidden1_61/what-is-load-factor-and-initial-capacity-in-hashmap-2j11)
+- [Difference between HashMap and ConcurrentHashMap in Java](https://dev.to/realnamehidden1_61/difference-between-hashmap-and-concurrenthashmap-in-java-5cha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
