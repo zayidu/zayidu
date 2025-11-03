@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Steal This Trick to Stop Burning Out on Short-Form Video Content](https://dev.to/henry_hoover_62cda4f8d3b2/steal-this-trick-to-stop-burning-out-on-short-form-video-content-377i)
-- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
-- [😈 Dare to Commit Secrets to GitHub? With SOPS &amp; GPG, I Do! 🤫](https://dev.to/prateekwayne/dare-to-commit-secrets-to-github-with-sops-gpg-i-do-c7f)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1e3l)
-- [Quark’s Outlines: Python Class Instances](https://dev.to/mike-vincent/quarks-outlines-python-class-instances-23cn)
+- [Delivering Greenfield Projects: Getting the Foundations Right](https://dev.to/audaciatechnology/delivering-greenfield-projects-getting-the-foundations-right-432e)
+- [Outil de Cybersécurité du Jour - Nov 3, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-3-2025-4968)
+- [Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math](https://dev.to/paperium/hard2verify-a-step-level-verification-benchmark-for-open-ended-frontier-math-3l1g)
+- [Announcing Brighter V10: A Major Release with Cloud Events, New Providers, and Enhanced Resilience](https://dev.to/actor-dev/announcing-brighter-v10-a-major-release-with-cloud-events-new-providers-and-enhanced-resilience-kjf)
+- [How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats](https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
