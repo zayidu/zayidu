@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Cube: How Competitive Rubik’s Cube Algorithms Inspire Modern AI and Programming](https://dev.to/gowtham_e9296cf2c1012d9c0/cracking-the-cube-how-competitive-rubiks-cube-algorithms-inspire-modern-ai-and-programming-3m2e)
-- [HNG Internship Stage 1: String Analyzer API](https://dev.to/abisoyeo/hng-internship-stage-1-string-analyzer-api-286)
-- [Building AI Co-workers That Actually Think With You](https://dev.to/abisoyeo/building-ai-co-workers-that-actually-think-with-you-bee)
-- [Show &amp; Tell: go-docx v2.0.0 - Create &amp; modify Word documents in Go](https://dev.to/mmonterroca_8/show-tell-go-docx-v200-create-modify-word-documents-in-go-4ekh)
-- [Title: LLMs for Your Business: Is it Better to Retrain the Brain or Give it an Open Book? &lpar;RAG vs. Fine-Tuning&rpar;](https://dev.to/jay_ram_fafd69c582d5ba092/title-llms-for-your-business-is-it-better-to-retrain-the-brain-or-give-it-an-open-book-rag-vs-1717)
+- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
+- [Building Trinity Protocol v3.1: A Deep Dive into 2-of-3 Multi-Chain Consensus](https://dev.to/chronosvault/building-trinity-protocol-v31-a-deep-dive-into-2-of-3-multi-chain-consensus-139j)
+- [Reflections of Hacktoberfest](https://dev.to/aloisseckar/reflections-of-hacktoberfest-3ef2)
+- [Git Basics: A Beginner&#39;s Guide to Naming Conventions](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-naming-conventions-p2j)
+- [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
