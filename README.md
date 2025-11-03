@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
-- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
-- [Vercel統合Neonでブランチ制限に達した話と対処方法](https://dev.to/beachone1155/verceltong-he-neondeburantizhi-xian-nida-sitahua-todui-chu-fang-fa-lec)
-- [Building Syllabi – Agentic AI with Vercel AI SDK, Dynamic Tool Loading, and RAG](https://dev.to/achu_shankar_f3dfbb87441f/building-syllabi-agentic-ai-with-vercel-ai-sdk-dynamic-tool-loading-and-rag-2dbc)
-- [Maximizing Crypto Mining Efficiency with Advanced Cooling Solutions](https://dev.to/lianli/maximizing-crypto-mining-efficiency-with-advanced-cooling-solutions-mlh)
+- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
+- [Understanding the Design of Optimizers with me](https://dev.to/tri_vo/understanding-the-design-of-optimizers-with-me-18f)
+- [Building the Classic 2048 Game with HTML5 and JavaScript](https://dev.to/gamh5games/building-the-classic-2048-game-with-html5-and-javascript-fk7)
+- [I independently developed three AI tool websites: Architecture, Automation Stack, and Painful Lessons Learned.](https://dev.to/charlie_s_c9de68658cfe2a/i-independently-developed-three-ai-tool-websites-architecture-automation-stack-and-painful-28gh)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-55ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
