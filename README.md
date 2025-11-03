@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Realm9: Solving Enterprise Environment Chaos with AI](https://dev.to/prasadp/introducing-realm9-solving-enterprise-environment-chaos-with-ai-2ke1)
-- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
-- [I built a WAF in Golang](https://dev.to/1rhino2/i-built-a-waf-in-golang-3i9e)
-- [Secrets in .NET: Why Strings Are Not Safe &lpar;and What to Do Instead&rpar;](https://dev.to/bwi/secrets-in-net-why-strings-are-not-safe-and-what-to-do-instead-3g3p)
-- [ForkQuest - Zork, but you fork the universe](https://dev.to/datadr1ven/forkquest-zork-but-you-fork-the-universe-2n37)
+- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
+- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
+- [Adding Metrics as You Write Your Logs in Node.js](https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0)
+- [&quot;Building Mind’s Eye &amp; BinFlow: Architecting Web4’s Temporal Intelligence Layer&quot;](https://dev.to/peacebinflow/building-minds-eye-binflow-architecting-web4s-temporal-intelligence-layer-m9f)
+- [Building LAW-T: Creating a Time-Native Programming Language from Scratch](https://dev.to/peacebinflow/building-law-t-creating-a-time-native-programming-language-from-scratch-10ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
