@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Crypto Data Pipeline with Change Data Capture &lpar;CDC&rpar; Using PostgreSQL, Kafka, Cassandra, and Grafana](https://dev.to/augo_amos/real-time-crypto-data-pipeline-with-change-data-capture-cdc-using-postgresql-kafka-cassandra-3ip7)
-- [Laravel Validation after&lpar;&rpar; - After What, Exactly?](https://dev.to/tegos/laravel-validation-after-after-what-exactly-28fa)
-- [Beyond Brute Force: AI That Thinks Like an Engineer by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-brute-force-ai-that-thinks-like-an-engineer-by-arvind-sundararajan-2dcl)
-- [Agent conversation context with AWS Bedrock AgentCore Memory](https://dev.to/szymonszym/agent-conversation-context-with-aws-bedrock-agentcore-memory-252c)
-- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
+- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j)
+- [KT142C Chip – BUSY Pin Idle Voltage Only 0.2V? + Low Power Mode Configuration Guide](https://dev.to/ble-voice-cn/kt142c-chip-busy-pin-idle-voltage-only-02v-low-power-mode-configuration-guide-5f1g)
+- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj)
+- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i)
+- [App power by LLM and Tools in Elixir](https://dev.to/manhvanvu/app-power-by-llm-and-tools-in-elixir-2bgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
