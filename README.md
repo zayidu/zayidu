@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday! &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-1ip3)
-- [Java Testing Guide: How to Measure and Improve Code Coverage with JaCoCo](https://dev.to/taras_antoniuk_ea6a2fe7ee/java-testing-guide-how-to-measure-and-improve-code-coverage-with-jacoco-3p75)
-- [Another ChatGPT bluff? Would you give GPT access to all your apps, that&#39;s insane](https://dev.to/matiswhattheycall/another-chatgpt-bluff-would-you-give-gpt-access-to-all-your-apps-thats-insane-503e)
-- [Test Leadership as Change Management: Why Your Real Job Isn’t Testing](https://dev.to/cydavid/test-leadership-as-change-management-why-your-real-job-isnt-testing-27mh)
-- [AI and Immersive Marketing Experiences: Blurring the Line Between Reality and Imagination](https://dev.to/princess-ai/ai-and-immersive-marketing-experiences-blurring-the-line-between-reality-and-imagination-6ke)
+- [🔥 Top 5 Trending AI &amp; AGI Articles: September-November 2025](https://dev.to/aniruddhaadak/top-5-trending-ai-agi-articles-september-november-2025-3lo1)
+- [Boosting Wan2.2 I2V Inference on 8 H100s — 2.5 Faster with Sequence Parallelism &amp; Magcache](https://dev.to/muhammad_aliafridi_35ece/boosting-wan22-i2v-inference-on-8-h100s-25-faster-with-sequence-parallelism-magcache-4pfn)
+- [Build Your First Landing Page with Next.js + Tailwind &lpar;No Design Skills Needed&rpar;](https://dev.to/thekarlesi/build-your-first-landing-page-with-nextjs-tailwind-no-design-skills-needed-23jd)
+- [Transform web pages at the edge](https://dev.to/fastly/transform-web-pages-at-the-edge-1lop)
+- [EKS Networking Explained: Why am I running out of IPs? &lpar;Part 1&rpar;](https://dev.to/dap0am_/eks-networking-explained-why-am-i-running-out-of-ips-part-1-8f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
