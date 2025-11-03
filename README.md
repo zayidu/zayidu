@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
-- [Building Trinity Protocol v3.1: A Deep Dive into 2-of-3 Multi-Chain Consensus](https://dev.to/chronosvault/building-trinity-protocol-v31-a-deep-dive-into-2-of-3-multi-chain-consensus-139j)
-- [Reflections of Hacktoberfest](https://dev.to/aloisseckar/reflections-of-hacktoberfest-3ef2)
-- [Git Basics: A Beginner&#39;s Guide to Naming Conventions](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-naming-conventions-p2j)
-- [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
+- [Let&#39;s build a test runner in Elixir.](https://dev.to/w3ndo/lets-build-a-test-runner-in-elixir-4cl0)
+- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
+- [🚀 Introducing VulnFeed - Real-Time Vulnerability Tracking for CISA &amp; Red Hat](https://dev.to/secbyshresth/introducing-vulnfeed-real-time-vulnerability-tracking-for-cisa-red-hat-3h27)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-i1o)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
