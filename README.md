@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2p6)
-- [Coding Challenge Practice - Question 44](https://dev.to/tomivan/coding-challenge-practice-question-44-1ad2)
-- [Another test!](https://dev.to/ben/another-test-cjc)
-- [Building MoodMatch: An AI Agent That Understands Your Emotions](https://dev.to/olaitan34/building-moodmatch-an-ai-agent-that-understands-your-emotions-2m36)
+- [Whisper Board: Building a Private, Decentralized Messaging Experience with Waku](https://dev.to/bydotun/whisper-board-building-a-private-decentralized-messaging-experience-with-waku-2o79)
+- [The DSA Toolkit: #1 Sliding Window](https://dev.to/vmanav/the-dsa-toolkit-sliding-window-3j1n)
+- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
+- [Agentic Entropy-Balanced Policy Optimization](https://dev.to/paperium/agentic-entropy-balanced-policy-optimization-38gm)
+- [Building JobInsightAI: An Intelligent Telex Agent for Career Growth — HNG Stage 3 Backend Task](https://dev.to/kweku_annan/building-jobinsightai-an-intelligent-telex-agent-for-career-growth-hng-stage-3-backend-task-1pa6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
