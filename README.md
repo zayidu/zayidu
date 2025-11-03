@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
-- [An Engineering Manifesto](https://dev.to/bitfootco/an-engineering-manifesto-mdk)
-- [What is Load Factor and Initial Capacity in HashMap?](https://dev.to/realnamehidden1_61/what-is-load-factor-and-initial-capacity-in-hashmap-2j11)
-- [Difference between HashMap and ConcurrentHashMap in Java](https://dev.to/realnamehidden1_61/difference-between-hashmap-and-concurrenthashmap-in-java-5cha)
+- [DAFU🦉 Infrastructure Revolution: Docker, CLI, and Enterprise Automation Are Here! 🚀](https://dev.to/mfcankaya/dafu-infrastructure-revolution-docker-cli-and-enterprise-automation-are-here-2eko)
+- [Next.js 16: A Deep Dive into Cache Components with Real-World Examples](https://dev.to/mina_golzari_dalir/nextjs-16-a-deep-dive-into-cache-components-with-real-world-examples-4bno)
+- [Log Ninja: The Ultimate VS Code Extension for Effortless Debug Logging](https://dev.to/rakeshgombi/log-ninja-the-ultimate-vs-code-extension-for-effortless-debug-logging-47fb)
+- [React Hooks: A Comprehensive Cheatsheet &amp; Guide](https://dev.to/mahdardavari/react-hooks-a-comprehensive-cheatsheet-guide-35f)
+- [Understanding LangChain and LangGraph: A Beginner’s Guide to AI Workflows](https://dev.to/manishmshiva/understanding-langchain-and-langgraph-a-beginners-guide-to-ai-workflows-1aeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
