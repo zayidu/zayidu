@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s build a test runner in Elixir.](https://dev.to/w3ndo/lets-build-a-test-runner-in-elixir-4cl0)
-- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
-- [🚀 Introducing VulnFeed - Real-Time Vulnerability Tracking for CISA &amp; Red Hat](https://dev.to/secbyshresth/introducing-vulnfeed-real-time-vulnerability-tracking-for-cisa-red-hat-3h27)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-i1o)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1i6)
+- [Mastering Feature-Sliced Design: Lessons from Real Projects](https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida)
+- [Spatial Sense: Unleashing Language Models on Location Data by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spatial-sense-unleashing-language-models-on-location-data-by-arvind-sundararajan-2ckf)
+- [Building a Production-Ready AI Agent](https://dev.to/luvie/building-a-production-ready-ai-agent-28o5)
+- [5h de lecture résumées en 1 clic avec l&#39;IA](https://dev.to/philippe_5e14cfe574186958/5h-de-lecture-resumees-en-1-clic-avec-lia-1fi)
+- [Auto-Generate Flutter Translations](https://dev.to/mostafa_ead/auto-generate-flutter-translations-l81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
