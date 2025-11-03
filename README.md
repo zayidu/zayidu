@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Feature-Sliced Design: Lessons from Real Projects](https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida)
-- [Spatial Sense: Unleashing Language Models on Location Data by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spatial-sense-unleashing-language-models-on-location-data-by-arvind-sundararajan-2ckf)
-- [Building a Production-Ready AI Agent](https://dev.to/luvie/building-a-production-ready-ai-agent-28o5)
-- [5h de lecture résumées en 1 clic avec l&#39;IA](https://dev.to/philippe_5e14cfe574186958/5h-de-lecture-resumees-en-1-clic-avec-lia-1fi)
-- [Auto-Generate Flutter Translations](https://dev.to/mostafa_ead/auto-generate-flutter-translations-l81)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2p6)
+- [Coding Challenge Practice - Question 44](https://dev.to/tomivan/coding-challenge-practice-question-44-1ad2)
+- [Another test!](https://dev.to/ben/another-test-cjc)
+- [Building MoodMatch: An AI Agent That Understands Your Emotions](https://dev.to/olaitan34/building-moodmatch-an-ai-agent-that-understands-your-emotions-2m36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
