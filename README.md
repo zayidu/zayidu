@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
-- [Orchestrating Chaos: Unleashing the Power of Bio-Inspired AI for Autonomous System Design by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-chaos-unleashing-the-power-of-bio-inspired-ai-for-autonomous-system-design-by-arvind-5a1f)
-- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
-- [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
-- [🌍 Explore, Enjoy, Escape. — The Three E’s of a Beautiful Journey](https://dev.to/jatayuvai_6dcccf9b998e2ce/explore-enjoy-escape-the-three-es-of-a-beautiful-journey-48d1)
+- [Microfrontend architecture](https://dev.to/vinit_kotian_b31a215d8ae7/microfrontend-architecture-4ooj)
+- [Stay ahead in web development: latest news, tools, and insights #109](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844)
+- [99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster](https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084)
+- [UI/UX Design Trends for 2026: What Every Designer Should Know](https://dev.to/pixel_mosaic/uiux-design-trends-for-2026-what-every-designer-should-know-4179)
+- [🎃 Quote.Vote Hacktoberfest 2025 — Building Civic Tech, One Pull Request at a Time](https://dev.to/quotevote/quotevote-hacktoberfest-2025-building-civic-tech-one-pull-request-at-a-time-43l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
