@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
-- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
-- [Adding Metrics as You Write Your Logs in Node.js](https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0)
-- [&quot;Building Mind’s Eye &amp; BinFlow: Architecting Web4’s Temporal Intelligence Layer&quot;](https://dev.to/peacebinflow/building-minds-eye-binflow-architecting-web4s-temporal-intelligence-layer-m9f)
-- [Building LAW-T: Creating a Time-Native Programming Language from Scratch](https://dev.to/peacebinflow/building-law-t-creating-a-time-native-programming-language-from-scratch-10ok)
+- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
+- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
+- [Vercel統合Neonでブランチ制限に達した話と対処方法](https://dev.to/beachone1155/verceltong-he-neondeburantizhi-xian-nida-sitahua-todui-chu-fang-fa-lec)
+- [Building Syllabi – Agentic AI with Vercel AI SDK, Dynamic Tool Loading, and RAG](https://dev.to/achu_shankar_f3dfbb87441f/building-syllabi-agentic-ai-with-vercel-ai-sdk-dynamic-tool-loading-and-rag-2dbc)
+- [Maximizing Crypto Mining Efficiency with Advanced Cooling Solutions](https://dev.to/lianli/maximizing-crypto-mining-efficiency-with-advanced-cooling-solutions-mlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
