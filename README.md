@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Top 5 Trending AI &amp; AGI Articles: September-November 2025](https://dev.to/aniruddhaadak/top-5-trending-ai-agi-articles-september-november-2025-3lo1)
-- [Boosting Wan2.2 I2V Inference on 8 H100s — 2.5 Faster with Sequence Parallelism &amp; Magcache](https://dev.to/muhammad_aliafridi_35ece/boosting-wan22-i2v-inference-on-8-h100s-25-faster-with-sequence-parallelism-magcache-4pfn)
-- [Build Your First Landing Page with Next.js + Tailwind &lpar;No Design Skills Needed&rpar;](https://dev.to/thekarlesi/build-your-first-landing-page-with-nextjs-tailwind-no-design-skills-needed-23jd)
-- [Transform web pages at the edge](https://dev.to/fastly/transform-web-pages-at-the-edge-1lop)
-- [EKS Networking Explained: Why am I running out of IPs? &lpar;Part 1&rpar;](https://dev.to/dap0am_/eks-networking-explained-why-am-i-running-out-of-ips-part-1-8f3)
+- [Cracking the Cube: How Competitive Rubik’s Cube Algorithms Inspire Modern AI and Programming](https://dev.to/gowtham_e9296cf2c1012d9c0/cracking-the-cube-how-competitive-rubiks-cube-algorithms-inspire-modern-ai-and-programming-3m2e)
+- [HNG Internship Stage 1: String Analyzer API](https://dev.to/abisoyeo/hng-internship-stage-1-string-analyzer-api-286)
+- [Building AI Co-workers That Actually Think With You](https://dev.to/abisoyeo/building-ai-co-workers-that-actually-think-with-you-bee)
+- [Show &amp; Tell: go-docx v2.0.0 - Create &amp; modify Word documents in Go](https://dev.to/mmonterroca_8/show-tell-go-docx-v200-create-modify-word-documents-in-go-4ekh)
+- [Title: LLMs for Your Business: Is it Better to Retrain the Brain or Give it an Open Book? &lpar;RAG vs. Fine-Tuning&rpar;](https://dev.to/jay_ram_fafd69c582d5ba092/title-llms-for-your-business-is-it-better-to-retrain-the-brain-or-give-it-an-open-book-rag-vs-1717)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
