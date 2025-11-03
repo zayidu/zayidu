@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delivering Greenfield Projects: Getting the Foundations Right](https://dev.to/audaciatechnology/delivering-greenfield-projects-getting-the-foundations-right-432e)
-- [Outil de Cybersécurité du Jour - Nov 3, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-3-2025-4968)
-- [Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math](https://dev.to/paperium/hard2verify-a-step-level-verification-benchmark-for-open-ended-frontier-math-3l1g)
-- [Announcing Brighter V10: A Major Release with Cloud Events, New Providers, and Enhanced Resilience](https://dev.to/actor-dev/announcing-brighter-v10-a-major-release-with-cloud-events-new-providers-and-enhanced-resilience-kjf)
-- [How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats](https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og)
+- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
+- [Build a Website Application for Free in 2 Hours with Vibe Coding](https://dev.to/jackynote/build-a-website-application-for-free-in-2-hours-with-vibe-coding-16ci)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
+- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
