@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAFU🦉 Infrastructure Revolution: Docker, CLI, and Enterprise Automation Are Here! 🚀](https://dev.to/mfcankaya/dafu-infrastructure-revolution-docker-cli-and-enterprise-automation-are-here-2eko)
-- [Next.js 16: A Deep Dive into Cache Components with Real-World Examples](https://dev.to/mina_golzari_dalir/nextjs-16-a-deep-dive-into-cache-components-with-real-world-examples-4bno)
-- [Log Ninja: The Ultimate VS Code Extension for Effortless Debug Logging](https://dev.to/rakeshgombi/log-ninja-the-ultimate-vs-code-extension-for-effortless-debug-logging-47fb)
-- [React Hooks: A Comprehensive Cheatsheet &amp; Guide](https://dev.to/mahdardavari/react-hooks-a-comprehensive-cheatsheet-guide-35f)
-- [Understanding LangChain and LangGraph: A Beginner’s Guide to AI Workflows](https://dev.to/manishmshiva/understanding-langchain-and-langgraph-a-beginners-guide-to-ai-workflows-1aeo)
+- [Music Monday! &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-1ip3)
+- [Java Testing Guide: How to Measure and Improve Code Coverage with JaCoCo](https://dev.to/taras_antoniuk_ea6a2fe7ee/java-testing-guide-how-to-measure-and-improve-code-coverage-with-jacoco-3p75)
+- [Another ChatGPT bluff? Would you give GPT access to all your apps, that&#39;s insane](https://dev.to/matiswhattheycall/another-chatgpt-bluff-would-you-give-gpt-access-to-all-your-apps-thats-insane-503e)
+- [Test Leadership as Change Management: Why Your Real Job Isn’t Testing](https://dev.to/cydavid/test-leadership-as-change-management-why-your-real-job-isnt-testing-27mh)
+- [AI and Immersive Marketing Experiences: Blurring the Line Between Reality and Imagination](https://dev.to/princess-ai/ai-and-immersive-marketing-experiences-blurring-the-line-between-reality-and-imagination-6ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
