@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install ISPConfig with Nginx Webserver on Ubuntu 22.04](https://dev.to/siswoyo/install-ispconfig-with-nginx-webserver-on-ubuntu-2204-492f)
-- [📰 Major Tech News: November 4th, 2025: OpenAI&#39;s $38 Billion Amazon Pact, Nvidia&#39;s AI-Fueled Surge, and China&#39;s Chip Power Play](https://dev.to/om_shree_0709/major-tech-news-november-4th-2025-openais-38-billion-amazon-pact-nvidias-ai-fueled-surge-4noc)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-31pb)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1am7)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-32p4)
+- [5 Library That You Must Install in Your React Application 2026](https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0)
+- [Kahn’s Algorithm and Cycle Detection in Directed Graphs](https://dev.to/haris_abdullah_b8fc481573/kahns-algorithm-and-cycle-detection-in-directed-graphs-23p6)
+- [Teamcamp vs. Linear: Which Is Right for Your Dev Team?&lpar; Best Linear Alternative &rpar;](https://dev.to/teamcamp/teamcamp-vs-linear-which-is-right-for-your-dev-team-best-linear-alternative--n5h)
+- [A Developer&#39;s Guide to Useful Apache Modules](https://dev.to/edgaras/a-developers-guide-to-useful-apache-modules-2kb7)
+- [Boo Boo Bunnies - Event RSVP Landing page for Halloween](https://dev.to/mayu2008/boo-boo-bunnies-event-rsvp-landing-page-for-halloween-eph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
