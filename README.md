@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💸 MY BANK ACCOUNT LOOKS ILLEGAL... &lpar;The &quot;Sleeping Salesman&quot; That Deposits $382/Day While I Do NOTHING&rpar; 💸](https://dev.to/we-the-developers/my-bank-account-looks-illegal-the-sleeping-salesman-that-deposits-382day-while-i-do-4egf)
-- [API-Led Connectivity - Practical Questions Answered - Part III](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-iii-6dl)
-- [🤑 THIS IS ILLEGAL... &lpar;How My &quot;Silent Partner&quot; Generates $7,463/Month While I Sleep&rpar; 🤑](https://dev.to/we-the-developers/this-is-illegal-how-my-silent-partner-generates-7463month-while-i-sleep-1b2f)
-- [I Got Tired of Deceptive Casino Bonuses, So I Built a &quot;Truth Calculator&quot; with Vanilla JavaScript. Here&#39;s How You Can Too.](https://dev.to/alexv_data/i-got-tired-of-deceptive-casino-bonuses-so-i-built-a-truth-calculator-with-vanilla-javascript-2jbl)
-- [Secure Remote Access to AWS Environments Using VPN and Zero-Trust Principles](https://dev.to/danielle_hayes_ad529ec488/secure-remote-access-to-aws-environments-using-vpn-and-zero-trust-principles-3m06)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-42i0)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-c06)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1jo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
