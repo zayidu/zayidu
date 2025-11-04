@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
-- [Things to Avoid in Nainital—Common Tourist Mistakes](https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk)
-- [Is Quantum Computing the Future? Let&#39;s Demystify It!](https://dev.to/karthik_n/is-quantum-computing-the-future-lets-demystify-it-368d)
-- [Jamie Sinclaire Shares 5 Tips To Build Trust Through Marketing](https://dev.to/jamiesinclaire/jamie-sinclaire-shares-5-tips-to-build-trust-through-marketing-297g)
-- [How to Solve AWS WAF Challenges with Node.js](https://dev.to/ren_joyce_cd41204d5cb261f/how-to-solve-aws-waf-challenges-with-nodejs-2obe)
+- [How Did I Build a .NET Application Using ChatGPT?](https://dev.to/mehul_budasana/how-did-i-build-a-net-application-using-chatgpt-538i)
+- [Developing an A2A-compliant AI Agent with Java, Spring Boot and Spring AI](https://dev.to/bituan/developing-an-a2a-compliant-ai-agent-with-java-spring-boot-and-spring-ai-3l5e)
+- [Why You Should Try Vite For Your Next Project &lpar;and Forget About Webpack&rpar;](https://dev.to/danilo1/why-you-should-try-vite-for-your-next-project-and-forget-about-webpack-33dh)
+- [Building Scalable Online Gaming Platforms: A Developer’s Look into Turnkey Tech Stacks](https://dev.to/bob_packer_7c9018a4d1a1f1/building-scalable-online-gaming-platforms-a-developers-look-into-turnkey-tech-stacks-3gi2)
+- [Как я разработал фильтр товаров для категории «Промышленные масла» на PiterTrade.ru](https://dev.to/nagibin/kak-ia-razrabotal-filtr-tovarov-dlia-katieghorii-na-pitertraderu-2dc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
