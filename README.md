@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences &lpar;with Stytch &amp; OpenAI&rpar;](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
-- [How Reasoning LLMs Are Challenging Orchestration](https://dev.to/onepoint/how-reasoning-llms-are-challenging-orchestration-42pm)
-- [🚀 A Fun Tour of Go’s Official Website!](https://dev.to/ahmed112/a-fun-tour-of-gos-official-website-47pn)
-- [Modern Card Hover Animations, CSS and JavaScript](https://dev.to/kadenwildauer/modern-card-hover-animations-css-and-javascript-3cg3)
-- [I Timed It: How I Created a 20-Step E2E Test in 6 Minutes &lpar;Using Debuggo&rpar;](https://dev.to/aragossa/i-timed-it-how-i-created-a-20-step-e2e-test-in-6-minutes-using-debuggo-33e8)
+- [Molecular Alchemy: AI-Powered Design of Novel Compounds by Arvind Sundararajan](https://dev.to/arvind_sundararajan/molecular-alchemy-ai-powered-design-of-novel-compounds-by-arvind-sundararajan-23mc)
+- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
+- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
+- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-41m4)
+- [Devoxx: Inspiring the Next Generations](https://dev.to/scale_youtube/devoxx-inspiring-the-next-generations-4cjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
