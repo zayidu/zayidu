@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java String getBytes&lpar;&rpar; Explained: Your Ultimate Guide to Character Encoding](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-getbytes-explained-your-ultimate-guide-to-character-encoding-4emn)
-- [Wool Curtains: Which Side Faces Your Winter Window?](https://dev.to/zerogpt_plus/wool-curtains-which-side-faces-your-winter-window-58gj)
-- [Master Java String Format&lpar;&rpar;: The Ultimate Guide with Examples &amp; Tips](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-string-format-the-ultimate-guide-with-examples-tips-5f80)
-- [Simply Order &lpar;Part 6&rpar; – Making APIs Idempotent: Because Users Double-Click and Networks Lie](https://dev.to/hassan314159/simply-order-part-6-making-apis-idempotent-because-users-double-click-and-networks-lie-1826)
-- [Common LLM Mistakes in Project Management and How to Fix Them](https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67)
+- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
+- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
+- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
+- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-3gkl)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1fe9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
