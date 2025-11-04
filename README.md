@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
-- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
-- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-3gkl)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1fe9)
+- [The Smart Way to Achieve Fast and Secure File Uploads to S3 &lpar;Without a Server&rpar; 💥](https://dev.to/ashrafamer/the-smart-way-to-achieve-fast-and-secure-file-uploads-to-s3-without-a-server-3mbb)
+- [You’ll Learn More in 3 Months on the Job Than 2 Years of Tutorials](https://dev.to/tlorent/youll-learn-more-in-3-months-on-the-job-than-2-years-of-tutorials-5g9f)
+- [Multi-Tenancy Database Patterns with examples in Go](https://dev.to/rosgluk/multi-tenancy-database-patterns-with-examples-in-go-1ga5)
+- [A Rundown on PWAs](https://dev.to/senken18/a-rundown-on-pwas-4pk3)
+- [How to Create an SPL Token-2022 on Solana: No-Code Guide to Deploy Tokens with Extensions](https://dev.to/web3market/how-to-create-an-spl-token-2022-on-solana-no-code-guide-to-deploy-tokens-with-extensions-29lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
