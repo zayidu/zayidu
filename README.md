@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Experience as a Speaker at AWS Community Day](https://dev.to/danielcristho/my-first-experience-as-a-speaker-at-aws-community-day-2ki3)
-- [Building an AI-Powered E-Shopping Platform with Intelligent Product Recommendations](https://dev.to/exploredataaiml/building-an-ai-powered-e-shopping-platform-with-intelligent-product-recommendations-2hp8)
-- [TypeScript Backend Toolkit V2 - the Express stack that writes its own docs, SDK, and admin UI while you code](https://dev.to/themuneebh/typescript-backend-toolkit-v2-the-express-stack-that-writes-its-own-docs-sdk-and-admin-ui-while-2lp5)
-- [The True Cost of AI Integrations: Comparing Performance and Pricing Models for C# Libraries](https://dev.to/lofcz/the-true-cost-of-ai-integrations-comparing-performance-and-pricing-models-for-c-libraries-4fg4)
-- [Building WriteRight: My Journey Creating an AI Writing Assistant with Mastra](https://dev.to/alameen_abdulrahmon_972/building-writeright-my-journey-creating-an-ai-writing-assistant-with-mastra-4b2o)
+- [Building Resilient Defenses: A Practical Guide to Modern DDoS Attack Mitigation](https://dev.to/jeremygao/building-resilient-defenses-a-practical-guide-to-modern-ddos-attack-mitigation-43a7)
+- [Most AI startups fail within 12–24 months, not because of weak technology, but because of weak foundations.
+
+After building ReThynk AI and observing hundreds of AI founders, here’s what I’ve learned about why they fail!!](https://dev.to/jaideepparashar/most-ai-startups-fail-within-12-24-months-not-because-of-weak-technology-but-because-of-weak-4pi2)
+- [Mastra agent and Telex equals super integration](https://dev.to/frankdev20/mastra-agent-and-telex-equals-super-integration-3149)
+- [SQL: is there a better way to code this?](https://dev.to/david_kershaw_b6916404da6/sql-is-there-a-better-way-to-code-this-3ahg)
+- [Stop “Looks Right in Blender, Wrong in Engine”: A Practical Guide to Units, Scale, and Axes &lpar;with a helper you’ll actually use&rpar;](https://dev.to/wilson_anibe_99986ba22102/stop-looks-right-in-blender-wrong-in-engine-a-practical-guide-to-units-scale-and-axes-with-a-14cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
