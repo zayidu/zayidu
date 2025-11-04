@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Defenses: A Practical Guide to Modern DDoS Attack Mitigation](https://dev.to/jeremygao/building-resilient-defenses-a-practical-guide-to-modern-ddos-attack-mitigation-43a7)
-- [Most AI startups fail within 12–24 months, not because of weak technology, but because of weak foundations.
-
-After building ReThynk AI and observing hundreds of AI founders, here’s what I’ve learned about why they fail!!](https://dev.to/jaideepparashar/most-ai-startups-fail-within-12-24-months-not-because-of-weak-technology-but-because-of-weak-4pi2)
-- [Mastra agent and Telex equals super integration](https://dev.to/frankdev20/mastra-agent-and-telex-equals-super-integration-3149)
-- [SQL: is there a better way to code this?](https://dev.to/david_kershaw_b6916404da6/sql-is-there-a-better-way-to-code-this-3ahg)
-- [Stop “Looks Right in Blender, Wrong in Engine”: A Practical Guide to Units, Scale, and Axes &lpar;with a helper you’ll actually use&rpar;](https://dev.to/wilson_anibe_99986ba22102/stop-looks-right-in-blender-wrong-in-engine-a-practical-guide-to-units-scale-and-axes-with-a-14cf)
+- [Install ISPConfig with Nginx Webserver on Ubuntu 22.04](https://dev.to/siswoyo/install-ispconfig-with-nginx-webserver-on-ubuntu-2204-492f)
+- [📰 Major Tech News: November 4th, 2025: OpenAI&#39;s $38 Billion Amazon Pact, Nvidia&#39;s AI-Fueled Surge, and China&#39;s Chip Power Play](https://dev.to/om_shree_0709/major-tech-news-november-4th-2025-openais-38-billion-amazon-pact-nvidias-ai-fueled-surge-4noc)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-31pb)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1am7)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-32p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
