@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Issuance Revolution Under the New RWA Narrative: Why is Synbo&#39;s CCO the Ideal Path for Onboarding Traditional Assets?](https://dev.to/onchainintel/the-issuance-revolution-under-the-new-rwa-narrative-why-is-synbos-cco-the-ideal-path-for-1ieo)
-- [How I Cracked Designing the DoorDash System Design Interview Platform](https://dev.to/dev_loops/how-i-cracked-designing-the-doordash-system-design-interview-platform-3l18)
-- [Tech Doesn’t Wait for Degrees — It Rewards Adaptability](https://dev.to/sreekanth_kuruba_91721e5d/tech-doesnt-wait-for-degrees-it-rewards-adaptability-46k0)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-231e)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-23dh)
+- [Java String getBytes&lpar;&rpar; Explained: Your Ultimate Guide to Character Encoding](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-getbytes-explained-your-ultimate-guide-to-character-encoding-4emn)
+- [Wool Curtains: Which Side Faces Your Winter Window?](https://dev.to/zerogpt_plus/wool-curtains-which-side-faces-your-winter-window-58gj)
+- [Master Java String Format&lpar;&rpar;: The Ultimate Guide with Examples &amp; Tips](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-string-format-the-ultimate-guide-with-examples-tips-5f80)
+- [Simply Order &lpar;Part 6&rpar; – Making APIs Idempotent: Because Users Double-Click and Networks Lie](https://dev.to/hassan314159/simply-order-part-6-making-apis-idempotent-because-users-double-click-and-networks-lie-1826)
+- [Common LLM Mistakes in Project Management and How to Fix Them](https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
