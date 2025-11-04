@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Molecular Alchemy: AI-Powered Design of Novel Compounds by Arvind Sundararajan](https://dev.to/arvind_sundararajan/molecular-alchemy-ai-powered-design-of-novel-compounds-by-arvind-sundararajan-23mc)
-- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
-- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
-- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-41m4)
-- [Devoxx: Inspiring the Next Generations](https://dev.to/scale_youtube/devoxx-inspiring-the-next-generations-4cjc)
+- [ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego](https://dev.to/0rb1t4lsn4k3r/esodsake-the-snake-that-trolls-me-with-ai-and-burns-my-ego-485)
+- [10 AI Coding Patterns That&#39;ll Make You Look Like a Wizard 🧙‍♂️](https://dev.to/danishashko/10-ai-coding-patterns-thatll-make-you-look-like-a-wizard-56do)
+- [Run LangChain Locally in 15 Minutes &lpar;Without a Single API Key&rpar;](https://dev.to/fabiothiroki/run-langchain-locally-in-15-minutes-without-a-single-api-key-1j8m)
+- [Making Services Discoverable with ERC-8004: Trustless Agent Registration with Filecoin Pin](https://dev.to/hammertoe/making-services-discoverable-with-erc-8004-trustless-agent-registration-with-filecoin-pin-1al3)
+- [Framework Lock-In: Are you building a product—or just a framework extension?](https://dev.to/amirsaeed_skomjani/framework-lock-in-are-you-building-a-product-or-just-a-framework-extension-1c4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
