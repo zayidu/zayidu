@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Smart Way to Achieve Fast and Secure File Uploads to S3 &lpar;Without a Server&rpar; 💥](https://dev.to/ashrafamer/the-smart-way-to-achieve-fast-and-secure-file-uploads-to-s3-without-a-server-3mbb)
-- [You’ll Learn More in 3 Months on the Job Than 2 Years of Tutorials](https://dev.to/tlorent/youll-learn-more-in-3-months-on-the-job-than-2-years-of-tutorials-5g9f)
-- [Multi-Tenancy Database Patterns with examples in Go](https://dev.to/rosgluk/multi-tenancy-database-patterns-with-examples-in-go-1ga5)
-- [A Rundown on PWAs](https://dev.to/senken18/a-rundown-on-pwas-4pk3)
-- [How to Create an SPL Token-2022 on Solana: No-Code Guide to Deploy Tokens with Extensions](https://dev.to/web3market/how-to-create-an-spl-token-2022-on-solana-no-code-guide-to-deploy-tokens-with-extensions-29lc)
+- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 1&rpar;](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-1-51a6)
+- [Going Full-Time NeoHaskell](https://dev.to/neohaskell/going-full-time-neohaskell-1ib)
+- [Gasless Transactions on Solana](https://dev.to/stelmitchay/gaslesstransactions-on-solana-2340)
+- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-56aj)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2de2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
