@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego](https://dev.to/0rb1t4lsn4k3r/esodsake-the-snake-that-trolls-me-with-ai-and-burns-my-ego-485)
-- [10 AI Coding Patterns That&#39;ll Make You Look Like a Wizard 🧙‍♂️](https://dev.to/danishashko/10-ai-coding-patterns-thatll-make-you-look-like-a-wizard-56do)
-- [Run LangChain Locally in 15 Minutes &lpar;Without a Single API Key&rpar;](https://dev.to/fabiothiroki/run-langchain-locally-in-15-minutes-without-a-single-api-key-1j8m)
-- [Making Services Discoverable with ERC-8004: Trustless Agent Registration with Filecoin Pin](https://dev.to/hammertoe/making-services-discoverable-with-erc-8004-trustless-agent-registration-with-filecoin-pin-1al3)
-- [Framework Lock-In: Are you building a product—or just a framework extension?](https://dev.to/amirsaeed_skomjani/framework-lock-in-are-you-building-a-product-or-just-a-framework-extension-1c4f)
+- [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
+- [Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra](https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8)
+- [Hetzner Servers Benchmarks](https://dev.to/xcs/hetzner-servers-benchmarks-28f8)
+- [Unlock clearer Rust dependency insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
+- [When Your Live Region Isn&#39;t Live: Fixing aria-live in Angular, React, and Vue](https://dev.to/dkoppenhagen/when-your-live-region-isnt-live-fixing-aria-live-in-angular-react-and-vue-1g0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
