@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 1&rpar;](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-1-51a6)
-- [Going Full-Time NeoHaskell](https://dev.to/neohaskell/going-full-time-neohaskell-1ib)
-- [Gasless Transactions on Solana](https://dev.to/stelmitchay/gaslesstransactions-on-solana-2340)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-56aj)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2de2)
+- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
+- [Things to Avoid in Nainital—Common Tourist Mistakes](https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk)
+- [Is Quantum Computing the Future? Let&#39;s Demystify It!](https://dev.to/karthik_n/is-quantum-computing-the-future-lets-demystify-it-368d)
+- [Jamie Sinclaire Shares 5 Tips To Build Trust Through Marketing](https://dev.to/jamiesinclaire/jamie-sinclaire-shares-5-tips-to-build-trust-through-marketing-297g)
+- [How to Solve AWS WAF Challenges with Node.js](https://dev.to/ren_joyce_cd41204d5cb261f/how-to-solve-aws-waf-challenges-with-nodejs-2obe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
