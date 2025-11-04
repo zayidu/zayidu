@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Inner Mad Scientist: A Glimpse into the Kiroween Hackathon](https://dev.to/brian_mk/unleash-your-inner-mad-scientist-a-glimpse-into-the-kiroween-hackathon-11co)
-- [A Practical Guide to Building AI Agents With Java and Spring AI - Part 1 - Create an AI Agent](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-1-create-an-ai-agent-4f4a)
-- [Using Prisma for Schema and Kysely for Queries in a Next.js App](https://dev.to/golamrabbani/using-prisma-for-schema-and-kysely-for-queries-in-a-nextjs-app-39ol)
-- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
-- [🎯 Frontend Psychology 101: How Design Choices Convert Users in 2025](https://dev.to/tahamjp/frontend-psychology-101-how-design-choices-convert-users-in-2025-518g)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-2372)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1mco)
+- [How to Prove to Clients That Your Firm’s Cloud Is Secure: Certifications, Audits, and Building Trust](https://dev.to/heyjoshlee/how-to-prove-to-clients-that-your-firms-cloud-is-secure-certifications-audits-and-building-trust-3gl3)
+- [How To Build APIs That Scale Without Burning Out](https://dev.to/toluxx/how-to-build-apis-that-scale-without-burning-out-2n2j)
+- [I Replaced ESLint &amp; Prettier with This ⚡](https://dev.to/thatanjan/i-replaced-eslint-prettier-with-this-fkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
