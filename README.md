@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-2372)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1mco)
-- [How to Prove to Clients That Your Firm’s Cloud Is Secure: Certifications, Audits, and Building Trust](https://dev.to/heyjoshlee/how-to-prove-to-clients-that-your-firms-cloud-is-secure-certifications-audits-and-building-trust-3gl3)
-- [How To Build APIs That Scale Without Burning Out](https://dev.to/toluxx/how-to-build-apis-that-scale-without-burning-out-2n2j)
-- [I Replaced ESLint &amp; Prettier with This ⚡](https://dev.to/thatanjan/i-replaced-eslint-prettier-with-this-fkn)
+- [A Deep Dive into Multi-Transport Protocol Abstraction in Python](https://dev.to/tosin2013/a-deep-dive-into-multi-transport-protocol-abstraction-in-python-3gp5)
+- [Build Interactive Node-Based Diagrams with fg-next-draw-canvas: A React Developer&#39;s Guide](https://dev.to/fabiangftech/build-interactive-node-based-diagrams-with-fg-next-draw-canvas-a-react-developers-guide-3k5a)
+- [Complete API Authentication with Laravel 12 Sanctum](https://dev.to/ashrakt_amin/complete-api-authentication-with-laravel-12-sanctum-56l3)
+- [Teaching My Team How to Build LINQ from Scratch](https://dev.to/reenanms/teaching-my-team-how-to-build-linq-from-scratch-11p9)
+- [Product 101: Your Secret Weapon for Understanding the Business](https://dev.to/mattstratton/product-101-your-secret-weapon-for-understanding-the-business-2m6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
