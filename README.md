@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8)
-- [Angular &amp; RxJS in 2025: The Expert’s Playbook &lpar;Signals, RxJS 8, and Interop&rpar;](https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed)
-- [6 habits every computer science student must have](https://dev.to/sayrolivares/6-habits-every-computer-science-student-must-have-2gmh)
-- [📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries &lpar;Big Data&rpar; with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib)
-- [While Everyone Argues About AI Regulation, Data Is the Real Wild West](https://dev.to/aronchick/while-everyone-argues-about-ai-regulation-data-is-the-real-wild-west-4f8a)
+- [My DevOps Journey: Part 13 - AWS S3 Essentials: The Backbone of Cloud Storage](https://dev.to/sheershsinha/my-devops-journey-part-13-aws-s3-essentials-the-backbone-of-cloud-storage-10ln)
+- [Don&#39;t nuke your test ENVs](https://dev.to/noelworden/dont-nuke-your-test-envs-4j6j)
+- [Between Rules and Meaning: Building a Website That Understands Language](https://dev.to/peggggykang/between-rules-and-meaning-building-a-website-that-understands-language-3f9g)
+- [Tux-GPT: A Command-Line AI Assistant Built for Your Terminal](https://dev.to/fberbert/tux-gpt-a-command-line-ai-assistant-built-for-your-terminal-2le8)
+- [Building TransMonkey: Lessons Learned from Creating an AI Translation Platform](https://dev.to/charlie_s_c9de68658cfe2a/building-transmonkey-lessons-learned-from-creating-an-ai-translation-platform-466e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
