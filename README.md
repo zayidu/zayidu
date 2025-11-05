@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting to Know Gemini CLI: Your Terminal’s New AI Ally](https://dev.to/muskanfatim/getting-to-know-gemini-cli-your-terminals-new-ai-ally-1moa)
-- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
-- [🦄 When ML Models Go Wild: Unintentional Art Created by Neural Networks](https://dev.to/pracode_2503/when-ml-models-go-wild-unintentional-art-created-by-neural-networks-5ga6)
-- [From Postgres to Iceberg](https://dev.to/misachi/from-postgres-to-iceberg-g4)
-- [Why Ruby Devs Keep Mixing Up Symbols and Frozen Strings](https://dev.to/hinokami_dev/why-ruby-devs-keep-mixing-up-symbols-and-frozen-strings-3id8)
+- [How to send OTP codes with SMS in Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg)
+- [**The Paradox of Empathy in AI Development: A Call for More](https://dev.to/drcarlosruizviquez/the-paradox-of-empathy-in-ai-development-a-call-for-more-88m)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
