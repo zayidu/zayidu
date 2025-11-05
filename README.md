@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
-- [Feature Release 0.54.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-release-0540-of-the-github-action-for-checking-spelling-10ap)
-- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
-- [Ditch the Config Chaos: Meet Kiponos - the Real-Time Config Revolution You&#39;ve Been Waiting For](https://dev.to/kiponos/ditch-the-config-chaos-meet-kiponos-the-real-time-config-revolution-youve-been-waiting-for-4ac7)
-- [The Orchestrator Pattern: Routing Conversations to Specialized AI Agents](https://dev.to/akshaygupta1996/the-orchestrator-pattern-routing-conversations-to-specialized-ai-agents-33h8)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-44j4)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-328h)
+- [Deleting GitHub Repositories Without Prompt: A Guide to Automated Cleanup](https://dev.to/picoable/deleting-github-repositories-without-prompt-a-guide-to-automated-cleanup-1jeb)
+- [From student to developer - How open source can launch your career](https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n)
+- [The future of coding: Cursor, AI, and the rise of backend automation with Appwrite](https://dev.to/tessamero/the-future-of-coding-cursor-ai-and-the-rise-of-backend-automation-with-appwrite-14ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
