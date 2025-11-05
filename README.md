@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Brain of AI: How Neural Networks Are Changing Everything](https://dev.to/vikramlingam/unlocking-the-brain-of-ai-how-neural-networks-are-changing-everything-2fhf)
-- [7 technologies qui révolutionnent le monde de la crypto au-delà du Bitcoin](https://dev.to/carlvilla/7-technologies-qui-revolutionnent-le-monde-de-la-crypto-au-dela-du-bitcoin-21c2)
-- [RestlessIDE Enters Public Beta](https://dev.to/restlessmike/restlesside-enters-public-beta-21ke)
-- [Playwright com TypeScript: Construindo um Framework de Automação &lpar;Parte 1&rpar;](https://dev.to/rodrigoobc/playwright-com-typescript-construindo-um-framework-de-automacao-parte-1-3k3h)
-- [Cron Jobs: Why They Matter for Developers](https://dev.to/suruliraajan/cron-jobs-why-they-matter-for-developers-407i)
+- [Designing Data-Intensive Applications [Book Review]-The Big Ideas Behind Reliable, Scalable and Maintainable Systems](https://dev.to/hectorw_tt/designing-data-intensive-applications-book-review-the-big-ideas-behind-reliable-scalable-and-298m)
+- [Building an IMU Simulator from the Ground Up: A Journey Through Inertial Navigation](https://dev.to/pederzoli/building-an-imu-simulator-from-the-ground-up-a-journey-through-inertial-navigation-187j)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ojl)
+- [Why Your Healthcare Organization’s Customer Experience Feels Broken — And How CRM Could Save It](https://dev.to/chillicode/why-your-healthcare-organizations-customer-experience-feels-broken-and-how-crm-could-save-it-jh3)
+- [AI That Shows Its Work: The Transparent Revolution of PALs](https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
