@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
-- [LeetCode: 1. Two Sum, Solución paso a paso](https://dev.to/luisangelfr/leetcode-1-two-sum-solucion-paso-a-paso-2a5c)
-- [AI and the Loss of the Flow](https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc)
-- [Master Java indexOf&lpar;&rpar;: Your Ultimate Guide to Finding Strings](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-indexof-your-ultimate-guide-to-finding-strings-1ohd)
-- [Elements in HTML](https://dev.to/s_sarumathi_a1de306480d33/elements-in-html-1ch6)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-18fp)
+- [The Red Queen Code Review Pattern — Perpetual Evolution in AI-Powered Development](https://dev.to/haco29/the-red-queen-code-review-pattern-perpetual-evolution-in-ai-powered-development-2ego)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-350l)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2eji)
+- [Deploying a Preact App with K3s Locally: A Beginner&#39;s Guide](https://dev.to/silvercoder007/deploying-a-preact-app-with-k3s-locally-a-beginners-guide-4kpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
