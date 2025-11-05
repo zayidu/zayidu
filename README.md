@@ -194,16 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
-- [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
-- [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
-- [I&#39;ve recently started using vim as my editor, &lpar;now vim key bindings on vscode.&rpar;
-
-For newcomers, learning vim motions might take some time, so I&#39;ve created a snake game for mastering vim motions.
-
-Here&#39;s the link : 
-https://vim-snake-navy.vercel.app](https://dev.to/masterdevsabith/ive-recently-started-using-vim-as-my-editor-now-vim-key-bindings-on-vscode-for-newcomers-h5a)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-256p)
+- [Unlocking the Brain of AI: How Neural Networks Are Changing Everything](https://dev.to/vikramlingam/unlocking-the-brain-of-ai-how-neural-networks-are-changing-everything-2fhf)
+- [7 technologies qui révolutionnent le monde de la crypto au-delà du Bitcoin](https://dev.to/carlvilla/7-technologies-qui-revolutionnent-le-monde-de-la-crypto-au-dela-du-bitcoin-21c2)
+- [RestlessIDE Enters Public Beta](https://dev.to/restlessmike/restlesside-enters-public-beta-21ke)
+- [Playwright com TypeScript: Construindo um Framework de Automação &lpar;Parte 1&rpar;](https://dev.to/rodrigoobc/playwright-com-typescript-construindo-um-framework-de-automacao-parte-1-3k3h)
+- [Cron Jobs: Why They Matter for Developers](https://dev.to/suruliraajan/cron-jobs-why-they-matter-for-developers-407i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
