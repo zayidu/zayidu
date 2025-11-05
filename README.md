@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
-- [DevSecOps Is Broken &lpar;and We All Kinda Know It&rpar;](https://dev.to/dev_tips/devsecops-is-broken-and-we-all-kinda-know-it-2ib7)
-- [⚔️ “Flutter vs React Native 2025: Who Wins the Cross-Platform War?”](https://dev.to/mridudixit15/flutter-vs-react-native-2025-who-wins-the-cross-platform-war-4hfh)
-- [I built a fast, distraction-free online Image Crop Tool](https://dev.to/guruwant_sharma_013d6ccaa/i-built-a-fast-distraction-free-online-image-crop-tool-3kd1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5o5)
+- [The Mind Was Never Meant to Be Debugged](https://dev.to/leena_malhotra/the-mind-was-never-meant-to-be-debugged-1p9f)
+- [Why Gradle Flavors Might Be the Smartest Thing I’ve Read About Android Builds](https://dev.to/olivia-john/why-gradle-flavors-might-be-the-smartest-thing-ive-read-about-android-builds-cih)
+- [Halloween Night Scene - A Spooky CSS Art](https://dev.to/dipanshu447/halloween-night-scene-a-spooky-css-art-3o9j)
+- [Web Bot Auth: Giving Bots a Crypto ID Card in a World of Fakes](https://dev.to/pinishv/web-bot-auth-giving-bots-a-crypto-id-card-in-a-world-of-fakes-4137)
+- [Decoding Life&#39;s Code: AI-Powered Causal Inference for Biological Networks by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-lifes-code-ai-powered-causal-inference-for-biological-networks-by-arvind-sundararajan-58j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
