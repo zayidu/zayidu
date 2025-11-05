@@ -194,11 +194,16 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Developer Trends Powering the Future of Web3 Innovation](https://dev.to/chikieabby/top-6-developer-trends-powering-the-future-of-web3-innovation-255m)
-- [jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here&#39;s Why](https://dev.to/sylwia-lask/jquery-will-outlive-half-of-todays-javascript-frameworks-heres-why-2mmd)
-- [KAPLAN — Stealthy Bulk Fetching Over Tor for Red Team Ops](https://dev.to/toxy4ny/kaplan-stealthy-bulk-fetching-over-tor-for-red-team-ops-mnf)
-- [Meeting “mellea” !!!](https://dev.to/aairom/meeting-mellea--4ge2)
-- [[Boost]](https://dev.to/veo3freeai/-4oob)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
+- [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
+- [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
+- [I&#39;ve recently started using vim as my editor, &lpar;now vim key bindings on vscode.&rpar;
+
+For newcomers, learning vim motions might take some time, so I&#39;ve created a snake game for mastering vim motions.
+
+Here&#39;s the link : 
+https://vim-snake-navy.vercel.app](https://dev.to/masterdevsabith/ive-recently-started-using-vim-as-my-editor-now-vim-key-bindings-on-vscode-for-newcomers-h5a)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-256p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
