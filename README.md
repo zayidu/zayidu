@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to Create Groups Efficiently in Tableau](https://dev.to/anshuman_816f8012be0c9b6c/ways-to-create-groups-efficiently-in-tableau-15oa)
-- [Learning patience, not skills](https://dev.to/dshaw0004/learning-patience-not-skills-l5o)
-- [Understanding the Rake Roof: Design, Function, and Modern Applications](https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n)
-- [From Clutter to Clarity: How AI Batch Tools Clean Up Your Visuals Instantly](https://dev.to/freepixel11/from-clutter-to-clarity-how-ai-batch-tools-clean-up-your-visuals-instantly-108j)
+- [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
+- [LeetCode: 1. Two Sum, Solución paso a paso](https://dev.to/luisangelfr/leetcode-1-two-sum-solucion-paso-a-paso-2a5c)
+- [AI and the Loss of the Flow](https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc)
+- [Master Java indexOf&lpar;&rpar;: Your Ultimate Guide to Finding Strings](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-indexof-your-ultimate-guide-to-finding-strings-1ohd)
+- [Elements in HTML](https://dev.to/s_sarumathi_a1de306480d33/elements-in-html-1ch6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
