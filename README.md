@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Artificial Intelligence is Reshaping Food Production and Delivery](https://dev.to/mitchelljhonson/how-artificial-intelligence-is-reshaping-food-production-and-delivery-3c7k)
-- [Setting Up Storage for IT Department Testing and Training in Azure](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-storage-for-it-department-testing-and-training-in-azure-428j)
-- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
-- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
-- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
+- [Building Domain-Driven Design &lpar;DDD&rpar; Applications with PHP](https://dev.to/patoliyainfotech/building-domain-driven-design-ddd-applications-with-php-3hp4)
+- [🧠 How We Built an AI Code Reviewer That Understands Intent — Not Just Syntax](https://dev.to/anitha_subramanian_4d83c2/how-we-built-an-ai-code-reviewer-that-understands-intent-not-just-syntax-44d2)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-4nfc)
+- [Provide Private Storage for Internal Company Documents](https://dev.to/daniel_shaibu_49affe8d51e/provide-private-storage-for-internal-company-documents-3895)
+- [🏗️ Full Stack Open — Modern Web Development, No Cost](https://dev.to/ml318097/full-stack-open-modern-web-development-no-cost-lfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
