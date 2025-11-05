@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-18fp)
-- [The Red Queen Code Review Pattern — Perpetual Evolution in AI-Powered Development](https://dev.to/haco29/the-red-queen-code-review-pattern-perpetual-evolution-in-ai-powered-development-2ego)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-350l)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2eji)
-- [Deploying a Preact App with K3s Locally: A Beginner&#39;s Guide](https://dev.to/silvercoder007/deploying-a-preact-app-with-k3s-locally-a-beginners-guide-4kpf)
+- [Unlocking jQuery Mastery: Secrets No One Tells You &lpar;Until Now!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/unlocking-jquery-mastery-secrets-no-one-tells-you-until-now-5fgk)
+- [Culture](https://dev.to/woahguy1/culture-50h6)
+- [Can a HashMap Have a Null Key? What About ConcurrentHashMap?](https://dev.to/realnamehidden1_61/can-a-hashmap-have-a-null-key-what-about-concurrenthashmap-3cjp)
+- [Java Access Modifiers &amp; Packages](https://dev.to/masteringbackend/java-access-modifiers-packages-51i)
+- [Begrijpen van Pod Pending States: Waarom je Pods niet plannen?](https://dev.to/shubhcloud/begrijpen-van-pod-pending-states-waarom-je-pods-niet-plannen-51b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
