@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4f3o)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-236l)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3gn4)
-- [How-to use a Custom Start Button Image in Linux Mint](https://dev.to/d4rkd0s/how-to-use-a-custom-start-button-image-in-linux-mint-5d77)
-- [Don’t Be Someone People Have to Work With — Be Someone They Want to Work With](https://dev.to/themustaphatijani/dont-be-someone-people-have-to-work-with-be-someone-they-want-to-work-with-4cb2)
+- [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
+- [Feature Release 0.54.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-release-0540-of-the-github-action-for-checking-spelling-10ap)
+- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
+- [Ditch the Config Chaos: Meet Kiponos - the Real-Time Config Revolution You&#39;ve Been Waiting For](https://dev.to/kiponos/ditch-the-config-chaos-meet-kiponos-the-real-time-config-revolution-youve-been-waiting-for-4ac7)
+- [The Orchestrator Pattern: Routing Conversations to Specialized AI Agents](https://dev.to/akshaygupta1996/the-orchestrator-pattern-routing-conversations-to-specialized-ai-agents-33h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
