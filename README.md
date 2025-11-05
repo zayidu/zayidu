@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
-- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
-- [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
-- [To Mars and Beyond: A Coder&#39;s Guide to Modelling the Red Planet&#39;s Ionosphere](https://dev.to/masoomjethwa/to-mars-and-beyond-a-coders-guide-to-modelling-the-red-planets-ionosphere-3pmn)
-- [Are 3 Signs the AI Revolution Is Going Local?](https://dev.to/jay_all_day/are-3-signs-the-ai-revolution-is-going-local-644)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4f3o)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-236l)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3gn4)
+- [How-to use a Custom Start Button Image in Linux Mint](https://dev.to/d4rkd0s/how-to-use-a-custom-start-button-image-in-linux-mint-5d77)
+- [Don’t Be Someone People Have to Work With — Be Someone They Want to Work With](https://dev.to/themustaphatijani/dont-be-someone-people-have-to-work-with-be-someone-they-want-to-work-with-4cb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
