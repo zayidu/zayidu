@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to send OTP codes with SMS in Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg)
-- [**The Paradox of Empathy in AI Development: A Call for More](https://dev.to/drcarlosruizviquez/the-paradox-of-empathy-in-ai-development-a-call-for-more-88m)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)
+- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
+- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
+- [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
+- [To Mars and Beyond: A Coder&#39;s Guide to Modelling the Red Planet&#39;s Ionosphere](https://dev.to/masoomjethwa/to-mars-and-beyond-a-coders-guide-to-modelling-the-red-planets-ionosphere-3pmn)
+- [Are 3 Signs the AI Revolution Is Going Local?](https://dev.to/jay_all_day/are-3-signs-the-ai-revolution-is-going-local-644)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
