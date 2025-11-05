@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My DevOps Journey: Part 13 - AWS S3 Essentials: The Backbone of Cloud Storage](https://dev.to/sheershsinha/my-devops-journey-part-13-aws-s3-essentials-the-backbone-of-cloud-storage-10ln)
-- [Don&#39;t nuke your test ENVs](https://dev.to/noelworden/dont-nuke-your-test-envs-4j6j)
-- [Between Rules and Meaning: Building a Website That Understands Language](https://dev.to/peggggykang/between-rules-and-meaning-building-a-website-that-understands-language-3f9g)
-- [Tux-GPT: A Command-Line AI Assistant Built for Your Terminal](https://dev.to/fberbert/tux-gpt-a-command-line-ai-assistant-built-for-your-terminal-2le8)
-- [Building TransMonkey: Lessons Learned from Creating an AI Translation Platform](https://dev.to/charlie_s_c9de68658cfe2a/building-transmonkey-lessons-learned-from-creating-an-ai-translation-platform-466e)
+- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
+- [DevSecOps Is Broken &lpar;and We All Kinda Know It&rpar;](https://dev.to/dev_tips/devsecops-is-broken-and-we-all-kinda-know-it-2ib7)
+- [⚔️ “Flutter vs React Native 2025: Who Wins the Cross-Platform War?”](https://dev.to/mridudixit15/flutter-vs-react-native-2025-who-wins-the-cross-platform-war-4hfh)
+- [I built a fast, distraction-free online Image Crop Tool](https://dev.to/guruwant_sharma_013d6ccaa/i-built-a-fast-distraction-free-online-image-crop-tool-3kd1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
