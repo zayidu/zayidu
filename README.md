@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-4fnb)
-- [5 Frontend Frameworks That Will Dominate 2026 &lpar;And Fix Your SaaS UI Problems&rpar;](https://dev.to/hashbyt/5-frontend-frameworks-that-will-dominate-2026-and-fix-your-saas-ui-problems-48hj)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2l28)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5fn2)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-5d4a)
+- [How Artificial Intelligence is Reshaping Food Production and Delivery](https://dev.to/mitchelljhonson/how-artificial-intelligence-is-reshaping-food-production-and-delivery-3c7k)
+- [Setting Up Storage for IT Department Testing and Training in Azure](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-storage-for-it-department-testing-and-training-in-azure-428j)
+- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
+- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
+- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
