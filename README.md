@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mind Was Never Meant to Be Debugged](https://dev.to/leena_malhotra/the-mind-was-never-meant-to-be-debugged-1p9f)
-- [Why Gradle Flavors Might Be the Smartest Thing I’ve Read About Android Builds](https://dev.to/olivia-john/why-gradle-flavors-might-be-the-smartest-thing-ive-read-about-android-builds-cih)
-- [Halloween Night Scene - A Spooky CSS Art](https://dev.to/dipanshu447/halloween-night-scene-a-spooky-css-art-3o9j)
-- [Web Bot Auth: Giving Bots a Crypto ID Card in a World of Fakes](https://dev.to/pinishv/web-bot-auth-giving-bots-a-crypto-id-card-in-a-world-of-fakes-4137)
-- [Decoding Life&#39;s Code: AI-Powered Causal Inference for Biological Networks by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-lifes-code-ai-powered-causal-inference-for-biological-networks-by-arvind-sundararajan-58j1)
+- [Ways to Create Groups Efficiently in Tableau](https://dev.to/anshuman_816f8012be0c9b6c/ways-to-create-groups-efficiently-in-tableau-15oa)
+- [Learning patience, not skills](https://dev.to/dshaw0004/learning-patience-not-skills-l5o)
+- [Understanding the Rake Roof: Design, Function, and Modern Applications](https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n)
+- [From Clutter to Clarity: How AI Batch Tools Clean Up Your Visuals Instantly](https://dev.to/freepixel11/from-clutter-to-clarity-how-ai-batch-tools-clean-up-your-visuals-instantly-108j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
