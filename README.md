@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Data-Intensive Applications [Book Review]-The Big Ideas Behind Reliable, Scalable and Maintainable Systems](https://dev.to/hectorw_tt/designing-data-intensive-applications-book-review-the-big-ideas-behind-reliable-scalable-and-298m)
-- [Building an IMU Simulator from the Ground Up: A Journey Through Inertial Navigation](https://dev.to/pederzoli/building-an-imu-simulator-from-the-ground-up-a-journey-through-inertial-navigation-187j)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ojl)
-- [Why Your Healthcare Organization’s Customer Experience Feels Broken — And How CRM Could Save It](https://dev.to/chillicode/why-your-healthcare-organizations-customer-experience-feels-broken-and-how-crm-could-save-it-jh3)
-- [AI That Shows Its Work: The Transparent Revolution of PALs](https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia)
+- [Getting to Know Gemini CLI: Your Terminal’s New AI Ally](https://dev.to/muskanfatim/getting-to-know-gemini-cli-your-terminals-new-ai-ally-1moa)
+- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
+- [🦄 When ML Models Go Wild: Unintentional Art Created by Neural Networks](https://dev.to/pracode_2503/when-ml-models-go-wild-unintentional-art-created-by-neural-networks-5ga6)
+- [From Postgres to Iceberg](https://dev.to/misachi/from-postgres-to-iceberg-g4)
+- [Why Ruby Devs Keep Mixing Up Symbols and Frozen Strings](https://dev.to/hinokami_dev/why-ruby-devs-keep-mixing-up-symbols-and-frozen-strings-3id8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
