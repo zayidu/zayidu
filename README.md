@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Niche AI SaaS for AI-Generated B-Roll Videos](https://dev.to/sevimsoffice/build-your-own-niche-ai-saas-for-ai-generated-b-roll-videos-483d)
-- [Eksploitasi Web Laravel dan Antisipasinya](https://dev.to/ahmadasroni38/eksploitasi-web-laravel-dan-antisipasinya-2g6l)
-- [El propósito del Testing](https://dev.to/joshuacba08/el-proposito-del-testing-5571)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1em1)
-- [The rewrite dilemma in software engineering](https://dev.to/rockandnull/the-rewrite-dilemma-in-software-engineering-446h)
+- [What Is DevOps? A Beginner’s Guide to How Development and Operation Teams Work Together](https://dev.to/pearlicia/what-is-devops-a-beginners-guide-to-how-development-and-operation-teams-work-together-5b3b)
+- [Working Towards Improved PAM: Widening The Scope And Taking Control](https://dev.to/gitguardian/working-towards-improved-pam-widening-the-scope-and-taking-control-fbd)
+- [80 Days of Python Challenges: How I Turned Consistency into Progress](https://dev.to/shahrouzlogs/80-days-of-python-challenges-how-i-turned-consistency-into-progress-1ib2)
+- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
+- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
