@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide: Mastering Custom Gaussian Blur Pop-ups in HarmonyOS](https://dev.to/harmonyos/practical-guide-mastering-custom-gaussian-blur-pop-ups-in-harmonyos-33m2)
-- [SafeLine: A Next-Generation Self-Hosted Web Application Firewall](https://dev.to/arina_cholee/safeline-a-next-generation-self-hosted-web-application-firewall-4b6j)
-- [Laravel Log Cleaner v2.01 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordiviera/laravel-log-cleaner-v201-memory-efficient-log-management-with-compression-backup-loc)
-- [Crafting High-Performance Full-Stack Applications: Quarkus Native and Angular](https://dev.to/issam1991/crafting-high-performance-full-stack-applications-quarkus-native-and-angular-2eif)
-- [Creating Private, High-Availability Azure Blob Storage for Internal Backups](https://dev.to/ojosamuel129/creating-private-high-availability-azure-blob-storage-for-internal-backups-4hi3)
+- [Apple Health MCP Server: Use Cases for Developers](https://dev.to/momentumai/apple-health-mcp-server-use-cases-for-developers-kaa)
+- [The Rise of Chatbots and Conversational AI in Customer Service Development](https://dev.to/softwaredeveloper01/the-rise-of-chatbots-and-conversational-ai-in-customer-service-development-4jc)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3302)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-24la)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4636)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
