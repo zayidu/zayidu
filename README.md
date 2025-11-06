@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Era of Databases: When Queries Write Themselves](https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578)
-- [Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)
-- [Transforming Engineering Culture in a 300-Person Company](https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l)
-- [Update page title counter with custom turbo streams in Rails](https://dev.to/railsdesigner/update-page-title-counter-with-custom-turbo-streams-in-rails-3e52)
-- [PHP in 2025 Evolving Rapidly](https://dev.to/devops-make-it-run/php-in-2025-evolving-rapidly-1j44)
+- [Letting the ducks fly: How we’re switching from Redux to React Query](https://dev.to/wecasa/letting-the-ducks-fly-how-were-switching-from-redux-to-react-query-559c)
+- [Vibecoding and the future of code security](https://dev.to/epilogueteam/vibecoding-and-the-future-of-code-security-nbp)
+- [N8N Installation And Configuration](https://dev.to/sudlo2014/n8n-installation-and-configuration-4k00)
+- [if you are still using static keys in your github actions pipeline to access AWS. then you need to read this to fix your workflows](https://dev.to/tobilobaogundiyan/if-you-are-still-using-static-keys-in-your-github-actions-pipeline-to-access-aws-then-you-need-to-ood)
+- [Accessing AWS in Github Actions Using OIDC](https://dev.to/tobilobaogundiyan/accessing-aws-in-github-actions-using-oidc-h72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
