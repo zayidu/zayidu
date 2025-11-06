@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Health MCP Server: Use Cases for Developers](https://dev.to/momentumai/apple-health-mcp-server-use-cases-for-developers-kaa)
-- [The Rise of Chatbots and Conversational AI in Customer Service Development](https://dev.to/softwaredeveloper01/the-rise-of-chatbots-and-conversational-ai-in-customer-service-development-4jc)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3302)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-24la)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4636)
+- [EU Cyber Resilience Act &lpar;CRA&rpar; Explained: What WP Agencies &amp; Developers Need to Know](https://dev.to/medha_bhatt_21b7dc4cc53e7/eu-cyber-resilience-act-cra-explained-what-wp-agencies-developers-need-to-know-p1l)
+- [AI in Frontend Development: Lessons from Testing Modern Design-to-Code Tools like V0, Builder.io, and Kombai](https://dev.to/prankurpandeyy/ai-in-frontend-development-lessons-from-testing-modern-design-to-code-tools-like-v0-builderio-4g2h)
+- [How Race Conditions Can Break Your System?](https://dev.to/_satria_herman/how-race-condition-will-kill-your-system-ef5)
+- [CODECK: A PORTABLE LINUX BASED COMPUTER](https://dev.to/raghul_e7c01cc9b7219953ab/codeck-a-portable-linux-based-computer-1o18)
+- [🧪 Selur: Reclaiming the Web Contract—The Pure CSS UI Engine You Didn&#39;t Know You Needed](https://dev.to/tdjdev/selur-reclaiming-the-web-contract-the-pure-css-ui-engine-you-didnt-know-you-needed-4912)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
