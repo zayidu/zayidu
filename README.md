@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Sortable Tree — A Lightweight Drag &amp; Drop Tree in Vanilla TypeScript](https://dev.to/marcantondahmen/building-sortable-tree-a-lightweight-drag-drop-tree-in-vanilla-typescript-f7l)
-- [🧑‍🚀 Choosing the Right Engine to Launch Your LLM &lpar;LM Studio, Ollama, and vLLM&rpar;](https://dev.to/astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-195o)
-- [Reminder: EOL for Puppet CD 4.x and Puppet Comply 2.x](https://dev.to/puppet/reminder-eol-for-puppet-cd-4x-and-puppet-comply-2x-27h6)
-- [How Experiential Events Bridge the Gap Between Tech and People](https://dev.to/mmakerscafe/how-experiential-events-bridge-the-gap-between-tech-and-people-1740)
-- [Daily Artificial Intelligence Digest - Nov 07, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-07-2025-220a)
+- [The Next Era of Databases: When Queries Write Themselves](https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578)
+- [Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)
+- [Transforming Engineering Culture in a 300-Person Company](https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l)
+- [Update page title counter with custom turbo streams in Rails](https://dev.to/railsdesigner/update-page-title-counter-with-custom-turbo-streams-in-rails-3e52)
+- [PHP in 2025 Evolving Rapidly](https://dev.to/devops-make-it-run/php-in-2025-evolving-rapidly-1j44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
