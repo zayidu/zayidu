@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Value and Pointer Receivers in Go: Building a Crypto Tracker](https://dev.to/ajipelumi/understanding-value-and-pointer-receivers-in-go-building-a-crypto-tracker-lkn)
-- [MVC and Client-Server Details](https://dev.to/zamirul_kabir/mvc-and-client-server-details-51n1)
-- [Free GitHub Backup, 2 commands &lpar;read-only, restore with plain Git&rpar;](https://dev.to/richard_ballard_ead60395c/free-github-backup-2-commands-read-only-restore-with-plain-git-3j06)
-- [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-2jc1)
-- [div diary 20251105](https://dev.to/hirooka_kazuya_d7f37d3cde/div-diary-20251105-595f)
+- [Practical Guide: Mastering Custom Gaussian Blur Pop-ups in HarmonyOS](https://dev.to/harmonyos/practical-guide-mastering-custom-gaussian-blur-pop-ups-in-harmonyos-33m2)
+- [SafeLine: A Next-Generation Self-Hosted Web Application Firewall](https://dev.to/arina_cholee/safeline-a-next-generation-self-hosted-web-application-firewall-4b6j)
+- [Laravel Log Cleaner v2.01 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordiviera/laravel-log-cleaner-v201-memory-efficient-log-management-with-compression-backup-loc)
+- [Crafting High-Performance Full-Stack Applications: Quarkus Native and Angular](https://dev.to/issam1991/crafting-high-performance-full-stack-applications-quarkus-native-and-angular-2eif)
+- [Creating Private, High-Availability Azure Blob Storage for Internal Backups](https://dev.to/ojosamuel129/creating-private-high-availability-azure-blob-storage-for-internal-backups-4hi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
