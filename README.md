@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚛ Quantum Computing: The Next Revolution in Technology](https://dev.to/mohansh_technologies_a5e1/quantum-computing-the-next-revolution-in-technology-5dlo)
-- [Not sure whether to use VMs or containers for your next setup?](https://dev.to/web_learning_4de0b1e0557/not-sure-whether-to-use-vms-or-containers-for-your-next-setup-j5o)
-- [My SaaS homepage design journey as a backend developer](https://dev.to/vincentbean/my-saas-homepage-design-journey-as-a-backend-developer-32d4)
-- [Stop Re-Typing Terminal Commands! Boost Your Workflow with IntelliShell](https://dev.to/lasantosr/stop-re-typing-terminal-commands-boost-your-workflow-with-intellishell-530h)
-- [Migrating a Laravel Application From a Relational Database &lpar;PostgreSQL&rpar; to MongoDB](https://dev.to/mongodb/migrating-a-laravel-application-from-a-relational-database-postgresql-to-mongodb-m0m)
+- [Create a MCP server from scratch](https://dev.to/fairen/create-a-mcp-server-from-scratch-4lea)
+- [📊 Day 61 of My Data Analytics Journey!](https://dev.to/ramyacse/day-61-of-my-data-analytics-journey-5de9)
+- [I Built My Own AI Agent using n8n — And You Can Too](https://dev.to/debs_obrien/i-built-my-own-ai-agent-and-you-can-too-56l1)
+- [Deep Dive into G-Eval: How LLMs Evaluate Themselves](https://dev.to/zlatkov/deep-dive-into-g-eval-how-llms-evaluate-themselves-3n3a)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-15b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
