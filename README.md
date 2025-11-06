@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
-- [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3clh)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e6j)
-- [AI Evaluation - Future AGI](https://dev.to/devinfo/ai-evaluation-future-agi-2po9)
+- [The Missing Layer: How I Completed Our Data Lakehouse Architecture &lpar;When Everyone Else Stopped at Silver&rpar;](https://dev.to/aygul_aksyanova/the-missing-layer-how-i-completed-our-data-lakehouse-architecture-when-everyone-else-stopped-at-56hm)
+- [Why your genius agent is also brain dead: The tale of 7000 scenarios and the knowledge we almost lost](https://dev.to/aviad_rozenhek_cba37e0660/why-your-genius-agent-is-also-brain-dead-the-tale-of-7000-scenarios-and-the-knowledge-we-almost-1jdi)
+- [[Boost]](https://dev.to/tobilobaogundiyan/-15ln)
+- [[Boost]](https://dev.to/tobilobaogundiyan/-2eah)
+- [Rethinking My AWS Admin Access: Lessons Learned From Moving to Single-Sign-On](https://dev.to/tobilobaogundiyan/rethinking-my-aws-admin-access-lessons-learned-from-moving-to-single-sign-on-42gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
