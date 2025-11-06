@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)
-- [Building a Password Checker with Vanilla JS &lpar;No Frameworks!&rpar;](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)
-- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2mo6)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4pd2)
+- [Inside a Tech War Room: What Real Leadership Looks Like During System Outages](https://dev.to/yaseen_tech/inside-a-tech-war-room-what-real-leadership-looks-like-during-system-outages-g39)
+- [5 Ways to Scale FreeSWITCH for High-Performance VoIP Systems](https://dev.to/jackmorris10/5-ways-to-scale-freeswitch-for-high-performance-voip-systems-274i)
+- [Where coding agents excel &lpar;and where they don&#39;t&rpar;](https://dev.to/eelcolos/where-coding-agents-excel-and-where-they-dont-kba)
+- [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
+- [Website Breakdown Highlights Risks of Unmanaged Plugin Updates, Says Asaaju Peter of Phemight Technologies](https://dev.to/phemight_technologies_281/website-breakdown-highlights-risks-of-unmanaged-plugin-updates-says-asaaju-peter-of-phemight-580k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
