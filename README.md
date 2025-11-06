@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Skeptic&#39;s Guide to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
-- [Effective Terraforming: Secrets of the Pros](https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1)
-- [Laravel Log Cleaner v2.0 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordi_kengne/laravel-log-cleaner-v20-memory-efficient-log-management-with-compression-backup-3643)
-- [Detached agent chains that work like people do](https://dev.to/antti_kaipila/detached-agent-chains-that-work-like-people-do-5h8l)
-- [Why Business Central’s Standard BOM Setup Falls Short for Complex Configurations](https://dev.to/insight_works/why-business-centrals-standard-bom-setup-falls-short-for-complex-configurations-kal)
+- [Understanding Value and Pointer Receivers in Go: Building a Crypto Tracker](https://dev.to/ajipelumi/understanding-value-and-pointer-receivers-in-go-building-a-crypto-tracker-lkn)
+- [MVC and Client-Server Details](https://dev.to/zamirul_kabir/mvc-and-client-server-details-51n1)
+- [Free GitHub Backup, 2 commands &lpar;read-only, restore with plain Git&rpar;](https://dev.to/richard_ballard_ead60395c/free-github-backup-2-commands-read-only-restore-with-plain-git-3j06)
+- [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-2jc1)
+- [div diary 20251105](https://dev.to/hirooka_kazuya_d7f37d3cde/div-diary-20251105-595f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
