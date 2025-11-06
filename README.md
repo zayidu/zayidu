@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Layer: How I Completed Our Data Lakehouse Architecture &lpar;When Everyone Else Stopped at Silver&rpar;](https://dev.to/aygul_aksyanova/the-missing-layer-how-i-completed-our-data-lakehouse-architecture-when-everyone-else-stopped-at-56hm)
-- [Why your genius agent is also brain dead: The tale of 7000 scenarios and the knowledge we almost lost](https://dev.to/aviad_rozenhek_cba37e0660/why-your-genius-agent-is-also-brain-dead-the-tale-of-7000-scenarios-and-the-knowledge-we-almost-1jdi)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-15ln)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-2eah)
-- [Rethinking My AWS Admin Access: Lessons Learned From Moving to Single-Sign-On](https://dev.to/tobilobaogundiyan/rethinking-my-aws-admin-access-lessons-learned-from-moving-to-single-sign-on-42gd)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2874)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
+- [TypeScript Mutually Exclusive Unions: From `?: never` to `ExclusifyUnion`](https://dev.to/ycmjason/typescript-mutually-exclusive-unions-from-never-to-exclusifyunion-3fhm)
+- [Explain the difference between subquery,CTE and stored procedures](https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf)
+- [Secure Apache with SSL in Docker](https://dev.to/tshenolo/secure-apache-with-ssl-in-docker-8k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
