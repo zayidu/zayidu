@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Letting the ducks fly: How we’re switching from Redux to React Query](https://dev.to/wecasa/letting-the-ducks-fly-how-were-switching-from-redux-to-react-query-559c)
-- [Vibecoding and the future of code security](https://dev.to/epilogueteam/vibecoding-and-the-future-of-code-security-nbp)
-- [N8N Installation And Configuration](https://dev.to/sudlo2014/n8n-installation-and-configuration-4k00)
-- [if you are still using static keys in your github actions pipeline to access AWS. then you need to read this to fix your workflows](https://dev.to/tobilobaogundiyan/if-you-are-still-using-static-keys-in-your-github-actions-pipeline-to-access-aws-then-you-need-to-ood)
-- [Accessing AWS in Github Actions Using OIDC](https://dev.to/tobilobaogundiyan/accessing-aws-in-github-actions-using-oidc-h72)
+- [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
+- [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3clh)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e6j)
+- [AI Evaluation - Future AGI](https://dev.to/devinfo/ai-evaluation-future-agi-2po9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
