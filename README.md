@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍🚀 Mission Accomplished: How an Engineer-Astronaut Prepared Meta’s CRAG Benchmark for Launch in Docker](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6)
-- [Promptcraft for Play: Endless Conversational Adventures with ChatGPT](https://dev.to/arturormk/promptcraft-for-play-endless-conversational-adventures-with-chatgpt-5dhg)
-- [DotCompute RC2 — Cross-Backend GPU Compute for .NET](https://dev.to/mivertowski/dotcompute-rc2-cross-backend-gpu-compute-for-net-4dh)
-- [Case Study: Improving Developer Productivity with AI Code Detection Solutions](https://dev.to/carl_max007/case-study-improving-developer-productivity-with-ai-code-detection-solutions-3i0p)
-- [Easily Convert your React Native Project To Desktop App](https://dev.to/yhoungbrown/easily-convert-your-react-native-project-to-desktop-app-4l8l)
+- [Build Your Own Niche AI SaaS for AI-Generated B-Roll Videos](https://dev.to/sevimsoffice/build-your-own-niche-ai-saas-for-ai-generated-b-roll-videos-483d)
+- [Eksploitasi Web Laravel dan Antisipasinya](https://dev.to/ahmadasroni38/eksploitasi-web-laravel-dan-antisipasinya-2g6l)
+- [El propósito del Testing](https://dev.to/joshuacba08/el-proposito-del-testing-5571)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1em1)
+- [The rewrite dilemma in software engineering](https://dev.to/rockandnull/the-rewrite-dilemma-in-software-engineering-446h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
