@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2874)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
-- [TypeScript Mutually Exclusive Unions: From `?: never` to `ExclusifyUnion`](https://dev.to/ycmjason/typescript-mutually-exclusive-unions-from-never-to-exclusifyunion-3fhm)
-- [Explain the difference between subquery,CTE and stored procedures](https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf)
-- [Secure Apache with SSL in Docker](https://dev.to/tshenolo/secure-apache-with-ssl-in-docker-8k3)
+- [AWS Capabilities by Region](https://dev.to/aws-builders/aws-capabilities-by-region-3ffb)
+- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-1lj9)
+- [Criei um Micro SaaS de Fala em Inglês em Duas Semanas — com R$ 40,00](https://dev.to/lvsouzadev/criei-um-micro-saas-de-fala-em-ingles-em-duas-semanas-com-r-4000-43g0)
+- [Getting Started with Kubernetes: A Complete Guide](https://dev.to/instadevops/getting-started-with-kubernetes-a-complete-guide-16g8)
+- [Building Sustainable Business Models for Pump.fun Projects in 2025](https://dev.to/hamd_writer_8c77d9c88c188/building-sustainable-business-models-for-pumpfun-projects-in-2025-2k9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
