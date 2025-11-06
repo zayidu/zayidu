@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4aip)
-- [OpenAI spreads a $600B cloud AI bet across AWS, Oracle &amp; Microsoft &lpar;and what it means for SaaS UI/UX&rpar;](https://dev.to/hashbyt/openai-spreads-a-600b-cloud-ai-bet-across-aws-oracle-microsoft-and-what-it-means-for-saas-49d7)
+- [🧑‍🚀 Mission Accomplished: How an Engineer-Astronaut Prepared Meta’s CRAG Benchmark for Launch in Docker](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6)
+- [Promptcraft for Play: Endless Conversational Adventures with ChatGPT](https://dev.to/arturormk/promptcraft-for-play-endless-conversational-adventures-with-chatgpt-5dhg)
+- [DotCompute RC2 — Cross-Backend GPU Compute for .NET](https://dev.to/mivertowski/dotcompute-rc2-cross-backend-gpu-compute-for-net-4dh)
+- [Case Study: Improving Developer Productivity with AI Code Detection Solutions](https://dev.to/carl_max007/case-study-improving-developer-productivity-with-ai-code-detection-solutions-3i0p)
+- [Easily Convert your React Native Project To Desktop App](https://dev.to/yhoungbrown/easily-convert-your-react-native-project-to-desktop-app-4l8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
