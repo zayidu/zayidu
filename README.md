@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is DevOps? A Beginner’s Guide to How Development and Operation Teams Work Together](https://dev.to/pearlicia/what-is-devops-a-beginners-guide-to-how-development-and-operation-teams-work-together-5b3b)
-- [Working Towards Improved PAM: Widening The Scope And Taking Control](https://dev.to/gitguardian/working-towards-improved-pam-widening-the-scope-and-taking-control-fbd)
-- [80 Days of Python Challenges: How I Turned Consistency into Progress](https://dev.to/shahrouzlogs/80-days-of-python-challenges-how-i-turned-consistency-into-progress-1ib2)
-- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
-- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
+- [Clamp CSS in 2025 | Why I Stopped Writing Media Queries For Small Tweaks](https://dev.to/danilo1/clamp-css-in-2025-why-i-stopped-writing-media-queries-for-small-tweaks-7fk)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2md0)
+- [Intent-Driven Assertions are Redefining How We Test Software](https://dev.to/shib_itsme/intent-driven-assertions-are-redefining-how-we-test-software-5400)
+- [Enterprise Data Access: Fully Automated Soft-Delete](https://dev.to/gigaherz/enterprise-data-access-fully-automated-soft-delete-a9b)
+- [HTTP/3: Evolução histórica e diferenças nas versões existentes.](https://dev.to/lsbrel/http3-evolucao-historica-e-diferencas-nas-versoes-existentes-36o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
