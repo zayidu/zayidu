@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing TokiForge: A Framework-Agnostic Design Token Engine with Runtime Theme Switching](https://dev.to/toozuuu/introducing-tokiforge-a-framework-agnostic-design-token-engine-with-runtime-theme-switching-2e72)
-- [Efficient Laziness at Scale: The Agile Team I Never Needed](https://dev.to/pascal_cescato_692b7a8a20/efficient-laziness-at-scale-the-agile-team-i-never-needed-5052)
-- [Simplifier la gestion des erreurs de validation dans Angular avec `ng-input-validation`](https://dev.to/bibangjoseph/simplifier-la-gestion-des-erreurs-de-validation-dans-angular-avec-ng-input-validation-366g)
-- [You’re not the real product owner if you can’t say, “F*ck it, let’s kill the product.” Until you have that power, you’re just managing, not owning.](https://dev.to/rndthts/youre-not-the-real-product-owner-if-you-cant-say-fck-it-lets-kill-the-product-until-you-4oh9)
-- [The OSI Model Explained: How Data Really Flows Through the Internet](https://dev.to/aws-builders/the-osi-model-explained-how-data-really-flows-through-the-internet-548h)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4aip)
+- [OpenAI spreads a $600B cloud AI bet across AWS, Oracle &amp; Microsoft &lpar;and what it means for SaaS UI/UX&rpar;](https://dev.to/hashbyt/openai-spreads-a-600b-cloud-ai-bet-across-aws-oracle-microsoft-and-what-it-means-for-saas-49d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
