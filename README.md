@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Cyber Resilience Act &lpar;CRA&rpar; Explained: What WP Agencies &amp; Developers Need to Know](https://dev.to/medha_bhatt_21b7dc4cc53e7/eu-cyber-resilience-act-cra-explained-what-wp-agencies-developers-need-to-know-p1l)
-- [AI in Frontend Development: Lessons from Testing Modern Design-to-Code Tools like V0, Builder.io, and Kombai](https://dev.to/prankurpandeyy/ai-in-frontend-development-lessons-from-testing-modern-design-to-code-tools-like-v0-builderio-4g2h)
-- [How Race Conditions Can Break Your System?](https://dev.to/_satria_herman/how-race-condition-will-kill-your-system-ef5)
-- [CODECK: A PORTABLE LINUX BASED COMPUTER](https://dev.to/raghul_e7c01cc9b7219953ab/codeck-a-portable-linux-based-computer-1o18)
-- [🧪 Selur: Reclaiming the Web Contract—The Pure CSS UI Engine You Didn&#39;t Know You Needed](https://dev.to/tdjdev/selur-reclaiming-the-web-contract-the-pure-css-ui-engine-you-didnt-know-you-needed-4912)
+- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)
+- [Building a Password Checker with Vanilla JS &lpar;No Frameworks!&rpar;](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)
+- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2mo6)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4pd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
