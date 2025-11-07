@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
-- [Helios Engine v0.4.3 Update — Smarter Tooling and Easier Initialization](https://dev.to/ammar-alnagar/helios-engine-v043-update-smarter-tooling-and-easier-initialization-3i34)
-- [2528. Maximize the Minimum Powered City](https://dev.to/mdarifulhaque/2528-maximize-the-minimum-powered-city-338p)
-- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
-- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
+- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
+- [Java regionMatches&lpar;&rpar; Explained: Your Go-To Guide for Smart String Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/java-regionmatches-explained-your-go-to-guide-for-smart-string-comparison-1f9)
+- [Launching Formgrid: Open-Source, Privacy-Friendly Form Submission Service](https://dev.to/allenarduino/launching-formgrid-open-source-privacy-friendly-form-submission-service-fdi)
+- [Forked A/B Index Optimizer: Making Database Optimization Accessible to Everyone](https://dev.to/hulyamasharipov/forked-ab-index-optimizer-making-database-optimization-accessible-to-everyone-3641)
+- [Agent Lagbaja](https://dev.to/lostklan/agent-lagbaja-3c86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
