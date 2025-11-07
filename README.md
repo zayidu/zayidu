@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Reason Developers Hate Meetings &lpar;It’s Not Time&rpar; 🧠💥](https://dev.to/sylwia-lask/the-real-reason-developers-hate-meetings-its-not-time-31do)
-- [How to improve your waitlist landing page and get more signups?](https://dev.to/avdept/how-to-improve-your-waitlist-landing-page-and-get-more-signups-3b87)
-- [Agentic AI has moved from lab to production, ChatGPT and GitHub Copilot are the leaders, says AI analyst firm SlashData](https://dev.to/slashdatahq/agentic-ai-has-moved-from-lab-to-production-chatgpt-and-github-copilot-are-the-leaders-says-ai-2gi)
-- [VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework forUnseen Concept Manipulation](https://dev.to/paperium/vla2-empowering-vision-language-action-models-with-an-agentic-framework-forunseen-concept-4405)
-- [Hacktoberfest 25 : l’édition Zenika Open Source](https://dev.to/zenika/hacktoberfest-25-ledition-zenika-open-source-3mh3)
+- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
+- [Helios Engine v0.4.3 Update — Smarter Tooling and Easier Initialization](https://dev.to/ammar-alnagar/helios-engine-v043-update-smarter-tooling-and-easier-initialization-3i34)
+- [2528. Maximize the Minimum Powered City](https://dev.to/mdarifulhaque/2528-maximize-the-minimum-powered-city-338p)
+- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
