@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Micro-Frontends 2025: How to Keep Them from Becoming Micro-Frankensteins](https://dev.to/tahamjp/micro-frontends-2025-how-to-keep-them-from-becoming-micro-frankensteins-2ebd)
-- [Syncing Obsidian Notes to Notion by Python Script &lpar;Part 3&rpar; - Auto-Linking Related Databases](https://dev.to/koshirok096/syncing-obsidian-notes-to-notion-by-python-script-part-3-auto-linking-related-databases-35k2)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1m71)
-- [A Practical Guide to Managing Multiple Git Accounts with SSH](https://dev.to/m_s_5360/a-practical-guide-to-managing-multiple-git-accounts-with-ssh-3134)
-- [A DAG-Based Approach to LLM Workflow Orchestration](https://dev.to/ivan_holovach_f2abf13a514/a-dag-based-approach-to-llm-workflow-orchestration-1i98)
+- [Gemini CLI: The Future of Programming and Reflections on the Impacts of AI](https://dev.to/windmateus/gemini-cli-the-future-of-programming-and-reflections-on-the-impacts-of-ai-jg2)
+- [بهترین اپلیکیشن‌ها برای ادیت ویدیو و ساخت ریلز اینستاگرام](https://dev.to/dorify/bhtryn-plykhyshnh-bry-dyt-wydyw-w-skht-rylz-ynstgrm-5f9l)
+- [Are Your Python Fundamentals as Solid as You Think?](https://dev.to/onlineproxy/are-your-python-fundamentals-as-solid-as-you-think-3499)
+- [[Boost]](https://dev.to/wparad/-5ach)
+- [How do you handle bug reports and QA in your web or mobile app workflow?](https://dev.to/abojorges/how-do-you-handle-bug-reports-and-qa-in-your-web-or-mobile-app-workflow-433b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
