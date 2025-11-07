@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
-- [Java regionMatches&lpar;&rpar; Explained: Your Go-To Guide for Smart String Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/java-regionmatches-explained-your-go-to-guide-for-smart-string-comparison-1f9)
-- [Launching Formgrid: Open-Source, Privacy-Friendly Form Submission Service](https://dev.to/allenarduino/launching-formgrid-open-source-privacy-friendly-form-submission-service-fdi)
-- [Forked A/B Index Optimizer: Making Database Optimization Accessible to Everyone](https://dev.to/hulyamasharipov/forked-ab-index-optimizer-making-database-optimization-accessible-to-everyone-3641)
-- [Agent Lagbaja](https://dev.to/lostklan/agent-lagbaja-3c86)
+- [Dev Journal: This week&#39;s progress](https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8)
+- [Why I&#39;m Ditching My Smart Home &lpar;And You Should Too&rpar;](https://dev.to/nadim_ch0wdhury/why-im-ditching-my-smart-home-and-you-should-too-35o9)
+- [Truthful Engineering: How to Build Products People Actually Trust](https://dev.to/sonia_bobrik_1939cdddd79d/truthful-engineering-how-to-build-products-people-actually-trust-3mee)
+- [Waterfall Methodology AI: The Smart Evolution of Traditional Project Management](https://dev.to/writegenic/waterfall-methodology-ai-the-smart-evolution-of-traditional-project-management-3j4b)
+- [Tell Me Why My Design Will Fail](https://dev.to/leonpennings/tell-me-why-my-design-will-fail-4ell)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
