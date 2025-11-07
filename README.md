@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Journal: This week&#39;s progress](https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8)
-- [Why I&#39;m Ditching My Smart Home &lpar;And You Should Too&rpar;](https://dev.to/nadim_ch0wdhury/why-im-ditching-my-smart-home-and-you-should-too-35o9)
-- [Truthful Engineering: How to Build Products People Actually Trust](https://dev.to/sonia_bobrik_1939cdddd79d/truthful-engineering-how-to-build-products-people-actually-trust-3mee)
-- [Waterfall Methodology AI: The Smart Evolution of Traditional Project Management](https://dev.to/writegenic/waterfall-methodology-ai-the-smart-evolution-of-traditional-project-management-3j4b)
-- [Tell Me Why My Design Will Fail](https://dev.to/leonpennings/tell-me-why-my-design-will-fail-4ell)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2dnb)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-56k0)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4eee)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5h0d)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-24k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
