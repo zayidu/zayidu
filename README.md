@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Highly Available Pi-hole Cluster with Ansible &lpar;VRRP&rpar;](https://dev.to/mikula/build-a-highly-available-pi-hole-cluster-with-ansible-vrrp-gbp)
-- [🚀 I Built a Full SaaS App in 10 Minutes Using Blink.new — No Code, No Team, No Stress](https://dev.to/duodevlogs/i-built-a-full-saas-app-in-10-minutes-using-blinknew-no-code-no-team-no-stress-lfo)
-- [How Reddit Shaped v1.1 of My Open-Source Secrets Scanner](https://dev.to/amosfinds/how-reddit-shaped-v11-of-my-open-source-secrets-scanner-2n7b)
-- [MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal MathematicalReasoning](https://dev.to/paperium/mathcanvas-intrinsic-visual-chain-of-thought-for-multimodal-mathematicalreasoning-2e61)
-- [dev diary 20251106](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251106-3576)
+- [How to Integrate SafeLine WAF with Ingress-Nginx in Kubernetes](https://dev.to/arina_cholee/how-to-integrate-safeline-waf-with-ingress-nginx-in-kubernetes-4661)
+- [Using the Fetch API](https://dev.to/fakestandard/using-the-fetch-api-146l)
+- [Wireframe-UI: UI Components for Rapid Prototyping in Code](https://dev.to/jqueryscript/wireframe-ui-ui-components-for-rapid-prototyping-in-code-1i88)
+- [Why I&#39;m Still Using jQuery in 2025 &lpar;Never gonna give you up&rpar;](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
+- [Most prompts fail, not because AI is weak, but because our thinking isn’t structured enough.
+
+Most people don’t get bad AI outputs because AI is limited; they get bad outputs because their thinking is limited.](https://dev.to/jaideepparashar/most-prompts-fail-not-because-ai-is-weak-but-because-our-thinking-isnt-structured-enough-3cg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
