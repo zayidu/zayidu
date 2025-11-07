@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unconventional AI in Advertising: LLaMA for Creative Ad Gene](https://dev.to/drcarlosruizviquez/unconventional-ai-in-advertising-llama-for-creative-ad-gene-3o28)
-- [Smart Contracts on XRPL&#39;s AlphaNet](https://dev.to/dangell7/smart-contracts-on-xrpls-alphanet-1loo)
-- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
-- [**Revolutionizing AI: Recent Breakthrough in RAG Systems**](https://dev.to/drcarlosruizviquez/revolutionizing-ai-recent-breakthrough-in-rag-systems-5ekg)
-- [Tailwind CSS Won the War... But We&#39;re the Losers](https://dev.to/elvissautet/tailwind-css-won-the-war-but-were-the-losers-4877)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-40km)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3m11)
+- [Getting Organized with the Synology DS925+: My Honest First NAS Experience](https://dev.to/hardeep_singhajimal_e72e/getting-organized-with-the-synology-ds925-my-honest-first-nas-experience-cp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
