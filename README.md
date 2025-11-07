@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RefusalBench: Generative Evaluation of Selective Refusal in Grounded LanguageModels](https://dev.to/paperium/refusalbench-generative-evaluation-of-selective-refusal-in-grounded-languagemodels-jac)
-- [How we build website templates](https://dev.to/shreyvijayvargiya/how-we-build-website-templates-29gi)
-- [Organizador de carpetas hecho en python](https://dev.to/fiedric/organizador-de-carpetas-hecho-en-python-56h8)
-- [positive-only developer recognition tool](https://dev.to/wayneworkman/positive-only-developer-recognition-tool-5d6c)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
+- [Novel idea in vector search: Wormhole vectors](https://dev.to/vectorpodcast/novel-idea-in-vector-search-wormhole-vectors-3dg8)
+- [JavaScript Made Easy: Your First Step into Web Development](https://dev.to/suraj_kumar_fb57ae0928df2/javascript-made-easy-your-first-step-into-web-development-1dk2)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039)
+- [How Small Retailers Can Use Batch Background Removers to Compete with Big Brands](https://dev.to/freepixel11/how-small-retailers-can-use-batch-background-removers-to-compete-with-big-brands-2dh6)
+- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
