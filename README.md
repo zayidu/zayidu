@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-hcp)
-- [MySQL Index Optimization for Complex Laravel Queries](https://dev.to/addwebsolutionpvtltd/mysql-index-optimization-for-complex-laravel-queries-1abc)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-40om)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2efc)
-- [Deep Dive in Transparent Proxy Code](https://dev.to/sebastien_levy_233585b9a3/deep-dive-in-transparent-proxy-code-2o45)
+- [Stop Inverting Your Colors: The Modern Way to Implement Dark &amp; Light Mode](https://dev.to/vinay_5d249e669fb47d24e2c/stop-inverting-your-colors-the-modern-way-to-implement-dark-light-mode-4p2d)
+- [Step-by-Step Guide to Effective Project Management](https://dev.to/leo_johnson_e34af4a6d9bd9/step-by-step-guide-to-effective-project-management-22ek)
+- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
+- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
+- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
