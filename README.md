@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2mh1)
-- [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
-- [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
-- [Build a YouTube Search &amp; Download API Integration in Minutes &lpar;with RapidAPI&rpar;](https://dev.to/ilyas_yldrm_72e3216f68/build-a-youtube-search-download-api-integration-in-minutes-with-rapidapi-4e26)
+- [How CSS Modules in Next.js Ensure Consistent and Scalable Web Design](https://dev.to/fiona_blackwood_07/how-css-modules-in-nextjs-ensure-consistent-and-scalable-web-design-1p7a)
+- [Halloween Town Explorer — A Perfect Landing with a Playable 3D Pumpkin Hunt](https://dev.to/charmpic/halloween-town-explorer-a-perfect-landing-with-a-playable-3d-pumpkin-hunt-4mpd)
+- [Achieving Idempotency with the Inbox Pattern](https://dev.to/actor-dev/inbox-pattern-51af)
+- [Garantindo Idempotência com o Padrão Inbox](https://dev.to/actor-dev/garantindo-idempotencia-com-o-padrao-inbox-id1)
+- [Composition vs Inheritance — The Practical Guide Every Developer Should Know](https://dev.to/parthkamal/composition-vs-inheritance-the-practical-guide-every-developer-should-know-3ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
