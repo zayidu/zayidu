@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-9af)
-- [🏗️ Mastering Infrastructure as Code: From Manual Chaos to Multi-Cloud Orchestration [Week-7—P1] ⚡](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-5e86)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-52i2)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nei)
+- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
+- [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
+- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
+- [Building an AI News Digest Agent with Mastra and Telex.im](https://dev.to/ursulaonyi/building-an-ai-news-digest-agent-with-mastra-and-telexim-3p1h)
+- [Introducing Web3-Hooks](https://dev.to/lucascosta1996/introducing-web3-hooks-k5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
