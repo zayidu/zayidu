@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini CLI: The Future of Programming and Reflections on the Impacts of AI](https://dev.to/windmateus/gemini-cli-the-future-of-programming-and-reflections-on-the-impacts-of-ai-jg2)
-- [بهترین اپلیکیشن‌ها برای ادیت ویدیو و ساخت ریلز اینستاگرام](https://dev.to/dorify/bhtryn-plykhyshnh-bry-dyt-wydyw-w-skht-rylz-ynstgrm-5f9l)
-- [Are Your Python Fundamentals as Solid as You Think?](https://dev.to/onlineproxy/are-your-python-fundamentals-as-solid-as-you-think-3499)
-- [[Boost]](https://dev.to/wparad/-5ach)
-- [How do you handle bug reports and QA in your web or mobile app workflow?](https://dev.to/abojorges/how-do-you-handle-bug-reports-and-qa-in-your-web-or-mobile-app-workflow-433b)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-9af)
+- [🏗️ Mastering Infrastructure as Code: From Manual Chaos to Multi-Cloud Orchestration [Week-7—P1] ⚡](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-5e86)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-52i2)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
