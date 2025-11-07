@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Proven Lead Generation Frameworks Used by Top B2B SaaS Companies](https://dev.to/aayush_sharma_8eb92ed6bbf/5-proven-lead-generation-frameworks-used-by-top-b2b-saas-companies-5hgn)
-- [URL Shortener Using Snowflake IDs and Base62 Encoding](https://dev.to/speaklouder/url-shortener-using-snowflake-ids-and-base62-encoding-4179)
-- [CSS STYLES](https://dev.to/suma_suma/css-styles-2o23)
-- [Debugging Consent: Common Pitfalls in CMP Implementation](https://dev.to/mehwish_malik_4f29ff7fb04/debugging-consent-common-pitfalls-in-cmp-implementation-4hd4)
-- [I Thought I Knew Computers - Until I Read About Supercomputers](https://dev.to/smriti7857/i-thought-i-knew-computers-until-i-read-about-supercomputers-2kg3)
+- [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2mh1)
+- [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
+- [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
+- [Build a YouTube Search &amp; Download API Integration in Minutes &lpar;with RapidAPI&rpar;](https://dev.to/ilyas_yldrm_72e3216f68/build-a-youtube-search-download-api-integration-in-minutes-with-rapidapi-4e26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
