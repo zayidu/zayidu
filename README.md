@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate SafeLine WAF with Ingress-Nginx in Kubernetes](https://dev.to/arina_cholee/how-to-integrate-safeline-waf-with-ingress-nginx-in-kubernetes-4661)
-- [Using the Fetch API](https://dev.to/fakestandard/using-the-fetch-api-146l)
-- [Wireframe-UI: UI Components for Rapid Prototyping in Code](https://dev.to/jqueryscript/wireframe-ui-ui-components-for-rapid-prototyping-in-code-1i88)
-- [Why I&#39;m Still Using jQuery in 2025 &lpar;Never gonna give you up&rpar;](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
-- [Most prompts fail, not because AI is weak, but because our thinking isn’t structured enough.
-
-Most people don’t get bad AI outputs because AI is limited; they get bad outputs because their thinking is limited.](https://dev.to/jaideepparashar/most-prompts-fail-not-because-ai-is-weak-but-because-our-thinking-isnt-structured-enough-3cg5)
+- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5c)
+- [👋🏾 From Ghana to Full-Stack: My Journey as a Self-Taught Developer](https://dev.to/kwesithedev/from-ghana-to-full-stack-my-journey-as-a-self-taught-developer-4a6k)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4h9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
