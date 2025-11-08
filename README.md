@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
-- [Adding Automated Testing to My CLI Tool](https://dev.to/elsad_humbetli_0971c995ce/adding-automated-testing-to-my-cli-tool-24oi)
-- [[Boost]](https://dev.to/meer/-1chi)
-- [Most people use AI the way they use Google — type a question, hope for something useful, and leave with surface-level answers.
-
-However, I use AI as a thinking partner, execution engine, and speed multiplier across product-building and decision-making.](https://dev.to/jaideepparashar/most-people-use-ai-the-way-they-use-google-type-a-question-hope-for-something-useful-and-leave-8le)
-- [Inside My AI Workflow: How I Get Real Work Done With Prompts](https://dev.to/jaideepparashar/inside-my-ai-workflow-how-i-get-real-work-done-with-prompts-2k3m)
+- [SafeMigrate: Never Fear Database Migrations Again with AI Agents](https://dev.to/depapp/safemigrate-never-fear-database-migrations-again-with-ai-agents-2aon)
+- [Build A Watch Option for TypeScript Runtime in Rust](https://dev.to/whyang9701/build-a-watch-option-for-typescript-runtime-in-rust-1if1)
+- [Git install](https://dev.to/jumptotech/git-install-579i)
+- [The JVM’s Greatest Irony: Brilliant Engineering, Painful Scripting](https://dev.to/anand_jaisy_2f7644a12001b/scripting-in-java-nightmare-2pnj)
+- [Writing and running End-to-End Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-end-to-end-tests-in-autotools-1fm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
