@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
-- [iOS 26.2 Beta is Here: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-beta-is-here-what-devs-need-to-know-1dpn)
-- [Feature Flag Overrides: The Feature Nobody Builds Until They Need It](https://dev.to/arunlakshman/feature-flag-overrides-the-feature-nobody-builds-until-they-need-it-4c9h)
-- [🌟](https://dev.to/thebitforge/-3f95)
-- [Which Browser to Use in 2026: My Messy Notes](https://dev.to/mil10akash/which-browser-to-use-in-2026-my-messy-notes-m51)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-164k)
+- [I want to share the API I&#39;m using, since it&#39;s hosted on CFWork.](https://dev.to/chinese-tingfeng/i-want-to-share-the-api-im-using-since-its-hosted-on-cfwork-1k8p)
+- [How to install n8n locally on Windows](https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a)
+- [Becoming a Full Stack developer Day 1](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-1-5fhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
