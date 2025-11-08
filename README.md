@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up SonarQube Locally for React Native &amp; MERN Projects](https://dev.to/ajmal_hasan/setting-up-sonarqube-locally-for-react-native-mern-projects-3hgn)
-- [Deploying Local AI Agents In Kubernetes](https://dev.to/thenjdevopsguy/deploying-local-ai-agents-in-kubernetes-3087)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-435a)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2hfp)
-- [EnvSecOps: What It Actually Is &lpar;And Why DevSecOps Won&#39;t Cut It&rpar;](https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh)
+- [Documentation Debt](https://dev.to/priyanshi_naghera/documentation-debt-3d10)
+- [Interfacing with Wasm from Kotlin](https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c)
+- [I Built an Open-Source SDK to Use Any LLM Provider. Get Started in 2 Minutes.](https://dev.to/undiluted7027/i-built-an-open-source-sdk-to-use-any-llm-provider-get-started-in-2-minutes-3nhg)
+- [Dev Log 36 - Mythic Pause](https://dev.to/asx/dev-log-36-mythic-pause-4apk)
+- [SSE in WebForms Core 2 – Real-Time Server-to-Client Communication](https://dev.to/elanatframework/sse-in-webforms-core-2-real-time-server-to-client-communication-fc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
