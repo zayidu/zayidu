@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
-- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp)
-- [たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p)
-- [Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6)
-- [Title: The Rise and Fall of ChatGPT: A Tech-Savvy Perspective](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-and-fall-of-chatgpt-a-tech-savvy-perspective-600)
+- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
+- [Adding Automated Testing to My CLI Tool](https://dev.to/elsad_humbetli_0971c995ce/adding-automated-testing-to-my-cli-tool-24oi)
+- [[Boost]](https://dev.to/meer/-1chi)
+- [Most people use AI the way they use Google — type a question, hope for something useful, and leave with surface-level answers.
+
+However, I use AI as a thinking partner, execution engine, and speed multiplier across product-building and decision-making.](https://dev.to/jaideepparashar/most-people-use-ai-the-way-they-use-google-type-a-question-hope-for-something-useful-and-leave-8le)
+- [Inside My AI Workflow: How I Get Real Work Done With Prompts](https://dev.to/jaideepparashar/inside-my-ai-workflow-how-i-get-real-work-done-with-prompts-2k3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
