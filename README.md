@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-34mk)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2006)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3fp7)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2ef9)
+- [Book review: “Build a DeepSeek Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/book-review-build-a-deepseek-model-from-scratch-5gk5)
+- [Building Your First MCP Server: A Practical Guide](https://dev.to/raghavajoijode/building-your-first-mcp-server-a-practical-guide-2gd3)
+- [WTF is Streaming Data Integration?](https://dev.to/dailybugle33/wtf-is-streaming-data-integration-51od)
+- [💬 Real-Time Magic: How to Build Live Chat Applications with WebSockets and Socket.io](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-magic-how-to-build-live-chat-applications-with-websockets-and-socketio-4o32)
+- [The file system rabbit hole: Building FSWatcher in Go](https://dev.to/asoseil/the-file-system-rabbit-hole-building-fswatcher-in-go-136o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
