@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2hip)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4a1n)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-oo3)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-294a)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1602)
+- [How to Set Up an S3 Trigger for Lambda — and Kick Off a Step Functions Workflow](https://dev.to/dhavalmojidra/how-to-set-up-an-s3-trigger-for-lambda-and-kick-off-a-step-functions-workflow-6cj)
+- [Spooky Pumpkin](https://dev.to/mohammad_masud_a1b6bd20b4/spooky-pumpkin-1d2o)
+- [Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery](https://dev.to/odinkemelu_innocent_3b2f5/building-security-by-design-my-aws-project-showcasing-vpc-nat-gateway-and-private-networking-2la9)
+- [Mastering Testing: My journey with Jest in my project](https://dev.to/cynthia_f/mastering-testing-my-journey-with-jest-in-my-project-2bbn)
+- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
