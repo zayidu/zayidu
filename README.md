@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Reddit Game with Devvit and TypeScript &lpar;starter included&rpar;](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5e0h)
-- [Guide: Integrate a Self-Hosted File Server with Your Web Page](https://dev.to/michael_81be8af/guide-integrate-a-self-hosted-file-server-with-your-web-page-2hdp)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-217n)
-- [Understanding Python Async Patterns: Basics](https://dev.to/ravidasari/understanding-python-async-patterns-a-comprehensive-guide-1a6h)
+- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
+- [iOS 26.2 Beta is Here: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-beta-is-here-what-devs-need-to-know-1dpn)
+- [Feature Flag Overrides: The Feature Nobody Builds Until They Need It](https://dev.to/arunlakshman/feature-flag-overrides-the-feature-nobody-builds-until-they-need-it-4c9h)
+- [🌟](https://dev.to/thebitforge/-3f95)
+- [Which Browser to Use in 2026: My Messy Notes](https://dev.to/mil10akash/which-browser-to-use-in-2026-my-messy-notes-m51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
