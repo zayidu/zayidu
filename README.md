@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up an S3 Trigger for Lambda — and Kick Off a Step Functions Workflow](https://dev.to/dhavalmojidra/how-to-set-up-an-s3-trigger-for-lambda-and-kick-off-a-step-functions-workflow-6cj)
-- [Spooky Pumpkin](https://dev.to/mohammad_masud_a1b6bd20b4/spooky-pumpkin-1d2o)
-- [Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery](https://dev.to/odinkemelu_innocent_3b2f5/building-security-by-design-my-aws-project-showcasing-vpc-nat-gateway-and-private-networking-2la9)
-- [Mastering Testing: My journey with Jest in my project](https://dev.to/cynthia_f/mastering-testing-my-journey-with-jest-in-my-project-2bbn)
-- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
+- [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43)
+- [🚀 Google &amp; SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion](https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf)
+- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/jayanth_anbu_28041adad45b/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-1fgn)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
