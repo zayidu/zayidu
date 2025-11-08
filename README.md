@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation Debt](https://dev.to/priyanshi_naghera/documentation-debt-3d10)
-- [Interfacing with Wasm from Kotlin](https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c)
-- [I Built an Open-Source SDK to Use Any LLM Provider. Get Started in 2 Minutes.](https://dev.to/undiluted7027/i-built-an-open-source-sdk-to-use-any-llm-provider-get-started-in-2-minutes-3nhg)
-- [Dev Log 36 - Mythic Pause](https://dev.to/asx/dev-log-36-mythic-pause-4apk)
-- [SSE in WebForms Core 2 – Real-Time Server-to-Client Communication](https://dev.to/elanatframework/sse-in-webforms-core-2-real-time-server-to-client-communication-fc7)
+- [Building Reddit Game with Devvit and TypeScript &lpar;starter included&rpar;](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5e0h)
+- [Guide: Integrate a Self-Hosted File Server with Your Web Page](https://dev.to/michael_81be8af/guide-integrate-a-self-hosted-file-server-with-your-web-page-2hdp)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-217n)
+- [Understanding Python Async Patterns: Basics](https://dev.to/ravidasari/understanding-python-async-patterns-a-comprehensive-guide-1a6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
