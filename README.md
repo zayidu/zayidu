@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
-- [Day 11 : C++ Language | String Concatenation | Part -2](https://dev.to/mehfila_parkkulthil_23/day-11-c-language-string-concatenation-part-2-219o)
-- [From DataWareHouses to BigData Systems: What and Why - Questions that nobody asks, but you should!](https://dev.to/denuggets/from-datawarehouses-to-bigdata-systems-what-and-why-questions-that-nobody-asks-but-you-should-4556)
-- [How to Value a Small Business: Your Guide to Smart Acquisitions](https://dev.to/laoli_lantian_ef2d5d83ae8/how-to-value-a-small-business-your-guide-to-smart-acquisitions-200m)
-- [The App You Trust Most Is the One That Spies the Hardest](https://dev.to/sagar_sajwan_a91beb41c861/the-app-you-trust-most-is-the-one-that-spies-the-hardest-poh)
+- [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-34mk)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2006)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3fp7)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2ef9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
