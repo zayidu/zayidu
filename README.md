@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e)
-- [How to Set Up AWS Cost Explorer &lpar;and Why It’s Not Enough&rpar;](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg)
-- [Andrew Huang: S4 2.0 is incredible!](https://dev.to/music_youtube/andrew-huang-s4-20-is-incredible-4ci9)
-- [Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i)
-- [Pair-Coding CleanIt.Now with AI on Cloudflare Workers](https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967)
+- [Wails as Electron Alternative](https://dev.to/kartik_patel/wails-as-electron-alternative-4dmn)
+- [Building a URL Shortener with Go and Redis](https://dev.to/kryko7/building-a-production-ready-url-shortener-with-go-and-redis-51a1)
+- [MongoDB Performance Tuning: Indexing and Optimization Best Practices](https://dev.to/djamware_tutorial_eba1a61/mongodb-performance-tuning-indexing-and-optimization-best-practices-3fph)
+- [⚖️ Breaking Legal News in the U.S. 🇺🇸](https://dev.to/servicemda/breaking-legal-news-in-the-us-oj3)
+- [MLOps Best Practices: Streamlining AI Deployments in C# for 2025](https://dev.to/lofcz/mlops-best-practices-streamlining-ai-deployments-in-c-for-2025-1cgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
