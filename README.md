@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
-- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
-- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
-- [Harnessing the Power of Elementor Countdown Widgets: Drive Urgency and Conversions on WordPress](https://dev.to/artarasaneh2025/harnessing-the-power-of-elementor-countdown-widgets-drive-urgency-and-conversions-on-wordpress-29oi)
-- [Why JavaScript Never Adopted RxJS — It Solved a Problem JavaScript Never Had](https://dev.to/ayush_maurya_/why-javascript-never-adopted-rxjs-it-solved-a-problem-javascript-never-had-418o)
+- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e)
+- [How to Set Up AWS Cost Explorer &lpar;and Why It’s Not Enough&rpar;](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg)
+- [Andrew Huang: S4 2.0 is incredible!](https://dev.to/music_youtube/andrew-huang-s4-20-is-incredible-4ci9)
+- [Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i)
+- [Pair-Coding CleanIt.Now with AI on Cloudflare Workers](https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
