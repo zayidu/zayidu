@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spooky CSS 3D Halloween: Enter If You Dare!](https://dev.to/minal_prasad_f335e02dfb29/spooky-css-3d-halloween-enter-if-you-dare-31a9)
-- [Prepared Statements in PgJDBC](https://dev.to/ntduycs/prepared-statements-in-pgjdbc-5847)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3jk7)
-- [zer0DAYSlater: A Modular Adversarial Simulation and Red-Team Research Framework](https://dev.to/gnomeman4201/zer0dayslater-a-modular-adversarial-simulation-and-red-team-research-framework-1jmc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2e6)
+- [Cohere in .NET in 10 Minutes: Microsoft.Extensions.AI + the Cohere.Extensions.AI NuGet Package](https://dev.to/makushevskii/cohere-in-net-in-10-minutes-microsoftextensionsai-the-cohereextensionsai-nuget-package-3c7f)
+- [Monads in Haskell](https://dev.to/bekbrace/monads-in-haskell-1p8i)
+- [🎃 Halloween Night: A 3D WebGL Spooktacular Landing Page](https://dev.to/minal_prasad_f335e02dfb29/halloween-night-a-3d-webgl-spooktacular-landing-page-5bn0)
+- [Handling Smart Contract Errors in Equillar. From Rust to PHP](https://dev.to/icolomina/handling-smart-contract-errors-in-equillar-from-rust-to-php-3k7o)
+- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
