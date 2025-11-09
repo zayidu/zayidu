@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-11p2)
-- [BatchSubmit turn command line legacy programs into web applications](https://dev.to/omni_tiger_75ee04e39e40df/batchsubmit-turn-command-line-legacy-programs-into-web-applications-4pen)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-58hd)
-- [The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters](https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-kpc)
+- [الشبح اللي فـ الماكينة ديالك](https://dev.to/zakariaessaoudy/-lshbh-lly-f-lmkyn-dylk-imf)
+- [[Boost]](https://dev.to/m_midas/-5dd5)
+- [Theater Alpha - The Rewind Update](https://dev.to/terrillo/theater-alpha-the-rewind-update-10ji)
+- [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
+- [Agentic AI Design Patterns](https://dev.to/hanaa_abdelgawad_1684275d/agentic-ai-design-patterns-168m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
