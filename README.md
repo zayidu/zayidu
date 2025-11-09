@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cohere in .NET in 10 Minutes: Microsoft.Extensions.AI + the Cohere.Extensions.AI NuGet Package](https://dev.to/makushevskii/cohere-in-net-in-10-minutes-microsoftextensionsai-the-cohereextensionsai-nuget-package-3c7f)
-- [Monads in Haskell](https://dev.to/bekbrace/monads-in-haskell-1p8i)
-- [🎃 Halloween Night: A 3D WebGL Spooktacular Landing Page](https://dev.to/minal_prasad_f335e02dfb29/halloween-night-a-3d-webgl-spooktacular-landing-page-5bn0)
-- [Handling Smart Contract Errors in Equillar. From Rust to PHP](https://dev.to/icolomina/handling-smart-contract-errors-in-equillar-from-rust-to-php-3k7o)
-- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-25l1)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77)
+- [The Day Mentoring Felt Like Parenting: Lessons from The Explosive Child](https://dev.to/sanjayajoseph/the-day-mentoring-felt-like-parenting-lessons-from-the-explosive-child-59cm)
+- [Robust Layerwise Scaling Rules by Proper Weight Decay Tuning](https://dev.to/paperium/robust-layerwise-scaling-rules-by-proper-weight-decay-tuning-4hjd)
+- [Claude vs ChatGPT vs Gemini: Why Anthropic’s AI Outcodes the Rest?](https://dev.to/grenishrai/claude-vs-chatgpt-vs-gemini-why-anthropics-ai-outcodes-the-rest-451i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
