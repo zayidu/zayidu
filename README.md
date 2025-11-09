@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
-- [Devtool for running and benchmarking local AI](https://dev.to/elina_norling_embedl/devtool-for-running-and-benchmarking-local-ai-445e)
-- [What Is a Lua Module in Roblox in 2025?](https://dev.to/nigelsilonero/what-is-a-lua-module-in-roblox-in-2025-mkn)
-- [Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation inMixture-of-Expert models](https://dev.to/paperium/rewiring-experts-on-the-flycontinuous-rerouting-for-better-online-adaptation-inmixture-of-expert-4jc6)
-- [Ghostty + Zellij 👻 setup on Mac](https://dev.to/cristobal/ghostty-zellij-setup-on-mac-11la)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-11p2)
+- [BatchSubmit turn command line legacy programs into web applications](https://dev.to/omni_tiger_75ee04e39e40df/batchsubmit-turn-command-line-legacy-programs-into-web-applications-4pen)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-58hd)
+- [The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters](https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-kpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
