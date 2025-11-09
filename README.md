@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #45-2025: PHP Tricks, LLM Collaboration, SQL Speedups, and the Future of Web Payments](https://dev.to/weekly/weekly-45-2025-php-tricks-llm-collaboration-sql-speedups-and-the-future-of-web-payments-1pd2)
-- [From TCP Sockets to Thread Pools - Building a Production Grade C++ Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-c-web-framework-24db)
-- [Understanding Dependency Injection with TypeScript, NestJS, and Angular](https://dev.to/shahjalalbu/understanding-dependency-injection-with-typescript-nestjs-and-angular-53n6)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1ldd)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
+- [Choosing the correct IaC tool](https://dev.to/kaustubhyerkade/choosing-the-correct-iac-tool-p57)
+- [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
+- [90-Day Proven Post-Quantum TLS Readiness Sprint](https://dev.to/pentest_testing_corp/90-day-proven-post-quantum-tls-readiness-sprint-575i)
+- [Self-Healing Application Framework - Autonomous Issue Resolution with Agentic Postgres](https://dev.to/depapp/self-healing-application-framework-autonomous-issue-resolution-with-agentic-postgres-19o0)
+- [🚀 Introducing Laravel ObjectId — The Fastest MongoDB-Style Identifier for Laravel Models](https://dev.to/ihfbib/introducing-laravel-objectid-the-fastest-mongodb-style-identifier-for-laravel-models-337j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
