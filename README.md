@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c)
-- [How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n)
-- [Stop Coding in Chaos: Why You Need a Pro Dev Environment Now &lpar;And How to Set It Up&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c32)
-- [Leveraging Synthetic Data for Enhanced AI Agent Evaluation](https://dev.to/kuldeep_paul/leveraging-synthetic-data-for-enhanced-ai-agent-evaluation-56k7)
+- [From Esolang to Numeric Script: Building Formin in Fortran](https://dev.to/capinoldev/from-esolang-to-numeric-script-building-formin-in-fortran-pc9)
+- [Create a Text Editor With Go - Welcome Screen](https://dev.to/alcb1310/create-a-text-editor-with-go-welcome-screen-4hkm)
+- [Alternate reality without open source linux](https://dev.to/shoyeb45/alternate-reality-without-open-source-linux-1fge)
+- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/sujitha_selvaraj_af5010c5/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-3g18)
+- [Building a Terminal Calculator That Actually Does Logic: Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
