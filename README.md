@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Esolang to Numeric Script: Building Formin in Fortran](https://dev.to/capinoldev/from-esolang-to-numeric-script-building-formin-in-fortran-pc9)
-- [Create a Text Editor With Go - Welcome Screen](https://dev.to/alcb1310/create-a-text-editor-with-go-welcome-screen-4hkm)
-- [Alternate reality without open source linux](https://dev.to/shoyeb45/alternate-reality-without-open-source-linux-1fge)
-- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/sujitha_selvaraj_af5010c5/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-3g18)
-- [Building a Terminal Calculator That Actually Does Logic: Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-441k)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-37n8)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4fhf)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2h4n)
+- [Lexical scope in JavaScript](https://dev.to/beo_dan_4b44e99852f48ddb3/lexical-scope-in-javascript-5559)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
