@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5hnc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-327b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nlo)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-57h4)
-- [Optimizing Adventure Games for Mobile and Cross-Device Play](https://dev.to/gamh5games/optimizing-adventure-games-for-mobile-and-cross-device-play-48n8)
+- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
+- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
+- [Interpolate a Video from the First and Last Frames with Veo 3.1 and Nano Banana](https://dev.to/railsstudent/interpolate-a-video-from-the-first-and-last-frames-with-veo-31-and-nano-banana-5121)
+- [Application of API Testing Frameworks in Java Introduction](https://dev.to/nicole_lucianarioscohai/application-of-api-testing-frameworks-in-java-introduction-40g6)
+- [Simplifying Prometheus Metrics in Go with prometric-go](https://dev.to/asraful_haque/simplifying-prometheus-metrics-in-go-with-prometric-go-22ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
