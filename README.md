@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TelUI leaves prototype purpose, now for making UIs!](https://dev.to/eotterbeep/telui-leaves-prototype-purpose-now-for-making-uis-24k6)
-- [My first small Project Website.](https://dev.to/didzis_skujevskis_c83d708/my-first-small-project-website-i3c)
-- [Unlocking Cellular Secrets: Precision Alignment for Multi-Stain Bioimages by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-cellular-secrets-precision-alignment-for-multi-stain-bioimages-by-arvind-sundararajan-438l)
-- [Unlocking Developer Revenue: How Monetzly Transforms AI App Monetization](https://dev.to/monetzly/unlocking-developer-revenue-how-monetzly-transforms-ai-app-monetization-1g3h)
-- [ASP .NET Core Project details](https://dev.to/karenpayneoregon/asp-net-core-project-details-log)
+- [🔥 JavaScript Interview Series&lpar;15&rpar;: Inside the JavaScript Engine: V8 &amp; SpiderMonkey Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series15-inside-the-javascript-engine-v8-spidermonkey-explained-1f6c)
+- [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://dev.to/paperium/morphobench-a-benchmark-with-difficulty-adaptive-to-model-reasoning-2lmi)
+- [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
+- [Fine-Tune Access, Visibility, and Security](https://dev.to/sebos/fine-tune-access-visibility-and-security-1798)
+- [🔥JavaScript Interview Series（14）: Event Loop, Microtasks &amp; Macrotasks Deep Dive](https://dev.to/jackm_345442a09fb53b/javascript-interview-series14-event-loop-microtasks-macrotasks-deep-dive-3mep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
