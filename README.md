@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5cg6)
-- [SimpSave 10: A “ready-to-use” lightweight database, now supporting multiple engine options &lpar;including SQLite&rpar;.](https://dev.to/water_run_305f6dfd401fdaf/simpsave-10-a-ready-to-use-lightweight-database-now-supporting-multiple-engine-options-1a94)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4aa2)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2i4k)
-- [Python Web Frameworks: Crafting the Future of Web Development](https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5)
+- [Tokens: The Invisible Building Blocks of Large Language Models](https://dev.to/jiminlee/what-are-tokens-the-hidden-building-blocks-behind-every-large-language-model-45fc)
+- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
+- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
+- [A free and production-ready event sourcing database engine: Meet Genesis DB CE](https://dev.to/patriceckhart/a-free-and-production-ready-event-sourcing-database-engine-meet-genesis-db-ce-2nk8)
+- [The Real AI Startup Stack: $33M Valuations, $1.2K OpenAI Bills](https://dev.to/dev_tips/the-real-ai-startup-stack-33m-valuations-12k-openai-bills-4j1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
