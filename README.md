@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-25l1)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77)
-- [The Day Mentoring Felt Like Parenting: Lessons from The Explosive Child](https://dev.to/sanjayajoseph/the-day-mentoring-felt-like-parenting-lessons-from-the-explosive-child-59cm)
-- [Robust Layerwise Scaling Rules by Proper Weight Decay Tuning](https://dev.to/paperium/robust-layerwise-scaling-rules-by-proper-weight-decay-tuning-4hjd)
-- [Claude vs ChatGPT vs Gemini: Why Anthropic’s AI Outcodes the Rest?](https://dev.to/grenishrai/claude-vs-chatgpt-vs-gemini-why-anthropics-ai-outcodes-the-rest-451i)
+- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
+- [Devtool for running and benchmarking local AI](https://dev.to/elina_norling_embedl/devtool-for-running-and-benchmarking-local-ai-445e)
+- [What Is a Lua Module in Roblox in 2025?](https://dev.to/nigelsilonero/what-is-a-lua-module-in-roblox-in-2025-mkn)
+- [Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation inMixture-of-Expert models](https://dev.to/paperium/rewiring-experts-on-the-flycontinuous-rerouting-for-better-online-adaptation-inmixture-of-expert-4jc6)
+- [Ghostty + Zellij 👻 setup on Mac](https://dev.to/cristobal/ghostty-zellij-setup-on-mac-11la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
