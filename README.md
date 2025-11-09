@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
-- [I Built a VS Code Extension to Stop the Copy-Paste Madness](https://dev.to/couimet/i-built-a-vs-code-extension-to-stop-the-copy-paste-madness-3d7l)
-- [Coding Challenge Practice - Question 49](https://dev.to/tomivan/coding-challenge-practice-question-49-4k46)
-- [Best iPhone Camera in 2026: Which Model Wins? reviews by Tech.Feastloom](https://dev.to/clevertech88/best-iphone-camera-in-2026-which-model-wins-3i8i)
-- [Agentic Bitcoin24](https://dev.to/nadinev/agentic-bitcoin24-3946)
+- [TelUI leaves prototype purpose, now for making UIs!](https://dev.to/eotterbeep/telui-leaves-prototype-purpose-now-for-making-uis-24k6)
+- [My first small Project Website.](https://dev.to/didzis_skujevskis_c83d708/my-first-small-project-website-i3c)
+- [Unlocking Cellular Secrets: Precision Alignment for Multi-Stain Bioimages by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-cellular-secrets-precision-alignment-for-multi-stain-bioimages-by-arvind-sundararajan-438l)
+- [Unlocking Developer Revenue: How Monetzly Transforms AI App Monetization](https://dev.to/monetzly/unlocking-developer-revenue-how-monetzly-transforms-ai-app-monetization-1g3h)
+- [ASP .NET Core Project details](https://dev.to/karenpayneoregon/asp-net-core-project-details-log)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
