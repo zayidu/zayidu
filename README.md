@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟](https://dev.to/thebitforge/-43jn)
-- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
-- [&#39;이 언어&#39;로 코딩테스트 준비하는 취업준비생... 심장병 확률 44%⬆](https://dev.to/algoorgoal/i-eoneoro-kodingteseuteu-junbihaneun-cwieobjunbisaeng-simjangbyeong-hwagryul-44-4mmo)
-- [Building a Lightweight Camunda Monitoring Dashboard: From Enterprise Pain to Open Source Solution](https://dev.to/dmitriy_champa_d458cfc7/building-a-lightweight-camunda-monitoring-dashboard-from-enterprise-pain-to-open-source-solution-2ik4)
-- [User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms](https://dev.to/kaifcodec/user-scanner-find-your-unique-perfect-username-across-all-popular-platforms-2pp8)
+- [Spooky CSS 3D Halloween: Enter If You Dare!](https://dev.to/minal_prasad_f335e02dfb29/spooky-css-3d-halloween-enter-if-you-dare-31a9)
+- [Prepared Statements in PgJDBC](https://dev.to/ntduycs/prepared-statements-in-pgjdbc-5847)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3jk7)
+- [zer0DAYSlater: A Modular Adversarial Simulation and Red-Team Research Framework](https://dev.to/gnomeman4201/zer0dayslater-a-modular-adversarial-simulation-and-red-team-research-framework-1jmc)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
