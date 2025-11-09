@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4b98)
-- [Shifting Gears: What TDD Taught Me About Using AI Assistants](https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc)
-- [The Code of Life: What Python&#39;s Data Structures Teach Us About Growth](https://dev.to/sreeni5018/the-code-of-life-what-pythons-data-structures-teach-us-about-growth-2oaf)
-- [Easy Lua Scripts for Roblox Games in 2025?](https://dev.to/nigelsilonero/easy-lua-scripts-for-roblox-games-in-2025-1oo6)
-- [Predicting Fuel Efficiency with Tree-Based Models: A Hands-On Machine Learning Walkthrough](https://dev.to/techkene/predicting-fuel-efficiency-with-tree-based-models-a-hands-on-machine-learning-walkthrough-4ejg)
+- [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-embodied-81o)
+- [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-1e2b)
+- [Build a Docusaurus-like Site with FastAPI: Step 4 - Parsing Frontmatter](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-4-parsing-frontmatter-2pn8)
+- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
+- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-3o06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
