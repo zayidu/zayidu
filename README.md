@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the correct IaC tool](https://dev.to/kaustubhyerkade/choosing-the-correct-iac-tool-p57)
-- [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
-- [90-Day Proven Post-Quantum TLS Readiness Sprint](https://dev.to/pentest_testing_corp/90-day-proven-post-quantum-tls-readiness-sprint-575i)
-- [Self-Healing Application Framework - Autonomous Issue Resolution with Agentic Postgres](https://dev.to/depapp/self-healing-application-framework-autonomous-issue-resolution-with-agentic-postgres-19o0)
-- [🚀 Introducing Laravel ObjectId — The Fastest MongoDB-Style Identifier for Laravel Models](https://dev.to/ihfbib/introducing-laravel-objectid-the-fastest-mongodb-style-identifier-for-laravel-models-337j)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5cg6)
+- [SimpSave 10: A “ready-to-use” lightweight database, now supporting multiple engine options &lpar;including SQLite&rpar;.](https://dev.to/water_run_305f6dfd401fdaf/simpsave-10-a-ready-to-use-lightweight-database-now-supporting-multiple-engine-options-1a94)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4aa2)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2i4k)
+- [Python Web Frameworks: Crafting the Future of Web Development](https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
