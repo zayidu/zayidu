@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-embodied-81o)
-- [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-1e2b)
-- [Build a Docusaurus-like Site with FastAPI: Step 4 - Parsing Frontmatter](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-4-parsing-frontmatter-2pn8)
-- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
-- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-3o06)
+- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
+- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
+- [Glyph: Scaling Context Windows via Visual-Text Compression](https://dev.to/paperium/glyph-scaling-context-windows-via-visual-text-compression-bjc)
+- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
+- [dev diary 20251109](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251109-4l34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
