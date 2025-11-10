@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Coders: The One Rule You Should Follow to Adopt AI](https://dev.to/canro91/junior-coders-the-one-rule-you-should-follow-to-adopt-ai-n5e)
-- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
-- [Understanding Kafka lag](https://dev.to/robbin_murithi_f75005db58/understanding-kafka-lag-1cj1)
-- [🧠Understanding 6 Common Data Formats in Cloud Data Analytics](https://dev.to/cibin_s/understanding-6-common-data-formats-in-cloud-data-analytics-n9f)
-- [Sum of Digits: A Beginner&#39;s Guide to String Iteration in Python](https://dev.to/highcenburg/sum-of-digits-a-beginners-guide-to-string-iteration-in-python-46a)
+- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)
+- [Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3)
+- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3)
+- [I Built Convodb So You Can Talk to Your Database &lpar;And It Talks Back With 4 AI Agents&rpar;](https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno)
+- [Step Into Mystic Falls: A Halloween Story Telling Game](https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
