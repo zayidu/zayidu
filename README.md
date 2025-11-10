@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursive CTEs: Because Writing Nested Loops for Trees is Psychopathic &lpar;and a Little Masochistic Too&rpar;](https://dev.to/pascal_cescato_692b7a8a20/recursive-ctes-because-writing-nested-loops-for-trees-is-psychopathic-and-a-little-masochistic-4ljb)
-- [How AI Agents in Customer Services Are Transforming Businesses?](https://dev.to/dev_seema/how-ai-agents-in-customer-services-are-transforming-businesses-3kg4)
-- [How AI Agents in Customer Services Are Transforming Businesses?](https://dev.to/dev_seema/how-ai-agents-in-customer-services-are-transforming-businesses-6kb)
-- [I made a free podcast app that makes tailormade podcasts for you, based on your unique interests. here&#39;s why, and what I learnt along the way.](https://dev.to/rohan140/i-made-a-free-podcast-app-that-makes-tailormade-podcasts-for-you-based-on-your-unique-interests-51l9)
-- [Mobile-First Portal Design: Why It’s Crucial](https://dev.to/kamal_deeppareek_f5bb5d8/mobile-first-portal-design-why-its-crucial-h1p)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3j22)
+- [Understanding Integer Caching in Java, The Hidden Optimization You Might’ve Missed](https://dev.to/marzuk16/understanding-integer-caching-in-java-the-hidden-optimization-you-mightve-missed-ggi)
+- [Free university-level CS education &lpar;YC-backed&rpar;](https://dev.to/samgoldman/free-university-level-cs-education-yc-backed-4k8j)
+- [Give Your Flutter App the Power of Theme Switching &lpar;Light, Dark &amp; System&rpar;](https://dev.to/niranjantk_8a74072f217dbe/give-your-flutter-app-the-power-of-theme-switching-light-dark-system-2071)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-o3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
