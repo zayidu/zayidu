@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
-- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
-- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
-- [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
-- [User Reviews Synthesis: What Real Teams Say About Batch Background Tools](https://dev.to/freepixel11/user-reviews-synthesis-what-real-teams-say-about-batch-background-tools-4a8n)
+- [Go DI Libraries Comparison: go-infrastructure vs. Fx](https://dev.to/jack_apolo_beb30743942cf8/go-di-libraries-comparison-go-infrastructure-vs-fx-4jni)
+- [From Frustration to Protection: The Logic of Secure Coding](https://dev.to/quantum_techzone_2a101732/from-frustration-to-protection-the-logic-of-secure-coding-47ni)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-17c4)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0)
+- [Upgrade to Flutter 3.35.7 for Better Speed &amp; UI](https://dev.to/kellythomas/upgrade-to-flutter-3357-for-better-speed-ui-3ki5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
