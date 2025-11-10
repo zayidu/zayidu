@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-581b)
-- [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
-- [Deno Vs Bun In 2025: Two Modern Approaches To JavaScript Runtime Development](https://dev.to/pullflow/deno-vs-bun-in-2025-two-modern-approaches-to-javascript-runtime-development-4dgo)
-- [Containerizing Mobile ML Models: Running On-Device Inference with Docker and TensorFlow Lite](https://dev.to/swap11/containerizing-mobile-ml-models-running-on-device-inference-with-docker-and-tensorflow-lite-28a4)
-- [Install and use the Microsoft Learn MCP server in VS Code](https://dev.to/omiossec/install-the-microsoft-learn-mcp-server-in-vs-code-265k)
+- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
+- [Personal Responsibility for Sustainability: Building a Greener Future through Individual Action](https://dev.to/bushra_23062_889499abfc6e/personal-responsibility-for-sustainability-building-a-greener-future-through-individual-action-2ca4)
+- [Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space](https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08)
+- [Code Sharing: The Unsung Hero of Developer Communities and Web Innovation](https://dev.to/buysellshop/code-sharing-the-unsung-hero-of-developer-communities-and-web-innovation-dm)
+- [Como Eliminamos 4.041 Erros de TypeScript em 6 Meses](https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
