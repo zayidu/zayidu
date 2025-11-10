@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Using Python to Extend Go High Level’s Capabilities via API](https://dev.to/ambrosekol/using-python-to-extend-go-high-levels-capabilities-via-api-30k4)
-- [Understanding the FTSE AIM 100 Index: A Comprehensive Overview](https://dev.to/bella_stewart_1e038c004d3/understanding-the-ftse-aim-100-index-a-comprehensive-overview-1k30)
-- [The Best LLM and AI Orchestration Toolkits for Your Stack](https://dev.to/pathak_prakarsh/the-best-llm-and-ai-orchestration-toolkits-for-your-stack-5hlk)
-- [[Boost]](https://dev.to/debuggingwithsim/-1120)
-- [Building AI-Powered BSS: A Developer’s Perspective on Telecom’s Next Evolution](https://dev.to/rishabhsharma123/building-ai-powered-bss-a-developers-perspective-on-telecoms-next-evolution-343l)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-501i)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-46hh)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41cd)
+- [Building Node.js CLI Tool.](https://dev.to/mehakb7/building-nodejs-cli-tool-l4k)
+- [💡 How to Design Better Architecture](https://dev.to/ivan-zaitsev/how-to-design-better-architecture-opn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
