@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great AWS Outage: The $11 Billion Argument for Kubernetes](https://dev.to/signadot/the-great-aws-outage-the-11-billion-argument-for-kubernetes-5dod)
-- [Is AI Coming for Your Dev Job? The Truth About Code, Creativity, and Career Survival](https://dev.to/blogai/is-ai-coming-for-your-dev-job-the-truth-about-code-creativity-and-career-survival-3l1f)
-- [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
-- [How Machines See: The Power of Computer Vision in AI &lpar;Explained for Developers&rpar;](https://dev.to/zestminds_technologies_c1/how-machines-see-the-power-of-computer-vision-in-ai-explained-for-developers-2jei)
-- [From COBOL to Cloud: How Kiro&#39;s Spec-Driven Development Transformed Legacy Modernization](https://dev.to/shaistaaman/from-cobol-to-cloud-how-kiros-spec-driven-development-transformed-legacy-modernization-39c5)
+- [[Boost]](https://dev.to/ben/-581b)
+- [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
+- [Deno Vs Bun In 2025: Two Modern Approaches To JavaScript Runtime Development](https://dev.to/pullflow/deno-vs-bun-in-2025-two-modern-approaches-to-javascript-runtime-development-4dgo)
+- [Containerizing Mobile ML Models: Running On-Device Inference with Docker and TensorFlow Lite](https://dev.to/swap11/containerizing-mobile-ml-models-running-on-device-inference-with-docker-and-tensorflow-lite-28a4)
+- [Install and use the Microsoft Learn MCP server in VS Code](https://dev.to/omiossec/install-the-microsoft-learn-mcp-server-in-vs-code-265k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
