@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
-- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
-- [Glyph: Scaling Context Windows via Visual-Text Compression](https://dev.to/paperium/glyph-scaling-context-windows-via-visual-text-compression-bjc)
-- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
-- [dev diary 20251109](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251109-4l34)
+- [Prompt engineering will not make you stand out anymore, but prompt thinking will.
+
+Because the future won’t belong to people who know how to “use” AI, it will belong to those who know how to think with AI.](https://dev.to/jaideepparashar/prompt-engineering-will-not-make-you-stand-out-anymore-but-prompt-thinking-will-because-the-3dl0)
+- [SQL: Keeping Your Data Organized](https://dev.to/techwithazaria/sql-keeping-your-data-organized-2p4g)
+- [When to Ensemble: Identifying Token-Level Points for Stable and Fast LLMEnsembling](https://dev.to/paperium/when-to-ensemble-identifying-token-level-points-for-stable-and-fast-llmensembling-469e)
+- [Prompt Engineering Isn’t Enough: You Need Prompt Thinking](https://dev.to/jaideepparashar/prompt-engineering-isnt-enough-you-need-prompt-thinking-4555)
+- [C#: Read or Remove Document Properties from Excel](https://dev.to/yahey/c-read-or-remove-document-properties-from-excel-126n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
