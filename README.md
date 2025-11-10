@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt engineering will not make you stand out anymore, but prompt thinking will.
-
-Because the future won’t belong to people who know how to “use” AI, it will belong to those who know how to think with AI.](https://dev.to/jaideepparashar/prompt-engineering-will-not-make-you-stand-out-anymore-but-prompt-thinking-will-because-the-3dl0)
-- [SQL: Keeping Your Data Organized](https://dev.to/techwithazaria/sql-keeping-your-data-organized-2p4g)
-- [When to Ensemble: Identifying Token-Level Points for Stable and Fast LLMEnsembling](https://dev.to/paperium/when-to-ensemble-identifying-token-level-points-for-stable-and-fast-llmensembling-469e)
-- [Prompt Engineering Isn’t Enough: You Need Prompt Thinking](https://dev.to/jaideepparashar/prompt-engineering-isnt-enough-you-need-prompt-thinking-4555)
-- [C#: Read or Remove Document Properties from Excel](https://dev.to/yahey/c-read-or-remove-document-properties-from-excel-126n)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3e24)
+- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
+- [Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-4mj2)
+- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-njb)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2hdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
