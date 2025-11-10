@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
-- [You Can&#39;t Unbake a Cake &lpar;or Why Data Isolation in the Age of AI is BASICALLY Impossible&rpar;](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg)
-- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf)
-- [The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live](https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f)
-- [My Learnings from Day 1a &amp; 1b of the Google AI Agents Intensive](https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf)
+- [The Great AWS Outage: The $11 Billion Argument for Kubernetes](https://dev.to/signadot/the-great-aws-outage-the-11-billion-argument-for-kubernetes-5dod)
+- [Is AI Coming for Your Dev Job? The Truth About Code, Creativity, and Career Survival](https://dev.to/blogai/is-ai-coming-for-your-dev-job-the-truth-about-code-creativity-and-career-survival-3l1f)
+- [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
+- [How Machines See: The Power of Computer Vision in AI &lpar;Explained for Developers&rpar;](https://dev.to/zestminds_technologies_c1/how-machines-see-the-power-of-computer-vision-in-ai-explained-for-developers-2jei)
+- [From COBOL to Cloud: How Kiro&#39;s Spec-Driven Development Transformed Legacy Modernization](https://dev.to/shaistaaman/from-cobol-to-cloud-how-kiros-spec-driven-development-transformed-legacy-modernization-39c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
