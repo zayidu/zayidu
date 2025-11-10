@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug a NestJS application in WebStorm](https://dev.to/pantpapasavvas/debug-a-nestjs-application-in-webstorm-5990)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2abm)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-11n2)
-- [Fundamental Rewrite of the WebFormsJS Library in WebForms Core 2](https://dev.to/elanatframework/fundamental-rewrite-of-the-webformsjs-library-in-webforms-core-2-1d4o)
-- [Inside the Manifest: How We Make Voice-AI Playbooks Deployable](https://dev.to/ayoolasolomon/inside-the-manifest-how-we-make-voice-ai-playbooks-deployable-5431)
+- [Searching Algorithms Part 3: Exploring Trees and Graphs with BFS and DFS](https://dev.to/picciniuscodes/searching-algorithms-part-3-exploring-trees-and-graphs-with-bfs-and-dfs-1jc0)
+- [Create a Text Editor in Go - Moving the Cursor](https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk)
+- [11 AWS Security Best Practices You Must Implement Now](https://dev.to/kevinasutton/11-aws-security-best-practices-you-must-implement-now-iok)
+- [How to Configure NGINX, and Host Your Local Website on Ubuntu Installed on VMware](https://dev.to/jic/how-to-configure-nginx-and-host-your-local-website-on-ubuntu-installed-on-vmware-pi6)
+- [**Tip práctico para prevención de lavado de dinero en México](https://dev.to/drcarlosruizviquez/tip-practico-para-prevencion-de-lavado-de-dinero-en-mexico-5hjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
