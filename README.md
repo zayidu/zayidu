@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Divide of Interfaces: Fear and Familiarity](https://dev.to/omni_tiger_75ee04e39e40df/the-divide-of-interfaces-fear-and-familiarity-59ah)
-- [Let&#39;s Stick to GmailApp Over MailApp in Google Apps Script](https://dev.to/yo-shi/lets-stick-to-gmailapp-over-mailapp-in-google-apps-script-d2i)
-- [How Tokenization is Making Real-World Assets More Accessible](https://dev.to/victory_adugbo_28d7c59ec0/how-tokenization-is-making-real-world-assets-more-accessible-5fmd)
-- [Building a Real-Time Crypto Data Pipeline with Debezium CDC](https://dev.to/aineahsimiyu/building-a-real-time-crypto-data-pipeline-with-debezium-cdc-1j41)
-- [Rewind AI Alternative to Windows You Can Trust](https://dev.to/nodminger/rewind-ai-alternative-to-windows-you-can-trust-51a)
+- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
+- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
+- [That one missing HTTP method that broke my whole setup](https://dev.to/techwithhari/that-one-missing-http-method-that-broke-my-whole-setup-14a6)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1k2l)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-cfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
