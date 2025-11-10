@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
-- [All Data and AI Weekly #215: 10 November 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f)
-- [I Built a URL Metadata API After Wasting Days on Manual Scraping](https://dev.to/fistonuser/i-built-a-url-metadata-api-after-wasting-days-on-manual-scraping-3m81)
-- [AI vs. AI: How Google&#39;s &#39;PROMPTFLUX&#39; Malware Rewrites Itself &lpar;And How &#39;Big Sleep&#39; Fights Back&rpar;](https://dev.to/freerave/ai-vs-ai-how-googles-promptflux-malware-rewrites-itself-and-how-big-sleep-fights-back-410d)
-- [When the mv Command “Loses” Your File in Linux — What Really Happened🚀](https://dev.to/chaitanyarai3/when-the-mv-command-loses-your-file-in-linux-what-really-happened-1186)
+- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
+- [You Can&#39;t Unbake a Cake &lpar;or Why Data Isolation in the Age of AI is BASICALLY Impossible&rpar;](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg)
+- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf)
+- [The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live](https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f)
+- [My Learnings from Day 1a &amp; 1b of the Google AI Agents Intensive](https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
