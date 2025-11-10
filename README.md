@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
-- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
-- [That one missing HTTP method that broke my whole setup](https://dev.to/techwithhari/that-one-missing-http-method-that-broke-my-whole-setup-14a6)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1k2l)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-cfo)
+- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
+- [All Data and AI Weekly #215: 10 November 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f)
+- [I Built a URL Metadata API After Wasting Days on Manual Scraping](https://dev.to/fistonuser/i-built-a-url-metadata-api-after-wasting-days-on-manual-scraping-3m81)
+- [AI vs. AI: How Google&#39;s &#39;PROMPTFLUX&#39; Malware Rewrites Itself &lpar;And How &#39;Big Sleep&#39; Fights Back&rpar;](https://dev.to/freerave/ai-vs-ai-how-googles-promptflux-malware-rewrites-itself-and-how-big-sleep-fights-back-410d)
+- [When the mv Command “Loses” Your File in Linux — What Really Happened🚀](https://dev.to/chaitanyarai3/when-the-mv-command-loses-your-file-in-linux-what-really-happened-1186)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
