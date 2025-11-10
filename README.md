@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)
-- [Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3)
-- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3)
-- [I Built Convodb So You Can Talk to Your Database &lpar;And It Talks Back With 4 AI Agents&rpar;](https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno)
-- [Step Into Mystic Falls: A Halloween Story Telling Game](https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb)
+- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
+- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
+- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
+- [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
+- [User Reviews Synthesis: What Real Teams Say About Batch Background Tools](https://dev.to/freepixel11/user-reviews-synthesis-what-real-teams-say-about-batch-background-tools-4a8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
