@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)
-- [The Next Frontier in NLP: Smarter Agents, Not Just Bigger Models](https://dev.to/capestart/the-next-frontier-in-nlp-smarter-agents-not-just-bigger-models-5ddc)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-40f5)
-- [How to Build Production-Ready RAG Systems &lpar;at Scale, with Low Latency &amp; High Accuracy&rpar;](https://dev.to/qlooptech/how-to-build-production-ready-rag-systems-at-scale-with-low-latency-high-accuracy-819)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4efd)
+- [🐍 Using Python to Extend Go High Level’s Capabilities via API](https://dev.to/ambrosekol/using-python-to-extend-go-high-levels-capabilities-via-api-30k4)
+- [Understanding the FTSE AIM 100 Index: A Comprehensive Overview](https://dev.to/bella_stewart_1e038c004d3/understanding-the-ftse-aim-100-index-a-comprehensive-overview-1k30)
+- [The Best LLM and AI Orchestration Toolkits for Your Stack](https://dev.to/pathak_prakarsh/the-best-llm-and-ai-orchestration-toolkits-for-your-stack-5hlk)
+- [[Boost]](https://dev.to/debuggingwithsim/-1120)
+- [Building AI-Powered BSS: A Developer’s Perspective on Telecom’s Next Evolution](https://dev.to/rishabhsharma123/building-ai-powered-bss-a-developers-perspective-on-telecoms-next-evolution-343l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
