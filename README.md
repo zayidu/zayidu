@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3e24)
-- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
-- [Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-4mj2)
-- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-njb)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2hdp)
+- [Junior Coders: The One Rule You Should Follow to Adopt AI](https://dev.to/canro91/junior-coders-the-one-rule-you-should-follow-to-adopt-ai-n5e)
+- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
+- [Understanding Kafka lag](https://dev.to/robbin_murithi_f75005db58/understanding-kafka-lag-1cj1)
+- [🧠Understanding 6 Common Data Formats in Cloud Data Analytics](https://dev.to/cibin_s/understanding-6-common-data-formats-in-cloud-data-analytics-n9f)
+- [Sum of Digits: A Beginner&#39;s Guide to String Iteration in Python](https://dev.to/highcenburg/sum-of-digits-a-beginners-guide-to-string-iteration-in-python-46a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
