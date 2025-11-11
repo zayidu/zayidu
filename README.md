@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Website Deployment on AWS Amplify via GitHub &lpar;Entry-Level Guide&rpar;](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)
-- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)
-- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e)
-- [Making a Read-Only Signal Editable in Your Component](https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8)
-- [Architectural decisions](https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh)
+- [Analysing European Soccer Data with Deepnote in Windsurf IDE](https://dev.to/envitab/analysing-european-soccer-data-with-deepnote-in-windsurf-ide-3275)
+- [Cloud App Journey: Ep. 5 — Cloud Security: Protecting APIs, Credentials, and Data on Azure](https://dev.to/osvaldofa/cloud-app-journey-ep-8-cloud-security-protecting-apis-credentials-and-data-on-azure-4oe8)
+- [Painless Vibe-Coding: A Complete Practical Guide from Real-Life Experience](https://dev.to/petrashka/painless-vibe-coding-a-complete-practical-guide-from-real-life-experience-16nc)
+- [Unlock Your Simulations: Automated Parameter Tuning for Complex Models by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-your-simulations-automated-parameter-tuning-for-complex-models-by-arvind-sundararajan-3372)
+- [I built a tool to find where React components come from — even in big Next.js projects](https://dev.to/olebogengmbedzi/i-built-a-tool-to-find-where-react-components-come-from-even-in-big-nextjs-projects-5he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
