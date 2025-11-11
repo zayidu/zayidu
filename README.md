@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching Algorithms Part 3: Exploring Trees and Graphs with BFS and DFS](https://dev.to/picciniuscodes/searching-algorithms-part-3-exploring-trees-and-graphs-with-bfs-and-dfs-1jc0)
-- [Create a Text Editor in Go - Moving the Cursor](https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk)
-- [11 AWS Security Best Practices You Must Implement Now](https://dev.to/kevinasutton/11-aws-security-best-practices-you-must-implement-now-iok)
-- [How to Configure NGINX, and Host Your Local Website on Ubuntu Installed on VMware](https://dev.to/jic/how-to-configure-nginx-and-host-your-local-website-on-ubuntu-installed-on-vmware-pi6)
-- [**Tip práctico para prevención de lavado de dinero en México](https://dev.to/drcarlosruizviquez/tip-practico-para-prevencion-de-lavado-de-dinero-en-mexico-5hjb)
+- [How I Built AgriPath: An AI-Powered Farming Platform That Increases Profits by 90% Using Google Cloud Run and ADK](https://dev.to/anil_kumarum/how-i-built-agripath-an-ai-powered-farming-platform-that-increases-profits-by-90-using-google-14k5)
+- [Inside Quantum Ball: Building a Playful Oracle with AI Studio + Cloud Run](https://dev.to/akifin_6f85bfd38e12738869/inside-quantum-ball-building-a-playful-oracle-with-ai-studio-cloud-run-5g9l)
+- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if)
+- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f)
+- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
