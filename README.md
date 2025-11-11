@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysing European Soccer Data with Deepnote in Windsurf IDE](https://dev.to/envitab/analysing-european-soccer-data-with-deepnote-in-windsurf-ide-3275)
-- [Cloud App Journey: Ep. 5 — Cloud Security: Protecting APIs, Credentials, and Data on Azure](https://dev.to/osvaldofa/cloud-app-journey-ep-8-cloud-security-protecting-apis-credentials-and-data-on-azure-4oe8)
-- [Painless Vibe-Coding: A Complete Practical Guide from Real-Life Experience](https://dev.to/petrashka/painless-vibe-coding-a-complete-practical-guide-from-real-life-experience-16nc)
-- [Unlock Your Simulations: Automated Parameter Tuning for Complex Models by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-your-simulations-automated-parameter-tuning-for-complex-models-by-arvind-sundararajan-3372)
-- [I built a tool to find where React components come from — even in big Next.js projects](https://dev.to/olebogengmbedzi/i-built-a-tool-to-find-where-react-components-come-from-even-in-big-nextjs-projects-5he2)
+- [Integrating OpenAI API with WordPress: Generate Content Automatically](https://dev.to/naimurrahmannahid/integrating-openai-api-with-wordpress-generate-content-automatically-2o95)
+- [GitHub Actions Runner Controller &lpar;ARC v2&rpar;: How to be Synced with argocd](https://dev.to/ngapaillard/github-actions-runner-controller-arc-v2-how-to-be-synced-with-argocd-1ppo)
+- [The Hidden Cost of Adding Just One More Feature](https://dev.to/pragmaticdx/the-hidden-cost-of-adding-just-one-more-feature-33k1)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3l9b)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2m93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
