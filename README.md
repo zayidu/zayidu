@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Features in .NET 10 &amp; C# 14 — The Expert’s Playbook &lpar;2025&rpar;](https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5)
-- [Setting Up Solid Cache on Heroku with a Single Database](https://dev.to/mrispoli24/setting-up-solid-cache-on-heroku-with-a-single-database-49c5)
-- [I Built an API-First Document Workflow Engine &lpar;Looking for Feedback&rpar;](https://dev.to/juniorchar2025/i-built-an-api-first-document-workflow-engine-looking-for-feedback-1kdf)
-- [Trabalhar para empresas internacionais não é impossível](https://dev.to/andersoncontreira/trabalhar-para-empresas-internacionais-nao-e-impossivel-bj3)
-- [Talk Early, Fail Less: How Communication Builds Great Teams](https://dev.to/reenanms/talk-early-fail-less-how-communication-builds-great-teams-3l4b)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2iab)
+- [100 Days of Code — My GitHub Streak Journey &lpar;Aug 4 Nov 11&rpar;](https://dev.to/aman_kureshi_/100-days-of-code-my-github-streak-journey-aug-4-nov-11-3dpj)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-enc)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1i98)
+- [Chem-R: Learning to Reason as a Chemist](https://dev.to/paperium/chem-r-learning-to-reason-as-a-chemist-71l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
