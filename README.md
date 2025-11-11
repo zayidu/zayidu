@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking Basics Guide for DevOps Engineers](https://dev.to/serveravatar/networking-basics-guide-for-devops-engineers-38lg)
-- [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
-- [Prometheus + K6 Fusion: Measure API Performance with Real-Time Metrics in Grafana](https://dev.to/asraful_haque/prometheus-k6-fusion-measure-api-performance-with-real-time-metrics-in-grafana-4nl7)
-- [Tom Lee Loves Ethereum—but He’s Ignoring the Elephant in the Room](https://dev.to/bitnet4ever/tom-lee-loves-ethereum-but-hes-ignoring-the-elephant-in-the-room-3kf3)
-- [Why Recruiters Are Switching to AI Interviews for Talent Evaluation](https://dev.to/skillsauce/why-recruiters-are-switching-to-ai-interviews-for-talent-evaluation-4o3b)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-56en)
+- [Hands-On with Kubernetes 1.33: My PoC on In-Place Vertical Scaling](https://dev.to/robert_r_7c237256b7614328/hands-on-with-kubernetes-133-my-poc-on-in-place-vertical-scaling-147)
+- [A User Broke My AI Chatbot With Unexpected Input — Here’s What Actually Happened](https://dev.to/christechnocom/a-user-broke-my-ai-chatbot-with-unexpected-input-heres-what-actually-happened-31nb)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2agj)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4jfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
