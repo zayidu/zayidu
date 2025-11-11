@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here are 10 real problems I solved with ChatGPT in the past month across coding, business, content, and decision-making.](https://dev.to/jaideepparashar/here-are-10-real-problems-i-solved-with-chatgpt-in-the-past-month-across-coding-business-content-2ibk)
-- [10 Real Problems I Solved With ChatGPT This Month](https://dev.to/jaideepparashar/10-real-problems-i-solved-with-chatgpt-this-month-3lbf)
-- [Building a Vector Database from Scratch - CapybaraDB](https://dev.to/piyush_choudhari_a5b29f7f/building-a-vector-database-from-scratch-capybaradb-ek8)
-- [The 20 Most Essential Tools for Full-Stack Development: Build Anything, Anytime, Anywhere](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-full-stack-development-build-anything-anytime-anywhere-32mg)
-- [Agent Compass is live on DEV HUNT!](https://dev.to/musu_priyam/agent-compass-is-live-on-dev-hunt-4end)
+- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
+- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
+- [Angular Directive that Elegantly Continues Truncated Text](https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h)
+- [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
+- [How To Migrate Load Balanced Application by Using a Blue Green and Canary Deployment Strategy](https://dev.to/thukhakyawe_cloud/how-to-migrate-load-balanced-application-by-using-a-blue-green-and-canary-deployment-strategy-543k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
