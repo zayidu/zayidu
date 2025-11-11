@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New to Docker, will try this :&rpar;](https://dev.to/its_nish/new-to-docker-will-try-this--4ggp)
-- [LLD: Food Ordering / Delivery system in Java](https://dev.to/zeeshanali0704/lld-food-ordering-delivery-system-in-java-3ep7)
-- [9 Best Resources to Learn Coding from Scratch: A Developer’s Journey](https://dev.to/stack_overflowed/9-best-resources-to-learn-coding-from-scratch-a-developers-journey-50k5)
-- [The Rise of AI-Powered Cybersecurity: How Machine Learning Is Changing the Game](https://dev.to/itcs11/the-rise-of-ai-powered-cybersecurity-how-machine-learning-is-changing-the-game-4fj7)
-- [Mastering Error Handling in Go: A Deep Dive into Defer, Panic, and Recover](https://dev.to/kingyou/mastering-error-handling-in-go-a-deep-dive-into-defer-panic-and-recover-86g)
+- [Enhancing App Security with OTP SMS APIs: A Developer’s Guide](https://dev.to/dbhatasana/enhancing-app-security-with-otp-sms-apis-a-developers-guide-1o4a)
+- [Building Trust in AI: Why Content Detection Should Matter to Developers](https://dev.to/dovran/building-trust-in-ai-why-content-detection-should-matter-to-developers-55j)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2iei)
+- [Building AI-Powered Projects: My Complete Claude Development Stack](https://dev.to/aldenweaver/building-ai-powered-projects-my-complete-claude-development-stack-4903)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-397b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
