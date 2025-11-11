@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Methods in Java](https://dev.to/vidya_varshini/methods-in-java-5ejp)
-- [Unlocking Business Insights with AWS QuickSight](https://dev.to/smit-vaghasiya/unlocking-business-insights-with-aws-quicksight-2b9f)
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
-- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
-- [Official Statement on Fraudulent “SEEKSEM Token” Crypto Scam](https://dev.to/seeksem/official-statement-on-fraudulent-seeksem-token-crypto-scam-1956)
+- [Next.js 16: What&#39;s New? Turbopack, React Compiler &amp; Key Features](https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70)
+- [Reverse-Engineering Vercel: The Go-to-Market Playbook That Won the Frontend](https://dev.to/michaelaiglobal/reverse-engineering-vercel-the-go-to-market-playbook-that-won-the-frontend-3n5o)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-5acf)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3ec2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
