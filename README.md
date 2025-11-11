@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AgriCredit Africa: Building Trust and Financial Access for African Farmers](https://dev.to/n3on/agricredit-africa-building-trust-and-financial-access-for-african-farmers-4175)
-- [Handling custom web security rules, how do you do it?](https://dev.to/thinkvalue/handling-custom-web-security-rules-how-do-you-do-it-lcl)
-- [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
-- [How to Use AI Models Locally in VS Code with the Continue Plugin &lpar;with Multi-Model Switching Support&rpar;](https://dev.to/manikandan/how-to-use-ai-models-locally-in-vs-code-with-the-continue-plugin-with-multi-model-switching-3na0)
-- [https://youtu.be/LUYxxp5VgU4?si=hjPCd1bSwbqJ1aH5](https://dev.to/techdust/httpsyoutubeluyxxp5vgu4sihjpcd1bswbqj1ah5-24h3)
+- [Você criou uma API, mas não tem documentação? Eita... 😅](https://dev.to/andersoncontreira/voce-criou-uma-api-mas-nao-tem-documentacao-eita-53a3)
+- [Reinventar a roda: um erro que muitas empresas ainda cometem](https://dev.to/andersoncontreira/reinventar-a-roda-um-erro-que-muitas-empresas-ainda-cometem-2ojo)
+- [Common WordPress Errors &lpar;And How to Fix Them Like a Pro&rpar; ⚠️](https://dev.to/anemnavinrao/common-wordpress-errors-and-how-to-fix-them-like-a-pro-318l)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-49kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
