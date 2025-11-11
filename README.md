@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Você criou uma API, mas não tem documentação? Eita... 😅](https://dev.to/andersoncontreira/voce-criou-uma-api-mas-nao-tem-documentacao-eita-53a3)
-- [Reinventar a roda: um erro que muitas empresas ainda cometem](https://dev.to/andersoncontreira/reinventar-a-roda-um-erro-que-muitas-empresas-ainda-cometem-2ojo)
-- [Common WordPress Errors &lpar;And How to Fix Them Like a Pro&rpar; ⚠️](https://dev.to/anemnavinrao/common-wordpress-errors-and-how-to-fix-them-like-a-pro-318l)
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-49kc)
+- [New Features in .NET 10 &amp; C# 14 — The Expert’s Playbook &lpar;2025&rpar;](https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5)
+- [Setting Up Solid Cache on Heroku with a Single Database](https://dev.to/mrispoli24/setting-up-solid-cache-on-heroku-with-a-single-database-49c5)
+- [I Built an API-First Document Workflow Engine &lpar;Looking for Feedback&rpar;](https://dev.to/juniorchar2025/i-built-an-api-first-document-workflow-engine-looking-for-feedback-1kdf)
+- [Trabalhar para empresas internacionais não é impossível](https://dev.to/andersoncontreira/trabalhar-para-empresas-internacionais-nao-e-impossivel-bj3)
+- [Talk Early, Fail Less: How Communication Builds Great Teams](https://dev.to/reenanms/talk-early-fail-less-how-communication-builds-great-teams-3l4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
