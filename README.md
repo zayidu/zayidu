@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-56en)
-- [Hands-On with Kubernetes 1.33: My PoC on In-Place Vertical Scaling](https://dev.to/robert_r_7c237256b7614328/hands-on-with-kubernetes-133-my-poc-on-in-place-vertical-scaling-147)
-- [A User Broke My AI Chatbot With Unexpected Input — Here’s What Actually Happened](https://dev.to/christechnocom/a-user-broke-my-ai-chatbot-with-unexpected-input-heres-what-actually-happened-31nb)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2agj)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4jfo)
+- [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
+- [Using Jest and LLM assistance to test your real-time chat](https://dev.to/zenika/using-jest-and-llm-assistance-to-test-your-real-time-chat-4mnm)
+- [Getting Started with Database Entity Relationship](https://dev.to/masteringbackend/getting-started-with-database-entity-relationship-1aik)
+- [Design System: Building the Foundations](https://dev.to/denis_bratchikov/design-system-building-the-foundations-1l75)
+- [Mastering 3DS: Balancing Security, UX, and Authentication Rates](https://dev.to/rapyd/mastering-3ds-balancing-security-ux-and-authentication-rates-19pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
