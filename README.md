@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Not All AI Works the Same: A Quick Breakdown for Builders](https://dev.to/clickit_devops/why-not-all-ai-works-the-same-a-quick-breakdown-for-builders-106n)
-- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
-- [Clean up in active AD accounts](https://dev.to/thiyagarajan_thangavel/clean-up-in-active-ad-accounts-13ki)
-- [Migration Guide: Microsoft ADCS to Sectigo Certificate Manager](https://dev.to/thiyagarajan_thangavel/migration-guide-microsoft-adcs-to-sectigo-certificate-manager-fdc)
-- [Project Create a Storage Account for Public Use and Private Use](https://dev.to/baris86/project-create-a-storage-account-for-public-use-and-private-use-1hmj)
+- [Static Website Deployment on AWS Amplify via GitHub &lpar;Entry-Level Guide&rpar;](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)
+- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)
+- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e)
+- [Making a Read-Only Signal Editable in Your Component](https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8)
+- [Architectural decisions](https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
