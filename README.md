@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
-- [Using Jest and LLM assistance to test your real-time chat](https://dev.to/zenika/using-jest-and-llm-assistance-to-test-your-real-time-chat-4mnm)
-- [Getting Started with Database Entity Relationship](https://dev.to/masteringbackend/getting-started-with-database-entity-relationship-1aik)
-- [Design System: Building the Foundations](https://dev.to/denis_bratchikov/design-system-building-the-foundations-1l75)
-- [Mastering 3DS: Balancing Security, UX, and Authentication Rates](https://dev.to/rapyd/mastering-3ds-balancing-security-ux-and-authentication-rates-19pc)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-28e8)
+- [Internal vs. External Appeal: Your Legal Right to Fight an ABA Therapy Denial](https://dev.to/mekaywillow/internal-vs-external-appeal-your-legal-right-to-fight-an-aba-therapy-denial-4429)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3m20)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-26n6)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-idh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
