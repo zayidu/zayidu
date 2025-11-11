@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built AgriPath: An AI-Powered Farming Platform That Increases Profits by 90% Using Google Cloud Run and ADK](https://dev.to/anil_kumarum/how-i-built-agripath-an-ai-powered-farming-platform-that-increases-profits-by-90-using-google-14k5)
-- [Inside Quantum Ball: Building a Playful Oracle with AI Studio + Cloud Run](https://dev.to/akifin_6f85bfd38e12738869/inside-quantum-ball-building-a-playful-oracle-with-ai-studio-cloud-run-5g9l)
-- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if)
-- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f)
-- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d)
+- [Here are 10 real problems I solved with ChatGPT in the past month across coding, business, content, and decision-making.](https://dev.to/jaideepparashar/here-are-10-real-problems-i-solved-with-chatgpt-in-the-past-month-across-coding-business-content-2ibk)
+- [10 Real Problems I Solved With ChatGPT This Month](https://dev.to/jaideepparashar/10-real-problems-i-solved-with-chatgpt-this-month-3lbf)
+- [Building a Vector Database from Scratch - CapybaraDB](https://dev.to/piyush_choudhari_a5b29f7f/building-a-vector-database-from-scratch-capybaradb-ek8)
+- [The 20 Most Essential Tools for Full-Stack Development: Build Anything, Anytime, Anywhere](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-full-stack-development-build-anything-anytime-anywhere-32mg)
+- [Agent Compass is live on DEV HUNT!](https://dev.to/musu_priyam/agent-compass-is-live-on-dev-hunt-4end)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
