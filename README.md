@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-28e8)
-- [Internal vs. External Appeal: Your Legal Right to Fight an ABA Therapy Denial](https://dev.to/mekaywillow/internal-vs-external-appeal-your-legal-right-to-fight-an-aba-therapy-denial-4429)
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3m20)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-26n6)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-idh)
+- [Methods in Java](https://dev.to/vidya_varshini/methods-in-java-5ejp)
+- [Unlocking Business Insights with AWS QuickSight](https://dev.to/smit-vaghasiya/unlocking-business-insights-with-aws-quicksight-2b9f)
+- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
+- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
+- [Official Statement on Fraudulent “SEEKSEM Token” Crypto Scam](https://dev.to/seeksem/official-statement-on-fraudulent-seeksem-token-crypto-scam-1956)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
