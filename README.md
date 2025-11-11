@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating OpenAI API with WordPress: Generate Content Automatically](https://dev.to/naimurrahmannahid/integrating-openai-api-with-wordpress-generate-content-automatically-2o95)
-- [GitHub Actions Runner Controller &lpar;ARC v2&rpar;: How to be Synced with argocd](https://dev.to/ngapaillard/github-actions-runner-controller-arc-v2-how-to-be-synced-with-argocd-1ppo)
-- [The Hidden Cost of Adding Just One More Feature](https://dev.to/pragmaticdx/the-hidden-cost-of-adding-just-one-more-feature-33k1)
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3l9b)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2m93)
+- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
+- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
+- [How To Make A Custom Type Iterable In Rust.](https://dev.to/allwelldotdev/how-to-make-a-custom-type-iterable-in-rust-c0i)
+- [Mastering Cryptography: A Senior&#39;s Guide to Design, Attack, and Defend](https://dev.to/tsaplina_elena/mastering-cryptography-a-seniors-guide-to-design-attack-and-defend-h9c)
+- [Djowda — Looking for a New Steward for an Open FoodTech Ecosystem](https://dev.to/mosescodedev/djowda-looking-for-a-new-steward-for-an-open-foodtech-ecosystem-30gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
