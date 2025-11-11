@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
-- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
-- [How To Make A Custom Type Iterable In Rust.](https://dev.to/allwelldotdev/how-to-make-a-custom-type-iterable-in-rust-c0i)
-- [Mastering Cryptography: A Senior&#39;s Guide to Design, Attack, and Defend](https://dev.to/tsaplina_elena/mastering-cryptography-a-seniors-guide-to-design-attack-and-defend-h9c)
-- [Djowda — Looking for a New Steward for an Open FoodTech Ecosystem](https://dev.to/mosescodedev/djowda-looking-for-a-new-steward-for-an-open-foodtech-ecosystem-30gc)
+- [Imagine changing your app&#39;s behaviour... without changing the code. &lpar;Part 2&rpar;](https://dev.to/gpietro/imagine-changing-your-apps-behaviour-without-changing-the-code-part-2-6fo)
+- [RESTful - Pílula 2 – Estrutura e hierarquia de URLs](https://dev.to/andersoncontreira/restful-pilula-2-estrutura-e-hierarquia-de-urls-1112)
+- [Hands-On with Azure Files: Storage, Snapshots &amp; Network Security](https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5)
+- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
+- [Did I just create the fastest BPMN engine in the world?](https://dev.to/taktx/did-i-just-create-the-fastest-bpmn-engine-in-the-world-1ddp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
