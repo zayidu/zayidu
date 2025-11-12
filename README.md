@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Legacy Windows to AI Agent: The Journey of MintBridge to REMI &lpar;Final PoC&rpar;](https://dev.to/jramone3/from-legacy-windows-to-ai-agent-the-journey-of-mintbridge-to-remi-final-poc-4mm1)
-- [The next machine learning startup is in your front yard](https://dev.to/leon_lin_s/the-next-machine-learning-startup-is-in-your-front-yard-hg9)
-- [Efficient Android Screen Recording Using MediaRecorder + MediaProjection](https://dev.to/cat_dogrunning_in_the_s/efficient-android-screen-recording-using-mediarecorder-mediaprojection-27ib)
-- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
-- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
+- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
+- [Stop Blaming Doctrine - Start Understanding It](https://dev.to/jszutkowski/stop-blaming-doctrine-start-understanding-it-55k2)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-28b1)
+- [DI containers are dead, long live context containers!](https://dev.to/flix_dubsomeone635_0/di-containers-are-dead-long-live-context-containers-3hna)
+- [What is dom?](https://dev.to/aj_arul/what-is-dom-4p4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
