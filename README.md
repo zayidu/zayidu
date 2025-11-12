@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v351](https://dev.to/devteam/welcome-thread-v351-460h)
-- [Fighting Framework Jank &lpar;What&#39;s Not in the Docs&rpar;](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
-- [TIL: Always Wrap Collections in API Responses](https://dev.to/canro91/til-always-wrap-collections-in-api-responses-1m1j)
-- [faster whisper从多媒体语音材料中抽取出文本-3](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-3-4li3)
-- [faster whisper从多媒体语音材料中抽取出文本-2](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-2-4hnd)
+- [A Dreamy Developer Finding Where I Belong](https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh)
+- [The Dream of Indie Coders](https://dev.to/huynhnhanquoc/the-dream-of-indie-coders-10g7)
+- [The Indie Path](https://dev.to/huynhnhanquoc/the-indie-path-1pa7)
+- [Directive Sync – The “Odd” Story of Kit JS](https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo)
+- [Why Does Kit JS Exist?](https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
