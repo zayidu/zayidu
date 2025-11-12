@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
-- [Building a Production-Ready VPC Implementation on Linux. HNG Internship Task 4: Complete VPC Control System with Networking](https://dev.to/masterpitan/building-a-production-ready-vpc-implementation-on-linux-hng-internship-task-4-complete-vpc-control-3h9j)
-- [Modern C++: Variadic Templates](https://dev.to/delta456/modern-c-variadic-templates-16nn)
-- [How I Use Cursor As My Daily Coding Partner](https://dev.to/douguiluz/how-i-use-cursor-as-my-daily-coding-partner-4jib)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-340l)
+- [Building an ICO on Canton Network](https://dev.to/dennisonbertram/building-an-ico-on-canton-network-2a31)
+- [AI&#39;s Achilles Heel: Can We *Prove* Plans Before They Execute?](https://dev.to/arvind_sundararajan/ais-achilles-heel-can-we-prove-plans-before-they-execute-2ba6)
+- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
+- [Day 1: Building SpeakSheet – An AI-Powered Excel Generator &lpar;NextJS + Gemini + Python&rpar;](https://dev.to/varun_krishnan_1339308c02/day-1-building-speaksheet-an-ai-powered-excel-generator-nextjs-gemini-python-ifh)
+- [Next.js vs React: Which One Should You Choose in 2025?](https://dev.to/sathick0227/nextjs-vs-react-which-one-should-you-choose-in-2025-1a0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
