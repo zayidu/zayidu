@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Genesis: Building Neural Networks from Random Noise](https://dev.to/arvind_sundararajan/ai-genesis-building-neural-networks-from-random-noise-15l6)
-- [Monetzly: Monetizing LLM Apps with Google Ads for AI Conversations](https://dev.to/monetzly/monetzly-monetizing-llm-apps-with-google-ads-for-ai-conversations-16pe)
-- [The Curious Case of Terraform Workspaces](https://dev.to/aws-builders/the-curious-case-of-terraform-workspaces-3llo)
-- [Before You Journey into Tech: My Honest Thoughts from Experience](https://dev.to/nicholaschibueze/before-you-journey-into-tech-my-honest-thoughts-from-experience-23f0)
-- [Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l)
+- [📐 Material 3 Adaptive: Implementing Window Size Classes in Kotlin Compose](https://dev.to/marlonlom/material-3-adaptive-implementing-window-size-classes-in-kotlin-compose-40po)
+- [Gerenciamento seguro e eficiente de tokens com Go e Redis](https://dev.to/cvilanova76/gerenciamento-seguro-e-eficiente-de-tokens-com-go-e-redis-432d)
+- [Unlocking the Power of Microservices: How to Build Scalable Apps and Earn Online](https://dev.to/softwaredeveloperhub01/unlocking-the-power-of-microservices-how-to-build-scalable-apps-and-earn-online-ong)
+- [Concorrência em Go: o uso de locks e channels para evitar deadlocks](https://dev.to/cvilanova76/concorrencia-em-go-o-uso-de-locks-e-channels-para-evitar-deadlocks-53p3)
+- [Pengalaman saya menggunakan FlyEnv selama 6 bulan](https://dev.to/sihar/pengalaman-saya-menggunakan-flyenv-selama-6-bulan-4m8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
