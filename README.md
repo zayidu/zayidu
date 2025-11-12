@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
-- [2025](https://dev.to/temporalio/2025-3dmg)
-- [Tines - SOAR Tool](https://dev.to/kuljotbiring/tines-soar-tool-37fh)
-- [GoREST is dead...](https://dev.to/nicolasbonnici/gorest-is-dead-1ap9)
-- [Developer onboarding is broken in most companies.](https://dev.to/whykislay/developer-onboarding-is-broken-in-most-companies-4hhn)
+- [[Boost]](https://dev.to/gadget/-3fjb)
+- [My Project: pyquest](https://dev.to/rylan/my-project-pyquest-1d6a)
+- [Image Load Races in React Native - Fix It in One Line](https://dev.to/cathylai/image-load-races-in-react-native-fix-it-in-one-line-53ee)
+- [14 Best In-App Chat Features That Shape Better User Experiences](https://dev.to/getstreamhq/14-best-in-app-chat-features-that-shape-better-user-experiences-2gb8)
+- [I built something for busy parents who want to run](https://dev.to/lexingdailylife/i-built-something-for-busy-parents-who-want-to-run-187g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
