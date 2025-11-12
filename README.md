@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-12nk)
-- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-874)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5gh1)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-49c5)
+- [Project Management Courses: Master the Skills to Lead Successful Projects](https://dev.to/ptp_8f8dfa1f68e86d92296b6/project-management-courses-master-the-skills-to-lead-successful-projects-3o00)
+- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
+- [Progressive Web Apps: Building Offline-First UIs – Never Lose Your Users Again!](https://dev.to/karthik_n/progressive-web-apps-building-offline-first-uis-never-lose-your-users-again-2mip)
+- [Day 27 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-27-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3e45)
+- [Boost Developer productivity and DBOps efficiency with AWS Aurora Cloning](https://dev.to/aws-builders/boost-developer-productivity-and-dbops-efficiency-with-aws-aurora-cloning-5cc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
