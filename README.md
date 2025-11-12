@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 2&rpar;: Connect to Frontend](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-2-connect-to-frontend-9om)
-- [Saga Pattern in Distributed Transactions - With Examples in Go](https://dev.to/rosgluk/saga-pattern-in-distributed-transactions-with-examples-in-go-2bgl)
-- [Aprenda Idiomas com a Ajuda de um Gem Personalizado](https://dev.to/sinngjpeg/aprenda-idiomas-com-a-ajuda-de-um-gem-personalizado-195c)
-- [NestJS Typescript: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/nestjs-typescript-the-ultimate-guide-2023-i8o)
-- [Announcing LightningChart JS 8.1](https://dev.to/omar_lightningchart/announcing-lightningchart-js-81-n9j)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-12nk)
+- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-874)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5gh1)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-49c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
