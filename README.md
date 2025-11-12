@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an ICO on Canton Network](https://dev.to/dennisonbertram/building-an-ico-on-canton-network-2a31)
-- [AI&#39;s Achilles Heel: Can We *Prove* Plans Before They Execute?](https://dev.to/arvind_sundararajan/ais-achilles-heel-can-we-prove-plans-before-they-execute-2ba6)
-- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
-- [Day 1: Building SpeakSheet – An AI-Powered Excel Generator &lpar;NextJS + Gemini + Python&rpar;](https://dev.to/varun_krishnan_1339308c02/day-1-building-speaksheet-an-ai-powered-excel-generator-nextjs-gemini-python-ifh)
-- [Next.js vs React: Which One Should You Choose in 2025?](https://dev.to/sathick0227/nextjs-vs-react-which-one-should-you-choose-in-2025-1a0d)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
+- [2025](https://dev.to/temporalio/2025-3dmg)
+- [Tines - SOAR Tool](https://dev.to/kuljotbiring/tines-soar-tool-37fh)
+- [GoREST is dead...](https://dev.to/nicolasbonnici/gorest-is-dead-1ap9)
+- [Developer onboarding is broken in most companies.](https://dev.to/whykislay/developer-onboarding-is-broken-in-most-companies-4hhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
