@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 9 Lightstep &lpar;ServiceNow&rpar; Alternatives in 2025 &lpar;And How to Migrate&rpar;](https://dev.to/signoz/top-9-lightstep-servicenow-alternatives-in-2025-and-how-to-migrate-5135)
-- [⚡ Real-Time Notifications: How Instant Updates Can Make or Break Your App](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-notifications-how-instant-updates-can-make-or-break-your-app-5hc2)
-- [Sumo Logic vs. Datadog: The Definitive Comparison for 2025](https://dev.to/signoz/sumo-logic-vs-datadog-the-definitive-comparison-for-2025-1jo2)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-jlh)
-- [Logz.io vs Datadog &lpar;2025&rpar; - OpenSearch/Prometheus vs Proprietary](https://dev.to/signoz/logzio-vs-datadog-2025-opensearchprometheus-vs-proprietary-ccp)
+- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 2&rpar;: Connect to Frontend](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-2-connect-to-frontend-9om)
+- [Saga Pattern in Distributed Transactions - With Examples in Go](https://dev.to/rosgluk/saga-pattern-in-distributed-transactions-with-examples-in-go-2bgl)
+- [Aprenda Idiomas com a Ajuda de um Gem Personalizado](https://dev.to/sinngjpeg/aprenda-idiomas-com-a-ajuda-de-um-gem-personalizado-195c)
+- [NestJS Typescript: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/nestjs-typescript-the-ultimate-guide-2023-i8o)
+- [Announcing LightningChart JS 8.1](https://dev.to/omar_lightningchart/announcing-lightningchart-js-81-n9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
