@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: My European Tour Recap!](https://dev.to/music_youtube/rick-beato-my-european-tour-recap-25ec)
-- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
-- [Pin It or Bin It &lpar;for the brewsters&rpar;](https://dev.to/jl03/pin-it-or-bin-it-for-the-brewsters-4aoe)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c9l)
-- [Python basics - Day 26](https://dev.to/ian_b838138a27a917398d181/python-basics-day-26-3664)
+- [From Legacy Windows to AI Agent: The Journey of MintBridge to REMI &lpar;Final PoC&rpar;](https://dev.to/jramone3/from-legacy-windows-to-ai-agent-the-journey-of-mintbridge-to-remi-final-poc-4mm1)
+- [The next machine learning startup is in your front yard](https://dev.to/leon_lin_s/the-next-machine-learning-startup-is-in-your-front-yard-hg9)
+- [Efficient Android Screen Recording Using MediaRecorder + MediaProjection](https://dev.to/cat_dogrunning_in_the_s/efficient-android-screen-recording-using-mediarecorder-mediaprojection-27ib)
+- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
+- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
