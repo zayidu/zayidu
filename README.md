@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s 2025. You Should Probably Be Using Expo for React Native.](https://dev.to/devi_green_00f82b6d705/its-2025-you-should-probably-be-using-expo-for-react-native-407a)
-- [Understanding L1 DevOps: The First Line of Support in Modern Operations](https://dev.to/srinivasamcjf/understanding-l1-devops-the-first-line-of-support-in-modern-operations-5fff)
-- [AWS Automated Report Generator: SQS &amp; Lambda](https://dev.to/godinhojoao/aws-automated-report-generator-sqs-lambda-4fn9)
-- [RangeLink v0.3.0: One Keybinding to Rule Them All](https://dev.to/couimet/rangelink-v030-one-keybinding-to-rule-them-all-2h01)
-- [✅ Scenario #14 – Integrate Kubernetes with Vault to fetch Secrets](https://dev.to/latchudevops/scenario-14-integrate-kubernetes-with-vault-to-fetch-secrets-2jdj)
+- [Welcome Thread - v351](https://dev.to/devteam/welcome-thread-v351-460h)
+- [Fighting Framework Jank &lpar;What&#39;s Not in the Docs&rpar;](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
+- [TIL: Always Wrap Collections in API Responses](https://dev.to/canro91/til-always-wrap-collections-in-api-responses-1m1j)
+- [faster whisper从多媒体语音材料中抽取出文本-3](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-3-4li3)
+- [faster whisper从多媒体语音材料中抽取出文本-2](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-2-4hnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
