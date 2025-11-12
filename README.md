@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
-- [Stop Blaming Doctrine - Start Understanding It](https://dev.to/jszutkowski/stop-blaming-doctrine-start-understanding-it-55k2)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-28b1)
-- [DI containers are dead, long live context containers!](https://dev.to/flix_dubsomeone635_0/di-containers-are-dead-long-live-context-containers-3hna)
-- [What is dom?](https://dev.to/aj_arul/what-is-dom-4p4i)
+- [SuperClaude: Tu Agente de IA ya no es Junior, Ahora es Arquitecto y se Sube al Stack.](https://dev.to/barrilitodev/superclaude-tu-agente-de-ia-ya-no-es-junior-ahora-es-arquitecto-y-se-sube-al-stack-7ee)
+- [blob10](https://dev.to/query_filter_591122b53770/blob10-31bn)
+- [Linux Security Auditing: 5 Hands-On Labs for Rsync Anonymous Sync, SMB Guest Access, and SSH Key Enumeration](https://dev.to/labex/linux-security-auditing-5-hands-on-labs-for-rsync-anonymous-sync-smb-guest-access-and-ssh-key-1p5)
+- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
+- [Can Sora 2 generate NSFW content? How can we try it?](https://dev.to/_37bbf0c253c0b3edec531e/can-sora-2-generate-nsfw-content-how-can-we-try-it-40gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
