@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 web.dev — Build Better Websites](https://dev.to/ml318097/webdev-build-better-websites-41h6)
-- [Stop Storing Secrets in Your Frontend .env File](https://dev.to/elenndev/stop-storing-secrets-in-your-frontend-env-file-20i0)
-- [How Bilingual Development Teams Improve App Localization](https://dev.to/tribesquare/how-bilingual-development-teams-improve-app-localization-4ha8)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1423)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3nba)
+- [Omarchy: A New Linux Distro for Pragmatic Users](https://dev.to/stelixx-insider/omarchy-a-new-linux-distro-for-pragmatic-users-55dp)
+- [&quot;Your Plans Aren&#39;t Realistic&quot;: The Brutal Honesty That Prevents Burnout](https://dev.to/tlorent/your-plans-arent-realistic-the-brutal-honesty-that-prevents-burnout-53lp)
+- [Transforming Manufacturing Intelligence with Snowflake Intelligence: A Complete Solution](https://dev.to/bharaths86/transforming-manufacturing-intelligence-with-snowflake-intelligence-a-complete-solution-3489)
+- [The Poem That Taught Me to Listen](https://dev.to/sarahlinwrites/the-poem-that-taught-me-to-listen-3i72)
+- [💳 Building a Lightweight PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
