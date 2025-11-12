@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Omarchy: A New Linux Distro for Pragmatic Users](https://dev.to/stelixx-insider/omarchy-a-new-linux-distro-for-pragmatic-users-55dp)
-- [&quot;Your Plans Aren&#39;t Realistic&quot;: The Brutal Honesty That Prevents Burnout](https://dev.to/tlorent/your-plans-arent-realistic-the-brutal-honesty-that-prevents-burnout-53lp)
-- [Transforming Manufacturing Intelligence with Snowflake Intelligence: A Complete Solution](https://dev.to/bharaths86/transforming-manufacturing-intelligence-with-snowflake-intelligence-a-complete-solution-3489)
-- [The Poem That Taught Me to Listen](https://dev.to/sarahlinwrites/the-poem-that-taught-me-to-listen-3i72)
-- [💳 Building a Lightweight PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
+- [Rick Beato: My European Tour Recap!](https://dev.to/music_youtube/rick-beato-my-european-tour-recap-25ec)
+- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
+- [Pin It or Bin It &lpar;for the brewsters&rpar;](https://dev.to/jl03/pin-it-or-bin-it-for-the-brewsters-4aoe)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c9l)
+- [Python basics - Day 26](https://dev.to/ian_b838138a27a917398d181/python-basics-day-26-3664)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
