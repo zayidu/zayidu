@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot Immitation: A gentle Intro](https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc)
-- [Building the Future of Customer Interaction with Oodles’ Chatbot Development Services](https://dev.to/oodlesplatform/building-the-future-of-customer-interaction-with-oodles-chatbot-development-services-57cg)
-- [AI Just Scored 37.8% of Human Intelligence — Introducing the AGCI Benchmark](https://dev.to/epic_programmer_55489f708/ai-just-scored-378-of-human-intelligence-introducing-the-agci-benchmark-186f)
-- [Looping in JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/looping-in-javascript-44h2)
-- [CSS BACKGROUND AND FLEXBOX STYLES](https://dev.to/suma_suma/css-background-and-flexbox-styles-3mo1)
+- [Top 9 Lightstep &lpar;ServiceNow&rpar; Alternatives in 2025 &lpar;And How to Migrate&rpar;](https://dev.to/signoz/top-9-lightstep-servicenow-alternatives-in-2025-and-how-to-migrate-5135)
+- [⚡ Real-Time Notifications: How Instant Updates Can Make or Break Your App](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-notifications-how-instant-updates-can-make-or-break-your-app-5hc2)
+- [Sumo Logic vs. Datadog: The Definitive Comparison for 2025](https://dev.to/signoz/sumo-logic-vs-datadog-the-definitive-comparison-for-2025-1jo2)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-jlh)
+- [Logz.io vs Datadog &lpar;2025&rpar; - OpenSearch/Prometheus vs Proprietary](https://dev.to/signoz/logzio-vs-datadog-2025-opensearchprometheus-vs-proprietary-ccp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
