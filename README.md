@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Mini-SOC with LM Studio - Part 1: Agent Architecture](https://dev.to/chaimae_bouassab_aa411bf2/building-an-ai-powered-mini-soc-with-lm-studio-part-1-agent-architecture-366e)
-- [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
-- [Did I just join a Hackathon](https://dev.to/rlove/did-i-just-join-a-hackathon-2700)
-- [IT Asset Management-Vulnerabilities and Patches.](https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99)
-- [L&#39;Injection de Dépendances &lpar;DI&rpar; : Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera/linjection-de-dependances-di-comment-le-service-container-de-laravel-vous-rend-invincible-eo0)
+- [AI Genesis: Building Neural Networks from Random Noise](https://dev.to/arvind_sundararajan/ai-genesis-building-neural-networks-from-random-noise-15l6)
+- [Monetzly: Monetizing LLM Apps with Google Ads for AI Conversations](https://dev.to/monetzly/monetzly-monetizing-llm-apps-with-google-ads-for-ai-conversations-16pe)
+- [The Curious Case of Terraform Workspaces](https://dev.to/aws-builders/the-curious-case-of-terraform-workspaces-3llo)
+- [Before You Journey into Tech: My Honest Thoughts from Experience](https://dev.to/nicholaschibueze/before-you-journey-into-tech-my-honest-thoughts-from-experience-23f0)
+- [Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
