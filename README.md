@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📐 Material 3 Adaptive: Implementing Window Size Classes in Kotlin Compose](https://dev.to/marlonlom/material-3-adaptive-implementing-window-size-classes-in-kotlin-compose-40po)
-- [Gerenciamento seguro e eficiente de tokens com Go e Redis](https://dev.to/cvilanova76/gerenciamento-seguro-e-eficiente-de-tokens-com-go-e-redis-432d)
-- [Unlocking the Power of Microservices: How to Build Scalable Apps and Earn Online](https://dev.to/softwaredeveloperhub01/unlocking-the-power-of-microservices-how-to-build-scalable-apps-and-earn-online-ong)
-- [Concorrência em Go: o uso de locks e channels para evitar deadlocks](https://dev.to/cvilanova76/concorrencia-em-go-o-uso-de-locks-e-channels-para-evitar-deadlocks-53p3)
-- [Pengalaman saya menggunakan FlyEnv selama 6 bulan](https://dev.to/sihar/pengalaman-saya-menggunakan-flyenv-selama-6-bulan-4m8p)
+- [It&#39;s 2025. You Should Probably Be Using Expo for React Native.](https://dev.to/devi_green_00f82b6d705/its-2025-you-should-probably-be-using-expo-for-react-native-407a)
+- [Understanding L1 DevOps: The First Line of Support in Modern Operations](https://dev.to/srinivasamcjf/understanding-l1-devops-the-first-line-of-support-in-modern-operations-5fff)
+- [AWS Automated Report Generator: SQS &amp; Lambda](https://dev.to/godinhojoao/aws-automated-report-generator-sqs-lambda-4fn9)
+- [RangeLink v0.3.0: One Keybinding to Rule Them All](https://dev.to/couimet/rangelink-v030-one-keybinding-to-rule-them-all-2h01)
+- [✅ Scenario #14 – Integrate Kubernetes with Vault to fetch Secrets](https://dev.to/latchudevops/scenario-14-integrate-kubernetes-with-vault-to-fetch-secrets-2jdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
