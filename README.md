@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Dreamy Developer Finding Where I Belong](https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh)
-- [The Dream of Indie Coders](https://dev.to/huynhnhanquoc/the-dream-of-indie-coders-10g7)
-- [The Indie Path](https://dev.to/huynhnhanquoc/the-indie-path-1pa7)
-- [Directive Sync – The “Odd” Story of Kit JS](https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo)
-- [Why Does Kit JS Exist?](https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc)
+- [Robot Immitation: A gentle Intro](https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc)
+- [Building the Future of Customer Interaction with Oodles’ Chatbot Development Services](https://dev.to/oodlesplatform/building-the-future-of-customer-interaction-with-oodles-chatbot-development-services-57cg)
+- [AI Just Scored 37.8% of Human Intelligence — Introducing the AGCI Benchmark](https://dev.to/epic_programmer_55489f708/ai-just-scored-378-of-human-intelligence-introducing-the-agci-benchmark-186f)
+- [Looping in JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/looping-in-javascript-44h2)
+- [CSS BACKGROUND AND FLEXBOX STYLES](https://dev.to/suma_suma/css-background-and-flexbox-styles-3mo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
