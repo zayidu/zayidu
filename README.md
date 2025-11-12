@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
-- [DotCommand 1.3.0 is out. I completely rebuilt the extension.](https://dev.to/freerave/dotcommand-130-is-out-i-completely-rebuilt-the-extension-35j9)
-- [Myth: Training AI models requires enormous energy consumptio](https://dev.to/drcarlosruizviquez/myth-training-ai-models-requires-enormous-energy-consumptio-2ie8)
-- [Why I Built My Own Windows Installer in C#](https://dev.to/iamsopotatoecoder/why-i-built-my-own-windows-installer-in-c-5ap9)
-- [Terraform, but Safer — How I Built tf-safe to Protect State Files Automatically](https://dev.to/birhrt/terraform-but-safer-how-i-built-tf-safe-to-protect-state-files-automatically-2ndd)
+- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
+- [Building a Production-Ready VPC Implementation on Linux. HNG Internship Task 4: Complete VPC Control System with Networking](https://dev.to/masterpitan/building-a-production-ready-vpc-implementation-on-linux-hng-internship-task-4-complete-vpc-control-3h9j)
+- [Modern C++: Variadic Templates](https://dev.to/delta456/modern-c-variadic-templates-16nn)
+- [How I Use Cursor As My Daily Coding Partner](https://dev.to/douguiluz/how-i-use-cursor-as-my-daily-coding-partner-4jib)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-340l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
