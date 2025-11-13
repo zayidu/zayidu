@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient S3 File Uploads: Speed &amp; Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4)
-- [Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln)
-- [Day 3: Fundamental FinOps Principles and Key Terminologies](https://dev.to/ibbus/day-3-fundamental-finops-principles-and-key-terminologies-5fmd)
-- [Adventure and Peace on the Trails of Beas Kund](https://dev.to/md_tasin_796ae00572dbbd80/adventure-and-peace-on-the-trails-of-beas-kund-2gp5)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp)
+- [Building Conflux - My Own Real-time Collaboration Engine in Rust](https://dev.to/kayleecodez/building-conflux-my-own-real-time-collaboration-engine-in-rust-41lm)
+- [Next.js Server Actions vs API Routes: Don’t Build Your App Until You Read This](https://dev.to/myogeshchavan97/nextjs-server-actions-vs-api-routes-dont-build-your-app-until-you-read-this-4kb9)
+- [Multilingual AI and Its Impact in India](https://dev.to/qwegle_insights/multilingual-ai-and-its-impact-in-india-52a0)
+- [NoteBookLM Tutorial: How to Turn Documents Into AI Podcasts](https://dev.to/siddhartha_vandavasi_5c3a/notebooklm-tutorial-how-to-turn-documents-into-ai-podcasts-37j5)
+- [How to Add WhatsApp Button in Your Automotive App](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-whatsapp-button-in-your-automotive-app-4emf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
