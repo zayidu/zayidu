@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
-- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1695)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1l4b)
-- [Project standards in Umami codebase - Part 1.1](https://dev.to/ramunarasinga-11/project-standards-in-umami-codebase-part-11-32i7)
+- [AI Content Marketing: 2025 Strategies That Actually Work](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-fpm)
+- [A Quick Vibe Code Experiment with Angular&#39;s MCP Server](https://dev.to/angular/a-quick-vibe-code-experiment-with-angulars-mcp-server-3g2h)
+- [Why Every Developer Should Understand the Learning Science Behind AI](https://dev.to/jamespatterson25/why-every-developer-should-understand-the-learning-science-behind-ai-311n)
+- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
+- [From Coders to Knowledge Architects: The Next Phase of Developer Learning](https://dev.to/jamespatterson25/from-coders-to-knowledge-architects-the-next-phase-of-developer-learning-1mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
