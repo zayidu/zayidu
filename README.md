@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gadget/-3fjb)
-- [My Project: pyquest](https://dev.to/rylan/my-project-pyquest-1d6a)
-- [Image Load Races in React Native - Fix It in One Line](https://dev.to/cathylai/image-load-races-in-react-native-fix-it-in-one-line-53ee)
-- [14 Best In-App Chat Features That Shape Better User Experiences](https://dev.to/getstreamhq/14-best-in-app-chat-features-that-shape-better-user-experiences-2gb8)
-- [I built something for busy parents who want to run](https://dev.to/lexingdailylife/i-built-something-for-busy-parents-who-want-to-run-187g)
+- [How We Built Coomia DataGPT — An AI Copilot for Data Analysis](https://dev.to/spancer/how-we-built-coomia-datagpt-an-ai-copilot-for-data-analysis-1k6k)
+- [Step-by-Step Lab: How to Create a Resource Group in Azure Portal](https://dev.to/ojosamuel129/step-by-step-lab-how-to-create-a-resource-group-in-azure-portal-2gg0)
+- [Recreating LinkedIn’s Crossclimb Game with Angular - Part 2](https://dev.to/this-is-angular/recreating-linkedins-crossclimb-game-with-angular-part-2-4a1n)
+- [10 Years in: Why I Still Google Everything &lpar;And Why I’m Finally Okay With It&rpar;](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7)
+- [Building a Production RAG System for Resume Search: What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
