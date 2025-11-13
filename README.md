@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
-- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
-- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
-- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
-- [I built a clean admin dashboard template using Next.js + MUI — would love your feedback!](https://dev.to/royh/i-built-a-clean-admin-dashboard-template-using-nextjs-mui-would-love-your-feedback-cc8)
+- [College Projects to Production Code: Mindset Shifts Every Beginner Developer Must Make](https://dev.to/dhruvjoshi9/college-projects-to-production-code-mindset-shifts-every-beginner-developer-must-make-2a9c)
+- [OWASP Cornucopia 3.0 - A call for card game designers!](https://dev.to/owasp/owasp-cornucopia-30-a-call-for-card-game-designers-1j1m)
+- [Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)
+- [[Boost]](https://dev.to/mohitrajput987/-3afh)
+- [NPR Music: Pulp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
