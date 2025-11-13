@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Marketing: 2025 Strategies That Actually Work](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-fpm)
-- [A Quick Vibe Code Experiment with Angular&#39;s MCP Server](https://dev.to/angular/a-quick-vibe-code-experiment-with-angulars-mcp-server-3g2h)
-- [Why Every Developer Should Understand the Learning Science Behind AI](https://dev.to/jamespatterson25/why-every-developer-should-understand-the-learning-science-behind-ai-311n)
-- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
-- [From Coders to Knowledge Architects: The Next Phase of Developer Learning](https://dev.to/jamespatterson25/from-coders-to-knowledge-architects-the-next-phase-of-developer-learning-1mh)
+- [CDSA 1-Month Web Development Bootcamp: The Real-Deal Edition](https://dev.to/vernard_sharbney_4c39f22b/cdsa-1-month-web-development-bootcamp-the-real-deal-edition-4b5d)
+- [MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses](https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda)
+- [UI &amp; UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura](https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif)
+- [Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs](https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2f8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
