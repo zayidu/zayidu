@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch a Profitable Online Clothing Brand in 2025](https://dev.to/creative_soul_1f7d988fcf9/how-to-launch-a-profitable-online-clothing-brand-in-2025-4edk)
-- [The future of Mobile Apps in the era of Agentic AI](https://dev.to/priya_negi_9ffd29931ea408/the-future-of-mobile-apps-in-the-era-of-agentic-ai-2fjd)
-- [The Journey of Wowzers: Creativity, Challenges, and Our Future](https://dev.to/carter_flynn_7e3f50b8c386/the-journey-of-wowzers-creativity-challenges-and-our-future-3cfj)
-- [🧠 How User-Space and Kernel-Space Affect Security in Linux](https://dev.to/secbyshresth/how-user-space-and-kernel-space-affect-security-in-linux-18an)
-- [What It Takes to Build a Modern Social Network in Django](https://dev.to/smartlegionlab/what-it-takes-to-build-a-modern-social-network-in-django-24dd)
+- [Efficient S3 File Uploads: Speed &amp; Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4)
+- [Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln)
+- [Day 3: Fundamental FinOps Principles and Key Terminologies](https://dev.to/ibbus/day-3-fundamental-finops-principles-and-key-terminologies-5fmd)
+- [Adventure and Peace on the Trails of Beas Kund](https://dev.to/md_tasin_796ae00572dbbd80/adventure-and-peace-on-the-trails-of-beas-kund-2gp5)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
