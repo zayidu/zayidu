@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Complexity: Unleashing Evolutionary Algorithms for System Modeling](https://dev.to/arvind_sundararajan/taming-complexity-unleashing-evolutionary-algorithms-for-system-modeling-52lb)
-- [How to Monetize Your Coding Skills by Building Niche Web Apps](https://dev.to/softwaredeveloperhub01/how-to-monetize-your-coding-skills-by-building-niche-web-apps-25pb)
-- [Building for Trust: A Guide to Gasless Transactions with ERC-2771](https://dev.to/binnadev/building-for-trust-a-guide-to-gasless-transactions-with-erc-2771-3ojf)
-- [Mini-Micro: http.post wizardry](https://dev.to/blankets-awful-posts/mini-micro-httppost-wizardry-3p16)
-- [The most powerful web barcode scanner has just launched on the Edge Add-ons Store. Check it out and start scanning instantly! https://microsoftedge.microsoft.com/addons/detail/barcode-qr-code-scanner/lddfadanimbaiceehkfdngafclpodldj](https://dev.to/yushulx/the-most-powerful-web-barcode-scanner-has-just-launched-on-the-edge-add-ons-store-check-it-out-and-1pbo)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-2l00)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-24n0)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2b44)
+- [Shock to the System: How We &#39;Hacked&#39; a Tesla at Zero Nights 2017 ⚡🔧](https://dev.to/d3one/shock-to-the-system-how-we-hacked-a-tesla-at-zero-nights-2017-413n)
+- [🐬 MySQL — The Complete Guide for Developers &lpar;2025 Edition&rpar;](https://dev.to/farhad_rahimi_klie/mysql-the-complete-guide-for-developers-2025-edition-19li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
