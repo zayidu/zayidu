@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain for Beginner Developers](https://dev.to/np_hacks_code/blockchain-for-beginner-developers-4k0e)
-- [Building a Secure DAL: Composable Multi-Tenancy Filtering with C# and Linq2Db](https://dev.to/gigaherz/building-a-secure-dal-composable-multi-tenancy-filtering-with-c-and-linq2db-19lo)
-- [From Figma to Next.js: How I Built a Functional UI Using Kombai](https://dev.to/tarunsinghofficial/from-figma-to-nextjs-how-i-built-a-functional-ui-using-kombai-335j)
-- [It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech](https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp)
-- [How CAMEL Rebuilt Browser Automation: From Python to TypeScript for Reliable AI Agents](https://dev.to/camel-ai/how-camel-rebuilt-browser-automation-from-python-to-typescript-for-reliable-ai-agents-2893)
+- [🚀 Blue/Green Deployment, Ensuring Zero Downtime Deployments](https://dev.to/alina_shujaat_e1753c735c2/bluegreen-deployment-ensuring-zero-downtime-deployments-2o9b)
+- [Reproducible Dev Environments](https://dev.to/khozaei/reproducible-dev-environments-10mk)
+- [Tcpdump and SNAT on Linux NAT Server: Why Outgoing SNAT Packets Don’t Appear in Captures &lpar;and How to Fix It&rpar;](https://dev.to/jelly5199/tcpdump-and-snat-on-linux-nat-server-why-outgoing-snat-packets-dont-appear-in-captures-and-how-252l)
+- [Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices](https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61)
+- [The Production-Ready GenAI Platform: A Complete AWS Architecture for Codified Governance](https://dev.to/dee66/the-production-ready-genai-platform-a-complete-aws-architecture-for-codified-governance-4m5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
