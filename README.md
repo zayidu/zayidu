@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [College Projects to Production Code: Mindset Shifts Every Beginner Developer Must Make](https://dev.to/dhruvjoshi9/college-projects-to-production-code-mindset-shifts-every-beginner-developer-must-make-2a9c)
-- [OWASP Cornucopia 3.0 - A call for card game designers!](https://dev.to/owasp/owasp-cornucopia-30-a-call-for-card-game-designers-1j1m)
-- [Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)
-- [[Boost]](https://dev.to/mohitrajput987/-3afh)
-- [NPR Music: Pulp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l)
+- [🚀 Building My First Full-Stack Todo App with React + Supabase ⚛️](https://dev.to/sripadh_sujith_1487e8db18/building-my-first-full-stack-todo-app-with-react-supabase-1pg8)
+- [Think. Update. Automate — PostgreSQL with Rust &lpar;Part 2&rpar;](https://dev.to/manjushaps/think-update-automate-postgresql-with-rust-part-2-4ml8)
+- [How To Build a Frontend with Lovable.dev for Your Strapi Backend](https://dev.to/strapi/how-to-build-a-frontend-with-lovabledev-for-your-strapi-backend-3f22)
+- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
+- [How QBurst Migrated a Luxury Brand from Strapi v4 to Strapi 5](https://dev.to/strapi/how-qburst-migrated-a-luxury-brand-from-strapi-v4-to-strapi-5-1j4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
