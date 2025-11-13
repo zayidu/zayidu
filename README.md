@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building My First Full-Stack Todo App with React + Supabase ⚛️](https://dev.to/sripadh_sujith_1487e8db18/building-my-first-full-stack-todo-app-with-react-supabase-1pg8)
-- [Think. Update. Automate — PostgreSQL with Rust &lpar;Part 2&rpar;](https://dev.to/manjushaps/think-update-automate-postgresql-with-rust-part-2-4ml8)
-- [How To Build a Frontend with Lovable.dev for Your Strapi Backend](https://dev.to/strapi/how-to-build-a-frontend-with-lovabledev-for-your-strapi-backend-3f22)
-- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
-- [How QBurst Migrated a Luxury Brand from Strapi v4 to Strapi 5](https://dev.to/strapi/how-qburst-migrated-a-luxury-brand-from-strapi-v4-to-strapi-5-1j4m)
+- [Blockchain for Beginner Developers](https://dev.to/np_hacks_code/blockchain-for-beginner-developers-4k0e)
+- [Building a Secure DAL: Composable Multi-Tenancy Filtering with C# and Linq2Db](https://dev.to/gigaherz/building-a-secure-dal-composable-multi-tenancy-filtering-with-c-and-linq2db-19lo)
+- [From Figma to Next.js: How I Built a Functional UI Using Kombai](https://dev.to/tarunsinghofficial/from-figma-to-nextjs-how-i-built-a-functional-ui-using-kombai-335j)
+- [It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech](https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp)
+- [How CAMEL Rebuilt Browser Automation: From Python to TypeScript for Reliable AI Agents](https://dev.to/camel-ai/how-camel-rebuilt-browser-automation-from-python-to-typescript-for-reliable-ai-agents-2893)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
