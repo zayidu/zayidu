@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Blue/Green Deployment, Ensuring Zero Downtime Deployments](https://dev.to/alina_shujaat_e1753c735c2/bluegreen-deployment-ensuring-zero-downtime-deployments-2o9b)
-- [Reproducible Dev Environments](https://dev.to/khozaei/reproducible-dev-environments-10mk)
-- [Tcpdump and SNAT on Linux NAT Server: Why Outgoing SNAT Packets Don’t Appear in Captures &lpar;and How to Fix It&rpar;](https://dev.to/jelly5199/tcpdump-and-snat-on-linux-nat-server-why-outgoing-snat-packets-dont-appear-in-captures-and-how-252l)
-- [Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices](https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61)
-- [The Production-Ready GenAI Platform: A Complete AWS Architecture for Codified Governance](https://dev.to/dee66/the-production-ready-genai-platform-a-complete-aws-architecture-for-codified-governance-4m5e)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
+- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1695)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1l4b)
+- [Project standards in Umami codebase - Part 1.1](https://dev.to/ramunarasinga-11/project-standards-in-umami-codebase-part-11-32i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
