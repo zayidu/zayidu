@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-ba)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1o9b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-57mi)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1g50)
-- [Metric Tradeoffs in Data Science: Deciding When One Metric Goes Up and Another Goes Down](https://dev.to/xiaoming_nian_94953c8c9b8/metric-tradeoffs-in-data-science-deciding-when-one-metric-goes-up-and-another-goes-down-1e55)
+- [Dumper: A single tool for databases backup](https://dev.to/kirill_scherbakoff_3aae3c/dumper-a-single-tool-for-databases-backup-2oa9)
+- [XML Schema Validation 1.1 in Java](https://dev.to/nfrankel/xml-schema-validation-11-in-java-14c5)
+- [How Angular Signals Transformed My State Management - And Yours Can Too](https://dev.to/karol_modelski/how-angular-signals-transformed-my-state-management-and-yours-can-too-4i93)
+- [How I Built a Thunderbird Translator Without Coding Experience Using AI](https://dev.to/buxarnet/how-i-built-a-thunderbird-translator-without-coding-experience-using-ai-32b0)
+- [🚀 Live Stock Dashboard with Peer Analysis — Built with Streamlit &lpar;python&rpar;.](https://dev.to/dev_ops_python/live-stock-dashboard-with-peer-analysis-built-with-streamlit-python-277i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
