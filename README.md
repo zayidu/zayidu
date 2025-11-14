@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Modal Travel Planning Agent in Minutes](https://dev.to/aws/multi-modal-travel-planning-agent-in-minutes-3j2n)
-- [Boost Your Developer Workflow with GPT-5 Automations](https://dev.to/vicodev/boost-your-developer-workflow-with-gpt-5-automations-41i)
-- [How One Cross-Border E-Commerce Company Secured Its Payment System Using Apache + SafeLine WAF](https://dev.to/arina_cholee/how-one-cross-border-e-commerce-company-secured-its-payment-system-using-apache-safeline-waf-235f)
-- [🧑‍💻 If DevOps Were a Human… &lpar;You Already Know This Person 😅&rpar;](https://dev.to/alihajizadeh/if-devops-were-a-human-you-already-know-this-person--28n8)
-- [NVIDIA GeForce GTX 750 Ti 跑 faster-whisper](https://dev.to/dragon72463399/nvidia-geforce-gtx-750-ti-pao-faster-whisper-274j)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-10d5)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-ne0)
+- [Excited](https://dev.to/gontorwon/excited-47ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
