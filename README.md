@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
-- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83)
-- [building Banana AI](https://dev.to/232_123_ea31db9ef368c7c61/building-banana-ai-3ei0)
-- [SaijinOS Part 9 — Multi-Persona Co-Creation Protocol](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep)
-- [Anatomy of a Cloud Collapse: A Technical Deep-Dive on the AWS Outage of October 2025](https://dev.to/harshith_reddy_dev/anatomy-of-a-cloud-collapse-a-technical-deep-dive-on-the-aws-outage-of-october-2025-2mj4)
+- [This Week In React #258: TanStack, Next.js | Valdi, IntersectionObserver, Nitro | TC39, Node](https://dev.to/sebastienlorber/this-week-in-react-258-tanstack-nextjs-valdi-intersectionobserver-nitro-tc39-node-21fg)
+- [Application Modernization &amp; Cloud Architecture: A Strategic Approach](https://dev.to/muhammed_muddassirfarooq/application-modernization-cloud-architecture-a-strategic-approach-4mm8)
+- [Kimi K2 Thinking vs. Claude 4.5 Sonnet vs. GPT-5 Codex: Tested the best models for agentic coding](https://dev.to/composiodev/kimi-k2-thinking-vs-claude-45-sonnet-vs-gpt-5-codex-tested-the-best-models-for-agentic-coding-21e5)
+- [I just launched ReactChallenges.com](https://dev.to/duffmancc/i-just-launched-reactchallengescom-e27)
+- [Domain controller decommission SOP](https://dev.to/thiyagarajan_thangavel/domain-controller-decommission-sop-31l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
