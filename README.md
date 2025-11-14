@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Πώς το Azure Front Door Μοιράζει Έξυπνα την Παγκόσμια Κίνηση και Διατηρεί τις Εφαρμογές Πάντα Διαθέσιμες](https://dev.to/__b63657/pos-to-azure-front-door-moirazei-exupna-ten-pagkosmia-kinese-kai-diaterei-tis-epharmoges-panta-33h5)
-- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-dgm)
-- [easy-install: A Rust-Powered Package Installer That Actually Works on OpenWrt](https://dev.to/ahaoboy/easy-install-a-rust-powered-package-installer-that-actually-works-on-openwrt-58pa)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c9m)
-- [⚛️ React Suspense in 2025: Beyond Lazy Loading](https://dev.to/tahamjp/react-suspense-in-2025-beyond-lazy-loading-398d)
+- [Deploying a Flask App Across Multiple AWS Regions](https://dev.to/techwithhari/deploying-a-flask-app-across-multiple-aws-regions-305b)
+- [Bringing the Popular codeSTACKr Theme to IntelliJ IDEA](https://dev.to/imranjankm/bringing-the-popular-codestackr-theme-to-intellij-idea-4c7j)
+- [How we unified our Terraform module repositories](https://dev.to/tom-masson/nx-monorepo-how-we-unified-our-terraform-module-repositories-2h47)
+- [How to Clean Up a Messy AWS Account: A Step-by-Step Cloud Hygiene Guide](https://dev.to/addwebsolutionpvtltd/how-to-clean-up-a-messy-aws-account-a-step-by-step-cloud-hygiene-guide-20cd)
+- [The Collapse of the Web: The Sameness &amp; Death of Difference in Tech](https://dev.to/rockyessel/the-collapse-of-the-web-the-sameness-death-of-difference-in-tech-2gkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
