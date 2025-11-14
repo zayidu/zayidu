@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
-- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
-- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
-- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
-- [MVP Delivery Timelines in the Real World: A DevOps Engineer’s Breakdown of What’s Actually Achievable](https://dev.to/artyom_mukhopad_a9444ed6d/mvp-delivery-timelines-in-the-real-world-a-devops-engineers-breakdown-of-whats-actually-5b2h)
+- [Πώς το Azure Front Door Μοιράζει Έξυπνα την Παγκόσμια Κίνηση και Διατηρεί τις Εφαρμογές Πάντα Διαθέσιμες](https://dev.to/__b63657/pos-to-azure-front-door-moirazei-exupna-ten-pagkosmia-kinese-kai-diaterei-tis-epharmoges-panta-33h5)
+- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-dgm)
+- [easy-install: A Rust-Powered Package Installer That Actually Works on OpenWrt](https://dev.to/ahaoboy/easy-install-a-rust-powered-package-installer-that-actually-works-on-openwrt-58pa)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c9m)
+- [⚛️ React Suspense in 2025: Beyond Lazy Loading](https://dev.to/tahamjp/react-suspense-in-2025-beyond-lazy-loading-398d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
