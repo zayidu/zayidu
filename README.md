@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey guys, just in case you missed this: I documented my experience building an open-source solution to improving the experience of front-end developers. Please check it out!](https://dev.to/olawalethefirst/hey-guys-just-in-case-you-missed-this-i-documented-my-experience-building-an-open-source-solution-3l13)
-- [How to Mount and Unmount Drives and Partitions in Linux](https://dev.to/serveravatar/how-to-mount-and-unmount-drives-and-partitions-in-linux-19oo)
-- [When a simple order update breaks Revolut Checkout workflow](https://dev.to/asoseil/when-a-simple-order-update-breaks-revolut-checkout-workflow-ocf)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-21jl)
-- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
+- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
+- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
+- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
+- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
+- [MVP Delivery Timelines in the Real World: A DevOps Engineer’s Breakdown of What’s Actually Achievable](https://dev.to/artyom_mukhopad_a9444ed6d/mvp-delivery-timelines-in-the-real-world-a-devops-engineers-breakdown-of-whats-actually-5b2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
