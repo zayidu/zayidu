@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4hjc)
-- [React 19: A Comprehensive Technical Guide with Code Examples](https://dev.to/collins_oromoni_c3bdc3b02/react-19-a-comprehensive-technical-guide-with-code-examples-22d3)
-- [Interoperating Open Table Formats on AWS Using Apache XTable &lpar;Delta Iceberg&rpar;](https://dev.to/aws-builders/interoperating-open-table-formats-on-aws-using-apache-xtable-delta-iceberg-39id)
-- [Self-Propelled Missiles: How To Find and Work with High Achievers](https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903)
-- [[Boost]](https://dev.to/sucodelarangela/-dge)
+- [A starters guide from SQS and some learning along the way](https://dev.to/javiermendogo/a-starters-guide-from-sqs-and-some-learning-along-the-way-2lpg)
+- [The Pragmatic Programmer: Lessons That Still Matter](https://dev.to/nikodyring/the-pragmatic-programmer-lessons-that-still-matter-51ml)
+- [sorted&lpar;&rpar; function is used to sort the elements in a Tuple](https://dev.to/onaolapo11/sorted-function-is-used-to-sort-the-elements-in-a-tuple-196e)
+- [Setting up CI and automated testing](https://dev.to/slyang08/setting-up-ci-and-automated-testing-cf0)
+- [The Shipyard MCP Server: Manage environments with AI agents](https://dev.to/shipyard/the-shipyard-mcp-server-manage-environments-with-ai-agents-2249)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
