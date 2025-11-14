@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intelligent Request Queue Management in WebForms Core 2](https://dev.to/elanatframework/intelligent-request-queue-management-in-webforms-core-2-32jk)
-- [Nuxt Tutorial 2 - Components &amp; Pages](https://dev.to/aloisseckar/nuxt-tutorial-2-components-pages-432g)
-- [War of the words](https://dev.to/leon_lin_s/war-of-the-words-a27)
-- [Optical Flow: How Robots &lpar;and maybe your Phone&rpar; See Motion](https://dev.to/nicanor_korir/optical-flow-how-robots-and-maybe-your-phone-see-motion-19ca)
-- [🚀 Introducing ChatATP: The Universal Operating System for AI Agents](https://dev.to/samuelobinnachimdi/introducing-chatatp-the-universal-operating-system-for-ai-agents-5gpc)
+- [Stop npm i-ing Blind: How I Catch Malicious Packages Before They Hit Production](https://dev.to/block_hacks/stop-npm-i-ing-blind-how-i-catch-malicious-packages-before-they-hit-production-1c29)
+- [What is JavaScript?](https://dev.to/s_sarumathi_a1de306480d33/what-is-javascript-2cjc)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2cc2)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-34ee)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-pa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
