@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini Canvas vs GPT-5: Which Creates the Best Presentation?](https://dev.to/ndabene/gemini-canvas-vs-gpt-5-which-creates-the-best-presentation-53cd)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-3dbg)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-255p)
-- [Java&#39;s Funny Little Heresies](https://dev.to/vulinh64/javas-funny-little-heresies-2cng)
-- [Smarter Testing with AI: How Test Case Creation and Data Management Are Evolving](https://dev.to/aio_tests_903984883a574e9/smarter-testing-with-ai-how-test-case-creation-and-data-management-are-evolving-p1)
+- [Rekichizu: A Modern Take on Japan&#39;s Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp)
+- [📝 React Router Data APIs — The Complete Beginner-Friendly Guide &lpar;2025 Edition&rpar;](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m)
+- [From File Chaos to Clean Catalog: How AI Batch Tools Organize &amp; Remove Backgrounds at Scale](https://dev.to/freepixel11/from-file-chaos-to-clean-catalog-how-ai-batch-tools-organize-remove-backgrounds-at-scale-o33)
+- [Next.jsでQiita風の見出しアンカーリンクを実装する方法](https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
