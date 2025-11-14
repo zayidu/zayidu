@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rekichizu: A Modern Take on Japan&#39;s Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp)
-- [📝 React Router Data APIs — The Complete Beginner-Friendly Guide &lpar;2025 Edition&rpar;](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m)
-- [From File Chaos to Clean Catalog: How AI Batch Tools Organize &amp; Remove Backgrounds at Scale](https://dev.to/freepixel11/from-file-chaos-to-clean-catalog-how-ai-batch-tools-organize-remove-backgrounds-at-scale-o33)
-- [Next.jsでQiita風の見出しアンカーリンクを実装する方法](https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj)
+- [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
+- [Novel Drama Perfection: How The Betrayed Series&#39; Maddy &amp; Tobias Became the Ultimate Heartbreak Prescription](https://dev.to/em_trn_7e18ddad7a894433b/novel-drama-perfection-how-the-betrayed-series-maddy-tobias-became-the-ultimate-heartbreak-5d98)
+- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
+- [How To Integrate Native C++ Codes Into Arkts](https://dev.to/harmonyos/how-to-integrate-native-c-codes-into-arkts-3hde)
+- [Getting Marimo Up and Running on Windows with uv](https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
