@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring: la Feature que Tardó 6 Años en Llegar &lpar;Y Cómo Cambia Todo&rpar;](https://dev.to/fdherrera/spring-la-feature-que-tardo-6-anos-en-llegar-y-como-cambia-todo-38i0)
-- [Elastic Container Service on AWS - How to Get Started Step-by-Step](https://dev.to/heyjoshlee/elastic-container-service-on-aws-how-to-get-started-step-by-step-5eff)
-- [Top 5 Aplikasi Terbaik untuk Muslim di 2026 &lpar;Wajib Dicoba!&rpar;](https://dev.to/cas8398/top-5-aplikasi-terbaik-untuk-muslim-di-2026-wajib-dicoba-23n3)
-- [The ideal way to prompt your AI coding assistant for 90% accuracy](https://dev.to/anita_ihuman/the-ideal-way-to-prompt-your-ai-coding-assistant-for-90-accuracy-1f09)
-- [How to Build a Personal Learning Dashboard Using AI Tools](https://dev.to/allenbailey25/how-to-build-a-personal-learning-dashboard-using-ai-tools-3d7f)
+- [Intelligent Request Queue Management in WebForms Core 2](https://dev.to/elanatframework/intelligent-request-queue-management-in-webforms-core-2-32jk)
+- [Nuxt Tutorial 2 - Components &amp; Pages](https://dev.to/aloisseckar/nuxt-tutorial-2-components-pages-432g)
+- [War of the words](https://dev.to/leon_lin_s/war-of-the-words-a27)
+- [Optical Flow: How Robots &lpar;and maybe your Phone&rpar; See Motion](https://dev.to/nicanor_korir/optical-flow-how-robots-and-maybe-your-phone-see-motion-19ca)
+- [🚀 Introducing ChatATP: The Universal Operating System for AI Agents](https://dev.to/samuelobinnachimdi/introducing-chatatp-the-universal-operating-system-for-ai-agents-5gpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
