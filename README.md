@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Flask App Across Multiple AWS Regions](https://dev.to/techwithhari/deploying-a-flask-app-across-multiple-aws-regions-305b)
-- [Bringing the Popular codeSTACKr Theme to IntelliJ IDEA](https://dev.to/imranjankm/bringing-the-popular-codestackr-theme-to-intellij-idea-4c7j)
-- [How we unified our Terraform module repositories](https://dev.to/tom-masson/nx-monorepo-how-we-unified-our-terraform-module-repositories-2h47)
-- [How to Clean Up a Messy AWS Account: A Step-by-Step Cloud Hygiene Guide](https://dev.to/addwebsolutionpvtltd/how-to-clean-up-a-messy-aws-account-a-step-by-step-cloud-hygiene-guide-20cd)
-- [The Collapse of the Web: The Sameness &amp; Death of Difference in Tech](https://dev.to/rockyessel/the-collapse-of-the-web-the-sameness-death-of-difference-in-tech-2gkg)
+- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
+- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83)
+- [building Banana AI](https://dev.to/232_123_ea31db9ef368c7c61/building-banana-ai-3ei0)
+- [SaijinOS Part 9 — Multi-Persona Co-Creation Protocol](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep)
+- [Anatomy of a Cloud Collapse: A Technical Deep-Dive on the AWS Outage of October 2025](https://dev.to/harshith_reddy_dev/anatomy-of-a-cloud-collapse-a-technical-deep-dive-on-the-aws-outage-of-october-2025-2mj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
