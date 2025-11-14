@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
-- [Time Boxing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/time-boxing-bite-size-article-39o6)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-30d1)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1578)
-- [The Complete Toolkit: Essential Tools, Platforms, and Resources Every Pump.fun Participant Needs](https://dev.to/hamd_writer_8c77d9c88c188/the-complete-toolkit-essential-tools-platforms-and-resources-every-pumpfun-participant-needs-9pb)
+- [Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More](https://dev.to/imdj/building-logic-apps-locally-with-vs-code-http-blob-queue-more-1agj)
+- [**Breaking the Data Silos in Federated Learning: The Rise of](https://dev.to/drcarlosruizviquez/breaking-the-data-silos-in-federated-learning-the-rise-of-2mi9)
+- [Sending Emails with Rust, Axum, and Resend: A Complete Guide](https://dev.to/mayu2008/sending-emails-with-rust-axum-and-resend-a-complete-guide-13pa)
+- [What happens when you type console.log&lpar;&rpar;?](https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p)
+- [Recent research in AI efficiency has led to a groundbreaking](https://dev.to/drcarlosruizviquez/recent-research-in-ai-efficiency-has-led-to-a-groundbreaking-2c9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
