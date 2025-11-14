@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Right Tool for the Job&quot; Stack: How I Built 8 Niche Sites](https://dev.to/ffteamnames/the-right-tool-for-the-job-stack-how-i-built-8-niche-sites-4i30)
-- [Automate NGINX Deployment on AWS EC2 Server using Bash Script](https://dev.to/taiwoakinbolaji/automate-nginx-deployment-on-aws-ec2-server-using-bash-script-5a92)
-- [Building an Enhanced PPO Trading Bot with Real-Time Data Sync and IBKR Integration](https://dev.to/jai_thumar/building-an-enhanced-ppo-trading-bot-with-real-time-data-sync-and-ibkr-integration-e0j)
-- [OmniNWM: Omniscient Driving Navigation World Models](https://dev.to/paperium/omninwm-omniscient-driving-navigation-world-models-ppi)
-- [👠 20년 만의 귀환, &lt;악마는 프라다를 입는다 2&gt;가 온다! 미란다와 앤드리아의 눈부신 재회 ✨](https://dev.to/docenty/20nyeon-manyi-gwihwan-ga-onda-mirandawa-aendeuriayi-nunbusin-jaehoe-2dlo)
+- [Multi-Modal Travel Planning Agent in Minutes](https://dev.to/aws/multi-modal-travel-planning-agent-in-minutes-3j2n)
+- [Boost Your Developer Workflow with GPT-5 Automations](https://dev.to/vicodev/boost-your-developer-workflow-with-gpt-5-automations-41i)
+- [How One Cross-Border E-Commerce Company Secured Its Payment System Using Apache + SafeLine WAF](https://dev.to/arina_cholee/how-one-cross-border-e-commerce-company-secured-its-payment-system-using-apache-safeline-waf-235f)
+- [🧑‍💻 If DevOps Were a Human… &lpar;You Already Know This Person 😅&rpar;](https://dev.to/alihajizadeh/if-devops-were-a-human-you-already-know-this-person--28n8)
+- [NVIDIA GeForce GTX 750 Ti 跑 faster-whisper](https://dev.to/dragon72463399/nvidia-geforce-gtx-750-ti-pao-faster-whisper-274j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
