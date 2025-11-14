@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-10d5)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-ne0)
-- [Excited](https://dev.to/gontorwon/excited-47ip)
+- [Gemini Canvas vs GPT-5: Which Creates the Best Presentation?](https://dev.to/ndabene/gemini-canvas-vs-gpt-5-which-creates-the-best-presentation-53cd)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-3dbg)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-255p)
+- [Java&#39;s Funny Little Heresies](https://dev.to/vulinh64/javas-funny-little-heresies-2cng)
+- [Smarter Testing with AI: How Test Case Creation and Data Management Are Evolving](https://dev.to/aio_tests_903984883a574e9/smarter-testing-with-ai-how-test-case-creation-and-data-management-are-evolving-p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
