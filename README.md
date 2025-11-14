@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
-- [Novel Drama Perfection: How The Betrayed Series&#39; Maddy &amp; Tobias Became the Ultimate Heartbreak Prescription](https://dev.to/em_trn_7e18ddad7a894433b/novel-drama-perfection-how-the-betrayed-series-maddy-tobias-became-the-ultimate-heartbreak-5d98)
-- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
-- [How To Integrate Native C++ Codes Into Arkts](https://dev.to/harmonyos/how-to-integrate-native-c-codes-into-arkts-3hde)
-- [Getting Marimo Up and Running on Windows with uv](https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982)
+- [Hey guys, just in case you missed this: I documented my experience building an open-source solution to improving the experience of front-end developers. Please check it out!](https://dev.to/olawalethefirst/hey-guys-just-in-case-you-missed-this-i-documented-my-experience-building-an-open-source-solution-3l13)
+- [How to Mount and Unmount Drives and Partitions in Linux](https://dev.to/serveravatar/how-to-mount-and-unmount-drives-and-partitions-in-linux-19oo)
+- [When a simple order update breaks Revolut Checkout workflow](https://dev.to/asoseil/when-a-simple-order-update-breaks-revolut-checkout-workflow-ocf)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-21jl)
+- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
