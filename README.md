@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
-- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
-- [Understanding XSS: A Beginner’s Guide for Developers and Pentesters](https://dev.to/alighasemi889/understanding-xss-a-beginners-guide-for-developers-and-pentesters-2knj)
-- [⚙️ Automate Tasks Easily with npm Pre and Post Scripts](https://dev.to/natarajan_c_k/automate-tasks-easily-with-npm-pre-and-post-scripts-25kj)
-- [OCaml in 5 Minutes: From Zero to &#39;Hello&#39;](https://dev.to/david2am/ocaml-in-5-minutes-from-zero-to-hello-42mm)
+- [Smart Pointers in C++: Managing Memory Safely](https://dev.to/min38/smart-pointers-in-c-managing-memory-safely-41ck)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2b93)
+- [How to Play Subway Surfers on PC: Full 2025 Setup Guide](https://dev.to/lyra786/how-to-play-subway-surfers-on-pc-full-2025-setup-guide-846)
+- [How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven.](https://dev.to/wangare_/how-to-connect-postgresql-to-power-bi-using-local-postgresql-andaiven-37aa)
+- [Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI &lpar;Full Source Code&rpar;](https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
