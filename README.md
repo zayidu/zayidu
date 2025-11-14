@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT 5.1 API Deep Dive](https://dev.to/alifar/gpt-51-api-deep-dive-151b)
-- [n8n Is Secretly Becoming the #1 Automation Tool](https://dev.to/devmastermind/n8n-is-secretly-becoming-the-1-automation-tool-jbb)
-- [How developers can cope with pressure while remaining calm and professional](https://dev.to/artemooon/how-developers-can-cope-with-pressure-while-remaining-calm-and-professional-52n8)
-- [TEXT vs BLOB in SQLite: Best Practices for Base64 Storage](https://dev.to/rijultp/text-vs-blob-in-sqlite-best-practices-for-base64-storage-2ef4)
-- [My Experience Creating CI Workflows and Contributing Tests to an Existing Project](https://dev.to/dharam_ghevariya_0d946c37/my-experience-creating-ci-workflows-and-contributing-tests-to-an-existing-project-3hpc)
+- [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
+- [Time Boxing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/time-boxing-bite-size-article-39o6)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-30d1)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1578)
+- [The Complete Toolkit: Essential Tools, Platforms, and Resources Every Pump.fun Participant Needs](https://dev.to/hamd_writer_8c77d9c88c188/the-complete-toolkit-essential-tools-platforms-and-resources-every-pumpfun-participant-needs-9pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
