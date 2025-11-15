@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ROBLOX made me think I sucked at making games.](https://dev.to/blankets-awful-posts/roblox-made-me-think-i-sucked-at-making-games-o0c)
-- [Meaning of passwordless authentication for beginners &lpar;and let&#39;s make it&rpar;](https://dev.to/jahongir2007/meaning-of-passwordless-authentication-for-beginners-and-lets-make-it-9l2)
-- [💼 Real-Time Collaboration: The Secret Weapon of Modern Project Management](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-collaboration-the-secret-weapon-of-modern-project-management-3ep2)
-- [✅ Task 1 — Initialize a Terraform project with backend and provider blocks](https://dev.to/latchudevops/task-1-initialize-a-terraform-project-with-backend-and-provider-blocks-1ia9)
-- [Architecting Large-Scale AWS Migrations Using AWS Application Migration Service &lpar;MGN&rpar; .](https://dev.to/kishore_karumanchi_acbc18/architecting-large-scale-aws-migrations-using-aws-application-migration-service-mgn--1idp)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
+- [🔐 Understanding WMI in Cybersecurity — A Simple Beginner’s Guide](https://dev.to/natarajan_c_k/understanding-wmi-in-cybersecurity-a-simple-beginners-guide-3hce)
+- [Backtesting Strategies: Why Historical Data Matters](https://dev.to/globridge-tech/backtesting-strategies-why-historical-data-matters-en1)
+- [QA VILLAIN PERCEPTION &amp; TEAM DYNAMICS](https://dev.to/qajourney/qa-villain-perception-team-dynamics-4pd7)
+- [How AI Transformed My Resume &lpar;and Landed Me More Interviews in 2025&rpar; — A Deep Dive with Real Prompts](https://dev.to/mess_anti_25613b50c3a1161/how-ai-transformed-my-resume-and-landed-me-more-interviews-in-2025-a-deep-dive-with-real-prompts-62l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
