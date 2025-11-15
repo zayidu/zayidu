@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Only SOLID + Clean Code JavaScript Guide You Need in 2025](https://dev.to/clara_ashford_cb1c74e7d57/the-only-solid-clean-code-javascript-guide-you-need-in-2025-5bah)
-- [HOW TO: Run Spark on Kubernetes with AWS EMR on EKS &lpar;2025&rpar;](https://dev.to/chaos-genius/how-to-run-spark-on-kubernetes-with-aws-emr-on-eks-2025-28jo)
-- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
-- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
-- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
+- [How to Divide Long Articles on Blogger to Avoid Boring](https://dev.to/hayatul_makki_1c7007a1488/how-to-divide-long-articles-on-blogger-to-avoid-boring-mb2)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566)
+- [Web3!](https://dev.to/riettah/web3-g69)
+- [Build a Secure Blazor WebAssembly App with ASP.NET Core 10 and JWT Authentication](https://dev.to/djamware_tutorial_eba1a61/build-a-secure-blazor-webassembly-app-with-aspnet-core-10-and-jwt-authentication-3e7c)
+- [Stop Casting a Wide Net. Start Spear-Phishing: A Developer&#39;s Guide to Account-Based Marketing](https://dev.to/michaelaiglobal/stop-casting-a-wide-net-start-spear-phishing-a-developers-guide-to-account-based-marketing-15p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
