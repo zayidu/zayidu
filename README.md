@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
-- [Build in Public: Week 2. How Do People Even Find Influencers?](https://dev.to/olgabraginskaya/build-in-public-week-2-how-do-people-even-find-influencers-40dn)
-- [From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story](https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3)
-- [🔥 LLM Interview Series&lpar;5&rpar;: Self-supervised Learning and Next-token Prediction](https://dev.to/jackm_345442a09fb53b/llm-interview-series5-self-supervised-learning-and-next-token-prediction-4kl)
-- [IPS vs TN Displays in 2025: How to Choose the Right Panel for Work, Gaming, and Daily Use](https://dev.to/jasonliu112/ips-vs-tn-displays-in-2025-how-to-choose-the-right-panel-for-work-gaming-and-daily-use-1gd3)
+- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
+- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
+- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
+- [react](https://dev.to/marat_nersesyan_2b61cfda6/react-4993)
+- [My submission for DEV Education Track](https://dev.to/js_cipher/my-submission-for-dev-education-track-2ffp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
